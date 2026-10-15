@@ -33,6 +33,9 @@ status: "new"
 > Sie forderte mich auf, meine Meinung zu sagen.
 > *She asked me to give my opinion.*
 
+**Phrases & Expressions:**
+- **Sie forderte mich auf, meine Meinung zu sagen** — *She asked me to give my opinion* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

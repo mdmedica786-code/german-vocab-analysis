@@ -33,6 +33,9 @@ status: "new"
 > Am Wochenende können wir faulenzen.
 > *At the weekend we can laze around.*
 
+**Phrases & Expressions:**
+- **Am Wochenende können wir faulenzen** — *At the weekend we can laze around* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 1a ÜB (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

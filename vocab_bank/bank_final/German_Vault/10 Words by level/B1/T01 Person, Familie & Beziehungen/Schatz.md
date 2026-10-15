@@ -34,6 +34,9 @@ status: "new"
 > Hallo, mein Schatz!
 > *Hello, my darling!*
 
+**Phrases & Expressions:**
+- **Hallo, mein Schatz** — *Hello, my darling* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 1a ÜB (Zwischenmenschliches)
 <!-- bank:end -->
 

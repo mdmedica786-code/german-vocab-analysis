@@ -35,6 +35,9 @@ status: "new"
 > Bella ist ein Fan von Rammstein.
 > *Bella is a fan of Rammstein.*
 
+**Phrases & Expressions:**
+- **Bella ist ein Fan von Rammstein** — *Bella is a fan of Rammstein* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8b (Leben in der Stadt) · Goethe word list A2
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Im Januar ist es sehr kalt.
 > *It is very cold in January.*
 
+**Phrases & Expressions:**
+- **Im Januar ist es sehr kalt** — *It is very cold in January* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

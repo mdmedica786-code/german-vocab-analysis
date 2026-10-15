@@ -33,6 +33,9 @@ status: "new"
 > Wenn du kommst, backe ich einen Kuchen.
 > *If you come, I'll bake a cake.*
 
+**Phrases & Expressions:**
+- **Wenn du kommst, backe ich einen Kuchen** — *If you come, I'll bake a cake* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 1b ÜB (Wie die Zeit vergeht!) · Goethe word list A2
 <!-- bank:end -->
 

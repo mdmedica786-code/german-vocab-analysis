@@ -29,6 +29,11 @@ status: "new"
 > Wir haben über Jahre hinweg zusammengearbeitet.
 > *We have worked together over the years.*
 
+**Phrases & Expressions:**
+- **über etwas hinweg** — *away; over (time or obstacles)*
+- **über die Jahre hinweg** — *away; over (time or obstacles)*
+- **über alle Grenzen hinweg** — *away; over (time or obstacles)*
+
 **Collocations**
 - über etwas hinweg
 - über die Jahre hinweg

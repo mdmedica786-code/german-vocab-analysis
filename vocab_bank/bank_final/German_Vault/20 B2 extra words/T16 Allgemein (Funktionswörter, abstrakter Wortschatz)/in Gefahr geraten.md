@@ -26,6 +26,10 @@ status: "new"
 > Bei dem Sturm sind mehrere Boote in Gefahr geraten.
 > *In the storm several boats got into danger.*
 
+**Phrases & Expressions:**
+- **in Gefahr bringen** — *to get into danger*
+- **in Schwierigkeiten geraten** — *to get into danger*
+
 **Collocations**
 - in Gefahr bringen
 - in Schwierigkeiten geraten

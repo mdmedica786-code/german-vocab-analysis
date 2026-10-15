@@ -33,6 +33,11 @@ status: "new"
 > Cybermobbing kann für die Opfer schwere Folgen haben.
 > *Cyberbullying can have serious consequences for the victims.*
 
+**Phrases & Expressions:**
+- **Opfer von Cybermobbing** — *cyberbullying*
+- **Cybermobbing verhindern** — *cyberbullying*
+- **gegen Cybermobbing vorgehen** — *cyberbullying*
+
 **Collocations**
 - Opfer von Cybermobbing
 - Cybermobbing verhindern

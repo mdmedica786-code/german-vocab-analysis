@@ -33,6 +33,11 @@ status: "new"
 > Am Zebrastreifen müssen Autos anhalten.
 > *Cars have to stop at a zebra crossing.*
 
+**Phrases & Expressions:**
+- **über den Zebrastreifen gehen** — *zebra crossing*
+- **am Zebrastreifen warten** — *zebra crossing*
+- **den Zebrastreifen benutzen** — *zebra crossing*
+
 **Collocations**
 - über den Zebrastreifen gehen
 - am Zebrastreifen warten

@@ -33,6 +33,11 @@ status: "new"
 > Die Rahmenbedingungen für Start-ups haben sich verbessert.
 > *The general conditions for start-ups have improved.*
 
+**Phrases & Expressions:**
+- **Rahmenbedingungen schaffen** — *general condition; framework*
+- **günstige Rahmenbedingungen** — *general condition; framework*
+- **gesetzliche Rahmenbedingungen** — *general condition; framework*
+
 **Collocations**
 - Rahmenbedingungen schaffen
 - günstige Rahmenbedingungen

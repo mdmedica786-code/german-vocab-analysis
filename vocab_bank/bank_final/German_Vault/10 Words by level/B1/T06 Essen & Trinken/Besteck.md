@@ -34,6 +34,9 @@ status: "new"
 > Das Besteck liegt neben dem Teller.
 > *The cutlery is next to the plate.*
 
+**Phrases & Expressions:**
+- **Das Besteck liegt neben dem Teller** — *The cutlery is next to the plate* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 6a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

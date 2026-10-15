@@ -14,6 +14,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Kind ansprechen
 
 - **Hallo, wie heißt du denn?** ⭐ — Hello, what's your name?
+  - Words: [[heißen]] · [[hallo]] · [[denn]]
   - Hallo, wie heißt du denn? Ich bin die Ärztin und möchte mir dein Knie ansehen. *(Hello, what's your name? I'm the doctor and would like to look at your knee.)*
   - A2 · neutral · speaker: Arzt · to: Patient
   - Grammar: du-Form bei Kindern
@@ -22,6 +23,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Kind beruhigen
 
 - **Du musst keine Angst haben, das tut nicht weh.** ⭐ — You don't need to be afraid, it doesn't hurt.
+  - Words: [[Angst]] · [[leidtun]] · [[tun]] · [[wehtun]] · [[weh]] · [[guttun]] · [[leid tun]] · [[antun]]
   - Du musst keine Angst haben, das tut nicht weh. Es kitzelt nur ein bisschen. *(You don't need to be afraid, it doesn't hurt. It only tickles a little.)*
   - A2 · neutral · speaker: Arzt · to: Patient
   - Grammar: du-Form; müssen mit Verneinung = nicht brauchen
@@ -30,6 +32,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Kind untersuchen
 
 - **Jetzt schauen wir mal in deinen Hals. Mach bitte den Mund weit auf.** ⭐ — Now let's have a look in your throat. Please open your mouth wide.
+  - Words: [[bitte (interjection)]] · [[jetzt]] · [[Mal]] · [[bitten]] · [[Hals]] · [[Mund]] · [[Bitte]] · [[weit]]
   - Jetzt schauen wir mal in deinen Hals. Mach bitte den Mund weit auf und sag „Aaah“. *(Now let's have a look in your throat. Please open your mouth wide and say "ahh".)*
   - A2 · neutral · speaker: Arzt · to: Patient
   - Grammar: Imperativ du-Form: Mach auf
@@ -38,6 +41,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Kind loben
 
 - **Das hast du ganz toll gemacht!** — You did that really well!
+  - Words: [[machen]] · [[ganz]] · [[toll]] · [[sauber machen]] · [[gemacht sein]]
   - Das hast du ganz toll gemacht! Jetzt sind wir schon fertig. *(You did that really well! Now we're already done.)*
   - A2 · neutral · speaker: Arzt · to: Patient
   - Grammar: Perfekt mit haben
@@ -46,24 +50,28 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Eltern befragen
 
 - **Wie lange hat Ihr Kind schon Fieber?** ⭐ — How long has your child had a fever?
+  - Words: [[lang]] · [[schon]] · [[lange]] · [[Kind]] · [[Fieber]]
   - Wie lange hat Ihr Kind schon Fieber, und wie hoch war die höchste Temperatur? *(How long has your child had a fever, and how high was the highest temperature?)*
   - B1 · formal · speaker: Arzt · to: Angehörige
   - Grammar: schon = bis jetzt
   - Variants: Seit wann ist Ihr Kind krank? | Hat Ihr Kind Fieber gemessen?
   - Exam: FSP; Berufsalltag
 - **Wie hat sich Ihr Kind bisher entwickelt?** ⭐ — How has your child developed so far?
+  - Words: [[entwickeln]] · [[bisher]] · [[Kind]] · [[weiterentwickeln]] · [[mitentwickeln]]
   - Wie hat sich Ihr Kind bisher entwickelt? Hat es früh laufen und sprechen gelernt? *(How has your child developed so far? Did it learn to walk and talk early?)*
   - B2 · formal · speaker: Arzt · to: Angehörige
   - Grammar: Perfekt von sich entwickeln
   - Variants: Gab es Auffälligkeiten in der Entwicklung? | Wann hat Ihr Kind laufen gelernt?
   - Exam: FSP; Berufsalltag
 - **Sind die Impfungen Ihres Kindes vollständig?** ⭐ — Are your child's vaccinations complete?
+  - Words: [[Kind]] · [[vollständig]]
   - Sind die Impfungen Ihres Kindes vollständig? Haben Sie das Impfbuch dabei? *(Are your child's vaccinations complete? Do you have the vaccination record with you?)*
   - B1 · formal · speaker: Arzt · to: Angehörige
   - Grammar: Genitiv: Ihres Kindes
   - Variants: Ist Ihr Kind gegen Masern geimpft? | Bringen Sie bitte das Impfbuch mit.
   - Exam: FSP; Berufsalltag
 - **Wie ernährt sich Ihr Kind? Isst es gut?** ⭐ — How does your child eat? Does it eat well?
+  - Words: [[gut (adjective)]] · [[essen (verb)]] · [[Kind]] · [[ernähren]] · [[Gut]] · [[guttun]] · [[gutschreiben]]
   - Wie ernährt sich Ihr Kind? Isst es gut, und trinkt es ausreichend? *(How does your child eat? Does it eat well and drink enough?)*
   - B1 · formal · speaker: Arzt · to: Angehörige
   - Grammar: sich ernähren
@@ -72,6 +80,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Ältere Patienten ansprechen
 
 - **Ich spreche langsam und deutlich, damit Sie mich gut verstehen.** ⭐ — I'll speak slowly and clearly so that you can understand me well.
+  - Words: [[gut (adjective)]] · [[damit]] · [[sprechen]] · [[langsam]] · [[verstehen]] · [[deutlich]] · [[Gut]] · [[guttun]]
   - Ich spreche langsam und deutlich, damit Sie mich gut verstehen. *(I'll speak slowly and clearly so that you can understand me well.)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: damit-Satz: Verb am Ende
@@ -80,6 +89,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Hilfsmittel erfragen
 
 - **Haben Sie ein Hörgerät oder eine Brille dabei?** ⭐ — Do you have a hearing aid or glasses with you?
+  - Words: [[dabei]] · [[dabei sein]] · [[dabei haben]] · [[dabeihaben]] · [[Brille]]
   - Haben Sie ein Hörgerät oder eine Brille dabei? Dann setzen Sie sie bitte auf. *(Do you have a hearing aid or glasses with you? Then please put them on.)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: dabeihaben: trennbar
@@ -88,6 +98,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Ältere Patienten ansprechen
 
 - **Können Sie allein aufstehen, oder brauchen Sie Hilfe?** ⭐ — Can you get up on your own, or do you need help?
+  - Words: [[aufstehen]] · [[brauchen]] · [[allein]] · [[Hilfe]] · [[können]]
   - Können Sie allein aufstehen, oder brauchen Sie Hilfe dabei? *(Can you get up on your own, or do you need help with that?)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: aufstehen: trennbar
@@ -96,12 +107,14 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Pflege und Angehörige
 
 - **Wer kümmert sich um Sie zu Hause?** — Who takes care of you at home?
+  - Words: [[kümmern]] · [[wer]]
   - Wer kümmert sich um Sie zu Hause? Haben Sie Hilfe bei Einkäufen und Medikamenten? *(Who takes care of you at home? Do you have help with shopping and medication?)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: sich kümmern um + Akkusativ
   - Variants: Sind Sie zu Hause versorgt? | Bekommen Sie Unterstützung von einem Pflegedienst?
   - Exam: FSP; Berufsalltag
 - **Wir können einen Pflegedienst für Sie organisieren.** — We can arrange a care service for you.
+  - Words: [[können]] · [[organisieren]]
   - Wir können einen Pflegedienst für Sie organisieren, wenn Sie das möchten. *(We can arrange a care service for you if you would like.)*
   - B2 · formal · speaker: Arzt · to: Patient
   - Grammar: organisieren für + Akkusativ
@@ -110,6 +123,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Sturzgefahr besprechen
 
 - **Sind Sie in letzter Zeit einmal gestürzt?** — Have you fallen at any time recently?
+  - Words: [[Zeit]] · [[letzte (adjective)]] · [[einmal]] · [[stürzen]]
   - Sind Sie in letzter Zeit einmal gestürzt? Wie ist das passiert? *(Have you fallen at any time recently? How did it happen?)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: stürzen: Perfekt mit sein
@@ -118,6 +132,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Eltern beruhigen
 
 - **Ihr Kind hat nur eine harmlose Erkältung, Sie müssen sich keine Sorgen machen.** — Your child only has a harmless cold; you don't need to worry.
+  - Words: [[machen]] · [[sorgen]] · [[Kind]] · [[Sorge]] · [[harmlos]] · [[Erkältung]] · [[müssen]]
   - Ihr Kind hat nur eine harmlose Erkältung, Sie müssen sich keine Sorgen machen. *(Your child only has a harmless cold; you don't need to worry.)*
   - B1 · formal · speaker: Arzt · to: Angehörige
   - Grammar: sich Sorgen machen
@@ -126,6 +141,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Eltern beraten
 
 - **Geben Sie Ihrem Kind viel zu trinken und lassen Sie es sich ausruhen.** — Give your child plenty to drink and let it rest.
+  - Words: [[lassen]] · [[geben]] · [[viel]] · [[trinken]] · [[Kind]] · [[ausruhen]] · [[sich etwas gefallen lassen]] · [[sich scheiden lassen]]
   - Geben Sie Ihrem Kind viel zu trinken und lassen Sie es sich ausruhen. *(Give your child plenty to drink and let it rest.)*
   - B1 · formal · speaker: Arzt · to: Angehörige
   - Grammar: lassen + Infinitiv; Dativ: Ihrem Kind

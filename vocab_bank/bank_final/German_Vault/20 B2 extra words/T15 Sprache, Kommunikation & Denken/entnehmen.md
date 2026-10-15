@@ -31,6 +31,11 @@ status: "new"
 > Dem Text kann man entnehmen, dass der Autor skeptisch ist.
 > *From the text one can gather that the author is sceptical.*
 
+**Phrases & Expressions:**
+- **einem Text etwas entnehmen** — *to take from; to gather (from)*
+- **daraus entnehmen, dass** — *to take from; to gather (from)*
+- **Geld entnehmen** — *to take from; to gather (from)*
+
 **Collocations**
 - einem Text etwas entnehmen
 - daraus entnehmen, dass

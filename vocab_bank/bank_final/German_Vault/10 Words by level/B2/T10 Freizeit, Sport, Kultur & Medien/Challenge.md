@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Challenge im Internet wurde schnell beliebt.
 > *The challenge on the internet quickly became popular.*
+
+**Phrases & Expressions:**
+- **Die Challenge im Internet wurde schnell beliebt** — *The challenge on the internet quickly became popular* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

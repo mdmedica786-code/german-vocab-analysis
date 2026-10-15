@@ -33,6 +33,9 @@ status: "new"
 > Hat der Hund schon etwas zu fressen bekommen?
 > *Has the dog already been given something to eat?*
 
+**Phrases & Expressions:**
+- **Hat der Hund schon etwas zu fressen bekommen** — *Has the dog already been given something to eat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12c (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

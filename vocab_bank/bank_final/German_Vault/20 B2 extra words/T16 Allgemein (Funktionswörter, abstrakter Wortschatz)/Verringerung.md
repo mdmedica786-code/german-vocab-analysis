@@ -33,6 +33,11 @@ status: "new"
 > Die Verringerung der Kosten war ein Erfolg.
 > *The reduction of costs was a success.*
 
+**Phrases & Expressions:**
+- **die Verringerung der Kosten** — *reduction; decrease*
+- **eine deutliche Verringerung** — *reduction; decrease*
+- **zur Verringerung beitragen** — *reduction; decrease*
+
 **Collocations**
 - die Verringerung der Kosten
 - eine deutliche Verringerung

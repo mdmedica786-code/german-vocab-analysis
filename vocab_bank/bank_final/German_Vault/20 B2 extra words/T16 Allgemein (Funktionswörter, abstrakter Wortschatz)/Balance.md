@@ -33,6 +33,11 @@ status: "new"
 > Sie sucht die Balance zwischen Arbeit und Familie.
 > *She is looking for the balance between work and family.*
 
+**Phrases & Expressions:**
+- **die Balance halten** — *balance; equilibrium*
+- **die Balance verlieren** — *balance; equilibrium*
+- **Balance zwischen Beruf und Privatleben** — *balance; equilibrium*
+
 **Collocations**
 - die Balance halten
 - die Balance verlieren

@@ -34,6 +34,9 @@ status: "new"
 > Im Schuhladen probiere ich viele Schuhe an.
 > *In the shoe shop I try on many shoes.*
 
+**Phrases & Expressions:**
+- **Im Schuhladen probiere ich viele Schuhe an** — *In the shoe shop I try on many shoes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

@@ -31,6 +31,10 @@ status: "new"
 > Sammeln Sie freie Assoziationen.
 > *Collect free associations.*
 
+**Phrases & Expressions:**
+- **im Freien** — outdoors *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **Bitte machen Sie den Oberkörper frei.** — Please undress your upper body. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Sich frei machen]] · A2)*
+
 **Source:** Netzwerk neu A1 K4 10c (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

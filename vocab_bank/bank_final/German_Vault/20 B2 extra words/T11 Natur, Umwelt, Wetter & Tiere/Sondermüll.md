@@ -33,6 +33,11 @@ status: "new"
 > Batterien und Farben gehören zum Sondermüll.
 > *Batteries and paints count as hazardous waste.*
 
+**Phrases & Expressions:**
+- **Sondermüll entsorgen** — *hazardous waste*
+- **Sondermüll abgeben** — *hazardous waste*
+- **giftiger Sondermüll** — *hazardous waste*
+
 **Collocations**
 - Sondermüll entsorgen
 - Sondermüll abgeben

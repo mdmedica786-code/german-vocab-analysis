@@ -31,6 +31,11 @@ status: "new"
 > Die Zeitung hat einen Skandal enthüllt.
 > *The newspaper revealed a scandal.*
 
+**Phrases & Expressions:**
+- **ein Geheimnis enthüllen** — *to reveal; to unveil*
+- **ein Denkmal enthüllen** — *to reveal; to unveil*
+- **Einzelheiten enthüllen** — *to reveal; to unveil*
+
 **Collocations**
 - ein Geheimnis enthüllen
 - ein Denkmal enthüllen

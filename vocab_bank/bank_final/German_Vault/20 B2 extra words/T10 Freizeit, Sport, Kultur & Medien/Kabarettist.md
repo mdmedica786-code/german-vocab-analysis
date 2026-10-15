@@ -33,6 +33,11 @@ status: "new"
 > Der Kabarettist kritisiert die Politik mit viel Humor.
 > *The cabaret artist criticises politics with a lot of humour.*
 
+**Phrases & Expressions:**
+- **ein bekannter Kabarettist** — *cabaret artist (male); satirist*
+- **als Kabarettist auftreten** — *cabaret artist (male); satirist*
+- **der Kabarettist spielt** — *cabaret artist (male); satirist*
+
 **Collocations**
 - ein bekannter Kabarettist
 - als Kabarettist auftreten

@@ -29,6 +29,11 @@ status: "new"
 > Seine Handschrift ist kaum lesbar.
 > *His handwriting is barely legible.*
 
+**Phrases & Expressions:**
+- **gut lesbar** — *legible; readable*
+- **kaum lesbar** — *legible; readable*
+- **ein lesbarer Text** — *legible; readable*
+
 **Collocations**
 - gut lesbar
 - kaum lesbar

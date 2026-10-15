@@ -32,6 +32,10 @@ status: "new"
 > Nicht so laut! Das Baby schläft.
 > *Not so loud! The baby is sleeping.*
 
+**Phrases & Expressions:**
+- **Laut einer aktuellen Umfrage ...** — According to a recent survey ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Quellen nennen]] · B2)*
+- **Laut aktuellen Medienberichten ...** — According to media reports ... *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Quelle distanziert wiedergeben]] · B2)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

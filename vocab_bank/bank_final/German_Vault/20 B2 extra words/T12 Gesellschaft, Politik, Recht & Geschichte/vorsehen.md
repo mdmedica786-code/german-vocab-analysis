@@ -32,6 +32,14 @@ status: "new"
 > Das Gesetz sieht eine Übergangsfrist vor.
 > *The law provides for a transition period.*
 
+**Phrases & Expressions:**
+- **es sieht aus, als ob ...** — it looks as if ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **es sieht so aus, als ob ...** — it looks as if ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Er/Sie sieht ... aus.** — He/she looks ... *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Person beschreiben]] · B1)*
+- **Wie sieht die Vergütung aus?** — What does the remuneration look like? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Gehalt ansprechen]] · B2)*
+- **vorgesehen sein für** — *to provide for; to plan*
+- **eine Regelung vorsehen** — *to provide for; to plan*
+
 **Collocations**
 - vorgesehen sein für
 - eine Regelung vorsehen

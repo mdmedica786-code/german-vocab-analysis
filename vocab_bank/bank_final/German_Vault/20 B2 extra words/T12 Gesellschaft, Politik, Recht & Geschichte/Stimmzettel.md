@@ -33,6 +33,11 @@ status: "new"
 > Der Stimmzettel wurde in die Urne geworfen.
 > *The ballot paper was put into the ballot box.*
 
+**Phrases & Expressions:**
+- **den Stimmzettel ausfüllen** — *ballot paper*
+- **ungültiger Stimmzettel** — *ballot paper*
+- **Stimmzettel abgeben** — *ballot paper*
+
 **Collocations**
 - den Stimmzettel ausfüllen
 - ungültiger Stimmzettel

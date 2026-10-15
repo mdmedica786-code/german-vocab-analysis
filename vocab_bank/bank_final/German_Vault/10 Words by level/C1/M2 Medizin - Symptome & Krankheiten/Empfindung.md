@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Patient beschreibt eine Empfindung von Taubheit.
 > *The patient describes a sensation of numbness.*
+
+**Phrases & Expressions:**
+- **Der Patient beschreibt eine Empfindung von Taubheit** — *The patient describes a sensation of numbness* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

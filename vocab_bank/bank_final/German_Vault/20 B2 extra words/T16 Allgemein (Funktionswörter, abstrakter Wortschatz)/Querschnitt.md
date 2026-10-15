@@ -33,6 +33,11 @@ status: "new"
 > Die Umfrage zeigt einen Querschnitt der Bevölkerung.
 > *The survey shows a cross-section of the population.*
 
+**Phrases & Expressions:**
+- **ein Querschnitt durch** — *cross-section; overview*
+- **im Querschnitt** — *cross-section; overview*
+- **der Querschnitt der Bevölkerung** — *cross-section; overview*
+
 **Collocations**
 - ein Querschnitt durch
 - im Querschnitt

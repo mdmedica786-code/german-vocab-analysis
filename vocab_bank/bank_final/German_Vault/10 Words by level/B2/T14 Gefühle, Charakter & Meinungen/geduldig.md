@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Lehrerin ist sehr geduldig.
 > *The teacher is very patient.*
+
+**Phrases & Expressions:**
+- **Die Lehrerin ist sehr geduldig** — *The teacher is very patient* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

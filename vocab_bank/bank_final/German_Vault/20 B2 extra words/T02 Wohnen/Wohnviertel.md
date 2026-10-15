@@ -33,6 +33,11 @@ status: "new"
 > Wir suchen eine Wohnung in einem ruhigen Wohnviertel.
 > *We are looking for a flat in a quiet residential area.*
 
+**Phrases & Expressions:**
+- **ein ruhiges Wohnviertel** — *residential area; neighbourhood*
+- **ein beliebtes Wohnviertel** — *residential area; neighbourhood*
+- **im Wohnviertel wohnen** — *residential area; neighbourhood*
+
 **Collocations**
 - ein ruhiges Wohnviertel
 - ein beliebtes Wohnviertel

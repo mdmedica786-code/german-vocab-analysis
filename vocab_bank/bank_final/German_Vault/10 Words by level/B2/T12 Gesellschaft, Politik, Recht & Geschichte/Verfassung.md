@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Verfassung garantiert die Meinungsfreiheit.
 > *The constitution guarantees freedom of opinion.*
+
+**Phrases & Expressions:**
+- **Die Verfassung garantiert die Meinungsfreiheit** — *The constitution guarantees freedom of opinion* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

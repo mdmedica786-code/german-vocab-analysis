@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Sonne geht am Horizont unter.
 > *The sun sets on the horizon.*
+
+**Phrases & Expressions:**
+- **Die Sonne geht am Horizont unter** — *The sun sets on the horizon* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

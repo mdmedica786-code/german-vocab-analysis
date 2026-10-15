@@ -34,6 +34,9 @@ status: "new"
 > Auf dem Tisch liegt ein Stapel Bücher.
 > *There is a pile of books on the table.*
 
+**Phrases & Expressions:**
+- **Auf dem Tisch liegt ein Stapel Bücher** — *There is a pile of books on the table* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10c (Alltag und Familie)
 <!-- bank:end -->
 

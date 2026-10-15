@@ -34,6 +34,9 @@ status: "new"
 > Zum Frühstück esse ich Quark mit Obst.
 > *For breakfast I eat quark with fruit.*
 
+**Phrases & Expressions:**
+- **Zum Frühstück esse ich Quark mit Obst** — *For breakfast I eat quark with fruit* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander)
 <!-- bank:end -->
 

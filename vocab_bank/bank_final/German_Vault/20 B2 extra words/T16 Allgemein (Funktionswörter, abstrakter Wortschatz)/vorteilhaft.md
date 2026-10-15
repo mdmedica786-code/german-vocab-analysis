@@ -29,6 +29,11 @@ status: "new"
 > Eine frühe Anmeldung ist vorteilhaft.
 > *An early registration is advantageous.*
 
+**Phrases & Expressions:**
+- **vorteilhaft sein** — *advantageous; beneficial*
+- **vorteilhaft aussehen** — *advantageous; beneficial*
+- **eine vorteilhafte Lösung** — *advantageous; beneficial*
+
 **Collocations**
 - vorteilhaft sein
 - vorteilhaft aussehen

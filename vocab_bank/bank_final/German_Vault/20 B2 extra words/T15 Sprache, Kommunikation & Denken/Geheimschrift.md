@@ -33,6 +33,11 @@ status: "new"
 > Die Kinder schreiben sich Briefe in Geheimschrift.
 > *The children write letters to each other in secret code.*
 
+**Phrases & Expressions:**
+- **in Geheimschrift schreiben** — *secret code; cipher*
+- **eine Geheimschrift erfinden** — *secret code; cipher*
+- **eine Geheimschrift entschlüsseln** — *secret code; cipher*
+
 **Collocations**
 - in Geheimschrift schreiben
 - eine Geheimschrift erfinden

@@ -26,6 +26,10 @@ status: "new"
 > Die Professorin hält morgen einen Vortrag über Klimaforschung.
 > *The professor is giving a lecture on climate research tomorrow.*
 
+**Phrases & Expressions:**
+- **vor Publikum einen Vortrag halten** — *to give a lecture*
+- **einen Vortrag über etwas halten** — *to give a lecture*
+
 **Collocations**
 - vor Publikum einen Vortrag halten
 - einen Vortrag über etwas halten

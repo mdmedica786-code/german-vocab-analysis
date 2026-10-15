@@ -30,6 +30,12 @@ status: "new"
 > Die gesellschaftliche Entwicklung ist schnell.
 > *Social development is fast.*
 
+**Phrases & Expressions:**
+- **gesellschaftliche Probleme** — *social*
+- **gesellschaftlich akzeptiert** — *social*
+- **gesellschaftliche Veränderung** — *social*
+- **gesellschaftliches Leben** — *social*
+
 **Collocations**
 - gesellschaftliche Probleme
 - gesellschaftlich akzeptiert

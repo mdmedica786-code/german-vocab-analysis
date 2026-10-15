@@ -30,6 +30,9 @@ status: "new"
 > Wir wohnen in einer ländlichen Gegend.
 > *We live in a rural area.*
 
+**Phrases & Expressions:**
+- **Wir wohnen in einer ländlichen Gegend** — *We live in a rural area* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?)
 <!-- bank:end -->
 

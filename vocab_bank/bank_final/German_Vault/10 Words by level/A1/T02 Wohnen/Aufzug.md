@@ -35,6 +35,9 @@ status: "new"
 > In diesem Haus gibt es keinen Aufzug.
 > *There is no lift in this building.*
 
+**Phrases & Expressions:**
+- **In diesem Haus gibt es keinen Aufzug** — *There is no lift in this building* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 9c (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

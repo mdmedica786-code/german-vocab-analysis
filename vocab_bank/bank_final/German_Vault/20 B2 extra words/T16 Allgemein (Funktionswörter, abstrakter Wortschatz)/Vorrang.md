@@ -33,6 +33,11 @@ status: "new"
 > Die Sicherheit hat Vorrang vor allen anderen Aspekten.
 > *Safety takes priority over all other aspects.*
 
+**Phrases & Expressions:**
+- **Vorrang haben vor + Dat.** — *priority; precedence*
+- **den Vorrang geben** — *priority; precedence*
+- **Vorrang einräumen** — *priority; precedence*
+
 **Collocations**
 - Vorrang haben vor + Dat.
 - den Vorrang geben

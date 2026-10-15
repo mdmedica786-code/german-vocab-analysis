@@ -35,6 +35,9 @@ status: "new"
 > Im Juni beginnen die Sommerferien.
 > *The summer holidays begin in June.*
 
+**Phrases & Expressions:**
+- **Im Juni beginnen die Sommerferien** — *The summer holidays begin in June* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

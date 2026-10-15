@@ -33,6 +33,11 @@ status: "new"
 > Leih mir bitte deinen Radiergummi, ich habe mich verschrieben.
 > *Please lend me your rubber; I made a writing mistake.*
 
+**Phrases & Expressions:**
+- **mit dem Radiergummi ausradieren** — *rubber; eraser*
+- **den Radiergummi benutzen** — *rubber; eraser*
+- **Bleistift und Radiergummi** — *rubber; eraser*
+
 **Collocations**
 - mit dem Radiergummi ausradieren
 - den Radiergummi benutzen

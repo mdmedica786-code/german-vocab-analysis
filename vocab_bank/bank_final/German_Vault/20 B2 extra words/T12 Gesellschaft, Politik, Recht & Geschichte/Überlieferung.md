@@ -33,6 +33,11 @@ status: "new"
 > Nach der Überlieferung wurde die Stadt im 8. Jahrhundert gegründet.
 > *According to tradition the city was founded in the 8th century.*
 
+**Phrases & Expressions:**
+- **nach der Überlieferung** — *tradition; handing down*
+- **mündliche Überlieferung** — *tradition; handing down*
+- **die Überlieferung von Wissen** — *tradition; handing down*
+
 **Collocations**
 - nach der Überlieferung
 - mündliche Überlieferung

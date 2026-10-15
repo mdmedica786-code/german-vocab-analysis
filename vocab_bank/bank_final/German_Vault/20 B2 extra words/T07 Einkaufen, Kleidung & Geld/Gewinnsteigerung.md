@@ -33,6 +33,11 @@ status: "new"
 > Die Firma meldet eine deutliche Gewinnsteigerung.
 > *The company reports a clear increase in profits.*
 
+**Phrases & Expressions:**
+- **eine Gewinnsteigerung erzielen** — *increase in profits*
+- **eine Gewinnsteigerung von zehn Prozent** — *increase in profits*
+- **eine Gewinnsteigerung melden** — *increase in profits*
+
 **Collocations**
 - eine Gewinnsteigerung erzielen
 - eine Gewinnsteigerung von zehn Prozent

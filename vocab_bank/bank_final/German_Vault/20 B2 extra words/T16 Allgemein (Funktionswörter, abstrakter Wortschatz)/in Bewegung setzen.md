@@ -26,6 +26,10 @@ status: "new"
 > Der Skandal setzte die Politik in Bewegung.
 > *The scandal set politics in motion.*
 
+**Phrases & Expressions:**
+- **sich in Bewegung setzen** — *to set in motion*
+- **Himmel und Hölle in Bewegung setzen** — *to set in motion*
+
 **Collocations**
 - sich in Bewegung setzen
 - Himmel und Hölle in Bewegung setzen

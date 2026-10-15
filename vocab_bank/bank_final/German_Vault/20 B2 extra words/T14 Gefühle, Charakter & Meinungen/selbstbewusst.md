@@ -26,6 +26,11 @@ status: "new"
 > Sie tritt vor Publikum sehr selbstbewusst auf.
 > *She appears very self-confident in front of an audience.*
 
+**Phrases & Expressions:**
+- **selbstbewusst auftreten** — *self-confident*
+- **ein selbstbewusster Mensch** — *self-confident*
+- **selbstbewusst wirken** — *self-confident*
+
 **Collocations**
 - selbstbewusst auftreten
 - ein selbstbewusster Mensch

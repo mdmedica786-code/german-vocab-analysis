@@ -36,6 +36,9 @@ status: "new"
 > Bis zum Bahnhof sind es drei Kilometer.
 > *It's three kilometres to the station.*
 
+**Phrases & Expressions:**
+- **Kilometer pro Stunde** — kilometres per hour *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+
 **Source:** Netzwerk neu A1 K2 7a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

@@ -31,6 +31,9 @@ status: "new"
 > Bio-Produkte
 > **
 
+**Phrases & Expressions:**
+- **Bio-Produkte** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 1a (Umweltfreundlich?)
 <!-- bank:end -->
 

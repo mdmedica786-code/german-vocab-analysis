@@ -35,6 +35,9 @@ status: "new"
 > Ich habe eine Überraschung für dich.
 > *I have a surprise for you.*
 
+**Phrases & Expressions:**
+- **Ich habe eine Überraschung für dich** — *I have a surprise for you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 3a (Zeit mit Freunden) · Goethe word list B1
 <!-- bank:end -->
 

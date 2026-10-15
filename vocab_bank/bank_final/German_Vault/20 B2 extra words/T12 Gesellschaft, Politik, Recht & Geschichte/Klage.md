@@ -33,6 +33,11 @@ status: "new"
 > Er hat Klage gegen die Firma eingereicht.
 > *He has filed a lawsuit against the company.*
 
+**Phrases & Expressions:**
+- **Klage einreichen** — *complaint; lawsuit*
+- **Klage erheben** — *complaint; lawsuit*
+- **eine Klage abweisen** — *complaint; lawsuit*
+
 **Collocations**
 - Klage einreichen
 - Klage erheben

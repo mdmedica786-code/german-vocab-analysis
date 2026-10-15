@@ -33,6 +33,10 @@ status: "new"
 > Es ist unser Bestreben, alle Kunden zufriedenzustellen.
 > *It is our aim to satisfy all customers.*
 
+**Phrases & Expressions:**
+- **das Bestreben haben** — *endeavour; aim*
+- **im Bestreben, zu + Infinitiv** — *endeavour; aim*
+
 **Collocations**
 - das Bestreben haben
 - im Bestreben, zu + Infinitiv

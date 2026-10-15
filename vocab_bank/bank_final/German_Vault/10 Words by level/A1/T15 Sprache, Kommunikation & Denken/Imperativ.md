@@ -34,6 +34,9 @@ status: "new"
 > „Komm!“ ist ein Imperativ.
 > *“Komm!” is an imperative.*
 
+**Phrases & Expressions:**
+- **„Komm!“ ist ein Imperativ** — *“Komm!” is an imperative* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 7c (In Hamburg)
 <!-- bank:end -->
 

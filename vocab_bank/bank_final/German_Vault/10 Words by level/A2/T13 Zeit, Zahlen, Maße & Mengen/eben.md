@@ -31,6 +31,12 @@ status: "new"
 > Ich bin eben erst angekommen.
 > *I've only just arrived.*
 
+**Phrases & Expressions:**
+- **eben erst** — *just; just now; exactly*
+- **eben noch** — *just; just now; exactly*
+- **eben nicht** — *just; just now; exactly*
+- **na eben** — *just; just now; exactly*
+
 **Collocations**
 - eben erst
 - eben noch

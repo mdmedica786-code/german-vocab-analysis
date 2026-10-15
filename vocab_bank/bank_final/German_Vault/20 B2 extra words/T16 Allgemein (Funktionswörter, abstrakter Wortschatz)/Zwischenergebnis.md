@@ -33,6 +33,11 @@ status: "new"
 > Das Zwischenergebnis der Umfrage liegt bereits vor.
 > *The interim result of the survey is already available.*
 
+**Phrases & Expressions:**
+- **ein Zwischenergebnis vorlegen** — *interim result*
+- **vorläufiges Zwischenergebnis** — *interim result*
+- **Zwischenergebnisse prüfen** — *interim result*
+
 **Collocations**
 - ein Zwischenergebnis vorlegen
 - vorläufiges Zwischenergebnis

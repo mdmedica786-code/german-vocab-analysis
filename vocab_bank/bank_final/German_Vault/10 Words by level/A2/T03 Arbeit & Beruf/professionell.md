@@ -30,6 +30,9 @@ status: "new"
 > Die Fotos sind sehr professionell.
 > *The photos are very professional.*
 
+**Phrases & Expressions:**
+- **Die Fotos sind sehr professionell** — *The photos are very professional* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 5c (Arbeitswelten)
 <!-- bank:end -->
 

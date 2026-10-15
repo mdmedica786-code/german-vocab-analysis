@@ -33,6 +33,11 @@ status: "new"
 > Experten warnen vor Fehlentwicklungen auf dem Wohnungsmarkt.
 > *Experts warn of undesirable developments in the housing market.*
 
+**Phrases & Expressions:**
+- **Fehlentwicklungen korrigieren** — *undesirable development; wrong turn*
+- **eine Fehlentwicklung erkennen** — *undesirable development; wrong turn*
+- **gesellschaftliche Fehlentwicklung** — *undesirable development; wrong turn*
+
 **Collocations**
 - Fehlentwicklungen korrigieren
 - eine Fehlentwicklung erkennen

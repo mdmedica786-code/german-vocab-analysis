@@ -33,6 +33,14 @@ status: "new"
 > Wollen wir die Pizza teilen?
 > *Shall we share the pizza?*
 
+**Phrases & Expressions:**
+- **Meine Präsentation besteht aus drei Teilen.** — My presentation consists of three parts. *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Gliederung ankündigen]] · B1)*
+- **Bezugnehmend auf Ihre E-Mail vom ... teile ich Ihnen mit, dass ...** — With reference to your email of ... I inform you that ... *([[B1-13 Formelle E-Mail und Brief|Bezug nehmen]] · B1)*
+- **Mein Vortrag gliedert sich in drei Teile.** — My talk is divided into three parts. *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Aufbau ankündigen]] · B2)*
+- **sich etwas teilen** — *to share*
+- **die Kosten teilen** — *to share*
+- **mit jemandem teilen** — *to share*
+
 **Collocations**
 - sich etwas teilen
 - die Kosten teilen

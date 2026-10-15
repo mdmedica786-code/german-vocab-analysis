@@ -33,6 +33,11 @@ status: "new"
 > Der Verdacht auf Täuschung führte zu einer Überprüfung.
 > *The suspicion of deception led to an investigation.*
 
+**Phrases & Expressions:**
+- **eine optische Täuschung** — *deception; illusion; fraud*
+- **sich einer Täuschung hingeben** — *deception; illusion; fraud*
+- **Täuschung im Prüfungsfall** — *deception; illusion; fraud*
+
 **Collocations**
 - eine optische Täuschung
 - sich einer Täuschung hingeben

@@ -33,6 +33,9 @@ status: "new"
 > Nichts hindert dich daran, es zu versuchen.
 > *Nothing stops you from trying.*
 
+**Phrases & Expressions:**
+- **Nichts hindert dich daran, es zu versuchen** — *Nothing stops you from trying* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

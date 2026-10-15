@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Bevölkerung leistet Widerstand gegen den Plan.
 > *The population is putting up resistance to the plan.*
+
+**Phrases & Expressions:**
+- **Die Bevölkerung leistet Widerstand gegen den Plan** — *The population is putting up resistance to the plan* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

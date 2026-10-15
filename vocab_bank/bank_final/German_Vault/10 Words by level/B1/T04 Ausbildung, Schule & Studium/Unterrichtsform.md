@@ -34,6 +34,9 @@ status: "new"
 > Gruppenarbeit ist eine beliebte Unterrichtsform.
 > *Group work is a popular form of teaching.*
 
+**Phrases & Expressions:**
+- **Gruppenarbeit ist eine beliebte Unterrichtsform** — *Group work is a popular form of teaching* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 1a (Veränderungen)
 <!-- bank:end -->
 

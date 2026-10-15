@@ -33,6 +33,11 @@ status: "new"
 > Der zuständige Sachbearbeiter ist heute leider nicht im Haus.
 > *The clerk in charge is unfortunately not in the building today.*
 
+**Phrases & Expressions:**
+- **der zuständige Sachbearbeiter** — *case worker; clerk in charge*
+- **mit dem Sachbearbeiter sprechen** — *case worker; clerk in charge*
+- **Sachbearbeiter im Amt** — *case worker; clerk in charge*
+
 **Collocations**
 - der zuständige Sachbearbeiter
 - mit dem Sachbearbeiter sprechen

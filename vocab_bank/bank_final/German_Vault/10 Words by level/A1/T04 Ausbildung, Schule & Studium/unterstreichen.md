@@ -33,6 +33,9 @@ status: "new"
 > Wir sollen alle wichtigen Wörter unterstreichen.
 > *We are supposed to underline all the important words.*
 
+**Phrases & Expressions:**
+- **Wir sollen alle wichtigen Wörter unterstreichen** — *We are supposed to underline all the important words* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 7b (Freunde, Kollegen und ich) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > In unserer Familie sind alle Nichtraucher.
 > *In our family everyone is a non-smoker.*
 
+**Phrases & Expressions:**
+- **In unserer Familie sind alle Nichtraucher** — *In our family everyone is a non-smoker* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

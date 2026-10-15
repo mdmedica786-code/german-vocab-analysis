@@ -34,6 +34,14 @@ status: "new"
 > Ich habe dem Vermieter geschrieben, aber er hat noch nicht reagiert.
 > *I wrote to the landlord, but he hasn't responded yet.*
 
+**Phrases & Expressions:**
+- **Wie reagieren Sie auf Pollen, Nahrungsmittel oder Medikamente?** — How do you react to pollen, foods or medicines? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Allergien erfragen]] · B2)*
+- **Die Pupillen sind isokor und reagieren prompt auf Licht.** — The pupils are isocoric and react promptly to light. *([[FSP-08 Befunde beschreiben und berichten|Neurologischer Kurzstatus]] · C1)*
+- **Eine Entzündung bedeutet, dass der Körper auf etwas reagiert.** — An inflammation means that the body is reacting to something. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B1)*
+- **Mit einer Allergie reagiert Ihr Körper überempfindlich auf einen Stoff.** — With an allergy your body reacts hypersensitively to a substance. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B1)*
+- **auf etwas reagieren** — *to react*
+- **schnell reagieren** — *to react*
+
 **Collocations**
 - auf etwas reagieren
 - schnell reagieren

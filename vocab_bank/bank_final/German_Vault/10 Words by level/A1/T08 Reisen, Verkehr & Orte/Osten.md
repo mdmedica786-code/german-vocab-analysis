@@ -35,6 +35,9 @@ status: "new"
 > Im Osten geht die Sonne auf.
 > *The sun rises in the east.*
 
+**Phrases & Expressions:**
+- **im Osten** — in the east *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+
 **Source:** Netzwerk neu A1 K12 11a (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

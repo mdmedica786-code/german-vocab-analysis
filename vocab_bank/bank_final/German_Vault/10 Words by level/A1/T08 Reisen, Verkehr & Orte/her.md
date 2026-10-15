@@ -32,6 +32,12 @@ status: "new"
 > Komm bitte mal her!
 > *Please come here!*
 
+**Phrases & Expressions:**
+- **hin und her** — back and forth *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **von ... her** — *here (towards the speaker); ago*
+- **wo kommst du her** — *here (towards the speaker); ago*
+- **her damit** — *here (towards the speaker); ago*
+
 **Collocations**
 - hin und her
 - von ... her

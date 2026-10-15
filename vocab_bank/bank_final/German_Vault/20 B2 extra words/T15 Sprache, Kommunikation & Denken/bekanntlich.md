@@ -29,6 +29,11 @@ status: "new"
 > Das Wetter im April ist bekanntlich launisch.
 > *The weather in April is, as is well known, moody.*
 
+**Phrases & Expressions:**
+- **bekanntlich schwierig** — *as is well known; as we know*
+- **bekanntlich launisch** — *as is well known; as we know*
+- **bekanntlich nicht** — *as is well known; as we know*
+
 **Collocations**
 - bekanntlich schwierig
 - bekanntlich launisch

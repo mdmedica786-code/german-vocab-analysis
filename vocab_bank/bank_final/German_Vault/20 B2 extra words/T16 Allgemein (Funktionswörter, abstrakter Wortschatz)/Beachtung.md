@@ -33,6 +33,12 @@ status: "new"
 > Die Beachtung der Regeln ist Pflicht.
 > *Observance of the rules is compulsory.*
 
+**Phrases & Expressions:**
+- **Wir bitten um Beachtung folgender Hinweise: ...** — We ask you to note the following: ... *([[FSP-20 Arztbrief und Dokumentation|Pflegerische Hinweise]] · C1)*
+- **unter Beachtung der Vorschriften** — *attention; observance*
+- **Beachtung der Regeln** — *attention; observance*
+- **mit besonderer Beachtung** — *attention; observance*
+
 **Collocations**
 - unter Beachtung der Vorschriften
 - Beachtung der Regeln

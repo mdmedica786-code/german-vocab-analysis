@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Er beansprucht das Erbe für sich.
 > *He claims the inheritance for himself.*
+
+**Phrases & Expressions:**
+- **Er beansprucht das Erbe für sich** — *He claims the inheritance for himself* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

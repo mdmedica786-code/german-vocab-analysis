@@ -29,6 +29,11 @@ status: "new"
 > Die ökonomische Lage des Landes ist stabil.
 > *The economic situation of the country is stable.*
 
+**Phrases & Expressions:**
+- **ökonomische Gründe** — *economic; economical*
+- **ökonomisch sinnvoll** — *economic; economical*
+- **ökonomisch denken** — *economic; economical*
+
 **Collocations**
 - ökonomische Gründe
 - ökonomisch sinnvoll

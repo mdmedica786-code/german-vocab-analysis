@@ -35,6 +35,9 @@ status: "new"
 > Sie ist ohne Schuld in Not geraten.
 > *She got into trouble without any fault of her own.*
 
+**Phrases & Expressions:**
+- **Sie ist ohne Schuld in Not geraten** — *She got into trouble without any fault of her own* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

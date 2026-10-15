@@ -34,6 +34,9 @@ status: "new"
 > Der Modedesigner zeigt seine neue Kollektion.
 > *The fashion designer presents his new collection.*
 
+**Phrases & Expressions:**
+- **Der Modedesigner zeigt seine neue Kollektion** — *The fashion designer presents his new collection* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

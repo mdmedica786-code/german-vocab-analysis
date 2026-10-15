@@ -34,6 +34,9 @@ status: "new"
 > Abends um sieben essen wir alle zusammen.
 > *We all eat together at seven in the evening.*
 
+**Phrases & Expressions:**
+- **Abends um sieben essen wir alle zusammen** — *We all eat together at seven in the evening* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

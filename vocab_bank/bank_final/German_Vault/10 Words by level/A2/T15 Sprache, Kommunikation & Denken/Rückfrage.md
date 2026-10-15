@@ -34,6 +34,9 @@ status: "new"
 > Bei Rückfragen rufen Sie uns an.
 > *If you have queries, call us.*
 
+**Phrases & Expressions:**
+- **Für Rückfragen stehe ich Ihnen gern zur Verfügung.** — I am happy to answer any further questions. *([[B1-13 Formelle E-Mail und Brief|Schluss formulieren]] · B1)*
+
 **Source:** Netzwerk neu A2 K12 5a (Gute Unterhaltung!)
 <!-- bank:end -->
 

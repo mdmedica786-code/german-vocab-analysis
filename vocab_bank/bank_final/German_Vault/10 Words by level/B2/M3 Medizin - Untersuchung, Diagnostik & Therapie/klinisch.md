@@ -29,6 +29,14 @@ status: "new"
 > Die klinische Untersuchung zeigt keine Auffälligkeiten.
 > *The clinical examination shows no abnormalities.*
 
+**Phrases & Expressions:**
+- **Klinisch besteht der Verdacht auf eine Pneumonie.** — Clinically there is a suspicion of pneumonia. *([[FSP-08 Befunde beschreiben und berichten|Befund im Arzt-Arzt-Gespräch]] · B2)*
+- **Wie ist der Patient aktuell klinisch einzuschätzen?** — How should the patient be assessed clinically at present? *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Rückfrage stellen]] · C1)*
+- **Unter der Therapie kam es zu einer klinischen Besserung.** — Under therapy there was clinical improvement. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Verlauf berichten]] · C1)*
+- **Im weiteren Verlauf kam es zu einer klinischen Besserung.** — In the further course there was clinical improvement. *([[FSP-20 Arztbrief und Dokumentation|Verlauf schildern]] · B2)*
+- **klinische Untersuchung** — *clinical*
+- **klinischer Verlauf** — *clinical*
+
 **Collocations**
 - klinische Untersuchung
 - klinischer Verlauf

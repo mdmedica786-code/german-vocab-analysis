@@ -35,6 +35,9 @@ status: "new"
 > Mein Chef ist heute nicht im Büro.
 > *My boss is not in the office today.*
 
+**Phrases & Expressions:**
+- **Mein Chef ist heute nicht im Büro** — *My boss is not in the office today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

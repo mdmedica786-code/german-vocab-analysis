@@ -33,6 +33,11 @@ status: "new"
 > Die Feuerwehrmänner löschten das Feuer in einer Stunde.
 > *The firefighters put out the fire within an hour.*
 
+**Phrases & Expressions:**
+- **ein mutiger Feuerwehrmann** — *firefighter*
+- **Feuerwehrmann werden** — *firefighter*
+- **die Feuerwehr rufen** — *firefighter*
+
 **Collocations**
 - ein mutiger Feuerwehrmann
 - Feuerwehrmann werden

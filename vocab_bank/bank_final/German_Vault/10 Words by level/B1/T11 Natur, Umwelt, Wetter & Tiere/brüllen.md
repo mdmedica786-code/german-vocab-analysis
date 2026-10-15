@@ -32,6 +32,9 @@ status: "new"
 > Der Löwe brüllt laut.
 > *The lion roars loudly.*
 
+**Phrases & Expressions:**
+- **Der Löwe brüllt laut** — *The lion roars loudly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12b (Zwischenmenschliches)
 <!-- bank:end -->
 

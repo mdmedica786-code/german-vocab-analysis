@@ -33,6 +33,11 @@ status: "new"
 > Der Aufwand lohnt sich nicht.
 > *The effort is not worth it.*
 
+**Phrases & Expressions:**
+- **mit großem Aufwand** — *effort; expenditure*
+- **Aufwand betreiben** — *effort; expenditure*
+- **zeitlicher Aufwand** — *effort; expenditure*
+
 **Collocations**
 - mit großem Aufwand
 - Aufwand betreiben

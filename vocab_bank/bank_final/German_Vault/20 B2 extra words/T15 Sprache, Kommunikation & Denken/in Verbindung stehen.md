@@ -26,6 +26,11 @@ status: "new"
 > Die beiden Ereignisse stehen in Verbindung miteinander.
 > *The two events are connected with each other.*
 
+**Phrases & Expressions:**
+- **in Verbindung stehen mit** — *to be connected; to be in contact*
+- **miteinander in Verbindung stehen** — *to be connected; to be in contact*
+- **in Verbindung bleiben** — *to be connected; to be in contact*
+
 **Collocations**
 - in Verbindung stehen mit
 - miteinander in Verbindung stehen

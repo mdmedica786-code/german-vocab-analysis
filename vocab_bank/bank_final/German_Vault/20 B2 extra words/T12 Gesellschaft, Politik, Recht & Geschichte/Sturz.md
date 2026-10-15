@@ -33,6 +33,11 @@ status: "new"
 > Der Sturz vom Pferd war gefährlich.
 > *The fall from the horse was dangerous.*
 
+**Phrases & Expressions:**
+- **der Sturz der Regierung** — *fall; overthrow*
+- **ein Sturz vom Rad** — *fall; overthrow*
+- **ein Sturz aus großer Höhe** — *fall; overthrow*
+
 **Collocations**
 - der Sturz der Regierung
 - ein Sturz vom Rad

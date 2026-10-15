@@ -33,6 +33,11 @@ status: "new"
 > Schillers Trauerspiel wird morgen im Stadttheater aufgeführt.
 > *Schiller's tragedy will be performed tomorrow at the city theatre.*
 
+**Phrases & Expressions:**
+- **ein Trauerspiel aufführen** — *tragedy (play)*
+- **ein klassisches Trauerspiel** — *tragedy (play)*
+- **ein bürgerliches Trauerspiel** — *tragedy (play)*
+
 **Collocations**
 - ein Trauerspiel aufführen
 - ein klassisches Trauerspiel

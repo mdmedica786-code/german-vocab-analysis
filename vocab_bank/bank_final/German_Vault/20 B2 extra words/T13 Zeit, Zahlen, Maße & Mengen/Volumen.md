@@ -33,6 +33,11 @@ status: "new"
 > Das Volumen der Kiste beträgt zehn Liter.
 > *The volume of the box is ten litres.*
 
+**Phrases & Expressions:**
+- **das Volumen berechnen** — *volume*
+- **ein großes Volumen** — *volume*
+- **das Volumen des Handels** — *volume*
+
 **Collocations**
 - das Volumen berechnen
 - ein großes Volumen

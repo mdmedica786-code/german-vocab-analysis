@@ -31,6 +31,11 @@ status: "new"
 > Der Hund gehorcht seinem Herrchen aufs Wort.
 > *The dog obeys its owner's every word.*
 
+**Phrases & Expressions:**
+- **jemandem gehorchen** — *to obey*
+- **aufs Wort gehorchen** — *to obey*
+- **nicht gehorchen** — *to obey*
+
 **Collocations**
 - jemandem gehorchen
 - aufs Wort gehorchen

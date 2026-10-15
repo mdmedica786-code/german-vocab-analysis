@@ -34,6 +34,9 @@ status: "new"
 > Beim Small Talk spricht man oft über das Wetter.
 > *In small talk people often talk about the weather.*
 
+**Phrases & Expressions:**
+- **Beim Small Talk spricht man oft über das Wetter** — *In small talk people often talk about the weather* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 9c (Arbeitsalltag)
 <!-- bank:end -->
 

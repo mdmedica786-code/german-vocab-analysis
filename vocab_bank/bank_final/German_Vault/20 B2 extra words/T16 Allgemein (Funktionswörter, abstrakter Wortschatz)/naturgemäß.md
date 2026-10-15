@@ -29,6 +29,11 @@ status: "new"
 > Naturgemäß gibt es dabei Unterschiede.
 > *Naturally there are differences.*
 
+**Phrases & Expressions:**
+- **naturgemäß schwierig** — *naturally; inevitably*
+- **naturgemäß unterschiedlich** — *naturally; inevitably*
+- **naturgemäß verlaufen** — *naturally; inevitably*
+
 **Collocations**
 - naturgemäß schwierig
 - naturgemäß unterschiedlich

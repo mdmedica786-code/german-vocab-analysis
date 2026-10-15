@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Bei der Befragung nahmen 500 Personen teil.
 > *500 people took part in the survey.*
+
+**Phrases & Expressions:**
+- **Bei der Befragung nahmen 500 Personen teil** — *500 people took part in the survey* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

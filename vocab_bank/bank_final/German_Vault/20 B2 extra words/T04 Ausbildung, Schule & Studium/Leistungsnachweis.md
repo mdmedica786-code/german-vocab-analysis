@@ -33,6 +33,11 @@ status: "new"
 > Für den Leistungsnachweis musst du ein Referat halten.
 > *To get the credit you have to give a presentation.*
 
+**Phrases & Expressions:**
+- **einen Leistungsnachweis erbringen** — *proof of academic achievement; credit*
+- **Leistungsnachweise sammeln** — *proof of academic achievement; credit*
+- **ein benoteter Leistungsnachweis** — *proof of academic achievement; credit*
+
 **Collocations**
 - einen Leistungsnachweis erbringen
 - Leistungsnachweise sammeln

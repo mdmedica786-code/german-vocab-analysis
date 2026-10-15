@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Zusammenschluss der beiden Firmen wurde beschlossen.
 > *The merger of the two companies was decided.*
+
+**Phrases & Expressions:**
+- **Der Zusammenschluss der beiden Firmen wurde beschlossen** — *The merger of the two companies was decided* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

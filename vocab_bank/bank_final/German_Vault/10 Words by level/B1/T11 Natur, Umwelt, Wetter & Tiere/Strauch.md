@@ -34,6 +34,9 @@ status: "new"
 > Hinter dem Haus wächst ein großer Strauch.
 > *A large bush grows behind the house.*
 
+**Phrases & Expressions:**
+- **Hinter dem Haus wächst ein großer Strauch** — *A large bush grows behind the house* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?)
 <!-- bank:end -->
 

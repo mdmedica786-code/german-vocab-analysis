@@ -32,6 +32,11 @@ status: "new"
 > Mein Opa hat mir das Schachspielen beigebracht.
 > *My grandpa taught me how to play chess.*
 
+**Phrases & Expressions:**
+- **jemandem etwas beibringen** — *to teach; to impart; to produce (evidence)*
+- **sich etwas beibringen** — *to teach; to impart; to produce (evidence)*
+- **jemandem schonend beibringen** — *to teach; to impart; to produce (evidence)*
+
 **Collocations**
 - jemandem etwas beibringen
 - sich etwas beibringen

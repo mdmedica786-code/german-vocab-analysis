@@ -34,6 +34,9 @@ status: "new"
 > Die Preise im Inland sind niedriger.
 > *Prices in the domestic market are lower.*
 
+**Phrases & Expressions:**
+- **Die Preise im Inland sind niedriger** — *Prices in the domestic market are lower* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

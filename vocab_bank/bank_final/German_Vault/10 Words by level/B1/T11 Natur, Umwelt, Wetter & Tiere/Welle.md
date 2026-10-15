@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Wellen am Strand sind heute hoch.
 > *The waves on the beach are high today.*
+
+**Phrases & Expressions:**
+- **Der Schmerz ist dumpf und kommt in Wellen.** — The pain is dull and comes in waves. *([[FSP-03 Schmerzanamnese|Patient: Schmerz beschreiben]] · B1)*
 <!-- bank:end -->
 
 ## My notes

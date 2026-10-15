@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Bitte räumen Sie das Zimmer bis zehn Uhr.
 > *Please vacate the room by ten o'clock.*
+
+**Phrases & Expressions:**
+- **Bitte räumen Sie das Zimmer bis zehn Uhr** — *Please vacate the room by ten o'clock* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

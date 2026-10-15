@@ -33,6 +33,11 @@ status: "new"
 > Landwirtschaftliche Erzeugnisse werden direkt vom Hof verkauft.
 > *Agricultural products are sold directly from the farm.*
 
+**Phrases & Expressions:**
+- **landwirtschaftliche Erzeugnisse** — *product; produce*
+- **heimische Erzeugnisse** — *product; produce*
+- **Erzeugnisse verkaufen** — *product; produce*
+
 **Collocations**
 - landwirtschaftliche Erzeugnisse
 - heimische Erzeugnisse

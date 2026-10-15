@@ -33,6 +33,11 @@ status: "new"
 > Der Prinz heiratete eine bürgerliche Frau.
 > *The prince married a commoner.*
 
+**Phrases & Expressions:**
+- **der Märchenprinz** — *prince*
+- **Prinz und Prinzessin** — *prince*
+- **der Kronprinz** — *prince*
+
 **Collocations**
 - der Märchenprinz
 - Prinz und Prinzessin

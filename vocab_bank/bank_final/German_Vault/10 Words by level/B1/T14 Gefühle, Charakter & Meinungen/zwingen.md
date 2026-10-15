@@ -34,6 +34,12 @@ status: "new"
 > Bitte zwing mich nicht etwas zu essen.
 > *Please don't force me to eat anything.*
 
+**Phrases & Expressions:**
+- **jemanden zu etwas zwingen** — *to force*
+- **gezwungen sein** — *to force*
+- **sich zwingen** — *to force*
+- **zum Handeln zwingen** — *to force*
+
 **Collocations**
 - jemanden zu etwas zwingen
 - gezwungen sein

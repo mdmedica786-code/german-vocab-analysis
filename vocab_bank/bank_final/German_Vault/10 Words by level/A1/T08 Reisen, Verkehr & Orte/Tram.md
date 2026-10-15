@@ -35,6 +35,9 @@ status: "new"
 > Fahren wir mit dem Tram oder dem Bus?
 > *Shall we take the tram or the bus?*
 
+**Phrases & Expressions:**
+- **Fahren wir mit dem Tram oder dem Bus** — *Shall we take the tram or the bus* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 3b (Ab in den Urlaub!) · Goethe word list B1
 <!-- bank:end -->
 

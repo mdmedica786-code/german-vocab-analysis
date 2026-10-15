@@ -34,6 +34,9 @@ status: "new"
 > Das Unternehmen hat zweihundert Mitarbeiter.
 > *The company has two hundred employees.*
 
+**Phrases & Expressions:**
+- **Das Unternehmen hat zweihundert Mitarbeiter** — *The company has two hundred employees* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 10b (Das ist ja praktisch!)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Unser Treffpunkt ist um 17 Uhr am Hauptbahnhof.
 > *Our meeting point is at 5 p.m. at the main station.*
 
+**Phrases & Expressions:**
+- **Unser Treffpunkt ist um 17 Uhr am Hauptbahnhof** — *Our meeting point is at 5 p.m. at the main station* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 6a (Zeit mit Freunden) · Goethe word list B1
 <!-- bank:end -->
 

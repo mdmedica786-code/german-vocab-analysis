@@ -31,6 +31,9 @@ status: "new"
 > Ich habe einen sehr wertvollen Ring von meiner Großmutter.
 > *I have a very valuable ring from my grandmother.*
 
+**Phrases & Expressions:**
+- **Ich habe einen sehr wertvollen Ring von meiner Großmutter** — *I have a very valuable ring from my grandmother* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

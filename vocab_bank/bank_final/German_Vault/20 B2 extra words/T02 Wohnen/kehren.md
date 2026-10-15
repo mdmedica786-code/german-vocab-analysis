@@ -31,6 +31,11 @@ status: "new"
 > Sie kehrt jeden Samstag den Hof.
 > *She sweeps the yard every Saturday.*
 
+**Phrases & Expressions:**
+- **den Hof kehren** — *to sweep; to turn*
+- **vor der eigenen Tür kehren** — *to sweep; to turn*
+- **das Innere nach außen kehren** — *to sweep; to turn*
+
 **Collocations**
 - den Hof kehren
 - vor der eigenen Tür kehren

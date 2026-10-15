@@ -33,6 +33,14 @@ status: "new"
 > Können Sie mir mit dem Preis entgegenkommen?
 > *Can you meet me halfway on the price?*
 
+**Phrases & Expressions:**
+- **kommt es zu ...** — it leads to ...; there is ... *([[Folgen (consequence)|Folgen (consequence)]] · C1)*
+- **hinzu kommt, dass ...** — in addition, ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **kam es zu ...** — there was ...; it led to ... *([[Folgen (consequence)|Folgen (consequence)]] · C1)*
+- **wie kommt es, dass ...?** — how come ...? *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B2)*
+- **Das kommt für mich nicht infrage.** — That's out of the question for me. *([[B1-02 Zustimmen und Widersprechen|Klar ablehnen]] · B1)*
+- **Ich komme dir entgegen: ...** — I'll meet you halfway: ... *([[B1-05 Vorschläge machen und darauf reagieren|Kompromiss finden]] · B1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

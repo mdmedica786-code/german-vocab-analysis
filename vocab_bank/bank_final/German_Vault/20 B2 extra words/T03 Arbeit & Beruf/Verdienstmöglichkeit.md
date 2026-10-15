@@ -33,6 +33,11 @@ status: "new"
 > Für Studenten gibt es viele Verdienstmöglichkeiten.
 > *For students there are many ways of earning money.*
 
+**Phrases & Expressions:**
+- **eine Verdienstmöglichkeit finden** — *earning opportunity; way of earning money*
+- **Verdienstmöglichkeiten bieten** — *earning opportunity; way of earning money*
+- **gute Verdienstmöglichkeiten** — *earning opportunity; way of earning money*
+
 **Collocations**
 - eine Verdienstmöglichkeit finden
 - Verdienstmöglichkeiten bieten

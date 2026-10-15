@@ -34,6 +34,9 @@ status: "new"
 > Drück bitte auf die Klingel!
 > *Please press the bell!*
 
+**Phrases & Expressions:**
+- **Drück bitte auf die Klingel** — *Please press the bell* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

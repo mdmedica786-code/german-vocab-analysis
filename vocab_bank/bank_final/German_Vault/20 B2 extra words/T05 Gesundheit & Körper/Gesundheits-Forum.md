@@ -30,6 +30,11 @@ status: "new"
 > Im Gesundheits-Forum tauschen sich Patienten aus.
 > *In the health forum patients exchange experiences.*
 
+**Phrases & Expressions:**
+- **in einem Gesundheits-Forum schreiben** — *health forum*
+- **ein Gesundheits-Forum lesen** — *health forum*
+- **ein Gesundheits-Forum im Internet** — *health forum*
+
 **Collocations**
 - in einem Gesundheits-Forum schreiben
 - ein Gesundheits-Forum lesen

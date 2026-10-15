@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Sie spürt große Trauer nach dem Tod ihres Vaters.
 > *She feels great grief after her father's death.*
+
+**Phrases & Expressions:**
+- **Sie spürt große Trauer nach dem Tod ihres Vaters** — *She feels great grief after her father's death* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

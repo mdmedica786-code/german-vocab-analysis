@@ -34,6 +34,14 @@ status: "new"
 > Ich kann Deutsch und Russisch.
 > **
 
+**Phrases & Expressions:**
+- **ich kann mir nicht vorstellen, dass ...** — I can't imagine that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **ich kann mir nicht vorstellen, ... zu ...** — I can't imagine ...ing *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **was kann ich für Sie tun?** — what can I do for you? *([[Hilfe anbieten - Service (offer help)|Hilfe anbieten / Service (offer help)]] · A2)*
+- **ich wünschte, ich könnte ...** — I wish I could ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B2)*
+- **man kann sagen, dass ...** — one can say that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **ich kann mich nicht erinnern** — I can't remember *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+
 **Source:** Netzwerk neu A1 K5 10c (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

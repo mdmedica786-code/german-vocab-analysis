@@ -33,6 +33,11 @@ status: "new"
 > Ich gehe dreimal pro Woche ins Fitnessstudio.
 > *I go to the gym three times a week.*
 
+**Phrases & Expressions:**
+- **ins Fitnessstudio gehen** — *gym; fitness studio*
+- **im Fitnessstudio trainieren** — *gym; fitness studio*
+- **Mitglied im Fitnessstudio** — *gym; fitness studio*
+
 **Collocations**
 - ins Fitnessstudio gehen
 - im Fitnessstudio trainieren

@@ -26,6 +26,11 @@ status: "new"
 > Niemand zieht seine Ehrlichkeit in Zweifel.
 > *Nobody calls his honesty into question.*
 
+**Phrases & Expressions:**
+- **etwas in Zweifel ziehen** — *to call into question*
+- **in Zweifel gezogen werden** — *to call into question*
+- **die Ergebnisse in Zweifel ziehen** — *to call into question*
+
 **Collocations**
 - etwas in Zweifel ziehen
 - in Zweifel gezogen werden

@@ -34,6 +34,9 @@ status: "new"
 > Die Espressokanne steht auf dem Herd.
 > *The espresso pot is on the stove.*
 
+**Phrases & Expressions:**
+- **Die Espressokanne steht auf dem Herd** — *The espresso pot is on the stove* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 1b (Kunststücke)
 <!-- bank:end -->
 

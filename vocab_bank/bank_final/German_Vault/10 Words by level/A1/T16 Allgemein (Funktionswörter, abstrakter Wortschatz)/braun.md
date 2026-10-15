@@ -31,6 +31,9 @@ status: "new"
 > Er hat braune Augen.
 > *He has brown eyes.*
 
+**Phrases & Expressions:**
+- **Er hat braune Augen** — *He has brown eyes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 9a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

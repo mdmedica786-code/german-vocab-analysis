@@ -35,6 +35,9 @@ status: "new"
 > Wir suchen eine freundliche Aushilfe für unser Geschäft.
 > *We are looking for a friendly temporary worker for our shop.*
 
+**Phrases & Expressions:**
+- **Wir suchen eine freundliche Aushilfe für unser Geschäft** — *We are looking for a friendly temporary worker for our shop* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 2a (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

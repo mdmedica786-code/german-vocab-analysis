@@ -33,6 +33,11 @@ status: "new"
 > Viele Anleger setzen auf sichere Staatsanleihen.
 > *Many investors rely on safe government bonds.*
 
+**Phrases & Expressions:**
+- **private Anleger** — *investor*
+- **Anleger warnen** — *investor*
+- **Anleger schützen** — *investor*
+
 **Collocations**
 - private Anleger
 - Anleger warnen

@@ -31,6 +31,11 @@ status: "new"
 > Mit Training kann man die Leistung deutlich steigern.
 > *With training one can clearly improve performance.*
 
+**Phrases & Expressions:**
+- **die Leistung steigern** — *to increase; to boost*
+- **den Umsatz steigern** — *to increase; to boost*
+- **sich steigern** — *to increase; to boost*
+
 **Collocations**
 - die Leistung steigern
 - den Umsatz steigern

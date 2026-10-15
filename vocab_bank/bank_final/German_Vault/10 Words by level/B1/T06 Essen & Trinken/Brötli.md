@@ -39,6 +39,9 @@ status: "new"
 > Ich hole schnell ein paar Brötli zum Frühstück.
 > *I will quickly fetch a few rolls for breakfast.*
 
+**Phrases & Expressions:**
+- **Ich hole schnell ein paar Brötli zum Frühstück** — *I will quickly fetch a few rolls for breakfast* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

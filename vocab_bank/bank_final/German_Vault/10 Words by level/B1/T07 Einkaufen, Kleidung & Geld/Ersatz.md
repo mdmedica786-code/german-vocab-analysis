@@ -35,6 +35,9 @@ status: "new"
 > Sie bekommen von unserer Firma einen Ersatz für das kaputte Gerät.
 > *You will get a replacement for the broken device from our company.*
 
+**Phrases & Expressions:**
+- **Wir senden Ihnen umgehend einen Ersatz zu.** — We will send you a replacement immediately. *([[B2-04 Beschwerde und Reklamation|Lösung anbieten]] · B2)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Ich speichere die Datei auf einem Stick.
 > *I save the file on a stick.*
 
+**Phrases & Expressions:**
+- **Ich speichere die Datei auf einem Stick** — *I save the file on a stick* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 4b (Das ist ja praktisch!)
 <!-- bank:end -->
 

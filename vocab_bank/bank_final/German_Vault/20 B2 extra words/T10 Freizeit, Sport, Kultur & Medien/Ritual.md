@@ -33,6 +33,11 @@ status: "new"
 > Der Kaffee am Morgen ist mein Ritual.
 > *The coffee in the morning is my ritual.*
 
+**Phrases & Expressions:**
+- **ein Ritual pflegen** — *ritual*
+- **tägliche Rituale** — *ritual*
+- **ein religiöses Ritual** — *ritual*
+
 **Collocations**
 - ein Ritual pflegen
 - tägliche Rituale

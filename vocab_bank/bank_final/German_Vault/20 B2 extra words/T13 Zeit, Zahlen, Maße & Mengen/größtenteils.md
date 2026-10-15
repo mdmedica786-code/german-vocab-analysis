@@ -29,6 +29,9 @@ status: "new"
 > Die Gäste kamen größtenteils aus dem Ausland.
 > *The guests came mostly from abroad.*
 
+**Phrases & Expressions:**
+- **Die Gäste kamen größtenteils aus dem Ausland** — *The guests came mostly from abroad* *(Beispiel im Kontext)*
+
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->
 

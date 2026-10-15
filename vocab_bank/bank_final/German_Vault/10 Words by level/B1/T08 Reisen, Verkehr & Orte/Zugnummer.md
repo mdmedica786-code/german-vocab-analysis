@@ -31,6 +31,9 @@ status: "new"
 > Wie ist die Zugnummer?
 > *What is the train number?*
 
+**Phrases & Expressions:**
+- **Wie ist die Zugnummer** — *What is the train number* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 11a (Gute Reise!)
 <!-- bank:end -->
 

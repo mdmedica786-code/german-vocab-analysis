@@ -30,6 +30,11 @@ status: "new"
 > Mein Arbeitsrhythmus hat sich nach dem Umzug verändert.
 > *My work rhythm changed after the move.*
 
+**Phrases & Expressions:**
+- **den Arbeitsrhythmus ändern** — *work rhythm*
+- **ein fester Arbeitsrhythmus** — *work rhythm*
+- **im eigenen Arbeitsrhythmus** — *work rhythm*
+
 **Collocations**
 - den Arbeitsrhythmus ändern
 - ein fester Arbeitsrhythmus

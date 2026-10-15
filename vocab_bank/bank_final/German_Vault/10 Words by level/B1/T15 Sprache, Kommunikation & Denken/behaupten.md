@@ -33,6 +33,13 @@ status: "new"
 > Er behauptet, unsere Meinung sei nicht wichtig.
 > *He claims that our opinion is not important.*
 
+**Phrases & Expressions:**
+- **behaupten, dass ...** — to claim that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **etwas behaupten** — *to claim*
+- **steif und fest behaupten** — *to claim*
+- **das Gegenteil behaupten** — *to claim*
+- **sich behaupten** — *to claim*
+
 **Collocations**
 - etwas behaupten
 - steif und fest behaupten

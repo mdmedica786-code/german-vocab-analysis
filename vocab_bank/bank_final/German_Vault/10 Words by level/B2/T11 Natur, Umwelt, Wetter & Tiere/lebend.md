@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Der Fisch wurde lebend gefangen.
 > *The fish was caught alive.*
+
+**Phrases & Expressions:**
+- **Der Fisch wurde lebend gefangen** — *The fish was caught alive* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

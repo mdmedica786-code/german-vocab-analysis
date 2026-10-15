@@ -33,6 +33,9 @@ status: "new"
 > Vergiss nicht, dich anzuschnallen.
 > *Do not forget to fasten your seat belt.*
 
+**Phrases & Expressions:**
+- **Vergiss nicht, dich anzuschnallen** — *Do not forget to fasten your seat belt* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > In den USA misst man Entfernungen in Meilen.
 > *In the USA distances are measured in miles.*
 
+**Phrases & Expressions:**
+- **Meilen pro Stunde** — *mile*
+- **eine Meile weit** — *mile*
+- **die letzte Meile** — *mile*
+
 **Collocations**
 - Meilen pro Stunde
 - eine Meile weit

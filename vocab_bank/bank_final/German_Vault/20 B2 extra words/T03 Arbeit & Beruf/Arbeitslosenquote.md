@@ -33,6 +33,11 @@ status: "new"
 > Die Arbeitslosenquote ist im Mai leicht gesunken.
 > *The unemployment rate fell slightly in May.*
 
+**Phrases & Expressions:**
+- **die Arbeitslosenquote sinkt** — *unemployment rate*
+- **hohe Arbeitslosenquote** — *unemployment rate*
+- **Arbeitslosenquote senken** — *unemployment rate*
+
 **Collocations**
 - die Arbeitslosenquote sinkt
 - hohe Arbeitslosenquote

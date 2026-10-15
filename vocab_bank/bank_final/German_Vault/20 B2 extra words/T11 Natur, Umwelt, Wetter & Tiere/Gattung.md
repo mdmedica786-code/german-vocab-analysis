@@ -33,6 +33,11 @@ status: "new"
 > Der Krimi ist eine beliebte Gattung.
 > *The crime novel is a popular genre.*
 
+**Phrases & Expressions:**
+- **eine literarische Gattung** — *genus; genre; kind*
+- **zur Gattung gehören** — *genus; genre; kind*
+- **die Gattung der Katzen** — *genus; genre; kind*
+
 **Collocations**
 - eine literarische Gattung
 - zur Gattung gehören

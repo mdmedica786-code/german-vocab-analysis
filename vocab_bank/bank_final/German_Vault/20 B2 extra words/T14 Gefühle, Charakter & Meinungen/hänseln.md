@@ -31,6 +31,11 @@ status: "new"
 > Die Kinder haben ihn wegen seiner Brille gehänselt.
 > *The children teased him because of his glasses.*
 
+**Phrases & Expressions:**
+- **jemanden hänseln** — *to tease; to bully*
+- **gehänselt werden** — *to tease; to bully*
+- **wegen etwas hänseln** — *to tease; to bully*
+
 **Collocations**
 - jemanden hänseln
 - gehänselt werden

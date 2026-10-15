@@ -33,6 +33,11 @@ status: "new"
 > Er wurde im Universitätsklinikum operiert.
 > *He was operated on at the university hospital.*
 
+**Phrases & Expressions:**
+- **im Universitätsklinikum** — *university hospital*
+- **das Universitätsklinikum Heidelberg** — *university hospital*
+- **ein Universitätsklinikum besuchen** — *university hospital*
+
 **Collocations**
 - im Universitätsklinikum
 - das Universitätsklinikum Heidelberg

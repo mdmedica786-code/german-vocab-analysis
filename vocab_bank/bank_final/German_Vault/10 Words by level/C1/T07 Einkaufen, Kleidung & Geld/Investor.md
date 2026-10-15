@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Investor kauft das Grundstück.
 > *The investor buys the plot.*
+
+**Phrases & Expressions:**
+- **Der Investor kauft das Grundstück** — *The investor buys the plot* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

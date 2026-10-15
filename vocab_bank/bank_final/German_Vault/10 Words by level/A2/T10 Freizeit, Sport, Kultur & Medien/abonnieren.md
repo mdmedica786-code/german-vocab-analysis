@@ -33,6 +33,9 @@ status: "new"
 > Diese Zeitschrift würde ich gerne abonnieren.
 > *I'd like to subscribe to this magazine.*
 
+**Phrases & Expressions:**
+- **Diese Zeitschrift würde ich gerne abonnieren** — *I'd like to subscribe to this magazine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Alle Proteste haben nichts genützt.
 > *All protests were of no use.*
 
+**Phrases & Expressions:**
+- **Alle Proteste haben nichts genützt** — *All protests were of no use* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

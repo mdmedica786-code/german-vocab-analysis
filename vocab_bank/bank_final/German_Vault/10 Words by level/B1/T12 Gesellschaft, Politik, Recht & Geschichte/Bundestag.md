@@ -35,6 +35,9 @@ status: "new"
 > Der Bundestag beschließt ein neues Gesetz.
 > *The Bundestag passes a new law.*
 
+**Phrases & Expressions:**
+- **Der Bundestag beschließt ein neues Gesetz** — *The Bundestag passes a new law* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

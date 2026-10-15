@@ -33,6 +33,11 @@ status: "new"
 > Die Daten zeigen eine hohe Übereinstimmung.
 > *The data show a high degree of agreement.*
 
+**Phrases & Expressions:**
+- **in Übereinstimmung mit** — *agreement; match*
+- **Übereinstimmung erzielen** — *agreement; match*
+- **in Übereinstimmung bringen** — *agreement; match*
+
 **Collocations**
 - in Übereinstimmung mit
 - Übereinstimmung erzielen

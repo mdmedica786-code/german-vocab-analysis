@@ -33,6 +33,12 @@ status: "new"
 > Nach dem Sitzen spürte sie ein Kribbeln in den Beinen.
 > *After sitting she felt a tingling in her legs.*
 
+**Phrases & Expressions:**
+- **Haben Sie Kribbeln oder Taubheit in Armen oder Beinen?** — Do you have tingling or numbness in your arms or legs? *([[FSP-06 Systemanamnese (Organsysteme)|Nervensystem]] · B2)*
+- **ein Kribbeln spüren** — *tingling; pins and needles*
+- **ein Kribbeln in den Fingern** — *tingling; pins and needles*
+- **ein leichtes Kribbeln** — *tingling; pins and needles*
+
 **Collocations**
 - ein Kribbeln spüren
 - ein Kribbeln in den Fingern

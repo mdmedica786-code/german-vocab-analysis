@@ -33,6 +33,11 @@ status: "new"
 > Die Chemotherapie dauert insgesamt sechs Monate.
 > *The chemotherapy lasts six months in total.*
 
+**Phrases & Expressions:**
+- **eine Chemotherapie bekommen** — *chemotherapy*
+- **eine Chemotherapie beginnen** — *chemotherapy*
+- **während der Chemotherapie** — *chemotherapy*
+
 **Collocations**
 - eine Chemotherapie bekommen
 - eine Chemotherapie beginnen

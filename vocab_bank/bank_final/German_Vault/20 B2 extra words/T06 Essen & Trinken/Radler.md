@@ -33,6 +33,11 @@ status: "new"
 > Im Biergarten bestelle ich mir ein Radler.
 > *In the beer garden I order a shandy.*
 
+**Phrases & Expressions:**
+- **ein Radler bestellen** — *shandy (beer and lemonade)*
+- **ein Radler trinken** — *shandy (beer and lemonade)*
+- **Radler und Weizen** — *shandy (beer and lemonade)*
+
 **Collocations**
 - ein Radler bestellen
 - ein Radler trinken

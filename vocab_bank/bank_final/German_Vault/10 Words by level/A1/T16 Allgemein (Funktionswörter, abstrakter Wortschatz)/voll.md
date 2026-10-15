@@ -31,6 +31,13 @@ status: "new"
 > Die Kneipe ist am Abend voll.
 > *The bar is full in the evening.*
 
+**Phrases & Expressions:**
+- **Da stimme ich Ihnen voll und ganz zu.** — I completely agree with you on that. *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Zustimmung ausdrücken]] · B2)*
+- **voll sein** — *full*
+- **ein voller Tag** — *full*
+- **voll und ganz** — *full*
+- **volle Konzentration** — *full*
+
 **Collocations**
 - voll sein
 - ein voller Tag

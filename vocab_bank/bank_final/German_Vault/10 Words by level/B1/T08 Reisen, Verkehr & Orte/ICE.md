@@ -34,6 +34,9 @@ status: "new"
 > Der ICE fährt nach München.
 > *The ICE goes to Munich.*
 
+**Phrases & Expressions:**
+- **Der ICE fährt nach München** — *The ICE goes to Munich* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 11a (Gute Reise!)
 <!-- bank:end -->
 

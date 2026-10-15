@@ -35,6 +35,9 @@ status: "new"
 > Hast du die Reportage über Afrika gesehen?
 > *Have you seen the report about Africa?*
 
+**Phrases & Expressions:**
+- **Hast du die Reportage über Afrika gesehen** — *Have you seen the report about Africa* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

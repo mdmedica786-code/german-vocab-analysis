@@ -34,6 +34,9 @@ status: "new"
 > Der Patient wird in den Operationssaal gebracht.
 > *The patient is taken to the operating theatre.*
 
+**Phrases & Expressions:**
+- **Der Patient wird in den Operationssaal gebracht** — *The patient is taken to the operating theatre* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

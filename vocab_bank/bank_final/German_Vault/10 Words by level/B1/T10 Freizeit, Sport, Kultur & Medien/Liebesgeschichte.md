@@ -34,6 +34,9 @@ status: "new"
 > Der Roman erzählt eine Liebesgeschichte.
 > *The novel tells a love story.*
 
+**Phrases & Expressions:**
+- **Der Roman erzählt eine Liebesgeschichte** — *The novel tells a love story* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 6d (Veränderungen)
 <!-- bank:end -->
 

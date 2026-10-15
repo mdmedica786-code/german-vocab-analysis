@@ -34,6 +34,12 @@ status: "new"
 > Wo ist denn mein Pass? Ich hatte ihn doch in die Handtasche gesteckt.
 > *Where is my passport? I had put it into my handbag.*
 
+**Phrases & Expressions:**
+- **den Schlüssel ins Schloss stecken** — *to put; to stick; to be stuck in*
+- **in Schwierigkeiten stecken** — *to put; to stick; to be stuck in*
+- **im Stau stecken** — *to put; to stick; to be stuck in*
+- **dahinter stecken** — *to put; to stick; to be stuck in*
+
 **Collocations**
 - den Schlüssel ins Schloss stecken
 - in Schwierigkeiten stecken

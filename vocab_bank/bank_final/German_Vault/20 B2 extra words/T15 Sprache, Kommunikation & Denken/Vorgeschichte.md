@@ -33,6 +33,11 @@ status: "new"
 > Der Fall hat eine lange Vorgeschichte.
 > *The case has a long background.*
 
+**Phrases & Expressions:**
+- **eine lange Vorgeschichte** — *background; previous history*
+- **die Vorgeschichte kennen** — *background; previous history*
+- **ohne Vorgeschichte** — *background; previous history*
+
 **Collocations**
 - eine lange Vorgeschichte
 - die Vorgeschichte kennen

@@ -30,6 +30,9 @@ status: "new"
 > Es war nur ein scheinbarer Erfolg.
 > *It was only an apparent success.*
 
+**Phrases & Expressions:**
+- **Es war nur ein scheinbarer Erfolg** — *It was only an apparent success* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

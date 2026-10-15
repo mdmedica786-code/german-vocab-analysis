@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Nach der Operation macht er eine Kur.
 > *After the operation he is going to a spa for treatment.*
+
+**Phrases & Expressions:**
+- **Nach der Operation macht er eine Kur** — *After the operation he is going to a spa for treatment* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

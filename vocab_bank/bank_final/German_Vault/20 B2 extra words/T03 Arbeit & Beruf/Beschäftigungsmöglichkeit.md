@@ -33,6 +33,11 @@ status: "new"
 > In der Region gibt es kaum Beschäftigungsmöglichkeiten.
 > *In the region there are hardly any employment opportunities.*
 
+**Phrases & Expressions:**
+- **neue Beschäftigungsmöglichkeiten** — *employment opportunity*
+- **Beschäftigungsmöglichkeiten schaffen** — *employment opportunity*
+- **eine Beschäftigungsmöglichkeit finden** — *employment opportunity*
+
 **Collocations**
 - neue Beschäftigungsmöglichkeiten
 - Beschäftigungsmöglichkeiten schaffen

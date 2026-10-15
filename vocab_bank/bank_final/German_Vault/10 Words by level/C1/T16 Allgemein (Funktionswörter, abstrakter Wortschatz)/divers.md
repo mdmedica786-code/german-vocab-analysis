@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Wir bieten diverse Kurse an.
 > *We offer various courses.*
+
+**Phrases & Expressions:**
+- **Wir bieten diverse Kurse an** — *We offer various courses* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

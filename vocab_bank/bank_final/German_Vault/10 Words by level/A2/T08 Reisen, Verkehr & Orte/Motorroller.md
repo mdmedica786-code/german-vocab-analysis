@@ -34,6 +34,9 @@ status: "new"
 > Oskar fährt mit dem Motorroller zur Arbeit.
 > *Oskar goes to work on a scooter.*
 
+**Phrases & Expressions:**
+- **Oskar fährt mit dem Motorroller zur Arbeit** — *Oskar goes to work on a scooter* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

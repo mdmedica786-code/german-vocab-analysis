@@ -35,6 +35,9 @@ status: "new"
 > Er schenkt seiner Freundin rote Rosen zum Geburtstag.
 > *He gives his girlfriend red roses for her birthday.*
 
+**Phrases & Expressions:**
+- **Er schenkt seiner Freundin rote Rosen zum Geburtstag** — *He gives his girlfriend red roses for her birthday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 10d (Kunststücke) · Goethe word list A2
 <!-- bank:end -->
 

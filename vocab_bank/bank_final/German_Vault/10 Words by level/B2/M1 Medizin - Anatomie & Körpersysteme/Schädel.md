@@ -33,6 +33,12 @@ status: "new"
 > Das Röntgenbild zeigt einen Bruch im Schädel.
 > *The X-ray shows a fracture in the skull.*
 
+**Phrases & Expressions:**
+- **Bruch des Schädels** — *skull*
+- **Schädel röntgen** — *skull*
+- **der Schädel brummt** — *skull*
+- **Verletzung am Schädel** — *skull*
+
 **Collocations**
 - Bruch des Schädels
 - Schädel röntgen

@@ -29,6 +29,11 @@ status: "new"
 > Bitte kreuzen Sie das Zutreffende an.
 > *Please tick what applies.*
 
+**Phrases & Expressions:**
+- **zutreffend sein** — *correct; applicable*
+- **die zutreffende Antwort** — *correct; applicable*
+- **Zutreffendes ankreuzen** — *correct; applicable*
+
 **Collocations**
 - zutreffend sein
 - die zutreffende Antwort

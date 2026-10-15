@@ -31,6 +31,11 @@ status: "new"
 > Der Redner zitierte aus einem Buch.
 > *The speaker quoted from a book.*
 
+**Phrases & Expressions:**
+- **aus einem Buch zitieren** — *to quote; to cite*
+- **jemanden zitieren** — *to quote; to cite*
+- **wörtlich zitieren** — *to quote; to cite*
+
 **Collocations**
 - aus einem Buch zitieren
 - jemanden zitieren

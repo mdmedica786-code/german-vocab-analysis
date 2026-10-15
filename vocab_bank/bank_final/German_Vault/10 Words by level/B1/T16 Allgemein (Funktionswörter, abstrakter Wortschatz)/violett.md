@@ -30,6 +30,9 @@ status: "new"
 > Sie trägt ein violettes Kleid.
 > *She is wearing a purple dress.*
 
+**Phrases & Expressions:**
+- **Sie trägt ein violettes Kleid** — *She is wearing a purple dress* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

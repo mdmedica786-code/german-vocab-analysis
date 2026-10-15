@@ -33,6 +33,11 @@ status: "new"
 > Ein hoher Prozentsatz der Befragten war unzufrieden.
 > *A high percentage of respondents was dissatisfied.*
 
+**Phrases & Expressions:**
+- **ein hoher Prozentsatz** — *percentage; rate*
+- **der Prozentsatz steigt** — *percentage; rate*
+- **Prozentsatz berechnen** — *percentage; rate*
+
 **Collocations**
 - ein hoher Prozentsatz
 - der Prozentsatz steigt

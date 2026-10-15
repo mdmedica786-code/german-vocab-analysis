@@ -29,6 +29,11 @@ status: "new"
 > Das Café auf der gegenüberliegenden Straßenseite ist neu.
 > *The café on the opposite side of the street is new.*
 
+**Phrases & Expressions:**
+- **die gegenüberliegende Seite** — *opposite; facing*
+- **das gegenüberliegende Ufer** — *opposite; facing*
+- **das gegenüberliegende Haus** — *opposite; facing*
+
 **Collocations**
 - die gegenüberliegende Seite
 - das gegenüberliegende Ufer

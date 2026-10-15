@@ -38,6 +38,9 @@ status: "new"
 > In diesem Beisl gibt es gutes Essen.
 > *This pub serves good food.*
 
+**Phrases & Expressions:**
+- **In diesem Beisl gibt es gutes Essen** — *This pub serves good food* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Sie hat die Patenschaft für das Kind übernommen.
 > *She has taken on the godparenthood for the child.*
 
+**Phrases & Expressions:**
+- **Sie hat die Patenschaft für das Kind übernommen** — *She has taken on the godparenthood for the child* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

@@ -30,6 +30,11 @@ status: "new"
 > Ich gehe einmal im Jahr zum Checkup.
 > *I go for a check-up once a year.*
 
+**Phrases & Expressions:**
+- **zum Checkup gehen** — *check-up; medical examination*
+- **ein Checkup machen** — *check-up; medical examination*
+- **ein jährlicher Checkup** — *check-up; medical examination*
+
 **Collocations**
 - zum Checkup gehen
 - ein Checkup machen

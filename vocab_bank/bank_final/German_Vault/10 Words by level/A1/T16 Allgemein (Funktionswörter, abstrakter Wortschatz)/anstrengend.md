@@ -31,6 +31,9 @@ status: "new"
 > Ich finde diese Arbeit sehr anstrengend.
 > *I find this work very tiring.*
 
+**Phrases & Expressions:**
+- **Ich finde diese Arbeit sehr anstrengend** — *I find this work very tiring* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13a (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

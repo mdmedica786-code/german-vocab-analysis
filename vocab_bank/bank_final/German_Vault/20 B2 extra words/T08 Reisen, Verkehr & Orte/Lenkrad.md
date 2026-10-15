@@ -33,6 +33,11 @@ status: "new"
 > Er hielt das Lenkrad mit beiden Händen fest.
 > *He held the steering wheel firmly with both hands.*
 
+**Phrases & Expressions:**
+- **am Lenkrad sitzen** — *steering wheel*
+- **das Lenkrad festhalten** — *steering wheel*
+- **das Lenkrad drehen** — *steering wheel*
+
 **Collocations**
 - am Lenkrad sitzen
 - das Lenkrad festhalten

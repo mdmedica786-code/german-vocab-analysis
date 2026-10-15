@@ -34,6 +34,9 @@ status: "new"
 > Auf dem Familienfoto sind alle Verwandten zu sehen.
 > *All the relatives can be seen in the family photo.*
 
+**Phrases & Expressions:**
+- **Auf dem Familienfoto sind alle Verwandten zu sehen** — *All the relatives can be seen in the family photo* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10b (Alltag und Familie)
 <!-- bank:end -->
 

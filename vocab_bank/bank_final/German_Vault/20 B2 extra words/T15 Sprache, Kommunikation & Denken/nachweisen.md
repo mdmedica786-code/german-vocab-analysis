@@ -32,6 +32,10 @@ status: "new"
 > Der Anwalt konnte die Unschuld seines Mandanten nachweisen.
 > *The lawyer was able to prove his client's innocence.*
 
+**Phrases & Expressions:**
+- **einen Zusammenhang nachweisen** — *to prove; to demonstrate; to detect*
+- **die Schuld nachweisen** — *to prove; to demonstrate; to detect*
+
 **Collocations**
 - einen Zusammenhang nachweisen
 - die Schuld nachweisen

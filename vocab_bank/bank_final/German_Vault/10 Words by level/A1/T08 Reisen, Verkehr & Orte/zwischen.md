@@ -32,6 +32,9 @@ status: "new"
 > Heidelberg liegt zwischen Frankfurt und Stuttgart.
 > *Heidelberg lies between Frankfurt and Stuttgart.*
 
+**Phrases & Expressions:**
+- **Heidelberg liegt zwischen Frankfurt und Stuttgart** — *Heidelberg lies between Frankfurt and Stuttgart* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 6b (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

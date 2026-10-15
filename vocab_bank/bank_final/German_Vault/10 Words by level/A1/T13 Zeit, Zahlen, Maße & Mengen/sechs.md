@@ -31,6 +31,9 @@ status: "new"
 > Wir haben sechs Stunden Unterricht.
 > *We have six hours of lessons.*
 
+**Phrases & Expressions:**
+- **Wir haben sechs Stunden Unterricht** — *We have six hours of lessons* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

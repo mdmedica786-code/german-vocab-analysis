@@ -35,6 +35,9 @@ status: "new"
 > Mein Sohn bekommt Nachhilfe in Mathe.
 > *My son gets tutoring in maths.*
 
+**Phrases & Expressions:**
+- **Mein Sohn bekommt Nachhilfe in Mathe** — *My son gets tutoring in maths* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

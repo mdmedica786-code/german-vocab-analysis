@@ -35,6 +35,9 @@ status: "new"
 > Die Schere schneidet nicht gut. Hast du eine andere?
 > *The scissors don't cut well. Do you have another pair?*
 
+**Phrases & Expressions:**
+- **Die Schere schneidet nicht gut. Hast du eine andere** — *The scissors don't cut well. Do you have another pair* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 6a ÜB (Arbeitswelt) · Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Jedes dritte Kind hat einen Migrationshintergrund.
 > *One in three children has a migrant background.*
 
+**Phrases & Expressions:**
+- **mit Migrationshintergrund** — *migrant background*
+- **Menschen mit Migrationshintergrund** — *migrant background*
+- **einen Migrationshintergrund haben** — *migrant background*
+
 **Collocations**
 - mit Migrationshintergrund
 - Menschen mit Migrationshintergrund

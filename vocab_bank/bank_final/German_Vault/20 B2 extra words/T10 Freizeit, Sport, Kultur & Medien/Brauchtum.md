@@ -33,6 +33,11 @@ status: "new"
 > In dieser Region wird das alte Brauchtum noch gepflegt.
 > *In this region the old customs are still cultivated.*
 
+**Phrases & Expressions:**
+- **Brauchtum pflegen** — *customs; folk traditions*
+- **regionales Brauchtum** — *customs; folk traditions*
+- **Sitten und Brauchtum** — *customs; folk traditions*
+
 **Collocations**
 - Brauchtum pflegen
 - regionales Brauchtum

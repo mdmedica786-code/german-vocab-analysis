@@ -33,6 +33,11 @@ status: "new"
 > In diesem Einzelfall machen wir eine Ausnahme.
 > *In this individual case we make an exception.*
 
+**Phrases & Expressions:**
+- **im Einzelfall** — *isolated case; individual case*
+- **kein Einzelfall** — *isolated case; individual case*
+- **Einzelfälle prüfen** — *isolated case; individual case*
+
 **Collocations**
 - im Einzelfall
 - kein Einzelfall

@@ -30,6 +30,11 @@ status: "new"
 > Im Inklusionshotel arbeiten Menschen mit und ohne Behinderung zusammen.
 > *In the inclusive hotel people with and without disabilities work together.*
 
+**Phrases & Expressions:**
+- **ein Inklusionshotel eröffnen** — *inclusive hotel (employing people with disabilities)*
+- **in einem Inklusionshotel arbeiten** — *inclusive hotel (employing people with disabilities)*
+- **ein Inklusionshotel besuchen** — *inclusive hotel (employing people with disabilities)*
+
 **Collocations**
 - ein Inklusionshotel eröffnen
 - in einem Inklusionshotel arbeiten

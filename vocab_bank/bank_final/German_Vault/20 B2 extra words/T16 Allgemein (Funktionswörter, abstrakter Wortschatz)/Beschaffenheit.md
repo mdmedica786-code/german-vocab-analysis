@@ -33,6 +33,10 @@ status: "new"
 > Die Beschaffenheit des Bodens beeinflusst das Wachstum.
 > *The nature of the soil influences growth.*
 
+**Phrases & Expressions:**
+- **die Beschaffenheit des Bodens** — *nature; condition; texture*
+- **von guter Beschaffenheit** — *nature; condition; texture*
+
 **Collocations**
 - die Beschaffenheit des Bodens
 - von guter Beschaffenheit

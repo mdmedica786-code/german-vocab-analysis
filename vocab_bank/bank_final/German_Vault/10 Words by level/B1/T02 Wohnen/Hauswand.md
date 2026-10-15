@@ -34,6 +34,9 @@ status: "new"
 > Jemand hat die Hauswand bemalt.
 > *Someone has painted the wall of the house.*
 
+**Phrases & Expressions:**
+- **Jemand hat die Hauswand bemalt** — *Someone has painted the wall of the house* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 1b (Kunststücke)
 <!-- bank:end -->
 

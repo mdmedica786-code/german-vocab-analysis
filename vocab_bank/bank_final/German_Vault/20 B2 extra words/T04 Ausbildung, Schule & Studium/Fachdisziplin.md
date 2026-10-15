@@ -33,6 +33,11 @@ status: "new"
 > Die Physik ist eine eigene Fachdisziplin.
 > *Physics is a separate academic discipline.*
 
+**Phrases & Expressions:**
+- **verschiedene Fachdisziplinen** — *academic discipline; field of expertise*
+- **eine Fachdisziplin vertreten** — *academic discipline; field of expertise*
+- **in der Fachdisziplin** — *academic discipline; field of expertise*
+
 **Collocations**
 - verschiedene Fachdisziplinen
 - eine Fachdisziplin vertreten

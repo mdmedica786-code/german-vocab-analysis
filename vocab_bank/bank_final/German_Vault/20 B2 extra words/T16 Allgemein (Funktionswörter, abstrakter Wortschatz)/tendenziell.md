@@ -29,6 +29,11 @@ status: "new"
 > Die Preise steigen tendenziell weiter.
 > *Prices tend to continue rising.*
 
+**Phrases & Expressions:**
+- **tendenziell steigen** — *tending to; as a trend*
+- **tendenziell besser** — *tending to; as a trend*
+- **tendenziell eher** — *tending to; as a trend*
+
 **Collocations**
 - tendenziell steigen
 - tendenziell besser

@@ -35,6 +35,10 @@ status: "new"
 > Ich bewundere dein Verhalten in der schwierigen Situation.
 > *I admire your behaviour in the difficult situation.*
 
+**Phrases & Expressions:**
+- **Dieses Verhalten finde ich inakzeptabel.** — I find this behaviour unacceptable. *([[B2-04 Beschwerde und Reklamation|Unzufriedenheit ausdrücken]] · B2)*
+- **Ich verstehe Ihren Ärger, aber ich kann kein respektloses Verhalten dulden.** — I understand your anger, but I cannot tolerate disrespectful behaviour. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Grenzen setzen]] · C1)*
+
 **Source:** Netzwerk neu B1 K2 10b (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

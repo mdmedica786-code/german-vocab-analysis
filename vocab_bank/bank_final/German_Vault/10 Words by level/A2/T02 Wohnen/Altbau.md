@@ -34,6 +34,9 @@ status: "new"
 > Wir wohnen in einem Altbau mit hohen Decken.
 > *We live in an old building with high ceilings.*
 
+**Phrases & Expressions:**
+- **Wir wohnen in einem Altbau mit hohen Decken** — *We live in an old building with high ceilings* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12c (Zusammen leben)
 <!-- bank:end -->
 

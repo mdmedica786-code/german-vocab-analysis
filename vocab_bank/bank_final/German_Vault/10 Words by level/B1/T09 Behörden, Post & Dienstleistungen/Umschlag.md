@@ -34,6 +34,9 @@ status: "new"
 > Stecken Sie den Brief in einen Umschlag.
 > *Put the letter in an envelope.*
 
+**Phrases & Expressions:**
+- **Stecken Sie den Brief in einen Umschlag** — *Put the letter in an envelope* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 6a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

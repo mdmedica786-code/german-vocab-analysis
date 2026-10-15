@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Viele Bürger beklagen den Lärm.
 > *Many citizens complain about the noise.*
+
+**Phrases & Expressions:**
+- **Viele Bürger beklagen den Lärm** — *Many citizens complain about the noise* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

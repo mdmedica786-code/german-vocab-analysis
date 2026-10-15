@@ -30,6 +30,9 @@ status: "new"
 > Der Herbst ist oft regnerisch.
 > *Autumn is often rainy.*
 
+**Phrases & Expressions:**
+- **Der Herbst ist oft regnerisch** — *Autumn is often rainy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 11a (Umweltfreundlich?)
 <!-- bank:end -->
 

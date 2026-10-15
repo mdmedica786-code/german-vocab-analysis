@@ -32,6 +32,9 @@ status: "new"
 > Die Schauspieler improvisieren die Szene.
 > *The actors improvise the scene.*
 
+**Phrases & Expressions:**
+- **Die Schauspieler improvisieren die Szene** — *The actors improvise the scene* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 10a (Kunststücke)
 <!-- bank:end -->
 

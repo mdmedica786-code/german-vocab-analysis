@@ -31,6 +31,11 @@ status: "new"
 > Das Beispiel verdeutlicht das Problem.
 > *The example makes the problem clear.*
 
+**Phrases & Expressions:**
+- **ein Problem verdeutlichen** — *to make clear; to illustrate*
+- **anschaulich verdeutlichen** — *to make clear; to illustrate*
+- **sich etwas verdeutlichen** — *to make clear; to illustrate*
+
 **Collocations**
 - ein Problem verdeutlichen
 - anschaulich verdeutlichen

@@ -29,6 +29,11 @@ status: "new"
 > Sie hatte eine kindliche Freude an dem Geschenk.
 > *She had a childlike joy in the present.*
 
+**Phrases & Expressions:**
+- **kindliche Freude** — *childlike; childish*
+- **kindlich naiv** — *childlike; childish*
+- **eine kindliche Stimme** — *childlike; childish*
+
 **Collocations**
 - kindliche Freude
 - kindlich naiv

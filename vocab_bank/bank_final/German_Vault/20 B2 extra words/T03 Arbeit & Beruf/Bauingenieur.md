@@ -33,6 +33,11 @@ status: "new"
 > Der Bauingenieur prüft die Pläne der Brücke.
 > *The civil engineer checks the plans of the bridge.*
 
+**Phrases & Expressions:**
+- **als Bauingenieur arbeiten** — *civil engineer (male)*
+- **ein erfahrener Bauingenieur** — *civil engineer (male)*
+- **Bauingenieur werden** — *civil engineer (male)*
+
 **Collocations**
 - als Bauingenieur arbeiten
 - ein erfahrener Bauingenieur

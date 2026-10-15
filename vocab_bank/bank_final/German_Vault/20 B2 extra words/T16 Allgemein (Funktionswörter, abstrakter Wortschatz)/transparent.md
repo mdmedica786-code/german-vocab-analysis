@@ -29,6 +29,11 @@ status: "new"
 > Die Regeln sollten transparent sein.
 > *The rules should be transparent.*
 
+**Phrases & Expressions:**
+- **transparent machen** — *transparent; clear*
+- **eine transparente Entscheidung** — *transparent; clear*
+- **ein transparentes Verfahren** — *transparent; clear*
+
 **Collocations**
 - transparent machen
 - eine transparente Entscheidung

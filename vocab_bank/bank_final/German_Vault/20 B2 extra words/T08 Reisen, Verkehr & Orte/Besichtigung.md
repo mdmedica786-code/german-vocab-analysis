@@ -33,6 +33,12 @@ status: "new"
 > Die Besichtigung der Burg dauert etwa eine Stunde.
 > *The tour of the castle takes about an hour.*
 
+**Phrases & Expressions:**
+- **Wäre eine Besichtigung diese Woche möglich?** — Would a viewing be possible this week? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Wohnung besichtigen]] · B1)*
+- **eine Besichtigung machen** — *visit; viewing; tour*
+- **Besichtigung der Wohnung** — *visit; viewing; tour*
+- **zur Besichtigung kommen** — *visit; viewing; tour*
+
 **Collocations**
 - eine Besichtigung machen
 - Besichtigung der Wohnung

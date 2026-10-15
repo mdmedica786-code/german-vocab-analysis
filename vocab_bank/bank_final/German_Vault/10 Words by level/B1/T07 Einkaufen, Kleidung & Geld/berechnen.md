@@ -33,6 +33,9 @@ status: "new"
 > Die Kosten für die Fahrt müssen erst berechnet werden.
 > *The cost of the trip must first be calculated.*
 
+**Phrases & Expressions:**
+- **Die Kosten für die Fahrt müssen erst berechnet werden** — *The cost of the trip must first be calculated* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 3 (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

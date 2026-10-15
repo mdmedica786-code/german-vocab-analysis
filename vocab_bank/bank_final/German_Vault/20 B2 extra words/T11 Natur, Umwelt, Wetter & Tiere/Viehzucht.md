@@ -33,6 +33,11 @@ status: "new"
 > In dieser Region lebt man von der Viehzucht.
 > *In this region people live from livestock farming.*
 
+**Phrases & Expressions:**
+- **Viehzucht betreiben** — *livestock farming*
+- **Landwirtschaft und Viehzucht** — *livestock farming*
+- **von der Viehzucht leben** — *livestock farming*
+
 **Collocations**
 - Viehzucht betreiben
 - Landwirtschaft und Viehzucht

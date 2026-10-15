@@ -34,6 +34,9 @@ status: "new"
 > Bitte machen Sie auf dem Formular eine Altersangabe.
 > *Please state your age on the form.*
 
+**Phrases & Expressions:**
+- **Bitte machen Sie auf dem Formular eine Altersangabe** — *Please state your age on the form* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 8a (Arbeitswelten)
 <!-- bank:end -->
 

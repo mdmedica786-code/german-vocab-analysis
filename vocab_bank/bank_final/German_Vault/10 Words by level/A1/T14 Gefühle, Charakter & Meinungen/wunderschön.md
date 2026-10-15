@@ -31,6 +31,9 @@ status: "new"
 > Wir haben einen Ausflug gemacht. Es war wunderschön.
 > *We went on an outing. It was wonderful.*
 
+**Phrases & Expressions:**
+- **Wir haben einen Ausflug gemacht. Es war wunderschön** — *We went on an outing. It was wonderful* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 12b (Ab in den Urlaub!) · Goethe word list B1
 <!-- bank:end -->
 

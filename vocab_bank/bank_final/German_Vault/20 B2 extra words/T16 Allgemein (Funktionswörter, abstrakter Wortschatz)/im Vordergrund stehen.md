@@ -26,6 +26,9 @@ status: "new"
 > Bei der Planung steht die Sicherheit im Vordergrund.
 > *In the planning, safety takes priority.*
 
+**Phrases & Expressions:**
+- **in den Vordergrund rücken** — *to be in the foreground; to take priority*
+
 **Collocations**
 - in den Vordergrund rücken
 

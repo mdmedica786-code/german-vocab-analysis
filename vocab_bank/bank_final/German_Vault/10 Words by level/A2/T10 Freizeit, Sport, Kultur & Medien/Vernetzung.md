@@ -34,6 +34,9 @@ status: "new"
 > Die Vernetzung der Krankenhäuser verbessert die Versorgung.
 > *Networking between hospitals improves care.*
 
+**Phrases & Expressions:**
+- **Die Vernetzung der Krankenhäuser verbessert die Versorgung** — *Networking between hospitals improves care* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
 <!-- bank:end -->
 

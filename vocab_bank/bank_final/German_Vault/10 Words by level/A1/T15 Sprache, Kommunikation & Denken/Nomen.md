@@ -35,6 +35,9 @@ status: "new"
 > Nomen schreibt man im Deutschen groß.
 > *In German, nouns are written with a capital letter.*
 
+**Phrases & Expressions:**
+- **Nomen schreibt man im Deutschen groß** — *In German, nouns are written with a capital letter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 6b (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

@@ -30,6 +30,9 @@ status: "new"
 > Diese Pflanze ist geschützt.
 > *This plant is protected.*
 
+**Phrases & Expressions:**
+- **Diese Pflanze ist geschützt** — *This plant is protected* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?)
 <!-- bank:end -->
 

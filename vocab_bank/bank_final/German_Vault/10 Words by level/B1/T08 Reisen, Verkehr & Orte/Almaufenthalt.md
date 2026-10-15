@@ -31,6 +31,9 @@ status: "new"
 > Der Almaufenthalt war sehr erholsam.
 > *The stay in the alpine pasture was very restful.*
 
+**Phrases & Expressions:**
+- **Der Almaufenthalt war sehr erholsam** — *The stay in the alpine pasture was very restful* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13b (Gute Reise!)
 <!-- bank:end -->
 

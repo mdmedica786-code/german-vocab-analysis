@@ -29,6 +29,11 @@ status: "new"
 > Er stocherte lustlos in seinem Essen herum.
 > *He picked listlessly at his food.*
 
+**Phrases & Expressions:**
+- **lustlos sein** — *listless; unenthusiastic*
+- **lustlos arbeiten** — *listless; unenthusiastic*
+- **lustlos wirken** — *listless; unenthusiastic*
+
 **Collocations**
 - lustlos sein
 - lustlos arbeiten

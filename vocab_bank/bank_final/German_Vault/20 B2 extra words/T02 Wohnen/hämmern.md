@@ -31,6 +31,11 @@ status: "new"
 > Der Nachbar hämmert schon den ganzen Morgen.
 > *The neighbour has been hammering all morning.*
 
+**Phrases & Expressions:**
+- **an die Tür hämmern** — *to hammer; to pound*
+- **auf etwas hämmern** — *to hammer; to pound*
+- **auf den Nagel hämmern** — *to hammer; to pound*
+
 **Collocations**
 - an die Tür hämmern
 - auf etwas hämmern

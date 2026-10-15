@@ -32,6 +32,12 @@ status: "new"
 > Man sollte diesem Detail nicht zu viel Bedeutung beimessen.
 > *One should not attach too much importance to this detail.*
 
+**Phrases & Expressions:**
+- **ein hohes Maß an ...** — a high degree of ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · C1)*
+- **Bedeutung beimessen** — *to attach (importance)*
+- **Wert beimessen** — *to attach (importance)*
+- **große Wichtigkeit beimessen** — *to attach (importance)*
+
 **Collocations**
 - Bedeutung beimessen
 - Wert beimessen

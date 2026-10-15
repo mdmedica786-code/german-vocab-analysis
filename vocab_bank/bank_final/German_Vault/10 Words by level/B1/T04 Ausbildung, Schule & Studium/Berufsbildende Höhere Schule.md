@@ -31,6 +31,9 @@ status: "new"
 > Die Berufsbildende Höhere Schule endet mit der Matura.
 > *The BHS (vocational secondary school) ends with the Matura.*
 
+**Phrases & Expressions:**
+- **Die Berufsbildende Höhere Schule endet mit der Matura** — *The BHS (vocational secondary school) ends with the Matura* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

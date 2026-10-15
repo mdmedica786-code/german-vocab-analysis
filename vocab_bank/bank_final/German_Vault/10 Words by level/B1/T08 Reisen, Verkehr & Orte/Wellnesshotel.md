@@ -34,6 +34,9 @@ status: "new"
 > Wir übernachten in einem Wellnesshotel.
 > *We are staying in a spa hotel.*
 
+**Phrases & Expressions:**
+- **Wir übernachten in einem Wellnesshotel** — *We are staying in a spa hotel* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 6a (Gute Reise!)
 <!-- bank:end -->
 

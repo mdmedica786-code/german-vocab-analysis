@@ -29,6 +29,11 @@ status: "new"
 > Die entscheidende Frage ist, wer das bezahlt.
 > *The crucial question is who pays for it.*
 
+**Phrases & Expressions:**
+- **der entscheidende Punkt** — *decisive; crucial*
+- **eine entscheidende Rolle spielen** — *decisive; crucial*
+- **entscheidend sein für** — *decisive; crucial*
+
 **Collocations**
 - der entscheidende Punkt
 - eine entscheidende Rolle spielen

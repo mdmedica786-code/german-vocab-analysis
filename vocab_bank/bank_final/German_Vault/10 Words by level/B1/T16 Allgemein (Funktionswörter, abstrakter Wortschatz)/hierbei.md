@@ -29,6 +29,12 @@ status: "new"
 > Hierbei handelt es sich um einen Notfall.
 > *This is an emergency.*
 
+**Phrases & Expressions:**
+- **hierbei handelt es sich um** — *in doing so; hereby*
+- **hierbei beachten** — *in doing so; hereby*
+- **hierbei helfen** — *in doing so; hereby*
+- **hierbei sein** — *in doing so; hereby*
+
 **Collocations**
 - hierbei handelt es sich um
 - hierbei beachten

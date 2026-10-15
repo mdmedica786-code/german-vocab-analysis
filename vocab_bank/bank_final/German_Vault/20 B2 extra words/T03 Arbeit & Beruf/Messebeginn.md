@@ -30,6 +30,11 @@ status: "new"
 > Vor Messebeginn müssen alle Stände fertig sein.
 > *Before the start of the fair all stands must be ready.*
 
+**Phrases & Expressions:**
+- **vor Messebeginn** — *start of the fair*
+- **zu Messebeginn** — *start of the fair*
+- **kurz nach Messebeginn** — *start of the fair*
+
 **Collocations**
 - vor Messebeginn
 - zu Messebeginn

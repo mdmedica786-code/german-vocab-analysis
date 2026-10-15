@@ -33,6 +33,11 @@ status: "new"
 > Die Pandemie hat unseren Alltag stark verändert.
 > *The pandemic has changed our everyday lives greatly.*
 
+**Phrases & Expressions:**
+- **eine Pandemie ausrufen** — *pandemic*
+- **während der Pandemie** — *pandemic*
+- **eine weltweite Pandemie** — *pandemic*
+
 **Collocations**
 - eine Pandemie ausrufen
 - während der Pandemie

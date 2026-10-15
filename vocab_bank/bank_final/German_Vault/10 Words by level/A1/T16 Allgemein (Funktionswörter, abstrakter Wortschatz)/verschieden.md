@@ -31,6 +31,12 @@ status: "new"
 > Unsere beiden Kinder sind sehr verschieden.
 > *Our two children are very different.*
 
+**Phrases & Expressions:**
+- **verschiedene Meinungen** — *different*
+- **ganz verschieden** — *different*
+- **verschiedene Möglichkeiten** — *different*
+- **verschieden aussehen** — *different*
+
 **Collocations**
 - verschiedene Meinungen
 - ganz verschieden

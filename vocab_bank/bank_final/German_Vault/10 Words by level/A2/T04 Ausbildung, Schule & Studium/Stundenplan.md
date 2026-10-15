@@ -35,6 +35,9 @@ status: "new"
 > Mein Stundenplan ist voll.
 > *My timetable is full.*
 
+**Phrases & Expressions:**
+- **Mein Stundenplan ist voll** — *My timetable is full* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 12a (Nach der Schulzeit) · Goethe word list A2
 <!-- bank:end -->
 

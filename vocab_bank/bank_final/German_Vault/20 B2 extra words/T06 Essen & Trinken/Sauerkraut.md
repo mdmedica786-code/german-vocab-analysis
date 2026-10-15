@@ -33,6 +33,11 @@ status: "new"
 > Zur Bratwurst gibt es Sauerkraut und Kartoffeln.
 > *With the bratwurst there is sauerkraut and potatoes.*
 
+**Phrases & Expressions:**
+- **Sauerkraut essen** — *sauerkraut; pickled cabbage*
+- **Sauerkraut mit Kasseler** — *sauerkraut; pickled cabbage*
+- **Sauerkraut kochen** — *sauerkraut; pickled cabbage*
+
 **Collocations**
 - Sauerkraut essen
 - Sauerkraut mit Kasseler

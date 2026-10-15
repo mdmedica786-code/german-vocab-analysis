@@ -29,6 +29,11 @@ status: "new"
 > Die Fehler im Bericht sind offenkundig.
 > *The errors in the report are obvious.*
 
+**Phrases & Expressions:**
+- **ein offenkundiger Fehler** — *obvious; evident*
+- **offenkundig falsch** — *obvious; evident*
+- **offenkundig werden** — *obvious; evident*
+
 **Collocations**
 - ein offenkundiger Fehler
 - offenkundig falsch

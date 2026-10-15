@@ -34,6 +34,9 @@ status: "new"
 > Auf dem Grill liegen Spieße mit Fleisch.
 > *There are skewers of meat on the grill.*
 
+**Phrases & Expressions:**
+- **Auf dem Grill liegen Spieße mit Fleisch** — *There are skewers of meat on the grill* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 1b (Kunststücke)
 <!-- bank:end -->
 

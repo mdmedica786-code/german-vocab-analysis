@@ -33,6 +33,11 @@ status: "new"
 > Der Pudel der Nachbarin bellt den ganzen Tag.
 > *The neighbour's poodle barks all day.*
 
+**Phrases & Expressions:**
+- **ein Pudel mit lockigem Fell** — *poodle*
+- **wie ein begossener Pudel** — *poodle*
+- **der Pudel des Nachbarn** — *poodle*
+
 **Collocations**
 - ein Pudel mit lockigem Fell
 - wie ein begossener Pudel

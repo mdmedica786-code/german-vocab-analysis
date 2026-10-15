@@ -33,6 +33,11 @@ status: "new"
 > Der Agent verhandelte den Vertrag für den Sänger.
 > *The agent negotiated the contract for the singer.*
 
+**Phrases & Expressions:**
+- **ein geheimer Agent** — *agent*
+- **als Agent arbeiten** — *agent*
+- **Agent und Klient** — *agent*
+
 **Collocations**
 - ein geheimer Agent
 - als Agent arbeiten

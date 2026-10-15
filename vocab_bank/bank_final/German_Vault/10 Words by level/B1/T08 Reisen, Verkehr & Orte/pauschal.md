@@ -31,6 +31,9 @@ status: "new"
 > Sie haben die Reise pauschal gebucht.
 > *They booked the trip as a package.*
 
+**Phrases & Expressions:**
+- **Das lässt sich nicht pauschal sagen.** — That cannot be said in general terms. *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Relativieren]] · B2)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

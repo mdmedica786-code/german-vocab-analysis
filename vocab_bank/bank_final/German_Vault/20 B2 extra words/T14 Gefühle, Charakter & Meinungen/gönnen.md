@@ -32,6 +32,11 @@ status: "new"
 > Ich gönne dir den Erfolg von Herzen.
 > *I am truly happy for your success.*
 
+**Phrases & Expressions:**
+- **jemandem etwas gönnen** — *to not begrudge; to treat (oneself)*
+- **sich etwas gönnen** — *to not begrudge; to treat (oneself)*
+- **jemandem nichts gönnen** — *to not begrudge; to treat (oneself)*
+
 **Collocations**
 - jemandem etwas gönnen
 - sich etwas gönnen

@@ -34,6 +34,9 @@ status: "new"
 > Ein Vorurteil ist eine Meinung ohne Beweis.
 > *A prejudice is an opinion without proof.*
 
+**Phrases & Expressions:**
+- **Ein Vorurteil ist eine Meinung ohne Beweis** — *A prejudice is an opinion without proof* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander)
 <!-- bank:end -->
 

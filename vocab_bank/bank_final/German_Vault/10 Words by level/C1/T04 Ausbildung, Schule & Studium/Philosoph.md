@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Kant war ein bekannter Philosoph.
 > *Kant was a famous philosopher.*
+
+**Phrases & Expressions:**
+- **Kant war ein bekannter Philosoph** — *Kant was a famous philosopher* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

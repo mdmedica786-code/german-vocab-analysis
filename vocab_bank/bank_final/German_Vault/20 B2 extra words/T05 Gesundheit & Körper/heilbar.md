@@ -29,6 +29,11 @@ status: "new"
 > Die Krankheit ist heute gut heilbar.
 > *The illness is easily curable today.*
 
+**Phrases & Expressions:**
+- **heilbar sein** — *curable; treatable*
+- **eine heilbare Krankheit** — *curable; treatable*
+- **nicht heilbar** — *curable; treatable*
+
 **Collocations**
 - heilbar sein
 - eine heilbare Krankheit

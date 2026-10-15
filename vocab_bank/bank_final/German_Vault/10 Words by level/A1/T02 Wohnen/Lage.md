@@ -35,6 +35,14 @@ status: "new"
 > Wir suchen eine Wohnung an/in zentraler Lage.
 > *We are looking for a flat in a central location.*
 
+**Phrases & Expressions:**
+- **in der Lage sein, ... zu ...** — to be able to ... *([[Können - Müssen - Dürfen (modal frames)|Können / Müssen / Dürfen (modal frames)]] · B2)*
+- **nicht in der Lage sein, ... zu ...** — not able to ... *([[Können - Müssen - Dürfen (modal frames)|Können / Müssen / Dürfen (modal frames)]] · B2)*
+- **in der Lage ist, ... zu ...** — is able to ... *([[Können - Müssen - Dürfen (modal frames)|Können / Müssen / Dürfen (modal frames)]] · B2)*
+- **in der Lage sind, ... zu ...** — are able to ... *([[Können - Müssen - Dürfen (modal frames)|Können / Müssen / Dürfen (modal frames)]] · B2)*
+- **dazu in der Lage sein** — to be capable of it *([[Können - Müssen - Dürfen (modal frames)|Können / Müssen / Dürfen (modal frames)]] · B2)*
+- **in der Lage sein** — to be able to *([[Können - Müssen - Dürfen (modal frames)|Können / Müssen / Dürfen (modal frames)]] · B2)*
+
 **Collocations**
 - zentrale Lage
 - in guter Lage

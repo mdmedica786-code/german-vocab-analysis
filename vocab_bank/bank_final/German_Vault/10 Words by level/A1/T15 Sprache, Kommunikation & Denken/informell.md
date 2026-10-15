@@ -30,6 +30,9 @@ status: "new"
 > Das war ein informelles Gespräch.
 > *That was an informal conversation.*
 
+**Phrases & Expressions:**
+- **Das war ein informelles Gespräch** — *That was an informal conversation* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 3b (Guten Tag!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Firma nahm die Drohung ernst.
 > *The company took the threat seriously.*
 
+**Phrases & Expressions:**
+- **eine Drohung aussprechen** — *threat*
+- **eine Drohung wahr machen** — *threat*
+- **unter Drohung** — *threat*
+
 **Collocations**
 - eine Drohung aussprechen
 - eine Drohung wahr machen

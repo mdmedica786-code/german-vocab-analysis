@@ -29,6 +29,11 @@ status: "new"
 > Jede weitere Diskussion ist überflüssig.
 > *Any further discussion is unnecessary.*
 
+**Phrases & Expressions:**
+- **völlig überflüssig** — *superfluous; unnecessary*
+- **überflüssig machen** — *superfluous; unnecessary*
+- **ein überflüssiger Kommentar** — *superfluous; unnecessary*
+
 **Collocations**
 - völlig überflüssig
 - überflüssig machen

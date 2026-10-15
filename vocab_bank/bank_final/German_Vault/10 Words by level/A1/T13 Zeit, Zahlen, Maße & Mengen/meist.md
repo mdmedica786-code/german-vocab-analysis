@@ -31,6 +31,13 @@ status: "new"
 > Wie gut kannst du Deutsch? – Das Meiste verstehe ich.
 > *How well can you speak German? – I understand most of it.*
 
+**Phrases & Expressions:**
+- **Die Ursache dafür ist meist ...** — The cause is usually ... *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Ursachen erklären]] · B2)*
+- **meist am Wochenende** — *mostly; most of the time*
+- **die meisten Leute** — *mostly; most of the time*
+- **meistens** — *mostly; most of the time*
+- **am meisten** — *mostly; most of the time*
+
 **Collocations**
 - meist am Wochenende
 - die meisten Leute

@@ -33,6 +33,11 @@ status: "new"
 > Die Adresse der Firma steht im Impressum der Website.
 > *The company's address is in the imprint of the website.*
 
+**Phrases & Expressions:**
+- **ins Impressum schauen** — *imprint; legal notice*
+- **im Impressum stehen** — *imprint; legal notice*
+- **Impressum der Seite** — *imprint; legal notice*
+
 **Collocations**
 - ins Impressum schauen
 - im Impressum stehen

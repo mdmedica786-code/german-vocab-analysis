@@ -33,6 +33,11 @@ status: "new"
 > Die Charakterisierung der Hauptfigur fällt schwer.
 > *Characterising the main character is difficult.*
 
+**Phrases & Expressions:**
+- **die Charakterisierung einer Figur** — *characterisation; description*
+- **eine kurze Charakterisierung** — *characterisation; description*
+- **eine treffende Charakterisierung** — *characterisation; description*
+
 **Collocations**
 - die Charakterisierung einer Figur
 - eine kurze Charakterisierung

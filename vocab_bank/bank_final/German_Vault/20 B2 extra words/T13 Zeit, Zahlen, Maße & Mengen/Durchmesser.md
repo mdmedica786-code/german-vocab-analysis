@@ -33,6 +33,11 @@ status: "new"
 > Der Durchmesser des Kreises beträgt zehn Zentimeter.
 > *The diameter of the circle is ten centimetres.*
 
+**Phrases & Expressions:**
+- **ein Durchmesser von** — *diameter*
+- **im Durchmesser** — *diameter*
+- **der innere Durchmesser** — *diameter*
+
 **Collocations**
 - ein Durchmesser von
 - im Durchmesser

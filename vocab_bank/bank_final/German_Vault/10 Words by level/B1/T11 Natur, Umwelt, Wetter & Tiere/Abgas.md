@@ -34,6 +34,9 @@ status: "new"
 > Die Abgase des Autos belasten die Luft.
 > *The car's exhaust fumes pollute the air.*
 
+**Phrases & Expressions:**
+- **Die Abgase des Autos belasten die Luft** — *The car's exhaust fumes pollute the air* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?)
 <!-- bank:end -->
 

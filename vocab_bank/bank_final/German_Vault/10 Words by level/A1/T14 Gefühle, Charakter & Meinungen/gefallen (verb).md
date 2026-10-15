@@ -34,6 +34,11 @@ status: "new"
 > Das gefällt mir.
 > *I like that.*
 
+**Phrases & Expressions:**
+- **Was mir gefällt, ist ...** — What I like is ... *([[B1-04 Vor- und Nachteile nennen|Vorteil nennen]] · B1)*
+- **Ihre Präsentation hat mir sehr gut gefallen.** — I liked your presentation very much. *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Positives Feedback geben]] · B1)*
+- **Was mir an ihm/ihr gefällt, ist ...** — What I like about him/her is ... *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Charakter beschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K11 1a (Die Jacke gefällt mir!) · Goethe word list A1
 <!-- bank:end -->
 

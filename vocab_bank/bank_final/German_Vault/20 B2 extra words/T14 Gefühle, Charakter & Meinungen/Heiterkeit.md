@@ -33,6 +33,11 @@ status: "new"
 > Ihre Heiterkeit steckte alle an.
 > *Her cheerfulness infected everyone.*
 
+**Phrases & Expressions:**
+- **Heiterkeit ausstrahlen** — *cheerfulness; merriment*
+- **allgemeine Heiterkeit** — *cheerfulness; merriment*
+- **große Heiterkeit auslösen** — *cheerfulness; merriment*
+
 **Collocations**
 - Heiterkeit ausstrahlen
 - allgemeine Heiterkeit

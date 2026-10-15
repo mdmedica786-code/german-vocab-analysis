@@ -34,6 +34,9 @@ status: "new"
 > Bitte den Rasen nicht betreten!
 > *Please do not walk on the grass!*
 
+**Phrases & Expressions:**
+- **Bitte den Rasen nicht betreten** — *Please do not walk on the grass* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

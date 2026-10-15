@@ -33,6 +33,11 @@ status: "new"
 > Der Satzbau im Deutschen ist für viele Lernende schwierig.
 > *German sentence structure is difficult for many learners.*
 
+**Phrases & Expressions:**
+- **komplizierter Satzbau** — *sentence structure*
+- **Satzbau und Wortstellung** — *sentence structure*
+- **den Satzbau üben** — *sentence structure*
+
 **Collocations**
 - komplizierter Satzbau
 - Satzbau und Wortstellung

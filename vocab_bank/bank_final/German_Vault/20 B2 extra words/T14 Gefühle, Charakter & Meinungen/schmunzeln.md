@@ -32,6 +32,11 @@ status: "new"
 > Er schmunzelte über ihren Witz.
 > *He smiled at her joke.*
 
+**Phrases & Expressions:**
+- **über etwas schmunzeln** — *to smile (amused); to grin quietly*
+- **leise schmunzeln** — *to smile (amused); to grin quietly*
+- **schmunzelnd sagen** — *to smile (amused); to grin quietly*
+
 **Collocations**
 - über etwas schmunzeln
 - leise schmunzeln

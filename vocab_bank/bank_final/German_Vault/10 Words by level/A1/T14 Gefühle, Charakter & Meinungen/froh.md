@@ -31,6 +31,12 @@ status: "new"
 > Ich bin froh, dass du kommen kannst.
 > *I am glad that you can come.*
 
+**Phrases & Expressions:**
+- **ich bin froh, dass ...** — I'm glad that ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · A2)*
+- **froh sein, dass ...** — to be glad that ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **ich bin so froh, dass ...** — I'm so glad that ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **ich war froh, dass ...** — I was glad that ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+
 **Source:** Netzwerk neu A1 K12 7a (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

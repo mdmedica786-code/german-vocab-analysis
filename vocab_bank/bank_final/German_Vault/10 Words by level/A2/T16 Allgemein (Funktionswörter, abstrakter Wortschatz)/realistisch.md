@@ -31,6 +31,9 @@ status: "new"
 > Ich glaube nicht, dass du für das Auto noch so viel Geld bekommst. Das ist nicht realistisch.
 > *I don't think you will still get that much money for the car. That is not realistic.*
 
+**Phrases & Expressions:**
+- **Lassen Sie uns gemeinsam ein realistisches Ziel festlegen.** — Let us set a realistic goal together. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Ziele vereinbaren]] · B2)*
+
 **Source:** Netzwerk neu A2 K8 3a (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

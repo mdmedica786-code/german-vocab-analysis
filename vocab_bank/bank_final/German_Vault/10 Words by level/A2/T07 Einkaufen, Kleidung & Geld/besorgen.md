@@ -33,6 +33,9 @@ status: "new"
 > Kannst du ein paar Tomaten besorgen?
 > *Could you get a few tomatoes?*
 
+**Phrases & Expressions:**
+- **Kannst du ein paar Tomaten besorgen** — *Could you get a few tomatoes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 12a (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Die Milch steht im Kühlschrank.
 > *The milk is in the fridge.*
 
+**Phrases & Expressions:**
+- **Die Milch steht im Kühlschrank** — *The milk is in the fridge* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

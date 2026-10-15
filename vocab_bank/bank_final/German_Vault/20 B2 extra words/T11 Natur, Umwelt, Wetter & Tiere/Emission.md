@@ -33,6 +33,11 @@ status: "new"
 > Die Emissionen von Kohlendioxid müssen sinken.
 > *Carbon dioxide emissions have to fall.*
 
+**Phrases & Expressions:**
+- **Emissionen senken** — *emission*
+- **schädliche Emissionen** — *emission*
+- **Ausstoß von Emissionen** — *emission*
+
 **Collocations**
 - Emissionen senken
 - schädliche Emissionen

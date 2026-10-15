@@ -30,6 +30,11 @@ status: "new"
 > Am Bürotag sprechen wir alles im Team ab.
 > *On the day in the office we discuss everything as a team.*
 
+**Phrases & Expressions:**
+- **ein Bürotag pro Woche** — *day in the office*
+- **zwei Bürotage** — *day in the office*
+- **am Bürotag** — *day in the office*
+
 **Collocations**
 - ein Bürotag pro Woche
 - zwei Bürotage

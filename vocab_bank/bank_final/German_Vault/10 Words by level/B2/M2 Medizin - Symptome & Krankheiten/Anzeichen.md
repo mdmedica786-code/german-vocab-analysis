@@ -33,6 +33,12 @@ status: "new"
 > Gibt es Anzeichen einer Infektion?
 > *Are there any signs of an infection?*
 
+**Phrases & Expressions:**
+- **erste Anzeichen** — *sign; indication*
+- **Anzeichen einer Infektion** — *sign; indication*
+- **Anzeichen zeigen** — *sign; indication*
+- **auf Anzeichen achten** — *sign; indication*
+
 **Collocations**
 - erste Anzeichen
 - Anzeichen einer Infektion

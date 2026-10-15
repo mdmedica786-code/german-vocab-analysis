@@ -34,6 +34,9 @@ status: "new"
 > Der Bauhof der Stadt repariert die Straßen.
 > *The municipal works yard repairs the roads.*
 
+**Phrases & Expressions:**
+- **Der Bauhof der Stadt repariert die Straßen** — *The municipal works yard repairs the roads* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der Verbraucherschutz informiert über Rechte beim Online-Kauf.
 > *Consumer protection provides information about rights when buying online.*
 
+**Phrases & Expressions:**
+- **Verbraucherschutz stärken** — *consumer protection*
+- **Verbraucherzentrale** — *consumer protection*
+- **gesetzlicher Verbraucherschutz** — *consumer protection*
+
 **Collocations**
 - Verbraucherschutz stärken
 - Verbraucherzentrale

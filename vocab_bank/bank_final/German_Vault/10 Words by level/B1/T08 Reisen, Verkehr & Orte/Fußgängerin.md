@@ -35,6 +35,9 @@ status: "new"
 > Die Fußgängerin wartet an der Ampel.
 > *The pedestrian waits at the traffic light.*
 
+**Phrases & Expressions:**
+- **Die Fußgängerin wartet an der Ampel** — *The pedestrian waits at the traffic light* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 1b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

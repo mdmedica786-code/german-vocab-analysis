@@ -29,6 +29,11 @@ status: "new"
 > Zuerst wurde die Lage erläutert, sodann folgte die Abstimmung.
 > *First the situation was explained, then the vote followed.*
 
+**Phrases & Expressions:**
+- **und sodann** — *then; thereupon*
+- **sodann folgen** — *then; thereupon*
+- **sodann übergehen zu** — *then; thereupon*
+
 **Collocations**
 - und sodann
 - sodann folgen

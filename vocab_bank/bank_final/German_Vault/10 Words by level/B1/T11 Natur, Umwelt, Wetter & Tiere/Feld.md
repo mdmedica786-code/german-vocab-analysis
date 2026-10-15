@@ -34,6 +34,9 @@ status: "new"
 > Auf diesem Feld wächst Gemüse.
 > *Vegetables grow in this field.*
 
+**Phrases & Expressions:**
+- **Auf diesem Feld wächst Gemüse** — *Vegetables grow in this field* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

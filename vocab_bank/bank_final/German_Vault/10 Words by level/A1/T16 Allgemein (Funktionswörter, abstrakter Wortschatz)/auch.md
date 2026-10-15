@@ -31,6 +31,9 @@ status: "new"
 > Ich bin auch Spanier.
 > *I am Spanish too.*
 
+**Phrases & Expressions:**
+- **Ich bin auch Spanier** — *I am Spanish too* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 2a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

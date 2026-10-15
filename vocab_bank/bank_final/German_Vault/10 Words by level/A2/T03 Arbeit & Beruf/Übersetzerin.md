@@ -35,6 +35,9 @@ status: "new"
 > Die Übersetzerin arbeitet für einen Verlag.
 > *The translator works for a publishing house.*
 
+**Phrases & Expressions:**
+- **Die Übersetzerin arbeitet für einen Verlag** — *The translator works for a publishing house* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

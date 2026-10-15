@@ -31,6 +31,11 @@ status: "new"
 > Der Wald rauscht leise im Wind.
 > *The forest rustles softly in the wind.*
 
+**Phrases & Expressions:**
+- **das Wasser rauscht** — *to rustle; to roar; to rush*
+- **der Wind rauscht** — *to rustle; to roar; to rush*
+- **in den Bäumen rauschen** — *to rustle; to roar; to rush*
+
 **Collocations**
 - das Wasser rauscht
 - der Wind rauscht

@@ -34,6 +34,9 @@ status: "new"
 > Die Finnin wohnt in Helsinki.
 > *The Finnish woman lives in Helsinki.*
 
+**Phrases & Expressions:**
+- **Die Finnin wohnt in Helsinki** — *The Finnish woman lives in Helsinki* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

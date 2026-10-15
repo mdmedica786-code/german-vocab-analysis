@@ -31,6 +31,9 @@ status: "new"
 > Die Werbeanzeige steht in der Zeitung.
 > *The advertisement is in the newspaper.*
 
+**Phrases & Expressions:**
+- **Die Werbeanzeige steht in der Zeitung** — *The advertisement is in the newspaper* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 9b (Das ist ja praktisch!)
 <!-- bank:end -->
 

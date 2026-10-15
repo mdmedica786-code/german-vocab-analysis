@@ -35,6 +35,9 @@ status: "new"
 > Meine Großeltern hatten einen Bauernhof.
 > *My grandparents had a farm.*
 
+**Phrases & Expressions:**
+- **Meine Großeltern hatten einen Bauernhof** — *My grandparents had a farm* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1a (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

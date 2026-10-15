@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Er kam nebst seiner Frau.
 > *He came together with his wife.*
+
+**Phrases & Expressions:**
+- **Er kam nebst seiner Frau** — *He came together with his wife* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

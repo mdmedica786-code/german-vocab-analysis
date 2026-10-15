@@ -29,6 +29,11 @@ status: "new"
 > Der anhaltende Regen verursachte Überschwemmungen.
 > *The continuing rain caused floods.*
 
+**Phrases & Expressions:**
+- **anhaltender Regen** — *continuing; persistent*
+- **anhaltende Kritik** — *continuing; persistent*
+- **anhaltend schlechtes Wetter** — *continuing; persistent*
+
 **Collocations**
 - anhaltender Regen
 - anhaltende Kritik

@@ -35,6 +35,9 @@ status: "new"
 > Der Techniker repariert die Heizung.
 > *The technician is repairing the heating.*
 
+**Phrases & Expressions:**
+- **Der Techniker repariert die Heizung** — *The technician is repairing the heating* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 8a (Alltag und Familie) · Goethe word list A2
 <!-- bank:end -->
 

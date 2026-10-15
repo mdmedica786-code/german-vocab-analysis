@@ -32,6 +32,9 @@ status: "new"
 > Sie färbt sich die Haare rot.
 > *She is dyeing her hair red.*
 
+**Phrases & Expressions:**
+- **Sie färbt sich die Haare rot** — *She is dyeing her hair red* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 6a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

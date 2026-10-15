@@ -32,6 +32,14 @@ status: "new"
 > Sie hat ihre Bewerbung zurückgezogen.
 > *She has withdrawn her application.*
 
+**Phrases & Expressions:**
+- **hin und zurück** — there and back; return *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Bitte rufen Sie mich unter der Nummer ... zurück.** — Please call me back on the number ... *([[B2-07 Telefonieren|Nachricht hinterlassen]] · B1)*
+- **... geht stetig zurück.** — ... is steadily declining. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Rückgang beschreiben]] · B2)*
+- **Der Schmerz zieht bis in den linken Arm.** — The pain radiates into the left arm. *([[FSP-03 Schmerzanamnese|Patient: Ausstrahlung nennen]] · B1)*
+- **sich zurückziehen** — *to withdraw; to retreat*
+- **einen Antrag zurückziehen** — *to withdraw; to retreat*
+
 **Collocations**
 - sich zurückziehen
 - einen Antrag zurückziehen

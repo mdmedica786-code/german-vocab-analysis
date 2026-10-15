@@ -34,6 +34,9 @@ status: "new"
 > An einem Regentag bleibe ich zu Hause.
 > *On a rainy day I stay at home.*
 
+**Phrases & Expressions:**
+- **An einem Regentag bleibe ich zu Hause** — *On a rainy day I stay at home* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 5e (Veränderungen)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Parteien konnten keinen Konsens finden.
 > *The parties could not find a consensus.*
 
+**Phrases & Expressions:**
+- **einen Konsens finden** — *consensus*
+- **im Konsens** — *consensus*
+- **gesellschaftlicher Konsens** — *consensus*
+
 **Collocations**
 - einen Konsens finden
 - im Konsens

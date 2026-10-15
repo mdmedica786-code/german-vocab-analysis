@@ -34,6 +34,9 @@ status: "new"
 > Die Solistin singt die Arie.
 > *The soloist sings the aria.*
 
+**Phrases & Expressions:**
+- **Die Solistin singt die Arie** — *The soloist sings the aria* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg)
 <!-- bank:end -->
 

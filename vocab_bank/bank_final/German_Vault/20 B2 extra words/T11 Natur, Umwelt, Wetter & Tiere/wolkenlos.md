@@ -29,6 +29,11 @@ status: "new"
 > Der Himmel war den ganzen Tag wolkenlos.
 > *The sky was cloudless all day.*
 
+**Phrases & Expressions:**
+- **ein wolkenloser Himmel** — *cloudless*
+- **wolkenlos sein** — *cloudless*
+- **wolkenlos und klar** — *cloudless*
+
 **Collocations**
 - ein wolkenloser Himmel
 - wolkenlos sein

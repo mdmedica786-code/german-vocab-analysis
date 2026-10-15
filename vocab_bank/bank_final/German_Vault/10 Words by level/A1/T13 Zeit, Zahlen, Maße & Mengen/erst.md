@@ -31,6 +31,14 @@ status: "new"
 > Wir können erst morgen kommen.
 > *We can only come tomorrow.*
 
+**Phrases & Expressions:**
+- **erst einmal** — first of all; for now *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B1)*
+- **erst mal** — first (of all) *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **Es könnte sich um ... handeln, aber das müssen wir erst abklären.** — It could be ..., but we first need to clarify that. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Verdacht äußern]] · B2)*
+- **erst morgen** — *first; only; not until*
+- **erst recht** — *first; only; not until*
+- **erst jetzt** — *first; only; not until*
+
 **Collocations**
 - erst morgen
 - erst recht

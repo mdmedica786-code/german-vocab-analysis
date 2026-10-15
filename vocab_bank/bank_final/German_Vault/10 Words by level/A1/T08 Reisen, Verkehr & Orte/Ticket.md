@@ -35,6 +35,9 @@ status: "new"
 > Wie viel kostet das Ticket?
 > *How much does the ticket cost?*
 
+**Phrases & Expressions:**
+- **Wie viel kostet das Ticket** — *How much does the ticket cost* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

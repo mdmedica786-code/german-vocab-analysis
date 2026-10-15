@@ -26,6 +26,10 @@ status: "new"
 > Der Autor misst diesem Punkt große Bedeutung bei.
 > *The author attaches great importance to this point.*
 
+**Phrases & Expressions:**
+- **große Bedeutung beimessen** — *to attach importance*
+- **Wert beimessen** — *to attach importance*
+
 **Collocations**
 - große Bedeutung beimessen
 - Wert beimessen

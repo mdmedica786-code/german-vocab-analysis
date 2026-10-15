@@ -33,6 +33,11 @@ status: "new"
 > Die Gesellschafter treffen sich einmal im Jahr.
 > *The shareholders meet once a year.*
 
+**Phrases & Expressions:**
+- **ein stiller Gesellschafter** — *shareholder; partner*
+- **Gesellschafter einer GmbH** — *shareholder; partner*
+- **die Gesellschafterversammlung** — *shareholder; partner*
+
 **Collocations**
 - ein stiller Gesellschafter
 - Gesellschafter einer GmbH

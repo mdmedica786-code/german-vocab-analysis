@@ -34,6 +34,9 @@ status: "new"
 > Die Beurteilung des Mitarbeiters ist positiv.
 > *The assessment of the employee is positive.*
 
+**Phrases & Expressions:**
+- **Die Beurteilung des Mitarbeiters ist positiv** — *The assessment of the employee is positive* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

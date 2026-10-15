@@ -30,6 +30,9 @@ status: "new"
 > Hier ist die Treppe, also los, schnell rauf!
 > *Here is the staircase, so quickly, up!*
 
+**Phrases & Expressions:**
+- **Hier ist die Treppe, also los, schnell rauf** — *Here is the staircase, so quickly, up* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

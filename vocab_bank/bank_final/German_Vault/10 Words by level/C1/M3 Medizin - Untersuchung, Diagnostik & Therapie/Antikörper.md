@@ -33,6 +33,12 @@ status: "new"
 > Der Körper bildet Antikörper gegen das Virus.
 > *The body forms antibodies against the virus.*
 
+**Phrases & Expressions:**
+- **Antikörper bilden** — *antibody*
+- **Antikörper nachweisen** — *antibody*
+- **Antikörper gegen das Virus** — *antibody*
+- **Antikörper im Blut** — *antibody*
+
 **Collocations**
 - Antikörper bilden
 - Antikörper nachweisen

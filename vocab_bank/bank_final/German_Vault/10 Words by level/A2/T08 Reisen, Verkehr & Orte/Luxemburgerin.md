@@ -34,6 +34,9 @@ status: "new"
 > Die Luxemburgerin arbeitet in Trier.
 > *The Luxembourg woman works in Trier.*
 
+**Phrases & Expressions:**
+- **Die Luxemburgerin arbeitet in Trier** — *The Luxembourg woman works in Trier* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

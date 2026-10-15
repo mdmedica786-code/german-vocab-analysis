@@ -26,6 +26,11 @@ status: "new"
 > Am Ende des Vortrags zog sie ein kurzes Fazit.
 > *At the end of the talk she drew a short conclusion.*
 
+**Phrases & Expressions:**
+- **Bilanz ziehen** — *to draw a conclusion; to sum up*
+- **ein positives Fazit ziehen** — *to draw a conclusion; to sum up*
+- **zum Fazit kommen** — *to draw a conclusion; to sum up*
+
 **Collocations**
 - Bilanz ziehen
 - ein positives Fazit ziehen

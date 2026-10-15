@@ -32,6 +32,14 @@ status: "new"
 > Jeder Arbeitgeber freut sich über offene und engagierte Mitarbeiter.
 > *Every employer is happy to have open and involved employees.*
 
+**Phrases & Expressions:**
+- **Offen ist noch, ob eine Operation nötig sein wird.** — It is still open whether an operation will be necessary. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Offene Fragen]] · B2)*
+- **Bei Zimmer sieben ist noch eine Kontrolle offen.** — A check is still outstanding in room seven. *([[FSP-19 Übergabe, Konsil und Rücksprache|Schichtübergabe]] · B2)*
+- **Mir ist ein Fehler unterlaufen, ich möchte das offen ansprechen.** — I made a mistake and want to address it openly. *([[FSP-19 Übergabe, Konsil und Rücksprache|Fehler ansprechen]] · C1)*
+- **offen sein für** — *open*
+- **offen reden** — *open*
+- **eine offene Stelle** — *open*
+
 **Collocations**
 - offen sein für
 - offen reden

@@ -30,6 +30,9 @@ status: "new"
 > Anscheinend ist er schon gegangen.
 > *Apparently he has already left.*
 
+**Phrases & Expressions:**
+- **Anscheinend ist er schon gegangen** — *Apparently he has already left* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 4b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

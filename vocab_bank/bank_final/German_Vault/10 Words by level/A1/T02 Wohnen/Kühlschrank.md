@@ -35,6 +35,9 @@ status: "new"
 > Haben wir noch Milch? – Ja, im Kühlschrank.
 > *Do we still have milk? – Yes, in the fridge.*
 
+**Phrases & Expressions:**
+- **Haben wir noch Milch? – Ja, im Kühlschrank** — *Do we still have milk? – Yes, in the fridge* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

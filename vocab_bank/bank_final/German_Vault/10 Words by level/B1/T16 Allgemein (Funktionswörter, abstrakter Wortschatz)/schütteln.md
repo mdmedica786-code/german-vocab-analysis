@@ -32,6 +32,12 @@ status: "new"
 > Die Flasche muss man vor dem Öffnen schütteln.
 > *The bottle must be shaken before opening.*
 
+**Phrases & Expressions:**
+- **den Kopf schütteln** — *to shake*
+- **die Hand schütteln** — *to shake*
+- **vor Gebrauch schütteln** — *to shake*
+- **sich schütteln** — *to shake*
+
 **Collocations**
 - den Kopf schütteln
 - die Hand schütteln

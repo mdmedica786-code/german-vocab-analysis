@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Buch kostet zehn Dollar.
 > *The book costs ten dollars.*
+
+**Phrases & Expressions:**
+- **Das Buch kostet zehn Dollar** — *The book costs ten dollars* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

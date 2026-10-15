@@ -29,6 +29,10 @@ status: "new"
 > Wir lösen das Problem Schritt für Schritt.
 > *We solve the problem step by step.*
 
+**Phrases & Expressions:**
+- **Schritt für Schritt vorgehen** — *step by step*
+- **allmählich** — *step by step*
+
 **Collocations**
 - Schritt für Schritt vorgehen
 - allmählich

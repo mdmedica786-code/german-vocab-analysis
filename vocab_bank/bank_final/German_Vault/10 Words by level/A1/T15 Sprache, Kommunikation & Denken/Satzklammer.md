@@ -34,6 +34,9 @@ status: "new"
 > Das Verb bildet mit dem Partizip eine Satzklammer.
 > *The verb forms a sentence bracket with the participle.*
 
+**Phrases & Expressions:**
+- **Das Verb bildet mit dem Partizip eine Satzklammer** — *The verb forms a sentence bracket with the participle* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 15b (Alltag und Familie)
 <!-- bank:end -->
 

@@ -31,6 +31,12 @@ status: "new"
 > Mein Großvater war ein erfolgreicher Geschäftsmann.
 > *My grandfather was a successful businessman.*
 
+**Phrases & Expressions:**
+- **erfolgreich sein** — *successful*
+- **erfolgreich abschließen** — *successful*
+- **ein erfolgreicher Geschäftsmann** — *successful*
+- **erfolgreich arbeiten** — *successful*
+
 **Collocations**
 - erfolgreich sein
 - erfolgreich abschließen

@@ -29,6 +29,11 @@ status: "new"
 > Demzufolge müssen alle Anträge bis Freitag eingehen.
 > *Accordingly all applications must arrive by Friday.*
 
+**Phrases & Expressions:**
+- **demzufolge ergibt sich** — *accordingly; according to this*
+- **demzufolge müssen** — *accordingly; according to this*
+- **demzufolge gilt** — *accordingly; according to this*
+
 **Collocations**
 - demzufolge ergibt sich
 - demzufolge müssen

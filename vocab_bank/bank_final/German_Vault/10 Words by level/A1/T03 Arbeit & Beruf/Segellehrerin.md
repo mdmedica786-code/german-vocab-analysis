@@ -34,6 +34,9 @@ status: "new"
 > Die Segellehrerin fährt mit uns aufs Meer.
 > *The sailing instructor takes us out to sea.*
 
+**Phrases & Expressions:**
+- **Die Segellehrerin fährt mit uns aufs Meer** — *The sailing instructor takes us out to sea* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 1b (Studium und Beruf)
 <!-- bank:end -->
 

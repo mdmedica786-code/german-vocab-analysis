@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Besitz von Waffen ist verboten.
 > *The possession of weapons is forbidden.*
+
+**Phrases & Expressions:**
+- **Der Besitz von Waffen ist verboten** — *The possession of weapons is forbidden* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

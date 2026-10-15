@@ -33,6 +33,11 @@ status: "new"
 > Die Firma bietet gute Aufstiegsmöglichkeiten.
 > *The company offers good opportunities for advancement.*
 
+**Phrases & Expressions:**
+- **gute Aufstiegsmöglichkeiten** — *opportunity for advancement; promotion prospect*
+- **keine Aufstiegsmöglichkeit haben** — *opportunity for advancement; promotion prospect*
+- **Aufstiegsmöglichkeiten bieten** — *opportunity for advancement; promotion prospect*
+
 **Collocations**
 - gute Aufstiegsmöglichkeiten
 - keine Aufstiegsmöglichkeit haben

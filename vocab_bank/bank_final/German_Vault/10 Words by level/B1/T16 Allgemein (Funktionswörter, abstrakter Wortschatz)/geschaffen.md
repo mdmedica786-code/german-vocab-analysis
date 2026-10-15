@@ -37,6 +37,12 @@ status: "new"
 > Für diese Aufgabe ist er wie geschaffen.
 > *He is made for this task.*
 
+**Phrases & Expressions:**
+- **wie geschaffen für** — *created; made (participle of schaffen)*
+- **neu geschaffen** — *created; made (participle of schaffen)*
+- **von Natur aus geschaffen** — *created; made (participle of schaffen)*
+- **geschaffene Werte** — *created; made (participle of schaffen)*
+
 **Collocations**
 - wie geschaffen für
 - neu geschaffen

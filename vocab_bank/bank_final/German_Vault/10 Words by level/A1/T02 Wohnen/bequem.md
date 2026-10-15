@@ -31,6 +31,9 @@ status: "new"
 > Das Sofa ist sehr bequem.
 > *The sofa is very comfortable.*
 
+**Phrases & Expressions:**
+- **Das Sofa ist sehr bequem** — *The sofa is very comfortable* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

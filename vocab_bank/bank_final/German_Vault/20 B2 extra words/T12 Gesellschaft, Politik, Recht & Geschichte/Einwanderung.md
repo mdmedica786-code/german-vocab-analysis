@@ -33,6 +33,11 @@ status: "new"
 > Die Einwanderung von Fachkräften soll erleichtert werden.
 > *The immigration of skilled workers is to be made easier.*
 
+**Phrases & Expressions:**
+- **Einwanderung fördern** — *immigration*
+- **Einwanderung begrenzen** — *immigration*
+- **die Einwanderung nach Deutschland** — *immigration*
+
 **Collocations**
 - Einwanderung fördern
 - Einwanderung begrenzen

@@ -33,6 +33,11 @@ status: "new"
 > Sie hat Liebeskummer und mag nichts essen.
 > *She is lovesick and does not want to eat anything.*
 
+**Phrases & Expressions:**
+- **Liebeskummer haben** — *heartache; lovesickness*
+- **an Liebeskummer leiden** — *heartache; lovesickness*
+- **wegen Liebeskummer** — *heartache; lovesickness*
+
 **Collocations**
 - Liebeskummer haben
 - an Liebeskummer leiden

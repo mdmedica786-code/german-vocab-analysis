@@ -35,6 +35,9 @@ status: "new"
 > Hier ist das Schlafzimmer.
 > *Here is the bedroom.*
 
+**Phrases & Expressions:**
+- **Hier ist das Schlafzimmer** — *Here is the bedroom* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

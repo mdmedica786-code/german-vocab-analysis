@@ -31,6 +31,13 @@ status: "new"
 > Haben Sie sonst noch einen Wunsch? – Nein danke, das ist alles.
 > *Is there anything else you'd like? – No thanks, that's all.*
 
+**Phrases & Expressions:**
+- **Ist Ihnen sonst noch etwas aufgefallen?** — Has anything else struck you? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Nachfragen]] · B1)*
+- **sonst noch etwas** — *otherwise*
+- **sonst nichts** — *otherwise*
+- **wie sonst** — *otherwise*
+- **sonst jemand** — *otherwise*
+
 **Collocations**
 - sonst noch etwas
 - sonst nichts

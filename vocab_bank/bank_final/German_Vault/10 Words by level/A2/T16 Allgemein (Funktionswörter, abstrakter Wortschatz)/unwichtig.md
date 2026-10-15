@@ -30,6 +30,9 @@ status: "new"
 > Das ist unwichtig, vergiss es.
 > *That is unimportant, forget it.*
 
+**Phrases & Expressions:**
+- **Das ist unwichtig, vergiss es** — *That is unimportant, forget it* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 12a ÜB (Große und kleine Gefühle)
 <!-- bank:end -->
 

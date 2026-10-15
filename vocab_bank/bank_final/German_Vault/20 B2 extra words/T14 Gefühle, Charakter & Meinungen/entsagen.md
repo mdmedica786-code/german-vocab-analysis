@@ -31,6 +31,11 @@ status: "new"
 > Er hat dem Alkohol für immer entsagt.
 > *He has renounced alcohol for good.*
 
+**Phrases & Expressions:**
+- **dem Alkohol entsagen** — *to renounce; to forgo*
+- **einem Wunsch entsagen** — *to renounce; to forgo*
+- **allem entsagen** — *to renounce; to forgo*
+
 **Collocations**
 - dem Alkohol entsagen
 - einem Wunsch entsagen

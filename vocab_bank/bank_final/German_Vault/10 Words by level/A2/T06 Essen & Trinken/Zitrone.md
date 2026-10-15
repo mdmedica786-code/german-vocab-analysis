@@ -35,6 +35,9 @@ status: "new"
 > Ich trinke den Tee mit Zitrone.
 > *I drink my tea with lemon.*
 
+**Phrases & Expressions:**
+- **Ich trinke den Tee mit Zitrone** — *I drink my tea with lemon* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3c (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

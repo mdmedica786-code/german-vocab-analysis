@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Der Soldat kehrt nach Hause zurück.
 > *The soldier returns home.*
+
+**Phrases & Expressions:**
+- **Der Soldat kehrt nach Hause zurück** — *The soldier returns home* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

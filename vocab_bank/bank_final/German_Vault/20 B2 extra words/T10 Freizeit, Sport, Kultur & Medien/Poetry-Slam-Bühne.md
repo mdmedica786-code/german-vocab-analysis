@@ -30,6 +30,11 @@ status: "new"
 > Auf der Poetry-Slam-Bühne trugen junge Autoren ihre Texte vor.
 > *On the poetry slam stage young authors performed their texts.*
 
+**Phrases & Expressions:**
+- **auf der Poetry-Slam-Bühne** — *poetry slam stage*
+- **eine Poetry-Slam-Bühne aufbauen** — *poetry slam stage*
+- **die Poetry-Slam-Bühne betreten** — *poetry slam stage*
+
 **Collocations**
 - auf der Poetry-Slam-Bühne
 - eine Poetry-Slam-Bühne aufbauen

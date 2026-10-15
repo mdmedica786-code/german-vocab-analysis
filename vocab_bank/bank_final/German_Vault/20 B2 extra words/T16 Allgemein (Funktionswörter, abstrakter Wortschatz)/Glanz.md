@@ -33,6 +33,11 @@ status: "new"
 > Der Boden hat einen schönen Glanz.
 > *The floor has a beautiful shine.*
 
+**Phrases & Expressions:**
+- **mit Glanz** — *shine; splendour*
+- **Glanz und Gloria** — *shine; splendour*
+- **den Glanz verlieren** — *shine; splendour*
+
 **Collocations**
 - mit Glanz
 - Glanz und Gloria

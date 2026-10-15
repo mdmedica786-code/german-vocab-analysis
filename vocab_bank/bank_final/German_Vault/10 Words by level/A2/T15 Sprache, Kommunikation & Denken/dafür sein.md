@@ -33,6 +33,14 @@ status: "new"
 > Ich bin dafür/dagegen.
 > *I am for it / against it.*
 
+**Phrases & Expressions:**
+- **dafür sorgen, dass ...** — to make sure that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **dafür zu sorgen, dass ...** — to make sure that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **dafür, dass ...** — considering that ... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B2)*
+- **dafür gesorgt, dass ...** — made sure that ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **sorgt dafür, dass ...** — makes sure that ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **der Grund dafür, dass ...** — the reason why ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B2)*
+
 **Source:** Netzwerk neu A2 K7 10c (Ganz schön mobil) · Goethe word list A2
 <!-- bank:end -->
 

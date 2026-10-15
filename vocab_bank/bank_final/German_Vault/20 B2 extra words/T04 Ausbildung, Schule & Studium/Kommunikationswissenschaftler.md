@@ -33,6 +33,11 @@ status: "new"
 > Der Kommunikationswissenschaftler erforscht soziale Medien.
 > *The communication scientist researches social media.*
 
+**Phrases & Expressions:**
+- **ein bekannter Kommunikationswissenschaftler** — *communication scientist (male)*
+- **als Kommunikationswissenschaftler arbeiten** — *communication scientist (male)*
+- **Kommunikationswissenschaftler werden** — *communication scientist (male)*
+
 **Collocations**
 - ein bekannter Kommunikationswissenschaftler
 - als Kommunikationswissenschaftler arbeiten

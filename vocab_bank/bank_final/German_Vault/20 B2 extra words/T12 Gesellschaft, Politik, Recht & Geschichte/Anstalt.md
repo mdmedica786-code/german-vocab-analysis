@@ -33,6 +33,11 @@ status: "new"
 > Er arbeitet in einer öffentlichen Anstalt.
 > *He works in a public institution.*
 
+**Phrases & Expressions:**
+- **Anstalten machen** — *institution*
+- **eine öffentliche Anstalt** — *institution*
+- **Anstalt des öffentlichen Rechts** — *institution*
+
 **Collocations**
 - Anstalten machen
 - eine öffentliche Anstalt

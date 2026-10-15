@@ -35,6 +35,9 @@ status: "new"
 > Gehen wir noch in ein Gasthaus ein Bier trinken?
 > *Shall we go for a beer in an inn?*
 
+**Phrases & Expressions:**
+- **Gehen wir noch in ein Gasthaus ein Bier trinken** — *Shall we go for a beer in an inn* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Unterhalb des Knies hat er eine Narbe.
 > *He has a scar below the knee.*
+
+**Phrases & Expressions:**
+- **Unterhalb des Knies hat er eine Narbe** — *He has a scar below the knee* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

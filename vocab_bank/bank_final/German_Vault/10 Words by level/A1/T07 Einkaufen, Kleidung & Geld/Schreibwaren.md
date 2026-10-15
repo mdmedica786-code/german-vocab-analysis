@@ -34,6 +34,9 @@ status: "new"
 > Schreibwaren kaufe ich im Papiergeschäft.
 > *I buy stationery at the stationer's.*
 
+**Phrases & Expressions:**
+- **Schreibwaren kaufe ich im Papiergeschäft** — *I buy stationery at the stationer's* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

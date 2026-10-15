@@ -33,6 +33,11 @@ status: "new"
 > Zur Vorsorge schließt man eine Versicherung ab.
 > *As a precaution you take out insurance.*
 
+**Phrases & Expressions:**
+- **Vorsorge treffen** — *precaution; provision*
+- **zur Vorsorge** — *precaution; provision*
+- **private Altersvorsorge** — *precaution; provision*
+
 **Collocations**
 - Vorsorge treffen
 - zur Vorsorge

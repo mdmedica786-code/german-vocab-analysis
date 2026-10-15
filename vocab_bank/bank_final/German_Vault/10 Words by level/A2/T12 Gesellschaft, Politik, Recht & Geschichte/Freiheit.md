@@ -35,6 +35,12 @@ status: "new"
 > Wir wollen die Freiheit haben, unsere Meinung sagen zu können.
 > *We want to have the freedom to say what we think.*
 
+**Phrases & Expressions:**
+- **die Freiheit haben** — *freedom*
+- **persönliche Freiheit** — *freedom*
+- **in Freiheit leben** — *freedom*
+- **Freiheit der Meinung** — *freedom*
+
 **Collocations**
 - die Freiheit haben
 - persönliche Freiheit

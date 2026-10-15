@@ -33,6 +33,11 @@ status: "new"
 > In Ballungsräumen sind die Mieten besonders hoch.
 > *In conurbations the rents are particularly high.*
 
+**Phrases & Expressions:**
+- **im Ballungsraum leben** — *conurbation; densely populated area*
+- **Ballungsräume entlasten** — *conurbation; densely populated area*
+- **großer Ballungsraum** — *conurbation; densely populated area*
+
 **Collocations**
 - im Ballungsraum leben
 - Ballungsräume entlasten

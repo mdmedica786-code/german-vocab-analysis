@@ -33,6 +33,12 @@ status: "new"
 > Meine Stärke ist, dass ich gut im Team arbeite.
 > *My strength is that I work well in a team.*
 
+**Phrases & Expressions:**
+- **Zu meinen Stärken zählt, dass ich teamfähig bin.** — Among my strengths is that I work well in a team. *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Stärken nennen]] · B2)*
+- **Stärken und Schwächen** — *strength; starch*
+- **seine Stärken kennen** — *strength; starch*
+- **eine besondere Stärke** — *strength; starch*
+
 **Collocations**
 - Stärken und Schwächen
 - seine Stärken kennen

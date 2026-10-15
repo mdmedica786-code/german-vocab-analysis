@@ -31,6 +31,9 @@ status: "new"
 > Mit diesen Leuten verstehe ich mich prima.
 > *I get on great with these people.*
 
+**Phrases & Expressions:**
+- **Mit diesen Leuten verstehe ich mich prima** — *I get on great with these people* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

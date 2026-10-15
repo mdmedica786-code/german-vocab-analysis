@@ -34,6 +34,9 @@ status: "new"
 > In der Eishöhle ist es sehr kalt.
 > *It is very cold in the ice cave.*
 
+**Phrases & Expressions:**
+- **In der Eishöhle ist es sehr kalt** — *It is very cold in the ice cave* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

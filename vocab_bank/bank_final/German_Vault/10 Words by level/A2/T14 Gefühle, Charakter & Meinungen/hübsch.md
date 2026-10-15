@@ -31,6 +31,9 @@ status: "new"
 > Wir haben eine hübsche Wohnung gefunden.
 > *We found a pretty flat.*
 
+**Phrases & Expressions:**
+- **Wir haben eine hübsche Wohnung gefunden** — *We found a pretty flat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 10d (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

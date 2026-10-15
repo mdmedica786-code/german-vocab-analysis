@@ -31,6 +31,12 @@ status: "new"
 > Sie fährt lieber mit der Bahn.
 > *She prefers to travel by train.*
 
+**Phrases & Expressions:**
+- **Ich würde lieber ... machen.** — I would rather do ... *([[B1-02 Zustimmen und Widersprechen|Gegenvorschlag einleiten]] · B1)*
+- **Ich würde lieber zu Hause bleiben, wenn das okay ist.** — I would rather stay at home if that's okay. *([[B1-05 Vorschläge machen und darauf reagieren|Gegenvorschlag machen]] · B1)*
+- **Sprechen Sie lieber Deutsch oder eine andere Sprache?** — Would you rather speak German or another language? *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Sprachniveau erfragen]] · B1)*
+- **Da bin ich mir nicht sicher, ich möchte lieber nachfragen.** — I'm not sure about that; I would rather ask. *([[FSP-19 Übergabe, Konsil und Rücksprache|Unsicherheit ausdrücken]] · B2)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

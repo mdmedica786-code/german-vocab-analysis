@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Das Thema bekommt viel mediale Aufmerksamkeit.
 > *The topic receives a lot of media attention.*
+
+**Phrases & Expressions:**
+- **Das Thema bekommt viel mediale Aufmerksamkeit** — *The topic receives a lot of media attention* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

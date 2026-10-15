@@ -35,6 +35,9 @@ status: "new"
 > Ist das der neue Fahrplan?
 > *Is that the new timetable?*
 
+**Phrases & Expressions:**
+- **Ist das der neue Fahrplan** — *Is that the new timetable* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 3a ÜB (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

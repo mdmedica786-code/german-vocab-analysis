@@ -33,6 +33,11 @@ status: "new"
 > Manche kritisieren, dass wir in einer Ellbogengesellschaft leben.
 > *Some criticise that we live in a dog-eat-dog society.*
 
+**Phrases & Expressions:**
+- **in einer Ellbogengesellschaft** — *dog-eat-dog society*
+- **die Ellbogengesellschaft kritisieren** — *dog-eat-dog society*
+- **Ellbogengesellschaft und Konkurrenzdruck** — *dog-eat-dog society*
+
 **Collocations**
 - in einer Ellbogengesellschaft
 - die Ellbogengesellschaft kritisieren

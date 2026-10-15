@@ -33,6 +33,11 @@ status: "new"
 > Sie hat den Lehrstuhl für Geschichte an der Universität Leipzig inne.
 > *She holds the chair of history at Leipzig University.*
 
+**Phrases & Expressions:**
+- **einen Lehrstuhl innehaben** — *university chair; professorship*
+- **Lehrstuhl für Physik** — *university chair; professorship*
+- **Inhaber eines Lehrstuhls** — *university chair; professorship*
+
 **Collocations**
 - einen Lehrstuhl innehaben
 - Lehrstuhl für Physik

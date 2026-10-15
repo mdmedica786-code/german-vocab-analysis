@@ -31,6 +31,11 @@ status: "new"
 > Im Frühling schmilzt der Schnee in den Bergen.
 > *In spring the snow melts in the mountains.*
 
+**Phrases & Expressions:**
+- **der Schnee schmilzt** — *to melt*
+- **Eis schmilzt** — *to melt*
+- **Butter schmelzen lassen** — *to melt*
+
 **Collocations**
 - der Schnee schmilzt
 - Eis schmilzt

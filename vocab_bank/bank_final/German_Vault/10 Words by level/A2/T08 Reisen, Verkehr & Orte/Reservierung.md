@@ -35,6 +35,9 @@ status: "new"
 > Was kostet eine Reservierung?
 > *How much does a reservation cost?*
 
+**Phrases & Expressions:**
+- **Was kostet eine Reservierung** — *How much does a reservation cost* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 9c (Und was machst du?) · Goethe word list B1
 <!-- bank:end -->
 

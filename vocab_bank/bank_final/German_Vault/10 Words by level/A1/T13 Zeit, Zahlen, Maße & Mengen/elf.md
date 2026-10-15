@@ -31,6 +31,9 @@ status: "new"
 > Der Zug fährt um elf Uhr ab.
 > *The train leaves at eleven o'clock.*
 
+**Phrases & Expressions:**
+- **Der Zug fährt um elf Uhr ab** — *The train leaves at eleven o'clock* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

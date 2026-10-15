@@ -33,6 +33,11 @@ status: "new"
 > Sie arbeitet im Controlling eines Konzerns.
 > *She works in the controlling department of a corporation.*
 
+**Phrases & Expressions:**
+- **im Controlling arbeiten** — *controlling (business)*
+- **Controlling und Finanzen** — *controlling (business)*
+- **die Abteilung Controlling** — *controlling (business)*
+
 **Collocations**
 - im Controlling arbeiten
 - Controlling und Finanzen

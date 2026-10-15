@@ -34,6 +34,9 @@ status: "new"
 > Der Kuchen ist im Backofen.
 > *The cake is in the oven.*
 
+**Phrases & Expressions:**
+- **Der Kuchen ist im Backofen** — *The cake is in the oven* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 11a (Kunststücke)
 <!-- bank:end -->
 

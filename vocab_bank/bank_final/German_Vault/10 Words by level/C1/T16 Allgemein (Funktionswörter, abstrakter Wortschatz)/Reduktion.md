@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Reduktion der Kosten ist unser Ziel.
 > *The reduction of costs is our goal.*
+
+**Phrases & Expressions:**
+- **Die Reduktion der Kosten ist unser Ziel** — *The reduction of costs is our goal* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -32,6 +32,9 @@ status: "new"
 > Wir müssen sofort Maßnahmen ergreifen.
 > *We must take measures immediately.*
 
+**Phrases & Expressions:**
+- **Wir müssen sofort Maßnahmen ergreifen** — *We must take measures immediately* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?)
 <!-- bank:end -->
 

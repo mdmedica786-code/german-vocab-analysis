@@ -26,6 +26,10 @@ status: "new"
 > Nimm dir die Kritik nicht zu sehr zu Herzen.
 > *Don't take the criticism too much to heart.*
 
+**Phrases & Expressions:**
+- **sich einen Rat zu Herzen nehmen** — *to take something to heart*
+- **sich die Worte zu Herzen nehmen** — *to take something to heart*
+
 **Collocations**
 - sich einen Rat zu Herzen nehmen
 - sich die Worte zu Herzen nehmen

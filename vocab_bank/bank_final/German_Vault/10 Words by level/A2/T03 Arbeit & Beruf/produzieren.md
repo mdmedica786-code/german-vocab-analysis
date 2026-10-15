@@ -33,6 +33,9 @@ status: "new"
 > Unsere Firma produziert Feuerzeuge.
 > *Our company produces lighters.*
 
+**Phrases & Expressions:**
+- **Unsere Firma produziert Feuerzeuge** — *Our company produces lighters* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

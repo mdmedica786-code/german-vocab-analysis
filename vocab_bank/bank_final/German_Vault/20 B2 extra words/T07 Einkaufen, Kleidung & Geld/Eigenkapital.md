@@ -33,6 +33,11 @@ status: "new"
 > Für den Kredit braucht man genug Eigenkapital.
 > *For the loan you need enough equity.*
 
+**Phrases & Expressions:**
+- **Eigenkapital einbringen** — *equity; own capital*
+- **genug Eigenkapital** — *equity; own capital*
+- **das Eigenkapital der Firma** — *equity; own capital*
+
 **Collocations**
 - Eigenkapital einbringen
 - genug Eigenkapital

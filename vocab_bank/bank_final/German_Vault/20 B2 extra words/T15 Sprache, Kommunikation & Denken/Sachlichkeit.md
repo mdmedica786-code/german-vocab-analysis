@@ -33,6 +33,11 @@ status: "new"
 > Wir sollten die Diskussion mit Sachlichkeit führen.
 > *We should conduct the discussion with objectivity.*
 
+**Phrases & Expressions:**
+- **in aller Sachlichkeit** — *objectivity; matter-of-factness*
+- **auf Sachlichkeit achten** — *objectivity; matter-of-factness*
+- **kühle Sachlichkeit** — *objectivity; matter-of-factness*
+
 **Collocations**
 - in aller Sachlichkeit
 - auf Sachlichkeit achten

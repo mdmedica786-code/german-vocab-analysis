@@ -35,6 +35,9 @@ status: "new"
 > Wir machen Urlaub am Meer.
 > *We're spending our holiday by the sea.*
 
+**Phrases & Expressions:**
+- **Wir machen Urlaub am Meer** — *We're spending our holiday by the sea* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

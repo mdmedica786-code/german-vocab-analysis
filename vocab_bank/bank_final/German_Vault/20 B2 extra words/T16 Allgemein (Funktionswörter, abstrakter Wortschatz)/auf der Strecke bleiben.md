@@ -29,6 +29,10 @@ status: "new"
 > Bei den Kürzungen bleiben die Schwächsten auf der Strecke.
 > *With the cuts the weakest fall by the wayside.*
 
+**Phrases & Expressions:**
+- **auf der Strecke lassen** — *to fall by the wayside*
+- **zurückgelassen werden** — *to fall by the wayside*
+
 **Collocations**
 - auf der Strecke lassen
 - zurückgelassen werden

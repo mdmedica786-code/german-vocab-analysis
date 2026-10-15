@@ -33,6 +33,11 @@ status: "new"
 > Eltern erhalten für jedes Kind Kindergeld.
 > *Parents receive child benefit for each child.*
 
+**Phrases & Expressions:**
+- **Kindergeld beantragen** — *child benefit*
+- **Kindergeld bekommen** — *child benefit*
+- **Kindergeld erhöhen** — *child benefit*
+
 **Collocations**
 - Kindergeld beantragen
 - Kindergeld bekommen

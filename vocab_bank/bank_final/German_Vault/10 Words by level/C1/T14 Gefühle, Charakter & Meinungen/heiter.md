@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Morgen wird es heiter bis wolkig.
 > *Tomorrow it will be fair to cloudy.*
+
+**Phrases & Expressions:**
+- **Morgen wird es heiter bis wolkig** — *Tomorrow it will be fair to cloudy* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

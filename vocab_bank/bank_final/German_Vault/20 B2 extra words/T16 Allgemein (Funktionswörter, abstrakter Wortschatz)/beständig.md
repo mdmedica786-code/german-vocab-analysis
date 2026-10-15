@@ -29,6 +29,11 @@ status: "new"
 > Das Wetter bleibt beständig.
 > *The weather remains settled.*
 
+**Phrases & Expressions:**
+- **beständiges Wetter** — *constant; stable; resistant*
+- **beständig wachsen** — *constant; stable; resistant*
+- **beständig gegen Hitze** — *constant; stable; resistant*
+
 **Collocations**
 - beständiges Wetter
 - beständig wachsen

@@ -31,6 +31,12 @@ status: "new"
 > Das weiß ich nicht; ich bin fremd hier.
 > *I don't know that; I'm a stranger here.*
 
+**Phrases & Expressions:**
+- **eine fremde Sprache** — *foreign; strange; unfamiliar*
+- **in einem fremden Land** — *foreign; strange; unfamiliar*
+- **jemandem fremd sein** — *foreign; strange; unfamiliar*
+- **fremd klingen** — *foreign; strange; unfamiliar*
+
 **Collocations**
 - eine fremde Sprache
 - in einem fremden Land

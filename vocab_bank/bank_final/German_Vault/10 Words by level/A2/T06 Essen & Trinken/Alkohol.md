@@ -35,6 +35,11 @@ status: "new"
 > Du musst die Wunde mit Alkohol reinigen.
 > *You must clean the wound with alcohol.*
 
+**Phrases & Expressions:**
+- **Wie viel Alkohol trinken Sie pro Woche?** — How much alcohol do you drink per week? *([[FSP-05 Familien- und Sozialanamnese|Alkohol erfragen]] · A2)*
+- **Dieses Medikament wirkt anders, wenn Sie Alkohol trinken.** — This medicine works differently if you drink alcohol. *([[FSP-11 Therapie und Medikamente erklären|Wechselwirkungen]] · B2)*
+- **Ich rate Ihnen, Alkohol nur in Maßen zu trinken.** — I advise you to drink alcohol only in moderation. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Alkohol beraten]] · B2)*
+
 **Source:** Netzwerk neu A2 K11 1b ÜB (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Ich lese gern Romane.
 > *I like reading novels.*
 
+**Phrases & Expressions:**
+- **Ich lese gern Romane** — *I like reading novels* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

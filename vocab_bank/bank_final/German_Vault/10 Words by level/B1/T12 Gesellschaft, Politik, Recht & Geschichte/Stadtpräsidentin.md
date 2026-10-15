@@ -42,6 +42,9 @@ status: "new"
 > Die Stadtpräsidentin spricht zu den Bürgern.
 > *The mayor speaks to the citizens.*
 
+**Phrases & Expressions:**
+- **Die Stadtpräsidentin spricht zu den Bürgern** — *The mayor speaks to the citizens* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

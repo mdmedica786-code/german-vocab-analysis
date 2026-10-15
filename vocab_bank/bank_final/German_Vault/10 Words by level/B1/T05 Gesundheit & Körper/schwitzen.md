@@ -32,6 +32,9 @@ status: "new"
 > Es war sehr heiß. Wir haben alle sehr geschwitzt.
 > *It was very hot. We all sweated a lot.*
 
+**Phrases & Expressions:**
+- **Es war sehr heiß. Wir haben alle sehr geschwitzt** — *It was very hot. We all sweated a lot* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

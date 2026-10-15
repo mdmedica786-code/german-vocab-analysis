@@ -33,6 +33,11 @@ status: "new"
 > Im Schwarzwald wachsen viele Fichten und Tannen.
 > *Many spruces and firs grow in the Black Forest.*
 
+**Phrases & Expressions:**
+- **eine hohe Fichte** — *spruce*
+- **Fichtenwald** — *spruce*
+- **Fichten fällen** — *spruce*
+
 **Collocations**
 - eine hohe Fichte
 - Fichtenwald

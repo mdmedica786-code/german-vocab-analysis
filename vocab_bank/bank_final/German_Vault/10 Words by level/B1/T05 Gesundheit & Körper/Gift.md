@@ -35,6 +35,9 @@ status: "new"
 > Vorsicht, das Gift dieser Pflanze ist für Menschen gefährlich!
 > *Careful, the poison of this plant is dangerous to humans!*
 
+**Phrases & Expressions:**
+- **Vorsicht, das Gift dieser Pflanze ist für Menschen gefährlich** — *Careful, the poison of this plant is dangerous to humans* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

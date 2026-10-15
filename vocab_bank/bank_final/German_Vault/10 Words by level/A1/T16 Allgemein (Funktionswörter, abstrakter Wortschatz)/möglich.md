@@ -31,6 +31,14 @@ status: "new"
 > Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich.
 > *With this ticket, the journey is possible from 9 a.m.*
 
+**Phrases & Expressions:**
+- **so schnell wie möglich** — as quickly as possible *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **nicht möglich** — not possible *([[Können - Müssen - Dürfen (modal frames)|Können / Müssen / Dürfen (modal frames)]] · A2)*
+- **ist es möglich, ... zu ...?** — is it possible to ...? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B1)*
+- **es ist möglich, dass ...** — it is possible that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **so weit wie möglich** — as far as possible *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **ist es möglich, dass ...?** — is it possible that ...? *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+
 **Collocations**
 - so schnell wie möglich
 - wenn möglich

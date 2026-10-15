@@ -30,6 +30,11 @@ status: "new"
 > Der Fleischverbrauch pro Kopf ist leicht gesunken.
 > *Meat consumption per head has fallen slightly.*
 
+**Phrases & Expressions:**
+- **den Fleischverbrauch senken** — *meat consumption*
+- **der Fleischverbrauch steigt** — *meat consumption*
+- **der jährliche Fleischverbrauch** — *meat consumption*
+
 **Collocations**
 - den Fleischverbrauch senken
 - der Fleischverbrauch steigt

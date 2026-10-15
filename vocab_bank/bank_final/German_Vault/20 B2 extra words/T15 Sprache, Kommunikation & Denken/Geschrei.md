@@ -33,6 +33,11 @@ status: "new"
 > Das Geschrei der Kinder war bis auf die Straße zu hören.
 > *The children's shouting could be heard in the street.*
 
+**Phrases & Expressions:**
+- **lautes Geschrei** — *shouting; screaming; cries*
+- **ein großes Geschrei** — *shouting; screaming; cries*
+- **Geschrei machen** — *shouting; screaming; cries*
+
 **Collocations**
 - lautes Geschrei
 - ein großes Geschrei

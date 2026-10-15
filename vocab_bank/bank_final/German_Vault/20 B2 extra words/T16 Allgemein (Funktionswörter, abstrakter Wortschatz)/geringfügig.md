@@ -29,6 +29,11 @@ status: "new"
 > Die Preise haben sich nur geringfügig verändert.
 > *Prices have changed only slightly.*
 
+**Phrases & Expressions:**
+- **geringfügig beschäftigt** — *minor; slight*
+- **eine geringfügige Änderung** — *minor; slight*
+- **geringfügig abweichen** — *minor; slight*
+
 **Collocations**
 - geringfügig beschäftigt
 - eine geringfügige Änderung

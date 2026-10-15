@@ -35,6 +35,9 @@ status: "new"
 > Berlin ist die Hauptstadt von Deutschland.
 > *Berlin is the capital of Germany.*
 
+**Phrases & Expressions:**
+- **Berlin ist die Hauptstadt von Deutschland** — *Berlin is the capital of Germany* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -30,6 +30,12 @@ status: "new"
 > Manche Leute trinken schon morgens Kaffee.
 > *Some people drink coffee as early as the morning.*
 
+**Phrases & Expressions:**
+- **Manche Leute meinen, dass ..., aber ich sehe das anders.** — Some people think that ..., but I see it differently. *([[B1-14 Forumsbeitrag und Leserbrief schreiben|Gegenposition erwähnen]] · B1)*
+- **manche Leute** — *some; many a*
+- **in manchen Fällen** — *some; many a*
+- **so manche(r)** — *some; many a*
+
 **Collocations**
 - manche Leute
 - in manchen Fällen

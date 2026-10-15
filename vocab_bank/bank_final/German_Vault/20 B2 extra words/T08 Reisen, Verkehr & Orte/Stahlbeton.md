@@ -33,6 +33,11 @@ status: "new"
 > Die Brücke besteht aus Stahlbeton.
 > *The bridge is made of reinforced concrete.*
 
+**Phrases & Expressions:**
+- **Bauteile aus Stahlbeton** — *reinforced concrete*
+- **ein Haus aus Stahlbeton** — *reinforced concrete*
+- **mit Stahlbeton bauen** — *reinforced concrete*
+
 **Collocations**
 - Bauteile aus Stahlbeton
 - ein Haus aus Stahlbeton

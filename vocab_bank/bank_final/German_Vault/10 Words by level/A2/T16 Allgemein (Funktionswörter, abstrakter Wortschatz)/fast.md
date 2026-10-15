@@ -31,6 +31,12 @@ status: "new"
 > Der Film ist fast zu Ende.
 > *The film is almost over.*
 
+**Phrases & Expressions:**
+- **fast immer** — *almost*
+- **fast nie** — *almost*
+- **fast fertig** — *almost*
+- **fast alle** — *almost*
+
 **Collocations**
 - fast immer
 - fast nie

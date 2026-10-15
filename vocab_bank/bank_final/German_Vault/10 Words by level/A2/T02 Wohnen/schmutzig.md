@@ -31,6 +31,9 @@ status: "new"
 > Das Handtuch ist schmutzig.
 > *The towel is dirty.*
 
+**Phrases & Expressions:**
+- **Das Handtuch ist schmutzig** — *The towel is dirty* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 5a (Zusammen leben) · Goethe word list A2
 <!-- bank:end -->
 

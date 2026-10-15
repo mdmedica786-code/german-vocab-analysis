@@ -29,6 +29,11 @@ status: "new"
 > Der Zug ist soeben eingefahren.
 > *The train has just arrived.*
 
+**Phrases & Expressions:**
+- **soeben eingetroffen** — *just now; a moment ago*
+- **soeben erst** — *just now; a moment ago*
+- **soeben erschienen** — *just now; a moment ago*
+
 **Collocations**
 - soeben eingetroffen
 - soeben erst

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Klinik ist auf Herzkrankheiten spezialisiert.
 > *The clinic specialises in heart diseases.*
+
+**Phrases & Expressions:**
+- **Die Klinik ist auf Herzkrankheiten spezialisiert** — *The clinic specialises in heart diseases* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

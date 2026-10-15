@@ -33,6 +33,14 @@ status: "new"
 > Welcher Arzt hat Sie bis jetzt behandelt?
 > *Which doctor has treated you so far?*
 
+**Phrases & Expressions:**
+- **Die Prognose ist gut, wenn wir früh behandeln.** — The prognosis is good if we treat early. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Prognose geben]] · B2)*
+- **Dieser Patient hat Priorität, er muss sofort behandelt werden.** — This patient has priority; he must be treated immediately. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Triage]] · C1)*
+- **einen Patienten behandeln** — *to treat*
+- **eine Krankheit behandeln** — *to treat*
+- **jemanden gut behandeln** — *to treat*
+- **ein Thema behandeln** — *to treat*
+
 **Collocations**
 - einen Patienten behandeln
 - eine Krankheit behandeln

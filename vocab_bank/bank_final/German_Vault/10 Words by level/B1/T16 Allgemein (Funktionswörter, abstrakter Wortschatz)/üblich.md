@@ -31,6 +31,13 @@ status: "new"
 > In Deutschland ist es üblich, früh zu Abend zu essen.
 > *In Germany it is usual to have dinner early.*
 
+**Phrases & Expressions:**
+- **Bei uns zu Hause ist es üblich, dass ...** — Where I come from it is usual that ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Heimatland beschreiben]] · B1)*
+- **üblich sein** — *usual*
+- **wie üblich** — *usual*
+- **allgemein üblich** — *usual*
+- **die übliche Zeit** — *usual*
+
 **Collocations**
 - üblich sein
 - wie üblich

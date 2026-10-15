@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Erhitzen Sie die Milch langsam.
 > *Heat the milk slowly.*
+
+**Phrases & Expressions:**
+- **Erhitzen Sie die Milch langsam** — *Heat the milk slowly* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

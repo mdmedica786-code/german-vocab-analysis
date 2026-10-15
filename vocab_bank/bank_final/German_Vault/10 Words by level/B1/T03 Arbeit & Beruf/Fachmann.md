@@ -34,6 +34,9 @@ status: "new"
 > Er ist ein Fachmann für Herzkrankheiten.
 > *He is an expert in heart diseases.*
 
+**Phrases & Expressions:**
+- **Er ist ein Fachmann für Herzkrankheiten** — *He is an expert in heart diseases* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

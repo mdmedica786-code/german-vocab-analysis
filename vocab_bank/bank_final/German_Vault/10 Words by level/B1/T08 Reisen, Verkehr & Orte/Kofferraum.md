@@ -34,6 +34,9 @@ status: "new"
 > Die Koffer passen nicht in den Kofferraum.
 > *The suitcases don't fit in the boot.*
 
+**Phrases & Expressions:**
+- **Die Koffer passen nicht in den Kofferraum** — *The suitcases don't fit in the boot* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 9a (Gute Reise!)
 <!-- bank:end -->
 

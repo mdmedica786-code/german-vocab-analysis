@@ -33,6 +33,11 @@ status: "new"
 > Ich hatte nicht die Intention, Sie zu verletzen.
 > *I did not have the intention of hurting you.*
 
+**Phrases & Expressions:**
+- **die Intention haben** — *intention*
+- **die Intention des Autors** — *intention*
+- **mit der Intention** — *intention*
+
 **Collocations**
 - die Intention haben
 - die Intention des Autors

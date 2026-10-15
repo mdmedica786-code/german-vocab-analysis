@@ -26,6 +26,11 @@ status: "new"
 > Mit der Zeit fasste das Kind Vertrauen zu der neuen Lehrerin.
 > *In time the child gained confidence in the new teacher.*
 
+**Phrases & Expressions:**
+- **zu jemandem Vertrauen fassen** — *to gain confidence (in)*
+- **Mut fassen** — *to gain confidence (in)*
+- **Zutrauen fassen** — *to gain confidence (in)*
+
 **Collocations**
 - zu jemandem Vertrauen fassen
 - Mut fassen

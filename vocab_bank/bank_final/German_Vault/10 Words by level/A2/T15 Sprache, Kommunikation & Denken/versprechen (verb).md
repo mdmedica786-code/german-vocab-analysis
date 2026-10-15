@@ -33,6 +33,12 @@ status: "new"
 > Meine Mutter hat mir versprochen, mich abzuholen.
 > *My mother promised me that she would pick me up.*
 
+**Phrases & Expressions:**
+- **jemandem etwas versprechen** — *to promise*
+- **viel versprechen** — *to promise*
+- **Besserung versprechen** — *to promise*
+- **sein Wort geben** — *to promise*
+
 **Collocations**
 - jemandem etwas versprechen
 - viel versprechen

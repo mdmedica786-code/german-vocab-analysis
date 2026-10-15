@@ -31,6 +31,11 @@ status: "new"
 > Das Gesetz besagt, dass alle Bürger gleich sind.
 > *The law states that all citizens are equal.*
 
+**Phrases & Expressions:**
+- **das besagt nichts** — *to state; to say; to mean*
+- **ein Gesetz besagt** — *to state; to say; to mean*
+- **besagen, dass** — *to state; to say; to mean*
+
 **Collocations**
 - das besagt nichts
 - ein Gesetz besagt

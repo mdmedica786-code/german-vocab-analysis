@@ -29,6 +29,11 @@ status: "new"
 > Das ist nur ein sekundäres Problem.
 > *That is only a secondary problem.*
 
+**Phrases & Expressions:**
+- **von sekundärer Bedeutung** — *secondary*
+- **sekundäre Quellen** — *secondary*
+- **sekundär wichtig** — *secondary*
+
 **Collocations**
 - von sekundärer Bedeutung
 - sekundäre Quellen

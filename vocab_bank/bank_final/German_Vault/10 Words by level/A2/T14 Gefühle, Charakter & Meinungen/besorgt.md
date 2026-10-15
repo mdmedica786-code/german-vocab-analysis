@@ -30,6 +30,9 @@ status: "new"
 > Die Mutter ist besorgt um ihr Kind.
 > *The mother is worried about her child.*
 
+**Phrases & Expressions:**
+- **Die Mutter ist besorgt um ihr Kind** — *The mother is worried about her child* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12a (Zusammen leben)
 <!-- bank:end -->
 

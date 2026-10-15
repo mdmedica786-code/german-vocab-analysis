@@ -34,6 +34,9 @@ status: "new"
 > Der Nationalrat ist Teil des Parlaments.
 > *The National Council is part of the parliament.*
 
+**Phrases & Expressions:**
+- **Der Nationalrat ist Teil des Parlaments** — *The National Council is part of the parliament* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

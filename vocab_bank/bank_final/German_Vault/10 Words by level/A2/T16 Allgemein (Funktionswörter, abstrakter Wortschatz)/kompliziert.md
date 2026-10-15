@@ -31,6 +31,9 @@ status: "new"
 > Er schreibt viel zu kompliziert.
 > *He writes far too complicatedly.*
 
+**Phrases & Expressions:**
+- **Er schreibt viel zu kompliziert** — *He writes far too complicatedly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

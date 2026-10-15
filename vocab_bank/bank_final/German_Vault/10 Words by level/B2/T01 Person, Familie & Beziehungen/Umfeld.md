@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Im privaten Umfeld gibt es wenig Stress.
 > *There is little stress in my personal environment.*
+
+**Phrases & Expressions:**
+- **Im privaten Umfeld gibt es wenig Stress** — *There is little stress in my personal environment* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

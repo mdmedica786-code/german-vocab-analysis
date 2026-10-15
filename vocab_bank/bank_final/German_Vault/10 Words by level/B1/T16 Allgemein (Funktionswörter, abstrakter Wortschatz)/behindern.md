@@ -32,6 +32,9 @@ status: "new"
 > Bitte parken Sie so, dass Sie niemanden behindern.
 > *Please park so that you do not obstruct anyone.*
 
+**Phrases & Expressions:**
+- **Bitte parken Sie so, dass Sie niemanden behindern** — *Please park so that you do not obstruct anyone* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Der Kleiderschrank steht im Schlafzimmer.
 > *The wardrobe is in the bedroom.*
 
+**Phrases & Expressions:**
+- **Der Kleiderschrank steht im Schlafzimmer** — *The wardrobe is in the bedroom* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 4a (Geld regiert die Welt?)
 <!-- bank:end -->
 

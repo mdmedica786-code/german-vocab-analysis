@@ -31,6 +31,9 @@ status: "new"
 > Für morgen wird eine Wetterbesserung erwartet.
 > *An improvement in the weather is expected for tomorrow.*
 
+**Phrases & Expressions:**
+- **Für morgen wird eine Wetterbesserung erwartet** — *An improvement in the weather is expected for tomorrow* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 11c (Umweltfreundlich?)
 <!-- bank:end -->
 

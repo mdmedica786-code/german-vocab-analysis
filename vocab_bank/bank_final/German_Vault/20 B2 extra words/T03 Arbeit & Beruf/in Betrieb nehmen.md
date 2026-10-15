@@ -29,6 +29,11 @@ status: "new"
 > Die neue Anlage wird im Mai in Betrieb genommen.
 > *The new plant will be put into operation in May.*
 
+**Phrases & Expressions:**
+- **außer Betrieb sein** — *to put into operation*
+- **in Betrieb sein** — *to put into operation*
+- **Anlage in Betrieb nehmen** — *to put into operation*
+
 **Collocations**
 - außer Betrieb sein
 - in Betrieb sein

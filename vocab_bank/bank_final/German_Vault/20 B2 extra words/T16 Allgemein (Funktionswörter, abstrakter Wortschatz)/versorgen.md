@@ -31,6 +31,11 @@ status: "new"
 > Der Fluss versorgt die ganze Stadt mit Wasser.
 > *The river supplies the whole city with water.*
 
+**Phrases & Expressions:**
+- **mit etwas versorgen** — *to supply; to look after*
+- **sich selbst versorgen** — *to supply; to look after*
+- **die Kinder versorgen** — *to supply; to look after*
+
 **Collocations**
 - mit etwas versorgen
 - sich selbst versorgen

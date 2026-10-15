@@ -33,6 +33,14 @@ status: "new"
 > Zu den Kosten kommen noch die Gebühren dazu.
 > *Fees are added to the costs.*
 
+**Phrases & Expressions:**
+- **dazu führen, dass ...** — to lead to ... (the result that) *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **führt dazu, dass ...** — leads to ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **dazu in der Lage sein** — to be capable of it *([[Können - Müssen - Dürfen (modal frames)|Können / Müssen / Dürfen (modal frames)]] · B2)*
+- **im Gegensatz dazu** — in contrast to that *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B2)*
+- **kommt es zu ...** — it leads to ...; there is ... *([[Folgen (consequence)|Folgen (consequence)]] · C1)*
+- **hinzu kommt, dass ...** — in addition, ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
 <!-- bank:end -->
 

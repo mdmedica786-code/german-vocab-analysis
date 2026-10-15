@@ -33,6 +33,11 @@ status: "new"
 > In einer Diktatur gibt es keine freien Wahlen.
 > *In a dictatorship there are no free elections.*
 
+**Phrases & Expressions:**
+- **eine Diktatur stürzen** — *dictatorship*
+- **unter einer Diktatur leben** — *dictatorship*
+- **die Diktatur der Nationalsozialisten** — *dictatorship*
+
 **Collocations**
 - eine Diktatur stürzen
 - unter einer Diktatur leben

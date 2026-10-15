@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Geben Sie bitte den Code ein.
 > *Please enter the code.*
+
+**Phrases & Expressions:**
+- **Geben Sie bitte den Code ein** — *Please enter the code* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

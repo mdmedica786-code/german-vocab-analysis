@@ -33,6 +33,9 @@ status: "new"
 > Wir haben uns im Wald verirrt.
 > *We got lost in the forest.*
 
+**Phrases & Expressions:**
+- **Wir haben uns im Wald verirrt** — *We got lost in the forest* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 6c (Zusammen leben)
 <!-- bank:end -->
 

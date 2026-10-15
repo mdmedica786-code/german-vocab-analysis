@@ -31,6 +31,11 @@ status: "new"
 > Sie hat den Verlust nur schwer verkraftet.
 > *She only found it hard to cope with the loss.*
 
+**Phrases & Expressions:**
+- **einen Verlust verkraften** — *to cope with; to get over*
+- **die Kosten verkraften** — *to cope with; to get over*
+- **schwer zu verkraften** — *to cope with; to get over*
+
 **Collocations**
 - einen Verlust verkraften
 - die Kosten verkraften

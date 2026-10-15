@@ -34,6 +34,9 @@ status: "new"
 > Die Gleichberechtigung von Frauen und Männern ist ein Ziel.
 > *Equal rights for women and men is a goal.*
 
+**Phrases & Expressions:**
+- **Die Gleichberechtigung von Frauen und Männern ist ein Ziel** — *Equal rights for women and men is a goal* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1a (Miteinander)
 <!-- bank:end -->
 

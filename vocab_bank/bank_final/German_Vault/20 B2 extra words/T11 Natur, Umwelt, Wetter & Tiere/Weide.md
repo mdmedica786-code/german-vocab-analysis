@@ -33,6 +33,11 @@ status: "new"
 > Die Kühe stehen auf der Weide.
 > *The cows are standing in the pasture.*
 
+**Phrases & Expressions:**
+- **auf der Weide** — *pasture; willow*
+- **Kühe auf der Weide** — *pasture; willow*
+- **eine Trauerweide** — *pasture; willow*
+
 **Collocations**
 - auf der Weide
 - Kühe auf der Weide

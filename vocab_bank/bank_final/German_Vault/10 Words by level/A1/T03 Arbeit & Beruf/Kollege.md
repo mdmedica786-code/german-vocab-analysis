@@ -35,6 +35,10 @@ status: "new"
 > Ich habe guten Kontakt zu meinen Kollegen.
 > *I have good contact with my colleagues.*
 
+**Phrases & Expressions:**
+- **Bitte warten Sie im Wartebereich, ein Kollege kommt gleich zu Ihnen.** — Please wait in the waiting area; a colleague will come to you shortly. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Angehörige informieren]] · B1)*
+- **Sehr geehrte Frau Kollegin, sehr geehrter Herr Kollege,** — Dear colleague (female), dear colleague (male), *([[FSP-20 Arztbrief und Dokumentation|Anrede und Anlass]] · B2)*
+
 **Source:** Netzwerk neu A1 K2 2a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

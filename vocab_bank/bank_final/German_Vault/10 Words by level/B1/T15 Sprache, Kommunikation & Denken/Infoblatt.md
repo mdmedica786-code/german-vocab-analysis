@@ -34,6 +34,9 @@ status: "new"
 > Das Infoblatt liegt am Empfang.
 > *The fact sheet is at reception.*
 
+**Phrases & Expressions:**
+- **Das Infoblatt liegt am Empfang** — *The fact sheet is at reception* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

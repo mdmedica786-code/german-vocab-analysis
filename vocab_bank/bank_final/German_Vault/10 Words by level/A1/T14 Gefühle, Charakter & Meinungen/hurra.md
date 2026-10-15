@@ -30,6 +30,9 @@ status: "new"
 > Hurra, wir haben gewonnen!
 > *Hooray, we won!*
 
+**Phrases & Expressions:**
+- **Hurra, wir haben gewonnen** — *Hooray, we won* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 1c (Fit und gesund)
 <!-- bank:end -->
 

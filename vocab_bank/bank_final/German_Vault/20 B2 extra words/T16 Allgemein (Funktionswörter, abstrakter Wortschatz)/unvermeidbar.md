@@ -29,6 +29,11 @@ status: "new"
 > Ein Streit war leider unvermeidbar.
 > *An argument was unfortunately unavoidable.*
 
+**Phrases & Expressions:**
+- **unvermeidbar sein** — *unavoidable*
+- **eine unvermeidbare Folge** — *unavoidable*
+- **kaum vermeidbar** — *unavoidable*
+
 **Collocations**
 - unvermeidbar sein
 - eine unvermeidbare Folge

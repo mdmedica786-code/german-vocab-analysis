@@ -33,6 +33,11 @@ status: "new"
 > Im Herbst sucht der Igel einen Platz für den Winterschlaf.
 > *In autumn the hedgehog looks for a place for hibernation.*
 
+**Phrases & Expressions:**
+- **einen Igel finden** — *hedgehog*
+- **der Igel hält Winterschlaf** — *hedgehog*
+- **einen Igel im Garten** — *hedgehog*
+
 **Collocations**
 - einen Igel finden
 - der Igel hält Winterschlaf

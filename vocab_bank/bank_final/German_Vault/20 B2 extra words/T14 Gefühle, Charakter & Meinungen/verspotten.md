@@ -31,6 +31,11 @@ status: "new"
 > Die Schüler verspotteten den neuen Mitschüler.
 > *The pupils mocked the new classmate.*
 
+**Phrases & Expressions:**
+- **jemanden verspotten** — *to mock; to ridicule*
+- **öffentlich verspotten** — *to mock; to ridicule*
+- **verspottet werden** — *to mock; to ridicule*
+
 **Collocations**
 - jemanden verspotten
 - öffentlich verspotten

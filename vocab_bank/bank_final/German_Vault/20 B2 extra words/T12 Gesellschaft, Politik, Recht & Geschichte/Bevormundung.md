@@ -33,6 +33,11 @@ status: "new"
 > Viele Bürger empfinden die neuen Regeln als Bevormundung.
 > *Many citizens see the new rules as paternalism.*
 
+**Phrases & Expressions:**
+- **als Bevormundung empfinden** — *paternalism; being treated like a child*
+- **Bevormundung ablehnen** — *paternalism; being treated like a child*
+- **staatliche Bevormundung** — *paternalism; being treated like a child*
+
 **Collocations**
 - als Bevormundung empfinden
 - Bevormundung ablehnen

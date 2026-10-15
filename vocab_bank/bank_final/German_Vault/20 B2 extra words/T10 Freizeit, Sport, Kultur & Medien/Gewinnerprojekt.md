@@ -30,6 +30,11 @@ status: "new"
 > Das Gewinnerprojekt wurde bei der Preisverleihung vorgestellt.
 > *The winning project was presented at the award ceremony.*
 
+**Phrases & Expressions:**
+- **das Gewinnerprojekt vorstellen** — *winning project*
+- **ein Gewinnerprojekt auszeichnen** — *winning project*
+- **das Gewinnerprojekt des Jahres** — *winning project*
+
 **Collocations**
 - das Gewinnerprojekt vorstellen
 - ein Gewinnerprojekt auszeichnen

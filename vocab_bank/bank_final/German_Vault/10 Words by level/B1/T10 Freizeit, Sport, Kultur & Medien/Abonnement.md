@@ -35,6 +35,9 @@ status: "new"
 > Ich habe das Abonnement gekündigt.
 > *I cancelled the subscription.*
 
+**Phrases & Expressions:**
+- **Ich habe das Abonnement gekündigt** — *I cancelled the subscription* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

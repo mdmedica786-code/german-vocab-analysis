@@ -30,6 +30,9 @@ status: "new"
 > Er arbeitet sehr konzentriert.
 > *He works in a very focused way.*
 
+**Phrases & Expressions:**
+- **Er arbeitet sehr konzentriert** — *He works in a very focused way* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

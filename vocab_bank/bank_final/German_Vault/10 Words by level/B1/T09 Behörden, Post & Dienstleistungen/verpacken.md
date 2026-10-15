@@ -32,6 +32,9 @@ status: "new"
 > Hast du die Pakete gut verpackt?
 > *Did you pack the parcels well?*
 
+**Phrases & Expressions:**
+- **Hast du die Pakete gut verpackt** — *Did you pack the parcels well* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

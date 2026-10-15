@@ -32,6 +32,11 @@ status: "new"
 > Im Film werden deutsche Untertitel eingeblendet.
 > *In the film German subtitles are displayed.*
 
+**Phrases & Expressions:**
+- **Untertitel einblenden** — *to fade in; to show (on screen); to display*
+- **ein Fenster einblenden** — *to fade in; to show (on screen); to display*
+- **Werbung einblenden** — *to fade in; to show (on screen); to display*
+
 **Collocations**
 - Untertitel einblenden
 - ein Fenster einblenden

@@ -33,6 +33,11 @@ status: "new"
 > Mein Großvater nimmt für den Schachclub an Turnieren teil.
 > *My grandfather takes part in tournaments for the chess club.*
 
+**Phrases & Expressions:**
+- **im Schachclub spielen** — *chess club*
+- **einem Schachclub beitreten** — *chess club*
+- **ein Schachclub in der Stadt** — *chess club*
+
 **Collocations**
 - im Schachclub spielen
 - einem Schachclub beitreten

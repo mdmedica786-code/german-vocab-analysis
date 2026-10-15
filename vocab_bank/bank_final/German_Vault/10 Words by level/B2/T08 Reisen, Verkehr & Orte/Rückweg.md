@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Auf dem Rückweg kaufe ich Brot.
 > *On the way back I buy bread.*
+
+**Phrases & Expressions:**
+- **Auf dem Rückweg kaufe ich Brot** — *On the way back I buy bread* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

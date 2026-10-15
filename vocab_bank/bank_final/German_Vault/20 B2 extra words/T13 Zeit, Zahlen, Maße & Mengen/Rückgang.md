@@ -33,6 +33,12 @@ status: "new"
 > Die Zahl der Besucher zeigt einen deutlichen Rückgang.
 > *The number of visitors shows a clear decline.*
 
+**Phrases & Expressions:**
+- **Unter dieser Therapie zeigte sich ein rascher Rückgang der Beschwerden.** — Under this therapy a rapid decline in complaints was seen. *([[FSP-20 Arztbrief und Dokumentation|Nominalstil]] · C1)*
+- **ein deutlicher Rückgang** — *decline; decrease*
+- **Rückgang der Arbeitslosigkeit** — *decline; decrease*
+- **einen Rückgang verzeichnen** — *decline; decrease*
+
 **Collocations**
 - ein deutlicher Rückgang
 - Rückgang der Arbeitslosigkeit

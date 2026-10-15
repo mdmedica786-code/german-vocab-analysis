@@ -31,6 +31,10 @@ status: "new"
 > Der Bürgermeister würdigte ihre Verdienste.
 > *The mayor paid tribute to her achievements.*
 
+**Phrases & Expressions:**
+- **Verdienste würdigen** — *to recognise; to pay tribute to*
+- **jemanden würdigen** — *to recognise; to pay tribute to*
+
 **Collocations**
 - Verdienste würdigen
 - jemanden würdigen

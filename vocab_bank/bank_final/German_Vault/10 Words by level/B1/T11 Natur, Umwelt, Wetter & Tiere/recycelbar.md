@@ -30,6 +30,9 @@ status: "new"
 > Diese Verpackung ist leider nicht recycelbar.
 > *This packaging is unfortunately not recyclable.*
 
+**Phrases & Expressions:**
+- **Diese Verpackung ist leider nicht recycelbar** — *This packaging is unfortunately not recyclable* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der Artenschutz rettet viele seltene Tiere vor dem Aussterben.
 > *Species protection saves many rare animals from extinction.*
 
+**Phrases & Expressions:**
+- **Artenschutz betreiben** — *species protection*
+- **internationaler Artenschutz** — *species protection*
+- **Maßnahmen zum Artenschutz** — *species protection*
+
 **Collocations**
 - Artenschutz betreiben
 - internationaler Artenschutz

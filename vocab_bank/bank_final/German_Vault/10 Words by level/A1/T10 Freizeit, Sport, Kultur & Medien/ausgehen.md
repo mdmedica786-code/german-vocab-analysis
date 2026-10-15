@@ -35,6 +35,14 @@ status: "new"
 > Abends beim Ausgehen haben wir viel Spaß.
 > *We have a lot of fun when we go out in the evening.*
 
+**Phrases & Expressions:**
+- **wie geht es dir?** — how are you? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **davon ausgehen, dass ...** — to assume that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **wie geht es dir** — how are you? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **es geht um ...** — it is about ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · A2)*
+- **ich hoffe, es geht dir gut** — I hope you are well *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **davon ausgegangen, dass ...** — assumed that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+
 **Collocations**
 - von etwas ausgehen
 - abends ausgehen

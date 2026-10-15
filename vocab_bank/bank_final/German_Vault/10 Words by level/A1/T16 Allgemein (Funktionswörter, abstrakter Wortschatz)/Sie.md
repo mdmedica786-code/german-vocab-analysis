@@ -31,6 +31,9 @@ status: "new"
 > Ordnen Sie zu.
 > *Match.*
 
+**Phrases & Expressions:**
+- **Ordnen Sie zu** — *Match* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1a (Guten Tag!)
 <!-- bank:end -->
 

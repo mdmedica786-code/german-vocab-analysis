@@ -29,6 +29,11 @@ status: "new"
 > Die Kinder lernen, eigenständig zu arbeiten.
 > *The children learn to work independently.*
 
+**Phrases & Expressions:**
+- **eigenständig arbeiten** — *independent; autonomous*
+- **eigenständig entscheiden** — *independent; autonomous*
+- **eine eigenständige Meinung** — *independent; autonomous*
+
 **Collocations**
 - eigenständig arbeiten
 - eigenständig entscheiden

@@ -33,6 +33,11 @@ status: "new"
 > Die Unterführung am Bahnhof ist abends schlecht beleuchtet.
 > *The underpass at the station is poorly lit in the evening.*
 
+**Phrases & Expressions:**
+- **durch die Unterführung gehen** — *underpass; subway*
+- **eine Unterführung bauen** — *underpass; subway*
+- **Fußgängerunterführung** — *underpass; subway*
+
 **Collocations**
 - durch die Unterführung gehen
 - eine Unterführung bauen

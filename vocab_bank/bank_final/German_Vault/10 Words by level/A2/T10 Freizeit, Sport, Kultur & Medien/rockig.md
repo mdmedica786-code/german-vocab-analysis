@@ -27,6 +27,9 @@ status: "new"
 > Das Lied klingt richtig rockig.
 > *The song sounds really rocking.*
 
+**Phrases & Expressions:**
+- **Das Lied klingt richtig rockig** — *The song sounds really rocking* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 6b (Gute Unterhaltung!)
 <!-- bank:end -->
 

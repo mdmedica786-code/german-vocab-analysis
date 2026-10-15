@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Marktplatz sitzen viele Tauben.
 > *Many pigeons sit on the market square.*
 
+**Phrases & Expressions:**
+- **Tauben füttern** — *pigeon; dove*
+- **eine weiße Taube** — *pigeon; dove*
+- **Friedenstaube** — *pigeon; dove*
+
 **Collocations**
 - Tauben füttern
 - eine weiße Taube

@@ -31,6 +31,9 @@ status: "new"
 > Ein guter Lerntipp ist, jeden Tag zu wiederholen.
 > *A good study tip is to revise every day.*
 
+**Phrases & Expressions:**
+- **Ein guter Lerntipp ist, jeden Tag zu wiederholen** — *A good study tip is to revise every day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 11b (Rund um Körper und Geist)
 <!-- bank:end -->
 

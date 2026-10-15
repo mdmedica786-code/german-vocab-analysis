@@ -33,6 +33,11 @@ status: "new"
 > Der Radiosender spielt den ganzen Tag Musik.
 > *The radio station plays music all day.*
 
+**Phrases & Expressions:**
+- **einen Radiosender einstellen** — *radio station*
+- **ein lokaler Radiosender** — *radio station*
+- **der Radiosender sendet** — *radio station*
+
 **Collocations**
 - einen Radiosender einstellen
 - ein lokaler Radiosender

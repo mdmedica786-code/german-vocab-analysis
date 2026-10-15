@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Er sitzt aufrecht auf dem Stuhl.
 > *He sits upright on the chair.*
+
+**Phrases & Expressions:**
+- **Setzen Sie sich bitte aufrecht hin.** — Please sit up straight. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Lagerung]] · A2)*
 <!-- bank:end -->
 
 ## My notes

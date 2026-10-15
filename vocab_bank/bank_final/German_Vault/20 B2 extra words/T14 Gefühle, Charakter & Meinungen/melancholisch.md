@@ -29,6 +29,11 @@ status: "new"
 > Im Herbst werde ich oft melancholisch.
 > *In autumn I often become melancholic.*
 
+**Phrases & Expressions:**
+- **melancholisch werden** — *melancholic*
+- **melancholisch klingen** — *melancholic*
+- **eine melancholische Stimmung** — *melancholic*
+
 **Collocations**
 - melancholisch werden
 - melancholisch klingen

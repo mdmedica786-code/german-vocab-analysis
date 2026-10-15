@@ -33,6 +33,11 @@ status: "new"
 > Frankreich ist ein wichtiges Nachbarland von Deutschland.
 > *France is an important neighbouring country of Germany.*
 
+**Phrases & Expressions:**
+- **in einem Nachbarland** — *neighbouring country*
+- **die Nachbarländer besuchen** — *neighbouring country*
+- **Beziehungen zu den Nachbarländern** — *neighbouring country*
+
 **Collocations**
 - in einem Nachbarland
 - die Nachbarländer besuchen

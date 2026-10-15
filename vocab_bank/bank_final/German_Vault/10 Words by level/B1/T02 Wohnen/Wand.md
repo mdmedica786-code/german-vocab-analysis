@@ -35,6 +35,9 @@ status: "new"
 > Ich stelle das Regal rechts an die Wand.
 > *I'm putting the shelf on the right against the wall.*
 
+**Phrases & Expressions:**
+- **Ich stelle das Regal rechts an die Wand** — *I'm putting the shelf on the right against the wall* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 6b (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

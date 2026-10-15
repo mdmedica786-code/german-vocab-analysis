@@ -33,6 +33,11 @@ status: "new"
 > Der Mediator hört beide Konfliktpartner an.
 > *The mediator listens to both parties in the conflict.*
 
+**Phrases & Expressions:**
+- **beide Konfliktpartner** — *party to a conflict (male); person in the conflict*
+- **der Konfliktpartner** — *party to a conflict (male); person in the conflict*
+- **mit dem Konfliktpartner sprechen** — *party to a conflict (male); person in the conflict*
+
 **Collocations**
 - beide Konfliktpartner
 - der Konfliktpartner

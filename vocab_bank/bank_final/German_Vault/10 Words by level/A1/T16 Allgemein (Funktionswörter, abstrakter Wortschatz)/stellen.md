@@ -34,6 +34,14 @@ status: "new"
 > Darf ich Ihnen eine Frage stellen?
 > *May I ask you a question?*
 
+**Phrases & Expressions:**
+- **stellen Sie sich vor, ...** — imagine ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **an erster Stelle** — in first place; first of all *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **an dieser Stelle** — at this point *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **es stellt sich die Frage, ob ...** — the question arises whether ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **an Ort und Stelle** — on the spot *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B2)*
+- **in Frage gestellt** — called into question *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+
 **Collocations**
 - eine Frage stellen
 - den Wecker stellen

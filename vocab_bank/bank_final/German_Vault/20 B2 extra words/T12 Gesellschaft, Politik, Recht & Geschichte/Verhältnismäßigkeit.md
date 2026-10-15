@@ -33,6 +33,11 @@ status: "new"
 > Das Gericht prüft die Verhältnismäßigkeit der Maßnahme.
 > *The court examines the proportionality of the measure.*
 
+**Phrases & Expressions:**
+- **der Grundsatz der Verhältnismäßigkeit** — *proportionality*
+- **die Verhältnismäßigkeit wahren** — *proportionality*
+- **Verhältnismäßigkeit prüfen** — *proportionality*
+
 **Collocations**
 - der Grundsatz der Verhältnismäßigkeit
 - die Verhältnismäßigkeit wahren

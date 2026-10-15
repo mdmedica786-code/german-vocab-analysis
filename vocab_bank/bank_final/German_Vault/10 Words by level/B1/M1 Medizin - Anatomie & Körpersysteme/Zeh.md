@@ -33,6 +33,12 @@ status: "new"
 > Er hat sich den Zeh gebrochen.
 > *He broke his toe.*
 
+**Phrases & Expressions:**
+- **den Zeh brechen** — *toe*
+- **der große Zeh** — *toe*
+- **Schmerzen im Zeh** — *toe*
+- **den Zeh verletzen** — *toe*
+
 **Collocations**
 - den Zeh brechen
 - der große Zeh

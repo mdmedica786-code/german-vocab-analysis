@@ -26,6 +26,11 @@ status: "new"
 > Ich schenke seiner Erklärung keinen Glauben.
 > *I don't give credence to his explanation.*
 
+**Phrases & Expressions:**
+- **jemandem Glauben schenken** — *to believe; to give credence*
+- **keinen Glauben schenken** — *to believe; to give credence*
+- **Vertrauen schenken** — *to believe; to give credence*
+
 **Collocations**
 - jemandem Glauben schenken
 - keinen Glauben schenken

@@ -33,6 +33,11 @@ status: "new"
 > Jeder kann im Alltag etwas für den Klimaschutz tun.
 > *Everyone can do something for climate protection in everyday life.*
 
+**Phrases & Expressions:**
+- **für den Klimaschutz** — *climate protection*
+- **Klimaschutz betreiben** — *climate protection*
+- **Maßnahmen zum Klimaschutz** — *climate protection*
+
 **Collocations**
 - für den Klimaschutz
 - Klimaschutz betreiben

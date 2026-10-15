@@ -35,6 +35,12 @@ status: "new"
 > Welche Krankheit hat Herr Brandner?
 > *Which illness does Mr Brandner have?*
 
+**Phrases & Expressions:**
+- **an einer Krankheit leiden** — *illness*
+- **eine Krankheit behandeln** — *illness*
+- **eine chronische Krankheit** — *illness*
+- **eine Krankheit übertragen** — *illness*
+
 **Collocations**
 - an einer Krankheit leiden
 - eine Krankheit behandeln

@@ -31,6 +31,9 @@ status: "new"
 > Das Glas war teuer. Es geht sehr leicht kaputt.
 > *The glass was expensive. It breaks very easily.*
 
+**Phrases & Expressions:**
+- **Bei mir ist der Wasserhahn kaputt.** — My tap is broken. *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Handwerker und Reparatur]] · B1)*
+
 **Source:** Netzwerk neu A1 K11 10c (Die Jacke gefällt mir!) · Goethe word list A1
 <!-- bank:end -->
 

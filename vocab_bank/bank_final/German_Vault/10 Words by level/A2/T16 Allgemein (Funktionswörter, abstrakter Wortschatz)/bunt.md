@@ -31,6 +31,9 @@ status: "new"
 > Anna trägt gern bunte Kleider.
 > *Anna likes wearing colourful dresses.*
 
+**Phrases & Expressions:**
+- **Anna trägt gern bunte Kleider** — *Anna likes wearing colourful dresses* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt) · Goethe word list A2
 <!-- bank:end -->
 

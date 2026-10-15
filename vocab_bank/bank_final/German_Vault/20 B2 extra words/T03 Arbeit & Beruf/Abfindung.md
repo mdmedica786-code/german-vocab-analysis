@@ -33,6 +33,11 @@ status: "new"
 > Bei der Kündigung erhielt er eine hohe Abfindung.
 > *When he was dismissed he received a high severance payment.*
 
+**Phrases & Expressions:**
+- **eine Abfindung zahlen** — *severance pay; compensation*
+- **Abfindung erhalten** — *severance pay; compensation*
+- **Anspruch auf Abfindung** — *severance pay; compensation*
+
 **Collocations**
 - eine Abfindung zahlen
 - Abfindung erhalten

@@ -32,6 +32,14 @@ status: "new"
 > Der Verlag gibt eine neue Zeitschrift heraus.
 > *The publisher is bringing out a new magazine.*
 
+**Phrases & Expressions:**
+- **es stellte sich heraus, dass ...** — it turned out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **es stellt sich heraus, dass ...** — it turns out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **In meinem Heimatland gibt es ...** — In my home country there is/are ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Heimatland beschreiben]] · B1)*
+- **Bei mir gibt es viel Neues: ...** — There is a lot of news with me: ... *([[B1-12 Persönliche E-Mail und Brief|Neuigkeiten erzählen]] · B1)*
+- **Im Zentrum gibt es viele Geschäfte und Cafés.** — In the centre there are many shops and cafés. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ort beschreiben]] · B1)*
+- **Gibt es Möglichkeiten zur Weiterbildung?** — Are there opportunities for further training? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Fragen an Arbeitgeber]] · B2)*
+
 **Collocations**
 - ein Buch herausgeben
 - eine Zeitung herausgeben

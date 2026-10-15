@@ -29,6 +29,10 @@ status: "new"
 > Das möchte ich mit Ihnen unter vier Augen besprechen.
 > *I would like to discuss that with you in private.*
 
+**Phrases & Expressions:**
+- **unter vier Augen sprechen** — *in private; face to face*
+- **im Vertrauen** — *in private; face to face*
+
 **Collocations**
 - unter vier Augen sprechen
 - im Vertrauen

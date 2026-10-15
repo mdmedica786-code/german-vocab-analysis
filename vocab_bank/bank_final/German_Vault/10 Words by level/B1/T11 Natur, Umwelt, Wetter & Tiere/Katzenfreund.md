@@ -34,6 +34,9 @@ status: "new"
 > Mein Nachbar ist ein großer Katzenfreund.
 > *My neighbour is a big cat lover.*
 
+**Phrases & Expressions:**
+- **Mein Nachbar ist ein großer Katzenfreund** — *My neighbour is a big cat lover* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?)
 <!-- bank:end -->
 

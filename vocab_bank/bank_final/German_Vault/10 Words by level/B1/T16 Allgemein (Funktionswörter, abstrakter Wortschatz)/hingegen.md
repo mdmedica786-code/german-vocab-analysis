@@ -29,6 +29,12 @@ status: "new"
 > Ich mag den Winter, meine Frau hingegen liebt den Sommer.
 > *I like winter, my wife on the other hand loves summer.*
 
+**Phrases & Expressions:**
+- **hingegen aber** — *on the other hand; whereas*
+- **ich hingegen** — *on the other hand; whereas*
+- **dort hingegen** — *on the other hand; whereas*
+- **er hingegen** — *on the other hand; whereas*
+
 **Collocations**
 - hingegen aber
 - ich hingegen

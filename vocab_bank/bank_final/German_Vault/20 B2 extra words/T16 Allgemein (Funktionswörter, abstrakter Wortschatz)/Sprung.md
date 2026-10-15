@@ -33,6 +33,11 @@ status: "new"
 > Der Sprung ins kalte Wasser war nicht leicht.
 > *The leap into cold water was not easy.*
 
+**Phrases & Expressions:**
+- **ein Sprung ins kalte Wasser** — *jump; leap*
+- **auf dem Sprung sein** — *jump; leap*
+- **große Sprünge machen** — *jump; leap*
+
 **Collocations**
 - ein Sprung ins kalte Wasser
 - auf dem Sprung sein

@@ -33,6 +33,11 @@ status: "new"
 > Die Bank schließt mehrere Zweigstellen auf dem Land.
 > *The bank is closing several branch offices in the country.*
 
+**Phrases & Expressions:**
+- **eine Zweigstelle eröffnen** — *branch office*
+- **Zweigstelle der Bank** — *branch office*
+- **die nächste Zweigstelle** — *branch office*
+
 **Collocations**
 - eine Zweigstelle eröffnen
 - Zweigstelle der Bank

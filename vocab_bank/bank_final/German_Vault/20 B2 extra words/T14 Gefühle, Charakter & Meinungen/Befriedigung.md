@@ -33,6 +33,11 @@ status: "new"
 > Die Arbeit gibt ihr große Befriedigung.
 > *The work gives her great satisfaction.*
 
+**Phrases & Expressions:**
+- **Befriedigung finden** — *satisfaction; gratification*
+- **die Befriedigung der Bedürfnisse** — *satisfaction; gratification*
+- **volle Befriedigung** — *satisfaction; gratification*
+
 **Collocations**
 - Befriedigung finden
 - die Befriedigung der Bedürfnisse

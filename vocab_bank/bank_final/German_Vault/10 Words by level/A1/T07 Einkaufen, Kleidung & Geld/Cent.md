@@ -35,6 +35,9 @@ status: "new"
 > Das kostet neunundneunzig Cent.
 > *That costs ninety-nine cents.*
 
+**Phrases & Expressions:**
+- **Das kostet neunundneunzig Cent** — *That costs ninety-nine cents* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 6a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

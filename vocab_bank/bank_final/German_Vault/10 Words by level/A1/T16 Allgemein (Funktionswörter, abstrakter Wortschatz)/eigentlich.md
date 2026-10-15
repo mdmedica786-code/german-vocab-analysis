@@ -31,6 +31,13 @@ status: "new"
 > Wir wollten eigentlich Freunde besuchen, aber dann sind wir doch zu Hause geblieben.
 > *We actually wanted to visit friends, but then we stayed at home after all.*
 
+**Phrases & Expressions:**
+- **Bisher war ich eigentlich immer gesund.** — So far I have actually always been healthy. *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Patient: Keine Vorerkrankungen]] · A2)*
+- **eigentlich nicht** — *actually*
+- **was willst du eigentlich** — *actually*
+- **eigentlich schon** — *actually*
+- **wie war es eigentlich** — *actually*
+
 **Collocations**
 - eigentlich nicht
 - was willst du eigentlich

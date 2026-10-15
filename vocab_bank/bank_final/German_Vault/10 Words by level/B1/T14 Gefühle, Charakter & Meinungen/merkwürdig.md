@@ -31,6 +31,9 @@ status: "new"
 > Das ist eine merkwürdige Geschichte.
 > *That is a strange story.*
 
+**Phrases & Expressions:**
+- **Das ist eine merkwürdige Geschichte** — *That is a strange story* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 9d (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

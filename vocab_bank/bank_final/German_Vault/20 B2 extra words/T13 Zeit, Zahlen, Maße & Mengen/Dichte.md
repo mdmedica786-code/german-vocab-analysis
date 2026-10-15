@@ -33,6 +33,11 @@ status: "new"
 > Die Dichte der Bevölkerung ist in der Stadt hoch.
 > *The population density is high in the city.*
 
+**Phrases & Expressions:**
+- **hohe Dichte** — *density*
+- **die Dichte der Bevölkerung** — *density*
+- **Dichte und Gewicht** — *density*
+
 **Collocations**
 - hohe Dichte
 - die Dichte der Bevölkerung

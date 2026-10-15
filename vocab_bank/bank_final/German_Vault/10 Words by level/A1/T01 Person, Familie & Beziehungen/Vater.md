@@ -35,6 +35,10 @@ status: "new"
 > Mein Vater ist Arbeiter.
 > *My father is a worker.*
 
+**Phrases & Expressions:**
+- **Darf ich Ihnen den Zustand Ihres Vaters erklären?** — May I explain your father's condition to you? *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Angehörige informieren]] · B2)*
+- **Ich muss zuerst Ihren Vater fragen, ob ich mit Ihnen sprechen darf.** — I must first ask your father whether I may speak with you. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Schweigepflicht erklären]] · B2)*
+
 **Source:** Netzwerk neu A1 K5 7b (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

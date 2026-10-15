@@ -30,6 +30,12 @@ status: "new"
 > Sie isst gern französisches Brot.
 > *She likes eating French bread.*
 
+**Phrases & Expressions:**
+- **französisches Essen** — *French*
+- **französisch sprechen** — *French*
+- **die französische Küche** — *French*
+- **französischer Wein** — *French*
+
 **Collocations**
 - französisches Essen
 - französisch sprechen

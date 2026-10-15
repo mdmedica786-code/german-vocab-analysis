@@ -30,6 +30,11 @@ status: "new"
 > Im Teambüro sitzen sechs Kollegen zusammen.
 > *Six colleagues sit together in the team office.*
 
+**Phrases & Expressions:**
+- **im Teambüro arbeiten** — *team office*
+- **ein Teambüro einrichten** — *team office*
+- **ein helles Teambüro** — *team office*
+
 **Collocations**
 - im Teambüro arbeiten
 - ein Teambüro einrichten

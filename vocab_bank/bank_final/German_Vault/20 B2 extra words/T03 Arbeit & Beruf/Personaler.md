@@ -33,6 +33,11 @@ status: "new"
 > Der Personaler lädt die Bewerber zum Gespräch ein.
 > *The HR manager invites the applicants for an interview.*
 
+**Phrases & Expressions:**
+- **ein erfahrener Personaler** — *HR manager (male); personnel officer*
+- **mit dem Personaler sprechen** — *HR manager (male); personnel officer*
+- **Personaler suchen Fachkräfte** — *HR manager (male); personnel officer*
+
 **Collocations**
 - ein erfahrener Personaler
 - mit dem Personaler sprechen

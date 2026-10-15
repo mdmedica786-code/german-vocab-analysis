@@ -30,6 +30,9 @@ status: "new"
 > Prost! Auf dein Wohl!
 > *Cheers! To your health!*
 
+**Phrases & Expressions:**
+- **Prost! Auf dein Wohl** — *Cheers! To your health* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 7b (Guten Appetit!)
 <!-- bank:end -->
 

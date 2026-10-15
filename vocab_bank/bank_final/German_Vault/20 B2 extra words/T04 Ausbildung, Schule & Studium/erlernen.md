@@ -31,6 +31,11 @@ status: "new"
 > Sie hat ein Handwerk erlernt.
 > *She has learned a craft.*
 
+**Phrases & Expressions:**
+- **einen Beruf erlernen** — *to learn (thoroughly); to master*
+- **eine Sprache erlernen** — *to learn (thoroughly); to master*
+- **ein Handwerk erlernen** — *to learn (thoroughly); to master*
+
 **Collocations**
 - einen Beruf erlernen
 - eine Sprache erlernen

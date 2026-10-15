@@ -39,6 +39,9 @@ status: "new"
 > Es ist Zeit für ein kleines Zvieri.
 > *It is time for a little afternoon snack.*
 
+**Phrases & Expressions:**
+- **Es ist Zeit für ein kleines Zvieri** — *It is time for a little afternoon snack* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

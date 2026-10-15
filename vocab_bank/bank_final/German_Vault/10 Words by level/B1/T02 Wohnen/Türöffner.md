@@ -34,6 +34,9 @@ status: "new"
 > Der Türöffner summt, und die Tür geht auf.
 > *The door opener buzzes and the door opens.*
 
+**Phrases & Expressions:**
+- **Der Türöffner summt, und die Tür geht auf** — *The door opener buzzes and the door opens* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 1a (Das ist ja praktisch!)
 <!-- bank:end -->
 

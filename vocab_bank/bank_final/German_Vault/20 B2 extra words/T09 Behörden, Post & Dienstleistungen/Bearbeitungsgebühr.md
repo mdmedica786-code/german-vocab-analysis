@@ -33,6 +33,11 @@ status: "new"
 > Für den Antrag fällt eine Bearbeitungsgebühr von 20 Euro an.
 > *A processing fee of 20 euros is charged for the application.*
 
+**Phrases & Expressions:**
+- **eine Bearbeitungsgebühr erheben** — *processing fee*
+- **Bearbeitungsgebühr zahlen** — *processing fee*
+- **Bearbeitungsgebühr fällt an** — *processing fee*
+
 **Collocations**
 - eine Bearbeitungsgebühr erheben
 - Bearbeitungsgebühr zahlen

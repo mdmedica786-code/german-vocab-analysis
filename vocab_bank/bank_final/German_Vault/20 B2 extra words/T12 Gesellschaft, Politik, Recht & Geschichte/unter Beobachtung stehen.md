@@ -26,6 +26,10 @@ status: "new"
 > Der Patient steht unter ständiger Beobachtung.
 > *The patient is under constant observation.*
 
+**Phrases & Expressions:**
+- **unter ständiger Beobachtung stehen** — *to be under observation*
+- **unter Aufsicht stehen** — *to be under observation*
+
 **Collocations**
 - unter ständiger Beobachtung stehen
 - unter Aufsicht stehen

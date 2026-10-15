@@ -33,6 +33,11 @@ status: "new"
 > Die Benutzung der Toiletten ist kostenlos.
 > *The use of the toilets is free of charge.*
 
+**Phrases & Expressions:**
+- **die Benutzung gestatten** — *use*
+- **zur Benutzung** — *use*
+- **Benutzung auf eigene Gefahr** — *use*
+
 **Collocations**
 - die Benutzung gestatten
 - zur Benutzung

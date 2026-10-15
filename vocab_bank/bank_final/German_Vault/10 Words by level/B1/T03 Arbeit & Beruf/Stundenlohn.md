@@ -34,6 +34,9 @@ status: "new"
 > Der Stundenlohn beträgt zwölf Euro.
 > *The hourly wage is twelve euros.*
 
+**Phrases & Expressions:**
+- **Der Stundenlohn beträgt zwölf Euro** — *The hourly wage is twelve euros* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 12a (Arbeitswelt)
 <!-- bank:end -->
 

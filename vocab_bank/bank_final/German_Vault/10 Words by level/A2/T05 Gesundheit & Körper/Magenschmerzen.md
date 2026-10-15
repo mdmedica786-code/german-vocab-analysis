@@ -34,6 +34,9 @@ status: "new"
 > Ich habe seit gestern Magenschmerzen.
 > *I have had stomach ache since yesterday.*
 
+**Phrases & Expressions:**
+- **Ich habe seit gestern Magenschmerzen** — *I have had stomach ache since yesterday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3a (Gelernt ist gelernt!)
 <!-- bank:end -->
 

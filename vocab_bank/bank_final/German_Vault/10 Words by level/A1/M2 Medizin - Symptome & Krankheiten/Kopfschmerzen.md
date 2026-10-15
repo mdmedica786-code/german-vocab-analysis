@@ -34,6 +34,14 @@ status: "new"
 > Seit dem Morgen habe ich Kopfschmerzen.
 > *I have had a headache since this morning.*
 
+**Phrases & Expressions:**
+- **Haben Sie Kopfschmerzen oder Schwindel?** — Do you have headaches or dizziness? *([[FSP-06 Systemanamnese (Organsysteme)|Nervensystem]] · A2)*
+- **Mögliche Nebenwirkungen sind Übelkeit und Kopfschmerzen.** — Possible side effects are nausea and headaches. *([[FSP-11 Therapie und Medikamente erklären|Nebenwirkungen erklären]] · B2)*
+- **starke Kopfschmerzen** — *headache*
+- **pochende Kopfschmerzen** — *headache*
+- **Kopfschmerzen haben** — *headache*
+- **Tabletten gegen Kopfschmerzen** — *headache*
+
 **Collocations**
 - starke Kopfschmerzen
 - pochende Kopfschmerzen

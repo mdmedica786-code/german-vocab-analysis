@@ -29,6 +29,11 @@ status: "new"
 > Der Besuch kam völlig unerwartet.
 > *The visit came completely unexpectedly.*
 
+**Phrases & Expressions:**
+- **völlig unerwartet** — *unexpected*
+- **ein unerwartetes Ergebnis** — *unexpected*
+- **unerwartet früh** — *unexpected*
+
 **Collocations**
 - völlig unerwartet
 - ein unerwartetes Ergebnis

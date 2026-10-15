@@ -28,6 +28,12 @@ status: "new"
 > Das ist ein nationaler Wettbewerb.
 > *That is a national competition.*
 
+**Phrases & Expressions:**
+- **ein nationaler Wettbewerb** — *national*
+- **nationale Interessen** — *national*
+- **national und international** — *national*
+- **nationale Grenzen** — *national*
+
 **Collocations**
 - ein nationaler Wettbewerb
 - nationale Interessen

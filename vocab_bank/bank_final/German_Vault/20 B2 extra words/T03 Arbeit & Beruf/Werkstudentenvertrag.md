@@ -30,6 +30,11 @@ status: "new"
 > Sie hat einen Werkstudentenvertrag bei einer Softwarefirma unterschrieben.
 > *She signed a working-student contract with a software company.*
 
+**Phrases & Expressions:**
+- **einen Werkstudentenvertrag unterschreiben** — *working-student contract*
+- **einen Werkstudentenvertrag abschließen** — *working-student contract*
+- **ein befristeter Werkstudentenvertrag** — *working-student contract*
+
 **Collocations**
 - einen Werkstudentenvertrag unterschreiben
 - einen Werkstudentenvertrag abschließen

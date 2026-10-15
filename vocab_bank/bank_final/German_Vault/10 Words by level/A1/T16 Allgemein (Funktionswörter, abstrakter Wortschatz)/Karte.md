@@ -35,6 +35,9 @@ status: "new"
 > Schreiben Sie fünf Karten mit Nomen.
 > *Write five cards with nouns.*
 
+**Phrases & Expressions:**
+- **Schreiben Sie fünf Karten mit Nomen** — *Write five cards with nouns* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10c (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

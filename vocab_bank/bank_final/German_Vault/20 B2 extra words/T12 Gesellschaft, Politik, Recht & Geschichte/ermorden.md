@@ -31,6 +31,11 @@ status: "new"
 > Der Politiker wurde vor seinem Haus ermordet.
 > *The politician was murdered in front of his house.*
 
+**Phrases & Expressions:**
+- **jemanden ermorden** — *to murder; to assassinate*
+- **ermordet werden** — *to murder; to assassinate*
+- **brutal ermorden** — *to murder; to assassinate*
+
 **Collocations**
 - jemanden ermorden
 - ermordet werden

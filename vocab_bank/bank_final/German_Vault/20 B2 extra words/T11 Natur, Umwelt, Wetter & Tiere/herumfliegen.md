@@ -32,6 +32,12 @@ status: "new"
 > Im Garten fliegen viele Bienen herum.
 > *Many bees are flying around in the garden.*
 
+**Phrases & Expressions:**
+- **um ... herum** — around *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **um etwas herumfliegen** — *to fly around*
+- **herumfliegen** — *to fly around*
+- **durch die Luft herumfliegen** — *to fly around*
+
 **Collocations**
 - um etwas herumfliegen
 - herumfliegen

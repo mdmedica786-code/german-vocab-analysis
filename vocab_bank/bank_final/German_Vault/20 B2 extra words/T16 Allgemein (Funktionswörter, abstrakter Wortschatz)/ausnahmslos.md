@@ -29,6 +29,11 @@ status: "new"
 > Alle Mitarbeiter müssen ausnahmslos teilnehmen.
 > *All employees must take part without exception.*
 
+**Phrases & Expressions:**
+- **ausnahmslos alle** — *without exception*
+- **ausnahmslos gelten** — *without exception*
+- **ausnahmslos jeder** — *without exception*
+
 **Collocations**
 - ausnahmslos alle
 - ausnahmslos gelten

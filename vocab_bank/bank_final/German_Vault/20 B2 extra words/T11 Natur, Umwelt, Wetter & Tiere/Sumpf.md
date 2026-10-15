@@ -33,6 +33,11 @@ status: "new"
 > Im Sumpf leben viele seltene Vogelarten.
 > *Many rare bird species live in the marsh.*
 
+**Phrases & Expressions:**
+- **im Sumpf versinken** — *swamp; marsh*
+- **ein Sumpf voller Mücken** — *swamp; marsh*
+- **den Sumpf trockenlegen** — *swamp; marsh*
+
 **Collocations**
 - im Sumpf versinken
 - ein Sumpf voller Mücken

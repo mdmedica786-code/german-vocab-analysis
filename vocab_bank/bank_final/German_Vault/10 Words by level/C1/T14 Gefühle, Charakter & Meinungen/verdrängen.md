@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Er verdrängt seine Angst.
 > *He suppresses his fear.*
+
+**Phrases & Expressions:**
+- **Er verdrängt seine Angst** — *He suppresses his fear* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

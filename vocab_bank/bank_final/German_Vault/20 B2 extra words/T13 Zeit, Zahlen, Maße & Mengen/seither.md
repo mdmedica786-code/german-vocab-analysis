@@ -29,6 +29,11 @@ status: "new"
 > Seither hat sich viel verändert.
 > *A lot has changed since then.*
 
+**Phrases & Expressions:**
+- **seither verändert** — *since then*
+- **seither nicht mehr** — *since then*
+- **seither ist viel passiert** — *since then*
+
 **Collocations**
 - seither verändert
 - seither nicht mehr

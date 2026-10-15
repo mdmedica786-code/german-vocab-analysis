@@ -29,6 +29,11 @@ status: "new"
 > Ich habe ein zwiespältiges Gefühl bei dem Plan.
 > *I have mixed feelings about the plan.*
 
+**Phrases & Expressions:**
+- **ein zwiespältiges Gefühl** — *ambivalent; mixed*
+- **zwiespältig reagieren** — *ambivalent; mixed*
+- **zwiespältig bewerten** — *ambivalent; mixed*
+
 **Collocations**
 - ein zwiespältiges Gefühl
 - zwiespältig reagieren

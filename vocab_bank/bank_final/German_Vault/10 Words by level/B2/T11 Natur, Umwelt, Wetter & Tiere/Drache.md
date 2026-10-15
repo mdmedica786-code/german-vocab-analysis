@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Im Märchen kämpft der Ritter gegen einen Drachen.
 > *In the fairy tale the knight fights a dragon.*
+
+**Phrases & Expressions:**
+- **Im Märchen kämpft der Ritter gegen einen Drachen** — *In the fairy tale the knight fights a dragon* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

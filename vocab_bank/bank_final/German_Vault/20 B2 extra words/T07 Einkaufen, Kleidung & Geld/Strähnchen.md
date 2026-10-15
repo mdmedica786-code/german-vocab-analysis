@@ -33,6 +33,11 @@ status: "new"
 > Beim Friseur ließ sie sich helle Strähnchen färben.
 > *At the hairdresser's she had light highlights dyed.*
 
+**Phrases & Expressions:**
+- **Strähnchen färben** — *highlights; small strand of hair*
+- **blonde Strähnchen** — *highlights; small strand of hair*
+- **sich Strähnchen machen lassen** — *highlights; small strand of hair*
+
 **Collocations**
 - Strähnchen färben
 - blonde Strähnchen

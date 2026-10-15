@@ -33,6 +33,11 @@ status: "new"
 > Der Kapitän verließ das Schiff als Letzter.
 > *The captain was the last to leave the ship.*
 
+**Phrases & Expressions:**
+- **der Kapitän des Schiffes** — *captain*
+- **Kapitän der Mannschaft** — *captain*
+- **ein erfahrener Kapitän** — *captain*
+
 **Collocations**
 - der Kapitän des Schiffes
 - Kapitän der Mannschaft

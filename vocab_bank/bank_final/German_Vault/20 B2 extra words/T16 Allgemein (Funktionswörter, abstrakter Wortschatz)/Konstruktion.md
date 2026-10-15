@@ -30,6 +30,11 @@ status: "new"
 > Die Konstruktion der Brücke dauerte zwei Jahre.
 > *The construction of the bridge took two years.*
 
+**Phrases & Expressions:**
+- **eine stabile Konstruktion** — *construction; structure*
+- **grammatische Konstruktion** — *construction; structure*
+- **tragende Konstruktion** — *construction; structure*
+
 **Collocations**
 - eine stabile Konstruktion
 - grammatische Konstruktion

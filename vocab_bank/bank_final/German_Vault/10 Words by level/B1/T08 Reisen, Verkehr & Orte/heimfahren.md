@@ -33,6 +33,9 @@ status: "new"
 > Nach der Arbeit fahre ich heim.
 > *After work I drive home.*
 
+**Phrases & Expressions:**
+- **Nach der Arbeit fahre ich heim** — *After work I drive home* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!)
 <!-- bank:end -->
 

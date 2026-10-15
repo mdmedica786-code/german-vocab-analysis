@@ -34,6 +34,9 @@ status: "new"
 > Das Model hat heute ein Shooting für eine Zeitschrift.
 > *The model has a photo shoot for a magazine today.*
 
+**Phrases & Expressions:**
+- **Das Model hat heute ein Shooting für eine Zeitschrift** — *The model has a photo shoot for a magazine today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 6a (Immer online?)
 <!-- bank:end -->
 

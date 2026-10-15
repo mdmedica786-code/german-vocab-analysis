@@ -33,6 +33,11 @@ status: "new"
 > Ihre Direktheit schätzen viele Kollegen.
 > *Many colleagues appreciate her directness.*
 
+**Phrases & Expressions:**
+- **mit Direktheit** — *directness*
+- **die Direktheit der Sprache** — *directness*
+- **kulturelle Unterschiede in der Direktheit** — *directness*
+
 **Collocations**
 - mit Direktheit
 - die Direktheit der Sprache

@@ -35,6 +35,9 @@ status: "new"
 > Die erste Gruppe beginnt um 16 Uhr.
 > *The first group starts at 4 p.m.*
 
+**Phrases & Expressions:**
+- **eine Gruppe von ...** — a group of ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+
 **Source:** Netzwerk neu A1 K3 3 (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

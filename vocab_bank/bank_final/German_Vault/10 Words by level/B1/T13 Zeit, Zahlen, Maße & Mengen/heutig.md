@@ -32,6 +32,9 @@ status: "new"
 > Heutige Fahrzeuge können noch nicht fliegen.
 > *Present day cars can't fly yet.*
 
+**Phrases & Expressions:**
+- **bis auf den heutigen Tag** — up to the present day *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · C1)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

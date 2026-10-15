@@ -33,6 +33,11 @@ status: "new"
 > Das Gesetz hat noch immer Geltung.
 > *The law is still valid.*
 
+**Phrases & Expressions:**
+- **Geltung haben** — *validity; recognition*
+- **zur Geltung kommen** — *validity; recognition*
+- **sich Geltung verschaffen** — *validity; recognition*
+
 **Collocations**
 - Geltung haben
 - zur Geltung kommen

@@ -33,6 +33,11 @@ status: "new"
 > Der Intendant des Theaters kündigte eine neue Spielzeit an.
 > *The theatre's director announced a new season.*
 
+**Phrases & Expressions:**
+- **der Intendant des Senders** — *director (of a theatre or broadcaster)*
+- **zum Intendanten ernennen** — *director (of a theatre or broadcaster)*
+- **Intendant der Oper** — *director (of a theatre or broadcaster)*
+
 **Collocations**
 - der Intendant des Senders
 - zum Intendanten ernennen

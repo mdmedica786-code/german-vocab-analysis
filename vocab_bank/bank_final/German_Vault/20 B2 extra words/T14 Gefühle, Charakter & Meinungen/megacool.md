@@ -26,6 +26,11 @@ status: "new"
 > Das Konzert gestern war megacool.
 > *The concert yesterday was super cool.*
 
+**Phrases & Expressions:**
+- **megacool sein** — *super cool; awesome (informal)*
+- **einen megacoolen Tag haben** — *super cool; awesome (informal)*
+- **megacool finden** — *super cool; awesome (informal)*
+
 **Collocations**
 - megacool sein
 - einen megacoolen Tag haben

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Abstimmung findet morgen statt.
 > *The vote takes place tomorrow.*
+
+**Phrases & Expressions:**
+- **Die Abstimmung findet morgen statt** — *The vote takes place tomorrow* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

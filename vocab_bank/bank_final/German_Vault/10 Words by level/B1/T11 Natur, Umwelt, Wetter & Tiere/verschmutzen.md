@@ -33,6 +33,9 @@ status: "new"
 > Die Fabrik verschmutzt den Fluss.
 > *The factory pollutes the river.*
 
+**Phrases & Expressions:**
+- **Die Fabrik verschmutzt den Fluss** — *The factory pollutes the river* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 9c (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

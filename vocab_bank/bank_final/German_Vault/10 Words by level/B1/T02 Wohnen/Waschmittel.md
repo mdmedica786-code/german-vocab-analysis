@@ -34,6 +34,9 @@ status: "new"
 > Diese Bluse darfst du nicht mit jedem Waschmittel waschen.
 > *You must not wash this blouse with just any detergent.*
 
+**Phrases & Expressions:**
+- **Diese Bluse darfst du nicht mit jedem Waschmittel waschen** — *You must not wash this blouse with just any detergent* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

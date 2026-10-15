@@ -33,6 +33,11 @@ status: "new"
 > Zum Abendessen gibt es gebratene Forelle mit Kartoffeln.
 > *For dinner there is fried trout with potatoes.*
 
+**Phrases & Expressions:**
+- **Forelle blau** — *trout*
+- **geräucherte Forelle** — *trout*
+- **Forellen angeln** — *trout*
+
 **Collocations**
 - Forelle blau
 - geräucherte Forelle

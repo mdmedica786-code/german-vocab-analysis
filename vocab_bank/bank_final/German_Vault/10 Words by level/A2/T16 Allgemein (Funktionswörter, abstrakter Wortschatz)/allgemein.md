@@ -31,6 +31,13 @@ status: "new"
 > Wir haben nur über allgemeine Probleme gesprochen.
 > *We only talked about general problems.*
 
+**Phrases & Expressions:**
+- **im Allgemeinen** — in general *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **Wie würden Sie Ihren allgemeinen Gesundheitszustand beschreiben?** — How would you describe your general state of health? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Gesundheitszustand erfragen]] · B2)*
+- **allgemeine Informationen** — *general*
+- **allgemein bekannt** — *general*
+- **allgemeine Regeln** — *general*
+
 **Collocations**
 - allgemeine Informationen
 - im Allgemeinen

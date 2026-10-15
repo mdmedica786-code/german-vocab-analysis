@@ -33,6 +33,11 @@ status: "new"
 > Die Kluft zwischen Arm und Reich wird größer.
 > *The gulf between rich and poor is getting wider.*
 
+**Phrases & Expressions:**
+- **eine tiefe Kluft** — *gulf; gap; divide*
+- **die Kluft überbrücken** — *gulf; gap; divide*
+- **Kluft zwischen + Dat.** — *gulf; gap; divide*
+
 **Collocations**
 - eine tiefe Kluft
 - die Kluft überbrücken

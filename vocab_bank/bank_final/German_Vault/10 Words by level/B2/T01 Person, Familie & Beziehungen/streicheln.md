@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Das Kind streichelt die Katze.
 > *The child strokes the cat.*
+
+**Phrases & Expressions:**
+- **Das Kind streichelt die Katze** — *The child strokes the cat* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

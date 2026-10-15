@@ -32,6 +32,14 @@ status: "new"
 > Das Hotel liegt dem Bahnhof gegenüber.
 > *The hotel is opposite the station.*
 
+**Phrases & Expressions:**
+- **liegt darin, dass ...** — lies in the fact that ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · C1)*
+- **es liegt an ...** — it is due to ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B2)*
+- **... liegt vor, wenn ...** — ... exists if ... *([[Bedingung - Zweck (condition, purpose)|Bedingung / Zweck (condition, purpose)]] · C1)*
+- **gegenüber von ...** — opposite ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **das liegt daran, dass ...** — that is because ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B2)*
+- **es lag daran, dass ...** — it was because ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B2)*
+
 **Collocations**
 - dem Haus gegenüberliegen
 - gegenüberliegen

@@ -29,6 +29,11 @@ status: "new"
 > Kinder sind im Winter anfällig für Erkältungen.
 > *Children are susceptible to colds in winter.*
 
+**Phrases & Expressions:**
+- **anfällig für etwas** — *susceptible; prone*
+- **anfällig sein** — *susceptible; prone*
+- **ein anfälliges System** — *susceptible; prone*
+
 **Collocations**
 - anfällig für etwas
 - anfällig sein

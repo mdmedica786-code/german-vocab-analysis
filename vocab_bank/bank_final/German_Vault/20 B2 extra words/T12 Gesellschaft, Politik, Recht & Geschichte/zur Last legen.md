@@ -26,6 +26,10 @@ status: "new"
 > Dem Mann wird Diebstahl zur Last gelegt.
 > *The man is charged with theft.*
 
+**Phrases & Expressions:**
+- **jemandem etwas zur Last legen** — *to accuse of; to charge with*
+- **zur Last fallen** — *to accuse of; to charge with*
+
 **Collocations**
 - jemandem etwas zur Last legen
 - zur Last fallen

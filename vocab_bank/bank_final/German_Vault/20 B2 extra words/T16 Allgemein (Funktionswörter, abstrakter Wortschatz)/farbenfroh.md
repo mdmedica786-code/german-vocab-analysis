@@ -29,6 +29,11 @@ status: "new"
 > Auf dem Markt gibt es farbenfrohe Stoffe.
 > *At the market there are colourful fabrics.*
 
+**Phrases & Expressions:**
+- **farbenfroh gekleidet** — *colourful*
+- **ein farbenfrohes Bild** — *colourful*
+- **farbenfroh gestalten** — *colourful*
+
 **Collocations**
 - farbenfroh gekleidet
 - ein farbenfrohes Bild

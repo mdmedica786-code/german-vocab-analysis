@@ -35,6 +35,9 @@ status: "new"
 > Die Wohnung hat 60 qm.
 > *The flat has 60 sq m.*
 
+**Phrases & Expressions:**
+- **Die Wohnung hat 60 qm** — *The flat has 60 sq m* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3a (Meine Wohnung)
 <!-- bank:end -->
 

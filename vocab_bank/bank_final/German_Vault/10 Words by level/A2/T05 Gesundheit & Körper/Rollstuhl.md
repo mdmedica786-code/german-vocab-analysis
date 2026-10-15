@@ -34,6 +34,9 @@ status: "new"
 > Der Patient sitzt im Rollstuhl.
 > *The patient is sitting in a wheelchair.*
 
+**Phrases & Expressions:**
+- **Der Patient sitzt im Rollstuhl** — *The patient is sitting in a wheelchair* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 7a (Nach der Schulzeit)
 <!-- bank:end -->
 

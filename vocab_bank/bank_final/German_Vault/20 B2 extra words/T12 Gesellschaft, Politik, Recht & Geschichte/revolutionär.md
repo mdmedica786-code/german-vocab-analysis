@@ -29,6 +29,11 @@ status: "new"
 > Die Erfindung war revolutionär.
 > *The invention was revolutionary.*
 
+**Phrases & Expressions:**
+- **eine revolutionäre Idee** — *revolutionary*
+- **revolutionäre Veränderungen** — *revolutionary*
+- **revolutionär neu** — *revolutionary*
+
 **Collocations**
 - eine revolutionäre Idee
 - revolutionäre Veränderungen

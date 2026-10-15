@@ -33,6 +33,11 @@ status: "new"
 > Das Werbematerial liegt am Eingang aus.
 > *The promotional material is available at the entrance.*
 
+**Phrases & Expressions:**
+- **Werbematerial verteilen** — *promotional material; advertising material*
+- **Werbematerial erstellen** — *promotional material; advertising material*
+- **Werbematerial bestellen** — *promotional material; advertising material*
+
 **Collocations**
 - Werbematerial verteilen
 - Werbematerial erstellen

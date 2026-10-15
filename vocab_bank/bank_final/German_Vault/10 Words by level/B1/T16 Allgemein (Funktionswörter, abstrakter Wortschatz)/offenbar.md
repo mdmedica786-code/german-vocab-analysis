@@ -31,6 +31,12 @@ status: "new"
 > Das Restaurant ist heute offenbar geschlossen.
 > *The restaurant is apparently closed today.*
 
+**Phrases & Expressions:**
+- **offenbar nicht** — *apparently; obviously*
+- **offenbar schon** — *apparently; obviously*
+- **offenbar ein Fehler** — *apparently; obviously*
+- **offenbar werden** — *apparently; obviously*
+
 **Collocations**
 - offenbar nicht
 - offenbar schon

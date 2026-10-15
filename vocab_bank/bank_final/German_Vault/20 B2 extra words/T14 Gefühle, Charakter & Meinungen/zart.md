@@ -29,6 +29,11 @@ status: "new"
 > Sie umarmte ihn mit zarter Geste.
 > *She embraced him with a gentle gesture.*
 
+**Phrases & Expressions:**
+- **zarte Haut** — *tender; delicate; gentle*
+- **zart besaitet** — *tender; delicate; gentle*
+- **zartes Fleisch** — *tender; delicate; gentle*
+
 **Collocations**
 - zarte Haut
 - zart besaitet

@@ -33,6 +33,11 @@ status: "new"
 > Bei Niedrigwasser können Schiffe nicht voll beladen werden.
 > *At low water ships cannot be fully loaded.*
 
+**Phrases & Expressions:**
+- **Niedrigwasser im Rhein** — *low water*
+- **bei Niedrigwasser** — *low water*
+- **durch Niedrigwasser behindert** — *low water*
+
 **Collocations**
 - Niedrigwasser im Rhein
 - bei Niedrigwasser

@@ -29,6 +29,11 @@ status: "new"
 > Pflegekräfte gelten als systemrelevant.
 > *Nursing staff are regarded as essential to the system.*
 
+**Phrases & Expressions:**
+- **systemrelevante Berufe** — *system-relevant; essential to the system*
+- **systemrelevant sein** — *system-relevant; essential to the system*
+- **eine systemrelevante Bank** — *system-relevant; essential to the system*
+
 **Collocations**
 - systemrelevante Berufe
 - systemrelevant sein

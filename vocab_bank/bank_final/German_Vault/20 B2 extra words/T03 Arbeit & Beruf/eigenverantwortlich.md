@@ -29,6 +29,11 @@ status: "new"
 > Die Mitarbeiter arbeiten eigenverantwortlich in ihrem Bereich.
 > *The employees work on their own responsibility in their area.*
 
+**Phrases & Expressions:**
+- **eigenverantwortlich arbeiten** — *on one's own responsibility; self-reliant*
+- **eigenverantwortlich handeln** — *on one's own responsibility; self-reliant*
+- **eigenverantwortlich entscheiden** — *on one's own responsibility; self-reliant*
+
 **Collocations**
 - eigenverantwortlich arbeiten
 - eigenverantwortlich handeln

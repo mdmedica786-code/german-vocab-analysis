@@ -34,6 +34,12 @@ status: "new"
 > Die Heilung der Wunde dauert Wochen.
 > *The healing of the wound takes weeks.*
 
+**Phrases & Expressions:**
+- **zur Heilung beitragen** — *cure; healing*
+- **Chance auf Heilung** — *cure; healing*
+- **Heilung der Wunde** — *cure; healing*
+- **auf Heilung hoffen** — *cure; healing*
+
 **Collocations**
 - zur Heilung beitragen
 - Chance auf Heilung

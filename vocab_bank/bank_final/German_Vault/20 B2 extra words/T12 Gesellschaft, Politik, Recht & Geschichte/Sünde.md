@@ -33,6 +33,11 @@ status: "new"
 > Es wäre eine Sünde, das gute Essen wegzuwerfen.
 > *It would be a sin to throw away the good food.*
 
+**Phrases & Expressions:**
+- **eine Sünde begehen** — *sin*
+- **die sieben Todsünden** — *sin*
+- **es ist eine Sünde** — *sin*
+
 **Collocations**
 - eine Sünde begehen
 - die sieben Todsünden

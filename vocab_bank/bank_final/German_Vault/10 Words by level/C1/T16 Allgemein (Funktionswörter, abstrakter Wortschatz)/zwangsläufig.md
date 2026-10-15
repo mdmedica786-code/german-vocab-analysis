@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Das führt zwangsläufig zu Problemen.
 > *That inevitably leads to problems.*
+
+**Phrases & Expressions:**
+- **Das führt zwangsläufig zu Problemen** — *That inevitably leads to problems* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

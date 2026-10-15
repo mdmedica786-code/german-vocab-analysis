@@ -34,6 +34,9 @@ status: "new"
 > Wir treffen uns in Halle B.
 > *We are meeting in hall B.*
 
+**Phrases & Expressions:**
+- **Wir treffen uns in Halle B** — *We are meeting in hall B* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Der Busfahrer hält an jeder Haltestelle.
 > *The bus driver stops at every stop.*
 
+**Phrases & Expressions:**
+- **Der Busfahrer hält an jeder Haltestelle** — *The bus driver stops at every stop* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

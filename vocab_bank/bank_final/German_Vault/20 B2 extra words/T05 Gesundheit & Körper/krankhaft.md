@@ -29,6 +29,11 @@ status: "new"
 > Er hat eine krankhafte Angst vor Spinnen.
 > *He has a pathological fear of spiders.*
 
+**Phrases & Expressions:**
+- **krankhafte Veränderungen** — *pathological; morbid*
+- **krankhaft eifersüchtig** — *pathological; morbid*
+- **eine krankhafte Angst** — *pathological; morbid*
+
 **Collocations**
 - krankhafte Veränderungen
 - krankhaft eifersüchtig

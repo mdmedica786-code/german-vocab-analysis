@@ -33,6 +33,11 @@ status: "new"
 > Im Strafvollzug soll die Resozialisierung im Vordergrund stehen.
 > *In the prison system resocialisation should be the priority.*
 
+**Phrases & Expressions:**
+- **der offene Strafvollzug** — *prison system; execution of sentence*
+- **Strafvollzug reformieren** — *prison system; execution of sentence*
+- **im Strafvollzug** — *prison system; execution of sentence*
+
 **Collocations**
 - der offene Strafvollzug
 - Strafvollzug reformieren

@@ -31,6 +31,9 @@ status: "new"
 > Die Filmbeschreibung steht im Programmheft.
 > *The film description is in the programme.*
 
+**Phrases & Expressions:**
+- **Die Filmbeschreibung steht im Programmheft** — *The film description is in the programme* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12b (Immer online?)
 <!-- bank:end -->
 

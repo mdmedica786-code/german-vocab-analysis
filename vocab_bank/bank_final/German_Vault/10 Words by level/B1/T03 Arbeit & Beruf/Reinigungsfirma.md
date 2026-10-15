@@ -34,6 +34,9 @@ status: "new"
 > Die Reinigungsfirma putzt jede Woche das Büro.
 > *The cleaning company cleans the office every week.*
 
+**Phrases & Expressions:**
+- **Die Reinigungsfirma putzt jede Woche das Büro** — *The cleaning company cleans the office every week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

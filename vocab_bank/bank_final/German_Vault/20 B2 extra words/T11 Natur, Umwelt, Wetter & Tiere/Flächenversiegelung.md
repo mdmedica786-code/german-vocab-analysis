@@ -33,6 +33,11 @@ status: "new"
 > Die Flächenversiegelung erhöht die Gefahr von Überschwemmungen.
 > *Soil sealing increases the risk of floods.*
 
+**Phrases & Expressions:**
+- **Flächenversiegelung reduzieren** — *soil sealing*
+- **zunehmende Flächenversiegelung** — *soil sealing*
+- **Folgen der Flächenversiegelung** — *soil sealing*
+
 **Collocations**
 - Flächenversiegelung reduzieren
 - zunehmende Flächenversiegelung

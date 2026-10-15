@@ -33,6 +33,11 @@ status: "new"
 > Der Comedian brachte das Publikum zum Lachen.
 > *The comedian made the audience laugh.*
 
+**Phrases & Expressions:**
+- **ein bekannter Comedian** — *comedian*
+- **der Comedian tritt auf** — *comedian*
+- **einen Comedian engagieren** — *comedian*
+
 **Collocations**
 - ein bekannter Comedian
 - der Comedian tritt auf

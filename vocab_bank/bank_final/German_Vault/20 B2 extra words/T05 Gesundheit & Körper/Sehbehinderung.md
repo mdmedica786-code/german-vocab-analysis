@@ -33,6 +33,11 @@ status: "new"
 > Menschen mit Sehbehinderung brauchen große Schrift.
 > *People with a visual impairment need large print.*
 
+**Phrases & Expressions:**
+- **eine Sehbehinderung haben** — *visual impairment*
+- **Menschen mit Sehbehinderung** — *visual impairment*
+- **eine starke Sehbehinderung** — *visual impairment*
+
 **Collocations**
 - eine Sehbehinderung haben
 - Menschen mit Sehbehinderung

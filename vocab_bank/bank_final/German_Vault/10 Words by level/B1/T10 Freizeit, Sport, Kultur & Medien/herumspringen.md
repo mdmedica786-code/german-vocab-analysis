@@ -33,6 +33,9 @@ status: "new"
 > Die Kinder springen im Garten herum.
 > *The children jump around in the garden.*
 
+**Phrases & Expressions:**
+- **um ... herum** — around *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+
 **Source:** Netzwerk neu B1 K9 7a ÜB (Kunststücke)
 <!-- bank:end -->
 

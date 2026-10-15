@@ -34,6 +34,12 @@ status: "new"
 > Jeder Mensch hat das Bedürfnis nach Ruhe.
 > *Everyone has a need for peace and quiet.*
 
+**Phrases & Expressions:**
+- **ein Bedürfnis haben** — *need*
+- **Bedürfnisse befriedigen** — *need*
+- **das Bedürfnis nach Ruhe** — *need*
+- **menschliche Bedürfnisse** — *need*
+
 **Collocations**
 - ein Bedürfnis haben
 - Bedürfnisse befriedigen

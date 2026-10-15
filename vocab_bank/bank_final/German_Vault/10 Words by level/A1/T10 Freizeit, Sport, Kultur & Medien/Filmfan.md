@@ -31,6 +31,9 @@ status: "new"
 > Mein Bruder ist ein großer Filmfan.
 > *My brother is a big film fan.*
 
+**Phrases & Expressions:**
+- **Mein Bruder ist ein großer Filmfan** — *My brother is a big film fan* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die erste Rechenmaschine wurde im 17. Jahrhundert gebaut.
 > *The first calculating machine was built in the 17th century.*
 
+**Phrases & Expressions:**
+- **eine mechanische Rechenmaschine** — *calculating machine; calculator (historical)*
+- **eine Rechenmaschine bauen** — *calculating machine; calculator (historical)*
+- **die Rechenmaschine von Pascal** — *calculating machine; calculator (historical)*
+
 **Collocations**
 - eine mechanische Rechenmaschine
 - eine Rechenmaschine bauen

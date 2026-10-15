@@ -34,6 +34,9 @@ status: "new"
 > Einen Hamburger ohne Salat, bitte.
 > *A hamburger without salad, please.*
 
+**Phrases & Expressions:**
+- **Einen Hamburger ohne Salat, bitte** — *A hamburger without salad, please* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Vorsicht, der Hund ist bissig!
 > *Careful, the dog bites!*
 
+**Phrases & Expressions:**
+- **ein bissiger Hund** — *snappy; biting*
+- **eine bissige Bemerkung** — *snappy; biting*
+- **bissig kommentieren** — *snappy; biting*
+
 **Collocations**
 - ein bissiger Hund
 - eine bissige Bemerkung

@@ -31,6 +31,11 @@ status: "new"
 > Sie ließ sich nach zehn Jahren von ihm scheiden.
 > *She divorced him after ten years.*
 
+**Phrases & Expressions:**
+- **sich scheiden lassen** — *to part; to depart; to divorce (sich scheiden lassen)*
+- **aus dem Amt scheiden** — *to part; to depart; to divorce (sich scheiden lassen)*
+- **geschieden sein** — *to part; to depart; to divorce (sich scheiden lassen)*
+
 **Collocations**
 - sich scheiden lassen
 - aus dem Amt scheiden

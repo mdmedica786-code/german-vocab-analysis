@@ -33,6 +33,11 @@ status: "new"
 > Sie arbeitet an einem Forschungsinstitut in Berlin.
 > *She works at a research institute in Berlin.*
 
+**Phrases & Expressions:**
+- **an einem Forschungsinstitut** — *research institute*
+- **ein Forschungsinstitut leiten** — *research institute*
+- **ein bekanntes Forschungsinstitut** — *research institute*
+
 **Collocations**
 - an einem Forschungsinstitut
 - ein Forschungsinstitut leiten

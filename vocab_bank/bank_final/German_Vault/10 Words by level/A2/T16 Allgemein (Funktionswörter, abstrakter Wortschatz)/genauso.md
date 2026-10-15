@@ -31,6 +31,14 @@ status: "new"
 > Katarina sieht genauso aus wie ihre Schwester.
 > *Katarina looks just like her sister.*
 
+**Phrases & Expressions:**
+- **Genau, das sehe ich genauso.** — Exactly, I see it just the same way. *([[B1-02 Zustimmen und Widersprechen|Voll zustimmen]] · B1)*
+- **... ist genauso ... wie ...** — ... is just as ... as ... *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Vergleichen]] · B1)*
+- **Das ist genauso wichtig wie ...** — That is just as important as ... *([[B2-11 Vergleichen und Entwicklungen beschreiben|Gleichheit ausdrücken]] · B2)*
+- **genauso gut** — *just as*
+- **genauso viel** — *just as*
+- **genauso wie** — *just as*
+
 **Collocations**
 - genauso gut
 - genauso viel

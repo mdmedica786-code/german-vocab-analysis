@@ -35,6 +35,9 @@ status: "new"
 > Wie ist das Befinden des Patienten heute?
 > *How is the patient's condition today?*
 
+**Phrases & Expressions:**
+- **sich befinden** — to be located *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B2)*
+
 **Source:** Netzwerk neu A1 K1 8e (Guten Tag!)
 <!-- bank:end -->
 

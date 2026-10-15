@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Ich würze das Fleisch mit Knoblauch.
 > *I season the meat with garlic.*
+
+**Phrases & Expressions:**
+- **Ich würze das Fleisch mit Knoblauch** — *I season the meat with garlic* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

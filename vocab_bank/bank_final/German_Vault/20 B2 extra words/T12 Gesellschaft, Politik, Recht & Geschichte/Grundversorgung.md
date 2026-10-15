@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Land ist die ärztliche Grundversorgung nicht überall gesichert.
 > *In the countryside basic medical provision is not secured everywhere.*
 
+**Phrases & Expressions:**
+- **die Grundversorgung sichern** — *basic provision; basic supply*
+- **medizinische Grundversorgung** — *basic provision; basic supply*
+- **Grundversorgung mit Wasser** — *basic provision; basic supply*
+
 **Collocations**
 - die Grundversorgung sichern
 - medizinische Grundversorgung

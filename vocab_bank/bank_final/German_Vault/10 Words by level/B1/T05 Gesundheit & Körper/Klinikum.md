@@ -34,6 +34,9 @@ status: "new"
 > Er arbeitet am Klinikum in München.
 > *He works at the clinic in Munich.*
 
+**Phrases & Expressions:**
+- **Er arbeitet am Klinikum in München** — *He works at the clinic in Munich* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 6a (Veränderungen)
 <!-- bank:end -->
 

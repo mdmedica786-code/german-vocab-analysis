@@ -35,6 +35,9 @@ status: "new"
 > Ihr Stil ist sehr elegant.
 > *Her style is very elegant.*
 
+**Phrases & Expressions:**
+- **Ihr Stil ist sehr elegant** — *Her style is very elegant* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12b (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

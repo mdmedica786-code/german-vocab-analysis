@@ -35,6 +35,9 @@ status: "new"
 > Die Fortbildung, die ich machen will, ist sehr teuer.
 > *The further training I want to do is very expensive.*
 
+**Phrases & Expressions:**
+- **Die Fortbildung, die ich machen will, ist sehr teuer** — *The further training I want to do is very expensive* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

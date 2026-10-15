@@ -32,6 +32,9 @@ status: "new"
 > Ich muss sofort meine Bankkarte sperren lassen.
 > *I have to have my bank card blocked immediately.*
 
+**Phrases & Expressions:**
+- **Ich muss sofort meine Bankkarte sperren lassen** — *I have to have my bank card blocked immediately* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 6a (Leben in der Stadt)
 <!-- bank:end -->
 

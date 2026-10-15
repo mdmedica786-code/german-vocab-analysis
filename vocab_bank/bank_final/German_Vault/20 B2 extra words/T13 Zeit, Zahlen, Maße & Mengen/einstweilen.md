@@ -29,6 +29,11 @@ status: "new"
 > Wir arbeiten einstweilen im Homeoffice.
 > *For the time being we are working from home.*
 
+**Phrases & Expressions:**
+- **einstweilen geschlossen** — *for the time being; meanwhile*
+- **einstweilen bleiben** — *for the time being; meanwhile*
+- **einstweilen verschieben** — *for the time being; meanwhile*
+
 **Collocations**
 - einstweilen geschlossen
 - einstweilen bleiben

@@ -29,6 +29,12 @@ status: "new"
 > Der Winter ist endlich vorbei.
 > *Winter is finally over.*
 
+**Phrases & Expressions:**
+- **an ... vorbei** — past ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Leider ist das Gerät bei der Lieferung beschädigt gewesen.** — Unfortunately the device was damaged on delivery. *([[B2-04 Beschwerde und Reklamation|Problem schildern]] · B2)*
+- **Das muss ein Fehler gewesen sein.** — That must have been a mistake. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Vermutung mit Modalverb]] · B2)*
+- **Es piekst kurz, dann ist es schon vorbei.** — It will sting briefly, then it's already over. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Blutabnahme]] · A2)*
+
 **Source:** Netzwerk neu A1 K10 3a (Studium und Beruf)
 <!-- bank:end -->
 

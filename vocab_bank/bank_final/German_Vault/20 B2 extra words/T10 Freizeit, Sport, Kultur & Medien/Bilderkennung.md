@@ -33,6 +33,11 @@ status: "new"
 > Die Bilderkennung erkennt Gesichter auf Fotos automatisch.
 > *Image recognition automatically recognises faces in photos.*
 
+**Phrases & Expressions:**
+- **automatische Bilderkennung** — *image recognition*
+- **Bilderkennung nutzen** — *image recognition*
+- **Software zur Bilderkennung** — *image recognition*
+
 **Collocations**
 - automatische Bilderkennung
 - Bilderkennung nutzen

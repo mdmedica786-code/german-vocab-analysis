@@ -29,6 +29,9 @@ status: "new"
 > Bitte melden Sie sich rechtzeitig an, andernfalls verfällt Ihr Platz.
 > *Please register in time, otherwise your place will lapse.*
 
+**Phrases & Expressions:**
+- **Andernfalls müssten wir die Pläne ändern.** — Otherwise we would have to change the plans. *([[B2-10 Bedingungen, Folgen und irreale Wünsche|Konsequenz benennen]] · B2)*
+
 **Exam use:** Schreiben, Alltag
 <!-- bank:end -->
 

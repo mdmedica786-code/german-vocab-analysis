@@ -33,6 +33,11 @@ status: "new"
 > Die Front des Hauses ist grün gestrichen.
 > *The front of the house is painted green.*
 
+**Phrases & Expressions:**
+- **an der Front** — *front*
+- **die Fronten verhärten sich** — *front*
+- **Front machen gegen** — *front*
+
 **Collocations**
 - an der Front
 - die Fronten verhärten sich

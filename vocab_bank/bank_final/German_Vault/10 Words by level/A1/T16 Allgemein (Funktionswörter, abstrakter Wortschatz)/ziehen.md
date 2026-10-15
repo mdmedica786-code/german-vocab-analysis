@@ -34,6 +34,14 @@ status: "new"
 > Ziehen Sie eine Karte.
 > *Draw a card.*
 
+**Phrases & Expressions:**
+- **Tee ziehen lassen** — to let tea steep *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B1)*
+- **Vor drei Jahren bin ich nach ... gezogen.** — Three years ago I moved to ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Erfahrung erzählen]] · B1)*
+- **Der Schmerz zieht bis in den linken Arm.** — The pain radiates into the left arm. *([[FSP-03 Schmerzanamnese|Patient: Ausstrahlung nennen]] · B1)*
+- **Die Fäden werden nach etwa zehn Tagen gezogen.** — The stitches are removed after about ten days. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Nachsorge erklären]] · B2)*
+- **Die Fäden werden in zehn Tagen gezogen.** — The stitches will be removed in ten days. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Kontrolltermin]] · B1)*
+- **an der Leine ziehen** — *to pull; to draw; (ist) to move*
+
 **Collocations**
 - an der Leine ziehen
 - eine Karte ziehen

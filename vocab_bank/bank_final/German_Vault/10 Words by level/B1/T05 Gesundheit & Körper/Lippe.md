@@ -34,6 +34,9 @@ status: "new"
 > Es ist sehr kalt. Meine Lippen sind ganz trocken.
 > *It is very cold. My lips are quite dry.*
 
+**Phrases & Expressions:**
+- **Es ist sehr kalt. Meine Lippen sind ganz trocken** — *It is very cold. My lips are quite dry* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

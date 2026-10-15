@@ -35,6 +35,9 @@ status: "new"
 > Wir warten draußen im Flur.
 > *We are waiting outside in the hallway.*
 
+**Phrases & Expressions:**
+- **Wir warten draußen im Flur** — *We are waiting outside in the hallway* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

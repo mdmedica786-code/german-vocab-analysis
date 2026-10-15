@@ -33,6 +33,11 @@ status: "new"
 > Das Lernziel des Kurses ist die sichere Anwendung der Zeitformen.
 > *The learning objective of the course is the confident use of the tenses.*
 
+**Phrases & Expressions:**
+- **ein Lernziel formulieren** — *learning objective*
+- **Lernziele erreichen** — *learning objective*
+- **das Lernziel verfehlen** — *learning objective*
+
 **Collocations**
 - ein Lernziel formulieren
 - Lernziele erreichen

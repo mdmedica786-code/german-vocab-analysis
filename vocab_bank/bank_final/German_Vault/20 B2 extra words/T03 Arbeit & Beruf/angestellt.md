@@ -29,6 +29,11 @@ status: "new"
 > Sie ist bei einer großen Bank angestellt.
 > *She is employed at a large bank.*
 
+**Phrases & Expressions:**
+- **angestellt sein** — *employed*
+- **fest angestellt** — *employed*
+- **bei einer Firma angestellt** — *employed*
+
 **Collocations**
 - angestellt sein
 - fest angestellt

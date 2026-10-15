@@ -13,53 +13,64 @@ tags: ["phrase", "moc"]
 ## A1
 
 - **drei Jahre** — three years
+  - Words: [[drei]] · [[Jahr]]
   - Ich lebe seit drei Jahren hier. *(I have lived here for three years.)*
   - Grammar: seit + Dat.: Dauer
   - Variants: 3 Jahre | drei Jahre lang
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **drei Tage** — three days
+  - Words: [[drei]] · [[Tag]]
   - Ich war drei Tage krank. *(I was ill for three days.)*
   - Grammar: Akk. der Zeit
   - Variants: 3 Tage | drei Tage lang
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **fünf Minuten** — five minutes
+  - Words: [[fünf]] · [[Minute]]
   - Der Bus kommt in fünf Minuten. *(The bus comes in five minutes.)*
   - Variants: 5 Minuten | wenige Minuten
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **jeden Tag** — every day
+  - Words: [[Tag]]
   - Ich lerne jeden Tag eine Stunde Deutsch. *(I study German for an hour every day.)*
   - Grammar: Akk. der Zeit
   - Variants: täglich | alle Tage
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **wie oft** — how often
+  - Words: [[oft]]
   - Wie oft nehmen Sie die Tabletten? *(How often do you take the tablets?)*
   - Variants: wie häufig | wie viele Male
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **wie viel** — how much
+  - Words: [[viel]]
   - Wie viel Milch nehmen Sie? *(How much milk do you take?)*
   - Variants: wie viele (bei Zählbarem)
   - Exam: Wortliste A1 (exam vocabulary) · B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **zehn Minuten** — ten minutes
+  - Words: [[zehn]] · [[Minute]]
   - Ich warte schon zehn Minuten. *(I have been waiting for ten minutes.)*
   - Grammar: Akk. der Zeit
   - Variants: 10 Minuten | eine Viertelstunde minus fünf
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **zwei Jahre** — two years
+  - Words: [[zwei]] · [[Jahr]]
   - Ich lerne seit zwei Jahren Deutsch. *(I have been learning German for two years.)*
   - Grammar: seit + Dat.: Dauer
   - Variants: 2 Jahre | zwei Jahre lang
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **zwei Stunden** — two hours
+  - Words: [[zwei]] · [[Stunde]]
   - Der Film dauert zwei Stunden. *(The film lasts two hours.)*
   - Grammar: Akk. der Zeit
   - Variants: 2 Stunden | zwei Std.
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **zwei Tage** — two days
+  - Words: [[zwei]] · [[Tag]]
   - Ich bleibe nur zwei Tage. *(I'm only staying two days.)*
   - Grammar: Akk. der Zeit
   - Variants: 2 Tage | zwei Tage lang
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **zwei Wochen** — two weeks
+  - Words: [[zwei]] · [[Woche]]
   - Ich habe zwei Wochen Urlaub. *(I have two weeks of holiday.)*
   - Grammar: Akk. der Zeit
   - Variants: 14 Tage | vierzehn Tage
@@ -67,101 +78,124 @@ tags: ["phrase", "moc"]
 ## A2
 
 - **alle anderen** — all the others
+  - Words: [[andere]] · [[alle]]
   - Alle anderen sind schon gegangen. *(All the others have already gone.)*
   - Grammar: Plural; alle + Adjektivendung -en
   - Variants: die übrigen | die anderen
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **dreimal am Tag** — three times a day
+  - Words: [[Tag]] · [[dreimal]]
   - Nehmen Sie die Tablette dreimal am Tag. *(Take the tablet three times a day.)*
   - Grammar: Häufigkeit: -mal am Tag
   - Variants: täglich dreimal | drei Mal täglich
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **ein bisschen** — a little
+  - Words: [[bisschen]]
   - Wenn Sie ein bisschen warten, können wir zusammen gehen. *(If you wait a little, we can go together.)*
   - Variants: etwas | ein wenig
   - Exam: Wortliste B1 (exam vocabulary) · B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **ein oder zwei** — one or two
+  - Words: [[zwei]]
   - Ich brauche ein oder zwei Tage. *(I need one or two days.)*
   - Variants: wenige | ein paar
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **ein paar** — a few; a couple
+  - Words: [[Paar]] · [[paar (determiner)]]
   - Wir fahren ein paar Tage ans Meer. *(We're going to the seaside for a few days.)*
   - Grammar: klein: ein paar = einige
   - Variants: einige | wenige
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **ein paar Mal** — a few times
+  - Words: [[Mal]] · [[Paar]] · [[mal (particle)]] · [[paar (determiner)]]
   - Ich war schon ein paar Mal in Deutschland. *(I have been to Germany a few times.)*
   - Variants: einige Male | mehrmals
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **ein paar Minuten** — a few minutes
+  - Words: [[Paar]] · [[Minute]] · [[paar (determiner)]]
   - Wir warten nur ein paar Minuten. *(We are only waiting a few minutes.)*
   - Grammar: ein paar = einige (klein geschrieben)
   - Variants: einige Minuten | kurz
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **ein paar Sekunden** — a few seconds
+  - Words: [[Paar]] · [[Sekunde]] · [[paar (determiner)]]
   - Warten Sie nur ein paar Sekunden. *(Just wait a few seconds.)*
   - Variants: einige Sekunden | kurz
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **ein paar Stunden** — a few hours
+  - Words: [[Stunde]] · [[Paar]] · [[paar (determiner)]]
   - Wir warten schon ein paar Stunden. *(We have been waiting for a few hours.)*
   - Variants: einige Stunden | mehrere Stunden
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **ein paar Tage** — a few days
+  - Words: [[Tag]] · [[Paar]] · [[paar (determiner)]]
   - Ich bleibe nur ein paar Tage. *(I'm only staying a few days.)*
   - Grammar: ein paar = einige
   - Variants: einige Tage | wenige Tage
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **ein paar Wochen** — a few weeks
+  - Words: [[Woche]] · [[Paar]] · [[paar (determiner)]]
   - In ein paar Wochen beginnt mein Praktikum. *(My internship begins in a few weeks.)*
   - Variants: einige Wochen | mehrere Wochen
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **ein wenig** — a little; a bit
+  - Words: [[wenig]]
   - Ich möchte ein wenig Zucker im Tee. *(I'd like a little sugar in my tea.)*
   - Variants: ein bisschen | etwas
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **eine halbe Stunde** — half an hour
+  - Words: [[Stunde]] · [[halb]]
   - Die Fahrt dauert eine halbe Stunde. *(The journey takes half an hour.)*
   - Grammar: eine halbe Stunde = 30 Minuten
   - Variants: dreißig Minuten | 30 Minuten
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **einmal in der Woche** — once a week
+  - Words: [[Woche]] · [[einmal]]
   - Ich gehe einmal in der Woche zum Sport. *(I go to the gym once a week.)*
   - Variants: wöchentlich | jede Woche
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **Kilometer pro Stunde** — kilometres per hour
+  - Words: [[Kilometer]] · [[pro]] · [[Stunde]]
   - Auf der Landstraße darf man hundert Kilometer pro Stunde fahren. *(On country roads you may drive a hundred kilometres per hour.)*
   - Grammar: Abkürzung: km/h
   - Variants: Stundenkilometer | km/h
   - Exam: Wortliste B1 (exam vocabulary)
 - **nicht genug** — not enough
+  - Words: [[genug]]
   - Ich schlafe nicht genug. *(I don't sleep enough.)*
   - Variants: zu wenig | unzureichend
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **nicht mehr** — no longer
+  - Words: [[mehr]]
   - Ich arbeite nicht mehr in der Klinik. *(I no longer work in the clinic.)*
   - Variants: nicht länger | nie wieder
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **noch ein bisschen** — a little more
+  - Words: [[bisschen]]
   - Möchtest du noch ein bisschen Suppe? *(Would you like a little more soup?)*
   - Variants: noch etwas | noch ein wenig
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **noch einmal** — once more
+  - Words: [[einmal]]
   - Können Sie das bitte noch einmal sagen? *(Can you please say that once more?)*
   - Variants: nochmals | wiederholen
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **noch mal** — again
+  - Words: [[Mal]] · [[mal (particle)]]
   - Wie war noch mal Ihr Name, bitte? *(Please, what was your name again?)*
   - Variants: nochmals | wieder
   - Exam: Wortliste B1 (exam vocabulary) · B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **nur ein paar ...** — just a few ...
+  - Words: [[Paar]] · [[paar (determiner)]]
   - Ich habe nur ein paar Fragen. *(I only have a few questions.)*
   - Variants: wenige | einige
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **nur einmal** — only once
+  - Words: [[einmal]]
   - Ich war nur einmal in Berlin. *(I have only been to Berlin once.)*
   - Variants: ein einziges Mal | nur ein Mal
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **schon einmal** — once already; ever
+  - Words: [[schon]] · [[einmal]]
   - Warst du schon einmal in Deutschland? *(Have you ever been to Germany?)*
   - Variants: jemals | bereits einmal
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
@@ -170,89 +204,109 @@ tags: ["phrase", "moc"]
   - Grammar: so ein + Nomen: Ausruf
   - Variants: solch ein | was für ein
 - **so oft** — so often
+  - Words: [[oft]]
   - Warum rufst du so oft an? *(Why do you call so often?)*
   - Variants: so häufig | derart oft
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **so viel** — so much
+  - Words: [[viel]]
   - Ich habe so viel gegessen. Jetzt ist mir schlecht. *(I ate so much. Now I feel sick.)*
   - Grammar: so viel + Nomen/Verb
   - Variants: so sehr | derart viel
   - Exam: Wortliste B1 (exam vocabulary) · B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **viel Zeit** — a lot of time
+  - Words: [[viel]] · [[Zeit]]
   - Ich habe heute viel Zeit. *(I have a lot of time today.)*
   - Variants: genug Zeit | reichlich Zeit
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **viel zu** — much too
+  - Words: [[viel]]
   - Das T-Shirt ist viel zu eng. *(The t-shirt is much too tight.)*
 - **viele Menschen** — many people
+  - Words: [[Mensch]]
   - Viele Menschen sind heute im Park. *(Many people are in the park today.)*
   - Variants: zahlreiche Personen | eine Menge Leute
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **zehn Jahre** — ten years
+  - Words: [[zehn]] · [[Jahr]]
   - Wir sind schon zehn Jahre verheiratet. *(We have been married for ten years.)*
   - Variants: 10 Jahre | ein Jahrzehnt
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **zwei oder drei** — two or three
+  - Words: [[zwei]] · [[drei]]
   - Ich brauche zwei oder drei Tage. *(I need two or three days.)*
   - Variants: einige | ein paar
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 ## B1
 
 - **ab und zu** — now and then
+  - Words: [[ab]] · [[abholen]] · [[abwechseln]] · [[abfahren]] · [[abgeben]] · [[abfliegen]] · [[ablehnen]] · [[abheben]]
   - Ich gehe ab und zu ins Kino. *(I go to the cinema now and then.)*
   - Variants: manchmal | gelegentlich
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **bis zu ...** — up to
+  - Words: [[bis]]
   - Der Zug fährt mit bis zu 300 Kilometern pro Stunde. *(The train travels at up to 300 kilometres per hour.)*
   - Grammar: bis zu + Dat.
   - Variants: maximal | höchstens
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **die meisten Menschen** — most people
+  - Words: [[Mensch]] · [[meisten]]
   - Die meisten Menschen schlafen nachts. *(Most people sleep at night.)*
   - Variants: fast alle | der Großteil
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **die meisten von ihnen** — most of them
+  - Words: [[meisten]]
   - Die meisten von ihnen sprechen schon gut Deutsch. *(Most of them already speak German well.)*
   - Grammar: von + Dat.
   - Variants: die Mehrheit | fast alle
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **eine Gruppe von ...** — a group of ...
+  - Words: [[Gruppe]]
   - Eine Gruppe von Studenten wartet vor dem Hörsaal. *(A group of students is waiting in front of the lecture hall.)*
   - Grammar: von + Dat.
   - Variants: eine Gruppe + Gen. | mehrere
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **für die meisten ...** — for most ...
+  - Words: [[meisten]]
   - Für die meisten Patienten ist die Therapie gut verträglich. *(For most patients the therapy is well tolerated.)*
   - Grammar: für + Akk.
   - Variants: für viele | für die Mehrheit der
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **immer und immer wieder** — again and again
+  - Words: [[immer]] · [[wieder]] · [[wiedergeben]] · [[wiedersehen (verb)]] · [[wiedererkennen]]
   - Er fragt immer und immer wieder dasselbe. *(He asks the same thing over and over again.)*
   - Grammar: Verstärkung von „immer wieder“
   - Variants: wieder und wieder | ständig
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **immer wieder** — again and again
+  - Words: [[immer]] · [[wieder]] · [[wiedergeben]] · [[wiedersehen (verb)]] · [[wiedererkennen]]
   - Er ruft mich immer wieder an. *(He calls me again and again.)*
   - Variants: ständig | wiederholt
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **in den meisten Fällen** — in most cases
+  - Words: [[Fall]] · [[meisten]]
   - In den meisten Fällen ist die Grippe harmlos. *(In most cases the flu is harmless.)*
   - Grammar: Dativ Plural: in den ... Fällen
   - Variants: meistens | in der Regel
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **jedes Mal** — every time
+  - Words: [[Mal]] · [[mal (particle)]]
   - Inge erzählt die Geschichte jedes Mal anders. *(Inge tells the story differently every time.)*
   - Variants: jedes einzelne Mal | stets
   - Exam: Wortliste B1 (exam vocabulary) · B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **mehr als die Hälfte** — more than half
+  - Words: [[mehr]] · [[Hälfte]]
   - Mehr als die Hälfte der Patienten ist über 60. *(More than half of the patients are over 60.)*
   - Variants: über die Hälfte | die Mehrheit
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **mehr und mehr** — more and more
+  - Words: [[mehr]]
   - Es werden mehr und mehr Menschen krank. *(More and more people are getting ill.)*
   - Variants: immer mehr | zunehmend
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **nicht mehr als ...** — no more than ...
+  - Words: [[mehr]]
   - Das kostet nicht mehr als zehn Euro. *(That costs no more than ten euros.)*
   - Variants: höchstens | maximal
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
@@ -261,154 +315,189 @@ tags: ["phrase", "moc"]
   - Variants: lediglich | nur mehr
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **nur selten** — only rarely
+  - Words: [[selten]]
   - Ich gehe nur selten ins Kino. *(I only rarely go to the cinema.)*
   - Variants: selten | kaum
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **rund um die Uhr** — around the clock
+  - Words: [[Uhr]] · [[rund]]
   - Die Notaufnahme ist rund um die Uhr geöffnet. *(The emergency room is open around the clock.)*
   - Variants: Tag und Nacht | 24 Stunden
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **von Zeit zu Zeit** — from time to time
+  - Words: [[Zeit]]
   - Von Zeit zu Zeit besuche ich meine Tante. *(From time to time I visit my aunt.)*
   - Variants: ab und zu | gelegentlich
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **wieder einmal** — once again
+  - Words: [[wieder]] · [[wiedergeben]] · [[einmal]] · [[wiedersehen (verb)]] · [[wiedererkennen]]
   - Wieder einmal hat der Bus Verspätung. *(Once again the bus is late.)*
   - Variants: schon wieder | mal wieder
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **zum Teil** — in part
+  - Words: [[Teil]] · [[teilnehmen]] · [[teilhaben]]
   - Der Film hat mir zum Teil gefallen. *(I liked the film in part.)*
   - Variants: teilweise | teils
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 ## B2
 
 - **Anzahl von ...** — number of ...
+  - Words: [[Anzahl]]
   - Die Anzahl von Patienten steigt. *(The number of patients is rising.)*
   - Grammar: Anzahl von + Dat.
   - Variants: Zahl der | Menge an
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **ein einziges Mal** — just once
+  - Words: [[einzig]] · [[Mal]] · [[mal (particle)]]
   - Ich war nur ein einziges Mal dort. *(I was there only a single time.)*
   - Variants: nur einmal | ein Mal
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **eine ganze Reihe** — quite a number
+  - Words: [[Reihe]]
   - Er hat eine ganze Reihe Fragen gestellt. *(He asked quite a number of questions.)*
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **eine ganze Reihe von ...** — quite a number of ...
+  - Words: [[Reihe]]
   - Es gibt eine ganze Reihe von Problemen. *(There are quite a number of problems.)*
   - Grammar: von + Dat.
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **eine Reihe von ...** — a number of ...
+  - Words: [[Reihe]]
   - Es gibt eine Reihe von Gründen dafür. *(There are a number of reasons for that.)*
   - Grammar: von + Dat.
   - Variants: mehrere | einige
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **ganz schön ...** — quite ...; rather ...
+  - Words: [[ganz]] · [[schön]]
   - Das war ganz schön anstrengend. *(That was quite exhausting.)*
   - Grammar: umgangssprachlich: verstärkend
   - Variants: ziemlich | ordentlich
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **ganz und gar** — completely
+  - Words: [[ganz]] · [[gar]]
   - Das ist ganz und gar falsch. *(That is completely wrong.)*
   - Variants: völlig | vollkommen
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **hin und wieder** — now and then
+  - Words: [[hin]] · [[wieder]] · [[hinlegen]] · [[wiedergeben]] · [[hinweisen]] · [[hinsehen]] · [[hingehen]] · [[wiedersehen (verb)]]
   - Hin und wieder gehen wir ins Theater. *(Now and then we go to the theatre.)*
   - Variants: ab und zu | gelegentlich
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **in der Regel ist ...** — as a rule ...
+  - Words: [[Regel]]
   - In der Regel ist die Praxis bis 17 Uhr geöffnet. *(As a rule the practice is open until 5 p.m.)*
   - Grammar: Inversion: Verb an Position 2
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **in der Regel nicht** — usually not
+  - Words: [[Regel]]
   - Das ist in der Regel nicht nötig. *(That is usually not necessary.)*
   - Variants: meistens nicht | normalerweise nicht
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **in vielen Fällen** — in many cases
+  - Words: [[Fall]]
   - In vielen Fällen hilft eine Salbe. *(In many cases an ointment helps.)*
   - Grammar: Dativ Plural
   - Variants: oft | häufig
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **kaum mehr** — hardly any more
+  - Words: [[mehr]] · [[kaum]]
   - Ich habe kaum mehr Geld. *(I hardly have any money left.)*
   - Variants: fast nichts mehr | nur noch wenig
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **kaum noch** — hardly any more
+  - Words: [[kaum]]
   - Ich habe kaum noch Zeit. *(I hardly have any time left.)*
   - Variants: fast nicht mehr | nur noch wenig
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **mehr oder weniger** — more or less
+  - Words: [[mehr]]
   - Das ist mehr oder weniger dasselbe. *(That is more or less the same.)*
   - Variants: ungefähr | ziemlich
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **nicht allzu ...** — not too ...
+  - Words: [[allzu]]
   - Der Weg ist nicht allzu weit. *(The way is not too far.)*
   - Grammar: allzu + Adjektiv
   - Variants: nicht zu | nicht übermäßig
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **nur ein einziges Mal** — only a single time
+  - Words: [[einzig]] · [[Mal]] · [[mal (particle)]]
   - Ich habe das nur ein einziges Mal gesehen. *(I have seen that only a single time.)*
   - Variants: nur einmal | ein einziges Mal
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **sind in der Regel ...** — are as a rule ...
+  - Words: [[Regel]]
   - Kinder sind in der Regel neugierig. *(Children are as a rule curious.)*
   - Grammar: Plural von „ist in der Regel“
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **so weit wie möglich** — as far as possible
+  - Words: [[möglich]] · [[weit]]
   - Wir versuchen, so weit wie möglich zu helfen. *(We try to help as far as possible.)*
   - Variants: nach Möglichkeit | möglichst weit
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **werden in der Regel ...** — are usually ...
+  - Words: [[Regel]]
   - Die Daten werden in der Regel anonym erhoben. *(The data are usually collected anonymously.)*
   - Grammar: Passiv Plural: werden + Partizip II
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **wird in der Regel ...** — is usually ...
+  - Words: [[Regel]] · [[geboren werden]] · [[werden]] · [[loswerden]]
   - Die Wunde wird in der Regel genäht. *(The wound is usually stitched.)*
   - Grammar: Passiv: werden + Partizip II
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 ## C1
 
 - **bis hin zu ...** — right up to ...
+  - Words: [[hin]] · [[hinlegen]] · [[hinweisen]] · [[hinsehen]] · [[hingehen]] · [[bis]] · [[hindeuten]] · [[hinnehmen]]
   - Wir bieten alles an, von Kopfschmerztabletten bis hin zu Spezialmedikamenten. *(We offer everything, from headache tablets right up to specialist medication.)*
   - Grammar: hin zu + Dat.
   - Variants: bis zu | sogar
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **ein hohes Maß an ...** — a high degree of ...
+  - Words: [[Maß]] · [[messen]] · [[beimessen]]
   - Der Beruf erfordert ein hohes Maß an Verantwortung. *(The job requires a high degree of responsibility.)*
   - Grammar: Maß an + Dat.
   - Variants: viel ... | große ...
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **eine Vielzahl von ...** — a large number of ...
+  - Words: [[Vielzahl]]
   - Es gibt eine Vielzahl von Möglichkeiten. *(There are a large number of possibilities.)*
   - Grammar: von + Dat.
   - Variants: viele | zahlreiche
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **eine Vielzahl von ...** — a large number of ...
+  - Words: [[Vielzahl]]
   - Eine Vielzahl von Patienten wartet im Flur. *(A large number of patients is waiting in the corridor.)*
   - Grammar: von + Dat.
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **einer Reihe von ...** — of a number of ...
+  - Words: [[Reihe]]
   - Aufgrund einer Reihe von Fehlern wurde der Test wiederholt. *(Due to a number of errors the test was repeated.)*
   - Grammar: Genitiv-/Dativform
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **in aller Regel** — as a rule
+  - Words: [[Regel]]
   - In aller Regel dauert die Untersuchung zehn Minuten. *(As a rule the examination takes ten minutes.)*
   - Variants: in der Regel | meistens
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **in der Mehrzahl der Fälle** — in the majority of cases
+  - Words: [[Fall]] · [[Mehrzahl]]
   - In der Mehrzahl der Fälle verläuft die Krankheit mild. *(In the majority of cases the illness is mild.)*
   - Variants: in den meisten Fällen | meistens
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **in Höhe von ...** — amounting to ...
+  - Words: [[Höhe]]
   - Die Rechnung beträgt einen Betrag in Höhe von fünfzig Euro. *(The invoice is for an amount of fifty euros.)*
   - Grammar: in Höhe von + Dat.
   - Variants: von | im Wert von
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **mehr oder minder** — more or less
+  - Words: [[mehr]]
   - Die Werte sind mehr oder minder normal. *(The values are more or less normal.)*
   - Variants: mehr oder weniger | ungefähr
   - Exam: B1 Sprechen Aufgabe 2 (Zahlen, Häufigkeit) · B1 Schreiben Aufgabe 1 und 2 · Fachsprachprüfung (Anamnese: Häufigkeit, Dauer)
 - **nicht selten** — not seldom; quite often
+  - Words: [[selten]]
   - Nicht selten treten Nebenwirkungen auf. *(Side effects occur quite often.)*
   - Grammar: Litotes: nicht selten = oft
   - Variants: oft | häufig

@@ -30,6 +30,11 @@ status: "new"
 > Der Solokünstler spielt allein auf der Bühne.
 > *The solo artist plays alone on stage.*
 
+**Phrases & Expressions:**
+- **ein bekannter Solokünstler** — *solo artist (male)*
+- **als Solokünstler auftreten** — *solo artist (male)*
+- **ein Solokünstler mit Gitarre** — *solo artist (male)*
+
 **Collocations**
 - ein bekannter Solokünstler
 - als Solokünstler auftreten

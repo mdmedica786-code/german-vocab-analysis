@@ -33,6 +33,11 @@ status: "new"
 > Viele suchen im Urlaub nach Entschleunigung.
 > *Many people look for a slower pace of life on holiday.*
 
+**Phrases & Expressions:**
+- **Entschleunigung suchen** — *slowing down; deceleration of life*
+- **Entschleunigung im Alltag** — *slowing down; deceleration of life*
+- **bewusste Entschleunigung** — *slowing down; deceleration of life*
+
 **Collocations**
 - Entschleunigung suchen
 - Entschleunigung im Alltag

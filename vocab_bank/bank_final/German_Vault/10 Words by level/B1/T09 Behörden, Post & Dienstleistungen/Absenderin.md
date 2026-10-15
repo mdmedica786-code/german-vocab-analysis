@@ -34,6 +34,9 @@ status: "new"
 > Die Absenderin des Briefes ist unbekannt.
 > *The sender of the letter is unknown.*
 
+**Phrases & Expressions:**
+- **Die Absenderin des Briefes ist unbekannt** — *The sender of the letter is unknown* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

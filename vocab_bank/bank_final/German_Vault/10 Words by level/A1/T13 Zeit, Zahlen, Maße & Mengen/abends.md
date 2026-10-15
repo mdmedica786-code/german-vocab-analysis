@@ -31,6 +31,10 @@ status: "new"
 > Abends gehe ich oft spazieren.
 > *In the evenings I often go for a walk.*
 
+**Phrases & Expressions:**
+- **Schwellen Ihre Beine abends an?** — Do your legs swell in the evening? *([[FSP-06 Systemanamnese (Organsysteme)|Herz-Kreislauf]] · B1)*
+- **Sie nehmen dreimal täglich eine Tablette, morgens, mittags und abends.** — You take one tablet three times a day: morning, noon and evening. *([[FSP-11 Therapie und Medikamente erklären|Dosierung erklären]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

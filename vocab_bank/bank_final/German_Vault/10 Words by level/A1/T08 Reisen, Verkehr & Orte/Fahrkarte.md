@@ -36,6 +36,9 @@ status: "new"
 > Hast du schon eine Fahrkarte?
 > **
 
+**Phrases & Expressions:**
+- **Hast du schon eine Fahrkarte** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 6b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

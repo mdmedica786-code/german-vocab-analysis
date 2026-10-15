@@ -31,6 +31,11 @@ status: "new"
 > Bitte aktivieren Sie Ihr Konto per E-Mail.
 > *Please activate your account by email.*
 
+**Phrases & Expressions:**
+- **ein Konto aktivieren** — *to activate*
+- **die Funktion aktivieren** — *to activate*
+- **den Alarm aktivieren** — *to activate*
+
 **Collocations**
 - ein Konto aktivieren
 - die Funktion aktivieren

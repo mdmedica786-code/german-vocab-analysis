@@ -33,6 +33,11 @@ status: "new"
 > Ich bitte Sie um Nachsicht für meinen Fehler.
 > *I ask you for your indulgence for my mistake.*
 
+**Phrases & Expressions:**
+- **Nachsicht üben** — *leniency; indulgence*
+- **um Nachsicht bitten** — *leniency; indulgence*
+- **mit Nachsicht behandeln** — *leniency; indulgence*
+
 **Collocations**
 - Nachsicht üben
 - um Nachsicht bitten

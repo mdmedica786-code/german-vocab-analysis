@@ -30,6 +30,11 @@ status: "new"
 > Die Wortposition im Nebensatz unterscheidet sich vom Hauptsatz.
 > *The word position in a subordinate clause differs from the main clause.*
 
+**Phrases & Expressions:**
+- **die Wortposition im Satz** — *word position; position of a word*
+- **die Wortposition beachten** — *word position; position of a word*
+- **die richtige Wortposition** — *word position; position of a word*
+
 **Collocations**
 - die Wortposition im Satz
 - die Wortposition beachten

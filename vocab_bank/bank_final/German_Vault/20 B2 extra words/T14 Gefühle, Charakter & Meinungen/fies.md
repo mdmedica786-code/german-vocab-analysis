@@ -29,6 +29,11 @@ status: "new"
 > Das war ein richtig fieser Trick.
 > *That was a really nasty trick.*
 
+**Phrases & Expressions:**
+- **ein fieser Typ** — *nasty; mean (colloquial)*
+- **fies sein** — *nasty; mean (colloquial)*
+- **fies grinsen** — *nasty; mean (colloquial)*
+
 **Collocations**
 - ein fieser Typ
 - fies sein

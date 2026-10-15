@@ -30,6 +30,9 @@ status: "new"
 > Das Verb ist im Satz konjugiert.
 > *The verb is conjugated in the sentence.*
 
+**Phrases & Expressions:**
+- **Das Verb ist im Satz konjugiert** — *The verb is conjugated in the sentence* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 10 ÜB (Und was machst du?)
 <!-- bank:end -->
 

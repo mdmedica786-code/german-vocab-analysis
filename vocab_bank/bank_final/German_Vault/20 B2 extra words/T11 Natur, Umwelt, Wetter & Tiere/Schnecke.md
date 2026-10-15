@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Regen kriechen viele Schnecken durch den Garten.
 > *After the rain many snails crawl through the garden.*
 
+**Phrases & Expressions:**
+- **eine Schnecke kriecht** — *snail; slug*
+- **wie eine Schnecke** — *snail; slug*
+- **Schnecken im Garten** — *snail; slug*
+
 **Collocations**
 - eine Schnecke kriecht
 - wie eine Schnecke

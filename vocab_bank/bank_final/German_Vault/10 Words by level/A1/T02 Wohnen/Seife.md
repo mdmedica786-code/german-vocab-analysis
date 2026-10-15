@@ -35,6 +35,9 @@ status: "new"
 > Hier gibt es keine Seife.
 > *There is no soap here.*
 
+**Phrases & Expressions:**
+- **Hier gibt es keine Seife** — *There is no soap here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1b (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

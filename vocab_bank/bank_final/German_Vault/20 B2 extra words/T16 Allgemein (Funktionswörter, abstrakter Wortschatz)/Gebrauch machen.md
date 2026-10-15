@@ -26,6 +26,10 @@ status: "new"
 > Er macht von seinem Recht auf Urlaub Gebrauch.
 > *He makes use of his right to leave.*
 
+**Phrases & Expressions:**
+- **Gebrauch machen von + Dat.** — *to make use of*
+- **von der Möglichkeit Gebrauch machen** — *to make use of*
+
 **Collocations**
 - Gebrauch machen von + Dat.
 - von der Möglichkeit Gebrauch machen

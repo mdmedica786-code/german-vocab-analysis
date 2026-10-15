@@ -33,6 +33,9 @@ status: "new"
 > Mein Sohn kann gut malen.
 > *My son can paint well.*
 
+**Phrases & Expressions:**
+- **Mein Sohn kann gut malen** — *My son can paint well* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 1a (Studium und Beruf) · Goethe word list A2
 <!-- bank:end -->
 

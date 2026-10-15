@@ -33,6 +33,14 @@ status: "new"
 > Pass auf, das Glas fällt gleich vom Tisch.
 > *Watch out, the glass is about to fall off the table.*
 
+**Phrases & Expressions:**
+- **im Falle ...** — in the event of ... *([[Bedingung - Zweck (condition, purpose)|Bedingung / Zweck (condition, purpose)]] · B2)*
+- **es fällt auf, dass ...** — it is striking that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **in diesem Falle** — in this case *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **mir fiel auf, dass ...** — I noticed that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **Ihre Präsentation hat mir sehr gut gefallen.** — I liked your presentation very much. *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Positives Feedback geben]] · B1)*
+- **Mir fällt das Wort gerade nicht ein.** — I can't think of the word right now. *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Wort umschreiben]] · B1)*
+
 **Collocations**
 - vom Tisch fallen
 - in Ohnmacht fallen

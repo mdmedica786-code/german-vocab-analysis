@@ -33,6 +33,11 @@ status: "new"
 > Ein Preisvergleich im Internet lohnt sich fast immer.
 > *A price comparison on the internet is almost always worthwhile.*
 
+**Phrases & Expressions:**
+- **einen Preisvergleich machen** — *price comparison*
+- **ein Preisvergleich lohnt sich** — *price comparison*
+- **Preisvergleich im Internet** — *price comparison*
+
 **Collocations**
 - einen Preisvergleich machen
 - ein Preisvergleich lohnt sich

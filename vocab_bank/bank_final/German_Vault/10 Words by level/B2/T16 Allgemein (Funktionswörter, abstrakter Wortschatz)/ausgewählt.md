@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Preise gelten für ausgewählte Produkte.
 > *The prices apply to selected products.*
+
+**Phrases & Expressions:**
+- **Die Preise gelten für ausgewählte Produkte** — *The prices apply to selected products* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

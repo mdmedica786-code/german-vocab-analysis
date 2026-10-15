@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Etikett stehen Größe und Material.
 > *The label states size and material.*
 
+**Phrases & Expressions:**
+- **das Etikett lesen** — *label; tag*
+- **ein Etikett aufkleben** — *label; tag*
+- **Etikett an der Flasche** — *label; tag*
+
 **Collocations**
 - das Etikett lesen
 - ein Etikett aufkleben

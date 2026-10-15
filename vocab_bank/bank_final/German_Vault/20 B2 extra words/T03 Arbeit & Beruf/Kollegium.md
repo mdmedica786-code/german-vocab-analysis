@@ -33,6 +33,11 @@ status: "new"
 > Das Kollegium der Schule trifft sich einmal im Monat.
 > *The school's staff meets once a month.*
 
+**Phrases & Expressions:**
+- **im Kollegium** — *staff; body of colleagues*
+- **das ganze Kollegium** — *staff; body of colleagues*
+- **ein gutes Verhältnis im Kollegium** — *staff; body of colleagues*
+
 **Collocations**
 - im Kollegium
 - das ganze Kollegium

@@ -34,6 +34,9 @@ status: "new"
 > Ich möchte mich vor der Reise über das Land informieren.
 > *Before the trip I want to find out about the country.*
 
+**Phrases & Expressions:**
+- **Wir geben unser Bestes, ich informiere Sie, sobald ich mehr weiß.** — We are doing our best; I will inform you as soon as I know more. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Angehörige informieren]] · B2)*
+
 **Source:** Netzwerk neu A2 K1 9c (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

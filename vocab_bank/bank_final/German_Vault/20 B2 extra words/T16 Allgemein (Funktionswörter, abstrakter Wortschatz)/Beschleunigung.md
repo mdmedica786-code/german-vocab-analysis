@@ -33,6 +33,11 @@ status: "new"
 > Die Beschleunigung des Verfahrens ist wünschenswert.
 > *Speeding up the procedure is desirable.*
 
+**Phrases & Expressions:**
+- **die Beschleunigung des Verfahrens** — *acceleration; speeding up*
+- **eine schnelle Beschleunigung** — *acceleration; speeding up*
+- **zur Beschleunigung** — *acceleration; speeding up*
+
 **Collocations**
 - die Beschleunigung des Verfahrens
 - eine schnelle Beschleunigung

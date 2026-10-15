@@ -33,6 +33,12 @@ status: "new"
 > Zwischen den beiden Medikamenten gibt es eine Wechselwirkung.
 > *There is an interaction between the two medicines.*
 
+**Phrases & Expressions:**
+- **Wechselwirkungen beachten** — *interaction*
+- **gefährliche Wechselwirkung** — *interaction*
+- **Wechselwirkungen mit Medikamenten** — *interaction*
+- **eine Wechselwirkung ausschließen** — *interaction*
+
 **Collocations**
 - Wechselwirkungen beachten
 - gefährliche Wechselwirkung

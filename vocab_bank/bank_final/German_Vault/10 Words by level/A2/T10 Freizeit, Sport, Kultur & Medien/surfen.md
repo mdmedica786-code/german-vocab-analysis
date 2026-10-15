@@ -33,6 +33,9 @@ status: "new"
 > Ich möchte gern surfen lernen.
 > *I'd like to learn to surf.*
 
+**Phrases & Expressions:**
+- **Ich möchte gern surfen lernen** — *I'd like to learn to surf* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1a (Sportlich, sportlich) · Goethe word list A2
 <!-- bank:end -->
 

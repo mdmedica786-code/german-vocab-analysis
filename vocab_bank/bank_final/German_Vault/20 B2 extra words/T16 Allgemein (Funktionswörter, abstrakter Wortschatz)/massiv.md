@@ -29,6 +29,11 @@ status: "new"
 > Der Tisch ist aus massivem Holz.
 > *The table is made of solid wood.*
 
+**Phrases & Expressions:**
+- **massives Holz** — *massive; solid*
+- **massive Kritik** — *massive; solid*
+- **massiv steigen** — *massive; solid*
+
 **Collocations**
 - massives Holz
 - massive Kritik

@@ -35,6 +35,9 @@ status: "new"
 > Im Westen liegt der Rhein.
 > *The Rhine lies in the west.*
 
+**Phrases & Expressions:**
+- **im Westen** — in the west *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+
 **Source:** Netzwerk neu A1 K12 11a (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

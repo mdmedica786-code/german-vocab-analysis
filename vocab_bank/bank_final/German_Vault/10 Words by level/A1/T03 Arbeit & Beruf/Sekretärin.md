@@ -35,6 +35,9 @@ status: "new"
 > Die Sekretärin plant meine Termine.
 > *The secretary organises my appointments.*
 
+**Phrases & Expressions:**
+- **Die Sekretärin plant meine Termine** — *The secretary organises my appointments* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 7a (Studium und Beruf) · Goethe word list B1
 <!-- bank:end -->
 

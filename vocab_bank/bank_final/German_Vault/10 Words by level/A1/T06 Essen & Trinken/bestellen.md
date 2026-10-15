@@ -33,6 +33,9 @@ status: "new"
 > Wir möchten bestellen, bitte.
 > *We would like to order, please.*
 
+**Phrases & Expressions:**
+- **Am ... habe ich bei Ihnen ... bestellt.** — On ... I ordered ... from you. *([[B2-04 Beschwerde und Reklamation|Anlass der Beschwerde]] · B2)*
+
 **Source:** Netzwerk neu A1 K6 10a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

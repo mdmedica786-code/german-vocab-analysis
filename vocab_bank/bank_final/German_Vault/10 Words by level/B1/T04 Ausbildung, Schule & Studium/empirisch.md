@@ -29,6 +29,12 @@ status: "new"
 > Die Studie beruht auf empirischen Daten.
 > *The study is based on empirical data.*
 
+**Phrases & Expressions:**
+- **empirische Studie** — *empirical*
+- **empirische Daten** — *empirical*
+- **empirisch belegt** — *empirical*
+- **empirische Forschung** — *empirical*
+
 **Collocations**
 - empirische Studie
 - empirische Daten

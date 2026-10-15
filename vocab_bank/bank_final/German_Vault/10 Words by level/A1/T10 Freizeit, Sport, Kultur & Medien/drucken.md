@@ -33,6 +33,9 @@ status: "new"
 > Bitte drucke das Formular für mich.
 > *Please print the form for me.*
 
+**Phrases & Expressions:**
+- **Bitte drucke das Formular für mich** — *Please print the form for me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 6a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

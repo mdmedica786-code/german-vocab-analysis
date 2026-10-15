@@ -31,6 +31,12 @@ status: "new"
 > Die Wohnung ist relativ groß, aber sehr teuer.
 > *The flat is relatively large, but very expensive.*
 
+**Phrases & Expressions:**
+- **relativ gut** — *relative*
+- **relativ wenig** — *relative*
+- **relativ viel** — *relative*
+- **relativ selten** — *relative*
+
 **Collocations**
 - relativ gut
 - relativ wenig

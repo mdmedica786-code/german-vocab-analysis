@@ -33,6 +33,11 @@ status: "new"
 > Seine Aggression richtete sich gegen alle.
 > *His aggression was directed at everyone.*
 
+**Phrases & Expressions:**
+- **Aggressionen abbauen** — *aggression*
+- **verbale Aggression** — *aggression*
+- **die Aggression steigt** — *aggression*
+
 **Collocations**
 - Aggressionen abbauen
 - verbale Aggression

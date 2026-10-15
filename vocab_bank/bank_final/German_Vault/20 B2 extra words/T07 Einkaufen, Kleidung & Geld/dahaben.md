@@ -32,6 +32,14 @@ status: "new"
 > Haben Sie dieses Modell noch da?
 > *Do you still have this model in stock?*
 
+**Phrases & Expressions:**
+- **ich hatte das Gefühl, dass ...** — I had the feeling that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **ich hatte das Gefühl** — I had the feeling *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **ich hatte keine Ahnung** — I had no idea *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **da vorne** — over there; up ahead *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A1)*
+- **ich hatte den Eindruck, dass ...** — I had the impression that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **da bin ich mir sicher** — I'm sure about that *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+
 **Collocations**
 - etwas dahaben
 - noch Milch dahaben

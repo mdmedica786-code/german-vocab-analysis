@@ -34,6 +34,9 @@ status: "new"
 > Das Sofa war ein richtiges Schnäppchen.
 > *The sofa was a real bargain.*
 
+**Phrases & Expressions:**
+- **Das Sofa war ein richtiges Schnäppchen** — *The sofa was a real bargain* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!)
 <!-- bank:end -->
 

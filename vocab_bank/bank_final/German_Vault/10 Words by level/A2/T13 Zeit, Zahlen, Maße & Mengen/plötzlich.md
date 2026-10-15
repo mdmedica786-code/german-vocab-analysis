@@ -31,6 +31,14 @@ status: "new"
 > Plötzlich war das Licht aus.
 > *Suddenly the light went out.*
 
+**Phrases & Expressions:**
+- **Kam das plötzlich oder hat es sich langsam entwickelt?** — Did that come on suddenly or develop slowly? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Beginn erfragen]] · B2)*
+- **Es hat plötzlich angefangen.** — It started suddenly. *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Patient: Beginn schildern]] · A2)*
+- **ganz plötzlich** — *suddenly*
+- **plötzlich und unerwartet** — *suddenly*
+- **plötzlich aufhören** — *suddenly*
+- **ein plötzlicher Schmerz** — *suddenly*
+
 **Collocations**
 - ganz plötzlich
 - plötzlich und unerwartet

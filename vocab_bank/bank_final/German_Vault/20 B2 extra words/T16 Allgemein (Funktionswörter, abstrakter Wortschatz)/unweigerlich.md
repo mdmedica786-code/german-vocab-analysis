@@ -29,6 +29,11 @@ status: "new"
 > Dieser Streit führt unweigerlich zu Problemen.
 > *This argument will inevitably lead to problems.*
 
+**Phrases & Expressions:**
+- **unweigerlich führen zu** — *inevitably; unavoidably*
+- **unweigerlich folgen** — *inevitably; unavoidably*
+- **unweigerlich eintreten** — *inevitably; unavoidably*
+
 **Collocations**
 - unweigerlich führen zu
 - unweigerlich folgen

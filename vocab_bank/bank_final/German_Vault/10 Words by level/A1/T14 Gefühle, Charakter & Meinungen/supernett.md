@@ -27,6 +27,9 @@ status: "new"
 > Unsere neue Nachbarin ist supernett.
 > *Our new neighbour is super nice.*
 
+**Phrases & Expressions:**
+- **Unsere neue Nachbarin ist supernett** — *Our new neighbour is super nice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 2a (Arbeitsalltag)
 <!-- bank:end -->
 

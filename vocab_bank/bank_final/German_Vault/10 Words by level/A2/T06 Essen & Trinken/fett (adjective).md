@@ -31,6 +31,9 @@ status: "new"
 > Die Wurst ist mir zu fett.
 > *The sausage is too fatty for me.*
 
+**Phrases & Expressions:**
+- **Versuchen Sie, weniger Salz und Fett zu essen.** — Try to eat less salt and fat. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Ernährung beraten]] · A2)*
+
 **Source:** Netzwerk neu A2 K8 3c (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

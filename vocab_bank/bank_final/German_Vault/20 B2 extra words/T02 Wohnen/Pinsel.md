@@ -33,6 +33,11 @@ status: "new"
 > Mit einem breiten Pinsel streicht er die Wand.
 > *He paints the wall with a wide brush.*
 
+**Phrases & Expressions:**
+- **mit dem Pinsel streichen** — *brush; paintbrush*
+- **den Pinsel auswaschen** — *brush; paintbrush*
+- **ein feiner Pinsel** — *brush; paintbrush*
+
 **Collocations**
 - mit dem Pinsel streichen
 - den Pinsel auswaschen

@@ -34,6 +34,9 @@ status: "new"
 > Diese Woche arbeite ich in der Spätschicht.
 > *This week I work the late shift.*
 
+**Phrases & Expressions:**
+- **Diese Woche arbeite ich in der Spätschicht** — *This week I work the late shift* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 1a ÜB (Zwischenmenschliches)
 <!-- bank:end -->
 

@@ -36,6 +36,9 @@ status: "new"
 > Die Wohnung hat siebzig Quadratmeter.
 > *The flat has seventy square metres.*
 
+**Phrases & Expressions:**
+- **Die Wohnung hat siebzig Quadratmeter** — *The flat has seventy square metres* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1b (Zusammen leben) · Goethe word list A1
 <!-- bank:end -->
 

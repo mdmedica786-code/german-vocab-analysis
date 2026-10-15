@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Werte liegen im Bereich der Norm.
 > *The values are within the normal range.*
+
+**Phrases & Expressions:**
+- **Die Werte liegen im Bereich der Norm** — *The values are within the normal range* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

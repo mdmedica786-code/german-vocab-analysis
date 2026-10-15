@@ -35,6 +35,10 @@ status: "new"
 > Die Krankenkasse hat die Beiträge erhöht.
 > *The health insurance has raised its contributions.*
 
+**Phrases & Expressions:**
+- **Ich habe den Beitrag von ... gelesen und möchte darauf antworten.** — I have read the post by ... and would like to reply. *([[B1-14 Forumsbeitrag und Leserbrief schreiben|Bezug nehmen]] · B1)*
+- **Ich beziehe mich auf den Beitrag von ...** — I am referring to the post by ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Einstieg mit Bezug]] · B2)*
+
 **Source:** Netzwerk neu A2 K2 5a (Nach der Schulzeit) · Goethe word list B1
 <!-- bank:end -->
 

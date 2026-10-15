@@ -33,6 +33,11 @@ status: "new"
 > Ziehen Sie beim Parken die Handbremse an.
 > *Apply the handbrake when you park.*
 
+**Phrases & Expressions:**
+- **die Handbremse anziehen** — *handbrake*
+- **die Handbremse lösen** — *handbrake*
+- **die Handbremse betätigen** — *handbrake*
+
 **Collocations**
 - die Handbremse anziehen
 - die Handbremse lösen

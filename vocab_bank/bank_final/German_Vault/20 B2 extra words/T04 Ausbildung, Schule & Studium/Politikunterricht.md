@@ -33,6 +33,11 @@ status: "new"
 > Im Politikunterricht diskutieren wir über die Wahl.
 > *In politics lessons we discuss the election.*
 
+**Phrases & Expressions:**
+- **im Politikunterricht** — *politics lessons; social studies (as a school subject)*
+- **der Politikunterricht in der Schule** — *politics lessons; social studies (as a school subject)*
+- **den Politikunterricht besuchen** — *politics lessons; social studies (as a school subject)*
+
 **Collocations**
 - im Politikunterricht
 - der Politikunterricht in der Schule

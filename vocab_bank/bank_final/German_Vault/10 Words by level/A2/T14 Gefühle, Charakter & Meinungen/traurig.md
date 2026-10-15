@@ -31,6 +31,9 @@ status: "new"
 > Ich bin sehr traurig. Meine Katze ist weggelaufen.
 > *I'm very sad. My cat has run away.*
 
+**Phrases & Expressions:**
+- **Ich bin sehr traurig. Meine Katze ist weggelaufen** — *I'm very sad. My cat has run away* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 3a (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

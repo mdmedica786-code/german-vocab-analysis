@@ -33,6 +33,11 @@ status: "new"
 > Sie arbeitet im Bereich der Konfliktforschung.
 > *She works in the field of conflict research.*
 
+**Phrases & Expressions:**
+- **in der Konfliktforschung** — *conflict research*
+- **die Konfliktforschung betreiben** — *conflict research*
+- **ein Institut für Konfliktforschung** — *conflict research*
+
 **Collocations**
 - in der Konfliktforschung
 - die Konfliktforschung betreiben

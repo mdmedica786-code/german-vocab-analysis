@@ -29,6 +29,11 @@ status: "new"
 > Der Hund ist groß, aber sehr gutmütig.
 > *The dog is big but very good-natured.*
 
+**Phrases & Expressions:**
+- **ein gutmütiger Mensch** — *good-natured*
+- **gutmütig lächeln** — *good-natured*
+- **gutmütig sein** — *good-natured*
+
 **Collocations**
 - ein gutmütiger Mensch
 - gutmütig lächeln

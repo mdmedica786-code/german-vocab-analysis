@@ -35,6 +35,9 @@ status: "new"
 > Für den Geburtstagstisch brauchen wir viele Blumen und Kerzen.
 > *For the birthday table we need lots of flowers and candles.*
 
+**Phrases & Expressions:**
+- **Für den Geburtstagstisch brauchen wir viele Blumen und Kerzen** — *For the birthday table we need lots of flowers and candles* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 5b (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > Der Patient erwachte aus der Narkose.
 > *The patient awoke from the anaesthetic.*
 
+**Phrases & Expressions:**
+- **Der Patient erwachte aus der Narkose** — *The patient awoke from the anaesthetic* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6a (Stadt, Land, Fluss)
 <!-- bank:end -->
 

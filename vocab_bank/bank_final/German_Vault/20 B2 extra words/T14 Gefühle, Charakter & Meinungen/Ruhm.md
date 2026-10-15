@@ -33,6 +33,11 @@ status: "new"
 > Der Ruhm des Sängers wuchs schnell.
 > *The singer's fame grew quickly.*
 
+**Phrases & Expressions:**
+- **zu Ruhm gelangen** — *fame; glory*
+- **Ruhm und Ehre** — *fame; glory*
+- **sich mit Ruhm bekleckern** — *fame; glory*
+
 **Collocations**
 - zu Ruhm gelangen
 - Ruhm und Ehre

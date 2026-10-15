@@ -35,6 +35,9 @@ status: "new"
 > Bitte schicken Sie mir einen Prospekt von Ihrem Hotel.
 > *Please send me a brochure of your hotel.*
 
+**Phrases & Expressions:**
+- **Bitte schicken Sie mir einen Prospekt von Ihrem Hotel** — *Please send me a brochure of your hotel* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!) · Goethe word list A1
 <!-- bank:end -->
 

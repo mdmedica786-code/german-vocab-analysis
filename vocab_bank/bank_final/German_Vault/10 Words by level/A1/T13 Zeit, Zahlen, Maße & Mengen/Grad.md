@@ -35,6 +35,11 @@ status: "new"
 > Heute haben wir dreißig Grad.
 > *Today it is thirty degrees.*
 
+**Phrases & Expressions:**
+- **zu einem gewissen Grad** — to a certain extent *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · C1)*
+- **bis zu einem gewissen Grad** — to a certain degree *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · C1)*
+- **bis zu einem gewissen Grade** — to a certain degree *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · C1)*
+
 **Source:** Netzwerk neu A1 K12 11b (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

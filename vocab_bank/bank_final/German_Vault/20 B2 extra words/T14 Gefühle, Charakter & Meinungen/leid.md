@@ -29,6 +29,14 @@ status: "new"
 > Ich bin das ewige Warten leid.
 > *I am tired of the eternal waiting.*
 
+**Phrases & Expressions:**
+- **es tut mir leid** — I'm sorry *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · A1)*
+- **tut mir leid** — I'm sorry *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · A1)*
+- **leider nicht** — unfortunately not *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · A1)*
+- **tut mir so leid** — I'm so sorry *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · A2)*
+- **es tut mir leid, dass ...** — I'm sorry that ... *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · B1)*
+- **es tut mir so leid** — I'm so sorry *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · B1)*
+
 **Collocations**
 - etwas leid sein
 - es tut mir leid

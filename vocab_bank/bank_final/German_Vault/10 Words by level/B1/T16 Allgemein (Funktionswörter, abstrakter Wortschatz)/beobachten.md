@@ -33,6 +33,13 @@ status: "new"
 > Wer hat den Unfall beobachtet?
 > *Who witnessed the accident?*
 
+**Phrases & Expressions:**
+- **Allerdings ist dieser Trend nicht überall zu beobachten.** — However, this trend cannot be observed everywhere. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Trend relativieren]] · B2)*
+- **genau beobachten** — *to observe*
+- **einen Unfall beobachten** — *to observe*
+- **Vögel beobachten** — *to observe*
+- **den Patienten beobachten** — *to observe*
+
 **Collocations**
 - genau beobachten
 - einen Unfall beobachten

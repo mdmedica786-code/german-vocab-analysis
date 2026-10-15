@@ -34,6 +34,9 @@ status: "new"
 > Weil und obwohl sind Konnektoren.
 > *Weil and obwohl are connectors.*
 
+**Phrases & Expressions:**
+- **Weil und obwohl sind Konnektoren** — *Weil and obwohl are connectors* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 7a (Rund um Körper und Geist)
 <!-- bank:end -->
 

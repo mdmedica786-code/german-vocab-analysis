@@ -33,6 +33,11 @@ status: "new"
 > Der Angriff kam völlig überraschend.
 > *The attack came completely by surprise.*
 
+**Phrases & Expressions:**
+- **einen Angriff abwehren** — *attack*
+- **zum Angriff übergehen** — *attack*
+- **ein Angriff auf jemanden** — *attack*
+
 **Collocations**
 - einen Angriff abwehren
 - zum Angriff übergehen

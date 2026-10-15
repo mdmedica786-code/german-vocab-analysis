@@ -29,6 +29,11 @@ status: "new"
 > Die Kinder verbringen sorgenfreie Ferien am Strand.
 > *The children spend carefree holidays on the beach.*
 
+**Phrases & Expressions:**
+- **sorgenfrei leben** — *carefree; worry-free*
+- **eine sorgenfreie Zeit** — *carefree; worry-free*
+- **sorgenfrei sein** — *carefree; worry-free*
+
 **Collocations**
 - sorgenfrei leben
 - eine sorgenfreie Zeit

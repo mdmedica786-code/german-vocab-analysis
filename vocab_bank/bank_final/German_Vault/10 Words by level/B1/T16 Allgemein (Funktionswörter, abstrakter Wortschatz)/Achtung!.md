@@ -43,6 +43,9 @@ status: "new"
 > Achtung, hier endet die Straße!
 > *Watch out, the road ends here!*
 
+**Phrases & Expressions:**
+- **Achtung, hier endet die Straße** — *Watch out, the road ends here* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

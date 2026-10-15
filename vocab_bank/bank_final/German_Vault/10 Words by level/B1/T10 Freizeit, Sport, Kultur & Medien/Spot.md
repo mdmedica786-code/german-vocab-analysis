@@ -34,6 +34,9 @@ status: "new"
 > Der Spot im Fernsehen dauert nur 30 Sekunden.
 > *The ad on TV lasts only 30 seconds.*
 
+**Phrases & Expressions:**
+- **Der Spot im Fernsehen dauert nur 30 Sekunden** — *The ad on TV lasts only 30 seconds* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

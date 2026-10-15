@@ -32,6 +32,9 @@ status: "new"
 > Die Sonne erwärmt das Wasser im See.
 > *The sun warms the water in the lake.*
 
+**Phrases & Expressions:**
+- **Die Sonne erwärmt das Wasser im See** — *The sun warms the water in the lake* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 4b (Umweltfreundlich?)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Unsere Maschine soll um 7 Uhr 10 starten.
 > *Our plane is due to take off at 7:10.*
 
+**Phrases & Expressions:**
+- **Unsere Maschine soll um 7 Uhr 10 starten** — *Our plane is due to take off at 7:10* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten) · Goethe word list A1
 <!-- bank:end -->
 

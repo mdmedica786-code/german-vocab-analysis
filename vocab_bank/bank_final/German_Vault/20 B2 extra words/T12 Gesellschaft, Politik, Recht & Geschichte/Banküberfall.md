@@ -33,6 +33,11 @@ status: "new"
 > Die Polizei untersucht den Banküberfall.
 > *The police are investigating the bank robbery.*
 
+**Phrases & Expressions:**
+- **ein Banküberfall ereignet sich** — *bank robbery*
+- **einen Banküberfall begehen** — *bank robbery*
+- **der Täter des Banküberfalls** — *bank robbery*
+
 **Collocations**
 - ein Banküberfall ereignet sich
 - einen Banküberfall begehen

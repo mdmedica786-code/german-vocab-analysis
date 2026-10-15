@@ -33,6 +33,11 @@ status: "new"
 > Ein rotes Leuchtsignal warnt vor der Gefahr.
 > *A red light signal warns of the danger.*
 
+**Phrases & Expressions:**
+- **ein Leuchtsignal geben** — *light signal*
+- **ein rotes Leuchtsignal** — *light signal*
+- **auf das Leuchtsignal achten** — *light signal*
+
 **Collocations**
 - ein Leuchtsignal geben
 - ein rotes Leuchtsignal

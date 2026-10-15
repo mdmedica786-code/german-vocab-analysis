@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Weg zur Arbeit höre ich einen Podcast über Geschichte.
 > *On my way to work I listen to a podcast about history.*
 
+**Phrases & Expressions:**
+- **einen Podcast hören** — *podcast*
+- **einen Podcast aufnehmen** — *podcast*
+- **Podcast abonnieren** — *podcast*
+
 **Collocations**
 - einen Podcast hören
 - einen Podcast aufnehmen

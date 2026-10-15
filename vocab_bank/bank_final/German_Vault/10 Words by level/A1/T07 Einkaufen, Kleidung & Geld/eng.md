@@ -32,6 +32,13 @@ status: "new"
 > Diese Hose ist zu eng. Gibt es sie auch eine Nummer größer?
 > *These trousers are too tight. Do they also come one size bigger?*
 
+**Phrases & Expressions:**
+- **Bei der MRT-Untersuchung liegen Sie in einer engen Röhre.** — During the MRI scan you lie in a narrow tube. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|CT und MRT]] · B2)*
+- **eine enge Hose** — *tight*
+- **eine enge Straße** — *tight*
+- **eng befreundet** — *tight*
+- **eng zusammenarbeiten** — *tight*
+
 **Collocations**
 - eine enge Hose
 - eine enge Straße

@@ -26,6 +26,11 @@ status: "new"
 > Sie verlieh ihrer Enttäuschung offen Ausdruck.
 > *She openly gave expression to her disappointment.*
 
+**Phrases & Expressions:**
+- **einer Sache Ausdruck verleihen** — *to give expression to*
+- **seiner Freude Ausdruck verleihen** — *to give expression to*
+- **zum Ausdruck bringen** — *to give expression to*
+
 **Collocations**
 - einer Sache Ausdruck verleihen
 - seiner Freude Ausdruck verleihen

@@ -31,6 +31,11 @@ status: "new"
 > Der Tisch wackelt, weil ein Bein kürzer ist.
 > *The table wobbles because one leg is shorter.*
 
+**Phrases & Expressions:**
+- **der Tisch wackelt** — *to wobble; to shake*
+- **ein wackelnder Zahn** — *to wobble; to shake*
+- **mit den Ohren wackeln** — *to wobble; to shake*
+
 **Collocations**
 - der Tisch wackelt
 - ein wackelnder Zahn

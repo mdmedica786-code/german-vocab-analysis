@@ -34,6 +34,11 @@ status: "new"
 > Deutschland ist Mitglied der Europäischen Union.
 > *Germany is a member of the European Union.*
 
+**Phrases & Expressions:**
+- **die Europäische Union** — *union*
+- **in der Union** — *union*
+- **eine Union bilden** — *union*
+
 **Collocations**
 - die Europäische Union
 - in der Union

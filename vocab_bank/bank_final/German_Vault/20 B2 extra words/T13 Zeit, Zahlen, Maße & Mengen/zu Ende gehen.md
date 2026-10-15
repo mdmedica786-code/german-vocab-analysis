@@ -26,6 +26,11 @@ status: "new"
 > Das Jahr geht langsam zu Ende.
 > *The year is slowly coming to an end.*
 
+**Phrases & Expressions:**
+- **zu Ende bringen** — *to come to an end*
+- **langsam zu Ende gehen** — *to come to an end*
+- **zu Ende führen** — *to come to an end*
+
 **Collocations**
 - zu Ende bringen
 - langsam zu Ende gehen

@@ -34,6 +34,11 @@ status: "new"
 > Das neue Kabarett-Stück ist politisch und witzig.
 > *The new cabaret piece is political and funny.*
 
+**Phrases & Expressions:**
+- **ein Kabarett-Stück aufführen** — *cabaret piece; cabaret show*
+- **ein Kabarett-Stück schreiben** — *cabaret piece; cabaret show*
+- **ein Kabarett-Stück besuchen** — *cabaret piece; cabaret show*
+
 **Collocations**
 - ein Kabarett-Stück aufführen
 - ein Kabarett-Stück schreiben

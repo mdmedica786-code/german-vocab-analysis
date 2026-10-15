@@ -29,6 +29,12 @@ status: "new"
 > Dieser Kurs ist für fortgeschrittene Lernende.
 > *This course is for advanced learners.*
 
+**Phrases & Expressions:**
+- **Die Ergebnisse deuten darauf hin, dass die Erkrankung fortgeschritten ist.** — The results indicate that the illness has advanced. *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Nachricht überbringen]] · C1)*
+- **fortgeschrittene Lernende** — *advanced*
+- **ein fortgeschrittenes Stadium** — *advanced*
+- **fortgeschritten sein** — *advanced*
+
 **Collocations**
 - fortgeschrittene Lernende
 - ein fortgeschrittenes Stadium

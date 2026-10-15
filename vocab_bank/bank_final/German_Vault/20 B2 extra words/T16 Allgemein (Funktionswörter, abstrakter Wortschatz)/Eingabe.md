@@ -33,6 +33,11 @@ status: "new"
 > Bei der Eingabe des Passworts ist ein Fehler passiert.
 > *An error occurred when entering the password.*
 
+**Phrases & Expressions:**
+- **die Eingabe des Passworts** — *input; entry; petition*
+- **eine falsche Eingabe** — *input; entry; petition*
+- **eine Eingabe machen** — *input; entry; petition*
+
 **Collocations**
 - die Eingabe des Passworts
 - eine falsche Eingabe

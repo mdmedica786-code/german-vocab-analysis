@@ -35,6 +35,9 @@ status: "new"
 > Wo kann ich mich anmelden?
 > **
 
+**Phrases & Expressions:**
+- **Ich möchte mich anmelden, ich bin neu in der Stadt.** — I'd like to register; I'm new in the city. *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Anmeldung beim Amt]] · B1)*
+
 **Source:** Netzwerk neu A2 K1 3a (Und was machst du?) · Goethe word list A1
 <!-- bank:end -->
 

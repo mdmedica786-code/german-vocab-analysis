@@ -33,6 +33,11 @@ status: "new"
 > Der Kanzler hat eine Rede zur Lage der Nation gehalten.
 > *The chancellor gave a speech on the state of the nation.*
 
+**Phrases & Expressions:**
+- **zum Kanzler wählen** — *chancellor*
+- **der Kanzler regiert** — *chancellor*
+- **Kanzler und Minister** — *chancellor*
+
 **Collocations**
 - zum Kanzler wählen
 - der Kanzler regiert

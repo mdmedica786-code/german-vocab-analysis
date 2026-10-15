@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Er leidet unter seelischen Problemen.
 > *He suffers from emotional problems.*
+
+**Phrases & Expressions:**
+- **Wie belastend ist Ihre Arbeit körperlich und seelisch?** — How demanding is your work physically and mentally? *([[FSP-05 Familien- und Sozialanamnese|Berufliche Belastung]] · B2)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,11 @@ status: "new"
 > Das Essverhalten von Kindern wird stark von den Eltern geprägt.
 > *The eating behaviour of children is strongly shaped by their parents.*
 
+**Phrases & Expressions:**
+- **das Essverhalten ändern** — *eating habits; eating behaviour*
+- **ein gesundes Essverhalten** — *eating habits; eating behaviour*
+- **das Essverhalten beobachten** — *eating habits; eating behaviour*
+
 **Collocations**
 - das Essverhalten ändern
 - ein gesundes Essverhalten

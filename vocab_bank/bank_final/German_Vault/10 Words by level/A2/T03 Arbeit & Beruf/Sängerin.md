@@ -35,6 +35,9 @@ status: "new"
 > Die Sängerin tritt heute Abend im Stadttheater auf.
 > *The singer is performing at the municipal theatre this evening.*
 
+**Phrases & Expressions:**
+- **Die Sängerin tritt heute Abend im Stadttheater auf** — *The singer is performing at the municipal theatre this evening* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 5a (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

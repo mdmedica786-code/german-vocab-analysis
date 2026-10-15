@@ -34,6 +34,10 @@ status: "new"
 > Der Kurs hört in einer Woche auf.
 > *The course ends in a week.*
 
+**Phrases & Expressions:**
+- **Während ich koche, hört mein Mann ...** — While I cook, my husband listens to ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Zeit: gleichzeitig]] · B1)*
+- **Über dem Herzen hört man ein Systolikum.** — A systolic murmur can be heard over the heart. *([[FSP-08 Befunde beschreiben und berichten|Auskultation]] · C1)*
+
 **Source:** Netzwerk neu A1 K6 7a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

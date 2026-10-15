@@ -31,6 +31,9 @@ status: "new"
 > Das ist geheim. Du darfst es niemandem sagen.
 > *That is secret. You must not tell anyone.*
 
+**Phrases & Expressions:**
+- **Das ist geheim. Du darfst es niemandem sagen** — *That is secret. You must not tell anyone* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

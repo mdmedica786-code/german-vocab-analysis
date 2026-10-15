@@ -35,6 +35,9 @@ status: "new"
 > Die Kinder sind über die Mauer geklettert.
 > *The children climbed over the wall.*
 
+**Phrases & Expressions:**
+- **Die Kinder sind über die Mauer geklettert** — *The children climbed over the wall* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 13b (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

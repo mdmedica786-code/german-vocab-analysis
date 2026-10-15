@@ -33,6 +33,11 @@ status: "new"
 > In der Zwischenzeit hat sich viel verändert.
 > *In the meantime a lot has changed.*
 
+**Phrases & Expressions:**
+- **in der Zwischenzeit** — in the meantime *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **in der Zwischenzeit erledigen** — *meantime (only in "in der Zwischenzeit")*
+- **die Zwischenzeit nutzen** — *meantime (only in "in der Zwischenzeit")*
+
 **Collocations**
 - in der Zwischenzeit
 - in der Zwischenzeit erledigen

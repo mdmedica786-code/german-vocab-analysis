@@ -34,6 +34,9 @@ status: "new"
 > Bei dem Fest haben wir uns sehr gut amüsiert.
 > *We enjoyed ourselves a lot at the party.*
 
+**Phrases & Expressions:**
+- **Bei dem Fest haben wir uns sehr gut amüsiert** — *We enjoyed ourselves a lot at the party* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Letztendlich entscheidet der Kunde.
 > *Ultimately the customer decides.*
 
+**Phrases & Expressions:**
+- **letztendlich entscheidend** — *ultimately; in the end*
+- **letztendlich geht es um** — *ultimately; in the end*
+- **und letztendlich** — *ultimately; in the end*
+
 **Collocations**
 - letztendlich entscheidend
 - letztendlich geht es um

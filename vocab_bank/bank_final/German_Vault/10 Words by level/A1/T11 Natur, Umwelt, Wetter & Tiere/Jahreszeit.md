@@ -34,6 +34,9 @@ status: "new"
 > Der Winter ist meine liebste Jahreszeit.
 > *Winter is my favourite season.*
 
+**Phrases & Expressions:**
+- **Der Winter ist meine liebste Jahreszeit** — *Winter is my favourite season* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 10b (In Hamburg)
 <!-- bank:end -->
 

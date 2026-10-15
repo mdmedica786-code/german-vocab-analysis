@@ -35,6 +35,14 @@ status: "new"
 > Wo steht die Frau?
 > *Where is the woman standing?*
 
+**Phrases & Expressions:**
+- **zur Verfügung stehen** — to be available *([[Hilfe anbieten - Service (offer help)|Hilfe anbieten / Service (offer help)]] · B2)*
+- **stehen bleiben** — to stop; to remain standing *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Für mich steht außer Frage, dass ...** — For me there is no question that ... *([[B1-01 Meinung äußern|Überzeugung ausdrücken]] · B1)*
+- **Im Mittelpunkt steht für mich ...** — For me the focus is on ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Schwerpunkt setzen]] · B1)*
+- **Normalerweise stehe ich um ... Uhr auf.** — Normally I get up at ... o'clock. *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Gewohnheit beschreiben]] · B1)*
+- **Für Rückfragen stehe ich Ihnen gern zur Verfügung.** — I am happy to answer any further questions. *([[B1-13 Formelle E-Mail und Brief|Schluss formulieren]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 10a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

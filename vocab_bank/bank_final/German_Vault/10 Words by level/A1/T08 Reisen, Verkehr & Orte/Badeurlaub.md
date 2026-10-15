@@ -34,6 +34,9 @@ status: "new"
 > Wir machen dieses Jahr Badeurlaub am Meer.
 > *This year we are having a beach holiday by the sea.*
 
+**Phrases & Expressions:**
+- **Wir machen dieses Jahr Badeurlaub am Meer** — *This year we are having a beach holiday by the sea* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1a (Ab in den Urlaub!)
 <!-- bank:end -->
 

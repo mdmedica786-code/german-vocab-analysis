@@ -29,6 +29,11 @@ status: "new"
 > Die DDR war ein sozialistischer Staat.
 > *The GDR was a socialist state.*
 
+**Phrases & Expressions:**
+- **eine sozialistische Partei** — *socialist*
+- **ein sozialistischer Staat** — *socialist*
+- **sozialistische Länder** — *socialist*
+
 **Collocations**
 - eine sozialistische Partei
 - ein sozialistischer Staat

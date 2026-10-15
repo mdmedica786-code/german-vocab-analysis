@@ -14,12 +14,14 @@ tags: ["redemittel", "level/B2"]
 ## Anlass der Beschwerde
 
 - **Leider muss ich mich bei Ihnen über ... beschweren.** ⭐ — Unfortunately I have to complain to you about ...
+  - Words: [[leider]] · [[beschweren]] · [[müssen]] · [[leid]]
   - Leider muss ich mich bei Ihnen über die schlechte Qualität der Ware beschweren. *(Unfortunately I have to complain to you about the poor quality of the goods.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: sich beschweren über + Akkusativ
   - Variants: Ich bin mit ... unzufrieden und möchte mich beschweren. | Hiermit beschwere ich mich über ...
   - Exam: Goethe B2 Schreiben Teil 2; Alltag
 - **Am ... habe ich bei Ihnen ... bestellt.** ⭐ — On ... I ordered ... from you.
+  - Words: [[bestellen]] · [[haben]]
   - Am 3. März habe ich bei Ihnen einen Laptop bestellt. *(On 3 March I ordered a laptop from you.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: Perfekt mit haben; Datum mit am
@@ -28,24 +30,28 @@ tags: ["redemittel", "level/B2"]
 ## Problem schildern
 
 - **Leider ist das Gerät bei der Lieferung beschädigt gewesen.** ⭐ — Unfortunately the device was damaged on delivery.
+  - Words: [[leider]] · [[da sein]] · [[los sein]] · [[erlaubt sein]] · [[geraten]] · [[Gerät]] · [[vorbei sein]] · [[auf sein]]
   - Leider ist das Gerät bei der Lieferung beschädigt gewesen. *(Unfortunately the device was damaged on delivery.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: Zustandsperfekt: ist ... gewesen
   - Variants: Das Gerät kam beschädigt bei mir an. | Bei der Lieferung war das Gerät kaputt.
   - Exam: Goethe B2 Schreiben Teil 2; Alltag
 - **Das Produkt entspricht nicht der Beschreibung.** ⭐ — The product doesn't match the description.
+  - Words: [[entsprechen]] · [[Produkt]] · [[Beschreibung]]
   - Das Produkt entspricht nicht der Beschreibung auf Ihrer Internetseite. *(The product doesn't match the description on your website.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: entsprechen + Dativ
   - Variants: Die Ware weicht von der Beschreibung ab. | Das ist nicht das, was ich bestellt habe.
   - Exam: Goethe B2 Schreiben Teil 2; Alltag
 - **Seit ... funktioniert ... nicht mehr.** ⭐ — Since ... ... has no longer been working.
+  - Words: [[mehr]] · [[seit]] · [[funktionieren]] · [[sein]]
   - Seit gestern funktioniert die Heizung in meiner Wohnung nicht mehr. *(Since yesterday the heating in my flat has no longer been working.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: seit + Dativ; Präsens für andauernde Situation
   - Variants: ... ist seit ... defekt. | ... fällt immer wieder aus.
   - Exam: Goethe B2 Schreiben Teil 2; Alltag
 - **Ich habe bis heute keine Rückmeldung erhalten.** ⭐ — I have received no reply to date.
+  - Words: [[erhalten]] · [[heute]] · [[Rückmeldung]] · [[erhalten sein]] · [[haben]] · [[bis]]
   - Ich habe bis heute keine Rückmeldung von Ihnen erhalten. *(I have received no reply from you to date.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: Perfekt: habe ... erhalten
@@ -54,12 +60,14 @@ tags: ["redemittel", "level/B2"]
 ## Unzufriedenheit ausdrücken
 
 - **Ich bin mit der Qualität leider nicht zufrieden.** ⭐ — Unfortunately I am not satisfied with the quality.
+  - Words: [[leider]] · [[zufrieden]] · [[Qualität]] · [[leid]]
   - Ich bin mit der Qualität der Matratze leider nicht zufrieden. *(Unfortunately I am not satisfied with the quality of the mattress.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: zufrieden sein mit + Dativ
   - Variants: Die Qualität entspricht nicht meinen Erwartungen. | Ich bin von der Leistung enttäuscht.
   - Exam: Goethe B2 Schreiben Teil 2; Alltag
 - **Dieses Verhalten finde ich inakzeptabel.** — I find this behaviour unacceptable.
+  - Words: [[verhalten (verb)]] · [[finden]] · [[Verhalten]]
   - Dieses Verhalten Ihres Mitarbeiters finde ich inakzeptabel. *(I find this behaviour of your employee unacceptable.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: finden + Akkusativ + Adjektiv
@@ -68,18 +76,21 @@ tags: ["redemittel", "level/B2"]
 ## Forderung stellen
 
 - **Ich fordere Sie auf, mir den Betrag zu erstatten.** ⭐ — I request that you refund me the amount.
+  - Words: [[fordern]] · [[Betrag]] · [[erstatten]]
   - Ich fordere Sie auf, mir den Betrag von 89 Euro zu erstatten. *(I request that you refund me the amount of 89 euros.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: auffordern + Akkusativ + zu-Infinitiv
   - Variants: Ich bitte um Erstattung des Kaufpreises. | Bitte überweisen Sie mir den Betrag zurück.
   - Exam: Goethe B2 Schreiben Teil 2; Alltag
 - **Ich verlange einen Umtausch gegen ein einwandfreies Gerät.** ⭐ — I demand an exchange for a flawless device.
+  - Words: [[verlangen]] · [[gegen]] · [[geraten]] · [[Gerät]] · [[Umtausch]]
   - Ich verlange einen Umtausch gegen ein einwandfreies Gerät. *(I demand an exchange for a flawless device.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: verlangen + Akkusativ; Umtausch gegen + Akkusativ
   - Variants: Bitte schicken Sie mir ein Ersatzgerät. | Ich bitte um einen Austausch der Ware.
   - Exam: Goethe B2 Schreiben Teil 2; Alltag
 - **Bitte beheben Sie den Mangel schnellstmöglich.** ⭐ — Please remedy the defect as soon as possible.
+  - Words: [[bitte (interjection)]] · [[bitten]] · [[Bitte]] · [[Mangel]] · [[beheben]]
   - Bitte beheben Sie den Mangel an der Waschmaschine schnellstmöglich. *(Please remedy the defect in the washing machine as soon as possible.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: beheben + Akkusativ
@@ -88,12 +99,14 @@ tags: ["redemittel", "level/B2"]
 ## Frist setzen
 
 - **Ich setze Ihnen eine Frist bis zum ...** ⭐ — I am setting you a deadline of ...
+  - Words: [[setzen]] · [[Frist]] · [[bis]]
   - Ich setze Ihnen eine Frist bis zum 15. Mai, um den Mangel zu beheben. *(I am setting you a deadline of 15 May to remedy the defect.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: eine Frist setzen; bis zum + Dativ
   - Variants: Bitte antworten Sie mir bis spätestens ... | Ich erwarte Ihre Antwort innerhalb von zehn Tagen.
   - Exam: Goethe B2 Schreiben Teil 2; Alltag
 - **Sollte ich bis dahin nichts hören, werde ich ...** — Should I hear nothing by then, I will ...
+  - Words: [[hören]] · [[nichts]] · [[dahin]] · [[bis]] · [[werden]] · [[sollen]]
   - Sollte ich bis dahin nichts hören, werde ich rechtliche Schritte einleiten. *(Should I hear nothing by then, I will take legal action.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: Konjunktiv II: Sollte ... (Konditionalsatz ohne wenn)
@@ -102,6 +115,7 @@ tags: ["redemittel", "level/B2"]
 ## Höfliche Bitte
 
 - **Ich wäre Ihnen dankbar, wenn Sie das prüfen könnten.** ⭐ — I would be grateful if you could check that.
+  - Words: [[prüfen]] · [[dankbar]] · [[können]]
   - Ich wäre Ihnen dankbar, wenn Sie den Vorfall prüfen könnten. *(I would be grateful if you could look into the incident.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: Konjunktiv II: wäre ... wenn ... könnten
@@ -110,6 +124,7 @@ tags: ["redemittel", "level/B2"]
 ## Schlussformel Beschwerde
 
 - **Ich hoffe auf eine zufriedenstellende Lösung.** — I hope for a satisfactory solution.
+  - Words: [[Lösung]] · [[hoffen]]
   - Ich hoffe auf eine zufriedenstellende Lösung und danke Ihnen im Voraus. *(I hope for a satisfactory solution and thank you in advance.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: hoffen auf + Akkusativ
@@ -118,12 +133,14 @@ tags: ["redemittel", "level/B2"]
 ## Auf Beschwerde reagieren
 
 - **Wir bedauern die Unannehmlichkeiten sehr.** — We very much regret the inconvenience.
+  - Words: [[Bedauern]]
   - Wir bedauern die Unannehmlichkeiten sehr und entschuldigen uns dafür. *(We very much regret the inconvenience and apologise for it.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: bedauern + Akkusativ
   - Variants: Es tut uns leid, dass ... | Wir bitten um Entschuldigung für ...
   - Exam: Goethe B2 Schreiben Teil 2; Alltag
 - **Vielen Dank für Ihre Rückmeldung, wir werden das prüfen.** — Thank you for your feedback; we will look into it.
+  - Words: [[Dank]] · [[dank (preposition)]] · [[prüfen]] · [[Rückmeldung]]
   - Vielen Dank für Ihre Rückmeldung. Wir werden den Fall umgehend prüfen. *(Thank you for your feedback. We will look into the case immediately.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: Futur I: werden + Infinitiv
@@ -132,12 +149,14 @@ tags: ["redemittel", "level/B2"]
 ## Lösung anbieten
 
 - **Als Entschädigung bieten wir Ihnen ... an.** — As compensation we offer you ...
+  - Words: [[bieten]] · [[Entschädigung]]
   - Als Entschädigung bieten wir Ihnen einen Gutschein über 20 Euro an. *(As compensation we offer you a voucher for 20 euros.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: anbieten + Dativ + Akkusativ; trennbares Verb
   - Variants: Wir erstatten Ihnen den Betrag selbstverständlich. | Wir schicken Ihnen kostenlos Ersatz.
   - Exam: Goethe B2 Schreiben Teil 2; Alltag
 - **Wir senden Ihnen umgehend einen Ersatz zu.** — We will send you a replacement immediately.
+  - Words: [[senden]] · [[Ersatz]] · [[umgehend]]
   - Wir senden Ihnen umgehend einen Ersatz zu, ohne dass Kosten entstehen. *(We will send you a replacement immediately without any costs arising.)*
   - B2 · formal · speaker: Beide · to: Behörde/Firma
   - Grammar: zusenden: trennbares Verb

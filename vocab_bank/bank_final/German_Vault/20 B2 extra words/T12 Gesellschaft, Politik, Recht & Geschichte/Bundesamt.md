@@ -33,6 +33,11 @@ status: "new"
 > Das Bundesamt für Migration bearbeitet die Anträge.
 > *The Federal Office for Migration processes the applications.*
 
+**Phrases & Expressions:**
+- **das Bundesamt für** — *federal office*
+- **beim Bundesamt** — *federal office*
+- **ein Bundesamt anschreiben** — *federal office*
+
 **Collocations**
 - das Bundesamt für
 - beim Bundesamt

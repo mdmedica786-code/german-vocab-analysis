@@ -34,6 +34,9 @@ status: "new"
 > Die Arbeitnehmerin hat Anspruch auf Urlaub.
 > *The employee is entitled to leave.*
 
+**Phrases & Expressions:**
+- **Die Arbeitnehmerin hat Anspruch auf Urlaub** — *The employee is entitled to leave* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 10a (Arbeitswelt)
 <!-- bank:end -->
 

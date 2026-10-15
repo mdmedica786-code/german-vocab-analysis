@@ -33,6 +33,11 @@ status: "new"
 > Das Gebiet steht unter Landschaftsschutz.
 > *The area is under landscape protection.*
 
+**Phrases & Expressions:**
+- **unter Landschaftsschutz stehen** — *landscape conservation*
+- **Landschaftsschutz beachten** — *landscape conservation*
+- **Landschaftsschutzgebiet** — *landscape conservation*
+
 **Collocations**
 - unter Landschaftsschutz stehen
 - Landschaftsschutz beachten

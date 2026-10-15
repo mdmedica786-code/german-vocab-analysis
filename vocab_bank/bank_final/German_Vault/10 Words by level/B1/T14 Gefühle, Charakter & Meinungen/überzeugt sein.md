@@ -30,6 +30,14 @@ status: "new"
 > Ich bin von meiner Idee überzeugt.
 > *I am convinced of my idea.*
 
+**Phrases & Expressions:**
+- **ich bin überzeugt, dass ...** — I am convinced that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **davon überzeugt sein, dass ...** — to be convinced that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **fest davon überzeugt sein, dass ...** — to be firmly convinced that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Ich bin davon überzeugt, dass ...** — I am convinced that ... *([[B1-01 Meinung äußern|Überzeugung ausdrücken]] · B1)*
+- **Dieses Argument überzeugt mich nicht, denn ...** — This argument doesn't convince me, because ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Gegenargument entkräften]] · B2)*
+- **Leider ist das Gerät bei der Lieferung beschädigt gewesen.** — Unfortunately the device was damaged on delivery. *([[B2-04 Beschwerde und Reklamation|Problem schildern]] · B2)*
+
 **Source:** Netzwerk neu B1 K5 10 (Umweltfreundlich?)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Am Wochenende besichtigen wir Schloss Neuschwanstein.
 > *At the weekend we're visiting Neuschwanstein Castle.*
 
+**Phrases & Expressions:**
+- **Am Wochenende besichtigen wir Schloss Neuschwanstein** — *At the weekend we're visiting Neuschwanstein Castle* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Die Müllabfuhr kommt zweimal pro Woche.
 > *The rubbish collection comes twice a week.*
 
+**Phrases & Expressions:**
+- **Die Müllabfuhr kommt zweimal pro Woche** — *The rubbish collection comes twice a week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1a (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

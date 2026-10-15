@@ -33,6 +33,11 @@ status: "new"
 > Schlafmangel führt zu Konzentrationsproblemen.
 > *Lack of sleep leads to concentration problems.*
 
+**Phrases & Expressions:**
+- **unter Schlafmangel leiden** — *lack of sleep; sleep deprivation*
+- **durch Schlafmangel** — *lack of sleep; sleep deprivation*
+- **chronischer Schlafmangel** — *lack of sleep; sleep deprivation*
+
 **Collocations**
 - unter Schlafmangel leiden
 - durch Schlafmangel

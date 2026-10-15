@@ -35,6 +35,10 @@ status: "new"
 > Bitte teilt euch die Schokolade. Jeder bekommt die Hälfte.
 > *Please share the chocolate. Everyone gets half.*
 
+**Phrases & Expressions:**
+- **mehr als die Hälfte** — more than half *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **Etwa die Hälfte der Befragten ...** — About half of the respondents ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Anteil nennen]] · B2)*
+
 **Source:** Netzwerk neu A2 K8 3a (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

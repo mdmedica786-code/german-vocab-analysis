@@ -33,6 +33,11 @@ status: "new"
 > Wir wollen die Effizienz der Abläufe steigern.
 > *We want to increase the efficiency of the processes.*
 
+**Phrases & Expressions:**
+- **die Effizienz steigern** — *efficiency*
+- **hohe Effizienz** — *efficiency*
+- **an Effizienz gewinnen** — *efficiency*
+
 **Collocations**
 - die Effizienz steigern
 - hohe Effizienz

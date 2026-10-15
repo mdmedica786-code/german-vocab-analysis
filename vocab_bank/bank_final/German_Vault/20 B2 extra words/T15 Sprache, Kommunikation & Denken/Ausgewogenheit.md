@@ -33,6 +33,11 @@ status: "new"
 > Die Zeitung achtet auf Ausgewogenheit in der Berichterstattung.
 > *The newspaper pays attention to balance in its reporting.*
 
+**Phrases & Expressions:**
+- **auf Ausgewogenheit achten** — *balance; fairness*
+- **die Ausgewogenheit der Ernährung** — *balance; fairness*
+- **journalistische Ausgewogenheit** — *balance; fairness*
+
 **Collocations**
 - auf Ausgewogenheit achten
 - die Ausgewogenheit der Ernährung

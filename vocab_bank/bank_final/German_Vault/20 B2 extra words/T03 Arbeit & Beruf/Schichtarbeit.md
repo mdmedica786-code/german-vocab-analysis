@@ -33,6 +33,11 @@ status: "new"
 > Schichtarbeit ist für viele Menschen anstrengend.
 > *Shift work is tiring for many people.*
 
+**Phrases & Expressions:**
+- **Schichtarbeit leisten** — *shift work*
+- **in Schichtarbeit arbeiten** — *shift work*
+- **Zuschläge für Schichtarbeit** — *shift work*
+
 **Collocations**
 - Schichtarbeit leisten
 - in Schichtarbeit arbeiten

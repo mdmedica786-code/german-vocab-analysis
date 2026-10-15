@@ -29,6 +29,11 @@ status: "new"
 > Sie trägt einen goldenen Ring am Finger.
 > *She wears a golden ring on her finger.*
 
+**Phrases & Expressions:**
+- **eine goldene Regel** — *golden*
+- **goldene Zeiten** — *golden*
+- **die goldenen Zwanziger** — *golden*
+
 **Collocations**
 - eine goldene Regel
 - goldene Zeiten

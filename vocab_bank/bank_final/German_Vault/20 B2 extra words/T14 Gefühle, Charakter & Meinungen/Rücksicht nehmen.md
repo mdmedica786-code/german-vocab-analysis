@@ -26,6 +26,10 @@ status: "new"
 > Man sollte auf die Nachbarn Rücksicht nehmen.
 > *One should show consideration for the neighbours.*
 
+**Phrases & Expressions:**
+- **Rücksicht nehmen auf + Akk.** — *to show consideration*
+- **keine Rücksicht nehmen** — *to show consideration*
+
 **Collocations**
 - Rücksicht nehmen auf + Akk.
 - keine Rücksicht nehmen

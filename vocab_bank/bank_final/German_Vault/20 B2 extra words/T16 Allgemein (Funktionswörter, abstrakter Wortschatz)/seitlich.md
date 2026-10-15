@@ -29,6 +29,11 @@ status: "new"
 > Der Eingang befindet sich seitlich des Gebäudes.
 > *The entrance is at the side of the building.*
 
+**Phrases & Expressions:**
+- **seitlich einsteigen** — *side; lateral; at the side*
+- **der seitliche Eingang** — *side; lateral; at the side*
+- **seitlich versetzt** — *side; lateral; at the side*
+
 **Collocations**
 - seitlich einsteigen
 - der seitliche Eingang

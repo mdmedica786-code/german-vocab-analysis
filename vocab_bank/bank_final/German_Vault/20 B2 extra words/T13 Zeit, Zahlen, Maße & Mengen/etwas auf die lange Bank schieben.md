@@ -26,6 +26,11 @@ status: "new"
 > Er schiebt die Steuererklärung immer auf die lange Bank.
 > *He always puts off the tax return.*
 
+**Phrases & Expressions:**
+- **auf die lange Bank schieben** — *to put something off*
+- **etwas aufschieben** — *to put something off*
+- **nicht auf die lange Bank schieben** — *to put something off*
+
 **Collocations**
 - auf die lange Bank schieben
 - etwas aufschieben

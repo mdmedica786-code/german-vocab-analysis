@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Das ist eine interne Angelegenheit der Klinik.
 > *That is an internal matter of the clinic.*
+
+**Phrases & Expressions:**
+- **Das ist eine interne Angelegenheit der Klinik** — *That is an internal matter of the clinic* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

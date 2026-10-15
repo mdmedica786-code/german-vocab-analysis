@@ -33,6 +33,11 @@ status: "new"
 > Wer den Würfel wirft, darf beginnen.
 > *Whoever throws the dice may begin.*
 
+**Phrases & Expressions:**
+- **den Würfel werfen** — *dice; cube*
+- **ein Würfel aus Holz** — *dice; cube*
+- **Würfel spielen** — *dice; cube*
+
 **Collocations**
 - den Würfel werfen
 - ein Würfel aus Holz

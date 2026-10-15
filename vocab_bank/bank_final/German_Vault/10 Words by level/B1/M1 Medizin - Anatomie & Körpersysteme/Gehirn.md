@@ -34,6 +34,13 @@ status: "new"
 > Das Gehirn steuert alle wichtigen Funktionen des Körpers.
 > *The brain controls all important functions of the body.*
 
+**Phrases & Expressions:**
+- **Ein Schlaganfall bedeutet, dass ein Teil des Gehirns zu wenig Blut bekommt.** — A stroke means that part of the brain gets too little blood. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B2)*
+- **das Gehirn untersuchen** — *brain*
+- **Gehirn und Rückenmark** — *brain*
+- **Erkrankung des Gehirns** — *brain*
+- **Durchblutung des Gehirns** — *brain*
+
 **Collocations**
 - das Gehirn untersuchen
 - Gehirn und Rückenmark

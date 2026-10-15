@@ -31,6 +31,12 @@ status: "new"
 > Ich habe keinen Hunger. - Ach, essen Sie wenigstens ein Stück Kuchen.
 > *I'm not hungry. – Oh, at least eat a piece of cake.*
 
+**Phrases & Expressions:**
+- **wenigstens ein Stück** — *at least*
+- **wenigstens ein bisschen** — *at least*
+- **wenigstens versuchen** — *at least*
+- **wenigstens heute** — *at least*
+
 **Collocations**
 - wenigstens ein Stück
 - wenigstens ein bisschen

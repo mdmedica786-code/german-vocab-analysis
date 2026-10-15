@@ -31,6 +31,9 @@ status: "new"
 > Sind Sie berufstätig?
 > *Are you employed?*
 
+**Phrases & Expressions:**
+- **Sind Sie berufstätig** — *Are you employed* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 2b (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

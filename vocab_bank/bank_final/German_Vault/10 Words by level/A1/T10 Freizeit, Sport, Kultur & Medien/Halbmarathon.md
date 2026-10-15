@@ -34,6 +34,9 @@ status: "new"
 > Im Herbst laufe ich einen Halbmarathon.
 > *In autumn I'm running a half marathon.*
 
+**Phrases & Expressions:**
+- **Im Herbst laufe ich einen Halbmarathon** — *In autumn I'm running a half marathon* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden)
 <!-- bank:end -->
 

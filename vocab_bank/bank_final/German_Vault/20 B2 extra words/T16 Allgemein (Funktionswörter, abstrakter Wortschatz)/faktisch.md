@@ -29,6 +29,11 @@ status: "new"
 > Das Gesetz ist faktisch wirkungslos.
 > *The law is de facto ineffective.*
 
+**Phrases & Expressions:**
+- **faktisch unmöglich** — *actual; de facto*
+- **faktisch gelten** — *actual; de facto*
+- **eine faktische Grundlage** — *actual; de facto*
+
 **Collocations**
 - faktisch unmöglich
 - faktisch gelten

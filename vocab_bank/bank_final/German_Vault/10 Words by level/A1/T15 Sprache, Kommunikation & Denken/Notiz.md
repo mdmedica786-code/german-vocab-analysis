@@ -35,6 +35,9 @@ status: "new"
 > Schreib mir bitte eine Notiz.
 > *Please write me a note.*
 
+**Phrases & Expressions:**
+- **Sind Sie damit einverstanden, dass ich mir Notizen mache?** — Are you OK with me taking notes? *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Einverständnis einholen]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 9b (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

@@ -30,6 +30,9 @@ status: "new"
 > Kommen Sie bitte von der Leiter herunter!
 > *Please come down from the ladder!*
 
+**Phrases & Expressions:**
+- **Kommen Sie bitte von der Leiter herunter** — *Please come down from the ladder* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

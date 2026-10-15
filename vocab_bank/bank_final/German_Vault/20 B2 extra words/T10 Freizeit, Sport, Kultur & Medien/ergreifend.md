@@ -29,6 +29,11 @@ status: "new"
 > Der Film war ergreifend und traurig zugleich.
 > *The film was moving and sad at the same time.*
 
+**Phrases & Expressions:**
+- **eine ergreifende Rede** — *moving; touching*
+- **ergreifende Szenen** — *moving; touching*
+- **ergreifend schön** — *moving; touching*
+
 **Collocations**
 - eine ergreifende Rede
 - ergreifende Szenen

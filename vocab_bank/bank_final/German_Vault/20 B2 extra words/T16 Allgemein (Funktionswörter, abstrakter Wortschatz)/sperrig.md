@@ -29,6 +29,11 @@ status: "new"
 > Das sperrige Paket passt nicht in den Kofferraum.
 > *The bulky parcel doesn't fit into the boot.*
 
+**Phrases & Expressions:**
+- **sperriges Gepäck** — *bulky; unwieldy*
+- **sperrige Güter** — *bulky; unwieldy*
+- **ein sperriger Begriff** — *bulky; unwieldy*
+
 **Collocations**
 - sperriges Gepäck
 - sperrige Güter

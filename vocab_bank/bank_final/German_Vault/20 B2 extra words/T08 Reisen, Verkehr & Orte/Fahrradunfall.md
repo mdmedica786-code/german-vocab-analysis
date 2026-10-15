@@ -33,6 +33,11 @@ status: "new"
 > Bei dem Fahrradunfall wurde niemand verletzt.
 > *Nobody was injured in the bicycle accident.*
 
+**Phrases & Expressions:**
+- **einen Fahrradunfall haben** — *bicycle accident*
+- **ein schwerer Fahrradunfall** — *bicycle accident*
+- **einen Fahrradunfall melden** — *bicycle accident*
+
 **Collocations**
 - einen Fahrradunfall haben
 - ein schwerer Fahrradunfall

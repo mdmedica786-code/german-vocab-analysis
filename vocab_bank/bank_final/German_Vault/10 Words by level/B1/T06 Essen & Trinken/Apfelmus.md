@@ -34,6 +34,9 @@ status: "new"
 > Zu den Kartoffelpuffern esse ich Apfelmus.
 > *With the potato pancakes I eat apple sauce.*
 
+**Phrases & Expressions:**
+- **Zu den Kartoffelpuffern esse ich Apfelmus** — *With the potato pancakes I eat apple sauce* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist)
 <!-- bank:end -->
 

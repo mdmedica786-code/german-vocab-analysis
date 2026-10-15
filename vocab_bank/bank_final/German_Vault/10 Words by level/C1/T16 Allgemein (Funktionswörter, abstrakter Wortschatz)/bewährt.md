@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Das ist ein bewährtes Mittel gegen Husten.
 > *That is a tried-and-tested remedy for a cough.*
+
+**Phrases & Expressions:**
+- **Das ist ein bewährtes Mittel gegen Husten** — *That is a tried-and-tested remedy for a cough* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

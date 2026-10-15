@@ -29,6 +29,11 @@ status: "new"
 > Ein schlauer Plan hat uns gerettet.
 > *A clever plan saved us.*
 
+**Phrases & Expressions:**
+- **ein schlauer Kopf** — *clever; smart*
+- **sich schlau machen** — *clever; smart*
+- **schlau werden aus** — *clever; smart*
+
 **Collocations**
 - ein schlauer Kopf
 - sich schlau machen

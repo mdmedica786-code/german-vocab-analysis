@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Er konnte sein Verhalten nicht rechtfertigen.
 > *He could not justify his behaviour.*
+
+**Phrases & Expressions:**
+- **Er konnte sein Verhalten nicht rechtfertigen** — *He could not justify his behaviour* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

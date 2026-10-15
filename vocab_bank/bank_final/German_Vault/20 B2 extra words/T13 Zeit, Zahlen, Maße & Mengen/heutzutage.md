@@ -29,6 +29,11 @@ status: "new"
 > Heutzutage hat fast jeder ein Smartphone.
 > *Nowadays almost everyone has a smartphone.*
 
+**Phrases & Expressions:**
+- **heutzutage üblich** — *nowadays*
+- **heutzutage kaum noch** — *nowadays*
+- **heutzutage selten** — *nowadays*
+
 **Collocations**
 - heutzutage üblich
 - heutzutage kaum noch

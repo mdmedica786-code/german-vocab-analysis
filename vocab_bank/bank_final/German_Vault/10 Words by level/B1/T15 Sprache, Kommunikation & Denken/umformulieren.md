@@ -33,6 +33,9 @@ status: "new"
 > Bitte formulieren Sie den Satz um.
 > *Please rephrase the sentence.*
 
+**Phrases & Expressions:**
+- **Bitte formulieren Sie den Satz um** — *Please rephrase the sentence* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 8a (Blick nach vorn)
 <!-- bank:end -->
 

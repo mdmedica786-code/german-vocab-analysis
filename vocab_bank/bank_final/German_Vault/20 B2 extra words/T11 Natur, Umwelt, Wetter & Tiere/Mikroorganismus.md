@@ -33,6 +33,11 @@ status: "new"
 > Viele Mikroorganismen sind für den Menschen nützlich.
 > *Many microorganisms are useful for humans.*
 
+**Phrases & Expressions:**
+- **Mikroorganismen untersuchen** — *microorganism*
+- **nützliche Mikroorganismen** — *microorganism*
+- **ein Mikroorganismus im Boden** — *microorganism*
+
 **Collocations**
 - Mikroorganismen untersuchen
 - nützliche Mikroorganismen

@@ -29,6 +29,11 @@ status: "new"
 > Das ist allemal besser als nichts.
 > *That is in any case better than nothing.*
 
+**Phrases & Expressions:**
+- **ein für allemal** — *in any case; definitely; at any rate*
+- **allemal besser** — *in any case; definitely; at any rate*
+- **allemal genug** — *in any case; definitely; at any rate*
+
 **Collocations**
 - ein für allemal
 - allemal besser

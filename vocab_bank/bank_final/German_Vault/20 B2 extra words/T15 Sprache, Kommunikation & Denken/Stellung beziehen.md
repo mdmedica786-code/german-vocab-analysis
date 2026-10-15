@@ -29,6 +29,10 @@ status: "new"
 > Die Regierung muss zu den Vorwürfen Stellung beziehen.
 > *The government has to take a stand on the allegations.*
 
+**Phrases & Expressions:**
+- **klar Stellung beziehen** — *to take a stand*
+- **zu etwas Stellung nehmen** — *to take a stand*
+
 **Collocations**
 - klar Stellung beziehen
 - zu etwas Stellung nehmen

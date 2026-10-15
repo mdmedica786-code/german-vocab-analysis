@@ -34,6 +34,9 @@ status: "new"
 > An der Ausgabestelle bekommen Sie Ihre Unterlagen.
 > *You will get your documents at the issuing counter.*
 
+**Phrases & Expressions:**
+- **An der Ausgabestelle bekommen Sie Ihre Unterlagen** — *You will get your documents at the issuing counter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

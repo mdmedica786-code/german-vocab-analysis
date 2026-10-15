@@ -31,6 +31,12 @@ status: "new"
 > Mach schnell. Die Zeit ist knapp.
 > *Hurry up. Time is short.*
 
+**Phrases & Expressions:**
+- **knapp bei Kasse** — *scarce; tight; barely*
+- **knapp gewinnen** — *scarce; tight; barely*
+- **knappe Zeit** — *scarce; tight; barely*
+- **knapp zwei Stunden** — *scarce; tight; barely*
+
 **Collocations**
 - knapp bei Kasse
 - knapp gewinnen

@@ -31,6 +31,9 @@ status: "new"
 > Ich habe es immer eilig.
 > *I'm always in a hurry.*
 
+**Phrases & Expressions:**
+- **Ich habe es immer eilig** — *I'm always in a hurry* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 7a (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

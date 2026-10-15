@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Die Firmen-Kampagne startet im Mai.
 > *The company campaign starts in May.*
+
+**Phrases & Expressions:**
+- **Die Firmen-Kampagne startet im Mai** — *The company campaign starts in May* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

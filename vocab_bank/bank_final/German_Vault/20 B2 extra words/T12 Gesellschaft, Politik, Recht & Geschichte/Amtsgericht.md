@@ -33,6 +33,11 @@ status: "new"
 > Der Streit um die Miete wird vor dem Amtsgericht verhandelt.
 > *The dispute over the rent will be heard in the local court.*
 
+**Phrases & Expressions:**
+- **vor dem Amtsgericht** — *local court*
+- **beim Amtsgericht klagen** — *local court*
+- **zuständiges Amtsgericht** — *local court*
+
 **Collocations**
 - vor dem Amtsgericht
 - beim Amtsgericht klagen

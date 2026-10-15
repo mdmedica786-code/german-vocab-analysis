@@ -35,6 +35,9 @@ status: "new"
 > Das ist meine Freundin Susanne.
 > *This is my friend Susanne.*
 
+**Phrases & Expressions:**
+- **Das ist meine Freundin Susanne** — *This is my friend Susanne* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 2a (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

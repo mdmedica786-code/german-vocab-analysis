@@ -34,6 +34,9 @@ status: "new"
 > Im Sport ist Fairness wichtig.
 > *Fairness is important in sport.*
 
+**Phrases & Expressions:**
+- **Im Sport ist Fairness wichtig** — *Fairness is important in sport* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1a (Miteinander)
 <!-- bank:end -->
 

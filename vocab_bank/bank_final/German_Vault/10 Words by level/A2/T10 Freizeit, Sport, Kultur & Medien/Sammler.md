@@ -34,6 +34,9 @@ status: "new"
 > Der Sammler besitzt über tausend Briefmarken.
 > *The collector owns over a thousand stamps.*
 
+**Phrases & Expressions:**
+- **Der Sammler besitzt über tausend Briefmarken** — *The collector owns over a thousand stamps* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!)
 <!-- bank:end -->
 

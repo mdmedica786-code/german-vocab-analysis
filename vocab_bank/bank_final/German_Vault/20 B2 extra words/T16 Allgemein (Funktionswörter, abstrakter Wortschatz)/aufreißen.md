@@ -32,6 +32,11 @@ status: "new"
 > Er riss die Tür auf und rannte hinaus.
 > *He threw the door open and ran out.*
 
+**Phrases & Expressions:**
+- **die Tür aufreißen** — *to tear open; to rip open; to throw open*
+- **ein Paket aufreißen** — *to tear open; to rip open; to throw open*
+- **die Augen aufreißen** — *to tear open; to rip open; to throw open*
+
 **Collocations**
 - die Tür aufreißen
 - ein Paket aufreißen

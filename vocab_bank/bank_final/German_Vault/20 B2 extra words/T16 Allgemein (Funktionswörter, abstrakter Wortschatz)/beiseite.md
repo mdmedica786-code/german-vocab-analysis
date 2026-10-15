@@ -29,6 +29,11 @@ status: "new"
 > Er legte das Buch beiseite.
 > *He put the book aside.*
 
+**Phrases & Expressions:**
+- **beiseitelegen** — *aside; to one side*
+- **beiseiteschieben** — *aside; to one side*
+- **Spaß beiseite** — *aside; to one side*
+
 **Collocations**
 - beiseitelegen
 - beiseiteschieben

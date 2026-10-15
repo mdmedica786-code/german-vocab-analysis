@@ -33,6 +33,11 @@ status: "new"
 > Die Psychoanalyse geht auf Sigmund Freud zurück.
 > *Psychoanalysis goes back to Sigmund Freud.*
 
+**Phrases & Expressions:**
+- **eine Psychoanalyse machen** — *psychoanalysis*
+- **die Psychoanalyse nach Freud** — *psychoanalysis*
+- **Psychoanalyse studieren** — *psychoanalysis*
+
 **Collocations**
 - eine Psychoanalyse machen
 - die Psychoanalyse nach Freud

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das ist die Basis unserer Zusammenarbeit.
 > *That is the basis of our cooperation.*
+
+**Phrases & Expressions:**
+- **auf der Basis von ...** — on the basis of ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · C1)*
 <!-- bank:end -->
 
 ## My notes

@@ -30,6 +30,9 @@ status: "new"
 > Das ist unnötig, du musst nichts mitbringen.
 > *That is unnecessary; you don't have to bring anything.*
 
+**Phrases & Expressions:**
+- **Das ist unnötig, du musst nichts mitbringen** — *That is unnecessary; you don't have to bring anything* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
 <!-- bank:end -->
 

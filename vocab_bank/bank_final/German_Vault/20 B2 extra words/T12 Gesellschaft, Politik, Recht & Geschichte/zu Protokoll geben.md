@@ -26,6 +26,10 @@ status: "new"
 > Der Zeuge gab seine Aussage zu Protokoll.
 > *The witness put his statement on record.*
 
+**Phrases & Expressions:**
+- **etwas zu Protokoll geben** — *to put on record; to state officially*
+- **zu Protokoll nehmen** — *to put on record; to state officially*
+
 **Collocations**
 - etwas zu Protokoll geben
 - zu Protokoll nehmen

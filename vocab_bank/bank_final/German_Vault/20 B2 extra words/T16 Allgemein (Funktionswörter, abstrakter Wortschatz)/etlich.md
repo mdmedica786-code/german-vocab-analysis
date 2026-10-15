@@ -29,6 +29,11 @@ status: "new"
 > Er hat etliche Fehler gemacht.
 > *He made quite a few mistakes.*
 
+**Phrases & Expressions:**
+- **etliche Male** — *quite a few; several*
+- **etliche Jahre** — *quite a few; several*
+- **etliche Fehler** — *quite a few; several*
+
 **Collocations**
 - etliche Male
 - etliche Jahre

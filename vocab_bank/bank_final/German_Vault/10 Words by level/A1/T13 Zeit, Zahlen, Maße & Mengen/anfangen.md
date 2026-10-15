@@ -34,6 +34,10 @@ status: "new"
 > Hier fängt die Bahnhofstraße an.
 > *The Bahnhofstraße begins here.*
 
+**Phrases & Expressions:**
+- **Es hat plötzlich angefangen.** — It started suddenly. *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Patient: Beginn schildern]] · A2)*
+- **Hat sich der Schmerz verändert, seit er angefangen hat?** — Has the pain changed since it began? *([[FSP-03 Schmerzanamnese|Schmerzverlauf]] · B2)*
+
 **Source:** Netzwerk neu A1 K6 6a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

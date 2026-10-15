@@ -32,6 +32,11 @@ status: "new"
 > Der Richter stützte sich auf die Aussagen der Zeugen.
 > *The judge based himself on the witnesses' statements.*
 
+**Phrases & Expressions:**
+- **sich auf etwas stützen** — *to support; to base on*
+- **eine Behauptung stützen** — *to support; to base on*
+- **den Rücken stützen** — *to support; to base on*
+
 **Collocations**
 - sich auf etwas stützen
 - eine Behauptung stützen

@@ -33,6 +33,11 @@ status: "new"
 > Wegen seiner Knieprobleme kann er nicht joggen.
 > *Because of his knee problems he cannot jog.*
 
+**Phrases & Expressions:**
+- **Knieprobleme haben** — *knee problem*
+- **unter Knieproblemen leiden** — *knee problem*
+- **ein Knieproblem behandeln** — *knee problem*
+
 **Collocations**
 - Knieprobleme haben
 - unter Knieproblemen leiden

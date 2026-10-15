@@ -33,6 +33,9 @@ status: "new"
 > Ich maile dir die Unterlagen noch heute.
 > *I'll email you the documents today.*
 
+**Phrases & Expressions:**
+- **Ich maile dir die Unterlagen noch heute** — *I'll email you the documents today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 3 (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

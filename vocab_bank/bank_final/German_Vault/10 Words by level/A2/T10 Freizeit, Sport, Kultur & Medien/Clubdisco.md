@@ -31,6 +31,9 @@ status: "new"
 > Am Samstag gehen wir in die Clubdisco.
 > *On Saturday we're going to the club disco.*
 
+**Phrases & Expressions:**
+- **Am Samstag gehen wir in die Clubdisco** — *On Saturday we're going to the club disco* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8b (Leben in der Stadt)
 <!-- bank:end -->
 

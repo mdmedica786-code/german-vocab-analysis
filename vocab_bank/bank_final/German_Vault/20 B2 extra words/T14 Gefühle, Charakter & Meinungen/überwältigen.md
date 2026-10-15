@@ -31,6 +31,11 @@ status: "new"
 > Die Schönheit der Landschaft überwältigte sie.
 > *The beauty of the landscape overwhelmed her.*
 
+**Phrases & Expressions:**
+- **jemanden überwältigen** — *to overwhelm; to overpower*
+- **von etwas überwältigt sein** — *to overwhelm; to overpower*
+- **überwältigt werden** — *to overwhelm; to overpower*
+
 **Collocations**
 - jemanden überwältigen
 - von etwas überwältigt sein

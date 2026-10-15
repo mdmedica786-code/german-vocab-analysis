@@ -34,6 +34,9 @@ status: "new"
 > Der Putzmann reinigt die Fenster.
 > *The cleaner cleans the windows.*
 
+**Phrases & Expressions:**
+- **Der Putzmann reinigt die Fenster** — *The cleaner cleans the windows* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3a (Kunststücke)
 <!-- bank:end -->
 

@@ -36,6 +36,10 @@ status: "new"
 > In welchem Haus wohnst du?
 > **
 
+**Phrases & Expressions:**
+- **außer Haus** — out (of the house) *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Das Haus steht direkt neben dem Park.** — The house stands right next to the park. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ort beschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K3 4a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

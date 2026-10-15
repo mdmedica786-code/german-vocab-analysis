@@ -33,6 +33,11 @@ status: "new"
 > Das Selbstverständnis der Firma hat sich verändert.
 > *The company's self-image has changed.*
 
+**Phrases & Expressions:**
+- **das Selbstverständnis eines Berufs** — *self-image; self-perception*
+- **sein Selbstverständnis überdenken** — *self-image; self-perception*
+- **nach eigenem Selbstverständnis** — *self-image; self-perception*
+
 **Collocations**
 - das Selbstverständnis eines Berufs
 - sein Selbstverständnis überdenken

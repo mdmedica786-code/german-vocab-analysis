@@ -35,6 +35,9 @@ status: "new"
 > Die Gläser stehen im Schrank.
 > *The glasses are in the cupboard.*
 
+**Phrases & Expressions:**
+- **Wie sehr schränken die Beschwerden Sie im Alltag ein?** — How much do the complaints limit you in everyday life? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Einschränkungen im Alltag]] · B2)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

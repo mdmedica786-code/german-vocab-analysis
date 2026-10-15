@@ -33,6 +33,14 @@ status: "new"
 > Sie hat eine Allergie gegen Nüsse.
 > *She has an allergy to nuts.*
 
+**Phrases & Expressions:**
+- **Haben Sie Allergien oder Unverträglichkeiten?** — Do you have any allergies or intolerances? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Allergien erfragen]] · B1)*
+- **Mit einer Allergie reagiert Ihr Körper überempfindlich auf einen Stoff.** — With an allergy your body reacts hypersensitively to a substance. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B1)*
+- **Allergien sind nicht bekannt.** — No allergies are known. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Allergien nennen]] · B2)*
+- **eine Allergie gegen etwas** — *allergy*
+- **eine Allergie haben** — *allergy*
+- **eine Allergie auslösen** — *allergy*
+
 **Collocations**
 - eine Allergie gegen etwas
 - eine Allergie haben

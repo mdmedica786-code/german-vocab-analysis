@@ -34,6 +34,9 @@ status: "new"
 > An Neujahr schlafen wir lange.
 > *On New Year's Day we sleep in.*
 
+**Phrases & Expressions:**
+- **An Neujahr schlafen wir lange** — *On New Year's Day we sleep in* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

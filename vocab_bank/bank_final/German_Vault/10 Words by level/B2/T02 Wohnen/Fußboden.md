@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Fußboden ist aus Holz.
 > *The floor is made of wood.*
+
+**Phrases & Expressions:**
+- **Der Fußboden ist aus Holz** — *The floor is made of wood* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

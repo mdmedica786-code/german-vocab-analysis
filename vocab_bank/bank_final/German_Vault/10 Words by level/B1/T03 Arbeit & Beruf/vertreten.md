@@ -32,6 +32,9 @@ status: "new"
 > Wer vertritt Sie, wenn Sie Urlaub machen?
 > *Who covers for you when you go on holiday?*
 
+**Phrases & Expressions:**
+- **Ich vertrete die Auffassung, dass ...** — I hold the view that ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|These formulieren]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

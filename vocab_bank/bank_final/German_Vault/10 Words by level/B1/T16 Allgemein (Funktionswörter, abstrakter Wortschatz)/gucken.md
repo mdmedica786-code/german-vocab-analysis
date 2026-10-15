@@ -33,6 +33,9 @@ status: "new"
 > Guck doch mal! Es schneit.
 > *Look! It's snowing.*
 
+**Phrases & Expressions:**
+- **Guck doch mal! Es schneit** — *Look! It's snowing* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 9a (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

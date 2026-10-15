@@ -30,6 +30,12 @@ status: "new"
 > Das Kino ist für jugendliche Besucher gedacht.
 > *The cinema is intended for young visitors.*
 
+**Phrases & Expressions:**
+- **jugendliche Besucher** — *youthful; juvenile*
+- **jugendlich wirken** — *youthful; juvenile*
+- **jugendliche Straftäter** — *youthful; juvenile*
+- **jugendlicher Leichtsinn** — *youthful; juvenile*
+
 **Collocations**
 - jugendliche Besucher
 - jugendlich wirken

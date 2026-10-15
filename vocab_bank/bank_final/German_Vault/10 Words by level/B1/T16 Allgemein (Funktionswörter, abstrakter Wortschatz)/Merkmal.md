@@ -34,6 +34,9 @@ status: "new"
 > Ein typisches Merkmal dieser Krankheit ist Fieber.
 > *A typical feature of this illness is fever.*
 
+**Phrases & Expressions:**
+- **Ein typisches Merkmal dieser Krankheit ist Fieber** — *A typical feature of this illness is fever* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 10c (Das ist ja praktisch!)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Zwei Tage pro Woche arbeite ich im Homeoffice.
 > *I work from home two days a week.*
 
+**Phrases & Expressions:**
+- **Zwei Tage pro Woche arbeite ich im Homeoffice** — *I work from home two days a week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

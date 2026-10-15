@@ -33,6 +33,11 @@ status: "new"
 > Der Abteilungsleiter lädt zu einer kurzen Besprechung ein.
 > *The head of department invites everyone to a short meeting.*
 
+**Phrases & Expressions:**
+- **mit dem Abteilungsleiter sprechen** — *head of department*
+- **der neue Abteilungsleiter** — *head of department*
+- **Abteilungsleiter im Vertrieb** — *head of department*
+
 **Collocations**
 - mit dem Abteilungsleiter sprechen
 - der neue Abteilungsleiter

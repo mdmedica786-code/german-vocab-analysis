@@ -33,6 +33,11 @@ status: "new"
 > Der Trainer hat mir einen individuellen Trainingsplan erstellt.
 > *The trainer created an individual training plan for me.*
 
+**Phrases & Expressions:**
+- **einen Trainingsplan erstellen** — *training plan*
+- **sich an den Trainingsplan halten** — *training plan*
+- **Trainingsplan für Anfänger** — *training plan*
+
 **Collocations**
 - einen Trainingsplan erstellen
 - sich an den Trainingsplan halten

@@ -33,6 +33,11 @@ status: "new"
 > Der Inhaber des Geschäfts begrüßte die Kunden.
 > *The owner of the shop greeted the customers.*
 
+**Phrases & Expressions:**
+- **der Inhaber eines Geschäfts** — *owner; holder*
+- **der Inhaber der Karte** — *owner; holder*
+- **der neue Inhaber** — *owner; holder*
+
 **Collocations**
 - der Inhaber eines Geschäfts
 - der Inhaber der Karte

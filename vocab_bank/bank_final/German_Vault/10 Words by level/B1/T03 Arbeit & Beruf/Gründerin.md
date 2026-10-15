@@ -34,6 +34,9 @@ status: "new"
 > Die Gründerin hat die Firma vor zehn Jahren gegründet.
 > *The founder established the company ten years ago.*
 
+**Phrases & Expressions:**
+- **Die Gründerin hat die Firma vor zehn Jahren gegründet** — *The founder established the company ten years ago* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 10b (Kunststücke)
 <!-- bank:end -->
 

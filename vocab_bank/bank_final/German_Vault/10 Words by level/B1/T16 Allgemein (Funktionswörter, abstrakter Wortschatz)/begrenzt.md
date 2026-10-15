@@ -31,6 +31,9 @@ status: "new"
 > Die Teilnehmerzahl ist auf 12 begrenzt.
 > *The number of participants is limited to 12.*
 
+**Phrases & Expressions:**
+- **Die Teilnehmerzahl ist auf 12 begrenzt** — *The number of participants is limited to 12* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

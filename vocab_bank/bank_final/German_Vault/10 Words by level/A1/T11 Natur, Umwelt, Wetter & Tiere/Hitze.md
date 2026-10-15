@@ -35,6 +35,9 @@ status: "new"
 > Gestern war eine schreckliche Hitze!
 > *Yesterday it was terribly hot!*
 
+**Phrases & Expressions:**
+- **Gestern war eine schreckliche Hitze** — *Yesterday it was terribly hot* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 11d (Ab in den Urlaub!) · Goethe word list B1
 <!-- bank:end -->
 

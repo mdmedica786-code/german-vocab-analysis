@@ -33,6 +33,11 @@ status: "new"
 > Die Armee trat den Rückzug an.
 > *The army began its retreat.*
 
+**Phrases & Expressions:**
+- **den Rückzug antreten** — *retreat; withdrawal*
+- **der Rückzug aus der Politik** — *retreat; withdrawal*
+- **auf dem Rückzug sein** — *retreat; withdrawal*
+
 **Collocations**
 - den Rückzug antreten
 - der Rückzug aus der Politik

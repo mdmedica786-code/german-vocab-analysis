@@ -34,6 +34,9 @@ status: "new"
 > An der Grenze gibt es keine Grenzkontrolle mehr.
 > *There is no longer a border control at the border.*
 
+**Phrases & Expressions:**
+- **An der Grenze gibt es keine Grenzkontrolle mehr** — *There is no longer a border control at the border* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 10b (Miteinander)
 <!-- bank:end -->
 

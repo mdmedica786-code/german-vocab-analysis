@@ -35,6 +35,9 @@ status: "new"
 > Auf dem Feld sitzt ein Hase.
 > *A hare is sitting in the field.*
 
+**Phrases & Expressions:**
+- **Auf dem Feld sitzt ein Hase** — *A hare is sitting in the field* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 10c (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

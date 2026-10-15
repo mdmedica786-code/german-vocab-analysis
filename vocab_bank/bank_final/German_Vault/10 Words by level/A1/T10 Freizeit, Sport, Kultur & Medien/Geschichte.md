@@ -37,6 +37,9 @@ status: "new"
 > Erzählst du mir eine Geschichte?
 > **
 
+**Phrases & Expressions:**
+- **Erzählst du mir eine Geschichte** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 1b (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Auf dem Tisch liegt viel Infomaterial.
 > *There is a lot of information material on the table.*
 
+**Phrases & Expressions:**
+- **Auf dem Tisch liegt viel Infomaterial** — *There is a lot of information material on the table* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?)
 <!-- bank:end -->
 

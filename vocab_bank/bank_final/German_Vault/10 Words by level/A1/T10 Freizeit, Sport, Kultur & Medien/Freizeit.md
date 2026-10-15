@@ -35,6 +35,9 @@ status: "new"
 > In meiner Freizeit spiele ich oft Fußball.
 > *In my free time I often play football.*
 
+**Phrases & Expressions:**
+- **In meiner Freizeit spiele ich oft Fußball** — *In my free time I often play football* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 1c (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

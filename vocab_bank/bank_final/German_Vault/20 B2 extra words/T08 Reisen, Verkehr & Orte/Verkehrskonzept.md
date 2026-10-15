@@ -33,6 +33,11 @@ status: "new"
 > Die Stadt stellt ein neues Verkehrskonzept vor.
 > *The city is presenting a new transport concept.*
 
+**Phrases & Expressions:**
+- **ein Verkehrskonzept entwickeln** — *transport concept; traffic plan*
+- **ein nachhaltiges Verkehrskonzept** — *transport concept; traffic plan*
+- **ein Verkehrskonzept vorstellen** — *transport concept; traffic plan*
+
 **Collocations**
 - ein Verkehrskonzept entwickeln
 - ein nachhaltiges Verkehrskonzept

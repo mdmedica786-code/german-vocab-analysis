@@ -32,6 +32,14 @@ status: "new"
 > Kein Problem, das ist nicht so schlimm.
 > *No problem, it's not that bad.*
 
+**Phrases & Expressions:**
+- **so schlimm** — so bad *([[Probleme - Beschwerden beschreiben (problem, symptom, complaint)|Probleme / Beschwerden beschreiben (problem, symptom, complaint)]] · B1)*
+- **Es wird immer schlimmer.** — It's getting worse and worse. *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Patient: Verlauf schildern]] · A2)*
+- **Es wird schlimmer, wenn ich mich anstrenge.** — It gets worse when I exert myself. *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Patient: Auslöser nennen]] · A2)*
+- **Ein Rückfall ist nicht schlimm, wichtig ist, dass Sie nicht aufgeben.** — A relapse is not bad; what matters is that you don't give up. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Rückfall besprechen]] · B1)*
+- **schlimm sein** — *bad*
+- **nicht so schlimm** — *bad*
+
 **Collocations**
 - schlimm sein
 - nicht so schlimm

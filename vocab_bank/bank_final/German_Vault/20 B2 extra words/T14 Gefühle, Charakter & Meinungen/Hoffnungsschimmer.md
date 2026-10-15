@@ -33,6 +33,11 @@ status: "new"
 > Nach der Nachricht gab es einen Hoffnungsschimmer.
 > *After the news there was a glimmer of hope.*
 
+**Phrases & Expressions:**
+- **ein Hoffnungsschimmer** — *glimmer of hope*
+- **einen Hoffnungsschimmer sehen** — *glimmer of hope*
+- **kein Hoffnungsschimmer** — *glimmer of hope*
+
 **Collocations**
 - ein Hoffnungsschimmer
 - einen Hoffnungsschimmer sehen

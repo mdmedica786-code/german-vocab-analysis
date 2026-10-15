@@ -33,6 +33,11 @@ status: "new"
 > Bitte prüfen Sie die Vollständigkeit der Unterlagen.
 > *Please check the completeness of the documents.*
 
+**Phrases & Expressions:**
+- **die Vollständigkeit prüfen** — *completeness*
+- **auf Vollständigkeit prüfen** — *completeness*
+- **keine Vollständigkeit garantieren** — *completeness*
+
 **Collocations**
 - die Vollständigkeit prüfen
 - auf Vollständigkeit prüfen

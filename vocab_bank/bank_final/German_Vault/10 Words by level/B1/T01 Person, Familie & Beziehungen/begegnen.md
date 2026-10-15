@@ -34,6 +34,12 @@ status: "new"
 > Sind wir uns nicht schon mal irgendwann begegnet?
 > *Haven't we met somewhere before?*
 
+**Phrases & Expressions:**
+- **jemandem begegnen** — *to meet (by chance); to encounter*
+- **einer Gefahr begegnen** — *to meet (by chance); to encounter*
+- **sich begegnen** — *to meet (by chance); to encounter*
+- **mit Respekt begegnen** — *to meet (by chance); to encounter*
+
 **Collocations**
 - jemandem begegnen
 - einer Gefahr begegnen

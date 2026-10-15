@@ -33,6 +33,11 @@ status: "new"
 > Jeder hat andere Präferenzen bei der Musik.
 > *Everyone has different preferences in music.*
 
+**Phrases & Expressions:**
+- **eine Präferenz haben** — *preference*
+- **eine klare Präferenz** — *preference*
+- **persönliche Präferenzen** — *preference*
+
 **Collocations**
 - eine Präferenz haben
 - eine klare Präferenz

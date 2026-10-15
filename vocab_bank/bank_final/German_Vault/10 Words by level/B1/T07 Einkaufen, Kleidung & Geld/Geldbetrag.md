@@ -34,6 +34,9 @@ status: "new"
 > Der Geldbetrag wird morgen überwiesen.
 > *The sum of money will be transferred tomorrow.*
 
+**Phrases & Expressions:**
+- **Der Geldbetrag wird morgen überwiesen** — *The sum of money will be transferred tomorrow* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 9c (Geld regiert die Welt?)
 <!-- bank:end -->
 

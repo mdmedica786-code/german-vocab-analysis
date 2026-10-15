@@ -33,6 +33,11 @@ status: "new"
 > Sie ist eine gute Seele und hilft allen.
 > *She is a good soul and helps everyone.*
 
+**Phrases & Expressions:**
+- **mit Leib und Seele** — *soul*
+- **aus tiefster Seele** — *soul*
+- **die Seele baumeln lassen** — *soul*
+
 **Collocations**
 - mit Leib und Seele
 - aus tiefster Seele

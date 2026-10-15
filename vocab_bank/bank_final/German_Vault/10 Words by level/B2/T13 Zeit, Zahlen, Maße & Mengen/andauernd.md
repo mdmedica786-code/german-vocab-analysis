@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Das andauernde Klingeln stört mich.
 > *The constant ringing disturbs me.*
+
+**Phrases & Expressions:**
+- **Das andauernde Klingeln stört mich** — *The constant ringing disturbs me* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

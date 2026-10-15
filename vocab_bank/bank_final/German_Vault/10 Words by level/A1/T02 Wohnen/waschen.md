@@ -33,6 +33,9 @@ status: "new"
 > Wo kann ich mir die Hände waschen?
 > *Where can I wash my hands?*
 
+**Phrases & Expressions:**
+- **Wo kann ich mir die Hände waschen** — *Where can I wash my hands* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

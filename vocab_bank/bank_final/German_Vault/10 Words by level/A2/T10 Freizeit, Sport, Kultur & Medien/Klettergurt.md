@@ -31,6 +31,9 @@ status: "new"
 > Vor dem Klettern ziehst du den Klettergurt an.
 > *Before climbing you put on the harness.*
 
+**Phrases & Expressions:**
+- **Vor dem Klettern ziehst du den Klettergurt an** — *Before climbing you put on the harness* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 10a (Sportlich, sportlich)
 <!-- bank:end -->
 

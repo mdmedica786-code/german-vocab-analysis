@@ -30,6 +30,9 @@ status: "new"
 > Der Verkäufer war sehr unfreundlich zu uns.
 > *The shop assistant was very unfriendly to us.*
 
+**Phrases & Expressions:**
+- **Der Verkäufer war sehr unfreundlich zu uns** — *The shop assistant was very unfriendly to us* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 7a (Arbeitswelt)
 <!-- bank:end -->
 

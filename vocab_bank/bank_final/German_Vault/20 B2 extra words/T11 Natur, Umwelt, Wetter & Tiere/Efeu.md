@@ -33,6 +33,11 @@ status: "new"
 > Efeu rankt an der Hauswand hoch.
 > *Ivy climbs up the house wall.*
 
+**Phrases & Expressions:**
+- **Efeu wächst** — *ivy*
+- **mit Efeu bewachsen** — *ivy*
+- **Efeu an der Mauer** — *ivy*
+
 **Collocations**
 - Efeu wächst
 - mit Efeu bewachsen

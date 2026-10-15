@@ -35,6 +35,9 @@ status: "new"
 > Mein Mann arbeitet im Reisebüro.
 > *My husband works at a travel agency.*
 
+**Phrases & Expressions:**
+- **Mein Mann arbeitet im Reisebüro** — *My husband works at a travel agency* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 3a (Nach der Schulzeit) · Goethe word list A1
 <!-- bank:end -->
 

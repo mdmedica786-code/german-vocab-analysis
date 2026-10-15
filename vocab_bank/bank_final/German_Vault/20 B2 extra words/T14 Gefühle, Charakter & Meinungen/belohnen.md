@@ -32,6 +32,11 @@ status: "new"
 > Der Vater belohnte seine Tochter für die gute Note.
 > *The father rewarded his daughter for the good grade.*
 
+**Phrases & Expressions:**
+- **jemanden belohnen** — *to reward*
+- **für etwas belohnen** — *to reward*
+- **sich selbst belohnen** — *to reward*
+
 **Collocations**
 - jemanden belohnen
 - für etwas belohnen

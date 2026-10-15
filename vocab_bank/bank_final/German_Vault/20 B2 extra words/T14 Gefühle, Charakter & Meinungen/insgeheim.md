@@ -29,6 +29,11 @@ status: "new"
 > Insgeheim hoffte sie auf eine Einladung.
 > *Secretly she hoped for an invitation.*
 
+**Phrases & Expressions:**
+- **insgeheim hoffen** — *secretly; privately*
+- **insgeheim denken** — *secretly; privately*
+- **sich insgeheim freuen** — *secretly; privately*
+
 **Collocations**
 - insgeheim hoffen
 - insgeheim denken

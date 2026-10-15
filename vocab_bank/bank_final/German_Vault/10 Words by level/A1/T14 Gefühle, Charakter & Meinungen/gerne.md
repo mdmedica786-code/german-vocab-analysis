@@ -30,6 +30,9 @@ status: "new"
 > Ich helfe dir gerne.
 > *I'm happy to help you.*
 
+**Phrases & Expressions:**
+- **Ich helfe dir gerne** — *I'm happy to help you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 7a (Guten Appetit!)
 <!-- bank:end -->
 

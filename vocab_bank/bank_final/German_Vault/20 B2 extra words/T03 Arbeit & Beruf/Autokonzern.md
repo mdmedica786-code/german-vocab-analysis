@@ -33,6 +33,11 @@ status: "new"
 > Der Autokonzern kündigt neue Elektroautos an.
 > *The car corporation announces new electric cars.*
 
+**Phrases & Expressions:**
+- **ein großer Autokonzern** — *car company; car corporation*
+- **der Autokonzern investiert** — *car company; car corporation*
+- **bei einem Autokonzern arbeiten** — *car company; car corporation*
+
 **Collocations**
 - ein großer Autokonzern
 - der Autokonzern investiert

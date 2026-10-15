@@ -35,6 +35,9 @@ status: "new"
 > Nach dem Auftritt feiern die Musiker.
 > *After the performance the musicians celebrate.*
 
+**Phrases & Expressions:**
+- **Nach dem Auftritt feiern die Musiker** — *After the performance the musicians celebrate* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

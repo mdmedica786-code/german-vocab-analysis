@@ -35,6 +35,13 @@ status: "new"
 > Sie müssen das Medikament dreimal täglich einnehmen.
 > *You have to take the medicine three times a day.*
 
+**Phrases & Expressions:**
+- **... nimmt kontinuierlich zu.** — ... is steadily increasing. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Anstieg beschreiben]] · B2)*
+- **Sie müssen das Medikament etwa sieben Tage lang einnehmen.** — You have to take the medicine for about seven days. *([[FSP-11 Therapie und Medikamente erklären|Dauer der Behandlung]] · B2)*
+- **Sagen Sie mir bitte, welche anderen Medikamente Sie einnehmen.** — Please tell me which other medicines you take. *([[FSP-11 Therapie und Medikamente erklären|Wechselwirkungen]] · B2)*
+- **Es ist wichtig, dass Sie Ihre Medikamente regelmäßig einnehmen.** — It is important that you take your medication regularly. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Therapietreue]] · B1)*
+- **Können Sie mir bitte erklären, wie Sie das Medikament einnehmen?** — Can you please explain to me how you take the medicine? *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Teach-back]] · B1)*
+
 **Source:** Netzwerk neu B1 K8 2a ÜB (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

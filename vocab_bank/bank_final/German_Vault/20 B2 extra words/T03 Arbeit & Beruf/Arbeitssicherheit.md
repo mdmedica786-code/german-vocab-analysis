@@ -33,6 +33,11 @@ status: "new"
 > Die Firma investiert viel in die Arbeitssicherheit.
 > *The company invests a lot in safety at work.*
 
+**Phrases & Expressions:**
+- **Arbeitssicherheit gewährleisten** — *safety at work*
+- **Fragen der Arbeitssicherheit** — *safety at work*
+- **Beauftragter für Arbeitssicherheit** — *safety at work*
+
 **Collocations**
 - Arbeitssicherheit gewährleisten
 - Fragen der Arbeitssicherheit

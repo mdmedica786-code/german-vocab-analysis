@@ -30,6 +30,9 @@ status: "new"
 > Die Goethestraße ist parallel zur Hauptstraße.
 > *Goethestraße runs parallel to the main street.*
 
+**Phrases & Expressions:**
+- **Die Goethestraße ist parallel zur Hauptstraße** — *Goethestraße runs parallel to the main street* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Erde dreht sich um ihre Achse.
 > *The earth turns on its axis.*
 
+**Phrases & Expressions:**
+- **um die eigene Achse** — *axis; axle*
+- **auf Achse sein** — *axis; axle*
+- **die Achse des Wagens** — *axis; axle*
+
 **Collocations**
 - um die eigene Achse
 - auf Achse sein

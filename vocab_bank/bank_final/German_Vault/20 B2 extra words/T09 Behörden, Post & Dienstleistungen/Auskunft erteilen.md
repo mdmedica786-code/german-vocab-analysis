@@ -26,6 +26,10 @@ status: "new"
 > Das Amt erteilt telefonisch keine Auskunft.
 > *The office gives no information by telephone.*
 
+**Phrases & Expressions:**
+- **Auskunft erteilen über + Akk.** — *to give information*
+- **schriftlich Auskunft erteilen** — *to give information*
+
 **Collocations**
 - Auskunft erteilen über + Akk.
 - schriftlich Auskunft erteilen

@@ -32,6 +32,11 @@ status: "new"
 > Er rief ihr noch etwas hinterher.
 > *He called something after her.*
 
+**Phrases & Expressions:**
+- **jemandem etwas hinterherrufen** — *to call after (someone)*
+- **laut hinterherrufen** — *to call after (someone)*
+- **jemandem hinterherrufen** — *to call after (someone)*
+
 **Collocations**
 - jemandem etwas hinterherrufen
 - laut hinterherrufen

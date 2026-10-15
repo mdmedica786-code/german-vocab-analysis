@@ -33,6 +33,11 @@ status: "new"
 > Nächste Woche habe ich eine Dienstreise nach München.
 > *Next week I have a business trip to Munich.*
 
+**Phrases & Expressions:**
+- **auf Dienstreise sein** — *business trip*
+- **eine Dienstreise antreten** — *business trip*
+- **Dienstreise abrechnen** — *business trip*
+
 **Collocations**
 - auf Dienstreise sein
 - eine Dienstreise antreten

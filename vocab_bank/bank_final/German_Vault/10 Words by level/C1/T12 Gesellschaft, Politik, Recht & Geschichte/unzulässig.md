@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Dieser Antrag ist unzulässig.
 > *This application is inadmissible.*
+
+**Phrases & Expressions:**
+- **Dieser Antrag ist unzulässig** — *This application is inadmissible* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

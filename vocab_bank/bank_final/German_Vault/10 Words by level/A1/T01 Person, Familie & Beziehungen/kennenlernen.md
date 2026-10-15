@@ -34,6 +34,9 @@ status: "new"
 > Wir sind neu hier. Wir möchten Sie kennenlernen.
 > *We are new here. We would like to get to know you.*
 
+**Phrases & Expressions:**
+- **Kennen wir uns nicht von irgendwoher?** — Don't we know each other from somewhere? *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Gespräch beginnen]] · B1)*
+
 **Source:** Netzwerk neu A1 K7 7a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

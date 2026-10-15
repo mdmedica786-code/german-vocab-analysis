@@ -34,6 +34,9 @@ status: "new"
 > Der Austausch mit Kollegen ist wichtig.
 > *The exchange with colleagues is important.*
 
+**Phrases & Expressions:**
+- **Der Austausch mit Kollegen ist wichtig** — *The exchange with colleagues is important* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
 <!-- bank:end -->
 

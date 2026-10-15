@@ -34,6 +34,9 @@ status: "new"
 > Seine Einstellung zur Arbeit ist sehr positiv.
 > *His attitude to work is very positive.*
 
+**Phrases & Expressions:**
+- **Seine Einstellung zur Arbeit ist sehr positiv** — *His attitude to work is very positive* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

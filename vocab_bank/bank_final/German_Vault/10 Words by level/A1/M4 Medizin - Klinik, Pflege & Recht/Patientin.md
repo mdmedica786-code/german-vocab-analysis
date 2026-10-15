@@ -35,6 +35,12 @@ status: "new"
 > Ich bin Patientin bei Dr. Hausner. Ich möchte bitte einen Termin.
 > *I'm a patient of Dr Hausner. I'd like an appointment, please.*
 
+**Phrases & Expressions:**
+- **die Patientin aufklären** — *patient (f)*
+- **die Patientin untersuchen** — *patient (f)*
+- **die Patientin aufnehmen** — *patient (f)*
+- **Patientin mit ...** — *patient (f)*
+
 **Collocations**
 - die Patientin aufklären
 - die Patientin untersuchen

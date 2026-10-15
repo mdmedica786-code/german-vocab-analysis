@@ -31,6 +31,9 @@ status: "new"
 > Es ist unglaublich. Schon wieder so ein Unglück.
 > *It is unbelievable. Another accident like this.*
 
+**Phrases & Expressions:**
+- **Es ist unglaublich. Schon wieder so ein Unglück** — *It is unbelievable. Another accident like this* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 3d (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

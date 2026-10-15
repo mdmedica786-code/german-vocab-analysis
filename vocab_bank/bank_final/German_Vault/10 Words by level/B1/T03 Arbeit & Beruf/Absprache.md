@@ -34,6 +34,9 @@ status: "new"
 > Nach Absprache mit dem Chef nehme ich Urlaub.
 > *By arrangement with my boss I am taking leave.*
 
+**Phrases & Expressions:**
+- **Nach Absprache mit dem Chef nehme ich Urlaub** — *By arrangement with my boss I am taking leave* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 12a (Arbeitswelt)
 <!-- bank:end -->
 

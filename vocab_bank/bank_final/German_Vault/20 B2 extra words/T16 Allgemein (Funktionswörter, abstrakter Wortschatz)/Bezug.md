@@ -33,6 +33,12 @@ status: "new"
 > In Bezug auf Ihre Anfrage teilen wir Ihnen Folgendes mit.
 > *With reference to your enquiry we inform you as follows.*
 
+**Phrases & Expressions:**
+- **in Bezug auf ...** — with regard to ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **in Bezug auf** — *reference; relation; cover (of a pillow)*
+- **Bezug nehmen auf** — *reference; relation; cover (of a pillow)*
+- **einen Bezug zu etwas haben** — *reference; relation; cover (of a pillow)*
+
 **Collocations**
 - in Bezug auf
 - Bezug nehmen auf

@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Ich kann die Tablette nicht schlucken.
 > *I cannot swallow the tablet.*
+
+**Phrases & Expressions:**
+- **Ich kann die Tablette nicht schlucken** — *I cannot swallow the tablet* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

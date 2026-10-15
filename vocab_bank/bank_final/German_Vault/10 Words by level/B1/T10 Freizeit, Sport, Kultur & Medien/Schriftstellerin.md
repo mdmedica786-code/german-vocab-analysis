@@ -34,6 +34,9 @@ status: "new"
 > Kennst du diese Schriftstellerin? Ich liebe ihre Bücher.
 > *Do you know this author? I love her books.*
 
+**Phrases & Expressions:**
+- **Kennst du diese Schriftstellerin? Ich liebe ihre Bücher** — *Do you know this author? I love her books* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

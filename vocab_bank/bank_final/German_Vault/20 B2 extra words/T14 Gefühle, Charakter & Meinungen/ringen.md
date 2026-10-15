@@ -31,6 +31,11 @@ status: "new"
 > Er rang lange um die richtige Entscheidung.
 > *He struggled for a long time over the right decision.*
 
+**Phrases & Expressions:**
+- **um etwas ringen** — *to wrestle; to struggle*
+- **nach Luft ringen** — *to wrestle; to struggle*
+- **mit sich ringen** — *to wrestle; to struggle*
+
 **Collocations**
 - um etwas ringen
 - nach Luft ringen

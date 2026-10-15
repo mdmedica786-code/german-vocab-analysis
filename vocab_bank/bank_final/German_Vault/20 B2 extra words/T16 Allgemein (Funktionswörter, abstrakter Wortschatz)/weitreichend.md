@@ -29,6 +29,11 @@ status: "new"
 > Die Reform hat weitreichende Folgen für alle Beschäftigten.
 > *The reform has far-reaching consequences for all employees.*
 
+**Phrases & Expressions:**
+- **weitreichende Folgen** — *far-reaching*
+- **eine weitreichende Entscheidung** — *far-reaching*
+- **weitreichende Befugnisse** — *far-reaching*
+
 **Collocations**
 - weitreichende Folgen
 - eine weitreichende Entscheidung

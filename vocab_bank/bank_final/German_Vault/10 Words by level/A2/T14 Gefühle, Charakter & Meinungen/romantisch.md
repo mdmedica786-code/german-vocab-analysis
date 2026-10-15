@@ -32,6 +32,9 @@ status: "new"
 > Dieser Film ist sehr romantisch.
 > **
 
+**Phrases & Expressions:**
+- **Dieser Film ist sehr romantisch** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 3a (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

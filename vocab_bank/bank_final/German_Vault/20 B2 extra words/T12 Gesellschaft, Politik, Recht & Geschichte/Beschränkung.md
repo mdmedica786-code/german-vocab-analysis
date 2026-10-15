@@ -33,6 +33,11 @@ status: "new"
 > Es gelten strenge Beschränkungen für Besucher.
 > *Strict restrictions apply to visitors.*
 
+**Phrases & Expressions:**
+- **Beschränkungen aufheben** — *restriction; limitation*
+- **Beschränkungen auferlegen** — *restriction; limitation*
+- **ohne Beschränkung** — *restriction; limitation*
+
 **Collocations**
 - Beschränkungen aufheben
 - Beschränkungen auferlegen

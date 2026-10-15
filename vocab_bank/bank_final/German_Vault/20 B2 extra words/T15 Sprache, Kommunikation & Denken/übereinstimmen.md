@@ -32,6 +32,13 @@ status: "new"
 > Die Aussagen der Zeugen stimmen nicht überein.
 > *The witnesses' statements do not match.*
 
+**Phrases & Expressions:**
+- **Einerseits stimmt das, andererseits ...** — On the one hand that's true, on the other hand ... *([[B1-02 Zustimmen und Widersprechen|Teilweise zustimmen]] · B1)*
+- **Ich bin nicht sicher, ob das stimmt.** — I'm not sure whether that's true. *([[B1-02 Zustimmen und Widersprechen|Zweifel anmelden]] · B1)*
+- **Es stimmt, dass ..., aber ...** — It is true that ..., but ... *([[B1-14 Forumsbeitrag und Leserbrief schreiben|Gegenposition erwähnen]] · B1)*
+- **übereinstimmen mit + Dat.** — *to agree; to match*
+- **in einem Punkt übereinstimmen** — *to agree; to match*
+
 **Collocations**
 - übereinstimmen mit + Dat.
 - in einem Punkt übereinstimmen

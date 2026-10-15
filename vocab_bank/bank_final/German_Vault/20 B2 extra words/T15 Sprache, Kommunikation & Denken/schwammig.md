@@ -29,6 +29,11 @@ status: "new"
 > Die Antwort der Politikerin war ziemlich schwammig.
 > *The politician's answer was rather vague.*
 
+**Phrases & Expressions:**
+- **eine schwammige Aussage** — *spongy; vague*
+- **schwammig formulieren** — *spongy; vague*
+- **schwammiger Begriff** — *spongy; vague*
+
 **Collocations**
 - eine schwammige Aussage
 - schwammig formulieren

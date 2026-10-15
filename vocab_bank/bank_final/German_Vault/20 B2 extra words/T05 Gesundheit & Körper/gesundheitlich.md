@@ -29,6 +29,11 @@ status: "new"
 > Aus gesundheitlichen Gründen kann er nicht kommen.
 > *For health reasons he cannot come.*
 
+**Phrases & Expressions:**
+- **aus gesundheitlichen Gründen** — *health-related; regarding health*
+- **gesundheitliche Probleme** — *health-related; regarding health*
+- **gesundheitlich fit sein** — *health-related; regarding health*
+
 **Collocations**
 - aus gesundheitlichen Gründen
 - gesundheitliche Probleme

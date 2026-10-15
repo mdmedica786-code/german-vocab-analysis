@@ -31,6 +31,9 @@ status: "new"
 > Heute ist es bewölkt.
 > *It is cloudy today.*
 
+**Phrases & Expressions:**
+- **Heute ist es bewölkt** — *It is cloudy today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 11b (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

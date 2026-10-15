@@ -35,6 +35,9 @@ status: "new"
 > Kann ich die Hose waschen?
 > *Can I wash the trousers?*
 
+**Phrases & Expressions:**
+- **Kann ich die Hose waschen** — *Can I wash the trousers* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 1a (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

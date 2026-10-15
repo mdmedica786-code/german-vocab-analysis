@@ -33,6 +33,11 @@ status: "new"
 > Der Stadtführer zeigte uns die Altstadt.
 > *The city guide showed us the old town.*
 
+**Phrases & Expressions:**
+- **ein erfahrener Stadtführer** — *city guide (person; male); city guidebook*
+- **einen Stadtführer buchen** — *city guide (person; male); city guidebook*
+- **als Stadtführer arbeiten** — *city guide (person; male); city guidebook*
+
 **Collocations**
 - ein erfahrener Stadtführer
 - einen Stadtführer buchen

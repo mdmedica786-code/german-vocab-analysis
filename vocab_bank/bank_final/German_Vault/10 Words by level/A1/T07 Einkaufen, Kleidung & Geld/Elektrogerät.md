@@ -34,6 +34,9 @@ status: "new"
 > Das Elektrogerät ist noch ganz neu.
 > *The electrical appliance is still brand new.*
 
+**Phrases & Expressions:**
+- **Das Elektrogerät ist noch ganz neu** — *The electrical appliance is still brand new* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

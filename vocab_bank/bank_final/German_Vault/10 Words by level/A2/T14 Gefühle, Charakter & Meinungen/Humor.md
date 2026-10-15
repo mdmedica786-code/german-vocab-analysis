@@ -35,6 +35,9 @@ status: "new"
 > Nimm die Situation mit Humor und mach einfach weiter.
 > *Take the situation with humour and just carry on.*
 
+**Phrases & Expressions:**
+- **Nimm die Situation mit Humor und mach einfach weiter** — *Take the situation with humour and just carry on* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12b (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

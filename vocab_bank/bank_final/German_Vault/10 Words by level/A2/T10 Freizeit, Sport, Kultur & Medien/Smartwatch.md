@@ -34,6 +34,9 @@ status: "new"
 > Die Smartwatch zählt meine Schritte.
 > *The smartwatch counts my steps.*
 
+**Phrases & Expressions:**
+- **Die Smartwatch zählt meine Schritte** — *The smartwatch counts my steps* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1b (Immer online?)
 <!-- bank:end -->
 

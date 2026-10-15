@@ -33,6 +33,11 @@ status: "new"
 > Im Wasser sah sie ihr Spiegelbild.
 > *In the water she saw her reflection.*
 
+**Phrases & Expressions:**
+- **sein Spiegelbild betrachten** — *reflection; mirror image*
+- **das Spiegelbild der Gesellschaft** — *reflection; mirror image*
+- **ein Spiegelbild von** — *reflection; mirror image*
+
 **Collocations**
 - sein Spiegelbild betrachten
 - das Spiegelbild der Gesellschaft

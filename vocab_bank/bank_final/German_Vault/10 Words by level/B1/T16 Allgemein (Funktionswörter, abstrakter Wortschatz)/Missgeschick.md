@@ -34,6 +34,9 @@ status: "new"
 > Mir ist ein kleines Missgeschick passiert.
 > *A small mishap happened to me.*
 
+**Phrases & Expressions:**
+- **Mir ist ein kleines Missgeschick passiert** — *A small mishap happened to me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

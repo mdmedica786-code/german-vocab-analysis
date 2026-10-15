@@ -30,6 +30,9 @@ status: "new"
 > Um die Zeit ist er gewöhnlich zu Hause.
 > *At that time he is usually at home.*
 
+**Phrases & Expressions:**
+- **Um die Zeit ist er gewöhnlich zu Hause** — *At that time he is usually at home* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

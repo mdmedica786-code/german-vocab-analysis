@@ -34,6 +34,9 @@ status: "new"
 > Die Vorvergangenheit beschreibt etwas, das früher passiert ist.
 > *The pluperfect describes something that happened earlier.*
 
+**Phrases & Expressions:**
+- **Die Vorvergangenheit beschreibt etwas, das früher passiert ist** — *The pluperfect describes something that happened earlier* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 3a (Zwischenmenschliches)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Fertigung der Maschinen erfolgt in Deutschland.
 > *The manufacturing of the machines takes place in Germany.*
 
+**Phrases & Expressions:**
+- **in der Fertigung arbeiten** — *production; manufacturing*
+- **Fertigung verlagern** — *production; manufacturing*
+- **Fertigung von + Dat.** — *production; manufacturing*
+
 **Collocations**
 - in der Fertigung arbeiten
 - Fertigung verlagern

@@ -26,6 +26,10 @@ status: "new"
 > Die Regierung setzt ein neues Programm in Gang.
 > *The government is starting a new programme.*
 
+**Phrases & Expressions:**
+- **eine Entwicklung in Gang setzen** — *to set in motion; to start*
+- **ein Projekt in Gang setzen** — *to set in motion; to start*
+
 **Collocations**
 - eine Entwicklung in Gang setzen
 - ein Projekt in Gang setzen

@@ -31,6 +31,11 @@ status: "new"
 > Der Chef rügte ihn wegen seiner Verspätung.
 > *The boss reprimanded him for his lateness.*
 
+**Phrases & Expressions:**
+- **jemanden rügen** — *to reprimand; to criticise*
+- **scharf rügen** — *to reprimand; to criticise*
+- **öffentlich rügen** — *to reprimand; to criticise*
+
 **Collocations**
 - jemanden rügen
 - scharf rügen

@@ -31,6 +31,9 @@ status: "new"
 > Im Ferienclub gibt es viele Angebote für Kinder.
 > *At the holiday club there are many activities for children.*
 
+**Phrases & Expressions:**
+- **Im Ferienclub gibt es viele Angebote für Kinder** — *At the holiday club there are many activities for children* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13c (Gute Reise!)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Auf welchem Bahnsteig fährt der Zug?
 > *Which platform does the train leave from?*
 
+**Phrases & Expressions:**
+- **Auf welchem Bahnsteig fährt der Zug** — *Which platform does the train leave from* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 4b ÜB (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

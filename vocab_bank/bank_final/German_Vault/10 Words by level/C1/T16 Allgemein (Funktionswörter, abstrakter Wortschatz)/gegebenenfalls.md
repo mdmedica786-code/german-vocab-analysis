@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Bringen Sie gegebenenfalls Ihre Unterlagen mit.
 > *If necessary, bring your documents.*
+
+**Phrases & Expressions:**
+- **Bringen Sie gegebenenfalls Ihre Unterlagen mit** — *If necessary, bring your documents* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Diese Idee ist völlig absurd.
 > *This idea is completely absurd.*
+
+**Phrases & Expressions:**
+- **Diese Idee ist völlig absurd** — *This idea is completely absurd* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

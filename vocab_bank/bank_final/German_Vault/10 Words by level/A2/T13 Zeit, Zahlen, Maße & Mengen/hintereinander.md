@@ -30,6 +30,9 @@ status: "new"
 > Wir sind zwei Tage hintereinander gewandert.
 > *We hiked two days in a row.*
 
+**Phrases & Expressions:**
+- **Wir sind zwei Tage hintereinander gewandert** — *We hiked two days in a row* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 10a (Arbeitswelten)
 <!-- bank:end -->
 

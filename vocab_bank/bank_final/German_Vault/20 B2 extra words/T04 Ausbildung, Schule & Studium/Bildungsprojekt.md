@@ -30,6 +30,11 @@ status: "new"
 > Die Stiftung fördert Bildungsprojekte in ländlichen Regionen.
 > *The foundation supports education projects in rural regions.*
 
+**Phrases & Expressions:**
+- **ein Bildungsprojekt starten** — *education project*
+- **ein Bildungsprojekt fördern** — *education project*
+- **an einem Bildungsprojekt teilnehmen** — *education project*
+
 **Collocations**
 - ein Bildungsprojekt starten
 - ein Bildungsprojekt fördern

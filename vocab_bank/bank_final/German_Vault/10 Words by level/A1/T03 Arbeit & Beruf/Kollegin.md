@@ -35,6 +35,10 @@ status: "new"
 > Wie heißt die neue Kollegin?
 > *What's the new colleague called?*
 
+**Phrases & Expressions:**
+- **Ist es in Ordnung, wenn eine Kollegin beim Gespräch dabei ist?** — Is it OK if a colleague is present during the conversation? *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Einverständnis einholen]] · B1)*
+- **Sehr geehrte Frau Kollegin, sehr geehrter Herr Kollege,** — Dear colleague (female), dear colleague (male), *([[FSP-20 Arztbrief und Dokumentation|Anrede und Anlass]] · B2)*
+
 **Source:** Netzwerk neu A1 K2 2a (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

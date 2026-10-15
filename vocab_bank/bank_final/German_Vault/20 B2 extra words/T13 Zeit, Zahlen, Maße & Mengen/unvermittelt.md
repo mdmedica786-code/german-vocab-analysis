@@ -29,6 +29,11 @@ status: "new"
 > Er stand unvermittelt auf und ging.
 > *He suddenly stood up and left.*
 
+**Phrases & Expressions:**
+- **unvermittelt aufstehen** — *sudden; abrupt*
+- **unvermittelt beginnen** — *sudden; abrupt*
+- **unvermittelt enden** — *sudden; abrupt*
+
 **Collocations**
 - unvermittelt aufstehen
 - unvermittelt beginnen

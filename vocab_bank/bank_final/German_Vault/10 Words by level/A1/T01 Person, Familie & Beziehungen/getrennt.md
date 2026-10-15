@@ -31,6 +31,12 @@ status: "new"
 > Wir zahlen getrennt, bitte.
 > *Separate bills, please.*
 
+**Phrases & Expressions:**
+- **getrennt leben** — to live apart *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B2)*
+- **getrennt zahlen** — *separate*
+- **getrennt schreiben** — *separate*
+- **getrennt fahren** — *separate*
+
 **Collocations**
 - getrennt leben
 - getrennt zahlen

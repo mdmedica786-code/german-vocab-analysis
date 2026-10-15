@@ -34,6 +34,9 @@ status: "new"
 > Meine Freundin sieht gern Liebesfilme.
 > *My girlfriend likes watching romantic films.*
 
+**Phrases & Expressions:**
+- **Meine Freundin sieht gern Liebesfilme** — *My girlfriend likes watching romantic films* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12a (Immer online?)
 <!-- bank:end -->
 

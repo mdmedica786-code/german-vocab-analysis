@@ -32,6 +32,10 @@ status: "new"
 > Die Forscher werten die Umfrage aus.
 > *The researchers evaluate the survey.*
 
+**Phrases & Expressions:**
+- **Daten auswerten** — *to evaluate; to analyse*
+- **eine Umfrage auswerten** — *to evaluate; to analyse*
+
 **Collocations**
 - Daten auswerten
 - eine Umfrage auswerten

@@ -31,6 +31,9 @@ status: "new"
 > Das Mausi ist ein Kosename für ein Kind.
 > *"Mausi" is a pet name for a child.*
 
+**Phrases & Expressions:**
+- **Das Mausi ist ein Kosename für ein Kind** — *"Mausi" is a pet name for a child* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 10c (Zusammen leben)
 <!-- bank:end -->
 

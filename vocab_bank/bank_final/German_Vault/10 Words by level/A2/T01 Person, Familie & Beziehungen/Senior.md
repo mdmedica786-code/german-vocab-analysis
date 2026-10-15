@@ -34,6 +34,9 @@ status: "new"
 > Senioren bekommen im Museum eine Ermäßigung.
 > *Senior citizens get a discount at the museum.*
 
+**Phrases & Expressions:**
+- **Senioren bekommen im Museum eine Ermäßigung** — *Senior citizens get a discount at the museum* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 9a (Gelernt ist gelernt!)
 <!-- bank:end -->
 

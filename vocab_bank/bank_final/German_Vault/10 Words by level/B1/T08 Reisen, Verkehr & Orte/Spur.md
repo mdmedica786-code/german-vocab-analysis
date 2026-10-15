@@ -34,6 +34,12 @@ status: "new"
 > Fahren Sie bitte auf der linken Spur, wenn Sie schneller fahren.
 > *Please drive in the left lane if you want to go faster.*
 
+**Phrases & Expressions:**
+- **auf der linken Spur** — *lane; track; trace*
+- **eine Spur verfolgen** — *lane; track; trace*
+- **die Spur wechseln** — *lane; track; trace*
+- **Spuren hinterlassen** — *lane; track; trace*
+
 **Collocations**
 - auf der linken Spur
 - eine Spur verfolgen

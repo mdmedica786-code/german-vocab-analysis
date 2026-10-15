@@ -29,6 +29,11 @@ status: "new"
 > Die Stadt ist ein reizvolles Reiseziel.
 > *The city is an attractive destination.*
 
+**Phrases & Expressions:**
+- **ein reizvolles Angebot** — *attractive; appealing; tempting*
+- **reizvoll sein** — *attractive; appealing; tempting*
+- **eine reizvolle Aufgabe** — *attractive; appealing; tempting*
+
 **Collocations**
 - ein reizvolles Angebot
 - reizvoll sein

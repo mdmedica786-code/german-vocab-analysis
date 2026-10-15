@@ -26,6 +26,11 @@ status: "new"
 > Die Fabrik arbeitet vollautomatisiert.
 > *The factory works in a fully automated way.*
 
+**Phrases & Expressions:**
+- **eine vollautomatisierte Produktion** — *fully automated*
+- **vollautomatisiert arbeiten** — *fully automated*
+- **ein vollautomatisierter Prozess** — *fully automated*
+
 **Collocations**
 - eine vollautomatisierte Produktion
 - vollautomatisiert arbeiten

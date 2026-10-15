@@ -34,6 +34,9 @@ status: "new"
 > An Silvester gibt es ein großes Feuerwerk.
 > *On New Year's Eve there is a big firework display.*
 
+**Phrases & Expressions:**
+- **An Silvester gibt es ein großes Feuerwerk** — *On New Year's Eve there is a big firework display* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 10a (Große und kleine Gefühle)
 <!-- bank:end -->
 

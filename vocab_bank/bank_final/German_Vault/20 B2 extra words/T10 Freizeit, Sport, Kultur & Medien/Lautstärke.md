@@ -33,6 +33,11 @@ status: "new"
 > Bitte dreh die Lautstärke etwas herunter.
 > *Please turn the volume down a little.*
 
+**Phrases & Expressions:**
+- **die Lautstärke regeln** — *volume; loudness*
+- **die Lautstärke erhöhen** — *volume; loudness*
+- **in voller Lautstärke** — *volume; loudness*
+
 **Collocations**
 - die Lautstärke regeln
 - die Lautstärke erhöhen

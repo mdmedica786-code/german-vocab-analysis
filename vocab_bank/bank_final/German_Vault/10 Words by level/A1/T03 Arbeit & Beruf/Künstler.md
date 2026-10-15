@@ -35,6 +35,9 @@ status: "new"
 > Der Künstler stellt seine Bilder im Museum aus.
 > *The artist exhibits his paintings in the museum.*
 
+**Phrases & Expressions:**
+- **Der Künstler stellt seine Bilder im Museum aus** — *The artist exhibits his paintings in the museum* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 1b (Studium und Beruf) · Goethe word list A2
 <!-- bank:end -->
 

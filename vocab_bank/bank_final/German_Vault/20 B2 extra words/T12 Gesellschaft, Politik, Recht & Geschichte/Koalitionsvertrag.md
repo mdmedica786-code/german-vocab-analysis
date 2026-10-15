@@ -33,6 +33,11 @@ status: "new"
 > Im Koalitionsvertrag steht, wie die Regierung arbeiten will.
 > *The coalition agreement states how the government wants to work.*
 
+**Phrases & Expressions:**
+- **einen Koalitionsvertrag aushandeln** — *coalition agreement*
+- **den Koalitionsvertrag unterzeichnen** — *coalition agreement*
+- **laut Koalitionsvertrag** — *coalition agreement*
+
 **Collocations**
 - einen Koalitionsvertrag aushandeln
 - den Koalitionsvertrag unterzeichnen

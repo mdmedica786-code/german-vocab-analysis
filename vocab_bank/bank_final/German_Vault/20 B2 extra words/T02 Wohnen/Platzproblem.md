@@ -33,6 +33,11 @@ status: "new"
 > In unserer kleinen Wohnung haben wir ein Platzproblem.
 > *In our small flat we have a lack of space.*
 
+**Phrases & Expressions:**
+- **Platzprobleme haben** — *space problem; lack of space*
+- **ein Platzproblem lösen** — *space problem; lack of space*
+- **wegen eines Platzproblems** — *space problem; lack of space*
+
 **Collocations**
 - Platzprobleme haben
 - ein Platzproblem lösen

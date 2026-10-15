@@ -34,6 +34,12 @@ status: "new"
 > Die Wirbelsäule trägt den Körper.
 > *The spine supports the body.*
 
+**Phrases & Expressions:**
+- **Wirbelsäule untersuchen** — *spine*
+- **Verletzung der Wirbelsäule** — *spine*
+- **Wirbelsäule belasten** — *spine*
+- **gekrümmte Wirbelsäule** — *spine*
+
 **Collocations**
 - Wirbelsäule untersuchen
 - Verletzung der Wirbelsäule

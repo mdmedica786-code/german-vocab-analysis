@@ -29,6 +29,11 @@ status: "new"
 > Die Ware war mangelhaft, deshalb habe ich sie zurückgegeben.
 > *The goods were defective, so I returned them.*
 
+**Phrases & Expressions:**
+- **mangelhafte Qualität** — *defective; poor (grade)*
+- **mangelhaft verarbeitet** — *defective; poor (grade)*
+- **die Note mangelhaft** — *defective; poor (grade)*
+
 **Collocations**
 - mangelhafte Qualität
 - mangelhaft verarbeitet

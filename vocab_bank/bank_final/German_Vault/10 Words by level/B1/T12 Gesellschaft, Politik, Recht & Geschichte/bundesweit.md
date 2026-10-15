@@ -30,6 +30,9 @@ status: "new"
 > Das Gesetz gilt bundesweit.
 > *The law applies nationwide.*
 
+**Phrases & Expressions:**
+- **Das Gesetz gilt bundesweit** — *The law applies nationwide* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 5a (Miteinander)
 <!-- bank:end -->
 

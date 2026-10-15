@@ -31,6 +31,9 @@ status: "new"
 > Die Theatermacherin leitet ein kleines Theater.
 > *The theatre maker runs a small theatre.*
 
+**Phrases & Expressions:**
+- **Die Theatermacherin leitet ein kleines Theater** — *The theatre maker runs a small theatre* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7b (Kunststücke)
 <!-- bank:end -->
 

@@ -31,6 +31,13 @@ status: "new"
 > Bitte melde dich bei Frau Kaiser. Sie hat bereits dreimal angerufen.
 > *Please contact Mrs Kaiser. She has already called three times.*
 
+**Phrases & Expressions:**
+- **Ich habe bereits Erfahrung in der Notaufnahme gesammelt.** — I have already gained experience in the emergency department. *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Berufserfahrung beschreiben]] · B2)*
+- **bereits gestern** — *already*
+- **bereits bekannt** — *already*
+- **bereits vorhanden** — *already*
+- **bereits im Jahr 2020** — *already*
+
 **Collocations**
 - bereits gestern
 - bereits bekannt

@@ -31,6 +31,11 @@ status: "new"
 > Sie bürstet jeden Abend ihr langes Haar.
 > *She brushes her long hair every evening.*
 
+**Phrases & Expressions:**
+- **die Haare bürsten** — *to brush*
+- **den Mantel bürsten** — *to brush*
+- **sich die Zähne bürsten** — *to brush*
+
 **Collocations**
 - die Haare bürsten
 - den Mantel bürsten

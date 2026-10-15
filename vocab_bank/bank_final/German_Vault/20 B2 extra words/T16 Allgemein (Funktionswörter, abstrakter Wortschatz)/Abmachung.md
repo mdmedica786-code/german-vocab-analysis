@@ -33,6 +33,11 @@ status: "new"
 > Wir haben eine klare Abmachung getroffen.
 > *We made a clear agreement.*
 
+**Phrases & Expressions:**
+- **eine Abmachung treffen** — *agreement; arrangement*
+- **sich an die Abmachung halten** — *agreement; arrangement*
+- **eine mündliche Abmachung** — *agreement; arrangement*
+
 **Collocations**
 - eine Abmachung treffen
 - sich an die Abmachung halten

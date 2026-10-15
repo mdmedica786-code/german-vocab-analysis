@@ -33,6 +33,11 @@ status: "new"
 > Die EU hat ein neues Handelsabkommen mit Kanada abgeschlossen.
 > *The EU has concluded a new trade agreement with Canada.*
 
+**Phrases & Expressions:**
+- **ein Handelsabkommen abschließen** — *trade agreement*
+- **Handelsabkommen unterzeichnen** — *trade agreement*
+- **Handelsabkommen zwischen + Dat.** — *trade agreement*
+
 **Collocations**
 - ein Handelsabkommen abschließen
 - Handelsabkommen unterzeichnen

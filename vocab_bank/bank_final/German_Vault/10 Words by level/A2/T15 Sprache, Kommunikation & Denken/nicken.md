@@ -31,6 +31,12 @@ status: "new"
 > Er nickt zustimmend.
 > *He nods in agreement.*
 
+**Phrases & Expressions:**
+- **zustimmend nicken** — *to nod*
+- **mit dem Kopf nicken** — *to nod*
+- **jemandem zunicken** — *to nod*
+- **kurz nicken** — *to nod*
+
 **Collocations**
 - zustimmend nicken
 - mit dem Kopf nicken

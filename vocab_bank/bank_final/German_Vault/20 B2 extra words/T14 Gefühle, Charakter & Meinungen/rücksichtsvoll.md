@@ -29,6 +29,11 @@ status: "new"
 > Er ist sehr rücksichtsvoll gegenüber seinen Nachbarn.
 > *He is very considerate towards his neighbours.*
 
+**Phrases & Expressions:**
+- **sich rücksichtsvoll verhalten** — *considerate*
+- **ein rücksichtsvoller Mensch** — *considerate*
+- **rücksichtsvoll fahren** — *considerate*
+
 **Collocations**
 - sich rücksichtsvoll verhalten
 - ein rücksichtsvoller Mensch

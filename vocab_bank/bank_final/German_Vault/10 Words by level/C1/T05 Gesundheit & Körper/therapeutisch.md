@@ -29,6 +29,12 @@ status: "new"
 > Die therapeutische Behandlung dauert sechs Wochen.
 > *The therapeutic treatment lasts six weeks.*
 
+**Phrases & Expressions:**
+- **therapeutische Maßnahme** — *therapeutic*
+- **therapeutischer Ansatz** — *therapeutic*
+- **therapeutisch wirksam** — *therapeutic*
+- **therapeutische Dosis** — *therapeutic*
+
 **Collocations**
 - therapeutische Maßnahme
 - therapeutischer Ansatz

@@ -35,6 +35,9 @@ status: "new"
 > Was kostet ein Inserat in der Zeitung?
 > *What does an advertisement in the newspaper cost?*
 
+**Phrases & Expressions:**
+- **Was kostet ein Inserat in der Zeitung** — *What does an advertisement in the newspaper cost* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 12a (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

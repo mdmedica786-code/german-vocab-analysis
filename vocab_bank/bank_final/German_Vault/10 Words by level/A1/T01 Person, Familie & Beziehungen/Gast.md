@@ -35,6 +35,9 @@ status: "new"
 > Am Wochenende haben wir mehrere Gäste.
 > *At the weekend we have several guests.*
 
+**Phrases & Expressions:**
+- **Am Wochenende haben wir mehrere Gäste** — *At the weekend we have several guests* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

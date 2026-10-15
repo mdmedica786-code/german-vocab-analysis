@@ -34,6 +34,9 @@ status: "new"
 > Es gab einen Streik am Flughafen.
 > *There was a strike at the airport.*
 
+**Phrases & Expressions:**
+- **Es gab einen Streik am Flughafen** — *There was a strike at the airport* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

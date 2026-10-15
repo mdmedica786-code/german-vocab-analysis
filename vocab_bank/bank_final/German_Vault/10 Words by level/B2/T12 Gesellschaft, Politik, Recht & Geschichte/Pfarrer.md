@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Pfarrer hält am Sonntag eine Predigt.
 > *The priest gives a sermon on Sunday.*
+
+**Phrases & Expressions:**
+- **Der Pfarrer hält am Sonntag eine Predigt** — *The priest gives a sermon on Sunday* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

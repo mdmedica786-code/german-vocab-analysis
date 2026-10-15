@@ -31,6 +31,9 @@ status: "new"
 > Er ist neunzehn Jahre alt.
 > *He is nineteen years old.*
 
+**Phrases & Expressions:**
+- **Er ist neunzehn Jahre alt** — *He is nineteen years old* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

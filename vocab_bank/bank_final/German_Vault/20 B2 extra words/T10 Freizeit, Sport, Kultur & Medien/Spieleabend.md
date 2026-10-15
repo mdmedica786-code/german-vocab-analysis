@@ -33,6 +33,11 @@ status: "new"
 > Jeden Freitag veranstalten wir einen Spieleabend.
 > *Every Friday we hold a games night.*
 
+**Phrases & Expressions:**
+- **einen Spieleabend veranstalten** — *games night*
+- **zum Spieleabend einladen** — *games night*
+- **ein gemütlicher Spieleabend** — *games night*
+
 **Collocations**
 - einen Spieleabend veranstalten
 - zum Spieleabend einladen

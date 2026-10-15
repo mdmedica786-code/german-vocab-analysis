@@ -29,6 +29,11 @@ status: "new"
 > Wenn er müde ist, wird er schnell reizbar.
 > *When he is tired he quickly becomes irritable.*
 
+**Phrases & Expressions:**
+- **reizbar sein** — *irritable*
+- **leicht reizbar** — *irritable*
+- **reizbar reagieren** — *irritable*
+
 **Collocations**
 - reizbar sein
 - leicht reizbar

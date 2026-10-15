@@ -30,6 +30,14 @@ status: "new"
 > Wir brauchen alternative Energien.
 > *We need alternative energy sources.*
 
+**Phrases & Expressions:**
+- **Hast du eine Alternative?** — Do you have an alternative? *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Alternative anbieten]] · B1)*
+- **Alternativ könnten wir auch ... ausprobieren.** — Alternatively we could also try ... *([[FSP-11 Therapie und Medikamente erklären|Alternativen nennen]] · B2)*
+- **Als Alternative käme auch eine konservative Behandlung infrage.** — Conservative treatment would also come into question as an alternative. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Alternativen nennen]] · B2)*
+- **alternative Energien** — *alternative*
+- **eine alternative Lösung** — *alternative*
+- **alternative Medizin** — *alternative*
+
 **Collocations**
 - alternative Energien
 - eine alternative Lösung

@@ -32,6 +32,11 @@ status: "new"
 > Das Gericht hat eine Untersuchung angeordnet.
 > *The court has ordered an investigation.*
 
+**Phrases & Expressions:**
+- **eine Maßnahme anordnen** — *to order; to arrange*
+- **etwas behördlich anordnen** — *to order; to arrange*
+- **die Quarantäne anordnen** — *to order; to arrange*
+
 **Collocations**
 - eine Maßnahme anordnen
 - etwas behördlich anordnen

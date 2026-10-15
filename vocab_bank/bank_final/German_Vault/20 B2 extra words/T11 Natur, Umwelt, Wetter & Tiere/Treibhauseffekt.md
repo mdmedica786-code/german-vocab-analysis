@@ -33,6 +33,11 @@ status: "new"
 > Der Treibhauseffekt erwärmt die Erde.
 > *The greenhouse effect warms the earth.*
 
+**Phrases & Expressions:**
+- **den Treibhauseffekt verstärken** — *greenhouse effect*
+- **Ursache des Treibhauseffekts** — *greenhouse effect*
+- **natürlicher Treibhauseffekt** — *greenhouse effect*
+
 **Collocations**
 - den Treibhauseffekt verstärken
 - Ursache des Treibhauseffekts

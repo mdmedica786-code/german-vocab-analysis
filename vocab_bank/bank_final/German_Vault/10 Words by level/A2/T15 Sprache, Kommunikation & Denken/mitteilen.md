@@ -34,6 +34,11 @@ status: "new"
 > Den Prüfungstermin teilen wir Ihnen noch mit.
 > *We will let you know the exam date later.*
 
+**Phrases & Expressions:**
+- **Ich wäre Ihnen sehr dankbar, wenn Sie mir ... mitteilen könnten.** — I would be very grateful if you could let me know ... *([[B1-13 Formelle E-Mail und Brief|Bitte äußern]] · B1)*
+- **Leider muss ich Ihnen mitteilen, dass ...** — Unfortunately I have to inform you that ... *([[B1-13 Formelle E-Mail und Brief|Mitteilung machen]] · B1)*
+- **Könnten Sie mir bitte mitteilen, welche Unterlagen ich benötige?** — Could you please tell me which documents I need? *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Anfrage an Behörde]] · B2)*
+
 **Source:** Netzwerk neu A2 K3 8b (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

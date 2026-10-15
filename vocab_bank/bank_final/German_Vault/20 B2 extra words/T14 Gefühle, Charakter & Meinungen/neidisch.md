@@ -29,6 +29,11 @@ status: "new"
 > Sie ist neidisch auf den Erfolg ihrer Kollegin.
 > *She is envious of her colleague's success.*
 
+**Phrases & Expressions:**
+- **neidisch sein auf** — *envious; jealous*
+- **neidisch schauen** — *envious; jealous*
+- **neidisch werden** — *envious; jealous*
+
 **Collocations**
 - neidisch sein auf
 - neidisch schauen

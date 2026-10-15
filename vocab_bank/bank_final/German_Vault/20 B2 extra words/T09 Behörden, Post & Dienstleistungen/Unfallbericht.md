@@ -33,6 +33,11 @@ status: "new"
 > Die Polizei schrieb einen ausführlichen Unfallbericht.
 > *The police wrote a detailed accident report.*
 
+**Phrases & Expressions:**
+- **einen Unfallbericht schreiben** — *accident report*
+- **den Unfallbericht lesen** — *accident report*
+- **ein Unfallbericht der Polizei** — *accident report*
+
 **Collocations**
 - einen Unfallbericht schreiben
 - den Unfallbericht lesen

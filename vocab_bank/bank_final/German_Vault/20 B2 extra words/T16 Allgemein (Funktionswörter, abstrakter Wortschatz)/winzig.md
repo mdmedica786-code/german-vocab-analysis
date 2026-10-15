@@ -29,6 +29,11 @@ status: "new"
 > Die Wohnung hat eine winzige Küche.
 > *The flat has a tiny kitchen.*
 
+**Phrases & Expressions:**
+- **eine winzige Wohnung** — *tiny*
+- **winzig klein** — *tiny*
+- **ein winziger Unterschied** — *tiny*
+
 **Collocations**
 - eine winzige Wohnung
 - winzig klein

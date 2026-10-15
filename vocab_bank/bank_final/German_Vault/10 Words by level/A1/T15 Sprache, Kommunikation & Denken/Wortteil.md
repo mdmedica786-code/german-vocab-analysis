@@ -34,6 +34,9 @@ status: "new"
 > Ein Wortteil kann ein Präfix sein.
 > *A word part can be a prefix.*
 
+**Phrases & Expressions:**
+- **Ein Wortteil kann ein Präfix sein** — *A word part can be a prefix* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10c (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

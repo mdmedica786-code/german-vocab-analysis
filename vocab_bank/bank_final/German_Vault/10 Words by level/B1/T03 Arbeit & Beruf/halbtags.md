@@ -30,6 +30,9 @@ status: "new"
 > Deshalb möchte ich halbtags arbeiten.
 > *That is why I would like to work part-time.*
 
+**Phrases & Expressions:**
+- **Deshalb möchte ich halbtags arbeiten** — *That is why I would like to work part-time* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

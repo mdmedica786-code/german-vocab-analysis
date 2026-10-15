@@ -30,6 +30,9 @@ status: "new"
 > Ich will jetzt heim.
 > *I want to go home now.*
 
+**Phrases & Expressions:**
+- **Ich will jetzt heim** — *I want to go home now* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

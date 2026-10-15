@@ -33,6 +33,14 @@ status: "new"
 > Kannst du mir den Weg zum Bahnhof beschreiben?
 > *Can you describe the way to the station to me?*
 
+**Phrases & Expressions:**
+- **Können Sie das genauer beschreiben?** — Can you describe that in more detail? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Nachfragen]] · B1)*
+- **Wie würden Sie Ihren allgemeinen Gesundheitszustand beschreiben?** — How would you describe your general state of health? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Gesundheitszustand erfragen]] · B2)*
+- **den Weg beschreiben** — *to describe*
+- **ein Bild beschreiben** — *to describe*
+- **die Symptome beschreiben** — *to describe*
+- **genau beschreiben** — *to describe*
+
 **Collocations**
 - den Weg beschreiben
 - ein Bild beschreiben

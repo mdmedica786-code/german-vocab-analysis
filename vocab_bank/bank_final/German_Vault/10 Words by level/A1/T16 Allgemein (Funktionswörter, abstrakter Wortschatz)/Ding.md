@@ -35,6 +35,9 @@ status: "new"
 > In der Not zu helfen ist mein Ding.
 > *Helping in times of need is my thing.*
 
+**Phrases & Expressions:**
+- **vor allen Dingen** — above all *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+
 **Source:** Netzwerk neu A1 K3 10d (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

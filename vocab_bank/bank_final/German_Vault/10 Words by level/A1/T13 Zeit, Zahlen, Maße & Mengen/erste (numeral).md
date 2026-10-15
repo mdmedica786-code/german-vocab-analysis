@@ -31,6 +31,10 @@ status: "new"
 > Mein erster Tag im Krankenhaus war aufregend.
 > *My first day at the hospital was exciting.*
 
+**Phrases & Expressions:**
+- **das erste Mal** — the first time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **das erste Mal, dass ...** — the first time that ... *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

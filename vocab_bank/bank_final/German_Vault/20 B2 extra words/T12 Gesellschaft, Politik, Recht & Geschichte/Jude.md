@@ -33,6 +33,11 @@ status: "new"
 > Vor dem Krieg lebten viele Juden in dieser Stadt.
 > *Before the war many Jews lived in this city.*
 
+**Phrases & Expressions:**
+- **die jüdische Gemeinde** — *Jew*
+- **Juden und Christen** — *Jew*
+- **Geschichte der Juden** — *Jew*
+
 **Collocations**
 - die jüdische Gemeinde
 - Juden und Christen

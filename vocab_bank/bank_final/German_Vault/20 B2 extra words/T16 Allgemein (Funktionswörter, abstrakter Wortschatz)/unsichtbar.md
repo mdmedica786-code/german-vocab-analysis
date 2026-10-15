@@ -29,6 +29,11 @@ status: "new"
 > Die Schrift ist fast unsichtbar.
 > *The writing is almost invisible.*
 
+**Phrases & Expressions:**
+- **unsichtbar machen** — *invisible*
+- **unsichtbar werden** — *invisible*
+- **für das Auge unsichtbar** — *invisible*
+
 **Collocations**
 - unsichtbar machen
 - unsichtbar werden

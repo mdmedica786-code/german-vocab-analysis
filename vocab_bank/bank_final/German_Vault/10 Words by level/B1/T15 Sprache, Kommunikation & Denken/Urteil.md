@@ -35,6 +35,9 @@ status: "new"
 > Dein Urteil ist für mich sehr wichtig.
 > *Your judgement is very important to me.*
 
+**Phrases & Expressions:**
+- **Dein Urteil ist für mich sehr wichtig** — *Your judgement is very important to me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

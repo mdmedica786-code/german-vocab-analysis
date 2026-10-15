@@ -43,6 +43,9 @@ status: "new"
 > Ich hätte gern eine Schachtel Zünder.
 > *I would like a box of matches.*
 
+**Phrases & Expressions:**
+- **Ich hätte gern eine Schachtel Zünder** — *I would like a box of matches* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

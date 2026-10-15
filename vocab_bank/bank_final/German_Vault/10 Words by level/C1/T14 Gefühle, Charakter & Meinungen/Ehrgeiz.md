@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Sie hat viel Ehrgeiz im Studium.
 > *She has a lot of ambition in her studies.*
+
+**Phrases & Expressions:**
+- **Sie hat viel Ehrgeiz im Studium** — *She has a lot of ambition in her studies* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

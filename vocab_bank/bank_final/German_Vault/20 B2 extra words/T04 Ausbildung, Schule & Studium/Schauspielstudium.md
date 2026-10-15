@@ -30,6 +30,11 @@ status: "new"
 > Nach dem Schauspielstudium bekam sie ein Engagement am Theater.
 > *After her acting studies she got an engagement at the theatre.*
 
+**Phrases & Expressions:**
+- **ein Schauspielstudium beginnen** — *acting studies; drama degree*
+- **das Schauspielstudium abschließen** — *acting studies; drama degree*
+- **ein Schauspielstudium in Berlin** — *acting studies; drama degree*
+
 **Collocations**
 - ein Schauspielstudium beginnen
 - das Schauspielstudium abschließen

@@ -33,6 +33,13 @@ status: "new"
 > Das reicht schon.
 > *That's already enough.*
 
+**Phrases & Expressions:**
+- **Fehlende Unterlagen reiche ich umgehend nach.** — I will submit missing documents immediately. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Unterlagen nachreichen]] · B2)*
+- **das reicht** — *to be enough; to hand; to reach*
+- **die Zeit reicht nicht** — *to be enough; to hand; to reach*
+- **jemandem etwas reichen** — *to be enough; to hand; to reach*
+- **bis zum Boden reichen** — *to be enough; to hand; to reach*
+
 **Collocations**
 - das reicht
 - die Zeit reicht nicht

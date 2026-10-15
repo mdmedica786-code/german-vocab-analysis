@@ -34,6 +34,9 @@ status: "new"
 > Drücken Sie den Alarmknopf, wenn Sie Hilfe brauchen.
 > *Press the alarm button if you need help.*
 
+**Phrases & Expressions:**
+- **Drücken Sie den Alarmknopf, wenn Sie Hilfe brauchen** — *Press the alarm button if you need help* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

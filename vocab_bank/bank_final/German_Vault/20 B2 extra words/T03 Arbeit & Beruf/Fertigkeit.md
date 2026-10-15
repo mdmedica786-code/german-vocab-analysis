@@ -33,6 +33,11 @@ status: "new"
 > Für diese Arbeit braucht man handwerkliche Fertigkeiten.
 > *You need manual skills for this work.*
 
+**Phrases & Expressions:**
+- **eine Fertigkeit erwerben** — *skill; proficiency*
+- **praktische Fertigkeiten** — *skill; proficiency*
+- **sprachliche Fertigkeiten** — *skill; proficiency*
+
 **Collocations**
 - eine Fertigkeit erwerben
 - praktische Fertigkeiten

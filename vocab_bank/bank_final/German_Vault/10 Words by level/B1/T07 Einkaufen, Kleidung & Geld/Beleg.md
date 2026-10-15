@@ -35,6 +35,10 @@ status: "new"
 > Brauchen Sie einen Beleg?
 > *Do you need a receipt?*
 
+**Phrases & Expressions:**
+- **Als Beleg dafür lässt sich anführen, dass ...** — As evidence for this one can cite that ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Beispiel anführen]] · B2)*
+- **Studien belegen, dass ...** — Studies prove that ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Beleg anführen]] · B2)*
+
 **Source:** Netzwerk neu B1 K12 3a (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

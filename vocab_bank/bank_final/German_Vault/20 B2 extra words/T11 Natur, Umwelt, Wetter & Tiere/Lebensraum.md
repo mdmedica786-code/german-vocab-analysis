@@ -33,6 +33,11 @@ status: "new"
 > Wälder sind der Lebensraum vieler Tiere.
 > *Forests are the habitat of many animals.*
 
+**Phrases & Expressions:**
+- **den Lebensraum zerstören** — *habitat; living space*
+- **natürlicher Lebensraum** — *habitat; living space*
+- **Lebensraum schützen** — *habitat; living space*
+
 **Collocations**
 - den Lebensraum zerstören
 - natürlicher Lebensraum

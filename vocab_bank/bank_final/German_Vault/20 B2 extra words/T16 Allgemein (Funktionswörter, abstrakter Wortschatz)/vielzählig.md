@@ -26,6 +26,11 @@ status: "new"
 > Die Stadt bietet vielzählige Möglichkeiten zur Freizeitgestaltung.
 > *The city offers numerous leisure opportunities.*
 
+**Phrases & Expressions:**
+- **vielzählige Möglichkeiten** — *numerous*
+- **vielzählige Gründe** — *numerous*
+- **vielzählig vertreten sein** — *numerous*
+
 **Collocations**
 - vielzählige Möglichkeiten
 - vielzählige Gründe

@@ -32,6 +32,12 @@ status: "new"
 > An dem Film haben viele junge Schauspieler mitgewirkt.
 > *Many young actors took part in the film.*
 
+**Phrases & Expressions:**
+- **Dieses Medikament wirkt anders, wenn Sie Alkohol trinken.** — This medicine works differently if you drink alcohol. *([[FSP-11 Therapie und Medikamente erklären|Wechselwirkungen]] · B2)*
+- **an etwas mitwirken** — *to participate; to contribute*
+- **bei etwas mitwirken** — *to participate; to contribute*
+- **an einem Projekt mitwirken** — *to participate; to contribute*
+
 **Collocations**
 - an etwas mitwirken
 - bei etwas mitwirken

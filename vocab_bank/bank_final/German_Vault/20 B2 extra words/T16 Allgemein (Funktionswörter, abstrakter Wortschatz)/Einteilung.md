@@ -33,6 +33,11 @@ status: "new"
 > Die Einteilung in Gruppen erfolgt nach Alter.
 > *The division into groups is by age.*
 
+**Phrases & Expressions:**
+- **eine Einteilung vornehmen** — *division; classification; scheduling*
+- **die Einteilung der Zeit** — *division; classification; scheduling*
+- **die Einteilung in Klassen** — *division; classification; scheduling*
+
 **Collocations**
 - eine Einteilung vornehmen
 - die Einteilung der Zeit

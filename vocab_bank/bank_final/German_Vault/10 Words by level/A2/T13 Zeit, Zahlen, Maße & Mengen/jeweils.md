@@ -31,6 +31,12 @@ status: "new"
 > Der Kurs findet jeweils montags und donnerstags um 18 Uhr statt.
 > *The course takes place on Mondays and Thursdays at 6 p.m. in each case.*
 
+**Phrases & Expressions:**
+- **jeweils montags** — *each*
+- **jeweils zwei** — *each*
+- **jeweils zum Monatsende** — *each*
+- **jeweils die Hälfte** — *each*
+
 **Collocations**
 - jeweils montags
 - jeweils zwei

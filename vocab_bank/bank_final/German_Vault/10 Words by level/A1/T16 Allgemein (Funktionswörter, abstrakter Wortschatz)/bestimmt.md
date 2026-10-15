@@ -32,6 +32,13 @@ status: "new"
 > Vor dem Nomen steht hier der bestimmte Artikel.
 > *Here the definite article stands before the noun.*
 
+**Phrases & Expressions:**
+- **bestimmt nicht** — surely not *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B1)*
+- **Ist der Schmerz zu bestimmten Tageszeiten stärker?** — Is the pain stronger at certain times of day? *([[FSP-03 Schmerzanamnese|Tageszeit erfragen]] · B1)*
+- **Vertragen Sie bestimmte Medikamente oder Lebensmittel nicht?** — Are there certain medicines or foods that you don't tolerate? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Unverträglichkeiten erfragen]] · B2)*
+- **der bestimmte Artikel** — *certain; definite*
+- **ein bestimmter Tag** — *certain; definite*
+
 **Collocations**
 - der bestimmte Artikel
 - ein bestimmter Tag

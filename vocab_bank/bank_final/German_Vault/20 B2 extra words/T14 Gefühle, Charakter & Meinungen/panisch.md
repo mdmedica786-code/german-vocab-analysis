@@ -29,6 +29,11 @@ status: "new"
 > Sie rannte in panischer Angst aus dem Raum.
 > *She ran from the room in panic.*
 
+**Phrases & Expressions:**
+- **panisch reagieren** — *panic-stricken*
+- **panische Angst** — *panic-stricken*
+- **panisch fliehen** — *panic-stricken*
+
 **Collocations**
 - panisch reagieren
 - panische Angst

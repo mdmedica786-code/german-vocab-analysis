@@ -26,6 +26,10 @@ status: "new"
 > Ein Passant kam ihr zu Hilfe.
 > *A passer-by came to her aid.*
 
+**Phrases & Expressions:**
+- **jemandem zu Hilfe kommen** — *to come to the aid of*
+- **zu Hilfe rufen** — *to come to the aid of*
+
 **Collocations**
 - jemandem zu Hilfe kommen
 - zu Hilfe rufen

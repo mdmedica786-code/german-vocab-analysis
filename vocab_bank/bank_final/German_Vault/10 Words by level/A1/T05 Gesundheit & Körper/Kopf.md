@@ -35,6 +35,9 @@ status: "new"
 > Was geht dir durch den Kopf?
 > *What's going through your head?*
 
+**Phrases & Expressions:**
+- **Was geht dir durch den Kopf** — *What's going through your head* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 6a (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

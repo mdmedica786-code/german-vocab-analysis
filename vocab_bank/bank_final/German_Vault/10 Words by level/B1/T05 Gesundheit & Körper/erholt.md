@@ -30,6 +30,9 @@ status: "new"
 > Nach dem Urlaub bin ich gut erholt.
 > *After the holiday I am well rested.*
 
+**Phrases & Expressions:**
+- **Nach dem Urlaub bin ich gut erholt** — *After the holiday I am well rested* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!)
 <!-- bank:end -->
 

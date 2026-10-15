@@ -33,6 +33,11 @@ status: "new"
 > Die Grippewelle führt zu vielen Arbeitsausfällen.
 > *The flu wave leads to a lot of absence from work.*
 
+**Phrases & Expressions:**
+- **ein Arbeitsausfall durch Krankheit** — *loss of work; absence from work*
+- **Arbeitsausfälle vermeiden** — *loss of work; absence from work*
+- **hohe Arbeitsausfälle** — *loss of work; absence from work*
+
 **Collocations**
 - ein Arbeitsausfall durch Krankheit
 - Arbeitsausfälle vermeiden

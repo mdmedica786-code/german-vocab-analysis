@@ -29,6 +29,11 @@ status: "new"
 > Der Boden ist nach dem heißen Sommer völlig ausgetrocknet.
 > *The soil is completely dried out after the hot summer.*
 
+**Phrases & Expressions:**
+- **ausgetrocknet sein** — *dried out; parched*
+- **ausgetrocknete Haut** — *dried out; parched*
+- **ein ausgetrocknetes Flussbett** — *dried out; parched*
+
 **Collocations**
 - ausgetrocknet sein
 - ausgetrocknete Haut

@@ -33,6 +33,11 @@ status: "new"
 > Viele junge Menschen suchen im Ausland eine Zukunftsperspektive.
 > *Many young people look abroad for a future prospect.*
 
+**Phrases & Expressions:**
+- **eine Zukunftsperspektive bieten** — *future prospect; outlook for the future*
+- **keine Zukunftsperspektive haben** — *future prospect; outlook for the future*
+- **eine berufliche Zukunftsperspektive** — *future prospect; outlook for the future*
+
 **Collocations**
 - eine Zukunftsperspektive bieten
 - keine Zukunftsperspektive haben

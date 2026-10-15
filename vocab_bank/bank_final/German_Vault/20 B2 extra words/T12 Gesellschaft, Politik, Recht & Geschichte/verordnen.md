@@ -31,6 +31,11 @@ status: "new"
 > Der Arzt hat ihr Bettruhe verordnet.
 > *The doctor prescribed bed rest for her.*
 
+**Phrases & Expressions:**
+- **Medikamente verordnen** — *to prescribe; to decree*
+- **Ruhe verordnen** — *to prescribe; to decree*
+- **eine Maßnahme verordnen** — *to prescribe; to decree*
+
 **Collocations**
 - Medikamente verordnen
 - Ruhe verordnen

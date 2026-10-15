@@ -33,6 +33,11 @@ status: "new"
 > Sie hat die Nachricht mit viel Takt überbracht.
 > *She delivered the news with a lot of tact.*
 
+**Phrases & Expressions:**
+- **mit Takt vorgehen** — *tact; beat; bar (music)*
+- **den Takt halten** — *tact; beat; bar (music)*
+- **im Takt der Musik** — *tact; beat; bar (music)*
+
 **Collocations**
 - mit Takt vorgehen
 - den Takt halten

@@ -36,6 +36,9 @@ status: "new"
 > Viele Jugendliche kaufen gern ein.
 > *Many teenagers like shopping.*
 
+**Phrases & Expressions:**
+- **Viele Jugendliche kaufen gern ein** — *Many teenagers like shopping* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!) · Goethe word list A1
 <!-- bank:end -->
 

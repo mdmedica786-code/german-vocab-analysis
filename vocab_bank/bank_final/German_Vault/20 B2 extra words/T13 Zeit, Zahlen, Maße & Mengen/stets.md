@@ -29,6 +29,11 @@ status: "new"
 > Er ist stets pünktlich.
 > *He is always punctual.*
 
+**Phrases & Expressions:**
+- **stets zur Verfügung** — *always; at all times*
+- **stets bemüht** — *always; at all times*
+- **stets freundlich** — *always; at all times*
+
 **Collocations**
 - stets zur Verfügung
 - stets bemüht

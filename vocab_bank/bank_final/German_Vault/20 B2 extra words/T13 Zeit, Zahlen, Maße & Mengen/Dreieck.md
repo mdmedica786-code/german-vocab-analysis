@@ -33,6 +33,11 @@ status: "new"
 > Zeichnen Sie ein Dreieck mit drei gleichen Seiten.
 > *Draw a triangle with three equal sides.*
 
+**Phrases & Expressions:**
+- **ein gleichseitiges Dreieck** — *triangle*
+- **ein Dreieck zeichnen** — *triangle*
+- **die Seiten des Dreiecks** — *triangle*
+
 **Collocations**
 - ein gleichseitiges Dreieck
 - ein Dreieck zeichnen

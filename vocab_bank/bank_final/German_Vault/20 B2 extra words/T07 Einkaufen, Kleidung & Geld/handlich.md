@@ -29,6 +29,11 @@ status: "new"
 > Das Gerät ist klein und handlich.
 > *The device is small and handy.*
 
+**Phrases & Expressions:**
+- **ein handliches Format** — *handy; easy to handle*
+- **handlich sein** — *handy; easy to handle*
+- **handlich verpackt** — *handy; easy to handle*
+
 **Collocations**
 - ein handliches Format
 - handlich sein

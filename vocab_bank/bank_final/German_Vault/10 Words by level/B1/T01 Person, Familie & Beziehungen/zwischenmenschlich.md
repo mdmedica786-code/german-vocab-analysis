@@ -30,6 +30,9 @@ status: "new"
 > Zwischenmenschliche Beziehungen sind wichtig.
 > *Interpersonal relationships are important.*
 
+**Phrases & Expressions:**
+- **Zwischenmenschliche Beziehungen sind wichtig** — *Interpersonal relationships are important* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 1a (Zwischenmenschliches)
 <!-- bank:end -->
 

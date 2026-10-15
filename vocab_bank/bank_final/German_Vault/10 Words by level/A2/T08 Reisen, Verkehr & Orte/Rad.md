@@ -35,6 +35,9 @@ status: "new"
 > Hast du noch ein Rad? Ich bin durch Glas gefahren und jetzt ist mein Rad kaputt.
 > *Do you have another bike? I rode over glass and now my bike is broken.*
 
+**Phrases & Expressions:**
+- **Rad fahren** — to cycle *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A1)*
+
 **Source:** Netzwerk neu A2 K9 1b ÜB (Sportlich, sportlich) · Goethe word list A2
 <!-- bank:end -->
 

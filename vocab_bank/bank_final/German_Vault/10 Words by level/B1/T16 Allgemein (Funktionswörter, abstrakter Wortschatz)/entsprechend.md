@@ -31,6 +31,12 @@ status: "new"
 > Bitte füllen Sie das Formular entsprechend aus.
 > *Please fill in the form accordingly.*
 
+**Phrases & Expressions:**
+- **Entsprechend verhält es sich bei ...** — Accordingly it is the same with ... *([[B2-11 Vergleichen und Entwicklungen beschreiben|Entsprechung ausdrücken]] · B2)*
+- **entsprechende Maßnahmen** — *corresponding; appropriate; accordingly*
+- **entsprechend der Anleitung** — *corresponding; appropriate; accordingly*
+- **sich entsprechend verhalten** — *corresponding; appropriate; accordingly*
+
 **Collocations**
 - entsprechende Maßnahmen
 - entsprechend der Anleitung

@@ -33,6 +33,11 @@ status: "new"
 > Die Gewässer in der Region sind sauber.
 > *The waters in the region are clean.*
 
+**Phrases & Expressions:**
+- **stehendes Gewässer** — *body of water; waters*
+- **Gewässer verschmutzen** — *body of water; waters*
+- **Gewässer schützen** — *body of water; waters*
+
 **Collocations**
 - stehendes Gewässer
 - Gewässer verschmutzen

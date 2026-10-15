@@ -30,6 +30,9 @@ status: "new"
 > Es ist untersagt, hier zu rauchen.
 > *It is forbidden to smoke here.*
 
+**Phrases & Expressions:**
+- **Es ist untersagt, hier zu rauchen** — *It is forbidden to smoke here* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Meine Familie lebt in einem Dorf.
 > *My family lives in a village.*
 
+**Phrases & Expressions:**
+- **Meine Familie lebt in einem Dorf** — *My family lives in a village* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 12b (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

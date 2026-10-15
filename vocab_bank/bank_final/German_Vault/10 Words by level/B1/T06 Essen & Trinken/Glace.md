@@ -42,6 +42,9 @@ status: "new"
 > Zum Dessert gibt es Schokoladenglace.
 > *For dessert there is chocolate ice cream.*
 
+**Phrases & Expressions:**
+- **Zum Dessert gibt es Schokoladenglace** — *For dessert there is chocolate ice cream* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

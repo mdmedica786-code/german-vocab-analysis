@@ -33,6 +33,11 @@ status: "new"
 > Ärzte unterliegen der Verschwiegenheit.
 > *Doctors are bound by confidentiality.*
 
+**Phrases & Expressions:**
+- **Verschwiegenheit wahren** — *discretion; confidentiality*
+- **zur Verschwiegenheit verpflichtet** — *discretion; confidentiality*
+- **auf Verschwiegenheit vertrauen** — *discretion; confidentiality*
+
 **Collocations**
 - Verschwiegenheit wahren
 - zur Verschwiegenheit verpflichtet

@@ -29,6 +29,11 @@ status: "new"
 > Die Stadt bietet ein vielfältiges Kulturangebot.
 > *The city offers a diverse cultural programme.*
 
+**Phrases & Expressions:**
+- **ein vielfältiges Angebot** — *diverse; varied*
+- **vielfältige Möglichkeiten** — *diverse; varied*
+- **vielfältig einsetzbar** — *diverse; varied*
+
 **Collocations**
 - ein vielfältiges Angebot
 - vielfältige Möglichkeiten

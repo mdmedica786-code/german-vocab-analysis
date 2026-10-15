@@ -33,6 +33,11 @@ status: "new"
 > Die Rendite dieser Anlage ist niedrig.
 > *The return on this investment is low.*
 
+**Phrases & Expressions:**
+- **hohe Rendite** — *return; yield*
+- **Rendite erzielen** — *return; yield*
+- **Rendite erwirtschaften** — *return; yield*
+
 **Collocations**
 - hohe Rendite
 - Rendite erzielen

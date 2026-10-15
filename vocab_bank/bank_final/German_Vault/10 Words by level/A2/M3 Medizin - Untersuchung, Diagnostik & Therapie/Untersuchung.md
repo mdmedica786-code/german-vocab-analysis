@@ -35,6 +35,14 @@ status: "new"
 > Ich habe morgen eine Untersuchung im Krankenhaus.
 > *I have an examination at the hospital tomorrow.*
 
+**Phrases & Expressions:**
+- **Das war es schon mit der Untersuchung.** — That's it for the examination. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Untersuchung abschließen]] · A2)*
+- **Bei der körperlichen Untersuchung fand sich kein Hinweis auf ...** — On physical examination there was no sign of ... *([[FSP-08 Befunde beschreiben und berichten|Befund im Arzt-Arzt-Gespräch]] · C1)*
+- **Bitte kommen Sie nüchtern zur Untersuchung.** — Please come on an empty stomach for the examination. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Nüchternheit]] · A2)*
+- **Bei der MRT-Untersuchung liegen Sie in einer engen Röhre.** — During the MRI scan you lie in a narrow tube. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|CT und MRT]] · B2)*
+- **Die Untersuchung dauert ungefähr zwanzig Minuten.** — The examination takes about twenty minutes. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Ablauf erklären]] · A2)*
+- **Die Untersuchung hat keinen auffälligen Befund ergeben.** — The examination did not reveal any abnormal finding. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Ergebnisse mitteilen]] · B2)*
+
 **Collocations**
 - eine Untersuchung durchführen
 - zur Untersuchung gehen

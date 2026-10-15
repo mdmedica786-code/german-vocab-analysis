@@ -31,6 +31,11 @@ status: "new"
 > Wir müssen neue Computer für das Büro beschaffen.
 > *We have to obtain new computers for the office.*
 
+**Phrases & Expressions:**
+- **sich etwas beschaffen** — *to obtain; to procure*
+- **Geld beschaffen** — *to obtain; to procure*
+- **Informationen beschaffen** — *to obtain; to procure*
+
 **Collocations**
 - sich etwas beschaffen
 - Geld beschaffen

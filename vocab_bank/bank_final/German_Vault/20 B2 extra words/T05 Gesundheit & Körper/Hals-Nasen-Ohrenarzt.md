@@ -34,6 +34,11 @@ status: "new"
 > Der Hals-Nasen-Ohrenarzt untersucht mein Gehör.
 > *The ear, nose and throat doctor examines my hearing.*
 
+**Phrases & Expressions:**
+- **zum Hals-Nasen-Ohrenarzt gehen** — *ear, nose and throat doctor (male)*
+- **beim Hals-Nasen-Ohrenarzt** — *ear, nose and throat doctor (male)*
+- **ein Termin beim Hals-Nasen-Ohrenarzt** — *ear, nose and throat doctor (male)*
+
 **Collocations**
 - zum Hals-Nasen-Ohrenarzt gehen
 - beim Hals-Nasen-Ohrenarzt

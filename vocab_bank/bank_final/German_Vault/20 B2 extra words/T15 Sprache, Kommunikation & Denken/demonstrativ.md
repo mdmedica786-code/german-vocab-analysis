@@ -29,6 +29,11 @@ status: "new"
 > Er verließ demonstrativ den Raum.
 > *He left the room ostentatiously.*
 
+**Phrases & Expressions:**
+- **demonstrativ gähnen** — *demonstrative; pointed; ostentatious*
+- **demonstrativ schweigen** — *demonstrative; pointed; ostentatious*
+- **ein demonstratives Pronomen** — *demonstrative; pointed; ostentatious*
+
 **Collocations**
 - demonstrativ gähnen
 - demonstrativ schweigen

@@ -31,6 +31,11 @@ status: "new"
 > Vergiss nicht, das Wasser zu salzen.
 > *Don't forget to salt the water.*
 
+**Phrases & Expressions:**
+- **das Wasser salzen** — *to salt*
+- **zu stark salzen** — *to salt*
+- **gesalzene Preise** — *to salt*
+
 **Collocations**
 - das Wasser salzen
 - zu stark salzen

@@ -33,6 +33,11 @@ status: "new"
 > Dieses Wort gehört zur Umgangssprache.
 > *This word belongs to colloquial language.*
 
+**Phrases & Expressions:**
+- **in der Umgangssprache** — *colloquial language*
+- **umgangssprachlich** — *colloquial language*
+- **Umgangssprache und Schriftsprache** — *colloquial language*
+
 **Collocations**
 - in der Umgangssprache
 - umgangssprachlich

@@ -33,6 +33,13 @@ status: "new"
 > Die Leber entgiftet den Körper.
 > *The liver detoxifies the body.*
 
+**Phrases & Expressions:**
+- **Die Leber ist unter dem Rippenbogen tastbar.** — The liver is palpable below the costal margin. *([[FSP-08 Befunde beschreiben und berichten|Palpation]] · C1)*
+- **die Leber untersuchen** — *liver*
+- **eine vergrößerte Leber** — *liver*
+- **Leber und Niere** — *liver*
+- **Alkohol schadet der Leber** — *liver*
+
 **Collocations**
 - die Leber untersuchen
 - eine vergrößerte Leber

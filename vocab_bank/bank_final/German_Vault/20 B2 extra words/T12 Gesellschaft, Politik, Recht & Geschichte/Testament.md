@@ -33,6 +33,11 @@ status: "new"
 > Die Großmutter hat ein Testament gemacht.
 > *The grandmother has made a will.*
 
+**Phrases & Expressions:**
+- **ein Testament machen** — *will; testament*
+- **das Testament eröffnen** — *will; testament*
+- **im Testament stehen** — *will; testament*
+
 **Collocations**
 - ein Testament machen
 - das Testament eröffnen

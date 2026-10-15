@@ -31,6 +31,9 @@ status: "new"
 > Die Gummiwanne steht im Hof.
 > *The rubber tub is in the yard.*
 
+**Phrases & Expressions:**
+- **Die Gummiwanne steht im Hof** — *The rubber tub is in the yard* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

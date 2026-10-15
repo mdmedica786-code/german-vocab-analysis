@@ -34,6 +34,9 @@ status: "new"
 > Diese Firma transportiert Waren auch über große Distanzen.
 > *This company transports goods over great distances too.*
 
+**Phrases & Expressions:**
+- **Diese Firma transportiert Waren auch über große Distanzen** — *This company transports goods over great distances too* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

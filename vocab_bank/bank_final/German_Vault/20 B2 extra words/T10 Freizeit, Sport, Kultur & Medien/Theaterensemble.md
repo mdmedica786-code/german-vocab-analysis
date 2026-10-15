@@ -33,6 +33,11 @@ status: "new"
 > Das Theaterensemble probt für die neue Premiere.
 > *The theatre ensemble is rehearsing for the new premiere.*
 
+**Phrases & Expressions:**
+- **ein Theaterensemble gründen** — *theatre ensemble*
+- **im Theaterensemble spielen** — *theatre ensemble*
+- **das Ensemble des Theaters** — *theatre ensemble*
+
 **Collocations**
 - ein Theaterensemble gründen
 - im Theaterensemble spielen

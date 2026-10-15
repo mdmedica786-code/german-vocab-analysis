@@ -35,6 +35,9 @@ status: "new"
 > Gestern hatten wir 25 Grad im Schatten.
 > *Yesterday it was 25 degrees in the shade.*
 
+**Phrases & Expressions:**
+- **Gestern hatten wir 25 Grad im Schatten** — *Yesterday it was 25 degrees in the shade* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

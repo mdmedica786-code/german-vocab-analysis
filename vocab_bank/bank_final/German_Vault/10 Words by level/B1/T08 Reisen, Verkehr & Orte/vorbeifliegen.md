@@ -33,6 +33,10 @@ status: "new"
 > Ein Vogel fliegt am Fenster vorbei.
 > *A bird flies past the window.*
 
+**Phrases & Expressions:**
+- **an ... vorbei** — past ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Es piekst kurz, dann ist es schon vorbei.** — It will sting briefly, then it's already over. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Blutabnahme]] · A2)*
+
 **Source:** Netzwerk neu B1 K9 13b (Kunststücke)
 <!-- bank:end -->
 

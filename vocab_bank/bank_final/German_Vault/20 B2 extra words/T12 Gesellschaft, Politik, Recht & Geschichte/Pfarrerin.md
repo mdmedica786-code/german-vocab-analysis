@@ -33,6 +33,11 @@ status: "new"
 > Die Pfarrerin hält am Sonntag die Predigt.
 > *The pastor gives the sermon on Sunday.*
 
+**Phrases & Expressions:**
+- **die Pfarrerin der Gemeinde** — *pastor; vicar (female)*
+- **eine neue Pfarrerin** — *pastor; vicar (female)*
+- **zur Pfarrerin gehen** — *pastor; vicar (female)*
+
 **Collocations**
 - die Pfarrerin der Gemeinde
 - eine neue Pfarrerin

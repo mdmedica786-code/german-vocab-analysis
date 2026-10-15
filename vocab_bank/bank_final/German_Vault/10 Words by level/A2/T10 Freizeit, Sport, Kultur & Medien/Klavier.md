@@ -35,6 +35,9 @@ status: "new"
 > Jakob kann sehr gut Klavier spielen.
 > *Jakob can play the piano very well.*
 
+**Phrases & Expressions:**
+- **Jakob kann sehr gut Klavier spielen** — *Jakob can play the piano very well* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

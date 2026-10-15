@@ -34,6 +34,9 @@ status: "new"
 > Die Anreise dauert etwa drei Stunden.
 > *The journey there takes about three hours.*
 
+**Phrases & Expressions:**
+- **Die Anreise dauert etwa drei Stunden** — *The journey there takes about three hours* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

@@ -36,6 +36,9 @@ status: "new"
 > Die Fahrkarten gibt es nur am Automaten.
 > *Tickets are only available from the machine.*
 
+**Phrases & Expressions:**
+- **Die Fahrkarten gibt es nur am Automaten** — *Tickets are only available from the machine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 5a ÜB (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

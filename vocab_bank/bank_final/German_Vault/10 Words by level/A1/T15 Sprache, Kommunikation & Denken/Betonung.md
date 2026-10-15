@@ -34,6 +34,9 @@ status: "new"
 > Die Betonung liegt auf der ersten Silbe.
 > *The stress is on the first syllable.*
 
+**Phrases & Expressions:**
+- **Die Betonung liegt auf der ersten Silbe** — *The stress is on the first syllable* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 6a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

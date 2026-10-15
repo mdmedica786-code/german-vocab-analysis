@@ -29,6 +29,11 @@ status: "new"
 > Das Fest hat christliche Wurzeln.
 > *The festival has Christian roots.*
 
+**Phrases & Expressions:**
+- **christliche Werte** — *Christian*
+- **der christliche Glaube** — *Christian*
+- **christlich erzogen** — *Christian*
+
 **Collocations**
 - christliche Werte
 - der christliche Glaube

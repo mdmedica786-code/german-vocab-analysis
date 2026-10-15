@@ -29,6 +29,11 @@ status: "new"
 > Die Milch war schlecht und ungenießbar.
 > *The milk was off and undrinkable.*
 
+**Phrases & Expressions:**
+- **ungenießbar sein** — *inedible; unpalatable*
+- **ungenießbare Pilze** — *inedible; unpalatable*
+- **ungenießbar werden** — *inedible; unpalatable*
+
 **Collocations**
 - ungenießbar sein
 - ungenießbare Pilze

@@ -34,6 +34,9 @@ status: "new"
 > Die Fotografin hat sehr schöne Fotos gemacht.
 > *The photographer took very beautiful photos.*
 
+**Phrases & Expressions:**
+- **Die Fotografin hat sehr schöne Fotos gemacht** — *The photographer took very beautiful photos* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > Die Teilnehmerzahl für den Kurs ist beschränkt.
 > *The number of participants for the course is limited.*
 
+**Phrases & Expressions:**
+- **Die Teilnehmerzahl für den Kurs ist beschränkt** — *The number of participants for the course is limited* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

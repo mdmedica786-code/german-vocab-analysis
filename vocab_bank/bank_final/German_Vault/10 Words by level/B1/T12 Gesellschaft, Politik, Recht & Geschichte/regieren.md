@@ -32,6 +32,9 @@ status: "new"
 > Die Königin regierte fünfzig Jahre lang.
 > *The queen ruled for fifty years.*
 
+**Phrases & Expressions:**
+- **Die Königin regierte fünfzig Jahre lang** — *The queen ruled for fifty years* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 1a (Geld regiert die Welt?)
 <!-- bank:end -->
 

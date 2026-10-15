@@ -33,6 +33,11 @@ status: "new"
 > Die Stadt gewinnt Strom aus Wasserkraft.
 > *The town generates electricity from hydropower.*
 
+**Phrases & Expressions:**
+- **Strom aus Wasserkraft** — *hydropower; water power*
+- **die Wasserkraft nutzen** — *hydropower; water power*
+- **ein Kraftwerk mit Wasserkraft** — *hydropower; water power*
+
 **Collocations**
 - Strom aus Wasserkraft
 - die Wasserkraft nutzen

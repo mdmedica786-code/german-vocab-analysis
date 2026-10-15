@@ -34,6 +34,9 @@ status: "new"
 > In diesem Café ist die Atmosphäre sehr gemütlich.
 > *In this café the atmosphere is very cosy.*
 
+**Phrases & Expressions:**
+- **In diesem Café ist die Atmosphäre sehr gemütlich** — *In this café the atmosphere is very cosy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden)
 <!-- bank:end -->
 

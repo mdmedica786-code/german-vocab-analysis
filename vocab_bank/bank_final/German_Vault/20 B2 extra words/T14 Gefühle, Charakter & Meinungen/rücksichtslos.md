@@ -29,6 +29,11 @@ status: "new"
 > Rücksichtslose Fahrer gefährden andere Verkehrsteilnehmer.
 > *Inconsiderate drivers endanger other road users.*
 
+**Phrases & Expressions:**
+- **rücksichtslos fahren** — *inconsiderate; ruthless*
+- **rücksichtslos vorgehen** — *inconsiderate; ruthless*
+- **ein rücksichtsloser Mensch** — *inconsiderate; ruthless*
+
 **Collocations**
 - rücksichtslos fahren
 - rücksichtslos vorgehen

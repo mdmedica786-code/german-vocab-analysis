@@ -31,6 +31,11 @@ status: "new"
 > Windräder erzeugen Strom für die Region.
 > *Wind turbines generate electricity for the region.*
 
+**Phrases & Expressions:**
+- **Strom erzeugen** — *to produce; to generate*
+- **Wärme erzeugen** — *to produce; to generate*
+- **Druck erzeugen** — *to produce; to generate*
+
 **Collocations**
 - Strom erzeugen
 - Wärme erzeugen

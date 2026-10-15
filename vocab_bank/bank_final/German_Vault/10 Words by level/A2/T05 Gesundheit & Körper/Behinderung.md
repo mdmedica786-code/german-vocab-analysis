@@ -34,6 +34,9 @@ status: "new"
 > Menschen mit einer Behinderung brauchen oft Hilfe.
 > *People with a disability often need help.*
 
+**Phrases & Expressions:**
+- **Menschen mit einer Behinderung brauchen oft Hilfe** — *People with a disability often need help* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 7a (Nach der Schulzeit)
 <!-- bank:end -->
 

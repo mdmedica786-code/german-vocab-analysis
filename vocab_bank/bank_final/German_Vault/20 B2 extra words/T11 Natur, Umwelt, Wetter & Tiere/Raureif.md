@@ -33,6 +33,11 @@ status: "new"
 > Morgens lag Raureif auf den Wiesen.
 > *In the morning there was hoarfrost on the meadows.*
 
+**Phrases & Expressions:**
+- **Raureif auf den Bäumen** — *hoarfrost*
+- **von Raureif bedeckt** — *hoarfrost*
+- **morgendlicher Raureif** — *hoarfrost*
+
 **Collocations**
 - Raureif auf den Bäumen
 - von Raureif bedeckt

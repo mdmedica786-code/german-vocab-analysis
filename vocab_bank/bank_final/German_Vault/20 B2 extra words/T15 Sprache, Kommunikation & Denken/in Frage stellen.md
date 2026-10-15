@@ -29,6 +29,10 @@ status: "new"
 > Die Studie stellt die bisherigen Ergebnisse in Frage.
 > *The study calls the previous results into question.*
 
+**Phrases & Expressions:**
+- **eine Entscheidung in Frage stellen** — *to call into question*
+- **etwas grundsätzlich in Frage stellen** — *to call into question*
+
 **Collocations**
 - eine Entscheidung in Frage stellen
 - etwas grundsätzlich in Frage stellen

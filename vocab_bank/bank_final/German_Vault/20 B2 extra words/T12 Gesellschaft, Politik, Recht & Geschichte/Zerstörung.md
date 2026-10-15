@@ -33,6 +33,11 @@ status: "new"
 > Der Sturm hinterließ große Zerstörung.
 > *The storm left great destruction.*
 
+**Phrases & Expressions:**
+- **die Zerstörung von Lebensraum** — *destruction*
+- **Zerstörung anrichten** — *destruction*
+- **eine mutwillige Zerstörung** — *destruction*
+
 **Collocations**
 - die Zerstörung von Lebensraum
 - Zerstörung anrichten

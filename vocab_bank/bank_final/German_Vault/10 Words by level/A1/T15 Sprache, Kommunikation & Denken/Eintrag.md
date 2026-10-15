@@ -34,6 +34,9 @@ status: "new"
 > Der Eintrag im Gästebuch ist von gestern.
 > *The entry in the guestbook is from yesterday.*
 
+**Phrases & Expressions:**
+- **Der Eintrag im Gästebuch ist von gestern** — *The entry in the guestbook is from yesterday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10b (Alltag und Familie)
 <!-- bank:end -->
 

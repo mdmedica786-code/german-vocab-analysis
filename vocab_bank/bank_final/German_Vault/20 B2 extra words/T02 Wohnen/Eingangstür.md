@@ -33,6 +33,11 @@ status: "new"
 > Die Eingangstür des Hauses war nicht abgeschlossen.
 > *The front door of the house was not locked.*
 
+**Phrases & Expressions:**
+- **die Eingangstür öffnen** — *front door; entrance door*
+- **vor der Eingangstür** — *front door; entrance door*
+- **die Eingangstür schließen** — *front door; entrance door*
+
 **Collocations**
 - die Eingangstür öffnen
 - vor der Eingangstür

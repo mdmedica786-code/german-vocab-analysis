@@ -34,6 +34,9 @@ status: "new"
 > Am Wochenende findet eine Segelregatta auf dem See statt.
 > *A sailing regatta takes place on the lake at the weekend.*
 
+**Phrases & Expressions:**
+- **Am Wochenende findet eine Segelregatta auf dem See statt** — *A sailing regatta takes place on the lake at the weekend* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 10a (Große und kleine Gefühle)
 <!-- bank:end -->
 

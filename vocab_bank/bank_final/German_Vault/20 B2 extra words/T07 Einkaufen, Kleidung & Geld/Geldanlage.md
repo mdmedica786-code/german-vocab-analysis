@@ -33,6 +33,11 @@ status: "new"
 > Eine sichere Geldanlage bringt oft nur wenig Zinsen.
 > *A safe investment often brings only little interest.*
 
+**Phrases & Expressions:**
+- **eine sichere Geldanlage** — *investment*
+- **in eine Geldanlage investieren** — *investment*
+- **Geldanlage mit Risiko** — *investment*
+
 **Collocations**
 - eine sichere Geldanlage
 - in eine Geldanlage investieren

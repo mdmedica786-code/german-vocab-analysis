@@ -33,6 +33,11 @@ status: "new"
 > Reines Auswendiglernen reicht für die Prüfung nicht aus.
 > *Pure rote learning is not enough for the exam.*
 
+**Phrases & Expressions:**
+- **durch Auswendiglernen** — *learning by heart; rote learning*
+- **Auswendiglernen von Vokabeln** — *learning by heart; rote learning*
+- **auf Auswendiglernen setzen** — *learning by heart; rote learning*
+
 **Collocations**
 - durch Auswendiglernen
 - Auswendiglernen von Vokabeln

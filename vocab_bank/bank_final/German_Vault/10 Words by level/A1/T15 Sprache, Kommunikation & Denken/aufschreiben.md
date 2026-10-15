@@ -34,6 +34,9 @@ status: "new"
 > Ich habe mir deine Telefonnummer aufgeschrieben.
 > *I have written down your phone number.*
 
+**Phrases & Expressions:**
+- **Ich habe mir deine Telefonnummer aufgeschrieben** — *I have written down your phone number* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 4 (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

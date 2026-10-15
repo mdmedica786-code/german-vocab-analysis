@@ -29,6 +29,11 @@ status: "new"
 > Seine Vorschläge wirken ziemlich weltfremd.
 > *His proposals seem rather out of touch with reality.*
 
+**Phrases & Expressions:**
+- **weltfremd sein** — *unworldly; out of touch*
+- **weltfremd wirken** — *unworldly; out of touch*
+- **eine weltfremde Vorstellung** — *unworldly; out of touch*
+
 **Collocations**
 - weltfremd sein
 - weltfremd wirken

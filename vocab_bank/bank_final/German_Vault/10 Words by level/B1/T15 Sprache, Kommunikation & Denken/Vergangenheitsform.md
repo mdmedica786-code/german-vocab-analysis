@@ -34,6 +34,9 @@ status: "new"
 > „Ich ging“ ist eine Vergangenheitsform.
 > *"Ich ging" is a past tense form.*
 
+**Phrases & Expressions:**
+- **„Ich ging“ ist eine Vergangenheitsform** — *"Ich ging" is a past tense form* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 4b (Veränderungen)
 <!-- bank:end -->
 

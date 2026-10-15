@@ -34,6 +34,9 @@ status: "new"
 > Ich schneide eine Gurke für den Salat.
 > *I'm cutting a cucumber for the salad.*
 
+**Phrases & Expressions:**
+- **Ich schneide eine Gurke für den Salat** — *I'm cutting a cucumber for the salad* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 2a (Guten Appetit!)
 <!-- bank:end -->
 

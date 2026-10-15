@@ -30,6 +30,9 @@ status: "new"
 > Wir hatten einen traumhaften Urlaub.
 > *We had a wonderful, dreamlike holiday.*
 
+**Phrases & Expressions:**
+- **Wir hatten einen traumhaften Urlaub** — *We had a wonderful, dreamlike holiday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

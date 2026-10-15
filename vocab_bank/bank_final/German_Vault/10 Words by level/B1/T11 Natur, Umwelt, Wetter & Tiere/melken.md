@@ -32,6 +32,9 @@ status: "new"
 > Die Bäuerin melkt die Kühe am Morgen.
 > *The farmer milks the cows in the morning.*
 
+**Phrases & Expressions:**
+- **Die Bäuerin melkt die Kühe am Morgen** — *The farmer milks the cows in the morning* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!)
 <!-- bank:end -->
 

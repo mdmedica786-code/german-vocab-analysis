@@ -31,6 +31,11 @@ status: "new"
 > Die Nachricht beunruhigte die Eltern sehr.
 > *The news worried the parents a lot.*
 
+**Phrases & Expressions:**
+- **jemanden beunruhigen** — *to worry; to alarm*
+- **beunruhigend wirken** — *to worry; to alarm*
+- **beunruhigt sein** — *to worry; to alarm*
+
 **Collocations**
 - jemanden beunruhigen
 - beunruhigend wirken

@@ -29,6 +29,11 @@ status: "new"
 > Er hat ein naturwissenschaftliches Studium abgeschlossen.
 > *He has completed a degree in the natural sciences.*
 
+**Phrases & Expressions:**
+- **ein naturwissenschaftliches Fach** — *scientific; relating to the natural sciences*
+- **naturwissenschaftlich begabt** — *scientific; relating to the natural sciences*
+- **naturwissenschaftliche Forschung** — *scientific; relating to the natural sciences*
+
 **Collocations**
 - ein naturwissenschaftliches Fach
 - naturwissenschaftlich begabt

@@ -33,6 +33,11 @@ status: "new"
 > Die Ausstellungsfläche umfasst 500 Quadratmeter.
 > *The exhibition space covers 500 square metres.*
 
+**Phrases & Expressions:**
+- **eine große Ausstellungsfläche** — *exhibition space*
+- **die Ausstellungsfläche mieten** — *exhibition space*
+- **die Ausstellungsfläche vergrößern** — *exhibition space*
+
 **Collocations**
 - eine große Ausstellungsfläche
 - die Ausstellungsfläche mieten

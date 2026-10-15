@@ -29,6 +29,12 @@ status: "new"
 > Es regnet, aber immerhin ist es warm.
 > *It's raining, but at least it's warm.*
 
+**Phrases & Expressions:**
+- **immerhin ein Anfang** — *at least; after all*
+- **immerhin besser** — *at least; after all*
+- **immerhin noch** — *at least; after all*
+- **immerhin habe ich** — *at least; after all*
+
 **Collocations**
 - immerhin ein Anfang
 - immerhin besser

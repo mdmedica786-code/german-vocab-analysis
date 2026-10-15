@@ -33,6 +33,11 @@ status: "new"
 > Eine gesunde Lebensweise schützt vor vielen Krankheiten.
 > *A healthy way of life protects against many illnesses.*
 
+**Phrases & Expressions:**
+- **eine gesunde Lebensweise** — *way of life; lifestyle*
+- **die Lebensweise ändern** — *way of life; lifestyle*
+- **eine nachhaltige Lebensweise** — *way of life; lifestyle*
+
 **Collocations**
 - eine gesunde Lebensweise
 - die Lebensweise ändern

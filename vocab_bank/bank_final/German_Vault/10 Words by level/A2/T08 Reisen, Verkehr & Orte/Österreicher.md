@@ -34,6 +34,9 @@ status: "new"
 > Mein Nachbar ist Österreicher.
 > *My neighbour is Austrian.*
 
+**Phrases & Expressions:**
+- **Mein Nachbar ist Österreicher** — *My neighbour is Austrian* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Beschäftigten fordern eine Lohnerhöhung von fünf Prozent.
 > *The employees demand a pay rise of five per cent.*
 
+**Phrases & Expressions:**
+- **eine Lohnerhöhung fordern** — *pay rise (wages)*
+- **Lohnerhöhung erhalten** — *pay rise (wages)*
+- **Lohnerhöhung von + Dat.** — *pay rise (wages)*
+
 **Collocations**
 - eine Lohnerhöhung fordern
 - Lohnerhöhung erhalten

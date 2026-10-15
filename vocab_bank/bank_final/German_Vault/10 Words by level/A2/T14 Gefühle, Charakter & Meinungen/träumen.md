@@ -34,6 +34,9 @@ status: "new"
 > Ich habe schlecht geträumt.
 > *I had a bad dream.*
 
+**Phrases & Expressions:**
+- **Ich habe schlecht geträumt** — *I had a bad dream* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!) · Goethe word list A2
 <!-- bank:end -->
 

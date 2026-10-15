@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Seine schulischen Leistungen sind gut.
 > *His school performance is good.*
+
+**Phrases & Expressions:**
+- **Seine schulischen Leistungen sind gut** — *His school performance is good* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

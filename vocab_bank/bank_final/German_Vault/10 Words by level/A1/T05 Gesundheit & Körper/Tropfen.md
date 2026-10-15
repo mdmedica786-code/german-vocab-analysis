@@ -35,6 +35,9 @@ status: "new"
 > Hast du die Tropfen schon genommen?
 > *Have you taken the drops yet?*
 
+**Phrases & Expressions:**
+- **Hast du die Tropfen schon genommen** — *Have you taken the drops yet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 11a ÜB (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

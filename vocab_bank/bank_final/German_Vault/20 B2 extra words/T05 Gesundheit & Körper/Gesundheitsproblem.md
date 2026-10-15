@@ -33,6 +33,11 @@ status: "new"
 > Er hat seit Jahren Gesundheitsprobleme.
 > *He has had health problems for years.*
 
+**Phrases & Expressions:**
+- **ein ernstes Gesundheitsproblem** — *health problem*
+- **Gesundheitsprobleme haben** — *health problem*
+- **Gesundheitsprobleme vermeiden** — *health problem*
+
 **Collocations**
 - ein ernstes Gesundheitsproblem
 - Gesundheitsprobleme haben

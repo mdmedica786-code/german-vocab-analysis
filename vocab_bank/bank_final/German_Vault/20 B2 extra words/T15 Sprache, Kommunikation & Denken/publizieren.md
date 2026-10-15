@@ -31,6 +31,11 @@ status: "new"
 > Sie publiziert regelmäßig in Fachzeitschriften.
 > *She publishes regularly in specialist journals.*
 
+**Phrases & Expressions:**
+- **einen Artikel publizieren** — *to publish*
+- **in einer Zeitschrift publizieren** — *to publish*
+- **Ergebnisse publizieren** — *to publish*
+
 **Collocations**
 - einen Artikel publizieren
 - in einer Zeitschrift publizieren

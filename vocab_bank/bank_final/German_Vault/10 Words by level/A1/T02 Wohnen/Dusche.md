@@ -35,6 +35,9 @@ status: "new"
 > Unsere Wohnung hat nur eine Dusche.
 > *Our flat only has a shower.*
 
+**Phrases & Expressions:**
+- **Unsere Wohnung hat nur eine Dusche** — *Our flat only has a shower* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3c (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

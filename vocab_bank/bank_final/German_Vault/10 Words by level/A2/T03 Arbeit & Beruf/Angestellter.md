@@ -34,6 +34,9 @@ status: "new"
 > Der Angestellte arbeitet im Büro.
 > *The employee works in the office.*
 
+**Phrases & Expressions:**
+- **Der Angestellte arbeitet im Büro** — *The employee works in the office* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

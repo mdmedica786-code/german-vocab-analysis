@@ -31,6 +31,9 @@ status: "new"
 > Beim Kleiderkauf achte ich auf die Qualität.
 > *When buying clothes I pay attention to quality.*
 
+**Phrases & Expressions:**
+- **Beim Kleiderkauf achte ich auf die Qualität** — *When buying clothes I pay attention to quality* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12c (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

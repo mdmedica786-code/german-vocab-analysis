@@ -36,6 +36,9 @@ status: "new"
 > Sie ist Rentnerin.
 > **
 
+**Phrases & Expressions:**
+- **Sie ist Rentnerin** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 1b (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

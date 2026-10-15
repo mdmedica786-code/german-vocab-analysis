@@ -26,6 +26,10 @@ status: "new"
 > Sie müssen beim Amt einen Antrag stellen.
 > *You have to submit an application at the office.*
 
+**Phrases & Expressions:**
+- **einen Antrag stellen auf + Akk.** — *to submit an application*
+- **einen Antrag einreichen** — *to submit an application*
+
 **Collocations**
 - einen Antrag stellen auf + Akk.
 - einen Antrag einreichen

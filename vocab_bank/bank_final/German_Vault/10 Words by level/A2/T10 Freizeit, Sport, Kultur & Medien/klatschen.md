@@ -32,6 +32,9 @@ status: "new"
 > Nach dem Konzert klatscht das Publikum lange.
 > *After the concert the audience applauds for a long time.*
 
+**Phrases & Expressions:**
+- **Nach dem Konzert klatscht das Publikum lange** — *After the concert the audience applauds for a long time* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 11c (Ganz schön mobil)
 <!-- bank:end -->
 

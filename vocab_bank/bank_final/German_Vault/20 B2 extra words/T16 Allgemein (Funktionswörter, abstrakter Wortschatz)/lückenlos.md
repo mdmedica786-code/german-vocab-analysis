@@ -29,6 +29,12 @@ status: "new"
 > Die Polizei verlangt einen lückenlosen Nachweis.
 > *The police demand complete proof.*
 
+**Phrases & Expressions:**
+- **Bitte dokumentieren Sie Uhrzeit, Medikation und Maßnahmen lückenlos.** — Please document time, medication and measures without gaps. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Dokumentation]] · C1)*
+- **lückenlos dokumentieren** — *complete; gapless*
+- **ein lückenloser Lebenslauf** — *complete; gapless*
+- **lückenlos aufklären** — *complete; gapless*
+
 **Collocations**
 - lückenlos dokumentieren
 - ein lückenloser Lebenslauf

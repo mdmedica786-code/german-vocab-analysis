@@ -34,6 +34,9 @@ status: "new"
 > Im Alltag gibt es oft viel Hektik.
 > *In everyday life there is often a lot of rush.*
 
+**Phrases & Expressions:**
+- **Im Alltag gibt es oft viel Hektik** — *In everyday life there is often a lot of rush* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

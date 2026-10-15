@@ -29,6 +29,11 @@ status: "new"
 > Der Morgen war frostig und klar.
 > *The morning was frosty and clear.*
 
+**Phrases & Expressions:**
+- **frostige Temperaturen** — *frosty; chilly*
+- **ein frostiger Empfang** — *frosty; chilly*
+- **frostig kalt** — *frosty; chilly*
+
 **Collocations**
 - frostige Temperaturen
 - ein frostiger Empfang

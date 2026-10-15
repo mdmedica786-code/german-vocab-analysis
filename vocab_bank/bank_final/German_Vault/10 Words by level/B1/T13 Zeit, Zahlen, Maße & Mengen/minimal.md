@@ -31,6 +31,9 @@ status: "new"
 > Da ist nur ein minimaler Unterschied.
 > *There is only a minimal difference.*
 
+**Phrases & Expressions:**
+- **Da ist nur ein minimaler Unterschied** — *There is only a minimal difference* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 1b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

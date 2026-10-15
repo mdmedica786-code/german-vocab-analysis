@@ -30,6 +30,9 @@ status: "new"
 > Der Reporter bleibt neutral.
 > *The reporter remains neutral.*
 
+**Phrases & Expressions:**
+- **Der Reporter bleibt neutral** — *The reporter remains neutral* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 9c (Arbeitsalltag)
 <!-- bank:end -->
 

@@ -31,6 +31,12 @@ status: "new"
 > Dieses Spiel ist nicht für Kinder unter drei Jahren geeignet.
 > *This game is not suitable for children under three.*
 
+**Phrases & Expressions:**
+- **für etwas geeignet sein** — *suitable*
+- **gut geeignet** — *suitable*
+- **nicht geeignet** — *suitable*
+- **als geeignet erscheinen** — *suitable*
+
 **Collocations**
 - für etwas geeignet sein
 - gut geeignet

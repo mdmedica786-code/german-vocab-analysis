@@ -34,6 +34,9 @@ status: "new"
 > Sie spricht Deutsch mit einem leichten Akzent.
 > *She speaks German with a slight accent.*
 
+**Phrases & Expressions:**
+- **Sie spricht Deutsch mit einem leichten Akzent** — *She speaks German with a slight accent* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 9b (Zusammen leben)
 <!-- bank:end -->
 

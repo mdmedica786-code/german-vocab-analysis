@@ -33,6 +33,11 @@ status: "new"
 > An der Nordsee isst man gern Matjeshering.
 > *On the North Sea coast people like to eat Matjes herring.*
 
+**Phrases & Expressions:**
+- **ein Hering im Brötchen** — *herring*
+- **eingelegter Hering** — *herring*
+- **Heringe räuchern** — *herring*
+
 **Collocations**
 - ein Hering im Brötchen
 - eingelegter Hering

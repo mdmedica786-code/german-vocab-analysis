@@ -34,6 +34,9 @@ status: "new"
 > „Der“ ist in diesem Satz ein Relativpronomen.
 > *"Der" is a relative pronoun in this sentence.*
 
+**Phrases & Expressions:**
+- **„Der“ ist in diesem Satz ein Relativpronomen** — *"Der" is a relative pronoun in this sentence* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7d (Gute Unterhaltung!)
 <!-- bank:end -->
 

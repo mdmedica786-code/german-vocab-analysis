@@ -35,6 +35,11 @@ status: "new"
 > Die Post ist in der Nähe vom Bahnhof.
 > *The post office is near the station.*
 
+**Phrases & Expressions:**
+- **in der Nähe** — nearby; close by *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **in der Nähe von ...** — near ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **ganz in der Nähe** — very close by *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+
 **Source:** Netzwerk neu A1 K9 3c (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

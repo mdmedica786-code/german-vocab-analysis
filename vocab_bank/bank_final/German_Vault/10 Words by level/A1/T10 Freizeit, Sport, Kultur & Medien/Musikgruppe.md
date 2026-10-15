@@ -34,6 +34,9 @@ status: "new"
 > Meine Musikgruppe spielt jeden Freitag.
 > *My music group plays every Friday.*
 
+**Phrases & Expressions:**
+- **Meine Musikgruppe spielt jeden Freitag** — *My music group plays every Friday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 7a (Arbeitsalltag)
 <!-- bank:end -->
 

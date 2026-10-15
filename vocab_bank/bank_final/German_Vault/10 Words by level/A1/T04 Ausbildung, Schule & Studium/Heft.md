@@ -35,6 +35,9 @@ status: "new"
 > Hast du dein Heft dabei?
 > *Do you have your exercise book with you?*
 
+**Phrases & Expressions:**
+- **Hast du dein Heft dabei** — *Do you have your exercise book with you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 11b (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

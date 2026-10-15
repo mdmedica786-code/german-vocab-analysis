@@ -31,6 +31,9 @@ status: "new"
 > Geh nicht mit den nassen Schuhen ins Wohnzimmer!
 > *Don't go into the living room with wet shoes!*
 
+**Phrases & Expressions:**
+- **Geh nicht mit den nassen Schuhen ins Wohnzimmer** — *Don't go into the living room with wet shoes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1b (Zusammen leben) · Goethe word list A2
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Mein Bruder hat große Pläne. Er will Karriere machen.
 > *My brother has big plans. He wants to make a career.*
 
+**Phrases & Expressions:**
+- **Mein Bruder hat große Pläne. Er will Karriere machen** — *My brother has big plans. He wants to make a career* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 2a (Studium und Beruf) · Goethe word list B1
 <!-- bank:end -->
 

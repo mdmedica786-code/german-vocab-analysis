@@ -29,6 +29,11 @@ status: "new"
 > Das Wetter war entsetzlich.
 > *The weather was dreadful.*
 
+**Phrases & Expressions:**
+- **entsetzlich aussehen** — *terrible; dreadful; appalling*
+- **ein entsetzlicher Unfall** — *terrible; dreadful; appalling*
+- **entsetzlich müde** — *terrible; dreadful; appalling*
+
 **Collocations**
 - entsetzlich aussehen
 - ein entsetzlicher Unfall

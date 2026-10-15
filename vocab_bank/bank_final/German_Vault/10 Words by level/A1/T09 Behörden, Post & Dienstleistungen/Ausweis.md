@@ -35,6 +35,9 @@ status: "new"
 > Hier ist mein Ausweis.
 > *Here is my ID.*
 
+**Phrases & Expressions:**
+- **Hier ist mein Ausweis** — *Here is my ID* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 3a ÜB (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

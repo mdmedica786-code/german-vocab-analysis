@@ -31,6 +31,9 @@ status: "new"
 > Tagsüber arbeite ich, abends gehe ich zum Sport.
 > *During the day I work, in the evening I go to the gym.*
 
+**Phrases & Expressions:**
+- **Tagsüber arbeite ich, abends gehe ich zum Sport** — *During the day I work, in the evening I go to the gym* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3a (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

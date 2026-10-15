@@ -29,6 +29,11 @@ status: "new"
 > Mein Großvater war ein genügsamer Mensch.
 > *My grandfather was a frugal person.*
 
+**Phrases & Expressions:**
+- **genügsam leben** — *frugal; undemanding*
+- **ein genügsamer Mensch** — *frugal; undemanding*
+- **genügsam sein** — *frugal; undemanding*
+
 **Collocations**
 - genügsam leben
 - ein genügsamer Mensch

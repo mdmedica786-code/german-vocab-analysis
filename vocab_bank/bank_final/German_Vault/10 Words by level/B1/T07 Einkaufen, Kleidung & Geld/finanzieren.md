@@ -33,6 +33,9 @@ status: "new"
 > Ich weiß nicht, wie ich das Auto finanzieren soll.
 > *I do not know how I am supposed to finance the car.*
 
+**Phrases & Expressions:**
+- **Ich weiß nicht, wie ich das Auto finanzieren soll** — *I do not know how I am supposed to finance the car* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7b (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

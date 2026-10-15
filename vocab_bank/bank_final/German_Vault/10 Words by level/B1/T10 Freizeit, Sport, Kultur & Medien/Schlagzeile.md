@@ -34,6 +34,9 @@ status: "new"
 > Die Schlagzeile steht auf der ersten Seite.
 > *The headline is on the front page.*
 
+**Phrases & Expressions:**
+- **Die Schlagzeile steht auf der ersten Seite** — *The headline is on the front page* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Bankangestellte erklärt mir das Konto.
 > *The bank employee explains the account to me.*
 
+**Phrases & Expressions:**
+- **Die Bankangestellte erklärt mir das Konto** — *The bank employee explains the account to me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3e (Geld regiert die Welt?)
 <!-- bank:end -->
 

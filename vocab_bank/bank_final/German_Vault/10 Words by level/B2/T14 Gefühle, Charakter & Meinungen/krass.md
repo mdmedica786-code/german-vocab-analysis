@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Der Film war echt krass.
 > *The film was really extreme.*
+
+**Phrases & Expressions:**
+- **Der Film war echt krass** — *The film was really extreme* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

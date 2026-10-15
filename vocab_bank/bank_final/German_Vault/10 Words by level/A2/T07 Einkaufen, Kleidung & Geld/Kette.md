@@ -35,6 +35,9 @@ status: "new"
 > Meine Mutter bekommt eine schöne Kette zum Geburtstag.
 > *My mother is getting a beautiful necklace for her birthday.*
 
+**Phrases & Expressions:**
+- **Meine Mutter bekommt eine schöne Kette zum Geburtstag** — *My mother is getting a beautiful necklace for her birthday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 2b (Sportlich, sportlich) · Goethe word list A2
 <!-- bank:end -->
 

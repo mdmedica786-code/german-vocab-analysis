@@ -35,6 +35,9 @@ status: "new"
 > Die Wohnung hat auch einen kleinen Balkon.
 > *The flat also has a small balcony.*
 
+**Phrases & Expressions:**
+- **Die Wohnung hat auch einen kleinen Balkon** — *The flat also has a small balcony* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

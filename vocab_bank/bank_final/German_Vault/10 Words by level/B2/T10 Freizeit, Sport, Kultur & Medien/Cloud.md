@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Meine Fotos sind in der Cloud gespeichert.
 > *My photos are stored in the cloud.*
+
+**Phrases & Expressions:**
+- **Meine Fotos sind in der Cloud gespeichert** — *My photos are stored in the cloud* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

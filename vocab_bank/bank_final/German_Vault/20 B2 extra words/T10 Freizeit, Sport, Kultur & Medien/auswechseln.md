@@ -32,6 +32,11 @@ status: "new"
 > Der Trainer hat den Stürmer ausgewechselt.
 > *The coach substituted the striker.*
 
+**Phrases & Expressions:**
+- **einen Spieler auswechseln** — *to replace; to substitute*
+- **ein Teil auswechseln** — *to replace; to substitute*
+- **die Batterie auswechseln** — *to replace; to substitute*
+
 **Collocations**
 - einen Spieler auswechseln
 - ein Teil auswechseln

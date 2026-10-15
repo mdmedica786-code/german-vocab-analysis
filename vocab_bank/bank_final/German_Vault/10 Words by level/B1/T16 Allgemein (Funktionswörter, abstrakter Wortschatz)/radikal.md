@@ -30,6 +30,9 @@ status: "new"
 > Die Firma plant radikale Änderungen.
 > *The company is planning radical changes.*
 
+**Phrases & Expressions:**
+- **Die Firma plant radikale Änderungen** — *The company is planning radical changes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

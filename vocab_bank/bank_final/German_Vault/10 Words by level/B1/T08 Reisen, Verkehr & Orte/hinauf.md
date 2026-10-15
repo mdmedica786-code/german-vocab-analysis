@@ -30,6 +30,9 @@ status: "new"
 > Wir gehen den Berg hinauf.
 > *We are walking up the mountain.*
 
+**Phrases & Expressions:**
+- **Wir gehen den Berg hinauf** — *We are walking up the mountain* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 1b (Kunststücke)
 <!-- bank:end -->
 

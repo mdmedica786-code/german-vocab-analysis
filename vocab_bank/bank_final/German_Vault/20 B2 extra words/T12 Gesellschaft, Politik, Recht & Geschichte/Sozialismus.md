@@ -33,6 +33,11 @@ status: "new"
 > Der Sozialismus wurde in der DDR eingeführt.
 > *Socialism was introduced in the GDR.*
 
+**Phrases & Expressions:**
+- **der real existierende Sozialismus** — *socialism*
+- **Sozialismus und Kapitalismus** — *socialism*
+- **das Ende des Sozialismus** — *socialism*
+
 **Collocations**
 - der real existierende Sozialismus
 - Sozialismus und Kapitalismus

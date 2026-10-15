@@ -32,6 +32,11 @@ status: "new"
 > Er lässt sich von den Drohungen nicht einschüchtern.
 > *He will not be intimidated by the threats.*
 
+**Phrases & Expressions:**
+- **jemanden einschüchtern** — *to intimidate*
+- **sich einschüchtern lassen** — *to intimidate*
+- **eingeschüchtert sein** — *to intimidate*
+
 **Collocations**
 - jemanden einschüchtern
 - sich einschüchtern lassen

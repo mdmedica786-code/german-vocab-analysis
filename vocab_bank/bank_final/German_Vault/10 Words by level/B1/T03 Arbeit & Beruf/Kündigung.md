@@ -34,6 +34,9 @@ status: "new"
 > Ich habe die Kündigung bekommen.
 > *I have received my notice.*
 
+**Phrases & Expressions:**
+- **Ich habe die Kündigung bekommen** — *I have received my notice* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

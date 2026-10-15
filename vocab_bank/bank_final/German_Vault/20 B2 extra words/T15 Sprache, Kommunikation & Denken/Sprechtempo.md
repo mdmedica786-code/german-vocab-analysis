@@ -33,6 +33,11 @@ status: "new"
 > Ihr Sprechtempo ist für mich zu schnell.
 > *Her speaking speed is too fast for me.*
 
+**Phrases & Expressions:**
+- **das Sprechtempo verlangsamen** — *speaking speed; speech rate*
+- **ein schnelles Sprechtempo** — *speaking speed; speech rate*
+- **im normalen Sprechtempo** — *speaking speed; speech rate*
+
 **Collocations**
 - das Sprechtempo verlangsamen
 - ein schnelles Sprechtempo

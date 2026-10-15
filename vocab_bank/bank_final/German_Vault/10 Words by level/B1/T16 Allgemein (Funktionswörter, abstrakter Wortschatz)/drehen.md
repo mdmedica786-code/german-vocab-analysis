@@ -33,6 +33,13 @@ status: "new"
 > Drehen Sie zum Einschalten den Schalter nach rechts.
 > *To switch it on, turn the switch to the right.*
 
+**Phrases & Expressions:**
+- **Drehen Sie sich bitte auf die linke Seite.** — Please turn onto your left side. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Lagerung]] · B1)*
+- **den Schalter drehen** — *to turn*
+- **einen Film drehen** — *to turn*
+- **sich im Kreis drehen** — *to turn*
+- **am Rad drehen** — *to turn*
+
 **Collocations**
 - den Schalter drehen
 - einen Film drehen

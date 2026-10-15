@@ -33,6 +33,11 @@ status: "new"
 > Die Gesetzesänderung tritt im Sommer in Kraft.
 > *The amendment to the law comes into force in summer.*
 
+**Phrases & Expressions:**
+- **eine Gesetzesänderung beschließen** — *amendment of a law*
+- **geplante Gesetzesänderung** — *amendment of a law*
+- **Gesetzesänderung fordern** — *amendment of a law*
+
 **Collocations**
 - eine Gesetzesänderung beschließen
 - geplante Gesetzesänderung

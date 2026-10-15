@@ -29,6 +29,10 @@ status: "new"
 > Bei der Entscheidung fiel der Preis stark ins Gewicht.
 > *The price carried a lot of weight in the decision.*
 
+**Phrases & Expressions:**
+- **stark ins Gewicht fallen** — *to carry weight; to matter*
+- **nicht ins Gewicht fallen** — *to carry weight; to matter*
+
 **Collocations**
 - stark ins Gewicht fallen
 - nicht ins Gewicht fallen

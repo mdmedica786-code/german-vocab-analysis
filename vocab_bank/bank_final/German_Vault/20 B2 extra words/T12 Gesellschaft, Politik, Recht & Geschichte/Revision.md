@@ -33,6 +33,11 @@ status: "new"
 > Der Anwalt legte Revision gegen das Urteil ein.
 > *The lawyer appealed against the verdict.*
 
+**Phrases & Expressions:**
+- **Revision einlegen** — *revision; appeal; audit*
+- **eine Revision durchführen** — *revision; appeal; audit*
+- **die Revision des Urteils** — *revision; appeal; audit*
+
 **Collocations**
 - Revision einlegen
 - eine Revision durchführen

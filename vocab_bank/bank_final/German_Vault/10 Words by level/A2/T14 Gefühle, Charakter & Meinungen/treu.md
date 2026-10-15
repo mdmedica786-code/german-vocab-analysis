@@ -31,6 +31,9 @@ status: "new"
 > Herr Maier ist ein treuer Kunde von uns.
 > *Mr Maier is a loyal customer of ours.*
 
+**Phrases & Expressions:**
+- **Herr Maier ist ein treuer Kunde von uns** — *Mr Maier is a loyal customer of ours* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 5a (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

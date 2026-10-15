@@ -35,6 +35,11 @@ status: "new"
 > Freitags arbeite ich nur bis zwölf Uhr.
 > *On Fridays I only work until twelve.*
 
+**Phrases & Expressions:**
+- **Passt es dir am Freitag um 18 Uhr?** — Does Friday at 6 p.m. suit you? *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Termin vorschlagen]] · B1)*
+- **Dann bleibt es also bei Freitag um 18 Uhr.** — So it stays at Friday at 6 p.m. *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Termin bestätigen]] · B1)*
+- **Wir machen am Freitag eine Party. Kommst du auch?** — We're having a party on Friday. Are you coming too? *([[B1-18 Einladen, zusagen und absagen|Einladen]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 4a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Im Gemeinschaftsgarten bauen die Nachbarn Gemüse an.
 > *In the community garden the neighbours grow vegetables.*
 
+**Phrases & Expressions:**
+- **im Gemeinschaftsgarten arbeiten** — *community garden*
+- **einen Gemeinschaftsgarten anlegen** — *community garden*
+- **ein städtischer Gemeinschaftsgarten** — *community garden*
+
 **Collocations**
 - im Gemeinschaftsgarten arbeiten
 - einen Gemeinschaftsgarten anlegen

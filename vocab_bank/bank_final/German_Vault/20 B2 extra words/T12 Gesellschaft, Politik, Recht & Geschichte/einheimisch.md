@@ -29,6 +29,11 @@ status: "new"
 > Die einheimische Bevölkerung half den Touristen.
 > *The local population helped the tourists.*
 
+**Phrases & Expressions:**
+- **die einheimische Bevölkerung** — *local; native*
+- **einheimische Produkte** — *local; native*
+- **die Einheimischen** — *local; native*
+
 **Collocations**
 - die einheimische Bevölkerung
 - einheimische Produkte

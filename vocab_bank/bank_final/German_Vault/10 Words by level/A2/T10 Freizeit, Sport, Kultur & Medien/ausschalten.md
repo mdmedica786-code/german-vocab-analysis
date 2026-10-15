@@ -33,6 +33,9 @@ status: "new"
 > Schalte bitte den Fernseher aus.
 > *Please switch off the television.*
 
+**Phrases & Expressions:**
+- **Schalte bitte den Fernseher aus** — *Please switch off the television* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 5b (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

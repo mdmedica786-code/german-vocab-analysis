@@ -34,6 +34,9 @@ status: "new"
 > Der Favorit hat das Rennen gewonnen.
 > *The favourite won the race.*
 
+**Phrases & Expressions:**
+- **Der Favorit hat das Rennen gewonnen** — *The favourite won the race* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

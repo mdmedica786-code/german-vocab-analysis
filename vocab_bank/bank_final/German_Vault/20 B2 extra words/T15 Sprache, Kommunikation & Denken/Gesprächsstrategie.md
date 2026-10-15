@@ -30,6 +30,11 @@ status: "new"
 > Mit einer guten Gesprächsstrategie vermeidet man Missverständnisse.
 > *With a good conversation strategy you avoid misunderstandings.*
 
+**Phrases & Expressions:**
+- **eine Gesprächsstrategie entwickeln** — *conversation strategy*
+- **Gesprächsstrategien üben** — *conversation strategy*
+- **eine bewährte Gesprächsstrategie** — *conversation strategy*
+
 **Collocations**
 - eine Gesprächsstrategie entwickeln
 - Gesprächsstrategien üben

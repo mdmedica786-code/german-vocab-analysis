@@ -29,6 +29,9 @@ status: "new"
 > Wir hatten uns zuvor noch nie gesehen.
 > *We had never seen each other before.*
 
+**Phrases & Expressions:**
+- **Wir hatten uns zuvor noch nie gesehen** — *We had never seen each other before* *(Beispiel im Kontext)*
+
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->
 

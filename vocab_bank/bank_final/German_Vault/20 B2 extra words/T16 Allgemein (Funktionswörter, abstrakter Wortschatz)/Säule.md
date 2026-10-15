@@ -33,6 +33,11 @@ status: "new"
 > Das Dach wird von vier Säulen getragen.
 > *The roof is supported by four columns.*
 
+**Phrases & Expressions:**
+- **eine tragende Säule** — *column; pillar*
+- **die zweite Säule** — *column; pillar*
+- **die Säulen des Systems** — *column; pillar*
+
 **Collocations**
 - eine tragende Säule
 - die zweite Säule

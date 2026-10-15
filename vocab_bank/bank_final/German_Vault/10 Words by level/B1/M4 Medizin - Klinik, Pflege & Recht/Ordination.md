@@ -42,6 +42,9 @@ status: "new"
 > Die Ordination bleibt bis zum 7. Jänner geschlossen.
 > *The surgery stays closed until 7 January.*
 
+**Phrases & Expressions:**
+- **Die Ordination bleibt bis zum 7. Jänner geschlossen** — *The surgery stays closed until 7 January* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

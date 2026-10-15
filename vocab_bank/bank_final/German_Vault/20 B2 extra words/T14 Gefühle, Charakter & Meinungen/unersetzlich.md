@@ -26,6 +26,11 @@ status: "new"
 > Als Mitarbeiterin ist sie für die Firma unersetzlich.
 > *As an employee she is irreplaceable for the company.*
 
+**Phrases & Expressions:**
+- **unersetzlich sein** — *irreplaceable*
+- **ein unersetzlicher Verlust** — *irreplaceable*
+- **sich für unersetzlich halten** — *irreplaceable*
+
 **Collocations**
 - unersetzlich sein
 - ein unersetzlicher Verlust

@@ -33,6 +33,11 @@ status: "new"
 > Die Dolmetscherin übersetzt das Gespräch simultan.
 > *The interpreter translates the conversation simultaneously.*
 
+**Phrases & Expressions:**
+- **eine Dolmetscherin engagieren** — *interpreter (female)*
+- **als Dolmetscherin arbeiten** — *interpreter (female)*
+- **die Dolmetscherin bestellen** — *interpreter (female)*
+
 **Collocations**
 - eine Dolmetscherin engagieren
 - als Dolmetscherin arbeiten

@@ -33,6 +33,11 @@ status: "new"
 > Er studiert Maschinenbau an einer Fachhochschule.
 > *He studies mechanical engineering at a university of applied sciences.*
 
+**Phrases & Expressions:**
+- **an der Fachhochschule studieren** — *university of applied sciences*
+- **die Fachhochschulreife** — *university of applied sciences*
+- **Fachhochschule für Technik** — *university of applied sciences*
+
 **Collocations**
 - an der Fachhochschule studieren
 - die Fachhochschulreife

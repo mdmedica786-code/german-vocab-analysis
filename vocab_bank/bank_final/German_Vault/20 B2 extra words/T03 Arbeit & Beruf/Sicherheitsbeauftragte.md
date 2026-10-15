@@ -33,6 +33,11 @@ status: "new"
 > Der Sicherheitsbeauftragte kontrolliert die Notausgänge.
 > *The safety officer checks the emergency exits.*
 
+**Phrases & Expressions:**
+- **ein Sicherheitsbeauftragter** — *safety officer*
+- **die Sicherheitsbeauftragte der Firma** — *safety officer*
+- **Sicherheitsbeauftragte benennen** — *safety officer*
+
 **Collocations**
 - ein Sicherheitsbeauftragter
 - die Sicherheitsbeauftragte der Firma

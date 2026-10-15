@@ -34,6 +34,9 @@ status: "new"
 > Die Helferin bringt den Kaffee.
 > *The helper brings the coffee.*
 
+**Phrases & Expressions:**
+- **Die Helferin bringt den Kaffee** — *The helper brings the coffee* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Er trägt die Last der Verantwortung allein.
 > *He bears the burden of responsibility alone.*
 
+**Phrases & Expressions:**
+- **eine schwere Last** — *load; burden*
+- **zu Lasten von** — *load; burden*
+- **Lasten tragen** — *load; burden*
+
 **Collocations**
 - eine schwere Last
 - zu Lasten von

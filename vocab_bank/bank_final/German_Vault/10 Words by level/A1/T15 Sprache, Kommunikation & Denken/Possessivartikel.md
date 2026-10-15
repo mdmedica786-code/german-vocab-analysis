@@ -34,6 +34,9 @@ status: "new"
 > „Mein“ ist ein Possessivartikel.
 > *“Mein” is a possessive article.*
 
+**Phrases & Expressions:**
+- **„Mein“ ist ein Possessivartikel** — *“Mein” is a possessive article* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 8a (Alltag und Familie)
 <!-- bank:end -->
 

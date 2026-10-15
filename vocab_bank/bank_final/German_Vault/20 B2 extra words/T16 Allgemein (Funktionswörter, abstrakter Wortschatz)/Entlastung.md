@@ -33,6 +33,11 @@ status: "new"
 > Die neue Software bringt eine Entlastung der Mitarbeiter.
 > *The new software brings relief for the employees.*
 
+**Phrases & Expressions:**
+- **zur Entlastung** — *relief; easing of the burden*
+- **steuerliche Entlastung** — *relief; easing of the burden*
+- **Entlastung bringen** — *relief; easing of the burden*
+
 **Collocations**
 - zur Entlastung
 - steuerliche Entlastung

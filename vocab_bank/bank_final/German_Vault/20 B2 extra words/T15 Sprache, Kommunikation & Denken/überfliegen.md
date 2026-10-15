@@ -31,6 +31,11 @@ status: "new"
 > Ich überfliege den Artikel nur kurz.
 > *I am just skimming the article briefly.*
 
+**Phrases & Expressions:**
+- **einen Text überfliegen** — *to skim (a text); to fly over*
+- **die Zeilen überfliegen** — *to skim (a text); to fly over*
+- **ein Gebiet überfliegen** — *to skim (a text); to fly over*
+
 **Collocations**
 - einen Text überfliegen
 - die Zeilen überfliegen

@@ -34,6 +34,9 @@ status: "new"
 > Eine Wohngemeinschaft ist eine beliebte Wohnform.
 > *A shared flat is a popular form of housing.*
 
+**Phrases & Expressions:**
+- **Eine Wohngemeinschaft ist eine beliebte Wohnform** — *A shared flat is a popular form of housing* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 10c (Meine Wohnung)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Dorfplatz steht eine alte Linde.
 > *An old lime tree stands in the village square.*
 
+**Phrases & Expressions:**
+- **Lindenblütentee** — *lime tree; linden*
+- **unter der Linde** — *lime tree; linden*
+- **eine Dorflinde** — *lime tree; linden*
+
 **Collocations**
 - Lindenblütentee
 - unter der Linde

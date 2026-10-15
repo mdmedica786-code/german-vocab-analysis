@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Arbeitsgruppe trifft sich jeden Montag.
 > *The working group meets every Monday.*
+
+**Phrases & Expressions:**
+- **Die Arbeitsgruppe trifft sich jeden Montag** — *The working group meets every Monday* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

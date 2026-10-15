@@ -35,6 +35,9 @@ status: "new"
 > Von den scharfen Gewürzen bekommt man Durst.
 > *You get thirsty from hot spices.*
 
+**Phrases & Expressions:**
+- **Von den scharfen Gewürzen bekommt man Durst** — *You get thirsty from hot spices* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

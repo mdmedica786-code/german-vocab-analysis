@@ -35,6 +35,9 @@ status: "new"
 > Ich bin in der Fotografie-AG.
 > *I'm in the photography club.*
 
+**Phrases & Expressions:**
+- **Ich bin in der Fotografie-AG** — *I'm in the photography club* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 5a (Nach der Schulzeit)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Haben Sie einen Brief für mich?
 > *Do you have a letter for me?*
 
+**Phrases & Expressions:**
+- **Haben Sie einen Brief für mich** — *Do you have a letter for me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 7a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

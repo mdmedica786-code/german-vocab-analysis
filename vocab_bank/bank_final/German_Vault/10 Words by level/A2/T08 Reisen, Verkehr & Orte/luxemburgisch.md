@@ -30,6 +30,9 @@ status: "new"
 > Sie spricht luxemburgisch mit ihrer Familie.
 > *She speaks Luxembourgish with her family.*
 
+**Phrases & Expressions:**
+- **Sie spricht luxemburgisch mit ihrer Familie** — *She speaks Luxembourgish with her family* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

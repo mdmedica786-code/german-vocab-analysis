@@ -33,6 +33,11 @@ status: "new"
 > Der Tischler baut uns einen Schrank nach Maß.
 > *The carpenter is building us a made-to-measure wardrobe.*
 
+**Phrases & Expressions:**
+- **beim Tischler bestellen** — *carpenter; joiner*
+- **eine Lehre als Tischler** — *carpenter; joiner*
+- **der Tischler fertigt** — *carpenter; joiner*
+
 **Collocations**
 - beim Tischler bestellen
 - eine Lehre als Tischler

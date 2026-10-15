@@ -33,6 +33,14 @@ status: "new"
 > Sag mal, wie geht es dir denn?
 > *Tell me, how are you doing?*
 
+**Phrases & Expressions:**
+- **sagen, dass ...** — to say that ... *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **... gesagt, dass ...** — said that ... *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **Bescheid sagen** — to let someone know *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **ist zu sagen, dass ...** — it must be said that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **sagen Sie ...** — tell me ... *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **wie gesagt** — as I said *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 7b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

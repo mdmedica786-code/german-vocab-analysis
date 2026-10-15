@@ -33,6 +33,11 @@ status: "new"
 > Auf dieser Straße gilt eine Geschwindigkeitsbegrenzung von 30 km/h.
 > *A speed limit of 30 km/h applies on this road.*
 
+**Phrases & Expressions:**
+- **die Geschwindigkeitsbegrenzung beachten** — *speed limit*
+- **die Geschwindigkeitsbegrenzung überschreiten** — *speed limit*
+- **eine Geschwindigkeitsbegrenzung einführen** — *speed limit*
+
 **Collocations**
 - die Geschwindigkeitsbegrenzung beachten
 - die Geschwindigkeitsbegrenzung überschreiten

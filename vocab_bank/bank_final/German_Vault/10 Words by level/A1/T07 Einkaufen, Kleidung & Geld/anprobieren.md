@@ -33,6 +33,9 @@ status: "new"
 > Darf ich die Jacke anprobieren?
 > *May I try on the jacket?*
 
+**Phrases & Expressions:**
+- **Darf ich die Jacke anprobieren** — *May I try on the jacket* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 8b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

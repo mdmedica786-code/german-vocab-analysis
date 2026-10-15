@@ -30,6 +30,11 @@ status: "new"
 > Für diese Aufgabe brauchen Sie Coachingkompetenz.
 > *For this task you need coaching skills.*
 
+**Phrases & Expressions:**
+- **Coachingkompetenz besitzen** — *coaching skills*
+- **Coachingkompetenz entwickeln** — *coaching skills*
+- **hohe Coachingkompetenz** — *coaching skills*
+
 **Collocations**
 - Coachingkompetenz besitzen
 - Coachingkompetenz entwickeln

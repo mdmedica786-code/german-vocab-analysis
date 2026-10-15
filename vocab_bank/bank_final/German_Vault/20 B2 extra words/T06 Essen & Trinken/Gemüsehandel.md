@@ -30,6 +30,11 @@ status: "new"
 > Sie arbeitet im Gemüsehandel am Großmarkt.
 > *She works in the vegetable trade at the wholesale market.*
 
+**Phrases & Expressions:**
+- **im Gemüsehandel arbeiten** — *vegetable trade; greengrocer's business*
+- **der Gemüsehandel in der Region** — *vegetable trade; greengrocer's business*
+- **im Gemüsehandel tätig sein** — *vegetable trade; greengrocer's business*
+
 **Collocations**
 - im Gemüsehandel arbeiten
 - der Gemüsehandel in der Region

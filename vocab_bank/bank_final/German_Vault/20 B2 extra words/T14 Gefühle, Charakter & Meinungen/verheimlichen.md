@@ -31,6 +31,11 @@ status: "new"
 > Sie hat ihrer Familie die Krankheit verheimlicht.
 > *She concealed the illness from her family.*
 
+**Phrases & Expressions:**
+- **jemandem etwas verheimlichen** — *to conceal; to keep secret*
+- **die Wahrheit verheimlichen** — *to conceal; to keep secret*
+- **nichts zu verheimlichen haben** — *to conceal; to keep secret*
+
 **Collocations**
 - jemandem etwas verheimlichen
 - die Wahrheit verheimlichen

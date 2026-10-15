@@ -33,6 +33,11 @@ status: "new"
 > Die Daten werden in Echtzeit übertragen.
 > *The data is transmitted in real time.*
 
+**Phrases & Expressions:**
+- **in Echtzeit** — *real time*
+- **Echtzeit-Übertragung** — *real time*
+- **in Echtzeit reagieren** — *real time*
+
 **Collocations**
 - in Echtzeit
 - Echtzeit-Übertragung

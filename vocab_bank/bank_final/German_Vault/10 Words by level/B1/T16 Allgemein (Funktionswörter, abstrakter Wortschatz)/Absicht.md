@@ -35,6 +35,9 @@ status: "new"
 > Entschuldigen Sie bitte. Meine Tochter hat das nicht mit Absicht gemacht.
 > *Excuse me, please. My daughter didn't do that on purpose.*
 
+**Phrases & Expressions:**
+- **Das war keine Absicht.** — That wasn't intentional. *([[B1-17 Sich entschuldigen und danken|Sich entschuldigen]] · A2)*
+
 **Source:** Netzwerk neu B1 K4 6d (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

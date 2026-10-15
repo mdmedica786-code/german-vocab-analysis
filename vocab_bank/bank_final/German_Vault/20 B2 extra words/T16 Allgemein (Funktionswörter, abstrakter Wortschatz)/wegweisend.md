@@ -29,6 +29,11 @@ status: "new"
 > Die Studie war für die Forschung wegweisend.
 > *The study was groundbreaking for research.*
 
+**Phrases & Expressions:**
+- **eine wegweisende Entscheidung** — *pioneering; groundbreaking; trend-setting*
+- **wegweisend sein** — *pioneering; groundbreaking; trend-setting*
+- **ein wegweisendes Projekt** — *pioneering; groundbreaking; trend-setting*
+
 **Collocations**
 - eine wegweisende Entscheidung
 - wegweisend sein

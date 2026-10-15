@@ -33,6 +33,12 @@ status: "new"
 > Der Patient steht unter Schock.
 > *The patient is in shock.*
 
+**Phrases & Expressions:**
+- **unter Schock stehen** — *shock*
+- **einen Schock erleiden** — *shock*
+- **anaphylaktischer Schock** — *shock*
+- **einen Schock behandeln** — *shock*
+
 **Collocations**
 - unter Schock stehen
 - einen Schock erleiden

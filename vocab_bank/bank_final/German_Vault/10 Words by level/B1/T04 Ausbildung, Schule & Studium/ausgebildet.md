@@ -30,6 +30,9 @@ status: "new"
 > Für diesen Beruf müssen Sie gut ausgebildet sein.
 > *For this job you have to be well trained.*
 
+**Phrases & Expressions:**
+- **Für diesen Beruf müssen Sie gut ausgebildet sein** — *For this job you have to be well trained* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

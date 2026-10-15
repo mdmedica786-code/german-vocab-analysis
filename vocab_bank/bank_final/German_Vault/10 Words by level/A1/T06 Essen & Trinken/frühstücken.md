@@ -33,6 +33,9 @@ status: "new"
 > Am Sonntag frühstücke ich gern im Bett.
 > *On Sundays I like to have breakfast in bed.*
 
+**Phrases & Expressions:**
+- **Am Sonntag frühstücke ich gern im Bett** — *On Sundays I like to have breakfast in bed* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

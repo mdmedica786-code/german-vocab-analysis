@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Wozu brauchst du das Geld?
 > *What do you need the money for?*
+
+**Phrases & Expressions:**
+- **Wozu brauchst du das Geld** — *What do you need the money for* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

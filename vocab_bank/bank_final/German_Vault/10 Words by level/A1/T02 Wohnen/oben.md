@@ -31,6 +31,10 @@ status: "new"
 > Ich wohne oben.
 > *I live upstairs.*
 
+**Phrases & Expressions:**
+- **nach oben** — upwards; upstairs *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **von oben** — from above *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+
 **Source:** Netzwerk neu A1 K9 1b (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

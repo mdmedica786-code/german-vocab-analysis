@@ -33,6 +33,11 @@ status: "new"
 > Die Barrierefreiheit ist ein wichtiges Thema in der Stadtplanung.
 > *Accessibility is an important topic in urban planning.*
 
+**Phrases & Expressions:**
+- **die Barrierefreiheit gewährleisten** — *accessibility; barrier-free access*
+- **Barrierefreiheit im Internet** — *accessibility; barrier-free access*
+- **für Barrierefreiheit sorgen** — *accessibility; barrier-free access*
+
 **Collocations**
 - die Barrierefreiheit gewährleisten
 - Barrierefreiheit im Internet

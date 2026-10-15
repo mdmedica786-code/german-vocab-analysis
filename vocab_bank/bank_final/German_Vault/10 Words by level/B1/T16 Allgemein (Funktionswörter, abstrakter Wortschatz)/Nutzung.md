@@ -34,6 +34,9 @@ status: "new"
 > Die Nutzung der Bibliothek ist kostenlos.
 > *Use of the library is free of charge.*
 
+**Phrases & Expressions:**
+- **Die Nutzung der Bibliothek ist kostenlos** — *Use of the library is free of charge* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 6b (Das ist ja praktisch!)
 <!-- bank:end -->
 

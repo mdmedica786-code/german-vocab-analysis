@@ -34,6 +34,9 @@ status: "new"
 > Ich verzichte heute auf den Kaffee.
 > *I'm doing without coffee today.*
 
+**Phrases & Expressions:**
+- **Ich verzichte heute auf den Kaffee** — *I'm doing without coffee today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11d (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

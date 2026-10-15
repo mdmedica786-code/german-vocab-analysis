@@ -34,6 +34,9 @@ status: "new"
 > In der Familie herrscht Harmonie.
 > *Harmony reigns in the family.*
 
+**Phrases & Expressions:**
+- **In der Familie herrscht Harmonie** — *Harmony reigns in the family* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 8a (Zwischenmenschliches)
 <!-- bank:end -->
 

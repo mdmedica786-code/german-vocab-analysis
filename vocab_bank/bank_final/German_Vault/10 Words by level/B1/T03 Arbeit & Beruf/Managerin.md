@@ -34,6 +34,9 @@ status: "new"
 > Die Managerin leitet die Abteilung.
 > *The manager heads the department.*
 
+**Phrases & Expressions:**
+- **Die Managerin leitet die Abteilung** — *The manager heads the department* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

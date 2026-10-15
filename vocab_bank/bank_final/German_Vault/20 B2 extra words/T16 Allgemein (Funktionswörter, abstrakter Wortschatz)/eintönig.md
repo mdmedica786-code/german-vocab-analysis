@@ -29,6 +29,11 @@ status: "new"
 > Die Arbeit am Fließband ist eintönig.
 > *Work on the assembly line is monotonous.*
 
+**Phrases & Expressions:**
+- **eine eintönige Arbeit** — *monotonous*
+- **eintönig klingen** — *monotonous*
+- **ein eintöniger Alltag** — *monotonous*
+
 **Collocations**
 - eine eintönige Arbeit
 - eintönig klingen

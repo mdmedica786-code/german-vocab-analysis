@@ -30,6 +30,9 @@ status: "new"
 > Der Film dauert eineinhalb Stunden.
 > *The film lasts an hour and a half.*
 
+**Phrases & Expressions:**
+- **Der Film dauert eineinhalb Stunden** — *The film lasts an hour and a half* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

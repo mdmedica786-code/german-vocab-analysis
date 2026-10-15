@@ -35,6 +35,9 @@ status: "new"
 > Unsere Nachbarin ist Professorin an der Universität.
 > *Our neighbour is a professor at the university.*
 
+**Phrases & Expressions:**
+- **Unsere Nachbarin ist Professorin an der Universität** — *Our neighbour is a professor at the university* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 3a (Studium und Beruf) · Goethe word list B1
 <!-- bank:end -->
 

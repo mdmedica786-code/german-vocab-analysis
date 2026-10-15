@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Umsatz der Firma steigt.
 > *The company's turnover is rising.*
+
+**Phrases & Expressions:**
+- **Der Umsatz der Firma steigt** — *The company's turnover is rising* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

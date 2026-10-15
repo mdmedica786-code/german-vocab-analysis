@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Offizier gab den Befehl zum Rückzug.
 > *The officer gave the order to withdraw.*
+
+**Phrases & Expressions:**
+- **Der Offizier gab den Befehl zum Rückzug** — *The officer gave the order to withdraw* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

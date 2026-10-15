@@ -33,6 +33,11 @@ status: "new"
 > Der Liedermacher spielt Gitarre und singt über Politik.
 > *The singer-songwriter plays guitar and sings about politics.*
 
+**Phrases & Expressions:**
+- **ein bekannter Liedermacher** — *singer-songwriter (male)*
+- **als Liedermacher auftreten** — *singer-songwriter (male)*
+- **ein deutscher Liedermacher** — *singer-songwriter (male)*
+
 **Collocations**
 - ein bekannter Liedermacher
 - als Liedermacher auftreten

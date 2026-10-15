@@ -35,6 +35,9 @@ status: "new"
 > Am Montag ist Feiertag.
 > *Monday is a public holiday.*
 
+**Phrases & Expressions:**
+- **Am Montag ist Feiertag** — *Monday is a public holiday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 5a (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Evolution dauert Millionen von Jahren.
 > *Evolution takes millions of years.*
 
+**Phrases & Expressions:**
+- **die Evolution des Menschen** — *evolution*
+- **Evolution und Schöpfung** — *evolution*
+- **biologische Evolution** — *evolution*
+
 **Collocations**
 - die Evolution des Menschen
 - Evolution und Schöpfung

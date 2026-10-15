@@ -34,6 +34,9 @@ status: "new"
 > Der Kontrast zwischen Tag und Nacht ist hier groß.
 > *The contrast between day and night is big here.*
 
+**Phrases & Expressions:**
+- **Der Kontrast zwischen Tag und Nacht ist hier groß** — *The contrast between day and night is big here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 5b (Sportlich, sportlich)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Meine Frau isst nur Margarine und keine Butter.
 > *My wife only eats margarine and no butter.*
 
+**Phrases & Expressions:**
+- **Meine Frau isst nur Margarine und keine Butter** — *My wife only eats margarine and no butter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

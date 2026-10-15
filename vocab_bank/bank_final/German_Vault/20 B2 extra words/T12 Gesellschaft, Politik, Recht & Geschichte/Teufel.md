@@ -33,6 +33,11 @@ status: "new"
 > Der Teufel steckt oft im Detail.
 > *The devil is often in the detail.*
 
+**Phrases & Expressions:**
+- **zum Teufel** — *devil*
+- **den Teufel an die Wand malen** — *devil*
+- **der Teufel steckt im Detail** — *devil*
+
 **Collocations**
 - zum Teufel
 - den Teufel an die Wand malen

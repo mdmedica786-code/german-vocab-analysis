@@ -34,6 +34,9 @@ status: "new"
 > Wir haben uns an das Leben hier gewöhnt.
 > *We have got used to life here.*
 
+**Phrases & Expressions:**
+- **Wir haben uns an das Leben hier gewöhnt** — *We have got used to life here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle) · Goethe word list B1
 <!-- bank:end -->
 

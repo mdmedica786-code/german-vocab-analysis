@@ -34,6 +34,9 @@ status: "new"
 > Ich habe ein Päckchen für dich bekommen.
 > *I received a small parcel for you.*
 
+**Phrases & Expressions:**
+- **Ich habe ein Päckchen für dich bekommen** — *I received a small parcel for you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 3c (Zusammen leben)
 <!-- bank:end -->
 

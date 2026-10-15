@@ -33,6 +33,11 @@ status: "new"
 > Unter Rückgriff auf alte Daten entstand der Bericht.
 > *The report was written by drawing on old data.*
 
+**Phrases & Expressions:**
+- **der Rückgriff auf** — *recourse; falling back (on)*
+- **unter Rückgriff auf** — *recourse; falling back (on)*
+- **Rückgriff nehmen** — *recourse; falling back (on)*
+
 **Collocations**
 - der Rückgriff auf
 - unter Rückgriff auf

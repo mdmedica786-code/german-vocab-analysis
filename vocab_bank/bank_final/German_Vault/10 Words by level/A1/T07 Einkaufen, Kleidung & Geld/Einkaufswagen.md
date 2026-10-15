@@ -34,6 +34,9 @@ status: "new"
 > Ich brauche einen Einkaufswagen.
 > *I need a shopping trolley.*
 
+**Phrases & Expressions:**
+- **Ich brauche einen Einkaufswagen** — *I need a shopping trolley* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 6a (Guten Appetit!)
 <!-- bank:end -->
 

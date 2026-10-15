@@ -32,6 +32,9 @@ status: "new"
 > Schick das Zeugnis per Mail.
 > *Send the certificate via email.*
 
+**Phrases & Expressions:**
+- **Schick das Zeugnis per Mail** — *Send the certificate via email* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 6d (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Satzung des Vereins regelt die Mitgliedschaft.
 > *The club's statutes regulate membership.*
+
+**Phrases & Expressions:**
+- **Die Satzung des Vereins regelt die Mitgliedschaft** — *The club's statutes regulate membership* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

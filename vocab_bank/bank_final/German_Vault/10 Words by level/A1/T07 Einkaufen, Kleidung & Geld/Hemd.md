@@ -35,6 +35,9 @@ status: "new"
 > Nick trägt heute ein neues Hemd.
 > *Nick is wearing a new shirt today.*
 
+**Phrases & Expressions:**
+- **Nick trägt heute ein neues Hemd** — *Nick is wearing a new shirt today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 1a (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

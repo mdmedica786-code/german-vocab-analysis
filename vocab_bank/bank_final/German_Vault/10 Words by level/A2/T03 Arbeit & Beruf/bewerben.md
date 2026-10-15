@@ -33,6 +33,9 @@ status: "new"
 > Ich möchte mich um diese Stelle bewerben.
 > *I would like to apply for this position.*
 
+**Phrases & Expressions:**
+- **Hiermit bewerbe ich mich um die Stelle als ...** — I hereby apply for the position of ... *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Bewerbung einleiten]] · B2)*
+
 **Source:** Netzwerk neu A2 K5 2a ÜB (Leben in der Stadt) · Goethe word list A2
 <!-- bank:end -->
 

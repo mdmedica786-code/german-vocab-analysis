@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Tisch liegt ein Haufen Papiere.
 > *There is a pile of papers on the table.*
 
+**Phrases & Expressions:**
+- **ein Haufen Arbeit** — *pile; heap*
+- **auf einem Haufen** — *pile; heap*
+- **über den Haufen werfen** — *pile; heap*
+
 **Collocations**
 - ein Haufen Arbeit
 - auf einem Haufen

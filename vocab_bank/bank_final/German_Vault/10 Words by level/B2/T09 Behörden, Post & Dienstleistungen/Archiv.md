@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die alten Akten liegen im Archiv.
 > *The old files are in the archive.*
+
+**Phrases & Expressions:**
+- **Die alten Akten liegen im Archiv** — *The old files are in the archive* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -30,6 +30,11 @@ status: "new"
 > In der Gehaltsverhandlung nannte sie ihre Wunschsumme.
 > *In the salary negotiation she named the amount she wanted.*
 
+**Phrases & Expressions:**
+- **eine Gehaltsverhandlung führen** — *salary negotiation*
+- **in die Gehaltsverhandlung gehen** — *salary negotiation*
+- **erfolgreiche Gehaltsverhandlung** — *salary negotiation*
+
 **Collocations**
 - eine Gehaltsverhandlung führen
 - in die Gehaltsverhandlung gehen

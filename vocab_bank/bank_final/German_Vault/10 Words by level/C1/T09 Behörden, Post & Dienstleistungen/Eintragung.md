@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Eintragung im Register dauert eine Woche.
 > *The entry in the register takes a week.*
+
+**Phrases & Expressions:**
+- **Die Eintragung im Register dauert eine Woche** — *The entry in the register takes a week* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

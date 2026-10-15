@@ -34,6 +34,11 @@ status: "new"
 > Gute Besserung!
 > *Get well soon!*
 
+**Phrases & Expressions:**
+- **gute Besserung** — get well soon *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A1)*
+- **Unter der Therapie kam es zu einer klinischen Besserung.** — Under therapy there was clinical improvement. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Verlauf berichten]] · C1)*
+- **Im weiteren Verlauf kam es zu einer klinischen Besserung.** — In the further course there was clinical improvement. *([[FSP-20 Arztbrief und Dokumentation|Verlauf schildern]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

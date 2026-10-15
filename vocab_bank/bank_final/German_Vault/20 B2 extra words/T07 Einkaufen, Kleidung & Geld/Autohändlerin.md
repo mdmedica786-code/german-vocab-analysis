@@ -33,6 +33,11 @@ status: "new"
 > Die Autohändlerin berät uns beim Kauf.
 > *The car dealer advises us on the purchase.*
 
+**Phrases & Expressions:**
+- **bei der Autohändlerin** — *car dealer (female)*
+- **eine erfahrene Autohändlerin** — *car dealer (female)*
+- **die Autohändlerin fragen** — *car dealer (female)*
+
 **Collocations**
 - bei der Autohändlerin
 - eine erfahrene Autohändlerin

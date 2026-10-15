@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Satire kritisiert die Politik.
 > *The satire criticises politics.*
+
+**Phrases & Expressions:**
+- **Die Satire kritisiert die Politik** — *The satire criticises politics* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

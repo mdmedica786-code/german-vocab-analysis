@@ -34,6 +34,9 @@ status: "new"
 > In der Klinik ist Hygiene besonders wichtig.
 > *In the clinic hygiene is especially important.*
 
+**Phrases & Expressions:**
+- **In der Klinik ist Hygiene besonders wichtig** — *In the clinic hygiene is especially important* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 1a (Veränderungen)
 <!-- bank:end -->
 

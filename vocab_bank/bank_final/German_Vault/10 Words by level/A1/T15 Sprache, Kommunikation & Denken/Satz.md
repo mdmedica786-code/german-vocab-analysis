@@ -32,6 +32,9 @@ status: "new"
 > Dieser Satz ist sehr einfach.
 > *This sentence is very simple.*
 
+**Phrases & Expressions:**
+- **Dieser Satz ist sehr einfach** — *This sentence is very simple* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 4a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

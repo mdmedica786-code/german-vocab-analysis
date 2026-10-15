@@ -30,6 +30,14 @@ status: "new"
 > Davon habe ich nichts gewusst.
 > *I didn't know anything about that.*
 
+**Phrases & Expressions:**
+- **davon ausgehen, dass ...** — to assume that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **unabhängig davon, ob ...** — regardless of whether ... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · C1)*
+- **abgesehen davon, dass ...** — apart from the fact that ... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B2)*
+- **davon auszugehen, dass ...** — to be assumed that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+- **davon ausgegangen, dass ...** — assumed that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+- **davon überzeugt sein, dass ...** — to be convinced that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+
 **Collocations**
 - davon ausgehen
 - davon abhängen

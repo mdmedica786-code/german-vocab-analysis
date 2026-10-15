@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Sicherung ist durchgebrannt.
 > *The fuse has blown.*
+
+**Phrases & Expressions:**
+- **Die Sicherung ist durchgebrannt** — *The fuse has blown* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

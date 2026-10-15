@@ -29,6 +29,11 @@ status: "new"
 > Die Stimmung änderte sich schlagartig.
 > *The mood changed suddenly.*
 
+**Phrases & Expressions:**
+- **sich schlagartig ändern** — *sudden; abrupt*
+- **schlagartig vorbei** — *sudden; abrupt*
+- **schlagartig verbessern** — *sudden; abrupt*
+
 **Collocations**
 - sich schlagartig ändern
 - schlagartig vorbei

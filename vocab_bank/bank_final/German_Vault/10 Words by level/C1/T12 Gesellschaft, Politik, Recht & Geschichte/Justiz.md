@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Justiz muss unabhängig sein.
 > *The judiciary must be independent.*
+
+**Phrases & Expressions:**
+- **Die Justiz muss unabhängig sein** — *The judiciary must be independent* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

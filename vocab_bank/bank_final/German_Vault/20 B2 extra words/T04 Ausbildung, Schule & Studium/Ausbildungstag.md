@@ -33,6 +33,11 @@ status: "new"
 > Am ersten Ausbildungstag lernte sie ihre Kollegen kennen.
 > *On the first training day she met her colleagues.*
 
+**Phrases & Expressions:**
+- **der erste Ausbildungstag** — *training day*
+- **ein Ausbildungstag in der Berufsschule** — *training day*
+- **am Ausbildungstag** — *training day*
+
 **Collocations**
 - der erste Ausbildungstag
 - ein Ausbildungstag in der Berufsschule

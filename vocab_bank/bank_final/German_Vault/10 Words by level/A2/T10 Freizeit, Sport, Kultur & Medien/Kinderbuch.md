@@ -34,6 +34,9 @@ status: "new"
 > Ich lese meiner Tochter ein Kinderbuch vor.
 > *I read a children's book to my daughter.*
 
+**Phrases & Expressions:**
+- **Ich lese meiner Tochter ein Kinderbuch vor** — *I read a children's book to my daughter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Das Studium verlangt viel Eigenverantwortung.
 > *University study requires a lot of personal responsibility.*
 
+**Phrases & Expressions:**
+- **in Eigenverantwortung** — *personal responsibility*
+- **Eigenverantwortung übernehmen** — *personal responsibility*
+- **Eigenverantwortung stärken** — *personal responsibility*
+
 **Collocations**
 - in Eigenverantwortung
 - Eigenverantwortung übernehmen

@@ -33,6 +33,9 @@ status: "new"
 > Entschuldigung, ich habe mich leider verspätet.
 > *Sorry, I am unfortunately late.*
 
+**Phrases & Expressions:**
+- **Entschuldigung, ich habe mich leider verspätet** — *Sorry, I am unfortunately late* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 1a ÜB (Zwischenmenschliches)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Die Strafe war der Tat angemessen.
 > *The punishment was appropriate to the deed.*
 
+**Phrases & Expressions:**
+- **angemessene Preise** — *appropriate; reasonable*
+- **angemessen reagieren** — *appropriate; reasonable*
+- **in angemessener Zeit** — *appropriate; reasonable*
+
 **Collocations**
 - angemessene Preise
 - angemessen reagieren

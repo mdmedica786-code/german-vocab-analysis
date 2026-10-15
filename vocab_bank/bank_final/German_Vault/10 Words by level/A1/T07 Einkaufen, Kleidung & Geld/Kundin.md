@@ -35,6 +35,9 @@ status: "new"
 > Einen Moment, bitte. Ich habe eine Kundin.
 > *One moment, please. I have a customer.*
 
+**Phrases & Expressions:**
+- **Einen Moment, bitte. Ich habe eine Kundin** — *One moment, please. I have a customer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 14 (Alltag und Familie) · Goethe word list A2
 <!-- bank:end -->
 

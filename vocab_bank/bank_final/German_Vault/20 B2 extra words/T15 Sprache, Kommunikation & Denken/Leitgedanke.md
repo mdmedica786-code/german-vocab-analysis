@@ -33,6 +33,11 @@ status: "new"
 > Nachhaltigkeit ist der Leitgedanke unseres Konzepts.
 > *Sustainability is the guiding principle of our concept.*
 
+**Phrases & Expressions:**
+- **dem Leitgedanken folgen** — *guiding principle; central idea*
+- **nach dem Leitgedanken** — *guiding principle; central idea*
+- **ein zentraler Leitgedanke** — *guiding principle; central idea*
+
 **Collocations**
 - dem Leitgedanken folgen
 - nach dem Leitgedanken

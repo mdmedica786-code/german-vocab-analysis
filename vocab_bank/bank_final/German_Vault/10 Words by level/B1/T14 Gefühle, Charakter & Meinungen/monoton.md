@@ -30,6 +30,9 @@ status: "new"
 > Die Arbeit am Fließband ist monoton.
 > *Work on the assembly line is monotonous.*
 
+**Phrases & Expressions:**
+- **Die Arbeit am Fließband ist monoton** — *Work on the assembly line is monotonous* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 1a (Veränderungen)
 <!-- bank:end -->
 

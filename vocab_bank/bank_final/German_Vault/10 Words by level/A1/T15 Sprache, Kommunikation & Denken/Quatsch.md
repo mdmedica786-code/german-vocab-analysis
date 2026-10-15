@@ -34,6 +34,9 @@ status: "new"
 > Das ist doch Quatsch!
 > *That's just nonsense!*
 
+**Phrases & Expressions:**
+- **Das ist doch Quatsch** — *That's just nonsense* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 3c (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Ich hätte gern eine Schachtel Zündhölzer.
 > *I would like a box of matches.*
 
+**Phrases & Expressions:**
+- **Ich hätte gern eine Schachtel Zündhölzer** — *I would like a box of matches* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

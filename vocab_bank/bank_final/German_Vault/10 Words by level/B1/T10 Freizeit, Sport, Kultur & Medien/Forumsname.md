@@ -31,6 +31,9 @@ status: "new"
 > Mein Forumsname ist Sonnenschein.
 > *My forum name is Sonnenschein.*
 
+**Phrases & Expressions:**
+- **Mein Forumsname ist Sonnenschein** — *My forum name is Sonnenschein* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 4b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

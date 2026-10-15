@@ -29,6 +29,11 @@ status: "new"
 > Tiefgekühltes Gemüse ist praktisch und gesund.
 > *Frozen vegetables are practical and healthy.*
 
+**Phrases & Expressions:**
+- **tiefgekühltes Gemüse** — *frozen; deep-frozen*
+- **tiefgekühlt lagern** — *frozen; deep-frozen*
+- **tiefgekühlte Ware** — *frozen; deep-frozen*
+
 **Collocations**
 - tiefgekühltes Gemüse
 - tiefgekühlt lagern

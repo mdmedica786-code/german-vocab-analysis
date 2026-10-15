@@ -31,6 +31,9 @@ status: "new"
 > Online-Banking spart mir viel Zeit.
 > *Online banking saves me a lot of time.*
 
+**Phrases & Expressions:**
+- **Online-Banking spart mir viel Zeit** — *Online banking saves me a lot of time* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3d (Geld regiert die Welt?)
 <!-- bank:end -->
 

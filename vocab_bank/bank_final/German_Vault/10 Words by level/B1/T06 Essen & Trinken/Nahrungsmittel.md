@@ -35,6 +35,9 @@ status: "new"
 > In diesen Ländern fehlen vor allem Nahrungsmittel.
 > *In these countries there is above all a lack of food.*
 
+**Phrases & Expressions:**
+- **Wie reagieren Sie auf Pollen, Nahrungsmittel oder Medikamente?** — How do you react to pollen, foods or medicines? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Allergien erfragen]] · B2)*
+
 **Source:** Netzwerk neu B1 K3 2 ÜB (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

@@ -31,6 +31,9 @@ status: "new"
 > Nachmittags habe ich Unterricht.
 > *In the afternoons I have class.*
 
+**Phrases & Expressions:**
+- **Nachmittags habe ich Unterricht** — *In the afternoons I have class* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

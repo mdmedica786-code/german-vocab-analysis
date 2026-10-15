@@ -35,6 +35,9 @@ status: "new"
 > Wir machen eine Reise nach Österreich.
 > *We are going on a trip to Austria.*
 
+**Phrases & Expressions:**
+- **Wenn ich mehr Zeit hätte, würde ich öfter reisen.** — If I had more time, I would travel more often. *([[B2-10 Bedingungen, Folgen und irreale Wünsche|Irreale Wünsche]] · B2)*
+
 **Source:** Netzwerk neu A1 K12 7d (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

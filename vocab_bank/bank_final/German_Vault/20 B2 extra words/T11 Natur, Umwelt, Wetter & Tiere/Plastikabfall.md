@@ -33,6 +33,11 @@ status: "new"
 > Der Plastikabfall belastet die Meere stark.
 > *Plastic waste puts a heavy strain on the oceans.*
 
+**Phrases & Expressions:**
+- **Plastikabfall vermeiden** — *plastic waste*
+- **Plastikabfall reduzieren** — *plastic waste*
+- **Plastikabfall im Meer** — *plastic waste*
+
 **Collocations**
 - Plastikabfall vermeiden
 - Plastikabfall reduzieren

@@ -35,6 +35,9 @@ status: "new"
 > Die suchen Fachleute für dieses Computerprogramm.
 > *They are looking for specialists for this computer programme.*
 
+**Phrases & Expressions:**
+- **Die suchen Fachleute für dieses Computerprogramm** — *They are looking for specialists for this computer programme* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 8b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

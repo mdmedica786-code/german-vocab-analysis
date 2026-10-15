@@ -29,6 +29,11 @@ status: "new"
 > Die Mitarbeiter trafen eine kollektive Entscheidung.
 > *The employees made a collective decision.*
 
+**Phrases & Expressions:**
+- **kollektive Verantwortung** — *collective*
+- **kollektiv entscheiden** — *collective*
+- **ein kollektives Gedächtnis** — *collective*
+
 **Collocations**
 - kollektive Verantwortung
 - kollektiv entscheiden

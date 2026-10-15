@@ -33,6 +33,11 @@ status: "new"
 > Die Sockelleisten müssen noch gestrichen werden.
 > *The skirting boards still need to be painted.*
 
+**Phrases & Expressions:**
+- **Sockelleisten anbringen** — *skirting board*
+- **die Sockelleiste streichen** — *skirting board*
+- **weiße Sockelleisten** — *skirting board*
+
 **Collocations**
 - Sockelleisten anbringen
 - die Sockelleiste streichen

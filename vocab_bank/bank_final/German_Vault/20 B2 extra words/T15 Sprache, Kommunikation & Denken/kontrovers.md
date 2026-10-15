@@ -29,6 +29,11 @@ status: "new"
 > Über das Thema wird kontrovers diskutiert.
 > *The topic is being discussed controversially.*
 
+**Phrases & Expressions:**
+- **kontrovers diskutieren** — *controversial; contentious*
+- **eine kontroverse Debatte** — *controversial; contentious*
+- **kontrovers sein** — *controversial; contentious*
+
 **Collocations**
 - kontrovers diskutieren
 - eine kontroverse Debatte

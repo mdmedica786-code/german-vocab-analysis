@@ -34,6 +34,9 @@ status: "new"
 > Der Umbau des Hauses dauert drei Monate.
 > *The conversion of the house takes three months.*
 
+**Phrases & Expressions:**
+- **Der Umbau des Hauses dauert drei Monate** — *The conversion of the house takes three months* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 10 (Stadt, Land, Fluss)
 <!-- bank:end -->
 

@@ -26,6 +26,11 @@ status: "new"
 > Bitte nehmen Sie mit uns Kontakt auf, wenn Sie Fragen haben.
 > *Please get in touch with us if you have any questions.*
 
+**Phrases & Expressions:**
+- **mit jemandem Kontakt aufnehmen** — *to get in touch*
+- **per E-Mail Kontakt aufnehmen** — *to get in touch*
+- **Kontakt halten** — *to get in touch*
+
 **Collocations**
 - mit jemandem Kontakt aufnehmen
 - per E-Mail Kontakt aufnehmen

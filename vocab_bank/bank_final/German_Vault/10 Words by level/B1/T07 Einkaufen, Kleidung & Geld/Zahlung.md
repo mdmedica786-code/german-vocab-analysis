@@ -35,6 +35,9 @@ status: "new"
 > Bitte geben Sie bei der Zahlung die Rechnungsnummer an.
 > *Please state the invoice number when paying.*
 
+**Phrases & Expressions:**
+- **Bitte geben Sie bei der Zahlung die Rechnungsnummer an** — *Please state the invoice number when paying* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3b ÜB (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

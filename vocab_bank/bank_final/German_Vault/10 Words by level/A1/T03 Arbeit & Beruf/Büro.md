@@ -35,6 +35,9 @@ status: "new"
 > Ich arbeite in einem Büro.
 > *I work in an office.*
 
+**Phrases & Expressions:**
+- **Ich arbeite in einem Büro** — *I work in an office* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 3a (Alltag und Familie) · Goethe word list A2
 <!-- bank:end -->
 

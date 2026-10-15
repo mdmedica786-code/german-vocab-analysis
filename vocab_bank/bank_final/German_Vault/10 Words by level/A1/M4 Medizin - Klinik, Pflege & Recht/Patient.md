@@ -36,6 +36,14 @@ status: "new"
 > Der Patient klagt über starke Schmerzen.
 > *The patient complains of severe pain.*
 
+**Phrases & Expressions:**
+- **Der Patient befindet sich in einem reduzierten Allgemeinzustand.** — The patient is in a reduced general condition. *([[FSP-08 Befunde beschreiben und berichten|Allgemeinzustand beschreiben]] · B2)*
+- **Der Patient ist afebril, kreislaufstabil und normokard.** — The patient is afebrile, haemodynamically stable and normocardic. *([[FSP-08 Befunde beschreiben und berichten|Vitalparameter]] · C1)*
+- **Neurologisch ist der Patient wach, orientiert und kooperativ.** — Neurologically the patient is awake, oriented and cooperative. *([[FSP-08 Befunde beschreiben und berichten|Neurologischer Kurzstatus]] · B2)*
+- **Der Patient ist ansprechbar, aber kaltschweißig und tachykard.** — The patient is responsive but clammy and tachycardic. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Notfall einschätzen]] · C1)*
+- **Der Patient ist nicht ansprechbar und atmet nicht normal.** — The patient is unresponsive and not breathing normally. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Notfall einschätzen]] · B2)*
+- **Dieser Patient hat Priorität, er muss sofort behandelt werden.** — This patient has priority; he must be treated immediately. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Triage]] · C1)*
+
 **Collocations**
 - einen Patienten aufnehmen
 - den Patienten untersuchen

@@ -33,6 +33,11 @@ status: "new"
 > Der Träger der Schule ist die Stadt.
 > *The sponsor of the school is the city.*
 
+**Phrases & Expressions:**
+- **Träger des Preises** — *carrier; bearer; sponsor (of an institution)*
+- **ein freier Träger** — *carrier; bearer; sponsor (of an institution)*
+- **Träger der Einrichtung** — *carrier; bearer; sponsor (of an institution)*
+
 **Collocations**
 - Träger des Preises
 - ein freier Träger

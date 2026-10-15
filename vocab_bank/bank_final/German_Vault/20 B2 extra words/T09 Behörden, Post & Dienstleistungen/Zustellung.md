@@ -33,6 +33,11 @@ status: "new"
 > Die Zustellung des Briefes erfolgt innerhalb von zwei Tagen.
 > *The delivery of the letter takes place within two days.*
 
+**Phrases & Expressions:**
+- **die Zustellung des Pakets** — *delivery; service (of documents)*
+- **Zustellung bestätigen** — *delivery; service (of documents)*
+- **eine fehlgeschlagene Zustellung** — *delivery; service (of documents)*
+
 **Collocations**
 - die Zustellung des Pakets
 - Zustellung bestätigen

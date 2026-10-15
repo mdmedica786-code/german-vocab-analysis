@@ -30,6 +30,11 @@ status: "new"
 > Die Firma hat ein neues Zeiterfassungssystem eingeführt.
 > *The company has introduced a new time-recording system.*
 
+**Phrases & Expressions:**
+- **ein Zeiterfassungssystem einführen** — *time-recording system; time clock*
+- **ein digitales Zeiterfassungssystem** — *time-recording system; time clock*
+- **das Zeiterfassungssystem nutzen** — *time-recording system; time clock*
+
 **Collocations**
 - ein Zeiterfassungssystem einführen
 - ein digitales Zeiterfassungssystem

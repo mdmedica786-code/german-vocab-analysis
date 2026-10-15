@@ -30,6 +30,11 @@ status: "new"
 > Das Team erhielt den Zukunftspreis für seine Erfindung.
 > *The team received the future award for its invention.*
 
+**Phrases & Expressions:**
+- **den Zukunftspreis verleihen** — *future award; prize for innovation*
+- **den Zukunftspreis gewinnen** — *future award; prize for innovation*
+- **ein Zukunftspreis für Innovation** — *future award; prize for innovation*
+
 **Collocations**
 - den Zukunftspreis verleihen
 - den Zukunftspreis gewinnen

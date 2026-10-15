@@ -33,6 +33,11 @@ status: "new"
 > Ich kann deine Handschrift kaum lesen.
 > *I can hardly read your handwriting.*
 
+**Phrases & Expressions:**
+- **eine schöne Handschrift** — *handwriting; manuscript*
+- **in Handschrift** — *handwriting; manuscript*
+- **eine mittelalterliche Handschrift** — *handwriting; manuscript*
+
 **Collocations**
 - eine schöne Handschrift
 - in Handschrift

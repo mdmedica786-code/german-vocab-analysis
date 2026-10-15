@@ -33,6 +33,11 @@ status: "new"
 > Der Aufstand wurde niedergeschlagen.
 > *The uprising was put down.*
 
+**Phrases & Expressions:**
+- **einen Aufstand niederschlagen** — *uprising; revolt*
+- **ein bewaffneter Aufstand** — *uprising; revolt*
+- **zum Aufstand aufrufen** — *uprising; revolt*
+
 **Collocations**
 - einen Aufstand niederschlagen
 - ein bewaffneter Aufstand

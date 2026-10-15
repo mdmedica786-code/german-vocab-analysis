@@ -32,6 +32,9 @@ status: "new"
 > Der Ball rollt auf die Straße.
 > *The ball rolls onto the street.*
 
+**Phrases & Expressions:**
+- **Der Ball rollt auf die Straße** — *The ball rolls onto the street* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

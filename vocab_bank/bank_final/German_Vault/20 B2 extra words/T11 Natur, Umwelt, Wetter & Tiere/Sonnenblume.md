@@ -33,6 +33,11 @@ status: "new"
 > Die Sonnenblumen drehen sich zur Sonne.
 > *The sunflowers turn towards the sun.*
 
+**Phrases & Expressions:**
+- **Sonnenblumen pflanzen** — *sunflower*
+- **ein Feld voller Sonnenblumen** — *sunflower*
+- **Sonnenblumenöl** — *sunflower*
+
 **Collocations**
 - Sonnenblumen pflanzen
 - ein Feld voller Sonnenblumen

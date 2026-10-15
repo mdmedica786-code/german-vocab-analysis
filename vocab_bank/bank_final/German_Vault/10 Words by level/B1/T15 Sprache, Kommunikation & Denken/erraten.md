@@ -32,6 +32,9 @@ status: "new"
 > Kannst du erraten, was ich gekauft habe?
 > *Can you guess what I bought?*
 
+**Phrases & Expressions:**
+- **Kannst du erraten, was ich gekauft habe** — *Can you guess what I bought* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

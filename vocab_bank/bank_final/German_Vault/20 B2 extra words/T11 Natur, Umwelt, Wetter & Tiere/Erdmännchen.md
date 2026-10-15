@@ -33,6 +33,11 @@ status: "new"
 > Im Zoo sahen wir drei Erdmännchen.
 > *At the zoo we saw three meerkats.*
 
+**Phrases & Expressions:**
+- **ein Erdmännchen beobachten** — *meerkat*
+- **Erdmännchen im Zoo** — *meerkat*
+- **die Erdmännchen richten sich auf** — *meerkat*
+
 **Collocations**
 - ein Erdmännchen beobachten
 - Erdmännchen im Zoo

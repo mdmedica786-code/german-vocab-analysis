@@ -33,6 +33,11 @@ status: "new"
 > Das gehört zur privaten Sphäre.
 > *That belongs to the private sphere.*
 
+**Phrases & Expressions:**
+- **die private Sphäre** — *sphere; realm*
+- **in höheren Sphären** — *sphere; realm*
+- **die Sphäre des Einflusses** — *sphere; realm*
+
 **Collocations**
 - die private Sphäre
 - in höheren Sphären

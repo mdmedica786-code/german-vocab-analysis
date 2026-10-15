@@ -33,6 +33,12 @@ status: "new"
 > Wer gewinnt das Spiel?
 > *Who is winning the game?*
 
+**Phrases & Expressions:**
+- **ein Spiel gewinnen** — *to win*
+- **Zeit gewinnen** — *to win*
+- **einen Preis gewinnen** — *to win*
+- **die Wahl gewinnen** — *to win*
+
 **Collocations**
 - ein Spiel gewinnen
 - Zeit gewinnen

@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Online-Sucht ist ein wachsendes Problem.
 > *Online addiction is a growing problem.*
+
+**Phrases & Expressions:**
+- **Online-Sucht ist ein wachsendes Problem** — *Online addiction is a growing problem* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

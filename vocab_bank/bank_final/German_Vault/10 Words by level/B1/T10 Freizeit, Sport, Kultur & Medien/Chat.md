@@ -35,6 +35,9 @@ status: "new"
 > Im Chat habe ich neue Leute kennengelernt.
 > *In the chat I got to know new people.*
 
+**Phrases & Expressions:**
+- **Im Chat habe ich neue Leute kennengelernt** — *In the chat I got to know new people* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 4a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

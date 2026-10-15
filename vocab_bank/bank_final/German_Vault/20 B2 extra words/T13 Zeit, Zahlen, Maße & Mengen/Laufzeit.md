@@ -33,6 +33,11 @@ status: "new"
 > Der Vertrag hat eine Laufzeit von zwei Jahren.
 > *The contract has a term of two years.*
 
+**Phrases & Expressions:**
+- **eine Laufzeit von** — *term; duration; running time*
+- **die Laufzeit beträgt** — *term; duration; running time*
+- **die Laufzeit verlängern** — *term; duration; running time*
+
 **Collocations**
 - eine Laufzeit von
 - die Laufzeit beträgt

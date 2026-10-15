@@ -33,6 +33,14 @@ status: "new"
 > Kann ich es auch einmal versuchen?
 > *Can I try it too?*
 
+**Phrases & Expressions:**
+- **Versuchen Sie, weniger Salz und Fett zu essen.** — Try to eat less salt and fat. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Ernährung beraten]] · A2)*
+- **Versuchen Sie, bewusst Pausen in den Alltag einzubauen.** — Try to consciously build breaks into your day. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Stress abbauen]] · B2)*
+- **Wir respektieren Ihre Wünsche und versuchen, sie zu berücksichtigen.** — We respect your wishes and try to take them into account. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Kulturelle Sensibilität]] · B2)*
+- **etwas versuchen** — *to attempt*
+- **versuchen, zu ...** — *to attempt*
+- **sein Glück versuchen** — *to attempt*
+
 **Collocations**
 - etwas versuchen
 - versuchen, zu ...

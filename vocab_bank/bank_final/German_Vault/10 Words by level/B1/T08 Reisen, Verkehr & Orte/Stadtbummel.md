@@ -34,6 +34,9 @@ status: "new"
 > Am Samstag machen wir einen Stadtbummel.
 > *On Saturday we are going for a stroll through the city.*
 
+**Phrases & Expressions:**
+- **Am Samstag machen wir einen Stadtbummel** — *On Saturday we are going for a stroll through the city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b ÜB (Stadt, Land, Fluss)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > In der Broschüre finden Sie die neuesten Informationen.
 > *In the brochure you will find the latest information.*
 
+**Phrases & Expressions:**
+- **In der Broschüre finden Sie die neuesten Informationen** — *In the brochure you will find the latest information* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7a ÜB (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

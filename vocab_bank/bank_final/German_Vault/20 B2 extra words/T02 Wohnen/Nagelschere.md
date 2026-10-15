@@ -33,6 +33,11 @@ status: "new"
 > Die Nagelschere liegt im Badezimmerschrank.
 > *The nail scissors are in the bathroom cupboard.*
 
+**Phrases & Expressions:**
+- **mit der Nagelschere schneiden** — *nail scissors*
+- **eine kleine Nagelschere** — *nail scissors*
+- **Nagelschere und Feile** — *nail scissors*
+
 **Collocations**
 - mit der Nagelschere schneiden
 - eine kleine Nagelschere

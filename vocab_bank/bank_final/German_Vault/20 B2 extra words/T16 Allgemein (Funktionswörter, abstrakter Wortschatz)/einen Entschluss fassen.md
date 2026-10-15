@@ -26,6 +26,9 @@ status: "new"
 > Nach langem Überlegen fasste sie den Entschluss auszuwandern.
 > *After a lot of thought she decided to emigrate.*
 
+**Phrases & Expressions:**
+- **einen festen Entschluss fassen** — *to make up one's mind*
+
 **Collocations**
 - einen festen Entschluss fassen
 

@@ -35,6 +35,9 @@ status: "new"
 > Du hast Schmutz an deinen Schuhen.
 > *You have dirt on your shoes.*
 
+**Phrases & Expressions:**
+- **Du hast Schmutz an deinen Schuhen** — *You have dirt on your shoes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 1b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

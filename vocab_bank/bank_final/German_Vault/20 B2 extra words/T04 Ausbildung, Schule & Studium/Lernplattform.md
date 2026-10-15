@@ -33,6 +33,11 @@ status: "new"
 > Alle Materialien finden Sie auf der Lernplattform.
 > *You will find all the materials on the learning platform.*
 
+**Phrases & Expressions:**
+- **auf der Lernplattform** — *learning platform*
+- **eine Lernplattform nutzen** — *learning platform*
+- **sich auf der Lernplattform anmelden** — *learning platform*
+
 **Collocations**
 - auf der Lernplattform
 - eine Lernplattform nutzen

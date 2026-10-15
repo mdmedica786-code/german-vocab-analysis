@@ -29,6 +29,11 @@ status: "new"
 > Hast du irgendwas gehört?
 > *Did you hear anything?*
 
+**Phrases & Expressions:**
+- **irgendwas anderes** — *something; anything*
+- **irgendwas Neues** — *something; anything*
+- **irgendwas machen** — *something; anything*
+
 **Collocations**
 - irgendwas anderes
 - irgendwas Neues

@@ -33,6 +33,11 @@ status: "new"
 > Welches Sprachniveau brauche ich für die Stelle?
 > *Which language level do I need for the position?*
 
+**Phrases & Expressions:**
+- **das Sprachniveau B2** — *language level*
+- **Sprachniveau nachweisen** — *language level*
+- **ein hohes Sprachniveau** — *language level*
+
 **Collocations**
 - das Sprachniveau B2
 - Sprachniveau nachweisen

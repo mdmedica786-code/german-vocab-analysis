@@ -31,6 +31,11 @@ status: "new"
 > Im verrauchten Raum wäre er fast erstickt.
 > *In the smoke-filled room he almost suffocated.*
 
+**Phrases & Expressions:**
+- **an etwas ersticken** — *to suffocate; to choke*
+- **fast ersticken** — *to suffocate; to choke*
+- **vor Lachen ersticken** — *to suffocate; to choke*
+
 **Collocations**
 - an etwas ersticken
 - fast ersticken

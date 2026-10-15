@@ -29,6 +29,11 @@ status: "new"
 > Heute darfst du ausnahmsweise länger aufbleiben.
 > *Today you may stay up longer, as an exception.*
 
+**Phrases & Expressions:**
+- **ausnahmsweise erlauben** — *as an exception; for once*
+- **nur ausnahmsweise** — *as an exception; for once*
+- **ausnahmsweise mal** — *as an exception; for once*
+
 **Collocations**
 - ausnahmsweise erlauben
 - nur ausnahmsweise

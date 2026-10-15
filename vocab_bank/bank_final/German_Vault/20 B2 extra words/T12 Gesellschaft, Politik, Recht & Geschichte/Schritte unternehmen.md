@@ -26,6 +26,10 @@ status: "new"
 > Die Stadt will rechtliche Schritte unternehmen.
 > *The city wants to take legal steps.*
 
+**Phrases & Expressions:**
+- **rechtliche Schritte unternehmen** — *to take steps*
+- **Schritte unternehmen gegen + Akk.** — *to take steps*
+
 **Collocations**
 - rechtliche Schritte unternehmen
 - Schritte unternehmen gegen + Akk.

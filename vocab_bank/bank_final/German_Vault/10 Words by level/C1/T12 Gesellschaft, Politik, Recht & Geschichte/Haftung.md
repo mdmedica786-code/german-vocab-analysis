@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Haftung für Schäden übernimmt die Versicherung.
 > *The insurance covers liability for damage.*
+
+**Phrases & Expressions:**
+- **Die Haftung für Schäden übernimmt die Versicherung** — *The insurance covers liability for damage* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

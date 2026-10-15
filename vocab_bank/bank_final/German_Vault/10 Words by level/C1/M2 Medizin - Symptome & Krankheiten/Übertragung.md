@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Übertragung des Virus erfolgt durch Tröpfchen.
 > *The virus is transmitted by droplets.*
+
+**Phrases & Expressions:**
+- **Die Übertragung des Virus erfolgt durch Tröpfchen** — *The virus is transmitted by droplets* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

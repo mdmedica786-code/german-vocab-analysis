@@ -35,6 +35,10 @@ status: "new"
 > Ist der Stuhl frei?
 > *Is this chair free?*
 
+**Phrases & Expressions:**
+- **Haben Sie Blut im Stuhl bemerkt?** — Have you noticed blood in your stool? *([[FSP-06 Systemanamnese (Organsysteme)|Magen-Darm]] · B2)*
+- **Achten Sie auf Warnzeichen wie Atemnot, Brustschmerzen oder Blut im Stuhl.** — Watch for warning signs such as shortness of breath, chest pain or blood in the stool. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Warnzeichen nennen]] · B2)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

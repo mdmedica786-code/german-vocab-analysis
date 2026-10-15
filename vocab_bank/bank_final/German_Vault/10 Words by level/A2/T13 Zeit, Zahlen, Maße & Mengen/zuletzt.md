@@ -31,6 +31,14 @@ status: "new"
 > Wir haben uns vor drei Jahren zuletzt gesehen.
 > *The last time we saw each other was three years ago.*
 
+**Phrases & Expressions:**
+- **nicht zuletzt** — not least *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **Zuerst ..., dann ..., zuletzt ...** — First ..., then ..., last ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Aufzählung]] · B1)*
+- **Wann wurden Sie zuletzt gegen Tetanus geimpft?** — When were you last vaccinated against tetanus? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Impfstatus erfragen]] · B1)*
+- **zuletzt gesehen** — *lastly*
+- **zuletzt gearbeitet** — *lastly*
+- **wann zuletzt** — *lastly*
+
 **Collocations**
 - zuletzt gesehen
 - zuletzt gearbeitet

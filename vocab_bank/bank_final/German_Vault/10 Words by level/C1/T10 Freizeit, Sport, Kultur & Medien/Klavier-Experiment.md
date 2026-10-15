@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Das Klavier-Experiment war ein großer Erfolg.
 > *The piano experiment was a great success.*
+
+**Phrases & Expressions:**
+- **Das Klavier-Experiment war ein großer Erfolg** — *The piano experiment was a great success* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -35,6 +35,9 @@ status: "new"
 > Bitte fangen Sie erst an, wenn ich Ihnen ein Zeichen gebe.
 > *Please don't start until I give you a sign.*
 
+**Phrases & Expressions:**
+- **ein Zeichen dafür, dass ...** — a sign that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

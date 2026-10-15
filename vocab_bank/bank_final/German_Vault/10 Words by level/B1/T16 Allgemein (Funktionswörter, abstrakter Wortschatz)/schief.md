@@ -30,6 +30,9 @@ status: "new"
 > Der Spiegel hängt ganz schief.
 > *The mirror is hanging completely crooked.*
 
+**Phrases & Expressions:**
+- **Der Spiegel hängt ganz schief** — *The mirror is hanging completely crooked* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

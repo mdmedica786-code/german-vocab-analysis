@@ -34,6 +34,9 @@ status: "new"
 > Der Geschirrspüler ist leider kaputt.
 > *The dishwasher is unfortunately broken.*
 
+**Phrases & Expressions:**
+- **Der Geschirrspüler ist leider kaputt** — *The dishwasher is unfortunately broken* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 4a (Umweltfreundlich?)
 <!-- bank:end -->
 

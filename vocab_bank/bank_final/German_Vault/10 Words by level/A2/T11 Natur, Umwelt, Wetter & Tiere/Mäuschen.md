@@ -34,6 +34,9 @@ status: "new"
 > Das Mäuschen versteckt sich im Loch.
 > *The little mouse hides in the hole.*
 
+**Phrases & Expressions:**
+- **Das Mäuschen versteckt sich im Loch** — *The little mouse hides in the hole* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 10c (Zusammen leben)
 <!-- bank:end -->
 

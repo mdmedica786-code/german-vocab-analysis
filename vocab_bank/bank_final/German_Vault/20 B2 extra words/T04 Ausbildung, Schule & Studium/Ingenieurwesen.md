@@ -33,6 +33,11 @@ status: "new"
 > Er studiert Ingenieurwesen an der Technischen Universität.
 > *He studies engineering at the technical university.*
 
+**Phrases & Expressions:**
+- **im Ingenieurwesen arbeiten** — *engineering (as a field)*
+- **Ingenieurwesen studieren** — *engineering (as a field)*
+- **das Ingenieurwesen im Maschinenbau** — *engineering (as a field)*
+
 **Collocations**
 - im Ingenieurwesen arbeiten
 - Ingenieurwesen studieren

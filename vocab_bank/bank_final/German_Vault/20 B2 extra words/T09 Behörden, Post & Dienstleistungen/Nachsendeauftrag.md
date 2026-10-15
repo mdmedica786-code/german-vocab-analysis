@@ -33,6 +33,11 @@ status: "new"
 > Bei meinem Umzug habe ich einen Nachsendeauftrag eingerichtet.
 > *When I moved I set up a mail forwarding order.*
 
+**Phrases & Expressions:**
+- **einen Nachsendeauftrag einrichten** — *mail forwarding order*
+- **den Nachsendeauftrag verlängern** — *mail forwarding order*
+- **Nachsendeauftrag beantragen** — *mail forwarding order*
+
 **Collocations**
 - einen Nachsendeauftrag einrichten
 - den Nachsendeauftrag verlängern

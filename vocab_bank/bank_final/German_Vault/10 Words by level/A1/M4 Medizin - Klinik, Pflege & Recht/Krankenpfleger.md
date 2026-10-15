@@ -35,6 +35,11 @@ status: "new"
 > Mein Bruder arbeitet als Krankenpfleger im Krankenhaus.
 > *My brother works as a nurse in the hospital.*
 
+**Phrases & Expressions:**
+- **als Krankenpfleger arbeiten** — *nurse (m)*
+- **Ausbildung zum Krankenpfleger** — *nurse (m)*
+- **den Krankenpfleger rufen** — *nurse (m)*
+
 **Collocations**
 - als Krankenpfleger arbeiten
 - Ausbildung zum Krankenpfleger

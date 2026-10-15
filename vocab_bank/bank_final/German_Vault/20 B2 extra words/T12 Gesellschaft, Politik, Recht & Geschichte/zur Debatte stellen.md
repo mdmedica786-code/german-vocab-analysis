@@ -26,6 +26,11 @@ status: "new"
 > Die Regierung stellt die Steuerreform zur Debatte.
 > *The government puts the tax reform up for debate.*
 
+**Phrases & Expressions:**
+- **zur Debatte stehen** — *to put up for debate*
+- **Reformen stehen zur Debatte** — *to put up for debate*
+- **ein Thema zur Diskussion stellen** — *to put up for debate*
+
 **Collocations**
 - zur Debatte stehen
 - Reformen stehen zur Debatte

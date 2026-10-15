@@ -33,6 +33,11 @@ status: "new"
 > Händewaschen schützt vor Krankheitserregern.
 > *Washing your hands protects against pathogens.*
 
+**Phrases & Expressions:**
+- **ein Krankheitserreger** — *pathogen; disease-causing agent*
+- **Krankheitserreger übertragen** — *pathogen; disease-causing agent*
+- **vor Krankheitserregern schützen** — *pathogen; disease-causing agent*
+
 **Collocations**
 - ein Krankheitserreger
 - Krankheitserreger übertragen

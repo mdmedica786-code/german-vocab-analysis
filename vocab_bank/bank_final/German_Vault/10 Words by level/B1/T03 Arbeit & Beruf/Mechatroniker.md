@@ -34,6 +34,9 @@ status: "new"
 > Der Mechatroniker repariert die Maschine.
 > *The mechatronics technician repairs the machine.*
 
+**Phrases & Expressions:**
+- **Der Mechatroniker repariert die Maschine** — *The mechatronics technician repairs the machine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1b (Arbeitswelt)
 <!-- bank:end -->
 

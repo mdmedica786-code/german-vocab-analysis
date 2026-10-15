@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Sein Verdienst reicht für die Miete.
 > *His earnings are enough for the rent.*
+
+**Phrases & Expressions:**
+- **Sein Verdienst reicht für die Miete** — *His earnings are enough for the rent* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

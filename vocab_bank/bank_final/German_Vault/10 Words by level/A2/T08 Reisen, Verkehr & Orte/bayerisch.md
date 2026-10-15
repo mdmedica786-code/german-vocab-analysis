@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Wir essen bayerische Weißwürste.
 > *We eat Bavarian white sausages.*
+
+**Phrases & Expressions:**
+- **Wir essen bayerische Weißwürste** — *We eat Bavarian white sausages* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

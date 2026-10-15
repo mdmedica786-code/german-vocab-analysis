@@ -34,6 +34,9 @@ status: "new"
 > Am Sonntag machen wir eine Radtour.
 > *On Sunday we're going on a bike ride.*
 
+**Phrases & Expressions:**
+- **Am Sonntag machen wir eine Radtour** — *On Sunday we're going on a bike ride* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 4 (Sportlich, sportlich)
 <!-- bank:end -->
 

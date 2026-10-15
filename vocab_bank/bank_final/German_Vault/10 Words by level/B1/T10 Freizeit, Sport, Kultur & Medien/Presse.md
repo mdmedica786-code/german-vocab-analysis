@@ -35,6 +35,9 @@ status: "new"
 > Darüber konnte sich jeder in der Presse informieren.
 > *Everyone could find out about it in the press.*
 
+**Phrases & Expressions:**
+- **Darüber konnte sich jeder in der Presse informieren** — *Everyone could find out about it in the press* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

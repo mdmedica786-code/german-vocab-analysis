@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Bei der Berührung zuckte sie zusammen.
 > *She flinched at the touch.*
+
+**Phrases & Expressions:**
+- **Bei der Berührung zuckte sie zusammen** — *She flinched at the touch* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

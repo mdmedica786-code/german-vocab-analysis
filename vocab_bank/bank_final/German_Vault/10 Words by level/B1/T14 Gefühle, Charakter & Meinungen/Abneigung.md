@@ -34,6 +34,9 @@ status: "new"
 > Er hat eine Abneigung gegen Fisch.
 > *He has a dislike of fish.*
 
+**Phrases & Expressions:**
+- **Er hat eine Abneigung gegen Fisch** — *He has a dislike of fish* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13c (Gute Reise!)
 <!-- bank:end -->
 

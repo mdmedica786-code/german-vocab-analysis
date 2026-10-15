@@ -33,6 +33,11 @@ status: "new"
 > An der Tankstelle sind alle Zapfsäulen besetzt.
 > *At the petrol station all the pumps are occupied.*
 
+**Phrases & Expressions:**
+- **an der Zapfsäule tanken** — *petrol pump; fuel pump*
+- **eine freie Zapfsäule** — *petrol pump; fuel pump*
+- **die Zapfsäule Nummer drei** — *petrol pump; fuel pump*
+
 **Collocations**
 - an der Zapfsäule tanken
 - eine freie Zapfsäule

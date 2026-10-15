@@ -33,6 +33,11 @@ status: "new"
 > Das Porträt hängt im Wohnzimmer.
 > *The portrait hangs in the living room.*
 
+**Phrases & Expressions:**
+- **ein Porträt malen** — *portrait*
+- **ein Porträt von** — *portrait*
+- **ein Porträt zeichnen** — *portrait*
+
 **Collocations**
 - ein Porträt malen
 - ein Porträt von

@@ -26,6 +26,11 @@ status: "new"
 > Er hat weder angerufen noch geschrieben.
 > *He neither called nor wrote.*
 
+**Phrases & Expressions:**
+- **weder ... noch ...** — *neither ... nor ...*
+- **weder heute noch morgen** — *neither ... nor ...*
+- **weder Zeit noch Geld** — *neither ... nor ...*
+
 **Collocations**
 - weder ... noch ...
 - weder heute noch morgen

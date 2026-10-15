@@ -34,6 +34,9 @@ status: "new"
 > Von dem Lärm bin ich aufgewacht.
 > *I woke up from the noise.*
 
+**Phrases & Expressions:**
+- **Von dem Lärm bin ich aufgewacht** — *I woke up from the noise* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 5b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

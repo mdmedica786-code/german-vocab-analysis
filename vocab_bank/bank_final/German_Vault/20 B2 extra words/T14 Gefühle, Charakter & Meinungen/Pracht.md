@@ -33,6 +33,11 @@ status: "new"
 > Die Pracht des Schlosses beeindruckte die Besucher.
 > *The splendour of the castle impressed the visitors.*
 
+**Phrases & Expressions:**
+- **in voller Pracht** — *splendour; magnificence*
+- **die Pracht der Blumen** — *splendour; magnificence*
+- **eine große Pracht** — *splendour; magnificence*
+
 **Collocations**
 - in voller Pracht
 - die Pracht der Blumen

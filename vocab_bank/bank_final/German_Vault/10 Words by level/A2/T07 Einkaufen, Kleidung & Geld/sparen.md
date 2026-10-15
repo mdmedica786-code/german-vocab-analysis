@@ -33,6 +33,9 @@ status: "new"
 > Ein neues Auto ist sehr teuer. Ich muss sparen.
 > *A new car is very expensive. I have to save.*
 
+**Phrases & Expressions:**
+- **Man kann Geld sparen, indem man ...** — You can save money by ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Mittel nennen]] · B1)*
+
 **Source:** Netzwerk neu A2 K11 1b ÜB (Wie die Zeit vergeht!) · Goethe word list A2
 <!-- bank:end -->
 

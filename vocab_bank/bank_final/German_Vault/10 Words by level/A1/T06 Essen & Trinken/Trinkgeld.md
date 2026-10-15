@@ -35,6 +35,9 @@ status: "new"
 > Ich habe dem Kellner zwei Euro Trinkgeld gegeben.
 > *I gave the waiter two euros as a tip.*
 
+**Phrases & Expressions:**
+- **Ich habe dem Kellner zwei Euro Trinkgeld gegeben** — *I gave the waiter two euros as a tip* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 12b (Zeit mit Freunden) · Goethe word list B1
 <!-- bank:end -->
 

@@ -26,6 +26,11 @@ status: "new"
 > Die Nachbarn nahmen herzlich Anteil an unserem Verlust.
 > *The neighbours sympathised warmly with our loss.*
 
+**Phrases & Expressions:**
+- **an etwas Anteil nehmen** — *to sympathise; to take an interest*
+- **herzlichen Anteil nehmen** — *to sympathise; to take an interest*
+- **Anteil nehmen an** — *to sympathise; to take an interest*
+
 **Collocations**
 - an etwas Anteil nehmen
 - herzlichen Anteil nehmen

@@ -35,6 +35,9 @@ status: "new"
 > Im Wohnzimmer haben wir keine Lampe an der Decke.
 > *In the living room we have no lamp on the ceiling.*
 
+**Phrases & Expressions:**
+- **Im Wohnzimmer haben wir keine Lampe an der Decke** — *In the living room we have no lamp on the ceiling* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 10a (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

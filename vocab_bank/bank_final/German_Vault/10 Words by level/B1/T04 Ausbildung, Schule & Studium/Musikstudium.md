@@ -34,6 +34,9 @@ status: "new"
 > Sie beginnt ein Musikstudium in Wien.
 > *She is starting a music degree in Vienna.*
 
+**Phrases & Expressions:**
+- **Sie beginnt ein Musikstudium in Wien** — *She is starting a music degree in Vienna* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist)
 <!-- bank:end -->
 

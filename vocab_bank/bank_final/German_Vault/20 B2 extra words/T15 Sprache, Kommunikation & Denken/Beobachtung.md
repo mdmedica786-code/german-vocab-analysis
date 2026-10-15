@@ -33,6 +33,12 @@ status: "new"
 > Meine Beobachtung hat gezeigt, dass die Schüler oft müde sind.
 > *My observation has shown that the pupils are often tired.*
 
+**Phrases & Expressions:**
+- **Nach der Operation bleiben Sie ein bis zwei Tage zur Beobachtung hier.** — After the operation you stay here for one to two days for observation. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Nachsorge erklären]] · B2)*
+- **eine Beobachtung machen** — *observation*
+- **nach meiner Beobachtung** — *observation*
+- **unter Beobachtung stehen** — *observation*
+
 **Collocations**
 - eine Beobachtung machen
 - nach meiner Beobachtung

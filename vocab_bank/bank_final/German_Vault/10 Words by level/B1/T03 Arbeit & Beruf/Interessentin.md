@@ -34,6 +34,9 @@ status: "new"
 > Eine Interessentin hat sich telefonisch gemeldet.
 > *An interested woman got in touch by phone.*
 
+**Phrases & Expressions:**
+- **Eine Interessentin hat sich telefonisch gemeldet** — *An interested woman got in touch by phone* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 12b (Arbeitswelt)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der Senat der Universität tagt heute.
 > *The university senate meets today.*
 
+**Phrases & Expressions:**
+- **der Senat beschließt** — *senate; governing council*
+- **im Senat sitzen** — *senate; governing council*
+- **der Berliner Senat** — *senate; governing council*
+
 **Collocations**
 - der Senat beschließt
 - im Senat sitzen

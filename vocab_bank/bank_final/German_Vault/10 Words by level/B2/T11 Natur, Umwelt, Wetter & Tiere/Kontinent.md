@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Afrika ist ein Kontinent.
 > *Africa is a continent.*
+
+**Phrases & Expressions:**
+- **Afrika ist ein Kontinent** — *Africa is a continent* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

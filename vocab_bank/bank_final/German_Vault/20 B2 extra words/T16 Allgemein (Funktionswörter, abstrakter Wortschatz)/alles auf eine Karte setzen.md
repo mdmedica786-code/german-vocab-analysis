@@ -29,6 +29,10 @@ status: "new"
 > Setzen Sie nicht alles auf eine Karte, sondern verteilen Sie das Risiko.
 > *Don't put all your eggs in one basket but spread the risk.*
 
+**Phrases & Expressions:**
+- **auf eine Karte setzen** — *to put all one's eggs in one basket*
+- **das Risiko eingehen** — *to put all one's eggs in one basket*
+
 **Collocations**
 - auf eine Karte setzen
 - das Risiko eingehen

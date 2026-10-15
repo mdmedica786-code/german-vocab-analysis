@@ -31,6 +31,11 @@ status: "new"
 > Der Arzt implantiert dem Patienten einen Herzschrittmacher.
 > *The doctor implants a pacemaker in the patient.*
 
+**Phrases & Expressions:**
+- **einen Chip implantieren** — *to implant*
+- **ein Organ implantieren** — *to implant*
+- **jemandem etwas implantieren** — *to implant*
+
 **Collocations**
 - einen Chip implantieren
 - ein Organ implantieren

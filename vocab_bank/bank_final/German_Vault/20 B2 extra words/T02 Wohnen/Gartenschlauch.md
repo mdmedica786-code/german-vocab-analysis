@@ -33,6 +33,11 @@ status: "new"
 > Mit dem Gartenschlauch wässert er den Rasen.
 > *He waters the lawn with the garden hose.*
 
+**Phrases & Expressions:**
+- **den Gartenschlauch aufrollen** — *garden hose*
+- **mit dem Gartenschlauch wässern** — *garden hose*
+- **Gartenschlauch anschließen** — *garden hose*
+
 **Collocations**
 - den Gartenschlauch aufrollen
 - mit dem Gartenschlauch wässern

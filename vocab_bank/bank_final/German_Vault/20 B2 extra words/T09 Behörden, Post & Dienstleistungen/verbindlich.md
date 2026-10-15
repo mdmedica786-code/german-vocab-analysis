@@ -29,6 +29,11 @@ status: "new"
 > Die Anmeldung ist verbindlich.
 > *The registration is binding.*
 
+**Phrases & Expressions:**
+- **eine verbindliche Zusage** — *binding; firm*
+- **verbindlich buchen** — *binding; firm*
+- **verbindliche Regeln** — *binding; firm*
+
 **Collocations**
 - eine verbindliche Zusage
 - verbindlich buchen

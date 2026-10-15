@@ -29,6 +29,11 @@ status: "new"
 > Die Ergebnisse der Studie sind dürftig.
 > *The results of the study are meagre.*
 
+**Phrases & Expressions:**
+- **dürftige Informationen** — *meagre; poor*
+- **ein dürftiges Ergebnis** — *meagre; poor*
+- **dürftig ausgestattet** — *meagre; poor*
+
 **Collocations**
 - dürftige Informationen
 - ein dürftiges Ergebnis

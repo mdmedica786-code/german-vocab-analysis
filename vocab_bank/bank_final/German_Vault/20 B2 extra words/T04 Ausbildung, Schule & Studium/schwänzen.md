@@ -31,6 +31,11 @@ status: "new"
 > Er hat gestern die Schule geschwänzt.
 > *He skipped school yesterday.*
 
+**Phrases & Expressions:**
+- **die Schule schwänzen** — *to skip (school, class)*
+- **den Unterricht schwänzen** — *to skip (school, class)*
+- **eine Vorlesung schwänzen** — *to skip (school, class)*
+
 **Collocations**
 - die Schule schwänzen
 - den Unterricht schwänzen

@@ -29,6 +29,11 @@ status: "new"
 > Das ist geradezu lächerlich.
 > *That is downright ridiculous.*
 
+**Phrases & Expressions:**
+- **geradezu lächerlich** — *simply; downright*
+- **geradezu perfekt** — *simply; downright*
+- **geradezu unglaublich** — *simply; downright*
+
 **Collocations**
 - geradezu lächerlich
 - geradezu perfekt

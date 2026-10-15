@@ -32,6 +32,9 @@ status: "new"
 > Sie sollten die Stelle mit Eis kühlen.
 > *You should cool the area with ice.*
 
+**Phrases & Expressions:**
+- **Sie sollten die Stelle mit Eis kühlen** — *You should cool the area with ice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist)
 <!-- bank:end -->
 

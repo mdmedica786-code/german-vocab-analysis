@@ -30,6 +30,11 @@ status: "new"
 > Das Kapitelthema ist „Arbeit und Beruf“.
 > *The chapter topic is "Work and career".*
 
+**Phrases & Expressions:**
+- **das Kapitelthema lesen** — *chapter topic*
+- **ein neues Kapitelthema** — *chapter topic*
+- **zum Kapitelthema schreiben** — *chapter topic*
+
 **Collocations**
 - das Kapitelthema lesen
 - ein neues Kapitelthema

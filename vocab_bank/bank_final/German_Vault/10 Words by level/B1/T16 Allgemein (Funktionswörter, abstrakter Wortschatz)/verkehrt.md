@@ -30,6 +30,9 @@ status: "new"
 > Du hast den Pullover verkehrt herum angezogen.
 > *You put the jumper on the wrong way round.*
 
+**Phrases & Expressions:**
+- **Du hast den Pullover verkehrt herum angezogen** — *You put the jumper on the wrong way round* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen)
 <!-- bank:end -->
 

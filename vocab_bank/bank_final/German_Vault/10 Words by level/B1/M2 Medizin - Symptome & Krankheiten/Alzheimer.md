@@ -34,6 +34,9 @@ status: "new"
 > Mein Großvater hat Alzheimer.
 > *My grandfather has Alzheimer's.*
 
+**Phrases & Expressions:**
+- **Mein Großvater hat Alzheimer** — *My grandfather has Alzheimer's* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist)
 <!-- bank:end -->
 

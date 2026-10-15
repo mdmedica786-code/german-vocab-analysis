@@ -30,6 +30,11 @@ status: "new"
 > Sie forscht im Bereich Systembiologie.
 > *She does research in the field of systems biology.*
 
+**Phrases & Expressions:**
+- **in der Systembiologie** — *systems biology*
+- **Systembiologie studieren** — *systems biology*
+- **ein Institut für Systembiologie** — *systems biology*
+
 **Collocations**
 - in der Systembiologie
 - Systembiologie studieren

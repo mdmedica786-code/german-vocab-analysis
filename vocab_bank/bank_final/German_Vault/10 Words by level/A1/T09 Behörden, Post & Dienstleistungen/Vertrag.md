@@ -35,6 +35,9 @@ status: "new"
 > Ich muss den Vertrag noch unterschreiben.
 > *I still have to sign the contract.*
 
+**Phrases & Expressions:**
+- **Ich muss den Vertrag noch unterschreiben** — *I still have to sign the contract* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 4f ÜB (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

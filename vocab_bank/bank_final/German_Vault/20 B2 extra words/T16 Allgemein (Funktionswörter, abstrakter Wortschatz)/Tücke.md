@@ -33,6 +33,11 @@ status: "new"
 > Die Technik hat ihre Tücken.
 > *Technology has its pitfalls.*
 
+**Phrases & Expressions:**
+- **die Tücken des Alltags** — *pitfall; trap; difficulty*
+- **seine Tücken haben** — *pitfall; trap; difficulty*
+- **voller Tücken** — *pitfall; trap; difficulty*
+
 **Collocations**
 - die Tücken des Alltags
 - seine Tücken haben

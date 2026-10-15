@@ -34,6 +34,9 @@ status: "new"
 > Das Fußballtraining ist um 17 Uhr auf dem Sportplatz.
 > *The football training is at 5 pm on the sports ground.*
 
+**Phrases & Expressions:**
+- **Das Fußballtraining ist um 17 Uhr auf dem Sportplatz** — *The football training is at 5 pm on the sports ground* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > In der vorliegenden Studie werden zwei Methoden verglichen.
 > *In the present study two methods are compared.*
 
+**Phrases & Expressions:**
+- **der vorliegende Fall** — *present; at hand*
+- **in der vorliegenden Arbeit** — *present; at hand*
+- **die vorliegenden Daten** — *present; at hand*
+
 **Collocations**
 - der vorliegende Fall
 - in der vorliegenden Arbeit

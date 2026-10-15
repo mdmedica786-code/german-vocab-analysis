@@ -34,6 +34,9 @@ status: "new"
 > Der Anteil der Frauen im Team steigt.
 > *The share of women in the team is rising.*
 
+**Phrases & Expressions:**
+- **Der Anteil von ... beträgt ... Prozent.** — The proportion of ... is ... percent. *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Anteil nennen]] · B2)*
+
 **Source:** Netzwerk neu B1 K6 7d (Blick nach vorn)
 <!-- bank:end -->
 

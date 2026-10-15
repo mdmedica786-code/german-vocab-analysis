@@ -33,6 +33,14 @@ status: "new"
 > Ich wünsche mir eine Kamera zum Geburtstag.
 > *For my birthday I'd like a camera.*
 
+**Phrases & Expressions:**
+- **ich wünschte, ich könnte ...** — I wish I could ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B2)*
+- **ich wünschte, ich hätte ...** — I wish I had ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B2)*
+- **Ich hätte mir gewünscht, dass ...** — I would have wished that ... *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Verbesserung vorschlagen]] · B1)*
+- **Ich wünsche mir, dass ...** — I wish that ... *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Wunsch ausdrücken]] · B1)*
+- **Ich wünsche Ihnen ein schönes Wochenende.** — I wish you a nice weekend. *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Verabschieden]] · A2)*
+- **Ich wünschte, ich hätte mehr Zeit.** — I wish I had more time. *([[B2-10 Bedingungen, Folgen und irreale Wünsche|Irreale Wünsche]] · B2)*
+
 **Collocations**
 - sich etwas wünschen
 - alles Gute wünschen

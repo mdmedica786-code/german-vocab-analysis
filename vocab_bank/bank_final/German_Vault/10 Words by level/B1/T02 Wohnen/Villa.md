@@ -34,6 +34,9 @@ status: "new"
 > Sie wohnen in einer großen Villa am See.
 > *They live in a large villa by the lake.*
 
+**Phrases & Expressions:**
+- **Sie wohnen in einer großen Villa am See** — *They live in a large villa by the lake* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

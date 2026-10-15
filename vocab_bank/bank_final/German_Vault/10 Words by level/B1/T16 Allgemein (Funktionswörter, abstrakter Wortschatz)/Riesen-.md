@@ -31,6 +31,9 @@ status: "new"
 > Öle und Valerie wohnen in einem Riesenhaus.
 > *Ole and Valerie live in a huge house.*
 
+**Phrases & Expressions:**
+- **Öle und Valerie wohnen in einem Riesenhaus** — *Ole and Valerie live in a huge house* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

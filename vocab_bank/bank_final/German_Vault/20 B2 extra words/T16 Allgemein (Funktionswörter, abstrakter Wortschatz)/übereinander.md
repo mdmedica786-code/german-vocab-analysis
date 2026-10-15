@@ -29,6 +29,11 @@ status: "new"
 > Die Bücher liegen übereinander.
 > *The books are lying on top of each other.*
 
+**Phrases & Expressions:**
+- **übereinander legen** — *on top of each other; about each other*
+- **übereinander sprechen** — *on top of each other; about each other*
+- **übereinander stapeln** — *on top of each other; about each other*
+
 **Collocations**
 - übereinander legen
 - übereinander sprechen

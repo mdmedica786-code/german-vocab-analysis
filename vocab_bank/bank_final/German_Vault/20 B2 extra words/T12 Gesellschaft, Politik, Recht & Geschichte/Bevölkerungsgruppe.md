@@ -33,6 +33,11 @@ status: "new"
 > Die Maßnahme betrifft vor allem ältere Bevölkerungsgruppen.
 > *The measure mainly affects older population groups.*
 
+**Phrases & Expressions:**
+- **verschiedene Bevölkerungsgruppen** — *population group*
+- **benachteiligte Bevölkerungsgruppen** — *population group*
+- **ältere Bevölkerungsgruppen** — *population group*
+
 **Collocations**
 - verschiedene Bevölkerungsgruppen
 - benachteiligte Bevölkerungsgruppen

@@ -33,6 +33,11 @@ status: "new"
 > Mit dem Aufhebungsvertrag endet das Arbeitsverhältnis im gegenseitigen Einvernehmen.
 > *With the termination agreement the employment ends by mutual consent.*
 
+**Phrases & Expressions:**
+- **einen Aufhebungsvertrag unterschreiben** — *termination agreement*
+- **Aufhebungsvertrag anbieten** — *termination agreement*
+- **einen Aufhebungsvertrag schließen** — *termination agreement*
+
 **Collocations**
 - einen Aufhebungsvertrag unterschreiben
 - Aufhebungsvertrag anbieten

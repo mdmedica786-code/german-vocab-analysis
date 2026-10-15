@@ -33,6 +33,11 @@ status: "new"
 > Die Bekanntgabe der Ergebnisse erfolgt am Freitag.
 > *The results will be announced on Friday.*
 
+**Phrases & Expressions:**
+- **die Bekanntgabe der Ergebnisse** — *announcement; publication*
+- **bis zur Bekanntgabe** — *announcement; publication*
+- **nach der Bekanntgabe** — *announcement; publication*
+
 **Collocations**
 - die Bekanntgabe der Ergebnisse
 - bis zur Bekanntgabe

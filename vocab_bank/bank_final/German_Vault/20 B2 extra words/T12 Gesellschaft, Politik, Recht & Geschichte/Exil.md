@@ -33,6 +33,11 @@ status: "new"
 > Der Schriftsteller lebte jahrelang im Exil.
 > *The writer lived in exile for years.*
 
+**Phrases & Expressions:**
+- **im Exil leben** — *exile*
+- **ins Exil gehen** — *exile*
+- **ins Exil fliehen** — *exile*
+
 **Collocations**
 - im Exil leben
 - ins Exil gehen

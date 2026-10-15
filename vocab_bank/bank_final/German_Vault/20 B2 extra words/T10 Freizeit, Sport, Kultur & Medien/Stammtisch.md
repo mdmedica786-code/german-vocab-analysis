@@ -33,6 +33,11 @@ status: "new"
 > Jeden Donnerstag treffen wir uns am Stammtisch in der Kneipe.
 > *Every Thursday we meet at the regulars' table at the pub.*
 
+**Phrases & Expressions:**
+- **am Stammtisch sitzen** — *regulars' table; regular meeting*
+- **zum Stammtisch gehen** — *regulars' table; regular meeting*
+- **Stammtischparolen** — *regulars' table; regular meeting*
+
 **Collocations**
 - am Stammtisch sitzen
 - zum Stammtisch gehen

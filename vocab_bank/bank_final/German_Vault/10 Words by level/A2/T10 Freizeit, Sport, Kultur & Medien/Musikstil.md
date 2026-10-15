@@ -34,6 +34,9 @@ status: "new"
 > Welchen Musikstil magst du am liebsten?
 > *Which music style do you like best?*
 
+**Phrases & Expressions:**
+- **Welchen Musikstil magst du am liebsten** — *Which music style do you like best* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 6b (Gute Unterhaltung!)
 <!-- bank:end -->
 

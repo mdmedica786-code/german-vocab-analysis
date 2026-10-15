@@ -29,6 +29,11 @@ status: "new"
 > Das Spiel funktioniert folgendermaßen.
 > *The game works as follows.*
 
+**Phrases & Expressions:**
+- **folgendermaßen vorgehen** — *as follows; in the following way*
+- **folgendermaßen lauten** — *as follows; in the following way*
+- **wie folgt** — *as follows; in the following way*
+
 **Collocations**
 - folgendermaßen vorgehen
 - folgendermaßen lauten

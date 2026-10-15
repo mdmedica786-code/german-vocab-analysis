@@ -31,6 +31,9 @@ status: "new"
 > Das Konfliktgespräch mit dem Chef war schwierig.
 > *The conflict discussion with the boss was difficult.*
 
+**Phrases & Expressions:**
+- **Das Konfliktgespräch mit dem Chef war schwierig** — *The conflict discussion with the boss was difficult* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 13b (Zwischenmenschliches)
 <!-- bank:end -->
 

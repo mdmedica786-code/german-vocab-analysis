@@ -34,6 +34,9 @@ status: "new"
 > Der Oberarzt leitet die Visite.
 > *The senior physician leads the ward round.*
 
+**Phrases & Expressions:**
+- **Der Oberarzt leitet die Visite** — *The senior physician leads the ward round* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

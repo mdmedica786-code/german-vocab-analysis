@@ -26,6 +26,9 @@ status: "new"
 > Der Verdächtige legte ein umfassendes Geständnis ab.
 > *The suspect made a full confession.*
 
+**Phrases & Expressions:**
+- **ein umfassendes Geständnis ablegen** — *to make a confession*
+
 **Collocations**
 - ein umfassendes Geständnis ablegen
 

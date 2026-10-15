@@ -33,6 +33,11 @@ status: "new"
 > Die Polizei nahm die Bande fest.
 > *The police arrested the gang.*
 
+**Phrases & Expressions:**
+- **eine Bande bilden** — *gang; band*
+- **die Jugendbande** — *gang; band*
+- **zur Bande gehören** — *gang; band*
+
 **Collocations**
 - eine Bande bilden
 - die Jugendbande

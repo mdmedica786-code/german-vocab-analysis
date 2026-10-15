@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Ich habe Schmerzen in der Kehle.
 > *I have pain in my throat.*
+
+**Phrases & Expressions:**
+- **Ich habe Schmerzen in der Kehle** — *I have pain in my throat* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

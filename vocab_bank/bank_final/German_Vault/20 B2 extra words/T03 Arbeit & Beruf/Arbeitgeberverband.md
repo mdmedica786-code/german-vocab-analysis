@@ -33,6 +33,11 @@ status: "new"
 > Der Arbeitgeberverband kritisiert die neue Regelung.
 > *The employers' association criticises the new rule.*
 
+**Phrases & Expressions:**
+- **der Arbeitgeberverband fordert** — *employers' association*
+- **Gewerkschaften und Arbeitgeberverbände** — *employers' association*
+- **ein Arbeitgeberverband** — *employers' association*
+
 **Collocations**
 - der Arbeitgeberverband fordert
 - Gewerkschaften und Arbeitgeberverbände

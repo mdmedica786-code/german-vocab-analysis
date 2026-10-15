@@ -33,6 +33,11 @@ status: "new"
 > Der Verkaufsleiter stellt die neuen Produkte vor.
 > *The sales manager presents the new products.*
 
+**Phrases & Expressions:**
+- **der Verkaufsleiter einer Firma** — *sales manager (male)*
+- **als Verkaufsleiter arbeiten** — *sales manager (male)*
+- **den Verkaufsleiter sprechen** — *sales manager (male)*
+
 **Collocations**
 - der Verkaufsleiter einer Firma
 - als Verkaufsleiter arbeiten

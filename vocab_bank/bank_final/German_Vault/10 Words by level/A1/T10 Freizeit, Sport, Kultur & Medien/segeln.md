@@ -32,6 +32,9 @@ status: "new"
 > Im Sommer segeln wir auf dem See.
 > *In summer we sail on the lake.*
 
+**Phrases & Expressions:**
+- **Im Sommer segeln wir auf dem See** — *In summer we sail on the lake* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 1a (Studium und Beruf)
 <!-- bank:end -->
 

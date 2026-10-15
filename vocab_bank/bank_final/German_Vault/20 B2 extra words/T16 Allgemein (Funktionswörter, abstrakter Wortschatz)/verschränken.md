@@ -31,6 +31,11 @@ status: "new"
 > Er verschränkte die Arme vor der Brust.
 > *He crossed his arms over his chest.*
 
+**Phrases & Expressions:**
+- **die Arme verschränken** — *to cross; to fold (arms); to interlock*
+- **die Hände verschränken** — *to cross; to fold (arms); to interlock*
+- **die Beine verschränken** — *to cross; to fold (arms); to interlock*
+
 **Collocations**
 - die Arme verschränken
 - die Hände verschränken

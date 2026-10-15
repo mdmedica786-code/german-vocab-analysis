@@ -35,6 +35,9 @@ status: "new"
 > Unsere Trainerin ist sehr motivierend.
 > *Our coach is very motivating.*
 
+**Phrases & Expressions:**
+- **Unsere Trainerin ist sehr motivierend** — *Our coach is very motivating* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 5a (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Parteivorsitzende kündigte Reformen an.
 > *The party leader announced reforms.*
 
+**Phrases & Expressions:**
+- **zur Parteivorsitzenden wählen** — *party leader*
+- **die Parteivorsitzende tritt zurück** — *party leader*
+- **als Parteivorsitzender kandidieren** — *party leader*
+
 **Collocations**
 - zur Parteivorsitzenden wählen
 - die Parteivorsitzende tritt zurück

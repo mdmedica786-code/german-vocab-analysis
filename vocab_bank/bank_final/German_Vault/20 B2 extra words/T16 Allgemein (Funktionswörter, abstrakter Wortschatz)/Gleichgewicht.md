@@ -33,6 +33,11 @@ status: "new"
 > Beruf und Familie müssen im Gleichgewicht bleiben.
 > *Work and family must stay in balance.*
 
+**Phrases & Expressions:**
+- **das Gleichgewicht halten** — *balance; equilibrium*
+- **aus dem Gleichgewicht geraten** — *balance; equilibrium*
+- **ökologisches Gleichgewicht** — *balance; equilibrium*
+
 **Collocations**
 - das Gleichgewicht halten
 - aus dem Gleichgewicht geraten

@@ -33,6 +33,12 @@ status: "new"
 > Die Patientin klagt über starke Müdigkeit.
 > *The patient complains of severe tiredness.*
 
+**Phrases & Expressions:**
+- **starke Müdigkeit** — *tiredness*
+- **Müdigkeit und Schwäche** — *tiredness*
+- **gegen die Müdigkeit kämpfen** — *tiredness*
+- **ständige Müdigkeit** — *tiredness*
+
 **Collocations**
 - starke Müdigkeit
 - Müdigkeit und Schwäche

@@ -33,6 +33,11 @@ status: "new"
 > Das Projekt gelang dank guter Teamarbeit.
 > *The project succeeded thanks to good teamwork.*
 
+**Phrases & Expressions:**
+- **Teamarbeit fördern** — *teamwork*
+- **auf Teamarbeit setzen** — *teamwork*
+- **gute Teamarbeit** — *teamwork*
+
 **Collocations**
 - Teamarbeit fördern
 - auf Teamarbeit setzen

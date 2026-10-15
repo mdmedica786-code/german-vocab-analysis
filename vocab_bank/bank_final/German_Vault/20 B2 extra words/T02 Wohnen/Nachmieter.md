@@ -33,6 +33,11 @@ status: "new"
 > Wir suchen einen Nachmieter, weil wir ins Ausland ziehen.
 > *We are looking for a new tenant because we are moving abroad.*
 
+**Phrases & Expressions:**
+- **einen Nachmieter suchen** — *subsequent tenant*
+- **einen Nachmieter stellen** — *subsequent tenant*
+- **als Nachmieter einziehen** — *subsequent tenant*
+
 **Collocations**
 - einen Nachmieter suchen
 - einen Nachmieter stellen

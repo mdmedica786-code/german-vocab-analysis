@@ -31,6 +31,11 @@ status: "new"
 > Seine Bemerkung hat sie sehr gekränkt.
 > *His remark hurt her feelings deeply.*
 
+**Phrases & Expressions:**
+- **jemanden kränken** — *to offend; to hurt someone's feelings*
+- **sich gekränkt fühlen** — *to offend; to hurt someone's feelings*
+- **tief gekränkt sein** — *to offend; to hurt someone's feelings*
+
 **Collocations**
 - jemanden kränken
 - sich gekränkt fühlen

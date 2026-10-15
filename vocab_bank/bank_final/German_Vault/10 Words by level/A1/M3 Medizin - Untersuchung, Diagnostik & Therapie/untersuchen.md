@@ -33,6 +33,14 @@ status: "new"
 > Der Arzt hat mich untersucht.
 > *The doctor examined me.*
 
+**Phrases & Expressions:**
+- **Danach werde ich Sie körperlich untersuchen.** — After that I will examine you physically. *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Ablauf erklären]] · B1)*
+- **Ich würde Sie jetzt gern untersuchen.** — I would now like to examine you. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Untersuchung ankündigen]] · B1)*
+- **Ich muss Sie auch noch kurz am Rücken untersuchen.** — I also need to examine your back briefly. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Untersuchung ankündigen]] · B1)*
+- **Ist es für Sie in Ordnung, wenn ich Sie hier untersuche?** — Is it all right for you if I examine you here? *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Einverständnis bei Untersuchung]] · B2)*
+- **einen Patienten untersuchen** — *to examine*
+- **gründlich untersuchen** — *to examine*
+
 **Collocations**
 - einen Patienten untersuchen
 - gründlich untersuchen

@@ -35,6 +35,9 @@ status: "new"
 > Meine Frau ist Beamtin bei der Polizei.
 > *My wife is a civil servant with the police.*
 
+**Phrases & Expressions:**
+- **Meine Frau ist Beamtin bei der Polizei** — *My wife is a civil servant with the police* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

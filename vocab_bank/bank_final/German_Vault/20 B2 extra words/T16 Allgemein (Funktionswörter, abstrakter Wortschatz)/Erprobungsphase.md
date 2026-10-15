@@ -33,6 +33,11 @@ status: "new"
 > Das neue System befindet sich in der Erprobungsphase.
 > *The new system is in its testing phase.*
 
+**Phrases & Expressions:**
+- **in der Erprobungsphase** — *testing phase; trial period*
+- **die Erprobungsphase beginnt** — *testing phase; trial period*
+- **eine Erprobungsphase von drei Monaten** — *testing phase; trial period*
+
 **Collocations**
 - in der Erprobungsphase
 - die Erprobungsphase beginnt

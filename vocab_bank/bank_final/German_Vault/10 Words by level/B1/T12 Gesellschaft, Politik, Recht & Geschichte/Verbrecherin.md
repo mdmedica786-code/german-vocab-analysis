@@ -34,6 +34,9 @@ status: "new"
 > Die Verbrecherin wurde verhaftet.
 > *The criminal was arrested.*
 
+**Phrases & Expressions:**
+- **Die Verbrecherin wurde verhaftet** — *The criminal was arrested* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

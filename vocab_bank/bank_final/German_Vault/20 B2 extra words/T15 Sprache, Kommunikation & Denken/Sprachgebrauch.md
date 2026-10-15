@@ -33,6 +33,11 @@ status: "new"
 > Im allgemeinen Sprachgebrauch sagt man das so.
 > *In general usage people say it that way.*
 
+**Phrases & Expressions:**
+- **im allgemeinen Sprachgebrauch** — *language use; usage*
+- **der übliche Sprachgebrauch** — *language use; usage*
+- **der Sprachgebrauch ändert sich** — *language use; usage*
+
 **Collocations**
 - im allgemeinen Sprachgebrauch
 - der übliche Sprachgebrauch

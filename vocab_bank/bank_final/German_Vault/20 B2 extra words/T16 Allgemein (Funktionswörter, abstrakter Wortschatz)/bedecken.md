@@ -31,6 +31,11 @@ status: "new"
 > Schnee bedeckt die Berge den ganzen Winter.
 > *Snow covers the mountains all winter.*
 
+**Phrases & Expressions:**
+- **mit Schnee bedeckt** — *to cover*
+- **den Boden bedecken** — *to cover*
+- **ein bedeckter Himmel** — *to cover*
+
 **Collocations**
 - mit Schnee bedeckt
 - den Boden bedecken

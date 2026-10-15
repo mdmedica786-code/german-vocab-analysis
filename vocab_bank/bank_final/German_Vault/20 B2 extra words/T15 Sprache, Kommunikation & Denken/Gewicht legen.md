@@ -26,6 +26,10 @@ status: "new"
 > Wir legen besonderes Gewicht auf die Qualität.
 > *We place special weight on quality.*
 
+**Phrases & Expressions:**
+- **Gewicht legen auf + Akk.** — *to place weight (on)*
+- **besonderes Gewicht legen** — *to place weight (on)*
+
 **Collocations**
 - Gewicht legen auf + Akk.
 - besonderes Gewicht legen

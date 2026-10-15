@@ -36,6 +36,13 @@ status: "new"
 > Ich muss heute zum Arzt.
 > *I have to see the doctor today.*
 
+**Phrases & Expressions:**
+- **Mein Name ist ..., ich bin der behandelnde Arzt.** — My name is ..., I am the doctor treating you. *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Sich vorstellen]] · B1)*
+- **zum Arzt gehen** — *doctor (m)*
+- **einen Arzt aufsuchen** — *doctor (m)*
+- **praktischer Arzt** — *doctor (m)*
+- **den Arzt rufen** — *doctor (m)*
+
 **Collocations**
 - zum Arzt gehen
 - einen Arzt aufsuchen

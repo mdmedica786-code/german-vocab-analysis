@@ -34,6 +34,9 @@ status: "new"
 > Meine Tochter möchte gern Ballett tanzen.
 > *My daughter would like to dance ballet.*
 
+**Phrases & Expressions:**
+- **Meine Tochter möchte gern Ballett tanzen** — *My daughter would like to dance ballet* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

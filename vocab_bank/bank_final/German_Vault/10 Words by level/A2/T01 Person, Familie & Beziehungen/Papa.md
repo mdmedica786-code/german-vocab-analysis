@@ -34,6 +34,9 @@ status: "new"
 > Papa kocht heute Abend.
 > *Dad is cooking this evening.*
 
+**Phrases & Expressions:**
+- **Papa kocht heute Abend** — *Dad is cooking this evening* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 1b ÜB (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

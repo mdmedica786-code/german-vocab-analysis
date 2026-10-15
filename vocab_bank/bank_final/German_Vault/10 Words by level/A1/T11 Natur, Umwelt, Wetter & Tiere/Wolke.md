@@ -35,6 +35,9 @@ status: "new"
 > Es gibt viele Wolken am Himmel.
 > *There are many clouds in the sky.*
 
+**Phrases & Expressions:**
+- **Es gibt viele Wolken am Himmel** — *There are many clouds in the sky* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 11b (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

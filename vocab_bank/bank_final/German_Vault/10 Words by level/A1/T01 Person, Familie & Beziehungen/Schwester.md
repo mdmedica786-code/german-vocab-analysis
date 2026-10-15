@@ -35,6 +35,9 @@ status: "new"
 > Meine Schwester kommt am Dienstag.
 > *My sister is coming on Tuesday.*
 
+**Phrases & Expressions:**
+- **Während ich ..., ... meine Schwester ...** — While I ..., my sister ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Gegensatz]] · B1)*
+
 **Source:** Netzwerk neu A1 K5 8a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

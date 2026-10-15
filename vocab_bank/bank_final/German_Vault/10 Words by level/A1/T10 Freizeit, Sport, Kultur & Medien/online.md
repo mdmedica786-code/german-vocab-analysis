@@ -31,6 +31,9 @@ status: "new"
 > Wann bist du wieder online?
 > *When will you be online again?*
 
+**Phrases & Expressions:**
+- **Wann bist du wieder online** — *When will you be online again* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 4b (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

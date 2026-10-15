@@ -35,6 +35,9 @@ status: "new"
 > Der Artikel erschien unter der folgenden Überschrift: „…“
 > *The article appeared under the following heading: “…”*
 
+**Phrases & Expressions:**
+- **Der Artikel erschien unter der folgenden Überschrift: „…“** — *The article appeared under the following heading: “…”* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 10a (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

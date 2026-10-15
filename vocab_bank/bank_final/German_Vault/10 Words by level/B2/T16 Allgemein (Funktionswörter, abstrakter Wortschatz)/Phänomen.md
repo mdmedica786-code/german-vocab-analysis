@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Regenbogen ist ein schönes Naturphänomen.
 > *The rainbow is a beautiful natural phenomenon.*
+
+**Phrases & Expressions:**
+- **Der Regenbogen ist ein schönes Naturphänomen** — *The rainbow is a beautiful natural phenomenon* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

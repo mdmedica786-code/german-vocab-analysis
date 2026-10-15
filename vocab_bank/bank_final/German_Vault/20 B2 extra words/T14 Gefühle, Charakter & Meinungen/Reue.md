@@ -33,6 +33,11 @@ status: "new"
 > Er zeigte tiefe Reue für seine Tat.
 > *He showed deep remorse for his deed.*
 
+**Phrases & Expressions:**
+- **Reue zeigen** — *remorse; regret*
+- **Reue empfinden** — *remorse; regret*
+- **aus Reue** — *remorse; regret*
+
 **Collocations**
 - Reue zeigen
 - Reue empfinden

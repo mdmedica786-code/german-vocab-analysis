@@ -35,6 +35,9 @@ status: "new"
 > Ich sehe gern Werbung im Fernsehen.
 > *I like watching advertising on television.*
 
+**Phrases & Expressions:**
+- **Ich sehe gern Werbung im Fernsehen** — *I like watching advertising on television* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 6a (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

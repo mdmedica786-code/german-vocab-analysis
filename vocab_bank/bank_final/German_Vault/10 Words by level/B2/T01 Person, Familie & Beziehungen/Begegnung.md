@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Begegnung mit ihr war sehr herzlich.
 > *The encounter with her was very warm.*
+
+**Phrases & Expressions:**
+- **Die Begegnung mit ihr war sehr herzlich** — *The encounter with her was very warm* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

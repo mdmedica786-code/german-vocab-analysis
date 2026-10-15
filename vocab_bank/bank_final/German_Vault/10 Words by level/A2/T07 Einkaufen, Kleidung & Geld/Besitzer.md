@@ -34,6 +34,9 @@ status: "new"
 > Der Besitzer des Hundes ist nicht da.
 > *The owner of the dog is not here.*
 
+**Phrases & Expressions:**
+- **Der Besitzer des Hundes ist nicht da** — *The owner of the dog is not here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12a (Zusammen leben)
 <!-- bank:end -->
 

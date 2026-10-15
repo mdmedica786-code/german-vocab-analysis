@@ -33,6 +33,11 @@ status: "new"
 > Die Filmemacherin gewann einen Preis für ihren Dokumentarfilm.
 > *The filmmaker won a prize for her documentary.*
 
+**Phrases & Expressions:**
+- **eine junge Filmemacherin** — *filmmaker (female)*
+- **die Filmemacherin dreht** — *filmmaker (female)*
+- **als Filmemacherin arbeiten** — *filmmaker (female)*
+
 **Collocations**
 - eine junge Filmemacherin
 - die Filmemacherin dreht

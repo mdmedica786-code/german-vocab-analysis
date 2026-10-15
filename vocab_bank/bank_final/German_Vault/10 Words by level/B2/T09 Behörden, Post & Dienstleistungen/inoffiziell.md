@@ -30,6 +30,9 @@ status: "new"
 > Das ist nur eine inoffizielle Information.
 > *That is only unofficial information.*
 
+**Phrases & Expressions:**
+- **Das ist nur eine inoffizielle Information** — *That is only unofficial information* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 5a (Alltag und Familie)
 <!-- bank:end -->
 

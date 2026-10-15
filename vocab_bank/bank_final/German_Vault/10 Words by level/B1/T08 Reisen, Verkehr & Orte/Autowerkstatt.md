@@ -34,6 +34,9 @@ status: "new"
 > Mein Auto ist in der Autowerkstatt.
 > *My car is at the garage.*
 
+**Phrases & Expressions:**
+- **Mein Auto ist in der Autowerkstatt** — *My car is at the garage* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

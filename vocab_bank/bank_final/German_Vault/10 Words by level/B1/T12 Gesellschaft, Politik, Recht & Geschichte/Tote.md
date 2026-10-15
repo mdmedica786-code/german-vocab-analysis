@@ -35,6 +35,9 @@ status: "new"
 > Bei dem Unfall gab es zwei Tote.
 > *There were two dead in the accident.*
 
+**Phrases & Expressions:**
+- **Bei dem Unfall gab es zwei Tote** — *There were two dead in the accident* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

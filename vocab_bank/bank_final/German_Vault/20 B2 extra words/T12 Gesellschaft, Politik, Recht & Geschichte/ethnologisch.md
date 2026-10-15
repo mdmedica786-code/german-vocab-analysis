@@ -29,6 +29,11 @@ status: "new"
 > Sie interessiert sich für ethnologische Forschung.
 > *She is interested in ethnological research.*
 
+**Phrases & Expressions:**
+- **ethnologische Forschung** — *ethnological*
+- **eine ethnologische Studie** — *ethnological*
+- **ethnologisch untersuchen** — *ethnological*
+
 **Collocations**
 - ethnologische Forschung
 - eine ethnologische Studie

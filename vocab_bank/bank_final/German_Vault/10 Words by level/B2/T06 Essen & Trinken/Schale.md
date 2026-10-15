@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Auf dem Tisch steht eine Schale mit Obst.
 > *There is a bowl of fruit on the table.*
+
+**Phrases & Expressions:**
+- **Auf dem Tisch steht eine Schale mit Obst** — *There is a bowl of fruit on the table* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Ich gehe einmal im Jahr zum Check-up.
 > *I go for a check-up once a year.*
+
+**Phrases & Expressions:**
+- **Ich gehe einmal im Jahr zum Check-up** — *I go for a check-up once a year* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

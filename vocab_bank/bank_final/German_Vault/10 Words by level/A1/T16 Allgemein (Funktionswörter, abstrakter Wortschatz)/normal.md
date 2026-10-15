@@ -31,6 +31,10 @@ status: "new"
 > 75 kg. Sein Gewicht ist normal.
 > *75 kg. His weight is normal.*
 
+**Phrases & Expressions:**
+- **Der Patient ist nicht ansprechbar und atmet nicht normal.** — The patient is unresponsive and not breathing normally. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Notfall einschätzen]] · B2)*
+- **Haben Sie Angst vor dem Eingriff? Das ist ganz normal.** — Are you afraid of the procedure? That's perfectly normal. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Angst ansprechen]] · B1)*
+
 **Source:** Netzwerk neu A1 K10 9a (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

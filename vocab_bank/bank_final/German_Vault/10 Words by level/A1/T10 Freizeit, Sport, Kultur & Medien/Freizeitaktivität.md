@@ -34,6 +34,9 @@ status: "new"
 > Wandern ist meine liebste Freizeitaktivität.
 > *Hiking is my favourite leisure activity.*
 
+**Phrases & Expressions:**
+- **Wandern ist meine liebste Freizeitaktivität** — *Hiking is my favourite leisure activity* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 1a (Zeit mit Freunden)
 <!-- bank:end -->
 

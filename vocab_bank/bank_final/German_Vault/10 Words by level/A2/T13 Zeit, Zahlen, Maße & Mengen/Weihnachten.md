@@ -34,6 +34,9 @@ status: "new"
 > An Weihnachten besuchen wir die Großeltern.
 > *At Christmas we visit the grandparents.*
 
+**Phrases & Expressions:**
+- **An Weihnachten besuchen wir die Großeltern** — *At Christmas we visit the grandparents* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

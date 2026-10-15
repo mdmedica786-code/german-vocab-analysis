@@ -34,6 +34,9 @@ status: "new"
 > Der Autofahrer hat die Ampel übersehen.
 > *The driver overlooked the traffic light.*
 
+**Phrases & Expressions:**
+- **Der Autofahrer hat die Ampel übersehen** — *The driver overlooked the traffic light* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 1a (Umweltfreundlich?)
 <!-- bank:end -->
 

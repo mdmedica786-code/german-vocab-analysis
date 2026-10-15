@@ -36,6 +36,9 @@ status: "new"
 > Diese Kirche ist fast 800 Jahre alt.
 > **
 
+**Phrases & Expressions:**
+- **Diese Kirche ist fast 800 Jahre alt** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,9 @@ status: "new"
 > Hörst du es donnern? Das Gewitter kommt näher.
 > *Can you hear it thundering? The storm is getting closer.*
 
+**Phrases & Expressions:**
+- **Hörst du es donnern? Das Gewitter kommt näher** — *Can you hear it thundering? The storm is getting closer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 11a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Diese Woche habe ich Nachtdienst.
 > *This week I am on night duty.*
 
+**Phrases & Expressions:**
+- **Diese Woche habe ich Nachtdienst** — *This week I am on night duty* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6c (Stadt, Land, Fluss)
 <!-- bank:end -->
 

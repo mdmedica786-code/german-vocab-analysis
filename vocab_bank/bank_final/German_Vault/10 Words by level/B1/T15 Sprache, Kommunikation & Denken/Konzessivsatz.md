@@ -34,6 +34,9 @@ status: "new"
 > Ein Konzessivsatz beginnt oft mit „obwohl“.
 > *A concessive clause often begins with "obwohl".*
 
+**Phrases & Expressions:**
+- **Ein Konzessivsatz beginnt oft mit „obwohl“** — *A concessive clause often begins with "obwohl"* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13c (Gute Reise!)
 <!-- bank:end -->
 

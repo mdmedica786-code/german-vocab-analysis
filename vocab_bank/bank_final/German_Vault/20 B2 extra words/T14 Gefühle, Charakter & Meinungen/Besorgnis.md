@@ -33,6 +33,11 @@ status: "new"
 > Die Nachricht löste große Besorgnis aus.
 > *The news caused great concern.*
 
+**Phrases & Expressions:**
+- **Besorgnis erregen** — *concern; worry*
+- **mit Besorgnis** — *concern; worry*
+- **Grund zur Besorgnis** — *concern; worry*
+
 **Collocations**
 - Besorgnis erregen
 - mit Besorgnis

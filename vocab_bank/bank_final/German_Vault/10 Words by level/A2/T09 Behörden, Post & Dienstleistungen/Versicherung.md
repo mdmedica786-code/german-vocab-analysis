@@ -35,6 +35,9 @@ status: "new"
 > Sie sollten eine Versicherung für Ihr Gepäck abschließen.
 > *You should take out insurance for your luggage.*
 
+**Phrases & Expressions:**
+- **Sie sollten eine Versicherung für Ihr Gepäck abschließen** — *You should take out insurance for your luggage* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

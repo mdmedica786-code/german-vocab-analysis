@@ -35,6 +35,9 @@ status: "new"
 > Ich habe zwei Kisten Bier gekauft.
 > *I bought two crates of beer.*
 
+**Phrases & Expressions:**
+- **Ich habe zwei Kisten Bier gekauft** — *I bought two crates of beer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 4f ÜB (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

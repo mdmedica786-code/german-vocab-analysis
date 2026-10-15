@@ -33,6 +33,11 @@ status: "new"
 > Im Teich schwimmen Enten und Fische.
 > *Ducks and fish swim in the pond.*
 
+**Phrases & Expressions:**
+- **einen Teich anlegen** — *pond*
+- **am Teich sitzen** — *pond*
+- **im Teich schwimmen** — *pond*
+
 **Collocations**
 - einen Teich anlegen
 - am Teich sitzen

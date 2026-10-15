@@ -35,6 +35,14 @@ status: "new"
 > Räum bitte dein Zimmer auf und mach Ordnung!
 > *Please clear up your room and tidy up!*
 
+**Phrases & Expressions:**
+- **in Ordnung** — all right; okay *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · A2)*
+- **alles in Ordnung** — is everything all right? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A2)*
+- **ist alles in Ordnung** — is everything all right? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A2)*
+- **Ist es in Ordnung, wenn ich später komme?** — Is it all right if I come later? *([[B1-07 Bitten und höflich nachfragen|Um Erlaubnis bitten]] · B1)*
+- **Ist schon in Ordnung.** — It's all right. *([[B1-17 Sich entschuldigen und danken|Entschuldigung annehmen]] · A2)*
+- **Ist es in Ordnung, wenn eine Kollegin beim Gespräch dabei ist?** — Is it OK if a colleague is present during the conversation? *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Einverständnis einholen]] · B1)*
+
 **Collocations**
 - Ordnung machen
 - in Ordnung sein

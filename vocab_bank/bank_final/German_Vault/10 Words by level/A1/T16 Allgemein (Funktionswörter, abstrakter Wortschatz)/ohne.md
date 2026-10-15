@@ -32,6 +32,11 @@ status: "new"
 > Ohne Geld kann er nichts kaufen.
 > *Without money he can't buy anything.*
 
+**Phrases & Expressions:**
+- **Das Abdomen ist weich, ohne Druckschmerz oder Abwehrspannung.** — The abdomen is soft, without tenderness or guarding. *([[FSP-08 Befunde beschreiben und berichten|Palpation]] · C1)*
+- **Im EKG zeigte sich ein Sinusrhythmus ohne Ischämiezeichen.** — The ECG showed sinus rhythm without signs of ischaemia. *([[FSP-20 Arztbrief und Dokumentation|Apparative Diagnostik]] · C1)*
+- **Ich darf Ihnen leider ohne Einwilligung des Patienten keine Auskunft geben.** — Unfortunately I may not give you any information without the patient's consent. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Schweigepflicht erklären]] · C1)*
+
 **Source:** Netzwerk neu A1 K11 4b (Die Jacke gefällt mir!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -31,6 +31,11 @@ status: "new"
 > Der Arzt dosiert das Medikament sehr vorsichtig.
 > *The doctor doses the medicine very carefully.*
 
+**Phrases & Expressions:**
+- **ein Medikament dosieren** — *to dose; to measure out*
+- **vorsichtig dosieren** — *to dose; to measure out*
+- **die richtige Menge dosieren** — *to dose; to measure out*
+
 **Collocations**
 - ein Medikament dosieren
 - vorsichtig dosieren

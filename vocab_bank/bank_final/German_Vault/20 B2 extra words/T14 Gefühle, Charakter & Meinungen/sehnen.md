@@ -32,6 +32,11 @@ status: "new"
 > Ich sehne mich nach Ruhe und Urlaub.
 > *I long for peace and a holiday.*
 
+**Phrases & Expressions:**
+- **sich nach etwas sehnen** — *to long (for)*
+- **sich sehnen nach** — *to long (for)*
+- **sich nach Hause sehnen** — *to long (for)*
+
 **Collocations**
 - sich nach etwas sehnen
 - sich sehnen nach

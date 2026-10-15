@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Getreide wird im Sommer geerntet.
 > *The grain is harvested in summer.*
+
+**Phrases & Expressions:**
+- **Das Getreide wird im Sommer geerntet** — *The grain is harvested in summer* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

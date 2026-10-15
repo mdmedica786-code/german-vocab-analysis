@@ -35,6 +35,9 @@ status: "new"
 > Bei welcher Krankenkasse sind Sie?
 > *Which health insurance company are you with?*
 
+**Phrases & Expressions:**
+- **Bei welcher Krankenkasse sind Sie** — *Which health insurance company are you with* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 1a ÜB (Zwischenmenschliches) · Goethe word list A2
 <!-- bank:end -->
 

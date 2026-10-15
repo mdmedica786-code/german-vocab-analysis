@@ -35,6 +35,9 @@ status: "new"
 > Der Kursleiter erklärt die Grammatik.
 > *The course leader explains the grammar.*
 
+**Phrases & Expressions:**
+- **Der Kursleiter erklärt die Grammatik** — *The course leader explains the grammar* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

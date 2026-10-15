@@ -31,6 +31,11 @@ status: "new"
 > Die Stadt modernisiert die alte Schule.
 > *The city is modernising the old school.*
 
+**Phrases & Expressions:**
+- **ein Gebäude modernisieren** — *to modernise*
+- **die Wohnung modernisieren** — *to modernise*
+- **einen Betrieb modernisieren** — *to modernise*
+
 **Collocations**
 - ein Gebäude modernisieren
 - die Wohnung modernisieren

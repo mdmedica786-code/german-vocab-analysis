@@ -31,6 +31,11 @@ status: "new"
 > Im Seminar vertiefen wir das Thema aus der Vorlesung.
 > *In the seminar we deepen the topic from the lecture.*
 
+**Phrases & Expressions:**
+- **Kenntnisse vertiefen** — *to deepen; to intensify*
+- **sich in etwas vertiefen** — *to deepen; to intensify*
+- **eine Freundschaft vertiefen** — *to deepen; to intensify*
+
 **Collocations**
 - Kenntnisse vertiefen
 - sich in etwas vertiefen

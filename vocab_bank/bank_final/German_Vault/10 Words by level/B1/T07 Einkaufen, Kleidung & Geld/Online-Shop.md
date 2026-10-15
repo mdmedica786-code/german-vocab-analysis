@@ -31,6 +31,9 @@ status: "new"
 > Ich bestelle gern in einem Online-Shop.
 > *I like ordering from an online shop.*
 
+**Phrases & Expressions:**
+- **Ich bestelle gern in einem Online-Shop** — *I like ordering from an online shop* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

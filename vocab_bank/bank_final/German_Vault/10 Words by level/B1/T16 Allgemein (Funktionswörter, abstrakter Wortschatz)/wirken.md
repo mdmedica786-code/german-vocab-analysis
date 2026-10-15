@@ -34,6 +34,13 @@ status: "new"
 > Die Tabletten haben nicht gewirkt.
 > *The tablets didn't work.*
 
+**Phrases & Expressions:**
+- **Dieses Medikament wirkt anders, wenn Sie Alkohol trinken.** — This medicine works differently if you drink alcohol. *([[FSP-11 Therapie und Medikamente erklären|Wechselwirkungen]] · B2)*
+- **gut wirken** — *to have an effect; to work; to seem*
+- **auf jemanden wirken** — *to have an effect; to work; to seem*
+- **müde wirken** — *to have an effect; to work; to seem*
+- **Medikamente wirken** — *to have an effect; to work; to seem*
+
 **Collocations**
 - gut wirken
 - auf jemanden wirken

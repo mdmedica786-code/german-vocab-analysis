@@ -32,6 +32,9 @@ status: "new"
 > Wie heißen die Personen?
 > *What are the people called?*
 
+**Phrases & Expressions:**
+- **Wie heißen die Personen** — *What are the people called* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1a (Guten Tag!)
 <!-- bank:end -->
 

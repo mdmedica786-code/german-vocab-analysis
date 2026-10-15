@@ -33,6 +33,11 @@ status: "new"
 > Alle fordern Gleichheit vor dem Gesetz.
 > *Everyone demands equality before the law.*
 
+**Phrases & Expressions:**
+- **Gleichheit vor dem Gesetz** — *equality*
+- **die Gleichheit der Chancen** — *equality*
+- **soziale Gleichheit** — *equality*
+
 **Collocations**
 - Gleichheit vor dem Gesetz
 - die Gleichheit der Chancen

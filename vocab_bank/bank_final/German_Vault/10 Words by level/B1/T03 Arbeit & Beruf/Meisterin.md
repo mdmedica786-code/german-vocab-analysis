@@ -34,6 +34,9 @@ status: "new"
 > Die Meisterin bildet drei Lehrlinge aus.
 > *The master craftswoman trains three apprentices.*
 
+**Phrases & Expressions:**
+- **Die Meisterin bildet drei Lehrlinge aus** — *The master craftswoman trains three apprentices* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 12b (Kunststücke)
 <!-- bank:end -->
 

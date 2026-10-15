@@ -31,6 +31,14 @@ status: "new"
 > Ich gehe ganz selten ins Kino.
 > *I very rarely go to the cinema.*
 
+**Phrases & Expressions:**
+- **nicht selten** — not seldom; quite often *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · C1)*
+- **nur selten** — only rarely *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **Schwere Komplikationen sind sehr selten, aber nicht ausgeschlossen.** — Serious complications are very rare but not ruled out. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Risiken nennen]] · B2)*
+- **selten vorkommen** — *rarely*
+- **sehr selten** — *rarely*
+- **eine seltene Krankheit** — *rarely*
+
 **Collocations**
 - selten vorkommen
 - sehr selten

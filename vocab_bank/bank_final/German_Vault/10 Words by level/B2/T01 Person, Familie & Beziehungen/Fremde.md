@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Sprich nicht mit Fremden!
 > *Don't talk to strangers!*
+
+**Phrases & Expressions:**
+- **Sprich nicht mit Fremden** — *Don't talk to strangers* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

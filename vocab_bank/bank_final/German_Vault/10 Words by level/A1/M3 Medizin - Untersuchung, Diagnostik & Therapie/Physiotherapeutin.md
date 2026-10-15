@@ -34,6 +34,9 @@ status: "new"
 > Die Physiotherapeutin behandelt meinen Rücken.
 > *The physiotherapist is treating my back.*
 
+**Phrases & Expressions:**
+- **Die Physiotherapeutin behandelt meinen Rücken** — *The physiotherapist is treating my back* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13a (Fit und gesund)
 <!-- bank:end -->
 

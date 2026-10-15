@@ -32,6 +32,11 @@ status: "new"
 > Viele Menschen mussten vor dem Krieg flüchten.
 > *Many people had to flee from the war.*
 
+**Phrases & Expressions:**
+- **vor etwas flüchten** — *to flee; to escape*
+- **aus dem Land flüchten** — *to flee; to escape*
+- **in die Natur flüchten** — *to flee; to escape*
+
 **Collocations**
 - vor etwas flüchten
 - aus dem Land flüchten

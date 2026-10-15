@@ -34,6 +34,9 @@ status: "new"
 > Auf der Flasche sind 25 Cent Pfand.
 > *There is a 25-cent deposit on the bottle.*
 
+**Phrases & Expressions:**
+- **Auf der Flasche sind 25 Cent Pfand** — *There is a 25-cent deposit on the bottle* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Neugründung der Firma war nicht einfach.
 > *Founding the new company was not easy.*
 
+**Phrases & Expressions:**
+- **Die Neugründung der Firma war nicht einfach** — *Founding the new company was not easy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

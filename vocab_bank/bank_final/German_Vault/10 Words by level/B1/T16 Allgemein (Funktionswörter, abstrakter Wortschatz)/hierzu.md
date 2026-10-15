@@ -29,6 +29,12 @@ status: "new"
 > Hierzu möchte ich noch etwas sagen.
 > *I would like to add something about this.*
 
+**Phrases & Expressions:**
+- **hierzu gehören** — *on this; to this*
+- **hierzu zählt** — *on this; to this*
+- **hierzu gibt es** — *on this; to this*
+- **hierzu mehr** — *on this; to this*
+
 **Collocations**
 - hierzu gehören
 - hierzu zählt

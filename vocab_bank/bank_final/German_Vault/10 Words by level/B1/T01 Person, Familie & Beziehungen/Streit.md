@@ -35,6 +35,9 @@ status: "new"
 > Ich möchte keinen Streit mit den Nachbarn.
 > *I don't want an argument with the neighbours.*
 
+**Phrases & Expressions:**
+- **Ich möchte keinen Streit mit den Nachbarn** — *I don't want an argument with the neighbours* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 8a (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

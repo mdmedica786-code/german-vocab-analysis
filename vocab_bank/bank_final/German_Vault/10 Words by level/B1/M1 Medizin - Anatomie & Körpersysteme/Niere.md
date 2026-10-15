@@ -33,6 +33,12 @@ status: "new"
 > Die Nieren filtern das Blut.
 > *The kidneys filter the blood.*
 
+**Phrases & Expressions:**
+- **gesunde Niere** — *kidney*
+- **die Niere transplantieren** — *kidney*
+- **Funktion der Niere** — *kidney*
+- **eine Niere spenden** — *kidney*
+
 **Collocations**
 - gesunde Niere
 - die Niere transplantieren

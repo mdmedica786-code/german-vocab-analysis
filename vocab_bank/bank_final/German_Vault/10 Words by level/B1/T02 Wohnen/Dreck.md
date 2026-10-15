@@ -35,6 +35,9 @@ status: "new"
 > Iss den Apfel nicht! Der lag im Dreck.
 > *Do not eat the apple! It was lying in the dirt.*
 
+**Phrases & Expressions:**
+- **Iss den Apfel nicht! Der lag im Dreck** — *Do not eat the apple! It was lying in the dirt* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 1b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Speicherkarte meiner Kamera ist voll.
 > *The memory card in my camera is full.*
 
+**Phrases & Expressions:**
+- **eine Speicherkarte einlegen** — *memory card*
+- **die Speicherkarte formatieren** — *memory card*
+- **Fotos auf der Speicherkarte** — *memory card*
+
 **Collocations**
 - eine Speicherkarte einlegen
 - die Speicherkarte formatieren

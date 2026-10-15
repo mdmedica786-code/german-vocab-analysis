@@ -33,6 +33,9 @@ status: "new"
 > Wir feiern heute meinen Geburtstag.
 > *Today we are celebrating my birthday.*
 
+**Phrases & Expressions:**
+- **Hast du Lust, am Samstag bei mir zu feiern?** — Would you like to celebrate at my place on Saturday? *([[B1-18 Einladen, zusagen und absagen|Einladen]] · B1)*
+
 **Source:** Netzwerk neu A1 K6 1a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

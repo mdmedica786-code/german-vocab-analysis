@@ -29,6 +29,11 @@ status: "new"
 > Er hat einen britischen Pass.
 > *He has a British passport.*
 
+**Phrases & Expressions:**
+- **die britische Regierung** — *British*
+- **britischer Humor** — *British*
+- **der britische Akzent** — *British*
+
 **Collocations**
 - die britische Regierung
 - britischer Humor

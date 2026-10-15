@@ -29,6 +29,11 @@ status: "new"
 > Ich finde seine Freundlichkeit verlogen.
 > *I find his friendliness hypocritical.*
 
+**Phrases & Expressions:**
+- **verlogen sein** — *lying; hypocritical*
+- **eine verlogene Moral** — *lying; hypocritical*
+- **ein verlogener Mensch** — *lying; hypocritical*
+
 **Collocations**
 - verlogen sein
 - eine verlogene Moral

@@ -34,6 +34,9 @@ status: "new"
 > Mein Sohn ist im Sportverein.
 > *My son is in the sports club.*
 
+**Phrases & Expressions:**
+- **Mein Sohn ist im Sportverein** — *My son is in the sports club* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 3a (Sportlich, sportlich)
 <!-- bank:end -->
 

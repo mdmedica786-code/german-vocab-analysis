@@ -34,6 +34,9 @@ status: "new"
 > Ich interessiere mich für Fotografie.
 > *I am interested in photography.*
 
+**Phrases & Expressions:**
+- **Ich interessiere mich für Fotografie** — *I am interested in photography* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

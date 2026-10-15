@@ -35,6 +35,9 @@ status: "new"
 > Der Umzug ist nächste Woche.
 > *The move is next week.*
 
+**Phrases & Expressions:**
+- **Hilfst du mir kurz beim Umzug?** — Can you help me quickly with the move? *([[B1-07 Bitten und höflich nachfragen|Um Hilfe bitten]] · B1)*
+
 **Source:** Netzwerk neu A1 K9 4f ÜB (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Er liest Nachrichten im Internet.
 > *He reads the news on the internet.*
 
+**Phrases & Expressions:**
+- **Ich habe leider keine guten Nachrichten für Sie.** — I'm afraid I don't have good news for you. *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Ankündigung]] · B2)*
+
 **Source:** Netzwerk neu A1 K10 9a (Studium und Beruf)
 <!-- bank:end -->
 

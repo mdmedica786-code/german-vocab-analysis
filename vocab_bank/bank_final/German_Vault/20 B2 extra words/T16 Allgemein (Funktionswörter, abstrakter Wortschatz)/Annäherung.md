@@ -33,6 +33,11 @@ status: "new"
 > Es gab eine erste Annäherung der beiden Positionen.
 > *There was a first rapprochement of the two positions.*
 
+**Phrases & Expressions:**
+- **eine Annäherung der beiden Länder** — *approach; rapprochement*
+- **eine erste Annäherung** — *approach; rapprochement*
+- **die Annäherung an ein Ziel** — *approach; rapprochement*
+
 **Collocations**
 - eine Annäherung der beiden Länder
 - eine erste Annäherung

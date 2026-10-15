@@ -31,6 +31,9 @@ status: "new"
 > Sorry, ich bin zu spät!
 > *Sorry, I'm late!*
 
+**Phrases & Expressions:**
+- **Sorry, ich bin zu spät** — *Sorry, I'm late* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 4a (Gute Reise!)
 <!-- bank:end -->
 

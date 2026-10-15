@@ -33,6 +33,11 @@ status: "new"
 > Bei Fragen zum Arbeitsrecht hilft die Gewerkschaft.
 > *For questions about employment law the union helps.*
 
+**Phrases & Expressions:**
+- **Arbeitsrecht beachten** — *employment law*
+- **Fachanwalt für Arbeitsrecht** — *employment law*
+- **nach dem Arbeitsrecht** — *employment law*
+
 **Collocations**
 - Arbeitsrecht beachten
 - Fachanwalt für Arbeitsrecht

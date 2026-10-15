@@ -33,6 +33,11 @@ status: "new"
 > Der Koordinator verteilt die Aufgaben im Team.
 > *The coordinator distributes the tasks in the team.*
 
+**Phrases & Expressions:**
+- **ein erfahrener Koordinator** — *coordinator (male)*
+- **als Koordinator arbeiten** — *coordinator (male)*
+- **der Koordinator des Projekts** — *coordinator (male)*
+
 **Collocations**
 - ein erfahrener Koordinator
 - als Koordinator arbeiten

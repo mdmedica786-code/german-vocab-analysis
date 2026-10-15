@@ -34,6 +34,9 @@ status: "new"
 > Im Sommer brauchen wir eine Klimaanlage.
 > *In summer we need an air conditioner.*
 
+**Phrases & Expressions:**
+- **Im Sommer brauchen wir eine Klimaanlage** — *In summer we need an air conditioner* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

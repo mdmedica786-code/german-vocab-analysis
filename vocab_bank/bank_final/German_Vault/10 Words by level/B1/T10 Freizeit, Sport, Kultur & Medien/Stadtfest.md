@@ -34,6 +34,9 @@ status: "new"
 > Am Wochenende ist ein Stadtfest.
 > *There is a city festival at the weekend.*
 
+**Phrases & Expressions:**
+- **Am Wochenende ist ein Stadtfest** — *There is a city festival at the weekend* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 4d (Veränderungen)
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das ist ein alter Mythos.
 > *That is an old myth.*
+
+**Phrases & Expressions:**
+- **Das ist ein alter Mythos** — *That is an old myth* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

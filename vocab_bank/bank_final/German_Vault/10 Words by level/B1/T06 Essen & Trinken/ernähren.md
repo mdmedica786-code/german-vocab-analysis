@@ -34,6 +34,11 @@ status: "new"
 > Wie ernähre ich mich richtig?
 > *How do I eat properly?*
 
+**Phrases & Expressions:**
+- **Wie ernähren Sie sich normalerweise?** — How do you normally eat? *([[FSP-05 Familien- und Sozialanamnese|Ernährung erfragen]] · B2)*
+- **Ich empfehle Ihnen, sich ausgewogen zu ernähren.** — I recommend that you eat a balanced diet. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Ernährung beraten]] · B1)*
+- **Wie ernährt sich Ihr Kind? Isst es gut?** — How does your child eat? Does it eat well? *([[FSP-22 Kinder, Eltern und ältere Patienten|Eltern befragen]] · B1)*
+
 **Source:** Netzwerk neu B1 K3 2 ÜB (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

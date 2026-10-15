@@ -31,6 +31,9 @@ status: "new"
 > Ich habe einen Urlaubsgruß aus Italien bekommen.
 > *I received holiday greetings from Italy.*
 
+**Phrases & Expressions:**
+- **Ich habe einen Urlaubsgruß aus Italien bekommen** — *I received holiday greetings from Italy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 2 (Gute Reise!)
 <!-- bank:end -->
 

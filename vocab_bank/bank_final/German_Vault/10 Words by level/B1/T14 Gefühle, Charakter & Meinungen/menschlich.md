@@ -31,6 +31,12 @@ status: "new"
 > Fehler zu machen ist menschlich.
 > *To make mistakes is human.*
 
+**Phrases & Expressions:**
+- **menschliche Fehler** — *human*
+- **menschlich sein** — *human*
+- **menschliche Wärme** — *human*
+- **menschlich behandeln** — *human*
+
 **Collocations**
 - menschliche Fehler
 - menschlich sein

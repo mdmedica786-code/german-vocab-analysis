@@ -34,6 +34,9 @@ status: "new"
 > Die Bundesrätin besucht den Kanton.
 > *The Federal Councillor visits the canton.*
 
+**Phrases & Expressions:**
+- **Die Bundesrätin besucht den Kanton** — *The Federal Councillor visits the canton* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

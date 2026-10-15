@@ -33,6 +33,11 @@ status: "new"
 > Die Tabelle hat drei Spalten.
 > *The table has three columns.*
 
+**Phrases & Expressions:**
+- **in der linken Spalte** — *column; crack*
+- **Zeilen und Spalten** — *column; crack*
+- **eine Spalte hinzufügen** — *column; crack*
+
 **Collocations**
 - in der linken Spalte
 - Zeilen und Spalten

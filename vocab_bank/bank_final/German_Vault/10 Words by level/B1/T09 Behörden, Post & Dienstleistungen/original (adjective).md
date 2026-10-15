@@ -31,6 +31,9 @@ status: "new"
 > Ich muss das originale Dokument abgeben.
 > *I have to hand in the original document.*
 
+**Phrases & Expressions:**
+- **Ich muss das originale Dokument abgeben** — *I have to hand in the original document* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

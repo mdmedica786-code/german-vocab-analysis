@@ -31,6 +31,9 @@ status: "new"
 > Mit diesen Redemitteln können Sie Ihre Meinung sagen.
 > *With these phrases you can state your opinion.*
 
+**Phrases & Expressions:**
+- **Mit diesen Redemitteln können Sie Ihre Meinung sagen** — *With these phrases you can state your opinion* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 8e (Guten Tag!)
 <!-- bank:end -->
 

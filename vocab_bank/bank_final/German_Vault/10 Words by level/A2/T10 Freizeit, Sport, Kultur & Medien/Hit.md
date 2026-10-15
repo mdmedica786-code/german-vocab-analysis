@@ -35,6 +35,9 @@ status: "new"
 > Das Lied ist ein großer Hit.
 > *The song is a big hit.*
 
+**Phrases & Expressions:**
+- **Das Lied ist ein großer Hit** — *The song is a big hit* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 6b (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

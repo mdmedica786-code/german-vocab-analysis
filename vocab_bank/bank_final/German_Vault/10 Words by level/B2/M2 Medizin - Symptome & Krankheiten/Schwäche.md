@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Patient klagt über Schwäche in den Beinen.
 > *The patient complains of weakness in the legs.*
+
+**Phrases & Expressions:**
+- **Eine Schwäche von mir ist, dass ich manchmal zu perfektionistisch bin.** — One weakness of mine is that I am sometimes too perfectionist. *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Schwächen nennen]] · B2)*
 <!-- bank:end -->
 
 ## My notes

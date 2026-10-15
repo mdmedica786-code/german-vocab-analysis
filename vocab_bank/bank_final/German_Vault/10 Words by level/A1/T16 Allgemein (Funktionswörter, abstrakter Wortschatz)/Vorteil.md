@@ -35,6 +35,12 @@ status: "new"
 > Der Vorteil von dieser Wohnung ist, dass sie direkt im Zentrum liegt.
 > *The advantage of this flat is that it is right in the centre.*
 
+**Phrases & Expressions:**
+- **den Vorteil haben, dass ...** — to have the advantage that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **Ein großer Vorteil ist, dass ...** — A great advantage is that ... *([[B1-04 Vor- und Nachteile nennen|Vorteil nennen]] · B1)*
+- **Alles in allem überwiegen die Vorteile.** — All in all, the advantages outweigh the disadvantages. *([[B1-04 Vor- und Nachteile nennen|Zum Ergebnis kommen]] · B1)*
+- **Meiner Meinung nach überwiegen die Vorteile.** — In my opinion the advantages outweigh the disadvantages. *([[B2-03 Forumsbeitrag und Stellungnahme B2|These formulieren]] · B2)*
+
 **Source:** Netzwerk neu A1 K9 10b (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

@@ -31,6 +31,11 @@ status: "new"
 > Der Kabarettist parodiert gern bekannte Politiker.
 > *The cabaret artist likes to parody well-known politicians.*
 
+**Phrases & Expressions:**
+- **jemanden parodieren** — *to parody*
+- **einen Politiker parodieren** — *to parody*
+- **ein Lied parodieren** — *to parody*
+
 **Collocations**
 - jemanden parodieren
 - einen Politiker parodieren

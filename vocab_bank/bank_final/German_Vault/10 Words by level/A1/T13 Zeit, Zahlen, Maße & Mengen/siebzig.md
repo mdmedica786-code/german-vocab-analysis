@@ -31,6 +31,9 @@ status: "new"
 > Mein Onkel ist siebzig Jahre alt.
 > *My uncle is seventy years old.*
 
+**Phrases & Expressions:**
+- **Mein Onkel ist siebzig Jahre alt** — *My uncle is seventy years old* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

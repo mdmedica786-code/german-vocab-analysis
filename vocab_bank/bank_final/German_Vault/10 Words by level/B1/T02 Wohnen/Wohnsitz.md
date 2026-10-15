@@ -34,6 +34,9 @@ status: "new"
 > Er hat einen festen Wohnsitz in dieser Stadt.
 > *He has a permanent residence in this city.*
 
+**Phrases & Expressions:**
+- **Er hat einen festen Wohnsitz in dieser Stadt** — *He has a permanent residence in this city* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

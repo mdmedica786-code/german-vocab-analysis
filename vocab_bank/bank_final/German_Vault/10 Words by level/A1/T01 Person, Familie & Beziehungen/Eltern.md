@@ -35,6 +35,10 @@ status: "new"
 > Meine Eltern leben in Spanien.
 > *My parents live in Spain.*
 
+**Phrases & Expressions:**
+- **Sind Ihre Eltern oder Geschwister herzkrank oder zuckerkrank?** — Are your parents or siblings suffering from heart disease or diabetes? *([[FSP-05 Familien- und Sozialanamnese|Familienanamnese]] · B1)*
+- **Woran sind Ihre Eltern gestorben?** — What did your parents die of? *([[FSP-05 Familien- und Sozialanamnese|Familienanamnese]] · B2)*
+
 **Source:** Netzwerk neu A1 K5 7b (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

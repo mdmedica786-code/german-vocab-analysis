@@ -31,6 +31,11 @@ status: "new"
 > Der Mann bedrohte sie mit einem Messer.
 > *The man threatened her with a knife.*
 
+**Phrases & Expressions:**
+- **jemanden bedrohen** — *to threaten*
+- **vom Aussterben bedroht** — *to threaten*
+- **bedroht werden** — *to threaten*
+
 **Collocations**
 - jemanden bedrohen
 - vom Aussterben bedroht

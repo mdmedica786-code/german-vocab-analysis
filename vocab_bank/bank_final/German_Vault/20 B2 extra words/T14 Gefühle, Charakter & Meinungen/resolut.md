@@ -29,6 +29,11 @@ status: "new"
 > Sie lehnte den Vorschlag resolut ab.
 > *She rejected the proposal resolutely.*
 
+**Phrases & Expressions:**
+- **resolut auftreten** — *resolute; firm*
+- **resolut ablehnen** — *resolute; firm*
+- **eine resolute Frau** — *resolute; firm*
+
 **Collocations**
 - resolut auftreten
 - resolut ablehnen

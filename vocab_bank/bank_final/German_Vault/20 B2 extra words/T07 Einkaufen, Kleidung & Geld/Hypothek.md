@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Haus liegt noch eine Hypothek.
 > *There is still a mortgage on the house.*
 
+**Phrases & Expressions:**
+- **eine Hypothek aufnehmen** — *mortgage*
+- **die Hypothek abbezahlen** — *mortgage*
+- **mit einer Hypothek belastet** — *mortgage*
+
 **Collocations**
 - eine Hypothek aufnehmen
 - die Hypothek abbezahlen

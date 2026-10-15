@@ -33,6 +33,11 @@ status: "new"
 > In meinem Freundeskreis spricht niemand Deutsch.
 > *Nobody in my circle of friends speaks German.*
 
+**Phrases & Expressions:**
+- **im Freundeskreis** — *circle of friends*
+- **ein großer Freundeskreis** — *circle of friends*
+- **den Freundeskreis erweitern** — *circle of friends*
+
 **Collocations**
 - im Freundeskreis
 - ein großer Freundeskreis

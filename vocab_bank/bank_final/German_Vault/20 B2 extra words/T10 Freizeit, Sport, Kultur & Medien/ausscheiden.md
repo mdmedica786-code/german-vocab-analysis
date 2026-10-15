@@ -32,6 +32,11 @@ status: "new"
 > Die Mannschaft ist im Viertelfinale ausgeschieden.
 > *The team was eliminated in the quarter-final.*
 
+**Phrases & Expressions:**
+- **aus dem Dienst ausscheiden** — *to drop out; to retire; to be eliminated*
+- **aus dem Wettbewerb ausscheiden** — *to drop out; to retire; to be eliminated*
+- **aus einer Firma ausscheiden** — *to drop out; to retire; to be eliminated*
+
 **Collocations**
 - aus dem Dienst ausscheiden
 - aus dem Wettbewerb ausscheiden

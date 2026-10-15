@@ -33,6 +33,11 @@ status: "new"
 > Sie erhielt das Bundesverdienstkreuz für ihre Arbeit.
 > *She received the Federal Cross of Merit for her work.*
 
+**Phrases & Expressions:**
+- **das Bundesverdienstkreuz erhalten** — *Federal Cross of Merit*
+- **mit dem Bundesverdienstkreuz ausgezeichnet werden** — *Federal Cross of Merit*
+- **das Bundesverdienstkreuz verleihen** — *Federal Cross of Merit*
+
 **Collocations**
 - das Bundesverdienstkreuz erhalten
 - mit dem Bundesverdienstkreuz ausgezeichnet werden

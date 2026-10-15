@@ -35,6 +35,9 @@ status: "new"
 > Gehörlose kommunizieren oft mit Gebärdensprache.
 > *Deaf people often communicate with sign language.*
 
+**Phrases & Expressions:**
+- **Gehörlose kommunizieren oft mit Gebärdensprache** — *Deaf people often communicate with sign language* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

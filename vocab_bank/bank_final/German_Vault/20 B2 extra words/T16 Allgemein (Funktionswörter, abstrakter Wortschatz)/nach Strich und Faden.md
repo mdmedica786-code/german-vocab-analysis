@@ -29,6 +29,10 @@ status: "new"
 > Er wurde von den Betrügern nach Strich und Faden belogen.
 > *He was thoroughly lied to by the fraudsters.*
 
+**Phrases & Expressions:**
+- **nach Strich und Faden belügen** — *thoroughly (usually negative)*
+- **gründlich** — *thoroughly (usually negative)*
+
 **Collocations**
 - nach Strich und Faden belügen
 - gründlich

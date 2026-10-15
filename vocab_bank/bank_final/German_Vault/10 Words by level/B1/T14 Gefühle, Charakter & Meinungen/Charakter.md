@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Sie hat einen starken Charakter.
 > *She has a strong character.*
+
+**Phrases & Expressions:**
+- **Sie hat einen starken Charakter** — *She has a strong character* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

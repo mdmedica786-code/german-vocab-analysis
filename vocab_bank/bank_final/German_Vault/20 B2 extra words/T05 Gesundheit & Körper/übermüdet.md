@@ -29,6 +29,11 @@ status: "new"
 > Übermüdet sollte man nicht Auto fahren.
 > *When overtired you should not drive.*
 
+**Phrases & Expressions:**
+- **übermüdet sein** — *overtired; exhausted*
+- **völlig übermüdet** — *overtired; exhausted*
+- **übermüdet am Steuer** — *overtired; exhausted*
+
 **Collocations**
 - übermüdet sein
 - völlig übermüdet

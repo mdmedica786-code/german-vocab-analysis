@@ -34,6 +34,9 @@ status: "new"
 > Im Winter trage ich einen warmen Schal.
 > *In winter I wear a warm scarf.*
 
+**Phrases & Expressions:**
+- **Im Winter trage ich einen warmen Schal** — *In winter I wear a warm scarf* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 4b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

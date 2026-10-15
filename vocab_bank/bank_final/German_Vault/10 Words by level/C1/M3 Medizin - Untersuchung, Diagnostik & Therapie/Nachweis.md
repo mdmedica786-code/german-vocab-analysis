@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Nachweis des Virus gelang im Labor.
 > *The virus was detected in the laboratory.*
+
+**Phrases & Expressions:**
+- **Der Nachweis des Virus gelang im Labor** — *The virus was detected in the laboratory* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

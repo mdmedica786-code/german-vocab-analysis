@@ -33,6 +33,11 @@ status: "new"
 > Er hat ein ruhiges und freundliches Wesen.
 > *He has a calm and friendly nature.*
 
+**Phrases & Expressions:**
+- **ein freundliches Wesen** — *nature; being; creature*
+- **das Wesen der Sache** — *nature; being; creature*
+- **ein lebendes Wesen** — *nature; being; creature*
+
 **Collocations**
 - ein freundliches Wesen
 - das Wesen der Sache

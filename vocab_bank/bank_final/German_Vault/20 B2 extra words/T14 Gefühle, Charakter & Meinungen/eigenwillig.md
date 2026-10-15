@@ -29,6 +29,11 @@ status: "new"
 > Sie hat einen eigenwilligen Stil.
 > *She has an individualistic style.*
 
+**Phrases & Expressions:**
+- **ein eigenwilliger Charakter** — *individualistic; wilful*
+- **eigenwillig gekleidet** — *individualistic; wilful*
+- **eine eigenwillige Meinung** — *individualistic; wilful*
+
 **Collocations**
 - ein eigenwilliger Charakter
 - eigenwillig gekleidet

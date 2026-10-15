@@ -31,6 +31,12 @@ status: "new"
 > Du solltest nicht alles negativ sehen.
 > *You shouldn't see everything negatively.*
 
+**Phrases & Expressions:**
+- **negativ denken** — *negative*
+- **ein negatives Ergebnis** — *negative*
+- **negativ getestet** — *negative*
+- **negative Folgen** — *negative*
+
 **Collocations**
 - negativ denken
 - ein negatives Ergebnis

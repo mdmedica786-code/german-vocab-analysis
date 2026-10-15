@@ -33,6 +33,11 @@ status: "new"
 > Die Durchsetzung der Regeln ist schwierig.
 > *Enforcing the rules is difficult.*
 
+**Phrases & Expressions:**
+- **die Durchsetzung von Rechten** — *enforcement; implementation*
+- **zur Durchsetzung** — *enforcement; implementation*
+- **die Durchsetzung eines Anspruchs** — *enforcement; implementation*
+
 **Collocations**
 - die Durchsetzung von Rechten
 - zur Durchsetzung

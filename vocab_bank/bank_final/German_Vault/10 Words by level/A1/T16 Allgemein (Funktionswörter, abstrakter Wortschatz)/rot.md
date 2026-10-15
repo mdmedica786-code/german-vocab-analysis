@@ -31,6 +31,9 @@ status: "new"
 > Sie trägt heute einen roten Mantel.
 > *She is wearing a red coat today.*
 
+**Phrases & Expressions:**
+- **Sie trägt heute einen roten Mantel** — *She is wearing a red coat today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 11a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

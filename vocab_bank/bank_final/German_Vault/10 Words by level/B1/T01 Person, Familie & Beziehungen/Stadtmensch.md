@@ -34,6 +34,9 @@ status: "new"
 > Ich bin ein Stadtmensch und mag das Landleben nicht.
 > *I am a city person and do not like country life.*
 
+**Phrases & Expressions:**
+- **Ich bin ein Stadtmensch und mag das Landleben nicht** — *I am a city person and do not like country life* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 4a (Stadt, Land, Fluss)
 <!-- bank:end -->
 

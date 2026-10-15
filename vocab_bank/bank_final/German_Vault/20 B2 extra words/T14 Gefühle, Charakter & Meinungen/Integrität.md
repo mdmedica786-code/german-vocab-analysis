@@ -33,6 +33,11 @@ status: "new"
 > An der Integrität des Richters zweifelt niemand.
 > *Nobody doubts the judge's integrity.*
 
+**Phrases & Expressions:**
+- **persönliche Integrität** — *integrity*
+- **die Integrität wahren** — *integrity*
+- **an der Integrität zweifeln** — *integrity*
+
 **Collocations**
 - persönliche Integrität
 - die Integrität wahren

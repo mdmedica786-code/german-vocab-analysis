@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Bearbeitung des Antrags dauert zwei Wochen.
 > *Processing the application takes two weeks.*
+
+**Phrases & Expressions:**
+- **Die Bearbeitung des Antrags dauert zwei Wochen** — *Processing the application takes two weeks* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

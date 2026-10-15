@@ -30,6 +30,9 @@ status: "new"
 > Im Sommer ist es hier oft schwül.
 > *In summer it is often muggy here.*
 
+**Phrases & Expressions:**
+- **Im Sommer ist es hier oft schwül** — *In summer it is often muggy here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 11a (Umweltfreundlich?)
 <!-- bank:end -->
 

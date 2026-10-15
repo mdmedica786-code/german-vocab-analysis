@@ -33,6 +33,11 @@ status: "new"
 > Nach Erfahrungswerten dauert der Bau etwa ein Jahr.
 > *According to experience the construction takes about a year.*
 
+**Phrases & Expressions:**
+- **nach Erfahrungswerten** — *empirical value; figure based on experience*
+- **Erfahrungswerte sammeln** — *empirical value; figure based on experience*
+- **auf Erfahrungswerte zurückgreifen** — *empirical value; figure based on experience*
+
 **Collocations**
 - nach Erfahrungswerten
 - Erfahrungswerte sammeln

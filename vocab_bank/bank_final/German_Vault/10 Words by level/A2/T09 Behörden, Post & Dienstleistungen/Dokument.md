@@ -35,6 +35,9 @@ status: "new"
 > Hast du alle Dokumente für die Anmeldung dabei?
 > *Do you have all the documents for registration with you?*
 
+**Phrases & Expressions:**
+- **Hast du alle Dokumente für die Anmeldung dabei** — *Do you have all the documents for registration with you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

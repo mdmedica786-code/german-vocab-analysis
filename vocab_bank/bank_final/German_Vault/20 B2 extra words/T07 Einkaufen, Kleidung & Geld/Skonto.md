@@ -33,6 +33,11 @@ status: "new"
 > Bei Zahlung innerhalb von zehn Tagen gewähren wir drei Prozent Skonto.
 > *For payment within ten days we grant three per cent cash discount.*
 
+**Phrases & Expressions:**
+- **Skonto gewähren** — *cash discount*
+- **Skonto abziehen** — *cash discount*
+- **zwei Prozent Skonto** — *cash discount*
+
 **Collocations**
 - Skonto gewähren
 - Skonto abziehen

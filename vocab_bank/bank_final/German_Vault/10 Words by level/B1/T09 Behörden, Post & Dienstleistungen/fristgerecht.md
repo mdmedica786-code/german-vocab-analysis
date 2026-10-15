@@ -30,6 +30,9 @@ status: "new"
 > Bitte zahlen Sie fristgerecht.
 > *Please pay within the deadline.*
 
+**Phrases & Expressions:**
+- **Bitte zahlen Sie fristgerecht** — *Please pay within the deadline* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3b ÜB (Geld regiert die Welt?)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Sie besucht jede Woche den Friedhof.
 > *She visits the cemetery every week.*
 
+**Phrases & Expressions:**
+- **auf den Friedhof gehen** — *cemetery*
+- **ein alter Friedhof** — *cemetery*
+- **der jüdische Friedhof** — *cemetery*
+
 **Collocations**
 - auf den Friedhof gehen
 - ein alter Friedhof

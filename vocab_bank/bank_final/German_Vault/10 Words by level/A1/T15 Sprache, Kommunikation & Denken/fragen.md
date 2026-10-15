@@ -34,6 +34,14 @@ status: "new"
 > Er möchte Sie etwas fragen. Wann kommen Sie?
 > *He would like to ask you something. When are you coming?*
 
+**Phrases & Expressions:**
+- **ich wollte ... fragen** — I wanted to ask ... *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B1)*
+- **fragen, ob ...** — to ask whether ... *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B1)*
+- **ist zu fragen, ob ...** — one must ask whether ... *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B2)*
+- **nicht in Frage kommen** — to be out of the question *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B2)*
+- **die Frage, ob ...** — the question of whether ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **es stellt sich die Frage, ob ...** — the question arises whether ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+
 **Source:** Netzwerk neu A1 K1 6c (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

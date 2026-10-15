@@ -33,6 +33,11 @@ status: "new"
 > Ohne Kassenbon kann ich den Pullover nicht umtauschen.
 > *Without the till receipt I cannot exchange the jumper.*
 
+**Phrases & Expressions:**
+- **den Kassenbon aufbewahren** — *till receipt*
+- **Kassenbon vorlegen** — *till receipt*
+- **ohne Kassenbon** — *till receipt*
+
 **Collocations**
 - den Kassenbon aufbewahren
 - Kassenbon vorlegen

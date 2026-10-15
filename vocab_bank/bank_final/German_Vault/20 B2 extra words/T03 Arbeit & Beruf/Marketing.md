@@ -33,6 +33,11 @@ status: "new"
 > Sie arbeitet im Marketing einer großen Firma.
 > *She works in the marketing department of a large company.*
 
+**Phrases & Expressions:**
+- **im Marketing arbeiten** — *marketing*
+- **eine Marketingstrategie** — *marketing*
+- **Marketing und Vertrieb** — *marketing*
+
 **Collocations**
 - im Marketing arbeiten
 - eine Marketingstrategie

@@ -32,6 +32,11 @@ status: "new"
 > Wir wollen die bisherigen Regeln beibehalten.
 > *We want to keep the existing rules.*
 
+**Phrases & Expressions:**
+- **eine Regelung beibehalten** — *to keep; to maintain; to retain*
+- **den Kurs beibehalten** — *to keep; to maintain; to retain*
+- **die Gewohnheit beibehalten** — *to keep; to maintain; to retain*
+
 **Collocations**
 - eine Regelung beibehalten
 - den Kurs beibehalten

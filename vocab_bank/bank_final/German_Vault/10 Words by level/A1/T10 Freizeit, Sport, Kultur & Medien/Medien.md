@@ -35,6 +35,9 @@ status: "new"
 > Umweltschutz ist in den Medien ein großes Thema.
 > *Environmental protection is a big topic in the media.*
 
+**Phrases & Expressions:**
+- **Umweltschutz ist in den Medien ein großes Thema** — *Environmental protection is a big topic in the media* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 6a (Arbeitsalltag) · Goethe word list B1
 <!-- bank:end -->
 

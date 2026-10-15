@@ -33,6 +33,11 @@ status: "new"
 > Die Erderwärmung führt zum Abschmelzen der Gletscher.
 > *Global warming leads to the melting of the glaciers.*
 
+**Phrases & Expressions:**
+- **die Erderwärmung begrenzen** — *global warming*
+- **Folgen der Erderwärmung** — *global warming*
+- **Erderwärmung bekämpfen** — *global warming*
+
 **Collocations**
 - die Erderwärmung begrenzen
 - Folgen der Erderwärmung

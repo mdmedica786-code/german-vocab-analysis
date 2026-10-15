@@ -33,6 +33,11 @@ status: "new"
 > Der Autohändler zeigt uns ein günstiges Angebot.
 > *The car dealer shows us a good offer.*
 
+**Phrases & Expressions:**
+- **beim Autohändler** — *car dealer (male)*
+- **ein seriöser Autohändler** — *car dealer (male)*
+- **einen Autohändler besuchen** — *car dealer (male)*
+
 **Collocations**
 - beim Autohändler
 - ein seriöser Autohändler

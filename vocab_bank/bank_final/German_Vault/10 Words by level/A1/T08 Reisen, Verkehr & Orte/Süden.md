@@ -35,6 +35,9 @@ status: "new"
 > Im Süden gibt es hohe Berge.
 > *In the south there are high mountains.*
 
+**Phrases & Expressions:**
+- **Die Stadt liegt im Norden/Süden von ...** — The city lies in the north/south of ... *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ort beschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K12 11a (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

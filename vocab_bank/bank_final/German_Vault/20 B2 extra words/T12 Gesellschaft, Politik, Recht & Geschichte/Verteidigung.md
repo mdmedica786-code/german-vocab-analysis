@@ -33,6 +33,11 @@ status: "new"
 > Die Verteidigung des Landes ist Aufgabe der Armee.
 > *The defence of the country is the task of the army.*
 
+**Phrases & Expressions:**
+- **zur Verteidigung** — *defence*
+- **die Verteidigung übernehmen** — *defence*
+- **Verteidigung und Angriff** — *defence*
+
 **Collocations**
 - zur Verteidigung
 - die Verteidigung übernehmen

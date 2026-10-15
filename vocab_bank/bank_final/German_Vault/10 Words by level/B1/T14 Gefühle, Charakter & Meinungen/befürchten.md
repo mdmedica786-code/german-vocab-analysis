@@ -32,6 +32,9 @@ status: "new"
 > Ich befürchte, dass wir zu spät kommen.
 > *I fear that we will be late.*
 
+**Phrases & Expressions:**
+- **Ich befürchte, dass wir zu spät kommen** — *I fear that we will be late* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 10b (Miteinander)
 <!-- bank:end -->
 

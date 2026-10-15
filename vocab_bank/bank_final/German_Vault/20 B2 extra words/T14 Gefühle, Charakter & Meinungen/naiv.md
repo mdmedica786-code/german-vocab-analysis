@@ -29,6 +29,11 @@ status: "new"
 > Es war naiv zu glauben, dass alles einfach wird.
 > *It was naive to believe that everything would be easy.*
 
+**Phrases & Expressions:**
+- **naiv sein** — *naive*
+- **naiv wirken** — *naive*
+- **eine naive Vorstellung** — *naive*
+
 **Collocations**
 - naiv sein
 - naiv wirken

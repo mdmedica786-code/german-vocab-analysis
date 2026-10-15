@@ -33,6 +33,11 @@ status: "new"
 > Die Zahl der Erwerbstätigen ist leicht gestiegen.
 > *The number of employed persons has risen slightly.*
 
+**Phrases & Expressions:**
+- **die Zahl der Erwerbstätigen** — *employed person; gainfully employed person*
+- **ein Erwerbstätiger** — *employed person; gainfully employed person*
+- **Erwerbstätige und Arbeitslose** — *employed person; gainfully employed person*
+
 **Collocations**
 - die Zahl der Erwerbstätigen
 - ein Erwerbstätiger

@@ -34,6 +34,9 @@ status: "new"
 > Der Steward bringt das Mittagessen.
 > *The flight attendant brings the lunch.*
 
+**Phrases & Expressions:**
+- **Der Steward bringt das Mittagessen** — *The flight attendant brings the lunch* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

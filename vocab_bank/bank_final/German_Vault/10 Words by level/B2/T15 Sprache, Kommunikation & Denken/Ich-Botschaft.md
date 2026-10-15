@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Mit einer Ich-Botschaft sagt man ruhig, was man fühlt.
 > *With an I-message you calmly say what you feel.*
+
+**Phrases & Expressions:**
+- **Mit einer Ich-Botschaft sagt man ruhig, was man fühlt** — *With an I-message you calmly say what you feel* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

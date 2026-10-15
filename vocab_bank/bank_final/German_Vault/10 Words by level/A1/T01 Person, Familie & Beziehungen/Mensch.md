@@ -37,6 +37,13 @@ status: "new"
 > Die Menschen sind hier anders als bei uns.
 > *People here are different from where we come from.*
 
+**Phrases & Expressions:**
+- **viele Menschen** — many people *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+- **die meisten Menschen** — most people *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **Immer mehr Menschen ...** — More and more people ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Entwicklung beschreiben]] · B1)*
+- **Er/Sie ist ein sehr ... Mensch.** — He/she is a very ... person. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Charakter beschreiben]] · B1)*
+- **Berichten zufolge sind mehrere Menschen verletzt worden.** — According to reports, several people have been injured. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Quelle distanziert wiedergeben]] · B2)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

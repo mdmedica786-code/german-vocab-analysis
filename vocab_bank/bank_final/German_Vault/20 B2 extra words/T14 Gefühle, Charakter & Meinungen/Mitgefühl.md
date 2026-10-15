@@ -33,6 +33,11 @@ status: "new"
 > Die Pflegerin zeigt viel Mitgefühl für die Patienten.
 > *The nurse shows a lot of compassion for the patients.*
 
+**Phrases & Expressions:**
+- **Mitgefühl zeigen** — *compassion; sympathy*
+- **Mitgefühl haben** — *compassion; sympathy*
+- **mit Mitgefühl** — *compassion; sympathy*
+
 **Collocations**
 - Mitgefühl zeigen
 - Mitgefühl haben

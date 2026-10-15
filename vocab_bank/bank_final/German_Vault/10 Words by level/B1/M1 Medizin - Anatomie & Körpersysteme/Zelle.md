@@ -33,6 +33,12 @@ status: "new"
 > Der Körper besteht aus vielen Zellen.
 > *The body consists of many cells.*
 
+**Phrases & Expressions:**
+- **gesunde Zellen** — *cell*
+- **Zellen teilen sich** — *cell*
+- **Krebszellen** — *cell*
+- **rote Blutzellen** — *cell*
+
 **Collocations**
 - gesunde Zellen
 - Zellen teilen sich

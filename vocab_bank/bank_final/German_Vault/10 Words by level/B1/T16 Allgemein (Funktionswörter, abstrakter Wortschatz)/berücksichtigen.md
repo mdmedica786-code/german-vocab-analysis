@@ -32,6 +32,14 @@ status: "new"
 > Bitte berücksichtigen Sie meine Wünsche.
 > *Please take my wishes into account.*
 
+**Phrases & Expressions:**
+- **zu berücksichtigen ist, dass ...** — it must be taken into account that ... *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · C1)*
+- **Wir respektieren Ihre Wünsche und versuchen, sie zu berücksichtigen.** — We respect your wishes and try to take them into account. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Kulturelle Sensibilität]] · B2)*
+- **Wünsche berücksichtigen** — *to consider*
+- **alle Faktoren berücksichtigen** — *to consider*
+- **berücksichtigt werden** — *to consider*
+- **nicht berücksichtigen** — *to consider*
+
 **Collocations**
 - Wünsche berücksichtigen
 - alle Faktoren berücksichtigen

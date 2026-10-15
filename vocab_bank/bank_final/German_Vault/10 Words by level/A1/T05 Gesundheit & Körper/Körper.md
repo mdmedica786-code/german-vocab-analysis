@@ -35,6 +35,10 @@ status: "new"
 > Der Arzt sagt, ich muss etwas für meinen Körper tun, z. B. schwimmen oder Fahrrad fahren.
 > *The doctor says I have to do something for my body, e.g. swim or cycle.*
 
+**Phrases & Expressions:**
+- **Eine Entzündung bedeutet, dass der Körper auf etwas reagiert.** — An inflammation means that the body is reacting to something. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B1)*
+- **Mit einer Allergie reagiert Ihr Körper überempfindlich auf einen Stoff.** — With an allergy your body reacts hypersensitively to a substance. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 6a (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

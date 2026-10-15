@@ -35,6 +35,9 @@ status: "new"
 > Wie kann ich Sie erreichen? Haben Sie ein Mobiltelefon?
 > *How can I reach you? Do you have a mobile phone?*
 
+**Phrases & Expressions:**
+- **Wie kann ich Sie erreichen? Haben Sie ein Mobiltelefon** — *How can I reach you? Do you have a mobile phone* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!) · Goethe word list A2
 <!-- bank:end -->
 

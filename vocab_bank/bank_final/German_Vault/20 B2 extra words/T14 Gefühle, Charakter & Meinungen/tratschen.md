@@ -31,6 +31,11 @@ status: "new"
 > Die Nachbarinnen tratschen gern über alle im Haus.
 > *The neighbours like to gossip about everyone in the building.*
 
+**Phrases & Expressions:**
+- **über jemanden tratschen** — *to gossip*
+- **gern tratschen** — *to gossip*
+- **Tratsch und Klatsch** — *to gossip*
+
 **Collocations**
 - über jemanden tratschen
 - gern tratschen

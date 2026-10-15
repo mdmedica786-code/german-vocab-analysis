@@ -33,6 +33,9 @@ status: "new"
 > Wir haben beschlossen, uns ein kleineres Auto zu kaufen.
 > *We have decided to buy a smaller car.*
 
+**Phrases & Expressions:**
+- **Wir haben beschlossen, uns ein kleineres Auto zu kaufen** — *We have decided to buy a smaller car* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 2b (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

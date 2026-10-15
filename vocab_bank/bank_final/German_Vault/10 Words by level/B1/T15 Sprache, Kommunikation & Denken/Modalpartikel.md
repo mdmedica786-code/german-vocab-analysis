@@ -34,6 +34,9 @@ status: "new"
 > Doch und ja sind Modalpartikeln.
 > *Doch and ja are modal particles.*
 
+**Phrases & Expressions:**
+- **Doch und ja sind Modalpartikeln** — *Doch and ja are modal particles* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches)
 <!-- bank:end -->
 

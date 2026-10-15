@@ -29,6 +29,11 @@ status: "new"
 > Das ist nur meine subjektive Meinung.
 > *That is only my subjective opinion.*
 
+**Phrases & Expressions:**
+- **subjektiv empfinden** — *subjective*
+- **eine subjektive Wahrnehmung** — *subjective*
+- **rein subjektiv** — *subjective*
+
 **Collocations**
 - subjektiv empfinden
 - eine subjektive Wahrnehmung

@@ -31,6 +31,12 @@ status: "new"
 > Das ist dann echt stressig!
 > *That's really stressful then!*
 
+**Phrases & Expressions:**
+- **echt Leder** — *real; really (colloq.)*
+- **echt gut** — *real; really (colloq.)*
+- **ein echter Freund** — *real; really (colloq.)*
+- **echt jetzt** — *real; really (colloq.)*
+
 **Collocations**
 - echt Leder
 - echt gut

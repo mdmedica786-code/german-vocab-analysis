@@ -31,6 +31,9 @@ status: "new"
 > Ich finde es blöd, dass du morgen gehen musst.
 > *I think it's stupid that you have to leave tomorrow.*
 
+**Phrases & Expressions:**
+- **Ich finde es blöd, dass du morgen gehen musst** — *I think it's stupid that you have to leave tomorrow* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 8b (Immer online?) · Goethe word list A2
 <!-- bank:end -->
 

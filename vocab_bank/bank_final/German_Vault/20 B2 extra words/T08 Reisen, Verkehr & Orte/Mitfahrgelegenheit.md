@@ -33,6 +33,11 @@ status: "new"
 > Ich suche für Samstag eine Mitfahrgelegenheit nach Hamburg.
 > *I am looking for a lift to Hamburg on Saturday.*
 
+**Phrases & Expressions:**
+- **eine Mitfahrgelegenheit suchen** — *lift; ride share*
+- **eine Mitfahrgelegenheit anbieten** — *lift; ride share*
+- **eine Mitfahrgelegenheit finden** — *lift; ride share*
+
 **Collocations**
 - eine Mitfahrgelegenheit suchen
 - eine Mitfahrgelegenheit anbieten

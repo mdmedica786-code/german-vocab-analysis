@@ -33,6 +33,11 @@ status: "new"
 > Er forderte mit Nachdruck eine Antwort.
 > *He demanded an answer with emphasis.*
 
+**Phrases & Expressions:**
+- **mit Nachdruck** — *emphasis; insistence*
+- **Nachdruck verleihen** — *emphasis; insistence*
+- **besonderen Nachdruck legen auf** — *emphasis; insistence*
+
 **Collocations**
 - mit Nachdruck
 - Nachdruck verleihen

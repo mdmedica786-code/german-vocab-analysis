@@ -33,6 +33,11 @@ status: "new"
 > An der Seriosität des Angebots zweifle ich.
 > *I doubt the reliability of the offer.*
 
+**Phrases & Expressions:**
+- **die Seriosität prüfen** — *seriousness; reliability*
+- **an der Seriosität zweifeln** — *seriousness; reliability*
+- **die Seriosität einer Firma** — *seriousness; reliability*
+
 **Collocations**
 - die Seriosität prüfen
 - an der Seriosität zweifeln

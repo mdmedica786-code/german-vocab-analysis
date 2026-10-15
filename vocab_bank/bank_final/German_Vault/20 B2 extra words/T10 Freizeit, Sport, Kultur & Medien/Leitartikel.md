@@ -33,6 +33,11 @@ status: "new"
 > Im Leitartikel kritisiert die Zeitung die Pläne der Regierung.
 > *In the editorial the newspaper criticises the government's plans.*
 
+**Phrases & Expressions:**
+- **einen Leitartikel schreiben** — *editorial; leading article*
+- **Leitartikel zur Wahl** — *editorial; leading article*
+- **im Leitartikel** — *editorial; leading article*
+
 **Collocations**
 - einen Leitartikel schreiben
 - Leitartikel zur Wahl

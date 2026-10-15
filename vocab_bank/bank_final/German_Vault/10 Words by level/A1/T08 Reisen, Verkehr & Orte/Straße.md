@@ -35,6 +35,10 @@ status: "new"
 > In welcher Straße wohnen Sie?
 > *Which street do you live on?*
 
+**Phrases & Expressions:**
+- **auf der Straße** — in the street *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **auf die Straße** — onto the street; outside *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

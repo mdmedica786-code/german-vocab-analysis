@@ -34,6 +34,9 @@ status: "new"
 > Der Wildhüter schützt die Tiere im Park.
 > *The gamekeeper protects the animals in the park.*
 
+**Phrases & Expressions:**
+- **Der Wildhüter schützt die Tiere im Park** — *The gamekeeper protects the animals in the park* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

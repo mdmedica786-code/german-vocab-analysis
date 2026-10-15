@@ -33,6 +33,9 @@ status: "new"
 > Ich wurde von meinen Freunden sehr nett verabschiedet.
 > *I was given a very kind send-off by my friends.*
 
+**Phrases & Expressions:**
+- **Ich wurde von meinen Freunden sehr nett verabschiedet** — *I was given a very kind send-off by my friends* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 8e (Guten Tag!) · Goethe word list B1
 <!-- bank:end -->
 

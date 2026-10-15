@@ -35,6 +35,9 @@ status: "new"
 > Was ist Ihre Muttersprache?
 > *What is your mother tongue?*
 
+**Phrases & Expressions:**
+- **Meine Muttersprache ist ... und ich spreche fließend ...** — My native language is ... and I speak ... fluently. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Lebenslauf formulieren]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 1b (Guten Appetit!) · Goethe word list B1
 <!-- bank:end -->
 

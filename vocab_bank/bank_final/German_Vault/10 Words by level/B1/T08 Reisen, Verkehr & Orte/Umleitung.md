@@ -35,6 +35,9 @@ status: "new"
 > Es gibt wegen des Unfalls eine Umleitung.
 > *There is a diversion because of the accident.*
 
+**Phrases & Expressions:**
+- **Es gibt wegen des Unfalls eine Umleitung** — *There is a diversion because of the accident* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 10d (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

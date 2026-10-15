@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Beteiligung an der Wahl war hoch.
 > *Participation in the election was high.*
+
+**Phrases & Expressions:**
+- **Die Beteiligung an der Wahl war hoch** — *Participation in the election was high* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

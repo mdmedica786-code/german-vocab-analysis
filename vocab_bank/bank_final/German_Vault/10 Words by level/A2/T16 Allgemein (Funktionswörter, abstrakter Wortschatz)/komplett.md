@@ -32,6 +32,9 @@ status: "new"
 > Ich habe den Termin komplett vergessen.
 > *I completely forgot the appointment.*
 
+**Phrases & Expressions:**
+- **Ich habe den Termin komplett vergessen** — *I completely forgot the appointment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

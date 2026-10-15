@@ -33,6 +33,12 @@ status: "new"
 > Ich habe in deinem Brief noch ein paar Fehler entdeckt.
 > *I discovered a few more mistakes in your letter.*
 
+**Phrases & Expressions:**
+- **einen Fehler entdecken** — *to find*
+- **etwas Neues entdecken** — *to find*
+- **die Welt entdecken** — *to find*
+- **eine Krankheit entdecken** — *to find*
+
 **Collocations**
 - einen Fehler entdecken
 - etwas Neues entdecken

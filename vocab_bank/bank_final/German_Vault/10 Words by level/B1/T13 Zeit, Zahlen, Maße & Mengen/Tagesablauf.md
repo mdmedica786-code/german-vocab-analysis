@@ -35,6 +35,9 @@ status: "new"
 > Wie ist Ihr Tagesablauf?
 > *What is your daily routine?*
 
+**Phrases & Expressions:**
+- **Wie ist Ihr Tagesablauf** — *What is your daily routine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 6b (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Durch viel Lesen erweitert man seinen Wortschatz.
 > *By reading a lot you expand your vocabulary.*
 
+**Phrases & Expressions:**
+- **den Wortschatz erweitern** — *vocabulary*
+- **ein großer Wortschatz** — *vocabulary*
+- **aktiver und passiver Wortschatz** — *vocabulary*
+
 **Collocations**
 - den Wortschatz erweitern
 - ein großer Wortschatz

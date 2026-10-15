@@ -29,6 +29,11 @@ status: "new"
 > Die Reifen sind schon stark abgenutzt.
 > *The tyres are already badly worn.*
 
+**Phrases & Expressions:**
+- **stark abgenutzt** — *worn; worn out*
+- **abgenutzte Schuhe** — *worn; worn out*
+- **ein abgenutzter Teppich** — *worn; worn out*
+
 **Collocations**
 - stark abgenutzt
 - abgenutzte Schuhe

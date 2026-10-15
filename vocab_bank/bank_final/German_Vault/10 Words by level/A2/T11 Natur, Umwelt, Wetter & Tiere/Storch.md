@@ -34,6 +34,9 @@ status: "new"
 > Auf dem Dach des Hauses sitzt ein Storch.
 > *A stork is sitting on the roof of the house.*
 
+**Phrases & Expressions:**
+- **Auf dem Dach des Hauses sitzt ein Storch** — *A stork is sitting on the roof of the house* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle)
 <!-- bank:end -->
 

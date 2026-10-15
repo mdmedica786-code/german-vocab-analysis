@@ -29,6 +29,11 @@ status: "new"
 > Nach der Wanderung war ich hundemüde.
 > *After the hike I was dog-tired.*
 
+**Phrases & Expressions:**
+- **hundemüde sein** — *dog-tired; exhausted (colloquial)*
+- **hundemüde ins Bett fallen** — *dog-tired; exhausted (colloquial)*
+- **völlig hundemüde** — *dog-tired; exhausted (colloquial)*
+
 **Collocations**
 - hundemüde sein
 - hundemüde ins Bett fallen

@@ -30,6 +30,11 @@ status: "new"
 > Der Nationalfonds unterstützt Projekte in der Forschung.
 > *The national fund supports research projects.*
 
+**Phrases & Expressions:**
+- **vom Nationalfonds gefördert** — *national fund*
+- **der Schweizerische Nationalfonds** — *national fund*
+- **einen Antrag beim Nationalfonds stellen** — *national fund*
+
 **Collocations**
 - vom Nationalfonds gefördert
 - der Schweizerische Nationalfonds

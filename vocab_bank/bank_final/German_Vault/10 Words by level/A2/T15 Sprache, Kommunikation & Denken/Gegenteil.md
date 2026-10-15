@@ -35,6 +35,10 @@ status: "new"
 > Das Gegenteil von „klein“ ist „groß“.
 > *The opposite of "klein" is "groß".*
 
+**Phrases & Expressions:**
+- **im Gegenteil** — on the contrary *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B1)*
+- **ganz im Gegenteil** — quite the opposite *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B2)*
+
 **Source:** Netzwerk neu A2 K4 12a ÜB (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Niemand kann mir einen Vorwurf machen, oder?
 > *Nobody can accuse me, right?*
 
+**Phrases & Expressions:**
+- **Niemand kann mir einen Vorwurf machen, oder** — *Nobody can accuse me, right* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 10a (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

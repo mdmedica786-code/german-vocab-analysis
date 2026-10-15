@@ -30,6 +30,11 @@ status: "new"
 > Für den Genitiv gibt es im Alltag oft eine Ersatzform.
 > *For the genitive there is often a substitute form in everyday speech.*
 
+**Phrases & Expressions:**
+- **eine Ersatzform verwenden** — *substitute form; alternative form*
+- **eine mögliche Ersatzform** — *substitute form; alternative form*
+- **als Ersatzform dienen** — *substitute form; alternative form*
+
 **Collocations**
 - eine Ersatzform verwenden
 - eine mögliche Ersatzform

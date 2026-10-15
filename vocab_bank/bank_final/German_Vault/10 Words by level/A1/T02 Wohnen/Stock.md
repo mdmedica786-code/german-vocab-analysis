@@ -35,6 +35,9 @@ status: "new"
 > Unsere Wohnung liegt im ersten Stock.
 > *Our flat is on the first floor.*
 
+**Phrases & Expressions:**
+- **Ich wohne in der Hauptstraße 12, im dritten Stock.** — I live at Hauptstraße 12, on the third floor. *([[B1-18 Einladen, zusagen und absagen|Zeit und Ort nennen]] · B1)*
+
 **Source:** Netzwerk neu A1 K9 3c (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

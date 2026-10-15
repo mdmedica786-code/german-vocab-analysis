@@ -33,6 +33,11 @@ status: "new"
 > Die Polizei hat zwei Verdächtige festgenommen.
 > *The police arrested two suspects.*
 
+**Phrases & Expressions:**
+- **einen Verdächtigen festnehmen** — *suspect*
+- **der Verdächtige schweigt** — *suspect*
+- **Verdächtige verhören** — *suspect*
+
 **Collocations**
 - einen Verdächtigen festnehmen
 - der Verdächtige schweigt

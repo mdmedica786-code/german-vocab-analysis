@@ -34,6 +34,9 @@ status: "new"
 > Die Bundesrepublik Deutschland hat 16 Bundesländer.
 > *The Federal Republic of Germany has 16 federal states.*
 
+**Phrases & Expressions:**
+- **Die Bundesrepublik Deutschland hat 16 Bundesländer** — *The Federal Republic of Germany has 16 federal states* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

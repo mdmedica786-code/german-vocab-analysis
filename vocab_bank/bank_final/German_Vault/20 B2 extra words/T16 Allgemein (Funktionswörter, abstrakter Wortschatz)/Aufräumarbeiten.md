@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Sturm begannen die Aufräumarbeiten.
 > *After the storm the clean-up work began.*
 
+**Phrases & Expressions:**
+- **die Aufräumarbeiten beginnen** — *clean-up work; tidying up*
+- **Aufräumarbeiten durchführen** — *clean-up work; tidying up*
+- **nach den Aufräumarbeiten** — *clean-up work; tidying up*
+
 **Collocations**
 - die Aufräumarbeiten beginnen
 - Aufräumarbeiten durchführen

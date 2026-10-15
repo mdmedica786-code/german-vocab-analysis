@@ -34,6 +34,9 @@ status: "new"
 > Er zeigte sein Missfallen deutlich.
 > *He clearly showed his displeasure.*
 
+**Phrases & Expressions:**
+- **Er zeigte sein Missfallen deutlich** — *He clearly showed his displeasure* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 11b (Meine Wohnung)
 <!-- bank:end -->
 

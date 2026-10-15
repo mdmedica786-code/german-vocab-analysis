@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Inhaltsverzeichnis steht auf Seite drei.
 > *The table of contents is on page three.*
+
+**Phrases & Expressions:**
+- **Das Inhaltsverzeichnis steht auf Seite drei** — *The table of contents is on page three* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

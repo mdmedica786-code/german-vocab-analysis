@@ -33,6 +33,11 @@ status: "new"
 > Die Firma veröffentlichte eine Pressemitteilung zur Übernahme.
 > *The company published a press release about the takeover.*
 
+**Phrases & Expressions:**
+- **eine Pressemitteilung herausgeben** — *press release*
+- **laut Pressemitteilung** — *press release*
+- **Pressemitteilung verschicken** — *press release*
+
 **Collocations**
 - eine Pressemitteilung herausgeben
 - laut Pressemitteilung

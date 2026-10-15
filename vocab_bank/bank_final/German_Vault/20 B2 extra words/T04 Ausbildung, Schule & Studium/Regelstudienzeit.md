@@ -33,6 +33,11 @@ status: "new"
 > Die Regelstudienzeit für den Bachelor beträgt sechs Semester.
 > *The standard period of study for the bachelor's is six semesters.*
 
+**Phrases & Expressions:**
+- **die Regelstudienzeit überschreiten** — *standard period of study*
+- **in der Regelstudienzeit** — *standard period of study*
+- **Regelstudienzeit einhalten** — *standard period of study*
+
 **Collocations**
 - die Regelstudienzeit überschreiten
 - in der Regelstudienzeit

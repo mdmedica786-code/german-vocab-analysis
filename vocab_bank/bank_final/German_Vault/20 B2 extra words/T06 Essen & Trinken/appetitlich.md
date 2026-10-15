@@ -29,6 +29,11 @@ status: "new"
 > Das Essen sieht sehr appetitlich aus.
 > *The food looks very appetising.*
 
+**Phrases & Expressions:**
+- **appetitlich aussehen** — *appetising*
+- **appetitlich angerichtet** — *appetising*
+- **ein appetitliches Gericht** — *appetising*
+
 **Collocations**
 - appetitlich aussehen
 - appetitlich angerichtet

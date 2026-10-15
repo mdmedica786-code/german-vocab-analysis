@@ -31,6 +31,13 @@ status: "new"
 > Sei vorsichtig!
 > *Be careful!*
 
+**Phrases & Expressions:**
+- **Ich drücke jetzt vorsichtig auf Ihren Bauch.** — I will now press gently on your abdomen. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Abtasten]] · B1)*
+- **vorsichtig sein** — *careful*
+- **vorsichtig fahren** — *careful*
+- **vorsichtig formulieren** — *careful*
+- **vorsichtig optimistisch** — *careful*
+
 **Collocations**
 - vorsichtig sein
 - vorsichtig fahren

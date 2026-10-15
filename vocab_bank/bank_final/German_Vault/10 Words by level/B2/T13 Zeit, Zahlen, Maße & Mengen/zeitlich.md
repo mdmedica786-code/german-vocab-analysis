@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Zeitlich passt der Termin leider nicht.
 > *Time-wise the appointment unfortunately doesn't suit.*
+
+**Phrases & Expressions:**
+- **Zeitlich passt der Termin leider nicht** — *Time-wise the appointment unfortunately doesn't suit* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

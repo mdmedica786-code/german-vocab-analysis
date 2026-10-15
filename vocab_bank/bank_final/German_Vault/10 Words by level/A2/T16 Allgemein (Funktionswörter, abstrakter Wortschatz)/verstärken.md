@@ -32,6 +32,9 @@ status: "new"
 > Wir müssen die Sicherheit verstärken.
 > *We must reinforce security.*
 
+**Phrases & Expressions:**
+- **Wir müssen die Sicherheit verstärken** — *We must reinforce security* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 3c (Sportlich, sportlich)
 <!-- bank:end -->
 

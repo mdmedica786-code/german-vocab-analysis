@@ -34,6 +34,9 @@ status: "new"
 > Das Bild wird auf einer Auktion verkauft.
 > *The picture is sold at an auction.*
 
+**Phrases & Expressions:**
+- **Das Bild wird auf einer Auktion verkauft** — *The picture is sold at an auction* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Route führt durch den Wald.
 > *The route leads through the forest.*
 
+**Phrases & Expressions:**
+- **Die Route führt durch den Wald** — *The route leads through the forest* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 3d (Ab in den Urlaub!)
 <!-- bank:end -->
 

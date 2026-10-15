@@ -33,6 +33,11 @@ status: "new"
 > Bitte prüfen Sie den Status Ihrer Bestellung.
 > *Please check the status of your order.*
 
+**Phrases & Expressions:**
+- **den Status ändern** — *status*
+- **sozialer Status** — *status*
+- **der Status quo** — *status*
+
 **Collocations**
 - den Status ändern
 - sozialer Status

@@ -30,6 +30,11 @@ status: "new"
 > Das Vereinsbüro ist dienstags geöffnet.
 > *The club office is open on Tuesdays.*
 
+**Phrases & Expressions:**
+- **im Vereinsbüro** — *club office*
+- **das Vereinsbüro öffnen** — *club office*
+- **ins Vereinsbüro gehen** — *club office*
+
 **Collocations**
 - im Vereinsbüro
 - das Vereinsbüro öffnen

@@ -31,6 +31,12 @@ status: "new"
 > Das ist eine ferne Zukunft.
 > *That is a distant future.*
 
+**Phrases & Expressions:**
+- **fern von** — *distant*
+- **von fern** — *distant*
+- **ferne Länder** — *distant*
+- **der Ferne Osten** — *distant*
+
 **Collocations**
 - fern von
 - von fern

@@ -35,6 +35,9 @@ status: "new"
 > Möchtest du ein Ei zum Frühstück?
 > *Would you like an egg for breakfast?*
 
+**Phrases & Expressions:**
+- **Möchtest du ein Ei zum Frühstück** — *Would you like an egg for breakfast* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

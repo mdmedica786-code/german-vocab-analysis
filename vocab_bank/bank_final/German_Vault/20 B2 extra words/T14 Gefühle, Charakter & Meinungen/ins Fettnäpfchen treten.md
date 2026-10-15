@@ -29,6 +29,10 @@ status: "new"
 > Mit dieser Bemerkung bin ich ins Fettnäpfchen getreten.
 > *With this remark I put my foot in it.*
 
+**Phrases & Expressions:**
+- **ein Fettnäpfchen vermeiden** — *to put one's foot in it*
+- **in ein Fettnäpfchen treten** — *to put one's foot in it*
+
 **Collocations**
 - ein Fettnäpfchen vermeiden
 - in ein Fettnäpfchen treten

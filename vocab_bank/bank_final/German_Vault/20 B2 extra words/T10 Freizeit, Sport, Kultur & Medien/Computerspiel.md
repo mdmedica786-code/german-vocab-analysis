@@ -33,6 +33,11 @@ status: "new"
 > Mein Bruder spielt abends gern Computerspiele.
 > *My brother likes playing computer games in the evening.*
 
+**Phrases & Expressions:**
+- **ein Computerspiel spielen** — *computer game*
+- **ein Computerspiel entwickeln** — *computer game*
+- **ein neues Computerspiel** — *computer game*
+
 **Collocations**
 - ein Computerspiel spielen
 - ein Computerspiel entwickeln

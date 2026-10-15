@@ -33,6 +33,11 @@ status: "new"
 > Er hat einen Mahnbescheid vom Gericht erhalten.
 > *He received a court order to pay.*
 
+**Phrases & Expressions:**
+- **einen Mahnbescheid erhalten** — *payment order; court demand for payment*
+- **Widerspruch gegen den Mahnbescheid** — *payment order; court demand for payment*
+- **einen Mahnbescheid beantragen** — *payment order; court demand for payment*
+
 **Collocations**
 - einen Mahnbescheid erhalten
 - Widerspruch gegen den Mahnbescheid

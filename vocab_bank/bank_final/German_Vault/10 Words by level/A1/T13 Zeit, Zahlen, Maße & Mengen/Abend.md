@@ -35,6 +35,14 @@ status: "new"
 > Heute Abend bleibe ich zu Hause.
 > *This evening I'm staying at home.*
 
+**Phrases & Expressions:**
+- **am Abend** — in the evening *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A1)*
+- **heute Abend** — this evening; tonight *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A1)*
+- **guten Abend** — good evening *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A1)*
+- **Ich sage gern zu und freue mich auf den Abend.** — I'm happy to accept and look forward to the evening. *([[B1-18 Einladen, zusagen und absagen|Zusagen]] · B1)*
+- **Schwellen Ihre Beine abends an?** — Do your legs swell in the evening? *([[FSP-06 Systemanamnese (Organsysteme)|Herz-Kreislauf]] · B1)*
+- **Sie nehmen dreimal täglich eine Tablette, morgens, mittags und abends.** — You take one tablet three times a day: morning, noon and evening. *([[FSP-11 Therapie und Medikamente erklären|Dosierung erklären]] · B2)*
+
 **Source:** Netzwerk neu A1 K2 7a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

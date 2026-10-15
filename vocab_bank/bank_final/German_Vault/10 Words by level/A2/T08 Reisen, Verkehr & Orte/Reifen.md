@@ -35,6 +35,9 @@ status: "new"
 > Ich brauche neue Reifen für mein Auto.
 > *I need new tyres for my car.*
 
+**Phrases & Expressions:**
+- **Ich brauche neue Reifen für mein Auto** — *I need new tyres for my car* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 1 ÜB (Ganz schön mobil) · Goethe word list A2
 <!-- bank:end -->
 

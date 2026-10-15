@@ -33,6 +33,11 @@ status: "new"
 > Die Landwirte erhalten Subventionen vom Staat.
 > *The farmers receive subsidies from the state.*
 
+**Phrases & Expressions:**
+- **Subventionen streichen** — *subsidy*
+- **staatliche Subventionen** — *subsidy*
+- **Subventionen erhalten** — *subsidy*
+
 **Collocations**
 - Subventionen streichen
 - staatliche Subventionen

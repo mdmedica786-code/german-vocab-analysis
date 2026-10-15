@@ -33,6 +33,11 @@ status: "new"
 > Zur Immatrikulation müssen Sie Ihr Abiturzeugnis mitbringen.
 > *For enrolment you must bring your school-leaving certificate.*
 
+**Phrases & Expressions:**
+- **die Immatrikulation beantragen** — *university enrolment*
+- **Immatrikulationsbescheinigung** — *university enrolment*
+- **sich zur Immatrikulation anmelden** — *university enrolment*
+
 **Collocations**
 - die Immatrikulation beantragen
 - Immatrikulationsbescheinigung

@@ -33,6 +33,11 @@ status: "new"
 > Die Seitentür des Gebäudes war offen.
 > *The side door of the building was open.*
 
+**Phrases & Expressions:**
+- **durch die Seitentür** — *side door*
+- **eine Seitentür öffnen** — *side door*
+- **die Seitentür schließen** — *side door*
+
 **Collocations**
 - durch die Seitentür
 - eine Seitentür öffnen

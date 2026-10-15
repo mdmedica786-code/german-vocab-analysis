@@ -34,6 +34,9 @@ status: "new"
 > Im Campingurlaub schlafen wir im Zelt.
 > *On a camping holiday we sleep in a tent.*
 
+**Phrases & Expressions:**
+- **Im Campingurlaub schlafen wir im Zelt** — *On a camping holiday we sleep in a tent* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1a (Ab in den Urlaub!)
 <!-- bank:end -->
 

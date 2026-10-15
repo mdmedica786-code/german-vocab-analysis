@@ -34,6 +34,9 @@ status: "new"
 > Kann ich dich um einen Gefallen bitten?
 > *Can I ask you for a favour?*
 
+**Phrases & Expressions:**
+- **Ihre Präsentation hat mir sehr gut gefallen.** — I liked your presentation very much. *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Positives Feedback geben]] · B1)*
+
 **Source:** Netzwerk neu A1 K9 11b (Meine Wohnung)
 <!-- bank:end -->
 

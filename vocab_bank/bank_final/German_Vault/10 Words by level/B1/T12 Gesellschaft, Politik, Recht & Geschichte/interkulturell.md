@@ -30,6 +30,9 @@ status: "new"
 > Wir haben in der Sprachschule ein interkulturelles Fest gefeiert.
 > *We celebrated an intercultural festival at the language school.*
 
+**Phrases & Expressions:**
+- **Wir haben in der Sprachschule ein interkulturelles Fest gefeiert** — *We celebrated an intercultural festival at the language school* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

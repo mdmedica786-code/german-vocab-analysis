@@ -35,6 +35,9 @@ status: "new"
 > Dieser Weg ist nur für Fußgänger.
 > *This path is for pedestrians only.*
 
+**Phrases & Expressions:**
+- **Dieser Weg ist nur für Fußgänger** — *This path is for pedestrians only* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 1b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Die Farbe gefällt mir gut.
 > *I like the colour.*
 
+**Phrases & Expressions:**
+- **Die Farbe gefällt mir gut** — *I like the colour* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 10a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

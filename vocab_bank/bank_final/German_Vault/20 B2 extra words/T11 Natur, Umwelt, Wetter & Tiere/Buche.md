@@ -33,6 +33,11 @@ status: "new"
 > Der Wald besteht hauptsächlich aus Buchen.
 > *The forest consists mainly of beeches.*
 
+**Phrases & Expressions:**
+- **ein Buchenwald** — *beech*
+- **eine alte Buche** — *beech*
+- **Buchenholz** — *beech*
+
 **Collocations**
 - ein Buchenwald
 - eine alte Buche

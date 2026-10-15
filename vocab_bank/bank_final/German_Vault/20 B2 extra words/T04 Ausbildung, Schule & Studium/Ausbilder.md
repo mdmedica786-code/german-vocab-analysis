@@ -33,6 +33,11 @@ status: "new"
 > Mein Ausbilder zeigt mir jeden Tag neue Arbeitsschritte.
 > *My trainer shows me new work steps every day.*
 
+**Phrases & Expressions:**
+- **ein erfahrener Ausbilder** — *trainer; instructor (in vocational training)*
+- **Ausbilder im Betrieb** — *trainer; instructor (in vocational training)*
+- **Ausbilderschein** — *trainer; instructor (in vocational training)*
+
 **Collocations**
 - ein erfahrener Ausbilder
 - Ausbilder im Betrieb

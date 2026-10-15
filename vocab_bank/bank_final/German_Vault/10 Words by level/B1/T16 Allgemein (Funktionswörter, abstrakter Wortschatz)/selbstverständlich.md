@@ -31,6 +31,9 @@ status: "new"
 > Selbstverständlich sagen wir Ihnen sofort Bescheid.
 > *Of course we will let you know immediately.*
 
+**Phrases & Expressions:**
+- **Keine Ursache, das war doch selbstverständlich.** — Don't mention it, that was only natural. *([[B1-17 Sich entschuldigen und danken|Auf Dank reagieren]] · B1)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

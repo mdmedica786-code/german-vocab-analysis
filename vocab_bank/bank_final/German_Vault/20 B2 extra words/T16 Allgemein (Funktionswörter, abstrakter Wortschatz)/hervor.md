@@ -29,6 +29,11 @@ status: "new"
 > Hinter dem Baum kam ein Reh hervor.
 > *A deer came out from behind the tree.*
 
+**Phrases & Expressions:**
+- **hervorkommen** — *out; forth*
+- **aus etwas hervorgehen** — *out; forth*
+- **hervorbringen** — *out; forth*
+
 **Collocations**
 - hervorkommen
 - aus etwas hervorgehen

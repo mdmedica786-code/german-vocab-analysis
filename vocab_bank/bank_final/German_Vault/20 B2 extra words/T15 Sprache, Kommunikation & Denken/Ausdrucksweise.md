@@ -33,6 +33,11 @@ status: "new"
 > Seine Ausdrucksweise ist manchmal etwas zu direkt.
 > *His way of expressing himself is sometimes a bit too direct.*
 
+**Phrases & Expressions:**
+- **eine gewählte Ausdrucksweise** — *manner of expression; wording*
+- **eine höfliche Ausdrucksweise** — *manner of expression; wording*
+- **Ausdrucksweise verbessern** — *manner of expression; wording*
+
 **Collocations**
 - eine gewählte Ausdrucksweise
 - eine höfliche Ausdrucksweise

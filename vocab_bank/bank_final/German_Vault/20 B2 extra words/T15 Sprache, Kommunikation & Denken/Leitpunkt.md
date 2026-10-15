@@ -30,6 +30,11 @@ status: "new"
 > Die Leitpunkte helfen Ihnen beim Schreiben des Textes.
 > *The guiding points help you to write the text.*
 
+**Phrases & Expressions:**
+- **die Leitpunkte beachten** — *guiding point; key point*
+- **alle Leitpunkte bearbeiten** — *guiding point; key point*
+- **einen Leitpunkt ergänzen** — *guiding point; key point*
+
 **Collocations**
 - die Leitpunkte beachten
 - alle Leitpunkte bearbeiten

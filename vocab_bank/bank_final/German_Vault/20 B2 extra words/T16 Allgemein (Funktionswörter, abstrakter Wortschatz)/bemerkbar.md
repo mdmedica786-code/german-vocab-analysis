@@ -29,6 +29,11 @@ status: "new"
 > Der Unterschied ist deutlich bemerkbar.
 > *The difference is clearly noticeable.*
 
+**Phrases & Expressions:**
+- **sich bemerkbar machen** — *noticeable*
+- **deutlich bemerkbar** — *noticeable*
+- **bemerkbar werden** — *noticeable*
+
 **Collocations**
 - sich bemerkbar machen
 - deutlich bemerkbar

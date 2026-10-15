@@ -33,6 +33,11 @@ status: "new"
 > Der Anwalt verlangt ein Honorar von 200 Euro pro Stunde.
 > *The lawyer asks a fee of 200 euros per hour.*
 
+**Phrases & Expressions:**
+- **ein Honorar vereinbaren** — *fee (for freelance work)*
+- **Honorar zahlen** — *fee (for freelance work)*
+- **hohes Honorar** — *fee (for freelance work)*
+
 **Collocations**
 - ein Honorar vereinbaren
 - Honorar zahlen

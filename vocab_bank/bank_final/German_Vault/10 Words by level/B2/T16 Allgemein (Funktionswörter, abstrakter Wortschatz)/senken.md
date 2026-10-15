@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Die Firma senkt die Preise.
 > *The company is lowering its prices.*
+
+**Phrases & Expressions:**
+- **Die Firma senkt die Preise** — *The company is lowering its prices* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

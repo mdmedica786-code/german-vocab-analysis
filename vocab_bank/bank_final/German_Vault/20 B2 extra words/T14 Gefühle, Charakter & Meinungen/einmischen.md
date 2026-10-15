@@ -32,6 +32,11 @@ status: "new"
 > Ich möchte mich nicht in euren Streit einmischen.
 > *I do not want to interfere in your quarrel.*
 
+**Phrases & Expressions:**
+- **sich in etwas einmischen** — *to interfere; to meddle*
+- **sich nicht einmischen** — *to interfere; to meddle*
+- **sich unnötig einmischen** — *to interfere; to meddle*
+
 **Collocations**
 - sich in etwas einmischen
 - sich nicht einmischen

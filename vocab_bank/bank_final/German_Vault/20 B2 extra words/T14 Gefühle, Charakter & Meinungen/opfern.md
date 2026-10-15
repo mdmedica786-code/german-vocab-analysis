@@ -31,6 +31,11 @@ status: "new"
 > Sie opferte ihre Freizeit für die Arbeit.
 > *She sacrificed her free time for work.*
 
+**Phrases & Expressions:**
+- **etwas opfern** — *to sacrifice*
+- **sich für jemanden opfern** — *to sacrifice*
+- **seine Zeit opfern** — *to sacrifice*
+
 **Collocations**
 - etwas opfern
 - sich für jemanden opfern

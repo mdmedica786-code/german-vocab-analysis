@@ -31,6 +31,11 @@ status: "new"
 > Die Schule duldet kein Mobbing.
 > *The school does not tolerate bullying.*
 
+**Phrases & Expressions:**
+- **Ich verstehe Ihren Ärger, aber ich kann kein respektloses Verhalten dulden.** — I understand your anger, but I cannot tolerate disrespectful behaviour. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Grenzen setzen]] · C1)*
+- **keinen Widerspruch dulden** — *to tolerate; to put up with*
+- **etwas stillschweigend dulden** — *to tolerate; to put up with*
+
 **Collocations**
 - keinen Widerspruch dulden
 - etwas stillschweigend dulden

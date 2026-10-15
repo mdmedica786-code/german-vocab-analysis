@@ -33,6 +33,11 @@ status: "new"
 > Meine Hausärztin nimmt sich viel Zeit.
 > *My family doctor takes a lot of time.*
 
+**Phrases & Expressions:**
+- **zur Hausärztin gehen** — *family doctor; GP (female)*
+- **die Hausärztin wechseln** — *family doctor; GP (female)*
+- **bei der Hausärztin** — *family doctor; GP (female)*
+
 **Collocations**
 - zur Hausärztin gehen
 - die Hausärztin wechseln

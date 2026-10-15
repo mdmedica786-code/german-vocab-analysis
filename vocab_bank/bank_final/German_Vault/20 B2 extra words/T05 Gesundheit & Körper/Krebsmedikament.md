@@ -33,6 +33,11 @@ status: "new"
 > Ein neues Krebsmedikament wurde zugelassen.
 > *A new cancer drug has been approved.*
 
+**Phrases & Expressions:**
+- **ein Krebsmedikament entwickeln** — *cancer drug; cancer medication*
+- **ein Krebsmedikament zulassen** — *cancer drug; cancer medication*
+- **ein neues Krebsmedikament** — *cancer drug; cancer medication*
+
 **Collocations**
 - ein Krebsmedikament entwickeln
 - ein Krebsmedikament zulassen

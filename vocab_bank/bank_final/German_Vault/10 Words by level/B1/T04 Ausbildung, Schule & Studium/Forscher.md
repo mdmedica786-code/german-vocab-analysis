@@ -34,6 +34,9 @@ status: "new"
 > Der Forscher arbeitet an einem neuen Medikament.
 > *The researcher is working on a new medicine.*
 
+**Phrases & Expressions:**
+- **Der Forscher arbeitet an einem neuen Medikament** — *The researcher is working on a new medicine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist)
 <!-- bank:end -->
 

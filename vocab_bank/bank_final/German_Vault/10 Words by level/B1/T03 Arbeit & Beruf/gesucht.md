@@ -30,6 +30,12 @@ status: "new"
 > Ein Mechaniker wird dringend gesucht.
 > *A mechanic is urgently wanted.*
 
+**Phrases & Expressions:**
+- **dringend gesucht** — *wanted; sought*
+- **gesucht werden** — *wanted; sought*
+- **gesucht und gefunden** — *wanted; sought*
+- **polizeilich gesucht** — *wanted; sought*
+
 **Collocations**
 - dringend gesucht
 - gesucht werden

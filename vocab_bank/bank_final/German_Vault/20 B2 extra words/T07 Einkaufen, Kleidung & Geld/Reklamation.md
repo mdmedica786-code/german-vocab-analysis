@@ -33,6 +33,11 @@ status: "new"
 > Bei einer Reklamation brauchen Sie den Kassenzettel.
 > *For a complaint you need the receipt.*
 
+**Phrases & Expressions:**
+- **eine Reklamation einreichen** — *complaint (about goods); claim*
+- **Reklamation bearbeiten** — *complaint (about goods); claim*
+- **berechtigte Reklamation** — *complaint (about goods); claim*
+
 **Collocations**
 - eine Reklamation einreichen
 - Reklamation bearbeiten

@@ -29,6 +29,11 @@ status: "new"
 > Das Angebot gilt für jedermann.
 > *The offer is valid for everyone.*
 
+**Phrases & Expressions:**
+- **für jedermann** — *everyone; everybody*
+- **jedermanns Sache** — *everyone; everybody*
+- **jedermann kennt** — *everyone; everybody*
+
 **Collocations**
 - für jedermann
 - jedermanns Sache

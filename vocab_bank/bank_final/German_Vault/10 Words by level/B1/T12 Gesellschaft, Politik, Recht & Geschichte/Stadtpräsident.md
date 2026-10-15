@@ -42,6 +42,9 @@ status: "new"
 > Der Stadtpräsident eröffnet die Ausstellung.
 > *The mayor opens the exhibition.*
 
+**Phrases & Expressions:**
+- **Der Stadtpräsident eröffnet die Ausstellung** — *The mayor opens the exhibition* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

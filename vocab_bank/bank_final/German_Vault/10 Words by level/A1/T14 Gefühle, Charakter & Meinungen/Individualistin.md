@@ -34,6 +34,9 @@ status: "new"
 > Sie ist eine echte Individualistin.
 > *She is a real individualist.*
 
+**Phrases & Expressions:**
+- **Sie ist eine echte Individualistin** — *She is a real individualist* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

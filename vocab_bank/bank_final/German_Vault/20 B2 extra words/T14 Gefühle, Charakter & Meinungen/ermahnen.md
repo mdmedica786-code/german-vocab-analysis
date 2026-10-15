@@ -31,6 +31,11 @@ status: "new"
 > Der Lehrer ermahnte die Schüler zur Ruhe.
 > *The teacher admonished the pupils to be quiet.*
 
+**Phrases & Expressions:**
+- **jemanden ermahnen** — *to admonish; to warn*
+- **zur Ruhe ermahnen** — *to admonish; to warn*
+- **schriftlich ermahnen** — *to admonish; to warn*
+
 **Collocations**
 - jemanden ermahnen
 - zur Ruhe ermahnen

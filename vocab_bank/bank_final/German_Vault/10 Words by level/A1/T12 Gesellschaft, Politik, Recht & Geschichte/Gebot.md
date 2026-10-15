@@ -34,6 +34,9 @@ status: "new"
 > Es ist ein Gebot der Höflichkeit, zu grüßen.
 > *It is a matter of politeness to say hello.*
 
+**Phrases & Expressions:**
+- **Es ist ein Gebot der Höflichkeit, zu grüßen** — *It is a matter of politeness to say hello* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13b (Fit und gesund)
 <!-- bank:end -->
 

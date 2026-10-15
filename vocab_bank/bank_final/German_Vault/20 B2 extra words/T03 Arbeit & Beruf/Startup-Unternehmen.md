@@ -30,6 +30,11 @@ status: "new"
 > Sie arbeitet bei einem Startup-Unternehmen in Berlin.
 > *She works at a start-up company in Berlin.*
 
+**Phrases & Expressions:**
+- **ein Startup-Unternehmen gründen** — *start-up company*
+- **ein junges Startup-Unternehmen** — *start-up company*
+- **bei einem Startup-Unternehmen arbeiten** — *start-up company*
+
 **Collocations**
 - ein Startup-Unternehmen gründen
 - ein junges Startup-Unternehmen

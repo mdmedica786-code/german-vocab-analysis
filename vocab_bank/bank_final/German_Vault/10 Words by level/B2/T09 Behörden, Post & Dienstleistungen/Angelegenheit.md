@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das ist meine persönliche Angelegenheit.
 > *That is my personal matter.*
+
+**Phrases & Expressions:**
+- **Das ist meine persönliche Angelegenheit** — *That is my personal matter* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

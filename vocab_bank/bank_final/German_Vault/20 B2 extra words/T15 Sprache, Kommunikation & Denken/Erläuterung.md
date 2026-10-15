@@ -33,6 +33,11 @@ status: "new"
 > Bitte lesen Sie die Erläuterungen zum Formular.
 > *Please read the explanatory notes on the form.*
 
+**Phrases & Expressions:**
+- **eine kurze Erläuterung** — *explanation*
+- **zur Erläuterung** — *explanation*
+- **Erläuterungen geben** — *explanation*
+
 **Collocations**
 - eine kurze Erläuterung
 - zur Erläuterung

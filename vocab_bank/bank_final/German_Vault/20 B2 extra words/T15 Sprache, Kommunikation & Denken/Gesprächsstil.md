@@ -33,6 +33,11 @@ status: "new"
 > Sein Gesprächsstil ist sehr höflich.
 > *His conversational style is very polite.*
 
+**Phrases & Expressions:**
+- **ein offener Gesprächsstil** — *conversational style*
+- **den Gesprächsstil ändern** — *conversational style*
+- **ein direkter Gesprächsstil** — *conversational style*
+
 **Collocations**
 - ein offener Gesprächsstil
 - den Gesprächsstil ändern

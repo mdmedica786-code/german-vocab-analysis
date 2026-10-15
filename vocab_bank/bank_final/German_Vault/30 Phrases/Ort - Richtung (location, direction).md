@@ -13,37 +13,45 @@ tags: ["phrase", "moc"]
 ## A1
 
 - **auf der linken Seite** — on the left-hand side
+  - Words: [[Seite]] · [[link (adjective)]] · [[sein]]
   - Die Bank ist auf der linken Seite. *(The bank is on the left-hand side.)*
   - Variants: links | linker Hand
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **auf der rechten Seite** — on the right-hand side
+  - Words: [[Seite]] · [[Recht]] · [[sein]]
   - Die Apotheke ist auf der rechten Seite. *(The pharmacy is on the right-hand side.)*
   - Variants: rechts | rechter Hand
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **da vorne** — over there; up ahead
+  - Words: [[da sein]] · [[vorne]] · [[da]] · [[dahaben]]
   - Da vorne ist die Haltestelle. *(The stop is up ahead.)*
   - Grammar: da vorne = nicht weit weg
   - Variants: dort vorn | vorn
 - **im Bett** — in bed
+  - Words: [[Bett]] · [[beten]]
   - Mein Mann liegt noch im Bett. *(My husband is still in bed.)*
   - Grammar: im Bett = wo?; ins Bett = wohin?
   - Variants: zu Bett | im Schlafzimmer
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **in der Schule** — at school
+  - Words: [[Schule]]
   - Meine Tochter ist heute in der Schule. *(My daughter is at school today.)*
   - Grammar: in + Dat.: wo?
   - Variants: im Unterricht | an der Schule
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **in der Stadt** — in town; in the city
+  - Words: [[Stadt]]
   - Ich muss heute noch etwas in der Stadt erledigen. *(I still have to do something in town today.)*
   - Variants: im Zentrum | in der Innenstadt
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **in die Stadt** — into town
+  - Words: [[Stadt]]
   - Ich fahre heute in die Stadt. *(I'm going into town today.)*
   - Grammar: in + Akk.: wohin?
   - Variants: ins Zentrum | in die Innenstadt
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **ins Bett** — to bed
+  - Words: [[Bett]] · [[beten]]
   - Ich gehe heute früh ins Bett. *(I'm going to bed early today.)*
   - Grammar: ins Bett = wohin?
   - Variants: schlafen gehen | zu Bett gehen
@@ -54,18 +62,22 @@ tags: ["phrase", "moc"]
   - Variants: heim
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **nach links** — to the left
+  - Words: [[links]] · [[Link]]
   - Biegen Sie nach links ab. *(Turn left.)*
   - Variants: links | linksherum
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **nach rechts** — to the right
+  - Words: [[rechts]] · [[Recht]]
   - Gehen Sie nach rechts. *(Go to the right.)*
   - Variants: rechts | rechts herum
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **nicht weit** — not far
+  - Words: [[weit]]
   - Der Bahnhof ist nicht weit. *(The station is not far.)*
   - Variants: nah | in der Nähe
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **zu Fuß** — on foot
+  - Words: [[Fuß]]
   - Pia geht zu Fuß. *(Pia is going on foot.)*
 - **zu Hause** — at home
   - Ich bin heute den ganzen Tag zu Hause. *(I'm at home all day today.)*
@@ -74,127 +86,154 @@ tags: ["phrase", "moc"]
 ## A2
 
 - **an ... vorbei** — past ...
+  - Words: [[vorbei]] · [[vorbei sein]] · [[vorbeigehen]] · [[vorbeikommen]] · [[vorbeifliegen]]
   - Geh am Kaufhaus vorbei. *(Walk past the department store.)*
   - Grammar: an + Dat. ... vorbei
   - Variants: vorbei an | an ... entlang
 - **an der Universität** — at the university
+  - Words: [[Universität]]
   - Ich studiere an der Universität in Köln. *(I study at the university in Cologne.)*
   - Grammar: an der Universität (nicht „in“)
   - Variants: an der Uni | im Studium
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **auf dem Weg nach Hause** — on the way home
+  - Words: [[wegräumen]] · [[weg sein]] · [[wegfahren]] · [[wegwerfen]] · [[weglaufen]] · [[wegziehen]] · [[Weg]] · [[weg (adverb)]]
   - Auf dem Weg nach Hause kaufe ich Brot. *(On the way home I'll buy bread.)*
   - Variants: auf dem Heimweg | unterwegs nach Hause
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **auf dem Weg zu ...** — on the way to ...
+  - Words: [[wegräumen]] · [[weg sein]] · [[wegfahren]] · [[wegwerfen]] · [[weglaufen]] · [[wegziehen]] · [[Weg]] · [[weg (adverb)]]
   - Ich bin gerade auf dem Weg zur Arbeit. *(I'm on my way to work right now.)*
   - Grammar: zu + Dat.
   - Variants: unterwegs zu | auf der Fahrt zu
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **auf der Straße** — in the street
+  - Words: [[Straße]]
   - Die Kinder spielen auf der Straße. *(The children are playing in the street.)*
   - Grammar: Straße: auf (nicht in)
   - Variants: draußen | unterwegs
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **auf die Straße** — onto the street; outside
+  - Words: [[Straße]]
   - Die Kinder laufen auf die Straße. *(The children run onto the street.)*
   - Grammar: auf + Akk.: wohin?
   - Variants: nach draußen | hinaus
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **außer Haus** — out (of the house)
+  - Words: [[außer]] · [[Haus]]
   - Frau Mankel ist leider außer Haus. *(Mrs Mankel is out of the office, I'm afraid.)*
   - Grammar: Büro: nicht anwesend
   - Variants: nicht da | unterwegs
 - **außerhalb von ...** — outside ...
+  - Words: [[außerhalb]]
   - Das Krankenhaus liegt außerhalb von Berlin. *(The hospital is outside Berlin.)*
   - Grammar: von + Dat. oder Gen.
   - Variants: außerhalb + Gen. | nicht in
 - **gegenüber von ...** — opposite ...
+  - Words: [[gegenüber]] · [[gegenüberstellen]] · [[gegenüberliegen]] · [[gegenüberstehen]]
   - Die Apotheke liegt gegenüber von der Bank. *(The pharmacy is opposite the bank.)*
   - Grammar: von + Dat.
   - Variants: gegenüber + Dat. | auf der anderen Seite
 - **hin und zurück** — there and back; return
+  - Words: [[hin]] · [[zurück]] · [[hinlegen]] · [[zurückschicken]] · [[zurückfahren]] · [[zurückfinden]] · [[zurückkehren]] · [[zurückkommen]]
   - Eine Fahrkarte nach Köln, hin und zurück, bitte. *(A ticket to Cologne, return, please.)*
   - Variants: Hin- und Rückfahrt | retour
 - **im Ausland** — abroad
+  - Words: [[Ausland]]
   - Meine Schwester arbeitet im Ausland. *(My sister works abroad.)*
   - Grammar: im Ausland (wo?) / ins Ausland (wohin?)
   - Variants: in einem anderen Land | außerhalb Deutschlands
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **im Krankenhaus** — in hospital
+  - Words: [[Krankenhaus]]
   - Mein Vater liegt im Krankenhaus. *(My father is in hospital.)*
   - Grammar: im Krankenhaus (wo?) / ins Krankenhaus (wohin?)
   - Variants: in der Klinik | stationär
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **im Norden** — in the north
+  - Words: [[Norden]]
   - Im Norden Deutschlands liegt das Meer. *(The sea is in the north of Germany.)*
   - Grammar: im + Dat.: Himmelsrichtung
   - Variants: nördlich | im nördlichen Teil
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **im Osten** — in the east
+  - Words: [[Osten]]
   - Im Osten Deutschlands liegt Berlin. *(Berlin is in the east of Germany.)*
   - Grammar: im + Dat.: Himmelsrichtung
   - Variants: östlich | im östlichen Teil
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **im Westen** — in the west
+  - Words: [[Westen]]
   - Im Westen Deutschlands liegt das Ruhrgebiet. *(The Ruhr area is in the west of Germany.)*
   - Grammar: im + Dat.: Himmelsrichtung
   - Variants: westlich | im westlichen Teil
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **im Zentrum** — in the centre
+  - Words: [[Zentrum]]
   - Das Krankenhaus liegt im Zentrum der Stadt. *(The hospital is in the centre of the city.)*
   - Variants: in der Mitte | zentral
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **in der Mitte ...** — in the middle (of) ...
+  - Words: [[Mitte]]
   - In der Mitte des Raumes steht ein Tisch. *(In the middle of the room there is a table.)*
   - Grammar: in der Mitte + Gen.
   - Variants: mittendrin | zentral
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **in der Nähe** — nearby; close by
+  - Words: [[Nähe]] · [[nähen]]
   - Gibt es hier in der Nähe eine Apotheke? *(Is there a pharmacy near here?)*
   - Variants: in der Umgebung | nicht weit von hier
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **in Richtung ...** — in the direction of ...
+  - Words: [[Richtung]]
   - Der Zug fährt in Richtung München. *(The train is heading towards Munich.)*
   - Grammar: in Richtung + Gen. oder + Nomen
   - Variants: nach | Richtung
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **nach draußen** — outside; to the outside
+  - Words: [[draußen]]
   - Die Kinder gehen nach draußen. *(The children go outside.)*
   - Grammar: Richtung: wohin?
   - Variants: hinaus | ins Freie
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **nach hinten** — backwards; to the back
+  - Words: [[hinten]]
   - Bitte gehen Sie nach hinten durch. *(Please go through to the back.)*
   - Grammar: Richtung: wohin?
   - Variants: zurück | rückwärts
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **nach oben** — upwards; upstairs
+  - Words: [[oben]]
   - Die Treppe führt nach oben. *(The stairs lead upwards.)*
   - Grammar: Richtung: wohin?
   - Variants: hinauf | aufwärts
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **nach unten** — downwards; downstairs
+  - Words: [[unten]]
   - Der Aufzug fährt nach unten. *(The lift goes down.)*
   - Grammar: Richtung: wohin?
   - Variants: hinunter | abwärts
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **nach vorn** — forward; to the front
+  - Words: [[vorn]]
   - Bitte gehen Sie nach vorn. *(Please go to the front.)*
   - Grammar: Richtung: wohin?
   - Variants: nach vorne | vorwärts
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **nach vorne** — forward; to the front
+  - Words: [[vorne]]
   - Der Lehrer ruft mich nach vorne. *(The teacher calls me to the front.)*
   - Grammar: Richtung: wohin?
   - Variants: nach vorn | vorwärts
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **stehen bleiben** — to stop; to remain standing
+  - Words: [[stehen]] · [[bleiben]] · [[stehenbleiben]]
   - Bitte bleiben Sie stehen. *(Please remain standing.)*
   - Grammar: Perfekt: ist stehen geblieben
   - Variants: anhalten | nicht weitergehen
   - Exam: Wortliste B1 (exam vocabulary)
 - **um die Ecke** — around the corner
+  - Words: [[Ecke]] · [[Eck]]
   - Die Apotheke ist gleich um die Ecke. *(The pharmacy is just around the corner.)*
   - Variants: ganz nah | in der Nähe
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
@@ -207,10 +246,12 @@ tags: ["phrase", "moc"]
   - Grammar: von + Dat. ... zu + Dat. (Person/Gebäude)
   - Variants: von ... nach | ab ... zu
 - **weit weg** — far away
+  - Words: [[wegräumen]] · [[weit]] · [[weg sein]] · [[wegfahren]] · [[wegwerfen]] · [[weglaufen]] · [[wegziehen]] · [[Weg]]
   - Meine Eltern wohnen weit weg. *(My parents live far away.)*
   - Variants: entfernt | in der Ferne
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **wie weit ...?** — how far ...?
+  - Words: [[weit]]
   - Wie weit ist es bis zum Bahnhof? *(How far is it to the station?)*
   - Grammar: Frage nach Entfernung
   - Variants: wie viele Kilometer | wie lange dauert es bis
@@ -218,45 +259,55 @@ tags: ["phrase", "moc"]
 ## B1
 
 - **auf dem Weg nach ...** — on the way to ...
+  - Words: [[wegräumen]] · [[weg sein]] · [[wegfahren]] · [[wegwerfen]] · [[weglaufen]] · [[wegziehen]] · [[Weg]] · [[weg (adverb)]]
   - Wir sind auf dem Weg nach Berlin. *(We are on the way to Berlin.)*
   - Grammar: nach + Ort ohne Artikel
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **auf dem Weg zu ...** — on the way to ...
+  - Words: [[wegräumen]] · [[weg sein]] · [[wegfahren]] · [[wegwerfen]] · [[weglaufen]] · [[wegziehen]] · [[Weg]] · [[weg (adverb)]]
   - Ich bin auf dem Weg zu meiner Oma. *(I'm on my way to my grandma's.)*
   - Grammar: zu + Dat.
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **auf dem Weg zum ...** — on the way to the ...
+  - Words: [[wegräumen]] · [[weg sein]] · [[wegfahren]] · [[wegwerfen]] · [[weglaufen]] · [[wegziehen]] · [[Weg]] · [[weg (adverb)]]
   - Ich bin auf dem Weg zum Bahnhof. *(I'm on my way to the station.)*
   - Grammar: zum = zu dem + Dat. (maskulin/neutral)
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **auf dem Weg zur ...** — on the way to the ...
+  - Words: [[wegräumen]] · [[weg sein]] · [[wegfahren]] · [[wegwerfen]] · [[weglaufen]] · [[wegziehen]] · [[Weg]] · [[weg (adverb)]]
   - Ich bin auf dem Weg zur Arbeit. *(I'm on my way to work.)*
   - Grammar: zur = zu der + Dat. (feminin)
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **dort, wo ...** — there where ...
+  - Words: [[dort]] · [[wo]]
   - Wir treffen uns dort, wo wir uns das letzte Mal gesehen haben. *(We'll meet where we saw each other last time.)*
   - Grammar: wo-Satz: Verb am Ende
   - Variants: an dem Ort, an dem
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **ganz in der Nähe** — very close by
+  - Words: [[ganz]] · [[Nähe]] · [[nähen]]
   - Mein Büro liegt ganz in der Nähe. *(My office is very close by.)*
   - Variants: gleich um die Ecke | nicht weit
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **hin und her** — back and forth
+  - Words: [[hin]] · [[hinlegen]] · [[her]] · [[herstellen]] · [[hinweisen]] · [[hergeben]] · [[hinsehen]] · [[her sein]]
   - Er läuft nervös im Zimmer hin und her. *(He walks back and forth nervously in the room.)*
   - Variants: auf und ab
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **im Freien** — outdoors
+  - Words: [[frei]]
   - Wir wollen heute im Freien übernachten. *(We want to spend the night outdoors today.)*
   - Grammar: Substantivierung: das Freie
   - Variants: draußen | unter freiem Himmel
   - Exam: Wortliste B1 (exam vocabulary)
 - **in der Nähe von ...** — near ...
+  - Words: [[Nähe]] · [[nähen]]
   - Wir wohnen in der Nähe von Frankfurt. *(We live near Frankfurt.)*
   - Grammar: von + Dat.
   - Variants: nahe bei | unweit von
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **um ... herum** — around
+  - Words: [[herumspringen]] · [[herum]] · [[herumfliegen]]
   - Um das Haus herum wachsen Rosen. *(Roses grow around the house.)*
   - Grammar: um + Akk. ... herum
   - Variants: rund um | ringsum
@@ -265,62 +316,76 @@ tags: ["phrase", "moc"]
   - Grammar: von ... aus: Ausgangspunkt
   - Variants: ab | aus
 - **von außen** — from outside
+  - Words: [[außen]]
   - Man hört den Lärm von außen. *(You can hear the noise from outside.)*
   - Variants: von draußen | äußerlich
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **von hinten** — from behind
+  - Words: [[hinten]]
   - Er kam von hinten und erschreckte mich. *(He came from behind and startled me.)*
   - Variants: hinten herum | rückseitig
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **von innen** — from inside
+  - Words: [[innen]]
   - Von innen ist das Haus sehr hell. *(From the inside the house is very bright.)*
   - Variants: innen | im Inneren
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **von oben** — from above
+  - Words: [[oben]]
   - Von oben hat man eine schöne Aussicht. *(From above you have a nice view.)*
   - Variants: von der Höhe | aus der Vogelperspektive
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **weit von ... entfernt** — far from ...
+  - Words: [[entfernt]] · [[entfernen]] · [[weit]]
   - Das Krankenhaus ist weit von hier entfernt. *(The hospital is far from here.)*
   - Grammar: von + Dat.
   - Variants: nicht weit von | fern von
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **zu Besuch kommen** — to come for a visit
+  - Words: [[kommen]] · [[Besuch]]
   - Meine Oma kommt am Wochenende zu Besuch. *(My grandma is coming to visit at the weekend.)*
   - Grammar: Perfekt: ist zu Besuch gekommen
   - Variants: vorbeikommen | besuchen
 - **zur Seite** — aside; to the side
+  - Words: [[Seite]] · [[sein]]
   - Bitte gehen Sie zur Seite, der Krankenwagen kommt. *(Please move aside, the ambulance is coming.)*
   - Variants: beiseite | seitwärts
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 ## B2
 
 - **... befindet sich ...** — is located ...
+  - Words: [[befinden (verb)]]
   - Die Apotheke befindet sich neben dem Bahnhof. *(The pharmacy is located next to the station.)*
   - Grammar: sich befinden = formell für „sein“
   - Variants: liegt | ist
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **an Ort und Stelle** — on the spot
+  - Words: [[Ort]] · [[stellen]] · [[Stelle]]
   - Der Notarzt war sofort an Ort und Stelle. *(The emergency doctor was on the spot immediately.)*
   - Variants: vor Ort | sofort da
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **im Hintergrund** — in the background
+  - Words: [[Hintergrund]]
   - Im Hintergrund läuft leise Musik. *(Quiet music is playing in the background.)*
   - Variants: dahinter | im Verborgenen
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **nach außen** — outwards; to the outside
+  - Words: [[außen]]
   - Die Tür geht nach außen auf. *(The door opens outwards.)*
   - Grammar: Richtung: wohin?
   - Variants: hinaus | nach draußen
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **rund um** — all about
+  - Words: [[rund]]
   - Berufe rund ums Essen *(Occupations all about food)*
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **sich befinden** — to be located
+  - Words: [[Befinden]] · [[befinden (verb)]]
   - Im Raum befinden sich zehn Personen. *(There are ten people in the room.)*
   - Grammar: Plural: sie befinden sich
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1
 - **vor Ort** — on site
+  - Words: [[Ort]]
   - Der Arzt ist schon vor Ort. *(The doctor is already on site.)*
   - Variants: an Ort und Stelle | da
   - Exam: B1 Sprechen Aufgabe 1 (Ort planen) · B1 Schreiben Aufgabe 1

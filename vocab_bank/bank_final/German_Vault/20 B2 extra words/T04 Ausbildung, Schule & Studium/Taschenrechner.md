@@ -33,6 +33,11 @@ status: "new"
 > In der Prüfung ist ein Taschenrechner erlaubt.
 > *A calculator is allowed in the exam.*
 
+**Phrases & Expressions:**
+- **einen Taschenrechner benutzen** — *calculator*
+- **mit dem Taschenrechner rechnen** — *calculator*
+- **Taschenrechner erlaubt** — *calculator*
+
 **Collocations**
 - einen Taschenrechner benutzen
 - mit dem Taschenrechner rechnen

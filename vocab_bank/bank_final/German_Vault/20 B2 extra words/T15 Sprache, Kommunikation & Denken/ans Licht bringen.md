@@ -26,6 +26,10 @@ status: "new"
 > Die Untersuchung hat die Wahrheit ans Licht gebracht.
 > *The investigation brought the truth to light.*
 
+**Phrases & Expressions:**
+- **ans Licht kommen** — *to bring to light*
+- **aufdecken** — *to bring to light*
+
 **Collocations**
 - ans Licht kommen
 - aufdecken

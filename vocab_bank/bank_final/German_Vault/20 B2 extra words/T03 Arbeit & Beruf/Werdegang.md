@@ -33,6 +33,11 @@ status: "new"
 > Im Lebenslauf beschreibt man seinen beruflichen Werdegang.
 > *In a CV you describe your professional career.*
 
+**Phrases & Expressions:**
+- **beruflicher Werdegang** — *career; development (path)*
+- **der Werdegang eines Künstlers** — *career; development (path)*
+- **schulischer Werdegang** — *career; development (path)*
+
 **Collocations**
 - beruflicher Werdegang
 - der Werdegang eines Künstlers

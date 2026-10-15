@@ -32,6 +32,9 @@ status: "new"
 > An Silvester feiern wir mit Freunden.
 > *On New Year's Eve we celebrate with friends.*
 
+**Phrases & Expressions:**
+- **An Silvester feiern wir mit Freunden** — *On New Year's Eve we celebrate with friends* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 3a (Blick nach vorn) · Goethe word list A2
 <!-- bank:end -->
 

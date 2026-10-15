@@ -33,6 +33,11 @@ status: "new"
 > Die niedrige Wahlbeteiligung zeigt die Politikverdrossenheit vieler Bürger.
 > *The low turnout shows many citizens' disenchantment with politics.*
 
+**Phrases & Expressions:**
+- **wachsende Politikverdrossenheit** — *disenchantment with politics*
+- **der Politikverdrossenheit begegnen** — *disenchantment with politics*
+- **Politikverdrossenheit unter Jugendlichen** — *disenchantment with politics*
+
 **Collocations**
 - wachsende Politikverdrossenheit
 - der Politikverdrossenheit begegnen

@@ -38,6 +38,9 @@ status: "new"
 > Dein Foto hat schon hundert Likes bekommen.
 > *Your photo has already got a hundred likes.*
 
+**Phrases & Expressions:**
+- **Dein Foto hat schon hundert Likes bekommen** — *Your photo has already got a hundred likes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 8b (Immer online?)
 <!-- bank:end -->
 

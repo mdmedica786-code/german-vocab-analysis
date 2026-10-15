@@ -33,6 +33,11 @@ status: "new"
 > Die Krebspatientin beginnt nächste Woche mit der Therapie.
 > *The cancer patient starts her therapy next week.*
 
+**Phrases & Expressions:**
+- **eine Krebspatientin behandeln** — *cancer patient (female)*
+- **eine junge Krebspatientin** — *cancer patient (female)*
+- **Krebspatientinnen betreuen** — *cancer patient (female)*
+
 **Collocations**
 - eine Krebspatientin behandeln
 - eine junge Krebspatientin

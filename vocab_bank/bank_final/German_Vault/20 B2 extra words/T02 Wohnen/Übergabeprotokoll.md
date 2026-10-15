@@ -33,6 +33,11 @@ status: "new"
 > Alle Mängel stehen im Übergabeprotokoll.
 > *All defects are listed in the handover protocol.*
 
+**Phrases & Expressions:**
+- **ein Übergabeprotokoll erstellen** — *handover protocol (for a flat)*
+- **das Übergabeprotokoll unterschreiben** — *handover protocol (for a flat)*
+- **im Übergabeprotokoll festhalten** — *handover protocol (for a flat)*
+
 **Collocations**
 - ein Übergabeprotokoll erstellen
 - das Übergabeprotokoll unterschreiben

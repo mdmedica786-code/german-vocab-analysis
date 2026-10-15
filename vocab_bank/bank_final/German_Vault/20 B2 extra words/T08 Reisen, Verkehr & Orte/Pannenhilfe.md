@@ -33,6 +33,11 @@ status: "new"
 > Ich habe die Pannenhilfe gerufen, weil das Auto nicht mehr ansprang.
 > *I called breakdown assistance because the car would not start any more.*
 
+**Phrases & Expressions:**
+- **Pannenhilfe rufen** — *breakdown assistance*
+- **die Pannenhilfe kommt** — *breakdown assistance*
+- **Pannenhilfe leisten** — *breakdown assistance*
+
 **Collocations**
 - Pannenhilfe rufen
 - die Pannenhilfe kommt

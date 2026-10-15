@@ -33,6 +33,11 @@ status: "new"
 > Die Einbindung der Eltern ist wichtig.
 > *The involvement of the parents is important.*
 
+**Phrases & Expressions:**
+- **die Einbindung von** — *integration; involvement*
+- **die Einbindung in ein Team** — *integration; involvement*
+- **die Einbindung der Mitarbeiter** — *integration; involvement*
+
 **Collocations**
 - die Einbindung von
 - die Einbindung in ein Team

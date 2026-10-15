@@ -29,6 +29,11 @@ status: "new"
 > Sie sah ihn hochmütig an.
 > *She looked at him haughtily.*
 
+**Phrases & Expressions:**
+- **hochmütig sein** — *arrogant; haughty*
+- **hochmütig blicken** — *arrogant; haughty*
+- **hochmütiges Verhalten** — *arrogant; haughty*
+
 **Collocations**
 - hochmütig sein
 - hochmütig blicken

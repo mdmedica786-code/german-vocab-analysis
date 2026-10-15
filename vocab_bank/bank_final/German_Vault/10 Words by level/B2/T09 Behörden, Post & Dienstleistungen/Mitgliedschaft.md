@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Mitgliedschaft im Verein kostet 20 Euro.
 > *Membership in the club costs 20 euros.*
+
+**Phrases & Expressions:**
+- **Die Mitgliedschaft im Verein kostet 20 Euro** — *Membership in the club costs 20 euros* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

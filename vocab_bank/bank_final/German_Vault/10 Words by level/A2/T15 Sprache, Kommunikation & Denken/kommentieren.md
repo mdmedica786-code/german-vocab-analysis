@@ -32,6 +32,9 @@ status: "new"
 > Der Reporter kommentiert das Spiel.
 > *The reporter comments on the match.*
 
+**Phrases & Expressions:**
+- **Der Reporter kommentiert das Spiel** — *The reporter comments on the match* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 13c (Immer online?)
 <!-- bank:end -->
 

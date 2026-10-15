@@ -33,6 +33,11 @@ status: "new"
 > Die Wegstrecke zur Arbeit beträgt zehn Kilometer.
 > *The distance to work is ten kilometres.*
 
+**Phrases & Expressions:**
+- **eine lange Wegstrecke** — *distance; route; stretch*
+- **die Wegstrecke zurücklegen** — *distance; route; stretch*
+- **die Wegstrecke zur Arbeit** — *distance; route; stretch*
+
 **Collocations**
 - eine lange Wegstrecke
 - die Wegstrecke zurücklegen

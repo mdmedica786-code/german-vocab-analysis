@@ -34,6 +34,9 @@ status: "new"
 > Das Training findet in der Sporthalle statt.
 > *The training takes place in the sports hall.*
 
+**Phrases & Expressions:**
+- **Das Training findet in der Sporthalle statt** — *The training takes place in the sports hall* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 10 (Stadt, Land, Fluss)
 <!-- bank:end -->
 

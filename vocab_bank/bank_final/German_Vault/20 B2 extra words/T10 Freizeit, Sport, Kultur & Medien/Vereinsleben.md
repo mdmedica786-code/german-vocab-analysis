@@ -33,6 +33,11 @@ status: "new"
 > Im Dorf spielt das Vereinsleben eine große Rolle.
 > *In the village club life plays a large role.*
 
+**Phrases & Expressions:**
+- **das Vereinsleben pflegen** — *club life; life of clubs*
+- **am Vereinsleben teilnehmen** — *club life; life of clubs*
+- **aktives Vereinsleben** — *club life; life of clubs*
+
 **Collocations**
 - das Vereinsleben pflegen
 - am Vereinsleben teilnehmen

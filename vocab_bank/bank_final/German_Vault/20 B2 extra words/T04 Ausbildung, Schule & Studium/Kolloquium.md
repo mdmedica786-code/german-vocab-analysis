@@ -33,6 +33,11 @@ status: "new"
 > Sie stellt ihre Forschungsergebnisse im Kolloquium vor.
 > *She presents her research results at the colloquium.*
 
+**Phrases & Expressions:**
+- **ein Kolloquium veranstalten** — *colloquium; academic discussion*
+- **im Kolloquium vortragen** — *colloquium; academic discussion*
+- **ein wissenschaftliches Kolloquium** — *colloquium; academic discussion*
+
 **Collocations**
 - ein Kolloquium veranstalten
 - im Kolloquium vortragen

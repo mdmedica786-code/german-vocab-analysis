@@ -35,6 +35,9 @@ status: "new"
 > Ich mag keine Filme, in denen Gewalt vorkommt.
 > *I don't like films in which there is violence.*
 
+**Phrases & Expressions:**
+- **Ich mag keine Filme, in denen Gewalt vorkommt** — *I don't like films in which there is violence* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

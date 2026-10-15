@@ -34,6 +34,9 @@ status: "new"
 > Am Sonntag sehen wir einen Kinderfilm.
 > *On Sunday we are watching a children's film.*
 
+**Phrases & Expressions:**
+- **Am Sonntag sehen wir einen Kinderfilm** — *On Sunday we are watching a children's film* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 7a (Gelernt ist gelernt!)
 <!-- bank:end -->
 

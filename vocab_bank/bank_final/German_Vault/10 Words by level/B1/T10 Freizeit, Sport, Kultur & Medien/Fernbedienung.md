@@ -35,6 +35,9 @@ status: "new"
 > Hast du die Fernbedienung gesehen?
 > *Have you seen the remote control?*
 
+**Phrases & Expressions:**
+- **Hast du die Fernbedienung gesehen** — *Have you seen the remote control* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

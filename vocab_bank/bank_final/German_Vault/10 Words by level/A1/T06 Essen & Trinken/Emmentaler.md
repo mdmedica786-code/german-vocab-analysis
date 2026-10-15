@@ -34,6 +34,9 @@ status: "new"
 > Ich nehme zweihundert Gramm Emmentaler.
 > *I'll take two hundred grams of Emmental.*
 
+**Phrases & Expressions:**
+- **Ich nehme zweihundert Gramm Emmentaler** — *I'll take two hundred grams of Emmental* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 6a (Guten Appetit!)
 <!-- bank:end -->
 

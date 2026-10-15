@@ -30,6 +30,9 @@ status: "new"
 > Ich mag brasilianischen Kaffee.
 > *I like Brazilian coffee.*
 
+**Phrases & Expressions:**
+- **Ich mag brasilianischen Kaffee** — *I like Brazilian coffee* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7b (Kunststücke)
 <!-- bank:end -->
 

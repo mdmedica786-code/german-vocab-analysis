@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Sie studiert Psychologie in Wien.
 > *She is studying psychology in Vienna.*
+
+**Phrases & Expressions:**
+- **Sie studiert Psychologie in Wien** — *She is studying psychology in Vienna* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

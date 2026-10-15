@@ -35,6 +35,9 @@ status: "new"
 > Der Bürgermeister eröffnet das Stadtfest.
 > *The mayor opens the town festival.*
 
+**Phrases & Expressions:**
+- **Der Bürgermeister eröffnet das Stadtfest** — *The mayor opens the town festival* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 8c (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

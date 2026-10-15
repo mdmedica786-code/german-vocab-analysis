@@ -30,6 +30,9 @@ status: "new"
 > Moderne Geräte arbeiten sehr effizient.
 > *Modern appliances work very efficiently.*
 
+**Phrases & Expressions:**
+- **Moderne Geräte arbeiten sehr effizient** — *Modern appliances work very efficiently* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 4b (Umweltfreundlich?)
 <!-- bank:end -->
 

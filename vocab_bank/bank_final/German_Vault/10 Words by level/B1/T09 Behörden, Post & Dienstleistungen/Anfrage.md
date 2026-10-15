@@ -34,6 +34,9 @@ status: "new"
 > Wir haben Ihre Anfrage erhalten.
 > *We have received your enquiry.*
 
+**Phrases & Expressions:**
+- **Betreff: Anfrage zum Deutschkurs im Oktober** — Subject: Enquiry about the German course in October *([[B1-13 Formelle E-Mail und Brief|Betreff formulieren]] · B1)*
+
 **Source:** Netzwerk neu B1 K10 4b (Miteinander)
 <!-- bank:end -->
 

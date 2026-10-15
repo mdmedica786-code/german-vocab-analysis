@@ -33,6 +33,12 @@ status: "new"
 > Kein Bus, also schnell!
 > *No bus, so, quickly!*
 
+**Phrases & Expressions:**
+- **also gut** — all right then *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · A2)*
+- **Dann bleibt es also bei Freitag um 18 Uhr.** — So it stays at Friday at 6 p.m. *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Termin bestätigen]] · B1)*
+- **Dann machen wir es also so: ...** — So we'll do it like this: ... *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Absprachen zusammenfassen]] · B1)*
+- **Wir können also sagen, dass sich der Versuch gelohnt hat.** — So we can say that the attempt was worth it. *([[B2-08 Zusammenfassen, Fazit und Schlussfolgerung|Fazit ziehen]] · B2)*
+
 **Source:** Netzwerk neu A1 K3 6b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

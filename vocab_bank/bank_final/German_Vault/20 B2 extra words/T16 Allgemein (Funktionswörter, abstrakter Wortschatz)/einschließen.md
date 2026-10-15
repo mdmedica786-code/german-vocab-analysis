@@ -32,6 +32,10 @@ status: "new"
 > Der Preis schließt das Frühstück ein.
 > *The price includes breakfast.*
 
+**Phrases & Expressions:**
+- **im Preis eingeschlossen** — *to include; to lock in*
+- **jemanden einschließen** — *to include; to lock in*
+
 **Collocations**
 - im Preis eingeschlossen
 - jemanden einschließen

@@ -30,6 +30,9 @@ status: "new"
 > „Die Frau“ ist ein feminines Nomen.
 > *"Die Frau" is a feminine noun.*
 
+**Phrases & Expressions:**
+- **„Die Frau“ ist ein feminines Nomen** — *"Die Frau" is a feminine noun* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

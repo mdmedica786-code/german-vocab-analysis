@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Das GPS-System zeigt den Weg zur Klinik.
 > *The GPS system shows the way to the clinic.*
+
+**Phrases & Expressions:**
+- **Das GPS-System zeigt den Weg zur Klinik** — *The GPS system shows the way to the clinic* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

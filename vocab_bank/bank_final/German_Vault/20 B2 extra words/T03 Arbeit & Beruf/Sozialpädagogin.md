@@ -33,6 +33,11 @@ status: "new"
 > Die Sozialpädagogin berät die Familien.
 > *The social education worker advises the families.*
 
+**Phrases & Expressions:**
+- **als Sozialpädagogin arbeiten** — *social education worker (female); social pedagogue*
+- **eine erfahrene Sozialpädagogin** — *social education worker (female); social pedagogue*
+- **Sozialpädagogin werden** — *social education worker (female); social pedagogue*
+
 **Collocations**
 - als Sozialpädagogin arbeiten
 - eine erfahrene Sozialpädagogin

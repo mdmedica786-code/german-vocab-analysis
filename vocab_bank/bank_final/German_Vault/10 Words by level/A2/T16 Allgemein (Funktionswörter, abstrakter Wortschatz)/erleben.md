@@ -33,6 +33,13 @@ status: "new"
 > In unserem Urlaub haben wir viel Schönes erlebt.
 > *On our holiday we experienced a lot of lovely things.*
 
+**Phrases & Expressions:**
+- **Ich habe selbst erlebt, dass ...** — I experienced myself that ... *([[B1-03 Argumentieren, begründen und Beispiele nennen|Eigene Erfahrung nennen]] · B1)*
+- **etwas erleben** — *to experience*
+- **viel erleben** — *to experience*
+- **eine Überraschung erleben** — *to experience*
+- **das Ende erleben** — *to experience*
+
 **Collocations**
 - etwas erleben
 - viel erleben

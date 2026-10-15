@@ -33,6 +33,11 @@ status: "new"
 > Sei kein Miesepeter und komm mit zur Party!
 > *Do not be a killjoy and come to the party!*
 
+**Phrases & Expressions:**
+- **ein richtiger Miesepeter** — *grump; killjoy (colloquial)*
+- **kein Miesepeter sein** — *grump; killjoy (colloquial)*
+- **einen Miesepeter aufheitern** — *grump; killjoy (colloquial)*
+
 **Collocations**
 - ein richtiger Miesepeter
 - kein Miesepeter sein

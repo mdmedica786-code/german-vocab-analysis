@@ -32,6 +32,13 @@ status: "new"
 > Lotte ist reich. Sie hat sehr viel Geld.
 > *Lotte is rich. She has a lot of money.*
 
+**Phrases & Expressions:**
+- **Fehlende Unterlagen reiche ich umgehend nach.** — I will submit missing documents immediately. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Unterlagen nachreichen]] · B2)*
+- **reich an ...** — *rich*
+- **ein reicher Mann** — *rich*
+- **reiche Ernte** — *rich*
+- **steinreich** — *rich*
+
 **Collocations**
 - reich an ...
 - ein reicher Mann

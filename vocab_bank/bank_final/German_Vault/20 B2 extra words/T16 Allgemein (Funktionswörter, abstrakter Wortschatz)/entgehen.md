@@ -31,6 +31,11 @@ status: "new"
 > Dem aufmerksamen Lehrer entgeht kein Fehler.
 > *No mistake escapes the attentive teacher.*
 
+**Phrases & Expressions:**
+- **jemandem entgehen** — *to escape; to miss*
+- **sich etwas entgehen lassen** — *to escape; to miss*
+- **der Strafe entgehen** — *to escape; to miss*
+
 **Collocations**
 - jemandem entgehen
 - sich etwas entgehen lassen

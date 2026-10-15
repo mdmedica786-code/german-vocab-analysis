@@ -33,6 +33,14 @@ status: "new"
 > Das geht so nicht. Wir müssen die Organisation verändern.
 > *That won't do. We have to change the organisation.*
 
+**Phrases & Expressions:**
+- **In den letzten Jahren hat sich ... verändert.** — In recent years ... has changed. *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Entwicklung beschreiben]] · B1)*
+- **Im Vergleich zu ... hat sich ... verändert.** — Compared to ... ... has changed. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Vergleichen]] · B2)*
+- **Hat sich der Schmerz verändert, seit er angefangen hat?** — Has the pain changed since it began? *([[FSP-03 Schmerzanamnese|Schmerzverlauf]] · B2)*
+- **Hat sich Ihr Gewicht in letzter Zeit verändert?** — Has your weight changed lately? *([[FSP-06 Systemanamnese (Organsysteme)|Stoffwechsel und Gewicht]] · A2)*
+- **das Leben verändern** — *to change*
+- **sich verändern** — *to change*
+
 **Collocations**
 - das Leben verändern
 - sich verändern

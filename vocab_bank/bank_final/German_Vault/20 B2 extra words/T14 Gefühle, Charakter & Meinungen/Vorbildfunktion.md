@@ -33,6 +33,11 @@ status: "new"
 > Eltern haben eine wichtige Vorbildfunktion für ihre Kinder.
 > *Parents have an important role-model function for their children.*
 
+**Phrases & Expressions:**
+- **eine Vorbildfunktion haben** — *role-model function*
+- **Vorbildfunktion erfüllen** — *role-model function*
+- **der Vorbildfunktion gerecht werden** — *role-model function*
+
 **Collocations**
 - eine Vorbildfunktion haben
 - Vorbildfunktion erfüllen

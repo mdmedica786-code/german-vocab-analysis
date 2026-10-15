@@ -32,6 +32,9 @@ status: "new"
 > Es regnet.
 > **
 
+**Phrases & Expressions:**
+- **Es regnet** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 3a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

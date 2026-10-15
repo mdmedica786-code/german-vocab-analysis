@@ -33,6 +33,9 @@ status: "new"
 > Ich fotografiere gern.
 > *I like taking photos.*
 
+**Phrases & Expressions:**
+- **Ich fotografiere gern** — *I like taking photos* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 2a (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

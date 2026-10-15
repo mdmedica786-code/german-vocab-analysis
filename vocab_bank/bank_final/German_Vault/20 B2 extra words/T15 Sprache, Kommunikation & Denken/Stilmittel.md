@@ -33,6 +33,11 @@ status: "new"
 > Die Metapher ist ein beliebtes Stilmittel in Gedichten.
 > *The metaphor is a popular stylistic device in poems.*
 
+**Phrases & Expressions:**
+- **ein Stilmittel verwenden** — *stylistic device*
+- **ein rhetorisches Stilmittel** — *stylistic device*
+- **Stilmittel erkennen** — *stylistic device*
+
 **Collocations**
 - ein Stilmittel verwenden
 - ein rhetorisches Stilmittel

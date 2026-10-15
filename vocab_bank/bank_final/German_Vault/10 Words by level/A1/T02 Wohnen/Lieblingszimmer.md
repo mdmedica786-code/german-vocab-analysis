@@ -34,6 +34,9 @@ status: "new"
 > Mein Lieblingszimmer ist die Küche.
 > *My favourite room is the kitchen.*
 
+**Phrases & Expressions:**
+- **Mein Lieblingszimmer ist die Küche** — *My favourite room is the kitchen* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 2b (Meine Wohnung)
 <!-- bank:end -->
 

@@ -33,6 +33,9 @@ status: "new"
 > Ich kann diese Bedingungen nicht akzeptieren.
 > *I can't accept these conditions.*
 
+**Phrases & Expressions:**
+- **Ich kann diese Bedingungen nicht akzeptieren** — *I can't accept these conditions* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 8a (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Er hat einen ausgeprägten Sinn für Gerechtigkeit.
 > *He has a pronounced sense of justice.*
 
+**Phrases & Expressions:**
+- **ein ausgeprägter Sinn** — *pronounced; marked*
+- **ausgeprägte Unterschiede** — *pronounced; marked*
+- **stark ausgeprägt** — *pronounced; marked*
+
 **Collocations**
 - ein ausgeprägter Sinn
 - ausgeprägte Unterschiede

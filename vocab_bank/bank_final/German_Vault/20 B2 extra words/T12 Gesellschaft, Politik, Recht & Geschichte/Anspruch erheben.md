@@ -29,6 +29,10 @@ status: "new"
 > Er erhebt Anspruch auf das Erbe.
 > *He lays claim to the inheritance.*
 
+**Phrases & Expressions:**
+- **Anspruch erheben auf + Akk.** — *to claim; to lay claim*
+- **keinen Anspruch erheben** — *to claim; to lay claim*
+
 **Collocations**
 - Anspruch erheben auf + Akk.
 - keinen Anspruch erheben

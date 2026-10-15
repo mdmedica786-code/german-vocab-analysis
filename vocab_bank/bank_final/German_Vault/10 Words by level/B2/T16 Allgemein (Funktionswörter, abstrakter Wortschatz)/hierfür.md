@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Hierfür brauchen Sie einen Antrag.
 > *For this you need an application.*
+
+**Phrases & Expressions:**
+- **Hierfür brauchen Sie einen Antrag** — *For this you need an application* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -34,6 +34,9 @@ status: "new"
 > Die Songwriterin hat einen Preis gewonnen.
 > *The songwriter won a prize.*
 
+**Phrases & Expressions:**
+- **Die Songwriterin hat einen Preis gewonnen** — *The songwriter won a prize* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 10a (Blick nach vorn)
 <!-- bank:end -->
 

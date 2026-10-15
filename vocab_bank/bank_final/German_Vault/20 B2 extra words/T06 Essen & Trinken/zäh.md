@@ -29,6 +29,11 @@ status: "new"
 > Das Fleisch ist leider zäh.
 > *The meat is unfortunately tough.*
 
+**Phrases & Expressions:**
+- **zähes Fleisch** — *tough; tenacious*
+- **zäh verhandeln** — *tough; tenacious*
+- **ein zäher Kampf** — *tough; tenacious*
+
 **Collocations**
 - zähes Fleisch
 - zäh verhandeln

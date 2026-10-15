@@ -33,6 +33,11 @@ status: "new"
 > In einer Patchworkfamilie leben Kinder aus verschiedenen Beziehungen zusammen.
 > *In a blended family children from different relationships live together.*
 
+**Phrases & Expressions:**
+- **in einer Patchworkfamilie leben** — *blended family*
+- **moderne Patchworkfamilie** — *blended family*
+- **Patchworkfamilie gründen** — *blended family*
+
 **Collocations**
 - in einer Patchworkfamilie leben
 - moderne Patchworkfamilie

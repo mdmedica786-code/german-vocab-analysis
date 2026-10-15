@@ -31,6 +31,11 @@ status: "new"
 > Er schraubt die Regale an die Wand.
 > *He screws the shelves to the wall.*
 
+**Phrases & Expressions:**
+- **etwas an die Wand schrauben** — *to screw; to tinker*
+- **eine Lampe an die Decke schrauben** — *to screw; to tinker*
+- **am Auto schrauben** — *to screw; to tinker*
+
 **Collocations**
 - etwas an die Wand schrauben
 - eine Lampe an die Decke schrauben

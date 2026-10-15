@@ -33,6 +33,11 @@ status: "new"
 > Seine Lebensumstände haben sich stark verändert.
 > *His living circumstances have changed greatly.*
 
+**Phrases & Expressions:**
+- **die Lebensumstände ändern** — *living conditions; circumstances (of life)*
+- **unter schwierigen Lebensumständen** — *living conditions; circumstances (of life)*
+- **die persönlichen Lebensumstände** — *living conditions; circumstances (of life)*
+
 **Collocations**
 - die Lebensumstände ändern
 - unter schwierigen Lebensumständen

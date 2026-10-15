@@ -33,6 +33,11 @@ status: "new"
 > Die Betroffenen erhalten eine Entschädigung.
 > *Those affected receive compensation.*
 
+**Phrases & Expressions:**
+- **die Betroffenen informieren** — *person affected*
+- **von etwas betroffen sein** — *person affected*
+- **Betroffene unterstützen** — *person affected*
+
 **Collocations**
 - die Betroffenen informieren
 - von etwas betroffen sein

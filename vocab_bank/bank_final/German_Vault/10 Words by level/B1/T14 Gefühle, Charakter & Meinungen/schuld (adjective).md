@@ -31,6 +31,12 @@ status: "new"
 > Ich hatte einen Unfall. Aber ich war nicht schuld.
 > *I had an accident. But it wasn't my fault.*
 
+**Phrases & Expressions:**
+- **schuld sein** — *to blame; guilty*
+- **selber schuld** — *to blame; guilty*
+- **schuld haben** — *to blame; guilty*
+- **keine Schuld** — *to blame; guilty*
+
 **Collocations**
 - schuld sein
 - selber schuld

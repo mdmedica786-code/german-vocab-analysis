@@ -33,6 +33,10 @@ status: "new"
 > Wir müssen das Knie sofort operieren.
 > *We must operate on the knee immediately.*
 
+**Phrases & Expressions:**
+- **Wurden Sie schon einmal operiert?** — Have you ever had surgery? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Operationen erfragen]] · B1)*
+- **Wenn Sie sich nicht operieren lassen, besteht das Risiko, dass ...** — If you do not have the operation, there is a risk that ... *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Alternativen nennen]] · B2)*
+
 **Source:** Netzwerk neu B1 K3 1a (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

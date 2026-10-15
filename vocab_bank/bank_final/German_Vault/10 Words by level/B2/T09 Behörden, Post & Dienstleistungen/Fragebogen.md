@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Bitte füllen Sie den Fragebogen aus.
 > *Please fill in the questionnaire.*
+
+**Phrases & Expressions:**
+- **Bitte füllen Sie den Fragebogen aus** — *Please fill in the questionnaire* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

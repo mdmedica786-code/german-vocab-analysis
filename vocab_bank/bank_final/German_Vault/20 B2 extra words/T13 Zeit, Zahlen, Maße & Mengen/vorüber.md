@@ -29,6 +29,11 @@ status: "new"
 > Der Sturm ist endlich vorüber.
 > *The storm is finally over.*
 
+**Phrases & Expressions:**
+- **vorüber sein** — *past; over*
+- **vorübergehen** — *past; over*
+- **vorüberziehen** — *past; over*
+
 **Collocations**
 - vorüber sein
 - vorübergehen

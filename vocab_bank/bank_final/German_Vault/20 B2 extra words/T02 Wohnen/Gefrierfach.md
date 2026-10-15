@@ -33,6 +33,11 @@ status: "new"
 > Das Eis liegt im Gefrierfach.
 > *The ice cream is in the freezer compartment.*
 
+**Phrases & Expressions:**
+- **im Gefrierfach** — *freezer compartment*
+- **das Gefrierfach abtauen** — *freezer compartment*
+- **etwas ins Gefrierfach legen** — *freezer compartment*
+
 **Collocations**
 - im Gefrierfach
 - das Gefrierfach abtauen

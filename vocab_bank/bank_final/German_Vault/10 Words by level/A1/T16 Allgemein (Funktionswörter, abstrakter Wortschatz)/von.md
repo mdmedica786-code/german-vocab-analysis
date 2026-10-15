@@ -33,6 +33,9 @@ status: "new"
 > Ich lese ein Buch von Daniel Kehlmann.
 > *I'm reading a book by Daniel Kehlmann.*
 
+**Phrases & Expressions:**
+- **Ich lese ein Buch von Daniel Kehlmann** — *I'm reading a book by Daniel Kehlmann* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Den Vorspann der Serie überspringe ich meistens.
 > *I usually skip the opening credits of the series.*
 
+**Phrases & Expressions:**
+- **den Vorspann überspringen** — *opening credits; title sequence*
+- **im Vorspann** — *opening credits; title sequence*
+- **Vorspann und Abspann** — *opening credits; title sequence*
+
 **Collocations**
 - den Vorspann überspringen
 - im Vorspann

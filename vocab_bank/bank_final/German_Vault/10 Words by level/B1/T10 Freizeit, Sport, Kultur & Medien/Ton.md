@@ -34,6 +34,9 @@ status: "new"
 > Der Ton der Geige ist sehr schön.
 > *The sound of the violin is very beautiful.*
 
+**Phrases & Expressions:**
+- **Der Ton der Geige ist sehr schön** — *The sound of the violin is very beautiful* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist)
 <!-- bank:end -->
 

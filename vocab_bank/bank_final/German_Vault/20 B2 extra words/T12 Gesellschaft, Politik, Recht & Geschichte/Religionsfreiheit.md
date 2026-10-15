@@ -33,6 +33,11 @@ status: "new"
 > Die Religionsfreiheit ist im Grundgesetz garantiert.
 > *Freedom of religion is guaranteed in the Basic Law.*
 
+**Phrases & Expressions:**
+- **Religionsfreiheit garantieren** — *freedom of religion*
+- **die Religionsfreiheit achten** — *freedom of religion*
+- **Religionsfreiheit einschränken** — *freedom of religion*
+
 **Collocations**
 - Religionsfreiheit garantieren
 - die Religionsfreiheit achten

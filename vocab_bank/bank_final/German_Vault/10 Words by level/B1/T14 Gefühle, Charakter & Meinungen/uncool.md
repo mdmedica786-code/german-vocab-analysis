@@ -30,6 +30,9 @@ status: "new"
 > Das finde ich ziemlich uncool.
 > *I find that rather uncool.*
 
+**Phrases & Expressions:**
+- **Das finde ich ziemlich uncool** — *I find that rather uncool* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 12b (Kunststücke)
 <!-- bank:end -->
 

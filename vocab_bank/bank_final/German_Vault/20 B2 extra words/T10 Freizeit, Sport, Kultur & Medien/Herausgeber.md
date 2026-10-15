@@ -33,6 +33,11 @@ status: "new"
 > Der Herausgeber der Zeitschrift hat gewechselt.
 > *The publisher of the magazine has changed.*
 
+**Phrases & Expressions:**
+- **der Herausgeber einer Zeitung** — *publisher; editor*
+- **Herausgeber und Autor** — *publisher; editor*
+- **als Herausgeber tätig sein** — *publisher; editor*
+
 **Collocations**
 - der Herausgeber einer Zeitung
 - Herausgeber und Autor

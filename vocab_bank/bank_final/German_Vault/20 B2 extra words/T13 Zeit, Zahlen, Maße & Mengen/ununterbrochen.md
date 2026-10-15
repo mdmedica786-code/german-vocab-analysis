@@ -29,6 +29,11 @@ status: "new"
 > Es regnet ununterbrochen seit gestern.
 > *It has been raining non-stop since yesterday.*
 
+**Phrases & Expressions:**
+- **ununterbrochen arbeiten** — *continuous; non-stop*
+- **ununterbrochen regnen** — *continuous; non-stop*
+- **ununterbrochen reden** — *continuous; non-stop*
+
 **Collocations**
 - ununterbrochen arbeiten
 - ununterbrochen regnen

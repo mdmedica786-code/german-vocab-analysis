@@ -35,6 +35,9 @@ status: "new"
 > Der linke Fuß tut mir weh.
 > *My left foot hurts.*
 
+**Phrases & Expressions:**
+- **zu Fuß** — on foot *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A1)*
+
 **Source:** Netzwerk neu A1 K8 6a (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

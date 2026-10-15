@@ -33,6 +33,11 @@ status: "new"
 > Eine Dachbegrünung kühlt das Haus im Sommer.
 > *A green roof cools the house in summer.*
 
+**Phrases & Expressions:**
+- **Dachbegrünung anlegen** — *green roof*
+- **Förderung für Dachbegrünung** — *green roof*
+- **Dachbegrünung planen** — *green roof*
+
 **Collocations**
 - Dachbegrünung anlegen
 - Förderung für Dachbegrünung

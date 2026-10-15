@@ -33,6 +33,11 @@ status: "new"
 > Die Grundidee des Projekts ist einfach.
 > *The basic idea of the project is simple.*
 
+**Phrases & Expressions:**
+- **die Grundidee verstehen** — *basic idea*
+- **die Grundidee erklären** — *basic idea*
+- **die Grundidee des Textes** — *basic idea*
+
 **Collocations**
 - die Grundidee verstehen
 - die Grundidee erklären

@@ -29,6 +29,11 @@ status: "new"
 > Die Firma entwickelt innovative Produkte.
 > *The company develops innovative products.*
 
+**Phrases & Expressions:**
+- **eine innovative Idee** — *innovative*
+- **innovativ denken** — *innovative*
+- **ein innovatives Unternehmen** — *innovative*
+
 **Collocations**
 - eine innovative Idee
 - innovativ denken

@@ -35,6 +35,9 @@ status: "new"
 > Der Azubi lernt im ersten Lehrjahr.
 > *The trainee is in his first year of training.*
 
+**Phrases & Expressions:**
+- **Der Azubi lernt im ersten Lehrjahr** — *The trainee is in his first year of training* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 11b (Nach der Schulzeit) · Goethe word list B1
 <!-- bank:end -->
 

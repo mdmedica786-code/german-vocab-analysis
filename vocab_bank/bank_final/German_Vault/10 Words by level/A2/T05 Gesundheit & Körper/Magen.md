@@ -34,6 +34,9 @@ status: "new"
 > Mein Magen tut weh.
 > *My stomach hurts.*
 
+**Phrases & Expressions:**
+- **Nehmen Sie das Mittel nach dem Essen, damit der Magen geschont wird.** — Take the medicine after meals so that your stomach is protected. *([[FSP-11 Therapie und Medikamente erklären|Einnahme erklären]] · B2)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

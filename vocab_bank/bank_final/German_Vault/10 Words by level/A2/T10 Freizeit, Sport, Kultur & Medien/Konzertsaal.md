@@ -34,6 +34,9 @@ status: "new"
 > Der Konzertsaal bietet Platz für tausend Zuhörer.
 > *The concert hall has room for a thousand listeners.*
 
+**Phrases & Expressions:**
+- **Der Konzertsaal bietet Platz für tausend Zuhörer** — *The concert hall has room for a thousand listeners* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 1a (Ganz schön mobil)
 <!-- bank:end -->
 

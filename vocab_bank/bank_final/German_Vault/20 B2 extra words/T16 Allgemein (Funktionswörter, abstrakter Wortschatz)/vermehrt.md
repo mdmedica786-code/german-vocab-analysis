@@ -29,6 +29,11 @@ status: "new"
 > Es gibt vermehrt Beschwerden über den Lärm.
 > *There are increased complaints about the noise.*
 
+**Phrases & Expressions:**
+- **vermehrt auftreten** — *increased*
+- **vermehrt achten auf** — *increased*
+- **vermehrte Anfragen** — *increased*
+
 **Collocations**
 - vermehrt auftreten
 - vermehrt achten auf

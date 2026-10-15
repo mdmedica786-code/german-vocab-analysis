@@ -26,6 +26,9 @@ status: "new"
 > Die Vorsitzende ergriff das Wort.
 > *The chairwoman took the floor.*
 
+**Phrases & Expressions:**
+- **das Wort erteilen** — *to take the floor*
+
 **Collocations**
 - das Wort erteilen
 

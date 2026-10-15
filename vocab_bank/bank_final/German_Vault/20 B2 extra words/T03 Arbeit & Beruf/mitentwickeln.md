@@ -29,6 +29,14 @@ status: "new"
 > Die Kunden können neue Produkte mitentwickeln.
 > *The customers can help develop new products.*
 
+**Phrases & Expressions:**
+- **Es bleibt abzuwarten, wie sich ... entwickelt.** — It remains to be seen how ... develops. *([[B2-08 Zusammenfassen, Fazit und Schlussfolgerung|Ausblick geben]] · B2)*
+- **Im Lauf der Jahre hat sich ... entwickelt.** — Over the years ... has developed. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Entwicklung über Zeit]] · B2)*
+- **Kam das plötzlich oder hat es sich langsam entwickelt?** — Did that come on suddenly or develop slowly? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Beginn erfragen]] · B2)*
+- **Wie hat sich Ihr Kind bisher entwickelt?** — How has your child developed so far? *([[FSP-22 Kinder, Eltern und ältere Patienten|Eltern befragen]] · B2)*
+- **ein Produkt mitentwickeln** — *to co-develop; to help develop*
+- **ein Projekt mitentwickeln** — *to co-develop; to help develop*
+
 **Collocations**
 - ein Produkt mitentwickeln
 - ein Projekt mitentwickeln

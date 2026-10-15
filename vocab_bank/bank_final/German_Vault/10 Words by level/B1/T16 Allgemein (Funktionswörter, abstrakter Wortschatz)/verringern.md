@@ -32,6 +32,9 @@ status: "new"
 > Wir wollen den Stromverbrauch verringern.
 > *We want to reduce electricity consumption.*
 
+**Phrases & Expressions:**
+- **Wir wollen den Stromverbrauch verringern** — *We want to reduce electricity consumption* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?)
 <!-- bank:end -->
 

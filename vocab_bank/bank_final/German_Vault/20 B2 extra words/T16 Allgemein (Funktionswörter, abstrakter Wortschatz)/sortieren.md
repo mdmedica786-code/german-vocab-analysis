@@ -31,6 +31,11 @@ status: "new"
 > Sie sortiert die Fotos nach Jahren.
 > *She sorts the photos by year.*
 
+**Phrases & Expressions:**
+- **nach Farben sortieren** — *to sort; to arrange*
+- **Post sortieren** — *to sort; to arrange*
+- **die Wäsche sortieren** — *to sort; to arrange*
+
 **Collocations**
 - nach Farben sortieren
 - Post sortieren

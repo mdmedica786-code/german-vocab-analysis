@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Für diesen Beruf braucht man Kreativität.
 > *You need creativity for this job.*
+
+**Phrases & Expressions:**
+- **Für diesen Beruf braucht man Kreativität** — *You need creativity for this job* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

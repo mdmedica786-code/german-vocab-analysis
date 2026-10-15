@@ -34,6 +34,9 @@ status: "new"
 > Bitte machen Sie den Oberkörper frei.
 > *Please undress your upper body.*
 
+**Phrases & Expressions:**
+- **Bitte machen Sie den Oberkörper frei.** — Please undress your upper body. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Sich frei machen]] · A2)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

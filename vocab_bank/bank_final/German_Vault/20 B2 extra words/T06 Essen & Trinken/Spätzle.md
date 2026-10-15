@@ -32,6 +32,11 @@ status: "new"
 > Zum Gulasch gibt es Spätzle und Salat.
 > *With the goulash there are spätzle and salad.*
 
+**Phrases & Expressions:**
+- **Spätzle machen** — *Swabian egg noodles*
+- **Käsespätzle** — *Swabian egg noodles*
+- **Spätzle mit Soße** — *Swabian egg noodles*
+
 **Collocations**
 - Spätzle machen
 - Käsespätzle

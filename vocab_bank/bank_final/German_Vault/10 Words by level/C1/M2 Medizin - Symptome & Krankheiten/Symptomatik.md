@@ -33,6 +33,12 @@ status: "new"
 > Die Symptomatik begann vor drei Tagen.
 > *The symptoms began three days ago.*
 
+**Phrases & Expressions:**
+- **typische Symptomatik** — *symptoms; symptomatology*
+- **akute Symptomatik** — *symptoms; symptomatology*
+- **die Symptomatik beschreiben** — *symptoms; symptomatology*
+- **die Symptomatik verschlechtert sich** — *symptoms; symptomatology*
+
 **Collocations**
 - typische Symptomatik
 - akute Symptomatik

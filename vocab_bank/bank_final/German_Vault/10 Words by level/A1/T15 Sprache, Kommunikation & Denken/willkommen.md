@@ -31,6 +31,9 @@ status: "new"
 > Herzlich willkommen!
 > *A warm welcome!*
 
+**Phrases & Expressions:**
+- **Herzlich willkommen** — *A warm welcome* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

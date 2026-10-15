@@ -33,6 +33,9 @@ status: "new"
 > Sie hat einen Job neben dem Studium.
 > *She has a job besides her studies.*
 
+**Phrases & Expressions:**
+- **Das Haus steht direkt neben dem Park.** — The house stands right next to the park. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ort beschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K9 6b (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

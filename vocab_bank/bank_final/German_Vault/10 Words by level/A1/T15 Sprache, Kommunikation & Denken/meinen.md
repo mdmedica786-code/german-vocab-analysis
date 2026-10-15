@@ -34,6 +34,14 @@ status: "new"
 > Ich meine, dass ...
 > *I think that ...*
 
+**Phrases & Expressions:**
+- **was meinst du** — what do you think? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A2)*
+- **meinst du, dass ...?** — do you think that ...? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B1)*
+- **ich meine, dass ...** — I mean / I think that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B1)*
+- **Was meinst du dazu?** — What do you think about it? *([[B1-01 Meinung äußern|Nach der Meinung fragen]] · B1)*
+- **Ich möchte meine Meinung zu diesem Thema äußern.** — I would like to express my opinion on this topic. *([[B1-01 Meinung äußern|Forumsbeitrag einleiten]] · B1)*
+- **Ich verstehe, was du meinst, aber ...** — I understand what you mean, but ... *([[B1-02 Zustimmen und Widersprechen|Höflich widersprechen]] · B1)*
+
 **Collocations**
 - etwas meinen
 - wie meinst du das

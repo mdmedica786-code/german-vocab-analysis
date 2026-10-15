@@ -34,6 +34,9 @@ status: "new"
 > Der Handel mit Kriegswaffen ist streng kontrolliert.
 > *The trade in weapons of war is strictly controlled.*
 
+**Phrases & Expressions:**
+- **Der Handel mit Kriegswaffen ist streng kontrolliert** — *The trade in weapons of war is strictly controlled* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 11a (Miteinander)
 <!-- bank:end -->
 

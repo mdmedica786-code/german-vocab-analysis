@@ -34,6 +34,9 @@ status: "new"
 > Die Organisatorin plant das ganze Programm.
 > *The organiser plans the whole programme.*
 
+**Phrases & Expressions:**
+- **Die Organisatorin plant das ganze Programm** — *The organiser plans the whole programme* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7c (Miteinander)
 <!-- bank:end -->
 

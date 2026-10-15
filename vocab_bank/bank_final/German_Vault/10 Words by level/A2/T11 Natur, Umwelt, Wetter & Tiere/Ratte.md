@@ -34,6 +34,9 @@ status: "new"
 > Die Ratte läuft durch den Keller.
 > *The rat runs through the cellar.*
 
+**Phrases & Expressions:**
+- **Die Ratte läuft durch den Keller** — *The rat runs through the cellar* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 10d (Zusammen leben)
 <!-- bank:end -->
 

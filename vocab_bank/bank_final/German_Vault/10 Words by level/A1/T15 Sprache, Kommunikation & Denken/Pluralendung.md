@@ -31,6 +31,9 @@ status: "new"
 > Die Pluralendung von „Frau“ ist -en.
 > *The plural ending of “Frau” is -en.*
 
+**Phrases & Expressions:**
+- **Die Pluralendung von „Frau“ ist -en** — *The plural ending of “Frau” is -en* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 8b (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

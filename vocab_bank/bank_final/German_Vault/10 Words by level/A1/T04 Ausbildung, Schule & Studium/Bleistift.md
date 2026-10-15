@@ -35,6 +35,9 @@ status: "new"
 > Hast du einen Bleistift?
 > *Do you have a pencil?*
 
+**Phrases & Expressions:**
+- **Hast du einen Bleistift** — *Do you have a pencil* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10c (Die Jacke gefällt mir!) · Goethe word list A1
 <!-- bank:end -->
 

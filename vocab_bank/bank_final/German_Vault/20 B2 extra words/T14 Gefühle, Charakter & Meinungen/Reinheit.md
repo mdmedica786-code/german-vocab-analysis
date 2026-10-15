@@ -33,6 +33,11 @@ status: "new"
 > Die Reinheit des Wassers wird geprüft.
 > *The purity of the water is tested.*
 
+**Phrases & Expressions:**
+- **die Reinheit des Wassers** — *purity; cleanliness*
+- **höchste Reinheit** — *purity; cleanliness*
+- **auf Reinheit achten** — *purity; cleanliness*
+
 **Collocations**
 - die Reinheit des Wassers
 - höchste Reinheit

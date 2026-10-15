@@ -32,6 +32,9 @@ status: "new"
 > Das Konzert hat mich begeistert.
 > *The concert thrilled me.*
 
+**Phrases & Expressions:**
+- **Ich bin begeistert von ...** — I am thrilled by ... *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Begeisterung ausdrücken]] · B1)*
+
 **Source:** Netzwerk neu B1 K3 4d (Veränderungen)
 <!-- bank:end -->
 

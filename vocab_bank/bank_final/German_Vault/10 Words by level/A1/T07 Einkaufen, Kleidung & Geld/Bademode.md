@@ -34,6 +34,9 @@ status: "new"
 > Im Sommer gibt es neue Bademode.
 > *In summer there is new swimwear.*
 
+**Phrases & Expressions:**
+- **Im Sommer gibt es neue Bademode** — *In summer there is new swimwear* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

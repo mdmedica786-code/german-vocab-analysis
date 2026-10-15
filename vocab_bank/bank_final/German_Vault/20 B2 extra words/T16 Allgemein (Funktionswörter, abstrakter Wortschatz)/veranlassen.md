@@ -31,6 +31,11 @@ status: "new"
 > Der Vorfall veranlasste die Schule zu neuen Regeln.
 > *The incident caused the school to introduce new rules.*
 
+**Phrases & Expressions:**
+- **Wir veranlassen eine Computertomografie, um das genauer zu beurteilen.** — We will arrange a CT scan to assess this more precisely. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|CT und MRT]] · B2)*
+- **jemanden zu etwas veranlassen** — *to cause; to arrange*
+- **eine Untersuchung veranlassen** — *to cause; to arrange*
+
 **Collocations**
 - jemanden zu etwas veranlassen
 - eine Untersuchung veranlassen

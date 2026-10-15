@@ -30,6 +30,9 @@ status: "new"
 > Alles bestens.
 > *Everything's great.*
 
+**Phrases & Expressions:**
+- **Alles bestens** — *Everything's great* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 9a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

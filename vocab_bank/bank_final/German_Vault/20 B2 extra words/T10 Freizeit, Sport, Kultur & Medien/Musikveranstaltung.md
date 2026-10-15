@@ -33,6 +33,11 @@ status: "new"
 > Im Sommer gibt es viele Musikveranstaltungen in der Stadt.
 > *In summer there are many music events in the city.*
 
+**Phrases & Expressions:**
+- **eine Musikveranstaltung besuchen** — *music event*
+- **eine Musikveranstaltung organisieren** — *music event*
+- **eine Musikveranstaltung im Freien** — *music event*
+
 **Collocations**
 - eine Musikveranstaltung besuchen
 - eine Musikveranstaltung organisieren

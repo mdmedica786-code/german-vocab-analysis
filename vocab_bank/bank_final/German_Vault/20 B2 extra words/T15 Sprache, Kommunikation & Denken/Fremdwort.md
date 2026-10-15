@@ -33,6 +33,11 @@ status: "new"
 > In wissenschaftlichen Texten gibt es viele Fremdwörter.
 > *In scientific texts there are many foreign words.*
 
+**Phrases & Expressions:**
+- **ein Fremdwort erklären** — *foreign word; loanword*
+- **Fremdwörterbuch** — *foreign word; loanword*
+- **Fremdwörter vermeiden** — *foreign word; loanword*
+
 **Collocations**
 - ein Fremdwort erklären
 - Fremdwörterbuch

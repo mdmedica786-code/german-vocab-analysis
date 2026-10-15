@@ -33,6 +33,9 @@ status: "new"
 > Die Stadt fördert viele Sportprojekte.
 > *The city promotes many sports projects.*
 
+**Phrases & Expressions:**
+- **Die Stadt fördert viele Sportprojekte** — *The city promotes many sports projects* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

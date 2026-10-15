@@ -31,6 +31,9 @@ status: "new"
 > Nächste Woche ist Themenwoche an unserer Schule.
 > *Next week is theme week at our school.*
 
+**Phrases & Expressions:**
+- **Nächste Woche ist Themenwoche an unserer Schule** — *Next week is theme week at our school* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?)
 <!-- bank:end -->
 

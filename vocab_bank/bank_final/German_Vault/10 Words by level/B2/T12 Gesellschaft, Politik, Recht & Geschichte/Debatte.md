@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Debatte im Parlament dauerte drei Stunden.
 > *The debate in parliament lasted three hours.*
+
+**Phrases & Expressions:**
+- **Die Debatte im Parlament dauerte drei Stunden** — *The debate in parliament lasted three hours* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -34,6 +34,9 @@ status: "new"
 > Die Verbraucherin beschwert sich über das Produkt.
 > *The consumer complains about the product.*
 
+**Phrases & Expressions:**
+- **Die Verbraucherin beschwert sich über das Produkt** — *The consumer complains about the product* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

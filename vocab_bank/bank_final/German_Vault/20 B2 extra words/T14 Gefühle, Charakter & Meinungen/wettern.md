@@ -32,6 +32,11 @@ status: "new"
 > Er wetterte gegen die neuen Steuern.
 > *He railed against the new taxes.*
 
+**Phrases & Expressions:**
+- **gegen etwas wettern** — *to rail; to fulminate*
+- **laut wettern** — *to rail; to fulminate*
+- **über die Politik wettern** — *to rail; to fulminate*
+
 **Collocations**
 - gegen etwas wettern
 - laut wettern

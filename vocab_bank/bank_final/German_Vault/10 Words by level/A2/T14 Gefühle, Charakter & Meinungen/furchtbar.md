@@ -31,6 +31,9 @@ status: "new"
 > Er hat furchtbare Schmerzen.
 > *He is in terrible pain.*
 
+**Phrases & Expressions:**
+- **Er hat furchtbare Schmerzen** — *He is in terrible pain* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 3a (Nach der Schulzeit) · Goethe word list A2
 <!-- bank:end -->
 

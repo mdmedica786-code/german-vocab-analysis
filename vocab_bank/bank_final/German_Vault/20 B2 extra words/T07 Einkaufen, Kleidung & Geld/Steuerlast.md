@@ -33,6 +33,11 @@ status: "new"
 > Die Steuerlast ist für viele Familien zu hoch.
 > *The tax burden is too high for many families.*
 
+**Phrases & Expressions:**
+- **die Steuerlast senken** — *tax burden*
+- **hohe Steuerlast** — *tax burden*
+- **Steuerlast mindern** — *tax burden*
+
 **Collocations**
 - die Steuerlast senken
 - hohe Steuerlast

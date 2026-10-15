@@ -33,6 +33,13 @@ status: "new"
 > Ich kann bestätigen, dass er hier war.
 > *I can confirm that he was here.*
 
+**Phrases & Expressions:**
+- **Ich bestätige gern unseren Termin am ...** — I am happy to confirm our appointment on ... *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Termin bestätigen]] · B1)*
+- **einen Termin bestätigen** — *to confirm*
+- **den Empfang bestätigen** — *to confirm*
+- **eine Vermutung bestätigen** — *to confirm*
+- **schriftlich bestätigen** — *to confirm*
+
 **Collocations**
 - einen Termin bestätigen
 - den Empfang bestätigen

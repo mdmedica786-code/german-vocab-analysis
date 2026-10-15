@@ -33,6 +33,11 @@ status: "new"
 > Für den Antrag brauchen wir auch die Heiratsurkunde.
 > *For the application we also need the marriage certificate.*
 
+**Phrases & Expressions:**
+- **die Heiratsurkunde vorlegen** — *marriage certificate*
+- **Heiratsurkunde übersetzen** — *marriage certificate*
+- **eine beglaubigte Heiratsurkunde** — *marriage certificate*
+
 **Collocations**
 - die Heiratsurkunde vorlegen
 - Heiratsurkunde übersetzen

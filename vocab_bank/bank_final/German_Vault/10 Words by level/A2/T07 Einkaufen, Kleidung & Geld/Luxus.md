@@ -34,6 +34,9 @@ status: "new"
 > Ein eigener Pool ist ein großer Luxus.
 > *A private pool is a great luxury.*
 
+**Phrases & Expressions:**
+- **Ein eigener Pool ist ein großer Luxus** — *A private pool is a great luxury* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1b (Zusammen leben)
 <!-- bank:end -->
 

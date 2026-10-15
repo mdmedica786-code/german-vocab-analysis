@@ -32,6 +32,11 @@ status: "new"
 > Wir ersuchen Sie, die Unterlagen bis Freitag einzureichen.
 > *We request that you submit the documents by Friday.*
 
+**Phrases & Expressions:**
+- **jemanden um etwas ersuchen** — *to request; to ask formally*
+- **um Auskunft ersuchen** — *to request; to ask formally*
+- **um Hilfe ersuchen** — *to request; to ask formally*
+
 **Collocations**
 - jemanden um etwas ersuchen
 - um Auskunft ersuchen

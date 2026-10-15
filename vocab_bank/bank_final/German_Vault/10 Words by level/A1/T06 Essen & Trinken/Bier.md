@@ -35,6 +35,9 @@ status: "new"
 > Noch ein Bier bitte.
 > *Another beer, please.*
 
+**Phrases & Expressions:**
+- **Noch ein Bier bitte** — *Another beer, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 1b (Arbeitswelten) · Goethe word list A1
 <!-- bank:end -->
 

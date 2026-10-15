@@ -31,6 +31,13 @@ status: "new"
 > Das Fahrrad lehnt an der Wand.
 > *The bicycle is leaning against the wall.*
 
+**Phrases & Expressions:**
+- **Ich lehne das ab, weil ...** — I reject that because ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Position beziehen]] · B2)*
+- **Der Patient lehnte die vorgeschlagene Therapie ab.** — The patient declined the proposed therapy. *([[FSP-20 Arztbrief und Dokumentation|Dokumentation]] · B2)*
+- **sich an die Wand lehnen** — *to lean*
+- **an der Tür lehnen** — *to lean*
+- **sich aus dem Fenster lehnen** — *to lean*
+
 **Collocations**
 - sich an die Wand lehnen
 - an der Tür lehnen

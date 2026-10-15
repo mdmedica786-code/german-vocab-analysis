@@ -33,6 +33,9 @@ status: "new"
 > Sie können das Geld auch überweisen.
 > *You can also transfer the money.*
 
+**Phrases & Expressions:**
+- **Ich überweise Sie an einen Facharzt für Kardiologie.** — I am referring you to a specialist in cardiology. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Überweisung]] · B2)*
+
 **Source:** Netzwerk neu A1 K7 5a ÜB (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

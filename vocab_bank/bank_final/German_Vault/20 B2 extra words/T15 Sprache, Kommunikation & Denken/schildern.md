@@ -31,6 +31,11 @@ status: "new"
 > Sie schilderte den Unfall genau.
 > *She described the accident in detail.*
 
+**Phrases & Expressions:**
+- **den Hergang schildern** — *to describe; to depict*
+- **etwas genau schildern** — *to describe; to depict*
+- **seine Eindrücke schildern** — *to describe; to depict*
+
 **Collocations**
 - den Hergang schildern
 - etwas genau schildern

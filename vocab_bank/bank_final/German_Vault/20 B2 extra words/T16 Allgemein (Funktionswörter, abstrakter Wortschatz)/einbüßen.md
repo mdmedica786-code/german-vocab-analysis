@@ -32,6 +32,11 @@ status: "new"
 > Das Unternehmen hat viel an Ansehen eingebüßt.
 > *The company has lost a lot of reputation.*
 
+**Phrases & Expressions:**
+- **an Wert einbüßen** — *to lose; to forfeit*
+- **an Ansehen einbüßen** — *to lose; to forfeit*
+- **Einfluss einbüßen** — *to lose; to forfeit*
+
 **Collocations**
 - an Wert einbüßen
 - an Ansehen einbüßen

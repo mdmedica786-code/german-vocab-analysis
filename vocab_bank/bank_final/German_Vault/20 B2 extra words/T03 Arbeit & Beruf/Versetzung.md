@@ -33,6 +33,11 @@ status: "new"
 > Wegen der Versetzung zieht die Familie nach Hamburg.
 > *Because of the transfer the family is moving to Hamburg.*
 
+**Phrases & Expressions:**
+- **eine Versetzung beantragen** — *transfer; promotion to next class*
+- **die Versetzung in die nächste Klasse** — *transfer; promotion to next class*
+- **Versetzung gefährdet** — *transfer; promotion to next class*
+
 **Collocations**
 - eine Versetzung beantragen
 - die Versetzung in die nächste Klasse

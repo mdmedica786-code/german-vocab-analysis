@@ -33,6 +33,11 @@ status: "new"
 > »Fenster« ist ein Lehnwort aus dem Lateinischen.
 > *"Fenster" is a loanword from Latin.*
 
+**Phrases & Expressions:**
+- **ein Lehnwort aus dem Französischen** — *loanword*
+- **Lehnwörter im Deutschen** — *loanword*
+- **Fremd- und Lehnwörter** — *loanword*
+
 **Collocations**
 - ein Lehnwort aus dem Französischen
 - Lehnwörter im Deutschen

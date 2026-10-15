@@ -31,6 +31,9 @@ status: "new"
 > Die Rechnungsinformation steht im Anhang.
 > *The invoice information is in the attachment.*
 
+**Phrases & Expressions:**
+- **Die Rechnungsinformation steht im Anhang** — *The invoice information is in the attachment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

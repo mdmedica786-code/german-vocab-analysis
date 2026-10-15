@@ -33,6 +33,14 @@ status: "new"
 > Der Arzt hört die Lunge ab.
 > *The doctor listens to the lungs.*
 
+**Phrases & Expressions:**
+- **Der Klopfschall über der Lunge ist sonor.** — The percussion note over the lung is resonant. *([[FSP-08 Befunde beschreiben und berichten|Perkussion]] · C1)*
+- **Über der Lunge sind feuchte Rasselgeräusche zu hören.** — Moist rales can be heard over the lungs. *([[FSP-08 Befunde beschreiben und berichten|Auskultation]] · C1)*
+- **Wir machen eine Röntgenaufnahme Ihrer Lunge.** — We will take an X-ray of your lungs. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Röntgen]] · B1)*
+- **eine gesunde Lunge** — *lung*
+- **die Lunge abhören** — *lung*
+- **Wasser in der Lunge** — *lung*
+
 **Collocations**
 - eine gesunde Lunge
 - die Lunge abhören

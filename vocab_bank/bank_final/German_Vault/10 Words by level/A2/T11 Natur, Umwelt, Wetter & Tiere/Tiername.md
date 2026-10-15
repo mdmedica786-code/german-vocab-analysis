@@ -34,6 +34,9 @@ status: "new"
 > Unser Hund hat einen lustigen Tiernamen.
 > *Our dog has a funny animal name.*
 
+**Phrases & Expressions:**
+- **Unser Hund hat einen lustigen Tiernamen** — *Our dog has a funny animal name* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 10c (Zusammen leben)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Er hat ein ansehnliches Vermögen geerbt.
 > *He inherited a considerable fortune.*
 
+**Phrases & Expressions:**
+- **ein ansehnliches Gehalt** — *considerable; presentable*
+- **eine ansehnliche Summe** — *considerable; presentable*
+- **ein ansehnliches Vermögen** — *considerable; presentable*
+
 **Collocations**
 - ein ansehnliches Gehalt
 - eine ansehnliche Summe

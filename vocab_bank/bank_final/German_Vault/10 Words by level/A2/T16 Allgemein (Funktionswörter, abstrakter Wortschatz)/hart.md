@@ -32,6 +32,12 @@ status: "new"
 > Ich finde das Bett zu hart.
 > *I find the bed too hard.*
 
+**Phrases & Expressions:**
+- **ein hartes Bett** — *hard; tough; harsh*
+- **hart arbeiten** — *hard; tough; harsh*
+- **hartes Brot** — *hard; tough; harsh*
+- **harte Zeiten** — *hard; tough; harsh*
+
 **Collocations**
 - ein hartes Bett
 - hart arbeiten

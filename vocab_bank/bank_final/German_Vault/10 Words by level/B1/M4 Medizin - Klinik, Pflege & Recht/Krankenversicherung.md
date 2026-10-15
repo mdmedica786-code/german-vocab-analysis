@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Haben Sie eine Krankenversicherung?
 > *Do you have health insurance?*
+
+**Phrases & Expressions:**
+- **Ich suche eine Krankenversicherung.** — I am looking for health insurance. *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Krankenversicherung]] · B1)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,11 @@ status: "new"
 > Die Firma konnte ihre Verbindlichkeiten nicht mehr erfüllen.
 > *The company could no longer meet its liabilities.*
 
+**Phrases & Expressions:**
+- **Verbindlichkeiten haben** — *liability; obligation*
+- **seinen Verbindlichkeiten nachkommen** — *liability; obligation*
+- **offene Verbindlichkeiten** — *liability; obligation*
+
 **Collocations**
 - Verbindlichkeiten haben
 - seinen Verbindlichkeiten nachkommen

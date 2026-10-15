@@ -34,6 +34,9 @@ status: "new"
 > Der Junge hat sich beim Baden erkältet.
 > *The boy caught a cold while swimming.*
 
+**Phrases & Expressions:**
+- **Der Junge hat sich beim Baden erkältet** — *The boy caught a cold while swimming* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

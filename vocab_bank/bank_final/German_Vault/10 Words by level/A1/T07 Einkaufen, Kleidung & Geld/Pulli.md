@@ -34,6 +34,9 @@ status: "new"
 > Der Pulli ist schön warm.
 > *The jumper is nice and warm.*
 
+**Phrases & Expressions:**
+- **Der Pulli ist schön warm** — *The jumper is nice and warm* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 9b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

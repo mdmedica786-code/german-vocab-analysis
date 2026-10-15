@@ -34,6 +34,9 @@ status: "new"
 > Für die Wohnung muss ich drei Monatsmieten Kaution zahlen.
 > *For the flat I have to pay a deposit of three months' rent.*
 
+**Phrases & Expressions:**
+- **Für die Wohnung muss ich drei Monatsmieten Kaution zahlen** — *For the flat I have to pay a deposit of three months' rent* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 6c (Ganz schön mobil)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Wir wünschen Ihnen gute Unterhaltung.
 > *We wish you good entertainment.*
 
+**Phrases & Expressions:**
+- **Wir wünschen Ihnen gute Unterhaltung** — *We wish you good entertainment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1a (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

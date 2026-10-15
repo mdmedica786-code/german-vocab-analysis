@@ -30,6 +30,11 @@ status: "new"
 > Das Erfolgskonzept der Firma beruht auf guter Beratung.
 > *The company's recipe for success is based on good advice.*
 
+**Phrases & Expressions:**
+- **ein Erfolgskonzept entwickeln** — *recipe for success; successful concept*
+- **das Erfolgskonzept der Firma** — *recipe for success; successful concept*
+- **ein bewährtes Erfolgskonzept** — *recipe for success; successful concept*
+
 **Collocations**
 - ein Erfolgskonzept entwickeln
 - das Erfolgskonzept der Firma

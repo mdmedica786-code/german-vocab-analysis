@@ -35,6 +35,9 @@ status: "new"
 > Gute Bücher sind oft sehr teuer.
 > *Good books are often very expensive.*
 
+**Phrases & Expressions:**
+- **Gute Bücher sind oft sehr teuer** — *Good books are often very expensive* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

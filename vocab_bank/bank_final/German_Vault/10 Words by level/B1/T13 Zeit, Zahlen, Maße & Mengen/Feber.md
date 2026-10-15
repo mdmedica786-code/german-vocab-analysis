@@ -39,6 +39,9 @@ status: "new"
 > Im Feber ist es in Wien oft kalt.
 > *In February it is often cold in Vienna.*
 
+**Phrases & Expressions:**
+- **Im Feber ist es in Wien oft kalt** — *In February it is often cold in Vienna* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

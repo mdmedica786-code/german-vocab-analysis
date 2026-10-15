@@ -34,6 +34,9 @@ status: "new"
 > Such dir etwas Schönes aus! Ich lade dich ein.
 > *Pick something nice! I'm paying.*
 
+**Phrases & Expressions:**
+- **Such dir etwas Schönes aus! Ich lade dich ein** — *Pick something nice! I'm paying* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 9c (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

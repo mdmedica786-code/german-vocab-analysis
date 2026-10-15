@@ -30,6 +30,14 @@ status: "new"
 > Möchtet ihr nicht rauskommen? Das Wetter ist so schön.
 > *Don't you want to come out? The weather is so nice.*
 
+**Phrases & Expressions:**
+- **es stellte sich heraus, dass ...** — it turned out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **es stellt sich heraus, dass ...** — it turns out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **herauskommen** — *out (towards the speaker)*
+- **herausfinden** — *out (towards the speaker)*
+- **herausnehmen** — *out (towards the speaker)*
+- **heraus aus dem Haus** — *out (towards the speaker)*
+
 **Collocations**
 - herauskommen
 - herausfinden

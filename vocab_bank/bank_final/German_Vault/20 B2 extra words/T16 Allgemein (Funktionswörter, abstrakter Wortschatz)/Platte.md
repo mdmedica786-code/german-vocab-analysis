@@ -33,6 +33,11 @@ status: "new"
 > Die Platte aus Stein ist sehr schwer.
 > *The slab of stone is very heavy.*
 
+**Phrases & Expressions:**
+- **eine Platte aus Holz** — *plate; slab; record*
+- **eine Platte auflegen** — *plate; slab; record*
+- **die Herdplatte** — *plate; slab; record*
+
 **Collocations**
 - eine Platte aus Holz
 - eine Platte auflegen

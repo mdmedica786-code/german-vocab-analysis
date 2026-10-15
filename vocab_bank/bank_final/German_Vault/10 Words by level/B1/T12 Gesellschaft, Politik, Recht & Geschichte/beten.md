@@ -32,6 +32,11 @@ status: "new"
 > Vor dem Essen betet die Familie.
 > *The family prays before eating.*
 
+**Phrases & Expressions:**
+- **im Bett** — in bed *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A1)*
+- **ins Bett** — to bed *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A1)*
+- **Gehen Sie möglichst jeden Tag zur gleichen Zeit ins Bett.** — If possible, go to bed at the same time every day. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Schlafhygiene]] · B1)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

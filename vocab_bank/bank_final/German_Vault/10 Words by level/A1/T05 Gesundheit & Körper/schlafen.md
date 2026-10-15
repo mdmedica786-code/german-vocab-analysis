@@ -33,6 +33,11 @@ status: "new"
 > Ich schlafe meistens acht Stunden.
 > *I usually sleep for eight hours.*
 
+**Phrases & Expressions:**
+- **Wie schlafen Sie?** — How do you sleep? *([[FSP-05 Familien- und Sozialanamnese|Schlaf erfragen]] · A2)*
+- **Ich arbeite im Schichtdienst und schlafe schlecht.** — I work shifts and sleep badly. *([[FSP-05 Familien- und Sozialanamnese|Patient: Arbeit beschreiben]] · B1)*
+- **Sie bekommen eine Vollnarkose und schlafen während der Operation.** — You will receive a general anaesthetic and sleep during the operation. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Narkose erklären]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

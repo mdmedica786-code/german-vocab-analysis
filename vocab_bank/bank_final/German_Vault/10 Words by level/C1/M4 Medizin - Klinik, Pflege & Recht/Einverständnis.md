@@ -33,6 +33,12 @@ status: "new"
 > Wir brauchen Ihr Einverständnis für die Behandlung.
 > *We need your consent for the treatment.*
 
+**Phrases & Expressions:**
+- **sein Einverständnis geben** — *consent; agreement*
+- **schriftliches Einverständnis** — *consent; agreement*
+- **Einverständnis einholen** — *consent; agreement*
+- **im Einverständnis mit** — *consent; agreement*
+
 **Collocations**
 - sein Einverständnis geben
 - schriftliches Einverständnis

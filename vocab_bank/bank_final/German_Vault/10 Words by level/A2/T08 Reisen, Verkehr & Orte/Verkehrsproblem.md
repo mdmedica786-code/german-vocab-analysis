@@ -34,6 +34,9 @@ status: "new"
 > Staus sind ein großes Verkehrsproblem.
 > *Traffic jams are a big traffic problem.*
 
+**Phrases & Expressions:**
+- **Staus sind ein großes Verkehrsproblem** — *Traffic jams are a big traffic problem* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil)
 <!-- bank:end -->
 

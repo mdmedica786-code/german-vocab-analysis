@@ -34,6 +34,9 @@ status: "new"
 > Am Lagerfeuer singen wir Lieder.
 > *We sing songs around the campfire.*
 
+**Phrases & Expressions:**
+- **Am Lagerfeuer singen wir Lieder** — *We sing songs around the campfire* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 1a ÜB (Zwischenmenschliches)
 <!-- bank:end -->
 

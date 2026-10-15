@@ -29,6 +29,11 @@ status: "new"
 > Auf dem Markt gibt es allerlei Dinge zu kaufen.
 > *At the market there are all sorts of things to buy.*
 
+**Phrases & Expressions:**
+- **allerlei Dinge** — *all sorts of; various*
+- **allerlei Neues** — *all sorts of; various*
+- **allerlei Leute** — *all sorts of; various*
+
 **Collocations**
 - allerlei Dinge
 - allerlei Neues

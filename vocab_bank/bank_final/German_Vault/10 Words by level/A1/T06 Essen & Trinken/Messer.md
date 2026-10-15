@@ -35,6 +35,9 @@ status: "new"
 > Das Messer schneidet nicht gut.
 > *The knife doesn't cut well.*
 
+**Phrases & Expressions:**
+- **Das Messer schneidet nicht gut** — *The knife doesn't cut well* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 11c ÜB (Zeit mit Freunden) · Goethe word list A2
 <!-- bank:end -->
 

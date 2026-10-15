@@ -33,6 +33,9 @@ status: "new"
 > Sie trägt ein Gedicht vor.
 > *She recites a poem.*
 
+**Phrases & Expressions:**
+- **Sie trägt ein Gedicht vor** — *She recites a poem* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 10b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

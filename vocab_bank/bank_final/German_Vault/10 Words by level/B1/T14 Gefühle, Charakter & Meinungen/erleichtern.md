@@ -33,6 +33,9 @@ status: "new"
 > Ein guter Plan erleichtert die Arbeit.
 > *A good plan makes the work easier.*
 
+**Phrases & Expressions:**
+- **Ein guter Plan erleichtert die Arbeit** — *A good plan makes the work easier* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 8a (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

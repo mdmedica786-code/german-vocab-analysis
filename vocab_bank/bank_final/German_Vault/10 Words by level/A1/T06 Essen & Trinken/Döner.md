@@ -34,6 +34,9 @@ status: "new"
 > Ich esse mittags oft einen Döner.
 > *At lunchtime I often eat a doner kebab.*
 
+**Phrases & Expressions:**
+- **Ich esse mittags oft einen Döner** — *At lunchtime I often eat a doner kebab* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!)
 <!-- bank:end -->
 

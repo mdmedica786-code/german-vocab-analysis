@@ -26,6 +26,10 @@ status: "new"
 > Wir müssen im Keller Platz für die neuen Regale schaffen.
 > *We need to make room in the cellar for the new shelves.*
 
+**Phrases & Expressions:**
+- **Platz für etwas schaffen** — *to make room*
+- **Platz machen** — *to make room*
+
 **Collocations**
 - Platz für etwas schaffen
 - Platz machen

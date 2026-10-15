@@ -34,6 +34,9 @@ status: "new"
 > Ich möchte zuerst mit meiner Anwältin sprechen.
 > *I would like to speak to my lawyer first.*
 
+**Phrases & Expressions:**
+- **Ich möchte zuerst mit meiner Anwältin sprechen** — *I would like to speak to my lawyer first* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

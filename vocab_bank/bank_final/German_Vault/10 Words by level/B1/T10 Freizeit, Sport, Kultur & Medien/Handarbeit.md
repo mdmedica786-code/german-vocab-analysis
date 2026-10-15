@@ -34,6 +34,9 @@ status: "new"
 > Handarbeit macht mir Spaß.
 > *Handicraft is fun for me.*
 
+**Phrases & Expressions:**
+- **Handarbeit macht mir Spaß** — *Handicraft is fun for me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 1a (Veränderungen)
 <!-- bank:end -->
 

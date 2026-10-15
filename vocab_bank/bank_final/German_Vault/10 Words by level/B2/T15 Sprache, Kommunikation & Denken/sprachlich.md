@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Sprachlich ist der Text sehr gut.
 > *Linguistically the text is very good.*
+
+**Phrases & Expressions:**
+- **Sprachlich ist der Text sehr gut** — *Linguistically the text is very good* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

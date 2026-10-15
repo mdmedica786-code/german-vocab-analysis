@@ -34,6 +34,9 @@ status: "new"
 > Ihr Engagement für die Umwelt ist beeindruckend.
 > *Her commitment to the environment is impressive.*
 
+**Phrases & Expressions:**
+- **Ihr Engagement für die Umwelt ist beeindruckend** — *Her commitment to the environment is impressive* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?)
 <!-- bank:end -->
 

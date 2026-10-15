@@ -29,6 +29,11 @@ status: "new"
 > Das Gebäude ist architektonisch sehr interessant.
 > *The building is architecturally very interesting.*
 
+**Phrases & Expressions:**
+- **architektonisch interessant** — *architectural*
+- **eine architektonische Besonderheit** — *architectural*
+- **architektonisch gelungen** — *architectural*
+
 **Collocations**
 - architektonisch interessant
 - eine architektonische Besonderheit

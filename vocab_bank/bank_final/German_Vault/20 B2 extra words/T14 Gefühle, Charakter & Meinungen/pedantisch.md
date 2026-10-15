@@ -29,6 +29,11 @@ status: "new"
 > Mein Chef ist bei Zahlen sehr pedantisch.
 > *My boss is very pedantic about numbers.*
 
+**Phrases & Expressions:**
+- **pedantisch genau** — *pedantic*
+- **ein pedantischer Mensch** — *pedantic*
+- **pedantisch sein** — *pedantic*
+
 **Collocations**
 - pedantisch genau
 - ein pedantischer Mensch

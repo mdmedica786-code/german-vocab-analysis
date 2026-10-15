@@ -31,6 +31,9 @@ status: "new"
 > Der Infotext steht auf der Rückseite.
 > *The information text is on the back.*
 
+**Phrases & Expressions:**
+- **Der Infotext steht auf der Rückseite** — *The information text is on the back* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

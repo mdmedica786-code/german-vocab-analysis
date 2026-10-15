@@ -30,6 +30,11 @@ status: "new"
 > Für die Uni brauche ich ein Sprachzertifikat auf B2-Niveau.
 > *For university I need a language certificate at B2 level.*
 
+**Phrases & Expressions:**
+- **ein Sprachzertifikat vorlegen** — *language certificate*
+- **ein Sprachzertifikat erwerben** — *language certificate*
+- **Sprachzertifikat nachweisen** — *language certificate*
+
 **Collocations**
 - ein Sprachzertifikat vorlegen
 - ein Sprachzertifikat erwerben

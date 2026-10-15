@@ -33,6 +33,11 @@ status: "new"
 > Die Bewerbungsmappe enthält Lebenslauf und Zeugnisse.
 > *The application folder contains the CV and certificates.*
 
+**Phrases & Expressions:**
+- **eine Bewerbungsmappe zusammenstellen** — *application folder*
+- **vollständige Bewerbungsmappe** — *application folder*
+- **Bewerbungsmappe einreichen** — *application folder*
+
 **Collocations**
 - eine Bewerbungsmappe zusammenstellen
 - vollständige Bewerbungsmappe

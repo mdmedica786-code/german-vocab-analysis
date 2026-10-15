@@ -33,6 +33,11 @@ status: "new"
 > Die alte Lokomotive steht heute im Museum.
 > *The old locomotive stands in the museum today.*
 
+**Phrases & Expressions:**
+- **eine Lokomotive steuern** — *locomotive; engine*
+- **eine alte Lokomotive** — *locomotive; engine*
+- **die Lokomotive des Zuges** — *locomotive; engine*
+
 **Collocations**
 - eine Lokomotive steuern
 - eine alte Lokomotive

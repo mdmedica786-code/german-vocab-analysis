@@ -29,6 +29,9 @@ status: "new"
 > Das ist lediglich eine Vermutung.
 > *That is merely an assumption.*
 
+**Phrases & Expressions:**
+- **Das ist lediglich eine Vermutung** — *That is merely an assumption* *(Beispiel im Kontext)*
+
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->
 

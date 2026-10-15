@@ -30,6 +30,14 @@ status: "new"
 > Sie hat sich bewusst für das Studium entschieden.
 > *She consciously decided to study.*
 
+**Phrases & Expressions:**
+- **mir ist bewusst, dass ...** — I am aware that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · C1)*
+- **Versuchen Sie, bewusst Pausen in den Alltag einzubauen.** — Try to consciously build breaks into your day. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Stress abbauen]] · B2)*
+- **sich bewusst sein** — *conscious; deliberate*
+- **bewusst machen** — *conscious; deliberate*
+- **bewusst leben** — *conscious; deliberate*
+- **bewusst entscheiden** — *conscious; deliberate*
+
 **Collocations**
 - sich bewusst sein
 - bewusst machen

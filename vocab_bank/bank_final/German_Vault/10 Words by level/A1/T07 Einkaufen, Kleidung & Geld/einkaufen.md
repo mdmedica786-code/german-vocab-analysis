@@ -34,6 +34,9 @@ status: "new"
 > Ich muss noch für morgen einkaufen.
 > *I still have to do the shopping for tomorrow.*
 
+**Phrases & Expressions:**
+- **Ich muss noch für morgen einkaufen** — *I still have to do the shopping for tomorrow* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 2a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

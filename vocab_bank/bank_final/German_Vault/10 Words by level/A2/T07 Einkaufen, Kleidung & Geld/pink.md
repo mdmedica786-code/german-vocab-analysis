@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Sie trägt einen pinken Pullover.
 > *She is wearing a pink jumper.*
+
+**Phrases & Expressions:**
+- **Sie trägt einen pinken Pullover** — *She is wearing a pink jumper* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

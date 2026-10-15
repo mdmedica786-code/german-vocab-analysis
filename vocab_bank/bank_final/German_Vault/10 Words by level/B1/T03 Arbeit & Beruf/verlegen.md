@@ -32,6 +32,12 @@ status: "new"
 > Die Firma will die Produktion ins Ausland verlegen.
 > *The company wants to move production abroad.*
 
+**Phrases & Expressions:**
+- **Wäre es möglich, den Termin auf ... zu verlegen?** — Would it be possible to move the appointment to ...? *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Termin verschieben]] · B1)*
+- **die Produktion verlegen** — *to move*
+- **ins Ausland verlegen** — *to move*
+- **einen Termin verlegen** — *to move*
+
 **Collocations**
 - die Produktion verlegen
 - ins Ausland verlegen

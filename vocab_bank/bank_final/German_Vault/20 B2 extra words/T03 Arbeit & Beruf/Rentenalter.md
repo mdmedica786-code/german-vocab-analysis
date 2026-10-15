@@ -33,6 +33,11 @@ status: "new"
 > Das Rentenalter soll schrittweise angehoben werden.
 > *The retirement age is to be raised step by step.*
 
+**Phrases & Expressions:**
+- **das Rentenalter erreichen** — *retirement age*
+- **ins Rentenalter kommen** — *retirement age*
+- **das gesetzliche Rentenalter** — *retirement age*
+
 **Collocations**
 - das Rentenalter erreichen
 - ins Rentenalter kommen

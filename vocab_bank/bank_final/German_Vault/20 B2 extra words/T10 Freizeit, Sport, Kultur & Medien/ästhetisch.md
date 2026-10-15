@@ -29,6 +29,11 @@ status: "new"
 > Das Gebäude ist ästhetisch sehr gelungen.
 > *The building is very successful aesthetically.*
 
+**Phrases & Expressions:**
+- **ästhetisch ansprechend** — *aesthetic*
+- **ein ästhetischer Genuss** — *aesthetic*
+- **ästhetische Gründe** — *aesthetic*
+
 **Collocations**
 - ästhetisch ansprechend
 - ein ästhetischer Genuss

@@ -31,6 +31,11 @@ status: "new"
 > Der Professor erläuterte die Regeln anhand von Beispielen.
 > *The professor explained the rules using examples.*
 
+**Phrases & Expressions:**
+- **einen Sachverhalt erläutern** — *to explain; to elucidate*
+- **näher erläutern** — *to explain; to elucidate*
+- **ausführlich erläutern** — *to explain; to elucidate*
+
 **Collocations**
 - einen Sachverhalt erläutern
 - näher erläutern

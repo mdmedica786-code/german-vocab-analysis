@@ -33,6 +33,11 @@ status: "new"
 > Die Personalerin prüft die Bewerbungsunterlagen.
 > *The HR manager checks the application documents.*
 
+**Phrases & Expressions:**
+- **eine erfahrene Personalerin** — *HR manager (female); personnel officer*
+- **mit der Personalerin sprechen** — *HR manager (female); personnel officer*
+- **die Personalerin überzeugen** — *HR manager (female); personnel officer*
+
 **Collocations**
 - eine erfahrene Personalerin
 - mit der Personalerin sprechen

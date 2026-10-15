@@ -33,6 +33,13 @@ status: "new"
 > Wenn wir uns beeilen, erreichen wir noch den Zug um acht Uhr.
 > *If we hurry, we'll still catch the eight o'clock train.*
 
+**Phrases & Expressions:**
+- **Außerhalb der Sprechzeiten erreichen Sie den ärztlichen Bereitschaftsdienst unter 116 117.** — Outside surgery hours you can reach the on-call medical service on 116 117. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Notfallnummer nennen]] · B2)*
+- **den Zug erreichen** — *to reach*
+- **ein Ziel erreichen** — *to reach*
+- **jemanden telefonisch erreichen** — *to reach*
+- **das Alter von ... erreichen** — *to reach*
+
 **Collocations**
 - den Zug erreichen
 - ein Ziel erreichen

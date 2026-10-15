@@ -29,6 +29,11 @@ status: "new"
 > Sie hat im Mai ein gesundes Mädchen zur Welt gebracht.
 > *She gave birth to a healthy girl in May.*
 
+**Phrases & Expressions:**
+- **ein Kind zur Welt bringen** — *to give birth to*
+- **zur Welt kommen** — *to give birth to*
+- **ein Baby zur Welt bringen** — *to give birth to*
+
 **Collocations**
 - ein Kind zur Welt bringen
 - zur Welt kommen

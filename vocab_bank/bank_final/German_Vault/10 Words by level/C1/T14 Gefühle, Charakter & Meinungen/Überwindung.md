@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Es kostet mich Überwindung, den Arzt anzurufen.
 > *It takes an effort for me to call the doctor.*
+
+**Phrases & Expressions:**
+- **Es kostet mich Überwindung, den Arzt anzurufen** — *It takes an effort for me to call the doctor* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

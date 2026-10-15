@@ -34,6 +34,9 @@ status: "new"
 > Die Energiekosten sind im Winter höher.
 > *Energy costs are higher in winter.*
 
+**Phrases & Expressions:**
+- **Die Energiekosten sind im Winter höher** — *Energy costs are higher in winter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 6b (Umweltfreundlich?)
 <!-- bank:end -->
 

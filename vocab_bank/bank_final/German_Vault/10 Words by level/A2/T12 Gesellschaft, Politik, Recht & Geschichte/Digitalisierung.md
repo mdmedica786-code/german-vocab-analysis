@@ -34,6 +34,9 @@ status: "new"
 > Die Digitalisierung verändert die Medizin.
 > *Digitisation is changing medicine.*
 
+**Phrases & Expressions:**
+- **Die Digitalisierung verändert die Medizin** — *Digitisation is changing medicine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
 <!-- bank:end -->
 

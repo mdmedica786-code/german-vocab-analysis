@@ -35,6 +35,9 @@ status: "new"
 > Mein Rechner ist kaputt.
 > *My computer is broken.*
 
+**Phrases & Expressions:**
+- **Mein Rechner ist kaputt** — *My computer is broken* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 6a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

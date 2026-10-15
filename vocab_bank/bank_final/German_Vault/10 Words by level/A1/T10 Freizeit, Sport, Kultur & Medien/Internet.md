@@ -35,6 +35,9 @@ status: "new"
 > Das findest du im Internet.
 > *You can find that on the internet.*
 
+**Phrases & Expressions:**
+- **Das findest du im Internet** — *You can find that on the internet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 7a (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

@@ -37,6 +37,9 @@ status: "new"
 > Meine Eltern leben auf dem Land.
 > *My parents live in the countryside.*
 
+**Phrases & Expressions:**
+- **Meine Eltern leben auf dem Land** — *My parents live in the countryside* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 8a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

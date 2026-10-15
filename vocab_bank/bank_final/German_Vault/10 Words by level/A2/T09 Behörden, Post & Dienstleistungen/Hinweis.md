@@ -35,6 +35,13 @@ status: "new"
 > Die Polizei hat viele Hinweise zum Unfall bekommen.
 > *The police received many tips about the accident.*
 
+**Phrases & Expressions:**
+- **darauf hinweisen, dass ...** — to point out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **Ich möchte besonders auf ... hinweisen.** — I would like to point out ... in particular. *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Schwerpunkt setzen]] · B1)*
+- **Bei der körperlichen Untersuchung fand sich kein Hinweis auf ...** — On physical examination there was no sign of ... *([[FSP-08 Befunde beschreiben und berichten|Befund im Arzt-Arzt-Gespräch]] · C1)*
+- **Gibt es Hinweise auf eine Immunsuppression?** — Are there any indications of immunosuppression? *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Rückfrage stellen]] · C1)*
+- **Wir bitten um Beachtung folgender Hinweise: ...** — We ask you to note the following: ... *([[FSP-20 Arztbrief und Dokumentation|Pflegerische Hinweise]] · C1)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

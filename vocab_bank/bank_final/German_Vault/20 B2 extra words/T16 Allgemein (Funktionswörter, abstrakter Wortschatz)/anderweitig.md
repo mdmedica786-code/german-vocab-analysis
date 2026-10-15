@@ -29,6 +29,11 @@ status: "new"
 > Die Stelle wurde bereits anderweitig vergeben.
 > *The position has already been filled by someone else.*
 
+**Phrases & Expressions:**
+- **anderweitig vergeben** — *elsewhere; otherwise; in another way*
+- **anderweitig verwenden** — *elsewhere; otherwise; in another way*
+- **anderweitig beschäftigt** — *elsewhere; otherwise; in another way*
+
 **Collocations**
 - anderweitig vergeben
 - anderweitig verwenden

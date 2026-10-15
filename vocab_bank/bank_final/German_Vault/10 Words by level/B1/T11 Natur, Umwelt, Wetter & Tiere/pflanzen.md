@@ -33,6 +33,12 @@ status: "new"
 > Lass uns einen Baum pflanzen!
 > *Let's plant a tree!*
 
+**Phrases & Expressions:**
+- **einen Baum pflanzen** — *to plant*
+- **Blumen pflanzen** — *to plant*
+- **Gemüse pflanzen** — *to plant*
+- **Samen pflanzen** — *to plant*
+
 **Collocations**
 - einen Baum pflanzen
 - Blumen pflanzen

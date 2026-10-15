@@ -35,6 +35,9 @@ status: "new"
 > Dieser Tisch hier ist ganz aus Metall.
 > *This table here is made entirely of metal.*
 
+**Phrases & Expressions:**
+- **Es ist aus Holz/Metall/Plastik und ziemlich leicht.** — It is made of wood/metal/plastic and quite light. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ding beschreiben]] · B1)*
+
 **Source:** Netzwerk neu B1 K4 1b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

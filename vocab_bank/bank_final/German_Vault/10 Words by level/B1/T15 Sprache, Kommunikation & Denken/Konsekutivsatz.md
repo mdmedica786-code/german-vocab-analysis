@@ -34,6 +34,9 @@ status: "new"
 > Ein Konsekutivsatz beginnt oft mit „sodass“.
 > *A consecutive clause often begins with "sodass".*
 
+**Phrases & Expressions:**
+- **Ein Konsekutivsatz beginnt oft mit „sodass“** — *A consecutive clause often begins with "sodass"* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 11 (Das ist ja praktisch!)
 <!-- bank:end -->
 

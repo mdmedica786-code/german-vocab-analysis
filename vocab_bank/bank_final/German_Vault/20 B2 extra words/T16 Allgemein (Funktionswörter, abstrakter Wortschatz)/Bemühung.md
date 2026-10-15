@@ -33,6 +33,12 @@ status: "new"
 > Trotz aller Bemühungen blieb der Erfolg aus.
 > *Despite all efforts, success did not come.*
 
+**Phrases & Expressions:**
+- **Vielen Dank im Voraus für Ihre Bemühungen.** — Thank you in advance for your efforts. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Schlussformel]] · B2)*
+- **trotz aller Bemühungen** — *effort; endeavour*
+- **Bemühungen verstärken** — *effort; endeavour*
+- **sich um etwas bemühen** — *effort; endeavour*
+
 **Collocations**
 - trotz aller Bemühungen
 - Bemühungen verstärken

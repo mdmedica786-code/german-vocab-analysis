@@ -33,6 +33,11 @@ status: "new"
 > Die Katze hat ein weiches Fell.
 > *The cat has soft fur.*
 
+**Phrases & Expressions:**
+- **ein dichtes Fell** — *fur; coat; hide*
+- **das Fell pflegen** — *fur; coat; hide*
+- **ein dickes Fell haben** — *fur; coat; hide*
+
 **Collocations**
 - ein dichtes Fell
 - das Fell pflegen

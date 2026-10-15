@@ -33,6 +33,9 @@ status: "new"
 > Er konnte seine Idee im Team durchsetzen.
 > *He was able to push his idea through in the team.*
 
+**Phrases & Expressions:**
+- **Bitte atmen Sie kurz durch, dann klären wir alles.** — Please take a deep breath, then we will sort everything out. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Aufgebrachte beruhigen]] · B2)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?)
 <!-- bank:end -->
 

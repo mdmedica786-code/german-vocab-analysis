@@ -29,6 +29,12 @@ status: "new"
 > Die Patientin wurde plötzlich ohnmächtig.
 > *The patient suddenly fainted.*
 
+**Phrases & Expressions:**
+- **ohnmächtig werden** — *unconscious; fainted*
+- **plötzlich ohnmächtig** — *unconscious; fainted*
+- **ohnmächtig am Boden liegen** — *unconscious; fainted*
+- **ohnmächtig zusammenbrechen** — *unconscious; fainted*
+
 **Collocations**
 - ohnmächtig werden
 - plötzlich ohnmächtig

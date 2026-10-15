@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Ich bin mit dem Ergebnis unzufrieden.
 > *I am dissatisfied with the result.*
+
+**Phrases & Expressions:**
+- **Ich bin mit dem Ergebnis unzufrieden** — *I am dissatisfied with the result* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

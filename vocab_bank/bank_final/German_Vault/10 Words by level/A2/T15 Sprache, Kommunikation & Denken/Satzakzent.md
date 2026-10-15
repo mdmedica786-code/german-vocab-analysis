@@ -34,6 +34,9 @@ status: "new"
 > Der Satzakzent liegt meistens auf dem wichtigsten Wort.
 > *The sentence stress is usually on the most important word.*
 
+**Phrases & Expressions:**
+- **Der Satzakzent liegt meistens auf dem wichtigsten Wort** — *The sentence stress is usually on the most important word* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 9a (Zusammen leben)
 <!-- bank:end -->
 

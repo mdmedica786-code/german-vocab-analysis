@@ -33,6 +33,11 @@ status: "new"
 > Am Nachmittag gibt es vereinzelte Schauer.
 > *In the afternoon there will be scattered showers.*
 
+**Phrases & Expressions:**
+- **ein Schauer läuft über den Rücken** — *shower; shudder*
+- **der Regenschauer** — *shower; shudder*
+- **vereinzelte Schauer** — *shower; shudder*
+
 **Collocations**
 - ein Schauer läuft über den Rücken
 - der Regenschauer

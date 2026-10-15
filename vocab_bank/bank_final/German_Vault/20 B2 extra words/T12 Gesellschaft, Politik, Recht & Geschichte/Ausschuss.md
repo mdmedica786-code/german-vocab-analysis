@@ -33,6 +33,11 @@ status: "new"
 > Der Ausschuss berät über das Budget.
 > *The committee is discussing the budget.*
 
+**Phrases & Expressions:**
+- **im Ausschuss sitzen** — *committee*
+- **ein Ausschuss tagt** — *committee*
+- **Ausschuss einsetzen** — *committee*
+
 **Collocations**
 - im Ausschuss sitzen
 - ein Ausschuss tagt

@@ -34,6 +34,9 @@ status: "new"
 > Das Brautkleid ist weiß und sehr lang.
 > *The wedding dress is white and very long.*
 
+**Phrases & Expressions:**
+- **Das Brautkleid ist weiß und sehr lang** — *The wedding dress is white and very long* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle)
 <!-- bank:end -->
 

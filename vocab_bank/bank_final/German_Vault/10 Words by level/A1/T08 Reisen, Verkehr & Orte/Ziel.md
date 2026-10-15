@@ -35,6 +35,12 @@ status: "new"
 > John läuft sehr schnell. Er war als erster am Ziel.
 > *John runs very fast. He was the first at the finish.*
 
+**Phrases & Expressions:**
+- **mit dem Ziel, ... zu ...** — with the aim of ... *([[Bedingung - Zweck (condition, purpose)|Bedingung / Zweck (condition, purpose)]] · B2)*
+- **Das Ziel der Behandlung ist, dass ...** — The aim of the treatment is that ... *([[FSP-11 Therapie und Medikamente erklären|Therapieplan erklären]] · B2)*
+- **Ziel der Operation ist es, ... zu entfernen.** — The aim of the operation is to remove ... *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Ziel des Eingriffs]] · B2)*
+- **Lassen Sie uns gemeinsam ein realistisches Ziel festlegen.** — Let us set a realistic goal together. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Ziele vereinbaren]] · B2)*
+
 **Source:** Netzwerk neu A1 K3 8 (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

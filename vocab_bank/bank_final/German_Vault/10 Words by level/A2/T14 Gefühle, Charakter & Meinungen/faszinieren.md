@@ -32,6 +32,9 @@ status: "new"
 > Das Gehirn fasziniert mich seit dem Studium.
 > *The brain has fascinated me since my studies.*
 
+**Phrases & Expressions:**
+- **Das Gehirn fasziniert mich seit dem Studium** — *The brain has fascinated me since my studies* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

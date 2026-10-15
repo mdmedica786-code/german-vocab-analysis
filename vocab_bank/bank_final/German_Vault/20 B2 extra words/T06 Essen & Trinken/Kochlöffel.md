@@ -33,6 +33,11 @@ status: "new"
 > Rühre die Soße immer wieder mit einem Kochlöffel um.
 > *Stir the sauce again and again with a wooden spoon.*
 
+**Phrases & Expressions:**
+- **mit dem Kochlöffel rühren** — *wooden spoon*
+- **ein Kochlöffel aus Holz** — *wooden spoon*
+- **den Kochlöffel schwingen** — *wooden spoon*
+
 **Collocations**
 - mit dem Kochlöffel rühren
 - ein Kochlöffel aus Holz

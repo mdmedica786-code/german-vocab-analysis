@@ -33,6 +33,11 @@ status: "new"
 > Der Müll wird auf einer Deponie gelagert.
 > *The rubbish is stored at a landfill site.*
 
+**Phrases & Expressions:**
+- **eine Deponie betreiben** — *landfill site*
+- **auf der Deponie** — *landfill site*
+- **Deponie schließen** — *landfill site*
+
 **Collocations**
 - eine Deponie betreiben
 - auf der Deponie

@@ -31,6 +31,9 @@ status: "new"
 > Das Artikelbild zeigt eine alte Brücke.
 > *The picture with the article shows an old bridge.*
 
+**Phrases & Expressions:**
+- **Das Artikelbild zeigt eine alte Brücke** — *The picture with the article shows an old bridge* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 11a (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

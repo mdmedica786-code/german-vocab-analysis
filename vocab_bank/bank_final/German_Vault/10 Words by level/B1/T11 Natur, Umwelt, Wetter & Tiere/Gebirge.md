@@ -35,6 +35,9 @@ status: "new"
 > Wir haben unseren Urlaub im Gebirge verbracht.
 > *We spent our holiday in the mountains.*
 
+**Phrases & Expressions:**
+- **Wir haben unseren Urlaub im Gebirge verbracht** — *We spent our holiday in the mountains* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

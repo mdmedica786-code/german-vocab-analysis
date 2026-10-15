@@ -35,6 +35,9 @@ status: "new"
 > Ich trinke morgens immer Tee.
 > *I always drink tea in the morning.*
 
+**Phrases & Expressions:**
+- **Tee ziehen lassen** — to let tea steep *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B1)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

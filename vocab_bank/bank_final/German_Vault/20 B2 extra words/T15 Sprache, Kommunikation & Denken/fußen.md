@@ -32,6 +32,11 @@ status: "new"
 > Die Studie fußt auf langjährigen Beobachtungen.
 > *The study is based on years of observation.*
 
+**Phrases & Expressions:**
+- **auf etwas fußen** — *to be based on*
+- **darauf fußen, dass** — *to be based on*
+- **auf Annahmen fußen** — *to be based on*
+
 **Collocations**
 - auf etwas fußen
 - darauf fußen, dass

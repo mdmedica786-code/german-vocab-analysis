@@ -29,6 +29,11 @@ status: "new"
 > Nach einem erholsamen Wochenende bin ich wieder fit.
 > *After a restful weekend I am fit again.*
 
+**Phrases & Expressions:**
+- **ein erholsamer Schlaf** — *restful; relaxing*
+- **erholsame Ferien** — *restful; relaxing*
+- **erholsam sein** — *restful; relaxing*
+
 **Collocations**
 - ein erholsamer Schlaf
 - erholsame Ferien

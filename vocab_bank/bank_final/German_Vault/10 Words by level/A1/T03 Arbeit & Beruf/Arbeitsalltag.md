@@ -34,6 +34,9 @@ status: "new"
 > Mein Arbeitsalltag beginnt um sieben Uhr.
 > *My working day starts at seven o'clock.*
 
+**Phrases & Expressions:**
+- **Mein Arbeitsalltag beginnt um sieben Uhr** — *My working day starts at seven o'clock* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 1a (Arbeitsalltag)
 <!-- bank:end -->
 

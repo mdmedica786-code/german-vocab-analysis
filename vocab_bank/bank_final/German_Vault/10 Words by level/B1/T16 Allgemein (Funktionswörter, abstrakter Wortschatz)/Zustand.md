@@ -35,6 +35,9 @@ status: "new"
 > Als wir in die Wohnung eingezogen sind, war sie in sehr schlechtem Zustand.
 > *When we moved into the flat, it was in a very bad condition.*
 
+**Phrases & Expressions:**
+- **Darf ich Ihnen den Zustand Ihres Vaters erklären?** — May I explain your father's condition to you? *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Angehörige informieren]] · B2)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

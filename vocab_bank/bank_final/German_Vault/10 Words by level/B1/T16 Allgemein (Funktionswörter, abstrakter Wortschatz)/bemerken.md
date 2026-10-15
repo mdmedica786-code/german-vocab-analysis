@@ -33,6 +33,14 @@ status: "new"
 > Ich habe nicht bemerkt, dass das Fenster offen ist.
 > *I didn't notice that the window is open.*
 
+**Phrases & Expressions:**
+- **Ich habe bemerkt, dass ...** — I have noticed that ... *([[B2-12 Höflichkeit und Diplomatie - Kritik und Ablehnung abmildern|Kritik höflich äußern]] · B2)*
+- **Haben Sie noch andere Beschwerden bemerkt?** — Have you noticed any other complaints? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Begleitsymptome erfragen]] · B1)*
+- **Haben Sie Blut im Stuhl bemerkt?** — Have you noticed blood in your stool? *([[FSP-06 Systemanamnese (Organsysteme)|Magen-Darm]] · B2)*
+- **Haben Sie Hautveränderungen oder Juckreiz bemerkt?** — Have you noticed skin changes or itching? *([[FSP-06 Systemanamnese (Organsysteme)|Haut]] · B2)*
+- **einen Fehler bemerken** — *to notice*
+- **nichts bemerken** — *to notice*
+
 **Collocations**
 - einen Fehler bemerken
 - nichts bemerken

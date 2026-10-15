@@ -29,6 +29,11 @@ status: "new"
 > Er blieb trotz des Drucks standhaft.
 > *He remained steadfast despite the pressure.*
 
+**Phrases & Expressions:**
+- **standhaft bleiben** — *steadfast; firm*
+- **standhaft bleiben müssen** — *steadfast; firm*
+- **standhaft verweigern** — *steadfast; firm*
+
 **Collocations**
 - standhaft bleiben
 - standhaft bleiben müssen

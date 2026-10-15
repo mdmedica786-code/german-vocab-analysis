@@ -33,6 +33,11 @@ status: "new"
 > Nach der Arbeit brauche ich etwas Abwechslung.
 > *After work I need a bit of variety.*
 
+**Phrases & Expressions:**
+- **zur Abwechslung** — *variety; change*
+- **Abwechslung brauchen** — *variety; change*
+- **für Abwechslung sorgen** — *variety; change*
+
 **Collocations**
 - zur Abwechslung
 - Abwechslung brauchen

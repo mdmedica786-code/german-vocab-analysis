@@ -33,6 +33,11 @@ status: "new"
 > Ihr Tätigkeitsfeld umfasst Planung und Organisation.
 > *Her field of activity includes planning and organisation.*
 
+**Phrases & Expressions:**
+- **ein breites Tätigkeitsfeld** — *field of activity; area of work*
+- **das Tätigkeitsfeld wechseln** — *field of activity; area of work*
+- **im Tätigkeitsfeld Marketing** — *field of activity; area of work*
+
 **Collocations**
 - ein breites Tätigkeitsfeld
 - das Tätigkeitsfeld wechseln

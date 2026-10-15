@@ -34,6 +34,9 @@ status: "new"
 > Kannst du mir den Nagel in die Wand schlagen?
 > *Can you hammer the nail into the wall for me?*
 
+**Phrases & Expressions:**
+- **Kannst du mir den Nagel in die Wand schlagen** — *Can you hammer the nail into the wall for me* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > Das Rauchen auf den Gängen ist zu unterlassen.
 > *Smoking in the corridors is to be avoided.*
 
+**Phrases & Expressions:**
+- **Das Rauchen auf den Gängen ist zu unterlassen** — *Smoking in the corridors is to be avoided* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

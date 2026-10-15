@@ -32,6 +32,11 @@ status: "new"
 > Er legte seine Gründe ausführlich dar.
 > *He explained his reasons in detail.*
 
+**Phrases & Expressions:**
+- **Gründe darlegen** — *to explain; to set out; to present*
+- **einen Standpunkt darlegen** — *to explain; to set out; to present*
+- **etwas schriftlich darlegen** — *to explain; to set out; to present*
+
 **Collocations**
 - Gründe darlegen
 - einen Standpunkt darlegen

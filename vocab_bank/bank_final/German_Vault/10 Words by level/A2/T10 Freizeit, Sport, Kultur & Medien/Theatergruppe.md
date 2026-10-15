@@ -34,6 +34,9 @@ status: "new"
 > Sie spielt in einer Theatergruppe.
 > *She plays in a drama group.*
 
+**Phrases & Expressions:**
+- **Sie spielt in einer Theatergruppe** — *She plays in a drama group* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 5a (Nach der Schulzeit)
 <!-- bank:end -->
 

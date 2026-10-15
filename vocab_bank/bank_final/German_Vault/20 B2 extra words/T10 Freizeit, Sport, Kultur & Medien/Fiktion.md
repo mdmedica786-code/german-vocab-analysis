@@ -33,6 +33,11 @@ status: "new"
 > Der Film vermischt Fiktion und Wirklichkeit.
 > *The film mixes fiction and reality.*
 
+**Phrases & Expressions:**
+- **zwischen Fiktion und Wirklichkeit** — *fiction*
+- **reine Fiktion** — *fiction*
+- **eine Fiktion bleiben** — *fiction*
+
 **Collocations**
 - zwischen Fiktion und Wirklichkeit
 - reine Fiktion

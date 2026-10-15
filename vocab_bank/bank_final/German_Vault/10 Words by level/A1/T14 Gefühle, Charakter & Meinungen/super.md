@@ -28,6 +28,9 @@ status: "new"
 > Sie sind super aktiv.
 > *They are really active.*
 
+**Phrases & Expressions:**
+- **Sie sind super aktiv** — *They are really active* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3a (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Er hat richtig Power beim Sport.
 > *He has real energy when doing sport.*
+
+**Phrases & Expressions:**
+- **Er hat richtig Power beim Sport** — *He has real energy when doing sport* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -30,6 +30,9 @@ status: "new"
 > Ich bin ein visueller Lerntyp.
 > *I am a visual learner.*
 
+**Phrases & Expressions:**
+- **Ich bin ein visueller Lerntyp** — *I am a visual learner* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

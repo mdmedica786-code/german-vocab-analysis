@@ -29,6 +29,14 @@ status: "new"
 > Ist Frau Müller schon da?
 > *Is Mrs Müller already here?*
 
+**Phrases & Expressions:**
+- **da vorne** — over there; up ahead *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A1)*
+- **da bin ich mir sicher** — I'm sure about that *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **Da stimme ich dir völlig zu.** — I completely agree with you. *([[B1-02 Zustimmen und Widersprechen|Voll zustimmen]] · B1)*
+- **Da haben Sie recht.** — You are right about that. *([[B1-02 Zustimmen und Widersprechen|Voll zustimmen]] · B1)*
+- **Da bin ich dafür.** — I'm in favour of that. *([[B1-02 Zustimmen und Widersprechen|Voll zustimmen]] · B1)*
+- **Da hast du zum Teil recht, aber ...** — You're partly right, but ... *([[B1-02 Zustimmen und Widersprechen|Teilweise zustimmen]] · B1)*
+
 **Source:** Netzwerk neu A1 K5 15a (Alltag und Familie)
 <!-- bank:end -->
 

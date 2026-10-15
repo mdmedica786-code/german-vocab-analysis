@@ -30,6 +30,9 @@ status: "new"
 > Seien Sie doch vernünftig!
 > *Please be sensible!*
 
+**Phrases & Expressions:**
+- **Seien Sie doch vernünftig** — *Please be sensible* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

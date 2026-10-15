@@ -30,6 +30,11 @@ status: "new"
 > Tragen Sie die Lösungszahl in das Feld ein.
 > *Enter the solution number in the box.*
 
+**Phrases & Expressions:**
+- **die Lösungszahl eintragen** — *solution number; answer number*
+- **die Lösungszahl finden** — *solution number; answer number*
+- **eine Lösungszahl berechnen** — *solution number; answer number*
+
 **Collocations**
 - die Lösungszahl eintragen
 - die Lösungszahl finden

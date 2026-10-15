@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Seine verstorbene Mutter war Ärztin.
 > *His late mother was a doctor.*
+
+**Phrases & Expressions:**
+- **Seine verstorbene Mutter war Ärztin** — *His late mother was a doctor* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

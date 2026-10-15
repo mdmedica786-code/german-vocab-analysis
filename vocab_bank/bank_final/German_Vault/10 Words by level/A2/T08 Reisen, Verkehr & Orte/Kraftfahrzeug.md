@@ -36,6 +36,9 @@ status: "new"
 > Auf dieser Straße sind Kraftfahrzeuge nicht erlaubt.
 > *Motor vehicles are not allowed on this road.*
 
+**Phrases & Expressions:**
+- **Auf dieser Straße sind Kraftfahrzeuge nicht erlaubt** — *Motor vehicles are not allowed on this road* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

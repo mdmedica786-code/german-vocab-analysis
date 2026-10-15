@@ -33,6 +33,11 @@ status: "new"
 > Wir haben unseren Hund aus dem Tierheim geholt.
 > *We got our dog from the animal shelter.*
 
+**Phrases & Expressions:**
+- **ein Tier aus dem Tierheim holen** — *animal shelter*
+- **im Tierheim abgeben** — *animal shelter*
+- **Spenden für das Tierheim** — *animal shelter*
+
 **Collocations**
 - ein Tier aus dem Tierheim holen
 - im Tierheim abgeben

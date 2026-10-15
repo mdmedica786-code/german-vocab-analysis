@@ -35,6 +35,9 @@ status: "new"
 > Darf ich ein Foto machen?
 > *May I take a photo?*
 
+**Phrases & Expressions:**
+- **Darf ich ein Foto machen** — *May I take a photo* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

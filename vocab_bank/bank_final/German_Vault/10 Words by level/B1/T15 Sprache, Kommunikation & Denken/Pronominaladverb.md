@@ -34,6 +34,9 @@ status: "new"
 > Damit und darüber sind Pronominaladverbien.
 > *Damit and darüber are pronominal adverbs.*
 
+**Phrases & Expressions:**
+- **Damit und darüber sind Pronominaladverbien** — *Damit and darüber are pronominal adverbs* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 9b (Arbeitswelt)
 <!-- bank:end -->
 

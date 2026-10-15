@@ -34,6 +34,14 @@ status: "new"
 > Sofia wird am Samstag 30.
 > *Sofia turns 30 on Saturday.*
 
+**Phrases & Expressions:**
+- **wird deutlich, dass ...** — it becomes clear that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **wird in der Regel ...** — is usually ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **es wird davon ausgegangen, dass ...** — it is assumed that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+- **mir wurde klar, dass ...** — it became clear to me that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **es wird Zeit, dass ...** — it's time that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **es wird deutlich, dass ...** — it becomes clear that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+
 **Source:** Netzwerk neu A1 K6 3a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

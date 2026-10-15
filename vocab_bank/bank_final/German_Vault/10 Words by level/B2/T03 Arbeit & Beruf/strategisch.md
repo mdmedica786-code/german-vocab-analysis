@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Firma plant strategisch für die nächsten Jahre.
 > *The company plans strategically for the next few years.*
+
+**Phrases & Expressions:**
+- **Die Firma plant strategisch für die nächsten Jahre** — *The company plans strategically for the next few years* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

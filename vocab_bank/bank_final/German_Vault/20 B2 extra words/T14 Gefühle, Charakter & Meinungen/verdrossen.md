@@ -29,6 +29,11 @@ status: "new"
 > Er verließ verdrossen den Raum.
 > *He left the room sullenly.*
 
+**Phrases & Expressions:**
+- **verdrossen wirken** — *sullen; disgruntled*
+- **verdrossen sein** — *sullen; disgruntled*
+- **verdrossen schweigen** — *sullen; disgruntled*
+
 **Collocations**
 - verdrossen wirken
 - verdrossen sein

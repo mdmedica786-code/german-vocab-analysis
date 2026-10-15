@@ -30,6 +30,11 @@ status: "new"
 > Der Hörbuchpreis wird jedes Jahr vergeben.
 > *The audiobook prize is awarded every year.*
 
+**Phrases & Expressions:**
+- **den Hörbuchpreis gewinnen** — *audiobook prize*
+- **der Hörbuchpreis für Kinder** — *audiobook prize*
+- **einen Hörbuchpreis erhalten** — *audiobook prize*
+
 **Collocations**
 - den Hörbuchpreis gewinnen
 - der Hörbuchpreis für Kinder

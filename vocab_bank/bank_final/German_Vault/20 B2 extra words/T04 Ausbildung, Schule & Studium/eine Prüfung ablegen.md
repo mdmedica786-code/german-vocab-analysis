@@ -26,6 +26,10 @@ status: "new"
 > Sie legt im Juni die Prüfung ab.
 > *She takes the exam in June.*
 
+**Phrases & Expressions:**
+- **eine Prüfung bestehen** — *to take an exam*
+- **eine Prüfung wiederholen** — *to take an exam*
+
 **Collocations**
 - eine Prüfung bestehen
 - eine Prüfung wiederholen

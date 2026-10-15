@@ -30,6 +30,9 @@ status: "new"
 > Das Kind wird ungeduldig, wenn es warten muss.
 > *The child becomes impatient when it has to wait.*
 
+**Phrases & Expressions:**
+- **Das Kind wird ungeduldig, wenn es warten muss** — *The child becomes impatient when it has to wait* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil)
 <!-- bank:end -->
 

@@ -30,6 +30,9 @@ status: "new"
 > Das Wetter ist schön, gell?
 > *The weather is nice, isn't it?*
 
+**Phrases & Expressions:**
+- **Das Wetter ist schön, gell** — *The weather is nice, isn't it* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7d (Miteinander)
 <!-- bank:end -->
 

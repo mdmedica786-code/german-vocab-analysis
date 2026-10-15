@@ -30,6 +30,9 @@ status: "new"
 > Heute ist das Wetter sehr stürmisch.
 > *Today the weather is very stormy.*
 
+**Phrases & Expressions:**
+- **Heute ist das Wetter sehr stürmisch** — *Today the weather is very stormy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 11a (Umweltfreundlich?)
 <!-- bank:end -->
 

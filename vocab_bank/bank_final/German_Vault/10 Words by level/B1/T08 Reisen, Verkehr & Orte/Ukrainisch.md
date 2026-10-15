@@ -34,6 +34,9 @@ status: "new"
 > Sie spricht Ukrainisch und Deutsch.
 > *She speaks Ukrainian and German.*
 
+**Phrases & Expressions:**
+- **Sie spricht Ukrainisch und Deutsch** — *She speaks Ukrainian and German* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

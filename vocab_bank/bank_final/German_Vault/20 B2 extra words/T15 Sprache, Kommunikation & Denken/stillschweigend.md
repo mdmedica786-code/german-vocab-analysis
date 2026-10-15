@@ -29,6 +29,11 @@ status: "new"
 > Sie hat die Änderung stillschweigend akzeptiert.
 > *She tacitly accepted the change.*
 
+**Phrases & Expressions:**
+- **stillschweigend hinnehmen** — *tacit; silently*
+- **stillschweigend übergehen** — *tacit; silently*
+- **eine stillschweigende Übereinkunft** — *tacit; silently*
+
 **Collocations**
 - stillschweigend hinnehmen
 - stillschweigend übergehen

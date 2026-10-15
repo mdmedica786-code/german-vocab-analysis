@@ -26,6 +26,9 @@ status: "new"
 > Die Stadt hat die Genehmigung für den Umbau erteilt.
 > *The city has granted the permit for the conversion.*
 
+**Phrases & Expressions:**
+- **die Genehmigung verweigern** — *to grant a permit*
+
 **Collocations**
 - die Genehmigung verweigern
 

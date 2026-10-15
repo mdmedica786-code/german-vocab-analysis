@@ -34,6 +34,9 @@ status: "new"
 > Unterstreichen Sie die Schlüsselwörter im Text.
 > *Underline the keywords in the text.*
 
+**Phrases & Expressions:**
+- **Unterstreichen Sie die Schlüsselwörter im Text** — *Underline the keywords in the text* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13c (Arbeitswelten)
 <!-- bank:end -->
 

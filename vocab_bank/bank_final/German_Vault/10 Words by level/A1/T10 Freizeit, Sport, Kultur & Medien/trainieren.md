@@ -33,6 +33,9 @@ status: "new"
 > Wir trainieren einmal pro Woche im Sportverein.
 > *We train once a week at the sports club.*
 
+**Phrases & Expressions:**
+- **Wir trainieren einmal pro Woche im Sportverein** — *We train once a week at the sports club* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 4a (Studium und Beruf) · Goethe word list A2
 <!-- bank:end -->
 

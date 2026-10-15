@@ -33,6 +33,11 @@ status: "new"
 > Er trug ein Bündel Holz auf dem Rücken.
 > *He carried a bundle of wood on his back.*
 
+**Phrases & Expressions:**
+- **ein Bündel Briefe** — *bundle*
+- **ein Bündel Maßnahmen** — *bundle*
+- **sein Bündel schnüren** — *bundle*
+
 **Collocations**
 - ein Bündel Briefe
 - ein Bündel Maßnahmen

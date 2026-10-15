@@ -33,6 +33,12 @@ status: "new"
 > Alkohol kann zu einer Schädigung der Leber führen.
 > *Alcohol can lead to damage to the liver.*
 
+**Phrases & Expressions:**
+- **eine Schädigung der Leber** — *damage*
+- **bleibende Schädigung** — *damage*
+- **Schädigung vermeiden** — *damage*
+- **Schädigung des Gehirns** — *damage*
+
 **Collocations**
 - eine Schädigung der Leber
 - bleibende Schädigung

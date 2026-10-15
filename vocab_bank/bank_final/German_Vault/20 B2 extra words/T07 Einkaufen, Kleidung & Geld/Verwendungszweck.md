@@ -33,6 +33,11 @@ status: "new"
 > Bitte geben Sie bei der Überweisung den Verwendungszweck an.
 > *Please state the payment reference when making the transfer.*
 
+**Phrases & Expressions:**
+- **den Verwendungszweck angeben** — *intended use; payment reference*
+- **der Verwendungszweck der Überweisung** — *intended use; payment reference*
+- **zu welchem Verwendungszweck** — *intended use; payment reference*
+
 **Collocations**
 - den Verwendungszweck angeben
 - der Verwendungszweck der Überweisung

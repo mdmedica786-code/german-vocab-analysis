@@ -31,6 +31,10 @@ status: "new"
 > Ich habe mehrere Leute gefragt. Aber niemand konnte mir helfen.
 > *I asked several people. But nobody could help me.*
 
+**Phrases & Expressions:**
+- **Berichten zufolge sind mehrere Menschen verletzt worden.** — According to reports, several people have been injured. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Quelle distanziert wiedergeben]] · B2)*
+- **Die Therapie wird mehrere Wochen dauern.** — The therapy will take several weeks. *([[FSP-11 Therapie und Medikamente erklären|Dauer der Behandlung]] · B2)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list B1
 <!-- bank:end -->
 

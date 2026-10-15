@@ -29,6 +29,11 @@ status: "new"
 > Der Zug hatte erneut Verspätung.
 > *The train was late again.*
 
+**Phrases & Expressions:**
+- **erneut versuchen** — *again; anew*
+- **erneut betonen** — *again; anew*
+- **erneut auftreten** — *again; anew*
+
 **Collocations**
 - erneut versuchen
 - erneut betonen

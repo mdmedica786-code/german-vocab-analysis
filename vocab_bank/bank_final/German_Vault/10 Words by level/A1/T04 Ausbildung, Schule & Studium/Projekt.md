@@ -35,6 +35,9 @@ status: "new"
 > Wir machen ein Projekt über Sehenswürdigkeiten in unserer Stadt.
 > *We are doing a project on the sights of our city.*
 
+**Phrases & Expressions:**
+- **Wir machen ein Projekt über Sehenswürdigkeiten in unserer Stadt** — *We are doing a project on the sights of our city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 3a (Studium und Beruf) · Goethe word list A2
 <!-- bank:end -->
 

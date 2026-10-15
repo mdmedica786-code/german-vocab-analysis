@@ -34,6 +34,9 @@ status: "new"
 > Die Bildunterschrift erklärt das Foto.
 > *The caption explains the photo.*
 
+**Phrases & Expressions:**
+- **Die Bildunterschrift erklärt das Foto** — *The caption explains the photo* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 1a (Blick nach vorn)
 <!-- bank:end -->
 

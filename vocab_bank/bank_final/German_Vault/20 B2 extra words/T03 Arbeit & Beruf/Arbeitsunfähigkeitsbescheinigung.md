@@ -33,6 +33,12 @@ status: "new"
 > Die Arbeitsunfähigkeitsbescheinigung muss dem Arbeitgeber vorgelegt werden.
 > *The sick note must be presented to the employer.*
 
+**Phrases & Expressions:**
+- **Ich stelle Ihnen eine Arbeitsunfähigkeitsbescheinigung für zwei Wochen aus.** — I will issue you a sick note for two weeks. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Krankschreibung]] · B2)*
+- **eine Arbeitsunfähigkeitsbescheinigung ausstellen** — *sick note; certificate of incapacity for work*
+- **Arbeitsunfähigkeitsbescheinigung vorlegen** — *sick note; certificate of incapacity for work*
+- **eine Arbeitsunfähigkeitsbescheinigung einreichen** — *sick note; certificate of incapacity for work*
+
 **Collocations**
 - eine Arbeitsunfähigkeitsbescheinigung ausstellen
 - Arbeitsunfähigkeitsbescheinigung vorlegen

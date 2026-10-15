@@ -31,6 +31,11 @@ status: "new"
 > Er kommt nie pünktlich.
 > *He never arrives on time.*
 
+**Phrases & Expressions:**
+- **nie mehr** — never again *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **ich hätte nie gedacht, dass ...** — I would never have thought that ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B2)*
+- **Angeblich hat er das Geld nie bekommen.** — Allegedly he never received the money. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Distanzierung]] · B2)*
+
 **Source:** Netzwerk neu A1 K9 11a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

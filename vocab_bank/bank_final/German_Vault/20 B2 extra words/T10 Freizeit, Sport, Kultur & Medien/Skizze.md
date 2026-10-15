@@ -33,6 +33,11 @@ status: "new"
 > Er machte eine Skizze des Hauses.
 > *He made a sketch of the house.*
 
+**Phrases & Expressions:**
+- **eine Skizze anfertigen** — *sketch; outline*
+- **eine Skizze zeichnen** — *sketch; outline*
+- **eine grobe Skizze** — *sketch; outline*
+
 **Collocations**
 - eine Skizze anfertigen
 - eine Skizze zeichnen

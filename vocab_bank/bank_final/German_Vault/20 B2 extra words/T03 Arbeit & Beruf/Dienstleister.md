@@ -33,6 +33,11 @@ status: "new"
 > Der Dienstleister betreut unsere Computernetzwerke.
 > *The service provider looks after our computer networks.*
 
+**Phrases & Expressions:**
+- **ein externer Dienstleister** — *service provider*
+- **einen Dienstleister beauftragen** — *service provider*
+- **Dienstleister im Bereich IT** — *service provider*
+
 **Collocations**
 - ein externer Dienstleister
 - einen Dienstleister beauftragen

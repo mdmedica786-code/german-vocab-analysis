@@ -31,6 +31,12 @@ status: "new"
 > Sie wohnt jetzt in ihrer eigenen Wohnung.
 > *She now lives in her own flat.*
 
+**Phrases & Expressions:**
+- **Aus eigener Erfahrung weiß ich, dass ...** — From my own experience I know that ... *([[B1-03 Argumentieren, begründen und Beispiele nennen|Eigene Erfahrung nennen]] · B1)*
+- **ein eigenes Zimmer** — *own*
+- **die eigene Meinung** — *own*
+- **auf eigene Faust** — *own*
+
 **Collocations**
 - ein eigenes Zimmer
 - die eigene Meinung

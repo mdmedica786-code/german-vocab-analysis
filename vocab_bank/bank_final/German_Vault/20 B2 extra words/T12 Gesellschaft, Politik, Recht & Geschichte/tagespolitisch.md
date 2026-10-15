@@ -29,6 +29,11 @@ status: "new"
 > Die Sendung behandelt tagespolitische Themen.
 > *The programme deals with topics of current politics.*
 
+**Phrases & Expressions:**
+- **tagespolitische Themen** — *relating to current politics; of the day's politics*
+- **tagespolitisch aktuell** — *relating to current politics; of the day's politics*
+- **ein tagespolitischer Kommentar** — *relating to current politics; of the day's politics*
+
 **Collocations**
 - tagespolitische Themen
 - tagespolitisch aktuell

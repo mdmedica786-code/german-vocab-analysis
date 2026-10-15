@@ -29,6 +29,11 @@ status: "new"
 > Selbstfahrende Autos testen wir schon auf der Straße.
 > *We are already testing self-driving cars on the road.*
 
+**Phrases & Expressions:**
+- **ein selbstfahrendes Auto** — *self-driving*
+- **selbstfahrende Fahrzeuge** — *self-driving*
+- **selbstfahrende Busse** — *self-driving*
+
 **Collocations**
 - ein selbstfahrendes Auto
 - selbstfahrende Fahrzeuge

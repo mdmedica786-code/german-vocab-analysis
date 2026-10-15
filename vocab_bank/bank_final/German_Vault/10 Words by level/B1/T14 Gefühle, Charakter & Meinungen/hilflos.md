@@ -30,6 +30,9 @@ status: "new"
 > Das Baby ist noch ganz hilflos.
 > *The baby is still completely helpless.*
 
+**Phrases & Expressions:**
+- **Das Baby ist noch ganz hilflos** — *The baby is still completely helpless* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?)
 <!-- bank:end -->
 

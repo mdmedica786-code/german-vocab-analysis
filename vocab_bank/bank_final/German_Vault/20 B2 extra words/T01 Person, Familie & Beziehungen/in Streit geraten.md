@@ -26,6 +26,11 @@ status: "new"
 > Die Nachbarn sind wegen der Hecke in Streit geraten.
 > *The neighbours got into an argument about the hedge.*
 
+**Phrases & Expressions:**
+- **in Streit geraten mit + Dat.** — *to get into an argument*
+- **wegen einer Kleinigkeit in Streit geraten** — *to get into an argument*
+- **miteinander in Streit geraten** — *to get into an argument*
+
 **Collocations**
 - in Streit geraten mit + Dat.
 - wegen einer Kleinigkeit in Streit geraten

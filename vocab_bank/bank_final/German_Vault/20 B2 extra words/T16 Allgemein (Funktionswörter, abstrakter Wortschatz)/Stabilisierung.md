@@ -33,6 +33,11 @@ status: "new"
 > Die Stabilisierung der Preise ist das Ziel.
 > *The stabilisation of prices is the goal.*
 
+**Phrases & Expressions:**
+- **die Stabilisierung der Wirtschaft** — *stabilisation*
+- **zur Stabilisierung beitragen** — *stabilisation*
+- **eine Stabilisierung erreichen** — *stabilisation*
+
 **Collocations**
 - die Stabilisierung der Wirtschaft
 - zur Stabilisierung beitragen

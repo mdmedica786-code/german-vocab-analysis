@@ -35,6 +35,9 @@ status: "new"
 > Die Miete für diese Wohnung ist 600 Euro.
 > *The rent for this flat is 600 euros.*
 
+**Phrases & Expressions:**
+- **Die Miete für diese Wohnung ist 600 Euro** — *The rent for this flat is 600 euros* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3b (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

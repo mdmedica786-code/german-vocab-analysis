@@ -31,6 +31,12 @@ status: "new"
 > Das Ergebnis ist eindeutig. Du hast gewonnen.
 > *The result is clear. You have won.*
 
+**Phrases & Expressions:**
+- **eindeutig sein** — *clear*
+- **ein eindeutiges Ergebnis** — *clear*
+- **eindeutig falsch** — *clear*
+- **eine eindeutige Antwort** — *clear*
+
 **Collocations**
 - eindeutig sein
 - ein eindeutiges Ergebnis

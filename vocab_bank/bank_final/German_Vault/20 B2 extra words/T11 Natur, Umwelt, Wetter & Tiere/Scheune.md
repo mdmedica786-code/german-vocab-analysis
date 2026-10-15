@@ -33,6 +33,11 @@ status: "new"
 > Das Heu liegt in der Scheune.
 > *The hay is in the barn.*
 
+**Phrases & Expressions:**
+- **eine alte Scheune** — *barn*
+- **in der Scheune** — *barn*
+- **die Scheune füllen** — *barn*
+
 **Collocations**
 - eine alte Scheune
 - in der Scheune

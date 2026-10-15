@@ -35,6 +35,9 @@ status: "new"
 > Auf die Waschmaschine haben Sie ein Jahr Garantie.
 > *You have a one-year guarantee on the washing machine.*
 
+**Phrases & Expressions:**
+- **Auf die Waschmaschine haben Sie ein Jahr Garantie** — *You have a one-year guarantee on the washing machine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 5b (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

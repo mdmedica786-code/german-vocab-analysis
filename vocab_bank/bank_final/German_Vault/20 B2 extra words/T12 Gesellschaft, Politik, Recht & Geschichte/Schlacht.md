@@ -33,6 +33,11 @@ status: "new"
 > Die Schlacht dauerte drei Tage.
 > *The battle lasted three days.*
 
+**Phrases & Expressions:**
+- **eine Schlacht gewinnen** — *battle*
+- **die Schlacht verlieren** — *battle*
+- **eine große Schlacht** — *battle*
+
 **Collocations**
 - eine Schlacht gewinnen
 - die Schlacht verlieren

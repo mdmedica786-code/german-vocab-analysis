@@ -35,6 +35,9 @@ status: "new"
 > Hast du etwas zu trinken? Ich habe großen Durst.
 > *Do you have something to drink? I'm very thirsty.*
 
+**Phrases & Expressions:**
+- **Haben Sie Durst oder müssen Sie nachts oft zur Toilette?** — Are you thirsty or do you have to go to the toilet often at night? *([[FSP-06 Systemanamnese (Organsysteme)|Stoffwechsel und Gewicht]] · B2)*
+
 **Source:** Netzwerk neu A1 K6 13a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Für die Instandhaltung des Gebäudes ist der Vermieter zuständig.
 > *The landlord is responsible for the upkeep of the building.*
 
+**Phrases & Expressions:**
+- **die Instandhaltung des Hauses** — *maintenance; upkeep*
+- **Kosten der Instandhaltung** — *maintenance; upkeep*
+- **Instandhaltung und Reparatur** — *maintenance; upkeep*
+
 **Collocations**
 - die Instandhaltung des Hauses
 - Kosten der Instandhaltung

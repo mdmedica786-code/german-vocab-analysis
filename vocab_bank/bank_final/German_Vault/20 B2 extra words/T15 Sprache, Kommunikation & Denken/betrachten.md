@@ -31,6 +31,11 @@ status: "new"
 > Sie betrachtete das Bild lange und schweigend.
 > *She looked at the picture for a long time in silence.*
 
+**Phrases & Expressions:**
+- **etwas genauer betrachten** — *to look at; to consider*
+- **als Chance betrachten** — *to look at; to consider*
+- **aus einer anderen Sicht betrachten** — *to look at; to consider*
+
 **Collocations**
 - etwas genauer betrachten
 - als Chance betrachten

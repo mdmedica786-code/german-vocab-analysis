@@ -34,6 +34,9 @@ status: "new"
 > Das Streitgespräch im Fernsehen war sehr hart.
 > *The debate on television was very heated.*
 
+**Phrases & Expressions:**
+- **Das Streitgespräch im Fernsehen war sehr hart** — *The debate on television was very heated* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 9a (Zwischenmenschliches)
 <!-- bank:end -->
 

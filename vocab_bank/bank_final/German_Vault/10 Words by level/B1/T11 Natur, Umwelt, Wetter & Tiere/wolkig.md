@@ -30,6 +30,9 @@ status: "new"
 > Morgen wird es wolkig, aber trocken.
 > *Tomorrow it will be cloudy but dry.*
 
+**Phrases & Expressions:**
+- **Morgen wird es wolkig, aber trocken** — *Tomorrow it will be cloudy but dry* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 11a (Umweltfreundlich?)
 <!-- bank:end -->
 

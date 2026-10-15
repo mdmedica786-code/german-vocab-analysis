@@ -33,6 +33,11 @@ status: "new"
 > Das war nur ein Scherz.
 > *That was only a joke.*
 
+**Phrases & Expressions:**
+- **einen Scherz machen** — *joke*
+- **Scherz beiseite** — *joke*
+- **im Scherz** — *joke*
+
 **Collocations**
 - einen Scherz machen
 - Scherz beiseite

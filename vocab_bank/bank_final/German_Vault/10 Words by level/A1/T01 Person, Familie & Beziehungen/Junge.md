@@ -36,6 +36,9 @@ status: "new"
 > Ich habe zwei Kinder. Einen Jungen und ein Mädchen.
 > *I have two children. A boy and a girl.*
 
+**Phrases & Expressions:**
+- **Ich habe zwei Kinder. Einen Jungen und ein Mädchen** — *I have two children. A boy and a girl* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 8b ÜB (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Nimm einen frischen Waschlappen aus dem Schrank.
 > *Take a fresh flannel from the cupboard.*
 
+**Phrases & Expressions:**
+- **ein feuchter Waschlappen** — *flannel; washcloth*
+- **sich mit dem Waschlappen waschen** — *flannel; washcloth*
+- **Waschlappen und Handtuch** — *flannel; washcloth*
+
 **Collocations**
 - ein feuchter Waschlappen
 - sich mit dem Waschlappen waschen

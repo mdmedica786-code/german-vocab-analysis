@@ -35,6 +35,9 @@ status: "new"
 > Die Trennung von der Familie war schwierig.
 > *The separation from the family was difficult.*
 
+**Phrases & Expressions:**
+- **Die Trennung von der Familie war schwierig** — *The separation from the family was difficult* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Interaktion zwischen Arzt und Patient ist wichtig.
 > *The interaction between doctor and patient is important.*
+
+**Phrases & Expressions:**
+- **Die Interaktion zwischen Arzt und Patient ist wichtig** — *The interaction between doctor and patient is important* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

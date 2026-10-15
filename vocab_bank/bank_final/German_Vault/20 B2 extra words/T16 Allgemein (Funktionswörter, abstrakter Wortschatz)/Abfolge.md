@@ -33,6 +33,11 @@ status: "new"
 > Die Abfolge der Ereignisse ist unklar.
 > *The sequence of events is unclear.*
 
+**Phrases & Expressions:**
+- **in zeitlicher Abfolge** — *sequence; order*
+- **eine logische Abfolge** — *sequence; order*
+- **die Abfolge der Schritte** — *sequence; order*
+
 **Collocations**
 - in zeitlicher Abfolge
 - eine logische Abfolge

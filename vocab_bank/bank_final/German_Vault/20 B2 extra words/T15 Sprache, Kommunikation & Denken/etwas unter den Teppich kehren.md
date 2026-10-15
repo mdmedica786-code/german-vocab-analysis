@@ -26,6 +26,11 @@ status: "new"
 > Das Problem darf man nicht einfach unter den Teppich kehren.
 > *One must not simply sweep the problem under the carpet.*
 
+**Phrases & Expressions:**
+- **unter den Teppich kehren** — *to sweep something under the carpet*
+- **Fehler unter den Teppich kehren** — *to sweep something under the carpet*
+- **etwas vertuschen** — *to sweep something under the carpet*
+
 **Collocations**
 - unter den Teppich kehren
 - Fehler unter den Teppich kehren

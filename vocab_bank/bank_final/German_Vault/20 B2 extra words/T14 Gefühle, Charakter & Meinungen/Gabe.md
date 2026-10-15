@@ -33,6 +33,11 @@ status: "new"
 > Sie hat die Gabe, andere zu motivieren.
 > *She has the gift of motivating others.*
 
+**Phrases & Expressions:**
+- **eine Gabe haben** — *gift; talent; donation*
+- **die Gabe der Rede** — *gift; talent; donation*
+- **eine milde Gabe** — *gift; talent; donation*
+
 **Collocations**
 - eine Gabe haben
 - die Gabe der Rede

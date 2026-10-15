@@ -33,6 +33,11 @@ status: "new"
 > Der Haushalt weist ein Defizit von zwei Millionen Euro auf.
 > *The budget shows a deficit of two million euros.*
 
+**Phrases & Expressions:**
+- **ein Defizit ausgleichen** — *deficit; shortfall*
+- **ein Defizit aufweisen** — *deficit; shortfall*
+- **Defizite abbauen** — *deficit; shortfall*
+
 **Collocations**
 - ein Defizit ausgleichen
 - ein Defizit aufweisen

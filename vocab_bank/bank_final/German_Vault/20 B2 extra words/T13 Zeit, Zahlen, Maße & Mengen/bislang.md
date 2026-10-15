@@ -29,6 +29,9 @@ status: "new"
 > Bislang gab es keine Beschwerden.
 > *So far there have been no complaints.*
 
+**Phrases & Expressions:**
+- **Bislang gab es keine Beschwerden** — *So far there have been no complaints* *(Beispiel im Kontext)*
+
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->
 

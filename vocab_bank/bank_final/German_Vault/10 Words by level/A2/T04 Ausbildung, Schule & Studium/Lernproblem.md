@@ -34,6 +34,9 @@ status: "new"
 > Viele Kinder haben Lernprobleme in Mathe.
 > *Many children have learning problems in maths.*
 
+**Phrases & Expressions:**
+- **Viele Kinder haben Lernprobleme in Mathe** — *Many children have learning problems in maths* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

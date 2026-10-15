@@ -29,6 +29,11 @@ status: "new"
 > Mitunter dauert die Bearbeitung mehrere Wochen.
 > *Occasionally the processing takes several weeks.*
 
+**Phrases & Expressions:**
+- **mitunter vorkommen** — *occasionally; at times*
+- **mitunter schwierig** — *occasionally; at times*
+- **mitunter lange dauern** — *occasionally; at times*
+
 **Collocations**
 - mitunter vorkommen
 - mitunter schwierig

@@ -35,6 +35,9 @@ status: "new"
 > Setzen wir uns doch an die Bar!
 > *Let's sit at the bar!*
 
+**Phrases & Expressions:**
+- **Setzen wir uns doch an die Bar** — *Let's sit at the bar* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 15a (Alltag und Familie) · Goethe word list B1
 <!-- bank:end -->
 

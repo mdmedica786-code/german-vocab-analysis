@@ -34,6 +34,9 @@ status: "new"
 > Der Finne spricht gut Deutsch.
 > *The Finnish man speaks good German.*
 
+**Phrases & Expressions:**
+- **Der Finne spricht gut Deutsch** — *The Finnish man speaks good German* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

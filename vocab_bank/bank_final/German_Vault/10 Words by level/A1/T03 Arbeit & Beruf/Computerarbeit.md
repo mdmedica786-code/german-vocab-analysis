@@ -34,6 +34,9 @@ status: "new"
 > Computerarbeit kann sehr anstrengend sein.
 > *Computer work can be very tiring.*
 
+**Phrases & Expressions:**
+- **Computerarbeit kann sehr anstrengend sein** — *Computer work can be very tiring* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 2a (Arbeitsalltag)
 <!-- bank:end -->
 

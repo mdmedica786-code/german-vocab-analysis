@@ -34,6 +34,9 @@ status: "new"
 > Der Erzieher spielt mit den Kindern.
 > *The nursery teacher is playing with the children.*
 
+**Phrases & Expressions:**
+- **Der Erzieher spielt mit den Kindern** — *The nursery teacher is playing with the children* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a ÜB (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

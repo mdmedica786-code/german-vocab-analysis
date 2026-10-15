@@ -32,6 +32,13 @@ status: "new"
 > Das Baby hat die ganze Nacht durchgeschlafen.
 > *The baby slept through the whole night.*
 
+**Phrases & Expressions:**
+- **Haben Sie Schwierigkeiten beim Einschlafen oder Durchschlafen?** — Do you have difficulty falling asleep or staying asleep? *([[FSP-06 Systemanamnese (Organsysteme)|Psyche und Schlaf]] · B1)*
+- **Bitte atmen Sie kurz durch, dann klären wir alles.** — Please take a deep breath, then we will sort everything out. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Aufgebrachte beruhigen]] · B2)*
+- **die ganze Nacht durchschlafen** — *to sleep through (the night)*
+- **gut durchschlafen** — *to sleep through (the night)*
+- **nicht durchschlafen können** — *to sleep through (the night)*
+
 **Collocations**
 - die ganze Nacht durchschlafen
 - gut durchschlafen

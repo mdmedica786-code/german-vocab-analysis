@@ -33,6 +33,11 @@ status: "new"
 > Hülsenfrüchte wie Linsen und Bohnen liefern viel Eiweiß.
 > *Legumes such as lentils and beans provide a lot of protein.*
 
+**Phrases & Expressions:**
+- **Hülsenfrüchte essen** — *legume; pulse*
+- **reich an Hülsenfrüchten** — *legume; pulse*
+- **getrocknete Hülsenfrüchte** — *legume; pulse*
+
 **Collocations**
 - Hülsenfrüchte essen
 - reich an Hülsenfrüchten

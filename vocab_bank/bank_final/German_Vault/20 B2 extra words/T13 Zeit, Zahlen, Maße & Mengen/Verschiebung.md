@@ -33,6 +33,11 @@ status: "new"
 > Die Verschiebung des Termins war nicht zu vermeiden.
 > *The postponement of the appointment could not be avoided.*
 
+**Phrases & Expressions:**
+- **eine Verschiebung des Termins** — *shift; postponement*
+- **gesellschaftliche Verschiebung** — *shift; postponement*
+- **Verschiebungen im Markt** — *shift; postponement*
+
 **Collocations**
 - eine Verschiebung des Termins
 - gesellschaftliche Verschiebung

@@ -33,6 +33,11 @@ status: "new"
 > Das Grundwasser wird durch Dünger verschmutzt.
 > *The groundwater is polluted by fertiliser.*
 
+**Phrases & Expressions:**
+- **das Grundwasser verschmutzen** — *groundwater*
+- **Grundwasser schützen** — *groundwater*
+- **sauberes Grundwasser** — *groundwater*
+
 **Collocations**
 - das Grundwasser verschmutzen
 - Grundwasser schützen

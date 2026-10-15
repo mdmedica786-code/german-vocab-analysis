@@ -30,6 +30,11 @@ status: "new"
 > Die Bürger waren der Willkür der Behörden ausgeliefert.
 > *The citizens were at the mercy of the arbitrariness of the authorities.*
 
+**Phrases & Expressions:**
+- **der Willkür ausgeliefert sein** — *arbitrariness; despotism*
+- **reine Willkür** — *arbitrariness; despotism*
+- **staatliche Willkür** — *arbitrariness; despotism*
+
 **Collocations**
 - der Willkür ausgeliefert sein
 - reine Willkür

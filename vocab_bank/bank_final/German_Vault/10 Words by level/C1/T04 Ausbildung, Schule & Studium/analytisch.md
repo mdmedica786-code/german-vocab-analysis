@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Sie hat ein analytisches Denken.
 > *She has an analytical mind.*
+
+**Phrases & Expressions:**
+- **Sie hat ein analytisches Denken** — *She has an analytical mind* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

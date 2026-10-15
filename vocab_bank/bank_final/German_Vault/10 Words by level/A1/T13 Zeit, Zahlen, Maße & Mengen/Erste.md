@@ -35,6 +35,14 @@ status: "new"
 > Sie ist die Erste in der Klasse.
 > *She is the first in the class.*
 
+**Phrases & Expressions:**
+- **zum ersten Mal** — for the first time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **auf den ersten Blick** — at first glance *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **das erste Mal** — the first time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **in einem ersten Schritt** — as a first step *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **das erste Mal, dass ...** — the first time that ... *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Im ersten Teil geht es um ...** — The first part is about ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Gliederung ankündigen]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 1c (Fit und gesund)
 <!-- bank:end -->
 

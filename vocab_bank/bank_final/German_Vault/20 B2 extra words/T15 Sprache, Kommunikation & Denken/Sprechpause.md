@@ -33,6 +33,11 @@ status: "new"
 > Eine kurze Sprechpause hilft dem Zuhörer.
 > *A short pause in speech helps the listener.*
 
+**Phrases & Expressions:**
+- **eine Sprechpause machen** — *pause in speech*
+- **eine Sprechpause einlegen** — *pause in speech*
+- **Sprechpausen beachten** — *pause in speech*
+
 **Collocations**
 - eine Sprechpause machen
 - eine Sprechpause einlegen

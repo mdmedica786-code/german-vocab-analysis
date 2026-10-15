@@ -33,6 +33,11 @@ status: "new"
 > Der Tee ist eine Mischung aus drei Sorten.
 > *The tea is a blend of three varieties.*
 
+**Phrases & Expressions:**
+- **eine gute Mischung** — *mixture; blend*
+- **eine Mischung aus** — *mixture; blend*
+- **die richtige Mischung** — *mixture; blend*
+
 **Collocations**
 - eine gute Mischung
 - eine Mischung aus

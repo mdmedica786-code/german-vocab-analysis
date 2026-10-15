@@ -33,6 +33,11 @@ status: "new"
 > Photovoltaik wandelt Sonnenlicht in Strom um.
 > *Photovoltaics converts sunlight into electricity.*
 
+**Phrases & Expressions:**
+- **Photovoltaik fördern** — *photovoltaics*
+- **auf Photovoltaik setzen** — *photovoltaics*
+- **Photovoltaikanlage** — *photovoltaics*
+
 **Collocations**
 - Photovoltaik fördern
 - auf Photovoltaik setzen

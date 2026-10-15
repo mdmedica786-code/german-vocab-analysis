@@ -31,6 +31,9 @@ status: "new"
 > Das Lernplakat hängt an der Wand.
 > *The revision poster hangs on the wall.*
 
+**Phrases & Expressions:**
+- **Das Lernplakat hängt an der Wand** — *The revision poster hangs on the wall* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7c (Kunststücke)
 <!-- bank:end -->
 

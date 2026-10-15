@@ -29,6 +29,12 @@ status: "new"
 > Der Artikel ist sehr einseitig.
 > *The article is very one-sided.*
 
+**Phrases & Expressions:**
+- **Man sollte das nicht zu einseitig sehen.** — One should not look at this too one-sidedly. *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Relativieren]] · B2)*
+- **einseitige Berichterstattung** — *one-sided; unilateral*
+- **einseitig bedruckt** — *one-sided; unilateral*
+- **eine einseitige Entscheidung** — *one-sided; unilateral*
+
 **Collocations**
 - einseitige Berichterstattung
 - einseitig bedruckt

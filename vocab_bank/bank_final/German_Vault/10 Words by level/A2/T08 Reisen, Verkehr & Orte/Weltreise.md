@@ -34,6 +34,9 @@ status: "new"
 > Nach dem Studium mache ich eine Weltreise.
 > *After my studies I'm going on a trip around the world.*
 
+**Phrases & Expressions:**
+- **Nach dem Studium mache ich eine Weltreise** — *After my studies I'm going on a trip around the world* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 9a (Nach der Schulzeit)
 <!-- bank:end -->
 

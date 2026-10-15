@@ -29,6 +29,9 @@ status: "new"
 > Er hat gekündigt, weswegen wir einen Ersatz suchen.
 > *He has resigned, which is why we are looking for a replacement.*
 
+**Phrases & Expressions:**
+- **Er hat gekündigt, weswegen wir einen Ersatz suchen** — *He has resigned, which is why we are looking for a replacement* *(Beispiel im Kontext)*
+
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->
 

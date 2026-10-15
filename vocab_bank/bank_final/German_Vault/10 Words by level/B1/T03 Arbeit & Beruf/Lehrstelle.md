@@ -34,6 +34,9 @@ status: "new"
 > Es sind noch viele Lehrstellen frei.
 > *There are still many apprenticeships available.*
 
+**Phrases & Expressions:**
+- **Es sind noch viele Lehrstellen frei** — *There are still many apprenticeships available* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

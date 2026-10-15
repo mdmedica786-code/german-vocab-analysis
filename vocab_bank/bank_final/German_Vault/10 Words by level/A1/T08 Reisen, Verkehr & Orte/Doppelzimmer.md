@@ -35,6 +35,9 @@ status: "new"
 > Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?
 > *Would you like a double room or a single room?*
 
+**Phrases & Expressions:**
+- **Wollen Sie ein Doppelzimmer oder ein Einzelzimmer** — *Would you like a double room or a single room* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 3a ÜB (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

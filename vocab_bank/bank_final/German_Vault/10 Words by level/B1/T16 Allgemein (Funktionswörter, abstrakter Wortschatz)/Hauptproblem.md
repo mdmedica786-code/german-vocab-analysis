@@ -34,6 +34,9 @@ status: "new"
 > Das Hauptproblem ist die fehlende Zeit.
 > *The main problem is the lack of time.*
 
+**Phrases & Expressions:**
+- **Das Hauptproblem ist die fehlende Zeit** — *The main problem is the lack of time* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 4b (Blick nach vorn)
 <!-- bank:end -->
 

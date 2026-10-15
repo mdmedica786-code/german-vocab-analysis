@@ -34,6 +34,9 @@ status: "new"
 > Mein PC ist schon zehn Jahre alt.
 > *My PC is already ten years old.*
 
+**Phrases & Expressions:**
+- **Mein PC ist schon zehn Jahre alt** — *My PC is already ten years old* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 9a (Gelernt ist gelernt!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Seine Eifersucht hat die Beziehung zerstört.
 > *His jealousy destroyed the relationship.*
 
+**Phrases & Expressions:**
+- **von Eifersucht geplagt** — *jealousy*
+- **krankhafte Eifersucht** — *jealousy*
+- **aus Eifersucht** — *jealousy*
+
 **Collocations**
 - von Eifersucht geplagt
 - krankhafte Eifersucht

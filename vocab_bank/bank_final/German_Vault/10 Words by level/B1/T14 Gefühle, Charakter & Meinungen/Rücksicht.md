@@ -35,6 +35,9 @@ status: "new"
 > Bitte nehmen Sie bei Partys Rücksicht auf Ihre Nachbarn.
 > *Please be considerate of your neighbours when partying.*
 
+**Phrases & Expressions:**
+- **Bitte nehmen Sie bei Partys Rücksicht auf Ihre Nachbarn** — *Please be considerate of your neighbours when partying* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

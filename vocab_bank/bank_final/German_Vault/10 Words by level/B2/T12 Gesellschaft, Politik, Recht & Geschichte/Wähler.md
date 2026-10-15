@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Wähler entscheiden am Sonntag.
 > *The voters decide on Sunday.*
+
+**Phrases & Expressions:**
+- **Die Wähler entscheiden am Sonntag** — *The voters decide on Sunday* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

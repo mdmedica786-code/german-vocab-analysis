@@ -33,6 +33,11 @@ status: "new"
 > Sie begrüßten sich mit einer herzlichen Umarmung.
 > *They greeted each other with a warm hug.*
 
+**Phrases & Expressions:**
+- **eine herzliche Umarmung** — *hug; embrace*
+- **in der Umarmung** — *hug; embrace*
+- **jemanden zur Umarmung einladen** — *hug; embrace*
+
 **Collocations**
 - eine herzliche Umarmung
 - in der Umarmung

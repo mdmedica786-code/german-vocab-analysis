@@ -32,6 +32,12 @@ status: "new"
 > Sie hat in die Operation eingewilligt.
 > *She consented to the operation.*
 
+**Phrases & Expressions:**
+- **Der Patient wurde über die Risiken aufgeklärt und willigte ein.** — The patient was informed about the risks and consented. *([[FSP-20 Arztbrief und Dokumentation|Dokumentation]] · B2)*
+- **in etwas einwilligen** — *to consent; to agree*
+- **schriftlich einwilligen** — *to consent; to agree*
+- **in eine Scheidung einwilligen** — *to consent; to agree*
+
 **Collocations**
 - in etwas einwilligen
 - schriftlich einwilligen

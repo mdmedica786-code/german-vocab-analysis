@@ -35,6 +35,9 @@ status: "new"
 > Dieser Schmuck ist von meiner Großmutter.
 > *This jewellery is from my grandmother.*
 
+**Phrases & Expressions:**
+- **Legen Sie bitte Schmuck und Metallteile ab.** — Please take off jewellery and metal objects. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Röntgen]] · B1)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!) · Goethe word list B1
 <!-- bank:end -->
 

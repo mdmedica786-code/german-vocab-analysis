@@ -33,6 +33,11 @@ status: "new"
 > Ich schreibe jeden Sonntag meinen Wochenplan.
 > *I write my weekly plan every Sunday.*
 
+**Phrases & Expressions:**
+- **einen Wochenplan machen** — *weekly plan; weekly schedule*
+- **den Wochenplan einhalten** — *weekly plan; weekly schedule*
+- **der Wochenplan der Schule** — *weekly plan; weekly schedule*
+
 **Collocations**
 - einen Wochenplan machen
 - den Wochenplan einhalten

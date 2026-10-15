@@ -33,6 +33,14 @@ status: "new"
 > Der Termin steht seit Langem fest.
 > *The date has been fixed for a long time.*
 
+**Phrases & Expressions:**
+- **fest davon überzeugt sein, dass ...** — to be firmly convinced that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Für mich steht außer Frage, dass ...** — For me there is no question that ... *([[B1-01 Meinung äußern|Überzeugung ausdrücken]] · B1)*
+- **Im Mittelpunkt steht für mich ...** — For me the focus is on ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Schwerpunkt setzen]] · B1)*
+- **Ich umarme dich ganz fest.** — I give you a big hug. *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+- **Das Haus steht direkt neben dem Park.** — The house stands right next to the park. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ort beschreiben]] · B1)*
+- **Dagegen steht, dass ...** — Against this stands the fact that ... *([[B2-11 Vergleichen und Entwicklungen beschreiben|Gegensatz ausdrücken]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

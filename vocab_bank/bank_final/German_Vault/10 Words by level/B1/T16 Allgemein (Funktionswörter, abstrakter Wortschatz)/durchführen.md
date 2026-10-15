@@ -33,6 +33,14 @@ status: "new"
 > Wir führen morgen eine Umfrage durch.
 > *Tomorrow we are conducting a survey.*
 
+**Phrases & Expressions:**
+- **führt dazu, dass ...** — leads to ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **führt zu ...** — leads to ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **dazu führt, dass ...** — leads to ... (the result that) *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **Das führt mich zu der Frage, ob ...** — This leads me to the question of whether ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Übergang gestalten]] · B2)*
+- **Was führt Sie zu uns?** — What brings you to us? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Leitsymptom erfragen]] · B1)*
+- **Sind Sie damit einverstanden, dass wir den Eingriff durchführen?** — Do you consent to us carrying out the procedure? *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Einwilligung einholen]] · B2)*
+
 **Collocations**
 - eine Untersuchung durchführen
 - ein Experiment durchführen

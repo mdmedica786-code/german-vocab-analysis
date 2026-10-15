@@ -27,6 +27,9 @@ status: "new"
 > Das Spiel war mega schlecht!
 > *The game was really bad!*
 
+**Phrases & Expressions:**
+- **Das Spiel war mega schlecht** — *The game was really bad* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 3c (Sportlich, sportlich)
 <!-- bank:end -->
 

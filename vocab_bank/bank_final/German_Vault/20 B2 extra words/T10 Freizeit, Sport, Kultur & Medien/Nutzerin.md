@@ -33,6 +33,11 @@ status: "new"
 > Die Nutzerin hat sich auf der Webseite angemeldet.
 > *The user has registered on the website.*
 
+**Phrases & Expressions:**
+- **eine Nutzerin der App** — *user (female)*
+- **die Nutzerinnen informieren** — *user (female)*
+- **eine aktive Nutzerin** — *user (female)*
+
 **Collocations**
 - eine Nutzerin der App
 - die Nutzerinnen informieren

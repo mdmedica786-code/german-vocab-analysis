@@ -33,6 +33,9 @@ status: "new"
 > Der Kaffee regt den Kreislauf an.
 > *Coffee stimulates the circulation.*
 
+**Phrases & Expressions:**
+- **Der Kaffee regt den Kreislauf an** — *Coffee stimulates the circulation* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 1b (Kunststücke)
 <!-- bank:end -->
 

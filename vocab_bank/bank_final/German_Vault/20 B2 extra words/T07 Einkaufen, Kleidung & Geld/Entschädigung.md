@@ -33,6 +33,12 @@ status: "new"
 > Die Versicherung zahlt eine Entschädigung für den Schaden.
 > *The insurance pays compensation for the damage.*
 
+**Phrases & Expressions:**
+- **Als Entschädigung bieten wir Ihnen ... an.** — As compensation we offer you ... *([[B2-04 Beschwerde und Reklamation|Lösung anbieten]] · B2)*
+- **eine Entschädigung fordern** — *compensation*
+- **eine Entschädigung zahlen** — *compensation*
+- **als Entschädigung** — *compensation*
+
 **Collocations**
 - eine Entschädigung fordern
 - eine Entschädigung zahlen

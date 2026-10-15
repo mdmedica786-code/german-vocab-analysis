@@ -35,6 +35,9 @@ status: "new"
 > Die Büroangestellten haben eine Pause.
 > *The office workers are having a break.*
 
+**Phrases & Expressions:**
+- **Die Büroangestellten haben eine Pause** — *The office workers are having a break* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 8a (Veränderungen)
 <!-- bank:end -->
 

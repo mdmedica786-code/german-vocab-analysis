@@ -33,6 +33,9 @@ status: "new"
 > Ich kämme mir jeden Morgen die Haare.
 > *I comb my hair every morning.*
 
+**Phrases & Expressions:**
+- **Ich kämme mir jeden Morgen die Haare** — *I comb my hair every morning* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 4b (Rund um Körper und Geist)
 <!-- bank:end -->
 

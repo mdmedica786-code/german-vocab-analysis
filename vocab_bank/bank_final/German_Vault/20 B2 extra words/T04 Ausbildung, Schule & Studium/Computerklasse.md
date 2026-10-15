@@ -30,6 +30,11 @@ status: "new"
 > Die Computerklasse ist heute für die Kinder reserviert.
 > *The computer class is reserved for the children today.*
 
+**Phrases & Expressions:**
+- **in der Computerklasse** — *computer class; computer room*
+- **eine Computerklasse besuchen** — *computer class; computer room*
+- **die Computerklasse leiten** — *computer class; computer room*
+
 **Collocations**
 - in der Computerklasse
 - eine Computerklasse besuchen

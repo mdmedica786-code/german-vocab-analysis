@@ -33,6 +33,11 @@ status: "new"
 > Die alte Mühle am Bach ist heute ein Museum.
 > *The old mill by the stream is a museum today.*
 
+**Phrases & Expressions:**
+- **eine alte Mühle** — *mill*
+- **die Mühle am Bach** — *mill*
+- **Mühle spielen** — *mill*
+
 **Collocations**
 - eine alte Mühle
 - die Mühle am Bach

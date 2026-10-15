@@ -29,6 +29,11 @@ status: "new"
 > Die Katze ist aus dem Fenster rausgesprungen.
 > *The cat jumped out of the window.*
 
+**Phrases & Expressions:**
+- **aus dem Fenster rausspringen** — *to jump out (colloquial)*
+- **aus dem Zug rausspringen** — *to jump out (colloquial)*
+- **rausspringen** — *to jump out (colloquial)*
+
 **Collocations**
 - aus dem Fenster rausspringen
 - aus dem Zug rausspringen

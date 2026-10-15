@@ -34,6 +34,9 @@ status: "new"
 > Was bedeutet dieses Kreuz hier?
 > *What does this cross here mean?*
 
+**Phrases & Expressions:**
+- **Was bedeutet dieses Kreuz hier** — *What does this cross here mean* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

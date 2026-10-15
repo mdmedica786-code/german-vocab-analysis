@@ -33,6 +33,11 @@ status: "new"
 > Zum Ausgleich macht sie jeden Tag Sport.
 > *For balance she does sport every day.*
 
+**Phrases & Expressions:**
+- **zum Ausgleich** — *balance; compensation; equalisation*
+- **einen Ausgleich schaffen** — *balance; compensation; equalisation*
+- **einen Ausgleich zahlen** — *balance; compensation; equalisation*
+
 **Collocations**
 - zum Ausgleich
 - einen Ausgleich schaffen

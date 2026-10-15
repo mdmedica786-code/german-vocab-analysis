@@ -33,6 +33,11 @@ status: "new"
 > Ein Damm schützt das Dorf vor Hochwasser.
 > *An embankment protects the village from flooding.*
 
+**Phrases & Expressions:**
+- **einen Damm bauen** — *dam; embankment*
+- **der Damm bricht** — *dam; embankment*
+- **auf dem Damm sein** — *dam; embankment*
+
 **Collocations**
 - einen Damm bauen
 - der Damm bricht

@@ -35,6 +35,9 @@ status: "new"
 > Wir haben alle Ihre Daten im Computer.
 > *We have all your data on the computer.*
 
+**Phrases & Expressions:**
+- **Wir haben alle Ihre Daten im Computer** — *We have all your data on the computer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 3a ÜB (Ab in den Urlaub!) · Goethe word list B1
 <!-- bank:end -->
 

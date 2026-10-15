@@ -34,6 +34,13 @@ status: "new"
 > Ein Poster hängt am Gartenhaus.
 > *A poster is hanging on the garden house.*
 
+**Phrases & Expressions:**
+- **Das hängt davon ab, ob ...** — That depends on whether ... *([[B1-04 Vor- und Nachteile nennen|Abwägen]] · B1)*
+- **an der Wand hängen** — *to hang; to be attached*
+- **an jemandem hängen** — *to hang; to be attached*
+- **im Stau hängen** — *to hang; to be attached*
+- **in der Luft hängen** — *to hang; to be attached*
+
 **Collocations**
 - an der Wand hängen
 - an jemandem hängen

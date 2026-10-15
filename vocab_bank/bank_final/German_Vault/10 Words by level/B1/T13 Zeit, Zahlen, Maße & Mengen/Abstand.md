@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Bitte halten Sie eineinhalb Meter Abstand.
 > *Please keep a distance of one and a half metres.*
+
+**Phrases & Expressions:**
+- **Bitte halten Sie eineinhalb Meter Abstand** — *Please keep a distance of one and a half metres* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

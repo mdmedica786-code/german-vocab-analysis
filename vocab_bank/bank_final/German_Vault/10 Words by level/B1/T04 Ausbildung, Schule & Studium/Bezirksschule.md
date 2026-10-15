@@ -42,6 +42,9 @@ status: "new"
 > Nach der Primarschule besucht er die Bezirksschule.
 > *After primary school he attends the district school.*
 
+**Phrases & Expressions:**
+- **Nach der Primarschule besucht er die Bezirksschule** — *After primary school he attends the district school* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

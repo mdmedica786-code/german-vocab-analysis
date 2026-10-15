@@ -34,6 +34,9 @@ status: "new"
 > Die Kunstexpertin hält einen Vortrag im Museum.
 > *The art expert gives a talk at the museum.*
 
+**Phrases & Expressions:**
+- **Die Kunstexpertin hält einen Vortrag im Museum** — *The art expert gives a talk at the museum* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!)
 <!-- bank:end -->
 

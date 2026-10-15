@@ -33,6 +33,12 @@ status: "new"
 > Für Notfälle gibt es eine besondere Regelung.
 > *There is a special arrangement for emergencies.*
 
+**Phrases & Expressions:**
+- **eine Regelung treffen** — *regulation; arrangement*
+- **gesetzliche Regelung** — *regulation; arrangement*
+- **neue Regelung** — *regulation; arrangement*
+- **die Regelung gilt** — *regulation; arrangement*
+
 **Collocations**
 - eine Regelung treffen
 - gesetzliche Regelung

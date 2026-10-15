@@ -32,6 +32,14 @@ status: "new"
 > Sie musste ihre Heimat zurücklassen.
 > *She had to leave her homeland behind.*
 
+**Phrases & Expressions:**
+- **... lässt sich ...** — can be ... *([[Können - Müssen - Dürfen (modal frames)|Können / Müssen / Dürfen (modal frames)]] · B2)*
+- **hin und zurück** — there and back; return *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **es lässt sich sagen, dass ...** — it can be said that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+- **es lässt sich festhalten, dass ...** — it can be stated that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **es lässt sich feststellen, dass ...** — it can be established that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **Das lässt sich damit begründen, dass ...** — This can be explained by the fact that ... *([[B1-03 Argumentieren, begründen und Beispiele nennen|Begründen]] · B1)*
+
 **Collocations**
 - jemanden zurücklassen
 - alles zurücklassen

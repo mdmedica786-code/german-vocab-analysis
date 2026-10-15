@@ -34,6 +34,9 @@ status: "new"
 > Der Briefträger trägt die Post aus.
 > *The postman delivers the post.*
 
+**Phrases & Expressions:**
+- **Der Briefträger trägt die Post aus** — *The postman delivers the post* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1b (Arbeitswelt) · Goethe word list A2
 <!-- bank:end -->
 

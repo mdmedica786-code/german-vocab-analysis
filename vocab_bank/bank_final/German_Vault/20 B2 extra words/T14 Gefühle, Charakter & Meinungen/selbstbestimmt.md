@@ -29,6 +29,11 @@ status: "new"
 > Sie möchte selbstbestimmt leben.
 > *She wants to live independently.*
 
+**Phrases & Expressions:**
+- **selbstbestimmt leben** — *self-determined; independent*
+- **ein selbstbestimmtes Leben** — *self-determined; independent*
+- **selbstbestimmt entscheiden** — *self-determined; independent*
+
 **Collocations**
 - selbstbestimmt leben
 - ein selbstbestimmtes Leben

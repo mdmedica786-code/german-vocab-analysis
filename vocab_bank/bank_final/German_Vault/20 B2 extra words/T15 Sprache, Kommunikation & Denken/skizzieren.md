@@ -31,6 +31,11 @@ status: "new"
 > Er skizzierte kurz seinen Plan.
 > *He briefly outlined his plan.*
 
+**Phrases & Expressions:**
+- **einen Plan skizzieren** — *to sketch; to outline*
+- **grob skizzieren** — *to sketch; to outline*
+- **eine Idee skizzieren** — *to sketch; to outline*
+
 **Collocations**
 - einen Plan skizzieren
 - grob skizzieren

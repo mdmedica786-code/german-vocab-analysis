@@ -31,6 +31,9 @@ status: "new"
 > Wir haben lange nichts voneinander gehört.
 > *We haven't heard from each other for a long time.*
 
+**Phrases & Expressions:**
+- **Wir haben lange nichts voneinander gehört** — *We haven't heard from each other for a long time* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 9a (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

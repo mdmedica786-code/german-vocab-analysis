@@ -33,6 +33,11 @@ status: "new"
 > Ohne Legitimation darf niemand das Gebäude betreten.
 > *Without authorization nobody may enter the building.*
 
+**Phrases & Expressions:**
+- **die Legitimation prüfen** — *legitimation; authorization*
+- **eine Legitimation vorlegen** — *legitimation; authorization*
+- **die Legitimation fehlt** — *legitimation; authorization*
+
 **Collocations**
 - die Legitimation prüfen
 - eine Legitimation vorlegen

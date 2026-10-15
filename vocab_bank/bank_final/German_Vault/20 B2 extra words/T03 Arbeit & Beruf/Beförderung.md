@@ -33,6 +33,11 @@ status: "new"
 > Nach zwei Jahren bekam sie eine Beförderung zur Abteilungsleiterin.
 > *After two years she got a promotion to head of department.*
 
+**Phrases & Expressions:**
+- **eine Beförderung bekommen** — *promotion*
+- **auf eine Beförderung hoffen** — *promotion*
+- **Beförderung erhalten** — *promotion*
+
 **Collocations**
 - eine Beförderung bekommen
 - auf eine Beförderung hoffen

@@ -40,6 +40,9 @@ status: "new"
 > [!example] Beispiel
 > Bakterien verursachen viele Infektionen.
 > *Bacteria cause many infections.*
+
+**Phrases & Expressions:**
+- **Bakterien verursachen viele Infektionen** — *Bacteria cause many infections* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

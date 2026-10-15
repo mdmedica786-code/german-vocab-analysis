@@ -33,6 +33,11 @@ status: "new"
 > Der Urheber des Textes ist unbekannt.
 > *The author of the text is unknown.*
 
+**Phrases & Expressions:**
+- **der Urheber des Werkes** — *originator; author; creator*
+- **das Urheberrecht** — *originator; author; creator*
+- **den Urheber nennen** — *originator; author; creator*
+
 **Collocations**
 - der Urheber des Werkes
 - das Urheberrecht

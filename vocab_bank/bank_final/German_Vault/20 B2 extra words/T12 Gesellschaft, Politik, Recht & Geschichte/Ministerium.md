@@ -33,6 +33,11 @@ status: "new"
 > Das Ministerium plant eine neue Reform.
 > *The ministry is planning a new reform.*
 
+**Phrases & Expressions:**
+- **das Ministerium für Bildung** — *ministry (government department)*
+- **im Ministerium arbeiten** — *ministry (government department)*
+- **ein Ministerium leiten** — *ministry (government department)*
+
 **Collocations**
 - das Ministerium für Bildung
 - im Ministerium arbeiten

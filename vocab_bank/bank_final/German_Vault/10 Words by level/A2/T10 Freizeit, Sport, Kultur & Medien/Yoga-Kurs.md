@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Ich besuche einen Yoga-Kurs am Abend.
 > *I attend a yoga class in the evening.*
+
+**Phrases & Expressions:**
+- **Ich besuche einen Yoga-Kurs am Abend** — *I attend a yoga class in the evening* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

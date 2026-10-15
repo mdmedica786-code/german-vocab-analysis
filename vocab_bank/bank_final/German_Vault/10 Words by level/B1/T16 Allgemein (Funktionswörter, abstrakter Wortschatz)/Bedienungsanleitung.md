@@ -35,6 +35,9 @@ status: "new"
 > Die Bedienungsanleitung verstehe ich nicht.
 > *I do not understand the instruction manual.*
 
+**Phrases & Expressions:**
+- **Die Bedienungsanleitung verstehe ich nicht** — *I do not understand the instruction manual* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

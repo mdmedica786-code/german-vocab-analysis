@@ -35,6 +35,9 @@ status: "new"
 > Tragen Sie bitte auch Ihren Wohnort ein.
 > *Please also enter your place of residence.*
 
+**Phrases & Expressions:**
+- **Tragen Sie bitte auch Ihren Wohnort ein** — *Please also enter your place of residence* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich) · Goethe word list B1
 <!-- bank:end -->
 

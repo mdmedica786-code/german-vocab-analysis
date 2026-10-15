@@ -32,6 +32,9 @@ status: "new"
 > Ich pendele jeden Tag mit dem Zug zur Arbeit.
 > *I commute to work by train every day.*
 
+**Phrases & Expressions:**
+- **Ich pendele jeden Tag mit dem Zug zur Arbeit** — *I commute to work by train every day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 11a (Ganz schön mobil)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Was kostet der Transport?
 > *How much does the transport cost?*
 
+**Phrases & Expressions:**
+- **Was kostet der Transport** — *How much does the transport cost* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 1b (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

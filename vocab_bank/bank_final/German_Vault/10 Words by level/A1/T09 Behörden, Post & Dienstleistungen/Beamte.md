@@ -36,6 +36,9 @@ status: "new"
 > Fragen Sie die Beamtin an Schalter acht!
 > *Ask the official at counter eight!*
 
+**Phrases & Expressions:**
+- **Fragen Sie die Beamtin an Schalter acht** — *Ask the official at counter eight* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt) · Goethe word list A1
 <!-- bank:end -->
 

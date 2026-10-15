@@ -30,6 +30,9 @@ status: "new"
 > Nochmals vielen Dank!
 > *Many thanks once again!*
 
+**Phrases & Expressions:**
+- **Nochmals vielen Dank** — *Many thanks once again* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

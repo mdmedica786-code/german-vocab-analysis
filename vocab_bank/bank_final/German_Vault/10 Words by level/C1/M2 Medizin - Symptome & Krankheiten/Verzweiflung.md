@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Patientin war in tiefer Verzweiflung.
 > *The patient was in deep despair.*
+
+**Phrases & Expressions:**
+- **Die Patientin war in tiefer Verzweiflung** — *The patient was in deep despair* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

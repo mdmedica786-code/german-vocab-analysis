@@ -29,6 +29,11 @@ status: "new"
 > Komm bitte zu uns herüber!
 > *Please come over to us!*
 
+**Phrases & Expressions:**
+- **herüberkommen** — *over (to the speaker); across*
+- **über die Brücke herüber** — *over (to the speaker); across*
+- **von drüben herüber** — *over (to the speaker); across*
+
 **Collocations**
 - herüberkommen
 - über die Brücke herüber

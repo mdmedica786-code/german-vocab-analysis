@@ -27,6 +27,9 @@ status: "new"
 > Die Klinik bietet diätetische Ernährung an.
 > *The clinic offers dietary food.*
 
+**Phrases & Expressions:**
+- **Die Klinik bietet diätetische Ernährung an** — *The clinic offers dietary food* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Morgen habe ich meine erste Fahrstunde.
 > *Tomorrow I have my first driving lesson.*
 
+**Phrases & Expressions:**
+- **Morgen habe ich meine erste Fahrstunde** — *Tomorrow I have my first driving lesson* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3a (Gelernt ist gelernt!)
 <!-- bank:end -->
 

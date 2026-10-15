@@ -33,6 +33,10 @@ status: "new"
 > Die Post ist gegenüber vom Bahnhof.
 > *The post office is opposite the station.*
 
+**Phrases & Expressions:**
+- **gegenüber von ...** — opposite ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Ich stehe der Idee eher skeptisch gegenüber.** — I am rather sceptical about the idea. *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Position beziehen]] · B2)*
+
 **Source:** Netzwerk neu A1 K12 4b ÜB (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

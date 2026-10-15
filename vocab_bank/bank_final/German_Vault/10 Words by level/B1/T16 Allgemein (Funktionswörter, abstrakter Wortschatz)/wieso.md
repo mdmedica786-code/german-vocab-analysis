@@ -32,6 +32,9 @@ status: "new"
 > Wie lange sind Sie hier? – Wieso fragen Sie?
 > **
 
+**Phrases & Expressions:**
+- **Wie lange sind Sie hier? – Wieso fragen Sie** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 4a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

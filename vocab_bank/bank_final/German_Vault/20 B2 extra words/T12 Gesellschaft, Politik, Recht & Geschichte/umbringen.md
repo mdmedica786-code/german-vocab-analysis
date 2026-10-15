@@ -32,6 +32,11 @@ status: "new"
 > Der Mann wurde von Räubern umgebracht.
 > *The man was killed by robbers.*
 
+**Phrases & Expressions:**
+- **jemanden umbringen** — *to kill; to murder*
+- **sich umbringen** — *to kill; to murder*
+- **fast umbringen** — *to kill; to murder*
+
 **Collocations**
 - jemanden umbringen
 - sich umbringen

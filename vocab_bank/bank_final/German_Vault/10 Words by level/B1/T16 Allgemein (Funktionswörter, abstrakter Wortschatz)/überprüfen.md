@@ -33,6 +33,9 @@ status: "new"
 > Bitte überprüfen Sie, ob Ihr Name richtig geschrieben ist.
 > *Please check whether your name is spelled correctly.*
 
+**Phrases & Expressions:**
+- **Wir schreiben jetzt ein EKG, um Ihr Herz zu überprüfen.** — We are now going to record an ECG to check your heart. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|EKG]] · A2)*
+
 **Source:** Netzwerk neu B1 K8 12a (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

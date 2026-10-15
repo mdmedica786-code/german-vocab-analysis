@@ -31,6 +31,11 @@ status: "new"
 > Er riskierte seinen Job für diese Entscheidung.
 > *He risked his job for this decision.*
 
+**Phrases & Expressions:**
+- **etwas riskieren** — *to risk*
+- **alles riskieren** — *to risk*
+- **einen Blick riskieren** — *to risk*
+
 **Collocations**
 - etwas riskieren
 - alles riskieren

@@ -34,6 +34,9 @@ status: "new"
 > Die Betriebsrätin informiert Sie über die neuen Arbeitszeiten.
 > *The works council member will inform you about the new working hours.*
 
+**Phrases & Expressions:**
+- **Die Betriebsrätin informiert Sie über die neuen Arbeitszeiten** — *The works council member will inform you about the new working hours* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -30,6 +30,9 @@ status: "new"
 > Ich bin heute gut/schlecht gelaunt.
 > *Today I'm in a good/bad mood.*
 
+**Phrases & Expressions:**
+- **Ich bin heute gut/schlecht gelaunt** — *Today I'm in a good/bad mood* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!)
 <!-- bank:end -->
 

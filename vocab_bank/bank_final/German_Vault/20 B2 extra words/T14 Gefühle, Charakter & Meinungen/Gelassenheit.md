@@ -33,6 +33,11 @@ status: "new"
 > Mit Gelassenheit nahm sie die Kritik hin.
 > *She accepted the criticism with composure.*
 
+**Phrases & Expressions:**
+- **Gelassenheit bewahren** — *composure; calmness*
+- **mit Gelassenheit** — *composure; calmness*
+- **innere Gelassenheit** — *composure; calmness*
+
 **Collocations**
 - Gelassenheit bewahren
 - mit Gelassenheit

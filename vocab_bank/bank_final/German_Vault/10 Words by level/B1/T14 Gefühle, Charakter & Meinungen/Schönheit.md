@@ -34,6 +34,9 @@ status: "new"
 > Die Schönheit der Berge beeindruckt mich.
 > *The beauty of the mountains impresses me.*
 
+**Phrases & Expressions:**
+- **Die Schönheit der Berge beeindruckt mich** — *The beauty of the mountains impresses me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Ich habe einen großen Schreck bekommen.
 > *I got a big fright.*
 
+**Phrases & Expressions:**
+- **Ich habe einen großen Schreck bekommen** — *I got a big fright* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

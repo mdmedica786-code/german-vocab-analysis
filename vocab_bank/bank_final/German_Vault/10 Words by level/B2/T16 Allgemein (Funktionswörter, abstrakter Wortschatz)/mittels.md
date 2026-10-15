@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Der Patient wurde mittels Ultraschall untersucht.
 > *The patient was examined by means of ultrasound.*
+
+**Phrases & Expressions:**
+- **Der Patient wurde mittels Ultraschall untersucht** — *The patient was examined by means of ultrasound* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,11 @@ status: "new"
 > Seine Sprechweise ist ruhig und klar.
 > *His way of speaking is calm and clear.*
 
+**Phrases & Expressions:**
+- **eine typische Sprechweise** — *way of speaking; manner of speech*
+- **die Sprechweise ändern** — *way of speaking; manner of speech*
+- **an der Sprechweise erkennen** — *way of speaking; manner of speech*
+
 **Collocations**
 - eine typische Sprechweise
 - die Sprechweise ändern

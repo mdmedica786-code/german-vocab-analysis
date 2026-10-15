@@ -30,6 +30,9 @@ status: "new"
 > Er ist verzweifelt, weil er keine Arbeit findet.
 > *He is desperate because he can't find work.*
 
+**Phrases & Expressions:**
+- **Er ist verzweifelt, weil er keine Arbeit findet** — *He is desperate because he can't find work* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 9a (Gute Reise!)
 <!-- bank:end -->
 

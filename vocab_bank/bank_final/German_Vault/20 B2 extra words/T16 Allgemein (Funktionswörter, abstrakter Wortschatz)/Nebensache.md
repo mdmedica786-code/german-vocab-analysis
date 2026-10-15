@@ -33,6 +33,11 @@ status: "new"
 > Das Geld ist für mich eine Nebensache.
 > *Money is a minor matter for me.*
 
+**Phrases & Expressions:**
+- **eine Nebensache sein** — *minor matter; side issue*
+- **etwas zur Nebensache machen** — *minor matter; side issue*
+- **die schönste Nebensache der Welt** — *minor matter; side issue*
+
 **Collocations**
 - eine Nebensache sein
 - etwas zur Nebensache machen

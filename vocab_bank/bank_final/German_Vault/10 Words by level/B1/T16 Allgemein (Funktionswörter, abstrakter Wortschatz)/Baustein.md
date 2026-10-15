@@ -34,6 +34,9 @@ status: "new"
 > Vertrauen ist ein wichtiger Baustein jeder Beziehung.
 > *Trust is an important building block of every relationship.*
 
+**Phrases & Expressions:**
+- **Vertrauen ist ein wichtiger Baustein jeder Beziehung** — *Trust is an important building block of every relationship* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 9b (Veränderungen)
 <!-- bank:end -->
 

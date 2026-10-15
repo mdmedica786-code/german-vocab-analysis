@@ -31,6 +31,13 @@ status: "new"
 > Ich bin kulturell interessiert. Ich gehe oft ins Museum.
 > *I'm culturally interested. I often go to the museum.*
 
+**Phrases & Expressions:**
+- **Gibt es etwas, das wir aus kulturellen oder religiösen Gründen beachten sollen?** — Is there anything we should consider for cultural or religious reasons? *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Kulturelle Sensibilität]] · B2)*
+- **kulturelle Veranstaltung** — *cultural*
+- **kulturelles Angebot** — *cultural*
+- **kulturell interessiert** — *cultural*
+- **kulturelle Unterschiede** — *cultural*
+
 **Collocations**
 - kulturelle Veranstaltung
 - kulturelles Angebot

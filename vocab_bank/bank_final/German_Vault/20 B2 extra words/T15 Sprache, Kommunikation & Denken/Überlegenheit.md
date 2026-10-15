@@ -33,6 +33,11 @@ status: "new"
 > Die Überlegenheit der Mannschaft war deutlich.
 > *The superiority of the team was clear.*
 
+**Phrases & Expressions:**
+- **die Überlegenheit zeigen** — *superiority*
+- **eine klare Überlegenheit** — *superiority*
+- **Überlegenheit demonstrieren** — *superiority*
+
 **Collocations**
 - die Überlegenheit zeigen
 - eine klare Überlegenheit

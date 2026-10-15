@@ -33,6 +33,11 @@ status: "new"
 > Die Firma veröffentlicht wichtige Kennzahlen.
 > *The company publishes important key figures.*
 
+**Phrases & Expressions:**
+- **wichtige Kennzahlen** — *key figure; indicator; code*
+- **eine Kennzahl berechnen** — *key figure; indicator; code*
+- **betriebswirtschaftliche Kennzahl** — *key figure; indicator; code*
+
 **Collocations**
 - wichtige Kennzahlen
 - eine Kennzahl berechnen

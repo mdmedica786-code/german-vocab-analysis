@@ -34,6 +34,9 @@ status: "new"
 > Die Firma bildet jedes Jahr zehn Lehrlinge aus.
 > *The company trains ten apprentices every year.*
 
+**Phrases & Expressions:**
+- **Die Firma bildet jedes Jahr zehn Lehrlinge aus** — *The company trains ten apprentices every year* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

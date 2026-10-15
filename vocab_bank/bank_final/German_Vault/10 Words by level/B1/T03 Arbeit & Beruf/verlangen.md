@@ -33,6 +33,13 @@ status: "new"
 > Jeden Tag Überstunden? Das können Sie nicht verlangen.
 > *Overtime every day? You can't demand that.*
 
+**Phrases & Expressions:**
+- **Ich verlange einen Umtausch gegen ein einwandfreies Gerät.** — I demand an exchange for a flawless device. *([[B2-04 Beschwerde und Reklamation|Forderung stellen]] · B2)*
+- **einen Preis verlangen** — *to demand; to ask for*
+- **zu viel verlangen** — *to demand; to ask for*
+- **Geld verlangen** — *to demand; to ask for*
+- **von jemandem verlangen, dass ...** — *to demand; to ask for*
+
 **Collocations**
 - einen Preis verlangen
 - zu viel verlangen

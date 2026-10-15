@@ -33,6 +33,11 @@ status: "new"
 > Stell den Thermostat auf Stufe drei.
 > *Set the thermostat to level three.*
 
+**Phrases & Expressions:**
+- **den Thermostat einstellen** — *thermostat*
+- **Thermostat am Heizkörper** — *thermostat*
+- **der Thermostat ist defekt** — *thermostat*
+
 **Collocations**
 - den Thermostat einstellen
 - Thermostat am Heizkörper

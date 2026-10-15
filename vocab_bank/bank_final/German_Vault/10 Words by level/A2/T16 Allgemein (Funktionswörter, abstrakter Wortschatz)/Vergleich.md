@@ -35,6 +35,14 @@ status: "new"
 > Ein Vergleich ist schwer möglich.
 > *A comparison is hardly possible.*
 
+**Phrases & Expressions:**
+- **im Vergleich zu ...** — in comparison to ... *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B1)*
+- **im Vergleich zur ...** — in comparison to the ... *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B1)*
+- **im Vergleich zum ...** — in comparison to the ... *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B1)*
+- **im Vergleich mit ...** — in comparison with ... *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B2)*
+- **Im Vergleich dazu ...** — In comparison ... *([[B1-04 Vor- und Nachteile nennen|Gegenüberstellen]] · B1)*
+- **Im Vergleich zu Deutschland ...** — Compared with Germany ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Unterschiede nennen]] · B1)*
+
 **Source:** Netzwerk neu A2 K3 13e (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

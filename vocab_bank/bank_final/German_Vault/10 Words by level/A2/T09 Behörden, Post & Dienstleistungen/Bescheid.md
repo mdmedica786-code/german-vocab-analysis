@@ -36,6 +36,12 @@ status: "new"
 > Ich gebe Ihnen Bescheid, sobald der Termin feststeht.
 > *I'll let you know as soon as the date is fixed.*
 
+**Phrases & Expressions:**
+- **Bescheid geben** — to let someone know *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **Bescheid sagen** — to let someone know *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **Bitte gib mir bis Mittwoch Bescheid.** — Please let me know by Wednesday. *([[B1-18 Einladen, zusagen und absagen|Antwort erbitten]] · B1)*
+- **Sagen Sie bitte sofort Bescheid, wenn es zu sehr wehtut.** — Please tell me straight away if it hurts too much. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Schmerz bei Untersuchung erfragen]] · B1)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt) · Goethe word list A2
 <!-- bank:end -->
 

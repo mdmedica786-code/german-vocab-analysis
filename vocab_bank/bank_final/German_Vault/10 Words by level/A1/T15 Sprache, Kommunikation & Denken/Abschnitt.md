@@ -35,6 +35,9 @@ status: "new"
 > Lesen Sie bitte den zweiten Abschnitt.
 > *Please read the second section.*
 
+**Phrases & Expressions:**
+- **in diesem Abschnitt** — in this section *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+
 **Source:** Netzwerk neu A1 K12 12b (Ab in den Urlaub!) · Goethe word list B1
 <!-- bank:end -->
 

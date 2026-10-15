@@ -32,6 +32,12 @@ status: "new"
 > Der Text ist in drei Teile gegliedert.
 > *The text is divided into three parts.*
 
+**Phrases & Expressions:**
+- **Mein Vortrag gliedert sich in drei Teile.** — My talk is divided into three parts. *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Aufbau ankündigen]] · B2)*
+- **in etwas gliedern** — *to divide; to structure; to organise*
+- **sich gliedern in** — *to divide; to structure; to organise*
+- **einen Text gliedern** — *to divide; to structure; to organise*
+
 **Collocations**
 - in etwas gliedern
 - sich gliedern in

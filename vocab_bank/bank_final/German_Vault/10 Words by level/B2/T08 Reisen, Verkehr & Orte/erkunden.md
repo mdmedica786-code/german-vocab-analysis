@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Wir erkunden die Altstadt zu Fuß.
 > *We explore the old town on foot.*
+
+**Phrases & Expressions:**
+- **Wir erkunden die Altstadt zu Fuß** — *We explore the old town on foot* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

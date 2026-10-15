@@ -33,6 +33,11 @@ status: "new"
 > Bitte streichen Sie falsche Antworten durch.
 > *Please cross out wrong answers.*
 
+**Phrases & Expressions:**
+- **Unterm Strich ist das eine gute Lösung.** — At the end of the day, that is a good solution. *([[B1-04 Vor- und Nachteile nennen|Zum Ergebnis kommen]] · B1)*
+- **Unter dem Strich bleibt festzuhalten, dass ...** — The bottom line is that ... *([[B2-08 Zusammenfassen, Fazit und Schlussfolgerung|Fazit ziehen]] · B2)*
+- **Bitte atmen Sie kurz durch, dann klären wir alles.** — Please take a deep breath, then we will sort everything out. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Aufgebrachte beruhigen]] · B2)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?)
 <!-- bank:end -->
 

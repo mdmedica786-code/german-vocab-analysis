@@ -31,6 +31,9 @@ status: "new"
 > Alle meine Sachen sind durcheinander.
 > *All my things are in a mess.*
 
+**Phrases & Expressions:**
+- **Alle meine Sachen sind durcheinander** — *All my things are in a mess* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 5c (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

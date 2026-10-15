@@ -33,6 +33,11 @@ status: "new"
 > Die Regierung verbreitete Propaganda im Fernsehen.
 > *The government spread propaganda on television.*
 
+**Phrases & Expressions:**
+- **Propaganda betreiben** — *propaganda*
+- **politische Propaganda** — *propaganda*
+- **Propaganda verbreiten** — *propaganda*
+
 **Collocations**
 - Propaganda betreiben
 - politische Propaganda

@@ -33,6 +33,11 @@ status: "new"
 > Das Preisgeld beträgt tausend Euro.
 > *The prize money is one thousand euros.*
 
+**Phrases & Expressions:**
+- **das Preisgeld gewinnen** — *prize money*
+- **das Preisgeld spenden** — *prize money*
+- **ein hohes Preisgeld** — *prize money*
+
 **Collocations**
 - das Preisgeld gewinnen
 - das Preisgeld spenden

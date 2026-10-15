@@ -35,6 +35,9 @@ status: "new"
 > Mein Bruder hat ein eigenes Start-up gegründet.
 > *My brother has founded his own start-up.*
 
+**Phrases & Expressions:**
+- **Mein Bruder hat ein eigenes Start-up gegründet** — *My brother has founded his own start-up* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 6a (Immer online?)
 <!-- bank:end -->
 

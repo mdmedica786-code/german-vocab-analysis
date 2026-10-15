@@ -34,6 +34,10 @@ status: "new"
 > In dieser Stadt gibt es einen großen Mangel an Wohnungen.
 > *In this city there is a great shortage of flats.*
 
+**Phrases & Expressions:**
+- **Mangel an ...** — lack of ... *([[Probleme - Beschwerden beschreiben (problem, symptom, complaint)|Probleme / Beschwerden beschreiben (problem, symptom, complaint)]] · B2)*
+- **Bitte beheben Sie den Mangel schnellstmöglich.** — Please remedy the defect as soon as possible. *([[B2-04 Beschwerde und Reklamation|Forderung stellen]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

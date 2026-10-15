@@ -33,6 +33,11 @@ status: "new"
 > Ohne Karte fehlt mir die Orientierung.
 > *Without a map I lack orientation.*
 
+**Phrases & Expressions:**
+- **zur Orientierung** — *orientation; guidance*
+- **die Orientierung verlieren** — *orientation; guidance*
+- **berufliche Orientierung** — *orientation; guidance*
+
 **Collocations**
 - zur Orientierung
 - die Orientierung verlieren

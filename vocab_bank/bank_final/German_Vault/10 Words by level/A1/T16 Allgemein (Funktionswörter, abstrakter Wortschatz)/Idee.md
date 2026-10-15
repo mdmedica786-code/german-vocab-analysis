@@ -35,6 +35,14 @@ status: "new"
 > Plötzlich bin ich auf eine gute Idee gekommen.
 > *Suddenly I came up with a good idea.*
 
+**Phrases & Expressions:**
+- **das ist eine gute Idee** — that is a good idea *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · A2)*
+- **Das ist eine gute Idee!** — That's a good idea! *([[B1-05 Vorschläge machen und darauf reagieren|Vorschlag annehmen]] · B1)*
+- **Ich hätte eine andere Idee: ...** — I have a different idea: ... *([[B1-05 Vorschläge machen und darauf reagieren|Gegenvorschlag machen]] · B1)*
+- **Ich weiß nicht, ob das eine gute Idee ist.** — I don't know whether that is a good idea. *([[B1-05 Vorschläge machen und darauf reagieren|Zweifel äußern]] · B1)*
+- **Ich stehe der Idee eher skeptisch gegenüber.** — I am rather sceptical about the idea. *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Position beziehen]] · B2)*
+- **auf eine Idee kommen** — *idea*
+
 **Collocations**
 - auf eine Idee kommen
 - eine gute Idee

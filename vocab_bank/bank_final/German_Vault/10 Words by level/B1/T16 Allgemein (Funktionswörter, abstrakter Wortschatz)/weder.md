@@ -29,6 +29,12 @@ status: "new"
 > Er hat weder Zeit noch Geld.
 > *He has neither time nor money.*
 
+**Phrases & Expressions:**
+- **weder ... noch ...** — neither ... nor ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B1)*
+- **Ich habe weder Zeit noch Lust.** — I have neither time nor desire. *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Verneinung verbinden]] · B1)*
+- **weder A noch B** — *neither ... nor (weder ... noch)*
+- **weder gut noch schlecht** — *neither ... nor (weder ... noch)*
+
 **Collocations**
 - weder ... noch ...
 - weder A noch B

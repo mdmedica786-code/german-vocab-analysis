@@ -31,6 +31,11 @@ status: "new"
 > Er lenkte das Auto sicher durch die Kurve.
 > *He steered the car safely through the bend.*
 
+**Phrases & Expressions:**
+- **ein Auto lenken** — *to steer; to direct*
+- **die Aufmerksamkeit lenken** — *to steer; to direct*
+- **das Gespräch lenken** — *to steer; to direct*
+
 **Collocations**
 - ein Auto lenken
 - die Aufmerksamkeit lenken

@@ -33,6 +33,9 @@ status: "new"
 > Das Rad wurde vor ca. 6000 Jahren erfunden.
 > *The wheel was invented about 6000 years ago.*
 
+**Phrases & Expressions:**
+- **Das Rad wurde vor ca. 6000 Jahren erfunden** — *The wheel was invented about 6000 years ago* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 8d (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,9 @@ status: "new"
 > Reservierungen unter: ...
 > *Reservations at: ...*
 
+**Phrases & Expressions:**
+- **Reservierungen unter: ** — *Reservations at: * *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 6b (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

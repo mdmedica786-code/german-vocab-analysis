@@ -34,6 +34,9 @@ status: "new"
 > Was ist Ihr Anliegen?
 > *What is your concern?*
 
+**Phrases & Expressions:**
+- **Was ist Ihr Anliegen** — *What is your concern* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

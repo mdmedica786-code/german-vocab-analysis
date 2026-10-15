@@ -35,6 +35,9 @@ status: "new"
 > Hast du unser Treffen schon in deinen Terminkalender eingetragen?
 > *Have you already entered our meeting in your diary?*
 
+**Phrases & Expressions:**
+- **Hast du unser Treffen schon in deinen Terminkalender eingetragen** — *Have you already entered our meeting in your diary* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Der Grieche aus dem Restaurant kocht sehr gut.
 > *The Greek man from the restaurant cooks very well.*
 
+**Phrases & Expressions:**
+- **Der Grieche aus dem Restaurant kocht sehr gut** — *The Greek man from the restaurant cooks very well* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

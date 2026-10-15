@@ -29,6 +29,11 @@ status: "new"
 > Der Unterschied zwischen beiden Angeboten ist unerheblich.
 > *The difference between the two offers is insignificant.*
 
+**Phrases & Expressions:**
+- **unerheblich sein** — *insignificant; irrelevant*
+- **eine unerhebliche Rolle** — *insignificant; irrelevant*
+- **für das Ergebnis unerheblich** — *insignificant; irrelevant*
+
 **Collocations**
 - unerheblich sein
 - eine unerhebliche Rolle

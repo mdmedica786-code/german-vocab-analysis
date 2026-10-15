@@ -34,6 +34,9 @@ status: "new"
 > Die Chemikerin entwickelt neue Medikamente.
 > *The chemist develops new medicines.*
 
+**Phrases & Expressions:**
+- **Die Chemikerin entwickelt neue Medikamente** — *The chemist develops new medicines* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1b (Arbeitswelt)
 <!-- bank:end -->
 

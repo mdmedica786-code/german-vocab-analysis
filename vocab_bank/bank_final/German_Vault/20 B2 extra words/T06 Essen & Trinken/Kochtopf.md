@@ -33,6 +33,11 @@ status: "new"
 > Gib die Nudeln in den Kochtopf mit kochendem Wasser.
 > *Put the pasta into the pot with boiling water.*
 
+**Phrases & Expressions:**
+- **im Kochtopf kochen** — *cooking pot; saucepan*
+- **ein großer Kochtopf** — *cooking pot; saucepan*
+- **den Kochtopf abdecken** — *cooking pot; saucepan*
+
 **Collocations**
 - im Kochtopf kochen
 - ein großer Kochtopf

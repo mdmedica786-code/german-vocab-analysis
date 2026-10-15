@@ -34,6 +34,9 @@ status: "new"
 > Mein Schläger ist kaputt, ich brauche einen neuen.
 > *My racket is broken, I need a new one.*
 
+**Phrases & Expressions:**
+- **Mein Schläger ist kaputt, ich brauche einen neuen** — *My racket is broken, I need a new one* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1a (Sportlich, sportlich)
 <!-- bank:end -->
 

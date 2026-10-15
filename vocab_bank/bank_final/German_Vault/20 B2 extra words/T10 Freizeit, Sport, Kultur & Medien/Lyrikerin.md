@@ -33,6 +33,11 @@ status: "new"
 > Die Lyrikerin erhielt einen Literaturpreis.
 > *The poet received a literary prize.*
 
+**Phrases & Expressions:**
+- **eine bekannte Lyrikerin** — *poet; lyric poet (female)*
+- **eine junge Lyrikerin** — *poet; lyric poet (female)*
+- **als Lyrikerin arbeiten** — *poet; lyric poet (female)*
+
 **Collocations**
 - eine bekannte Lyrikerin
 - eine junge Lyrikerin

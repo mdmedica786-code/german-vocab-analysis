@@ -29,6 +29,10 @@ status: "new"
 > Wenn du Deutsch lernst, musst du am Ball bleiben.
 > *If you are learning German you must keep at it.*
 
+**Phrases & Expressions:**
+- **immer am Ball sein** — *to keep at it; to stay on the ball*
+- **dranbleiben** — *to keep at it; to stay on the ball*
+
 **Collocations**
 - immer am Ball sein
 - dranbleiben

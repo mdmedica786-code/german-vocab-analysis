@@ -33,6 +33,11 @@ status: "new"
 > Bei Pflegebedürftigkeit zahlt die Pflegekasse einen Zuschuss.
 > *In case of need of care the care insurance pays a subsidy.*
 
+**Phrases & Expressions:**
+- **bei Pflegebedürftigkeit** — *need of care*
+- **Pflegebedürftigkeit feststellen** — *need of care*
+- **Grad der Pflegebedürftigkeit** — *need of care*
+
 **Collocations**
 - bei Pflegebedürftigkeit
 - Pflegebedürftigkeit feststellen

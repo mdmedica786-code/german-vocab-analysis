@@ -34,6 +34,9 @@ status: "new"
 > Ich habe meinen Wohnungsschlüssel verloren.
 > *I have lost my flat key.*
 
+**Phrases & Expressions:**
+- **Ich habe meinen Wohnungsschlüssel verloren** — *I have lost my flat key* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 9a (Ganz schön mobil)
 <!-- bank:end -->
 

@@ -30,6 +30,9 @@ status: "new"
 > Die Produktion ist weitgehend automatisiert.
 > *Production is largely automated.*
 
+**Phrases & Expressions:**
+- **Die Produktion ist weitgehend automatisiert** — *Production is largely automated* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 1a (Veränderungen)
 <!-- bank:end -->
 

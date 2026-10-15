@@ -34,6 +34,9 @@ status: "new"
 > Die Ökobilanz von Elektroautos ist umstritten.
 > *The life-cycle assessment of electric cars is disputed.*
 
+**Phrases & Expressions:**
+- **Die Ökobilanz von Elektroautos ist umstritten** — *The life-cycle assessment of electric cars is disputed* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 4b (Umweltfreundlich?)
 <!-- bank:end -->
 

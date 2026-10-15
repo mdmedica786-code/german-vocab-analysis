@@ -33,6 +33,13 @@ status: "new"
 > Die Ampel ist kaputt. Ein Polizist regelt den Verkehr.
 > *The traffic light is broken. A police officer is directing the traffic.*
 
+**Phrases & Expressions:**
+- **Wie sind die Arbeitszeiten geregelt?** — How are the working hours arranged? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Arbeitszeit ansprechen]] · B2)*
+- **den Verkehr regeln** — *to regulate*
+- **etwas regeln** — *to regulate*
+- **geregelte Arbeitszeiten** — *to regulate*
+- **rechtlich regeln** — *to regulate*
+
 **Collocations**
 - den Verkehr regeln
 - etwas regeln

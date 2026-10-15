@@ -29,6 +29,12 @@ status: "new"
 > Ist noch ein Zimmer vorhanden?
 > *Is there still a room available?*
 
+**Phrases & Expressions:**
+- **vorhanden sein** — *available; present*
+- **nicht mehr vorhanden** — *available; present*
+- **genug vorhanden** — *available; present*
+- **Platz ist vorhanden** — *available; present*
+
 **Collocations**
 - vorhanden sein
 - nicht mehr vorhanden

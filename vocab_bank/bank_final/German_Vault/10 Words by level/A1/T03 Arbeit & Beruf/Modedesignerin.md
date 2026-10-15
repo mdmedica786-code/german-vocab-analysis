@@ -34,6 +34,9 @@ status: "new"
 > Die Modedesignerin entwirft Kleider.
 > *The fashion designer designs dresses.*
 
+**Phrases & Expressions:**
+- **Die Modedesignerin entwirft Kleider** — *The fashion designer designs dresses* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

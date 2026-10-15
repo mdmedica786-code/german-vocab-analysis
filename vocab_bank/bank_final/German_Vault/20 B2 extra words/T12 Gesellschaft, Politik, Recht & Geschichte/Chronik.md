@@ -33,6 +33,11 @@ status: "new"
 > Die Chronik der Stadt reicht bis ins 14. Jahrhundert.
 > *The chronicle of the city goes back to the 14th century.*
 
+**Phrases & Expressions:**
+- **die Chronik der Stadt** — *chronicle*
+- **eine Chronik führen** — *chronicle*
+- **die Chronik der Ereignisse** — *chronicle*
+
 **Collocations**
 - die Chronik der Stadt
 - eine Chronik führen

@@ -32,6 +32,11 @@ status: "new"
 > Die Kinder verkleiden sich an Karneval als Piraten.
 > *The children dress up as pirates at carnival.*
 
+**Phrases & Expressions:**
+- **sich verkleiden** — *to dress up; to disguise oneself*
+- **als Pirat verkleidet** — *to dress up; to disguise oneself*
+- **sich als etwas verkleiden** — *to dress up; to disguise oneself*
+
 **Collocations**
 - sich verkleiden
 - als Pirat verkleidet

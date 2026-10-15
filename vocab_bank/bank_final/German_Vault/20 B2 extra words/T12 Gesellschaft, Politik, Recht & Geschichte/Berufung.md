@@ -33,6 +33,11 @@ status: "new"
 > Der Anwalt hat gegen das Urteil Berufung eingelegt.
 > *The lawyer has lodged an appeal against the verdict.*
 
+**Phrases & Expressions:**
+- **Berufung einlegen** — *appeal; vocation; calling*
+- **in Berufung gehen** — *appeal; vocation; calling*
+- **Berufung ablehnen** — *appeal; vocation; calling*
+
 **Collocations**
 - Berufung einlegen
 - in Berufung gehen

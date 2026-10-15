@@ -34,6 +34,9 @@ status: "new"
 > Diese Arbeit strengt mich sehr an.
 > *This work is very tiring for me.*
 
+**Phrases & Expressions:**
+- **Es wird schlimmer, wenn ich mich anstrenge.** — It gets worse when I exert myself. *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Patient: Auslöser nennen]] · A2)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

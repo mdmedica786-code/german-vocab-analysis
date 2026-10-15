@@ -33,6 +33,11 @@ status: "new"
 > Er steckte den Schlüssel in die Hosentasche.
 > *He put the key in his trouser pocket.*
 
+**Phrases & Expressions:**
+- **in der Hosentasche** — *trouser pocket*
+- **etwas in die Hosentasche stecken** — *trouser pocket*
+- **aus der Hosentasche ziehen** — *trouser pocket*
+
 **Collocations**
 - in der Hosentasche
 - etwas in die Hosentasche stecken

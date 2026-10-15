@@ -33,6 +33,11 @@ status: "new"
 > Die Methodik der Studie wurde kritisiert.
 > *The methodology of the study was criticised.*
 
+**Phrases & Expressions:**
+- **die Methodik der Studie** — *methodology*
+- **eine neue Methodik** — *methodology*
+- **Methodik und Didaktik** — *methodology*
+
 **Collocations**
 - die Methodik der Studie
 - eine neue Methodik

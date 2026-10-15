@@ -34,6 +34,9 @@ status: "new"
 > Die Moral der Geschichte ist einfach.
 > *The moral of the story is simple.*
 
+**Phrases & Expressions:**
+- **Die Moral der Geschichte ist einfach** — *The moral of the story is simple* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12a (Zwischenmenschliches)
 <!-- bank:end -->
 

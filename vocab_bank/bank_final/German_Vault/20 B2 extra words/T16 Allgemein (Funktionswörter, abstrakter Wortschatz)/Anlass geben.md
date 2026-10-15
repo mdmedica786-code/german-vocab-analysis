@@ -26,6 +26,10 @@ status: "new"
 > Das Verhalten des Mitarbeiters gab Anlass zur Kritik.
 > *The employee's behaviour gave cause for criticism.*
 
+**Phrases & Expressions:**
+- **Anlass geben zu + Dat.** — *to give cause*
+- **Anlass zur Sorge geben** — *to give cause*
+
 **Collocations**
 - Anlass geben zu + Dat.
 - Anlass zur Sorge geben

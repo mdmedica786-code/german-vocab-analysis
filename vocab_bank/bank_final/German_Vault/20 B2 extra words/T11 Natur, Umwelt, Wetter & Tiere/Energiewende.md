@@ -33,6 +33,11 @@ status: "new"
 > Die Energiewende soll den Ausstoß von Treibhausgasen senken.
 > *The energy transition is meant to reduce greenhouse gas emissions.*
 
+**Phrases & Expressions:**
+- **die Energiewende vorantreiben** — *energy transition*
+- **Kosten der Energiewende** — *energy transition*
+- **Energiewende in Deutschland** — *energy transition*
+
 **Collocations**
 - die Energiewende vorantreiben
 - Kosten der Energiewende

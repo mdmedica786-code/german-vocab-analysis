@@ -34,6 +34,9 @@ status: "new"
 > Beim Upcycling macht man aus Müll etwas Neues.
 > *With upcycling you make something new out of rubbish.*
 
+**Phrases & Expressions:**
+- **Beim Upcycling macht man aus Müll etwas Neues** — *With upcycling you make something new out of rubbish* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7b (Kunststücke)
 <!-- bank:end -->
 

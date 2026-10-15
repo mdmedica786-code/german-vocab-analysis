@@ -29,6 +29,11 @@ status: "new"
 > Beim Umzug kam das alte Foto zum Vorschein.
 > *The old photo came to light during the move.*
 
+**Phrases & Expressions:**
+- **ans Licht kommen** — *to come to light; to emerge*
+- **zum Vorschein bringen** — *to come to light; to emerge*
+- **Fehler kommen zum Vorschein** — *to come to light; to emerge*
+
 **Collocations**
 - ans Licht kommen
 - zum Vorschein bringen

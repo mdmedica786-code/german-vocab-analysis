@@ -34,6 +34,9 @@ status: "new"
 > Mein Traumurlaub wäre eine Reise nach Neuseeland.
 > *My dream holiday would be a trip to New Zealand.*
 
+**Phrases & Expressions:**
+- **Mein Traumurlaub wäre eine Reise nach Neuseeland** — *My dream holiday would be a trip to New Zealand* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 12b (Ab in den Urlaub!)
 <!-- bank:end -->
 

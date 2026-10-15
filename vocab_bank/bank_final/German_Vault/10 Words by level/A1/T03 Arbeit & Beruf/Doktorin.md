@@ -35,6 +35,9 @@ status: "new"
 > Die Doktorin wird gleich bei Ihnen sein.
 > *The doctor will be with you in a moment.*
 
+**Phrases & Expressions:**
+- **Die Doktorin wird gleich bei Ihnen sein** — *The doctor will be with you in a moment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 8a (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

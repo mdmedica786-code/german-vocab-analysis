@@ -33,6 +33,11 @@ status: "new"
 > Das Moor ist ein wichtiger Speicher für Kohlenstoff.
 > *The bog is an important store for carbon.*
 
+**Phrases & Expressions:**
+- **ein Moor schützen** — *bog; moor*
+- **durch das Moor wandern** — *bog; moor*
+- **Moore wiedervernässen** — *bog; moor*
+
 **Collocations**
 - ein Moor schützen
 - durch das Moor wandern

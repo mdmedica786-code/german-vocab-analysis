@@ -32,6 +32,11 @@ status: "new"
 > Neue Parks sollen das Viertel aufwerten.
 > *New parks are meant to upgrade the neighbourhood.*
 
+**Phrases & Expressions:**
+- **ein Viertel aufwerten** — *to upgrade; to revalue*
+- **den Beruf aufwerten** — *to upgrade; to revalue*
+- **die Währung aufwerten** — *to upgrade; to revalue*
+
 **Collocations**
 - ein Viertel aufwerten
 - den Beruf aufwerten

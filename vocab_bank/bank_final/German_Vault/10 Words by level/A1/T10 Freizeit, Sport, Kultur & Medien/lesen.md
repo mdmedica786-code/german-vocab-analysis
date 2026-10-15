@@ -33,6 +33,10 @@ status: "new"
 > Ich lese ein Buch von García Márquez.
 > *I am reading a book by García Márquez.*
 
+**Phrases & Expressions:**
+- **Ich habe den Beitrag von ... gelesen und möchte darauf antworten.** — I have read the post by ... and would like to reply. *([[B1-14 Forumsbeitrag und Leserbrief schreiben|Bezug nehmen]] · B1)*
+- **Mit großem Interesse habe ich Ihre Anzeige gelesen.** — I read your advertisement with great interest. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Bezug auf Anzeige]] · B2)*
+
 **Source:** Netzwerk neu A1 K1 2a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

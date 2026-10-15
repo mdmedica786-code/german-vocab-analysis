@@ -29,6 +29,11 @@ status: "new"
 > Die Familie stärkte ihr in der schweren Zeit den Rücken.
 > *The family backed her up in the difficult time.*
 
+**Phrases & Expressions:**
+- **den Rücken stärken** — *to back someone up*
+- **jemandem den Rücken freihalten** — *to back someone up*
+- **unterstützen** — *to back someone up*
+
 **Collocations**
 - den Rücken stärken
 - jemandem den Rücken freihalten

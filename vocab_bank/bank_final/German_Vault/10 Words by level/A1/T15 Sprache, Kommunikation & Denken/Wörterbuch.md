@@ -35,6 +35,9 @@ status: "new"
 > Ich muss das Wort im Wörterbuch nachschlagen.
 > *I have to look the word up in the dictionary.*
 
+**Phrases & Expressions:**
+- **Ich muss das Wort im Wörterbuch nachschlagen** — *I have to look the word up in the dictionary* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 10a (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

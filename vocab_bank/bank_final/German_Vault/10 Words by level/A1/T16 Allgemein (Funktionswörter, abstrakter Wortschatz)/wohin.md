@@ -32,6 +32,9 @@ status: "new"
 > Wohin fährt dieser Bus?
 > **
 
+**Phrases & Expressions:**
+- **Wohin fährt dieser Bus** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 5a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

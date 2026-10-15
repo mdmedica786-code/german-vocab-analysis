@@ -35,6 +35,9 @@ status: "new"
 > Der Unterricht ist in Raum 332.
 > *The lesson is in room 332.*
 
+**Phrases & Expressions:**
+- **Der Unterricht ist in Raum 332** — *The lesson is in room 332* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 10a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

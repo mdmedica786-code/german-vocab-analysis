@@ -32,6 +32,11 @@ status: "new"
 > Die Firma investiert viel Geld in neue Maschinen.
 > *The company invests a lot of money in new machines.*
 
+**Phrases & Expressions:**
+- **Geld investieren** — *to invest*
+- **in etwas investieren** — *to invest*
+- **Zeit investieren** — *to invest*
+
 **Collocations**
 - Geld investieren
 - in etwas investieren

@@ -35,6 +35,9 @@ status: "new"
 > Das Krokodil liegt am Fluss.
 > *The crocodile is lying by the river.*
 
+**Phrases & Expressions:**
+- **Das Krokodil liegt am Fluss** — *The crocodile is lying by the river* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12 ÜB (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

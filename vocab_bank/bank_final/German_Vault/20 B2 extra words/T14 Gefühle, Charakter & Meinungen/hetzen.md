@@ -31,6 +31,11 @@ status: "new"
 > Ich bin den ganzen Tag durch die Stadt gehetzt.
 > *I rushed around the city all day.*
 
+**Phrases & Expressions:**
+- **sich hetzen** — *to rush; to incite*
+- **gegen jemanden hetzen** — *to rush; to incite*
+- **durch die Stadt hetzen** — *to rush; to incite*
+
 **Collocations**
 - sich hetzen
 - gegen jemanden hetzen

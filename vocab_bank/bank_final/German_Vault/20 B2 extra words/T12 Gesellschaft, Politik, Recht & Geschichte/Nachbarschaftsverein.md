@@ -33,6 +33,11 @@ status: "new"
 > Der Nachbarschaftsverein organisiert ein Straßenfest.
 > *The neighbourhood association is organising a street party.*
 
+**Phrases & Expressions:**
+- **im Nachbarschaftsverein** — *neighbourhood association*
+- **einen Nachbarschaftsverein gründen** — *neighbourhood association*
+- **ein Nachbarschaftsverein im Viertel** — *neighbourhood association*
+
 **Collocations**
 - im Nachbarschaftsverein
 - einen Nachbarschaftsverein gründen

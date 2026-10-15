@@ -31,6 +31,9 @@ status: "new"
 > Ciao, bis morgen!
 > *Bye, see you tomorrow!*
 
+**Phrases & Expressions:**
+- **Ciao, bis morgen** — *Bye, see you tomorrow* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 2a (Guten Tag!)
 <!-- bank:end -->
 

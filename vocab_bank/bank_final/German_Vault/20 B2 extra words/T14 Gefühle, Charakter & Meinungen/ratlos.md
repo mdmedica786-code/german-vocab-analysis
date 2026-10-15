@@ -29,6 +29,11 @@ status: "new"
 > Die Ärzte standen dem Fall ratlos gegenüber.
 > *The doctors were at a loss when faced with the case.*
 
+**Phrases & Expressions:**
+- **ratlos sein** — *at a loss; helpless*
+- **ratlos wirken** — *at a loss; helpless*
+- **jemanden ratlos zurücklassen** — *at a loss; helpless*
+
 **Collocations**
 - ratlos sein
 - ratlos wirken

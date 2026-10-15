@@ -29,6 +29,11 @@ status: "new"
 > Sein Verhalten ist mir völlig rätselhaft.
 > *His behaviour is completely puzzling to me.*
 
+**Phrases & Expressions:**
+- **rätselhaft sein** — *mysterious; puzzling*
+- **eine rätselhafte Geschichte** — *mysterious; puzzling*
+- **unter rätselhaften Umständen** — *mysterious; puzzling*
+
 **Collocations**
 - rätselhaft sein
 - eine rätselhafte Geschichte

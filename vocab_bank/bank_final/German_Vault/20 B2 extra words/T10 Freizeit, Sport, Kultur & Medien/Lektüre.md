@@ -33,6 +33,11 @@ status: "new"
 > Diese Lektüre ist für Anfänger gut geeignet.
 > *This reading is well suited for beginners.*
 
+**Phrases & Expressions:**
+- **eine spannende Lektüre** — *reading; reading matter*
+- **leichte Lektüre** — *reading; reading matter*
+- **zur Lektüre empfehlen** — *reading; reading matter*
+
 **Collocations**
 - eine spannende Lektüre
 - leichte Lektüre

@@ -33,6 +33,11 @@ status: "new"
 > Wir sichern Ihnen absolute Vertraulichkeit zu.
 > *We assure you of absolute confidentiality.*
 
+**Phrases & Expressions:**
+- **Vertraulichkeit zusichern** — *confidentiality*
+- **streng vertraulich** — *confidentiality*
+- **Wahrung der Vertraulichkeit** — *confidentiality*
+
 **Collocations**
 - Vertraulichkeit zusichern
 - streng vertraulich

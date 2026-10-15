@@ -33,6 +33,11 @@ status: "new"
 > Bei der Kontrolle nimmt die Behörde nur eine Stichprobe.
 > *During the inspection the authority only takes a sample.*
 
+**Phrases & Expressions:**
+- **eine Stichprobe nehmen** — *sample; spot check*
+- **eine repräsentative Stichprobe** — *sample; spot check*
+- **Stichproben durchführen** — *sample; spot check*
+
 **Collocations**
 - eine Stichprobe nehmen
 - eine repräsentative Stichprobe

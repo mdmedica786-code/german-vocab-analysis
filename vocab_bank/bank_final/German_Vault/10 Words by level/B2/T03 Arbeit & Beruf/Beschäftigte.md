@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Beschäftigten bekommen mehr Lohn.
 > *The employees will get more pay.*
+
+**Phrases & Expressions:**
+- **Die Beschäftigten bekommen mehr Lohn** — *The employees will get more pay* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

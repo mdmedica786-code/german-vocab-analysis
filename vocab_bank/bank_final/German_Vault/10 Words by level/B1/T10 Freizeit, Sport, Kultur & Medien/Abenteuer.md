@@ -35,6 +35,9 @@ status: "new"
 > Unser Urlaub war ein tolles Abenteuer.
 > *Our holiday was a great adventure.*
 
+**Phrases & Expressions:**
+- **Unser Urlaub war ein tolles Abenteuer** — *Our holiday was a great adventure* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 9a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

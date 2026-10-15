@@ -29,6 +29,11 @@ status: "new"
 > Das Messer ist stumpf und schneidet nicht mehr.
 > *The knife is blunt and no longer cuts.*
 
+**Phrases & Expressions:**
+- **ein stumpfes Messer** — *blunt; dull*
+- **stumpfe Farben** — *blunt; dull*
+- **stumpf werden** — *blunt; dull*
+
 **Collocations**
 - ein stumpfes Messer
 - stumpfe Farben

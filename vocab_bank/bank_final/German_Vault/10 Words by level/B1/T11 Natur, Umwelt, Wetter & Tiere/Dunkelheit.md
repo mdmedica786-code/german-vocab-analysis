@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Bei Dunkelheit sieht man schlecht.
 > *In darkness you can't see well.*
+
+**Phrases & Expressions:**
+- **Bei Dunkelheit sieht man schlecht** — *In darkness you can't see well* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

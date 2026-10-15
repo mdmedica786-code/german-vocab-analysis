@@ -34,6 +34,9 @@ status: "new"
 > Die Schreinerin repariert den alten Tisch.
 > *The carpenter is repairing the old table.*
 
+**Phrases & Expressions:**
+- **Die Schreinerin repariert den alten Tisch** — *The carpenter is repairing the old table* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

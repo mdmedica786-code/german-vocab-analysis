@@ -33,6 +33,11 @@ status: "new"
 > Der Bibliothekar hilft bei der Suche nach Büchern.
 > *The librarian helps with the search for books.*
 
+**Phrases & Expressions:**
+- **den Bibliothekar fragen** — *librarian*
+- **als Bibliothekar arbeiten** — *librarian*
+- **ein freundlicher Bibliothekar** — *librarian*
+
 **Collocations**
 - den Bibliothekar fragen
 - als Bibliothekar arbeiten

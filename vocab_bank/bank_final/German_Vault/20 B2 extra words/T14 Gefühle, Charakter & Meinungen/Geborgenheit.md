@@ -33,6 +33,11 @@ status: "new"
 > Kinder brauchen Liebe und Geborgenheit.
 > *Children need love and a sense of security.*
 
+**Phrases & Expressions:**
+- **Geborgenheit spüren** — *security; feeling of safety*
+- **Wärme und Geborgenheit** — *security; feeling of safety*
+- **ein Gefühl der Geborgenheit** — *security; feeling of safety*
+
 **Collocations**
 - Geborgenheit spüren
 - Wärme und Geborgenheit

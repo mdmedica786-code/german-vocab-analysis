@@ -35,6 +35,14 @@ status: "new"
 > Ich bin in einer schwierigen Situation. Ich weiß nicht, was ich tun soll.
 > *I am in a difficult situation. I don't know what to do.*
 
+**Phrases & Expressions:**
+- **Die Situation in meinem Heimatland ist ...** — The situation in my home country is ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Situation beschreiben]] · B1)*
+- **Ich möchte Ihnen ehrlich sagen, dass die Situation ernst ist.** — I would like to tell you honestly that the situation is serious. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Ernst der Lage erklären]] · B2)*
+- **Ich möchte ehrlich zu Ihnen sein: Die Situation ist ernst.** — I want to be honest with you: the situation is serious. *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Ehrlich bleiben]] · B2)*
+- **Zur Situation: Herr Meier hat seit einer Stunde Atemnot.** — On the situation: Mr Meier has had shortness of breath for an hour. *([[FSP-19 Übergabe, Konsil und Rücksprache|SBAR: Situation]] · B2)*
+- **in einer schwierigen Situation sein** — *situation*
+- **die Situation verbessern** — *situation*
+
 **Collocations**
 - in einer schwierigen Situation sein
 - die Situation verbessern

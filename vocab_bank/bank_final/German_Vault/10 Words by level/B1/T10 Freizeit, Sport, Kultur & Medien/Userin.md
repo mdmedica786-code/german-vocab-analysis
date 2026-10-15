@@ -34,6 +34,9 @@ status: "new"
 > Die Userin schreibt einen Kommentar.
 > *The user writes a comment.*
 
+**Phrases & Expressions:**
+- **Die Userin schreibt einen Kommentar** — *The user writes a comment* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

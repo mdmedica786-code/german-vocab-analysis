@@ -30,6 +30,9 @@ status: "new"
 > Vorhin hat Heidrun angerufen. Du sollst sie zurückrufen.
 > *Heidrun called a while ago. You should call her back.*
 
+**Phrases & Expressions:**
+- **Vorhin hat Heidrun angerufen. Du sollst sie zurückrufen** — *Heidrun called a while ago. You should call her back* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

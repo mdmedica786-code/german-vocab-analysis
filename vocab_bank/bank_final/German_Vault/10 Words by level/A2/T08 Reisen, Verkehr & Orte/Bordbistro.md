@@ -34,6 +34,9 @@ status: "new"
 > Im Bordbistro gibt es Kaffee und belegte Brötchen.
 > *In the on-board bistro there is coffee and sandwiches.*
 
+**Phrases & Expressions:**
+- **Im Bordbistro gibt es Kaffee und belegte Brötchen** — *In the on-board bistro there is coffee and sandwiches* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 5a (Ganz schön mobil)
 <!-- bank:end -->
 

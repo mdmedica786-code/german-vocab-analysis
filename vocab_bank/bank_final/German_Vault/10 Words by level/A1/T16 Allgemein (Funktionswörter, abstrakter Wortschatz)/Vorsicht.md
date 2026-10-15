@@ -34,6 +34,9 @@ status: "new"
 > Vorsicht! Da kommt ein Auto.
 > *Careful! A car is coming.*
 
+**Phrases & Expressions:**
+- **Vorsicht! Da kommt ein Auto** — *Careful! A car is coming* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Bitte lesen Sie den Text und die dazugehörigen Aufgaben.
 > *Please read the text and the associated tasks.*
 
+**Phrases & Expressions:**
+- **die dazugehörigen Aufgaben** — *associated; related; belonging to it*
+- **die dazugehörige Liste** — *associated; related; belonging to it*
+- **dazugehörige Unterlagen** — *associated; related; belonging to it*
+
 **Collocations**
 - die dazugehörigen Aufgaben
 - die dazugehörige Liste

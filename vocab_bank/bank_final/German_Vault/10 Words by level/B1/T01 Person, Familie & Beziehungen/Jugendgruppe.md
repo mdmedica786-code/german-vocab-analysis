@@ -34,6 +34,9 @@ status: "new"
 > Die Jugendgruppe trifft sich jeden Freitag.
 > *The youth group meets every Friday.*
 
+**Phrases & Expressions:**
+- **Die Jugendgruppe trifft sich jeden Freitag** — *The youth group meets every Friday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

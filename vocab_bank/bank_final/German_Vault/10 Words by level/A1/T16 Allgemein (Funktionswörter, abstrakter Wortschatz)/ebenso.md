@@ -31,6 +31,12 @@ status: "new"
 > Schöne Feiertage. – Danke, ebenso.
 > *Happy holidays. – Thanks, same to you.*
 
+**Phrases & Expressions:**
+- **ebenso gut** — *also*
+- **ebenso viel** — *also*
+- **ebenso wie** — *also*
+- **ebenso schnell** — *also*
+
 **Collocations**
 - ebenso gut
 - ebenso viel

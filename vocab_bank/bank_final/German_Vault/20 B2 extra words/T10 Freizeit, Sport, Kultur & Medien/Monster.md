@@ -33,6 +33,11 @@ status: "new"
 > Das Kind hat Angst vor Monstern.
 > *The child is afraid of monsters.*
 
+**Phrases & Expressions:**
+- **ein Monster aus dem Film** — *monster*
+- **Monster unter dem Bett** — *monster*
+- **ein Monster besiegen** — *monster*
+
 **Collocations**
 - ein Monster aus dem Film
 - Monster unter dem Bett

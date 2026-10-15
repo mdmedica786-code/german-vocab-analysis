@@ -31,6 +31,9 @@ status: "new"
 > Du fährst viel zu schnell. Bist du wahnsinnig?!
 > *You are driving much too fast. Are you crazy?!*
 
+**Phrases & Expressions:**
+- **Du fährst viel zu schnell. Bist du wahnsinnig** — *You are driving much too fast. Are you crazy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 3c (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

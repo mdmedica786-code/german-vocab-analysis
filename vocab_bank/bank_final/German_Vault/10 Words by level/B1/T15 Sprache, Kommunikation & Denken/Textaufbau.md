@@ -31,6 +31,9 @@ status: "new"
 > Achten Sie auf den Textaufbau.
 > *Pay attention to the structure of the text.*
 
+**Phrases & Expressions:**
+- **Achten Sie auf den Textaufbau** — *Pay attention to the structure of the text* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

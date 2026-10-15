@@ -34,6 +34,9 @@ status: "new"
 > Der Hauptgrund für den Umzug war die Arbeit.
 > *The main reason for the move was work.*
 
+**Phrases & Expressions:**
+- **Der Hauptgrund für den Umzug war die Arbeit** — *The main reason for the move was work* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

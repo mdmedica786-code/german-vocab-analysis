@@ -33,6 +33,11 @@ status: "new"
 > Politisches Kabarett ist in Deutschland sehr beliebt.
 > *Political cabaret is very popular in Germany.*
 
+**Phrases & Expressions:**
+- **ins Kabarett gehen** — *political cabaret; satirical show*
+- **politisches Kabarett** — *political cabaret; satirical show*
+- **ein Kabarettprogramm** — *political cabaret; satirical show*
+
 **Collocations**
 - ins Kabarett gehen
 - politisches Kabarett

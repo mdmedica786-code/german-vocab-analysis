@@ -29,6 +29,11 @@ status: "new"
 > Diese Aufgabe muss vorrangig bearbeitet werden.
 > *This task must be dealt with as a priority.*
 
+**Phrases & Expressions:**
+- **vorrangig behandeln** — *priority; primarily*
+- **eine vorrangige Aufgabe** — *priority; primarily*
+- **vorrangig sein** — *priority; primarily*
+
 **Collocations**
 - vorrangig behandeln
 - eine vorrangige Aufgabe

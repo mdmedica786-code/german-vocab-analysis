@@ -33,6 +33,11 @@ status: "new"
 > Die Firma wurde wegen Betrugs angezeigt.
 > *The company was reported for fraud.*
 
+**Phrases & Expressions:**
+- **Betrug begehen** — *fraud; deception*
+- **wegen Betrugs angeklagt** — *fraud; deception*
+- **Versicherungsbetrug** — *fraud; deception*
+
 **Collocations**
 - Betrug begehen
 - wegen Betrugs angeklagt

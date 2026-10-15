@@ -29,6 +29,11 @@ status: "new"
 > Das Gebäude ist nunmehr barrierefrei.
 > *The building is now accessible.*
 
+**Phrases & Expressions:**
+- **nunmehr gültig** — *now; from now on*
+- **nunmehr bekannt** — *now; from now on*
+- **nunmehr offiziell** — *now; from now on*
+
 **Collocations**
 - nunmehr gültig
 - nunmehr bekannt

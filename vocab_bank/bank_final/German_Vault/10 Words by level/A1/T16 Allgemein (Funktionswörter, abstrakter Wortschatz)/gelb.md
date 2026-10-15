@@ -31,6 +31,9 @@ status: "new"
 > Die Zitrone ist gelb.
 > *The lemon is yellow.*
 
+**Phrases & Expressions:**
+- **Die Zitrone ist gelb** — *The lemon is yellow* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 9a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

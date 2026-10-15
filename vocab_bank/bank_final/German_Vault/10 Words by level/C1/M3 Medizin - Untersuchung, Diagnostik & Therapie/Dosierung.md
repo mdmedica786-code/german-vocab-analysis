@@ -33,6 +33,13 @@ status: "new"
 > Die Dosierung hängt vom Gewicht ab.
 > *The dosage depends on weight.*
 
+**Phrases & Expressions:**
+- **Können Sie mir sagen, wie hoch die Dosierung ist?** — Can you tell me how high the dose is? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Dauermedikation]] · B2)*
+- **die Dosierung anpassen** — *dosage*
+- **richtige Dosierung** — *dosage*
+- **die Dosierung beachten** — *dosage*
+- **die Dosierung reduzieren** — *dosage*
+
 **Collocations**
 - die Dosierung anpassen
 - richtige Dosierung

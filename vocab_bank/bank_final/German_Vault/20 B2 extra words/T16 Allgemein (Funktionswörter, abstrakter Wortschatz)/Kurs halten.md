@@ -26,6 +26,10 @@ status: "new"
 > Das Unternehmen hält trotz der Krise Kurs.
 > *The company holds its course despite the crisis.*
 
+**Phrases & Expressions:**
+- **den Kurs halten** — *to hold one's course*
+- **Kurs ändern** — *to hold one's course*
+
 **Collocations**
 - den Kurs halten
 - Kurs ändern

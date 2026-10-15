@@ -32,6 +32,11 @@ status: "new"
 > Der Film hat viele Zuschauer aufgerüttelt.
 > *The film shook up many viewers.*
 
+**Phrases & Expressions:**
+- **die Öffentlichkeit aufrütteln** — *to shake up; to stir*
+- **jemanden aus dem Schlaf aufrütteln** — *to shake up; to stir*
+- **wachrütteln** — *to shake up; to stir*
+
 **Collocations**
 - die Öffentlichkeit aufrütteln
 - jemanden aus dem Schlaf aufrütteln

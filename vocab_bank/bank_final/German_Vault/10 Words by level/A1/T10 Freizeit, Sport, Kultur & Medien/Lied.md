@@ -35,6 +35,9 @@ status: "new"
 > Zum Geburtstag singen wir dir ein Lied.
 > *For your birthday we'll sing you a song.*
 
+**Phrases & Expressions:**
+- **Zum Geburtstag singen wir dir ein Lied** — *For your birthday we'll sing you a song* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 2a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

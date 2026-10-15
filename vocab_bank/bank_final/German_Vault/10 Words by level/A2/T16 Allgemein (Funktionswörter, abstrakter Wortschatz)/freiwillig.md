@@ -31,6 +31,9 @@ status: "new"
 > Manchmal bleibe ich freiwillig länger im Büro.
 > *Sometimes I voluntarily stay longer in the office.*
 
+**Phrases & Expressions:**
+- **Manchmal bleibe ich freiwillig länger im Büro** — *Sometimes I voluntarily stay longer in the office* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 7a (Nach der Schulzeit) · Goethe word list A2
 <!-- bank:end -->
 

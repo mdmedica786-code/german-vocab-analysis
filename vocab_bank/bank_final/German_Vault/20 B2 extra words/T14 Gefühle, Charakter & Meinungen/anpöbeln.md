@@ -32,6 +32,11 @@ status: "new"
 > Betrunkene haben Passanten angepöbelt.
 > *Drunks verbally abused passers-by.*
 
+**Phrases & Expressions:**
+- **jemanden anpöbeln** — *to harass verbally; to abuse*
+- **angepöbelt werden** — *to harass verbally; to abuse*
+- **Passanten anpöbeln** — *to harass verbally; to abuse*
+
 **Collocations**
 - jemanden anpöbeln
 - angepöbelt werden

@@ -29,6 +29,11 @@ status: "new"
 > Das ist ein bedeutender Fortschritt für die Forschung.
 > *That is a significant advance for research.*
 
+**Phrases & Expressions:**
+- **ein bedeutender Künstler** — *significant; important*
+- **bedeutend besser** — *significant; important*
+- **bedeutende Veränderungen** — *significant; important*
+
 **Collocations**
 - ein bedeutender Künstler
 - bedeutend besser

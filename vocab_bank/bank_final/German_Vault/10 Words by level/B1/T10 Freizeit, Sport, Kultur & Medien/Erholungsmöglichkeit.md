@@ -34,6 +34,9 @@ status: "new"
 > In der Stadt gibt es viele Erholungsmöglichkeiten.
 > *The city has many opportunities for recreation.*
 
+**Phrases & Expressions:**
+- **In der Stadt gibt es viele Erholungsmöglichkeiten** — *The city has many opportunities for recreation* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Der Ehegatte muss den Antrag mit unterschreiben.
 > *The spouse must also sign the application.*
 
+**Phrases & Expressions:**
+- **Der Ehegatte muss den Antrag mit unterschreiben** — *The spouse must also sign the application* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches)
 <!-- bank:end -->
 

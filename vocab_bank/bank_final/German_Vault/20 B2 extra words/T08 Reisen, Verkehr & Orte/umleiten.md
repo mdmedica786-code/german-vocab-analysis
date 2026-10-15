@@ -32,6 +32,11 @@ status: "new"
 > Wegen der Baustelle wird der Verkehr umgeleitet.
 > *Because of the roadworks traffic is being diverted.*
 
+**Phrases & Expressions:**
+- **den Verkehr umleiten** — *to divert; to redirect*
+- **einen Anruf umleiten** — *to divert; to redirect*
+- **umgeleitet werden** — *to divert; to redirect*
+
 **Collocations**
 - den Verkehr umleiten
 - einen Anruf umleiten

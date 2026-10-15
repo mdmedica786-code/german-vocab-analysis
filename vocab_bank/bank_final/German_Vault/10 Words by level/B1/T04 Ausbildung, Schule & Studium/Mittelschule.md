@@ -42,6 +42,9 @@ status: "new"
 > Nach der Mittelschule macht sie eine Lehre.
 > *After secondary school she does an apprenticeship.*
 
+**Phrases & Expressions:**
+- **Nach der Mittelschule macht sie eine Lehre** — *After secondary school she does an apprenticeship* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

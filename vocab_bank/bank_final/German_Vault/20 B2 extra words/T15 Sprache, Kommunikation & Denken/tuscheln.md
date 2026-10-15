@@ -31,6 +31,11 @@ status: "new"
 > Die Schüler tuschelten während des Unterrichts.
 > *The pupils whispered during the lesson.*
 
+**Phrases & Expressions:**
+- **miteinander tuscheln** — *to whisper; to mutter*
+- **hinter vorgehaltener Hand tuscheln** — *to whisper; to mutter*
+- **über jemanden tuscheln** — *to whisper; to mutter*
+
 **Collocations**
 - miteinander tuscheln
 - hinter vorgehaltener Hand tuscheln

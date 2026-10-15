@@ -31,6 +31,10 @@ status: "new"
 > Kommst du heute nicht? - Doch.
 > *Aren't you coming today? – Yes, I am.*
 
+**Phrases & Expressions:**
+- **Wenn ich doch nur mehr Zeit hätte!** — If only I had more time! *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Irrealen Wunsch äußern]] · B1)*
+- **Keine Ursache, das war doch selbstverständlich.** — Don't mention it, that was only natural. *([[B1-17 Sich entschuldigen und danken|Auf Dank reagieren]] · B1)*
+
 **Source:** Netzwerk neu A1 K7 1c (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Das Haus liegt direkt am Hang.
 > *The house lies right on the slope.*
 
+**Phrases & Expressions:**
+- **am Hang** — *slope; tendency*
+- **ein Hang zu etwas** — *slope; tendency*
+- **den Hang hinunter** — *slope; tendency*
+
 **Collocations**
 - am Hang
 - ein Hang zu etwas

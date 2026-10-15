@@ -29,6 +29,11 @@ status: "new"
 > Die Miete ist verhältnismäßig niedrig.
 > *The rent is comparatively low.*
 
+**Phrases & Expressions:**
+- **verhältnismäßig günstig** — *relative; comparatively*
+- **verhältnismäßig wenig** — *relative; comparatively*
+- **verhältnismäßig leicht** — *relative; comparatively*
+
 **Collocations**
 - verhältnismäßig günstig
 - verhältnismäßig wenig

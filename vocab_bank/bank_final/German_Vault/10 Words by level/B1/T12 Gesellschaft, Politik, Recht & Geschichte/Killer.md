@@ -34,6 +34,9 @@ status: "new"
 > Der Killer wurde gefasst.
 > *The killer was caught.*
 
+**Phrases & Expressions:**
+- **Der Killer wurde gefasst** — *The killer was caught* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

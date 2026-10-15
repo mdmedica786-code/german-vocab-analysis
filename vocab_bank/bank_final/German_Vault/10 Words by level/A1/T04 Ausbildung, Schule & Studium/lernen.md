@@ -33,6 +33,11 @@ status: "new"
 > Sie lernt Spanisch.
 > *She's learning Spanish.*
 
+**Phrases & Expressions:**
+- **Ich lerne noch Deutsch, bitte haben Sie Geduld.** — I am still learning German, please be patient. *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Um Geduld bitten]] · B1)*
+- **Ich lerne Deutsch, damit ich ... kann.** — I learn German so that I can ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Zweck]] · B1)*
+- **Wir sollten den Vorfall im Team besprechen, um daraus zu lernen.** — We should discuss the incident in the team in order to learn from it. *([[FSP-19 Übergabe, Konsil und Rücksprache|Fehler ansprechen]] · C1)*
+
 **Source:** Netzwerk neu A1 K1 8a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

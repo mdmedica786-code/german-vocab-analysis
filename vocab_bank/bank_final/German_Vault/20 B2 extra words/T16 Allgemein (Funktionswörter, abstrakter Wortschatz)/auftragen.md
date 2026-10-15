@@ -32,6 +32,11 @@ status: "new"
 > Sie trägt jeden Morgen eine Creme auf.
 > *She applies a cream every morning.*
 
+**Phrases & Expressions:**
+- **Creme auftragen** — *to apply; to spread on; to serve*
+- **Farbe auftragen** — *to apply; to spread on; to serve*
+- **jemandem etwas auftragen** — *to apply; to spread on; to serve*
+
 **Collocations**
 - Creme auftragen
 - Farbe auftragen

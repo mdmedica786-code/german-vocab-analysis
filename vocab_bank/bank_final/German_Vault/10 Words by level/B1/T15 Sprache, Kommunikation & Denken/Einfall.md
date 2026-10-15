@@ -35,6 +35,9 @@ status: "new"
 > Frag einfach meine Freundin. Sie hat immer gute Einfälle.
 > *Just ask my girlfriend. She always has good ideas.*
 
+**Phrases & Expressions:**
+- **Frag einfach meine Freundin. Sie hat immer gute Einfälle** — *Just ask my girlfriend. She always has good ideas* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 8b (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

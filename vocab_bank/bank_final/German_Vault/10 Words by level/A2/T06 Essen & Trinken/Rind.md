@@ -35,6 +35,9 @@ status: "new"
 > Ich esse nur Fleisch vom Rind.
 > *I only eat beef.*
 
+**Phrases & Expressions:**
+- **Ich esse nur Fleisch vom Rind** — *I only eat beef* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 1a (Umweltfreundlich?) · Goethe word list A2
 <!-- bank:end -->
 

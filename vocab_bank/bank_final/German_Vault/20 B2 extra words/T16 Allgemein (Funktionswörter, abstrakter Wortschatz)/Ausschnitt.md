@@ -33,6 +33,11 @@ status: "new"
 > Wir lesen einen kurzen Ausschnitt aus dem Roman.
 > *We are reading a short excerpt from the novel.*
 
+**Phrases & Expressions:**
+- **ein Ausschnitt aus dem Text** — *excerpt; extract; cut-out*
+- **ein kleiner Ausschnitt** — *excerpt; extract; cut-out*
+- **im Ausschnitt zeigen** — *excerpt; extract; cut-out*
+
 **Collocations**
 - ein Ausschnitt aus dem Text
 - ein kleiner Ausschnitt

@@ -34,6 +34,9 @@ status: "new"
 > Am Gepäckband warten viele Reisende.
 > *Many travellers are waiting at the baggage belt.*
 
+**Phrases & Expressions:**
+- **Am Gepäckband warten viele Reisende** — *Many travellers are waiting at the baggage belt* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 12b (Gute Reise!)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Die Limonade ist sehr süß.
 > *The lemonade is very sweet.*
 
+**Phrases & Expressions:**
+- **Die Limonade ist sehr süß** — *The lemonade is very sweet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 6b (Guten Appetit!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Hauptperson in dem Roman ist ein junger Arzt.
 > *The main character in the novel is a young doctor.*
 
+**Phrases & Expressions:**
+- **Die Hauptperson in dem Roman ist ein junger Arzt** — *The main character in the novel is a young doctor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12c (Immer online?)
 <!-- bank:end -->
 

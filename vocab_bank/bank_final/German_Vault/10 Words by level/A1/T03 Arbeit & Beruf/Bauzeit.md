@@ -34,6 +34,9 @@ status: "new"
 > Die Bauzeit des Hauses war zwei Jahre.
 > *The construction period of the house was two years.*
 
+**Phrases & Expressions:**
+- **Die Bauzeit des Hauses war zwei Jahre** — *The construction period of the house was two years* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg)
 <!-- bank:end -->
 

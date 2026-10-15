@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Viele Bürger unterschrieben die Petition.
 > *Many citizens signed the petition.*
+
+**Phrases & Expressions:**
+- **Viele Bürger unterschrieben die Petition** — *Many citizens signed the petition* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

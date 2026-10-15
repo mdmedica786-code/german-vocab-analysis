@@ -29,6 +29,11 @@ status: "new"
 > Sie ist eifersüchtig auf ihre Schwester.
 > *She is jealous of her sister.*
 
+**Phrases & Expressions:**
+- **eifersüchtig sein auf** — *jealous*
+- **ein eifersüchtiger Partner** — *jealous*
+- **eifersüchtig werden** — *jealous*
+
 **Collocations**
 - eifersüchtig sein auf
 - ein eifersüchtiger Partner

@@ -29,6 +29,11 @@ status: "new"
 > Die Zeitung veröffentlicht satirische Texte über Politiker.
 > *The newspaper publishes satirical texts about politicians.*
 
+**Phrases & Expressions:**
+- **ein satirischer Text** — *satirical*
+- **satirisch überspitzen** — *satirical*
+- **eine satirische Sendung** — *satirical*
+
 **Collocations**
 - ein satirischer Text
 - satirisch überspitzen

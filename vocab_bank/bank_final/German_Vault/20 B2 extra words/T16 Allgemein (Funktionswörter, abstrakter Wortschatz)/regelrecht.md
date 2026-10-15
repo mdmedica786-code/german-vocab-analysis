@@ -29,6 +29,11 @@ status: "new"
 > Es war regelrecht ein Wunder.
 > *It was downright a miracle.*
 
+**Phrases & Expressions:**
+- **regelrecht explodieren** — *downright; veritable*
+- **regelrecht süchtig** — *downright; veritable*
+- **eine regelrechte Katastrophe** — *downright; veritable*
+
 **Collocations**
 - regelrecht explodieren
 - regelrecht süchtig

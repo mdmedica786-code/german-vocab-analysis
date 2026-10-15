@@ -33,6 +33,9 @@ status: "new"
 > Ich komme aus Deutschland.
 > *I'm from Germany.*
 
+**Phrases & Expressions:**
+- **Ich komme aus Deutschland** — *I'm from Germany* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 3b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

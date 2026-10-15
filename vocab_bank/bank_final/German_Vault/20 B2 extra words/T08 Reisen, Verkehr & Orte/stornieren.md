@@ -31,6 +31,11 @@ status: "new"
 > Ich muss leider den Flug stornieren.
 > *Unfortunately I have to cancel the flight.*
 
+**Phrases & Expressions:**
+- **eine Buchung stornieren** — *to cancel (a booking, an order)*
+- **den Flug stornieren** — *to cancel (a booking, an order)*
+- **eine Bestellung stornieren** — *to cancel (a booking, an order)*
+
 **Collocations**
 - eine Buchung stornieren
 - den Flug stornieren

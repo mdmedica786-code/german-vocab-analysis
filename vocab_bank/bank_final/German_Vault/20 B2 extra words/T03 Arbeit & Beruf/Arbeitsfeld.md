@@ -33,6 +33,11 @@ status: "new"
 > Ihr Arbeitsfeld umfasst Beratung und Organisation.
 > *Her field of work includes consulting and organisation.*
 
+**Phrases & Expressions:**
+- **ein breites Arbeitsfeld** — *field of work*
+- **das Arbeitsfeld wechseln** — *field of work*
+- **in einem Arbeitsfeld tätig sein** — *field of work*
+
 **Collocations**
 - ein breites Arbeitsfeld
 - das Arbeitsfeld wechseln

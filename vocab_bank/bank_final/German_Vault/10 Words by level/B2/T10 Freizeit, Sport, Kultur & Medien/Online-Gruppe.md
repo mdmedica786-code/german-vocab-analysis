@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Ich bin in einer Online-Gruppe für Eltern.
 > *I am in an online group for parents.*
+
+**Phrases & Expressions:**
+- **Ich bin in einer Online-Gruppe für Eltern** — *I am in an online group for parents* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

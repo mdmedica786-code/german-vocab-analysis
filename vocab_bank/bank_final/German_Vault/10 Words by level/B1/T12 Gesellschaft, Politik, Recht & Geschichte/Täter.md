@@ -34,6 +34,9 @@ status: "new"
 > Die Polizei hat den Täter endlich gefasst.
 > *The police have finally caught the culprit.*
 
+**Phrases & Expressions:**
+- **Die Polizei hat den Täter endlich gefasst** — *The police have finally caught the culprit* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

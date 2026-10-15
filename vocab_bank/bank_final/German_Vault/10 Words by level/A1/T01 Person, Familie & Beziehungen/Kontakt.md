@@ -35,6 +35,9 @@ status: "new"
 > Meine Freunde und ich haben viel Kontakt.
 > *My friends and I have a lot of contact.*
 
+**Phrases & Expressions:**
+- **Haben Sie Haustiere oder Kontakt zu Tieren?** — Do you have pets or contact with animals? *([[FSP-05 Familien- und Sozialanamnese|Haustiere und Umfeld]] · B1)*
+
 **Source:** Netzwerk neu A1 K7 7b (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->
 

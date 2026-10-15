@@ -31,6 +31,11 @@ status: "new"
 > Das Gespräch hat die Lage etwas entschärft.
 > *The conversation defused the situation somewhat.*
 
+**Phrases & Expressions:**
+- **eine Situation entschärfen** — *to defuse; to tone down*
+- **einen Konflikt entschärfen** — *to defuse; to tone down*
+- **eine Bombe entschärfen** — *to defuse; to tone down*
+
 **Collocations**
 - eine Situation entschärfen
 - einen Konflikt entschärfen

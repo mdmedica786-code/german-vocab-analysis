@@ -33,6 +33,11 @@ status: "new"
 > Das Betriebsklima in unserer Abteilung ist sehr gut.
 > *The working atmosphere in our department is very good.*
 
+**Phrases & Expressions:**
+- **ein gutes Betriebsklima** — *working atmosphere*
+- **das Betriebsklima verbessern** — *working atmosphere*
+- **schlechtes Betriebsklima** — *working atmosphere*
+
 **Collocations**
 - ein gutes Betriebsklima
 - das Betriebsklima verbessern

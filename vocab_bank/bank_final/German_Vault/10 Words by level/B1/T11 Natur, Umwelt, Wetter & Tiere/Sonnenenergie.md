@@ -34,6 +34,9 @@ status: "new"
 > Sonnenenergie ist umweltfreundlich.
 > *Solar energy is environmentally friendly.*
 
+**Phrases & Expressions:**
+- **Sonnenenergie ist umweltfreundlich** — *Solar energy is environmentally friendly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

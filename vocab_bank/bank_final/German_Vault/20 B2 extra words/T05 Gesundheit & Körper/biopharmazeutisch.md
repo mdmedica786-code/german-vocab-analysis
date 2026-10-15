@@ -26,6 +26,11 @@ status: "new"
 > Sie arbeitet in einem biopharmazeutischen Unternehmen.
 > *She works in a biopharmaceutical company.*
 
+**Phrases & Expressions:**
+- **biopharmazeutische Produkte** — *biopharmaceutical*
+- **ein biopharmazeutisches Unternehmen** — *biopharmaceutical*
+- **biopharmazeutisch hergestellt** — *biopharmaceutical*
+
 **Collocations**
 - biopharmazeutische Produkte
 - ein biopharmazeutisches Unternehmen

@@ -33,6 +33,11 @@ status: "new"
 > Für die Beglaubigung der Kopie zahlen Sie fünf Euro.
 > *For certifying the copy you pay five euros.*
 
+**Phrases & Expressions:**
+- **eine Beglaubigung beantragen** — *certification (of a document)*
+- **Beglaubigung durch das Amt** — *certification (of a document)*
+- **amtliche Beglaubigung** — *certification (of a document)*
+
 **Collocations**
 - eine Beglaubigung beantragen
 - Beglaubigung durch das Amt

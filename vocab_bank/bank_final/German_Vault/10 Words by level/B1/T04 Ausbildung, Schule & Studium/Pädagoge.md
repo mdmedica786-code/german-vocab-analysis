@@ -34,6 +34,9 @@ status: "new"
 > Der Pädagoge arbeitet an einer Grundschule.
 > *The educator works at a primary school.*
 
+**Phrases & Expressions:**
+- **Der Pädagoge arbeitet an einer Grundschule** — *The educator works at a primary school* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 5b (Blick nach vorn)
 <!-- bank:end -->
 

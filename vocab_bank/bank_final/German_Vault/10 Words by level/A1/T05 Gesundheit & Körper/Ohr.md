@@ -35,6 +35,9 @@ status: "new"
 > Das Baby hat aber kleine Ohren!
 > *The baby has tiny ears!*
 
+**Phrases & Expressions:**
+- **Das Baby hat aber kleine Ohren** — *The baby has tiny ears* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 6b ÜB (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

@@ -29,6 +29,10 @@ status: "new"
 > Er wollte um jeden Preis gewinnen.
 > *He wanted to win at all costs.*
 
+**Phrases & Expressions:**
+- **um keinen Preis** — *at all costs*
+- **unbedingt** — *at all costs*
+
 **Collocations**
 - um keinen Preis
 - unbedingt

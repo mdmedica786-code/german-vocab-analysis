@@ -32,6 +32,12 @@ status: "new"
 > Sie postet jeden Tag ein Foto.
 > *She posts a photo every day.*
 
+**Phrases & Expressions:**
+- **ein Foto posten** — *to post*
+- **einen Kommentar posten** — *to post*
+- **im Internet posten** — *to post*
+- **etwas auf Instagram posten** — *to post*
+
 **Collocations**
 - ein Foto posten
 - einen Kommentar posten

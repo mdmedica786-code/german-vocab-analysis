@@ -29,6 +29,9 @@ status: "new"
 > Letztlich entscheidet jeder selbst.
 > *In the end everyone decides for themselves.*
 
+**Phrases & Expressions:**
+- **Letztlich entscheidet jeder selbst** — *In the end everyone decides for themselves* *(Beispiel im Kontext)*
+
 **Exam use:** Sprechen, Schreiben
 <!-- bank:end -->
 

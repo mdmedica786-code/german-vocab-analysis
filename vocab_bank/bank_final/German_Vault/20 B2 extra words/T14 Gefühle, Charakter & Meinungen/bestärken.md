@@ -31,6 +31,11 @@ status: "new"
 > Ihre Worte haben mich in meinem Entschluss bestärkt.
 > *Her words reinforced me in my decision.*
 
+**Phrases & Expressions:**
+- **jemanden bestärken** — *to reinforce; to encourage*
+- **in einer Meinung bestärken** — *to reinforce; to encourage*
+- **sich bestärkt fühlen** — *to reinforce; to encourage*
+
 **Collocations**
 - jemanden bestärken
 - in einer Meinung bestärken

@@ -34,6 +34,9 @@ status: "new"
 > Nach „sehen“ steht der Akkusativ.
 > *After “sehen” comes the accusative.*
 
+**Phrases & Expressions:**
+- **Nach „sehen“ steht der Akkusativ** — *After “sehen” comes the accusative* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 3d (Guten Appetit!)
 <!-- bank:end -->
 

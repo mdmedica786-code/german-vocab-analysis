@@ -33,6 +33,9 @@ status: "new"
 > Eltern beschützen ihre Kinder vor Gefahren.
 > *Parents protect their children from dangers.*
 
+**Phrases & Expressions:**
+- **Eltern beschützen ihre Kinder vor Gefahren** — *Parents protect their children from dangers* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt)
 <!-- bank:end -->
 

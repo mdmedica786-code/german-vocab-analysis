@@ -31,6 +31,9 @@ status: "new"
 > Ich suche ein möbliertes Zimmer.
 > *I'm looking for a furnished room.*
 
+**Phrases & Expressions:**
+- **Ich suche ein möbliertes Zimmer** — *I'm looking for a furnished room* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 6b (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Viele Flüchtlinge suchen Schutz in Europa.
 > *Many refugees seek protection in Europe.*
 
+**Phrases & Expressions:**
+- **Viele Flüchtlinge suchen Schutz in Europa** — *Many refugees seek protection in Europe* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

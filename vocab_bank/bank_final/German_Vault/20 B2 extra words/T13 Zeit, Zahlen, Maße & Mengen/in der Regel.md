@@ -29,6 +29,10 @@ status: "new"
 > In der Regel beginnt der Unterricht um acht Uhr.
 > *As a rule lessons start at eight o'clock.*
 
+**Phrases & Expressions:**
+- **in aller Regel** — *as a rule; usually*
+- **normalerweise** — *as a rule; usually*
+
 **Collocations**
 - in aller Regel
 - normalerweise

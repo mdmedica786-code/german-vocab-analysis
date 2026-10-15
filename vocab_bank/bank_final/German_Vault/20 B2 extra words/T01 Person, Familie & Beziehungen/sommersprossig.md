@@ -29,6 +29,11 @@ status: "new"
 > Das sommersprossige Mädchen lachte fröhlich.
 > *The freckled girl laughed happily.*
 
+**Phrases & Expressions:**
+- **ein sommersprossiges Gesicht** — *freckled*
+- **sommersprossig sein** — *freckled*
+- **sommersprossige Haut** — *freckled*
+
 **Collocations**
 - ein sommersprossiges Gesicht
 - sommersprossig sein

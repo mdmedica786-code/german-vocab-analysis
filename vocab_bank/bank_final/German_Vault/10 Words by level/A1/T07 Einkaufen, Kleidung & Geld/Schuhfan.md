@@ -31,6 +31,9 @@ status: "new"
 > Meine Schwester ist ein großer Schuhfan.
 > *My sister is a big shoe fan.*
 
+**Phrases & Expressions:**
+- **Meine Schwester ist ein großer Schuhfan** — *My sister is a big shoe fan* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

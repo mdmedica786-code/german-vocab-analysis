@@ -32,6 +32,9 @@ status: "new"
 > Peter und Helmut sind meine Söhne.
 > **
 
+**Phrases & Expressions:**
+- **Peter und Helmut sind meine Söhne** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1c (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

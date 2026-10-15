@@ -33,6 +33,11 @@ status: "new"
 > In der Höhle wurde die Atemluft knapp.
 > *In the cave the breathing air became scarce.*
 
+**Phrases & Expressions:**
+- **den Atem anhalten** — *air for breathing; breathing air*
+- **frische Atemluft** — *air for breathing; breathing air*
+- **die Atemluft verschmutzen** — *air for breathing; breathing air*
+
 **Collocations**
 - den Atem anhalten
 - frische Atemluft

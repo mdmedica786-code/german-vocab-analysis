@@ -31,6 +31,9 @@ status: "new"
 > Diese Krimireihe hat schon zehn Bände.
 > *This crime series already has ten volumes.*
 
+**Phrases & Expressions:**
+- **Diese Krimireihe hat schon zehn Bände** — *This crime series already has ten volumes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 11c (Zwischenmenschliches)
 <!-- bank:end -->
 

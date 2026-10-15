@@ -33,6 +33,11 @@ status: "new"
 > Über Mitteleuropa herrscht Hochdruck, deshalb bleibt es sonnig und trocken.
 > *High pressure prevails over central Europe, so it stays sunny and dry.*
 
+**Phrases & Expressions:**
+- **unter Hochdruck** — *high pressure*
+- **Hochdruckgebiet** — *high pressure*
+- **Hochdruck über Mitteleuropa** — *high pressure*
+
 **Collocations**
 - unter Hochdruck
 - Hochdruckgebiet

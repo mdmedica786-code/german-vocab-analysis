@@ -29,6 +29,10 @@ status: "new"
 > Wenn man ihn ständig unterbricht, fährt er aus der Haut.
 > *If you constantly interrupt him he blows his top.*
 
+**Phrases & Expressions:**
+- **zum Aus-der-Haut-Fahren** — *to blow one's top*
+- **in die Luft gehen** — *to blow one's top*
+
 **Collocations**
 - zum Aus-der-Haut-Fahren
 - in die Luft gehen

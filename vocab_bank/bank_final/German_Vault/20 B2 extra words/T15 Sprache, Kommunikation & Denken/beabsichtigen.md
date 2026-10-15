@@ -31,6 +31,11 @@ status: "new"
 > Wir beabsichtigen, im Sommer umzuziehen.
 > *We intend to move in the summer.*
 
+**Phrases & Expressions:**
+- **beabsichtigen, zu** — *to intend; to plan*
+- **etwas beabsichtigen** — *to intend; to plan*
+- **nicht beabsichtigt** — *to intend; to plan*
+
 **Collocations**
 - beabsichtigen, zu
 - etwas beabsichtigen

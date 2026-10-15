@@ -34,6 +34,9 @@ status: "new"
 > Der Wortstamm von lesen ist les.
 > *The stem of lesen is les.*
 
+**Phrases & Expressions:**
+- **Der Wortstamm von lesen ist les** — *The stem of lesen is les* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 9a (Geld regiert die Welt?)
 <!-- bank:end -->
 

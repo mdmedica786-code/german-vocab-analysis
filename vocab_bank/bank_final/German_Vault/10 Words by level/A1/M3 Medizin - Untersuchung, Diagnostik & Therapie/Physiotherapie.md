@@ -34,6 +34,9 @@ status: "new"
 > Nach der Operation brauche ich Physiotherapie.
 > *After the operation I need physiotherapy.*
 
+**Phrases & Expressions:**
+- **Nach der Operation brauche ich Physiotherapie** — *After the operation I need physiotherapy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13a (Fit und gesund)
 <!-- bank:end -->
 

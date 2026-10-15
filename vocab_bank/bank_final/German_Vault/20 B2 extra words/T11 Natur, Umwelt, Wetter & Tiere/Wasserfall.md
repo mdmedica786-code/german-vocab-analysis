@@ -33,6 +33,11 @@ status: "new"
 > Der Wasserfall stürzt zwanzig Meter in die Tiefe.
 > *The waterfall plunges twenty metres down.*
 
+**Phrases & Expressions:**
+- **ein Wasserfall rauscht** — *waterfall*
+- **zum Wasserfall wandern** — *waterfall*
+- **ein hoher Wasserfall** — *waterfall*
+
 **Collocations**
 - ein Wasserfall rauscht
 - zum Wasserfall wandern

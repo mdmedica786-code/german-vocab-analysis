@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Nahverkehr in der Stadt ist gut ausgebaut.
 > *Local transport in the city is well developed.*
+
+**Phrases & Expressions:**
+- **Der Nahverkehr in der Stadt ist gut ausgebaut** — *Local transport in the city is well developed* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

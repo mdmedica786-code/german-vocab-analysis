@@ -31,6 +31,11 @@ status: "new"
 > Das Auto versank langsam im Schlamm.
 > *The car slowly sank into the mud.*
 
+**Phrases & Expressions:**
+- **im Schlamm versinken** — *to sink; to be absorbed*
+- **in Gedanken versinken** — *to sink; to be absorbed*
+- **im Meer versinken** — *to sink; to be absorbed*
+
 **Collocations**
 - im Schlamm versinken
 - in Gedanken versinken

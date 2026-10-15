@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Der Patient hat unwillkürliche Bewegungen der Hand.
 > *The patient has involuntary movements of the hand.*
+
+**Phrases & Expressions:**
+- **Der Patient hat unwillkürliche Bewegungen der Hand** — *The patient has involuntary movements of the hand* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

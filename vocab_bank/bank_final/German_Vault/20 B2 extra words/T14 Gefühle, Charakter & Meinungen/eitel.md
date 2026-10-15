@@ -29,6 +29,11 @@ status: "new"
 > Er ist so eitel, dass er ständig in den Spiegel schaut.
 > *He is so vain that he constantly looks in the mirror.*
 
+**Phrases & Expressions:**
+- **eitel sein** — *vain*
+- **ein eitler Mensch** — *vain*
+- **eitel wie ein Pfau** — *vain*
+
 **Collocations**
 - eitel sein
 - ein eitler Mensch

@@ -33,6 +33,11 @@ status: "new"
 > Viele Eltern klagen über Überforderung im Alltag.
 > *Many parents complain of being overwhelmed in everyday life.*
 
+**Phrases & Expressions:**
+- **Überforderung spüren** — *excessive demands; overload*
+- **Überforderung am Arbeitsplatz** — *excessive demands; overload*
+- **Gefühl der Überforderung** — *excessive demands; overload*
+
 **Collocations**
 - Überforderung spüren
 - Überforderung am Arbeitsplatz

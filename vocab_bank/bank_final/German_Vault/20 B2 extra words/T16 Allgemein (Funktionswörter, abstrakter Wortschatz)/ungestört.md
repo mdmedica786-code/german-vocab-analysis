@@ -29,6 +29,11 @@ status: "new"
 > Hier können wir ungestört reden.
 > *Here we can talk undisturbed.*
 
+**Phrases & Expressions:**
+- **ungestört arbeiten** — *undisturbed; uninterrupted*
+- **ungestört bleiben** — *undisturbed; uninterrupted*
+- **ungestört reden** — *undisturbed; uninterrupted*
+
 **Collocations**
 - ungestört arbeiten
 - ungestört bleiben

@@ -35,6 +35,9 @@ status: "new"
 > Sie hat lange Haare.
 > *She has long hair.*
 
+**Phrases & Expressions:**
+- **Er/Sie hat kurze/lange ... Haare.** — He/she has short/long ... hair. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Person beschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 6b ÜB (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

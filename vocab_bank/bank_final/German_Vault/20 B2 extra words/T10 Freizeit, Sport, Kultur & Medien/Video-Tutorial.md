@@ -30,6 +30,11 @@ status: "new"
 > Ich habe mir ein Video-Tutorial zum Thema Nähen angesehen.
 > *I watched a video tutorial on sewing.*
 
+**Phrases & Expressions:**
+- **ein Video-Tutorial ansehen** — *video tutorial*
+- **ein Video-Tutorial erstellen** — *video tutorial*
+- **ein Video-Tutorial zu einem Thema** — *video tutorial*
+
 **Collocations**
 - ein Video-Tutorial ansehen
 - ein Video-Tutorial erstellen

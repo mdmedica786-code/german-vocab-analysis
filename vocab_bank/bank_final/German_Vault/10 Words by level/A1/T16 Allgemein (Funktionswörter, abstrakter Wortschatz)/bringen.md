@@ -33,6 +33,9 @@ status: "new"
 > Bringen Sie mir bitte noch einen Kaffee!
 > *Please bring me another coffee!*
 
+**Phrases & Expressions:**
+- **Bringen Sie mir bitte noch einen Kaffee** — *Please bring me another coffee* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 10b (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

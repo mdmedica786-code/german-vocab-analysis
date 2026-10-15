@@ -33,6 +33,11 @@ status: "new"
 > Die Inanspruchnahme von Leistungen muss beantragt werden.
 > *Using the services must be applied for.*
 
+**Phrases & Expressions:**
+- **die Inanspruchnahme von** — *use; claiming; utilisation*
+- **bei Inanspruchnahme** — *use; claiming; utilisation*
+- **die Inanspruchnahme der Leistungen** — *use; claiming; utilisation*
+
 **Collocations**
 - die Inanspruchnahme von
 - bei Inanspruchnahme

@@ -33,6 +33,11 @@ status: "new"
 > Mit der Prepaidkarte kann ich nur telefonieren, solange Guthaben drauf ist.
 > *With the prepaid card I can only make calls as long as there is credit on it.*
 
+**Phrases & Expressions:**
+- **eine Prepaidkarte kaufen** — *prepaid card*
+- **die Prepaidkarte aufladen** — *prepaid card*
+- **mit Prepaidkarte telefonieren** — *prepaid card*
+
 **Collocations**
 - eine Prepaidkarte kaufen
 - die Prepaidkarte aufladen

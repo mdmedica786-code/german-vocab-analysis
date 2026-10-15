@@ -29,6 +29,11 @@ status: "new"
 > Er sprach von Reisen und dergleichen.
 > *He spoke of travelling and the like.*
 
+**Phrases & Expressions:**
+- **und dergleichen** — *such things; the like*
+- **nichts dergleichen** — *such things; the like*
+- **und dergleichen mehr** — *such things; the like*
+
 **Collocations**
 - und dergleichen
 - nichts dergleichen

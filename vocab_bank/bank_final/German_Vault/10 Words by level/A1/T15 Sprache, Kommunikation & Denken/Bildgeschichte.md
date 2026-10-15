@@ -31,6 +31,9 @@ status: "new"
 > Die Kinder erzählen eine Bildgeschichte.
 > *The children tell a story from the pictures.*
 
+**Phrases & Expressions:**
+- **Die Kinder erzählen eine Bildgeschichte** — *The children tell a story from the pictures* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 6a (In Hamburg)
 <!-- bank:end -->
 

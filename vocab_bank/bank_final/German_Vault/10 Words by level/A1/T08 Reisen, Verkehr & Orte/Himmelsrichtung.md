@@ -34,6 +34,9 @@ status: "new"
 > Norden ist eine Himmelsrichtung.
 > *North is a cardinal direction.*
 
+**Phrases & Expressions:**
+- **Norden ist eine Himmelsrichtung** — *North is a cardinal direction* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 11a (Ab in den Urlaub!)
 <!-- bank:end -->
 

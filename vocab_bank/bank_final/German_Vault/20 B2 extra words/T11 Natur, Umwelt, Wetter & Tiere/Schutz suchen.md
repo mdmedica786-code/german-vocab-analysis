@@ -26,6 +26,10 @@ status: "new"
 > Bei dem Gewitter suchten wir Schutz unter einem Baum.
 > *During the thunderstorm we sought shelter under a tree.*
 
+**Phrases & Expressions:**
+- **vor etwas Schutz suchen** — *to seek shelter*
+- **Schutz finden** — *to seek shelter*
+
 **Collocations**
 - vor etwas Schutz suchen
 - Schutz finden

@@ -26,6 +26,10 @@ status: "new"
 > Als Leiterin trägt sie große Verantwortung.
 > *As manager she bears great responsibility.*
 
+**Phrases & Expressions:**
+- **Verantwortung tragen für + Akk.** — *to bear responsibility*
+- **die Verantwortung übernehmen** — *to bear responsibility*
+
 **Collocations**
 - Verantwortung tragen für + Akk.
 - die Verantwortung übernehmen

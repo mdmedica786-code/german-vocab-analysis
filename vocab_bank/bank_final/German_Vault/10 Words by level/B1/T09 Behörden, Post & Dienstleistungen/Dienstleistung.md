@@ -34,6 +34,9 @@ status: "new"
 > Die Bank bietet viele Dienstleistungen an.
 > *The bank offers many services.*
 
+**Phrases & Expressions:**
+- **Die Bank bietet viele Dienstleistungen an** — *The bank offers many services* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 10b (Miteinander)
 <!-- bank:end -->
 

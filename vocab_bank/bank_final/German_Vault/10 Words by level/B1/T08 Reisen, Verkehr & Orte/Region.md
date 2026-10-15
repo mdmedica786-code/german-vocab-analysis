@@ -35,6 +35,9 @@ status: "new"
 > Die Milch ist aus der Region.
 > *The milk is from the region.*
 
+**Phrases & Expressions:**
+- **Die Milch ist aus der Region** — *The milk is from the region* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

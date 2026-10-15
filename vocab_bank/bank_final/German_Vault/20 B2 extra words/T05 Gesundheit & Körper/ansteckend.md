@@ -29,6 +29,11 @@ status: "new"
 > Die Grippe ist sehr ansteckend.
 > *The flu is very contagious.*
 
+**Phrases & Expressions:**
+- **ansteckend sein** — *contagious; infectious*
+- **eine ansteckende Krankheit** — *contagious; infectious*
+- **ansteckend wirken** — *contagious; infectious*
+
 **Collocations**
 - ansteckend sein
 - eine ansteckende Krankheit

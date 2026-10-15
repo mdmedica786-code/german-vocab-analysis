@@ -34,6 +34,9 @@ status: "new"
 > Die Jagd auf Wildschweine beginnt im Herbst.
 > *The hunt for wild boar begins in autumn.*
 
+**Phrases & Expressions:**
+- **Die Jagd auf Wildschweine beginnt im Herbst** — *The hunt for wild boar begins in autumn* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12b (Zwischenmenschliches)
 <!-- bank:end -->
 

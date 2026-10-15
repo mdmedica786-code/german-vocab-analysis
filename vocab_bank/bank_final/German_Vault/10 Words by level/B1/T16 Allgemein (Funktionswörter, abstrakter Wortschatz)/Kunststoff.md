@@ -35,6 +35,9 @@ status: "new"
 > Der Stuhl ist aus Kunststoff.
 > *The chair is made of plastic.*
 
+**Phrases & Expressions:**
+- **Der Stuhl ist aus Kunststoff** — *The chair is made of plastic* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

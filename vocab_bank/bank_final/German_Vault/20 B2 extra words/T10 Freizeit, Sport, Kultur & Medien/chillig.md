@@ -29,6 +29,11 @@ status: "new"
 > Wir hatten einen chilligen Abend auf dem Balkon.
 > *We had a relaxed evening on the balcony.*
 
+**Phrases & Expressions:**
+- **ein chilliger Abend** — *relaxed; chilled-out (colloquial)*
+- **chillig sein** — *relaxed; chilled-out (colloquial)*
+- **eine chillige Atmosphäre** — *relaxed; chilled-out (colloquial)*
+
 **Collocations**
 - ein chilliger Abend
 - chillig sein

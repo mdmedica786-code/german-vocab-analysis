@@ -33,6 +33,11 @@ status: "new"
 > Der Abfluss in der Dusche ist verstopft.
 > *The drain in the shower is blocked.*
 
+**Phrases & Expressions:**
+- **den Abfluss reinigen** — *drain; outflow*
+- **ein verstopfter Abfluss** — *drain; outflow*
+- **der Abfluss ist frei** — *drain; outflow*
+
 **Collocations**
 - den Abfluss reinigen
 - ein verstopfter Abfluss

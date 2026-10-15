@@ -33,6 +33,11 @@ status: "new"
 > Die Partizipation junger Menschen in der Politik wächst.
 > *The participation of young people in politics is growing.*
 
+**Phrases & Expressions:**
+- **politische Partizipation** — *participation; involvement*
+- **die Partizipation fördern** — *participation; involvement*
+- **gesellschaftliche Partizipation** — *participation; involvement*
+
 **Collocations**
 - politische Partizipation
 - die Partizipation fördern

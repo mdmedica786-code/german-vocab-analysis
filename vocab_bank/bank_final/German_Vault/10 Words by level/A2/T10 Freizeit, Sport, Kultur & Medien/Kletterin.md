@@ -34,6 +34,9 @@ status: "new"
 > Die Kletterin erreicht den Gipfel zuerst.
 > *The climber reaches the summit first.*
 
+**Phrases & Expressions:**
+- **Die Kletterin erreicht den Gipfel zuerst** — *The climber reaches the summit first* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 10a (Sportlich, sportlich)
 <!-- bank:end -->
 

@@ -34,6 +34,10 @@ status: "new"
 > Die Familie steht im Mittelpunkt seines Lebens.
 > *Family is the focus of his life.*
 
+**Phrases & Expressions:**
+- **in den Mittelpunkt stellen** — to put at the centre *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **Im Mittelpunkt steht für mich ...** — For me the focus is on ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Schwerpunkt setzen]] · B1)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

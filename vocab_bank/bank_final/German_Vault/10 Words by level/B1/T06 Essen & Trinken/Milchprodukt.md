@@ -34,6 +34,9 @@ status: "new"
 > Milchprodukte sind im Kühlregal.
 > *Dairy products are in the refrigerated section.*
 
+**Phrases & Expressions:**
+- **Milchprodukte sind im Kühlregal** — *Dairy products are in the refrigerated section* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander)
 <!-- bank:end -->
 

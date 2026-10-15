@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Diese Erfahrung hat ihn sehr geprägt.
 > *This experience shaped him greatly.*
+
+**Phrases & Expressions:**
+- **Diese Erfahrung hat ihn sehr geprägt** — *This experience shaped him greatly* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

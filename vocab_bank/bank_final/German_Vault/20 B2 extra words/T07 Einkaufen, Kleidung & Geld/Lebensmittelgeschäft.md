@@ -33,6 +33,11 @@ status: "new"
 > Das nächste Lebensmittelgeschäft liegt zehn Minuten entfernt.
 > *The nearest grocery shop is ten minutes away.*
 
+**Phrases & Expressions:**
+- **im Lebensmittelgeschäft** — *grocery shop*
+- **ein kleines Lebensmittelgeschäft** — *grocery shop*
+- **im Lebensmittelgeschäft einkaufen** — *grocery shop*
+
 **Collocations**
 - im Lebensmittelgeschäft
 - ein kleines Lebensmittelgeschäft

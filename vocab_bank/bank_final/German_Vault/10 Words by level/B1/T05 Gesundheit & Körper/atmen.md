@@ -33,6 +33,12 @@ status: "new"
 > Er hat eine Erkältung und kann nicht durch die Nase atmen.
 > *He has a cold and can't breathe through his nose.*
 
+**Phrases & Expressions:**
+- **Pfeift oder rasselt es beim Atmen?** — Is there wheezing or rattling when you breathe? *([[FSP-06 Systemanamnese (Organsysteme)|Atmung]] · B2)*
+- **Atmen Sie bitte tief ein und aus.** — Please breathe in and out deeply. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Atemanweisung]] · A2)*
+- **Der Patient ist nicht ansprechbar und atmet nicht normal.** — The patient is unresponsive and not breathing normally. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Notfall einschätzen]] · B2)*
+- **Bitte atmen Sie kurz durch, dann klären wir alles.** — Please take a deep breath, then we will sort everything out. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Aufgebrachte beruhigen]] · B2)*
+
 **Source:** Netzwerk neu B1 K8 2a ÜB (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

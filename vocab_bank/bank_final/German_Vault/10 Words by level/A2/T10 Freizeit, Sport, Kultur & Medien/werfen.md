@@ -33,6 +33,12 @@ status: "new"
 > Die Kinder haben Steine ins Wasser geworfen.
 > *The children threw stones into the water.*
 
+**Phrases & Expressions:**
+- **einen Stein werfen** — *to throw*
+- **den Ball werfen** — *to throw*
+- **einen Blick auf etwas werfen** — *to throw*
+- **Schatten werfen** — *to throw*
+
 **Collocations**
 - einen Stein werfen
 - den Ball werfen

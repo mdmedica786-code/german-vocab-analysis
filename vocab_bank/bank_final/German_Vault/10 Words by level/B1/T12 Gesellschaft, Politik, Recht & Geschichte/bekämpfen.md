@@ -32,6 +32,9 @@ status: "new"
 > Die Regierung will die Armut bekämpfen.
 > *The government wants to fight poverty.*
 
+**Phrases & Expressions:**
+- **Die Regierung will die Armut bekämpfen** — *The government wants to fight poverty* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?)
 <!-- bank:end -->
 

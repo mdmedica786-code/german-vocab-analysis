@@ -35,6 +35,9 @@ status: "new"
 > Wasch dir bitte das Gesicht.
 > *Please wash your face.*
 
+**Phrases & Expressions:**
+- **Wasch dir bitte das Gesicht** — *Please wash your face* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 6b ÜB (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

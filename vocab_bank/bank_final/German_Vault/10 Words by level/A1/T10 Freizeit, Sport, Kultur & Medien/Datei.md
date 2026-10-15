@@ -35,6 +35,9 @@ status: "new"
 > Wo hast du die Datei gespeichert?
 > *Where did you save the file?*
 
+**Phrases & Expressions:**
+- **Wo hast du die Datei gespeichert** — *Where did you save the file* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 6a (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->
 

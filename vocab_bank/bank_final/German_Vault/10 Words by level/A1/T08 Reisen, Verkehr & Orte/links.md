@@ -31,6 +31,10 @@ status: "new"
 > Gehen Sie die nächste Straße links.
 > *Take the next street on the left.*
 
+**Phrases & Expressions:**
+- **nach links** — to the left *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A1)*
+- **Das Atemgeräusch ist links abgeschwächt.** — The breath sounds are diminished on the left. *([[FSP-08 Befunde beschreiben und berichten|Auffälligkeit formulieren]] · C1)*
+
 **Source:** Netzwerk neu A1 K3 7a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Ein Fünftel der Schüler fehlt heute.
 > *A fifth of the pupils are absent today.*
 
+**Phrases & Expressions:**
+- **Ein Fünftel der Schüler fehlt heute** — *A fifth of the pupils are absent today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

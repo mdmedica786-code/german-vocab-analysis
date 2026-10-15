@@ -33,6 +33,11 @@ status: "new"
 > Die Vergrößerung des Fotos kostet extra.
 > *The enlargement of the photo costs extra.*
 
+**Phrases & Expressions:**
+- **eine Vergrößerung des Bildes** — *enlargement; expansion*
+- **die Vergrößerung der Wohnung** — *enlargement; expansion*
+- **starke Vergrößerung** — *enlargement; expansion*
+
 **Collocations**
 - eine Vergrößerung des Bildes
 - die Vergrößerung der Wohnung

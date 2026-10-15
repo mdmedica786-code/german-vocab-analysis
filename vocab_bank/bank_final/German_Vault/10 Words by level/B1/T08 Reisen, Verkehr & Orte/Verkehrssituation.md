@@ -34,6 +34,9 @@ status: "new"
 > Die Verkehrssituation in der Innenstadt ist schwierig.
 > *The traffic situation in the city centre is difficult.*
 
+**Phrases & Expressions:**
+- **Die Verkehrssituation in der Innenstadt ist schwierig** — *The traffic situation in the city centre is difficult* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 8d (Blick nach vorn)
 <!-- bank:end -->
 

@@ -42,6 +42,9 @@ status: "new"
 > Den Salat machen wir ohne Öl.
 > *We make the salad without oil.*
 
+**Phrases & Expressions:**
+- **Den Salat machen wir ohne Öl** — *We make the salad without oil* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

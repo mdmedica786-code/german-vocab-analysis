@@ -35,6 +35,9 @@ status: "new"
 > In unserer Straße gibt es ein neues Lokal.
 > *There is a new restaurant on our street.*
 
+**Phrases & Expressions:**
+- **In unserer Straße gibt es ein neues Lokal** — *There is a new restaurant on our street* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

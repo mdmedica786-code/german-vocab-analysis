@@ -33,6 +33,11 @@ status: "new"
 > Die Vorsilbe „un-" macht ein Wort negativ.
 > *The prefix "un-" makes a word negative.*
 
+**Phrases & Expressions:**
+- **eine Vorsilbe hinzufügen** — *prefix*
+- **trennbare Vorsilbe** — *prefix*
+- **die Vorsilbe eines Verbs** — *prefix*
+
 **Collocations**
 - eine Vorsilbe hinzufügen
 - trennbare Vorsilbe

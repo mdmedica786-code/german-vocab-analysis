@@ -35,6 +35,9 @@ status: "new"
 > Nach meiner Rückkehr haben wir ein großes Fest gefeiert.
 > *After my return we celebrated a big party.*
 
+**Phrases & Expressions:**
+- **Nach meiner Rückkehr haben wir ein großes Fest gefeiert** — *After my return we celebrated a big party* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

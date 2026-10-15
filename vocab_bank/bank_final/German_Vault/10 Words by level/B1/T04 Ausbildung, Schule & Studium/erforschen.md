@@ -32,6 +32,9 @@ status: "new"
 > Wissenschaftler erforschen das Klima.
 > *Scientists are researching the climate.*
 
+**Phrases & Expressions:**
+- **Wissenschaftler erforschen das Klima** — *Scientists are researching the climate* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?)
 <!-- bank:end -->
 

@@ -33,6 +33,9 @@ status: "new"
 > Ich muss heute in meiner Wohnung noch staubsaugen.
 > *I still have to vacuum my flat today.*
 
+**Phrases & Expressions:**
+- **Ich muss heute in meiner Wohnung noch staubsaugen** — *I still have to vacuum my flat today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 1a (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

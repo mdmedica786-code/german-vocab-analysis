@@ -32,6 +32,13 @@ status: "new"
 > Ihre Leistung ragt aus dem Durchschnitt heraus.
 > *Her performance stands out from the average.*
 
+**Phrases & Expressions:**
+- **es stellte sich heraus, dass ...** — it turned out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **es stellt sich heraus, dass ...** — it turns out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **aus der Menge herausragen** — *to stand out; to protrude*
+- **herausragende Leistungen** — *to stand out; to protrude*
+- **aus dem Wasser herausragen** — *to stand out; to protrude*
+
 **Collocations**
 - aus der Menge herausragen
 - herausragende Leistungen

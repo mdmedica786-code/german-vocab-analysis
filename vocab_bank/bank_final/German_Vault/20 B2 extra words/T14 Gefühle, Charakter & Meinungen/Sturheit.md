@@ -33,6 +33,11 @@ status: "new"
 > Seine Sturheit macht Diskussionen schwierig.
 > *His stubbornness makes discussions difficult.*
 
+**Phrases & Expressions:**
+- **pure Sturheit** — *stubbornness*
+- **aus Sturheit** — *stubbornness*
+- **Sturheit zeigen** — *stubbornness*
+
 **Collocations**
 - pure Sturheit
 - aus Sturheit

@@ -35,6 +35,9 @@ status: "new"
 > Dieses Medikament mit viel Flüssigkeit einnehmen.
 > *Take this medicine with plenty of fluid.*
 
+**Phrases & Expressions:**
+- **Dieses Medikament mit viel Flüssigkeit einnehmen** — *Take this medicine with plenty of fluid* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

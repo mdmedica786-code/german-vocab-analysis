@@ -33,6 +33,11 @@ status: "new"
 > Die Schaltung des Radios ist defekt.
 > *The circuit of the radio is faulty.*
 
+**Phrases & Expressions:**
+- **eine elektrische Schaltung** — *circuit; gear system; wiring*
+- **eine Schaltung bauen** — *circuit; gear system; wiring*
+- **die Schaltung des Fahrrads** — *circuit; gear system; wiring*
+
 **Collocations**
 - eine elektrische Schaltung
 - eine Schaltung bauen

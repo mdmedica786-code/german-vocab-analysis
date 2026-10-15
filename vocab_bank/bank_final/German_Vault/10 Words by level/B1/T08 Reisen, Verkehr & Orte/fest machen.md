@@ -29,6 +29,12 @@ status: "new"
 > Wir machen das Boot am Steg fest.
 > *We tie up the boat at the jetty.*
 
+**Phrases & Expressions:**
+- **fest davon überzeugt sein, dass ...** — to be firmly convinced that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Ich umarme dich ganz fest.** — I give you a big hug. *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+- **Kein Problem, das macht nichts.** — No problem, it doesn't matter. *([[B1-17 Sich entschuldigen und danken|Entschuldigung annehmen]] · A2)*
+- **Wir tun alles, was in unserer Macht steht.** — We are doing everything in our power. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Angehörige beruhigen]] · B2)*
+
 **Source:** Netzwerk neu B1 K1 9c (Gute Reise!)
 <!-- bank:end -->
 

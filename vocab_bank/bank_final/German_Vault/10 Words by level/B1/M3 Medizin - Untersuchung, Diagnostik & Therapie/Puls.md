@@ -34,6 +34,14 @@ status: "new"
 > Der Arzt misst den Puls.
 > *The doctor takes the pulse.*
 
+**Phrases & Expressions:**
+- **Ich fühle jetzt Ihren Puls.** — I will now feel your pulse. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Puls und Temperatur]] · A2)*
+- **Blutdruck 130 zu 80 Millimeter Quecksilbersäule, Puls 78 pro Minute.** — Blood pressure 130 over 80 mmHg, pulse 78 per minute. *([[FSP-08 Befunde beschreiben und berichten|Vitalparameter]] · B2)*
+- **den Puls messen** — *pulse*
+- **ein schneller Puls** — *pulse*
+- **der Puls ist unregelmäßig** — *pulse*
+- **den Puls fühlen** — *pulse*
+
 **Collocations**
 - den Puls messen
 - ein schneller Puls

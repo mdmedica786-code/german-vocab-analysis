@@ -33,6 +33,11 @@ status: "new"
 > Gegen den Verdächtigen wurde ein Haftbefehl erlassen.
 > *An arrest warrant was issued against the suspect.*
 
+**Phrases & Expressions:**
+- **Haftbefehl erlassen** — *arrest warrant*
+- **einen Haftbefehl beantragen** — *arrest warrant*
+- **Haftbefehl vollstrecken** — *arrest warrant*
+
 **Collocations**
 - Haftbefehl erlassen
 - einen Haftbefehl beantragen

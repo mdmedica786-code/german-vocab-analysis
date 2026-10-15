@@ -30,6 +30,11 @@ status: "new"
 > Zum Unfallzeitpunkt war die Straße nass.
 > *At the time of the accident the road was wet.*
 
+**Phrases & Expressions:**
+- **zum Unfallzeitpunkt** — *time of the accident*
+- **der Unfallzeitpunkt** — *time of the accident*
+- **den Unfallzeitpunkt angeben** — *time of the accident*
+
 **Collocations**
 - zum Unfallzeitpunkt
 - der Unfallzeitpunkt

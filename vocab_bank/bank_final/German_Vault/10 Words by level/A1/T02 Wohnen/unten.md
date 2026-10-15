@@ -31,6 +31,9 @@ status: "new"
 > Er wohnt ganz unten im Haus.
 > *He lives right at the bottom of the building.*
 
+**Phrases & Expressions:**
+- **nach unten** — downwards; downstairs *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+
 **Source:** Netzwerk neu A1 K12 3a ÜB (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

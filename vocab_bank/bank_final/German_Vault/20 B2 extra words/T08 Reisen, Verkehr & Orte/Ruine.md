@@ -33,6 +33,11 @@ status: "new"
 > Die Ruine der Burg liegt auf dem Berg.
 > *The ruin of the castle is on the mountain.*
 
+**Phrases & Expressions:**
+- **eine alte Ruine** — *ruin; ruins*
+- **die Ruine besichtigen** — *ruin; ruins*
+- **in Ruinen liegen** — *ruin; ruins*
+
 **Collocations**
 - eine alte Ruine
 - die Ruine besichtigen

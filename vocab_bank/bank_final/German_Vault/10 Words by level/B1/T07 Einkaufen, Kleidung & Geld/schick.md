@@ -30,6 +30,10 @@ status: "new"
 > Du siehst heute sehr schick aus.
 > *You look very smart today.*
 
+**Phrases & Expressions:**
+- **Könntest du mir bitte ... schicken?** — Could you please send me ...? *([[B1-12 Persönliche E-Mail und Brief|Bitte äußern]] · B1)*
+- **Könnten Sie mir bitte Informationen zu ... schicken?** — Could you please send me information on ...? *([[B1-13 Formelle E-Mail und Brief|Anfrage stellen]] · B1)*
+
 **Source:** Netzwerk neu B1 K1 3b (Gute Reise!)
 <!-- bank:end -->
 

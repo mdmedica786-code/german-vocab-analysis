@@ -29,6 +29,14 @@ status: "new"
 > Zusammenfassend lässt sich sagen, dass der Plan funktioniert.
 > *In summary one can say that the plan works.*
 
+**Phrases & Expressions:**
+- **Zusammenfassend kann man sagen, dass ...** — In summary, one can say that ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Zusammenfassen]] · B1)*
+- **Zusammenfassend möchte ich sagen, dass ...** — To sum up, I would like to say that ... *([[B1-14 Forumsbeitrag und Leserbrief schreiben|Abschluss formulieren]] · B1)*
+- **Zusammenfassend lässt sich sagen, dass ...** — In summary, it can be said that ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Schluss mit Fazit]] · B2)*
+- **Zusammenfassend lässt sich festhalten, dass ...** — In summary, it can be stated that ... *([[B2-08 Zusammenfassen, Fazit und Schlussfolgerung|Zusammenfassen]] · B2)*
+- **Zusammenfassend handelt es sich um ...** — In summary it is a case of ... *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Zusammenfassung]] · B2)*
+- **Zusammenfassend handelt es sich um eine unkomplizierte Pneumonie.** — In summary it is an uncomplicated pneumonia. *([[FSP-20 Arztbrief und Dokumentation|Beurteilung]] · B2)*
+
 **Collocations**
 - zusammenfassend sagen
 - zusammenfassend festhalten

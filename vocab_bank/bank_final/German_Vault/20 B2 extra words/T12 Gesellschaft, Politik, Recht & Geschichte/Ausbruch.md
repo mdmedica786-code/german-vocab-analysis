@@ -33,6 +33,11 @@ status: "new"
 > Der Ausbruch des Vulkans überraschte alle.
 > *The eruption of the volcano surprised everyone.*
 
+**Phrases & Expressions:**
+- **der Ausbruch eines Krieges** — *outbreak; eruption; escape*
+- **zum Ausbruch kommen** — *outbreak; eruption; escape*
+- **ein Ausbruch aus dem Gefängnis** — *outbreak; eruption; escape*
+
 **Collocations**
 - der Ausbruch eines Krieges
 - zum Ausbruch kommen

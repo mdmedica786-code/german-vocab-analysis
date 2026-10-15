@@ -35,6 +35,9 @@ status: "new"
 > Der Kaiser lebte in einem großen Schloss.
 > *The emperor lived in a large castle.*
 
+**Phrases & Expressions:**
+- **Der Kaiser lebte in einem großen Schloss** — *The emperor lived in a large castle* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8b (Leben in der Stadt)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Der Bewerber stellt sich heute vor.
 > *The applicant is introducing himself today.*
 
+**Phrases & Expressions:**
+- **Der Bewerber stellt sich heute vor** — *The applicant is introducing himself today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

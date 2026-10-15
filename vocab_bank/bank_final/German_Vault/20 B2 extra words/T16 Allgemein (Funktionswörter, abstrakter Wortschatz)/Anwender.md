@@ -33,6 +33,11 @@ status: "new"
 > Das Programm ist für Anwender leicht zu bedienen.
 > *The program is easy for users to operate.*
 
+**Phrases & Expressions:**
+- **der Anwender** — *user (of software)*
+- **für Anwender** — *user (of software)*
+- **ein erfahrener Anwender** — *user (of software)*
+
 **Collocations**
 - der Anwender
 - für Anwender

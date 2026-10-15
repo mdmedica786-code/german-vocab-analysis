@@ -34,6 +34,12 @@ status: "new"
 > Ich stimme dir in dieser Sache völlig zu.
 > *I completely agree with you on this matter.*
 
+**Phrases & Expressions:**
+- **Einerseits stimmt das, andererseits ...** — On the one hand that's true, on the other hand ... *([[B1-02 Zustimmen und Widersprechen|Teilweise zustimmen]] · B1)*
+- **Ich bin nicht sicher, ob das stimmt.** — I'm not sure whether that's true. *([[B1-02 Zustimmen und Widersprechen|Zweifel anmelden]] · B1)*
+- **Es stimmt, dass ..., aber ...** — It is true that ..., but ... *([[B1-14 Forumsbeitrag und Leserbrief schreiben|Gegenposition erwähnen]] · B1)*
+- **Dem kann ich so nicht zustimmen.** — I can't agree with that. *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Widersprechen]] · B2)*
+
 **Source:** Netzwerk neu A2 K2 8c (Nach der Schulzeit) · Goethe word list B1
 <!-- bank:end -->
 

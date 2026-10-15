@@ -31,6 +31,11 @@ status: "new"
 > Er repräsentiert die Firma auf der Messe.
 > *He represents the company at the trade fair.*
 
+**Phrases & Expressions:**
+- **ein Land repräsentieren** — *to represent*
+- **eine Gruppe repräsentieren** — *to represent*
+- **repräsentiert werden** — *to represent*
+
 **Collocations**
 - ein Land repräsentieren
 - eine Gruppe repräsentieren

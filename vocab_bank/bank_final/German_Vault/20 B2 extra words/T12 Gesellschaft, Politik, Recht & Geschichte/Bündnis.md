@@ -33,6 +33,11 @@ status: "new"
 > Die Parteien schlossen ein Bündnis gegen die Rechten.
 > *The parties concluded an alliance against the far right.*
 
+**Phrases & Expressions:**
+- **ein Bündnis schließen** — *alliance*
+- **Bündnis zwischen + Dat.** — *alliance*
+- **ein Bündnis eingehen** — *alliance*
+
 **Collocations**
 - ein Bündnis schließen
 - Bündnis zwischen + Dat.

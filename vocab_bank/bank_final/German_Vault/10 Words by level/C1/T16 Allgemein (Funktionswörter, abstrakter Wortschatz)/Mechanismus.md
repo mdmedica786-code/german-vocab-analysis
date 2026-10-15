@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Mechanismus der Krankheit ist noch unklar.
 > *The mechanism of the disease is still unclear.*
+
+**Phrases & Expressions:**
+- **Der Mechanismus der Krankheit ist noch unklar** — *The mechanism of the disease is still unclear* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

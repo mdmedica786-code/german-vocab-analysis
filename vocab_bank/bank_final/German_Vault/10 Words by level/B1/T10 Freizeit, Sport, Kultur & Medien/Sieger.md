@@ -34,6 +34,9 @@ status: "new"
 > Wer hat gewonnen? Wie heißt der Sieger?
 > *Who won? What is the winner called?*
 
+**Phrases & Expressions:**
+- **Wer hat gewonnen? Wie heißt der Sieger** — *Who won? What is the winner called* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

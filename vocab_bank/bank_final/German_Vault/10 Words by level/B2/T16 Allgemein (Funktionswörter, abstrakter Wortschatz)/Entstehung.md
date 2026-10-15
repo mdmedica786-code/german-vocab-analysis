@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Entstehung der Krankheit ist noch unklar.
 > *The origin of the disease is still unclear.*
+
+**Phrases & Expressions:**
+- **Die Entstehung der Krankheit ist noch unklar** — *The origin of the disease is still unclear* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -29,6 +29,11 @@ status: "new"
 > Das wird sicherlich klappen.
 > *That will certainly work out.*
 
+**Phrases & Expressions:**
+- **sicherlich nicht** — *surely; certainly*
+- **ganz sicherlich** — *surely; certainly*
+- **sicherlich ist es so** — *surely; certainly*
+
 **Collocations**
 - sicherlich nicht
 - ganz sicherlich

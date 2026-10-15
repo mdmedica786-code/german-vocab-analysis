@@ -35,6 +35,9 @@ status: "new"
 > Wo macht man hier das Licht an?
 > *Where do you switch on the light here?*
 
+**Phrases & Expressions:**
+- **Die Pupillen sind isokor und reagieren prompt auf Licht.** — The pupils are isocoric and react promptly to light. *([[FSP-08 Befunde beschreiben und berichten|Neurologischer Kurzstatus]] · C1)*
+
 **Source:** Netzwerk neu A1 K9 4f ÜB (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

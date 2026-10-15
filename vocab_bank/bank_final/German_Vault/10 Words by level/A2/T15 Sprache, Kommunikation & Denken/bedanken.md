@@ -34,6 +34,12 @@ status: "new"
 > Ich möchte mich noch einmal sehr herzlich für Ihre Hilfe bedanken.
 > *I would like to thank you once more very warmly for your help.*
 
+**Phrases & Expressions:**
+- **Für Ihre Hilfe bedanke ich mich im Voraus.** — I thank you in advance for your help. *([[B1-13 Formelle E-Mail und Brief|Dank aussprechen]] · B1)*
+- **Ich bedanke mich für Ihre Unterstützung.** — I thank you for your support. *([[B1-13 Formelle E-Mail und Brief|Dank aussprechen]] · B1)*
+- **Ich möchte mich ganz herzlich bei Ihnen bedanken.** — I would like to thank you very warmly. *([[B1-17 Sich entschuldigen und danken|Danken]] · B1)*
+- **Ich bedanke mich für Ihre Aufmerksamkeit und freue mich auf Ihre Fragen.** — I thank you for your attention and look forward to your questions. *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Vortrag beenden]] · B2)*
+
 **Source:** Netzwerk neu A2 K4 4b (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

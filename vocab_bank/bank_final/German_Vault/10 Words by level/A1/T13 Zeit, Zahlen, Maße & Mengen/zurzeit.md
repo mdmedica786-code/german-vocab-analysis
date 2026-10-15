@@ -32,6 +32,9 @@ status: "new"
 > Zurzeit habe ich sehr viel zu tun.
 > *At the moment I have a lot to do.*
 
+**Phrases & Expressions:**
+- **Fühlen Sie sich zurzeit gestresst?** — Do you feel stressed at the moment? *([[FSP-05 Familien- und Sozialanamnese|Stress erfragen]] · A2)*
+
 **Source:** Netzwerk neu A1 K9 11a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

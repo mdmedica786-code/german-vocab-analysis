@@ -33,6 +33,11 @@ status: "new"
 > Im Integrationskurs lernt man Deutsch und Wissen über das Land.
 > *In the integration course you learn German and about the country.*
 
+**Phrases & Expressions:**
+- **einen Integrationskurs besuchen** — *integration course*
+- **Teilnahme am Integrationskurs** — *integration course*
+- **zum Integrationskurs verpflichtet** — *integration course*
+
 **Collocations**
 - einen Integrationskurs besuchen
 - Teilnahme am Integrationskurs

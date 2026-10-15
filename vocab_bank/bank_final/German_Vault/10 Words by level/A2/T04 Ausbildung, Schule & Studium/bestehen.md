@@ -34,6 +34,14 @@ status: "new"
 > Ich habe die Prüfung bestanden!
 > *I passed the exam!*
 
+**Phrases & Expressions:**
+- **es besteht die Gefahr, dass ...** — there is a risk that ... *([[Probleme - Beschwerden beschreiben (problem, symptom, complaint)|Probleme / Beschwerden beschreiben (problem, symptom, complaint)]] · B2)*
+- **Meine Präsentation besteht aus drei Teilen.** — My presentation consists of three parts. *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Gliederung ankündigen]] · B1)*
+- **Sollte das Problem weiter bestehen, melden Sie sich bitte.** — Should the problem persist, please get in touch. *([[B2-10 Bedingungen, Folgen und irreale Wünsche|Bedingung ausdrücken]] · B2)*
+- **Habe ich das richtig verstanden: Seit wann bestehen die Beschwerden?** — Have I understood correctly: since when have the complaints existed? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Zusammenfassen]] · B2)*
+- **Besteht die Möglichkeit, dass Sie schwanger sind?** — Is there a possibility that you are pregnant? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Schwangerschaft erfragen]] · B1)*
+- **Es besteht ein Druckschmerz im rechten Unterbauch.** — There is tenderness in the right lower abdomen. *([[FSP-08 Befunde beschreiben und berichten|Palpation]] · B2)*
+
 **Collocations**
 - eine Prüfung bestehen
 - aus drei Teilen bestehen

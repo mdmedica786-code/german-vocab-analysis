@@ -33,6 +33,11 @@ status: "new"
 > Bei der Beratungsstelle bekommt man kostenlos Hilfe bei Schulden.
 > *At the advice centre you get free help with debts.*
 
+**Phrases & Expressions:**
+- **eine Beratungsstelle aufsuchen** — *advice centre*
+- **die Beratungsstelle kontaktieren** — *advice centre*
+- **Beratungsstelle für Familien** — *advice centre*
+
 **Collocations**
 - eine Beratungsstelle aufsuchen
 - die Beratungsstelle kontaktieren

@@ -33,6 +33,11 @@ status: "new"
 > Bei genauer Betrachtung zeigen sich Fehler.
 > *On close consideration, errors become apparent.*
 
+**Phrases & Expressions:**
+- **bei näherer Betrachtung** — *consideration; contemplation*
+- **eine Betrachtung anstellen** — *consideration; contemplation*
+- **bei genauer Betrachtung** — *consideration; contemplation*
+
 **Collocations**
 - bei näherer Betrachtung
 - eine Betrachtung anstellen

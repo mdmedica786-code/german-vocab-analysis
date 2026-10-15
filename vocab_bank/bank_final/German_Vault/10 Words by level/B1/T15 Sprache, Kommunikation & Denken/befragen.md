@@ -32,6 +32,9 @@ status: "new"
 > Die Polizei befragt die Zeugen.
 > *The police are questioning the witnesses.*
 
+**Phrases & Expressions:**
+- **Etwa die Hälfte der Befragten ...** — About half of the respondents ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Anteil nennen]] · B2)*
+
 **Source:** Netzwerk neu B1 K6 3b (Blick nach vorn)
 <!-- bank:end -->
 

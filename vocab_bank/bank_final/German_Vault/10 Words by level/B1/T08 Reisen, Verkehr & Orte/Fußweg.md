@@ -34,6 +34,9 @@ status: "new"
 > Der Fußweg zum Bahnhof dauert zehn Minuten.
 > *The walk to the station takes ten minutes.*
 
+**Phrases & Expressions:**
+- **Der Fußweg zum Bahnhof dauert zehn Minuten** — *The walk to the station takes ten minutes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

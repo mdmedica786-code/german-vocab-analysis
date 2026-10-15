@@ -33,6 +33,11 @@ status: "new"
 > Unter Berücksichtigung aller Faktoren wurde entschieden.
 > *Taking all factors into account, a decision was made.*
 
+**Phrases & Expressions:**
+- **unter Berücksichtigung** — *consideration; taking into account*
+- **bei Berücksichtigung** — *consideration; taking into account*
+- **die Berücksichtigung der Umstände** — *consideration; taking into account*
+
 **Collocations**
 - unter Berücksichtigung
 - bei Berücksichtigung

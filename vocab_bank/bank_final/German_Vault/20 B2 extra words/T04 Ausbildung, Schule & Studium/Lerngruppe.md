@@ -33,6 +33,11 @@ status: "new"
 > Unsere Lerngruppe trifft sich jeden Dienstag.
 > *Our study group meets every Tuesday.*
 
+**Phrases & Expressions:**
+- **eine Lerngruppe bilden** — *study group; learning group*
+- **in einer Lerngruppe lernen** — *study group; learning group*
+- **eine Lerngruppe gründen** — *study group; learning group*
+
 **Collocations**
 - eine Lerngruppe bilden
 - in einer Lerngruppe lernen

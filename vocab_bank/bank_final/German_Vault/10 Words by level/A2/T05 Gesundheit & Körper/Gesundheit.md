@@ -35,6 +35,9 @@ status: "new"
 > Gesundheit! Sind Sie erkältet?
 > *Bless you! Do you have a cold?*
 
+**Phrases & Expressions:**
+- **Das Beste, was Sie für Ihre Gesundheit tun können, ist, mit dem Rauchen aufzuhören.** — The best thing you can do for your health is to stop smoking. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Rauchstopp]] · B2)*
+
 **Source:** Netzwerk neu A2 K9 1b (Sportlich, sportlich) · Goethe word list A2
 <!-- bank:end -->
 

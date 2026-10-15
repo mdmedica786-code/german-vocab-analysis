@@ -30,6 +30,9 @@ status: "new"
 > Jeder Student braucht einen eigenen Schlüssel.
 > *Every student needs their own key.*
 
+**Phrases & Expressions:**
+- **Aus eigener Erfahrung weiß ich, dass ...** — From my own experience I know that ... *([[B1-03 Argumentieren, begründen und Beispiele nennen|Eigene Erfahrung nennen]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 11b (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

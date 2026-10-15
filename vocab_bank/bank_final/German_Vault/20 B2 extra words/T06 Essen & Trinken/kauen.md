@@ -31,6 +31,11 @@ status: "new"
 > Du musst das Essen gründlich kauen.
 > *You must chew the food thoroughly.*
 
+**Phrases & Expressions:**
+- **gründlich kauen** — *to chew*
+- **auf etwas kauen** — *to chew*
+- **Kaugummi kauen** — *to chew*
+
 **Collocations**
 - gründlich kauen
 - auf etwas kauen

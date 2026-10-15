@@ -31,6 +31,11 @@ status: "new"
 > Das Programm generiert automatisch einen Bericht.
 > *The programme generates a report automatically.*
 
+**Phrases & Expressions:**
+- **Daten generieren** — *to generate*
+- **einen Bericht generieren** — *to generate*
+- **Umsatz generieren** — *to generate*
+
 **Collocations**
 - Daten generieren
 - einen Bericht generieren

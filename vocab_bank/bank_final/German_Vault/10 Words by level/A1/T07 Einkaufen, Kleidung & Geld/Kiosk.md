@@ -35,6 +35,9 @@ status: "new"
 > Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen.
 > *At the kiosk you can get drinks, cigarettes and newspapers.*
 
+**Phrases & Expressions:**
+- **Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen** — *At the kiosk you can get drinks, cigarettes and newspapers* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7c ÜB (Blick nach vorn) · Goethe word list A1
 <!-- bank:end -->
 

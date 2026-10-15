@@ -31,6 +31,11 @@ status: "new"
 > Er offenbarte ihr sein Geheimnis.
 > *He revealed his secret to her.*
 
+**Phrases & Expressions:**
+- **ein Geheimnis offenbaren** — *to reveal; to disclose*
+- **sich offenbaren** — *to reveal; to disclose*
+- **seine Gefühle offenbaren** — *to reveal; to disclose*
+
 **Collocations**
 - ein Geheimnis offenbaren
 - sich offenbaren

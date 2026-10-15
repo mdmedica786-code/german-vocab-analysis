@@ -32,6 +32,10 @@ status: "new"
 > Man wirft ihm vor, die Kasse manipuliert zu haben.
 > *He is accused of having tampered with the till.*
 
+**Phrases & Expressions:**
+- **jemandem etwas vorwerfen** — *to reproach; to accuse*
+- **sich nichts vorzuwerfen haben** — *to reproach; to accuse*
+
 **Collocations**
 - jemandem etwas vorwerfen
 - sich nichts vorzuwerfen haben

@@ -33,6 +33,11 @@ status: "new"
 > Er verdient seinen Lebensunterhalt als Taxifahrer.
 > *He earns his living as a taxi driver.*
 
+**Phrases & Expressions:**
+- **den Lebensunterhalt verdienen** — *livelihood; living expenses*
+- **seinen Lebensunterhalt bestreiten** — *livelihood; living expenses*
+- **für den Lebensunterhalt sorgen** — *livelihood; living expenses*
+
 **Collocations**
 - den Lebensunterhalt verdienen
 - seinen Lebensunterhalt bestreiten

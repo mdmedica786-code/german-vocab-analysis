@@ -33,6 +33,11 @@ status: "new"
 > Das Wort ist hier eine Metapher.
 > *The word is a metaphor here.*
 
+**Phrases & Expressions:**
+- **eine Metapher verwenden** — *metaphor*
+- **eine treffende Metapher** — *metaphor*
+- **in einer Metapher** — *metaphor*
+
 **Collocations**
 - eine Metapher verwenden
 - eine treffende Metapher

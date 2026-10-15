@@ -32,6 +32,9 @@ status: "new"
 > Schokolade schmeckt süß.
 > *Chocolate tastes sweet.*
 
+**Phrases & Expressions:**
+- **Schokolade schmeckt süß** — *Chocolate tastes sweet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 3c ÜB (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

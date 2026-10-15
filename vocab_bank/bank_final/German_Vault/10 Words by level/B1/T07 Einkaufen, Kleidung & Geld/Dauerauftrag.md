@@ -34,6 +34,9 @@ status: "new"
 > Die Miete zahle ich per Dauerauftrag.
 > *I pay the rent by standing order.*
 
+**Phrases & Expressions:**
+- **Die Miete zahle ich per Dauerauftrag** — *I pay the rent by standing order* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 5a (Geld regiert die Welt?)
 <!-- bank:end -->
 

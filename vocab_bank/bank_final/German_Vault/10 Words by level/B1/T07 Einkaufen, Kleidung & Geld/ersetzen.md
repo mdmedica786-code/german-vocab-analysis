@@ -33,6 +33,9 @@ status: "new"
 > Wir ersetzen Ihnen die Kosten.
 > *We will reimburse you for the costs.*
 
+**Phrases & Expressions:**
+- **Wir ersetzen Ihnen die Kosten** — *We will reimburse you for the costs* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 10a (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

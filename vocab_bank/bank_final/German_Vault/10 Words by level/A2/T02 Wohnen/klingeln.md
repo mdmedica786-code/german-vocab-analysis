@@ -33,6 +33,9 @@ status: "new"
 > Ich glaube, es hat an der Tür geklingelt.
 > *I think the doorbell rang.*
 
+**Phrases & Expressions:**
+- **Ich glaube, es hat an der Tür geklingelt** — *I think the doorbell rang* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 5a (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

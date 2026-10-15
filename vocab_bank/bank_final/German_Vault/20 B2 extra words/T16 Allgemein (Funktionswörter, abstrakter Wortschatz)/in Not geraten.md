@@ -26,6 +26,10 @@ status: "new"
 > Viele Familien sind durch die Krise in Not geraten.
 > *Many families have got into difficulty through the crisis.*
 
+**Phrases & Expressions:**
+- **in Not sein** — *to get into difficulty*
+- **in Seenot geraten** — *to get into difficulty*
+
 **Collocations**
 - in Not sein
 - in Seenot geraten

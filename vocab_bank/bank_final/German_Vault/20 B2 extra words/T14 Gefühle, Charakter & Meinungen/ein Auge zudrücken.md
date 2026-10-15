@@ -29,6 +29,10 @@ status: "new"
 > Der Lehrer hat bei der Verspätung ein Auge zugedrückt.
 > *The teacher turned a blind eye to the lateness.*
 
+**Phrases & Expressions:**
+- **beide Augen zudrücken** — *to turn a blind eye*
+- **ausnahmsweise ein Auge zudrücken** — *to turn a blind eye*
+
 **Collocations**
 - beide Augen zudrücken
 - ausnahmsweise ein Auge zudrücken

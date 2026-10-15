@@ -33,6 +33,11 @@ status: "new"
 > Stress belastet die Psyche.
 > *Stress puts a strain on the mind.*
 
+**Phrases & Expressions:**
+- **die menschliche Psyche** — *psyche; mind*
+- **die Psyche belasten** — *psyche; mind*
+- **eine labile Psyche** — *psyche; mind*
+
 **Collocations**
 - die menschliche Psyche
 - die Psyche belasten

@@ -36,6 +36,9 @@ status: "new"
 > Mein Onkel arbeitet nicht mehr. Er ist Rentner.
 > **
 
+**Phrases & Expressions:**
+- **Mein Onkel arbeitet nicht mehr. Er ist Rentner** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 1b (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

@@ -35,6 +35,10 @@ status: "new"
 > Das ist ohne Zweifel die beste Lösung.
 > *That is without doubt the best solution.*
 
+**Phrases & Expressions:**
+- **keinen Zweifel daran haben, dass ...** — to have no doubt that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Ich habe da meine Zweifel.** — I have my doubts about that. *([[B1-02 Zustimmen und Widersprechen|Zweifel anmelden]] · B1)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

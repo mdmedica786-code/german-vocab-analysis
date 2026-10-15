@@ -29,6 +29,11 @@ status: "new"
 > Er arbeitet an einer renommierten Universität.
 > *He works at a renowned university.*
 
+**Phrases & Expressions:**
+- **ein renommierter Wissenschaftler** — *renowned; well-known*
+- **eine renommierte Firma** — *renowned; well-known*
+- **renommiert sein** — *renowned; well-known*
+
 **Collocations**
 - ein renommierter Wissenschaftler
 - eine renommierte Firma

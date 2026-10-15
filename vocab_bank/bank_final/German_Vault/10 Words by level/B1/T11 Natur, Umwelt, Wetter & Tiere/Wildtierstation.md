@@ -31,6 +31,9 @@ status: "new"
 > In der Wildtierstation werden verletzte Tiere gepflegt.
 > *Injured animals are cared for at the wildlife station.*
 
+**Phrases & Expressions:**
+- **In der Wildtierstation werden verletzte Tiere gepflegt** — *Injured animals are cared for at the wildlife station* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Bei dem Unfall entstand nur Sachschaden.
 > *In the accident only property damage occurred.*
 
+**Phrases & Expressions:**
+- **hoher Sachschaden** — *property damage; material damage*
+- **es entstand Sachschaden** — *property damage; material damage*
+- **den Sachschaden melden** — *property damage; material damage*
+
 **Collocations**
 - hoher Sachschaden
 - es entstand Sachschaden

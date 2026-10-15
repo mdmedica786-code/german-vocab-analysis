@@ -35,6 +35,9 @@ status: "new"
 > Die Sozialarbeiterin kommt einmal in der Woche.
 > *The social worker comes once a week.*
 
+**Phrases & Expressions:**
+- **Die Sozialarbeiterin kommt einmal in der Woche** — *The social worker comes once a week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6d (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

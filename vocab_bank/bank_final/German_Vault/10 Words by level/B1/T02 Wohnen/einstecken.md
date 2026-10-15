@@ -33,6 +33,9 @@ status: "new"
 > Bitte steck das Kabel ein.
 > *Please plug in the cable.*
 
+**Phrases & Expressions:**
+- **Bitte steck das Kabel ein** — *Please plug in the cable* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 1b ÜB (Das ist ja praktisch!)
 <!-- bank:end -->
 

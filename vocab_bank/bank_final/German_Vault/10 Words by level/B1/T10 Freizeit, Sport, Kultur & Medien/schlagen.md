@@ -32,6 +32,14 @@ status: "new"
 > Wer hat den Weltmeister geschlagen?
 > *Who beat the world champion?*
 
+**Phrases & Expressions:**
+- **Ich schlage vor, dass wir ...** — I suggest that we ... *([[B1-05 Vorschläge machen und darauf reagieren|Vorschlag machen]] · B1)*
+- **Ich schlage Ihnen folgende Behandlung vor.** — I propose the following treatment to you. *([[FSP-11 Therapie und Medikamente erklären|Therapieplan erklären]] · B2)*
+- **den Weltmeister schlagen** — *to hit; to beat; to strike*
+- **an die Tür schlagen** — *to hit; to beat; to strike*
+- **Alarm schlagen** — *to hit; to beat; to strike*
+- **das Herz schlägt** — *to hit; to beat; to strike*
+
 **Collocations**
 - den Weltmeister schlagen
 - an die Tür schlagen

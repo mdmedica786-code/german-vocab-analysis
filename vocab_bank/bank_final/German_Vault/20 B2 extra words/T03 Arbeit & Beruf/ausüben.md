@@ -32,6 +32,11 @@ status: "new"
 > Sie übt den Beruf der Lehrerin seit zehn Jahren aus.
 > *She has practised the profession of teacher for ten years.*
 
+**Phrases & Expressions:**
+- **einen Beruf ausüben** — *to practise (a profession); to exercise*
+- **ein Amt ausüben** — *to practise (a profession); to exercise*
+- **ein Hobby ausüben** — *to practise (a profession); to exercise*
+
 **Collocations**
 - einen Beruf ausüben
 - ein Amt ausüben

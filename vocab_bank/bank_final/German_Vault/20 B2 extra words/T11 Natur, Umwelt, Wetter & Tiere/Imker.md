@@ -33,6 +33,11 @@ status: "new"
 > Der Imker erntet im Sommer den Honig.
 > *The beekeeper harvests the honey in summer.*
 
+**Phrases & Expressions:**
+- **als Imker arbeiten** — *beekeeper*
+- **Imker und Bienen** — *beekeeper*
+- **ein erfahrener Imker** — *beekeeper*
+
 **Collocations**
 - als Imker arbeiten
 - Imker und Bienen

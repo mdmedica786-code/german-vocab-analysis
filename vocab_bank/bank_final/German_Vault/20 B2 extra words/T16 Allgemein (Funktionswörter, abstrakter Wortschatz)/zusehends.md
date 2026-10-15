@@ -29,6 +29,11 @@ status: "new"
 > Ihr Zustand verbessert sich zusehends.
 > *Her condition is visibly improving.*
 
+**Phrases & Expressions:**
+- **zusehends besser** — *visibly; noticeably*
+- **zusehends verschlechtern** — *visibly; noticeably*
+- **zusehends wachsen** — *visibly; noticeably*
+
 **Collocations**
 - zusehends besser
 - zusehends verschlechtern

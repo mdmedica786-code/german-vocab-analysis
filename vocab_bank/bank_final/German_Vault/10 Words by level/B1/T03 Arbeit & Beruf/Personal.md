@@ -35,6 +35,9 @@ status: "new"
 > Dieser Eingang ist nur für das Personal.
 > *This entrance is for staff only.*
 
+**Phrases & Expressions:**
+- **Dieser Eingang ist nur für das Personal** — *This entrance is for staff only* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

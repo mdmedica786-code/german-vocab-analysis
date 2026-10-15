@@ -31,6 +31,9 @@ status: "new"
 > Wir essen heute türkisch.
 > *Today we are eating Turkish food.*
 
+**Phrases & Expressions:**
+- **Wir essen heute türkisch** — *Today we are eating Turkish food* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

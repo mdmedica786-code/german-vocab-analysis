@@ -33,6 +33,11 @@ status: "new"
 > Auf der Lohnabrechnung stehen Brutto und Netto.
 > *Gross and net pay are shown on the pay slip.*
 
+**Phrases & Expressions:**
+- **die Lohnabrechnung prüfen** — *pay slip; wage statement*
+- **Lohnabrechnung erhalten** — *pay slip; wage statement*
+- **auf der Lohnabrechnung** — *pay slip; wage statement*
+
 **Collocations**
 - die Lohnabrechnung prüfen
 - Lohnabrechnung erhalten

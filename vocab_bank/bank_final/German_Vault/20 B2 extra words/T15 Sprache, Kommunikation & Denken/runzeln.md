@@ -31,6 +31,11 @@ status: "new"
 > Er runzelte skeptisch die Stirn.
 > *He frowned sceptically.*
 
+**Phrases & Expressions:**
+- **die Stirn runzeln** — *to wrinkle; to frown*
+- **die Nase runzeln** — *to wrinkle; to frown*
+- **skeptisch die Stirn runzeln** — *to wrinkle; to frown*
+
 **Collocations**
 - die Stirn runzeln
 - die Nase runzeln

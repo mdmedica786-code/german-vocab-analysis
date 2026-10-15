@@ -29,6 +29,12 @@ status: "new"
 > Er hat offensichtlich keine Lust.
 > *He evidently doesn't feel like it.*
 
+**Phrases & Expressions:**
+- **offensichtlich falsch** — *obvious; evidently*
+- **offensichtlich sein** — *obvious; evidently*
+- **ganz offensichtlich** — *obvious; evidently*
+- **offensichtlich nicht** — *obvious; evidently*
+
 **Collocations**
 - offensichtlich falsch
 - offensichtlich sein

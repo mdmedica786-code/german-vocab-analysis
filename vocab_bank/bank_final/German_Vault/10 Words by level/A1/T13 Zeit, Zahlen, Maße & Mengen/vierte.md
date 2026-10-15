@@ -30,6 +30,9 @@ status: "new"
 > Das ist mein vierter Versuch.
 > *This is my fourth attempt.*
 
+**Phrases & Expressions:**
+- **Das ist mein vierter Versuch** — *This is my fourth attempt* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

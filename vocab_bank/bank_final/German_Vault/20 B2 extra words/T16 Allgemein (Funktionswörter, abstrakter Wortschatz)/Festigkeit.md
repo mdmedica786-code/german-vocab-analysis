@@ -33,6 +33,11 @@ status: "new"
 > Die Festigkeit des Materials wird getestet.
 > *The strength of the material is tested.*
 
+**Phrases & Expressions:**
+- **die Festigkeit des Materials** — *firmness; strength; stability*
+- **an Festigkeit gewinnen** — *firmness; strength; stability*
+- **hohe Festigkeit** — *firmness; strength; stability*
+
 **Collocations**
 - die Festigkeit des Materials
 - an Festigkeit gewinnen

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Balken trägt das Dach.
 > *The beam supports the roof.*
+
+**Phrases & Expressions:**
+- **Der Balken trägt das Dach** — *The beam supports the roof* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

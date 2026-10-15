@@ -29,6 +29,11 @@ status: "new"
 > Die beiden Wörter werden oft synonym verwendet.
 > *The two words are often used synonymously.*
 
+**Phrases & Expressions:**
+- **synonym verwenden** — *synonymous*
+- **synonym sein** — *synonymous*
+- **synonym gebrauchen** — *synonymous*
+
 **Collocations**
 - synonym verwenden
 - synonym sein

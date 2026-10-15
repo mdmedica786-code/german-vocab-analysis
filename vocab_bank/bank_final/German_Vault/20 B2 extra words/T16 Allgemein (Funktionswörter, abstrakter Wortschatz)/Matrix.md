@@ -33,6 +33,11 @@ status: "new"
 > Die Daten stehen in einer Matrix.
 > *The data are in a matrix.*
 
+**Phrases & Expressions:**
+- **eine Matrix erstellen** — *matrix*
+- **in der Matrix** — *matrix*
+- **Matrix und Vektor** — *matrix*
+
 **Collocations**
 - eine Matrix erstellen
 - in der Matrix

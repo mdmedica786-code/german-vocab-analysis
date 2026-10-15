@@ -32,6 +32,9 @@ status: "new"
 > Ich muss niesen, ich bin erkältet.
 > *I have to sneeze; I have a cold.*
 
+**Phrases & Expressions:**
+- **Ich muss niesen, ich bin erkältet** — *I have to sneeze; I have a cold* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen)
 <!-- bank:end -->
 

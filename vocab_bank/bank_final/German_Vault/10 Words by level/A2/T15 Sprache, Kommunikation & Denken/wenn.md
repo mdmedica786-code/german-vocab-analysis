@@ -32,6 +32,9 @@ status: "new"
 > Wenn ich nicht arbeiten muss, komme ich.
 > **
 
+**Phrases & Expressions:**
+- **Wenn ich nicht arbeiten muss, komme ich** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 3b (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

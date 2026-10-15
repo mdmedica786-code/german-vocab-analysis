@@ -29,6 +29,10 @@ status: "new"
 > Wir ziehen mehrere Bewerber in Betracht.
 > *We are considering several applicants.*
 
+**Phrases & Expressions:**
+- **eine Möglichkeit in Betracht ziehen** — *to consider; to take into account*
+- **alle Umstände in Betracht ziehen** — *to consider; to take into account*
+
 **Collocations**
 - eine Möglichkeit in Betracht ziehen
 - alle Umstände in Betracht ziehen

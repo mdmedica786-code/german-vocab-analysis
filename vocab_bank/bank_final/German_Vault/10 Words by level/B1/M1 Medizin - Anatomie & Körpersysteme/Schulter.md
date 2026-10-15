@@ -35,6 +35,12 @@ status: "new"
 > Ich habe Schmerzen in der rechten Schulter.
 > *I have pain in my right shoulder.*
 
+**Phrases & Expressions:**
+- **Schmerzen in der Schulter** — *shoulder*
+- **die Schulter verletzen** — *shoulder*
+- **die Schulter hochziehen** — *shoulder*
+- **die Schulter röntgen** — *shoulder*
+
 **Collocations**
 - Schmerzen in der Schulter
 - die Schulter verletzen

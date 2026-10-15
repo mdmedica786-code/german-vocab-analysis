@@ -33,6 +33,11 @@ status: "new"
 > Das Kind nimmt seine Brotdose mit in die Schule.
 > *The child takes its lunch box to school.*
 
+**Phrases & Expressions:**
+- **die Brotdose packen** — *lunch box*
+- **eine Brotdose mitnehmen** — *lunch box*
+- **Brotdose und Trinkflasche** — *lunch box*
+
 **Collocations**
 - die Brotdose packen
 - eine Brotdose mitnehmen

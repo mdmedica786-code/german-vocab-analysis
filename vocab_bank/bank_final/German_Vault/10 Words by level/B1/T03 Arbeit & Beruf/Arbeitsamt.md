@@ -34,6 +34,9 @@ status: "new"
 > Ich war gestern beim Arbeitsamt.
 > *I was at the employment office yesterday.*
 
+**Phrases & Expressions:**
+- **Ich war gestern beim Arbeitsamt** — *I was at the employment office yesterday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7b (Miteinander)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Das Flugzeug ist am Terminal 2 gelandet.
 > *The plane has landed at terminal 2.*
 
+**Phrases & Expressions:**
+- **Das Flugzeug ist am Terminal 2 gelandet** — *The plane has landed at terminal 2* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

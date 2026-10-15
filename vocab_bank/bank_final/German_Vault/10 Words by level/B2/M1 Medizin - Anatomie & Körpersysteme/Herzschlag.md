@@ -33,6 +33,12 @@ status: "new"
 > Der Herzschlag des Patienten ist unregelmäßig.
 > *The patient's heartbeat is irregular.*
 
+**Phrases & Expressions:**
+- **ein regelmäßiger Herzschlag** — *heartbeat*
+- **der Herzschlag setzt aus** — *heartbeat*
+- **schneller Herzschlag** — *heartbeat*
+- **den Herzschlag messen** — *heartbeat*
+
 **Collocations**
 - ein regelmäßiger Herzschlag
 - der Herzschlag setzt aus

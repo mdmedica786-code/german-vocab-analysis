@@ -29,6 +29,12 @@ status: "new"
 > Er besucht uns gelegentlich am Wochenende.
 > *He visits us occasionally at the weekend.*
 
+**Phrases & Expressions:**
+- **Ich trinke nur gelegentlich ein Glas Wein.** — I only occasionally drink a glass of wine. *([[FSP-05 Familien- und Sozialanamnese|Patient: Alkohol angeben]] · A2)*
+- **gelegentlich vorkommen** — *occasionally*
+- **nur gelegentlich** — *occasionally*
+- **gelegentlich mal** — *occasionally*
+
 **Collocations**
 - gelegentlich vorkommen
 - nur gelegentlich

@@ -36,6 +36,9 @@ status: "new"
 > Gehen wir am Wochenende Ski fahren?
 > *Shall we go skiing at the weekend?*
 
+**Phrases & Expressions:**
+- **Gehen wir am Wochenende Ski fahren** — *Shall we go skiing at the weekend* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 1a (Zeit mit Freunden) · Goethe word list A2
 <!-- bank:end -->
 

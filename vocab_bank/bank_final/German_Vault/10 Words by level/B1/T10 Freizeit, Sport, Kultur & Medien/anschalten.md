@@ -33,6 +33,9 @@ status: "new"
 > Schalte bitte das Licht an.
 > *Please turn on the light.*
 
+**Phrases & Expressions:**
+- **Schalte bitte das Licht an** — *Please turn on the light* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 5a ÜB (Das ist ja praktisch!)
 <!-- bank:end -->
 

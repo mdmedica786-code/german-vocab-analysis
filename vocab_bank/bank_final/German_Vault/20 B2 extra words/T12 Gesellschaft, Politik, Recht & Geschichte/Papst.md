@@ -33,6 +33,11 @@ status: "new"
 > Der Papst besuchte das Land.
 > *The pope visited the country.*
 
+**Phrases & Expressions:**
+- **der Papst reist** — *pope*
+- **ein neuer Papst** — *pope*
+- **die Wahl des Papstes** — *pope*
+
 **Collocations**
 - der Papst reist
 - ein neuer Papst

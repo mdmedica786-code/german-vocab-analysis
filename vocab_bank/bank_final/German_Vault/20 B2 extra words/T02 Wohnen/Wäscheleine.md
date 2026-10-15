@@ -33,6 +33,11 @@ status: "new"
 > Die Handtücher hängen auf der Wäscheleine im Garten.
 > *The towels hang on the clothesline in the garden.*
 
+**Phrases & Expressions:**
+- **Wäsche auf die Wäscheleine hängen** — *clothesline*
+- **eine Wäscheleine spannen** — *clothesline*
+- **an der Wäscheleine trocknen** — *clothesline*
+
 **Collocations**
 - Wäsche auf die Wäscheleine hängen
 - eine Wäscheleine spannen

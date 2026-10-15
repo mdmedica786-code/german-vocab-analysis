@@ -33,6 +33,11 @@ status: "new"
 > Aus Neugier habe ich den Brief geöffnet.
 > *Out of curiosity I opened the letter.*
 
+**Phrases & Expressions:**
+- **vor Neugier platzen** — *curiosity*
+- **aus Neugier** — *curiosity*
+- **Neugier wecken** — *curiosity*
+
 **Collocations**
 - vor Neugier platzen
 - aus Neugier

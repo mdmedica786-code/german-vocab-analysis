@@ -33,6 +33,11 @@ status: "new"
 > Die Menschenrechte gelten für alle Menschen.
 > *Human rights apply to all people.*
 
+**Phrases & Expressions:**
+- **die Menschenrechte verletzen** — *human right*
+- **Menschenrechte achten** — *human right*
+- **die Erklärung der Menschenrechte** — *human right*
+
 **Collocations**
 - die Menschenrechte verletzen
 - Menschenrechte achten

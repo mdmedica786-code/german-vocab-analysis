@@ -35,6 +35,9 @@ status: "new"
 > Geben Sie mir bitte 500g Hackfleisch.
 > *Please give me 500 g of minced meat.*
 
+**Phrases & Expressions:**
+- **Geben Sie mir bitte 500g Hackfleisch** — *Please give me 500 g of minced meat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

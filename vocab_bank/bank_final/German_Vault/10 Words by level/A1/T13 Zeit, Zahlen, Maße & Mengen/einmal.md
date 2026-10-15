@@ -31,6 +31,14 @@ status: "new"
 > Diese Prüfung mache ich nicht noch einmal.
 > *I'm not taking this exam again.*
 
+**Phrases & Expressions:**
+- **erst einmal** — first of all; for now *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B1)*
+- **noch einmal** — once more *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+- **auf einmal** — suddenly *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **einmal in der Woche** — once a week *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+- **wieder einmal** — once again *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **schon einmal** — once already; ever *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+
 **Source:** Netzwerk neu A1 K12 12a (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

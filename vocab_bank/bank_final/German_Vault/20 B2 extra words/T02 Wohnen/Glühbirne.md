@@ -33,6 +33,11 @@ status: "new"
 > Die Glühbirne im Flur ist durchgebrannt.
 > *The light bulb in the hallway has burnt out.*
 
+**Phrases & Expressions:**
+- **eine Glühbirne wechseln** — *light bulb*
+- **die Glühbirne ist durchgebrannt** — *light bulb*
+- **eine Glühbirne einschrauben** — *light bulb*
+
 **Collocations**
 - eine Glühbirne wechseln
 - die Glühbirne ist durchgebrannt

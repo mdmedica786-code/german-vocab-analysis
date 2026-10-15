@@ -33,6 +33,11 @@ status: "new"
 > Im Sommer stellen wir die Gartenmöbel auf die Terrasse.
 > *In summer we put the garden furniture on the terrace.*
 
+**Phrases & Expressions:**
+- **Gartenmöbel kaufen** — *garden furniture*
+- **die Gartenmöbel abdecken** — *garden furniture*
+- **Gartenmöbel aus Holz** — *garden furniture*
+
 **Collocations**
 - Gartenmöbel kaufen
 - die Gartenmöbel abdecken

@@ -33,6 +33,11 @@ status: "new"
 > In der Stadt müssen Hunde an der Leine geführt werden.
 > *In the city dogs must be kept on a lead.*
 
+**Phrases & Expressions:**
+- **an der Leine führen** — *lead; leash; line*
+- **den Hund an die Leine nehmen** — *lead; leash; line*
+- **eine lange Leine** — *lead; leash; line*
+
 **Collocations**
 - an der Leine führen
 - den Hund an die Leine nehmen

@@ -35,6 +35,9 @@ status: "new"
 > Diese Übung war sehr schwer.
 > *This exercise was very difficult.*
 
+**Phrases & Expressions:**
+- **Diese Übung war sehr schwer** — *This exercise was very difficult* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13a (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

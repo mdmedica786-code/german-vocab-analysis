@@ -34,6 +34,9 @@ status: "new"
 > Das Skigebiet ist im Winter sehr voll.
 > *The ski area is very crowded in winter.*
 
+**Phrases & Expressions:**
+- **Das Skigebiet ist im Winter sehr voll** — *The ski area is very crowded in winter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 7 (Gute Reise!)
 <!-- bank:end -->
 

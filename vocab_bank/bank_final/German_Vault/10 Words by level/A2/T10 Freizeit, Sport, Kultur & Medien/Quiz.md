@@ -35,6 +35,9 @@ status: "new"
 > Sie hat beim Quiz gewonnen.
 > *She won the quiz.*
 
+**Phrases & Expressions:**
+- **Sie hat beim Quiz gewonnen** — *She won the quiz* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 9a (Gute Unterhaltung!) · Goethe word list A2
 <!-- bank:end -->
 

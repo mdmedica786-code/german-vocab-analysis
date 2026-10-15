@@ -35,6 +35,9 @@ status: "new"
 > Der Automat nimmt nur Münzen.
 > *The machine only accepts coins.*
 
+**Phrases & Expressions:**
+- **Der Automat nimmt nur Münzen** — *The machine only accepts coins* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3b ÜB (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

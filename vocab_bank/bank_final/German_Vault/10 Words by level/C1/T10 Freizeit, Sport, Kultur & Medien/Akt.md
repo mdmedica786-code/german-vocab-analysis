@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Stück hat drei Akte.
 > *The play has three acts.*
+
+**Phrases & Expressions:**
+- **Das Stück hat drei Akte** — *The play has three acts* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

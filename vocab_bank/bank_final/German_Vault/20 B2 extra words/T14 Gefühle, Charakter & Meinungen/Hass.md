@@ -33,6 +33,11 @@ status: "new"
 > Der Hass zwischen den Familien ist alt.
 > *The hatred between the families is old.*
 
+**Phrases & Expressions:**
+- **Hass auf jemanden** — *hatred; hate*
+- **aus Hass** — *hatred; hate*
+- **Hass und Gewalt** — *hatred; hate*
+
 **Collocations**
 - Hass auf jemanden
 - aus Hass

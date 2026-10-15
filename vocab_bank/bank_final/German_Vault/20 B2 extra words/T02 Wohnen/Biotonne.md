@@ -33,6 +33,11 @@ status: "new"
 > Obstreste gehören in die Biotonne.
 > *Fruit scraps belong in the organic waste bin.*
 
+**Phrases & Expressions:**
+- **in die Biotonne werfen** — *organic waste bin*
+- **die Biotonne leeren** — *organic waste bin*
+- **Biotonne und Restmüll** — *organic waste bin*
+
 **Collocations**
 - in die Biotonne werfen
 - die Biotonne leeren

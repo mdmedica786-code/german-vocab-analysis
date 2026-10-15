@@ -33,6 +33,11 @@ status: "new"
 > Die Besteuerung von Einkommen ist in Deutschland hoch.
 > *The taxation of income is high in Germany.*
 
+**Phrases & Expressions:**
+- **die Besteuerung von** — *taxation*
+- **eine höhere Besteuerung** — *taxation*
+- **die steuerliche Besteuerung** — *taxation*
+
 **Collocations**
 - die Besteuerung von
 - eine höhere Besteuerung

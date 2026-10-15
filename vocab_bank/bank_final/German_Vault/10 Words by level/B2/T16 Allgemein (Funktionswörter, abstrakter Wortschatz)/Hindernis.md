@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Sprache ist das größte Hindernis.
 > *The language is the biggest obstacle.*
+
+**Phrases & Expressions:**
+- **Die Sprache ist das größte Hindernis** — *The language is the biggest obstacle* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

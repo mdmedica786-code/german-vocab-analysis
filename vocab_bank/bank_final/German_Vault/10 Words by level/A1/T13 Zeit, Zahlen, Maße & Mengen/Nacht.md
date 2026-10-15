@@ -35,6 +35,14 @@ status: "new"
 > Heute Nacht habe ich schlecht geschlafen.
 > *Last night I slept badly.*
 
+**Phrases & Expressions:**
+- **in der Nacht** — at night; during the night *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **die ganze Nacht** — all night *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **Tag und Nacht** — day and night *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **gute Nacht** — good night *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A1)*
+- **bis spät in die Nacht** — until late at night *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **In der Nacht gab es keine besonderen Vorkommnisse.** — There were no particular incidents during the night. *([[FSP-19 Übergabe, Konsil und Rücksprache|Schichtübergabe]] · B2)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

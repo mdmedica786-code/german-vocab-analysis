@@ -31,6 +31,14 @@ status: "new"
 > Ich habe drei Katzen.
 > *I have three cats.*
 
+**Phrases & Expressions:**
+- **zwei oder drei** — two or three *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+- **drei Jahre** — three years *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A1)*
+- **drei Tage** — three days *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A1)*
+- **Meine Präsentation besteht aus drei Teilen.** — My presentation consists of three parts. *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Gliederung ankündigen]] · B1)*
+- **Vor drei Jahren bin ich nach ... gezogen.** — Three years ago I moved to ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Erfahrung erzählen]] · B1)*
+- **Mein Vortrag gliedert sich in drei Teile.** — My talk is divided into three parts. *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Aufbau ankündigen]] · B2)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Der Klang der Geige ist wunderschön.
 > *The sound of the violin is beautiful.*
 
+**Phrases & Expressions:**
+- **Der Klang der Geige ist wunderschön** — *The sound of the violin is beautiful* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

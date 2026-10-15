@@ -34,6 +34,9 @@ status: "new"
 > Die Bürgerversammlung findet im Rathaus statt.
 > *The town meeting takes place in the town hall.*
 
+**Phrases & Expressions:**
+- **Die Bürgerversammlung findet im Rathaus statt** — *The town meeting takes place in the town hall* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7b (Miteinander)
 <!-- bank:end -->
 

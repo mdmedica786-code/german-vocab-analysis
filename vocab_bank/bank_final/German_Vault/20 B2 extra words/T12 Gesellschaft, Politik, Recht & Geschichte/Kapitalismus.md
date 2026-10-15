@@ -33,6 +33,11 @@ status: "new"
 > Der Kapitalismus hat Vor- und Nachteile.
 > *Capitalism has advantages and disadvantages.*
 
+**Phrases & Expressions:**
+- **Kapitalismus und Sozialismus** — *capitalism*
+- **Kritik am Kapitalismus** — *capitalism*
+- **im Kapitalismus** — *capitalism*
+
 **Collocations**
 - Kapitalismus und Sozialismus
 - Kritik am Kapitalismus

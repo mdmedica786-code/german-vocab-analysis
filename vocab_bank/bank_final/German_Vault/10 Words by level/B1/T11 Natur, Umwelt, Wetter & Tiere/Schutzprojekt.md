@@ -31,6 +31,9 @@ status: "new"
 > Das Schutzprojekt rettet bedrohte Tiere.
 > *The protection project saves endangered animals.*
 
+**Phrases & Expressions:**
+- **Das Schutzprojekt rettet bedrohte Tiere** — *The protection project saves endangered animals* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

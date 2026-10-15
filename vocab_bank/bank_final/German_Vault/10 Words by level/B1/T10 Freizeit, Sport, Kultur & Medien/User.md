@@ -34,6 +34,9 @@ status: "new"
 > Die User können Kommentare schreiben.
 > *The users can write comments.*
 
+**Phrases & Expressions:**
+- **Die User können Kommentare schreiben** — *The users can write comments* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

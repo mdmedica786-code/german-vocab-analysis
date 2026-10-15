@@ -30,6 +30,11 @@ status: "new"
 > Laut Windprognose wird es morgen stürmisch.
 > *According to the wind forecast it will be stormy tomorrow.*
 
+**Phrases & Expressions:**
+- **die Windprognose abrufen** — *wind forecast*
+- **eine Windprognose erstellen** — *wind forecast*
+- **die Windprognose für morgen** — *wind forecast*
+
 **Collocations**
 - die Windprognose abrufen
 - eine Windprognose erstellen

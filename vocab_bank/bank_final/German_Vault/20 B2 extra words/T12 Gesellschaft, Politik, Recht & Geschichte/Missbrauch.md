@@ -33,6 +33,11 @@ status: "new"
 > Der Missbrauch von Medikamenten ist gefährlich.
 > *The misuse of medication is dangerous.*
 
+**Phrases & Expressions:**
+- **der Missbrauch von** — *misuse; abuse*
+- **Missbrauch betreiben** — *misuse; abuse*
+- **sexueller Missbrauch** — *misuse; abuse*
+
 **Collocations**
 - der Missbrauch von
 - Missbrauch betreiben

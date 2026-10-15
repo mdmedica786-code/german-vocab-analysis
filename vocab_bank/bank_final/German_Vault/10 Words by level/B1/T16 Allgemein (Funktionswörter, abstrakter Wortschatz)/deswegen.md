@@ -31,6 +31,10 @@ status: "new"
 > Ich habe falsch geparkt. Deswegen habe ich einen Strafzettel bekommen.
 > *I parked wrongly. Therefore I got a parking ticket.*
 
+**Phrases & Expressions:**
+- **..., deswegen bin ich ...** — ..., that is why I ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Grund und Folge]] · B1)*
+- **Sie müssen sich deswegen keine großen Sorgen machen.** — You do not need to worry too much about this. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Beruhigen]] · B1)*
+
 **Source:** Netzwerk neu B1 K2 4b (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

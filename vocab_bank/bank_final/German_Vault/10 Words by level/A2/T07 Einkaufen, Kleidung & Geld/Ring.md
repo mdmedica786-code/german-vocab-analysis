@@ -35,6 +35,9 @@ status: "new"
 > Das Brautpaar trägt Ringe am Finger.
 > *The newlyweds wear rings on their fingers.*
 
+**Phrases & Expressions:**
+- **Das Brautpaar trägt Ringe am Finger** — *The newlyweds wear rings on their fingers* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

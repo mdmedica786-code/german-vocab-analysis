@@ -31,6 +31,10 @@ status: "new"
 > Ich bin Ihnen sehr dankbar für Ihre Hilfe.
 > *I am very grateful to you for your help.*
 
+**Phrases & Expressions:**
+- **Ich wäre Ihnen sehr dankbar, wenn Sie mir ... mitteilen könnten.** — I would be very grateful if you could let me know ... *([[B1-13 Formelle E-Mail und Brief|Bitte äußern]] · B1)*
+- **Ich wäre Ihnen dankbar, wenn Sie das prüfen könnten.** — I would be grateful if you could check that. *([[B2-04 Beschwerde und Reklamation|Höfliche Bitte]] · B2)*
+
 **Source:** Netzwerk neu B1 K9 8a (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

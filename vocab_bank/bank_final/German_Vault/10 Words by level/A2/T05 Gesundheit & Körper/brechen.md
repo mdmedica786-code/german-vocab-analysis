@@ -33,6 +33,12 @@ status: "new"
 > Er hat sich beim Skifahren verletzt, sein Bein ist gebrochen.
 > *He hurt himself skiing, his leg is broken.*
 
+**Phrases & Expressions:**
+- **sich das Bein brechen** — *to break; to fracture*
+- **den Rekord brechen** — *to break; to fracture*
+- **das Schweigen brechen** — *to break; to fracture*
+- **sein Wort brechen** — *to break; to fracture*
+
 **Collocations**
 - sich das Bein brechen
 - den Rekord brechen

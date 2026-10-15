@@ -35,6 +35,9 @@ status: "new"
 > Die Migrantin lernt schnell Deutsch.
 > *The migrant is learning German quickly.*
 
+**Phrases & Expressions:**
+- **Die Migrantin lernt schnell Deutsch** — *The migrant is learning German quickly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

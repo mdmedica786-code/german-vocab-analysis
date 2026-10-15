@@ -33,6 +33,11 @@ status: "new"
 > Der Aufsichtsrat hat dem Plan zugestimmt.
 > *The supervisory board approved the plan.*
 
+**Phrases & Expressions:**
+- **im Aufsichtsrat sitzen** — *supervisory board*
+- **der Aufsichtsrat tagt** — *supervisory board*
+- **Mitglied des Aufsichtsrats** — *supervisory board*
+
 **Collocations**
 - im Aufsichtsrat sitzen
 - der Aufsichtsrat tagt

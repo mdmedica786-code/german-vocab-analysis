@@ -33,6 +33,11 @@ status: "new"
 > Die Entscheidung löste große Empörung aus.
 > *The decision caused great outrage.*
 
+**Phrases & Expressions:**
+- **Empörung auslösen** — *outrage; indignation*
+- **voller Empörung** — *outrage; indignation*
+- **öffentliche Empörung** — *outrage; indignation*
+
 **Collocations**
 - Empörung auslösen
 - voller Empörung

@@ -30,6 +30,9 @@ status: "new"
 > Werktags öffnet die Praxis um acht.
 > *On weekdays the practice opens at eight.*
 
+**Phrases & Expressions:**
+- **Werktags öffnet die Praxis um acht** — *On weekdays the practice opens at eight* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

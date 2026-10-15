@@ -33,6 +33,11 @@ status: "new"
 > Zum Fest legt sie eine weiße Tischdecke auf.
 > *For the celebration she puts on a white tablecloth.*
 
+**Phrases & Expressions:**
+- **eine Tischdecke auflegen** — *tablecloth*
+- **die Tischdecke wechseln** — *tablecloth*
+- **eine bestickte Tischdecke** — *tablecloth*
+
 **Collocations**
 - eine Tischdecke auflegen
 - die Tischdecke wechseln

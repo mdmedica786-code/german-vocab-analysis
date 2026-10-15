@@ -35,6 +35,9 @@ status: "new"
 > Kannst du mir bei den Hausaufgaben helfen?
 > *Can you help me with the homework?*
 
+**Phrases & Expressions:**
+- **Kannst du mir bei den Hausaufgaben helfen** — *Can you help me with the homework* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10c (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

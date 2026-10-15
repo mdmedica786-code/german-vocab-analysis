@@ -29,6 +29,11 @@ status: "new"
 > Die Stadt hat eine mittelalterliche Altstadt.
 > *The town has a medieval old town.*
 
+**Phrases & Expressions:**
+- **eine mittelalterliche Stadt** — *medieval*
+- **die mittelalterliche Geschichte** — *medieval*
+- **ein mittelalterliches Schloss** — *medieval*
+
 **Collocations**
 - eine mittelalterliche Stadt
 - die mittelalterliche Geschichte

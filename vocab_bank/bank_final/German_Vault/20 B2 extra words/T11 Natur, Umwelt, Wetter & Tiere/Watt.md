@@ -33,6 +33,11 @@ status: "new"
 > Bei Ebbe kann man im Watt wandern.
 > *At low tide you can walk on the tidal flats.*
 
+**Phrases & Expressions:**
+- **im Watt wandern** — *tidal flats; mudflats*
+- **das Wattenmeer** — *tidal flats; mudflats*
+- **eine Wattwanderung** — *tidal flats; mudflats*
+
 **Collocations**
 - im Watt wandern
 - das Wattenmeer

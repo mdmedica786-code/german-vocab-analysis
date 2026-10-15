@@ -34,6 +34,9 @@ status: "new"
 > Dieser Pullover ist aus reiner Wolle.
 > *This sweater is made of pure wool.*
 
+**Phrases & Expressions:**
+- **Dieser Pullover ist aus reiner Wolle** — *This sweater is made of pure wool* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

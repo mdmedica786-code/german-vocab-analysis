@@ -26,6 +26,10 @@ status: "new"
 > Der Chef hat dem Vorschlag eine klare Absage erteilt.
 > *The boss gave the proposal a clear rejection.*
 
+**Phrases & Expressions:**
+- **jemandem eine Absage erteilen** — *to reject; to turn down*
+- **einer Idee eine Absage erteilen** — *to reject; to turn down*
+
 **Collocations**
 - jemandem eine Absage erteilen
 - einer Idee eine Absage erteilen

@@ -31,6 +31,10 @@ status: "new"
 > Sie argumentiert klar und sachlich.
 > *She argues clearly and objectively.*
 
+**Phrases & Expressions:**
+- **sachlich argumentieren** — *to argue (give reasons)*
+- **dagegen argumentieren** — *to argue (give reasons)*
+
 **Collocations**
 - sachlich argumentieren
 - dagegen argumentieren

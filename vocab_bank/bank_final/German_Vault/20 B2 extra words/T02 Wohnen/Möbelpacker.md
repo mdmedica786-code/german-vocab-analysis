@@ -33,6 +33,11 @@ status: "new"
 > Die Möbelpacker haben das Klavier vorsichtig die Treppe hochgetragen.
 > *The movers carefully carried the piano up the stairs.*
 
+**Phrases & Expressions:**
+- **Möbelpacker bestellen** — *furniture mover; removal man*
+- **die Möbelpacker kommen** — *furniture mover; removal man*
+- **zwei Möbelpacker** — *furniture mover; removal man*
+
 **Collocations**
 - Möbelpacker bestellen
 - die Möbelpacker kommen

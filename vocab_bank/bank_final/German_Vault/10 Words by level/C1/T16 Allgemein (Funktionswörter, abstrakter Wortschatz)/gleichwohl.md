@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Es regnete, gleichwohl gingen wir spazieren.
 > *It was raining, nevertheless we went for a walk.*
+
+**Phrases & Expressions:**
+- **Es regnete, gleichwohl gingen wir spazieren** — *It was raining, nevertheless we went for a walk* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

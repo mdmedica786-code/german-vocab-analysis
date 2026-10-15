@@ -34,6 +34,9 @@ status: "new"
 > Wasser ist eine wertvolle Ressource.
 > *Water is a valuable resource.*
 
+**Phrases & Expressions:**
+- **Wasser ist eine wertvolle Ressource** — *Water is a valuable resource* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?)
 <!-- bank:end -->
 

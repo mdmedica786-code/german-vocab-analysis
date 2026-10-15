@@ -35,6 +35,9 @@ status: "new"
 > Hast du ein Pflaster? Ich habe mich geschnitten.
 > *Do you have a plaster? I've cut myself.*
 
+**Phrases & Expressions:**
+- **Hast du ein Pflaster? Ich habe mich geschnitten** — *Do you have a plaster? I've cut myself* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 11a ÜB (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

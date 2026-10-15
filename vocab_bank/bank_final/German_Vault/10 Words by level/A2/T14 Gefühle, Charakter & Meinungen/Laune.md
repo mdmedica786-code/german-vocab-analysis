@@ -35,6 +35,9 @@ status: "new"
 > Heute habe ich schlechte Laune.
 > *I'm in a bad mood today.*
 
+**Phrases & Expressions:**
+- **Heute habe ich schlechte Laune** — *I'm in a bad mood today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 3e (Große und kleine Gefühle) · Goethe word list B1
 <!-- bank:end -->
 

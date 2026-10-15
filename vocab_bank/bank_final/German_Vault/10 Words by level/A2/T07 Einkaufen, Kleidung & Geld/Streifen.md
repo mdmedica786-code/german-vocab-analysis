@@ -34,6 +34,9 @@ status: "new"
 > Das Hemd hat blaue Streifen.
 > *The shirt has blue stripes.*
 
+**Phrases & Expressions:**
+- **Das Hemd hat blaue Streifen** — *The shirt has blue stripes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

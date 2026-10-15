@@ -32,6 +32,11 @@ status: "new"
 > Er ist an der Ampel auf das Auto vor ihm aufgefahren.
 > *He drove into the back of the car in front of him at the traffic lights.*
 
+**Phrases & Expressions:**
+- **auf ein Auto auffahren** — *to drive into the back (of); to drive up*
+- **auf der Autobahn auffahren** — *to drive into the back (of); to drive up*
+- **zu dicht auffahren** — *to drive into the back (of); to drive up*
+
 **Collocations**
 - auf ein Auto auffahren
 - auf der Autobahn auffahren

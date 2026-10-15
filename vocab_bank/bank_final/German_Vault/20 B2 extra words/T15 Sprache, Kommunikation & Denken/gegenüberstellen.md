@@ -32,6 +32,14 @@ status: "new"
 > Der Text stellt beide Positionen gegenüber.
 > *The text juxtaposes both positions.*
 
+**Phrases & Expressions:**
+- **es stellt sich die Frage, ob ...** — the question arises whether ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **gegenüber von ...** — opposite ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **es stellte sich heraus, dass ...** — it turned out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **es stellt sich heraus, dass ...** — it turns out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **es stellt sich die Frage** — the question arises *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **es stellt sich die Frage nach ...** — the question of ... arises *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+
 **Collocations**
 - Vor- und Nachteile gegenüberstellen
 - Zahlen gegenüberstellen

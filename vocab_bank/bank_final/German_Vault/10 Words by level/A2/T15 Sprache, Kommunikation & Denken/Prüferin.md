@@ -35,6 +35,9 @@ status: "new"
 > Die Prüferin lächelt freundlich.
 > *The examiner smiles in a friendly way.*
 
+**Phrases & Expressions:**
+- **Die Prüferin lächelt freundlich** — *The examiner smiles in a friendly way* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3c (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

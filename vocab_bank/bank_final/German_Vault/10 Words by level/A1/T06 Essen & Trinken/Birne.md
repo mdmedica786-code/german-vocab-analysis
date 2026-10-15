@@ -36,6 +36,9 @@ status: "new"
 > Ein Kilo Birnen, bitte!
 > *A kilo of pears, please!*
 
+**Phrases & Expressions:**
+- **Ein Kilo Birnen, bitte** — *A kilo of pears, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 3c ÜB (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

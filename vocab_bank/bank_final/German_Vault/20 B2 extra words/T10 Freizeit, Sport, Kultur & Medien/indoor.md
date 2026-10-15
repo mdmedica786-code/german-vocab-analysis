@@ -29,6 +29,11 @@ status: "new"
 > Im Winter trainieren wir indoor.
 > *In winter we train indoors.*
 
+**Phrases & Expressions:**
+- **indoor trainieren** — *indoor (inside buildings)*
+- **ein Indoor-Spielplatz** — *indoor (inside buildings)*
+- **indoor spielen** — *indoor (inside buildings)*
+
 **Collocations**
 - indoor trainieren
 - ein Indoor-Spielplatz

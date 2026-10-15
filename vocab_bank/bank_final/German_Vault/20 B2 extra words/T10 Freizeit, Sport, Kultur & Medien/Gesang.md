@@ -33,6 +33,11 @@ status: "new"
 > Der Gesang der Vögel weckte uns früh.
 > *The singing of the birds woke us early.*
 
+**Phrases & Expressions:**
+- **der Gesang der Vögel** — *singing; song*
+- **Gesang und Tanz** — *singing; song*
+- **ein klarer Gesang** — *singing; song*
+
 **Collocations**
 - der Gesang der Vögel
 - Gesang und Tanz

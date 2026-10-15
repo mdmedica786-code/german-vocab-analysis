@@ -30,6 +30,9 @@ status: "new"
 > Sie hört schlecht, sie ist schon fast taub.
 > *She hears badly, she is almost deaf.*
 
+**Phrases & Expressions:**
+- **Sie hört schlecht, sie ist schon fast taub** — *She hears badly, she is almost deaf* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

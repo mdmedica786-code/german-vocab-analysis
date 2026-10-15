@@ -33,6 +33,11 @@ status: "new"
 > Im Mittelalter lebten die meisten Menschen auf dem Land.
 > *In the Middle Ages most people lived in the countryside.*
 
+**Phrases & Expressions:**
+- **im Mittelalter** — *Middle Ages*
+- **das frühe Mittelalter** — *Middle Ages*
+- **Mittelalter und Neuzeit** — *Middle Ages*
+
 **Collocations**
 - im Mittelalter
 - das frühe Mittelalter

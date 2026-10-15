@@ -29,6 +29,11 @@ status: "new"
 > Das Projekt ist freilich noch nicht abgeschlossen.
 > *The project is admittedly not yet finished.*
 
+**Phrases & Expressions:**
+- **freilich nicht** — *admittedly; of course*
+- **das ist freilich richtig** — *admittedly; of course*
+- **freilich gibt es Ausnahmen** — *admittedly; of course*
+
 **Collocations**
 - freilich nicht
 - das ist freilich richtig

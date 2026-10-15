@@ -29,6 +29,11 @@ status: "new"
 > Der Anstieg verläuft ungefähr linear.
 > *The increase runs roughly linearly.*
 
+**Phrases & Expressions:**
+- **linear wachsen** — *linear*
+- **ein linearer Verlauf** — *linear*
+- **eine lineare Gleichung** — *linear*
+
 **Collocations**
 - linear wachsen
 - ein linearer Verlauf

@@ -33,6 +33,11 @@ status: "new"
 > In meinem Postfach landet jeden Tag viel Spam.
 > *A lot of spam lands in my inbox every day.*
 
+**Phrases & Expressions:**
+- **Spam filtern** — *spam*
+- **im Spam-Ordner** — *spam*
+- **Spam löschen** — *spam*
+
 **Collocations**
 - Spam filtern
 - im Spam-Ordner

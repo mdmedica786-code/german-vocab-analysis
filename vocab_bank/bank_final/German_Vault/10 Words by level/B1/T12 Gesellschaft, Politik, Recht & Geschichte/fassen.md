@@ -33,6 +33,14 @@ status: "new"
 > Für das neue Jahr habe ich einen guten Vorsatz gefasst.
 > *For the new year I have made a good resolution.*
 
+**Phrases & Expressions:**
+- **Fassen wir kurz zusammen: ...** — Let's summarise briefly: ... *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Absprachen zusammenfassen]] · B1)*
+- **Ich fasse kurz zusammen: ...** — Let me briefly summarise: ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Zusammenfassen]] · B1)*
+- **Zum Schluss fasse ich die wichtigsten Punkte zusammen.** — Finally I will summarise the most important points. *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Aufbau ankündigen]] · B2)*
+- **Ich fasse meine Position kurz zusammen: ...** — Let me briefly sum up my position: ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Meinung zusammenfassen]] · B2)*
+- **Ich fasse die Lage zusammen: ...** — I summarise the situation: ... *([[FSP-16 Notfall, Triage und Anweisungen im Team|Situation beschreiben]] · B2)*
+- **einen Entschluss fassen** — *to grasp; to hold (capacity); to catch*
+
 **Collocations**
 - einen Entschluss fassen
 - Mut fassen

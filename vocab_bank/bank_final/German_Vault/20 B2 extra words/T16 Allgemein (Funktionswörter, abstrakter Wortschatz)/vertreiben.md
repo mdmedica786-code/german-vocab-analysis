@@ -31,6 +31,11 @@ status: "new"
 > Der Lärm vertrieb die Vögel aus dem Garten.
 > *The noise drove the birds out of the garden.*
 
+**Phrases & Expressions:**
+- **sich die Zeit vertreiben** — *to drive away; to sell; to distribute*
+- **Waren vertreiben** — *to drive away; to sell; to distribute*
+- **jemanden aus dem Haus vertreiben** — *to drive away; to sell; to distribute*
+
 **Collocations**
 - sich die Zeit vertreiben
 - Waren vertreiben

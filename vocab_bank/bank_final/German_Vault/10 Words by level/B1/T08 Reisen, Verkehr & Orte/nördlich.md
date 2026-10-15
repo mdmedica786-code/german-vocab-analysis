@@ -30,6 +30,9 @@ status: "new"
 > Nördlich von Berlin liegt die Ostsee.
 > *The Baltic Sea lies north of Berlin.*
 
+**Phrases & Expressions:**
+- **Nördlich von Berlin liegt die Ostsee** — *The Baltic Sea lies north of Berlin* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

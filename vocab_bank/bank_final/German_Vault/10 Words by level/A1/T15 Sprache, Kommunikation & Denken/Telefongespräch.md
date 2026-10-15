@@ -34,6 +34,9 @@ status: "new"
 > Das Telefongespräch dauerte zehn Minuten.
 > *The phone call lasted ten minutes.*
 
+**Phrases & Expressions:**
+- **Das Telefongespräch dauerte zehn Minuten** — *The phone call lasted ten minutes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 14 (Alltag und Familie)
 <!-- bank:end -->
 

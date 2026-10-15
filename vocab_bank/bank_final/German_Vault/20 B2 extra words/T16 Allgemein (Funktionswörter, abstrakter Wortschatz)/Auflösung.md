@@ -33,6 +33,11 @@ status: "new"
 > Die Auflösung des Bildes ist sehr hoch.
 > *The resolution of the picture is very high.*
 
+**Phrases & Expressions:**
+- **die Auflösung des Rätsels** — *dissolution; resolution; solution*
+- **eine hohe Auflösung** — *dissolution; resolution; solution*
+- **die Auflösung des Vertrags** — *dissolution; resolution; solution*
+
 **Collocations**
 - die Auflösung des Rätsels
 - eine hohe Auflösung

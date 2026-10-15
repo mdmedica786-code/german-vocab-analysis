@@ -32,6 +32,9 @@ status: "new"
 > Der Hubschrauber kreist über der Stadt.
 > *The helicopter is circling above the city.*
 
+**Phrases & Expressions:**
+- **Der Hubschrauber kreist über der Stadt** — *The helicopter is circling above the city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 5b (In Hamburg)
 <!-- bank:end -->
 

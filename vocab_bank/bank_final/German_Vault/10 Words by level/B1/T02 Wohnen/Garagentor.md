@@ -34,6 +34,9 @@ status: "new"
 > Das Garagentor lässt sich nicht öffnen.
 > *The garage door will not open.*
 
+**Phrases & Expressions:**
+- **Das Garagentor lässt sich nicht öffnen** — *The garage door will not open* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

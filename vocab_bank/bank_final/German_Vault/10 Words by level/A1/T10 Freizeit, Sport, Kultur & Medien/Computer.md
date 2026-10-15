@@ -35,6 +35,9 @@ status: "new"
 > Wann bekommst du deinen neuen Computer?
 > *When are you getting your new computer?*
 
+**Phrases & Expressions:**
+- **Wann bekommst du deinen neuen Computer** — *When are you getting your new computer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

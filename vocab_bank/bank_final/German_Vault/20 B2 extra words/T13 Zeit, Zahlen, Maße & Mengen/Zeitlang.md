@@ -33,6 +33,11 @@ status: "new"
 > Er wohnte eine Zeitlang in Wien.
 > *He lived in Vienna for a while.*
 
+**Phrases & Expressions:**
+- **eine Zeitlang** — *while; period (only in "eine Zeitlang")*
+- **eine Zeitlang warten** — *while; period (only in "eine Zeitlang")*
+- **eine Zeitlang bleiben** — *while; period (only in "eine Zeitlang")*
+
 **Collocations**
 - eine Zeitlang
 - eine Zeitlang warten

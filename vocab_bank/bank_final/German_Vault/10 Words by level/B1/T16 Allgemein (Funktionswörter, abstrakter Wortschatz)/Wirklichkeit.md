@@ -34,6 +34,12 @@ status: "new"
 > Das Buch beschreibt die Wirklichkeit um 1900 sehr gut.
 > *The book describes the reality around 1900 very well.*
 
+**Phrases & Expressions:**
+- **in Wirklichkeit** — in reality *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B2)*
+- **Traum und Wirklichkeit** — *reality*
+- **Wirklichkeit werden** — *reality*
+- **die Wirklichkeit sehen** — *reality*
+
 **Collocations**
 - in Wirklichkeit
 - Traum und Wirklichkeit

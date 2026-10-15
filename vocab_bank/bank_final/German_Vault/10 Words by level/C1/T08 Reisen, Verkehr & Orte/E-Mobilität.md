@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Die E-Mobilität wird in Städten wichtiger.
 > *E-mobility is becoming more important in cities.*
+
+**Phrases & Expressions:**
+- **Die E-Mobilität wird in Städten wichtiger** — *E-mobility is becoming more important in cities* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

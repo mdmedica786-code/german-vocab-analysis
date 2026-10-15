@@ -35,6 +35,13 @@ status: "new"
 > Denk an die Zukunft.
 > *Think of the future.*
 
+**Phrases & Expressions:**
+- **in Zukunft** — in future *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **für die Zukunft** — for the future *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **in die Zukunft** — into the future *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B2)*
+- **in der Zukunft** — in the future *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **In Zukunft wird es wichtig sein, ...** — In future it will be important to ... *([[B2-08 Zusammenfassen, Fazit und Schlussfolgerung|Ausblick geben]] · B2)*
+
 **Source:** Netzwerk neu A2 K4 3e (Große und kleine Gefühle) · Goethe word list B1
 <!-- bank:end -->
 

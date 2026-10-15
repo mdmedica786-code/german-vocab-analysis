@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Inwieweit stimmt das?
 > *To what extent is that true?*
+
+**Phrases & Expressions:**
+- **Inwieweit stimmt das** — *To what extent is that true* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

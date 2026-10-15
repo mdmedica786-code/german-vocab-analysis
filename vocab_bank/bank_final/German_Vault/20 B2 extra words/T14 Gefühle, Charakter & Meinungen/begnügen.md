@@ -32,6 +32,11 @@ status: "new"
 > Er begnügt sich mit einem kleinen Gehalt.
 > *He contents himself with a small salary.*
 
+**Phrases & Expressions:**
+- **sich mit etwas begnügen** — *to content oneself (with)*
+- **sich begnügen müssen** — *to content oneself (with)*
+- **sich damit begnügen, zu** — *to content oneself (with)*
+
 **Collocations**
 - sich mit etwas begnügen
 - sich begnügen müssen

@@ -33,6 +33,9 @@ status: "new"
 > Dieser Wein riecht gut.
 > *This wine smells good.*
 
+**Phrases & Expressions:**
+- **Dieser Wein riecht gut** — *This wine smells good* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 6c ÜB (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

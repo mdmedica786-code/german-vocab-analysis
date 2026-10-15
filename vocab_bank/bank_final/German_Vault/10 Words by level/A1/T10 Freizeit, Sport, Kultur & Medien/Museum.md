@@ -35,6 +35,9 @@ status: "new"
 > Wir waren mit unserer Klasse im Museum.
 > *We went to the museum with our class.*
 
+**Phrases & Expressions:**
+- **Wir waren mit unserer Klasse im Museum** — *We went to the museum with our class* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 5b (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

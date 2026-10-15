@@ -33,6 +33,13 @@ status: "new"
 > Die Patientin klagt über Schwindel.
 > *The patient complains of dizziness.*
 
+**Phrases & Expressions:**
+- **Haben Sie Kopfschmerzen oder Schwindel?** — Do you have headaches or dizziness? *([[FSP-06 Systemanamnese (Organsysteme)|Nervensystem]] · A2)*
+- **unter Schwindel leiden** — *dizziness; swindle*
+- **Schwindel und Übelkeit** — *dizziness; swindle*
+- **plötzlicher Schwindel** — *dizziness; swindle*
+- **Schwindel auslösen** — *dizziness; swindle*
+
 **Collocations**
 - unter Schwindel leiden
 - Schwindel und Übelkeit

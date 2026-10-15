@@ -34,6 +34,9 @@ status: "new"
 > Lesen Sie bitte den ersten Absatz des Textes.
 > *Please read the first paragraph of the text.*
 
+**Phrases & Expressions:**
+- **Lesen Sie bitte den ersten Absatz des Textes** — *Please read the first paragraph of the text* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

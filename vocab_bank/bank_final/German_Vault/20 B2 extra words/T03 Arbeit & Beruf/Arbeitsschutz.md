@@ -33,6 +33,11 @@ status: "new"
 > Der Arbeitsschutz wird auf der Baustelle streng kontrolliert.
 > *Occupational safety is strictly checked on the building site.*
 
+**Phrases & Expressions:**
+- **den Arbeitsschutz beachten** — *occupational safety*
+- **Vorschriften zum Arbeitsschutz** — *occupational safety*
+- **Arbeitsschutz verbessern** — *occupational safety*
+
 **Collocations**
 - den Arbeitsschutz beachten
 - Vorschriften zum Arbeitsschutz

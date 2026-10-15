@@ -33,6 +33,9 @@ status: "new"
 > Wo muss ich unterschreiben?
 > *Where do I have to sign?*
 
+**Phrases & Expressions:**
+- **Wenn Sie einverstanden sind, unterschreiben Sie bitte hier.** — If you agree, please sign here. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Unterschrift einholen]] · B1)*
+
 **Source:** Netzwerk neu A1 K9 4f ÜB (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

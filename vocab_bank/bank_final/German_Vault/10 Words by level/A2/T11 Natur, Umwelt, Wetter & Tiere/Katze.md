@@ -35,6 +35,9 @@ status: "new"
 > Meine Tochter wünscht sich eine Katze.
 > *My daughter wants a cat.*
 
+**Phrases & Expressions:**
+- **Meine Tochter wünscht sich eine Katze** — *My daughter wants a cat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 10c (Zusammen leben) · Goethe word list A2
 <!-- bank:end -->
 

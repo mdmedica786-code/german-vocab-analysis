@@ -34,6 +34,9 @@ status: "new"
 > Im Feinkostgeschäft gibt es viele Delikatessen.
 > *In the delicatessen there are many delicacies.*
 
+**Phrases & Expressions:**
+- **Im Feinkostgeschäft gibt es viele Delikatessen** — *In the delicatessen there are many delicacies* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt)
 <!-- bank:end -->
 

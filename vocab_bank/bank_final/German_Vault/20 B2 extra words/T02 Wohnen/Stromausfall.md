@@ -33,6 +33,11 @@ status: "new"
 > Wegen eines Stromausfalls war das ganze Viertel dunkel.
 > *Because of a power cut the whole district was dark.*
 
+**Phrases & Expressions:**
+- **bei einem Stromausfall** — *power cut*
+- **Stromausfall melden** — *power cut*
+- **langer Stromausfall** — *power cut*
+
 **Collocations**
 - bei einem Stromausfall
 - Stromausfall melden

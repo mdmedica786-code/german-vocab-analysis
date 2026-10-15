@@ -33,6 +33,11 @@ status: "new"
 > Sie spielte in dem Film nur eine kleine Nebenrolle.
 > *She played only a small supporting role in the film.*
 
+**Phrases & Expressions:**
+- **eine Nebenrolle spielen** — *supporting role*
+- **in einer Nebenrolle** — *supporting role*
+- **Nebenrolle und Hauptrolle** — *supporting role*
+
 **Collocations**
 - eine Nebenrolle spielen
 - in einer Nebenrolle

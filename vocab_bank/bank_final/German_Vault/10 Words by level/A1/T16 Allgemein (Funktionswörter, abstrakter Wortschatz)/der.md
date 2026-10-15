@@ -32,6 +32,9 @@ status: "new"
 > der Kindergarten
 > **
 
+**Phrases & Expressions:**
+- **der Kindergarten** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

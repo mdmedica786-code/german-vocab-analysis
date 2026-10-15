@@ -35,6 +35,12 @@ status: "new"
 > An den Grenzen gibt es kaum noch Kontrollen.
 > *There are hardly any checks at the borders any more.*
 
+**Phrases & Expressions:**
+- **Ich möchte Sie in zwei Wochen zur Kontrolle sehen.** — I would like to see you for a check-up in two weeks. *([[FSP-11 Therapie und Medikamente erklären|Kontrolltermin vereinbaren]] · B2)*
+- **Bitte gehen Sie in einer Woche zu Ihrem Hausarzt zur Kontrolle.** — Please see your GP for a check-up in a week. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Kontrolltermin]] · B1)*
+- **Bei Zimmer sieben ist noch eine Kontrolle offen.** — A check is still outstanding in room seven. *([[FSP-19 Übergabe, Konsil und Rücksprache|Schichtübergabe]] · B2)*
+- **Wir empfehlen eine Kontrolle der Entzündungsparameter in einer Woche.** — We recommend a check of the inflammatory parameters in a week. *([[FSP-20 Arztbrief und Dokumentation|Procedere und Empfehlung]] · B2)*
+
 **Source:** Netzwerk neu A1 K8 8b (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

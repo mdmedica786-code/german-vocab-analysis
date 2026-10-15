@@ -29,6 +29,10 @@ status: "new"
 > Die Krise stellte unsere Freundschaft auf die Probe.
 > *The crisis put our friendship to the test.*
 
+**Phrases & Expressions:**
+- **jemanden auf die Probe stellen** — *to put to the test*
+- **auf eine harte Probe stellen** — *to put to the test*
+
 **Collocations**
 - jemanden auf die Probe stellen
 - auf eine harte Probe stellen

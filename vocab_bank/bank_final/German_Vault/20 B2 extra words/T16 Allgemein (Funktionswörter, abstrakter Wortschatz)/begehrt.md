@@ -29,6 +29,11 @@ status: "new"
 > Die Wohnungen in der Innenstadt sind sehr begehrt.
 > *Flats in the city centre are in great demand.*
 
+**Phrases & Expressions:**
+- **ein begehrter Platz** — *in demand; sought after*
+- **heiß begehrt** — *in demand; sought after*
+- **begehrte Fachkräfte** — *in demand; sought after*
+
 **Collocations**
 - ein begehrter Platz
 - heiß begehrt

@@ -33,6 +33,11 @@ status: "new"
 > Desinformation im Netz ist ein wachsendes Problem.
 > *Disinformation online is a growing problem.*
 
+**Phrases & Expressions:**
+- **Desinformation verbreiten** — *disinformation*
+- **gegen Desinformation vorgehen** — *disinformation*
+- **gezielte Desinformation** — *disinformation*
+
 **Collocations**
 - Desinformation verbreiten
 - gegen Desinformation vorgehen

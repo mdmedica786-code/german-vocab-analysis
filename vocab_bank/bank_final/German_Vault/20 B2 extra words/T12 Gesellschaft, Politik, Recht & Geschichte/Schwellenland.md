@@ -33,6 +33,11 @@ status: "new"
 > Brasilien gilt als wichtiges Schwellenland.
 > *Brazil is regarded as an important emerging economy.*
 
+**Phrases & Expressions:**
+- **Schwellenländer und Industrieländer** — *emerging economy; newly industrialised country*
+- **aufstrebendes Schwellenland** — *emerging economy; newly industrialised country*
+- **zum Schwellenland zählen** — *emerging economy; newly industrialised country*
+
 **Collocations**
 - Schwellenländer und Industrieländer
 - aufstrebendes Schwellenland

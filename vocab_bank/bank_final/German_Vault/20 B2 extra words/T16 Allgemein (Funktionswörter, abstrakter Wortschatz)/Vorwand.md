@@ -33,6 +33,11 @@ status: "new"
 > Er nutzte die Krankheit als Vorwand.
 > *He used the illness as a pretext.*
 
+**Phrases & Expressions:**
+- **unter einem Vorwand** — *pretext; excuse*
+- **als Vorwand dienen** — *pretext; excuse*
+- **einen Vorwand suchen** — *pretext; excuse*
+
 **Collocations**
 - unter einem Vorwand
 - als Vorwand dienen

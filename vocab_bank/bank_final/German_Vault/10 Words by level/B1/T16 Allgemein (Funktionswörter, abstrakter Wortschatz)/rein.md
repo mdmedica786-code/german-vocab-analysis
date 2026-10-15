@@ -31,6 +31,13 @@ status: "new"
 > Es war reines Glück, dass ich mein Handy wieder gefunden habe.
 > *It was pure luck that I found my mobile phone again.*
 
+**Phrases & Expressions:**
+- **Die Herztöne sind rein und rhythmisch.** — The heart sounds are clear and rhythmic. *([[FSP-08 Befunde beschreiben und berichten|Auskultation]] · B2)*
+- **reines Wasser** — *pure; clean; sheer*
+- **reines Glück** — *pure; clean; sheer*
+- **rein zufällig** — *pure; clean; sheer*
+- **etwas ins Reine bringen** — *pure; clean; sheer*
+
 **Collocations**
 - reines Wasser
 - reines Glück

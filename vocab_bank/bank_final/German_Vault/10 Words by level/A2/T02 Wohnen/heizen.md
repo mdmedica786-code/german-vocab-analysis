@@ -33,6 +33,9 @@ status: "new"
 > Wir heizen mit Öl.
 > *We heat with oil.*
 
+**Phrases & Expressions:**
+- **Wir heizen mit Öl** — *We heat with oil* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

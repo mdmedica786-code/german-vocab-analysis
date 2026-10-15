@@ -33,6 +33,11 @@ status: "new"
 > Das Bild zieht den Betrachter in seinen Bann.
 > *The picture draws the viewer in.*
 
+**Phrases & Expressions:**
+- **ein aufmerksamer Betrachter** — *viewer; observer*
+- **der Betrachter sieht** — *viewer; observer*
+- **aus Sicht des Betrachters** — *viewer; observer*
+
 **Collocations**
 - ein aufmerksamer Betrachter
 - der Betrachter sieht

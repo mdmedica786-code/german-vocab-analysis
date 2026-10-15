@@ -29,6 +29,11 @@ status: "new"
 > Ich trinke heute nur alkoholfreies Bier.
 > *Today I only drink non-alcoholic beer.*
 
+**Phrases & Expressions:**
+- **alkoholfreies Bier** — *alcohol-free; non-alcoholic*
+- **alkoholfreie Getränke** — *alcohol-free; non-alcoholic*
+- **alkoholfrei trinken** — *alcohol-free; non-alcoholic*
+
 **Collocations**
 - alkoholfreies Bier
 - alkoholfreie Getränke

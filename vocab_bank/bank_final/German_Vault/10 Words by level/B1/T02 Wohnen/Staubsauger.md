@@ -34,6 +34,9 @@ status: "new"
 > Der Staubsauger ist sehr laut.
 > *The vacuum cleaner is very loud.*
 
+**Phrases & Expressions:**
+- **Der Staubsauger ist sehr laut** — *The vacuum cleaner is very loud* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 3a (Das ist ja praktisch!)
 <!-- bank:end -->
 

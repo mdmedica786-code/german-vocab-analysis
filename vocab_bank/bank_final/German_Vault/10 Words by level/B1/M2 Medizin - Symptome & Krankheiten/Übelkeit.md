@@ -33,6 +33,14 @@ status: "new"
 > Der Patient klagt über Übelkeit.
 > *The patient complains of nausea.*
 
+**Phrases & Expressions:**
+- **Haben Sie Übelkeit oder Erbrechen?** — Do you have nausea or vomiting? *([[FSP-06 Systemanamnese (Organsysteme)|Magen-Darm]] · A2)*
+- **Mögliche Nebenwirkungen sind Übelkeit und Kopfschmerzen.** — Possible side effects are nausea and headaches. *([[FSP-11 Therapie und Medikamente erklären|Nebenwirkungen erklären]] · B2)*
+- **unter Übelkeit leiden** — *nausea*
+- **Übelkeit und Erbrechen** — *nausea*
+- **morgendliche Übelkeit** — *nausea*
+- **Übelkeit auslösen** — *nausea*
+
 **Collocations**
 - unter Übelkeit leiden
 - Übelkeit und Erbrechen

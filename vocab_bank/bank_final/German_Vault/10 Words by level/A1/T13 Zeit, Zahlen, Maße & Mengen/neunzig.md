@@ -31,6 +31,9 @@ status: "new"
 > Die alte Dame ist neunzig Jahre alt.
 > *The old lady is ninety years old.*
 
+**Phrases & Expressions:**
+- **Die alte Dame ist neunzig Jahre alt** — *The old lady is ninety years old* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

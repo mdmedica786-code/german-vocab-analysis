@@ -31,6 +31,14 @@ status: "new"
 > Tarek möchte zwar studieren, aber andererseits möchte er auch gleich Geld verdienen.
 > *Tarek would like to study, but on the other hand he also wants to earn money straight away.*
 
+**Phrases & Expressions:**
+- **einerseits ..., andererseits ...** — on the one hand..., on the other hand... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B1)*
+- **Einerseits stimmt das, andererseits ...** — On the one hand that's true, on the other hand ... *([[B1-02 Zustimmen und Widersprechen|Teilweise zustimmen]] · B1)*
+- **Einerseits ..., andererseits ...** — On the one hand ..., on the other hand ... *([[B1-04 Vor- und Nachteile nennen|Gegenüberstellen]] · B1)*
+- **einerseits ... andererseits** — *on the other hand*
+- **andererseits aber** — *on the other hand*
+- **und andererseits** — *on the other hand*
+
 **Collocations**
 - einerseits ... andererseits
 - andererseits aber

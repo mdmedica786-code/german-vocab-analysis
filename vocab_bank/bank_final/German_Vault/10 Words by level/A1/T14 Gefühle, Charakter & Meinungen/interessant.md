@@ -31,6 +31,14 @@ status: "new"
 > Ich lese gerade ein interessantes Buch.
 > *I'm reading an interesting book at the moment.*
 
+**Phrases & Expressions:**
+- **Das Thema war für mich neu und sehr interessant.** — The topic was new to me and very interesting. *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Positives Feedback geben]] · B1)*
+- **Vielen Dank für die interessanten Informationen.** — Thank you very much for the interesting information. *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Sich bedanken]] · B1)*
+- **Wirklich? Das klingt interessant!** — Really? That sounds interesting! *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Interesse zeigen]] · A2)*
+- **Das ist ja interessant, das wusste ich nicht.** — That's interesting, I didn't know that. *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Interesse zeigen]] · B1)*
+- **ein interessantes Angebot** — *interesting*
+- **interessant klingen** — *interesting*
+
 **Collocations**
 - ein interessantes Angebot
 - interessant klingen

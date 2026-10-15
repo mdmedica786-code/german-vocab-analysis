@@ -34,6 +34,9 @@ status: "new"
 > Meine Lieblingsfarbe ist Blau.
 > *My favourite colour is blue.*
 
+**Phrases & Expressions:**
+- **Meine Lieblingsfarbe ist Blau** — *My favourite colour is blue* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7d (Ab in den Urlaub!)
 <!-- bank:end -->
 

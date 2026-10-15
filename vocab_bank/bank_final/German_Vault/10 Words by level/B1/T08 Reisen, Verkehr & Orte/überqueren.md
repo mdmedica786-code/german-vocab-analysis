@@ -33,6 +33,9 @@ status: "new"
 > Bitte die Straße nur an der Ampel überqueren.
 > *Please cross the street only at the traffic light.*
 
+**Phrases & Expressions:**
+- **Bitte die Straße nur an der Ampel überqueren** — *Please cross the street only at the traffic light* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 6c ÜB (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

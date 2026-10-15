@@ -33,6 +33,9 @@ status: "new"
 > Die Kinder spielen draußen.
 > *The children are playing outside.*
 
+**Phrases & Expressions:**
+- **Die Kinder spielen draußen** — *The children are playing outside* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 2b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

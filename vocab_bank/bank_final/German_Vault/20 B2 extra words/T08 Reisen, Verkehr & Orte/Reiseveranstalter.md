@@ -33,6 +33,11 @@ status: "new"
 > Der Reiseveranstalter hat die Reise wegen zu weniger Buchungen abgesagt.
 > *The tour operator cancelled the trip because of too few bookings.*
 
+**Phrases & Expressions:**
+- **einen Reiseveranstalter wählen** — *tour operator*
+- **beim Reiseveranstalter buchen** — *tour operator*
+- **seriöser Reiseveranstalter** — *tour operator*
+
 **Collocations**
 - einen Reiseveranstalter wählen
 - beim Reiseveranstalter buchen

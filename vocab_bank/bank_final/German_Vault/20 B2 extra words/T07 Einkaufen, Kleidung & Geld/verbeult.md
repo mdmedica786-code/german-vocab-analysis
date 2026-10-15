@@ -29,6 +29,11 @@ status: "new"
 > Das Auto hat eine verbeulte Tür.
 > *The car has a dented door.*
 
+**Phrases & Expressions:**
+- **eine verbeulte Tür** — *dented*
+- **verbeult sein** — *dented*
+- **ein verbeultes Blech** — *dented*
+
 **Collocations**
 - eine verbeulte Tür
 - verbeult sein

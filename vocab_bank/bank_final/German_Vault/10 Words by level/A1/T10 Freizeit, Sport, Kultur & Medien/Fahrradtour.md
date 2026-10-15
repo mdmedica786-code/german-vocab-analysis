@@ -34,6 +34,9 @@ status: "new"
 > Am Sonntag machen wir eine Fahrradtour am Rhein.
 > *On Sunday we are going on a bike ride along the Rhine.*
 
+**Phrases & Expressions:**
+- **Am Sonntag machen wir eine Fahrradtour am Rhein** — *On Sunday we are going on a bike ride along the Rhine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 3a (Zeit mit Freunden)
 <!-- bank:end -->
 

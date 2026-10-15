@@ -34,6 +34,9 @@ status: "new"
 > Als Katzenfreundin habe ich drei Katzen.
 > *As a cat lover I have three cats.*
 
+**Phrases & Expressions:**
+- **Als Katzenfreundin habe ich drei Katzen** — *As a cat lover I have three cats* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?)
 <!-- bank:end -->
 

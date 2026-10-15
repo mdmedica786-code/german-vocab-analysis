@@ -32,6 +32,9 @@ status: "new"
 > Das Gericht hat den Täter zu einer Geldstrafe verurteilt.
 > *The court sentenced the offender to a fine.*
 
+**Phrases & Expressions:**
+- **Das Gericht hat den Täter zu einer Geldstrafe verurteilt** — *The court sentenced the offender to a fine* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

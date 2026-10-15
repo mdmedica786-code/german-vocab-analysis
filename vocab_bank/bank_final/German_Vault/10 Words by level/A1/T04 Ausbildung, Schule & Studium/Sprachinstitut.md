@@ -34,6 +34,9 @@ status: "new"
 > Ich lerne Deutsch am Sprachinstitut.
 > *I'm learning German at the language institute.*
 
+**Phrases & Expressions:**
+- **Ich lerne Deutsch am Sprachinstitut** — *I'm learning German at the language institute* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 7b (Arbeitsalltag)
 <!-- bank:end -->
 

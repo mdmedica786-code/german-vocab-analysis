@@ -32,6 +32,14 @@ status: "new"
 > Rund 1.000 Studenten gibt es an der Uni.
 > *There are around 1000 students at the university.*
 
+**Phrases & Expressions:**
+- **rund um die Uhr** — around the clock *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **rund um** — all about *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B2)*
+- **Der Unterschied beträgt rund ... Prozent.** — The difference is around ... percent. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Zahlen vergleichen]] · B2)*
+- **ein runder Tisch** — *round; around*
+- **rund zehn Prozent** — *round; around*
+- **rund herum** — *round; around*
+
 **Collocations**
 - rund um die Uhr
 - ein runder Tisch

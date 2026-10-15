@@ -33,6 +33,11 @@ status: "new"
 > Sie begrüßte ihn mit großer Zärtlichkeit.
 > *She greeted him with great tenderness.*
 
+**Phrases & Expressions:**
+- **Zärtlichkeit zeigen** — *tenderness; affection*
+- **mit Zärtlichkeit** — *tenderness; affection*
+- **Zärtlichkeiten austauschen** — *tenderness; affection*
+
 **Collocations**
 - Zärtlichkeit zeigen
 - mit Zärtlichkeit

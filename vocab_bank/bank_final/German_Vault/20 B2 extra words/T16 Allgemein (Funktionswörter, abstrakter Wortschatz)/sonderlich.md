@@ -29,6 +29,11 @@ status: "new"
 > Er war nicht sonderlich begeistert.
 > *He was not particularly enthusiastic.*
 
+**Phrases & Expressions:**
+- **nicht sonderlich** — *particular; special*
+- **sonderlich interessiert** — *particular; special*
+- **nichts Sonderliches** — *particular; special*
+
 **Collocations**
 - nicht sonderlich
 - sonderlich interessiert

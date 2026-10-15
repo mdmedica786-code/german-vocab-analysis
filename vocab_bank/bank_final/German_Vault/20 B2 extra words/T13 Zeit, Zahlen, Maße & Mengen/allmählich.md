@@ -29,6 +29,9 @@ status: "new"
 > Allmählich wird es im Frühling wärmer.
 > *Gradually it is getting warmer in spring.*
 
+**Phrases & Expressions:**
+- **Allmählich wird es im Frühling wärmer** — *Gradually it is getting warmer in spring* *(Beispiel im Kontext)*
+
 **Exam use:** Alltag, Lesen
 <!-- bank:end -->
 

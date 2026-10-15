@@ -30,6 +30,9 @@ status: "new"
 > Ich mag kein künstliches Licht.
 > *I do not like artificial light.*
 
+**Phrases & Expressions:**
+- **Ich mag kein künstliches Licht** — *I do not like artificial light* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

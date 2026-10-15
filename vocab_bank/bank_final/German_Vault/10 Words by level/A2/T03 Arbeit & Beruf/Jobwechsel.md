@@ -34,6 +34,9 @@ status: "new"
 > Ein Jobwechsel kann neue Chancen bringen.
 > *A job change can bring new opportunities.*
 
+**Phrases & Expressions:**
+- **Ein Jobwechsel kann neue Chancen bringen** — *A job change can bring new opportunities* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Ihr Haar ist weich und seidig.
 > *Her hair is soft and silky.*
 
+**Phrases & Expressions:**
+- **seidiges Haar** — *silky*
+- **seidig glänzen** — *silky*
+- **eine seidige Haut** — *silky*
+
 **Collocations**
 - seidiges Haar
 - seidig glänzen

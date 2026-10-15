@@ -31,6 +31,11 @@ status: "new"
 > Das Gerät piept, wenn der Akku leer ist.
 > *The device beeps when the battery is empty.*
 
+**Phrases & Expressions:**
+- **der Rauchmelder piept** — *to beep; to chirp; to squeak*
+- **das Handy piept** — *to beep; to chirp; to squeak*
+- **leise piepen** — *to beep; to chirp; to squeak*
+
 **Collocations**
 - der Rauchmelder piept
 - das Handy piept

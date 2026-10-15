@@ -33,6 +33,11 @@ status: "new"
 > In Deutschland besteht für Kinder ab sechs Jahren Schulpflicht.
 > *In Germany, compulsory schooling applies to children from the age of six.*
 
+**Phrases & Expressions:**
+- **die Schulpflicht verletzen** — *compulsory schooling*
+- **allgemeine Schulpflicht** — *compulsory schooling*
+- **Schulpflicht besteht** — *compulsory schooling*
+
 **Collocations**
 - die Schulpflicht verletzen
 - allgemeine Schulpflicht

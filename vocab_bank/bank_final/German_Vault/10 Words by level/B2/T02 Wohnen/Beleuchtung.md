@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Beleuchtung im Raum ist zu schwach.
 > *The lighting in the room is too weak.*
+
+**Phrases & Expressions:**
+- **Die Beleuchtung im Raum ist zu schwach** — *The lighting in the room is too weak* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

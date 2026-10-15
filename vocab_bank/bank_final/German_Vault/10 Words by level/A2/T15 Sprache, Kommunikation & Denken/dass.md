@@ -32,6 +32,9 @@ status: "new"
 > Rico hat gesagt, dass er auch zur Party kommt.
 > **
 
+**Phrases & Expressions:**
+- **Rico hat gesagt, dass er auch zur Party kommt** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 8b (Immer online?) · Goethe word list A2
 <!-- bank:end -->
 

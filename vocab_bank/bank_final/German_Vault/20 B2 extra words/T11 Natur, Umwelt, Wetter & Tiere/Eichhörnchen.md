@@ -33,6 +33,11 @@ status: "new"
 > Ein Eichhörnchen sammelt im Park Nüsse.
 > *A squirrel is collecting nuts in the park.*
 
+**Phrases & Expressions:**
+- **ein Eichhörnchen beobachten** — *squirrel*
+- **flink wie ein Eichhörnchen** — *squirrel*
+- **das Eichhörnchen klettert** — *squirrel*
+
 **Collocations**
 - ein Eichhörnchen beobachten
 - flink wie ein Eichhörnchen

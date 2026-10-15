@@ -33,6 +33,12 @@ status: "new"
 > Er hat sich das Handgelenk gebrochen.
 > *He broke his wrist.*
 
+**Phrases & Expressions:**
+- **das Handgelenk brechen** — *wrist*
+- **Schmerzen im Handgelenk** — *wrist*
+- **das Handgelenk verstauchen** — *wrist*
+- **das Handgelenk schienen** — *wrist*
+
 **Collocations**
 - das Handgelenk brechen
 - Schmerzen im Handgelenk

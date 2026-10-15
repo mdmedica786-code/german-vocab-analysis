@@ -33,6 +33,11 @@ status: "new"
 > Viele Entwicklungsländer leiden unter hohen Schulden.
 > *Many developing countries suffer from high debts.*
 
+**Phrases & Expressions:**
+- **ein Entwicklungsland unterstützen** — *developing country*
+- **Hilfe für Entwicklungsländer** — *developing country*
+- **Entwicklungsländer fördern** — *developing country*
+
 **Collocations**
 - ein Entwicklungsland unterstützen
 - Hilfe für Entwicklungsländer

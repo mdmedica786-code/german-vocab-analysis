@@ -35,6 +35,9 @@ status: "new"
 > Von seinem Standpunkt aus hat er recht.
 > *From his point of view he is right.*
 
+**Phrases & Expressions:**
+- **Von seinem Standpunkt aus hat er recht** — *From his point of view he is right* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 10 (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

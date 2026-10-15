@@ -29,6 +29,11 @@ status: "new"
 > Ausgerechnet heute habe ich meinen Schlüssel vergessen!
 > *Today of all days I forgot my key!*
 
+**Phrases & Expressions:**
+- **ausgerechnet heute** — *of all things; precisely*
+- **ausgerechnet du** — *of all things; precisely*
+- **ausgerechnet jetzt** — *of all things; precisely*
+
 **Collocations**
 - ausgerechnet heute
 - ausgerechnet du

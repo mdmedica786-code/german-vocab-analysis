@@ -34,6 +34,9 @@ status: "new"
 > Er ist aus Langeweile eingeschlafen.
 > *He fell asleep out of boredom.*
 
+**Phrases & Expressions:**
+- **Er ist aus Langeweile eingeschlafen** — *He fell asleep out of boredom* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

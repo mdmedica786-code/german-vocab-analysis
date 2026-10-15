@@ -29,6 +29,11 @@ status: "new"
 > Seinerzeit gab es noch keine Handys.
 > *At that time there were no mobile phones yet.*
 
+**Phrases & Expressions:**
+- **seinerzeit üblich** — *at that time; back then*
+- **seinerzeit bekannt** — *at that time; back then*
+- **seinerzeit noch** — *at that time; back then*
+
 **Collocations**
 - seinerzeit üblich
 - seinerzeit bekannt

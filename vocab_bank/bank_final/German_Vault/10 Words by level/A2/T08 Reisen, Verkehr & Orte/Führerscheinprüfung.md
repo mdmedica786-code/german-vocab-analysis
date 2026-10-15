@@ -34,6 +34,9 @@ status: "new"
 > Morgen habe ich meine Führerscheinprüfung.
 > *Tomorrow I have my driving test.*
 
+**Phrases & Expressions:**
+- **Morgen habe ich meine Führerscheinprüfung** — *Tomorrow I have my driving test* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle)
 <!-- bank:end -->
 

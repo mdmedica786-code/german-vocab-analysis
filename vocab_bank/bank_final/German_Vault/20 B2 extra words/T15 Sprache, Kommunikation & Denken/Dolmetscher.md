@@ -33,6 +33,13 @@ status: "new"
 > Beim Gespräch mit dem Gericht half ein Dolmetscher.
 > *An interpreter helped in the conversation with the court.*
 
+**Phrases & Expressions:**
+- **Wir können einen Dolmetscher hinzuziehen, wenn Sie möchten.** — We can bring in an interpreter if you like. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Dolmetscher einbeziehen]] · B1)*
+- **Wir holen einen Dolmetscher, damit nichts missverstanden wird.** — We'll get an interpreter so that nothing is misunderstood. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Sprachbarriere]] · B2)*
+- **einen Dolmetscher brauchen** — *interpreter*
+- **als Dolmetscher arbeiten** — *interpreter*
+- **ein vereidigter Dolmetscher** — *interpreter*
+
 **Collocations**
 - einen Dolmetscher brauchen
 - als Dolmetscher arbeiten

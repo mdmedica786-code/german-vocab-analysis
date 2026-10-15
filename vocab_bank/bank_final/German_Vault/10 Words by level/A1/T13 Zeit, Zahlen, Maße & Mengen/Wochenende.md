@@ -35,6 +35,13 @@ status: "new"
 > Am Wochenende fahre ich zu meiner Familie.
 > *At the weekend I'm visiting my family.*
 
+**Phrases & Expressions:**
+- **am Wochenende** — at the weekend *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A1)*
+- **Wir könnten am Wochenende ... gehen.** — We could go ... at the weekend. *([[B1-05 Vorschläge machen und darauf reagieren|Vorschlag machen]] · B1)*
+- **Wie wäre es, wenn wir uns am Wochenende sehen?** — How about we see each other at the weekend? *([[B1-12 Persönliche E-Mail und Brief|Vorschlag machen]] · B1)*
+- **Wie wäre es nächstes Wochenende?** — How about next weekend? *([[B1-18 Einladen, zusagen und absagen|Alternative vorschlagen]] · B1)*
+- **Ich wünsche Ihnen ein schönes Wochenende.** — I wish you a nice weekend. *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Verabschieden]] · A2)*
+
 **Source:** Netzwerk neu A1 K2 3b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

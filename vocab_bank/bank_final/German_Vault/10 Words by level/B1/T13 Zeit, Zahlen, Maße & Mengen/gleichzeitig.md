@@ -31,6 +31,12 @@ status: "new"
 > Ich kann nicht alles gleichzeitig machen.
 > *I can't do everything at the same time.*
 
+**Phrases & Expressions:**
+- **gleichzeitig stattfinden** — *at the same time; simultaneous*
+- **zwei Dinge gleichzeitig** — *at the same time; simultaneous*
+- **gleichzeitig machen** — *at the same time; simultaneous*
+- **nicht gleichzeitig** — *at the same time; simultaneous*
+
 **Collocations**
 - gleichzeitig stattfinden
 - zwei Dinge gleichzeitig

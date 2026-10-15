@@ -31,6 +31,9 @@ status: "new"
 > Arbeiten Sie zu dritt.
 > *Work in threes.*
 
+**Phrases & Expressions:**
+- **Arbeiten Sie zu dritt** — *Work in threes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3c (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

@@ -35,6 +35,14 @@ status: "new"
 > Vielen Dank.
 > *Thank you very much.*
 
+**Phrases & Expressions:**
+- **Gott sei Dank** — thank God *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **tausend Dank** — a thousand thanks *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A2)*
+- **Vielen Dank für Ihre Aufmerksamkeit.** — Thank you very much for your attention. *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Danken]] · B1)*
+- **Vielen Dank für die interessanten Informationen.** — Thank you very much for the interesting information. *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Sich bedanken]] · B1)*
+- **Vielen Dank für deine E-Mail, ich habe mich sehr gefreut.** — Thank you very much for your email, I was very happy. *([[B1-12 Persönliche E-Mail und Brief|Einstieg]] · B1)*
+- **Vielen Dank für die Einladung, ich freue mich schon.** — Thank you for the invitation, I'm already looking forward to it. *([[B1-12 Persönliche E-Mail und Brief|Zusage geben]] · B1)*
+
 **Source:** Netzwerk neu A1 K3 7c (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

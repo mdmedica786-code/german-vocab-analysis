@@ -35,6 +35,9 @@ status: "new"
 > Ich brauche eine Übersetzung von meinem Zeugnis.
 > *I need a translation of my certificate.*
 
+**Phrases & Expressions:**
+- **Ich brauche eine Übersetzung von meinem Zeugnis** — *I need a translation of my certificate* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 7a (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

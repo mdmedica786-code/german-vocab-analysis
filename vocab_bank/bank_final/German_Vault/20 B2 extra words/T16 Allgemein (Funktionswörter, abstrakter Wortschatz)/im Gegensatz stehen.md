@@ -26,6 +26,10 @@ status: "new"
 > Seine Worte stehen im Gegensatz zu seinen Taten.
 > *His words are in contrast to his deeds.*
 
+**Phrases & Expressions:**
+- **im Gegensatz stehen zu + Dat.** — *to be in contrast*
+- **im Gegensatz dazu** — *to be in contrast*
+
 **Collocations**
 - im Gegensatz stehen zu + Dat.
 - im Gegensatz dazu

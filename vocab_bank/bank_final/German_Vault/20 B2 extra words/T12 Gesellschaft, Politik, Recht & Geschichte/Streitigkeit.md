@@ -33,6 +33,11 @@ status: "new"
 > Es gab Streitigkeiten um das Erbe.
 > *There were disputes over the inheritance.*
 
+**Phrases & Expressions:**
+- **Streitigkeiten beilegen** — *dispute; quarrel*
+- **Streitigkeiten um** — *dispute; quarrel*
+- **rechtliche Streitigkeiten** — *dispute; quarrel*
+
 **Collocations**
 - Streitigkeiten beilegen
 - Streitigkeiten um

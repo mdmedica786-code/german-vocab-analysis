@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Um des Friedens willen hat er nachgegeben.
 > *For the sake of peace he gave in.*
+
+**Phrases & Expressions:**
+- **beim besten Willen nicht** — certainly not; by no means *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · C1)*
 <!-- bank:end -->
 
 ## My notes

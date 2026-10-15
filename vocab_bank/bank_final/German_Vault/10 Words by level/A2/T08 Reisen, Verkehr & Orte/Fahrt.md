@@ -34,6 +34,9 @@ status: "new"
 > Die Fahrt nach Köln dauert zwei Stunden.
 > *The journey to Cologne takes two hours.*
 
+**Phrases & Expressions:**
+- **Die Fahrt nach Köln dauert zwei Stunden** — *The journey to Cologne takes two hours* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 6c (Ganz schön mobil)
 <!-- bank:end -->
 

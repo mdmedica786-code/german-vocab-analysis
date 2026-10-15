@@ -35,6 +35,12 @@ status: "new"
 > Ich habe heute vom Arzt eine Spritze gegen die Schmerzen bekommen.
 > *Today the doctor gave me an injection against the pain.*
 
+**Phrases & Expressions:**
+- **eine Spritze geben** — *injection; syringe*
+- **eine Spritze bekommen** — *injection; syringe*
+- **eine Spritze gegen Schmerzen** — *injection; syringe*
+- **die Spritze aufziehen** — *injection; syringe*
+
 **Collocations**
 - eine Spritze geben
 - eine Spritze bekommen

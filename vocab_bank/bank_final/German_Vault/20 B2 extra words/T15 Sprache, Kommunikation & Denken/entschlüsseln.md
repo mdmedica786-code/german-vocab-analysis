@@ -31,6 +31,11 @@ status: "new"
 > Die Forscher konnten die alte Schrift entschlüsseln.
 > *The researchers were able to decipher the old script.*
 
+**Phrases & Expressions:**
+- **einen Code entschlüsseln** — *to decode; to decipher*
+- **eine Nachricht entschlüsseln** — *to decode; to decipher*
+- **die Schrift entschlüsseln** — *to decode; to decipher*
+
 **Collocations**
 - einen Code entschlüsseln
 - eine Nachricht entschlüsseln

@@ -33,6 +33,11 @@ status: "new"
 > Die Wirksamkeit der Maßnahme wurde überprüft.
 > *The effectiveness of the measure was checked.*
 
+**Phrases & Expressions:**
+- **die Wirksamkeit prüfen** — *effectiveness*
+- **die Wirksamkeit erhöhen** — *effectiveness*
+- **an Wirksamkeit verlieren** — *effectiveness*
+
 **Collocations**
 - die Wirksamkeit prüfen
 - die Wirksamkeit erhöhen

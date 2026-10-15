@@ -33,6 +33,11 @@ status: "new"
 > Die Ausweitung der Öffnungszeiten wurde beschlossen.
 > *The extension of the opening hours was decided.*
 
+**Phrases & Expressions:**
+- **die Ausweitung der Öffnungszeiten** — *expansion; extension*
+- **eine Ausweitung des Angebots** — *expansion; extension*
+- **eine schnelle Ausweitung** — *expansion; extension*
+
 **Collocations**
 - die Ausweitung der Öffnungszeiten
 - eine Ausweitung des Angebots

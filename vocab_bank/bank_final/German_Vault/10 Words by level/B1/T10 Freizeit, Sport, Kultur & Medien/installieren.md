@@ -33,6 +33,9 @@ status: "new"
 > Können Sie mir helfen, meinen Computer zu installieren?
 > *Can you help me install my computer?*
 
+**Phrases & Expressions:**
+- **Können Sie mir helfen, meinen Computer zu installieren** — *Can you help me install my computer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 1b ÜB (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

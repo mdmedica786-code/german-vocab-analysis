@@ -33,6 +33,9 @@ status: "new"
 > Beruhigen Sie sich bitte. Es ist alles in Ordnung.
 > *Please calm down. Everything is fine.*
 
+**Phrases & Expressions:**
+- **Beruhigen Sie sich bitte. Es ist alles in Ordnung** — *Please calm down. Everything is fine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 8b (Große und kleine Gefühle) · Goethe word list B1
 <!-- bank:end -->
 

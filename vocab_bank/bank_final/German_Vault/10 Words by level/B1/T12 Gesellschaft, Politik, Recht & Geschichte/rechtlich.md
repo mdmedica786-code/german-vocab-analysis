@@ -31,6 +31,9 @@ status: "new"
 > Wir beraten Sie in rechtlichen Fragen.
 > *We advise you on legal questions.*
 
+**Phrases & Expressions:**
+- **Wir beraten Sie in rechtlichen Fragen** — *We advise you on legal questions* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 8b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

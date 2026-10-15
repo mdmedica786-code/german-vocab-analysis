@@ -34,6 +34,9 @@ status: "new"
 > Das deutsche Gesundheitssystem ist sehr komplex.
 > *The German healthcare system is very complex.*
 
+**Phrases & Expressions:**
+- **Das Gesundheitssystem in meinem Heimatland ist ...** — The health system in my home country is ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Situation beschreiben]] · B1)*
+
 **Source:** Netzwerk neu B1 K11 8b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

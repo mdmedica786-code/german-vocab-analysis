@@ -32,6 +32,12 @@ status: "new"
 > Ich bin zu dick. Ich muss weniger essen.
 > *I am too fat. I have to eat less.*
 
+**Phrases & Expressions:**
+- **dick werden** — *thick*
+- **ein dickes Buch** — *thick*
+- **dick anziehen** — *thick*
+- **zu dick** — *thick*
+
 **Collocations**
 - dick werden
 - ein dickes Buch

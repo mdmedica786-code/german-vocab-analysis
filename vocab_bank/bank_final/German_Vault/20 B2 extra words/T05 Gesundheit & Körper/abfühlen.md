@@ -37,6 +37,14 @@ status: "new"
 > Der Arzt fühlt den Bauch des Patienten vorsichtig ab.
 > *The doctor carefully feels the patient's abdomen.*
 
+**Phrases & Expressions:**
+- **ab und zu** — now and then *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **... fühlt sich ...** — feels ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · A2)*
+- **Das hängt davon ab, ob ...** — That depends on whether ... *([[B1-04 Vor- und Nachteile nennen|Abwägen]] · B1)*
+- **Ich lehne das ab, weil ...** — I reject that because ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Position beziehen]] · B2)*
+- **Es zeichnet sich ein Trend zu ... ab.** — A trend towards ... is emerging. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Trend beschreiben]] · B2)*
+- **Wie fühlt sich der Schmerz an?** — What does the pain feel like? *([[FSP-03 Schmerzanamnese|Qualität erfragen]] · B1)*
+
 **Collocations**
 - den Bauch abfühlen
 - vorsichtig abfühlen

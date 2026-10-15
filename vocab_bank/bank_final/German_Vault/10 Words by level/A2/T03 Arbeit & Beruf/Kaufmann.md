@@ -34,6 +34,9 @@ status: "new"
 > Mein Vater ist Kaufmann.
 > *My father is a merchant.*
 
+**Phrases & Expressions:**
+- **Mein Vater ist Kaufmann** — *My father is a merchant* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

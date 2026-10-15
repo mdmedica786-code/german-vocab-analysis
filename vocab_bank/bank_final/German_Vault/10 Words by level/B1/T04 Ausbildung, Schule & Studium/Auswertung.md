@@ -34,6 +34,9 @@ status: "new"
 > Die Auswertung der Umfrage dauert eine Woche.
 > *The evaluation of the survey takes a week.*
 
+**Phrases & Expressions:**
+- **Die Auswertung der Umfrage dauert eine Woche** — *The evaluation of the survey takes a week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1b (Rund um Körper und Geist)
 <!-- bank:end -->
 

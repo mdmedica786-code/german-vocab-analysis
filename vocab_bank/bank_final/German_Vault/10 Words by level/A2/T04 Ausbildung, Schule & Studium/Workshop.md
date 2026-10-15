@@ -35,6 +35,9 @@ status: "new"
 > Das war ein toller Workshop. Ich habe viel gelernt.
 > *That was a great workshop. I learned a lot.*
 
+**Phrases & Expressions:**
+- **Das war ein toller Workshop. Ich habe viel gelernt** — *That was a great workshop. I learned a lot* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 4a ÜB (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

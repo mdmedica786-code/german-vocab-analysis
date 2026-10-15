@@ -35,6 +35,13 @@ status: "new"
 > Im Fernsehen gab es eine Diskussion zum Thema „Kinderbetreuung“.
 > *There was a discussion on TV on the topic of childcare.*
 
+**Phrases & Expressions:**
+- **Ich freue mich auf eine Diskussion mit Ihnen.** — I look forward to a discussion with you. *([[B2-03 Forumsbeitrag und Stellungnahme B2|Mitteilung beenden]] · B2)*
+- **eine Diskussion führen** — *discussion*
+- **an einer Diskussion teilnehmen** — *discussion*
+- **eine Diskussion beginnen** — *discussion*
+- **eine hitzige Diskussion** — *discussion*
+
 **Collocations**
 - eine Diskussion führen
 - an einer Diskussion teilnehmen

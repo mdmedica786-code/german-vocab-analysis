@@ -31,6 +31,10 @@ status: "new"
 > Sie hat die schwierige Situation gut gemeistert.
 > *She has mastered the difficult situation well.*
 
+**Phrases & Expressions:**
+- **eine Krise meistern** — *to master; to cope with*
+- **eine Aufgabe meistern** — *to master; to cope with*
+
 **Collocations**
 - eine Krise meistern
 - eine Aufgabe meistern

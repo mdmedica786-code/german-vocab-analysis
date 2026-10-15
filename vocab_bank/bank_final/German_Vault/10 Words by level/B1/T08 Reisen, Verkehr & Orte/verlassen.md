@@ -33,6 +33,12 @@ status: "new"
 > Ich habe die Party um 3 Uhr verlassen.
 > *I left the party at 3 a.m.*
 
+**Phrases & Expressions:**
+- **das Haus verlassen** — *to leave*
+- **den Raum verlassen** — *to leave*
+- **jemanden verlassen** — *to leave*
+- **sich auf jemanden verlassen** — *to leave*
+
 **Collocations**
 - das Haus verlassen
 - den Raum verlassen

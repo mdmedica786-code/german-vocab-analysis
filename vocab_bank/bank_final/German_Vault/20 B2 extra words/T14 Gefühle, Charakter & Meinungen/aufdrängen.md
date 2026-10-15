@@ -32,6 +32,11 @@ status: "new"
 > Ich möchte mich nicht aufdrängen, aber kann ich helfen?
 > *I don't want to impose, but can I help?*
 
+**Phrases & Expressions:**
+- **sich aufdrängen** — *to impose; to force upon*
+- **jemandem etwas aufdrängen** — *to impose; to force upon*
+- **sich nicht aufdrängen wollen** — *to impose; to force upon*
+
 **Collocations**
 - sich aufdrängen
 - jemandem etwas aufdrängen

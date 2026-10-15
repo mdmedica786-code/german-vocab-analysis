@@ -35,6 +35,9 @@ status: "new"
 > Die Kinder spielen gern im Sand.
 > *The children like playing in the sand.*
 
+**Phrases & Expressions:**
+- **Die Kinder spielen gern im Sand** — *The children like playing in the sand* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 2 (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -26,6 +26,11 @@ status: "new"
 > Wir machen uns Gedanken über die Zukunft.
 > *We are thinking about the future.*
 
+**Phrases & Expressions:**
+- **sich Gedanken machen über + Akk.** — *to think about; to give thought to*
+- **sich Gedanken machen um + Akk.** — *to think about; to give thought to*
+- **sich keine Gedanken machen** — *to think about; to give thought to*
+
 **Collocations**
 - sich Gedanken machen über + Akk.
 - sich Gedanken machen um + Akk.

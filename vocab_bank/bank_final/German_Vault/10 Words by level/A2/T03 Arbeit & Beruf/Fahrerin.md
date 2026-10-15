@@ -35,6 +35,9 @@ status: "new"
 > Die Fahrerin des Busses ist sehr freundlich.
 > *The bus driver is very friendly.*
 
+**Phrases & Expressions:**
+- **Die Fahrerin des Busses ist sehr freundlich** — *The bus driver is very friendly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt) · Goethe word list A2
 <!-- bank:end -->
 

@@ -32,6 +32,12 @@ status: "new"
 > Das Gericht hat die Strafe zur Bewährung ausgesetzt.
 > *The court suspended the sentence on probation.*
 
+**Phrases & Expressions:**
+- **Sind Sie am Arbeitsplatz Schadstoffen oder Staub ausgesetzt?** — Are you exposed to harmful substances or dust at work? *([[FSP-05 Familien- und Sozialanamnese|Umweltbelastung erfragen]] · B2)*
+- **einer Gefahr ausgesetzt sein** — *to suspend; to expose; to stop*
+- **die Zahlung aussetzen** — *to suspend; to expose; to stop*
+- **etwas auszusetzen haben** — *to suspend; to expose; to stop*
+
 **Collocations**
 - einer Gefahr ausgesetzt sein
 - die Zahlung aussetzen

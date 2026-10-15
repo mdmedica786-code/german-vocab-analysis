@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Jeder Mitgliedstaat der EU hat eine Stimme.
 > *Every member state of the EU has a vote.*
+
+**Phrases & Expressions:**
+- **Jeder Mitgliedstaat der EU hat eine Stimme** — *Every member state of the EU has a vote* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

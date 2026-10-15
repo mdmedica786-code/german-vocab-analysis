@@ -34,6 +34,9 @@ status: "new"
 > Meine Eltern besitzen noch viele Musikkassetten.
 > *My parents still own many music cassettes.*
 
+**Phrases & Expressions:**
+- **Meine Eltern besitzen noch viele Musikkassetten** — *My parents still own many music cassettes* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

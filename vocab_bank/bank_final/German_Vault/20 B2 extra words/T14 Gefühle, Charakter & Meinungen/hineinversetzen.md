@@ -32,6 +32,11 @@ status: "new"
 > Kannst du dich bitte in meine Lage hineinversetzen?
 > *Can you please put yourself in my position?*
 
+**Phrases & Expressions:**
+- **sich in jemanden hineinversetzen** — *to put oneself in someone's position*
+- **sich in eine Lage hineinversetzen** — *to put oneself in someone's position*
+- **sich schwer hineinversetzen können** — *to put oneself in someone's position*
+
 **Collocations**
 - sich in jemanden hineinversetzen
 - sich in eine Lage hineinversetzen

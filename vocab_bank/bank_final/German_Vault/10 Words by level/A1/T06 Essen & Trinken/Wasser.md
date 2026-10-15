@@ -35,6 +35,9 @@ status: "new"
 > Ein Glas Wasser, bitte.
 > *A glass of water, please.*
 
+**Phrases & Expressions:**
+- **Trinken Sie täglich mindestens zwei Liter Wasser.** — Drink at least two litres of water daily. *([[FSP-11 Therapie und Medikamente erklären|Selbstmanagement]] · B1)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

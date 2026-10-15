@@ -33,6 +33,11 @@ status: "new"
 > Für diesen Beruf braucht man viel Einfühlungsvermögen.
 > *For this profession you need a lot of empathy.*
 
+**Phrases & Expressions:**
+- **Einfühlungsvermögen zeigen** — *empathy; sensitivity*
+- **wenig Einfühlungsvermögen** — *empathy; sensitivity*
+- **über Einfühlungsvermögen verfügen** — *empathy; sensitivity*
+
 **Collocations**
 - Einfühlungsvermögen zeigen
 - wenig Einfühlungsvermögen

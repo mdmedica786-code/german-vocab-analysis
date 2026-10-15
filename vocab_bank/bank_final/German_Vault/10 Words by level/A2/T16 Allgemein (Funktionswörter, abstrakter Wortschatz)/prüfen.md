@@ -33,6 +33,10 @@ status: "new"
 > Bitte prüfen Sie die Rechnung sofort.
 > *Please check the invoice immediately.*
 
+**Phrases & Expressions:**
+- **Ich wäre Ihnen dankbar, wenn Sie das prüfen könnten.** — I would be grateful if you could check that. *([[B2-04 Beschwerde und Reklamation|Höfliche Bitte]] · B2)*
+- **Vielen Dank für Ihre Rückmeldung, wir werden das prüfen.** — Thank you for your feedback; we will look into it. *([[B2-04 Beschwerde und Reklamation|Auf Beschwerde reagieren]] · B2)*
+
 **Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt) · Goethe word list A2
 <!-- bank:end -->
 

@@ -31,6 +31,11 @@ status: "new"
 > Er befestigte das Regal an der Wand.
 > *He fixed the shelf to the wall.*
 
+**Phrases & Expressions:**
+- **etwas an der Wand befestigen** — *to fasten; to fix; to attach*
+- **ein Schild befestigen** — *to fasten; to fix; to attach*
+- **fest befestigen** — *to fasten; to fix; to attach*
+
 **Collocations**
 - etwas an der Wand befestigen
 - ein Schild befestigen

@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Er sprach lange, wobei er oft lachte.
 > *He talked for a long time, laughing often while doing so.*
+
+**Phrases & Expressions:**
+- **Er sprach lange, wobei er oft lachte** — *He talked for a long time, laughing often while doing so* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

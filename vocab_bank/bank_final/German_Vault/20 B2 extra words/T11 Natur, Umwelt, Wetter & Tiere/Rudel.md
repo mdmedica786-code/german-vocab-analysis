@@ -33,6 +33,11 @@ status: "new"
 > Ein Rudel Wölfe zog durch den Wald.
 > *A pack of wolves moved through the forest.*
 
+**Phrases & Expressions:**
+- **ein Rudel Wölfe** — *pack*
+- **im Rudel jagen** — *pack*
+- **das Rudel führen** — *pack*
+
 **Collocations**
 - ein Rudel Wölfe
 - im Rudel jagen

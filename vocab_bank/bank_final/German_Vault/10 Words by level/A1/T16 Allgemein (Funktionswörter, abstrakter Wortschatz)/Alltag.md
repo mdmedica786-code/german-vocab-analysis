@@ -35,6 +35,12 @@ status: "new"
 > Das ist mein Alltag: putzen, waschen, kochen.
 > *That is my everyday life: cleaning, washing, cooking.*
 
+**Phrases & Expressions:**
+- **Ein Beispiel aus meinem Alltag: ...** — An example from my everyday life: ... *([[B1-14 Forumsbeitrag und Leserbrief schreiben|Beispiel nennen]] · B1)*
+- **Wie sehr schränken die Beschwerden Sie im Alltag ein?** — How much do the complaints limit you in everyday life? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Einschränkungen im Alltag]] · B2)*
+- **Versuchen Sie, bewusst Pausen in den Alltag einzubauen.** — Try to consciously build breaks into your day. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Stress abbauen]] · B2)*
+- **Diabetes heißt im Alltag Zuckerkrankheit.** — In everyday language diabetes is called sugar disease. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K5 1a (Alltag und Familie) · Goethe word list B1
 <!-- bank:end -->
 

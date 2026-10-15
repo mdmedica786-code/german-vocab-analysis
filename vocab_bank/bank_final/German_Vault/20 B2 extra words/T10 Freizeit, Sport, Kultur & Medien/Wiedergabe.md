@@ -33,6 +33,11 @@ status: "new"
 > Die Wiedergabe des Videos ruckelt.
 > *The playback of the video is jerky.*
 
+**Phrases & Expressions:**
+- **die Wiedergabe von Musik** — *reproduction; playback; rendering*
+- **eine wörtliche Wiedergabe** — *reproduction; playback; rendering*
+- **die Wiedergabe starten** — *reproduction; playback; rendering*
+
 **Collocations**
 - die Wiedergabe von Musik
 - eine wörtliche Wiedergabe

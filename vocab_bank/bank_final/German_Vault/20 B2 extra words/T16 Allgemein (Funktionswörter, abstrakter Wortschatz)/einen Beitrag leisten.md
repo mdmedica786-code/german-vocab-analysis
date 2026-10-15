@@ -26,6 +26,10 @@ status: "new"
 > Jeder kann einen Beitrag zum Umweltschutz leisten.
 > *Everyone can make a contribution to environmental protection.*
 
+**Phrases & Expressions:**
+- **einen Beitrag leisten zu + Dat.** — *to make a contribution*
+- **einen wichtigen Beitrag leisten** — *to make a contribution*
+
 **Collocations**
 - einen Beitrag leisten zu + Dat.
 - einen wichtigen Beitrag leisten

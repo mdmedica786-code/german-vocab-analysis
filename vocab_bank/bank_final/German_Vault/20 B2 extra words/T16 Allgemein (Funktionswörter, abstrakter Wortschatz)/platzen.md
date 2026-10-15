@@ -31,6 +31,11 @@ status: "new"
 > Der Luftballon ist geplatzt.
 > *The balloon burst.*
 
+**Phrases & Expressions:**
+- **vor Wut platzen** — *to burst; to pop*
+- **der Termin platzt** — *to burst; to pop*
+- **ein Reifen platzt** — *to burst; to pop*
+
 **Collocations**
 - vor Wut platzen
 - der Termin platzt

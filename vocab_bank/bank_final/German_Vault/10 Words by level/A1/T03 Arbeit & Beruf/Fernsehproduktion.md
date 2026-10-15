@@ -34,6 +34,9 @@ status: "new"
 > Sie arbeitet bei einer Fernsehproduktion.
 > *She works for a television production.*
 
+**Phrases & Expressions:**
+- **Sie arbeitet bei einer Fernsehproduktion** — *She works for a television production* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

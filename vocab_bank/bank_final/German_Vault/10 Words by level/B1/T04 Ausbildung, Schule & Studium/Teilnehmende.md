@@ -31,6 +31,9 @@ status: "new"
 > Die Teilnehmenden bekommen ein Zertifikat.
 > *The participants receive a certificate.*
 
+**Phrases & Expressions:**
+- **Die Teilnehmenden bekommen ein Zertifikat** — *The participants receive a certificate* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7d (Kunststücke)
 <!-- bank:end -->
 

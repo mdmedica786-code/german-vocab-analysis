@@ -33,6 +33,14 @@ status: "new"
 > Der Mann deutet auf die Tür.
 > *The man points to the door.*
 
+**Phrases & Expressions:**
+- **deutet darauf hin, dass ...** — indicates that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **deuten darauf hin, dass ...** — indicate that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **Die Ergebnisse deuten darauf hin, dass die Erkrankung fortgeschritten ist.** — The results indicate that the illness has advanced. *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Nachricht überbringen]] · C1)*
+- **auf etwas deuten** — *to point; to indicate; to interpret*
+- **etwas als Zeichen deuten** — *to point; to indicate; to interpret*
+- **Träume deuten** — *to point; to indicate; to interpret*
+
 **Collocations**
 - auf etwas deuten
 - etwas als Zeichen deuten

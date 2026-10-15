@@ -33,6 +33,11 @@ status: "new"
 > Für die Wohnungsbesichtigung kamen über zwanzig Interessenten.
 > *More than twenty interested people came for the flat viewing.*
 
+**Phrases & Expressions:**
+- **eine Wohnungsbesichtigung vereinbaren** — *flat viewing*
+- **zur Wohnungsbesichtigung kommen** — *flat viewing*
+- **Termin zur Wohnungsbesichtigung** — *flat viewing*
+
 **Collocations**
 - eine Wohnungsbesichtigung vereinbaren
 - zur Wohnungsbesichtigung kommen

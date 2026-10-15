@@ -34,6 +34,9 @@ status: "new"
 > Die Vorhersage für das Wochenende ist gut.
 > *The forecast for the weekend is good.*
 
+**Phrases & Expressions:**
+- **Ganz sicher kann man das leider nicht vorhersagen.** — Unfortunately one cannot predict that with certainty. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Prognose geben]] · B2)*
+
 **Source:** Netzwerk neu B1 K5 11c (Umweltfreundlich?)
 <!-- bank:end -->
 

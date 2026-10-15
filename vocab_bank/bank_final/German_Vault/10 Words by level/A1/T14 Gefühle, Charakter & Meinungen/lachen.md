@@ -33,6 +33,12 @@ status: "new"
 > Die Kinder lachen viel.
 > *The children laugh a lot.*
 
+**Phrases & Expressions:**
+- **laut lachen** — *to laugh*
+- **über etwas lachen** — *to laugh*
+- **zusammen lachen** — *to laugh*
+- **jemanden zum Lachen bringen** — *to laugh*
+
 **Collocations**
 - laut lachen
 - über etwas lachen

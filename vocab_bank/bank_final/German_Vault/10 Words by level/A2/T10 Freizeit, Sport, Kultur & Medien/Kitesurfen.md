@@ -31,6 +31,9 @@ status: "new"
 > Kitesurfen ist bei starkem Wind am schönsten.
 > *Kitesurfing is best in strong wind.*
 
+**Phrases & Expressions:**
+- **Kitesurfen ist bei starkem Wind am schönsten** — *Kitesurfing is best in strong wind* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 13a (Sportlich, sportlich)
 <!-- bank:end -->
 

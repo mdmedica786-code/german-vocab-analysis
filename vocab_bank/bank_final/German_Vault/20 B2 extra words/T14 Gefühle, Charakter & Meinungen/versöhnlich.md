@@ -29,6 +29,11 @@ status: "new"
 > Am Ende fand er versöhnliche Worte.
 > *In the end he found conciliatory words.*
 
+**Phrases & Expressions:**
+- **versöhnliche Worte** — *conciliatory*
+- **versöhnlich klingen** — *conciliatory*
+- **versöhnlich stimmen** — *conciliatory*
+
 **Collocations**
 - versöhnliche Worte
 - versöhnlich klingen

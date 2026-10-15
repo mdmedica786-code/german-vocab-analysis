@@ -33,6 +33,14 @@ status: "new"
 > Dieses Medikament hat kaum Nebenwirkungen.
 > *This medicine has hardly any side effects.*
 
+**Phrases & Expressions:**
+- **Mögliche Nebenwirkungen sind Übelkeit und Kopfschmerzen.** — Possible side effects are nausea and headaches. *([[FSP-11 Therapie und Medikamente erklären|Nebenwirkungen erklären]] · B2)*
+- **Falls Nebenwirkungen auftreten, melden Sie sich bitte sofort.** — If side effects occur, please contact us immediately. *([[FSP-11 Therapie und Medikamente erklären|Nebenwirkungen erklären]] · B2)*
+- **mögliche Nebenwirkungen** — *side effect*
+- **Nebenwirkungen haben** — *side effect*
+- **Nebenwirkungen treten auf** — *side effect*
+- **über Nebenwirkungen aufklären** — *side effect*
+
 **Collocations**
 - mögliche Nebenwirkungen
 - Nebenwirkungen haben

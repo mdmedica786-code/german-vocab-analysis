@@ -33,6 +33,11 @@ status: "new"
 > In der Dämmerung gingen sie nach Hause.
 > *At dusk they went home.*
 
+**Phrases & Expressions:**
+- **bei Einbruch der Dämmerung** — *dusk; dawn; twilight*
+- **in der Dämmerung** — *dusk; dawn; twilight*
+- **die Dämmerung bricht an** — *dusk; dawn; twilight*
+
 **Collocations**
 - bei Einbruch der Dämmerung
 - in der Dämmerung

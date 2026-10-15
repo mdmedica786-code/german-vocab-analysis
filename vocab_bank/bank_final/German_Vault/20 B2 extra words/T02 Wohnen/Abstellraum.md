@@ -33,6 +33,11 @@ status: "new"
 > Die Wohnung hat einen kleinen Abstellraum neben der Küche.
 > *The flat has a small storage room next to the kitchen.*
 
+**Phrases & Expressions:**
+- **im Abstellraum** — *storage room; box room*
+- **ein Abstellraum für Fahrräder** — *storage room; box room*
+- **den Abstellraum nutzen** — *storage room; box room*
+
 **Collocations**
 - im Abstellraum
 - ein Abstellraum für Fahrräder

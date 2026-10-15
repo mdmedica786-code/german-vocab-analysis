@@ -33,6 +33,11 @@ status: "new"
 > Der Großkunde bestellt jeden Monat große Mengen.
 > *The major customer orders large quantities every month.*
 
+**Phrases & Expressions:**
+- **einen Großkunden gewinnen** — *major customer; key client (male)*
+- **ein wichtiger Großkunde** — *major customer; key client (male)*
+- **Großkunden betreuen** — *major customer; key client (male)*
+
 **Collocations**
 - einen Großkunden gewinnen
 - ein wichtiger Großkunde

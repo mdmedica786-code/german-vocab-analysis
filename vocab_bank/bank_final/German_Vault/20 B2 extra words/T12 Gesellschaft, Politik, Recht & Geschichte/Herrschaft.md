@@ -33,6 +33,11 @@ status: "new"
 > Unter der Herrschaft der Römer wurden viele Straßen gebaut.
 > *Under the rule of the Romans many roads were built.*
 
+**Phrases & Expressions:**
+- **unter der Herrschaft von** — *rule; dominion*
+- **die Herrschaft übernehmen** — *rule; dominion*
+- **die Herrschaft verlieren** — *rule; dominion*
+
 **Collocations**
 - unter der Herrschaft von
 - die Herrschaft übernehmen

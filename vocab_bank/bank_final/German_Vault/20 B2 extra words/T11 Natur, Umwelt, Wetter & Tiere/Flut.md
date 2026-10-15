@@ -33,6 +33,11 @@ status: "new"
 > Bei Flut steht der Strand unter Wasser.
 > *At high tide the beach is under water.*
 
+**Phrases & Expressions:**
+- **bei Flut** — *high tide; flood*
+- **die Flut kommt** — *high tide; flood*
+- **eine Flut von Briefen** — *high tide; flood*
+
 **Collocations**
 - bei Flut
 - die Flut kommt

@@ -34,6 +34,9 @@ status: "new"
 > Der Buchautor liest aus seinem Roman vor.
 > *The author reads from his novel.*
 
+**Phrases & Expressions:**
+- **Der Buchautor liest aus seinem Roman vor** — *The author reads from his novel* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

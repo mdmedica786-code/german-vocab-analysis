@@ -26,6 +26,10 @@ status: "new"
 > Im Laden stehen zehn Farben zur Auswahl.
 > *In the shop ten colours are available to choose from.*
 
+**Phrases & Expressions:**
+- **zur Auswahl haben** — *to be available to choose from*
+- **mehrere Möglichkeiten stehen zur Auswahl** — *to be available to choose from*
+
 **Collocations**
 - zur Auswahl haben
 - mehrere Möglichkeiten stehen zur Auswahl

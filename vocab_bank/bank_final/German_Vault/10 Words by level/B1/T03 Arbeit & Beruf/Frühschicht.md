@@ -34,6 +34,9 @@ status: "new"
 > Ich arbeite diese Woche in der Frühschicht.
 > *I work the early shift this week.*
 
+**Phrases & Expressions:**
+- **Ich arbeite diese Woche in der Frühschicht** — *I work the early shift this week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

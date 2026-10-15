@@ -33,6 +33,11 @@ status: "new"
 > Die Vernichtung der Beweise ist strafbar.
 > *The destruction of evidence is punishable.*
 
+**Phrases & Expressions:**
+- **die Vernichtung von Beweisen** — *destruction; annihilation*
+- **zur Vernichtung** — *destruction; annihilation*
+- **die Vernichtung von Lebensraum** — *destruction; annihilation*
+
 **Collocations**
 - die Vernichtung von Beweisen
 - zur Vernichtung

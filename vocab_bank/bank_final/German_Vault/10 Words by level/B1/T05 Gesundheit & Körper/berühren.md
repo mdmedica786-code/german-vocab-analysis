@@ -32,6 +32,12 @@ status: "new"
 > Bitte berühren Sie das Bild nicht.
 > *Please do not touch the picture.*
 
+**Phrases & Expressions:**
+- **die Haut berühren** — *to touch*
+- **sanft berühren** — *to touch*
+- **berührt werden** — *to touch*
+- **Gefühle berühren** — *to touch*
+
 **Collocations**
 - die Haut berühren
 - sanft berühren

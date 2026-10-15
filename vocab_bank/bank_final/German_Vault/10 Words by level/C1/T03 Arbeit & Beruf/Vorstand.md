@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Vorstand trifft sich einmal im Monat.
 > *The board meets once a month.*
+
+**Phrases & Expressions:**
+- **Der Vorstand trifft sich einmal im Monat** — *The board meets once a month* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

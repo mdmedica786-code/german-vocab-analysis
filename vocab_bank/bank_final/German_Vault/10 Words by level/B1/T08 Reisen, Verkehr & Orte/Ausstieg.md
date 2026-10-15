@@ -34,6 +34,9 @@ status: "new"
 > Der Ausstieg ist hinten.
 > *The exit is at the back.*
 
+**Phrases & Expressions:**
+- **Der Ausstieg ist hinten** — *The exit is at the back* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 10b (Miteinander)
 <!-- bank:end -->
 

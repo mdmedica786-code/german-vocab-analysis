@@ -34,6 +34,9 @@ status: "new"
 > Der Ehepartner muss das Formular mit unterschreiben.
 > *The spouse must also sign the form.*
 
+**Phrases & Expressions:**
+- **Der Ehepartner muss das Formular mit unterschreiben** — *The spouse must also sign the form* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

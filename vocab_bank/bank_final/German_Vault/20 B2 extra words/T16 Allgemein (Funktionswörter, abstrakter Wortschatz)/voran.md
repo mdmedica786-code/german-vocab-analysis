@@ -29,6 +29,11 @@ status: "new"
 > Der Fahrer ging voran.
 > *The driver went ahead.*
 
+**Phrases & Expressions:**
+- **vorangehen** — *ahead; forward; on*
+- **nur langsam voran** — *ahead; forward; on*
+- **Schritt für Schritt voran** — *ahead; forward; on*
+
 **Collocations**
 - vorangehen
 - nur langsam voran

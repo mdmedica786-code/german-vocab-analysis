@@ -33,6 +33,11 @@ status: "new"
 > Mikroplastik gelangt über das Abwasser in die Meere.
 > *Microplastics reach the oceans via wastewater.*
 
+**Phrases & Expressions:**
+- **Mikroplastik im Meer** — *microplastics*
+- **Mikroplastik vermeiden** — *microplastics*
+- **Belastung durch Mikroplastik** — *microplastics*
+
 **Collocations**
 - Mikroplastik im Meer
 - Mikroplastik vermeiden

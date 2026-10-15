@@ -30,6 +30,9 @@ status: "new"
 > Das Museum ist barrierearm gestaltet.
 > *The museum is designed with few barriers.*
 
+**Phrases & Expressions:**
+- **Das Museum ist barrierearm gestaltet** — *The museum is designed with few barriers* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

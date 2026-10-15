@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Festival treten bekannte Musikgrößen auf.
 > *Well-known music stars perform at the festival.*
 
+**Phrases & Expressions:**
+- **eine internationale Musikgröße** — *music great; star of the music world*
+- **Musikgrößen auf der Bühne** — *music great; star of the music world*
+- **eine Musikgröße des Jahrhunderts** — *music great; star of the music world*
+
 **Collocations**
 - eine internationale Musikgröße
 - Musikgrößen auf der Bühne

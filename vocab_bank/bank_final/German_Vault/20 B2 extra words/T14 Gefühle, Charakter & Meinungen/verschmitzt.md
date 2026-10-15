@@ -29,6 +29,11 @@ status: "new"
 > Er lächelte verschmitzt und sagte nichts.
 > *He smiled mischievously and said nothing.*
 
+**Phrases & Expressions:**
+- **verschmitzt lächeln** — *mischievous; roguish*
+- **verschmitzt grinsen** — *mischievous; roguish*
+- **verschmitzt blicken** — *mischievous; roguish*
+
 **Collocations**
 - verschmitzt lächeln
 - verschmitzt grinsen

@@ -34,6 +34,9 @@ status: "new"
 > Die Kaiserin regierte viele Jahre lang das Land.
 > *The empress ruled the country for many years.*
 
+**Phrases & Expressions:**
+- **Die Kaiserin regierte viele Jahre lang das Land** — *The empress ruled the country for many years* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8b (Leben in der Stadt)
 <!-- bank:end -->
 

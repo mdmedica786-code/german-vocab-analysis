@@ -34,6 +34,9 @@ status: "new"
 > Die Badehose liegt im Koffer.
 > *The swimming trunks are in the suitcase.*
 
+**Phrases & Expressions:**
+- **Die Badehose liegt im Koffer** — *The swimming trunks are in the suitcase* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1b (Ab in den Urlaub!)
 <!-- bank:end -->
 

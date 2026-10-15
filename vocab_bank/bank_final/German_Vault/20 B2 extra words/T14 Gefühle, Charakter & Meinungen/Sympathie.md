@@ -33,6 +33,11 @@ status: "new"
 > Ich habe viel Sympathie für deine Idee.
 > *I have a lot of sympathy for your idea.*
 
+**Phrases & Expressions:**
+- **Sympathie empfinden** — *liking; sympathy; goodwill*
+- **jemandem Sympathie entgegenbringen** — *liking; sympathy; goodwill*
+- **auf Sympathie stoßen** — *liking; sympathy; goodwill*
+
 **Collocations**
 - Sympathie empfinden
 - jemandem Sympathie entgegenbringen

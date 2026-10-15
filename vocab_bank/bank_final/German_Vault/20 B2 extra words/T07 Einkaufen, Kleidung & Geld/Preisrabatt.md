@@ -30,6 +30,11 @@ status: "new"
 > Beim Kauf von zwei Stück gibt es einen Preisrabatt.
 > *When you buy two there is a price discount.*
 
+**Phrases & Expressions:**
+- **einen Preisrabatt bekommen** — *price discount*
+- **einen Preisrabatt gewähren** — *price discount*
+- **ein Preisrabatt von zehn Prozent** — *price discount*
+
 **Collocations**
 - einen Preisrabatt bekommen
 - einen Preisrabatt gewähren

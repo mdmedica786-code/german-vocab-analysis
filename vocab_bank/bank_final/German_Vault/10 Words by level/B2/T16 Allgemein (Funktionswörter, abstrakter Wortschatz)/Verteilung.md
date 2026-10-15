@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Verteilung der Aufgaben ist fair.
 > *The distribution of tasks is fair.*
+
+**Phrases & Expressions:**
+- **Die Verteilung der Aufgaben ist fair** — *The distribution of tasks is fair* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

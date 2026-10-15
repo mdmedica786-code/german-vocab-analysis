@@ -33,6 +33,11 @@ status: "new"
 > Der Projektleiter erklärt den Zeitplan.
 > *The project manager explains the schedule.*
 
+**Phrases & Expressions:**
+- **als Projektleiter arbeiten** — *project manager (male)*
+- **ein erfahrener Projektleiter** — *project manager (male)*
+- **den Projektleiter fragen** — *project manager (male)*
+
 **Collocations**
 - als Projektleiter arbeiten
 - ein erfahrener Projektleiter

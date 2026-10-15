@@ -35,6 +35,9 @@ status: "new"
 > Wir haben einen Notfall. Bitte schicken Sie einen Krankenwagen.
 > *We have an emergency. Please send an ambulance.*
 
+**Phrases & Expressions:**
+- **Im Notfall wählen Sie bitte die 112.** — In an emergency please dial 112. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Notfallnummer nennen]] · A2)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

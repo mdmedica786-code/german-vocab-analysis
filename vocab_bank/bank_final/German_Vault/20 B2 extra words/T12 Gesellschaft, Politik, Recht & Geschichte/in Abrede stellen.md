@@ -29,6 +29,11 @@ status: "new"
 > Der Angeklagte stellte die Vorwürfe in Abrede.
 > *The accused denied the allegations.*
 
+**Phrases & Expressions:**
+- **etwas in Abrede stellen** — *to deny; to dispute*
+- **nicht in Abrede stellen** — *to deny; to dispute*
+- **die Vorwürfe in Abrede stellen** — *to deny; to dispute*
+
 **Collocations**
 - etwas in Abrede stellen
 - nicht in Abrede stellen

@@ -30,6 +30,12 @@ status: "new"
 > Grundsätzlich bin ich mit dem Plan einverstanden.
 > *In principle I agree with the plan.*
 
+**Phrases & Expressions:**
+- **grundsätzlich einverstanden** — *in principle; fundamentally*
+- **grundsätzlich möglich** — *in principle; fundamentally*
+- **grundsätzlich verboten** — *in principle; fundamentally*
+- **grundsätzlich anders** — *in principle; fundamentally*
+
 **Collocations**
 - grundsätzlich einverstanden
 - grundsätzlich möglich

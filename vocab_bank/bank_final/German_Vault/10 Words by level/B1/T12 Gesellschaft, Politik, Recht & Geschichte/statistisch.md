@@ -30,6 +30,9 @@ status: "new"
 > Die statistischen Ergebnisse zeigen eine gute Entwicklung.
 > *The statistical results show good development.*
 
+**Phrases & Expressions:**
+- **Die statistischen Ergebnisse zeigen eine gute Entwicklung** — *The statistical results show good development* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

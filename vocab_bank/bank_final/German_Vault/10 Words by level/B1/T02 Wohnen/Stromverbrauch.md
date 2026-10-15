@@ -34,6 +34,9 @@ status: "new"
 > Der Stromverbrauch ist im Winter höher.
 > *Electricity consumption is higher in winter.*
 
+**Phrases & Expressions:**
+- **Der Stromverbrauch ist im Winter höher** — *Electricity consumption is higher in winter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 9c (Umweltfreundlich?)
 <!-- bank:end -->
 

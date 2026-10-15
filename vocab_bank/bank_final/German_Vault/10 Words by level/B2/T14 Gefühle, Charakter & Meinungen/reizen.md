@@ -27,6 +27,9 @@ status: "new"
 > [!example] Beispiel
 > Das Angebot reizt mich sehr.
 > *The offer appeals to me a lot.*
+
+**Phrases & Expressions:**
+- **Besonders reizt mich an der Stelle ...** — What particularly appeals to me about the position is ... *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Motivation darstellen]] · B2)*
 <!-- bank:end -->
 
 ## My notes

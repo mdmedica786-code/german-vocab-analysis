@@ -33,6 +33,11 @@ status: "new"
 > Der Fahrer musste eine Vollbremsung machen.
 > *The driver had to make an emergency stop.*
 
+**Phrases & Expressions:**
+- **eine Vollbremsung machen** — *emergency stop; full braking*
+- **eine Vollbremsung hinlegen** — *emergency stop; full braking*
+- **nach einer Vollbremsung** — *emergency stop; full braking*
+
 **Collocations**
 - eine Vollbremsung machen
 - eine Vollbremsung hinlegen

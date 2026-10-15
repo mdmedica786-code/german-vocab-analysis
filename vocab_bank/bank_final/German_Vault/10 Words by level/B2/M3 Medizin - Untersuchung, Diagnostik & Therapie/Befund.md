@@ -33,6 +33,14 @@ status: "new"
 > Der Befund der Untersuchung war unauffällig.
 > *The finding of the examination was unremarkable.*
 
+**Phrases & Expressions:**
+- **Der Befund ist unauffällig.** — The finding is unremarkable. *([[FSP-08 Befunde beschreiben und berichten|Auffälligkeit formulieren]] · B2)*
+- **Im Vergleich zur Voruntersuchung ist der Befund unverändert.** — Compared to the previous examination the finding is unchanged. *([[FSP-08 Befunde beschreiben und berichten|Befund im Arzt-Arzt-Gespräch]] · C1)*
+- **Die Untersuchung hat keinen auffälligen Befund ergeben.** — The examination did not reveal any abnormal finding. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Ergebnisse mitteilen]] · B2)*
+- **Das kann ich Ihnen noch nicht sagen, die Befunde stehen noch aus.** — I can't tell you that yet; the results are still pending. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Rückfrage beantworten]] · C1)*
+- **unauffälliger Befund** — *finding; result*
+- **Befund erheben** — *finding; result*
+
 **Collocations**
 - unauffälliger Befund
 - Befund erheben

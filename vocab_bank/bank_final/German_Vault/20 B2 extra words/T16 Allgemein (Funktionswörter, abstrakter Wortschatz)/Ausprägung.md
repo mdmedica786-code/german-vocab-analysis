@@ -33,6 +33,11 @@ status: "new"
 > Die Ausprägung dieser Eigenschaft ist unterschiedlich.
 > *The degree of this trait varies.*
 
+**Phrases & Expressions:**
+- **in unterschiedlicher Ausprägung** — *manifestation; degree*
+- **eine starke Ausprägung** — *manifestation; degree*
+- **die Ausprägung eines Merkmals** — *manifestation; degree*
+
 **Collocations**
 - in unterschiedlicher Ausprägung
 - eine starke Ausprägung

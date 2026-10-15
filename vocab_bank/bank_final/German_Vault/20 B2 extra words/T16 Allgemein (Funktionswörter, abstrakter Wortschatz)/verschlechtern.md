@@ -32,6 +32,11 @@ status: "new"
 > Sein Gesundheitszustand hat sich verschlechtert.
 > *His state of health has worsened.*
 
+**Phrases & Expressions:**
+- **sich verschlechtern** — *to worsen; to make worse*
+- **die Lage verschlechtern** — *to worsen; to make worse*
+- **sich deutlich verschlechtern** — *to worsen; to make worse*
+
 **Collocations**
 - sich verschlechtern
 - die Lage verschlechtern

@@ -34,6 +34,9 @@ status: "new"
 > Die Spülmaschine ist voll.
 > *The dishwasher is full.*
 
+**Phrases & Expressions:**
+- **Die Spülmaschine ist voll** — *The dishwasher is full* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung)
 <!-- bank:end -->
 

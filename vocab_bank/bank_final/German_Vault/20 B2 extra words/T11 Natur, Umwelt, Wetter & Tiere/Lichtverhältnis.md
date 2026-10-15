@@ -33,6 +33,11 @@ status: "new"
 > Bei schlechten Lichtverhältnissen gelingen keine guten Fotos.
 > *In poor lighting conditions you cannot take good photos.*
 
+**Phrases & Expressions:**
+- **bei schlechten Lichtverhältnissen** — *lighting conditions*
+- **gute Lichtverhältnisse** — *lighting conditions*
+- **die Lichtverhältnisse ändern sich** — *lighting conditions*
+
 **Collocations**
 - bei schlechten Lichtverhältnissen
 - gute Lichtverhältnisse

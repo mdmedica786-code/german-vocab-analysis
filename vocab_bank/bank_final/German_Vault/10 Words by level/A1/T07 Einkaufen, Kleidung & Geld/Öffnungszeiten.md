@@ -34,6 +34,9 @@ status: "new"
 > Die Öffnungszeiten stehen an der Tür.
 > *The opening hours are on the door.*
 
+**Phrases & Expressions:**
+- **Die Öffnungszeiten stehen an der Tür** — *The opening hours are on the door* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12c (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

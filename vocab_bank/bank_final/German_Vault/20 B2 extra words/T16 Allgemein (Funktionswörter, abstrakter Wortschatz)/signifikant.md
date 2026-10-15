@@ -29,6 +29,11 @@ status: "new"
 > Es gab einen signifikanten Unterschied zwischen den Gruppen.
 > *There was a significant difference between the groups.*
 
+**Phrases & Expressions:**
+- **signifikant höher** — *significant*
+- **ein signifikanter Unterschied** — *significant*
+- **signifikant steigen** — *significant*
+
 **Collocations**
 - signifikant höher
 - ein signifikanter Unterschied

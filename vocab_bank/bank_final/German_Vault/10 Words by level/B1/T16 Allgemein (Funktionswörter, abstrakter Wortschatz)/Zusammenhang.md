@@ -34,6 +34,10 @@ status: "new"
 > In diesem Zusammenhang möchte ich Sie auf zwei Bücher aufmerksam machen.
 > *In this context I'd like to draw your attention to two books.*
 
+**Phrases & Expressions:**
+- **in diesem Zusammenhang** — in this context *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **im Zusammenhang mit ...** — in connection with ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

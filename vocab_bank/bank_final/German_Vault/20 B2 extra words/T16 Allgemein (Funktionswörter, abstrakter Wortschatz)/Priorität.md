@@ -33,6 +33,12 @@ status: "new"
 > Sicherheit hat für uns oberste Priorität.
 > *Safety has top priority for us.*
 
+**Phrases & Expressions:**
+- **Dieser Patient hat Priorität, er muss sofort behandelt werden.** — This patient has priority; he must be treated immediately. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Triage]] · C1)*
+- **Prioritäten setzen** — *priority*
+- **oberste Priorität** — *priority*
+- **Priorität haben** — *priority*
+
 **Collocations**
 - Prioritäten setzen
 - oberste Priorität

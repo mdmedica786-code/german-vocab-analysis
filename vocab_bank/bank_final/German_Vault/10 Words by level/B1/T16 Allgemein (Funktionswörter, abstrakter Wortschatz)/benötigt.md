@@ -37,6 +37,12 @@ status: "new"
 > Die benötigten Unterlagen liegen bei.
 > *The required documents are enclosed.*
 
+**Phrases & Expressions:**
+- **benötigte Unterlagen** — *needed; required*
+- **benötigte Zeit** — *needed; required*
+- **benötigtes Material** — *needed; required*
+- **die benötigte Menge** — *needed; required*
+
 **Collocations**
 - benötigte Unterlagen
 - benötigte Zeit

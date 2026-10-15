@@ -35,6 +35,9 @@ status: "new"
 > Hier ist eine Garage für dein Auto.
 > *Here is a garage for your car.*
 
+**Phrases & Expressions:**
+- **Hier ist eine Garage für dein Auto** — *Here is a garage for your car* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil) · Goethe word list A2
 <!-- bank:end -->
 

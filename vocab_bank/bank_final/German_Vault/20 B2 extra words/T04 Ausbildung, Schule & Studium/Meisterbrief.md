@@ -33,6 +33,11 @@ status: "new"
 > Mit dem Meisterbrief darf er einen eigenen Betrieb führen.
 > *With the master craftsman's certificate he may run his own business.*
 
+**Phrases & Expressions:**
+- **den Meisterbrief erwerben** — *master craftsman's certificate*
+- **einen Meisterbrief haben** — *master craftsman's certificate*
+- **Pflicht zum Meisterbrief** — *master craftsman's certificate*
+
 **Collocations**
 - den Meisterbrief erwerben
 - einen Meisterbrief haben

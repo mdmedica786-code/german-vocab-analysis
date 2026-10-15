@@ -31,6 +31,10 @@ status: "new"
 > Aus den Zahlen kann man schlussfolgern, dass die Nachfrage steigt.
 > *From the figures one can conclude that demand is rising.*
 
+**Phrases & Expressions:**
+- **daraus schlussfolgern** — *to conclude; to infer*
+- **richtig schlussfolgern** — *to conclude; to infer*
+
 **Collocations**
 - daraus schlussfolgern
 - richtig schlussfolgern

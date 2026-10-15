@@ -35,6 +35,9 @@ status: "new"
 > Hier ist die Mailbox von Susanne König.
 > *This is Susanne König's voicemail.*
 
+**Phrases & Expressions:**
+- **Sie sind mit der Mailbox von ... verbunden.** — You have reached the voicemail of ... *([[B2-07 Telefonieren|Auf Anrufbeantworter sprechen]] · B1)*
+
 **Source:** Netzwerk neu A2 K8 4a ÜB (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

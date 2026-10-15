@@ -33,6 +33,11 @@ status: "new"
 > Zu ihrem Aufgabenbereich gehört die Kundenbetreuung.
 > *Customer care is part of her area of responsibility.*
 
+**Phrases & Expressions:**
+- **im Aufgabenbereich** — *area of responsibility*
+- **Aufgabenbereich erweitern** — *area of responsibility*
+- **zum Aufgabenbereich gehören** — *area of responsibility*
+
 **Collocations**
 - im Aufgabenbereich
 - Aufgabenbereich erweitern

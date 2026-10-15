@@ -34,6 +34,9 @@ status: "new"
 > Der Skilift bringt uns auf den Berg.
 > *The ski lift takes us up the mountain.*
 
+**Phrases & Expressions:**
+- **Der Skilift bringt uns auf den Berg** — *The ski lift takes us up the mountain* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 7 (Gute Reise!)
 <!-- bank:end -->
 

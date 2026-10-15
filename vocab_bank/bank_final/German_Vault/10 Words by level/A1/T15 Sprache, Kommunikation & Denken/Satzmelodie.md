@@ -34,6 +34,9 @@ status: "new"
 > Die Satzmelodie einer Frage geht am Ende nach oben.
 > *The intonation of a question rises at the end.*
 
+**Phrases & Expressions:**
+- **Die Satzmelodie einer Frage geht am Ende nach oben** — *The intonation of a question rises at the end* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 4a (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Sein arrogantes Verhalten ärgert alle Kollegen.
 > *His arrogant behaviour annoys all colleagues.*
 
+**Phrases & Expressions:**
+- **arrogant wirken** — *arrogant*
+- **ein arroganter Mensch** — *arrogant*
+- **arrogant antworten** — *arrogant*
+
 **Collocations**
 - arrogant wirken
 - ein arroganter Mensch

@@ -35,6 +35,9 @@ status: "new"
 > Im Urlaub haben wir in einer kleinen Pension gewohnt.
 > *On holiday we stayed in a small guesthouse.*
 
+**Phrases & Expressions:**
+- **in Pension gehen** — to retire *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+
 **Source:** Netzwerk neu A1 K12 7a (Ab in den Urlaub!) · Goethe word list B1
 <!-- bank:end -->
 

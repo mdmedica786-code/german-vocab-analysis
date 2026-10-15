@@ -34,6 +34,9 @@ status: "new"
 > Das Museum hat ein großes Freigelände.
 > *The museum has a large open-air area.*
 
+**Phrases & Expressions:**
+- **Das Museum hat ein großes Freigelände** — *The museum has a large open-air area* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

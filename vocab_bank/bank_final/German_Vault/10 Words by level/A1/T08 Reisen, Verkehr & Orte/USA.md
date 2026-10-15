@@ -35,6 +35,9 @@ status: "new"
 > Olivia kommt aus den USA.
 > *Olivia is from the USA.*
 
+**Phrases & Expressions:**
+- **Olivia kommt aus den USA** — *Olivia is from the USA* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 8a (Guten Tag!)
 <!-- bank:end -->
 

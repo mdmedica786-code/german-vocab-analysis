@@ -34,6 +34,11 @@ status: "new"
 > Aus meiner Sicht ist der heutige Konsum echter Irrsinn.
 > *From my point of view the current consumption is actual insanity.*
 
+**Phrases & Expressions:**
+- **aus der Sicht + Gen.** — from the perspective of ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **aus Sicht + Gen.** — from the point of view of ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+- **Aus meiner Sicht ...** — From my point of view ... *([[B1-01 Meinung äußern|Meinung nennen]] · B1)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

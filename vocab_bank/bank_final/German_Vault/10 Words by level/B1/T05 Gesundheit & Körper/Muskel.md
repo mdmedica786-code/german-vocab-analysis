@@ -34,6 +34,9 @@ status: "new"
 > Im Fitness-Studio trainieren wir unsere Muskeln.
 > *In the gym we train our muscles.*
 
+**Phrases & Expressions:**
+- **Im Fitness-Studio trainieren wir unsere Muskeln** — *In the gym we train our muscles* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

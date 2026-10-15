@@ -33,6 +33,11 @@ status: "new"
 > Die Gewichtung der einzelnen Kriterien ist unterschiedlich.
 > *The weighting of the individual criteria differs.*
 
+**Phrases & Expressions:**
+- **eine Gewichtung vornehmen** — *weighting; emphasis*
+- **unterschiedliche Gewichtung** — *weighting; emphasis*
+- **Gewichtung der Argumente** — *weighting; emphasis*
+
 **Collocations**
 - eine Gewichtung vornehmen
 - unterschiedliche Gewichtung

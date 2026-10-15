@@ -31,6 +31,9 @@ status: "new"
 > Meine Kurspartnerin kommt aus Spanien.
 > *My course partner comes from Spain.*
 
+**Phrases & Expressions:**
+- **Meine Kurspartnerin kommt aus Spanien** — *My course partner comes from Spain* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 12a (Arbeitswelten)
 <!-- bank:end -->
 

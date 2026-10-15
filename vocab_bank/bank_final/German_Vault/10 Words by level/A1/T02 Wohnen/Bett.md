@@ -35,6 +35,11 @@ status: "new"
 > Sie ist krank und muss heute im Bett bleiben.
 > *She is ill and has to stay in bed today.*
 
+**Phrases & Expressions:**
+- **im Bett** — in bed *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A1)*
+- **ins Bett** — to bed *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A1)*
+- **Gehen Sie möglichst jeden Tag zur gleichen Zeit ins Bett.** — If possible, go to bed at the same time every day. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Schlafhygiene]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 1c (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

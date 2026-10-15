@@ -31,6 +31,11 @@ status: "new"
 > Auf den Vorwurf entgegnete sie nichts.
 > *She replied nothing to the accusation.*
 
+**Phrases & Expressions:**
+- **auf etwas entgegnen** — *to reply; to retort*
+- **kühl entgegnen** — *to reply; to retort*
+- **schlagfertig entgegnen** — *to reply; to retort*
+
 **Collocations**
 - auf etwas entgegnen
 - kühl entgegnen

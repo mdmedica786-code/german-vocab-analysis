@@ -35,6 +35,9 @@ status: "new"
 > Zieh die Schuhe aus!
 > *Take your shoes off!*
 
+**Phrases & Expressions:**
+- **Zieh die Schuhe aus** — *Take your shoes off* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 2a ÜB (Die Jacke gefällt mir!) · Goethe word list A1
 <!-- bank:end -->
 

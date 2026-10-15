@@ -34,6 +34,9 @@ status: "new"
 > Die Urlaubsplanung macht uns Spaß.
 > *We enjoy holiday planning.*
 
+**Phrases & Expressions:**
+- **Die Urlaubsplanung macht uns Spaß** — *We enjoy holiday planning* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 4a (Gute Reise!)
 <!-- bank:end -->
 

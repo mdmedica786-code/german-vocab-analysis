@@ -33,6 +33,11 @@ status: "new"
 > Vergiss dein Deo nicht, wir fahren zwei Tage weg.
 > *Don't forget your deodorant; we are going away for two days.*
 
+**Phrases & Expressions:**
+- **ein Deo benutzen** — *deodorant*
+- **Deo auftragen** — *deodorant*
+- **Deo und Parfüm** — *deodorant*
+
 **Collocations**
 - ein Deo benutzen
 - Deo auftragen

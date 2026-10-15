@@ -31,6 +31,9 @@ status: "new"
 > Vorsicht, das ist giftig!
 > *Careful, that is poisonous!*
 
+**Phrases & Expressions:**
+- **Vorsicht, das ist giftig** — *Careful, that is poisonous* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 1a ÜB (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

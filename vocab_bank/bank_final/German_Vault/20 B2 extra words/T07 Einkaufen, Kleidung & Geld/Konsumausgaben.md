@@ -33,6 +33,11 @@ status: "new"
 > Die Konsumausgaben der Haushalte sind gestiegen.
 > *Household consumer spending has risen.*
 
+**Phrases & Expressions:**
+- **die privaten Konsumausgaben** — *consumer spending*
+- **Konsumausgaben senken** — *consumer spending*
+- **die Konsumausgaben steigen** — *consumer spending*
+
 **Collocations**
 - die privaten Konsumausgaben
 - Konsumausgaben senken

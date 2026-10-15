@@ -26,6 +26,10 @@ status: "new"
 > Sie rief einen Verein für Obdachlose ins Leben.
 > *She founded an association for the homeless.*
 
+**Phrases & Expressions:**
+- **ein Projekt ins Leben rufen** — *to found; to set up*
+- **eine Initiative ins Leben rufen** — *to found; to set up*
+
 **Collocations**
 - ein Projekt ins Leben rufen
 - eine Initiative ins Leben rufen

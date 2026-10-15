@@ -33,6 +33,11 @@ status: "new"
 > Das Echo in der Höhle war laut.
 > *The echo in the cave was loud.*
 
+**Phrases & Expressions:**
+- **ein lautes Echo** — *echo; response*
+- **ein Echo finden** — *echo; response*
+- **ein positives Echo** — *echo; response*
+
 **Collocations**
 - ein lautes Echo
 - ein Echo finden

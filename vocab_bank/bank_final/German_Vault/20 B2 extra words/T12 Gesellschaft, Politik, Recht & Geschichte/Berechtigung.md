@@ -33,6 +33,11 @@ status: "new"
 > Die Kritik hat durchaus ihre Berechtigung.
 > *The criticism is quite justified.*
 
+**Phrases & Expressions:**
+- **seine Berechtigung haben** — *entitlement; justification*
+- **die Berechtigung zum Studium** — *entitlement; justification*
+- **keine Berechtigung haben** — *entitlement; justification*
+
 **Collocations**
 - seine Berechtigung haben
 - die Berechtigung zum Studium

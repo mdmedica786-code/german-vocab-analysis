@@ -31,6 +31,11 @@ status: "new"
 > Kameras überwachen den Eingang des Gebäudes.
 > *Cameras monitor the entrance of the building.*
 
+**Phrases & Expressions:**
+- **den Verkehr überwachen** — *to monitor; to supervise*
+- **eine Person überwachen** — *to monitor; to supervise*
+- **streng überwachen** — *to monitor; to supervise*
+
 **Collocations**
 - den Verkehr überwachen
 - eine Person überwachen

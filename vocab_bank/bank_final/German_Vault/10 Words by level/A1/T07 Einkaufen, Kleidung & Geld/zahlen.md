@@ -33,6 +33,13 @@ status: "new"
 > Zahlen, bitte!
 > *The bill, please!*
 
+**Phrases & Expressions:**
+- **Die Zahlen stammen aus einer Studie der Universität ...** — The figures come from a study by the University of ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Quellen nennen]] · B2)*
+- **bar zahlen** — *to pay*
+- **mit Karte zahlen** — *to pay*
+- **getrennt zahlen** — *to pay*
+- **Steuern zahlen** — *to pay*
+
 **Collocations**
 - bar zahlen
 - mit Karte zahlen

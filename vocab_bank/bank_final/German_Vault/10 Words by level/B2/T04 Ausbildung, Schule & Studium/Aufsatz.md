@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Wir müssen einen Aufsatz über den Sommer schreiben.
 > *We have to write an essay about the summer.*
+
+**Phrases & Expressions:**
+- **Wir müssen einen Aufsatz über den Sommer schreiben** — *We have to write an essay about the summer* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

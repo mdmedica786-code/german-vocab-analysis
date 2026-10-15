@@ -33,6 +33,11 @@ status: "new"
 > Bei hoher Luftfeuchtigkeit fühlt sich die Hitze stärker an.
 > *With high humidity the heat feels stronger.*
 
+**Phrases & Expressions:**
+- **hohe Luftfeuchtigkeit** — *humidity*
+- **die Luftfeuchtigkeit messen** — *humidity*
+- **relative Luftfeuchtigkeit** — *humidity*
+
 **Collocations**
 - hohe Luftfeuchtigkeit
 - die Luftfeuchtigkeit messen

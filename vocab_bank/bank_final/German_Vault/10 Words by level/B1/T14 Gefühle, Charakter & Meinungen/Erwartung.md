@@ -34,6 +34,9 @@ status: "new"
 > Meine Erwartungen an den Kurs sind hoch.
 > *My expectations of the course are high.*
 
+**Phrases & Expressions:**
+- **Meine Erwartungen an den Kurs sind hoch** — *My expectations of the course are high* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 2b (Zwischenmenschliches)
 <!-- bank:end -->
 

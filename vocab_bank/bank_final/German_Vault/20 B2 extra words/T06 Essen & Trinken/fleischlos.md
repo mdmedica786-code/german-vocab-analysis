@@ -29,6 +29,11 @@ status: "new"
 > Einmal pro Woche essen wir fleischlos.
 > *Once a week we eat meat-free.*
 
+**Phrases & Expressions:**
+- **fleischlos essen** — *meatless; vegetarian*
+- **ein fleischloses Gericht** — *meatless; vegetarian*
+- **fleischlos kochen** — *meatless; vegetarian*
+
 **Collocations**
 - fleischlos essen
 - ein fleischloses Gericht

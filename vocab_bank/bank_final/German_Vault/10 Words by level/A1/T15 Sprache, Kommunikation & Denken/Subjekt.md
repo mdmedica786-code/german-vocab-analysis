@@ -34,6 +34,9 @@ status: "new"
 > Das Subjekt steht oft am Satzanfang.
 > *The subject often comes at the start of the sentence.*
 
+**Phrases & Expressions:**
+- **Das Subjekt steht oft am Satzanfang** — *The subject often comes at the start of the sentence* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 8e (Guten Tag!)
 <!-- bank:end -->
 

@@ -26,6 +26,10 @@ status: "new"
 > Du solltest die Warnung nicht auf die leichte Schulter nehmen.
 > *You should not take the warning lightly.*
 
+**Phrases & Expressions:**
+- **die Sache auf die leichte Schulter nehmen** — *to take something lightly*
+- **nicht auf die leichte Schulter nehmen** — *to take something lightly*
+
 **Collocations**
 - die Sache auf die leichte Schulter nehmen
 - nicht auf die leichte Schulter nehmen

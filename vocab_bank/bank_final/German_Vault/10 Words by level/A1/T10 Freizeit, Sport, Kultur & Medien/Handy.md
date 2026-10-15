@@ -35,6 +35,9 @@ status: "new"
 > In der Schule bitte die Handys ausmachen!
 > *Please switch off mobile phones in school!*
 
+**Phrases & Expressions:**
+- **In der Schule bitte die Handys ausmachen** — *Please switch off mobile phones in school* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 9c (Und was machst du?) · Goethe word list A1
 <!-- bank:end -->
 

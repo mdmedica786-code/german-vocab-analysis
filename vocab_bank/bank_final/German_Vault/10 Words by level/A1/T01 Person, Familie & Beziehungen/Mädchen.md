@@ -35,6 +35,9 @@ status: "new"
 > Familie Kurz bekommt ein Baby. – Junge oder Mädchen?
 > *The Kurz family is expecting a baby. – Boy or girl?*
 
+**Phrases & Expressions:**
+- **Familie Kurz bekommt ein Baby. – Junge oder Mädchen** — *The Kurz family is expecting a baby. – Boy or girl* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 8b ÜB (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

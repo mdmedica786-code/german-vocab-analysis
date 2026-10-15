@@ -34,6 +34,9 @@ status: "new"
 > Bitte legen Sie die Akte auf meinen Schreibtisch.
 > *Please put the file on my desk.*
 
+**Phrases & Expressions:**
+- **Bitte legen Sie die Akte auf meinen Schreibtisch** — *Please put the file on my desk* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

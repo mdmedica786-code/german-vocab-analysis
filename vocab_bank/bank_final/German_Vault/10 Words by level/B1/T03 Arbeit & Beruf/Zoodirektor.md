@@ -34,6 +34,9 @@ status: "new"
 > Der Zoodirektor zeigt uns die neuen Pinguine.
 > *The zoo director shows us the new penguins.*
 
+**Phrases & Expressions:**
+- **Der Zoodirektor zeigt uns die neuen Pinguine** — *The zoo director shows us the new penguins* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

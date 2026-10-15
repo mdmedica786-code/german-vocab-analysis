@@ -31,6 +31,11 @@ status: "new"
 > Er musterte den Fremden misstrauisch.
 > *He looked the stranger over suspiciously.*
 
+**Phrases & Expressions:**
+- **jemanden von Kopf bis Fuß mustern** — *to look over; to scrutinise*
+- **kritisch mustern** — *to look over; to scrutinise*
+- **neugierig mustern** — *to look over; to scrutinise*
+
 **Collocations**
 - jemanden von Kopf bis Fuß mustern
 - kritisch mustern

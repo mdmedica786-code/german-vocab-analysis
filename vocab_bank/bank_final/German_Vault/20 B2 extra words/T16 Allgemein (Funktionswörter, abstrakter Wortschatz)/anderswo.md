@@ -29,6 +29,11 @@ status: "new"
 > Wir suchen uns anderswo eine Wohnung.
 > *We are looking for a flat elsewhere.*
 
+**Phrases & Expressions:**
+- **anderswo suchen** — *elsewhere; somewhere else*
+- **anderswo leben** — *elsewhere; somewhere else*
+- **irgendwo anderswo** — *elsewhere; somewhere else*
+
 **Collocations**
 - anderswo suchen
 - anderswo leben

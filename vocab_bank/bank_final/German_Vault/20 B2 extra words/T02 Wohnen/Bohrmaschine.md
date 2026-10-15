@@ -33,6 +33,11 @@ status: "new"
 > Kann ich mir kurz deine Bohrmaschine ausleihen?
 > *Can I borrow your drill for a moment?*
 
+**Phrases & Expressions:**
+- **eine Bohrmaschine benutzen** — *drill*
+- **mit der Bohrmaschine bohren** — *drill*
+- **eine Bohrmaschine ausleihen** — *drill*
+
 **Collocations**
 - eine Bohrmaschine benutzen
 - mit der Bohrmaschine bohren

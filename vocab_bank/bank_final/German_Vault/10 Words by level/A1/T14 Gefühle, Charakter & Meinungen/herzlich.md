@@ -31,6 +31,14 @@ status: "new"
 > Wir senden Ihnen herzliche Grüße aus Berlin.
 > *We send you warm regards from Berlin.*
 
+**Phrases & Expressions:**
+- **Ich möchte dich herzlich zu ... einladen.** — I would like to invite you warmly to ... *([[B1-12 Persönliche E-Mail und Brief|Einladung aussprechen]] · B1)*
+- **Herzliche Grüße aus ...** — Warm greetings from ... *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+- **Herzlichen Dank für alles!** — Heartfelt thanks for everything! *([[B1-17 Sich entschuldigen und danken|Danken]] · A2)*
+- **Ich möchte mich ganz herzlich bei Ihnen bedanken.** — I would like to thank you very warmly. *([[B1-17 Sich entschuldigen und danken|Danken]] · B1)*
+- **Herzliche Grüße** — *warm; cordial; heartfelt*
+- **herzlich willkommen** — *warm; cordial; heartfelt*
+
 **Collocations**
 - Herzliche Grüße
 - herzlich willkommen

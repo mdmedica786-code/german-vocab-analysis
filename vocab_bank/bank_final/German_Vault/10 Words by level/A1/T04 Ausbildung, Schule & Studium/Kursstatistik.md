@@ -31,6 +31,9 @@ status: "new"
 > Die Kursstatistik zeigt, wie viele Teilnehmer kommen.
 > *The course statistics show how many participants are coming.*
 
+**Phrases & Expressions:**
+- **Die Kursstatistik zeigt, wie viele Teilnehmer kommen** — *The course statistics show how many participants are coming* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 2b (Studium und Beruf)
 <!-- bank:end -->
 

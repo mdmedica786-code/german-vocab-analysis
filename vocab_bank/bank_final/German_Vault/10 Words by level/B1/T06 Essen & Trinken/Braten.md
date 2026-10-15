@@ -34,6 +34,9 @@ status: "new"
 > Nehmen Sie noch etwas Soße zum Braten?
 > *Would you like some more sauce with the roast?*
 
+**Phrases & Expressions:**
+- **Nehmen Sie noch etwas Soße zum Braten** — *Would you like some more sauce with the roast* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

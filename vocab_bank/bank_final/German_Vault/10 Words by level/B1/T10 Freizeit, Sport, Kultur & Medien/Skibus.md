@@ -31,6 +31,9 @@ status: "new"
 > Der Skibus fährt jede halbe Stunde.
 > *The ski bus runs every half hour.*
 
+**Phrases & Expressions:**
+- **Der Skibus fährt jede halbe Stunde** — *The ski bus runs every half hour* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 7 (Gute Reise!)
 <!-- bank:end -->
 

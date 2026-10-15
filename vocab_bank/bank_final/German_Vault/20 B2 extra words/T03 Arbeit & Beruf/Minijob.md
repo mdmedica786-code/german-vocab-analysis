@@ -33,6 +33,11 @@ status: "new"
 > Neben dem Studium hat sie einen Minijob im Café.
 > *Alongside her studies she has a mini job in a café.*
 
+**Phrases & Expressions:**
+- **einen Minijob haben** — *mini job (low-paid part-time job)*
+- **im Minijob arbeiten** — *mini job (low-paid part-time job)*
+- **Minijob annehmen** — *mini job (low-paid part-time job)*
+
 **Collocations**
 - einen Minijob haben
 - im Minijob arbeiten

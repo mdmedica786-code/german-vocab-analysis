@@ -35,6 +35,9 @@ status: "new"
 > Ich trinke gerne Saft.
 > *I like to drink juice.*
 
+**Phrases & Expressions:**
+- **Ich trinke gerne Saft** — *I like to drink juice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 5a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

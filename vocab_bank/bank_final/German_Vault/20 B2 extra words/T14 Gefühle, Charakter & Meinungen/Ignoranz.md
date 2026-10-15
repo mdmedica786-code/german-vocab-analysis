@@ -33,6 +33,11 @@ status: "new"
 > Seine Ignoranz gegenüber den Problemen ärgerte alle.
 > *His ignorance of the problems annoyed everyone.*
 
+**Phrases & Expressions:**
+- **Ignoranz zeigen** — *ignorance; disregard*
+- **pure Ignoranz** — *ignorance; disregard*
+- **Ignoranz gegenüber** — *ignorance; disregard*
+
 **Collocations**
 - Ignoranz zeigen
 - pure Ignoranz

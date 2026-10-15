@@ -31,6 +31,9 @@ status: "new"
 > Im Stadion gibt es viele Fanartikel zu kaufen.
 > *In the stadium there are many fan articles to buy.*
 
+**Phrases & Expressions:**
+- **Im Stadion gibt es viele Fanartikel zu kaufen** — *In the stadium there are many fan articles to buy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 3a (Sportlich, sportlich)
 <!-- bank:end -->
 

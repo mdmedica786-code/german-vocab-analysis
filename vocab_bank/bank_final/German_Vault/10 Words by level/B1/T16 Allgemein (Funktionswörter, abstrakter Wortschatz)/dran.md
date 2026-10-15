@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Wer ist als Nächster dran?
 > *Whose turn is it next?*
+
+**Phrases & Expressions:**
+- **Wer ist als Nächster dran** — *Whose turn is it next* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

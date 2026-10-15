@@ -29,6 +29,11 @@ status: "new"
 > Die vorherige Ausgabe war besser.
 > *The previous edition was better.*
 
+**Phrases & Expressions:**
+- **die vorherige Woche** — *previous; prior*
+- **vorherige Absprache** — *previous; prior*
+- **ohne vorherige Ankündigung** — *previous; prior*
+
 **Collocations**
 - die vorherige Woche
 - vorherige Absprache

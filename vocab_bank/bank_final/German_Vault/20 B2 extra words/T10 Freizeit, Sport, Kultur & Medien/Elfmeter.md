@@ -33,6 +33,11 @@ status: "new"
 > Der Stürmer verwandelte den Elfmeter sicher.
 > *The striker converted the penalty safely.*
 
+**Phrases & Expressions:**
+- **einen Elfmeter verwandeln** — *penalty kick*
+- **einen Elfmeter schießen** — *penalty kick*
+- **Elfmeter verschießen** — *penalty kick*
+
 **Collocations**
 - einen Elfmeter verwandeln
 - einen Elfmeter schießen

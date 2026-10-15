@@ -35,6 +35,9 @@ status: "new"
 > Du hast eine tolle Frisur! Warst du beim Friseur?
 > *You have a great hairstyle! Were you at the hairdresser?*
 
+**Phrases & Expressions:**
+- **Du hast eine tolle Frisur! Warst du beim Friseur** — *You have a great hairstyle! Were you at the hairdresser* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 8a (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

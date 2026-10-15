@@ -32,6 +32,11 @@ status: "new"
 > Man sollte unangenehme Aufgaben nicht aufschieben.
 > *You should not put off unpleasant tasks.*
 
+**Phrases & Expressions:**
+- **einen Termin aufschieben** — *to postpone; to put off*
+- **eine Entscheidung aufschieben** — *to postpone; to put off*
+- **auf morgen aufschieben** — *to postpone; to put off*
+
 **Collocations**
 - einen Termin aufschieben
 - eine Entscheidung aufschieben

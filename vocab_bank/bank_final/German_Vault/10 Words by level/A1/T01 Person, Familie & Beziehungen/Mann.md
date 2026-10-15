@@ -36,6 +36,10 @@ status: "new"
 > Der Mann möchte ein Brötchen.
 > *The man would like a bread roll.*
 
+**Phrases & Expressions:**
+- **Während ich koche, hört mein Mann ...** — While I cook, my husband listens to ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Zeit: gleichzeitig]] · B1)*
+- **Mein aufrichtiges Beileid zum Verlust Ihres Mannes.** — My sincere condolences on the loss of your husband. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Trauer begleiten]] · C1)*
+
 **Source:** Netzwerk neu A1 K4 8a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

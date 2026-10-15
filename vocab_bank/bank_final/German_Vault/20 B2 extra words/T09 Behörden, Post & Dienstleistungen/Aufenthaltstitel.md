@@ -33,6 +33,11 @@ status: "new"
 > Mein Aufenthaltstitel läuft im Dezember ab.
 > *My residence permit expires in December.*
 
+**Phrases & Expressions:**
+- **einen Aufenthaltstitel beantragen** — *residence permit*
+- **den Aufenthaltstitel verlängern** — *residence permit*
+- **unbefristeter Aufenthaltstitel** — *residence permit*
+
 **Collocations**
 - einen Aufenthaltstitel beantragen
 - den Aufenthaltstitel verlängern

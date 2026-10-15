@@ -30,6 +30,9 @@ status: "new"
 > Die Gurke ist ganz krumm gewachsen.
 > *The cucumber has grown completely crooked.*
 
+**Phrases & Expressions:**
+- **Die Gurke ist ganz krumm gewachsen** — *The cucumber has grown completely crooked* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

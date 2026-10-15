@@ -33,6 +33,9 @@ status: "new"
 > Es hat nicht geregnet. Ich muss meine Blumen gießen.
 > *It hasn't rained. I have to water my flowers.*
 
+**Phrases & Expressions:**
+- **Es hat nicht geregnet. Ich muss meine Blumen gießen** — *It hasn't rained. I have to water my flowers* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 3c (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

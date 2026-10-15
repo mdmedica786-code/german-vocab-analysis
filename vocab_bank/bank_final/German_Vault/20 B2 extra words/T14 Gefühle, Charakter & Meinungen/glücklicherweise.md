@@ -29,6 +29,11 @@ status: "new"
 > Glücklicherweise wurde niemand verletzt.
 > *Fortunately nobody was injured.*
 
+**Phrases & Expressions:**
+- **glücklicherweise nichts passiert** — *fortunately; luckily*
+- **glücklicherweise rechtzeitig** — *fortunately; luckily*
+- **glücklicherweise gut ausgegangen** — *fortunately; luckily*
+
 **Collocations**
 - glücklicherweise nichts passiert
 - glücklicherweise rechtzeitig

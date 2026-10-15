@@ -33,6 +33,11 @@ status: "new"
 > Mein Arbeitsweg dauert etwa vierzig Minuten.
 > *My commute takes about forty minutes.*
 
+**Phrases & Expressions:**
+- **ein langer Arbeitsweg** — *way to work; commute*
+- **auf dem Arbeitsweg** — *way to work; commute*
+- **den Arbeitsweg mit dem Rad zurücklegen** — *way to work; commute*
+
 **Collocations**
 - ein langer Arbeitsweg
 - auf dem Arbeitsweg

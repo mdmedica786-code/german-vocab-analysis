@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Dem Bericht zufolge steigen die Preise.
 > *According to the report prices are rising.*
+
+**Phrases & Expressions:**
+- **Berichten zufolge sind mehrere Menschen verletzt worden.** — According to reports, several people have been injured. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Quelle distanziert wiedergeben]] · B2)*
 <!-- bank:end -->
 
 ## My notes

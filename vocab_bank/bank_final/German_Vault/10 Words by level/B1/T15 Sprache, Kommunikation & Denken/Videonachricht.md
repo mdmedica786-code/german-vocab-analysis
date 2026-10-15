@@ -31,6 +31,9 @@ status: "new"
 > Er schickt mir eine Videonachricht.
 > *He sends me a video message.*
 
+**Phrases & Expressions:**
+- **Er schickt mir eine Videonachricht** — *He sends me a video message* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 6b (Das ist ja praktisch!)
 <!-- bank:end -->
 

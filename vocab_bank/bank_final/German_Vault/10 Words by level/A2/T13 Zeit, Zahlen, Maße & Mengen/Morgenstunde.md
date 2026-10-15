@@ -34,6 +34,9 @@ status: "new"
 > In der frühen Morgenstunde ist die Stadt noch ruhig.
 > *In the early morning hour the city is still quiet.*
 
+**Phrases & Expressions:**
+- **In der frühen Morgenstunde ist die Stadt noch ruhig** — *In the early morning hour the city is still quiet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 12a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

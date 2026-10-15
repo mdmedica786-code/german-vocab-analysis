@@ -35,6 +35,10 @@ status: "new"
 > Ich trinke zwei Liter Wasser am Tag.
 > *I drink two litres of water a day.*
 
+**Phrases & Expressions:**
+- **Trinken Sie täglich mindestens zwei Liter Wasser.** — Drink at least two litres of water daily. *([[FSP-11 Therapie und Medikamente erklären|Selbstmanagement]] · B1)*
+- **Geben Sie bitte vier Liter Sauerstoff über die Maske.** — Please give four litres of oxygen via mask. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Anweisung geben]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 6d ÜB (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

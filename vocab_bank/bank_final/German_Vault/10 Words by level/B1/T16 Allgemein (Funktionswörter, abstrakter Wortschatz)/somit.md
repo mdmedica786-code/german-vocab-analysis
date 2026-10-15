@@ -29,6 +29,12 @@ status: "new"
 > Der Vertrag ist unterschrieben, somit ist alles geregelt.
 > *The contract is signed, so everything is settled.*
 
+**Phrases & Expressions:**
+- **und somit** — *thus; therefore; consequently*
+- **somit ist ...** — *thus; therefore; consequently*
+- **somit steht fest** — *thus; therefore; consequently*
+- **somit gilt** — *thus; therefore; consequently*
+
 **Collocations**
 - und somit
 - somit ist ...

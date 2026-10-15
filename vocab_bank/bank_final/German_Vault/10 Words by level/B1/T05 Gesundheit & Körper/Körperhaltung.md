@@ -34,6 +34,9 @@ status: "new"
 > Eine gute Körperhaltung schützt den Rücken.
 > *Good posture protects the back.*
 
+**Phrases & Expressions:**
+- **Eine gute Körperhaltung schützt den Rücken** — *Good posture protects the back* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

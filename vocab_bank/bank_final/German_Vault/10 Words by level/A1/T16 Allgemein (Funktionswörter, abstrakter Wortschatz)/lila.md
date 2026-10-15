@@ -32,6 +32,9 @@ status: "new"
 > Sie trägt ein lila Kleid.
 > *She is wearing a purple dress.*
 
+**Phrases & Expressions:**
+- **Sie trägt ein lila Kleid** — *She is wearing a purple dress* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 9a (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

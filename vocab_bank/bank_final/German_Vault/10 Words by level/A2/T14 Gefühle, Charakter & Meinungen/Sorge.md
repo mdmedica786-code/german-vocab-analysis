@@ -35,6 +35,14 @@ status: "new"
 > Ich mache mir so viele Sorgen um meine Kinder.
 > *I worry so much about my children.*
 
+**Phrases & Expressions:**
+- **dafür sorgen, dass ...** — to make sure that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **mach dir keine Sorgen** — don't worry *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · A2)*
+- **dafür zu sorgen, dass ...** — to make sure that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **sorgen Sie dafür, dass ...** — make sure that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **machen Sie sich keine Sorgen** — don't worry *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B1)*
+- **ich werde dafür sorgen, dass ...** — I will make sure that ... *([[Hilfe anbieten - Service (offer help)|Hilfe anbieten / Service (offer help)]] · B2)*
+
 **Source:** Netzwerk neu A2 K3 12b (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

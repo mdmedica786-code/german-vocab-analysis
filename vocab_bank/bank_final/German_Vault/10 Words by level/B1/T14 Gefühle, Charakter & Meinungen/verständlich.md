@@ -31,6 +31,9 @@ status: "new"
 > Nach acht Stunden Schule haben die Kinder keine Lust mehr, die Hausaufgaben zu machen. Ich finde das verständlich.
 > *After eight hours of school the children do not feel like doing homework any more. I find that understandable.*
 
+**Phrases & Expressions:**
+- **Es ist völlig verständlich, dass Sie jetzt Angst haben.** — It is completely understandable that you are afraid now. *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Gefühle ansprechen]] · B2)*
+
 **Source:** Netzwerk neu B1 K6 9d (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

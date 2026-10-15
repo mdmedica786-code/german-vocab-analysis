@@ -34,6 +34,9 @@ status: "new"
 > Sie hat eine gute Geschäftsidee.
 > *She has a good business idea.*
 
+**Phrases & Expressions:**
+- **Sie hat eine gute Geschäftsidee** — *She has a good business idea* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

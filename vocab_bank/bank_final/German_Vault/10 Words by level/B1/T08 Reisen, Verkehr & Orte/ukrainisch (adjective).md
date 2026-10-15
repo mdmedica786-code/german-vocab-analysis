@@ -30,6 +30,9 @@ status: "new"
 > Wir essen ukrainischen Borschtsch.
 > *We are eating Ukrainian borscht.*
 
+**Phrases & Expressions:**
+- **Wir essen ukrainischen Borschtsch** — *We are eating Ukrainian borscht* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

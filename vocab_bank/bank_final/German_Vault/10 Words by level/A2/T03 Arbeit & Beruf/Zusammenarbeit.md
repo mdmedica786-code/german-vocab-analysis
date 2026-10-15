@@ -35,6 +35,9 @@ status: "new"
 > Sie sind der neue Kollege? Auf gute Zusammenarbeit!
 > *You are the new colleague? Here's to good cooperation!*
 
+**Phrases & Expressions:**
+- **Sie sind der neue Kollege? Auf gute Zusammenarbeit** — *You are the new colleague? Here's to good cooperation* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

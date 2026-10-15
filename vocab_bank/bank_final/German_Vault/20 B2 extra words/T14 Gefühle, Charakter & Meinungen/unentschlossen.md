@@ -29,6 +29,11 @@ status: "new"
 > Ich bin noch unentschlossen, welchen Kurs ich wähle.
 > *I am still undecided which course I will choose.*
 
+**Phrases & Expressions:**
+- **unentschlossen sein** — *undecided; irresolute*
+- **unentschlossen wirken** — *undecided; irresolute*
+- **unentschlossen zögern** — *undecided; irresolute*
+
 **Collocations**
 - unentschlossen sein
 - unentschlossen wirken

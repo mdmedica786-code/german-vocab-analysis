@@ -14,12 +14,14 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Ernährung beraten
 
 - **Ich empfehle Ihnen, sich ausgewogen zu ernähren.** ⭐ — I recommend that you eat a balanced diet.
+  - Words: [[empfehlen]] · [[ernähren]]
   - Ich empfehle Ihnen, sich ausgewogen zu ernähren und weniger Zucker zu essen. *(I recommend that you eat a balanced diet and eat less sugar.)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: empfehlen + Dativ + zu-Infinitiv
   - Variants: Achten Sie bitte auf eine gesunde Ernährung. | Essen Sie mehr Gemüse und Vollkorn.
   - Exam: FSP Anamnesegespräch
 - **Versuchen Sie, weniger Salz und Fett zu essen.** ⭐ — Try to eat less salt and fat.
+  - Words: [[Salz]] · [[Essen]] · [[essen (verb)]] · [[Fett]] · [[versuchen]] · [[Versuch]] · [[fett (adjective)]]
   - Versuchen Sie, weniger Salz und Fett zu essen, das senkt den Blutdruck. *(Try to eat less salt and fat; that lowers blood pressure.)*
   - A2 · formal · speaker: Arzt · to: Patient
   - Grammar: versuchen + zu-Infinitiv
@@ -28,12 +30,14 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Bewegung motivieren
 
 - **Es wäre gut, wenn Sie sich dreimal pro Woche bewegen würden.** ⭐ — It would be good if you were to move three times a week.
+  - Words: [[gut (adjective)]] · [[pro]] · [[Woche]] · [[dreimal]] · [[bewegen]] · [[Gut]] · [[guttun]] · [[gutschreiben]]
   - Es wäre gut, wenn Sie sich dreimal pro Woche eine halbe Stunde bewegen würden. *(It would be good if you were to move for half an hour three times a week.)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: Konjunktiv II: wäre, würden
   - Variants: Sie sollten sich regelmäßig bewegen. | Schon ein täglicher Spaziergang hilft.
   - Exam: FSP Anamnesegespräch
 - **Schon ein zügiger Spaziergang pro Tag tut Ihnen gut.** — Even a brisk walk a day does you good.
+  - Words: [[gut (adjective)]] · [[Tag]] · [[pro]] · [[schon]] · [[leidtun]] · [[tun]] · [[wehtun]] · [[Spaziergang]]
   - Schon ein zügiger Spaziergang pro Tag tut Ihnen gut und schützt das Herz. *(Even a brisk walk a day does you good and protects the heart.)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: guttun + Dativ
@@ -42,12 +46,14 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Rauchstopp
 
 - **Das Beste, was Sie für Ihre Gesundheit tun können, ist, mit dem Rauchen aufzuhören.** ⭐ — The best thing you can do for your health is to stop smoking.
+  - Words: [[tun]] · [[rauchen]] · [[Beste]] · [[Gesundheit]] · [[was]] · [[können]]
   - Das Beste, was Sie für Ihre Gesundheit tun können, ist, mit dem Rauchen aufzuhören. *(The best thing you can do for your health is to stop smoking.)*
   - B2 · formal · speaker: Arzt · to: Patient
   - Grammar: aufhören mit + Dativ
   - Variants: Ich rate Ihnen dringend, das Rauchen aufzugeben. | Haben Sie schon einmal daran gedacht, aufzuhören?
   - Exam: FSP Anamnesegespräch
 - **Möchten Sie Unterstützung beim Rauchstopp?** ⭐ — Would you like support with quitting smoking?
+  - Words: [[möchten]] · [[Unterstützung]]
   - Möchten Sie Unterstützung beim Rauchstopp? Es gibt Kurse und Medikamente, die helfen. *(Would you like support with quitting smoking? There are courses and medicines that help.)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: Rauchstopp = Aufhören mit dem Rauchen
@@ -56,6 +62,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Alkohol beraten
 
 - **Ich rate Ihnen, Alkohol nur in Maßen zu trinken.** ⭐ — I advise you to drink alcohol only in moderation.
+  - Words: [[raten]] · [[Maß]] · [[trinken]] · [[Alkohol]] · [[Rate]]
   - Ich rate Ihnen, Alkohol nur in Maßen zu trinken oder ganz darauf zu verzichten. *(I advise you to drink alcohol only in moderation or to avoid it altogether.)*
   - B2 · formal · speaker: Arzt · to: Patient
   - Grammar: raten + Dativ + zu-Infinitiv
@@ -64,12 +71,14 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Gewicht besprechen
 
 - **Ein paar Kilo weniger würden Ihrem Herzen guttun.** ⭐ — A few kilos less would do your heart good.
+  - Words: [[Herz]] · [[Kilo]] · [[Paar]] · [[paar (determiner)]] · [[guttun]]
   - Ein paar Kilo weniger würden Ihrem Herzen und Ihren Gelenken guttun. *(A few kilos less would do your heart and joints good.)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: Konjunktiv II: würden guttun
   - Variants: Eine Gewichtsabnahme würde Ihnen helfen. | Wir sollten ein realistisches Ziel festlegen.
   - Exam: FSP Anamnesegespräch
 - **Wie viel möchten Sie in den nächsten Monaten abnehmen?** — How much would you like to lose in the next few months?
+  - Words: [[viel]] · [[Monat]] · [[möchten]] · [[nächste (adjective)]] · [[Nächste]] · [[abnehmen]]
   - Wie viel möchten Sie in den nächsten Monaten abnehmen? Setzen wir uns ein kleines Ziel. *(How much would you like to lose in the next few months? Let's set ourselves a small goal.)*
   - A2 · formal · speaker: Arzt · to: Patient
   - Grammar: abnehmen: trennbar
@@ -78,6 +87,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Impfung empfehlen
 
 - **Ich empfehle Ihnen eine jährliche Grippeschutzimpfung.** ⭐ — I recommend an annual flu vaccination to you.
+  - Words: [[empfehlen]] · [[jährlich]]
   - Ich empfehle Ihnen eine jährliche Grippeschutzimpfung, besonders bei Ihrer Vorerkrankung. *(I recommend an annual flu vaccination to you, especially given your pre-existing condition.)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: empfehlen + Dativ + Akkusativ
@@ -86,6 +96,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Vorsorge empfehlen
 
 - **Ab dem 50. Lebensjahr sollten Sie zur Darmkrebsvorsorge gehen.** ⭐ — From the age of 50 you should go for bowel cancer screening.
+  - Words: [[gehen]] · [[ab]] · [[abholen]] · [[abwechseln]] · [[abfahren]] · [[abgeben]] · [[abfliegen]] · [[ablehnen]]
   - Ab dem 50. Lebensjahr sollten Sie zur Darmkrebsvorsorge gehen. *(From the age of 50 you should go for bowel cancer screening.)*
   - B2 · formal · speaker: Arzt · to: Patient
   - Grammar: ab + Dativ
@@ -94,12 +105,14 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Therapietreue
 
 - **Es ist wichtig, dass Sie Ihre Medikamente regelmäßig einnehmen.** ⭐ — It is important that you take your medication regularly.
+  - Words: [[Medikament]] · [[wichtig]] · [[regelmäßig]] · [[einnehmen]]
   - Es ist wichtig, dass Sie Ihre Medikamente regelmäßig einnehmen, auch wenn Sie sich gut fühlen. *(It is important that you take your medication regularly, even if you feel well.)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: dass-Satz: Verb am Ende
   - Variants: Bitte lassen Sie keine Tablette aus. | Nur bei regelmäßiger Einnahme wirken sie sicher.
   - Exam: FSP Anamnesegespräch
 - **Was würde Ihnen helfen, die Tabletten nicht zu vergessen?** — What would help you not to forget the tablets?
+  - Words: [[Tablette]] · [[helfen]] · [[vergessen]] · [[Würde]] · [[was]]
   - Was würde Ihnen helfen, die Tabletten nicht zu vergessen, vielleicht eine Tablettenbox? *(What would help you not to forget the tablets, perhaps a pill box?)*
   - B2 · formal · speaker: Arzt · to: Patient
   - Grammar: Konjunktiv II: würde helfen
@@ -108,6 +121,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Motivation fördern
 
 - **Was ist Ihnen dabei am wichtigsten?** ⭐ — What is most important to you in this?
+  - Words: [[dabei]] · [[dabei sein]] · [[dabei haben]] · [[dabeihaben]] · [[was]]
   - Was ist Ihnen dabei am wichtigsten? Dann können wir ein Ziel vereinbaren. *(What is most important to you in this? Then we can agree on a goal.)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: wichtig sein + Dativ; Superlativ
@@ -116,12 +130,14 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Ziele vereinbaren
 
 - **Lassen Sie uns gemeinsam ein realistisches Ziel festlegen.** ⭐ — Let us set a realistic goal together.
+  - Words: [[lassen]] · [[Ziel]] · [[realistisch]] · [[festlegen]] · [[sich etwas gefallen lassen]] · [[sich scheiden lassen]] · [[gemeinsam]]
   - Lassen Sie uns gemeinsam ein realistisches Ziel festlegen, zum Beispiel zehn Minuten Bewegung täglich. *(Let us set a realistic goal together, for example ten minutes of exercise daily.)*
   - B2 · formal · speaker: Arzt · to: Patient
   - Grammar: Aufforderung: Lassen Sie uns + Infinitiv
   - Variants: Welches Ziel können wir uns vornehmen? | Wir vereinbaren kleine Schritte.
   - Exam: FSP Anamnesegespräch
 - **Wir sehen uns in vier Wochen und schauen, wie es klappt.** — We will see each other in four weeks and see how it goes.
+  - Words: [[vier]] · [[Woche]] · [[schauen]] · [[klappen]] · [[sehen]]
   - Wir sehen uns in vier Wochen wieder und schauen, wie es klappt. *(We will see each other again in four weeks and see how it goes.)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: klappen = gut funktionieren
@@ -130,6 +146,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Lob und Ermutigung
 
 - **Das haben Sie schon sehr gut gemacht.** ⭐ — You have already done that very well.
+  - Words: [[gut (adjective)]] · [[machen]] · [[schon]] · [[sauber machen]] · [[gemacht sein]] · [[Gut]] · [[guttun]] · [[gutschreiben]]
   - Das haben Sie schon sehr gut gemacht, bleiben Sie dabei. *(You have already done that very well; keep it up.)*
   - A2 · formal · speaker: Arzt · to: Patient
   - Grammar: bei etwas bleiben
@@ -138,6 +155,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Rückfall besprechen
 
 - **Ein Rückfall ist nicht schlimm, wichtig ist, dass Sie nicht aufgeben.** — A relapse is not bad; what matters is that you don't give up.
+  - Words: [[wichtig]] · [[schlimm]] · [[aufgeben]]
   - Ein Rückfall ist nicht schlimm, wichtig ist, dass Sie nicht aufgeben. *(A relapse is not bad; what matters is that you don't give up.)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: wichtig ist, dass ...
@@ -146,6 +164,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Stress abbauen
 
 - **Versuchen Sie, bewusst Pausen in den Alltag einzubauen.** — Try to consciously build breaks into your day.
+  - Words: [[Alltag]] · [[bewusst]] · [[Pause]] · [[versuchen]] · [[Versuch]]
   - Versuchen Sie, bewusst Pausen in den Alltag einzubauen und genug zu schlafen. *(Try to consciously build breaks into your day and get enough sleep.)*
   - B2 · formal · speaker: Arzt · to: Patient
   - Grammar: einbauen: trennbar
@@ -154,6 +173,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Schlafhygiene
 
 - **Gehen Sie möglichst jeden Tag zur gleichen Zeit ins Bett.** — If possible, go to bed at the same time every day.
+  - Words: [[gehen]] · [[Tag]] · [[Zeit]] · [[Bett]] · [[möglichst]] · [[beten]] · [[gleichen]]
   - Gehen Sie möglichst jeden Tag zur gleichen Zeit ins Bett und meiden Sie abends Kaffee. *(If possible, go to bed at the same time every day and avoid coffee in the evening.)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: möglichst = wenn möglich

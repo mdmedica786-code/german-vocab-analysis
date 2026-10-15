@@ -30,6 +30,9 @@ status: "new"
 > Sie reagierte sehr emotional auf die Nachricht.
 > *She reacted very emotionally to the news.*
 
+**Phrases & Expressions:**
+- **Sie reagierte sehr emotional auf die Nachricht** — *She reacted very emotionally to the news* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 9a (Große und kleine Gefühle)
 <!-- bank:end -->
 

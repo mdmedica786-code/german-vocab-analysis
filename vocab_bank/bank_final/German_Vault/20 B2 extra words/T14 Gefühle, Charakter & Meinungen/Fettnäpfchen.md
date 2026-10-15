@@ -33,6 +33,11 @@ status: "new"
 > In einem fremden Land tritt man leicht ins Fettnäpfchen.
 > *In a foreign country it is easy to put your foot in it.*
 
+**Phrases & Expressions:**
+- **ins Fettnäpfchen treten** — *faux pas; social blunder (ins Fettnäpfchen treten)*
+- **kein Fettnäpfchen auslassen** — *faux pas; social blunder (ins Fettnäpfchen treten)*
+- **in ein Fettnäpfchen treten** — *faux pas; social blunder (ins Fettnäpfchen treten)*
+
 **Collocations**
 - ins Fettnäpfchen treten
 - kein Fettnäpfchen auslassen

@@ -33,6 +33,9 @@ status: "new"
 > Ich bade nicht so gern, ich dusche lieber.
 > *I don't like taking baths, I prefer to shower.*
 
+**Phrases & Expressions:**
+- **Ich bade nicht so gern, ich dusche lieber** — *I don't like taking baths, I prefer to shower* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 1a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

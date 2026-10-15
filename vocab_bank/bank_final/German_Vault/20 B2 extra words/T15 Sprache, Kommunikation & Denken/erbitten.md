@@ -31,6 +31,11 @@ status: "new"
 > Wir erbitten Ihre Antwort bis zum Monatsende.
 > *We request your reply by the end of the month.*
 
+**Phrases & Expressions:**
+- **Rat erbitten** — *to request; to ask for (formal)*
+- **eine Auskunft erbitten** — *to request; to ask for (formal)*
+- **Hilfe erbitten** — *to request; to ask for (formal)*
+
 **Collocations**
 - Rat erbitten
 - eine Auskunft erbitten

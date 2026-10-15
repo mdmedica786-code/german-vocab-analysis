@@ -30,6 +30,9 @@ status: "new"
 > Wir hatten einen wundervollen Urlaub.
 > *We had a wonderful holiday.*
 
+**Phrases & Expressions:**
+- **Wir hatten einen wundervollen Urlaub** — *We had a wonderful holiday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Polizei hat einen Mann festgenommen.
 > *The police arrested a man.*
 
+**Phrases & Expressions:**
+- **fest davon überzeugt sein, dass ...** — to be firmly convinced that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Ich umarme dich ganz fest.** — I give you a big hug. *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+- **... nimmt kontinuierlich zu.** — ... is steadily increasing. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Anstieg beschreiben]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

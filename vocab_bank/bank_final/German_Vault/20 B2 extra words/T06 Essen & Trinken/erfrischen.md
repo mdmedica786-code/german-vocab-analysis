@@ -32,6 +32,11 @@ status: "new"
 > Ein kaltes Getränk erfrischt im Sommer.
 > *A cold drink refreshes in summer.*
 
+**Phrases & Expressions:**
+- **sich erfrischen** — *to refresh*
+- **erfrischend wirken** — *to refresh*
+- **ein erfrischendes Getränk** — *to refresh*
+
 **Collocations**
 - sich erfrischen
 - erfrischend wirken

@@ -33,6 +33,11 @@ status: "new"
 > Vor dem Haus steht eine alte Birke.
 > *In front of the house stands an old birch.*
 
+**Phrases & Expressions:**
+- **eine Birke fällen** — *birch*
+- **Birkenwald** — *birch*
+- **weiße Rinde der Birke** — *birch*
+
 **Collocations**
 - eine Birke fällen
 - Birkenwald

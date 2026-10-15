@@ -33,6 +33,11 @@ status: "new"
 > Die Hardware des Computers ist veraltet.
 > *The hardware of the computer is out of date.*
 
+**Phrases & Expressions:**
+- **neue Hardware kaufen** — *hardware*
+- **Hardware und Software** — *hardware*
+- **defekte Hardware** — *hardware*
+
 **Collocations**
 - neue Hardware kaufen
 - Hardware und Software

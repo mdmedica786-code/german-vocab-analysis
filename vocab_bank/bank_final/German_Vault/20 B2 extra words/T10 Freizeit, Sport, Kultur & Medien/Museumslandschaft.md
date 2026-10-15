@@ -33,6 +33,11 @@ status: "new"
 > Die Stadt hat eine vielfältige Museumslandschaft.
 > *The city has a varied museum landscape.*
 
+**Phrases & Expressions:**
+- **eine vielfältige Museumslandschaft** — *museum landscape; range of museums*
+- **die Museumslandschaft der Stadt** — *museum landscape; range of museums*
+- **die Museumslandschaft erkunden** — *museum landscape; range of museums*
+
 **Collocations**
 - eine vielfältige Museumslandschaft
 - die Museumslandschaft der Stadt

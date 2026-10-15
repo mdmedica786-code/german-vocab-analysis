@@ -33,6 +33,9 @@ status: "new"
 > Sie leitet den Vortrag mit einem Witz ein.
 > *She opens the talk with a joke.*
 
+**Phrases & Expressions:**
+- **Sie leitet den Vortrag mit einem Witz ein** — *She opens the talk with a joke* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11e (Geld regiert die Welt?)
 <!-- bank:end -->
 

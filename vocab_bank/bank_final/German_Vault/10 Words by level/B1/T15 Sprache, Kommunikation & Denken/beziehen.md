@@ -33,6 +33,14 @@ status: "new"
 > Ich beziehe mich auf Ihre E-Mail vom Montag.
 > *I am referring to your email of Monday.*
 
+**Phrases & Expressions:**
+- **sich auf ... beziehen** — to refer to ... *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B2)*
+- **Ich beziehe mich auf den Beitrag von ...** — I am referring to the post by ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Einstieg mit Bezug]] · B2)*
+- **sich auf etwas beziehen** — *to refer (sich beziehen auf); to obtain; to move into*
+- **eine Wohnung beziehen** — *to refer (sich beziehen auf); to obtain; to move into*
+- **Gehalt beziehen** — *to refer (sich beziehen auf); to obtain; to move into*
+- **Stellung beziehen** — *to refer (sich beziehen auf); to obtain; to move into*
+
 **Collocations**
 - sich auf etwas beziehen
 - eine Wohnung beziehen

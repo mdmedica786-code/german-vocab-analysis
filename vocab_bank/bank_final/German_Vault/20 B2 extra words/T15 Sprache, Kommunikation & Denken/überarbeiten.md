@@ -32,6 +32,11 @@ status: "new"
 > Bitte überarbeiten Sie Ihren Text bis Freitag.
 > *Please revise your text by Friday.*
 
+**Phrases & Expressions:**
+- **einen Text überarbeiten** — *to revise; to rework; (sich) to overwork*
+- **den Entwurf überarbeiten** — *to revise; to rework; (sich) to overwork*
+- **sich überarbeiten** — *to revise; to rework; (sich) to overwork*
+
 **Collocations**
 - einen Text überarbeiten
 - den Entwurf überarbeiten

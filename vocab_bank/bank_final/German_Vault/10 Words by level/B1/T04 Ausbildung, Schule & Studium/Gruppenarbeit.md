@@ -34,6 +34,9 @@ status: "new"
 > Bei der Gruppenarbeit helfen wir uns gegenseitig.
 > *In group work we help each other.*
 
+**Phrases & Expressions:**
+- **Bei der Gruppenarbeit helfen wir uns gegenseitig** — *In group work we help each other* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 1a (Veränderungen)
 <!-- bank:end -->
 

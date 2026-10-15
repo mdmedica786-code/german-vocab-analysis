@@ -26,6 +26,10 @@ status: "new"
 > Der Bewerber hat einen guten Eindruck gemacht.
 > *The applicant made a good impression.*
 
+**Phrases & Expressions:**
+- **einen guten Eindruck machen** — *to make an impression*
+- **Eindruck machen auf + Akk.** — *to make an impression*
+
 **Collocations**
 - einen guten Eindruck machen
 - Eindruck machen auf + Akk.

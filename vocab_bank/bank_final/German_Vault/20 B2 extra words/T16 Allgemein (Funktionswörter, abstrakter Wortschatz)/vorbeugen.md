@@ -32,6 +32,10 @@ status: "new"
 > Man kann Rückenschmerzen durch Bewegung vorbeugen.
 > *One can prevent back pain through exercise.*
 
+**Phrases & Expressions:**
+- **vorbeugen + Dat.** — *to prevent; to guard against*
+- **einer Krankheit vorbeugen** — *to prevent; to guard against*
+
 **Collocations**
 - vorbeugen + Dat.
 - einer Krankheit vorbeugen

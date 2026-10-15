@@ -33,6 +33,11 @@ status: "new"
 > Mit großem Pflichtbewusstsein erledigte er seine Arbeit.
 > *With a strong sense of duty he did his work.*
 
+**Phrases & Expressions:**
+- **Pflichtbewusstsein zeigen** — *sense of duty*
+- **aus Pflichtbewusstsein** — *sense of duty*
+- **ein ausgeprägtes Pflichtbewusstsein** — *sense of duty*
+
 **Collocations**
 - Pflichtbewusstsein zeigen
 - aus Pflichtbewusstsein

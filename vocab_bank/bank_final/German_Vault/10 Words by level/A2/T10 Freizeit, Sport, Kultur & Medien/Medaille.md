@@ -34,6 +34,9 @@ status: "new"
 > Sie hat bei den Spielen eine Medaille gewonnen.
 > *She won a medal at the Games.*
 
+**Phrases & Expressions:**
+- **Sie hat bei den Spielen eine Medaille gewonnen** — *She won a medal at the Games* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle)
 <!-- bank:end -->
 

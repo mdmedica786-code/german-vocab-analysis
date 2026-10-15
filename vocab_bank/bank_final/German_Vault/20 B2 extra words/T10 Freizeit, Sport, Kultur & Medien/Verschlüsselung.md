@@ -33,6 +33,11 @@ status: "new"
 > Die Verschlüsselung schützt Ihre Nachrichten vor fremdem Zugriff.
 > *Encryption protects your messages from unauthorised access.*
 
+**Phrases & Expressions:**
+- **Ende-zu-Ende-Verschlüsselung** — *encryption*
+- **Verschlüsselung aktivieren** — *encryption*
+- **sichere Verschlüsselung** — *encryption*
+
 **Collocations**
 - Ende-zu-Ende-Verschlüsselung
 - Verschlüsselung aktivieren

@@ -33,6 +33,11 @@ status: "new"
 > Zum Kaffee esse ich gern ein Stück Zartbitterschokolade.
 > *With coffee I like to eat a piece of dark chocolate.*
 
+**Phrases & Expressions:**
+- **ein Stück Zartbitterschokolade** — *dark chocolate (plain)*
+- **Zartbitterschokolade essen** — *dark chocolate (plain)*
+- **eine Tafel Zartbitterschokolade** — *dark chocolate (plain)*
+
 **Collocations**
 - ein Stück Zartbitterschokolade
 - Zartbitterschokolade essen

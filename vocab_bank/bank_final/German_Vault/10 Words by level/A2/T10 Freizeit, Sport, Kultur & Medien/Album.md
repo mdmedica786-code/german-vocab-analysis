@@ -34,6 +34,9 @@ status: "new"
 > Die Band hat ein neues Album veröffentlicht.
 > *The band has released a new album.*
 
+**Phrases & Expressions:**
+- **Die Band hat ein neues Album veröffentlicht** — *The band has released a new album* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 5a (Arbeitswelten)
 <!-- bank:end -->
 

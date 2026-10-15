@@ -34,6 +34,9 @@ status: "new"
 > Ihre Schauspielkarriere begann am Theater.
 > *Her acting career began at the theatre.*
 
+**Phrases & Expressions:**
+- **Ihre Schauspielkarriere begann am Theater** — *Her acting career began at the theatre* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 11b (Zwischenmenschliches)
 <!-- bank:end -->
 

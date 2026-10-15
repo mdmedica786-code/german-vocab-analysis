@@ -31,6 +31,12 @@ status: "new"
 > Ich suche einen ganz speziellen Ring für meine Freundin.
 > *I'm looking for a very special ring for my girlfriend.*
 
+**Phrases & Expressions:**
+- **speziell für** — *special; particular; (adv.) especially*
+- **ein spezieller Fall** — *special; particular; (adv.) especially*
+- **speziell ausgebildet** — *special; particular; (adv.) especially*
+- **etwas Spezielles** — *special; particular; (adv.) especially*
+
 **Collocations**
 - speziell für
 - ein spezieller Fall

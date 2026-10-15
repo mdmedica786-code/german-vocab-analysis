@@ -34,6 +34,9 @@ status: "new"
 > Viele Ausländer und Ausländerinnen lernen in der Volkshochschule Deutsch.
 > *Many foreigners learn German at the adult education centre.*
 
+**Phrases & Expressions:**
+- **Viele Ausländer und Ausländerinnen lernen in der Volkshochschule Deutsch** — *Many foreigners learn German at the adult education centre* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

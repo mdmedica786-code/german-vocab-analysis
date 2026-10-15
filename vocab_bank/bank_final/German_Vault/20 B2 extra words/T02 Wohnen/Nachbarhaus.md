@@ -33,6 +33,11 @@ status: "new"
 > Im Nachbarhaus wohnt eine nette Familie.
 > *A nice family lives in the neighbouring house.*
 
+**Phrases & Expressions:**
+- **im Nachbarhaus** — *neighbouring house*
+- **das Nachbarhaus verkaufen** — *neighbouring house*
+- **das Nachbarhaus renovieren** — *neighbouring house*
+
 **Collocations**
 - im Nachbarhaus
 - das Nachbarhaus verkaufen

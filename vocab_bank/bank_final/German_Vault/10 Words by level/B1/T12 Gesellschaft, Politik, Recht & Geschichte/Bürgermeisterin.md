@@ -35,6 +35,9 @@ status: "new"
 > Die Bürgermeisterin besucht die Schule.
 > *The mayor visits the school.*
 
+**Phrases & Expressions:**
+- **Die Bürgermeisterin besucht die Schule** — *The mayor visits the school* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 8c (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

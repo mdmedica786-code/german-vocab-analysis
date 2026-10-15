@@ -33,6 +33,11 @@ status: "new"
 > Sie nannten ihn einen Verräter.
 > *They called him a traitor.*
 
+**Phrases & Expressions:**
+- **ein Verräter sein** — *traitor*
+- **jemanden als Verräter bezeichnen** — *traitor*
+- **ein Verräter an** — *traitor*
+
 **Collocations**
 - ein Verräter sein
 - jemanden als Verräter bezeichnen

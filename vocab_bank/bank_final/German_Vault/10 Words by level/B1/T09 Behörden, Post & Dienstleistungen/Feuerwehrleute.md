@@ -34,6 +34,9 @@ status: "new"
 > Die Feuerwehrleute löschen das Feuer.
 > *The firefighters put out the fire.*
 
+**Phrases & Expressions:**
+- **Die Feuerwehrleute löschen das Feuer** — *The firefighters put out the fire* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

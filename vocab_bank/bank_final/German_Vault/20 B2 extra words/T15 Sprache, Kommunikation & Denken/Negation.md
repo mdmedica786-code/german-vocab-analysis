@@ -33,6 +33,11 @@ status: "new"
 > Das Wort „nicht“ drückt eine Negation aus.
 > *The word "nicht" expresses a negation.*
 
+**Phrases & Expressions:**
+- **eine Negation bilden** — *negation*
+- **die Negation im Satz** — *negation*
+- **die doppelte Negation** — *negation*
+
 **Collocations**
 - eine Negation bilden
 - die Negation im Satz

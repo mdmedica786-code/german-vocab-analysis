@@ -34,6 +34,9 @@ status: "new"
 > Die Zimmer gibt es in drei Preiskategorien.
 > *The rooms come in three price categories.*
 
+**Phrases & Expressions:**
+- **Die Zimmer gibt es in drei Preiskategorien** — *The rooms come in three price categories* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

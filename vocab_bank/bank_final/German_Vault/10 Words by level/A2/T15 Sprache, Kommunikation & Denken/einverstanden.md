@@ -31,6 +31,14 @@ status: "new"
 > Treffen wir uns um 17 Uhr? - Einverstanden.
 > *Shall we meet at 5 pm? - Agreed.*
 
+**Phrases & Expressions:**
+- **Damit bin ich nicht einverstanden.** — I don't agree with that. *([[B1-02 Zustimmen und Widersprechen|Klar ablehnen]] · B1)*
+- **Ja, einverstanden, so machen wir das.** — Yes, agreed, let's do it that way. *([[B1-05 Vorschläge machen und darauf reagieren|Vorschlag annehmen]] · B1)*
+- **Ich würde das machen, wenn Sie einverstanden sind.** — I would do that if you agree. *([[B2-10 Bedingungen, Folgen und irreale Wünsche|Vorschlag mit Bedingung]] · B2)*
+- **Sind Sie damit einverstanden, dass ich mir Notizen mache?** — Are you OK with me taking notes? *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Einverständnis einholen]] · B1)*
+- **Sind Sie mit diesem Vorgehen einverstanden?** — Do you agree with this approach? *([[FSP-11 Therapie und Medikamente erklären|Zustimmung einholen]] · B2)*
+- **Sind Sie damit einverstanden, dass wir den Eingriff durchführen?** — Do you consent to us carrying out the procedure? *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Einwilligung einholen]] · B2)*
+
 **Source:** Netzwerk neu A2 K9 9a (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Der alte Mann wirkte verwirrt und desorientiert.
 > *The old man seemed confused and disoriented.*
+
+**Phrases & Expressions:**
+- **Der alte Mann wirkte verwirrt und desorientiert** — *The old man seemed confused and disoriented* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

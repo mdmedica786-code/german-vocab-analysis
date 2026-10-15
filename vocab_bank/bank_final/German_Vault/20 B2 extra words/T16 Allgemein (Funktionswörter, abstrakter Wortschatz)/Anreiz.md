@@ -33,6 +33,11 @@ status: "new"
 > Steuervorteile sollen einen Anreiz zum Sparen schaffen.
 > *Tax benefits are meant to create an incentive to save.*
 
+**Phrases & Expressions:**
+- **einen Anreiz schaffen** — *incentive*
+- **ein finanzieller Anreiz** — *incentive*
+- **Anreiz bieten** — *incentive*
+
 **Collocations**
 - einen Anreiz schaffen
 - ein finanzieller Anreiz

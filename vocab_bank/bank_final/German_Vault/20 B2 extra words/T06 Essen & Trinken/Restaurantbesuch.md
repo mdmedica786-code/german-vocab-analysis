@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Restaurantbesuch gingen wir noch spazieren.
 > *After the visit to the restaurant we went for a walk.*
 
+**Phrases & Expressions:**
+- **ein Restaurantbesuch am Abend** — *visit to a restaurant*
+- **einen Restaurantbesuch planen** — *visit to a restaurant*
+- **nach dem Restaurantbesuch** — *visit to a restaurant*
+
 **Collocations**
 - ein Restaurantbesuch am Abend
 - einen Restaurantbesuch planen

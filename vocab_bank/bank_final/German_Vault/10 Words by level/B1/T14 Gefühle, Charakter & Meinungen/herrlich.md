@@ -30,6 +30,9 @@ status: "new"
 > Das Wetter ist herrlich.
 > *The weather is glorious.*
 
+**Phrases & Expressions:**
+- **Das Wetter ist herrlich** — *The weather is glorious* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 2 (Gute Reise!)
 <!-- bank:end -->
 

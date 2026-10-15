@@ -31,6 +31,9 @@ status: "new"
 > Die Getränke kosten extra.
 > *The drinks cost extra.*
 
+**Phrases & Expressions:**
+- **Die Getränke kosten extra** — *The drinks cost extra* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

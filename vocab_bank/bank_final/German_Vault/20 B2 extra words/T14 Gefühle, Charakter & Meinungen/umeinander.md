@@ -29,6 +29,11 @@ status: "new"
 > Die Geschwister kümmern sich umeinander.
 > *The siblings look after each other.*
 
+**Phrases & Expressions:**
+- **sich umeinander kümmern** — *about each other; around each other*
+- **sich umeinander sorgen** — *about each other; around each other*
+- **umeinander herumlaufen** — *about each other; around each other*
+
 **Collocations**
 - sich umeinander kümmern
 - sich umeinander sorgen

@@ -33,6 +33,11 @@ status: "new"
 > Der Server ist wegen Wartungsarbeiten nicht erreichbar.
 > *The server cannot be reached because of maintenance work.*
 
+**Phrases & Expressions:**
+- **der Server ist ausgefallen** — *server*
+- **ein Server steht** — *server*
+- **auf dem Server speichern** — *server*
+
 **Collocations**
 - der Server ist ausgefallen
 - ein Server steht

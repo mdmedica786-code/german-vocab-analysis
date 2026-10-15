@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Er sah mich erstaunt an.
 > *He looked at me in astonishment.*
+
+**Phrases & Expressions:**
+- **Er sah mich erstaunt an** — *He looked at me in astonishment* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

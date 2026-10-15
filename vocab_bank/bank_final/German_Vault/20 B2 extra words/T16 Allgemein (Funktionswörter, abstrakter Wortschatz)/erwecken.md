@@ -31,6 +31,11 @@ status: "new"
 > Das Bild erweckt den Eindruck von Ruhe.
 > *The picture gives an impression of calm.*
 
+**Phrases & Expressions:**
+- **einen Eindruck erwecken** — *to awaken; to evoke; to give (an impression)*
+- **Hoffnung erwecken** — *to awaken; to evoke; to give (an impression)*
+- **Interesse erwecken** — *to awaken; to evoke; to give (an impression)*
+
 **Collocations**
 - einen Eindruck erwecken
 - Hoffnung erwecken

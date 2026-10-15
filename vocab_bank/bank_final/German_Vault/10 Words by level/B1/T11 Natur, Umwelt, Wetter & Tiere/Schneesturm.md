@@ -34,6 +34,9 @@ status: "new"
 > Im Gebirge gab es gestern einen Schneesturm.
 > *There was a snowstorm in the mountains yesterday.*
 
+**Phrases & Expressions:**
+- **Im Gebirge gab es gestern einen Schneesturm** — *There was a snowstorm in the mountains yesterday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 12a (Umweltfreundlich?)
 <!-- bank:end -->
 

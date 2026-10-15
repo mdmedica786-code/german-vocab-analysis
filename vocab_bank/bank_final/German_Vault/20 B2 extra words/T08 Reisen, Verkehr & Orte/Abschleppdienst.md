@@ -33,6 +33,11 @@ status: "new"
 > Der Abschleppdienst hat unser Auto in die Werkstatt gebracht.
 > *The towing service took our car to the garage.*
 
+**Phrases & Expressions:**
+- **den Abschleppdienst rufen** — *towing service*
+- **vom Abschleppdienst abgeholt** — *towing service*
+- **der Abschleppdienst kommt** — *towing service*
+
 **Collocations**
 - den Abschleppdienst rufen
 - vom Abschleppdienst abgeholt

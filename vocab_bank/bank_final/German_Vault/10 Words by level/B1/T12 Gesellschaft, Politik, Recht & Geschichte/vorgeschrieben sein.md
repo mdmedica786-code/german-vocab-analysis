@@ -29,6 +29,10 @@ status: "new"
 > Ein Helm ist vorgeschrieben.
 > *A helmet is mandatory.*
 
+**Phrases & Expressions:**
+- **Leider ist das Gerät bei der Lieferung beschädigt gewesen.** — Unfortunately the device was damaged on delivery. *([[B2-04 Beschwerde und Reklamation|Problem schildern]] · B2)*
+- **Das muss ein Fehler gewesen sein.** — That must have been a mistake. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Vermutung mit Modalverb]] · B2)*
+
 **Source:** Netzwerk neu B1 K11 8b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

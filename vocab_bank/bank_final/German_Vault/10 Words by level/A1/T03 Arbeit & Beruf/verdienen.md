@@ -33,6 +33,9 @@ status: "new"
 > Ich verdiene 1.500 Euro im Monat.
 > *I earn 1,500 euros a month.*
 
+**Phrases & Expressions:**
+- **Ich verdiene 1.500 Euro im Monat** — *I earn 1,500 euros a month* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 2a (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

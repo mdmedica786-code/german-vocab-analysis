@@ -33,6 +33,11 @@ status: "new"
 > Im Nachhinein war die Entscheidung falsch.
 > *In hindsight the decision was wrong.*
 
+**Phrases & Expressions:**
+- **im Nachhinein** — *hindsight (only in "im Nachhinein")*
+- **im Nachhinein betrachtet** — *hindsight (only in "im Nachhinein")*
+- **im Nachhinein wissen** — *hindsight (only in "im Nachhinein")*
+
 **Collocations**
 - im Nachhinein
 - im Nachhinein betrachtet

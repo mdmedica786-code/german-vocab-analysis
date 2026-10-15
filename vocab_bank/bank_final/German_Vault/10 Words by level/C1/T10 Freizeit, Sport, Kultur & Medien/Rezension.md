@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Rezension des Buches war sehr positiv.
 > *The review of the book was very positive.*
+
+**Phrases & Expressions:**
+- **Die Rezension des Buches war sehr positiv** — *The review of the book was very positive* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

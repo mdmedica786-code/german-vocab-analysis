@@ -29,6 +29,11 @@ status: "new"
 > Kannst du das bitte nochmal sagen?
 > *Can you please say that again?*
 
+**Phrases & Expressions:**
+- **noch einmal versuchen** — *once more; again*
+- **nochmal anfangen** — *once more; again*
+- **noch einmal** — *once more; again*
+
 **Collocations**
 - noch einmal versuchen
 - nochmal anfangen

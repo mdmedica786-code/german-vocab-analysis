@@ -35,6 +35,10 @@ status: "new"
 > Ich hatte gestern einen Unfall.
 > *I had an accident yesterday.*
 
+**Phrases & Expressions:**
+- **Er soll den Unfall verursacht haben.** — He is said to have caused the accident. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Distanzierung]] · B2)*
+- **Er will den Unfall nicht gesehen haben.** — He claims not to have seen the accident. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Distanzierung]] · B2)*
+
 **Source:** Netzwerk neu A1 K8 8a (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

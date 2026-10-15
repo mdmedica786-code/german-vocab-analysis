@@ -34,6 +34,9 @@ status: "new"
 > Warum ärgerst du dich? - Ich ärgere mich, weil das Wetter schlecht ist.
 > *Why are you annoyed? – I'm annoyed because the weather is bad.*
 
+**Phrases & Expressions:**
+- **Ich ärgere mich darüber, dass ...** — It annoys me that ... *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Ärger ausdrücken]] · B1)*
+
 **Source:** Netzwerk neu A2 K4 5c (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

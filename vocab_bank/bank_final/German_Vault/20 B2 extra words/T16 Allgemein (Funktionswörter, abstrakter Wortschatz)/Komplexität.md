@@ -33,6 +33,11 @@ status: "new"
 > Die Komplexität des Problems wird oft unterschätzt.
 > *The complexity of the problem is often underestimated.*
 
+**Phrases & Expressions:**
+- **die Komplexität erhöhen** — *complexity*
+- **die Komplexität reduzieren** — *complexity*
+- **an Komplexität zunehmen** — *complexity*
+
 **Collocations**
 - die Komplexität erhöhen
 - die Komplexität reduzieren

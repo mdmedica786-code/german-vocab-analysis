@@ -30,6 +30,11 @@ status: "new"
 > Der Lesehund hört den Kindern in der Bibliothek geduldig zu.
 > *The reading dog listens patiently to the children in the library.*
 
+**Phrases & Expressions:**
+- **einen Lesehund besuchen** — *reading dog (dog that children read aloud to)*
+- **dem Lesehund vorlesen** — *reading dog (dog that children read aloud to)*
+- **ein ausgebildeter Lesehund** — *reading dog (dog that children read aloud to)*
+
 **Collocations**
 - einen Lesehund besuchen
 - dem Lesehund vorlesen

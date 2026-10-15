@@ -36,6 +36,9 @@ status: "new"
 > Fährst du mit dem Fahrrad oder mit dem Auto?
 > **
 
+**Phrases & Expressions:**
+- **Fährst du mit dem Fahrrad oder mit dem Auto** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 6a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

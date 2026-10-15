@@ -29,6 +29,11 @@ status: "new"
 > Nach geltendem Recht ist das verboten.
 > *Under current law that is forbidden.*
 
+**Phrases & Expressions:**
+- **geltendes Recht** — *valid; applicable*
+- **geltende Regeln** — *valid; applicable*
+- **etwas geltend machen** — *valid; applicable*
+
 **Collocations**
 - geltendes Recht
 - geltende Regeln

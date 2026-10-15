@@ -26,6 +26,11 @@ status: "new"
 > Darf ich Ihnen beim Essen Gesellschaft leisten?
 > *May I keep you company during the meal?*
 
+**Phrases & Expressions:**
+- **jemandem Gesellschaft leisten** — *to keep company*
+- **beim Essen Gesellschaft leisten** — *to keep company*
+- **gern Gesellschaft leisten** — *to keep company*
+
 **Collocations**
 - jemandem Gesellschaft leisten
 - beim Essen Gesellschaft leisten

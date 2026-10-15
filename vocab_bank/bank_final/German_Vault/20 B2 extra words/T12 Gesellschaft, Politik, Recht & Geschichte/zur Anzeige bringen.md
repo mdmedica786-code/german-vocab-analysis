@@ -26,6 +26,10 @@ status: "new"
 > Der Ladenbesitzer brachte den Dieb zur Anzeige.
 > *The shop owner reported the thief to the police.*
 
+**Phrases & Expressions:**
+- **jemanden zur Anzeige bringen** — *to report (to the police)*
+- **zur Anzeige kommen** — *to report (to the police)*
+
 **Collocations**
 - jemanden zur Anzeige bringen
 - zur Anzeige kommen

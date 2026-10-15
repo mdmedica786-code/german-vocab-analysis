@@ -35,6 +35,12 @@ status: "new"
 > Alle Zeitungen haben über diese Ereignisse berichtet.
 > *All the newspapers reported on these events.*
 
+**Phrases & Expressions:**
+- **ein besonderes Ereignis** — *event; incident*
+- **über Ereignisse berichten** — *event; incident*
+- **ein trauriges Ereignis** — *event; incident*
+- **das Ereignis des Jahres** — *event; incident*
+
 **Collocations**
 - ein besonderes Ereignis
 - über Ereignisse berichten

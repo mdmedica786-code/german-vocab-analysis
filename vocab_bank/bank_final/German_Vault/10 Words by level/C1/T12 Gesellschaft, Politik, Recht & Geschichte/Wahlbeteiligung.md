@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Wahlbeteiligung war niedrig.
 > *Voter turnout was low.*
+
+**Phrases & Expressions:**
+- **Die Wahlbeteiligung war niedrig** — *Voter turnout was low* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

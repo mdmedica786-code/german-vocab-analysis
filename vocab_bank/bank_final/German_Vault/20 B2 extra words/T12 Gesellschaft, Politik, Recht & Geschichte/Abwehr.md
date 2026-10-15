@@ -33,6 +33,11 @@ status: "new"
 > Die Abwehr der Mannschaft war sehr stark.
 > *The team's defence was very strong.*
 
+**Phrases & Expressions:**
+- **die Abwehr stärken** — *defence; resistance*
+- **in der Abwehr spielen** — *defence; resistance*
+- **die Abwehr von Gefahren** — *defence; resistance*
+
 **Collocations**
 - die Abwehr stärken
 - in der Abwehr spielen

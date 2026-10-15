@@ -33,6 +33,11 @@ status: "new"
 > Der Übergang von der Schule in den Beruf ist schwierig.
 > *The transition from school to work is difficult.*
 
+**Phrases & Expressions:**
+- **der Übergang zu etwas** — *transition; crossing*
+- **ein fließender Übergang** — *transition; crossing*
+- **der Grenzübergang** — *transition; crossing*
+
 **Collocations**
 - der Übergang zu etwas
 - ein fließender Übergang

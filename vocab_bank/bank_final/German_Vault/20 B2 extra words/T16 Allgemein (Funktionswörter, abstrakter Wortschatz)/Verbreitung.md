@@ -33,6 +33,11 @@ status: "new"
 > Die Verbreitung von Falschmeldungen ist ein großes Problem.
 > *The spread of false reports is a big problem.*
 
+**Phrases & Expressions:**
+- **die Verbreitung von Informationen** — *spread; distribution*
+- **weite Verbreitung finden** — *spread; distribution*
+- **zur Verbreitung beitragen** — *spread; distribution*
+
 **Collocations**
 - die Verbreitung von Informationen
 - weite Verbreitung finden

@@ -33,6 +33,11 @@ status: "new"
 > Die Rückzahlung des Kredits erfolgt in monatlichen Raten.
 > *The loan is repaid in monthly instalments.*
 
+**Phrases & Expressions:**
+- **die Rückzahlung fordern** — *repayment; refund*
+- **Rückzahlung der Schulden** — *repayment; refund*
+- **Rückzahlung in Raten** — *repayment; refund*
+
 **Collocations**
 - die Rückzahlung fordern
 - Rückzahlung der Schulden

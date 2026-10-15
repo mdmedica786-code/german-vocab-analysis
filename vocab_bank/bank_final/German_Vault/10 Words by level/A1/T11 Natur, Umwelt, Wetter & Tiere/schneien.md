@@ -33,6 +33,9 @@ status: "new"
 > Morgen schneit es.
 > *Tomorrow it will snow.*
 
+**Phrases & Expressions:**
+- **Morgen schneit es** — *Tomorrow it will snow* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 11b (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -14,12 +14,14 @@ tags: ["redemittel", "level/B2"]
 ## Sich vorstellen
 
 - **Ich freue mich, dass ich heute die Gelegenheit habe, mich vorzustellen.** ⭐ — I am pleased to have the opportunity to introduce myself today.
+  - Words: [[heute]] · [[freuen]] · [[Gelegenheit]] · [[haben]]
   - Ich freue mich, dass ich heute die Gelegenheit habe, mich Ihnen vorzustellen. *(I am pleased to have the opportunity to introduce myself to you today.)*
   - B2 · formal · speaker: Beide · to: Kollegen
   - Grammar: Gelegenheit haben + zu-Infinitiv
   - Variants: Vielen Dank für die Einladung zum Gespräch. | Schön, dass wir uns heute kennenlernen.
   - Exam: Bewerbung; Hospitation; Berufsalltag
 - **Kurz zu meiner Person: Ich habe ... studiert.** ⭐ — A few words about myself: I studied ...
+  - Words: [[Person]] · [[kurz]] · [[studieren]] · [[haben]]
   - Kurz zu meiner Person: Ich habe in Lahore Medizin studiert und möchte nun in Deutschland arbeiten. *(A few words about myself: I studied medicine in Lahore and now want to work in Germany.)*
   - B2 · neutral · speaker: Beide · to: Kollegen
   - Grammar: Doppelpunkt; Perfekt: habe ... studiert
@@ -28,6 +30,7 @@ tags: ["redemittel", "level/B2"]
 ## Stärken nennen
 
 - **Zu meinen Stärken zählt, dass ich teamfähig bin.** ⭐ — Among my strengths is that I work well in a team.
+  - Words: [[zählen]] · [[meinen]] · [[stärken]] · [[zusammenzählen]] · [[Stärke]]
   - Zu meinen Stärken zählt, dass ich teamfähig und belastbar bin. *(Among my strengths is that I work well in a team and cope well under pressure.)*
   - B2 · neutral · speaker: Beide · to: Kollegen
   - Grammar: zählen zu + Dativ; dass-Satz
@@ -36,6 +39,7 @@ tags: ["redemittel", "level/B2"]
 ## Schwächen nennen
 
 - **Eine Schwäche von mir ist, dass ich manchmal zu perfektionistisch bin.** — One weakness of mine is that I am sometimes too perfectionist.
+  - Words: [[manchmal]] · [[Schwäche]] · [[schwächen]]
   - Eine Schwäche von mir ist, dass ich manchmal zu perfektionistisch bin, aber ich arbeite daran. *(One weakness of mine is that I am sometimes too perfectionist, but I am working on it.)*
   - B2 · neutral · speaker: Beide · to: Kollegen
   - Grammar: dass-Satz: Verb am Ende
@@ -44,6 +48,7 @@ tags: ["redemittel", "level/B2"]
 ## Berufserfahrung beschreiben
 
 - **Ich habe bereits Erfahrung in der Notaufnahme gesammelt.** ⭐ — I have already gained experience in the emergency department.
+  - Words: [[sammeln]] · [[bereits]] · [[Erfahrung]] · [[Notaufnahme]] · [[haben]]
   - Ich habe bereits Erfahrung in der Notaufnahme gesammelt und Patienten betreut. *(I have already gained experience in the emergency department and looked after patients.)*
   - B2 · neutral · speaker: Beide · to: Kollegen
   - Grammar: Erfahrung sammeln; Perfekt
@@ -52,6 +57,7 @@ tags: ["redemittel", "level/B2"]
 ## Ausbildung beschreiben
 
 - **Ich habe meine Ausbildung im Jahr ... abgeschlossen.** ⭐ — I completed my training in ...
+  - Words: [[Jahr]] · [[abgeschlossen]] · [[meinen]] · [[haben]] · [[Ausbildung]] · [[abschließen]]
   - Ich habe meine Ausbildung im Jahr 2026 abgeschlossen und suche nun eine Stelle. *(I completed my training in 2026 and am now looking for a job.)*
   - B2 · neutral · speaker: Beide · to: Kollegen
   - Grammar: Perfekt: abschließen
@@ -60,6 +66,7 @@ tags: ["redemittel", "level/B2"]
 ## Gehalt ansprechen
 
 - **Wie sieht die Vergütung aus?** ⭐ — What does the remuneration look like?
+  - Words: [[ansehen]] · [[aussehen]] · [[fernsehen (verb)]] · [[umsehen]] · [[nachsehen]] · [[hinsehen]] · [[zusehen]] · [[wiedersehen (verb)]]
   - Darf ich fragen, wie die Vergütung aussieht und ob es einen Tarifvertrag gibt? *(May I ask what the remuneration looks like and whether there is a collective agreement?)*
   - B2 · formal · speaker: Beide · to: Kollegen
   - Grammar: aussehen: Präsens; Frage mit Fragewort
@@ -68,6 +75,7 @@ tags: ["redemittel", "level/B2"]
 ## Arbeitszeit ansprechen
 
 - **Wie sind die Arbeitszeiten geregelt?** ⭐ — How are the working hours arranged?
+  - Words: [[Arbeitszeit]] · [[regeln]] · [[geregelt]]
   - Wie sind die Arbeitszeiten geregelt, und gibt es Bereitschaftsdienste? *(How are the working hours arranged, and are there on-call duties?)*
   - B2 · formal · speaker: Beide · to: Kollegen
   - Grammar: Passiv Zustand: sind ... geregelt
@@ -76,12 +84,14 @@ tags: ["redemittel", "level/B2"]
 ## Fragen an Arbeitgeber
 
 - **Welche Aufgaben würden auf mich zukommen?** ⭐ — What tasks would I be facing?
+  - Words: [[welche]] · [[Aufgabe]] · [[zukommen]]
   - Welche Aufgaben würden in den ersten Monaten auf mich zukommen? *(What tasks would I be facing in the first months?)*
   - B2 · neutral · speaker: Beide · to: Kollegen
   - Grammar: zukommen auf + Akkusativ; Konjunktiv II
   - Variants: Wie sieht der Arbeitsalltag aus? | Wofür wäre ich zuständig?
   - Exam: Bewerbung; Hospitation; Berufsalltag
 - **Gibt es Möglichkeiten zur Weiterbildung?** — Are there opportunities for further training?
+  - Words: [[geben]] · [[Möglichkeit]] · [[eingeben]] · [[wiedergeben]] · [[abgeben]] · [[angeben]] · [[ausgeben]] · [[weitergeben]]
   - Gibt es Möglichkeiten zur Weiterbildung, zum Beispiel für die Facharztausbildung? *(Are there opportunities for further training, for example for specialist training?)*
   - B2 · neutral · speaker: Beide · to: Kollegen
   - Grammar: Möglichkeit zu + Dativ
@@ -90,6 +100,7 @@ tags: ["redemittel", "level/B2"]
 ## Kollegen begrüßen
 
 - **Guten Morgen zusammen! Ich bin die Neue im Team.** ⭐ — Good morning everyone! I'm the new person on the team.
+  - Words: [[gut (adjective)]] · [[zusammengehören]] · [[morgen (adverb)]] · [[neu]] · [[zusammenpassen]] · [[zusammen]] · [[Morgen]] · [[Team]]
   - Guten Morgen zusammen! Ich bin die Neue im Team und freue mich auf die Zusammenarbeit. *(Good morning everyone! I'm the new member of the team and look forward to working together.)*
   - B2 · informal · speaker: Beide · to: Kollegen
   - Grammar: die Neue = weiblich, informell
@@ -98,6 +109,7 @@ tags: ["redemittel", "level/B2"]
 ## Um Hilfe bitten
 
 - **Könntest du mir kurz helfen?** ⭐ — Could you help me for a moment?
+  - Words: [[kurz]] · [[helfen]]
   - Könntest du mir kurz helfen? Ich weiß nicht, wie das System funktioniert. *(Could you help me for a moment? I don't know how the system works.)*
   - B2 · informal · speaker: Beide · to: Kollegen
   - Grammar: Konjunktiv II: höfliche Bitte
@@ -106,12 +118,14 @@ tags: ["redemittel", "level/B2"]
 ## Rückfrage stellen
 
 - **Habe ich das richtig verstanden, dass ...?** ⭐ — Have I understood correctly that ...?
+  - Words: [[verstehen]] · [[richtig]] · [[haben]]
   - Habe ich das richtig verstanden, dass die Visite um acht Uhr beginnt? *(Have I understood correctly that the ward round starts at eight?)*
   - B2 · neutral · speaker: Beide · to: Kollegen
   - Grammar: dass-Satz: Verb am Ende
   - Variants: Meinen Sie damit, dass ...? | Kann ich das so verstehen, dass ...?
   - Exam: Bewerbung; Hospitation; Berufsalltag
 - **Könnten Sie das bitte noch einmal erklären?** ⭐ — Could you please explain that once more?
+  - Words: [[bitte (interjection)]] · [[bitten]] · [[erklären]] · [[Bitte]] · [[einmal]] · [[können]]
   - Könnten Sie das bitte noch einmal erklären? Ich möchte sichergehen, dass ich es richtig mache. *(Could you please explain that once more? I want to be sure I'm doing it right.)*
   - B2 · formal · speaker: Beide · to: Kollegen
   - Grammar: Konjunktiv II der Höflichkeit
@@ -120,6 +134,7 @@ tags: ["redemittel", "level/B2"]
 ## Besprechung eröffnen
 
 - **Wir sind heute zusammengekommen, um ... zu besprechen.** ⭐ — We have come together today to discuss ...
+  - Words: [[heute]] · [[besprechen]]
   - Wir sind heute zusammengekommen, um den neuen Dienstplan zu besprechen. *(We have come together today to discuss the new duty roster.)*
   - B2 · formal · speaker: Beide · to: Kollegen
   - Grammar: um ... zu + Infinitiv
@@ -128,6 +143,7 @@ tags: ["redemittel", "level/B2"]
 ## Besprechung leiten
 
 - **Gibt es dazu noch Anmerkungen oder Fragen?** ⭐ — Are there any further comments or questions on this?
+  - Words: [[dazu]] · [[fragen]] · [[Frage]] · [[geben]] · [[eingeben]] · [[dazugehören]] · [[wiedergeben]] · [[abgeben]]
   - Gibt es dazu noch Anmerkungen oder Fragen, bevor wir weitermachen? *(Are there any further comments or questions on this before we continue?)*
   - B2 · neutral · speaker: Beide · to: Kollegen
   - Grammar: Frage ohne Fragewort: Verb an Position 1
@@ -136,6 +152,7 @@ tags: ["redemittel", "level/B2"]
 ## Besprechung: Beitrag leisten
 
 - **Dazu möchte ich einen Vorschlag machen.** — I would like to make a suggestion about this.
+  - Words: [[machen]] · [[dazu]] · [[möchten]] · [[dazugehören]] · [[Vorschlag]] · [[dazukommen]] · [[dazulernen]] · [[dazuschreiben]]
   - Dazu möchte ich einen Vorschlag machen: Wir könnten die Übergabe früher beginnen. *(I would like to make a suggestion about this: we could start the handover earlier.)*
   - B2 · neutral · speaker: Beide · to: Kollegen
   - Grammar: einen Vorschlag machen; Konjunktiv II im Beispiel
@@ -144,6 +161,7 @@ tags: ["redemittel", "level/B2"]
 ## Vorgesetzten gegenüber höflich bleiben
 
 - **Wenn Sie erlauben, würde ich gern ...** — If you allow me, I would like to ...
+  - Words: [[gern]] · [[erlauben]] · [[Würde]]
   - Wenn Sie erlauben, würde ich gern an der morgigen Besprechung teilnehmen. *(If you allow me, I would like to take part in tomorrow's meeting.)*
   - B2 · formal · speaker: Beide · to: Kollegen
   - Grammar: Konjunktiv II: würde gern + Infinitiv
@@ -152,6 +170,7 @@ tags: ["redemittel", "level/B2"]
 ## Feedback annehmen
 
 - **Danke für das Feedback, das nehme ich mir zu Herzen.** — Thank you for the feedback; I'll take that to heart.
+  - Words: [[danke]] · [[Herz]] · [[nehmen]] · [[danken]] · [[Feedback]]
   - Danke für das Feedback, das nehme ich mir zu Herzen und werde es beim nächsten Mal besser machen. *(Thank you for the feedback; I'll take that to heart and do better next time.)*
   - B2 · neutral · speaker: Beide · to: Kollegen
   - Grammar: sich (Dativ) zu Herzen nehmen
@@ -160,6 +179,7 @@ tags: ["redemittel", "level/B2"]
 ## Abschließend bedanken
 
 - **Vielen Dank für das informative Gespräch.** — Thank you for the informative conversation.
+  - Words: [[Gespräch]] · [[Dank]] · [[dank (preposition)]]
   - Vielen Dank für das informative Gespräch und die Zeit, die Sie sich genommen haben. *(Thank you for the informative conversation and the time you have taken.)*
   - B2 · formal · speaker: Beide · to: Kollegen
   - Grammar: danken für + Akkusativ
@@ -168,6 +188,7 @@ tags: ["redemittel", "level/B2"]
 ## Hospitation vereinbaren
 
 - **Dürfte ich ein, zwei Tage bei Ihnen hospitieren?** — Might I observe with you for a day or two?
+  - Words: [[zwei]] · [[Tag]] · [[dürfen]]
   - Dürfte ich ein, zwei Tage bei Ihnen auf der Station hospitieren? *(Might I shadow you on the ward for a day or two?)*
   - B2 · formal · speaker: Beide · to: Kollegen
   - Grammar: Konjunktiv II von dürfen

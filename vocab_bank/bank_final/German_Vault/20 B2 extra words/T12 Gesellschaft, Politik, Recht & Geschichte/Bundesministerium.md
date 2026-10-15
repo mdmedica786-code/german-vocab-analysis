@@ -33,6 +33,11 @@ status: "new"
 > Das Bundesministerium hat neue Regeln veröffentlicht.
 > *The federal ministry has published new rules.*
 
+**Phrases & Expressions:**
+- **das Bundesministerium für Gesundheit** — *federal ministry*
+- **ein Bundesministerium leiten** — *federal ministry*
+- **im Bundesministerium arbeiten** — *federal ministry*
+
 **Collocations**
 - das Bundesministerium für Gesundheit
 - ein Bundesministerium leiten

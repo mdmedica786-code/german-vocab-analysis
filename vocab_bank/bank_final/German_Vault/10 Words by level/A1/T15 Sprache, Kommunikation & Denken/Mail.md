@@ -35,6 +35,10 @@ status: "new"
 > Ich schicke dir die Infos per Mail.
 > *I'll send you the information by email.*
 
+**Phrases & Expressions:**
+- **Vielen Dank für deine E-Mail, ich habe mich sehr gefreut.** — Thank you very much for your email, I was very happy. *([[B1-12 Persönliche E-Mail und Brief|Einstieg]] · B1)*
+- **Bezugnehmend auf Ihre E-Mail vom ... teile ich Ihnen mit, dass ...** — With reference to your email of ... I inform you that ... *([[B1-13 Formelle E-Mail und Brief|Bezug nehmen]] · B1)*
+
 **Source:** Netzwerk neu A1 K6 8 (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

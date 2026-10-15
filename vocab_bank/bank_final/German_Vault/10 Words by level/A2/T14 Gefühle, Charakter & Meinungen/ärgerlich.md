@@ -31,6 +31,9 @@ status: "new"
 > Das ist wirklich ärgerlich.
 > *That is really annoying.*
 
+**Phrases & Expressions:**
+- **Das ist wirklich ärgerlich** — *That is really annoying* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 9a (Große und kleine Gefühle) · Goethe word list B1
 <!-- bank:end -->
 

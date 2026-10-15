@@ -34,6 +34,11 @@ status: "new"
 > Wer hat das Geld aus der Kasse genommen? – Ich weiß es nicht, aber ich habe einen Verdacht.
 > *Who took the money from the till? – I don't know, but I have a suspicion.*
 
+**Phrases & Expressions:**
+- **Klinisch besteht der Verdacht auf eine Pneumonie.** — Clinically there is a suspicion of pneumonia. *([[FSP-08 Befunde beschreiben und berichten|Befund im Arzt-Arzt-Gespräch]] · B2)*
+- **Ich habe den Verdacht, dass ...** — I suspect that ... *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Verdacht äußern]] · B2)*
+- **Wir haben den Verdacht auf eine ambulant erworbene Pneumonie.** — We suspect community-acquired pneumonia. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Verdachtsdiagnose nennen]] · C1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

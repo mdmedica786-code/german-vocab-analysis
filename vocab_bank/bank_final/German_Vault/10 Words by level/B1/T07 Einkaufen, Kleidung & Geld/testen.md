@@ -33,6 +33,9 @@ status: "new"
 > Testen Sie unsere Angebote kostenlos.
 > *Test our offers for free.*
 
+**Phrases & Expressions:**
+- **Ich teste jetzt Ihre Reflexe am Knie.** — I will now test your reflexes at the knee. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Reflexe prüfen]] · B2)*
+
 **Source:** Netzwerk neu B1 K2 5c (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

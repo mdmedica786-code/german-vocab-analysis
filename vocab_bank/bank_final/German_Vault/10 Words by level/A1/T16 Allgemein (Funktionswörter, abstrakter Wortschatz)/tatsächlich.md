@@ -31,6 +31,12 @@ status: "new"
 > Die Hose ist tatsächlich zu klein, obwohl sie so groß aussieht.
 > *The trousers really are too small, although they look so big.*
 
+**Phrases & Expressions:**
+- **tatsächlich passieren** — *actually*
+- **tatsächlich stimmen** — *actually*
+- **die tatsächliche Zahl** — *actually*
+- **tatsächlich nicht** — *actually*
+
 **Collocations**
 - tatsächlich passieren
 - tatsächlich stimmen

@@ -33,6 +33,11 @@ status: "new"
 > Der Stausee liefert Trinkwasser für die Stadt.
 > *The reservoir supplies drinking water for the city.*
 
+**Phrases & Expressions:**
+- **am Stausee** — *reservoir*
+- **ein künstlicher Stausee** — *reservoir*
+- **der Stausee ist voll** — *reservoir*
+
 **Collocations**
 - am Stausee
 - ein künstlicher Stausee

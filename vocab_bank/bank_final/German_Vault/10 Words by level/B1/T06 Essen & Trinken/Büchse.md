@@ -34,6 +34,9 @@ status: "new"
 > Ich habe noch eine Büchse Bohnen.
 > *I still have a tin of beans.*
 
+**Phrases & Expressions:**
+- **Ich habe noch eine Büchse Bohnen** — *I still have a tin of beans* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

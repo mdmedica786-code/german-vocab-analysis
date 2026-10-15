@@ -33,6 +33,11 @@ status: "new"
 > Der Kern des Problems ist die Finanzierung.
 > *The core of the problem is the financing.*
 
+**Phrases & Expressions:**
+- **der Kern der Sache** — *core; kernel; nucleus*
+- **ein harter Kern** — *core; kernel; nucleus*
+- **der Kern des Problems** — *core; kernel; nucleus*
+
 **Collocations**
 - der Kern der Sache
 - ein harter Kern

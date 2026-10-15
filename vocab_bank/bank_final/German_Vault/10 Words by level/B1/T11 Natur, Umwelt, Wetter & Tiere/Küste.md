@@ -35,6 +35,9 @@ status: "new"
 > Unser Dorf liegt direkt an der Küste.
 > *Our village is right on the coast.*
 
+**Phrases & Expressions:**
+- **Unser Dorf liegt direkt an der Küste** — *Our village is right on the coast* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 2 (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

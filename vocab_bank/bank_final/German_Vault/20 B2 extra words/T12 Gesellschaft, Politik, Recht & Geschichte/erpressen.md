@@ -31,6 +31,11 @@ status: "new"
 > Die Täter haben ihn erpresst.
 > *The perpetrators blackmailed him.*
 
+**Phrases & Expressions:**
+- **jemanden erpressen** — *to blackmail; to extort*
+- **Lösegeld erpressen** — *to blackmail; to extort*
+- **erpresst werden** — *to blackmail; to extort*
+
 **Collocations**
 - jemanden erpressen
 - Lösegeld erpressen

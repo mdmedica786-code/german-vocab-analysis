@@ -31,6 +31,10 @@ status: "new"
 > Er untermauert seine Meinung mit Zahlen.
 > *He backs up his opinion with figures.*
 
+**Phrases & Expressions:**
+- **eine These untermauern** — *to back up; to substantiate*
+- **mit Fakten untermauern** — *to back up; to substantiate*
+
 **Collocations**
 - eine These untermauern
 - mit Fakten untermauern

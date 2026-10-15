@@ -31,6 +31,9 @@ status: "new"
 > Hast du Klebefilm für mich?
 > *Do you have sticky tape for me?*
 
+**Phrases & Expressions:**
+- **Hast du Klebefilm für mich** — *Do you have sticky tape for me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 10a (Das ist ja praktisch!)
 <!-- bank:end -->
 

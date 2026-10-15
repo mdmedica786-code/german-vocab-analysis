@@ -30,6 +30,11 @@ status: "new"
 > Im Theaterstudio treten junge Schauspieler auf.
 > *Young actors perform in the theatre studio.*
 
+**Phrases & Expressions:**
+- **im Theaterstudio** — *theatre studio*
+- **ein Theaterstudio besuchen** — *theatre studio*
+- **ein kleines Theaterstudio** — *theatre studio*
+
 **Collocations**
 - im Theaterstudio
 - ein Theaterstudio besuchen

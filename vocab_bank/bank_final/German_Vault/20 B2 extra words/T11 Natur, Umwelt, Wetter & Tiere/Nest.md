@@ -33,6 +33,11 @@ status: "new"
 > Die Vögel bauen ein Nest im Baum.
 > *The birds are building a nest in the tree.*
 
+**Phrases & Expressions:**
+- **ein Nest bauen** — *nest*
+- **aus dem Nest fallen** — *nest*
+- **ein Nest verlassen** — *nest*
+
 **Collocations**
 - ein Nest bauen
 - aus dem Nest fallen

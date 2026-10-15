@@ -29,6 +29,11 @@ status: "new"
 > Die Arbeitszeiten in der Firma sind variabel.
 > *The working hours in the company are flexible.*
 
+**Phrases & Expressions:**
+- **variable Kosten** — *variable; flexible*
+- **variabel einsetzbar** — *variable; flexible*
+- **eine variable Größe** — *variable; flexible*
+
 **Collocations**
 - variable Kosten
 - variabel einsetzbar

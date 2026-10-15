@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Hierauf folgte eine lange Pause.
 > *A long pause followed.*
+
+**Phrases & Expressions:**
+- **Hierauf folgte eine lange Pause** — *A long pause followed* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

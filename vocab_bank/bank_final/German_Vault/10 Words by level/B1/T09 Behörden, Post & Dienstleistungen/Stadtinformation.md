@@ -31,6 +31,9 @@ status: "new"
 > Die Stadtinformation gibt Stadtpläne aus.
 > *The city information office hands out city maps.*
 
+**Phrases & Expressions:**
+- **Die Stadtinformation gibt Stadtpläne aus** — *The city information office hands out city maps* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7a (Miteinander)
 <!-- bank:end -->
 

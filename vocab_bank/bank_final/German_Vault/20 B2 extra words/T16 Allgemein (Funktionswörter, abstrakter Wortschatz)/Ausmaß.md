@@ -33,6 +33,11 @@ status: "new"
 > Das Ausmaß der Schäden war erst am nächsten Tag klar.
 > *The extent of the damage was only clear the next day.*
 
+**Phrases & Expressions:**
+- **das Ausmaß der Schäden** — *extent; scale*
+- **erschreckende Ausmaße annehmen** — *extent; scale*
+- **in vollem Ausmaß** — *extent; scale*
+
 **Collocations**
 - das Ausmaß der Schäden
 - erschreckende Ausmaße annehmen

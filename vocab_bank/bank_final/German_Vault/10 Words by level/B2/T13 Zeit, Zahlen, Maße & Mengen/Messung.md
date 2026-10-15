@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Messung des Blutdrucks dauert eine Minute.
 > *Measuring blood pressure takes a minute.*
+
+**Phrases & Expressions:**
+- **Die Messung des Blutdrucks dauert eine Minute** — *Measuring blood pressure takes a minute* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

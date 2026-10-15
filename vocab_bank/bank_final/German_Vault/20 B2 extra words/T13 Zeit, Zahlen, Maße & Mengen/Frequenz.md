@@ -33,6 +33,11 @@ status: "new"
 > Das Radio sendet auf einer anderen Frequenz.
 > *The radio broadcasts on a different frequency.*
 
+**Phrases & Expressions:**
+- **die Frequenz einstellen** — *frequency*
+- **eine hohe Frequenz** — *frequency*
+- **in hoher Frequenz** — *frequency*
+
 **Collocations**
 - die Frequenz einstellen
 - eine hohe Frequenz

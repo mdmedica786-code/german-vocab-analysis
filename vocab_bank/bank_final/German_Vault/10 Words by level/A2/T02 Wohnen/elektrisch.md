@@ -31,6 +31,9 @@ status: "new"
 > Wir kochen nicht mit Gas, sondern elektrisch.
 > *We don't cook with gas but electrically.*
 
+**Phrases & Expressions:**
+- **Wir kochen nicht mit Gas, sondern elektrisch** — *We don't cook with gas but electrically* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

@@ -30,6 +30,10 @@ status: "new"
 > Diesseits der Grenze gelten andere Regeln.
 > *On this side of the border different rules apply.*
 
+**Phrases & Expressions:**
+- **diesseits des Flusses** — *on this side of*
+- **diesseits und jenseits** — *on this side of*
+
 **Collocations**
 - diesseits des Flusses
 - diesseits und jenseits

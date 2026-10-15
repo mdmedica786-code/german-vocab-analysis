@@ -33,6 +33,11 @@ status: "new"
 > In der Urlaubszeit sind die Straßen oft voll.
 > *In the holiday season the roads are often full.*
 
+**Phrases & Expressions:**
+- **in der Urlaubszeit** — *holiday period; holiday season*
+- **die Urlaubszeit planen** — *holiday period; holiday season*
+- **die Urlaubszeit beginnt** — *holiday period; holiday season*
+
 **Collocations**
 - in der Urlaubszeit
 - die Urlaubszeit planen

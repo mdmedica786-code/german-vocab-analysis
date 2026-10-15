@@ -33,6 +33,11 @@ status: "new"
 > Regelmäßiges Training verbessert die Beweglichkeit.
 > *Regular training improves mobility.*
 
+**Phrases & Expressions:**
+- **die Beweglichkeit verbessern** — *mobility; flexibility*
+- **eingeschränkte Beweglichkeit** — *mobility; flexibility*
+- **geistige Beweglichkeit** — *mobility; flexibility*
+
 **Collocations**
 - die Beweglichkeit verbessern
 - eingeschränkte Beweglichkeit

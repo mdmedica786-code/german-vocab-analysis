@@ -31,6 +31,12 @@ status: "new"
 > Die Tür zum Aussteigen ist hinten.
 > *The door for getting off is at the back.*
 
+**Phrases & Expressions:**
+- **nach hinten** — backwards; to the back *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **von hinten** — from behind *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **hinten sitzen** — *behind*
+- **ganz hinten** — *behind*
+
 **Collocations**
 - hinten sitzen
 - nach hinten

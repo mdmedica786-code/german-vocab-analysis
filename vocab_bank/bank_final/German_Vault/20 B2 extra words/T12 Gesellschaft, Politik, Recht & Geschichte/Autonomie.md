@@ -33,6 +33,11 @@ status: "new"
 > Die Region fordert mehr Autonomie.
 > *The region demands more autonomy.*
 
+**Phrases & Expressions:**
+- **volle Autonomie** — *autonomy*
+- **die Autonomie bewahren** — *autonomy*
+- **persönliche Autonomie** — *autonomy*
+
 **Collocations**
 - volle Autonomie
 - die Autonomie bewahren

@@ -35,6 +35,14 @@ status: "new"
 > Nehmen Sie sich mit dem Handy auf.
 > *Record yourself with the mobile phone.*
 
+**Phrases & Expressions:**
+- **... nimmt kontinuierlich zu.** — ... is steadily increasing. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Anstieg beschreiben]] · B2)*
+- **Der Patient wurde mit ... aufgenommen.** — The patient was admitted with ... *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Aufnahmegrund nennen]] · B2)*
+- **ein Gespräch aufnehmen** — *to record*
+- **Kontakt aufnehmen** — *to record*
+- **einen Patienten aufnehmen** — *to record*
+- **ein Lied aufnehmen** — *to record*
+
 **Collocations**
 - ein Gespräch aufnehmen
 - Kontakt aufnehmen

@@ -29,6 +29,11 @@ status: "new"
 > Sie spricht sowohl Deutsch als auch Englisch.
 > *She speaks both German and English.*
 
+**Phrases & Expressions:**
+- **sowohl ... als auch ...** — both ... and ...; as well as *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B1)*
+- **Sowohl ... als auch ... ist wichtig.** — Both ... and ... are important. *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Aufzählung]] · B1)*
+- **sowohl im Beruf als auch privat** — *both ... and (sowohl ... als auch)*
+
 **Collocations**
 - sowohl ... als auch ...
 - sowohl im Beruf als auch privat

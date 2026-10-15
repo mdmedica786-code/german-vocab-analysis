@@ -35,6 +35,12 @@ status: "new"
 > Die Wunde müssen wir sofort verbinden.
 > *We have to bandage the wound immediately.*
 
+**Phrases & Expressions:**
+- **eine Wunde versorgen** — *wound*
+- **eine offene Wunde** — *wound*
+- **die Wunde reinigen** — *wound*
+- **die Wunde nähen** — *wound*
+
 **Collocations**
 - eine Wunde versorgen
 - eine offene Wunde

@@ -31,6 +31,9 @@ status: "new"
 > Beim Almurlaub schlafen wir in einer Hütte.
 > *On an alpine holiday we sleep in a hut.*
 
+**Phrases & Expressions:**
+- **Beim Almurlaub schlafen wir in einer Hütte** — *On an alpine holiday we sleep in a hut* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!)
 <!-- bank:end -->
 

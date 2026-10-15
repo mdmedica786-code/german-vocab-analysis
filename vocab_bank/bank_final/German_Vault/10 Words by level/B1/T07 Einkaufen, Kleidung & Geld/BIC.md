@@ -31,6 +31,9 @@ status: "new"
 > Für die Überweisung brauche ich die BIC.
 > *For the transfer I need the BIC.*
 
+**Phrases & Expressions:**
+- **Für die Überweisung brauche ich die BIC** — *For the transfer I need the BIC* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3b ÜB (Geld regiert die Welt?)
 <!-- bank:end -->
 

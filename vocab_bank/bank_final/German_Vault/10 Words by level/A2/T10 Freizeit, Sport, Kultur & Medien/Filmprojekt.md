@@ -34,6 +34,9 @@ status: "new"
 > Wir planen ein Filmprojekt in der Schule.
 > *We are planning a film project at school.*
 
+**Phrases & Expressions:**
+- **Wir planen ein Filmprojekt in der Schule** — *We are planning a film project at school* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 7a (Gelernt ist gelernt!)
 <!-- bank:end -->
 

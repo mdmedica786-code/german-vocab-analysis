@@ -33,6 +33,11 @@ status: "new"
 > Die Begrenzung der Teilnehmerzahl ist nötig.
 > *The limitation of the number of participants is necessary.*
 
+**Phrases & Expressions:**
+- **Begrenzung der Kosten** — *limitation; restriction*
+- **zeitliche Begrenzung** — *limitation; restriction*
+- **eine Begrenzung festlegen** — *limitation; restriction*
+
 **Collocations**
 - Begrenzung der Kosten
 - zeitliche Begrenzung

@@ -35,6 +35,9 @@ status: "new"
 > Schreibst du mir eine Postkarte aus Kanada?
 > *Will you write me a postcard from Canada?*
 
+**Phrases & Expressions:**
+- **Schreibst du mir eine Postkarte aus Kanada** — *Will you write me a postcard from Canada* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 5a (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

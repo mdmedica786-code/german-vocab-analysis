@@ -33,6 +33,11 @@ status: "new"
 > Die Gründung des Vereins war im Jahr 1990.
 > *The club was founded in 1990.*
 
+**Phrases & Expressions:**
+- **die Gründung einer Firma** — *founding; foundation*
+- **seit der Gründung** — *founding; foundation*
+- **Gründung eines Vereins** — *founding; foundation*
+
 **Collocations**
 - die Gründung einer Firma
 - seit der Gründung

@@ -31,6 +31,9 @@ status: "new"
 > Wir haben eine Putzfirma für das Treppenhaus.
 > *We have a cleaning company for the staircase.*
 
+**Phrases & Expressions:**
+- **Wir haben eine Putzfirma für das Treppenhaus** — *We have a cleaning company for the staircase* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 4b (Kunststücke)
 <!-- bank:end -->
 

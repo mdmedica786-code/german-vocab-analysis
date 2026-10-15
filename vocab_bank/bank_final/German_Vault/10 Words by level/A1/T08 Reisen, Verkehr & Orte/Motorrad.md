@@ -35,6 +35,9 @@ status: "new"
 > Oskar fährt jeden Tag mit dem Motorrad zur Arbeit.
 > *Oskar rides his motorcycle to work every day.*
 
+**Phrases & Expressions:**
+- **Oskar fährt jeden Tag mit dem Motorrad zur Arbeit** — *Oskar rides his motorcycle to work every day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10a (Alltag und Familie) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Es ist zweifelhaft, ob das Projekt rechtzeitig fertig wird.
 > *It is doubtful whether the project will be finished on time.*
 
+**Phrases & Expressions:**
+- **eine zweifelhafte Angelegenheit** — *doubtful; dubious*
+- **es ist zweifelhaft, ob** — *doubtful; dubious*
+- **von zweifelhaftem Ruf** — *doubtful; dubious*
+
 **Collocations**
 - eine zweifelhafte Angelegenheit
 - es ist zweifelhaft, ob

@@ -32,6 +32,11 @@ status: "new"
 > Die Stadt will neue Firmen ansiedeln.
 > *The city wants to attract new companies.*
 
+**Phrases & Expressions:**
+- **sich ansiedeln** — *to settle; to attract (businesses)*
+- **Betriebe ansiedeln** — *to settle; to attract (businesses)*
+- **Industrie ansiedeln** — *to settle; to attract (businesses)*
+
 **Collocations**
 - sich ansiedeln
 - Betriebe ansiedeln

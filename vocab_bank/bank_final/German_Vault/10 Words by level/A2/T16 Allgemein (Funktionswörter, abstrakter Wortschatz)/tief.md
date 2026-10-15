@@ -31,6 +31,13 @@ status: "new"
 > Vorsicht, das Wasser ist tief!
 > *Careful, the water is deep!*
 
+**Phrases & Expressions:**
+- **Atmen Sie bitte tief ein und aus.** — Please breathe in and out deeply. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Atemanweisung]] · A2)*
+- **tief atmen** — *deep*
+- **ein tiefer See** — *deep*
+- **tief schlafen** — *deep*
+- **tief in Gedanken** — *deep*
+
 **Collocations**
 - tief atmen
 - ein tiefer See

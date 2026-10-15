@@ -33,6 +33,11 @@ status: "new"
 > In anderen Ländern gelten andere Sitten.
 > *In other countries other customs apply.*
 
+**Phrases & Expressions:**
+- **Sitten und Bräuche** — *custom; habit*
+- **gegen die guten Sitten** — *custom; habit*
+- **andere Länder, andere Sitten** — *custom; habit*
+
 **Collocations**
 - Sitten und Bräuche
 - gegen die guten Sitten

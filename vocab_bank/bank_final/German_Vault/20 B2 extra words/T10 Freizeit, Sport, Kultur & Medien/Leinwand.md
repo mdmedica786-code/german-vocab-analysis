@@ -33,6 +33,11 @@ status: "new"
 > Der Film läuft auf der großen Leinwand.
 > *The film is shown on the big screen.*
 
+**Phrases & Expressions:**
+- **auf der Leinwand** — *screen (cinema); canvas*
+- **eine große Leinwand** — *screen (cinema); canvas*
+- **ein Bild auf Leinwand** — *screen (cinema); canvas*
+
 **Collocations**
 - auf der Leinwand
 - eine große Leinwand

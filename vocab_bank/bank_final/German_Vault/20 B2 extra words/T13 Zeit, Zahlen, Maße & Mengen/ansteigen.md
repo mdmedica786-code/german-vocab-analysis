@@ -32,6 +32,10 @@ status: "new"
 > Die Temperaturen steigen im Laufe der Woche an.
 > *Temperatures rise during the week.*
 
+**Phrases & Expressions:**
+- **deutlich ansteigen** — *to rise; to go up*
+- **steil ansteigen** — *to rise; to go up*
+
 **Collocations**
 - deutlich ansteigen
 - steil ansteigen

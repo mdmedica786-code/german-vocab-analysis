@@ -32,6 +32,12 @@ status: "new"
 > Heute ist es sehr kalt.
 > *It is very cold today.*
 
+**Phrases & Expressions:**
+- **kaltes Wasser** — *cold*
+- **ein kalter Winter** — *cold*
+- **kalt duschen** — *cold*
+- **mir ist kalt** — *cold*
+
 **Collocations**
 - kaltes Wasser
 - ein kalter Winter

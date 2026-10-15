@@ -30,6 +30,12 @@ status: "new"
 > Die Straße ist teilweise gesperrt.
 > *The road is partly closed.*
 
+**Phrases & Expressions:**
+- **teilweise gesperrt** — *partly*
+- **teilweise richtig** — *partly*
+- **nur teilweise** — *partly*
+- **teilweise erhalten** — *partly*
+
 **Collocations**
 - teilweise gesperrt
 - teilweise richtig

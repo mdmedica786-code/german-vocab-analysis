@@ -33,6 +33,11 @@ status: "new"
 > Die Wohnung hat einen schnellen Internetanschluss.
 > *The flat has a fast internet connection.*
 
+**Phrases & Expressions:**
+- **einen Internetanschluss beantragen** — *internet connection*
+- **ohne Internetanschluss** — *internet connection*
+- **schneller Internetanschluss** — *internet connection*
+
 **Collocations**
 - einen Internetanschluss beantragen
 - ohne Internetanschluss

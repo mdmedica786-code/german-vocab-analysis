@@ -35,6 +35,9 @@ status: "new"
 > Der Sozialarbeiter berät die Familie.
 > *The social worker advises the family.*
 
+**Phrases & Expressions:**
+- **Der Sozialarbeiter berät die Familie** — *The social worker advises the family* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6d (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

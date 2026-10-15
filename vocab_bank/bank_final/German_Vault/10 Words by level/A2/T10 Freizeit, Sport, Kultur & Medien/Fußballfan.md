@@ -34,6 +34,9 @@ status: "new"
 > Mein Bruder ist ein großer Fußballfan.
 > *My brother is a big football fan.*
 
+**Phrases & Expressions:**
+- **Mein Bruder ist ein großer Fußballfan** — *My brother is a big football fan* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 3b (Sportlich, sportlich)
 <!-- bank:end -->
 

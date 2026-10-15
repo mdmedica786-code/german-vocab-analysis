@@ -34,6 +34,9 @@ status: "new"
 > Werden Sie schon bedient?
 > *Are you being served yet?*
 
+**Phrases & Expressions:**
+- **Werden Sie schon bedient** — *Are you being served yet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

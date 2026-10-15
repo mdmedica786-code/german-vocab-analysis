@@ -34,6 +34,9 @@ status: "new"
 > Bioprodukte sind oft teurer.
 > *Organic products are often more expensive.*
 
+**Phrases & Expressions:**
+- **Bioprodukte sind oft teurer** — *Organic products are often more expensive* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2a (Umweltfreundlich?)
 <!-- bank:end -->
 

@@ -42,6 +42,9 @@ status: "new"
 > Mein Sohn schreibt bei Schularbeiten immer gute Noten.
 > *My son always gets good marks in class tests.*
 
+**Phrases & Expressions:**
+- **Mein Sohn schreibt bei Schularbeiten immer gute Noten** — *My son always gets good marks in class tests* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

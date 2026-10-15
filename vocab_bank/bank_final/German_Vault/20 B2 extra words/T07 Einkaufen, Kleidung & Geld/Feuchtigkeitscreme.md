@@ -33,6 +33,11 @@ status: "new"
 > Im Winter benutze ich eine Feuchtigkeitscreme für trockene Haut.
 > *In winter I use a moisturiser for dry skin.*
 
+**Phrases & Expressions:**
+- **Feuchtigkeitscreme auftragen** — *moisturiser*
+- **eine reichhaltige Feuchtigkeitscreme** — *moisturiser*
+- **die Haut mit Feuchtigkeitscreme pflegen** — *moisturiser*
+
 **Collocations**
 - Feuchtigkeitscreme auftragen
 - eine reichhaltige Feuchtigkeitscreme

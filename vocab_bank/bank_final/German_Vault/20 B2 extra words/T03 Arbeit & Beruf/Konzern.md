@@ -33,6 +33,11 @@ status: "new"
 > Der Konzern hat mehrere tausend Mitarbeiter in Europa.
 > *The corporation has several thousand employees in Europe.*
 
+**Phrases & Expressions:**
+- **ein internationaler Konzern** — *corporation; group*
+- **zum Konzern gehören** — *corporation; group*
+- **Konzern umbauen** — *corporation; group*
+
 **Collocations**
 - ein internationaler Konzern
 - zum Konzern gehören

@@ -31,6 +31,9 @@ status: "new"
 > Ich bin gewohnt, früh ins Bett zu gehen.
 > *I'm used to going to bed early.*
 
+**Phrases & Expressions:**
+- **Ich bin gewohnt, früh ins Bett zu gehen** — *I'm used to going to bed early* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

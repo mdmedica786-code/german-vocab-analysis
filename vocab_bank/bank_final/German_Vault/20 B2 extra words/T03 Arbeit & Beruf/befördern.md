@@ -31,6 +31,11 @@ status: "new"
 > Die Firma beförderte sie zur Abteilungsleiterin.
 > *The company promoted her to head of department.*
 
+**Phrases & Expressions:**
+- **jemanden befördern** — *to transport; to promote*
+- **zur Leiterin befördern** — *to transport; to promote*
+- **Waren befördern** — *to transport; to promote*
+
 **Collocations**
 - jemanden befördern
 - zur Leiterin befördern

@@ -35,6 +35,9 @@ status: "new"
 > Die Bundeskanzlerin trifft sich mit dem Präsidenten.
 > *The Federal Chancellor meets the president.*
 
+**Phrases & Expressions:**
+- **Die Bundeskanzlerin trifft sich mit dem Präsidenten** — *The Federal Chancellor meets the president* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

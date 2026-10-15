@@ -33,6 +33,11 @@ status: "new"
 > Nach meiner Berechnung reicht das Geld bis Juni.
 > *According to my calculation the money lasts until June.*
 
+**Phrases & Expressions:**
+- **eine Berechnung anstellen** — *calculation*
+- **genaue Berechnung** — *calculation*
+- **nach meiner Berechnung** — *calculation*
+
 **Collocations**
 - eine Berechnung anstellen
 - genaue Berechnung

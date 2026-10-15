@@ -33,6 +33,9 @@ status: "new"
 > Die Wohnung ist schon vermietet.
 > *The flat has already been rented out.*
 
+**Phrases & Expressions:**
+- **Die Wohnung ist schon vermietet** — *The flat has already been rented out* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3c (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

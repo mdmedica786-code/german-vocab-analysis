@@ -34,6 +34,9 @@ status: "new"
 > Welche Zutaten braucht man für diesen Kuchen?
 > *Which ingredients do you need for this cake?*
 
+**Phrases & Expressions:**
+- **Welche Zutaten braucht man für diesen Kuchen** — *Which ingredients do you need for this cake* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

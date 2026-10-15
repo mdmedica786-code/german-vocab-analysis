@@ -33,6 +33,11 @@ status: "new"
 > Der Bauer pflügt den Acker im Frühjahr.
 > *The farmer ploughs the field in spring.*
 
+**Phrases & Expressions:**
+- **den Acker bestellen** — *field (arable); ploughed land*
+- **einen Acker pflügen** — *field (arable); ploughed land*
+- **brachliegender Acker** — *field (arable); ploughed land*
+
 **Collocations**
 - den Acker bestellen
 - einen Acker pflügen

@@ -34,6 +34,9 @@ status: "new"
 > Der Steckbrief enthält Name, Alter und Hobbys.
 > *The profile contains name, age and hobbies.*
 
+**Phrases & Expressions:**
+- **Der Steckbrief enthält Name, Alter und Hobbys** — *The profile contains name, age and hobbies* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 1c (Nach der Schulzeit)
 <!-- bank:end -->
 

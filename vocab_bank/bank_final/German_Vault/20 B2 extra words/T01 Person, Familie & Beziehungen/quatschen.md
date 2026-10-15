@@ -31,6 +31,11 @@ status: "new"
 > Wir haben stundenlang über alles Mögliche gequatscht.
 > *We chatted for hours about all sorts of things.*
 
+**Phrases & Expressions:**
+- **mit jemandem quatschen** — *to chat; to chatter (colloquial)*
+- **Quatsch quatschen** — *to chat; to chatter (colloquial)*
+- **stundenlang quatschen** — *to chat; to chatter (colloquial)*
+
 **Collocations**
 - mit jemandem quatschen
 - Quatsch quatschen

@@ -33,6 +33,11 @@ status: "new"
 > Die Schule sucht eine neue Lehrkraft.
 > *The school is looking for a new teacher.*
 
+**Phrases & Expressions:**
+- **eine Lehrkraft einstellen** — *teacher; member of teaching staff*
+- **qualifizierte Lehrkräfte** — *teacher; member of teaching staff*
+- **die Lehrkräfte der Schule** — *teacher; member of teaching staff*
+
 **Collocations**
 - eine Lehrkraft einstellen
 - qualifizierte Lehrkräfte

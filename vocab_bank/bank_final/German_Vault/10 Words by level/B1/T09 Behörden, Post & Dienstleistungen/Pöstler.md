@@ -42,6 +42,9 @@ status: "new"
 > Der Pöstler bringt die Briefe um zehn.
 > *The postman brings the letters at ten.*
 
+**Phrases & Expressions:**
+- **Der Pöstler bringt die Briefe um zehn** — *The postman brings the letters at ten* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

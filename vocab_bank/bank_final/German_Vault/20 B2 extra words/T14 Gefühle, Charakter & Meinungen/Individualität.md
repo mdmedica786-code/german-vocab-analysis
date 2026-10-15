@@ -33,6 +33,11 @@ status: "new"
 > Sie legt Wert auf ihre Individualität.
 > *She values her individuality.*
 
+**Phrases & Expressions:**
+- **die Individualität betonen** — *individuality*
+- **seine Individualität bewahren** — *individuality*
+- **Individualität zeigen** — *individuality*
+
 **Collocations**
 - die Individualität betonen
 - seine Individualität bewahren

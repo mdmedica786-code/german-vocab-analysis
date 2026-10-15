@@ -35,6 +35,9 @@ status: "new"
 > Ich habe mir einen neuen Teppich gekauft.
 > *I bought myself a new carpet.*
 
+**Phrases & Expressions:**
+- **Ich habe mir einen neuen Teppich gekauft** — *I bought myself a new carpet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

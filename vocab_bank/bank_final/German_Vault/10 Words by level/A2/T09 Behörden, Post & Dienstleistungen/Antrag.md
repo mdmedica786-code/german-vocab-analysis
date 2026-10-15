@@ -35,6 +35,9 @@ status: "new"
 > Haben Sie schon einen Antrag für das Wohngeld ausgefüllt?
 > *Have you already filled in an application for housing benefit?*
 
+**Phrases & Expressions:**
+- **Wo kann ich diesen Antrag abgeben?** — Where can I hand in this application? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Behörde: Antrag stellen]] · B1)*
+
 **Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

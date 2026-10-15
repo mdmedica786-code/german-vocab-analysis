@@ -31,6 +31,11 @@ status: "new"
 > Er züchtet seit Jahren Pferde.
 > *He has been breeding horses for years.*
 
+**Phrases & Expressions:**
+- **Pferde züchten** — *to breed; to grow (plants)*
+- **Rosen züchten** — *to breed; to grow (plants)*
+- **Bakterien züchten** — *to breed; to grow (plants)*
+
 **Collocations**
 - Pferde züchten
 - Rosen züchten

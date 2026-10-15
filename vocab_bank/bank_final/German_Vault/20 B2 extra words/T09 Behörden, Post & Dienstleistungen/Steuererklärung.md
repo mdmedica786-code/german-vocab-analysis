@@ -33,6 +33,11 @@ status: "new"
 > Bis Juli müssen wir die Steuererklärung abgeben.
 > *We have to submit the tax return by July.*
 
+**Phrases & Expressions:**
+- **die Steuererklärung abgeben** — *tax return*
+- **die Steuererklärung machen** — *tax return*
+- **Steuererklärung einreichen** — *tax return*
+
 **Collocations**
 - die Steuererklärung abgeben
 - die Steuererklärung machen

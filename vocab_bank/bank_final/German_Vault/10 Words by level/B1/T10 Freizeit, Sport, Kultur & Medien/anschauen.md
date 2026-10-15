@@ -33,6 +33,9 @@ status: "new"
 > Ich schaue das Bild an.
 > *I look at the picture.*
 
+**Phrases & Expressions:**
+- **Ich schaue das Bild an** — *I look at the picture* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b ÜB (Stadt, Land, Fluss)
 <!-- bank:end -->
 

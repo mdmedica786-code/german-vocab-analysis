@@ -33,6 +33,11 @@ status: "new"
 > Im Gesundheitsbereich fehlen viele Fachkräfte.
 > *In the health sector many skilled workers are missing.*
 
+**Phrases & Expressions:**
+- **im Gesundheitsbereich arbeiten** — *health sector; health field*
+- **im Gesundheitsbereich tätig sein** — *health sector; health field*
+- **der Gesundheitsbereich wächst** — *health sector; health field*
+
 **Collocations**
 - im Gesundheitsbereich arbeiten
 - im Gesundheitsbereich tätig sein

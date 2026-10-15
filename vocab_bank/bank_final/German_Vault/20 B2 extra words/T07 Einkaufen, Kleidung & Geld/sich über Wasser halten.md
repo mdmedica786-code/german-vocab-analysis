@@ -26,6 +26,10 @@ status: "new"
 > Mit Nebenjobs hält sie sich finanziell über Wasser.
 > *With side jobs she keeps her head above water financially.*
 
+**Phrases & Expressions:**
+- **sich gerade so über Wasser halten** — *to keep one's head above water*
+- **finanziell überleben** — *to keep one's head above water*
+
 **Collocations**
 - sich gerade so über Wasser halten
 - finanziell überleben

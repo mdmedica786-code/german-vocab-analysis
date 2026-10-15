@@ -35,6 +35,9 @@ status: "new"
 > An der nächsten Haltestelle müssen Sie aussteigen.
 > *You have to get off at the next stop.*
 
+**Phrases & Expressions:**
+- **An der nächsten Haltestelle müssen Sie aussteigen** — *You have to get off at the next stop* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 3d (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

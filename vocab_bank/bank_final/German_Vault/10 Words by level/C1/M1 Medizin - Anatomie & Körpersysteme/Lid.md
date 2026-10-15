@@ -33,6 +33,12 @@ status: "new"
 > Das Lid ist geschwollen.
 > *The eyelid is swollen.*
 
+**Phrases & Expressions:**
+- **das obere Lid** — *eyelid*
+- **das Lid schließen** — *eyelid*
+- **geschwollenes Lid** — *eyelid*
+- **das Lid heben** — *eyelid*
+
 **Collocations**
 - das obere Lid
 - das Lid schließen

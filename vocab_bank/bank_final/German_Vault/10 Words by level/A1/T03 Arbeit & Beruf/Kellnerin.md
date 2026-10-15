@@ -35,6 +35,9 @@ status: "new"
 > Ich bin Kellnerin von Beruf.
 > *I'm a waitress by profession.*
 
+**Phrases & Expressions:**
+- **Ich bin Kellnerin von Beruf** — *I'm a waitress by profession* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

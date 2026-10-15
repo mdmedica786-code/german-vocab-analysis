@@ -32,6 +32,11 @@ status: "new"
 > Ich kann Ihnen in diesem Punkt nur beipflichten.
 > *I can only agree with you on this point.*
 
+**Phrases & Expressions:**
+- **jemandem beipflichten** — *to agree with; to concur*
+- **einer Meinung beipflichten** — *to agree with; to concur*
+- **voll beipflichten** — *to agree with; to concur*
+
 **Collocations**
 - jemandem beipflichten
 - einer Meinung beipflichten

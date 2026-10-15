@@ -33,6 +33,11 @@ status: "new"
 > Im Juli reifen die Kirschen am Baum.
 > *In July the cherries ripen on the tree.*
 
+**Phrases & Expressions:**
+- **Kirschen pflücken** — *cherry*
+- **süße Kirschen** — *cherry*
+- **Kirschkuchen** — *cherry*
+
 **Collocations**
 - Kirschen pflücken
 - süße Kirschen

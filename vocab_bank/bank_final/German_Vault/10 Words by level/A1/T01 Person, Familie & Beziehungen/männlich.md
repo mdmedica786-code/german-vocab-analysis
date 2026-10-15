@@ -31,6 +31,9 @@ status: "new"
 > Kreuzen Sie bitte an: „weiblich“ oder „männlich“.
 > *Please tick: “female” or “male”.*
 
+**Phrases & Expressions:**
+- **Kreuzen Sie bitte an: „weiblich“ oder „männlich“** — *Please tick: “female” or “male”* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

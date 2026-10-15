@@ -30,6 +30,9 @@ status: "new"
 > Sie antwortet sehr diplomatisch.
 > *She answers very diplomatically.*
 
+**Phrases & Expressions:**
+- **Sie antwortet sehr diplomatisch** — *She answers very diplomatically* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 8a (Zwischenmenschliches)
 <!-- bank:end -->
 

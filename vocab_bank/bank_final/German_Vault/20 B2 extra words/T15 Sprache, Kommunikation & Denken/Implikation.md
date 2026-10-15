@@ -33,6 +33,11 @@ status: "new"
 > Die Implikationen dieser Entscheidung sind noch unklar.
 > *The implications of this decision are still unclear.*
 
+**Phrases & Expressions:**
+- **die Implikationen von** — *implication*
+- **politische Implikationen** — *implication*
+- **Implikationen haben** — *implication*
+
 **Collocations**
 - die Implikationen von
 - politische Implikationen

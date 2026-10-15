@@ -33,6 +33,11 @@ status: "new"
 > Der Wasserschaden in der Wohnung wurde von der Versicherung übernommen.
 > *The water damage in the flat was covered by the insurance.*
 
+**Phrases & Expressions:**
+- **einen Wasserschaden melden** — *water damage*
+- **Wasserschaden beheben** — *water damage*
+- **durch einen Wasserschaden** — *water damage*
+
 **Collocations**
 - einen Wasserschaden melden
 - Wasserschaden beheben

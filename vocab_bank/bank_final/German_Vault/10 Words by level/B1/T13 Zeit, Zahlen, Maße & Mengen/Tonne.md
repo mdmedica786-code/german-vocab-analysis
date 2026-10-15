@@ -34,6 +34,9 @@ status: "new"
 > Ein Lastwagen kann viele Tonnen transportieren.
 > *A lorry can transport many tonnes.*
 
+**Phrases & Expressions:**
+- **Ein Lastwagen kann viele Tonnen transportieren** — *A lorry can transport many tonnes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

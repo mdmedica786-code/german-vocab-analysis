@@ -29,6 +29,11 @@ status: "new"
 > In der Gaststätte gibt es deftige Hausmannskost.
 > *The inn serves hearty home cooking.*
 
+**Phrases & Expressions:**
+- **deftiges Essen** — *hearty; substantial*
+- **eine deftige Mahlzeit** — *hearty; substantial*
+- **deftig essen** — *hearty; substantial*
+
 **Collocations**
 - deftiges Essen
 - eine deftige Mahlzeit

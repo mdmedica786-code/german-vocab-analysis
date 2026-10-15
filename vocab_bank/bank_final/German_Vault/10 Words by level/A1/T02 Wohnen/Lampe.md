@@ -35,6 +35,9 @@ status: "new"
 > Mach bitte die Lampe an. Es ist so dunkel.
 > *Please turn on the lamp. It is so dark.*
 
+**Phrases & Expressions:**
+- **Mach bitte die Lampe an. Es ist so dunkel** — *Please turn on the lamp. It is so dark* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

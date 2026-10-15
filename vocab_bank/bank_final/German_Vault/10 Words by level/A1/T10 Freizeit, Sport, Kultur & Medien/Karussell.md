@@ -34,6 +34,9 @@ status: "new"
 > Die Kinder fahren Karussell.
 > *The children ride the merry-go-round.*
 
+**Phrases & Expressions:**
+- **Die Kinder fahren Karussell** — *The children ride the merry-go-round* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 13a (Studium und Beruf)
 <!-- bank:end -->
 

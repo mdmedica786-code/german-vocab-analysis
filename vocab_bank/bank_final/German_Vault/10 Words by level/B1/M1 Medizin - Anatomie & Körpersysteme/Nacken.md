@@ -33,6 +33,12 @@ status: "new"
 > Der Patient klagt über Schmerzen im Nacken.
 > *The patient complains of pain in the neck.*
 
+**Phrases & Expressions:**
+- **steifer Nacken** — *neck (back of the neck); nape*
+- **Schmerzen im Nacken** — *neck (back of the neck); nape*
+- **den Nacken massieren** — *neck (back of the neck); nape*
+- **Verspannungen im Nacken** — *neck (back of the neck); nape*
+
 **Collocations**
 - steifer Nacken
 - Schmerzen im Nacken

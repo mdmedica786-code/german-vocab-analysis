@@ -34,6 +34,9 @@ status: "new"
 > Der Ukrainer lernt Deutsch.
 > *The Ukrainian man is learning German.*
 
+**Phrases & Expressions:**
+- **Der Ukrainer lernt Deutsch** — *The Ukrainian man is learning German* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

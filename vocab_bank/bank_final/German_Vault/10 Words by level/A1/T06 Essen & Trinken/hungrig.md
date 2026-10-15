@@ -31,6 +31,9 @@ status: "new"
 > Ich bin sehr hungrig.
 > *I am very hungry.*
 
+**Phrases & Expressions:**
+- **Ich bin sehr hungrig** — *I am very hungry* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 1c (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

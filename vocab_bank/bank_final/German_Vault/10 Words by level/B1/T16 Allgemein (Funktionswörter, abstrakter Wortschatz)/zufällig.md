@@ -31,6 +31,9 @@ status: "new"
 > Wir haben uns zufällig am Bahnhof getroffen.
 > *We met by chance at the station.*
 
+**Phrases & Expressions:**
+- **Wir haben uns zufällig am Bahnhof getroffen** — *We met by chance at the station* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

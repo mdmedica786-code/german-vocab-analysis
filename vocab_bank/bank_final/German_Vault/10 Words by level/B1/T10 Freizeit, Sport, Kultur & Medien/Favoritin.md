@@ -34,6 +34,9 @@ status: "new"
 > Die Favoritin ist schon im Finale.
 > *The favourite is already in the final.*
 
+**Phrases & Expressions:**
+- **Die Favoritin ist schon im Finale** — *The favourite is already in the final* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

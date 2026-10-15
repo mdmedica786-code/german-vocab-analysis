@@ -26,6 +26,11 @@ status: "new"
 > Sie spricht sowohl Deutsch als auch Englisch.
 > *She speaks both German and English.*
 
+**Phrases & Expressions:**
+- **sowohl ... als auch ...** — *both ... and ...; as well as*
+- **sowohl privat als auch beruflich** — *both ... and ...; as well as*
+- **sowohl im Sommer als auch im Winter** — *both ... and ...; as well as*
+
 **Collocations**
 - sowohl ... als auch ...
 - sowohl privat als auch beruflich

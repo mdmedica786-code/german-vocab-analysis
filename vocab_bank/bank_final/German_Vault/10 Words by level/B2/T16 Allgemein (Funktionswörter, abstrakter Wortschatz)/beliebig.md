@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Du kannst eine beliebige Zahl wählen.
 > *You can choose any number.*
+
+**Phrases & Expressions:**
+- **Du kannst eine beliebige Zahl wählen** — *You can choose any number* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

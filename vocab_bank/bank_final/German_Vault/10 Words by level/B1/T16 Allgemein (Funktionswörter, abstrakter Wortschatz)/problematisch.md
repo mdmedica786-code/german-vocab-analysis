@@ -30,6 +30,9 @@ status: "new"
 > Die Lage ist problematisch.
 > *The situation is problematic.*
 
+**Phrases & Expressions:**
+- **Die Lage ist problematisch** — *The situation is problematic* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

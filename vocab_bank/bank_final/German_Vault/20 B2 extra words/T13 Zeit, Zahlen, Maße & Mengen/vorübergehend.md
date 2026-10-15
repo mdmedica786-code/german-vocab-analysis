@@ -29,6 +29,10 @@ status: "new"
 > Das Geschäft ist vorübergehend geschlossen.
 > *The shop is temporarily closed.*
 
+**Phrases & Expressions:**
+- **vorübergehend geschlossen** — *temporarily*
+- **vorübergehend untergebracht** — *temporarily*
+
 **Collocations**
 - vorübergehend geschlossen
 - vorübergehend untergebracht

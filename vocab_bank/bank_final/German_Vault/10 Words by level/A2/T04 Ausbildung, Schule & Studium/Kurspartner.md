@@ -31,6 +31,9 @@ status: "new"
 > Mein Kurspartner hilft mir bei den Hausaufgaben.
 > *My course partner helps me with the homework.*
 
+**Phrases & Expressions:**
+- **Mein Kurspartner hilft mir bei den Hausaufgaben** — *My course partner helps me with the homework* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 12a (Arbeitswelten)
 <!-- bank:end -->
 

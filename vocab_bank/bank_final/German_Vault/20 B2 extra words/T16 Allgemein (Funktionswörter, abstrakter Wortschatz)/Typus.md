@@ -33,6 +33,11 @@ status: "new"
 > Er ist der Typus des zerstreuten Professors.
 > *He is the type of the absent-minded professor.*
 
+**Phrases & Expressions:**
+- **ein bestimmter Typus** — *type*
+- **der Typus Mensch** — *type*
+- **Typus und Charakter** — *type*
+
 **Collocations**
 - ein bestimmter Typus
 - der Typus Mensch

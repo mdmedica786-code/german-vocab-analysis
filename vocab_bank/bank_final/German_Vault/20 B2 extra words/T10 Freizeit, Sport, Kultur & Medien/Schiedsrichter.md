@@ -33,6 +33,11 @@ status: "new"
 > Der Schiedsrichter pfiff das Spiel pünktlich an.
 > *The referee blew the whistle for the game on time.*
 
+**Phrases & Expressions:**
+- **der Schiedsrichter pfeift** — *referee; umpire*
+- **eine Entscheidung des Schiedsrichters** — *referee; umpire*
+- **den Schiedsrichter beleidigen** — *referee; umpire*
+
 **Collocations**
 - der Schiedsrichter pfeift
 - eine Entscheidung des Schiedsrichters

@@ -33,6 +33,11 @@ status: "new"
 > Auf ihre Zuverlässigkeit kann man sich verlassen.
 > *One can rely on her reliability.*
 
+**Phrases & Expressions:**
+- **Zuverlässigkeit zeigen** — *reliability*
+- **hohe Zuverlässigkeit** — *reliability*
+- **auf Zuverlässigkeit achten** — *reliability*
+
 **Collocations**
 - Zuverlässigkeit zeigen
 - hohe Zuverlässigkeit

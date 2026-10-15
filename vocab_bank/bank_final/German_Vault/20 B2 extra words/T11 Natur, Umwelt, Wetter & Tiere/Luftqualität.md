@@ -33,6 +33,11 @@ status: "new"
 > Die Luftqualität in der Stadt hat sich verbessert.
 > *The air quality in the city has improved.*
 
+**Phrases & Expressions:**
+- **die Luftqualität messen** — *air quality*
+- **eine gute Luftqualität** — *air quality*
+- **die Luftqualität verbessern** — *air quality*
+
 **Collocations**
 - die Luftqualität messen
 - eine gute Luftqualität

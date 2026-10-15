@@ -32,6 +32,11 @@ status: "new"
 > Das Ergebnis spiegelt die Stimmung im Land wider.
 > *The result reflects the mood in the country.*
 
+**Phrases & Expressions:**
+- **die Realität widerspiegeln** — *to reflect; to mirror*
+- **sich widerspiegeln** — *to reflect; to mirror*
+- **sich in etwas widerspiegeln** — *to reflect; to mirror*
+
 **Collocations**
 - die Realität widerspiegeln
 - sich widerspiegeln

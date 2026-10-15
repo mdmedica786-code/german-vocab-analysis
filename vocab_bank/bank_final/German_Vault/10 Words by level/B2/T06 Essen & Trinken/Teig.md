@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Teig muss eine Stunde ruhen.
 > *The dough has to rest for an hour.*
+
+**Phrases & Expressions:**
+- **Der Teig muss eine Stunde ruhen** — *The dough has to rest for an hour* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

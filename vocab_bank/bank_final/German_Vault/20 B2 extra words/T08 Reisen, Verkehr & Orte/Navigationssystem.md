@@ -33,6 +33,11 @@ status: "new"
 > Das Navigationssystem führt uns direkt zum Hotel.
 > *The navigation system takes us straight to the hotel.*
 
+**Phrases & Expressions:**
+- **das Navigationssystem einstellen** — *navigation system; sat nav*
+- **ein Navigationssystem benutzen** — *navigation system; sat nav*
+- **dem Navigationssystem folgen** — *navigation system; sat nav*
+
 **Collocations**
 - das Navigationssystem einstellen
 - ein Navigationssystem benutzen

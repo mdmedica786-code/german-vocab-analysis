@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Obgleich es regnete, gingen wir spazieren.
 > *Although it was raining, we went for a walk.*
+
+**Phrases & Expressions:**
+- **Obgleich es regnete, gingen wir spazieren** — *Although it was raining, we went for a walk* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

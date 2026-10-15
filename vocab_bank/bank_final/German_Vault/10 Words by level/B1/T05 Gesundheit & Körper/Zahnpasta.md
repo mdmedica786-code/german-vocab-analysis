@@ -34,6 +34,9 @@ status: "new"
 > Die Zahnpasta ist fast leer.
 > *The toothpaste is almost empty.*
 
+**Phrases & Expressions:**
+- **Die Zahnpasta ist fast leer** — *The toothpaste is almost empty* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

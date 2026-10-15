@@ -35,6 +35,12 @@ status: "new"
 > Die Kommunikation zwischen den Abteilungen ist gut.
 > *Communication between the departments is good.*
 
+**Phrases & Expressions:**
+- **Kommunikation verbessern** — *communication*
+- **gute Kommunikation** — *communication*
+- **digitale Kommunikation** — *communication*
+- **Kommunikation mit Patienten** — *communication*
+
 **Collocations**
 - Kommunikation verbessern
 - gute Kommunikation

@@ -34,6 +34,9 @@ status: "new"
 > Die Wanderin folgt dem markierten Weg.
 > *The hiker follows the marked path.*
 
+**Phrases & Expressions:**
+- **Die Wanderin folgt dem markierten Weg** — *The hiker follows the marked path* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!)
 <!-- bank:end -->
 

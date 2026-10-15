@@ -33,6 +33,11 @@ status: "new"
 > Es ist mir eine Ehre, Sie kennenzulernen.
 > *It is an honour to meet you.*
 
+**Phrases & Expressions:**
+- **zu Ehren von** — *honour*
+- **jemandem die Ehre erweisen** — *honour*
+- **seine Ehre verteidigen** — *honour*
+
 **Collocations**
 - zu Ehren von
 - jemandem die Ehre erweisen

@@ -34,6 +34,14 @@ status: "new"
 > Haben Sie morgen Abend schon etwas vor?
 > *Do you already have plans for tomorrow evening?*
 
+**Phrases & Expressions:**
+- **ich hatte das Gefühl, dass ...** — I had the feeling that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **ich hatte das Gefühl** — I had the feeling *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **ich hatte keine Ahnung** — I had no idea *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **ich hatte den Eindruck, dass ...** — I had the impression that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **Nachdem ich ... hatte, habe ich ...** — After I had ..., I ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Zeitliche Abfolge erzählen]] · B1)*
+- **Ich muss leider absagen, weil ich schon etwas vorhabe.** — Unfortunately I have to decline because I already have plans. *([[B1-18 Einladen, zusagen und absagen|Mit Begründung absagen]] · B1)*
+
 **Source:** Netzwerk neu A2 K7 1a (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

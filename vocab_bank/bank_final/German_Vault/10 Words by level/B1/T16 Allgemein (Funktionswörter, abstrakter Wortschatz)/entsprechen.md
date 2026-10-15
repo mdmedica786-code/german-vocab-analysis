@@ -33,6 +33,13 @@ status: "new"
 > Das Ergebnis entspricht unseren Erwartungen.
 > *The result meets our expectations.*
 
+**Phrases & Expressions:**
+- **Das Produkt entspricht nicht der Beschreibung.** — The product doesn't match the description. *([[B2-04 Beschwerde und Reklamation|Problem schildern]] · B2)*
+- **den Erwartungen entsprechen** — *to correspond*
+- **den Vorschriften entsprechen** — *to correspond*
+- **der Wahrheit entsprechen** — *to correspond*
+- **der Beschreibung entsprechen** — *to correspond*
+
 **Collocations**
 - den Erwartungen entsprechen
 - den Vorschriften entsprechen

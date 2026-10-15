@@ -33,6 +33,11 @@ status: "new"
 > Das Thema Gender wird in der Gesellschaft viel diskutiert.
 > *The topic of gender is much discussed in society.*
 
+**Phrases & Expressions:**
+- **Gender und Gleichberechtigung** — *gender (social)*
+- **der Gender Pay Gap** — *gender (social)*
+- **Gender Studies** — *gender (social)*
+
 **Collocations**
 - Gender und Gleichberechtigung
 - der Gender Pay Gap

@@ -32,6 +32,9 @@ status: "new"
 > Am Sonntag musiziert die Familie gemeinsam.
 > *On Sundays the family makes music together.*
 
+**Phrases & Expressions:**
+- **Am Sonntag musiziert die Familie gemeinsam** — *On Sundays the family makes music together* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 12b (Kunststücke)
 <!-- bank:end -->
 

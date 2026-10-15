@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Er hat Furcht vor großen Hunden.
 > *He is afraid of big dogs.*
+
+**Phrases & Expressions:**
+- **Er hat Furcht vor großen Hunden** — *He is afraid of big dogs* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

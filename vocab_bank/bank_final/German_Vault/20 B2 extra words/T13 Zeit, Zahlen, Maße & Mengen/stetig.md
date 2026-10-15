@@ -29,6 +29,12 @@ status: "new"
 > Die Zahl der Besucher steigt stetig.
 > *The number of visitors is rising steadily.*
 
+**Phrases & Expressions:**
+- **... geht stetig zurück.** — ... is steadily declining. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Rückgang beschreiben]] · B2)*
+- **stetig wachsen** — *steady; constant*
+- **ein stetiger Anstieg** — *steady; constant*
+- **stetig steigen** — *steady; constant*
+
 **Collocations**
 - stetig wachsen
 - ein stetiger Anstieg

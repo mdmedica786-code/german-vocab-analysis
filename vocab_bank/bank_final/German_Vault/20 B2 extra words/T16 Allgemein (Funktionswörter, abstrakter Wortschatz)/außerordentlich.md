@@ -29,6 +29,11 @@ status: "new"
 > Das ist eine außerordentlich gute Leistung.
 > *That is an exceptionally good performance.*
 
+**Phrases & Expressions:**
+- **außerordentlich wichtig** — *extraordinary; exceptional*
+- **eine außerordentliche Sitzung** — *extraordinary; exceptional*
+- **außerordentlich gut** — *extraordinary; exceptional*
+
 **Collocations**
 - außerordentlich wichtig
 - eine außerordentliche Sitzung

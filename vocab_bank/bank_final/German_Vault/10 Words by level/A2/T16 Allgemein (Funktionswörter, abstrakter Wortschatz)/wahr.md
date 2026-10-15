@@ -31,6 +31,13 @@ status: "new"
 > Das ist (nicht) wahr!
 > *That is (not) true!*
 
+**Phrases & Expressions:**
+- **nicht wahr?** — isn't it? / right? *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B1)*
+- **Schönes Wetter heute, nicht wahr?** — Nice weather today, isn't it? *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Gespräch beginnen]] · A2)*
+- **wahr sein** — *true*
+- **eine wahre Geschichte** — *true*
+- **wahr werden** — *true*
+
 **Collocations**
 - wahr sein
 - eine wahre Geschichte

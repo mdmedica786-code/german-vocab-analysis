@@ -34,6 +34,9 @@ status: "new"
 > Mein Sohn braucht neue Fußballschuhe.
 > *My son needs new football boots.*
 
+**Phrases & Expressions:**
+- **Mein Sohn braucht neue Fußballschuhe** — *My son needs new football boots* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1a (Sportlich, sportlich)
 <!-- bank:end -->
 

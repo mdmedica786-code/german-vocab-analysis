@@ -33,6 +33,11 @@ status: "new"
 > Die Nachricht wurde per Funk übermittelt.
 > *The message was transmitted by radio.*
 
+**Phrases & Expressions:**
+- **per Funk** — *radio; radio communication*
+- **über Funk** — *radio; radio communication*
+- **Funk und Fernsehen** — *radio; radio communication*
+
 **Collocations**
 - per Funk
 - über Funk

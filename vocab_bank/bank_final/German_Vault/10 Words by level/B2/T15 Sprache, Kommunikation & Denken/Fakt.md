@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das ist ein Fakt, keine Meinung.
 > *That is a fact, not an opinion.*
+
+**Phrases & Expressions:**
+- **Das ist ein Fakt, keine Meinung** — *That is a fact, not an opinion* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -34,6 +34,9 @@ status: "new"
 > Wir machen am Wochenende eine Kajaktour.
 > *At the weekend we're going on a kayak tour.*
 
+**Phrases & Expressions:**
+- **Wir machen am Wochenende eine Kajaktour** — *At the weekend we're going on a kayak tour* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 9a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

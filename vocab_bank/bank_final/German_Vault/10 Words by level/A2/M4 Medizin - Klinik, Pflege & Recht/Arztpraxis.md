@@ -34,6 +34,12 @@ status: "new"
 > Die Arztpraxis öffnet um acht Uhr.
 > *The doctor's surgery opens at eight o'clock.*
 
+**Phrases & Expressions:**
+- **in die Arztpraxis gehen** — *doctor's office*
+- **eine Arztpraxis eröffnen** — *doctor's office*
+- **in einer Arztpraxis arbeiten** — *doctor's office*
+- **die Arztpraxis ist geschlossen** — *doctor's office*
+
 **Collocations**
 - in die Arztpraxis gehen
 - eine Arztpraxis eröffnen

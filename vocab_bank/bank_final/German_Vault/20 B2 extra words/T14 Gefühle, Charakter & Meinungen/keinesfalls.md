@@ -29,6 +29,9 @@ status: "new"
 > Sie dürfen das Medikament keinesfalls absetzen.
 > *You must under no circumstances stop the medicine.*
 
+**Phrases & Expressions:**
+- **Sie dürfen das Medikament keinesfalls absetzen** — *You must under no circumstances stop the medicine* *(Beispiel im Kontext)*
+
 **Exam use:** Sprechen, Alltag
 <!-- bank:end -->
 

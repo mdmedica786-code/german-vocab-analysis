@@ -35,6 +35,9 @@ status: "new"
 > Hast du den Lebenslauf für die Bewerbung schon geschrieben?
 > *Have you already written the CV for the application?*
 
+**Phrases & Expressions:**
+- **Im Anhang finden Sie meinen Lebenslauf.** — You will find my CV attached. *([[B1-13 Formelle E-Mail und Brief|Anhang erwähnen]] · B1)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

@@ -31,6 +31,11 @@ status: "new"
 > Wir müssen den Begriff zuerst genau definieren.
 > *We first have to define the term precisely.*
 
+**Phrases & Expressions:**
+- **einen Begriff definieren** — *to define*
+- **klar definiert** — *to define*
+- **sich über etwas definieren** — *to define*
+
 **Collocations**
 - einen Begriff definieren
 - klar definiert

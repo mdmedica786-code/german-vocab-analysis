@@ -29,6 +29,12 @@ status: "new"
 > Für viele Menschen ist dieser Ort heilig.
 > *For many people this place is holy.*
 
+**Phrases & Expressions:**
+- **heiliger Ort** — *holy; sacred*
+- **die heilige Messe** — *holy; sacred*
+- **der heilige Abend** — *holy; sacred*
+- **heilig sprechen** — *holy; sacred*
+
 **Collocations**
 - heiliger Ort
 - die heilige Messe

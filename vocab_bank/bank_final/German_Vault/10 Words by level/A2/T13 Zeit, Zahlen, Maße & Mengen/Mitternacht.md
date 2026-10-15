@@ -35,6 +35,10 @@ status: "new"
 > Die Party endet um Mitternacht.
 > *The party ends at midnight.*
 
+**Phrases & Expressions:**
+- **um Mitternacht** — at midnight *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **Sie sollten ab Mitternacht nichts mehr essen oder trinken.** — You should not eat or drink anything after midnight. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Vorbereitung erklären]] · B1)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

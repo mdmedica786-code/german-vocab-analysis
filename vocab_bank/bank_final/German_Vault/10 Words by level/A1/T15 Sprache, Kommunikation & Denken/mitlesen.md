@@ -33,6 +33,9 @@ status: "new"
 > Lesen Sie den Text leise mit.
 > *Read the text along quietly.*
 
+**Phrases & Expressions:**
+- **Lesen Sie den Text leise mit** — *Read the text along quietly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 7a (Guten Tag!)
 <!-- bank:end -->
 

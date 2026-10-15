@@ -35,6 +35,9 @@ status: "new"
 > Bringen Sie mir die Speisekarte, bitte.
 > *Bring me the menu, please.*
 
+**Phrases & Expressions:**
+- **Bringen Sie mir die Speisekarte, bitte** — *Bring me the menu, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 11 (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

@@ -31,6 +31,9 @@ status: "new"
 > Mein Handyakku ist schnell leer.
 > *My phone battery runs out quickly.*
 
+**Phrases & Expressions:**
+- **Mein Handyakku ist schnell leer** — *My phone battery runs out quickly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 4b (Das ist ja praktisch!)
 <!-- bank:end -->
 

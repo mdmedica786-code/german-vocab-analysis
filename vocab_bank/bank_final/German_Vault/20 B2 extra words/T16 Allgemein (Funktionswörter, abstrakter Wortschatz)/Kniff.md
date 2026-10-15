@@ -33,6 +33,11 @@ status: "new"
 > Mit einem kleinen Kniff geht es viel schneller.
 > *With a little trick it goes much faster.*
 
+**Phrases & Expressions:**
+- **ein cleverer Kniff** — *trick; knack*
+- **einen Kniff kennen** — *trick; knack*
+- **der Kniff dabei** — *trick; knack*
+
 **Collocations**
 - ein cleverer Kniff
 - einen Kniff kennen

@@ -33,6 +33,11 @@ status: "new"
 > Ich muss noch ein paar Besorgungen in der Stadt machen.
 > *I still have to run a few errands in town.*
 
+**Phrases & Expressions:**
+- **Besorgungen machen** — *errand; purchase*
+- **eine Besorgung erledigen** — *errand; purchase*
+- **eine kleine Besorgung** — *errand; purchase*
+
 **Collocations**
 - Besorgungen machen
 - eine Besorgung erledigen

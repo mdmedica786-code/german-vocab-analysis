@@ -29,6 +29,11 @@ status: "new"
 > Nichtsdestotrotz bleibt das Risiko hoch.
 > *Nevertheless the risk remains high.*
 
+**Phrases & Expressions:**
+- **nichtsdestotrotz bleiben** — *nevertheless; all the same*
+- **und nichtsdestotrotz** — *nevertheless; all the same*
+- **nichtsdestotrotz wichtig** — *nevertheless; all the same*
+
 **Collocations**
 - nichtsdestotrotz bleiben
 - und nichtsdestotrotz

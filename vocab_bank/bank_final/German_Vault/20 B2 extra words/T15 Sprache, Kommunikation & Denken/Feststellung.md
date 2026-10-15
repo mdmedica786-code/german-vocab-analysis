@@ -33,6 +33,11 @@ status: "new"
 > Die Feststellung des Schadens dauert noch.
 > *Establishing the damage is still taking time.*
 
+**Phrases & Expressions:**
+- **eine Feststellung treffen** — *finding; statement; establishing*
+- **zu der Feststellung kommen** — *finding; statement; establishing*
+- **die Feststellung der Identität** — *finding; statement; establishing*
+
 **Collocations**
 - eine Feststellung treffen
 - zu der Feststellung kommen

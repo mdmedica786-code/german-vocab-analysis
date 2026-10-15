@@ -31,6 +31,11 @@ status: "new"
 > Ihm wurde wegen Trunkenheit der Führerschein entzogen.
 > *His driving licence was withdrawn for drunk driving.*
 
+**Phrases & Expressions:**
+- **den Führerschein entziehen** — *to withdraw; to deprive; to evade*
+- **sich entziehen** — *to withdraw; to deprive; to evade*
+- **das Vertrauen entziehen** — *to withdraw; to deprive; to evade*
+
 **Collocations**
 - den Führerschein entziehen
 - sich entziehen

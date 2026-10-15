@@ -33,6 +33,11 @@ status: "new"
 > Wegen einer Betriebsstörung fahren heute weniger Züge.
 > *Because of a service disruption fewer trains are running today.*
 
+**Phrases & Expressions:**
+- **eine Betriebsstörung melden** — *operational disruption; service disruption*
+- **wegen einer Betriebsstörung** — *operational disruption; service disruption*
+- **eine technische Betriebsstörung** — *operational disruption; service disruption*
+
 **Collocations**
 - eine Betriebsstörung melden
 - wegen einer Betriebsstörung

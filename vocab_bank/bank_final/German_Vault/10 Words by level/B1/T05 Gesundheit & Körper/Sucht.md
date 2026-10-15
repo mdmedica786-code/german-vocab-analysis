@@ -34,6 +34,9 @@ status: "new"
 > Die Sucht nach Medikamenten nimmt zu.
 > *The addiction to medication is increasing.*
 
+**Phrases & Expressions:**
+- **Die Sucht nach Medikamenten nimmt zu** — *The addiction to medication is increasing* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

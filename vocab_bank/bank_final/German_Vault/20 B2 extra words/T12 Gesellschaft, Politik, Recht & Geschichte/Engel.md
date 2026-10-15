@@ -33,6 +33,11 @@ status: "new"
 > Zu Weihnachten hängen kleine Engel am Baum.
 > *At Christmas small angels hang on the tree.*
 
+**Phrases & Expressions:**
+- **ein Engel sein** — *angel*
+- **der Schutzengel** — *angel*
+- **ein Engel mit Flügeln** — *angel*
+
 **Collocations**
 - ein Engel sein
 - der Schutzengel

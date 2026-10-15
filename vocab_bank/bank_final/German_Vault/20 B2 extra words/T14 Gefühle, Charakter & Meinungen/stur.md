@@ -29,6 +29,11 @@ status: "new"
 > Sei nicht so stur und hör dir meine Argumente an!
 > *Don't be so stubborn and listen to my arguments!*
 
+**Phrases & Expressions:**
+- **stur bleiben** — *stubborn; obstinate*
+- **stur auf etwas beharren** — *stubborn; obstinate*
+- **ein sturer Mensch** — *stubborn; obstinate*
+
 **Collocations**
 - stur bleiben
 - stur auf etwas beharren

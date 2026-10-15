@@ -34,6 +34,9 @@ status: "new"
 > Im Theater sehen wir ein Drama von Goethe.
 > *At the theatre we are watching a drama by Goethe.*
 
+**Phrases & Expressions:**
+- **Im Theater sehen wir ein Drama von Goethe** — *At the theatre we are watching a drama by Goethe* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8b (Leben in der Stadt)
 <!-- bank:end -->
 

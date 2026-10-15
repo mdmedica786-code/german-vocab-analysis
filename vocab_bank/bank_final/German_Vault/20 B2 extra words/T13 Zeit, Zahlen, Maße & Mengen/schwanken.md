@@ -31,6 +31,10 @@ status: "new"
 > Die Preise schwanken stark.
 > *Prices fluctuate greatly.*
 
+**Phrases & Expressions:**
+- **stark schwanken** — *to fluctuate; to waver*
+- **zwischen zwei Möglichkeiten schwanken** — *to fluctuate; to waver*
+
 **Collocations**
 - stark schwanken
 - zwischen zwei Möglichkeiten schwanken

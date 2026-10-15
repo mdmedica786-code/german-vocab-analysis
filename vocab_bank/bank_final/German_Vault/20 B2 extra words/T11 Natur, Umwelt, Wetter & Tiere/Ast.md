@@ -33,6 +33,11 @@ status: "new"
 > Der Vogel sitzt auf einem Ast.
 > *The bird is sitting on a branch.*
 
+**Phrases & Expressions:**
+- **auf dem Ast sitzen** — *branch*
+- **einen Ast absägen** — *branch*
+- **auf dem absteigenden Ast sein** — *branch*
+
 **Collocations**
 - auf dem Ast sitzen
 - einen Ast absägen

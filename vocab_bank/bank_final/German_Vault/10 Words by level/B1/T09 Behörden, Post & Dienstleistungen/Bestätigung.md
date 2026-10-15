@@ -34,6 +34,9 @@ status: "new"
 > Ich brauche eine schriftliche Bestätigung für das Amt.
 > *I need a written confirmation for the authority.*
 
+**Phrases & Expressions:**
+- **Ich bitte Sie um eine kurze Bestätigung.** — I ask you for a brief confirmation. *([[B1-13 Formelle E-Mail und Brief|Bitte äußern]] · B1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -32,6 +32,11 @@ status: "new"
 > Ich kann dir diese lange Fahrt nicht zumuten.
 > *I cannot expect you to make this long journey.*
 
+**Phrases & Expressions:**
+- **jemandem etwas zumuten** — *to expect of; to impose*
+- **sich zu viel zumuten** — *to expect of; to impose*
+- **zumutbar sein** — *to expect of; to impose*
+
 **Collocations**
 - jemandem etwas zumuten
 - sich zu viel zumuten

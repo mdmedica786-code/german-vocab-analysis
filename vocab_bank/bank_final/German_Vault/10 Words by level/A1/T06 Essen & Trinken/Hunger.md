@@ -35,6 +35,9 @@ status: "new"
 > Ich habe Hunger! Wann ist das Essen fertig?
 > *I'm hungry! When will the food be ready?*
 
+**Phrases & Expressions:**
+- **Ich habe Hunger! Wann ist das Essen fertig** — *I'm hungry! When will the food be ready* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 13a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

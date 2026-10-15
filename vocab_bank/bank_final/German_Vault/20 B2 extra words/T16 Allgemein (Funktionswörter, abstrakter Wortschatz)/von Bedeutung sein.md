@@ -26,6 +26,10 @@ status: "new"
 > Für unsere Entscheidung ist der Preis nicht von Bedeutung.
 > *The price is not of importance for our decision.*
 
+**Phrases & Expressions:**
+- **von großer Bedeutung sein** — *to be of importance*
+- **von Bedeutung für + Akk.** — *to be of importance*
+
 **Collocations**
 - von großer Bedeutung sein
 - von Bedeutung für + Akk.

@@ -33,6 +33,11 @@ status: "new"
 > Wegen der vielen Quallen konnten wir nicht baden.
 > *Because of the many jellyfish we could not swim.*
 
+**Phrases & Expressions:**
+- **von einer Qualle gestochen werden** — *jellyfish*
+- **Quallen im Wasser** — *jellyfish*
+- **eine giftige Qualle** — *jellyfish*
+
 **Collocations**
 - von einer Qualle gestochen werden
 - Quallen im Wasser

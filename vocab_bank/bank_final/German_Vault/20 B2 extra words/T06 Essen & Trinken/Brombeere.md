@@ -33,6 +33,11 @@ status: "new"
 > Im Herbst gehen wir Brombeeren pflücken.
 > *In autumn we go blackberry picking.*
 
+**Phrases & Expressions:**
+- **Brombeeren pflücken** — *blackberry*
+- **wilde Brombeeren** — *blackberry*
+- **Brombeermarmelade** — *blackberry*
+
 **Collocations**
 - Brombeeren pflücken
 - wilde Brombeeren

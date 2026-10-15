@@ -30,6 +30,9 @@ status: "new"
 > Wir essen heute mexikanisch.
 > *Today we are eating Mexican food.*
 
+**Phrases & Expressions:**
+- **Wir essen heute mexikanisch** — *Today we are eating Mexican food* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

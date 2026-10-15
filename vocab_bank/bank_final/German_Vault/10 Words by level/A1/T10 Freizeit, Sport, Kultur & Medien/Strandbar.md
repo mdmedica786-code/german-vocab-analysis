@@ -34,6 +34,9 @@ status: "new"
 > Abends gehen wir in die Strandbar.
 > *In the evenings we go to the beach bar.*
 
+**Phrases & Expressions:**
+- **Abends gehen wir in die Strandbar** — *In the evenings we go to the beach bar* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Kulisse des Theaterstücks ist sehr schön.
 > *The scenery of the play is very beautiful.*
 
+**Phrases & Expressions:**
+- **Die Kulisse des Theaterstücks ist sehr schön** — *The scenery of the play is very beautiful* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!)
 <!-- bank:end -->
 

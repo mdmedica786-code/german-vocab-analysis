@@ -34,6 +34,13 @@ status: "new"
 > Seit dem Umzug gab es viele Veränderungen.
 > *Since the move there have been many changes.*
 
+**Phrases & Expressions:**
+- **Wie ist Ihr Stuhlgang? Gab es Veränderungen?** — What are your bowel movements like? Have there been changes? *([[FSP-06 Systemanamnese (Organsysteme)|Magen-Darm]] · B1)*
+- **eine Veränderung bewirken** — *change*
+- **große Veränderungen** — *change*
+- **sich auf Veränderungen einstellen** — *change*
+- **positive Veränderung** — *change*
+
 **Collocations**
 - eine Veränderung bewirken
 - große Veränderungen

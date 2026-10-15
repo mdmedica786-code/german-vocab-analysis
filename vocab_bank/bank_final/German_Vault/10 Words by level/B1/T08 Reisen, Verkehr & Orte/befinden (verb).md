@@ -34,6 +34,14 @@ status: "new"
 > Das Bord-Bistro befindet sich in der Mitte des Zuges.
 > *The bistro car is in the middle of the train.*
 
+**Phrases & Expressions:**
+- **... befindet sich ...** — is located ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B2)*
+- **sich befinden** — to be located *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B2)*
+- **Der Patient befindet sich in einem reduzierten Allgemeinzustand.** — The patient is in a reduced general condition. *([[FSP-08 Befunde beschreiben und berichten|Allgemeinzustand beschreiben]] · B2)*
+- **Wir berichten über Ihren Patienten ..., der sich vom ... bis ... in unserer stationären Behandlung befand.** — We are reporting on your patient ..., who was under our inpatient care from ... to ... *([[FSP-20 Arztbrief und Dokumentation|Anlass nennen]] · C1)*
+- **sich in der Mitte befinden** — *to be located*
+- **sich im Krankenhaus befinden** — *to be located*
+
 **Collocations**
 - sich in der Mitte befinden
 - sich im Krankenhaus befinden

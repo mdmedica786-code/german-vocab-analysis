@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Koalition hat sich geeinigt.
 > *The coalition has reached an agreement.*
+
+**Phrases & Expressions:**
+- **Die Koalition hat sich geeinigt** — *The coalition has reached an agreement* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Zum Essen trinken wir Rotwein.
 > *We drink red wine with the meal.*
+
+**Phrases & Expressions:**
+- **Zum Essen trinken wir Rotwein** — *We drink red wine with the meal* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

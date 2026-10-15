@@ -30,6 +30,9 @@ status: "new"
 > Das Hotel ist wirklich top.
 > *The hotel is really top.*
 
+**Phrases & Expressions:**
+- **Das Hotel ist wirklich top** — *The hotel is really top* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3c (Meine Wohnung)
 <!-- bank:end -->
 

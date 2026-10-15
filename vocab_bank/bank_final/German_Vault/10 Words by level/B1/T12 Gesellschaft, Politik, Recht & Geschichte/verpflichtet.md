@@ -30,6 +30,12 @@ status: "new"
 > Sie sind verpflichtet, den Unfall zu melden.
 > *You are obliged to report the accident.*
 
+**Phrases & Expressions:**
+- **verpflichtet sein** — *obliged; committed*
+- **gesetzlich verpflichtet** — *obliged; committed*
+- **sich verpflichtet fühlen** — *obliged; committed*
+- **zur Verschwiegenheit verpflichtet** — *obliged; committed*
+
 **Collocations**
 - verpflichtet sein
 - gesetzlich verpflichtet

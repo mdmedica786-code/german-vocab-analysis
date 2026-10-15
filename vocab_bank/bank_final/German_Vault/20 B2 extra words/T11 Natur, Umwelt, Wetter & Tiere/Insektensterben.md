@@ -33,6 +33,11 @@ status: "new"
 > Das Insektensterben bedroht die Bestäubung vieler Pflanzen.
 > *The insect decline threatens the pollination of many plants.*
 
+**Phrases & Expressions:**
+- **das Insektensterben stoppen** — *insect decline*
+- **Ursachen des Insektensterbens** — *insect decline*
+- **Insektensterben bekämpfen** — *insect decline*
+
 **Collocations**
 - das Insektensterben stoppen
 - Ursachen des Insektensterbens

@@ -34,6 +34,9 @@ status: "new"
 > Welche Süßigkeiten isst du am liebsten?
 > *Which sweets do you like best?*
 
+**Phrases & Expressions:**
+- **Welche Süßigkeiten isst du am liebsten** — *Which sweets do you like best* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

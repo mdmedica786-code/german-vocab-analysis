@@ -30,6 +30,13 @@ status: "new"
 > Das Auto ist vielleicht noch 1000 Euro wert.
 > *The car is perhaps still worth 1,000 euros.*
 
+**Phrases & Expressions:**
+- **Messen Sie bitte täglich Ihren Blutdruck und notieren Sie die Werte.** — Please measure your blood pressure daily and note the values. *([[FSP-11 Therapie und Medikamente erklären|Selbstmanagement]] · B2)*
+- **viel wert sein** — *worth*
+- **nichts wert sein** — *worth*
+- **der Mühe wert** — *worth*
+- **sehenswert** — *worth*
+
 **Collocations**
 - viel wert sein
 - nichts wert sein

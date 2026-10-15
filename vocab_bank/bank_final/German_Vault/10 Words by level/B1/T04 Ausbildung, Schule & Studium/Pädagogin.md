@@ -34,6 +34,9 @@ status: "new"
 > Die Pädagogin kennt sich mit Kindern gut aus.
 > *The educator is very good with children.*
 
+**Phrases & Expressions:**
+- **Die Pädagogin kennt sich mit Kindern gut aus** — *The educator is very good with children* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 5b (Blick nach vorn)
 <!-- bank:end -->
 

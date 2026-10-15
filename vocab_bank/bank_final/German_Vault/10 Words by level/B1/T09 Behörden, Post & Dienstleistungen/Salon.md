@@ -34,6 +34,9 @@ status: "new"
 > Sie arbeitet als Friseurin in einem Salon.
 > *She works as a hairdresser in a salon.*
 
+**Phrases & Expressions:**
+- **Sie arbeitet als Friseurin in einem Salon** — *She works as a hairdresser in a salon* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

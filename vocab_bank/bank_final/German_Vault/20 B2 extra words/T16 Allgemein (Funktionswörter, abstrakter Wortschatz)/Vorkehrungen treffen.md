@@ -26,6 +26,11 @@ status: "new"
 > Die Stadt hat Vorkehrungen gegen Hochwasser getroffen.
 > *The city has taken precautions against flooding.*
 
+**Phrases & Expressions:**
+- **Vorkehrungen gegen etwas treffen** — *to take precautions*
+- **rechtzeitig Vorkehrungen treffen** — *to take precautions*
+- **Maßnahmen ergreifen** — *to take precautions*
+
 **Collocations**
 - Vorkehrungen gegen etwas treffen
 - rechtzeitig Vorkehrungen treffen

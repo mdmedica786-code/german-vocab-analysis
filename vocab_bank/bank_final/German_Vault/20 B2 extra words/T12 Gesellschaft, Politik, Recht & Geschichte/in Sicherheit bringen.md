@@ -26,6 +26,10 @@ status: "new"
 > Die Feuerwehr brachte die Bewohner in Sicherheit.
 > *The fire brigade brought the residents to safety.*
 
+**Phrases & Expressions:**
+- **sich in Sicherheit bringen** — *to bring to safety*
+- **in Sicherheit sein** — *to bring to safety*
+
 **Collocations**
 - sich in Sicherheit bringen
 - in Sicherheit sein

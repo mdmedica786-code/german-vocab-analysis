@@ -29,6 +29,11 @@ status: "new"
 > Derartige Probleme habe ich noch nie gehabt.
 > *I have never had such problems before.*
 
+**Phrases & Expressions:**
+- **derartige Probleme** — *such; of that kind*
+- **in derartigen Fällen** — *such; of that kind*
+- **derartig groß** — *such; of that kind*
+
 **Collocations**
 - derartige Probleme
 - in derartigen Fällen

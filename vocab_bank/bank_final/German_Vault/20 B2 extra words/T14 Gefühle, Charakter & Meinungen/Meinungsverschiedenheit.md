@@ -33,6 +33,11 @@ status: "new"
 > Zwischen den Kollegen gab es eine Meinungsverschiedenheit.
 > *There was a difference of opinion between the colleagues.*
 
+**Phrases & Expressions:**
+- **eine Meinungsverschiedenheit haben** — *difference of opinion; disagreement*
+- **Meinungsverschiedenheiten beilegen** — *difference of opinion; disagreement*
+- **eine kleine Meinungsverschiedenheit** — *difference of opinion; disagreement*
+
 **Collocations**
 - eine Meinungsverschiedenheit haben
 - Meinungsverschiedenheiten beilegen

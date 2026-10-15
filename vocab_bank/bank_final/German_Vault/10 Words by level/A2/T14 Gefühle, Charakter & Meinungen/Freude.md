@@ -35,6 +35,9 @@ status: "new"
 > Diese Arbeit macht mir viel Freude.
 > *This work gives me a lot of joy.*
 
+**Phrases & Expressions:**
+- **Diese Arbeit macht mir viel Freude** — *This work gives me a lot of joy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 8b (Große und kleine Gefühle) · Goethe word list B1
 <!-- bank:end -->
 

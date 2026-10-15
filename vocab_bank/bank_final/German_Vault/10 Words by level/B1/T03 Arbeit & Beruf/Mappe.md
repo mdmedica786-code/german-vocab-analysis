@@ -34,6 +34,9 @@ status: "new"
 > Mein Pass ist in dieser Mappe.
 > *My passport is in this folder.*
 
+**Phrases & Expressions:**
+- **Mein Pass ist in dieser Mappe** — *My passport is in this folder* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

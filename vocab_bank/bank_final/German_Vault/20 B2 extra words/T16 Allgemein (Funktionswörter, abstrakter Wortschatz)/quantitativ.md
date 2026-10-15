@@ -29,6 +29,11 @@ status: "new"
 > Die Studie liefert quantitative Daten.
 > *The study provides quantitative data.*
 
+**Phrases & Expressions:**
+- **quantitative Daten** — *quantitative*
+- **quantitativ erfassen** — *quantitative*
+- **eine quantitative Analyse** — *quantitative*
+
 **Collocations**
 - quantitative Daten
 - quantitativ erfassen

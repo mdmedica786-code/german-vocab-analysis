@@ -33,6 +33,11 @@ status: "new"
 > Dieses Schimpfwort sollte man nicht benutzen.
 > *You should not use this swear word.*
 
+**Phrases & Expressions:**
+- **ein Schimpfwort benutzen** — *swear word; insult*
+- **Schimpfwörter lernen** — *swear word; insult*
+- **ein übles Schimpfwort** — *swear word; insult*
+
 **Collocations**
 - ein Schimpfwort benutzen
 - Schimpfwörter lernen

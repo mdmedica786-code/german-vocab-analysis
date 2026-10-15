@@ -31,6 +31,9 @@ status: "new"
 > Am Textanfang steht eine kurze Einleitung.
 > *At the beginning of the text there is a short introduction.*
 
+**Phrases & Expressions:**
+- **Am Textanfang steht eine kurze Einleitung** — *At the beginning of the text there is a short introduction* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12c (Zusammen leben)
 <!-- bank:end -->
 

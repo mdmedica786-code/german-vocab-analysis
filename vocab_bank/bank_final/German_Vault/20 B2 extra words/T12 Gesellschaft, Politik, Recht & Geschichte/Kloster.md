@@ -33,6 +33,11 @@ status: "new"
 > Das Kloster liegt auf einem Berg.
 > *The monastery lies on a mountain.*
 
+**Phrases & Expressions:**
+- **ins Kloster gehen** — *monastery; convent*
+- **ein altes Kloster** — *monastery; convent*
+- **das Kloster besichtigen** — *monastery; convent*
+
 **Collocations**
 - ins Kloster gehen
 - ein altes Kloster

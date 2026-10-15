@@ -33,6 +33,10 @@ status: "new"
 > Das kann man nicht ganz ausschließen.
 > *You can't completely rule that out.*
 
+**Phrases & Expressions:**
+- **Schwere Komplikationen sind sehr selten, aber nicht ausgeschlossen.** — Serious complications are very rare but not ruled out. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Risiken nennen]] · B2)*
+- **Differenzialdiagnostisch müssen wir auch eine Lungenembolie ausschließen.** — As differential diagnosis we must also rule out pulmonary embolism. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Differenzialdiagnosen nennen]] · C1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

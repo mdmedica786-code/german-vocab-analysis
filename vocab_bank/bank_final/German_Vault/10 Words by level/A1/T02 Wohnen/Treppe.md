@@ -35,6 +35,9 @@ status: "new"
 > Die Toilette? Die Treppe hoch und dann links.
 > *The toilet? Up the stairs and then left.*
 
+**Phrases & Expressions:**
+- **Die Toilette? Die Treppe hoch und dann links** — *The toilet? Up the stairs and then left* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 10a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

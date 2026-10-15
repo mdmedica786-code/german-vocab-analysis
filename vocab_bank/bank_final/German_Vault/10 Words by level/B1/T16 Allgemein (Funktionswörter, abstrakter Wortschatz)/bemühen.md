@@ -33,6 +33,9 @@ status: "new"
 > Er hat sich sehr bemüht, etwas Gutes zu kochen.
 > *He tried hard to cook something good.*
 
+**Phrases & Expressions:**
+- **Er hat sich sehr bemüht, etwas Gutes zu kochen** — *He tried hard to cook something good* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

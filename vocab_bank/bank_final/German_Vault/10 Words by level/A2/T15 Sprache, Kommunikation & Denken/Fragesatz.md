@@ -34,6 +34,9 @@ status: "new"
 > Ein Fragesatz endet mit einem Fragezeichen.
 > *An interrogative clause ends with a question mark.*
 
+**Phrases & Expressions:**
+- **Ein Fragesatz endet mit einem Fragezeichen** — *An interrogative clause ends with a question mark* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 4b (Ganz schön mobil)
 <!-- bank:end -->
 

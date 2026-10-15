@@ -31,6 +31,12 @@ status: "new"
 > Das Stadtzentrum von Frankfurt ist sehr modern.
 > *The city centre of Frankfurt is very modern.*
 
+**Phrases & Expressions:**
+- **modern eingerichtet** — *modern*
+- **moderne Technik** — *modern*
+- **moderne Kunst** — *modern*
+- **modern denken** — *modern*
+
 **Collocations**
 - modern eingerichtet
 - moderne Technik

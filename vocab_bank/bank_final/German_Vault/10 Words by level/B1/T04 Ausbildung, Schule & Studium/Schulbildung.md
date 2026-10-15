@@ -34,6 +34,9 @@ status: "new"
 > Eine gute Schulbildung ist wichtig.
 > *A good school education is important.*
 
+**Phrases & Expressions:**
+- **Eine gute Schulbildung ist wichtig** — *A good school education is important* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 1a (Veränderungen)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Ich habe im Urlaub eine nette Bekanntschaft gemacht.
 > *I made a nice acquaintance on holiday.*
 
+**Phrases & Expressions:**
+- **eine Bekanntschaft machen** — *acquaintance; getting to know someone*
+- **jemandes Bekanntschaft machen** — *acquaintance; getting to know someone*
+- **eine flüchtige Bekanntschaft** — *acquaintance; getting to know someone*
+
 **Collocations**
 - eine Bekanntschaft machen
 - jemandes Bekanntschaft machen

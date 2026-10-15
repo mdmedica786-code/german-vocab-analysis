@@ -34,6 +34,9 @@ status: "new"
 > Ist das Feuerzeug neu?
 > *Is the lighter new?*
 
+**Phrases & Expressions:**
+- **Ist das Feuerzeug neu** — *Is the lighter new* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

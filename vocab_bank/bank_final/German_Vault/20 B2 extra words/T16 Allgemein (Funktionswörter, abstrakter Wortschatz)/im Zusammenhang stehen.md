@@ -26,6 +26,10 @@ status: "new"
 > Die Krankheitsfälle stehen im Zusammenhang mit dem Ausflug.
 > *The cases of illness are connected with the outing.*
 
+**Phrases & Expressions:**
+- **im Zusammenhang stehen mit + Dat.** — *to be connected*
+- **im Zusammenhang mit** — *to be connected*
+
 **Collocations**
 - im Zusammenhang stehen mit + Dat.
 - im Zusammenhang mit

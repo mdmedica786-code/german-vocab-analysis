@@ -33,6 +33,11 @@ status: "new"
 > An der Schule gibt es Projekte zur Berufsorientierung.
 > *At school there are projects for career orientation.*
 
+**Phrases & Expressions:**
+- **Berufsorientierung anbieten** — *career orientation*
+- **Praktikum zur Berufsorientierung** — *career orientation*
+- **Berufsorientierung für Schüler** — *career orientation*
+
 **Collocations**
 - Berufsorientierung anbieten
 - Praktikum zur Berufsorientierung

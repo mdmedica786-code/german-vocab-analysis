@@ -29,6 +29,11 @@ status: "new"
 > Dieser Satz ist aktivisch formuliert.
 > *This sentence is worded in the active voice.*
 
+**Phrases & Expressions:**
+- **aktivisch formulieren** — *in the active voice*
+- **ein aktivischer Satz** — *in the active voice*
+- **aktivisch und passivisch** — *in the active voice*
+
 **Collocations**
 - aktivisch formulieren
 - ein aktivischer Satz

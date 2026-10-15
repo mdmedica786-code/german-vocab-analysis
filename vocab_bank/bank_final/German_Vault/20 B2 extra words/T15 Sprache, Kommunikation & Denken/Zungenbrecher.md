@@ -33,6 +33,11 @@ status: "new"
 > »Fischers Fritz fischt frische Fische« ist ein bekannter Zungenbrecher.
 > *"Fischers Fritz fischt frische Fische" is a well-known tongue twister.*
 
+**Phrases & Expressions:**
+- **ein Zungenbrecher sein** — *tongue twister*
+- **Zungenbrecher üben** — *tongue twister*
+- **einen Zungenbrecher aufsagen** — *tongue twister*
+
 **Collocations**
 - ein Zungenbrecher sein
 - Zungenbrecher üben

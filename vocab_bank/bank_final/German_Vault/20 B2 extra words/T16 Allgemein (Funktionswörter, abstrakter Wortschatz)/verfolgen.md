@@ -31,6 +31,11 @@ status: "new"
 > Er verfolgt sein Ziel mit großer Ausdauer.
 > *He pursues his goal with great perseverance.*
 
+**Phrases & Expressions:**
+- **ein Ziel verfolgen** — *to pursue; to follow; to chase*
+- **die Nachrichten verfolgen** — *to pursue; to follow; to chase*
+- **eine Spur verfolgen** — *to pursue; to follow; to chase*
+
 **Collocations**
 - ein Ziel verfolgen
 - die Nachrichten verfolgen

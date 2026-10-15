@@ -34,6 +34,10 @@ status: "new"
 > Pass auf, der Teller fällt gleich auf den Boden!
 > *Watch out, the plate is about to fall on the floor!*
 
+**Phrases & Expressions:**
+- **Ja, das passt mir gut.** — Yes, that suits me well. *([[B1-05 Vorschläge machen und darauf reagieren|Vorschlag annehmen]] · B1)*
+- **Passt es dir am Freitag um 18 Uhr?** — Does Friday at 6 p.m. suit you? *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Termin vorschlagen]] · B1)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden) · Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,9 @@ status: "new"
 > Die Briefmarke klebt nicht mehr.
 > *The stamp no longer sticks.*
 
+**Phrases & Expressions:**
+- **Die Briefmarke klebt nicht mehr** — *The stamp no longer sticks* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 2a ÜB (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

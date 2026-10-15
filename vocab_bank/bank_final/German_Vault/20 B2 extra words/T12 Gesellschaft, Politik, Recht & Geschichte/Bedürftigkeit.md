@@ -33,6 +33,11 @@ status: "new"
 > Für die Hilfe muss man seine Bedürftigkeit nachweisen.
 > *To receive the help you must prove your need.*
 
+**Phrases & Expressions:**
+- **die Bedürftigkeit prüfen** — *neediness; need*
+- **Bedürftigkeit nachweisen** — *neediness; need*
+- **Prüfung der Bedürftigkeit** — *neediness; need*
+
 **Collocations**
 - die Bedürftigkeit prüfen
 - Bedürftigkeit nachweisen

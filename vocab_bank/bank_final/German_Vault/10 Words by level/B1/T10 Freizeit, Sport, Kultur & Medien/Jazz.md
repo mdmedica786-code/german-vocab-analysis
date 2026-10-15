@@ -35,6 +35,9 @@ status: "new"
 > Am Wochenende hören wir gern Jazz.
 > *At the weekend we like listening to jazz.*
 
+**Phrases & Expressions:**
+- **Am Wochenende hören wir gern Jazz** — *At the weekend we like listening to jazz* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 7b (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

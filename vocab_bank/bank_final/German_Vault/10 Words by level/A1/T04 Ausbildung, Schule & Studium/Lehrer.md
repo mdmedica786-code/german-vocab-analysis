@@ -35,6 +35,9 @@ status: "new"
 > Der Lehrer erklärt die Aufgabe noch einmal.
 > *The teacher explains the task once more.*
 
+**Phrases & Expressions:**
+- **Der Lehrer erklärt die Aufgabe noch einmal** — *The teacher explains the task once more* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

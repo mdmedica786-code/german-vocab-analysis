@@ -35,6 +35,9 @@ status: "new"
 > Mein Mann hat gute Chancen, die Stelle zu bekommen.
 > *My husband has good chances of getting the job.*
 
+**Phrases & Expressions:**
+- **Mein Mann hat gute Chancen, die Stelle zu bekommen** — *My husband has good chances of getting the job* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

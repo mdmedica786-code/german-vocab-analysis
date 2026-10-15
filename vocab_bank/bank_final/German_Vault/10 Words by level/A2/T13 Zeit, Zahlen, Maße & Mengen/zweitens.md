@@ -30,6 +30,9 @@ status: "new"
 > Zweitens ist das Zimmer zu klein.
 > *Secondly, the room is too small.*
 
+**Phrases & Expressions:**
+- **Erstens ..., zweitens ...** — Firstly ..., secondly ... *([[B1-03 Argumentieren, begründen und Beispiele nennen|Argumente aufzählen]] · B1)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

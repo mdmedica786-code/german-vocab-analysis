@@ -33,6 +33,11 @@ status: "new"
 > Welche Sorte Kaffee möchten Sie?
 > *Which kind of coffee would you like?*
 
+**Phrases & Expressions:**
+- **eine Sorte Kaffee** — *kind; sort; variety*
+- **verschiedene Sorten** — *kind; sort; variety*
+- **eine neue Sorte** — *kind; sort; variety*
+
 **Collocations**
 - eine Sorte Kaffee
 - verschiedene Sorten

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Möchten Sie Tee oder Kaffee? – Beides, bitte.
 > *Would you like tea or coffee? – Both, please.*
+
+**Phrases & Expressions:**
+- **Wie wäre es, wenn wir beides machen?** — How about doing both? *([[B1-05 Vorschläge machen und darauf reagieren|Kompromiss finden]] · B1)*
 <!-- bank:end -->
 
 ## My notes

@@ -34,6 +34,9 @@ status: "new"
 > Eine gute Zeiteinteilung hilft im Studium.
 > *Good time management helps with studying.*
 
+**Phrases & Expressions:**
+- **Eine gute Zeiteinteilung hilft im Studium** — *Good time management helps with studying* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 12a (Arbeitswelt)
 <!-- bank:end -->
 

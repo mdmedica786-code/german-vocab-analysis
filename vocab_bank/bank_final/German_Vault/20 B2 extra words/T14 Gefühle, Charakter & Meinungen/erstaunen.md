@@ -31,6 +31,11 @@ status: "new"
 > Ihre Leistung erstaunt mich immer wieder.
 > *Her performance amazes me again and again.*
 
+**Phrases & Expressions:**
+- **jemanden erstaunen** — *to astonish; to amaze*
+- **erstaunt sein über** — *to astonish; to amaze*
+- **sehr erstaunlich** — *to astonish; to amaze*
+
 **Collocations**
 - jemanden erstaunen
 - erstaunt sein über

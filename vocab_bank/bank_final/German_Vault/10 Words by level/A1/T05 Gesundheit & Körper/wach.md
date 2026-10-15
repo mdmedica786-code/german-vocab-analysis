@@ -31,6 +31,11 @@ status: "new"
 > Bist du schon lange wach?
 > *Have you been awake for long?*
 
+**Phrases & Expressions:**
+- **Wachen Sie nachts mit Luftnot auf?** — Do you wake up at night short of breath? *([[FSP-06 Systemanamnese (Organsysteme)|Atmung]] · B2)*
+- **Neurologisch ist der Patient wach, orientiert und kooperativ.** — Neurologically the patient is awake, oriented and cooperative. *([[FSP-08 Befunde beschreiben und berichten|Neurologischer Kurzstatus]] · B2)*
+- **Bei einer örtlichen Betäubung sind Sie wach, spüren aber keinen Schmerz.** — With local anaesthesia you are awake but feel no pain. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Narkose erklären]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

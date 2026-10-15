@@ -35,6 +35,9 @@ status: "new"
 > Wir haben uns eine Couch und neue Sessel gekauft.
 > *We bought ourselves a couch and new armchairs.*
 
+**Phrases & Expressions:**
+- **Wir haben uns eine Couch und neue Sessel gekauft** — *We bought ourselves a couch and new armchairs* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 10d (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

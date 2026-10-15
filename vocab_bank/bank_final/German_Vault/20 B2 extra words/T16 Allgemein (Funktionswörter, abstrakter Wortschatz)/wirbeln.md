@@ -31,6 +31,11 @@ status: "new"
 > Der Wind wirbelte die Blätter durch die Luft.
 > *The wind whirled the leaves through the air.*
 
+**Phrases & Expressions:**
+- **durch die Luft wirbeln** — *to whirl; to swirl*
+- **Staub aufwirbeln** — *to whirl; to swirl*
+- **im Kreis wirbeln** — *to whirl; to swirl*
+
 **Collocations**
 - durch die Luft wirbeln
 - Staub aufwirbeln

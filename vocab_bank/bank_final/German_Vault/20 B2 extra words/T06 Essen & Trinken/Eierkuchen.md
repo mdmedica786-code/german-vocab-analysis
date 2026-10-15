@@ -33,6 +33,11 @@ status: "new"
 > Zum Frühstück gab es Eierkuchen mit Apfelmus.
 > *For breakfast there were pancakes with apple sauce.*
 
+**Phrases & Expressions:**
+- **Eierkuchen backen** — *pancake (esp. in eastern/northern Germany)*
+- **ein Eierkuchen mit Marmelade** — *pancake (esp. in eastern/northern Germany)*
+- **Eierkuchen essen** — *pancake (esp. in eastern/northern Germany)*
+
 **Collocations**
 - Eierkuchen backen
 - ein Eierkuchen mit Marmelade

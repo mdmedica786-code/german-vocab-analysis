@@ -30,6 +30,11 @@ status: "new"
 > Die Frässpindel muss regelmäßig gewartet werden.
 > *The milling spindle has to be maintained regularly.*
 
+**Phrases & Expressions:**
+- **die Frässpindel wechseln** — *milling spindle*
+- **die Frässpindel schmieren** — *milling spindle*
+- **eine schnelle Frässpindel** — *milling spindle*
+
 **Collocations**
 - die Frässpindel wechseln
 - die Frässpindel schmieren

@@ -35,6 +35,14 @@ status: "new"
 > Ich muss unser Treffen leider absagen, weil ich krank geworden bin.
 > **
 
+**Phrases & Expressions:**
+- **ab und zu** — now and then *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **... sagt, dass ...** — ... says that ... *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **Das hängt davon ab, ob ...** — That depends on whether ... *([[B1-04 Vor- und Nachteile nennen|Abwägen]] · B1)*
+- **Wie sagt man ... auf Deutsch?** — How do you say ... in German? *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Wort erfragen]] · B1)*
+- **Ich muss leider absagen, weil ich schon etwas vorhabe.** — Unfortunately I have to decline because I already have plans. *([[B1-18 Einladen, zusagen und absagen|Mit Begründung absagen]] · B1)*
+- **Ich lehne das ab, weil ...** — I reject that because ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Position beziehen]] · B2)*
+
 **Source:** Netzwerk neu A2 K1 8b (Und was machst du?) · Goethe word list B1
 <!-- bank:end -->
 

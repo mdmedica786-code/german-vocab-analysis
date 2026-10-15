@@ -29,6 +29,11 @@ status: "new"
 > Sie ist eine ehrgeizige junge Anwältin.
 > *She is an ambitious young lawyer.*
 
+**Phrases & Expressions:**
+- **ein ehrgeiziges Ziel** — *ambitious*
+- **ehrgeizig sein** — *ambitious*
+- **ein ehrgeiziger Plan** — *ambitious*
+
 **Collocations**
 - ein ehrgeiziges Ziel
 - ehrgeizig sein

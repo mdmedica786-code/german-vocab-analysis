@@ -33,6 +33,11 @@ status: "new"
 > Während der Brutzeit sollte man Vögel nicht stören.
 > *During the breeding season one should not disturb birds.*
 
+**Phrases & Expressions:**
+- **in der Brutzeit** — *breeding season*
+- **die Brutzeit beginnt** — *breeding season*
+- **Brutzeit der Vögel** — *breeding season*
+
 **Collocations**
 - in der Brutzeit
 - die Brutzeit beginnt

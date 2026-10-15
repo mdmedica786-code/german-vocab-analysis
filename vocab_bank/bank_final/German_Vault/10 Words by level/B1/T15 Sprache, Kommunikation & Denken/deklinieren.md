@@ -32,6 +32,9 @@ status: "new"
 > Im Deutschunterricht lernen wir, Nomen zu deklinieren.
 > *In German class we learn to decline nouns.*
 
+**Phrases & Expressions:**
+- **Im Deutschunterricht lernen wir, Nomen zu deklinieren** — *In German class we learn to decline nouns* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13e (Umweltfreundlich?)
 <!-- bank:end -->
 

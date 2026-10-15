@@ -35,6 +35,9 @@ status: "new"
 > Sie hat großes Talent für Musik.
 > *She has great talent for music.*
 
+**Phrases & Expressions:**
+- **Sie hat großes Talent für Musik** — *She has great talent for music* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12b (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

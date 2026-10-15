@@ -33,6 +33,11 @@ status: "new"
 > Die Bürozeiten sind von acht bis siebzehn Uhr.
 > *The office hours are from eight to five.*
 
+**Phrases & Expressions:**
+- **die üblichen Bürozeiten** — *office hours*
+- **während der Bürozeit** — *office hours*
+- **feste Bürozeiten** — *office hours*
+
 **Collocations**
 - die üblichen Bürozeiten
 - während der Bürozeit

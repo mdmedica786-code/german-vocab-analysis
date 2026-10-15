@@ -35,6 +35,11 @@ status: "new"
 > Es hat keinen Sinn, noch ein Spiel zu beginnen. Es ist schon spät.
 > *There's no point in starting another game. It's already late.*
 
+**Phrases & Expressions:**
+- **in diesem Sinne** — in this spirit *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **im engeren Sinne** — in the narrower sense *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **keinen Sinn machen** — to make no sense *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+
 **Source:** Netzwerk neu A2 K1 9c (Und was machst du?) · Goethe word list B1
 <!-- bank:end -->
 

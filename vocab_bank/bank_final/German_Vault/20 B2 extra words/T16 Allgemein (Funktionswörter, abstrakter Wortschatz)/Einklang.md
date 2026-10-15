@@ -33,6 +33,11 @@ status: "new"
 > Beruf und Privatleben lassen sich schwer in Einklang bringen.
 > *Work and private life are hard to bring into harmony.*
 
+**Phrases & Expressions:**
+- **im Einklang sein** — *harmony; accord*
+- **im Einklang stehen mit** — *harmony; accord*
+- **mit etwas in Einklang bringen** — *harmony; accord*
+
 **Collocations**
 - im Einklang sein
 - im Einklang stehen mit

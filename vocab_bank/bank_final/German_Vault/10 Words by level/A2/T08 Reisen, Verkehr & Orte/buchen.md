@@ -33,6 +33,9 @@ status: "new"
 > Morgen buche ich unsere Urlaubsreise.
 > *Tomorrow I'm booking our holiday trip.*
 
+**Phrases & Expressions:**
+- **Morgen buche ich unsere Urlaubsreise** — *Tomorrow I'm booking our holiday trip* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil) · Goethe word list A2
 <!-- bank:end -->
 

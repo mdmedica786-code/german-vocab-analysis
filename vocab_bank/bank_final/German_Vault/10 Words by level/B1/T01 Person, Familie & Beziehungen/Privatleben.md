@@ -34,6 +34,9 @@ status: "new"
 > Mein Privatleben ist mir wichtig.
 > *My private life is important to me.*
 
+**Phrases & Expressions:**
+- **Mein Privatleben ist mir wichtig** — *My private life is important to me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

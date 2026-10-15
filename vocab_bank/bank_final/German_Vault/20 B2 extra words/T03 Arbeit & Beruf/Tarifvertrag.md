@@ -33,6 +33,11 @@ status: "new"
 > Der neue Tarifvertrag gilt ab dem 1. Januar.
 > *The new collective agreement applies from 1 January.*
 
+**Phrases & Expressions:**
+- **nach Tarifvertrag** — *collective agreement*
+- **einen Tarifvertrag abschließen** — *collective agreement*
+- **Tarifvertrag aushandeln** — *collective agreement*
+
 **Collocations**
 - nach Tarifvertrag
 - einen Tarifvertrag abschließen

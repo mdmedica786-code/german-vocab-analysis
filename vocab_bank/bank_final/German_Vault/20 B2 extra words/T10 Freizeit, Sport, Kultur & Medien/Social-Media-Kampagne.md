@@ -30,6 +30,11 @@ status: "new"
 > Die Social-Media-Kampagne erreichte viele junge Leute.
 > *The social media campaign reached many young people.*
 
+**Phrases & Expressions:**
+- **eine Social-Media-Kampagne starten** — *social media campaign*
+- **eine erfolgreiche Social-Media-Kampagne** — *social media campaign*
+- **eine Social-Media-Kampagne planen** — *social media campaign*
+
 **Collocations**
 - eine Social-Media-Kampagne starten
 - eine erfolgreiche Social-Media-Kampagne

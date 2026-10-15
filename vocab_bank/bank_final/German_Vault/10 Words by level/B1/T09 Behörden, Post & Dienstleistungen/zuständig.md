@@ -31,6 +31,9 @@ status: "new"
 > Wir haben ein Problem mit der Heizung. Wer ist dafür zuständig?
 > *We have a problem with the heating. Who is responsible for that?*
 
+**Phrases & Expressions:**
+- **Ich bin heute für Ihre Aufnahme zuständig.** — I am responsible for your admission today. *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Sich vorstellen]] · B1)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

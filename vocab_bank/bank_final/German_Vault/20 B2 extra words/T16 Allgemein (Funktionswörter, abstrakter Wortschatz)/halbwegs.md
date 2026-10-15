@@ -29,6 +29,11 @@ status: "new"
 > Wenn es halbwegs trocken ist, gehen wir spazieren.
 > *If it is reasonably dry, we will go for a walk.*
 
+**Phrases & Expressions:**
+- **halbwegs gut** — *reasonably; more or less*
+- **halbwegs sicher** — *reasonably; more or less*
+- **halbwegs vernünftig** — *reasonably; more or less*
+
 **Collocations**
 - halbwegs gut
 - halbwegs sicher

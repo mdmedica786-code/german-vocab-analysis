@@ -36,6 +36,9 @@ status: "new"
 > Dieser Lastkraftwagen ist sehr groß.
 > *This lorry is very big.*
 
+**Phrases & Expressions:**
+- **Dieser Lastkraftwagen ist sehr groß** — *This lorry is very big* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten) · Goethe word list A1
 <!-- bank:end -->
 

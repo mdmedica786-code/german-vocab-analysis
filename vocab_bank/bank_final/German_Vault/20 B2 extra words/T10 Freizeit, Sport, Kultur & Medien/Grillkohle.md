@@ -33,6 +33,11 @@ status: "new"
 > Wir brauchen noch Grillkohle für heute Abend.
 > *We still need charcoal for this evening.*
 
+**Phrases & Expressions:**
+- **Grillkohle kaufen** — *charcoal (for barbecue)*
+- **die Grillkohle anzünden** — *charcoal (for barbecue)*
+- **ein Sack Grillkohle** — *charcoal (for barbecue)*
+
 **Collocations**
 - Grillkohle kaufen
 - die Grillkohle anzünden

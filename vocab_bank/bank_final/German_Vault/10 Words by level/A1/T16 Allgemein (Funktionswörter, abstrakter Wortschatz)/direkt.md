@@ -31,6 +31,13 @@ status: "new"
 > Die Wohnung ist direkt am Bahnhof.
 > *The flat is right at central station.*
 
+**Phrases & Expressions:**
+- **Das Haus steht direkt neben dem Park.** — The house stands right next to the park. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ort beschreiben]] · B1)*
+- **direkt fahren** — *direct*
+- **ein direkter Zug** — *direct*
+- **direkt am Bahnhof** — *direct*
+- **direkt fragen** — *direct*
+
 **Collocations**
 - direkt fahren
 - ein direkter Zug

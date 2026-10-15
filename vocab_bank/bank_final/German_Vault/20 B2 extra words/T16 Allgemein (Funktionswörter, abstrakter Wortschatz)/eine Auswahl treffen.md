@@ -26,6 +26,10 @@ status: "new"
 > Aus den vielen Bewerbern müssen wir eine Auswahl treffen.
 > *From the many applicants we have to make a selection.*
 
+**Phrases & Expressions:**
+- **die richtige Auswahl treffen** — *to make a selection*
+- **aus etwas auswählen** — *to make a selection*
+
 **Collocations**
 - die richtige Auswahl treffen
 - aus etwas auswählen

@@ -30,6 +30,9 @@ status: "new"
 > Die Reparatur ist sehr aufwändig.
 > *The repair is very laborious.*
 
+**Phrases & Expressions:**
+- **Die Reparatur ist sehr aufwändig** — *The repair is very laborious* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13c (Umweltfreundlich?)
 <!-- bank:end -->
 

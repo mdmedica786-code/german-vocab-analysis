@@ -33,6 +33,11 @@ status: "new"
 > Jede Wählerin hat eine Stimme.
 > *Every voter has one vote.*
 
+**Phrases & Expressions:**
+- **eine Wählerin überzeugen** — *voter (female)*
+- **die Wählerinnen und Wähler** — *voter (female)*
+- **Wählerinnen ansprechen** — *voter (female)*
+
 **Collocations**
 - eine Wählerin überzeugen
 - die Wählerinnen und Wähler

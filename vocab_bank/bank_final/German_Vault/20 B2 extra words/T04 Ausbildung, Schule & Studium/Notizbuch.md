@@ -33,6 +33,11 @@ status: "new"
 > Ich schreibe die neuen Wörter in mein Notizbuch.
 > *I write the new words in my notebook.*
 
+**Phrases & Expressions:**
+- **ins Notizbuch schreiben** — *notebook*
+- **ein Notizbuch führen** — *notebook*
+- **Notizbuch und Stift** — *notebook*
+
 **Collocations**
 - ins Notizbuch schreiben
 - ein Notizbuch führen

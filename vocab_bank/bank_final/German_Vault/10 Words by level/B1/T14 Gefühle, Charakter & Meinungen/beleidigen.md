@@ -32,6 +32,9 @@ status: "new"
 > Ich wollte Sie nicht beleidigen.
 > *I did not want to insult you.*
 
+**Phrases & Expressions:**
+- **Ich wollte Sie nicht beleidigen** — *I did not want to insult you* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

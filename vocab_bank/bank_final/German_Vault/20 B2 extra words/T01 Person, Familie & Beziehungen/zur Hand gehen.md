@@ -29,6 +29,10 @@ status: "new"
 > Er geht seiner Mutter im Haushalt zur Hand.
 > *He lends his mother a hand with the housework.*
 
+**Phrases & Expressions:**
+- **jemandem zur Hand gehen** — *to lend a hand*
+- **zur Hand haben** — *to lend a hand*
+
 **Collocations**
 - jemandem zur Hand gehen
 - zur Hand haben

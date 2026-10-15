@@ -33,6 +33,11 @@ status: "new"
 > Bei Vertragsabschluss muss man eine Kaution hinterlegen.
 > *When concluding the contract you have to deposit a security.*
 
+**Phrases & Expressions:**
+- **bei Vertragsabschluss** — *conclusion of a contract*
+- **nach Vertragsabschluss** — *conclusion of a contract*
+- **der Vertragsabschluss kommt zustande** — *conclusion of a contract*
+
 **Collocations**
 - bei Vertragsabschluss
 - nach Vertragsabschluss

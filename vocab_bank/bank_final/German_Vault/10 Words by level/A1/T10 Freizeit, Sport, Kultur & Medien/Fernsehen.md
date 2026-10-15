@@ -35,6 +35,9 @@ status: "new"
 > Gestern war ein Fußballspiel im Fernsehen.
 > *There was a football game on the television yesterday.*
 
+**Phrases & Expressions:**
+- **Gestern war ein Fußballspiel im Fernsehen** — *There was a football game on the television yesterday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 9c (Arbeitsalltag) · Goethe word list B1
 <!-- bank:end -->
 

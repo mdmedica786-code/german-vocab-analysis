@@ -29,6 +29,11 @@ status: "new"
 > Diese Pflanze ist mehrjährig und blüht jedes Jahr.
 > *This plant is perennial and blooms every year.*
 
+**Phrases & Expressions:**
+- **mehrjährige Erfahrung** — *perennial; lasting several years*
+- **eine mehrjährige Pflanze** — *perennial; lasting several years*
+- **ein mehrjähriger Vertrag** — *perennial; lasting several years*
+
 **Collocations**
 - mehrjährige Erfahrung
 - eine mehrjährige Pflanze

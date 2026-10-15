@@ -34,6 +34,9 @@ status: "new"
 > Bitte prüfen Sie Ihre Kontodaten.
 > *Please check your account details.*
 
+**Phrases & Expressions:**
+- **Bitte prüfen Sie Ihre Kontodaten** — *Please check your account details* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 5a (Geld regiert die Welt?)
 <!-- bank:end -->
 

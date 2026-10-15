@@ -29,6 +29,11 @@ status: "new"
 > Das Bild hängt etwas schräg.
 > *The picture hangs slightly crooked.*
 
+**Phrases & Expressions:**
+- **schräg gegenüber** — *slanting; diagonal; odd*
+- **ein schräger Blick** — *slanting; diagonal; odd*
+- **schräg stehen** — *slanting; diagonal; odd*
+
 **Collocations**
 - schräg gegenüber
 - ein schräger Blick

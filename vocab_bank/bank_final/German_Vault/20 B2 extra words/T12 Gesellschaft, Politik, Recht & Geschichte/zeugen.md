@@ -32,6 +32,11 @@ status: "new"
 > Die Narben zeugen von einem schweren Unfall.
 > *The scars bear witness to a serious accident.*
 
+**Phrases & Expressions:**
+- **von etwas zeugen** — *to testify; to bear witness; to father*
+- **ein Kind zeugen** — *to testify; to bear witness; to father*
+- **davon zeugen, dass** — *to testify; to bear witness; to father*
+
 **Collocations**
 - von etwas zeugen
 - ein Kind zeugen

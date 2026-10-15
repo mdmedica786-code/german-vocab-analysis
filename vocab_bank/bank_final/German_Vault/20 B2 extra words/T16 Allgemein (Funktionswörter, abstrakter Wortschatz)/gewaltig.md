@@ -29,6 +29,11 @@ status: "new"
 > Ein gewaltiger Sturm zog über das Land.
 > *A mighty storm swept across the country.*
 
+**Phrases & Expressions:**
+- **ein gewaltiger Unterschied** — *huge; mighty; tremendous*
+- **gewaltige Mengen** — *huge; mighty; tremendous*
+- **sich gewaltig irren** — *huge; mighty; tremendous*
+
 **Collocations**
 - ein gewaltiger Unterschied
 - gewaltige Mengen

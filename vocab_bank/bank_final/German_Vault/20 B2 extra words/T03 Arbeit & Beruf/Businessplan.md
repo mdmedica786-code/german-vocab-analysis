@@ -33,6 +33,11 @@ status: "new"
 > Für den Kredit brauchen wir einen überzeugenden Businessplan.
 > *For the loan we need a convincing business plan.*
 
+**Phrases & Expressions:**
+- **einen Businessplan erstellen** — *business plan*
+- **einen Businessplan vorlegen** — *business plan*
+- **ein solider Businessplan** — *business plan*
+
 **Collocations**
 - einen Businessplan erstellen
 - einen Businessplan vorlegen

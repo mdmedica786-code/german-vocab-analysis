@@ -33,6 +33,9 @@ status: "new"
 > Die Ärztin hat mir Tabletten verschrieben.
 > *The doctor prescribed me tablets.*
 
+**Phrases & Expressions:**
+- **Die Ärztin hat mir Tabletten verschrieben** — *The doctor prescribed me tablets* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 2a ÜB (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

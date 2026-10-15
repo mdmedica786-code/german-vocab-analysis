@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Mit großer Anstrengung erreichte er das Ziel.
 > *With great effort he reached the goal.*
+
+**Phrases & Expressions:**
+- **Mit großer Anstrengung erreichte er das Ziel** — *With great effort he reached the goal* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -32,6 +32,10 @@ status: "new"
 > Diese Änderung bedarf der Zustimmung des Vorstands.
 > *This change requires the approval of the board.*
 
+**Phrases & Expressions:**
+- **bedürfen + Gen.** — *to require; to need*
+- **der Zustimmung bedürfen** — *to require; to need*
+
 **Collocations**
 - bedürfen + Gen.
 - der Zustimmung bedürfen

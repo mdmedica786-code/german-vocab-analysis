@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Leg das Buch bitte drauf.
 > *Please put the book on it.*
+
+**Phrases & Expressions:**
+- **Leg das Buch bitte drauf** — *Please put the book on it* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,11 @@ status: "new"
 > Das Haus steht auf einem hohen Felsen.
 > *The house stands on a high rock.*
 
+**Phrases & Expressions:**
+- **ein steiler Fels** — *rock; cliff; boulder*
+- **auf einen Felsen klettern** — *rock; cliff; boulder*
+- **der Fels in der Brandung** — *rock; cliff; boulder*
+
 **Collocations**
 - ein steiler Fels
 - auf einen Felsen klettern

@@ -33,6 +33,11 @@ status: "new"
 > Mit Geschick löste er das Problem.
 > *With skill he solved the problem.*
 
+**Phrases & Expressions:**
+- **mit Geschick** — *skill; dexterity*
+- **handwerkliches Geschick** — *skill; dexterity*
+- **Geschick beweisen** — *skill; dexterity*
+
 **Collocations**
 - mit Geschick
 - handwerkliches Geschick

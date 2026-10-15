@@ -33,6 +33,11 @@ status: "new"
 > Sie löste die Aufgabe mit großer Leichtigkeit.
 > *She solved the task with great ease.*
 
+**Phrases & Expressions:**
+- **mit Leichtigkeit** — *ease; lightness*
+- **die Leichtigkeit des Seins** — *ease; lightness*
+- **eine gewisse Leichtigkeit** — *ease; lightness*
+
 **Collocations**
 - mit Leichtigkeit
 - die Leichtigkeit des Seins

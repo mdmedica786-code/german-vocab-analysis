@@ -29,6 +29,11 @@ status: "new"
 > Wir haben ausgiebig gefrühstückt.
 > *We had a long and hearty breakfast.*
 
+**Phrases & Expressions:**
+- **ausgiebig frühstücken** — *extensive; lavish; thorough*
+- **ausgiebig schlafen** — *extensive; lavish; thorough*
+- **ausgiebig testen** — *extensive; lavish; thorough*
+
 **Collocations**
 - ausgiebig frühstücken
 - ausgiebig schlafen

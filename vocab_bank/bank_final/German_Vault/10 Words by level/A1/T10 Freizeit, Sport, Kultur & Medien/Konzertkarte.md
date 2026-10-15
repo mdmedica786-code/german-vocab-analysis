@@ -34,6 +34,9 @@ status: "new"
 > Ich habe zwei Konzertkarten für Samstag gekauft.
 > *I bought two concert tickets for Saturday.*
 
+**Phrases & Expressions:**
+- **Ich habe zwei Konzertkarten für Samstag gekauft** — *I bought two concert tickets for Saturday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 6c (In Hamburg)
 <!-- bank:end -->
 

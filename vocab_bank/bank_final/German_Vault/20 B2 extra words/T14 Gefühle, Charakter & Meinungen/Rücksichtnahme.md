@@ -33,6 +33,11 @@ status: "new"
 > Im Mehrfamilienhaus ist gegenseitige Rücksichtnahme wichtig.
 > *In an apartment building mutual consideration is important.*
 
+**Phrases & Expressions:**
+- **aus Rücksichtnahme** — *consideration for others*
+- **Rücksichtnahme auf andere** — *consideration for others*
+- **mangelnde Rücksichtnahme** — *consideration for others*
+
 **Collocations**
 - aus Rücksichtnahme
 - Rücksichtnahme auf andere

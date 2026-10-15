@@ -33,6 +33,11 @@ status: "new"
 > Wir haben eine Pauschalreise nach Spanien gebucht.
 > *We have booked a package holiday to Spain.*
 
+**Phrases & Expressions:**
+- **eine Pauschalreise buchen** — *package holiday*
+- **eine Pauschalreise stornieren** — *package holiday*
+- **Pauschalreise mit Flug** — *package holiday*
+
 **Collocations**
 - eine Pauschalreise buchen
 - eine Pauschalreise stornieren

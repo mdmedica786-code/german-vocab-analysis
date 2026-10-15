@@ -34,6 +34,14 @@ status: "new"
 > Können Sie mir helfen, bitte?
 > *Can you help me, please?*
 
+**Phrases & Expressions:**
+- **Könnten Sie mir bitte helfen?** — Could you please help me? *([[B1-07 Bitten und höflich nachfragen|Um Hilfe bitten]] · B1)*
+- **Kann ich Ihnen helfen?** — Can I help you? *([[B1-07 Bitten und höflich nachfragen|Hilfe anbieten]] · B1)*
+- **Leider kann ich Ihnen da nicht helfen.** — Unfortunately I cannot help you with that. *([[B1-07 Bitten und höflich nachfragen|Höflich Nein sagen]] · B1)*
+- **Könntest du mir kurz helfen?** — Could you help me for a moment? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Um Hilfe bitten]] · B2)*
+- **Würden Sie mir bitte helfen?** — Would you please help me? *([[B2-12 Höflichkeit und Diplomatie - Kritik und Ablehnung abmildern|Höflichkeit mit Konjunktiv II]] · B2)*
+- **Danke für die Rückmeldung, das hilft mir weiter.** — Thanks for the feedback, that helps me. *([[B2-12 Höflichkeit und Diplomatie - Kritik und Ablehnung abmildern|Konstruktiv reagieren]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

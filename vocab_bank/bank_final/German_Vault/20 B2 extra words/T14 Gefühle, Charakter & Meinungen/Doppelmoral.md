@@ -33,6 +33,11 @@ status: "new"
 > Ihm wurde Doppelmoral vorgeworfen, weil er selbst gegen die Regeln verstieß.
 > *He was accused of double standards because he himself broke the rules.*
 
+**Phrases & Expressions:**
+- **Doppelmoral vorwerfen** — *double standards*
+- **gesellschaftliche Doppelmoral** — *double standards*
+- **von Doppelmoral geprägt** — *double standards*
+
 **Collocations**
 - Doppelmoral vorwerfen
 - gesellschaftliche Doppelmoral

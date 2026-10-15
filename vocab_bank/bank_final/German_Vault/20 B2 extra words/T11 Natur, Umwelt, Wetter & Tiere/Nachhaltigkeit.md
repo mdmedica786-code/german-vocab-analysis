@@ -33,6 +33,11 @@ status: "new"
 > Nachhaltigkeit spielt bei der Planung eine zentrale Rolle.
 > *Sustainability plays a central role in planning.*
 
+**Phrases & Expressions:**
+- **auf Nachhaltigkeit achten** — *sustainability*
+- **ökologische Nachhaltigkeit** — *sustainability*
+- **Nachhaltigkeit fördern** — *sustainability*
+
 **Collocations**
 - auf Nachhaltigkeit achten
 - ökologische Nachhaltigkeit

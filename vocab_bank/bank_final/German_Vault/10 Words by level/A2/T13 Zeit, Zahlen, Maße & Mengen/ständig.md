@@ -31,6 +31,13 @@ status: "new"
 > Ich habe schon ein paar Mal bei meiner Freundin angerufen. Es ist ständig besetzt.
 > *I have called my friend a few times already. The line is constantly busy.*
 
+**Phrases & Expressions:**
+- **Ist der Schmerz ständig da oder kommt und geht er?** — Is the pain always there or does it come and go? *([[FSP-03 Schmerzanamnese|Dauer und Rhythmus]] · B1)*
+- **ständig besetzt** — *constant*
+- **ständig neu** — *constant*
+- **ständige Veränderung** — *constant*
+- **ständig wechseln** — *constant*
+
 **Collocations**
 - ständig besetzt
 - ständig neu

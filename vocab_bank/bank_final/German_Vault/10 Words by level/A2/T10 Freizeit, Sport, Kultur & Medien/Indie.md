@@ -28,6 +28,9 @@ status: "new"
 > Meine Schwester hört am liebsten Indie.
 > *My sister likes listening to indie best.*
 
+**Phrases & Expressions:**
+- **Meine Schwester hört am liebsten Indie** — *My sister likes listening to indie best* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a (Gute Unterhaltung!)
 <!-- bank:end -->
 

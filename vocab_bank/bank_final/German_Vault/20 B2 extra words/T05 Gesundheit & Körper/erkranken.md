@@ -32,6 +32,11 @@ status: "new"
 > Mehrere Kollegen sind an einer Grippe erkrankt.
 > *Several colleagues have fallen ill with flu.*
 
+**Phrases & Expressions:**
+- **an etwas erkranken** — *to fall ill*
+- **schwer erkranken** — *to fall ill*
+- **an Krebs erkranken** — *to fall ill*
+
 **Collocations**
 - an etwas erkranken
 - schwer erkranken

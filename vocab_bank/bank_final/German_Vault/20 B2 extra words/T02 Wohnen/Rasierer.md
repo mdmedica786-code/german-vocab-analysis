@@ -33,6 +33,11 @@ status: "new"
 > Mein Rasierer braucht eine neue Klinge.
 > *My razor needs a new blade.*
 
+**Phrases & Expressions:**
+- **ein elektrischer Rasierer** — *razor; shaver*
+- **den Rasierer aufladen** — *razor; shaver*
+- **Rasierer und Rasierschaum** — *razor; shaver*
+
 **Collocations**
 - ein elektrischer Rasierer
 - den Rasierer aufladen

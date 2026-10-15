@@ -29,6 +29,11 @@ status: "new"
 > Er sah gehetzt aus, als er ins Büro kam.
 > *He looked harried when he came into the office.*
 
+**Phrases & Expressions:**
+- **gehetzt wirken** — *harried; rushed*
+- **gehetzt aussehen** — *harried; rushed*
+- **gehetzt leben** — *harried; rushed*
+
 **Collocations**
 - gehetzt wirken
 - gehetzt aussehen

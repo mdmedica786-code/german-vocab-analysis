@@ -33,6 +33,11 @@ status: "new"
 > Die deutsche Rechtsordnung schützt die Grundrechte.
 > *The German legal system protects fundamental rights.*
 
+**Phrases & Expressions:**
+- **die geltende Rechtsordnung** — *legal system; legal order*
+- **in der Rechtsordnung** — *legal system; legal order*
+- **die Rechtsordnung achten** — *legal system; legal order*
+
 **Collocations**
 - die geltende Rechtsordnung
 - in der Rechtsordnung

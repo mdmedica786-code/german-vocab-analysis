@@ -35,6 +35,9 @@ status: "new"
 > Unser Zug hat leider 15 Minuten Verspätung.
 > *Our train is unfortunately 15 minutes late.*
 
+**Phrases & Expressions:**
+- **Unser Zug hat leider 15 Minuten Verspätung** — *Our train is unfortunately 15 minutes late* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 15b (Alltag und Familie) · Goethe word list A2
 <!-- bank:end -->
 

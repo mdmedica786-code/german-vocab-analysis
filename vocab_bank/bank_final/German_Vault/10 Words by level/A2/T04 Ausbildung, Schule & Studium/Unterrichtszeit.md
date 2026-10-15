@@ -34,6 +34,9 @@ status: "new"
 > Die Unterrichtszeit beginnt um acht Uhr.
 > *The lesson time begins at eight o'clock.*
 
+**Phrases & Expressions:**
+- **Die Unterrichtszeit beginnt um acht Uhr** — *The lesson time begins at eight o'clock* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 12a (Nach der Schulzeit)
 <!-- bank:end -->
 

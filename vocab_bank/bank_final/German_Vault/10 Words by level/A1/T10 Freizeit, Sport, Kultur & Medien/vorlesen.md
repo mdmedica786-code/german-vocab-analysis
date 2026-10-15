@@ -34,6 +34,9 @@ status: "new"
 > Ich lese meinen Kindern oft etwas vor.
 > *I often read aloud to my children.*
 
+**Phrases & Expressions:**
+- **Ich lese meinen Kindern oft etwas vor** — *I often read aloud to my children* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 4 (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

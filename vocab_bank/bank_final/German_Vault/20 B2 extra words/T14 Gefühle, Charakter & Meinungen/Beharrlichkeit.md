@@ -33,6 +33,11 @@ status: "new"
 > Mit Beharrlichkeit erreichte sie ihr Ziel.
 > *With persistence she reached her goal.*
 
+**Phrases & Expressions:**
+- **mit Beharrlichkeit** — *persistence; tenacity*
+- **Beharrlichkeit zeigen** — *persistence; tenacity*
+- **Beharrlichkeit und Geduld** — *persistence; tenacity*
+
 **Collocations**
 - mit Beharrlichkeit
 - Beharrlichkeit zeigen

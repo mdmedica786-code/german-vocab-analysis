@@ -31,6 +31,9 @@ status: "new"
 > Hier kann man nirgends parken.
 > *You can't park anywhere here.*
 
+**Phrases & Expressions:**
+- **Hier kann man nirgends parken** — *You can't park anywhere here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

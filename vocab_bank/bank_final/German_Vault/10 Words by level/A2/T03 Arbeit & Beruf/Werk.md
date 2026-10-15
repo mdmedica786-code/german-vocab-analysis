@@ -35,6 +35,9 @@ status: "new"
 > Wir haben gestern das Werk besichtigt.
 > *We visited the factory yesterday.*
 
+**Phrases & Expressions:**
+- **Wir haben gestern das Werk besichtigt** — *We visited the factory yesterday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

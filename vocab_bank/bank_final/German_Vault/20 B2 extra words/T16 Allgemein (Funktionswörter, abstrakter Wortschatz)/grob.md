@@ -29,6 +29,11 @@ status: "new"
 > Das ist eine grobe Schätzung.
 > *That is a rough estimate.*
 
+**Phrases & Expressions:**
+- **grob geschätzt** — *rough; coarse; gross*
+- **ein grober Fehler** — *rough; coarse; gross*
+- **grob fahrlässig** — *rough; coarse; gross*
+
 **Collocations**
 - grob geschätzt
 - ein grober Fehler

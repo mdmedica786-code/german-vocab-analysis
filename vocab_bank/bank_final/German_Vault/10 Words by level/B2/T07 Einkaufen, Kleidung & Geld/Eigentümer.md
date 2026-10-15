@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Eigentümer des Hauses wohnt im Ausland.
 > *The owner of the house lives abroad.*
+
+**Phrases & Expressions:**
+- **Der Eigentümer des Hauses wohnt im Ausland** — *The owner of the house lives abroad* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Wir arbeiten mit einer externen Firma zusammen.
 > *We work with an external company.*
+
+**Phrases & Expressions:**
+- **Wir arbeiten mit einer externen Firma zusammen** — *We work with an external company* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

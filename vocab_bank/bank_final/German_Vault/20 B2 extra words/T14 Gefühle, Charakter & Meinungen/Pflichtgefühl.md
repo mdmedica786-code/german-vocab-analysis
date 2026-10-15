@@ -33,6 +33,11 @@ status: "new"
 > Aus Pflichtgefühl ist er zur Beerdigung gegangen.
 > *Out of a sense of duty he went to the funeral.*
 
+**Phrases & Expressions:**
+- **aus Pflichtgefühl** — *sense of duty*
+- **ein starkes Pflichtgefühl** — *sense of duty*
+- **sein Pflichtgefühl** — *sense of duty*
+
 **Collocations**
 - aus Pflichtgefühl
 - ein starkes Pflichtgefühl

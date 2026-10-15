@@ -34,6 +34,9 @@ status: "new"
 > Ich möchte eine Weiterbildung machen.
 > *I would like to do further training.*
 
+**Phrases & Expressions:**
+- **Gibt es Möglichkeiten zur Weiterbildung?** — Are there opportunities for further training? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Fragen an Arbeitgeber]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

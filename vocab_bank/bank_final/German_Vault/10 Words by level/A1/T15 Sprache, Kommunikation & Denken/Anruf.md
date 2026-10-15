@@ -35,6 +35,9 @@ status: "new"
 > Sie bekommt viele Anrufe auf ihrem Handy.
 > *She receives many calls on her mobile.*
 
+**Phrases & Expressions:**
+- **Sie bekommt viele Anrufe auf ihrem Handy** — *She receives many calls on her mobile* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 11a (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

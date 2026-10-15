@@ -33,6 +33,11 @@ status: "new"
 > Bei minus zehn Grad ziehe ich meine Daunenjacke an.
 > *At minus ten degrees I put on my down jacket.*
 
+**Phrases & Expressions:**
+- **eine warme Daunenjacke** — *down jacket*
+- **die Daunenjacke anziehen** — *down jacket*
+- **Daunenjacke kaufen** — *down jacket*
+
 **Collocations**
 - eine warme Daunenjacke
 - die Daunenjacke anziehen

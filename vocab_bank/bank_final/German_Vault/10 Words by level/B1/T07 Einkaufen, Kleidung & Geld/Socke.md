@@ -34,6 +34,9 @@ status: "new"
 > Im Winter brauche ich warme Socken.
 > *In winter I need warm socks.*
 
+**Phrases & Expressions:**
+- **Im Winter brauche ich warme Socken** — *In winter I need warm socks* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

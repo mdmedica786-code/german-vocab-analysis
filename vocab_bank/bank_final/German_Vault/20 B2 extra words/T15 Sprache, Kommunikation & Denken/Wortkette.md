@@ -33,6 +33,11 @@ status: "new"
 > Wir spielen im Unterricht ein Spiel mit Wortketten.
 > *In class we play a game with word chains.*
 
+**Phrases & Expressions:**
+- **eine Wortkette bilden** — *word chain*
+- **eine Wortkette ergänzen** — *word chain*
+- **eine lange Wortkette** — *word chain*
+
 **Collocations**
 - eine Wortkette bilden
 - eine Wortkette ergänzen

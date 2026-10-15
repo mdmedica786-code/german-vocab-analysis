@@ -30,6 +30,9 @@ status: "new"
 > Womit bezahlen Sie, bar oder mit Karte?
 > *How will you pay, in cash or by card?*
 
+**Phrases & Expressions:**
+- **Womit bezahlen Sie, bar oder mit Karte** — *How will you pay, in cash or by card* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 2c (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

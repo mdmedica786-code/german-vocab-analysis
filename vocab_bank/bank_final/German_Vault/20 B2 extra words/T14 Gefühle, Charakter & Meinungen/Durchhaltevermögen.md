@@ -33,6 +33,11 @@ status: "new"
 > Beim Sprachenlernen braucht man Durchhaltevermögen.
 > *When learning languages you need staying power.*
 
+**Phrases & Expressions:**
+- **Durchhaltevermögen zeigen** — *staying power; perseverance*
+- **Durchhaltevermögen brauchen** — *staying power; perseverance*
+- **großes Durchhaltevermögen** — *staying power; perseverance*
+
 **Collocations**
 - Durchhaltevermögen zeigen
 - Durchhaltevermögen brauchen

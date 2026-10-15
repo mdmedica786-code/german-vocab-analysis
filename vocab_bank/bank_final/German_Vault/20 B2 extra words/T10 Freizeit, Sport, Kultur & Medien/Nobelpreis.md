@@ -33,6 +33,11 @@ status: "new"
 > Sie erhielt den Nobelpreis für Medizin.
 > *She received the Nobel Prize in Medicine.*
 
+**Phrases & Expressions:**
+- **den Nobelpreis erhalten** — *Nobel Prize*
+- **der Nobelpreis für Literatur** — *Nobel Prize*
+- **einen Nobelpreis gewinnen** — *Nobel Prize*
+
 **Collocations**
 - den Nobelpreis erhalten
 - der Nobelpreis für Literatur

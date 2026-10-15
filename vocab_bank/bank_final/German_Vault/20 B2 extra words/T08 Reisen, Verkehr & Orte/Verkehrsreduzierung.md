@@ -30,6 +30,11 @@ status: "new"
 > Die Verkehrsreduzierung in der Innenstadt verbessert die Luft.
 > *The reduction of traffic in the city centre improves the air.*
 
+**Phrases & Expressions:**
+- **eine Verkehrsreduzierung fordern** — *reduction of traffic*
+- **zur Verkehrsreduzierung beitragen** — *reduction of traffic*
+- **die Verkehrsreduzierung in der Stadt** — *reduction of traffic*
+
 **Collocations**
 - eine Verkehrsreduzierung fordern
 - zur Verkehrsreduzierung beitragen

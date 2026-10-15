@@ -34,6 +34,9 @@ status: "new"
 > Die Olympiasiegerin wurde gefeiert.
 > *The Olympic champion was celebrated.*
 
+**Phrases & Expressions:**
+- **Die Olympiasiegerin wurde gefeiert** — *The Olympic champion was celebrated* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

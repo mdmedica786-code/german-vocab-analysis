@@ -29,6 +29,10 @@ status: "new"
 > Beim Essen und Trinken sollte man Maß halten.
 > *With eating and drinking one should be moderate.*
 
+**Phrases & Expressions:**
+- **in allem Maß halten** — *to be moderate*
+- **maßvoll sein** — *to be moderate*
+
 **Collocations**
 - in allem Maß halten
 - maßvoll sein

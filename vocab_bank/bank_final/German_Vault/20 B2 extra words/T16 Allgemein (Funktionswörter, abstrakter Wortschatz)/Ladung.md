@@ -33,6 +33,11 @@ status: "new"
 > Das Schiff hat eine große Ladung Kohle an Bord.
 > *The ship has a large load of coal on board.*
 
+**Phrases & Expressions:**
+- **eine Ladung Sand** — *load; cargo; charge*
+- **die elektrische Ladung** — *load; cargo; charge*
+- **die Ladung löschen** — *load; cargo; charge*
+
 **Collocations**
 - eine Ladung Sand
 - die elektrische Ladung

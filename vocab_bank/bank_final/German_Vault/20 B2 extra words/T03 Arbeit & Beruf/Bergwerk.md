@@ -33,6 +33,11 @@ status: "new"
 > Im Bergwerk arbeiteten früher tausende Menschen.
 > *Thousands of people used to work in the mine.*
 
+**Phrases & Expressions:**
+- **im Bergwerk arbeiten** — *mine*
+- **ein Bergwerk schließen** — *mine*
+- **stillgelegtes Bergwerk** — *mine*
+
 **Collocations**
 - im Bergwerk arbeiten
 - ein Bergwerk schließen

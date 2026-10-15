@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Seine Publikation wurde in einer Fachzeitschrift veröffentlicht.
 > *His publication was published in a specialist journal.*
+
+**Phrases & Expressions:**
+- **Seine Publikation wurde in einer Fachzeitschrift veröffentlicht** — *His publication was published in a specialist journal* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

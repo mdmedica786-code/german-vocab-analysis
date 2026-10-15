@@ -33,6 +33,11 @@ status: "new"
 > Die Schweiz ist für ihre Neutralität bekannt.
 > *Switzerland is known for its neutrality.*
 
+**Phrases & Expressions:**
+- **Neutralität wahren** — *neutrality*
+- **strikte Neutralität** — *neutrality*
+- **die Neutralität verletzen** — *neutrality*
+
 **Collocations**
 - Neutralität wahren
 - strikte Neutralität

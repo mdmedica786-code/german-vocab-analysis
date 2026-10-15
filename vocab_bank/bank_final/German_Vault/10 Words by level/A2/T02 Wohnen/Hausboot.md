@@ -34,6 +34,9 @@ status: "new"
 > Er wohnt auf einem Hausboot.
 > *He lives on a houseboat.*
 
+**Phrases & Expressions:**
+- **Er wohnt auf einem Hausboot** — *He lives on a houseboat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1b (Zusammen leben)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Sie ist sehr gebildet und belesen.
 > *She is very educated and well read.*
 
+**Phrases & Expressions:**
+- **ein gebildeter Mensch** — *educated; cultured*
+- **gebildet sein** — *educated; cultured*
+- **gebildete Leser** — *educated; cultured*
+
 **Collocations**
 - ein gebildeter Mensch
 - gebildet sein

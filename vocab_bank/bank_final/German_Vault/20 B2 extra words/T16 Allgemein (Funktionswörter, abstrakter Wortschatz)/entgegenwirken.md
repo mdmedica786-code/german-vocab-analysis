@@ -32,6 +32,12 @@ status: "new"
 > Man muss dieser Entwicklung rechtzeitig entgegenwirken.
 > *One has to counteract this development in good time.*
 
+**Phrases & Expressions:**
+- **Ich komme dir entgegen: ...** — I'll meet you halfway: ... *([[B1-05 Vorschläge machen und darauf reagieren|Kompromiss finden]] · B1)*
+- **Dieses Medikament wirkt anders, wenn Sie Alkohol trinken.** — This medicine works differently if you drink alcohol. *([[FSP-11 Therapie und Medikamente erklären|Wechselwirkungen]] · B2)*
+- **entgegenwirken + Dat.** — *to counteract*
+- **einer Entwicklung entgegenwirken** — *to counteract*
+
 **Collocations**
 - entgegenwirken + Dat.
 - einer Entwicklung entgegenwirken

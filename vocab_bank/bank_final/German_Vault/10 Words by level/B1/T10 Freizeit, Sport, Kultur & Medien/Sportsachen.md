@@ -34,6 +34,9 @@ status: "new"
 > Hast du deine Sportsachen dabei?
 > *Do you have your sports kit with you?*
 
+**Phrases & Expressions:**
+- **Hast du deine Sportsachen dabei** — *Do you have your sports kit with you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 4d (Stadt, Land, Fluss)
 <!-- bank:end -->
 

@@ -32,6 +32,10 @@ status: "new"
 > Ist noch etwas zu essen übrig?
 > *Is there any food left?*
 
+**Phrases & Expressions:**
+- **im Übrigen** — incidentally; besides *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **nichts anderes übrig bleiben, als ...** — to have no other choice but ... *([[Können - Müssen - Dürfen (modal frames)|Können / Müssen / Dürfen (modal frames)]] · B2)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

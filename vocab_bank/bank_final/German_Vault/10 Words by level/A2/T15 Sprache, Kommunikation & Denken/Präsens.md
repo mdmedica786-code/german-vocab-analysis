@@ -34,6 +34,9 @@ status: "new"
 > „Ich gehe“ steht im Präsens.
 > *"Ich gehe" is in the present tense.*
 
+**Phrases & Expressions:**
+- **„Ich gehe“ steht im Präsens** — *"Ich gehe" is in the present tense* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 8a (Arbeitswelten)
 <!-- bank:end -->
 

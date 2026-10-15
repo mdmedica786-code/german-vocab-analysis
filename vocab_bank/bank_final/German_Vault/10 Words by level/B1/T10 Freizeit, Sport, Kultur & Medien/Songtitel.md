@@ -34,6 +34,9 @@ status: "new"
 > Wie lautet der Songtitel?
 > *What is the song title?*
 
+**Phrases & Expressions:**
+- **Wie lautet der Songtitel** — *What is the song title* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 10b (Blick nach vorn)
 <!-- bank:end -->
 

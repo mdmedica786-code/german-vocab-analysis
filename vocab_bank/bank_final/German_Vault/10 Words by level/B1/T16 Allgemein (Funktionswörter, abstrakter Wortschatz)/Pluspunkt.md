@@ -34,6 +34,9 @@ status: "new"
 > Ein Pluspunkt ist die zentrale Lage.
 > *One plus point is the central location.*
 
+**Phrases & Expressions:**
+- **Ein Pluspunkt ist die zentrale Lage** — *One plus point is the central location* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Probe wird im Labor untersucht.
 > *The sample is examined in the laboratory.*
+
+**Phrases & Expressions:**
+- **Die Probe wird im Labor untersucht** — *The sample is examined in the laboratory* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

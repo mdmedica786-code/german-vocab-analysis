@@ -31,6 +31,11 @@ status: "new"
 > Er zwinkerte ihr verschwörerisch zu.
 > *He winked at her conspiratorially.*
 
+**Phrases & Expressions:**
+- **mit den Augen zwinkern** — *to wink*
+- **jemandem zuzwinkern** — *to wink*
+- **verschmitzt zwinkern** — *to wink*
+
 **Collocations**
 - mit den Augen zwinkern
 - jemandem zuzwinkern

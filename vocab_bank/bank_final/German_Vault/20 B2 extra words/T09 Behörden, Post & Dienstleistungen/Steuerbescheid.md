@@ -33,6 +33,11 @@ status: "new"
 > Der Steuerbescheid kam mit der Post.
 > *The tax assessment notice came in the post.*
 
+**Phrases & Expressions:**
+- **den Steuerbescheid prüfen** — *tax assessment notice*
+- **gegen den Steuerbescheid Einspruch einlegen** — *tax assessment notice*
+- **Steuerbescheid erhalten** — *tax assessment notice*
+
 **Collocations**
 - den Steuerbescheid prüfen
 - gegen den Steuerbescheid Einspruch einlegen

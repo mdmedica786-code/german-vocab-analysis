@@ -35,6 +35,10 @@ status: "new"
 > Der Kurs dauert drei Monate.
 > *The course lasts three months.*
 
+**Phrases & Expressions:**
+- **in den letzten Monaten** — in recent months *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Wie viel möchten Sie in den nächsten Monaten abnehmen?** — How much would you like to lose in the next few months? *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Gewicht besprechen]] · A2)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list B1
 <!-- bank:end -->
 

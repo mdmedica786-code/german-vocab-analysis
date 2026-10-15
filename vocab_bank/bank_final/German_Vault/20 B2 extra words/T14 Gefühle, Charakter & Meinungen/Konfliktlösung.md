@@ -33,6 +33,11 @@ status: "new"
 > Bei der Konfliktlösung hilft ein neutraler Vermittler.
 > *A neutral mediator helps with conflict resolution.*
 
+**Phrases & Expressions:**
+- **eine Konfliktlösung finden** — *conflict resolution*
+- **Strategien zur Konfliktlösung** — *conflict resolution*
+- **eine friedliche Konfliktlösung** — *conflict resolution*
+
 **Collocations**
 - eine Konfliktlösung finden
 - Strategien zur Konfliktlösung

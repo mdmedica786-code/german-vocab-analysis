@@ -29,6 +29,12 @@ status: "new"
 > Das gewünschte Ergebnis wurde erreicht.
 > *The desired result was achieved.*
 
+**Phrases & Expressions:**
+- **Ich hätte mir gewünscht, dass ...** — I would have wished that ... *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Verbesserung vorschlagen]] · B1)*
+- **das gewünschte Ergebnis** — *desired; requested*
+- **wie gewünscht** — *desired; requested*
+- **die gewünschte Wirkung** — *desired; requested*
+
 **Collocations**
 - das gewünschte Ergebnis
 - wie gewünscht

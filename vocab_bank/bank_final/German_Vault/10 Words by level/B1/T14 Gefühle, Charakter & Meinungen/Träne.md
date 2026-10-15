@@ -34,6 +34,9 @@ status: "new"
 > Sie trocknet dem Kind die Tränen.
 > *She dries the child's tears.*
 
+**Phrases & Expressions:**
+- **Sie trocknet dem Kind die Tränen** — *She dries the child's tears* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -30,6 +30,9 @@ status: "new"
 > Der Patient wurde plötzlich aggressiv.
 > *The patient suddenly became aggressive.*
 
+**Phrases & Expressions:**
+- **Der Patient wurde plötzlich aggressiv** — *The patient suddenly became aggressive* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

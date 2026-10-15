@@ -33,6 +33,12 @@ status: "new"
 > Ein lauter Schrei war zu hören.
 > *A loud scream could be heard.*
 
+**Phrases & Expressions:**
+- **Wenn Sie weiter schreien, muss ich das Gespräch beenden.** — If you keep shouting, I will have to end the conversation. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Grenzen setzen]] · C1)*
+- **ein lauter Schrei** — *scream; cry*
+- **einen Schrei ausstoßen** — *scream; cry*
+- **Schreie hören** — *scream; cry*
+
 **Collocations**
 - ein lauter Schrei
 - einen Schrei ausstoßen

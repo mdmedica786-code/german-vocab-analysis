@@ -29,6 +29,11 @@ status: "new"
 > Er kann kaum laufen, geschweige denn rennen.
 > *He can hardly walk, let alone run.*
 
+**Phrases & Expressions:**
+- **geschweige denn** — *let alone (only in "geschweige denn")*
+- **kaum, geschweige denn** — *let alone (only in "geschweige denn")*
+- **nicht einmal, geschweige denn** — *let alone (only in "geschweige denn")*
+
 **Collocations**
 - geschweige denn
 - kaum, geschweige denn

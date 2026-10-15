@@ -33,6 +33,11 @@ status: "new"
 > Die Berichterstattung über den Unfall war sehr ausführlich.
 > *The coverage of the accident was very detailed.*
 
+**Phrases & Expressions:**
+- **die Berichterstattung über + Akk.** — *reporting; coverage*
+- **einseitige Berichterstattung** — *reporting; coverage*
+- **in der Berichterstattung** — *reporting; coverage*
+
 **Collocations**
 - die Berichterstattung über + Akk.
 - einseitige Berichterstattung

@@ -33,6 +33,11 @@ status: "new"
 > Sie hat eine besondere Begabung für Sprachen.
 > *She has a special talent for languages.*
 
+**Phrases & Expressions:**
+- **eine Begabung haben** — *talent; gift*
+- **musikalische Begabung** — *talent; gift*
+- **Begabung für etwas** — *talent; gift*
+
 **Collocations**
 - eine Begabung haben
 - musikalische Begabung

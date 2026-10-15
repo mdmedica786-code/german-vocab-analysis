@@ -32,6 +32,11 @@ status: "new"
 > Sie strebt eine Karriere in der Forschung an.
 > *She is aiming for a career in research.*
 
+**Phrases & Expressions:**
+- **ein Ziel anstreben** — *to strive for; to aim at*
+- **eine Lösung anstreben** — *to strive for; to aim at*
+- **einen Abschluss anstreben** — *to strive for; to aim at*
+
 **Collocations**
 - ein Ziel anstreben
 - eine Lösung anstreben

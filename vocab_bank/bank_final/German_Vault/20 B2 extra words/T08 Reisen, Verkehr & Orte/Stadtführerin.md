@@ -33,6 +33,11 @@ status: "new"
 > Die Stadtführerin erzählte viel über die Geschichte.
 > *The city guide told us a lot about the history.*
 
+**Phrases & Expressions:**
+- **eine erfahrene Stadtführerin** — *city guide (female)*
+- **eine Stadtführerin buchen** — *city guide (female)*
+- **als Stadtführerin arbeiten** — *city guide (female)*
+
 **Collocations**
 - eine erfahrene Stadtführerin
 - eine Stadtführerin buchen

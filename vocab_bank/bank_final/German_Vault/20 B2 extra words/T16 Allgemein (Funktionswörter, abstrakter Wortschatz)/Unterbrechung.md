@@ -33,6 +33,11 @@ status: "new"
 > Nach einer kurzen Unterbrechung ging der Unterricht weiter.
 > *After a short interruption the class continued.*
 
+**Phrases & Expressions:**
+- **eine kurze Unterbrechung** — *interruption; break*
+- **ohne Unterbrechung** — *interruption; break*
+- **eine Unterbrechung der Reise** — *interruption; break*
+
 **Collocations**
 - eine kurze Unterbrechung
 - ohne Unterbrechung

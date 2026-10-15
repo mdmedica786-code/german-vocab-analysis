@@ -35,6 +35,9 @@ status: "new"
 > Die Wirtschaft steckt in einer schweren Krise.
 > *The economy is in a serious crisis.*
 
+**Phrases & Expressions:**
+- **Die Wirtschaft steckt in einer schweren Krise** — *The economy is in a serious crisis* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 6b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

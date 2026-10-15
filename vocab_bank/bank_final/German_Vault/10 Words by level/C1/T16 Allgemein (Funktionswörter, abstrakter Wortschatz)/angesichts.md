@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Angesichts der hohen Kosten verzichten wir auf das Projekt.
 > *In view of the high costs we are dropping the project.*
+
+**Phrases & Expressions:**
+- **angesichts der Tatsache, dass ...** — in view of the fact that ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · C1)*
 <!-- bank:end -->
 
 ## My notes

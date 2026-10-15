@@ -31,6 +31,14 @@ status: "new"
 > Dazu kann ich leider nichts sagen.
 > *Unfortunately, I can't say anything about that.*
 
+**Phrases & Expressions:**
+- **dazu führen, dass ...** — to lead to ... (the result that) *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **führt dazu, dass ...** — leads to ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **dazu in der Lage sein** — to be capable of it *([[Können - Müssen - Dürfen (modal frames)|Können / Müssen / Dürfen (modal frames)]] · B2)*
+- **im Gegensatz dazu** — in contrast to that *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B2)*
+- **dazu führt, dass ...** — leads to ... (the result that) *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **kann dazu führen, dass ...** — can lead to ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+
 **Collocations**
 - dazu gehören
 - dazu kommen

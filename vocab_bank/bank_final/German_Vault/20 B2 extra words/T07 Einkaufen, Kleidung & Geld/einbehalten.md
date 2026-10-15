@@ -32,6 +32,11 @@ status: "new"
 > Der Arbeitgeber behält die Steuern direkt vom Lohn ein.
 > *The employer withholds the taxes directly from the wages.*
 
+**Phrases & Expressions:**
+- **Steuern einbehalten** — *to withhold; to retain (money)*
+- **einen Betrag einbehalten** — *to withhold; to retain (money)*
+- **vom Lohn einbehalten** — *to withhold; to retain (money)*
+
 **Collocations**
 - Steuern einbehalten
 - einen Betrag einbehalten

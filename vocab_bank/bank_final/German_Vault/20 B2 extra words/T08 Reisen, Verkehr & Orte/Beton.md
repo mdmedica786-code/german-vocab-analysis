@@ -33,6 +33,11 @@ status: "new"
 > Das Fundament besteht aus Beton.
 > *The foundation is made of concrete.*
 
+**Phrases & Expressions:**
+- **ein Haus aus Beton** — *concrete*
+- **Beton gießen** — *concrete*
+- **armierter Beton** — *concrete*
+
 **Collocations**
 - ein Haus aus Beton
 - Beton gießen

@@ -33,6 +33,11 @@ status: "new"
 > Die Preisträgerin bedankte sich bei ihrem Team.
 > *The prizewinner thanked her team.*
 
+**Phrases & Expressions:**
+- **die Preisträgerin des Jahres** — *prizewinner (female)*
+- **eine Preisträgerin ehren** — *prizewinner (female)*
+- **die Preisträgerin begrüßen** — *prizewinner (female)*
+
 **Collocations**
 - die Preisträgerin des Jahres
 - eine Preisträgerin ehren

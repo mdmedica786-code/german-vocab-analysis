@@ -33,6 +33,11 @@ status: "new"
 > Kinder brauchen viel Zuwendung.
 > *Children need a lot of attention.*
 
+**Phrases & Expressions:**
+- **Zuwendung brauchen** — *attention; affection; grant*
+- **liebevolle Zuwendung** — *attention; affection; grant*
+- **finanzielle Zuwendungen** — *attention; affection; grant*
+
 **Collocations**
 - Zuwendung brauchen
 - liebevolle Zuwendung

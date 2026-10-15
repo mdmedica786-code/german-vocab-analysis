@@ -34,6 +34,9 @@ status: "new"
 > Pack bitte die Handtücher ein!
 > *Please pack the towels!*
 
+**Phrases & Expressions:**
+- **Pack bitte die Handtücher ein** — *Please pack the towels* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 2b (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

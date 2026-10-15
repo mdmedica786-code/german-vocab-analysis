@@ -29,6 +29,11 @@ status: "new"
 > Bei der Diskussion sind zwei Meinungen aufeinandergestoßen.
 > *In the discussion two opinions clashed.*
 
+**Phrases & Expressions:**
+- **Meinungen stoßen aufeinander** — *to collide; to clash*
+- **hart aufeinanderstoßen** — *to collide; to clash*
+- **Kulturen stoßen aufeinander** — *to collide; to clash*
+
 **Collocations**
 - Meinungen stoßen aufeinander
 - hart aufeinanderstoßen

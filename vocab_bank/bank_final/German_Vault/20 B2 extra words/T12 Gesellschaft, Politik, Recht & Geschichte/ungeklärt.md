@@ -29,6 +29,11 @@ status: "new"
 > Die Ursache des Unfalls ist noch ungeklärt.
 > *The cause of the accident is still unclear.*
 
+**Phrases & Expressions:**
+- **ungeklärt bleiben** — *unclear; unresolved*
+- **eine ungeklärte Frage** — *unclear; unresolved*
+- **noch ungeklärt sein** — *unclear; unresolved*
+
 **Collocations**
 - ungeklärt bleiben
 - eine ungeklärte Frage

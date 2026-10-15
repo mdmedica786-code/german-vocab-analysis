@@ -33,6 +33,11 @@ status: "new"
 > In seiner Stimme lag leiser Sarkasmus.
 > *There was a hint of sarcasm in his voice.*
 
+**Phrases & Expressions:**
+- **beißender Sarkasmus** — *sarcasm*
+- **mit Sarkasmus** — *sarcasm*
+- **Sarkasmus erkennen** — *sarcasm*
+
 **Collocations**
 - beißender Sarkasmus
 - mit Sarkasmus

@@ -35,6 +35,9 @@ status: "new"
 > Machst du mir bitte eine Kopie?
 > *Can you make me a copy, please?*
 
+**Phrases & Expressions:**
+- **Machst du mir bitte eine Kopie** — *Can you make me a copy, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 5c (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

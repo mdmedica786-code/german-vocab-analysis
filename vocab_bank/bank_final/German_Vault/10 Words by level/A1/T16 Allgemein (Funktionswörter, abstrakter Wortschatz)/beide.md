@@ -31,6 +31,9 @@ status: "new"
 > Beide Eltern arbeiten.
 > *Both parents work.*
 
+**Phrases & Expressions:**
+- **Strecken Sie bitte beide Arme nach vorn.** — Please stretch both arms out in front. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Bewegungsanweisung]] · B2)*
+
 **Source:** Netzwerk neu A1 K10 4b (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

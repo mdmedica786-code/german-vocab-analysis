@@ -34,6 +34,9 @@ status: "new"
 > Im Schulchor singen über fünfzig Kinder.
 > *More than fifty children sing in the school choir.*
 
+**Phrases & Expressions:**
+- **Im Schulchor singen über fünfzig Kinder** — *More than fifty children sing in the school choir* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 12b (Kunststücke)
 <!-- bank:end -->
 

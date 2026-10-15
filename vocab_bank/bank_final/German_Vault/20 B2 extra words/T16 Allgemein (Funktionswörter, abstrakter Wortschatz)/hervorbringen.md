@@ -32,6 +32,11 @@ status: "new"
 > Die Region hat viele berühmte Künstler hervorgebracht.
 > *The region has produced many famous artists.*
 
+**Phrases & Expressions:**
+- **Talente hervorbringen** — *to produce; to bring forth*
+- **Ergebnisse hervorbringen** — *to produce; to bring forth*
+- **einen Laut hervorbringen** — *to produce; to bring forth*
+
 **Collocations**
 - Talente hervorbringen
 - Ergebnisse hervorbringen

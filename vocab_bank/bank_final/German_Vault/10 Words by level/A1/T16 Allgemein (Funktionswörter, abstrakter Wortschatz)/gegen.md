@@ -32,6 +32,12 @@ status: "new"
 > Ich bin gegen Autos im Stadtzentrum.
 > *I am against cars in the city centre.*
 
+**Phrases & Expressions:**
+- **Ich verlange einen Umtausch gegen ein einwandfreies Gerät.** — I demand an exchange for a flawless device. *([[B2-04 Beschwerde und Reklamation|Forderung stellen]] · B2)*
+- **Wann wurden Sie zuletzt gegen Tetanus geimpft?** — When were you last vaccinated against tetanus? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Impfstatus erfragen]] · B1)*
+- **Ich bin allergisch gegen Penicillin.** — I am allergic to penicillin. *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Patient: Allergie nennen]] · A2)*
+- **Ich nehme morgens eine Tablette gegen den Blutdruck.** — I take one tablet against blood pressure in the morning. *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Patient: Medikamente nennen]] · A2)*
+
 **Source:** Netzwerk neu A1 K8 10b (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

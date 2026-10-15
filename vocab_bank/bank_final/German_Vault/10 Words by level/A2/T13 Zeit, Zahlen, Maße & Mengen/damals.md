@@ -31,6 +31,12 @@ status: "new"
 > Aber damals hatte ich kein Geld.
 > *But back then I had no money.*
 
+**Phrases & Expressions:**
+- **damals und heute** — *back then*
+- **damals wie heute** — *back then*
+- **schon damals** — *back then*
+- **damals war alles anders** — *back then*
+
 **Collocations**
 - damals und heute
 - damals wie heute

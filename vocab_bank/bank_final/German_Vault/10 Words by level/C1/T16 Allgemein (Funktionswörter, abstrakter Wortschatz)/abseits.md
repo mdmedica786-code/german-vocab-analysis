@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Abseits der Straße liegt ein kleines Haus.
 > *A small house lies away from the road.*
+
+**Phrases & Expressions:**
+- **Abseits der Straße liegt ein kleines Haus** — *A small house lies away from the road* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -34,6 +34,9 @@ status: "new"
 > Die Heirat war ein Wendepunkt in ihrem Leben.
 > *The marriage was a turning point in her life.*
 
+**Phrases & Expressions:**
+- **Die Heirat war ein Wendepunkt in ihrem Leben** — *The marriage was a turning point in her life* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3b (Veränderungen)
 <!-- bank:end -->
 

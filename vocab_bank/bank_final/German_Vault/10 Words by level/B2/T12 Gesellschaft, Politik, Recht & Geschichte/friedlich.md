@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Demonstration blieb friedlich.
 > *The demonstration remained peaceful.*
+
+**Phrases & Expressions:**
+- **Die Demonstration blieb friedlich** — *The demonstration remained peaceful* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

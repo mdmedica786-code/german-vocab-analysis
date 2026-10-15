@@ -34,6 +34,11 @@ status: "new"
 > Das Spiel findet auch bei Regen statt.
 > *The match also takes place when it rains.*
 
+**Phrases & Expressions:**
+- **Ich fand besonders gut, dass ...** — I particularly liked that ... *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Positives Feedback geben]] · B1)*
+- **Wo genau findet die Feier statt?** — Where exactly is the party taking place? *([[B1-18 Einladen, zusagen und absagen|Rückfrage stellen]] · B1)*
+- **Bei der körperlichen Untersuchung fand sich kein Hinweis auf ...** — On physical examination there was no sign of ... *([[FSP-08 Befunde beschreiben und berichten|Befund im Arzt-Arzt-Gespräch]] · C1)*
+
 **Source:** Netzwerk neu A1 K10 13a (Studium und Beruf) · Goethe word list A2
 <!-- bank:end -->
 

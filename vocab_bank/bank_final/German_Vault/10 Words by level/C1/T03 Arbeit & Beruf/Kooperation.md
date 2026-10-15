@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Kooperation zwischen den Kliniken funktioniert gut.
 > *The cooperation between the clinics works well.*
+
+**Phrases & Expressions:**
+- **Die Kooperation zwischen den Kliniken funktioniert gut** — *The cooperation between the clinics works well* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,13 @@ status: "new"
 > Die Pflege der Patienten erfordert viel Geduld.
 > *The care of patients requires a lot of patience.*
 
+**Phrases & Expressions:**
+- **Wir würden Sie gern in die Pflege Ihres Angehörigen einbeziehen.** — We would like to involve you in caring for your relative. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Angehörige einbeziehen]] · B2)*
+- **häusliche Pflege** — *care; nursing*
+- **in der Pflege arbeiten** — *care; nursing*
+- **Pflege benötigen** — *care; nursing*
+- **Pflege der Haut** — *care; nursing*
+
 **Collocations**
 - häusliche Pflege
 - in der Pflege arbeiten

@@ -29,6 +29,11 @@ status: "new"
 > Die Mauern sind alt und verwittert.
 > *The walls are old and weathered.*
 
+**Phrases & Expressions:**
+- **verwitterter Stein** — *weathered*
+- **verwitterte Gesichtszüge** — *weathered*
+- **verwittert aussehen** — *weathered*
+
 **Collocations**
 - verwitterter Stein
 - verwitterte Gesichtszüge

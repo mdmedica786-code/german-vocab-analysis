@@ -29,6 +29,11 @@ status: "new"
 > Als ich das Geschenk sah, war ich sprachlos.
 > *When I saw the present I was speechless.*
 
+**Phrases & Expressions:**
+- **sprachlos sein** — *speechless*
+- **sprachlos zurücklassen** — *speechless*
+- **vor Staunen sprachlos** — *speechless*
+
 **Collocations**
 - sprachlos sein
 - sprachlos zurücklassen

@@ -33,6 +33,11 @@ status: "new"
 > Ein angenehmes Arbeitsumfeld motiviert die Mitarbeiter.
 > *A pleasant work environment motivates the employees.*
 
+**Phrases & Expressions:**
+- **ein gutes Arbeitsumfeld** — *work environment*
+- **das Arbeitsumfeld verändern** — *work environment*
+- **ein positives Arbeitsumfeld** — *work environment*
+
 **Collocations**
 - ein gutes Arbeitsumfeld
 - das Arbeitsumfeld verändern

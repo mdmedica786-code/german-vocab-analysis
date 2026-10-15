@@ -31,6 +31,9 @@ status: "new"
 > [!example] Beispiel
 > Er tritt nächste Woche seine neue Stelle an.
 > *He starts his new job next week.*
+
+**Phrases & Expressions:**
+- **Er tritt nächste Woche seine neue Stelle an** — *He starts his new job next week* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

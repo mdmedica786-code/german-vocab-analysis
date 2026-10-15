@@ -30,6 +30,9 @@ status: "new"
 > Das Projekt ist kommerziell erfolgreich.
 > *The project is commercially successful.*
 
+**Phrases & Expressions:**
+- **Das Projekt ist kommerziell erfolgreich** — *The project is commercially successful* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 11b (Zwischenmenschliches)
 <!-- bank:end -->
 

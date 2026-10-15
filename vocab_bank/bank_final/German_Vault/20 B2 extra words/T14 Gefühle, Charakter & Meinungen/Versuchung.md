@@ -33,6 +33,11 @@ status: "new"
 > Der Versuchung, ein Stück Kuchen zu essen, konnte er nicht widerstehen.
 > *He could not resist the temptation to eat a piece of cake.*
 
+**Phrases & Expressions:**
+- **der Versuchung widerstehen** — *temptation*
+- **in Versuchung geraten** — *temptation*
+- **in Versuchung führen** — *temptation*
+
 **Collocations**
 - der Versuchung widerstehen
 - in Versuchung geraten

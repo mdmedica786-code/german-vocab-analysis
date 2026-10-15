@@ -33,6 +33,11 @@ status: "new"
 > Gestern habe ich einen Dokumentarfilm über Wale gesehen.
 > *Yesterday I saw a documentary about whales.*
 
+**Phrases & Expressions:**
+- **einen Dokumentarfilm drehen** — *documentary*
+- **ein sehenswerter Dokumentarfilm** — *documentary*
+- **Dokumentarfilm über + Akk.** — *documentary*
+
 **Collocations**
 - einen Dokumentarfilm drehen
 - ein sehenswerter Dokumentarfilm

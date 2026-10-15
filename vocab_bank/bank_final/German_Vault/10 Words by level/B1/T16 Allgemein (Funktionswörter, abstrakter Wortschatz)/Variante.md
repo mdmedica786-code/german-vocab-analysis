@@ -34,6 +34,9 @@ status: "new"
 > Es gibt eine einfachere Variante.
 > *There is a simpler variant.*
 
+**Phrases & Expressions:**
+- **Es gibt eine einfachere Variante** — *There is a simpler variant* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 7a (Arbeitswelt)
 <!-- bank:end -->
 

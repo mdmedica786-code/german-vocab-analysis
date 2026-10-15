@@ -31,6 +31,11 @@ status: "new"
 > Sie verfluchte den Tag, an dem sie dort angefangen hatte.
 > *She cursed the day she started there.*
 
+**Phrases & Expressions:**
+- **jemanden verfluchen** — *to curse*
+- **den Tag verfluchen** — *to curse*
+- **verflucht noch mal** — *to curse*
+
 **Collocations**
 - jemanden verfluchen
 - den Tag verfluchen

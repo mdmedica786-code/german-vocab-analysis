@@ -33,6 +33,11 @@ status: "new"
 > Die Regierung kündigte Gegenmaßnahmen an.
 > *The government announced countermeasures.*
 
+**Phrases & Expressions:**
+- **Gegenmaßnahmen ergreifen** — *countermeasure*
+- **Gegenmaßnahmen einleiten** — *countermeasure*
+- **wirksame Gegenmaßnahmen** — *countermeasure*
+
 **Collocations**
 - Gegenmaßnahmen ergreifen
 - Gegenmaßnahmen einleiten

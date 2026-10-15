@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Tumor ist in einem frühen Stadium.
 > *The tumour is at an early stage.*
+
+**Phrases & Expressions:**
+- **Der Tumor ist in einem frühen Stadium** — *The tumour is at an early stage* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

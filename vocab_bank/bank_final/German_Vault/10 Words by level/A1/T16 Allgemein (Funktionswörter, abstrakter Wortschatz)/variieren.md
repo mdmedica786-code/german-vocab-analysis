@@ -32,6 +32,9 @@ status: "new"
 > Die Preise variieren von Geschäft zu Geschäft.
 > *Prices vary from shop to shop.*
 
+**Phrases & Expressions:**
+- **Die Preise variieren von Geschäft zu Geschäft** — *Prices vary from shop to shop* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 4b (Guten Tag!)
 <!-- bank:end -->
 

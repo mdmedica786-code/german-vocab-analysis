@@ -29,6 +29,10 @@ status: "new"
 > Der Vorschlag fand bei den Kollegen großen Anklang.
 > *The proposal met with great approval among the colleagues.*
 
+**Phrases & Expressions:**
+- **großen Anklang finden** — *to meet with approval*
+- **bei jemandem Anklang finden** — *to meet with approval*
+
 **Collocations**
 - großen Anklang finden
 - bei jemandem Anklang finden

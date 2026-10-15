@@ -30,6 +30,11 @@ status: "new"
 > Das Streikrecht ist im Gesetz geregelt.
 > *The right to strike is regulated by law.*
 
+**Phrases & Expressions:**
+- **das Streikrecht einschränken** — *right to strike*
+- **das Streikrecht nutzen** — *right to strike*
+- **das Streikrecht der Arbeitnehmer** — *right to strike*
+
 **Collocations**
 - das Streikrecht einschränken
 - das Streikrecht nutzen

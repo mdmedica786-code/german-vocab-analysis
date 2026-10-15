@@ -34,6 +34,10 @@ status: "new"
 > Haben Sie mein Schreiben vom 3. März erhalten?
 > *Did you receive my letter of 3 March?*
 
+**Phrases & Expressions:**
+- **Wir schreiben jetzt ein EKG, um Ihr Herz zu überprüfen.** — We are now going to record an ECG to check your heart. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|EKG]] · A2)*
+- **Schreiben Sie bitte sofort ein EKG und legen Sie den Monitor an.** — Please record an ECG immediately and attach the monitor. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Anweisung geben]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

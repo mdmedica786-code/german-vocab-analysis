@@ -33,6 +33,11 @@ status: "new"
 > Zu Weihnachten backt sie jedes Jahr Lebkuchen.
 > *At Christmas she bakes gingerbread every year.*
 
+**Phrases & Expressions:**
+- **Lebkuchen backen** — *gingerbread*
+- **Nürnberger Lebkuchen** — *gingerbread*
+- **Lebkuchen mit Schokolade** — *gingerbread*
+
 **Collocations**
 - Lebkuchen backen
 - Nürnberger Lebkuchen

@@ -34,6 +34,9 @@ status: "new"
 > Ich möchte zwei Hörnchen, bitte.
 > *I would like two croissants, please.*
 
+**Phrases & Expressions:**
+- **Ich möchte zwei Hörnchen, bitte** — *I would like two croissants, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander)
 <!-- bank:end -->
 

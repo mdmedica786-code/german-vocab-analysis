@@ -33,6 +33,11 @@ status: "new"
 > Vitamin C soll die Immunabwehr stärken.
 > *Vitamin C is supposed to strengthen the immune defence.*
 
+**Phrases & Expressions:**
+- **die Immunabwehr stärken** — *immune defence*
+- **eine schwache Immunabwehr** — *immune defence*
+- **die körpereigene Immunabwehr** — *immune defence*
+
 **Collocations**
 - die Immunabwehr stärken
 - eine schwache Immunabwehr

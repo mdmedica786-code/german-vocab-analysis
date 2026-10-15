@@ -33,6 +33,13 @@ status: "new"
 > Wann erfahren wir das Ergebnis der Prüfung?
 > *When will we find out the result of the exam?*
 
+**Phrases & Expressions:**
+- **erfahren, dass ...** — to learn that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **etwas erfahren** — *to learn; to find out; to experience*
+- **Neuigkeiten erfahren** — *to learn; to find out; to experience*
+- **aus der Zeitung erfahren** — *to learn; to find out; to experience*
+- **Liebe erfahren** — *to learn; to find out; to experience*
+
 **Collocations**
 - etwas erfahren
 - Neuigkeiten erfahren

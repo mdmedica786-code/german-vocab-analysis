@@ -35,6 +35,9 @@ status: "new"
 > Schwarzfahren kostet 60 Euro Strafe.
 > *Fare dodging costs a 60 euro fine.*
 
+**Phrases & Expressions:**
+- **Schwarzfahren kostet 60 Euro Strafe** — *Fare dodging costs a 60 euro fine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 1a (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

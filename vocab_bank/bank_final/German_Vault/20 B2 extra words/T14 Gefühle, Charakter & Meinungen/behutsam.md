@@ -29,6 +29,11 @@ status: "new"
 > Er trug das Baby behutsam die Treppe hinunter.
 > *He carried the baby carefully down the stairs.*
 
+**Phrases & Expressions:**
+- **behutsam vorgehen** — *careful; gentle*
+- **behutsam anfassen** — *careful; gentle*
+- **eine behutsame Annäherung** — *careful; gentle*
+
 **Collocations**
 - behutsam vorgehen
 - behutsam anfassen

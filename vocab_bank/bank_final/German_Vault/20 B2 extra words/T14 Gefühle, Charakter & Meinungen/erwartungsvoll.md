@@ -29,6 +29,11 @@ status: "new"
 > Die Kinder warteten erwartungsvoll auf die Geschenke.
 > *The children waited expectantly for the presents.*
 
+**Phrases & Expressions:**
+- **erwartungsvoll warten** — *expectant; full of anticipation*
+- **erwartungsvoll schauen** — *expectant; full of anticipation*
+- **ein erwartungsvoller Blick** — *expectant; full of anticipation*
+
 **Collocations**
 - erwartungsvoll warten
 - erwartungsvoll schauen

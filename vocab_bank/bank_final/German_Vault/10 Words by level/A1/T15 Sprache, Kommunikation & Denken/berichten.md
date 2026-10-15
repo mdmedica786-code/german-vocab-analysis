@@ -34,6 +34,14 @@ status: "new"
 > Alle Zeitungen berichten von dem Unfall.
 > *All the newspapers report on the accident.*
 
+**Phrases & Expressions:**
+- **Berichten zufolge sind mehrere Menschen verletzt worden.** — According to reports, several people have been injured. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Quelle distanziert wiedergeben]] · B2)*
+- **Anamnestisch berichtet der Patient über ...** — Anamnestically the patient reports ... *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Anamnese zusammenfassen]] · C1)*
+- **Wir berichten über Ihren Patienten ..., der sich vom ... bis ... in unserer stationären Behandlung befand.** — We are reporting on your patient ..., who was under our inpatient care from ... to ... *([[FSP-20 Arztbrief und Dokumentation|Anlass nennen]] · C1)*
+- **über etwas berichten** — *to report*
+- **von etwas berichten** — *to report*
+- **ausführlich berichten** — *to report*
+
 **Collocations**
 - über etwas berichten
 - von etwas berichten

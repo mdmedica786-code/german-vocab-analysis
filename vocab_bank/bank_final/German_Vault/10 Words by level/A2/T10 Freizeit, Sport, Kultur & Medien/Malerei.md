@@ -34,6 +34,9 @@ status: "new"
 > Die Malerei ist ihr Hobby.
 > *Painting is her hobby.*
 
+**Phrases & Expressions:**
+- **Die Malerei ist ihr Hobby** — *Painting is her hobby* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 10a (Gute Unterhaltung!)
 <!-- bank:end -->
 

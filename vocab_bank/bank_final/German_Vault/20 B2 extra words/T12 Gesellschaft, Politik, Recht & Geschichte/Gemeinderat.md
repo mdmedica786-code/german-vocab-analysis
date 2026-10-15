@@ -33,6 +33,11 @@ status: "new"
 > Der Gemeinderat entscheidet über den Bau der Schule.
 > *The municipal council decides on the building of the school.*
 
+**Phrases & Expressions:**
+- **im Gemeinderat sitzen** — *municipal council*
+- **der Gemeinderat tagt** — *municipal council*
+- **Gemeinderat wählen** — *municipal council*
+
 **Collocations**
 - im Gemeinderat sitzen
 - der Gemeinderat tagt

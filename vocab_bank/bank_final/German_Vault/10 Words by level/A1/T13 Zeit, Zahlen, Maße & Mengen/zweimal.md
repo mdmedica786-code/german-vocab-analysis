@@ -31,6 +31,10 @@ status: "new"
 > Ich nehme die Tablette zweimal am Tag.
 > *I take the tablet twice a day.*
 
+**Phrases & Expressions:**
+- **Ich gehe zweimal pro Woche ...** — I go ... twice a week. *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Häufigkeit angeben]] · B1)*
+- **Der Pflegedienst kommt zweimal täglich zu Ihnen nach Hause.** — The nursing service will come to your home twice a day. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Pflege zu Hause]] · B2)*
+
 **Source:** Netzwerk neu A1 K8 10b (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

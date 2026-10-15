@@ -30,6 +30,11 @@ status: "new"
 > Vermeiden Sie in Ihrem Brief unnötige Wortwiederholungen.
 > *Avoid unnecessary repetition of words in your letter.*
 
+**Phrases & Expressions:**
+- **Wortwiederholungen vermeiden** — *repetition of words*
+- **eine Wortwiederholung im Text** — *repetition of words*
+- **stilistische Wortwiederholung** — *repetition of words*
+
 **Collocations**
 - Wortwiederholungen vermeiden
 - eine Wortwiederholung im Text

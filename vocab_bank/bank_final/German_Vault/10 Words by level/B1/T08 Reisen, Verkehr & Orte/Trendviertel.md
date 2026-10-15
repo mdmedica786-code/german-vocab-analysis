@@ -31,6 +31,9 @@ status: "new"
 > Das Trendviertel hat viele kleine Cafés.
 > *The trendy district has many small cafés.*
 
+**Phrases & Expressions:**
+- **Das Trendviertel hat viele kleine Cafés** — *The trendy district has many small cafés* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

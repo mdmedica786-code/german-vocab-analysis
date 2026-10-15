@@ -29,6 +29,11 @@ status: "new"
 > Das Wetter ist heute echt ätzend.
 > *The weather is really awful today.*
 
+**Phrases & Expressions:**
+- **ätzend finden** — *caustic; awful (colloquial)*
+- **ätzend sein** — *caustic; awful (colloquial)*
+- **eine ätzende Flüssigkeit** — *caustic; awful (colloquial)*
+
 **Collocations**
 - ätzend finden
 - ätzend sein

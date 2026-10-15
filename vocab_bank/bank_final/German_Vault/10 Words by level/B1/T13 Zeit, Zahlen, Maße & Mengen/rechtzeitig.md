@@ -31,6 +31,9 @@ status: "new"
 > Bitte weck mich rechtzeitig. Ich muss pünktlich sein.
 > *Please wake me on time. I have to be punctual.*
 
+**Phrases & Expressions:**
+- **Bitte weck mich rechtzeitig. Ich muss pünktlich sein** — *Please wake me on time. I have to be punctual* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 3b (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

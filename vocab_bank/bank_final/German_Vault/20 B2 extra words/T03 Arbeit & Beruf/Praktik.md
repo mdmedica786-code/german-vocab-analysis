@@ -33,6 +33,11 @@ status: "new"
 > Diese Praktiken sind in vielen Ländern verboten.
 > *These practices are forbidden in many countries.*
 
+**Phrases & Expressions:**
+- **unfaire Praktiken** — *practice; method*
+- **geschäftliche Praktiken** — *practice; method*
+- **übliche Praktiken** — *practice; method*
+
 **Collocations**
 - unfaire Praktiken
 - geschäftliche Praktiken

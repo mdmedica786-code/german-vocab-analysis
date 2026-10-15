@@ -33,6 +33,11 @@ status: "new"
 > Mein Handy braucht ein neues Betriebssystem.
 > *My phone needs a new operating system.*
 
+**Phrases & Expressions:**
+- **das Betriebssystem aktualisieren** — *operating system*
+- **ein Betriebssystem installieren** — *operating system*
+- **unter diesem Betriebssystem** — *operating system*
+
 **Collocations**
 - das Betriebssystem aktualisieren
 - ein Betriebssystem installieren

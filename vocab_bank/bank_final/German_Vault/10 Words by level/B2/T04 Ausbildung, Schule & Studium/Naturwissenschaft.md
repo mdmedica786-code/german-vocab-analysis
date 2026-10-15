@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Chemie ist eine Naturwissenschaft.
 > *Chemistry is a natural science.*
+
+**Phrases & Expressions:**
+- **Chemie ist eine Naturwissenschaft** — *Chemistry is a natural science* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

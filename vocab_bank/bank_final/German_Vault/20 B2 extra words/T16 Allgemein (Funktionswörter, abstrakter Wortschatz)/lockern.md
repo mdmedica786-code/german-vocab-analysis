@@ -31,6 +31,11 @@ status: "new"
 > Die Regierung will die Vorschriften lockern.
 > *The government wants to relax the regulations.*
 
+**Phrases & Expressions:**
+- **Regeln lockern** — *to loosen; to relax (rules)*
+- **eine Schraube lockern** — *to loosen; to relax (rules)*
+- **sich lockern** — *to loosen; to relax (rules)*
+
 **Collocations**
 - Regeln lockern
 - eine Schraube lockern

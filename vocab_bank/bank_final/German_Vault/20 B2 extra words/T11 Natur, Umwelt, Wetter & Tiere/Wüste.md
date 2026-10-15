@@ -33,6 +33,11 @@ status: "new"
 > Die Sahara ist die größte Wüste der Erde.
 > *The Sahara is the largest desert on earth.*
 
+**Phrases & Expressions:**
+- **durch die Wüste reisen** — *desert*
+- **in der Wüste** — *desert*
+- **die Wüste wächst** — *desert*
+
 **Collocations**
 - durch die Wüste reisen
 - in der Wüste

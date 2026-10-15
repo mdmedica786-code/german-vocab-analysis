@@ -26,6 +26,11 @@ status: "new"
 > Die Verhandlungen kommen nur langsam in Gang.
 > *The negotiations are only slowly getting started.*
 
+**Phrases & Expressions:**
+- **langsam in Gang kommen** — *to get going; to get started*
+- **schwer in Gang kommen** — *to get going; to get started*
+- **in Gang bringen** — *to get going; to get started*
+
 **Collocations**
 - langsam in Gang kommen
 - schwer in Gang kommen

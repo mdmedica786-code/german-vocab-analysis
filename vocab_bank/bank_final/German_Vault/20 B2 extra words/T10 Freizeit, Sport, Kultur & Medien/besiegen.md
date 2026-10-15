@@ -31,6 +31,11 @@ status: "new"
 > Die deutsche Mannschaft besiegte den Gegner mit 3:1.
 > *The German team defeated the opponent 3-1.*
 
+**Phrases & Expressions:**
+- **einen Gegner besiegen** — *to defeat; to overcome*
+- **die Angst besiegen** — *to defeat; to overcome*
+- **eine Krankheit besiegen** — *to defeat; to overcome*
+
 **Collocations**
 - einen Gegner besiegen
 - die Angst besiegen

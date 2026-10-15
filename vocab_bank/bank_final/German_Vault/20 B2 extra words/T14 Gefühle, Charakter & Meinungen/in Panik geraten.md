@@ -26,6 +26,11 @@ status: "new"
 > Als das Licht ausging, ist sie in Panik geraten.
 > *When the lights went out she panicked.*
 
+**Phrases & Expressions:**
+- **in Panik ausbrechen** — *to panic*
+- **keine Panik machen** — *to panic*
+- **in Panik versetzen** — *to panic*
+
 **Collocations**
 - in Panik ausbrechen
 - keine Panik machen

@@ -32,6 +32,11 @@ status: "new"
 > Seine Großeltern sind in die USA ausgewandert.
 > *His grandparents emigrated to the USA.*
 
+**Phrases & Expressions:**
+- **nach Kanada auswandern** — *to emigrate*
+- **ins Ausland auswandern** — *to emigrate*
+- **auswandern wollen** — *to emigrate*
+
 **Collocations**
 - nach Kanada auswandern
 - ins Ausland auswandern

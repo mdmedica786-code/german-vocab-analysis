@@ -30,6 +30,9 @@ status: "new"
 > Sie ist eine leidenschaftliche Köchin.
 > *She is a passionate cook.*
 
+**Phrases & Expressions:**
+- **Sie ist eine leidenschaftliche Köchin** — *She is a passionate cook* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 11b (Zwischenmenschliches)
 <!-- bank:end -->
 

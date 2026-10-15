@@ -36,6 +36,9 @@ status: "new"
 > Deutschland ist Mitglied der Europäischen Union.
 > *Germany is a member of the European Union.*
 
+**Phrases & Expressions:**
+- **Deutschland ist Mitglied der Europäischen Union** — *Germany is a member of the European Union* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 10b (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

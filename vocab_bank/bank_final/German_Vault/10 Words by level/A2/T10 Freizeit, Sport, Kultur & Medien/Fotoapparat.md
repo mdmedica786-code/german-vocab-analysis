@@ -34,6 +34,9 @@ status: "new"
 > Ich möchte mir einen Fotoapparat kaufen.
 > *I would like to buy a camera.*
 
+**Phrases & Expressions:**
+- **Ich möchte mir einen Fotoapparat kaufen** — *I would like to buy a camera* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

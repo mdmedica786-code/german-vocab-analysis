@@ -34,6 +34,9 @@ status: "new"
 > In meinem Lebenslauf gibt es eine Lücke.
 > *There is a gap in my CV.*
 
+**Phrases & Expressions:**
+- **In meinem Lebenslauf gibt es eine Lücke** — *There is a gap in my CV* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

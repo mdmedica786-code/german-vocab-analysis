@@ -31,6 +31,11 @@ status: "new"
 > Der erste Eindruck kann täuschen.
 > *The first impression can be deceptive.*
 
+**Phrases & Expressions:**
+- **sich täuschen** — *to deceive; to be mistaken*
+- **jemanden täuschen** — *to deceive; to be mistaken*
+- **wenn mich nicht alles täuscht** — *to deceive; to be mistaken*
+
 **Collocations**
 - sich täuschen
 - jemanden täuschen

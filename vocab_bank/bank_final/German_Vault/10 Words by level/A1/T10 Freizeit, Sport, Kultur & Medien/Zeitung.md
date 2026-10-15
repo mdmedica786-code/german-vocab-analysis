@@ -35,6 +35,9 @@ status: "new"
 > Ich lese gern Zeitung.
 > *I like reading the newspaper.*
 
+**Phrases & Expressions:**
+- **Ich lese gern Zeitung** — *I like reading the newspaper* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 2a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

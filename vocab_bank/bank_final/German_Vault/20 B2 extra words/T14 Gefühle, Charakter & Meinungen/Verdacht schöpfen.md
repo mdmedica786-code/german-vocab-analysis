@@ -26,6 +26,10 @@ status: "new"
 > Der Kassierer schöpfte sofort Verdacht.
 > *The cashier immediately became suspicious.*
 
+**Phrases & Expressions:**
+- **Verdacht hegen** — *to become suspicious*
+- **unter Verdacht stehen** — *to become suspicious*
+
 **Collocations**
 - Verdacht hegen
 - unter Verdacht stehen

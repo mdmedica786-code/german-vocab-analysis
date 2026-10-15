@@ -34,6 +34,9 @@ status: "new"
 > Mein Lieblingsort ist der Park.
 > *My favourite place is the park.*
 
+**Phrases & Expressions:**
+- **Mein Lieblingsort ist der Park** — *My favourite place is the park* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 2a (Meine Wohnung)
 <!-- bank:end -->
 

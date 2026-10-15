@@ -34,6 +34,9 @@ status: "new"
 > Für die Aufgabe können Sie aus drei Themen auswählen.
 > *For the task you can choose from three topics.*
 
+**Phrases & Expressions:**
+- **Für die Aufgabe können Sie aus drei Themen auswählen** — *For the task you can choose from three topics* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 9c (Und was machst du?) · Goethe word list B1
 <!-- bank:end -->
 

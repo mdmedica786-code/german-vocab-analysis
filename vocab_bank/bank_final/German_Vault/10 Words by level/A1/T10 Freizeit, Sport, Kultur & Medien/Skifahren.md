@@ -34,6 +34,9 @@ status: "new"
 > Skifahren macht mir viel Spaß.
 > *I really enjoy skiing.*
 
+**Phrases & Expressions:**
+- **Skifahren macht mir viel Spaß** — *I really enjoy skiing* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7d (Ab in den Urlaub!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Unternehmensführung entscheidet über die Strategie.
 > *The corporate management decides on the strategy.*
 
+**Phrases & Expressions:**
+- **die Unternehmensführung übernehmen** — *corporate management*
+- **eine gute Unternehmensführung** — *corporate management*
+- **in der Unternehmensführung tätig sein** — *corporate management*
+
 **Collocations**
 - die Unternehmensführung übernehmen
 - eine gute Unternehmensführung

@@ -30,6 +30,9 @@ status: "new"
 > Wir kaufen nur nachhaltige Produkte.
 > *We only buy sustainable products.*
 
+**Phrases & Expressions:**
+- **Wir kaufen nur nachhaltige Produkte** — *We only buy sustainable products* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

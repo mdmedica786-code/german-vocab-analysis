@@ -33,6 +33,11 @@ status: "new"
 > Nach der Exmatrikulation endet der Anspruch auf das Semesterticket.
 > *After de-registration from university the entitlement to the semester ticket ends.*
 
+**Phrases & Expressions:**
+- **die Exmatrikulation beantragen** — *de-registration from university*
+- **Antrag auf Exmatrikulation** — *de-registration from university*
+- **Exmatrikulation bescheinigen** — *de-registration from university*
+
 **Collocations**
 - die Exmatrikulation beantragen
 - Antrag auf Exmatrikulation

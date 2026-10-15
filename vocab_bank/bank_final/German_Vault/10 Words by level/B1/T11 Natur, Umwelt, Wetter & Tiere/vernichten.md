@@ -32,6 +32,9 @@ status: "new"
 > Das Feuer hat die ganze Ernte vernichtet.
 > *The fire destroyed the whole harvest.*
 
+**Phrases & Expressions:**
+- **Das Feuer hat die ganze Ernte vernichtet** — *The fire destroyed the whole harvest* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?)
 <!-- bank:end -->
 

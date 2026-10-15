@@ -29,6 +29,13 @@ status: "new"
 > Er verließ unauffällig den Raum.
 > *He left the room unobtrusively.*
 
+**Phrases & Expressions:**
+- **Der Befund ist unauffällig.** — The finding is unremarkable. *([[FSP-08 Befunde beschreiben und berichten|Auffälligkeit formulieren]] · B2)*
+- **Der körperliche Untersuchungsbefund war unauffällig.** — The physical examination was unremarkable. *([[FSP-20 Arztbrief und Dokumentation|Befund beschreiben]] · B2)*
+- **unauffällig bleiben** — *inconspicuous; unobtrusive*
+- **sich unauffällig verhalten** — *inconspicuous; unobtrusive*
+- **ein unauffälliger Mann** — *inconspicuous; unobtrusive*
+
 **Collocations**
 - unauffällig bleiben
 - sich unauffällig verhalten

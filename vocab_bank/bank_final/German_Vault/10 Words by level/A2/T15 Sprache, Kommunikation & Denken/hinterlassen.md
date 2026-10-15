@@ -33,6 +33,9 @@ status: "new"
 > Möchten Sie eine Nachricht hinterlassen?
 > *Would you like to leave a message?*
 
+**Phrases & Expressions:**
+- **Könnte ich eine Nachricht hinterlassen?** — Could I leave a message? *([[B2-07 Telefonieren|Nachricht hinterlassen]] · B1)*
+
 **Source:** Netzwerk neu A2 K6 12b (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

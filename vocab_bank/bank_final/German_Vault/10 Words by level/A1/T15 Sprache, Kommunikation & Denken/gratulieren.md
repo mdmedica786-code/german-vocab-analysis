@@ -34,6 +34,9 @@ status: "new"
 > Ich gratuliere dir!
 > *Congratulations to you!*
 
+**Phrases & Expressions:**
+- **Ich gratuliere dir** — *Congratulations to you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle) · Goethe word list A1
 <!-- bank:end -->
 

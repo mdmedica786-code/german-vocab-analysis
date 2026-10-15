@@ -34,6 +34,9 @@ status: "new"
 > Ich höre jeden Morgen eine Radiosendung.
 > *Every morning I listen to a radio programme.*
 
+**Phrases & Expressions:**
+- **Ich höre jeden Morgen eine Radiosendung** — *Every morning I listen to a radio programme* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 1b (Studium und Beruf)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Der kleine Junge war beim Impfen sehr tapfer.
 > *The little boy was very brave at the vaccination.*
 
+**Phrases & Expressions:**
+- **tapfer sein** — *brave; valiant*
+- **sich tapfer schlagen** — *brave; valiant*
+- **tapfer durchhalten** — *brave; valiant*
+
 **Collocations**
 - tapfer sein
 - sich tapfer schlagen

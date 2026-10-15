@@ -35,6 +35,9 @@ status: "new"
 > Wir übernachten in der Hütte auf dem Berg.
 > *We're staying overnight in the hut on the mountain.*
 
+**Phrases & Expressions:**
+- **Wir übernachten in der Hütte auf dem Berg** — *We're staying overnight in the hut on the mountain* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

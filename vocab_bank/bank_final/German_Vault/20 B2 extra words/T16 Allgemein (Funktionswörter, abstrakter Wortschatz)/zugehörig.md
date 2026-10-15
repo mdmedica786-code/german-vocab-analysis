@@ -29,6 +29,11 @@ status: "new"
 > Das zugehörige Passwort finden Sie in der E-Mail.
 > *You will find the associated password in the email.*
 
+**Phrases & Expressions:**
+- **der zugehörige Text** — *belonging; associated; related*
+- **zugehörig sein** — *belonging; associated; related*
+- **die zugehörigen Unterlagen** — *belonging; associated; related*
+
 **Collocations**
 - der zugehörige Text
 - zugehörig sein

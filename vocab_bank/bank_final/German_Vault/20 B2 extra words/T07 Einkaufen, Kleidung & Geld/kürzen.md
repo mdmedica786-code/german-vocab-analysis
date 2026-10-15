@@ -31,6 +31,11 @@ status: "new"
 > Die Regierung will die Zuschüsse kürzen.
 > *The government wants to cut the subsidies.*
 
+**Phrases & Expressions:**
+- **einen Text kürzen** — *to shorten; to cut*
+- **den Lohn kürzen** — *to shorten; to cut*
+- **die Hose kürzen** — *to shorten; to cut*
+
 **Collocations**
 - einen Text kürzen
 - den Lohn kürzen

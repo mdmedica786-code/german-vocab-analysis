@@ -26,6 +26,11 @@ status: "new"
 > Das Unternehmen ist in finanzielle Schwierigkeiten geraten.
 > *The company has got into financial difficulties.*
 
+**Phrases & Expressions:**
+- **in finanzielle Schwierigkeiten geraten** — *to get into difficulties*
+- **in Schwierigkeiten bringen** — *to get into difficulties*
+- **jemandem aus Schwierigkeiten helfen** — *to get into difficulties*
+
 **Collocations**
 - in finanzielle Schwierigkeiten geraten
 - in Schwierigkeiten bringen

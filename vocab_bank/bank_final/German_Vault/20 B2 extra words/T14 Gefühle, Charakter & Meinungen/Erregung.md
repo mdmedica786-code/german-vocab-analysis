@@ -33,6 +33,11 @@ status: "new"
 > Vor Erregung konnte er kaum sprechen.
 > *He could hardly speak with excitement.*
 
+**Phrases & Expressions:**
+- **in Erregung geraten** — *excitement; agitation*
+- **vor Erregung zittern** — *excitement; agitation*
+- **öffentliche Erregung** — *excitement; agitation*
+
 **Collocations**
 - in Erregung geraten
 - vor Erregung zittern

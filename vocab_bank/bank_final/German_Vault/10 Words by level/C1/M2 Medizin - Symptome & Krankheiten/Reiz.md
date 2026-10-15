@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Reiz löst eine Reaktion im Nerv aus.
 > *The stimulus triggers a reaction in the nerve.*
+
+**Phrases & Expressions:**
+- **Der Reiz löst eine Reaktion im Nerv aus** — *The stimulus triggers a reaction in the nerve* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -35,6 +35,9 @@ status: "new"
 > Die Lernenden schreiben einen Test.
 > *The learners are writing a test.*
 
+**Phrases & Expressions:**
+- **Die Lernenden schreiben einen Test** — *The learners are writing a test* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

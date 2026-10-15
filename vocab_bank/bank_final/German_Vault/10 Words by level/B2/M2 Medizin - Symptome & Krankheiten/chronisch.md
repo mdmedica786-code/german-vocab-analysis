@@ -29,6 +29,14 @@ status: "new"
 > Der Patient leidet an chronischen Rückenschmerzen.
 > *The patient suffers from chronic back pain.*
 
+**Phrases & Expressions:**
+- **Sind Sie wegen einer chronischen Erkrankung in Behandlung?** — Are you receiving treatment for a chronic illness? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Vorerkrankungen erfragen]] · B1)*
+- **Die Erkrankung ist chronisch, das heißt, sie bleibt dauerhaft bestehen.** — The illness is chronic, meaning it persists permanently. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Chronische Erkrankung erklären]] · B2)*
+- **chronische Erkrankung** — *chronic*
+- **chronische Schmerzen** — *chronic*
+- **chronisch krank sein** — *chronic*
+- **chronische Bronchitis** — *chronic*
+
 **Collocations**
 - chronische Erkrankung
 - chronische Schmerzen

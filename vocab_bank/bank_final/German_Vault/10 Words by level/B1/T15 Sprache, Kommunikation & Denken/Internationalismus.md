@@ -34,6 +34,9 @@ status: "new"
 > Das Wort Computer ist ein Internationalismus.
 > *The word Computer is an internationalism (a word used in many languages).*
 
+**Phrases & Expressions:**
+- **Das Wort Computer ist ein Internationalismus** — *The word Computer is an internationalism (a word used in many languages)* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 10b (Blick nach vorn)
 <!-- bank:end -->
 

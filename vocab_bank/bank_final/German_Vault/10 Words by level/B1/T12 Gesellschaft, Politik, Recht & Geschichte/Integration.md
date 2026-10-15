@@ -35,6 +35,9 @@ status: "new"
 > Gute Deutschkenntnisse sollen bei der Integration helfen.
 > *Good German skills are supposed to help with integration.*
 
+**Phrases & Expressions:**
+- **Gute Deutschkenntnisse sollen bei der Integration helfen** — *Good German skills are supposed to help with integration* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

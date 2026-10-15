@@ -31,6 +31,9 @@ status: "new"
 > Die Kinder sind schon fast erwachsen.
 > *The children are almost grown up.*
 
+**Phrases & Expressions:**
+- **Die Kinder sind schon fast erwachsen** — *The children are almost grown up* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 3a (Nach der Schulzeit) · Goethe word list B1
 <!-- bank:end -->
 

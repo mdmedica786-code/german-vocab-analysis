@@ -29,6 +29,10 @@ status: "new"
 > Wir dürfen bei dem Problem nicht den Kopf in den Sand stecken.
 > *We must not bury our heads in the sand over the problem.*
 
+**Phrases & Expressions:**
+- **nicht den Kopf in den Sand stecken** — *to bury one's head in the sand*
+- **Probleme ignorieren** — *to bury one's head in the sand*
+
 **Collocations**
 - nicht den Kopf in den Sand stecken
 - Probleme ignorieren

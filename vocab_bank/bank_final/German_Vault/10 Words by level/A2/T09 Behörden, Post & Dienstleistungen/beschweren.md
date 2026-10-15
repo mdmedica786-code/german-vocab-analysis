@@ -34,6 +34,10 @@ status: "new"
 > Hier ist es zu laut. Wo können wir uns beschweren?
 > *It's too loud here. Where can we complain?*
 
+**Phrases & Expressions:**
+- **Hiermit möchte ich mich über ... beschweren.** — I hereby wish to complain about ... *([[B1-13 Formelle E-Mail und Brief|Anliegen nennen]] · B1)*
+- **Leider muss ich mich bei Ihnen über ... beschweren.** — Unfortunately I have to complain to you about ... *([[B2-04 Beschwerde und Reklamation|Anlass der Beschwerde]] · B2)*
+
 **Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

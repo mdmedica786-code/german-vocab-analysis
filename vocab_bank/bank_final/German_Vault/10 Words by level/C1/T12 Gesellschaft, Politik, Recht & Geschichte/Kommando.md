@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Auf mein Kommando geht es los.
 > *It starts on my command.*
+
+**Phrases & Expressions:**
+- **Auf mein Kommando geht es los** — *It starts on my command* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

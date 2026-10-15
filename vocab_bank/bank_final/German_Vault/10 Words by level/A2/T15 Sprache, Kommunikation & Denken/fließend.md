@@ -32,6 +32,9 @@ status: "new"
 > Mein Kollege spricht fließend Deutsch.
 > **
 
+**Phrases & Expressions:**
+- **Meine Muttersprache ist ... und ich spreche fließend ...** — My native language is ... and I speak ... fluently. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Lebenslauf formulieren]] · B2)*
+
 **Source:** Netzwerk neu A2 K1 1b (Und was machst du?) · Goethe word list B1
 <!-- bank:end -->
 

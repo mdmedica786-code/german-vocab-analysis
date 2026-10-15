@@ -29,6 +29,11 @@ status: "new"
 > Die Pflegerin ist sehr einfühlsam im Umgang mit den Patienten.
 > *The nurse is very sensitive in dealing with the patients.*
 
+**Phrases & Expressions:**
+- **einfühlsam reagieren** — *empathetic; sensitive*
+- **ein einfühlsamer Mensch** — *empathetic; sensitive*
+- **einfühlsam zuhören** — *empathetic; sensitive*
+
 **Collocations**
 - einfühlsam reagieren
 - ein einfühlsamer Mensch

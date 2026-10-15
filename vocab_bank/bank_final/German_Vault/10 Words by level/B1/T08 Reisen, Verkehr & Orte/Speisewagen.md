@@ -34,6 +34,9 @@ status: "new"
 > Wo ist der Speisewagen?
 > *Where is the dining car?*
 
+**Phrases & Expressions:**
+- **Wo ist der Speisewagen** — *Where is the dining car* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

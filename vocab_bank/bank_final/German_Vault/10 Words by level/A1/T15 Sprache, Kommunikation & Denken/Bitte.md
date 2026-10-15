@@ -35,6 +35,14 @@ status: "new"
 > Ich habe eine Bitte: ...
 > *I have a request: ...*
 
+**Phrases & Expressions:**
+- **ich bitte Sie, ... zu ...** — I ask you to ... *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B2)*
+- **wie bitte** — pardon? / excuse me? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **Kannst du bitte einen Salat mitbringen?** — Can you please bring a salad? *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Aufgaben verteilen]] · B1)*
+- **Könnten Sie mir bitte ... zeigen?** — Could you please show me ...? *([[B1-07 Bitten und höflich nachfragen|Um etwas bitten]] · B1)*
+- **Würden Sie bitte das Fenster schließen?** — Would you please close the window? *([[B1-07 Bitten und höflich nachfragen|Um etwas bitten]] · B1)*
+- **Kannst du mir bitte das Salz geben?** — Can you pass me the salt, please? *([[B1-07 Bitten und höflich nachfragen|Um etwas bitten]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 12b (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

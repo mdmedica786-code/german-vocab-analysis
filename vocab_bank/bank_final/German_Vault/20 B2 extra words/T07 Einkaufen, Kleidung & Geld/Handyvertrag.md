@@ -33,6 +33,11 @@ status: "new"
 > Mein Handyvertrag läuft im Mai ab.
 > *My mobile phone contract expires in May.*
 
+**Phrases & Expressions:**
+- **einen Handyvertrag abschließen** — *mobile phone contract*
+- **den Handyvertrag kündigen** — *mobile phone contract*
+- **einen günstigen Handyvertrag** — *mobile phone contract*
+
 **Collocations**
 - einen Handyvertrag abschließen
 - den Handyvertrag kündigen

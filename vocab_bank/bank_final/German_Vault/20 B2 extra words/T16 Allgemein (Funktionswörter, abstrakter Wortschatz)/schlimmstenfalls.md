@@ -29,6 +29,11 @@ status: "new"
 > Schlimmstenfalls müssen wir die Reise absagen.
 > *At worst we will have to cancel the trip.*
 
+**Phrases & Expressions:**
+- **schlimmstenfalls müssen** — *at worst; if the worst comes to the worst*
+- **im schlimmsten Fall** — *at worst; if the worst comes to the worst*
+- **schlimmstenfalls verlieren** — *at worst; if the worst comes to the worst*
+
 **Collocations**
 - schlimmstenfalls müssen
 - im schlimmsten Fall

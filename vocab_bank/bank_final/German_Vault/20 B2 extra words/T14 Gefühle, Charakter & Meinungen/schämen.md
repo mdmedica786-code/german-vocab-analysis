@@ -32,6 +32,11 @@ status: "new"
 > Ich schäme mich für mein Verhalten.
 > *I am ashamed of my behaviour.*
 
+**Phrases & Expressions:**
+- **sich schämen für** — *to be ashamed*
+- **sich schämen müssen** — *to be ashamed*
+- **sich in Grund und Boden schämen** — *to be ashamed*
+
 **Collocations**
 - sich schämen für
 - sich schämen müssen

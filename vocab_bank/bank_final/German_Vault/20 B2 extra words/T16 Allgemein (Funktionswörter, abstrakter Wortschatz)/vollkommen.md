@@ -29,6 +29,11 @@ status: "new"
 > Das ist vollkommen richtig, was du sagst.
 > *That is completely right, what you say.*
 
+**Phrases & Expressions:**
+- **vollkommen richtig** — *perfect; complete*
+- **vollkommen verstehen** — *perfect; complete*
+- **vollkommene Ruhe** — *perfect; complete*
+
 **Collocations**
 - vollkommen richtig
 - vollkommen verstehen

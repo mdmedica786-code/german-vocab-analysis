@@ -29,6 +29,11 @@ status: "new"
 > Bei so viel Arbeit kommt die Familie zu kurz.
 > *With so much work the family gets neglected.*
 
+**Phrases & Expressions:**
+- **die Familie kommt zu kurz** — *to get a raw deal; to be neglected*
+- **bei jemandem zu kurz kommen** — *to get a raw deal; to be neglected*
+- **Hobbys kommen zu kurz** — *to get a raw deal; to be neglected*
+
 **Collocations**
 - die Familie kommt zu kurz
 - bei jemandem zu kurz kommen

@@ -35,6 +35,9 @@ status: "new"
 > Wir fahren lieber mit der Bahn.
 > *We prefer to travel by train.*
 
+**Phrases & Expressions:**
+- **Wir fahren lieber mit der Bahn** — *We prefer to travel by train* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 3a ÜB (Arbeitswelten) · Goethe word list A1
 <!-- bank:end -->
 

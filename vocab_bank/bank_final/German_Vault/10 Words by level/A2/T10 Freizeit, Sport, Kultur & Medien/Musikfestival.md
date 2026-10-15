@@ -34,6 +34,9 @@ status: "new"
 > Im Sommer besuchen wir ein Musikfestival.
 > *In summer we are visiting a music festival.*
 
+**Phrases & Expressions:**
+- **Im Sommer besuchen wir ein Musikfestival** — *In summer we are visiting a music festival* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a (Gute Unterhaltung!)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Das Leben in diesem Land ist teuer.
 > *Life in this country is expensive.*
 
+**Phrases & Expressions:**
+- **getrennt leben** — to live apart *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B2)*
+
 **Source:** Netzwerk neu A1 K7 2a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

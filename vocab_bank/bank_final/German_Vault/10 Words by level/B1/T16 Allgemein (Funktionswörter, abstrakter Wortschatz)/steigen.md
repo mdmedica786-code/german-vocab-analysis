@@ -33,6 +33,14 @@ status: "new"
 > Die Preise für Milch und Gemüse sind schon wieder gestiegen.
 > *The prices for milk and vegetables have risen again.*
 
+**Phrases & Expressions:**
+- **Die Zahl ... ist von ... auf ... gestiegen.** — The number of ... has risen from ... to ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Zunahme beschreiben]] · B2)*
+- **Seit ... ist ... deutlich gestiegen.** — Since ... ... has risen clearly. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Entwicklung über Zeit]] · B2)*
+- **auf einen Berg steigen** — *to rise; to climb*
+- **in den Zug steigen** — *to rise; to climb*
+- **die Preise steigen** — *to rise; to climb*
+- **im Preis steigen** — *to rise; to climb*
+
 **Collocations**
 - auf einen Berg steigen
 - in den Zug steigen

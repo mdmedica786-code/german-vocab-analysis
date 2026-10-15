@@ -29,6 +29,11 @@ status: "new"
 > Alle Informationen sind online abrufbar.
 > *All information is available online.*
 
+**Phrases & Expressions:**
+- **online abrufbar** — *retrievable; available on demand*
+- **jederzeit abrufbar** — *retrievable; available on demand*
+- **abrufbar sein** — *retrievable; available on demand*
+
 **Collocations**
 - online abrufbar
 - jederzeit abrufbar

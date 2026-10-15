@@ -33,6 +33,11 @@ status: "new"
 > Als Eintrittstermin wurde der 1. April vereinbart.
 > *The start date agreed was 1 April.*
 
+**Phrases & Expressions:**
+- **den Eintrittstermin vereinbaren** — *start date (at a company); date of joining*
+- **der Eintrittstermin ist** — *start date (at a company); date of joining*
+- **ein früherer Eintrittstermin** — *start date (at a company); date of joining*
+
 **Collocations**
 - den Eintrittstermin vereinbaren
 - der Eintrittstermin ist

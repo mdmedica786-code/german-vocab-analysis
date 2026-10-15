@@ -30,6 +30,9 @@ status: "new"
 > Ich bin süchtig nach Schokolade.
 > *I am addicted to chocolate.*
 
+**Phrases & Expressions:**
+- **Ich bin süchtig nach Schokolade** — *I am addicted to chocolate* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Mit großer Schnelligkeit lief er davon.
 > *He ran off with great speed.*
 
+**Phrases & Expressions:**
+- **mit Schnelligkeit** — *speed; swiftness*
+- **an Schnelligkeit gewinnen** — *speed; swiftness*
+- **Schnelligkeit und Präzision** — *speed; swiftness*
+
 **Collocations**
 - mit Schnelligkeit
 - an Schnelligkeit gewinnen

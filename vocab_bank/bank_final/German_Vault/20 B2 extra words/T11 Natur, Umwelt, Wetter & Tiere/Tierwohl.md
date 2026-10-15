@@ -33,6 +33,11 @@ status: "new"
 > Viele Kunden achten beim Einkauf auf das Tierwohl.
 > *Many customers pay attention to animal welfare when shopping.*
 
+**Phrases & Expressions:**
+- **das Tierwohl fördern** — *animal welfare*
+- **auf das Tierwohl achten** — *animal welfare*
+- **das Tierwohl in der Landwirtschaft** — *animal welfare*
+
 **Collocations**
 - das Tierwohl fördern
 - auf das Tierwohl achten

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Ich esse gern spanische Tapas.
 > *I like eating Spanish tapas.*
+
+**Phrases & Expressions:**
+- **Ich esse gern spanische Tapas** — *I like eating Spanish tapas* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

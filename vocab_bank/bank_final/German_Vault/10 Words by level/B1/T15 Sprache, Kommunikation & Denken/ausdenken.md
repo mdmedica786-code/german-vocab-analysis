@@ -33,6 +33,9 @@ status: "new"
 > Ich denke mir eine Geschichte aus.
 > *I am thinking up a story.*
 
+**Phrases & Expressions:**
+- **ich dachte, ...** — I thought ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+
 **Source:** Netzwerk neu B1 K8 12a (Rund um Körper und Geist)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Mehr Selbstkritik würde ihm guttun.
 > *More self-criticism would do him good.*
 
+**Phrases & Expressions:**
+- **Selbstkritik üben** — *self-criticism*
+- **mangelnde Selbstkritik** — *self-criticism*
+- **mit Selbstkritik** — *self-criticism*
+
 **Collocations**
 - Selbstkritik üben
 - mangelnde Selbstkritik

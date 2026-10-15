@@ -33,6 +33,11 @@ status: "new"
 > Die Preise stehen in keiner Relation zur Qualität.
 > *The prices bear no relation to the quality.*
 
+**Phrases & Expressions:**
+- **in Relation zu** — *relation; ratio*
+- **in keiner Relation stehen** — *relation; ratio*
+- **in Relation setzen** — *relation; ratio*
+
 **Collocations**
 - in Relation zu
 - in keiner Relation stehen

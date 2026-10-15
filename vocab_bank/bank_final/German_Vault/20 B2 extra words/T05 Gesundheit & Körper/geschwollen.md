@@ -29,6 +29,11 @@ status: "new"
 > Nach dem Sturz hatte sie ein geschwollenes Knie.
 > *After the fall she had a swollen knee.*
 
+**Phrases & Expressions:**
+- **geschwollene Augen** — *swollen*
+- **ein geschwollenes Knie** — *swollen*
+- **geschwollen sein** — *swollen*
+
 **Collocations**
 - geschwollene Augen
 - ein geschwollenes Knie

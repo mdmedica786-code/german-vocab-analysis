@@ -31,6 +31,9 @@ status: "new"
 > Die Kinder sind beim Basteln sehr kreativ.
 > *The children are very creative when doing crafts.*
 
+**Phrases & Expressions:**
+- **Die Kinder sind beim Basteln sehr kreativ** — *The children are very creative when doing crafts* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Er ist fähig, die Aufgabe allein zu lösen.
 > *He is capable of solving the task alone.*
 
+**Phrases & Expressions:**
+- **zu etwas fähig sein** — *capable; able*
+- **ein fähiger Mitarbeiter** — *capable; able*
+- **fähig sein, zu** — *capable; able*
+
 **Collocations**
 - zu etwas fähig sein
 - ein fähiger Mitarbeiter

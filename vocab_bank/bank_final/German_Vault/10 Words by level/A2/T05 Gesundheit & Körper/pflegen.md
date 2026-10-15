@@ -33,6 +33,9 @@ status: "new"
 > Meine Mutter ist sehr krank. Ich muss sie pflegen.
 > *My mother is very ill. I have to care for her.*
 
+**Phrases & Expressions:**
+- **Wir würden Sie gern in die Pflege Ihres Angehörigen einbeziehen.** — We would like to involve you in caring for your relative. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Angehörige einbeziehen]] · B2)*
+
 **Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die neue Regel findet kaum Akzeptanz bei den Mitarbeitern.
 > *The new rule finds hardly any acceptance among the employees.*
 
+**Phrases & Expressions:**
+- **auf Akzeptanz stoßen** — *acceptance*
+- **Akzeptanz finden** — *acceptance*
+- **gesellschaftliche Akzeptanz** — *acceptance*
+
 **Collocations**
 - auf Akzeptanz stoßen
 - Akzeptanz finden

@@ -33,6 +33,11 @@ status: "new"
 > Die Einschaltquote der Sendung lag bei vier Millionen.
 > *The viewing figures for the programme were four million.*
 
+**Phrases & Expressions:**
+- **hohe Einschaltquote** — *viewing figures; ratings*
+- **die Einschaltquoten steigen** — *viewing figures; ratings*
+- **Einschaltquote erreichen** — *viewing figures; ratings*
+
 **Collocations**
 - hohe Einschaltquote
 - die Einschaltquoten steigen

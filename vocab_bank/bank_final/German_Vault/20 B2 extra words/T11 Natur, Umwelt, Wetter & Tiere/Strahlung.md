@@ -33,6 +33,11 @@ status: "new"
 > Die UV-Strahlung ist im Sommer besonders stark.
 > *UV radiation is especially strong in summer.*
 
+**Phrases & Expressions:**
+- **radioaktive Strahlung** — *radiation*
+- **die Strahlung messen** — *radiation*
+- **vor Strahlung schützen** — *radiation*
+
 **Collocations**
 - radioaktive Strahlung
 - die Strahlung messen

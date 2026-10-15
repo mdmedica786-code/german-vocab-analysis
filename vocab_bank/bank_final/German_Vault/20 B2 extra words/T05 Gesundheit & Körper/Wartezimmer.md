@@ -33,6 +33,11 @@ status: "new"
 > Im Wartezimmer saßen schon zehn Patienten.
 > *Ten patients were already sitting in the waiting room.*
 
+**Phrases & Expressions:**
+- **im Wartezimmer warten** — *waiting room*
+- **ins Wartezimmer gehen** — *waiting room*
+- **im Wartezimmer Platz nehmen** — *waiting room*
+
 **Collocations**
 - im Wartezimmer warten
 - ins Wartezimmer gehen

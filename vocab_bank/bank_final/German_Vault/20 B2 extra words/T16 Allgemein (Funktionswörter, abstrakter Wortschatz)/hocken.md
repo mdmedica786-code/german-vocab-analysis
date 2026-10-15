@@ -31,6 +31,11 @@ status: "new"
 > Die Kinder hocken am Boden und spielen.
 > *The children are squatting on the floor and playing.*
 
+**Phrases & Expressions:**
+- **am Boden hocken** — *to squat; to crouch; to sit around*
+- **zu Hause hocken** — *to squat; to crouch; to sit around*
+- **sich hinhocken** — *to squat; to crouch; to sit around*
+
 **Collocations**
 - am Boden hocken
 - zu Hause hocken

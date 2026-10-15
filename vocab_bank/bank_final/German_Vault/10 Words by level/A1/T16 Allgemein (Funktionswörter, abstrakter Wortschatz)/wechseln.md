@@ -33,6 +33,9 @@ status: "new"
 > Wir müssen den Reifen wechseln.
 > *We have to change the tyre.*
 
+**Phrases & Expressions:**
+- **Wechseln wir uns alle zwei Minuten bei der Herzdruckmassage ab.** — Let us take turns with chest compressions every two minutes. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Reanimation]] · C1)*
+
 **Source:** Netzwerk neu A1 K4 6a (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

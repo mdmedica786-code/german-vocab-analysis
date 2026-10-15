@@ -34,6 +34,9 @@ status: "new"
 > Sie haben eine Infektion. Sie müssen Tabletten nehmen.
 > *You have an infection. You have to take tablets.*
 
+**Phrases & Expressions:**
+- **Zu den möglichen Komplikationen gehören Blutungen und Infektionen.** — Possible complications include bleeding and infections. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Komplikationen nennen]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

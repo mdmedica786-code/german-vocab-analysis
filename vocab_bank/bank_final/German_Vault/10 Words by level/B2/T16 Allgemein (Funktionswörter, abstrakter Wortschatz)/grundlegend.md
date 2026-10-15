@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Wir brauchen grundlegende Veränderungen im System.
 > *We need fundamental changes in the system.*
+
+**Phrases & Expressions:**
+- **Wir brauchen grundlegende Veränderungen im System** — *We need fundamental changes in the system* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,11 @@ status: "new"
 > Ich brauche neue Turnschuhe für den Sportunterricht.
 > *I need new trainers for PE.*
 
+**Phrases & Expressions:**
+- **Turnschuhe tragen** — *trainer; gym shoe*
+- **ein Paar Turnschuhe** — *trainer; gym shoe*
+- **weiße Turnschuhe** — *trainer; gym shoe*
+
 **Collocations**
 - Turnschuhe tragen
 - ein Paar Turnschuhe

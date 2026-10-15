@@ -33,6 +33,14 @@ status: "new"
 > Was kann ich für Sie tun?
 > *What can I do for you?*
 
+**Phrases & Expressions:**
+- **es tut mir leid** — I'm sorry *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · A1)*
+- **tut mir leid** — I'm sorry *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · A1)*
+- **tut mir so leid** — I'm so sorry *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · A2)*
+- **weh tun** — to hurt *([[Probleme - Beschwerden beschreiben (problem, symptom, complaint)|Probleme / Beschwerden beschreiben (problem, symptom, complaint)]] · A1)*
+- **in der Tat** — indeed *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · C1)*
+- **zu tun haben** — to have to do with *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B1)*
+
 **Source:** Netzwerk neu A1 K5 13a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

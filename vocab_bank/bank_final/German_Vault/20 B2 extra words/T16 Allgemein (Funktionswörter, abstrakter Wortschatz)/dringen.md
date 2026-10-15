@@ -31,6 +31,11 @@ status: "new"
 > Das Wasser dringt durch das alte Dach.
 > *The water penetrates through the old roof.*
 
+**Phrases & Expressions:**
+- **durch etwas dringen** — *to penetrate; to press (for)*
+- **auf etwas dringen** — *to penetrate; to press (for)*
+- **an die Öffentlichkeit dringen** — *to penetrate; to press (for)*
+
 **Collocations**
 - durch etwas dringen
 - auf etwas dringen

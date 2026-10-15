@@ -30,6 +30,9 @@ status: "new"
 > Hey, wie geht's?
 > *Hey, how's it going?*
 
+**Phrases & Expressions:**
+- **Hey, wie geht's** — *Hey, how's it going* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10b (Alltag und Familie)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Seniorin geht jeden Tag spazieren.
 > *The senior citizen goes for a walk every day.*
 
+**Phrases & Expressions:**
+- **Die Seniorin geht jeden Tag spazieren** — *The senior citizen goes for a walk every day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 9a (Gelernt ist gelernt!)
 <!-- bank:end -->
 

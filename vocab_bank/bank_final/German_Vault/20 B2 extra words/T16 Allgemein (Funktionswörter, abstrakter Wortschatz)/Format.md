@@ -33,6 +33,11 @@ status: "new"
 > Das Dokument hat ein anderes Format.
 > *The document has a different format.*
 
+**Phrases & Expressions:**
+- **im Format A4** — *format; size*
+- **ein neues Format** — *format; size*
+- **das Dateiformat** — *format; size*
+
 **Collocations**
 - im Format A4
 - ein neues Format

@@ -34,6 +34,9 @@ status: "new"
 > Sie ist eine echte Naturfreundin.
 > *She is a real nature lover.*
 
+**Phrases & Expressions:**
+- **Sie ist eine echte Naturfreundin** — *She is a real nature lover* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?)
 <!-- bank:end -->
 

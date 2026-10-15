@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Buch ist ein Bestseller.
 > *The book is a bestseller.*
+
+**Phrases & Expressions:**
+- **Das Buch ist ein Bestseller** — *The book is a bestseller* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

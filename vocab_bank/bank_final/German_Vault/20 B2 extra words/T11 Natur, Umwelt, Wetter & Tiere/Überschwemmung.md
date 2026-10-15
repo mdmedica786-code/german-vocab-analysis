@@ -33,6 +33,11 @@ status: "new"
 > Nach dem starken Regen kam es zu Überschwemmungen.
 > *After the heavy rain there were floods.*
 
+**Phrases & Expressions:**
+- **Überschwemmungen verhindern** — *flood*
+- **von einer Überschwemmung betroffen** — *flood*
+- **zu Überschwemmungen führen** — *flood*
+
 **Collocations**
 - Überschwemmungen verhindern
 - von einer Überschwemmung betroffen

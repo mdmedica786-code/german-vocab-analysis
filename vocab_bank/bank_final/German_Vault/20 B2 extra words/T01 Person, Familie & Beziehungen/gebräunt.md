@@ -29,6 +29,11 @@ status: "new"
 > Nach dem Urlaub war sie schön gebräunt.
 > *After the holiday she was nicely tanned.*
 
+**Phrases & Expressions:**
+- **gebräunt sein** — *tanned*
+- **gebräunte Haut** — *tanned*
+- **von der Sonne gebräunt** — *tanned*
+
 **Collocations**
 - gebräunt sein
 - gebräunte Haut

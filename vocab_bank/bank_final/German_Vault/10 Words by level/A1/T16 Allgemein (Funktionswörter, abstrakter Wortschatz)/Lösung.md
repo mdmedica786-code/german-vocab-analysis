@@ -35,6 +35,10 @@ status: "new"
 > Die Lösung ist ganz einfach.
 > *The solution is quite simple.*
 
+**Phrases & Expressions:**
+- **Unterm Strich ist das eine gute Lösung.** — At the end of the day, that is a good solution. *([[B1-04 Vor- und Nachteile nennen|Zum Ergebnis kommen]] · B1)*
+- **Ich hoffe auf eine zufriedenstellende Lösung.** — I hope for a satisfactory solution. *([[B2-04 Beschwerde und Reklamation|Schlussformel Beschwerde]] · B2)*
+
 **Source:** Netzwerk neu A1 K3 2b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

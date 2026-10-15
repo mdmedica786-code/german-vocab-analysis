@@ -33,6 +33,11 @@ status: "new"
 > Ich habe keinen Schimmer, wo mein Schlüssel ist.
 > *I have no idea where my key is.*
 
+**Phrases & Expressions:**
+- **keinen Schimmer haben** — *glimmer; faint trace (colloquial: "keinen Schimmer")*
+- **ein Schimmer von Hoffnung** — *glimmer; faint trace (colloquial: "keinen Schimmer")*
+- **im Schimmer des Mondes** — *glimmer; faint trace (colloquial: "keinen Schimmer")*
+
 **Collocations**
 - keinen Schimmer haben
 - ein Schimmer von Hoffnung

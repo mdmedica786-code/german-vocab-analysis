@@ -31,6 +31,9 @@ status: "new"
 > Sie sind für Ihre Kinder verantwortlich.
 > *You are responsible for your children.*
 
+**Phrases & Expressions:**
+- **Sie sind für Ihre Kinder verantwortlich** — *You are responsible for your children* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7a (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

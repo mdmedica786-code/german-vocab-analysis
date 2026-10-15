@@ -32,6 +32,11 @@ status: "new"
 > Das Buch befasst sich mit der Geschichte der Stadt.
 > *The book deals with the history of the city.*
 
+**Phrases & Expressions:**
+- **sich mit etwas befassen** — *to deal with; to concern oneself*
+- **sich intensiv befassen** — *to deal with; to concern oneself*
+- **sich mit einer Frage befassen** — *to deal with; to concern oneself*
+
 **Collocations**
 - sich mit etwas befassen
 - sich intensiv befassen

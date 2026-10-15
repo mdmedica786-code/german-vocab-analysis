@@ -35,6 +35,9 @@ status: "new"
 > Unsere Wohnung hat eine Wohnfläche von 100 m².
 > *Our flat has a living area of 100 m².*
 
+**Phrases & Expressions:**
+- **Unsere Wohnung hat eine Wohnfläche von 100 m²** — *Our flat has a living area of 100 m²* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1b (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Er konnte keine stichhaltigen Beweise vorlegen.
 > *He could not present any valid evidence.*
 
+**Phrases & Expressions:**
+- **ein stichhaltiges Argument** — *sound; valid*
+- **stichhaltige Beweise** — *sound; valid*
+- **nicht stichhaltig** — *sound; valid*
+
 **Collocations**
 - ein stichhaltiges Argument
 - stichhaltige Beweise

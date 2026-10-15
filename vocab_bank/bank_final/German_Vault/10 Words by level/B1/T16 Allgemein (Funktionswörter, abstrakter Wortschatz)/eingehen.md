@@ -33,6 +33,14 @@ status: "new"
 > Der Lehrer geht auf die Fragen der Schüler ein.
 > *The teacher responds to the students' questions.*
 
+**Phrases & Expressions:**
+- **wie geht es dir?** — how are you? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **wie geht es dir** — how are you? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **es geht um ...** — it is about ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · A2)*
+- **ich hoffe, es geht dir gut** — I hope you are well *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **geht nicht** — that won't do; that's not possible *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · A2)*
+- **wenn es darum geht, ...** — when it comes to ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+
 **Source:** Netzwerk neu B1 K11 10 (Stadt, Land, Fluss)
 <!-- bank:end -->
 

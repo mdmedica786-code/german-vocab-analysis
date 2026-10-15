@@ -33,6 +33,11 @@ status: "new"
 > Zu viele Düngemittel schaden dem Grundwasser.
 > *Too much fertiliser harms the groundwater.*
 
+**Phrases & Expressions:**
+- **Düngemittel einsetzen** — *fertiliser*
+- **chemische Düngemittel** — *fertiliser*
+- **auf Düngemittel verzichten** — *fertiliser*
+
 **Collocations**
 - Düngemittel einsetzen
 - chemische Düngemittel

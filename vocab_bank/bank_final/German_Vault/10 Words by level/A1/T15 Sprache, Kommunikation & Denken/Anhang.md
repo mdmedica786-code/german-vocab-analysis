@@ -34,6 +34,9 @@ status: "new"
 > Im Anhang finden Sie die Unterlagen.
 > *You will find the documents in the attachment.*
 
+**Phrases & Expressions:**
+- **Im Anhang finden Sie meinen Lebenslauf.** — You will find my CV attached. *([[B1-13 Formelle E-Mail und Brief|Anhang erwähnen]] · B1)*
+
 **Source:** Netzwerk neu A1 K10 5b (Studium und Beruf)
 <!-- bank:end -->
 

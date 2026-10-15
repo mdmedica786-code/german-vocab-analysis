@@ -26,6 +26,10 @@ status: "new"
 > Die Ersthelfer leisteten sofort Hilfe.
 > *The first aiders rendered assistance immediately.*
 
+**Phrases & Expressions:**
+- **erste Hilfe leisten** — *to render assistance*
+- **Beistand leisten** — *to render assistance*
+
 **Collocations**
 - erste Hilfe leisten
 - Beistand leisten

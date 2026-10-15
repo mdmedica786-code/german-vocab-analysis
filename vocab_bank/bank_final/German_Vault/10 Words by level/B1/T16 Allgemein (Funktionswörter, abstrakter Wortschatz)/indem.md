@@ -31,6 +31,9 @@ status: "new"
 > Du kannst die Datei öffnen, indem du hier klickst.
 > *You can open the file by clicking here.*
 
+**Phrases & Expressions:**
+- **Man kann Geld sparen, indem man ...** — You can save money by ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Mittel nennen]] · B1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

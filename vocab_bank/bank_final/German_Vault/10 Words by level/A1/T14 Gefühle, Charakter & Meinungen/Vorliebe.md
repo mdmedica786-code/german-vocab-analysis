@@ -34,6 +34,9 @@ status: "new"
 > Ich habe eine Vorliebe für scharfes Essen.
 > *I have a preference for spicy food.*
 
+**Phrases & Expressions:**
+- **Ich habe eine Vorliebe für scharfes Essen** — *I have a preference for spicy food* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!)
 <!-- bank:end -->
 

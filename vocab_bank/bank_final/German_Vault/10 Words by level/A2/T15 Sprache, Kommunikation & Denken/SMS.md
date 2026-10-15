@@ -34,6 +34,9 @@ status: "new"
 > Ich schicke dir gleich eine SMS.
 > *I'll send you a text message in a moment.*
 
+**Phrases & Expressions:**
+- **Ich schicke dir gleich eine SMS** — *I'll send you a text message in a moment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 8a (Ganz schön mobil)
 <!-- bank:end -->
 

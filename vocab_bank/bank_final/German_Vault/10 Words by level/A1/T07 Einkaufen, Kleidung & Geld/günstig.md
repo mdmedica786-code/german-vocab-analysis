@@ -31,6 +31,9 @@ status: "new"
 > Dort gibt es günstige Angebote.
 > *There are good offers there.*
 
+**Phrases & Expressions:**
+- **Dort gibt es günstige Angebote** — *There are good offers there* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3d (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

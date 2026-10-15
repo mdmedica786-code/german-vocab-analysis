@@ -35,6 +35,10 @@ status: "new"
 > Oh, hier ist aber schlechte Luft.
 > *Oh, the air in here is bad.*
 
+**Phrases & Expressions:**
+- **Bekommen Sie schlecht Luft?** — Do you have difficulty breathing? *([[FSP-06 Systemanamnese (Organsysteme)|Atmung]] · A2)*
+- **Halten Sie bitte kurz die Luft an.** — Please hold your breath for a moment. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Atemanweisung]] · B1)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

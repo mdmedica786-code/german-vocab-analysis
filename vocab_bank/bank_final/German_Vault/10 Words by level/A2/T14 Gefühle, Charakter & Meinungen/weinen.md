@@ -33,6 +33,9 @@ status: "new"
 > Warum weint das Baby?
 > *Why is the baby crying?*
 
+**Phrases & Expressions:**
+- **Warum weint das Baby** — *Why is the baby crying* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12a (Immer online?) · Goethe word list A2
 <!-- bank:end -->
 

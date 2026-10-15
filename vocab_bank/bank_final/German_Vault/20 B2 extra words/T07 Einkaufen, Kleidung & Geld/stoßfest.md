@@ -29,6 +29,11 @@ status: "new"
 > Die Uhr ist wasserdicht und stoßfest.
 > *The watch is waterproof and shockproof.*
 
+**Phrases & Expressions:**
+- **stoßfest und wasserdicht** — *shockproof*
+- **ein stoßfestes Gehäuse** — *shockproof*
+- **stoßfest sein** — *shockproof*
+
 **Collocations**
 - stoßfest und wasserdicht
 - ein stoßfestes Gehäuse

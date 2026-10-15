@@ -33,6 +33,11 @@ status: "new"
 > Das Hotel hat einen hohen Standard.
 > *The hotel has a high standard.*
 
+**Phrases & Expressions:**
+- **ein hoher Standard** — *standard; level*
+- **Standards einhalten** — *standard; level*
+- **dem Standard entsprechen** — *standard; level*
+
 **Collocations**
 - ein hoher Standard
 - Standards einhalten

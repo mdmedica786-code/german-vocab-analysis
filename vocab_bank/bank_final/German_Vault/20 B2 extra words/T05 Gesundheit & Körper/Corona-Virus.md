@@ -30,6 +30,11 @@ status: "new"
 > Das Corona-Virus hat sich weltweit verbreitet.
 > *The coronavirus has spread worldwide.*
 
+**Phrases & Expressions:**
+- **das Corona-Virus verbreitet sich** — *coronavirus*
+- **sich mit dem Corona-Virus anstecken** — *coronavirus*
+- **auf das Corona-Virus testen** — *coronavirus*
+
 **Collocations**
 - das Corona-Virus verbreitet sich
 - sich mit dem Corona-Virus anstecken

@@ -34,6 +34,12 @@ status: "new"
 > Womit haben Sie sich bei Ihrer Arbeit beschäftigt?
 > *What did you deal with in your job?*
 
+**Phrases & Expressions:**
+- **sich mit einem Thema beschäftigen** — *to occupy oneself with*
+- **Mitarbeiter beschäftigen** — *to occupy oneself with*
+- **beschäftigt sein** — *to occupy oneself with*
+- **sich mit Kindern beschäftigen** — *to occupy oneself with*
+
 **Collocations**
 - sich mit einem Thema beschäftigen
 - Mitarbeiter beschäftigen

@@ -34,6 +34,9 @@ status: "new"
 > Das Bild ist mit Ölfarbe gemalt.
 > *The picture is painted with oil paint.*
 
+**Phrases & Expressions:**
+- **Das Bild ist mit Ölfarbe gemalt** — *The picture is painted with oil paint* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7b (Kunststücke)
 <!-- bank:end -->
 

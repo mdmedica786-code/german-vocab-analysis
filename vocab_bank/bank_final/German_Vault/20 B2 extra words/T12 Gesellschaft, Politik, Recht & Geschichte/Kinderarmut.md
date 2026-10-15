@@ -33,6 +33,11 @@ status: "new"
 > Kinderarmut ist in einem reichen Land ein ernstes Problem.
 > *Child poverty is a serious problem in a rich country.*
 
+**Phrases & Expressions:**
+- **Kinderarmut bekämpfen** — *child poverty*
+- **von Kinderarmut betroffen** — *child poverty*
+- **steigende Kinderarmut** — *child poverty*
+
 **Collocations**
 - Kinderarmut bekämpfen
 - von Kinderarmut betroffen

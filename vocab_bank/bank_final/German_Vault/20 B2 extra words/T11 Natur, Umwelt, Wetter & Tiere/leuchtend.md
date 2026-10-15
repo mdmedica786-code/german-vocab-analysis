@@ -29,6 +29,11 @@ status: "new"
 > Sie trug ein leuchtend rotes Kleid.
 > *She wore a bright red dress.*
 
+**Phrases & Expressions:**
+- **leuchtend rot** — *bright; glowing; vivid*
+- **leuchtende Farben** — *bright; glowing; vivid*
+- **ein leuchtender Stern** — *bright; glowing; vivid*
+
 **Collocations**
 - leuchtend rot
 - leuchtende Farben

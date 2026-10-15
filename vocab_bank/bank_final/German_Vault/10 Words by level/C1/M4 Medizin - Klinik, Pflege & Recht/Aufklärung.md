@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Vor der Operation erfolgt die Aufklärung des Patienten.
 > *Before the operation the patient is given the informed-consent briefing.*
+
+**Phrases & Expressions:**
+- **Vor der Operation erfolgt die Aufklärung des Patienten** — *Before the operation the patient is given the informed-consent briefing* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

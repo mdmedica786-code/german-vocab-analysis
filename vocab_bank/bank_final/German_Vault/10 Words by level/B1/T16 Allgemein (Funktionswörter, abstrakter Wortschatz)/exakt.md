@@ -30,6 +30,9 @@ status: "new"
 > Können Sie mir die exakte Uhrzeit sagen?
 > *Can you tell me the exact time?*
 
+**Phrases & Expressions:**
+- **Können Sie mir die exakte Uhrzeit sagen** — *Can you tell me the exact time* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1b (Arbeitswelt)
 <!-- bank:end -->
 

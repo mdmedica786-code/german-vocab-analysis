@@ -33,6 +33,11 @@ status: "new"
 > Die Bürgerrechte sind im Grundgesetz verankert.
 > *Civil rights are enshrined in the Basic Law.*
 
+**Phrases & Expressions:**
+- **Bürgerrechte einschränken** — *civil right*
+- **Bürgerrechte verteidigen** — *civil right*
+- **für Bürgerrechte kämpfen** — *civil right*
+
 **Collocations**
 - Bürgerrechte einschränken
 - Bürgerrechte verteidigen

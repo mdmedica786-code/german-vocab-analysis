@@ -35,6 +35,9 @@ status: "new"
 > Die Kinder sitzen im Wohnzimmer und sehen fern.
 > *The children are sitting in the living room watching TV.*
 
+**Phrases & Expressions:**
+- **Die Kinder sitzen im Wohnzimmer und sehen fern** — *The children are sitting in the living room watching TV* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

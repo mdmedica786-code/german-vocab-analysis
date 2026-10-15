@@ -35,6 +35,12 @@ status: "new"
 > Ich interessiere mich nicht für Politik.
 > *I'm not interested in politics.*
 
+**Phrases & Expressions:**
+- **Politik machen** — *politics*
+- **in die Politik gehen** — *politics*
+- **sich für Politik interessieren** — *politics*
+- **internationale Politik** — *politics*
+
 **Collocations**
 - Politik machen
 - in die Politik gehen

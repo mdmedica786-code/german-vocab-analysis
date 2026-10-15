@@ -34,6 +34,12 @@ status: "new"
 > Ich habe mir den Daumen in der Tür eingeklemmt.
 > *I trapped my thumb in the door.*
 
+**Phrases & Expressions:**
+- **den Daumen drücken** — *thumb*
+- **Daumen und Zeigefinger** — *thumb*
+- **der Daumen schmerzt** — *thumb*
+- **sich den Daumen verstauchen** — *thumb*
+
 **Collocations**
 - den Daumen drücken
 - Daumen und Zeigefinger

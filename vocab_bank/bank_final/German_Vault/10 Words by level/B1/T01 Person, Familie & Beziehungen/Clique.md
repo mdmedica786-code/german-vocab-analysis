@@ -34,6 +34,9 @@ status: "new"
 > Er gehört zu einer Clique aus der Schule.
 > *He belongs to a clique from school.*
 
+**Phrases & Expressions:**
+- **Er gehört zu einer Clique aus der Schule** — *He belongs to a clique from school* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 2b (Zwischenmenschliches)
 <!-- bank:end -->
 

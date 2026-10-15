@@ -36,6 +36,9 @@ status: "new"
 > Kranke brauchen viel Ruhe.
 > *Sick people need a lot of rest.*
 
+**Phrases & Expressions:**
+- **Kranke brauchen viel Ruhe** — *Sick people need a lot of rest* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1a (Guten Tag!) · Goethe word list B1
 <!-- bank:end -->
 

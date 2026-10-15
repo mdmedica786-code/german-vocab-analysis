@@ -34,6 +34,9 @@ status: "new"
 > Die Arzthelferin macht einen Termin für Sie.
 > *The doctor's assistant makes an appointment for you.*
 
+**Phrases & Expressions:**
+- **Die Arzthelferin macht einen Termin für Sie** — *The doctor's assistant makes an appointment for you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 11b (Nach der Schulzeit)
 <!-- bank:end -->
 

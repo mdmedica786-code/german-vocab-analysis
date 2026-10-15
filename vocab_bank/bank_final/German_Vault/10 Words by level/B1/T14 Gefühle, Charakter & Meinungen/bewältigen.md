@@ -32,6 +32,9 @@ status: "new"
 > Sie bewältigt den Stress im Beruf gut.
 > *She copes well with the stress at work.*
 
+**Phrases & Expressions:**
+- **Sie bewältigt den Stress im Beruf gut** — *She copes well with the stress at work* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

@@ -31,6 +31,11 @@ status: "new"
 > Er fluchte laut, als ihm die Tasse herunterfiel.
 > *He swore loudly when the cup fell off.*
 
+**Phrases & Expressions:**
+- **laut fluchen** — *to swear; to curse*
+- **über etwas fluchen** — *to swear; to curse*
+- **wie ein Rohrspatz fluchen** — *to swear; to curse*
+
 **Collocations**
 - laut fluchen
 - über etwas fluchen

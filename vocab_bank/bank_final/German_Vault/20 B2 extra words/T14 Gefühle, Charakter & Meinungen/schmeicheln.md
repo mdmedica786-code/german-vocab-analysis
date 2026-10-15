@@ -31,6 +31,11 @@ status: "new"
 > Ihr Lob hat mir sehr geschmeichelt.
 > *Her praise flattered me very much.*
 
+**Phrases & Expressions:**
+- **jemandem schmeicheln** — *to flatter*
+- **sich geschmeichelt fühlen** — *to flatter*
+- **schmeichelhaft sein** — *to flatter*
+
 **Collocations**
 - jemandem schmeicheln
 - sich geschmeichelt fühlen

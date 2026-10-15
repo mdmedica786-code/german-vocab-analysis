@@ -33,6 +33,11 @@ status: "new"
 > Im 19. Jahrhundert gab es eine große Auswanderung nach Amerika.
 > *In the 19th century there was a large emigration to America.*
 
+**Phrases & Expressions:**
+- **die Auswanderung nach + Dat.** — *emigration*
+- **eine Auswanderung planen** — *emigration*
+- **Auswanderung in die USA** — *emigration*
+
 **Collocations**
 - die Auswanderung nach + Dat.
 - eine Auswanderung planen

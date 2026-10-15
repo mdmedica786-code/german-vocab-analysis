@@ -33,6 +33,11 @@ status: "new"
 > Weizen ist eine wichtige Nutzpflanze.
 > *Wheat is an important crop.*
 
+**Phrases & Expressions:**
+- **eine Nutzpflanze anbauen** — *useful plant; crop*
+- **eine wichtige Nutzpflanze** — *useful plant; crop*
+- **Nutzpflanzen und Zierpflanzen** — *useful plant; crop*
+
 **Collocations**
 - eine Nutzpflanze anbauen
 - eine wichtige Nutzpflanze

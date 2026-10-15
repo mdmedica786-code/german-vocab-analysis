@@ -35,6 +35,9 @@ status: "new"
 > Brauchen Sie eine Quittung?
 > *Do you need a receipt?*
 
+**Phrases & Expressions:**
+- **Brauchen Sie eine Quittung** — *Do you need a receipt* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 5b (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

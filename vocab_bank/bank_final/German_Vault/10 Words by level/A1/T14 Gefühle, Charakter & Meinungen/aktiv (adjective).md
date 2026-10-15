@@ -31,6 +31,12 @@ status: "new"
 > Peter ist sehr aktiv und macht viel Sport.
 > *Peter is very active and does a lot of sport.*
 
+**Phrases & Expressions:**
+- **aktiv sein** — *active*
+- **aktiv werden** — *active*
+- **sich aktiv beteiligen** — *active*
+- **aktiv zuhören** — *active*
+
 **Collocations**
 - aktiv sein
 - aktiv werden

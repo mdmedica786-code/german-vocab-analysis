@@ -34,6 +34,9 @@ status: "new"
 > Nach dem Kinobesuch gehen wir noch essen.
 > *After the visit to the cinema we're going out to eat.*
 
+**Phrases & Expressions:**
+- **Nach dem Kinobesuch gehen wir noch essen** — *After the visit to the cinema we're going out to eat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 13a (Immer online?)
 <!-- bank:end -->
 

@@ -14,24 +14,28 @@ tags: ["redemittel", "level/B1"]
 ## Meinung nennen
 
 - **Ich finde, dass ...** ⭐ — I think that ...
+  - Words: [[finden]]
   - Ich finde, dass Sport in der Schule sehr wichtig ist. *(I think that sport is very important at school.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: dass-Satz: Verb am Ende
   - Variants: Ich denke, dass ... | Ich glaube, dass ...
   - Exam: Goethe B1 Sprechen Teil 2 und 3
 - **Ich bin der Meinung, dass ...** ⭐ — I am of the opinion that ...
+  - Words: [[Meinung]]
   - Ich bin der Meinung, dass man Kindern mehr Zeit zum Spielen geben sollte. *(I am of the opinion that children should be given more time to play.)*
   - B1 · formal · speaker: Beide · to: Alle
   - Grammar: dass-Satz: Verb am Ende
   - Variants: Ich vertrete die Ansicht, dass ... | Ich bin überzeugt, dass ...
   - Exam: Goethe B1 Sprechen Teil 2 und 3
 - **Meiner Meinung nach ...** ⭐ — In my opinion ...
+  - Words: [[Meinung]]
   - Meiner Meinung nach ist das Auto in der Stadt nicht nötig. *(In my opinion, a car is not necessary in the city.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: Danach Hauptsatz: Verb an Position 2
   - Variants: Meines Erachtens ... | Aus meiner Sicht ...
   - Exam: Goethe B1 Sprechen Teil 2 und 3
 - **Aus meiner Sicht ...** ⭐ — From my point of view ...
+  - Words: [[Sicht]]
   - Aus meiner Sicht ist Online-Lernen eine gute Ergänzung. *(From my point of view, online learning is a good supplement.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: Danach Hauptsatz: Verb an Position 2
@@ -40,6 +44,7 @@ tags: ["redemittel", "level/B1"]
 ## Persönliche Meinung betonen
 
 - **Ich persönlich denke, ...** — I personally think ...
+  - Words: [[persönlich]] · [[denken (verb)]]
   - Ich persönlich denke, wir sollten früher anfangen. *(I personally think we should start earlier.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: Hauptsatz ohne dass: Verb an Position 2
@@ -48,18 +53,21 @@ tags: ["redemittel", "level/B1"]
 ## Überzeugung ausdrücken
 
 - **Ich bin davon überzeugt, dass ...** ⭐ — I am convinced that ...
+  - Words: [[davon]] · [[überzeugen]] · [[überzeugt sein]] · [[davongehen]]
   - Ich bin davon überzeugt, dass dieser Plan funktioniert. *(I am convinced that this plan will work.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: davon ... dass: Verb am Ende
   - Variants: Ich bin fest überzeugt, dass ... | Ich bin mir sicher, dass ...
   - Exam: Goethe B1 Sprechen Teil 2 und 3
 - **Ich bin mir ganz sicher, dass ...** ⭐ — I am completely sure that ...
+  - Words: [[ganz]] · [[sicher]] · [[sicherstellen]]
   - Ich bin mir ganz sicher, dass er pünktlich kommt. *(I am completely sure that he will arrive on time.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: dass-Satz: Verb am Ende
   - Variants: Ich bin absolut sicher, dass ... | Ich zweifle nicht daran, dass ...
   - Exam: Goethe B1 Sprechen Teil 2 und 3
 - **Für mich steht außer Frage, dass ...** — For me there is no question that ...
+  - Words: [[fragen]] · [[Frage]] · [[stehen]] · [[aufstehen]] · [[außer]] · [[feststehen]] · [[zustehen]] · [[gegenüberstehen]]
   - Für mich steht außer Frage, dass wir mehr für die Umwelt tun müssen. *(For me there is no question that we have to do more for the environment.)*
   - B1 · formal · speaker: Beide · to: Alle
   - Grammar: dass-Satz: Verb am Ende
@@ -68,12 +76,14 @@ tags: ["redemittel", "level/B1"]
 ## Meinung abschwächen
 
 - **Vielleicht liege ich falsch, aber ...** ⭐ — Maybe I'm wrong, but ...
+  - Words: [[vielleicht]] · [[falsch]] · [[liegen]]
   - Vielleicht liege ich falsch, aber ich glaube, der Zug ist schneller. *(Maybe I'm wrong, but I think the train is faster.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: aber + Hauptsatz: Verb an Position 2
   - Variants: Ich kann mich irren, aber ... | Das ist nur meine Meinung, aber ...
   - Exam: Goethe B1 Sprechen Teil 2 und 3
 - **Ich würde sagen, dass ...** ⭐ — I would say that ...
+  - Words: [[sagen]] · [[Würde]]
   - Ich würde sagen, dass das Konzert sehr gut war. *(I would say that the concert was very good.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: würde + Infinitiv = vorsichtiger; dass-Satz
@@ -82,6 +92,7 @@ tags: ["redemittel", "level/B1"]
 ## Eindruck schildern
 
 - **Ich habe den Eindruck, dass ...** — I have the impression that ...
+  - Words: [[Eindruck]] · [[haben]]
   - Ich habe den Eindruck, dass viele Leute zu wenig schlafen. *(I have the impression that many people sleep too little.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: dass-Satz: Verb am Ende
@@ -90,12 +101,14 @@ tags: ["redemittel", "level/B1"]
 ## Keine klare Meinung haben
 
 - **Ich bin mir nicht sicher, was ich davon halten soll.** ⭐ — I'm not sure what to make of it.
+  - Words: [[halten]] · [[davon]] · [[sicher]] · [[davongehen]] · [[was]] · [[sollen]] · [[sicherstellen]]
   - Ich bin mir nicht sicher, was ich von dem Vorschlag halten soll. *(I'm not sure what to make of the suggestion.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: Indirekter Fragesatz: Verb am Ende
   - Variants: Ich weiß nicht so recht, was ich davon halten soll. | Ich bin da unschlüssig.
   - Exam: Goethe B1 Sprechen Teil 2 und 3
 - **Dazu habe ich keine feste Meinung.** — I don't have a firm opinion on that.
+  - Words: [[dazu]] · [[fest (adjective)]] · [[Fest]] · [[Meinung]] · [[dazugehören]] · [[dazukommen]] · [[dazulernen]] · [[dazuschreiben]]
   - Zu diesem Thema habe ich keine feste Meinung. *(I don't have a firm opinion on this topic.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: keine + Akk.-Objekt
@@ -104,18 +117,21 @@ tags: ["redemittel", "level/B1"]
 ## Nach der Meinung fragen
 
 - **Was meinst du dazu?** ⭐ — What do you think about it?
+  - Words: [[dazu]] · [[dazugehören]] · [[meinen]] · [[dazukommen]] · [[dazulernen]] · [[dazuschreiben]] · [[was]]
   - Was meinst du dazu? Sollen wir ins Kino gehen? *(What do you think? Shall we go to the cinema?)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: du-Form; Frage mit Verb an Position 2
   - Variants: Wie siehst du das? | Was denkst du darüber?
   - Exam: Goethe B1 Sprechen Teil 2 und 3
 - **Was halten Sie davon, wenn ...?** ⭐ — What do you think about it if ...?
+  - Words: [[halten]] · [[davon]] · [[davongehen]] · [[was]]
   - Was halten Sie davon, wenn wir den Termin verschieben? *(What do you think about it if we postpone the appointment?)*
   - B1 · formal · speaker: Beide · to: Alle
   - Grammar: halten von + Dat.; wenn-Satz: Verb am Ende
   - Variants: Wie sehen Sie das? | Was ist Ihre Meinung dazu?
   - Exam: Goethe B1 Sprechen Teil 2 und 3
 - **Wie denken Sie darüber?** — What do you think about that?
+  - Words: [[darüber]] · [[denken (verb)]] · [[Denken]]
   - Wie denken Sie darüber, dass die Preise steigen? *(What do you think about the fact that prices are rising?)*
   - B1 · formal · speaker: Beide · to: Alle
   - Grammar: denken über/darüber; Sie-Form
@@ -132,6 +148,7 @@ tags: ["redemittel", "level/B1"]
 ## Forumsbeitrag einleiten
 
 - **Ich möchte meine Meinung zu diesem Thema äußern.** ⭐ — I would like to express my opinion on this topic.
+  - Words: [[möchten]] · [[Thema]] · [[Meinung]] · [[meinen]] · [[äußern]]
   - Ich möchte meine Meinung zum Thema Handynutzung äußern. *(I would like to express my opinion on the topic of mobile phone use.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: möchte + Infinitiv am Ende

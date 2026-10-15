@@ -35,6 +35,9 @@ status: "new"
 > Hasen fressen gern Karotten.
 > *Rabbits like eating carrots.*
 
+**Phrases & Expressions:**
+- **Hasen fressen gern Karotten** — *Rabbits like eating carrots* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 2 ÜB (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

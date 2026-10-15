@@ -34,6 +34,9 @@ status: "new"
 > über andere sprechen
 > *to speak about others*
 
+**Phrases & Expressions:**
+- **über andere sprechen** — *to speak about others* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 8e (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

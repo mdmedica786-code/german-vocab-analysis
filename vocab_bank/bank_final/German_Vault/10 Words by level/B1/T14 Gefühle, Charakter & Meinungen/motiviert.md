@@ -30,6 +30,9 @@ status: "new"
 > Die Schüler sind sehr motiviert.
 > *The pupils are very motivated.*
 
+**Phrases & Expressions:**
+- **Die Schüler sind sehr motiviert** — *The pupils are very motivated* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 11c (Rund um Körper und Geist)
 <!-- bank:end -->
 

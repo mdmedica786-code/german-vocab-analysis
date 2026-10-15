@@ -33,6 +33,12 @@ status: "new"
 > Die Diagnostik umfasst Blutuntersuchungen und Röntgen.
 > *Diagnostics include blood tests and X-rays.*
 
+**Phrases & Expressions:**
+- **bildgebende Diagnostik** — *diagnostics*
+- **Diagnostik und Therapie** — *diagnostics*
+- **die Diagnostik erweitern** — *diagnostics*
+- **invasive Diagnostik** — *diagnostics*
+
 **Collocations**
 - bildgebende Diagnostik
 - Diagnostik und Therapie

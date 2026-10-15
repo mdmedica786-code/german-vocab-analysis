@@ -35,6 +35,9 @@ status: "new"
 > Tauschen Sie die Rollen.
 > *Swap roles.*
 
+**Phrases & Expressions:**
+- **Tauschen Sie die Rollen** — *Swap roles* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 11 (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

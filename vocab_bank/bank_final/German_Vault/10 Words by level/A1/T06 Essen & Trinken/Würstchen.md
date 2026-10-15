@@ -34,6 +34,9 @@ status: "new"
 > Zum Mittagessen gibt es Würstchen mit Kartoffelsalat.
 > *For lunch there are sausages with potato salad.*
 
+**Phrases & Expressions:**
+- **Zum Mittagessen gibt es Würstchen mit Kartoffelsalat** — *For lunch there are sausages with potato salad* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1a (Guten Tag!)
 <!-- bank:end -->
 

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Es hat stark geregnet, dementsprechend nass sind die Straßen.
 > *It rained heavily, so the streets are correspondingly wet.*
+
+**Phrases & Expressions:**
+- **Es hat stark geregnet, dementsprechend nass sind die Straßen** — *It rained heavily, so the streets are correspondingly wet* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

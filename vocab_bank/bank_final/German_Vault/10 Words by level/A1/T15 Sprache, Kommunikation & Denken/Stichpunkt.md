@@ -34,6 +34,9 @@ status: "new"
 > Schreiben Sie die wichtigsten Stichpunkte auf.
 > *Write down the most important bullet points.*
 
+**Phrases & Expressions:**
+- **Schreiben Sie die wichtigsten Stichpunkte auf** — *Write down the most important bullet points* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

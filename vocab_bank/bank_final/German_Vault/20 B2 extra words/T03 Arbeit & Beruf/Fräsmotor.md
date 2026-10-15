@@ -30,6 +30,11 @@ status: "new"
 > Der Fräsmotor der Maschine läuft sehr leise.
 > *The milling motor of the machine runs very quietly.*
 
+**Phrases & Expressions:**
+- **den Fräsmotor einschalten** — *milling motor*
+- **ein starker Fräsmotor** — *milling motor*
+- **der Fräsmotor überhitzt** — *milling motor*
+
 **Collocations**
 - den Fräsmotor einschalten
 - ein starker Fräsmotor

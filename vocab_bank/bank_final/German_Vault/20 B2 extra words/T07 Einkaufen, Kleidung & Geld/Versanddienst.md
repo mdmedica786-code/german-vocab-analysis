@@ -30,6 +30,11 @@ status: "new"
 > Der Versanddienst liefert das Paket morgen.
 > *The shipping service will deliver the parcel tomorrow.*
 
+**Phrases & Expressions:**
+- **einen Versanddienst beauftragen** — *shipping service; courier service*
+- **ein schneller Versanddienst** — *shipping service; courier service*
+- **der Versanddienst eines Onlineshops** — *shipping service; courier service*
+
 **Collocations**
 - einen Versanddienst beauftragen
 - ein schneller Versanddienst

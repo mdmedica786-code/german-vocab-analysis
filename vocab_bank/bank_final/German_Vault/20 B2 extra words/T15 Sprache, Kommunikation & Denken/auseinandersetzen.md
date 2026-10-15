@@ -32,6 +32,11 @@ status: "new"
 > Sie setzt sich intensiv mit dem Thema auseinander.
 > *She deals intensively with the topic.*
 
+**Phrases & Expressions:**
+- **sich mit etwas auseinandersetzen** — *to discuss in detail; (sich) to deal with; to come to terms with*
+- **sich kritisch auseinandersetzen** — *to discuss in detail; (sich) to deal with; to come to terms with*
+- **sich mit jemandem auseinandersetzen** — *to discuss in detail; (sich) to deal with; to come to terms with*
+
 **Collocations**
 - sich mit etwas auseinandersetzen
 - sich kritisch auseinandersetzen

@@ -29,6 +29,11 @@ status: "new"
 > Sie war gestern ziemlich zickig.
 > *She was rather moody yesterday.*
 
+**Phrases & Expressions:**
+- **zickig sein** — *bitchy; moody (colloquial)*
+- **zickig reagieren** — *bitchy; moody (colloquial)*
+- **eine zickige Antwort** — *bitchy; moody (colloquial)*
+
 **Collocations**
 - zickig sein
 - zickig reagieren

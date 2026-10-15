@@ -33,6 +33,11 @@ status: "new"
 > Aus roten Johannisbeeren koche ich Marmelade.
 > *I make jam from redcurrants.*
 
+**Phrases & Expressions:**
+- **rote Johannisbeeren** — *redcurrant; blackcurrant*
+- **Johannisbeersaft** — *redcurrant; blackcurrant*
+- **Johannisbeeren ernten** — *redcurrant; blackcurrant*
+
 **Collocations**
 - rote Johannisbeeren
 - Johannisbeersaft

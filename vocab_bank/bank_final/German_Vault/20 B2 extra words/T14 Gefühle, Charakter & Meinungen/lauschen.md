@@ -31,6 +31,11 @@ status: "new"
 > Die Kinder lauschten der Geschichte gespannt.
 > *The children listened to the story with suspense.*
 
+**Phrases & Expressions:**
+- **an der Tür lauschen** — *to listen (closely); to eavesdrop*
+- **gespannt lauschen** — *to listen (closely); to eavesdrop*
+- **der Musik lauschen** — *to listen (closely); to eavesdrop*
+
 **Collocations**
 - an der Tür lauschen
 - gespannt lauschen

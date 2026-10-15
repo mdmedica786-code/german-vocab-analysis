@@ -30,6 +30,11 @@ status: "new"
 > Der Schauspielberuf ist hart und unsicher.
 > *The acting profession is hard and uncertain.*
 
+**Phrases & Expressions:**
+- **den Schauspielberuf wählen** — *acting profession*
+- **im Schauspielberuf arbeiten** — *acting profession*
+- **der Schauspielberuf als Traum** — *acting profession*
+
 **Collocations**
 - den Schauspielberuf wählen
 - im Schauspielberuf arbeiten

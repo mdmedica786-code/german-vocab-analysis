@@ -29,6 +29,11 @@ status: "new"
 > „Kippen“ ist umgangssprachlich für „Zigaretten“.
 > *"Kippen" is colloquial for "Zigaretten".*
 
+**Phrases & Expressions:**
+- **umgangssprachlich sagen** — *colloquial; informal (language)*
+- **ein umgangssprachlicher Ausdruck** — *colloquial; informal (language)*
+- **umgangssprachlich gebraucht** — *colloquial; informal (language)*
+
 **Collocations**
 - umgangssprachlich sagen
 - ein umgangssprachlicher Ausdruck

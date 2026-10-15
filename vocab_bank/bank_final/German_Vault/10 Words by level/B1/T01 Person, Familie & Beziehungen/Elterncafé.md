@@ -31,6 +31,9 @@ status: "new"
 > Im Elterncafé treffen sich Eltern zum Austausch.
 > *Parents meet in the parents' café to chat.*
 
+**Phrases & Expressions:**
+- **Im Elterncafé treffen sich Eltern zum Austausch** — *Parents meet in the parents' café to chat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7b (Miteinander)
 <!-- bank:end -->
 

@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Worin liegt der Unterschied?
 > *What is the difference?*
+
+**Phrases & Expressions:**
+- **Worin liegt der Unterschied** — *What is the difference* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,11 @@ status: "new"
 > Der Zug fuhr mit einem Ruck an.
 > *The train started with a jerk.*
 
+**Phrases & Expressions:**
+- **mit einem Ruck** — *jerk; jolt*
+- **sich einen Ruck geben** — *jerk; jolt*
+- **ein Ruck geht durch** — *jerk; jolt*
+
 **Collocations**
 - mit einem Ruck
 - sich einen Ruck geben

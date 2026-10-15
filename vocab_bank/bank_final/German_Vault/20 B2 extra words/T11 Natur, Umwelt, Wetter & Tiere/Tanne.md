@@ -33,6 +33,11 @@ status: "new"
 > Zu Weihnachten stellen wir eine Tanne ins Wohnzimmer.
 > *At Christmas we put a fir in the living room.*
 
+**Phrases & Expressions:**
+- **ein Tannenbaum** — *fir*
+- **Tannenzweige** — *fir*
+- **eine Tanne schmücken** — *fir*
+
 **Collocations**
 - ein Tannenbaum
 - Tannenzweige

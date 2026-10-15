@@ -38,6 +38,9 @@ status: "new"
 > Das Europäische Parlament sitzt in Straßburg.
 > *The European Parliament sits in Strasbourg.*
 
+**Phrases & Expressions:**
+- **Das Europäische Parlament sitzt in Straßburg** — *The European Parliament sits in Strasbourg* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

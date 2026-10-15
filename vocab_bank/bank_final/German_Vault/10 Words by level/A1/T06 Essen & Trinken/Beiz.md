@@ -42,6 +42,9 @@ status: "new"
 > Wir treffen uns in der Beiz um die Ecke.
 > *We're meeting in the pub around the corner.*
 
+**Phrases & Expressions:**
+- **Wir treffen uns in der Beiz um die Ecke** — *We're meeting in the pub around the corner* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden)
 <!-- bank:end -->
 

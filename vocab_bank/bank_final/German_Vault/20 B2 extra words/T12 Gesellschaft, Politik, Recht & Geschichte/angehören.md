@@ -32,6 +32,14 @@ status: "new"
 > Er gehört seit zehn Jahren einer Partei an.
 > *He has belonged to a party for ten years.*
 
+**Phrases & Expressions:**
+- **gehört, dass ...** — heard that ... *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **ich habe gehört, dass ...** — I have heard that ... *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **Zu meinen Aufgaben gehörte(n) ...** — My duties included ... *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Berufserfahrung beschreiben]] · B2)*
+- **Ich habe den Eindruck, dass ich nicht gehört werde.** — I have the impression that I am not being listened to. *([[B2-12 Höflichkeit und Diplomatie - Kritik und Ablehnung abmildern|Ich-Botschaft]] · B2)*
+- **einer Partei angehören** — *to belong to; to be a member of*
+- **einem Verein angehören** — *to belong to; to be a member of*
+
 **Collocations**
 - einer Partei angehören
 - einem Verein angehören

@@ -34,6 +34,9 @@ status: "new"
 > Die Siedlung liegt am Stadtrand.
 > *The housing estate is on the outskirts of the city.*
 
+**Phrases & Expressions:**
+- **Die Siedlung liegt am Stadtrand** — *The housing estate is on the outskirts of the city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

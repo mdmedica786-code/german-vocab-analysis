@@ -33,6 +33,11 @@ status: "new"
 > Im Bürgerzentrum findet jeden Montag ein Sprachcafé statt.
 > *A language café takes place at the community centre every Monday.*
 
+**Phrases & Expressions:**
+- **im Bürgerzentrum** — *community centre; civic centre*
+- **ein Bürgerzentrum eröffnen** — *community centre; civic centre*
+- **das Bürgerzentrum besuchen** — *community centre; civic centre*
+
 **Collocations**
 - im Bürgerzentrum
 - ein Bürgerzentrum eröffnen

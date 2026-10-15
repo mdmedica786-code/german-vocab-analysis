@@ -33,6 +33,11 @@ status: "new"
 > Sie studiert Medienwissenschaften in Köln.
 > *She studies media studies in Cologne.*
 
+**Phrases & Expressions:**
+- **Medienwissenschaften studieren** — *media studies*
+- **ein Studium der Medienwissenschaften** — *media studies*
+- **Medienwissenschaften und Kommunikation** — *media studies*
+
 **Collocations**
 - Medienwissenschaften studieren
 - ein Studium der Medienwissenschaften

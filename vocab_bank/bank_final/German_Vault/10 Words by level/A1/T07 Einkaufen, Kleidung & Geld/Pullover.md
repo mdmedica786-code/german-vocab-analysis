@@ -35,6 +35,9 @@ status: "new"
 > Ich muss mir einen Pullover kaufen.
 > *I have to buy myself a sweater.*
 
+**Phrases & Expressions:**
+- **Ich muss mir einen Pullover kaufen** — *I have to buy myself a sweater* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 2a (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -30,6 +30,9 @@ status: "new"
 > Ich überlege ernsthaft, ob ich in eine andere Stadt ziehen soll.
 > *I am seriously considering whether I should move to another city.*
 
+**Phrases & Expressions:**
+- **Waren Sie früher schon einmal ernsthaft krank?** — Have you ever been seriously ill before? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Vorerkrankungen erfragen]] · B1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

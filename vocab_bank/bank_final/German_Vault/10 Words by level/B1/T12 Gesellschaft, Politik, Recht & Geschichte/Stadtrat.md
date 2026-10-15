@@ -35,6 +35,9 @@ status: "new"
 > Sie ist Mitglied im Stadtrat.
 > *She's a member of the city council.*
 
+**Phrases & Expressions:**
+- **Sie ist Mitglied im Stadtrat** — *She's a member of the city council* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

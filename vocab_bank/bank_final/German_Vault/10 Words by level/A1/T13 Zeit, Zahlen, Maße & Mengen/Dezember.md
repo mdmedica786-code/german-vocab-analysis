@@ -35,6 +35,9 @@ status: "new"
 > Im Dezember schneit es oft.
 > *It often snows in December.*
 
+**Phrases & Expressions:**
+- **Im Dezember schneit es oft** — *It often snows in December* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

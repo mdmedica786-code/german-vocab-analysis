@@ -30,6 +30,11 @@ status: "new"
 > In der Diskussion nannte er ein starkes Contra-Argument.
 > *In the discussion he gave a strong argument against it.*
 
+**Phrases & Expressions:**
+- **ein Contra-Argument nennen** — *counter-argument; argument against*
+- **Pro- und Contra-Argumente** — *counter-argument; argument against*
+- **ein starkes Contra-Argument** — *counter-argument; argument against*
+
 **Collocations**
 - ein Contra-Argument nennen
 - Pro- und Contra-Argumente

@@ -29,6 +29,11 @@ status: "new"
 > Sie ist als Ärztin tätig.
 > *She works as a doctor.*
 
+**Phrases & Expressions:**
+- **Leider ist das Gerät bei der Lieferung beschädigt gewesen.** — Unfortunately the device was damaged on delivery. *([[B2-04 Beschwerde und Reklamation|Problem schildern]] · B2)*
+- **Von ... bis ... war ich als ... tätig.** — From ... to ... I worked as ... *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Lebenslauf formulieren]] · B2)*
+- **Das muss ein Fehler gewesen sein.** — That must have been a mistake. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Vermutung mit Modalverb]] · B2)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

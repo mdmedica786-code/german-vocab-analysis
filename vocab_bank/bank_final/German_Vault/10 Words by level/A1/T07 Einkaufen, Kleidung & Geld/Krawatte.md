@@ -34,6 +34,9 @@ status: "new"
 > Der Chef trägt eine blaue Krawatte.
 > *The boss is wearing a blue tie.*
 
+**Phrases & Expressions:**
+- **Der Chef trägt eine blaue Krawatte** — *The boss is wearing a blue tie* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 2a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

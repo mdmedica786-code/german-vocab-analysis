@@ -35,6 +35,9 @@ status: "new"
 > Ich esse gern Reis.
 > *I like rice.*
 
+**Phrases & Expressions:**
+- **Ich esse gern Reis** — *I like rice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 3c ÜB (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

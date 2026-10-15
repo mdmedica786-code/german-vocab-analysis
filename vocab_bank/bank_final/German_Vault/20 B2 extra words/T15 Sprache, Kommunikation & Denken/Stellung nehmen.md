@@ -26,6 +26,10 @@ status: "new"
 > Die Ministerin nahm zu den Vorwürfen Stellung.
 > *The minister commented on the accusations.*
 
+**Phrases & Expressions:**
+- **Stellung nehmen zu + Dat.** — *to comment; to take a position*
+- **öffentlich Stellung nehmen** — *to comment; to take a position*
+
 **Collocations**
 - Stellung nehmen zu + Dat.
 - öffentlich Stellung nehmen

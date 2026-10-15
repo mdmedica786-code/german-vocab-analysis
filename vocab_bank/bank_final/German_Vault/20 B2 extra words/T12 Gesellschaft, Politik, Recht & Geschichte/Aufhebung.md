@@ -33,6 +33,11 @@ status: "new"
 > Die Aufhebung der Regel wurde beschlossen.
 > *The lifting of the rule was decided.*
 
+**Phrases & Expressions:**
+- **die Aufhebung der Sperre** — *abolition; lifting; repeal*
+- **zur Aufhebung** — *abolition; lifting; repeal*
+- **die Aufhebung eines Vertrags** — *abolition; lifting; repeal*
+
 **Collocations**
 - die Aufhebung der Sperre
 - zur Aufhebung

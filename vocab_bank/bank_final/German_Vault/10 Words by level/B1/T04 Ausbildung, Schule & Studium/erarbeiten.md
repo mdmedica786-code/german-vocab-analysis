@@ -32,6 +32,9 @@ status: "new"
 > Wir erarbeiten gemeinsam eine Lösung.
 > *Together we are working out a solution.*
 
+**Phrases & Expressions:**
+- **Wir erarbeiten gemeinsam eine Lösung** — *Together we are working out a solution* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7b (Kunststücke)
 <!-- bank:end -->
 

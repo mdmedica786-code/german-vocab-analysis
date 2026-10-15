@@ -32,6 +32,11 @@ status: "new"
 > Im Deutschen werden Verben nach Person und Zeit gebeugt.
 > *In German, verbs are inflected according to person and tense.*
 
+**Phrases & Expressions:**
+- **sich beugen** — *to bend; to inflect; to yield*
+- **ein Verb beugen** — *to bend; to inflect; to yield*
+- **sich dem Druck beugen** — *to bend; to inflect; to yield*
+
 **Collocations**
 - sich beugen
 - ein Verb beugen

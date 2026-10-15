@@ -35,6 +35,12 @@ status: "new"
 > Der Therapeut bespricht den Behandlungsplan.
 > *The therapist discusses the treatment plan.*
 
+**Phrases & Expressions:**
+- **zum Therapeuten gehen** — *therapist (m)*
+- **bei einem Therapeuten in Behandlung** — *therapist (m)*
+- **ein erfahrener Therapeut** — *therapist (m)*
+- **Therapeut und Patient** — *therapist (m)*
+
 **Collocations**
 - zum Therapeuten gehen
 - bei einem Therapeuten in Behandlung

@@ -31,6 +31,9 @@ status: "new"
 > Lernen Sie die Wörter auswendig.
 > *Learn the words by heart.*
 
+**Phrases & Expressions:**
+- **Lernen Sie die Wörter auswendig** — *Learn the words by heart* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 8b (Arbeitsalltag)
 <!-- bank:end -->
 

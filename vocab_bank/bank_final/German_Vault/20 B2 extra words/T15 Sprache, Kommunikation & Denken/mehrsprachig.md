@@ -29,6 +29,11 @@ status: "new"
 > Sie ist mehrsprachig aufgewachsen.
 > *She grew up multilingual.*
 
+**Phrases & Expressions:**
+- **mehrsprachig aufwachsen** — *multilingual; bilingual*
+- **eine mehrsprachige Schule** — *multilingual; bilingual*
+- **mehrsprachig sein** — *multilingual; bilingual*
+
 **Collocations**
 - mehrsprachig aufwachsen
 - eine mehrsprachige Schule

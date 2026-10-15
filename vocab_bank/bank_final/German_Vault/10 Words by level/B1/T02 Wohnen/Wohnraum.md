@@ -34,6 +34,9 @@ status: "new"
 > In großen Städten ist Wohnraum knapp.
 > *In big cities living space is scarce.*
 
+**Phrases & Expressions:**
+- **In großen Städten ist Wohnraum knapp** — *In big cities living space is scarce* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 8d (Blick nach vorn)
 <!-- bank:end -->
 

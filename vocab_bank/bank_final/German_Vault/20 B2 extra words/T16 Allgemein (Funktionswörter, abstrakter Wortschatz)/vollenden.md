@@ -31,6 +31,11 @@ status: "new"
 > Der Künstler konnte sein Werk nicht mehr vollenden.
 > *The artist could no longer complete his work.*
 
+**Phrases & Expressions:**
+- **ein Werk vollenden** — *to complete; to finish; to perfect*
+- **das Studium vollenden** — *to complete; to finish; to perfect*
+- **sein Leben vollenden** — *to complete; to finish; to perfect*
+
 **Collocations**
 - ein Werk vollenden
 - das Studium vollenden

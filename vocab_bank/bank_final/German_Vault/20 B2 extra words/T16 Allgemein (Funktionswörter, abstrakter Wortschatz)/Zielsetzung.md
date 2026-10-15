@@ -33,6 +33,11 @@ status: "new"
 > Die Zielsetzung des Projekts wurde klar formuliert.
 > *The objective of the project was clearly formulated.*
 
+**Phrases & Expressions:**
+- **eine klare Zielsetzung** — *objective; goal-setting*
+- **Zielsetzung formulieren** — *objective; goal-setting*
+- **Zielsetzung erreichen** — *objective; goal-setting*
+
 **Collocations**
 - eine klare Zielsetzung
 - Zielsetzung formulieren

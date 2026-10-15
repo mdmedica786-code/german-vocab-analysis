@@ -29,6 +29,11 @@ status: "new"
 > Die Kinder führten ein lebhaftes Gespräch.
 > *The children had a lively conversation.*
 
+**Phrases & Expressions:**
+- **ein lebhaftes Gespräch** — *lively; vivid*
+- **lebhaft diskutieren** — *lively; vivid*
+- **lebhafte Fantasie** — *lively; vivid*
+
 **Collocations**
 - ein lebhaftes Gespräch
 - lebhaft diskutieren

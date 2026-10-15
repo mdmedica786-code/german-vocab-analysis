@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Der Arzt erklärt die Behandlung ausführlich.
 > *The doctor explains the treatment in detail.*
+
+**Phrases & Expressions:**
+- **Der Arzt erklärt die Behandlung ausführlich** — *The doctor explains the treatment in detail* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -34,6 +34,9 @@ status: "new"
 > Wo sind meine roten Strümpfe?
 > *Where are my red socks?*
 
+**Phrases & Expressions:**
+- **Wo sind meine roten Strümpfe** — *Where are my red socks* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

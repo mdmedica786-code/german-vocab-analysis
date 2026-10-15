@@ -33,6 +33,11 @@ status: "new"
 > Er gilt als Begründer der modernen Physik.
 > *He is regarded as the founder of modern physics.*
 
+**Phrases & Expressions:**
+- **der Begründer einer Theorie** — *founder; originator*
+- **der Begründer der Firma** — *founder; originator*
+- **als Begründer gelten** — *founder; originator*
+
 **Collocations**
 - der Begründer einer Theorie
 - der Begründer der Firma

@@ -31,6 +31,10 @@ status: "new"
 > Hat jemand meinen Stift?
 > *Does anyone have my pen?*
 
+**Phrases & Expressions:**
+- **wenn jemand ...** — if someone ... *([[Bedingung - Zweck (condition, purpose)|Bedingung / Zweck (condition, purpose)]] · A2)*
+- **Möchten Sie, dass jemand aus Ihrer Familie dabei ist?** — Would you like someone from your family to be present? *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Gespräch vorbereiten]] · B2)*
+
 **Source:** Netzwerk neu A1 K8 12b (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

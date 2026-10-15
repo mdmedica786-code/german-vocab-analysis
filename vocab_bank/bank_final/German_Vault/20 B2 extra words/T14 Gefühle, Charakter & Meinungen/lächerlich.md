@@ -29,6 +29,11 @@ status: "new"
 > Das ist doch lächerlich!
 > *That is ridiculous!*
 
+**Phrases & Expressions:**
+- **sich lächerlich machen** — *ridiculous*
+- **lächerlich wirken** — *ridiculous*
+- **lächerlich klein** — *ridiculous*
+
 **Collocations**
 - sich lächerlich machen
 - lächerlich wirken

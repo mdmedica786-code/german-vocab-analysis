@@ -33,6 +33,11 @@ status: "new"
 > Wegen der Inflation steigen die Preise für Lebensmittel.
 > *Because of inflation food prices are rising.*
 
+**Phrases & Expressions:**
+- **hohe Inflation** — *inflation*
+- **die Inflation bekämpfen** — *inflation*
+- **Inflation von drei Prozent** — *inflation*
+
 **Collocations**
 - hohe Inflation
 - die Inflation bekämpfen

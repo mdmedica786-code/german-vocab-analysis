@@ -33,6 +33,11 @@ status: "new"
 > Im Master wählt sie eine Vertiefung in Kardiologie.
 > *In the master's programme she chooses a specialisation in cardiology.*
 
+**Phrases & Expressions:**
+- **eine Vertiefung wählen** — *deepening; specialisation; hollow*
+- **zur Vertiefung** — *deepening; specialisation; hollow*
+- **die Vertiefung der Kenntnisse** — *deepening; specialisation; hollow*
+
 **Collocations**
 - eine Vertiefung wählen
 - zur Vertiefung

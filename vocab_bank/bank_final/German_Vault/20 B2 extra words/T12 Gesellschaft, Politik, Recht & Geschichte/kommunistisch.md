@@ -29,6 +29,11 @@ status: "new"
 > Die kommunistische Partei regierte jahrzehntelang.
 > *The communist party ruled for decades.*
 
+**Phrases & Expressions:**
+- **eine kommunistische Partei** — *communist*
+- **ein kommunistisches Regime** — *communist*
+- **kommunistisch regiert** — *communist*
+
 **Collocations**
 - eine kommunistische Partei
 - ein kommunistisches Regime

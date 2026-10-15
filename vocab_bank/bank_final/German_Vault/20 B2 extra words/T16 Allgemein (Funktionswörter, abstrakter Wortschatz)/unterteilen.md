@@ -32,6 +32,11 @@ status: "new"
 > Das Buch ist in drei Kapitel unterteilt.
 > *The book is divided into three chapters.*
 
+**Phrases & Expressions:**
+- **in etwas unterteilen** — *to divide; to subdivide*
+- **in Gruppen unterteilen** — *to divide; to subdivide*
+- **unterteilt sein in** — *to divide; to subdivide*
+
 **Collocations**
 - in etwas unterteilen
 - in Gruppen unterteilen

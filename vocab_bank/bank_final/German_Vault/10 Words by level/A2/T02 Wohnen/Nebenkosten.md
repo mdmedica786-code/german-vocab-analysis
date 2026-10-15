@@ -34,6 +34,9 @@ status: "new"
 > Die Nebenkosten sind in der Miete nicht enthalten.
 > *The utilities are not included in the rent.*
 
+**Phrases & Expressions:**
+- **Die Nebenkosten sind in der Miete nicht enthalten** — *The utilities are not included in the rent* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 6b (Zusammen leben)
 <!-- bank:end -->
 

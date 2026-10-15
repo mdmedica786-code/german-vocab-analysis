@@ -32,6 +32,10 @@ status: "new"
 > Die Stadt gestaltet den Marktplatz um.
 > *The city is redesigning the market square.*
 
+**Phrases & Expressions:**
+- **einen Raum umgestalten** — *to redesign; to reorganise*
+- **den Garten umgestalten** — *to redesign; to reorganise*
+
 **Collocations**
 - einen Raum umgestalten
 - den Garten umgestalten

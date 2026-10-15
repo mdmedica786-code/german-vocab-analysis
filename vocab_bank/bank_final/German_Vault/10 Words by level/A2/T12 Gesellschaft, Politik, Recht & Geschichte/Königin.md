@@ -34,6 +34,9 @@ status: "new"
 > Die Königin besucht das Krankenhaus.
 > *The queen visits the hospital.*
 
+**Phrases & Expressions:**
+- **Die Königin besucht das Krankenhaus** — *The queen visits the hospital* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1a (Gute Unterhaltung!)
 <!-- bank:end -->
 

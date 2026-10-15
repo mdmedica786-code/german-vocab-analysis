@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Bildschirm erschien eine Fehlermeldung.
 > *An error message appeared on the screen.*
 
+**Phrases & Expressions:**
+- **eine Fehlermeldung erhalten** — *error message*
+- **eine Fehlermeldung anzeigen** — *error message*
+- **die Fehlermeldung lesen** — *error message*
+
 **Collocations**
 - eine Fehlermeldung erhalten
 - eine Fehlermeldung anzeigen

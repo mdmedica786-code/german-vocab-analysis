@@ -35,6 +35,9 @@ status: "new"
 > Sehr geehrte Damen und Herren, ...
 > *Dear Sir or Madam, ...*
 
+**Phrases & Expressions:**
+- **Sehr geehrte Damen und Herren,** — Dear Sir or Madam, *([[B1-13 Formelle E-Mail und Brief|Anrede]] · B1)*
+
 **Source:** Netzwerk neu A1 K7 8b (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

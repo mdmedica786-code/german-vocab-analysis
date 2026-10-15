@@ -34,6 +34,9 @@ status: "new"
 > Mit Optimismus schafft man vieles.
 > *With optimism you can achieve a lot.*
 
+**Phrases & Expressions:**
+- **Mit Optimismus schafft man vieles** — *With optimism you can achieve a lot* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

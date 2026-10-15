@@ -30,6 +30,9 @@ status: "new"
 > Das Hotel ist sehr familienfreundlich.
 > *The hotel is very family-friendly.*
 
+**Phrases & Expressions:**
+- **Das Hotel ist sehr familienfreundlich** — *The hotel is very family-friendly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

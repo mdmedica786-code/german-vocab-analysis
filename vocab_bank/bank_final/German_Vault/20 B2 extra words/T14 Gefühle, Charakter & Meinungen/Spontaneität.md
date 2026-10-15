@@ -33,6 +33,11 @@ status: "new"
 > Ich schätze ihre Spontaneität.
 > *I appreciate her spontaneity.*
 
+**Phrases & Expressions:**
+- **mit Spontaneität** — *spontaneity*
+- **Spontaneität zeigen** — *spontaneity*
+- **an Spontaneität verlieren** — *spontaneity*
+
 **Collocations**
 - mit Spontaneität
 - Spontaneität zeigen

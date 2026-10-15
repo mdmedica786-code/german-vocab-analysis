@@ -26,6 +26,10 @@ status: "new"
 > Die Verwaltung bekommt den Löwenanteil des Budgets.
 > *The administration gets the lion's share of the budget.*
 
+**Phrases & Expressions:**
+- **der Löwenanteil der Kosten** — *to get the lion's share*
+- **den größten Teil bekommen** — *to get the lion's share*
+
 **Collocations**
 - der Löwenanteil der Kosten
 - den größten Teil bekommen

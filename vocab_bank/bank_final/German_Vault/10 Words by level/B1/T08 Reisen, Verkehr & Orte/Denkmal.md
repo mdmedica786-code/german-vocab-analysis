@@ -35,6 +35,9 @@ status: "new"
 > In dieser Stadt gibt es viele berühmte Denkmäler.
 > *There are many famous monuments in this city.*
 
+**Phrases & Expressions:**
+- **In dieser Stadt gibt es viele berühmte Denkmäler** — *There are many famous monuments in this city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b ÜB (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

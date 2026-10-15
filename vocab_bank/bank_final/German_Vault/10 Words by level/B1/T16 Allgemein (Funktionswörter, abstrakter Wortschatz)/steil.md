@@ -31,6 +31,9 @@ status: "new"
 > Die Straße zu unserem Haus ist sehr steil.
 > *The road to our house is very steep.*
 
+**Phrases & Expressions:**
+- **Die Straße zu unserem Haus ist sehr steil** — *The road to our house is very steep* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 1b (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

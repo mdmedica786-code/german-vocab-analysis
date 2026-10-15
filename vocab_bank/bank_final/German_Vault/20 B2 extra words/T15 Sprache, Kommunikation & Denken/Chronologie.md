@@ -33,6 +33,11 @@ status: "new"
 > Die Chronologie der Ereignisse ist noch unklar.
 > *The chronology of the events is still unclear.*
 
+**Phrases & Expressions:**
+- **die Chronologie der Ereignisse** — *chronology; order of events*
+- **in chronologischer Reihenfolge** — *chronology; order of events*
+- **die Chronologie beachten** — *chronology; order of events*
+
 **Collocations**
 - die Chronologie der Ereignisse
 - in chronologischer Reihenfolge

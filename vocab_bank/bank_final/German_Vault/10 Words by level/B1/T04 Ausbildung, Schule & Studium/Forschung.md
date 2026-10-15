@@ -35,6 +35,12 @@ status: "new"
 > Er arbeitet in der Forschung.
 > *He works in research.*
 
+**Phrases & Expressions:**
+- **in der Forschung arbeiten** — *research*
+- **Forschung betreiben** — *research*
+- **medizinische Forschung** — *research*
+- **Ergebnisse der Forschung** — *research*
+
 **Collocations**
 - in der Forschung arbeiten
 - Forschung betreiben

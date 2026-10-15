@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Beruf ist für sie eine große Erfüllung.
 > *Her job is a great fulfilment for her.*
+
+**Phrases & Expressions:**
+- **Der Beruf ist für sie eine große Erfüllung** — *Her job is a great fulfilment for her* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -34,6 +34,9 @@ status: "new"
 > Bankgeschäfte erledige ich online.
 > *I do my banking online.*
 
+**Phrases & Expressions:**
+- **Bankgeschäfte erledige ich online** — *I do my banking online* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3a (Geld regiert die Welt?)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Sie studiert Humanmedizin in Heidelberg.
 > *She studies human medicine in Heidelberg.*
 
+**Phrases & Expressions:**
+- **Humanmedizin studieren** — *human medicine*
+- **ein Studium der Humanmedizin** — *human medicine*
+- **die Humanmedizin und die Tiermedizin** — *human medicine*
+
 **Collocations**
 - Humanmedizin studieren
 - ein Studium der Humanmedizin

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Kinder denken oft aneinander.
 > *The children often think of each other.*
+
+**Phrases & Expressions:**
+- **Die Kinder denken oft aneinander** — *The children often think of each other* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

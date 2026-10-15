@@ -32,6 +32,11 @@ status: "new"
 > Dem Studenten wurde ein Platz im Wohnheim zugewiesen.
 > *The student was assigned a place in the dormitory.*
 
+**Phrases & Expressions:**
+- **jemandem etwas zuweisen** — *to assign; to allocate*
+- **eine Aufgabe zuweisen** — *to assign; to allocate*
+- **einen Platz zuweisen** — *to assign; to allocate*
+
 **Collocations**
 - jemandem etwas zuweisen
 - eine Aufgabe zuweisen

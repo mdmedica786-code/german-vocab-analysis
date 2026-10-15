@@ -33,6 +33,11 @@ status: "new"
 > Auf die Korrektheit der Angaben kommt es an.
 > *The correctness of the information is what matters.*
 
+**Phrases & Expressions:**
+- **die Korrektheit prüfen** — *correctness*
+- **sprachliche Korrektheit** — *correctness*
+- **auf Korrektheit achten** — *correctness*
+
 **Collocations**
 - die Korrektheit prüfen
 - sprachliche Korrektheit

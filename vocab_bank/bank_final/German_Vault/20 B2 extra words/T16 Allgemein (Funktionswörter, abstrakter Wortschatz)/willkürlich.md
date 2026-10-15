@@ -29,6 +29,11 @@ status: "new"
 > Die Zahlen wurden willkürlich ausgewählt.
 > *The numbers were chosen at random.*
 
+**Phrases & Expressions:**
+- **willkürlich entscheiden** — *arbitrary; random*
+- **eine willkürliche Auswahl** — *arbitrary; random*
+- **willkürlich festlegen** — *arbitrary; random*
+
 **Collocations**
 - willkürlich entscheiden
 - eine willkürliche Auswahl

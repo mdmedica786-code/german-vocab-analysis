@@ -29,6 +29,11 @@ status: "new"
 > Sie trägt dezenten Schmuck.
 > *She wears subtle jewellery.*
 
+**Phrases & Expressions:**
+- **dezent gekleidet** — *discreet; subtle*
+- **eine dezente Farbe** — *discreet; subtle*
+- **dezent auftreten** — *discreet; subtle*
+
 **Collocations**
 - dezent gekleidet
 - eine dezente Farbe

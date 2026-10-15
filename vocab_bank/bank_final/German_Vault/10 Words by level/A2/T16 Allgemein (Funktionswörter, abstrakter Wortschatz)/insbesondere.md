@@ -30,6 +30,13 @@ status: "new"
 > Ich interessiere mich für Medizin, insbesondere für Chirurgie.
 > *I'm interested in medicine, especially surgery.*
 
+**Phrases & Expressions:**
+- **das gilt insbesondere für ...** — this applies in particular to ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **gilt insbesondere für ...** — applies in particular to ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **insbesondere für** — *especially*
+- **insbesondere dann, wenn ...** — *especially*
+- **insbesondere bei** — *especially*
+
 **Collocations**
 - insbesondere für
 - insbesondere dann, wenn ...

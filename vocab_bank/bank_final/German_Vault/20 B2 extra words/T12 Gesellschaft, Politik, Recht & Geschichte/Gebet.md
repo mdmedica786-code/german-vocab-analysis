@@ -33,6 +33,11 @@ status: "new"
 > Sie sprach vor dem Essen ein Gebet.
 > *She said a prayer before the meal.*
 
+**Phrases & Expressions:**
+- **ein Gebet sprechen** — *prayer*
+- **im Gebet** — *prayer*
+- **zum Gebet rufen** — *prayer*
+
 **Collocations**
 - ein Gebet sprechen
 - im Gebet

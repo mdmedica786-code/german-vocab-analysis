@@ -29,6 +29,11 @@ status: "new"
 > Er lachte verächtlich über ihren Vorschlag.
 > *He laughed contemptuously at her suggestion.*
 
+**Phrases & Expressions:**
+- **verächtlich lachen** — *contemptuous; scornful*
+- **ein verächtlicher Blick** — *contemptuous; scornful*
+- **verächtlich sprechen** — *contemptuous; scornful*
+
 **Collocations**
 - verächtlich lachen
 - ein verächtlicher Blick

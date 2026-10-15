@@ -33,6 +33,11 @@ status: "new"
 > Die Firma hat einen neuen Geschäftszweig eröffnet.
 > *The company has opened a new line of business.*
 
+**Phrases & Expressions:**
+- **ein neuer Geschäftszweig** — *branch of business; line of business*
+- **einen Geschäftszweig aufbauen** — *branch of business; line of business*
+- **in einem Geschäftszweig tätig sein** — *branch of business; line of business*
+
 **Collocations**
 - ein neuer Geschäftszweig
 - einen Geschäftszweig aufbauen

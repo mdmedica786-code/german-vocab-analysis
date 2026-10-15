@@ -29,6 +29,9 @@ status: "new"
 > Beide Seiten kamen schließlich zu einer Einigung.
 > *Both sides finally reached an agreement.*
 
+**Phrases & Expressions:**
+- **zu einer Einigung gelangen** — *to reach an agreement*
+
 **Collocations**
 - zu einer Einigung gelangen
 

@@ -33,6 +33,11 @@ status: "new"
 > In Deutschland gilt das Wahlrecht ab 18 Jahren.
 > *In Germany the right to vote applies from the age of 18.*
 
+**Phrases & Expressions:**
+- **das aktive Wahlrecht** — *right to vote; electoral law*
+- **das Wahlrecht ändern** — *right to vote; electoral law*
+- **Wahlrecht für Frauen** — *right to vote; electoral law*
+
 **Collocations**
 - das aktive Wahlrecht
 - das Wahlrecht ändern

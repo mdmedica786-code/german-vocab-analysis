@@ -34,6 +34,9 @@ status: "new"
 > Die Hausfassade wird neu gestrichen.
 > *The front of the house is being repainted.*
 
+**Phrases & Expressions:**
+- **Die Hausfassade wird neu gestrichen** — *The front of the house is being repainted* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

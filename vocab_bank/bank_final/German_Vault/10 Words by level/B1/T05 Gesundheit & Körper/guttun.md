@@ -33,6 +33,14 @@ status: "new"
 > Ein Spaziergang tut gut.
 > *A walk does you good.*
 
+**Phrases & Expressions:**
+- **es tut mir leid** — I'm sorry *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · A1)*
+- **tut mir leid** — I'm sorry *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · A1)*
+- **nicht gut** — not good; not well *([[Probleme - Beschwerden beschreiben (problem, symptom, complaint)|Probleme / Beschwerden beschreiben (problem, symptom, complaint)]] · A1)*
+- **tut mir so leid** — I'm so sorry *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · A2)*
+- **in der Tat** — indeed *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · C1)*
+- **so gut** — as good as; so well *([[Vergleichen (comparison)|Vergleichen (comparison)]] · A2)*
+
 **Source:** Netzwerk neu B1 K7 2b (Zwischenmenschliches)
 <!-- bank:end -->
 

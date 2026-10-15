@@ -33,6 +33,11 @@ status: "new"
 > Der Reißverschluss an meiner Jacke klemmt.
 > *The zip on my jacket is stuck.*
 
+**Phrases & Expressions:**
+- **den Reißverschluss zumachen** — *zip*
+- **der Reißverschluss klemmt** — *zip*
+- **Reißverschluss reparieren** — *zip*
+
 **Collocations**
 - den Reißverschluss zumachen
 - der Reißverschluss klemmt

@@ -32,6 +32,14 @@ status: "new"
 > Die Partei bekennt sich zur Demokratie.
 > *The party professes its commitment to democracy.*
 
+**Phrases & Expressions:**
+- **es ist bekannt, dass ...** — it is known that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **Als Vorerkrankungen sind ... bekannt.** — Known pre-existing conditions are ... *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Vorerkrankungen nennen]] · C1)*
+- **Allergien sind nicht bekannt.** — No allergies are known. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Allergien nennen]] · B2)*
+- **sich zu etwas bekennen** — *to profess; to admit to*
+- **sich schuldig bekennen** — *to profess; to admit to*
+- **sich zu einer Tat bekennen** — *to profess; to admit to*
+
 **Collocations**
 - sich zu etwas bekennen
 - sich schuldig bekennen

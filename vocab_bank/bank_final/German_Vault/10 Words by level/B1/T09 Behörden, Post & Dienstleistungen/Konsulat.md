@@ -35,6 +35,9 @@ status: "new"
 > Ein Visum bekommst du auch im Konsulat.
 > *You can also get a visa at the consulate.*
 
+**Phrases & Expressions:**
+- **Ein Visum bekommst du auch im Konsulat** — *You can also get a visa at the consulate* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 6c ÜB (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

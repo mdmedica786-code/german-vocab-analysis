@@ -33,6 +33,11 @@ status: "new"
 > Bei „Haustür“ ist „Tür“ das Grundwort.
 > *In "Haustür" "Tür" is the base word.*
 
+**Phrases & Expressions:**
+- **das Grundwort und das Bestimmungswort** — *base word (of a compound); head noun*
+- **das Grundwort bestimmt den Artikel** — *base word (of a compound); head noun*
+- **ein zusammengesetztes Wort mit Grundwort** — *base word (of a compound); head noun*
+
 **Collocations**
 - das Grundwort und das Bestimmungswort
 - das Grundwort bestimmt den Artikel

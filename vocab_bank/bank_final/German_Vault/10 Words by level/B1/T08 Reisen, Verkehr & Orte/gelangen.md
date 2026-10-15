@@ -33,6 +33,12 @@ status: "new"
 > Wie gelange ich zum Bahnhof?
 > *How do I get to the station?*
 
+**Phrases & Expressions:**
+- **ans Ziel gelangen** — *to reach; to get to*
+- **zu einer Entscheidung gelangen** — *to reach; to get to*
+- **in die Öffentlichkeit gelangen** — *to reach; to get to*
+- **zum Erfolg gelangen** — *to reach; to get to*
+
 **Collocations**
 - ans Ziel gelangen
 - zu einer Entscheidung gelangen

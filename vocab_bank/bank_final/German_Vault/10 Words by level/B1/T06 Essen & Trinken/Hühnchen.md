@@ -34,6 +34,9 @@ status: "new"
 > Heute gibt es Hühnchen mit Reis.
 > *Today there is chicken with rice.*
 
+**Phrases & Expressions:**
+- **Heute gibt es Hühnchen mit Reis** — *Today there is chicken with rice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander)
 <!-- bank:end -->
 

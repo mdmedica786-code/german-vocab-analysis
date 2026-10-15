@@ -33,6 +33,11 @@ status: "new"
 > Der Toaster ist kaputt, das Brot wird nur an einer Seite braun.
 > *The toaster is broken; the bread only gets brown on one side.*
 
+**Phrases & Expressions:**
+- **im Toaster rösten** — *toaster*
+- **den Toaster einstecken** — *toaster*
+- **der Toast springt heraus** — *toaster*
+
 **Collocations**
 - im Toaster rösten
 - den Toaster einstecken

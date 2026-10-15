@@ -33,6 +33,11 @@ status: "new"
 > Nach der Grundschule besucht sie die Oberschule.
 > *After primary school she attends the secondary school.*
 
+**Phrases & Expressions:**
+- **die Oberschule besuchen** — *secondary school (in some German states)*
+- **auf die Oberschule gehen** — *secondary school (in some German states)*
+- **eine Oberschule in Berlin** — *secondary school (in some German states)*
+
 **Collocations**
 - die Oberschule besuchen
 - auf die Oberschule gehen

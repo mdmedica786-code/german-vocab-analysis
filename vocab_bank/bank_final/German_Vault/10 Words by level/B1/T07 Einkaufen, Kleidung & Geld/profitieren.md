@@ -33,6 +33,9 @@ status: "new"
 > Alle Kunden profitieren von dem Angebot.
 > *All customers benefit from the offer.*
 
+**Phrases & Expressions:**
+- **Alle Kunden profitieren von dem Angebot** — *All customers benefit from the offer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

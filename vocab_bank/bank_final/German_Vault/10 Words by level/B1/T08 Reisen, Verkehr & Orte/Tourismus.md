@@ -35,6 +35,9 @@ status: "new"
 > In dieser Gegend gibt es viel Tourismus.
 > *There is a lot of tourism in this area.*
 
+**Phrases & Expressions:**
+- **In dieser Gegend gibt es viel Tourismus** — *There is a lot of tourism in this area* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 13a (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

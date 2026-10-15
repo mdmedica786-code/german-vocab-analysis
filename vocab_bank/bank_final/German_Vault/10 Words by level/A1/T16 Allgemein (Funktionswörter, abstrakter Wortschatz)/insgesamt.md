@@ -31,6 +31,13 @@ status: "new"
 > Insgesamt haben sich 20 Teilnehmer für die Prüfung angemeldet.
 > *In total, 20 participants registered for the exam.*
 
+**Phrases & Expressions:**
+- **Insgesamt lässt sich eine positive Entwicklung erkennen.** — Overall a positive development can be seen. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Entwicklung zusammenfassen]] · B2)*
+- **insgesamt zehn** — *all together*
+- **insgesamt gesehen** — *all together*
+- **insgesamt gut** — *all together*
+- **insgesamt zwanzig Euro** — *all together*
+
 **Collocations**
 - insgesamt zehn
 - insgesamt gesehen

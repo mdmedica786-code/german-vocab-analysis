@@ -31,6 +31,9 @@ status: "new"
 > Ich war gestern bei der Agentur für Arbeit.
 > *Yesterday I was at the employment agency.*
 
+**Phrases & Expressions:**
+- **Ich war gestern bei der Agentur für Arbeit** — *Yesterday I was at the employment agency* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 7a (Studium und Beruf)
 <!-- bank:end -->
 

@@ -31,6 +31,11 @@ status: "new"
 > Ich kann diese Hitze nicht mehr ertragen.
 > *I can no longer bear this heat.*
 
+**Phrases & Expressions:**
+- **Schmerzen ertragen** — *to bear; to tolerate*
+- **Lärm ertragen** — *to bear; to tolerate*
+- **nicht zu ertragen sein** — *to bear; to tolerate*
+
 **Collocations**
 - Schmerzen ertragen
 - Lärm ertragen

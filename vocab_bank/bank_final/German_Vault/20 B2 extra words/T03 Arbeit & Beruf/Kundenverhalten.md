@@ -33,6 +33,11 @@ status: "new"
 > Die Firma untersucht das Kundenverhalten im Internet.
 > *The company examines customer behaviour on the internet.*
 
+**Phrases & Expressions:**
+- **das Kundenverhalten analysieren** — *customer behaviour*
+- **das Kundenverhalten beobachten** — *customer behaviour*
+- **verändertes Kundenverhalten** — *customer behaviour*
+
 **Collocations**
 - das Kundenverhalten analysieren
 - das Kundenverhalten beobachten

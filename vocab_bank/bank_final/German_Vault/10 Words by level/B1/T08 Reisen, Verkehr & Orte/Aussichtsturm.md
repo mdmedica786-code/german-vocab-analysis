@@ -34,6 +34,9 @@ status: "new"
 > Vom Aussichtsturm sieht man die ganze Stadt.
 > *From the observation tower you can see the whole city.*
 
+**Phrases & Expressions:**
+- **Vom Aussichtsturm sieht man die ganze Stadt** — *From the observation tower you can see the whole city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

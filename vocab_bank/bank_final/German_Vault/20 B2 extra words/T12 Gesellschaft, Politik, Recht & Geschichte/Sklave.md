@@ -33,6 +33,11 @@ status: "new"
 > Früher wurden Sklaven auf Märkten verkauft.
 > *In the past slaves were sold at markets.*
 
+**Phrases & Expressions:**
+- **Sklaven halten** — *slave*
+- **ein Sklave der Arbeit** — *slave*
+- **die Befreiung der Sklaven** — *slave*
+
 **Collocations**
 - Sklaven halten
 - ein Sklave der Arbeit

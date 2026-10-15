@@ -30,6 +30,9 @@ status: "new"
 > Unsere neue Kollegin ist sehr kommunikativ.
 > *Our new colleague is very communicative.*
 
+**Phrases & Expressions:**
+- **Unsere neue Kollegin ist sehr kommunikativ** — *Our new colleague is very communicative* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 12a (Arbeitswelt)
 <!-- bank:end -->
 

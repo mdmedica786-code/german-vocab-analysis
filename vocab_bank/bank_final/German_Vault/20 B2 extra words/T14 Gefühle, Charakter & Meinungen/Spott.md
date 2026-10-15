@@ -33,6 +33,11 @@ status: "new"
 > Er erntete für seinen Vorschlag nur Spott.
 > *He earned only mockery for his proposal.*
 
+**Phrases & Expressions:**
+- **Spott ernten** — *mockery; ridicule*
+- **Spott und Hohn** — *mockery; ridicule*
+- **den Spott ertragen** — *mockery; ridicule*
+
 **Collocations**
 - Spott ernten
 - Spott und Hohn

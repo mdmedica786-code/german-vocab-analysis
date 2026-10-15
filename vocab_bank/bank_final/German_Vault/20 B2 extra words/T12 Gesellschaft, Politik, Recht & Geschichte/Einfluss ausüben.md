@@ -26,6 +26,11 @@ status: "new"
 > Die Medien üben großen Einfluss auf die Meinung der Bürger aus.
 > *The media exert great influence on citizens' opinions.*
 
+**Phrases & Expressions:**
+- **Einfluss auf etwas ausüben** — *to exert influence*
+- **großen Einfluss ausüben** — *to exert influence*
+- **Einfluss nehmen** — *to exert influence*
+
 **Collocations**
 - Einfluss auf etwas ausüben
 - großen Einfluss ausüben

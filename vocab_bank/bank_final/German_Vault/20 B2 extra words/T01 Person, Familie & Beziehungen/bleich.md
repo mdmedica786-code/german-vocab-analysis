@@ -29,6 +29,11 @@ status: "new"
 > Er wurde bleich, als er die Nachricht hörte.
 > *He turned pale when he heard the news.*
 
+**Phrases & Expressions:**
+- **bleich werden** — *pale; pallid*
+- **ein bleiches Gesicht** — *pale; pallid*
+- **bleich wie die Wand** — *pale; pallid*
+
 **Collocations**
 - bleich werden
 - ein bleiches Gesicht

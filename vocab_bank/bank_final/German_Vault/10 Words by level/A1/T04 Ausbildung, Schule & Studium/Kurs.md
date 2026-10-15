@@ -35,6 +35,9 @@ status: "new"
 > Der Deutschkurs geht bis zum Sommer.
 > *The German course lasts until summer.*
 
+**Phrases & Expressions:**
+- **Der Deutschkurs geht bis zum Sommer** — *The German course lasts until summer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 6c (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

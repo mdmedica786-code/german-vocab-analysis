@@ -33,6 +33,12 @@ status: "new"
 > Nach der Operation folgt die Rehabilitation.
 > *After the operation comes rehabilitation.*
 
+**Phrases & Expressions:**
+- **Rehabilitation beginnen** — *rehabilitation*
+- **stationäre Rehabilitation** — *rehabilitation*
+- **eine Rehabilitation verordnen** — *rehabilitation*
+- **Rehabilitation nach Schlaganfall** — *rehabilitation*
+
 **Collocations**
 - Rehabilitation beginnen
 - stationäre Rehabilitation

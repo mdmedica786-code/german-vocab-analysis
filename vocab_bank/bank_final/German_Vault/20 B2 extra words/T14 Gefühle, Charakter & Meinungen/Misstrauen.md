@@ -33,6 +33,11 @@ status: "new"
 > Sein Misstrauen gegenüber Fremden ist groß.
 > *His distrust of strangers is great.*
 
+**Phrases & Expressions:**
+- **Misstrauen hegen** — *distrust; suspicion*
+- **Misstrauen wecken** — *distrust; suspicion*
+- **gegenseitiges Misstrauen** — *distrust; suspicion*
+
 **Collocations**
 - Misstrauen hegen
 - Misstrauen wecken

@@ -31,6 +31,9 @@ status: "new"
 > Eine Wohnung mit Garten wäre für uns ideal.
 > *A flat with a garden would be ideal for us.*
 
+**Phrases & Expressions:**
+- **Eine Wohnung mit Garten wäre für uns ideal** — *A flat with a garden would be ideal for us* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3c (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

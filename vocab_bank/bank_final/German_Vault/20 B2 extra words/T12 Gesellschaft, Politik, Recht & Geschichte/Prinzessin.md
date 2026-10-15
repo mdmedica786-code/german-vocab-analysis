@@ -33,6 +33,11 @@ status: "new"
 > Die Prinzessin trägt eine goldene Krone.
 > *The princess wears a golden crown.*
 
+**Phrases & Expressions:**
+- **die Märchenprinzessin** — *princess*
+- **Prinz und Prinzessin** — *princess*
+- **die Prinzessin heiratet** — *princess*
+
 **Collocations**
 - die Märchenprinzessin
 - Prinz und Prinzessin

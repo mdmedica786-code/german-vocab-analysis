@@ -29,6 +29,11 @@ status: "new"
 > Die Gegend ist für ihre hohe Kriminalität berüchtigt.
 > *The area is notorious for its high crime rate.*
 
+**Phrases & Expressions:**
+- **berüchtigt sein für** — *notorious*
+- **ein berüchtigter Ort** — *notorious*
+- **als berüchtigt gelten** — *notorious*
+
 **Collocations**
 - berüchtigt sein für
 - ein berüchtigter Ort

@@ -33,6 +33,11 @@ status: "new"
 > Die Unterdrückung der Meinungsfreiheit ist ein Unrecht.
 > *The suppression of freedom of speech is an injustice.*
 
+**Phrases & Expressions:**
+- **die Unterdrückung von** — *oppression; suppression*
+- **Unterdrückung erleben** — *oppression; suppression*
+- **die Unterdrückung der Frauen** — *oppression; suppression*
+
 **Collocations**
 - die Unterdrückung von
 - Unterdrückung erleben

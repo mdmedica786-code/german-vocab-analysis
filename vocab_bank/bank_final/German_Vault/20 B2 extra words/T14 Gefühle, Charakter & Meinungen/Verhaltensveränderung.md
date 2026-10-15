@@ -30,6 +30,11 @@ status: "new"
 > Nach der Krankheit zeigte er eine deutliche Verhaltensveränderung.
 > *After the illness he showed a clear change in behaviour.*
 
+**Phrases & Expressions:**
+- **eine Verhaltensveränderung bemerken** — *change in behaviour*
+- **eine Verhaltensveränderung zeigen** — *change in behaviour*
+- **eine auffällige Verhaltensveränderung** — *change in behaviour*
+
 **Collocations**
 - eine Verhaltensveränderung bemerken
 - eine Verhaltensveränderung zeigen

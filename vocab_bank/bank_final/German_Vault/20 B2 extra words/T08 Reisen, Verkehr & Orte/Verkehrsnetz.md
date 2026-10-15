@@ -33,6 +33,11 @@ status: "new"
 > Das Verkehrsnetz der Stadt wird ständig ausgebaut.
 > *The city's transport network is constantly being expanded.*
 
+**Phrases & Expressions:**
+- **das Verkehrsnetz ausbauen** — *transport network*
+- **ein dichtes Verkehrsnetz** — *transport network*
+- **das öffentliche Verkehrsnetz** — *transport network*
+
 **Collocations**
 - das Verkehrsnetz ausbauen
 - ein dichtes Verkehrsnetz

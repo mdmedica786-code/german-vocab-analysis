@@ -30,6 +30,11 @@ status: "new"
 > Nach dem Arztgespräch fühlte sie sich besser.
 > *After the consultation with the doctor she felt better.*
 
+**Phrases & Expressions:**
+- **ein Arztgespräch führen** — *consultation with a doctor*
+- **im Arztgespräch** — *consultation with a doctor*
+- **ein Arztgespräch vorbereiten** — *consultation with a doctor*
+
 **Collocations**
 - ein Arztgespräch führen
 - im Arztgespräch

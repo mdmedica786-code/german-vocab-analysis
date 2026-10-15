@@ -33,6 +33,11 @@ status: "new"
 > Teamfähigkeit ist eine wichtige Schlüsselqualifikation.
 > *Teamwork ability is an important key skill.*
 
+**Phrases & Expressions:**
+- **eine wichtige Schlüsselqualifikation** — *key skill; transferable skill*
+- **Schlüsselqualifikationen erwerben** — *key skill; transferable skill*
+- **soziale Schlüsselqualifikationen** — *key skill; transferable skill*
+
 **Collocations**
 - eine wichtige Schlüsselqualifikation
 - Schlüsselqualifikationen erwerben

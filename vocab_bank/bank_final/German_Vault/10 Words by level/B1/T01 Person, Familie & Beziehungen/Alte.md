@@ -35,6 +35,9 @@ status: "new"
 > Nach der Erkältung bin ich wieder der Alte.
 > *After the cold I'm my old self again.*
 
+**Phrases & Expressions:**
+- **beim Alten bleiben** — to stay the same *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B1)*
+
 **Source:** Netzwerk neu B1 K3 5b (Veränderungen)
 <!-- bank:end -->
 

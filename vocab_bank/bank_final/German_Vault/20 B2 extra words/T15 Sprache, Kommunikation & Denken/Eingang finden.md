@@ -26,6 +26,11 @@ status: "new"
 > Das Wort hat Eingang in den Duden gefunden.
 > *The word has found its way into the Duden.*
 
+**Phrases & Expressions:**
+- **Eingang finden in** — *to find its way (into); to be incorporated*
+- **Eingang in die Alltagssprache finden** — *to find its way (into); to be incorporated*
+- **Eingang in etwas finden** — *to find its way (into); to be incorporated*
+
 **Collocations**
 - Eingang finden in
 - Eingang in die Alltagssprache finden

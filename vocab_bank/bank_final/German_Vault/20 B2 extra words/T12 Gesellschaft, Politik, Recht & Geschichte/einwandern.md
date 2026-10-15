@@ -32,6 +32,11 @@ status: "new"
 > Viele Menschen sind in den 1960er-Jahren nach Deutschland eingewandert.
 > *Many people immigrated to Germany in the 1960s.*
 
+**Phrases & Expressions:**
+- **nach Deutschland einwandern** — *to immigrate*
+- **legal einwandern** — *to immigrate*
+- **Einwanderer** — *to immigrate*
+
 **Collocations**
 - nach Deutschland einwandern
 - legal einwandern

@@ -29,6 +29,11 @@ status: "new"
 > Die Firma entwickelt sich sehr dynamisch.
 > *The company is developing very dynamically.*
 
+**Phrases & Expressions:**
+- **eine dynamische Entwicklung** — *dynamic*
+- **dynamisch wachsen** — *dynamic*
+- **ein dynamisches Team** — *dynamic*
+
 **Collocations**
 - eine dynamische Entwicklung
 - dynamisch wachsen

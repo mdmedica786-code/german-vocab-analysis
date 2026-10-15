@@ -33,6 +33,11 @@ status: "new"
 > Die Miete wird per Lastschrift abgebucht.
 > *The rent is debited by direct debit.*
 
+**Phrases & Expressions:**
+- **per Lastschrift zahlen** — *direct debit*
+- **eine Lastschrift zurückgeben** — *direct debit*
+- **Lastschrift widerrufen** — *direct debit*
+
 **Collocations**
 - per Lastschrift zahlen
 - eine Lastschrift zurückgeben

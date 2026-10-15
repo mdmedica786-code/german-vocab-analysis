@@ -29,6 +29,11 @@ status: "new"
 > Wir kaufen nur hochwertige Lebensmittel.
 > *We only buy high-quality food.*
 
+**Phrases & Expressions:**
+- **hochwertige Produkte** — *high-quality; premium*
+- **hochwertig verarbeitet** — *high-quality; premium*
+- **eine hochwertige Ausstattung** — *high-quality; premium*
+
 **Collocations**
 - hochwertige Produkte
 - hochwertig verarbeitet

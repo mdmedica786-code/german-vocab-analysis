@@ -35,6 +35,9 @@ status: "new"
 > Hans will Bauingenieur werden.
 > *Hans wants to become a civil engineer.*
 
+**Phrases & Expressions:**
+- **Hans will Bauingenieur werden** — *Hans wants to become a civil engineer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a (Freunde, Kollegen und ich) · Goethe word list B1
 <!-- bank:end -->
 

@@ -32,6 +32,12 @@ status: "new"
 > Er nahm sie in die Arme und küsste sie.
 > *He took her in his arms and kissed her.*
 
+**Phrases & Expressions:**
+- **jemanden küssen** — *to kiss*
+- **sich küssen** — *to kiss*
+- **auf die Wange küssen** — *to kiss*
+- **zum Abschied küssen** — *to kiss*
+
 **Collocations**
 - jemanden küssen
 - sich küssen

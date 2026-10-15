@@ -30,6 +30,9 @@ status: "new"
 > Bitte 1 kg mageres Fleisch.
 > *One kilo of lean meat, please.*
 
+**Phrases & Expressions:**
+- **Bitte 1 kg mageres Fleisch** — *One kilo of lean meat, please* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

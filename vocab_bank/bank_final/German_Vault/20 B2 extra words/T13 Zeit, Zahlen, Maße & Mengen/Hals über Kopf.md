@@ -29,6 +29,10 @@ status: "new"
 > Sie ist Hals über Kopf aus der Wohnung ausgezogen.
 > *She moved out of the flat in a rush.*
 
+**Phrases & Expressions:**
+- **sich Hals über Kopf verlieben** — *headlong; in a rush*
+- **überstürzt** — *headlong; in a rush*
+
 **Collocations**
 - sich Hals über Kopf verlieben
 - überstürzt

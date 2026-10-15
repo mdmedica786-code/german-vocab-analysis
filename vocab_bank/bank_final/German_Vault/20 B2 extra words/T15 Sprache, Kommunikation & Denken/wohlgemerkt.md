@@ -29,6 +29,11 @@ status: "new"
 > Er hat nur zwei Wochen gebraucht, wohlgemerkt ohne Hilfe.
 > *He needed only two weeks, mind you without help.*
 
+**Phrases & Expressions:**
+- **wohlgemerkt ohne** — *mind you; please note*
+- **wohlgemerkt nur** — *mind you; please note*
+- **und zwar wohlgemerkt** — *mind you; please note*
+
 **Collocations**
 - wohlgemerkt ohne
 - wohlgemerkt nur

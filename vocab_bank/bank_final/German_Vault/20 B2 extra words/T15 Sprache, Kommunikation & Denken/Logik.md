@@ -33,6 +33,11 @@ status: "new"
 > Seine Argumentation folgt einer klaren Logik.
 > *His argument follows a clear logic.*
 
+**Phrases & Expressions:**
+- **der Logik folgen** — *logic*
+- **eine klare Logik** — *logic*
+- **gegen jede Logik** — *logic*
+
 **Collocations**
 - der Logik folgen
 - eine klare Logik

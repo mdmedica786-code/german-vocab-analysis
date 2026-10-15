@@ -32,6 +32,11 @@ status: "new"
 > Viele Jugendliche verbringen Stunden auf Social Media.
 > *Many teenagers spend hours on social media.*
 
+**Phrases & Expressions:**
+- **auf Social Media** — *social media*
+- **Social Media nutzen** — *social media*
+- **in den Social Media** — *social media*
+
 **Collocations**
 - auf Social Media
 - Social Media nutzen

@@ -34,6 +34,9 @@ status: "new"
 > An der Bergstation steigen wir aus.
 > *We get off at the summit station.*
 
+**Phrases & Expressions:**
+- **An der Bergstation steigen wir aus** — *We get off at the summit station* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

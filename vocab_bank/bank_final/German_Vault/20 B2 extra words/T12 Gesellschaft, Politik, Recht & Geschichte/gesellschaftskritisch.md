@@ -29,6 +29,11 @@ status: "new"
 > Der Film ist sehr gesellschaftskritisch.
 > *The film is very critical of society.*
 
+**Phrases & Expressions:**
+- **ein gesellschaftskritischer Film** — *critical of society; socially critical*
+- **gesellschaftskritisch schreiben** — *critical of society; socially critical*
+- **gesellschaftskritisch sein** — *critical of society; socially critical*
+
 **Collocations**
 - ein gesellschaftskritischer Film
 - gesellschaftskritisch schreiben

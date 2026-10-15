@@ -26,6 +26,10 @@ status: "new"
 > Ihre Wünsche finden bei der Planung Berücksichtigung.
 > *Your wishes are taken into account in the planning.*
 
+**Phrases & Expressions:**
+- **keine Berücksichtigung finden** — *to be taken into account*
+- **berücksichtigt werden** — *to be taken into account*
+
 **Collocations**
 - keine Berücksichtigung finden
 - berücksichtigt werden

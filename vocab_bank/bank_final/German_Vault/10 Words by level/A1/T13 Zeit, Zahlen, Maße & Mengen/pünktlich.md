@@ -31,6 +31,9 @@ status: "new"
 > Der Bus fährt pünktlich um acht Uhr.
 > *The bus leaves at eight o'clock sharp.*
 
+**Phrases & Expressions:**
+- **Ich bin pünktlich um acht Uhr da.** — I'll be there at eight o'clock sharp. *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Uhrzeit festlegen]] · B1)*
+
 **Source:** Netzwerk neu A1 K5 15b (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der Gesamtschaden beträgt etwa zehntausend Euro.
 > *The total damage amounts to about ten thousand euros.*
 
+**Phrases & Expressions:**
+- **den Gesamtschaden schätzen** — *total damage*
+- **der Gesamtschaden nach dem Unfall** — *total damage*
+- **einen Gesamtschaden melden** — *total damage*
+
 **Collocations**
 - den Gesamtschaden schätzen
 - der Gesamtschaden nach dem Unfall

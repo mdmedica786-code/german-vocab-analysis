@@ -31,6 +31,12 @@ status: "new"
 > Er streckte die Arme nach oben.
 > *He stretched his arms upwards.*
 
+**Phrases & Expressions:**
+- **Strecken Sie bitte beide Arme nach vorn.** — Please stretch both arms out in front. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Bewegungsanweisung]] · B2)*
+- **die Beine strecken** — *to stretch; to extend*
+- **sich strecken** — *to stretch; to extend*
+- **den Arm strecken** — *to stretch; to extend*
+
 **Collocations**
 - die Beine strecken
 - sich strecken

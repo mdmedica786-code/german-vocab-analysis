@@ -35,6 +35,9 @@ status: "new"
 > Mit Kabel bekommen Sie über 30 Fernsehkanäle.
 > *With cable you get over 30 TV channels.*
 
+**Phrases & Expressions:**
+- **Mit Kabel bekommen Sie über 30 Fernsehkanäle** — *With cable you get over 30 TV channels* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

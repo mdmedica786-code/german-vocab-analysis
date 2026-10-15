@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Polizei hat eine Waffe gefunden.
 > *The police found a weapon.*
+
+**Phrases & Expressions:**
+- **Die Polizei hat eine Waffe gefunden** — *The police found a weapon* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

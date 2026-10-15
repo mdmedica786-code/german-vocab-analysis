@@ -33,6 +33,11 @@ status: "new"
 > Das Mindesthaltbarkeitsdatum des Joghurts ist gestern abgelaufen.
 > *The best-before date of the yoghurt expired yesterday.*
 
+**Phrases & Expressions:**
+- **das Mindesthaltbarkeitsdatum überschreiten** — *best-before date*
+- **das Mindesthaltbarkeitsdatum prüfen** — *best-before date*
+- **abgelaufenes Mindesthaltbarkeitsdatum** — *best-before date*
+
 **Collocations**
 - das Mindesthaltbarkeitsdatum überschreiten
 - das Mindesthaltbarkeitsdatum prüfen

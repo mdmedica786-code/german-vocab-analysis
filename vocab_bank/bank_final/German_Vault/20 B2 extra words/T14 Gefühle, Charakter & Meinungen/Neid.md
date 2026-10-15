@@ -33,6 +33,11 @@ status: "new"
 > Vor Neid wurde er ganz blass, als er das neue Auto sah.
 > *He went quite pale with envy when he saw the new car.*
 
+**Phrases & Expressions:**
+- **Neid empfinden** — *envy*
+- **vor Neid erblassen** — *envy*
+- **Neid und Missgunst** — *envy*
+
 **Collocations**
 - Neid empfinden
 - vor Neid erblassen

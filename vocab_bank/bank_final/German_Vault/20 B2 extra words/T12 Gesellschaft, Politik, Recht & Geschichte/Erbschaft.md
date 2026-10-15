@@ -33,6 +33,11 @@ status: "new"
 > Von ihrer Tante hat sie eine kleine Erbschaft bekommen.
 > *She received a small inheritance from her aunt.*
 
+**Phrases & Expressions:**
+- **eine Erbschaft antreten** — *inheritance*
+- **eine Erbschaft ausschlagen** — *inheritance*
+- **Erbschaftssteuer** — *inheritance*
+
 **Collocations**
 - eine Erbschaft antreten
 - eine Erbschaft ausschlagen

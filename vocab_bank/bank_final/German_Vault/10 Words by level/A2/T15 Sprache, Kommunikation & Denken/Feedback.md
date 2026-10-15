@@ -34,6 +34,9 @@ status: "new"
 > Danke für dein Feedback zu meinem Vortrag.
 > *Thank you for your feedback on my talk.*
 
+**Phrases & Expressions:**
+- **Danke für das Feedback, das nehme ich mir zu Herzen.** — Thank you for the feedback; I'll take that to heart. *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Feedback annehmen]] · B2)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

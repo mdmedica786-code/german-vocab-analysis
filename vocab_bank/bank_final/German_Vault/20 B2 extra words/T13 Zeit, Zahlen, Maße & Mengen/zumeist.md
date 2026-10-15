@@ -29,6 +29,11 @@ status: "new"
 > Die Gäste kommen zumeist aus Europa.
 > *The guests mostly come from Europe.*
 
+**Phrases & Expressions:**
+- **zumeist jüngere Leute** — *mostly; usually*
+- **zumeist am Wochenende** — *mostly; usually*
+- **zumeist ohne** — *mostly; usually*
+
 **Collocations**
 - zumeist jüngere Leute
 - zumeist am Wochenende

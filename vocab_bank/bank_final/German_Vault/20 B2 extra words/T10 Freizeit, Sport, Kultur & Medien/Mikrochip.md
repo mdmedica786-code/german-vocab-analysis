@@ -33,6 +33,11 @@ status: "new"
 > In der Karte steckt ein kleiner Mikrochip.
 > *A small microchip is inside the card.*
 
+**Phrases & Expressions:**
+- **einen Mikrochip einsetzen** — *microchip*
+- **ein Mikrochip im Handy** — *microchip*
+- **ein winziger Mikrochip** — *microchip*
+
 **Collocations**
 - einen Mikrochip einsetzen
 - ein Mikrochip im Handy

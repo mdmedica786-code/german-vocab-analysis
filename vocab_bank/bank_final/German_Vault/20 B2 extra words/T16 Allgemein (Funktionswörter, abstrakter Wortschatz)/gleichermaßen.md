@@ -29,6 +29,11 @@ status: "new"
 > Das gilt für Männer und Frauen gleichermaßen.
 > *That applies to men and women equally.*
 
+**Phrases & Expressions:**
+- **gleichermaßen gelten** — *equally; likewise*
+- **gleichermaßen wichtig** — *equally; likewise*
+- **Männer und Frauen gleichermaßen** — *equally; likewise*
+
 **Collocations**
 - gleichermaßen gelten
 - gleichermaßen wichtig

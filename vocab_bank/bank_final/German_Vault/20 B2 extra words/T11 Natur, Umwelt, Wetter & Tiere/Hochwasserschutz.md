@@ -33,6 +33,11 @@ status: "new"
 > Der Hochwasserschutz wurde nach der Flut verbessert.
 > *Flood protection was improved after the flood.*
 
+**Phrases & Expressions:**
+- **den Hochwasserschutz verbessern** — *flood protection*
+- **Maßnahmen zum Hochwasserschutz** — *flood protection*
+- **Hochwasserschutz ausbauen** — *flood protection*
+
 **Collocations**
 - den Hochwasserschutz verbessern
 - Maßnahmen zum Hochwasserschutz

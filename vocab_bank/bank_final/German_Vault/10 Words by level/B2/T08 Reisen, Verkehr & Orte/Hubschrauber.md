@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Hubschrauber landet auf dem Dach der Klinik.
 > *The helicopter lands on the roof of the clinic.*
+
+**Phrases & Expressions:**
+- **Der Hubschrauber landet auf dem Dach der Klinik** — *The helicopter lands on the roof of the clinic* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

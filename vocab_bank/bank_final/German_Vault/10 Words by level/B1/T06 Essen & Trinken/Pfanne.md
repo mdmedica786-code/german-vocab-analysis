@@ -34,6 +34,9 @@ status: "new"
 > Hast du keine größere Pfanne? Ich möchte Kartoffeln kochen.
 > *Do you not have a bigger pan? I want to cook potatoes.*
 
+**Phrases & Expressions:**
+- **Hast du keine größere Pfanne? Ich möchte Kartoffeln kochen** — *Do you not have a bigger pan? I want to cook potatoes* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

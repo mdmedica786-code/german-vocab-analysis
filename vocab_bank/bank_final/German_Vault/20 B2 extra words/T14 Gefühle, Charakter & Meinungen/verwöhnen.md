@@ -31,6 +31,11 @@ status: "new"
 > Die Großeltern verwöhnen ihre Enkel mit Süßigkeiten.
 > *The grandparents spoil their grandchildren with sweets.*
 
+**Phrases & Expressions:**
+- **jemanden verwöhnen** — *to spoil; to pamper*
+- **sich verwöhnen lassen** — *to spoil; to pamper*
+- **ein verwöhntes Kind** — *to spoil; to pamper*
+
 **Collocations**
 - jemanden verwöhnen
 - sich verwöhnen lassen

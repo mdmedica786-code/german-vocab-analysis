@@ -31,6 +31,14 @@ status: "new"
 > Du musst mir nicht helfen, ich mache das selbst.
 > *You don't have to help me, I'll do it myself.*
 
+**Phrases & Expressions:**
+- **Ich habe selbst erlebt, dass ...** — I experienced myself that ... *([[B1-03 Argumentieren, begründen und Beispiele nennen|Eigene Erfahrung nennen]] · B1)*
+- **Dieses Medikament kann müde machen, fahren Sie daher nicht selbst Auto.** — This medicine can make you tired, so don't drive yourself. *([[FSP-11 Therapie und Medikamente erklären|Nebenwirkungen erklären]] · B2)*
+- **selbst machen** — *oneself*
+- **selbst wenn** — *oneself*
+- **von selbst** — *oneself*
+- **selbst schuld** — *oneself*
+
 **Collocations**
 - selbst machen
 - selbst wenn

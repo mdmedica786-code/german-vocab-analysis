@@ -33,6 +33,14 @@ status: "new"
 > Wie ist der Unfall passiert?
 > *How did the accident happen?*
 
+**Phrases & Expressions:**
+- **was passiert, wenn ...?** — what happens if ...? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A2)*
+- **es kann passieren, dass ...** — it can happen that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **was passiert** — *to happen*
+- **ein Unfall passiert** — *to happen*
+- **zufällig passieren** — *to happen*
+- **passiert sein** — *to happen*
+
 **Collocations**
 - was passiert
 - ein Unfall passiert

@@ -33,6 +33,11 @@ status: "new"
 > Die durchschnittliche Lebenserwartung steigt seit Jahren.
 > *Average life expectancy has been rising for years.*
 
+**Phrases & Expressions:**
+- **die Lebenserwartung steigt** — *life expectancy*
+- **hohe Lebenserwartung** — *life expectancy*
+- **durchschnittliche Lebenserwartung** — *life expectancy*
+
 **Collocations**
 - die Lebenserwartung steigt
 - hohe Lebenserwartung

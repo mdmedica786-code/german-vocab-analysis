@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Optisch gefällt mir das Auto sehr.
 > *Visually I like the car a lot.*
+
+**Phrases & Expressions:**
+- **Optisch gefällt mir das Auto sehr** — *Visually I like the car a lot* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -34,6 +34,9 @@ status: "new"
 > Das Kinderzimmer ist klein, aber hell.
 > *The nursery is small but bright.*
 
+**Phrases & Expressions:**
+- **Das Kinderzimmer ist klein, aber hell** — *The nursery is small but bright* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Die Preiserhöhung war unausweichlich.
 > *The price increase was unavoidable.*
 
+**Phrases & Expressions:**
+- **eine unausweichliche Folge** — *unavoidable; inevitable*
+- **unausweichlich erscheinen** — *unavoidable; inevitable*
+- **unausweichlich werden** — *unavoidable; inevitable*
+
 **Collocations**
 - eine unausweichliche Folge
 - unausweichlich erscheinen

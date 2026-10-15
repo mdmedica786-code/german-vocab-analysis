@@ -34,6 +34,9 @@ status: "new"
 > Wir legen ein Puzzle mit 1.000 Teilen.
 > *We are doing a 1,000-piece jigsaw puzzle.*
 
+**Phrases & Expressions:**
+- **Wir legen ein Puzzle mit 1.000 Teilen** — *We are doing a 1,000-piece jigsaw puzzle* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

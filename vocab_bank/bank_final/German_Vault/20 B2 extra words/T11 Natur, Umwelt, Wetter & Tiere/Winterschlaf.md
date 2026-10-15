@@ -33,6 +33,11 @@ status: "new"
 > Bären halten im Winter Winterschlaf.
 > *Bears hibernate in winter.*
 
+**Phrases & Expressions:**
+- **Winterschlaf halten** — *hibernation*
+- **im Winterschlaf** — *hibernation*
+- **aus dem Winterschlaf erwachen** — *hibernation*
+
 **Collocations**
 - Winterschlaf halten
 - im Winterschlaf

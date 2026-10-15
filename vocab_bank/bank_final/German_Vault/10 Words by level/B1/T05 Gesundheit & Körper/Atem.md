@@ -34,6 +34,9 @@ status: "new"
 > Bitte den Atem anhalten.
 > *Please hold your breath.*
 
+**Phrases & Expressions:**
+- **Bitte den Atem anhalten** — *Please hold your breath* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

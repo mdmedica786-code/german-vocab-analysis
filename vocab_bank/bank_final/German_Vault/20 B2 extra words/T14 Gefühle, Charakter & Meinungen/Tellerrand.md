@@ -33,6 +33,11 @@ status: "new"
 > Man sollte manchmal über den Tellerrand blicken.
 > *You should sometimes look beyond your own limited view.*
 
+**Phrases & Expressions:**
+- **über den Tellerrand blicken** — *rim of the plate (über den Tellerrand blicken: to look beyond one's own limited view)*
+- **über den Tellerrand hinausschauen** — *rim of the plate (über den Tellerrand blicken: to look beyond one's own limited view)*
+- **über den eigenen Tellerrand schauen** — *rim of the plate (über den Tellerrand blicken: to look beyond one's own limited view)*
+
 **Collocations**
 - über den Tellerrand blicken
 - über den Tellerrand hinausschauen

@@ -33,6 +33,11 @@ status: "new"
 > Die Schaffung neuer Arbeitsplätze ist das Ziel.
 > *The creation of new jobs is the goal.*
 
+**Phrases & Expressions:**
+- **die Schaffung von Arbeitsplätzen** — *creation*
+- **zur Schaffung** — *creation*
+- **die Schaffung von Wohnraum** — *creation*
+
 **Collocations**
 - die Schaffung von Arbeitsplätzen
 - zur Schaffung

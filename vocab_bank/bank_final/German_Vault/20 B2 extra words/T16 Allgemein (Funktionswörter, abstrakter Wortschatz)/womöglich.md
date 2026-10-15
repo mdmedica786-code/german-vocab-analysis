@@ -29,6 +29,11 @@ status: "new"
 > Er hat womöglich den Termin vergessen.
 > *He has possibly forgotten the appointment.*
 
+**Phrases & Expressions:**
+- **womöglich noch** — *possibly; perhaps*
+- **womöglich schon** — *possibly; perhaps*
+- **womöglich sogar** — *possibly; perhaps*
+
 **Collocations**
 - womöglich noch
 - womöglich schon

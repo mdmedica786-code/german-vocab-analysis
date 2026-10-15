@@ -35,6 +35,9 @@ status: "new"
 > Das Wort „Haus“ beginnt mit einem Konsonanten.
 > *The word “Haus” begins with a consonant.*
 
+**Phrases & Expressions:**
+- **Das Wort „Haus“ beginnt mit einem Konsonanten** — *The word “Haus” begins with a consonant* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 5a (In Hamburg)
 <!-- bank:end -->
 

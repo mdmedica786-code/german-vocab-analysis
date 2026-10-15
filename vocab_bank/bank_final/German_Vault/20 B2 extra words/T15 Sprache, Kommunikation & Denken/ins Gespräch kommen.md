@@ -29,6 +29,10 @@ status: "new"
 > Beim Warten kamen wir ins Gespräch.
 > *While waiting we got into conversation.*
 
+**Phrases & Expressions:**
+- **miteinander ins Gespräch kommen** — *to get into conversation*
+- **ins Gespräch bringen** — *to get into conversation*
+
 **Collocations**
 - miteinander ins Gespräch kommen
 - ins Gespräch bringen

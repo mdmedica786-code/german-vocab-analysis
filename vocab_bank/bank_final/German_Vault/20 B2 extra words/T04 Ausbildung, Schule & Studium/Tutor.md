@@ -33,6 +33,11 @@ status: "new"
 > Der Tutor erklärt den Erstsemestern, wie man sich im System anmeldet.
 > *The tutor explains to the first-year students how to register in the system.*
 
+**Phrases & Expressions:**
+- **als Tutor arbeiten** — *tutor; student teaching assistant*
+- **einen Tutor fragen** — *tutor; student teaching assistant*
+- **Tutor für Mathematik** — *tutor; student teaching assistant*
+
 **Collocations**
 - als Tutor arbeiten
 - einen Tutor fragen

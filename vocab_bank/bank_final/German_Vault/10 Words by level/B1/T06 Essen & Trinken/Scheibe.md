@@ -34,6 +34,9 @@ status: "new"
 > Fünf Scheiben Käse, bitte.
 > *Five slices of cheese, please.*
 
+**Phrases & Expressions:**
+- **Fünf Scheiben Käse, bitte** — *Five slices of cheese, please* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

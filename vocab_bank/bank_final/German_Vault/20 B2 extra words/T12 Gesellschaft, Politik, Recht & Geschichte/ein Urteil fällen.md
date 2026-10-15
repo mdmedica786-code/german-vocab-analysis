@@ -26,6 +26,10 @@ status: "new"
 > Der Richter fällte ein mildes Urteil.
 > *The judge passed a mild sentence.*
 
+**Phrases & Expressions:**
+- **ein hartes Urteil fällen** — *to pass judgement*
+- **ein vorschnelles Urteil** — *to pass judgement*
+
 **Collocations**
 - ein hartes Urteil fällen
 - ein vorschnelles Urteil

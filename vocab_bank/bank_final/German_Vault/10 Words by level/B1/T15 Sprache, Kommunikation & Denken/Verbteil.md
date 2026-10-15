@@ -31,6 +31,9 @@ status: "new"
 > Bei trennbaren Verben steht ein Verbteil am Satzende.
 > *With separable verbs one part of the verb is at the end of the sentence.*
 
+**Phrases & Expressions:**
+- **Bei trennbaren Verben steht ein Verbteil am Satzende** — *With separable verbs one part of the verb is at the end of the sentence* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 4a (Kunststücke)
 <!-- bank:end -->
 

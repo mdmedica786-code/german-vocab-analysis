@@ -31,6 +31,11 @@ status: "new"
 > Das Land wurde nach dem Krieg unterworfen.
 > *The country was subjugated after the war.*
 
+**Phrases & Expressions:**
+- **sich unterwerfen** — *to subjugate; to subject*
+- **ein Volk unterwerfen** — *to subjugate; to subject*
+- **Regeln unterworfen sein** — *to subjugate; to subject*
+
 **Collocations**
 - sich unterwerfen
 - ein Volk unterwerfen

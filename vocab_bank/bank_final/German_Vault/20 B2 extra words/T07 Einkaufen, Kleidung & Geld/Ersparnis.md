@@ -33,6 +33,11 @@ status: "new"
 > Die Ersparnis durch den Wechsel beträgt etwa 200 Euro im Jahr.
 > *The saving from switching is about 200 euros a year.*
 
+**Phrases & Expressions:**
+- **eine große Ersparnis** — *saving; savings*
+- **seine Ersparnisse aufbrauchen** — *saving; savings*
+- **Ersparnis erzielen** — *saving; savings*
+
 **Collocations**
 - eine große Ersparnis
 - seine Ersparnisse aufbrauchen

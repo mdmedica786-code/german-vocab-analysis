@@ -33,6 +33,11 @@ status: "new"
 > Die Kleinkünstlerin singt und erzählt Geschichten.
 > *The cabaret performer sings and tells stories.*
 
+**Phrases & Expressions:**
+- **eine Kleinkünstlerin engagieren** — *cabaret performer; small-stage artist (female)*
+- **als Kleinkünstlerin arbeiten** — *cabaret performer; small-stage artist (female)*
+- **eine bekannte Kleinkünstlerin** — *cabaret performer; small-stage artist (female)*
+
 **Collocations**
 - eine Kleinkünstlerin engagieren
 - als Kleinkünstlerin arbeiten

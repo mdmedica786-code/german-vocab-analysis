@@ -29,6 +29,11 @@ status: "new"
 > Sie handelt immer konsequent.
 > *She always acts consistently.*
 
+**Phrases & Expressions:**
+- **konsequent handeln** — *consistent; resolute*
+- **konsequent bleiben** — *consistent; resolute*
+- **eine konsequente Haltung** — *consistent; resolute*
+
 **Collocations**
 - konsequent handeln
 - konsequent bleiben

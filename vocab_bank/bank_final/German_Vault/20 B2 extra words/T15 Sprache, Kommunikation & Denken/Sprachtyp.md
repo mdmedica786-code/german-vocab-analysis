@@ -33,6 +33,11 @@ status: "new"
 > Deutsch und Englisch gehören zum gleichen Sprachtyp.
 > *German and English belong to the same type of language.*
 
+**Phrases & Expressions:**
+- **ein Sprachtyp** — *type of language; language type*
+- **verschiedene Sprachtypen** — *type of language; language type*
+- **einen Sprachtyp bestimmen** — *type of language; language type*
+
 **Collocations**
 - ein Sprachtyp
 - verschiedene Sprachtypen

@@ -34,6 +34,9 @@ status: "new"
 > Die Ukrainerin arbeitet im Krankenhaus.
 > *The Ukrainian woman works in the hospital.*
 
+**Phrases & Expressions:**
+- **Die Ukrainerin arbeitet im Krankenhaus** — *The Ukrainian woman works in the hospital* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

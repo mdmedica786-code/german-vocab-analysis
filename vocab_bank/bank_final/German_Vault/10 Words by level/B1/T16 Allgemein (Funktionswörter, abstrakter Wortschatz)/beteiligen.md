@@ -34,6 +34,12 @@ status: "new"
 > Wir wollen unserer Lehrerin ein Geschenk kaufen. Wer möchte sich beteiligen?
 > *We want to buy our teacher a present. Who would like to chip in?*
 
+**Phrases & Expressions:**
+- **sich an etwas beteiligen** — *to participate*
+- **sich an den Kosten beteiligen** — *to participate*
+- **Mitarbeiter beteiligen** — *to participate*
+- **sich am Gespräch beteiligen** — *to participate*
+
 **Collocations**
 - sich an etwas beteiligen
 - sich an den Kosten beteiligen

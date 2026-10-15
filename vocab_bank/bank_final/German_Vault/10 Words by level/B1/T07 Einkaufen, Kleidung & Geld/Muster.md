@@ -34,6 +34,9 @@ status: "new"
 > Das Kleid hat ein schönes Muster.
 > *The dress has a lovely pattern.*
 
+**Phrases & Expressions:**
+- **Das Kleid hat ein schönes Muster** — *The dress has a lovely pattern* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 9b (Veränderungen)
 <!-- bank:end -->
 

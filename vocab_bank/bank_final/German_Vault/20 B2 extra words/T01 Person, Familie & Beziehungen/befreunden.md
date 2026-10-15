@@ -32,6 +32,11 @@ status: "new"
 > Die beiden haben sich im Studium befreundet.
 > *The two became friends during their studies.*
 
+**Phrases & Expressions:**
+- **sich mit jemandem befreunden** — *to make friends; to become friends*
+- **eng befreundet sein** — *to make friends; to become friends*
+- **sich schnell befreunden** — *to make friends; to become friends*
+
 **Collocations**
 - sich mit jemandem befreunden
 - eng befreundet sein

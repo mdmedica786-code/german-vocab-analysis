@@ -26,6 +26,10 @@ status: "new"
 > Das Material findet im Hausbau Verwendung.
 > *The material is used in house building.*
 
+**Phrases & Expressions:**
+- **breite Verwendung finden** — *to be used*
+- **Anwendung finden** — *to be used*
+
 **Collocations**
 - breite Verwendung finden
 - Anwendung finden

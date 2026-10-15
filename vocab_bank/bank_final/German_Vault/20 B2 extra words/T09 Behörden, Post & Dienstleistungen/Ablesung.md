@@ -33,6 +33,11 @@ status: "new"
 > Die Ablesung der Zähler findet einmal im Jahr statt.
 > *The meter reading takes place once a year.*
 
+**Phrases & Expressions:**
+- **die Ablesung durchführen** — *meter reading*
+- **Termin zur Ablesung** — *meter reading*
+- **jährliche Ablesung** — *meter reading*
+
 **Collocations**
 - die Ablesung durchführen
 - Termin zur Ablesung

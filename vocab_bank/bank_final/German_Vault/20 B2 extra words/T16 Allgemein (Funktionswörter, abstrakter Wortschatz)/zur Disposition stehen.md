@@ -26,6 +26,9 @@ status: "new"
 > Der Standort steht zur Disposition.
 > *The location is up in the air.*
 
+**Phrases & Expressions:**
+- **zur Disposition stellen** — *to be up for discussion; to be in question*
+
 **Collocations**
 - zur Disposition stellen
 

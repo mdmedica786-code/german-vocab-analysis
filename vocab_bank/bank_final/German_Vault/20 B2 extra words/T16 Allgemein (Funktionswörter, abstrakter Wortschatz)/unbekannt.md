@@ -29,6 +29,11 @@ status: "new"
 > Der Täter ist noch unbekannt.
 > *The perpetrator is still unknown.*
 
+**Phrases & Expressions:**
+- **eine unbekannte Ursache** — *unknown*
+- **unbekannt verzogen** — *unknown*
+- **ein unbekanntes Land** — *unknown*
+
 **Collocations**
 - eine unbekannte Ursache
 - unbekannt verzogen

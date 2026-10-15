@@ -29,6 +29,11 @@ status: "new"
 > Die Überraschungsparty war wirklich gelungen.
 > *The surprise party was really a success.*
 
+**Phrases & Expressions:**
+- **eine gelungene Überraschung** — *successful; well done*
+- **gelungen sein** — *successful; well done*
+- **ein gelungener Abend** — *successful; well done*
+
 **Collocations**
 - eine gelungene Überraschung
 - gelungen sein

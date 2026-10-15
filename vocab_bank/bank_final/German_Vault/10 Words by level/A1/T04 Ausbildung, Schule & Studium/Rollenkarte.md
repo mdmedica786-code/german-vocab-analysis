@@ -31,6 +31,9 @@ status: "new"
 > Jeder Partner bekommt eine Rollenkarte.
 > *Each partner gets a role card.*
 
+**Phrases & Expressions:**
+- **Jeder Partner bekommt eine Rollenkarte** — *Each partner gets a role card* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 14 (Alltag und Familie)
 <!-- bank:end -->
 

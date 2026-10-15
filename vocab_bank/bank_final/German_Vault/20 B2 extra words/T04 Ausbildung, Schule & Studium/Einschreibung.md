@@ -33,6 +33,11 @@ status: "new"
 > Die Einschreibung an der Universität ist bis Ende September möglich.
 > *Enrolment at the university is possible until the end of September.*
 
+**Phrases & Expressions:**
+- **die Einschreibung beantragen** — *enrolment; registration*
+- **Frist für die Einschreibung** — *enrolment; registration*
+- **Einschreibung ins Studium** — *enrolment; registration*
+
 **Collocations**
 - die Einschreibung beantragen
 - Frist für die Einschreibung

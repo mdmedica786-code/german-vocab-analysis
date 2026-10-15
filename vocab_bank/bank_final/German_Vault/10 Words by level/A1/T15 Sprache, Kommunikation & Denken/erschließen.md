@@ -32,6 +32,9 @@ status: "new"
 > Sie erschließt die Bedeutung des Wortes aus dem Text.
 > *She infers the meaning of the word from the text.*
 
+**Phrases & Expressions:**
+- **Sie erschließt die Bedeutung des Wortes aus dem Text** — *She infers the meaning of the word from the text* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13b (Fit und gesund)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Das Rezept hat viele Variationen.
 > *The recipe has many variations.*
 
+**Phrases & Expressions:**
+- **Das Rezept hat viele Variationen** — *The recipe has many variations* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

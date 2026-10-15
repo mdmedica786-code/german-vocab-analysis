@@ -34,6 +34,9 @@ status: "new"
 > Sie dürfen während der Schwangerschaft nicht rauchen.
 > *You must not smoke during pregnancy.*
 
+**Phrases & Expressions:**
+- **Wie viele Schwangerschaften hatten Sie bisher?** — How many pregnancies have you had so far? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Schwangerschaft erfragen]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Wenngleich er müde war, arbeitete er weiter.
 > *Although he was tired, he carried on working.*
+
+**Phrases & Expressions:**
+- **Wenngleich er müde war, arbeitete er weiter** — *Although he was tired, he carried on working* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

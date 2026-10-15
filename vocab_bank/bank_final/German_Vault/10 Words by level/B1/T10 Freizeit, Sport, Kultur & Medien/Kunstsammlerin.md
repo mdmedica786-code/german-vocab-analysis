@@ -34,6 +34,9 @@ status: "new"
 > Die Kunstsammlerin besitzt viele Skulpturen.
 > *The art collector owns many sculptures.*
 
+**Phrases & Expressions:**
+- **Die Kunstsammlerin besitzt viele Skulpturen** — *The art collector owns many sculptures* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 11a (Kunststücke)
 <!-- bank:end -->
 

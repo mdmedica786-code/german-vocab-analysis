@@ -33,6 +33,11 @@ status: "new"
 > Die Zutaten werden im Mixer püriert.
 > *The ingredients are puréed in the blender.*
 
+**Phrases & Expressions:**
+- **mit dem Mixer pürieren** — *blender; mixer*
+- **den Mixer einschalten** — *blender; mixer*
+- **ein Mixer für Smoothies** — *blender; mixer*
+
 **Collocations**
 - mit dem Mixer pürieren
 - den Mixer einschalten

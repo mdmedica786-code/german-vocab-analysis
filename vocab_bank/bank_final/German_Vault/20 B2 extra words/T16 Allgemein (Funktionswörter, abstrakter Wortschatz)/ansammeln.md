@@ -32,6 +32,11 @@ status: "new"
 > Auf dem Dachboden hat sich viel Gerümpel angesammelt.
 > *A lot of junk has accumulated in the attic.*
 
+**Phrases & Expressions:**
+- **sich ansammeln** — *to accumulate; to gather*
+- **Vorräte ansammeln** — *to accumulate; to gather*
+- **eine Menge Menschen sammelt sich an** — *to accumulate; to gather*
+
 **Collocations**
 - sich ansammeln
 - Vorräte ansammeln

@@ -34,6 +34,9 @@ status: "new"
 > Die Initiative hilft älteren Menschen im Alltag.
 > *The initiative helps older people in everyday life.*
 
+**Phrases & Expressions:**
+- **Die Initiative hilft älteren Menschen im Alltag** — *The initiative helps older people in everyday life* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

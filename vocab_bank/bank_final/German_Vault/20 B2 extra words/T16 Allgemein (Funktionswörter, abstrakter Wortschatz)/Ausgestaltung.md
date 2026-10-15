@@ -33,6 +33,11 @@ status: "new"
 > Die Ausgestaltung des Vertrags ist noch offen.
 > *The design of the contract is still open.*
 
+**Phrases & Expressions:**
+- **die Ausgestaltung der Regeln** — *design; shaping; arrangement*
+- **die konkrete Ausgestaltung** — *design; shaping; arrangement*
+- **Ausgestaltung der Arbeit** — *design; shaping; arrangement*
+
 **Collocations**
 - die Ausgestaltung der Regeln
 - die konkrete Ausgestaltung

@@ -32,6 +32,9 @@ status: "new"
 > Man sollte das Vergangene ruhen lassen.
 > *One should let the past rest.*
 
+**Phrases & Expressions:**
+- **Man sollte das Vergangene ruhen lassen** — *One should let the past rest* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 4b (Veränderungen)
 <!-- bank:end -->
 

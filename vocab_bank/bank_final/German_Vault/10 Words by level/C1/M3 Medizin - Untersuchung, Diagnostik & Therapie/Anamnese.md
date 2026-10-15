@@ -33,6 +33,12 @@ status: "new"
 > Zuerst erhebt der Arzt die Anamnese.
 > *First the doctor takes the medical history.*
 
+**Phrases & Expressions:**
+- **die Anamnese erheben** — *medical history*
+- **eine ausführliche Anamnese** — *medical history*
+- **Anamnese und Untersuchung** — *medical history*
+- **die Anamnese dokumentieren** — *medical history*
+
 **Collocations**
 - die Anamnese erheben
 - eine ausführliche Anamnese

@@ -31,6 +31,9 @@ status: "new"
 > Du darfst in der Schule nicht so frech sein.
 > *You mustn't be so cheeky at school.*
 
+**Phrases & Expressions:**
+- **Du darfst in der Schule nicht so frech sein** — *You mustn't be so cheeky at school* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 9d (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

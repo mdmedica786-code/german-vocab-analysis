@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Beschwerden haben keine organische Ursache.
 > *The complaints have no organic cause.*
+
+**Phrases & Expressions:**
+- **Die Beschwerden haben keine organische Ursache** — *The complaints have no organic cause* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

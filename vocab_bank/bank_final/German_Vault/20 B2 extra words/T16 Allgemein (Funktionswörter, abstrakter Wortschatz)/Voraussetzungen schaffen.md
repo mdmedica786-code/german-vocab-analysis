@@ -26,6 +26,11 @@ status: "new"
 > Die Politik muss die Voraussetzungen für Wachstum schaffen.
 > *Politics must create the conditions for growth.*
 
+**Phrases & Expressions:**
+- **die Voraussetzungen schaffen** — *to create the conditions*
+- **geeignete Voraussetzungen schaffen** — *to create the conditions*
+- **Voraussetzungen erfüllen** — *to create the conditions*
+
 **Collocations**
 - die Voraussetzungen schaffen
 - geeignete Voraussetzungen schaffen

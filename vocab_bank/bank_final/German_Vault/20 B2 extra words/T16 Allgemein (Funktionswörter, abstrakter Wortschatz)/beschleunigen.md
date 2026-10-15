@@ -31,6 +31,11 @@ status: "new"
 > Wir müssen das Verfahren beschleunigen.
 > *We have to speed up the procedure.*
 
+**Phrases & Expressions:**
+- **ein Verfahren beschleunigen** — *to accelerate; to speed up*
+- **den Prozess beschleunigen** — *to accelerate; to speed up*
+- **stark beschleunigen** — *to accelerate; to speed up*
+
 **Collocations**
 - ein Verfahren beschleunigen
 - den Prozess beschleunigen

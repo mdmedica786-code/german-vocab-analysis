@@ -34,6 +34,9 @@ status: "new"
 > Er schreibt einen Reisebericht über Italien.
 > *He is writing a travel report about Italy.*
 
+**Phrases & Expressions:**
+- **Er schreibt einen Reisebericht über Italien** — *He is writing a travel report about Italy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7a (Ab in den Urlaub!)
 <!-- bank:end -->
 

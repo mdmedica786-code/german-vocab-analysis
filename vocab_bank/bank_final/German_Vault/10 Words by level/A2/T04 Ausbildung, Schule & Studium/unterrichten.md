@@ -33,6 +33,9 @@ status: "new"
 > Meine Frau unterrichtet Spanisch.
 > *My wife teaches Spanish.*
 
+**Phrases & Expressions:**
+- **Meine Frau unterrichtet Spanisch** — *My wife teaches Spanish* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle) · Goethe word list B1
 <!-- bank:end -->
 

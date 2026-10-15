@@ -35,6 +35,12 @@ status: "new"
 > Die Erklärung der Lehrerin ist besser als die Erklärung im Buch.
 > *The teacher's explanation is better than the explanation in the book.*
 
+**Phrases & Expressions:**
+- **eine Erklärung abgeben** — *explanation*
+- **eine einfache Erklärung** — *explanation*
+- **eine Erklärung verlangen** — *explanation*
+- **eine plausible Erklärung** — *explanation*
+
 **Collocations**
 - eine Erklärung abgeben
 - eine einfache Erklärung

@@ -34,6 +34,9 @@ status: "new"
 > Bei dieser Kälte fahre ich nicht mit dem Fahrrad.
 > *I will not ride my bike in this cold.*
 
+**Phrases & Expressions:**
+- **Bei dieser Kälte fahre ich nicht mit dem Fahrrad** — *I will not ride my bike in this cold* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

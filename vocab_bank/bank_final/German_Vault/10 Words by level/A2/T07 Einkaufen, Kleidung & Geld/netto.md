@@ -30,6 +30,9 @@ status: "new"
 > Mein Gehalt beträgt netto 2.500 Euro.
 > *My salary is 2,500 euros net.*
 
+**Phrases & Expressions:**
+- **Mein Gehalt beträgt netto 2.500 Euro** — *My salary is 2,500 euros net* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

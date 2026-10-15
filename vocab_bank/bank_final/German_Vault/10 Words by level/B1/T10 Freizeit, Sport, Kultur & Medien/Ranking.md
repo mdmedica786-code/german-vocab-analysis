@@ -34,6 +34,9 @@ status: "new"
 > Die Uni steht im Ranking auf Platz drei.
 > *The university is in third place in the ranking.*
 
+**Phrases & Expressions:**
+- **Die Uni steht im Ranking auf Platz drei** — *The university is in third place in the ranking* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 9a (Stadt, Land, Fluss)
 <!-- bank:end -->
 

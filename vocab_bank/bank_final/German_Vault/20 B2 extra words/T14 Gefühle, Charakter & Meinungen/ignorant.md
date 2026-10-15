@@ -29,6 +29,11 @@ status: "new"
 > Sein ignorantes Verhalten stößt auf Kritik.
 > *His ignorant behaviour meets with criticism.*
 
+**Phrases & Expressions:**
+- **ignorant sein** — *ignorant; indifferent*
+- **ein ignoranter Mensch** — *ignorant; indifferent*
+- **ignorantes Verhalten** — *ignorant; indifferent*
+
 **Collocations**
 - ignorant sein
 - ein ignoranter Mensch

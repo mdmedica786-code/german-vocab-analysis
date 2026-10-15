@@ -33,6 +33,11 @@ status: "new"
 > Hilfsorganisationen bringen Wasser und Medikamente in das Krisengebiet.
 > *Aid organisations bring water and medicine into the crisis area.*
 
+**Phrases & Expressions:**
+- **eine Hilfsorganisation unterstützen** — *aid organisation*
+- **für eine Hilfsorganisation arbeiten** — *aid organisation*
+- **internationale Hilfsorganisation** — *aid organisation*
+
 **Collocations**
 - eine Hilfsorganisation unterstützen
 - für eine Hilfsorganisation arbeiten

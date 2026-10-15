@@ -33,6 +33,11 @@ status: "new"
 > Bei Erkältung hilft eine heiße Hühnerbrühe.
 > *A hot chicken broth helps with a cold.*
 
+**Phrases & Expressions:**
+- **Brühe kochen** — *broth; stock*
+- **klare Brühe** — *broth; stock*
+- **eine Brühe mit Nudeln** — *broth; stock*
+
 **Collocations**
 - Brühe kochen
 - klare Brühe

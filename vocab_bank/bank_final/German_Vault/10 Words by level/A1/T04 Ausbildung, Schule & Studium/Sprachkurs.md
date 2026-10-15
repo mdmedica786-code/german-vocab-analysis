@@ -34,6 +34,9 @@ status: "new"
 > Ich besuche abends einen Sprachkurs.
 > *In the evenings I attend a language course.*
 
+**Phrases & Expressions:**
+- **Ich besuche abends einen Sprachkurs** — *In the evenings I attend a language course* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 12 (Alltag und Familie)
 <!-- bank:end -->
 

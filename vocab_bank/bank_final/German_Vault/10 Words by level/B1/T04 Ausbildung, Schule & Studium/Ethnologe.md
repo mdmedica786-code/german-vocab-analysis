@@ -34,6 +34,9 @@ status: "new"
 > Der Ethnologe erforscht fremde Kulturen.
 > *The ethnologist studies foreign cultures.*
 
+**Phrases & Expressions:**
+- **Der Ethnologe erforscht fremde Kulturen** — *The ethnologist studies foreign cultures* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der Richter wurde wegen Befangenheit abgelehnt.
 > *The judge was challenged because of bias.*
 
+**Phrases & Expressions:**
+- **wegen Befangenheit** — *bias; self-consciousness*
+- **Befangenheit anzeigen** — *bias; self-consciousness*
+- **den Verdacht der Befangenheit** — *bias; self-consciousness*
+
 **Collocations**
 - wegen Befangenheit
 - Befangenheit anzeigen

@@ -34,6 +34,9 @@ status: "new"
 > Die Sammlerin zeigt ihre alten Münzen.
 > *The collector shows her old coins.*
 
+**Phrases & Expressions:**
+- **Die Sammlerin zeigt ihre alten Münzen** — *The collector shows her old coins* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der Sozialpädagoge begleitet die Jugendlichen im Alltag.
 > *The social education worker accompanies the young people in everyday life.*
 
+**Phrases & Expressions:**
+- **als Sozialpädagoge arbeiten** — *social education worker (male); social pedagogue*
+- **ein erfahrener Sozialpädagoge** — *social education worker (male); social pedagogue*
+- **Sozialpädagoge werden** — *social education worker (male); social pedagogue*
+
 **Collocations**
 - als Sozialpädagoge arbeiten
 - ein erfahrener Sozialpädagoge

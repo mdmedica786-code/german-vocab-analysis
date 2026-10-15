@@ -35,6 +35,9 @@ status: "new"
 > Das Sekretariat ist von acht bis zwölf Uhr geöffnet.
 > *The secretary's office is open from eight to twelve.*
 
+**Phrases & Expressions:**
+- **Das Sekretariat ist von acht bis zwölf Uhr geöffnet** — *The secretary's office is open from eight to twelve* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 4a ÜB (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

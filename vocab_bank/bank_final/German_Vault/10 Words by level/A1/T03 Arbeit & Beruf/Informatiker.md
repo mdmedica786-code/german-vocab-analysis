@@ -34,6 +34,9 @@ status: "new"
 > Der Informatiker repariert den Computer im Büro.
 > *The computer scientist repairs the computer in the office.*
 
+**Phrases & Expressions:**
+- **Der Informatiker repariert den Computer im Büro** — *The computer scientist repairs the computer in the office* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Die Kritik war implizit in seiner Aussage enthalten.
 > *The criticism was implicit in his statement.*
 
+**Phrases & Expressions:**
+- **implizit enthalten** — *implicit*
+- **eine implizite Annahme** — *implicit*
+- **implizit voraussetzen** — *implicit*
+
 **Collocations**
 - implizit enthalten
 - eine implizite Annahme

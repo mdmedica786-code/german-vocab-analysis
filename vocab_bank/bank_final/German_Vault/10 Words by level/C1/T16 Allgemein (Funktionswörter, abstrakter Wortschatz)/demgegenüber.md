@@ -25,6 +25,9 @@ status: "new"
 > [!example] Beispiel
 > Demgegenüber steht ein hoher Aufwand.
 > *In contrast there is a high cost.*
+
+**Phrases & Expressions:**
+- **Demgegenüber steht ein hoher Aufwand** — *In contrast there is a high cost* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

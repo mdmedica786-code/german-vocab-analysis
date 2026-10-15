@@ -32,6 +32,9 @@ status: "new"
 > Dieser Job erfordert viel Kraft.
 > *This job demands a lot of strength.*
 
+**Phrases & Expressions:**
+- **Dieser Job erfordert viel Kraft** — *This job demands a lot of strength* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

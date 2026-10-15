@@ -34,6 +34,9 @@ status: "new"
 > Das Fußballspiel beginnt um 18 Uhr.
 > *The football match starts at 6 p.m.*
 
+**Phrases & Expressions:**
+- **Das Fußballspiel beginnt um 18 Uhr** — *The football match starts at 6 p.m* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden)
 <!-- bank:end -->
 

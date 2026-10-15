@@ -32,6 +32,9 @@ status: "new"
 > Euer Kurs beginnt heute.
 > **
 
+**Phrases & Expressions:**
+- **Euer Kurs beginnt heute** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10b (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

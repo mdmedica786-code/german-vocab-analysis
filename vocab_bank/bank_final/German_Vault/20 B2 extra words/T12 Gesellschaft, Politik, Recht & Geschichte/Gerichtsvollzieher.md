@@ -33,6 +33,11 @@ status: "new"
 > Der Gerichtsvollzieher kam, um die Schulden einzutreiben.
 > *The bailiff came to collect the debts.*
 
+**Phrases & Expressions:**
+- **der Gerichtsvollzieher klingelt** — *bailiff*
+- **einen Gerichtsvollzieher beauftragen** — *bailiff*
+- **Besuch vom Gerichtsvollzieher** — *bailiff*
+
 **Collocations**
 - der Gerichtsvollzieher klingelt
 - einen Gerichtsvollzieher beauftragen

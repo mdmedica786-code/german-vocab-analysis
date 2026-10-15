@@ -33,6 +33,11 @@ status: "new"
 > Der Verkehr heute früh war die Hölle.
 > *The traffic this morning was hell.*
 
+**Phrases & Expressions:**
+- **die Hölle auf Erden** — *hell*
+- **jemandem die Hölle heiß machen** — *hell*
+- **zur Hölle schicken** — *hell*
+
 **Collocations**
 - die Hölle auf Erden
 - jemandem die Hölle heiß machen

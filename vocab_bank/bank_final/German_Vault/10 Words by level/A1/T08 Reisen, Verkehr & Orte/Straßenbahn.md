@@ -36,6 +36,9 @@ status: "new"
 > Wo fährt die Straßenbahn ab?
 > **
 
+**Phrases & Expressions:**
+- **Wo fährt die Straßenbahn ab** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 6a ÜB (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

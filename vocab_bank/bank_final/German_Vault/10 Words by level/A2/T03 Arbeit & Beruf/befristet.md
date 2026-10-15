@@ -30,6 +30,9 @@ status: "new"
 > Mein Vertrag ist auf ein Jahr befristet.
 > *My contract is limited to one year.*
 
+**Phrases & Expressions:**
+- **Mein Vertrag ist auf ein Jahr befristet** — *My contract is limited to one year* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Er kann gut Gitarre spielen.
 > *He can play the guitar well.*
 
+**Phrases & Expressions:**
+- **Er kann gut Gitarre spielen** — *He can play the guitar well* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Das ist eine riskante Entscheidung.
 > *That is a risky decision.*
 
+**Phrases & Expressions:**
+- **eine riskante Entscheidung** — *risky*
+- **ein riskantes Manöver** — *risky*
+- **zu riskant sein** — *risky*
+
 **Collocations**
 - eine riskante Entscheidung
 - ein riskantes Manöver

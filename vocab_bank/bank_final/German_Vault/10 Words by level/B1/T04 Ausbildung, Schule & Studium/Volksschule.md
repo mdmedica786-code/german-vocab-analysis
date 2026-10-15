@@ -42,6 +42,9 @@ status: "new"
 > Mein Kind geht in die Volksschule.
 > *My child goes to primary school.*
 
+**Phrases & Expressions:**
+- **Mein Kind geht in die Volksschule** — *My child goes to primary school* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

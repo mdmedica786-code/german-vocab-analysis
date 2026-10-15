@@ -33,6 +33,11 @@ status: "new"
 > Der Fahrkartenautomat nimmt nur Münzen und Karten.
 > *The ticket machine only accepts coins and cards.*
 
+**Phrases & Expressions:**
+- **am Fahrkartenautomaten** — *ticket machine*
+- **ein Ticket am Fahrkartenautomaten kaufen** — *ticket machine*
+- **der Automat ist defekt** — *ticket machine*
+
 **Collocations**
 - am Fahrkartenautomaten
 - ein Ticket am Fahrkartenautomaten kaufen

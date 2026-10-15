@@ -33,6 +33,11 @@ status: "new"
 > Die Infrastruktur auf dem Land ist schlecht.
 > *The infrastructure in the countryside is poor.*
 
+**Phrases & Expressions:**
+- **die Infrastruktur ausbauen** — *infrastructure*
+- **eine gute Infrastruktur** — *infrastructure*
+- **Infrastruktur und Verkehr** — *infrastructure*
+
 **Collocations**
 - die Infrastruktur ausbauen
 - eine gute Infrastruktur

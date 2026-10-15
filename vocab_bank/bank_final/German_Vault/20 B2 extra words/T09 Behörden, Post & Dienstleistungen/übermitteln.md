@@ -31,6 +31,11 @@ status: "new"
 > Bitte übermitteln Sie uns Ihre Daten per E-Mail.
 > *Please send us your data by email.*
 
+**Phrases & Expressions:**
+- **Daten übermitteln** — *to transmit; to convey; to send*
+- **eine Nachricht übermitteln** — *to transmit; to convey; to send*
+- **Grüße übermitteln** — *to transmit; to convey; to send*
+
 **Collocations**
 - Daten übermitteln
 - eine Nachricht übermitteln

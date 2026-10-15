@@ -32,6 +32,12 @@ status: "new"
 > Zur Klärung wurde ein Gutachter herangezogen.
 > *An expert was consulted for clarification.*
 
+**Phrases & Expressions:**
+- **Der Schmerz zieht bis in den linken Arm.** — The pain radiates into the left arm. *([[FSP-03 Schmerzanamnese|Patient: Ausstrahlung nennen]] · B1)*
+- **einen Experten heranziehen** — *to consult; to draw on; to use for comparison*
+- **zum Vergleich heranziehen** — *to consult; to draw on; to use for comparison*
+- **Quellen heranziehen** — *to consult; to draw on; to use for comparison*
+
 **Collocations**
 - einen Experten heranziehen
 - zum Vergleich heranziehen

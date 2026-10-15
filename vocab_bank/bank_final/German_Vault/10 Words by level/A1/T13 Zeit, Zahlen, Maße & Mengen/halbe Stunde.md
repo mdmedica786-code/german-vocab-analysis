@@ -34,6 +34,9 @@ status: "new"
 > Der Bus braucht eine halbe Stunde.
 > *The bus takes half an hour.*
 
+**Phrases & Expressions:**
+- **Der Bus braucht eine halbe Stunde** — *The bus takes half an hour* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 15b (Alltag und Familie)
 <!-- bank:end -->
 

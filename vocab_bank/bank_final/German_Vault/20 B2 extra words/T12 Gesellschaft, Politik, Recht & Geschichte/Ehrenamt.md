@@ -33,6 +33,11 @@ status: "new"
 > Sie engagiert sich in einem Ehrenamt bei der Feuerwehr.
 > *She is involved in voluntary work at the fire brigade.*
 
+**Phrases & Expressions:**
+- **ein Ehrenamt übernehmen** — *voluntary work; honorary office*
+- **im Ehrenamt tätig sein** — *voluntary work; honorary office*
+- **Ehrenamt ausüben** — *voluntary work; honorary office*
+
 **Collocations**
 - ein Ehrenamt übernehmen
 - im Ehrenamt tätig sein

@@ -33,6 +33,11 @@ status: "new"
 > Seine Haltung zu diesem Thema ist eindeutig.
 > *His attitude to this topic is clear.*
 
+**Phrases & Expressions:**
+- **eine kritische Haltung** — *attitude; posture; keeping (of animals)*
+- **Haltung zeigen** — *attitude; posture; keeping (of animals)*
+- **eine gerade Haltung** — *attitude; posture; keeping (of animals)*
+
 **Collocations**
 - eine kritische Haltung
 - Haltung zeigen

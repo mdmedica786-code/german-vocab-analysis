@@ -33,6 +33,11 @@ status: "new"
 > Die Abholzung der Wälder trägt zum Klimawandel bei.
 > *Deforestation of the forests contributes to climate change.*
 
+**Phrases & Expressions:**
+- **Abholzung stoppen** — *deforestation; felling*
+- **illegale Abholzung** — *deforestation; felling*
+- **Abholzung des Regenwaldes** — *deforestation; felling*
+
 **Collocations**
 - Abholzung stoppen
 - illegale Abholzung

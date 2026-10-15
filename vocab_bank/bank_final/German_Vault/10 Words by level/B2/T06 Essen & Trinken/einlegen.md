@@ -31,6 +31,9 @@ status: "new"
 > [!example] Beispiel
 > Legen Sie bitte eine CD ein.
 > *Please insert a CD.*
+
+**Phrases & Expressions:**
+- **Legen Sie bitte eine CD ein** — *Please insert a CD* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

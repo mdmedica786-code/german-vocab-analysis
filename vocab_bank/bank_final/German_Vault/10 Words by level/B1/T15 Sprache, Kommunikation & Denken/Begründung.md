@@ -34,6 +34,9 @@ status: "new"
 > Die Miete wurde ohne Begründung erhöht.
 > *The rent was raised without justification.*
 
+**Phrases & Expressions:**
+- **Die Miete wurde ohne Begründung erhöht** — *The rent was raised without justification* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

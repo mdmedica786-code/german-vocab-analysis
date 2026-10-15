@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Herstellung des Medikaments dauert lange.
 > *The production of the medicine takes a long time.*
+
+**Phrases & Expressions:**
+- **Die Herstellung des Medikaments dauert lange** — *The production of the medicine takes a long time* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

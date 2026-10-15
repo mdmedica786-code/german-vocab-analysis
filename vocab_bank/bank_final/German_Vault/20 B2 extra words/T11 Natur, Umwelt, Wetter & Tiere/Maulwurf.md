@@ -33,6 +33,11 @@ status: "new"
 > Ein Maulwurf hat unseren Rasen mit Hügeln übersät.
 > *A mole has covered our lawn with mounds.*
 
+**Phrases & Expressions:**
+- **Maulwurfshügel** — *mole*
+- **ein Maulwurf gräbt** — *mole*
+- **blind wie ein Maulwurf** — *mole*
+
 **Collocations**
 - Maulwurfshügel
 - ein Maulwurf gräbt

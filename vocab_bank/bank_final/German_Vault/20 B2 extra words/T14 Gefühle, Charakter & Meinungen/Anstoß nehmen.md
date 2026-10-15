@@ -26,6 +26,11 @@ status: "new"
 > Viele Besucher nahmen Anstoß an dem lauten Verhalten.
 > *Many visitors took offence at the loud behaviour.*
 
+**Phrases & Expressions:**
+- **an etwas Anstoß nehmen** — *to take offence*
+- **Anstoß erregen** — *to take offence*
+- **keinen Anstoß nehmen** — *to take offence*
+
 **Collocations**
 - an etwas Anstoß nehmen
 - Anstoß erregen

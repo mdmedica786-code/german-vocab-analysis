@@ -35,6 +35,9 @@ status: "new"
 > Möchtest du Ketchup zu den Pommes?
 > *Would you like ketchup with the chips?*
 
+**Phrases & Expressions:**
+- **Möchtest du Ketchup zu den Pommes** — *Would you like ketchup with the chips* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

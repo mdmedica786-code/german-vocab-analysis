@@ -32,6 +32,12 @@ status: "new"
 > Der Minister räumte einen Fehler ein.
 > *The minister admitted a mistake.*
 
+**Phrases & Expressions:**
+- **Ich muss einräumen, dass ...** — I have to concede that ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Zugeständnis machen]] · B2)*
+- **einen Fehler einräumen** — *to admit; to concede; to grant*
+- **ein Recht einräumen** — *to admit; to concede; to grant*
+- **Zeit einräumen** — *to admit; to concede; to grant*
+
 **Collocations**
 - einen Fehler einräumen
 - ein Recht einräumen

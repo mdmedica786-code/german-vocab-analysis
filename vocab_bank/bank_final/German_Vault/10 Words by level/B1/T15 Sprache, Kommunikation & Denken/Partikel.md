@@ -34,6 +34,9 @@ status: "new"
 > Ja und doch sind Partikeln.
 > *Ja and doch are particles.*
 
+**Phrases & Expressions:**
+- **Ja und doch sind Partikeln** — *Ja and doch are particles* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7d (Miteinander)
 <!-- bank:end -->
 

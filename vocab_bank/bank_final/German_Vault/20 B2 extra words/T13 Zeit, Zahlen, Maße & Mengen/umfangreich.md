@@ -29,6 +29,11 @@ status: "new"
 > Das Buch ist sehr umfangreich.
 > *The book is very extensive.*
 
+**Phrases & Expressions:**
+- **ein umfangreicher Bericht** — *extensive; comprehensive*
+- **umfangreiche Arbeiten** — *extensive; comprehensive*
+- **umfangreiche Kenntnisse** — *extensive; comprehensive*
+
 **Collocations**
 - ein umfangreicher Bericht
 - umfangreiche Arbeiten

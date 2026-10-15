@@ -31,6 +31,9 @@ status: "new"
 > Das Kursplakat hängt im Eingang der Schule.
 > *The course poster is hanging in the school entrance.*
 
+**Phrases & Expressions:**
+- **Das Kursplakat hängt im Eingang der Schule** — *The course poster is hanging in the school entrance* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1c (Guten Tag!)
 <!-- bank:end -->
 

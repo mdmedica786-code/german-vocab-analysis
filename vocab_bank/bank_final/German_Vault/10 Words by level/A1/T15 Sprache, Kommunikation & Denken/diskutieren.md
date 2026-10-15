@@ -34,6 +34,9 @@ status: "new"
 > Ich möchte das mit meinen Kollegen diskutieren.
 > *I want to discuss this with my colleagues.*
 
+**Phrases & Expressions:**
+- **Ich möchte das mit meinen Kollegen diskutieren** — *I want to discuss this with my colleagues* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 7a (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->
 

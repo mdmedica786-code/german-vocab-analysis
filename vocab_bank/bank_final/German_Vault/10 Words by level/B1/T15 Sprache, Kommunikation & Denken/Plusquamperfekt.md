@@ -34,6 +34,9 @@ status: "new"
 > Das Plusquamperfekt bildet man mit hatte oder war.
 > *The pluperfect is formed with hatte or war.*
 
+**Phrases & Expressions:**
+- **Das Plusquamperfekt bildet man mit hatte oder war** — *The pluperfect is formed with hatte or war* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 3a (Zwischenmenschliches)
 <!-- bank:end -->
 

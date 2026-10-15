@@ -31,6 +31,12 @@ status: "new"
 > Ursprünglich wollte ich in einem Restaurant arbeiten. Aber dann bin ich Busfahrerin geworden.
 > *Originally I wanted to work in a restaurant. But then I became a bus driver.*
 
+**Phrases & Expressions:**
+- **ursprünglich geplant** — *originally*
+- **ursprünglich aus** — *originally*
+- **ursprünglich war** — *originally*
+- **der ursprüngliche Zustand** — *originally*
+
 **Collocations**
 - ursprünglich geplant
 - ursprünglich aus

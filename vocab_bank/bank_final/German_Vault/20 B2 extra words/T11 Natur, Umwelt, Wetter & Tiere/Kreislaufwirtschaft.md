@@ -33,6 +33,11 @@ status: "new"
 > Die Kreislaufwirtschaft soll Abfälle vermeiden und Rohstoffe wiederverwenden.
 > *The circular economy is meant to avoid waste and reuse raw materials.*
 
+**Phrases & Expressions:**
+- **auf Kreislaufwirtschaft setzen** — *circular economy*
+- **Kreislaufwirtschaft fördern** — *circular economy*
+- **Prinzip der Kreislaufwirtschaft** — *circular economy*
+
 **Collocations**
 - auf Kreislaufwirtschaft setzen
 - Kreislaufwirtschaft fördern

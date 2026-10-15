@@ -33,6 +33,11 @@ status: "new"
 > Er hat keine Hemmungen, Fremde anzusprechen.
 > *He has no inhibitions about approaching strangers.*
 
+**Phrases & Expressions:**
+- **Hemmungen haben** — *inhibition; reservation*
+- **Hemmungen überwinden** — *inhibition; reservation*
+- **ohne Hemmungen** — *inhibition; reservation*
+
 **Collocations**
 - Hemmungen haben
 - Hemmungen überwinden

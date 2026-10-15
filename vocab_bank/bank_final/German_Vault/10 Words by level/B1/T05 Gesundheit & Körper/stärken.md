@@ -32,6 +32,9 @@ status: "new"
 > Sport stärkt das Herz.
 > *Exercise strengthens the heart.*
 
+**Phrases & Expressions:**
+- **Zu meinen Stärken zählt, dass ich teamfähig bin.** — Among my strengths is that I work well in a team. *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Stärken nennen]] · B2)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist)
 <!-- bank:end -->
 

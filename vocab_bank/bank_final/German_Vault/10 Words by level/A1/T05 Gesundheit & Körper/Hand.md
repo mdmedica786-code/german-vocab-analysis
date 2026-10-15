@@ -35,6 +35,9 @@ status: "new"
 > Er gibt mir die Hand.
 > *He shakes my hand.*
 
+**Phrases & Expressions:**
+- **von Hand** — by hand *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 6a (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

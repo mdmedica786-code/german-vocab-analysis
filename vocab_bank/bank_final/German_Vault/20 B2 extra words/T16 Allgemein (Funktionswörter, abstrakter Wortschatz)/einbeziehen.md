@@ -32,6 +32,11 @@ status: "new"
 > Die Schule bezieht die Eltern in die Planung ein.
 > *The school involves the parents in the planning.*
 
+**Phrases & Expressions:**
+- **Wir würden Sie gern in die Pflege Ihres Angehörigen einbeziehen.** — We would like to involve you in caring for your relative. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Angehörige einbeziehen]] · B2)*
+- **jemanden in etwas einbeziehen** — *to include; to involve*
+- **alle Faktoren einbeziehen** — *to include; to involve*
+
 **Collocations**
 - jemanden in etwas einbeziehen
 - alle Faktoren einbeziehen

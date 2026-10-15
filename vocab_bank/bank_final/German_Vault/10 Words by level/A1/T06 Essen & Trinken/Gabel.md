@@ -35,6 +35,9 @@ status: "new"
 > Kann ich bitte eine Gabel haben?
 > *Can I have a fork, please?*
 
+**Phrases & Expressions:**
+- **Kann ich bitte eine Gabel haben** — *Can I have a fork, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 11c ÜB (Zeit mit Freunden) · Goethe word list A2
 <!-- bank:end -->
 

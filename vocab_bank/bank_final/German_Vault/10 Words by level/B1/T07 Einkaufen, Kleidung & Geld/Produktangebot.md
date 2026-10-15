@@ -34,6 +34,9 @@ status: "new"
 > Das Produktangebot der Firma ist sehr groß.
 > *The company's product range is very large.*
 
+**Phrases & Expressions:**
+- **Das Produktangebot der Firma ist sehr groß** — *The company's product range is very large* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

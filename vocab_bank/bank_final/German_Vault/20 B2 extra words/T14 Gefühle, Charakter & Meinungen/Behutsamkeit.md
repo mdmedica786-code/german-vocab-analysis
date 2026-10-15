@@ -33,6 +33,11 @@ status: "new"
 > Mit großer Behutsamkeit hob sie das Baby aus dem Bett.
 > *With great gentleness she lifted the baby out of the bed.*
 
+**Phrases & Expressions:**
+- **mit Behutsamkeit** — *gentleness; caution*
+- **Behutsamkeit zeigen** — *gentleness; caution*
+- **große Behutsamkeit** — *gentleness; caution*
+
 **Collocations**
 - mit Behutsamkeit
 - Behutsamkeit zeigen

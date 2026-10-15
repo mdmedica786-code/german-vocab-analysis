@@ -34,6 +34,9 @@ status: "new"
 > Welche Assoziationen haben Sie zu dem Wort „Gesundheit“?
 > *What associations do you have with the word “health”?*
 
+**Phrases & Expressions:**
+- **Welche Assoziationen haben Sie zu dem Wort „Gesundheit“** — *What associations do you have with the word “health”* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 10c (Guten Appetit!)
 <!-- bank:end -->
 

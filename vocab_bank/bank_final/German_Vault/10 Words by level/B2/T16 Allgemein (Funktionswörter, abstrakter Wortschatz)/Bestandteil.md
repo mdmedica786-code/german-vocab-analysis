@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Salz ist ein wichtiger Bestandteil des Rezepts.
 > *Salt is an important component of the recipe.*
+
+**Phrases & Expressions:**
+- **Salz ist ein wichtiger Bestandteil des Rezepts** — *Salt is an important component of the recipe* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

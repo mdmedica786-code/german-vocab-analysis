@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Trinken Sie nach der Tablette einen Schluck Wasser.
 > *Drink a sip of water after the tablet.*
+
+**Phrases & Expressions:**
+- **Trinken Sie nach der Tablette einen Schluck Wasser** — *Drink a sip of water after the tablet* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

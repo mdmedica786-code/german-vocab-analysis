@@ -29,6 +29,11 @@ status: "new"
 > Das Gesetz trägt den neuen Bedürfnissen Rechnung.
 > *The law takes the new needs into account.*
 
+**Phrases & Expressions:**
+- **einer Sache Rechnung tragen** — *to take into account*
+- **den Wünschen Rechnung tragen** — *to take into account*
+- **dem Umstand Rechnung tragen** — *to take into account*
+
 **Collocations**
 - einer Sache Rechnung tragen
 - den Wünschen Rechnung tragen

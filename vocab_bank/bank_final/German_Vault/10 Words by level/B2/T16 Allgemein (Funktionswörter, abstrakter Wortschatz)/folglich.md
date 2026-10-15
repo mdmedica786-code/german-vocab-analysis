@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Es regnet stark, folglich fällt das Fest aus.
 > *It is raining heavily; consequently the party is cancelled.*
+
+**Phrases & Expressions:**
+- **Folglich ist es ratsam, ...** — Consequently, it is advisable to ... *([[B2-08 Zusammenfassen, Fazit und Schlussfolgerung|Schlussfolgerung ziehen]] · B2)*
 <!-- bank:end -->
 
 ## My notes

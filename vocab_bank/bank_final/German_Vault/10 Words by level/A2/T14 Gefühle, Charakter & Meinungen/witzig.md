@@ -31,6 +31,12 @@ status: "new"
 > Warum lachst du? Ich finde das nicht witzig.
 > *Why are you laughing? I don't find that funny.*
 
+**Phrases & Expressions:**
+- **witzig sein** — *funny*
+- **eine witzige Geschichte** — *funny*
+- **witzig finden** — *funny*
+- **sehr witzig** — *funny*
+
 **Collocations**
 - witzig sein
 - eine witzige Geschichte

@@ -35,6 +35,9 @@ status: "new"
 > Trinken Sie den Tee mit oder ohne Zucker?
 > *Do you take your tea with or without sugar?*
 
+**Phrases & Expressions:**
+- **Trinken Sie den Tee mit oder ohne Zucker** — *Do you take your tea with or without sugar* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 2a (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

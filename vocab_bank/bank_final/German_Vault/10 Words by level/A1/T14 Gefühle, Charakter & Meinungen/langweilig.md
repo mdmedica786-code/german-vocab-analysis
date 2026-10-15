@@ -31,6 +31,9 @@ status: "new"
 > Mir ist langweilig.
 > *I'm bored.*
 
+**Phrases & Expressions:**
+- **Mir ist langweilig** — *I'm bored* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 9c (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->
 

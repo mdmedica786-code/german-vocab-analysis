@@ -26,6 +26,10 @@ status: "new"
 > Man sollte diesem Aspekt mehr Beachtung schenken.
 > *One should pay more attention to this aspect.*
 
+**Phrases & Expressions:**
+- **wenig Beachtung schenken** — *to pay attention*
+- **Aufmerksamkeit schenken** — *to pay attention*
+
 **Collocations**
 - wenig Beachtung schenken
 - Aufmerksamkeit schenken

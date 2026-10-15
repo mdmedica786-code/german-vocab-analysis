@@ -35,6 +35,9 @@ status: "new"
 > Der Zins für den Kredit ist niedrig.
 > *The interest rate for the loan is low.*
 
+**Phrases & Expressions:**
+- **Der Zins für den Kredit ist niedrig** — *The interest rate for the loan is low* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3a (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

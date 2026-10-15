@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Vor Kälte zittern seine Hände.
 > *His hands tremble from the cold.*
+
+**Phrases & Expressions:**
+- **Vor Kälte zittern seine Hände** — *His hands tremble from the cold* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

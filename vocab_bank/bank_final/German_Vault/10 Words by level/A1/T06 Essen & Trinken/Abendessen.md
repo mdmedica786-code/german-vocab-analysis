@@ -34,6 +34,9 @@ status: "new"
 > Zum Abendessen gibt es Suppe.
 > *For dinner there is soup.*
 
+**Phrases & Expressions:**
+- **Zum Abendessen gibt es Suppe** — *For dinner there is soup* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 2a (Guten Appetit!)
 <!-- bank:end -->
 

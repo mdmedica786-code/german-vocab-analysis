@@ -31,6 +31,9 @@ status: "new"
 > Mein Opa hat eine konservative Meinung.
 > *My grandfather has a conservative opinion.*
 
+**Phrases & Expressions:**
+- **Als Alternative käme auch eine konservative Behandlung infrage.** — Conservative treatment would also come into question as an alternative. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Alternativen nennen]] · B2)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

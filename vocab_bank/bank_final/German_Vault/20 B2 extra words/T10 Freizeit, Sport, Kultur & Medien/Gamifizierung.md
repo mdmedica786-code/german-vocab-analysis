@@ -30,6 +30,11 @@ status: "new"
 > Die Gamifizierung der Arbeit soll die Mitarbeiter motivieren.
 > *The gamification of work is meant to motivate the employees.*
 
+**Phrases & Expressions:**
+- **die Gamifizierung des Lernens** — *gamification (turning something into a game)*
+- **die Gamifizierung der Arbeit** — *gamification (turning something into a game)*
+- **durch Gamifizierung** — *gamification (turning something into a game)*
+
 **Collocations**
 - die Gamifizierung des Lernens
 - die Gamifizierung der Arbeit

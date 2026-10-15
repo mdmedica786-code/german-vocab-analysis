@@ -29,6 +29,10 @@ status: "new"
 > Als ich die Nachricht hörte, bin ich aus allen Wolken gefallen.
 > *When I heard the news I was flabbergasted.*
 
+**Phrases & Expressions:**
+- **wie aus allen Wolken gefallen** — *to be flabbergasted*
+- **überrascht sein** — *to be flabbergasted*
+
 **Collocations**
 - wie aus allen Wolken gefallen
 - überrascht sein

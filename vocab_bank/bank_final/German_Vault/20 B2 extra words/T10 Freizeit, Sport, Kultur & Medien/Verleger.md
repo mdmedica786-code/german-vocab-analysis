@@ -33,6 +33,11 @@ status: "new"
 > Der Verleger plant eine neue Zeitschrift.
 > *The publisher is planning a new magazine.*
 
+**Phrases & Expressions:**
+- **der Verleger der Zeitung** — *publisher*
+- **Verleger und Autor** — *publisher*
+- **als Verleger tätig sein** — *publisher*
+
 **Collocations**
 - der Verleger der Zeitung
 - Verleger und Autor

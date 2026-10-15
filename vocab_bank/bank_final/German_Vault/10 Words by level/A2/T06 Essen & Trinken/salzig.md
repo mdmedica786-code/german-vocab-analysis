@@ -31,6 +31,9 @@ status: "new"
 > Dieses Essen ist zu salzig für mich.
 > *This food is too salty for me.*
 
+**Phrases & Expressions:**
+- **Dieses Essen ist zu salzig für mich** — *This food is too salty for me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 10 ÜB (Und was machst du?) · Goethe word list B1
 <!-- bank:end -->
 

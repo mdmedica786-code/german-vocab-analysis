@@ -34,6 +34,9 @@ status: "new"
 > Die Globalisierung verändert die Wirtschaft.
 > *Globalisation changes the economy.*
 
+**Phrases & Expressions:**
+- **Die Globalisierung verändert die Wirtschaft** — *Globalisation changes the economy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 6a (Geld regiert die Welt?)
 <!-- bank:end -->
 

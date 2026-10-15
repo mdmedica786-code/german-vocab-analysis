@@ -33,6 +33,11 @@ status: "new"
 > Für dieses Thema braucht man viel Sensibilität.
 > *For this topic you need a lot of sensitivity.*
 
+**Phrases & Expressions:**
+- **Sensibilität zeigen** — *sensitivity*
+- **mit Sensibilität** — *sensitivity*
+- **mangelnde Sensibilität** — *sensitivity*
+
 **Collocations**
 - Sensibilität zeigen
 - mit Sensibilität

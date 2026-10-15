@@ -33,6 +33,11 @@ status: "new"
 > Für die Tour solltest du feste Wanderschuhe tragen.
 > *For the tour you should wear sturdy hiking boots.*
 
+**Phrases & Expressions:**
+- **feste Wanderschuhe** — *hiking boot*
+- **Wanderschuhe anziehen** — *hiking boot*
+- **ein Paar Wanderschuhe** — *hiking boot*
+
 **Collocations**
 - feste Wanderschuhe
 - Wanderschuhe anziehen

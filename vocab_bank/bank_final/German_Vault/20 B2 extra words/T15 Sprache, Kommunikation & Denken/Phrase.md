@@ -33,6 +33,11 @@ status: "new"
 > Das war nur eine leere Phrase.
 > *That was only an empty phrase.*
 
+**Phrases & Expressions:**
+- **eine leere Phrase** — *phrase; empty phrase*
+- **Phrasen dreschen** — *phrase; empty phrase*
+- **eine feste Phrase** — *phrase; empty phrase*
+
 **Collocations**
 - eine leere Phrase
 - Phrasen dreschen

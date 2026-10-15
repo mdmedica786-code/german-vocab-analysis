@@ -33,6 +33,12 @@ status: "new"
 > Der Brustkorb hebt sich beim Atmen.
 > *The chest rises when breathing.*
 
+**Phrases & Expressions:**
+- **den Brustkorb röntgen** — *chest; thorax*
+- **Schmerzen im Brustkorb** — *chest; thorax*
+- **den Brustkorb abtasten** — *chest; thorax*
+- **der Brustkorb schmerzt** — *chest; thorax*
+
 **Collocations**
 - den Brustkorb röntgen
 - Schmerzen im Brustkorb

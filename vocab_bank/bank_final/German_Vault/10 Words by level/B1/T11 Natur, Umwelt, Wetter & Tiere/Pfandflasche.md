@@ -34,6 +34,9 @@ status: "new"
 > Die Pfandflasche bringe ich zum Supermarkt zurück.
 > *I take the deposit bottle back to the supermarket.*
 
+**Phrases & Expressions:**
+- **Die Pfandflasche bringe ich zum Supermarkt zurück** — *I take the deposit bottle back to the supermarket* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 6a (Umweltfreundlich?)
 <!-- bank:end -->
 

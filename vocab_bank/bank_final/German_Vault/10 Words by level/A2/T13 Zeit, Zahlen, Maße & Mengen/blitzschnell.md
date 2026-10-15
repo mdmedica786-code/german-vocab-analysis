@@ -30,6 +30,9 @@ status: "new"
 > Er reagierte blitzschnell.
 > *He reacted lightning-fast.*
 
+**Phrases & Expressions:**
+- **Er reagierte blitzschnell** — *He reacted lightning-fast* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12c (Zusammen leben)
 <!-- bank:end -->
 

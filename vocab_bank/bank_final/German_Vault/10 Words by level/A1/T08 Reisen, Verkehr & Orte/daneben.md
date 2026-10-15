@@ -31,6 +31,9 @@ status: "new"
 > Du kennst doch die Post. Daneben ist die Bank.
 > *You know the post office. The bank is next to it.*
 
+**Phrases & Expressions:**
+- **Du kennst doch die Post. Daneben ist die Bank** — *You know the post office. The bank is next to it* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 3c (Die Jacke gefällt mir!) · Goethe word list A1
 <!-- bank:end -->
 

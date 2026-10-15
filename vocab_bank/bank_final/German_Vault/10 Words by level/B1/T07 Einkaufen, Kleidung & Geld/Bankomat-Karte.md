@@ -35,6 +35,9 @@ status: "new"
 > Sie können auch mit Bankomat-Karte zahlen.
 > *You can also pay with a bank card.*
 
+**Phrases & Expressions:**
+- **Sie können auch mit Bankomat-Karte zahlen** — *You can also pay with a bank card* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

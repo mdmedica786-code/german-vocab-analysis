@@ -29,6 +29,11 @@ status: "new"
 > Bitte senden Sie die Unterlagen vorab per E-Mail.
 > *Please send the documents in advance by email.*
 
+**Phrases & Expressions:**
+- **vorab informieren** — *in advance; beforehand*
+- **vorab klären** — *in advance; beforehand*
+- **vorab senden** — *in advance; beforehand*
+
 **Collocations**
 - vorab informieren
 - vorab klären

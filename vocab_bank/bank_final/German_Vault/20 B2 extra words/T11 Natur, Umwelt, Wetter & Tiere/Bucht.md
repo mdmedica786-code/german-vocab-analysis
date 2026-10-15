@@ -33,6 +33,11 @@ status: "new"
 > Wir haben in einer ruhigen Bucht gebadet.
 > *We swam in a quiet bay.*
 
+**Phrases & Expressions:**
+- **eine ruhige Bucht** — *bay; cove*
+- **in der Bucht ankern** — *bay; cove*
+- **eine einsame Bucht** — *bay; cove*
+
 **Collocations**
 - eine ruhige Bucht
 - in der Bucht ankern

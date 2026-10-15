@@ -34,6 +34,9 @@ status: "new"
 > Meine Bankkarte funktioniert im Ausland nicht.
 > *My bank card doesn't work abroad.*
 
+**Phrases & Expressions:**
+- **Meine Bankkarte funktioniert im Ausland nicht** — *My bank card doesn't work abroad* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 5c (Leben in der Stadt)
 <!-- bank:end -->
 

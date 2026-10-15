@@ -34,6 +34,9 @@ status: "new"
 > Das Surfbrett liegt am Strand.
 > *The surfboard is lying on the beach.*
 
+**Phrases & Expressions:**
+- **Das Surfbrett liegt am Strand** — *The surfboard is lying on the beach* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1a (Sportlich, sportlich)
 <!-- bank:end -->
 

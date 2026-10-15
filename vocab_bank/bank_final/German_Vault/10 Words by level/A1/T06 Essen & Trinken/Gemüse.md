@@ -35,6 +35,9 @@ status: "new"
 > Gemüse brauchen wir auch noch.
 > *We also need vegetables.*
 
+**Phrases & Expressions:**
+- **Gemüse brauchen wir auch noch** — *We also need vegetables* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Wir übernachten auf einem Campingplatz am See.
 > *We are staying overnight at a campsite by the lake.*
 
+**Phrases & Expressions:**
+- **Wir übernachten auf einem Campingplatz am See** — *We are staying overnight at a campsite by the lake* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

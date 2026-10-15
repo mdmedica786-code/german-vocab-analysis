@@ -35,6 +35,10 @@ status: "new"
 > Sie wohnt am Anfang der Straße.
 > *She lives at the beginning of the street.*
 
+**Phrases & Expressions:**
+- **von Anfang an** — from the start *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **am Anfang** — at the beginning *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+
 **Source:** Netzwerk neu A1 K10 13a (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

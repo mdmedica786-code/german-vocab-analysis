@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Hinsichtlich der Kosten gibt es noch Fragen.
 > *With regard to the costs there are still questions.*
+
+**Phrases & Expressions:**
+- **Hinsichtlich der Kosten gibt es noch Fragen** — *With regard to the costs there are still questions* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

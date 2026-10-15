@@ -35,6 +35,9 @@ status: "new"
 > Morgens gibt es hier immer viel Verkehr.
 > *There is always a lot of traffic here in the morning.*
 
+**Phrases & Expressions:**
+- **Morgens gibt es hier immer viel Verkehr** — *There is always a lot of traffic here in the morning* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

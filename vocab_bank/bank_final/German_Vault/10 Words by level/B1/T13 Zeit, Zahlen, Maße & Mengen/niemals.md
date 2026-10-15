@@ -30,6 +30,12 @@ status: "new"
 > Das werde ich niemals vergessen.
 > *I will never forget that.*
 
+**Phrases & Expressions:**
+- **niemals aufgeben** — *never*
+- **niemals vergessen** — *never*
+- **fast niemals** — *never*
+- **jetzt oder niemals** — *never*
+
 **Collocations**
 - niemals aufgeben
 - niemals vergessen

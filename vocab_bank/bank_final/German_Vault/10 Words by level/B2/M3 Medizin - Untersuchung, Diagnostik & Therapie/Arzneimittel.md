@@ -33,6 +33,12 @@ status: "new"
 > Dieses Arzneimittel ist nur auf Rezept erhältlich.
 > *This medicine is only available on prescription.*
 
+**Phrases & Expressions:**
+- **ein Arzneimittel einnehmen** — *medicine; drug*
+- **Arzneimittel verschreiben** — *medicine; drug*
+- **rezeptpflichtiges Arzneimittel** — *medicine; drug*
+- **ein Arzneimittel zulassen** — *medicine; drug*
+
 **Collocations**
 - ein Arzneimittel einnehmen
 - Arzneimittel verschreiben

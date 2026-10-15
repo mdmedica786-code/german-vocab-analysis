@@ -34,6 +34,11 @@ status: "new"
 > Heute läuft es gut. Die Präsentation ist fast fertig.
 > *It's going well today. The presentation is almost finished.*
 
+**Phrases & Expressions:**
+- **im Laufe der Zeit** — over time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B2)*
+- **im Laufe der Jahre** — over the years *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B2)*
+- **Hallo! Na, wie läuft's?** — Hi! So, how's it going? *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Begrüßen (informell)]] · A2)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

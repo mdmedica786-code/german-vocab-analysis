@@ -31,6 +31,9 @@ status: "new"
 > [!example] Beispiel
 > Sie ist auf dem Land aufgewachsen.
 > *She grew up in the countryside.*
+
+**Phrases & Expressions:**
+- **Sie ist auf dem Land aufgewachsen** — *She grew up in the countryside* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

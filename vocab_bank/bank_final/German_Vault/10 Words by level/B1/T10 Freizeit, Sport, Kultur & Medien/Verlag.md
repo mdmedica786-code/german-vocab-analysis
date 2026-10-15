@@ -35,6 +35,9 @@ status: "new"
 > Von welchem Verlag ist dieses Buch?
 > *Which publisher is this book from?*
 
+**Phrases & Expressions:**
+- **Von welchem Verlag ist dieses Buch** — *Which publisher is this book from* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

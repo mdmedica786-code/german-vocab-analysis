@@ -33,6 +33,11 @@ status: "new"
 > Mit einem Lernprogramm übe ich jeden Tag Vokabeln.
 > *I practise vocabulary every day with a learning programme.*
 
+**Phrases & Expressions:**
+- **ein Lernprogramm nutzen** — *learning programme; tutorial software*
+- **ein Lernprogramm installieren** — *learning programme; tutorial software*
+- **ein digitales Lernprogramm** — *learning programme; tutorial software*
+
 **Collocations**
 - ein Lernprogramm nutzen
 - ein Lernprogramm installieren

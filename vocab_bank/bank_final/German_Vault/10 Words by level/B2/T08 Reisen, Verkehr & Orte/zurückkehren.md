@@ -31,6 +31,11 @@ status: "new"
 > [!example] Beispiel
 > Nach dem Urlaub kehrt sie nach Berlin zurück.
 > *After the holiday she returns to Berlin.*
+
+**Phrases & Expressions:**
+- **hin und zurück** — there and back; return *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Bitte rufen Sie mich unter der Nummer ... zurück.** — Please call me back on the number ... *([[B2-07 Telefonieren|Nachricht hinterlassen]] · B1)*
+- **... geht stetig zurück.** — ... is steadily declining. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Rückgang beschreiben]] · B2)*
 <!-- bank:end -->
 
 ## My notes

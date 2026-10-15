@@ -29,6 +29,11 @@ status: "new"
 > Der Text ist in großer Schrift besonders lesefreundlich.
 > *The text is particularly easy to read in large print.*
 
+**Phrases & Expressions:**
+- **lesefreundlich gestaltet** — *easy to read; reader-friendly*
+- **ein lesefreundlicher Text** — *easy to read; reader-friendly*
+- **lesefreundlich schreiben** — *easy to read; reader-friendly*
+
 **Collocations**
 - lesefreundlich gestaltet
 - ein lesefreundlicher Text

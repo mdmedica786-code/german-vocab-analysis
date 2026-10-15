@@ -31,6 +31,12 @@ status: "new"
 > Die Lehrerin versucht, jedes Kind individuell zu fördern.
 > *The teacher tries to support each child individually.*
 
+**Phrases & Expressions:**
+- **individuell betreuen** — *individual*
+- **eine individuelle Lösung** — *individual*
+- **individuell angepasst** — *individual*
+- **individuelle Beratung** — *individual*
+
 **Collocations**
 - individuell betreuen
 - eine individuelle Lösung

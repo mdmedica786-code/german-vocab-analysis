@@ -36,6 +36,9 @@ status: "new"
 > Sie übernimmt das Amt einer Abgeordneten.
 > *She's taking on the office of an MP.*
 
+**Phrases & Expressions:**
+- **Sie übernimmt das Amt einer Abgeordneten** — *She's taking on the office of an MP* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1a (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

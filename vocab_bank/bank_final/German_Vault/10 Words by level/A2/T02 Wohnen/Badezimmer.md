@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Badezimmer ist im ersten Stock.
 > *The bathroom is on the first floor.*
+
+**Phrases & Expressions:**
+- **Das Badezimmer ist im ersten Stock** — *The bathroom is on the first floor* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -34,6 +34,9 @@ status: "new"
 > Die Putzfrau kommt zweimal pro Woche.
 > *The cleaner comes twice a week.*
 
+**Phrases & Expressions:**
+- **Die Putzfrau kommt zweimal pro Woche** — *The cleaner comes twice a week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3a (Kunststücke)
 <!-- bank:end -->
 

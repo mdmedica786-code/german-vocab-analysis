@@ -34,6 +34,9 @@ status: "new"
 > Die Polizei sucht noch Zeugen für den Unfall.
 > *The police are still looking for witnesses to the accident.*
 
+**Phrases & Expressions:**
+- **Die Polizei sucht noch Zeugen für den Unfall** — *The police are still looking for witnesses to the accident* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

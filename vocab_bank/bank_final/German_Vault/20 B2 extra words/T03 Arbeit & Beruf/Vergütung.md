@@ -33,6 +33,12 @@ status: "new"
 > Die Vergütung richtet sich nach dem Tarifvertrag.
 > *The remuneration is based on the collective agreement.*
 
+**Phrases & Expressions:**
+- **Wie sieht die Vergütung aus?** — What does the remuneration look like? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Gehalt ansprechen]] · B2)*
+- **angemessene Vergütung** — *remuneration; compensation*
+- **Vergütung für + Akk.** — *remuneration; compensation*
+- **Vergütung vereinbaren** — *remuneration; compensation*
+
 **Collocations**
 - angemessene Vergütung
 - Vergütung für + Akk.

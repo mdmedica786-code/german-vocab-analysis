@@ -33,6 +33,11 @@ status: "new"
 > Die politische Ausrichtung der Partei hat sich geändert.
 > *The political orientation of the party has changed.*
 
+**Phrases & Expressions:**
+- **politische Ausrichtung** — *orientation; alignment; focus*
+- **die Ausrichtung des Unternehmens** — *orientation; alignment; focus*
+- **die Ausrichtung nach Süden** — *orientation; alignment; focus*
+
 **Collocations**
 - politische Ausrichtung
 - die Ausrichtung des Unternehmens

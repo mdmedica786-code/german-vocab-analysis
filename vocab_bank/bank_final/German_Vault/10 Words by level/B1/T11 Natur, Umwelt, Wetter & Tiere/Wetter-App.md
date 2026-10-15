@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Die Wetter-App zeigt Regen an.
 > *The weather app shows rain.*
+
+**Phrases & Expressions:**
+- **Die Wetter-App zeigt Regen an** — *The weather app shows rain* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

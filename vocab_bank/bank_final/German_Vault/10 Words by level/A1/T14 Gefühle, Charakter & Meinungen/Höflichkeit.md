@@ -34,6 +34,9 @@ status: "new"
 > Höflichkeit ist im Beruf sehr wichtig.
 > *Politeness is very important at work.*
 
+**Phrases & Expressions:**
+- **Höflichkeit ist im Beruf sehr wichtig** — *Politeness is very important at work* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 14 (Alltag und Familie)
 <!-- bank:end -->
 

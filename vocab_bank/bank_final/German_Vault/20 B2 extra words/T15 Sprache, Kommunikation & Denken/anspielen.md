@@ -32,6 +32,11 @@ status: "new"
 > Er hat auf unser Gespräch von gestern angespielt.
 > *He alluded to our conversation of yesterday.*
 
+**Phrases & Expressions:**
+- **auf etwas anspielen** — *to allude (to); to hint at*
+- **auf jemanden anspielen** — *to allude (to); to hint at*
+- **deutlich anspielen** — *to allude (to); to hint at*
+
 **Collocations**
 - auf etwas anspielen
 - auf jemanden anspielen

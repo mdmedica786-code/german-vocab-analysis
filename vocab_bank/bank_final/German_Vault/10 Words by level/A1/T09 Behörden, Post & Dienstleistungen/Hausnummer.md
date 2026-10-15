@@ -34,6 +34,9 @@ status: "new"
 > Welche Hausnummer hat die Praxis?
 > *What is the house number of the practice?*
 
+**Phrases & Expressions:**
+- **Welche Hausnummer hat die Praxis** — *What is the house number of the practice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

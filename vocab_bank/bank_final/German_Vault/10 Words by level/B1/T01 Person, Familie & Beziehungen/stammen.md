@@ -34,6 +34,9 @@ status: "new"
 > Ich stamme aus einer kleinen Stadt an der Donau.
 > *I come from a small town on the Danube.*
 
+**Phrases & Expressions:**
+- **Die Zahlen stammen aus einer Studie der Universität ...** — The figures come from a study by the University of ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Quellen nennen]] · B2)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

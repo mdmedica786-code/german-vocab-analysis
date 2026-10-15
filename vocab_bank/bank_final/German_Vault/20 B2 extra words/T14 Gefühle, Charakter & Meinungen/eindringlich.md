@@ -29,6 +29,11 @@ status: "new"
 > Der Arzt warnte sie eindringlich vor den Folgen.
 > *The doctor warned her urgently about the consequences.*
 
+**Phrases & Expressions:**
+- **eindringlich warnen** — *urgent; insistent; forceful*
+- **eindringlich bitten** — *urgent; insistent; forceful*
+- **ein eindringlicher Appell** — *urgent; insistent; forceful*
+
 **Collocations**
 - eindringlich warnen
 - eindringlich bitten

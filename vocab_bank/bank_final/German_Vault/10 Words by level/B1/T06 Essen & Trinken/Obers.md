@@ -42,6 +42,9 @@ status: "new"
 > Ich hätte gern ein Stück Torte mit (Schlag-)Obers.
 > *I would like a piece of cake with (whipped) cream.*
 
+**Phrases & Expressions:**
+- **Ich hätte gern ein Stück Torte mit (Schlag-)Obers** — *I would like a piece of cake with (whipped) cream* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

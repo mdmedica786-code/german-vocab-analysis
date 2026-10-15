@@ -33,6 +33,11 @@ status: "new"
 > Nach langen Gesprächen kam es zu einer Einigung.
 > *After long talks an agreement was reached.*
 
+**Phrases & Expressions:**
+- **eine Einigung erzielen** — *agreement; settlement*
+- **zu einer Einigung kommen** — *agreement; settlement*
+- **eine Einigung über** — *agreement; settlement*
+
 **Collocations**
 - eine Einigung erzielen
 - zu einer Einigung kommen

@@ -33,6 +33,11 @@ status: "new"
 > Die Beantwortung der Fragen dauert lange.
 > *Answering the questions takes a long time.*
 
+**Phrases & Expressions:**
+- **die Beantwortung einer Frage** — *answering; reply*
+- **die Beantwortung der Anfrage** — *answering; reply*
+- **zur Beantwortung** — *answering; reply*
+
 **Collocations**
 - die Beantwortung einer Frage
 - die Beantwortung der Anfrage

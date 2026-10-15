@@ -34,6 +34,9 @@ status: "new"
 > Die Statistin trägt ein Kostüm.
 > *The extra is wearing a costume.*
 
+**Phrases & Expressions:**
+- **Die Statistin trägt ein Kostüm** — *The extra is wearing a costume* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 13d (Studium und Beruf)
 <!-- bank:end -->
 

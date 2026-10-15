@@ -35,6 +35,13 @@ status: "new"
 > Das Wort „Maus“ hat inzwischen zwei Bedeutungen.
 > *The word “Maus” now has two meanings.*
 
+**Phrases & Expressions:**
+- **von Bedeutung** — of importance *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+- **von großer Bedeutung** — of great importance *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+- **die Bedeutung eines Wortes** — *meaning*
+- **an Bedeutung gewinnen** — *meaning*
+- **keine Bedeutung haben** — *meaning*
+
 **Collocations**
 - die Bedeutung eines Wortes
 - von großer Bedeutung

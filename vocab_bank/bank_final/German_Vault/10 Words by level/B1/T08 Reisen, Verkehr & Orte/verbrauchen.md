@@ -33,6 +33,9 @@ status: "new"
 > Wie viel Benzin verbraucht dein Auto?
 > *How much petrol does your car use?*
 
+**Phrases & Expressions:**
+- **Wie viel Benzin verbraucht dein Auto** — *How much petrol does your car use* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 1a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

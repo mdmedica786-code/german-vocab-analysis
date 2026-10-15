@@ -31,6 +31,14 @@ status: "new"
 > Hast du auch andere Farben?
 > *Do you also have other colours?*
 
+**Phrases & Expressions:**
+- **auf der anderen Seite** — on the other hand *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B1)*
+- **zum anderen ...** — on the other hand ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **unter anderem** — among other things *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B1)*
+- **mit anderen Worten** — in other words *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **alle anderen** — all the others *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+- **von einem ... auf den anderen** — from one ... to the next *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 1c (Guten Tag!)
 <!-- bank:end -->
 

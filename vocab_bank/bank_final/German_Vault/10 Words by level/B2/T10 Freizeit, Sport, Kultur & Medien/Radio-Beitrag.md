@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Ich habe einen Radio-Beitrag über Gesundheit gehört.
 > *I heard a radio report about health.*
+
+**Phrases & Expressions:**
+- **Ich habe einen Radio-Beitrag über Gesundheit gehört** — *I heard a radio report about health* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

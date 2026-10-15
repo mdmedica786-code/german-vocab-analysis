@@ -30,6 +30,11 @@ status: "new"
 > Beim Bewerbungsverfahren machten wir einen Persönlichkeitstest.
 > *During the application process we did a personality test.*
 
+**Phrases & Expressions:**
+- **einen Persönlichkeitstest machen** — *personality test*
+- **ein Persönlichkeitstest im Internet** — *personality test*
+- **den Persönlichkeitstest auswerten** — *personality test*
+
 **Collocations**
 - einen Persönlichkeitstest machen
 - ein Persönlichkeitstest im Internet

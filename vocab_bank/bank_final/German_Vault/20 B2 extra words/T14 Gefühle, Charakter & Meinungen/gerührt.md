@@ -29,6 +29,11 @@ status: "new"
 > Sie war von seinem Geschenk zu Tränen gerührt.
 > *She was moved to tears by his present.*
 
+**Phrases & Expressions:**
+- **gerührt sein** — *moved; touched*
+- **zu Tränen gerührt** — *moved; touched*
+- **gerührt lächeln** — *moved; touched*
+
 **Collocations**
 - gerührt sein
 - zu Tränen gerührt

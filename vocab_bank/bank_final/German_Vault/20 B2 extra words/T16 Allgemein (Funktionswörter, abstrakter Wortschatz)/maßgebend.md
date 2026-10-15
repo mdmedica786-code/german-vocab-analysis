@@ -29,6 +29,11 @@ status: "new"
 > Die Meinung des Gutachters ist für die Entscheidung maßgebend.
 > *The expert's opinion is decisive for the decision.*
 
+**Phrases & Expressions:**
+- **maßgebend sein** — *authoritative; decisive; relevant*
+- **eine maßgebende Rolle** — *authoritative; decisive; relevant*
+- **maßgebend beteiligt** — *authoritative; decisive; relevant*
+
 **Collocations**
 - maßgebend sein
 - eine maßgebende Rolle

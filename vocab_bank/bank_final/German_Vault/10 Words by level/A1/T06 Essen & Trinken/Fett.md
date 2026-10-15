@@ -35,6 +35,9 @@ status: "new"
 > Man soll nicht so viel Fett essen.
 > *You shouldn't eat so much fat.*
 
+**Phrases & Expressions:**
+- **Versuchen Sie, weniger Salz und Fett zu essen.** — Try to eat less salt and fat. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Ernährung beraten]] · A2)*
+
 **Source:** Netzwerk neu A1 K4 6d ÜB (Guten Appetit!) · Goethe word list B1
 <!-- bank:end -->
 

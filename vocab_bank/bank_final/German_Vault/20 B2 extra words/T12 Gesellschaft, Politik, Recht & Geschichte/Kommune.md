@@ -33,6 +33,11 @@ status: "new"
 > Die Kommune baut eine neue Schule.
 > *The municipality is building a new school.*
 
+**Phrases & Expressions:**
+- **die Kommunen und Länder** — *municipality; commune*
+- **eine kleine Kommune** — *municipality; commune*
+- **in einer Kommune leben** — *municipality; commune*
+
 **Collocations**
 - die Kommunen und Länder
 - eine kleine Kommune

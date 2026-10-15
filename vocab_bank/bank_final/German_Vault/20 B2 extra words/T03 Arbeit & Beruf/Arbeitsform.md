@@ -33,6 +33,11 @@ status: "new"
 > Wir testen neue Arbeitsformen im Homeoffice.
 > *We are testing new forms of work in the home office.*
 
+**Phrases & Expressions:**
+- **flexible Arbeitsformen** — *form of work; working method*
+- **neue Arbeitsformen ausprobieren** — *form of work; working method*
+- **eine Arbeitsform wählen** — *form of work; working method*
+
 **Collocations**
 - flexible Arbeitsformen
 - neue Arbeitsformen ausprobieren

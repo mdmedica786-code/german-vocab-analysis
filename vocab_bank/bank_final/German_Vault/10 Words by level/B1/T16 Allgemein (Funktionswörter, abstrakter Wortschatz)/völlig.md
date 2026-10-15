@@ -31,6 +31,14 @@ status: "new"
 > Das halte ich für völlig ausgeschlossen.
 > *I consider that completely out of the question.*
 
+**Phrases & Expressions:**
+- **Da stimme ich dir völlig zu.** — I completely agree with you. *([[B1-02 Zustimmen und Widersprechen|Voll zustimmen]] · B1)*
+- **Es ist völlig verständlich, dass Sie jetzt Angst haben.** — It is completely understandable that you are afraid now. *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Gefühle ansprechen]] · B2)*
+- **völlig anders** — *completely*
+- **völlig falsch** — *completely*
+- **völlig ausgeschlossen** — *completely*
+- **völlig durcheinander** — *completely*
+
 **Collocations**
 - völlig anders
 - völlig falsch

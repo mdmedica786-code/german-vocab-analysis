@@ -33,6 +33,11 @@ status: "new"
 > Die Optimierung der Abläufe spart viel Zeit.
 > *The optimisation of the processes saves a lot of time.*
 
+**Phrases & Expressions:**
+- **zur Optimierung** — *optimisation*
+- **die Optimierung von Prozessen** — *optimisation*
+- **die Optimierung der Kosten** — *optimisation*
+
 **Collocations**
 - zur Optimierung
 - die Optimierung von Prozessen

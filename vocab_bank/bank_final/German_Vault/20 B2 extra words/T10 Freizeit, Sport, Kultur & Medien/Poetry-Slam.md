@@ -33,6 +33,11 @@ status: "new"
 > Am Freitag gehen wir zu einem Poetry-Slam.
 > *On Friday we are going to a poetry slam.*
 
+**Phrases & Expressions:**
+- **an einem Poetry-Slam teilnehmen** — *poetry slam*
+- **einen Poetry-Slam gewinnen** — *poetry slam*
+- **ein Poetry-Slam in der Stadt** — *poetry slam*
+
 **Collocations**
 - an einem Poetry-Slam teilnehmen
 - einen Poetry-Slam gewinnen

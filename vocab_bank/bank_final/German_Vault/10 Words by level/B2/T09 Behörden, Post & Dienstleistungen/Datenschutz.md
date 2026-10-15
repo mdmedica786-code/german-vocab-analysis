@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Datenschutz ist im Krankenhaus besonders wichtig.
 > *Data protection is particularly important in hospitals.*
+
+**Phrases & Expressions:**
+- **Der Datenschutz ist im Krankenhaus besonders wichtig** — *Data protection is particularly important in hospitals* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

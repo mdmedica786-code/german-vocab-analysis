@@ -32,6 +32,9 @@ status: "new"
 > Hier darf man nicht rauchen.
 > **
 
+**Phrases & Expressions:**
+- **Hier darf man nicht rauchen** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 7b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

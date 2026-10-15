@@ -30,6 +30,9 @@ status: "new"
 > Der Weltraum scheint unendlich zu sein.
 > *Space seems to be infinite.*
 
+**Phrases & Expressions:**
+- **Der Weltraum scheint unendlich zu sein** — *Space seems to be infinite* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!)
 <!-- bank:end -->
 

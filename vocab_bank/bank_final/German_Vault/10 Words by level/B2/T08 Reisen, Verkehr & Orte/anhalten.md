@@ -31,6 +31,9 @@ status: "new"
 > [!example] Beispiel
 > Der Bus hält an der Ecke an.
 > *The bus stops at the corner.*
+
+**Phrases & Expressions:**
+- **Wie lange hält der Schmerz an?** — How long does the pain last? *([[FSP-03 Schmerzanamnese|Dauer und Rhythmus]] · A2)*
 <!-- bank:end -->
 
 ## My notes

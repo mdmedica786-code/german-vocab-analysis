@@ -32,6 +32,11 @@ status: "new"
 > Sie schwärmt von ihrem Urlaub in Italien.
 > *She raves about her holiday in Italy.*
 
+**Phrases & Expressions:**
+- **von etwas schwärmen** — *to rave (about); to swarm*
+- **für jemanden schwärmen** — *to rave (about); to swarm*
+- **ins Schwärmen geraten** — *to rave (about); to swarm*
+
 **Collocations**
 - von etwas schwärmen
 - für jemanden schwärmen

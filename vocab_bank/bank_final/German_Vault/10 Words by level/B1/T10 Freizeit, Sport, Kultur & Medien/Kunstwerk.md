@@ -34,6 +34,9 @@ status: "new"
 > Dieses Kunstwerk ist sehr berühmt.
 > *This artwork is very famous.*
 
+**Phrases & Expressions:**
+- **Dieses Kunstwerk ist sehr berühmt** — *This artwork is very famous* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 1b (Kunststücke)
 <!-- bank:end -->
 

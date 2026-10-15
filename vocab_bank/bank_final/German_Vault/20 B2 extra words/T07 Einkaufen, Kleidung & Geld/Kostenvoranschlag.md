@@ -33,6 +33,11 @@ status: "new"
 > Bitte schicken Sie uns einen Kostenvoranschlag für die Reparatur.
 > *Please send us a cost estimate for the repair.*
 
+**Phrases & Expressions:**
+- **einen Kostenvoranschlag einholen** — *cost estimate*
+- **Kostenvoranschlag erstellen** — *cost estimate*
+- **verbindlicher Kostenvoranschlag** — *cost estimate*
+
 **Collocations**
 - einen Kostenvoranschlag einholen
 - Kostenvoranschlag erstellen

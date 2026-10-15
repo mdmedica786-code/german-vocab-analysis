@@ -31,6 +31,11 @@ status: "new"
 > Der Angeklagte leugnete die Tat.
 > *The defendant denied the deed.*
 
+**Phrases & Expressions:**
+- **eine Tat leugnen** — *to deny; to disavow*
+- **etwas hartnäckig leugnen** — *to deny; to disavow*
+- **es lässt sich nicht leugnen** — *to deny; to disavow*
+
 **Collocations**
 - eine Tat leugnen
 - etwas hartnäckig leugnen

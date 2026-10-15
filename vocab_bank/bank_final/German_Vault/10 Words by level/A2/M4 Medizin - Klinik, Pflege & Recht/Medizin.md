@@ -36,6 +36,12 @@ status: "new"
 > Du musst noch deine Medizin nehmen.
 > *You still have to take your medicine.*
 
+**Phrases & Expressions:**
+- **Medizin studieren** — *medicine (drug); medicine (subject)*
+- **Medizin einnehmen** — *medicine (drug); medicine (subject)*
+- **alternative Medizin** — *medicine (drug); medicine (subject)*
+- **moderne Medizin** — *medicine (drug); medicine (subject)*
+
 **Collocations**
 - Medizin studieren
 - Medizin einnehmen

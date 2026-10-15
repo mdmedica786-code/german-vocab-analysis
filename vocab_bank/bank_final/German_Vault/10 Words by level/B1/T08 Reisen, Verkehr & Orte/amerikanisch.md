@@ -30,6 +30,12 @@ status: "new"
 > Sie mag amerikanische Filme.
 > *She likes American films.*
 
+**Phrases & Expressions:**
+- **amerikanische Filme** — *American*
+- **der amerikanische Präsident** — *American*
+- **amerikanischer Akzent** — *American*
+- **amerikanisch essen** — *American*
+
 **Collocations**
 - amerikanische Filme
 - der amerikanische Präsident

@@ -33,6 +33,11 @@ status: "new"
 > Die Krebsforschung hat in den letzten Jahren große Fortschritte gemacht.
 > *Cancer research has made great progress in recent years.*
 
+**Phrases & Expressions:**
+- **in der Krebsforschung** — *cancer research*
+- **die Krebsforschung fördern** — *cancer research*
+- **Fortschritte in der Krebsforschung** — *cancer research*
+
 **Collocations**
 - in der Krebsforschung
 - die Krebsforschung fördern

@@ -33,6 +33,11 @@ status: "new"
 > Der Kaufvertrag muss vom Notar beurkundet werden.
 > *The purchase contract must be certified by the notary.*
 
+**Phrases & Expressions:**
+- **zum Notar gehen** — *notary*
+- **vom Notar beurkunden lassen** — *notary*
+- **einen Notartermin vereinbaren** — *notary*
+
 **Collocations**
 - zum Notar gehen
 - vom Notar beurkunden lassen

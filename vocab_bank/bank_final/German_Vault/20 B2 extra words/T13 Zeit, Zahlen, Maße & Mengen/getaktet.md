@@ -29,6 +29,11 @@ status: "new"
 > Der Arbeitstag ist eng getaktet.
 > *The working day is tightly scheduled.*
 
+**Phrases & Expressions:**
+- **eng getaktet** — *timed; scheduled in fixed intervals*
+- **getaktet sein** — *timed; scheduled in fixed intervals*
+- **ein getakteter Fahrplan** — *timed; scheduled in fixed intervals*
+
 **Collocations**
 - eng getaktet
 - getaktet sein

@@ -34,6 +34,13 @@ status: "new"
 > Die Blutprobe wird im Labor untersucht.
 > *The blood sample is analysed in the laboratory.*
 
+**Phrases & Expressions:**
+- **Geplant sind eine Verlaufskontrolle des Labors und ein Kontroll-Röntgen.** — A follow-up of the laboratory values and a repeat X-ray are planned. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Weiteres Vorgehen]] · C1)*
+- **ins Labor schicken** — *laboratory*
+- **im Labor untersuchen** — *laboratory*
+- **Laborwerte** — *laboratory*
+- **Blut ins Labor geben** — *laboratory*
+
 **Collocations**
 - ins Labor schicken
 - im Labor untersuchen

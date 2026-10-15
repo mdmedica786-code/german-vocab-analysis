@@ -33,6 +33,11 @@ status: "new"
 > Die Lampe flackert, wahrscheinlich ist es ein Wackelkontakt.
 > *The lamp flickers; it's probably a loose connection.*
 
+**Phrases & Expressions:**
+- **einen Wackelkontakt haben** — *loose connection*
+- **ein Wackelkontakt im Kabel** — *loose connection*
+- **wegen eines Wackelkontakts** — *loose connection*
+
 **Collocations**
 - einen Wackelkontakt haben
 - ein Wackelkontakt im Kabel

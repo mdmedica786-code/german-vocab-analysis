@@ -33,6 +33,14 @@ status: "new"
 > Woher kommst du?
 > *Where are you from?*
 
+**Phrases & Expressions:**
+- **kommen Sie ...** — come ... *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **kommst du ...?** — are you coming ...? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **kommt es zu ...** — it leads to ...; there is ... *([[Folgen (consequence)|Folgen (consequence)]] · C1)*
+- **nicht in Frage kommen** — to be out of the question *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B2)*
+- **hinzu kommt, dass ...** — in addition, ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **zu dem Schluss kommen, dass ...** — to come to the conclusion that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+
 **Source:** Netzwerk neu A1 K1 3b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

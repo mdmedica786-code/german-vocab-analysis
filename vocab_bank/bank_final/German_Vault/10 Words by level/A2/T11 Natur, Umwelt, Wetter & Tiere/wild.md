@@ -31,6 +31,12 @@ status: "new"
 > Das ist ein wilder Fluss.
 > *That is a wild river.*
 
+**Phrases & Expressions:**
+- **wilde Tiere** — *wild*
+- **ein wilder Fluss** — *wild*
+- **wild wachsen** — *wild*
+- **wild campen** — *wild*
+
 **Collocations**
 - wilde Tiere
 - ein wilder Fluss

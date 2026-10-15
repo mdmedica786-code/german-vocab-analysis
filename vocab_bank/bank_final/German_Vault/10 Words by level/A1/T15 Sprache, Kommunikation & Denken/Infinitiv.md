@@ -34,6 +34,9 @@ status: "new"
 > „Gehen“ ist der Infinitiv von „ich gehe“.
 > *“Gehen” is the infinitive of “ich gehe”.*
 
+**Phrases & Expressions:**
+- **„Gehen“ ist der Infinitiv von „ich gehe“** — *“Gehen” is the infinitive of “ich gehe”* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3c (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Wärme ist gut gegen meine Schmerzen.
 > *Heat is good for my pain.*
 
+**Phrases & Expressions:**
+- **Wärme tut mir gut, im Liegen wird es besser.** — Warmth does me good; it gets better when lying down. *([[FSP-03 Schmerzanamnese|Patient: Linderung nennen]] · B1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Nach Beendigung des Vertrags endet der Anspruch.
 > *After the termination of the contract the entitlement ends.*
 
+**Phrases & Expressions:**
+- **nach Beendigung** — *termination; ending*
+- **zur Beendigung** — *termination; ending*
+- **die Beendigung des Arbeitsverhältnisses** — *termination; ending*
+
 **Collocations**
 - nach Beendigung
 - zur Beendigung

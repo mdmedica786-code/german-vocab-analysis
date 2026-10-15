@@ -31,6 +31,9 @@ status: "new"
 > Mein Großvater ist achtzig Jahre alt.
 > *My grandfather is eighty years old.*
 
+**Phrases & Expressions:**
+- **Mein Großvater ist achtzig Jahre alt** — *My grandfather is eighty years old* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

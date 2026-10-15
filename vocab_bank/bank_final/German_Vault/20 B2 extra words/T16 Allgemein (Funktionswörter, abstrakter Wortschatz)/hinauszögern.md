@@ -32,6 +32,13 @@ status: "new"
 > Die Behörde zögert die Entscheidung immer weiter hinaus.
 > *The authority keeps putting off the decision.*
 
+**Phrases & Expressions:**
+- **darüber hinaus** — in addition; moreover *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **Darüber hinaus ist ... wichtig.** — Moreover, ... is important. *([[B1-03 Argumentieren, begründen und Beispiele nennen|Argumente aufzählen]] · B1)*
+- **eine Entscheidung hinauszögern** — *to delay; to put off*
+- **den Abschied hinauszögern** — *to delay; to put off*
+- **etwas weiter hinauszögern** — *to delay; to put off*
+
 **Collocations**
 - eine Entscheidung hinauszögern
 - den Abschied hinauszögern

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Eine Partnerschaft braucht Vertrauen.
 > *A partnership needs trust.*
+
+**Phrases & Expressions:**
+- **Eine Partnerschaft braucht Vertrauen** — *A partnership needs trust* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

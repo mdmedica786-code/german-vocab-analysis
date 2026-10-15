@@ -29,6 +29,10 @@ status: "new"
 > Der Handwerker stellt uns die Arbeitszeit in Rechnung.
 > *The tradesman bills us for the working time.*
 
+**Phrases & Expressions:**
+- **jemandem etwas in Rechnung stellen** — *to charge; to bill*
+- **Kosten in Rechnung stellen** — *to charge; to bill*
+
 **Collocations**
 - jemandem etwas in Rechnung stellen
 - Kosten in Rechnung stellen

@@ -34,6 +34,9 @@ status: "new"
 > Der Diebstahl wurde der Polizei gemeldet.
 > *The theft was reported to the police.*
 
+**Phrases & Expressions:**
+- **Der Diebstahl wurde der Polizei gemeldet** — *The theft was reported to the police* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt)
 <!-- bank:end -->
 

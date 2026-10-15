@@ -33,6 +33,11 @@ status: "new"
 > Der Anwalt berät seine Klienten am Telefon.
 > *The lawyer advises his clients on the telephone.*
 
+**Phrases & Expressions:**
+- **Klienten betreuen** — *client (of a lawyer, counsellor)*
+- **Klienten beraten** — *client (of a lawyer, counsellor)*
+- **neue Klienten gewinnen** — *client (of a lawyer, counsellor)*
+
 **Collocations**
 - Klienten betreuen
 - Klienten beraten

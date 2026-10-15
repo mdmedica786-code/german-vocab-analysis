@@ -34,6 +34,9 @@ status: "new"
 > Es gibt eine Programmänderung.
 > *There is a change to the programme.*
 
+**Phrases & Expressions:**
+- **Es gibt eine Programmänderung** — *There is a change to the programme* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

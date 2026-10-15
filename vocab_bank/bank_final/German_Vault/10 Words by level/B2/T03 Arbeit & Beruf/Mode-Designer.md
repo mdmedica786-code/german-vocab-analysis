@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Der Mode-Designer zeigt seine neue Kollektion.
 > *The fashion designer shows his new collection.*
+
+**Phrases & Expressions:**
+- **Der Mode-Designer zeigt seine neue Kollektion** — *The fashion designer shows his new collection* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

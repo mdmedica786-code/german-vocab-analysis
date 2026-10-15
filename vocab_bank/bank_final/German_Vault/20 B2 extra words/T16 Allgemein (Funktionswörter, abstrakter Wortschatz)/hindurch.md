@@ -29,6 +29,11 @@ status: "new"
 > Es regnete den ganzen Tag hindurch.
 > *It rained throughout the whole day.*
 
+**Phrases & Expressions:**
+- **den ganzen Tag hindurch** — *through; throughout*
+- **die ganze Nacht hindurch** — *through; throughout*
+- **durch etwas hindurch** — *through; throughout*
+
 **Collocations**
 - den ganzen Tag hindurch
 - die ganze Nacht hindurch

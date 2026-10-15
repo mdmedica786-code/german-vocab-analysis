@@ -35,6 +35,9 @@ status: "new"
 > Am ersten Mai ist Feiertag.
 > *The first of May is a public holiday.*
 
+**Phrases & Expressions:**
+- **Am ersten Mai ist Feiertag** — *The first of May is a public holiday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

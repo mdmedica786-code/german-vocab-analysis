@@ -35,6 +35,9 @@ status: "new"
 > Hast du ein Bild von deinem Sohn?
 > *Do you have a picture of your son?*
 
+**Phrases & Expressions:**
+- **Hast du ein Bild von deinem Sohn** — *Do you have a picture of your son* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 6b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

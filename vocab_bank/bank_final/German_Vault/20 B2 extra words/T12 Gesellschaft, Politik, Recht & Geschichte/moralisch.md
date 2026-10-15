@@ -29,6 +29,11 @@ status: "new"
 > Das Verhalten ist moralisch nicht akzeptabel.
 > *The behaviour is morally not acceptable.*
 
+**Phrases & Expressions:**
+- **eine moralische Verpflichtung** — *moral*
+- **moralisch verwerflich** — *moral*
+- **moralisch richtig handeln** — *moral*
+
 **Collocations**
 - eine moralische Verpflichtung
 - moralisch verwerflich

@@ -35,6 +35,9 @@ status: "new"
 > Bitte nicht mit dem Fahrer sprechen!
 > *Please do not talk to the driver!*
 
+**Phrases & Expressions:**
+- **Bitte nicht mit dem Fahrer sprechen** — *Please do not talk to the driver* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt) · Goethe word list A1
 <!-- bank:end -->
 

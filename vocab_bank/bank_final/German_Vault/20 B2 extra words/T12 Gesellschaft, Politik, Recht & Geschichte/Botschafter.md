@@ -33,6 +33,11 @@ status: "new"
 > Der Botschafter wurde zum Gespräch eingeladen.
 > *The ambassador was invited for a talk.*
 
+**Phrases & Expressions:**
+- **der deutsche Botschafter** — *ambassador*
+- **einen Botschafter ernennen** — *ambassador*
+- **ein Botschafter der Freundschaft** — *ambassador*
+
 **Collocations**
 - der deutsche Botschafter
 - einen Botschafter ernennen

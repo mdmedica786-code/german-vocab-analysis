@@ -32,6 +32,10 @@ status: "new"
 > Das alte Lager wurde in Wohnungen umgewandelt.
 > *The old warehouse was converted into flats.*
 
+**Phrases & Expressions:**
+- **umwandeln in + Akk.** — *to convert; to transform*
+- **Energie umwandeln** — *to convert; to transform*
+
 **Collocations**
 - umwandeln in + Akk.
 - Energie umwandeln

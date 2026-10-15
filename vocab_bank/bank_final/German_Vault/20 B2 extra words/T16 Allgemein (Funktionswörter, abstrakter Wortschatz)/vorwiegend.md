@@ -29,6 +29,9 @@ status: "new"
 > Im Norden ist es vorwiegend bewölkt.
 > *In the north it is mainly cloudy.*
 
+**Phrases & Expressions:**
+- **Im Norden ist es vorwiegend bewölkt** — *In the north it is mainly cloudy* *(Beispiel im Kontext)*
+
 **Exam use:** Lesen, Hören
 <!-- bank:end -->
 

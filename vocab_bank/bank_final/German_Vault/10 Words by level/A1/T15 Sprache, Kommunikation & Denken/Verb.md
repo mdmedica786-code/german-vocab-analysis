@@ -34,6 +34,9 @@ status: "new"
 > Das Verb steht im Satz an zweiter Stelle.
 > *The verb is in second position in the sentence.*
 
+**Phrases & Expressions:**
+- **Das Verb steht im Satz an zweiter Stelle** — *The verb is in second position in the sentence* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 3b (Guten Tag!)
 <!-- bank:end -->
 

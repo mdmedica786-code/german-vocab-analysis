@@ -31,6 +31,11 @@ status: "new"
 > Nach dem Konzert strömten die Menschen auf die Straße.
 > *After the concert the people poured onto the street.*
 
+**Phrases & Expressions:**
+- **der Regen strömt** — *to stream; to flow; to pour*
+- **Menschen strömen** — *to stream; to flow; to pour*
+- **in Strömen regnen** — *to stream; to flow; to pour*
+
 **Collocations**
 - der Regen strömt
 - Menschen strömen

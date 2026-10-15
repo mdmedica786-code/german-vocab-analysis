@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Zauber des Abends war vorbei.
 > *The magic of the evening was over.*
+
+**Phrases & Expressions:**
+- **Der Zauber des Abends war vorbei** — *The magic of the evening was over* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

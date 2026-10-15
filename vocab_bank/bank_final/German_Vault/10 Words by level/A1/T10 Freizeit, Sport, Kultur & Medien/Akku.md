@@ -35,6 +35,9 @@ status: "new"
 > Mein Akku ist schon wieder leer.
 > *My battery is empty again.*
 
+**Phrases & Expressions:**
+- **Mein Akku ist schon wieder leer** — *My battery is empty again* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 6a (Arbeitsalltag) · Goethe word list B1
 <!-- bank:end -->
 

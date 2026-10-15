@@ -33,6 +33,12 @@ status: "new"
 > Der Patient ist bei Bewusstsein.
 > *The patient is conscious.*
 
+**Phrases & Expressions:**
+- **bei Bewusstsein sein** — *consciousness; awareness*
+- **das Bewusstsein verlieren** — *consciousness; awareness*
+- **das Bewusstsein erlangen** — *consciousness; awareness*
+- **getrübtes Bewusstsein** — *consciousness; awareness*
+
 **Collocations**
 - bei Bewusstsein sein
 - das Bewusstsein verlieren

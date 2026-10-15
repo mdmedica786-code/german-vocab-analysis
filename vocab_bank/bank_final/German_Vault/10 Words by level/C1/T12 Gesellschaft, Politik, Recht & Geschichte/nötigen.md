@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Er nötigte seinen Gast, noch länger zu bleiben.
 > *He urged his guest to stay longer.*
+
+**Phrases & Expressions:**
+- **Er nötigte seinen Gast, noch länger zu bleiben** — *He urged his guest to stay longer* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

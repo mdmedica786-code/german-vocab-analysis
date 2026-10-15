@@ -30,6 +30,9 @@ status: "new"
 > Ich bin heute den ganzen Tag zuhause.
 > *I am at home all day today.*
 
+**Phrases & Expressions:**
+- **Ich bin heute den ganzen Tag zuhause** — *I am at home all day today* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Wegen einer Sperrung der Autobahn gibt es lange Staus.
 > *Because of a closure of the motorway there are long traffic jams.*
 
+**Phrases & Expressions:**
+- **eine Sperrung aufheben** — *closure; blocking*
+- **die Sperrung der Straße** — *closure; blocking*
+- **wegen Sperrung** — *closure; blocking*
+
 **Collocations**
 - eine Sperrung aufheben
 - die Sperrung der Straße

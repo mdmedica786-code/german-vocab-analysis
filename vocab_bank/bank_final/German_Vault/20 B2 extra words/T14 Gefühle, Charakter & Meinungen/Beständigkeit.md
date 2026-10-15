@@ -33,6 +33,11 @@ status: "new"
 > Ihre Beständigkeit im Beruf wird sehr geschätzt.
 > *Her constancy in her career is highly valued.*
 
+**Phrases & Expressions:**
+- **Beständigkeit zeigen** — *constancy; stability; durability*
+- **Beständigkeit der Preise** — *constancy; stability; durability*
+- **Beständigkeit im Beruf** — *constancy; stability; durability*
+
 **Collocations**
 - Beständigkeit zeigen
 - Beständigkeit der Preise

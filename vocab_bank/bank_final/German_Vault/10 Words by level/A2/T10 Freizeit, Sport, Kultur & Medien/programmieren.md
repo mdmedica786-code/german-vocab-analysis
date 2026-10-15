@@ -32,6 +32,9 @@ status: "new"
 > Mein Bruder programmiert gern Apps.
 > *My brother likes programming apps.*
 
+**Phrases & Expressions:**
+- **Mein Bruder programmiert gern Apps** — *My brother likes programming apps* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 6a (Immer online?)
 <!-- bank:end -->
 

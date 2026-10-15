@@ -32,6 +32,11 @@ status: "new"
 > Das Verhalten verstößt gegen die Hausordnung.
 > *The behaviour violates the house rules.*
 
+**Phrases & Expressions:**
+- **gegen ein Gesetz verstoßen** — *to violate; to break (a rule)*
+- **gegen Regeln verstoßen** — *to violate; to break (a rule)*
+- **gegen die Vorschriften verstoßen** — *to violate; to break (a rule)*
+
 **Collocations**
 - gegen ein Gesetz verstoßen
 - gegen Regeln verstoßen

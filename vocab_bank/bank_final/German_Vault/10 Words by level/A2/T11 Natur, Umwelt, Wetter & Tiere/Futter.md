@@ -34,6 +34,9 @@ status: "new"
 > Die Katze bekommt zweimal täglich Futter.
 > *The cat gets food twice a day.*
 
+**Phrases & Expressions:**
+- **Die Katze bekommt zweimal täglich Futter** — *The cat gets food twice a day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 11b (Zusammen leben)
 <!-- bank:end -->
 

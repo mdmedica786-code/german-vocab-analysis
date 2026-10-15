@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Ferner benötigen wir einen Nachweis.
 > *Furthermore we need proof.*
+
+**Phrases & Expressions:**
+- **Ferner benötigen wir einen Nachweis** — *Furthermore we need proof* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

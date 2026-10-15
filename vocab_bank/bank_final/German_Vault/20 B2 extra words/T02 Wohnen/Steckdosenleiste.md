@@ -33,6 +33,11 @@ status: "new"
 > Alle Geräte hängen an einer Steckdosenleiste.
 > *All devices are connected to one power strip.*
 
+**Phrases & Expressions:**
+- **eine Steckdosenleiste benutzen** — *power strip; multiple socket*
+- **Steckdosenleiste mit Schalter** — *power strip; multiple socket*
+- **überlastete Steckdosenleiste** — *power strip; multiple socket*
+
 **Collocations**
 - eine Steckdosenleiste benutzen
 - Steckdosenleiste mit Schalter

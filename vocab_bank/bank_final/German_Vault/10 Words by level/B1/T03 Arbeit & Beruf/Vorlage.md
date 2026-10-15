@@ -34,6 +34,9 @@ status: "new"
 > Ich nutze eine Vorlage für meinen Lebenslauf.
 > *I use a template for my CV.*
 
+**Phrases & Expressions:**
+- **Ich nutze eine Vorlage für meinen Lebenslauf** — *I use a template for my CV* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

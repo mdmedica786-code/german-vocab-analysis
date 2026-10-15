@@ -33,6 +33,11 @@ status: "new"
 > Der Wechselkurs des Euro zum Dollar schwankt stark.
 > *The euro's exchange rate against the dollar fluctuates strongly.*
 
+**Phrases & Expressions:**
+- **der aktuelle Wechselkurs** — *exchange rate*
+- **Wechselkurse schwanken** — *exchange rate*
+- **zum Wechselkurs von** — *exchange rate*
+
 **Collocations**
 - der aktuelle Wechselkurs
 - Wechselkurse schwanken

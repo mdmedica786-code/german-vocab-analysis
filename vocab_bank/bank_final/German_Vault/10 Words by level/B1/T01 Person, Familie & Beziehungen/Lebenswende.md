@@ -31,6 +31,9 @@ status: "new"
 > Der Umzug war eine Lebenswende.
 > *The move was a turning point in life.*
 
+**Phrases & Expressions:**
+- **Der Umzug war eine Lebenswende** — *The move was a turning point in life* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

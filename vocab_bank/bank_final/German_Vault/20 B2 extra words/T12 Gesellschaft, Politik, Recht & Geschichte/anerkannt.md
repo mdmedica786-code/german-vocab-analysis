@@ -29,6 +29,11 @@ status: "new"
 > Das Zeugnis ist in Deutschland anerkannt.
 > *The certificate is recognised in Germany.*
 
+**Phrases & Expressions:**
+- **staatlich anerkannt** — *recognised; accepted; established*
+- **ein anerkannter Experte** — *recognised; accepted; established*
+- **offiziell anerkannt** — *recognised; accepted; established*
+
 **Collocations**
 - staatlich anerkannt
 - ein anerkannter Experte

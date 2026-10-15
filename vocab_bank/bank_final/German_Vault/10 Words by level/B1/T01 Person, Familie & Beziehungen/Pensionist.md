@@ -42,6 +42,9 @@ status: "new"
 > Der Pensionist geht jeden Tag spazieren.
 > *The pensioner goes for a walk every day.*
 
+**Phrases & Expressions:**
+- **Der Pensionist geht jeden Tag spazieren** — *The pensioner goes for a walk every day* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

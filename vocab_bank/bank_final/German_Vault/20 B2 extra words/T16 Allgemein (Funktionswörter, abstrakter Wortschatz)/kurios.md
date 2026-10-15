@@ -29,6 +29,11 @@ status: "new"
 > Es ist kurios, dass beide denselben Gedanken hatten.
 > *It is odd that both had the same thought.*
 
+**Phrases & Expressions:**
+- **eine kuriose Geschichte** — *odd; curious*
+- **kurios klingen** — *odd; curious*
+- **ein kurioser Zufall** — *odd; curious*
+
 **Collocations**
 - eine kuriose Geschichte
 - kurios klingen

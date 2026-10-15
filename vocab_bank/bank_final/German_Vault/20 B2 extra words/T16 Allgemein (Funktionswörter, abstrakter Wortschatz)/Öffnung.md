@@ -33,6 +33,11 @@ status: "new"
 > Die Öffnung des Geschäfts erfolgt um neun Uhr.
 > *The shop opens at nine o'clock.*
 
+**Phrases & Expressions:**
+- **die Öffnung der Grenze** — *opening*
+- **die Öffnung des Marktes** — *opening*
+- **eine kleine Öffnung** — *opening*
+
 **Collocations**
 - die Öffnung der Grenze
 - die Öffnung des Marktes

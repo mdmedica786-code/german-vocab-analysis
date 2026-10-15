@@ -33,6 +33,9 @@ status: "new"
 > Sie singt der Jury ein Lied vor.
 > *She sings a song for the jury.*
 
+**Phrases & Expressions:**
+- **Sie singt der Jury ein Lied vor** — *She sings a song for the jury* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12c (Zwischenmenschliches)
 <!-- bank:end -->
 

@@ -32,6 +32,11 @@ status: "new"
 > Der Erfolg hat sie zu noch besseren Leistungen angespornt.
 > *The success spurred her on to even better performance.*
 
+**Phrases & Expressions:**
+- **jemanden anspornen** — *to spur on; to motivate*
+- **zu Höchstleistungen anspornen** — *to spur on; to motivate*
+- **zusätzlich anspornen** — *to spur on; to motivate*
+
 **Collocations**
 - jemanden anspornen
 - zu Höchstleistungen anspornen

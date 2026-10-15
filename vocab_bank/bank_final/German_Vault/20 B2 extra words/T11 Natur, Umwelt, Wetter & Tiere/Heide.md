@@ -33,6 +33,11 @@ status: "new"
 > Im August blüht die Heide lila.
 > *In August the heath blooms purple.*
 
+**Phrases & Expressions:**
+- **durch die Heide wandern** — *heath*
+- **Lüneburger Heide** — *heath*
+- **blühende Heide** — *heath*
+
 **Collocations**
 - durch die Heide wandern
 - Lüneburger Heide

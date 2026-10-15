@@ -33,6 +33,11 @@ status: "new"
 > Stress führt zu Schlafmangel und Schlafmangel zu noch mehr Stress.
 > *Stress leads to lack of sleep and lack of sleep to even more stress.*
 
+**Phrases & Expressions:**
+- **ein Teufelskreis entsteht** — *vicious circle*
+- **den Teufelskreis durchbrechen** — *vicious circle*
+- **in einem Teufelskreis stecken** — *vicious circle*
+
 **Collocations**
 - ein Teufelskreis entsteht
 - den Teufelskreis durchbrechen

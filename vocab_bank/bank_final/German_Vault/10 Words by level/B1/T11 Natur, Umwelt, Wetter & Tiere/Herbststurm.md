@@ -34,6 +34,9 @@ status: "new"
 > Der Herbststurm hat viele Bäume umgeworfen.
 > *The autumn storm knocked over many trees.*
 
+**Phrases & Expressions:**
+- **Der Herbststurm hat viele Bäume umgeworfen** — *The autumn storm knocked over many trees* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 12a (Umweltfreundlich?)
 <!-- bank:end -->
 

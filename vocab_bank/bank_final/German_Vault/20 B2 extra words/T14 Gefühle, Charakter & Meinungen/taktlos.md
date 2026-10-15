@@ -29,6 +29,11 @@ status: "new"
 > Es war taktlos von ihm, nach ihrem Alter zu fragen.
 > *It was tactless of him to ask about her age.*
 
+**Phrases & Expressions:**
+- **taktlos sein** — *tactless*
+- **eine taktlose Bemerkung** — *tactless*
+- **sich taktlos verhalten** — *tactless*
+
 **Collocations**
 - taktlos sein
 - eine taktlose Bemerkung

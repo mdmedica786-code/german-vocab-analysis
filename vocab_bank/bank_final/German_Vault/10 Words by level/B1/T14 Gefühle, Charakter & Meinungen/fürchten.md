@@ -34,6 +34,10 @@ status: "new"
 > Sie fürchtet sich vor Schlangen.
 > *She is afraid of snakes.*
 
+**Phrases & Expressions:**
+- **ich fürchte, ...** — I'm afraid ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **Ich fürchte, das lässt sich nicht einrichten.** — I'm afraid that can't be arranged. *([[B2-12 Höflichkeit und Diplomatie - Kritik und Ablehnung abmildern|Ablehnung abmildern]] · B2)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

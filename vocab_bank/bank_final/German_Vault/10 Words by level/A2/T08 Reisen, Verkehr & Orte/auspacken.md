@@ -34,6 +34,9 @@ status: "new"
 > Packst du bitte den Koffer aus?
 > *Could you please unpack the suitcase?*
 
+**Phrases & Expressions:**
+- **Packst du bitte den Koffer aus** — *Could you please unpack the suitcase* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 6c (Zusammen leben) · Goethe word list A2
 <!-- bank:end -->
 

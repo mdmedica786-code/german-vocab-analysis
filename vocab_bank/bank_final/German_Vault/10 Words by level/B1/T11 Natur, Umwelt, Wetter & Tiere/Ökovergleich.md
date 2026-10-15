@@ -31,6 +31,9 @@ status: "new"
 > Der Ökovergleich zeigt, welche Tasche besser ist.
 > *The eco-comparison shows which bag is better.*
 
+**Phrases & Expressions:**
+- **Der Ökovergleich zeigt, welche Tasche besser ist** — *The eco-comparison shows which bag is better* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 5a (Umweltfreundlich?)
 <!-- bank:end -->
 

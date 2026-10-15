@@ -35,6 +35,9 @@ status: "new"
 > Ich hätte gern einen bequemen Sessel.
 > *I would like a comfortable armchair.*
 
+**Phrases & Expressions:**
+- **Ich hätte gern einen bequemen Sessel** — *I would like a comfortable armchair* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

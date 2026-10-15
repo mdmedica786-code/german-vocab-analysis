@@ -32,6 +32,11 @@ status: "new"
 > In den Semesterferien arbeitet er in einer Fabrik.
 > *During the semester break he works in a factory.*
 
+**Phrases & Expressions:**
+- **in den Semesterferien** — *semester break*
+- **die Semesterferien beginnen** — *semester break*
+- **Semesterferien nutzen** — *semester break*
+
 **Collocations**
 - in den Semesterferien
 - die Semesterferien beginnen

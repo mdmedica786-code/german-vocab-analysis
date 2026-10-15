@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Firma braucht mehr Kapital.
 > *The company needs more capital.*
+
+**Phrases & Expressions:**
+- **Die Firma braucht mehr Kapital** — *The company needs more capital* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

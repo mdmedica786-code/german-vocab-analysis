@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Die Blumen erfreuen mich jeden Tag.
 > *The flowers delight me every day.*
+
+**Phrases & Expressions:**
+- **Die Blumen erfreuen mich jeden Tag** — *The flowers delight me every day* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

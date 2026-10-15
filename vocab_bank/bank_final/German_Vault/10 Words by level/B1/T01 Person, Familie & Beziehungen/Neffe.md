@@ -35,6 +35,9 @@ status: "new"
 > Meine Neffen sind drei und fünf Jahre alt.
 > *My nephews are three and five years old.*
 
+**Phrases & Expressions:**
+- **Meine Neffen sind drei und fünf Jahre alt** — *My nephews are three and five years old* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 12b (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

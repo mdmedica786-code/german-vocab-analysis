@@ -35,6 +35,9 @@ status: "new"
 > Lesen Sie bitte diesen Text.
 > *Please read this text.*
 
+**Phrases & Expressions:**
+- **Lesen Sie bitte diesen Text** — *Please read this text* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 8e (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

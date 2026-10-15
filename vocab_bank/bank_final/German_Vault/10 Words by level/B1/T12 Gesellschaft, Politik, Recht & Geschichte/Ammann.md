@@ -39,6 +39,9 @@ status: "new"
 > Der Ammann leitet die Gemeinde.
 > *The Ammann heads the municipality.*
 
+**Phrases & Expressions:**
+- **Der Ammann leitet die Gemeinde** — *The Ammann heads the municipality* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

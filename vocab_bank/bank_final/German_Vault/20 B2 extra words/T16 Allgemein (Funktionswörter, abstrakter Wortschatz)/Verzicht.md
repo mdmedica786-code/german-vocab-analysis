@@ -33,6 +33,11 @@ status: "new"
 > Der Verzicht auf Zucker fällt ihr schwer.
 > *Doing without sugar is hard for her.*
 
+**Phrases & Expressions:**
+- **der Verzicht auf etwas** — *renunciation; doing without*
+- **Verzicht üben** — *renunciation; doing without*
+- **Verzicht leisten** — *renunciation; doing without*
+
 **Collocations**
 - der Verzicht auf etwas
 - Verzicht üben

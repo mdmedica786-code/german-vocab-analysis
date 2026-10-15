@@ -29,6 +29,10 @@ status: "new"
 > Wenn man zwischen den Zeilen liest, merkt man seine Unzufriedenheit.
 > *If you read between the lines, you notice his dissatisfaction.*
 
+**Phrases & Expressions:**
+- **zwischen den Zeilen stehen** — *to read between the lines*
+- **Zwischentöne wahrnehmen** — *to read between the lines*
+
 **Collocations**
 - zwischen den Zeilen stehen
 - Zwischentöne wahrnehmen

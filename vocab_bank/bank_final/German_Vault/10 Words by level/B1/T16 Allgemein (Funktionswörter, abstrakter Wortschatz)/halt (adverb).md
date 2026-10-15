@@ -31,6 +31,9 @@ status: "new"
 > Das ist halt so.
 > *That's just how it is.*
 
+**Phrases & Expressions:**
+- **Das ist halt so** — *That's just how it is* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

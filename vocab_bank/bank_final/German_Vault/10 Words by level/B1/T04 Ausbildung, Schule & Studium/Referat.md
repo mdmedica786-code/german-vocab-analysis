@@ -35,6 +35,9 @@ status: "new"
 > Vielen Dank für dieses interessante Referat.
 > *Thank you very much for this interesting presentation.*
 
+**Phrases & Expressions:**
+- **Vielen Dank für dieses interessante Referat** — *Thank you very much for this interesting presentation* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 10a (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

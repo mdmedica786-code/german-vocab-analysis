@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Die Klinik verzeichnet mehr Patienten als im Vorjahr.
 > *The clinic records more patients than in the previous year.*
+
+**Phrases & Expressions:**
+- **Die Klinik verzeichnet mehr Patienten als im Vorjahr** — *The clinic records more patients than in the previous year* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

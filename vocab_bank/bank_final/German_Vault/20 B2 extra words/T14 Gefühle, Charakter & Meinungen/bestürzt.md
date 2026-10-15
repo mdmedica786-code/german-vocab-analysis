@@ -29,6 +29,11 @@ status: "new"
 > Wir waren bestürzt über die Nachricht.
 > *We were dismayed by the news.*
 
+**Phrases & Expressions:**
+- **bestürzt sein über** — *dismayed; shocked*
+- **bestürzt reagieren** — *dismayed; shocked*
+- **bestürzt ansehen** — *dismayed; shocked*
+
 **Collocations**
 - bestürzt sein über
 - bestürzt reagieren

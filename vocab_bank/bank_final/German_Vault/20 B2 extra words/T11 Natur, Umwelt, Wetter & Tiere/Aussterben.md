@@ -33,6 +33,11 @@ status: "new"
 > Der Tiger ist vom Aussterben bedroht.
 > *The tiger is threatened with extinction.*
 
+**Phrases & Expressions:**
+- **vom Aussterben bedroht** — *extinction; dying out*
+- **vor dem Aussterben retten** — *extinction; dying out*
+- **zum Aussterben verurteilt** — *extinction; dying out*
+
 **Collocations**
 - vom Aussterben bedroht
 - vor dem Aussterben retten

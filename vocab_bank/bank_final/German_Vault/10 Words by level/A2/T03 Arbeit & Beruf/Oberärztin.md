@@ -34,6 +34,9 @@ status: "new"
 > Die Oberärztin bespricht den Fall mit uns.
 > *The senior physician discusses the case with us.*
 
+**Phrases & Expressions:**
+- **Die Oberärztin bespricht den Fall mit uns** — *The senior physician discusses the case with us* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

@@ -33,6 +33,12 @@ status: "new"
 > An der Schwelle zum Erwachsenenalter treffen viele Menschen wichtige Entscheidungen.
 > *On the threshold of adulthood many people make important decisions.*
 
+**Phrases & Expressions:**
+- **Schwellen Ihre Beine abends an?** — Do your legs swell in the evening? *([[FSP-06 Systemanamnese (Organsysteme)|Herz-Kreislauf]] · B1)*
+- **an der Schwelle zu + Dat.** — *threshold; doorstep*
+- **die Schwelle überschreiten** — *threshold; doorstep*
+- **Hemmschwelle** — *threshold; doorstep*
+
 **Collocations**
 - an der Schwelle zu + Dat.
 - die Schwelle überschreiten

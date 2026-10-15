@@ -31,6 +31,11 @@ status: "new"
 > Sie schleppte die schweren Einkaufstüten nach Hause.
 > *She hauled the heavy shopping bags home.*
 
+**Phrases & Expressions:**
+- **schwere Taschen schleppen** — *to drag; to haul*
+- **sich schleppen** — *to drag; to haul*
+- **einen Koffer die Treppe hinauf schleppen** — *to drag; to haul*
+
 **Collocations**
 - schwere Taschen schleppen
 - sich schleppen

@@ -31,6 +31,10 @@ status: "new"
 > Man sollte Nachrichten im Internet kritisch hinterfragen.
 > *One should critically question news on the internet.*
 
+**Phrases & Expressions:**
+- **kritisch hinterfragen** — *to question; to scrutinise*
+- **Entscheidungen hinterfragen** — *to question; to scrutinise*
+
 **Collocations**
 - kritisch hinterfragen
 - Entscheidungen hinterfragen

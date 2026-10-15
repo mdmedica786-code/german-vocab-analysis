@@ -31,6 +31,13 @@ status: "new"
 > Die Suppe schmeckt mir überhaupt nicht.
 > *I don't like the soup at all.*
 
+**Phrases & Expressions:**
+- **Das finde ich überhaupt nicht gut.** — I don't think that's good at all. *([[B1-02 Zustimmen und Widersprechen|Klar ablehnen]] · B1)*
+- **überhaupt nicht** — *at all*
+- **überhaupt kein** — *at all*
+- **überhaupt nichts** — *at all*
+- **wenn überhaupt** — *at all*
+
 **Collocations**
 - überhaupt nicht
 - überhaupt kein

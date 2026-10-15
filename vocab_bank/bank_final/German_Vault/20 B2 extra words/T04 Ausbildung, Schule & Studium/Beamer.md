@@ -33,6 +33,11 @@ status: "new"
 > Im Seminarraum gibt es einen Beamer für die Präsentation.
 > *In the seminar room there is a projector for the presentation.*
 
+**Phrases & Expressions:**
+- **den Beamer anschließen** — *projector (for presentations)*
+- **der Beamer funktioniert nicht** — *projector (for presentations)*
+- **mit dem Beamer präsentieren** — *projector (for presentations)*
+
 **Collocations**
 - den Beamer anschließen
 - der Beamer funktioniert nicht

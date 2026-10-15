@@ -35,6 +35,9 @@ status: "new"
 > Ich habe schon einen Käufer für den alten Tisch.
 > *I already have a buyer for the old table.*
 
+**Phrases & Expressions:**
+- **Ich habe schon einen Käufer für den alten Tisch** — *I already have a buyer for the old table* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

@@ -32,6 +32,10 @@ status: "new"
 > [!example] Beispiel
 > Der Lauf durch den Wald hat mir gut getan.
 > *The run through the forest did me good.*
+
+**Phrases & Expressions:**
+- **im Lauf(e) der Zeit** — over the course *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Im Lauf der Jahre hat sich ... entwickelt.** — Over the years ... has developed. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Entwicklung über Zeit]] · B2)*
 <!-- bank:end -->
 
 ## My notes

@@ -29,6 +29,10 @@ status: "new"
 > Die Trennung hat ihr das Herz gebrochen.
 > *The breakup broke her heart.*
 
+**Phrases & Expressions:**
+- **das Herz brechen** — *to break someone's heart*
+- **tief verletzen** — *to break someone's heart*
+
 **Collocations**
 - das Herz brechen
 - tief verletzen

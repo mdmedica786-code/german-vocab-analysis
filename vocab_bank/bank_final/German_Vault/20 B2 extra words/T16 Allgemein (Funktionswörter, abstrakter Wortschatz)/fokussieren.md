@@ -32,6 +32,11 @@ status: "new"
 > Wir fokussieren uns auf die wichtigsten Aufgaben.
 > *We are focusing on the most important tasks.*
 
+**Phrases & Expressions:**
+- **sich fokussieren auf** — *to focus*
+- **etwas fokussieren** — *to focus*
+- **den Blick fokussieren** — *to focus*
+
 **Collocations**
 - sich fokussieren auf
 - etwas fokussieren

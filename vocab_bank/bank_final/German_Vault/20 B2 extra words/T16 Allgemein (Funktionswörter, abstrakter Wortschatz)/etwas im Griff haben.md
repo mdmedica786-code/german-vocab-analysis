@@ -29,6 +29,11 @@ status: "new"
 > Keine Sorge, ich habe die Lage im Griff.
 > *Don't worry, I have the situation under control.*
 
+**Phrases & Expressions:**
+- **im Griff haben** — *to have something under control*
+- **etwas in den Griff bekommen** — *to have something under control*
+- **die Situation im Griff haben** — *to have something under control*
+
 **Collocations**
 - im Griff haben
 - etwas in den Griff bekommen

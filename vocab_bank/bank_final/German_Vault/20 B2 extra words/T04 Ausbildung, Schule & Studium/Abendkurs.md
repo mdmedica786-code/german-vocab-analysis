@@ -33,6 +33,11 @@ status: "new"
 > Ich besuche einen Abendkurs für Spanisch.
 > *I attend an evening class in Spanish.*
 
+**Phrases & Expressions:**
+- **einen Abendkurs besuchen** — *evening class*
+- **sich für einen Abendkurs anmelden** — *evening class*
+- **Abendkurse anbieten** — *evening class*
+
 **Collocations**
 - einen Abendkurs besuchen
 - sich für einen Abendkurs anmelden

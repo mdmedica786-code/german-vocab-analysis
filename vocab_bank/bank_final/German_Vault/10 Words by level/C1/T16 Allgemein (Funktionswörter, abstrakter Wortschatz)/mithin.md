@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Er ist mithin nicht verantwortlich.
 > *He is consequently not responsible.*
+
+**Phrases & Expressions:**
+- **Er ist mithin nicht verantwortlich** — *He is consequently not responsible* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

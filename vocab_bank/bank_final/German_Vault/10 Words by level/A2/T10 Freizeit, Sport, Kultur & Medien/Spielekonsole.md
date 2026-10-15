@@ -34,6 +34,9 @@ status: "new"
 > Die Kinder spielen an der Spielekonsole.
 > *The children are playing on the games console.*
 
+**Phrases & Expressions:**
+- **Die Kinder spielen an der Spielekonsole** — *The children are playing on the games console* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1b (Immer online?)
 <!-- bank:end -->
 

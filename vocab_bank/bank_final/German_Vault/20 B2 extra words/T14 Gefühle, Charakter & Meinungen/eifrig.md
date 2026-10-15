@@ -29,6 +29,11 @@ status: "new"
 > Er lernt eifrig Deutsch.
 > *He studies German eagerly.*
 
+**Phrases & Expressions:**
+- **eifrig lernen** — *eager; keen*
+- **ein eifriger Schüler** — *eager; keen*
+- **eifrig bemüht** — *eager; keen*
+
 **Collocations**
 - eifrig lernen
 - ein eifriger Schüler

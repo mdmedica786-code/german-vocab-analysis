@@ -35,6 +35,9 @@ status: "new"
 > Bei „Gewicht“ schreibst du: 62 Kilo.
 > *Under “weight” you write: 62 kilos.*
 
+**Phrases & Expressions:**
+- **Hat sich Ihr Gewicht in letzter Zeit verändert?** — Has your weight changed lately? *([[FSP-06 Systemanamnese (Organsysteme)|Stoffwechsel und Gewicht]] · A2)*
+
 **Source:** Netzwerk neu A1 K8 5b (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

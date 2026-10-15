@@ -33,6 +33,11 @@ status: "new"
 > Im Kreisverkehr hat der Verkehr im Kreis Vorfahrt.
 > *At a roundabout the traffic in the circle has right of way.*
 
+**Phrases & Expressions:**
+- **im Kreisverkehr fahren** — *roundabout*
+- **den Kreisverkehr verlassen** — *roundabout*
+- **im Kreisverkehr blinken** — *roundabout*
+
 **Collocations**
 - im Kreisverkehr fahren
 - den Kreisverkehr verlassen

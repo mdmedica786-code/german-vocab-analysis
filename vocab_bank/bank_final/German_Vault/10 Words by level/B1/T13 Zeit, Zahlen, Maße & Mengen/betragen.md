@@ -32,6 +32,14 @@ status: "new"
 > Die Gebühr beträgt zehn Euro.
 > *The fee is ten euros.*
 
+**Phrases & Expressions:**
+- **Der Anteil von ... beträgt ... Prozent.** — The proportion of ... is ... percent. *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Anteil nennen]] · B2)*
+- **Der Unterschied beträgt rund ... Prozent.** — The difference is around ... percent. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Zahlen vergleichen]] · B2)*
+- **Die Sauerstoffsättigung beträgt 94 Prozent unter Raumluft.** — Oxygen saturation is 94 percent on room air. *([[FSP-08 Befunde beschreiben und berichten|Vitalparameter]] · B2)*
+- **die Kosten betragen** — *to amount to*
+- **der Betrag beträgt** — *to amount to*
+- **die Dauer beträgt** — *to amount to*
+
 **Collocations**
 - die Kosten betragen
 - der Betrag beträgt

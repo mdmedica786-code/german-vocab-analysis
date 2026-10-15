@@ -33,6 +33,11 @@ status: "new"
 > Der Mittelstand ist das Rückgrat der deutschen Wirtschaft.
 > *Medium-sized businesses are the backbone of the German economy.*
 
+**Phrases & Expressions:**
+- **der deutsche Mittelstand** — *medium-sized businesses; middle class*
+- **mittelständischer Betrieb** — *medium-sized businesses; middle class*
+- **Mittelstand fördern** — *medium-sized businesses; middle class*
+
 **Collocations**
 - der deutsche Mittelstand
 - mittelständischer Betrieb

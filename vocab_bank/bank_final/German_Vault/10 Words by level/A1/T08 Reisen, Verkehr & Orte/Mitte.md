@@ -35,6 +35,9 @@ status: "new"
 > Der Lehrer steht in der Mitte des Klassenzimmers.
 > *The teacher is standing in the middle of the classroom.*
 
+**Phrases & Expressions:**
+- **in der Mitte ...** — in the middle (of) ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

@@ -35,6 +35,10 @@ status: "new"
 > Betreten der Baustelle auf eigene Gefahr.
 > *Entering the building site is at your own risk.*
 
+**Phrases & Expressions:**
+- **die Gefahr, dass ...** — the risk that ... *([[Probleme - Beschwerden beschreiben (problem, symptom, complaint)|Probleme / Beschwerden beschreiben (problem, symptom, complaint)]] · B2)*
+- **es besteht die Gefahr, dass ...** — there is a risk that ... *([[Probleme - Beschwerden beschreiben (problem, symptom, complaint)|Probleme / Beschwerden beschreiben (problem, symptom, complaint)]] · B2)*
+
 **Source:** Netzwerk neu B1 K2 7d (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

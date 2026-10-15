@@ -34,6 +34,9 @@ status: "new"
 > Der Shop hat sonntags geöffnet.
 > *The shop is open on Sundays.*
 
+**Phrases & Expressions:**
+- **Der Shop hat sonntags geöffnet** — *The shop is open on Sundays* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

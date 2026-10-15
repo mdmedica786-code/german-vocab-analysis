@@ -33,6 +33,11 @@ status: "new"
 > Wir suchen einen Büroraum in der Innenstadt.
 > *We are looking for an office space in the city centre.*
 
+**Phrases & Expressions:**
+- **einen Büroraum mieten** — *office space; office room*
+- **ein heller Büroraum** — *office space; office room*
+- **Büroräume vermieten** — *office space; office room*
+
 **Collocations**
 - einen Büroraum mieten
 - ein heller Büroraum

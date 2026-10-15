@@ -29,6 +29,11 @@ status: "new"
 > Das primäre Ziel ist die Senkung der Kosten.
 > *The primary aim is to lower the costs.*
 
+**Phrases & Expressions:**
+- **ein primäres Ziel** — *primary*
+- **primär um etwas gehen** — *primary*
+- **primär wichtig** — *primary*
+
 **Collocations**
 - ein primäres Ziel
 - primär um etwas gehen

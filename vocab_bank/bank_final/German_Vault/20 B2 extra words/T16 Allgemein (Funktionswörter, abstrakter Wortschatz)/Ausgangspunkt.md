@@ -33,6 +33,11 @@ status: "new"
 > Der Bahnhof ist der Ausgangspunkt der Wanderung.
 > *The station is the starting point of the hike.*
 
+**Phrases & Expressions:**
+- **der Ausgangspunkt einer Wanderung** — *starting point*
+- **als Ausgangspunkt nehmen** — *starting point*
+- **der Ausgangspunkt der Diskussion** — *starting point*
+
 **Collocations**
 - der Ausgangspunkt einer Wanderung
 - als Ausgangspunkt nehmen

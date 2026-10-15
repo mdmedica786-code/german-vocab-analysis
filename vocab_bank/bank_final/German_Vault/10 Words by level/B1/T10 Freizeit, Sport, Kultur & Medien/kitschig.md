@@ -30,6 +30,9 @@ status: "new"
 > Das Lied ist mir zu kitschig.
 > *The song is too kitschy for me.*
 
+**Phrases & Expressions:**
+- **Das Lied ist mir zu kitschig** — *The song is too kitschy for me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9d (Blick nach vorn)
 <!-- bank:end -->
 

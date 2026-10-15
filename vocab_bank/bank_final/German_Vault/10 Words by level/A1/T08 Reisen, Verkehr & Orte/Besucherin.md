@@ -34,6 +34,9 @@ status: "new"
 > Die Besucherin fragt nach dem Weg.
 > *The visitor asks for directions.*
 
+**Phrases & Expressions:**
+- **Die Besucherin fragt nach dem Weg** — *The visitor asks for directions* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg)
 <!-- bank:end -->
 

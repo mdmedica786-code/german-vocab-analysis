@@ -32,6 +32,11 @@ status: "new"
 > Sie konfrontierte ihn mit den Vorwürfen.
 > *She confronted him with the accusations.*
 
+**Phrases & Expressions:**
+- **jemanden mit etwas konfrontieren** — *to confront*
+- **konfrontiert werden mit** — *to confront*
+- **mit der Realität konfrontieren** — *to confront*
+
 **Collocations**
 - jemanden mit etwas konfrontieren
 - konfrontiert werden mit

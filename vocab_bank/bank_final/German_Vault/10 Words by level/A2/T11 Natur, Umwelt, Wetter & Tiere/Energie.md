@@ -35,6 +35,9 @@ status: "new"
 > Wir müssen Energie sparen.
 > *We have to save energy.*
 
+**Phrases & Expressions:**
+- **Wir müssen Energie sparen** — *We have to save energy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3c (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Er kämpfte verbissen um seinen Platz im Team.
 > *He fought doggedly for his place on the team.*
 
+**Phrases & Expressions:**
+- **verbissen kämpfen** — *dogged; grim*
+- **verbissen arbeiten** — *dogged; grim*
+- **ein verbissenes Gesicht** — *dogged; grim*
+
 **Collocations**
 - verbissen kämpfen
 - verbissen arbeiten

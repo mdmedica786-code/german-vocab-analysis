@@ -33,6 +33,11 @@ status: "new"
 > Der Chef lässt seinen Mitarbeitern viel Handlungsspielraum.
 > *The boss gives his employees a lot of scope for action.*
 
+**Phrases & Expressions:**
+- **Handlungsspielraum haben** — *scope for action*
+- **den Handlungsspielraum erweitern** — *scope for action*
+- **begrenzter Handlungsspielraum** — *scope for action*
+
 **Collocations**
 - Handlungsspielraum haben
 - den Handlungsspielraum erweitern

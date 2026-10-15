@@ -34,6 +34,9 @@ status: "new"
 > Bitte folgen Sie den Anweisungen.
 > *Please follow the instructions.*
 
+**Phrases & Expressions:**
+- **Bitte folgen Sie den Anweisungen** — *Please follow the instructions* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 10c (Fit und gesund)
 <!-- bank:end -->
 

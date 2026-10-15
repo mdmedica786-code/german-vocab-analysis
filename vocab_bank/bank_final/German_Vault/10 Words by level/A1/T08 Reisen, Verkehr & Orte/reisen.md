@@ -33,6 +33,9 @@ status: "new"
 > Ich reise gern.
 > *I like travelling.*
 
+**Phrases & Expressions:**
+- **Wenn ich mehr Zeit hätte, würde ich öfter reisen.** — If I had more time, I would travel more often. *([[B2-10 Bedingungen, Folgen und irreale Wünsche|Irreale Wünsche]] · B2)*
+
 **Source:** Netzwerk neu A1 K2 2a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

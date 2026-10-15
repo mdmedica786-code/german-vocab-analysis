@@ -35,6 +35,9 @@ status: "new"
 > Ich esse gern Orangen.
 > *I like eating oranges.*
 
+**Phrases & Expressions:**
+- **Ich esse gern Orangen** — *I like eating oranges* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander) · Goethe word list A2
 <!-- bank:end -->
 

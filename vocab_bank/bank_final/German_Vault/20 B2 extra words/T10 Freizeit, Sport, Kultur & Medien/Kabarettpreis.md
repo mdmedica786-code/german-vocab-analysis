@@ -30,6 +30,11 @@ status: "new"
 > Er gewann den renommierten Kabarettpreis.
 > *He won the renowned cabaret prize.*
 
+**Phrases & Expressions:**
+- **den Kabarettpreis gewinnen** — *cabaret prize*
+- **einen Kabarettpreis verleihen** — *cabaret prize*
+- **ein Kabarettpreis für junge Talente** — *cabaret prize*
+
 **Collocations**
 - den Kabarettpreis gewinnen
 - einen Kabarettpreis verleihen

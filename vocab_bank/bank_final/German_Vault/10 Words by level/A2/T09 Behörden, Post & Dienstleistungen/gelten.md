@@ -34,6 +34,14 @@ status: "new"
 > Mein Pass gilt noch ein Jahr.
 > *My passport is valid for another year.*
 
+**Phrases & Expressions:**
+- **das gilt insbesondere für ...** — this applies in particular to ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **das gilt auch für ...** — that also applies to ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **dies gilt auch für ...** — this also applies to ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **gilt insbesondere für ...** — applies in particular to ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **das gilt auch dann, wenn ...** — that also applies if ... *([[Bedingung - Zweck (condition, purpose)|Bedingung / Zweck (condition, purpose)]] · B2)*
+- **Das gilt zum Beispiel für ...** — This applies, for example, to ... *([[B1-03 Argumentieren, begründen und Beispiele nennen|Beispiel einleiten]] · B1)*
+
 **Collocations**
 - das gilt auch für dich
 - als Experte gelten

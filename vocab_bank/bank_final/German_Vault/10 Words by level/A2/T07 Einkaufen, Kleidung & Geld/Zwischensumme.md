@@ -34,6 +34,9 @@ status: "new"
 > Die Zwischensumme steht unten auf der Rechnung.
 > *The subtotal is at the bottom of the invoice.*
 
+**Phrases & Expressions:**
+- **Die Zwischensumme steht unten auf der Rechnung** — *The subtotal is at the bottom of the invoice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

@@ -31,6 +31,14 @@ status: "new"
 > Manchmal essen wir im Restaurant.
 > *Sometimes we eat at a restaurant.*
 
+**Phrases & Expressions:**
+- **Eine Schwäche von mir ist, dass ich manchmal zu perfektionistisch bin.** — One weakness of mine is that I am sometimes too perfectionist. *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Schwächen nennen]] · B2)*
+- **Wird Ihnen manchmal schwarz vor Augen?** — Do you sometimes see black spots in front of your eyes? *([[FSP-06 Systemanamnese (Organsysteme)|Herz-Kreislauf]] · B2)*
+- **nur manchmal** — *sometimes*
+- **manchmal ... manchmal ...** — *sometimes*
+- **ab und zu und manchmal** — *sometimes*
+- **manchmal schon** — *sometimes*
+
 **Collocations**
 - nur manchmal
 - manchmal ... manchmal ...

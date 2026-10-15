@@ -34,6 +34,9 @@ status: "new"
 > Berlin und Wien sind Metropolen.
 > *Berlin and Vienna are metropolises.*
 
+**Phrases & Expressions:**
+- **Berlin und Wien sind Metropolen** — *Berlin and Vienna are metropolises* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

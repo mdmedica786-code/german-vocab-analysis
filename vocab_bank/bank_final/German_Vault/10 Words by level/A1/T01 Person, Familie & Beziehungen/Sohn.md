@@ -35,6 +35,9 @@ status: "new"
 > Das ist Hans, mein Sohn.
 > *This is Hans, my son.*
 
+**Phrases & Expressions:**
+- **Das ist Hans, mein Sohn** — *This is Hans, my son* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 7b (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

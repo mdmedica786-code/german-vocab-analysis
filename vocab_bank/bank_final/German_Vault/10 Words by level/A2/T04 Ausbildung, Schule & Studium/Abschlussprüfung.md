@@ -34,6 +34,9 @@ status: "new"
 > Die Abschlussprüfung findet im Juni statt.
 > *The final exam takes place in June.*
 
+**Phrases & Expressions:**
+- **Die Abschlussprüfung findet im Juni statt** — *The final exam takes place in June* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3a (Gelernt ist gelernt!)
 <!-- bank:end -->
 

@@ -32,6 +32,11 @@ status: "new"
 > Wir müssen den Rückstand schnell aufholen.
 > *We have to make up the deficit quickly.*
 
+**Phrases & Expressions:**
+- **einen Rückstand aufholen** — *to catch up; to make up for*
+- **Versäumtes aufholen** — *to catch up; to make up for*
+- **Zeit aufholen** — *to catch up; to make up for*
+
 **Collocations**
 - einen Rückstand aufholen
 - Versäumtes aufholen

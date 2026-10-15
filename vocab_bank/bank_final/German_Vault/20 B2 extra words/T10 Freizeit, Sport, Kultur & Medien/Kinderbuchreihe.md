@@ -30,6 +30,11 @@ status: "new"
 > Diese Kinderbuchreihe liebt jedes Kind.
 > *Every child loves this children's book series.*
 
+**Phrases & Expressions:**
+- **eine Kinderbuchreihe lesen** — *children's book series*
+- **eine beliebte Kinderbuchreihe** — *children's book series*
+- **eine Kinderbuchreihe schreiben** — *children's book series*
+
 **Collocations**
 - eine Kinderbuchreihe lesen
 - eine beliebte Kinderbuchreihe

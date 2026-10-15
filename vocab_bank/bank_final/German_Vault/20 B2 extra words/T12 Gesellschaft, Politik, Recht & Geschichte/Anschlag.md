@@ -33,6 +33,11 @@ status: "new"
 > Der Anschlag auf die Bank wurde verhindert.
 > *The attack on the bank was prevented.*
 
+**Phrases & Expressions:**
+- **ein Anschlag auf** — *attack; notice; stop (on a device)*
+- **einen Anschlag verüben** — *attack; notice; stop (on a device)*
+- **ein Anschlag am schwarzen Brett** — *attack; notice; stop (on a device)*
+
 **Collocations**
 - ein Anschlag auf
 - einen Anschlag verüben

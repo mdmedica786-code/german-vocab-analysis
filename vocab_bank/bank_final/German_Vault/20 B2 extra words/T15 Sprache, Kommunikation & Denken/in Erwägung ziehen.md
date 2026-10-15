@@ -26,6 +26,10 @@ status: "new"
 > Wir ziehen in Erwägung, die Preise zu senken.
 > *We are considering lowering the prices.*
 
+**Phrases & Expressions:**
+- **etwas in Erwägung ziehen** — *to consider*
+- **in Erwägung ziehen, dass** — *to consider*
+
 **Collocations**
 - etwas in Erwägung ziehen
 - in Erwägung ziehen, dass

@@ -34,6 +34,9 @@ status: "new"
 > Wir übernachten im Gästehaus der Universität.
 > *We stay in the university guest house.*
 
+**Phrases & Expressions:**
+- **Wir übernachten im Gästehaus der Universität** — *We stay in the university guest house* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 7 (Gute Reise!)
 <!-- bank:end -->
 

@@ -31,6 +31,11 @@ status: "new"
 > Bei dem Erdstoß hat die ganze Wand gebebt.
 > *During the tremor the whole wall shook.*
 
+**Phrases & Expressions:**
+- **vor Angst beben** — *to tremble; to quake*
+- **die Erde bebt** — *to tremble; to quake*
+- **mit bebender Stimme** — *to tremble; to quake*
+
 **Collocations**
 - vor Angst beben
 - die Erde bebt

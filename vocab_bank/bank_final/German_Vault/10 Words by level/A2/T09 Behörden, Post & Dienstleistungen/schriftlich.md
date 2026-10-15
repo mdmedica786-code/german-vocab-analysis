@@ -28,6 +28,9 @@ status: "new"
 > Sie müssen sich schriftlich anmelden.
 > *You must register in writing.*
 
+**Phrases & Expressions:**
+- **Ich gebe Ihnen die wichtigsten Punkte schriftlich mit.** — I will give you the most important points in writing. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Schriftlich ergänzen]] · B1)*
+
 **Source:** Netzwerk neu A2 K8 4a ÜB (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

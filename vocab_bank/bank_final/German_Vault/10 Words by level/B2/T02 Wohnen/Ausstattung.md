@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Ausstattung der Wohnung ist modern.
 > *The furnishings of the flat are modern.*
+
+**Phrases & Expressions:**
+- **Die Ausstattung der Wohnung ist modern** — *The furnishings of the flat are modern* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

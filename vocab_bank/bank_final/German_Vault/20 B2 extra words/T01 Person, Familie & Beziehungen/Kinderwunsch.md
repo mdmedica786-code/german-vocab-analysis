@@ -33,6 +33,11 @@ status: "new"
 > Das Paar hat einen starken Kinderwunsch.
 > *The couple has a strong desire to have children.*
 
+**Phrases & Expressions:**
+- **einen Kinderwunsch haben** — *desire to have children*
+- **ein unerfüllter Kinderwunsch** — *desire to have children*
+- **ein Kinderwunsch bei Paaren** — *desire to have children*
+
 **Collocations**
 - einen Kinderwunsch haben
 - ein unerfüllter Kinderwunsch

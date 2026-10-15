@@ -33,6 +33,11 @@ status: "new"
 > Die Nachricht wurde von einer Nachrichtenagentur verbreitet.
 > *The news was spread by a news agency.*
 
+**Phrases & Expressions:**
+- **laut Nachrichtenagentur** — *news agency*
+- **internationale Nachrichtenagentur** — *news agency*
+- **Meldung der Nachrichtenagentur** — *news agency*
+
 **Collocations**
 - laut Nachrichtenagentur
 - internationale Nachrichtenagentur

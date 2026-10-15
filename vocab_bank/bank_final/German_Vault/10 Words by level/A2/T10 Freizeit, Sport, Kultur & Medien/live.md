@@ -31,6 +31,9 @@ status: "new"
 > Das Konzert wird live im Fernsehen übertragen.
 > *The concert is broadcast live on television.*
 
+**Phrases & Expressions:**
+- **Das Konzert wird live im Fernsehen übertragen** — *The concert is broadcast live on television* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 6a (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

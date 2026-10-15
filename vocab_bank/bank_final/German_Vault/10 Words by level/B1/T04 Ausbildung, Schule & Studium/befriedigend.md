@@ -31,6 +31,9 @@ status: "new"
 > Das Ergebnis ist befriedigend.
 > *The result is satisfactory.*
 
+**Phrases & Expressions:**
+- **Das Ergebnis ist befriedigend** — *The result is satisfactory* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 9c (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

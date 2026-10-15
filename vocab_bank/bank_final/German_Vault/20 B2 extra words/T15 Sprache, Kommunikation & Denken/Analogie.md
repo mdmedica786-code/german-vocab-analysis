@@ -33,6 +33,11 @@ status: "new"
 > Man kann hier eine Analogie ziehen.
 > *One can draw an analogy here.*
 
+**Phrases & Expressions:**
+- **eine Analogie ziehen** — *analogy*
+- **in Analogie zu** — *analogy*
+- **eine Analogie herstellen** — *analogy*
+
 **Collocations**
 - eine Analogie ziehen
 - in Analogie zu

@@ -31,6 +31,11 @@ status: "new"
 > Die Fans jubelten nach dem Tor.
 > *The fans cheered after the goal.*
 
+**Phrases & Expressions:**
+- **vor Freude jubeln** — *to cheer; to rejoice*
+- **laut jubeln** — *to cheer; to rejoice*
+- **über den Sieg jubeln** — *to cheer; to rejoice*
+
 **Collocations**
 - vor Freude jubeln
 - laut jubeln

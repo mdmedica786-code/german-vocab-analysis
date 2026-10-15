@@ -33,6 +33,9 @@ status: "new"
 > Ich möchte diesen Anzug reinigen lassen.
 > *I'd like to have this suit cleaned.*
 
+**Phrases & Expressions:**
+- **Ich möchte diesen Anzug reinigen lassen** — *I'd like to have this suit cleaned* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 3e (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

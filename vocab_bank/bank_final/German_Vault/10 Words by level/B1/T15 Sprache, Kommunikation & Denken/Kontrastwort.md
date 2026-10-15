@@ -31,6 +31,9 @@ status: "new"
 > In diesem Satz ist heute das Kontrastwort.
 > *In this sentence heute is the contrast word.*
 
+**Phrases & Expressions:**
+- **In diesem Satz ist heute das Kontrastwort** — *In this sentence heute is the contrast word* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 9a (Miteinander)
 <!-- bank:end -->
 

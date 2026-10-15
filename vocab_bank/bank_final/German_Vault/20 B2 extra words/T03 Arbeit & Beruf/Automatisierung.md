@@ -33,6 +33,11 @@ status: "new"
 > Die Automatisierung ersetzt viele Arbeitsplätze in der Fabrik.
 > *Automation replaces many jobs in the factory.*
 
+**Phrases & Expressions:**
+- **die Automatisierung voranbringen** — *automation*
+- **durch Automatisierung** — *automation*
+- **fortschreitende Automatisierung** — *automation*
+
 **Collocations**
 - die Automatisierung voranbringen
 - durch Automatisierung

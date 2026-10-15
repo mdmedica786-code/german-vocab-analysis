@@ -31,6 +31,11 @@ status: "new"
 > Die Hose spannt am Bauch.
 > *The trousers are tight around the stomach.*
 
+**Phrases & Expressions:**
+- **ein Seil spannen** — *to stretch; to tighten; to be tight*
+- **sich spannen** — *to stretch; to tighten; to be tight*
+- **gespannt warten** — *to stretch; to tighten; to be tight*
+
 **Collocations**
 - ein Seil spannen
 - sich spannen

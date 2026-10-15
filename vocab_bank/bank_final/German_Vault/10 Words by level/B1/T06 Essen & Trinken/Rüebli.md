@@ -39,6 +39,9 @@ status: "new"
 > Hasen fressen gern Rüebli.
 > *Rabbits like eating carrots.*
 
+**Phrases & Expressions:**
+- **Hasen fressen gern Rüebli** — *Rabbits like eating carrots* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

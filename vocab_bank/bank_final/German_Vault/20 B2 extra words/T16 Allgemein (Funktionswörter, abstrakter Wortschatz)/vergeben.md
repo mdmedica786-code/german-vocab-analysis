@@ -31,6 +31,11 @@ status: "new"
 > Die Stelle wurde bereits vergeben.
 > *The position has already been filled.*
 
+**Phrases & Expressions:**
+- **einen Preis vergeben** — *to award; to assign; to forgive*
+- **eine Stelle vergeben** — *to award; to assign; to forgive*
+- **jemandem vergeben** — *to award; to assign; to forgive*
+
 **Collocations**
 - einen Preis vergeben
 - eine Stelle vergeben

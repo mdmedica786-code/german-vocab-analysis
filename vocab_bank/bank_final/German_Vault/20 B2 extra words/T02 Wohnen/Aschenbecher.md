@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Balkon steht ein Aschenbecher.
 > *There is an ashtray on the balcony.*
 
+**Phrases & Expressions:**
+- **den Aschenbecher leeren** — *ashtray*
+- **ein voller Aschenbecher** — *ashtray*
+- **Aschenbecher auf dem Tisch** — *ashtray*
+
 **Collocations**
 - den Aschenbecher leeren
 - ein voller Aschenbecher

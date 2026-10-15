@@ -29,6 +29,11 @@ status: "new"
 > Er sah vom Turm in die Tiefe hinab.
 > *He looked down from the tower into the depths.*
 
+**Phrases & Expressions:**
+- **den Berg hinab** — *down; downwards*
+- **die Treppe hinab** — *down; downwards*
+- **hinab ins Tal** — *down; downwards*
+
 **Collocations**
 - den Berg hinab
 - die Treppe hinab

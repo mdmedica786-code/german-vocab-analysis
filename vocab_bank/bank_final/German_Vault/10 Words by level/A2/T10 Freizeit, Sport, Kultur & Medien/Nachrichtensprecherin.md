@@ -34,6 +34,9 @@ status: "new"
 > Die Nachrichtensprecherin begrüßt die Zuschauer.
 > *The newsreader welcomes the viewers.*
 
+**Phrases & Expressions:**
+- **Die Nachrichtensprecherin begrüßt die Zuschauer** — *The newsreader welcomes the viewers* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!)
 <!-- bank:end -->
 

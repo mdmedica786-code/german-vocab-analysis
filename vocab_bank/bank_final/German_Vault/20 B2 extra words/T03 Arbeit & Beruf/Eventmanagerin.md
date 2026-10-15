@@ -30,6 +30,11 @@ status: "new"
 > Die Eventmanagerin organisiert das Konzert.
 > *The event manager organises the concert.*
 
+**Phrases & Expressions:**
+- **als Eventmanagerin arbeiten** — *event manager (female)*
+- **eine erfahrene Eventmanagerin** — *event manager (female)*
+- **die Eventmanagerin kontaktieren** — *event manager (female)*
+
 **Collocations**
 - als Eventmanagerin arbeiten
 - eine erfahrene Eventmanagerin

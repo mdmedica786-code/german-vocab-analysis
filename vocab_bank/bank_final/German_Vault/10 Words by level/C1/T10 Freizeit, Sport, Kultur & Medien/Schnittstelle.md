@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Schnittstelle verbindet beide Programme.
 > *The interface connects both programmes.*
+
+**Phrases & Expressions:**
+- **Die Schnittstelle verbindet beide Programme** — *The interface connects both programmes* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

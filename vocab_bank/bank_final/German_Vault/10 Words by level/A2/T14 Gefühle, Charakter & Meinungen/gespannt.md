@@ -31,6 +31,9 @@ status: "new"
 > Ich bin gespannt, wer bei diesem Spiel gewinnt.
 > *I'm curious who will win this game.*
 
+**Phrases & Expressions:**
+- **Ich bin gespannt, wer bei diesem Spiel gewinnt** — *I'm curious who will win this game* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 6c (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

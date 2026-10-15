@@ -35,6 +35,13 @@ status: "new"
 > Kommst du mit? - Nein, ich habe keine Lust.
 > *Are you coming? - No, I don't feel like it.*
 
+**Phrases & Expressions:**
+- **keine Lust ...** — no desire; not in the mood *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · A2)*
+- **Hättest du Lust, ... zu ...?** — Would you like to ...? *([[B1-05 Vorschläge machen und darauf reagieren|Vorschlag machen]] · B1)*
+- **Darauf habe ich richtig Lust.** — I really feel like doing that. *([[B1-05 Vorschläge machen und darauf reagieren|Vorschlag annehmen]] · B1)*
+- **Ich habe weder Zeit noch Lust.** — I have neither time nor desire. *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Verneinung verbinden]] · B1)*
+- **Hast du Lust, am Samstag bei mir zu feiern?** — Would you like to celebrate at my place on Saturday? *([[B1-18 Einladen, zusagen und absagen|Einladen]] · B1)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden) · Goethe word list A2
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Nach dem Regen gab es Hochwasser.
 > *After the rain there was flooding.*
 
+**Phrases & Expressions:**
+- **Nach dem Regen gab es Hochwasser** — *After the rain there was flooding* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

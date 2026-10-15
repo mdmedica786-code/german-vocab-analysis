@@ -34,6 +34,9 @@ status: "new"
 > Du musst unbedingt die Bremsen kontrollieren lassen.
 > *You absolutely must have the brakes checked.*
 
+**Phrases & Expressions:**
+- **Du musst unbedingt die Bremsen kontrollieren lassen** — *You absolutely must have the brakes checked* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Sturmflut überschwemmte die Küstenstraße.
 > *The storm surge flooded the coastal road.*
 
+**Phrases & Expressions:**
+- **vor einer Sturmflut warnen** — *storm surge*
+- **eine schwere Sturmflut** — *storm surge*
+- **Sturmflut an der Nordsee** — *storm surge*
+
 **Collocations**
 - vor einer Sturmflut warnen
 - eine schwere Sturmflut

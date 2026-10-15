@@ -33,6 +33,11 @@ status: "new"
 > Die Wiederverwertung von Glas spart Energie.
 > *The recycling of glass saves energy.*
 
+**Phrases & Expressions:**
+- **zur Wiederverwertung** — *recycling; reuse*
+- **Wiederverwertung von Abfällen** — *recycling; reuse*
+- **Wiederverwertung fördern** — *recycling; reuse*
+
 **Collocations**
 - zur Wiederverwertung
 - Wiederverwertung von Abfällen

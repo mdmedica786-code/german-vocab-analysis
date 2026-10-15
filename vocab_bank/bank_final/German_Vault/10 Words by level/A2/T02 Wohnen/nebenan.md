@@ -31,6 +31,9 @@ status: "new"
 > Das ist José. Er wohnt nebenan.
 > *This is José. He lives next door.*
 
+**Phrases & Expressions:**
+- **Das ist José. Er wohnt nebenan** — *This is José. He lives next door* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12c (Zusammen leben) · Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Mit dem Verlängerungskabel kommt man bis zur Terrasse.
 > *With the extension cable you can reach the terrace.*
 
+**Phrases & Expressions:**
+- **ein Verlängerungskabel benutzen** — *extension cable*
+- **ein langes Verlängerungskabel** — *extension cable*
+- **Kabel verlängern** — *extension cable*
+
 **Collocations**
 - ein Verlängerungskabel benutzen
 - ein langes Verlängerungskabel

@@ -33,6 +33,13 @@ status: "new"
 > Er hat mir für den alten Wagen noch 800 Euro geboten.
 > *He offered me another 800 euros for the old car.*
 
+**Phrases & Expressions:**
+- **Als Entschädigung bieten wir Ihnen ... an.** — As compensation we offer you ... *([[B2-04 Beschwerde und Reklamation|Lösung anbieten]] · B2)*
+- **Hilfe bieten** — *to offer; to bid*
+- **eine Chance bieten** — *to offer; to bid*
+- **einen Preis bieten** — *to offer; to bid*
+- **sich bieten** — *to offer; to bid*
+
 **Collocations**
 - Hilfe bieten
 - eine Chance bieten

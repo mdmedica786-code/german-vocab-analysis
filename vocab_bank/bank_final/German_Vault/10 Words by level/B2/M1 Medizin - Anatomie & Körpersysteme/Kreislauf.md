@@ -33,6 +33,12 @@ status: "new"
 > Der Kreislauf des Patienten ist stabil.
 > *The patient's circulation is stable.*
 
+**Phrases & Expressions:**
+- **den Kreislauf stabilisieren** — *circulation; cycle*
+- **der Kreislauf kollabiert** — *circulation; cycle*
+- **den Kreislauf anregen** — *circulation; cycle*
+- **Herz und Kreislauf** — *circulation; cycle*
+
 **Collocations**
 - den Kreislauf stabilisieren
 - der Kreislauf kollabiert

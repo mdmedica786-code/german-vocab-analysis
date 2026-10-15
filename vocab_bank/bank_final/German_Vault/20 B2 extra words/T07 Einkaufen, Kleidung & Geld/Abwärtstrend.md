@@ -33,6 +33,11 @@ status: "new"
 > Die Aktie zeigt seit Wochen einen Abwärtstrend.
 > *The share has shown a downward trend for weeks.*
 
+**Phrases & Expressions:**
+- **ein Abwärtstrend setzt ein** — *downward trend*
+- **den Abwärtstrend stoppen** — *downward trend*
+- **im Abwärtstrend sein** — *downward trend*
+
 **Collocations**
 - ein Abwärtstrend setzt ein
 - den Abwärtstrend stoppen

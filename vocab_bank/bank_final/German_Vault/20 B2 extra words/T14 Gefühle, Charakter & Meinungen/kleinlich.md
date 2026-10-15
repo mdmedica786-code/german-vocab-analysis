@@ -29,6 +29,11 @@ status: "new"
 > Sei nicht so kleinlich wegen ein paar Euro!
 > *Don't be so petty about a few euros!*
 
+**Phrases & Expressions:**
+- **kleinlich sein** — *petty; stingy*
+- **kleinlich wirken** — *petty; stingy*
+- **ein kleinlicher Mensch** — *petty; stingy*
+
 **Collocations**
 - kleinlich sein
 - kleinlich wirken

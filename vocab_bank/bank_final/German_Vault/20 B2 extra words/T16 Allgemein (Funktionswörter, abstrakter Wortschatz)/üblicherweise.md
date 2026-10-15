@@ -29,6 +29,11 @@ status: "new"
 > Üblicherweise beginnt der Kurs um neun Uhr.
 > *Normally the course starts at nine o'clock.*
 
+**Phrases & Expressions:**
+- **üblicherweise gilt** — *usually; normally*
+- **üblicherweise geschieht** — *usually; normally*
+- **wie üblich** — *usually; normally*
+
 **Collocations**
 - üblicherweise gilt
 - üblicherweise geschieht

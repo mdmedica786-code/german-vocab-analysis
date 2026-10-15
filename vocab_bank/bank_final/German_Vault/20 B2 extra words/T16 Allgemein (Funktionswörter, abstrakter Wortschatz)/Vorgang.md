@@ -33,6 +33,11 @@ status: "new"
 > Der Vorgang wird im Computer gespeichert.
 > *The process is saved in the computer.*
 
+**Phrases & Expressions:**
+- **ein komplizierter Vorgang** — *process; procedure; incident*
+- **einen Vorgang beschreiben** — *process; procedure; incident*
+- **natürlicher Vorgang** — *process; procedure; incident*
+
 **Collocations**
 - ein komplizierter Vorgang
 - einen Vorgang beschreiben

@@ -35,6 +35,9 @@ status: "new"
 > Ist hier in der Nähe ein Briefkasten?
 > *Is there a postbox near here?*
 
+**Phrases & Expressions:**
+- **Ist hier in der Nähe ein Briefkasten** — *Is there a postbox near here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 6c (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

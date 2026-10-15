@@ -34,6 +34,9 @@ status: "new"
 > Ich rufe dich vom Festnetz aus an.
 > *I will call you from the landline.*
 
+**Phrases & Expressions:**
+- **Ich rufe dich vom Festnetz aus an** — *I will call you from the landline* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

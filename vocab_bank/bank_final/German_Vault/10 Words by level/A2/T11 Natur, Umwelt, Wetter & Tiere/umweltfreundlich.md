@@ -30,6 +30,9 @@ status: "new"
 > Das Fahrrad ist ein umweltfreundliches Verkehrsmittel.
 > *The bicycle is an environmentally friendly means of transport.*
 
+**Phrases & Expressions:**
+- **Das Fahrrad ist ein umweltfreundliches Verkehrsmittel** — *The bicycle is an environmentally friendly means of transport* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil)
 <!-- bank:end -->
 

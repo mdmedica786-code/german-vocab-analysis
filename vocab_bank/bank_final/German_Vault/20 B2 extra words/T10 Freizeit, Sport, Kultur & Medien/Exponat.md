@@ -33,6 +33,11 @@ status: "new"
 > Das schönste Exponat im Museum ist eine alte Uhr.
 > *The most beautiful exhibit in the museum is an old clock.*
 
+**Phrases & Expressions:**
+- **ein Exponat ausstellen** — *exhibit*
+- **ein wertvolles Exponat** — *exhibit*
+- **Exponate im Museum** — *exhibit*
+
 **Collocations**
 - ein Exponat ausstellen
 - ein wertvolles Exponat

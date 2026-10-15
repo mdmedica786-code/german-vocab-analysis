@@ -31,6 +31,12 @@ status: "new"
 > Ich habe leider nur wenig verstanden.
 > *Unfortunately I only understood a little.*
 
+**Phrases & Expressions:**
+- **ein wenig** — a little; a bit *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+- **wenig später** — shortly afterwards *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Ich wohne allein und habe wenig Unterstützung.** — I live alone and have little support. *([[FSP-05 Familien- und Sozialanamnese|Patient: Lebensumstände]] · B1)*
+- **Ein Schlaganfall bedeutet, dass ein Teil des Gehirns zu wenig Blut bekommt.** — A stroke means that part of the brain gets too little blood. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

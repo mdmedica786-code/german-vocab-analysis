@@ -33,6 +33,9 @@ status: "new"
 > Vorsicht, das Messer ist scharf.
 > *Careful, the knife is sharp.*
 
+**Phrases & Expressions:**
+- **Vorsicht, das Messer ist scharf** — *Careful, the knife is sharp* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 10 ÜB (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

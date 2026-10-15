@@ -31,6 +31,9 @@ status: "new"
 > Meine Lernhelferin kommt jeden Dienstag.
 > *My tutor comes every Tuesday.*
 
+**Phrases & Expressions:**
+- **Meine Lernhelferin kommt jeden Dienstag** — *My tutor comes every Tuesday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3c (Gelernt ist gelernt!)
 <!-- bank:end -->
 

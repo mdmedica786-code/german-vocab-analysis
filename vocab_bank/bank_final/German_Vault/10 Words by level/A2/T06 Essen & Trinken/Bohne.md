@@ -34,6 +34,9 @@ status: "new"
 > Hans isst nicht gern Bohnen.
 > *Hans does not like eating beans.*
 
+**Phrases & Expressions:**
+- **Hans isst nicht gern Bohnen** — *Hans does not like eating beans* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Ein Erdrutsch hat die Straße blockiert.
 > *A landslide has blocked the road.*
 
+**Phrases & Expressions:**
+- **von einem Erdrutsch verschüttet** — *landslide*
+- **einen Erdrutsch auslösen** — *landslide*
+- **Erdrutsch nach Starkregen** — *landslide*
+
 **Collocations**
 - von einem Erdrutsch verschüttet
 - einen Erdrutsch auslösen

@@ -33,6 +33,14 @@ status: "new"
 > Der Eingriff dauert etwa eine Stunde.
 > *The procedure takes about an hour.*
 
+**Phrases & Expressions:**
+- **Wir empfehlen diesen Eingriff, weil ...** — We recommend this procedure because ... *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Notwendigkeit erklären]] · B2)*
+- **Der Eingriff dauert etwa eine Stunde.** — The procedure takes about an hour. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Ablauf erklären]] · B1)*
+- **Zuerst bekommen Sie die Narkose, dann beginnen wir mit dem Eingriff.** — First you will receive the anaesthetic, then we begin the procedure. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Ablauf erklären]] · B2)*
+- **Wie bei jedem Eingriff gibt es gewisse Risiken.** — As with every procedure there are certain risks. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Risiken nennen]] · B2)*
+- **Sind Sie damit einverstanden, dass wir den Eingriff durchführen?** — Do you consent to us carrying out the procedure? *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Einwilligung einholen]] · B2)*
+- **Nach dem Eingriff bekommen Sie ausreichend Schmerzmittel.** — After the procedure you will receive sufficient painkillers. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Schmerztherapie erklären]] · B2)*
+
 **Collocations**
 - ein operativer Eingriff
 - ein kleiner Eingriff

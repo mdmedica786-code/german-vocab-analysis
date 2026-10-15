@@ -31,6 +31,14 @@ status: "new"
 > Ich kann Sie kaum verstehen. Bitte sprechen Sie lauter.
 > *I can hardly understand you. Please speak louder.*
 
+**Phrases & Expressions:**
+- **kaum noch** — hardly any more *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **kaum mehr** — hardly any more *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **ich kann es kaum erwarten** — I can hardly wait *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **Ich kann kaum noch arbeiten.** — I can hardly work any more. *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Patient: Einschränkung schildern]] · A2)*
+- **Ist der Schmerz erträglich oder kaum auszuhalten?** — Is the pain bearable or hardly endurable? *([[FSP-03 Schmerzanamnese|Intensität erfragen]] · B2)*
+- **kaum zu glauben** — *barely*
+
 **Collocations**
 - kaum zu glauben
 - kaum noch

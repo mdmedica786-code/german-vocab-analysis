@@ -34,6 +34,12 @@ status: "new"
 > Meine Leistungen in der Schule sind ganz gut.
 > *My grades at school are quite good.*
 
+**Phrases & Expressions:**
+- **eine gute Leistung** — *performance; achievement; service*
+- **Leistung bringen** — *performance; achievement; service*
+- **Leistungen erbringen** — *performance; achievement; service*
+- **Leistungen der Krankenkasse** — *performance; achievement; service*
+
 **Collocations**
 - eine gute Leistung
 - Leistung bringen

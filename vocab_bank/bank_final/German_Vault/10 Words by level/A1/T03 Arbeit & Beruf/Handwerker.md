@@ -35,6 +35,9 @@ status: "new"
 > Morgen sind bei uns die Handwerker.
 > *The tradespeople are coming to our place tomorrow.*
 
+**Phrases & Expressions:**
+- **Morgen sind bei uns die Handwerker** — *The tradespeople are coming to our place tomorrow* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a ÜB (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

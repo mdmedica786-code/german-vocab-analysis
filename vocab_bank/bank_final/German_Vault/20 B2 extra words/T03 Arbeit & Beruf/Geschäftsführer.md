@@ -33,6 +33,11 @@ status: "new"
 > Der Geschäftsführer unterschrieb den Vertrag persönlich.
 > *The managing director signed the contract personally.*
 
+**Phrases & Expressions:**
+- **Geschäftsführer einer GmbH** — *managing director*
+- **den Geschäftsführer sprechen** — *managing director*
+- **der geschäftsführende Gesellschafter** — *managing director*
+
 **Collocations**
 - Geschäftsführer einer GmbH
 - den Geschäftsführer sprechen

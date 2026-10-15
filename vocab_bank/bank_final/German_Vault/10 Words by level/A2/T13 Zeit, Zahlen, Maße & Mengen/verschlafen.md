@@ -32,6 +32,9 @@ status: "new"
 > Ich habe heute leider verschlafen.
 > *Unfortunately I overslept today.*
 
+**Phrases & Expressions:**
+- **Ich habe heute leider verschlafen** — *Unfortunately I overslept today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!)
 <!-- bank:end -->
 

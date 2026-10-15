@@ -32,6 +32,9 @@ status: "new"
 > Die Mannschaft siegte mit 2:0.
 > *The team won 2-0.*
 
+**Phrases & Expressions:**
+- **Die Mannschaft siegte mit 2:0** — *The team won 2-0* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

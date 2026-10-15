@@ -35,6 +35,9 @@ status: "new"
 > Wo ist der Ausgang?
 > *Where is the exit?*
 
+**Phrases & Expressions:**
+- **Wo ist der Ausgang** — *Where is the exit* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 4b ÜB (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Der Kopierer ist schon wieder kaputt.
 > *The photocopier is broken again.*
 
+**Phrases & Expressions:**
+- **Der Kopierer ist schon wieder kaputt** — *The photocopier is broken again* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

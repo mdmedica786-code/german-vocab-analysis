@@ -33,6 +33,12 @@ status: "new"
 > Ich kann die Datei leider nicht öffnen.
 > *Unfortunately I cannot open the file.*
 
+**Phrases & Expressions:**
+- **Darf ich das Fenster öffnen?** — May I open the window? *([[B1-07 Bitten und höflich nachfragen|Um Erlaubnis bitten]] · B1)*
+- **eine Datei öffnen** — *to open*
+- **die Tür öffnen** — *to open*
+- **ein Konto öffnen** — *to open*
+
 **Collocations**
 - eine Datei öffnen
 - die Tür öffnen

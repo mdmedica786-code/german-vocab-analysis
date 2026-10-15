@@ -33,6 +33,11 @@ status: "new"
 > Als Tierfreund hat er drei Katzen und einen Hund.
 > *As an animal lover he has three cats and a dog.*
 
+**Phrases & Expressions:**
+- **ein großer Tierfreund** — *animal lover (male)*
+- **ein echter Tierfreund** — *animal lover (male)*
+- **Tierfreunde einladen** — *animal lover (male)*
+
 **Collocations**
 - ein großer Tierfreund
 - ein echter Tierfreund

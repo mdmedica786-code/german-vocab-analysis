@@ -34,6 +34,9 @@ status: "new"
 > Das Mittagessen ist bei uns die Hauptmahlzeit.
 > *Lunch is our main meal.*
 
+**Phrases & Expressions:**
+- **Das Mittagessen ist bei uns die Hauptmahlzeit** — *Lunch is our main meal* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

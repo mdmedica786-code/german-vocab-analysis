@@ -33,6 +33,11 @@ status: "new"
 > Die Verbraucherzentrale berät kostenlos bei Vertragsproblemen.
 > *The consumer advice centre gives free advice on contract problems.*
 
+**Phrases & Expressions:**
+- **sich an die Verbraucherzentrale wenden** — *consumer advice centre*
+- **bei der Verbraucherzentrale** — *consumer advice centre*
+- **die Verbraucherzentrale warnt** — *consumer advice centre*
+
 **Collocations**
 - sich an die Verbraucherzentrale wenden
 - bei der Verbraucherzentrale

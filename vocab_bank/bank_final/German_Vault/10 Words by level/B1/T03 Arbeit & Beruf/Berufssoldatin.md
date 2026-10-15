@@ -34,6 +34,9 @@ status: "new"
 > Meine Cousine ist Berufssoldatin.
 > *My cousin is a professional soldier.*
 
+**Phrases & Expressions:**
+- **Meine Cousine ist Berufssoldatin** — *My cousin is a professional soldier* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

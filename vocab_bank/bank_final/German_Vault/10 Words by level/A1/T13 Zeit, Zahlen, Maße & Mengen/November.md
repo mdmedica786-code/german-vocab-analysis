@@ -35,6 +35,9 @@ status: "new"
 > Im November wird es früh dunkel.
 > *It gets dark early in November.*
 
+**Phrases & Expressions:**
+- **Im November wird es früh dunkel** — *It gets dark early in November* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

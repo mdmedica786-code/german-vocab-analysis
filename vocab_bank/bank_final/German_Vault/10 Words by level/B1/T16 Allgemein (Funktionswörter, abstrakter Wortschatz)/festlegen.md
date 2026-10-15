@@ -34,6 +34,11 @@ status: "new"
 > Ich möchte mich noch nicht festlegen.
 > *I don't want to commit myself yet.*
 
+**Phrases & Expressions:**
+- **fest davon überzeugt sein, dass ...** — to be firmly convinced that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Ich umarme dich ganz fest.** — I give you a big hug. *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+- **Lassen Sie uns gemeinsam ein realistisches Ziel festlegen.** — Let us set a realistic goal together. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Ziele vereinbaren]] · B2)*
+
 **Source:** Netzwerk neu B1 K11 8b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

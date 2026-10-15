@@ -29,6 +29,11 @@ status: "new"
 > Er hat in kurzer Zeit beachtliche Fortschritte gemacht.
 > *He made considerable progress in a short time.*
 
+**Phrases & Expressions:**
+- **ein beachtliches Ergebnis** — *considerable; remarkable*
+- **beachtliche Fortschritte** — *considerable; remarkable*
+- **eine beachtliche Leistung** — *considerable; remarkable*
+
 **Collocations**
 - ein beachtliches Ergebnis
 - beachtliche Fortschritte

@@ -33,6 +33,11 @@ status: "new"
 > Die Abgrenzung zwischen beiden Begriffen ist nicht leicht.
 > *The distinction between the two terms is not easy.*
 
+**Phrases & Expressions:**
+- **eine klare Abgrenzung** — *distinction; demarcation*
+- **Abgrenzung von + Dat.** — *distinction; demarcation*
+- **zur Abgrenzung** — *distinction; demarcation*
+
 **Collocations**
 - eine klare Abgrenzung
 - Abgrenzung von + Dat.

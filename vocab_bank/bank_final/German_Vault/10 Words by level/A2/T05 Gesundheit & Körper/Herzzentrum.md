@@ -34,6 +34,9 @@ status: "new"
 > Der Patient wurde ins Herzzentrum verlegt.
 > *The patient was transferred to the cardiac centre.*
 
+**Phrases & Expressions:**
+- **Der Patient wurde ins Herzzentrum verlegt** — *The patient was transferred to the cardiac centre* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

@@ -35,6 +35,14 @@ status: "new"
 > Ich habe Schmerzen in der Brust.
 > *I have pain in my chest.*
 
+**Phrases & Expressions:**
+- **Ich habe einen stechenden Schmerz in der Brust.** — I have a stabbing pain in my chest. *([[FSP-03 Schmerzanamnese|Patient: Schmerz beschreiben]] · A2)*
+- **Haben Sie Schmerzen oder Druck in der Brust?** — Do you have pain or pressure in your chest? *([[FSP-06 Systemanamnese (Organsysteme)|Herz-Kreislauf]] · B1)*
+- **Schmerzen in der Brust** — *chest; breast*
+- **Druck auf der Brust** — *chest; breast*
+- **die Brust abhören** — *chest; breast*
+- **Stiche in der Brust** — *chest; breast*
+
 **Collocations**
 - Schmerzen in der Brust
 - Druck auf der Brust

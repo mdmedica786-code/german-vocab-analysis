@@ -32,6 +32,9 @@ status: "new"
 > Er signalisiert Interesse an der Stelle.
 > *He signals interest in the position.*
 
+**Phrases & Expressions:**
+- **Er signalisiert Interesse an der Stelle** — *He signals interest in the position* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

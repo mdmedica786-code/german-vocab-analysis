@@ -30,6 +30,9 @@ status: "new"
 > Suchen Sie das passende Bild.
 > *Find the matching picture.*
 
+**Phrases & Expressions:**
+- **Suchen Sie das passende Bild** — *Find the matching picture* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 3 (In Hamburg)
 <!-- bank:end -->
 

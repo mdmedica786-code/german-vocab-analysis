@@ -31,6 +31,9 @@ status: "new"
 > Hier ist niemand.
 > *There is nobody here.*
 
+**Phrases & Expressions:**
+- **Hier ist niemand** — *There is nobody here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

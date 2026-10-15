@@ -31,6 +31,9 @@ status: "new"
 > Fahren Sie bitte noch ein Stück vorwärts.
 > *Please drive forward a bit.*
 
+**Phrases & Expressions:**
+- **Fahren Sie bitte noch ein Stück vorwärts** — *Please drive forward a bit* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil) · Goethe word list A2
 <!-- bank:end -->
 

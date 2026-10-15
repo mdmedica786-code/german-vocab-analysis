@@ -34,6 +34,9 @@ status: "new"
 > Die Stadtführung beginnt um zehn Uhr.
 > *The city tour begins at ten o'clock.*
 
+**Phrases & Expressions:**
+- **Die Stadtführung beginnt um zehn Uhr** — *The city tour begins at ten o'clock* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 3a (Ab in den Urlaub!)
 <!-- bank:end -->
 

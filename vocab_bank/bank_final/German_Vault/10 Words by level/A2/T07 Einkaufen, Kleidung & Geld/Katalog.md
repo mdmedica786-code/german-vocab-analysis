@@ -35,6 +35,9 @@ status: "new"
 > Ich habe mir ein Kleid aus dem Katalog bestellt.
 > *I ordered a dress from the catalogue.*
 
+**Phrases & Expressions:**
+- **Ich habe mir ein Kleid aus dem Katalog bestellt** — *I ordered a dress from the catalogue* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

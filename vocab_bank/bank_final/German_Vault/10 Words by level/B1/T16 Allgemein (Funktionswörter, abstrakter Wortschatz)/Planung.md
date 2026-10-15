@@ -35,6 +35,9 @@ status: "new"
 > Unsere Planung für das Sommerfest steht schon lange.
 > *Our planning for the summer party has been in place for a long time.*
 
+**Phrases & Expressions:**
+- **Unsere Planung für das Sommerfest steht schon lange** — *Our planning for the summer party has been in place for a long time* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

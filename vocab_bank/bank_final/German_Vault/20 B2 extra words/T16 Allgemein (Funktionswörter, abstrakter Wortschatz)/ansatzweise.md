@@ -29,6 +29,11 @@ status: "new"
 > Das Problem wurde bisher nur ansatzweise gelöst.
 > *The problem has so far only been solved in part.*
 
+**Phrases & Expressions:**
+- **nur ansatzweise** — *to some extent; at least in part*
+- **ansatzweise erkennbar** — *to some extent; at least in part*
+- **ansatzweise vorhanden** — *to some extent; at least in part*
+
 **Collocations**
 - nur ansatzweise
 - ansatzweise erkennbar

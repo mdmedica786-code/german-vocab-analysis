@@ -33,6 +33,11 @@ status: "new"
 > Er musste seine Identität mit dem Ausweis nachweisen.
 > *He had to prove his identity with his ID.*
 
+**Phrases & Expressions:**
+- **seine Identität nachweisen** — *identity*
+- **kulturelle Identität** — *identity*
+- **Identität verlieren** — *identity*
+
 **Collocations**
 - seine Identität nachweisen
 - kulturelle Identität

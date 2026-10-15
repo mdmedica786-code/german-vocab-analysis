@@ -34,6 +34,9 @@ status: "new"
 > Wir haben ein Solarpanel auf dem Dach.
 > *We have a solar panel on the roof.*
 
+**Phrases & Expressions:**
+- **Wir haben ein Solarpanel auf dem Dach** — *We have a solar panel on the roof* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

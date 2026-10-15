@@ -32,6 +32,11 @@ status: "new"
 > Wegen der Baustelle ist der Verkehr stark eingeschränkt.
 > *Because of the construction site, traffic is severely restricted.*
 
+**Phrases & Expressions:**
+- **sich einschränken** — *to restrict; to limit*
+- **den Verbrauch einschränken** — *to restrict; to limit*
+- **die Freiheit einschränken** — *to restrict; to limit*
+
 **Collocations**
 - sich einschränken
 - den Verbrauch einschränken

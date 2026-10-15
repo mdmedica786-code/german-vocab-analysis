@@ -34,6 +34,9 @@ status: "new"
 > Im Hauptteil nennt man die wichtigsten Argumente.
 > *In the main part you state the most important arguments.*
 
+**Phrases & Expressions:**
+- **Im Hauptteil nennt man die wichtigsten Argumente** — *In the main part you state the most important arguments* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 10b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

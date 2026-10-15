@@ -33,6 +33,11 @@ status: "new"
 > Die Tagung findet im Mai in Berlin statt.
 > *The conference takes place in Berlin in May.*
 
+**Phrases & Expressions:**
+- **an einer Tagung teilnehmen** — *conference; meeting; session*
+- **eine Tagung veranstalten** — *conference; meeting; session*
+- **auf einer Tagung** — *conference; meeting; session*
+
 **Collocations**
 - an einer Tagung teilnehmen
 - eine Tagung veranstalten

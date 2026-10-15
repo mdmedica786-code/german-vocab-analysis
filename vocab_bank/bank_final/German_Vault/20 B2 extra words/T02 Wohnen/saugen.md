@@ -31,6 +31,11 @@ status: "new"
 > Ich muss noch das Wohnzimmer saugen.
 > *I still have to vacuum the living room.*
 
+**Phrases & Expressions:**
+- **Staub saugen** — *to suck; to vacuum*
+- **an etwas saugen** — *to suck; to vacuum*
+- **Flüssigkeit aufsaugen** — *to suck; to vacuum*
+
 **Collocations**
 - Staub saugen
 - an etwas saugen

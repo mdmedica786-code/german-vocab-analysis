@@ -31,6 +31,11 @@ status: "new"
 > Die Rettungskräfte konnten die Verletzten bergen.
 > *The rescue workers were able to recover the injured.*
 
+**Phrases & Expressions:**
+- **Verletzte bergen** — *to rescue; to salvage; to conceal*
+- **ein Risiko bergen** — *to rescue; to salvage; to conceal*
+- **eine Gefahr bergen** — *to rescue; to salvage; to conceal*
+
 **Collocations**
 - Verletzte bergen
 - ein Risiko bergen

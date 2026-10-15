@@ -33,6 +33,9 @@ status: "new"
 > Dieser Busfahrer verursachte den Unfall.
 > *This bus driver caused the accident.*
 
+**Phrases & Expressions:**
+- **Er soll den Unfall verursacht haben.** — He is said to have caused the accident. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Distanzierung]] · B2)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

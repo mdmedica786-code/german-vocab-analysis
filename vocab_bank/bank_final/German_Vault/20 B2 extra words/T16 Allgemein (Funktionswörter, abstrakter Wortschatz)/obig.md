@@ -29,6 +29,11 @@ status: "new"
 > Bitte beachten Sie die obigen Hinweise.
 > *Please note the above instructions.*
 
+**Phrases & Expressions:**
+- **die obigen Angaben** — *above; above-mentioned*
+- **der obige Text** — *above; above-mentioned*
+- **obiges Beispiel** — *above; above-mentioned*
+
 **Collocations**
 - die obigen Angaben
 - der obige Text

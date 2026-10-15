@@ -34,6 +34,9 @@ status: "new"
 > Fernfahrer sind oft wochenlang unterwegs.
 > *Long-distance lorry drivers are often away for weeks.*
 
+**Phrases & Expressions:**
+- **Fernfahrer sind oft wochenlang unterwegs** — *Long-distance lorry drivers are often away for weeks* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

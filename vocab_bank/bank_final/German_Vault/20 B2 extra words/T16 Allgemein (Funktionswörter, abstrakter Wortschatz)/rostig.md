@@ -29,6 +29,11 @@ status: "new"
 > Das Fahrrad ist alt und rostig.
 > *The bicycle is old and rusty.*
 
+**Phrases & Expressions:**
+- **ein rostiger Nagel** — *rusty*
+- **rostig sein** — *rusty*
+- **rostige Kette** — *rusty*
+
 **Collocations**
 - ein rostiger Nagel
 - rostig sein

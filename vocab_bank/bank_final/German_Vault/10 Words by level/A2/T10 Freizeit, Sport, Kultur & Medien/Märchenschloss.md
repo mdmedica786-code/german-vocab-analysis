@@ -31,6 +31,9 @@ status: "new"
 > Das Märchenschloss liegt auf einem Berg.
 > *The fairytale castle stands on a mountain.*
 
+**Phrases & Expressions:**
+- **Das Märchenschloss liegt auf einem Berg** — *The fairytale castle stands on a mountain* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!)
 <!-- bank:end -->
 

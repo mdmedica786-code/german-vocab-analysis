@@ -34,6 +34,9 @@ status: "new"
 > Eine Ortsveränderung kann man mit „nach“ ausdrücken.
 > *A change of place can be expressed with “nach”.*
 
+**Phrases & Expressions:**
+- **Eine Ortsveränderung kann man mit „nach“ ausdrücken** — *A change of place can be expressed with “nach”* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 8a (Studium und Beruf)
 <!-- bank:end -->
 

@@ -32,6 +32,11 @@ status: "new"
 > Der Redner leitete geschickt zum nächsten Thema über.
 > *The speaker skilfully made the transition to the next topic.*
 
+**Phrases & Expressions:**
+- **zu etwas überleiten** — *to lead over; to make a transition*
+- **ein Thema überleiten** — *to lead over; to make a transition*
+- **geschickt überleiten** — *to lead over; to make a transition*
+
 **Collocations**
 - zu etwas überleiten
 - ein Thema überleiten

@@ -29,6 +29,11 @@ status: "new"
 > Mit forschem Schritt betrat sie den Saal.
 > *With a brisk step she entered the hall.*
 
+**Phrases & Expressions:**
+- **forsch auftreten** — *brisk; assertive*
+- **ein forscher Ton** — *brisk; assertive*
+- **forsch antworten** — *brisk; assertive*
+
 **Collocations**
 - forsch auftreten
 - ein forscher Ton

@@ -33,6 +33,11 @@ status: "new"
 > Für sein Alter zeigt er eine erstaunliche Reife.
 > *For his age he shows astonishing maturity.*
 
+**Phrases & Expressions:**
+- **geistige Reife** — *maturity; ripeness*
+- **Reife zeigen** — *maturity; ripeness*
+- **die Reife des Obstes** — *maturity; ripeness*
+
 **Collocations**
 - geistige Reife
 - Reife zeigen

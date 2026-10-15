@@ -29,6 +29,11 @@ status: "new"
 > Der alte Mann hat buschige Augenbrauen.
 > *The old man has bushy eyebrows.*
 
+**Phrases & Expressions:**
+- **buschige Augenbrauen** — *bushy*
+- **ein buschiger Schwanz** — *bushy*
+- **buschiges Haar** — *bushy*
+
 **Collocations**
 - buschige Augenbrauen
 - ein buschiger Schwanz

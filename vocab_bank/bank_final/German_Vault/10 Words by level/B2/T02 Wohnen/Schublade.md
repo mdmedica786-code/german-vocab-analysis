@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Schlüssel liegen in der Schublade.
 > *The keys are in the drawer.*
+
+**Phrases & Expressions:**
+- **Die Schlüssel liegen in der Schublade** — *The keys are in the drawer* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

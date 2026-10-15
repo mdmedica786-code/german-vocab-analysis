@@ -31,6 +31,9 @@ status: "new"
 > Der Himmel ist heute grau.
 > *The sky is grey today.*
 
+**Phrases & Expressions:**
+- **Der Himmel ist heute grau** — *The sky is grey today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 9a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

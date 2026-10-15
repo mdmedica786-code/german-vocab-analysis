@@ -33,6 +33,11 @@ status: "new"
 > Das Team belegt den ersten Rang.
 > *The team is ranked first.*
 
+**Phrases & Expressions:**
+- **den ersten Rang belegen** — *rank; position; tier*
+- **von hohem Rang** — *rank; position; tier*
+- **jemandem den Rang ablaufen** — *rank; position; tier*
+
 **Collocations**
 - den ersten Rang belegen
 - von hohem Rang

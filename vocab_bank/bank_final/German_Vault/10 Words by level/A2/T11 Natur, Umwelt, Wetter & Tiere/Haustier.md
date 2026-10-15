@@ -35,6 +35,9 @@ status: "new"
 > Hat deine Familie ein Haustier? − Ja, wir haben einen Hund.
 > *Does your family have a pet? – Yes, we have a dog.*
 
+**Phrases & Expressions:**
+- **Haben Sie Haustiere oder Kontakt zu Tieren?** — Do you have pets or contact with animals? *([[FSP-05 Familien- und Sozialanamnese|Haustiere und Umfeld]] · B1)*
+
 **Source:** Netzwerk neu A2 K10 10d (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

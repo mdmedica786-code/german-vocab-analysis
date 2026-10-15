@@ -35,6 +35,10 @@ status: "new"
 > Der Ort liegt am Meer.
 > *The village is by the sea.*
 
+**Phrases & Expressions:**
+- **an Ort und Stelle** — on the spot *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B2)*
+- **vor Ort** — on site *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B2)*
+
 **Source:** Netzwerk neu A1 K3 1d (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

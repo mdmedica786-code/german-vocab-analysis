@@ -34,6 +34,9 @@ status: "new"
 > Die Festspiele im Sommer ziehen viele Gäste an.
 > *The summer festival attracts many visitors.*
 
+**Phrases & Expressions:**
+- **Die Festspiele im Sommer ziehen viele Gäste an** — *The summer festival attracts many visitors* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 13a (Studium und Beruf)
 <!-- bank:end -->
 

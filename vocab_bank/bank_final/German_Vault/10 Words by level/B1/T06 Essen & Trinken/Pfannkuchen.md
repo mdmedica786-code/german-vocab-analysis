@@ -34,6 +34,9 @@ status: "new"
 > Zum Frühstück gibt es Pfannkuchen.
 > *There are pancakes for breakfast.*
 
+**Phrases & Expressions:**
+- **Zum Frühstück gibt es Pfannkuchen** — *There are pancakes for breakfast* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist)
 <!-- bank:end -->
 

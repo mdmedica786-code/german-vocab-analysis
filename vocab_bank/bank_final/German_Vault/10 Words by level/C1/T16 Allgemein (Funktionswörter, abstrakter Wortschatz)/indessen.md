@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Sie kochte; er deckte indessen den Tisch.
 > *She cooked; meanwhile he set the table.*
+
+**Phrases & Expressions:**
+- **Sie kochte; er deckte indessen den Tisch** — *She cooked; meanwhile he set the table* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

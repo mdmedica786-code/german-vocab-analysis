@@ -35,6 +35,13 @@ status: "new"
 > Ich hatte große Schwierigkeiten einen Parkplatz zu bekommen.
 > *I had great difficulty getting a parking space.*
 
+**Phrases & Expressions:**
+- **Haben Sie Schwierigkeiten beim Einschlafen oder Durchschlafen?** — Do you have difficulty falling asleep or staying asleep? *([[FSP-06 Systemanamnese (Organsysteme)|Psyche und Schlaf]] · B1)*
+- **Schwierigkeiten haben** — *difficulty*
+- **in Schwierigkeiten geraten** — *difficulty*
+- **auf Schwierigkeiten stoßen** — *difficulty*
+- **Schwierigkeiten bereiten** — *difficulty*
+
 **Collocations**
 - Schwierigkeiten haben
 - in Schwierigkeiten geraten

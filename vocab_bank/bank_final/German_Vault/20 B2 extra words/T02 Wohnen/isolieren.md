@@ -31,6 +31,11 @@ status: "new"
 > Die Fenster sind gut isoliert.
 > *The windows are well insulated.*
 
+**Phrases & Expressions:**
+- **ein Haus isolieren** — *to insulate; to isolate*
+- **sich isolieren** — *to insulate; to isolate*
+- **isoliert sein** — *to insulate; to isolate*
+
 **Collocations**
 - ein Haus isolieren
 - sich isolieren

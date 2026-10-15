@@ -31,6 +31,9 @@ status: "new"
 > Du kannst mit einer Regionalbahn fahren. Das ist billiger.
 > *You can take a regional train. That is cheaper.*
 
+**Phrases & Expressions:**
+- **Du kannst mit einer Regionalbahn fahren. Das ist billiger** — *You can take a regional train. That is cheaper* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

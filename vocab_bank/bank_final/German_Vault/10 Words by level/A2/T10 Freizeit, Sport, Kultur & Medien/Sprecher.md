@@ -34,6 +34,9 @@ status: "new"
 > Der Sprecher liest die Nachrichten vor.
 > *The speaker reads out the news.*
 
+**Phrases & Expressions:**
+- **Der Sprecher liest die Nachrichten vor** — *The speaker reads out the news* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 10a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

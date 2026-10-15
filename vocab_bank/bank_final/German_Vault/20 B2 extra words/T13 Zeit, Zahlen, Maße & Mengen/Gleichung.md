@@ -33,6 +33,11 @@ status: "new"
 > Die Gleichung hat zwei Lösungen.
 > *The equation has two solutions.*
 
+**Phrases & Expressions:**
+- **eine Gleichung lösen** — *equation*
+- **eine quadratische Gleichung** — *equation*
+- **eine Gleichung aufstellen** — *equation*
+
 **Collocations**
 - eine Gleichung lösen
 - eine quadratische Gleichung

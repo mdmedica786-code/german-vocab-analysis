@@ -33,6 +33,11 @@ status: "new"
 > Wir müssen die Kosten auf ein Minimum senken.
 > *We have to reduce costs to a minimum.*
 
+**Phrases & Expressions:**
+- **auf ein Minimum** — *minimum; lowest level*
+- **ein Minimum an** — *minimum; lowest level*
+- **das absolute Minimum** — *minimum; lowest level*
+
 **Collocations**
 - auf ein Minimum
 - ein Minimum an

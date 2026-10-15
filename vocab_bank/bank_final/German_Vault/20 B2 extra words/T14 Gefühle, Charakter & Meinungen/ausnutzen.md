@@ -32,6 +32,11 @@ status: "new"
 > Er nutzt seine Mitarbeiter schamlos aus.
 > *He shamelessly exploits his employees.*
 
+**Phrases & Expressions:**
+- **jemanden ausnutzen** — *to take advantage of; to exploit*
+- **eine Gelegenheit ausnutzen** — *to take advantage of; to exploit*
+- **die Situation ausnutzen** — *to take advantage of; to exploit*
+
 **Collocations**
 - jemanden ausnutzen
 - eine Gelegenheit ausnutzen

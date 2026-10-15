@@ -35,6 +35,9 @@ status: "new"
 > Die Produktion von Käse dauert oft viele Wochen.
 > *Cheese production often takes many weeks.*
 
+**Phrases & Expressions:**
+- **Die Produktion von Käse dauert oft viele Wochen** — *Cheese production often takes many weeks* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg) · Goethe word list B1
 <!-- bank:end -->
 

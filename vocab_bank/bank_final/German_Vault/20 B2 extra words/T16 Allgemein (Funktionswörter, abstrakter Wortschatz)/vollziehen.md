@@ -31,6 +31,11 @@ status: "new"
 > Der Wandel hat sich in kurzer Zeit vollzogen.
 > *The change took place in a short time.*
 
+**Phrases & Expressions:**
+- **sich vollziehen** — *to carry out; to take place*
+- **einen Schritt vollziehen** — *to carry out; to take place*
+- **die Trennung vollziehen** — *to carry out; to take place*
+
 **Collocations**
 - sich vollziehen
 - einen Schritt vollziehen

@@ -31,6 +31,9 @@ status: "new"
 > Das alltägliche Leben ist manchmal langweilig.
 > *Everyday life is sometimes boring.*
 
+**Phrases & Expressions:**
+- **Das alltägliche Leben ist manchmal langweilig** — *Everyday life is sometimes boring* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Sie ist erfolgreiche Unternehmerin.
 > *She is a successful businesswoman.*
 
+**Phrases & Expressions:**
+- **Sie ist erfolgreiche Unternehmerin** — *She is a successful businesswoman* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

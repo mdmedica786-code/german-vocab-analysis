@@ -35,6 +35,10 @@ status: "new"
 > Die Notaufnahme ist gleich hier links.
 > *The emergency room is right here on the left.*
 
+**Phrases & Expressions:**
+- **Ich habe bereits Erfahrung in der Notaufnahme gesammelt.** — I have already gained experience in the emergency department. *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Berufserfahrung beschreiben]] · B2)*
+- **Der Patient kam über den Rettungsdienst in die Notaufnahme.** — The patient came to the emergency department via the ambulance service. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Aufnahmeform nennen]] · B2)*
+
 **Source:** Netzwerk neu B1 K8 2a ÜB (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

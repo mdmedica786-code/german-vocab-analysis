@@ -33,6 +33,9 @@ status: "new"
 > Tut mir leid, ich habe die Anmeldefrist versäumt.
 > *I am sorry, I missed the registration deadline.*
 
+**Phrases & Expressions:**
+- **Tut mir leid, ich habe die Anmeldefrist versäumt** — *I am sorry, I missed the registration deadline* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3b ÜB (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

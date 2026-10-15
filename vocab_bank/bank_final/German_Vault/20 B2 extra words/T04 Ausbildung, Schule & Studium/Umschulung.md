@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Unfall machte er eine Umschulung zum Bürokaufmann.
 > *After the accident he retrained as an office clerk.*
 
+**Phrases & Expressions:**
+- **eine Umschulung machen** — *retraining*
+- **Umschulung beantragen** — *retraining*
+- **berufliche Umschulung** — *retraining*
+
 **Collocations**
 - eine Umschulung machen
 - Umschulung beantragen

@@ -35,6 +35,14 @@ status: "new"
 > Wir fahren für drei Tage nach Berlin.
 > *We're going to Berlin for three days.*
 
+**Phrases & Expressions:**
+- **in den letzten Tagen** — in the last few days *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **in den nächsten Tagen** — in the next few days *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **vor ein paar Tagen** — a few days ago *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **jeden Tag** — every day *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A1)*
+- **eines Tages** — one day *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **den ganzen Tag** — all day *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+
 **Source:** Netzwerk neu A1 K2 5b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

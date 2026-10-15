@@ -34,6 +34,9 @@ status: "new"
 > Die Intensität der Schmerzen nimmt zu.
 > *The intensity of the pain is increasing.*
 
+**Phrases & Expressions:**
+- **Die Intensität der Schmerzen nimmt zu** — *The intensity of the pain is increasing* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 8b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

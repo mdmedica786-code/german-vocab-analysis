@@ -35,6 +35,9 @@ status: "new"
 > In diesem Betrieb arbeiten zehn Leute.
 > *Ten people work in this company.*
 
+**Phrases & Expressions:**
+- **In diesem Betrieb arbeiten zehn Leute** — *Ten people work in this company* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

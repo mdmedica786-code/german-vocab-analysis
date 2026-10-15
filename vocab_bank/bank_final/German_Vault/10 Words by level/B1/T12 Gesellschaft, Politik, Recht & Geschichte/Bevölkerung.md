@@ -35,6 +35,9 @@ status: "new"
 > 11 % der Bevölkerung wurden nicht im Inland geboren.
 > *11% of the population were not born in the country.*
 
+**Phrases & Expressions:**
+- **11 % der Bevölkerung wurden nicht im Inland geboren** — *11% of the population were not born in the country* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

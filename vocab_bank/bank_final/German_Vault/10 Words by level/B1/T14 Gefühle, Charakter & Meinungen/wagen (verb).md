@@ -32,6 +32,12 @@ status: "new"
 > Sie wagt es nicht, ihm die Wahrheit zu sagen.
 > *She doesn't dare to tell him the truth.*
 
+**Phrases & Expressions:**
+- **es wagen, etwas zu tun** — *to dare; to risk*
+- **den Sprung wagen** — *to dare; to risk*
+- **einen Versuch wagen** — *to dare; to risk*
+- **sich nicht wagen** — *to dare; to risk*
+
 **Collocations**
 - es wagen, etwas zu tun
 - den Sprung wagen

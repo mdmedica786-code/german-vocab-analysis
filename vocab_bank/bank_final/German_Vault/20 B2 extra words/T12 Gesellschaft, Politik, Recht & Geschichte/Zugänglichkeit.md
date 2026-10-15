@@ -33,6 +33,11 @@ status: "new"
 > Die Zugänglichkeit öffentlicher Gebäude für Rollstuhlfahrer ist wichtig.
 > *The accessibility of public buildings for wheelchair users is important.*
 
+**Phrases & Expressions:**
+- **die Zugänglichkeit verbessern** — *accessibility*
+- **die barrierefreie Zugänglichkeit** — *accessibility*
+- **die Zugänglichkeit von Informationen** — *accessibility*
+
 **Collocations**
 - die Zugänglichkeit verbessern
 - die barrierefreie Zugänglichkeit

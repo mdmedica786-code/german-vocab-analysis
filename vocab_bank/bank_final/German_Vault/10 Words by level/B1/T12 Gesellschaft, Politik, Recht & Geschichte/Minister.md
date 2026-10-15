@@ -35,6 +35,9 @@ status: "new"
 > Der Minister besucht das Krankenhaus.
 > *The minister visits the hospital.*
 
+**Phrases & Expressions:**
+- **Der Minister besucht das Krankenhaus** — *The minister visits the hospital* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

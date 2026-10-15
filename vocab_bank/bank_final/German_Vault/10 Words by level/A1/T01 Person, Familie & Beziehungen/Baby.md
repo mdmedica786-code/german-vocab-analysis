@@ -35,6 +35,9 @@ status: "new"
 > Mein Kind ist noch ein Baby.
 > *My child is still a baby.*
 
+**Phrases & Expressions:**
+- **Mein Kind ist noch ein Baby** — *My child is still a baby* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 8b ÜB (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

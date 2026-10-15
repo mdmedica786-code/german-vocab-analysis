@@ -29,6 +29,11 @@ status: "new"
 > Die Uhr hat ein mechanisches Uhrwerk.
 > *The watch has a mechanical movement.*
 
+**Phrases & Expressions:**
+- **mechanisch arbeiten** — *mechanical*
+- **mechanische Teile** — *mechanical*
+- **rein mechanisch** — *mechanical*
+
 **Collocations**
 - mechanisch arbeiten
 - mechanische Teile

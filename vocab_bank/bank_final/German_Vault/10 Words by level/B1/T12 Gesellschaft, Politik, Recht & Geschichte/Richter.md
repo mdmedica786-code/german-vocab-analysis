@@ -35,6 +35,9 @@ status: "new"
 > Der Richter hat noch kein Urteil gesprochen.
 > *The judge has not yet pronounced a verdict.*
 
+**Phrases & Expressions:**
+- **Der Richter hat noch kein Urteil gesprochen** — *The judge has not yet pronounced a verdict* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

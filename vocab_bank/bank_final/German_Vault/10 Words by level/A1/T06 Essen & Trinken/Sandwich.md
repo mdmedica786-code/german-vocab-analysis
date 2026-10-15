@@ -35,6 +35,9 @@ status: "new"
 > Zum Mittagessen esse ich ein Sandwich.
 > *For lunch I eat a sandwich.*
 
+**Phrases & Expressions:**
+- **Zum Mittagessen esse ich ein Sandwich** — *For lunch I eat a sandwich* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden) · Goethe word list B1
 <!-- bank:end -->
 

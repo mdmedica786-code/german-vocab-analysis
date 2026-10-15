@@ -33,6 +33,11 @@ status: "new"
 > Der Mindestlohn wird zum Jahreswechsel angehoben.
 > *The minimum wage is being raised at the turn of the year.*
 
+**Phrases & Expressions:**
+- **den Mindestlohn zahlen** — *minimum wage*
+- **gesetzlicher Mindestlohn** — *minimum wage*
+- **den Mindestlohn erhöhen** — *minimum wage*
+
 **Collocations**
 - den Mindestlohn zahlen
 - gesetzlicher Mindestlohn

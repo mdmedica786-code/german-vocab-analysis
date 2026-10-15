@@ -33,6 +33,12 @@ status: "new"
 > Er merkt nach dem Einkaufen, dass die Milch nicht berechnet wurde.
 > *He notices after shopping that they didn't charge him for the milk.*
 
+**Phrases & Expressions:**
+- **sich etwas merken** — *to notice; to remember (sich merken)*
+- **etwas merken** — *to notice; to remember (sich merken)*
+- **nichts merken** — *to notice; to remember (sich merken)*
+- **sich den Namen merken** — *to notice; to remember (sich merken)*
+
 **Collocations**
 - sich etwas merken
 - etwas merken

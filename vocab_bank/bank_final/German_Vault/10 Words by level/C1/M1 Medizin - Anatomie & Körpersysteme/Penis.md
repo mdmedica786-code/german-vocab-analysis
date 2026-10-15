@@ -33,6 +33,12 @@ status: "new"
 > Bei der Untersuchung wird auch der Penis kontrolliert.
 > *The penis is also checked during the examination.*
 
+**Phrases & Expressions:**
+- **den Penis untersuchen** — *penis*
+- **Schwellung am Penis** — *penis*
+- **Schmerzen am Penis** — *penis*
+- **Entzündung am Penis** — *penis*
+
 **Collocations**
 - den Penis untersuchen
 - Schwellung am Penis

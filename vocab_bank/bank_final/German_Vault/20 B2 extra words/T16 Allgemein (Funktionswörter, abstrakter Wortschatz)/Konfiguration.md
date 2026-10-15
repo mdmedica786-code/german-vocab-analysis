@@ -33,6 +33,11 @@ status: "new"
 > Die Konfiguration des Computers dauert eine Stunde.
 > *Configuring the computer takes an hour.*
 
+**Phrases & Expressions:**
+- **die Konfiguration ändern** — *configuration; setup*
+- **eine Konfiguration speichern** — *configuration; setup*
+- **die Konfiguration des Systems** — *configuration; setup*
+
 **Collocations**
 - die Konfiguration ändern
 - eine Konfiguration speichern

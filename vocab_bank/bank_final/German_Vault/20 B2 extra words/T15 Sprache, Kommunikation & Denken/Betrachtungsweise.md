@@ -33,6 +33,11 @@ status: "new"
 > Je nach Betrachtungsweise kann man das Ergebnis unterschiedlich bewerten.
 > *Depending on how you look at it, the result can be assessed differently.*
 
+**Phrases & Expressions:**
+- **eine andere Betrachtungsweise** — *way of looking at things; approach*
+- **je nach Betrachtungsweise** — *way of looking at things; approach*
+- **ganzheitliche Betrachtungsweise** — *way of looking at things; approach*
+
 **Collocations**
 - eine andere Betrachtungsweise
 - je nach Betrachtungsweise

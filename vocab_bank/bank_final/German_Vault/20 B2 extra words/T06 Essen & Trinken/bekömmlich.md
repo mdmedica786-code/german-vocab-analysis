@@ -29,6 +29,11 @@ status: "new"
 > Das Gericht ist leicht und gut bekömmlich.
 > *The dish is light and easily digestible.*
 
+**Phrases & Expressions:**
+- **gut bekömmlich** — *easily digestible; wholesome*
+- **leicht bekömmlich** — *easily digestible; wholesome*
+- **bekömmliche Kost** — *easily digestible; wholesome*
+
 **Collocations**
 - gut bekömmlich
 - leicht bekömmlich

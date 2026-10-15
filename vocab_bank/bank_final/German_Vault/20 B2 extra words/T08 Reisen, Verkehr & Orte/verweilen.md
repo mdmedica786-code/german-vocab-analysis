@@ -31,6 +31,11 @@ status: "new"
 > Die Touristen verweilten lange am Brunnen.
 > *The tourists lingered at the fountain for a long time.*
 
+**Phrases & Expressions:**
+- **bei etwas verweilen** — *to linger; to stay*
+- **an einem Ort verweilen** — *to linger; to stay*
+- **länger verweilen** — *to linger; to stay*
+
 **Collocations**
 - bei etwas verweilen
 - an einem Ort verweilen

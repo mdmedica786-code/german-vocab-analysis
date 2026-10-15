@@ -33,6 +33,11 @@ status: "new"
 > Die Gesamtheit der Mitarbeiter wurde informiert.
 > *The whole of the staff was informed.*
 
+**Phrases & Expressions:**
+- **in seiner Gesamtheit** — *entirety; whole*
+- **die Gesamtheit der Bevölkerung** — *entirety; whole*
+- **in der Gesamtheit** — *entirety; whole*
+
 **Collocations**
 - in seiner Gesamtheit
 - die Gesamtheit der Bevölkerung

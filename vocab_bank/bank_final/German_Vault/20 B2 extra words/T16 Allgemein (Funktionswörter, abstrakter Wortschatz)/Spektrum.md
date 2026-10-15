@@ -33,6 +33,11 @@ status: "new"
 > Das Programm bietet ein breites Spektrum an Kursen.
 > *The programme offers a broad range of courses.*
 
+**Phrases & Expressions:**
+- **ein breites Spektrum** — *spectrum; range*
+- **das politische Spektrum** — *spectrum; range*
+- **das Spektrum der Farben** — *spectrum; range*
+
 **Collocations**
 - ein breites Spektrum
 - das politische Spektrum

@@ -33,6 +33,11 @@ status: "new"
 > Im Ausverkauf habe ich eine Jacke zum halben Preis bekommen.
 > *In the clearance sale I got a jacket at half price.*
 
+**Phrases & Expressions:**
+- **im Ausverkauf kaufen** — *clearance sale*
+- **Räumungsausverkauf** — *clearance sale*
+- **Ausverkauf starten** — *clearance sale*
+
 **Collocations**
 - im Ausverkauf kaufen
 - Räumungsausverkauf

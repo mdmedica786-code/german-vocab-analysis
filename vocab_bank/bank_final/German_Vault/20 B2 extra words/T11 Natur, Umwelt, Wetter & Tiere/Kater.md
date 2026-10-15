@@ -33,6 +33,11 @@ status: "new"
 > Nach der Feier hatte er einen schlimmen Kater.
 > *After the party he had a terrible hangover.*
 
+**Phrases & Expressions:**
+- **einen Kater haben** — *tomcat; hangover*
+- **ein schwarzer Kater** — *tomcat; hangover*
+- **der Kater schnurrt** — *tomcat; hangover*
+
 **Collocations**
 - einen Kater haben
 - ein schwarzer Kater

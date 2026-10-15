@@ -29,6 +29,11 @@ status: "new"
 > Die Wohnung ist hell und geräumig.
 > *The flat is bright and spacious.*
 
+**Phrases & Expressions:**
+- **ein geräumiges Zimmer** — *spacious; roomy*
+- **geräumig sein** — *spacious; roomy*
+- **eine geräumige Küche** — *spacious; roomy*
+
 **Collocations**
 - ein geräumiges Zimmer
 - geräumig sein

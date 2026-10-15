@@ -34,6 +34,9 @@ status: "new"
 > Wir könnten im Lexikon nachsehen.
 > *We could look it up in the encyclopaedia.*
 
+**Phrases & Expressions:**
+- **Wir könnten im Lexikon nachsehen** — *We could look it up in the encyclopaedia* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

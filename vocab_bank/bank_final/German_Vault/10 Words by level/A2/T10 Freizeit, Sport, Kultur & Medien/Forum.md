@@ -35,6 +35,9 @@ status: "new"
 > Ich melde mich heute bei diesem Forum an.
 > *I'm signing up for this forum today.*
 
+**Phrases & Expressions:**
+- **Ich melde mich heute bei diesem Forum an** — *I'm signing up for this forum today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3a (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

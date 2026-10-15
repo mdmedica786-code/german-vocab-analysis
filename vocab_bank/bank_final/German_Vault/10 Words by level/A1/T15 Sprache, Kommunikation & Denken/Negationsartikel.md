@@ -31,6 +31,9 @@ status: "new"
 > „Kein“ ist ein Negationsartikel.
 > *“Kein” is a negative article.*
 
+**Phrases & Expressions:**
+- **„Kein“ ist ein Negationsartikel** — *“Kein” is a negative article* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 6c (In Hamburg)
 <!-- bank:end -->
 

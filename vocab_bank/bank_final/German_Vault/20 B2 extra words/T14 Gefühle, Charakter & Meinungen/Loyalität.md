@@ -33,6 +33,11 @@ status: "new"
 > Die Firma erwartet Loyalität von ihren Mitarbeitern.
 > *The company expects loyalty from its employees.*
 
+**Phrases & Expressions:**
+- **Loyalität zeigen** — *loyalty*
+- **Loyalität erwarten** — *loyalty*
+- **Loyalität gegenüber dem Arbeitgeber** — *loyalty*
+
 **Collocations**
 - Loyalität zeigen
 - Loyalität erwarten

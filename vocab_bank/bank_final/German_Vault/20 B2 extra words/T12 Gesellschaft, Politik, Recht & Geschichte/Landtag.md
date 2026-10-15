@@ -33,6 +33,11 @@ status: "new"
 > Der Landtag hat das neue Schulgesetz beschlossen.
 > *The state parliament passed the new school law.*
 
+**Phrases & Expressions:**
+- **im Landtag sitzen** — *state parliament*
+- **der Landtag tagt** — *state parliament*
+- **Landtag wählen** — *state parliament*
+
 **Collocations**
 - im Landtag sitzen
 - der Landtag tagt

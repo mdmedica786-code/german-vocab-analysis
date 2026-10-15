@@ -34,6 +34,9 @@ status: "new"
 > Sie schiebt den Kinderwagen durch den Park.
 > *She pushes the pram through the park.*
 
+**Phrases & Expressions:**
+- **Sie schiebt den Kinderwagen durch den Park** — *She pushes the pram through the park* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 5a (Ganz schön mobil)
 <!-- bank:end -->
 

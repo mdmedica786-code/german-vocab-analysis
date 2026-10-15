@@ -34,6 +34,9 @@ status: "new"
 > Aus dieser Perspektive sieht das Problem anders aus.
 > *From this perspective the problem looks different.*
 
+**Phrases & Expressions:**
+- **aus der Perspektive + Gen.** — from the perspective of ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+
 **Source:** Netzwerk neu B1 K1 9c (Gute Reise!)
 <!-- bank:end -->
 

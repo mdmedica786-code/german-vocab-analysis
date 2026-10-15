@@ -33,6 +33,12 @@ status: "new"
 > Der Patient hat ein seltenes Syndrom.
 > *The patient has a rare syndrome.*
 
+**Phrases & Expressions:**
+- **ein seltenes Syndrom** — *syndrome*
+- **metabolisches Syndrom** — *syndrome*
+- **ein Syndrom diagnostizieren** — *syndrome*
+- **Symptome eines Syndroms** — *syndrome*
+
 **Collocations**
 - ein seltenes Syndrom
 - metabolisches Syndrom

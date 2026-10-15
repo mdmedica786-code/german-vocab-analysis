@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Wir kommen, sofern das Wetter gut ist.
 > *We'll come, provided the weather is good.*
+
+**Phrases & Expressions:**
+- **Wir kommen, sofern das Wetter gut ist** — *We'll come, provided the weather is good* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

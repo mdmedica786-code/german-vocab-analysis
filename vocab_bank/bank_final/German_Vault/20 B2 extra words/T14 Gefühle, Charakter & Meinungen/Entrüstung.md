@@ -33,6 +33,11 @@ status: "new"
 > Mit Entrüstung wies er die Vorwürfe zurück.
 > *He rejected the accusations with indignation.*
 
+**Phrases & Expressions:**
+- **vor Entrüstung** — *indignation*
+- **Entrüstung zeigen** — *indignation*
+- **ein Sturm der Entrüstung** — *indignation*
+
 **Collocations**
 - vor Entrüstung
 - Entrüstung zeigen

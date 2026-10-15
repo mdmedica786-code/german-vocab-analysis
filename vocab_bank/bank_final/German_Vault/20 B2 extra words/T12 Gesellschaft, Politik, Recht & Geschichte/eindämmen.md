@@ -32,6 +32,10 @@ status: "new"
 > Die Behörden wollen die Ausbreitung des Feuers eindämmen.
 > *The authorities want to contain the spread of the fire.*
 
+**Phrases & Expressions:**
+- **die Ausbreitung eindämmen** — *to contain; to curb*
+- **Kosten eindämmen** — *to contain; to curb*
+
 **Collocations**
 - die Ausbreitung eindämmen
 - Kosten eindämmen

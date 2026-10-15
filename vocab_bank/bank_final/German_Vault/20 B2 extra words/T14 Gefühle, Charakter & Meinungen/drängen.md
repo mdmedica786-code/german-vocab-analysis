@@ -31,6 +31,11 @@ status: "new"
 > Die Menge drängte sich vor dem Eingang.
 > *The crowd pushed forward at the entrance.*
 
+**Phrases & Expressions:**
+- **sich drängen** — *to push; to urge*
+- **jemanden zu etwas drängen** — *to push; to urge*
+- **auf eine Antwort drängen** — *to push; to urge*
+
 **Collocations**
 - sich drängen
 - jemanden zu etwas drängen

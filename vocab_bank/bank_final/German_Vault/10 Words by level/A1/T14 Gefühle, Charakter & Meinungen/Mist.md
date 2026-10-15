@@ -34,6 +34,9 @@ status: "new"
 > Mist, mein Akku ist gleich leer.
 > *Damn, my battery is almost empty.*
 
+**Phrases & Expressions:**
+- **Mist, mein Akku ist gleich leer** — *Damn, my battery is almost empty* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 6a (Arbeitsalltag)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Gute Sprachkenntnisse sind ein Erfordernis für diese Stelle.
 > *Good language skills are a requirement for this position.*
 
+**Phrases & Expressions:**
+- **den Erfordernissen entsprechen** — *requirement; necessity*
+- **ein dringendes Erfordernis** — *requirement; necessity*
+- **Erfordernisse erfüllen** — *requirement; necessity*
+
 **Collocations**
 - den Erfordernissen entsprechen
 - ein dringendes Erfordernis

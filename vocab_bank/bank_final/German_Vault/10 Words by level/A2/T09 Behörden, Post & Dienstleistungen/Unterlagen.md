@@ -35,6 +35,11 @@ status: "new"
 > Ich schicke Ihnen alle Unterlagen mit der Post zu.
 > *I'll send you all the documents by post.*
 
+**Phrases & Expressions:**
+- **Könnten Sie mir bitte mitteilen, welche Unterlagen ich benötige?** — Could you please tell me which documents I need? *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Anfrage an Behörde]] · B2)*
+- **Fehlende Unterlagen reiche ich umgehend nach.** — I will submit missing documents immediately. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Unterlagen nachreichen]] · B2)*
+- **Welche Unterlagen muss ich mitbringen?** — Which documents do I have to bring? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Anmeldung beim Amt]] · B1)*
+
 **Source:** Netzwerk neu A2 K5 2a ÜB (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Ein unangenehmer Geruch kam aus der Küche.
 > *An unpleasant smell came from the kitchen.*
+
+**Phrases & Expressions:**
+- **Ein unangenehmer Geruch kam aus der Küche** — *An unpleasant smell came from the kitchen* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

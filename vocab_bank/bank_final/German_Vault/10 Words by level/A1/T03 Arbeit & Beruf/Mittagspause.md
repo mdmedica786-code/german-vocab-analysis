@@ -34,6 +34,9 @@ status: "new"
 > In der Mittagspause gehe ich spazieren.
 > *During the lunch break I go for a walk.*
 
+**Phrases & Expressions:**
+- **In der Mittagspause gehe ich spazieren** — *During the lunch break I go for a walk* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 9a (Arbeitsalltag)
 <!-- bank:end -->
 

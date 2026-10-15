@@ -33,6 +33,12 @@ status: "new"
 > Eine starke Muskulatur schützt den Rücken.
 > *Strong musculature protects the back.*
 
+**Phrases & Expressions:**
+- **die Muskulatur stärken** — *musculature*
+- **verspannte Muskulatur** — *musculature*
+- **schwache Muskulatur** — *musculature*
+- **die Muskulatur entspannen** — *musculature*
+
 **Collocations**
 - die Muskulatur stärken
 - verspannte Muskulatur

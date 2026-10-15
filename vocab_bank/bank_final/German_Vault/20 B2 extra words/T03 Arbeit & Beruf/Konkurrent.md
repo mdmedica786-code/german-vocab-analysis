@@ -33,6 +33,11 @@ status: "new"
 > Unser größter Konkurrent senkt die Preise.
 > *Our biggest competitor is lowering its prices.*
 
+**Phrases & Expressions:**
+- **ein starker Konkurrent** — *competitor; rival*
+- **die Konkurrenten übertreffen** — *competitor; rival*
+- **gegen Konkurrenten antreten** — *competitor; rival*
+
 **Collocations**
 - ein starker Konkurrent
 - die Konkurrenten übertreffen

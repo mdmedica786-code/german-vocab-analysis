@@ -33,6 +33,11 @@ status: "new"
 > Wegen des Schimmels forderte sie eine Mietminderung.
 > *Because of the mould she demanded a rent reduction.*
 
+**Phrases & Expressions:**
+- **eine Mietminderung geltend machen** — *rent reduction*
+- **Anspruch auf Mietminderung** — *rent reduction*
+- **Mietminderung fordern** — *rent reduction*
+
 **Collocations**
 - eine Mietminderung geltend machen
 - Anspruch auf Mietminderung

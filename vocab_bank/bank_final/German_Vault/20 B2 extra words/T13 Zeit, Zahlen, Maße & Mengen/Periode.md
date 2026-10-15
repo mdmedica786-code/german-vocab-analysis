@@ -33,6 +33,11 @@ status: "new"
 > In dieser Periode gab es viele Veränderungen.
 > *In this period there were many changes.*
 
+**Phrases & Expressions:**
+- **eine lange Periode** — *period*
+- **in einer Periode von** — *period*
+- **eine Periode der Ruhe** — *period*
+
 **Collocations**
 - eine lange Periode
 - in einer Periode von

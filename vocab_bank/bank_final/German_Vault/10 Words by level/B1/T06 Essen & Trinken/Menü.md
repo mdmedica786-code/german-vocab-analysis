@@ -35,6 +35,9 @@ status: "new"
 > Klicken Sie im Menü "Start" an.
 > *Click "Start" in the menu.*
 
+**Phrases & Expressions:**
+- **Klicken Sie im Menü "Start" an** — *Click "Start" in the menu* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 5a (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

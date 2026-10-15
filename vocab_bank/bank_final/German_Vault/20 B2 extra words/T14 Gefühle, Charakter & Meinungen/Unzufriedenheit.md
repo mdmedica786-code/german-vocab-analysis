@@ -33,6 +33,11 @@ status: "new"
 > Die Unzufriedenheit der Mitarbeiter wächst.
 > *The dissatisfaction of the employees is growing.*
 
+**Phrases & Expressions:**
+- **Unzufriedenheit äußern** — *dissatisfaction*
+- **wachsende Unzufriedenheit** — *dissatisfaction*
+- **Grund zur Unzufriedenheit** — *dissatisfaction*
+
 **Collocations**
 - Unzufriedenheit äußern
 - wachsende Unzufriedenheit

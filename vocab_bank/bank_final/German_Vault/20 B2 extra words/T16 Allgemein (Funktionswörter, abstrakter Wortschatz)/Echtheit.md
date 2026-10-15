@@ -33,6 +33,11 @@ status: "new"
 > Ein Experte prüft die Echtheit des Gemäldes.
 > *An expert is checking the authenticity of the painting.*
 
+**Phrases & Expressions:**
+- **die Echtheit prüfen** — *authenticity*
+- **Echtheit bestätigen** — *authenticity*
+- **Zweifel an der Echtheit** — *authenticity*
+
 **Collocations**
 - die Echtheit prüfen
 - Echtheit bestätigen

@@ -34,6 +34,9 @@ status: "new"
 > Die Künstlerin arbeitet in ihrem Atelier.
 > *The artist works in her studio.*
 
+**Phrases & Expressions:**
+- **Die Künstlerin arbeitet in ihrem Atelier** — *The artist works in her studio* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

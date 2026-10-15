@@ -34,6 +34,9 @@ status: "new"
 > In den Weihnachtsferien besuche ich meine Familie.
 > *In the Christmas holidays I visit my family.*
 
+**Phrases & Expressions:**
+- **In den Weihnachtsferien besuche ich meine Familie** — *In the Christmas holidays I visit my family* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13c (Gute Reise!)
 <!-- bank:end -->
 

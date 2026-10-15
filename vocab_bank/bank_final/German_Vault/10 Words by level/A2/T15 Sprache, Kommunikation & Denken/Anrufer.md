@@ -34,6 +34,9 @@ status: "new"
 > Der Anrufer hat keine Nachricht hinterlassen.
 > *The caller didn't leave a message.*
 
+**Phrases & Expressions:**
+- **Der Anrufer hat keine Nachricht hinterlassen** — *The caller didn't leave a message* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 12b (Arbeitswelten)
 <!-- bank:end -->
 

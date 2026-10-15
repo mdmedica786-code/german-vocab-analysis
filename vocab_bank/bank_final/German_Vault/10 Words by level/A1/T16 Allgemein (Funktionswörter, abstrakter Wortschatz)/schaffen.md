@@ -33,6 +33,12 @@ status: "new"
 > Kannst du mir bitte helfen? Ich schaffe das nicht alleine.
 > *Can you help me, please? I can't manage this alone.*
 
+**Phrases & Expressions:**
+- **es schaffen** — *to manage*
+- **eine Prüfung schaffen** — *to manage*
+- **Arbeit schaffen** — *to manage*
+- **Platz schaffen** — *to manage*
+
 **Collocations**
 - es schaffen
 - eine Prüfung schaffen

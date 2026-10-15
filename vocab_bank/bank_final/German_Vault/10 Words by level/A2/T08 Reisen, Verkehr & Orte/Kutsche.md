@@ -34,6 +34,9 @@ status: "new"
 > Die Kutsche fährt durch die Altstadt.
 > *The carriage drives through the old town.*
 
+**Phrases & Expressions:**
+- **Die Kutsche fährt durch die Altstadt** — *The carriage drives through the old town* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

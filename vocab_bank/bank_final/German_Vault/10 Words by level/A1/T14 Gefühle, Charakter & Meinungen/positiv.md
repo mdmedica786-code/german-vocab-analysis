@@ -31,6 +31,14 @@ status: "new"
 > Wir haben eine positive Nachricht für Sie. Sie bekommen die Stelle.
 > *We have positive news for you. You are getting the job.*
 
+**Phrases & Expressions:**
+- **Über eine positive Antwort würde ich mich sehr freuen.** — I would be very pleased about a positive reply. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Schlussformel]] · B2)*
+- **Insgesamt lässt sich eine positive Entwicklung erkennen.** — Overall a positive development can be seen. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Entwicklung zusammenfassen]] · B2)*
+- **positiv denken** — *positive*
+- **ein positives Ergebnis** — *positive*
+- **positiv getestet** — *positive*
+- **eine positive Nachricht** — *positive*
+
 **Collocations**
 - positiv denken
 - ein positives Ergebnis

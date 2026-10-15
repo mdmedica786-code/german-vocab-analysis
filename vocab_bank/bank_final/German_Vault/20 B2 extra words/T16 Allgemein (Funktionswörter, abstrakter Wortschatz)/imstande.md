@@ -29,6 +29,11 @@ status: "new"
 > Er ist nicht imstande, die Aufgabe allein zu lösen.
 > *He is not able to solve the task alone.*
 
+**Phrases & Expressions:**
+- **imstande sein** — *able; in a position (imstande sein)*
+- **nicht imstande** — *able; in a position (imstande sein)*
+- **dazu imstande sein** — *able; in a position (imstande sein)*
+
 **Collocations**
 - imstande sein
 - nicht imstande

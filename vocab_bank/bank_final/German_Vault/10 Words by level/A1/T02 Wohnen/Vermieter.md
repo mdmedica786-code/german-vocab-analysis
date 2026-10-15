@@ -35,6 +35,9 @@ status: "new"
 > Unser Vermieter heißt Huber. Er wohnt auch hier.
 > *Our landlord is called Huber. He lives here too.*
 
+**Phrases & Expressions:**
+- **Unser Vermieter heißt Huber. Er wohnt auch hier** — *Our landlord is called Huber. He lives here too* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 4f ÜB (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Ich verstehe deine Sichtweise.
 > *I understand your point of view.*
+
+**Phrases & Expressions:**
+- **Ich verstehe deine Sichtweise** — *I understand your point of view* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

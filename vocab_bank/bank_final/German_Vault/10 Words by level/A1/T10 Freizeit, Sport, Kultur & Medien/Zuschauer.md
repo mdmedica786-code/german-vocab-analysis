@@ -35,6 +35,9 @@ status: "new"
 > Die Zuschauer klatschen laut.
 > *The spectators clap loudly.*
 
+**Phrases & Expressions:**
+- **Die Zuschauer klatschen laut** — *The spectators clap loudly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 13a (Studium und Beruf) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Der Verbraucher hat das Recht auf Information.
 > *The consumer has a right to information.*
 
+**Phrases & Expressions:**
+- **Der Verbraucher hat das Recht auf Information** — *The consumer has a right to information* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

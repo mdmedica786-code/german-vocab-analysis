@@ -34,6 +34,9 @@ status: "new"
 > Der Versand dauert drei Tage.
 > *Shipping takes three days.*
 
+**Phrases & Expressions:**
+- **Wie lange dauert der Versand nach ...?** — How long does delivery to ... take? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Post und Paket]] · B1)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

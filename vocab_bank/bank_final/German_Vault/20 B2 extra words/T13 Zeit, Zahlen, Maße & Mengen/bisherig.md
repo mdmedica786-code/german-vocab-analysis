@@ -29,6 +29,11 @@ status: "new"
 > Die bisherigen Ergebnisse sind sehr gut.
 > *The results so far are very good.*
 
+**Phrases & Expressions:**
+- **bisherige Erfahrungen** — *previous; so far*
+- **der bisherige Verlauf** — *previous; so far*
+- **die bisherigen Kosten** — *previous; so far*
+
 **Collocations**
 - bisherige Erfahrungen
 - der bisherige Verlauf

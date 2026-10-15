@@ -34,6 +34,9 @@ status: "new"
 > Ich schreibe einen Beispielsatz zu jedem Wort.
 > *I write an example sentence for every word.*
 
+**Phrases & Expressions:**
+- **Ich schreibe einen Beispielsatz zu jedem Wort** — *I write an example sentence for every word* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 7c (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

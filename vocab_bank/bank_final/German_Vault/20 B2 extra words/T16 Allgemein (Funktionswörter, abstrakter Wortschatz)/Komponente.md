@@ -33,6 +33,11 @@ status: "new"
 > Der Computer besteht aus mehreren Komponenten.
 > *The computer consists of several components.*
 
+**Phrases & Expressions:**
+- **eine wichtige Komponente** — *component*
+- **Komponenten austauschen** — *component*
+- **zentrale Komponente** — *component*
+
 **Collocations**
 - eine wichtige Komponente
 - Komponenten austauschen

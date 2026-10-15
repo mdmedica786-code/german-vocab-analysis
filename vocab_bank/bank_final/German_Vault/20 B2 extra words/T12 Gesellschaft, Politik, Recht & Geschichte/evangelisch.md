@@ -29,6 +29,11 @@ status: "new"
 > Sie ist evangelisch getauft.
 > *She was baptised Protestant.*
 
+**Phrases & Expressions:**
+- **die evangelische Kirche** — *Protestant; Lutheran*
+- **evangelisch sein** — *Protestant; Lutheran*
+- **evangelisch-lutherisch** — *Protestant; Lutheran*
+
 **Collocations**
 - die evangelische Kirche
 - evangelisch sein

@@ -30,6 +30,9 @@ status: "new"
 > Sonnabends gehen wir auf den Markt.
 > *On Saturdays we go to the market.*
 
+**Phrases & Expressions:**
+- **Sonnabends gehen wir auf den Markt** — *On Saturdays we go to the market* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

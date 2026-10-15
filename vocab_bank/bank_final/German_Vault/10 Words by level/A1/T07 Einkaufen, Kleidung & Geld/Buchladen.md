@@ -34,6 +34,9 @@ status: "new"
 > Im Buchladen kaufe ich oft Krimis.
 > *In the bookshop I often buy crime novels.*
 
+**Phrases & Expressions:**
+- **Im Buchladen kaufe ich oft Krimis** — *In the bookshop I often buy crime novels* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 11b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

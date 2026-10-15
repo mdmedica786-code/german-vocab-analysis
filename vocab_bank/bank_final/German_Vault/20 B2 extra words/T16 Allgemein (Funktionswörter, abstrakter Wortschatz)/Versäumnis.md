@@ -33,6 +33,11 @@ status: "new"
 > Das Versäumnis der Behörde führte zu hohen Kosten.
 > *The authority's omission led to high costs.*
 
+**Phrases & Expressions:**
+- **ein Versäumnis eingestehen** — *omission; failure*
+- **Versäumnisse aufarbeiten** — *omission; failure*
+- **ein grobes Versäumnis** — *omission; failure*
+
 **Collocations**
 - ein Versäumnis eingestehen
 - Versäumnisse aufarbeiten

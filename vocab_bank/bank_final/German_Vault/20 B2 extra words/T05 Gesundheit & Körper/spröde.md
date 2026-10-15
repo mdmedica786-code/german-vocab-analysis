@@ -29,6 +29,11 @@ status: "new"
 > Im Winter wird die Haut oft trocken und spröde.
 > *In winter the skin often becomes dry and chapped.*
 
+**Phrases & Expressions:**
+- **spröde Lippen** — *brittle; chapped; aloof*
+- **spröde Haut** — *brittle; chapped; aloof*
+- **sprödes Material** — *brittle; chapped; aloof*
+
 **Collocations**
 - spröde Lippen
 - spröde Haut

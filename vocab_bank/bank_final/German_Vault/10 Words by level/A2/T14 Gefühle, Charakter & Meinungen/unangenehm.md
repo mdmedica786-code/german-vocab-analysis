@@ -30,6 +30,9 @@ status: "new"
 > Das Gespräch war mir sehr unangenehm.
 > *The conversation was very unpleasant for me.*
 
+**Phrases & Expressions:**
+- **Das kann kurz unangenehm sein.** — This may be briefly uncomfortable. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Hinweis vor Untersuchung]] · B2)*
+
 **Source:** Netzwerk neu A2 K4 8c (Große und kleine Gefühle)
 <!-- bank:end -->
 

@@ -36,6 +36,9 @@ status: "new"
 > Das Deutsche hat drei Artikel.
 > *German has three articles.*
 
+**Phrases & Expressions:**
+- **Das Deutsche hat drei Artikel** — *German has three articles* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13b (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

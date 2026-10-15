@@ -26,6 +26,11 @@ status: "new"
 > Viele Kunden sind wechselbereit, wenn der Preis stimmt.
 > *Many customers are ready to switch if the price is right.*
 
+**Phrases & Expressions:**
+- **wechselbereit sein** — *ready to switch; willing to change*
+- **wechselbereite Kunden** — *ready to switch; willing to change*
+- **wechselbereit zu einem anderen Anbieter** — *ready to switch; willing to change*
+
 **Collocations**
 - wechselbereit sein
 - wechselbereite Kunden

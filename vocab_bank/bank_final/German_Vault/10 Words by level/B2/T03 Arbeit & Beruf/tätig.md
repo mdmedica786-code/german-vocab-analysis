@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Sie ist als Ärztin tätig.
 > *She works as a doctor.*
+
+**Phrases & Expressions:**
+- **Von ... bis ... war ich als ... tätig.** — From ... to ... I worked as ... *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Lebenslauf formulieren]] · B2)*
 <!-- bank:end -->
 
 ## My notes

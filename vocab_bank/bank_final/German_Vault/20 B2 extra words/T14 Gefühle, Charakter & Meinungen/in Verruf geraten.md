@@ -26,6 +26,10 @@ status: "new"
 > Die Firma ist wegen der Skandale in Verruf geraten.
 > *The company has got a bad name because of the scandals.*
 
+**Phrases & Expressions:**
+- **in Verruf bringen** — *to get a bad name*
+- **einen schlechten Ruf bekommen** — *to get a bad name*
+
 **Collocations**
 - in Verruf bringen
 - einen schlechten Ruf bekommen

@@ -34,6 +34,9 @@ status: "new"
 > Nach dem Essen gab es noch eine leckere Nachspeise.
 > *After the meal there was a delicious dessert.*
 
+**Phrases & Expressions:**
+- **Nach dem Essen gab es noch eine leckere Nachspeise** — *After the meal there was a delicious dessert* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

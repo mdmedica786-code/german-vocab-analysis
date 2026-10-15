@@ -32,6 +32,11 @@ status: "new"
 > Die Jugendlichen rebellieren gegen die Regeln der Eltern.
 > *The teenagers rebel against their parents' rules.*
 
+**Phrases & Expressions:**
+- **gegen etwas rebellieren** — *to rebel*
+- **gegen die Eltern rebellieren** — *to rebel*
+- **offen rebellieren** — *to rebel*
+
 **Collocations**
 - gegen etwas rebellieren
 - gegen die Eltern rebellieren

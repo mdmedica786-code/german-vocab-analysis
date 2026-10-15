@@ -33,6 +33,11 @@ status: "new"
 > Im Spiel kann jeder seinen eigenen Avatar gestalten.
 > *In the game everyone can design their own avatar.*
 
+**Phrases & Expressions:**
+- **einen Avatar erstellen** — *avatar*
+- **ein virtueller Avatar** — *avatar*
+- **der Avatar im Spiel** — *avatar*
+
 **Collocations**
 - einen Avatar erstellen
 - ein virtueller Avatar

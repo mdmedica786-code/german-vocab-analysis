@@ -35,6 +35,9 @@ status: "new"
 > Viele Leute fragen mich nach meiner Herkunft.
 > *Many people ask me about my origin.*
 
+**Phrases & Expressions:**
+- **Viele Leute fragen mich nach meiner Herkunft** — *Many people ask me about my origin* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

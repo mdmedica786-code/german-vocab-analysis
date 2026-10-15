@@ -33,6 +33,11 @@ status: "new"
 > Die Seminararbeit muss bis Ende Juli abgegeben werden.
 > *The seminar paper must be handed in by the end of July.*
 
+**Phrases & Expressions:**
+- **eine Seminararbeit schreiben** — *seminar paper; term paper*
+- **eine Seminararbeit abgeben** — *seminar paper; term paper*
+- **Thema der Seminararbeit** — *seminar paper; term paper*
+
 **Collocations**
 - eine Seminararbeit schreiben
 - eine Seminararbeit abgeben

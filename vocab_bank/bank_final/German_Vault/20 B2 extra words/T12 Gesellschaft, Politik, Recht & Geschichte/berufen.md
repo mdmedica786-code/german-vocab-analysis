@@ -32,6 +32,11 @@ status: "new"
 > Er beruft sich auf das Gesetz.
 > *He refers to the law.*
 
+**Phrases & Expressions:**
+- **sich auf etwas berufen** — *to refer to; to appoint*
+- **jemanden berufen** — *to refer to; to appoint*
+- **sich auf Quellen berufen** — *to refer to; to appoint*
+
 **Collocations**
 - sich auf etwas berufen
 - jemanden berufen

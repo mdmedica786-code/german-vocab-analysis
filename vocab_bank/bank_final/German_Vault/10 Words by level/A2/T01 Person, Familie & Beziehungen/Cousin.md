@@ -35,6 +35,9 @@ status: "new"
 > Mein Cousin studiert Medizin.
 > *My cousin studies medicine.*
 
+**Phrases & Expressions:**
+- **Mein Cousin studiert Medizin** — *My cousin studies medicine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 8a (Sportlich, sportlich) · Goethe word list A2
 <!-- bank:end -->
 

@@ -34,6 +34,14 @@ status: "new"
 > Ich freue mich auf den Urlaub.
 > *I'm looking forward to the holiday.*
 
+**Phrases & Expressions:**
+- **ich freue mich auf/über ...** — I'm looking forward to / pleased about ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · A2)*
+- **ich freue mich, dass ...** — I'm pleased that ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **Vielen Dank für deine E-Mail, ich habe mich sehr gefreut.** — Thank you very much for your email, I was very happy. *([[B1-12 Persönliche E-Mail und Brief|Einstieg]] · B1)*
+- **Vielen Dank für die Einladung, ich freue mich schon.** — Thank you for the invitation, I'm already looking forward to it. *([[B1-12 Persönliche E-Mail und Brief|Zusage geben]] · B1)*
+- **Ich freue mich auf deine Antwort.** — I'm looking forward to your reply. *([[B1-12 Persönliche E-Mail und Brief|Schluss formulieren]] · B1)*
+- **Ich würde mich über eine baldige Antwort freuen.** — I would be glad to receive an early reply. *([[B1-13 Formelle E-Mail und Brief|Schluss formulieren]] · B1)*
+
 **Source:** Netzwerk neu A1 K9 5a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

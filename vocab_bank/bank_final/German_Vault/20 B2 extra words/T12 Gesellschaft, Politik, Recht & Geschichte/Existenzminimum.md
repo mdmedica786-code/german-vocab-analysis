@@ -33,6 +33,11 @@ status: "new"
 > Das Einkommen liegt knapp über dem Existenzminimum.
 > *The income is just above subsistence level.*
 
+**Phrases & Expressions:**
+- **am Existenzminimum leben** — *subsistence level*
+- **das Existenzminimum sichern** — *subsistence level*
+- **das steuerfreie Existenzminimum** — *subsistence level*
+
 **Collocations**
 - am Existenzminimum leben
 - das Existenzminimum sichern

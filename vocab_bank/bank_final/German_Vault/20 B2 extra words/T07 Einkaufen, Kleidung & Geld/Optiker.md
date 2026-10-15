@@ -33,6 +33,11 @@ status: "new"
 > Beim Optiker habe ich mir neue Gläser machen lassen.
 > *At the optician I had new lenses made.*
 
+**Phrases & Expressions:**
+- **zum Optiker gehen** — *optician*
+- **beim Optiker** — *optician*
+- **Brille vom Optiker** — *optician*
+
 **Collocations**
 - zum Optiker gehen
 - beim Optiker

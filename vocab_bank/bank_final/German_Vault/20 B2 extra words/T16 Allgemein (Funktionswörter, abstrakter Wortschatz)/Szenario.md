@@ -33,6 +33,11 @@ status: "new"
 > Das Szenario ist durchaus realistisch.
 > *The scenario is quite realistic.*
 
+**Phrases & Expressions:**
+- **ein mögliches Szenario** — *scenario*
+- **das schlimmste Szenario** — *scenario*
+- **ein Szenario entwickeln** — *scenario*
+
 **Collocations**
 - ein mögliches Szenario
 - das schlimmste Szenario

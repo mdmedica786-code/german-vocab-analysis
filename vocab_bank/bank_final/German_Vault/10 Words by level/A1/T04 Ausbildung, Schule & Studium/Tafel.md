@@ -36,6 +36,9 @@ status: "new"
 > Schreiben Sie den Satz an die Tafel.
 > *Write a sentence on the blackboard.*
 
+**Phrases & Expressions:**
+- **Schreiben Sie den Satz an die Tafel** — *Write a sentence on the blackboard* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 4 (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

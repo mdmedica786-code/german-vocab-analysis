@@ -34,6 +34,9 @@ status: "new"
 > Im Deutschkurs lernen wir den Konjunktiv II.
 > *In the German course we are learning the subjunctive II.*
 
+**Phrases & Expressions:**
+- **Im Deutschkurs lernen wir den Konjunktiv II** — *In the German course we are learning the subjunctive II* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 6c (Leben in der Stadt)
 <!-- bank:end -->
 

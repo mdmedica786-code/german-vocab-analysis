@@ -32,6 +32,11 @@ status: "new"
 > Der Wald erstreckt sich über viele Kilometer.
 > *The forest extends over many kilometres.*
 
+**Phrases & Expressions:**
+- **sich über etwas erstrecken** — *to extend; to stretch*
+- **sich weit erstrecken** — *to extend; to stretch*
+- **sich erstrecken bis** — *to extend; to stretch*
+
 **Collocations**
 - sich über etwas erstrecken
 - sich weit erstrecken

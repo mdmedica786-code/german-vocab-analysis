@@ -33,6 +33,11 @@ status: "new"
 > Für die Wanderung brauchen Sie wetterfeste Bekleidung.
 > *For the hike you need weatherproof clothing.*
 
+**Phrases & Expressions:**
+- **warme Bekleidung** — *clothing; clothes*
+- **die passende Bekleidung** — *clothing; clothes*
+- **Bekleidung kaufen** — *clothing; clothes*
+
 **Collocations**
 - warme Bekleidung
 - die passende Bekleidung

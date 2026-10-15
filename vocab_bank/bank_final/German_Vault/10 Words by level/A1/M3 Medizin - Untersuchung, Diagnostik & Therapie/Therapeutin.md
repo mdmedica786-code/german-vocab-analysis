@@ -34,6 +34,9 @@ status: "new"
 > Die Therapeutin erklärt die Übungen.
 > *The therapist explains the exercises.*
 
+**Phrases & Expressions:**
+- **Die Therapeutin erklärt die Übungen** — *The therapist explains the exercises* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13b (Fit und gesund)
 <!-- bank:end -->
 

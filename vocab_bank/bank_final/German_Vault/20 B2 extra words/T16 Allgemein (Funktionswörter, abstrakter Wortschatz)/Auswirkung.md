@@ -33,6 +33,12 @@ status: "new"
 > Die Auswirkungen des Klimawandels sind spürbar.
 > *The effects of climate change are noticeable.*
 
+**Phrases & Expressions:**
+- **Auswirkungen auf ...** — effects on ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **Auswirkungen haben auf + Akk.** — *effect; impact*
+- **negative Auswirkungen** — *effect; impact*
+- **schwerwiegende Auswirkungen** — *effect; impact*
+
 **Collocations**
 - Auswirkungen haben auf + Akk.
 - negative Auswirkungen

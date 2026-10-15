@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Er hat die Regel unbewusst gebrochen.
 > *He broke the rule unconsciously.*
+
+**Phrases & Expressions:**
+- **Er hat die Regel unbewusst gebrochen** — *He broke the rule unconsciously* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

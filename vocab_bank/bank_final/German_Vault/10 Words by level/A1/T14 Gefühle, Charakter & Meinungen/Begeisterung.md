@@ -34,6 +34,9 @@ status: "new"
 > Die Kinder spielen mit großer Begeisterung.
 > *The children play with great enthusiasm.*
 
+**Phrases & Expressions:**
+- **Die Kinder spielen mit großer Begeisterung** — *The children play with great enthusiasm* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 7a (Meine Wohnung)
 <!-- bank:end -->
 

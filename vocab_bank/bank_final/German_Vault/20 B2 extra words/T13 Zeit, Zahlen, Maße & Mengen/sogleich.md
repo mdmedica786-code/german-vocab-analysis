@@ -29,6 +29,11 @@ status: "new"
 > Der Arzt kommt sogleich.
 > *The doctor will come at once.*
 
+**Phrases & Expressions:**
+- **sogleich beginnen** — *at once; immediately*
+- **ich komme sogleich** — *at once; immediately*
+- **sogleich antworten** — *at once; immediately*
+
 **Collocations**
 - sogleich beginnen
 - ich komme sogleich

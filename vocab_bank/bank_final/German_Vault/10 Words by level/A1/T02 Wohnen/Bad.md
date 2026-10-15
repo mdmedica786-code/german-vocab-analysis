@@ -35,6 +35,9 @@ status: "new"
 > Wir haben kein großes Bad.
 > *We don't have a large bathroom.*
 
+**Phrases & Expressions:**
+- **Wir haben kein großes Bad** — *We don't have a large bathroom* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

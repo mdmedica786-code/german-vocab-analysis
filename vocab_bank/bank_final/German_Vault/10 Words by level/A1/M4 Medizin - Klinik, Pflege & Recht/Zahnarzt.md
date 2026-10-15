@@ -35,6 +35,9 @@ status: "new"
 > Ich habe morgen einen Termin beim Zahnarzt.
 > *Tomorrow I have an appointment at the dentist's.*
 
+**Phrases & Expressions:**
+- **Ich habe morgen einen Termin beim Zahnarzt** — *Tomorrow I have an appointment at the dentist's* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 5e (Arbeitsalltag)
 <!-- bank:end -->
 

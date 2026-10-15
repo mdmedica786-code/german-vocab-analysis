@@ -35,6 +35,9 @@ status: "new"
 > Wo steht Ihr Wagen?
 > *Where is your car parked?*
 
+**Phrases & Expressions:**
+- **Wo steht Ihr Wagen** — *Where is your car parked* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 3a ÜB (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

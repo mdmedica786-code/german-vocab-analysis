@@ -30,6 +30,9 @@ status: "new"
 > Die Tasse ist entzwei.
 > *The cup is broken in two.*
 
+**Phrases & Expressions:**
+- **Die Tasse ist entzwei** — *The cup is broken in two* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 13b (Kunststücke)
 <!-- bank:end -->
 

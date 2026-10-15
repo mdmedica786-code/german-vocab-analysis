@@ -33,6 +33,9 @@ status: "new"
 > Das Urteil basiert auf Zeugenaussagen.
 > *The judgement is based on witness statements.*
 
+**Phrases & Expressions:**
+- **Das Urteil basiert auf Zeugenaussagen** — *The judgement is based on witness statements* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 10a (Geld regiert die Welt?)
 <!-- bank:end -->
 

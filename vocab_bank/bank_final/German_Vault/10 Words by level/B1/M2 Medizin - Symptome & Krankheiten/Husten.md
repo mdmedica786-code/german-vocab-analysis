@@ -34,6 +34,9 @@ status: "new"
 > Haben Sie ein Medikament gegen Husten?
 > *Do you have a medicine for a cough?*
 
+**Phrases & Expressions:**
+- **Haben Sie Husten oder Auswurf?** — Do you have a cough or sputum? *([[FSP-06 Systemanamnese (Organsysteme)|Atmung]] · B1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -31,6 +31,12 @@ status: "new"
 > Es ist noch genug Pizza da. Möchtest du noch ein Stück?
 > *There's still enough pizza. Would you like another piece?*
 
+**Phrases & Expressions:**
+- **nicht genug** — not enough *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+- **genug Zeit** — *enough*
+- **gut genug** — *enough*
+- **genug haben** — *enough*
+
 **Collocations**
 - genug Zeit
 - gut genug

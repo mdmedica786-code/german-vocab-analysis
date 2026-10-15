@@ -34,6 +34,9 @@ status: "new"
 > Der Nachtportier gibt Ihnen den Schlüssel.
 > *The night porter will give you the key.*
 
+**Phrases & Expressions:**
+- **Der Nachtportier gibt Ihnen den Schlüssel** — *The night porter will give you the key* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 12a (Arbeitswelt)
 <!-- bank:end -->
 

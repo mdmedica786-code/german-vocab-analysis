@@ -35,6 +35,9 @@ status: "new"
 > War die Briefträgerin schon da?
 > *Has the postwoman already been?*
 
+**Phrases & Expressions:**
+- **War die Briefträgerin schon da** — *Has the postwoman already been* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

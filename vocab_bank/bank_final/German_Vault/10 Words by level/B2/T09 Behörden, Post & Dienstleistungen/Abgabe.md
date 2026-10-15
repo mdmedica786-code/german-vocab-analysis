@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Abgabe der Arbeit ist am Freitag.
 > *The submission of the work is on Friday.*
+
+**Phrases & Expressions:**
+- **Die Abgabe der Arbeit ist am Freitag** — *The submission of the work is on Friday* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

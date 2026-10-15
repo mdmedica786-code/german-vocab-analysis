@@ -34,6 +34,9 @@ status: "new"
 > Im Urlaub habe ich mich sehr gut erholt.
 > *On holiday I recovered very well.*
 
+**Phrases & Expressions:**
+- **Im Urlaub habe ich mich sehr gut erholt** — *On holiday I recovered very well* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 4a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

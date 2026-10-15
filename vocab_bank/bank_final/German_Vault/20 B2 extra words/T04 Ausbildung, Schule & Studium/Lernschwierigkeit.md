@@ -33,6 +33,11 @@ status: "new"
 > Das Kind hat Lernschwierigkeiten in Mathematik.
 > *The child has learning difficulties in mathematics.*
 
+**Phrases & Expressions:**
+- **Lernschwierigkeiten haben** — *learning difficulty*
+- **Lernschwierigkeiten erkennen** — *learning difficulty*
+- **bei Lernschwierigkeiten helfen** — *learning difficulty*
+
 **Collocations**
 - Lernschwierigkeiten haben
 - Lernschwierigkeiten erkennen

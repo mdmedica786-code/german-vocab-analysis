@@ -33,6 +33,11 @@ status: "new"
 > Ein gutes Ergebnis stärkt das Selbstvertrauen.
 > *A good result strengthens self-confidence.*
 
+**Phrases & Expressions:**
+- **Selbstvertrauen haben** — *self-assurance; confidence in oneself*
+- **das Selbstvertrauen verlieren** — *self-assurance; confidence in oneself*
+- **Selbstvertrauen aufbauen** — *self-assurance; confidence in oneself*
+
 **Collocations**
 - Selbstvertrauen haben
 - das Selbstvertrauen verlieren

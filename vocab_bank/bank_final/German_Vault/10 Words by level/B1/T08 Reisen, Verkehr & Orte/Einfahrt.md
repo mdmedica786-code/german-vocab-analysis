@@ -34,6 +34,9 @@ status: "new"
 > Da parkt wieder jemand vor unserer Einfahrt.
 > *Someone is parking in front of our driveway again.*
 
+**Phrases & Expressions:**
+- **Da parkt wieder jemand vor unserer Einfahrt** — *Someone is parking in front of our driveway again* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

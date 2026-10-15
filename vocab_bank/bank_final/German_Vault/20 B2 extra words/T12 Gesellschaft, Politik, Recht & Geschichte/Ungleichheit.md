@@ -33,6 +33,11 @@ status: "new"
 > Die soziale Ungleichheit hat in den letzten Jahren zugenommen.
 > *Social inequality has increased in recent years.*
 
+**Phrases & Expressions:**
+- **soziale Ungleichheit** — *inequality*
+- **Ungleichheit verringern** — *inequality*
+- **Ungleichheit zwischen + Dat.** — *inequality*
+
 **Collocations**
 - soziale Ungleichheit
 - Ungleichheit verringern

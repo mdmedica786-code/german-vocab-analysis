@@ -33,6 +33,11 @@ status: "new"
 > Sie stammt aus einem bürgerlichen Milieu.
 > *She comes from a middle-class background.*
 
+**Phrases & Expressions:**
+- **aus einem sozialen Milieu** — *social environment; milieu*
+- **das Milieu verlassen** — *social environment; milieu*
+- **ein ärmliches Milieu** — *social environment; milieu*
+
 **Collocations**
 - aus einem sozialen Milieu
 - das Milieu verlassen

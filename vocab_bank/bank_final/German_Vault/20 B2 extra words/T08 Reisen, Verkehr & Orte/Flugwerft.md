@@ -30,6 +30,11 @@ status: "new"
 > In der Flugwerft werden Flugzeuge repariert.
 > *Aircraft are repaired at the aircraft maintenance base.*
 
+**Phrases & Expressions:**
+- **in der Flugwerft arbeiten** — *aircraft maintenance base; aircraft hangar*
+- **eine Flugwerft besuchen** — *aircraft maintenance base; aircraft hangar*
+- **die Flugwerft des Flughafens** — *aircraft maintenance base; aircraft hangar*
+
 **Collocations**
 - in der Flugwerft arbeiten
 - eine Flugwerft besuchen

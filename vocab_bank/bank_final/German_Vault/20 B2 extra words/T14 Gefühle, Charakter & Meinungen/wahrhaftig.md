@@ -29,6 +29,11 @@ status: "new"
 > Das ist wahrhaftig ein Wunder.
 > *That is truly a miracle.*
 
+**Phrases & Expressions:**
+- **wahrhaftig sein** — *truthful; real; truly*
+- **ein wahrhaftiger Mensch** — *truthful; real; truly*
+- **wahrhaftig gut** — *truthful; real; truly*
+
 **Collocations**
 - wahrhaftig sein
 - ein wahrhaftiger Mensch

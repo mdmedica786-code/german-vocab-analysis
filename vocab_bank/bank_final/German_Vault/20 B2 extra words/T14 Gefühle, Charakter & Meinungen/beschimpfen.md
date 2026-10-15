@@ -31,6 +31,11 @@ status: "new"
 > Er hat den Schiedsrichter wüst beschimpft.
 > *He abused the referee viciously.*
 
+**Phrases & Expressions:**
+- **jemanden beschimpfen** — *to insult; to abuse*
+- **wüst beschimpfen** — *to insult; to abuse*
+- **beschimpft werden** — *to insult; to abuse*
+
 **Collocations**
 - jemanden beschimpfen
 - wüst beschimpfen

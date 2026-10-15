@@ -29,6 +29,11 @@ status: "new"
 > Das Gerät war fehlerhaft und wurde zurückgerufen.
 > *The device was faulty and was recalled.*
 
+**Phrases & Expressions:**
+- **fehlerhaft sein** — *faulty; defective*
+- **fehlerhafte Ware** — *faulty; defective*
+- **fehlerhaft funktionieren** — *faulty; defective*
+
 **Collocations**
 - fehlerhaft sein
 - fehlerhafte Ware

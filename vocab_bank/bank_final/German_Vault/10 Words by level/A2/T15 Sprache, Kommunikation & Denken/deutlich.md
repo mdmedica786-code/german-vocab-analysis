@@ -31,6 +31,14 @@ status: "new"
 > Sprechen Sie bitte deutlich!
 > *Please speak clearly!*
 
+**Phrases & Expressions:**
+- **wird deutlich, dass ...** — it becomes clear that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **es ist deutlich, dass ...** — it is clear that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **es wird deutlich, dass ...** — it becomes clear that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **... ist deutlich größer als ...** — ... is considerably larger than ... *([[B2-11 Vergleichen und Entwicklungen beschreiben|Ungleichheit ausdrücken]] · B2)*
+- **Seit ... ist ... deutlich gestiegen.** — Since ... ... has risen clearly. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Entwicklung über Zeit]] · B2)*
+- **Ich spreche langsam und deutlich, sagen Sie mir bitte, wenn es zu schnell ist.** — I'll speak slowly and clearly; please tell me if it is too fast. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Sprachbarriere]] · B2)*
+
 **Collocations**
 - deutlich sprechen
 - deutlich sehen

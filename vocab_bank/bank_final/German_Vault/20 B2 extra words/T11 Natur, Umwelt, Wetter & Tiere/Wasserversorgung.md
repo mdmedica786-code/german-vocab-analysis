@@ -33,6 +33,11 @@ status: "new"
 > Die Wasserversorgung der Stadt ist gesichert.
 > *The town's water supply is secure.*
 
+**Phrases & Expressions:**
+- **die Wasserversorgung sichern** — *water supply*
+- **die öffentliche Wasserversorgung** — *water supply*
+- **die Wasserversorgung unterbrechen** — *water supply*
+
 **Collocations**
 - die Wasserversorgung sichern
 - die öffentliche Wasserversorgung

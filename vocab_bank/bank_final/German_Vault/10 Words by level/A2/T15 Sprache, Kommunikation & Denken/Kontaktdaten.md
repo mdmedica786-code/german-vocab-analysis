@@ -34,6 +34,9 @@ status: "new"
 > Bitte geben Sie Ihre Kontaktdaten an.
 > *Please provide your contact details.*
 
+**Phrases & Expressions:**
+- **Bitte geben Sie Ihre Kontaktdaten an** — *Please provide your contact details* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

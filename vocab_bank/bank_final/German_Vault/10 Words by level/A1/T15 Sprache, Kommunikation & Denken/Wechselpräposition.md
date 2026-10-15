@@ -34,6 +34,9 @@ status: "new"
 > „In“ ist eine Wechselpräposition.
 > *“In” is a two-way preposition.*
 
+**Phrases & Expressions:**
+- **„In“ ist eine Wechselpräposition** — *“In” is a two-way preposition* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 11b (Meine Wohnung)
 <!-- bank:end -->
 

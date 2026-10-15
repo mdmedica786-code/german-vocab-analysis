@@ -34,6 +34,12 @@ status: "new"
 > Das sieht schön aus.
 > *That looks nice.*
 
+**Phrases & Expressions:**
+- **es sieht aus, als ob ...** — it looks as if ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **es sieht so aus, als ob ...** — it looks as if ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Er/Sie sieht ... aus.** — He/she looks ... *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Person beschreiben]] · B1)*
+- **Wie sieht die Vergütung aus?** — What does the remuneration look like? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Gehalt ansprechen]] · B2)*
+
 **Source:** Netzwerk neu A1 K9 7a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

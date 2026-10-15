@@ -33,6 +33,9 @@ status: "new"
 > Ich jogge gern im Park.
 > *I like jogging in the park.*
 
+**Phrases & Expressions:**
+- **Ich jogge gern im Park** — *I like jogging in the park* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 2a (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

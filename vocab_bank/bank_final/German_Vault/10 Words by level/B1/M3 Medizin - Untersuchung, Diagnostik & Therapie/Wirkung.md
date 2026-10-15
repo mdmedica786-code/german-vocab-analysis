@@ -35,6 +35,12 @@ status: "new"
 > Welche Wirkungen hat dieses Medikament? Muss ich vorsichtig sein?
 > *What effects does this medicine have? Do I have to be careful?*
 
+**Phrases & Expressions:**
+- **eine Wirkung haben** — *effect*
+- **die Wirkung des Medikaments** — *effect*
+- **die Wirkung lässt nach** — *effect*
+- **die Wirkung entfalten** — *effect*
+
 **Collocations**
 - eine Wirkung haben
 - die Wirkung des Medikaments

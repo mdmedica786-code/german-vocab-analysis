@@ -34,6 +34,9 @@ status: "new"
 > Im Juni ziehen unsere neuen Nachbarn ein.
 > *Our new neighbours are moving in in June.*
 
+**Phrases & Expressions:**
+- **Der Schmerz zieht bis in den linken Arm.** — The pain radiates into the left arm. *([[FSP-03 Schmerzanamnese|Patient: Ausstrahlung nennen]] · B1)*
+
 **Source:** Netzwerk neu A2 K10 6b (Zusammen leben) · Goethe word list A2
 <!-- bank:end -->
 

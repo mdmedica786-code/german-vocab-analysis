@@ -32,6 +32,9 @@ status: "new"
 > Die Jury wertet den Sprung mit neun Punkten.
 > *The jury rates the jump with nine points.*
 
+**Phrases & Expressions:**
+- **Messen Sie bitte täglich Ihren Blutdruck und notieren Sie die Werte.** — Please measure your blood pressure daily and note the values. *([[FSP-11 Therapie und Medikamente erklären|Selbstmanagement]] · B2)*
+
 **Source:** Netzwerk neu B1 K11 9a (Stadt, Land, Fluss)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Wann hast du dein Vorstellungsgespräch?
 > *When is your job interview?*
 
+**Phrases & Expressions:**
+- **Ich stehe Ihnen für ein Vorstellungsgespräch jederzeit zur Verfügung.** — I am available for an interview at any time. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Termin vorschlagen]] · B2)*
+
 **Source:** Netzwerk neu A2 K5 2a (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

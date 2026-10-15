@@ -33,6 +33,11 @@ status: "new"
 > Für die Stelle in der Schule brauchen Sie ein polizeiliches Führungszeugnis.
 > *For the position at the school you need a police certificate of good conduct.*
 
+**Phrases & Expressions:**
+- **ein Führungszeugnis beantragen** — *certificate of good conduct*
+- **ein erweitertes Führungszeugnis** — *certificate of good conduct*
+- **Führungszeugnis vorlegen** — *certificate of good conduct*
+
 **Collocations**
 - ein Führungszeugnis beantragen
 - ein erweitertes Führungszeugnis

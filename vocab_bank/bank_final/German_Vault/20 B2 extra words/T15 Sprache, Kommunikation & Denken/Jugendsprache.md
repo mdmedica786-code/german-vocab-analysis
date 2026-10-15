@@ -33,6 +33,11 @@ status: "new"
 > Die Jugendsprache verändert sich ständig.
 > *Youth slang changes constantly.*
 
+**Phrases & Expressions:**
+- **die Jugendsprache verstehen** — *youth slang*
+- **Jugendsprache und Umgangssprache** — *youth slang*
+- **moderne Jugendsprache** — *youth slang*
+
 **Collocations**
 - die Jugendsprache verstehen
 - Jugendsprache und Umgangssprache

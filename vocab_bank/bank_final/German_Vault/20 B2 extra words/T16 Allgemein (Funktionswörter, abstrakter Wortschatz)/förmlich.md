@@ -29,6 +29,11 @@ status: "new"
 > Er hat sich förmlich entschuldigt.
 > *He apologised formally.*
 
+**Phrases & Expressions:**
+- **förmlich entschuldigen** — *formal; literally*
+- **förmlich explodieren** — *formal; literally*
+- **ein förmlicher Antrag** — *formal; literally*
+
 **Collocations**
 - förmlich entschuldigen
 - förmlich explodieren

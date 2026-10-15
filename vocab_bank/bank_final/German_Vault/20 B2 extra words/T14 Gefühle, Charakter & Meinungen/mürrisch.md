@@ -29,6 +29,11 @@ status: "new"
 > Er saß mürrisch am Frühstückstisch.
 > *He sat grumpily at the breakfast table.*
 
+**Phrases & Expressions:**
+- **mürrisch antworten** — *grumpy; sullen*
+- **ein mürrischer Mensch** — *grumpy; sullen*
+- **mürrisch aussehen** — *grumpy; sullen*
+
 **Collocations**
 - mürrisch antworten
 - ein mürrischer Mensch

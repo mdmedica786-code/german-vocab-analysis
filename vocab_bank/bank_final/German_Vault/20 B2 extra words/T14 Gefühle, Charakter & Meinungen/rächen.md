@@ -32,6 +32,11 @@ status: "new"
 > Er wollte sich für die Beleidigung rächen.
 > *He wanted to take revenge for the insult.*
 
+**Phrases & Expressions:**
+- **sich an jemandem rächen** — *to take revenge*
+- **sich für etwas rächen** — *to take revenge*
+- **bitter rächen** — *to take revenge*
+
 **Collocations**
 - sich an jemandem rächen
 - sich für etwas rächen

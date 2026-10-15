@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Soweit ich weiß, kommt er morgen.
 > *As far as I know, he's coming tomorrow.*
+
+**Phrases & Expressions:**
+- **Soweit ich weiß, hat der Patient keine Nierenerkrankung.** — As far as I know, the patient has no kidney disease. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Rückfrage beantworten]] · B2)*
 <!-- bank:end -->
 
 ## My notes

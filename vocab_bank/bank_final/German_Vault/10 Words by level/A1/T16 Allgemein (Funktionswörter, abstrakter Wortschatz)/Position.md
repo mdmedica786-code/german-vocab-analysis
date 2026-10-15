@@ -34,6 +34,10 @@ status: "new"
 > Welche Position haben Sie in der Firma?
 > *What position do you have in the company?*
 
+**Phrases & Expressions:**
+- **Meine Position dazu ist klar: ...** — My position on this is clear: ... *([[B1-14 Forumsbeitrag und Leserbrief schreiben|Eigene Position nennen]] · B1)*
+- **Ich fasse meine Position kurz zusammen: ...** — Let me briefly sum up my position: ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Meinung zusammenfassen]] · B2)*
+
 **Source:** Netzwerk neu A1 K3 10d (In Hamburg)
 <!-- bank:end -->
 

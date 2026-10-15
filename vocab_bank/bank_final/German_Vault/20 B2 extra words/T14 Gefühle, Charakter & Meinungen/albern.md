@@ -29,6 +29,11 @@ status: "new"
 > Hör auf, so albern zu sein!
 > *Stop being so silly!*
 
+**Phrases & Expressions:**
+- **albern sein** — *silly; childish*
+- **ein alberner Witz** — *silly; childish*
+- **albern kichern** — *silly; childish*
+
 **Collocations**
 - albern sein
 - ein alberner Witz

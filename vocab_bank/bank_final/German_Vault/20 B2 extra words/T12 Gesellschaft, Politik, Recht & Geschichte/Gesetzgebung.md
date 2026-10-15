@@ -33,6 +33,11 @@ status: "new"
 > Die Gesetzgebung ist Aufgabe des Parlaments.
 > *Legislation is the task of parliament.*
 
+**Phrases & Expressions:**
+- **die Gesetzgebung des Bundes** — *legislation*
+- **europäische Gesetzgebung** — *legislation*
+- **Gesetzgebung ändern** — *legislation*
+
 **Collocations**
 - die Gesetzgebung des Bundes
 - europäische Gesetzgebung

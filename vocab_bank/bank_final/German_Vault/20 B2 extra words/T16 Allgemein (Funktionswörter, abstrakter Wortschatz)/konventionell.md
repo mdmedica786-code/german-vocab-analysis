@@ -29,6 +29,11 @@ status: "new"
 > Sie bevorzugt konventionelle Methoden.
 > *She prefers conventional methods.*
 
+**Phrases & Expressions:**
+- **konventionelle Methoden** — *conventional*
+- **konventionell anbauen** — *conventional*
+- **konventionelle Landwirtschaft** — *conventional*
+
 **Collocations**
 - konventionelle Methoden
 - konventionell anbauen

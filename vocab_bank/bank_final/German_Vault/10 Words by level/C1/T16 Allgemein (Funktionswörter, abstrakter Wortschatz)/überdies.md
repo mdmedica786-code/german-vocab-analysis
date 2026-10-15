@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Er ist klug und überdies fleißig.
 > *He is clever and, moreover, hard-working.*
+
+**Phrases & Expressions:**
+- **Er ist klug und überdies fleißig** — *He is clever and, moreover, hard-working* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

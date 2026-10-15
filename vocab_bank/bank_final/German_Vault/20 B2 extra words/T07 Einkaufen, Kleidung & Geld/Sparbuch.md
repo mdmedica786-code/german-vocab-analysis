@@ -33,6 +33,11 @@ status: "new"
 > Meine Großmutter hat noch ein altes Sparbuch.
 > *My grandmother still has an old savings book.*
 
+**Phrases & Expressions:**
+- **ein Sparbuch anlegen** — *savings book; savings account*
+- **Geld auf dem Sparbuch haben** — *savings book; savings account*
+- **ein Sparbuch eröffnen** — *savings book; savings account*
+
 **Collocations**
 - ein Sparbuch anlegen
 - Geld auf dem Sparbuch haben

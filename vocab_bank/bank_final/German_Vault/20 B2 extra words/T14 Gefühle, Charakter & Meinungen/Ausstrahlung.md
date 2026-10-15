@@ -33,6 +33,11 @@ status: "new"
 > Sie hat eine positive Ausstrahlung.
 > *She has a positive aura.*
 
+**Phrases & Expressions:**
+- **eine positive Ausstrahlung** — *charisma; presence; broadcast*
+- **die Ausstrahlung einer Sendung** — *charisma; presence; broadcast*
+- **große Ausstrahlung haben** — *charisma; presence; broadcast*
+
 **Collocations**
 - eine positive Ausstrahlung
 - die Ausstrahlung einer Sendung

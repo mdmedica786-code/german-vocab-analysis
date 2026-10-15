@@ -31,6 +31,9 @@ status: "new"
 > [!example] Beispiel
 > Das Medikament kann Übelkeit hervorrufen.
 > *The medicine can cause nausea.*
+
+**Phrases & Expressions:**
+- **Das Medikament kann Übelkeit hervorrufen** — *The medicine can cause nausea* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

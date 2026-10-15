@@ -33,6 +33,11 @@ status: "new"
 > Das Hotel hat einen großen Pool im Garten.
 > *The hotel has a big pool in the garden.*
 
+**Phrases & Expressions:**
+- **im Pool schwimmen** — *pool (swimming; shared resource)*
+- **ein Pool von Mitarbeitern** — *pool (swimming; shared resource)*
+- **ein beheizter Pool** — *pool (swimming; shared resource)*
+
 **Collocations**
 - im Pool schwimmen
 - ein Pool von Mitarbeitern

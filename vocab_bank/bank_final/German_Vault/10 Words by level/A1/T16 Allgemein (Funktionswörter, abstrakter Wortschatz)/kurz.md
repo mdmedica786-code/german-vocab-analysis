@@ -32,6 +32,14 @@ status: "new"
 > Schreiben Sie einen kurzen Text.
 > *Write a short text.*
 
+**Phrases & Expressions:**
+- **einen kurzen Moment** — just a moment *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B1)*
+- **kurz vor ...** — shortly before ... *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **kurz darauf** — shortly afterwards *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **kurz nach ...** — shortly after ... *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **nach kurzer Zeit** — after a short time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Fassen wir kurz zusammen: ...** — Let's summarise briefly: ... *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Absprachen zusammenfassen]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 8e (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

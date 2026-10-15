@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Kinder spielen unter Aufsicht.
 > *The children play under supervision.*
+
+**Phrases & Expressions:**
+- **Die Kinder spielen unter Aufsicht** — *The children play under supervision* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

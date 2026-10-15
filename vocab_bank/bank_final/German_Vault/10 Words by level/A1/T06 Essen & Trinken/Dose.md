@@ -35,6 +35,9 @@ status: "new"
 > Ich habe noch eine Dose Bohnen.
 > *I still have a tin of beans.*
 
+**Phrases & Expressions:**
+- **Ich habe noch eine Dose Bohnen** — *I still have a tin of beans* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 6d ÜB (Guten Appetit!) · Goethe word list B1
 <!-- bank:end -->
 

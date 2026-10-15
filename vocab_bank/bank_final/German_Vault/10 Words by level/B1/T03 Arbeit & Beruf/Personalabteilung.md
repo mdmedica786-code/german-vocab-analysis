@@ -34,6 +34,9 @@ status: "new"
 > Die Personalabteilung lädt Sie zum Gespräch ein.
 > *The HR department is inviting you to an interview.*
 
+**Phrases & Expressions:**
+- **Die Personalabteilung lädt Sie zum Gespräch ein** — *The HR department is inviting you to an interview* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

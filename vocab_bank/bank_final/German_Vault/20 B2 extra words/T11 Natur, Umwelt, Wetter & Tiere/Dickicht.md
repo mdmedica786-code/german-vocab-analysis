@@ -33,6 +33,11 @@ status: "new"
 > Das Reh verschwand im Dickicht.
 > *The deer disappeared into the thicket.*
 
+**Phrases & Expressions:**
+- **im Dickicht verschwinden** — *thicket; undergrowth*
+- **ein dichtes Dickicht** — *thicket; undergrowth*
+- **Dickicht aus Büschen** — *thicket; undergrowth*
+
 **Collocations**
 - im Dickicht verschwinden
 - ein dichtes Dickicht

@@ -33,6 +33,11 @@ status: "new"
 > Die Projektleiterin organisiert das Team.
 > *The project manager organises the team.*
 
+**Phrases & Expressions:**
+- **als Projektleiterin arbeiten** — *project manager (female)*
+- **eine erfahrene Projektleiterin** — *project manager (female)*
+- **die Projektleiterin fragen** — *project manager (female)*
+
 **Collocations**
 - als Projektleiterin arbeiten
 - eine erfahrene Projektleiterin

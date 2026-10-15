@@ -31,6 +31,11 @@ status: "new"
 > Der Wind weht heute stark aus Westen.
 > *The wind is blowing strongly from the west today.*
 
+**Phrases & Expressions:**
+- **der Wind weht** — *to blow; to flutter*
+- **die Fahne weht** — *to blow; to flutter*
+- **ein Lüftchen weht** — *to blow; to flutter*
+
 **Collocations**
 - der Wind weht
 - die Fahne weht

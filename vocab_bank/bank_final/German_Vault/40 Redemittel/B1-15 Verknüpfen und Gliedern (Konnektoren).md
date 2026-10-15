@@ -14,18 +14,21 @@ tags: ["redemittel", "level/B1"]
 ## Grund und Folge
 
 - **..., deswegen bin ich ...** ⭐ — ..., that is why I ...
+  - Words: [[deswegen]]
   - Ich habe Kopfschmerzen, deswegen bin ich zu Hause geblieben. *(I have a headache, that is why I stayed at home.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: Verb direkt nach deswegen (Position 2)
   - Variants: ..., darum ... | ..., deshalb ...
   - Exam: Sprechen und Schreiben B1/B2
 - **Wegen des ... bin ich ... gekommen.** ⭐ — Because of the ... I ... came.
+  - Words: [[kommen]] · [[wegen]] · [[Weg]]
   - Wegen des Staus bin ich zu spät gekommen. *(Because of the traffic jam I arrived late.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: wegen + Genitiv
   - Variants: Aufgrund des ... bin ich ... | Durch den ... ist es dazu gekommen.
   - Exam: Sprechen und Schreiben B1/B2
 - **Weil ich ... war, bin ich nicht gekommen.** ⭐ — Because I was ..., I did not come.
+  - Words: [[kommen]] · [[weil]]
   - Weil ich krank war, bin ich nicht zur Arbeit gekommen. *(Because I was ill, I did not come to work.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: weil-Satz vorn: danach Verb an Position 1
@@ -34,36 +37,42 @@ tags: ["redemittel", "level/B1"]
 ## Gegensatz
 
 - **Ich möchte ..., aber ich habe keine Zeit.** ⭐ — I would like to ..., but I have no time.
+  - Words: [[Zeit]] · [[möchten]] · [[haben]]
   - Ich möchte kommen, aber ich habe keine Zeit. *(I would like to come, but I have no time.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: aber steht auf Position 0, Verb danach an Position 2
   - Variants: ..., doch ... | ..., allerdings ...
   - Exam: Sprechen und Schreiben B1/B2
 - **Das Angebot ist gut, jedoch ist es zu teuer.** — The offer is good, however it is too expensive.
+  - Words: [[gut (adjective)]] · [[jedoch]] · [[teuer]] · [[Angebot]] · [[Gut]] · [[guttun]] · [[gutschreiben]]
   - Das Angebot ist gut, jedoch ist es für mich zu teuer. *(The offer is good, however it is too expensive for me.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: jedoch auf Position 1: Verb danach
   - Variants: ..., allerdings ... | ..., aber ...
   - Exam: Sprechen und Schreiben B1/B2
 - **Es ..., trotzdem gehen wir ...** ⭐ — It ..., nevertheless we go ...
+  - Words: [[gehen]] · [[trotzdem]]
   - Es regnet. Trotzdem gehen wir spazieren. *(It is raining. Nevertheless we are going for a walk.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: Verb direkt nach trotzdem (Position 2)
   - Variants: Es ..., dennoch gehen wir ... | Es ..., aber wir gehen trotzdem ...
   - Exam: Sprechen und Schreiben B1/B2
 - **..., obwohl ich ... bin.** ⭐ — ..., although I am ...
+  - Words: [[obwohl]]
   - Ich gehe zur Arbeit, obwohl ich krank bin. *(I am going to work although I am ill.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: obwohl-Satz: Verb am Ende
   - Variants: Obwohl ich ... bin, ... | ..., auch wenn ich ... bin.
   - Exam: Sprechen und Schreiben B1/B2
 - **Obwohl es regnet, gehen wir ...** — Although it is raining, we ...
+  - Words: [[gehen]] · [[obwohl]] · [[regnen]]
   - Obwohl es regnet, gehen wir spazieren. *(Although it is raining, we are going for a walk.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: Nebensatz vorn: danach Verb an Position 1
   - Variants: Auch wenn es regnet, gehen wir ... | Trotz des Regens gehen wir ...
   - Exam: Sprechen und Schreiben B1/B2
 - **Während ich ..., ... meine Schwester ...** — While I ..., my sister ...
+  - Words: [[Schwester]] · [[meinen]] · [[während]]
   - Während ich gern früh aufstehe, schläft meine Schwester lang. *(While I like getting up early, my sister sleeps in.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: während-Satz: Verb am Ende
@@ -72,6 +81,7 @@ tags: ["redemittel", "level/B1"]
 ## Zeit: vorher
 
 - **Bevor ich ..., ... ich ...** ⭐ — Before I ..., I ...
+  - Words: [[bevor]]
   - Bevor ich ins Bett gehe, putze ich die Zähne. *(Before I go to bed, I brush my teeth.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: bevor-Satz: Verb am Ende; dann Verb an Position 1
@@ -80,6 +90,7 @@ tags: ["redemittel", "level/B1"]
 ## Zeit: nachher
 
 - **Nachdem wir ... hatten, ...** — After we had ..., ...
+  - Words: [[nachdem]]
   - Nachdem wir gegessen hatten, sind wir spazieren gegangen. *(After we had eaten, we went for a walk.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: nachdem + Plusquamperfekt; Hauptsatz im Perfekt/Präteritum
@@ -88,6 +99,7 @@ tags: ["redemittel", "level/B1"]
 ## Zeit: gleichzeitig
 
 - **Während ich koche, hört mein Mann ...** ⭐ — While I cook, my husband listens to ...
+  - Words: [[hören]] · [[kochen]] · [[Mann]] · [[aufhören]] · [[weiterhören]] · [[zuhören]] · [[anhören]] · [[während]]
   - Während ich koche, hört mein Mann Musik. *(While I cook, my husband listens to music.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: während-Satz: Verb am Ende
@@ -96,6 +108,7 @@ tags: ["redemittel", "level/B1"]
 ## Zeit: seitdem
 
 - **Seitdem ich in Deutschland wohne, ...** ⭐ — Since I have been living in Germany, ...
+  - Words: [[wohnen]] · [[seitdem]] · [[Deutschland]]
   - Seitdem ich in Deutschland wohne, spreche ich jeden Tag Deutsch. *(Since I have been living in Germany, I speak German every day.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: seitdem-Satz: Verb am Ende; Präsens
@@ -104,6 +117,7 @@ tags: ["redemittel", "level/B1"]
 ## Zeit: sobald
 
 - **Sobald ich Zeit habe, rufe ich dich an.** — As soon as I have time, I'll call you.
+  - Words: [[rufen]] · [[Zeit]] · [[sobald]] · [[haben]] · [[Ruf]]
   - Sobald ich Zeit habe, rufe ich dich an. *(As soon as I have time, I'll call you.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: sobald-Satz: Verb am Ende
@@ -112,12 +126,14 @@ tags: ["redemittel", "level/B1"]
 ## Bedingung
 
 - **Wenn es morgen regnet, dann ...** ⭐ — If it rains tomorrow, then ...
+  - Words: [[dann]] · [[morgen (adverb)]] · [[Morgen]] · [[regnen]]
   - Wenn es morgen regnet, dann bleiben wir zu Hause. *(If it rains tomorrow, then we'll stay at home.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: wenn-Satz vorn: dann + Verb an Position 2
   - Variants: Falls es morgen regnet, ... | Bei Regen ...
   - Exam: Sprechen und Schreiben B1/B2
 - **Falls du Fragen hast, ...** ⭐ — In case you have questions, ...
+  - Words: [[Fall]] · [[fragen]] · [[Frage]] · [[falls]]
   - Falls du Fragen hast, ruf mich einfach an. *(In case you have questions, just call me.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: falls-Satz: Verb am Ende; dann Imperativ/Verb an Position 1
@@ -126,12 +142,14 @@ tags: ["redemittel", "level/B1"]
 ## Zweck
 
 - **Ich lerne Deutsch, damit ich ... kann.** ⭐ — I learn German so that I can ...
+  - Words: [[damit]] · [[deutsch (adjective)]] · [[lernen]] · [[Deutsch]] · [[können]]
   - Ich lerne Deutsch, damit ich in Deutschland arbeiten kann. *(I am learning German so that I can work in Germany.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: damit-Satz: Verb am Ende; auch bei verschiedenen Subjekten
   - Variants: Ich lerne Deutsch, um ... zu ... | Ich lerne Deutsch, weil ich ... möchte.
   - Exam: Sprechen und Schreiben B1/B2
 - **Ich fahre nach ..., um ... zu ...** ⭐ — I am going to ... in order to ...
+  - Words: [[fahren]]
   - Ich fahre nach Berlin, um dort zu arbeiten. *(I am going to Berlin in order to work there.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: um ... zu + Infinitiv; gleiches Subjekt
@@ -140,12 +158,14 @@ tags: ["redemittel", "level/B1"]
 ## Aufzählung
 
 - **Zuerst ..., dann ..., zuletzt ...** ⭐ — First ..., then ..., last ...
+  - Words: [[dann]] · [[zuerst]] · [[zuletzt]]
   - Zuerst schneide ich das Gemüse, dann koche ich es, zuletzt würze ich es. *(First I cut the vegetables, then I cook them, last I season them.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: Verb nach Zuerst/dann/zuletzt an Position 2
   - Variants: Als Erstes ..., danach ..., zum Schluss ... | Erst ..., dann ..., schließlich ...
   - Exam: Sprechen und Schreiben B1/B2
 - **Schließlich haben wir uns für ... entschieden.** — Finally we decided on ...
+  - Words: [[schließlich]] · [[entscheiden]]
   - Schließlich haben wir uns für das Auto entschieden. *(Finally we decided on the car.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: sich entscheiden für + Akk.; Perfekt
@@ -154,6 +174,7 @@ tags: ["redemittel", "level/B1"]
 ## Alternative nennen
 
 - **Entweder fahren wir ..., oder wir ...** — Either we go ..., or we ...
+  - Words: [[fahren]] · [[entweder]]
   - Entweder fahren wir mit dem Zug, oder wir nehmen das Auto. *(Either we go by train, or we take the car.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: entweder ... oder: Verb steht in beiden Teilen an Position 1/2
@@ -162,6 +183,7 @@ tags: ["redemittel", "level/B1"]
 ## Verneinung verbinden
 
 - **Ich habe weder Zeit noch Lust.** — I have neither time nor desire.
+  - Words: [[Zeit]] · [[weder]] · [[Lust]] · [[haben]]
   - Ich habe heute weder Zeit noch Lust, ins Kino zu gehen. *(Today I have neither time nor desire to go to the cinema.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: weder ... noch: Satzteile verbinden; kein weiteres nicht
@@ -170,6 +192,7 @@ tags: ["redemittel", "level/B1"]
 ## Aufzählung
 
 - **Sowohl ... als auch ... ist wichtig.** — Both ... and ... are important.
+  - Words: [[sowohl]] · [[wichtig]]
   - Sowohl Bewegung als auch gesunde Ernährung ist wichtig. *(Both exercise and healthy eating are important.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: sowohl ... als auch: Satzteile verbinden
@@ -178,6 +201,7 @@ tags: ["redemittel", "level/B1"]
 ## Folge
 
 - **Es hat stark ..., sodass wir ... mussten.** ⭐ — It ... heavily so that we had to ...
+  - Words: [[stark]] · [[sodass]]
   - Es hat stark geregnet, sodass wir drinnen bleiben mussten. *(It rained heavily so that we had to stay inside.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: sodass-Satz: Verb am Ende
@@ -186,6 +210,7 @@ tags: ["redemittel", "level/B1"]
 ## Mittel nennen
 
 - **Man kann Geld sparen, indem man ...** — You can save money by ...
+  - Words: [[Geld]] · [[indem]] · [[sparen]] · [[können]]
   - Man kann Geld sparen, indem man öfter Rad fährt. *(You can save money by cycling more often.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: indem-Satz: Verb am Ende
@@ -194,6 +219,7 @@ tags: ["redemittel", "level/B1"]
 ## Zunehmende Wirkung
 
 - **Je mehr ich übe, desto besser ...** ⭐ — The more I practise, the better ...
+  - Words: [[je]] · [[mehr]] · [[besser]] · [[desto]]
   - Je mehr ich übe, desto besser spreche ich. *(The more I practise, the better I speak.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: je + Komparativ + Verb am Ende; desto + Komparativ + Verb an Position 2

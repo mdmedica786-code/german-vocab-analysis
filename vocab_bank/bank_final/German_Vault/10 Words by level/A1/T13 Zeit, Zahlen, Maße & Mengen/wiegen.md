@@ -33,6 +33,9 @@ status: "new"
 > Wie viel wiegst du?
 > *How much do you weigh?*
 
+**Phrases & Expressions:**
+- **Wie viel wiegst du** — *How much do you weigh* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 4 (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

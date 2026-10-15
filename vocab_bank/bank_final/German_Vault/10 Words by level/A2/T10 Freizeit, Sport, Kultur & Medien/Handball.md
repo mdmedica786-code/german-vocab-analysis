@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Mein Bruder spielt Handball im Verein.
 > *My brother plays handball in a club.*
+
+**Phrases & Expressions:**
+- **Mein Bruder spielt Handball im Verein** — *My brother plays handball in a club* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

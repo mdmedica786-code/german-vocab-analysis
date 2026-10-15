@@ -33,6 +33,11 @@ status: "new"
 > Es ist schwierig, einen Krippenplatz zu bekommen.
 > *It is difficult to get a nursery place.*
 
+**Phrases & Expressions:**
+- **einen Krippenplatz suchen** — *nursery place*
+- **Krippenplatz bekommen** — *nursery place*
+- **auf einen Krippenplatz warten** — *nursery place*
+
 **Collocations**
 - einen Krippenplatz suchen
 - Krippenplatz bekommen

@@ -33,6 +33,11 @@ status: "new"
 > Das Gesetz soll die Benachteiligung von Frauen verhindern.
 > *The law is meant to prevent the discrimination of women.*
 
+**Phrases & Expressions:**
+- **soziale Benachteiligung** — *disadvantage; discrimination*
+- **Benachteiligung von + Dat.** — *disadvantage; discrimination*
+- **Benachteiligung erfahren** — *disadvantage; discrimination*
+
 **Collocations**
 - soziale Benachteiligung
 - Benachteiligung von + Dat.

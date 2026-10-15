@@ -30,6 +30,12 @@ status: "new"
 > Die Wohnung ist günstig, zudem liegt sie zentral.
 > *The flat is cheap, and in addition it is centrally located.*
 
+**Phrases & Expressions:**
+- **zudem noch** — *in addition*
+- **zudem ist ...** — *in addition*
+- **und zudem** — *in addition*
+- **zudem kommt, dass ...** — *in addition*
+
 **Collocations**
 - zudem noch
 - zudem ist ...

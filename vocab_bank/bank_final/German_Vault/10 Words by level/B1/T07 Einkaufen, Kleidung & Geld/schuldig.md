@@ -30,6 +30,9 @@ status: "new"
 > Was bin ich Ihnen schuldig? – 50 Euro, bitte.
 > *What do I owe you? – 50 euros, please.*
 
+**Phrases & Expressions:**
+- **Was bin ich Ihnen schuldig? – 50 Euro, bitte** — *What do I owe you? – 50 euros, please* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

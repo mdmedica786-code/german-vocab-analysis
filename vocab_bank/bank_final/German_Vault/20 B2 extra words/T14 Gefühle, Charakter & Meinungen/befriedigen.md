@@ -31,6 +31,11 @@ status: "new"
 > Das Ergebnis befriedigt mich nicht.
 > *The result does not satisfy me.*
 
+**Phrases & Expressions:**
+- **Bedürfnisse befriedigen** — *to satisfy*
+- **den Bedarf befriedigen** — *to satisfy*
+- **nicht befriedigend** — *to satisfy*
+
 **Collocations**
 - Bedürfnisse befriedigen
 - den Bedarf befriedigen

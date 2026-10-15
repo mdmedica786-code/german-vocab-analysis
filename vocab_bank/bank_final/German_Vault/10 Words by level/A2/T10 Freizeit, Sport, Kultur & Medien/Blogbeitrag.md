@@ -34,6 +34,9 @@ status: "new"
 > Sie hat einen Blogbeitrag über ihre Reise geschrieben.
 > *She wrote a blog post about her trip.*
 
+**Phrases & Expressions:**
+- **Sie hat einen Blogbeitrag über ihre Reise geschrieben** — *She wrote a blog post about her trip* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 11b (Immer online?)
 <!-- bank:end -->
 

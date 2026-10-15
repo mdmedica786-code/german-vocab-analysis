@@ -33,6 +33,11 @@ status: "new"
 > Sie hatte in ihrem Leben viel Kummer.
 > *She had a lot of sorrow in her life.*
 
+**Phrases & Expressions:**
+- **Kummer haben** — *grief; sorrow; worry*
+- **vor Kummer** — *grief; sorrow; worry*
+- **jemandem Kummer machen** — *grief; sorrow; worry*
+
 **Collocations**
 - Kummer haben
 - vor Kummer

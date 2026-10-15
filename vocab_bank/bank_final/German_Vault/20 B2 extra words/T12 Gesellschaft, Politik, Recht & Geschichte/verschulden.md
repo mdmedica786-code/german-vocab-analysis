@@ -31,6 +31,11 @@ status: "new"
 > Der Fahrer hat den Unfall selbst verschuldet.
 > *The driver caused the accident himself.*
 
+**Phrases & Expressions:**
+- **einen Unfall verschulden** — *to be to blame for; to cause (through one's own fault)*
+- **selbst verschuldet** — *to be to blame for; to cause (through one's own fault)*
+- **verschuldet sein** — *to be to blame for; to cause (through one's own fault)*
+
 **Collocations**
 - einen Unfall verschulden
 - selbst verschuldet

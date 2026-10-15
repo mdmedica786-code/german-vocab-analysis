@@ -32,6 +32,11 @@ status: "new"
 > Die Gesellschaft hat sich in den letzten Jahren stark gewandelt.
 > *Society has changed greatly in recent years.*
 
+**Phrases & Expressions:**
+- **sich wandeln** — *to change; to transform*
+- **die Zeiten haben sich gewandelt** — *to change; to transform*
+- **sich zum Guten wandeln** — *to change; to transform*
+
 **Collocations**
 - sich wandeln
 - die Zeiten haben sich gewandelt

@@ -33,6 +33,11 @@ status: "new"
 > Ihre Mimik zeigte sofort, was sie dachte.
 > *Her facial expression immediately showed what she thought.*
 
+**Phrases & Expressions:**
+- **Mimik und Gestik** — *facial expression*
+- **eine lebhafte Mimik** — *facial expression*
+- **die Mimik beobachten** — *facial expression*
+
 **Collocations**
 - Mimik und Gestik
 - eine lebhafte Mimik

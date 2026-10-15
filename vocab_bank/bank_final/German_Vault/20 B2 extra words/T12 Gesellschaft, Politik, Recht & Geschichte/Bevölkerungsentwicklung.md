@@ -33,6 +33,11 @@ status: "new"
 > Die Bevölkerungsentwicklung zeigt einen Rückgang auf dem Land.
 > *Population development shows a decline in the countryside.*
 
+**Phrases & Expressions:**
+- **die Bevölkerungsentwicklung beobachten** — *population development*
+- **negative Bevölkerungsentwicklung** — *population development*
+- **Prognose zur Bevölkerungsentwicklung** — *population development*
+
 **Collocations**
 - die Bevölkerungsentwicklung beobachten
 - negative Bevölkerungsentwicklung

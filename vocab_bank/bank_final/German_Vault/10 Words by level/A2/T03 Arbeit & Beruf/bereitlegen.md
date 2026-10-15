@@ -33,6 +33,9 @@ status: "new"
 > Bitte legen Sie die Unterlagen bereit.
 > *Please have the documents ready.*
 
+**Phrases & Expressions:**
+- **Bitte legen Sie die Unterlagen bereit** — *Please have the documents ready* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 11b (Arbeitswelten)
 <!-- bank:end -->
 

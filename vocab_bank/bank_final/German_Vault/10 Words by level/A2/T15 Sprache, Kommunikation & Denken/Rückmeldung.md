@@ -35,6 +35,12 @@ status: "new"
 > Reagieren Sie auf die Rückmeldung.
 > *Respond to the feedback.*
 
+**Phrases & Expressions:**
+- **Ich habe bis heute keine Rückmeldung erhalten.** — I have received no reply to date. *([[B2-04 Beschwerde und Reklamation|Problem schildern]] · B2)*
+- **Vielen Dank für Ihre Rückmeldung, wir werden das prüfen.** — Thank you for your feedback; we will look into it. *([[B2-04 Beschwerde und Reklamation|Auf Beschwerde reagieren]] · B2)*
+- **Ich würde mich über eine Rückmeldung bis zum ... freuen.** — I would appreciate a reply by ... *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Bitte um Rückmeldung]] · B2)*
+- **Danke für die Rückmeldung, das hilft mir weiter.** — Thanks for the feedback, that helps me. *([[B2-12 Höflichkeit und Diplomatie - Kritik und Ablehnung abmildern|Konstruktiv reagieren]] · B2)*
+
 **Source:** Netzwerk neu A2 K6 12b (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

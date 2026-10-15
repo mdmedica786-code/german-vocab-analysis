@@ -33,6 +33,11 @@ status: "new"
 > Die Mehrzahl der Gäste war zufrieden.
 > *The majority of the guests were satisfied.*
 
+**Phrases & Expressions:**
+- **in der Mehrzahl der Fälle** — in the majority of cases *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · C1)*
+- **in der Mehrzahl** — *majority; plural*
+- **die Mehrzahl bilden** — *majority; plural*
+
 **Collocations**
 - in der Mehrzahl
 - in der Mehrzahl der Fälle

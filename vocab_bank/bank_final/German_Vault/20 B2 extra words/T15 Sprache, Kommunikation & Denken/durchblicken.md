@@ -32,6 +32,12 @@ status: "new"
 > Bei diesen Formularen blicke ich nicht mehr durch.
 > *I cannot make sense of these forms any more.*
 
+**Phrases & Expressions:**
+- **Bitte atmen Sie kurz durch, dann klären wir alles.** — Please take a deep breath, then we will sort everything out. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Aufgebrachte beruhigen]] · B2)*
+- **nicht durchblicken** — *to understand; to get the hang of (colloquial); to look through*
+- **durch das Schlüsselloch durchblicken** — *to understand; to get the hang of (colloquial); to look through*
+- **da blickt keiner durch** — *to understand; to get the hang of (colloquial); to look through*
+
 **Collocations**
 - nicht durchblicken
 - durch das Schlüsselloch durchblicken

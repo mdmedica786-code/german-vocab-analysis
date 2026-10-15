@@ -33,6 +33,11 @@ status: "new"
 > Das Buch ist ab Montag im Buchhandel erhältlich.
 > *The book is available in bookshops from Monday.*
 
+**Phrases & Expressions:**
+- **im Buchhandel erhältlich** — *book trade; bookselling*
+- **der stationäre Buchhandel** — *book trade; bookselling*
+- **der Online-Buchhandel** — *book trade; bookselling*
+
 **Collocations**
 - im Buchhandel erhältlich
 - der stationäre Buchhandel

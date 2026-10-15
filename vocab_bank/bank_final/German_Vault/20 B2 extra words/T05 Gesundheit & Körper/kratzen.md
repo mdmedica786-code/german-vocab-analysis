@@ -31,6 +31,11 @@ status: "new"
 > Die Katze hat mich am Arm gekratzt.
 > *The cat scratched me on the arm.*
 
+**Phrases & Expressions:**
+- **sich am Kopf kratzen** — *to scratch*
+- **am Hals kratzen** — *to scratch*
+- **ein kratziger Pullover** — *to scratch*
+
 **Collocations**
 - sich am Kopf kratzen
 - am Hals kratzen

@@ -29,6 +29,11 @@ status: "new"
 > Es gibt unzählige Möglichkeiten, Deutsch zu lernen.
 > *There are countless ways to learn German.*
 
+**Phrases & Expressions:**
+- **unzählige Male** — *countless*
+- **unzählige Menschen** — *countless*
+- **unzählig viele** — *countless*
+
 **Collocations**
 - unzählige Male
 - unzählige Menschen

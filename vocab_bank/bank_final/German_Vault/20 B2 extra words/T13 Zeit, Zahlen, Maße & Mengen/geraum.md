@@ -29,6 +29,11 @@ status: "new"
 > Das Problem besteht seit geraumer Zeit.
 > *The problem has existed for quite some time.*
 
+**Phrases & Expressions:**
+- **seit geraumer Zeit** — *considerable (of time; only in "seit geraumer Zeit")*
+- **vor geraumer Zeit** — *considerable (of time; only in "seit geraumer Zeit")*
+- **geraume Zeit** — *considerable (of time; only in "seit geraumer Zeit")*
+
 **Collocations**
 - seit geraumer Zeit
 - vor geraumer Zeit

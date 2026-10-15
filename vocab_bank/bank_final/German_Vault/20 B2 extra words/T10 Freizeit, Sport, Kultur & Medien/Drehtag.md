@@ -33,6 +33,11 @@ status: "new"
 > Am ersten Drehtag regnete es den ganzen Tag.
 > *On the first shooting day it rained all day.*
 
+**Phrases & Expressions:**
+- **der erste Drehtag** — *shooting day (film)*
+- **ein langer Drehtag** — *shooting day (film)*
+- **am Drehtag** — *shooting day (film)*
+
 **Collocations**
 - der erste Drehtag
 - ein langer Drehtag

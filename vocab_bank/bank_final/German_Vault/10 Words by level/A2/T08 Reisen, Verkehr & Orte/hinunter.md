@@ -30,6 +30,9 @@ status: "new"
 > Wir gehen die Treppe hinunter.
 > *We're going down the stairs.*
 
+**Phrases & Expressions:**
+- **Wir gehen die Treppe hinunter** — *We're going down the stairs* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

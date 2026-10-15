@@ -33,6 +33,11 @@ status: "new"
 > Die Bibel wurde in viele Sprachen übersetzt.
 > *The Bible has been translated into many languages.*
 
+**Phrases & Expressions:**
+- **die Bibel lesen** — *Bible*
+- **aus der Bibel zitieren** — *Bible*
+- **die Heilige Schrift** — *Bible*
+
 **Collocations**
 - die Bibel lesen
 - aus der Bibel zitieren

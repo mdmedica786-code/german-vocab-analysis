@@ -33,6 +33,11 @@ status: "new"
 > Das Haus hat viele Vorzüge, aber auch einen Nachteil.
 > *The house has many advantages but also one disadvantage.*
 
+**Phrases & Expressions:**
+- **den Vorzug geben + Dat.** — *advantage; merit*
+- **Vorzüge und Nachteile** — *advantage; merit*
+- **einen Vorzug haben** — *advantage; merit*
+
 **Collocations**
 - den Vorzug geben + Dat.
 - Vorzüge und Nachteile

@@ -34,6 +34,9 @@ status: "new"
 > Sie stammt aus einer alten Kaufmannsfamilie.
 > *She comes from an old merchant family.*
 
+**Phrases & Expressions:**
+- **Sie stammt aus einer alten Kaufmannsfamilie** — *She comes from an old merchant family* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

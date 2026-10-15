@@ -35,6 +35,9 @@ status: "new"
 > In welchem Bereich möchten Sie arbeiten?
 > *Which area would you like to work in?*
 
+**Phrases & Expressions:**
+- **In welchem Bereich möchten Sie arbeiten** — *Which area would you like to work in* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 12b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

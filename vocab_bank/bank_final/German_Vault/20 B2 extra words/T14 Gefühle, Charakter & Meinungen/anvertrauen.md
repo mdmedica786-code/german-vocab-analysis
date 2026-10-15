@@ -32,6 +32,11 @@ status: "new"
 > Sie hat ihrer Freundin ein Geheimnis anvertraut.
 > *She confided a secret to her friend.*
 
+**Phrases & Expressions:**
+- **jemandem etwas anvertrauen** — *to entrust; to confide*
+- **sich jemandem anvertrauen** — *to entrust; to confide*
+- **Kinder anvertrauen** — *to entrust; to confide*
+
 **Collocations**
 - jemandem etwas anvertrauen
 - sich jemandem anvertrauen

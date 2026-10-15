@@ -33,6 +33,12 @@ status: "new"
 > Der Arzt gibt dem Patienten eine Injektion.
 > *The doctor gives the patient an injection.*
 
+**Phrases & Expressions:**
+- **eine Injektion geben** — *injection*
+- **intravenöse Injektion** — *injection*
+- **Injektion unter die Haut** — *injection*
+- **eine Injektion verabreichen** — *injection*
+
 **Collocations**
 - eine Injektion geben
 - intravenöse Injektion

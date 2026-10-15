@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Über 10.000 Menschen unterschrieben die Online-Petition.
 > *Over 10,000 people signed the online petition.*
+
+**Phrases & Expressions:**
+- **Über 10.000 Menschen unterschrieben die Online-Petition** — *Over 10,000 people signed the online petition* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

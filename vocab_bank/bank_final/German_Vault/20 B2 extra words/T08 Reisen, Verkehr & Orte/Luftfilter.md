@@ -33,6 +33,11 @@ status: "new"
 > Der Luftfilter im Auto muss regelmäßig gewechselt werden.
 > *The air filter in the car has to be changed regularly.*
 
+**Phrases & Expressions:**
+- **den Luftfilter wechseln** — *air filter*
+- **den Luftfilter reinigen** — *air filter*
+- **ein neuer Luftfilter** — *air filter*
+
 **Collocations**
 - den Luftfilter wechseln
 - den Luftfilter reinigen

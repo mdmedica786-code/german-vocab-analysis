@@ -34,6 +34,12 @@ status: "new"
 > So ein teures Auto kann ich mir leider nicht leisten.
 > *Unfortunately I can't afford such an expensive car.*
 
+**Phrases & Expressions:**
+- **sich etwas leisten** — *to afford; to achieve; to do*
+- **Hilfe leisten** — *to afford; to achieve; to do*
+- **gute Arbeit leisten** — *to afford; to achieve; to do*
+- **einen Beitrag leisten** — *to afford; to achieve; to do*
+
 **Collocations**
 - sich etwas leisten
 - Hilfe leisten

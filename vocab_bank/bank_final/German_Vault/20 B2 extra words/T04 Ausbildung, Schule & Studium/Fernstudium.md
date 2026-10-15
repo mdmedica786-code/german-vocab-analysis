@@ -33,6 +33,11 @@ status: "new"
 > Neben dem Beruf macht sie ein Fernstudium in Betriebswirtschaft.
 > *Alongside her job she is doing a distance degree in business administration.*
 
+**Phrases & Expressions:**
+- **ein Fernstudium absolvieren** — *distance learning degree*
+- **sich für ein Fernstudium einschreiben** — *distance learning degree*
+- **berufsbegleitendes Fernstudium** — *distance learning degree*
+
 **Collocations**
 - ein Fernstudium absolvieren
 - sich für ein Fernstudium einschreiben

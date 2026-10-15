@@ -33,6 +33,11 @@ status: "new"
 > Die Aufteilung der Kosten ist fair.
 > *The division of the costs is fair.*
 
+**Phrases & Expressions:**
+- **die Aufteilung der Kosten** — *division; distribution; allocation*
+- **eine gerechte Aufteilung** — *division; distribution; allocation*
+- **die Aufteilung in Gruppen** — *division; distribution; allocation*
+
 **Collocations**
 - die Aufteilung der Kosten
 - eine gerechte Aufteilung

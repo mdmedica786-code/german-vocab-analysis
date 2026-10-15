@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Hypothese muss noch überprüft werden.
 > *The hypothesis still has to be tested.*
+
+**Phrases & Expressions:**
+- **Die Hypothese muss noch überprüft werden** — *The hypothesis still has to be tested* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

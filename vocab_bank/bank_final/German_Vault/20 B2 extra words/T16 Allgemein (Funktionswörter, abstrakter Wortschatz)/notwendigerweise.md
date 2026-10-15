@@ -29,6 +29,11 @@ status: "new"
 > Das ist nicht notwendigerweise ein Nachteil.
 > *That is not necessarily a disadvantage.*
 
+**Phrases & Expressions:**
+- **nicht notwendigerweise** — *necessarily*
+- **notwendigerweise folgen** — *necessarily*
+- **notwendigerweise teuer** — *necessarily*
+
 **Collocations**
 - nicht notwendigerweise
 - notwendigerweise folgen

@@ -35,6 +35,9 @@ status: "new"
 > Wir haben leider keinen Garten.
 > *Unfortunately we have no garden.*
 
+**Phrases & Expressions:**
+- **Wir haben leider keinen Garten** — *Unfortunately we have no garden* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 10a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

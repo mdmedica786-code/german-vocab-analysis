@@ -33,6 +33,11 @@ status: "new"
 > Wir besichtigten einen alten Tempel.
 > *We visited an old temple.*
 
+**Phrases & Expressions:**
+- **ein alter Tempel** — *temple*
+- **den Tempel besuchen** — *temple*
+- **der Tempel der Göttin** — *temple*
+
 **Collocations**
 - ein alter Tempel
 - den Tempel besuchen

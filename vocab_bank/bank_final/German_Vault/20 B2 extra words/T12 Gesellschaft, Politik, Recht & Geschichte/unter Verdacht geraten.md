@@ -26,6 +26,10 @@ status: "new"
 > Der Mitarbeiter geriet unter Verdacht, Geld gestohlen zu haben.
 > *The employee came under suspicion of having stolen money.*
 
+**Phrases & Expressions:**
+- **unter Verdacht stehen** — *to come under suspicion*
+- **in Verdacht geraten** — *to come under suspicion*
+
 **Collocations**
 - unter Verdacht stehen
 - in Verdacht geraten

@@ -29,6 +29,12 @@ status: "new"
 > Der Tumor wurde operativ entfernt.
 > *The tumour was removed surgically.*
 
+**Phrases & Expressions:**
+- **operativer Eingriff** — *operative; surgical*
+- **operative Therapie** — *operative; surgical*
+- **operativ entfernen** — *operative; surgical*
+- **operative Behandlung** — *operative; surgical*
+
 **Collocations**
 - operativer Eingriff
 - operative Therapie

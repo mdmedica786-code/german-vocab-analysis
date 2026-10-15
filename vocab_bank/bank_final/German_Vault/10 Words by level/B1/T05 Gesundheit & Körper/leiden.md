@@ -34,6 +34,12 @@ status: "new"
 > Er leidet an einer schweren Krankheit.
 > *He suffers from a serious illness.*
 
+**Phrases & Expressions:**
+- **an einer Krankheit leiden** — *to suffer*
+- **unter Schmerzen leiden** — *to suffer*
+- **unter etwas leiden** — *to suffer*
+- **Hunger leiden** — *to suffer*
+
 **Collocations**
 - an einer Krankheit leiden
 - unter Schmerzen leiden

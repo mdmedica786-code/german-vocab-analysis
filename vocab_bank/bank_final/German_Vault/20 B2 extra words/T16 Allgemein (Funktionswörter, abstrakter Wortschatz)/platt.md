@@ -29,6 +29,11 @@ status: "new"
 > Der Reifen ist platt.
 > *The tyre is flat.*
 
+**Phrases & Expressions:**
+- **ein platter Reifen** — *flat; trite*
+- **platt sein** — *flat; trite*
+- **platte Witze** — *flat; trite*
+
 **Collocations**
 - ein platter Reifen
 - platt sein

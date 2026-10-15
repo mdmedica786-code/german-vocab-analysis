@@ -33,6 +33,11 @@ status: "new"
 > Sein fester Händedruck wirkte sympathisch.
 > *His firm handshake seemed likeable.*
 
+**Phrases & Expressions:**
+- **ein fester Händedruck** — *handshake; grip of the hand*
+- **mit einem Händedruck begrüßen** — *handshake; grip of the hand*
+- **ein kurzer Händedruck** — *handshake; grip of the hand*
+
 **Collocations**
 - ein fester Händedruck
 - mit einem Händedruck begrüßen

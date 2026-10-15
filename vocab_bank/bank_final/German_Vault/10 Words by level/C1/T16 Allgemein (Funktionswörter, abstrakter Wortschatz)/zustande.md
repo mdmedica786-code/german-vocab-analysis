@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Der Vertrag ist nicht zustande gekommen.
 > *The contract did not come about.*
+
+**Phrases & Expressions:**
+- **Der Vertrag ist nicht zustande gekommen** — *The contract did not come about* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

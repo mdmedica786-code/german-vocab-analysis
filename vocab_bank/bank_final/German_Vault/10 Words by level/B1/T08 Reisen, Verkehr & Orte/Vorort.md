@@ -35,6 +35,9 @@ status: "new"
 > Mein Bruder wohnt in einem Vorort von Hamburg.
 > *My brother lives in a suburb of Hamburg.*
 
+**Phrases & Expressions:**
+- **Mein Bruder wohnt in einem Vorort von Hamburg** — *My brother lives in a suburb of Hamburg* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

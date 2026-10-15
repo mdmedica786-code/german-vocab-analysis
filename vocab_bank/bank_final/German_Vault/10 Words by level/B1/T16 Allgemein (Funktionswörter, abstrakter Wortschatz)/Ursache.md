@@ -35,6 +35,11 @@ status: "new"
 > Vielen Dank! – Keine Ursache!
 > *Thank you very much! – Don't mention it!*
 
+**Phrases & Expressions:**
+- **Keine Ursache, das war doch selbstverständlich.** — Don't mention it, that was only natural. *([[B1-17 Sich entschuldigen und danken|Auf Dank reagieren]] · B1)*
+- **Wir müssen auch an andere Ursachen denken.** — We must also think of other causes. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Differenzialdiagnosen]] · B2)*
+- **Die Ursache dafür ist meist ...** — The cause is usually ... *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Ursachen erklären]] · B2)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

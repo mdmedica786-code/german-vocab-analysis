@@ -35,6 +35,9 @@ status: "new"
 > Ein Pfund Äpfel bitte.
 > *A pound of apples, please.*
 
+**Phrases & Expressions:**
+- **Ein Pfund Äpfel bitte** — *A pound of apples, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 2b (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

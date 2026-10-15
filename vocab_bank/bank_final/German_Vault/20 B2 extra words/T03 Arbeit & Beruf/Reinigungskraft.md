@@ -33,6 +33,11 @@ status: "new"
 > Die Reinigungskräfte kommen jeden Abend ins Büro.
 > *The cleaners come to the office every evening.*
 
+**Phrases & Expressions:**
+- **eine Reinigungskraft einstellen** — *cleaner*
+- **als Reinigungskraft arbeiten** — *cleaner*
+- **Reinigungskräfte suchen** — *cleaner*
+
 **Collocations**
 - eine Reinigungskraft einstellen
 - als Reinigungskraft arbeiten

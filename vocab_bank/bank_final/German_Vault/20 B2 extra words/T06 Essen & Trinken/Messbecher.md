@@ -33,6 +33,11 @@ status: "new"
 > Fülle im Messbecher 250 Milliliter Milch ab.
 > *Measure out 250 millilitres of milk in the measuring jug.*
 
+**Phrases & Expressions:**
+- **im Messbecher abmessen** — *measuring jug*
+- **ein Messbecher mit Skala** — *measuring jug*
+- **Milch im Messbecher** — *measuring jug*
+
 **Collocations**
 - im Messbecher abmessen
 - ein Messbecher mit Skala

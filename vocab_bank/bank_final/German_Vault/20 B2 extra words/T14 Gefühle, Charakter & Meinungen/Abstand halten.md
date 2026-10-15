@@ -26,6 +26,10 @@ status: "new"
 > Bitte halten Sie im Straßenverkehr genug Abstand.
 > *Please keep enough distance in road traffic.*
 
+**Phrases & Expressions:**
+- **Abstand wahren** — *to keep one's distance*
+- **genügend Abstand halten** — *to keep one's distance*
+
 **Collocations**
 - Abstand wahren
 - genügend Abstand halten

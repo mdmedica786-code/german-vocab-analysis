@@ -31,6 +31,12 @@ status: "new"
 > Muss ich noch einmal kommen? – Nein, das ist nicht notwendig.
 > *Do I have to come again? – No, that isn't necessary.*
 
+**Phrases & Expressions:**
+- **notwendig sein** — *necessary*
+- **unbedingt notwendig** — *necessary*
+- **notwendige Maßnahmen** — *necessary*
+- **nicht notwendig** — *necessary*
+
 **Collocations**
 - notwendig sein
 - unbedingt notwendig

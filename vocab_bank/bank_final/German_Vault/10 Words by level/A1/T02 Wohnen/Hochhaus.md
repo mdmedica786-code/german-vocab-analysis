@@ -34,6 +34,9 @@ status: "new"
 > Er wohnt in einem Hochhaus im zehnten Stock.
 > *He lives in a high-rise on the tenth floor.*
 
+**Phrases & Expressions:**
+- **Er wohnt in einem Hochhaus im zehnten Stock** — *He lives in a high-rise on the tenth floor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 10a (Meine Wohnung)
 <!-- bank:end -->
 

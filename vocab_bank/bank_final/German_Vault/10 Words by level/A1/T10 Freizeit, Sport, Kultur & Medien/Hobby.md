@@ -35,6 +35,9 @@ status: "new"
 > Meine Hobbys sind Wandern und Schwimmen.
 > *My hobbies are hiking and swimming.*
 
+**Phrases & Expressions:**
+- **Meine Hobbys sind Wandern und Schwimmen** — *My hobbies are hiking and swimming* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3d (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

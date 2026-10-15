@@ -35,6 +35,9 @@ status: "new"
 > An diesem Produkt besteht großer Bedarf.
 > *There is a great need for this product.*
 
+**Phrases & Expressions:**
+- **An diesem Produkt besteht großer Bedarf** — *There is a great need for this product* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 4b (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

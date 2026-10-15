@@ -30,6 +30,11 @@ status: "new"
 > Im Seminar machten wir eine kurze Wahrnehmungsübung.
 > *In the seminar we did a short perception exercise.*
 
+**Phrases & Expressions:**
+- **eine Wahrnehmungsübung machen** — *perception exercise*
+- **eine Wahrnehmungsübung anleiten** — *perception exercise*
+- **eine Wahrnehmungsübung durchführen** — *perception exercise*
+
 **Collocations**
 - eine Wahrnehmungsübung machen
 - eine Wahrnehmungsübung anleiten

@@ -39,6 +39,9 @@ status: "new"
 > Meine Frau ist gestern gestorben.
 > *My wife died yesterday.*
 
+**Phrases & Expressions:**
+- **Woran sind Ihre Eltern gestorben?** — What did your parents die of? *([[FSP-05 Familien- und Sozialanamnese|Familienanamnese]] · B2)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

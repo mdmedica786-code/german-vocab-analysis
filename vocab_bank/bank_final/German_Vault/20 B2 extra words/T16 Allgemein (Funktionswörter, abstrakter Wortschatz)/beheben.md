@@ -31,6 +31,12 @@ status: "new"
 > Der Techniker hat den Fehler schnell behoben.
 > *The technician fixed the error quickly.*
 
+**Phrases & Expressions:**
+- **Bitte beheben Sie den Mangel schnellstmöglich.** — Please remedy the defect as soon as possible. *([[B2-04 Beschwerde und Reklamation|Forderung stellen]] · B2)*
+- **einen Fehler beheben** — *to fix; to remedy; to eliminate*
+- **ein Problem beheben** — *to fix; to remedy; to eliminate*
+- **einen Schaden beheben** — *to fix; to remedy; to eliminate*
+
 **Collocations**
 - einen Fehler beheben
 - ein Problem beheben

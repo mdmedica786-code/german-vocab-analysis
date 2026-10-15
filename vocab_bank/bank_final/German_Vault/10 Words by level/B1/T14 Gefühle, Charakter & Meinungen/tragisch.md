@@ -30,6 +30,9 @@ status: "new"
 > Der Unfall war wirklich tragisch.
 > *The accident was really tragic.*
 
+**Phrases & Expressions:**
+- **Der Unfall war wirklich tragisch** — *The accident was really tragic* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist)
 <!-- bank:end -->
 

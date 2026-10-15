@@ -33,6 +33,11 @@ status: "new"
 > Beim Grillen gibt es Bratwurst und Salate.
 > *At the barbecue there are bratwurst and salads.*
 
+**Phrases & Expressions:**
+- **Bratwurst grillen** — *fried sausage; bratwurst*
+- **eine Bratwurst im Brötchen** — *fried sausage; bratwurst*
+- **Thüringer Bratwurst** — *fried sausage; bratwurst*
+
 **Collocations**
 - Bratwurst grillen
 - eine Bratwurst im Brötchen

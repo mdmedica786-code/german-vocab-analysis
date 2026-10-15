@@ -34,6 +34,9 @@ status: "new"
 > Im Nationalpark leben viele Wildtiere.
 > *Many wild animals live in the national park.*
 
+**Phrases & Expressions:**
+- **Im Nationalpark leben viele Wildtiere** — *Many wild animals live in the national park* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der Gorilla ist ein Menschenaffe.
 > *The gorilla is a great ape.*
 
+**Phrases & Expressions:**
+- **ein Menschenaffe im Zoo** — *great ape*
+- **der Menschenaffe und der Mensch** — *great ape*
+- **Menschenaffen beobachten** — *great ape*
+
 **Collocations**
 - ein Menschenaffe im Zoo
 - der Menschenaffe und der Mensch

@@ -35,6 +35,9 @@ status: "new"
 > Die Rechnung, bitte.
 > *The bill, please.*
 
+**Phrases & Expressions:**
+- **Die Rechnung, bitte** — *The bill, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

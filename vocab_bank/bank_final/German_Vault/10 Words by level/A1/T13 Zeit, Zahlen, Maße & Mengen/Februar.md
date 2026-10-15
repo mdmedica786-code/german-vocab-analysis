@@ -35,6 +35,9 @@ status: "new"
 > Der Februar hat achtundzwanzig Tage.
 > *February has twenty-eight days.*
 
+**Phrases & Expressions:**
+- **Der Februar hat achtundzwanzig Tage** — *February has twenty-eight days* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Die Krankheit ist durch Tröpfchen übertragbar.
 > *The disease can be transmitted through droplets.*
 
+**Phrases & Expressions:**
+- **leicht übertragbar** — *transferable; transmissible; contagious*
+- **auf andere übertragbar** — *transferable; transmissible; contagious*
+- **übertragbar sein** — *transferable; transmissible; contagious*
+
 **Collocations**
 - leicht übertragbar
 - auf andere übertragbar

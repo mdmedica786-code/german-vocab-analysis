@@ -33,6 +33,11 @@ status: "new"
 > Die Mitarbeiter haben viel Entscheidungsfreiheit.
 > *The employees have a lot of freedom to decide.*
 
+**Phrases & Expressions:**
+- **Entscheidungsfreiheit haben** — *freedom of choice; freedom to decide*
+- **die Entscheidungsfreiheit einschränken** — *freedom of choice; freedom to decide*
+- **mehr Entscheidungsfreiheit** — *freedom of choice; freedom to decide*
+
 **Collocations**
 - Entscheidungsfreiheit haben
 - die Entscheidungsfreiheit einschränken

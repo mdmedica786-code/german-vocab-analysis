@@ -31,6 +31,9 @@ status: "new"
 > Der Studiogast erzählt von seinem neuen Buch.
 > *The studio guest talks about his new book.*
 
+**Phrases & Expressions:**
+- **Der Studiogast erzählt von seinem neuen Buch** — *The studio guest talks about his new book* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 11a (Rund um Körper und Geist)
 <!-- bank:end -->
 

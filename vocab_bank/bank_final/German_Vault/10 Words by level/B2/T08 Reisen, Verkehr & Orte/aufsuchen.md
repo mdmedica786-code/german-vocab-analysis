@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Bei Fieber sollten Sie einen Arzt aufsuchen.
 > *If you have a fever you should see a doctor.*
+
+**Phrases & Expressions:**
+- **Bei Fieber sollten Sie einen Arzt aufsuchen** — *If you have a fever you should see a doctor* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

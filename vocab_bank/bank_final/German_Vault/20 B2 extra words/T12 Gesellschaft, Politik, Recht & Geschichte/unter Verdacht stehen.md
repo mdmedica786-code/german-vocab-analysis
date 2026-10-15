@@ -26,6 +26,9 @@ status: "new"
 > Der Nachbar steht unter Verdacht, den Einbruch begangen zu haben.
 > *The neighbour is under suspicion of having committed the burglary.*
 
+**Phrases & Expressions:**
+- **unter Verdacht geraten** — *to be under suspicion*
+
 **Collocations**
 - unter Verdacht geraten
 

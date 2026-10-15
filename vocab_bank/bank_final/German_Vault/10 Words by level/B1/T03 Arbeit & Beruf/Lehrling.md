@@ -35,6 +35,9 @@ status: "new"
 > Als Lehrling verdient man nicht sehr viel Geld.
 > *As an apprentice you don't earn very much money.*
 
+**Phrases & Expressions:**
+- **Als Lehrling verdient man nicht sehr viel Geld** — *As an apprentice you don't earn very much money* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 9a (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

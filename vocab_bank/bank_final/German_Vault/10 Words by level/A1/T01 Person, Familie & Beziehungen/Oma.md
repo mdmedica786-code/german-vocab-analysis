@@ -35,6 +35,9 @@ status: "new"
 > Meine Oma ist schon tot.
 > *My grandma has already died.*
 
+**Phrases & Expressions:**
+- **Meine Oma ist schon tot** — *My grandma has already died* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 1a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

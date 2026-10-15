@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Der Arzt fragt auch nach der sexuellen Gesundheit.
 > *The doctor also asks about sexual health.*
+
+**Phrases & Expressions:**
+- **Der Arzt fragt auch nach der sexuellen Gesundheit** — *The doctor also asks about sexual health* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

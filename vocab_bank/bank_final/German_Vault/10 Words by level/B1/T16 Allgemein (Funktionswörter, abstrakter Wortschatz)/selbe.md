@@ -30,6 +30,9 @@ status: "new"
 > Inga und ich wohnen im selben Haus.
 > *Inga and I live in the same house.*
 
+**Phrases & Expressions:**
+- **Inga und ich wohnen im selben Haus** — *Inga and I live in the same house* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 2b (Zwischenmenschliches)
 <!-- bank:end -->
 

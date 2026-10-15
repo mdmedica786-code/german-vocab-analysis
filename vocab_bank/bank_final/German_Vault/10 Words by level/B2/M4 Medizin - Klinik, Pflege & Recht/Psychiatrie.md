@@ -33,6 +33,12 @@ status: "new"
 > Er arbeitet als Arzt in der Psychiatrie.
 > *He works as a doctor in psychiatry.*
 
+**Phrases & Expressions:**
+- **in der Psychiatrie arbeiten** — *psychiatry*
+- **in die Psychiatrie einweisen** — *psychiatry*
+- **forensische Psychiatrie** — *psychiatry*
+- **Kinder- und Jugendpsychiatrie** — *psychiatry*
+
 **Collocations**
 - in der Psychiatrie arbeiten
 - in die Psychiatrie einweisen

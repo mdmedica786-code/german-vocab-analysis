@@ -33,6 +33,11 @@ status: "new"
 > Mitten im Wald liegt eine kleine Lichtung.
 > *In the middle of the forest lies a small clearing.*
 
+**Phrases & Expressions:**
+- **eine Lichtung im Wald** — *clearing*
+- **auf einer Lichtung** — *clearing*
+- **eine sonnige Lichtung** — *clearing*
+
 **Collocations**
 - eine Lichtung im Wald
 - auf einer Lichtung

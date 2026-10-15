@@ -33,6 +33,12 @@ status: "new"
 > Der Oberschenkel ist geschwollen.
 > *The thigh is swollen.*
 
+**Phrases & Expressions:**
+- **Bruch des Oberschenkels** — *thigh*
+- **Schmerzen im Oberschenkel** — *thigh*
+- **den Oberschenkel anspannen** — *thigh*
+- **der rechte Oberschenkel** — *thigh*
+
 **Collocations**
 - Bruch des Oberschenkels
 - Schmerzen im Oberschenkel

@@ -30,6 +30,9 @@ status: "new"
 > Das Medikament dürfen Sie nur äußerlich anwenden.
 > *You may only use the medicine externally.*
 
+**Phrases & Expressions:**
+- **Das Medikament dürfen Sie nur äußerlich anwenden** — *You may only use the medicine externally* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

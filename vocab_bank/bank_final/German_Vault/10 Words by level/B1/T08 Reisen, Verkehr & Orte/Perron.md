@@ -42,6 +42,9 @@ status: "new"
 > Auf Hauptbahnhöfen gibt es meist viele Perrons.
 > *Main stations usually have many platforms.*
 
+**Phrases & Expressions:**
+- **Auf Hauptbahnhöfen gibt es meist viele Perrons** — *Main stations usually have many platforms* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

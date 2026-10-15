@@ -33,6 +33,12 @@ status: "new"
 > Der Vorfall wurde sofort der Polizei gemeldet.
 > *The incident was reported to the police immediately.*
 
+**Phrases & Expressions:**
+- **Wir sollten den Vorfall im Team besprechen, um daraus zu lernen.** — We should discuss the incident in the team in order to learn from it. *([[FSP-19 Übergabe, Konsil und Rücksprache|Fehler ansprechen]] · C1)*
+- **ein Vorfall ereignet sich** — *incident; occurrence*
+- **einen Vorfall melden** — *incident; occurrence*
+- **ein peinlicher Vorfall** — *incident; occurrence*
+
 **Collocations**
 - ein Vorfall ereignet sich
 - einen Vorfall melden

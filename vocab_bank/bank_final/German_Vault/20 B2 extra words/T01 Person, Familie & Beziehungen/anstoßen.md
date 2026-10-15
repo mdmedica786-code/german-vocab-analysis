@@ -32,6 +32,11 @@ status: "new"
 > Wir haben auf das neue Jahr angestoßen.
 > *We clinked glasses to the new year.*
 
+**Phrases & Expressions:**
+- **auf jemanden anstoßen** — *to clink glasses; to bump; to initiate*
+- **mit den Gläsern anstoßen** — *to clink glasses; to bump; to initiate*
+- **eine Diskussion anstoßen** — *to clink glasses; to bump; to initiate*
+
 **Collocations**
 - auf jemanden anstoßen
 - mit den Gläsern anstoßen

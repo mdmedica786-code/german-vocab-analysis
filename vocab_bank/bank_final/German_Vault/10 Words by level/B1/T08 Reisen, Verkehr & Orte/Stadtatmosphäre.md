@@ -31,6 +31,9 @@ status: "new"
 > Ich mag die Stadtatmosphäre am Abend.
 > *I like the city atmosphere in the evening.*
 
+**Phrases & Expressions:**
+- **Ich mag die Stadtatmosphäre am Abend** — *I like the city atmosphere in the evening* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 8b (Gute Reise!)
 <!-- bank:end -->
 

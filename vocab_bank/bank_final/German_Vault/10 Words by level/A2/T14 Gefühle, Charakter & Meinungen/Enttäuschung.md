@@ -35,6 +35,9 @@ status: "new"
 > Das Endspiel war eine große Enttäuschung.
 > *The final was a big disappointment.*
 
+**Phrases & Expressions:**
+- **Das Endspiel war eine große Enttäuschung** — *The final was a big disappointment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 3d (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

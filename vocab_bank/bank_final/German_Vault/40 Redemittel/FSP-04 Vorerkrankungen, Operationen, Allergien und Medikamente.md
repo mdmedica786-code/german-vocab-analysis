@@ -20,12 +20,14 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
   - Variants: Sind bei Ihnen Krankheiten bekannt? | Leiden Sie an chronischen Erkrankungen?
   - Exam: FSP Anamnesegespräch
 - **Sind Sie wegen einer chronischen Erkrankung in Behandlung?** ⭐ — Are you receiving treatment for a chronic illness?
+  - Words: [[Behandlung]] · [[Erkrankung]] · [[wegen]] · [[chronisch]] · [[Weg]]
   - Sind Sie wegen einer chronischen Erkrankung in Behandlung, etwa wegen Asthma? *(Are you receiving treatment for a chronic illness, for example asthma?)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: in Behandlung sein; wegen + Genitiv
   - Variants: Werden Sie regelmäßig ärztlich kontrolliert? | Haben Sie eine Dauererkrankung?
   - Exam: FSP Anamnesegespräch
 - **Waren Sie früher schon einmal ernsthaft krank?** ⭐ — Have you ever been seriously ill before?
+  - Words: [[schon]] · [[krank]] · [[früh]] · [[früher]] · [[Ware]] · [[einmal]] · [[frühere]] · [[krankschreiben]]
   - Waren Sie früher schon einmal ernsthaft krank oder lange im Krankenhaus? *(Have you ever been seriously ill before, or in hospital for a long time?)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: Präteritum von sein; schon einmal
@@ -34,6 +36,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Operationen erfragen
 
 - **Wurden Sie schon einmal operiert?** ⭐ — Have you ever had surgery?
+  - Words: [[schon]] · [[einmal]] · [[operieren]]
   - Wurden Sie schon einmal operiert, zum Beispiel am Blinddarm? *(Have you ever had surgery, for example on your appendix?)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: Passiv Präteritum: wurden ... operiert
@@ -42,6 +45,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Krankenhausaufenthalte
 
 - **Waren Sie in den letzten Jahren im Krankenhaus?** ⭐ — Have you been in hospital in recent years?
+  - Words: [[Jahr]] · [[Krankenhaus]] · [[letzte (adjective)]] · [[Ware]] · [[Letzte]]
   - Waren Sie in den letzten Jahren im Krankenhaus, und wenn ja, weshalb? *(Have you been in hospital in recent years, and if so, why?)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: im Krankenhaus sein
@@ -50,12 +54,14 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Allergien erfragen
 
 - **Haben Sie Allergien oder Unverträglichkeiten?** ⭐ — Do you have any allergies or intolerances?
+  - Words: [[Allergie]]
   - Haben Sie Allergien oder Unverträglichkeiten, zum Beispiel gegen Penicillin? *(Do you have any allergies or intolerances, for example to penicillin?)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: Allergie gegen + Akkusativ
   - Variants: Sind bei Ihnen Allergien bekannt? | Vertragen Sie bestimmte Medikamente nicht?
   - Exam: FSP Anamnesegespräch
 - **Wie reagieren Sie auf Pollen, Nahrungsmittel oder Medikamente?** — How do you react to pollen, foods or medicines?
+  - Words: [[reagieren]] · [[Medikament]] · [[Nahrungsmittel]] · [[Pollen]]
   - Wie reagieren Sie auf Pollen, bestimmte Nahrungsmittel oder Medikamente? *(How do you react to pollen, certain foods or medicines?)*
   - B2 · formal · speaker: Arzt · to: Patient
   - Grammar: reagieren auf + Akkusativ
@@ -64,12 +70,14 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Dauermedikation
 
 - **Nehmen Sie regelmäßig Medikamente ein?** ⭐ — Do you take medicines regularly?
+  - Words: [[Medikament]] · [[nehmen]] · [[regelmäßig]]
   - Nehmen Sie regelmäßig Medikamente ein? Wenn ja, welche? *(Do you take medicines regularly? If so, which?)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: einnehmen: trennbar
   - Variants: Welche Medikamente nehmen Sie derzeit? | Haben Sie einen Medikamentenplan dabei?
   - Exam: FSP Anamnesegespräch
 - **Können Sie mir sagen, wie hoch die Dosierung ist?** ⭐ — Can you tell me how high the dose is?
+  - Words: [[sagen]] · [[hoch]] · [[hochfahren]] · [[hochladen]] · [[Dosierung]] · [[können]]
   - Können Sie mir sagen, wie hoch die Dosierung ist und wie oft Sie es nehmen? *(Can you tell me how high the dose is and how often you take it?)*
   - B2 · formal · speaker: Arzt · to: Patient
   - Grammar: indirekte Frage: Verb am Ende
@@ -78,6 +86,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Blutverdünner erfragen
 
 - **Nehmen Sie Blutverdünner wie Marcumar oder ASS?** ⭐ — Do you take blood thinners such as Marcumar or aspirin?
+  - Words: [[nehmen]]
   - Nehmen Sie Blutverdünner wie Marcumar, Eliquis oder ASS? *(Do you take blood thinners such as Marcumar, Eliquis or aspirin?)*
   - B2 · formal · speaker: Arzt · to: Patient
   - Grammar: Blutverdünner: Gerinnungshemmer
@@ -86,12 +95,14 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Impfstatus erfragen
 
 - **Sind Ihre Impfungen auf dem neuesten Stand?** ⭐ — Are your vaccinations up to date?
+  - Words: [[stehen]] · [[aufstehen]] · [[Stand]] · [[feststehen]] · [[zustehen]] · [[gegenüberstehen]]
   - Sind Ihre Impfungen auf dem neuesten Stand, etwa gegen Tetanus und Grippe? *(Are your vaccinations up to date, for example against tetanus and flu?)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: auf dem neuesten Stand sein
   - Variants: Haben Sie Ihren Impfausweis dabei? | Wann wurden Sie zuletzt geimpft?
   - Exam: FSP Anamnesegespräch
 - **Wann wurden Sie zuletzt gegen Tetanus geimpft?** — When were you last vaccinated against tetanus?
+  - Words: [[gegen]] · [[zuletzt]] · [[wann]]
   - Wann wurden Sie zuletzt gegen Tetanus geimpft? Das ist wichtig bei Wunden. *(When were you last vaccinated against tetanus? That is important for wounds.)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: Passiv Präteritum; impfen gegen + Akkusativ
@@ -100,12 +111,14 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Schwangerschaft erfragen
 
 - **Besteht die Möglichkeit, dass Sie schwanger sind?** ⭐ — Is there a possibility that you are pregnant?
+  - Words: [[bestehen]] · [[Möglichkeit]] · [[schwanger]]
   - Besteht die Möglichkeit, dass Sie schwanger sind? Das ist wichtig für die Untersuchung. *(Is there a possibility that you are pregnant? That is important for the examination.)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: dass-Satz: Verb am Ende
   - Variants: Könnten Sie schwanger sein? | Wann hatten Sie Ihre letzte Periode?
   - Exam: FSP Anamnesegespräch
 - **Wie viele Schwangerschaften hatten Sie bisher?** — How many pregnancies have you had so far?
+  - Words: [[bisher]] · [[Schwangerschaft]]
   - Wie viele Schwangerschaften und Geburten hatten Sie bisher? *(How many pregnancies and births have you had so far?)*
   - B2 · formal · speaker: Arzt · to: Patient
   - Grammar: bisher = bis jetzt
@@ -114,12 +127,14 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Vorsorge erfragen
 
 - **Gehen Sie regelmäßig zur Vorsorgeuntersuchung?** ⭐ — Do you go for check-ups regularly?
+  - Words: [[gehen]] · [[regelmäßig]]
   - Gehen Sie regelmäßig zur Vorsorgeuntersuchung oder zum Zahnarzt? *(Do you go for check-ups regularly or to the dentist?)*
   - B1 · formal · speaker: Arzt · to: Patient
   - Grammar: zur Vorsorge gehen
   - Variants: Wann war Ihre letzte Vorsorge? | Haben Sie an Früherkennungen teilgenommen?
   - Exam: FSP Anamnesegespräch
 - **Haben Sie schon einmal eine Darmspiegelung machen lassen?** — Have you ever had a colonoscopy?
+  - Words: [[lassen]] · [[machen]] · [[schon]] · [[einmal]] · [[sich etwas gefallen lassen]] · [[sich scheiden lassen]]
   - Haben Sie schon einmal eine Darmspiegelung machen lassen? *(Have you ever had a colonoscopy?)*
   - B2 · formal · speaker: Arzt · to: Patient
   - Grammar: machen lassen + Infinitiv
@@ -128,6 +143,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Gesundheitszustand erfragen
 
 - **Wie würden Sie Ihren allgemeinen Gesundheitszustand beschreiben?** — How would you describe your general state of health?
+  - Words: [[allgemein]] · [[beschreiben]]
   - Wie würden Sie Ihren allgemeinen Gesundheitszustand beschreiben? *(How would you describe your general state of health?)*
   - B2 · formal · speaker: Arzt · to: Patient
   - Grammar: Konjunktiv II: würden beschreiben
@@ -136,6 +152,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Bluttransfusion erfragen
 
 - **Haben Sie schon einmal eine Bluttransfusion erhalten?** — Have you ever had a blood transfusion?
+  - Words: [[erhalten]] · [[schon]] · [[einmal]] · [[erhalten sein]]
   - Haben Sie schon einmal eine Bluttransfusion erhalten? *(Have you ever had a blood transfusion?)*
   - B2 · formal · speaker: Arzt · to: Patient
   - Grammar: erhalten = bekommen
@@ -144,6 +161,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Patient: Vorerkrankung nennen
 
 - **Ich habe seit Jahren Bluthochdruck.** ⭐ — I have had high blood pressure for years.
+  - Words: [[Jahr]] · [[seit]] · [[sein]] · [[haben]]
   - Ich habe seit Jahren Bluthochdruck und nehme Tabletten dagegen. *(I have had high blood pressure for years and take tablets for it.)*
   - A2 · neutral · speaker: Patient · to: Alle
   - Grammar: seit + Dativ
@@ -152,6 +170,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Patient: Allergie nennen
 
 - **Ich bin allergisch gegen Penicillin.** ⭐ — I am allergic to penicillin.
+  - Words: [[gegen]] · [[allergisch]]
   - Ich bin allergisch gegen Penicillin. Davon bekomme ich einen Ausschlag. *(I am allergic to penicillin. It gives me a rash.)*
   - A2 · neutral · speaker: Patient · to: Alle
   - Grammar: allergisch gegen + Akkusativ
@@ -160,6 +179,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Patient: Operation nennen
 
 - **Mir wurde vor fünf Jahren der Blinddarm entfernt.** ⭐ — I had my appendix removed five years ago.
+  - Words: [[fünf]] · [[Jahr]] · [[entfernt]] · [[entfernen]] · [[geboren werden]] · [[werden]] · [[loswerden]]
   - Mir wurde vor fünf Jahren der Blinddarm entfernt. *(I had my appendix removed five years ago.)*
   - B2 · neutral · speaker: Patient · to: Alle
   - Grammar: Passiv Präteritum mit Dativ der Person
@@ -168,6 +188,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Patient: Medikamente nennen
 
 - **Ich nehme morgens eine Tablette gegen den Blutdruck.** ⭐ — I take one tablet against blood pressure in the morning.
+  - Words: [[Tablette]] · [[nehmen]] · [[Morgen]] · [[morgens]] · [[gegen]] · [[Blutdruck]]
   - Ich nehme morgens eine Tablette gegen den Blutdruck und abends eine für den Cholesterinspiegel. *(I take a blood pressure tablet in the morning and one for cholesterol in the evening.)*
   - A2 · neutral · speaker: Patient · to: Alle
   - Grammar: gegen + Akkusativ
@@ -176,6 +197,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Patient: Keine Vorerkrankungen
 
 - **Bisher war ich eigentlich immer gesund.** — So far I have actually always been healthy.
+  - Words: [[immer]] · [[gesund]] · [[bisher]] · [[eigentlich]]
   - Bisher war ich eigentlich immer gesund und hatte keine Operationen. *(So far I have actually always been healthy and have had no operations.)*
   - A2 · neutral · speaker: Patient · to: Alle
   - Grammar: bisher + Präteritum
@@ -184,6 +206,7 @@ tags: ["redemittel", "level/A2", "level/B1", "level/B2", "medical"]
 ## Unverträglichkeiten erfragen
 
 - **Vertragen Sie bestimmte Medikamente oder Lebensmittel nicht?** — Are there certain medicines or foods that you don't tolerate?
+  - Words: [[bestimmen]] · [[bestimmt]] · [[Medikament]] · [[Lebensmittel]] · [[vertragen]]
   - Vertragen Sie bestimmte Medikamente oder Lebensmittel nicht, zum Beispiel Laktose? *(Are there certain medicines or foods that you don't tolerate, for example lactose?)*
   - B2 · formal · speaker: Arzt · to: Patient
   - Grammar: vertragen: Akkusativ; nicht am Ende bei Verneinung

@@ -34,6 +34,10 @@ status: "new"
 > Das war nur ein Missverständnis.
 > *That was just a misunderstanding.*
 
+**Phrases & Expressions:**
+- **Das war vermutlich ein Missverständnis.** — That was probably a misunderstanding. *([[B2-12 Höflichkeit und Diplomatie - Kritik und Ablehnung abmildern|Missverständnis klären]] · B2)*
+- **Ich wiederhole kurz, damit es keine Missverständnisse gibt.** — Let me repeat briefly so that there are no misunderstandings. *([[FSP-19 Übergabe, Konsil und Rücksprache|Aufträge bestätigen]] · B2)*
+
 **Source:** Netzwerk neu B1 K9 11a (Kunststücke)
 <!-- bank:end -->
 

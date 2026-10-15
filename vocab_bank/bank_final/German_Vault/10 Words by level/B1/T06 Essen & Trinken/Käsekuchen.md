@@ -34,6 +34,9 @@ status: "new"
 > Zum Kaffee gibt es Käsekuchen.
 > *There is cheesecake with coffee.*
 
+**Phrases & Expressions:**
+- **Zum Kaffee gibt es Käsekuchen** — *There is cheesecake with coffee* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist)
 <!-- bank:end -->
 

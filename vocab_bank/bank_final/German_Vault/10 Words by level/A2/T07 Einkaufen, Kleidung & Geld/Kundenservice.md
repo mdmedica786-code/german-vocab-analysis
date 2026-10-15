@@ -34,6 +34,9 @@ status: "new"
 > Der Kundenservice hilft Ihnen bei Problemen.
 > *Customer service helps you with problems.*
 
+**Phrases & Expressions:**
+- **Der Kundenservice hilft Ihnen bei Problemen** — *Customer service helps you with problems* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 6c (Ganz schön mobil)
 <!-- bank:end -->
 

@@ -35,6 +35,10 @@ status: "new"
 > Ich habe viele Interessen: Sport, Lesen, Kultur, Reisen.
 > *I have many interests: sport, reading, culture, travelling.*
 
+**Phrases & Expressions:**
+- **Interesse an ... haben** — to be interested in ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **Mit großem Interesse habe ich Ihre Anzeige gelesen.** — I read your advertisement with great interest. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Bezug auf Anzeige]] · B2)*
+
 **Source:** Netzwerk neu A2 K8 4a ÜB (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

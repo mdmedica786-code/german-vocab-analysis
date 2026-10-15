@@ -35,6 +35,9 @@ status: "new"
 > Bitte achten Sie auch auf die Lautsprecher-Ansagen am Bahnhof.
 > *Please also pay attention to the loudspeaker announcements at the station.*
 
+**Phrases & Expressions:**
+- **Bitte achten Sie auch auf die Lautsprecher-Ansagen am Bahnhof** — *Please also pay attention to the loudspeaker announcements at the station* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1a ÜB (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

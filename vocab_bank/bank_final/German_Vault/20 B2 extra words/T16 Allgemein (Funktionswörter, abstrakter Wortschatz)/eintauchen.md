@@ -32,6 +32,11 @@ status: "new"
 > Beim Austausch taucht man in eine neue Kultur ein.
 > *During an exchange you immerse yourself in a new culture.*
 
+**Phrases & Expressions:**
+- **in eine Kultur eintauchen** — *to dive in; to immerse oneself*
+- **ins Wasser eintauchen** — *to dive in; to immerse oneself*
+- **in die Welt der Bücher eintauchen** — *to dive in; to immerse oneself*
+
 **Collocations**
 - in eine Kultur eintauchen
 - ins Wasser eintauchen

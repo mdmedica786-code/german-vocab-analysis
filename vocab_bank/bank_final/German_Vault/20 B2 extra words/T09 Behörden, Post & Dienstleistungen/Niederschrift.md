@@ -33,6 +33,11 @@ status: "new"
 > Die Niederschrift der Sitzung liegt vor.
 > *The minutes of the meeting are available.*
 
+**Phrases & Expressions:**
+- **eine Niederschrift anfertigen** — *written record; minutes; transcript*
+- **die Niederschrift unterschreiben** — *written record; minutes; transcript*
+- **eine schriftliche Niederschrift** — *written record; minutes; transcript*
+
 **Collocations**
 - eine Niederschrift anfertigen
 - die Niederschrift unterschreiben

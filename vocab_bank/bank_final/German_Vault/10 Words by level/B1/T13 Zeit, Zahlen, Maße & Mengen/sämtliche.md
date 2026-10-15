@@ -30,6 +30,9 @@ status: "new"
 > Sämtliche Fenster müssen geschlossen bleiben.
 > *All windows must stay closed.*
 
+**Phrases & Expressions:**
+- **Sämtliche Fenster müssen geschlossen bleiben** — *All windows must stay closed* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

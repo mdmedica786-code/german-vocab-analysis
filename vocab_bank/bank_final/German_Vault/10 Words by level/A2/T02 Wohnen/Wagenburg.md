@@ -34,6 +34,9 @@ status: "new"
 > In der Wagenburg leben Menschen in Bauwagen.
 > *In the wagon fort people live in trailers.*
 
+**Phrases & Expressions:**
+- **In der Wagenburg leben Menschen in Bauwagen** — *In the wagon fort people live in trailers* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1b (Zusammen leben)
 <!-- bank:end -->
 

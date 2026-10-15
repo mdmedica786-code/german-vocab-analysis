@@ -29,6 +29,14 @@ status: "new"
 > Er war auffällig still.
 > *He was strikingly quiet.*
 
+**Phrases & Expressions:**
+- **Auffällig ist, dass ...** — What stands out is that ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Auffälliges hervorheben]] · B2)*
+- **Auffällig sind periphere Ödeme an beiden Unterschenkeln.** — Peripheral oedema on both lower legs is noticeable. *([[FSP-08 Befunde beschreiben und berichten|Inspektion]] · C1)*
+- **Die Untersuchung hat keinen auffälligen Befund ergeben.** — The examination did not reveal any abnormal finding. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Ergebnisse mitteilen]] · B2)*
+- **auffällig still** — *conspicuous; striking*
+- **ein auffälliges Verhalten** — *conspicuous; striking*
+- **auffällig oft** — *conspicuous; striking*
+
 **Collocations**
 - auffällig still
 - ein auffälliges Verhalten

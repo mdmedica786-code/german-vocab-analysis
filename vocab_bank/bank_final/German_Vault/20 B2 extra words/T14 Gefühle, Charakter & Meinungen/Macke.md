@@ -33,6 +33,11 @@ status: "new"
 > Jeder hat so seine Macken.
 > *Everyone has their own quirks.*
 
+**Phrases & Expressions:**
+- **eine Macke haben** — *quirk; foible (colloquial)*
+- **seine Macken haben** — *quirk; foible (colloquial)*
+- **Macken des Autos** — *quirk; foible (colloquial)*
+
 **Collocations**
 - eine Macke haben
 - seine Macken haben

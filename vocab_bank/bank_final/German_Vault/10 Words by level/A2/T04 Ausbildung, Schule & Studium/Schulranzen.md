@@ -34,6 +34,9 @@ status: "new"
 > Mein Sohn trägt seinen Schulranzen auf dem Rücken.
 > *My son carries his school bag on his back.*
 
+**Phrases & Expressions:**
+- **Mein Sohn trägt seinen Schulranzen auf dem Rücken** — *My son carries his school bag on his back* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle)
 <!-- bank:end -->
 

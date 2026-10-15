@@ -34,6 +34,9 @@ status: "new"
 > Wir warten draußen im Korridor.
 > *We are waiting outside in the corridor.*
 
+**Phrases & Expressions:**
+- **Wir warten draußen im Korridor** — *We are waiting outside in the corridor* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

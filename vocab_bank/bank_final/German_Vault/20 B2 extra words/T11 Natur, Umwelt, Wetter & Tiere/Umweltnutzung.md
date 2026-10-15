@@ -30,6 +30,11 @@ status: "new"
 > Die Umweltnutzung muss nachhaltig sein.
 > *The use of the environment has to be sustainable.*
 
+**Phrases & Expressions:**
+- **nachhaltige Umweltnutzung** — *use of the environment*
+- **die Umweltnutzung regeln** — *use of the environment*
+- **Konflikte bei der Umweltnutzung** — *use of the environment*
+
 **Collocations**
 - nachhaltige Umweltnutzung
 - die Umweltnutzung regeln

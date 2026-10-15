@@ -35,6 +35,9 @@ status: "new"
 > Ich wohne im Erdgeschoss.
 > *I live on the ground floor.*
 
+**Phrases & Expressions:**
+- **Ich wohne im Erdgeschoss** — *I live on the ground floor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 11a (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

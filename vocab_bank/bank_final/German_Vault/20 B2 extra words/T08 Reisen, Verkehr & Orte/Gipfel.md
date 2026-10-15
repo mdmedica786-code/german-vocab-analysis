@@ -33,6 +33,11 @@ status: "new"
 > Nach vier Stunden erreichten wir den Gipfel.
 > *After four hours we reached the summit.*
 
+**Phrases & Expressions:**
+- **den Gipfel erreichen** — *summit; peak*
+- **auf den Gipfel steigen** — *summit; peak*
+- **Gipfel des Berges** — *summit; peak*
+
 **Collocations**
 - den Gipfel erreichen
 - auf den Gipfel steigen

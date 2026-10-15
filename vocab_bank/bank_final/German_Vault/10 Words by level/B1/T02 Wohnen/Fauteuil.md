@@ -42,6 +42,9 @@ status: "new"
 > Ich hätte gern einen bequemen Fauteuil.
 > *I would like a comfortable armchair.*
 
+**Phrases & Expressions:**
+- **Ich hätte gern einen bequemen Fauteuil** — *I would like a comfortable armchair* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,10 @@ status: "new"
 > Wie ist die genaue Uhrzeit?
 > *What is the exact time?*
 
+**Phrases & Expressions:**
+- **Adrenalin ist gegeben, Uhrzeit ist notiert.** — Adrenaline has been given; the time has been noted. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Closed-Loop-Kommunikation]] · C1)*
+- **Bitte dokumentieren Sie Uhrzeit, Medikation und Maßnahmen lückenlos.** — Please document time, medication and measures without gaps. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Dokumentation]] · C1)*
+
 **Source:** Netzwerk neu A1 K5 3a (Alltag und Familie)
 <!-- bank:end -->
 

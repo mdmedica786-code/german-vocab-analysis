@@ -34,6 +34,9 @@ status: "new"
 > Der Gastgeber begrüßt die Gäste.
 > *The host welcomes the guests.*
 
+**Phrases & Expressions:**
+- **Der Gastgeber begrüßt die Gäste** — *The host welcomes the guests* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen)
 <!-- bank:end -->
 

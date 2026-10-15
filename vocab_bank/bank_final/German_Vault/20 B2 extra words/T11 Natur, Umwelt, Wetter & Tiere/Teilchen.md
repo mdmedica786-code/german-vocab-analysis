@@ -33,6 +33,11 @@ status: "new"
 > Die Luft enthält winzige Teilchen.
 > *The air contains tiny particles.*
 
+**Phrases & Expressions:**
+- **winzige Teilchen** — *particle; small piece*
+- **Teilchen und Wellen** — *particle; small piece*
+- **ein kleines Teilchen** — *particle; small piece*
+
 **Collocations**
 - winzige Teilchen
 - Teilchen und Wellen

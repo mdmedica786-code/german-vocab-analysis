@@ -34,6 +34,12 @@ status: "new"
 > Wie heißt das Wort noch mal? Mir liegt es auf der Zunge.
 > *What's the word again? It's on the tip of my tongue.*
 
+**Phrases & Expressions:**
+- **die Zunge herausstrecken** — *tongue*
+- **belegte Zunge** — *tongue*
+- **sich auf die Zunge beißen** — *tongue*
+- **Zunge und Gaumen** — *tongue*
+
 **Collocations**
 - die Zunge herausstrecken
 - belegte Zunge

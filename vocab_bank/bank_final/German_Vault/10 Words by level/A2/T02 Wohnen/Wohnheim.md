@@ -34,6 +34,9 @@ status: "new"
 > Viele Studenten wohnen im Wohnheim.
 > *Many students live in the dormitory.*
 
+**Phrases & Expressions:**
+- **Viele Studenten wohnen im Wohnheim** — *Many students live in the dormitory* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Bei der Festnahme leistete der Mann keinen Widerstand.
 > *During the arrest the man offered no resistance.*
 
+**Phrases & Expressions:**
+- **vorläufige Festnahme** — *arrest*
+- **bei der Festnahme** — *arrest*
+- **Festnahme nach Verfolgungsjagd** — *arrest*
+
 **Collocations**
 - vorläufige Festnahme
 - bei der Festnahme

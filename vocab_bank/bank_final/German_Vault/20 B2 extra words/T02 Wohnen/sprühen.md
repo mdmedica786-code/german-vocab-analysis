@@ -31,6 +31,11 @@ status: "new"
 > Sie sprüht das Mittel auf die Pflanzen.
 > *She sprays the product onto the plants.*
 
+**Phrases & Expressions:**
+- **vor Ideen sprühen** — *to spray; to sparkle*
+- **Wasser sprühen** — *to spray; to sparkle*
+- **Funken sprühen** — *to spray; to sparkle*
+
 **Collocations**
 - vor Ideen sprühen
 - Wasser sprühen

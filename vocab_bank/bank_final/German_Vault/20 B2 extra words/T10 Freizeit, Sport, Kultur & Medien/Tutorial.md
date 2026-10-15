@@ -33,6 +33,11 @@ status: "new"
 > Ich habe ein Tutorial über Fotobearbeitung angesehen.
 > *I watched a tutorial on photo editing.*
 
+**Phrases & Expressions:**
+- **ein Tutorial ansehen** — *tutorial*
+- **ein Tutorial erstellen** — *tutorial*
+- **ein Tutorial auf YouTube** — *tutorial*
+
 **Collocations**
 - ein Tutorial ansehen
 - ein Tutorial erstellen

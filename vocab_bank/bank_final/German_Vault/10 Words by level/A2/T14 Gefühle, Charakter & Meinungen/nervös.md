@@ -31,6 +31,9 @@ status: "new"
 > Bei Prüfungen bin ich immer sehr nervös.
 > *I'm always very nervous in exams.*
 
+**Phrases & Expressions:**
+- **Bei Prüfungen bin ich immer sehr nervös** — *I'm always very nervous in exams* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

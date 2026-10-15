@@ -42,6 +42,9 @@ status: "new"
 > Sollen wir uns im Café treffen?
 > *Shall we meet at the café?*
 
+**Phrases & Expressions:**
+- **Sollen wir uns im Café treffen** — *Shall we meet at the café* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

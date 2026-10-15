@@ -34,6 +34,9 @@ status: "new"
 > Die Verfilmung des Romans war ein Erfolg.
 > *The film adaptation of the novel was a success.*
 
+**Phrases & Expressions:**
+- **Die Verfilmung des Romans war ein Erfolg** — *The film adaptation of the novel was a success* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!)
 <!-- bank:end -->
 

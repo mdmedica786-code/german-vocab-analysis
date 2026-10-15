@@ -34,6 +34,9 @@ status: "new"
 > Die Wortliste steht am Ende des Buchs.
 > *The word list is at the end of the book.*
 
+**Phrases & Expressions:**
+- **Die Wortliste steht am Ende des Buchs** — *The word list is at the end of the book* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 10c (Ab in den Urlaub!)
 <!-- bank:end -->
 

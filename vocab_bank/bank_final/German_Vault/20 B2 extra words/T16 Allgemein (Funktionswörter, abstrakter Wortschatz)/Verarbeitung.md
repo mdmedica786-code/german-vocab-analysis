@@ -33,6 +33,11 @@ status: "new"
 > Die Verarbeitung der Daten dauert einige Minuten.
 > *The processing of the data takes a few minutes.*
 
+**Phrases & Expressions:**
+- **die Verarbeitung von Daten** — *processing; workmanship*
+- **hochwertige Verarbeitung** — *processing; workmanship*
+- **Lebensmittelverarbeitung** — *processing; workmanship*
+
 **Collocations**
 - die Verarbeitung von Daten
 - hochwertige Verarbeitung

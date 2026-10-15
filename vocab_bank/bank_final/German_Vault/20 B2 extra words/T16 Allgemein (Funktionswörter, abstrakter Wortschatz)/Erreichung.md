@@ -33,6 +33,11 @@ status: "new"
 > Die Erreichung der Ziele hat Priorität.
 > *Achieving the goals has priority.*
 
+**Phrases & Expressions:**
+- **die Erreichung der Ziele** — *achievement; attainment*
+- **zur Erreichung** — *achievement; attainment*
+- **die Erreichung des Zieles** — *achievement; attainment*
+
 **Collocations**
 - die Erreichung der Ziele
 - zur Erreichung

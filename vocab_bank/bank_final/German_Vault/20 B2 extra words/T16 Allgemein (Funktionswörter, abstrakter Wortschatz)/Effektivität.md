@@ -33,6 +33,11 @@ status: "new"
 > Wir prüfen die Effektivität der Maßnahme.
 > *We are checking the effectiveness of the measure.*
 
+**Phrases & Expressions:**
+- **die Effektivität steigern** — *effectiveness*
+- **die Effektivität prüfen** — *effectiveness*
+- **hohe Effektivität** — *effectiveness*
+
 **Collocations**
 - die Effektivität steigern
 - die Effektivität prüfen

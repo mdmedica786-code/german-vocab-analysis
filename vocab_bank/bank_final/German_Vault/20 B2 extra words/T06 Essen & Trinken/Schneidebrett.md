@@ -33,6 +33,11 @@ status: "new"
 > Schneide das Gemüse auf dem Schneidebrett.
 > *Cut the vegetables on the chopping board.*
 
+**Phrases & Expressions:**
+- **auf dem Schneidebrett schneiden** — *chopping board*
+- **ein Schneidebrett aus Holz** — *chopping board*
+- **Schneidebrett reinigen** — *chopping board*
+
 **Collocations**
 - auf dem Schneidebrett schneiden
 - ein Schneidebrett aus Holz

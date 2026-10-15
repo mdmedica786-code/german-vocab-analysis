@@ -33,6 +33,11 @@ status: "new"
 > Das Rote Kreuz hilft in vielen Krisengebieten.
 > *The Red Cross helps in many crisis areas.*
 
+**Phrases & Expressions:**
+- **in ein Krisengebiet reisen** — *crisis area; conflict zone*
+- **aus einem Krisengebiet berichten** — *crisis area; conflict zone*
+- **ein Krisengebiet verlassen** — *crisis area; conflict zone*
+
 **Collocations**
 - in ein Krisengebiet reisen
 - aus einem Krisengebiet berichten

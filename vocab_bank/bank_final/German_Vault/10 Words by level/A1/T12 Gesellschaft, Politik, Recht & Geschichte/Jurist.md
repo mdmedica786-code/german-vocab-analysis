@@ -35,6 +35,9 @@ status: "new"
 > Der Jurist berät die Firma bei dem Vertrag.
 > *The lawyer advises the company on the contract.*
 
+**Phrases & Expressions:**
+- **Der Jurist berät die Firma bei dem Vertrag** — *The lawyer advises the company on the contract* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a ÜB (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

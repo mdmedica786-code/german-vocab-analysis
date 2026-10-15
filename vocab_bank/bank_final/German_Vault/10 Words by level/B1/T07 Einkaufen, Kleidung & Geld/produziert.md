@@ -30,6 +30,12 @@ status: "new"
 > Wir kaufen nur ökologisch produzierte Ware.
 > *We only buy ecologically produced goods.*
 
+**Phrases & Expressions:**
+- **ökologisch produziert** — *produced*
+- **regional produziert** — *produced*
+- **in Deutschland produziert** — *produced*
+- **billig produziert** — *produced*
+
 **Collocations**
 - ökologisch produziert
 - regional produziert

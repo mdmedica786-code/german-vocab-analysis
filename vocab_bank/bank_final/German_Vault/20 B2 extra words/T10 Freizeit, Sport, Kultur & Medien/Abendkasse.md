@@ -33,6 +33,11 @@ status: "new"
 > Karten gibt es auch an der Abendkasse.
 > *Tickets are also available at the door.*
 
+**Phrases & Expressions:**
+- **an der Abendkasse** — *box office (on the evening); tickets at the door*
+- **die Abendkasse öffnet** — *box office (on the evening); tickets at the door*
+- **Karten an der Abendkasse kaufen** — *box office (on the evening); tickets at the door*
+
 **Collocations**
 - an der Abendkasse
 - die Abendkasse öffnet

@@ -29,6 +29,11 @@ status: "new"
 > Ich lehne jegliche Verantwortung ab.
 > *I reject any responsibility.*
 
+**Phrases & Expressions:**
+- **jegliche Verantwortung** — *any; every kind of*
+- **ohne jegliche Hilfe** — *any; every kind of*
+- **jeglicher Art** — *any; every kind of*
+
 **Collocations**
 - jegliche Verantwortung
 - ohne jegliche Hilfe

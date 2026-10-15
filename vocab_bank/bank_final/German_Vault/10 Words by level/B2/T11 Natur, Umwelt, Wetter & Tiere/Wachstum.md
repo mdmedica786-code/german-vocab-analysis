@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Wachstum des Kindes ist normal.
 > *The child's growth is normal.*
+
+**Phrases & Expressions:**
+- **Das Wachstum des Kindes ist normal** — *The child's growth is normal* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

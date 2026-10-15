@@ -35,6 +35,9 @@ status: "new"
 > Die Schweiz besteht aus 26 Kantonen.
 > *Switzerland consists of 26 cantons.*
 
+**Phrases & Expressions:**
+- **Die Schweiz besteht aus 26 Kantonen** — *Switzerland consists of 26 cantons* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

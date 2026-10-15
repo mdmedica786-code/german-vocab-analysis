@@ -35,6 +35,9 @@ status: "new"
 > Ich arbeite im Moment nur Teilzeit.
 > *At the moment I only work part-time.*
 
+**Phrases & Expressions:**
+- **Ich arbeite im Moment nur Teilzeit** — *At the moment I only work part-time* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 2a ÜB (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Sie war verblüfft über seine ehrliche Antwort.
 > *She was astonished by his honest answer.*
 
+**Phrases & Expressions:**
+- **verblüfft sein** — *astonished; baffled*
+- **verblüfft schauen** — *astonished; baffled*
+- **verblüfft über etwas** — *astonished; baffled*
+
 **Collocations**
 - verblüfft sein
 - verblüfft schauen

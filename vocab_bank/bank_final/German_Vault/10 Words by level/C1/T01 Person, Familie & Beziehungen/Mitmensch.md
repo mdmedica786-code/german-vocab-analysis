@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Wir sollten respektvoll mit unseren Mitmenschen umgehen.
 > *We should treat our fellow human beings with respect.*
+
+**Phrases & Expressions:**
+- **Wir sollten respektvoll mit unseren Mitmenschen umgehen** — *We should treat our fellow human beings with respect* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -34,6 +34,9 @@ status: "new"
 > Der Geschäftsmann reist oft nach Asien.
 > *The businessman often travels to Asia.*
 
+**Phrases & Expressions:**
+- **Der Geschäftsmann reist oft nach Asien** — *The businessman often travels to Asia* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen)
 <!-- bank:end -->
 

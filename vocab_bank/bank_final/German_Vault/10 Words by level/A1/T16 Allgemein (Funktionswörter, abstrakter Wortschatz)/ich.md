@@ -32,6 +32,9 @@ status: "new"
 > Ich heiße Veronika.
 > **
 
+**Phrases & Expressions:**
+- **Ich heiße Veronika** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 2a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

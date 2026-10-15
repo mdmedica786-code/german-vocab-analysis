@@ -33,6 +33,11 @@ status: "new"
 > Zu meiner Verblüffung hat er sofort zugesagt.
 > *To my amazement he accepted immediately.*
 
+**Phrases & Expressions:**
+- **zu meiner Verblüffung** — *amazement; bewilderment*
+- **Verblüffung auslösen** — *amazement; bewilderment*
+- **in Verblüffung versetzen** — *amazement; bewilderment*
+
 **Collocations**
 - zu meiner Verblüffung
 - Verblüffung auslösen

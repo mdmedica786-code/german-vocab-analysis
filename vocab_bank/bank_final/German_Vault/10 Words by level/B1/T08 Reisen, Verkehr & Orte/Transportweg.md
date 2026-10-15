@@ -34,6 +34,9 @@ status: "new"
 > Kurze Transportwege schonen die Umwelt.
 > *Short transport routes protect the environment.*
 
+**Phrases & Expressions:**
+- **Kurze Transportwege schonen die Umwelt** — *Short transport routes protect the environment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2a (Umweltfreundlich?)
 <!-- bank:end -->
 

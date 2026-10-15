@@ -33,6 +33,9 @@ status: "new"
 > Gestern hat mir jemand im Zug meine Uhr gestohlen.
 > *Yesterday someone stole my watch on the train.*
 
+**Phrases & Expressions:**
+- **Gestern hat mir jemand im Zug meine Uhr gestohlen** — *Yesterday someone stole my watch on the train* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12c (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

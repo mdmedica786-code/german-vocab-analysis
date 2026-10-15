@@ -33,6 +33,11 @@ status: "new"
 > Ich habe das Foto in einen Bilderrahmen gesteckt.
 > *I put the photo in a picture frame.*
 
+**Phrases & Expressions:**
+- **ein Bild einrahmen** — *picture frame*
+- **ein Bilderrahmen aus Holz** — *picture frame*
+- **Bilderrahmen aufhängen** — *picture frame*
+
 **Collocations**
 - ein Bild einrahmen
 - ein Bilderrahmen aus Holz

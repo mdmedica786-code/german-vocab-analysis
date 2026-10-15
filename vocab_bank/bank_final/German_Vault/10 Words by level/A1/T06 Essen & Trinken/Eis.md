@@ -35,6 +35,9 @@ status: "new"
 > Möchtest du auch ein Eis?
 > *Would you like an ice cream too?*
 
+**Phrases & Expressions:**
+- **Möchtest du auch ein Eis** — *Would you like an ice cream too* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 11 (Zeit mit Freunden) · Goethe word list A2
 <!-- bank:end -->
 

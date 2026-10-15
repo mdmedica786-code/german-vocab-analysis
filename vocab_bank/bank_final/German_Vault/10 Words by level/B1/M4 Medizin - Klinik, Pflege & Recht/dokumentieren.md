@@ -32,6 +32,9 @@ status: "new"
 > Der Arzt dokumentiert den Verlauf in der Akte.
 > *The doctor documents the course in the file.*
 
+**Phrases & Expressions:**
+- **Bitte dokumentieren Sie Uhrzeit, Medikation und Maßnahmen lückenlos.** — Please document time, medication and measures without gaps. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Dokumentation]] · C1)*
+
 **Source:** Netzwerk neu B1 K7 11c (Zwischenmenschliches)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Studie brachte wichtige neue Erkenntnisse.
 > *The study brought important new findings.*
 
+**Phrases & Expressions:**
+- **zu einer Erkenntnis kommen** — *insight; realisation; finding*
+- **neue Erkenntnisse gewinnen** — *insight; realisation; finding*
+- **wissenschaftliche Erkenntnisse** — *insight; realisation; finding*
+
 **Collocations**
 - zu einer Erkenntnis kommen
 - neue Erkenntnisse gewinnen

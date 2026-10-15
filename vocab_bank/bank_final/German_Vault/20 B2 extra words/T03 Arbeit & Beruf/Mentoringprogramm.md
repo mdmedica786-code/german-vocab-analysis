@@ -30,6 +30,11 @@ status: "new"
 > Die Firma bietet ein Mentoringprogramm für neue Mitarbeiter an.
 > *The company offers a mentoring programme for new employees.*
 
+**Phrases & Expressions:**
+- **an einem Mentoringprogramm teilnehmen** — *mentoring programme*
+- **ein Mentoringprogramm anbieten** — *mentoring programme*
+- **ein Mentoringprogramm starten** — *mentoring programme*
+
 **Collocations**
 - an einem Mentoringprogramm teilnehmen
 - ein Mentoringprogramm anbieten

@@ -31,6 +31,9 @@ status: "new"
 > Diese Tomaten sind mindestens 2 Wochen haltbar.
 > *These tomatoes keep for at least 2 weeks.*
 
+**Phrases & Expressions:**
+- **Diese Tomaten sind mindestens 2 Wochen haltbar** — *These tomatoes keep for at least 2 weeks* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

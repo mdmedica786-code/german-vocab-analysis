@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Aufwendungen für die Reise sind hoch.
 > *The expenses for the trip are high.*
+
+**Phrases & Expressions:**
+- **Die Aufwendungen für die Reise sind hoch** — *The expenses for the trip are high* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

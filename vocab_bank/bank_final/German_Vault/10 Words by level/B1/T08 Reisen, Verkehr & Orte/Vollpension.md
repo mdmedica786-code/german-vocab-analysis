@@ -34,6 +34,9 @@ status: "new"
 > Im Hotel buchen wir Vollpension.
 > *At the hotel we book full board.*
 
+**Phrases & Expressions:**
+- **Im Hotel buchen wir Vollpension** — *At the hotel we book full board* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 7 (Gute Reise!)
 <!-- bank:end -->
 

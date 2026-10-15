@@ -35,6 +35,9 @@ status: "new"
 > Die Kosten für die Reise bekomme ich von der Firma.
 > *The company pays the costs of the trip.*
 
+**Phrases & Expressions:**
+- **Was würde die Reparatur ungefähr kosten?** — Roughly what would the repair cost? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Handwerker und Reparatur]] · B2)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list B1
 <!-- bank:end -->
 

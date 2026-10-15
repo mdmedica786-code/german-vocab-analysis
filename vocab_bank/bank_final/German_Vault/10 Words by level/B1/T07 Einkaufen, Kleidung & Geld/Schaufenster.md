@@ -35,6 +35,9 @@ status: "new"
 > Ich habe im Schaufenster eine schicke Bluse gesehen.
 > *I saw a smart blouse in the shop window.*
 
+**Phrases & Expressions:**
+- **Ich habe im Schaufenster eine schicke Bluse gesehen** — *I saw a smart blouse in the shop window* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 1b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

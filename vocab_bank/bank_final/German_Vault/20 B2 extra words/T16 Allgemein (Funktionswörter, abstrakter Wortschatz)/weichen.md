@@ -31,6 +31,11 @@ status: "new"
 > Der Schnee weicht langsam der Frühlingssonne.
 > *The snow is slowly giving way to the spring sun.*
 
+**Phrases & Expressions:**
+- **jemandem nicht von der Seite weichen** — *to give way; to yield*
+- **der Angst weichen** — *to give way; to yield*
+- **vom Weg weichen** — *to give way; to yield*
+
 **Collocations**
 - jemandem nicht von der Seite weichen
 - der Angst weichen

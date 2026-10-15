@@ -30,6 +30,9 @@ status: "new"
 > Die Verpackung ist sehr ansprechend.
 > *The packaging is very appealing.*
 
+**Phrases & Expressions:**
+- **Die Verpackung ist sehr ansprechend** — *The packaging is very appealing* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 9c (Das ist ja praktisch!)
 <!-- bank:end -->
 

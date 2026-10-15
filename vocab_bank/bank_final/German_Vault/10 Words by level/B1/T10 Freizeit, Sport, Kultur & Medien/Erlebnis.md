@@ -35,6 +35,9 @@ status: "new"
 > Die Reise war ein tolles Erlebnis.
 > *The trip was a great experience.*
 
+**Phrases & Expressions:**
+- **Die Reise war ein tolles Erlebnis** — *The trip was a great experience* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 2 (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

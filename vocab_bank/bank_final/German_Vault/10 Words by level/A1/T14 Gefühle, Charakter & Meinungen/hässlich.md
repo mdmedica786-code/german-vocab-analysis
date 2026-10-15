@@ -31,6 +31,9 @@ status: "new"
 > Ich finde das Kleid hässlich. Es gefällt mir nicht.
 > *I find the dress ugly. I don't like it.*
 
+**Phrases & Expressions:**
+- **Ich finde das Kleid hässlich. Es gefällt mir nicht** — *I find the dress ugly. I don't like it* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 7a (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Trotz aller Probleme blickt sie mit Zuversicht in die Zukunft.
 > *Despite all problems she looks to the future with confidence.*
 
+**Phrases & Expressions:**
+- **mit Zuversicht** — *confidence; optimism*
+- **Zuversicht ausstrahlen** — *confidence; optimism*
+- **die Zuversicht verlieren** — *confidence; optimism*
+
 **Collocations**
 - mit Zuversicht
 - Zuversicht ausstrahlen

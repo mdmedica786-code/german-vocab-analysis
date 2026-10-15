@@ -33,6 +33,11 @@ status: "new"
 > Die Meisterschaft wurde erst am letzten Spieltag entschieden.
 > *The championship was only decided on the last matchday.*
 
+**Phrases & Expressions:**
+- **die Meisterschaft gewinnen** — *championship*
+- **Deutsche Meisterschaft** — *championship*
+- **an der Meisterschaft teilnehmen** — *championship*
+
 **Collocations**
 - die Meisterschaft gewinnen
 - Deutsche Meisterschaft

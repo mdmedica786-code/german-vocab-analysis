@@ -34,6 +34,9 @@ status: "new"
 > Die Hilfsbereitschaft der Nachbarn war groß.
 > *The neighbours' willingness to help was great.*
 
+**Phrases & Expressions:**
+- **Die Hilfsbereitschaft der Nachbarn war groß** — *The neighbours' willingness to help was great* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1a (Miteinander)
 <!-- bank:end -->
 

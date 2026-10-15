@@ -34,6 +34,9 @@ status: "new"
 > Die Anfahrt dauert etwa eine Stunde.
 > *The journey takes about an hour.*
 
+**Phrases & Expressions:**
+- **Die Anfahrt dauert etwa eine Stunde** — *The journey takes about an hour* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

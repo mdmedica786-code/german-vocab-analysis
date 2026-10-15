@@ -35,6 +35,12 @@ status: "new"
 > In der Vergangenheit war das anders.
 > *In the past that was different.*
 
+**Phrases & Expressions:**
+- **in der Vergangenheit** — in the past *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **die Vergangenheit vergessen** — *past*
+- **an die Vergangenheit denken** — *past*
+- **mit der Vergangenheit abschließen** — *past*
+
 **Collocations**
 - in der Vergangenheit
 - die Vergangenheit vergessen

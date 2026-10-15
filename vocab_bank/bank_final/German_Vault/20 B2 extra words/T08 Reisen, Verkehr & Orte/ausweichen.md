@@ -32,6 +32,11 @@ status: "new"
 > Der Radfahrer musste dem Auto ausweichen.
 > *The cyclist had to swerve for the car.*
 
+**Phrases & Expressions:**
+- **einem Hindernis ausweichen** — *to dodge; to evade*
+- **der Frage ausweichen** — *to dodge; to evade*
+- **auf etwas ausweichen** — *to dodge; to evade*
+
 **Collocations**
 - einem Hindernis ausweichen
 - der Frage ausweichen

@@ -31,6 +31,12 @@ status: "new"
 > Die Woche hat sieben Tage.
 > *The week has seven days.*
 
+**Phrases & Expressions:**
+- **Sollen wir uns um sieben treffen?** — Shall we meet at seven? *([[B1-05 Vorschläge machen und darauf reagieren|Vorschlag machen]] · B1)*
+- **Ich würde sagen, es ist eine Sieben von zehn.** — I'd say it's a seven out of ten. *([[FSP-03 Schmerzanamnese|Patient: Intensität nennen]] · B1)*
+- **Sie müssen das Medikament etwa sieben Tage lang einnehmen.** — You have to take the medicine for about seven days. *([[FSP-11 Therapie und Medikamente erklären|Dauer der Behandlung]] · B2)*
+- **Bei Zimmer sieben ist noch eine Kontrolle offen.** — A check is still outstanding in room seven. *([[FSP-19 Übergabe, Konsil und Rücksprache|Schichtübergabe]] · B2)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

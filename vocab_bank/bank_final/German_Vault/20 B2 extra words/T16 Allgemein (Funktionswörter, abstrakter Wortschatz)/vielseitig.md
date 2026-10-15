@@ -29,6 +29,11 @@ status: "new"
 > Der Beruf ist abwechslungsreich und vielseitig.
 > *The job is varied and versatile.*
 
+**Phrases & Expressions:**
+- **vielseitig interessiert** — *versatile; varied*
+- **ein vielseitiges Angebot** — *versatile; varied*
+- **vielseitig einsetzbar** — *versatile; varied*
+
 **Collocations**
 - vielseitig interessiert
 - ein vielseitiges Angebot

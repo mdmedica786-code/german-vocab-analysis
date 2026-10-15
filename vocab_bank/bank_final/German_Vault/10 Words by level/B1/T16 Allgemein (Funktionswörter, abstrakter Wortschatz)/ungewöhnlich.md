@@ -31,6 +31,9 @@ status: "new"
 > Ich finde diese Speise ungewöhnlich, aber sie schmeckt gut.
 > *I find this dish unusual, but it tastes good.*
 
+**Phrases & Expressions:**
+- **Ich finde diese Speise ungewöhnlich, aber sie schmeckt gut** — *I find this dish unusual, but it tastes good* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 12a (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

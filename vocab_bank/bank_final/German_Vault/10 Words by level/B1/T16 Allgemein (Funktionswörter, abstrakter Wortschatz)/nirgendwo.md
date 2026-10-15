@@ -31,6 +31,9 @@ status: "new"
 > Die Schlüssel kann ich nirgendwo finden.
 > *I cannot find the keys anywhere.*
 
+**Phrases & Expressions:**
+- **Die Schlüssel kann ich nirgendwo finden** — *I cannot find the keys anywhere* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Zimmerpflanzen müssen zweimal pro Woche gegossen werden.
 > *The houseplants have to be watered twice a week.*
 
+**Phrases & Expressions:**
+- **Zimmerpflanzen gießen** — *houseplant*
+- **Zimmerpflanzen pflegen** — *houseplant*
+- **eine grüne Zimmerpflanze** — *houseplant*
+
 **Collocations**
 - Zimmerpflanzen gießen
 - Zimmerpflanzen pflegen

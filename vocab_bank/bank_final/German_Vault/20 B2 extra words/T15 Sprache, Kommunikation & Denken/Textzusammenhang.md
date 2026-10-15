@@ -30,6 +30,11 @@ status: "new"
 > Die Bedeutung des Wortes ergibt sich aus dem Textzusammenhang.
 > *The meaning of the word results from the context of the text.*
 
+**Phrases & Expressions:**
+- **im Textzusammenhang** — *context (of a text); coherence*
+- **aus dem Textzusammenhang** — *context (of a text); coherence*
+- **den Textzusammenhang beachten** — *context (of a text); coherence*
+
 **Collocations**
 - im Textzusammenhang
 - aus dem Textzusammenhang

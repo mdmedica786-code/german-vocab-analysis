@@ -31,6 +31,9 @@ status: "new"
 > Ich brauche ein drittel Liter Milch.
 > *I need a third of a litre of milk.*
 
+**Phrases & Expressions:**
+- **Ich brauche ein drittel Liter Milch** — *I need a third of a litre of milk* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

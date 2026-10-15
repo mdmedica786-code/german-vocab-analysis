@@ -29,6 +29,11 @@ status: "new"
 > Sie reagierte empört auf den Vorwurf.
 > *She reacted indignantly to the accusation.*
 
+**Phrases & Expressions:**
+- **empört sein über** — *indignant; outraged*
+- **empört reagieren** — *indignant; outraged*
+- **empört ablehnen** — *indignant; outraged*
+
 **Collocations**
 - empört sein über
 - empört reagieren

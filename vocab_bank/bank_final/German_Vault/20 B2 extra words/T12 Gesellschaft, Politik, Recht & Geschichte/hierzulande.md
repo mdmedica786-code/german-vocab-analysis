@@ -29,6 +29,11 @@ status: "new"
 > Hierzulande ist das Trinkgeld üblich.
 > *In this country tipping is customary.*
 
+**Phrases & Expressions:**
+- **hierzulande üblich** — *in this country; around here*
+- **hierzulande bekannt** — *in this country; around here*
+- **hierzulande selten** — *in this country; around here*
+
 **Collocations**
 - hierzulande üblich
 - hierzulande bekannt

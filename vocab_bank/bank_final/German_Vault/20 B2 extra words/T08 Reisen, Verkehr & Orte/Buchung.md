@@ -33,6 +33,11 @@ status: "new"
 > Ich habe die Buchung online bestätigt.
 > *I confirmed the booking online.*
 
+**Phrases & Expressions:**
+- **eine Buchung vornehmen** — *booking; entry*
+- **die Buchung stornieren** — *booking; entry*
+- **Buchung bestätigen** — *booking; entry*
+
 **Collocations**
 - eine Buchung vornehmen
 - die Buchung stornieren

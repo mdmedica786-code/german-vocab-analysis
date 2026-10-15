@@ -30,6 +30,9 @@ status: "new"
 > Sie hört gern klassische Musik.
 > *She likes listening to classical music.*
 
+**Phrases & Expressions:**
+- **Sie hört gern klassische Musik** — *She likes listening to classical music* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 7b (Rund um Körper und Geist)
 <!-- bank:end -->
 

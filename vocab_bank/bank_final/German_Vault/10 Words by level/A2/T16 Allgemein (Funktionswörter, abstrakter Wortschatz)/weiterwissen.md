@@ -33,6 +33,14 @@ status: "new"
 > Ich weiß bei dieser Aufgabe nicht weiter.
 > *I don't know what to do next with this task.*
 
+**Phrases & Expressions:**
+- **ich weiß, dass ...** — I know that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **ich weiß nicht** — I don't know *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · A1)*
+- **ich weiß es nicht** — I don't know (it) *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · A1)*
+- **ja, ich weiß** — yes, I know *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · A2)*
+- **das weiß ich nicht** — I don't know that *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · A1)*
+- **ich weiß auch nicht** — I don't know either *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+
 **Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Das ist eine dringliche Angelegenheit.
 > *This is an urgent matter.*
 
+**Phrases & Expressions:**
+- **eine dringliche Bitte** — *urgent; pressing*
+- **dringlich bitten** — *urgent; pressing*
+- **dringlich sein** — *urgent; pressing*
+
 **Collocations**
 - eine dringliche Bitte
 - dringlich bitten

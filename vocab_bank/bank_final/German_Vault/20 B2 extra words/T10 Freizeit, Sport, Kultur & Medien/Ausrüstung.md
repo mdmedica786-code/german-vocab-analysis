@@ -33,6 +33,11 @@ status: "new"
 > Die Ausrüstung für die Bergtour ist teuer.
 > *The equipment for the mountain tour is expensive.*
 
+**Phrases & Expressions:**
+- **die richtige Ausrüstung** — *equipment; gear*
+- **eine Ausrüstung kaufen** — *equipment; gear*
+- **die komplette Ausrüstung** — *equipment; gear*
+
 **Collocations**
 - die richtige Ausrüstung
 - eine Ausrüstung kaufen

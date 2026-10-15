@@ -35,6 +35,9 @@ status: "new"
 > Herzlichen Glückwunsch zum Geburtstag!
 > *Happy birthday!*
 
+**Phrases & Expressions:**
+- **Herzlichen Glückwunsch zum Geburtstag** — *Happy birthday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 7a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

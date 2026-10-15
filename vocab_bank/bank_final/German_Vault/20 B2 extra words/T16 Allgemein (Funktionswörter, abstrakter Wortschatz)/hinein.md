@@ -29,6 +29,11 @@ status: "new"
 > Er ging durch die Tür ins Haus hinein.
 > *He went through the door into the house.*
 
+**Phrases & Expressions:**
+- **in etwas hinein** — *in; into*
+- **mitten hinein** — *in; into*
+- **hinein ins Zimmer** — *in; into*
+
 **Collocations**
 - in etwas hinein
 - mitten hinein

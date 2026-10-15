@@ -33,6 +33,11 @@ status: "new"
 > Die Influencerin zeigt auf Instagram ihre Reisen.
 > *The influencer shows her travels on Instagram.*
 
+**Phrases & Expressions:**
+- **eine bekannte Influencerin** — *influencer (female)*
+- **Influencerin werden** — *influencer (female)*
+- **der Beitrag einer Influencerin** — *influencer (female)*
+
 **Collocations**
 - eine bekannte Influencerin
 - Influencerin werden

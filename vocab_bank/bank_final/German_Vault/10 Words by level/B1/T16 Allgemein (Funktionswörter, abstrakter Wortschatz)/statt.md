@@ -31,6 +31,9 @@ status: "new"
 > Kann ich diese Woche statt Donnerstag am Freitag kommen?
 > *Can I come on Friday instead of Thursday this week?*
 
+**Phrases & Expressions:**
+- **Wo genau findet die Feier statt?** — Where exactly is the party taking place? *([[B1-18 Einladen, zusagen und absagen|Rückfrage stellen]] · B1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

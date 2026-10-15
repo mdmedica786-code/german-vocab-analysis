@@ -33,6 +33,11 @@ status: "new"
 > Das Projekt nimmt langsam Gestalt an.
 > *The project is slowly taking shape.*
 
+**Phrases & Expressions:**
+- **Gestalt annehmen** — *shape; figure; form*
+- **in Gestalt von** — *shape; figure; form*
+- **eine dunkle Gestalt** — *shape; figure; form*
+
 **Collocations**
 - Gestalt annehmen
 - in Gestalt von

@@ -33,6 +33,9 @@ status: "new"
 > Lass mich bitte ausreden!
 > *Please let me finish speaking!*
 
+**Phrases & Expressions:**
+- **Lass mich bitte ausreden** — *Please let me finish speaking* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 10 (Stadt, Land, Fluss)
 <!-- bank:end -->
 

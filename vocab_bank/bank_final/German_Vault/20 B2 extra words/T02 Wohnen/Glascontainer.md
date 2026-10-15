@@ -33,6 +33,11 @@ status: "new"
 > Altglas wirft man in den Glascontainer, aber nicht nach 20 Uhr.
 > *Waste glass is put in the bottle bank, but not after 8 pm.*
 
+**Phrases & Expressions:**
+- **in den Glascontainer werfen** — *bottle bank*
+- **der Glascontainer ist voll** — *bottle bank*
+- **Glas getrennt entsorgen** — *bottle bank*
+
 **Collocations**
 - in den Glascontainer werfen
 - der Glascontainer ist voll

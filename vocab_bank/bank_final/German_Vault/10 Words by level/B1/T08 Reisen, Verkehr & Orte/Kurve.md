@@ -34,6 +34,9 @@ status: "new"
 > Fahr bitte nicht so schnell in die Kurven.
 > *Please do not drive so fast into the bends.*
 
+**Phrases & Expressions:**
+- **Fahr bitte nicht so schnell in die Kurven** — *Please do not drive so fast into the bends* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Nachricht stiftete große Verwirrung.
 > *The news caused great confusion.*
 
+**Phrases & Expressions:**
+- **Verwirrung stiften** — *confusion*
+- **in Verwirrung geraten** — *confusion*
+- **für Verwirrung sorgen** — *confusion*
+
 **Collocations**
 - Verwirrung stiften
 - in Verwirrung geraten

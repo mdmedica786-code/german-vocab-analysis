@@ -31,6 +31,9 @@ status: "new"
 > Ich bin seit einem Jahr im Sportclub.
 > *I have been a member of the sports club for a year.*
 
+**Phrases & Expressions:**
+- **Ich bin seit einem Jahr im Sportclub** — *I have been a member of the sports club for a year* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

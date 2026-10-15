@@ -26,6 +26,9 @@ status: "new"
 > Er kann kaum laufen, geschweige denn rennen.
 > *He can hardly walk, let alone run.*
 
+**Phrases & Expressions:**
+- **Er kann kaum laufen, geschweige denn rennen** — *He can hardly walk, let alone run* *(Beispiel im Kontext)*
+
 **Exam use:** Sprechen, Lesen
 <!-- bank:end -->
 

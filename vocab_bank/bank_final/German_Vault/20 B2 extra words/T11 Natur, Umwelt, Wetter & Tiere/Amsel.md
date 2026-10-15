@@ -33,6 +33,11 @@ status: "new"
 > Morgens singt eine Amsel im Garten.
 > *In the morning a blackbird sings in the garden.*
 
+**Phrases & Expressions:**
+- **eine Amsel singt** — *blackbird*
+- **die Amsel im Baum** — *blackbird*
+- **Amseln füttern** — *blackbird*
+
 **Collocations**
 - eine Amsel singt
 - die Amsel im Baum

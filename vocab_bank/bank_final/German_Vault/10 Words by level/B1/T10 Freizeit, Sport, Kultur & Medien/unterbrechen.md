@@ -33,6 +33,9 @@ status: "new"
 > Wir unterbrechen die Sendung für eine wichtige Nachricht.
 > *We are interrupting the broadcast for an important announcement.*
 
+**Phrases & Expressions:**
+- **Wenn ich Sie kurz unterbrechen darf, ...** — If I may briefly interrupt you, ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Das Wort ergreifen]] · B2)*
+
 **Source:** Netzwerk neu B1 K11 10 (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

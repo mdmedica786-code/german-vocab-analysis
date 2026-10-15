@@ -35,6 +35,9 @@ status: "new"
 > Haben Sie Nasentropfen? Ich bin stark erkältet.
 > *Do you have nasal drops? I have a bad cold.*
 
+**Phrases & Expressions:**
+- **Haben Sie Nasentropfen? Ich bin stark erkältet** — *Do you have nasal drops? I have a bad cold* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 6b ÜB (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

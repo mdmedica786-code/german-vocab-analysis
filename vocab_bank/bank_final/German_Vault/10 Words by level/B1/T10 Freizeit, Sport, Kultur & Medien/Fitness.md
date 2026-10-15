@@ -35,6 +35,9 @@ status: "new"
 > Fitness ist mir wichtig.
 > *Fitness is important to me.*
 
+**Phrases & Expressions:**
+- **Fitness ist mir wichtig** — *Fitness is important to me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 2 ÜB (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

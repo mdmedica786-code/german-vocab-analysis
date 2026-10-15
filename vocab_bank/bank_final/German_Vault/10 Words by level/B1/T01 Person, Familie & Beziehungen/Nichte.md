@@ -34,6 +34,9 @@ status: "new"
 > Die Tasche ist ein Geschenk von meiner Nichte.
 > *The bag is a gift from my niece.*
 
+**Phrases & Expressions:**
+- **Die Tasche ist ein Geschenk von meiner Nichte** — *The bag is a gift from my niece* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

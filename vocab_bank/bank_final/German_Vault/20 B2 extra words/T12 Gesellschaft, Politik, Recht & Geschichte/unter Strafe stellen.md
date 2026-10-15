@@ -26,6 +26,10 @@ status: "new"
 > Das Gesetz stellt Steuerhinterziehung unter Strafe.
 > *The law makes tax evasion punishable.*
 
+**Phrases & Expressions:**
+- **etwas unter Strafe stellen** — *to make punishable*
+- **unter Strafe stehen** — *to make punishable*
+
 **Collocations**
 - etwas unter Strafe stellen
 - unter Strafe stehen

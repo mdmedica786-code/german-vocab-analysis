@@ -33,6 +33,11 @@ status: "new"
 > Der Angeklagte beteuerte seine Unschuld.
 > *The accused protested his innocence.*
 
+**Phrases & Expressions:**
+- **seine Unschuld beteuern** — *innocence*
+- **die Unschuld beweisen** — *innocence*
+- **in aller Unschuld** — *innocence*
+
 **Collocations**
 - seine Unschuld beteuern
 - die Unschuld beweisen

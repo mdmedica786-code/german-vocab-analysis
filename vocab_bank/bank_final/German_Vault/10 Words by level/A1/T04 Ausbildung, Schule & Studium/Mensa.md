@@ -35,6 +35,9 @@ status: "new"
 > Ich esse fast jeden Tag in der Mensa.
 > *I eat in the canteen almost every day.*
 
+**Phrases & Expressions:**
+- **Ich esse fast jeden Tag in der Mensa** — *I eat in the canteen almost every day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 1a (Alltag und Familie) · Goethe word list B1
 <!-- bank:end -->
 

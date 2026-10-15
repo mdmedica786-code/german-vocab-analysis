@@ -33,6 +33,11 @@ status: "new"
 > In vielen Betrieben gibt es Mitbestimmung durch den Betriebsrat.
 > *In many companies there is co-determination through the works council.*
 
+**Phrases & Expressions:**
+- **die Mitbestimmung der Arbeitnehmer** — *co-determination; having a say*
+- **Mitbestimmung fordern** — *co-determination; having a say*
+- **das Recht auf Mitbestimmung** — *co-determination; having a say*
+
 **Collocations**
 - die Mitbestimmung der Arbeitnehmer
 - Mitbestimmung fordern

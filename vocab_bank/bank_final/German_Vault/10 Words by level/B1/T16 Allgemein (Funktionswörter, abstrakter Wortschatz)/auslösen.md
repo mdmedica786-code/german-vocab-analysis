@@ -33,6 +33,10 @@ status: "new"
 > Das Medikament kann Übelkeit auslösen.
 > *The medicine can cause nausea.*
 
+**Phrases & Expressions:**
+- **Gibt es etwas, das die Beschwerden auslöst?** — Is there anything that triggers the complaints? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Auslöser erfragen]] · B1)*
+- **Was löst den Schmerz aus?** — What triggers the pain? *([[FSP-03 Schmerzanamnese|Auslösende Faktoren]] · B1)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist)
 <!-- bank:end -->
 

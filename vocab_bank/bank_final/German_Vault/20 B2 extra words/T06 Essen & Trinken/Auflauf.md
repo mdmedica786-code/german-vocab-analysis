@@ -33,6 +33,11 @@ status: "new"
 > Zum Abendessen gibt es einen Gemüseauflauf.
 > *For dinner there is a vegetable bake.*
 
+**Phrases & Expressions:**
+- **einen Auflauf backen** — *casserole; bake*
+- **Auflauf mit Käse** — *casserole; bake*
+- **Nudelauflauf** — *casserole; bake*
+
 **Collocations**
 - einen Auflauf backen
 - Auflauf mit Käse

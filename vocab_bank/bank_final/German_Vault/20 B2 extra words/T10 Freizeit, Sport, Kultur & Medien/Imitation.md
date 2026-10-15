@@ -33,6 +33,11 @@ status: "new"
 > Seine Imitation des Chefs brachte alle zum Lachen.
 > *His imitation of the boss made everyone laugh.*
 
+**Phrases & Expressions:**
+- **eine perfekte Imitation** — *imitation; copy*
+- **eine Imitation erkennen** — *imitation; copy*
+- **die Imitation eines Politikers** — *imitation; copy*
+
 **Collocations**
 - eine perfekte Imitation
 - eine Imitation erkennen

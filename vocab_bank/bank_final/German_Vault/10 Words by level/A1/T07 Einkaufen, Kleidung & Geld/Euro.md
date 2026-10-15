@@ -36,6 +36,9 @@ status: "new"
 > Das Buch kostet zwölf Euro.
 > *The book costs twelve euros.*
 
+**Phrases & Expressions:**
+- **Das Buch kostet zwölf Euro** — *The book costs twelve euros* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

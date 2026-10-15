@@ -35,6 +35,9 @@ status: "new"
 > Machen Sie persönliche Angaben.
 > *Give personal information.*
 
+**Phrases & Expressions:**
+- **Machen Sie persönliche Angaben** — *Give personal information* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12a (Freunde, Kollegen und ich) · Goethe word list B1
 <!-- bank:end -->
 

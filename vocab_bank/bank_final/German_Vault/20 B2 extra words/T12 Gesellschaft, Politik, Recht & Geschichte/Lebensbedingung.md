@@ -33,6 +33,11 @@ status: "new"
 > Die Lebensbedingungen in der Region haben sich verbessert.
 > *The living conditions in the region have improved.*
 
+**Phrases & Expressions:**
+- **die Lebensbedingungen verbessern** — *living condition*
+- **schlechte Lebensbedingungen** — *living condition*
+- **unter schwierigen Lebensbedingungen leben** — *living condition*
+
 **Collocations**
 - die Lebensbedingungen verbessern
 - schlechte Lebensbedingungen

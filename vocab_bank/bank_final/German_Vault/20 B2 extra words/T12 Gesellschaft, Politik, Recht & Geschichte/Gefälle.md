@@ -33,6 +33,11 @@ status: "new"
 > Es gibt ein großes soziales Gefälle zwischen Stadt und Land.
 > *There is a big social gap between town and country.*
 
+**Phrases & Expressions:**
+- **ein soziales Gefälle** — *gradient; gap; disparity*
+- **Nord-Süd-Gefälle** — *gradient; gap; disparity*
+- **ein starkes Gefälle** — *gradient; gap; disparity*
+
 **Collocations**
 - ein soziales Gefälle
 - Nord-Süd-Gefälle

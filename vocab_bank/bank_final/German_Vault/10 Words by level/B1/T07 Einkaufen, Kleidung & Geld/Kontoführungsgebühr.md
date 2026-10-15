@@ -34,6 +34,9 @@ status: "new"
 > Die Bank verlangt eine monatliche Kontoführungsgebühr.
 > *The bank charges a monthly account maintenance fee.*
 
+**Phrases & Expressions:**
+- **Die Bank verlangt eine monatliche Kontoführungsgebühr** — *The bank charges a monthly account maintenance fee* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3c (Geld regiert die Welt?)
 <!-- bank:end -->
 

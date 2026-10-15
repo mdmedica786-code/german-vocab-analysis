@@ -33,6 +33,11 @@ status: "new"
 > Wir fordern mehr Transparenz bei den Kosten.
 > *We demand more transparency about the costs.*
 
+**Phrases & Expressions:**
+- **Transparenz schaffen** — *transparency*
+- **mehr Transparenz** — *transparency*
+- **Transparenz fordern** — *transparency*
+
 **Collocations**
 - Transparenz schaffen
 - mehr Transparenz

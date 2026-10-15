@@ -34,6 +34,9 @@ status: "new"
 > Die Geschäftsfrau eröffnet ein neues Büro.
 > *The businesswoman opens a new office.*
 
+**Phrases & Expressions:**
+- **Die Geschäftsfrau eröffnet ein neues Büro** — *The businesswoman opens a new office* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen)
 <!-- bank:end -->
 

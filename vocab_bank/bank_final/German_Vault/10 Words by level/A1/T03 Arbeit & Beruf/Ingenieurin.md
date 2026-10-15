@@ -34,6 +34,9 @@ status: "new"
 > Die Ingenieurin plant eine neue Brücke.
 > *The engineer is planning a new bridge.*
 
+**Phrases & Expressions:**
+- **Die Ingenieurin plant eine neue Brücke** — *The engineer is planning a new bridge* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

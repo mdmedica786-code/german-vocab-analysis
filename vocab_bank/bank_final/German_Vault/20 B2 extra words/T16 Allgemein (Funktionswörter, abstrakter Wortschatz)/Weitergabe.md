@@ -33,6 +33,11 @@ status: "new"
 > Die Weitergabe der Daten ist verboten.
 > *Passing on the data is forbidden.*
 
+**Phrases & Expressions:**
+- **die Weitergabe von Daten** — *passing on; transmission; disclosure*
+- **die Weitergabe von Informationen** — *passing on; transmission; disclosure*
+- **zur Weitergabe** — *passing on; transmission; disclosure*
+
 **Collocations**
 - die Weitergabe von Daten
 - die Weitergabe von Informationen

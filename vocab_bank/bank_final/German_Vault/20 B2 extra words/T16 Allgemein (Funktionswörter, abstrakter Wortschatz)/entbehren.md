@@ -31,6 +31,10 @@ status: "new"
 > Die Behauptung entbehrt jeder Grundlage.
 > *The claim lacks any basis.*
 
+**Phrases & Expressions:**
+- **jeder Grundlage entbehren** — *to lack; to do without*
+- **etwas entbehren können** — *to lack; to do without*
+
 **Collocations**
 - jeder Grundlage entbehren
 - etwas entbehren können

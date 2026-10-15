@@ -34,6 +34,10 @@ status: "new"
 > Auf Wiedersehen!
 > *Goodbye!*
 
+**Phrases & Expressions:**
+- **auf Wiedersehen** — goodbye *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A1)*
+- **Auf Wiedersehen, bis zum nächsten Mal!** — Goodbye, until next time! *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Verabschieden]] · A2)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

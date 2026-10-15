@@ -35,6 +35,9 @@ status: "new"
 > Unsere Firma hat sieben Mitarbeiter.
 > *Our company has seven employees.*
 
+**Phrases & Expressions:**
+- **Unsere Firma hat sieben Mitarbeiter** — *Our company has seven employees* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 3a (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->
 

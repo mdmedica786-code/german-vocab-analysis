@@ -34,6 +34,11 @@ status: "new"
 > Bei diesem Projekt steht die Sicherheit im Vordergrund.
 > *In this project safety comes first.*
 
+**Phrases & Expressions:**
+- **im Vordergrund stehen** — *foreground*
+- **in den Vordergrund rücken** — *foreground*
+- **im Vordergrund** — *foreground*
+
 **Collocations**
 - im Vordergrund stehen
 - in den Vordergrund rücken

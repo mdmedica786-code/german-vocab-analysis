@@ -31,6 +31,10 @@ status: "new"
 > Der Rat billigte den Plan einstimmig.
 > *The council approved the plan unanimously.*
 
+**Phrases & Expressions:**
+- **einen Plan billigen** — *to approve; to sanction*
+- **stillschweigend billigen** — *to approve; to sanction*
+
 **Collocations**
 - einen Plan billigen
 - stillschweigend billigen

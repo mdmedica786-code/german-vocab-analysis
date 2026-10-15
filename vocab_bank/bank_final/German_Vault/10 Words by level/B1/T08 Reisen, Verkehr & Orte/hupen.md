@@ -32,6 +32,9 @@ status: "new"
 > Hier ist ein Krankenhaus. Hier darfst du nicht hupen.
 > *Here is a hospital. You may not honk here.*
 
+**Phrases & Expressions:**
+- **Hier ist ein Krankenhaus. Hier darfst du nicht hupen** — *Here is a hospital. You may not honk here* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

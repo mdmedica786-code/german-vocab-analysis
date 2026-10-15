@@ -33,6 +33,14 @@ status: "new"
 > Wer war die Frau, die du eben gegrüßt hast?
 > *Who was the woman you just greeted?*
 
+**Phrases & Expressions:**
+- **Viele liebe Grüße, deine Anna** — Many kind regards, your Anna *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+- **Bis bald und liebe Grüße** — See you soon and kind regards *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+- **Herzliche Grüße aus ...** — Warm greetings from ... *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+- **Mit freundlichen Grüßen** — Yours sincerely *([[B1-13 Formelle E-Mail und Brief|Grußformel]] · B1)*
+- **Mit besten Grüßen aus ...** — With best regards from ... *([[B1-13 Formelle E-Mail und Brief|Grußformel]] · B1)*
+- **Ich verbleibe mit freundlichen Grüßen** — I remain, with kind regards *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Grußformel]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 8e (Guten Tag!) · Goethe word list B1
 <!-- bank:end -->
 

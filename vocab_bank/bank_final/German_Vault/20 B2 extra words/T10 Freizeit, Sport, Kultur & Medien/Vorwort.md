@@ -33,6 +33,11 @@ status: "new"
 > Im Vorwort erklärt der Autor seine Absicht.
 > *In the foreword the author explains his intention.*
 
+**Phrases & Expressions:**
+- **im Vorwort** — *foreword; preface*
+- **ein Vorwort schreiben** — *foreword; preface*
+- **das Vorwort zur zweiten Auflage** — *foreword; preface*
+
 **Collocations**
 - im Vorwort
 - ein Vorwort schreiben

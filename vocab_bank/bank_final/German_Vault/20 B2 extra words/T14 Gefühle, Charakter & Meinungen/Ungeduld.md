@@ -33,6 +33,11 @@ status: "new"
 > Mit wachsender Ungeduld wartete sie auf den Anruf.
 > *She waited for the call with growing impatience.*
 
+**Phrases & Expressions:**
+- **voller Ungeduld** — *impatience*
+- **Ungeduld zeigen** — *impatience*
+- **vor Ungeduld** — *impatience*
+
 **Collocations**
 - voller Ungeduld
 - Ungeduld zeigen

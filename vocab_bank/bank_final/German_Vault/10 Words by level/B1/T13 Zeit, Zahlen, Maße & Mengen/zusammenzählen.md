@@ -33,6 +33,14 @@ status: "new"
 > Zähl bitte die Preise zusammen.
 > *Please add up the prices.*
 
+**Phrases & Expressions:**
+- **Lass uns morgen zusammen ...!** — Let's ... together tomorrow! *([[B1-05 Vorschläge machen und darauf reagieren|Vorschlag machen]] · B1)*
+- **Fassen wir kurz zusammen: ...** — Let's summarise briefly: ... *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Absprachen zusammenfassen]] · B1)*
+- **Ich fasse kurz zusammen: ...** — Let me briefly summarise: ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Zusammenfassen]] · B1)*
+- **Zum Schluss fasse ich die wichtigsten Punkte zusammen.** — Finally I will summarise the most important points. *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Aufbau ankündigen]] · B2)*
+- **Ich fasse meine Position kurz zusammen: ...** — Let me briefly sum up my position: ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Meinung zusammenfassen]] · B2)*
+- **Zu meinen Stärken zählt, dass ich teamfähig bin.** — Among my strengths is that I work well in a team. *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Stärken nennen]] · B2)*
+
 **Source:** Netzwerk neu B1 K8 1b (Rund um Körper und Geist)
 <!-- bank:end -->
 

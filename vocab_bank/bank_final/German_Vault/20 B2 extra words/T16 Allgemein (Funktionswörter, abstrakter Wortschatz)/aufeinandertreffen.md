@@ -32,6 +32,11 @@ status: "new"
 > Im Finale treffen zwei starke Mannschaften aufeinander.
 > *Two strong teams meet in the final.*
 
+**Phrases & Expressions:**
+- **Meinungen treffen aufeinander** — *to meet; to clash*
+- **hart aufeinandertreffen** — *to meet; to clash*
+- **Welten treffen aufeinander** — *to meet; to clash*
+
 **Collocations**
 - Meinungen treffen aufeinander
 - hart aufeinandertreffen

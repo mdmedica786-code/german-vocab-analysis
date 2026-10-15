@@ -42,6 +42,9 @@ status: "new"
 > Kann ich bitte noch Erdäpfel bekommen?
 > *Could I please have some more potatoes?*
 
+**Phrases & Expressions:**
+- **Kann ich bitte noch Erdäpfel bekommen** — *Could I please have some more potatoes* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

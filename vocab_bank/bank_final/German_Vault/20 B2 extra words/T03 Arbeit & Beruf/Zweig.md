@@ -33,6 +33,11 @@ status: "new"
 > Die Firma hat einen neuen Zweig für Online-Handel gegründet.
 > *The company has founded a new branch for online trade.*
 
+**Phrases & Expressions:**
+- **ein neuer Zweig** — *branch; sector*
+- **Zweig der Wirtschaft** — *branch; sector*
+- **Zweig eines Unternehmens** — *branch; sector*
+
 **Collocations**
 - ein neuer Zweig
 - Zweig der Wirtschaft

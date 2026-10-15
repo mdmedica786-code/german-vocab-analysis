@@ -35,6 +35,9 @@ status: "new"
 > Ist die Aussage richtig oder falsch?
 > *Is the statement correct or wrong?*
 
+**Phrases & Expressions:**
+- **Ist die Aussage richtig oder falsch** — *Is the statement correct or wrong* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 13a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

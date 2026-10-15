@@ -30,6 +30,11 @@ status: "new"
 > Für diese Stelle brauchen Sie viel Beratungskompetenz.
 > *For this job you need a lot of advisory competence.*
 
+**Phrases & Expressions:**
+- **Beratungskompetenz zeigen** — *advisory competence; counselling skills*
+- **hohe Beratungskompetenz** — *advisory competence; counselling skills*
+- **die Beratungskompetenz stärken** — *advisory competence; counselling skills*
+
 **Collocations**
 - Beratungskompetenz zeigen
 - hohe Beratungskompetenz

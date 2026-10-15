@@ -30,6 +30,11 @@ status: "new"
 > Legen Sie neues Papier in das Papierfach des Druckers.
 > *Put new paper into the printer's paper tray.*
 
+**Phrases & Expressions:**
+- **das Papierfach öffnen** — *paper tray*
+- **das Papierfach füllen** — *paper tray*
+- **das Papierfach des Druckers** — *paper tray*
+
 **Collocations**
 - das Papierfach öffnen
 - das Papierfach füllen

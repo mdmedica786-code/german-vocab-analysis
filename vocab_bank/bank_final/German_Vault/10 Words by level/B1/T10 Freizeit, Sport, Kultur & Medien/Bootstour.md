@@ -34,6 +34,9 @@ status: "new"
 > Wir machen eine Bootstour auf dem Rhein.
 > *We are taking a boat trip on the Rhine.*
 
+**Phrases & Expressions:**
+- **Wir machen eine Bootstour auf dem Rhein** — *We are taking a boat trip on the Rhine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

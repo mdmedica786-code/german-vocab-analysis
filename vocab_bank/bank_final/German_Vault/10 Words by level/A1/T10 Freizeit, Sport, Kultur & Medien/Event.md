@@ -34,6 +34,9 @@ status: "new"
 > Das Event beginnt um zwanzig Uhr.
 > *The event starts at eight p.m.*
 
+**Phrases & Expressions:**
+- **Das Event beginnt um zwanzig Uhr** — *The event starts at eight p.m* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg)
 <!-- bank:end -->
 

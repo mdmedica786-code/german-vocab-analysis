@@ -33,6 +33,11 @@ status: "new"
 > Die Ähnlichkeit der beiden Brüder ist groß.
 > *The resemblance between the two brothers is great.*
 
+**Phrases & Expressions:**
+- **eine auffallende Ähnlichkeit** — *similarity; resemblance*
+- **Ähnlichkeit mit jemandem haben** — *similarity; resemblance*
+- **Ähnlichkeiten aufweisen** — *similarity; resemblance*
+
 **Collocations**
 - eine auffallende Ähnlichkeit
 - Ähnlichkeit mit jemandem haben

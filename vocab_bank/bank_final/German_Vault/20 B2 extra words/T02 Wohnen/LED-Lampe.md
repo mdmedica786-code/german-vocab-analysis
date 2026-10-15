@@ -33,6 +33,11 @@ status: "new"
 > Eine LED-Lampe verbraucht wenig Strom.
 > *An LED lamp uses little electricity.*
 
+**Phrases & Expressions:**
+- **eine LED-Lampe kaufen** — *LED lamp*
+- **eine LED-Lampe einschrauben** — *LED lamp*
+- **auf LED-Lampen umsteigen** — *LED lamp*
+
 **Collocations**
 - eine LED-Lampe kaufen
 - eine LED-Lampe einschrauben

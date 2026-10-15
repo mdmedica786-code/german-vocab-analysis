@@ -33,6 +33,12 @@ status: "new"
 > Mein herzliches Beileid zu Ihrem Verlust!
 > *My sincere condolences on your loss!*
 
+**Phrases & Expressions:**
+- **Mein aufrichtiges Beileid zum Verlust Ihres Mannes.** — My sincere condolences on the loss of your husband. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Trauer begleiten]] · C1)*
+- **sein Beileid aussprechen** — *condolences*
+- **herzliches Beileid** — *condolences*
+- **Beileid bekunden** — *condolences*
+
 **Collocations**
 - sein Beileid aussprechen
 - herzliches Beileid

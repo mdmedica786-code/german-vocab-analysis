@@ -34,6 +34,9 @@ status: "new"
 > Für diesen Beruf braucht man Menschenkenntnis.
 > *You need an understanding of people for this job.*
 
+**Phrases & Expressions:**
+- **Für diesen Beruf braucht man Menschenkenntnis** — *You need an understanding of people for this job* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

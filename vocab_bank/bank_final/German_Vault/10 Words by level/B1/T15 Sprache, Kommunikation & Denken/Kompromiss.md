@@ -35,6 +35,9 @@ status: "new"
 > Alle wollen etwas anderes. Wir müssen einen Kompromiss finden.
 > *Everyone wants something different. We have to find a compromise.*
 
+**Phrases & Expressions:**
+- **Alle wollen etwas anderes. Wir müssen einen Kompromiss finden** — *Everyone wants something different. We have to find a compromise* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 4a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

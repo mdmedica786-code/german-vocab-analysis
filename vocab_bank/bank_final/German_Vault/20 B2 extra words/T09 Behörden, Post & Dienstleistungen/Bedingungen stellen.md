@@ -26,6 +26,10 @@ status: "new"
 > Die Bank stellt strenge Bedingungen für den Kredit.
 > *The bank imposes strict conditions for the loan.*
 
+**Phrases & Expressions:**
+- **Bedingungen an etwas knüpfen** — *to impose conditions*
+- **eine Bedingung stellen** — *to impose conditions*
+
 **Collocations**
 - Bedingungen an etwas knüpfen
 - eine Bedingung stellen

@@ -33,6 +33,11 @@ status: "new"
 > Der Verwaltungschef leitet die gesamte Verwaltung der Klinik.
 > *The head of administration runs the entire administration of the clinic.*
 
+**Phrases & Expressions:**
+- **der Verwaltungschef einer Firma** — *head of administration (male)*
+- **den Verwaltungschef fragen** — *head of administration (male)*
+- **als Verwaltungschef arbeiten** — *head of administration (male)*
+
 **Collocations**
 - der Verwaltungschef einer Firma
 - den Verwaltungschef fragen

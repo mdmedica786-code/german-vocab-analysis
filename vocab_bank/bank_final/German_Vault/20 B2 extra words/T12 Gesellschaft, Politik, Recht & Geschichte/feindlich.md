@@ -29,6 +29,11 @@ status: "new"
 > Die beiden Länder sind sich feindlich gesinnt.
 > *The two countries are hostile to each other.*
 
+**Phrases & Expressions:**
+- **feindlich gesinnt** — *hostile; enemy*
+- **feindliche Truppen** — *hostile; enemy*
+- **eine feindliche Haltung** — *hostile; enemy*
+
 **Collocations**
 - feindlich gesinnt
 - feindliche Truppen

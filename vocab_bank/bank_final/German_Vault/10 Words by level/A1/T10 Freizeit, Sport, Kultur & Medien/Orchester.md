@@ -35,6 +35,9 @@ status: "new"
 > Auf unserer Hochzeit hat ein kleines Orchester gespielt.
 > *A small orchestra played at our wedding.*
 
+**Phrases & Expressions:**
+- **Auf unserer Hochzeit hat ein kleines Orchester gespielt** — *A small orchestra played at our wedding* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg) · Goethe word list B1
 <!-- bank:end -->
 

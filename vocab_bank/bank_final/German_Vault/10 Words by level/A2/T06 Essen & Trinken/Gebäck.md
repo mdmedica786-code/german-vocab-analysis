@@ -35,6 +35,9 @@ status: "new"
 > Das Gebäck ist ganz frisch.
 > *The pastries are really fresh.*
 
+**Phrases & Expressions:**
+- **Das Gebäck ist ganz frisch** — *The pastries are really fresh* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle) · Goethe word list B1
 <!-- bank:end -->
 

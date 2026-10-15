@@ -33,6 +33,11 @@ status: "new"
 > Die Regierungsparteien haben sich auf ein Paket geeinigt.
 > *The governing parties have agreed on a package.*
 
+**Phrases & Expressions:**
+- **die Regierungsparteien einigen sich** — *governing party*
+- **große Regierungspartei** — *governing party*
+- **Regierungspartei werden** — *governing party*
+
 **Collocations**
 - die Regierungsparteien einigen sich
 - große Regierungspartei

@@ -35,6 +35,9 @@ status: "new"
 > Wir bekommen am Wochenende Besuch.
 > *We are having visitors at the weekend.*
 
+**Phrases & Expressions:**
+- **zu Besuch kommen** — to come for a visit *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+
 **Source:** Netzwerk neu A1 K6 13b (Zeit mit Freunden) · Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Kommunikationswissenschaftlerin hält einen Vortrag über Medien.
 > *The communication scientist gives a talk about the media.*
 
+**Phrases & Expressions:**
+- **eine bekannte Kommunikationswissenschaftlerin** — *communication scientist (female)*
+- **als Kommunikationswissenschaftlerin arbeiten** — *communication scientist (female)*
+- **Kommunikationswissenschaftlerin werden** — *communication scientist (female)*
+
 **Collocations**
 - eine bekannte Kommunikationswissenschaftlerin
 - als Kommunikationswissenschaftlerin arbeiten

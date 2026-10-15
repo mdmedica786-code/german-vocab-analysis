@@ -33,6 +33,11 @@ status: "new"
 > Der Anmeldeschluss für den Kurs ist der 15. März.
 > *The registration deadline for the course is 15 March.*
 
+**Phrases & Expressions:**
+- **der Anmeldeschluss ist** — *registration deadline*
+- **vor Anmeldeschluss** — *registration deadline*
+- **nach Anmeldeschluss** — *registration deadline*
+
 **Collocations**
 - der Anmeldeschluss ist
 - vor Anmeldeschluss

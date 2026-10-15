@@ -35,6 +35,9 @@ status: "new"
 > Das Visum habe ich von der Botschaft bekommen.
 > *I got the visa from the embassy.*
 
+**Phrases & Expressions:**
+- **Das Visum habe ich von der Botschaft bekommen** — *I got the visa from the embassy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 6c ÜB (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

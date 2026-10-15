@@ -33,6 +33,11 @@ status: "new"
 > Die Eroberung der Stadt dauerte drei Wochen.
 > *The conquest of the city took three weeks.*
 
+**Phrases & Expressions:**
+- **die Eroberung eines Landes** — *conquest; capture*
+- **eine neue Eroberung** — *conquest; capture*
+- **auf Eroberungen ausgehen** — *conquest; capture*
+
 **Collocations**
 - die Eroberung eines Landes
 - eine neue Eroberung

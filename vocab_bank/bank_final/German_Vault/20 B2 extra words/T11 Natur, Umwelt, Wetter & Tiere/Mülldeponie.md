@@ -33,6 +33,11 @@ status: "new"
 > Der Müll wird auf einer Mülldeponie außerhalb der Stadt gelagert.
 > *The waste is stored on a landfill outside the city.*
 
+**Phrases & Expressions:**
+- **eine Mülldeponie schließen** — *landfill*
+- **Müll auf der Deponie** — *landfill*
+- **wilde Mülldeponie** — *landfill*
+
 **Collocations**
 - eine Mülldeponie schließen
 - Müll auf der Deponie

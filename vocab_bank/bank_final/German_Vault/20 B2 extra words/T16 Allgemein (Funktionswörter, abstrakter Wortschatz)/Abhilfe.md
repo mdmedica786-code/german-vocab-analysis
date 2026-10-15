@@ -33,6 +33,11 @@ status: "new"
 > Wir müssen schnell für Abhilfe sorgen.
 > *We have to provide a remedy quickly.*
 
+**Phrases & Expressions:**
+- **Abhilfe schaffen** — *remedy; relief*
+- **für Abhilfe sorgen** — *remedy; relief*
+- **dringend Abhilfe fordern** — *remedy; relief*
+
 **Collocations**
 - Abhilfe schaffen
 - für Abhilfe sorgen

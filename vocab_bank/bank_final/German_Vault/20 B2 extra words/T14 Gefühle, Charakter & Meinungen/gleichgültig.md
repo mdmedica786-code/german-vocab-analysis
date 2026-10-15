@@ -29,6 +29,11 @@ status: "new"
 > Er reagierte gleichgültig auf die Kritik.
 > *He reacted indifferently to the criticism.*
 
+**Phrases & Expressions:**
+- **gleichgültig reagieren** — *indifferent; unconcerned*
+- **jemandem gleichgültig sein** — *indifferent; unconcerned*
+- **eine gleichgültige Haltung** — *indifferent; unconcerned*
+
 **Collocations**
 - gleichgültig reagieren
 - jemandem gleichgültig sein

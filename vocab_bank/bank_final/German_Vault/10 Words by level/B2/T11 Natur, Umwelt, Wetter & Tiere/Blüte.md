@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Im Frühling stehen die Bäume in voller Blüte.
 > *In spring the trees are in full blossom.*
+
+**Phrases & Expressions:**
+- **Im Frühling stehen die Bäume in voller Blüte** — *In spring the trees are in full blossom* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

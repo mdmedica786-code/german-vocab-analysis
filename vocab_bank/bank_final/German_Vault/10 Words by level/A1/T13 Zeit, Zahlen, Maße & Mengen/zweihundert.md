@@ -31,6 +31,9 @@ status: "new"
 > Das Buch kostet zweihundert Euro.
 > *The book costs two hundred euros.*
 
+**Phrases & Expressions:**
+- **Das Buch kostet zweihundert Euro** — *The book costs two hundred euros* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Nimm eine Wasserflasche mit zur Wanderung.
 > *Take a water bottle with you on the hike.*
 
+**Phrases & Expressions:**
+- **Nimm eine Wasserflasche mit zur Wanderung** — *Take a water bottle with you on the hike* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist)
 <!-- bank:end -->
 

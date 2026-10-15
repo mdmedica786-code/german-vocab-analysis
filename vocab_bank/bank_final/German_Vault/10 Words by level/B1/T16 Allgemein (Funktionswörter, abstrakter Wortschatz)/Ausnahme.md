@@ -35,6 +35,9 @@ status: "new"
 > Normalerweise muss ich am Wochenende arbeiten. Aber heute ist eine Ausnahme.
 > *Normally I have to work at the weekend. But today is an exception.*
 
+**Phrases & Expressions:**
+- **mit Ausnahme von ...** — with the exception of ... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · C1)*
+
 **Source:** Netzwerk neu B1 K2 6b (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

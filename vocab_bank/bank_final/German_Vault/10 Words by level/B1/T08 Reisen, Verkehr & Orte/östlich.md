@@ -30,6 +30,9 @@ status: "new"
 > Östlich der Stadt beginnt der Wald.
 > *The forest begins east of the city.*
 
+**Phrases & Expressions:**
+- **Östlich der Stadt beginnt der Wald** — *The forest begins east of the city* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

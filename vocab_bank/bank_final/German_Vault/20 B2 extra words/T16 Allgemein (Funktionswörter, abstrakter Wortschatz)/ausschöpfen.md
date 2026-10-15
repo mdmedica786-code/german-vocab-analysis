@@ -32,6 +32,11 @@ status: "new"
 > Noch sind nicht alle Möglichkeiten ausgeschöpft.
 > *Not all possibilities have been exhausted yet.*
 
+**Phrases & Expressions:**
+- **Möglichkeiten ausschöpfen** — *to exhaust; to make full use of*
+- **das Potenzial ausschöpfen** — *to exhaust; to make full use of*
+- **alle Mittel ausschöpfen** — *to exhaust; to make full use of*
+
 **Collocations**
 - Möglichkeiten ausschöpfen
 - das Potenzial ausschöpfen

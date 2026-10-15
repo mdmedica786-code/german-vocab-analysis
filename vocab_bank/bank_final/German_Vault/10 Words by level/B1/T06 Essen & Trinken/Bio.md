@@ -30,6 +30,9 @@ status: "new"
 > Ich kaufe am liebsten Bio.
 > *I prefer to buy organic.*
 
+**Phrases & Expressions:**
+- **Ich kaufe am liebsten Bio** — *I prefer to buy organic* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b (Umweltfreundlich?)
 <!-- bank:end -->
 

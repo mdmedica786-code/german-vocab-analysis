@@ -34,6 +34,9 @@ status: "new"
 > Gibst du mir bitte eine Schüssel für den Salat?
 > *Could you pass me a bowl for the salad, please?*
 
+**Phrases & Expressions:**
+- **Gibst du mir bitte eine Schüssel für den Salat** — *Could you pass me a bowl for the salad, please* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

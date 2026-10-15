@@ -33,6 +33,11 @@ status: "new"
 > Die Fahrzeit zur Arbeit hat sich verdoppelt.
 > *The travel time to work has doubled.*
 
+**Phrases & Expressions:**
+- **eine lange Fahrzeit** — *travel time; driving time*
+- **die Fahrzeit verkürzen** — *travel time; driving time*
+- **die Fahrzeit beträgt** — *travel time; driving time*
+
 **Collocations**
 - eine lange Fahrzeit
 - die Fahrzeit verkürzen

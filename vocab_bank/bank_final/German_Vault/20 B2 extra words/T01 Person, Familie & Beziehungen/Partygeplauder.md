@@ -30,6 +30,11 @@ status: "new"
 > Das Partygeplauder war oberflächlich, aber nett.
 > *The party chat was superficial but pleasant.*
 
+**Phrases & Expressions:**
+- **beim Partygeplauder** — *party chat; small talk at a party*
+- **oberflächliches Partygeplauder** — *party chat; small talk at a party*
+- **sich am Partygeplauder beteiligen** — *party chat; small talk at a party*
+
 **Collocations**
 - beim Partygeplauder
 - oberflächliches Partygeplauder

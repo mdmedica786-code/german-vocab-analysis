@@ -27,6 +27,9 @@ status: "new"
 > Für diese E-Mail passt ein halbformeller Ton.
 > *A semi-formal tone suits this email.*
 
+**Phrases & Expressions:**
+- **Für diese E-Mail passt ein halbformeller Ton** — *A semi-formal tone suits this email* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 13b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

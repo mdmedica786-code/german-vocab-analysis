@@ -33,6 +33,11 @@ status: "new"
 > Bürokratie ist ein Hemmnis für junge Firmen.
 > *Bureaucracy is an obstacle for young companies.*
 
+**Phrases & Expressions:**
+- **ein Hemmnis darstellen** — *obstacle; impediment*
+- **Hemmnisse abbauen** — *obstacle; impediment*
+- **ein ernstes Hemmnis** — *obstacle; impediment*
+
 **Collocations**
 - ein Hemmnis darstellen
 - Hemmnisse abbauen

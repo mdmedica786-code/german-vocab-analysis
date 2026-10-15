@@ -29,6 +29,11 @@ status: "new"
 > Der Antrag war formal korrekt.
 > *The application was formally correct.*
 
+**Phrases & Expressions:**
+- **formal richtig** — *formal*
+- **formale Voraussetzungen** — *formal*
+- **ein formaler Fehler** — *formal*
+
 **Collocations**
 - formal richtig
 - formale Voraussetzungen

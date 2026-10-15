@@ -35,6 +35,9 @@ status: "new"
 > Haben Sie dieses T-Shirt auch in M?
 > *Do you also have this T-shirt in M?*
 
+**Phrases & Expressions:**
+- **Haben Sie dieses T-Shirt auch in M** — *Do you also have this T-shirt in M* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 1a (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Ich trinke den Tee aus einem Becher.
 > *I drink the tea from a mug.*
 
+**Phrases & Expressions:**
+- **Ich trinke den Tee aus einem Becher** — *I drink the tea from a mug* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 6d ÜB (Guten Appetit!)
 <!-- bank:end -->
 

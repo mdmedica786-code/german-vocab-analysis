@@ -33,6 +33,12 @@ status: "new"
 > Die Warmmiete beträgt 850 Euro im Monat.
 > *The rent including utilities is 850 euros a month.*
 
+**Phrases & Expressions:**
+- **Wie hoch ist die Warmmiete?** — How high is the rent including heating? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Mietvertrag klären]] · B1)*
+- **die Warmmiete zahlen** — *rent including heating and utilities*
+- **Warmmiete und Kaltmiete** — *rent including heating and utilities*
+- **Warmmiete inklusive Nebenkosten** — *rent including heating and utilities*
+
 **Collocations**
 - die Warmmiete zahlen
 - Warmmiete und Kaltmiete

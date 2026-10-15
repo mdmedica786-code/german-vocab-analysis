@@ -34,6 +34,9 @@ status: "new"
 > Das Trinkwasser in Deutschland ist sauber.
 > *Drinking water in Germany is clean.*
 
+**Phrases & Expressions:**
+- **Das Trinkwasser in Deutschland ist sauber** — *Drinking water in Germany is clean* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 1a (Umweltfreundlich?)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der Redner sprach laut in das Mikrofon.
 > *The speaker spoke loudly into the microphone.*
 
+**Phrases & Expressions:**
+- **ins Mikrofon sprechen** — *microphone*
+- **das Mikrofon einschalten** — *microphone*
+- **ein Mikrofon testen** — *microphone*
+
 **Collocations**
 - ins Mikrofon sprechen
 - das Mikrofon einschalten

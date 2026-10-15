@@ -26,6 +26,11 @@ status: "new"
 > Die Versicherung trägt die Kosten für den Schaden.
 > *The insurance bears the costs of the damage.*
 
+**Phrases & Expressions:**
+- **die Kosten übernehmen** — *to bear the costs*
+- **die Kosten teilen** — *to bear the costs*
+- **die Kosten selbst tragen** — *to bear the costs*
+
 **Collocations**
 - die Kosten übernehmen
 - die Kosten teilen

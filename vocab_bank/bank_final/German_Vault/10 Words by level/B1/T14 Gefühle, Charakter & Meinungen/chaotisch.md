@@ -30,6 +30,9 @@ status: "new"
 > In meinem Zimmer sieht es chaotisch aus.
 > *My room looks chaotic.*
 
+**Phrases & Expressions:**
+- **In meinem Zimmer sieht es chaotisch aus** — *My room looks chaotic* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 8c (Kunststücke)
 <!-- bank:end -->
 

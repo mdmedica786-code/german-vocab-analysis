@@ -33,6 +33,11 @@ status: "new"
 > Der Algorithmus entscheidet, welche Videos angezeigt werden.
 > *The algorithm decides which videos are displayed.*
 
+**Phrases & Expressions:**
+- **einen Algorithmus entwickeln** — *algorithm*
+- **der Algorithmus berechnet** — *algorithm*
+- **Algorithmen der Suchmaschine** — *algorithm*
+
 **Collocations**
 - einen Algorithmus entwickeln
 - der Algorithmus berechnet

@@ -29,6 +29,10 @@ status: "new"
 > Der Minister muss den Journalisten Rede und Antwort stehen.
 > *The minister has to answer the journalists' questions.*
 
+**Phrases & Expressions:**
+- **jemandem Rede und Antwort stehen** — *to answer for oneself; to be held to account*
+- **sich verantworten** — *to answer for oneself; to be held to account*
+
 **Collocations**
 - jemandem Rede und Antwort stehen
 - sich verantworten

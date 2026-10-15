@@ -32,6 +32,12 @@ status: "new"
 > Er ist krank und schwach.
 > *He is ill and weak.*
 
+**Phrases & Expressions:**
+- **schwach sein** — *weak*
+- **schwacher Puls** — *weak*
+- **ein schwaches Herz** — *weak*
+- **sich schwach fühlen** — *weak*
+
 **Collocations**
 - schwach sein
 - schwacher Puls

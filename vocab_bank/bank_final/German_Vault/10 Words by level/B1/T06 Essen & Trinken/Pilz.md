@@ -35,6 +35,9 @@ status: "new"
 > Haben Sie frische Pilze?
 > *Do you have fresh mushrooms?*
 
+**Phrases & Expressions:**
+- **Haben Sie frische Pilze** — *Do you have fresh mushrooms* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 1a ÜB (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

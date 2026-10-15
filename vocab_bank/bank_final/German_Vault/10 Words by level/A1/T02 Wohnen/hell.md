@@ -32,6 +32,9 @@ status: "new"
 > Im Sommer ist es bis 21 Uhr hell.
 > *In summer it is light until 9 p.m.*
 
+**Phrases & Expressions:**
+- **Im Sommer ist es bis 21 Uhr hell** — *In summer it is light until 9 p.m* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Wir brauchen allenfalls zwei Stunden dafür.
 > *We need two hours for it at most.*
 
+**Phrases & Expressions:**
+- **allenfalls zwei** — *at most; at best; possibly*
+- **allenfalls möglich** — *at most; at best; possibly*
+- **allenfalls noch** — *at most; at best; possibly*
+
 **Collocations**
 - allenfalls zwei
 - allenfalls möglich

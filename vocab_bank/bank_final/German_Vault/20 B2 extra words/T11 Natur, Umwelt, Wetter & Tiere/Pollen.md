@@ -33,6 +33,12 @@ status: "new"
 > Im Frühling fliegen viele Pollen durch die Luft.
 > *In spring a lot of pollen is flying through the air.*
 
+**Phrases & Expressions:**
+- **Wie reagieren Sie auf Pollen, Nahrungsmittel oder Medikamente?** — How do you react to pollen, foods or medicines? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Allergien erfragen]] · B2)*
+- **Pollen fliegen** — *pollen*
+- **allergisch auf Pollen reagieren** — *pollen*
+- **der Pollen der Birke** — *pollen*
+
 **Collocations**
 - Pollen fliegen
 - allergisch auf Pollen reagieren

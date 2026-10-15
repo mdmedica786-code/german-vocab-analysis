@@ -35,6 +35,9 @@ status: "new"
 > Wir essen heute in einem Restaurant.
 > *We're eating in a restaurant today.*
 
+**Phrases & Expressions:**
+- **Wir essen heute in einem Restaurant** — *We're eating in a restaurant today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 5b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

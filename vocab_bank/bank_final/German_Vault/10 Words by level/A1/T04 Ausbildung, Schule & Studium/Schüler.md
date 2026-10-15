@@ -36,6 +36,9 @@ status: "new"
 > In meinem Kurs sind acht Schülerinnen und fünf Schüler.
 > **
 
+**Phrases & Expressions:**
+- **In meinem Kurs sind acht Schülerinnen und fünf Schüler** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 1a ÜB (Nach der Schulzeit) · Goethe word list A1
 <!-- bank:end -->
 

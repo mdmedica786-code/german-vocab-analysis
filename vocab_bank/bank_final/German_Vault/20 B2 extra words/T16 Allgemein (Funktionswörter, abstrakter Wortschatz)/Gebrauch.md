@@ -33,6 +33,11 @@ status: "new"
 > Vor dem Gebrauch bitte gut schütteln.
 > *Please shake well before use.*
 
+**Phrases & Expressions:**
+- **von etwas Gebrauch machen** — *use; usage*
+- **vor dem Gebrauch** — *use; usage*
+- **im täglichen Gebrauch** — *use; usage*
+
 **Collocations**
 - von etwas Gebrauch machen
 - vor dem Gebrauch

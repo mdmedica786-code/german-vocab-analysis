@@ -31,6 +31,11 @@ status: "new"
 > Er grinste über das ganze Gesicht.
 > *He grinned from ear to ear.*
 
+**Phrases & Expressions:**
+- **über das ganze Gesicht grinsen** — *to grin*
+- **breit grinsen** — *to grin*
+- **spöttisch grinsen** — *to grin*
+
 **Collocations**
 - über das ganze Gesicht grinsen
 - breit grinsen

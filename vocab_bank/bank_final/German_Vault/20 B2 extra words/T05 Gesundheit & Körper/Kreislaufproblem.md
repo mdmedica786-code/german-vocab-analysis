@@ -33,6 +33,11 @@ status: "new"
 > Bei großer Hitze habe ich oft Kreislaufprobleme.
 > *In great heat I often have circulatory problems.*
 
+**Phrases & Expressions:**
+- **Kreislaufprobleme haben** — *circulatory problem*
+- **unter Kreislaufproblemen leiden** — *circulatory problem*
+- **ein Kreislaufproblem im Sommer** — *circulatory problem*
+
 **Collocations**
 - Kreislaufprobleme haben
 - unter Kreislaufproblemen leiden

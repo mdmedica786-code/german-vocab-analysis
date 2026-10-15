@@ -33,6 +33,11 @@ status: "new"
 > Der Sprachstil des Autors ist sehr modern.
 > *The author's style of language is very modern.*
 
+**Phrases & Expressions:**
+- **ein einfacher Sprachstil** — *language style; style of speech*
+- **den Sprachstil anpassen** — *language style; style of speech*
+- **ein persönlicher Sprachstil** — *language style; style of speech*
+
 **Collocations**
 - ein einfacher Sprachstil
 - den Sprachstil anpassen

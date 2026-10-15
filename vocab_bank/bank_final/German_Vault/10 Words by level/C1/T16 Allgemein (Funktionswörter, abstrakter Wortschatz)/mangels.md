@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Der Fall wurde mangels Beweisen eingestellt.
 > *The case was dropped for lack of evidence.*
+
+**Phrases & Expressions:**
+- **Der Fall wurde mangels Beweisen eingestellt** — *The case was dropped for lack of evidence* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

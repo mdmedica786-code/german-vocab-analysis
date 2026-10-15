@@ -33,6 +33,11 @@ status: "new"
 > Der Heizkörper im Schlafzimmer wird nicht warm.
 > *The radiator in the bedroom doesn't get warm.*
 
+**Phrases & Expressions:**
+- **den Heizkörper aufdrehen** — *radiator*
+- **ein kalter Heizkörper** — *radiator*
+- **den Heizkörper entlüften** — *radiator*
+
 **Collocations**
 - den Heizkörper aufdrehen
 - ein kalter Heizkörper

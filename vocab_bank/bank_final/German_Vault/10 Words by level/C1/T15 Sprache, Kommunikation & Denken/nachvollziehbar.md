@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Seine Entscheidung ist gut nachvollziehbar.
 > *His decision is easy to understand.*
+
+**Phrases & Expressions:**
+- **Ist der Plan für Sie nachvollziehbar?** — Is the plan clear to you? *([[FSP-11 Therapie und Medikamente erklären|Verständnis sichern]] · B2)*
 <!-- bank:end -->
 
 ## My notes

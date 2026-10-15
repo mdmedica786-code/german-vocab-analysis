@@ -29,6 +29,13 @@ status: "new"
 > Die Untersuchung ist nicht schmerzhaft.
 > *The examination is not painful.*
 
+**Phrases & Expressions:**
+- **Können Sie mit einem Finger auf die schmerzhafte Stelle zeigen?** — Can you point to the painful spot with one finger? *([[FSP-03 Schmerzanamnese|Lokalisation erfragen]] · B1)*
+- **schmerzhafte Untersuchung** — *painful*
+- **schmerzhafte Schwellung** — *painful*
+- **schmerzhaft sein** — *painful*
+- **schmerzhaft verlaufen** — *painful*
+
 **Collocations**
 - schmerzhafte Untersuchung
 - schmerzhafte Schwellung

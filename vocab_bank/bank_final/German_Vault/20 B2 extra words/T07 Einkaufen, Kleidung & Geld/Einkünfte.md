@@ -32,6 +32,11 @@ status: "new"
 > Seine Einkünfte sind gering.
 > *His income is low.*
 
+**Phrases & Expressions:**
+- **Einkünfte versteuern** — *income; earnings*
+- **hohe Einkünfte** — *income; earnings*
+- **Einkünfte aus Arbeit** — *income; earnings*
+
 **Collocations**
 - Einkünfte versteuern
 - hohe Einkünfte

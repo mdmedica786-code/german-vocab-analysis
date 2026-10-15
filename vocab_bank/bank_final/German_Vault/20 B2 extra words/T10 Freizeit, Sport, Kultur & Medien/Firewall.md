@@ -33,6 +33,11 @@ status: "new"
 > Die Firewall blockiert unerwünschte Zugriffe aus dem Netz.
 > *The firewall blocks unwanted access from the network.*
 
+**Phrases & Expressions:**
+- **eine Firewall einrichten** — *firewall*
+- **die Firewall deaktivieren** — *firewall*
+- **Firewall und Virenschutz** — *firewall*
+
 **Collocations**
 - eine Firewall einrichten
 - die Firewall deaktivieren

@@ -35,6 +35,9 @@ status: "new"
 > Der spanische König ist in Deutschland zu Besuch.
 > *The Spanish king is visiting Germany.*
 
+**Phrases & Expressions:**
+- **Der spanische König ist in Deutschland zu Besuch** — *The Spanish king is visiting Germany* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1a (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

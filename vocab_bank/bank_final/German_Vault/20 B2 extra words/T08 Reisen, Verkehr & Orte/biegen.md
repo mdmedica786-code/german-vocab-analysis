@@ -31,6 +31,11 @@ status: "new"
 > Er biegt das Rohr vorsichtig, damit es nicht bricht.
 > *He bends the pipe carefully so that it does not break.*
 
+**Phrases & Expressions:**
+- **um die Ecke biegen** — *to bend; to turn (a corner)*
+- **sich biegen** — *to bend; to turn (a corner)*
+- **ein Rohr biegen** — *to bend; to turn (a corner)*
+
 **Collocations**
 - um die Ecke biegen
 - sich biegen

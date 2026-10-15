@@ -29,6 +29,10 @@ status: "new"
 > Tag für Tag übt sie Klavier.
 > *Day after day she practises the piano.*
 
+**Phrases & Expressions:**
+- **Jahr für Jahr** — *day after day*
+- **tagtäglich** — *day after day*
+
 **Collocations**
 - Jahr für Jahr
 - tagtäglich

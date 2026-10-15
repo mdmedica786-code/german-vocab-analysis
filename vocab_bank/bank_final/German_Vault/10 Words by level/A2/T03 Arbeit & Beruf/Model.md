@@ -34,6 +34,9 @@ status: "new"
 > Das Model läuft über den Laufsteg.
 > *The model walks down the catwalk.*
 
+**Phrases & Expressions:**
+- **Das Model läuft über den Laufsteg** — *The model walks down the catwalk* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

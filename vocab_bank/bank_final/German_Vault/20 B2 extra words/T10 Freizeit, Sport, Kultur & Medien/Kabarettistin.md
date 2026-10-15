@@ -33,6 +33,11 @@ status: "new"
 > Die Kabarettistin wurde mit einem Preis ausgezeichnet.
 > *The cabaret artist was awarded a prize.*
 
+**Phrases & Expressions:**
+- **eine bekannte Kabarettistin** — *cabaret artist (female); satirist*
+- **als Kabarettistin auftreten** — *cabaret artist (female); satirist*
+- **die Kabarettistin spielt** — *cabaret artist (female); satirist*
+
 **Collocations**
 - eine bekannte Kabarettistin
 - als Kabarettistin auftreten

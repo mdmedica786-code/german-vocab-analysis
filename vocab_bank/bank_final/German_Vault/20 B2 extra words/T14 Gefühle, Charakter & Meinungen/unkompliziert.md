@@ -29,6 +29,14 @@ status: "new"
 > Die Anmeldung war einfach und unkompliziert.
 > *The registration was simple and uncomplicated.*
 
+**Phrases & Expressions:**
+- **Der Verlauf ist in der Regel unkompliziert.** — The course is usually uncomplicated. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Verlauf erklären]] · B2)*
+- **Der stationäre Verlauf war unkompliziert.** — The inpatient course was uncomplicated. *([[FSP-20 Arztbrief und Dokumentation|Verlauf schildern]] · B2)*
+- **Zusammenfassend handelt es sich um eine unkomplizierte Pneumonie.** — In summary it is an uncomplicated pneumonia. *([[FSP-20 Arztbrief und Dokumentation|Beurteilung]] · B2)*
+- **unkompliziert sein** — *uncomplicated; easy-going*
+- **ein unkomplizierter Mensch** — *uncomplicated; easy-going*
+- **unkompliziert funktionieren** — *uncomplicated; easy-going*
+
 **Collocations**
 - unkompliziert sein
 - ein unkomplizierter Mensch

@@ -29,6 +29,11 @@ status: "new"
 > Es gibt noch institutionelle Hürden.
 > *There are still institutional hurdles.*
 
+**Phrases & Expressions:**
+- **institutionelle Veränderungen** — *institutional*
+- **institutionell verankert** — *institutional*
+- **der institutionelle Rahmen** — *institutional*
+
 **Collocations**
 - institutionelle Veränderungen
 - institutionell verankert

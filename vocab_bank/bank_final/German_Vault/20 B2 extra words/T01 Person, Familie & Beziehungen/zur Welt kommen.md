@@ -26,6 +26,11 @@ status: "new"
 > Ihr Sohn ist im Mai zur Welt gekommen.
 > *Their son was born in May.*
 
+**Phrases & Expressions:**
+- **gesund zur Welt kommen** — *to be born*
+- **ein Kind zur Welt bringen** — *to be born*
+- **auf die Welt kommen** — *to be born*
+
 **Collocations**
 - gesund zur Welt kommen
 - ein Kind zur Welt bringen

@@ -33,6 +33,12 @@ status: "new"
 > Wir liefern Ihnen den Schrank nach Hause.
 > *We will deliver the wardrobe to your home.*
 
+**Phrases & Expressions:**
+- **Waren liefern** — *to deliver*
+- **frei Haus liefern** — *to deliver*
+- **Beweise liefern** — *to deliver*
+- **Strom liefern** — *to deliver*
+
 **Collocations**
 - Waren liefern
 - frei Haus liefern

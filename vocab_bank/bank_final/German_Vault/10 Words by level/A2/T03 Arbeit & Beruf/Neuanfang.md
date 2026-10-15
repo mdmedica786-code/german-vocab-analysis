@@ -34,6 +34,9 @@ status: "new"
 > Nach dem Umzug beginnt sie einen Neuanfang.
 > *After the move she is making a fresh start.*
 
+**Phrases & Expressions:**
+- **Nach dem Umzug beginnt sie einen Neuanfang** — *After the move she is making a fresh start* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

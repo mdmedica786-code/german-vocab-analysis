@@ -29,6 +29,11 @@ status: "new"
 > Das Interview war sehr aufschlussreich.
 > *The interview was very revealing.*
 
+**Phrases & Expressions:**
+- **ein aufschlussreiches Gespräch** — *revealing; informative*
+- **eine aufschlussreiche Studie** — *revealing; informative*
+- **aufschlussreiche Zahlen** — *revealing; informative*
+
 **Collocations**
 - ein aufschlussreiches Gespräch
 - eine aufschlussreiche Studie

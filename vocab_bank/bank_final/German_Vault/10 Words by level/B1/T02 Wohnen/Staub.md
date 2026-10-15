@@ -35,6 +35,9 @@ status: "new"
 > Ich habe überall Staub gewischt.
 > *I wiped dust everywhere.*
 
+**Phrases & Expressions:**
+- **Sind Sie am Arbeitsplatz Schadstoffen oder Staub ausgesetzt?** — Are you exposed to harmful substances or dust at work? *([[FSP-05 Familien- und Sozialanamnese|Umweltbelastung erfragen]] · B2)*
+
 **Source:** Netzwerk neu B1 K12 10a (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

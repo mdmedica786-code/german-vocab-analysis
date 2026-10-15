@@ -34,6 +34,9 @@ status: "new"
 > Die Entstehungszeit des Bildes ist unbekannt.
 > *The time of origin of the picture is unknown.*
 
+**Phrases & Expressions:**
+- **Die Entstehungszeit des Bildes ist unbekannt** — *The time of origin of the picture is unknown* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

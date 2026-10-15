@@ -31,6 +31,9 @@ status: "new"
 > Da drüben ist die Haltestelle.
 > *The bus stop is over there.*
 
+**Phrases & Expressions:**
+- **Da drüben ist die Haltestelle** — *The bus stop is over there* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 2 (Gute Reise!) · Goethe word list A2
 <!-- bank:end -->
 

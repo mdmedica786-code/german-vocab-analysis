@@ -35,6 +35,10 @@ status: "new"
 > Der Arme hat sein ganzes Geld verloren.
 > *The poor man has lost all his money.*
 
+**Phrases & Expressions:**
+- **Haben Sie Kribbeln oder Taubheit in Armen oder Beinen?** — Do you have tingling or numbness in your arms or legs? *([[FSP-06 Systemanamnese (Organsysteme)|Nervensystem]] · B2)*
+- **Strecken Sie bitte beide Arme nach vorn.** — Please stretch both arms out in front. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Bewegungsanweisung]] · B2)*
+
 **Source:** Netzwerk neu A2 K11 9a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

@@ -33,6 +33,9 @@ status: "new"
 > Auf der Autobahn rasen manche Fahrer.
 > *Some drivers speed on the motorway.*
 
+**Phrases & Expressions:**
+- **Auf der Autobahn rasen manche Fahrer** — *Some drivers speed on the motorway* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3a (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

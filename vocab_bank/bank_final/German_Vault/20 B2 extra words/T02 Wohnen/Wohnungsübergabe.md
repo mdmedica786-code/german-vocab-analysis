@@ -30,6 +30,11 @@ status: "new"
 > Bei der Wohnungsübergabe wird ein Protokoll erstellt.
 > *A protocol is drawn up at the handover of the flat.*
 
+**Phrases & Expressions:**
+- **die Wohnungsübergabe vereinbaren** — *handover of the flat*
+- **Termin für die Wohnungsübergabe** — *handover of the flat*
+- **bei der Wohnungsübergabe** — *handover of the flat*
+
 **Collocations**
 - die Wohnungsübergabe vereinbaren
 - Termin für die Wohnungsübergabe

@@ -33,6 +33,11 @@ status: "new"
 > Der Flug hat einen Zwischenstopp in Frankfurt.
 > *The flight has a stopover in Frankfurt.*
 
+**Phrases & Expressions:**
+- **einen Zwischenstopp einlegen** — *stopover; stop on the way*
+- **Zwischenstopp machen** — *stopover; stop on the way*
+- **ein Flug mit Zwischenstopp** — *stopover; stop on the way*
+
 **Collocations**
 - einen Zwischenstopp einlegen
 - Zwischenstopp machen

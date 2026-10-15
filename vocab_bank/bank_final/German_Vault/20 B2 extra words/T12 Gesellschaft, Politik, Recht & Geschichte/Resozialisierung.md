@@ -33,6 +33,11 @@ status: "new"
 > Die Resozialisierung ehemaliger Häftlinge ist wichtig.
 > *The rehabilitation of former prisoners is important.*
 
+**Phrases & Expressions:**
+- **Resozialisierung fördern** — *rehabilitation (into society)*
+- **Hilfe bei der Resozialisierung** — *rehabilitation (into society)*
+- **erfolgreiche Resozialisierung** — *rehabilitation (into society)*
+
 **Collocations**
 - Resozialisierung fördern
 - Hilfe bei der Resozialisierung

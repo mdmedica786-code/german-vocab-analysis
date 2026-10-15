@@ -30,6 +30,11 @@ status: "new"
 > Das Biotechnologie-Unternehmen sucht neue Mitarbeiter.
 > *The biotechnology company is looking for new employees.*
 
+**Phrases & Expressions:**
+- **ein Biotechnologie-Unternehmen gründen** — *biotechnology company*
+- **bei einem Biotechnologie-Unternehmen arbeiten** — *biotechnology company*
+- **ein junges Biotechnologie-Unternehmen** — *biotechnology company*
+
 **Collocations**
 - ein Biotechnologie-Unternehmen gründen
 - bei einem Biotechnologie-Unternehmen arbeiten

@@ -30,6 +30,11 @@ status: "new"
 > Im Urlaub bringen wir unsere Katze in eine Tierpension.
 > *On holiday we take our cat to a pet hotel.*
 
+**Phrases & Expressions:**
+- **in die Tierpension geben** — *animal boarding home; pet hotel*
+- **eine Tierpension buchen** — *animal boarding home; pet hotel*
+- **eine Tierpension für Hunde** — *animal boarding home; pet hotel*
+
 **Collocations**
 - in die Tierpension geben
 - eine Tierpension buchen

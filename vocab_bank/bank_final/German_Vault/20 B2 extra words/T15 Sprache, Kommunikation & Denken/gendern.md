@@ -31,6 +31,11 @@ status: "new"
 > In unserem Text haben wir konsequent gegendert.
 > *In our text we have used gender-inclusive language consistently.*
 
+**Phrases & Expressions:**
+- **konsequent gendern** — *to use gender-inclusive language*
+- **in Texten gendern** — *to use gender-inclusive language*
+- **gendern oder nicht gendern** — *to use gender-inclusive language*
+
 **Collocations**
 - konsequent gendern
 - in Texten gendern

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Abreise ist für Montag geplant.
 > *The departure is planned for Monday.*
+
+**Phrases & Expressions:**
+- **Die Abreise ist für Montag geplant** — *The departure is planned for Monday* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

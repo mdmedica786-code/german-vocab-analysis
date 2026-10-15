@@ -31,6 +31,14 @@ status: "new"
 > Insgesamt ist es eher einsam hier auf der Alm.
 > *All in all, it's rather lonely up here on the alp.*
 
+**Phrases & Expressions:**
+- **Ich stehe der Idee eher skeptisch gegenüber.** — I am rather sceptical about the idea. *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Position beziehen]] · B2)*
+- **Ist der Schmerz eher stechend, dumpf oder krampfartig?** — Is the pain more stabbing, dull or cramping? *([[FSP-03 Schmerzanamnese|Qualität erfragen]] · B1)*
+- **eher selten** — *rather*
+- **eher nicht** — *rather*
+- **eher klein** — *rather*
+- **eher als erwartet** — *rather*
+
 **Collocations**
 - eher selten
 - eher nicht

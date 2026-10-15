@@ -33,6 +33,11 @@ status: "new"
 > Der erste Prototyp des Elektroautos wurde auf der Messe gezeigt.
 > *The first prototype of the electric car was shown at the fair.*
 
+**Phrases & Expressions:**
+- **einen Prototyp bauen** — *prototype*
+- **Prototyp vorstellen** — *prototype*
+- **Prototyp testen** — *prototype*
+
 **Collocations**
 - einen Prototyp bauen
 - Prototyp vorstellen

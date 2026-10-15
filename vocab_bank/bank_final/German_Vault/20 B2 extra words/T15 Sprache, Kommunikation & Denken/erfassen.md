@@ -31,6 +31,11 @@ status: "new"
 > Das System erfasst alle Daten automatisch.
 > *The system records all data automatically.*
 
+**Phrases & Expressions:**
+- **Daten erfassen** — *to record; to grasp; to cover*
+- **etwas erfassen** — *to record; to grasp; to cover*
+- **vom Gesetz erfasst** — *to record; to grasp; to cover*
+
 **Collocations**
 - Daten erfassen
 - etwas erfassen

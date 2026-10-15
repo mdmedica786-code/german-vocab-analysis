@@ -30,6 +30,9 @@ status: "new"
 > Der Zug kommt verspätet an.
 > *The train arrives late.*
 
+**Phrases & Expressions:**
+- **Der Zug kommt verspätet an** — *The train arrives late* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 12a ÜB (Große und kleine Gefühle)
 <!-- bank:end -->
 

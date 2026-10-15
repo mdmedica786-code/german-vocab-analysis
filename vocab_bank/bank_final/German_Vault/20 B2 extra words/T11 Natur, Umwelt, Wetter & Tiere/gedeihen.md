@@ -31,6 +31,11 @@ status: "new"
 > Die Pflanzen gedeihen in diesem Klima besonders gut.
 > *The plants thrive particularly well in this climate.*
 
+**Phrases & Expressions:**
+- **gut gedeihen** — *to thrive; to flourish*
+- **prächtig gedeihen** — *to thrive; to flourish*
+- **ein Projekt gedeiht** — *to thrive; to flourish*
+
 **Collocations**
 - gut gedeihen
 - prächtig gedeihen

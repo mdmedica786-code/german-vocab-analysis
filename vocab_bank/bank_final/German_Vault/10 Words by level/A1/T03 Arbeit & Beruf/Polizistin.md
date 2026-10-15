@@ -35,6 +35,9 @@ status: "new"
 > Die Polizistin stoppt das Auto.
 > *The police officer stops the car.*
 
+**Phrases & Expressions:**
+- **Die Polizistin stoppt das Auto** — *The police officer stops the car* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a ÜB (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

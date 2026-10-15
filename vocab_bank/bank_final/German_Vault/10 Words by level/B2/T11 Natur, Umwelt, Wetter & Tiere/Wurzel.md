@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Baum hat tiefe Wurzeln.
 > *The tree has deep roots.*
+
+**Phrases & Expressions:**
+- **Der Baum hat tiefe Wurzeln** — *The tree has deep roots* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

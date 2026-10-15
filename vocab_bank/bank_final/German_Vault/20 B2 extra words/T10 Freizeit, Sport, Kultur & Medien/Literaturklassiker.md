@@ -30,6 +30,11 @@ status: "new"
 > „Faust“ ist ein bekannter Literaturklassiker.
 > *"Faust" is a famous literary classic.*
 
+**Phrases & Expressions:**
+- **einen Literaturklassiker lesen** — *literary classic*
+- **ein deutscher Literaturklassiker** — *literary classic*
+- **Literaturklassiker verfilmen** — *literary classic*
+
 **Collocations**
 - einen Literaturklassiker lesen
 - ein deutscher Literaturklassiker

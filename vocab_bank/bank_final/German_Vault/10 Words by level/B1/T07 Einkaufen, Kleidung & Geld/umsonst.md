@@ -31,6 +31,9 @@ status: "new"
 > Ich musste nichts bezahlen. Die Reparatur war umsonst.
 > *I did not have to pay anything. The repair was free.*
 
+**Phrases & Expressions:**
+- **Ich musste nichts bezahlen. Die Reparatur war umsonst** — *I did not have to pay anything. The repair was free* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 10 (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

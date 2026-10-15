@@ -42,6 +42,9 @@ status: "new"
 > Das Velofahren auf dem Trottoir ist nicht erlaubt.
 > *Cycling on the pavement is not allowed.*
 
+**Phrases & Expressions:**
+- **Das Velofahren auf dem Trottoir ist nicht erlaubt** — *Cycling on the pavement is not allowed* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

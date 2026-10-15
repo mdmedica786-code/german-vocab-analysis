@@ -32,6 +32,14 @@ status: "new"
 > Wie geht's? - Ganz gut, danke.
 > *How are you? - Pretty good, thank you.*
 
+**Phrases & Expressions:**
+- **ganz und gar nicht** — not at all *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B2)*
+- **ganz im Gegenteil** — quite the opposite *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B2)*
+- **ganz und gar** — completely *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **ganz anders** — quite different *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B2)*
+- **ganz in der Nähe** — very close by *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **ganz sicher** — quite certainly *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+
 **Collocations**
 - ganz gut
 - den ganzen Tag

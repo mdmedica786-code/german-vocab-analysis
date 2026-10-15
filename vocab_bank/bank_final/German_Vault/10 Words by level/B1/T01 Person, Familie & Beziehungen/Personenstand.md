@@ -34,6 +34,9 @@ status: "new"
 > Bei „Personenstand“ musst du „ledig“ ankreuzen.
 > *Under marital status you have to tick single.*
 
+**Phrases & Expressions:**
+- **Bei „Personenstand“ musst du „ledig“ ankreuzen** — *Under marital status you have to tick single* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

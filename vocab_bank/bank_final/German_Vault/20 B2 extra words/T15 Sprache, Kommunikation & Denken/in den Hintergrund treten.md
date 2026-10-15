@@ -26,6 +26,10 @@ status: "new"
 > Familie und Freunde traten in den Hintergrund.
 > *Family and friends took a back seat.*
 
+**Phrases & Expressions:**
+- **in den Hintergrund rücken** — *to take a back seat*
+- **in den Vordergrund treten** — *to take a back seat*
+
 **Collocations**
 - in den Hintergrund rücken
 - in den Vordergrund treten

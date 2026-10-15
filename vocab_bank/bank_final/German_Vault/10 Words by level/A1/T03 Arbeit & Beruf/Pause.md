@@ -35,6 +35,9 @@ status: "new"
 > Wir machen zehn Minuten Pause.
 > *We're taking a ten-minute break.*
 
+**Phrases & Expressions:**
+- **Versuchen Sie, bewusst Pausen in den Alltag einzubauen.** — Try to consciously build breaks into your day. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Stress abbauen]] · B2)*
+
 **Source:** Netzwerk neu A1 K7 2a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

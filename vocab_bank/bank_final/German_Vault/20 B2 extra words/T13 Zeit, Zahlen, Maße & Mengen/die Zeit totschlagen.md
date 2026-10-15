@@ -29,6 +29,10 @@ status: "new"
 > Am Bahnhof haben wir die Zeit mit Kaffee totgeschlagen.
 > *At the station we killed time with coffee.*
 
+**Phrases & Expressions:**
+- **Zeit totschlagen** — *to kill time*
+- **sich die Zeit vertreiben** — *to kill time*
+
 **Collocations**
 - Zeit totschlagen
 - sich die Zeit vertreiben

@@ -35,6 +35,9 @@ status: "new"
 > Welche Partei hast du gewählt?
 > *Which party did you vote for?*
 
+**Phrases & Expressions:**
+- **Welche Partei hast du gewählt** — *Which party did you vote for* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

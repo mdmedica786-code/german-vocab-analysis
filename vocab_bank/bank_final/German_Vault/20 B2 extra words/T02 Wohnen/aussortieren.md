@@ -32,6 +32,11 @@ status: "new"
 > Ich habe meinen Schrank ausgemistet und alte Kleidung aussortiert.
 > *I cleared out my wardrobe and sorted out old clothes.*
 
+**Phrases & Expressions:**
+- **Kleidung aussortieren** — *to sort out; to weed out*
+- **defekte Teile aussortieren** — *to sort out; to weed out*
+- **Bewerbungen aussortieren** — *to sort out; to weed out*
+
 **Collocations**
 - Kleidung aussortieren
 - defekte Teile aussortieren

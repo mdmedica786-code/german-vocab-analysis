@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Unser Dorf gehört zum Landkreis Starnberg.
 > *Our village belongs to the district of Starnberg.*
+
+**Phrases & Expressions:**
+- **Unser Dorf gehört zum Landkreis Starnberg** — *Our village belongs to the district of Starnberg* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

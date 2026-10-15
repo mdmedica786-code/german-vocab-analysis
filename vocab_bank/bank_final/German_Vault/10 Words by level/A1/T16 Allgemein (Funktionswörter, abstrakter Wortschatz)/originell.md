@@ -30,6 +30,9 @@ status: "new"
 > Das ist eine originelle Idee.
 > *That is an original idea.*
 
+**Phrases & Expressions:**
+- **Das ist eine originelle Idee** — *That is an original idea* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

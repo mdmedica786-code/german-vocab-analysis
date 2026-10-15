@@ -29,6 +29,11 @@ status: "new"
 > Jede Branche hat spezifische Anforderungen.
 > *Every sector has specific requirements.*
 
+**Phrases & Expressions:**
+- **spezifische Anforderungen** — *specific*
+- **spezifisch für etwas** — *specific*
+- **ein spezifisches Merkmal** — *specific*
+
 **Collocations**
 - spezifische Anforderungen
 - spezifisch für etwas

@@ -34,6 +34,9 @@ status: "new"
 > Das Kunstobjekt steht mitten im Park.
 > *The art object stands in the middle of the park.*
 
+**Phrases & Expressions:**
+- **Das Kunstobjekt steht mitten im Park** — *The art object stands in the middle of the park* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 2b (Kunststücke)
 <!-- bank:end -->
 

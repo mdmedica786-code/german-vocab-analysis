@@ -33,6 +33,11 @@ status: "new"
 > Die Beseitigung des Schadens dauert mehrere Tage.
 > *The removal of the damage takes several days.*
 
+**Phrases & Expressions:**
+- **die Beseitigung von Müll** — *removal; elimination*
+- **zur Beseitigung** — *removal; elimination*
+- **die Beseitigung der Ursachen** — *removal; elimination*
+
 **Collocations**
 - die Beseitigung von Müll
 - zur Beseitigung

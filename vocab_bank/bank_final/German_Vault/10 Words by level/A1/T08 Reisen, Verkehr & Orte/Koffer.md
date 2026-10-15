@@ -35,6 +35,9 @@ status: "new"
 > Ist das Ihr Koffer?
 > *Is that your suitcase?*
 
+**Phrases & Expressions:**
+- **Ist das Ihr Koffer** — *Is that your suitcase* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

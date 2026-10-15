@@ -32,6 +32,10 @@ status: "new"
 > Wie schätzt du die Lage ein?
 > *How do you assess the situation?*
 
+**Phrases & Expressions:**
+- **die Lage einschätzen** — *to assess; to judge*
+- **jemanden richtig einschätzen** — *to assess; to judge*
+
 **Collocations**
 - die Lage einschätzen
 - jemanden richtig einschätzen

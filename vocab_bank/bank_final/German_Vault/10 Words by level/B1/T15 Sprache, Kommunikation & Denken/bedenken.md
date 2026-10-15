@@ -32,6 +32,14 @@ status: "new"
 > Bedenken Sie bitte die Kosten.
 > *Please bear the costs in mind.*
 
+**Phrases & Expressions:**
+- **zu bedenken ist, dass ...** — it must be considered that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · C1)*
+- **wenn man bedenkt, dass ...** — when you consider that ... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B2)*
+- **Ich habe hier Bedenken und würde gern eine zweite Meinung einholen.** — I have concerns here and would like to obtain a second opinion. *([[FSP-19 Übergabe, Konsil und Rücksprache|Unsicherheit ausdrücken]] · C1)*
+- **die Folgen bedenken** — *to consider*
+- **zu bedenken geben** — *to consider*
+- **alles bedenken** — *to consider*
+
 **Collocations**
 - die Folgen bedenken
 - zu bedenken geben

@@ -29,6 +29,10 @@ status: "new"
 > Das Parlament hat das Gesetz außer Kraft gesetzt.
 > *The parliament has repealed the law.*
 
+**Phrases & Expressions:**
+- **ein Gesetz außer Kraft setzen** — *to repeal; to suspend*
+- **eine Regel außer Kraft setzen** — *to repeal; to suspend*
+
 **Collocations**
 - ein Gesetz außer Kraft setzen
 - eine Regel außer Kraft setzen

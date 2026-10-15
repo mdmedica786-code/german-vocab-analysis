@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Der Kurs umfasst vierzig Stunden.
 > *The course comprises forty hours.*
+
+**Phrases & Expressions:**
+- **Die Dauermedikation umfasst ...** — The regular medication comprises ... *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Medikation nennen]] · C1)*
 <!-- bank:end -->
 
 ## My notes

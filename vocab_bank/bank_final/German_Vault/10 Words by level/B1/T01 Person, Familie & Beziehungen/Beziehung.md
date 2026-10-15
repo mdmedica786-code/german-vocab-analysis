@@ -35,6 +35,12 @@ status: "new"
 > Wir haben gute Beziehungen zu unseren Nachbarn.
 > *We have good relations with our neighbours.*
 
+**Phrases & Expressions:**
+- **eine Beziehung haben** — *relationship*
+- **gute Beziehungen pflegen** — *relationship*
+- **in einer Beziehung leben** — *relationship*
+- **Beziehung zu jemandem** — *relationship*
+
 **Collocations**
 - eine Beziehung haben
 - gute Beziehungen pflegen

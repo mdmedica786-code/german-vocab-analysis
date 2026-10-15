@@ -35,6 +35,13 @@ status: "new"
 > Die Verbindung ist sehr gut. Ich kann direkt mit diesem Zug fahren und muss nicht umsteigen.
 > *The connection is very good. I can take this train directly and don't have to change.*
 
+**Phrases & Expressions:**
+- **Ich verstehe Sie sehr schlecht, die Verbindung ist gestört.** — I can hardly understand you, the connection is bad. *([[B2-07 Telefonieren|Verbindungsprobleme]] · B1)*
+- **eine direkte Verbindung** — *connection*
+- **in Verbindung stehen** — *connection*
+- **Verbindung aufnehmen** — *connection*
+- **eine Verbindung herstellen** — *connection*
+
 **Collocations**
 - eine direkte Verbindung
 - in Verbindung stehen

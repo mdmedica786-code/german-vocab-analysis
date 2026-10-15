@@ -30,6 +30,11 @@ status: "new"
 > Vor dem Umzug geriet er in eine Entscheidungskrise.
 > *Before the move he fell into a crisis of decision.*
 
+**Phrases & Expressions:**
+- **in einer Entscheidungskrise stecken** — *crisis of indecision; difficult decision-making crisis*
+- **eine Entscheidungskrise erleben** — *crisis of indecision; difficult decision-making crisis*
+- **eine Entscheidungskrise überwinden** — *crisis of indecision; difficult decision-making crisis*
+
 **Collocations**
 - in einer Entscheidungskrise stecken
 - eine Entscheidungskrise erleben

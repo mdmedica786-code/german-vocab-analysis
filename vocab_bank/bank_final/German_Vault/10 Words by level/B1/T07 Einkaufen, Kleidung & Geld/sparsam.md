@@ -31,6 +31,9 @@ status: "new"
 > Wir haben fünf Kinder. Wir müssen sehr sparsam sein.
 > *We have five children. We have to be very economical.*
 
+**Phrases & Expressions:**
+- **Wir haben fünf Kinder. Wir müssen sehr sparsam sein** — *We have five children. We have to be very economical* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 7c (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

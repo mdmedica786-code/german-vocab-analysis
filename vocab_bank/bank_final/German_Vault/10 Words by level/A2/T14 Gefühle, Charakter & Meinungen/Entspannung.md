@@ -34,6 +34,9 @@ status: "new"
 > Yoga hilft mir bei der Entspannung.
 > *Yoga helps me to relax.*
 
+**Phrases & Expressions:**
+- **Yoga hilft mir bei der Entspannung** — *Yoga helps me to relax* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8b (Leben in der Stadt)
 <!-- bank:end -->
 

@@ -35,6 +35,12 @@ status: "new"
 > Er hat blaue Augen.
 > *He has blue eyes.*
 
+**Phrases & Expressions:**
+- **aus den Augen verlieren** — to lose touch *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B1)*
+- **Können wir kurz unter vier Augen sprechen?** — Can we speak briefly in private? *([[B2-12 Höflichkeit und Diplomatie - Kritik und Ablehnung abmildern|Schwieriges Thema ansprechen]] · B2)*
+- **Wird Ihnen manchmal schwarz vor Augen?** — Do you sometimes see black spots in front of your eyes? *([[FSP-06 Systemanamnese (Organsysteme)|Herz-Kreislauf]] · B2)*
+- **Folgen Sie meinem Finger nur mit den Augen.** — Follow my finger with your eyes only. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Bewegungsanweisung]] · B2)*
+
 **Source:** Netzwerk neu A1 K8 6b ÜB (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

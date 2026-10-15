@@ -30,6 +30,11 @@ status: "new"
 > Der neue Fahrradschnellweg verbindet die Vororte mit der Stadt.
 > *The new cycle superhighway connects the suburbs with the city.*
 
+**Phrases & Expressions:**
+- **einen Fahrradschnellweg bauen** — *cycle superhighway; fast cycle route*
+- **auf dem Fahrradschnellweg** — *cycle superhighway; fast cycle route*
+- **ein Fahrradschnellweg zwischen zwei Städten** — *cycle superhighway; fast cycle route*
+
 **Collocations**
 - einen Fahrradschnellweg bauen
 - auf dem Fahrradschnellweg

@@ -29,6 +29,11 @@ status: "new"
 > Das Material ist besonders widerstandsfähig.
 > *The material is especially robust.*
 
+**Phrases & Expressions:**
+- **widerstandsfähig sein** — *resilient; robust*
+- **ein widerstandsfähiges Material** — *resilient; robust*
+- **widerstandsfähig gegen Kälte** — *resilient; robust*
+
 **Collocations**
 - widerstandsfähig sein
 - ein widerstandsfähiges Material

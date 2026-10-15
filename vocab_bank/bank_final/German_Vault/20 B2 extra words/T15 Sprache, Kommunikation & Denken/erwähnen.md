@@ -31,6 +31,12 @@ status: "new"
 > Er hat den Termin gar nicht erwähnt.
 > *He did not mention the appointment at all.*
 
+**Phrases & Expressions:**
+- **Vielleicht könntest du noch ... erwähnen.** — Perhaps you could also mention ... *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Verbesserung vorschlagen]] · B1)*
+- **etwas erwähnen** — *to mention*
+- **beiläufig erwähnen** — *to mention*
+- **oben erwähnt** — *to mention*
+
 **Collocations**
 - etwas erwähnen
 - beiläufig erwähnen

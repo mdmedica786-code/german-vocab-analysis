@@ -33,6 +33,12 @@ status: "new"
 > Die Narbe am Bauch ist gut verheilt.
 > *The scar on the abdomen has healed well.*
 
+**Phrases & Expressions:**
+- **eine Narbe haben** — *scar*
+- **Narbe am Bauch** — *scar*
+- **die Narbe verheilt** — *scar*
+- **Narbe nach der Operation** — *scar*
+
 **Collocations**
 - eine Narbe haben
 - Narbe am Bauch

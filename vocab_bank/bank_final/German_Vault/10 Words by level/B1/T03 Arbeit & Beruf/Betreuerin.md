@@ -34,6 +34,9 @@ status: "new"
 > Die Betreuerin der Kinder ist sehr nett.
 > *The children's carer is very nice.*
 
+**Phrases & Expressions:**
+- **Die Betreuerin der Kinder ist sehr nett** — *The children's carer is very nice* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

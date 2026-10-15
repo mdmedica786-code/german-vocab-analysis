@@ -30,6 +30,11 @@ status: "new"
 > In der Wortschlange sind fünf Wörter versteckt.
 > *Five words are hidden in the word snake.*
 
+**Phrases & Expressions:**
+- **eine Wortschlange lösen** — *word snake (run-together string of words)*
+- **eine Wortschlange trennen** — *word snake (run-together string of words)*
+- **Wörter in der Wortschlange finden** — *word snake (run-together string of words)*
+
 **Collocations**
 - eine Wortschlange lösen
 - eine Wortschlange trennen

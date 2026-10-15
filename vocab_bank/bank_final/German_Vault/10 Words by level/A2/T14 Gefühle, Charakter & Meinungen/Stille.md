@@ -34,6 +34,9 @@ status: "new"
 > In der Bibliothek herrscht Stille.
 > *Silence reigns in the library.*
 
+**Phrases & Expressions:**
+- **In der Bibliothek herrscht Stille** — *Silence reigns in the library* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!)
 <!-- bank:end -->
 

@@ -33,6 +33,13 @@ status: "new"
 > Sie hustet seit zwei Tagen. Sie ist krank.
 > *She has been coughing for two days. She is ill.*
 
+**Phrases & Expressions:**
+- **Haben Sie Husten oder Auswurf?** — Do you have a cough or sputum? *([[FSP-06 Systemanamnese (Organsysteme)|Atmung]] · B1)*
+- **stark husten** — *to cough*
+- **trocken husten** — *to cough*
+- **Blut husten** — *to cough*
+- **nachts husten** — *to cough*
+
 **Collocations**
 - stark husten
 - trocken husten

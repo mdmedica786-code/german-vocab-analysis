@@ -33,6 +33,11 @@ status: "new"
 > Im Fernsehen spricht man meist Standardsprache.
 > *On television people mostly speak the standard language.*
 
+**Phrases & Expressions:**
+- **in der Standardsprache** — *standard language*
+- **die Standardsprache lernen** — *standard language*
+- **Dialekt und Standardsprache** — *standard language*
+
 **Collocations**
 - in der Standardsprache
 - die Standardsprache lernen

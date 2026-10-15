@@ -210,6 +210,92 @@ def build(root, copy_audio=True):
         topics[topic_code(t)] = t
     topic_files = {c: safe(t) for c, t in topics.items()}
 
+    # Early mapping of phrase groups and Redemittel sets for cross-linking
+    groups = defaultdict(list)
+    for r in phr:
+        groups[r["function"]].append(r)
+    phr_files = {}
+    for fn in sorted(groups, key=lambda k: -len(groups[k])):
+        phr_files[fn] = safe(fn)
+
+    cats = {}
+    for r in red:
+        cats.setdefault(r["cat_id"], []).append(r)
+    red_files = {}
+    for cid in sorted(cats):
+        rows = cats[cid]
+        cname = rows[0]["category"]
+        red_files[cid] = (safe(f"{cid} {cname}"), len(rows), cname)
+
+    # Token reverse index for fast O(1) phrase-to-word matching
+    STOP = {
+        "ich", "du", "er", "sie", "es", "wir", "ihr",
+        "der", "die", "das", "den", "dem", "des",
+        "ein", "eine", "einen", "einem", "einer", "eines",
+        "und", "oder", "aber", "dass", "daß", "wenn",
+        "in", "an", "auf", "für", "mit", "von", "zu", "bei", "nach", "aus", "um", "über", "unter", "vor", "hinter", "zwischen",
+        "wie", "so", "als", "nicht", "auch", "noch", "sehr", "nur", "man", "sich",
+        "mir", "dir", "ihm", "ihr", "uns", "euch", "ihnen", "mich", "dich", "ihn",
+        "am", "im", "ans", "ins", "aufs", "beim", "vom", "zum", "zur", "sein", "haben", "werden"
+    }
+    token_map = defaultdict(set)
+    for i, e in enumerate(entries):
+        r_item, p_pos, lemma_val = e["r"], e["pos"], e["lemma"]
+        low = lemma_val.lower()
+        if low not in STOP:
+            token_map[low].add(i)
+        if p_pos == "noun":
+            plural = r_item.get("plural", "").strip()
+            if plural and plural not in ("-", "—"):
+                for p in plural.split("/"):
+                    p_c = p.strip().lower()
+                    if p_c and p_c not in STOP:
+                        token_map[p_c].add(i)
+                        if not p_c.endswith("n"):
+                            token_map[p_c + "n"].add(i)
+            if r_item.get("article") in ("der", "das") and len(lemma_val) >= 3:
+                token_map[(lemma_val + "s").lower()].add(i)
+                token_map[(lemma_val + "es").lower()].add(i)
+        elif p_pos == "verb":
+            for fk in ["pres_3sg", "preterite", "perfect"]:
+                val = r_item.get(fk, "").strip()
+                if val:
+                    for tok in val.split():
+                        t_c = tok.lower()
+                        if t_c not in STOP and t_c not in ("ist", "hat", "war"):
+                            token_map[t_c].add(i)
+            stem = lemma_val[:-2] if lemma_val.endswith("en") else (lemma_val[:-1] if lemma_val.endswith("n") else lemma_val)
+            if len(stem) >= 3:
+                for end in ["e", "st", "t", "te", "ten"]:
+                    v = (stem + end).lower()
+                    if v not in STOP:
+                        token_map[v].add(i)
+        elif p_pos in ("adj", "adjective"):
+            stem = lemma_val[:-1] if lemma_val.endswith("e") else lemma_val
+            if len(stem) >= 3:
+                for end in ["", "e", "en", "em", "er", "es"]:
+                    token_map[(stem + end).lower()].add(i)
+
+    phrase_to_entries = defaultdict(set)
+    entry_to_phrases = defaultdict(list)
+    for p in phr:
+        for tok in re.findall(r"[A-Za-zÄÖÜäöüß]+", p["phrase_de"]):
+            low = tok.lower()
+            if low in token_map:
+                for idx in token_map[low]:
+                    phrase_to_entries[p["id"]].add(idx)
+                    entry_to_phrases[idx].append(p)
+
+    redemittel_to_entries = defaultdict(set)
+    entry_to_redemittel = defaultdict(list)
+    for r in red:
+        for tok in re.findall(r"[A-Za-zÄÖÜäöüß]+", r["redemittel_de"]):
+            low = tok.lower()
+            if low in token_map:
+                for idx in token_map[low]:
+                    redemittel_to_entries[r["id"]].add(idx)
+                    entry_to_redemittel[idx].append(r)
+
     def link(i, text=None):
         e = entries[i]
         if text is None or text == e["fname"]:
@@ -233,7 +319,7 @@ def build(root, copy_audio=True):
                 found.append(j)
         return found[:6]
 
-    for e in entries:
+    for i, e in enumerate(entries):
         r, pos, bank = e["r"], e["pos"], e["bank"]
         art, plural = (r.get("article") or "").strip(), (r.get("plural") or "").strip()
         lemma = e["lemma"]
@@ -323,7 +409,50 @@ def build(root, copy_audio=True):
             b += ["", "> [!warning] Check", f"> {r['check']}"]
         if r.get("example_de"):
             b += ["", "> [!example] Beispiel", f"> {r['example_de']}", f"> *{r['example_en']}*"]
+        # Phrases & Expressions
+        word_phrs = []
+        seen_phr_texts = set()
+
+        for p_item in entry_to_phrases.get(i, []):
+            p_de = p_item["phrase_de"]
+            if p_de not in seen_phr_texts:
+                seen_phr_texts.add(p_de)
+                fn = p_item.get("function", "")
+                fn_file = phr_files.get(fn, "")
+                fn_link = f"[[{fn_file}|{fn}]]" if fn_file else fn
+                en_m = p_item.get("meaning_en", "")
+                lvl = p_item.get("level", "")
+                badge = f"{fn_link} · {lvl}" if lvl else fn_link
+                word_phrs.append(f"- **{p_de}** — {en_m} *({badge})*")
+
+        for r_item in entry_to_redemittel.get(i, []):
+            r_de = r_item["redemittel_de"]
+            if r_de not in seen_phr_texts:
+                seen_phr_texts.add(r_de)
+                cid = r_item.get("cat_id", "")
+                c_name, _, c_label = red_files.get(cid, ("", 0, r_item.get("category", "")))
+                sub_fn = r_item.get("function") or c_label
+                c_link = f"[[{c_name}|{sub_fn}]]" if c_name else sub_fn
+                en_m = r_item.get("meaning_en", "")
+                lvl = r_item.get("level", "")
+                badge = f"{c_link} · {lvl}" if lvl else c_link
+                word_phrs.append(f"- **{r_de}** — {en_m} *({badge})*")
+
         cols = [c.strip() for c in r.get("collocations", "").split("|") if c.strip()]
+        for c in cols:
+            if c not in seen_phr_texts and len(word_phrs) < 6:
+                seen_phr_texts.add(c)
+                word_phrs.append(f"- **{c}** — *{r.get('meaning_en', '')}*")
+
+        if not word_phrs and r.get("example_de"):
+            ex_de = r["example_de"].strip().rstrip(".!?")
+            ex_en = r.get("example_en", "").strip().rstrip(".!?")
+            if len(ex_de.split()) <= 9:
+                word_phrs.append(f"- **{ex_de}** — *{ex_en}* *(Beispiel im Kontext)*")
+
+        if word_phrs:
+            b += ["", "**Phrases & Expressions:**"] + word_phrs[:6]
+
         if cols:
             b += ["", "**Collocations**"] + [f"- {c}" for c in cols]
         rel = related(e)
@@ -400,13 +529,8 @@ def build(root, copy_audio=True):
     V.put(f"{D_MOC}/MOC Medical vocabulary.md", [("title", "MOC Medical vocabulary"), ("type", "moc"), ("tags", ["moc", "medical"])], "\n".join(body))
 
     # ---- phrases (grouped by function)
-    groups = defaultdict(list)
-    for r in phr:
-        groups[r["function"]].append(r)
-    phr_files = {}
     for fn in sorted(groups, key=lambda k: -len(groups[k])):
-        name = safe(fn)
-        phr_files[fn] = name
+        name = phr_files[fn]
         rows = sorted(groups[fn], key=lambda r: (lvl_key(r["level"]), r["phrase_de"].lower()))
         lv = Counter(r["level"] for r in rows)
         fm = [("title", fn), ("type", "phrase-group"), ("count", len(rows)),
@@ -418,6 +542,9 @@ def build(root, copy_audio=True):
                 cur = r["level"]
                 b += [f"## {cur}", ""]
             b.append(f"- **{r['phrase_de']}** — {r['meaning_en']}")
+            kws = [link(j) for j in sorted(phrase_to_entries.get(r['id'], []))]
+            if kws:
+                b.append(f"  - Words: {' · '.join(kws[:8])}")
             if r.get("example_de"):
                 b.append(f"  - {r['example_de']} *({r['example_en']})*")
             if r.get("grammar_note"):
@@ -433,15 +560,9 @@ def build(root, copy_audio=True):
     V.put(f"{D_MOC}/MOC Phrases.md", [("title", "MOC Phrases"), ("type", "moc"), ("tags", ["moc", "phrase"])], "\n".join(body))
 
     # ---- Redemittel (grouped by category)
-    cats = {}
-    for r in red:
-        cats.setdefault(r["cat_id"], []).append(r)
-    red_files = {}
     for cid in sorted(cats):
         rows = cats[cid]
-        cname = rows[0]["category"]
-        name = safe(f"{cid} {cname}")
-        red_files[cid] = (name, len(rows), cname)
+        name, _, cname = red_files[cid]
         lv = sorted({r["level"] for r in rows}, key=lvl_key)
         med_cat = any(r["speaker"] in ("Arzt", "Patient", "Pflege") for r in rows)
         fm = [("title", f"{cid} {cname}"), ("type", "redemittel-set"), ("cat_id", cid), ("count", len(rows)), ("levels", lv),
@@ -454,6 +575,9 @@ def build(root, copy_audio=True):
                 b += [f"## {fcur}", ""]
             tag = " ⭐" if r.get("priority") == "core" else ""
             b.append(f"- **{r['redemittel_de']}**{tag} — {r['meaning_en']}")
+            kws = [link(j) for j in sorted(redemittel_to_entries.get(r['id'], []))]
+            if kws:
+                b.append(f"  - Words: {' · '.join(kws[:8])}")
             b.append(f"  - {r['example_de']} *({r['example_en']})*")
             meta = [f"{r['level']}", r["register"], f"speaker: {r['speaker']}", f"to: {r['audience']}"]
             b.append("  - " + " · ".join(m for m in meta if m))

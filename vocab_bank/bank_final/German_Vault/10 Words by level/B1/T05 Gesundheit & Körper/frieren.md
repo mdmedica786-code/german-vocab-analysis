@@ -32,6 +32,9 @@ status: "new"
 > Wenn Sie frieren, mache ich das Fenster wieder zu.
 > *If you are cold, I will close the window again.*
 
+**Phrases & Expressions:**
+- **Wenn Sie frieren, mache ich das Fenster wieder zu** — *If you are cold, I will close the window again* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Das Reinigungsfahrzeug säubert früh am Morgen die Straße.
 > *The street-cleaning vehicle cleans the street early in the morning.*
 
+**Phrases & Expressions:**
+- **Das Reinigungsfahrzeug säubert früh am Morgen die Straße** — *The street-cleaning vehicle cleans the street early in the morning* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

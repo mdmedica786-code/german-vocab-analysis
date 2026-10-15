@@ -33,6 +33,11 @@ status: "new"
 > Der Saum an der Hose muss gekürzt werden.
 > *The hem of the trousers has to be shortened.*
 
+**Phrases & Expressions:**
+- **den Saum kürzen** — *hem*
+- **einen Saum nähen** — *hem*
+- **der Saum ist aufgegangen** — *hem*
+
 **Collocations**
 - den Saum kürzen
 - einen Saum nähen

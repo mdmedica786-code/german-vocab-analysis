@@ -34,6 +34,9 @@ status: "new"
 > Viele Menschen sind gegen Atomkraft.
 > *Many people are against nuclear power.*
 
+**Phrases & Expressions:**
+- **Viele Menschen sind gegen Atomkraft** — *Many people are against nuclear power* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 11a (Miteinander)
 <!-- bank:end -->
 

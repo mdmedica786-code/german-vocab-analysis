@@ -33,6 +33,11 @@ status: "new"
 > Die Identifizierung des Täters war schwierig.
 > *The identification of the culprit was difficult.*
 
+**Phrases & Expressions:**
+- **die Identifizierung der Opfer** — *identification*
+- **zur Identifizierung** — *identification*
+- **die Identifizierung des Täters** — *identification*
+
 **Collocations**
 - die Identifizierung der Opfer
 - zur Identifizierung

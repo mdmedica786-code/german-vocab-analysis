@@ -33,6 +33,11 @@ status: "new"
 > Die Erwähnung seines Namens löste Streit aus.
 > *The mention of his name caused an argument.*
 
+**Phrases & Expressions:**
+- **die Erwähnung von** — *mention*
+- **Erwähnung finden** — *mention*
+- **keine Erwähnung** — *mention*
+
 **Collocations**
 - die Erwähnung von
 - Erwähnung finden

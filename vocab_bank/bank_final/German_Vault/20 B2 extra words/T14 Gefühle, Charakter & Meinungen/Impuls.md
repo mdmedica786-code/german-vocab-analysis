@@ -33,6 +33,11 @@ status: "new"
 > Sie kaufte das Kleid aus einem spontanen Impuls.
 > *She bought the dress on a spontaneous impulse.*
 
+**Phrases & Expressions:**
+- **einen Impuls geben** — *impulse; stimulus*
+- **neue Impulse setzen** — *impulse; stimulus*
+- **einem Impuls folgen** — *impulse; stimulus*
+
 **Collocations**
 - einen Impuls geben
 - neue Impulse setzen

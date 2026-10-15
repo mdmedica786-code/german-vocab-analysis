@@ -36,6 +36,9 @@ status: "new"
 > Schüler und Studenten zahlen die Hälfte.
 > *Pupils and students pay half.*
 
+**Phrases & Expressions:**
+- **Schüler und Studenten zahlen die Hälfte** — *Pupils and students pay half* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

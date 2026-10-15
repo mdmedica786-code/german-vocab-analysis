@@ -31,6 +31,14 @@ status: "new"
 > Ich gehe täglich eine Stunde spazieren.
 > *I go for a walk for an hour every day.*
 
+**Phrases & Expressions:**
+- **Dieses Medikament nehmen Sie einmal täglich morgens ein.** — You take this medicine once a day in the morning. *([[FSP-11 Therapie und Medikamente erklären|Medikament erklären]] · B2)*
+- **Sie nehmen dreimal täglich eine Tablette, morgens, mittags und abends.** — You take one tablet three times a day: morning, noon and evening. *([[FSP-11 Therapie und Medikamente erklären|Dosierung erklären]] · B2)*
+- **Messen Sie bitte täglich Ihren Blutdruck und notieren Sie die Werte.** — Please measure your blood pressure daily and note the values. *([[FSP-11 Therapie und Medikamente erklären|Selbstmanagement]] · B2)*
+- **Trinken Sie täglich mindestens zwei Liter Wasser.** — Drink at least two litres of water daily. *([[FSP-11 Therapie und Medikamente erklären|Selbstmanagement]] · B1)*
+- **Der Pflegedienst kommt zweimal täglich zu Ihnen nach Hause.** — The nursing service will come to your home twice a day. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Pflege zu Hause]] · B2)*
+- **täglich üben** — *daily*
+
 **Collocations**
 - täglich üben
 - täglich nehmen

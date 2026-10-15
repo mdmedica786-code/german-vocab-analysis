@@ -32,6 +32,14 @@ status: "new"
 > Im Notfall können wir auf unsere Ersparnisse zurückgreifen.
 > *In an emergency we can fall back on our savings.*
 
+**Phrases & Expressions:**
+- **hin und zurück** — there and back; return *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Bitte rufen Sie mich unter der Nummer ... zurück.** — Please call me back on the number ... *([[B2-07 Telefonieren|Nachricht hinterlassen]] · B1)*
+- **... geht stetig zurück.** — ... is steadily declining. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Rückgang beschreiben]] · B2)*
+- **auf etwas zurückgreifen** — *to fall back on; to resort to*
+- **auf Erfahrungen zurückgreifen** — *to fall back on; to resort to*
+- **auf Reserven zurückgreifen** — *to fall back on; to resort to*
+
 **Collocations**
 - auf etwas zurückgreifen
 - auf Erfahrungen zurückgreifen

@@ -34,6 +34,9 @@ status: "new"
 > Das Baby geht in die Krippe.
 > *The baby goes to the crèche.*
 
+**Phrases & Expressions:**
+- **Das Baby geht in die Krippe** — *The baby goes to the crèche* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

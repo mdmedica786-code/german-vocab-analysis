@@ -31,6 +31,11 @@ status: "new"
 > Das Kind quengelte, weil es müde war.
 > *The child whined because it was tired.*
 
+**Phrases & Expressions:**
+- **ständig quengeln** — *to whine; to grizzle*
+- **quengeln und jammern** — *to whine; to grizzle*
+- **ein quengelndes Kind** — *to whine; to grizzle*
+
 **Collocations**
 - ständig quengeln
 - quengeln und jammern

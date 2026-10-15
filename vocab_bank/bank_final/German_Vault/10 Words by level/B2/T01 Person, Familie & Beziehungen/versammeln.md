@@ -31,6 +31,9 @@ status: "new"
 > [!example] Beispiel
 > Die Familie versammelt sich zum Essen.
 > *The family gathers for the meal.*
+
+**Phrases & Expressions:**
+- **Die Familie versammelt sich zum Essen** — *The family gathers for the meal* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

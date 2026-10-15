@@ -33,6 +33,11 @@ status: "new"
 > Beide Vertragspartner müssen die Unterlagen unterschreiben.
 > *Both contracting parties have to sign the documents.*
 
+**Phrases & Expressions:**
+- **Vertragspartner wechseln** — *contracting party*
+- **neuer Vertragspartner** — *contracting party*
+- **ein zuverlässiger Vertragspartner** — *contracting party*
+
 **Collocations**
 - Vertragspartner wechseln
 - neuer Vertragspartner

@@ -33,6 +33,11 @@ status: "new"
 > Die Wortbildung durch Komposita ist typisch für das Deutsche.
 > *Word formation through compounds is typical of German.*
 
+**Phrases & Expressions:**
+- **Wortbildung durch Ableitung** — *word formation*
+- **Regeln der Wortbildung** — *word formation*
+- **zur Wortbildung** — *word formation*
+
 **Collocations**
 - Wortbildung durch Ableitung
 - Regeln der Wortbildung

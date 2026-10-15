@@ -33,6 +33,11 @@ status: "new"
 > Die Spaltung der Partei war unvermeidlich.
 > *The split of the party was unavoidable.*
 
+**Phrases & Expressions:**
+- **die Spaltung der Gesellschaft** — *split; division; fission*
+- **die Spaltung vertiefen** — *split; division; fission*
+- **eine politische Spaltung** — *split; division; fission*
+
 **Collocations**
 - die Spaltung der Gesellschaft
 - die Spaltung vertiefen

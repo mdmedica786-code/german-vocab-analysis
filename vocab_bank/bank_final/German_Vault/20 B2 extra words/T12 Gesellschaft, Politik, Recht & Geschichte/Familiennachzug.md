@@ -33,6 +33,11 @@ status: "new"
 > Der Familiennachzug ist ein umstrittenes politisches Thema.
 > *Family reunification is a controversial political topic.*
 
+**Phrases & Expressions:**
+- **Familiennachzug beantragen** — *family reunification*
+- **der Familiennachzug zu Flüchtlingen** — *family reunification*
+- **Familiennachzug erleichtern** — *family reunification*
+
 **Collocations**
 - Familiennachzug beantragen
 - der Familiennachzug zu Flüchtlingen

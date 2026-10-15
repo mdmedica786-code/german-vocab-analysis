@@ -26,6 +26,11 @@ status: "new"
 > Die Gespräche kommen nächste Woche zum Abschluss.
 > *The talks will be concluded next week.*
 
+**Phrases & Expressions:**
+- **zum Abschluss bringen** — *to come to a close; to be concluded*
+- **Verhandlungen kommen zum Abschluss** — *to come to a close; to be concluded*
+- **zum Abschluss führen** — *to come to a close; to be concluded*
+
 **Collocations**
 - zum Abschluss bringen
 - Verhandlungen kommen zum Abschluss

@@ -31,6 +31,12 @@ status: "new"
 > Sie betreibt ein kleines Café.
 > *She runs a small café.*
 
+**Phrases & Expressions:**
+- **ein Geschäft betreiben** — *to run; to operate; to pursue*
+- **eine Firma betreiben** — *to run; to operate; to pursue*
+- **Sport betreiben** — *to run; to operate; to pursue*
+- **eine Anlage betreiben** — *to run; to operate; to pursue*
+
 **Collocations**
 - ein Geschäft betreiben
 - eine Firma betreiben

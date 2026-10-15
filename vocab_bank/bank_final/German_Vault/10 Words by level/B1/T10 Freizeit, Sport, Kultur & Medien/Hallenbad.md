@@ -35,6 +35,9 @@ status: "new"
 > Sie geht jeden Tag zum Schwimmen ins Hallenbad.
 > *She goes swimming in the indoor pool every day.*
 
+**Phrases & Expressions:**
+- **Sie geht jeden Tag zum Schwimmen ins Hallenbad** — *She goes swimming in the indoor pool every day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7c ÜB (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

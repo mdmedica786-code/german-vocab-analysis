@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Die Sterne leuchten am Himmel.
 > *The stars shine in the sky.*
+
+**Phrases & Expressions:**
+- **Die Sterne leuchten am Himmel** — *The stars shine in the sky* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

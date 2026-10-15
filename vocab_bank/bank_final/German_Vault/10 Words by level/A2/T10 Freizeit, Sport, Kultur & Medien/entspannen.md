@@ -33,6 +33,9 @@ status: "new"
 > Am Wochenende entspanne ich mich beim Lesen.
 > *At the weekend I relax by reading.*
 
+**Phrases & Expressions:**
+- **Sie bekommen vorher ein Beruhigungsmittel, damit Sie entspannt sind.** — You will get a sedative beforehand so that you are relaxed. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Endoskopie]] · B2)*
+
 **Source:** Netzwerk neu A2 K9 1b (Sportlich, sportlich)
 <!-- bank:end -->
 

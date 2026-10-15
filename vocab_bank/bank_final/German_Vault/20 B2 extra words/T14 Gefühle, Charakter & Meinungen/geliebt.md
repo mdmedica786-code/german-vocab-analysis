@@ -29,6 +29,11 @@ status: "new"
 > Meine geliebte Großmutter ist gestorben.
 > *My beloved grandmother has died.*
 
+**Phrases & Expressions:**
+- **ein geliebter Mensch** — *beloved*
+- **geliebt werden** — *beloved*
+- **die geliebte Heimat** — *beloved*
+
 **Collocations**
 - ein geliebter Mensch
 - geliebt werden

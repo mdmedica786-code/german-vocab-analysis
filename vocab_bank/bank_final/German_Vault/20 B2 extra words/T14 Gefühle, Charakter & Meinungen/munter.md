@@ -29,6 +29,11 @@ status: "new"
 > Die Kinder waren schon früh munter.
 > *The children were already awake early.*
 
+**Phrases & Expressions:**
+- **munter und gesund** — *cheerful; lively; awake*
+- **munter werden** — *cheerful; lively; awake*
+- **frisch und munter** — *cheerful; lively; awake*
+
 **Collocations**
 - munter und gesund
 - munter werden

@@ -30,6 +30,11 @@ status: "new"
 > Eine gute Mitarbeitermotivation steigert die Leistung.
 > *Good employee motivation improves performance.*
 
+**Phrases & Expressions:**
+- **die Mitarbeitermotivation steigern** — *employee motivation*
+- **die Mitarbeitermotivation fördern** — *employee motivation*
+- **eine hohe Mitarbeitermotivation** — *employee motivation*
+
 **Collocations**
 - die Mitarbeitermotivation steigern
 - die Mitarbeitermotivation fördern

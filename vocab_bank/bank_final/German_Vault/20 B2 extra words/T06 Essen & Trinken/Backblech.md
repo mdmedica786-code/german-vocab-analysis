@@ -33,6 +33,11 @@ status: "new"
 > Verteile die Plätzchen gleichmäßig auf dem Backblech.
 > *Spread the biscuits evenly on the baking tray.*
 
+**Phrases & Expressions:**
+- **ein Backblech einfetten** — *baking tray*
+- **auf dem Backblech verteilen** — *baking tray*
+- **ein Backblech mit Papier auslegen** — *baking tray*
+
 **Collocations**
 - ein Backblech einfetten
 - auf dem Backblech verteilen

@@ -33,6 +33,11 @@ status: "new"
 > Als Werkstudent arbeitet er zwanzig Stunden pro Woche in der Firma.
 > *As a working student he works twenty hours a week at the company.*
 
+**Phrases & Expressions:**
+- **als Werkstudent arbeiten** — *working student*
+- **eine Stelle als Werkstudent** — *working student*
+- **Werkstudent in der IT** — *working student*
+
 **Collocations**
 - als Werkstudent arbeiten
 - eine Stelle als Werkstudent

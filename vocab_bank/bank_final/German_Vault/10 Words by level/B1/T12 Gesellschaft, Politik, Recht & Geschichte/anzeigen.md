@@ -33,6 +33,14 @@ status: "new"
 > Wenn Sie hier parken, zeige ich Sie an.
 > *If you park here, I will report you.*
 
+**Phrases & Expressions:**
+- **... zeigt sich, dass ...** — it turns out that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **zeigt sich, dass ...** — it turns out that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **... zeigt, dass ...** — ... shows that ... *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **es zeigt sich, dass ...** — it turns out that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **Das zeigt sich zum Beispiel bei ...** — This can be seen in ..., for example. *([[B1-03 Argumentieren, begründen und Beispiele nennen|Beispiel einleiten]] · B1)*
+- **Wie die Grafik zeigt, ...** — As the chart shows, ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Grafik beschreiben]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

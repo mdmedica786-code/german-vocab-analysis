@@ -34,6 +34,9 @@ status: "new"
 > Die Stadtbesichtigung dauert zwei Stunden.
 > *The sightseeing tour takes two hours.*
 
+**Phrases & Expressions:**
+- **Die Stadtbesichtigung dauert zwei Stunden** — *The sightseeing tour takes two hours* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 9a (Ganz schön mobil)
 <!-- bank:end -->
 

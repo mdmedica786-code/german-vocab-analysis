@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Der Hund jagt die Katze.
 > *The dog is chasing the cat.*
+
+**Phrases & Expressions:**
+- **Der Hund jagt die Katze** — *The dog is chasing the cat* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

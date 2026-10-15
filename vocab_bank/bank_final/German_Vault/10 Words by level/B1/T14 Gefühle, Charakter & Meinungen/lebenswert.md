@@ -30,6 +30,9 @@ status: "new"
 > Wir wollen eine lebenswerte Stadt für alle.
 > *We want a liveable city for everyone.*
 
+**Phrases & Expressions:**
+- **Wir wollen eine lebenswerte Stadt für alle** — *We want a liveable city for everyone* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

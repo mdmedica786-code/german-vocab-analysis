@@ -34,6 +34,9 @@ status: "new"
 > Meine Geschäftspartnerin besucht uns nächste Woche.
 > *My business partner visits us next week.*
 
+**Phrases & Expressions:**
+- **Meine Geschäftspartnerin besucht uns nächste Woche** — *My business partner visits us next week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 13b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

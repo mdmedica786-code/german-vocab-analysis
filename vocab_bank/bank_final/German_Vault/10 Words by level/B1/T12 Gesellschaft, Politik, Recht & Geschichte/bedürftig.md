@@ -30,6 +30,9 @@ status: "new"
 > Die Stadt hilft bedürftigen Familien.
 > *The city helps families in need.*
 
+**Phrases & Expressions:**
+- **Die Stadt hilft bedürftigen Familien** — *The city helps families in need* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Einheit der Länge ist der Meter.
 > *The unit of length is the metre.*
 
+**Phrases & Expressions:**
+- **eine Einheit bilden** — *unit; unity*
+- **die deutsche Einheit** — *unit; unity*
+- **Einheiten umrechnen** — *unit; unity*
+
 **Collocations**
 - eine Einheit bilden
 - die deutsche Einheit

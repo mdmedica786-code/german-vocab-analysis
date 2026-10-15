@@ -33,6 +33,11 @@ status: "new"
 > Ein Strahl der Sonne fiel ins Zimmer.
 > *A ray of sun fell into the room.*
 
+**Phrases & Expressions:**
+- **ein Strahl Licht** — *ray; beam; jet*
+- **die Strahlen der Sonne** — *ray; beam; jet*
+- **ein Wasserstrahl** — *ray; beam; jet*
+
 **Collocations**
 - ein Strahl Licht
 - die Strahlen der Sonne

@@ -33,6 +33,13 @@ status: "new"
 > Bitte beachten Sie die Ansagen am Bahnsteig.
 > *Please note the announcements on the platform.*
 
+**Phrases & Expressions:**
+- **zu beachten ist, dass ...** — it should be noted that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **beachten, dass ...** — to note that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **es ist zu beachten, dass ...** — it must be noted that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **Wissen Sie jetzt, was Sie zu Hause beachten müssen?** — Do you now know what you have to pay attention to at home? *([[FSP-17 Entlassung, Überweisung und Nachsorge|Verständnis prüfen]] · B1)*
+- **Gibt es etwas, das wir aus kulturellen oder religiösen Gründen beachten sollen?** — Is there anything we should consider for cultural or religious reasons? *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Kulturelle Sensibilität]] · B2)*
+
 **Source:** Netzwerk neu A2 K8 10b (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

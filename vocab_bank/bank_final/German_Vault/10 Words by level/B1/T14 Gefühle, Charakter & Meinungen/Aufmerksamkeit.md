@@ -34,6 +34,14 @@ status: "new"
 > Vielen Dank für Ihre Aufmerksamkeit.
 > *Thank you very much for your attention.*
 
+**Phrases & Expressions:**
+- **Vielen Dank für Ihre Aufmerksamkeit.** — Thank you very much for your attention. *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Danken]] · B1)*
+- **Ich bedanke mich für Ihre Aufmerksamkeit und freue mich auf Ihre Fragen.** — I thank you for your attention and look forward to your questions. *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Vortrag beenden]] · B2)*
+- **Aufmerksamkeit schenken** — *attention*
+- **Aufmerksamkeit erregen** — *attention*
+- **die Aufmerksamkeit lenken** — *attention*
+- **volle Aufmerksamkeit** — *attention*
+
 **Collocations**
 - Aufmerksamkeit schenken
 - Aufmerksamkeit erregen

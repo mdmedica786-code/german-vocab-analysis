@@ -33,6 +33,14 @@ status: "new"
 > Im Röntgenbild sieht man einen Tumor.
 > *You can see a tumour in the X-ray.*
 
+**Phrases & Expressions:**
+- **Die Untersuchung hat gezeigt, dass Sie einen Tumor haben.** — The examination has shown that you have a tumour. *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Nachricht überbringen]] · C1)*
+- **Es wurde eine Computertomografie durchgeführt, die einen Tumor zeigte.** — A CT scan was performed which showed a tumour. *([[FSP-20 Arztbrief und Dokumentation|Perfekt im Arztbrief]] · C1)*
+- **ein gutartiger Tumor** — *tumour*
+- **ein bösartiger Tumor** — *tumour*
+- **den Tumor entfernen** — *tumour*
+- **Tumor im Gehirn** — *tumour*
+
 **Collocations**
 - ein gutartiger Tumor
 - ein bösartiger Tumor

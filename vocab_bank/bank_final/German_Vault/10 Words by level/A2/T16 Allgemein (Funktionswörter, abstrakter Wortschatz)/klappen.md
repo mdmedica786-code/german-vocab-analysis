@@ -33,6 +33,12 @@ status: "new"
 > Können wir uns heute Mittag treffen? – Ja, das klappt.
 > *Can we meet at noon today? – Yes, that works.*
 
+**Phrases & Expressions:**
+- **Falls das nicht klappt, könnten wir ...** — If that doesn't work, we could ... *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Alternative anbieten]] · B1)*
+- **Hoffentlich klappt alles mit dem Termin.** — Hopefully everything works out with the appointment. *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Hoffnung ausdrücken]] · B1)*
+- **Sehr wahrscheinlich wird das nicht klappen.** — Very probably that won't work. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Wahrscheinlichkeit einschätzen]] · B2)*
+- **Wir sehen uns in vier Wochen und schauen, wie es klappt.** — We will see each other in four weeks and see how it goes. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Ziele vereinbaren]] · B1)*
+
 **Source:** Netzwerk neu A2 K6 1b (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

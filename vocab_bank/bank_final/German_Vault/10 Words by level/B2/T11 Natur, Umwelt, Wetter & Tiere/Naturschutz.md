@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Naturschutz ist uns sehr wichtig.
 > *Nature conservation is very important to us.*
+
+**Phrases & Expressions:**
+- **Naturschutz ist uns sehr wichtig** — *Nature conservation is very important to us* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

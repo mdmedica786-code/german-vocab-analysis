@@ -29,6 +29,11 @@ status: "new"
 > Wir fahren umweltschonend mit dem Fahrrad.
 > *We travel in an environmentally friendly way by bike.*
 
+**Phrases & Expressions:**
+- **umweltschonend produzieren** — *environmentally friendly; eco-friendly*
+- **ein umweltschonendes Verfahren** — *environmentally friendly; eco-friendly*
+- **umweltschonend reisen** — *environmentally friendly; eco-friendly*
+
 **Collocations**
 - umweltschonend produzieren
 - ein umweltschonendes Verfahren

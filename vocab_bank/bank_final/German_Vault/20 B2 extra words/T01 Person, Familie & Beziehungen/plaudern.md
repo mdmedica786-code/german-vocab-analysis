@@ -31,6 +31,11 @@ status: "new"
 > Wir haben bei einem Kaffee gemütlich geplaudert.
 > *We chatted cosily over a coffee.*
 
+**Phrases & Expressions:**
+- **mit jemandem plaudern** — *to chat; to have a chat*
+- **über das Wetter plaudern** — *to chat; to have a chat*
+- **gemütlich plaudern** — *to chat; to have a chat*
+
 **Collocations**
 - mit jemandem plaudern
 - über das Wetter plaudern

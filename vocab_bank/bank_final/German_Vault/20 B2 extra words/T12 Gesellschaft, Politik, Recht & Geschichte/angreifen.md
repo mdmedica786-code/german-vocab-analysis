@@ -32,6 +32,11 @@ status: "new"
 > Der Hund hat den Briefträger angegriffen.
 > *The dog attacked the postman.*
 
+**Phrases & Expressions:**
+- **jemanden angreifen** — *to attack; to criticise*
+- **ein Land angreifen** — *to attack; to criticise*
+- **einen Vorschlag angreifen** — *to attack; to criticise*
+
 **Collocations**
 - jemanden angreifen
 - ein Land angreifen

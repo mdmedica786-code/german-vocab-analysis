@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Weiterentwicklung des Produkts dauert lange.
 > *The further development of the product takes a long time.*
+
+**Phrases & Expressions:**
+- **Die Weiterentwicklung des Produkts dauert lange** — *The further development of the product takes a long time* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

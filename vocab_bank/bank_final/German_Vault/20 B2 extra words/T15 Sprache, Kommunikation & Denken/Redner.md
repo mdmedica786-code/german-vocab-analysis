@@ -33,6 +33,11 @@ status: "new"
 > Der Redner begrüßte alle Gäste.
 > *The speaker welcomed all the guests.*
 
+**Phrases & Expressions:**
+- **ein guter Redner** — *speaker; orator*
+- **ein begnadeter Redner** — *speaker; orator*
+- **der Redner spricht** — *speaker; orator*
+
 **Collocations**
 - ein guter Redner
 - ein begnadeter Redner

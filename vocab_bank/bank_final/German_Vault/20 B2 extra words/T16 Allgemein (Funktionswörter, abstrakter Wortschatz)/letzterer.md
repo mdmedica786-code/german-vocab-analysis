@@ -29,6 +29,11 @@ status: "new"
 > Anna und Eva kamen; letztere blieb länger.
 > *Anna and Eva came; the latter stayed longer.*
 
+**Phrases & Expressions:**
+- **der Letztere** — *the latter*
+- **Ersterer und Letzterer** — *the latter*
+- **letzteres** — *the latter*
+
 **Collocations**
 - der Letztere
 - Ersterer und Letzterer

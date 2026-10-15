@@ -33,6 +33,11 @@ status: "new"
 > Die Reduzierung der Kosten ist unser Ziel.
 > *The reduction of costs is our goal.*
 
+**Phrases & Expressions:**
+- **die Reduzierung von Kosten** — *reduction; cutting back*
+- **die Reduzierung des Verbrauchs** — *reduction; cutting back*
+- **eine deutliche Reduzierung** — *reduction; cutting back*
+
 **Collocations**
 - die Reduzierung von Kosten
 - die Reduzierung des Verbrauchs

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Regie bei diesem Film führt eine junge Frau.
 > *A young woman is directing this film.*
+
+**Phrases & Expressions:**
+- **Die Regie bei diesem Film führt eine junge Frau** — *A young woman is directing this film* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

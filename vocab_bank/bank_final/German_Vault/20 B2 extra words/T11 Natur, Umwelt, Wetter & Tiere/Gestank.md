@@ -33,6 +33,11 @@ status: "new"
 > Der Gestank aus der Küche war unerträglich.
 > *The stench from the kitchen was unbearable.*
 
+**Phrases & Expressions:**
+- **ein furchtbarer Gestank** — *stench; bad smell*
+- **der Gestank von** — *stench; bad smell*
+- **Gestank verbreiten** — *stench; bad smell*
+
 **Collocations**
 - ein furchtbarer Gestank
 - der Gestank von

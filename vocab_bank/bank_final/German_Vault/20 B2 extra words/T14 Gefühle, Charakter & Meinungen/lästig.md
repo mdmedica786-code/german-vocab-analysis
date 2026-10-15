@@ -29,6 +29,11 @@ status: "new"
 > Die ständigen Anrufe sind wirklich lästig.
 > *The constant calls are really annoying.*
 
+**Phrases & Expressions:**
+- **lästig sein** — *annoying; troublesome*
+- **jemandem lästig werden** — *annoying; troublesome*
+- **eine lästige Pflicht** — *annoying; troublesome*
+
 **Collocations**
 - lästig sein
 - jemandem lästig werden

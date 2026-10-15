@@ -34,6 +34,9 @@ status: "new"
 > Der Nachrichtensprecher liest die Meldungen vor.
 > *The newsreader reads out the reports.*
 
+**Phrases & Expressions:**
+- **Der Nachrichtensprecher liest die Meldungen vor** — *The newsreader reads out the reports* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!)
 <!-- bank:end -->
 

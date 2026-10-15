@@ -35,6 +35,9 @@ status: "new"
 > Mein Lieblingsessen ist Pizza.
 > *My favourite food is pizza.*
 
+**Phrases & Expressions:**
+- **Mein Lieblingsessen ist Pizza** — *My favourite food is pizza* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

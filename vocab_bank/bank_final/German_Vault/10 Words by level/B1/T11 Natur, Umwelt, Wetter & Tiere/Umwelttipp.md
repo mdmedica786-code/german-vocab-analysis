@@ -31,6 +31,9 @@ status: "new"
 > Ein guter Umwelttipp ist, weniger Fleisch zu essen.
 > *A good environmental tip is to eat less meat.*
 
+**Phrases & Expressions:**
+- **Ein guter Umwelttipp ist, weniger Fleisch zu essen** — *A good environmental tip is to eat less meat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 9c (Umweltfreundlich?)
 <!-- bank:end -->
 

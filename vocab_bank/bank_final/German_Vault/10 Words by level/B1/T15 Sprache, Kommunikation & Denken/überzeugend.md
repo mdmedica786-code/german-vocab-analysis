@@ -30,6 +30,9 @@ status: "new"
 > Sein Argument war sehr überzeugend.
 > *His argument was very convincing.*
 
+**Phrases & Expressions:**
+- **Sein Argument war sehr überzeugend** — *His argument was very convincing* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

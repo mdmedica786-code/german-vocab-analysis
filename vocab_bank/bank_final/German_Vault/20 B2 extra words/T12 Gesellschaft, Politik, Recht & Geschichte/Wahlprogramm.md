@@ -33,6 +33,11 @@ status: "new"
 > Jede Partei stellt ihr Wahlprogramm vor.
 > *Every party presents its election manifesto.*
 
+**Phrases & Expressions:**
+- **ein Wahlprogramm verabschieden** — *election manifesto*
+- **im Wahlprogramm stehen** — *election manifesto*
+- **das Wahlprogramm der Partei** — *election manifesto*
+
 **Collocations**
 - ein Wahlprogramm verabschieden
 - im Wahlprogramm stehen

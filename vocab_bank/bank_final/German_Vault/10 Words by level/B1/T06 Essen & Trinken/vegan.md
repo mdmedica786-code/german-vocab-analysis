@@ -30,6 +30,9 @@ status: "new"
 > Meine Schwester isst vegan.
 > *My sister eats vegan.*
 
+**Phrases & Expressions:**
+- **Meine Schwester isst vegan** — *My sister eats vegan* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 2 ÜB (Veränderungen)
 <!-- bank:end -->
 

@@ -30,6 +30,9 @@ status: "new"
 > Die Anleitung ist völlig unverständlich.
 > *The instructions are completely incomprehensible.*
 
+**Phrases & Expressions:**
+- **Die Anleitung ist völlig unverständlich** — *The instructions are completely incomprehensible* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 9c (Das ist ja praktisch!)
 <!-- bank:end -->
 

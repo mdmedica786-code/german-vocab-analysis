@@ -33,6 +33,11 @@ status: "new"
 > Im Schlafzimmer liegt ein weicher Teppichboden.
 > *There is a soft fitted carpet in the bedroom.*
 
+**Phrases & Expressions:**
+- **Teppichboden verlegen** — *fitted carpet*
+- **den Teppichboden saugen** — *fitted carpet*
+- **Teppichboden im Wohnzimmer** — *fitted carpet*
+
 **Collocations**
 - Teppichboden verlegen
 - den Teppichboden saugen

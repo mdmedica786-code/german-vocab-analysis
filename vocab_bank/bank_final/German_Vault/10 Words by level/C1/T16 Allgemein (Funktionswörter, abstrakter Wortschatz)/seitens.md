@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Seitens der Firma gibt es keine Einwände.
 > *There are no objections on the part of the company.*
+
+**Phrases & Expressions:**
+- **Seitens der Firma gibt es keine Einwände** — *There are no objections on the part of the company* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

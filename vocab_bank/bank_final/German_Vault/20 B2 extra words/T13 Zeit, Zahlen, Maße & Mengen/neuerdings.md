@@ -29,6 +29,9 @@ status: "new"
 > Neuerdings fährt er mit dem Fahrrad zur Arbeit.
 > *Lately he has been cycling to work.*
 
+**Phrases & Expressions:**
+- **Neuerdings fährt er mit dem Fahrrad zur Arbeit** — *Lately he has been cycling to work* *(Beispiel im Kontext)*
+
 **Exam use:** Alltag, Lesen
 <!-- bank:end -->
 

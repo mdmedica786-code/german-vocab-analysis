@@ -33,6 +33,11 @@ status: "new"
 > Das Leistungsspektrum der Klinik ist sehr breit.
 > *The range of services of the clinic is very broad.*
 
+**Phrases & Expressions:**
+- **ein breites Leistungsspektrum** — *range of services*
+- **das Leistungsspektrum erweitern** — *range of services*
+- **das Leistungsspektrum der Firma** — *range of services*
+
 **Collocations**
 - ein breites Leistungsspektrum
 - das Leistungsspektrum erweitern

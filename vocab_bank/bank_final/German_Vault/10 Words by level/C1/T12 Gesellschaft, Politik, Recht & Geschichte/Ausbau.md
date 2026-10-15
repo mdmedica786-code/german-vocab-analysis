@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Ausbau der Straße dauert zwei Jahre.
 > *The expansion of the road takes two years.*
+
+**Phrases & Expressions:**
+- **Der Ausbau der Straße dauert zwei Jahre** — *The expansion of the road takes two years* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

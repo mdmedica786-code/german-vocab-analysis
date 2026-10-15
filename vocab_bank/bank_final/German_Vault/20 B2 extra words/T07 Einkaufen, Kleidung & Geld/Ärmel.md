@@ -33,6 +33,11 @@ status: "new"
 > Die Jacke hat zu lange Ärmel.
 > *The jacket has sleeves that are too long.*
 
+**Phrases & Expressions:**
+- **lange Ärmel** — *sleeve*
+- **die Ärmel hochkrempeln** — *sleeve*
+- **ohne Ärmel** — *sleeve*
+
 **Collocations**
 - lange Ärmel
 - die Ärmel hochkrempeln

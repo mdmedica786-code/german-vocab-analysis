@@ -30,6 +30,12 @@ status: "new"
 > Ich weiß nicht, wann er kommt, jedenfalls nicht heute.
 > *I don't know when he's coming, at any rate not today.*
 
+**Phrases & Expressions:**
+- **jedenfalls nicht** — *in any case; at any rate*
+- **jedenfalls ich** — *in any case; at any rate*
+- **jedenfalls bis jetzt** — *in any case; at any rate*
+- **jedenfalls nicht mehr** — *in any case; at any rate*
+
 **Collocations**
 - jedenfalls nicht
 - jedenfalls ich

@@ -32,6 +32,13 @@ status: "new"
 > Die Arbeitnehmer fordern mehr Geld.
 > *The employees demand more money.*
 
+**Phrases & Expressions:**
+- **Ich fordere Sie auf, mir den Betrag zu erstatten.** — I request that you refund me the amount. *([[B2-04 Beschwerde und Reklamation|Forderung stellen]] · B2)*
+- **mehr Geld fordern** — *to demand; to call for*
+- **Rechte fordern** — *to demand; to call for*
+- **eine Erklärung fordern** — *to demand; to call for*
+- **Opfer fordern** — *to demand; to call for*
+
 **Collocations**
 - mehr Geld fordern
 - Rechte fordern

@@ -34,6 +34,9 @@ status: "new"
 > Der Mexikaner kocht scharfes Essen.
 > *The Mexican man cooks spicy food.*
 
+**Phrases & Expressions:**
+- **Der Mexikaner kocht scharfes Essen** — *The Mexican man cooks spicy food* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Firma musste Insolvenz anmelden.
 > *The company had to file for insolvency.*
 
+**Phrases & Expressions:**
+- **Insolvenz anmelden** — *insolvency; bankruptcy*
+- **kurz vor der Insolvenz** — *insolvency; bankruptcy*
+- **in die Insolvenz gehen** — *insolvency; bankruptcy*
+
 **Collocations**
 - Insolvenz anmelden
 - kurz vor der Insolvenz

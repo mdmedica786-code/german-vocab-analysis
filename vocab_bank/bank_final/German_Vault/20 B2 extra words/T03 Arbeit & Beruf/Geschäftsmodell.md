@@ -33,6 +33,11 @@ status: "new"
 > Das Geschäftsmodell der Firma beruht auf Abonnements.
 > *The company's business model is based on subscriptions.*
 
+**Phrases & Expressions:**
+- **ein neues Geschäftsmodell** — *business model*
+- **das Geschäftsmodell ändern** — *business model*
+- **ein erfolgreiches Geschäftsmodell** — *business model*
+
 **Collocations**
 - ein neues Geschäftsmodell
 - das Geschäftsmodell ändern

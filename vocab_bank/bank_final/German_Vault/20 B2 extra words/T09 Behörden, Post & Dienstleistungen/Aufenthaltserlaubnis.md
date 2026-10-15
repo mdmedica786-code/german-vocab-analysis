@@ -33,6 +33,11 @@ status: "new"
 > Seine Aufenthaltserlaubnis läuft im Dezember ab.
 > *His residence permit expires in December.*
 
+**Phrases & Expressions:**
+- **eine Aufenthaltserlaubnis beantragen** — *residence permit*
+- **Aufenthaltserlaubnis verlängern** — *residence permit*
+- **befristete Aufenthaltserlaubnis** — *residence permit*
+
 **Collocations**
 - eine Aufenthaltserlaubnis beantragen
 - Aufenthaltserlaubnis verlängern

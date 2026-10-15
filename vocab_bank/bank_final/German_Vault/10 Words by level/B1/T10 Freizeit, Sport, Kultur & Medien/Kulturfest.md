@@ -31,6 +31,9 @@ status: "new"
 > Beim Kulturfest gibt es Musik und Tanz.
 > *At the cultural festival there is music and dance.*
 
+**Phrases & Expressions:**
+- **Beim Kulturfest gibt es Musik und Tanz** — *At the cultural festival there is music and dance* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 4b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

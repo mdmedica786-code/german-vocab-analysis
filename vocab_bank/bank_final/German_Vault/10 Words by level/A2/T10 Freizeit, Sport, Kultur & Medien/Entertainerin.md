@@ -34,6 +34,9 @@ status: "new"
 > Die Entertainerin singt und tanzt auf der Bühne.
 > *The entertainer sings and dances on stage.*
 
+**Phrases & Expressions:**
+- **Die Entertainerin singt und tanzt auf der Bühne** — *The entertainer sings and dances on stage* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12b (Immer online?)
 <!-- bank:end -->
 

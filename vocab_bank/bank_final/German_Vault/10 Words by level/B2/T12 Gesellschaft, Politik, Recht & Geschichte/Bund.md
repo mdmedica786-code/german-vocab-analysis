@@ -34,6 +34,9 @@ status: "new"
 > Der Bund finanziert das Projekt mit.
 > *The federal government co-finances the project.*
 
+**Phrases & Expressions:**
+- **Der Bund finanziert das Projekt mit** — *The federal government co-finances the project* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

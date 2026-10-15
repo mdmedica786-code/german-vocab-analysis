@@ -41,6 +41,12 @@ status: "new"
 > Er hat sich den Ellenbogen gestoßen.
 > *He bumped his elbow.*
 
+**Phrases & Expressions:**
+- **den Ellenbogen brechen** — *elbow*
+- **Schmerzen im Ellenbogen** — *elbow*
+- **der rechte Ellenbogen** — *elbow*
+- **den Ellenbogen beugen** — *elbow*
+
 **Collocations**
 - den Ellenbogen brechen
 - Schmerzen im Ellenbogen

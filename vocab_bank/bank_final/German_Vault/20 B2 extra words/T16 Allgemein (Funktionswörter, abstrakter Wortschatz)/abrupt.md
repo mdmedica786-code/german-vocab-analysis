@@ -29,6 +29,11 @@ status: "new"
 > Das Gespräch endete ganz abrupt.
 > *The conversation ended quite abruptly.*
 
+**Phrases & Expressions:**
+- **abrupt enden** — *abrupt; sudden*
+- **ein abrupter Wechsel** — *abrupt; sudden*
+- **abrupt stoppen** — *abrupt; sudden*
+
 **Collocations**
 - abrupt enden
 - ein abrupter Wechsel

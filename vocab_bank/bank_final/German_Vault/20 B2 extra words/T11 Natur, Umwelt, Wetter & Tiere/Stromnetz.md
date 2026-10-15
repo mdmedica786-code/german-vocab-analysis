@@ -33,6 +33,11 @@ status: "new"
 > Das Stromnetz muss für erneuerbare Energien ausgebaut werden.
 > *The power grid has to be expanded for renewable energies.*
 
+**Phrases & Expressions:**
+- **das Stromnetz ausbauen** — *power grid*
+- **ins Stromnetz einspeisen** — *power grid*
+- **Stromnetz überlasten** — *power grid*
+
 **Collocations**
 - das Stromnetz ausbauen
 - ins Stromnetz einspeisen

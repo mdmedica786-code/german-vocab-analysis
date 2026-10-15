@@ -29,6 +29,11 @@ status: "new"
 > Er ist ein sehr sensibler Mensch und nimmt Kritik persönlich.
 > *He is a very sensitive person and takes criticism personally.*
 
+**Phrases & Expressions:**
+- **sensibel reagieren** — *sensitive*
+- **ein sensibles Thema** — *sensitive*
+- **sensible Daten** — *sensitive*
+
 **Collocations**
 - sensibel reagieren
 - ein sensibles Thema

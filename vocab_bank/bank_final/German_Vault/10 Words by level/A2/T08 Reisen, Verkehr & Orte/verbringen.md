@@ -34,6 +34,12 @@ status: "new"
 > Wie haben Sie Ihren Urlaub verbracht?
 > *How did you spend your holiday?*
 
+**Phrases & Expressions:**
+- **Zeit verbringen** — *to spend (time)*
+- **den Urlaub verbringen** — *to spend (time)*
+- **die Nacht verbringen** — *to spend (time)*
+- **viel Zeit mit Kindern verbringen** — *to spend (time)*
+
 **Collocations**
 - Zeit verbringen
 - den Urlaub verbringen

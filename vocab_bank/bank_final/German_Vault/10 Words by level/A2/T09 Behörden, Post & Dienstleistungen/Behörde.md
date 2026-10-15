@@ -35,6 +35,9 @@ status: "new"
 > Sie erhalten ein Schreiben von der zuständigen Behörde.
 > *You will receive a letter from the responsible authority.*
 
+**Phrases & Expressions:**
+- **Sie erhalten ein Schreiben von der zuständigen Behörde** — *You will receive a letter from the responsible authority* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1a (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

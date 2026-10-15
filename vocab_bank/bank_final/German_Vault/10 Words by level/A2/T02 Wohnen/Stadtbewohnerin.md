@@ -34,6 +34,9 @@ status: "new"
 > Die Stadtbewohnerin sucht Ruhe auf dem Land.
 > *The city dweller is looking for peace in the countryside.*
 
+**Phrases & Expressions:**
+- **Die Stadtbewohnerin sucht Ruhe auf dem Land** — *The city dweller is looking for peace in the countryside* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil)
 <!-- bank:end -->
 

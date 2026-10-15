@@ -33,6 +33,11 @@ status: "new"
 > Vor dem Schlafengehen lese ich immer ein Buch.
 > *Before going to bed I always read a book.*
 
+**Phrases & Expressions:**
+- **vor dem Schlafengehen** — *going to bed; bedtime*
+- **nach dem Schlafengehen** — *going to bed; bedtime*
+- **beim Schlafengehen** — *going to bed; bedtime*
+
 **Collocations**
 - vor dem Schlafengehen
 - nach dem Schlafengehen

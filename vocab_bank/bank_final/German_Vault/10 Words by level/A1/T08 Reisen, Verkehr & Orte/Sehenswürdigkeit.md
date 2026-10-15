@@ -35,6 +35,9 @@ status: "new"
 > Welche Sehenswürdigkeiten gibt es in Frankfurt?
 > *What sights are there in Frankfurt?*
 
+**Phrases & Expressions:**
+- **Welche Sehenswürdigkeiten gibt es in Frankfurt** — *What sights are there in Frankfurt* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 6a (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Mit der Seilbahn fahren wir auf den Berg.
 > *We take the cable car up the mountain.*
 
+**Phrases & Expressions:**
+- **Mit der Seilbahn fahren wir auf den Berg** — *We take the cable car up the mountain* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil)
 <!-- bank:end -->
 

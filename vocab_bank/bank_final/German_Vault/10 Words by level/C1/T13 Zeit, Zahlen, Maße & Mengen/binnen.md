@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Binnen einer Woche bekommen Sie Antwort.
 > *You will get an answer within a week.*
+
+**Phrases & Expressions:**
+- **Binnen einer Woche bekommen Sie Antwort** — *You will get an answer within a week* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

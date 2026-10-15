@@ -33,6 +33,11 @@ status: "new"
 > Der Untergrund ist hier sehr weich.
 > *The ground here is very soft.*
 
+**Phrases & Expressions:**
+- **in den Untergrund gehen** — *underground; subsoil; base*
+- **ein fester Untergrund** — *underground; subsoil; base*
+- **im Untergrund arbeiten** — *underground; subsoil; base*
+
 **Collocations**
 - in den Untergrund gehen
 - ein fester Untergrund

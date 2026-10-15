@@ -34,6 +34,9 @@ status: "new"
 > Für unsere Familienfeier haben wir einen kleinen Saal gemietet.
 > *We rented a small hall for our family celebration.*
 
+**Phrases & Expressions:**
+- **Für unsere Familienfeier haben wir einen kleinen Saal gemietet** — *We rented a small hall for our family celebration* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Für die Verkehrswende braucht es mehr Fahrradwege und Busse.
 > *For the transport transition we need more cycle paths and buses.*
 
+**Phrases & Expressions:**
+- **die Verkehrswende vorantreiben** — *transport transition (to sustainable mobility)*
+- **Verkehrswende fordern** — *transport transition (to sustainable mobility)*
+- **Verkehrswende in den Städten** — *transport transition (to sustainable mobility)*
+
 **Collocations**
 - die Verkehrswende vorantreiben
 - Verkehrswende fordern

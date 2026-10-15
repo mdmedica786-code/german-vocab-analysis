@@ -29,6 +29,11 @@ status: "new"
 > Die gegenwärtige Lage ist schwierig.
 > *The present situation is difficult.*
 
+**Phrases & Expressions:**
+- **die gegenwärtige Situation** — *present; current*
+- **gegenwärtig laufende Verhandlungen** — *present; current*
+- **im gegenwärtigen Moment** — *present; current*
+
 **Collocations**
 - die gegenwärtige Situation
 - gegenwärtig laufende Verhandlungen

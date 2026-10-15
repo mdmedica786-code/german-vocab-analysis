@@ -31,6 +31,11 @@ status: "new"
 > Die Geschichte wurde mündlich überliefert.
 > *The story was handed down orally.*
 
+**Phrases & Expressions:**
+- **mündlich überliefert** — *to hand down; to pass on*
+- **etwas überliefern** — *to hand down; to pass on*
+- **eine überlieferte Tradition** — *to hand down; to pass on*
+
 **Collocations**
 - mündlich überliefert
 - etwas überliefern

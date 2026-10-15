@@ -35,6 +35,9 @@ status: "new"
 > Meine Cousine wohnt jetzt in Brasilien.
 > *My cousin lives in Brazil now.*
 
+**Phrases & Expressions:**
+- **Meine Cousine wohnt jetzt in Brasilien** — *My cousin lives in Brazil now* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 8a (Sportlich, sportlich) · Goethe word list A2
 <!-- bank:end -->
 

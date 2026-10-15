@@ -29,6 +29,11 @@ status: "new"
 > In den vergangenen Jahren ist viel passiert.
 > *A lot has happened in recent years.*
 
+**Phrases & Expressions:**
+- **in den vergangenen Jahren** — in recent years *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B2)*
+- **die vergangene Woche** — *past; last*
+- **das Vergangene** — *past; last*
+
 **Collocations**
 - in den vergangenen Jahren
 - die vergangene Woche

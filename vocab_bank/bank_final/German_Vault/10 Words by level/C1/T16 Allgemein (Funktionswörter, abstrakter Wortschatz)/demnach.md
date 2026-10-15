@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Demnach hat sich die Lage verbessert.
 > *According to this, the situation has improved.*
+
+**Phrases & Expressions:**
+- **Demnach hat sich die Lage verbessert** — *According to this, the situation has improved* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

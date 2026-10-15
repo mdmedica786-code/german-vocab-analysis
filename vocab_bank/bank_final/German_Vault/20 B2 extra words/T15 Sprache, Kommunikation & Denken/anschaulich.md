@@ -29,6 +29,12 @@ status: "new"
 > Der Lehrer erklärte das Thema sehr anschaulich.
 > *The teacher explained the topic very vividly.*
 
+**Phrases & Expressions:**
+- **Ein anschauliches Beispiel dafür ist ...** — A clear example of this is ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Beispiel nennen]] · B2)*
+- **anschaulich erklären** — *vivid; illustrative*
+- **ein anschauliches Beispiel** — *vivid; illustrative*
+- **anschaulich darstellen** — *vivid; illustrative*
+
 **Collocations**
 - anschaulich erklären
 - ein anschauliches Beispiel

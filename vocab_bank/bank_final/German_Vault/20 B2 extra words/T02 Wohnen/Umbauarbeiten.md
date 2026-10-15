@@ -33,6 +33,11 @@ status: "new"
 > Wegen der Umbauarbeiten ist das Geschäft geschlossen.
 > *Because of the renovation work the shop is closed.*
 
+**Phrases & Expressions:**
+- **Umbauarbeiten durchführen** — *renovation work; conversion work*
+- **wegen Umbauarbeiten** — *renovation work; conversion work*
+- **die Umbauarbeiten beginnen** — *renovation work; conversion work*
+
 **Collocations**
 - Umbauarbeiten durchführen
 - wegen Umbauarbeiten

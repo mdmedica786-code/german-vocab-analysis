@@ -33,6 +33,11 @@ status: "new"
 > Die Einhaltung der Fristen ist sehr wichtig.
 > *Compliance with the deadlines is very important.*
 
+**Phrases & Expressions:**
+- **die Einhaltung der Regeln** — *compliance; observance*
+- **die Einhaltung von Fristen** — *compliance; observance*
+- **zur Einhaltung verpflichten** — *compliance; observance*
+
 **Collocations**
 - die Einhaltung der Regeln
 - die Einhaltung von Fristen

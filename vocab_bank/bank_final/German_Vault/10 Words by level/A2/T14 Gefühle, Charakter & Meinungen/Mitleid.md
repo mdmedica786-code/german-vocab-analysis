@@ -34,6 +34,9 @@ status: "new"
 > Ich habe Mitleid mit dem kranken Hund.
 > *I feel pity for the sick dog.*
 
+**Phrases & Expressions:**
+- **Ich habe Mitleid mit dem kranken Hund** — *I feel pity for the sick dog* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 9a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

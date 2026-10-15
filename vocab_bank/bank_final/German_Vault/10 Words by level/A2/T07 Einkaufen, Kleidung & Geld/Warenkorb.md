@@ -34,6 +34,9 @@ status: "new"
 > Ich lege das Buch in den Warenkorb.
 > *I put the book in the shopping basket.*
 
+**Phrases & Expressions:**
+- **Ich lege das Buch in den Warenkorb** — *I put the book in the shopping basket* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

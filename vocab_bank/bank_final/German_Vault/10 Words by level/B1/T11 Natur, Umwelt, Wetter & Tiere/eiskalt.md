@@ -30,6 +30,9 @@ status: "new"
 > Das Wasser im See ist eiskalt.
 > *The water in the lake is ice cold.*
 
+**Phrases & Expressions:**
+- **Das Wasser im See ist eiskalt** — *The water in the lake is ice cold* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist)
 <!-- bank:end -->
 

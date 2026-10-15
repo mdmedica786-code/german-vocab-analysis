@@ -34,6 +34,9 @@ status: "new"
 > Die Besucher warten vor dem Museum.
 > *The visitors are waiting in front of the museum.*
 
+**Phrases & Expressions:**
+- **Die Besucher warten vor dem Museum** — *The visitors are waiting in front of the museum* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg)
 <!-- bank:end -->
 

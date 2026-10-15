@@ -33,6 +33,9 @@ status: "new"
 > Wir wandern um den Chiemsee.
 > *We are hiking around Lake Chiemsee.*
 
+**Phrases & Expressions:**
+- **Wir wandern um den Chiemsee** — *We are hiking around Lake Chiemsee* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 1a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

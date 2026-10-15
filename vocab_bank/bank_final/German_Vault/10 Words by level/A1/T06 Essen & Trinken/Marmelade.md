@@ -35,6 +35,9 @@ status: "new"
 > Bring bitte noch ein Glas Marmelade mit.
 > *Please bring a jar of jam as well.*
 
+**Phrases & Expressions:**
+- **Bring bitte noch ein Glas Marmelade mit** — *Please bring a jar of jam as well* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list B1
 <!-- bank:end -->
 

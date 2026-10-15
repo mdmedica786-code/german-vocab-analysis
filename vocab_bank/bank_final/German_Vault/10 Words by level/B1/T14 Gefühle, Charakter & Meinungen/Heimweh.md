@@ -35,6 +35,9 @@ status: "new"
 > Ich habe oft Heimweh nach meiner Familie.
 > *I often feel homesick for my family.*
 
+**Phrases & Expressions:**
+- **Ich habe oft Heimweh nach meiner Familie** — *I often feel homesick for my family* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

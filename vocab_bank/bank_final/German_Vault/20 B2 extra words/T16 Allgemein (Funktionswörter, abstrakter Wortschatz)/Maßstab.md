@@ -33,6 +33,11 @@ status: "new"
 > An diesen Maßstäben gemessen, ist das Ergebnis gut.
 > *Measured by these standards, the result is good.*
 
+**Phrases & Expressions:**
+- **Maßstäbe setzen** — *standard; scale (map)*
+- **einen strengen Maßstab anlegen** — *standard; scale (map)*
+- **im Maßstab 1:100** — *standard; scale (map)*
+
 **Collocations**
 - Maßstäbe setzen
 - einen strengen Maßstab anlegen

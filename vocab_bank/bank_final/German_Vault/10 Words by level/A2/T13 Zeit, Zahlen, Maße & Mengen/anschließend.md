@@ -30,6 +30,13 @@ status: "new"
 > Wir essen und gehen anschließend ins Kino.
 > *We eat and afterwards go to the cinema.*
 
+**Phrases & Expressions:**
+- **Anschließend gehe ich auf ... ein.** — Afterwards I will go into ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Aufbau ankündigen]] · B2)*
+- **anschließend fahren** — *afterwards; subsequently*
+- **gleich anschließend** — *afterwards; subsequently*
+- **im anschließenden Gespräch** — *afterwards; subsequently*
+- **anschließend können wir** — *afterwards; subsequently*
+
 **Collocations**
 - anschließend fahren
 - gleich anschließend

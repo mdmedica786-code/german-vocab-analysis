@@ -35,6 +35,10 @@ status: "new"
 > Wir hatten schlechtes Wetter.
 > *We had bad weather.*
 
+**Phrases & Expressions:**
+- **Ich hoffe, dass das Wetter schön wird.** — I hope that the weather will be nice. *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Hoffnung ausdrücken]] · B1)*
+- **Schönes Wetter heute, nicht wahr?** — Nice weather today, isn't it? *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Gespräch beginnen]] · A2)*
+
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

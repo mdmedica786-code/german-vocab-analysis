@@ -29,6 +29,11 @@ status: "new"
 > Der Ort hat eine magische Anziehungskraft.
 > *The place has a magical attraction.*
 
+**Phrases & Expressions:**
+- **magische Kraft** — *magical*
+- **ein magischer Moment** — *magical*
+- **magische Anziehungskraft** — *magical*
+
 **Collocations**
 - magische Kraft
 - ein magischer Moment

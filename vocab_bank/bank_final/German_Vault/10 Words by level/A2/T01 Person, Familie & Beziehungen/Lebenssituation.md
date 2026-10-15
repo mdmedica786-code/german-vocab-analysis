@@ -34,6 +34,9 @@ status: "new"
 > Meine Lebenssituation hat sich verändert.
 > *My life situation has changed.*
 
+**Phrases & Expressions:**
+- **Meine Lebenssituation hat sich verändert** — *My life situation has changed* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 11b (Zusammen leben)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Er lehnte sich lässig an die Wand.
 > *He leaned casually against the wall.*
 
+**Phrases & Expressions:**
+- **lässig gekleidet** — *casual; relaxed*
+- **lässig auftreten** — *casual; relaxed*
+- **eine lässige Haltung** — *casual; relaxed*
+
 **Collocations**
 - lässig gekleidet
 - lässig auftreten

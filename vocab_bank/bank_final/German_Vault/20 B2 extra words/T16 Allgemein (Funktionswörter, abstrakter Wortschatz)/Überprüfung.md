@@ -33,6 +33,11 @@ status: "new"
 > Die Überprüfung der Daten dauert eine Woche.
 > *The checking of the data takes a week.*
 
+**Phrases & Expressions:**
+- **eine Überprüfung durchführen** — *check; review*
+- **zur Überprüfung** — *check; review*
+- **sich einer Überprüfung unterziehen** — *check; review*
+
 **Collocations**
 - eine Überprüfung durchführen
 - zur Überprüfung

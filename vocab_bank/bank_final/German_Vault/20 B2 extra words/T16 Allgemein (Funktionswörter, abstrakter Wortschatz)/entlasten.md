@@ -31,6 +31,11 @@ status: "new"
 > Die Neuregelung soll Familien finanziell entlasten.
 > *The new regulation is meant to relieve families financially.*
 
+**Phrases & Expressions:**
+- **jemanden entlasten** — *to relieve; to exonerate*
+- **den Verkehr entlasten** — *to relieve; to exonerate*
+- **einen Angeklagten entlasten** — *to relieve; to exonerate*
+
 **Collocations**
 - jemanden entlasten
 - den Verkehr entlasten

@@ -29,6 +29,11 @@ status: "new"
 > Bitte beantworten Sie die Fragen wahrheitsgemäß.
 > *Please answer the questions truthfully.*
 
+**Phrases & Expressions:**
+- **wahrheitsgemäß antworten** — *truthful; truthfully*
+- **wahrheitsgemäße Angaben** — *truthful; truthfully*
+- **wahrheitsgemäß berichten** — *truthful; truthfully*
+
 **Collocations**
 - wahrheitsgemäß antworten
 - wahrheitsgemäße Angaben

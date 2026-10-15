@@ -36,6 +36,9 @@ status: "new"
 > Ich möchte gern mit dem Direktor sprechen.
 > **
 
+**Phrases & Expressions:**
+- **Ich möchte gern mit dem Direktor sprechen** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 3a (Nach der Schulzeit) · Goethe word list A2
 <!-- bank:end -->
 

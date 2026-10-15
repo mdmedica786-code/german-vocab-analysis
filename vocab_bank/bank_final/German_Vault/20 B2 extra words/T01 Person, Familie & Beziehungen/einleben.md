@@ -32,6 +32,12 @@ status: "new"
 > Nach dem Umzug hat sie sich schnell eingelebt.
 > *After the move she settled in quickly.*
 
+**Phrases & Expressions:**
+- **Sozialanamnestisch lebt der Patient allein und ist berentet.** — In terms of social history the patient lives alone and is retired. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Sozialanamnese nennen]] · C1)*
+- **sich gut einleben** — *to settle in; to get used to a new place*
+- **sich in einer Stadt einleben** — *to settle in; to get used to a new place*
+- **sich schwer einleben** — *to settle in; to get used to a new place*
+
 **Collocations**
 - sich gut einleben
 - sich in einer Stadt einleben

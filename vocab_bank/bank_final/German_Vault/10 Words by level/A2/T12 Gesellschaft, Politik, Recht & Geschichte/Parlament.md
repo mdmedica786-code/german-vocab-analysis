@@ -35,6 +35,9 @@ status: "new"
 > Das Parlament stimmt heute über das Gesetz ab.
 > *Parliament is voting on the law today.*
 
+**Phrases & Expressions:**
+- **Das Parlament stimmt heute über das Gesetz ab** — *Parliament is voting on the law today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8b (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

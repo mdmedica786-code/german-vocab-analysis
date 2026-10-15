@@ -33,6 +33,11 @@ status: "new"
 > Der Nationalsozialismus zerstörte große Teile Europas.
 > *National Socialism destroyed large parts of Europe.*
 
+**Phrases & Expressions:**
+- **die Zeit des Nationalsozialismus** — *National Socialism*
+- **Opfer des Nationalsozialismus** — *National Socialism*
+- **den Nationalsozialismus aufarbeiten** — *National Socialism*
+
 **Collocations**
 - die Zeit des Nationalsozialismus
 - Opfer des Nationalsozialismus

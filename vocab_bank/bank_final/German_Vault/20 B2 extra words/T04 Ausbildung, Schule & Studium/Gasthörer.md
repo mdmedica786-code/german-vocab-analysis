@@ -33,6 +33,11 @@ status: "new"
 > Als Gasthörer darf er die Vorlesungen besuchen, aber keine Prüfungen ablegen.
 > *As a guest student he may attend lectures but not take exams.*
 
+**Phrases & Expressions:**
+- **als Gasthörer teilnehmen** — *guest student; auditor*
+- **Gasthörer an der Universität** — *guest student; auditor*
+- **sich als Gasthörer einschreiben** — *guest student; auditor*
+
 **Collocations**
 - als Gasthörer teilnehmen
 - Gasthörer an der Universität

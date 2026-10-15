@@ -33,6 +33,11 @@ status: "new"
 > Das ist wirklich eine Schande!
 > *That is really a disgrace!*
 
+**Phrases & Expressions:**
+- **eine Schande sein** — *shame; disgrace*
+- **zur Schande** — *shame; disgrace*
+- **Schande über jemanden bringen** — *shame; disgrace*
+
 **Collocations**
 - eine Schande sein
 - zur Schande

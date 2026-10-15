@@ -13,71 +13,86 @@ tags: ["phrase", "moc"]
 ## B1
 
 - **... gesagt, dass ...** — said that ...
+  - Words: [[sagen]]
   - Der Arzt hat gesagt, dass ich viel trinken soll. *(The doctor said that I should drink a lot.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: erklärt, dass | mitgeteilt, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **... hat mir erzählt, dass ...** — ... told me that ...
+  - Words: [[erzählen]]
   - Mein Kollege hat mir erzählt, dass er umzieht. *(My colleague told me that he is moving.)*
   - Grammar: erzählen + Dat.; dass-Satz
   - Variants: ... hat gesagt, dass | ... hat mir mitgeteilt, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **... hat mir gesagt, dass ...** — ... told me that ...
+  - Words: [[sagen]]
   - Meine Ärztin hat mir gesagt, dass ich mehr Sport treiben soll. *(My doctor told me that I should exercise more.)*
   - Grammar: sagen + Dat.; dass-Satz
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **... sagt, dass ...** — ... says that ...
+  - Words: [[sagen]] · [[aussagen]] · [[absagen]] · [[zusagen]]
   - Der Arzt sagt, dass ich Ruhe brauche. *(The doctor says that I need rest.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **... zeigt, dass ...** — ... shows that ...
+  - Words: [[zeigen]] · [[anzeigen]] · [[aufzeigen]]
   - Die Statistik zeigt, dass immer mehr Menschen Sport treiben. *(The statistics show that more and more people do sport.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **Bescheid geben** — to let someone know
+  - Words: [[geben]] · [[Bescheid]]
   - Kannst du mir bis morgen Bescheid geben? *(Can you let me know by tomorrow?)*
   - Grammar: Bescheid geben + Dat.
   - Variants: Bescheid sagen | informieren
   - Exam: Wortliste B1 (exam vocabulary)
 - **Bescheid sagen** — to let someone know
+  - Words: [[sagen]] · [[Bescheid]]
   - Ich erkundige mich nach den Terminen und sage Ihnen dann Bescheid. *(I'll find out about the dates and then let you know.)*
   - Grammar: Bescheid sagen + Dat.
   - Variants: Bescheid geben | mitteilen
   - Exam: Wortliste B1 (exam vocabulary)
 - **erzählt, dass ...** — tells that ...
+  - Words: [[erzählen]]
   - Mein Nachbar erzählt, dass er umzieht. *(My neighbour says that he is moving.)*
   - Grammar: 3. Person Singular; dass-Satz
   - Variants: sagt, dass | berichtet, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **gehört, dass ...** — heard that ...
+  - Words: [[zusammengehören]] · [[hören]] · [[dazugehören]] · [[gehören]] · [[angehören]]
   - Ich habe gehört, dass du umziehst. *(I heard that you are moving.)*
   - Grammar: Partizip II von „hören“; dass-Satz
   - Variants: erfahren, dass | gesagt bekommen, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **ich habe gehört, dass ...** — I have heard that ...
+  - Words: [[zusammengehören]] · [[hören]] · [[dazugehören]] · [[gehören]] · [[haben]] · [[angehören]]
   - Ich habe gehört, dass du eine neue Stelle hast. *(I heard that you have a new job.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **sagen, dass ...** — to say that ...
+  - Words: [[sagen]]
   - Man muss sagen, dass die Behandlung gut war. *(You have to say that the treatment was good.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: erklären, dass | mitteilen, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **sagen, was ...** — to say what ...
+  - Words: [[sagen]] · [[was]]
   - Bitte sag mir, was du denkst. *(Please tell me what you think.)*
   - Grammar: was-Satz: Verb am Ende
   - Variants: erzählen, was | mitteilen, was
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **sehen, dass ...** — to see that ...
+  - Words: [[sehen]]
   - Ich kann sehen, dass du müde bist. *(I can see that you are tired.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: erkennen, dass | bemerken, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **wir wissen, dass ...** — we know that ...
+  - Words: [[wissen (verb)]] · [[Wissen]]
   - Wir wissen, dass Rauchen schädlich ist. *(We know that smoking is harmful.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **zeigen, dass ...** — to show that ...
+  - Words: [[zeigen]]
   - Die Studie will zeigen, dass Bewegung gesund ist. *(The study aims to show that exercise is healthy.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: beweisen, dass | belegen, dass
@@ -85,172 +100,209 @@ tags: ["phrase", "moc"]
 ## B2
 
 - **behaupten, dass ...** — to claim that ...
+  - Words: [[behaupten]]
   - Er behauptet, dass er nichts gewusst hat. *(He claims that he didn't know anything.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: sagen, dass | vorgeben, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **daran erinnern, dass ...** — to remind (someone) that ...
+  - Words: [[daran]] · [[erinnern]]
   - Ich möchte Sie daran erinnern, dass morgen Abgabe ist. *(I would like to remind you that tomorrow is the deadline.)*
   - Grammar: erinnern an + Akk.; dass-Satz
   - Variants: hinweisen auf | aufmerksam machen
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **darauf hingewiesen, dass ...** — pointed out that ...
+  - Words: [[darauf]] · [[hinweisen]]
   - Der Arzt hat darauf hingewiesen, dass die Wunde sauber bleiben muss. *(The doctor pointed out that the wound must stay clean.)*
   - Grammar: hinweisen auf + Akk.
   - Variants: aufmerksam gemacht, dass | betont, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **darauf hinweisen, dass ...** — to point out that ...
+  - Words: [[darauf]] · [[Hinweis]] · [[hinweisen]]
   - Ich möchte darauf hinweisen, dass die Frist morgen endet. *(I would like to point out that the deadline ends tomorrow.)*
   - Grammar: hinweisen auf + Akk.; dass-Satz
   - Variants: aufmerksam machen auf | betonen, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **darauf hinweisen, dass ...** — to point out that ...
+  - Words: [[darauf]] · [[Hinweis]] · [[hinweisen]]
   - Der Arzt weist darauf hin, dass man viel trinken soll. *(The doctor points out that one should drink a lot.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **ein Zeichen dafür, dass ...** — a sign that ...
+  - Words: [[dafür]] · [[Zeichen]] · [[dafür sein]]
   - Müdigkeit ist ein Zeichen dafür, dass der Körper Ruhe braucht. *(Tiredness is a sign that the body needs rest.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: ein Hinweis darauf, dass | ein Anzeichen dafür, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **erfahren, dass ...** — to learn that ...
+  - Words: [[erfahren]]
   - Wir haben erfahren, dass die Praxis schließt. *(We have learned that the practice is closing.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: hören, dass | mitgeteilt bekommen, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **erklären, dass ...** — to explain that ...
+  - Words: [[erklären]]
   - Der Arzt muss erklären, dass die OP Risiken hat. *(The doctor must explain that the operation has risks.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: mitteilen, dass | darlegen, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **es handelt sich um ...** — it is a matter of ...; it concerns ...
+  - Words: [[handeln]]
   - Ich glaube, es handelt sich um einen Irrtum. *(I think it is a mistake.)*
   - Grammar: sich handeln um + Akk.
   - Variants: es geht um | es betrifft
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **es hat sich gezeigt, dass ...** — it has turned out that ...
+  - Words: [[zeigen]]
   - Es hat sich gezeigt, dass die Methode funktioniert. *(It has turned out that the method works.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **es heißt, dass ...** — it is said that ...
+  - Words: [[heißen]]
   - In der Zeitung heißt es, dass die Preise steigen. *(The newspaper says that prices are rising.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: man sagt, dass | laut Bericht ...
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **es ist bekannt, dass ...** — it is known that ...
+  - Words: [[bekannt]] · [[bekannt geben]] · [[bekennen]]
   - Es ist bekannt, dass Bewegung gesund ist. *(It is known that exercise is healthy.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: bekanntlich | man weiß, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **es stellt sich heraus, dass ...** — it turns out that ...
+  - Words: [[vorstellen]] · [[darstellen]] · [[stellen]] · [[heraus]] · [[aufstellen]] · [[feststellen]] · [[herstellen]] · [[abstellen]]
   - Es stellt sich heraus, dass er recht hatte. *(It turns out that he was right.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **es stellte sich heraus, dass ...** — it turned out that ...
+  - Words: [[vorstellen]] · [[darstellen]] · [[stellen]] · [[heraus]] · [[aufstellen]] · [[feststellen]] · [[herstellen]] · [[abstellen]]
   - Es stellte sich heraus, dass der Test falsch war. *(It turned out that the test was wrong.)*
   - Grammar: Präteritum; dass-Satz: Verb am Ende
   - Variants: es zeigte sich, dass | wie sich zeigte, ...
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **festgestellt, dass ...** — established that ...
+  - Words: [[feststellen]]
   - Der Arzt hat festgestellt, dass der Blutdruck zu hoch ist. *(The doctor established that the blood pressure is too high.)*
   - Grammar: Partizip II von „feststellen“
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **feststellen, dass ...** — to find that ...
+  - Words: [[feststellen]]
   - Wir müssen feststellen, dass die Methode nicht wirkt. *(We have to note that the method doesn't work.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: bemerken, dass | erkennen, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **gefragt, ob ...** — asked whether ...
+  - Words: [[ob]] · [[fragen]]
   - Der Arzt hat mich gefragt, ob ich Allergien habe. *(The doctor asked me whether I have allergies.)*
   - Grammar: Partizip II von „fragen“; ob-Satz
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **gezeigt, dass ...** — shown that ...
+  - Words: [[zeigen]]
   - Studien haben gezeigt, dass Bewegung gesund ist. *(Studies have shown that exercise is healthy.)*
   - Grammar: Partizip II von „zeigen“
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **ist zu sagen, dass ...** — it must be said that ...
+  - Words: [[sagen]]
   - Zu der Frage ist zu sagen, dass es keine einfache Antwort gibt. *(Regarding the question, it must be said that there is no simple answer.)*
   - Grammar: sein + zu + Infinitiv = Passiversatz
   - Variants: man muss sagen, dass | festzustellen ist, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **mir fiel auf, dass ...** — I noticed that ...
+  - Words: [[fallen]] · [[einfallen]] · [[ausfallen]] · [[auffallen]] · [[herunterfallen]] · [[anfallen]] · [[durchfallen]] · [[leichtfallen]]
   - Mir fiel auf, dass er sehr blass war. *(I noticed that he was very pale.)*
   - Grammar: Präteritum von „auffallen“; dass-Satz
   - Variants: ich bemerkte, dass | ich stellte fest, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **wir weisen darauf hin, dass ...** — we would like to point out that ...
+  - Words: [[hin]] · [[darauf]] · [[hinlegen]] · [[Weise]] · [[hinweisen]] · [[hinsehen]] · [[hingehen]] · [[hindeuten]]
   - Wir weisen darauf hin, dass die Praxis geschlossen ist. *(We would like to point out that the practice is closed.)*
   - Grammar: formell; hinweisen auf + Akk.
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 ## C1
 
 - **... zeigt sich, dass ...** — it turns out that ...
+  - Words: [[zeigen]] · [[anzeigen]] · [[aufzeigen]]
   - Im Test zeigt sich, dass die Methode funktioniert. *(The test shows that the method works.)*
   - Grammar: sich zeigen + dass-Satz
   - Variants: es stellt sich heraus, dass | es wird deutlich, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **darauf hingewiesen werden, dass ...** — to be pointed out that ...
+  - Words: [[darauf]] · [[hinweisen]]
   - Es muss darauf hingewiesen werden, dass die Praxis montags geschlossen ist. *(It must be pointed out that the practice is closed on Mondays.)*
   - Grammar: Passiv mit Modalverb; hinweisen auf + Akk.
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **deuten darauf hin, dass ...** — indicate that ...
+  - Words: [[hin]] · [[darauf]] · [[hinlegen]] · [[deuten]] · [[hinweisen]] · [[hinsehen]] · [[hingehen]] · [[hindeuten]]
   - Die Symptome deuten darauf hin, dass es eine Allergie ist. *(The symptoms indicate that it is an allergy.)*
   - Grammar: Plural; hindeuten auf + Akk.
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **deutet darauf hin, dass ...** — indicates that ...
+  - Words: [[hin]] · [[darauf]] · [[hinlegen]] · [[deuten]] · [[hinweisen]] · [[hinsehen]] · [[hingehen]] · [[hindeuten]]
   - Das Ergebnis deutet darauf hin, dass eine Infektion vorliegt. *(The result indicates that an infection is present.)*
   - Grammar: hindeuten auf + Akk.; dass-Satz
   - Variants: weist darauf hin, dass | lässt vermuten, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **es fällt auf, dass ...** — it is striking that ...
+  - Words: [[fallen]] · [[einfallen]] · [[ausfallen]] · [[auffallen]] · [[herunterfallen]] · [[anfallen]] · [[durchfallen]] · [[leichtfallen]]
   - Es fällt auf, dass viele Patienten müde sind. *(It is striking that many patients are tired.)*
   - Grammar: dass-Satz: Verb am Ende; auffallen + Dat.
   - Variants: auffällig ist, dass | bemerkenswert ist, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **es kann festgehalten werden, dass ...** — it can be stated that ...
+  - Words: [[festhalten]] · [[können]]
   - Es kann festgehalten werden, dass alle Ziele erreicht wurden. *(It can be stated that all goals were achieved.)*
   - Grammar: Passiv mit Modalverb; dass-Satz
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **es lässt sich festhalten, dass ...** — it can be stated that ...
+  - Words: [[lassen]] · [[festhalten]] · [[zulassen]] · [[sich etwas gefallen lassen]] · [[sich scheiden lassen]] · [[auslassen]] · [[einlassen]] · [[loslassen]]
   - Es lässt sich festhalten, dass die Zahl der Patienten steigt. *(It can be stated that the number of patients is rising.)*
   - Grammar: sich lassen + Infinitiv = Passiv mit „können“
   - Variants: man kann festhalten, dass | festzuhalten ist, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **es lässt sich feststellen, dass ...** — it can be established that ...
+  - Words: [[lassen]] · [[feststellen]] · [[zulassen]] · [[sich etwas gefallen lassen]] · [[sich scheiden lassen]] · [[auslassen]] · [[einlassen]] · [[loslassen]]
   - Es lässt sich feststellen, dass die Werte besser sind. *(It can be established that the values are better.)*
   - Grammar: sich lassen + Infinitiv = Passiv mit „können“
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **es wird deutlich, dass ...** — it becomes clear that ...
+  - Words: [[deutlich]] · [[geboren werden]] · [[werden]] · [[loswerden]]
   - Es wird deutlich, dass wir mehr Hilfe brauchen. *(It becomes clear that we need more help.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **es zeigt sich, dass ...** — it turns out that ...
+  - Words: [[zeigen]] · [[anzeigen]] · [[aufzeigen]]
   - Es zeigt sich, dass die Methode funktioniert. *(It turns out that the method works.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **wird deutlich, dass ...** — it becomes clear that ...
+  - Words: [[deutlich]] · [[geboren werden]] · [[werden]] · [[loswerden]]
   - Aus den Zahlen wird deutlich, dass die Krankheit zunimmt. *(It becomes clear from the figures that the disease is increasing.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: zeigt sich, dass | es wird klar, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **zeigt sich, dass ...** — it turns out that ...
+  - Words: [[zeigen]] · [[anzeigen]] · [[aufzeigen]]
   - Bei der Untersuchung zeigt sich, dass alles in Ordnung ist. *(The examination shows that everything is in order.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **zu dem Ergebnis kommen, dass ...** — to come to the conclusion that ...
+  - Words: [[kommen]] · [[Ergebnis]]
   - Die Studie kommt zu dem Ergebnis, dass Sport hilft. *(The study comes to the conclusion that exercise helps.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: zu dem Schluss kommen, dass | feststellen, dass
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **zu dem Ergebnis kommen, dass ...** — to come to the conclusion that ...
+  - Words: [[kommen]] · [[Ergebnis]]
   - Wir sind zu dem Ergebnis gekommen, dass die Therapie wirkt. *(We have come to the conclusion that the therapy works.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **zu erkennen, dass ...** — to realise that ...
+  - Words: [[erkennen]]
   - Es ist wichtig zu erkennen, dass man Hilfe braucht. *(It is important to recognise that one needs help.)*
   - Grammar: zu + Infinitiv; dass-Satz
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag
 - **zu zeigen, dass ...** — to show that ...
+  - Words: [[zeigen]]
   - Ziel der Studie ist es, zu zeigen, dass die Methode wirkt. *(The aim of the study is to show that the method works.)*
   - Grammar: zu + Infinitiv; dass-Satz
   - Exam: B1 Sprechen Aufgabe 2 (Thema präsentieren) · B2 Vortrag

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Arbeitsmarkt für Ärzte ist gut.
 > *The job market for doctors is good.*
+
+**Phrases & Expressions:**
+- **Der Arbeitsmarkt für Ärzte ist gut** — *The job market for doctors is good* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

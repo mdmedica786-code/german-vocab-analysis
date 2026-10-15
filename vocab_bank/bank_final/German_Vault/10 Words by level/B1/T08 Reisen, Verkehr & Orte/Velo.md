@@ -37,6 +37,9 @@ status: "new"
 > Sie fährt jeden Morgen mit dem Velo zur Arbeit.
 > **
 
+**Phrases & Expressions:**
+- **Sie fährt jeden Morgen mit dem Velo zur Arbeit** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

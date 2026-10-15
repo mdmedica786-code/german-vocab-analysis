@@ -34,6 +34,9 @@ status: "new"
 > Eine Wiederholung der Prüfung ist möglich.
 > *A repeat of the exam is possible.*
 
+**Phrases & Expressions:**
+- **Eine Wiederholung der Prüfung ist möglich** — *A repeat of the exam is possible* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

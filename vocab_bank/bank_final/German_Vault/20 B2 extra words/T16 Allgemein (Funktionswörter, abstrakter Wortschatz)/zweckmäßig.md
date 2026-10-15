@@ -29,6 +29,11 @@ status: "new"
 > Zweckmäßige Kleidung ist für die Wanderung wichtig.
 > *Practical clothing is important for the hike.*
 
+**Phrases & Expressions:**
+- **zweckmäßig sein** — *practical; expedient; suitable*
+- **zweckmäßig eingerichtet** — *practical; expedient; suitable*
+- **zweckmäßige Kleidung** — *practical; expedient; suitable*
+
 **Collocations**
 - zweckmäßig sein
 - zweckmäßig eingerichtet

@@ -33,6 +33,11 @@ status: "new"
 > Sie arbeitet seit zehn Jahren im Journalismus.
 > *She has worked in journalism for ten years.*
 
+**Phrases & Expressions:**
+- **im Journalismus arbeiten** — *journalism*
+- **seriöser Journalismus** — *journalism*
+- **investigativer Journalismus** — *journalism*
+
 **Collocations**
 - im Journalismus arbeiten
 - seriöser Journalismus

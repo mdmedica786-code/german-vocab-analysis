@@ -33,6 +33,11 @@ status: "new"
 > Du kannst deinen Koffer in der Gepäckaufbewahrung am Bahnhof lassen.
 > *You can leave your suitcase in the left-luggage office at the station.*
 
+**Phrases & Expressions:**
+- **Gepäck in die Gepäckaufbewahrung geben** — *left-luggage office*
+- **Schließfach und Gepäckaufbewahrung** — *left-luggage office*
+- **Gepäckaufbewahrung am Bahnhof** — *left-luggage office*
+
 **Collocations**
 - Gepäck in die Gepäckaufbewahrung geben
 - Schließfach und Gepäckaufbewahrung

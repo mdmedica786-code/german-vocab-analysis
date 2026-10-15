@@ -34,6 +34,9 @@ status: "new"
 > Bitte tragen Sie Ihr Geburtsdatum ein.
 > *Please enter your date of birth.*
 
+**Phrases & Expressions:**
+- **Können Sie mir bitte Ihren Namen und Ihr Geburtsdatum nennen?** — Could you please tell me your name and date of birth? *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Identität prüfen]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 12a (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

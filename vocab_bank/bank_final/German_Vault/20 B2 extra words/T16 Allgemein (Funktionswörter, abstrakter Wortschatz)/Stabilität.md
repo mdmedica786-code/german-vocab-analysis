@@ -33,6 +33,11 @@ status: "new"
 > Die Brücke braucht mehr Stabilität.
 > *The bridge needs more stability.*
 
+**Phrases & Expressions:**
+- **politische Stabilität** — *stability*
+- **für Stabilität sorgen** — *stability*
+- **die Stabilität gefährden** — *stability*
+
 **Collocations**
 - politische Stabilität
 - für Stabilität sorgen

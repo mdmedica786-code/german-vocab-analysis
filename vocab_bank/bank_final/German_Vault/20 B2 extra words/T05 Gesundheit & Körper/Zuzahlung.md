@@ -33,6 +33,11 @@ status: "new"
 > Für dieses Medikament müssen Sie eine Zuzahlung leisten.
 > *For this medication you have to make a co-payment.*
 
+**Phrases & Expressions:**
+- **eine Zuzahlung leisten** — *additional payment; co-payment*
+- **eine Zuzahlung fällig** — *additional payment; co-payment*
+- **von der Zuzahlung befreit sein** — *additional payment; co-payment*
+
 **Collocations**
 - eine Zuzahlung leisten
 - eine Zuzahlung fällig

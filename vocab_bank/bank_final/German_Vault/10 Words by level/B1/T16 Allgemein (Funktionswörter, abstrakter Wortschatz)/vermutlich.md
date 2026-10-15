@@ -31,6 +31,13 @@ status: "new"
 > Vermutlich sagt er die Wahrheit.
 > *Presumably he is telling the truth.*
 
+**Phrases & Expressions:**
+- **Das war vermutlich ein Missverständnis.** — That was probably a misunderstanding. *([[B2-12 Höflichkeit und Diplomatie - Kritik und Ablehnung abmildern|Missverständnis klären]] · B2)*
+- **vermutlich nicht** — *presumably*
+- **vermutlich schon** — *presumably*
+- **vermutlich ein Irrtum** — *presumably*
+- **vermutlich morgen** — *presumably*
+
 **Collocations**
 - vermutlich nicht
 - vermutlich schon

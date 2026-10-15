@@ -33,6 +33,11 @@ status: "new"
 > Das kulturelle Erbe der Stadt muss bewahrt werden.
 > *The cultural heritage of the city must be preserved.*
 
+**Phrases & Expressions:**
+- **das kulturelle Erbe** — *inheritance; legacy*
+- **das Erbe antreten** — *inheritance; legacy*
+- **ein schweres Erbe** — *inheritance; legacy*
+
 **Collocations**
 - das kulturelle Erbe
 - das Erbe antreten

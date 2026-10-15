@@ -35,6 +35,9 @@ status: "new"
 > Eintritt pro Person: 5 Euro.
 > *Admission per person: 5 euros.*
 
+**Phrases & Expressions:**
+- **Kurz zu meiner Person: Ich habe ... studiert.** — A few words about myself: I studied ... *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Sich vorstellen]] · B2)*
+
 **Source:** Netzwerk neu A1 K1 2a (Guten Tag!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > An der Mitfahrbank warten Leute auf eine Mitfahrgelegenheit.
 > *People wait on the ride-share bench for a lift.*
 
+**Phrases & Expressions:**
+- **An der Mitfahrbank warten Leute auf eine Mitfahrgelegenheit** — *People wait on the ride-share bench for a lift* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?)
 <!-- bank:end -->
 

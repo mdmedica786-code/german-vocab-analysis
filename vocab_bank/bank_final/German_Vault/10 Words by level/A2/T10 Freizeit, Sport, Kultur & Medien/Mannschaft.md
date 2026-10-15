@@ -35,6 +35,9 @@ status: "new"
 > Unsere Mannschaft hat 0:1 verloren.
 > *Our team lost 0-1.*
 
+**Phrases & Expressions:**
+- **Unsere Mannschaft hat 0:1 verloren** — *Our team lost 0-1* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1b ÜB (Sportlich, sportlich) · Goethe word list A2
 <!-- bank:end -->
 

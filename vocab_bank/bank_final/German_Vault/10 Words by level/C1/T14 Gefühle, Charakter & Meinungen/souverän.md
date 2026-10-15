@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Sie hielt einen souveränen Vortrag.
 > *She gave a confident talk.*
+
+**Phrases & Expressions:**
+- **Sie hielt einen souveränen Vortrag** — *She gave a confident talk* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

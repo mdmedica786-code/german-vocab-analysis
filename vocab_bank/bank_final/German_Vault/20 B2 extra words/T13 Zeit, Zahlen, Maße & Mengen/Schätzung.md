@@ -33,6 +33,11 @@ status: "new"
 > Nach Schätzungen leben hier zwei Millionen Menschen.
 > *According to estimates two million people live here.*
 
+**Phrases & Expressions:**
+- **nach Schätzungen** — *estimate; estimation*
+- **eine grobe Schätzung** — *estimate; estimation*
+- **eine Schätzung abgeben** — *estimate; estimation*
+
 **Collocations**
 - nach Schätzungen
 - eine grobe Schätzung

@@ -33,6 +33,11 @@ status: "new"
 > Die Arbeitslosenquote ist ein wichtiger Indikator.
 > *The unemployment rate is an important indicator.*
 
+**Phrases & Expressions:**
+- **ein wichtiger Indikator** — *indicator*
+- **als Indikator dienen** — *indicator*
+- **Indikatoren erfassen** — *indicator*
+
 **Collocations**
 - ein wichtiger Indikator
 - als Indikator dienen

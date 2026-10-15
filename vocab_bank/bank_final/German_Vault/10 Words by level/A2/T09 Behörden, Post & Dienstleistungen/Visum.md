@@ -35,6 +35,9 @@ status: "new"
 > Das Visum ist für drei Monate gültig.
 > *The visa is valid for three months.*
 
+**Phrases & Expressions:**
+- **Das Visum ist für drei Monate gültig** — *The visa is valid for three months* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 5d (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

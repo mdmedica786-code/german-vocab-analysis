@@ -32,6 +32,9 @@ status: "new"
 > Sie dolmetscht bei Gesprächen mit Patienten.
 > *She interprets in conversations with patients.*
 
+**Phrases & Expressions:**
+- **Sie dolmetscht bei Gesprächen mit Patienten** — *She interprets in conversations with patients* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Er behandelte seine Mitarbeiter mit Geringschätzung.
 > *He treated his employees with disdain.*
 
+**Phrases & Expressions:**
+- **mit Geringschätzung** — *disdain; low regard*
+- **Geringschätzung zeigen** — *disdain; low regard*
+- **Geringschätzung erfahren** — *disdain; low regard*
+
 **Collocations**
 - mit Geringschätzung
 - Geringschätzung zeigen

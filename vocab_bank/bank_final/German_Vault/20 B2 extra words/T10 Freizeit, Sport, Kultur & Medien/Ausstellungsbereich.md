@@ -30,6 +30,11 @@ status: "new"
 > Der neue Ausstellungsbereich ist ab Montag geöffnet.
 > *The new exhibition area is open from Monday.*
 
+**Phrases & Expressions:**
+- **ein großer Ausstellungsbereich** — *exhibition area*
+- **der Ausstellungsbereich für Kunst** — *exhibition area*
+- **den Ausstellungsbereich erweitern** — *exhibition area*
+
 **Collocations**
 - ein großer Ausstellungsbereich
 - der Ausstellungsbereich für Kunst

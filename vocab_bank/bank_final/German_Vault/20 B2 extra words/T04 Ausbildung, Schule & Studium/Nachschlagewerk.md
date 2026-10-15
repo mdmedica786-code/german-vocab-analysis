@@ -33,6 +33,11 @@ status: "new"
 > Ein gutes Wörterbuch ist ein wichtiges Nachschlagewerk.
 > *A good dictionary is an important reference work.*
 
+**Phrases & Expressions:**
+- **ein Nachschlagewerk benutzen** — *reference work*
+- **ein umfassendes Nachschlagewerk** — *reference work*
+- **Nachschlagewerke zu Rate ziehen** — *reference work*
+
 **Collocations**
 - ein Nachschlagewerk benutzen
 - ein umfassendes Nachschlagewerk

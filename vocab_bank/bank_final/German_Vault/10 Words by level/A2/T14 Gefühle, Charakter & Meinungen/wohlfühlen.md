@@ -34,6 +34,12 @@ status: "new"
 > Ich fühle mich in meiner neuen Wohnung wohl.
 > *I feel comfortable in my new flat.*
 
+**Phrases & Expressions:**
+- **... fühlt sich ...** — feels ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · A2)*
+- **zum Wohl** — cheers *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A1)*
+- **Er ist wohl krank.** — He is probably ill. *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Vermutung äußern]] · B1)*
+- **Wie fühlt sich der Schmerz an?** — What does the pain feel like? *([[FSP-03 Schmerzanamnese|Qualität erfragen]] · B1)*
+
 **Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle)
 <!-- bank:end -->
 

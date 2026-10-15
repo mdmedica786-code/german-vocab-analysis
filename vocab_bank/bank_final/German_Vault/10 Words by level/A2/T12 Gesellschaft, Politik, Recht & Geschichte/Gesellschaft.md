@@ -35,6 +35,11 @@ status: "new"
 > Er will die Gesellschaft verändern.
 > *He wants to change society.*
 
+**Phrases & Expressions:**
+- **die Gesellschaft verändern** — *society*
+- **in der Gesellschaft leben** — *society*
+- **jemandem Gesellschaft leisten** — *society*
+
 **Collocations**
 - die Gesellschaft verändern
 - in der Gesellschaft leben

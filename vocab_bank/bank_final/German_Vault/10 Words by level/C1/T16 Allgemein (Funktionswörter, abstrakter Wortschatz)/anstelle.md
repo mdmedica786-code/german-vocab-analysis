@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Anstelle des Chefs kommt seine Vertreterin.
 > *His deputy is coming instead of the boss.*
+
+**Phrases & Expressions:**
+- **Anstelle des Chefs kommt seine Vertreterin** — *His deputy is coming instead of the boss* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

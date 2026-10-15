@@ -26,6 +26,10 @@ status: "new"
 > Nehmen Sie bitte im Wartezimmer Platz.
 > *Please take a seat in the waiting room.*
 
+**Phrases & Expressions:**
+- **bitte Platz nehmen** — *to take a seat*
+- **am Tisch Platz nehmen** — *to take a seat*
+
 **Collocations**
 - bitte Platz nehmen
 - am Tisch Platz nehmen

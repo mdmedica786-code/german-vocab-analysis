@@ -33,6 +33,11 @@ status: "new"
 > Den Forschern gelang ein wichtiger Durchbruch.
 > *The researchers achieved an important breakthrough.*
 
+**Phrases & Expressions:**
+- **ein Durchbruch gelingt** — *breakthrough*
+- **den Durchbruch schaffen** — *breakthrough*
+- **der Durchbruch in der Forschung** — *breakthrough*
+
 **Collocations**
 - ein Durchbruch gelingt
 - den Durchbruch schaffen

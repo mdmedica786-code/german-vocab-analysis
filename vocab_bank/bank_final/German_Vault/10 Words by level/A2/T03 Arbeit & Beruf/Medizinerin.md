@@ -34,6 +34,9 @@ status: "new"
 > Meine Tante ist Medizinerin.
 > *My aunt is a doctor.*
 
+**Phrases & Expressions:**
+- **Meine Tante ist Medizinerin** — *My aunt is a doctor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

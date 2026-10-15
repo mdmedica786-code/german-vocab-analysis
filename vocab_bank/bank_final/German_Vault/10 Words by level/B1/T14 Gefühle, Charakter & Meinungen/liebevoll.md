@@ -30,6 +30,9 @@ status: "new"
 > Sie kümmert sich liebevoll um die Kinder.
 > *She takes loving care of the children.*
 
+**Phrases & Expressions:**
+- **Sie kümmert sich liebevoll um die Kinder** — *She takes loving care of the children* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 5b (Veränderungen)
 <!-- bank:end -->
 

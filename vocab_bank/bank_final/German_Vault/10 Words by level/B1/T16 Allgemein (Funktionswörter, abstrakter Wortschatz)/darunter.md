@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Im Regal stehen viele Bücher, darunter auch Romane.
 > *There are many books on the shelf, including novels.*
+
+**Phrases & Expressions:**
+- **Im Regal stehen viele Bücher, darunter auch Romane** — *There are many books on the shelf, including novels* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

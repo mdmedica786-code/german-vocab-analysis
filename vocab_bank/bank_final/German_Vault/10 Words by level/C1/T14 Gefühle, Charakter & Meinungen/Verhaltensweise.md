@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Diese Verhaltensweise ist typisch für Kinder.
 > *This behaviour is typical of children.*
+
+**Phrases & Expressions:**
+- **Diese Verhaltensweise ist typisch für Kinder** — *This behaviour is typical of children* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

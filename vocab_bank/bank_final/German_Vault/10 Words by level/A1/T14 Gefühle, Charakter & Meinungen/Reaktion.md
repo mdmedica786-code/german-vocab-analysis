@@ -35,6 +35,12 @@ status: "new"
 > Diese Reaktion ist typisch für ihn.
 > *This reaction is typical of him.*
 
+**Phrases & Expressions:**
+- **eine Reaktion zeigen** — *reaction*
+- **eine allergische Reaktion** — *reaction*
+- **eine schnelle Reaktion** — *reaction*
+- **Reaktion auf etwas** — *reaction*
+
 **Collocations**
 - eine Reaktion zeigen
 - eine allergische Reaktion

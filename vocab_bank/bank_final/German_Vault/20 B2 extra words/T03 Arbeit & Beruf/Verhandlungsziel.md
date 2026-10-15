@@ -33,6 +33,11 @@ status: "new"
 > Unser Verhandlungsziel ist ein fairer Preis.
 > *Our negotiation goal is a fair price.*
 
+**Phrases & Expressions:**
+- **ein Verhandlungsziel festlegen** — *negotiation goal*
+- **das Verhandlungsziel erreichen** — *negotiation goal*
+- **ein klares Verhandlungsziel** — *negotiation goal*
+
 **Collocations**
 - ein Verhandlungsziel festlegen
 - das Verhandlungsziel erreichen

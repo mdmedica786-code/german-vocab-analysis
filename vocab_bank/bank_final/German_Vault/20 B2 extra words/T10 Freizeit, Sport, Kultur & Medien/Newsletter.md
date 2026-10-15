@@ -33,6 +33,11 @@ status: "new"
 > Ich habe den Newsletter des Museums abonniert.
 > *I have subscribed to the museum's newsletter.*
 
+**Phrases & Expressions:**
+- **den Newsletter abonnieren** — *newsletter*
+- **sich vom Newsletter abmelden** — *newsletter*
+- **Newsletter verschicken** — *newsletter*
+
 **Collocations**
 - den Newsletter abonnieren
 - sich vom Newsletter abmelden

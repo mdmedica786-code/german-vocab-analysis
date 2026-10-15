@@ -32,6 +32,9 @@ status: "new"
 > Er komponiert Musik für Filme.
 > *He composes music for films.*
 
+**Phrases & Expressions:**
+- **Er komponiert Musik für Filme** — *He composes music for films* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 11b (Zwischenmenschliches)
 <!-- bank:end -->
 

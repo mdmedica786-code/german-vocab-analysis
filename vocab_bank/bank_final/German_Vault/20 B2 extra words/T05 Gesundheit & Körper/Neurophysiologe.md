@@ -33,6 +33,11 @@ status: "new"
 > Der Neurophysiologe untersucht die Funktion des Gehirns.
 > *The neurophysiologist examines how the brain works.*
 
+**Phrases & Expressions:**
+- **ein bekannter Neurophysiologe** — *neurophysiologist (male)*
+- **als Neurophysiologe forschen** — *neurophysiologist (male)*
+- **der Neurophysiologe erklärt** — *neurophysiologist (male)*
+
 **Collocations**
 - ein bekannter Neurophysiologe
 - als Neurophysiologe forschen

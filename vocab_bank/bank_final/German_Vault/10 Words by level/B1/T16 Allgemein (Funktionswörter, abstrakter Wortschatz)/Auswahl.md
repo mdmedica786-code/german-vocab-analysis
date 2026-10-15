@@ -35,6 +35,9 @@ status: "new"
 > Das Geschäft bietet eine große Auswahl an Obst.
 > *The shop offers a wide selection of fruit.*
 
+**Phrases & Expressions:**
+- **Das Geschäft bietet eine große Auswahl an Obst** — *The shop offers a wide selection of fruit* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

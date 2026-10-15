@@ -33,6 +33,11 @@ status: "new"
 > Nach der Flutkatastrophe halfen viele Freiwillige.
 > *After the flood disaster many volunteers helped.*
 
+**Phrases & Expressions:**
+- **eine Flutkatastrophe erleben** — *flood disaster*
+- **die Flutkatastrophe im Ahrtal** — *flood disaster*
+- **von der Flutkatastrophe betroffen sein** — *flood disaster*
+
 **Collocations**
 - eine Flutkatastrophe erleben
 - die Flutkatastrophe im Ahrtal

@@ -31,6 +31,13 @@ status: "new"
 > Der Zug kommt in 30 Minuten. Bis dahin können wir einen Kaffee trinken.
 > *The train arrives in 30 minutes. Until then we can have a coffee.*
 
+**Phrases & Expressions:**
+- **bis dahin** — until then *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **Sollte ich bis dahin nichts hören, werde ich ...** — Should I hear nothing by then, I will ... *([[B2-04 Beschwerde und Reklamation|Frist setzen]] · B2)*
+- **dahin fahren** — *there*
+- **dahin gehen** — *there*
+- **dahin sein** — *there*
+
 **Collocations**
 - bis dahin
 - dahin fahren

@@ -33,6 +33,11 @@ status: "new"
 > Er begann seine Laufbahn als Lehrer.
 > *He began his career as a teacher.*
 
+**Phrases & Expressions:**
+- **eine Laufbahn einschlagen** — *career; career path*
+- **die berufliche Laufbahn** — *career; career path*
+- **am Ende seiner Laufbahn** — *career; career path*
+
 **Collocations**
 - eine Laufbahn einschlagen
 - die berufliche Laufbahn

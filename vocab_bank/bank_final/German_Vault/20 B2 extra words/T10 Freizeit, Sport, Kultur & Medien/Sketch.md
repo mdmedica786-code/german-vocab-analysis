@@ -33,6 +33,11 @@ status: "new"
 > Der Sketch im Fernsehen war sehr lustig.
 > *The sketch on television was very funny.*
 
+**Phrases & Expressions:**
+- **einen Sketch aufführen** — *sketch; comedy skit*
+- **ein lustiger Sketch** — *sketch; comedy skit*
+- **einen Sketch schreiben** — *sketch; comedy skit*
+
 **Collocations**
 - einen Sketch aufführen
 - ein lustiger Sketch

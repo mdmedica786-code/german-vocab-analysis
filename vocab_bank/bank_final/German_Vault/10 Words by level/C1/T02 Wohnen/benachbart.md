@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die benachbarten Häuser sind sehr alt.
 > *The neighbouring houses are very old.*
+
+**Phrases & Expressions:**
+- **Die benachbarten Häuser sind sehr alt** — *The neighbouring houses are very old* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

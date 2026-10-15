@@ -29,6 +29,11 @@ status: "new"
 > Sie trägt filigranen Schmuck aus Silber.
 > *She wears delicate silver jewellery.*
 
+**Phrases & Expressions:**
+- **filigraner Schmuck** — *delicate; filigree*
+- **filigran gearbeitet** — *delicate; filigree*
+- **eine filigrane Struktur** — *delicate; filigree*
+
 **Collocations**
 - filigraner Schmuck
 - filigran gearbeitet

@@ -30,6 +30,9 @@ status: "new"
 > Nach der Grippe fühle ich mich kraftlos.
 > *After the flu I feel without strength.*
 
+**Phrases & Expressions:**
+- **Nach der Grippe fühle ich mich kraftlos** — *After the flu I feel without strength* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12b (Zwischenmenschliches)
 <!-- bank:end -->
 

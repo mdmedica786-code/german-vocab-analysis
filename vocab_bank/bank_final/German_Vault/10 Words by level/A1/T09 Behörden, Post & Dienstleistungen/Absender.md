@@ -35,6 +35,9 @@ status: "new"
 > Da ist ein Brief für dich ohne Absender.
 > *There is a letter for you without a sender.*
 
+**Phrases & Expressions:**
+- **Da ist ein Brief für dich ohne Absender** — *There is a letter for you without a sender* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 8a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

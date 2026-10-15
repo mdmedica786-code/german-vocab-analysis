@@ -27,6 +27,9 @@ status: "new"
 > Gib mir irgendeins.
 > *Give me any one.*
 
+**Phrases & Expressions:**
+- **Gib mir irgendeins** — *Give me any one* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 5 (Stadt, Land, Fluss)
 <!-- bank:end -->
 

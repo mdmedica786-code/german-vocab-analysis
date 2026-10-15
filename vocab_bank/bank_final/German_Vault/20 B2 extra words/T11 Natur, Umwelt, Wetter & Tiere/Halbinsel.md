@@ -33,6 +33,11 @@ status: "new"
 > Italien liegt auf einer Halbinsel im Mittelmeer.
 > *Italy lies on a peninsula in the Mediterranean.*
 
+**Phrases & Expressions:**
+- **auf einer Halbinsel** — *peninsula*
+- **die Halbinsel Krim** — *peninsula*
+- **Halbinsel im Meer** — *peninsula*
+
 **Collocations**
 - auf einer Halbinsel
 - die Halbinsel Krim

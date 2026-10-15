@@ -26,6 +26,10 @@ status: "new"
 > Wir nehmen Abschied von einem guten Freund.
 > *We say goodbye to a good friend.*
 
+**Phrases & Expressions:**
+- **Abschied nehmen von + Dat.** — *to say goodbye*
+- **schweren Herzens Abschied nehmen** — *to say goodbye*
+
 **Collocations**
 - Abschied nehmen von + Dat.
 - schweren Herzens Abschied nehmen

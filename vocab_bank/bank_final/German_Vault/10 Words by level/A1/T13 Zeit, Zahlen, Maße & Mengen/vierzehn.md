@@ -31,6 +31,9 @@ status: "new"
 > Der Kurs beginnt in vierzehn Tagen.
 > *The course starts in two weeks.*
 
+**Phrases & Expressions:**
+- **Der Kurs beginnt in vierzehn Tagen** — *The course starts in two weeks* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Elite des Landes traf sich in Berlin.
 > *The elite of the country met in Berlin.*
 
+**Phrases & Expressions:**
+- **die politische Elite** — *elite*
+- **zur Elite gehören** — *elite*
+- **die wirtschaftliche Elite** — *elite*
+
 **Collocations**
 - die politische Elite
 - zur Elite gehören

@@ -32,6 +32,9 @@ status: "new"
 > Die Politiker analysieren die Situation auf dem Arbeitsmarkt.
 > *The politicians analyse the situation on the labour market.*
 
+**Phrases & Expressions:**
+- **Die Politiker analysieren die Situation auf dem Arbeitsmarkt** — *The politicians analyse the situation on the labour market* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

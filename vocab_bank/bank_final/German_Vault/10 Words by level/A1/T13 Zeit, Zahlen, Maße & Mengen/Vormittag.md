@@ -35,6 +35,9 @@ status: "new"
 > Am Vormittag habe ich einen Termin beim Arzt.
 > *In the morning I have a doctor's appointment.*
 
+**Phrases & Expressions:**
+- **Am Vormittag habe ich einen Termin beim Arzt** — *In the morning I have a doctor's appointment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 9c (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

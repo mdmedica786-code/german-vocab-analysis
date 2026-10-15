@@ -34,6 +34,9 @@ status: "new"
 > Der Schwerpunkt des Kurses liegt auf der Grammatik.
 > *The focus of the course is on grammar.*
 
+**Phrases & Expressions:**
+- **Der Schwerpunkt des Kurses liegt auf der Grammatik** — *The focus of the course is on grammar* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7b (Kunststücke)
 <!-- bank:end -->
 

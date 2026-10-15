@@ -34,6 +34,9 @@ status: "new"
 > Ich bin hingefallen. Jetzt tun mir alle Knochen weh.
 > *I fell over. Now all my bones hurt.*
 
+**Phrases & Expressions:**
+- **Ich bin hingefallen. Jetzt tun mir alle Knochen weh** — *I fell over. Now all my bones hurt* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

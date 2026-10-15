@@ -29,6 +29,11 @@ status: "new"
 > Er stand starr vor Schreck.
 > *He stood rigid with fright.*
 
+**Phrases & Expressions:**
+- **starr vor Schreck** — *rigid; fixed; stiff*
+- **ein starrer Blick** — *rigid; fixed; stiff*
+- **starre Regeln** — *rigid; fixed; stiff*
+
 **Collocations**
 - starr vor Schreck
 - ein starrer Blick

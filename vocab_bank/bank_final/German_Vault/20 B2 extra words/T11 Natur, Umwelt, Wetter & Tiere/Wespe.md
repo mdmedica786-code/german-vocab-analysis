@@ -33,6 +33,11 @@ status: "new"
 > Beim Essen im Garten fliegen oft Wespen herum.
 > *When eating in the garden wasps often fly around.*
 
+**Phrases & Expressions:**
+- **von einer Wespe gestochen werden** — *wasp*
+- **Wespen vertreiben** — *wasp*
+- **ein Wespennest** — *wasp*
+
 **Collocations**
 - von einer Wespe gestochen werden
 - Wespen vertreiben

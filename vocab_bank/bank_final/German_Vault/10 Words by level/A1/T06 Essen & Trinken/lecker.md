@@ -31,6 +31,9 @@ status: "new"
 > Das Essen war sehr lecker.
 > *The food was very tasty.*
 
+**Phrases & Expressions:**
+- **Das Essen war sehr lecker** — *The food was very tasty* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 7a (Guten Appetit!) · Goethe word list B1
 <!-- bank:end -->
 

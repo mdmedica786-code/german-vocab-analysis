@@ -33,6 +33,11 @@ status: "new"
 > Das Schiff warf im Hafen den Anker.
 > *The ship dropped anchor in the harbour.*
 
+**Phrases & Expressions:**
+- **den Anker werfen** — *anchor*
+- **vor Anker liegen** — *anchor*
+- **den Anker lichten** — *anchor*
+
 **Collocations**
 - den Anker werfen
 - vor Anker liegen

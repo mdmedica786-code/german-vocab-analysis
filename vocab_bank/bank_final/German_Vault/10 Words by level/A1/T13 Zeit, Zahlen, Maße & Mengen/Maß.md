@@ -34,6 +34,11 @@ status: "new"
 > Welche Maße hat der Tisch?
 > *What are the dimensions of the table?*
 
+**Phrases & Expressions:**
+- **ein hohes Maß an ...** — a high degree of ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · C1)*
+- **in dem Maße, wie ...** — to the extent that ... *([[Vergleichen (comparison)|Vergleichen (comparison)]] · C1)*
+- **Ich rate Ihnen, Alkohol nur in Maßen zu trinken.** — I advise you to drink alcohol only in moderation. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Alkohol beraten]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 6d ÜB (Guten Appetit!)
 <!-- bank:end -->
 

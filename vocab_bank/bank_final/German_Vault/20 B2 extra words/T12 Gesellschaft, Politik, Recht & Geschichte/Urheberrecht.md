@@ -33,6 +33,11 @@ status: "new"
 > Das Urheberrecht schützt Autoren und Künstler.
 > *Copyright protects authors and artists.*
 
+**Phrases & Expressions:**
+- **das Urheberrecht verletzen** — *copyright*
+- **Urheberrecht beachten** — *copyright*
+- **Urheberrecht schützen** — *copyright*
+
 **Collocations**
 - das Urheberrecht verletzen
 - Urheberrecht beachten

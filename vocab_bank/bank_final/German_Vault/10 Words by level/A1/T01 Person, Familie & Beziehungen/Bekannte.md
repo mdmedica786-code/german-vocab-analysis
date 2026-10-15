@@ -36,6 +36,9 @@ status: "new"
 > Ein Bekannter von mir heißt Klaus.
 > *An acquaintance of mine is called Klaus.*
 
+**Phrases & Expressions:**
+- **Ein Bekannter von mir heißt Klaus** — *An acquaintance of mine is called Klaus* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7a (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

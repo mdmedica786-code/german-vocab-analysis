@@ -32,6 +32,12 @@ status: "new"
 > Ich empfinde die Musik als sehr entspannend.
 > *I find the music very relaxing.*
 
+**Phrases & Expressions:**
+- **Freude empfinden** — *to feel*
+- **Schmerz empfinden** — *to feel*
+- **als störend empfinden** — *to feel*
+- **Mitleid empfinden** — *to feel*
+
 **Collocations**
 - Freude empfinden
 - Schmerz empfinden

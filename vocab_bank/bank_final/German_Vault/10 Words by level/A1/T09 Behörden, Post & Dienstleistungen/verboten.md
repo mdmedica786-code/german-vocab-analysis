@@ -31,6 +31,9 @@ status: "new"
 > Hier ist Rauchen verboten.
 > *Smoking is forbidden here.*
 
+**Phrases & Expressions:**
+- **verboten sein** — to be forbidden *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A2)*
+
 **Source:** Netzwerk neu A1 K6 10b (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

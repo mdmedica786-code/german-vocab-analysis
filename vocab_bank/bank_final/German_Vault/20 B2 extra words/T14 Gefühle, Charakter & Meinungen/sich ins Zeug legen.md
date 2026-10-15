@@ -29,6 +29,10 @@ status: "new"
 > Die Mannschaft hat sich ins Zeug gelegt und das Spiel gedreht.
 > *The team put their backs into it and turned the game around.*
 
+**Phrases & Expressions:**
+- **sich kräftig ins Zeug legen** — *to put one's back into it*
+- **sich anstrengen** — *to put one's back into it*
+
 **Collocations**
 - sich kräftig ins Zeug legen
 - sich anstrengen

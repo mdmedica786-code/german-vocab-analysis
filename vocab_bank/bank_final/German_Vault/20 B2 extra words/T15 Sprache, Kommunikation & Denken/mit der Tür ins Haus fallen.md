@@ -29,6 +29,10 @@ status: "new"
 > Ich will nicht mit der Tür ins Haus fallen, aber ich brauche Ihre Hilfe.
 > *I don't want to jump straight in, but I need your help.*
 
+**Phrases & Expressions:**
+- **nicht mit der Tür ins Haus fallen** — *to blurt something out; to get straight to the point (tactlessly)*
+- **direkt ansprechen** — *to blurt something out; to get straight to the point (tactlessly)*
+
 **Collocations**
 - nicht mit der Tür ins Haus fallen
 - direkt ansprechen

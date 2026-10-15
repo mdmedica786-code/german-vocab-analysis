@@ -34,6 +34,9 @@ status: "new"
 > Camping am See ist im Sommer beliebt.
 > *Camping by the lake is popular in summer.*
 
+**Phrases & Expressions:**
+- **Camping am See ist im Sommer beliebt** — *Camping by the lake is popular in summer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 8b (Veränderungen)
 <!-- bank:end -->
 

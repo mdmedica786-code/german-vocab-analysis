@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Der Beruf ist physisch anstrengend.
 > *The job is physically demanding.*
+
+**Phrases & Expressions:**
+- **Der Beruf ist physisch anstrengend** — *The job is physically demanding* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,11 @@ status: "new"
 > Für den Krankentransport wurde ein Wagen bestellt.
 > *A vehicle was ordered for the patient transport.*
 
+**Phrases & Expressions:**
+- **einen Krankentransport bestellen** — *patient transport; ambulance transport*
+- **der Krankentransport ins Krankenhaus** — *patient transport; ambulance transport*
+- **ein Krankentransport mit dem Rettungswagen** — *patient transport; ambulance transport*
+
 **Collocations**
 - einen Krankentransport bestellen
 - der Krankentransport ins Krankenhaus

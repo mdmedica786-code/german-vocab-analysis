@@ -34,6 +34,9 @@ status: "new"
 > Der Führer zeigt uns die Altstadt.
 > *The guide shows us the old town.*
 
+**Phrases & Expressions:**
+- **Der Führer zeigt uns die Altstadt** — *The guide shows us the old town* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

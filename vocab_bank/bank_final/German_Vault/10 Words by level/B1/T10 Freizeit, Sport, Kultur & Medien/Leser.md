@@ -35,6 +35,9 @@ status: "new"
 > Die Leserinnen und Leser sind mit der Zeitung zufrieden.
 > *The readers are satisfied with the newspaper.*
 
+**Phrases & Expressions:**
+- **Die Leserinnen und Leser sind mit der Zeitung zufrieden** — *The readers are satisfied with the newspaper* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 3b (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

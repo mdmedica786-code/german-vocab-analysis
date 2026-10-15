@@ -29,6 +29,11 @@ status: "new"
 > Meine Lippen sind im Winter rissig.
 > *My lips are chapped in winter.*
 
+**Phrases & Expressions:**
+- **rissige Haut** — *cracked; chapped*
+- **rissig werden** — *cracked; chapped*
+- **rissige Wände** — *cracked; chapped*
+
 **Collocations**
 - rissige Haut
 - rissig werden

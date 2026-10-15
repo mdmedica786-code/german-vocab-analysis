@@ -34,6 +34,9 @@ status: "new"
 > Das ist nur eine Ausrede.
 > *That is just an excuse.*
 
+**Phrases & Expressions:**
+- **Das ist nur eine Ausrede** — *That is just an excuse* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 3b (Blick nach vorn)
 <!-- bank:end -->
 

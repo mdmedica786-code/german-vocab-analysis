@@ -33,6 +33,11 @@ status: "new"
 > Das Eis schmeckt nach Haselnuss.
 > *The ice cream tastes of hazelnut.*
 
+**Phrases & Expressions:**
+- **geröstete Haselnüsse** — *hazelnut*
+- **Haselnusseis** — *hazelnut*
+- **Haselnüsse sammeln** — *hazelnut*
+
 **Collocations**
 - geröstete Haselnüsse
 - Haselnusseis

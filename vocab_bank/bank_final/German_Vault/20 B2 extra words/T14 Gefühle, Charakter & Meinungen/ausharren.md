@@ -32,6 +32,11 @@ status: "new"
 > Die Fans harrten stundenlang im Regen aus.
 > *The fans held out in the rain for hours.*
 
+**Phrases & Expressions:**
+- **geduldig ausharren** — *to hold out; to wait it out*
+- **bis zum Ende ausharren** — *to hold out; to wait it out*
+- **im Regen ausharren** — *to hold out; to wait it out*
+
 **Collocations**
 - geduldig ausharren
 - bis zum Ende ausharren

@@ -29,6 +29,11 @@ status: "new"
 > Die Aufgaben sind ungleich verteilt.
 > *The tasks are unequally distributed.*
 
+**Phrases & Expressions:**
+- **ungleich verteilt** — *unequal; uneven*
+- **ein ungleicher Kampf** — *unequal; uneven*
+- **ungleich schwerer** — *unequal; uneven*
+
 **Collocations**
 - ungleich verteilt
 - ein ungleicher Kampf

@@ -30,6 +30,11 @@ status: "new"
 > Der Medizintechniker wartet die Geräte im Krankenhaus.
 > *The medical technician maintains the equipment in the hospital.*
 
+**Phrases & Expressions:**
+- **als Medizintechniker arbeiten** — *medical technician (male); biomedical engineer*
+- **ein erfahrener Medizintechniker** — *medical technician (male); biomedical engineer*
+- **Medizintechniker werden** — *medical technician (male); biomedical engineer*
+
 **Collocations**
 - als Medizintechniker arbeiten
 - ein erfahrener Medizintechniker

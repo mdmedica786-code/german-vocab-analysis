@@ -33,6 +33,11 @@ status: "new"
 > Vom Aussichtspunkt hat man einen tollen Blick auf das Tal.
 > *From the viewpoint you have a great view of the valley.*
 
+**Phrases & Expressions:**
+- **zum Aussichtspunkt wandern** — *viewpoint; vantage point*
+- **ein Aussichtspunkt mit Blick** — *viewpoint; vantage point*
+- **am Aussichtspunkt halten** — *viewpoint; vantage point*
+
 **Collocations**
 - zum Aussichtspunkt wandern
 - ein Aussichtspunkt mit Blick

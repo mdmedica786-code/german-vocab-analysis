@@ -33,6 +33,11 @@ status: "new"
 > Sie besitzt ein großes Anwesen auf dem Land.
 > *She owns a large estate in the countryside.*
 
+**Phrases & Expressions:**
+- **ein großes Anwesen** — *estate; property*
+- **ein Anwesen erben** — *estate; property*
+- **ein Anwesen kaufen** — *estate; property*
+
 **Collocations**
 - ein großes Anwesen
 - ein Anwesen erben

@@ -29,6 +29,11 @@ status: "new"
 > Der Bus ist sehr unzuverlässig.
 > *The bus is very unreliable.*
 
+**Phrases & Expressions:**
+- **unzuverlässig sein** — *unreliable*
+- **ein unzuverlässiger Mitarbeiter** — *unreliable*
+- **sich als unzuverlässig erweisen** — *unreliable*
+
 **Collocations**
 - unzuverlässig sein
 - ein unzuverlässiger Mitarbeiter

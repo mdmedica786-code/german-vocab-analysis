@@ -30,6 +30,9 @@ status: "new"
 > Der damalige Bürgermeister ist heute Minister.
 > *The then mayor is now a minister.*
 
+**Phrases & Expressions:**
+- **Der damalige Bürgermeister ist heute Minister** — *The then mayor is now a minister* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

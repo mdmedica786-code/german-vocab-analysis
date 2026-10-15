@@ -31,6 +31,12 @@ status: "new"
 > Heute ist es sehr kalt. In den Bergen schneit es sogar.
 > *It is very cold today. In the mountains it even snows.*
 
+**Phrases & Expressions:**
+- **vielleicht sogar** — perhaps even *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **nicht nur ..., sondern sogar ...** — *even*
+- **sogar noch mehr** — *even*
+- **sogar schon** — *even*
+
 **Collocations**
 - nicht nur ..., sondern sogar ...
 - sogar noch mehr

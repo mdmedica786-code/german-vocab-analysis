@@ -34,6 +34,9 @@ status: "new"
 > Das Wort steht im Singular.
 > *The word is in the singular.*
 
+**Phrases & Expressions:**
+- **Das Wort steht im Singular** — *The word is in the singular* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 8a (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

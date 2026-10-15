@@ -34,6 +34,9 @@ status: "new"
 > Am Sonntag besuchen wir das Kunstmuseum.
 > *On Sunday we are visiting the art museum.*
 
+**Phrases & Expressions:**
+- **Am Sonntag besuchen wir das Kunstmuseum** — *On Sunday we are visiting the art museum* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 6 (Arbeitswelten)
 <!-- bank:end -->
 

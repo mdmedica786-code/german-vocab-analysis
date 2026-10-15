@@ -32,6 +32,12 @@ status: "new"
 > Picasso ist sehr bekannt.
 > *Picasso is very famous.*
 
+**Phrases & Expressions:**
+- **es ist bekannt, dass ...** — it is known that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **Es handelt sich um einen ...-jährigen Patienten mit bekanntem ...** — This is a ...-year-old patient with known ... *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Patient vorstellen]] · C1)*
+- **Als Vorerkrankungen sind ... bekannt.** — Known pre-existing conditions are ... *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Vorerkrankungen nennen]] · C1)*
+- **Allergien sind nicht bekannt.** — No allergies are known. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Allergien nennen]] · B2)*
+
 **Source:** Netzwerk neu A1 K1 2c (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

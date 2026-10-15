@@ -36,6 +36,14 @@ status: "new"
 > Würfeln Sie drei Mal.
 > *Roll the dice three times.*
 
+**Phrases & Expressions:**
+- **zum ersten Mal** — for the first time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **jedes Mal** — every time *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **noch mal** — again *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+- **jedes Mal, wenn ...** — every time ... *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **das erste Mal** — the first time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **das letzte Mal** — the last time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+
 **Source:** Netzwerk neu A1 K3 8 (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

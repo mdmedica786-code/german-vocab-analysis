@@ -29,6 +29,12 @@ status: "new"
 > Ich bin allergisch gegen Katzenhaare.
 > *I am allergic to cat hair.*
 
+**Phrases & Expressions:**
+- **Ich bin allergisch gegen Penicillin.** — I am allergic to penicillin. *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Patient: Allergie nennen]] · A2)*
+- **allergisch gegen** — *allergic*
+- **allergisch reagieren** — *allergic*
+- **eine allergische Reaktion** — *allergic*
+
 **Collocations**
 - allergisch gegen
 - allergisch reagieren

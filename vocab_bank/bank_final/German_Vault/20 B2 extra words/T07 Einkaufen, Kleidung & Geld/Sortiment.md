@@ -33,6 +33,11 @@ status: "new"
 > Der Laden hat ein großes Sortiment an Bio-Produkten.
 > *The shop has a large range of organic products.*
 
+**Phrases & Expressions:**
+- **das Sortiment erweitern** — *range of goods; assortment*
+- **ein breites Sortiment** — *range of goods; assortment*
+- **im Sortiment haben** — *range of goods; assortment*
+
 **Collocations**
 - das Sortiment erweitern
 - ein breites Sortiment

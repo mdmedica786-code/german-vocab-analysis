@@ -31,6 +31,11 @@ status: "new"
 > Mit einem Kredit überbrückte er die Zeit bis zum ersten Gehalt.
 > *With a loan he bridged the time until his first salary.*
 
+**Phrases & Expressions:**
+- **eine Zeit überbrücken** — *to bridge; to tide over*
+- **Gegensätze überbrücken** — *to bridge; to tide over*
+- **eine Lücke überbrücken** — *to bridge; to tide over*
+
 **Collocations**
 - eine Zeit überbrücken
 - Gegensätze überbrücken

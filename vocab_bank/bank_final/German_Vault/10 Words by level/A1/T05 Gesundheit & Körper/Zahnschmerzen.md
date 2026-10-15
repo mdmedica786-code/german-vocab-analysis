@@ -34,6 +34,9 @@ status: "new"
 > Seit gestern habe ich Zahnschmerzen.
 > *Since yesterday I have had toothache.*
 
+**Phrases & Expressions:**
+- **Seit gestern habe ich Zahnschmerzen** — *Since yesterday I have had toothache* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 12a (Fit und gesund)
 <!-- bank:end -->
 

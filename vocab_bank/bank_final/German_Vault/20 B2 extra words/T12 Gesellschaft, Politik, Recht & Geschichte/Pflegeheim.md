@@ -33,6 +33,11 @@ status: "new"
 > Seine Großmutter lebt seit zwei Jahren im Pflegeheim.
 > *His grandmother has lived in a nursing home for two years.*
 
+**Phrases & Expressions:**
+- **im Pflegeheim leben** — *nursing home*
+- **einen Platz im Pflegeheim suchen** — *nursing home*
+- **ins Pflegeheim ziehen** — *nursing home*
+
 **Collocations**
 - im Pflegeheim leben
 - einen Platz im Pflegeheim suchen

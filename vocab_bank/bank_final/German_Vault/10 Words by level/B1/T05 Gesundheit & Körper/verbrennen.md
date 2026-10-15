@@ -33,6 +33,9 @@ status: "new"
 > Ich werde alle Briefe verbrennen.
 > *I will burn all the letters.*
 
+**Phrases & Expressions:**
+- **Ich werde alle Briefe verbrennen** — *I will burn all the letters* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

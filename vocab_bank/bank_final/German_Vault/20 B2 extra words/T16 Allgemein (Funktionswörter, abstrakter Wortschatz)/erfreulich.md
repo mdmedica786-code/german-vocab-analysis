@@ -29,6 +29,11 @@ status: "new"
 > Es ist erfreulich, dass die Zahlen steigen.
 > *It is gratifying that the figures are rising.*
 
+**Phrases & Expressions:**
+- **eine erfreuliche Nachricht** — *pleasing; gratifying*
+- **erfreulich früh** — *pleasing; gratifying*
+- **erfreulicherweise** — *pleasing; gratifying*
+
 **Collocations**
 - eine erfreuliche Nachricht
 - erfreulich früh

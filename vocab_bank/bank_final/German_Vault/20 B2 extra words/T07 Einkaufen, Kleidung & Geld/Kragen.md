@@ -33,6 +33,11 @@ status: "new"
 > Der Kragen des Hemdes ist schmutzig.
 > *The collar of the shirt is dirty.*
 
+**Phrases & Expressions:**
+- **den Kragen hochschlagen** — *collar*
+- **ein weißer Kragen** — *collar*
+- **der Kragen ist zu eng** — *collar*
+
 **Collocations**
 - den Kragen hochschlagen
 - ein weißer Kragen

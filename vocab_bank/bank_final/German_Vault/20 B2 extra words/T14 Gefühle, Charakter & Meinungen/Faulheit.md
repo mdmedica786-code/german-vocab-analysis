@@ -33,6 +33,11 @@ status: "new"
 > Aus Faulheit hat er die Hausaufgaben nicht gemacht.
 > *Out of laziness he did not do his homework.*
 
+**Phrases & Expressions:**
+- **aus Faulheit** — *laziness*
+- **pure Faulheit** — *laziness*
+- **Faulheit überwinden** — *laziness*
+
 **Collocations**
 - aus Faulheit
 - pure Faulheit

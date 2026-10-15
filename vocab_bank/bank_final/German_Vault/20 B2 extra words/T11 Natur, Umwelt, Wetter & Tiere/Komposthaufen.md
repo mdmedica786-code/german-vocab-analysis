@@ -33,6 +33,11 @@ status: "new"
 > Gemüsereste kommen auf den Komposthaufen.
 > *Vegetable scraps go onto the compost heap.*
 
+**Phrases & Expressions:**
+- **einen Komposthaufen anlegen** — *compost heap*
+- **auf den Komposthaufen werfen** — *compost heap*
+- **der Komposthaufen riecht** — *compost heap*
+
 **Collocations**
 - einen Komposthaufen anlegen
 - auf den Komposthaufen werfen

@@ -31,6 +31,11 @@ status: "new"
 > Der Hund wimmerte leise vor der Tür.
 > *The dog whimpered softly in front of the door.*
 
+**Phrases & Expressions:**
+- **leise wimmern** — *to whimper*
+- **vor Schmerz wimmern** — *to whimper*
+- **ein wimmerndes Kind** — *to whimper*
+
 **Collocations**
 - leise wimmern
 - vor Schmerz wimmern

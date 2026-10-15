@@ -31,6 +31,9 @@ status: "new"
 > Bist du fertig?
 > *Are you finished?*
 
+**Phrases & Expressions:**
+- **Bist du fertig** — *Are you finished* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 3a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

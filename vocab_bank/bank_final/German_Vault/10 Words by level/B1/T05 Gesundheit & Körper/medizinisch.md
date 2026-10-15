@@ -30,6 +30,12 @@ status: "new"
 > Der Patient braucht medizinische Hilfe.
 > *The patient needs medical help.*
 
+**Phrases & Expressions:**
+- **medizinische Versorgung** — *medical*
+- **medizinische Behandlung** — *medical*
+- **medizinisch notwendig** — *medical*
+- **medizinischer Notfall** — *medical*
+
 **Collocations**
 - medizinische Versorgung
 - medizinische Behandlung

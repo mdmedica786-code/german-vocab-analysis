@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Matratze ist zu hart.
 > *The mattress is too hard.*
+
+**Phrases & Expressions:**
+- **Die Matratze ist zu hart** — *The mattress is too hard* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

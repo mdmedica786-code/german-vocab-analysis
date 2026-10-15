@@ -30,6 +30,11 @@ status: "new"
 > Vor der Wahl habe ich den Wahl-O-Mat benutzt.
 > *Before the election I used the Wahl-O-Mat.*
 
+**Phrases & Expressions:**
+- **den Wahl-O-Mat benutzen** — *Wahl-O-Mat (online tool comparing voters' views with party positions)*
+- **den Wahl-O-Mat ausfüllen** — *Wahl-O-Mat (online tool comparing voters' views with party positions)*
+- **mit dem Wahl-O-Mat vergleichen** — *Wahl-O-Mat (online tool comparing voters' views with party positions)*
+
 **Collocations**
 - den Wahl-O-Mat benutzen
 - den Wahl-O-Mat ausfüllen

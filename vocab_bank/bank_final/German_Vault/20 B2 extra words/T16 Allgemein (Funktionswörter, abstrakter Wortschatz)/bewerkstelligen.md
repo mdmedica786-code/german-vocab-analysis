@@ -31,6 +31,10 @@ status: "new"
 > Wie sollen wir das bis morgen bewerkstelligen?
 > *How are we supposed to manage that by tomorrow?*
 
+**Phrases & Expressions:**
+- **etwas bewerkstelligen** — *to manage; to bring about*
+- **schwer zu bewerkstelligen** — *to manage; to bring about*
+
 **Collocations**
 - etwas bewerkstelligen
 - schwer zu bewerkstelligen

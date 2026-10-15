@@ -33,6 +33,11 @@ status: "new"
 > Auf den Preis gab es einen Abschlag von zehn Prozent.
 > *There was a ten per cent discount on the price.*
 
+**Phrases & Expressions:**
+- **einen Abschlag zahlen** — *discount; advance payment*
+- **ein Abschlag von fünf Prozent** — *discount; advance payment*
+- **Abschläge hinnehmen** — *discount; advance payment*
+
 **Collocations**
 - einen Abschlag zahlen
 - ein Abschlag von fünf Prozent

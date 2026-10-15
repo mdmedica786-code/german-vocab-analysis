@@ -29,6 +29,11 @@ status: "new"
 > Sie ist ein sehr ausgeglichener Mensch.
 > *She is a very even-tempered person.*
 
+**Phrases & Expressions:**
+- **ein ausgeglichener Mensch** — *balanced; even-tempered*
+- **ausgeglichen sein** — *balanced; even-tempered*
+- **eine ausgeglichene Bilanz** — *balanced; even-tempered*
+
 **Collocations**
 - ein ausgeglichener Mensch
 - ausgeglichen sein

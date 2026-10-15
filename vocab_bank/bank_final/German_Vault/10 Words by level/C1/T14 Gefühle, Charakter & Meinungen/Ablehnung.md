@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Ablehnung seines Antrags hat ihn enttäuscht.
 > *The rejection of his application disappointed him.*
+
+**Phrases & Expressions:**
+- **Die Ablehnung seines Antrags hat ihn enttäuscht** — *The rejection of his application disappointed him* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

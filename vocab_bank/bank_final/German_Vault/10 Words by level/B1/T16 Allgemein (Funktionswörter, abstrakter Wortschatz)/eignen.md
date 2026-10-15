@@ -34,6 +34,9 @@ status: "new"
 > Dieses Hotel eignet sich besonders für Familien mit Kindern.
 > *This hotel is particularly suitable for families with children.*
 
+**Phrases & Expressions:**
+- **Dieses Hotel eignet sich besonders für Familien mit Kindern** — *This hotel is particularly suitable for families with children* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

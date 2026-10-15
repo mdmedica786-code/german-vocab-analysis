@@ -33,6 +33,11 @@ status: "new"
 > Er machte eine kurze Handbewegung.
 > *He made a short gesture with his hand.*
 
+**Phrases & Expressions:**
+- **eine Handbewegung machen** — *hand gesture; wave of the hand*
+- **mit einer Handbewegung** — *hand gesture; wave of the hand*
+- **eine abwehrende Handbewegung** — *hand gesture; wave of the hand*
+
 **Collocations**
 - eine Handbewegung machen
 - mit einer Handbewegung

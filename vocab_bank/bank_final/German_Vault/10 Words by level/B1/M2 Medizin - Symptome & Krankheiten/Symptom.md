@@ -33,6 +33,12 @@ status: "new"
 > Fieber ist ein häufiges Symptom einer Infektion.
 > *Fever is a common symptom of an infection.*
 
+**Phrases & Expressions:**
+- **typisches Symptom** — *symptom*
+- **Symptome treten auf** — *symptom*
+- **Symptome lindern** — *symptom*
+- **Symptome abklären** — *symptom*
+
 **Collocations**
 - typisches Symptom
 - Symptome treten auf

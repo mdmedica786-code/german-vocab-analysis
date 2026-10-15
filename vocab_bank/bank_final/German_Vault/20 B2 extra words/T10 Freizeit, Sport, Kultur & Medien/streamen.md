@@ -31,6 +31,11 @@ status: "new"
 > Am Abend streamen wir gern Serien.
 > *In the evening we like to stream series.*
 
+**Phrases & Expressions:**
+- **einen Film streamen** — *to stream (video or audio)*
+- **Musik streamen** — *to stream (video or audio)*
+- **live streamen** — *to stream (video or audio)*
+
 **Collocations**
 - einen Film streamen
 - Musik streamen

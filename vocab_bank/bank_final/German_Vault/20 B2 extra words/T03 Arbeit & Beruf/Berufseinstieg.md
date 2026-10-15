@@ -30,6 +30,11 @@ status: "new"
 > Der Berufseinstieg fiel ihr nach dem Studium leicht.
 > *The start of her career was easy for her after her studies.*
 
+**Phrases & Expressions:**
+- **der Berufseinstieg nach dem Studium** — *start of one's career; entry into working life*
+- **einen guten Berufseinstieg haben** — *start of one's career; entry into working life*
+- **beim Berufseinstieg helfen** — *start of one's career; entry into working life*
+
 **Collocations**
 - der Berufseinstieg nach dem Studium
 - einen guten Berufseinstieg haben

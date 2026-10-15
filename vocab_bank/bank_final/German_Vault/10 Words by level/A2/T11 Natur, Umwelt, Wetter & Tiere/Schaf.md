@@ -35,6 +35,9 @@ status: "new"
 > Auf der Wiese stehen viele Schafe.
 > *Many sheep are standing in the meadow.*
 
+**Phrases & Expressions:**
+- **Auf der Wiese stehen viele Schafe** — *Many sheep are standing in the meadow* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12a (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

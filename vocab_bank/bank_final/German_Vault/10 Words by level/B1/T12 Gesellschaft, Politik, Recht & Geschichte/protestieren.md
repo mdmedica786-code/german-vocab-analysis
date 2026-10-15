@@ -32,6 +32,9 @@ status: "new"
 > Wir protestieren gegen den Bau der Autobahn.
 > *We are protesting against the building of the motorway.*
 
+**Phrases & Expressions:**
+- **Wir protestieren gegen den Bau der Autobahn** — *We are protesting against the building of the motorway* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

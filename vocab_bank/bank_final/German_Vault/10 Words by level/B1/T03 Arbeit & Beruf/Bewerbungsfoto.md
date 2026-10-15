@@ -31,6 +31,9 @@ status: "new"
 > Für die Bewerbung brauche ich ein aktuelles Bewerbungsfoto.
 > *For the application I need a recent application photo.*
 
+**Phrases & Expressions:**
+- **Für die Bewerbung brauche ich ein aktuelles Bewerbungsfoto** — *For the application I need a recent application photo* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

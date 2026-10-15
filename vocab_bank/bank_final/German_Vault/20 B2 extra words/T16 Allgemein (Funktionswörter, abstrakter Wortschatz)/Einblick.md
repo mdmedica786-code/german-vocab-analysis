@@ -33,6 +33,11 @@ status: "new"
 > Das Praktikum gab mir einen guten Einblick in den Beruf.
 > *The internship gave me a good insight into the job.*
 
+**Phrases & Expressions:**
+- **Einblick gewinnen** — *insight*
+- **einen Einblick geben** — *insight*
+- **Einblick in etwas haben** — *insight*
+
 **Collocations**
 - Einblick gewinnen
 - einen Einblick geben

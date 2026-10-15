@@ -34,6 +34,9 @@ status: "new"
 > Im Hochseilgarten klettern wir zwischen den Bäumen.
 > *In the high ropes course we climb between the trees.*
 
+**Phrases & Expressions:**
+- **Im Hochseilgarten klettern wir zwischen den Bäumen** — *In the high ropes course we climb between the trees* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 10a (Sportlich, sportlich)
 <!-- bank:end -->
 

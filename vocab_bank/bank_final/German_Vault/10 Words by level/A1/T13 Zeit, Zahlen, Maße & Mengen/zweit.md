@@ -31,6 +31,9 @@ status: "new"
 > Arbeiten Sie zu zweit.
 > *Work as a pair.*
 
+**Phrases & Expressions:**
+- **Arbeiten Sie zu zweit** — *Work as a pair* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 8c (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der Verkehr kam zum Stillstand.
 > *Traffic came to a standstill.*
 
+**Phrases & Expressions:**
+- **zum Stillstand kommen** — *standstill; stagnation*
+- **zum Stillstand bringen** — *standstill; stagnation*
+- **ein Stillstand der Verhandlungen** — *standstill; stagnation*
+
 **Collocations**
 - zum Stillstand kommen
 - zum Stillstand bringen

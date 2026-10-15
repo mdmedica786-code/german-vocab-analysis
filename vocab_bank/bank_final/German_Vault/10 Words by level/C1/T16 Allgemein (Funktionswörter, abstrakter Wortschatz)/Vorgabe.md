@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Wir müssen die Vorgaben des Chefs beachten.
 > *We have to observe the boss's guidelines.*
+
+**Phrases & Expressions:**
+- **Wir müssen die Vorgaben des Chefs beachten** — *We have to observe the boss's guidelines* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,10 @@ status: "new"
 > Ich suche dir die Unterlagen heraus.
 > *I will look out the documents for you.*
 
+**Phrases & Expressions:**
+- **es stellte sich heraus, dass ...** — it turned out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **es stellt sich heraus, dass ...** — it turns out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

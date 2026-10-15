@@ -29,6 +29,11 @@ status: "new"
 > Er bedankte sich unbeholfen bei den Gästen.
 > *He thanked the guests awkwardly.*
 
+**Phrases & Expressions:**
+- **unbeholfen wirken** — *clumsy; awkward*
+- **sich unbeholfen bewegen** — *clumsy; awkward*
+- **unbeholfen formulieren** — *clumsy; awkward*
+
 **Collocations**
 - unbeholfen wirken
 - sich unbeholfen bewegen

@@ -33,6 +33,11 @@ status: "new"
 > Der Postbote klingelt jeden Morgen um zehn Uhr.
 > *The postman rings every morning at ten o'clock.*
 
+**Phrases & Expressions:**
+- **der Postbote kommt** — *postman; postie*
+- **beim Postboten abholen** — *postman; postie*
+- **den Postboten fragen** — *postman; postie*
+
 **Collocations**
 - der Postbote kommt
 - beim Postboten abholen

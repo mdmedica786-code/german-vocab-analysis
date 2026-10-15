@@ -34,6 +34,9 @@ status: "new"
 > Wir machen eine Schifffahrt auf dem Rhein.
 > *We are taking a boat trip on the Rhine.*
 
+**Phrases & Expressions:**
+- **Wir machen eine Schifffahrt auf dem Rhein** — *We are taking a boat trip on the Rhine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 6a (Gute Reise!)
 <!-- bank:end -->
 

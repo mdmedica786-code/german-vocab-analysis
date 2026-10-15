@@ -34,6 +34,9 @@ status: "new"
 > Ein Finalsatz beginnt mit damit oder um zu.
 > *A purpose clause begins with damit or um zu.*
 
+**Phrases & Expressions:**
+- **Ein Finalsatz beginnt mit damit oder um zu** — *A purpose clause begins with damit or um zu* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13e (Umweltfreundlich?)
 <!-- bank:end -->
 

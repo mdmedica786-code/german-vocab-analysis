@@ -33,6 +33,11 @@ status: "new"
 > Dieses Fachbuch ist ein Standardwerk für Juristen.
 > *This specialist book is a standard work for lawyers.*
 
+**Phrases & Expressions:**
+- **ein Fachbuch lesen** — *specialist book*
+- **Fachbuch zum Thema** — *specialist book*
+- **ein aktuelles Fachbuch** — *specialist book*
+
 **Collocations**
 - ein Fachbuch lesen
 - Fachbuch zum Thema

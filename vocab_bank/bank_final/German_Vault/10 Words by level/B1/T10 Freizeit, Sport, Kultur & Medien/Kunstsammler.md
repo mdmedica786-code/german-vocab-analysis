@@ -34,6 +34,9 @@ status: "new"
 > Der Kunstsammler kauft ein Bild von Picasso.
 > *The art collector buys a picture by Picasso.*
 
+**Phrases & Expressions:**
+- **Der Kunstsammler kauft ein Bild von Picasso** — *The art collector buys a picture by Picasso* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 11a (Kunststücke)
 <!-- bank:end -->
 

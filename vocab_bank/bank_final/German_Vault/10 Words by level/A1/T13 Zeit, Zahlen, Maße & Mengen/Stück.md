@@ -35,6 +35,9 @@ status: "new"
 > Ich spiele ein Stück von Mozart am Klavier.
 > *I'm playing a piece by Mozart on the piano.*
 
+**Phrases & Expressions:**
+- **Ich spiele ein Stück von Mozart am Klavier** — *I'm playing a piece by Mozart on the piano* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 6a (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

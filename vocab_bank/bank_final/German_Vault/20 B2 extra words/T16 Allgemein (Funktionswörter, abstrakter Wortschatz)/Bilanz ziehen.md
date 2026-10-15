@@ -29,6 +29,10 @@ status: "new"
 > Am Jahresende ziehen wir Bilanz.
 > *At the end of the year we take stock.*
 
+**Phrases & Expressions:**
+- **eine positive Bilanz ziehen** — *to take stock; to draw conclusions*
+- **Bilanz nach einem Jahr** — *to take stock; to draw conclusions*
+
 **Collocations**
 - eine positive Bilanz ziehen
 - Bilanz nach einem Jahr

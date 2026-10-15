@@ -33,6 +33,11 @@ status: "new"
 > Die Zuordnung der Begriffe fällt schwer.
 > *Matching the terms is difficult.*
 
+**Phrases & Expressions:**
+- **eine eindeutige Zuordnung** — *assignment; allocation*
+- **die Zuordnung zu einer Gruppe** — *assignment; allocation*
+- **die Zuordnung der Aufgaben** — *assignment; allocation*
+
 **Collocations**
 - eine eindeutige Zuordnung
 - die Zuordnung zu einer Gruppe

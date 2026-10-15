@@ -35,6 +35,9 @@ status: "new"
 > In dem Film tragen die Leute bunte Kostüme.
 > *In the film the people wear colourful costumes.*
 
+**Phrases & Expressions:**
+- **In dem Film tragen die Leute bunte Kostüme** — *In the film the people wear colourful costumes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7a ÜB (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

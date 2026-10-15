@@ -34,6 +34,9 @@ status: "new"
 > In der Sozialsiedlung wohnen viele Familien.
 > *Many families live in the social housing estate.*
 
+**Phrases & Expressions:**
+- **In der Sozialsiedlung wohnen viele Familien** — *Many families live in the social housing estate* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

@@ -35,6 +35,14 @@ status: "new"
 > Aber es meldet sich niemand.
 > *But nobody answers.*
 
+**Phrases & Expressions:**
+- **Ich melde mich noch einmal bei dir.** — I'll get in touch with you again. *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Kontakt halten]] · B1)*
+- **Sollte das Problem weiter bestehen, melden Sie sich bitte.** — Should the problem persist, please get in touch. *([[B2-10 Bedingungen, Folgen und irreale Wünsche|Bedingung ausdrücken]] · B2)*
+- **Ich melde mich wegen eines Schadens in meiner Wohnung.** — I'm contacting you about damage in my flat. *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Vermieter kontaktieren]] · B1)*
+- **Falls Nebenwirkungen auftreten, melden Sie sich bitte sofort.** — If side effects occur, please contact us immediately. *([[FSP-11 Therapie und Medikamente erklären|Nebenwirkungen erklären]] · B2)*
+- **Ich melde mich, sobald ich mehr weiß.** — I'll get back to you as soon as I know more. *([[FSP-19 Übergabe, Konsil und Rücksprache|Rückmeldung geben]] · B2)*
+- **sich melden** — *to report; to answer (sich melden)*
+
 **Collocations**
 - sich melden
 - einen Unfall melden

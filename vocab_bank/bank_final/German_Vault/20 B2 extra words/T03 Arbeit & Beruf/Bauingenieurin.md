@@ -33,6 +33,11 @@ status: "new"
 > Meine Schwester ist Bauingenieurin in München.
 > *My sister is a civil engineer in Munich.*
 
+**Phrases & Expressions:**
+- **als Bauingenieurin arbeiten** — *civil engineer (female)*
+- **eine junge Bauingenieurin** — *civil engineer (female)*
+- **Bauingenieurin werden** — *civil engineer (female)*
+
 **Collocations**
 - als Bauingenieurin arbeiten
 - eine junge Bauingenieurin

@@ -34,6 +34,9 @@ status: "new"
 > Der Nationalfeiertag in Deutschland ist am 3. Oktober.
 > *The national holiday in Germany is on 3 October.*
 
+**Phrases & Expressions:**
+- **Der Nationalfeiertag in Deutschland ist am 3. Oktober** — *The national holiday in Germany is on 3 October* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

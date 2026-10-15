@@ -33,6 +33,11 @@ status: "new"
 > Die Korrespondenz mit dem Amt dauert lange.
 > *The correspondence with the office takes a long time.*
 
+**Phrases & Expressions:**
+- **die Korrespondenz führen** — *correspondence*
+- **in Korrespondenz stehen** — *correspondence*
+- **die schriftliche Korrespondenz** — *correspondence*
+
 **Collocations**
 - die Korrespondenz führen
 - in Korrespondenz stehen

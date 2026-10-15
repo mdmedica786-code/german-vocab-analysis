@@ -34,6 +34,9 @@ status: "new"
 > Die Berufsfeuerwehr war in fünf Minuten da.
 > *The professional fire brigade was there in five minutes.*
 
+**Phrases & Expressions:**
+- **Die Berufsfeuerwehr war in fünf Minuten da** — *The professional fire brigade was there in five minutes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

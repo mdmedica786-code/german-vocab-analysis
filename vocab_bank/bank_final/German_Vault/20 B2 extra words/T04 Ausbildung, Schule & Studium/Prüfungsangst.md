@@ -33,6 +33,11 @@ status: "new"
 > Viele Studierende leiden unter Prüfungsangst.
 > *Many students suffer from exam anxiety.*
 
+**Phrases & Expressions:**
+- **unter Prüfungsangst leiden** — *exam anxiety*
+- **Prüfungsangst haben** — *exam anxiety*
+- **Prüfungsangst überwinden** — *exam anxiety*
+
 **Collocations**
 - unter Prüfungsangst leiden
 - Prüfungsangst haben

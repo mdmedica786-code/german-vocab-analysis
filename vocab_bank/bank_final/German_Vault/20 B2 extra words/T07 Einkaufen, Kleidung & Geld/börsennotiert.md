@@ -29,6 +29,11 @@ status: "new"
 > Das Unternehmen ist seit 2010 börsennotiert.
 > *The company has been listed on the stock exchange since 2010.*
 
+**Phrases & Expressions:**
+- **ein börsennotiertes Unternehmen** — *listed on the stock exchange*
+- **börsennotiert sein** — *listed on the stock exchange*
+- **börsennotierte Firmen** — *listed on the stock exchange*
+
 **Collocations**
 - ein börsennotiertes Unternehmen
 - börsennotiert sein

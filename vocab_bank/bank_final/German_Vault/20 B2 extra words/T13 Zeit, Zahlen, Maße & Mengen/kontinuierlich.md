@@ -29,6 +29,12 @@ status: "new"
 > Die Preise steigen kontinuierlich.
 > *Prices are rising continuously.*
 
+**Phrases & Expressions:**
+- **... nimmt kontinuierlich zu.** — ... is steadily increasing. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Anstieg beschreiben]] · B2)*
+- **kontinuierlich steigen** — *continuous*
+- **kontinuierliche Verbesserung** — *continuous*
+- **kontinuierlich arbeiten** — *continuous*
+
 **Collocations**
 - kontinuierlich steigen
 - kontinuierliche Verbesserung

@@ -31,6 +31,11 @@ status: "new"
 > Wir benachrichtigen Sie, sobald das Paket eintrifft.
 > *We will notify you as soon as the parcel arrives.*
 
+**Phrases & Expressions:**
+- **jemanden benachrichtigen** — *to notify; to inform*
+- **die Polizei benachrichtigen** — *to notify; to inform*
+- **schriftlich benachrichtigen** — *to notify; to inform*
+
 **Collocations**
 - jemanden benachrichtigen
 - die Polizei benachrichtigen

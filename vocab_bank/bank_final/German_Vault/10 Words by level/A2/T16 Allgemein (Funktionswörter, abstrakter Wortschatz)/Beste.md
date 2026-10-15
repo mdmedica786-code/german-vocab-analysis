@@ -35,6 +35,10 @@ status: "new"
 > Ich wünsche dir das Beste.
 > *I wish you all the best.*
 
+**Phrases & Expressions:**
+- **Das Beste, was Sie für Ihre Gesundheit tun können, ist, mit dem Rauchen aufzuhören.** — The best thing you can do for your health is to stop smoking. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Rauchstopp]] · B2)*
+- **Wir geben unser Bestes, ich informiere Sie, sobald ich mehr weiß.** — We are doing our best; I will inform you as soon as I know more. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Angehörige informieren]] · B2)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt)
 <!-- bank:end -->
 

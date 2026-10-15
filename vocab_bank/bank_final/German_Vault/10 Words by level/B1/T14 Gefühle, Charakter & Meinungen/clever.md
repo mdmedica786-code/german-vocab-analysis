@@ -30,6 +30,9 @@ status: "new"
 > Das war eine clevere Idee.
 > *That was a clever idea.*
 
+**Phrases & Expressions:**
+- **Das war eine clevere Idee** — *That was a clever idea* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

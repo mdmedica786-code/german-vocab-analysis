@@ -34,6 +34,14 @@ status: "new"
 > Bitte geben Sie Ihren Namen an.
 > *Please state your name.*
 
+**Phrases & Expressions:**
+- **In meinem Heimatland gibt es ...** — In my home country there is/are ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Heimatland beschreiben]] · B1)*
+- **Bei mir gibt es viel Neues: ...** — There is a lot of news with me: ... *([[B1-12 Persönliche E-Mail und Brief|Neuigkeiten erzählen]] · B1)*
+- **Im Zentrum gibt es viele Geschäfte und Cafés.** — In the centre there are many shops and cafés. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ort beschreiben]] · B1)*
+- **Gibt es Möglichkeiten zur Weiterbildung?** — Are there opportunities for further training? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Fragen an Arbeitgeber]] · B2)*
+- **Gibt es dazu noch Anmerkungen oder Fragen?** — Are there any further comments or questions on this? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Besprechung leiten]] · B2)*
+- **Gibt es etwas, das die Beschwerden auslöst?** — Is there anything that triggers the complaints? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Auslöser erfragen]] · B1)*
+
 **Source:** Netzwerk neu B1 K12 3b ÜB (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

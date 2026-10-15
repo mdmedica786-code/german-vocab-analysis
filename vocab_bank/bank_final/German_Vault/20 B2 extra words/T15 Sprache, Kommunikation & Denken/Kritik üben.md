@@ -26,6 +26,10 @@ status: "new"
 > Viele Bürger üben Kritik an der neuen Regelung.
 > *Many citizens criticise the new regulation.*
 
+**Phrases & Expressions:**
+- **Kritik üben an + Dat.** — *to criticise*
+- **scharfe Kritik üben** — *to criticise*
+
 **Collocations**
 - Kritik üben an + Dat.
 - scharfe Kritik üben

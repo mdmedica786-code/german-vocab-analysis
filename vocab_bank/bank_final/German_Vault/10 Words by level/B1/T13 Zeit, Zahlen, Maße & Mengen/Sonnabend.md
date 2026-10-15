@@ -35,6 +35,9 @@ status: "new"
 > Am Sonnabend gehen wir einkaufen.
 > *On Saturday we go shopping.*
 
+**Phrases & Expressions:**
+- **Am Sonnabend gehen wir einkaufen** — *On Saturday we go shopping* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 5b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

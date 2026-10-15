@@ -33,6 +33,11 @@ status: "new"
 > Der Schmuck ist aus Silber.
 > *The jewellery is made of silver.*
 
+**Phrases & Expressions:**
+- **aus Silber** — *silver*
+- **Gold und Silber** — *silver*
+- **echtes Silber** — *silver*
+
 **Collocations**
 - aus Silber
 - Gold und Silber

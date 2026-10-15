@@ -34,6 +34,9 @@ status: "new"
 > Die Bewerberin hat einen guten Eindruck gemacht.
 > *The applicant made a good impression.*
 
+**Phrases & Expressions:**
+- **Die Bewerberin hat einen guten Eindruck gemacht** — *The applicant made a good impression* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

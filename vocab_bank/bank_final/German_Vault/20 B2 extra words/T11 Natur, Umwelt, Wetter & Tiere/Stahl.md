@@ -33,6 +33,11 @@ status: "new"
 > Die Brücke besteht aus Stahl und Beton.
 > *The bridge is made of steel and concrete.*
 
+**Phrases & Expressions:**
+- **rostfreier Stahl** — *steel*
+- **aus Stahl** — *steel*
+- **Stahl und Eisen** — *steel*
+
 **Collocations**
 - rostfreier Stahl
 - aus Stahl

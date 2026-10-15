@@ -34,6 +34,9 @@ status: "new"
 > Auf dem Tisch stehen rote Nelken.
 > *Red carnations are on the table.*
 
+**Phrases & Expressions:**
+- **Auf dem Tisch stehen rote Nelken** — *Red carnations are on the table* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 12a (Fit und gesund)
 <!-- bank:end -->
 

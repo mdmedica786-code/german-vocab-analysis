@@ -32,6 +32,14 @@ status: "new"
 > Die Untersuchung hat keine neuen Erkenntnisse ergeben.
 > *The investigation produced no new findings.*
 
+**Phrases & Expressions:**
+- **... ergibt sich ...** — ... results from ... *([[Folgen (consequence)|Folgen (consequence)]] · C1)*
+- **ergibt sich aus ...** — results from ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · C1)*
+- **ergeben sich** — arise; result *([[Folgen (consequence)|Folgen (consequence)]] · C1)*
+- **Daraus ergibt sich, dass ...** — From this it follows that ... *([[B2-08 Zusammenfassen, Fazit und Schlussfolgerung|Schlussfolgerung ziehen]] · B2)*
+- **Die Untersuchung hat keinen auffälligen Befund ergeben.** — The examination did not reveal any abnormal finding. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Ergebnisse mitteilen]] · B2)*
+- **Die Untersuchung hat ergeben, dass Sie ... haben.** — The examination has shown that you have ... *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Diagnose erklären]] · B2)*
+
 **Collocations**
 - sich ergeben
 - ein Ergebnis ergeben

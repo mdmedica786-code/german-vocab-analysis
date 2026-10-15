@@ -26,6 +26,10 @@ status: "new"
 > Die Zahlen stehen im Widerspruch zu den Aussagen der Firma.
 > *The figures contradict the company's statements.*
 
+**Phrases & Expressions:**
+- **im Widerspruch stehen zu + Dat.** — *to contradict; to be at odds*
+- **in Widerspruch geraten** — *to contradict; to be at odds*
+
 **Collocations**
 - im Widerspruch stehen zu + Dat.
 - in Widerspruch geraten

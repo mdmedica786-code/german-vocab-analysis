@@ -33,6 +33,11 @@ status: "new"
 > Es hat den Anschein, dass er krank ist.
 > *It appears that he is ill.*
 
+**Phrases & Expressions:**
+- **dem Anschein nach** — *appearance; semblance*
+- **den Anschein erwecken** — *appearance; semblance*
+- **allem Anschein nach** — *appearance; semblance*
+
 **Collocations**
 - dem Anschein nach
 - den Anschein erwecken

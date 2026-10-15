@@ -29,6 +29,11 @@ status: "new"
 > Wir nutzen regenerative Energien wie Sonne und Wind.
 > *We use renewable energies such as sun and wind.*
 
+**Phrases & Expressions:**
+- **regenerative Energie** — *renewable; regenerative*
+- **regenerativ erzeugt** — *renewable; regenerative*
+- **regenerative Energiequellen** — *renewable; regenerative*
+
 **Collocations**
 - regenerative Energie
 - regenerativ erzeugt

@@ -33,6 +33,11 @@ status: "new"
 > An der Autobahn gibt es immer mehr Ladestationen.
 > *There are more and more charging stations on the motorway.*
 
+**Phrases & Expressions:**
+- **eine Ladestation finden** — *charging station*
+- **an der Ladestation laden** — *charging station*
+- **öffentliche Ladestation** — *charging station*
+
 **Collocations**
 - eine Ladestation finden
 - an der Ladestation laden

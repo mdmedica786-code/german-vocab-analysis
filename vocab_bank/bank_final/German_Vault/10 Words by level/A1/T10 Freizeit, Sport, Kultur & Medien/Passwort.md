@@ -35,6 +35,9 @@ status: "new"
 > Bitte schreiben Sie Ihr Passwort.
 > *Please write your password.*
 
+**Phrases & Expressions:**
+- **Bitte schreiben Sie Ihr Passwort** — *Please write your password* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 6a (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->
 

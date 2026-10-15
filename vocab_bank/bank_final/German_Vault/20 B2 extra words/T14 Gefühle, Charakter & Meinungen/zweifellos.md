@@ -29,6 +29,9 @@ status: "new"
 > Sie ist zweifellos die beste Kandidatin.
 > *She is undoubtedly the best candidate.*
 
+**Phrases & Expressions:**
+- **Sie ist zweifellos die beste Kandidatin** — *She is undoubtedly the best candidate* *(Beispiel im Kontext)*
+
 **Exam use:** Sprechen, Schreiben
 <!-- bank:end -->
 

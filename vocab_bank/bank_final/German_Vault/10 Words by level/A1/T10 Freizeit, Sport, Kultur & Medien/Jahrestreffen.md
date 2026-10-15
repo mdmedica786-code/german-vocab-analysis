@@ -34,6 +34,9 @@ status: "new"
 > Das Jahrestreffen findet immer im Mai statt.
 > *The annual meeting always takes place in May.*
 
+**Phrases & Expressions:**
+- **Das Jahrestreffen findet immer im Mai statt** — *The annual meeting always takes place in May* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 7a (Arbeitsalltag)
 <!-- bank:end -->
 

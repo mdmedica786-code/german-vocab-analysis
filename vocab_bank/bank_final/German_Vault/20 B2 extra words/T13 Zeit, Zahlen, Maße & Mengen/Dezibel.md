@@ -33,6 +33,11 @@ status: "new"
 > Der Lärm auf der Straße beträgt über siebzig Dezibel.
 > *The noise on the street is over seventy decibels.*
 
+**Phrases & Expressions:**
+- **achtzig Dezibel** — *decibel*
+- **der Lärm in Dezibel** — *decibel*
+- **über 85 Dezibel** — *decibel*
+
 **Collocations**
 - achtzig Dezibel
 - der Lärm in Dezibel

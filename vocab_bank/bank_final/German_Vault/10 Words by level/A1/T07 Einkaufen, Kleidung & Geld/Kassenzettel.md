@@ -34,6 +34,9 @@ status: "new"
 > Bitte vergessen Sie den Kassenzettel nicht.
 > *Please don't forget your receipt.*
 
+**Phrases & Expressions:**
+- **Bitte vergessen Sie den Kassenzettel nicht** — *Please don't forget your receipt* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 6a (Guten Appetit!)
 <!-- bank:end -->
 

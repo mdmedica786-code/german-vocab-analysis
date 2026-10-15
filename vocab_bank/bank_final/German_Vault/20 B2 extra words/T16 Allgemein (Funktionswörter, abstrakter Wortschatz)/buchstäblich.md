@@ -29,6 +29,11 @@ status: "new"
 > Das war buchstäblich in letzter Sekunde.
 > *That was literally at the last second.*
 
+**Phrases & Expressions:**
+- **buchstäblich verstehen** — *literal; literally*
+- **buchstäblich über Nacht** — *literal; literally*
+- **im buchstäblichen Sinn** — *literal; literally*
+
 **Collocations**
 - buchstäblich verstehen
 - buchstäblich über Nacht

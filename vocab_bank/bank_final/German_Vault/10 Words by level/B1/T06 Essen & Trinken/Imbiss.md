@@ -35,6 +35,9 @@ status: "new"
 > Es ist Zeit für einen kleinen Imbiss.
 > *It is time for a little snack.*
 
+**Phrases & Expressions:**
+- **Es ist Zeit für einen kleinen Imbiss** — *It is time for a little snack* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 6a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

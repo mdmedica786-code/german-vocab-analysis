@@ -29,6 +29,11 @@ status: "new"
 > Die Renovierung war aufwendiger als geplant.
 > *The renovation was more costly than planned.*
 
+**Phrases & Expressions:**
+- **ein aufwendiges Verfahren** — *elaborate; costly; involving much effort*
+- **aufwendig gestaltet** — *elaborate; costly; involving much effort*
+- **aufwendig restaurieren** — *elaborate; costly; involving much effort*
+
 **Collocations**
 - ein aufwendiges Verfahren
 - aufwendig gestaltet

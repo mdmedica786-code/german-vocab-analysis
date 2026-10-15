@@ -30,6 +30,11 @@ status: "new"
 > Die Regenprognose für Sonntag ist nicht gut.
 > *The rain forecast for Sunday is not good.*
 
+**Phrases & Expressions:**
+- **die Regenprognose prüfen** — *rain forecast*
+- **eine Regenprognose abgeben** — *rain forecast*
+- **laut Regenprognose** — *rain forecast*
+
 **Collocations**
 - die Regenprognose prüfen
 - eine Regenprognose abgeben

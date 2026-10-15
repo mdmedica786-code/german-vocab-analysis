@@ -33,6 +33,11 @@ status: "new"
 > Sie hat ihre Klamotten im Schrank verstaut.
 > *She stowed her clothes in the wardrobe.*
 
+**Phrases & Expressions:**
+- **coole Klamotten** — *clothes (colloquial, usually plural)*
+- **neue Klamotten kaufen** — *clothes (colloquial, usually plural)*
+- **seine Klamotten packen** — *clothes (colloquial, usually plural)*
+
 **Collocations**
 - coole Klamotten
 - neue Klamotten kaufen

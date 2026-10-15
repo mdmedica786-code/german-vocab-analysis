@@ -30,6 +30,11 @@ status: "new"
 > Auf der Verpackung ist das Bio-Siegel zu erkennen.
 > *The organic label can be seen on the packaging.*
 
+**Phrases & Expressions:**
+- **das Bio-Siegel tragen** — *organic label*
+- **auf das Bio-Siegel achten** — *organic label*
+- **Produkte mit Bio-Siegel** — *organic label*
+
 **Collocations**
 - das Bio-Siegel tragen
 - auf das Bio-Siegel achten

@@ -33,6 +33,9 @@ status: "new"
 > Darf ich mal telefonieren?
 > *May I make a phone call?*
 
+**Phrases & Expressions:**
+- **Darf ich mal telefonieren** — *May I make a phone call* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 7b (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

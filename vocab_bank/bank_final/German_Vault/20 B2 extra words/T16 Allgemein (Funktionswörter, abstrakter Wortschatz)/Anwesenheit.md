@@ -33,6 +33,11 @@ status: "new"
 > Die Anwesenheit im Kurs ist Pflicht.
 > *Attendance in the course is compulsory.*
 
+**Phrases & Expressions:**
+- **in Anwesenheit von** — *presence; attendance*
+- **die Anwesenheit prüfen** — *presence; attendance*
+- **Anwesenheit Pflicht** — *presence; attendance*
+
 **Collocations**
 - in Anwesenheit von
 - die Anwesenheit prüfen

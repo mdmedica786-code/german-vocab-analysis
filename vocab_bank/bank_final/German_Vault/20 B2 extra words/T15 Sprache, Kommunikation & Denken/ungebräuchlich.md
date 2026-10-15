@@ -29,6 +29,11 @@ status: "new"
 > Dieses Wort ist heute ungebräuchlich.
 > *This word is uncommon today.*
 
+**Phrases & Expressions:**
+- **ungebräuchlich sein** — *uncommon; not in common use*
+- **ein ungebräuchliches Wort** — *uncommon; not in common use*
+- **heute ungebräuchlich** — *uncommon; not in common use*
+
 **Collocations**
 - ungebräuchlich sein
 - ein ungebräuchliches Wort

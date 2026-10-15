@@ -26,6 +26,10 @@ status: "new"
 > Für die Reise treffen wir schon jetzt Vorbereitungen.
 > *We are already making preparations for the trip.*
 
+**Phrases & Expressions:**
+- **Vorbereitungen treffen für + Akk.** — *to make preparations*
+- **Vorkehrungen treffen** — *to make preparations*
+
 **Collocations**
 - Vorbereitungen treffen für + Akk.
 - Vorkehrungen treffen

@@ -33,6 +33,11 @@ status: "new"
 > Die Nudeln kommen mit der Soße in eine Auflaufform.
 > *The pasta goes into a baking dish with the sauce.*
 
+**Phrases & Expressions:**
+- **in eine Auflaufform geben** — *baking dish; casserole dish*
+- **eine Auflaufform einfetten** — *baking dish; casserole dish*
+- **im Ofen in der Auflaufform backen** — *baking dish; casserole dish*
+
 **Collocations**
 - in eine Auflaufform geben
 - eine Auflaufform einfetten

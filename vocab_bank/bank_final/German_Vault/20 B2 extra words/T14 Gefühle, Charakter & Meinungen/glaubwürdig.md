@@ -29,6 +29,11 @@ status: "new"
 > Der Zeuge machte einen glaubwürdigen Eindruck.
 > *The witness made a credible impression.*
 
+**Phrases & Expressions:**
+- **eine glaubwürdige Quelle** — *credible; trustworthy*
+- **glaubwürdig wirken** — *credible; trustworthy*
+- **glaubwürdig erscheinen** — *credible; trustworthy*
+
 **Collocations**
 - eine glaubwürdige Quelle
 - glaubwürdig wirken

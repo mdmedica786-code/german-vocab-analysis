@@ -31,6 +31,9 @@ status: "new"
 > Freizeitkleidung ist im Angebot.
 > *Leisure clothes are on offer.*
 
+**Phrases & Expressions:**
+- **Freizeitkleidung ist im Angebot** — *Leisure clothes are on offer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

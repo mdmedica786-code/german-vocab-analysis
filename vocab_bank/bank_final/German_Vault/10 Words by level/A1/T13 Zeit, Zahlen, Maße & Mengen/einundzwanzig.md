@@ -31,6 +31,9 @@ status: "new"
 > Meine Tochter ist einundzwanzig Jahre alt.
 > *My daughter is twenty-one years old.*
 
+**Phrases & Expressions:**
+- **Meine Tochter ist einundzwanzig Jahre alt** — *My daughter is twenty-one years old* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Wie teuer sind die Zigaretten?
 > *How much are the cigarettes?*
 
+**Phrases & Expressions:**
+- **Rauchen Sie, und wenn ja, wie viele Zigaretten pro Tag?** — Do you smoke, and if so, how many cigarettes a day? *([[FSP-05 Familien- und Sozialanamnese|Rauchen erfragen]] · A2)*
+
 **Source:** Netzwerk neu A2 K1 9c (Und was machst du?) · Goethe word list A1
 <!-- bank:end -->
 

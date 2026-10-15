@@ -39,6 +39,9 @@ status: "new"
 > Kauf bitte noch Paradeiser auf dem Markt.
 > *Please buy some more tomatoes at the market.*
 
+**Phrases & Expressions:**
+- **Kauf bitte noch Paradeiser auf dem Markt** — *Please buy some more tomatoes at the market* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

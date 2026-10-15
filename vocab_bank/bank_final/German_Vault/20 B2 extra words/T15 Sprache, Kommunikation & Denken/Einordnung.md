@@ -33,6 +33,11 @@ status: "new"
 > Die Einordnung der Ergebnisse fällt schwer.
 > *Classifying the results is difficult.*
 
+**Phrases & Expressions:**
+- **eine Einordnung vornehmen** — *classification; categorisation*
+- **zur Einordnung** — *classification; categorisation*
+- **Einordnung in + Akk.** — *classification; categorisation*
+
 **Collocations**
 - eine Einordnung vornehmen
 - zur Einordnung

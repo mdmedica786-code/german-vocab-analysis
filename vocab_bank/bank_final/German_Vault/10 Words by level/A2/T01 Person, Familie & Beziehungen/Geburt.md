@@ -35,6 +35,9 @@ status: "new"
 > Wir gratulieren zur Geburt eures Kindes!
 > *We congratulate you on the birth of your child!*
 
+**Phrases & Expressions:**
+- **Wir gratulieren zur Geburt eures Kindes** — *We congratulate you on the birth of your child* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle) · Goethe word list B1
 <!-- bank:end -->
 

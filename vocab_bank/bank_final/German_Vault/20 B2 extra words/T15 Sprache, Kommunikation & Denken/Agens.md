@@ -37,6 +37,11 @@ status: "new"
 > Im Aktivsatz ist das Agens das Subjekt.
 > *In an active sentence the agent is the subject.*
 
+**Phrases & Expressions:**
+- **das Agens im Satz** — *agent (grammar: the one who acts)*
+- **das Agens nennen** — *agent (grammar: the one who acts)*
+- **Agens und Patiens** — *agent (grammar: the one who acts)*
+
 **Collocations**
 - das Agens im Satz
 - das Agens nennen

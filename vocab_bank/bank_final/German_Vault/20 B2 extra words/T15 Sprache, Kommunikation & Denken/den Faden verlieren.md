@@ -29,6 +29,10 @@ status: "new"
 > Mitten im Vortrag verlor sie den Faden.
 > *In the middle of the lecture she lost the thread.*
 
+**Phrases & Expressions:**
+- **den roten Faden verlieren** — *to lose the thread*
+- **den Faden wieder aufnehmen** — *to lose the thread*
+
 **Collocations**
 - den roten Faden verlieren
 - den Faden wieder aufnehmen

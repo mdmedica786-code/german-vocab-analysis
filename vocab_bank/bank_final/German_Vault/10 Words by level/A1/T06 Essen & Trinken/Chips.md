@@ -34,6 +34,9 @@ status: "new"
 > Zum Film essen wir Chips.
 > *With the film we eat crisps.*
 
+**Phrases & Expressions:**
+- **Zum Film essen wir Chips** — *With the film we eat crisps* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 1b (Fit und gesund)
 <!-- bank:end -->
 

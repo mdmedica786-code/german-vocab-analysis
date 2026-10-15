@@ -29,6 +29,11 @@ status: "new"
 > Das Reh war scheu und lief davon.
 > *The deer was timid and ran away.*
 
+**Phrases & Expressions:**
+- **ein scheues Tier** — *shy; timid*
+- **scheu sein** — *shy; timid*
+- **scheu lächeln** — *shy; timid*
+
 **Collocations**
 - ein scheues Tier
 - scheu sein

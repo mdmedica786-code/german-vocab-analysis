@@ -26,6 +26,9 @@ status: "new"
 > Sprachkenntnisse sind bei der Bewerbung von Vorteil.
 > *Language skills are an advantage when applying.*
 
+**Phrases & Expressions:**
+- **von großem Vorteil** — *to be an advantage*
+
 **Collocations**
 - von großem Vorteil
 

@@ -33,6 +33,11 @@ status: "new"
 > Ihr neues Buchprojekt beschäftigt sie seit zwei Jahren.
 > *Her new book project has kept her busy for two years.*
 
+**Phrases & Expressions:**
+- **ein Buchprojekt starten** — *book project*
+- **ein Buchprojekt planen** — *book project*
+- **ein gemeinsames Buchprojekt** — *book project*
+
 **Collocations**
 - ein Buchprojekt starten
 - ein Buchprojekt planen

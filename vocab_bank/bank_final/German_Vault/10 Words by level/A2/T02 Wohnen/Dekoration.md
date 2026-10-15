@@ -34,6 +34,9 @@ status: "new"
 > Die Dekoration für die Party ist fertig.
 > *The decoration for the party is ready.*
 
+**Phrases & Expressions:**
+- **Die Dekoration für die Party ist fertig** — *The decoration for the party is ready* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 5e (Zusammen leben)
 <!-- bank:end -->
 

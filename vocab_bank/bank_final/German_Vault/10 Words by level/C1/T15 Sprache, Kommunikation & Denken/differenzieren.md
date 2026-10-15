@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Man muss zwischen beiden Fällen differenzieren.
 > *One has to differentiate between the two cases.*
+
+**Phrases & Expressions:**
+- **Man muss zwischen beiden Fällen differenzieren** — *One has to differentiate between the two cases* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

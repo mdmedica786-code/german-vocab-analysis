@@ -33,6 +33,9 @@ status: "new"
 > Bitte machen Sie eine Liste davon, was die Einbrecher beschädigt haben.
 > *Please make a list of what the burglars damaged.*
 
+**Phrases & Expressions:**
+- **Leider ist das Gerät bei der Lieferung beschädigt gewesen.** — Unfortunately the device was damaged on delivery. *([[B2-04 Beschwerde und Reklamation|Problem schildern]] · B2)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Sein Vater ist Akademiker, seine Mutter hat eine Lehre gemacht.
 > *His father is a university graduate; his mother did an apprenticeship.*
 
+**Phrases & Expressions:**
+- **ein junger Akademiker** — *university graduate; academic*
+- **Akademiker und Nichtakademiker** — *university graduate; academic*
+- **Akademikerhaushalt** — *university graduate; academic*
+
 **Collocations**
 - ein junger Akademiker
 - Akademiker und Nichtakademiker

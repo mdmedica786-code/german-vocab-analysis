@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Er hat zu viel gegessen.
 > *He ate too much.*
+
+**Phrases & Expressions:**
+- **Er hat zu viel gegessen** — *He ate too much* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

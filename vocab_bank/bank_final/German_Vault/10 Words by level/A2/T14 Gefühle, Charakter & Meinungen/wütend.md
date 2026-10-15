@@ -31,6 +31,9 @@ status: "new"
 > Warum bist du so wütend?
 > *Why are you so angry?*
 
+**Phrases & Expressions:**
+- **Warum bist du so wütend** — *Why are you so angry* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 3a (Nach der Schulzeit) · Goethe word list B1
 <!-- bank:end -->
 

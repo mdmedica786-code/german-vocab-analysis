@@ -34,6 +34,9 @@ status: "new"
 > Nach dem Workout dusche ich.
 > *After the workout I shower.*
 
+**Phrases & Expressions:**
+- **Nach dem Workout dusche ich** — *After the workout I shower* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 2 ÜB (Veränderungen)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Zum Frühstück esse ich Müsli mit Milch.
 > *For breakfast I eat muesli with milk.*
 
+**Phrases & Expressions:**
+- **Zum Frühstück esse ich Müsli mit Milch** — *For breakfast I eat muesli with milk* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!)
 <!-- bank:end -->
 

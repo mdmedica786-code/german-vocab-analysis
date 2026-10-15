@@ -34,6 +34,9 @@ status: "new"
 > Wir planen eine Städtereise nach Prag.
 > *We are planning a city trip to Prague.*
 
+**Phrases & Expressions:**
+- **Wir planen eine Städtereise nach Prag** — *We are planning a city trip to Prague* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 3a (Ab in den Urlaub!)
 <!-- bank:end -->
 

@@ -33,6 +33,12 @@ status: "new"
 > Bevor du den Mietvertrag unterschreibst, lies ihn genau durch.
 > *Before you sign the lease, read it carefully.*
 
+**Phrases & Expressions:**
+- **Welche Kündigungsfrist gilt im Mietvertrag?** — What notice period applies in the rental contract? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Mietvertrag klären]] · B2)*
+- **einen Mietvertrag abschließen** — *rental agreement; lease*
+- **den Mietvertrag kündigen** — *rental agreement; lease*
+- **ein unbefristeter Mietvertrag** — *rental agreement; lease*
+
 **Collocations**
 - einen Mietvertrag abschließen
 - den Mietvertrag kündigen

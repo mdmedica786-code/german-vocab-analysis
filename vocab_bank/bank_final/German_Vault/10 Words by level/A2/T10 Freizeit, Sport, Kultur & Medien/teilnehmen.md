@@ -35,6 +35,14 @@ status: "new"
 > Ich möchte an dem Tanzkurs teilnehmen.
 > **
 
+**Phrases & Expressions:**
+- **zum Teil** — in part *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **Da hast du zum Teil recht, aber ...** — You're partly right, but ... *([[B1-02 Zustimmen und Widersprechen|Teilweise zustimmen]] · B1)*
+- **Im ersten Teil geht es um ...** — The first part is about ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Gliederung ankündigen]] · B1)*
+- **Ich kann leider nicht an dem Termin teilnehmen.** — Unfortunately I cannot attend the appointment. *([[B1-13 Formelle E-Mail und Brief|Absage geben]] · B1)*
+- **Im ersten Teil geht es um ..., im zweiten um ...** — The first part is about ..., the second about ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Aufbau ankündigen]] · B2)*
+- **... nimmt kontinuierlich zu.** — ... is steadily increasing. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Anstieg beschreiben]] · B2)*
+
 **Source:** Netzwerk neu A2 K1 3a (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

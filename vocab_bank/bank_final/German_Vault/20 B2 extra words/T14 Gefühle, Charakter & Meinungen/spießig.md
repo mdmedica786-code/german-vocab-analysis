@@ -29,6 +29,11 @@ status: "new"
 > Die Nachbarn finden unseren Lebensstil spießig.
 > *The neighbours find our lifestyle stuffy.*
 
+**Phrases & Expressions:**
+- **spießig sein** — *stuffy; narrow-minded (colloquial)*
+- **eine spießige Wohnung** — *stuffy; narrow-minded (colloquial)*
+- **spießig wirken** — *stuffy; narrow-minded (colloquial)*
+
 **Collocations**
 - spießig sein
 - eine spießige Wohnung

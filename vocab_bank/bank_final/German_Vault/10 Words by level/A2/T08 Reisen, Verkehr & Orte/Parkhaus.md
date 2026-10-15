@@ -34,6 +34,9 @@ status: "new"
 > Wir parken im Parkhaus am Bahnhof.
 > *We park in the car park at the station.*
 
+**Phrases & Expressions:**
+- **Wir parken im Parkhaus am Bahnhof** — *We park in the car park at the station* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 2 (Ganz schön mobil)
 <!-- bank:end -->
 

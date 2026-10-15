@@ -31,6 +31,9 @@ status: "new"
 > Wie geht's? - Danke, sehr gut.
 > *How are you? – Thanks, very well.*
 
+**Phrases & Expressions:**
+- **Wie geht's? - Danke, sehr gut** — *How are you? – Thanks, very well* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 2a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

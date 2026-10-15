@@ -33,6 +33,11 @@ status: "new"
 > Beim Thema Smartphone gibt es oft einen Generationenkonflikt.
 > *On the topic of smartphones there is often a generation conflict.*
 
+**Phrases & Expressions:**
+- **ein Generationenkonflikt entsteht** — *generation gap; conflict between generations*
+- **Generationenkonflikt in der Familie** — *generation gap; conflict between generations*
+- **Generationenkonflikt lösen** — *generation gap; conflict between generations*
+
 **Collocations**
 - ein Generationenkonflikt entsteht
 - Generationenkonflikt in der Familie

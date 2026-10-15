@@ -33,6 +33,11 @@ status: "new"
 > Der Fräser schneidet das Metall in Form.
 > *The milling cutter cuts the metal into shape.*
 
+**Phrases & Expressions:**
+- **ein Fräser aus Stahl** — *milling cutter; milling machine operator*
+- **als Fräser arbeiten** — *milling cutter; milling machine operator*
+- **den Fräser wechseln** — *milling cutter; milling machine operator*
+
 **Collocations**
 - ein Fräser aus Stahl
 - als Fräser arbeiten

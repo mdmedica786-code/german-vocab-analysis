@@ -31,6 +31,11 @@ status: "new"
 > Mein Mann schnarcht jede Nacht laut.
 > *My husband snores loudly every night.*
 
+**Phrases & Expressions:**
+- **laut schnarchen** — *to snore*
+- **im Schlaf schnarchen** — *to snore*
+- **gegen das Schnarchen** — *to snore*
+
 **Collocations**
 - laut schnarchen
 - im Schlaf schnarchen

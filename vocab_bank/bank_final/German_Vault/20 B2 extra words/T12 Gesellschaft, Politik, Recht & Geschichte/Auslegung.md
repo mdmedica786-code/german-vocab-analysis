@@ -33,6 +33,11 @@ status: "new"
 > Die Auslegung des Gesetzes ist umstritten.
 > *The interpretation of the law is disputed.*
 
+**Phrases & Expressions:**
+- **Auslegung des Gesetzes** — *interpretation*
+- **enge Auslegung** — *interpretation*
+- **verschiedene Auslegungen** — *interpretation*
+
 **Collocations**
 - Auslegung des Gesetzes
 - enge Auslegung

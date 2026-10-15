@@ -30,6 +30,9 @@ status: "new"
 > Die Stadt ist sehr lebendig.
 > *The city is very lively.*
 
+**Phrases & Expressions:**
+- **Die Stadt ist sehr lebendig** — *The city is very lively* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

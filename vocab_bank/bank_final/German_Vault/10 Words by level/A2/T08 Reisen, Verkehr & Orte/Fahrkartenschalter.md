@@ -34,6 +34,9 @@ status: "new"
 > Am Fahrkartenschalter kaufe ich eine Fahrkarte.
 > *I buy a ticket at the ticket office.*
 
+**Phrases & Expressions:**
+- **Am Fahrkartenschalter kaufe ich eine Fahrkarte** — *I buy a ticket at the ticket office* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 4b (Arbeitswelten)
 <!-- bank:end -->
 

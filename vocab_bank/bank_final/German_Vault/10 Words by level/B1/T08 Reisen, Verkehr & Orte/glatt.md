@@ -31,6 +31,9 @@ status: "new"
 > Fahr vorsichtig! Es ist glatt.
 > *Drive carefully! It's slippery.*
 
+**Phrases & Expressions:**
+- **Fahr vorsichtig! Es ist glatt** — *Drive carefully! It's slippery* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 3c (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

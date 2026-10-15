@@ -33,6 +33,11 @@ status: "new"
 > Der Umweltverband kritisiert die neuen Pläne.
 > *The environmental organisation criticises the new plans.*
 
+**Phrases & Expressions:**
+- **ein Umweltverband fordert** — *environmental association; environmental organisation*
+- **im Umweltverband aktiv sein** — *environmental association; environmental organisation*
+- **ein großer Umweltverband** — *environmental association; environmental organisation*
+
 **Collocations**
 - ein Umweltverband fordert
 - im Umweltverband aktiv sein

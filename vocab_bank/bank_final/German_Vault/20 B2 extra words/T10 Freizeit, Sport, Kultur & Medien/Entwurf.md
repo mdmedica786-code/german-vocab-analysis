@@ -33,6 +33,11 @@ status: "new"
 > Der Architekt zeigte uns seinen ersten Entwurf.
 > *The architect showed us his first design.*
 
+**Phrases & Expressions:**
+- **einen Entwurf erstellen** — *draft; design; sketch*
+- **einen Entwurf vorlegen** — *draft; design; sketch*
+- **Entwurf eines Gesetzes** — *draft; design; sketch*
+
 **Collocations**
 - einen Entwurf erstellen
 - einen Entwurf vorlegen

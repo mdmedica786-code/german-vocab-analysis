@@ -33,6 +33,11 @@ status: "new"
 > Die Härte des Urteils überraschte alle.
 > *The harshness of the verdict surprised everyone.*
 
+**Phrases & Expressions:**
+- **mit aller Härte** — *hardness; harshness; severity*
+- **die Härte des Gesetzes** — *hardness; harshness; severity*
+- **soziale Härten** — *hardness; harshness; severity*
+
 **Collocations**
 - mit aller Härte
 - die Härte des Gesetzes

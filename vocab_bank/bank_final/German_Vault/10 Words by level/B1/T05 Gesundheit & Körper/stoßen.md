@@ -33,6 +33,12 @@ status: "new"
 > Wie haben Sie sich denn verletzt? – Ich habe mich an der Autotür gestoßen.
 > *How did you hurt yourself? – I bumped into the car door.*
 
+**Phrases & Expressions:**
+- **sich den Kopf stoßen** — *to bump; to knock; to push*
+- **gegen etwas stoßen** — *to bump; to knock; to push*
+- **auf etwas stoßen** — *to bump; to knock; to push*
+- **sich an etwas stoßen** — *to bump; to knock; to push*
+
 **Collocations**
 - sich den Kopf stoßen
 - gegen etwas stoßen

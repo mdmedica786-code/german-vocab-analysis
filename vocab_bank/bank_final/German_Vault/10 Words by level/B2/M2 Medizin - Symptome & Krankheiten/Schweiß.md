@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Patient wacht nachts in Schweiß gebadet auf.
 > *The patient wakes at night bathed in sweat.*
+
+**Phrases & Expressions:**
+- **Der Patient wacht nachts in Schweiß gebadet auf** — *The patient wakes at night bathed in sweat* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

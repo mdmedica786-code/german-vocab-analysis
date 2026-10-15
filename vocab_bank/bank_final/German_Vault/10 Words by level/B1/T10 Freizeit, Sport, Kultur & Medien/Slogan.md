@@ -34,6 +34,9 @@ status: "new"
 > Der Slogan der Firma ist leicht zu merken.
 > *The company's slogan is easy to remember.*
 
+**Phrases & Expressions:**
+- **Der Slogan der Firma ist leicht zu merken** — *The company's slogan is easy to remember* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 1b (Das ist ja praktisch!)
 <!-- bank:end -->
 

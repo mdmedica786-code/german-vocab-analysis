@@ -34,6 +34,9 @@ status: "new"
 > Das Klassenzimmer ist hell und groß.
 > *The classroom is bright and large.*
 
+**Phrases & Expressions:**
+- **Das Klassenzimmer ist hell und groß** — *The classroom is bright and large* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 12a (Nach der Schulzeit)
 <!-- bank:end -->
 

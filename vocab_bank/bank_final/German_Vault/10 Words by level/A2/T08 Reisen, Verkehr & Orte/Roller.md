@@ -34,6 +34,9 @@ status: "new"
 > Das Kind fährt mit dem Roller zur Schule.
 > *The child goes to school on a scooter.*
 
+**Phrases & Expressions:**
+- **Das Kind fährt mit dem Roller zur Schule** — *The child goes to school on a scooter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 5b (Zusammen leben)
 <!-- bank:end -->
 

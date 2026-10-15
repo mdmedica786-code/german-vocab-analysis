@@ -33,6 +33,11 @@ status: "new"
 > Die Seite funktioniert auf jedem Endgerät.
 > *The page works on every device.*
 
+**Phrases & Expressions:**
+- **mobiles Endgerät** — *end device; terminal device*
+- **Endgeräte verbinden** — *end device; terminal device*
+- **auf allen Endgeräten** — *end device; terminal device*
+
 **Collocations**
 - mobiles Endgerät
 - Endgeräte verbinden

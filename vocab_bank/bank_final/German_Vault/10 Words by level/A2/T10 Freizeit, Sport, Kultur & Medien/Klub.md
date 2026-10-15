@@ -34,6 +34,9 @@ status: "new"
 > Gibt es hier einen Tennis-Club/Klub?
 > *Is there a tennis club here?*
 
+**Phrases & Expressions:**
+- **Gibt es hier einen Tennis-Club/Klub** — *Is there a tennis club here* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

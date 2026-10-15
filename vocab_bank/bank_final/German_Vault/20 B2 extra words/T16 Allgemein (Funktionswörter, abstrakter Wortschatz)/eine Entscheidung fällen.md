@@ -26,6 +26,10 @@ status: "new"
 > Das Gericht fällt seine Entscheidung nächste Woche.
 > *The court will reach its decision next week.*
 
+**Phrases & Expressions:**
+- **ein Urteil fällen** — *to reach a decision*
+- **Entscheidungen treffen** — *to reach a decision*
+
 **Collocations**
 - ein Urteil fällen
 - Entscheidungen treffen

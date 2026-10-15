@@ -29,6 +29,11 @@ status: "new"
 > Wir machten einen ausgedehnten Spaziergang.
 > *We went for a long walk.*
 
+**Phrases & Expressions:**
+- **ein ausgedehnter Spaziergang** — *extensive; prolonged*
+- **ausgedehnte Wälder** — *extensive; prolonged*
+- **ausgedehnt frühstücken** — *extensive; prolonged*
+
 **Collocations**
 - ein ausgedehnter Spaziergang
 - ausgedehnte Wälder

@@ -33,6 +33,11 @@ status: "new"
 > Das Buch gibt es auch im Großdruck.
 > *The book is also available in large print.*
 
+**Phrases & Expressions:**
+- **im Großdruck** — *large print*
+- **ein Buch in Großdruck** — *large print*
+- **eine Ausgabe im Großdruck** — *large print*
+
 **Collocations**
 - im Großdruck
 - ein Buch in Großdruck

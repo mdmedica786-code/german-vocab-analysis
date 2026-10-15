@@ -33,6 +33,11 @@ status: "new"
 > Die Stadt hat in den letzten Jahren eine starke Wandlung erlebt.
 > *The city has undergone a strong transformation in recent years.*
 
+**Phrases & Expressions:**
+- **eine Wandlung durchmachen** — *change; transformation*
+- **Wandlung vollziehen** — *change; transformation*
+- **Wandlung zum Besseren** — *change; transformation*
+
 **Collocations**
 - eine Wandlung durchmachen
 - Wandlung vollziehen

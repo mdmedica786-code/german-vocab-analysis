@@ -29,6 +29,11 @@ status: "new"
 > Es war diesig, deshalb sah man die Berge nicht.
 > *It was hazy, so the mountains could not be seen.*
 
+**Phrases & Expressions:**
+- **diesiges Wetter** — *hazy; misty*
+- **diesig sein** — *hazy; misty*
+- **ein diesiger Morgen** — *hazy; misty*
+
 **Collocations**
 - diesiges Wetter
 - diesig sein

@@ -34,6 +34,9 @@ status: "new"
 > Das Lied ist auf Platz eins der Charts.
 > *The song is number one in the charts.*
 
+**Phrases & Expressions:**
+- **Das Lied ist auf Platz eins der Charts** — *The song is number one in the charts* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 10a (Blick nach vorn)
 <!-- bank:end -->
 

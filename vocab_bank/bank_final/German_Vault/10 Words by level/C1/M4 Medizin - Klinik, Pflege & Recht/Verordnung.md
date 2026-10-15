@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Verordnung von Medikamenten ist Aufgabe der Ärzte.
 > *Prescribing medicines is the doctors' job.*
+
+**Phrases & Expressions:**
+- **Die Verordnung von Medikamenten ist Aufgabe der Ärzte** — *Prescribing medicines is the doctors' job* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

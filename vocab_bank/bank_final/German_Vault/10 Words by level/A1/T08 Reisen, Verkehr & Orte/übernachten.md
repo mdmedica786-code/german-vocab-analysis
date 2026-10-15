@@ -33,6 +33,9 @@ status: "new"
 > Du kannst bei mir übernachten.
 > *You can stay the night at my place.*
 
+**Phrases & Expressions:**
+- **Du kannst bei mir übernachten** — *You can stay the night at my place* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7a (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

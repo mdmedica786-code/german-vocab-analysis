@@ -34,6 +34,9 @@ status: "new"
 > Die Natur ist für sie eine Inspiration.
 > *Nature is an inspiration for her.*
 
+**Phrases & Expressions:**
+- **Die Natur ist für sie eine Inspiration** — *Nature is an inspiration for her* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 11c (Zwischenmenschliches)
 <!-- bank:end -->
 

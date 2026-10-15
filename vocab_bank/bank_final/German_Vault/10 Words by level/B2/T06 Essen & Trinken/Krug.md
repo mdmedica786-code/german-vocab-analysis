@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Auf dem Tisch steht ein Krug mit Wasser.
 > *There is a jug of water on the table.*
+
+**Phrases & Expressions:**
+- **Auf dem Tisch steht ein Krug mit Wasser** — *There is a jug of water on the table* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

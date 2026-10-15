@@ -35,6 +35,12 @@ status: "new"
 > Ich finde fremde Länder und Kulturen sehr interessant.
 > *I find foreign countries and cultures very interesting.*
 
+**Phrases & Expressions:**
+- **eine fremde Kultur** — *culture*
+- **Kulturen kennenlernen** — *culture*
+- **Kultur fördern** — *culture*
+- **Kultur und Politik** — *culture*
+
 **Collocations**
 - eine fremde Kultur
 - Kulturen kennenlernen

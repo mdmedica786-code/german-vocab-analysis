@@ -36,6 +36,9 @@ status: "new"
 > Die letzte U-Bahn geht um 23.15 Uhr.
 > **
 
+**Phrases & Expressions:**
+- **Die letzte U-Bahn geht um 23.15 Uhr** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 6a (In Hamburg) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > In unserer Nachbarschaft wohnen viele Familien.
 > *Many families live in our neighbourhood.*
 
+**Phrases & Expressions:**
+- **In unserer Nachbarschaft wohnen viele Familien** — *Many families live in our neighbourhood* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 12b (Kunststücke)
 <!-- bank:end -->
 

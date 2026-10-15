@@ -32,6 +32,11 @@ status: "new"
 > Die Firma konnte sich auf dem Markt etablieren.
 > *The company was able to establish itself on the market.*
 
+**Phrases & Expressions:**
+- **sich etablieren** — *to establish*
+- **auf dem Markt etabliert** — *to establish*
+- **ein System etablieren** — *to establish*
+
 **Collocations**
 - sich etablieren
 - auf dem Markt etabliert

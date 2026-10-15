@@ -33,6 +33,11 @@ status: "new"
 > Das Buch ist nur noch in wenigen Exemplaren erhältlich.
 > *The book is only available in a few copies.*
 
+**Phrases & Expressions:**
+- **ein Exemplar** — *copy; specimen*
+- **ein seltenes Exemplar** — *copy; specimen*
+- **in mehreren Exemplaren** — *copy; specimen*
+
 **Collocations**
 - ein Exemplar
 - ein seltenes Exemplar

@@ -32,6 +32,9 @@ status: "new"
 > Julia oder Niklas
 > *Julia or Niklas*
 
+**Phrases & Expressions:**
+- **Julia oder Niklas** — *Julia or Niklas* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 2c (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

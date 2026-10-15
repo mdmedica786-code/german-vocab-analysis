@@ -34,6 +34,9 @@ status: "new"
 > Kinder essen gern Süßigkeiten.
 > *Children like eating sweets.*
 
+**Phrases & Expressions:**
+- **Kinder essen gern Süßigkeiten** — *Children like eating sweets* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 1c (Fit und gesund)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Sie trainiert mit eisernem Willen.
 > *She trains with an iron will.*
 
+**Phrases & Expressions:**
+- **ein eiserner Wille** — *iron; unyielding*
+- **eisern sparen** — *iron; unyielding*
+- **eisern schweigen** — *iron; unyielding*
+
 **Collocations**
 - ein eiserner Wille
 - eisern sparen

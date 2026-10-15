@@ -33,6 +33,11 @@ status: "new"
 > In der Nahrungskette stehen Raubtiere an der Spitze.
 > *In the food chain predators are at the top.*
 
+**Phrases & Expressions:**
+- **die Nahrungskette stören** — *food chain*
+- **an der Spitze der Nahrungskette** — *food chain*
+- **Glied der Nahrungskette** — *food chain*
+
 **Collocations**
 - die Nahrungskette stören
 - an der Spitze der Nahrungskette

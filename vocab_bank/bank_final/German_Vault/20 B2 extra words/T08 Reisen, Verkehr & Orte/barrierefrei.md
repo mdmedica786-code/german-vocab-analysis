@@ -29,6 +29,11 @@ status: "new"
 > Der Bahnhof ist jetzt barrierefrei.
 > *The station is now barrier-free.*
 
+**Phrases & Expressions:**
+- **ein barrierefreier Zugang** — *barrier-free; accessible*
+- **barrierefrei bauen** — *barrier-free; accessible*
+- **barrierefrei sein** — *barrier-free; accessible*
+
 **Collocations**
 - ein barrierefreier Zugang
 - barrierefrei bauen

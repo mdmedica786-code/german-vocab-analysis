@@ -35,6 +35,9 @@ status: "new"
 > Es ist kalt. Ist die Heizung kaputt?
 > *It's cold. Is the heating broken?*
 
+**Phrases & Expressions:**
+- **Es ist kalt. Ist die Heizung kaputt** — *It's cold. Is the heating broken* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!) · Goethe word list A2
 <!-- bank:end -->
 

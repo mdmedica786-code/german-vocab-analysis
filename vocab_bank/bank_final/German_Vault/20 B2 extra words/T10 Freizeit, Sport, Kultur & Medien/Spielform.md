@@ -33,6 +33,11 @@ status: "new"
 > Beim Training üben wir verschiedene Spielformen.
 > *In training we practise different forms of play.*
 
+**Phrases & Expressions:**
+- **eine neue Spielform** — *form of play; type of game*
+- **verschiedene Spielformen** — *form of play; type of game*
+- **eine Spielform erklären** — *form of play; type of game*
+
 **Collocations**
 - eine neue Spielform
 - verschiedene Spielformen

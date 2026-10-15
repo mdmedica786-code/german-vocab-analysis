@@ -30,6 +30,11 @@ status: "new"
 > Die Bank wirbt gezielt um Wechselwillige.
 > *The bank specifically courts people willing to switch.*
 
+**Phrases & Expressions:**
+- **Wechselwillige ansprechen** — *person willing to switch (provider, job)*
+- **Wechselwillige gewinnen** — *person willing to switch (provider, job)*
+- **um Wechselwillige werben** — *person willing to switch (provider, job)*
+
 **Collocations**
 - Wechselwillige ansprechen
 - Wechselwillige gewinnen

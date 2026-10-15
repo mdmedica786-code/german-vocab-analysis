@@ -35,6 +35,9 @@ status: "new"
 > Welcher Wochentag ist heute?
 > *What day of the week is it today?*
 
+**Phrases & Expressions:**
+- **Welcher Wochentag ist heute** — *What day of the week is it today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 4a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

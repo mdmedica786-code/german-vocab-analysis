@@ -33,6 +33,11 @@ status: "new"
 > Die Brandung schlug hart gegen die Felsen.
 > *The surf pounded hard against the rocks.*
 
+**Phrases & Expressions:**
+- **die Brandung rauscht** — *surf; breakers*
+- **in der Brandung** — *surf; breakers*
+- **starke Brandung** — *surf; breakers*
+
 **Collocations**
 - die Brandung rauscht
 - in der Brandung

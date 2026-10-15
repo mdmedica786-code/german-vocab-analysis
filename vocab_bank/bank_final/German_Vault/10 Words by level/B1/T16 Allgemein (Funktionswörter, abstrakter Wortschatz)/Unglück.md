@@ -34,6 +34,9 @@ status: "new"
 > Bei dem Unglück gab es viele Verletzte.
 > *There were many injured in the accident.*
 
+**Phrases & Expressions:**
+- **Bei dem Unglück gab es viele Verletzte** — *There were many injured in the accident* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

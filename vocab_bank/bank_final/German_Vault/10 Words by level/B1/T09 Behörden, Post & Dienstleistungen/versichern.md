@@ -32,6 +32,9 @@ status: "new"
 > Wollen Sie Ihr Gepäck versichern?
 > *Do you want to insure your luggage?*
 
+**Phrases & Expressions:**
+- **Wollen Sie Ihr Gepäck versichern** — *Do you want to insure your luggage* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

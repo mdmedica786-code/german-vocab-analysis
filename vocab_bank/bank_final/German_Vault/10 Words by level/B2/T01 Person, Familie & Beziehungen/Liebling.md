@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Komm her, mein Liebling!
 > *Come here, my darling!*
+
+**Phrases & Expressions:**
+- **Komm her, mein Liebling** — *Come here, my darling* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

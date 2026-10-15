@@ -14,12 +14,14 @@ tags: ["redemittel", "level/B1"]
 ## Person beschreiben
 
 - **Er/Sie sieht ... aus.** ⭐ — He/she looks ...
+  - Words: [[ansehen]] · [[aussehen]] · [[fernsehen (verb)]] · [[umsehen]] · [[nachsehen]] · [[hinsehen]] · [[zusehen]] · [[wiedersehen (verb)]]
   - Meine Schwester sieht immer sehr gepflegt aus. *(My sister always looks very well-groomed.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: aussehen (trennbar): sieht ... aus
   - Variants: Er/Sie wirkt ... | Er/Sie macht einen ... Eindruck.
   - Exam: Goethe B1 Sprechen Teil 2
 - **Er/Sie hat kurze/lange ... Haare.** ⭐ — He/she has short/long ... hair.
+  - Words: [[kurz]] · [[lang]] · [[lange]] · [[Haar]]
   - Mein Bruder hat kurze, dunkle Haare und blaue Augen. *(My brother has short, dark hair and blue eyes.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: haben + Akkusativ; Adjektivendung -e (Plural)
@@ -28,12 +30,14 @@ tags: ["redemittel", "level/B1"]
 ## Charakter beschreiben
 
 - **Er/Sie ist ein sehr ... Mensch.** ⭐ — He/she is a very ... person.
+  - Words: [[Mensch]]
   - Meine Freundin ist ein sehr offener und hilfsbereiter Mensch. *(My friend is a very open and helpful person.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: Adjektivendung -er nach ein (maskulin)
   - Variants: Er/Sie ist sehr ... | Er/Sie hat einen ... Charakter.
   - Exam: Goethe B1 Sprechen Teil 2
 - **Was mir an ihm/ihr gefällt, ist ...** — What I like about him/her is ...
+  - Words: [[gefallen (verb)]] · [[was]]
   - Was mir an ihr gefällt, ist ihre Ehrlichkeit. *(What I like about her is her honesty.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: gefallen + Dat.; Relativsatz mit was
@@ -42,24 +46,28 @@ tags: ["redemittel", "level/B1"]
 ## Ort beschreiben
 
 - **Die Stadt liegt im Norden/Süden von ...** ⭐ — The city lies in the north/south of ...
+  - Words: [[Stadt]] · [[Norden]] · [[Süden]] · [[rumliegen]] · [[liegen]] · [[vorliegen]] · [[gegenüberliegen]]
   - Die Stadt liegt im Süden von Deutschland, nahe den Bergen. *(The city lies in the south of Germany, near the mountains.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: liegen in + Dat. (im = in dem)
   - Variants: Die Stadt befindet sich im ... | ... ist etwa ... Kilometer von ... entfernt.
   - Exam: Goethe B1 Sprechen Teil 2
 - **Das Haus steht direkt neben dem Park.** ⭐ — The house stands right next to the park.
+  - Words: [[stehen]] · [[aufstehen]] · [[Park]] · [[direkt]] · [[neben]] · [[feststehen]] · [[Haus]] · [[zustehen]]
   - Das Haus steht direkt neben dem Park, gegenüber der Schule. *(The house stands right next to the park, opposite the school.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: neben + Dativ (wo?)
   - Variants: Das Haus befindet sich gegenüber von ... | In der Nähe gibt es ...
   - Exam: Goethe B1 Sprechen Teil 2
 - **Im Zentrum gibt es viele Geschäfte und Cafés.** — In the centre there are many shops and cafés.
+  - Words: [[geben]] · [[Geschäft]] · [[eingeben]] · [[wiedergeben]] · [[Zentrum]] · [[abgeben]] · [[angeben]] · [[ausgeben]]
   - Im Zentrum gibt es viele Geschäfte und Cafés, aber wenig Parkplätze. *(In the centre there are many shops and cafés, but few parking spaces.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: es gibt + Akk.; Ort am Satzanfang
   - Variants: Die Innenstadt bietet viele ... | Man findet dort ...
   - Exam: Goethe B1 Sprechen Teil 2
 - **Die Gegend ist ruhig und grün.** — The area is quiet and green.
+  - Words: [[grün]] · [[ruhig]] · [[Gegend]]
   - Die Gegend ist ruhig und grün, deshalb wohne ich gern dort. *(The area is quiet and green, that is why I like living there.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: sein + Adjektiv
@@ -68,12 +76,14 @@ tags: ["redemittel", "level/B1"]
 ## Ding beschreiben
 
 - **Das ist ein Gerät, das man zum ... benutzt.** ⭐ — That is a device that you use for ...
+  - Words: [[geraten]] · [[Gerät]] · [[benutzen]]
   - Das ist ein Gerät, das man zum Messen der Temperatur benutzt. *(That is a device that you use for measuring temperature.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: Relativsatz: Verb am Ende; zum + Nomen
   - Variants: Man benutzt es, um ... zu ... | Es dient zum ...
   - Exam: Goethe B1 Sprechen Teil 2
 - **Es ist aus Holz/Metall/Plastik und ziemlich leicht.** — It is made of wood/metal/plastic and quite light.
+  - Words: [[ziemlich]] · [[leicht]] · [[Holz]] · [[Plastik]] · [[Metall]] · [[leichtfallen]]
   - Es ist aus Holz und ziemlich leicht, deshalb kann man es gut tragen. *(It is made of wood and quite light, so you can carry it easily.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: aus + Dativ (Material)
@@ -82,18 +92,21 @@ tags: ["redemittel", "level/B1"]
 ## Ablauf beschreiben
 
 - **Zuerst muss man ..., dann ...** ⭐ — First you have to ..., then ...
+  - Words: [[dann]] · [[zuerst]] · [[müssen]]
   - Zuerst muss man ein Formular ausfüllen, dann gibt man es am Schalter ab. *(First you have to fill in a form, then you hand it in at the counter.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: Modalverb + Infinitiv am Ende; dann Verb Position 2
   - Variants: Als Erstes muss man ... | Zunächst ..., anschließend ...
   - Exam: Goethe B1 Sprechen Teil 2
 - **Danach ..., zum Schluss ...** ⭐ — Afterwards ..., finally ...
+  - Words: [[danach]] · [[Schluss]]
   - Danach bezahlt man die Gebühr, zum Schluss bekommt man eine Quittung. *(Afterwards you pay the fee, finally you get a receipt.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: Verb direkt nach danach/zum Schluss (Position 2)
   - Variants: Anschließend ..., am Ende ... | Dann ..., schließlich ...
   - Exam: Goethe B1 Sprechen Teil 2
 - **Der Ablauf ist ganz einfach: ...** — The procedure is very simple: ...
+  - Words: [[ganz]] · [[einfach]] · [[Ablauf]]
   - Der Ablauf ist ganz einfach: Man meldet sich an, wartet und wird aufgerufen. *(The procedure is very simple: you register, wait and are called.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: Doppelpunkt, dann Hauptsatz
@@ -102,18 +115,21 @@ tags: ["redemittel", "level/B1"]
 ## Vergleichen
 
 - **... ist größer/kleiner als ...** ⭐ — ... is bigger/smaller than ...
+  - Words: [[klein]]
   - Berlin ist größer als München, aber München ist teurer. *(Berlin is bigger than Munich, but Munich is more expensive.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: Komparativ + als
   - Variants: ... ist nicht so groß wie ... | ... ist viel größer als ...
   - Exam: Goethe B1 Sprechen Teil 2
 - **... ist genauso ... wie ...** ⭐ — ... is just as ... as ...
+  - Words: [[genauso]]
   - Mein Bruder ist genauso groß wie mein Vater. *(My brother is just as tall as my father.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: genauso + Positiv + wie
   - Variants: ... ist ebenso ... wie ... | ... ist so ... wie ...
   - Exam: Goethe B1 Sprechen Teil 2
 - **Im Vergleich zu ... ist ... viel ...** — Compared to ..., ... is much ...
+  - Words: [[viel]] · [[Vergleich]]
   - Im Vergleich zu früher ist die Stadt viel sauberer. *(Compared to earlier, the city is much cleaner.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: im Vergleich zu + Dativ

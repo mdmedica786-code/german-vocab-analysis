@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Ich muss das Update noch installieren.
 > *I still have to install the update.*
+
+**Phrases & Expressions:**
+- **Ich muss das Update noch installieren** — *I still have to install the update* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

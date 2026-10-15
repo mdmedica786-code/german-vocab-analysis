@@ -33,6 +33,9 @@ status: "new"
 > Hast du mich aber erschreckt!
 > *You really scared me!*
 
+**Phrases & Expressions:**
+- **Hast du mich aber erschreckt** — *You really scared me* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Die diesjährigen Ferien verbringen wir am Meer.
 > *We are spending this year's holidays by the sea.*
 
+**Phrases & Expressions:**
+- **die diesjährige Ernte** — *this year's*
+- **der diesjährige Sieger** — *this year's*
+- **die diesjährigen Ergebnisse** — *this year's*
+
 **Collocations**
 - die diesjährige Ernte
 - der diesjährige Sieger

@@ -29,6 +29,12 @@ status: "new"
 > Die Erfahrung war für die Entscheidung ausschlaggebend.
 > *The experience was decisive for the decision.*
 
+**Phrases & Expressions:**
+- **Ausschlaggebend für mich ist, dass ...** — What is decisive for me is that ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Argument begründen]] · B2)*
+- **ausschlaggebend sein für** — *decisive; crucial*
+- **ein ausschlaggebender Grund** — *decisive; crucial*
+- **ausschlaggebend sein** — *decisive; crucial*
+
 **Collocations**
 - ausschlaggebend sein für
 - ein ausschlaggebender Grund

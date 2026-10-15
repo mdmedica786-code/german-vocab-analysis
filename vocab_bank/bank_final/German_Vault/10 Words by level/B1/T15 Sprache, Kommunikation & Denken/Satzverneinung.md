@@ -31,6 +31,9 @@ status: "new"
 > Bei der Satzverneinung benutzt man nicht.
 > *In sentence negation you use nicht.*
 
+**Phrases & Expressions:**
+- **Bei der Satzverneinung benutzt man nicht** — *In sentence negation you use nicht* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 4a (Kunststücke)
 <!-- bank:end -->
 

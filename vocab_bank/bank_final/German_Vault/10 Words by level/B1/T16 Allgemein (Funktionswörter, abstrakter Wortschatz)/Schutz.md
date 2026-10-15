@@ -35,6 +35,9 @@ status: "new"
 > Das ist ein guter Schutz gegen Kälte.
 > *That is good protection against the cold.*
 
+**Phrases & Expressions:**
+- **Das ist ein guter Schutz gegen Kälte** — *That is good protection against the cold* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 1a ÜB (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Unter diesem Hashtag teilen viele Menschen ihre Erfahrungen.
 > *Under this hashtag many people share their experiences.*
 
+**Phrases & Expressions:**
+- **einen Hashtag setzen** — *hashtag*
+- **unter dem Hashtag** — *hashtag*
+- **Hashtag verwenden** — *hashtag*
+
 **Collocations**
 - einen Hashtag setzen
 - unter dem Hashtag

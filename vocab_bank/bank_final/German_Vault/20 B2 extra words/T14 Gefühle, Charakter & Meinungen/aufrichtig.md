@@ -29,6 +29,12 @@ status: "new"
 > Ich möchte mich aufrichtig bei Ihnen entschuldigen.
 > *I would like to apologise to you sincerely.*
 
+**Phrases & Expressions:**
+- **Mein aufrichtiges Beileid zum Verlust Ihres Mannes.** — My sincere condolences on the loss of your husband. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Trauer begleiten]] · C1)*
+- **aufrichtiges Mitgefühl** — *sincere; honest*
+- **aufrichtig bedauern** — *sincere; honest*
+- **ein aufrichtiger Mensch** — *sincere; honest*
+
 **Collocations**
 - aufrichtiges Mitgefühl
 - aufrichtig bedauern

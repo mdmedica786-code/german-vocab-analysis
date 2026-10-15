@@ -35,6 +35,9 @@ status: "new"
 > Aus Plastik oder aus Holz?
 > *Made of plastic or wood?*
 
+**Phrases & Expressions:**
+- **Es ist aus Holz/Metall/Plastik und ziemlich leicht.** — It is made of wood/metal/plastic and quite light. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ding beschreiben]] · B1)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

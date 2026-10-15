@@ -33,6 +33,11 @@ status: "new"
 > Die Leihfrist für Bücher beträgt vier Wochen.
 > *The loan period for books is four weeks.*
 
+**Phrases & Expressions:**
+- **die Leihfrist verlängern** — *loan period*
+- **die Leihfrist überschreiten** — *loan period*
+- **Leihfrist beachten** — *loan period*
+
 **Collocations**
 - die Leihfrist verlängern
 - die Leihfrist überschreiten

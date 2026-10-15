@@ -26,6 +26,10 @@ status: "new"
 > Nach dem Skandal zog der Direktor Konsequenzen.
 > *After the scandal the director drew the consequences.*
 
+**Phrases & Expressions:**
+- **Konsequenzen ziehen aus + Dat.** — *to draw the consequences*
+- **Schlussfolgerungen ziehen** — *to draw the consequences*
+
 **Collocations**
 - Konsequenzen ziehen aus + Dat.
 - Schlussfolgerungen ziehen

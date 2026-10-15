@@ -34,6 +34,9 @@ status: "new"
 > Während seiner Bundeswehrzeit lernte er viele Leute kennen.
 > *During his time in the armed forces he got to know many people.*
 
+**Phrases & Expressions:**
+- **Während seiner Bundeswehrzeit lernte er viele Leute kennen** — *During his time in the armed forces he got to know many people* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

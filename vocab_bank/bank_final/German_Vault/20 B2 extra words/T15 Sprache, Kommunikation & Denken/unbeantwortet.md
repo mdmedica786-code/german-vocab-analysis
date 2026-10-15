@@ -29,6 +29,11 @@ status: "new"
 > Meine Frage blieb unbeantwortet.
 > *My question remained unanswered.*
 
+**Phrases & Expressions:**
+- **unbeantwortet bleiben** — *unanswered*
+- **eine unbeantwortete Frage** — *unanswered*
+- **unbeantwortet lassen** — *unanswered*
+
 **Collocations**
 - unbeantwortet bleiben
 - eine unbeantwortete Frage

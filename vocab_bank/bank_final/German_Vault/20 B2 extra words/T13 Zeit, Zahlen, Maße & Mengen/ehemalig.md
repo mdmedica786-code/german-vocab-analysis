@@ -29,6 +29,11 @@ status: "new"
 > Mein ehemaliger Chef ruft mich oft an.
 > *My former boss often calls me.*
 
+**Phrases & Expressions:**
+- **der ehemalige Präsident** — *former*
+- **ehemalige Kollegen** — *former*
+- **die ehemalige Hauptstadt** — *former*
+
 **Collocations**
 - der ehemalige Präsident
 - ehemalige Kollegen

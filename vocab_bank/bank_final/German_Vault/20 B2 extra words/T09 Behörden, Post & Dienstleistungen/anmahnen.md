@@ -32,6 +32,11 @@ status: "new"
 > Die Gewerkschaft mahnt bessere Arbeitsbedingungen an.
 > *The union is calling for better working conditions.*
 
+**Phrases & Expressions:**
+- **Reformen anmahnen** — *to demand; to send a reminder about*
+- **eine Zahlung anmahnen** — *to demand; to send a reminder about*
+- **Verbesserungen anmahnen** — *to demand; to send a reminder about*
+
 **Collocations**
 - Reformen anmahnen
 - eine Zahlung anmahnen

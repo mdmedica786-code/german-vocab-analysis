@@ -33,6 +33,11 @@ status: "new"
 > Im Herbst fliegen die Zugvögel in den Süden.
 > *In autumn the migratory birds fly south.*
 
+**Phrases & Expressions:**
+- **Zugvögel beobachten** — *migratory bird*
+- **die Zugvögel ziehen** — *migratory bird*
+- **Zugvögel im Herbst** — *migratory bird*
+
 **Collocations**
 - Zugvögel beobachten
 - die Zugvögel ziehen

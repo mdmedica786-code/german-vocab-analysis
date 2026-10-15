@@ -30,6 +30,11 @@ status: "new"
 > Die Ausbildungsinhalte sind klar im Plan beschrieben.
 > *The training contents are clearly described in the plan.*
 
+**Phrases & Expressions:**
+- **die Ausbildungsinhalte vermitteln** — *training content; subject of the training*
+- **neue Ausbildungsinhalte** — *training content; subject of the training*
+- **die Ausbildungsinhalte festlegen** — *training content; subject of the training*
+
 **Collocations**
 - die Ausbildungsinhalte vermitteln
 - neue Ausbildungsinhalte

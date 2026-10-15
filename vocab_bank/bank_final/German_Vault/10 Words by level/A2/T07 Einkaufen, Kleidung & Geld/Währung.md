@@ -34,6 +34,9 @@ status: "new"
 > Die Währung in Deutschland ist der Euro.
 > *The currency in Germany is the euro.*
 
+**Phrases & Expressions:**
+- **Die Währung in Deutschland ist der Euro** — *The currency in Germany is the euro* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle)
 <!-- bank:end -->
 

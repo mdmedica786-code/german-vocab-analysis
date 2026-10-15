@@ -32,6 +32,9 @@ status: "new"
 > Wir werden hier sehr gut mit Essen verpflegt.
 > *We are very well catered for here.*
 
+**Phrases & Expressions:**
+- **Wir werden hier sehr gut mit Essen verpflegt** — *We are very well catered for here* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

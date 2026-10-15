@@ -34,6 +34,9 @@ status: "new"
 > Der Sprachkurs war eine gute Lernerfahrung.
 > *The language course was a good learning experience.*
 
+**Phrases & Expressions:**
+- **Der Sprachkurs war eine gute Lernerfahrung** — *The language course was a good learning experience* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 10a (Und was machst du?)
 <!-- bank:end -->
 

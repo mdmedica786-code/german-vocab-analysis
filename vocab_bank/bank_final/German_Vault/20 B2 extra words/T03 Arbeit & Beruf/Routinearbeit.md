@@ -33,6 +33,11 @@ status: "new"
 > Routinearbeiten erledigt der Computer automatisch.
 > *The computer does routine tasks automatically.*
 
+**Phrases & Expressions:**
+- **Routinearbeiten erledigen** — *routine work; routine task*
+- **monotone Routinearbeit** — *routine work; routine task*
+- **Routinearbeiten automatisieren** — *routine work; routine task*
+
 **Collocations**
 - Routinearbeiten erledigen
 - monotone Routinearbeit

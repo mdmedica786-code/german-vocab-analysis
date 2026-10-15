@@ -34,6 +34,11 @@ status: "new"
 > Sie bewirbt sich für einen Master-Studiengang in Berlin.
 > *She is applying for a master's degree programme in Berlin.*
 
+**Phrases & Expressions:**
+- **einen Master-Studiengang belegen** — *master's degree programme*
+- **ein Master-Studiengang in Medizin** — *master's degree programme*
+- **sich für einen Master-Studiengang bewerben** — *master's degree programme*
+
 **Collocations**
 - einen Master-Studiengang belegen
 - ein Master-Studiengang in Medizin

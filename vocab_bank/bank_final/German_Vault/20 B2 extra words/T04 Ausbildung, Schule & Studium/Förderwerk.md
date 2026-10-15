@@ -30,6 +30,11 @@ status: "new"
 > Das Förderwerk unterstützt begabte Studierende finanziell.
 > *The scholarship foundation supports gifted students financially.*
 
+**Phrases & Expressions:**
+- **ein Förderwerk unterstützt** — *funding organisation; scholarship foundation*
+- **sich beim Förderwerk bewerben** — *funding organisation; scholarship foundation*
+- **ein Stipendium vom Förderwerk** — *funding organisation; scholarship foundation*
+
 **Collocations**
 - ein Förderwerk unterstützt
 - sich beim Förderwerk bewerben

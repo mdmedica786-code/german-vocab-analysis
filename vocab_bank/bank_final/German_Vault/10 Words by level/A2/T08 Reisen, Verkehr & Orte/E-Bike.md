@@ -35,6 +35,9 @@ status: "new"
 > Mit dem E-Bike fahre ich zur Arbeit.
 > *I go to work by e-bike.*
 
+**Phrases & Expressions:**
+- **Mit dem E-Bike fahre ich zur Arbeit** — *I go to work by e-bike* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

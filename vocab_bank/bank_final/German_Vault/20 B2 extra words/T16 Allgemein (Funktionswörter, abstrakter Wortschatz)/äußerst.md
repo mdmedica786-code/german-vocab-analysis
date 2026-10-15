@@ -29,6 +29,11 @@ status: "new"
 > Das ist eine äußerst wichtige Entscheidung.
 > *That is an extremely important decision.*
 
+**Phrases & Expressions:**
+- **äußerst wichtig** — *extremely*
+- **äußerst gefährlich** — *extremely*
+- **äußerst knapp** — *extremely*
+
 **Collocations**
 - äußerst wichtig
 - äußerst gefährlich

@@ -35,6 +35,9 @@ status: "new"
 > Florian hat am Sonntag ein Spiel.
 > *Florian has a game on Sunday.*
 
+**Phrases & Expressions:**
+- **Florian hat am Sonntag ein Spiel** — *Florian has a game on Sunday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 7a (Alltag und Familie) · Goethe word list A2
 <!-- bank:end -->
 

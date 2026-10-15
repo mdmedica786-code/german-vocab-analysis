@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Duft der Blumen ist schön.
 > *The scent of the flowers is lovely.*
+
+**Phrases & Expressions:**
+- **Der Duft der Blumen ist schön** — *The scent of the flowers is lovely* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

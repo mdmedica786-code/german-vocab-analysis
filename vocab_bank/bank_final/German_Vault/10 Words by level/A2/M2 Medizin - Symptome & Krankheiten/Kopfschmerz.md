@@ -41,6 +41,14 @@ status: "new"
 > Der Patient klagt über Kopfschmerzen.
 > *The patient complains of headaches.*
 
+**Phrases & Expressions:**
+- **Haben Sie Kopfschmerzen oder Schwindel?** — Do you have headaches or dizziness? *([[FSP-06 Systemanamnese (Organsysteme)|Nervensystem]] · A2)*
+- **Mögliche Nebenwirkungen sind Übelkeit und Kopfschmerzen.** — Possible side effects are nausea and headaches. *([[FSP-11 Therapie und Medikamente erklären|Nebenwirkungen erklären]] · B2)*
+- **Kopfschmerzen haben** — *headache*
+- **starke Kopfschmerzen** — *headache*
+- **chronische Kopfschmerzen** — *headache*
+- **Kopfschmerzen behandeln** — *headache*
+
 **Collocations**
 - Kopfschmerzen haben
 - starke Kopfschmerzen

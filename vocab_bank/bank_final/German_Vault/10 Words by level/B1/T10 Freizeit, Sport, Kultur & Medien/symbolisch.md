@@ -30,6 +30,9 @@ status: "new"
 > Das ist nur eine symbolische Geste.
 > *That is only a symbolic gesture.*
 
+**Phrases & Expressions:**
+- **Das ist nur eine symbolische Geste** — *That is only a symbolic gesture* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

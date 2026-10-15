@@ -31,6 +31,14 @@ status: "new"
 > Wahrscheinlich mache ich im Herbst einen Deutschkurs.
 > *I'll probably do a German course in autumn.*
 
+**Phrases & Expressions:**
+- **Es ist wahrscheinlich, dass ...** — It is probable that ... *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Vermutung ausdrücken]] · B2)*
+- **Sehr wahrscheinlich wird das nicht klappen.** — Very probably that won't work. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Wahrscheinlichkeit einschätzen]] · B2)*
+- **sehr wahrscheinlich** — *probably*
+- **höchstwahrscheinlich** — *probably*
+- **wahrscheinlich nicht** — *probably*
+- **wahrscheinlich kommen** — *probably*
+
 **Collocations**
 - sehr wahrscheinlich
 - höchstwahrscheinlich

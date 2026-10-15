@@ -29,6 +29,11 @@ status: "new"
 > Er gab nur eine vage Antwort.
 > *He gave only a vague answer.*
 
+**Phrases & Expressions:**
+- **eine vage Vorstellung** — *vague; unclear*
+- **vage Hoffnungen** — *vague; unclear*
+- **sich vage äußern** — *vague; unclear*
+
 **Collocations**
 - eine vage Vorstellung
 - vage Hoffnungen

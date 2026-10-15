@@ -33,6 +33,11 @@ status: "new"
 > Die Bank bietet Existenzgründern günstige Kredite an.
 > *The bank offers business founders cheap loans.*
 
+**Phrases & Expressions:**
+- **Existenzgründer beraten** — *start-up founder; business founder*
+- **Existenzgründer fördern** — *start-up founder; business founder*
+- **als Existenzgründer** — *start-up founder; business founder*
+
 **Collocations**
 - Existenzgründer beraten
 - Existenzgründer fördern

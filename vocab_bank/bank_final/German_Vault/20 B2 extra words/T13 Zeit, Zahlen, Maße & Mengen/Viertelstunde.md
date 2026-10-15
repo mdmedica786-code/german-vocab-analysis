@@ -33,6 +33,11 @@ status: "new"
 > Der Bus kommt in einer Viertelstunde.
 > *The bus is coming in a quarter of an hour.*
 
+**Phrases & Expressions:**
+- **eine Viertelstunde warten** — *quarter of an hour*
+- **in einer Viertelstunde** — *quarter of an hour*
+- **eine knappe Viertelstunde** — *quarter of an hour*
+
 **Collocations**
 - eine Viertelstunde warten
 - in einer Viertelstunde

@@ -29,6 +29,11 @@ status: "new"
 > Die beiden Ereignisse fanden zeitgleich statt.
 > *The two events took place at the same time.*
 
+**Phrases & Expressions:**
+- **zeitgleich stattfinden** — *simultaneous; at the same time*
+- **zeitgleich beginnen** — *simultaneous; at the same time*
+- **zeitgleich veröffentlichen** — *simultaneous; at the same time*
+
 **Collocations**
 - zeitgleich stattfinden
 - zeitgleich beginnen

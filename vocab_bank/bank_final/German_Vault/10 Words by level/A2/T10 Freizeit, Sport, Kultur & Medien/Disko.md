@@ -34,6 +34,9 @@ status: "new"
 > Wir gehen heute Abend in die Disko.
 > *We are going to the disco tonight.*
 
+**Phrases & Expressions:**
+- **Wir gehen heute Abend in die Disko** — *We are going to the disco tonight* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

@@ -26,6 +26,10 @@ status: "new"
 > Wir wollen das Projekt bis Jahresende zum Abschluss bringen.
 > *We want to bring the project to a conclusion by the end of the year.*
 
+**Phrases & Expressions:**
+- **zum Abschluss kommen** — *to bring to a conclusion*
+- **zu Ende bringen** — *to bring to a conclusion*
+
 **Collocations**
 - zum Abschluss kommen
 - zu Ende bringen

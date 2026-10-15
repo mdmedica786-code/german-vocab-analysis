@@ -34,6 +34,9 @@ status: "new"
 > Der Bau des Krankenhauses dauert zwei Jahre.
 > *The construction of the hospital takes two years.*
 
+**Phrases & Expressions:**
+- **Der Bau des Krankenhauses dauert zwei Jahre** — *The construction of the hospital takes two years* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

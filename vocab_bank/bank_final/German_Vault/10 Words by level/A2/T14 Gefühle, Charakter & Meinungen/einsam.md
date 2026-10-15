@@ -31,6 +31,9 @@ status: "new"
 > Ohne meine Familie fühle ich mich ein bisschen einsam.
 > *Without my family I feel a bit lonely.*
 
+**Phrases & Expressions:**
+- **Ohne meine Familie fühle ich mich ein bisschen einsam** — *Without my family I feel a bit lonely* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 2a (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

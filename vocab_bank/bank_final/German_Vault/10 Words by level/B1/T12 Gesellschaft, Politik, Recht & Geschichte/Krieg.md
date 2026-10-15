@@ -35,6 +35,11 @@ status: "new"
 > Die beiden Länder wollen keinen Krieg führen.
 > *The two countries do not want to wage war.*
 
+**Phrases & Expressions:**
+- **Krieg führen** — *war*
+- **im Krieg** — *war*
+- **den Krieg beenden** — *war*
+
 **Collocations**
 - Krieg führen
 - im Krieg

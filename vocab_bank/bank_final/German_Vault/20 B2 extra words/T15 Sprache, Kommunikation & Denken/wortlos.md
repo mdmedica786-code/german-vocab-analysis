@@ -29,6 +29,11 @@ status: "new"
 > Er verließ wortlos den Raum.
 > *He left the room without a word.*
 
+**Phrases & Expressions:**
+- **wortlos verlassen** — *wordless; silent*
+- **wortlos nicken** — *wordless; silent*
+- **wortlos dastehen** — *wordless; silent*
+
 **Collocations**
 - wortlos verlassen
 - wortlos nicken

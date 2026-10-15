@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Hitze war unerträglich.
 > *The heat was unbearable.*
+
+**Phrases & Expressions:**
+- **Die Hitze war unerträglich** — *The heat was unbearable* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

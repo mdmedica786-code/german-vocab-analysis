@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Gewinner bekommt einen Preis.
 > *The winner gets a prize.*
+
+**Phrases & Expressions:**
+- **Der Gewinner bekommt einen Preis** — *The winner gets a prize* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

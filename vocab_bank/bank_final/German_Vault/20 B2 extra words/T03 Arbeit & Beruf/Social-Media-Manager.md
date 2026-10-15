@@ -30,6 +30,11 @@ status: "new"
 > Der Social-Media-Manager plant die Beiträge.
 > *The social media manager plans the posts.*
 
+**Phrases & Expressions:**
+- **als Social-Media-Manager arbeiten** — *social media manager (male)*
+- **ein erfahrener Social-Media-Manager** — *social media manager (male)*
+- **Social-Media-Manager werden** — *social media manager (male)*
+
 **Collocations**
 - als Social-Media-Manager arbeiten
 - ein erfahrener Social-Media-Manager

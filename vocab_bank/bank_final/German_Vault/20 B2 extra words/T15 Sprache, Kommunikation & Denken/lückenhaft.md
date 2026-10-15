@@ -29,6 +29,11 @@ status: "new"
 > Seine Kenntnisse der Grammatik sind noch lückenhaft.
 > *His knowledge of grammar is still patchy.*
 
+**Phrases & Expressions:**
+- **lückenhafte Kenntnisse** — *patchy; incomplete*
+- **eine lückenhafte Dokumentation** — *patchy; incomplete*
+- **lückenhaft informiert** — *patchy; incomplete*
+
 **Collocations**
 - lückenhafte Kenntnisse
 - eine lückenhafte Dokumentation

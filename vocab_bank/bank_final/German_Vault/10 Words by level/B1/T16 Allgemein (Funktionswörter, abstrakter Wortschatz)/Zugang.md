@@ -35,6 +35,11 @@ status: "new"
 > Der Zugang zu diesem Haus ist schwierig.
 > *Access to this house is difficult.*
 
+**Phrases & Expressions:**
+- **Legen Sie bitte einen venösen Zugang.** — Please place an IV line. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Anweisung geben]] · B2)*
+- **Verstanden, ich lege den Zugang sofort.** — Understood, I'll place the line right away. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Closed-Loop-Kommunikation]] · B2)*
+- **Zugang liegt, Medikamente sind gegeben.** — Line is in, medication given. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Rückmeldung im Team]] · B2)*
+
 **Source:** Netzwerk neu B1 K11 8b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Journalisten sollten sich um Objektivität bemühen.
 > *Journalists should strive for objectivity.*
 
+**Phrases & Expressions:**
+- **Objektivität wahren** — *objectivity*
+- **auf Objektivität achten** — *objectivity*
+- **wissenschaftliche Objektivität** — *objectivity*
+
 **Collocations**
 - Objektivität wahren
 - auf Objektivität achten

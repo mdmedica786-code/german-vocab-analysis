@@ -35,6 +35,9 @@ status: "new"
 > Viele Migranten kommen aus Osteuropa.
 > *Many migrants come from Eastern Europe.*
 
+**Phrases & Expressions:**
+- **Viele Migranten kommen aus Osteuropa** — *Many migrants come from Eastern Europe* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

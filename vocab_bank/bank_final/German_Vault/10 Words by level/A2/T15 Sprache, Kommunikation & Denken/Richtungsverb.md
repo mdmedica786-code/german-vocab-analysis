@@ -31,6 +31,9 @@ status: "new"
 > „Legen“ und „stellen“ sind Richtungsverben.
 > *"Legen" and "stellen" are verbs of direction.*
 
+**Phrases & Expressions:**
+- **„Legen“ und „stellen“ sind Richtungsverben** — *"Legen" and "stellen" are verbs of direction* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 5c (Zusammen leben)
 <!-- bank:end -->
 

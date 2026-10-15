@@ -31,6 +31,9 @@ status: "new"
 > Sämtliche Unterlagen liegen bei.
 > *All the documents are enclosed.*
 
+**Phrases & Expressions:**
+- **Sämtliche Unterlagen liegen bei** — *All the documents are enclosed* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

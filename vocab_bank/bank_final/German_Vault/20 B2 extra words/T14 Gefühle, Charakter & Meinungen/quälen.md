@@ -32,6 +32,11 @@ status: "new"
 > Die Sorgen quälen ihn seit Wochen.
 > *The worries have been tormenting him for weeks.*
 
+**Phrases & Expressions:**
+- **jemanden quälen** — *to torment; to torture; to pester*
+- **sich quälen** — *to torment; to torture; to pester*
+- **von Zweifeln gequält** — *to torment; to torture; to pester*
+
 **Collocations**
 - jemanden quälen
 - sich quälen

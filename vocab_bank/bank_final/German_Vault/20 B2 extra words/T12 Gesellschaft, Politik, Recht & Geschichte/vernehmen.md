@@ -31,6 +31,11 @@ status: "new"
 > Die Polizei vernahm den Zeugen drei Stunden lang.
 > *The police questioned the witness for three hours.*
 
+**Phrases & Expressions:**
+- **einen Zeugen vernehmen** — *to hear; to question (formally)*
+- **ein Geräusch vernehmen** — *to hear; to question (formally)*
+- **sich vernehmen lassen** — *to hear; to question (formally)*
+
 **Collocations**
 - einen Zeugen vernehmen
 - ein Geräusch vernehmen

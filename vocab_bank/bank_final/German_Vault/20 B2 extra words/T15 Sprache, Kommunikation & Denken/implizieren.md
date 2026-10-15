@@ -31,6 +31,11 @@ status: "new"
 > Diese Aussage impliziert, dass er schuldig ist.
 > *This statement implies that he is guilty.*
 
+**Phrases & Expressions:**
+- **etwas implizieren** — *to imply; to involve*
+- **implizieren, dass** — *to imply; to involve*
+- **impliziert** — *to imply; to involve*
+
 **Collocations**
 - etwas implizieren
 - implizieren, dass

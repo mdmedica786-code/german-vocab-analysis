@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Das Konzert hat mich sehr beeindruckt.
 > *The concert impressed me a lot.*
+
+**Phrases & Expressions:**
+- **Das Konzert hat mich sehr beeindruckt** — *The concert impressed me a lot* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -31,6 +31,9 @@ status: "new"
 > Die Räume hier sind mir zu niedrig.
 > *The rooms here are too low for me.*
 
+**Phrases & Expressions:**
+- **Die Räume hier sind mir zu niedrig** — *The rooms here are too low for me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

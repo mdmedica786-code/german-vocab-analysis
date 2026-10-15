@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Betreiber des Restaurants ist sehr freundlich.
 > *The operator of the restaurant is very friendly.*
+
+**Phrases & Expressions:**
+- **Der Betreiber des Restaurants ist sehr freundlich** — *The operator of the restaurant is very friendly* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

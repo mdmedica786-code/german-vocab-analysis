@@ -31,6 +31,11 @@ status: "new"
 > Der Regisseur inszeniert das Stück neu.
 > *The director is staging the play anew.*
 
+**Phrases & Expressions:**
+- **ein Theaterstück inszenieren** — *to stage; to direct (a play); to orchestrate*
+- **eine Oper inszenieren** — *to stage; to direct (a play); to orchestrate*
+- **sich selbst inszenieren** — *to stage; to direct (a play); to orchestrate*
+
 **Collocations**
 - ein Theaterstück inszenieren
 - eine Oper inszenieren

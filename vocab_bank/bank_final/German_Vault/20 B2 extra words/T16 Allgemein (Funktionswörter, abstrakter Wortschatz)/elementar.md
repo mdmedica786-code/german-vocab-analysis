@@ -29,6 +29,11 @@ status: "new"
 > Das ist ein elementares Grundrecht.
 > *That is a fundamental basic right.*
 
+**Phrases & Expressions:**
+- **elementare Kenntnisse** — *elementary; fundamental*
+- **von elementarer Bedeutung** — *elementary; fundamental*
+- **elementare Bedürfnisse** — *elementary; fundamental*
+
 **Collocations**
 - elementare Kenntnisse
 - von elementarer Bedeutung

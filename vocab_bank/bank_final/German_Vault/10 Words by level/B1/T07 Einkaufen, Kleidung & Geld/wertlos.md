@@ -30,6 +30,9 @@ status: "new"
 > Diese alten Geldscheine sind heute völlig wertlos.
 > *These old banknotes are completely worthless today.*
 
+**Phrases & Expressions:**
+- **Diese alten Geldscheine sind heute völlig wertlos** — *These old banknotes are completely worthless today* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -36,6 +36,9 @@ status: "new"
 > Hast du ein Blatt Papier für mich?
 > *Do you have a sheet of paper for me?*
 
+**Phrases & Expressions:**
+- **Hast du ein Blatt Papier für mich** — *Do you have a sheet of paper for me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 11b (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

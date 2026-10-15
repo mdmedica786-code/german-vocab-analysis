@@ -32,6 +32,14 @@ status: "new"
 > Die freie Stelle? Ja, Frau Markovic hat sich danach erkundigt.
 > *The vacant position? Yes, Ms. Markovic inquired after that.*
 
+**Phrases & Expressions:**
+- **Zuerst habe ich ... gemacht, danach ...** — First I did ..., afterwards ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Zeitliche Abfolge erzählen]] · B1)*
+- **Danach ..., zum Schluss ...** — Afterwards ..., finally ... *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ablauf beschreiben]] · B1)*
+- **Danach werde ich Sie körperlich untersuchen.** — After that I will examine you physically. *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Ablauf erklären]] · B1)*
+- **danach fragen** — *after*
+- **kurz danach** — *after*
+- **gleich danach** — *after*
+
 **Collocations**
 - danach fragen
 - kurz danach

@@ -29,6 +29,11 @@ status: "new"
 > Das Schloss war einst ein Kloster.
 > *The castle was once a monastery.*
 
+**Phrases & Expressions:**
+- **einst und jetzt** — *once; formerly*
+- **wie einst** — *once; formerly*
+- **einst berühmt** — *once; formerly*
+
 **Collocations**
 - einst und jetzt
 - wie einst

@@ -32,6 +32,11 @@ status: "new"
 > Er hat gute Umgangsformen und ist immer höflich.
 > *He has good manners and is always polite.*
 
+**Phrases & Expressions:**
+- **gute Umgangsformen** — *manners; etiquette*
+- **Umgangsformen lernen** — *manners; etiquette*
+- **auf Umgangsformen achten** — *manners; etiquette*
+
 **Collocations**
 - gute Umgangsformen
 - Umgangsformen lernen

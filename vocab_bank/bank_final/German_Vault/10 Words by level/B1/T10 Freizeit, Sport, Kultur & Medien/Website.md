@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Website der Klinik ist sehr übersichtlich.
 > *The clinic's website is very clear.*
+
+**Phrases & Expressions:**
+- **Die Website der Klinik ist sehr übersichtlich** — *The clinic's website is very clear* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

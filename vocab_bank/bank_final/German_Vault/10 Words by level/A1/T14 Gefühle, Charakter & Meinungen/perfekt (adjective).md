@@ -31,6 +31,9 @@ status: "new"
 > Die Reiseorganisation war perfekt.
 > *The travel organisation was perfect.*
 
+**Phrases & Expressions:**
+- **Die Reiseorganisation war perfekt** — *The travel organisation was perfect* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 12b (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

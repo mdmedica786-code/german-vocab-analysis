@@ -36,6 +36,9 @@ status: "new"
 > Der Staat unterstützt Familien mit Kindern.
 > *The state supports families with children.*
 
+**Phrases & Expressions:**
+- **Der Staat unterstützt Familien mit Kindern** — *The state supports families with children* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

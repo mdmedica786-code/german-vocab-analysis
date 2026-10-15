@@ -29,6 +29,11 @@ status: "new"
 > Das Buch wurde vielfach kritisiert.
 > *The book was criticised many times.*
 
+**Phrases & Expressions:**
+- **vielfach kritisiert** — *often; many times over*
+- **vielfach bewährt** — *often; many times over*
+- **auf vielfachen Wunsch** — *often; many times over*
+
 **Collocations**
 - vielfach kritisiert
 - vielfach bewährt

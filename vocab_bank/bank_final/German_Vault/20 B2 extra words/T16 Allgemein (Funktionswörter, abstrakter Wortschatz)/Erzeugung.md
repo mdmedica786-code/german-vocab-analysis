@@ -33,6 +33,11 @@ status: "new"
 > Die Erzeugung von Strom verursacht Kosten.
 > *The generation of electricity causes costs.*
 
+**Phrases & Expressions:**
+- **die Erzeugung von Strom** — *production; generation*
+- **zur Erzeugung** — *production; generation*
+- **die Erzeugung erneuerbarer Energie** — *production; generation*
+
 **Collocations**
 - die Erzeugung von Strom
 - zur Erzeugung

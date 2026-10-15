@@ -34,6 +34,9 @@ status: "new"
 > Zu Ostern besuchen wir meine Eltern.
 > *At Easter we visit my parents.*
 
+**Phrases & Expressions:**
+- **Zu Ostern besuchen wir meine Eltern** — *At Easter we visit my parents* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

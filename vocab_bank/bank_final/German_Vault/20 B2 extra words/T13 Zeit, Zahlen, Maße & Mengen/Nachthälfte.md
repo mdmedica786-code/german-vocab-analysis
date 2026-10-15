@@ -33,6 +33,11 @@ status: "new"
 > Die zweite Nachthälfte war ruhiger als die erste.
 > *The second half of the night was quieter than the first.*
 
+**Phrases & Expressions:**
+- **die erste Nachthälfte** — *half of the night*
+- **in der zweiten Nachthälfte** — *half of the night*
+- **die Nachthälfte verbringen** — *half of the night*
+
 **Collocations**
 - die erste Nachthälfte
 - in der zweiten Nachthälfte

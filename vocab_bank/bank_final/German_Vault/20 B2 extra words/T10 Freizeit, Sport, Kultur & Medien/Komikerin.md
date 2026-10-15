@@ -33,6 +33,11 @@ status: "new"
 > Die Komikerin erzählt Witze über den Alltag.
 > *The comedian tells jokes about everyday life.*
 
+**Phrases & Expressions:**
+- **eine bekannte Komikerin** — *comedian (female)*
+- **die Komikerin tritt auf** — *comedian (female)*
+- **als Komikerin arbeiten** — *comedian (female)*
+
 **Collocations**
 - eine bekannte Komikerin
 - die Komikerin tritt auf

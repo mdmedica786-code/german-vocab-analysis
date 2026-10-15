@@ -34,6 +34,9 @@ status: "new"
 > Hier gibt es leider kein Signal.
 > *Unfortunately there is no signal here.*
 
+**Phrases & Expressions:**
+- **Hier gibt es leider kein Signal** — *Unfortunately there is no signal here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1b (Rund um Körper und Geist)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Nach der Ankunft müssen wir einige Formalitäten erledigen.
 > *After our arrival we have to complete a few formalities.*
 
+**Phrases & Expressions:**
+- **Formalitäten erledigen** — *formality*
+- **die üblichen Formalitäten** — *formality*
+- **nur eine Formalität** — *formality*
+
 **Collocations**
 - Formalitäten erledigen
 - die üblichen Formalitäten

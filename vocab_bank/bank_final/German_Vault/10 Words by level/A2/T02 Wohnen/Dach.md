@@ -35,6 +35,9 @@ status: "new"
 > Wir müssen das Dach reparieren lassen.
 > *We have to have the roof repaired.*
 
+**Phrases & Expressions:**
+- **Wir müssen das Dach reparieren lassen** — *We have to have the roof repaired* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1a ÜB (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

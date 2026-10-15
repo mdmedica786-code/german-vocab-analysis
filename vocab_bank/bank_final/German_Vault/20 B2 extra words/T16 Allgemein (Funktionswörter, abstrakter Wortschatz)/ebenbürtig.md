@@ -29,6 +29,11 @@ status: "new"
 > Die beiden Gegner sind einander ebenbürtig.
 > *The two opponents are equal to one another.*
 
+**Phrases & Expressions:**
+- **jemandem ebenbürtig sein** — *equal; on a par*
+- **ein ebenbürtiger Gegner** — *equal; on a par*
+- **an Können ebenbürtig** — *equal; on a par*
+
 **Collocations**
 - jemandem ebenbürtig sein
 - ein ebenbürtiger Gegner

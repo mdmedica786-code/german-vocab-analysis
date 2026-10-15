@@ -34,6 +34,9 @@ status: "new"
 > Herzliche Gratulation! Sie haben gewonnen!
 > *Congratulations! You have won!*
 
+**Phrases & Expressions:**
+- **Herzliche Gratulation! Sie haben gewonnen** — *Congratulations! You have won* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

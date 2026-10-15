@@ -33,6 +33,11 @@ status: "new"
 > Der Filmemacher dreht einen Film über die Stadt.
 > *The filmmaker is making a film about the city.*
 
+**Phrases & Expressions:**
+- **ein bekannter Filmemacher** — *filmmaker (male)*
+- **der Filmemacher dreht** — *filmmaker (male)*
+- **als Filmemacher arbeiten** — *filmmaker (male)*
+
 **Collocations**
 - ein bekannter Filmemacher
 - der Filmemacher dreht

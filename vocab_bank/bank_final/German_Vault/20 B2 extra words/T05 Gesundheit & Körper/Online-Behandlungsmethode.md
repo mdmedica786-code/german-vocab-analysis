@@ -30,6 +30,11 @@ status: "new"
 > Die Online-Behandlungsmethode spart den Weg zur Praxis.
 > *The online treatment method saves the trip to the practice.*
 
+**Phrases & Expressions:**
+- **eine Online-Behandlungsmethode nutzen** — *online treatment method*
+- **eine neue Online-Behandlungsmethode** — *online treatment method*
+- **Online-Behandlungsmethoden testen** — *online treatment method*
+
 **Collocations**
 - eine Online-Behandlungsmethode nutzen
 - eine neue Online-Behandlungsmethode

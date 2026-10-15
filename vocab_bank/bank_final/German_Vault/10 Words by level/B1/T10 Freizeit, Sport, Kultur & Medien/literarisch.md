@@ -30,6 +30,9 @@ status: "new"
 > Das ist ein literarisches Werk.
 > *That is a literary work.*
 
+**Phrases & Expressions:**
+- **Das ist ein literarisches Werk** — *That is a literary work* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 4b (Veränderungen)
 <!-- bank:end -->
 

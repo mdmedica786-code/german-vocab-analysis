@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Zum Geburtstag habe ich einen Gutschein bekommen.
 > *For my birthday I got a voucher.*
+
+**Phrases & Expressions:**
+- **Zum Geburtstag habe ich einen Gutschein bekommen** — *For my birthday I got a voucher* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

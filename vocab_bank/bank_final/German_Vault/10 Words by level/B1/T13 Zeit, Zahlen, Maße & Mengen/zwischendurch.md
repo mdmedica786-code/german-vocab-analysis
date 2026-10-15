@@ -30,6 +30,9 @@ status: "new"
 > Zwischendurch trinke ich einen Kaffee.
 > *In between I have a coffee.*
 
+**Phrases & Expressions:**
+- **Zwischendurch trinke ich einen Kaffee** — *In between I have a coffee* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist)
 <!-- bank:end -->
 

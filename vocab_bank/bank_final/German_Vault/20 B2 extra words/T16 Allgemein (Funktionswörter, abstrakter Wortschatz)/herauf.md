@@ -29,6 +29,11 @@ status: "new"
 > Kommen Sie bitte herauf in den dritten Stock!
 > *Please come up to the third floor!*
 
+**Phrases & Expressions:**
+- **heraufkommen** — *up (towards the speaker)*
+- **die Treppe herauf** — *up (towards the speaker)*
+- **von unten herauf** — *up (towards the speaker)*
+
 **Collocations**
 - heraufkommen
 - die Treppe herauf

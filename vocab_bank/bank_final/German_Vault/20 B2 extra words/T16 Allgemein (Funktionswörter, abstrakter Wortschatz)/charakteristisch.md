@@ -29,6 +29,11 @@ status: "new"
 > Das ist charakteristisch für die Region.
 > *That is characteristic of the region.*
 
+**Phrases & Expressions:**
+- **charakteristisch für** — *characteristic; typical*
+- **ein charakteristisches Merkmal** — *characteristic; typical*
+- **charakteristisch sein** — *characteristic; typical*
+
 **Collocations**
 - charakteristisch für
 - ein charakteristisches Merkmal

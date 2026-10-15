@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die medizinische Versorgung auf dem Land ist schwierig.
 > *Medical care in rural areas is difficult.*
+
+**Phrases & Expressions:**
+- **Die medizinische Versorgung auf dem Land ist schwierig** — *Medical care in rural areas is difficult* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -34,6 +34,9 @@ status: "new"
 > Vor der Prüfung spürte ich große Nervosität.
 > *Before the exam I felt great nervousness.*
 
+**Phrases & Expressions:**
+- **Vor der Prüfung spürte ich große Nervosität** — *Before the exam I felt great nervousness* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3c (Gelernt ist gelernt!)
 <!-- bank:end -->
 

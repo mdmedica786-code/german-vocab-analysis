@@ -26,6 +26,9 @@ status: "new"
 > Die Budgetfrage steht heute auf der Tagesordnung.
 > *The budget question is on the agenda today.*
 
+**Phrases & Expressions:**
+- **auf die Tagesordnung setzen** — *to be on the agenda*
+
 **Collocations**
 - auf die Tagesordnung setzen
 

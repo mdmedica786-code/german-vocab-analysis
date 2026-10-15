@@ -32,6 +32,9 @@ status: "new"
 > Draußen nieselt es seit dem Morgen.
 > *It has been drizzling outside since the morning.*
 
+**Phrases & Expressions:**
+- **Draußen nieselt es seit dem Morgen** — *It has been drizzling outside since the morning* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 11a (Umweltfreundlich?)
 <!-- bank:end -->
 

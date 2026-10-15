@@ -35,6 +35,9 @@ status: "new"
 > Wie kann ich im Haushalt Strom sparen?
 > *How can I save electricity in the household?*
 
+**Phrases & Expressions:**
+- **Wie kann ich im Haushalt Strom sparen** — *How can I save electricity in the household* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

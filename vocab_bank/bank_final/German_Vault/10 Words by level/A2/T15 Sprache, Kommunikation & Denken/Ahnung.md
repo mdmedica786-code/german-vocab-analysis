@@ -35,6 +35,14 @@ status: "new"
 > Kommst du heute? - Keine Ahnung.
 > *Are you coming today? - No idea.*
 
+**Phrases & Expressions:**
+- **keine Ahnung** — no idea *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · A2)*
+- **keine Ahnung, was ...** — no idea what ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **keine Ahnung, wie ...** — no idea how ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **ich habe keine Ahnung** — I have no idea *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · A2)*
+- **ich hatte keine Ahnung** — I had no idea *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **ich habe keine Ahnung, was ...** — I have no idea what ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+
 **Source:** Netzwerk neu A2 K4 6c (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

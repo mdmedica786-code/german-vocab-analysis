@@ -31,6 +31,13 @@ status: "new"
 > Ich überlege, wie es dir wohl geht.
 > *I'm thinking about how you might be doing.*
 
+**Phrases & Expressions:**
+- **zum Wohl** — cheers *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A1)*
+- **Er ist wohl krank.** — He is probably ill. *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Vermutung äußern]] · B1)*
+- **sich wohlfühlen** — *probably; well; comfortable*
+- **wohl kaum** — *probably; well; comfortable*
+- **wohl oder übel** — *probably; well; comfortable*
+
 **Collocations**
 - sich wohlfühlen
 - wohl kaum

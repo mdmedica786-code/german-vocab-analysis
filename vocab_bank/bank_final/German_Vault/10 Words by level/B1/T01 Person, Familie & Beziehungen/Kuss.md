@@ -35,6 +35,9 @@ status: "new"
 > Gib der Mama einen Kuss!
 > *Give Mummy a kiss!*
 
+**Phrases & Expressions:**
+- **Gib der Mama einen Kuss** — *Give Mummy a kiss* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

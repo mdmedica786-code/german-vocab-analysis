@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Der Arzt beurteilt den Zustand des Patienten.
 > *The doctor assesses the patient's condition.*
+
+**Phrases & Expressions:**
+- **Wir veranlassen eine Computertomografie, um das genauer zu beurteilen.** — We will arrange a CT scan to assess this more precisely. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|CT und MRT]] · B2)*
 <!-- bank:end -->
 
 ## My notes

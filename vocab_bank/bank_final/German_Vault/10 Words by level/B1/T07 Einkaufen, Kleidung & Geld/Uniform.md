@@ -35,6 +35,9 @@ status: "new"
 > In der Schule, die sie besucht, trägt man Uniformen.
 > *At the school she attends, people wear uniforms.*
 
+**Phrases & Expressions:**
+- **In der Schule, die sie besucht, trägt man Uniformen** — *At the school she attends, people wear uniforms* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7a ÜB (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

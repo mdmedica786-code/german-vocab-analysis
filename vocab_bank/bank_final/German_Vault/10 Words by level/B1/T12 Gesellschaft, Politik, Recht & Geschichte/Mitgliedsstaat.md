@@ -34,6 +34,9 @@ status: "new"
 > Deutschland ist ein Mitgliedsstaat der EU.
 > *Germany is a member state of the EU.*
 
+**Phrases & Expressions:**
+- **Deutschland ist ein Mitgliedsstaat der EU** — *Germany is a member state of the EU* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 11a (Miteinander)
 <!-- bank:end -->
 

@@ -32,6 +32,11 @@ status: "new"
 > Die Firma schüttet jedes Jahr Gewinne an die Aktionäre aus.
 > *Every year the company distributes profits to its shareholders.*
 
+**Phrases & Expressions:**
+- **Gewinne ausschütten** — *to pour out; to distribute (money)*
+- **Wasser ausschütten** — *to pour out; to distribute (money)*
+- **sein Herz ausschütten** — *to pour out; to distribute (money)*
+
 **Collocations**
 - Gewinne ausschütten
 - Wasser ausschütten

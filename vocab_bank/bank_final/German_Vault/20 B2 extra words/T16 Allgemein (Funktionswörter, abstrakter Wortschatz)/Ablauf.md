@@ -33,6 +33,12 @@ status: "new"
 > Der Ablauf der Veranstaltung ist genau geplant.
 > *The course of the event is planned exactly.*
 
+**Phrases & Expressions:**
+- **Der Ablauf ist ganz einfach: ...** — The procedure is very simple: ... *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ablauf beschreiben]] · B1)*
+- **nach Ablauf der Frist** — *course; process; expiry*
+- **ein reibungsloser Ablauf** — *course; process; expiry*
+- **der Ablauf eines Verfahrens** — *course; process; expiry*
+
 **Collocations**
 - nach Ablauf der Frist
 - ein reibungsloser Ablauf

@@ -34,6 +34,9 @@ status: "new"
 > Sie arbeitet in einem Architekturbüro.
 > *She works in an architecture firm.*
 
+**Phrases & Expressions:**
+- **Sie arbeitet in einem Architekturbüro** — *She works in an architecture firm* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7b (Miteinander)
 <!-- bank:end -->
 

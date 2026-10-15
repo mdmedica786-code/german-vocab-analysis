@@ -31,6 +31,12 @@ status: "new"
 > Das System ist nicht sozial.
 > *The system is not socially fair.*
 
+**Phrases & Expressions:**
+- **soziale Probleme** — *social*
+- **soziale Netzwerke** — *social*
+- **sozialer Wohnungsbau** — *social*
+- **soziales Verhalten** — *social*
+
 **Collocations**
 - soziale Probleme
 - soziale Netzwerke

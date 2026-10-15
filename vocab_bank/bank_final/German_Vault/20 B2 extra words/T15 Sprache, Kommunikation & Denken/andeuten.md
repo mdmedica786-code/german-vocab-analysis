@@ -32,6 +32,11 @@ status: "new"
 > Sie hat angedeutet, dass sie die Firma verlassen möchte.
 > *She hinted that she wants to leave the company.*
 
+**Phrases & Expressions:**
+- **deutet darauf hin, dass ...** — indicates that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **etwas andeuten** — *to hint at; to indicate*
+- **vorsichtig andeuten** — *to hint at; to indicate*
+
 **Collocations**
 - etwas andeuten
 - vorsichtig andeuten

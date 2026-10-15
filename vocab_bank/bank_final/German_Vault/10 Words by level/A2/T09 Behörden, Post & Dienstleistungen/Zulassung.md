@@ -34,6 +34,9 @@ status: "new"
 > Die Zulassung zum Studium ist beantragt.
 > *Admission to the course has been applied for.*
 
+**Phrases & Expressions:**
+- **Die Zulassung zum Studium ist beantragt** — *Admission to the course has been applied for* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 6c (Zusammen leben)
 <!-- bank:end -->
 

@@ -31,6 +31,11 @@ status: "new"
 > Die Ministerin bekräftigte ihre Absicht, die Steuern zu senken.
 > *The minister reaffirmed her intention to lower taxes.*
 
+**Phrases & Expressions:**
+- **eine Aussage bekräftigen** — *to reaffirm; to confirm*
+- **einen Entschluss bekräftigen** — *to reaffirm; to confirm*
+- **die Forderung bekräftigen** — *to reaffirm; to confirm*
+
 **Collocations**
 - eine Aussage bekräftigen
 - einen Entschluss bekräftigen

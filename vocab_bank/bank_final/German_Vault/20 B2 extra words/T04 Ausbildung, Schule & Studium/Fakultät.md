@@ -33,6 +33,11 @@ status: "new"
 > Er studiert an der juristischen Fakultät.
 > *He studies at the faculty of law.*
 
+**Phrases & Expressions:**
+- **an der Fakultät** — *faculty (university)*
+- **die philosophische Fakultät** — *faculty (university)*
+- **der Dekan der Fakultät** — *faculty (university)*
+
 **Collocations**
 - an der Fakultät
 - die philosophische Fakultät

@@ -30,6 +30,10 @@ status: "new"
 > [!example] Beispiel
 > Rück bitte ein Stück zur Seite.
 > *Please move over a bit.*
+
+**Phrases & Expressions:**
+- **Legen Sie sich bitte auf den Rücken.** — Please lie on your back. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Lagerung]] · A2)*
+- **Ich muss Sie auch noch kurz am Rücken untersuchen.** — I also need to examine your back briefly. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Untersuchung ankündigen]] · B1)*
 <!-- bank:end -->
 
 ## My notes

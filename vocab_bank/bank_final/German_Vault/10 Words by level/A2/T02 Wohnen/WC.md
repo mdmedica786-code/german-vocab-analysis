@@ -34,6 +34,9 @@ status: "new"
 > Das WC ist am Ende des Flurs.
 > *The toilet is at the end of the hallway.*
 
+**Phrases & Expressions:**
+- **Das WC ist am Ende des Flurs** — *The toilet is at the end of the hallway* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 9c (Und was machst du?)
 <!-- bank:end -->
 

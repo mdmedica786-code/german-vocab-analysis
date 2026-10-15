@@ -33,6 +33,12 @@ status: "new"
 > Wie lautet die Definition von Gesundheit?
 > *What is the definition of health?*
 
+**Phrases & Expressions:**
+- **eine Definition geben** — *definition*
+- **die Definition lautet** — *definition*
+- **nach der Definition** — *definition*
+- **eine genaue Definition** — *definition*
+
 **Collocations**
 - eine Definition geben
 - die Definition lautet

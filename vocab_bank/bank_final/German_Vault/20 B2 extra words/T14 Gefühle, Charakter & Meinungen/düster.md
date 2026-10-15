@@ -29,6 +29,11 @@ status: "new"
 > Es war ein düsterer Tag im November.
 > *It was a gloomy day in November.*
 
+**Phrases & Expressions:**
+- **ein düsterer Raum** — *gloomy; dark; bleak*
+- **eine düstere Zukunft** — *gloomy; dark; bleak*
+- **düster aussehen** — *gloomy; dark; bleak*
+
 **Collocations**
 - ein düsterer Raum
 - eine düstere Zukunft

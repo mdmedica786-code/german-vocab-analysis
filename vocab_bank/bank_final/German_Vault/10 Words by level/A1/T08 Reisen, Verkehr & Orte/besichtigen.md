@@ -33,6 +33,9 @@ status: "new"
 > Ich möchte gern den Dom besichtigen.
 > *I would like to visit the cathedral.*
 
+**Phrases & Expressions:**
+- **Ich möchte gern den Dom besichtigen** — *I would like to visit the cathedral* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 4f ÜB (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

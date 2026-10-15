@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Das GPS zeigt den Weg.
 > *The GPS shows the way.*
+
+**Phrases & Expressions:**
+- **Das GPS zeigt den Weg** — *The GPS shows the way* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

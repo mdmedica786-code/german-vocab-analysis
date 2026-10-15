@@ -33,6 +33,11 @@ status: "new"
 > Das Warten war eine Qual für sie.
 > *The waiting was an ordeal for her.*
 
+**Phrases & Expressions:**
+- **große Qualen leiden** — *torment; agony; ordeal*
+- **eine Qual sein** — *torment; agony; ordeal*
+- **die Qual der Wahl** — *torment; agony; ordeal*
+
 **Collocations**
 - große Qualen leiden
 - eine Qual sein

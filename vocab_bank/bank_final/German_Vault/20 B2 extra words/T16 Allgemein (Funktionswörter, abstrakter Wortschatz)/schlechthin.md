@@ -29,6 +29,11 @@ status: "new"
 > Er ist der Fußballstar schlechthin.
 > *He is the football star par excellence.*
 
+**Phrases & Expressions:**
+- **der Held schlechthin** — *per se; par excellence; absolute*
+- **die Katastrophe schlechthin** — *per se; par excellence; absolute*
+- **das Böse schlechthin** — *per se; par excellence; absolute*
+
 **Collocations**
 - der Held schlechthin
 - die Katastrophe schlechthin

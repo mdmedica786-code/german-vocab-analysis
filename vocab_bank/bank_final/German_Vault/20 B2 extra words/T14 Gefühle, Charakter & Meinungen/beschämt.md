@@ -29,6 +29,11 @@ status: "new"
 > Beschämt senkte er den Blick.
 > *Ashamed, he lowered his gaze.*
 
+**Phrases & Expressions:**
+- **beschämt schweigen** — *ashamed; embarrassed*
+- **sich beschämt fühlen** — *ashamed; embarrassed*
+- **beschämt wegschauen** — *ashamed; embarrassed*
+
 **Collocations**
 - beschämt schweigen
 - sich beschämt fühlen

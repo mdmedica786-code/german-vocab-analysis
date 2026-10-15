@@ -30,6 +30,11 @@ status: "new"
 > „Kein“ und „nie“ sind Negationswörter.
 > *"Kein" and "nie" are negation words.*
 
+**Phrases & Expressions:**
+- **ein Negationswort verwenden** — *negation word (e.g. nicht, kein)*
+- **Negationswörter im Satz** — *negation word (e.g. nicht, kein)*
+- **ein Negationswort unterstreichen** — *negation word (e.g. nicht, kein)*
+
 **Collocations**
 - ein Negationswort verwenden
 - Negationswörter im Satz

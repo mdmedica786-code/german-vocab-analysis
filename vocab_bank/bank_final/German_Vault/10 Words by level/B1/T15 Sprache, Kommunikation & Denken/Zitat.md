@@ -34,6 +34,9 @@ status: "new"
 > Dieses Zitat stammt von Goethe.
 > *This quotation is by Goethe.*
 
+**Phrases & Expressions:**
+- **Dieses Zitat stammt von Goethe** — *This quotation is by Goethe* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 5a (Blick nach vorn)
 <!-- bank:end -->
 

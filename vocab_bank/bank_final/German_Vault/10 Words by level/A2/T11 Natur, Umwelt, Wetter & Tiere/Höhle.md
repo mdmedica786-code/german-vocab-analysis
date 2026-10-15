@@ -34,6 +34,9 @@ status: "new"
 > Die Kinder spielen in einer Höhle.
 > *The children are playing in a cave.*
 
+**Phrases & Expressions:**
+- **Die Kinder spielen in einer Höhle** — *The children are playing in a cave* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

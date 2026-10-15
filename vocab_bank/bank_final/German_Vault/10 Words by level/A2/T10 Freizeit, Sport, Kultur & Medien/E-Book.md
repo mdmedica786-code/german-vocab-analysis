@@ -35,6 +35,9 @@ status: "new"
 > Liest du lieber E-Books oder Bücher aus Papier?
 > *Do you prefer to read e-books or paper books?*
 
+**Phrases & Expressions:**
+- **Liest du lieber E-Books oder Bücher aus Papier** — *Do you prefer to read e-books or paper books* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1b (Immer online?) · Goethe word list A2
 <!-- bank:end -->
 

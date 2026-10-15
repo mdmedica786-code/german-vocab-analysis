@@ -35,6 +35,9 @@ status: "new"
 > Miriam liest gern spannende Krimis.
 > *Miriam likes reading exciting crime novels.*
 
+**Phrases & Expressions:**
+- **Miriam liest gern spannende Krimis** — *Miriam likes reading exciting crime novels* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12a (Immer online?) · Goethe word list A2
 <!-- bank:end -->
 

@@ -32,6 +32,11 @@ status: "new"
 > Die Bürger wollen die Stadt mitgestalten.
 > *The citizens want to help shape the city.*
 
+**Phrases & Expressions:**
+- **die Zukunft mitgestalten** — *to help shape; to co-design*
+- **die Stadt mitgestalten** — *to help shape; to co-design*
+- **den Unterricht mitgestalten** — *to help shape; to co-design*
+
 **Collocations**
 - die Zukunft mitgestalten
 - die Stadt mitgestalten

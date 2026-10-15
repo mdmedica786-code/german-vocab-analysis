@@ -33,6 +33,11 @@ status: "new"
 > Die Rodung des Waldes gefährdet viele Tierarten.
 > *The clearing of the forest endangers many animal species.*
 
+**Phrases & Expressions:**
+- **Rodung stoppen** — *clearing; deforestation*
+- **illegale Rodung** — *clearing; deforestation*
+- **Rodung des Regenwaldes** — *clearing; deforestation*
+
 **Collocations**
 - Rodung stoppen
 - illegale Rodung

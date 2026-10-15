@@ -33,6 +33,11 @@ status: "new"
 > Das Armband meiner Uhr ist kaputtgegangen.
 > *The strap of my watch has broken.*
 
+**Phrases & Expressions:**
+- **ein Armband tragen** — *bracelet; strap*
+- **ein silbernes Armband** — *bracelet; strap*
+- **das Armband ersetzen** — *bracelet; strap*
+
 **Collocations**
 - ein Armband tragen
 - ein silbernes Armband

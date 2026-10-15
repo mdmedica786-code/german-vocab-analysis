@@ -33,6 +33,11 @@ status: "new"
 > Vor der Prüfung war die Anspannung groß.
 > *Before the exam the tension was great.*
 
+**Phrases & Expressions:**
+- **nervliche Anspannung** — *tension; strain*
+- **die Anspannung lösen** — *tension; strain*
+- **große Anspannung** — *tension; strain*
+
 **Collocations**
 - nervliche Anspannung
 - die Anspannung lösen

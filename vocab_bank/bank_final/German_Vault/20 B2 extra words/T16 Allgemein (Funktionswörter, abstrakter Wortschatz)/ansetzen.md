@@ -32,6 +32,11 @@ status: "new"
 > Die Sitzung wurde für Montag angesetzt.
 > *The meeting was scheduled for Monday.*
 
+**Phrases & Expressions:**
+- **einen Termin ansetzen** — *to schedule; to start; to apply*
+- **zum Sprung ansetzen** — *to schedule; to start; to apply*
+- **Fett ansetzen** — *to schedule; to start; to apply*
+
 **Collocations**
 - einen Termin ansetzen
 - zum Sprung ansetzen

@@ -33,6 +33,11 @@ status: "new"
 > Die EU hat Einwegplastik wie Strohhalme verboten.
 > *The EU has banned single-use plastic such as straws.*
 
+**Phrases & Expressions:**
+- **Einwegplastik verbieten** — *single-use plastic*
+- **Einwegplastik vermeiden** — *single-use plastic*
+- **Verbot von Einwegplastik** — *single-use plastic*
+
 **Collocations**
 - Einwegplastik verbieten
 - Einwegplastik vermeiden

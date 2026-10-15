@@ -34,6 +34,9 @@ status: "new"
 > Bitte kreuzen Sie an: „Geschlecht: weiblich/männlich“.
 > *Please tick: "Sex: female/male".*
 
+**Phrases & Expressions:**
+- **Bitte kreuzen Sie an: „Geschlecht: weiblich/männlich“** — *Please tick: "Sex: female/male"* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

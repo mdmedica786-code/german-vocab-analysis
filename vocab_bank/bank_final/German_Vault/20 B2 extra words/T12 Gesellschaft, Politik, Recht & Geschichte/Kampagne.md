@@ -33,6 +33,11 @@ status: "new"
 > Die Kampagne gegen das Rauchen war erfolgreich.
 > *The campaign against smoking was successful.*
 
+**Phrases & Expressions:**
+- **eine Kampagne starten** — *campaign*
+- **eine Kampagne gegen** — *campaign*
+- **eine Werbekampagne** — *campaign*
+
 **Collocations**
 - eine Kampagne starten
 - eine Kampagne gegen

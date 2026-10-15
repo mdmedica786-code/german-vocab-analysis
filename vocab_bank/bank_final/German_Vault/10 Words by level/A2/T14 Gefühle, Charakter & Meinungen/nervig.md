@@ -30,6 +30,9 @@ status: "new"
 > Das ständige Klingeln ist nervig.
 > *The constant ringing is annoying.*
 
+**Phrases & Expressions:**
+- **Das ständige Klingeln ist nervig** — *The constant ringing is annoying* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil)
 <!-- bank:end -->
 

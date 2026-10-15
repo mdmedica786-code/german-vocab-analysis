@@ -35,6 +35,9 @@ status: "new"
 > Um zu wählen, gehen Sie bitte in diese Kabine.
 > *To vote, please go into this booth.*
 
+**Phrases & Expressions:**
+- **Um zu wählen, gehen Sie bitte in diese Kabine** — *To vote, please go into this booth* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 1a ÜB (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

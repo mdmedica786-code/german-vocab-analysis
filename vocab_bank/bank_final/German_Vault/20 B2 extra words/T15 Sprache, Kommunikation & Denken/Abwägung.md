@@ -33,6 +33,11 @@ status: "new"
 > Nach sorgfältiger Abwägung entschied sich die Kommission für den Umbau.
 > *After careful consideration the commission decided on the conversion.*
 
+**Phrases & Expressions:**
+- **nach Abwägung** — *weighing up; consideration*
+- **sorgfältige Abwägung** — *weighing up; consideration*
+- **Abwägung von Vor- und Nachteilen** — *weighing up; consideration*
+
 **Collocations**
 - nach Abwägung
 - sorgfältige Abwägung

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das steht im Handbuch auf Seite zehn.
 > *It says that in the manual on page ten.*
+
+**Phrases & Expressions:**
+- **Das steht im Handbuch auf Seite zehn** — *It says that in the manual on page ten* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -31,6 +31,11 @@ status: "new"
 > Bewahren Sie bitte Ruhe!
 > *Please keep calm!*
 
+**Phrases & Expressions:**
+- **Ruhe bewahren** — *to preserve; to keep; to protect*
+- **vor etwas bewahren** — *to preserve; to keep; to protect*
+- **Traditionen bewahren** — *to preserve; to keep; to protect*
+
 **Collocations**
 - Ruhe bewahren
 - vor etwas bewahren

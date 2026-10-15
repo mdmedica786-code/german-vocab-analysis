@@ -29,6 +29,11 @@ status: "new"
 > Der Angeklagte blieb verstockt und schwieg.
 > *The accused remained obstinate and kept silent.*
 
+**Phrases & Expressions:**
+- **verstockt sein** — *obstinate; stubborn*
+- **verstockt schweigen** — *obstinate; stubborn*
+- **ein verstockter Mensch** — *obstinate; stubborn*
+
 **Collocations**
 - verstockt sein
 - verstockt schweigen

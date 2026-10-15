@@ -34,6 +34,9 @@ status: "new"
 > Blickkontakt ist im Gespräch wichtig.
 > *Eye contact is important in a conversation.*
 
+**Phrases & Expressions:**
+- **Blickkontakt ist im Gespräch wichtig** — *Eye contact is important in a conversation* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 10c (Geld regiert die Welt?)
 <!-- bank:end -->
 

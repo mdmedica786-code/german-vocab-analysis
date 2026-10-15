@@ -32,6 +32,11 @@ status: "new"
 > Im Labor experimentieren die Studenten mit neuen Stoffen.
 > *In the lab the students experiment with new substances.*
 
+**Phrases & Expressions:**
+- **mit etwas experimentieren** — *to experiment*
+- **im Labor experimentieren** — *to experiment*
+- **gern experimentieren** — *to experiment*
+
 **Collocations**
 - mit etwas experimentieren
 - im Labor experimentieren

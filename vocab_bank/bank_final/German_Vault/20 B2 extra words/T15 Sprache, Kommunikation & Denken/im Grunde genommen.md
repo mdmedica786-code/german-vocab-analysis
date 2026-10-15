@@ -29,6 +29,10 @@ status: "new"
 > Im Grunde genommen hast du recht.
 > *Basically you are right.*
 
+**Phrases & Expressions:**
+- **im Grunde** — *basically; at bottom*
+- **eigentlich** — *basically; at bottom*
+
 **Collocations**
 - im Grunde
 - eigentlich

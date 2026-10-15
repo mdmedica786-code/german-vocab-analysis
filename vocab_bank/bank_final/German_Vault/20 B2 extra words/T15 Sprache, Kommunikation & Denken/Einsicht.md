@@ -33,6 +33,11 @@ status: "new"
 > Sie kam zu der Einsicht, dass sie einen Fehler gemacht hatte.
 > *She came to the realisation that she had made a mistake.*
 
+**Phrases & Expressions:**
+- **zu der Einsicht kommen** — *insight; realisation; access (to files)*
+- **Einsicht zeigen** — *insight; realisation; access (to files)*
+- **Einsicht in Akten** — *insight; realisation; access (to files)*
+
 **Collocations**
 - zu der Einsicht kommen
 - Einsicht zeigen

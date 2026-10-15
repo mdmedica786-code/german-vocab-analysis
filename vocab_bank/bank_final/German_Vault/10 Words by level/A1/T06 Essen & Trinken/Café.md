@@ -34,6 +34,9 @@ status: "new"
 > Wir treffen uns im Café am Marktplatz.
 > *We're meeting at the café on the market square.*
 
+**Phrases & Expressions:**
+- **Wir treffen uns im Café am Marktplatz** — *We're meeting at the café on the market square* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 5b (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

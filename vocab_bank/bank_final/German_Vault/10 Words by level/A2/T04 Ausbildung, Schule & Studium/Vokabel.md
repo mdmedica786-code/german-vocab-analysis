@@ -34,6 +34,9 @@ status: "new"
 > Ich lerne jeden Tag zehn neue Vokabeln.
 > *I learn ten new vocabulary words every day.*
 
+**Phrases & Expressions:**
+- **Ich lerne jeden Tag zehn neue Vokabeln** — *I learn ten new vocabulary words every day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 2c (Arbeitswelten)
 <!-- bank:end -->
 

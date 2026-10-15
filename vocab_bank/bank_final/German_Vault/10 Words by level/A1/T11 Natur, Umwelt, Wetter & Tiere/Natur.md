@@ -35,6 +35,12 @@ status: "new"
 > Ich bin gern draußen in der Natur.
 > *I like being outside in nature.*
 
+**Phrases & Expressions:**
+- **in der Natur** — *nature*
+- **die Natur schützen** — *nature*
+- **die Natur genießen** — *nature*
+- **von Natur aus** — *nature*
+
 **Collocations**
 - in der Natur
 - die Natur schützen

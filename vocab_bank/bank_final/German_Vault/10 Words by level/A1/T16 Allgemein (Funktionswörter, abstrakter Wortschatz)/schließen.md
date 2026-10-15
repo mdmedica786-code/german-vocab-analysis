@@ -33,6 +33,10 @@ status: "new"
 > Bitte schließ die Tür.
 > *Please close the door.*
 
+**Phrases & Expressions:**
+- **Würden Sie bitte das Fenster schließen?** — Would you please close the window? *([[B1-07 Bitten und höflich nachfragen|Um etwas bitten]] · B1)*
+- **Daraus lässt sich schließen, dass ...** — From this one can conclude that ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Schlussfolgerung ziehen]] · B2)*
+
 **Source:** Netzwerk neu A1 K9 4f ÜB (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

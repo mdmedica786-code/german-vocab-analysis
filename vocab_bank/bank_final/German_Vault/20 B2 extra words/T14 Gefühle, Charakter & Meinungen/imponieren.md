@@ -31,6 +31,11 @@ status: "new"
 > Ihr Mut hat mir sehr imponiert.
 > *Her courage impressed me greatly.*
 
+**Phrases & Expressions:**
+- **jemandem imponieren** — *to impress*
+- **imponierend wirken** — *to impress*
+- **durch etwas imponieren** — *to impress*
+
 **Collocations**
 - jemandem imponieren
 - imponierend wirken

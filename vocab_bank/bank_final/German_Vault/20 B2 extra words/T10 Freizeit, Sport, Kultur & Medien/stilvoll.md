@@ -29,6 +29,11 @@ status: "new"
 > Das Restaurant ist stilvoll eingerichtet.
 > *The restaurant is stylishly furnished.*
 
+**Phrases & Expressions:**
+- **stilvoll eingerichtet** — *stylish; tasteful*
+- **ein stilvoller Abend** — *stylish; tasteful*
+- **stilvoll gekleidet** — *stylish; tasteful*
+
 **Collocations**
 - stilvoll eingerichtet
 - ein stilvoller Abend

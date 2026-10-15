@@ -33,6 +33,12 @@ status: "new"
 > Haben Sie Einwände gegen den Vorschlag?
 > *Do you have any objections to the proposal?*
 
+**Phrases & Expressions:**
+- **Das ist ein berechtigter Einwand, aber ...** — That is a valid objection, but ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Gegenargument aufgreifen]] · B2)*
+- **einen Einwand erheben** — *objection*
+- **berechtigter Einwand** — *objection*
+- **Einwände gegen + Akk.** — *objection*
+
 **Collocations**
 - einen Einwand erheben
 - berechtigter Einwand

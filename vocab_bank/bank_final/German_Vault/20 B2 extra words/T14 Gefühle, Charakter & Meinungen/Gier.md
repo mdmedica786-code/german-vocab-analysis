@@ -33,6 +33,11 @@ status: "new"
 > Die Gier nach Geld zerstörte ihre Freundschaft.
 > *The greed for money destroyed their friendship.*
 
+**Phrases & Expressions:**
+- **die Gier nach** — *greed*
+- **Gier nach Macht** — *greed*
+- **aus Gier** — *greed*
+
 **Collocations**
 - die Gier nach
 - Gier nach Macht

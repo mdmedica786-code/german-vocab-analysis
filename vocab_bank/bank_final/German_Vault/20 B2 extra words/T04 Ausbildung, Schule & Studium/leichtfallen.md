@@ -32,6 +32,14 @@ status: "new"
 > Mathematik ist mir immer leichtgefallen.
 > *Mathematics has always come easily to me.*
 
+**Phrases & Expressions:**
+- **nicht leicht** — not easy *([[Probleme - Beschwerden beschreiben (problem, symptom, complaint)|Probleme / Beschwerden beschreiben (problem, symptom, complaint)]] · B1)*
+- **so leicht** — so easily *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B1)*
+- **es fällt auf, dass ...** — it is striking that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **mir fiel auf, dass ...** — I noticed that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **Mir fällt das Wort gerade nicht ein.** — I can't think of the word right now. *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Wort umschreiben]] · B1)*
+- **Es ist aus Holz/Metall/Plastik und ziemlich leicht.** — It is made of wood/metal/plastic and quite light. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ding beschreiben]] · B1)*
+
 **Collocations**
 - jemandem leichtfallen
 - leichtfallen

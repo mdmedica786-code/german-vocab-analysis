@@ -33,6 +33,11 @@ status: "new"
 > Wir gehen noch einen Häuserblock weiter.
 > *We walk one more block.*
 
+**Phrases & Expressions:**
+- **um den Häuserblock gehen** — *block of houses; city block*
+- **ein ganzer Häuserblock** — *block of houses; city block*
+- **ein Häuserblock weiter** — *block of houses; city block*
+
 **Collocations**
 - um den Häuserblock gehen
 - ein ganzer Häuserblock

@@ -30,6 +30,9 @@ status: "new"
 > Diese Schule ist staatlich.
 > *This school is state-run.*
 
+**Phrases & Expressions:**
+- **Diese Schule ist staatlich** — *This school is state-run* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

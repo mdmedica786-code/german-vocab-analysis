@@ -31,6 +31,11 @@ status: "new"
 > Sein Vater ist schon lange tot.
 > *His father has been dead for a long time.*
 
+**Phrases & Expressions:**
+- **tot aufgefunden werden** — *dead*
+- **für tot erklären** — *dead*
+- **schon lange tot** — *dead*
+
 **Collocations**
 - tot aufgefunden werden
 - für tot erklären

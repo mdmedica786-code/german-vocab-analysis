@@ -30,6 +30,9 @@ status: "new"
 > Ich habe mehrfach angerufen.
 > *I called several times.*
 
+**Phrases & Expressions:**
+- **Ich habe mehrfach angerufen** — *I called several times* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 9a (Gute Reise!)
 <!-- bank:end -->
 

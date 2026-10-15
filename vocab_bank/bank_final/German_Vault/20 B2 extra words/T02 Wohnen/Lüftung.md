@@ -33,6 +33,11 @@ status: "new"
 > Die Lüftung im Bad ist defekt.
 > *The ventilation in the bathroom is broken.*
 
+**Phrases & Expressions:**
+- **die Lüftung einschalten** — *ventilation; ventilation system*
+- **eine Lüftung einbauen** — *ventilation; ventilation system*
+- **die Lüftung reinigen** — *ventilation; ventilation system*
+
 **Collocations**
 - die Lüftung einschalten
 - eine Lüftung einbauen

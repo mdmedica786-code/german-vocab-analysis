@@ -30,6 +30,9 @@ status: "new"
 > Anfangs ging alles gut.
 > *At first everything went well.*
 
+**Phrases & Expressions:**
+- **Anfangs ging alles gut** — *At first everything went well* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

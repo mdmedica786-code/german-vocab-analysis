@@ -33,6 +33,11 @@ status: "new"
 > Im Büro gibt es viel Tageslicht.
 > *There is a lot of daylight in the office.*
 
+**Phrases & Expressions:**
+- **bei Tageslicht** — *daylight*
+- **ans Tageslicht kommen** — *daylight*
+- **helles Tageslicht** — *daylight*
+
 **Collocations**
 - bei Tageslicht
 - ans Tageslicht kommen

@@ -31,6 +31,9 @@ status: "new"
 > „Stehen“ und „liegen“ sind Positionsverben.
 > *"Stehen" and "liegen" are verbs of position.*
 
+**Phrases & Expressions:**
+- **„Stehen“ und „liegen“ sind Positionsverben** — *"Stehen" and "liegen" are verbs of position* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 5b (Zusammen leben)
 <!-- bank:end -->
 

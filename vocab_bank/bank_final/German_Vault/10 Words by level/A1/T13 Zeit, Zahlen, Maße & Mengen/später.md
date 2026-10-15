@@ -31,6 +31,14 @@ status: "new"
 > Das können wir später machen.
 > *We can do that later.*
 
+**Phrases & Expressions:**
+- **früher oder später** — sooner or later *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Jahre später** — years later *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Minuten später** — minutes later *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **wenig später** — shortly afterwards *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Tage später** — days later *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **bis später** — see you later *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A1)*
+
 **Source:** Netzwerk neu A1 K7 1c (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

@@ -32,6 +32,11 @@ status: "new"
 > Das Gebiet wurde als Risikogebiet eingestuft.
 > *The area was classified as a risk area.*
 
+**Phrases & Expressions:**
+- **jemanden einstufen** — *to classify; to rate*
+- **als gefährlich einstufen** — *to classify; to rate*
+- **in eine Klasse einstufen** — *to classify; to rate*
+
 **Collocations**
 - jemanden einstufen
 - als gefährlich einstufen

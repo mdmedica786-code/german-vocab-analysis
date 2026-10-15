@@ -33,6 +33,12 @@ status: "new"
 > Die Substanz löst sich in Wasser auf.
 > *The substance dissolves in water.*
 
+**Phrases & Expressions:**
+- **Nehmen Sie Drogen oder andere Substanzen?** — Do you take drugs or other substances? *([[FSP-05 Familien- und Sozialanamnese|Drogen erfragen]] · B1)*
+- **eine chemische Substanz** — *substance*
+- **an die Substanz gehen** — *substance*
+- **an Substanz verlieren** — *substance*
+
 **Collocations**
 - eine chemische Substanz
 - an die Substanz gehen

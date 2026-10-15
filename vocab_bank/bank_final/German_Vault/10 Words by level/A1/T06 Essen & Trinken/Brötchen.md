@@ -35,6 +35,9 @@ status: "new"
 > Möchtest du Brötchen zum Frühstück?
 > *Would you like rolls for breakfast?*
 
+**Phrases & Expressions:**
+- **Möchtest du Brötchen zum Frühstück** — *Would you like rolls for breakfast* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

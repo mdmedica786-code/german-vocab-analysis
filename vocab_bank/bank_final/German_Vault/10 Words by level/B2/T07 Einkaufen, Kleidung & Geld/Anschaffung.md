@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Anschaffung eines neuen Autos ist teuer.
 > *Buying a new car is expensive.*
+
+**Phrases & Expressions:**
+- **Die Anschaffung eines neuen Autos ist teuer** — *Buying a new car is expensive* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

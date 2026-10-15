@@ -35,6 +35,9 @@ status: "new"
 > Morgen habe ich Dienst. Deshalb kann ich nicht kommen.
 > *Tomorrow I'm on duty. That is why I can't come.*
 
+**Phrases & Expressions:**
+- **Morgen habe ich Dienst. Deshalb kann ich nicht kommen** — *Tomorrow I'm on duty. That is why I can't come* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

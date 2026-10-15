@@ -33,6 +33,11 @@ status: "new"
 > Der Täter wurde zu einer Haftstrafe von zwei Jahren verurteilt.
 > *The perpetrator was sentenced to a prison sentence of two years.*
 
+**Phrases & Expressions:**
+- **zu einer Haftstrafe verurteilen** — *prison sentence*
+- **eine Haftstrafe verbüßen** — *prison sentence*
+- **Haftstrafe auf Bewährung** — *prison sentence*
+
 **Collocations**
 - zu einer Haftstrafe verurteilen
 - eine Haftstrafe verbüßen

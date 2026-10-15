@@ -33,6 +33,11 @@ status: "new"
 > Die Gegnerin war im Finale zu stark.
 > *The opponent was too strong in the final.*
 
+**Phrases & Expressions:**
+- **eine starke Gegnerin** — *opponent (female); adversary*
+- **gegen eine Gegnerin spielen** — *opponent (female); adversary*
+- **die Gegnerin besiegen** — *opponent (female); adversary*
+
 **Collocations**
 - eine starke Gegnerin
 - gegen eine Gegnerin spielen

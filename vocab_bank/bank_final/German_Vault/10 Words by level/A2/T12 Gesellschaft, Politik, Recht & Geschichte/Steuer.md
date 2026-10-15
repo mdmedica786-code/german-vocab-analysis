@@ -35,6 +35,9 @@ status: "new"
 > Wir müssen immer mehr Steuern zahlen.
 > *We have to pay more and more taxes.*
 
+**Phrases & Expressions:**
+- **Wir müssen immer mehr Steuern zahlen** — *We have to pay more and more taxes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

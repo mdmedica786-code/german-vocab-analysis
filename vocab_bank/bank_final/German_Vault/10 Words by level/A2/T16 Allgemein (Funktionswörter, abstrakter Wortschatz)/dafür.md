@@ -31,6 +31,14 @@ status: "new"
 > Meine Schwester interessiert sich für Politik. Ich interessiere mich nicht dafür.
 > *My sister is interested in politics. I'm not interested in it.*
 
+**Phrases & Expressions:**
+- **dafür sorgen, dass ...** — to make sure that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **dafür zu sorgen, dass ...** — to make sure that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **dafür, dass ...** — considering that ... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B2)*
+- **dafür gesorgt, dass ...** — made sure that ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **sorgt dafür, dass ...** — makes sure that ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **der Grund dafür, dass ...** — the reason why ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B2)*
+
 **Collocations**
 - dafür sein
 - dafür sorgen

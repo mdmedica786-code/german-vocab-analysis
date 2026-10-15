@@ -29,6 +29,11 @@ status: "new"
 > Die Hütte liegt in einem entlegenen Tal.
 > *The hut is in a remote valley.*
 
+**Phrases & Expressions:**
+- **ein entlegener Ort** — *remote; out-of-the-way*
+- **entlegene Gegenden** — *remote; out-of-the-way*
+- **entlegen liegen** — *remote; out-of-the-way*
+
 **Collocations**
 - ein entlegener Ort
 - entlegene Gegenden

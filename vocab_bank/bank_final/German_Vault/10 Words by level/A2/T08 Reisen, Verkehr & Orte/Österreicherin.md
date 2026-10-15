@@ -34,6 +34,9 @@ status: "new"
 > Die Österreicherin wohnt in Wien.
 > *The Austrian woman lives in Vienna.*
 
+**Phrases & Expressions:**
+- **Die Österreicherin wohnt in Wien** — *The Austrian woman lives in Vienna* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

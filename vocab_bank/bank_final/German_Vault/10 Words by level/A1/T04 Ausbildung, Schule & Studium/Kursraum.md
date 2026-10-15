@@ -31,6 +31,9 @@ status: "new"
 > Der Kursraum ist im zweiten Stock.
 > *The classroom is on the second floor.*
 
+**Phrases & Expressions:**
+- **Der Kursraum ist im zweiten Stock** — *The classroom is on the second floor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 5b (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Sie erzählte eine abenteuerliche Geschichte von ihrer Reise.
 > *She told an adventurous story about her journey.*
 
+**Phrases & Expressions:**
+- **eine abenteuerliche Reise** — *adventurous; risky; wild*
+- **abenteuerlich klingen** — *adventurous; risky; wild*
+- **ein abenteuerlicher Plan** — *adventurous; risky; wild*
+
 **Collocations**
 - eine abenteuerliche Reise
 - abenteuerlich klingen

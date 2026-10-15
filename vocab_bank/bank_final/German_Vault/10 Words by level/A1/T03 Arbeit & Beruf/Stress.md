@@ -35,6 +35,9 @@ status: "new"
 > Ich habe bei der Arbeit viel Stress.
 > *I have a lot of stress at work.*
 
+**Phrases & Expressions:**
+- **Ich habe bei der Arbeit viel Stress** — *I have a lot of stress at work* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10c (Alltag und Familie) · Goethe word list A2
 <!-- bank:end -->
 

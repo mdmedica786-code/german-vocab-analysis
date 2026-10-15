@@ -34,6 +34,14 @@ status: "new"
 > Es gibt mehrere Möglichkeiten.
 > *There are several possibilities.*
 
+**Phrases & Expressions:**
+- **Bescheid geben** — to let someone know *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **geben Sie mir ...** — give me ... *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **einen Überblick über ... geben** — to give an overview of ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **Acht geben** — to be careful *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A2)*
+- **ich gebe zu, dass ...** — I admit that ... *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B2)*
+- **Wären Sie so freundlich, mir ... zu geben?** — Would you be so kind as to give me ...? *([[B1-07 Bitten und höflich nachfragen|Um etwas bitten]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

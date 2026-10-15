@@ -29,6 +29,11 @@ status: "new"
 > Das Bild ist urheberrechtlich geschützt.
 > *The picture is protected by copyright.*
 
+**Phrases & Expressions:**
+- **urheberrechtlich geschützt** — *copyright-related; under copyright law*
+- **urheberrechtlich relevant** — *copyright-related; under copyright law*
+- **urheberrechtliche Fragen** — *copyright-related; under copyright law*
+
 **Collocations**
 - urheberrechtlich geschützt
 - urheberrechtlich relevant

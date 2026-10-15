@@ -33,6 +33,11 @@ status: "new"
 > Die Dominanz des Marktführers ist groß.
 > *The dominance of the market leader is great.*
 
+**Phrases & Expressions:**
+- **die Dominanz von** — *dominance*
+- **die Dominanz ausbauen** — *dominance*
+- **eine klare Dominanz** — *dominance*
+
 **Collocations**
 - die Dominanz von
 - die Dominanz ausbauen

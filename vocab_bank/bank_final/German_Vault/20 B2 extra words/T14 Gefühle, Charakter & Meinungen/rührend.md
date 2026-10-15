@@ -29,6 +29,11 @@ status: "new"
 > Es war rührend, wie sie sich um ihn kümmerte.
 > *It was touching how she looked after him.*
 
+**Phrases & Expressions:**
+- **eine rührende Geste** — *touching; moving*
+- **rührend besorgt** — *touching; moving*
+- **sich rührend kümmern** — *touching; moving*
+
 **Collocations**
 - eine rührende Geste
 - rührend besorgt

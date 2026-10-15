@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Abhängigkeit von Nikotin ist schwer zu überwinden.
 > *Dependence on nicotine is hard to overcome.*
+
+**Phrases & Expressions:**
+- **in Abhängigkeit von ...** — depending on ... *([[Bedingung - Zweck (condition, purpose)|Bedingung / Zweck (condition, purpose)]] · C1)*
 <!-- bank:end -->
 
 ## My notes

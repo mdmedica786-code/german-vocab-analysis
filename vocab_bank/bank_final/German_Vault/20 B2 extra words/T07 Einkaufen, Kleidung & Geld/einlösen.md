@@ -32,6 +32,12 @@ status: "new"
 > Du kannst den Gutschein im Geschäft einlösen.
 > *You can redeem the voucher in the shop.*
 
+**Phrases & Expressions:**
+- **Was löst den Schmerz aus?** — What triggers the pain? *([[FSP-03 Schmerzanamnese|Auslösende Faktoren]] · B1)*
+- **einen Gutschein einlösen** — *to cash (in); to redeem; to keep (a promise)*
+- **einen Scheck einlösen** — *to cash (in); to redeem; to keep (a promise)*
+- **ein Versprechen einlösen** — *to cash (in); to redeem; to keep (a promise)*
+
 **Collocations**
 - einen Gutschein einlösen
 - einen Scheck einlösen

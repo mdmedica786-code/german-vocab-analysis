@@ -34,6 +34,9 @@ status: "new"
 > In der Fabel spricht ein Fuchs mit einem Raben.
 > *In the fable a fox talks to a raven.*
 
+**Phrases & Expressions:**
+- **In der Fabel spricht ein Fuchs mit einem Raben** — *In the fable a fox talks to a raven* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12b (Zwischenmenschliches)
 <!-- bank:end -->
 

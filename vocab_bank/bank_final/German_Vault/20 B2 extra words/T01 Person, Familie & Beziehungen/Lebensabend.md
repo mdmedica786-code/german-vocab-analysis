@@ -33,6 +33,11 @@ status: "new"
 > Sie genießt ihren Lebensabend auf dem Land.
 > *She enjoys her twilight years in the country.*
 
+**Phrases & Expressions:**
+- **den Lebensabend verbringen** — *old age; twilight years*
+- **einen ruhigen Lebensabend** — *old age; twilight years*
+- **Lebensabend genießen** — *old age; twilight years*
+
 **Collocations**
 - den Lebensabend verbringen
 - einen ruhigen Lebensabend

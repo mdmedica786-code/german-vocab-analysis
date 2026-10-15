@@ -35,6 +35,13 @@ status: "new"
 > Wenn Sie unsere Bedingungen akzeptieren, können wir einen Vertrag machen.
 > *If you accept our terms, we can make a contract.*
 
+**Phrases & Expressions:**
+- **unter der Bedingung, dass ...** — on the condition that ... *([[Bedingung - Zweck (condition, purpose)|Bedingung / Zweck (condition, purpose)]] · C1)*
+- **Bedingungen erfüllen** — *condition*
+- **unter der Bedingung, dass** — *condition*
+- **gute Arbeitsbedingungen** — *condition*
+- **zu diesen Bedingungen** — *condition*
+
 **Collocations**
 - Bedingungen erfüllen
 - unter der Bedingung, dass

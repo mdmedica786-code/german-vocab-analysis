@@ -35,6 +35,14 @@ status: "new"
 > Legen Sie das Buch auf den Tisch.
 > *Put the book on the table.*
 
+**Phrases & Expressions:**
+- **Legen Sie sich bitte auf den Rücken.** — Please lie on your back. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Lagerung]] · A2)*
+- **Legen Sie bitte Schmuck und Metallteile ab.** — Please take off jewellery and metal objects. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Röntgen]] · B1)*
+- **Legen Sie bitte einen venösen Zugang.** — Please place an IV line. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Anweisung geben]] · B2)*
+- **Schreiben Sie bitte sofort ein EKG und legen Sie den Monitor an.** — Please record an ECG immediately and attach the monitor. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Anweisung geben]] · B2)*
+- **Verstanden, ich lege den Zugang sofort.** — Understood, I'll place the line right away. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Closed-Loop-Kommunikation]] · B2)*
+- **etwas auf den Tisch legen** — *to lay; to put (down)*
+
 **Collocations**
 - etwas auf den Tisch legen
 - sich ins Bett legen

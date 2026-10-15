@@ -29,6 +29,11 @@ status: "new"
 > Das Team ist durch die vielen Aufträge überlastet.
 > *The team is overloaded by the many orders.*
 
+**Phrases & Expressions:**
+- **überlastet sein** — *overloaded; overburdened*
+- **völlig überlastet** — *overloaded; overburdened*
+- **ein überlastetes System** — *overloaded; overburdened*
+
 **Collocations**
 - überlastet sein
 - völlig überlastet

@@ -35,6 +35,9 @@ status: "new"
 > Am Nachmittag habe ich Unterricht.
 > *In the afternoon I have class.*
 
+**Phrases & Expressions:**
+- **Am Nachmittag habe ich Unterricht** — *In the afternoon I have class* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 7a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

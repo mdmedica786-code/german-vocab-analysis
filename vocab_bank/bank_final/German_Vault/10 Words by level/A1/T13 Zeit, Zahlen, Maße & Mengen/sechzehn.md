@@ -31,6 +31,9 @@ status: "new"
 > Mein Bruder ist sechzehn Jahre alt.
 > *My brother is sixteen years old.*
 
+**Phrases & Expressions:**
+- **Mein Bruder ist sechzehn Jahre alt** — *My brother is sixteen years old* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

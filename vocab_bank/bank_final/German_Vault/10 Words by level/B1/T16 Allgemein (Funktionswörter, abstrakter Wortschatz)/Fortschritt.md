@@ -35,6 +35,9 @@ status: "new"
 > Ich habe beim Deutschlernen große Fortschritte gemacht.
 > *I have made great progress in learning German.*
 
+**Phrases & Expressions:**
+- **Ich habe beim Deutschlernen große Fortschritte gemacht** — *I have made great progress in learning German* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

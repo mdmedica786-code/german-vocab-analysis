@@ -34,6 +34,14 @@ status: "new"
 > Herr Huber hat ein kleines Geschäft. Er handelt mit Obst und Gemüse.
 > *Mr Huber has a small shop. He deals in fruit and vegetables.*
 
+**Phrases & Expressions:**
+- **es handelt sich um ...** — it is a matter of ...; it concerns ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **Es könnte sich um ... handeln, aber das müssen wir erst abklären.** — It could be ..., but we first need to clarify that. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Verdacht äußern]] · B2)*
+- **Dabei handelt es sich um eine häufige Erkrankung.** — This is a common illness. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Diagnose erklären]] · B2)*
+- **Wir müssen schnell handeln, weil ...** — We have to act quickly because ... *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Notfalleingriff erklären]] · B2)*
+- **Es handelt sich um einen ...-jährigen Patienten mit bekanntem ...** — This is a ...-year-old patient with known ... *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Patient vorstellen]] · C1)*
+- **Zusammenfassend handelt es sich um ...** — In summary it is a case of ... *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Zusammenfassung]] · B2)*
+
 **Collocations**
 - mit etwas handeln
 - schnell handeln

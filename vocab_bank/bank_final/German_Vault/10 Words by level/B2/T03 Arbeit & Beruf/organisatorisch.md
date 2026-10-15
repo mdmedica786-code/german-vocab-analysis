@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Es gibt noch einige organisatorische Fragen.
 > *There are still some organisational questions.*
+
+**Phrases & Expressions:**
+- **Es gibt noch einige organisatorische Fragen** — *There are still some organisational questions* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

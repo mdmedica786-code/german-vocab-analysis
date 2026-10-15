@@ -35,6 +35,9 @@ status: "new"
 > Wegen Nebels konnten wir gestern nicht in Frankfurt landen.
 > *Because of fog we couldn't land in Frankfurt yesterday.*
 
+**Phrases & Expressions:**
+- **Wegen Nebels konnten wir gestern nicht in Frankfurt landen** — *Because of fog we couldn't land in Frankfurt yesterday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

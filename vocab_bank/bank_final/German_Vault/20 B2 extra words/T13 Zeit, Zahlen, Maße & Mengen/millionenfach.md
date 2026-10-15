@@ -29,6 +29,11 @@ status: "new"
 > Das Video wurde millionenfach angeklickt.
 > *The video was clicked millions of times.*
 
+**Phrases & Expressions:**
+- **millionenfach verkauft** — *millions of times; in their millions*
+- **millionenfach angeklickt** — *millions of times; in their millions*
+- **ein millionenfacher Erfolg** — *millions of times; in their millions*
+
 **Collocations**
 - millionenfach verkauft
 - millionenfach angeklickt

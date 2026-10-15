@@ -31,6 +31,11 @@ status: "new"
 > Ich muss leider gehen. Ich habe nämlich noch einen Termin beim Zahnarzt.
 > *Unfortunately I have to go. I have a dentist appointment, you see.*
 
+**Phrases & Expressions:**
+- **ich habe nämlich ...** — *namely; the thing is; you see*
+- **das liegt nämlich daran, dass ...** — *namely; the thing is; you see*
+- **nämlich dann, wenn ...** — *namely; the thing is; you see*
+
 **Collocations**
 - ich habe nämlich ...
 - das liegt nämlich daran, dass ...

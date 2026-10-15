@@ -34,6 +34,9 @@ status: "new"
 > Wir gehen abends auf der Strandpromenade spazieren.
 > *In the evening we go for a walk on the beach promenade.*
 
+**Phrases & Expressions:**
+- **Wir gehen abends auf der Strandpromenade spazieren** — *In the evening we go for a walk on the beach promenade* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 8b (Gute Reise!)
 <!-- bank:end -->
 

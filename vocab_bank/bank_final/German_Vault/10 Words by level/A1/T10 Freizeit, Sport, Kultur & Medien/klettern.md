@@ -33,6 +33,9 @@ status: "new"
 > Die Kinder sind auf den Baum geklettert.
 > *The children climbed up the tree.*
 
+**Phrases & Expressions:**
+- **Die Kinder sind auf den Baum geklettert** — *The children climbed up the tree* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 1a (Zeit mit Freunden) · Goethe word list B1
 <!-- bank:end -->
 

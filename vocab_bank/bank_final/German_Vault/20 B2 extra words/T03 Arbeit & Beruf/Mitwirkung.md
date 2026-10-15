@@ -33,6 +33,11 @@ status: "new"
 > Wir danken allen für ihre Mitwirkung.
 > *We thank everyone for their participation.*
 
+**Phrases & Expressions:**
+- **unter Mitwirkung von** — *participation; cooperation*
+- **die Mitwirkung der Eltern** — *participation; cooperation*
+- **die Mitwirkung verweigern** — *participation; cooperation*
+
 **Collocations**
 - unter Mitwirkung von
 - die Mitwirkung der Eltern

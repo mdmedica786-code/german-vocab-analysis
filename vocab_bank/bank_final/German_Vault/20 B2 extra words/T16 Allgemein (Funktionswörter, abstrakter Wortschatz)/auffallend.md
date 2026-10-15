@@ -29,6 +29,11 @@ status: "new"
 > Sie ist auffallend schön.
 > *She is strikingly beautiful.*
 
+**Phrases & Expressions:**
+- **auffallend schön** — *striking; conspicuous*
+- **auffallend ähnlich** — *striking; conspicuous*
+- **ein auffallender Unterschied** — *striking; conspicuous*
+
 **Collocations**
 - auffallend schön
 - auffallend ähnlich

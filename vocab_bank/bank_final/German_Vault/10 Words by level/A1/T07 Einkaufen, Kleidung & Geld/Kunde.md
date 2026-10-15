@@ -36,6 +36,9 @@ status: "new"
 > Einen Augenblick, bitte. Ich habe einen Kunden.
 > *One moment, please. I have a customer.*
 
+**Phrases & Expressions:**
+- **Einen Augenblick, bitte. Ich habe einen Kunden** — *One moment, please. I have a customer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 14 (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

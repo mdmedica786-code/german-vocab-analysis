@@ -30,6 +30,13 @@ status: "new"
 > Ich möchte finanziell unabhängig sein.
 > *I would like to be financially independent.*
 
+**Phrases & Expressions:**
+- **unabhängig davon, ob ...** — regardless of whether ... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · C1)*
+- **unabhängig von ...** — regardless of ... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · C1)*
+- **unabhängig sein** — *independent*
+- **finanziell unabhängig** — *independent*
+- **eine unabhängige Zeitung** — *independent*
+
 **Collocations**
 - unabhängig sein
 - finanziell unabhängig

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Buch war für mich eine Offenbarung.
 > *The book was a revelation for me.*
+
+**Phrases & Expressions:**
+- **Das Buch war für mich eine Offenbarung** — *The book was a revelation for me* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

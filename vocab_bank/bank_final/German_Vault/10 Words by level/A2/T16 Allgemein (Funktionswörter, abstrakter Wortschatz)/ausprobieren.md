@@ -32,6 +32,9 @@ status: "new"
 > Ich möchte das neue Programm ausprobieren.
 > *I would like to try out the new program.*
 
+**Phrases & Expressions:**
+- **Alternativ könnten wir auch ... ausprobieren.** — Alternatively we could also try ... *([[FSP-11 Therapie und Medikamente erklären|Alternativen nennen]] · B2)*
+
 **Source:** Netzwerk neu A2 K3 1a (Immer online?)
 <!-- bank:end -->
 

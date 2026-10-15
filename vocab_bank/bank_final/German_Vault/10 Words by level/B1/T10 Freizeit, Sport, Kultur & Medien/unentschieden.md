@@ -30,6 +30,9 @@ status: "new"
 > Es steht unentschieden zwischen den beiden Mannschaften.
 > *The score between the two teams is level.*
 
+**Phrases & Expressions:**
+- **Es steht unentschieden zwischen den beiden Mannschaften** — *The score between the two teams is level* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

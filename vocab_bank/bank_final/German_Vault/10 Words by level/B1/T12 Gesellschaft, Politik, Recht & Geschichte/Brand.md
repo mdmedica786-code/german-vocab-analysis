@@ -34,6 +34,9 @@ status: "new"
 > Bei dem Brand wurde niemand verletzt.
 > *Nobody was injured in the fire.*
 
+**Phrases & Expressions:**
+- **Bei dem Brand wurde niemand verletzt** — *Nobody was injured in the fire* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

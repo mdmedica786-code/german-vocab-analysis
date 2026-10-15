@@ -33,6 +33,9 @@ status: "new"
 > Der Lehrer hebt die wichtigsten Punkte hervor.
 > *The teacher highlights the most important points.*
 
+**Phrases & Expressions:**
+- **Der Lehrer hebt die wichtigsten Punkte hervor** — *The teacher highlights the most important points* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 2a (Zwischenmenschliches)
 <!-- bank:end -->
 

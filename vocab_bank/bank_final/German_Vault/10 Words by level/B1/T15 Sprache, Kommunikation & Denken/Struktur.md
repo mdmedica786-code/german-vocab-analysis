@@ -35,6 +35,12 @@ status: "new"
 > Erklären Sie den Inhalt und die Struktur Ihrer Präsentation.
 > *Explain the content and structure of your presentation.*
 
+**Phrases & Expressions:**
+- **die Struktur erklären** — *structure*
+- **klare Struktur** — *structure*
+- **Struktur des Textes** — *structure*
+- **Strukturen verändern** — *structure*
+
 **Collocations**
 - die Struktur erklären
 - klare Struktur

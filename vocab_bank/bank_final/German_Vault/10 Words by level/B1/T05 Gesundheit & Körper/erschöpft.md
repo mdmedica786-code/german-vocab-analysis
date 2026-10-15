@@ -31,6 +31,9 @@ status: "new"
 > Nach dem Sport bin ich immer sehr erschöpft.
 > *After sport I am always very exhausted.*
 
+**Phrases & Expressions:**
+- **Nach dem Sport bin ich immer sehr erschöpft** — *After sport I am always very exhausted* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 6c (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

@@ -30,6 +30,11 @@ status: "new"
 > Der Ökolandbau verzichtet auf chemische Pflanzenschutzmittel.
 > *Organic farming does without chemical plant protection products.*
 
+**Phrases & Expressions:**
+- **Ökolandbau fördern** — *organic farming*
+- **auf Ökolandbau umstellen** — *organic farming*
+- **Flächen im Ökolandbau** — *organic farming*
+
 **Collocations**
 - Ökolandbau fördern
 - auf Ökolandbau umstellen

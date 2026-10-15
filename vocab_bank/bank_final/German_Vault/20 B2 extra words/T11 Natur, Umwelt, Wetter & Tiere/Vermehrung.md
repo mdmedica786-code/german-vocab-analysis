@@ -33,6 +33,11 @@ status: "new"
 > Die Vermehrung der Tiere ist im Frühling stark.
 > *The reproduction of the animals is strong in spring.*
 
+**Phrases & Expressions:**
+- **die Vermehrung der Zellen** — *increase; multiplication; reproduction*
+- **die Vermehrung von Pflanzen** — *increase; multiplication; reproduction*
+- **eine rasche Vermehrung** — *increase; multiplication; reproduction*
+
 **Collocations**
 - die Vermehrung der Zellen
 - die Vermehrung von Pflanzen

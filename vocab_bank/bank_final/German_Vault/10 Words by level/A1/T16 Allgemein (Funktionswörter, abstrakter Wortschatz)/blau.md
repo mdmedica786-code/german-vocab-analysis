@@ -31,6 +31,9 @@ status: "new"
 > Der Himmel ist heute blau.
 > *The sky is blue today.*
 
+**Phrases & Expressions:**
+- **Der Himmel ist heute blau** — *The sky is blue today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 11a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

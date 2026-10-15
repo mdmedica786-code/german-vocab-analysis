@@ -30,6 +30,11 @@ status: "new"
 > In der Kunstbranche arbeiten viele freie Künstler.
 > *Many freelance artists work in the art industry.*
 
+**Phrases & Expressions:**
+- **in der Kunstbranche arbeiten** — *art industry; art business*
+- **die Kunstbranche ist im Wandel** — *art industry; art business*
+- **die Kunstbranche der Stadt** — *art industry; art business*
+
 **Collocations**
 - in der Kunstbranche arbeiten
 - die Kunstbranche ist im Wandel

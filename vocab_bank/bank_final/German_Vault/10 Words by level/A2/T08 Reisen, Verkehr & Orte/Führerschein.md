@@ -35,6 +35,9 @@ status: "new"
 > Hast du den Führerschein?
 > *Do you have a driving licence?*
 
+**Phrases & Expressions:**
+- **Hast du den Führerschein** — *Do you have a driving licence* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Kinder verstehen sich untereinander gut.
 > *The children get on well with each other.*
+
+**Phrases & Expressions:**
+- **Die Kinder verstehen sich untereinander gut** — *The children get on well with each other* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

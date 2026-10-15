@@ -35,6 +35,9 @@ status: "new"
 > Im Herbst fallen die Blätter.
 > *In autumn the leaves fall.*
 
+**Phrases & Expressions:**
+- **im Herbst** — in autumn *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A1)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

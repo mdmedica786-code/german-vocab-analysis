@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Unfall bekam er ein Implantat im Knie.
 > *After the accident he got an implant in his knee.*
 
+**Phrases & Expressions:**
+- **ein Implantat einsetzen** — *implant*
+- **ein Implantat bekommen** — *implant*
+- **ein Implantat im Kiefer** — *implant*
+
 **Collocations**
 - ein Implantat einsetzen
 - ein Implantat bekommen

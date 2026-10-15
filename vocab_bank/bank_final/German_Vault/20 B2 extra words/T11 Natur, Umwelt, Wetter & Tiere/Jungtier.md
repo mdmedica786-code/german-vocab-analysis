@@ -33,6 +33,11 @@ status: "new"
 > Im Frühling kommen viele Jungtiere zur Welt.
 > *In spring many young animals are born.*
 
+**Phrases & Expressions:**
+- **ein Jungtier aufziehen** — *young animal; cub*
+- **Jungtiere füttern** — *young animal; cub*
+- **ein Jungtier im Zoo** — *young animal; cub*
+
 **Collocations**
 - ein Jungtier aufziehen
 - Jungtiere füttern

@@ -34,6 +34,9 @@ status: "new"
 > Der Arm ist ein Körperteil.
 > *The arm is a part of the body.*
 
+**Phrases & Expressions:**
+- **Der Arm ist ein Körperteil** — *The arm is a part of the body* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 6b (Fit und gesund)
 <!-- bank:end -->
 

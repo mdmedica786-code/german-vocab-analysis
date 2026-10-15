@@ -33,6 +33,11 @@ status: "new"
 > Während der Corona-Pandemie arbeiteten viele von zu Hause.
 > *During the coronavirus pandemic many people worked from home.*
 
+**Phrases & Expressions:**
+- **während der Corona-Pandemie** — *coronavirus pandemic*
+- **die Corona-Pandemie bekämpfen** — *coronavirus pandemic*
+- **seit der Corona-Pandemie** — *coronavirus pandemic*
+
 **Collocations**
 - während der Corona-Pandemie
 - die Corona-Pandemie bekämpfen

@@ -30,6 +30,9 @@ status: "new"
 > Wir essen heute finnischen Fisch.
 > *Today we are eating Finnish fish.*
 
+**Phrases & Expressions:**
+- **Wir essen heute finnischen Fisch** — *Today we are eating Finnish fish* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

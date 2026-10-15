@@ -33,6 +33,11 @@ status: "new"
 > Der Priester hielt die Messe in der alten Kirche.
 > *The priest held the mass in the old church.*
 
+**Phrases & Expressions:**
+- **ein katholischer Priester** — *priest*
+- **Priester werden** — *priest*
+- **der Priester segnet** — *priest*
+
 **Collocations**
 - ein katholischer Priester
 - Priester werden

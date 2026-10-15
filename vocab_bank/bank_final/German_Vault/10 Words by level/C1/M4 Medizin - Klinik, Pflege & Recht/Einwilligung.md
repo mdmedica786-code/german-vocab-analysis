@@ -33,6 +33,14 @@ status: "new"
 > Für die Operation braucht man die Einwilligung des Patienten.
 > *For the operation the patient's consent is needed.*
 
+**Phrases & Expressions:**
+- **Sie haben das Recht, Ihre Einwilligung jederzeit zurückzuziehen.** — You have the right to withdraw your consent at any time. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Einwilligung einholen]] · B2)*
+- **Ich darf Ihnen leider ohne Einwilligung des Patienten keine Auskunft geben.** — Unfortunately I may not give you any information without the patient's consent. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Schweigepflicht erklären]] · C1)*
+- **die Einwilligung erteilen** — *consent*
+- **schriftliche Einwilligung** — *consent*
+- **Einwilligung einholen** — *consent*
+- **ohne Einwilligung** — *consent*
+
 **Collocations**
 - die Einwilligung erteilen
 - schriftliche Einwilligung

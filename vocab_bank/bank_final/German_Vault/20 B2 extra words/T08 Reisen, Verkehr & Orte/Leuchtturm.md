@@ -33,6 +33,11 @@ status: "new"
 > Der Leuchtturm zeigt den Schiffen den Weg.
 > *The lighthouse shows the ships the way.*
 
+**Phrases & Expressions:**
+- **auf den Leuchtturm steigen** — *lighthouse*
+- **der Leuchtturm leuchtet** — *lighthouse*
+- **ein alter Leuchtturm** — *lighthouse*
+
 **Collocations**
 - auf den Leuchtturm steigen
 - der Leuchtturm leuchtet

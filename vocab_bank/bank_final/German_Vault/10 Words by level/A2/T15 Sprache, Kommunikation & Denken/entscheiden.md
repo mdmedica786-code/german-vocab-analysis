@@ -34,6 +34,14 @@ status: "new"
 > Das kann ich nicht allein entscheiden, da muss ich erst fragen.
 > *I can't decide that on my own, I have to ask first.*
 
+**Phrases & Expressions:**
+- **Schließlich haben wir uns für ... entschieden.** — Finally we decided on ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Aufzählung]] · B1)*
+- **Sie müssen sich nicht sofort entscheiden. Nehmen Sie sich Zeit zum Überlegen.** — You do not have to decide right away. Take time to think about it. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Bedenkzeit geben]] · B2)*
+- **sich für etwas entscheiden** — *to decide*
+- **über etwas entscheiden** — *to decide*
+- **allein entscheiden** — *to decide*
+- **schnell entscheiden** — *to decide*
+
 **Collocations**
 - sich für etwas entscheiden
 - über etwas entscheiden

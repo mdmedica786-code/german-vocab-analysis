@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Ertrag der Ernte war gut.
 > *The yield of the harvest was good.*
+
+**Phrases & Expressions:**
+- **Der Ertrag der Ernte war gut** — *The yield of the harvest was good* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -31,6 +31,11 @@ status: "new"
 > Im Saal herrschte völlige Stille.
 > *There was complete silence in the hall.*
 
+**Phrases & Expressions:**
+- **es herrscht Stille** — *to rule; to prevail*
+- **Einigkeit herrscht** — *to rule; to prevail*
+- **über ein Land herrschen** — *to rule; to prevail*
+
 **Collocations**
 - es herrscht Stille
 - Einigkeit herrscht

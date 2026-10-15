@@ -34,6 +34,9 @@ status: "new"
 > Die Skeptikerin stellt viele Fragen.
 > *The sceptic asks many questions.*
 
+**Phrases & Expressions:**
+- **Die Skeptikerin stellt viele Fragen** — *The sceptic asks many questions* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 10b (Miteinander)
 <!-- bank:end -->
 

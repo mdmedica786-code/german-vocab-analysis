@@ -33,6 +33,11 @@ status: "new"
 > Sie arbeitet bei einer Werbeagentur.
 > *She works at an advertising agency.*
 
+**Phrases & Expressions:**
+- **eine Agentur beauftragen** — *agency*
+- **die Agentur für Arbeit** — *agency*
+- **bei einer Agentur arbeiten** — *agency*
+
 **Collocations**
 - eine Agentur beauftragen
 - die Agentur für Arbeit

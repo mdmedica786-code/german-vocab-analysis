@@ -31,6 +31,9 @@ status: "new"
 > Es war ein tolles Konzert. Ich bin begeistert.
 > *It was a great concert. I'm thrilled.*
 
+**Phrases & Expressions:**
+- **Ich bin begeistert von ...** — I am thrilled by ... *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Begeisterung ausdrücken]] · B1)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

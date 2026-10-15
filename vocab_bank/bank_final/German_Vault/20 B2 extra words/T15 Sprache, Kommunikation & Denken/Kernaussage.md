@@ -33,6 +33,11 @@ status: "new"
 > Fassen Sie die Kernaussage des Textes zusammen.
 > *Summarise the central message of the text.*
 
+**Phrases & Expressions:**
+- **die Kernaussage des Textes** — *central message; key statement*
+- **eine klare Kernaussage** — *central message; key statement*
+- **die Kernaussage erfassen** — *central message; key statement*
+
 **Collocations**
 - die Kernaussage des Textes
 - eine klare Kernaussage

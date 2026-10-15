@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Streit kam es zur Versöhnung.
 > *After the argument there was a reconciliation.*
 
+**Phrases & Expressions:**
+- **zur Versöhnung bereit sein** — *reconciliation*
+- **die Versöhnung suchen** — *reconciliation*
+- **eine Versöhnung feiern** — *reconciliation*
+
 **Collocations**
 - zur Versöhnung bereit sein
 - die Versöhnung suchen

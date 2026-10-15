@@ -34,6 +34,9 @@ status: "new"
 > Der Handyhersteller bringt ein neues Modell heraus.
 > *The mobile phone manufacturer is bringing out a new model.*
 
+**Phrases & Expressions:**
+- **Der Handyhersteller bringt ein neues Modell heraus** — *The mobile phone manufacturer is bringing out a new model* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

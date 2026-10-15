@@ -33,6 +33,9 @@ status: "new"
 > Kannst du bitte schon mal die Gläser verteilen?
 > *Can you please already hand out the glasses?*
 
+**Phrases & Expressions:**
+- **Kannst du bitte schon mal die Gläser verteilen** — *Can you please already hand out the glasses* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

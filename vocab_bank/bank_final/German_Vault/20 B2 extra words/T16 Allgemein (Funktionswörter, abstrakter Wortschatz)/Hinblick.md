@@ -33,6 +33,13 @@ status: "new"
 > Im Hinblick auf die Kosten ist das Projekt zu teuer.
 > *In view of the costs the project is too expensive.*
 
+**Phrases & Expressions:**
+- **im Hinblick auf ...** — with regard to ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **auch im Hinblick auf ...** — also with regard to ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **im Hinblick auf** — *view; regard (only in "im Hinblick auf")*
+- **im Hinblick darauf, dass** — *view; regard (only in "im Hinblick auf")*
+- **mit Hinblick auf** — *view; regard (only in "im Hinblick auf")*
+
 **Collocations**
 - im Hinblick auf
 - im Hinblick darauf, dass

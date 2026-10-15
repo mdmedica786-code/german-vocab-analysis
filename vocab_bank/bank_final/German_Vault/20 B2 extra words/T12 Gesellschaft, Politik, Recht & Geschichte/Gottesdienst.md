@@ -33,6 +33,11 @@ status: "new"
 > Der Gottesdienst beginnt um zehn Uhr.
 > *The service begins at ten o'clock.*
 
+**Phrases & Expressions:**
+- **einen Gottesdienst besuchen** — *church service; worship*
+- **zum Gottesdienst gehen** — *church service; worship*
+- **ein ökumenischer Gottesdienst** — *church service; worship*
+
 **Collocations**
 - einen Gottesdienst besuchen
 - zum Gottesdienst gehen

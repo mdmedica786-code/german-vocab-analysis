@@ -34,6 +34,9 @@ status: "new"
 > Die Mäntel bitte an der Garderobe abgeben.
 > *Please hand in the coats at the cloakroom.*
 
+**Phrases & Expressions:**
+- **Die Mäntel bitte an der Garderobe abgeben** — *Please hand in the coats at the cloakroom* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

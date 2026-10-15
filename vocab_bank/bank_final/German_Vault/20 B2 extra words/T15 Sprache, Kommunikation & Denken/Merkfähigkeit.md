@@ -33,6 +33,11 @@ status: "new"
 > Mit dem Alter lässt die Merkfähigkeit etwas nach.
 > *With age the ability to remember declines somewhat.*
 
+**Phrases & Expressions:**
+- **gute Merkfähigkeit** — *ability to remember; retentiveness*
+- **die Merkfähigkeit trainieren** — *ability to remember; retentiveness*
+- **nachlassende Merkfähigkeit** — *ability to remember; retentiveness*
+
 **Collocations**
 - gute Merkfähigkeit
 - die Merkfähigkeit trainieren

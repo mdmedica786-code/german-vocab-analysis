@@ -33,6 +33,11 @@ status: "new"
 > Das Jugendzentrum bietet Kurse und Ausflüge an.
 > *The youth centre offers courses and trips.*
 
+**Phrases & Expressions:**
+- **ins Jugendzentrum gehen** — *youth centre*
+- **ein Jugendzentrum leiten** — *youth centre*
+- **im Jugendzentrum arbeiten** — *youth centre*
+
 **Collocations**
 - ins Jugendzentrum gehen
 - ein Jugendzentrum leiten

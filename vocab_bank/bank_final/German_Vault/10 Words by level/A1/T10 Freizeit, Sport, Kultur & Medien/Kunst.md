@@ -35,6 +35,9 @@ status: "new"
 > Ich verstehe nichts von moderner Kunst.
 > *I don't understand anything about modern art.*
 
+**Phrases & Expressions:**
+- **Ich verstehe nichts von moderner Kunst** — *I don't understand anything about modern art* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 5b (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

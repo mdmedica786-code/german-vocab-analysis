@@ -34,6 +34,9 @@ status: "new"
 > Wir heiraten im Standesamt.
 > *We are getting married at the registry office.*
 
+**Phrases & Expressions:**
+- **Wir heiraten im Standesamt** — *We are getting married at the registry office* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

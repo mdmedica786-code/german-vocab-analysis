@@ -26,6 +26,11 @@ status: "new"
 > Die Öffentlichkeit nahm kaum Notiz von dem Ereignis.
 > *The public took hardly any notice of the event.*
 
+**Phrases & Expressions:**
+- **von etwas Notiz nehmen** — *to take notice*
+- **keine Notiz nehmen** — *to take notice*
+- **Notiz nehmen von** — *to take notice*
+
 **Collocations**
 - von etwas Notiz nehmen
 - keine Notiz nehmen

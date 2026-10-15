@@ -33,6 +33,11 @@ status: "new"
 > Bei Problemen wenden Sie sich bitte an die Hausverwaltung.
 > *If there are problems please contact the property management.*
 
+**Phrases & Expressions:**
+- **die Hausverwaltung kontaktieren** — *property management*
+- **die Hausverwaltung informieren** — *property management*
+- **Schreiben an die Hausverwaltung** — *property management*
+
 **Collocations**
 - die Hausverwaltung kontaktieren
 - die Hausverwaltung informieren

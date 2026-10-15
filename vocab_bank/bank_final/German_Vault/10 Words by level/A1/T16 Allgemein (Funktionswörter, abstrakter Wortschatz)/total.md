@@ -31,6 +31,9 @@ status: "new"
 > Der Film ist total langweilig.
 > *The film is totally boring.*
 
+**Phrases & Expressions:**
+- **Der Film ist total langweilig** — *The film is totally boring* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 10a (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

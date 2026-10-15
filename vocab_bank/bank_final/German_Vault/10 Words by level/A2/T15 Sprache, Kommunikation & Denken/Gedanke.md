@@ -36,6 +36,9 @@ status: "new"
 > Mach dir mal keine Gedanken.
 > *Don't think about it.*
 
+**Phrases & Expressions:**
+- **Mach dir mal keine Gedanken** — *Don't think about it* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

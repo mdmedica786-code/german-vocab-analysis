@@ -35,6 +35,14 @@ status: "new"
 > An deiner Stelle würde ich 2.
 > *If I were you, I would ...*
 
+**Phrases & Expressions:**
+- **stellen Sie sich vor, ...** — imagine ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **an erster Stelle** — in first place; first of all *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **an dieser Stelle** — at this point *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **an Ort und Stelle** — on the spot *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B2)*
+- **in den Mittelpunkt stellen** — to put at the centre *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **An deiner Stelle würde ich ...** — If I were you, I would ... *([[B1-05 Vorschläge machen und darauf reagieren|Rat geben]] · B1)*
+
 **Source:** Netzwerk neu A1 K10 7a (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

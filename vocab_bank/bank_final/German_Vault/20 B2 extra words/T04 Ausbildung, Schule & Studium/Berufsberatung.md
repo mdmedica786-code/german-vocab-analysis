@@ -33,6 +33,11 @@ status: "new"
 > Die Berufsberatung hilft bei der Wahl der Ausbildung.
 > *Careers advice helps with choosing a training.*
 
+**Phrases & Expressions:**
+- **zur Berufsberatung gehen** — *careers advice*
+- **Berufsberatung in Anspruch nehmen** — *careers advice*
+- **kostenlose Berufsberatung** — *careers advice*
+
 **Collocations**
 - zur Berufsberatung gehen
 - Berufsberatung in Anspruch nehmen

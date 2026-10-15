@@ -32,6 +32,13 @@ status: "new"
 > Das ist ganz einfach.
 > *That is very easy.*
 
+**Phrases & Expressions:**
+- **nicht einfach** — not easy *([[Probleme - Beschwerden beschreiben (problem, symptom, complaint)|Probleme / Beschwerden beschreiben (problem, symptom, complaint)]] · B1)*
+- **so einfach ...** — so simple ... *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B1)*
+- **einfach so** — just like that *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B1)*
+- **Der Ablauf ist ganz einfach: ...** — The procedure is very simple: ... *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ablauf beschreiben]] · B1)*
+- **Einfach gesagt bedeutet das, dass ...** — Put simply, that means that ... *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Diagnose erklären]] · B2)*
+
 **Source:** Netzwerk neu A1 K3 7c (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

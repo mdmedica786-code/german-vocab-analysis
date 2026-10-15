@@ -34,6 +34,9 @@ status: "new"
 > Zum Kaffee gibt es Apfelkuchen.
 > *With the coffee there is apple cake.*
 
+**Phrases & Expressions:**
+- **Zum Kaffee gibt es Apfelkuchen** — *With the coffee there is apple cake* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 10b (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

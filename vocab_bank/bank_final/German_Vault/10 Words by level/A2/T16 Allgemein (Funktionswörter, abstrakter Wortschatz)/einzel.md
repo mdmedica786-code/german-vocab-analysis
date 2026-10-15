@@ -28,6 +28,9 @@ status: "new"
 > Wir buchen ein Einzelzimmer.
 > *We are booking a single room.*
 
+**Phrases & Expressions:**
+- **Wir buchen ein Einzelzimmer** — *We are booking a single room* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

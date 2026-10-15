@@ -34,6 +34,9 @@ status: "new"
 > Ich warne Sie. Der Hund ist gefährlich.
 > *I am warning you. The dog is dangerous.*
 
+**Phrases & Expressions:**
+- **Ich warne Sie. Der Hund ist gefährlich** — *I am warning you. The dog is dangerous* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 2c (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

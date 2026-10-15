@@ -35,6 +35,10 @@ status: "new"
 > Ich rate dir, auf deine Gesundheit zu achten.
 > *I advise you to take care of your health.*
 
+**Phrases & Expressions:**
+- **Ich würde dir raten, ... zu ...** — I would advise you to ... *([[B1-05 Vorschläge machen und darauf reagieren|Rat geben]] · B1)*
+- **Ich rate Ihnen, Alkohol nur in Maßen zu trinken.** — I advise you to drink alcohol only in moderation. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Alkohol beraten]] · B2)*
+
 **Source:** Netzwerk neu A1 K1 5b (Guten Tag!) · Goethe word list A2
 <!-- bank:end -->
 

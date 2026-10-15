@@ -32,6 +32,9 @@ status: "new"
 > Ich kann leider deine Schrift nicht lesen.
 > *Unfortunately I can't read your handwriting.*
 
+**Phrases & Expressions:**
+- **Ich kann leider deine Schrift nicht lesen** — *Unfortunately I can't read your handwriting* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 1a (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

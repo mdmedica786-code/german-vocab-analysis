@@ -33,6 +33,9 @@ status: "new"
 > Wir teilen die Arbeit unter uns auf.
 > *We divide the work among ourselves.*
 
+**Phrases & Expressions:**
+- **Wir teilen die Arbeit unter uns auf** — *We divide the work among ourselves* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

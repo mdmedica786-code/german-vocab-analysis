@@ -33,6 +33,11 @@ status: "new"
 > Die Firma bietet viele Weiterbildungsmöglichkeiten.
 > *The company offers many opportunities for further training.*
 
+**Phrases & Expressions:**
+- **Weiterbildungsmöglichkeiten bieten** — *opportunity for further training*
+- **Weiterbildungsmöglichkeiten nutzen** — *opportunity for further training*
+- **gute Weiterbildungsmöglichkeiten** — *opportunity for further training*
+
 **Collocations**
 - Weiterbildungsmöglichkeiten bieten
 - Weiterbildungsmöglichkeiten nutzen

@@ -33,6 +33,11 @@ status: "new"
 > An der Küste wird viel Strom aus Windkraft erzeugt.
 > *On the coast a lot of electricity is generated from wind power.*
 
+**Phrases & Expressions:**
+- **Strom aus Windkraft** — *wind power*
+- **Windkraft nutzen** — *wind power*
+- **Windkraft ausbauen** — *wind power*
+
 **Collocations**
 - Strom aus Windkraft
 - Windkraft nutzen

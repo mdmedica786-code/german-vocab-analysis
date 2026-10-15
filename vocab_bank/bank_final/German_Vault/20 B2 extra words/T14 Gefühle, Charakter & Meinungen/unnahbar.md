@@ -29,6 +29,11 @@ status: "new"
 > Der Chef wirkt auf viele Mitarbeiter unnahbar.
 > *The boss seems unapproachable to many employees.*
 
+**Phrases & Expressions:**
+- **unnahbar wirken** — *unapproachable; aloof*
+- **unnahbar sein** — *unapproachable; aloof*
+- **eine unnahbare Person** — *unapproachable; aloof*
+
 **Collocations**
 - unnahbar wirken
 - unnahbar sein

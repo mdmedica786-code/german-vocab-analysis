@@ -33,6 +33,11 @@ status: "new"
 > Diese Passage im Buch ist schwer zu verstehen.
 > *This passage in the book is hard to understand.*
 
+**Phrases & Expressions:**
+- **eine Passage lesen** — *passage*
+- **eine schwierige Passage** — *passage*
+- **Passagen zitieren** — *passage*
+
 **Collocations**
 - eine Passage lesen
 - eine schwierige Passage

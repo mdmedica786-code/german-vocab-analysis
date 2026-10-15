@@ -33,6 +33,11 @@ status: "new"
 > Der Paketdienst hat das Päckchen beim Nachbarn abgegeben.
 > *The parcel service left the package with the neighbour.*
 
+**Phrases & Expressions:**
+- **der Paketdienst liefert** — *parcel service*
+- **einen Paketdienst beauftragen** — *parcel service*
+- **beim Paketdienst abholen** — *parcel service*
+
 **Collocations**
 - der Paketdienst liefert
 - einen Paketdienst beauftragen

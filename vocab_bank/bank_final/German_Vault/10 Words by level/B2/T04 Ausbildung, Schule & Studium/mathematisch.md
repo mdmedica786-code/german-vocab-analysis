@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Das ist eine mathematische Aufgabe.
 > *That is a mathematical problem.*
+
+**Phrases & Expressions:**
+- **Das ist eine mathematische Aufgabe** — *That is a mathematical problem* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

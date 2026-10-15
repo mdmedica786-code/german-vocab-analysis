@@ -35,6 +35,9 @@ status: "new"
 > Waschmittel bekommst du in der Drogerie.
 > *You can get detergent at the drugstore.*
 
+**Phrases & Expressions:**
+- **Waschmittel bekommst du in der Drogerie** — *You can get detergent at the drugstore* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

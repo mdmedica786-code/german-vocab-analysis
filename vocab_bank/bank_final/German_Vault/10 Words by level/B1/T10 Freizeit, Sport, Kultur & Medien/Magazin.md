@@ -35,6 +35,9 @@ status: "new"
 > Jugendliche lesen dieses Magazin gern.
 > *Young people like reading this magazine.*
 
+**Phrases & Expressions:**
+- **Jugendliche lesen dieses Magazin gern** — *Young people like reading this magazine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 6b (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

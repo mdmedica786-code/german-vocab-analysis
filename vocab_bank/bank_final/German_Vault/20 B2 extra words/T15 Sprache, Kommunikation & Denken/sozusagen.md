@@ -29,6 +29,9 @@ status: "new"
 > Das Buch ist sozusagen mein Lebenswerk.
 > *The book is, so to speak, my life's work.*
 
+**Phrases & Expressions:**
+- **Das Buch ist sozusagen mein Lebenswerk** — *The book is, so to speak, my life's work* *(Beispiel im Kontext)*
+
 **Exam use:** Sprechen, Alltag
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der öffentlich-rechtliche Rundfunk wird durch Gebühren finanziert.
 > *Public broadcasting is financed by fees.*
 
+**Phrases & Expressions:**
+- **öffentlich-rechtlicher Rundfunk** — *broadcasting; radio*
+- **im Rundfunk** — *broadcasting; radio*
+- **Rundfunk und Fernsehen** — *broadcasting; radio*
+
 **Collocations**
 - öffentlich-rechtlicher Rundfunk
 - im Rundfunk

@@ -34,6 +34,9 @@ status: "new"
 > Das Buffet ist eröffnet!
 > *The buffet is open!*
 
+**Phrases & Expressions:**
+- **Das Buffet ist eröffnet** — *The buffet is open* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

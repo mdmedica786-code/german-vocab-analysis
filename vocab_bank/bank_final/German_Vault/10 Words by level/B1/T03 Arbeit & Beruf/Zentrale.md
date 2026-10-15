@@ -34,6 +34,9 @@ status: "new"
 > Die Zentrale der Firma ist in Frankfurt.
 > *The company's headquarters are in Frankfurt.*
 
+**Phrases & Expressions:**
+- **Die Zentrale der Firma ist in Frankfurt** — *The company's headquarters are in Frankfurt* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 6b (Das ist ja praktisch!)
 <!-- bank:end -->
 

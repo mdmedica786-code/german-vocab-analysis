@@ -34,6 +34,9 @@ status: "new"
 > „Mich“ und „dich“ sind Reflexivpronomen.
 > *"Mich" and "dich" are reflexive pronouns.*
 
+**Phrases & Expressions:**
+- **„Mich“ und „dich“ sind Reflexivpronomen** — *"Mich" and "dich" are reflexive pronouns* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 6a (Große und kleine Gefühle)
 <!-- bank:end -->
 

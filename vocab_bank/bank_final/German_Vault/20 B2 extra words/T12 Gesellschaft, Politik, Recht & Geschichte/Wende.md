@@ -33,6 +33,12 @@ status: "new"
 > Die Wende von 1989 veränderte Deutschland.
 > *The turning point of 1989 changed Germany.*
 
+**Phrases & Expressions:**
+- **Ich wende mich an Sie mit der Bitte um Auskunft.** — I am contacting you with a request for information. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Anfrage an Behörde]] · B2)*
+- **eine Wende herbeiführen** — *turn; turning point*
+- **die Wende von 1989** — *turn; turning point*
+- **eine unerwartete Wende** — *turn; turning point*
+
 **Collocations**
 - eine Wende herbeiführen
 - die Wende von 1989

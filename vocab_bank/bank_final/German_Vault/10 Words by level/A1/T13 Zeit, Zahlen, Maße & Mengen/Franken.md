@@ -35,6 +35,9 @@ status: "new"
 > Das kostet zwanzig Franken.
 > *That costs twenty francs.*
 
+**Phrases & Expressions:**
+- **Das kostet zwanzig Franken** — *That costs twenty francs* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden) · Goethe word list B1
 <!-- bank:end -->
 

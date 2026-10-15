@@ -34,6 +34,9 @@ status: "new"
 > Heute Abend koche ich Spaghetti mit Tomatensoße.
 > *Tonight I'm cooking spaghetti with tomato sauce.*
 
+**Phrases & Expressions:**
+- **Heute Abend koche ich Spaghetti mit Tomatensoße** — *Tonight I'm cooking spaghetti with tomato sauce* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3b (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

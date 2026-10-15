@@ -30,6 +30,9 @@ status: "new"
 > Das Design ist zeitlos schön.
 > *The design is timelessly beautiful.*
 
+**Phrases & Expressions:**
+- **Das Design ist zeitlos schön** — *The design is timelessly beautiful* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 12b (Kunststücke)
 <!-- bank:end -->
 

@@ -32,6 +32,11 @@ status: "new"
 > Die Journalistin hat einen Skandal aufgedeckt.
 > *The journalist uncovered a scandal.*
 
+**Phrases & Expressions:**
+- **einen Skandal aufdecken** — *to uncover; to reveal*
+- **einen Fehler aufdecken** — *to uncover; to reveal*
+- **Missstände aufdecken** — *to uncover; to reveal*
+
 **Collocations**
 - einen Skandal aufdecken
 - einen Fehler aufdecken

@@ -34,6 +34,9 @@ status: "new"
 > Meine Mama kocht am besten.
 > *My mum cooks best.*
 
+**Phrases & Expressions:**
+- **Meine Mama kocht am besten** — *My mum cooks best* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil)
 <!-- bank:end -->
 

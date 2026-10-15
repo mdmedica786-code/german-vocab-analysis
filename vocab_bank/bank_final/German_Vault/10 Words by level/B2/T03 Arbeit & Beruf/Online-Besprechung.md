@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Die Online-Besprechung dauert eine Stunde.
 > *The online meeting lasts one hour.*
+
+**Phrases & Expressions:**
+- **Die Online-Besprechung dauert eine Stunde** — *The online meeting lasts one hour* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

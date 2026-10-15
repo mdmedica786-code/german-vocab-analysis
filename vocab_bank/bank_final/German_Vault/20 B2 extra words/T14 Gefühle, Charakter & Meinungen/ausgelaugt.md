@@ -29,6 +29,11 @@ status: "new"
 > Nach der langen Schicht fühlte er sich völlig ausgelaugt.
 > *After the long shift he felt completely drained.*
 
+**Phrases & Expressions:**
+- **sich ausgelaugt fühlen** — *drained; exhausted*
+- **völlig ausgelaugt** — *drained; exhausted*
+- **ausgelaugte Böden** — *drained; exhausted*
+
 **Collocations**
 - sich ausgelaugt fühlen
 - völlig ausgelaugt

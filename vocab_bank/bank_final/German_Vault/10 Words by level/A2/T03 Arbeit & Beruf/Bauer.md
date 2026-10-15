@@ -35,6 +35,9 @@ status: "new"
 > Wir kaufen unser Gemüse beim Bauern.
 > *We buy our vegetables from the farmer.*
 
+**Phrases & Expressions:**
+- **Wir kaufen unser Gemüse beim Bauern** — *We buy our vegetables from the farmer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12a (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

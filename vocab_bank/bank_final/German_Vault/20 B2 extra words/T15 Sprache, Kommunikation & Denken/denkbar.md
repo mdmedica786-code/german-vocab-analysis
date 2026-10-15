@@ -29,6 +29,11 @@ status: "new"
 > Das ist durchaus denkbar.
 > *That is quite conceivable.*
 
+**Phrases & Expressions:**
+- **durchaus denkbar** — *conceivable*
+- **denkbar einfach** — *conceivable*
+- **kaum denkbar** — *conceivable*
+
 **Collocations**
 - durchaus denkbar
 - denkbar einfach

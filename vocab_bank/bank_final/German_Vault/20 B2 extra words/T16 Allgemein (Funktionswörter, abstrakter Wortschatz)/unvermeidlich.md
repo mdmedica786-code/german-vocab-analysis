@@ -29,6 +29,11 @@ status: "new"
 > Verzögerungen waren leider unvermeidlich.
 > *Delays were unfortunately unavoidable.*
 
+**Phrases & Expressions:**
+- **unvermeidlich sein** — *unavoidable; inevitable*
+- **eine unvermeidliche Folge** — *unavoidable; inevitable*
+- **sich als unvermeidlich erweisen** — *unavoidable; inevitable*
+
 **Collocations**
 - unvermeidlich sein
 - eine unvermeidliche Folge

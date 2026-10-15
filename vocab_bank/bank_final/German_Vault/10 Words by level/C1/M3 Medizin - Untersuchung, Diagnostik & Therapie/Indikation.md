@@ -33,6 +33,13 @@ status: "new"
 > Für die Operation besteht eine klare Indikation.
 > *There is a clear indication for the operation.*
 
+**Phrases & Expressions:**
+- **Die Fragestellung lautet: Besteht eine Indikation zur Herzkatheteruntersuchung?** — The question is: Is there an indication for cardiac catheterisation? *([[FSP-19 Übergabe, Konsil und Rücksprache|Konsil anfordern]] · C1)*
+- **eine Indikation stellen** — *indication*
+- **klare Indikation** — *indication*
+- **Indikation zur Operation** — *indication*
+- **die Indikation prüfen** — *indication*
+
 **Collocations**
 - eine Indikation stellen
 - klare Indikation

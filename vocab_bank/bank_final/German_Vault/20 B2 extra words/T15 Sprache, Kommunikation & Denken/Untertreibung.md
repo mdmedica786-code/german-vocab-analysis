@@ -33,6 +33,11 @@ status: "new"
 > Zu sagen, es sei kalt gewesen, wäre eine Untertreibung.
 > *To say it was cold would be an understatement.*
 
+**Phrases & Expressions:**
+- **eine Untertreibung sein** — *understatement*
+- **milde Untertreibung** — *understatement*
+- **rhetorische Untertreibung** — *understatement*
+
 **Collocations**
 - eine Untertreibung sein
 - milde Untertreibung

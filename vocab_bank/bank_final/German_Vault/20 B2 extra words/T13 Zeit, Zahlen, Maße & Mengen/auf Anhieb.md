@@ -29,6 +29,11 @@ status: "new"
 > Ich habe die Prüfung auf Anhieb bestanden.
 > *I passed the exam at the first attempt.*
 
+**Phrases & Expressions:**
+- **auf Anhieb schaffen** — *straight away; at the first attempt*
+- **auf Anhieb verstehen** — *straight away; at the first attempt*
+- **auf Anhieb klappen** — *straight away; at the first attempt*
+
 **Collocations**
 - auf Anhieb schaffen
 - auf Anhieb verstehen

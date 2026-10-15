@@ -31,6 +31,9 @@ status: "new"
 > Ich mag die traditionelle Küche.
 > *I like traditional cooking.*
 
+**Phrases & Expressions:**
+- **Ich mag die traditionelle Küche** — *I like traditional cooking* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 12b (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Meine Duschzeit beträgt nur fünf Minuten.
 > *My shower time is only five minutes.*
 
+**Phrases & Expressions:**
+- **Meine Duschzeit beträgt nur fünf Minuten** — *My shower time is only five minutes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 4b (Umweltfreundlich?)
 <!-- bank:end -->
 

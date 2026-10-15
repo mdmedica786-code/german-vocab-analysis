@@ -34,6 +34,9 @@ status: "new"
 > Haben Sie eine Serviette für mich?
 > *Do you have a napkin for me?*
 
+**Phrases & Expressions:**
+- **Haben Sie eine Serviette für mich** — *Do you have a napkin for me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 11c ÜB (Zeit mit Freunden)
 <!-- bank:end -->
 

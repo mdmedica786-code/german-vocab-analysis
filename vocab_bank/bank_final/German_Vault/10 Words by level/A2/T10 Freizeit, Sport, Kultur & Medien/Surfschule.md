@@ -34,6 +34,9 @@ status: "new"
 > In der Surfschule lernen Anfänger das Surfen.
 > *In the surf school beginners learn to surf.*
 
+**Phrases & Expressions:**
+- **In der Surfschule lernen Anfänger das Surfen** — *In the surf school beginners learn to surf* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 13a (Sportlich, sportlich)
 <!-- bank:end -->
 

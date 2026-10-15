@@ -34,6 +34,9 @@ status: "new"
 > Die Kriminalität in der Stadt ist gesunken.
 > *Crime in the city has fallen.*
 
+**Phrases & Expressions:**
+- **Die Kriminalität in der Stadt ist gesunken** — *Crime in the city has fallen* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!)
 <!-- bank:end -->
 

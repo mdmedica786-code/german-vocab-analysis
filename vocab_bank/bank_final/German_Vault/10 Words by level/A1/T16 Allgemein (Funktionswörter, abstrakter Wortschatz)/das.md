@@ -32,6 +32,9 @@ status: "new"
 > Das ist Frau Kowalski.
 > *This is Mrs Kowalski.*
 
+**Phrases & Expressions:**
+- **Das ist Frau Kowalski** — *This is Mrs Kowalski* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1a (Guten Tag!)
 <!-- bank:end -->
 

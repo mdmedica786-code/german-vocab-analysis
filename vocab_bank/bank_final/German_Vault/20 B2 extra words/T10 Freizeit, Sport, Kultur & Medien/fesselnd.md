@@ -29,6 +29,11 @@ status: "new"
 > Das Buch ist von der ersten bis zur letzten Seite fesselnd.
 > *The book is gripping from the first to the last page.*
 
+**Phrases & Expressions:**
+- **ein fesselnder Roman** — *gripping; captivating*
+- **fesselnd erzählen** — *gripping; captivating*
+- **fesselnde Spannung** — *gripping; captivating*
+
 **Collocations**
 - ein fesselnder Roman
 - fesselnd erzählen

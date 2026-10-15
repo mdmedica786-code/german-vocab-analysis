@@ -29,6 +29,13 @@ status: "new"
 > Der Koffer ist schwer. Was ist darin?
 > *The suitcase is heavy. What is in it?*
 
+**Phrases & Expressions:**
+- **liegt darin, dass ...** — lies in the fact that ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · C1)*
+- **darin enthalten** — *in it; in there; in that*
+- **darin bestehen, dass ...** — *in it; in there; in that*
+- **darin liegen** — *in it; in there; in that*
+- **darin sehen** — *in it; in there; in that*
+
 **Collocations**
 - darin enthalten
 - darin bestehen, dass ...

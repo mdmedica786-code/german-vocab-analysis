@@ -34,6 +34,9 @@ status: "new"
 > Sie schreibt ein Weblog über ihre Reisen.
 > *She writes a weblog about her travels.*
 
+**Phrases & Expressions:**
+- **Sie schreibt ein Weblog über ihre Reisen** — *She writes a weblog about her travels* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7b (Miteinander)
 <!-- bank:end -->
 

@@ -30,6 +30,9 @@ status: "new"
 > Ich habe meinen Schlüssel irgendwo verloren.
 > *I lost my key somewhere.*
 
+**Phrases & Expressions:**
+- **Ich habe meinen Schlüssel irgendwo verloren** — *I lost my key somewhere* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

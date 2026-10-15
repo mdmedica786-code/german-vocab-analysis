@@ -33,6 +33,11 @@ status: "new"
 > Der Polizist zog seine Pistole.
 > *The policeman drew his pistol.*
 
+**Phrases & Expressions:**
+- **eine Pistole ziehen** — *pistol*
+- **mit der Pistole bedrohen** — *pistol*
+- **eine Spielzeugpistole** — *pistol*
+
 **Collocations**
 - eine Pistole ziehen
 - mit der Pistole bedrohen

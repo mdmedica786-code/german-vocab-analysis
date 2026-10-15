@@ -33,6 +33,11 @@ status: "new"
 > Die Region lebt hauptsächlich vom Fremdenverkehr.
 > *The region lives mainly from tourism.*
 
+**Phrases & Expressions:**
+- **vom Fremdenverkehr leben** — *tourism*
+- **Fremdenverkehrsamt** — *tourism*
+- **der Fremdenverkehr boomt** — *tourism*
+
 **Collocations**
 - vom Fremdenverkehr leben
 - Fremdenverkehrsamt

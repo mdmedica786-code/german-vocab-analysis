@@ -35,6 +35,9 @@ status: "new"
 > Gibst du mir bitte mal die Soße?
 > *Could you pass me the sauce, please?*
 
+**Phrases & Expressions:**
+- **Gibst du mir bitte mal die Soße** — *Could you pass me the sauce, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

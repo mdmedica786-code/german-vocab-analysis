@@ -30,6 +30,9 @@ status: "new"
 > Der Stuhl ist sehr unbequem.
 > *The chair is very uncomfortable.*
 
+**Phrases & Expressions:**
+- **Der Stuhl ist sehr unbequem** — *The chair is very uncomfortable* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 3c (Rund um Körper und Geist)
 <!-- bank:end -->
 

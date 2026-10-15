@@ -32,6 +32,13 @@ status: "new"
 > Der Arzt betont, wie wichtig Bewegung ist.
 > *The doctor stresses how important exercise is.*
 
+**Phrases & Expressions:**
+- **Abschließend möchte ich betonen, dass ...** — In conclusion I would like to stress that ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Schluss mit Fazit]] · B2)*
+- **etwas betonen** — *to emphasize*
+- **besonders betonen** — *to emphasize*
+- **die Silbe betonen** — *to emphasize*
+- **nochmals betonen** — *to emphasize*
+
 **Collocations**
 - etwas betonen
 - besonders betonen

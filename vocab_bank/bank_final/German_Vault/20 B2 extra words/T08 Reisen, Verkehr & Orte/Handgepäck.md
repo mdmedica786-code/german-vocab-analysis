@@ -33,6 +33,11 @@ status: "new"
 > Im Handgepäck dürfen keine Flüssigkeiten über 100 Milliliter sein.
 > *No liquids over 100 millilitres are allowed in hand luggage.*
 
+**Phrases & Expressions:**
+- **nur mit Handgepäck reisen** — *hand luggage*
+- **Handgepäck kontrollieren** — *hand luggage*
+- **Handgepäck mitnehmen** — *hand luggage*
+
 **Collocations**
 - nur mit Handgepäck reisen
 - Handgepäck kontrollieren

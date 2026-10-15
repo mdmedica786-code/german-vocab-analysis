@@ -34,6 +34,9 @@ status: "new"
 > Der Maler mischt Farben auf der Palette.
 > *The painter mixes colours on the palette.*
 
+**Phrases & Expressions:**
+- **Der Maler mischt Farben auf der Palette** — *The painter mixes colours on the palette* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7b (Kunststücke)
 <!-- bank:end -->
 

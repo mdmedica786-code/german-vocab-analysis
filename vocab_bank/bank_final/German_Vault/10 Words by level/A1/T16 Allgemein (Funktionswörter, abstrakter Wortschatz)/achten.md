@@ -34,6 +34,14 @@ status: "new"
 > Achten Sie bitte darauf, dass Sie abschließen, wenn Sie gehen.
 > *Please make sure that you lock up when you leave.*
 
+**Phrases & Expressions:**
+- **darauf zu achten, dass ...** — to make sure that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **darauf achten, dass ...** — to make sure that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **achten, dass ...** — to take care that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **darauf zu achten ...** — to pay attention to ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **achten Sie darauf, dass ...** — make sure that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **darauf geachtet werden, dass ...** — care must be taken that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · C1)*
+
 **Source:** Netzwerk neu A1 K2 5a (Freunde, Kollegen und ich) · Goethe word list B1
 <!-- bank:end -->
 

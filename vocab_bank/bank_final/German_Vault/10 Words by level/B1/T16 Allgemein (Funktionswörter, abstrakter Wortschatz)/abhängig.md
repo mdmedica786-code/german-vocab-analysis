@@ -31,6 +31,9 @@ status: "new"
 > Gregor ist finanziell von seinen Eltern abhängig.
 > *Gregor is financially dependent on his parents.*
 
+**Phrases & Expressions:**
+- **abhängig von ...** — dependent on ... *([[Bedingung - Zweck (condition, purpose)|Bedingung / Zweck (condition, purpose)]] · B2)*
+
 **Source:** Netzwerk neu B1 K12 3c (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

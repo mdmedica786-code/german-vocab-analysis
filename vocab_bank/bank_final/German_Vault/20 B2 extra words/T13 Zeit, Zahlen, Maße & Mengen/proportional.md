@@ -29,6 +29,11 @@ status: "new"
 > Der Preis steigt proportional zur Menge.
 > *The price rises in proportion to the quantity.*
 
+**Phrases & Expressions:**
+- **proportional zu** — *proportional*
+- **direkt proportional** — *proportional*
+- **proportional wachsen** — *proportional*
+
 **Collocations**
 - proportional zu
 - direkt proportional

@@ -29,6 +29,11 @@ status: "new"
 > Es gab personelle Veränderungen in der Firma.
 > *There were personnel changes in the company.*
 
+**Phrases & Expressions:**
+- **personelle Veränderungen** — *relating to staff; personnel (adj.)*
+- **personell aufstocken** — *relating to staff; personnel (adj.)*
+- **eine personelle Entscheidung** — *relating to staff; personnel (adj.)*
+
 **Collocations**
 - personelle Veränderungen
 - personell aufstocken

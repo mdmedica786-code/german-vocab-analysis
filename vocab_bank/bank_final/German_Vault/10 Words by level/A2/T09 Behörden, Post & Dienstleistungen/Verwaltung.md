@@ -35,6 +35,9 @@ status: "new"
 > Sprechen Sie bitte mit der Verwaltung.
 > *Please speak to the administration.*
 
+**Phrases & Expressions:**
+- **Sprechen Sie bitte mit der Verwaltung** — *Please speak to the administration* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8b (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

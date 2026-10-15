@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Das LED-Licht spart Strom.
 > *The LED light saves electricity.*
+
+**Phrases & Expressions:**
+- **Das LED-Licht spart Strom** — *The LED light saves electricity* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

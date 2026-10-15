@@ -29,6 +29,9 @@ status: "new"
 > Das ist kein Fehler, vielmehr ist es eine bewusste Entscheidung.
 > *That is not a mistake; rather, it is a deliberate decision.*
 
+**Phrases & Expressions:**
+- **nicht ..., sondern vielmehr** — *rather; on the contrary*
+
 **Collocations**
 - nicht ..., sondern vielmehr
 

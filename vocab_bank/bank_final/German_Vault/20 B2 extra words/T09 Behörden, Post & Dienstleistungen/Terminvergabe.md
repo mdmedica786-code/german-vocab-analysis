@@ -33,6 +33,11 @@ status: "new"
 > Die Terminvergabe beim Bürgeramt läuft nur online.
 > *Appointment scheduling at the citizens' office is online only.*
 
+**Phrases & Expressions:**
+- **die Terminvergabe online** — *appointment scheduling*
+- **Terminvergabe per Telefon** — *appointment scheduling*
+- **zur Terminvergabe anrufen** — *appointment scheduling*
+
 **Collocations**
 - die Terminvergabe online
 - Terminvergabe per Telefon

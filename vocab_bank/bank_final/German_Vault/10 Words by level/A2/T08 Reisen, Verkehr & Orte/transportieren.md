@@ -33,6 +33,9 @@ status: "new"
 > Wie willst du die Möbel denn transportieren?
 > *How do you want to transport the furniture?*
 
+**Phrases & Expressions:**
+- **Wie willst du die Möbel denn transportieren** — *How do you want to transport the furniture* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

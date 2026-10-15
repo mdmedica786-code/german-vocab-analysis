@@ -29,6 +29,10 @@ status: "new"
 > Die Journalistin fühlte dem Politiker auf den Zahn.
 > *The journalist sounded the politician out.*
 
+**Phrases & Expressions:**
+- **auf den Zahn fühlen** — *to sound someone out; to quiz someone*
+- **gründlich befragen** — *to sound someone out; to quiz someone*
+
 **Collocations**
 - auf den Zahn fühlen
 - gründlich befragen

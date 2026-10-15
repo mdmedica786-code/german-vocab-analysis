@@ -35,6 +35,10 @@ status: "new"
 > Herr Ober, kann ich bitte Salz haben?
 > *Waiter, may I have some salt, please?*
 
+**Phrases & Expressions:**
+- **Kannst du mir bitte das Salz geben?** — Can you pass me the salt, please? *([[B1-07 Bitten und höflich nachfragen|Um etwas bitten]] · B1)*
+- **Versuchen Sie, weniger Salz und Fett zu essen.** — Try to eat less salt and fat. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Ernährung beraten]] · A2)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

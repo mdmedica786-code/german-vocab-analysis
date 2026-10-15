@@ -35,6 +35,11 @@ status: "new"
 > Bitte füllen Sie das Formular vollständig aus.
 > *Please fill in the form completely.*
 
+**Phrases & Expressions:**
+- **ein Formular ausfüllen** — *to fill in*
+- **einen Antrag ausfüllen** — *to fill in*
+- **ein Kästchen ausfüllen** — *to fill in*
+
 **Collocations**
 - ein Formular ausfüllen
 - einen Antrag ausfüllen

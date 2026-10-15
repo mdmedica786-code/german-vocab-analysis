@@ -34,6 +34,9 @@ status: "new"
 > Am Satzanfang schreibt man groß.
 > *At the beginning of a sentence you write a capital letter.*
 
+**Phrases & Expressions:**
+- **Am Satzanfang schreibt man groß** — *At the beginning of a sentence you write a capital letter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 9d (Umweltfreundlich?)
 <!-- bank:end -->
 

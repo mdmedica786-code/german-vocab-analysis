@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Konzert gab es lang anhaltenden Beifall.
 > *After the concert there was long-lasting applause.*
 
+**Phrases & Expressions:**
+- **Beifall spenden** — *applause*
+- **lauten Beifall ernten** — *applause*
+- **stürmischer Beifall** — *applause*
+
 **Collocations**
 - Beifall spenden
 - lauten Beifall ernten

@@ -33,6 +33,11 @@ status: "new"
 > Die Kundschaft ist mit dem Service zufrieden.
 > *The customers are satisfied with the service.*
 
+**Phrases & Expressions:**
+- **neue Kundschaft gewinnen** — *customers; clientele*
+- **die Kundschaft beraten** — *customers; clientele*
+- **eine treue Kundschaft** — *customers; clientele*
+
 **Collocations**
 - neue Kundschaft gewinnen
 - die Kundschaft beraten

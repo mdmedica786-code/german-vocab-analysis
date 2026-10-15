@@ -33,6 +33,9 @@ status: "new"
 > Meine Ausbildung wird hier nicht anerkannt.
 > *My training is not recognised here.*
 
+**Phrases & Expressions:**
+- **Meine Ausbildung wird hier nicht anerkannt** — *My training is not recognised here* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

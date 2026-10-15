@@ -33,6 +33,11 @@ status: "new"
 > Ihre Worte waren mir ein großer Trost.
 > *Her words were a great comfort to me.*
 
+**Phrases & Expressions:**
+- **Trost spenden** — *comfort; consolation*
+- **Trost suchen** — *comfort; consolation*
+- **ein schwacher Trost** — *comfort; consolation*
+
 **Collocations**
 - Trost spenden
 - Trost suchen

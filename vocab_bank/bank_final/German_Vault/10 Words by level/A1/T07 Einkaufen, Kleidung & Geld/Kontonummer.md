@@ -34,6 +34,9 @@ status: "new"
 > Bitte geben Sie Ihre Kontonummer an.
 > *Please state your account number.*
 
+**Phrases & Expressions:**
+- **Bitte geben Sie Ihre Kontonummer an** — *Please state your account number* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 5a ÜB (Arbeitsalltag)
 <!-- bank:end -->
 

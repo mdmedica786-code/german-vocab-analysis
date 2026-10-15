@@ -36,6 +36,9 @@ status: "new"
 > Ich möchte eine Ausbildung zum Krankenpfleger machen.
 > **
 
+**Phrases & Expressions:**
+- **Ich habe meine Ausbildung im Jahr ... abgeschlossen.** — I completed my training in ... *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Ausbildung beschreiben]] · B2)*
+
 **Source:** Netzwerk neu A2 K1 1b (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

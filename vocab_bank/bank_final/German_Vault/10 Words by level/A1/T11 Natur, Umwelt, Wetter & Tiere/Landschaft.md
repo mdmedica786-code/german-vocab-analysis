@@ -35,6 +35,9 @@ status: "new"
 > Die Landschaft ist sehr schön.
 > *The landscape is very beautiful.*
 
+**Phrases & Expressions:**
+- **Die Landschaft ist sehr schön** — *The landscape is very beautiful* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 12b (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

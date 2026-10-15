@@ -32,6 +32,11 @@ status: "new"
 > Die beiden Firmen kooperieren bei der Entwicklung.
 > *The two companies cooperate in the development.*
 
+**Phrases & Expressions:**
+- **mit jemandem kooperieren** — *to cooperate*
+- **eng kooperieren** — *to cooperate*
+- **mit den Behörden kooperieren** — *to cooperate*
+
 **Collocations**
 - mit jemandem kooperieren
 - eng kooperieren

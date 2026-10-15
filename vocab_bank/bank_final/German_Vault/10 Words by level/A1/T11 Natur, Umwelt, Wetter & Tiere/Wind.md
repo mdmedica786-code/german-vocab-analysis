@@ -35,6 +35,9 @@ status: "new"
 > Der Wind kommt aus Osten.
 > *The wind is coming from the east.*
 
+**Phrases & Expressions:**
+- **Der Wind kommt aus Osten** — *The wind is coming from the east* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 11b (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Befristung des Vertrags endet im Dezember.
 > *The fixed term of the contract ends in December.*
 
+**Phrases & Expressions:**
+- **eine Befristung vereinbaren** — *time limit; fixed term*
+- **ohne Befristung** — *time limit; fixed term*
+- **Befristung des Arbeitsvertrags** — *time limit; fixed term*
+
 **Collocations**
 - eine Befristung vereinbaren
 - ohne Befristung

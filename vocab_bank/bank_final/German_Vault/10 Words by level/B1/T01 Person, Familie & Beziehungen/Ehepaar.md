@@ -34,6 +34,9 @@ status: "new"
 > Das Ehepaar unter uns hat zwei Kinder.
 > *The married couple below us has two children.*
 
+**Phrases & Expressions:**
+- **Das Ehepaar unter uns hat zwei Kinder** — *The married couple below us has two children* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Nein danke, ich möchte keinen Wein.
 > *No thank you, I don't want any wine.*
 
+**Phrases & Expressions:**
+- **Ich trinke nur gelegentlich ein Glas Wein.** — I only occasionally drink a glass of wine. *([[FSP-05 Familien- und Sozialanamnese|Patient: Alkohol angeben]] · A2)*
+
 **Source:** Netzwerk neu A2 K10 5a (Zusammen leben) · Goethe word list A1
 <!-- bank:end -->
 

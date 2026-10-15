@@ -29,6 +29,11 @@ status: "new"
 > Er ist bisweilen etwas zerstreut.
 > *He is at times somewhat absent-minded.*
 
+**Phrases & Expressions:**
+- **bisweilen auftreten** — *at times; occasionally*
+- **bisweilen vorkommen** — *at times; occasionally*
+- **bisweilen schwierig** — *at times; occasionally*
+
 **Collocations**
 - bisweilen auftreten
 - bisweilen vorkommen

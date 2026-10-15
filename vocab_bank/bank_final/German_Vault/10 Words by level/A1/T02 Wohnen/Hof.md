@@ -35,6 +35,9 @@ status: "new"
 > Die Kinder spielen am liebsten im Hof.
 > *The children like playing in the courtyard best.*
 
+**Phrases & Expressions:**
+- **Die Kinder spielen am liebsten im Hof** — *The children like playing in the courtyard best* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!) · Goethe word list B1
 <!-- bank:end -->
 

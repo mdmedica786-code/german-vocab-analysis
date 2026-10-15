@@ -42,6 +42,9 @@ status: "new"
 > Die Kinder gehen einmal pro Woche in die Spielgruppe.
 > *The children go to the playgroup once a week.*
 
+**Phrases & Expressions:**
+- **Die Kinder gehen einmal pro Woche in die Spielgruppe** — *The children go to the playgroup once a week* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

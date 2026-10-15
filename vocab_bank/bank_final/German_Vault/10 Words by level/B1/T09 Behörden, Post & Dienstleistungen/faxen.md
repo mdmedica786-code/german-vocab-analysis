@@ -32,6 +32,9 @@ status: "new"
 > Ich faxe Ihnen den Vertrag.
 > *I will fax you the contract.*
 
+**Phrases & Expressions:**
+- **Ich faxe Ihnen den Vertrag** — *I will fax you the contract* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

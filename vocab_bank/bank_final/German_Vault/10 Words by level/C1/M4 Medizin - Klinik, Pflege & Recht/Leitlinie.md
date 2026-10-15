@@ -33,6 +33,12 @@ status: "new"
 > Die Behandlung folgt den aktuellen Leitlinien.
 > *The treatment follows the current guidelines.*
 
+**Phrases & Expressions:**
+- **aktuelle Leitlinie** — *guideline*
+- **Leitlinien beachten** — *guideline*
+- **nach den Leitlinien behandeln** — *guideline*
+- **Leitlinie der Fachgesellschaft** — *guideline*
+
 **Collocations**
 - aktuelle Leitlinie
 - Leitlinien beachten

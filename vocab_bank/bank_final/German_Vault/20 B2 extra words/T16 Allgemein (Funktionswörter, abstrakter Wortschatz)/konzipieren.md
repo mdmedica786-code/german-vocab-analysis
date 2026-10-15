@@ -31,6 +31,11 @@ status: "new"
 > Das Haus wurde für große Familien konzipiert.
 > *The house was designed for large families.*
 
+**Phrases & Expressions:**
+- **ein Gebäude konzipieren** — *to design; to conceive; to draft*
+- **für etwas konzipiert sein** — *to design; to conceive; to draft*
+- **neu konzipieren** — *to design; to conceive; to draft*
+
 **Collocations**
 - ein Gebäude konzipieren
 - für etwas konzipiert sein

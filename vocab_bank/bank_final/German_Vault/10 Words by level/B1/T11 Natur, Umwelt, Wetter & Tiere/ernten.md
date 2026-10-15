@@ -32,6 +32,9 @@ status: "new"
 > Im Herbst ernten die Bauern die Äpfel.
 > *In autumn the farmers harvest the apples.*
 
+**Phrases & Expressions:**
+- **Im Herbst ernten die Bauern die Äpfel** — *In autumn the farmers harvest the apples* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?)
 <!-- bank:end -->
 

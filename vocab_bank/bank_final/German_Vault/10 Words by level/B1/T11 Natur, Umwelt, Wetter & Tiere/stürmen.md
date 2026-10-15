@@ -32,6 +32,9 @@ status: "new"
 > Draußen stürmt es seit Stunden.
 > *It has been blowing a gale outside for hours.*
 
+**Phrases & Expressions:**
+- **Draußen stürmt es seit Stunden** — *It has been blowing a gale outside for hours* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 12a (Umweltfreundlich?)
 <!-- bank:end -->
 

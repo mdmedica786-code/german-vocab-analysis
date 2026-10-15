@@ -33,6 +33,11 @@ status: "new"
 > Der Konjunktiv ist ein Modus des Verbs.
 > *The subjunctive is a mood of the verb.*
 
+**Phrases & Expressions:**
+- **im Modus** — *mode; mood (grammar)*
+- **den Modus wechseln** — *mode; mood (grammar)*
+- **der Modus der Zahlung** — *mode; mood (grammar)*
+
 **Collocations**
 - im Modus
 - den Modus wechseln

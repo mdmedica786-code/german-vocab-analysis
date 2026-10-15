@@ -34,6 +34,9 @@ status: "new"
 > Es gibt viele Interessenten für die Stelle.
 > *There are many interested candidates for the position.*
 
+**Phrases & Expressions:**
+- **Es gibt viele Interessenten für die Stelle** — *There are many interested candidates for the position* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 12b (Arbeitswelt)
 <!-- bank:end -->
 

@@ -29,6 +29,13 @@ status: "new"
 > Dadurch hat sich vieles verbessert.
 > *As a result, a lot has improved.*
 
+**Phrases & Expressions:**
+- **dadurch, dass ...** — because of the fact that ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B2)*
+- **dadurch dass ...** — *through it; thereby; as a result*
+- **dadurch entstehen** — *through it; thereby; as a result*
+- **dadurch ermöglichen** — *through it; thereby; as a result*
+- **dadurch wird ...** — *through it; thereby; as a result*
+
 **Collocations**
 - dadurch dass ...
 - dadurch entstehen

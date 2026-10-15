@@ -31,6 +31,11 @@ status: "new"
 > Der Hund gräbt ein Loch im Garten.
 > *The dog is digging a hole in the garden.*
 
+**Phrases & Expressions:**
+- **ein Loch graben** — *to dig*
+- **nach etwas graben** — *to dig*
+- **in der Erde graben** — *to dig*
+
 **Collocations**
 - ein Loch graben
 - nach etwas graben

@@ -34,6 +34,9 @@ status: "new"
 > Der Synchronsprecher leiht dem Schauspieler seine Stimme.
 > *The voice actor lends the actor his voice.*
 
+**Phrases & Expressions:**
+- **Der Synchronsprecher leiht dem Schauspieler seine Stimme** — *The voice actor lends the actor his voice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!)
 <!-- bank:end -->
 

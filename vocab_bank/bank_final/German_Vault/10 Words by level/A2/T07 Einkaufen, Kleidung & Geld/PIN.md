@@ -34,6 +34,9 @@ status: "new"
 > Geben Sie bitte Ihre PIN ein.
 > *Please enter your PIN.*
 
+**Phrases & Expressions:**
+- **Geben Sie bitte Ihre PIN ein** — *Please enter your PIN* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 6a (Ganz schön mobil)
 <!-- bank:end -->
 

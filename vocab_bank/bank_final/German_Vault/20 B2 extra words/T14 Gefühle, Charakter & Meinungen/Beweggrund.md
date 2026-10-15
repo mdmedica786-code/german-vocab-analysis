@@ -33,6 +33,11 @@ status: "new"
 > Sein Beweggrund für den Wechsel war das höhere Gehalt.
 > *His reason for the change was the higher salary.*
 
+**Phrases & Expressions:**
+- **ein Beweggrund für etwas** — *motive; reason*
+- **Beweggründe nennen** — *motive; reason*
+- **die wahren Beweggründe** — *motive; reason*
+
 **Collocations**
 - ein Beweggrund für etwas
 - Beweggründe nennen

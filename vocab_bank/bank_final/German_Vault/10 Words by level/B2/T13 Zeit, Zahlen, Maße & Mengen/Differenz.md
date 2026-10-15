@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Differenz zwischen beiden Werten ist klein.
 > *The difference between the two values is small.*
+
+**Phrases & Expressions:**
+- **Die Differenz zwischen beiden Werten ist klein** — *The difference between the two values is small* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

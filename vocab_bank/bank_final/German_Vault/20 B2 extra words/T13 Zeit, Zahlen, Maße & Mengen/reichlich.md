@@ -29,6 +29,11 @@ status: "new"
 > Wir haben reichlich Zeit, bevor der Zug abfährt.
 > *We have plenty of time before the train leaves.*
 
+**Phrases & Expressions:**
+- **reichlich Zeit** — *ample; plentiful*
+- **reichlich vorhanden** — *ample; plentiful*
+- **ein reichliches Angebot** — *ample; plentiful*
+
 **Collocations**
 - reichlich Zeit
 - reichlich vorhanden

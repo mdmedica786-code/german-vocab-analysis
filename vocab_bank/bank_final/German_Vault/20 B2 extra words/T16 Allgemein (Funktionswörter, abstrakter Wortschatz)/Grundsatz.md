@@ -33,6 +33,11 @@ status: "new"
 > Es ist mein Grundsatz, ehrlich zu bleiben.
 > *It is my principle to stay honest.*
 
+**Phrases & Expressions:**
+- **einen Grundsatz verfolgen** — *principle*
+- **im Grundsatz** — *principle*
+- **nach dem Grundsatz handeln** — *principle*
+
 **Collocations**
 - einen Grundsatz verfolgen
 - im Grundsatz

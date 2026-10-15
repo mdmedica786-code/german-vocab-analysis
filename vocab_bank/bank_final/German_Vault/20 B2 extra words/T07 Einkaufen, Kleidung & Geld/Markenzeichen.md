@@ -33,6 +33,11 @@ status: "new"
 > Ihr rotes Kleid ist ihr Markenzeichen.
 > *Her red dress is her trademark.*
 
+**Phrases & Expressions:**
+- **ein Markenzeichen schützen** — *trademark; hallmark*
+- **das Markenzeichen der Firma** — *trademark; hallmark*
+- **ein typisches Markenzeichen** — *trademark; hallmark*
+
 **Collocations**
 - ein Markenzeichen schützen
 - das Markenzeichen der Firma

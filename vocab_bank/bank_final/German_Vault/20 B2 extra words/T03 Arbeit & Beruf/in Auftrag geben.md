@@ -26,6 +26,10 @@ status: "new"
 > Wir haben ein Gutachten in Auftrag gegeben.
 > *We have commissioned an expert report.*
 
+**Phrases & Expressions:**
+- **ein Gutachten in Auftrag geben** — *to commission; to order*
+- **eine Studie in Auftrag geben** — *to commission; to order*
+
 **Collocations**
 - ein Gutachten in Auftrag geben
 - eine Studie in Auftrag geben

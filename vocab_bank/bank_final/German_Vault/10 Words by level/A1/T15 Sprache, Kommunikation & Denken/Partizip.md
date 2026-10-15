@@ -34,6 +34,9 @@ status: "new"
 > „Gegangen“ ist das Partizip II von „gehen“.
 > *“Gegangen” is the past participle of “gehen”.*
 
+**Phrases & Expressions:**
+- **„Gegangen“ ist das Partizip II von „gehen“** — *“Gegangen” is the past participle of “gehen”* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 3b (Studium und Beruf)
 <!-- bank:end -->
 

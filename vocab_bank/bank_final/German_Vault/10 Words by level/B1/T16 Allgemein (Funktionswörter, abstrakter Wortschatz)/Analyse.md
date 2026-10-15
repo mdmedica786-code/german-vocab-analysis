@@ -34,6 +34,9 @@ status: "new"
 > Die Analyse zeigt klare Ergebnisse.
 > *The analysis shows clear results.*
 
+**Phrases & Expressions:**
+- **Die Analyse zeigt klare Ergebnisse** — *The analysis shows clear results* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1b (Arbeitswelt)
 <!-- bank:end -->
 

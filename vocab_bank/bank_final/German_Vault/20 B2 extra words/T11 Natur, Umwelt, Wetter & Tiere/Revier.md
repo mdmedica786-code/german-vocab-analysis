@@ -33,6 +33,11 @@ status: "new"
 > Der Hirsch verteidigt sein Revier gegen andere Männchen.
 > *The stag defends his territory against other males.*
 
+**Phrases & Expressions:**
+- **ein Revier markieren** — *territory; district*
+- **sein Revier verteidigen** — *territory; district*
+- **im Revier** — *territory; district*
+
 **Collocations**
 - ein Revier markieren
 - sein Revier verteidigen

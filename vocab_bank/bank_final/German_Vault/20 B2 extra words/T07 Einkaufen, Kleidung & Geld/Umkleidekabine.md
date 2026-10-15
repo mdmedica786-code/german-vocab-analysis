@@ -33,6 +33,11 @@ status: "new"
 > Die Umkleidekabinen befinden sich im ersten Stock.
 > *The changing cubicles are on the first floor.*
 
+**Phrases & Expressions:**
+- **in die Umkleidekabine gehen** — *changing cubicle*
+- **die Umkleidekabine benutzen** — *changing cubicle*
+- **eine freie Umkleidekabine** — *changing cubicle*
+
 **Collocations**
 - in die Umkleidekabine gehen
 - die Umkleidekabine benutzen

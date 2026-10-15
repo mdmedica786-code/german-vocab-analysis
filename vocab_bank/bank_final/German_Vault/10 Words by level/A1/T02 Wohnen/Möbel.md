@@ -35,6 +35,9 @@ status: "new"
 > Sind die Möbel neu?
 > *Is the furniture new?*
 
+**Phrases & Expressions:**
+- **Sind die Möbel neu** — *Is the furniture new* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

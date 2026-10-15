@@ -33,6 +33,11 @@ status: "new"
 > Die Armee wurde in das Krisengebiet geschickt.
 > *The army was sent to the crisis area.*
 
+**Phrases & Expressions:**
+- **in der Armee dienen** — *army*
+- **die Armee einsetzen** — *army*
+- **eine moderne Armee** — *army*
+
 **Collocations**
 - in der Armee dienen
 - die Armee einsetzen

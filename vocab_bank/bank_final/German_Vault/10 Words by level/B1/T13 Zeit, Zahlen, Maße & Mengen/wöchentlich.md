@@ -30,6 +30,9 @@ status: "new"
 > Der Kurs findet wöchentlich statt.
 > *The course takes place weekly.*
 
+**Phrases & Expressions:**
+- **Der Kurs findet wöchentlich statt** — *The course takes place weekly* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

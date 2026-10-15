@@ -34,6 +34,9 @@ status: "new"
 > Die Formulierung in der E-Mail ist sehr höflich.
 > *The wording in the email is very polite.*
 
+**Phrases & Expressions:**
+- **Die Formulierung in der E-Mail ist sehr höflich** — *The wording in the email is very polite* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 13b (Immer online?)
 <!-- bank:end -->
 

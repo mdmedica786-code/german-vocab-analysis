@@ -33,6 +33,11 @@ status: "new"
 > Forscher untersuchen die Tiersprache der Delfine.
 > *Researchers study the animal language of dolphins.*
 
+**Phrases & Expressions:**
+- **die Tiersprache erforschen** — *animal language; animal communication*
+- **die Tiersprache verstehen** — *animal language; animal communication*
+- **Tiersprachen vergleichen** — *animal language; animal communication*
+
 **Collocations**
 - die Tiersprache erforschen
 - die Tiersprache verstehen

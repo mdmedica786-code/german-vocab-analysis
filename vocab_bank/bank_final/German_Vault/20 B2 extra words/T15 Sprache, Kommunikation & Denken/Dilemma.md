@@ -33,6 +33,11 @@ status: "new"
 > Ich stecke in einem echten Dilemma.
 > *I am in a real dilemma.*
 
+**Phrases & Expressions:**
+- **in einem Dilemma stecken** — *dilemma*
+- **ein Dilemma lösen** — *dilemma*
+- **vor einem Dilemma stehen** — *dilemma*
+
 **Collocations**
 - in einem Dilemma stecken
 - ein Dilemma lösen

@@ -33,6 +33,11 @@ status: "new"
 > Kupfer leitet Strom sehr gut.
 > *Copper conducts electricity very well.*
 
+**Phrases & Expressions:**
+- **Kupfer und Eisen** — *copper*
+- **ein Kabel aus Kupfer** — *copper*
+- **reines Kupfer** — *copper*
+
 **Collocations**
 - Kupfer und Eisen
 - ein Kabel aus Kupfer

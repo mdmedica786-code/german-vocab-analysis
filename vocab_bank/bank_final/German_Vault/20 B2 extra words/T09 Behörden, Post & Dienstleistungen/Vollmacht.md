@@ -33,6 +33,11 @@ status: "new"
 > Mit einer Vollmacht kann meine Schwester die Unterlagen für mich abholen.
 > *With an authorisation my sister can pick up the documents for me.*
 
+**Phrases & Expressions:**
+- **eine Vollmacht erteilen** — *power of attorney; authorisation*
+- **Vollmacht vorlegen** — *power of attorney; authorisation*
+- **schriftliche Vollmacht** — *power of attorney; authorisation*
+
 **Collocations**
 - eine Vollmacht erteilen
 - Vollmacht vorlegen

@@ -33,6 +33,11 @@ status: "new"
 > Es gibt eine kleine Abweichung zwischen beiden Zahlen.
 > *There is a small discrepancy between the two figures.*
 
+**Phrases & Expressions:**
+- **eine Abweichung feststellen** — *deviation; discrepancy*
+- **geringe Abweichung** — *deviation; discrepancy*
+- **Abweichung von der Norm** — *deviation; discrepancy*
+
 **Collocations**
 - eine Abweichung feststellen
 - geringe Abweichung

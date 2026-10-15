@@ -31,6 +31,9 @@ status: "new"
 > Die Bahnradfahrerin gewinnt das Rennen.
 > *The track cyclist wins the race.*
 
+**Phrases & Expressions:**
+- **Die Bahnradfahrerin gewinnt das Rennen** — *The track cyclist wins the race* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

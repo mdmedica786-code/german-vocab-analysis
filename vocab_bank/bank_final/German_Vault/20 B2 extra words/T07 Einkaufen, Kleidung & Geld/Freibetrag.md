@@ -33,6 +33,11 @@ status: "new"
 > Der Freibetrag für Kinder wurde erhöht.
 > *The tax-free allowance for children has been increased.*
 
+**Phrases & Expressions:**
+- **einen Freibetrag nutzen** — *tax-free allowance*
+- **der steuerfreie Freibetrag** — *tax-free allowance*
+- **den Freibetrag überschreiten** — *tax-free allowance*
+
 **Collocations**
 - einen Freibetrag nutzen
 - der steuerfreie Freibetrag

@@ -33,6 +33,12 @@ status: "new"
 > Die Kündigungsfrist beträgt drei Monate.
 > *The notice period is three months.*
 
+**Phrases & Expressions:**
+- **Welche Kündigungsfrist gilt im Mietvertrag?** — What notice period applies in the rental contract? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Mietvertrag klären]] · B2)*
+- **die Kündigungsfrist einhalten** — *notice period*
+- **eine Kündigungsfrist von vier Wochen** — *notice period*
+- **Kündigungsfristen beachten** — *notice period*
+
 **Collocations**
 - die Kündigungsfrist einhalten
 - eine Kündigungsfrist von vier Wochen

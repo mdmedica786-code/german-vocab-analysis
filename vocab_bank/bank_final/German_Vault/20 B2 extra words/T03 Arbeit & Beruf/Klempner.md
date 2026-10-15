@@ -33,6 +33,11 @@ status: "new"
 > Der Klempner repariert den tropfenden Wasserhahn.
 > *The plumber is repairing the dripping tap.*
 
+**Phrases & Expressions:**
+- **den Klempner rufen** — *plumber*
+- **ein Termin beim Klempner** — *plumber*
+- **als Klempner arbeiten** — *plumber*
+
 **Collocations**
 - den Klempner rufen
 - ein Termin beim Klempner

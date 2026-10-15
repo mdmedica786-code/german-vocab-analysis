@@ -33,6 +33,11 @@ status: "new"
 > Die Erde hat die Form einer Kugel.
 > *The earth has the shape of a sphere.*
 
+**Phrases & Expressions:**
+- **eine Kugel Eis** — *ball; sphere; scoop*
+- **eine runde Kugel** — *ball; sphere; scoop*
+- **die Kugel rollt** — *ball; sphere; scoop*
+
 **Collocations**
 - eine Kugel Eis
 - eine runde Kugel

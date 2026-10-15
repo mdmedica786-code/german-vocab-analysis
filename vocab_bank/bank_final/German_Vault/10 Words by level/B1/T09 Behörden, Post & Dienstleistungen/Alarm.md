@@ -34,6 +34,9 @@ status: "new"
 > Bei Feueralarm dürfen Sie die Aufzüge nicht benutzen.
 > *In case of a fire alarm you must not use the lifts.*
 
+**Phrases & Expressions:**
+- **Bei Feueralarm dürfen Sie die Aufzüge nicht benutzen** — *In case of a fire alarm you must not use the lifts* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

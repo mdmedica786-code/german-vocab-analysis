@@ -30,6 +30,11 @@ status: "new"
 > Die Bio-Plantage liefert Bananen nach Europa.
 > *The organic plantation delivers bananas to Europe.*
 
+**Phrases & Expressions:**
+- **eine Bio-Plantage besuchen** — *organic plantation*
+- **auf einer Bio-Plantage arbeiten** — *organic plantation*
+- **eine Bio-Plantage betreiben** — *organic plantation*
+
 **Collocations**
 - eine Bio-Plantage besuchen
 - auf einer Bio-Plantage arbeiten

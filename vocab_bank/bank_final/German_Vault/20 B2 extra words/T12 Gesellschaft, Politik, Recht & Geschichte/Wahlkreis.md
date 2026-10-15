@@ -33,6 +33,11 @@ status: "new"
 > Die Abgeordnete vertritt ihren Wahlkreis im Bundestag.
 > *The member of parliament represents her constituency in the Bundestag.*
 
+**Phrases & Expressions:**
+- **den Wahlkreis gewinnen** — *constituency*
+- **im Wahlkreis kandidieren** — *constituency*
+- **Wahlkreis vertreten** — *constituency*
+
 **Collocations**
 - den Wahlkreis gewinnen
 - im Wahlkreis kandidieren

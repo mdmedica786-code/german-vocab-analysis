@@ -33,6 +33,12 @@ status: "new"
 > In der Anatomie lernt man den Aufbau des Körpers.
 > *In anatomy you learn the structure of the body.*
 
+**Phrases & Expressions:**
+- **Anatomie lernen** — *anatomy*
+- **menschliche Anatomie** — *anatomy*
+- **Anatomie des Herzens** — *anatomy*
+- **Anatomie studieren** — *anatomy*
+
 **Collocations**
 - Anatomie lernen
 - menschliche Anatomie

@@ -33,6 +33,11 @@ status: "new"
 > Jugendliche brauchen Freiräume, um sich zu entwickeln.
 > *Young people need freedom in order to develop.*
 
+**Phrases & Expressions:**
+- **Freiräume schaffen** — *freedom; space (to act)*
+- **Freiraum lassen** — *freedom; space (to act)*
+- **Freiraum für Kreativität** — *freedom; space (to act)*
+
 **Collocations**
 - Freiräume schaffen
 - Freiraum lassen

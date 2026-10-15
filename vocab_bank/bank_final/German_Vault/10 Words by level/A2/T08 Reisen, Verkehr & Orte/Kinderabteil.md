@@ -31,6 +31,9 @@ status: "new"
 > Im Zug gibt es ein Kinderabteil mit Spielzeug.
 > *On the train there is a children's compartment with toys.*
 
+**Phrases & Expressions:**
+- **Im Zug gibt es ein Kinderabteil mit Spielzeug** — *On the train there is a children's compartment with toys* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil)
 <!-- bank:end -->
 

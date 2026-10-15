@@ -35,6 +35,9 @@ status: "new"
 > An der Fernbedienung ist eine Taste kaputt.
 > *A key on the remote control is broken.*
 
+**Phrases & Expressions:**
+- **An der Fernbedienung ist eine Taste kaputt** — *A key on the remote control is broken* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 1b (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Fernfahrerin fährt jede Woche nach Italien.
 > *The long-distance lorry driver drives to Italy every week.*
 
+**Phrases & Expressions:**
+- **Die Fernfahrerin fährt jede Woche nach Italien** — *The long-distance lorry driver drives to Italy every week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

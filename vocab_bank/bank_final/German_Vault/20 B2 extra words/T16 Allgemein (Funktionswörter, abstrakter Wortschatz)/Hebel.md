@@ -33,6 +33,11 @@ status: "new"
 > Ziehen Sie den Hebel nach unten.
 > *Pull the lever down.*
 
+**Phrases & Expressions:**
+- **einen Hebel umlegen** — *lever*
+- **alle Hebel in Bewegung setzen** — *lever*
+- **am längeren Hebel sitzen** — *lever*
+
 **Collocations**
 - einen Hebel umlegen
 - alle Hebel in Bewegung setzen

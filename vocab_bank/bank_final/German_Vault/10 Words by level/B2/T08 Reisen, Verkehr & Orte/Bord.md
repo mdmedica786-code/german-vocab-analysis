@@ -37,6 +37,9 @@ status: "new"
 > [!example] Beispiel
 > Willkommen an Bord!
 > *Welcome on board!*
+
+**Phrases & Expressions:**
+- **Willkommen an Bord** — *Welcome on board* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

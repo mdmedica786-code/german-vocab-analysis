@@ -31,6 +31,11 @@ status: "new"
 > Eine Lehrerin beaufsichtigt die Kinder auf dem Schulhof.
 > *A teacher supervises the children in the schoolyard.*
 
+**Phrases & Expressions:**
+- **Kinder beaufsichtigen** — *to supervise; to look after*
+- **eine Prüfung beaufsichtigen** — *to supervise; to look after*
+- **unbeaufsichtigt lassen** — *to supervise; to look after*
+
 **Collocations**
 - Kinder beaufsichtigen
 - eine Prüfung beaufsichtigen

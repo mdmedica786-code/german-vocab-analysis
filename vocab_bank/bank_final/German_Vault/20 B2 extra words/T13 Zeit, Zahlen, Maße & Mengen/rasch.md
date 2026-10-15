@@ -29,6 +29,12 @@ status: "new"
 > Wir brauchen eine rasche Lösung für das Problem.
 > *We need a quick solution for the problem.*
 
+**Phrases & Expressions:**
+- **Unter dieser Therapie zeigte sich ein rascher Rückgang der Beschwerden.** — Under this therapy a rapid decline in complaints was seen. *([[FSP-20 Arztbrief und Dokumentation|Nominalstil]] · C1)*
+- **rasch handeln** — *quick; swift*
+- **eine rasche Entscheidung** — *quick; swift*
+- **rasch voranschreiten** — *quick; swift*
+
 **Collocations**
 - rasch handeln
 - eine rasche Entscheidung

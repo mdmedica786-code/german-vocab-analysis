@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Beide Themen sind eng miteinander verknüpft.
 > *Both topics are closely linked.*
+
+**Phrases & Expressions:**
+- **Beide Themen sind eng miteinander verknüpft** — *Both topics are closely linked* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

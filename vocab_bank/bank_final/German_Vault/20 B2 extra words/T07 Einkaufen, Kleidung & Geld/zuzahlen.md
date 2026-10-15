@@ -32,6 +32,11 @@ status: "new"
 > Für das Zimmer mit Meerblick müssen Sie fünfzig Euro zuzahlen.
 > *For the room with a sea view you have to pay fifty euros extra.*
 
+**Phrases & Expressions:**
+- **Geld zuzahlen** — *to pay extra; to make an additional payment*
+- **extra zuzahlen** — *to pay extra; to make an additional payment*
+- **zehn Euro zuzahlen** — *to pay extra; to make an additional payment*
+
 **Collocations**
 - Geld zuzahlen
 - extra zuzahlen

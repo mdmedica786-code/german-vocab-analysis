@@ -33,6 +33,11 @@ status: "new"
 > Die Ozonschicht schützt uns vor gefährlicher Strahlung.
 > *The ozone layer protects us from dangerous radiation.*
 
+**Phrases & Expressions:**
+- **Loch in der Ozonschicht** — *ozone layer*
+- **die Ozonschicht schützen** — *ozone layer*
+- **Ozonschicht zerstören** — *ozone layer*
+
 **Collocations**
 - Loch in der Ozonschicht
 - die Ozonschicht schützen

@@ -34,6 +34,9 @@ status: "new"
 > Der Löwe jagt seine Beute.
 > *The lion hunts its prey.*
 
+**Phrases & Expressions:**
+- **Der Löwe jagt seine Beute** — *The lion hunts its prey* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12b (Zwischenmenschliches)
 <!-- bank:end -->
 

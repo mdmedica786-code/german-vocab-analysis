@@ -33,6 +33,11 @@ status: "new"
 > Der Gesetzgeber hat die Regel geändert.
 > *The legislator has changed the rule.*
 
+**Phrases & Expressions:**
+- **der Gesetzgeber hat** — *legislator; legislature*
+- **der europäische Gesetzgeber** — *legislator; legislature*
+- **der Wille des Gesetzgebers** — *legislator; legislature*
+
 **Collocations**
 - der Gesetzgeber hat
 - der europäische Gesetzgeber

@@ -32,6 +32,11 @@ status: "new"
 > Der Mount Everest ist 8.880 Meter hoch.
 > *Mount Everest is 8,880 metres high.*
 
+**Phrases & Expressions:**
+- **Wie hoch ist die Warmmiete?** — How high is the rent including heating? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Mietvertrag klären]] · B1)*
+- **Können Sie mir sagen, wie hoch die Dosierung ist?** — Can you tell me how high the dose is? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Dauermedikation]] · B2)*
+- **Mit Bluthochdruck ist gemeint, dass der Druck in den Gefäßen zu hoch ist.** — High blood pressure means that the pressure in the vessels is too high. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

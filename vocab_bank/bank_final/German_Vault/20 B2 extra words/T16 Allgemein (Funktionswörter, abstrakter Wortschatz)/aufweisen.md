@@ -32,6 +32,11 @@ status: "new"
 > Das Gebäude weist erhebliche Schäden auf.
 > *The building shows considerable damage.*
 
+**Phrases & Expressions:**
+- **Mängel aufweisen** — *to show; to exhibit*
+- **Unterschiede aufweisen** — *to show; to exhibit*
+- **Schäden aufweisen** — *to show; to exhibit*
+
 **Collocations**
 - Mängel aufweisen
 - Unterschiede aufweisen

@@ -32,6 +32,9 @@ status: "new"
 > Ich hoffe, ich muss mein Konto nie überziehen.
 > *I hope I don't have to overdraw my account.*
 
+**Phrases & Expressions:**
+- **Ich hoffe, ich muss mein Konto nie überziehen** — *I hope I don't have to overdraw my account* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3a (Geld regiert die Welt?)
 <!-- bank:end -->
 

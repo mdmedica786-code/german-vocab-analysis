@@ -33,6 +33,11 @@ status: "new"
 > Die beiden Parteien schlossen eine Allianz.
 > *The two parties formed an alliance.*
 
+**Phrases & Expressions:**
+- **eine Allianz bilden** — *alliance*
+- **eine Allianz eingehen** — *alliance*
+- **eine politische Allianz** — *alliance*
+
 **Collocations**
 - eine Allianz bilden
 - eine Allianz eingehen

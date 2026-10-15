@@ -42,6 +42,9 @@ status: "new"
 > Sie ist Pensionistin.
 > *She is a pensioner.*
 
+**Phrases & Expressions:**
+- **Sie ist Pensionistin** — *She is a pensioner* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

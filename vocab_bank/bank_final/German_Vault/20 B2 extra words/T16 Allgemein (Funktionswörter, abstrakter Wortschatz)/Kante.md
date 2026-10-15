@@ -33,6 +33,11 @@ status: "new"
 > Er stieß sich an der Kante des Tisches.
 > *He bumped himself on the edge of the table.*
 
+**Phrases & Expressions:**
+- **an der Kante** — *edge*
+- **auf der Kante sitzen** — *edge*
+- **eine scharfe Kante** — *edge*
+
 **Collocations**
 - an der Kante
 - auf der Kante sitzen

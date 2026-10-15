@@ -29,6 +29,11 @@ status: "new"
 > Er hatte schon mit 30 einen kahlen Kopf.
 > *He already had a bald head at 30.*
 
+**Phrases & Expressions:**
+- **ein kahler Kopf** — *bald; bare*
+- **kahle Bäume** — *bald; bare*
+- **kahl werden** — *bald; bare*
+
 **Collocations**
 - ein kahler Kopf
 - kahle Bäume

@@ -33,6 +33,13 @@ status: "new"
 > Vielen Dank für Ihre Hilfe. – Gern geschehen.
 > *Thank you very much for your help. – You're welcome.*
 
+**Phrases & Expressions:**
+- **Gern geschehen, jederzeit wieder!** — You're welcome, any time! *([[B1-17 Sich entschuldigen und danken|Auf Dank reagieren]] · A2)*
+- **es geschieht etwas** — *to happen*
+- **gern geschehen** — *to happen*
+- **was auch geschieht** — *to happen*
+- **ein Unfall geschieht** — *to happen*
+
 **Collocations**
 - es geschieht etwas
 - gern geschehen

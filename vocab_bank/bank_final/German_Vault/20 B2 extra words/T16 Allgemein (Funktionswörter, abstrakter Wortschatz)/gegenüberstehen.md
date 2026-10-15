@@ -32,6 +32,14 @@ status: "new"
 > Die beiden Teams standen sich im Finale gegenüber.
 > *The two teams faced each other in the final.*
 
+**Phrases & Expressions:**
+- **gegenüber von ...** — opposite ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Für mich steht außer Frage, dass ...** — For me there is no question that ... *([[B1-01 Meinung äußern|Überzeugung ausdrücken]] · B1)*
+- **Im Mittelpunkt steht für mich ...** — For me the focus is on ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Schwerpunkt setzen]] · B1)*
+- **Das Haus steht direkt neben dem Park.** — The house stands right next to the park. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ort beschreiben]] · B1)*
+- **Ich stehe der Idee eher skeptisch gegenüber.** — I am rather sceptical about the idea. *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Position beziehen]] · B2)*
+- **Dagegen steht, dass ...** — Against this stands the fact that ... *([[B2-11 Vergleichen und Entwicklungen beschreiben|Gegensatz ausdrücken]] · B2)*
+
 **Collocations**
 - jemandem gegenüberstehen
 - sich gegenüberstehen

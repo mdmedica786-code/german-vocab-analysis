@@ -33,6 +33,11 @@ status: "new"
 > Mit dem Pürierstab mache ich die Suppe cremig.
 > *With the hand blender I make the soup creamy.*
 
+**Phrases & Expressions:**
+- **mit dem Pürierstab pürieren** — *hand blender*
+- **den Pürierstab benutzen** — *hand blender*
+- **Suppe mit dem Pürierstab verfeinern** — *hand blender*
+
 **Collocations**
 - mit dem Pürierstab pürieren
 - den Pürierstab benutzen

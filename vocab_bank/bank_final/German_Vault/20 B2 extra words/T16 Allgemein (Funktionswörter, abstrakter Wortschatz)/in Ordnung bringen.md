@@ -26,6 +26,10 @@ status: "new"
 > Ich bringe das bis morgen in Ordnung.
 > *I will put that right by tomorrow.*
 
+**Phrases & Expressions:**
+- **etwas in Ordnung bringen** — *to put in order; to fix*
+- **wieder in Ordnung sein** — *to put in order; to fix*
+
 **Collocations**
 - etwas in Ordnung bringen
 - wieder in Ordnung sein

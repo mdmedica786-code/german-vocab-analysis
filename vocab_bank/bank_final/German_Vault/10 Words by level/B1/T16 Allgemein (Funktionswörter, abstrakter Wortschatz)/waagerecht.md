@@ -30,6 +30,9 @@ status: "new"
 > Ziehen Sie bitte einen waagerechten Strich.
 > *Please draw a horizontal line.*
 
+**Phrases & Expressions:**
+- **Ziehen Sie bitte einen waagerechten Strich** — *Please draw a horizontal line* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

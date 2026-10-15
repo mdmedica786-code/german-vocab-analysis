@@ -33,6 +33,11 @@ status: "new"
 > Die Reichweite des Senders umfasst die ganze Region.
 > *The range of the station covers the whole region.*
 
+**Phrases & Expressions:**
+- **in Reichweite sein** — *range; reach*
+- **außer Reichweite** — *range; reach*
+- **große Reichweite haben** — *range; reach*
+
 **Collocations**
 - in Reichweite sein
 - außer Reichweite

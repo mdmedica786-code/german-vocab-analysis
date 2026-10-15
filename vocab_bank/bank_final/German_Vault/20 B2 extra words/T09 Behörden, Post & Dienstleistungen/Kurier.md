@@ -33,6 +33,11 @@ status: "new"
 > Der Kurier bringt das Dokument noch heute.
 > *The courier brings the document today.*
 
+**Phrases & Expressions:**
+- **einen Kurier beauftragen** — *courier*
+- **per Kurier senden** — *courier*
+- **ein Kurier liefert** — *courier*
+
 **Collocations**
 - einen Kurier beauftragen
 - per Kurier senden

@@ -34,6 +34,9 @@ status: "new"
 > Der Konsum von Lebensmitteln steigt.
 > *The consumption of food is rising.*
 
+**Phrases & Expressions:**
+- **Der Konsum von Lebensmitteln steigt** — *The consumption of food is rising* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

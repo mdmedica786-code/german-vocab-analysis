@@ -34,6 +34,14 @@ status: "new"
 > Wie geht's?
 > *How's it going?*
 
+**Phrases & Expressions:**
+- **wie geht es dir?** — how are you? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **wie geht es dir** — how are you? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **in Pension gehen** — to retire *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **in Rente gehen** — to retire *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **gehen wir ...?** — shall we go ...? *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · A2)*
+- **gehen Sie ...** — go ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · A1)*
+
 **Source:** Netzwerk neu A1 K1 2a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

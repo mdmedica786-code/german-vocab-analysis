@@ -33,6 +33,11 @@ status: "new"
 > Mit dem Spaten gräbt er das Beet um.
 > *He digs over the bed with the spade.*
 
+**Phrases & Expressions:**
+- **mit dem Spaten graben** — *spade*
+- **den Spaten in die Erde stechen** — *spade*
+- **Spaten und Schaufel** — *spade*
+
 **Collocations**
 - mit dem Spaten graben
 - den Spaten in die Erde stechen

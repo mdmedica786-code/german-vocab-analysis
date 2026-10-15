@@ -33,6 +33,11 @@ status: "new"
 > Der linke Außenspiegel ist kaputt.
 > *The left wing mirror is broken.*
 
+**Phrases & Expressions:**
+- **den Außenspiegel einstellen** — *wing mirror; exterior mirror*
+- **der rechte Außenspiegel** — *wing mirror; exterior mirror*
+- **den Außenspiegel anklappen** — *wing mirror; exterior mirror*
+
 **Collocations**
 - den Außenspiegel einstellen
 - der rechte Außenspiegel

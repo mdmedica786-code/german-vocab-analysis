@@ -29,6 +29,11 @@ status: "new"
 > Vorige Woche war ich sehr krank.
 > *Last week I was very ill.*
 
+**Phrases & Expressions:**
+- **vorige Woche** — *previous; last*
+- **im vorigen Jahr** — *previous; last*
+- **die vorige Ausgabe** — *previous; last*
+
 **Collocations**
 - vorige Woche
 - im vorigen Jahr

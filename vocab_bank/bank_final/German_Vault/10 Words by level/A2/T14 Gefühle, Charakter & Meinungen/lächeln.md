@@ -33,6 +33,12 @@ status: "new"
 > Schauen Sie in die Kamera. Bitte lächeln!
 > *Look into the camera. Smile, please!*
 
+**Phrases & Expressions:**
+- **freundlich lächeln** — *to smile*
+- **über etwas lächeln** — *to smile*
+- **in die Kamera lächeln** — *to smile*
+- **müde lächeln** — *to smile*
+
 **Collocations**
 - freundlich lächeln
 - über etwas lächeln

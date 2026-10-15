@@ -34,6 +34,14 @@ status: "new"
 > Verbinden Sie Nomen und Artikel.
 > *Connect nouns and articles.*
 
+**Phrases & Expressions:**
+- **Könnten Sie mich bitte mit Frau ... verbinden?** — Could you please put me through to Mrs ...? *([[B2-07 Telefonieren|Verbinden lassen]] · B1)*
+- **Einen Moment bitte, ich verbinde Sie.** — One moment please, I'll put you through. *([[B2-07 Telefonieren|Verbinden lassen]] · B1)*
+- **Sie sind mit der Mailbox von ... verbunden.** — You have reached the voicemail of ... *([[B2-07 Telefonieren|Auf Anrufbeantworter sprechen]] · B1)*
+- **Wörter verbinden** — *to connect; to link; to bandage (med.)*
+- **eine Wunde verbinden** — *to connect; to link; to bandage (med.)*
+- **zwei Orte verbinden** — *to connect; to link; to bandage (med.)*
+
 **Collocations**
 - Wörter verbinden
 - eine Wunde verbinden

@@ -26,6 +26,10 @@ status: "new"
 > Ich nehme Bezug auf Ihr Schreiben vom 5. März.
 > *I refer to your letter of 5 March.*
 
+**Phrases & Expressions:**
+- **Bezug nehmen auf + Akk.** — *to refer*
+- **unter Bezug auf** — *to refer*
+
 **Collocations**
 - Bezug nehmen auf + Akk.
 - unter Bezug auf

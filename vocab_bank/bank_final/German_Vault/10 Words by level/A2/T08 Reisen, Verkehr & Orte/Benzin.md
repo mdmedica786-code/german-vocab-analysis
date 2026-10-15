@@ -35,6 +35,9 @@ status: "new"
 > Das Benzin soll wieder teurer werden.
 > *Petrol is supposed to get more expensive again.*
 
+**Phrases & Expressions:**
+- **Das Benzin soll wieder teurer werden** — *Petrol is supposed to get more expensive again* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

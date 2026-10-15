@@ -31,6 +31,11 @@ status: "new"
 > Ich habe seinen Trick sofort durchschaut.
 > *I saw through his trick immediately.*
 
+**Phrases & Expressions:**
+- **jemanden durchschauen** — *to see through*
+- **einen Plan durchschauen** — *to see through*
+- **schwer zu durchschauen** — *to see through*
+
 **Collocations**
 - jemanden durchschauen
 - einen Plan durchschauen

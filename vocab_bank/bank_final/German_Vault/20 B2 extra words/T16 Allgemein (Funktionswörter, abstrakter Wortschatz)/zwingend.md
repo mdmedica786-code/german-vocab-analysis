@@ -29,6 +29,11 @@ status: "new"
 > Für die Teilnahme ist ein Nachweis zwingend erforderlich.
 > *Proof is mandatory for participation.*
 
+**Phrases & Expressions:**
+- **zwingend notwendig** — *compelling; mandatory*
+- **ein zwingender Grund** — *compelling; mandatory*
+- **zwingend vorgeschrieben** — *compelling; mandatory*
+
 **Collocations**
 - zwingend notwendig
 - ein zwingender Grund

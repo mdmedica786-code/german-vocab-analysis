@@ -34,6 +34,9 @@ status: "new"
 > Das Krankenhaus ist eine wichtige Institution.
 > *The hospital is an important institution.*
 
+**Phrases & Expressions:**
+- **Das Krankenhaus ist eine wichtige Institution** — *The hospital is an important institution* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

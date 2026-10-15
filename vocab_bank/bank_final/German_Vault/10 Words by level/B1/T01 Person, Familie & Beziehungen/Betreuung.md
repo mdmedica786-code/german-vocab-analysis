@@ -34,6 +34,9 @@ status: "new"
 > Haben Sie eine Betreuung für Ihre Kinder?
 > *Do you have childcare for your children?*
 
+**Phrases & Expressions:**
+- **Haben Sie eine Betreuung für Ihre Kinder** — *Do you have childcare for your children* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

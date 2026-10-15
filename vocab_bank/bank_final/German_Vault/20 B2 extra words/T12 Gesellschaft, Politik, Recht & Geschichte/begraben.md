@@ -31,6 +31,11 @@ status: "new"
 > Man begrub ihn auf dem alten Friedhof.
 > *He was buried in the old cemetery.*
 
+**Phrases & Expressions:**
+- **jemanden begraben** — *to bury*
+- **unter Schnee begraben** — *to bury*
+- **einen Streit begraben** — *to bury*
+
 **Collocations**
 - jemanden begraben
 - unter Schnee begraben

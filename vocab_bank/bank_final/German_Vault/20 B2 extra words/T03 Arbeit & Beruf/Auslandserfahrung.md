@@ -33,6 +33,11 @@ status: "new"
 > Für die Stelle ist Auslandserfahrung von Vorteil.
 > *For the job experience abroad is an advantage.*
 
+**Phrases & Expressions:**
+- **Auslandserfahrung sammeln** — *experience abroad*
+- **Auslandserfahrung haben** — *experience abroad*
+- **wertvolle Auslandserfahrungen** — *experience abroad*
+
 **Collocations**
 - Auslandserfahrung sammeln
 - Auslandserfahrung haben

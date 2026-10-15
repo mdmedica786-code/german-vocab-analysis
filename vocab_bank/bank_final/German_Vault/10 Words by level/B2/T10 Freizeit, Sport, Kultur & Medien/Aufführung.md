@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Aufführung beginnt um 20 Uhr.
 > *The performance starts at 8 pm.*
+
+**Phrases & Expressions:**
+- **Die Aufführung beginnt um 20 Uhr** — *The performance starts at 8 pm* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

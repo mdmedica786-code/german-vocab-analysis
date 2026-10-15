@@ -33,6 +33,11 @@ status: "new"
 > Die Firma sucht dringend Facharbeiter.
 > *The company urgently seeks skilled workers.*
 
+**Phrases & Expressions:**
+- **ein gelernter Facharbeiter** — *skilled worker*
+- **Facharbeiter suchen** — *skilled worker*
+- **Mangel an Facharbeitern** — *skilled worker*
+
 **Collocations**
 - ein gelernter Facharbeiter
 - Facharbeiter suchen

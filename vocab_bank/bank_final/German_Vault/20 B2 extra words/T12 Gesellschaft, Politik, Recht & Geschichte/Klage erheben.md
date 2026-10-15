@@ -26,6 +26,11 @@ status: "new"
 > Der Mieter erhob Klage gegen den Vermieter.
 > *The tenant brought an action against the landlord.*
 
+**Phrases & Expressions:**
+- **Klage erheben gegen + Akk.** — *to bring an action; to sue*
+- **Klage einreichen** — *to bring an action; to sue*
+- **Klage abweisen** — *to bring an action; to sue*
+
 **Collocations**
 - Klage erheben gegen + Akk.
 - Klage einreichen

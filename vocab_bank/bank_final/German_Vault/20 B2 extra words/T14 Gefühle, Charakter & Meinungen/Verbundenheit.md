@@ -33,6 +33,11 @@ status: "new"
 > Sie empfindet große Verbundenheit mit ihrer Heimat.
 > *She feels a deep attachment to her homeland.*
 
+**Phrases & Expressions:**
+- **Verbundenheit zeigen** — *attachment; solidarity*
+- **Verbundenheit mit der Heimat** — *attachment; solidarity*
+- **tiefe Verbundenheit** — *attachment; solidarity*
+
 **Collocations**
 - Verbundenheit zeigen
 - Verbundenheit mit der Heimat

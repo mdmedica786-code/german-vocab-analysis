@@ -35,6 +35,9 @@ status: "new"
 > Für diese Arbeit haben Sie gute Qualifikationen.
 > *You have good qualifications for this work.*
 
+**Phrases & Expressions:**
+- **Für diese Arbeit haben Sie gute Qualifikationen** — *You have good qualifications for this work* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7a ÜB (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

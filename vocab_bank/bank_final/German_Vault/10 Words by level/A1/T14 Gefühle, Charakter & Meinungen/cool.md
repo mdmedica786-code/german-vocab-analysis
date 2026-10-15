@@ -31,6 +31,9 @@ status: "new"
 > Der neue Film ist echt cool.
 > *The new film is really cool.*
 
+**Phrases & Expressions:**
+- **Der neue Film ist echt cool** — *The new film is really cool* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10b (Alltag und Familie) · Goethe word list B1
 <!-- bank:end -->
 

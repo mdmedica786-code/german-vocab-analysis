@@ -29,6 +29,13 @@ status: "new"
 > Viele Berufe, beispielsweise in der Pflege, suchen Personal.
 > *Many professions, for example in nursing, are looking for staff.*
 
+**Phrases & Expressions:**
+- **wie beispielsweise ...** — such as ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **beispielsweise im Beruf** — *for example*
+- **beispielsweise für** — *for example*
+- **beispielsweise bei** — *for example*
+- **wie beispielsweise** — *for example*
+
 **Collocations**
 - beispielsweise im Beruf
 - beispielsweise für

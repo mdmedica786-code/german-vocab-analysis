@@ -35,6 +35,14 @@ status: "new"
 > Sie haben Ihre Stelle gekündigt. Aus welchem Grund?
 > *You gave up your job. For what reason?*
 
+**Phrases & Expressions:**
+- **der Grund für ...** — the reason for ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B1)*
+- **aus diesem Grund** — for this reason *([[Folgen (consequence)|Folgen (consequence)]] · B1)*
+- **der Grund, warum ...** — the reason why ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B1)*
+- **Grund für ...** — reason for ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B1)*
+- **aus welchen Gründen auch immer** — for whatever reasons *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B2)*
+- **der Grund sein, warum ...** — to be the reason why ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B1)*
+
 **Source:** Netzwerk neu A1 K12 7c (Ab in den Urlaub!) · Goethe word list B1
 <!-- bank:end -->
 

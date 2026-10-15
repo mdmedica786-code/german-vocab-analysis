@@ -31,6 +31,9 @@ status: "new"
 > Die Vokallänge ändert die Bedeutung eines Wortes.
 > *Vowel length changes the meaning of a word.*
 
+**Phrases & Expressions:**
+- **Die Vokallänge ändert die Bedeutung eines Wortes** — *Vowel length changes the meaning of a word* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 6a (Blick nach vorn)
 <!-- bank:end -->
 

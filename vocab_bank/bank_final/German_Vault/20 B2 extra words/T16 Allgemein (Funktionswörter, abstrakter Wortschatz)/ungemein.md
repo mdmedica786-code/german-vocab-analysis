@@ -29,6 +29,11 @@ status: "new"
 > Das Buch ist ungemein spannend.
 > *The book is immensely exciting.*
 
+**Phrases & Expressions:**
+- **ungemein wichtig** — *immensely; extremely*
+- **ungemein spannend** — *immensely; extremely*
+- **ungemein hilfreich** — *immensely; extremely*
+
 **Collocations**
 - ungemein wichtig
 - ungemein spannend

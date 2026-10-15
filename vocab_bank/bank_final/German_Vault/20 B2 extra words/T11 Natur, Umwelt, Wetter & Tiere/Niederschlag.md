@@ -33,6 +33,11 @@ status: "new"
 > Im Süden fällt am Wochenende kräftiger Niederschlag.
 > *In the south there will be heavy precipitation at the weekend.*
 
+**Phrases & Expressions:**
+- **Niederschlag erwarten** — *precipitation (rain, snow)*
+- **kräftiger Niederschlag** — *precipitation (rain, snow)*
+- **die Menge des Niederschlags** — *precipitation (rain, snow)*
+
 **Collocations**
 - Niederschlag erwarten
 - kräftiger Niederschlag

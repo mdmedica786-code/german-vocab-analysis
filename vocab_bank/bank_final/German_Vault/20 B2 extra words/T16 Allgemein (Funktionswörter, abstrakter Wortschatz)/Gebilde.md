@@ -33,6 +33,11 @@ status: "new"
 > Wolken sind lockere Gebilde aus Wasserdampf.
 > *Clouds are loose formations of water vapour.*
 
+**Phrases & Expressions:**
+- **ein seltsames Gebilde** — *structure; formation*
+- **ein soziales Gebilde** — *structure; formation*
+- **ein Gebilde aus Stein** — *structure; formation*
+
 **Collocations**
 - ein seltsames Gebilde
 - ein soziales Gebilde

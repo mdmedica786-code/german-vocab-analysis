@@ -26,6 +26,10 @@ status: "new"
 > Die Firma legt großen Wert auf Pünktlichkeit.
 > *The company attaches great importance to punctuality.*
 
+**Phrases & Expressions:**
+- **Wert legen auf + Akk.** — *to attach importance*
+- **großen Wert legen auf + Akk.** — *to attach importance*
+
 **Collocations**
 - Wert legen auf + Akk.
 - großen Wert legen auf + Akk.

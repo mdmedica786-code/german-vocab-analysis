@@ -30,6 +30,9 @@ status: "new"
 > Ich habe geregelte Arbeitszeiten.
 > *I have regular working hours.*
 
+**Phrases & Expressions:**
+- **Wie sind die Arbeitszeiten geregelt?** — How are the working hours arranged? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Arbeitszeit ansprechen]] · B2)*
+
 **Source:** Netzwerk neu B1 K4 1b (Arbeitswelt)
 <!-- bank:end -->
 

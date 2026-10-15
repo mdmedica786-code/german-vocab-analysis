@@ -33,6 +33,11 @@ status: "new"
 > Der Auftraggeber zahlt innerhalb von dreißig Tagen.
 > *The client pays within thirty days.*
 
+**Phrases & Expressions:**
+- **der Auftraggeber verlangt** — *client; commissioning party*
+- **zufriedener Auftraggeber** — *client; commissioning party*
+- **für einen Auftraggeber arbeiten** — *client; commissioning party*
+
 **Collocations**
 - der Auftraggeber verlangt
 - zufriedener Auftraggeber

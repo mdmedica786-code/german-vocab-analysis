@@ -30,6 +30,9 @@ status: "new"
 > Nach dem Unfall war sein Arm gelähmt.
 > *After the accident his arm was paralysed.*
 
+**Phrases & Expressions:**
+- **Nach dem Unfall war sein Arm gelähmt** — *After the accident his arm was paralysed* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

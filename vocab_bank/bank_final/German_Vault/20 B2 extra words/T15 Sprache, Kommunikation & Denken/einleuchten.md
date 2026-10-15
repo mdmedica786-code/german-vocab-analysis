@@ -32,6 +32,11 @@ status: "new"
 > Seine Erklärung leuchtet mir ein.
 > *His explanation makes sense to me.*
 
+**Phrases & Expressions:**
+- **jemandem einleuchten** — *to make sense; to be plausible*
+- **das leuchtet ein** — *to make sense; to be plausible*
+- **leuchtet mir nicht ein** — *to make sense; to be plausible*
+
 **Collocations**
 - jemandem einleuchten
 - das leuchtet ein

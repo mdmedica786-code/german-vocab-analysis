@@ -32,6 +32,9 @@ status: "new"
 > Wir können diese Möbel gut gebrauchen.
 > *We can make good use of this furniture.*
 
+**Phrases & Expressions:**
+- **Wir können diese Möbel gut gebrauchen** — *We can make good use of this furniture* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

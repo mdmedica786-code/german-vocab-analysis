@@ -31,6 +31,9 @@ status: "new"
 > Die Adjektivendung hängt vom Artikel ab.
 > *The adjective ending depends on the article.*
 
+**Phrases & Expressions:**
+- **Die Adjektivendung hängt vom Artikel ab** — *The adjective ending depends on the article* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7c (Kunststücke)
 <!-- bank:end -->
 

@@ -34,6 +34,13 @@ status: "new"
 > Ich nehme Ihre Einladung gern an.
 > *I gladly accept your invitation.*
 
+**Phrases & Expressions:**
+- **... nimmt kontinuierlich zu.** — ... is steadily increasing. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Anstieg beschreiben]] · B2)*
+- **ein Angebot annehmen** — *to accept*
+- **eine Einladung annehmen** — *to accept*
+- **Hilfe annehmen** — *to accept*
+- **annehmen, dass ...** — *to accept*
+
 **Collocations**
 - ein Angebot annehmen
 - eine Einladung annehmen

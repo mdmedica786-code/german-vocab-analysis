@@ -33,6 +33,12 @@ status: "new"
 > Der Patient hat sich eine Rippe gebrochen.
 > *The patient has broken a rib.*
 
+**Phrases & Expressions:**
+- **eine Rippe brechen** — *rib*
+- **Schmerzen an der Rippe** — *rib*
+- **die Rippe prellen** — *rib*
+- **die Rippen abtasten** — *rib*
+
 **Collocations**
 - eine Rippe brechen
 - Schmerzen an der Rippe

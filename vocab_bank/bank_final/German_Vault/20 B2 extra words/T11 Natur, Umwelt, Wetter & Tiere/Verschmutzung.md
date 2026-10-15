@@ -33,6 +33,11 @@ status: "new"
 > Die Verschmutzung der Flüsse ist ein großes Problem.
 > *The pollution of rivers is a big problem.*
 
+**Phrases & Expressions:**
+- **die Verschmutzung der Umwelt** — *pollution; dirt*
+- **die Verschmutzung der Luft** — *pollution; dirt*
+- **die Verschmutzung verhindern** — *pollution; dirt*
+
 **Collocations**
 - die Verschmutzung der Umwelt
 - die Verschmutzung der Luft

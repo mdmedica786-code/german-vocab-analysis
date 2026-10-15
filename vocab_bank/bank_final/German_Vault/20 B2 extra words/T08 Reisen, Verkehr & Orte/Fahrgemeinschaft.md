@@ -33,6 +33,11 @@ status: "new"
 > Wir fahren in einer Fahrgemeinschaft zur Arbeit.
 > *We drive to work in a carpool.*
 
+**Phrases & Expressions:**
+- **eine Fahrgemeinschaft bilden** — *carpool*
+- **in einer Fahrgemeinschaft fahren** — *carpool*
+- **Fahrgemeinschaften fördern** — *carpool*
+
 **Collocations**
 - eine Fahrgemeinschaft bilden
 - in einer Fahrgemeinschaft fahren

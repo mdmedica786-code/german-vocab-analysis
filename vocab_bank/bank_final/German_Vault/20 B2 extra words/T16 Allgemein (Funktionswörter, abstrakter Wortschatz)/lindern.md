@@ -31,6 +31,11 @@ status: "new"
 > Die Spenden lindern die Not der Flüchtlinge.
 > *The donations ease the plight of the refugees.*
 
+**Phrases & Expressions:**
+- **Gibt es etwas, das den Schmerz lindert?** — Is there anything that relieves the pain? *([[FSP-03 Schmerzanamnese|Lindernde Faktoren]] · B1)*
+- **Schmerzen lindern** — *to ease; to relieve*
+- **Not lindern** — *to ease; to relieve*
+
 **Collocations**
 - Schmerzen lindern
 - Not lindern

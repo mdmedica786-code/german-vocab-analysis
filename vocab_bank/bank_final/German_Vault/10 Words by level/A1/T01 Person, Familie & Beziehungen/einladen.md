@@ -34,6 +34,9 @@ status: "new"
 > Darf ich Sie zu einem Kaffee einladen?
 > *May I treat you to a coffee?*
 
+**Phrases & Expressions:**
+- **Ich möchte dich herzlich zu ... einladen.** — I would like to invite you warmly to ... *([[B1-12 Persönliche E-Mail und Brief|Einladung aussprechen]] · B1)*
+
 **Source:** Netzwerk neu A1 K6 3a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

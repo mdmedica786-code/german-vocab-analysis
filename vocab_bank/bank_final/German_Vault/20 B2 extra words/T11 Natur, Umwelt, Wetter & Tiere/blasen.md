@@ -31,6 +31,11 @@ status: "new"
 > Der Wind bläst heute sehr stark.
 > *The wind is blowing very strongly today.*
 
+**Phrases & Expressions:**
+- **in die Trompete blasen** — *to blow*
+- **Seifenblasen blasen** — *to blow*
+- **ins Horn blasen** — *to blow*
+
 **Collocations**
 - in die Trompete blasen
 - Seifenblasen blasen

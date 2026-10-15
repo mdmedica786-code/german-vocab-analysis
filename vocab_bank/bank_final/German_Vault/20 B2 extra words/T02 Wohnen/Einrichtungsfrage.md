@@ -30,6 +30,11 @@ status: "new"
 > Bei Einrichtungsfragen berät uns eine Innenarchitektin.
 > *For furnishing questions an interior designer advises us.*
 
+**Phrases & Expressions:**
+- **eine Einrichtungsfrage klären** — *question of furnishing; interior design matter*
+- **Einrichtungsfragen besprechen** — *question of furnishing; interior design matter*
+- **bei Einrichtungsfragen helfen** — *question of furnishing; interior design matter*
+
 **Collocations**
 - eine Einrichtungsfrage klären
 - Einrichtungsfragen besprechen

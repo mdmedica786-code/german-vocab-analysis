@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Das Wir-Gefühl im Team ist stark.
 > *The sense of togetherness in the team is strong.*
+
+**Phrases & Expressions:**
+- **Das Wir-Gefühl im Team ist stark** — *The sense of togetherness in the team is strong* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

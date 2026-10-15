@@ -26,6 +26,11 @@ status: "new"
 > Sie arbeitet in einem kunstpädagogischen Projekt mit Kindern.
 > *She works in an art-education project with children.*
 
+**Phrases & Expressions:**
+- **ein kunstpädagogisches Projekt** — *relating to art education*
+- **kunstpädagogisch arbeiten** — *relating to art education*
+- **eine kunstpädagogische Ausbildung** — *relating to art education*
+
 **Collocations**
 - ein kunstpädagogisches Projekt
 - kunstpädagogisch arbeiten

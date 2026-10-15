@@ -34,6 +34,9 @@ status: "new"
 > Im Normalfall dauert es zwei Tage.
 > *Normally it takes two days.*
 
+**Phrases & Expressions:**
+- **Im Normalfall dauert es zwei Tage** — *Normally it takes two days* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 10b (Miteinander)
 <!-- bank:end -->
 

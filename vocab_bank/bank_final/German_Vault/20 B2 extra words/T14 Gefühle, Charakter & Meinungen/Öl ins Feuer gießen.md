@@ -29,6 +29,10 @@ status: "new"
 > Mit seiner Bemerkung hat er nur noch mehr Öl ins Feuer gegossen.
 > *With his remark he only added more fuel to the fire.*
 
+**Phrases & Expressions:**
+- **den Streit anheizen** — *to add fuel to the fire*
+- **Öl ins Feuer gießen wollen** — *to add fuel to the fire*
+
 **Collocations**
 - den Streit anheizen
 - Öl ins Feuer gießen wollen

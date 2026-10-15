@@ -36,6 +36,9 @@ status: "new"
 > Mein Cousin will eine dreijährige Lehre machen.
 > **
 
+**Phrases & Expressions:**
+- **Mein Cousin will eine dreijährige Lehre machen** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 1a ÜB (Nach der Schulzeit) · Goethe word list B1
 <!-- bank:end -->
 

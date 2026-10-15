@@ -32,6 +32,14 @@ status: "new"
 > Nach der Operation muss er sich schonen.
 > *After the operation he has to take it easy.*
 
+**Phrases & Expressions:**
+- **Nehmen Sie das Mittel nach dem Essen, damit der Magen geschont wird.** — Take the medicine after meals so that your stomach is protected. *([[FSP-11 Therapie und Medikamente erklären|Einnahme erklären]] · B2)*
+- **Bitte schonen Sie sich in den nächsten Tagen.** — Please take it easy in the next few days. *([[FSP-11 Therapie und Medikamente erklären|Schonung empfehlen]] · B1)*
+- **Bitte schonen Sie sich noch eine Woche und heben Sie nichts Schweres.** — Please take it easy for another week and don't lift anything heavy. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Verhaltensregeln geben]] · B1)*
+- **sich schonen** — *to spare; to protect; (sich) to take it easy*
+- **die Umwelt schonen** — *to spare; to protect; (sich) to take it easy*
+- **den Rücken schonen** — *to spare; to protect; (sich) to take it easy*
+
 **Collocations**
 - sich schonen
 - die Umwelt schonen

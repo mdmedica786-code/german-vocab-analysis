@@ -34,6 +34,9 @@ status: "new"
 > Im Winterurlaub fahren wir in die Berge.
 > *On winter holiday we go to the mountains.*
 
+**Phrases & Expressions:**
+- **Im Winterurlaub fahren wir in die Berge** — *On winter holiday we go to the mountains* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 7 (Gute Reise!)
 <!-- bank:end -->
 

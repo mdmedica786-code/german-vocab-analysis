@@ -30,6 +30,11 @@ status: "new"
 > Sie studiert Bioengineering an der Universität.
 > *She studies bioengineering at the university.*
 
+**Phrases & Expressions:**
+- **Bioengineering studieren** — *bioengineering*
+- **im Bereich Bioengineering** — *bioengineering*
+- **ein Studiengang in Bioengineering** — *bioengineering*
+
 **Collocations**
 - Bioengineering studieren
 - im Bereich Bioengineering

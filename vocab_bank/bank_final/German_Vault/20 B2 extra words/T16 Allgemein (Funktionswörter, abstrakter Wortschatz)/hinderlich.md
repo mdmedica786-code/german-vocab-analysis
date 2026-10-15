@@ -29,6 +29,11 @@ status: "new"
 > Die vielen Vorschriften sind für kleine Firmen oft hinderlich.
 > *The many regulations are often a hindrance for small companies.*
 
+**Phrases & Expressions:**
+- **hinderlich sein** — *obstructive; a hindrance*
+- **als hinderlich empfinden** — *obstructive; a hindrance*
+- **ein hinderlicher Umstand** — *obstructive; a hindrance*
+
 **Collocations**
 - hinderlich sein
 - als hinderlich empfinden

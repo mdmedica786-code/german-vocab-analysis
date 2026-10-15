@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Festival gab es viele Foodtrucks.
 > *At the festival there were many food trucks.*
 
+**Phrases & Expressions:**
+- **ein Foodtruck am Markt** — *food truck*
+- **am Foodtruck essen** — *food truck*
+- **ein Foodtruck mit Burgern** — *food truck*
+
 **Collocations**
 - ein Foodtruck am Markt
 - am Foodtruck essen

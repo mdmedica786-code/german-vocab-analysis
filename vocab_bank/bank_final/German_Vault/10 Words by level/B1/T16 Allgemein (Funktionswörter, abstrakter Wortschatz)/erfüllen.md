@@ -33,6 +33,12 @@ status: "new"
 > Sie hat alle Bedingungen für das Visum erfüllt.
 > *She has met all the conditions for the visa.*
 
+**Phrases & Expressions:**
+- **eine Aufgabe erfüllen** — *to fulfil; to meet; to fill*
+- **Wünsche erfüllen** — *to fulfil; to meet; to fill*
+- **Bedingungen erfüllen** — *to fulfil; to meet; to fill*
+- **Erwartungen erfüllen** — *to fulfil; to meet; to fill*
+
 **Collocations**
 - eine Aufgabe erfüllen
 - Wünsche erfüllen

@@ -32,6 +32,11 @@ status: "new"
 > Die beiden Länder nähern sich politisch an.
 > *The two countries are approaching each other politically.*
 
+**Phrases & Expressions:**
+- **sich annähern** — *to approach; to come closer*
+- **sich langsam annähern** — *to approach; to come closer*
+- **sich einer Lösung annähern** — *to approach; to come closer*
+
 **Collocations**
 - sich annähern
 - sich langsam annähern

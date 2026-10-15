@@ -33,6 +33,11 @@ status: "new"
 > Er wohnt in einer Wohngemeinschaft mit drei Studenten.
 > *He lives in a shared flat with three students.*
 
+**Phrases & Expressions:**
+- **in einer Wohngemeinschaft leben** — *shared flat*
+- **in eine WG ziehen** — *shared flat*
+- **eine Wohngemeinschaft gründen** — *shared flat*
+
 **Collocations**
 - in einer Wohngemeinschaft leben
 - in eine WG ziehen

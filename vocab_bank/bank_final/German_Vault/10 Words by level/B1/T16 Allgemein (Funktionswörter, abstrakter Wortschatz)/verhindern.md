@@ -33,6 +33,14 @@ status: "new"
 > Wir konnten den Unfall nicht verhindern.
 > *We couldn't prevent the accident.*
 
+**Phrases & Expressions:**
+- **zu verhindern, dass ...** — to prevent ... *([[Bedingung - Zweck (condition, purpose)|Bedingung / Zweck (condition, purpose)]] · B2)*
+- **um zu verhindern, dass ...** — in order to prevent ... *([[Bedingung - Zweck (condition, purpose)|Bedingung / Zweck (condition, purpose)]] · B2)*
+- **einen Unfall verhindern** — *to prevent*
+- **das Schlimmste verhindern** — *to prevent*
+- **verhindert sein** — *to prevent*
+- **Probleme verhindern** — *to prevent*
+
 **Collocations**
 - einen Unfall verhindern
 - das Schlimmste verhindern

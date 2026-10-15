@@ -29,6 +29,11 @@ status: "new"
 > Die Mutter ist sehr fürsorglich gegenüber ihren Kindern.
 > *The mother is very caring towards her children.*
 
+**Phrases & Expressions:**
+- **ein fürsorglicher Vater** — *caring; solicitous*
+- **fürsorglich sein** — *caring; solicitous*
+- **sich fürsorglich kümmern** — *caring; solicitous*
+
 **Collocations**
 - ein fürsorglicher Vater
 - fürsorglich sein

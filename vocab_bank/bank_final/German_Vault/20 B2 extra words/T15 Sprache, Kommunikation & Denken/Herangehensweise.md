@@ -33,6 +33,11 @@ status: "new"
 > Jeder hat eine andere Herangehensweise an das Problem.
 > *Everyone has a different approach to the problem.*
 
+**Phrases & Expressions:**
+- **eine neue Herangehensweise** — *approach; way of tackling*
+- **Herangehensweise an + Akk.** — *approach; way of tackling*
+- **unterschiedliche Herangehensweise** — *approach; way of tackling*
+
 **Collocations**
 - eine neue Herangehensweise
 - Herangehensweise an + Akk.

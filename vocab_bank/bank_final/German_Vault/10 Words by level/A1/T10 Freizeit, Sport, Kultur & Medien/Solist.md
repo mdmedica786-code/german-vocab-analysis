@@ -35,6 +35,9 @@ status: "new"
 > Der Solist spielt ein Stück von Bach.
 > *The soloist plays a piece by Bach.*
 
+**Phrases & Expressions:**
+- **Der Solist spielt ein Stück von Bach** — *The soloist plays a piece by Bach* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg)
 <!-- bank:end -->
 

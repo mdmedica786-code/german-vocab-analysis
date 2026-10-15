@@ -30,6 +30,11 @@ status: "new"
 > Mit der Zwei-Faktor-Authentifizierung ist Ihr Konto besser geschützt.
 > *With two-factor authentication your account is better protected.*
 
+**Phrases & Expressions:**
+- **Zwei-Faktor-Authentifizierung aktivieren** — *two-factor authentication*
+- **durch Zwei-Faktor-Authentifizierung schützen** — *two-factor authentication*
+- **Zwei-Faktor-Authentifizierung einrichten** — *two-factor authentication*
+
 **Collocations**
 - Zwei-Faktor-Authentifizierung aktivieren
 - durch Zwei-Faktor-Authentifizierung schützen

@@ -35,6 +35,9 @@ status: "new"
 > Die Bücher lagen alle auf dem Boden.
 > *The books were all lying on the floor.*
 
+**Phrases & Expressions:**
+- **Die Bücher lagen alle auf dem Boden** — *The books were all lying on the floor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 5b (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

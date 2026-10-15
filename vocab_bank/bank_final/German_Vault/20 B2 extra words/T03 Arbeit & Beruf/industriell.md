@@ -29,6 +29,11 @@ status: "new"
 > Die industrielle Produktion wächst langsam.
 > *Industrial production is growing slowly.*
 
+**Phrases & Expressions:**
+- **industrielle Fertigung** — *industrial*
+- **industriell hergestellt** — *industrial*
+- **die industrielle Revolution** — *industrial*
+
 **Collocations**
 - industrielle Fertigung
 - industriell hergestellt

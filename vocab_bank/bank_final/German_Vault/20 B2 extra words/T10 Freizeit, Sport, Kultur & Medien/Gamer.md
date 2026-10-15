@@ -33,6 +33,11 @@ status: "new"
 > Als Gamer spielt er täglich online.
 > *As a gamer he plays online every day.*
 
+**Phrases & Expressions:**
+- **ein leidenschaftlicher Gamer** — *gamer*
+- **ein professioneller Gamer** — *gamer*
+- **Gamer und Streamer** — *gamer*
+
 **Collocations**
 - ein leidenschaftlicher Gamer
 - ein professioneller Gamer

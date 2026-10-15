@@ -35,6 +35,13 @@ status: "new"
 > Sie haben Zahnschmerzen? Ich verschreibe Ihnen ein Schmerzmittel.
 > *You have toothache? I will prescribe you a painkiller.*
 
+**Phrases & Expressions:**
+- **Nehmen Sie dagegen Tabletten, zum Beispiel Schmerzmittel?** — Do you take tablets for it, for example painkillers? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Selbstmedikation]] · B1)*
+- **Nehmen Sie Schmerzmittel, und wenn ja, welche?** — Do you take painkillers, and if so, which? *([[FSP-03 Schmerzanamnese|Schmerzmittel erfragen]] · B1)*
+- **Hat das Schmerzmittel geholfen?** — Did the painkiller help? *([[FSP-03 Schmerzanamnese|Wirkung erfragen]] · B1)*
+- **Seit wann nehmen Sie die Schmerzmittel regelmäßig?** — Since when have you been taking the painkillers regularly? *([[FSP-03 Schmerzanamnese|Schmerzmittel erfragen]] · B2)*
+- **Nach dem Eingriff bekommen Sie ausreichend Schmerzmittel.** — After the procedure you will receive sufficient painkillers. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Schmerztherapie erklären]] · B2)*
+
 **Source:** Netzwerk neu B1 K8 2a ÜB (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

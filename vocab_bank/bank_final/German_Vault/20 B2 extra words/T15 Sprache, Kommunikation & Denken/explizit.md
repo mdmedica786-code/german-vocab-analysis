@@ -29,6 +29,11 @@ status: "new"
 > Das steht explizit im Vertrag.
 > *That is stated explicitly in the contract.*
 
+**Phrases & Expressions:**
+- **explizit erwähnen** — *explicit*
+- **explizit fordern** — *explicit*
+- **eine explizite Aussage** — *explicit*
+
 **Collocations**
 - explizit erwähnen
 - explizit fordern

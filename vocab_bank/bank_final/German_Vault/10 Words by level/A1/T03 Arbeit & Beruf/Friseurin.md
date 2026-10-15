@@ -35,6 +35,9 @@ status: "new"
 > Meine Tochter will Friseurin werden.
 > *My daughter wants to become a hairdresser.*
 
+**Phrases & Expressions:**
+- **Meine Tochter will Friseurin werden** — *My daughter wants to become a hairdresser* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

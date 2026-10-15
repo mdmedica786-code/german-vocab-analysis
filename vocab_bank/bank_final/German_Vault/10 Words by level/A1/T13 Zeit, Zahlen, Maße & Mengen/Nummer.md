@@ -35,6 +35,9 @@ status: "new"
 > Sie haben Zimmer Nummer zwölf.
 > *You have room number twelve.*
 
+**Phrases & Expressions:**
+- **Bitte rufen Sie mich unter der Nummer ... zurück.** — Please call me back on the number ... *([[B2-07 Telefonieren|Nachricht hinterlassen]] · B1)*
+
 **Source:** Netzwerk neu A1 K12 4b (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

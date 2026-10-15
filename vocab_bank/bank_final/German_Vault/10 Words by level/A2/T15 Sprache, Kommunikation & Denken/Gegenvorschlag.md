@@ -34,6 +34,9 @@ status: "new"
 > Ich mache einen Gegenvorschlag: Treffen wir uns um sieben.
 > *I'll make a counter-proposal: let's meet at seven.*
 
+**Phrases & Expressions:**
+- **Ich mache einen Gegenvorschlag: Treffen wir uns um sieben** — *I'll make a counter-proposal: let's meet at seven* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 8a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

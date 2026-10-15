@@ -34,6 +34,9 @@ status: "new"
 > Das Brautpaar tanzt den ersten Tanz.
 > *The newlyweds are dancing the first dance.*
 
+**Phrases & Expressions:**
+- **Das Brautpaar tanzt den ersten Tanz** — *The newlyweds are dancing the first dance* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 3e (Große und kleine Gefühle)
 <!-- bank:end -->
 

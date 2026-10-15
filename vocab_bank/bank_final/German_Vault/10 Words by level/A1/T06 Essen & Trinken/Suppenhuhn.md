@@ -34,6 +34,9 @@ status: "new"
 > Für die Suppe brauche ich ein Suppenhuhn.
 > *For the soup I need a boiling fowl.*
 
+**Phrases & Expressions:**
+- **Für die Suppe brauche ich ein Suppenhuhn** — *For the soup I need a boiling fowl* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 12b (Fit und gesund)
 <!-- bank:end -->
 

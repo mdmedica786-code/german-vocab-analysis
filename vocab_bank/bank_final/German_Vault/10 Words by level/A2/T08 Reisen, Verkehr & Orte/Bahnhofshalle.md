@@ -34,6 +34,9 @@ status: "new"
 > In der Bahnhofshalle gibt es einen kleinen Kiosk.
 > *In the station hall there is a small kiosk.*
 
+**Phrases & Expressions:**
+- **In der Bahnhofshalle gibt es einen kleinen Kiosk** — *In the station hall there is a small kiosk* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 3a ÜB (Arbeitswelten)
 <!-- bank:end -->
 

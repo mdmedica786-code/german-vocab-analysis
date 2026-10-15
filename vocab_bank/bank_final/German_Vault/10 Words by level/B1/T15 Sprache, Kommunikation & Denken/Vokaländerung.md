@@ -31,6 +31,9 @@ status: "new"
 > Bei vielen starken Verben gibt es eine Vokaländerung.
 > *Many strong verbs have a vowel change.*
 
+**Phrases & Expressions:**
+- **Bei vielen starken Verben gibt es eine Vokaländerung** — *Many strong verbs have a vowel change* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen)
 <!-- bank:end -->
 

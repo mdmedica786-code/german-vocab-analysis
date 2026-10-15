@@ -32,6 +32,11 @@ status: "new"
 > Das Gesetz kann man verschieden auslegen.
 > *One can interpret the law in different ways.*
 
+**Phrases & Expressions:**
+- **ein Gesetz auslegen** — *to interpret; to lay out; to design*
+- **etwas falsch auslegen** — *to interpret; to lay out; to design*
+- **Waren auslegen** — *to interpret; to lay out; to design*
+
 **Collocations**
 - ein Gesetz auslegen
 - etwas falsch auslegen

@@ -31,6 +31,9 @@ status: "new"
 > „Dieser“ ist ein Demonstrativartikel.
 > *“Dieser” is a demonstrative article.*
 
+**Phrases & Expressions:**
+- **„Dieser“ ist ein Demonstrativartikel** — *“Dieser” is a demonstrative article* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12c (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

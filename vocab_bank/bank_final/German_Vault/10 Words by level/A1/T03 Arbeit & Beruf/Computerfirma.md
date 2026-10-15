@@ -34,6 +34,9 @@ status: "new"
 > Meine Schwester arbeitet bei einer Computerfirma.
 > *My sister works at a computer company.*
 
+**Phrases & Expressions:**
+- **Meine Schwester arbeitet bei einer Computerfirma** — *My sister works at a computer company* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 12 (Studium und Beruf)
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > Bitte formulieren Sie Ihre Frage klar.
 > *Please phrase your question clearly.*
 
+**Phrases & Expressions:**
+- **Bitte formulieren Sie Ihre Frage klar** — *Please phrase your question clearly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 9c (Arbeitsalltag)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Im Juli ist es oft heiß.
 > *It is often hot in July.*
 
+**Phrases & Expressions:**
+- **Im Juli ist es oft heiß** — *It is often hot in July* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

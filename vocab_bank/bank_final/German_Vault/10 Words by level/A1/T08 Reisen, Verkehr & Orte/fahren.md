@@ -34,6 +34,12 @@ status: "new"
 > Ich fahre mit dem Auto zur Arbeit.
 > *I drive to work by car.*
 
+**Phrases & Expressions:**
+- **Rad fahren** — to cycle *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A1)*
+- **Ich fahre nach ..., um ... zu ...** — I am going to ... in order to ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Zweck]] · B1)*
+- **Entweder fahren wir ..., oder wir ...** — Either we go ..., or we ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Alternative nennen]] · B1)*
+- **Dieses Medikament kann müde machen, fahren Sie daher nicht selbst Auto.** — This medicine can make you tired, so don't drive yourself. *([[FSP-11 Therapie und Medikamente erklären|Nebenwirkungen erklären]] · B2)*
+
 **Source:** Netzwerk neu A1 K2 7a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

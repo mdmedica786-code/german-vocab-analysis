@@ -29,6 +29,11 @@ status: "new"
 > Nach der Grundschule besucht er eine weiterführende Schule.
 > *After primary school he attends a secondary school.*
 
+**Phrases & Expressions:**
+- **eine weiterführende Schule** — *further; advanced; secondary*
+- **weiterführende Informationen** — *further; advanced; secondary*
+- **weiterführende Literatur** — *further; advanced; secondary*
+
 **Collocations**
 - eine weiterführende Schule
 - weiterführende Informationen

@@ -31,6 +31,11 @@ status: "new"
 > Sie flehte ihn an, nicht zu gehen.
 > *She implored him not to go.*
 
+**Phrases & Expressions:**
+- **um Gnade flehen** — *to beg; to implore*
+- **jemanden um Hilfe anflehen** — *to beg; to implore*
+- **flehend bitten** — *to beg; to implore*
+
 **Collocations**
 - um Gnade flehen
 - jemanden um Hilfe anflehen

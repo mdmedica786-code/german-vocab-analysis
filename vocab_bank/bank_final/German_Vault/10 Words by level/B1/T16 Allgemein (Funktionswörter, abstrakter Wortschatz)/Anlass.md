@@ -34,6 +34,9 @@ status: "new"
 > Der Anlass für das Treffen war ein Jubiläum.
 > *The occasion for the meeting was an anniversary.*
 
+**Phrases & Expressions:**
+- **Der Anlass für das Treffen war ein Jubiläum** — *The occasion for the meeting was an anniversary* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 3a (Blick nach vorn)
 <!-- bank:end -->
 

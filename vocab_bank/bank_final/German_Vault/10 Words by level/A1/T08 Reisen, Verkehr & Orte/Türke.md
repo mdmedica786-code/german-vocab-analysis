@@ -34,6 +34,9 @@ status: "new"
 > Der Türke im Restaurant spricht gut Deutsch.
 > *The Turkish man in the restaurant speaks good German.*
 
+**Phrases & Expressions:**
+- **Der Türke im Restaurant spricht gut Deutsch** — *The Turkish man in the restaurant speaks good German* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

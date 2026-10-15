@@ -31,6 +31,9 @@ status: "new"
 > Sie müssen Ihre Unterlagen im Bewerbungsportal hochladen.
 > *You have to upload your documents on the application portal.*
 
+**Phrases & Expressions:**
+- **Sie müssen Ihre Unterlagen im Bewerbungsportal hochladen** — *You have to upload your documents on the application portal* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

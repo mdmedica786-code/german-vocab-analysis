@@ -27,6 +27,9 @@ status: "new"
 > Das Thema ist topaktuell.
 > *The topic is up to the minute.*
 
+**Phrases & Expressions:**
+- **Das Thema ist topaktuell** — *The topic is up to the minute* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

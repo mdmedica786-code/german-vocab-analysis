@@ -32,6 +32,11 @@ status: "new"
 > Rühren Sie die Soße gelegentlich um.
 > *Stir the sauce occasionally.*
 
+**Phrases & Expressions:**
+- **die Suppe umrühren** — *to stir*
+- **gut umrühren** — *to stir*
+- **Zucker umrühren** — *to stir*
+
 **Collocations**
 - die Suppe umrühren
 - gut umrühren

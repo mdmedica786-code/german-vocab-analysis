@@ -30,6 +30,9 @@ status: "new"
 > Sie ist für diese Stelle gut qualifiziert.
 > *She is well qualified for this position.*
 
+**Phrases & Expressions:**
+- **Sie ist für diese Stelle gut qualifiziert** — *She is well qualified for this position* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 10c (Arbeitswelt)
 <!-- bank:end -->
 

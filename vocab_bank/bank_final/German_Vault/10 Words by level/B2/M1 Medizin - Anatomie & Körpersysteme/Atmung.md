@@ -33,6 +33,13 @@ status: "new"
 > Die Atmung des Patienten ist flach.
 > *The patient's breathing is shallow.*
 
+**Phrases & Expressions:**
+- **Wird der Schmerz bei Bewegung oder Atmung stärker?** — Does the pain get stronger on movement or breathing? *([[FSP-03 Schmerzanamnese|Auslösende Faktoren]] · B2)*
+- **flache Atmung** — *breathing; respiration*
+- **die Atmung überwachen** — *breathing; respiration*
+- **schwere Atmung** — *breathing; respiration*
+- **Atmung und Puls** — *breathing; respiration*
+
 **Collocations**
 - flache Atmung
 - die Atmung überwachen

@@ -31,6 +31,11 @@ status: "new"
 > Es verwundert mich, dass niemand angerufen hat.
 > *It surprises me that nobody called.*
 
+**Phrases & Expressions:**
+- **sich über etwas verwundern** — *to astonish; to surprise*
+- **es verwundert nicht** — *to astonish; to surprise*
+- **verwundert fragen** — *to astonish; to surprise*
+
 **Collocations**
 - sich über etwas verwundern
 - es verwundert nicht

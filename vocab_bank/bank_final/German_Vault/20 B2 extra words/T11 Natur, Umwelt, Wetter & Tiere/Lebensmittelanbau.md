@@ -30,6 +30,11 @@ status: "new"
 > Der Lebensmittelanbau in der Stadt wird immer beliebter.
 > *Growing food in the city is becoming more and more popular.*
 
+**Phrases & Expressions:**
+- **der Lebensmittelanbau in der Stadt** — *food cultivation; growing of food*
+- **nachhaltiger Lebensmittelanbau** — *food cultivation; growing of food*
+- **der regionale Lebensmittelanbau** — *food cultivation; growing of food*
+
 **Collocations**
 - der Lebensmittelanbau in der Stadt
 - nachhaltiger Lebensmittelanbau

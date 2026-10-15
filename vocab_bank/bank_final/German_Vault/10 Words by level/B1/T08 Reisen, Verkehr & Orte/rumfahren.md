@@ -30,6 +30,9 @@ status: "new"
 > Wir fahren den ganzen Tag in der Stadt rum.
 > *We drive around the city all day.*
 
+**Phrases & Expressions:**
+- **Wir fahren den ganzen Tag in der Stadt rum** — *We drive around the city all day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

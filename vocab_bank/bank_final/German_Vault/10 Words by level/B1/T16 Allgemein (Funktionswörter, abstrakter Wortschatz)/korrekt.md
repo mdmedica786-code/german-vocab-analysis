@@ -31,6 +31,9 @@ status: "new"
 > Ich habe die Rechnung geprüft. Alles ist korrekt.
 > *I checked the bill. Everything is correct.*
 
+**Phrases & Expressions:**
+- **Ich habe die Rechnung geprüft. Alles ist korrekt** — *I checked the bill. Everything is correct* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 4b (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

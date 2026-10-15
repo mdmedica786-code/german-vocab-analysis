@@ -34,6 +34,9 @@ status: "new"
 > Ich habe meinen Badeanzug vergessen.
 > *I forgot my swimsuit.*
 
+**Phrases & Expressions:**
+- **Ich habe meinen Badeanzug vergessen** — *I forgot my swimsuit* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1b (Ab in den Urlaub!)
 <!-- bank:end -->
 

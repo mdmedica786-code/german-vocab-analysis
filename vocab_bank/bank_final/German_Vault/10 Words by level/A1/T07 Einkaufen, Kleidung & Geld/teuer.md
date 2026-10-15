@@ -32,6 +32,9 @@ status: "new"
 > Das ist mir zu teuer.
 > *That is too expensive for me.*
 
+**Phrases & Expressions:**
+- **Das Angebot ist gut, jedoch ist es zu teuer.** — The offer is good, however it is too expensive. *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Gegensatz]] · B1)*
+
 **Source:** Netzwerk neu A1 K4 3b (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

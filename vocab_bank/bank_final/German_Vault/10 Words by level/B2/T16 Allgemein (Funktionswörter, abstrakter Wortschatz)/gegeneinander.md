@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die beiden Teams spielen gegeneinander.
 > *The two teams play against each other.*
+
+**Phrases & Expressions:**
+- **Die beiden Teams spielen gegeneinander** — *The two teams play against each other* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

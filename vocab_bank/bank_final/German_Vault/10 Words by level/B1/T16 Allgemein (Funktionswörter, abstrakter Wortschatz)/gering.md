@@ -31,6 +31,14 @@ status: "new"
 > Unsere Mannschaft hatte nur eine geringe Chance.
 > *Our team only had a slim chance.*
 
+**Phrases & Expressions:**
+- **Im Verhältnis zu ... ist ... gering.** — In relation to ..., ... is small. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Verhältnis beschreiben]] · B2)*
+- **Das Risiko einer Verschlechterung ist aktuell als gering einzustufen.** — The risk of deterioration is currently to be classed as low. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Prognose und Risiko]] · C1)*
+- **geringe Chancen** — *small; slight; low*
+- **ein geringer Unterschied** — *small; slight; low*
+- **eine geringe Menge** — *small; slight; low*
+- **nicht im Geringsten** — *small; slight; low*
+
 **Collocations**
 - geringe Chancen
 - ein geringer Unterschied

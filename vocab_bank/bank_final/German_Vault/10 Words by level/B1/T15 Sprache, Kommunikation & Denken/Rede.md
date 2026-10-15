@@ -35,6 +35,9 @@ status: "new"
 > Der Präsident hat eine Rede gehalten.
 > *The president gave a speech.*
 
+**Phrases & Expressions:**
+- **Der Präsident hat eine Rede gehalten** — *The president gave a speech* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 13a (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

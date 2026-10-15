@@ -33,6 +33,11 @@ status: "new"
 > Sie blickte voller Bewunderung zu ihm auf.
 > *She looked up at him full of admiration.*
 
+**Phrases & Expressions:**
+- **voller Bewunderung** — *admiration*
+- **Bewunderung erregen** — *admiration*
+- **mit Bewunderung** — *admiration*
+
 **Collocations**
 - voller Bewunderung
 - Bewunderung erregen

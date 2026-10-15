@@ -34,6 +34,9 @@ status: "new"
 > Die Altenpflegerin arbeitet im Pflegeheim.
 > *The geriatric nurse works in the care home.*
 
+**Phrases & Expressions:**
+- **Die Altenpflegerin arbeitet im Pflegeheim** — *The geriatric nurse works in the care home* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 1c (Nach der Schulzeit)
 <!-- bank:end -->
 

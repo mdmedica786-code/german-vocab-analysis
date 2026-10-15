@@ -26,6 +26,10 @@ status: "new"
 > Gegen den Bescheid kann man Einspruch erheben.
 > *One can lodge an objection against the notice.*
 
+**Phrases & Expressions:**
+- **Einspruch erheben gegen + Akk.** — *to lodge an objection*
+- **Einwände erheben** — *to lodge an objection*
+
 **Collocations**
 - Einspruch erheben gegen + Akk.
 - Einwände erheben

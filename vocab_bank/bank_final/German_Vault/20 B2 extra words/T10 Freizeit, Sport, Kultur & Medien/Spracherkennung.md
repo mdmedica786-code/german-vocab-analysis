@@ -33,6 +33,11 @@ status: "new"
 > Die Spracherkennung versteht auch Dialekte immer besser.
 > *Speech recognition understands even dialects better and better.*
 
+**Phrases & Expressions:**
+- **automatische Spracherkennung** — *speech recognition*
+- **Spracherkennung nutzen** — *speech recognition*
+- **Spracherkennung aktivieren** — *speech recognition*
+
 **Collocations**
 - automatische Spracherkennung
 - Spracherkennung nutzen

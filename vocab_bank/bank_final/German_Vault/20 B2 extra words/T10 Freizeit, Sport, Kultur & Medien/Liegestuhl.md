@@ -33,6 +33,11 @@ status: "new"
 > Im Garten steht ein Liegestuhl für die Sonnenbäder.
 > *In the garden there is a deckchair for sunbathing.*
 
+**Phrases & Expressions:**
+- **im Liegestuhl liegen** — *deckchair; sun lounger*
+- **einen Liegestuhl aufstellen** — *deckchair; sun lounger*
+- **sich in den Liegestuhl legen** — *deckchair; sun lounger*
+
 **Collocations**
 - im Liegestuhl liegen
 - einen Liegestuhl aufstellen

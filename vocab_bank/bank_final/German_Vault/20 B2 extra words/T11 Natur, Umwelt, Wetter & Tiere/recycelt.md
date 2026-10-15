@@ -29,6 +29,11 @@ status: "new"
 > Dieses Heft besteht aus recyceltem Papier.
 > *This notebook is made of recycled paper.*
 
+**Phrases & Expressions:**
+- **recyceltes Papier** — *recycled*
+- **recycelter Kunststoff** — *recycled*
+- **aus recycelten Materialien** — *recycled*
+
 **Collocations**
 - recyceltes Papier
 - recycelter Kunststoff

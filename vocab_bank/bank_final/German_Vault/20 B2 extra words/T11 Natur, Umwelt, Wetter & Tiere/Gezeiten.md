@@ -32,6 +32,11 @@ status: "new"
 > Die Gezeiten bestimmen den Rhythmus an der Küste.
 > *The tides determine the rhythm on the coast.*
 
+**Phrases & Expressions:**
+- **Ebbe und Flut** — *tides*
+- **die Gezeiten beachten** — *tides*
+- **Gezeitenkraftwerk** — *tides*
+
 **Collocations**
 - Ebbe und Flut
 - die Gezeiten beachten

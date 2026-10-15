@@ -26,6 +26,11 @@ status: "new"
 > Ich möchte Ihnen diesen Vorschlag besonders ans Herz legen.
 > *I would like to particularly recommend this proposal to you.*
 
+**Phrases & Expressions:**
+- **ans Herz legen** — *to recommend something warmly to someone*
+- **jemandem ans Herz legen** — *to recommend something warmly to someone*
+- **dringend empfehlen** — *to recommend something warmly to someone*
+
 **Collocations**
 - ans Herz legen
 - jemandem ans Herz legen

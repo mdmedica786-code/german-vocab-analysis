@@ -33,6 +33,11 @@ status: "new"
 > Vor Scham wurde sie rot.
 > *She blushed with shame.*
 
+**Phrases & Expressions:**
+- **vor Scham erröten** — *shame*
+- **Scham empfinden** — *shame*
+- **ohne Scham** — *shame*
+
 **Collocations**
 - vor Scham erröten
 - Scham empfinden

@@ -31,6 +31,9 @@ status: "new"
 > Das Reinigungspersonal beginnt um fünf Uhr.
 > *The cleaning staff start at five o'clock.*
 
+**Phrases & Expressions:**
+- **Das Reinigungspersonal beginnt um fünf Uhr** — *The cleaning staff start at five o'clock* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

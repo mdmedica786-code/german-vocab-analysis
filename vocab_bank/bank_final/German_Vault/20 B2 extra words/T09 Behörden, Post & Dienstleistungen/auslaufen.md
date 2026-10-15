@@ -32,6 +32,12 @@ status: "new"
 > Mein Vertrag läuft Ende des Jahres aus.
 > *My contract expires at the end of the year.*
 
+**Phrases & Expressions:**
+- **Hallo! Na, wie läuft's?** — Hi! So, how's it going? *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Begrüßen (informell)]] · A2)*
+- **ein Vertrag läuft aus** — *to run out; to leak; to expire*
+- **das Öl läuft aus** — *to run out; to leak; to expire*
+- **ein Schiff läuft aus** — *to run out; to leak; to expire*
+
 **Collocations**
 - ein Vertrag läuft aus
 - das Öl läuft aus

@@ -33,6 +33,11 @@ status: "new"
 > Am Aktionstag verteilen wir Flyer in der Stadt.
 > *On the day of action we hand out flyers in the city.*
 
+**Phrases & Expressions:**
+- **einen Aktionstag organisieren** — *day of action; awareness day*
+- **am Aktionstag teilnehmen** — *day of action; awareness day*
+- **der Aktionstag gegen Lärm** — *day of action; awareness day*
+
 **Collocations**
 - einen Aktionstag organisieren
 - am Aktionstag teilnehmen

@@ -31,6 +31,14 @@ status: "new"
 > Ich komme bald.
 > *I'll be there soon.*
 
+**Phrases & Expressions:**
+- **schon bald** — very soon *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **bis bald** — see you soon *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A1)*
+- **Schreib mir bald wieder!** — Write to me again soon! *([[B1-12 Persönliche E-Mail und Brief|Schluss formulieren]] · B1)*
+- **Bis bald und liebe Grüße** — See you soon and kind regards *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+- **Tschüs, bis bald, mach's gut!** — Bye, see you soon, take care! *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Verabschieden]] · A2)*
+- **Könnten Sie so bald wie möglich vorbeikommen?** — Could you come round as soon as possible? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Handwerker und Reparatur]] · B1)*
+
 **Source:** Netzwerk neu A1 K9 5c (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

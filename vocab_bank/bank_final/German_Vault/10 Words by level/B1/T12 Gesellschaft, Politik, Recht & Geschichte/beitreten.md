@@ -33,6 +33,9 @@ status: "new"
 > Er ist dem Verein beigetreten.
 > *He joined the club.*
 
+**Phrases & Expressions:**
+- **Er ist dem Verein beigetreten** — *He joined the club* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 10b (Miteinander)
 <!-- bank:end -->
 

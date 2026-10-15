@@ -33,6 +33,9 @@ status: "new"
 > Könntest du das für mich erledigen?
 > *Could you take care of that for me?*
 
+**Phrases & Expressions:**
+- **Könntest du das für mich erledigen** — *Could you take care of that for me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 2a (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

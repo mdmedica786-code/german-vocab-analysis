@@ -31,6 +31,9 @@ status: "new"
 > Willst du rein oder raus?
 > *Do you want to go in or out?*
 
+**Phrases & Expressions:**
+- **Willst du rein oder raus** — *Do you want to go in or out* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

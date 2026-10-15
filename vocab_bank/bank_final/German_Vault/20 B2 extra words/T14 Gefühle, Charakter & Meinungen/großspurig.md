@@ -29,6 +29,11 @@ status: "new"
 > Er tritt immer so großspurig auf.
 > *He always acts so pompously.*
 
+**Phrases & Expressions:**
+- **großspurig auftreten** — *pompous; boastful*
+- **großspurig reden** — *pompous; boastful*
+- **ein großspuriger Typ** — *pompous; boastful*
+
 **Collocations**
 - großspurig auftreten
 - großspurig reden

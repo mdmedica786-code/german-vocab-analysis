@@ -34,6 +34,9 @@ status: "new"
 > Unser Stadtviertel ist sehr ruhig.
 > *Our neighbourhood is very quiet.*
 
+**Phrases & Expressions:**
+- **Unser Stadtviertel ist sehr ruhig** — *Our neighbourhood is very quiet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

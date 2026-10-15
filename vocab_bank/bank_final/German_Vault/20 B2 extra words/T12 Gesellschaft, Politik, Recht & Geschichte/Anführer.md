@@ -33,6 +33,11 @@ status: "new"
 > Der Anführer der Gruppe gab den Befehl.
 > *The leader of the group gave the order.*
 
+**Phrases & Expressions:**
+- **der Anführer einer Bande** — *leader; ringleader*
+- **ein charismatischer Anführer** — *leader; ringleader*
+- **der Anführer der Opposition** — *leader; ringleader*
+
 **Collocations**
 - der Anführer einer Bande
 - ein charismatischer Anführer

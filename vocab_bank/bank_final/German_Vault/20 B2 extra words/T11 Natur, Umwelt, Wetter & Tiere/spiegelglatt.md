@@ -29,6 +29,11 @@ status: "new"
 > Die Straße ist spiegelglatt, fahren Sie vorsichtig!
 > *The road is icy; drive carefully!*
 
+**Phrases & Expressions:**
+- **spiegelglatte Straßen** — *smooth as glass; icy*
+- **spiegelglatt gefroren** — *smooth as glass; icy*
+- **ein spiegelglatter See** — *smooth as glass; icy*
+
 **Collocations**
 - spiegelglatte Straßen
 - spiegelglatt gefroren

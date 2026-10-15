@@ -34,6 +34,9 @@ status: "new"
 > Tragen Sie sich bitte in diese Liste ein!
 > *Please enter your name on this list!*
 
+**Phrases & Expressions:**
+- **Tragen Sie sich bitte in diese Liste ein** — *Please enter your name on this list* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 5a (Geld regiert die Welt?) · Goethe word list A2
 <!-- bank:end -->
 

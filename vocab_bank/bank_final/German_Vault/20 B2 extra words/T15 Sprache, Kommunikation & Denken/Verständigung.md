@@ -33,6 +33,11 @@ status: "new"
 > Die Verständigung mit den Gästen war nur auf Englisch möglich.
 > *Communication with the guests was only possible in English.*
 
+**Phrases & Expressions:**
+- **die Verständigung erleichtern** — *communication; understanding*
+- **Verständigung erzielen** — *communication; understanding*
+- **Schwierigkeiten bei der Verständigung** — *communication; understanding*
+
 **Collocations**
 - die Verständigung erleichtern
 - Verständigung erzielen

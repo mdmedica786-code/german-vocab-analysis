@@ -34,6 +34,9 @@ status: "new"
 > Der Tisch ist 80 Zentimeter breit.
 > *The table is 80 centimetres wide.*
 
+**Phrases & Expressions:**
+- **Der Tisch ist 80 Zentimeter breit** — *The table is 80 centimetres wide* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

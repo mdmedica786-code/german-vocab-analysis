@@ -31,6 +31,12 @@ status: "new"
 > Wir können uns morgen treffen, allerdings habe ich erst ab Mittag Zeit.
 > *We can meet tomorrow, though I only have time from noon.*
 
+**Phrases & Expressions:**
+- **Allerdings ist dieser Trend nicht überall zu beobachten.** — However, this trend cannot be observed everywhere. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Trend relativieren]] · B2)*
+- **allerdings nur** — *however; though; admittedly*
+- **allerdings erst später** — *however; though; admittedly*
+- **allerdings schon** — *however; though; admittedly*
+
 **Collocations**
 - allerdings nur
 - allerdings erst später

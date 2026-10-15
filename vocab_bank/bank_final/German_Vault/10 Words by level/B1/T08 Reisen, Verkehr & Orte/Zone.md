@@ -35,6 +35,9 @@ status: "new"
 > Hier können wir nicht fahren. Das ist eine Fußgängerzone.
 > *We cannot drive here. This is a pedestrian zone.*
 
+**Phrases & Expressions:**
+- **Hier können wir nicht fahren. Das ist eine Fußgängerzone** — *We cannot drive here. This is a pedestrian zone* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7b (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

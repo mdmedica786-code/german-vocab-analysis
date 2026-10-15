@@ -30,6 +30,11 @@ status: "new"
 > Das Buch gewann den Hörbuch-Award des Jahres.
 > *The book won the audiobook award of the year.*
 
+**Phrases & Expressions:**
+- **den Hörbuch-Award gewinnen** — *audiobook award*
+- **ein Hörbuch-Award** — *audiobook award*
+- **für den Hörbuch-Award nominiert werden** — *audiobook award*
+
 **Collocations**
 - den Hörbuch-Award gewinnen
 - ein Hörbuch-Award

@@ -26,6 +26,11 @@ status: "new"
 > Meine Hände sind ganz verfroren.
 > *My hands are quite frozen.*
 
+**Phrases & Expressions:**
+- **verfroren sein** — *chilly; sensitive to cold*
+- **ein verfrorener Mensch** — *chilly; sensitive to cold*
+- **verfroren aussehen** — *chilly; sensitive to cold*
+
 **Collocations**
 - verfroren sein
 - ein verfrorener Mensch

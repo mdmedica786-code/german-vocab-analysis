@@ -31,6 +31,9 @@ status: "new"
 > Meine Vermutung hat sich bestätigt.
 > *My assumption has been confirmed.*
 
+**Phrases & Expressions:**
+- **Meine Vermutung hat sich bestätigt** — *My assumption has been confirmed* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 11b (Zusammen leben)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Das Zusammenspiel der Spieler war perfekt.
 > *The interplay of the players was perfect.*
 
+**Phrases & Expressions:**
+- **das Zusammenspiel von** — *interplay; teamwork*
+- **ein gutes Zusammenspiel** — *interplay; teamwork*
+- **im Zusammenspiel mit** — *interplay; teamwork*
+
 **Collocations**
 - das Zusammenspiel von
 - ein gutes Zusammenspiel

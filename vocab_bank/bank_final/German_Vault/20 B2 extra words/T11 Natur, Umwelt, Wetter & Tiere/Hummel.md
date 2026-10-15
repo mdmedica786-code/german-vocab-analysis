@@ -33,6 +33,11 @@ status: "new"
 > Die Hummel summt von Blüte zu Blüte.
 > *The bumblebee buzzes from flower to flower.*
 
+**Phrases & Expressions:**
+- **eine Hummel summt** — *bumblebee*
+- **Hummeln und Bienen** — *bumblebee*
+- **Hummeln bestäuben Blumen** — *bumblebee*
+
 **Collocations**
 - eine Hummel summt
 - Hummeln und Bienen

@@ -33,6 +33,14 @@ status: "new"
 > Drückt mir die Daumen!
 > *Cross your fingers for me!*
 
+**Phrases & Expressions:**
+- **Ich drücke jetzt vorsichtig auf Ihren Bauch.** — I will now press gently on your abdomen. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Abtasten]] · B1)*
+- **Tut es hier weh, wenn ich drücke?** — Does it hurt here when I press? *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Schmerz bei Untersuchung erfragen]] · A2)*
+- **den Knopf drücken** — *to press; to push; to squeeze*
+- **die Daumen drücken** — *to press; to push; to squeeze*
+- **auf die Taste drücken** — *to press; to push; to squeeze*
+- **die Hand drücken** — *to press; to push; to squeeze*
+
 **Collocations**
 - den Knopf drücken
 - die Daumen drücken

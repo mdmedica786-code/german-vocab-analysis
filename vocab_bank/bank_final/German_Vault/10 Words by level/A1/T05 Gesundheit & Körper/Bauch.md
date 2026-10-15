@@ -35,6 +35,11 @@ status: "new"
 > Seit gestern tut mir der Bauch weh.
 > *My stomach has hurt since yesterday.*
 
+**Phrases & Expressions:**
+- **Ich werde zuerst Ihren Bauch abtasten.** — First I will palpate your abdomen. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Untersuchung ankündigen]] · B1)*
+- **Ich drücke jetzt vorsichtig auf Ihren Bauch.** — I will now press gently on your abdomen. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Abtasten]] · B1)*
+- **Ich mache jetzt einen Ultraschall Ihres Bauches.** — I will now do an ultrasound of your abdomen. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Sonografie]] · A2)*
+
 **Source:** Netzwerk neu A1 K8 6a (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

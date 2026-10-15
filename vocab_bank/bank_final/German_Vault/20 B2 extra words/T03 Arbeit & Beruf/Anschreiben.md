@@ -33,6 +33,11 @@ status: "new"
 > Im Anschreiben erklärt man, warum man sich bewirbt.
 > *In the cover letter you explain why you are applying.*
 
+**Phrases & Expressions:**
+- **ein Anschreiben verfassen** — *cover letter*
+- **Anschreiben und Lebenslauf** — *cover letter*
+- **individuelles Anschreiben** — *cover letter*
+
 **Collocations**
 - ein Anschreiben verfassen
 - Anschreiben und Lebenslauf

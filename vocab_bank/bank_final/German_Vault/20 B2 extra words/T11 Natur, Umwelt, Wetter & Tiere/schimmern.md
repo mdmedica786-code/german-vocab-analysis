@@ -31,6 +31,11 @@ status: "new"
 > Das Wasser schimmerte im Mondlicht.
 > *The water shimmered in the moonlight.*
 
+**Phrases & Expressions:**
+- **im Licht schimmern** — *to shimmer; to glimmer*
+- **silbern schimmern** — *to shimmer; to glimmer*
+- **schimmernde Perlen** — *to shimmer; to glimmer*
+
 **Collocations**
 - im Licht schimmern
 - silbern schimmern

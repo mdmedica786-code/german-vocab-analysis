@@ -33,6 +33,11 @@ status: "new"
 > Wegen wiederholten Zuspätkommens erhielt er eine Abmahnung.
 > *Because of repeated lateness he received a formal warning.*
 
+**Phrases & Expressions:**
+- **eine Abmahnung erhalten** — *formal warning*
+- **Abmahnung aussprechen** — *formal warning*
+- **berechtigte Abmahnung** — *formal warning*
+
 **Collocations**
 - eine Abmahnung erhalten
 - Abmahnung aussprechen

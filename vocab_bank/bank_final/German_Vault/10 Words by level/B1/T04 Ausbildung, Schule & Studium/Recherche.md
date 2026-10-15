@@ -34,6 +34,9 @@ status: "new"
 > Für diesen Bericht waren viele Recherchen nötig.
 > *A lot of research was needed for this report.*
 
+**Phrases & Expressions:**
+- **Für diesen Bericht waren viele Recherchen nötig** — *A lot of research was needed for this report* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

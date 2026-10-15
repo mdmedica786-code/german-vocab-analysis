@@ -29,6 +29,11 @@ status: "new"
 > Das Handy ist für viele Menschen unentbehrlich geworden.
 > *The mobile phone has become indispensable for many people.*
 
+**Phrases & Expressions:**
+- **ein unentbehrliches Hilfsmittel** — *indispensable*
+- **sich unentbehrlich machen** — *indispensable*
+- **unentbehrlich sein** — *indispensable*
+
 **Collocations**
 - ein unentbehrliches Hilfsmittel
 - sich unentbehrlich machen

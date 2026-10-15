@@ -34,6 +34,9 @@ status: "new"
 > In dem Satz ist das Buch das Akkusativobjekt.
 > *In the sentence the book is the accusative object.*
 
+**Phrases & Expressions:**
+- **In dem Satz ist das Buch das Akkusativobjekt** — *In the sentence the book is the accusative object* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 4a (Rund um Körper und Geist)
 <!-- bank:end -->
 

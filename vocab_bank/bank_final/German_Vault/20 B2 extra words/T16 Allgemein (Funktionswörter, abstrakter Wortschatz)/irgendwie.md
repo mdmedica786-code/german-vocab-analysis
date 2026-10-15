@@ -29,6 +29,11 @@ status: "new"
 > Das klappt irgendwie nicht so, wie ich dachte.
 > *Somehow that is not working as I thought.*
 
+**Phrases & Expressions:**
+- **irgendwie anders** — *somehow; in some way*
+- **irgendwie klappen** — *somehow; in some way*
+- **irgendwie komisch** — *somehow; in some way*
+
 **Collocations**
 - irgendwie anders
 - irgendwie klappen

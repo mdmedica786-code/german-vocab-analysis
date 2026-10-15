@@ -34,6 +34,9 @@ status: "new"
 > Im Arbeitsleben ist Teamarbeit wichtig.
 > *In working life teamwork is important.*
 
+**Phrases & Expressions:**
+- **Im Arbeitsleben ist Teamarbeit wichtig** — *In working life teamwork is important* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
 <!-- bank:end -->
 

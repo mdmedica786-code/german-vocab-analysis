@@ -33,6 +33,10 @@ status: "new"
 > Ich vermute, sie wird heute nicht kommen.
 > *I suspect she won't come today.*
 
+**Phrases & Expressions:**
+- **vermuten, dass ...** — to suspect that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Ich vermute, dass ...** — I suspect that ... *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Vermutung äußern]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 12a (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

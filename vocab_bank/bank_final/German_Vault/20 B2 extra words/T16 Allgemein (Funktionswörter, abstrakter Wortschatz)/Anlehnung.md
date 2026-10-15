@@ -33,6 +33,11 @@ status: "new"
 > Der Text entstand in Anlehnung an ein bekanntes Vorbild.
 > *The text was written following a well-known model.*
 
+**Phrases & Expressions:**
+- **in Anlehnung an** — *modelling on; reliance (only in "in Anlehnung an")*
+- **in enger Anlehnung** — *modelling on; reliance (only in "in Anlehnung an")*
+- **Anlehnung suchen** — *modelling on; reliance (only in "in Anlehnung an")*
+
 **Collocations**
 - in Anlehnung an
 - in enger Anlehnung

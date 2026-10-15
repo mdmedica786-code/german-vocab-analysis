@@ -30,6 +30,11 @@ status: "new"
 > Das Wörterlernen fällt mir mit Karteikarten leichter.
 > *Learning words is easier for me with flashcards.*
 
+**Phrases & Expressions:**
+- **beim Wörterlernen** — *learning words; vocabulary learning*
+- **das Wörterlernen üben** — *learning words; vocabulary learning*
+- **Spaß am Wörterlernen** — *learning words; vocabulary learning*
+
 **Collocations**
 - beim Wörterlernen
 - das Wörterlernen üben

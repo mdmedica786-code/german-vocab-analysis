@@ -33,6 +33,11 @@ status: "new"
 > Sie sparen seit Jahren für ein Eigenheim.
 > *They have been saving for years for a home of their own.*
 
+**Phrases & Expressions:**
+- **ein Eigenheim bauen** — *owner-occupied house; own home*
+- **Traum vom Eigenheim** — *owner-occupied house; own home*
+- **Eigenheimzulage** — *owner-occupied house; own home*
+
 **Collocations**
 - ein Eigenheim bauen
 - Traum vom Eigenheim

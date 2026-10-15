@@ -33,6 +33,9 @@ status: "new"
 > Das Feuer breitet sich schnell aus.
 > *The fire spreads quickly.*
 
+**Phrases & Expressions:**
+- **Das Feuer breitet sich schnell aus** — *The fire spreads quickly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

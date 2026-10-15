@@ -33,6 +33,11 @@ status: "new"
 > Für den Kurs sind keine Vorkenntnisse nötig.
 > *No prior knowledge is needed for the course.*
 
+**Phrases & Expressions:**
+- **Vorkenntnisse haben** — *prior knowledge; previous knowledge*
+- **Vorkenntnisse mitbringen** — *prior knowledge; previous knowledge*
+- **keine Vorkenntnisse erforderlich** — *prior knowledge; previous knowledge*
+
 **Collocations**
 - Vorkenntnisse haben
 - Vorkenntnisse mitbringen

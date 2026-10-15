@@ -32,6 +32,10 @@ status: "new"
 > Eltville ist eine kleine Stadt am Rhein.
 > *Eltville is a small town on the Rhine.*
 
+**Phrases & Expressions:**
+- **Ein kleiner Vorschlag: Sie könnten ...** — A small suggestion: you could ... *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Verbesserung vorschlagen]] · B1)*
+- **... ist größer/kleiner als ...** — ... is bigger/smaller than ... *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Vergleichen]] · B1)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

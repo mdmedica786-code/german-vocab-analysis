@@ -32,6 +32,14 @@ status: "new"
 > Die Polizei schritt gegen die Randalierer ein.
 > *The police took action against the rioters.*
 
+**Phrases & Expressions:**
+- **Schritt für Schritt** — step by step *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **in einem ersten Schritt** — as a first step *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **Als nächsten Schritt würde ich gern ... empfehlen.** — As a next step I would like to recommend ... *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Nächste Schritte]] · B2)*
+- **gegen etwas einschreiten** — *to intervene; to take action*
+- **rechtzeitig einschreiten** — *to intervene; to take action*
+- **gegen Gewalt einschreiten** — *to intervene; to take action*
+
 **Collocations**
 - gegen etwas einschreiten
 - rechtzeitig einschreiten

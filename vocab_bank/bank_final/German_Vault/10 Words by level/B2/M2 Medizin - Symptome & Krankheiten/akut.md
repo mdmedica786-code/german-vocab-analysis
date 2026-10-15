@@ -29,6 +29,12 @@ status: "new"
 > Der Patient hat akute Bauchschmerzen.
 > *The patient has acute abdominal pain.*
 
+**Phrases & Expressions:**
+- **akute Erkrankung** — *acute*
+- **akuter Notfall** — *acute*
+- **akute Bauchschmerzen** — *acute*
+- **akut auftreten** — *acute*
+
 **Collocations**
 - akute Erkrankung
 - akuter Notfall

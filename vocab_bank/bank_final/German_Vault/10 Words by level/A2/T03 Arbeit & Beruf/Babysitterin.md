@@ -35,6 +35,9 @@ status: "new"
 > Die Babysitterin bringt die Kinder um acht ins Bett.
 > *The babysitter puts the children to bed at eight.*
 
+**Phrases & Expressions:**
+- **Die Babysitterin bringt die Kinder um acht ins Bett** — *The babysitter puts the children to bed at eight* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 9a (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Das Restaurant ist sehr empfehlenswert.
 > *The restaurant is highly recommendable.*
 
+**Phrases & Expressions:**
+- **sehr empfehlenswert** — *recommendable; worth recommending*
+- **empfehlenswert sein** — *recommendable; worth recommending*
+- **ein empfehlenswertes Buch** — *recommendable; worth recommending*
+
 **Collocations**
 - sehr empfehlenswert
 - empfehlenswert sein

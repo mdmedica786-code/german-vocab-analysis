@@ -34,6 +34,9 @@ status: "new"
 > Der Songwriter schreibt Texte für bekannte Sänger.
 > *The songwriter writes lyrics for famous singers.*
 
+**Phrases & Expressions:**
+- **Der Songwriter schreibt Texte für bekannte Sänger** — *The songwriter writes lyrics for famous singers* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 10a (Blick nach vorn)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Wir haben uns neue Möbel angeschafft.
 > *We bought new furniture.*
 
+**Phrases & Expressions:**
+- **Wir haben uns neue Möbel angeschafft** — *We bought new furniture* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 3a (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

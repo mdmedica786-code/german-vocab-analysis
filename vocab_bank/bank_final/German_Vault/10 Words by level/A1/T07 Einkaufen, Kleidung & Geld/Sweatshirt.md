@@ -34,6 +34,9 @@ status: "new"
 > Zu Hause trage ich gern ein Sweatshirt.
 > *At home I like wearing a sweatshirt.*
 
+**Phrases & Expressions:**
+- **Zu Hause trage ich gern ein Sweatshirt** — *At home I like wearing a sweatshirt* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 4b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Ein Verweis auf die Quelle fehlt.
 > *A reference to the source is missing.*
 
+**Phrases & Expressions:**
+- **ein Verweis auf** — *reference; cross-reference; reprimand*
+- **einen Verweis erteilen** — *reference; cross-reference; reprimand*
+- **ein Querverweis** — *reference; cross-reference; reprimand*
+
 **Collocations**
 - ein Verweis auf
 - einen Verweis erteilen

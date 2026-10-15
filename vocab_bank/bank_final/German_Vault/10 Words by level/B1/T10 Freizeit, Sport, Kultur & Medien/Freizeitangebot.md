@@ -34,6 +34,9 @@ status: "new"
 > In der Stadt gibt es viele Freizeitangebote.
 > *There are many leisure activities in the city.*
 
+**Phrases & Expressions:**
+- **In der Stadt gibt es viele Freizeitangebote** — *There are many leisure activities in the city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 2a (Stadt, Land, Fluss)
 <!-- bank:end -->
 

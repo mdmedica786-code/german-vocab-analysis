@@ -30,6 +30,11 @@ status: "new"
 > Der Kreisausschuss entscheidet über das Budget.
 > *The district committee decides on the budget.*
 
+**Phrases & Expressions:**
+- **der Kreisausschuss tagt** — *district committee*
+- **im Kreisausschuss sitzen** — *district committee*
+- **ein Beschluss des Kreisausschusses** — *district committee*
+
 **Collocations**
 - der Kreisausschuss tagt
 - im Kreisausschuss sitzen

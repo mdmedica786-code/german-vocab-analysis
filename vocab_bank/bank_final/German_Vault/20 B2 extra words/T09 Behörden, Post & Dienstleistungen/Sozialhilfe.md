@@ -33,6 +33,11 @@ status: "new"
 > Wer kein Einkommen hat, kann Sozialhilfe beantragen.
 > *Anyone without an income can apply for social assistance.*
 
+**Phrases & Expressions:**
+- **Sozialhilfe beantragen** — *social assistance*
+- **von Sozialhilfe leben** — *social assistance*
+- **auf Sozialhilfe angewiesen sein** — *social assistance*
+
 **Collocations**
 - Sozialhilfe beantragen
 - von Sozialhilfe leben

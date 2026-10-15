@@ -34,6 +34,9 @@ status: "new"
 > Mozarts Requiem wird heute Abend aufgeführt.
 > *Mozart's Requiem is being performed this evening.*
 
+**Phrases & Expressions:**
+- **Mozarts Requiem wird heute Abend aufgeführt** — *Mozart's Requiem is being performed this evening* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg)
 <!-- bank:end -->
 

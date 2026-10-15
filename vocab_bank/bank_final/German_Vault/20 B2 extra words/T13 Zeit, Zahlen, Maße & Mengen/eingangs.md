@@ -29,6 +29,11 @@ status: "new"
 > Wie eingangs erwähnt, ist das Thema komplex.
 > *As mentioned at the beginning, the topic is complex.*
 
+**Phrases & Expressions:**
+- **wie eingangs erwähnt** — *at the beginning; initially*
+- **eingangs fragen** — *at the beginning; initially*
+- **eingangs bemerkt** — *at the beginning; initially*
+
 **Collocations**
 - wie eingangs erwähnt
 - eingangs fragen

@@ -31,6 +31,12 @@ status: "new"
 > Es gab eine Diskussion über die Lebensmittelpreise. Ein Journalist hat kritische Fragen gestellt.
 > *There was a discussion about food prices. A journalist asked critical questions.*
 
+**Phrases & Expressions:**
+- **kritisch denken** — *critical*
+- **kritisch sein** — *critical*
+- **eine kritische Frage** — *critical*
+- **im kritischen Zustand** — *critical*
+
 **Collocations**
 - kritisch denken
 - kritisch sein

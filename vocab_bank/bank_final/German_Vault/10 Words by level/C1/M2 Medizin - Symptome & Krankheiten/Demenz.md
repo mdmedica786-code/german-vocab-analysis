@@ -33,6 +33,12 @@ status: "new"
 > Die Demenz schreitet langsam fort.
 > *The dementia is progressing slowly.*
 
+**Phrases & Expressions:**
+- **an Demenz leiden** — *dementia*
+- **beginnende Demenz** — *dementia*
+- **Demenz diagnostizieren** — *dementia*
+- **Demenz im Alter** — *dementia*
+
 **Collocations**
 - an Demenz leiden
 - beginnende Demenz

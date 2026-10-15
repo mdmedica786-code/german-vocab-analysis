@@ -34,6 +34,9 @@ status: "new"
 > Zur Geburtstagsparty kommen zwanzig Gäste.
 > *Twenty guests are coming to the birthday party.*
 
+**Phrases & Expressions:**
+- **Zur Geburtstagsparty kommen zwanzig Gäste** — *Twenty guests are coming to the birthday party* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 4b (Große und kleine Gefühle)
 <!-- bank:end -->
 

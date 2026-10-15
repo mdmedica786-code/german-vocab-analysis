@@ -31,6 +31,9 @@ status: "new"
 > Ich finde, unsere Mannschaft hat sehr fair gespielt.
 > *I think our team played very fairly.*
 
+**Phrases & Expressions:**
+- **Ich finde, unsere Mannschaft hat sehr fair gespielt** — *I think our team played very fairly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

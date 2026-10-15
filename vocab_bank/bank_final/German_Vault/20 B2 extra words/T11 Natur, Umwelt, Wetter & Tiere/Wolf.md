@@ -33,6 +33,11 @@ status: "new"
 > Im Wald leben wieder Wölfe.
 > *Wolves are living in the forest again.*
 
+**Phrases & Expressions:**
+- **ein Rudel Wölfe** — *wolf*
+- **der Wolf heult** — *wolf*
+- **ein Wolf im Schafspelz** — *wolf*
+
 **Collocations**
 - ein Rudel Wölfe
 - der Wolf heult

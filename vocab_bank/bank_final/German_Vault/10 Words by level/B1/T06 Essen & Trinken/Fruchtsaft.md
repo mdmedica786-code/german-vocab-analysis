@@ -34,6 +34,9 @@ status: "new"
 > Zum Frühstück trinke ich Fruchtsaft.
 > *For breakfast I drink fruit juice.*
 
+**Phrases & Expressions:**
+- **Zum Frühstück trinke ich Fruchtsaft** — *For breakfast I drink fruit juice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist)
 <!-- bank:end -->
 

@@ -30,6 +30,11 @@ status: "new"
 > Sie arbeitet selbständig als Übersetzerin.
 > *She works as a self-employed translator.*
 
+**Phrases & Expressions:**
+- **selbständig arbeiten** — *independent; self-employed*
+- **sich selbständig machen** — *independent; self-employed*
+- **selbständig denken** — *independent; self-employed*
+
 **Collocations**
 - selbständig arbeiten
 - sich selbständig machen

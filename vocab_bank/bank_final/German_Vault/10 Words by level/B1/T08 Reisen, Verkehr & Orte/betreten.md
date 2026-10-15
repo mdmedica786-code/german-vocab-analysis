@@ -31,6 +31,12 @@ status: "new"
 > Bitte betreten Sie den Raum nicht.
 > *Please do not enter the room.*
 
+**Phrases & Expressions:**
+- **den Raum betreten** — *to enter; to step onto*
+- **verbotenes Gebiet betreten** — *to enter; to step onto*
+- **Neuland betreten** — *to enter; to step onto*
+- **die Bühne betreten** — *to enter; to step onto*
+
 **Collocations**
 - den Raum betreten
 - verbotenes Gebiet betreten

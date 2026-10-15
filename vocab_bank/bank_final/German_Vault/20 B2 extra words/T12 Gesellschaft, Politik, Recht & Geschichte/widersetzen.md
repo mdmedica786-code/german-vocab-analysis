@@ -32,6 +32,11 @@ status: "new"
 > Die Bürger widersetzten sich dem Abriss des Hauses.
 > *The citizens opposed the demolition of the house.*
 
+**Phrases & Expressions:**
+- **sich einer Anordnung widersetzen** — *to resist; to oppose*
+- **sich der Festnahme widersetzen** — *to resist; to oppose*
+- **sich widersetzen** — *to resist; to oppose*
+
 **Collocations**
 - sich einer Anordnung widersetzen
 - sich der Festnahme widersetzen

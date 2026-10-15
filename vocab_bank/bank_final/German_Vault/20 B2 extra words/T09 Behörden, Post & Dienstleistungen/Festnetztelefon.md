@@ -33,6 +33,11 @@ status: "new"
 > Wir haben noch ein Festnetztelefon im Flur.
 > *We still have a landline phone in the hall.*
 
+**Phrases & Expressions:**
+- **ein Festnetztelefon haben** — *landline phone*
+- **über das Festnetztelefon anrufen** — *landline phone*
+- **das Festnetztelefon klingelt** — *landline phone*
+
 **Collocations**
 - ein Festnetztelefon haben
 - über das Festnetztelefon anrufen

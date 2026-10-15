@@ -33,6 +33,11 @@ status: "new"
 > Alle Einsendungen nehmen an der Verlosung teil.
 > *All entries take part in the draw.*
 
+**Phrases & Expressions:**
+- **eine Einsendung schicken** — *entry; submission; sending in*
+- **Einsendungen bis Freitag** — *entry; submission; sending in*
+- **die Einsendung prüfen** — *entry; submission; sending in*
+
 **Collocations**
 - eine Einsendung schicken
 - Einsendungen bis Freitag

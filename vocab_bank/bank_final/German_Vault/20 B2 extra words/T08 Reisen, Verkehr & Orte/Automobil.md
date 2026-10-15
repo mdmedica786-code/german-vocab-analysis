@@ -33,6 +33,11 @@ status: "new"
 > Das Automobil wurde vor über hundert Jahren erfunden.
 > *The automobile was invented over a hundred years ago.*
 
+**Phrases & Expressions:**
+- **ein altes Automobil** — *automobile; car*
+- **die Entwicklung des Automobils** — *automobile; car*
+- **ein elektrisches Automobil** — *automobile; car*
+
 **Collocations**
 - ein altes Automobil
 - die Entwicklung des Automobils

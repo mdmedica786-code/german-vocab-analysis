@@ -35,6 +35,11 @@ status: "new"
 > Ich habe ein ganz schlechtes Gewissen.
 > *I have a very guilty conscience.*
 
+**Phrases & Expressions:**
+- **zu einem gewissen Grad** — to a certain extent *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · C1)*
+- **bis zu einem gewissen Grad** — to a certain degree *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · C1)*
+- **bis zu einem gewissen Grade** — to a certain degree *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · C1)*
+
 **Source:** Netzwerk neu B1 K12 10a (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

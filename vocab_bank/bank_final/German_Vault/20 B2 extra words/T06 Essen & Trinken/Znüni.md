@@ -31,6 +31,11 @@ status: "new"
 > In der Pause esse ich mein Znüni.
 > *During the break I eat my mid-morning snack.*
 
+**Phrases & Expressions:**
+- **das Znüni essen** — *mid-morning snack (Swiss)*
+- **ein Znüni mitnehmen** — *mid-morning snack (Swiss)*
+- **zum Znüni** — *mid-morning snack (Swiss)*
+
 **Collocations**
 - das Znüni essen
 - ein Znüni mitnehmen

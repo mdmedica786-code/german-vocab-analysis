@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Er spielt im Mittelfeld.
 > *He plays in midfield.*
+
+**Phrases & Expressions:**
+- **Er spielt im Mittelfeld** — *He plays in midfield* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

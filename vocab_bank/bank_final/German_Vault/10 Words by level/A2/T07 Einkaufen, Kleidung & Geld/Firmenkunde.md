@@ -34,6 +34,9 @@ status: "new"
 > Firmenkunden bekommen einen Rabatt.
 > *Business clients get a discount.*
 
+**Phrases & Expressions:**
+- **Firmenkunden bekommen einen Rabatt** — *Business clients get a discount* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

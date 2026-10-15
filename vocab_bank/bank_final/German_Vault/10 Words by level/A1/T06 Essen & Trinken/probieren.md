@@ -33,6 +33,9 @@ status: "new"
 > Möchten Sie den Käse probieren?
 > *Would you like to try the cheese?*
 
+**Phrases & Expressions:**
+- **Möchten Sie den Käse probieren** — *Would you like to try the cheese* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

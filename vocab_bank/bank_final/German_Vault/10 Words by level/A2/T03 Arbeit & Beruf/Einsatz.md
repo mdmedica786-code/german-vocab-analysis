@@ -34,6 +34,9 @@ status: "new"
 > Der Einsatz der Feuerwehr dauerte drei Stunden.
 > *The fire brigade's operation lasted three hours.*
 
+**Phrases & Expressions:**
+- **Der Einsatz der Feuerwehr dauerte drei Stunden** — *The fire brigade's operation lasted three hours* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!)
 <!-- bank:end -->
 

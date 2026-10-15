@@ -34,6 +34,9 @@ status: "new"
 > Die Kinder werfen Steine ins Wasser.
 > *The children throw stones into the water.*
 
+**Phrases & Expressions:**
+- **Die Kinder werfen Steine ins Wasser** — *The children throw stones into the water* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

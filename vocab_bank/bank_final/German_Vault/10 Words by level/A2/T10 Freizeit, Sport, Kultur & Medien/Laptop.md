@@ -35,6 +35,9 @@ status: "new"
 > Ich brauche einen neuen Laptop.
 > *I need a new laptop.*
 
+**Phrases & Expressions:**
+- **Ich brauche einen neuen Laptop** — *I need a new laptop* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1b (Immer online?) · Goethe word list A2
 <!-- bank:end -->
 

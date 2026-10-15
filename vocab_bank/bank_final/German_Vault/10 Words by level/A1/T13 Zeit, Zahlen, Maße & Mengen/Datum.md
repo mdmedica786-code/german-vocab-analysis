@@ -35,6 +35,9 @@ status: "new"
 > Bitte schreiben Sie noch das Datum auf das Formular.
 > *Please also write the date on the form.*
 
+**Phrases & Expressions:**
+- **Bitte schreiben Sie noch das Datum auf das Formular** — *Please also write the date on the form* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 4a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

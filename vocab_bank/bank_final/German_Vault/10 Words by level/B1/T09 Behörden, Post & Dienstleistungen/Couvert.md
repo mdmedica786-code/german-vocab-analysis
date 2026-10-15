@@ -42,6 +42,9 @@ status: "new"
 > Ich hätte gern 50 Couverts und Briefmarken dazu.
 > *I would like 50 envelopes and stamps too.*
 
+**Phrases & Expressions:**
+- **Ich hätte gern 50 Couverts und Briefmarken dazu** — *I would like 50 envelopes and stamps too* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

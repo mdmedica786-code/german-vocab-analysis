@@ -34,6 +34,9 @@ status: "new"
 > Das Hauptthema der Sitzung ist der Dienstplan.
 > *The main topic of the meeting is the duty roster.*
 
+**Phrases & Expressions:**
+- **Das Hauptthema der Sitzung ist der Dienstplan** — *The main topic of the meeting is the duty roster* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle)
 <!-- bank:end -->
 

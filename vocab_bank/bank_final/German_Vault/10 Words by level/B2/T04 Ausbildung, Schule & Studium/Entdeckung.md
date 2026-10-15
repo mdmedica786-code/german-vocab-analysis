@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Entdeckung des Penicillins rettete viele Leben.
 > *The discovery of penicillin saved many lives.*
+
+**Phrases & Expressions:**
+- **Die Entdeckung des Penicillins rettete viele Leben** — *The discovery of penicillin saved many lives* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

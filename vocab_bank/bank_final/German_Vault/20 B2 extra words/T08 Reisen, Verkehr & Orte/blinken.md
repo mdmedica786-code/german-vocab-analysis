@@ -31,6 +31,11 @@ status: "new"
 > Vor dem Abbiegen muss man blinken.
 > *Before turning you have to indicate.*
 
+**Phrases & Expressions:**
+- **rechts blinken** — *to flash; to indicate (with a car); to blink*
+- **die Lampe blinkt** — *to flash; to indicate (with a car); to blink*
+- **vor dem Abbiegen blinken** — *to flash; to indicate (with a car); to blink*
+
 **Collocations**
 - rechts blinken
 - die Lampe blinkt

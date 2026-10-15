@@ -33,6 +33,12 @@ status: "new"
 > Der Zyklus wiederholt sich jedes Jahr.
 > *The cycle repeats itself every year.*
 
+**Phrases & Expressions:**
+- **Darf ich Ihnen einige Fragen zu Ihrem Zyklus stellen?** — May I ask you a few questions about your cycle? *([[FSP-06 Systemanamnese (Organsysteme)|Gynäkologisch taktvoll fragen]] · B2)*
+- **ein Zyklus von** — *cycle*
+- **einen Zyklus durchlaufen** — *cycle*
+- **ein natürlicher Zyklus** — *cycle*
+
 **Collocations**
 - ein Zyklus von
 - einen Zyklus durchlaufen

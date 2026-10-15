@@ -34,6 +34,9 @@ status: "new"
 > Ich muss neue Klamotten kaufen.
 > *I need to buy new clothes.*
 
+**Phrases & Expressions:**
+- **Ich muss neue Klamotten kaufen** — *I need to buy new clothes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 4b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

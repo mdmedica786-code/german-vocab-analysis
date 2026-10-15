@@ -34,6 +34,9 @@ status: "new"
 > Der Handel mit Computern ist ein gutes Geschäft.
 > *Trading in computers is good business.*
 
+**Phrases & Expressions:**
+- **Der Handel mit Computern ist ein gutes Geschäft** — *Trading in computers is good business* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

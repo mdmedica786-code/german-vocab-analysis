@@ -30,6 +30,11 @@ status: "new"
 > Die Pflanzenbewässerung läuft automatisch.
 > *The plant watering runs automatically.*
 
+**Phrases & Expressions:**
+- **automatische Pflanzenbewässerung** — *plant watering; irrigation*
+- **die Pflanzenbewässerung im Urlaub** — *plant watering; irrigation*
+- **eine Pflanzenbewässerung installieren** — *plant watering; irrigation*
+
 **Collocations**
 - automatische Pflanzenbewässerung
 - die Pflanzenbewässerung im Urlaub

@@ -32,6 +32,12 @@ status: "new"
 > Warum kommt er nicht?
 > **
 
+**Phrases & Expressions:**
+- **der Grund, warum ...** — the reason why ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B1)*
+- **ich weiß nicht, warum ...** — I don't know why ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **der Grund sein, warum ...** — to be the reason why ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B1)*
+- **Zunächst möchte ich kurz erklären, warum ...** — First I would like to briefly explain why ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Aufbau ankündigen]] · B2)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

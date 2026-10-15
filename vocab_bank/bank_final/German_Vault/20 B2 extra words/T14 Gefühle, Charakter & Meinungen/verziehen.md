@@ -31,6 +31,11 @@ status: "new"
 > Er verzog das Gesicht vor Schmerz.
 > *He pulled a face in pain.*
 
+**Phrases & Expressions:**
+- **das Gesicht verziehen** — *to distort; to move away; to spoil*
+- **ein verzogenes Kind** — *to distort; to move away; to spoil*
+- **unbekannt verzogen** — *to distort; to move away; to spoil*
+
 **Collocations**
 - das Gesicht verziehen
 - ein verzogenes Kind

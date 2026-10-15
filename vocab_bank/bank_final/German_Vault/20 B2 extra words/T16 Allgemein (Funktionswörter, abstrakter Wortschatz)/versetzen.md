@@ -31,6 +31,11 @@ status: "new"
 > Er wurde in die Zweigstelle nach Köln versetzt.
 > *He was transferred to the branch in Cologne.*
 
+**Phrases & Expressions:**
+- **in eine andere Abteilung versetzen** — *to transfer; to move; to put (into a state)*
+- **sich in jemanden versetzen** — *to transfer; to move; to put (into a state)*
+- **in Angst versetzen** — *to transfer; to move; to put (into a state)*
+
 **Collocations**
 - in eine andere Abteilung versetzen
 - sich in jemanden versetzen

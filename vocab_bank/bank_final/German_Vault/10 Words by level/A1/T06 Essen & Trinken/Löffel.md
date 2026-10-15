@@ -35,6 +35,9 @@ status: "new"
 > Bitte bringen Sie mir einen Löffel.
 > *Please bring me a spoon.*
 
+**Phrases & Expressions:**
+- **Bitte bringen Sie mir einen Löffel** — *Please bring me a spoon* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 11c ÜB (Zeit mit Freunden) · Goethe word list A2
 <!-- bank:end -->
 

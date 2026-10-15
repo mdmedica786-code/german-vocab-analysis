@@ -30,6 +30,9 @@ status: "new"
 > Wir essen heute in einem chinesischen Restaurant.
 > *Today we are eating in a Chinese restaurant.*
 
+**Phrases & Expressions:**
+- **Wir essen heute in einem chinesischen Restaurant** — *Today we are eating in a Chinese restaurant* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 1a (Gelernt ist gelernt!)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Du kannst fahren, die Ampel ist grün.
 > *You can go, the traffic light is green.*
 
+**Phrases & Expressions:**
+- **Du kannst fahren, die Ampel ist grün** — *You can go, the traffic light is green* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 1 ÜB (Ganz schön mobil) · Goethe word list A2
 <!-- bank:end -->
 

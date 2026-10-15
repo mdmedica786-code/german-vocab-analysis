@@ -34,6 +34,9 @@ status: "new"
 > Zu Pfingsten fahren wir ans Meer.
 > *At Pentecost we go to the sea.*
 
+**Phrases & Expressions:**
+- **Zu Pfingsten fahren wir ans Meer** — *At Pentecost we go to the sea* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Der Professor ist oft zerstreut und vergisst alles.
 > *The professor is often absent-minded and forgets everything.*
 
+**Phrases & Expressions:**
+- **zerstreut sein** — *absent-minded; scattered*
+- **zerstreut wirken** — *absent-minded; scattered*
+- **ein zerstreuter Professor** — *absent-minded; scattered*
+
 **Collocations**
 - zerstreut sein
 - zerstreut wirken

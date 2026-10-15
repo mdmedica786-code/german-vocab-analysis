@@ -34,6 +34,9 @@ status: "new"
 > Der Schweizer spricht vier Sprachen.
 > *The Swiss man speaks four languages.*
 
+**Phrases & Expressions:**
+- **Der Schweizer spricht vier Sprachen** — *The Swiss man speaks four languages* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

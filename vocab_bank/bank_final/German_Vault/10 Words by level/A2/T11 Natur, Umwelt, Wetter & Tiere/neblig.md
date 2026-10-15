@@ -31,6 +31,9 @@ status: "new"
 > Fahr vorsichtig! Es ist neblig.
 > *Drive carefully! It's foggy.*
 
+**Phrases & Expressions:**
+- **Fahr vorsichtig! Es ist neblig** — *Drive carefully! It's foggy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 11a (Umweltfreundlich?) · Goethe word list A2
 <!-- bank:end -->
 

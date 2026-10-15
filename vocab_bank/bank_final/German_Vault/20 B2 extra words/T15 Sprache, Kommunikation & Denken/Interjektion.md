@@ -33,6 +33,11 @@ status: "new"
 > „Aua“ ist eine Interjektion.
 > *"Ouch" is an interjection.*
 
+**Phrases & Expressions:**
+- **eine Interjektion benutzen** — *interjection*
+- **Interjektionen in der Sprache** — *interjection*
+- **eine typische Interjektion** — *interjection*
+
 **Collocations**
 - eine Interjektion benutzen
 - Interjektionen in der Sprache

@@ -35,6 +35,9 @@ status: "new"
 > Diese Zeitschrift kauft Andrea jede Woche.
 > *Andrea buys this magazine every week.*
 
+**Phrases & Expressions:**
+- **Diese Zeitschrift kauft Andrea jede Woche** — *Andrea buys this magazine every week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

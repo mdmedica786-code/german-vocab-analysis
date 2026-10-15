@@ -33,6 +33,11 @@ status: "new"
 > Für den Job sind Eigeninitiative und Teamgeist gefragt.
 > *For the job, initiative and team spirit are required.*
 
+**Phrases & Expressions:**
+- **Eigeninitiative zeigen** — *own initiative; self-motivation*
+- **aus Eigeninitiative** — *own initiative; self-motivation*
+- **Eigeninitiative entwickeln** — *own initiative; self-motivation*
+
 **Collocations**
 - Eigeninitiative zeigen
 - aus Eigeninitiative

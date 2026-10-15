@@ -29,6 +29,11 @@ status: "new"
 > Die römischen Ruinen locken viele Touristen an.
 > *The Roman ruins attract many tourists.*
 
+**Phrases & Expressions:**
+- **das Römische Reich** — *Roman*
+- **römische Zahlen** — *Roman*
+- **römische Ruinen** — *Roman*
+
 **Collocations**
 - das Römische Reich
 - römische Zahlen

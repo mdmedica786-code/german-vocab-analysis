@@ -29,6 +29,11 @@ status: "new"
 > Beklommen betrat er das Büro des Direktors.
 > *Uneasily he entered the director's office.*
 
+**Phrases & Expressions:**
+- **sich beklommen fühlen** — *uneasy; anxious*
+- **beklommen schweigen** — *uneasy; anxious*
+- **beklommenes Gefühl** — *uneasy; anxious*
+
 **Collocations**
 - sich beklommen fühlen
 - beklommen schweigen

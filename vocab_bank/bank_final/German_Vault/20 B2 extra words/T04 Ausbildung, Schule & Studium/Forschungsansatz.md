@@ -33,6 +33,11 @@ status: "new"
 > Der Forschungsansatz der Studie ist neu.
 > *The research approach of the study is new.*
 
+**Phrases & Expressions:**
+- **ein neuer Forschungsansatz** — *research approach*
+- **ein innovativer Forschungsansatz** — *research approach*
+- **den Forschungsansatz erklären** — *research approach*
+
 **Collocations**
 - ein neuer Forschungsansatz
 - ein innovativer Forschungsansatz

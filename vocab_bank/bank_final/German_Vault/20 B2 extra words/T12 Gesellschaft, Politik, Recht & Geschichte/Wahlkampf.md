@@ -33,6 +33,11 @@ status: "new"
 > Im Wahlkampf versprechen die Politiker viel.
 > *In the election campaign the politicians promise a lot.*
 
+**Phrases & Expressions:**
+- **im Wahlkampf** — *election campaign*
+- **einen Wahlkampf führen** — *election campaign*
+- **heißer Wahlkampf** — *election campaign*
+
 **Collocations**
 - im Wahlkampf
 - einen Wahlkampf führen

@@ -29,6 +29,11 @@ status: "new"
 > Kinder lernen Sprachen am besten spielerisch.
 > *Children learn languages best in a playful way.*
 
+**Phrases & Expressions:**
+- **spielerisch lernen** — *playful; in a playful way*
+- **ein spielerischer Ansatz** — *playful; in a playful way*
+- **spielerisch leicht** — *playful; in a playful way*
+
 **Collocations**
 - spielerisch lernen
 - ein spielerischer Ansatz

@@ -32,6 +32,11 @@ status: "new"
 > Er zielte auf das Tor und traf.
 > *He aimed at the goal and scored.*
 
+**Phrases & Expressions:**
+- **auf etwas zielen** — *to aim*
+- **genau zielen** — *to aim*
+- **gezielt fragen** — *to aim*
+
 **Collocations**
 - auf etwas zielen
 - genau zielen

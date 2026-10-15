@@ -34,6 +34,9 @@ status: "new"
 > Haben Sie einen Verbesserungsvorschlag?
 > *Do you have a suggestion for improvement?*
 
+**Phrases & Expressions:**
+- **Haben Sie einen Verbesserungsvorschlag** — *Do you have a suggestion for improvement* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12e (Zusammen leben)
 <!-- bank:end -->
 

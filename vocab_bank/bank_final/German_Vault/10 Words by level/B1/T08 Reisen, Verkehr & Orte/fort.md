@@ -30,6 +30,12 @@ status: "new"
 > Er ist schon fort.
 > *He is already gone.*
 
+**Phrases & Expressions:**
+- **fortfahren** — *away; gone; onwards*
+- **fort sein** — *away; gone; onwards*
+- **und so fort** — *away; gone; onwards*
+- **in einem fort** — *away; gone; onwards*
+
 **Collocations**
 - fortfahren
 - fort sein

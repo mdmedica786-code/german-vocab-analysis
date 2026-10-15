@@ -32,6 +32,10 @@ status: "new"
 > Du musst die Wohnung renovieren? Ich helfe dir. Wir können das gemeinsam machen.
 > **
 
+**Phrases & Expressions:**
+- **Es gibt Behandlungsmöglichkeiten, die wir gemeinsam besprechen können.** — There are treatment options that we can discuss together. *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Hoffnung vermitteln]] · B2)*
+- **Lassen Sie uns gemeinsam ein realistisches Ziel festlegen.** — Let us set a realistic goal together. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Ziele vereinbaren]] · B2)*
+
 **Source:** Netzwerk neu A2 K1 8c (Und was machst du?) · Goethe word list B1
 <!-- bank:end -->
 

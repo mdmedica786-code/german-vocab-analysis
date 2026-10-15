@@ -33,6 +33,11 @@ status: "new"
 > Die Wichtigkeit dieser Regel wird oft unterschätzt.
 > *The importance of this rule is often underestimated.*
 
+**Phrases & Expressions:**
+- **von großer Wichtigkeit** — *importance*
+- **die Wichtigkeit betonen** — *importance*
+- **an Wichtigkeit verlieren** — *importance*
+
 **Collocations**
 - von großer Wichtigkeit
 - die Wichtigkeit betonen

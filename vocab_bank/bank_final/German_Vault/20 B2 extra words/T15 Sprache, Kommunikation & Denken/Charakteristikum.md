@@ -33,6 +33,11 @@ status: "new"
 > Ein wichtiges Charakteristikum dieser Stadt ist ihre Lage am Fluss.
 > *An important characteristic of this city is its location on the river.*
 
+**Phrases & Expressions:**
+- **ein typisches Charakteristikum** — *characteristic; distinctive feature*
+- **ein wichtiges Charakteristikum** — *characteristic; distinctive feature*
+- **Charakteristikum sein** — *characteristic; distinctive feature*
+
 **Collocations**
 - ein typisches Charakteristikum
 - ein wichtiges Charakteristikum

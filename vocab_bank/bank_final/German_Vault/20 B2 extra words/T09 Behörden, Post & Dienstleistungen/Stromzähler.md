@@ -33,6 +33,11 @@ status: "new"
 > Der Stromzähler steht im Keller.
 > *The electricity meter is in the cellar.*
 
+**Phrases & Expressions:**
+- **den Stromzähler ablesen** — *electricity meter*
+- **der Stromzähler läuft** — *electricity meter*
+- **den Zählerstand notieren** — *electricity meter*
+
 **Collocations**
 - den Stromzähler ablesen
 - der Stromzähler läuft

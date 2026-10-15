@@ -30,6 +30,11 @@ status: "new"
 > Wir besuchen im September die Automesse.
 > *We are visiting the motor show in September.*
 
+**Phrases & Expressions:**
+- **auf der Automesse** — *car show; motor show*
+- **die Automesse besuchen** — *car show; motor show*
+- **eine internationale Automesse** — *car show; motor show*
+
 **Collocations**
 - auf der Automesse
 - die Automesse besuchen

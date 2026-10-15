@@ -33,6 +33,11 @@ status: "new"
 > Die Fraktion stimmte geschlossen gegen den Antrag.
 > *The parliamentary group voted unanimously against the motion.*
 
+**Phrases & Expressions:**
+- **die Fraktion der CDU** — *parliamentary group*
+- **in der Fraktion** — *parliamentary group*
+- **Fraktion stimmt zu** — *parliamentary group*
+
 **Collocations**
 - die Fraktion der CDU
 - in der Fraktion

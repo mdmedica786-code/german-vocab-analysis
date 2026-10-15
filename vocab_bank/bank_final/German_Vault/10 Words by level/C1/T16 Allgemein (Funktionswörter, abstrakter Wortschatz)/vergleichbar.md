@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die beiden Preise sind nicht vergleichbar.
 > *The two prices are not comparable.*
+
+**Phrases & Expressions:**
+- **Die beiden Preise sind nicht vergleichbar** — *The two prices are not comparable* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

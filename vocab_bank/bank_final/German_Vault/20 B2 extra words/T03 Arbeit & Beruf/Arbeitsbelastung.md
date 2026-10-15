@@ -33,6 +33,11 @@ status: "new"
 > Die Arbeitsbelastung ist in diesem Jahr stark gestiegen.
 > *The workload has risen sharply this year.*
 
+**Phrases & Expressions:**
+- **eine hohe Arbeitsbelastung** — *workload; work stress*
+- **die Arbeitsbelastung verringern** — *workload; work stress*
+- **unter der Arbeitsbelastung leiden** — *workload; work stress*
+
 **Collocations**
 - eine hohe Arbeitsbelastung
 - die Arbeitsbelastung verringern

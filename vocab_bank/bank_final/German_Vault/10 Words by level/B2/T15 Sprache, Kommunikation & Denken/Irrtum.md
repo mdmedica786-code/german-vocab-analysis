@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das war ein Irrtum.
 > *That was a mistake.*
+
+**Phrases & Expressions:**
+- **Das war ein Irrtum** — *That was a mistake* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -35,6 +35,9 @@ status: "new"
 > Drei Bananen, bitte!
 > *Three bananas, please!*
 
+**Phrases & Expressions:**
+- **Drei Bananen, bitte** — *Three bananas, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

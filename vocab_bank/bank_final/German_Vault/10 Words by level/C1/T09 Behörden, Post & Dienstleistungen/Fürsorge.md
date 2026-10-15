@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Fürsorge für alte Menschen ist wichtig.
 > *Care for the elderly is important.*
+
+**Phrases & Expressions:**
+- **Die Fürsorge für alte Menschen ist wichtig** — *Care for the elderly is important* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

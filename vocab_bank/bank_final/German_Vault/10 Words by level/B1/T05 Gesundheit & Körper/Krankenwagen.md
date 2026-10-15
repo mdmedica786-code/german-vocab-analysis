@@ -35,6 +35,9 @@ status: "new"
 > Wir mussten einen Krankenwagen rufen.
 > *We had to call an ambulance.*
 
+**Phrases & Expressions:**
+- **Wir mussten einen Krankenwagen rufen** — *We had to call an ambulance* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 2a ÜB (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

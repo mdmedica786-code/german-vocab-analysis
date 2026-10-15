@@ -29,6 +29,11 @@ status: "new"
 > Das gilt analog auch für Mieter.
 > *That also applies analogously to tenants.*
 
+**Phrases & Expressions:**
+- **analog zu** — *analogous; analogue*
+- **analog dazu** — *analogous; analogue*
+- **analoge Fälle** — *analogous; analogue*
+
 **Collocations**
 - analog zu
 - analog dazu

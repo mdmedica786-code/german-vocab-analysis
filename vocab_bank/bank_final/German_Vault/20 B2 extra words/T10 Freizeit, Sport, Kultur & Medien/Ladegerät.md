@@ -33,6 +33,11 @@ status: "new"
 > Ich habe mein Ladegerät zu Hause vergessen.
 > *I have forgotten my charger at home.*
 
+**Phrases & Expressions:**
+- **ein Ladegerät benutzen** — *charger*
+- **passendes Ladegerät** — *charger*
+- **Ladegerät anschließen** — *charger*
+
 **Collocations**
 - ein Ladegerät benutzen
 - passendes Ladegerät

@@ -34,6 +34,9 @@ status: "new"
 > Die Tablette bitte in Wasser auflösen.
 > *Please dissolve the tablet in water.*
 
+**Phrases & Expressions:**
+- **Was löst den Schmerz aus?** — What triggers the pain? *([[FSP-03 Schmerzanamnese|Auslösende Faktoren]] · B1)*
+
 **Source:** Netzwerk neu B1 K8 2a ÜB (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

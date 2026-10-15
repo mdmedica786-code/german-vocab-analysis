@@ -33,6 +33,11 @@ status: "new"
 > Die Rekonstruktion des Unfalls dauerte lange.
 > *The reconstruction of the accident took a long time.*
 
+**Phrases & Expressions:**
+- **die Rekonstruktion eines Ereignisses** — *reconstruction*
+- **historische Rekonstruktion** — *reconstruction*
+- **die Rekonstruktion des Tathergangs** — *reconstruction*
+
 **Collocations**
 - die Rekonstruktion eines Ereignisses
 - historische Rekonstruktion

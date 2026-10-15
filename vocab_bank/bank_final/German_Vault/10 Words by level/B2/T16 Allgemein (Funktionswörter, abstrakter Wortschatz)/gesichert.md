@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Finanzierung des Projekts ist gesichert.
 > *The financing of the project is secured.*
+
+**Phrases & Expressions:**
+- **Die Finanzierung des Projekts ist gesichert** — *The financing of the project is secured* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

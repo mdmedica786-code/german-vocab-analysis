@@ -30,6 +30,9 @@ status: "new"
 > Inhaltlich ist der Text sehr gut.
 > *In terms of content the text is very good.*
 
+**Phrases & Expressions:**
+- **Inhaltlich ist der Text sehr gut** — *In terms of content the text is very good* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13c (Arbeitswelt)
 <!-- bank:end -->
 

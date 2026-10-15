@@ -33,6 +33,11 @@ status: "new"
 > Die Rationalität der Entscheidung wurde bezweifelt.
 > *The rationality of the decision was doubted.*
 
+**Phrases & Expressions:**
+- **wirtschaftliche Rationalität** — *rationality*
+- **die Rationalität des Handelns** — *rationality*
+- **auf Rationalität setzen** — *rationality*
+
 **Collocations**
 - wirtschaftliche Rationalität
 - die Rationalität des Handelns

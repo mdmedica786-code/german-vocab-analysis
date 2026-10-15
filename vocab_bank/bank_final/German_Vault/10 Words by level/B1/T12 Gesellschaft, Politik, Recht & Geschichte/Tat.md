@@ -34,6 +34,9 @@ status: "new"
 > Dieser Mensch hat mit vielen guten Taten geholfen.
 > *This person helped with many good deeds.*
 
+**Phrases & Expressions:**
+- **in der Tat** — indeed *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · C1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

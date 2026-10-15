@@ -26,6 +26,11 @@ status: "new"
 > Unausgeschlafen saß er am Frühstückstisch.
 > *Not well rested, he sat at the breakfast table.*
 
+**Phrases & Expressions:**
+- **unausgeschlafen aussehen** — *sleep-deprived; not well rested*
+- **völlig unausgeschlafen** — *sleep-deprived; not well rested*
+- **unausgeschlafen sein** — *sleep-deprived; not well rested*
+
 **Collocations**
 - unausgeschlafen aussehen
 - völlig unausgeschlafen

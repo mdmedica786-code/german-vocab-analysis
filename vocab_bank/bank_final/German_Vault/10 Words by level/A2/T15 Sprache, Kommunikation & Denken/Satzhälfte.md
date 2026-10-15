@@ -31,6 +31,9 @@ status: "new"
 > Verbinden Sie die erste mit der zweiten Satzhälfte.
 > *Connect the first with the second half of the sentence.*
 
+**Phrases & Expressions:**
+- **Verbinden Sie die erste mit der zweiten Satzhälfte** — *Connect the first with the second half of the sentence* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 7d (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

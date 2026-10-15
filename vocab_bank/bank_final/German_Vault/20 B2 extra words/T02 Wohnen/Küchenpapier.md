@@ -33,6 +33,11 @@ status: "new"
 > Wisch das Wasser mit Küchenpapier auf!
 > *Wipe up the water with kitchen roll!*
 
+**Phrases & Expressions:**
+- **ein Blatt Küchenpapier** — *kitchen roll*
+- **mit Küchenpapier abtupfen** — *kitchen roll*
+- **Küchenpapier kaufen** — *kitchen roll*
+
 **Collocations**
 - ein Blatt Küchenpapier
 - mit Küchenpapier abtupfen

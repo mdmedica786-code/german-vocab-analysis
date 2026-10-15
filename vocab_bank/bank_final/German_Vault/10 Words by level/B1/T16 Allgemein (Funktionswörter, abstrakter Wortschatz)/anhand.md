@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Anhand der Fotos kann man das erkennen.
 > *You can recognise that from the photos.*
+
+**Phrases & Expressions:**
+- **Anhand der Fotos kann man das erkennen** — *You can recognise that from the photos* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

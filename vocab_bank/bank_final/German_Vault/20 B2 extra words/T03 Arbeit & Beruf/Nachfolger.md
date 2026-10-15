@@ -33,6 +33,11 @@ status: "new"
 > Der Nachfolger wurde schon gewählt.
 > *The successor has already been elected.*
 
+**Phrases & Expressions:**
+- **einen Nachfolger suchen** — *successor*
+- **der Nachfolger des Chefs** — *successor*
+- **Nachfolger und Vorgänger** — *successor*
+
 **Collocations**
 - einen Nachfolger suchen
 - der Nachfolger des Chefs

@@ -31,6 +31,10 @@ status: "new"
 > Neue Daten widerlegen die alte Theorie.
 > *New data refute the old theory.*
 
+**Phrases & Expressions:**
+- **eine Behauptung widerlegen** — *to refute; to disprove*
+- **eine Theorie widerlegen** — *to refute; to disprove*
+
 **Collocations**
 - eine Behauptung widerlegen
 - eine Theorie widerlegen

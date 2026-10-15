@@ -34,6 +34,9 @@ status: "new"
 > Auf dem Marktplatz steht ein alter Brunnen.
 > *There is an old fountain on the market square.*
 
+**Phrases & Expressions:**
+- **Auf dem Marktplatz steht ein alter Brunnen** — *There is an old fountain on the market square* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 1b (Kunststücke)
 <!-- bank:end -->
 

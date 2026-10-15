@@ -29,6 +29,11 @@ status: "new"
 > Das Kind war den ganzen Tag brav.
 > *The child was well-behaved all day.*
 
+**Phrases & Expressions:**
+- **ein braves Kind** — *well-behaved; good; obedient*
+- **brav sein** — *well-behaved; good; obedient*
+- **brav essen** — *well-behaved; good; obedient*
+
 **Collocations**
 - ein braves Kind
 - brav sein

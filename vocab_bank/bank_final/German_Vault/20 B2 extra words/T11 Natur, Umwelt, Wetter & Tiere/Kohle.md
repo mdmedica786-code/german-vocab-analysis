@@ -33,6 +33,11 @@ status: "new"
 > Früher heizte man mit Kohle.
 > *In the past people heated with coal.*
 
+**Phrases & Expressions:**
+- **Kohle abbauen** — *coal*
+- **mit Kohle heizen** — *coal*
+- **der Ausstieg aus der Kohle** — *coal*
+
 **Collocations**
 - Kohle abbauen
 - mit Kohle heizen

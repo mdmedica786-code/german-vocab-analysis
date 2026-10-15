@@ -31,6 +31,12 @@ status: "new"
 > Die Gäste sind zahlreich gekommen.
 > *The guests came in large numbers.*
 
+**Phrases & Expressions:**
+- **zahlreiche Gäste** — *numerous*
+- **zahlreich erscheinen** — *numerous*
+- **zahlreiche Beispiele** — *numerous*
+- **in zahlreichen Fällen** — *numerous*
+
 **Collocations**
 - zahlreiche Gäste
 - zahlreich erscheinen

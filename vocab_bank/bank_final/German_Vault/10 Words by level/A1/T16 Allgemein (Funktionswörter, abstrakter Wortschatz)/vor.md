@@ -33,6 +33,9 @@ status: "new"
 > Vor dem Nomen steht der Artikel.
 > *The article stands before the noun.*
 
+**Phrases & Expressions:**
+- **Vor dem Nomen steht der Artikel** — *The article stands before the noun* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 5a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

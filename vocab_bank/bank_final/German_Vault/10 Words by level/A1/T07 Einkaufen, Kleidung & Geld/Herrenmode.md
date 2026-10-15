@@ -34,6 +34,9 @@ status: "new"
 > Die Herrenmode ist im zweiten Stock.
 > *Men's fashion is on the second floor.*
 
+**Phrases & Expressions:**
+- **Die Herrenmode ist im zweiten Stock** — *Men's fashion is on the second floor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

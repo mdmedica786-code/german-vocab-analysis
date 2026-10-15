@@ -34,6 +34,9 @@ status: "new"
 > Wir lernen im Kurs Tango tanzen.
 > *We're learning to dance the tango in the course.*
 
+**Phrases & Expressions:**
+- **Wir lernen im Kurs Tango tanzen** — *We're learning to dance the tango in the course* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle)
 <!-- bank:end -->
 

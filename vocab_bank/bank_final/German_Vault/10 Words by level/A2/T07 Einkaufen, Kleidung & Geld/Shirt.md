@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Ich trage heute ein weißes Shirt.
 > *I am wearing a white T-shirt today.*
+
+**Phrases & Expressions:**
+- **Ich trage heute ein weißes Shirt** — *I am wearing a white T-shirt today* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

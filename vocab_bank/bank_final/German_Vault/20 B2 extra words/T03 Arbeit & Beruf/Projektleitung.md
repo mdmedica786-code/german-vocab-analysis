@@ -33,6 +33,11 @@ status: "new"
 > Die Projektleitung liegt bei Frau Weber.
 > *The project management lies with Ms Weber.*
 
+**Phrases & Expressions:**
+- **die Projektleitung übernehmen** — *project management; project leadership*
+- **unter der Projektleitung von** — *project management; project leadership*
+- **die Projektleitung abgeben** — *project management; project leadership*
+
 **Collocations**
 - die Projektleitung übernehmen
 - unter der Projektleitung von

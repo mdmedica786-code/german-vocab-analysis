@@ -35,6 +35,9 @@ status: "new"
 > Ich habe kein Netz.
 > *I don't have any reception.*
 
+**Phrases & Expressions:**
+- **Ich habe kein Netz** — *I don't have any reception* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 6a (Arbeitsalltag) · Goethe word list B1
 <!-- bank:end -->
 

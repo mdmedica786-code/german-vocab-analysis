@@ -33,6 +33,11 @@ status: "new"
 > Seine Denkweise unterscheidet sich stark von meiner.
 > *His way of thinking differs greatly from mine.*
 
+**Phrases & Expressions:**
+- **eine andere Denkweise** — *way of thinking; mentality*
+- **die Denkweise ändern** — *way of thinking; mentality*
+- **eine offene Denkweise** — *way of thinking; mentality*
+
 **Collocations**
 - eine andere Denkweise
 - die Denkweise ändern

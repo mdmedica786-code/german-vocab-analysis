@@ -33,6 +33,11 @@ status: "new"
 > Lesen ist meine liebste Freizeitbeschäftigung.
 > *Reading is my favourite leisure activity.*
 
+**Phrases & Expressions:**
+- **eine Freizeitbeschäftigung suchen** — *leisure activity; hobby*
+- **eine sinnvolle Freizeitbeschäftigung** — *leisure activity; hobby*
+- **Freizeitbeschäftigungen für Kinder** — *leisure activity; hobby*
+
 **Collocations**
 - eine Freizeitbeschäftigung suchen
 - eine sinnvolle Freizeitbeschäftigung

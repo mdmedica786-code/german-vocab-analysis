@@ -29,6 +29,11 @@ status: "new"
 > Sie hilft selbstlos in der Flüchtlingshilfe.
 > *She helps selflessly in refugee assistance.*
 
+**Phrases & Expressions:**
+- **selbstlos helfen** — *selfless*
+- **eine selbstlose Tat** — *selfless*
+- **selbstlos handeln** — *selfless*
+
 **Collocations**
 - selbstlos helfen
 - eine selbstlose Tat

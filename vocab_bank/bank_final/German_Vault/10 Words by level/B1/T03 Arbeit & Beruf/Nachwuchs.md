@@ -34,6 +34,9 @@ status: "new"
 > Der Nachwuchs bei Forschern soll gefördert werden.
 > *Young researchers are to be supported.*
 
+**Phrases & Expressions:**
+- **Der Nachwuchs bei Forschern soll gefördert werden** — *Young researchers are to be supported* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

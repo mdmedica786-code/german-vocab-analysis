@@ -31,6 +31,11 @@ status: "new"
 > Man darf die Gefahren nicht verharmlosen.
 > *One must not play down the dangers.*
 
+**Phrases & Expressions:**
+- **eine Gefahr verharmlosen** — *to play down; to trivialise*
+- **die Folgen verharmlosen** — *to play down; to trivialise*
+- **ein Problem verharmlosen** — *to play down; to trivialise*
+
 **Collocations**
 - eine Gefahr verharmlosen
 - die Folgen verharmlosen

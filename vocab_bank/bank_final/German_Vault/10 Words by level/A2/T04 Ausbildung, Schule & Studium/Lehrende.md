@@ -32,6 +32,9 @@ status: "new"
 > Die Lehrenden bereiten den Unterricht vor.
 > *The teachers prepare the lessons.*
 
+**Phrases & Expressions:**
+- **Die Lehrenden bereiten den Unterricht vor** — *The teachers prepare the lessons* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 10a (Gelernt ist gelernt!)
 <!-- bank:end -->
 

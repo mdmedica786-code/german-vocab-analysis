@@ -33,6 +33,12 @@ status: "new"
 > Er trug eine bunte Maske auf der Party.
 > *He wore a colourful mask at the party.*
 
+**Phrases & Expressions:**
+- **Geben Sie bitte vier Liter Sauerstoff über die Maske.** — Please give four litres of oxygen via mask. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Anweisung geben]] · B2)*
+- **eine Maske tragen** — *mask*
+- **die Maske fallen lassen** — *mask*
+- **hinter der Maske** — *mask*
+
 **Collocations**
 - eine Maske tragen
 - die Maske fallen lassen

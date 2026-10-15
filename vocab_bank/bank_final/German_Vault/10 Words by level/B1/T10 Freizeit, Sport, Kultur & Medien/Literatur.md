@@ -34,6 +34,12 @@ status: "new"
 > Ich interessiere mich für Literatur.
 > *I am interested in literature.*
 
+**Phrases & Expressions:**
+- **moderne Literatur** — *literature*
+- **deutsche Literatur** — *literature*
+- **Literatur lesen** — *literature*
+- **Literatur studieren** — *literature*
+
 **Collocations**
 - moderne Literatur
 - deutsche Literatur

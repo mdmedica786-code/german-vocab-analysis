@@ -34,6 +34,9 @@ status: "new"
 > Diese Liedzeile kenne ich auswendig.
 > *I know this line of the song by heart.*
 
+**Phrases & Expressions:**
+- **Diese Liedzeile kenne ich auswendig** — *I know this line of the song by heart* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9c (Blick nach vorn)
 <!-- bank:end -->
 

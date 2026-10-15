@@ -32,6 +32,11 @@ status: "new"
 > Sie legte auf, ohne sich zu verabschieden.
 > *She hung up without saying goodbye.*
 
+**Phrases & Expressions:**
+- **den Hörer auflegen** — *to hang up (phone); to put on; to publish (print run)*
+- **eine Schallplatte auflegen** — *to hang up (phone); to put on; to publish (print run)*
+- **ein Buch neu auflegen** — *to hang up (phone); to put on; to publish (print run)*
+
 **Collocations**
 - den Hörer auflegen
 - eine Schallplatte auflegen

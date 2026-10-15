@@ -26,6 +26,11 @@ status: "new"
 > In dem Brief kommt seine Enttäuschung zum Ausdruck.
 > *His disappointment comes across in the letter.*
 
+**Phrases & Expressions:**
+- **deutlich zum Ausdruck kommen** — *to be expressed; to come across*
+- **Gefühle kommen zum Ausdruck** — *to be expressed; to come across*
+- **zum Ausdruck bringen** — *to be expressed; to come across*
+
 **Collocations**
 - deutlich zum Ausdruck kommen
 - Gefühle kommen zum Ausdruck

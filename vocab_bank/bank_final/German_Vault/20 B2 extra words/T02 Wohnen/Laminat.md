@@ -33,6 +33,11 @@ status: "new"
 > Im Flur liegt Laminat, das leicht zu reinigen ist.
 > *There is laminate flooring in the hallway, which is easy to clean.*
 
+**Phrases & Expressions:**
+- **Laminat verlegen** — *laminate flooring*
+- **Laminat im Flur** — *laminate flooring*
+- **pflegeleichtes Laminat** — *laminate flooring*
+
 **Collocations**
 - Laminat verlegen
 - Laminat im Flur

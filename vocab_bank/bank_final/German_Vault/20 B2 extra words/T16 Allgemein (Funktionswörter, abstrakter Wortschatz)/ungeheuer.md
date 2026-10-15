@@ -29,6 +29,11 @@ status: "new"
 > Die Anstrengung war ungeheuer.
 > *The effort was tremendous.*
 
+**Phrases & Expressions:**
+- **ungeheuer viel** — *tremendous; enormous*
+- **ein ungeheurer Aufwand** — *tremendous; enormous*
+- **ungeheuer wichtig** — *tremendous; enormous*
+
 **Collocations**
 - ungeheuer viel
 - ein ungeheurer Aufwand

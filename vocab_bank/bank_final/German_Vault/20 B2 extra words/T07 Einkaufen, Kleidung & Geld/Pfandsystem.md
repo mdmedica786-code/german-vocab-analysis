@@ -33,6 +33,11 @@ status: "new"
 > Das Pfandsystem für Flaschen funktioniert in Deutschland sehr gut.
 > *The deposit system for bottles works very well in Germany.*
 
+**Phrases & Expressions:**
+- **ein Pfandsystem einführen** — *deposit system*
+- **das Pfandsystem für Einwegflaschen** — *deposit system*
+- **Pfandsystem nutzen** — *deposit system*
+
 **Collocations**
 - ein Pfandsystem einführen
 - das Pfandsystem für Einwegflaschen

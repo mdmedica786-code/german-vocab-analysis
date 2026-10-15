@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Apotheke liegt an der Hauptstraße.
 > *The pharmacy is on the main street.*
+
+**Phrases & Expressions:**
+- **Ich wohne in der Hauptstraße 12, im dritten Stock.** — I live at Hauptstraße 12, on the third floor. *([[B1-18 Einladen, zusagen und absagen|Zeit und Ort nennen]] · B1)*
 <!-- bank:end -->
 
 ## My notes

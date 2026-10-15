@@ -34,6 +34,9 @@ status: "new"
 > Die Betonwand ist grau und kalt.
 > *The concrete wall is grey and cold.*
 
+**Phrases & Expressions:**
+- **Die Betonwand ist grau und kalt** — *The concrete wall is grey and cold* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 1b (Kunststücke)
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Er bestellt am Tresen ein Bier.
 > *He orders a beer at the counter.*
+
+**Phrases & Expressions:**
+- **Er bestellt am Tresen ein Bier** — *He orders a beer at the counter* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

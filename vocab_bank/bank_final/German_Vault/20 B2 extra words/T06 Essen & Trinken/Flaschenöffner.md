@@ -33,6 +33,11 @@ status: "new"
 > Gib mir mal den Flaschenöffner, ich will das Bier aufmachen.
 > *Give me the bottle opener; I want to open the beer.*
 
+**Phrases & Expressions:**
+- **mit dem Flaschenöffner öffnen** — *bottle opener*
+- **einen Flaschenöffner suchen** — *bottle opener*
+- **der Flaschenöffner liegt in der Schublade** — *bottle opener*
+
 **Collocations**
 - mit dem Flaschenöffner öffnen
 - einen Flaschenöffner suchen

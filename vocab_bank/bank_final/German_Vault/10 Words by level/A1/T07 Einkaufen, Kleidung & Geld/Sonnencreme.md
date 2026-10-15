@@ -34,6 +34,9 @@ status: "new"
 > Vergiss die Sonnencreme nicht!
 > *Don't forget the sunscreen!*
 
+**Phrases & Expressions:**
+- **Vergiss die Sonnencreme nicht** — *Don't forget the sunscreen* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1b (Ab in den Urlaub!)
 <!-- bank:end -->
 

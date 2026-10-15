@@ -33,6 +33,11 @@ status: "new"
 > Im Keller hat sich Ungeziefer eingenistet.
 > *Vermin have taken up residence in the cellar.*
 
+**Phrases & Expressions:**
+- **Ungeziefer bekämpfen** — *vermin; pests*
+- **von Ungeziefer befallen** — *vermin; pests*
+- **Ungeziefer im Haus** — *vermin; pests*
+
 **Collocations**
 - Ungeziefer bekämpfen
 - von Ungeziefer befallen

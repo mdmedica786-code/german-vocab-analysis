@@ -34,6 +34,9 @@ status: "new"
 > Ist die Tasche aus Leder?
 > *Is the bag made of leather?*
 
+**Phrases & Expressions:**
+- **Ist die Tasche aus Leder** — *Is the bag made of leather* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

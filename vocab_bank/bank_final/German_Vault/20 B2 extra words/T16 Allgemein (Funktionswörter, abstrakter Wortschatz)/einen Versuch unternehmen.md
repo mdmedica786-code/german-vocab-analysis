@@ -26,6 +26,9 @@ status: "new"
 > Sie unternahm einen letzten Versuch, ihn zu überzeugen.
 > *She made a last attempt to convince him.*
 
+**Phrases & Expressions:**
+- **einen Versuch wagen** — *to make an attempt*
+
 **Collocations**
 - einen Versuch wagen
 

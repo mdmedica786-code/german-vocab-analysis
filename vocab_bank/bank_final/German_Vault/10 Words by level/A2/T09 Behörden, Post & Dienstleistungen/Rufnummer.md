@@ -35,6 +35,9 @@ status: "new"
 > Wir möchten Sie gerne anrufen. Wie ist Ihre Rufnummer?
 > *We'd like to call you. What is your phone number?*
 
+**Phrases & Expressions:**
+- **Wir möchten Sie gerne anrufen. Wie ist Ihre Rufnummer** — *We'd like to call you. What is your phone number* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Ich bin Anwältin und oft am Gericht.
 > *I'm a lawyer and I'm often in court.*
 
+**Phrases & Expressions:**
+- **Ich bin Anwältin und oft am Gericht** — *I'm a lawyer and I'm often in court* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

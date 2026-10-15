@@ -35,6 +35,9 @@ status: "new"
 > Das Medikament bekommen Sie in der Apotheke.
 > *You can get the medicine at the pharmacy.*
 
+**Phrases & Expressions:**
+- **Das Medikament bekommen Sie in der Apotheke** — *You can get the medicine at the pharmacy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 8b (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

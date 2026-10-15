@@ -33,6 +33,11 @@ status: "new"
 > Der Fokus liegt auf der Qualität.
 > *The focus is on quality.*
 
+**Phrases & Expressions:**
+- **im Fokus stehen** — *focus*
+- **den Fokus legen auf** — *focus*
+- **der Fokus liegt auf** — *focus*
+
 **Collocations**
 - im Fokus stehen
 - den Fokus legen auf

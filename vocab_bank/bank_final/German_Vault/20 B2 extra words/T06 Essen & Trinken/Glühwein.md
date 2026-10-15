@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Weihnachtsmarkt trinken wir Glühwein.
 > *At the Christmas market we drink mulled wine.*
 
+**Phrases & Expressions:**
+- **Glühwein trinken** — *mulled wine*
+- **heißer Glühwein** — *mulled wine*
+- **Glühwein mit Zimt** — *mulled wine*
+
 **Collocations**
 - Glühwein trinken
 - heißer Glühwein

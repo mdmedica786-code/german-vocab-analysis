@@ -34,6 +34,9 @@ status: "new"
 > Spielwaren gibt es im vierten Stock.
 > *Toys are on the fourth floor.*
 
+**Phrases & Expressions:**
+- **Spielwaren gibt es im vierten Stock** — *Toys are on the fourth floor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

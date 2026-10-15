@@ -34,6 +34,9 @@ status: "new"
 > Die Abgeordnete hält eine Rede im Bundestag.
 > *The member of parliament gives a speech in the Bundestag.*
 
+**Phrases & Expressions:**
+- **Die Abgeordnete hält eine Rede im Bundestag** — *The member of parliament gives a speech in the Bundestag* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander)
 <!-- bank:end -->
 

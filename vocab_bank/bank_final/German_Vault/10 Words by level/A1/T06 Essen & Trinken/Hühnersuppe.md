@@ -34,6 +34,9 @@ status: "new"
 > Bei Erkältung hilft Hühnersuppe.
 > *Chicken soup helps with a cold.*
 
+**Phrases & Expressions:**
+- **Bei Erkältung hilft Hühnersuppe** — *Chicken soup helps with a cold* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 12a (Fit und gesund)
 <!-- bank:end -->
 

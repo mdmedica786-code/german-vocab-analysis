@@ -35,6 +35,9 @@ status: "new"
 > Welche Früchte kann man essen?
 > *Which fruits can one eat?*
 
+**Phrases & Expressions:**
+- **Welche Früchte kann man essen** — *Which fruits can one eat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 2 ÜB (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

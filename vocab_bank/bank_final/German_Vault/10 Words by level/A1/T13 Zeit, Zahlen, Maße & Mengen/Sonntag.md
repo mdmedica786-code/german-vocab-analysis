@@ -35,6 +35,9 @@ status: "new"
 > Am Sonntag schlafe ich lange.
 > *On Sunday I sleep in.*
 
+**Phrases & Expressions:**
+- **Am Sonntag schlafe ich lange** — *On Sunday I sleep in* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 4a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

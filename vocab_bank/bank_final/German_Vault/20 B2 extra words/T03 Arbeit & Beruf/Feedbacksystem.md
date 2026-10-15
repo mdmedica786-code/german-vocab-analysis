@@ -30,6 +30,11 @@ status: "new"
 > Die Firma führt ein neues Feedbacksystem ein.
 > *The company is introducing a new feedback system.*
 
+**Phrases & Expressions:**
+- **ein Feedbacksystem einführen** — *feedback system*
+- **ein Feedbacksystem nutzen** — *feedback system*
+- **ein digitales Feedbacksystem** — *feedback system*
+
 **Collocations**
 - ein Feedbacksystem einführen
 - ein Feedbacksystem nutzen

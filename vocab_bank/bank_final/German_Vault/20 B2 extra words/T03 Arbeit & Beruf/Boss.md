@@ -33,6 +33,11 @@ status: "new"
 > Der Boss hat uns heute früher nach Hause geschickt.
 > *The boss sent us home early today.*
 
+**Phrases & Expressions:**
+- **der Boss** — *boss (colloquial)*
+- **der große Boss** — *boss (colloquial)*
+- **mein Boss** — *boss (colloquial)*
+
 **Collocations**
 - der Boss
 - der große Boss

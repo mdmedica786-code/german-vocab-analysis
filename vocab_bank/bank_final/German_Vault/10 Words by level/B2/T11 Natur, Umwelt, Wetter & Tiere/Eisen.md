@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Eisen ist ein Metall.
 > *Iron is a metal.*
+
+**Phrases & Expressions:**
+- **Eisen ist ein Metall** — *Iron is a metal* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Ich spreche namens der ganzen Familie.
 > *I am speaking on behalf of the whole family.*
+
+**Phrases & Expressions:**
+- **Ich spreche namens der ganzen Familie** — *I am speaking on behalf of the whole family* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

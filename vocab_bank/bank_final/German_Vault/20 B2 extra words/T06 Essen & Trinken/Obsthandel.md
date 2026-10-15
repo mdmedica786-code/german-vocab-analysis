@@ -33,6 +33,11 @@ status: "new"
 > Er arbeitet seit Jahren im Obsthandel.
 > *He has worked in the fruit trade for years.*
 
+**Phrases & Expressions:**
+- **im Obsthandel arbeiten** — *fruit trade; fruit business*
+- **der Obsthandel in der Region** — *fruit trade; fruit business*
+- **der Obsthandel am Markt** — *fruit trade; fruit business*
+
 **Collocations**
 - im Obsthandel arbeiten
 - der Obsthandel in der Region

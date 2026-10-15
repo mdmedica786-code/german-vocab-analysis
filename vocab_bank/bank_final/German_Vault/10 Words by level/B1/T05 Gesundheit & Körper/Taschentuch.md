@@ -35,6 +35,9 @@ status: "new"
 > Hast du ein Taschentuch für mich?
 > *Do you have a tissue for me?*
 
+**Phrases & Expressions:**
+- **Hast du ein Taschentuch für mich** — *Do you have a tissue for me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 10a (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

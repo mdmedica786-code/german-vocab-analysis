@@ -33,6 +33,11 @@ status: "new"
 > Die Zusammensetzung der Gruppe hat sich geändert.
 > *The make-up of the group has changed.*
 
+**Phrases & Expressions:**
+- **die Zusammensetzung des Teams** — *composition; make-up*
+- **chemische Zusammensetzung** — *composition; make-up*
+- **in neuer Zusammensetzung** — *composition; make-up*
+
 **Collocations**
 - die Zusammensetzung des Teams
 - chemische Zusammensetzung

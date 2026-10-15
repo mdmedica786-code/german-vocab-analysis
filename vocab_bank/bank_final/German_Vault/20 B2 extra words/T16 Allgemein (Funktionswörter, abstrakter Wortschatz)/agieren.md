@@ -31,6 +31,11 @@ status: "new"
 > Die Firma agiert auf dem internationalen Markt.
 > *The company operates on the international market.*
 
+**Phrases & Expressions:**
+- **geschickt agieren** — *to act; to operate*
+- **auf dem Markt agieren** — *to act; to operate*
+- **vorsichtig agieren** — *to act; to operate*
+
 **Collocations**
 - geschickt agieren
 - auf dem Markt agieren

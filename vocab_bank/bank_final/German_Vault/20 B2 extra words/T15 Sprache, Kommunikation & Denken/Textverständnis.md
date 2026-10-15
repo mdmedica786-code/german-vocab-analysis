@@ -33,6 +33,11 @@ status: "new"
 > Zum Textverständnis gehört es, Hauptaussagen zu erkennen.
 > *Part of text comprehension is recognising the main points.*
 
+**Phrases & Expressions:**
+- **das Textverständnis prüfen** — *text comprehension*
+- **gutes Textverständnis** — *text comprehension*
+- **Aufgaben zum Textverständnis** — *text comprehension*
+
 **Collocations**
 - das Textverständnis prüfen
 - gutes Textverständnis

@@ -34,6 +34,9 @@ status: "new"
 > Die Renovierung der Wohnung dauert zwei Wochen.
 > *The renovation of the flat takes two weeks.*
 
+**Phrases & Expressions:**
+- **Die Renovierung der Wohnung dauert zwei Wochen** — *The renovation of the flat takes two weeks* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 10 (Stadt, Land, Fluss)
 <!-- bank:end -->
 

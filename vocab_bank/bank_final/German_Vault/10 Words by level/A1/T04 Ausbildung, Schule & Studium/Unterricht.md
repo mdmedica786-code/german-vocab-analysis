@@ -35,6 +35,9 @@ status: "new"
 > Ich gebe Unterricht an der Uni.
 > *I give lessons at the university.*
 
+**Phrases & Expressions:**
+- **Ich gebe Unterricht an der Uni** — *I give lessons at the university* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 1a (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

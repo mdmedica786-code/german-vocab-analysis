@@ -32,6 +32,9 @@ status: "new"
 > Kinder zu erziehen ist nicht leicht.
 > *Bringing up children is not easy.*
 
+**Phrases & Expressions:**
+- **Kinder zu erziehen ist nicht leicht** — *Bringing up children is not easy* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

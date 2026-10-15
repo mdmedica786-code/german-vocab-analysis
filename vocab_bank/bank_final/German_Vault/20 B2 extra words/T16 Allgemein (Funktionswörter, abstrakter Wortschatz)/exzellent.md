@@ -29,6 +29,11 @@ status: "new"
 > Sie spricht exzellent Deutsch.
 > *She speaks excellent German.*
 
+**Phrases & Expressions:**
+- **exzellent sein** — *excellent; outstanding*
+- **eine exzellente Leistung** — *excellent; outstanding*
+- **exzellent kochen** — *excellent; outstanding*
+
 **Collocations**
 - exzellent sein
 - eine exzellente Leistung

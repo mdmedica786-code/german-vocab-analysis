@@ -34,6 +34,9 @@ status: "new"
 > Die Wertsachen liegen im Schließfach.
 > *The valuables are in the locker.*
 
+**Phrases & Expressions:**
+- **Die Wertsachen liegen im Schließfach** — *The valuables are in the locker* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

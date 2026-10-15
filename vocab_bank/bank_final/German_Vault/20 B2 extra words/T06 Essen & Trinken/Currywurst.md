@@ -33,6 +33,11 @@ status: "new"
 > In Berlin gehört die Currywurst zu den Fast-Food-Klassikern.
 > *In Berlin the currywurst is one of the fast-food classics.*
 
+**Phrases & Expressions:**
+- **eine Currywurst mit Pommes** — *sausage with curry ketchup*
+- **Currywurst essen** — *sausage with curry ketchup*
+- **Currywurst bestellen** — *sausage with curry ketchup*
+
 **Collocations**
 - eine Currywurst mit Pommes
 - Currywurst essen

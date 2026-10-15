@@ -31,6 +31,9 @@ status: "new"
 > Meistens trinke ich zum Frühstück nur einen Kaffee.
 > *Most of the time I only have a coffee for breakfast.*
 
+**Phrases & Expressions:**
+- **Meistens trinke ich zum Frühstück nur einen Kaffee** — *Most of the time I only have a coffee for breakfast* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 7a (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

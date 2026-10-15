@@ -34,6 +34,14 @@ status: "new"
 > Ich denke, du hast recht.
 > *I think you're right.*
 
+**Phrases & Expressions:**
+- **ich denke, dass ...** — I think that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B1)*
+- **denken Sie an ...** — think of ...; remember ... *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B1)*
+- **gedacht, dass ...** — thought that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B1)*
+- **ich dachte, ...** — I thought ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **denke ich** — I think *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B1)*
+- **ich hätte nie gedacht, dass ...** — I would never have thought that ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B2)*
+
 **Collocations**
 - an etwas denken
 - an jemanden denken

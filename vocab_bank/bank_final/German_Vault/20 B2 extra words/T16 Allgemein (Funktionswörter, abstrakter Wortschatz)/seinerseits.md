@@ -29,6 +29,11 @@ status: "new"
 > Er hat seinerseits dem Vorschlag zugestimmt.
 > *For his part he agreed to the proposal.*
 
+**Phrases & Expressions:**
+- **seinerseits** — *for his part; on his side*
+- **meinerseits** — *for his part; on his side*
+- **unsererseits** — *for his part; on his side*
+
 **Collocations**
 - seinerseits
 - meinerseits

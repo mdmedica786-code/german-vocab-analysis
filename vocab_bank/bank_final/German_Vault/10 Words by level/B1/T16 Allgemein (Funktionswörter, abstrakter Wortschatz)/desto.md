@@ -28,6 +28,11 @@ status: "new"
 > [!example] Beispiel
 > Je mehr ich übe, desto besser werde ich.
 > *The more I practise, the better I get.*
+
+**Phrases & Expressions:**
+- **je ..., desto ...** — the more ..., the more ... *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B1)*
+- **je mehr ..., desto ...** — the more ..., the more ... *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B1)*
+- **Je mehr ich übe, desto besser ...** — The more I practise, the better ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Zunehmende Wirkung]] · B1)*
 <!-- bank:end -->
 
 ## My notes

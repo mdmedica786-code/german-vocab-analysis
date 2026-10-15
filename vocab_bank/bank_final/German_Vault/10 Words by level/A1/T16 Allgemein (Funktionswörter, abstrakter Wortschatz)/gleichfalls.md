@@ -31,6 +31,9 @@ status: "new"
 > Schöne Feiertage! – Danke, gleichfalls.
 > *Happy holidays! – Thanks, you too.*
 
+**Phrases & Expressions:**
+- **Schöne Feiertage! – Danke, gleichfalls** — *Happy holidays! – Thanks, you too* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 7a (Guten Appetit!) · Goethe word list B1
 <!-- bank:end -->
 

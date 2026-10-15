@@ -26,6 +26,11 @@ status: "new"
 > Die Verantwortlichen werden zur Verantwortung gezogen.
 > *Those responsible are held accountable.*
 
+**Phrases & Expressions:**
+- **jemanden zur Verantwortung ziehen** — *to hold accountable*
+- **zur Rechenschaft ziehen** — *to hold accountable*
+- **zur Verantwortung gezogen werden** — *to hold accountable*
+
 **Collocations**
 - jemanden zur Verantwortung ziehen
 - zur Rechenschaft ziehen

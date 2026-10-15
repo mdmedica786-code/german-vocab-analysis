@@ -33,6 +33,12 @@ status: "new"
 > Ich begleite dich ein Stück.
 > *I'll walk with you part of the way.*
 
+**Phrases & Expressions:**
+- **jemanden begleiten** — *to accompany*
+- **ein Stück begleiten** — *to accompany*
+- **musikalisch begleiten** — *to accompany*
+- **einen Patienten begleiten** — *to accompany*
+
 **Collocations**
 - jemanden begleiten
 - ein Stück begleiten

@@ -35,6 +35,9 @@ status: "new"
 > In dieser Sache gibt es keine Neuigkeiten.
 > *There is no news in this matter.*
 
+**Phrases & Expressions:**
+- **In dieser Sache gibt es keine Neuigkeiten** — *There is no news in this matter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

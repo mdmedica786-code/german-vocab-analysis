@@ -32,6 +32,9 @@ status: "new"
 > Wir speisen heute im Restaurant.
 > *Today we are dining at the restaurant.*
 
+**Phrases & Expressions:**
+- **Wir speisen heute im Restaurant** — *Today we are dining at the restaurant* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

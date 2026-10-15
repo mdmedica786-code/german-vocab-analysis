@@ -31,6 +31,9 @@ status: "new"
 > Die Kontoeröffnung dauert nur zehn Minuten.
 > *Opening the account takes only ten minutes.*
 
+**Phrases & Expressions:**
+- **Die Kontoeröffnung dauert nur zehn Minuten** — *Opening the account takes only ten minutes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 5c (Geld regiert die Welt?)
 <!-- bank:end -->
 

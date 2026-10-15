@@ -40,6 +40,9 @@ status: "new"
 > Heute wollen wir im Garten grillieren.
 > *Today we want to grill in the garden.*
 
+**Phrases & Expressions:**
+- **Heute wollen wir im Garten grillieren** — *Today we want to grill in the garden* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

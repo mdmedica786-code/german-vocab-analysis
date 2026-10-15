@@ -33,6 +33,9 @@ status: "new"
 > Können Sie bitte meinen Brief korrigieren?
 > *Can you please correct my letter?*
 
+**Phrases & Expressions:**
+- **Ich korrigiere mich: ...** — I'll correct myself: ... *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Sich selbst korrigieren]] · B1)*
+
 **Source:** Netzwerk neu A1 K7 5b (Arbeitsalltag) · Goethe word list B1
 <!-- bank:end -->
 

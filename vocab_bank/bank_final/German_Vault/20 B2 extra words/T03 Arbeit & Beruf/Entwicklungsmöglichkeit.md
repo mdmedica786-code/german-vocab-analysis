@@ -33,6 +33,11 @@ status: "new"
 > Die Firma bietet viele Entwicklungsmöglichkeiten.
 > *The company offers many opportunities for development.*
 
+**Phrases & Expressions:**
+- **berufliche Entwicklungsmöglichkeiten** — *opportunity for development; prospects*
+- **Entwicklungsmöglichkeiten bieten** — *opportunity for development; prospects*
+- **gute Entwicklungsmöglichkeiten** — *opportunity for development; prospects*
+
 **Collocations**
 - berufliche Entwicklungsmöglichkeiten
 - Entwicklungsmöglichkeiten bieten

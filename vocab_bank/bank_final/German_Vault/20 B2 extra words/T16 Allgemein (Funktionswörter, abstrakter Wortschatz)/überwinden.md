@@ -31,6 +31,11 @@ status: "new"
 > Er hat seine Angst vor Prüfungen überwunden.
 > *He has overcome his fear of exams.*
 
+**Phrases & Expressions:**
+- **ein Hindernis überwinden** — *to overcome*
+- **eine Krise überwinden** — *to overcome*
+- **Vorurteile überwinden** — *to overcome*
+
 **Collocations**
 - ein Hindernis überwinden
 - eine Krise überwinden

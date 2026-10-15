@@ -33,6 +33,11 @@ status: "new"
 > Der Komiker brachte das ganze Publikum zum Lachen.
 > *The comedian made the whole audience laugh.*
 
+**Phrases & Expressions:**
+- **ein bekannter Komiker** — *comedian (male)*
+- **der Komiker tritt auf** — *comedian (male)*
+- **als Komiker arbeiten** — *comedian (male)*
+
 **Collocations**
 - ein bekannter Komiker
 - der Komiker tritt auf

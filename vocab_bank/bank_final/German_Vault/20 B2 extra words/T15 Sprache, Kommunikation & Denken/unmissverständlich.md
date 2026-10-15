@@ -29,6 +29,11 @@ status: "new"
 > Sie hat ihre Meinung unmissverständlich klargemacht.
 > *She made her opinion unmistakably clear.*
 
+**Phrases & Expressions:**
+- **unmissverständlich klarstellen** — *unmistakable; unambiguous*
+- **eine unmissverständliche Antwort** — *unmistakable; unambiguous*
+- **unmissverständlich fordern** — *unmistakable; unambiguous*
+
 **Collocations**
 - unmissverständlich klarstellen
 - eine unmissverständliche Antwort

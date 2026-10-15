@@ -34,6 +34,9 @@ status: "new"
 > In der Orientierungsstufe entscheidet sich der weitere Schulweg.
 > *In the orientation stage the further educational path is decided.*
 
+**Phrases & Expressions:**
+- **In der Orientierungsstufe entscheidet sich der weitere Schulweg** — *In the orientation stage the further educational path is decided* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

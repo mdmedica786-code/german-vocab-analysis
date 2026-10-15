@@ -33,6 +33,12 @@ status: "new"
 > Das Hirn steuert den ganzen Körper.
 > *The brain controls the whole body.*
 
+**Phrases & Expressions:**
+- **Hirn und Nerven** — *brain*
+- **das Hirn schützen** — *brain*
+- **Blutung im Hirn** — *brain*
+- **das Hirn untersuchen** — *brain*
+
 **Collocations**
 - Hirn und Nerven
 - das Hirn schützen

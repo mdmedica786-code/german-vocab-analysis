@@ -33,6 +33,10 @@ status: "new"
 > Als Fotograf hat er schon viel Erfahrung gesammelt.
 > *He's already gained a lot of experience as a photographer.*
 
+**Phrases & Expressions:**
+- **Während meines Praktischen Jahres habe ich ... gesammelt.** — During my practical year I gained ... *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Berufserfahrung beschreiben]] · B2)*
+- **Ich habe bereits Erfahrung in der Notaufnahme gesammelt.** — I have already gained experience in the emergency department. *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Berufserfahrung beschreiben]] · B2)*
+
 **Source:** Netzwerk neu A1 K1 1c (Guten Tag!) · Goethe word list A2
 <!-- bank:end -->
 

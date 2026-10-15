@@ -28,6 +28,11 @@ status: "new"
 > Einmal Frankfurt und zurück.
 > *A return ticket to Frankfurt, please.*
 
+**Phrases & Expressions:**
+- **hin und zurück** — there and back; return *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Bitte rufen Sie mich unter der Nummer ... zurück.** — Please call me back on the number ... *([[B2-07 Telefonieren|Nachricht hinterlassen]] · B1)*
+- **... geht stetig zurück.** — ... is steadily declining. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Rückgang beschreiben]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

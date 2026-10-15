@@ -33,6 +33,13 @@ status: "new"
 > Der Autor ergänzt den Text durch Anmerkungen am Seitenrand.
 > *The author supplements the text with notes in the margin.*
 
+**Phrases & Expressions:**
+- **Haben Sie dazu Fragen oder Anmerkungen?** — Do you have any questions or comments on this? *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Publikum einbeziehen]] · B2)*
+- **Gibt es dazu noch Anmerkungen oder Fragen?** — Are there any further comments or questions on this? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Besprechung leiten]] · B2)*
+- **eine Anmerkung machen** — *note; remark*
+- **Anmerkungen am Rand** — *note; remark*
+- **eine kritische Anmerkung** — *note; remark*
+
 **Collocations**
 - eine Anmerkung machen
 - Anmerkungen am Rand

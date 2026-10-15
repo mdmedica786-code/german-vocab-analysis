@@ -32,6 +32,10 @@ status: "new"
 > Niemand zweifelt seine Kompetenz an.
 > *Nobody questions his competence.*
 
+**Phrases & Expressions:**
+- **die Echtheit anzweifeln** — *to doubt; to question*
+- **Aussagen anzweifeln** — *to doubt; to question*
+
 **Collocations**
 - die Echtheit anzweifeln
 - Aussagen anzweifeln

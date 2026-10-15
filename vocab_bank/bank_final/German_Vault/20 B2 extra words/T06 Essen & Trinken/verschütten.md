@@ -31,6 +31,11 @@ status: "new"
 > Ich habe Kaffee auf das Sofa verschüttet.
 > *I spilled coffee on the sofa.*
 
+**Phrases & Expressions:**
+- **Wasser verschütten** — *to spill*
+- **Kaffee verschütten** — *to spill*
+- **verschüttet werden** — *to spill*
+
 **Collocations**
 - Wasser verschütten
 - Kaffee verschütten

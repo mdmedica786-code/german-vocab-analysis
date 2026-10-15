@@ -33,6 +33,11 @@ status: "new"
 > Deutsch ist die Amtssprache in Österreich.
 > *German is the official language in Austria.*
 
+**Phrases & Expressions:**
+- **die Amtssprache des Landes** — *official language*
+- **in der Amtssprache** — *official language*
+- **eine zweite Amtssprache** — *official language*
+
 **Collocations**
 - die Amtssprache des Landes
 - in der Amtssprache

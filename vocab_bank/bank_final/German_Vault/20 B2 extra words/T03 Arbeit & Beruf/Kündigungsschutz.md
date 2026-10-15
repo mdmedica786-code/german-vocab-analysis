@@ -33,6 +33,11 @@ status: "new"
 > Schwangere genießen besonderen Kündigungsschutz.
 > *Pregnant women enjoy special protection against dismissal.*
 
+**Phrases & Expressions:**
+- **besonderen Kündigungsschutz genießen** — *protection against dismissal*
+- **Kündigungsschutz haben** — *protection against dismissal*
+- **Kündigungsschutz aufweichen** — *protection against dismissal*
+
 **Collocations**
 - besonderen Kündigungsschutz genießen
 - Kündigungsschutz haben

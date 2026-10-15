@@ -32,6 +32,9 @@ status: "new"
 > Eins plus eins ist zwei.
 > *One plus one is two.*
 
+**Phrases & Expressions:**
+- **Eins plus eins ist zwei** — *One plus one is two* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

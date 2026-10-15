@@ -35,6 +35,9 @@ status: "new"
 > Wie ist die Vorwahl von München?
 > *What is the dialling code for Munich?*
 
+**Phrases & Expressions:**
+- **Wie ist die Vorwahl von München** — *What is the dialling code for Munich* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Im Frühjahr blühen die Bäume.
 > *In spring the trees blossom.*
 
+**Phrases & Expressions:**
+- **Im Frühjahr blühen die Bäume** — *In spring the trees blossom* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle) · Goethe word list A1
 <!-- bank:end -->
 

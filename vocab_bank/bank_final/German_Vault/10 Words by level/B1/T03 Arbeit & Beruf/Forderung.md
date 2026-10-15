@@ -35,6 +35,12 @@ status: "new"
 > Alle Forderungen der Arbeitnehmer kann man in dieser E-Mail lesen.
 > *You can read all the employees' demands in this email.*
 
+**Phrases & Expressions:**
+- **eine Forderung stellen** — *demand*
+- **Forderungen erfüllen** — *demand*
+- **berechtigte Forderung** — *demand*
+- **eine Forderung ablehnen** — *demand*
+
 **Collocations**
 - eine Forderung stellen
 - Forderungen erfüllen

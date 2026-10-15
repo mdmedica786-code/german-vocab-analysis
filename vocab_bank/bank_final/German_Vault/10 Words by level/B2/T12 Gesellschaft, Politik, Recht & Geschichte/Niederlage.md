@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Mannschaft erlitt eine Niederlage.
 > *The team suffered a defeat.*
+
+**Phrases & Expressions:**
+- **Die Mannschaft erlitt eine Niederlage** — *The team suffered a defeat* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

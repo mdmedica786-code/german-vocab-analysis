@@ -31,6 +31,10 @@ status: "new"
 > Ich bezweifle, dass wir pünktlich ankommen.
 > *I doubt that we will arrive on time.*
 
+**Phrases & Expressions:**
+- **stark bezweifeln** — *to doubt*
+- **ich bezweifle, dass** — *to doubt*
+
 **Collocations**
 - stark bezweifeln
 - ich bezweifle, dass

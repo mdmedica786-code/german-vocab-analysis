@@ -35,6 +35,12 @@ status: "new"
 > Es gibt viel Kritik an der Politik der Regierung.
 > *There is a lot of criticism of the government's policy.*
 
+**Phrases & Expressions:**
+- **Kritik üben** — *criticism*
+- **Kritik an etwas** — *criticism*
+- **konstruktive Kritik** — *criticism*
+- **auf Kritik stoßen** — *criticism*
+
 **Collocations**
 - Kritik üben
 - Kritik an etwas

@@ -33,6 +33,11 @@ status: "new"
 > Die Souveränität eines Staates muss respektiert werden.
 > *The sovereignty of a state must be respected.*
 
+**Phrases & Expressions:**
+- **die Souveränität wahren** — *sovereignty*
+- **Souveränität verlieren** — *sovereignty*
+- **staatliche Souveränität** — *sovereignty*
+
 **Collocations**
 - die Souveränität wahren
 - Souveränität verlieren

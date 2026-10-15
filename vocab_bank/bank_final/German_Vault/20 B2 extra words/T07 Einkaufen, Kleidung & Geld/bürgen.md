@@ -32,6 +32,11 @@ status: "new"
 > Meine Eltern bürgen für den Kredit.
 > *My parents are guarantors for the loan.*
 
+**Phrases & Expressions:**
+- **für jemanden bürgen** — *to vouch; to guarantee*
+- **für etwas bürgen** — *to vouch; to guarantee*
+- **mit seinem Namen bürgen** — *to vouch; to guarantee*
+
 **Collocations**
 - für jemanden bürgen
 - für etwas bürgen

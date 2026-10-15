@@ -31,6 +31,9 @@ status: "new"
 > Mit einem Schülerjob verdient er sein Taschengeld.
 > *He earns his pocket money with a part-time job as a pupil.*
 
+**Phrases & Expressions:**
+- **Mit einem Schülerjob verdient er sein Taschengeld** — *He earns his pocket money with a part-time job as a pupil* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 6d (Zwischenmenschliches)
 <!-- bank:end -->
 

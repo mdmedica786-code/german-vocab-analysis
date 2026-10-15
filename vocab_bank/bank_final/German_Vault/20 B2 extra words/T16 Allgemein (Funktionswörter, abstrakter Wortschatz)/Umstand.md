@@ -33,6 +33,12 @@ status: "new"
 > Unter diesen Umständen kann ich nicht zusagen.
 > *Under these circumstances I cannot agree.*
 
+**Phrases & Expressions:**
+- **unter Umständen** — possibly; under certain circumstances *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **unter diesen Umständen** — *circumstance; fact*
+- **unter keinen Umständen** — *circumstance; fact*
+- **die Umstände berücksichtigen** — *circumstance; fact*
+
 **Collocations**
 - unter diesen Umständen
 - unter keinen Umständen

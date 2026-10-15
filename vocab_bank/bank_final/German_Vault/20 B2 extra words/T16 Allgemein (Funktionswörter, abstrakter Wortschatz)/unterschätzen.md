@@ -31,6 +31,11 @@ status: "new"
 > Man sollte den Aufwand nicht unterschätzen.
 > *One should not underestimate the effort.*
 
+**Phrases & Expressions:**
+- **die Gefahr unterschätzen** — *to underestimate*
+- **jemanden unterschätzen** — *to underestimate*
+- **stark unterschätzen** — *to underestimate*
+
 **Collocations**
 - die Gefahr unterschätzen
 - jemanden unterschätzen

@@ -29,6 +29,11 @@ status: "new"
 > Als der Test negativ war, fiel mir ein Stein vom Herzen.
 > *When the test was negative, a weight was lifted off my mind.*
 
+**Phrases & Expressions:**
+- **ein Stein fällt vom Herzen** — *to feel a great weight lifted off one's mind*
+- **ein Stein ist mir vom Herzen gefallen** — *to feel a great weight lifted off one's mind*
+- **erleichtert sein** — *to feel a great weight lifted off one's mind*
+
 **Collocations**
 - ein Stein fällt vom Herzen
 - ein Stein ist mir vom Herzen gefallen

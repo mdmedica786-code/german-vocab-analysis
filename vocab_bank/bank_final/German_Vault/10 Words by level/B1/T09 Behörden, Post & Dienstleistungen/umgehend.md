@@ -30,6 +30,10 @@ status: "new"
 > Bitte antworten Sie umgehend.
 > *Please reply immediately.*
 
+**Phrases & Expressions:**
+- **Wir senden Ihnen umgehend einen Ersatz zu.** — We will send you a replacement immediately. *([[B2-04 Beschwerde und Reklamation|Lösung anbieten]] · B2)*
+- **Fehlende Unterlagen reiche ich umgehend nach.** — I will submit missing documents immediately. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Unterlagen nachreichen]] · B2)*
+
 **Source:** Netzwerk neu B1 K12 5c (Geld regiert die Welt?)
 <!-- bank:end -->
 

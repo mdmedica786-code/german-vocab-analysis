@@ -33,6 +33,11 @@ status: "new"
 > Die Klärung der Frage steht noch aus.
 > *The clarification of the question is still pending.*
 
+**Phrases & Expressions:**
+- **zur Klärung** — *clarification*
+- **eine Klärung herbeiführen** — *clarification*
+- **die Klärung des Sachverhalts** — *clarification*
+
 **Collocations**
 - zur Klärung
 - eine Klärung herbeiführen

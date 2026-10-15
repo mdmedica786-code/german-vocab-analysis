@@ -33,6 +33,9 @@ status: "new"
 > Ich fahre den Computer herunter.
 > *I shut down the computer.*
 
+**Phrases & Expressions:**
+- **Ich fahre den Computer herunter** — *I shut down the computer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

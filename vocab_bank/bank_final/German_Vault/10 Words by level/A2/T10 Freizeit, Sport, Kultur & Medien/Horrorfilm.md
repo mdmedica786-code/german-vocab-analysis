@@ -34,6 +34,9 @@ status: "new"
 > Am Wochenende sehen wir einen Horrorfilm.
 > *At the weekend we're watching a horror film.*
 
+**Phrases & Expressions:**
+- **Am Wochenende sehen wir einen Horrorfilm** — *At the weekend we're watching a horror film* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 3b (Große und kleine Gefühle)
 <!-- bank:end -->
 

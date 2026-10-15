@@ -35,6 +35,9 @@ status: "new"
 > Im Radio haben sie Regen und Sturm angesagt.
 > *On the radio they forecast rain and storms.*
 
+**Phrases & Expressions:**
+- **Im Radio haben sie Regen und Sturm angesagt** — *On the radio they forecast rain and storms* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 12a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

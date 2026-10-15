@@ -34,6 +34,9 @@ status: "new"
 > Wahnsinn, ist das toll hier!
 > *Man, it's so great here!*
 
+**Phrases & Expressions:**
+- **Wahnsinn, ist das toll hier** — *Man, it's so great here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 3d (Sportlich, sportlich)
 <!-- bank:end -->
 

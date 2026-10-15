@@ -34,6 +34,9 @@ status: "new"
 > Nach „mit“ steht immer der Dativ.
 > *After “mit” the dative always follows.*
 
+**Phrases & Expressions:**
+- **Nach „mit“ steht immer der Dativ** — *After “mit” the dative always follows* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 3c (Arbeitsalltag)
 <!-- bank:end -->
 

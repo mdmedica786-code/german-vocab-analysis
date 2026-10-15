@@ -33,6 +33,11 @@ status: "new"
 > Die Messstation zeigt, dass der Feinstaub in der Innenstadt über dem Grenzwert liegt.
 > *In the city centre the particulate pollution is high.*
 
+**Phrases & Expressions:**
+- **Feinstaub einatmen** — *fine dust; particulate matter*
+- **hohe Feinstaubbelastung** — *fine dust; particulate matter*
+- **Feinstaub reduzieren** — *fine dust; particulate matter*
+
 **Collocations**
 - Feinstaub einatmen
 - hohe Feinstaubbelastung

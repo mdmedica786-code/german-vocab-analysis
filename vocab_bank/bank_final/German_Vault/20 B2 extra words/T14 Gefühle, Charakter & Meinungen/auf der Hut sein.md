@@ -29,6 +29,10 @@ status: "new"
 > Vor betrügerischen Anrufen sollte man auf der Hut sein.
 > *One should be on one's guard against fraudulent calls.*
 
+**Phrases & Expressions:**
+- **auf der Hut sein vor + Dat.** — *to be on one's guard*
+- **sich auf der Hut halten** — *to be on one's guard*
+
 **Collocations**
 - auf der Hut sein vor + Dat.
 - sich auf der Hut halten

@@ -31,6 +31,9 @@ status: "new"
 > Einstein war sehr intelligent.
 > *Einstein was very intelligent.*
 
+**Phrases & Expressions:**
+- **Einstein war sehr intelligent** — *Einstein was very intelligent* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3a (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

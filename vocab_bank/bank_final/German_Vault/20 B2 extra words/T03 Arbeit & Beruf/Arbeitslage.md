@@ -34,6 +34,11 @@ status: "new"
 > Die Arbeitslage in der Region hat sich verbessert.
 > *The employment situation in the region has improved.*
 
+**Phrases & Expressions:**
+- **die aktuelle Arbeitslage** — *employment situation; work situation*
+- **die Arbeitslage verbessert sich** — *employment situation; work situation*
+- **eine schwierige Arbeitslage** — *employment situation; work situation*
+
 **Collocations**
 - die aktuelle Arbeitslage
 - die Arbeitslage verbessert sich

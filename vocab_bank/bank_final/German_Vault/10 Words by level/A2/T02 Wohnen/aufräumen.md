@@ -34,6 +34,9 @@ status: "new"
 > Die Kinder müssen ihr Zimmer aufräumen.
 > *The children have to tidy up their room.*
 
+**Phrases & Expressions:**
+- **Die Kinder müssen ihr Zimmer aufräumen** — *The children have to tidy up their room* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt) · Goethe word list A2
 <!-- bank:end -->
 

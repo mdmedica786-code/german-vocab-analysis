@@ -35,6 +35,9 @@ status: "new"
 > Es ist Viertel nach sechs.
 > *It is a quarter past six.*
 
+**Phrases & Expressions:**
+- **Es ist Viertel nach sechs** — *It is a quarter past six* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 5a (Alltag und Familie) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Sie unterstützt ihre Eltern auch materiell.
 > *She also supports her parents materially.*
 
+**Phrases & Expressions:**
+- **materielle Sicherheit** — *material; financial*
+- **materielle Werte** — *material; financial*
+- **materiell unterstützen** — *material; financial*
+
 **Collocations**
 - materielle Sicherheit
 - materielle Werte

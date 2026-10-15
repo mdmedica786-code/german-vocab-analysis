@@ -31,6 +31,9 @@ status: "new"
 > Nach dem Sport fühle ich mich fit.
 > *After sport I feel fit.*
 
+**Phrases & Expressions:**
+- **Nach dem Sport fühle ich mich fit** — *After sport I feel fit* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 1c (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

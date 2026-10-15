@@ -34,6 +34,9 @@ status: "new"
 > Die Kompetenz der Ärztin überzeugt die Patienten.
 > *The doctor's competence convinces the patients.*
 
+**Phrases & Expressions:**
+- **Die Kompetenz der Ärztin überzeugt die Patienten** — *The doctor's competence convinces the patients* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
 <!-- bank:end -->
 

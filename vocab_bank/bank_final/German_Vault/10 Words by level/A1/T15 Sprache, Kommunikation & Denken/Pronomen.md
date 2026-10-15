@@ -35,6 +35,9 @@ status: "new"
 > „Er“ ist ein Pronomen.
 > *“Er” is a pronoun.*
 
+**Phrases & Expressions:**
+- **„Er“ ist ein Pronomen** — *“Er” is a pronoun* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10c (Alltag und Familie)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der Chefredakteur entschied, den Artikel nicht zu drucken.
 > *The editor-in-chief decided not to print the article.*
 
+**Phrases & Expressions:**
+- **der Chefredakteur der Zeitung** — *editor-in-chief*
+- **zum Chefredakteur ernennen** — *editor-in-chief*
+- **Chefredakteur einer Zeitschrift** — *editor-in-chief*
+
 **Collocations**
 - der Chefredakteur der Zeitung
 - zum Chefredakteur ernennen

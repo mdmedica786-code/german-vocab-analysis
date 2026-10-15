@@ -29,6 +29,11 @@ status: "new"
 > Das Dorf liegt idyllisch an einem See.
 > *The village lies idyllically beside a lake.*
 
+**Phrases & Expressions:**
+- **idyllisch gelegen** — *idyllic*
+- **ein idyllischer Ort** — *idyllic*
+- **eine idyllische Landschaft** — *idyllic*
+
 **Collocations**
 - idyllisch gelegen
 - ein idyllischer Ort

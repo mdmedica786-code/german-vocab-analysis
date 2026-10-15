@@ -32,6 +32,9 @@ status: "new"
 > Ich möchte die defekte Ware reklamieren.
 > *I would like to return the defective goods.*
 
+**Phrases & Expressions:**
+- **Ich möchte die defekte Ware reklamieren** — *I would like to return the defective goods* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 5b (Das ist ja praktisch!)
 <!-- bank:end -->
 

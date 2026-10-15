@@ -26,6 +26,10 @@ status: "new"
 > Er brachte das Thema bei der Sitzung zur Sprache.
 > *He raised the topic at the meeting.*
 
+**Phrases & Expressions:**
+- **ein Problem zur Sprache bringen** — *to bring up; to raise*
+- **eine Frage zur Sprache bringen** — *to bring up; to raise*
+
 **Collocations**
 - ein Problem zur Sprache bringen
 - eine Frage zur Sprache bringen

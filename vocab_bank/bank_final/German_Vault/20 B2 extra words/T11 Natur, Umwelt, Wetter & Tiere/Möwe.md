@@ -33,6 +33,11 @@ status: "new"
 > Am Strand kreisten Möwen über dem Fischerboot.
 > *On the beach seagulls circled above the fishing boat.*
 
+**Phrases & Expressions:**
+- **Möwen kreischen** — *seagull*
+- **eine Möwe fliegt** — *seagull*
+- **Möwen füttern** — *seagull*
+
 **Collocations**
 - Möwen kreischen
 - eine Möwe fliegt

@@ -31,6 +31,9 @@ status: "new"
 > Was für ein Urlaubstyp bist du, Strand oder Berge?
 > *What type of holidaymaker are you, beach or mountains?*
 
+**Phrases & Expressions:**
+- **Was für ein Urlaubstyp bist du, Strand oder Berge** — *What type of holidaymaker are you, beach or mountains* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 3b (Gute Reise!)
 <!-- bank:end -->
 

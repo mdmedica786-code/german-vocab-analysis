@@ -34,6 +34,9 @@ status: "new"
 > Wie ist Ihre Telefonnummer?
 > *What is your telephone number?*
 
+**Phrases & Expressions:**
+- **Wie ist Ihre Telefonnummer** — *What is your telephone number* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 6c (Guten Tag!)
 <!-- bank:end -->
 

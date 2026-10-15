@@ -33,6 +33,11 @@ status: "new"
 > Im Sommer gibt es in unserem Viertel ein großes Straßenfest.
 > *In summer there is a big street party in our neighbourhood.*
 
+**Phrases & Expressions:**
+- **ein Straßenfest feiern** — *street party*
+- **zum Straßenfest einladen** — *street party*
+- **das jährliche Straßenfest** — *street party*
+
 **Collocations**
 - ein Straßenfest feiern
 - zum Straßenfest einladen

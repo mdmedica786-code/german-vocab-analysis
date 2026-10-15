@@ -33,6 +33,11 @@ status: "new"
 > Für die Altersvorsorge sollte man früh sparen.
 > *For retirement provision one should save early.*
 
+**Phrases & Expressions:**
+- **private Altersvorsorge** — *retirement provision*
+- **für die Altersvorsorge sparen** — *retirement provision*
+- **Altersvorsorge betreiben** — *retirement provision*
+
 **Collocations**
 - private Altersvorsorge
 - für die Altersvorsorge sparen

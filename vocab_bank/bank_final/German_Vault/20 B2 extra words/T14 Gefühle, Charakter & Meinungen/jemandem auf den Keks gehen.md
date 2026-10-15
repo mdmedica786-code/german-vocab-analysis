@@ -27,6 +27,11 @@ status: "new"
 > Mein Bruder geht mir mit seiner Musik total auf den Keks.
 > *My brother really gets on my nerves with his music.*
 
+**Phrases & Expressions:**
+- **jemandem auf den Keks gehen** — *to get on someone's nerves (colloquial)*
+- **das geht mir auf den Keks** — *to get on someone's nerves (colloquial)*
+- **ständig auf den Keks gehen** — *to get on someone's nerves (colloquial)*
+
 **Collocations**
 - jemandem auf den Keks gehen
 - das geht mir auf den Keks

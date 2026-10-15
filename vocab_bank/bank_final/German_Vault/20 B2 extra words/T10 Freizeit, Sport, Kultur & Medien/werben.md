@@ -32,6 +32,11 @@ status: "new"
 > Die Firma wirbt mit niedrigen Preisen für ihre Produkte.
 > *The company advertises its products with low prices.*
 
+**Phrases & Expressions:**
+- **für etwas werben** — *to advertise; to recruit*
+- **um Kunden werben** — *to advertise; to recruit*
+- **mit etwas werben** — *to advertise; to recruit*
+
 **Collocations**
 - für etwas werben
 - um Kunden werben

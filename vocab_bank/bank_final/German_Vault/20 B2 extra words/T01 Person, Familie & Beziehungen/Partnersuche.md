@@ -33,6 +33,11 @@ status: "new"
 > Viele nutzen das Internet für die Partnersuche.
 > *Many people use the internet to look for a partner.*
 
+**Phrases & Expressions:**
+- **bei der Partnersuche** — *search for a partner*
+- **auf Partnersuche sein** — *search for a partner*
+- **die Partnersuche im Internet** — *search for a partner*
+
 **Collocations**
 - bei der Partnersuche
 - auf Partnersuche sein

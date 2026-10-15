@@ -33,6 +33,11 @@ status: "new"
 > Er studiert Pädagogik und Psychologie.
 > *He studies education and psychology.*
 
+**Phrases & Expressions:**
+- **Pädagogik studieren** — *education; pedagogy*
+- **moderne Pädagogik** — *education; pedagogy*
+- **eine Professur für Pädagogik** — *education; pedagogy*
+
 **Collocations**
 - Pädagogik studieren
 - moderne Pädagogik

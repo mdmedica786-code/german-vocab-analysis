@@ -33,6 +33,9 @@ status: "new"
 > Ich muss heute noch das Bad putzen.
 > *I still have to clean the bathroom today.*
 
+**Phrases & Expressions:**
+- **Ich muss heute noch das Bad putzen** — *I still have to clean the bathroom today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 9a (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Am Salat fehlt noch etwas Essig.
 > *The salad still needs a little vinegar.*
 
+**Phrases & Expressions:**
+- **Am Salat fehlt noch etwas Essig** — *The salad still needs a little vinegar* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list B1
 <!-- bank:end -->
 

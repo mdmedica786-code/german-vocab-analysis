@@ -33,6 +33,11 @@ status: "new"
 > Das Regal besteht aus einem langen Brett.
 > *The shelf consists of a long board.*
 
+**Phrases & Expressions:**
+- **ein Brett aus Holz** — *board; plank; shelf*
+- **das schwarze Brett** — *board; plank; shelf*
+- **ein Brett sägen** — *board; plank; shelf*
+
 **Collocations**
 - ein Brett aus Holz
 - das schwarze Brett

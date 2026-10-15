@@ -30,6 +30,11 @@ status: "new"
 > Das nächste Lernthema ist die Wortbildung.
 > *The next learning topic is word formation.*
 
+**Phrases & Expressions:**
+- **ein neues Lernthema** — *learning topic*
+- **das Lernthema wiederholen** — *learning topic*
+- **ein Lernthema auswählen** — *learning topic*
+
 **Collocations**
 - ein neues Lernthema
 - das Lernthema wiederholen

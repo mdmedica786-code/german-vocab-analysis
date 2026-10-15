@@ -29,6 +29,11 @@ status: "new"
 > Die Forscher haben eine bahnbrechende Entdeckung gemacht.
 > *The researchers made a groundbreaking discovery.*
 
+**Phrases & Expressions:**
+- **eine bahnbrechende Erfindung** — *groundbreaking; pioneering*
+- **bahnbrechende Ergebnisse** — *groundbreaking; pioneering*
+- **bahnbrechend sein** — *groundbreaking; pioneering*
+
 **Collocations**
 - eine bahnbrechende Erfindung
 - bahnbrechende Ergebnisse

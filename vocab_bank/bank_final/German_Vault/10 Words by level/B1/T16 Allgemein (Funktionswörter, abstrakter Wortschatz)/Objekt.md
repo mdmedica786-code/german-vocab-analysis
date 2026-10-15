@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Im Satz ist „das Buch“ das Objekt.
 > *In the sentence “das Buch” is the object.*
+
+**Phrases & Expressions:**
+- **Im Satz ist „das Buch“ das Objekt** — *In the sentence “das Buch” is the object* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

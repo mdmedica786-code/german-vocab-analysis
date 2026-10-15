@@ -33,6 +33,11 @@ status: "new"
 > Wir prüfen die Richtigkeit der Angaben.
 > *We check the accuracy of the information.*
 
+**Phrases & Expressions:**
+- **die Richtigkeit prüfen** — *correctness; accuracy*
+- **die Richtigkeit der Angaben** — *correctness; accuracy*
+- **seine Richtigkeit haben** — *correctness; accuracy*
+
 **Collocations**
 - die Richtigkeit prüfen
 - die Richtigkeit der Angaben

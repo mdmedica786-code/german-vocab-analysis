@@ -34,6 +34,9 @@ status: "new"
 > In diesem Haus wohnen drei Generationen zusammen.
 > *Three generations live together in this house.*
 
+**Phrases & Expressions:**
+- **In diesem Haus wohnen drei Generationen zusammen** — *Three generations live together in this house* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

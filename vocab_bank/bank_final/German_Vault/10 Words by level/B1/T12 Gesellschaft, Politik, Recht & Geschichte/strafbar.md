@@ -30,6 +30,9 @@ status: "new"
 > Was du da machst, ist strafbar.
 > *What you are doing there is punishable by law.*
 
+**Phrases & Expressions:**
+- **Was du da machst, ist strafbar** — *What you are doing there is punishable by law* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

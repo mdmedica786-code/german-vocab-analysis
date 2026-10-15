@@ -34,6 +34,9 @@ status: "new"
 > John trägt jetzt einen Bart.
 > *John now has a beard.*
 
+**Phrases & Expressions:**
+- **John trägt jetzt einen Bart** — *John now has a beard* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

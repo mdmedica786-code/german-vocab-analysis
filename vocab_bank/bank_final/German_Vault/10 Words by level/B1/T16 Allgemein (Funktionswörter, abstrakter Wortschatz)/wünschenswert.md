@@ -30,6 +30,9 @@ status: "new"
 > Mehr Zeit wäre wünschenswert.
 > *More time would be desirable.*
 
+**Phrases & Expressions:**
+- **Es wäre wünschenswert, wenn ...** — It would be desirable if ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Schluss mit Appell]] · B2)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

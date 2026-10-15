@@ -34,6 +34,9 @@ status: "new"
 > Die erste Hürde ist die Sprache.
 > *The first hurdle is the language.*
 
+**Phrases & Expressions:**
+- **Die erste Hürde ist die Sprache** — *The first hurdle is the language* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9c (Blick nach vorn)
 <!-- bank:end -->
 

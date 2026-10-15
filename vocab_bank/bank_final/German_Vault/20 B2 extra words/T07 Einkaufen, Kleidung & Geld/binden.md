@@ -31,6 +31,11 @@ status: "new"
 > Sie bindet sich die Haare zu einem Zopf.
 > *She ties her hair into a ponytail.*
 
+**Phrases & Expressions:**
+- **einen Knoten binden** — *to tie; to bind*
+- **die Schuhe binden** — *to tie; to bind*
+- **sich binden** — *to tie; to bind*
+
 **Collocations**
 - einen Knoten binden
 - die Schuhe binden

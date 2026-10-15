@@ -35,6 +35,14 @@ status: "new"
 > Im Moment lese ich ein Buch von Daniel Kehlmann.
 > *I'm reading a book by Daniel Kehlmann at the moment.*
 
+**Phrases & Expressions:**
+- **einen Moment** — just a moment *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A2)*
+- **im Moment** — at the moment *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A1)*
+- **einen kurzen Moment** — just a moment *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B1)*
+- **in diesem Moment** — at this moment *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **für einen Moment** — for a moment *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Moment, das muss ich mir kurz überlegen.** — Just a moment, I need to think about that briefly. *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Zeit gewinnen]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 3b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

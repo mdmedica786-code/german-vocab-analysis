@@ -34,6 +34,9 @@ status: "new"
 > Die neue Software ist leicht zu bedienen.
 > *The new software is easy to use.*
 
+**Phrases & Expressions:**
+- **Die neue Software ist leicht zu bedienen** — *The new software is easy to use* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -30,6 +30,10 @@ status: "new"
 > Im Deutschen gibt es viele unregelmäßige Verben.
 > *There are many irregular verbs in German.*
 
+**Phrases & Expressions:**
+- **unregelmäßige Verben** — *irregular (irregular verbs)*
+- **unregelmäßig schlafen** — *irregular (irregular verbs)*
+
 **Collocations**
 - unregelmäßige Verben
 - unregelmäßig schlafen

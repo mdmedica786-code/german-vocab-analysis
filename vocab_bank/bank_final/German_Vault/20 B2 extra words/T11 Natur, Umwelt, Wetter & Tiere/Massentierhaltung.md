@@ -33,6 +33,11 @@ status: "new"
 > Viele Menschen lehnen die Massentierhaltung ab.
 > *Many people reject factory farming.*
 
+**Phrases & Expressions:**
+- **gegen Massentierhaltung** — *factory farming*
+- **Massentierhaltung verbieten** — *factory farming*
+- **Fleisch aus Massentierhaltung** — *factory farming*
+
 **Collocations**
 - gegen Massentierhaltung
 - Massentierhaltung verbieten

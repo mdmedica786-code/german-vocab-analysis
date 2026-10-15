@@ -34,6 +34,9 @@ status: "new"
 > Ich gehe heute Nachmittag zur Uni.
 > *I'm going to uni this afternoon.*
 
+**Phrases & Expressions:**
+- **Ich gehe heute Nachmittag zur Uni** — *I'm going to uni this afternoon* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 1a (Alltag und Familie)
 <!-- bank:end -->
 

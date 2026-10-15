@@ -29,6 +29,11 @@ status: "new"
 > Er erwähnte beiläufig, dass er umziehen wird.
 > *He mentioned in passing that he is going to move.*
 
+**Phrases & Expressions:**
+- **beiläufig erwähnen** — *casual; in passing*
+- **eine beiläufige Bemerkung** — *casual; in passing*
+- **beiläufig fragen** — *casual; in passing*
+
 **Collocations**
 - beiläufig erwähnen
 - eine beiläufige Bemerkung

@@ -35,6 +35,9 @@ status: "new"
 > Kommst du morgen mit ins Einkaufszentrum?
 > *Are you coming to the shopping centre tomorrow?*
 
+**Phrases & Expressions:**
+- **Kommst du morgen mit ins Einkaufszentrum** — *Are you coming to the shopping centre tomorrow* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!) · Goethe word list A2
 <!-- bank:end -->
 

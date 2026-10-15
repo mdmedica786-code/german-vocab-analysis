@@ -31,6 +31,9 @@ status: "new"
 > Hast du einen Ausflugstipp für das Wochenende?
 > *Do you have an excursion tip for the weekend?*
 
+**Phrases & Expressions:**
+- **Hast du einen Ausflugstipp für das Wochenende** — *Do you have an excursion tip for the weekend* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

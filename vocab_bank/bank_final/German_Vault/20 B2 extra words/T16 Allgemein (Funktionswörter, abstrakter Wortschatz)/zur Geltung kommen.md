@@ -26,6 +26,10 @@ status: "new"
 > Die Bilder kommen an dieser Wand gut zur Geltung.
 > *The pictures show up well on this wall.*
 
+**Phrases & Expressions:**
+- **gut zur Geltung kommen** — *to show to advantage*
+- **zur Geltung bringen** — *to show to advantage*
+
 **Collocations**
 - gut zur Geltung kommen
 - zur Geltung bringen

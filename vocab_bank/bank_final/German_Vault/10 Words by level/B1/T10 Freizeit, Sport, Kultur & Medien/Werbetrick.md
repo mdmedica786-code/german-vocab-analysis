@@ -31,6 +31,9 @@ status: "new"
 > Dieser Werbetrick funktioniert oft.
 > *This advertising trick often works.*
 
+**Phrases & Expressions:**
+- **Dieser Werbetrick funktioniert oft** — *This advertising trick often works* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 10b (Das ist ja praktisch!)
 <!-- bank:end -->
 

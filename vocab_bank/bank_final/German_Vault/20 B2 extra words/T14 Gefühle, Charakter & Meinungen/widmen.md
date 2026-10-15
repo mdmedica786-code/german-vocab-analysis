@@ -32,6 +32,11 @@ status: "new"
 > Nach der Pensionierung widmet er sich seinen Hobbys.
 > *After retirement he devotes himself to his hobbies.*
 
+**Phrases & Expressions:**
+- **sich einer Aufgabe widmen** — *to devote oneself; to dedicate*
+- **sich der Familie widmen** — *to devote oneself; to dedicate*
+- **ein Buch widmen** — *to devote oneself; to dedicate*
+
 **Collocations**
 - sich einer Aufgabe widmen
 - sich der Familie widmen

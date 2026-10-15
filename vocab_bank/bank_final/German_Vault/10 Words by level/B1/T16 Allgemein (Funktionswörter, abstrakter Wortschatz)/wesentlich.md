@@ -30,6 +30,12 @@ status: "new"
 > Das ist ein wesentlicher Unterschied.
 > *That is a significant difference.*
 
+**Phrases & Expressions:**
+- **im Wesentlichen** — essentially *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **wesentlicher Unterschied** — *considerable*
+- **wesentlich besser** — *considerable*
+- **wesentlich beitragen** — *considerable*
+
 **Collocations**
 - wesentlicher Unterschied
 - im Wesentlichen

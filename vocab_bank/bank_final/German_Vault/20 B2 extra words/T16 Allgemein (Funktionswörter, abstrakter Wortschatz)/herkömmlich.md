@@ -29,6 +29,11 @@ status: "new"
 > Das neue Verfahren ist billiger als das herkömmliche.
 > *The new method is cheaper than the conventional one.*
 
+**Phrases & Expressions:**
+- **herkömmliche Methoden** — *conventional; traditional*
+- **im herkömmlichen Sinn** — *conventional; traditional*
+- **herkömmliche Energie** — *conventional; traditional*
+
 **Collocations**
 - herkömmliche Methoden
 - im herkömmlichen Sinn

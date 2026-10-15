@@ -33,6 +33,11 @@ status: "new"
 > Im Herbst färbt sich der Ahorn leuchtend rot.
 > *In autumn the maple turns bright red.*
 
+**Phrases & Expressions:**
+- **Ahornsirup** — *maple*
+- **Ahornblätter** — *maple*
+- **ein roter Ahorn** — *maple*
+
 **Collocations**
 - Ahornsirup
 - Ahornblätter

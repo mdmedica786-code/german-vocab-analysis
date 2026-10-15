@@ -36,6 +36,9 @@ status: "new"
 > Morgen bekommen die Kinder ihr Zeugnis.
 > **
 
+**Phrases & Expressions:**
+- **Morgen bekommen die Kinder ihr Zeugnis** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 1a ÜB (Nach der Schulzeit) · Goethe word list A2
 <!-- bank:end -->
 

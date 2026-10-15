@@ -30,6 +30,11 @@ status: "new"
 > Die Konfliktbearbeitung gehört zu ihrer Aufgabe.
 > *Handling conflicts is part of her job.*
 
+**Phrases & Expressions:**
+- **die Konfliktbearbeitung im Team** — *conflict management; handling of conflicts*
+- **professionelle Konfliktbearbeitung** — *conflict management; handling of conflicts*
+- **Methoden der Konfliktbearbeitung** — *conflict management; handling of conflicts*
+
 **Collocations**
 - die Konfliktbearbeitung im Team
 - professionelle Konfliktbearbeitung

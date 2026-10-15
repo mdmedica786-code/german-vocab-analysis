@@ -33,6 +33,11 @@ status: "new"
 > Das ist ein unbestreitbares Faktum.
 > *That is an indisputable fact.*
 
+**Phrases & Expressions:**
+- **ein unbestreitbares Faktum** — *fact*
+- **Fakten schaffen** — *fact*
+- **ein bloßes Faktum** — *fact*
+
 **Collocations**
 - ein unbestreitbares Faktum
 - Fakten schaffen

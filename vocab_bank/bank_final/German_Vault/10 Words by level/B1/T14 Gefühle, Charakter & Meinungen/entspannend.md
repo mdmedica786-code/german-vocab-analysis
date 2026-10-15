@@ -31,6 +31,9 @@ status: "new"
 > Der Urlaub war sehr entspannend.
 > *The holiday was very relaxing.*
 
+**Phrases & Expressions:**
+- **Der Urlaub war sehr entspannend** — *The holiday was very relaxing* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 5a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

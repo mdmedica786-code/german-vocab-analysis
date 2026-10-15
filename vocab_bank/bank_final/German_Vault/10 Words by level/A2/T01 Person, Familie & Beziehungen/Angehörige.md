@@ -36,6 +36,9 @@ status: "new"
 > Der Arzt darf nur Familienangehörigen Auskunft geben.
 > *The doctor may only give information to family members.*
 
+**Phrases & Expressions:**
+- **Wir würden Sie gern in die Pflege Ihres Angehörigen einbeziehen.** — We would like to involve you in caring for your relative. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Angehörige einbeziehen]] · B2)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

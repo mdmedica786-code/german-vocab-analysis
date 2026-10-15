@@ -34,6 +34,9 @@ status: "new"
 > Am Sonntag gehen wir in den Tiergarten.
 > *On Sunday we go to the zoo.*
 
+**Phrases & Expressions:**
+- **Am Sonntag gehen wir in den Tiergarten** — *On Sunday we go to the zoo* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 12b (Gute Reise!)
 <!-- bank:end -->
 

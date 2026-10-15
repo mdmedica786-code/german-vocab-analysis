@@ -32,6 +32,11 @@ status: "new"
 > Die Löhne sollen schrittweise angeglichen werden.
 > *Wages are to be aligned step by step.*
 
+**Phrases & Expressions:**
+- **Löhne angleichen** — *to align; to adjust*
+- **sich dem Umfeld angleichen** — *to align; to adjust*
+- **Standards angleichen** — *to align; to adjust*
+
 **Collocations**
 - Löhne angleichen
 - sich dem Umfeld angleichen

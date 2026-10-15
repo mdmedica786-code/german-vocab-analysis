@@ -30,6 +30,12 @@ status: "new"
 > Im Winter gehe ich gern langlaufen.
 > *In winter I like going cross-country skiing.*
 
+**Phrases & Expressions:**
+- **eine Zeit lang** — for a while *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Jahre lang** — for years *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Hallo! Na, wie läuft's?** — Hi! So, how's it going? *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Begrüßen (informell)]] · A2)*
+- **Sie müssen das Medikament etwa sieben Tage lang einnehmen.** — You have to take the medicine for about seven days. *([[FSP-11 Therapie und Medikamente erklären|Dauer der Behandlung]] · B2)*
+
 **Source:** Netzwerk neu A2 K9 1a (Sportlich, sportlich)
 <!-- bank:end -->
 

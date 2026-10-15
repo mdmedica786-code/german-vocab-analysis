@@ -33,6 +33,11 @@ status: "new"
 > Die Firma plant die Expansion nach Asien.
 > *The company is planning expansion into Asia.*
 
+**Phrases & Expressions:**
+- **die Expansion der Firma** — *expansion*
+- **wirtschaftliche Expansion** — *expansion*
+- **eine schnelle Expansion** — *expansion*
+
 **Collocations**
 - die Expansion der Firma
 - wirtschaftliche Expansion

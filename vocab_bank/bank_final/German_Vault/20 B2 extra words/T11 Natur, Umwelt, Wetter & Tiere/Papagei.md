@@ -33,6 +33,11 @@ status: "new"
 > Der Papagei kann viele Wörter nachsprechen.
 > *The parrot can repeat many words.*
 
+**Phrases & Expressions:**
+- **einen Papagei halten** — *parrot*
+- **ein bunter Papagei** — *parrot*
+- **wie ein Papagei plappern** — *parrot*
+
 **Collocations**
 - einen Papagei halten
 - ein bunter Papagei

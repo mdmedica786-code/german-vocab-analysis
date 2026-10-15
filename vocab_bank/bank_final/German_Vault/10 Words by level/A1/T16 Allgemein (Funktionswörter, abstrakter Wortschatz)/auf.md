@@ -34,6 +34,9 @@ status: "new"
 > „Würstchen heißt auf Italienisch „wurstel“.
 > *‘Sausage’” in Italian is called "wurstel”.*
 
+**Phrases & Expressions:**
+- **„Würstchen heißt auf Italienisch „wurstel“** — *‘Sausage’” in Italian is called "wurstel”* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -26,6 +26,11 @@ status: "new"
 > Am Ende des Vortrags können Sie Fragen stellen.
 > *At the end of the talk you can ask questions.*
 
+**Phrases & Expressions:**
+- **eine Frage stellen** — *to ask questions*
+- **Rückfragen stellen** — *to ask questions*
+- **Fragen beantworten** — *to ask questions*
+
 **Collocations**
 - eine Frage stellen
 - Rückfragen stellen

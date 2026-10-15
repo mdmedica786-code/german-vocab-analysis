@@ -35,6 +35,9 @@ status: "new"
 > Diese Galerie ist sehr interessant.
 > *This gallery is very interesting.*
 
+**Phrases & Expressions:**
+- **Diese Galerie ist sehr interessant** — *This gallery is very interesting* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,14 @@ status: "new"
 > Ich gebe dir recht.
 > *I agree with you.*
 
+**Phrases & Expressions:**
+- **du hast recht** — you are right *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · A2)*
+- **nicht so recht** — not really (quite) *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **wenn ich mich recht erinnere** — if I remember correctly *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **ich glaube, du hast recht** — I think you're right *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · A2)*
+- **Da haben Sie recht.** — You are right about that. *([[B1-02 Zustimmen und Widersprechen|Voll zustimmen]] · B1)*
+- **Da hast du zum Teil recht, aber ...** — You're partly right, but ... *([[B1-02 Zustimmen und Widersprechen|Teilweise zustimmen]] · B1)*
+
 **Source:** Netzwerk neu B1 K11 10 (Stadt, Land, Fluss)
 <!-- bank:end -->
 

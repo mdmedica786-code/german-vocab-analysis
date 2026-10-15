@@ -29,6 +29,13 @@ status: "new"
 > Das Büro bleibt weiterhin geschlossen.
 > *The office remains closed.*
 
+**Phrases & Expressions:**
+- **Folgende Medikamente nehmen Sie weiterhin ein: ...** — You continue to take the following medicines: ... *([[FSP-17 Entlassung, Überweisung und Nachsorge|Entlassmedikation]] · B1)*
+- **weiterhin gültig** — *still; furthermore; continuing*
+- **weiterhin bestehen** — *still; furthermore; continuing*
+- **weiterhin offen** — *still; furthermore; continuing*
+- **auch weiterhin** — *still; furthermore; continuing*
+
 **Collocations**
 - weiterhin gültig
 - weiterhin bestehen

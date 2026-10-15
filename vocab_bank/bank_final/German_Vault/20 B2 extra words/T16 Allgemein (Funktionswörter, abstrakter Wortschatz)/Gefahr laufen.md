@@ -29,6 +29,9 @@ status: "new"
 > Wer zu spät kommt, läuft Gefahr, den Platz zu verlieren.
 > *Anyone who comes too late runs the risk of losing the place.*
 
+**Phrases & Expressions:**
+- **Gefahr laufen, zu + Infinitiv** — *to run the risk*
+
 **Collocations**
 - Gefahr laufen, zu + Infinitiv
 

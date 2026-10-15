@@ -33,6 +33,11 @@ status: "new"
 > Die Sozialwissenschaften untersuchen das Zusammenleben der Menschen.
 > *The social sciences study how people live together.*
 
+**Phrases & Expressions:**
+- **Sozialwissenschaften studieren** — *social science*
+- **empirische Sozialwissenschaft** — *social science*
+- **Sozialwissenschaftler** — *social science*
+
 **Collocations**
 - Sozialwissenschaften studieren
 - empirische Sozialwissenschaft

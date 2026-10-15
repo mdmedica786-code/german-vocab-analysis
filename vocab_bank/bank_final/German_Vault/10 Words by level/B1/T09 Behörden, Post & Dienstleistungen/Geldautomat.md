@@ -35,6 +35,9 @@ status: "new"
 > Ich hole noch Geld vom Geldautomaten.
 > *I'm just getting some money from the cash machine.*
 
+**Phrases & Expressions:**
+- **Ich hole noch Geld vom Geldautomaten** — *I'm just getting some money from the cash machine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 5a ÜB (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

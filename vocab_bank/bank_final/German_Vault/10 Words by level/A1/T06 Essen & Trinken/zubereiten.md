@@ -34,6 +34,9 @@ status: "new"
 > Sie bereitet das Fleisch mit Kartoffeln zu.
 > *She prepares the meat with potatoes.*
 
+**Phrases & Expressions:**
+- **Sie bereitet das Fleisch mit Kartoffeln zu** — *She prepares the meat with potatoes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list B1
 <!-- bank:end -->
 

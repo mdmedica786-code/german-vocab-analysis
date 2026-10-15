@@ -33,6 +33,11 @@ status: "new"
 > Der Besprechungsraum ist bis 15 Uhr reserviert.
 > *The meeting room is reserved until 3 p.m.*
 
+**Phrases & Expressions:**
+- **den Besprechungsraum buchen** — *meeting room*
+- **im Besprechungsraum** — *meeting room*
+- **ein großer Besprechungsraum** — *meeting room*
+
 **Collocations**
 - den Besprechungsraum buchen
 - im Besprechungsraum

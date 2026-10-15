@@ -32,6 +32,12 @@ status: "new"
 > Sie formt eine Figur aus Ton.
 > *She shapes a figure out of clay.*
 
+**Phrases & Expressions:**
+- **aus Ton formen** — *to shape; to form*
+- **einen Menschen formen** — *to shape; to form*
+- **Buchstaben formen** — *to shape; to form*
+- **den Charakter formen** — *to shape; to form*
+
 **Collocations**
 - aus Ton formen
 - einen Menschen formen

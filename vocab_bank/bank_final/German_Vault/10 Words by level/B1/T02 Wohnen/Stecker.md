@@ -34,6 +34,9 @@ status: "new"
 > Der Stecker passt nicht in diese Steckdose.
 > *The plug does not fit in this socket.*
 
+**Phrases & Expressions:**
+- **Der Stecker passt nicht in diese Steckdose** — *The plug does not fit in this socket* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

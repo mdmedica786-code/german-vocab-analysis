@@ -33,6 +33,11 @@ status: "new"
 > Man sollte in dieser Situation die Vernunft walten lassen.
 > *One should let reason prevail in this situation.*
 
+**Phrases & Expressions:**
+- **Vernunft annehmen** — *reason; common sense*
+- **zur Vernunft kommen** — *reason; common sense*
+- **an die Vernunft appellieren** — *reason; common sense*
+
 **Collocations**
 - Vernunft annehmen
 - zur Vernunft kommen

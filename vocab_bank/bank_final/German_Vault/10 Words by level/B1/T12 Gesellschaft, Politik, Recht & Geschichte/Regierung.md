@@ -35,6 +35,12 @@ status: "new"
 > Die Regierung plant neue Gesetze.
 > *The government is planning new laws.*
 
+**Phrases & Expressions:**
+- **die Regierung bilden** — *government*
+- **die Regierung wechselt** — *government*
+- **die Bundesregierung** — *government*
+- **Kritik an der Regierung** — *government*
+
 **Collocations**
 - die Regierung bilden
 - die Regierung wechselt

@@ -34,6 +34,9 @@ status: "new"
 > Die Anzahl der Teilnehmer war groß.
 > *The number of participants was large.*
 
+**Phrases & Expressions:**
+- **Anzahl von ...** — number of ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

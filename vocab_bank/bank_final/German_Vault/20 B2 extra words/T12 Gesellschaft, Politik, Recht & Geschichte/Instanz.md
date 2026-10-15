@@ -33,6 +33,11 @@ status: "new"
 > Der Fall wird in der nächsten Instanz verhandelt.
 > *The case will be heard in the next instance.*
 
+**Phrases & Expressions:**
+- **in erster Instanz** — *authority; instance (court)*
+- **die höchste Instanz** — *authority; instance (court)*
+- **durch alle Instanzen** — *authority; instance (court)*
+
 **Collocations**
 - in erster Instanz
 - die höchste Instanz

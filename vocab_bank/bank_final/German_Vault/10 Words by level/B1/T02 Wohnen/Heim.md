@@ -34,6 +34,9 @@ status: "new"
 > Meine Oma wohnt in einem Seniorenheim.
 > *My grandma lives in a retirement home.*
 
+**Phrases & Expressions:**
+- **Meine Oma wohnt in einem Seniorenheim** — *My grandma lives in a retirement home* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

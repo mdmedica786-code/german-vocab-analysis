@@ -32,6 +32,11 @@ status: "new"
 > Eine gute Planung vermindert das Risiko.
 > *Good planning reduces the risk.*
 
+**Phrases & Expressions:**
+- **das Risiko vermindern** — *to reduce; to decrease*
+- **sich vermindern** — *to reduce; to decrease*
+- **die Kosten vermindern** — *to reduce; to decrease*
+
 **Collocations**
 - das Risiko vermindern
 - sich vermindern

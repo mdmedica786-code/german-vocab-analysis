@@ -34,6 +34,9 @@ status: "new"
 > Keine Angst. Die Verletzung ist nicht so schlimm.
 > *Don't worry. The injury isn't that bad.*
 
+**Phrases & Expressions:**
+- **Keine Angst. Die Verletzung ist nicht so schlimm** — *Don't worry. The injury isn't that bad* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

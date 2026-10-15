@@ -33,6 +33,11 @@ status: "new"
 > Der Lehrer macht Korrekturen am Text.
 > *The teacher makes corrections to the text.*
 
+**Phrases & Expressions:**
+- **eine Korrektur vornehmen** — *correction*
+- **Korrektur lesen** — *correction*
+- **zur Korrektur** — *correction*
+
 **Collocations**
 - eine Korrektur vornehmen
 - Korrektur lesen

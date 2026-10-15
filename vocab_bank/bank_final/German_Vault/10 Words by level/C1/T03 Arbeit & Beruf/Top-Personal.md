@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Die Klinik sucht Top-Personal.
 > *The clinic is looking for top staff.*
+
+**Phrases & Expressions:**
+- **Die Klinik sucht Top-Personal** — *The clinic is looking for top staff* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

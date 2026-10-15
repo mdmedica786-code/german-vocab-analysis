@@ -29,6 +29,11 @@ status: "new"
 > Sie ist neuen Ideen gegenüber sehr aufgeschlossen.
 > *She is very open-minded towards new ideas.*
 
+**Phrases & Expressions:**
+- **aufgeschlossen für etwas** — *open-minded; receptive*
+- **aufgeschlossen sein** — *open-minded; receptive*
+- **ein aufgeschlossener Mensch** — *open-minded; receptive*
+
 **Collocations**
 - aufgeschlossen für etwas
 - aufgeschlossen sein

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Wir danken für Ihre Spende.
 > *We thank you for your donation.*
+
+**Phrases & Expressions:**
+- **Wir danken für Ihre Spende** — *We thank you for your donation* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

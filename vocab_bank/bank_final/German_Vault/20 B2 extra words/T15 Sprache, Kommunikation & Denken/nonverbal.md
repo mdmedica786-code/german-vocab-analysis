@@ -29,6 +29,11 @@ status: "new"
 > Nonverbale Kommunikation ist oft wichtiger als Worte.
 > *Non-verbal communication is often more important than words.*
 
+**Phrases & Expressions:**
+- **nonverbale Kommunikation** — *non-verbal*
+- **nonverbal kommunizieren** — *non-verbal*
+- **nonverbale Signale** — *non-verbal*
+
 **Collocations**
 - nonverbale Kommunikation
 - nonverbal kommunizieren

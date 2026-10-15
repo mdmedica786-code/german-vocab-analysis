@@ -26,6 +26,11 @@ status: "new"
 > Sie ergriff die Chance und bewarb sich um die Stelle.
 > *She seized the opportunity and applied for the post.*
 
+**Phrases & Expressions:**
+- **die Chance ergreifen** — *to seize the opportunity*
+- **eine Gelegenheit ergreifen** — *to seize the opportunity*
+- **die Chance nutzen** — *to seize the opportunity*
+
 **Collocations**
 - die Chance ergreifen
 - eine Gelegenheit ergreifen

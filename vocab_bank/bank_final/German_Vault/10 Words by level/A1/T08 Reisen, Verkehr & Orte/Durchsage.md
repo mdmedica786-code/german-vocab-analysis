@@ -35,6 +35,9 @@ status: "new"
 > Ich habe die Durchsage nicht verstanden.
 > *I didn't understand the announcement.*
 
+**Phrases & Expressions:**
+- **Ich habe die Durchsage nicht verstanden** — *I didn't understand the announcement* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 3a ÜB (Arbeitswelten) · Goethe word list A1
 <!-- bank:end -->
 

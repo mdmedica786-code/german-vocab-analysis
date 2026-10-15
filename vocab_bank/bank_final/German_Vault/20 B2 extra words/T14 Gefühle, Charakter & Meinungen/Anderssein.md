@@ -30,6 +30,11 @@ status: "new"
 > Das Anderssein wird in dieser Klasse akzeptiert.
 > *Being different is accepted in this class.*
 
+**Phrases & Expressions:**
+- **das Anderssein akzeptieren** — *being different; otherness*
+- **Angst vor dem Anderssein** — *being different; otherness*
+- **das Anderssein respektieren** — *being different; otherness*
+
 **Collocations**
 - das Anderssein akzeptieren
 - Angst vor dem Anderssein

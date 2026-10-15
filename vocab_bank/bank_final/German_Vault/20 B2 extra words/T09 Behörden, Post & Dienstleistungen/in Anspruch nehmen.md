@@ -26,6 +26,10 @@ status: "new"
 > Viele Eltern nehmen die Kinderbetreuung in Anspruch.
 > *Many parents make use of the childcare.*
 
+**Phrases & Expressions:**
+- **Hilfe in Anspruch nehmen** — *to make use of; to claim*
+- **Urlaub in Anspruch nehmen** — *to make use of; to claim*
+
 **Collocations**
 - Hilfe in Anspruch nehmen
 - Urlaub in Anspruch nehmen

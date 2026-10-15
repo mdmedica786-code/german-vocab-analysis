@@ -33,6 +33,11 @@ status: "new"
 > Für das Musikstudium muss man eine Aufnahmeprüfung bestehen.
 > *For a music degree you have to pass an entrance exam.*
 
+**Phrases & Expressions:**
+- **eine Aufnahmeprüfung bestehen** — *entrance exam*
+- **zur Aufnahmeprüfung antreten** — *entrance exam*
+- **die Aufnahmeprüfung ablegen** — *entrance exam*
+
 **Collocations**
 - eine Aufnahmeprüfung bestehen
 - zur Aufnahmeprüfung antreten

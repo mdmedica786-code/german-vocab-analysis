@@ -33,6 +33,11 @@ status: "new"
 > Es gibt verschiedene politische Strömungen in der Partei.
 > *There are different political currents in the party.*
 
+**Phrases & Expressions:**
+- **eine politische Strömung** — *current; trend (movement)*
+- **gegen die Strömung** — *current; trend (movement)*
+- **starke Strömung** — *current; trend (movement)*
+
 **Collocations**
 - eine politische Strömung
 - gegen die Strömung

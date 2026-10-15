@@ -33,6 +33,11 @@ status: "new"
 > Mit der Pinzette zieht sie den Splitter heraus.
 > *She pulls the splinter out with tweezers.*
 
+**Phrases & Expressions:**
+- **mit der Pinzette entfernen** — *tweezers*
+- **eine feine Pinzette** — *tweezers*
+- **Pinzette und Schere** — *tweezers*
+
 **Collocations**
 - mit der Pinzette entfernen
 - eine feine Pinzette

@@ -33,6 +33,11 @@ status: "new"
 > Wir haben die alte Tapete von den Wänden gerissen.
 > *We tore the old wallpaper off the walls.*
 
+**Phrases & Expressions:**
+- **eine Tapete aussuchen** — *wallpaper*
+- **die Tapete abziehen** — *wallpaper*
+- **eine Tapete kleben** — *wallpaper*
+
 **Collocations**
 - eine Tapete aussuchen
 - die Tapete abziehen

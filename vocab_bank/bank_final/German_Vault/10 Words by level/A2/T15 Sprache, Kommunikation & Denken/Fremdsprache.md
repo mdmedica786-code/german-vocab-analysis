@@ -35,6 +35,9 @@ status: "new"
 > Ich spreche drei Fremdsprachen.
 > *I speak three foreign languages.*
 
+**Phrases & Expressions:**
+- **Ich spreche drei Fremdsprachen** — *I speak three foreign languages* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 11b (Nach der Schulzeit) · Goethe word list B1
 <!-- bank:end -->
 

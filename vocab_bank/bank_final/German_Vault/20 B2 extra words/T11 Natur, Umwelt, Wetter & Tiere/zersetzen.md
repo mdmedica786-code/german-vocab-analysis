@@ -32,6 +32,11 @@ status: "new"
 > Bakterien zersetzen das organische Material im Boden.
 > *Bacteria break down the organic material in the soil.*
 
+**Phrases & Expressions:**
+- **organisches Material zersetzen** — *to decompose; to break down; (sich) to decay*
+- **sich zersetzen** — *to decompose; to break down; (sich) to decay*
+- **Abfall zersetzen** — *to decompose; to break down; (sich) to decay*
+
 **Collocations**
 - organisches Material zersetzen
 - sich zersetzen

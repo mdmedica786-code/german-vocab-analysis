@@ -34,6 +34,9 @@ status: "new"
 > „Haustür“ ist ein Kompositum.
 > *“Haustür” is a compound.*
 
+**Phrases & Expressions:**
+- **„Haustür“ ist ein Kompositum** — *“Haustür” is a compound* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13b (Fit und gesund)
 <!-- bank:end -->
 

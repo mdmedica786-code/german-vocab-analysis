@@ -33,6 +33,11 @@ status: "new"
 > Als Berufsanfänger verdient er noch nicht viel.
 > *As a career starter he does not earn much yet.*
 
+**Phrases & Expressions:**
+- **ein junger Berufsanfänger** — *career starter (male); newcomer to a profession*
+- **Berufsanfänger einstellen** — *career starter (male); newcomer to a profession*
+- **als Berufsanfänger** — *career starter (male); newcomer to a profession*
+
 **Collocations**
 - ein junger Berufsanfänger
 - Berufsanfänger einstellen

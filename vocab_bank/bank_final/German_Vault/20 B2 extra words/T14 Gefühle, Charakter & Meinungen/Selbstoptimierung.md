@@ -30,6 +30,11 @@ status: "new"
 > Die Selbstoptimierung setzt viele Menschen unter Druck.
 > *Self-optimisation puts many people under pressure.*
 
+**Phrases & Expressions:**
+- **Selbstoptimierung betreiben** — *self-optimisation; self-improvement*
+- **der Trend zur Selbstoptimierung** — *self-optimisation; self-improvement*
+- **Selbstoptimierung durch Apps** — *self-optimisation; self-improvement*
+
 **Collocations**
 - Selbstoptimierung betreiben
 - der Trend zur Selbstoptimierung

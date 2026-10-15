@@ -34,6 +34,9 @@ status: "new"
 > Der Gärtner schneidet die Hecke.
 > *The gardener is trimming the hedge.*
 
+**Phrases & Expressions:**
+- **Der Gärtner schneidet die Hecke** — *The gardener is trimming the hedge* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 7a (Nach der Schulzeit)
 <!-- bank:end -->
 

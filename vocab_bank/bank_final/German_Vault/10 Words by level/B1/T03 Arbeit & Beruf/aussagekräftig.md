@@ -30,6 +30,9 @@ status: "new"
 > Ein aussagekräftiger Lebenslauf erhöht deine Chancen.
 > *A meaningful CV increases your chances.*
 
+**Phrases & Expressions:**
+- **Ein aussagekräftiger Lebenslauf erhöht deine Chancen** — *A meaningful CV increases your chances* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

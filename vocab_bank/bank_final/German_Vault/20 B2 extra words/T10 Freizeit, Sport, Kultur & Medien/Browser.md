@@ -33,6 +33,11 @@ status: "new"
 > Öffnen Sie bitte die Seite in einem anderen Browser.
 > *Please open the page in a different browser.*
 
+**Phrases & Expressions:**
+- **den Browser öffnen** — *browser*
+- **den Browser aktualisieren** — *browser*
+- **Verlauf im Browser löschen** — *browser*
+
 **Collocations**
 - den Browser öffnen
 - den Browser aktualisieren

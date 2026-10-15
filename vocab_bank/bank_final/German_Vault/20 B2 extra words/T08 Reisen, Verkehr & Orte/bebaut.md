@@ -29,6 +29,11 @@ status: "new"
 > Das Grundstück ist noch nicht bebaut.
 > *The plot has not been built on yet.*
 
+**Phrases & Expressions:**
+- **bebautes Gelände** — *built-up; developed*
+- **dicht bebaut** — *built-up; developed*
+- **ein bebautes Grundstück** — *built-up; developed*
+
 **Collocations**
 - bebautes Gelände
 - dicht bebaut

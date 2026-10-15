@@ -33,6 +33,11 @@ status: "new"
 > Das war eine große Dummheit von mir.
 > *That was a big mistake on my part.*
 
+**Phrases & Expressions:**
+- **eine Dummheit begehen** — *stupidity; foolish act*
+- **aus Dummheit** — *stupidity; foolish act*
+- **Dummheiten machen** — *stupidity; foolish act*
+
 **Collocations**
 - eine Dummheit begehen
 - aus Dummheit

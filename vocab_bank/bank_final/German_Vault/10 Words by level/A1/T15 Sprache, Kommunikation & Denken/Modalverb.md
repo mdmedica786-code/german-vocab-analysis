@@ -34,6 +34,9 @@ status: "new"
 > „Können“ ist ein Modalverb.
 > *“Können” is a modal verb.*
 
+**Phrases & Expressions:**
+- **„Können“ ist ein Modalverb** — *“Können” is a modal verb* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10c (Alltag und Familie)
 <!-- bank:end -->
 

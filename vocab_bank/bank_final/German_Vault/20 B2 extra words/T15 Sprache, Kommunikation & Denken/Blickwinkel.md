@@ -33,6 +33,11 @@ status: "new"
 > Aus diesem Blickwinkel habe ich das nie gesehen.
 > *I have never seen it from this angle.*
 
+**Phrases & Expressions:**
+- **aus diesem Blickwinkel** — *angle; point of view*
+- **ein neuer Blickwinkel** — *angle; point of view*
+- **den Blickwinkel ändern** — *angle; point of view*
+
 **Collocations**
 - aus diesem Blickwinkel
 - ein neuer Blickwinkel

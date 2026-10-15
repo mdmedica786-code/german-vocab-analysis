@@ -39,6 +39,9 @@ status: "new"
 > Die Abwartin putzt das Treppenhaus.
 > *The caretaker cleans the staircase.*
 
+**Phrases & Expressions:**
+- **Die Abwartin putzt das Treppenhaus** — *The caretaker cleans the staircase* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

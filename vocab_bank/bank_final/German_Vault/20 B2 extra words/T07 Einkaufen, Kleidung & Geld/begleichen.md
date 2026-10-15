@@ -31,6 +31,11 @@ status: "new"
 > Bitte begleichen Sie die Rechnung bis Ende des Monats.
 > *Please settle the bill by the end of the month.*
 
+**Phrases & Expressions:**
+- **eine Rechnung begleichen** — *to settle (a bill); to pay*
+- **Schulden begleichen** — *to settle (a bill); to pay*
+- **den Betrag begleichen** — *to settle (a bill); to pay*
+
 **Collocations**
 - eine Rechnung begleichen
 - Schulden begleichen

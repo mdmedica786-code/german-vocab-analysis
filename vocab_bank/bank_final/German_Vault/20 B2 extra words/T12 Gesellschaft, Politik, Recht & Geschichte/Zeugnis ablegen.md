@@ -26,6 +26,10 @@ status: "new"
 > Die Narben legen Zeugnis von dem Unfall ab.
 > *The scars bear witness to the accident.*
 
+**Phrases & Expressions:**
+- **Zeugnis ablegen von + Dat.** — *to bear witness; to testify*
+- **Zeugnis ablegen für + Akk.** — *to bear witness; to testify*
+
 **Collocations**
 - Zeugnis ablegen von + Dat.
 - Zeugnis ablegen für + Akk.

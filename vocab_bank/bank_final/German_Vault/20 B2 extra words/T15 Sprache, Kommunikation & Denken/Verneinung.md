@@ -33,6 +33,11 @@ status: "new"
 > Im Deutschen bildet man die Verneinung mit „nicht" oder „kein".
 > *In German, negation is formed with "nicht" or "kein".*
 
+**Phrases & Expressions:**
+- **eine doppelte Verneinung** — *negation*
+- **die Verneinung bilden** — *negation*
+- **die Verneinung mit „nicht"** — *negation*
+
 **Collocations**
 - eine doppelte Verneinung
 - die Verneinung bilden

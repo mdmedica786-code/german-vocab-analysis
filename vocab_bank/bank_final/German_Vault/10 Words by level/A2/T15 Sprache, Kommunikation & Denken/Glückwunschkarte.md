@@ -34,6 +34,9 @@ status: "new"
 > Zum Geburtstag habe ich eine Glückwunschkarte bekommen.
 > *I got a congratulations card for my birthday.*
 
+**Phrases & Expressions:**
+- **Zum Geburtstag habe ich eine Glückwunschkarte bekommen** — *I got a congratulations card for my birthday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 3e (Große und kleine Gefühle)
 <!-- bank:end -->
 

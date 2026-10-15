@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Das Kind ist sehr schüchtern.
 > *The child is very shy.*
+
+**Phrases & Expressions:**
+- **Das Kind ist sehr schüchtern** — *The child is very shy* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

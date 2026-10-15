@@ -34,6 +34,9 @@ status: "new"
 > Die Zahnärztin untersucht meine Zähne.
 > *The dentist is examining my teeth.*
 
+**Phrases & Expressions:**
+- **Die Zahnärztin untersucht meine Zähne** — *The dentist is examining my teeth* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 5e (Arbeitsalltag)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Kühe und Schweine gehören zu den Nutztieren.
 > *Cows and pigs are among the livestock.*
 
+**Phrases & Expressions:**
+- **Nutztiere halten** — *farm animal; livestock*
+- **artgerechte Haltung von Nutztieren** — *farm animal; livestock*
+- **Nutztiere züchten** — *farm animal; livestock*
+
 **Collocations**
 - Nutztiere halten
 - artgerechte Haltung von Nutztieren

@@ -33,6 +33,11 @@ status: "new"
 > Die Nebenkostenabrechnung zeigt eine Nachzahlung von 200 Euro.
 > *The utilities statement shows an additional payment of 200 euros.*
 
+**Phrases & Expressions:**
+- **die Nebenkostenabrechnung prüfen** — *utilities statement*
+- **Nebenkostenabrechnung erhalten** — *utilities statement*
+- **Widerspruch gegen die Nebenkostenabrechnung** — *utilities statement*
+
 **Collocations**
 - die Nebenkostenabrechnung prüfen
 - Nebenkostenabrechnung erhalten

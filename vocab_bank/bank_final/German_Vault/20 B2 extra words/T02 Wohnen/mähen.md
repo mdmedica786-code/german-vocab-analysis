@@ -31,6 +31,11 @@ status: "new"
 > Am Samstag mäht er den Rasen.
 > *On Saturday he mows the lawn.*
 
+**Phrases & Expressions:**
+- **den Rasen mähen** — *to mow; to cut (grass)*
+- **das Gras mähen** — *to mow; to cut (grass)*
+- **Getreide mähen** — *to mow; to cut (grass)*
+
 **Collocations**
 - den Rasen mähen
 - das Gras mähen

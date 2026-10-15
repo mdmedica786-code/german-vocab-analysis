@@ -33,6 +33,11 @@ status: "new"
 > Im Unterricht machen wir oft Rollenspiele.
 > *In class we often do role plays.*
 
+**Phrases & Expressions:**
+- **ein Rollenspiel machen** — *role play; role-playing game*
+- **ein Rollenspiel spielen** — *role play; role-playing game*
+- **Rollenspiele im Unterricht** — *role play; role-playing game*
+
 **Collocations**
 - ein Rollenspiel machen
 - ein Rollenspiel spielen

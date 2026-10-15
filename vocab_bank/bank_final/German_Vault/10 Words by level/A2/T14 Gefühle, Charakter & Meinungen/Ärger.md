@@ -35,6 +35,9 @@ status: "new"
 > Ich hatte heute Ärger im Büro. Ich habe mich mit einem Kollegen gestritten.
 > *I had trouble at the office today. I argued with a colleague.*
 
+**Phrases & Expressions:**
+- **Ich verstehe Ihren Ärger, aber ich kann kein respektloses Verhalten dulden.** — I understand your anger, but I cannot tolerate disrespectful behaviour. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Grenzen setzen]] · C1)*
+
 **Source:** Netzwerk neu A2 K6 1b (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

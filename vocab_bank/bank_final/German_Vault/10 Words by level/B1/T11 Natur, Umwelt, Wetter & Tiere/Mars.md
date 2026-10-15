@@ -34,6 +34,9 @@ status: "new"
 > Der Mars ist ein roter Planet.
 > *Mars is a red planet.*
 
+**Phrases & Expressions:**
+- **Der Mars ist ein roter Planet** — *Mars is a red planet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 1a (Blick nach vorn)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Gleichstellung von Frauen und Männern ist noch nicht erreicht.
 > *Equality of women and men has not yet been achieved.*
 
+**Phrases & Expressions:**
+- **die Gleichstellung der Geschlechter** — *equality (of treatment); equal opportunities*
+- **Gleichstellung fördern** — *equality (of treatment); equal opportunities*
+- **für Gleichstellung kämpfen** — *equality (of treatment); equal opportunities*
+
 **Collocations**
 - die Gleichstellung der Geschlechter
 - Gleichstellung fördern

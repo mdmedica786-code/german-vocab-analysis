@@ -33,6 +33,11 @@ status: "new"
 > Der Sieg war ein Triumph für das Team.
 > *The victory was a triumph for the team.*
 
+**Phrases & Expressions:**
+- **ein großer Triumph** — *triumph; great success*
+- **Triumphe feiern** — *triumph; great success*
+- **ein Triumph des Willens** — *triumph; great success*
+
 **Collocations**
 - ein großer Triumph
 - Triumphe feiern

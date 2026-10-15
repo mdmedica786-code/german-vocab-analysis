@@ -35,6 +35,9 @@ status: "new"
 > Kann ich mit Kreditkarte zahlen?
 > *Can I pay by credit card?*
 
+**Phrases & Expressions:**
+- **Kann ich mit Kreditkarte zahlen** — *Can I pay by credit card* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 5a ÜB (Arbeitsalltag) · Goethe word list B1
 <!-- bank:end -->
 

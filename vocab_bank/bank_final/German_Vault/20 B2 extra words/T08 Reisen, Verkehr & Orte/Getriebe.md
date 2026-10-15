@@ -33,6 +33,11 @@ status: "new"
 > Beim Auto ist das Getriebe kaputt.
 > *The gearbox of the car is broken.*
 
+**Phrases & Expressions:**
+- **das Getriebe wechseln** — *gearbox; transmission*
+- **automatisches Getriebe** — *gearbox; transmission*
+- **Getriebe reparieren** — *gearbox; transmission*
+
 **Collocations**
 - das Getriebe wechseln
 - automatisches Getriebe

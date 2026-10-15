@@ -35,6 +35,9 @@ status: "new"
 > Wo möchten Sie sitzen? - Am Gang, bitte.
 > *Where would you like to sit? - Inan aisle seat, please.*
 
+**Phrases & Expressions:**
+- **Wo möchten Sie sitzen? - Am Gang, bitte** — *Where would you like to sit? - Inan aisle seat, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 4b (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

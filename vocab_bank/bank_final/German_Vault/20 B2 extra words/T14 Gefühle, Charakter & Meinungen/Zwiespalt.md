@@ -33,6 +33,11 @@ status: "new"
 > Sie befand sich in einem Zwiespalt zwischen Pflicht und Wunsch.
 > *She found herself in a dilemma between duty and desire.*
 
+**Phrases & Expressions:**
+- **im Zwiespalt sein** — *dilemma; conflict (inner)*
+- **innerer Zwiespalt** — *dilemma; conflict (inner)*
+- **in einen Zwiespalt geraten** — *dilemma; conflict (inner)*
+
 **Collocations**
 - im Zwiespalt sein
 - innerer Zwiespalt

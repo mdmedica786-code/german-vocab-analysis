@@ -32,6 +32,11 @@ status: "new"
 > Der Chef wies die Mitarbeiter an, früher zu kommen.
 > *The boss instructed the employees to come earlier.*
 
+**Phrases & Expressions:**
+- **jemanden anweisen** — *to instruct; to transfer (money)*
+- **Geld anweisen** — *to instruct; to transfer (money)*
+- **auf Anweisung** — *to instruct; to transfer (money)*
+
 **Collocations**
 - jemanden anweisen
 - Geld anweisen

@@ -33,6 +33,11 @@ status: "new"
 > In den Nachrichten spricht man Hochdeutsch.
 > *On the news people speak standard German.*
 
+**Phrases & Expressions:**
+- **Hochdeutsch sprechen** — *standard German*
+- **auf Hochdeutsch** — *standard German*
+- **Hochdeutsch und Dialekt** — *standard German*
+
 **Collocations**
 - Hochdeutsch sprechen
 - auf Hochdeutsch

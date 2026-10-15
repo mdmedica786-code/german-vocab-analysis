@@ -31,6 +31,9 @@ status: "new"
 > Ich habe vergeblich versucht dich anzurufen.
 > *I tried in vain to call you.*
 
+**Phrases & Expressions:**
+- **Ich habe vergeblich versucht dich anzurufen** — *I tried in vain to call you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 13b (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

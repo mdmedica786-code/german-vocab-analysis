@@ -33,6 +33,11 @@ status: "new"
 > Die Schule engagiert sich gegen Rassismus.
 > *The school is committed against racism.*
 
+**Phrases & Expressions:**
+- **gegen Rassismus kämpfen** — *racism*
+- **Rassismus bekämpfen** — *racism*
+- **Rassismus im Alltag** — *racism*
+
 **Collocations**
 - gegen Rassismus kämpfen
 - Rassismus bekämpfen

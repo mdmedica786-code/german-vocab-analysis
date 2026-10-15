@@ -35,6 +35,9 @@ status: "new"
 > Mein Sohn geht in die Kindertagesstätte.
 > *My son goes to day care.*
 
+**Phrases & Expressions:**
+- **Mein Sohn geht in die Kindertagesstätte** — *My son goes to day care* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7c ÜB (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

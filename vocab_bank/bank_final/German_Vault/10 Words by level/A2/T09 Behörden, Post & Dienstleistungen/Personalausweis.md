@@ -34,6 +34,9 @@ status: "new"
 > Bitte zeigen Sie Ihren Personalausweis.
 > *Please show your ID card.*
 
+**Phrases & Expressions:**
+- **Bitte zeigen Sie Ihren Personalausweis** — *Please show your ID card* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt)
 <!-- bank:end -->
 

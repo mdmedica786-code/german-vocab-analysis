@@ -33,6 +33,9 @@ status: "new"
 > Ich habe mich verletzt. Meine Hand blutet.
 > *I hurt myself. My hand is bleeding.*
 
+**Phrases & Expressions:**
+- **Ich habe mich verletzt. Meine Hand blutet** — *I hurt myself. My hand is bleeding* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 1b ÜB (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

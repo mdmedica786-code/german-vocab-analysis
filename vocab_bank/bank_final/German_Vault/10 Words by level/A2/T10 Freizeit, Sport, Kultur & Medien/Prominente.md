@@ -35,6 +35,9 @@ status: "new"
 > Viele Prominente kamen zur Premiere.
 > *Many celebrities came to the premiere.*
 
+**Phrases & Expressions:**
+- **Viele Prominente kamen zur Premiere** — *Many celebrities came to the premiere* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 9a (Gute Unterhaltung!)
 <!-- bank:end -->
 

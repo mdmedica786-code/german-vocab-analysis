@@ -34,6 +34,9 @@ status: "new"
 > Dein Verhalten hat Konsequenzen.
 > *Your behaviour has consequences.*
 
+**Phrases & Expressions:**
+- **Dein Verhalten hat Konsequenzen** — *Your behaviour has consequences* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil)
 <!-- bank:end -->
 

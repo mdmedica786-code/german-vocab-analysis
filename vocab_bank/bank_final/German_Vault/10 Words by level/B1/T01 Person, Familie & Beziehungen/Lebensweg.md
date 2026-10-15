@@ -34,6 +34,9 @@ status: "new"
 > Ihr Lebensweg war nicht einfach.
 > *Her path in life was not easy.*
 
+**Phrases & Expressions:**
+- **Ihr Lebensweg war nicht einfach** — *Her path in life was not easy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3b (Veränderungen)
 <!-- bank:end -->
 

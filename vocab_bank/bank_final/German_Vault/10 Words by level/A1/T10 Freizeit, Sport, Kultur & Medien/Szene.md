@@ -35,6 +35,9 @@ status: "new"
 > In dieser Szene des Films stirbt der Held.
 > *In this scene of the film the hero dies.*
 
+**Phrases & Expressions:**
+- **In dieser Szene des Films stirbt der Held** — *In this scene of the film the hero dies* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!) · Goethe word list B1
 <!-- bank:end -->
 

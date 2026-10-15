@@ -34,6 +34,9 @@ status: "new"
 > Die Tomatensuppe ist heute sehr gut.
 > *The tomato soup is very good today.*
 
+**Phrases & Expressions:**
+- **Die Tomatensuppe ist heute sehr gut** — *The tomato soup is very good today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 11 (Zeit mit Freunden)
 <!-- bank:end -->
 

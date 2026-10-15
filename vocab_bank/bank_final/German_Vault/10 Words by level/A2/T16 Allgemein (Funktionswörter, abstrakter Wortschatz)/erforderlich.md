@@ -31,6 +31,12 @@ status: "new"
 > Hier ist die Liste der erforderlichen Zutaten für den Kuchen.
 > *Here is the list of the ingredients required for the cake.*
 
+**Phrases & Expressions:**
+- **erforderliche Unterlagen** — *required*
+- **unbedingt erforderlich** — *required*
+- **erforderlich sein** — *required*
+- **wenn erforderlich** — *required*
+
 **Collocations**
 - erforderliche Unterlagen
 - unbedingt erforderlich

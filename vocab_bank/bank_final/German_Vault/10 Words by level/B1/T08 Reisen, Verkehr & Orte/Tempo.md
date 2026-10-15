@@ -35,6 +35,9 @@ status: "new"
 > Hier darfst du nur Tempo 30 fahren.
 > *Here you may only drive at 30 km/h.*
 
+**Phrases & Expressions:**
+- **Hier darfst du nur Tempo 30 fahren** — *Here you may only drive at 30 km/h* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 1b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

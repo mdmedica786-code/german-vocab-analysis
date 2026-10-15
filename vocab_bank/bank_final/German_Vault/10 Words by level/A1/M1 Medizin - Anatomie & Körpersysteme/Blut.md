@@ -35,6 +35,14 @@ status: "new"
 > Der Verletzte hat viel Blut verloren.
 > *The injured person lost a lot of blood.*
 
+**Phrases & Expressions:**
+- **Haben Sie Blut im Stuhl bemerkt?** — Have you noticed blood in your stool? *([[FSP-06 Systemanamnese (Organsysteme)|Magen-Darm]] · B2)*
+- **Wir nehmen Ihnen jetzt etwas Blut ab.** — We will now take some blood from you. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Blutabnahme]] · A2)*
+- **Ein Schlaganfall bedeutet, dass ein Teil des Gehirns zu wenig Blut bekommt.** — A stroke means that part of the brain gets too little blood. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B2)*
+- **Achten Sie auf Warnzeichen wie Atemnot, Brustschmerzen oder Blut im Stuhl.** — Watch for warning signs such as shortness of breath, chest pain or blood in the stool. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Warnzeichen nennen]] · B2)*
+- **Blut abnehmen** — *blood*
+- **Blut verlieren** — *blood*
+
 **Collocations**
 - Blut abnehmen
 - Blut verlieren

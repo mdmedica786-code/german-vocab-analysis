@@ -35,6 +35,9 @@ status: "new"
 > Fahren Sie an der nächsten Kreuzung rechts.
 > *Turn right at the next crossroads.*
 
+**Phrases & Expressions:**
+- **Fahren Sie an der nächsten Kreuzung rechts** — *Turn right at the next crossroads* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 8c (Ganz schön mobil) · Goethe word list A2
 <!-- bank:end -->
 

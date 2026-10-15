@@ -33,6 +33,9 @@ status: "new"
 > Ich lade das Video runter.
 > *I'm downloading the video.*
 
+**Phrases & Expressions:**
+- **Ich lade das Video runter** — *I'm downloading the video* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1a (Immer online?)
 <!-- bank:end -->
 

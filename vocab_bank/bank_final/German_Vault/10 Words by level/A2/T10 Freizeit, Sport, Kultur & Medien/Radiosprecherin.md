@@ -31,6 +31,9 @@ status: "new"
 > Die Radiosprecherin kündigt das nächste Lied an.
 > *The radio announcer introduces the next song.*
 
+**Phrases & Expressions:**
+- **Die Radiosprecherin kündigt das nächste Lied an** — *The radio announcer introduces the next song* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!)
 <!-- bank:end -->
 

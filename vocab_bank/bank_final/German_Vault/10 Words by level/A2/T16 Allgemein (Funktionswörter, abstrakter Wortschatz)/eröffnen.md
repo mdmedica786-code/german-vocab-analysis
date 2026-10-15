@@ -33,6 +33,9 @@ status: "new"
 > Mein Nachbar hat letzten Monat ein Geschäft eröffnet.
 > *My neighbour opened a shop last month.*
 
+**Phrases & Expressions:**
+- **Ich möchte gern ein Konto eröffnen.** — I would like to open an account. *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Bankkonto eröffnen]] · B1)*
+
 **Source:** Netzwerk neu A2 K5 2a (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

@@ -35,6 +35,13 @@ status: "new"
 > Rufen Sie sofort den Notarzt!
 > *Call the emergency doctor immediately!*
 
+**Phrases & Expressions:**
+- **Rufen Sie bitte sofort den Notarzt!** — Please call the emergency doctor immediately! *([[FSP-16 Notfall, Triage und Anweisungen im Team|Alarmieren]] · A2)*
+- **den Notarzt rufen** — *emergency doctor (m)*
+- **der Notarzt kommt** — *emergency doctor (m)*
+- **Notarzt und Rettungswagen** — *emergency doctor (m)*
+- **mit dem Notarzt sprechen** — *emergency doctor (m)*
+
 **Collocations**
 - den Notarzt rufen
 - der Notarzt kommt

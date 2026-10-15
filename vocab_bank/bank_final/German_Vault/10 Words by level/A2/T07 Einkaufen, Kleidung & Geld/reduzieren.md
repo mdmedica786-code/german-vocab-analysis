@@ -33,6 +33,9 @@ status: "new"
 > Wir haben jetzt unsere Preise reduziert.
 > *We have now reduced our prices.*
 
+**Phrases & Expressions:**
+- **Der Patient befindet sich in einem reduzierten Allgemeinzustand.** — The patient is in a reduced general condition. *([[FSP-08 Befunde beschreiben und berichten|Allgemeinzustand beschreiben]] · B2)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

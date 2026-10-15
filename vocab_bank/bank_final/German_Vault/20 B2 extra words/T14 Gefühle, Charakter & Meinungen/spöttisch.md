@@ -29,6 +29,11 @@ status: "new"
 > Er lächelte spöttisch über ihre Antwort.
 > *He smiled mockingly at her answer.*
 
+**Phrases & Expressions:**
+- **spöttisch lächeln** — *mocking; derisive*
+- **eine spöttische Bemerkung** — *mocking; derisive*
+- **spöttisch sein** — *mocking; derisive*
+
 **Collocations**
 - spöttisch lächeln
 - eine spöttische Bemerkung

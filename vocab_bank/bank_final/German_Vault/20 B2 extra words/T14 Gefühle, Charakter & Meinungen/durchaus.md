@@ -29,6 +29,10 @@ status: "new"
 > Das ist durchaus möglich.
 > *That is quite possible.*
 
+**Phrases & Expressions:**
+- **durchaus möglich** — *quite; perfectly*
+- **durchaus verständlich** — *quite; perfectly*
+
 **Collocations**
 - durchaus möglich
 - durchaus verständlich

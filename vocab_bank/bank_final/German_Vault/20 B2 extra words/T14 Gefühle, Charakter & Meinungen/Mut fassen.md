@@ -26,6 +26,10 @@ status: "new"
 > Endlich fasste er Mut und sprach sie an.
 > *Finally he plucked up courage and spoke to her.*
 
+**Phrases & Expressions:**
+- **neuen Mut fassen** — *to take heart; to pluck up courage*
+- **Vertrauen fassen** — *to take heart; to pluck up courage*
+
 **Collocations**
 - neuen Mut fassen
 - Vertrauen fassen

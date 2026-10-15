@@ -34,6 +34,9 @@ status: "new"
 > Ich habe einen Zeitungsartikel über Gesundheit gelesen.
 > *I read a newspaper article about health.*
 
+**Phrases & Expressions:**
+- **Ich habe einen Zeitungsartikel über Gesundheit gelesen** — *I read a newspaper article about health* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 4b (Veränderungen)
 <!-- bank:end -->
 

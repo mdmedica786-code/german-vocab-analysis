@@ -33,6 +33,11 @@ status: "new"
 > Wir brauchen ein Umdenken in der Energiepolitik.
 > *We need a rethink in energy policy.*
 
+**Phrases & Expressions:**
+- **ein Umdenken fordern** — *rethink; change of thinking*
+- **ein Umdenken einleiten** — *rethink; change of thinking*
+- **gesellschaftliches Umdenken** — *rethink; change of thinking*
+
 **Collocations**
 - ein Umdenken fordern
 - ein Umdenken einleiten

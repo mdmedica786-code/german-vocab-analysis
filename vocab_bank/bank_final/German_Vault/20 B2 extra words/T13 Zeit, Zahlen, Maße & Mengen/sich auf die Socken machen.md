@@ -29,6 +29,10 @@ status: "new"
 > Wir müssen uns auf die Socken machen, sonst verpassen wir den Zug.
 > *We have to get going, otherwise we'll miss the train.*
 
+**Phrases & Expressions:**
+- **sich auf den Weg machen** — *to get going*
+- **losgehen** — *to get going*
+
 **Collocations**
 - sich auf den Weg machen
 - losgehen

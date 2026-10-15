@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Zubereitung des Gerichts dauert 20 Minuten.
 > *Preparing the dish takes 20 minutes.*
+
+**Phrases & Expressions:**
+- **Die Zubereitung des Gerichts dauert 20 Minuten** — *Preparing the dish takes 20 minutes* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

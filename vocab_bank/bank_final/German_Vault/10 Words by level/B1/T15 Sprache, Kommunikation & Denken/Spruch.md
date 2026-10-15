@@ -34,6 +34,9 @@ status: "new"
 > Der Spruch steht auf dem Plakat.
 > *The saying is on the poster.*
 
+**Phrases & Expressions:**
+- **Der Spruch steht auf dem Plakat** — *The saying is on the poster* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 10b (Das ist ja praktisch!)
 <!-- bank:end -->
 

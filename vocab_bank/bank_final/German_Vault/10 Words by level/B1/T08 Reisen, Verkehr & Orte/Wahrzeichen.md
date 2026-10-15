@@ -34,6 +34,9 @@ status: "new"
 > Der Eiffelturm ist das Wahrzeichen von Paris.
 > *The Eiffel Tower is the landmark of Paris.*
 
+**Phrases & Expressions:**
+- **Der Eiffelturm ist das Wahrzeichen von Paris** — *The Eiffel Tower is the landmark of Paris* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

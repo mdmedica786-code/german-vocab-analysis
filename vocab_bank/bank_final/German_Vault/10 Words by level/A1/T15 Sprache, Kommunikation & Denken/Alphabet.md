@@ -35,6 +35,9 @@ status: "new"
 > Wie viele Buchstaben hat das Alphabet in Ihrer Sprache?
 > *How many letters does the alphabet in your language have?*
 
+**Phrases & Expressions:**
+- **Wie viele Buchstaben hat das Alphabet in Ihrer Sprache** — *How many letters does the alphabet in your language have* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 7a (Guten Tag!) · Goethe word list B1
 <!-- bank:end -->
 

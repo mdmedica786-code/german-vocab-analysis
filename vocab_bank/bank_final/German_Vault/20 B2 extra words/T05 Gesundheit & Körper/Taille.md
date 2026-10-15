@@ -33,6 +33,11 @@ status: "new"
 > Die Hose sitzt an der Taille zu eng.
 > *The trousers are too tight at the waist.*
 
+**Phrases & Expressions:**
+- **eine schmale Taille** — *waist*
+- **in der Taille** — *waist*
+- **die Taille messen** — *waist*
+
 **Collocations**
 - eine schmale Taille
 - in der Taille

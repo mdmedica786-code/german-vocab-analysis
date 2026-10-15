@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Eine Kommission prüft den Antrag.
 > *A committee is examining the application.*
+
+**Phrases & Expressions:**
+- **Eine Kommission prüft den Antrag** — *A committee is examining the application* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -29,6 +29,11 @@ status: "new"
 > Er trainiert sehr diszipliniert für den Marathon.
 > *He trains in a very disciplined way for the marathon.*
 
+**Phrases & Expressions:**
+- **diszipliniert arbeiten** — *disciplined*
+- **ein disziplinierter Schüler** — *disciplined*
+- **diszipliniert bleiben** — *disciplined*
+
 **Collocations**
 - diszipliniert arbeiten
 - ein disziplinierter Schüler

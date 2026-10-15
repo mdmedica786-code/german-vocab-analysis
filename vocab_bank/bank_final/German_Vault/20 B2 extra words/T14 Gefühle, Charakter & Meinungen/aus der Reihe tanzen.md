@@ -29,6 +29,10 @@ status: "new"
 > Wer aus der Reihe tanzt, bekommt Ärger mit dem Trainer.
 > *Anyone who steps out of line gets trouble from the coach.*
 
+**Phrases & Expressions:**
+- **nicht aus der Reihe tanzen** — *to step out of line*
+- **sich nicht anpassen** — *to step out of line*
+
 **Collocations**
 - nicht aus der Reihe tanzen
 - sich nicht anpassen

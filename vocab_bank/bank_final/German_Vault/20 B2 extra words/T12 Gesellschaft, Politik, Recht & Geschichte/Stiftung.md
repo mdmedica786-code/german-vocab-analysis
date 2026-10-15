@@ -33,6 +33,11 @@ status: "new"
 > Die Stiftung unterstützt junge Künstler.
 > *The foundation supports young artists.*
 
+**Phrases & Expressions:**
+- **eine Stiftung gründen** — *foundation; endowment*
+- **gemeinnützige Stiftung** — *foundation; endowment*
+- **von einer Stiftung gefördert** — *foundation; endowment*
+
 **Collocations**
 - eine Stiftung gründen
 - gemeinnützige Stiftung

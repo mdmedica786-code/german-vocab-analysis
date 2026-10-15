@@ -35,6 +35,9 @@ status: "new"
 > Von der Burg hat man eine schöne Aussicht.
 > *From the castle you have a nice view.*
 
+**Phrases & Expressions:**
+- **Von der Burg hat man eine schöne Aussicht** — *From the castle you have a nice view* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 11b (Ab in den Urlaub!) · Goethe word list B1
 <!-- bank:end -->
 

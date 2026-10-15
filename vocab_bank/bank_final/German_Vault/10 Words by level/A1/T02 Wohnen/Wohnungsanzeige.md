@@ -31,6 +31,9 @@ status: "new"
 > Ich habe eine Wohnungsanzeige in der Zeitung gelesen.
 > *I read a flat advertisement in the newspaper.*
 
+**Phrases & Expressions:**
+- **Ich habe eine Wohnungsanzeige in der Zeitung gelesen** — *I read a flat advertisement in the newspaper* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3c (Meine Wohnung)
 <!-- bank:end -->
 

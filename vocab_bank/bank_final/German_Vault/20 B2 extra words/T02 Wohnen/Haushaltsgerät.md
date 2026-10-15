@@ -33,6 +33,11 @@ status: "new"
 > Moderne Haushaltsgeräte sind oft sehr energiesparend.
 > *Modern household appliances are often very energy-efficient.*
 
+**Phrases & Expressions:**
+- **ein Haushaltsgerät kaufen** — *household appliance*
+- **elektrische Haushaltsgeräte** — *household appliance*
+- **Haushaltsgeräte reparieren** — *household appliance*
+
 **Collocations**
 - ein Haushaltsgerät kaufen
 - elektrische Haushaltsgeräte

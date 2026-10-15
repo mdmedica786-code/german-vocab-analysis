@@ -32,6 +32,9 @@ status: "new"
 > Der Patient hat die Operation gut überlebt.
 > *The patient survived the operation well.*
 
+**Phrases & Expressions:**
+- **Der Patient hat die Operation gut überlebt** — *The patient survived the operation well* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

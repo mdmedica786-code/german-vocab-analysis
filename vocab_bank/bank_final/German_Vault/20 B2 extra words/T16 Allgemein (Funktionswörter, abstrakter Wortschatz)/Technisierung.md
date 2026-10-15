@@ -33,6 +33,11 @@ status: "new"
 > Die Technisierung der Landwirtschaft hat viele Arbeitsplätze verändert.
 > *The mechanisation of agriculture has changed many jobs.*
 
+**Phrases & Expressions:**
+- **die Technisierung des Alltags** — *mechanisation; increasing use of technology*
+- **fortschreitende Technisierung** — *mechanisation; increasing use of technology*
+- **die Technisierung der Arbeit** — *mechanisation; increasing use of technology*
+
 **Collocations**
 - die Technisierung des Alltags
 - fortschreitende Technisierung

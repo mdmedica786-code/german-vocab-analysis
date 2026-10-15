@@ -33,6 +33,11 @@ status: "new"
 > Der Fachkräftemangel betrifft viele Branchen.
 > *The shortage of skilled workers affects many sectors.*
 
+**Phrases & Expressions:**
+- **unter Fachkräftemangel leiden** — *shortage of skilled workers*
+- **dem Fachkräftemangel begegnen** — *shortage of skilled workers*
+- **akuter Fachkräftemangel** — *shortage of skilled workers*
+
 **Collocations**
 - unter Fachkräftemangel leiden
 - dem Fachkräftemangel begegnen

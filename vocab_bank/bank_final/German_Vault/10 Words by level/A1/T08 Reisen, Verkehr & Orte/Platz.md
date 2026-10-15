@@ -37,6 +37,10 @@ status: "new"
 > Wir haben Platz für 1.250 Patienten.
 > *We have room for 1.250 patients.*
 
+**Phrases & Expressions:**
+- **Guten Tag, nehmen Sie bitte Platz.** — Hello, please take a seat. *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Patienten begrüßen]] · A2)*
+- **Der Sozialdienst kümmert sich um einen Reha-Platz für Sie.** — The social services take care of a rehabilitation place for you. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Rehabilitation]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 7a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

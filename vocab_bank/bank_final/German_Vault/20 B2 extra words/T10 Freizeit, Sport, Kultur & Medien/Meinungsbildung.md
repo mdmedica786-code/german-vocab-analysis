@@ -33,6 +33,11 @@ status: "new"
 > Die Medien tragen zur Meinungsbildung bei.
 > *The media contribute to the formation of opinion.*
 
+**Phrases & Expressions:**
+- **zur Meinungsbildung beitragen** — *formation of opinion*
+- **politische Meinungsbildung** — *formation of opinion*
+- **freie Meinungsbildung** — *formation of opinion*
+
 **Collocations**
 - zur Meinungsbildung beitragen
 - politische Meinungsbildung

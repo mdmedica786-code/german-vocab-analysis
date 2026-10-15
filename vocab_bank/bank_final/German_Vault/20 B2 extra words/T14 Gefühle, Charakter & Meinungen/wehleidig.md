@@ -29,6 +29,11 @@ status: "new"
 > Sei nicht so wehleidig, es ist nur ein kleiner Kratzer!
 > *Don't be so whiny; it's only a small scratch!*
 
+**Phrases & Expressions:**
+- **wehleidig sein** — *whiny; self-pitying*
+- **wehleidig klingen** — *whiny; self-pitying*
+- **ein wehleidiger Mensch** — *whiny; self-pitying*
+
 **Collocations**
 - wehleidig sein
 - wehleidig klingen

@@ -30,6 +30,9 @@ status: "new"
 > Prinzipiell bin ich dafür.
 > *In principle I am in favour.*
 
+**Phrases & Expressions:**
+- **Prinzipiell bin ich dafür** — *In principle I am in favour* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

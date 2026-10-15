@@ -33,6 +33,11 @@ status: "new"
 > Reich mir bitte den Schraubenzieher, ich muss das Regal festschrauben.
 > *Please pass me the screwdriver; I have to screw the shelf tight.*
 
+**Phrases & Expressions:**
+- **ein Schraubenzieher mit Kreuzschlitz** — *screwdriver*
+- **den Schraubenzieher benutzen** — *screwdriver*
+- **Schraubenzieher und Zange** — *screwdriver*
+
 **Collocations**
 - ein Schraubenzieher mit Kreuzschlitz
 - den Schraubenzieher benutzen

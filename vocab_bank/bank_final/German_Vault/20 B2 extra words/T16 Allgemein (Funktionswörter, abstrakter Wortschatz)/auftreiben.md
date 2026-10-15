@@ -32,6 +32,11 @@ status: "new"
 > Ich konnte so schnell keinen Handwerker auftreiben.
 > *I could not get hold of a tradesman that quickly.*
 
+**Phrases & Expressions:**
+- **Geld auftreiben** — *to track down; to get hold of*
+- **einen Ersatz auftreiben** — *to track down; to get hold of*
+- **schwer aufzutreiben** — *to track down; to get hold of*
+
 **Collocations**
 - Geld auftreiben
 - einen Ersatz auftreiben

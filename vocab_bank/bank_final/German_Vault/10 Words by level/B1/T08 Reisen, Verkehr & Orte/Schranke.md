@@ -34,6 +34,9 @@ status: "new"
 > Die Schranke am Bahnübergang ist geschlossen.
 > *The barrier at the level crossing is closed.*
 
+**Phrases & Expressions:**
+- **Die Schranke am Bahnübergang ist geschlossen** — *The barrier at the level crossing is closed* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 13b (Kunststücke)
 <!-- bank:end -->
 

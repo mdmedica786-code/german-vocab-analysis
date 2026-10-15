@@ -29,6 +29,11 @@ status: "new"
 > Das Personal im Hotel war sehr zuvorkommend.
 > *The staff at the hotel were very obliging.*
 
+**Phrases & Expressions:**
+- **zuvorkommend behandeln** — *obliging; courteous*
+- **zuvorkommend sein** — *obliging; courteous*
+- **eine zuvorkommende Bedienung** — *obliging; courteous*
+
 **Collocations**
 - zuvorkommend behandeln
 - zuvorkommend sein

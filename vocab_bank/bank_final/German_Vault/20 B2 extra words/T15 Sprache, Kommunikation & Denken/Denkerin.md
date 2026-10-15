@@ -33,6 +33,11 @@ status: "new"
 > Hannah Arendt war eine bedeutende Denkerin.
 > *Hannah Arendt was an important thinker.*
 
+**Phrases & Expressions:**
+- **eine bedeutende Denkerin** — *thinker (female)*
+- **eine kritische Denkerin** — *thinker (female)*
+- **die Denkerinnen des Jahrhunderts** — *thinker (female)*
+
 **Collocations**
 - eine bedeutende Denkerin
 - eine kritische Denkerin

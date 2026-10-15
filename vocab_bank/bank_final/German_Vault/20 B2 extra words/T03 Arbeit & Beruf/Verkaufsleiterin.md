@@ -33,6 +33,11 @@ status: "new"
 > Die Verkaufsleiterin hat das Team gelobt.
 > *The sales manager praised the team.*
 
+**Phrases & Expressions:**
+- **die Verkaufsleiterin einer Firma** — *sales manager (female)*
+- **als Verkaufsleiterin arbeiten** — *sales manager (female)*
+- **mit der Verkaufsleiterin sprechen** — *sales manager (female)*
+
 **Collocations**
 - die Verkaufsleiterin einer Firma
 - als Verkaufsleiterin arbeiten

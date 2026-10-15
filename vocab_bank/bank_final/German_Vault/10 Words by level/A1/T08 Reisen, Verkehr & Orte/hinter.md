@@ -32,6 +32,9 @@ status: "new"
 > Hinter dem Haus haben wir einen Garten.
 > *Behind the house we have a garden.*
 
+**Phrases & Expressions:**
+- **Hinter dem Haus haben wir einen Garten** — *Behind the house we have a garden* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 6b (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

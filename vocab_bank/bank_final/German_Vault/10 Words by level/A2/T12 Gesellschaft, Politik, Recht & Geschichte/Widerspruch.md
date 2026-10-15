@@ -34,6 +34,9 @@ status: "new"
 > Ich lege Widerspruch gegen den Bescheid ein.
 > *I am lodging an objection to the notice.*
 
+**Phrases & Expressions:**
+- **Ich lege Widerspruch gegen den Bescheid ein** — *I am lodging an objection to the notice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 5b (Sportlich, sportlich)
 <!-- bank:end -->
 

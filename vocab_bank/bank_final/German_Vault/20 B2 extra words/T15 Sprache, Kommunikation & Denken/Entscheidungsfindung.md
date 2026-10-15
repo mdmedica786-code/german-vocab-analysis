@@ -33,6 +33,11 @@ status: "new"
 > Bei der Entscheidungsfindung sind alle Meinungen wichtig.
 > *In decision-making all opinions are important.*
 
+**Phrases & Expressions:**
+- **die Entscheidungsfindung im Team** — *decision-making*
+- **bei der Entscheidungsfindung** — *decision-making*
+- **die Entscheidungsfindung erleichtern** — *decision-making*
+
 **Collocations**
 - die Entscheidungsfindung im Team
 - bei der Entscheidungsfindung

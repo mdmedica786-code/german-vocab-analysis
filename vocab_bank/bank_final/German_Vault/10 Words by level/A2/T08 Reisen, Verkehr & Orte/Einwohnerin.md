@@ -35,6 +35,9 @@ status: "new"
 > Jede Einwohnerin der Stadt bekommt einen Brief.
 > *Every female resident of the city gets a letter.*
 
+**Phrases & Expressions:**
+- **Jede Einwohnerin der Stadt bekommt einen Brief** — *Every female resident of the city gets a letter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 13a (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

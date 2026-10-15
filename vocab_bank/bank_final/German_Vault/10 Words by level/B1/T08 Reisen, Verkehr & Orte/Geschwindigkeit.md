@@ -35,6 +35,9 @@ status: "new"
 > Das Auto fuhr mit zu hoher Geschwindigkeit.
 > *The car drove at too high a speed.*
 
+**Phrases & Expressions:**
+- **Das Auto fuhr mit zu hoher Geschwindigkeit** — *The car drove at too high a speed* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13c (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

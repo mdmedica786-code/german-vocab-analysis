@@ -35,6 +35,9 @@ status: "new"
 > Ich möchte im Sommer auf einer Insel Urlaub machen.
 > *In summer I'd like to go on holiday on an island.*
 
+**Phrases & Expressions:**
+- **Ich möchte im Sommer auf einer Insel Urlaub machen** — *In summer I'd like to go on holiday on an island* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 12b (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

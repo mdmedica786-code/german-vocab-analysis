@@ -32,6 +32,11 @@ status: "new"
 > Ich bin 22 Jahre alt.
 > *I'm 22 years old.*
 
+**Phrases & Expressions:**
+- **im Alter** — in old age *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **beim Alten bleiben** — to stay the same *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B1)*
+- **Zum Hintergrund: Er ist 80 Jahre alt und hat eine Herzinsuffizienz.** — On the background: He is 80 years old and has heart failure. *([[FSP-19 Übergabe, Konsil und Rücksprache|SBAR: Hintergrund]] · C1)*
+
 **Source:** Netzwerk neu A1 K2 7a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Wir danken Ihnen für Ihre Mitarbeit.
 > *We thank you for your cooperation.*
+
+**Phrases & Expressions:**
+- **Wir danken Ihnen für Ihre Mitarbeit** — *We thank you for your cooperation* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

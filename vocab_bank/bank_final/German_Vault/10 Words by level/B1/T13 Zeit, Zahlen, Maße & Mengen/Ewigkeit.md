@@ -34,6 +34,9 @@ status: "new"
 > Wir haben uns seit einer Ewigkeit nicht gesehen.
 > *We have not seen each other for ages.*
 
+**Phrases & Expressions:**
+- **Wir haben uns seit einer Ewigkeit nicht gesehen** — *We have not seen each other for ages* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 2b (Zwischenmenschliches)
 <!-- bank:end -->
 

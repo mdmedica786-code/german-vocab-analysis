@@ -35,6 +35,9 @@ status: "new"
 > Unsere Vermieterin ist eine sehr nette, ältere Frau.
 > *Our landlady is a very nice, older woman.*
 
+**Phrases & Expressions:**
+- **Unsere Vermieterin ist eine sehr nette, ältere Frau** — *Our landlady is a very nice, older woman* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 4f ÜB (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > In der Metallverarbeitung gibt es viele Ausbildungsplätze.
 > *There are many apprenticeship places in metalworking.*
 
+**Phrases & Expressions:**
+- **in der Metallverarbeitung** — *metalworking; metal processing*
+- **die Metallverarbeitung als Beruf** — *metalworking; metal processing*
+- **eine Firma für Metallverarbeitung** — *metalworking; metal processing*
+
 **Collocations**
 - in der Metallverarbeitung
 - die Metallverarbeitung als Beruf

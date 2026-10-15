@@ -33,6 +33,11 @@ status: "new"
 > An der Nordsee schützen Deiche das Land vor der Flut.
 > *On the North Sea dykes protect the land from the tide.*
 
+**Phrases & Expressions:**
+- **auf dem Deich spazieren** — *dyke*
+- **den Deich erhöhen** — *dyke*
+- **Schafe auf dem Deich** — *dyke*
+
 **Collocations**
 - auf dem Deich spazieren
 - den Deich erhöhen

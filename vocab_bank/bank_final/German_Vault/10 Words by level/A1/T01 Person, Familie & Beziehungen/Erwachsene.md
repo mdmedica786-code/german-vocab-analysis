@@ -36,6 +36,9 @@ status: "new"
 > Dieser Film ist nur für Erwachsene.
 > *This film is only for adults.*
 
+**Phrases & Expressions:**
+- **Dieser Film ist nur für Erwachsene** — *This film is only for adults* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 7a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

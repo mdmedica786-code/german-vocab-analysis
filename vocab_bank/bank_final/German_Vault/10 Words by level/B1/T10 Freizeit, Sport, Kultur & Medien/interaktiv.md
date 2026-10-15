@@ -30,6 +30,9 @@ status: "new"
 > Die Ausstellung ist sehr interaktiv.
 > *The exhibition is very interactive.*
 
+**Phrases & Expressions:**
+- **Die Ausstellung ist sehr interaktiv** — *The exhibition is very interactive* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

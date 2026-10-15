@@ -32,6 +32,12 @@ status: "new"
 > Leider ist mein Fahrrad kaputtgegangen. Ich musste es nach Hause schieben.
 > *Unfortunately my bike broke. I had to push it home.*
 
+**Phrases & Expressions:**
+- **einen Wagen schieben** — *to push*
+- **das Fahrrad schieben** — *to push*
+- **die Schuld schieben** — *to push*
+- **etwas aufschieben** — *to push*
+
 **Collocations**
 - einen Wagen schieben
 - das Fahrrad schieben

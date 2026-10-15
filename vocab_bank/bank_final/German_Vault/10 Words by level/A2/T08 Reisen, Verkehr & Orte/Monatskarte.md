@@ -34,6 +34,9 @@ status: "new"
 > Mit der Monatskarte fahre ich günstiger.
 > *With the monthly ticket I travel more cheaply.*
 
+**Phrases & Expressions:**
+- **Mit der Monatskarte fahre ich günstiger** — *With the monthly ticket I travel more cheaply* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil)
 <!-- bank:end -->
 

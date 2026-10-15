@@ -29,6 +29,11 @@ status: "new"
 > Drum habe ich dich gestern angerufen.
 > *That is why I called you yesterday.*
 
+**Phrases & Expressions:**
+- **drum herum** — *therefore; around it (colloquial)*
+- **alles drum und dran** — *therefore; around it (colloquial)*
+- **sei's drum** — *therefore; around it (colloquial)*
+
 **Collocations**
 - drum herum
 - alles drum und dran

@@ -33,6 +33,11 @@ status: "new"
 > Der Offizier gab seinen Soldaten den Befehl.
 > *The officer gave his soldiers the order.*
 
+**Phrases & Expressions:**
+- **ein hoher Offizier** — *officer*
+- **Offizier bei der Marine** — *officer*
+- **Offizier der Armee** — *officer*
+
 **Collocations**
 - ein hoher Offizier
 - Offizier bei der Marine

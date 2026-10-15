@@ -33,6 +33,11 @@ status: "new"
 > Moderne Autos haben viele Assistenzsysteme.
 > *Modern cars have many assistance systems.*
 
+**Phrases & Expressions:**
+- **ein Assistenzsystem nutzen** — *assistance system; driver-assistance system*
+- **digitale Assistenzsysteme** — *assistance system; driver-assistance system*
+- **ein Assistenzsystem im Auto** — *assistance system; driver-assistance system*
+
 **Collocations**
 - ein Assistenzsystem nutzen
 - digitale Assistenzsysteme

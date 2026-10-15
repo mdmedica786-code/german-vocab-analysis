@@ -33,6 +33,12 @@ status: "new"
 > Er hat ein sehr gutes Gehör.
 > *He has very good hearing.*
 
+**Phrases & Expressions:**
+- **ein gutes Gehör** — *hearing*
+- **das Gehör verlieren** — *hearing*
+- **das Gehör schützen** — *hearing*
+- **das Gehör testen** — *hearing*
+
 **Collocations**
 - ein gutes Gehör
 - das Gehör verlieren

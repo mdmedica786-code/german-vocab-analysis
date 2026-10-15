@@ -35,6 +35,9 @@ status: "new"
 > Das Wort steht in der fünften Zeile von oben.
 > *The word is in the fifth line from the top.*
 
+**Phrases & Expressions:**
+- **Das Wort steht in der fünften Zeile von oben** — *The word is in the fifth line from the top* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Die Warteschlange schien endlos.
 > *The queue seemed endless.*
 
+**Phrases & Expressions:**
+- **endlos lang** — *endless; infinite*
+- **eine endlose Diskussion** — *endless; infinite*
+- **endlos warten** — *endless; infinite*
+
 **Collocations**
 - endlos lang
 - eine endlose Diskussion

@@ -31,6 +31,9 @@ status: "new"
 > Morgen habe ich meinen Probetag in der Bäckerei.
 > *Tomorrow I have my trial day at the bakery.*
 
+**Phrases & Expressions:**
+- **Morgen habe ich meinen Probetag in der Bäckerei** — *Tomorrow I have my trial day at the bakery* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt)
 <!-- bank:end -->
 

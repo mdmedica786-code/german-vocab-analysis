@@ -34,6 +34,9 @@ status: "new"
 > Es regnet! Der ganze Ausflug ist im Eimer!
 > *It's raining! The whole excursion is up the spout!*
 
+**Phrases & Expressions:**
+- **Es regnet! Der ganze Ausflug ist im Eimer** — *It's raining! The whole excursion is up the spout* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 9a (Gute Reise!)
 <!-- bank:end -->
 

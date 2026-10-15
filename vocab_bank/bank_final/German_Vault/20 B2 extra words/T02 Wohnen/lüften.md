@@ -31,6 +31,11 @@ status: "new"
 > Bitte lüften Sie das Zimmer jeden Morgen.
 > *Please air the room every morning.*
 
+**Phrases & Expressions:**
+- **das Zimmer lüften** — *to air; to ventilate*
+- **stoßlüften** — *to air; to ventilate*
+- **ein Geheimnis lüften** — *to air; to ventilate*
+
 **Collocations**
 - das Zimmer lüften
 - stoßlüften

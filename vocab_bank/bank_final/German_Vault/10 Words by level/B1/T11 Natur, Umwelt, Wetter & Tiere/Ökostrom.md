@@ -34,6 +34,9 @@ status: "new"
 > Wir beziehen nur Ökostrom.
 > *We only use green electricity.*
 
+**Phrases & Expressions:**
+- **Wir beziehen nur Ökostrom** — *We only use green electricity* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

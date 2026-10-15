@@ -34,6 +34,9 @@ status: "new"
 > Mein Navi zeigt den schnellsten Weg.
 > *My satnav shows the fastest route.*
 
+**Phrases & Expressions:**
+- **Mein Navi zeigt den schnellsten Weg** — *My satnav shows the fastest route* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 2 (Ganz schön mobil)
 <!-- bank:end -->
 

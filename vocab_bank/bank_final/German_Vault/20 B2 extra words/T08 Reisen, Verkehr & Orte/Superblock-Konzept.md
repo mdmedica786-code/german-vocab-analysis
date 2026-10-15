@@ -30,6 +30,11 @@ status: "new"
 > Das Superblock-Konzept soll den Autoverkehr in der Stadt reduzieren.
 > *The superblock concept is meant to reduce car traffic in the city.*
 
+**Phrases & Expressions:**
+- **das Superblock-Konzept einführen** — *superblock concept (traffic-calmed city blocks)*
+- **das Superblock-Konzept umsetzen** — *superblock concept (traffic-calmed city blocks)*
+- **ein Superblock-Konzept für die Stadt** — *superblock concept (traffic-calmed city blocks)*
+
 **Collocations**
 - das Superblock-Konzept einführen
 - das Superblock-Konzept umsetzen

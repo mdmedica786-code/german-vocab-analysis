@@ -33,6 +33,11 @@ status: "new"
 > Vergiss deine Trinkflasche nicht, es wird heiß.
 > *Don't forget your water bottle; it's going to be hot.*
 
+**Phrases & Expressions:**
+- **die Trinkflasche füllen** — *drinking bottle; water bottle*
+- **eine wiederverwendbare Trinkflasche** — *drinking bottle; water bottle*
+- **Trinkflasche mitnehmen** — *drinking bottle; water bottle*
+
 **Collocations**
 - die Trinkflasche füllen
 - eine wiederverwendbare Trinkflasche

@@ -29,6 +29,11 @@ status: "new"
 > Sie hat eine empfindliche Haut und verträgt viele Cremes nicht.
 > *She has sensitive skin and cannot tolerate many creams.*
 
+**Phrases & Expressions:**
+- **empfindlich reagieren** — *sensitive; delicate; severe*
+- **eine empfindliche Strafe** — *sensitive; delicate; severe*
+- **empfindlich gegen Kälte** — *sensitive; delicate; severe*
+
 **Collocations**
 - empfindlich reagieren
 - eine empfindliche Strafe

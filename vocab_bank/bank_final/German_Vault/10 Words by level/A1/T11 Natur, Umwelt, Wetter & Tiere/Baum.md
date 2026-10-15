@@ -35,6 +35,9 @@ status: "new"
 > Vorsicht, fahr nicht an den Baum!
 > *Careful, don't drive into the tree!*
 
+**Phrases & Expressions:**
+- **Vorsicht, fahr nicht an den Baum** — *Careful, don't drive into the tree* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 11a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

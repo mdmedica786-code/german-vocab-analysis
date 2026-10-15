@@ -35,6 +35,9 @@ status: "new"
 > Ihr könnt eure Sachen im Hotel lassen.
 > *You can leave your things at the hotel.*
 
+**Phrases & Expressions:**
+- **Ihr könnt eure Sachen im Hotel lassen** — *You can leave your things at the hotel* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 4b (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > In der neuen Küche fehlt noch der Herd.
 > *The new kitchen still lacks the cooker.*
 
+**Phrases & Expressions:**
+- **In der neuen Küche fehlt noch der Herd** — *The new kitchen still lacks the cooker* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

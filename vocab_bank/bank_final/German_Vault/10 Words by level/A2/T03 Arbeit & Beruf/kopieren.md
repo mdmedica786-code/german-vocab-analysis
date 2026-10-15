@@ -33,6 +33,9 @@ status: "new"
 > Kann ich mir diesen Artikel kopieren?
 > *Can I copy this article?*
 
+**Phrases & Expressions:**
+- **Kann ich mir diesen Artikel kopieren** — *Can I copy this article* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1a (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

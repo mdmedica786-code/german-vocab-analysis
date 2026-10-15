@@ -29,6 +29,11 @@ status: "new"
 > Anfänglich hatte sie Zweifel an dem Plan.
 > *Initially she had doubts about the plan.*
 
+**Phrases & Expressions:**
+- **anfängliche Schwierigkeiten** — *initial; at first*
+- **anfänglich skeptisch** — *initial; at first*
+- **die anfängliche Begeisterung** — *initial; at first*
+
 **Collocations**
 - anfängliche Schwierigkeiten
 - anfänglich skeptisch

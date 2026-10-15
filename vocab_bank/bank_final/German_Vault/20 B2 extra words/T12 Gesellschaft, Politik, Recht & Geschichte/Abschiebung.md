@@ -33,6 +33,11 @@ status: "new"
 > Gegen die Abschiebung der Familie gab es Proteste.
 > *There were protests against the deportation of the family.*
 
+**Phrases & Expressions:**
+- **von Abschiebung bedroht** — *deportation*
+- **die Abschiebung stoppen** — *deportation*
+- **drohende Abschiebung** — *deportation*
+
 **Collocations**
 - von Abschiebung bedroht
 - die Abschiebung stoppen

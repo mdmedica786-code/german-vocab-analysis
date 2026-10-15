@@ -34,6 +34,9 @@ status: "new"
 > Das ist eine Verschwendung von Wasser.
 > *That is a waste of water.*
 
+**Phrases & Expressions:**
+- **Das ist eine Verschwendung von Wasser** — *That is a waste of water* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

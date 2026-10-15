@@ -29,6 +29,10 @@ status: "new"
 > Bei dieser Entscheidung steht viel auf dem Spiel.
 > *A lot is at stake in this decision.*
 
+**Phrases & Expressions:**
+- **viel auf dem Spiel stehen** — *to be at stake*
+- **etwas aufs Spiel setzen** — *to be at stake*
+
 **Collocations**
 - viel auf dem Spiel stehen
 - etwas aufs Spiel setzen

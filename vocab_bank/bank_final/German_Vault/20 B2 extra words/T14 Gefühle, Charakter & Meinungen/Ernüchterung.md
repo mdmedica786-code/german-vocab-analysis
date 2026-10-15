@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Test folgte die Ernüchterung.
 > *After the test came the disillusionment.*
 
+**Phrases & Expressions:**
+- **Ernüchterung eintreten** — *disillusionment; sobering*
+- **zur Ernüchterung führen** — *disillusionment; sobering*
+- **große Ernüchterung** — *disillusionment; sobering*
+
 **Collocations**
 - Ernüchterung eintreten
 - zur Ernüchterung führen

@@ -31,6 +31,12 @@ status: "new"
 > Ich verdanke ihm mein Leben.
 > *I owe him my life.*
 
+**Phrases & Expressions:**
+- **es zu verdanken sein, dass ...** — to be thanks to ... that ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · C1)*
+- **jemandem etwas verdanken** — *to owe; to have to thank for*
+- **es verdanken, dass** — *to owe; to have to thank for*
+- **seinen Erfolg verdanken** — *to owe; to have to thank for*
+
 **Collocations**
 - jemandem etwas verdanken
 - es verdanken, dass

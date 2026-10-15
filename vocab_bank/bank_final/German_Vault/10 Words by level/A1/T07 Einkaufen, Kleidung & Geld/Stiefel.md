@@ -35,6 +35,9 @@ status: "new"
 > Wie viel kosten die roten Stiefel?
 > *How much are the red boots?*
 
+**Phrases & Expressions:**
+- **Wie viel kosten die roten Stiefel** — *How much are the red boots* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 2a ÜB (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

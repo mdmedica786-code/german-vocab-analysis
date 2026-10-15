@@ -36,6 +36,10 @@ status: "new"
 > Vielleicht kann ich auf der Messe einen Job bekommen.
 > **
 
+**Phrases & Expressions:**
+- **Ich messe jetzt Ihren Blutdruck.** — I will now measure your blood pressure. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Blutdruck messen]] · A2)*
+- **Messen Sie bitte täglich Ihren Blutdruck und notieren Sie die Werte.** — Please measure your blood pressure daily and note the values. *([[FSP-11 Therapie und Medikamente erklären|Selbstmanagement]] · B2)*
+
 **Source:** Netzwerk neu A2 K2 1c (Nach der Schulzeit) · Goethe word list A2
 <!-- bank:end -->
 

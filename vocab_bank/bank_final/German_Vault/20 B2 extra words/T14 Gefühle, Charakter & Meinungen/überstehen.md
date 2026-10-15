@@ -31,6 +31,11 @@ status: "new"
 > Sie hat die schwere Zeit gut überstanden.
 > *She got through the difficult time well.*
 
+**Phrases & Expressions:**
+- **eine Krankheit überstehen** — *to survive; to get through; to endure*
+- **eine Krise überstehen** — *to survive; to get through; to endure*
+- **den Winter überstehen** — *to survive; to get through; to endure*
+
 **Collocations**
 - eine Krankheit überstehen
 - eine Krise überstehen

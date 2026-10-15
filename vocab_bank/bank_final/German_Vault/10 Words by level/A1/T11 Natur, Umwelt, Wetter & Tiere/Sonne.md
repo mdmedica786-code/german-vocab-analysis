@@ -35,6 +35,9 @@ status: "new"
 > Die Sonne scheint.
 > *The sun is shining.*
 
+**Phrases & Expressions:**
+- **Die Sonne scheint** — *The sun is shining* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Er hat seine Dissertation nach vier Jahren abgegeben.
 > *He submitted his doctoral thesis after four years.*
 
+**Phrases & Expressions:**
+- **eine Dissertation schreiben** — *doctoral thesis*
+- **die Dissertation verteidigen** — *doctoral thesis*
+- **Thema der Dissertation** — *doctoral thesis*
+
 **Collocations**
 - eine Dissertation schreiben
 - die Dissertation verteidigen

@@ -30,6 +30,9 @@ status: "new"
 > Dienstags gehe ich zum Sport.
 > *On Tuesdays I go to sport.*
 
+**Phrases & Expressions:**
+- **Dienstags gehe ich zum Sport** — *On Tuesdays I go to sport* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

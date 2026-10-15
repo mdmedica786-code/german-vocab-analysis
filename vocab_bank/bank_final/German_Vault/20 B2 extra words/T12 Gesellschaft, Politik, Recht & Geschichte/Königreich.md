@@ -33,6 +33,11 @@ status: "new"
 > Das Königreich bestand dreihundert Jahre.
 > *The kingdom existed for three hundred years.*
 
+**Phrases & Expressions:**
+- **das Vereinigte Königreich** — *kingdom*
+- **ein mächtiges Königreich** — *kingdom*
+- **im Königreich** — *kingdom*
+
 **Collocations**
 - das Vereinigte Königreich
 - ein mächtiges Königreich

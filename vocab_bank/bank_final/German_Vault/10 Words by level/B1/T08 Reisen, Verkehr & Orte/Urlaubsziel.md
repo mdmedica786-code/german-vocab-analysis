@@ -34,6 +34,9 @@ status: "new"
 > Unser Urlaubsziel ist Spanien.
 > *Our holiday destination is Spain.*
 
+**Phrases & Expressions:**
+- **Unser Urlaubsziel ist Spanien** — *Our holiday destination is Spain* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 3b (Gute Reise!)
 <!-- bank:end -->
 

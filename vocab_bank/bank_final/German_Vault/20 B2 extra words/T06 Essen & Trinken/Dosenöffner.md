@@ -33,6 +33,11 @@ status: "new"
 > Ohne Dosenöffner kann ich die Bohnen nicht aufmachen.
 > *Without a tin opener I cannot open the beans.*
 
+**Phrases & Expressions:**
+- **den Dosenöffner holen** — *tin opener*
+- **ein elektrischer Dosenöffner** — *tin opener*
+- **der Dosenöffner fehlt** — *tin opener*
+
 **Collocations**
 - den Dosenöffner holen
 - ein elektrischer Dosenöffner

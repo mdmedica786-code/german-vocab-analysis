@@ -35,6 +35,9 @@ status: "new"
 > Kannst du mich zum Flughafen bringen?
 > *Can you take me to the airport?*
 
+**Phrases & Expressions:**
+- **Kannst du mich zum Flughafen bringen** — *Can you take me to the airport* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 4b ÜB (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

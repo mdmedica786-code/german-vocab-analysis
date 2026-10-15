@@ -33,6 +33,9 @@ status: "new"
 > Ich arbeite bei "Taxi-Zentral".
 > *I work at "Taxi-Zentral"*
 
+**Phrases & Expressions:**
+- **Ich arbeite bei "Taxi-Zentral"** — *I work at "Taxi-Zentral"* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 7a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

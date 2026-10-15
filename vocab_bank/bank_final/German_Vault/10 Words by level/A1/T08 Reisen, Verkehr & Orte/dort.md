@@ -31,6 +31,9 @@ status: "new"
 > Dort ist unser Haus.
 > *Our house is over there.*
 
+**Phrases & Expressions:**
+- **dort, wo ...** — there where ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+
 **Source:** Netzwerk neu A1 K4 6a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

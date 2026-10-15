@@ -14,42 +14,49 @@ tags: ["redemittel", "level/A2", "level/B1"]
 ## Sich entschuldigen
 
 - **Entschuldigung, das war mein Fehler.** ⭐ — Sorry, that was my mistake.
+  - Words: [[Entschuldigung]] · [[Fehler]] · [[mein]]
   - Entschuldigung, das war mein Fehler. Ich habe die Uhrzeit verwechselt. *(Sorry, that was my mistake. I mixed up the time.)*
   - A2 · neutral · speaker: Beide · to: Alle
   - Grammar: Hauptsatz mit sein
   - Variants: Das tut mir leid, das war ein Fehler von mir. | Pardon, das war meine Schuld.
   - Exam: Goethe B1 Schreiben Aufgabe 1 und 3
 - **Es tut mir leid, dass ich zu spät komme.** ⭐ — I'm sorry that I'm late.
+  - Words: [[kommen]] · [[spät]] · [[leidtun]] · [[tun]] · [[wehtun]] · [[guttun]] · [[leid tun]] · [[leid]]
   - Es tut mir leid, dass ich zu spät komme. Der Bus hatte Verspätung. *(I'm sorry that I'm late. The bus was delayed.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: dass-Satz: Verb am Ende
   - Variants: Entschuldige die Verspätung. | Tut mir leid, dass ich so spät bin.
   - Exam: Goethe B1 Schreiben Aufgabe 1 und 3
 - **Entschuldigen Sie bitte die Störung.** — Please excuse the interruption.
+  - Words: [[bitte (interjection)]] · [[bitten]] · [[entschuldigen]] · [[Bitte]] · [[Störung]]
   - Entschuldigen Sie bitte die Störung, ich habe eine kurze Frage. *(Please excuse the interruption, I have a short question.)*
   - A2 · formal · speaker: Beide · to: Alle
   - Grammar: entschuldigen + Akk.; Imperativ Sie
   - Variants: Verzeihen Sie die Störung. | Darf ich Sie kurz stören?
   - Exam: Goethe B1 Schreiben Aufgabe 1 und 3
 - **Ich bitte vielmals um Entschuldigung.** — I apologise sincerely.
+  - Words: [[Entschuldigung]] · [[bitte (interjection)]] · [[bitten]] · [[Bitte]]
   - Ich bitte vielmals um Entschuldigung für die Unannehmlichkeiten. *(I apologise sincerely for the inconvenience.)*
   - B1 · formal · speaker: Beide · to: Alle
   - Grammar: bitten um + Akk.
   - Variants: Ich möchte mich in aller Form entschuldigen. | Bitte verzeihen Sie mir.
   - Exam: Goethe B1 Schreiben Aufgabe 1 und 3
 - **Verzeihen Sie bitte, dass ich ...** — Please forgive me for ...
+  - Words: [[bitte (interjection)]] · [[bitten]] · [[Bitte]] · [[verzeihen]]
   - Verzeihen Sie bitte, dass ich Sie nicht früher informiert habe. *(Please forgive me for not informing you earlier.)*
   - B1 · formal · speaker: Beide · to: Alle
   - Grammar: verzeihen + Dat.; dass-Satz im Perfekt
   - Variants: Bitte entschuldigen Sie, dass ich ... | Es tut mir sehr leid, dass ich ...
   - Exam: Goethe B1 Schreiben Aufgabe 1 und 3
 - **Tut mir leid, das wollte ich nicht.** ⭐ — Sorry, I didn't mean that.
+  - Words: [[leidtun]] · [[tun]] · [[wehtun]] · [[guttun]] · [[leid tun]] · [[wollen]] · [[leid]] · [[antun]]
   - Tut mir leid, das wollte ich nicht. Ich war nur müde. *(Sorry, I didn't mean that. I was just tired.)*
   - A2 · informal · speaker: Beide · to: Alle
   - Grammar: Präteritum von wollen
   - Variants: Das war keine Absicht. | Sei mir nicht böse, das wollte ich nicht.
   - Exam: Goethe B1 Schreiben Aufgabe 1 und 3
 - **Das war keine Absicht.** — That wasn't intentional.
+  - Words: [[Absicht]]
   - Das war keine Absicht, ich habe dich nicht gesehen. *(That wasn't intentional, I didn't see you.)*
   - A2 · neutral · speaker: Beide · to: Alle
   - Grammar: Absicht = feminin; keine
@@ -58,18 +65,21 @@ tags: ["redemittel", "level/A2", "level/B1"]
 ## Entschuldigung annehmen
 
 - **Kein Problem, das macht nichts.** ⭐ — No problem, it doesn't matter.
+  - Words: [[machen]] · [[nichts]] · [[Problem]] · [[mitmachen]] · [[anmachen]] · [[ausmachen]] · [[weitermachen]] · [[aufmachen]]
   - Kein Problem, das macht nichts. Wir haben noch Zeit. *(No problem, it doesn't matter. We still have time.)*
   - A2 · neutral · speaker: Beide · to: Alle
   - Grammar: Hauptsatz
   - Variants: Schon gut. | Das ist nicht schlimm.
   - Exam: Goethe B1 Schreiben Aufgabe 1 und 3
 - **Schon gut, mach dir keine Sorgen.** — It's fine, don't worry.
+  - Words: [[gut (adjective)]] · [[schon]] · [[sorgen]] · [[Sorge]] · [[Gut]] · [[guttun]] · [[gutschreiben]]
   - Schon gut, mach dir keine Sorgen. Das kann jedem passieren. *(It's fine, don't worry. That can happen to anyone.)*
   - A2 · informal · speaker: Beide · to: Alle
   - Grammar: Imperativ; sich (Dat.) Sorgen machen
   - Variants: Mach dir keinen Kopf. | Das ist halb so wild.
   - Exam: Goethe B1 Schreiben Aufgabe 1 und 3
 - **Ist schon in Ordnung.** ⭐ — It's all right.
+  - Words: [[schon]] · [[Ordnung]]
   - Ist schon in Ordnung. Nächstes Mal sagen Sie mir bitte Bescheid. *(It's all right. Next time please let me know.)*
   - A2 · neutral · speaker: Beide · to: Alle
   - Grammar: Kurzsatz ohne Subjekt (umgangssprachlich)
@@ -78,24 +88,28 @@ tags: ["redemittel", "level/A2", "level/B1"]
 ## Danken
 
 - **Vielen Dank für Ihre Hilfe.** ⭐ — Thank you very much for your help.
+  - Words: [[Dank]] · [[Hilfe]] · [[dank (preposition)]]
   - Vielen Dank für Ihre Hilfe, das war sehr freundlich. *(Thank you very much for your help, that was very kind.)*
   - A2 · formal · speaker: Beide · to: Alle
   - Grammar: danken für + Akk.
   - Variants: Ich danke Ihnen für Ihre Hilfe. | Besten Dank für Ihre Unterstützung.
   - Exam: Goethe B1 Schreiben Aufgabe 1 und 3
 - **Herzlichen Dank für alles!** ⭐ — Heartfelt thanks for everything!
+  - Words: [[Dank]] · [[alles]] · [[herzlich]] · [[dank (preposition)]]
   - Herzlichen Dank für alles! Ohne dich hätte ich das nicht geschafft. *(Heartfelt thanks for everything! I couldn't have done it without you.)*
   - A2 · neutral · speaker: Beide · to: Alle
   - Grammar: Ausruf; Genitiv nicht nötig
   - Variants: Tausend Dank! | Vielen, vielen Dank!
   - Exam: Goethe B1 Schreiben Aufgabe 1 und 3
 - **Das ist wirklich nett von dir.** ⭐ — That is really nice of you.
+  - Words: [[wirklich]] · [[nett]]
   - Das ist wirklich nett von dir, danke für die Einladung. *(That is really nice of you, thank you for the invitation.)*
   - A2 · informal · speaker: Beide · to: Alle
   - Grammar: nett von + Dativ
   - Variants: Das ist sehr lieb von dir. | Wie nett von dir!
   - Exam: Goethe B1 Schreiben Aufgabe 1 und 3
 - **Ich möchte mich ganz herzlich bei Ihnen bedanken.** — I would like to thank you very warmly.
+  - Words: [[ganz]] · [[möchten]] · [[herzlich]] · [[bedanken]]
   - Ich möchte mich ganz herzlich bei Ihnen für die Hilfe bedanken. *(I would like to thank you very warmly for the help.)*
   - B1 · formal · speaker: Beide · to: Alle
   - Grammar: sich bedanken bei + Dat. für + Akk.
@@ -104,12 +118,14 @@ tags: ["redemittel", "level/A2", "level/B1"]
 ## Auf Dank reagieren
 
 - **Gern geschehen, jederzeit wieder!** ⭐ — You're welcome, any time!
+  - Words: [[gern]] · [[geschehen]] · [[wieder]] · [[wiedergeben]] · [[jederzeit]] · [[wiedersehen (verb)]] · [[wiedererkennen]]
   - Gern geschehen, jederzeit wieder! Ich helfe dir gern. *(You're welcome, any time! I'm glad to help you.)*
   - A2 · neutral · speaker: Beide · to: Alle
   - Grammar: geschehen = passieren; Ausdruck
   - Variants: Keine Ursache! | Das habe ich gern gemacht.
   - Exam: Goethe B1 Schreiben Aufgabe 1 und 3
 - **Keine Ursache, das war doch selbstverständlich.** — Don't mention it, that was only natural.
+  - Words: [[doch]] · [[Ursache]] · [[selbstverständlich]]
   - Keine Ursache, das war doch selbstverständlich. *(Don't mention it, that was only natural.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: doch = Modalpartikel (Betonung)
@@ -118,6 +134,7 @@ tags: ["redemittel", "level/A2", "level/B1"]
 ## Bedauern ausdrücken
 
 - **Das tut mir wirklich leid für dich.** ⭐ — I'm really sorry for you.
+  - Words: [[wirklich]] · [[leidtun]] · [[tun]] · [[wehtun]] · [[guttun]] · [[leid tun]] · [[leid]] · [[antun]]
   - Das tut mir wirklich leid für dich. Ich hoffe, es wird bald besser. *(I'm really sorry for you. I hope it gets better soon.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: leid tun + Dativ; für + Akk.

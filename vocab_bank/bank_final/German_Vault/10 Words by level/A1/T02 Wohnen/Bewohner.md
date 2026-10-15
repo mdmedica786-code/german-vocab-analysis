@@ -35,6 +35,9 @@ status: "new"
 > Ich kenne die anderen Hausbewohner nicht.
 > *I don't know the other residents of the building.*
 
+**Phrases & Expressions:**
+- **Ich kenne die anderen Hausbewohner nicht** — *I don't know the other residents of the building* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 10b (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

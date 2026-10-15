@@ -34,6 +34,9 @@ status: "new"
 > Im Verkaufsraum stehen viele neue Autos.
 > *Many new cars are in the showroom.*
 
+**Phrases & Expressions:**
+- **Im Verkaufsraum stehen viele neue Autos** — *Many new cars are in the showroom* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

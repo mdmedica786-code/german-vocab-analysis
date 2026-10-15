@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Er wurde krank und ging daraufhin zum Arzt.
 > *He fell ill and thereupon went to the doctor.*
+
+**Phrases & Expressions:**
+- **Er wurde krank und ging daraufhin zum Arzt** — *He fell ill and thereupon went to the doctor* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

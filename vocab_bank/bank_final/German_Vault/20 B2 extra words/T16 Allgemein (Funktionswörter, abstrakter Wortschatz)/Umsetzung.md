@@ -33,6 +33,11 @@ status: "new"
 > Die Umsetzung des Plans beginnt im Januar.
 > *The implementation of the plan begins in January.*
 
+**Phrases & Expressions:**
+- **die Umsetzung eines Plans** — *implementation; realisation*
+- **in die Umsetzung gehen** — *implementation; realisation*
+- **praktische Umsetzung** — *implementation; realisation*
+
 **Collocations**
 - die Umsetzung eines Plans
 - in die Umsetzung gehen

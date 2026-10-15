@@ -32,6 +32,9 @@ status: "new"
 > Leider hat mich sein Verhalten enttäuscht.
 > *Unfortunately his behaviour disappointed me.*
 
+**Phrases & Expressions:**
+- **Ich bin enttäuscht, dass ...** — I am disappointed that ... *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Enttäuschung ausdrücken]] · B1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Mit Gymnastik bleibt man auch im Alter beweglich.
 > *With exercise you stay agile even in old age.*
 
+**Phrases & Expressions:**
+- **körperlich beweglich** — *movable; flexible; agile*
+- **beweglich bleiben** — *movable; flexible; agile*
+- **bewegliche Teile** — *movable; flexible; agile*
+
 **Collocations**
 - körperlich beweglich
 - beweglich bleiben

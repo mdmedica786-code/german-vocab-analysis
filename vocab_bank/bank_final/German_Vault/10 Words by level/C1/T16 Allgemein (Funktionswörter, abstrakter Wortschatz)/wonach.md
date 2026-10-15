@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Wonach suchst du?
 > *What are you looking for?*
+
+**Phrases & Expressions:**
+- **Wonach suchst du** — *What are you looking for* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -30,6 +30,9 @@ status: "new"
 > Deutschland ist ein demokratischer Staat.
 > *Germany is a democratic state.*
 
+**Phrases & Expressions:**
+- **Deutschland ist ein demokratischer Staat** — *Germany is a democratic state* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

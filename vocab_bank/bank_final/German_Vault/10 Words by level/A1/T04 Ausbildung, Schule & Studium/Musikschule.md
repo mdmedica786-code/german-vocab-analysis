@@ -34,6 +34,9 @@ status: "new"
 > Meine Tochter geht zweimal pro Woche in die Musikschule.
 > *My daughter goes to music school twice a week.*
 
+**Phrases & Expressions:**
+- **Meine Tochter geht zweimal pro Woche in die Musikschule** — *My daughter goes to music school twice a week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 7b (Alltag und Familie)
 <!-- bank:end -->
 

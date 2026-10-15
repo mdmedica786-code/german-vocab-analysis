@@ -32,6 +32,14 @@ status: "new"
 > Ich frühstücke um halb acht.
 > *I have breakfast at half past seven.*
 
+**Phrases & Expressions:**
+- **eine halbe Stunde** — half an hour *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+- **in einer halben Stunde** — in half an hour *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **halb acht** — *half; (halb neun) half past eight*
+- **ein halbes Jahr** — *half; (halb neun) half past eight*
+- **halb so viel** — *half; (halb neun) half past eight*
+- **halb voll** — *half; (halb neun) half past eight*
+
 **Collocations**
 - halb acht
 - ein halbes Jahr

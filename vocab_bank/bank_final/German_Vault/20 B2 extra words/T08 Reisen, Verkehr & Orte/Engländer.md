@@ -33,6 +33,11 @@ status: "new"
 > Der Engländer bestellte einen Tee.
 > *The Englishman ordered a tea.*
 
+**Phrases & Expressions:**
+- **ein Engländer** — *Englishman*
+- **Engländer und Schotten** — *Englishman*
+- **wie ein Engländer** — *Englishman*
+
 **Collocations**
 - ein Engländer
 - Engländer und Schotten

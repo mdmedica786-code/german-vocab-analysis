@@ -34,6 +34,9 @@ status: "new"
 > Die Redewiedergabe steht oft im Konjunktiv I.
 > *Reported speech is often in the subjunctive I.*
 
+**Phrases & Expressions:**
+- **Die Redewiedergabe steht oft im Konjunktiv I** — *Reported speech is often in the subjunctive I* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 4b (Ganz schön mobil)
 <!-- bank:end -->
 

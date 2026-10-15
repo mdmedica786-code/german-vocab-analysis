@@ -33,6 +33,11 @@ status: "new"
 > In der Küche sind Ameisen auf der Zuckerdose.
 > *In the kitchen there are ants on the sugar bowl.*
 
+**Phrases & Expressions:**
+- **fleißig wie eine Ameise** — *ant*
+- **ein Ameisenhaufen** — *ant*
+- **Ameisen bekämpfen** — *ant*
+
 **Collocations**
 - fleißig wie eine Ameise
 - ein Ameisenhaufen

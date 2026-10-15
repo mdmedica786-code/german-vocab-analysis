@@ -30,6 +30,9 @@ status: "new"
 > Das ist eine formelle Einladung.
 > *This is a formal invitation.*
 
+**Phrases & Expressions:**
+- **Das ist eine formelle Einladung** — *This is a formal invitation* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 3b (Guten Tag!)
 <!-- bank:end -->
 

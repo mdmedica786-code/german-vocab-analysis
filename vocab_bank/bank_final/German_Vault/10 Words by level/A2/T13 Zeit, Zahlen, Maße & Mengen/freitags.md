@@ -30,6 +30,9 @@ status: "new"
 > Freitags gehe ich schwimmen.
 > *On Fridays I go swimming.*
 
+**Phrases & Expressions:**
+- **Freitags gehe ich schwimmen** — *On Fridays I go swimming* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

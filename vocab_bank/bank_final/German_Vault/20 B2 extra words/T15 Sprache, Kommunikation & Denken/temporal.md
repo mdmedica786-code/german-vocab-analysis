@@ -29,6 +29,11 @@ status: "new"
 > Das Wort „gestern“ ist eine temporale Angabe.
 > *The word "gestern" is a temporal adverbial.*
 
+**Phrases & Expressions:**
+- **eine temporale Angabe** — *temporal; relating to time*
+- **ein temporaler Nebensatz** — *temporal; relating to time*
+- **eine temporale Konjunktion** — *temporal; relating to time*
+
 **Collocations**
 - eine temporale Angabe
 - ein temporaler Nebensatz

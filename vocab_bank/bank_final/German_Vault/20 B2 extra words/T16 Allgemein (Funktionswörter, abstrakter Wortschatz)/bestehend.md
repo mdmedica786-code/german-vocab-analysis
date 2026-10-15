@@ -29,6 +29,11 @@ status: "new"
 > Die bestehenden Regeln sollen geändert werden.
 > *The existing rules are to be changed.*
 
+**Phrases & Expressions:**
+- **bestehende Regeln** — *existing*
+- **das bestehende System** — *existing*
+- **aus drei Teilen bestehend** — *existing*
+
 **Collocations**
 - bestehende Regeln
 - das bestehende System

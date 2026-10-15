@@ -32,6 +32,12 @@ status: "new"
 > [!example] Beispiel
 > Logisches Denken ist für den Beruf wichtig.
 > *Logical thinking is important for the profession.*
+
+**Phrases & Expressions:**
+- **denken Sie an ...** — think of ...; remember ... *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B1)*
+- **denken Sie daran, dass ...** — remember that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **Wie denken Sie darüber?** — What do you think about that? *([[B1-01 Meinung äußern|Nach der Meinung fragen]] · B1)*
+- **Wir müssen auch an andere Ursachen denken.** — We must also think of other causes. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Differenzialdiagnosen]] · B2)*
 <!-- bank:end -->
 
 ## My notes

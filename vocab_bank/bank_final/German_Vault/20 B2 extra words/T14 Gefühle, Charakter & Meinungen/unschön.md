@@ -29,6 +29,11 @@ status: "new"
 > Das war eine unschöne Situation für alle.
 > *That was an unpleasant situation for everyone.*
 
+**Phrases & Expressions:**
+- **eine unschöne Szene** — *unpleasant; unattractive*
+- **unschön aussehen** — *unpleasant; unattractive*
+- **unschön enden** — *unpleasant; unattractive*
+
 **Collocations**
 - eine unschöne Szene
 - unschön aussehen

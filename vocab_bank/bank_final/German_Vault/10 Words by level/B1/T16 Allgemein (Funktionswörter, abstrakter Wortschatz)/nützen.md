@@ -33,6 +33,9 @@ status: "new"
 > Die Globalisierung nützt allen.
 > *The globalization is of use to everyone.*
 
+**Phrases & Expressions:**
+- **Die Globalisierung nützt allen** — *The globalization is of use to everyone* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

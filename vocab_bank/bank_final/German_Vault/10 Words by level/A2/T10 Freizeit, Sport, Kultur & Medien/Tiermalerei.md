@@ -31,6 +31,9 @@ status: "new"
 > Die Tiermalerei ist ein altes Genre.
 > *Animal painting is an old genre.*
 
+**Phrases & Expressions:**
+- **Die Tiermalerei ist ein altes Genre** — *Animal painting is an old genre* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 10c (Gute Unterhaltung!)
 <!-- bank:end -->
 

@@ -32,6 +32,14 @@ status: "new"
 > Das geht weit über meine Aufgaben hinaus.
 > *That goes far beyond my duties.*
 
+**Phrases & Expressions:**
+- **wie geht es dir?** — how are you? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **wie geht es dir** — how are you? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **darüber hinaus** — in addition; moreover *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **es geht um ...** — it is about ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · A2)*
+- **ich hoffe, es geht dir gut** — I hope you are well *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **geht nicht** — that won't do; that's not possible *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · A2)*
+
 **Collocations**
 - über etwas hinausgehen
 - aus dem Zimmer hinausgehen

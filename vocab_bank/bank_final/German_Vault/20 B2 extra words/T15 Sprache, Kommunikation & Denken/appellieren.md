@@ -32,6 +32,11 @@ status: "new"
 > Die Stadt appelliert an die Vernunft der Bürger.
 > *The city appeals to the reason of its citizens.*
 
+**Phrases & Expressions:**
+- **Ich appelliere an alle, ...** — I appeal to everyone to ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Schluss mit Appell]] · B2)*
+- **appellieren an + Akk.** — *to appeal*
+- **an die Vernunft appellieren** — *to appeal*
+
 **Collocations**
 - appellieren an + Akk.
 - an die Vernunft appellieren

@@ -33,6 +33,11 @@ status: "new"
 > Bitte unterschreiben Sie auf der Rückseite.
 > *Please sign on the back.*
 
+**Phrases & Expressions:**
+- **auf der Rückseite** — *back; reverse side*
+- **die Rückseite des Hauses** — *back; reverse side*
+- **Vorder- und Rückseite** — *back; reverse side*
+
 **Collocations**
 - auf der Rückseite
 - die Rückseite des Hauses

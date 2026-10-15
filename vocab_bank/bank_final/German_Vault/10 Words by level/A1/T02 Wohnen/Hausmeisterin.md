@@ -35,6 +35,9 @@ status: "new"
 > Die Hausmeisterin repariert die Heizung.
 > *The caretaker is repairing the heating.*
 
+**Phrases & Expressions:**
+- **Die Hausmeisterin repariert die Heizung** — *The caretaker is repairing the heating* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 5e (Arbeitsalltag) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Wir sind heil angekommen.
 > *We arrived safe and sound.*
 
+**Phrases & Expressions:**
+- **heil ankommen** — *unhurt; intact; whole*
+- **heil davonkommen** — *unhurt; intact; whole*
+- **eine heile Welt** — *unhurt; intact; whole*
+
 **Collocations**
 - heil ankommen
 - heil davonkommen

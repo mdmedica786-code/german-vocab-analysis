@@ -35,6 +35,9 @@ status: "new"
 > Bayern ist das größte Bundesland.
 > *Bavaria is the largest federal state.*
 
+**Phrases & Expressions:**
+- **Bayern ist das größte Bundesland** — *Bavaria is the largest federal state* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 10a (Nach der Schulzeit) · Goethe word list B1
 <!-- bank:end -->
 

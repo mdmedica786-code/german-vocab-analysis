@@ -34,6 +34,9 @@ status: "new"
 > Die Gewerkschaft vertritt die Interessen der Arbeitnehmer.
 > *The union represents the interests of the employees.*
 
+**Phrases & Expressions:**
+- **Die Gewerkschaft vertritt die Interessen der Arbeitnehmer** — *The union represents the interests of the employees* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

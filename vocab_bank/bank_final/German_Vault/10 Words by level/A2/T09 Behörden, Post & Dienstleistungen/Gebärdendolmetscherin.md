@@ -34,6 +34,9 @@ status: "new"
 > Die Gebärdendolmetscherin steht neben dem Redner.
 > *The sign language interpreter stands next to the speaker.*
 
+**Phrases & Expressions:**
+- **Die Gebärdendolmetscherin steht neben dem Redner** — *The sign language interpreter stands next to the speaker* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

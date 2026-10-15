@@ -33,6 +33,9 @@ status: "new"
 > Trinken Sie den Kaffee mit Milch?
 > **
 
+**Phrases & Expressions:**
+- **Trinken Sie den Kaffee mit Milch** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3d (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

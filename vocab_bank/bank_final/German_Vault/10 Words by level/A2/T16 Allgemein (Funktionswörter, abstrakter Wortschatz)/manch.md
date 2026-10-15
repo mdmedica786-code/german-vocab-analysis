@@ -30,6 +30,11 @@ status: "new"
 > Manch einer hat das schon erlebt.
 > *Many a person has already experienced that.*
 
+**Phrases & Expressions:**
+- **manch einer** — *some; many a*
+- **manch anderer** — *some; many a*
+- **so manches Mal** — *some; many a*
+
 **Collocations**
 - manch einer
 - manch anderer

@@ -30,6 +30,9 @@ status: "new"
 > Meine Schwester arbeitet freiberuflich als Ärztin.
 > *My sister works freelance as a doctor.*
 
+**Phrases & Expressions:**
+- **Meine Schwester arbeitet freiberuflich als Ärztin** — *My sister works freelance as a doctor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

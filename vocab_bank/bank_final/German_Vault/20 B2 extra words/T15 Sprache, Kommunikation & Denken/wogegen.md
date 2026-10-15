@@ -29,6 +29,11 @@ status: "new"
 > Wogegen protestieren die Studenten?
 > *What are the students protesting against?*
 
+**Phrases & Expressions:**
+- **wogegen protestieren** — *against what; whereas*
+- **wogegen kämpfen** — *against what; whereas*
+- **wogegen sich wehren** — *against what; whereas*
+
 **Collocations**
 - wogegen protestieren
 - wogegen kämpfen

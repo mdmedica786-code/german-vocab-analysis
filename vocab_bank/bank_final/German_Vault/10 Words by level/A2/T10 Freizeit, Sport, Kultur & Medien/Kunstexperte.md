@@ -34,6 +34,9 @@ status: "new"
 > Der Kunstexperte schätzt das Bild auf zehntausend Euro.
 > *The art expert values the painting at ten thousand euros.*
 
+**Phrases & Expressions:**
+- **Der Kunstexperte schätzt das Bild auf zehntausend Euro** — *The art expert values the painting at ten thousand euros* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!)
 <!-- bank:end -->
 

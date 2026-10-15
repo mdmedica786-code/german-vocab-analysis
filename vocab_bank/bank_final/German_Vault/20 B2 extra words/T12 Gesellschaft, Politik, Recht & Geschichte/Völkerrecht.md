@@ -33,6 +33,11 @@ status: "new"
 > Der Angriff verstößt gegen das Völkerrecht.
 > *The attack violates international law.*
 
+**Phrases & Expressions:**
+- **gegen das Völkerrecht verstoßen** — *international law*
+- **nach dem Völkerrecht** — *international law*
+- **Völkerrecht anwenden** — *international law*
+
 **Collocations**
 - gegen das Völkerrecht verstoßen
 - nach dem Völkerrecht

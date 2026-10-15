@@ -34,6 +34,9 @@ status: "new"
 > Ein Versprechen muss man halten.
 > *You must keep a promise.*
 
+**Phrases & Expressions:**
+- **Ein Versprechen muss man halten** — *You must keep a promise* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 9a (Geld regiert die Welt?)
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Name steht im Register.
 > *The name is in the register.*
+
+**Phrases & Expressions:**
+- **Der Name steht im Register** — *The name is in the register* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

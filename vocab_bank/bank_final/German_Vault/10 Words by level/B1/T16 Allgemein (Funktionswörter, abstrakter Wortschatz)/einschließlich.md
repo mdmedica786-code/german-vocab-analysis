@@ -32,6 +32,9 @@ status: "new"
 > Alles zusammen kostet 200 Euro einschließlich Fahrtkosten.
 > *Altogether it costs 200 euros including travel costs.*
 
+**Phrases & Expressions:**
+- **Alles zusammen kostet 200 Euro einschließlich Fahrtkosten** — *Altogether it costs 200 euros including travel costs* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

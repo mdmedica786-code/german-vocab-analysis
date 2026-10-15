@@ -32,6 +32,10 @@ status: "new"
 > Das Projekt ist an den hohen Kosten gescheitert.
 > *The project failed because of the high costs.*
 
+**Phrases & Expressions:**
+- **scheitern an + Dat.** — *to fail; to fall through*
+- **am Widerstand scheitern** — *to fail; to fall through*
+
 **Collocations**
 - scheitern an + Dat.
 - am Widerstand scheitern

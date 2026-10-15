@@ -34,6 +34,9 @@ status: "new"
 > Im Radiobericht ging es um das Wetter.
 > *The radio report was about the weather.*
 
+**Phrases & Expressions:**
+- **Im Radiobericht ging es um das Wetter** — *The radio report was about the weather* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 8d (Stadt, Land, Fluss)
 <!-- bank:end -->
 

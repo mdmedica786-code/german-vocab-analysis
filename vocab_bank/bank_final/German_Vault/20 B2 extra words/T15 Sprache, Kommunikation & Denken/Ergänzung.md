@@ -33,6 +33,11 @@ status: "new"
 > Zur Ergänzung füge ich noch einen Hinweis hinzu.
 > *As a supplement I add a further note.*
 
+**Phrases & Expressions:**
+- **zur Ergänzung** — *addition; supplement*
+- **eine Ergänzung vornehmen** — *addition; supplement*
+- **sinnvolle Ergänzung** — *addition; supplement*
+
 **Collocations**
 - zur Ergänzung
 - eine Ergänzung vornehmen

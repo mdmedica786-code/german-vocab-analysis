@@ -30,6 +30,9 @@ status: "new"
 > Der Verband war blutig.
 > *The bandage was bloody.*
 
+**Phrases & Expressions:**
+- **Ist der Urin verfärbt oder blutig?** — Is the urine discoloured or bloody? *([[FSP-06 Systemanamnese (Organsysteme)|Niere und Harnwege]] · B2)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist)
 <!-- bank:end -->
 

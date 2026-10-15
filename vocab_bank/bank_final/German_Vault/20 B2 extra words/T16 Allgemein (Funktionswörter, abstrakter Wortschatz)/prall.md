@@ -29,6 +29,11 @@ status: "new"
 > Der Rucksack ist prall gefüllt.
 > *The rucksack is stuffed full.*
 
+**Phrases & Expressions:**
+- **prall gefüllt** — *plump; full to bursting*
+- **pralle Sonne** — *plump; full to bursting*
+- **ein praller Geldbeutel** — *plump; full to bursting*
+
 **Collocations**
 - prall gefüllt
 - pralle Sonne

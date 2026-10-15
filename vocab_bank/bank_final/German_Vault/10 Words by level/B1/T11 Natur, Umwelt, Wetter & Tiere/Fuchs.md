@@ -34,6 +34,9 @@ status: "new"
 > Ein Fuchs läuft über das Feld.
 > *A fox is running across the field.*
 
+**Phrases & Expressions:**
+- **Ein Fuchs läuft über das Feld** — *A fox is running across the field* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12a (Zwischenmenschliches)
 <!-- bank:end -->
 

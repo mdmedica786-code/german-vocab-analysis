@@ -33,6 +33,11 @@ status: "new"
 > Die Gewinnung von Energie aus Sonnenlicht wird wichtiger.
 > *Generating energy from the sun is becoming more important.*
 
+**Phrases & Expressions:**
+- **die Gewinnung von Energie** — *extraction; obtaining; gaining*
+- **die Gewinnung von Rohstoffen** — *extraction; obtaining; gaining*
+- **zur Gewinnung** — *extraction; obtaining; gaining*
+
 **Collocations**
 - die Gewinnung von Energie
 - die Gewinnung von Rohstoffen

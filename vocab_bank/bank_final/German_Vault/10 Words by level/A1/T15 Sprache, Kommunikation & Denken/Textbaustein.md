@@ -34,6 +34,9 @@ status: "new"
 > Mit Textbausteinen schreibt man schneller.
 > *You write faster with text blocks.*
 
+**Phrases & Expressions:**
+- **Mit Textbausteinen schreibt man schneller** — *You write faster with text blocks* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 11b (Meine Wohnung)
 <!-- bank:end -->
 

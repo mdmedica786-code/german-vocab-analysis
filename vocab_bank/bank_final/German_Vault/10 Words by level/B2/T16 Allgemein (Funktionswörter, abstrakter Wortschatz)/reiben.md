@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Reiben Sie bitte den Käse.
 > *Please grate the cheese.*
+
+**Phrases & Expressions:**
+- **Reiben Sie bitte den Käse** — *Please grate the cheese* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

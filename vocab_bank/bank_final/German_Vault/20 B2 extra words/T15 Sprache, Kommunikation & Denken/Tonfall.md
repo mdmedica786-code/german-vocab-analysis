@@ -33,6 +33,11 @@ status: "new"
 > Sein Tonfall war sehr freundlich.
 > *His tone of voice was very friendly.*
 
+**Phrases & Expressions:**
+- **in freundlichem Tonfall** — *tone (of voice)*
+- **einen scharfen Tonfall anschlagen** — *tone (of voice)*
+- **der Tonfall ändert sich** — *tone (of voice)*
+
 **Collocations**
 - in freundlichem Tonfall
 - einen scharfen Tonfall anschlagen

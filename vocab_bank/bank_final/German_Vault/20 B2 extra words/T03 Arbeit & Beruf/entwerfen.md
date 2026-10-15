@@ -31,6 +31,11 @@ status: "new"
 > Sie hat ein neues Logo für die Firma entworfen.
 > *She designed a new logo for the company.*
 
+**Phrases & Expressions:**
+- **einen Plan entwerfen** — *to design; to draft*
+- **ein Konzept entwerfen** — *to design; to draft*
+- **ein Gebäude entwerfen** — *to design; to draft*
+
 **Collocations**
 - einen Plan entwerfen
 - ein Konzept entwerfen

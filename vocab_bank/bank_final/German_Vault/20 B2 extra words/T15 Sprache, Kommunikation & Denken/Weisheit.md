@@ -33,6 +33,11 @@ status: "new"
 > Mit dem Alter kommt oft die Weisheit.
 > *With age often comes wisdom.*
 
+**Phrases & Expressions:**
+- **die Weisheit des Alters** — *wisdom*
+- **eine alte Weisheit** — *wisdom*
+- **mit seiner Weisheit am Ende sein** — *wisdom*
+
 **Collocations**
 - die Weisheit des Alters
 - eine alte Weisheit

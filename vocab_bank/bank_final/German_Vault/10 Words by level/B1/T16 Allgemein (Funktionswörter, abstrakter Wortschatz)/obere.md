@@ -30,6 +30,9 @@ status: "new"
 > Das Buch steht im oberen Regal.
 > *The book is on the top shelf.*
 
+**Phrases & Expressions:**
+- **Das Buch steht im oberen Regal** — *The book is on the top shelf* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Das Land war lange eine Kolonie.
 > *The country was a colony for a long time.*
 
+**Phrases & Expressions:**
+- **eine ehemalige Kolonie** — *colony*
+- **in einer Kolonie** — *colony*
+- **die Kolonien Europas** — *colony*
+
 **Collocations**
 - eine ehemalige Kolonie
 - in einer Kolonie

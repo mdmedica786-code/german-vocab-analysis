@@ -33,6 +33,11 @@ status: "new"
 > Mein Bildungsweg führte mich vom Gymnasium an die Universität.
 > *My educational path took me from grammar school to university.*
 
+**Phrases & Expressions:**
+- **der zweite Bildungsweg** — *educational path*
+- **einen Bildungsweg einschlagen** — *educational path*
+- **unterschiedliche Bildungswege** — *educational path*
+
 **Collocations**
 - der zweite Bildungsweg
 - einen Bildungsweg einschlagen

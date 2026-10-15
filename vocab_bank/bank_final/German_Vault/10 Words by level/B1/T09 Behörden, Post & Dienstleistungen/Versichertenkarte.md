@@ -35,6 +35,9 @@ status: "new"
 > Haben Sie Ihre Versichertenkarte dabei?
 > *Do you have your insurance card with you?*
 
+**Phrases & Expressions:**
+- **Haben Sie Ihre Versichertenkarte dabei** — *Do you have your insurance card with you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 2a ÜB (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

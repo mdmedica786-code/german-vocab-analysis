@@ -32,6 +32,9 @@ status: "new"
 > Die Zeitung verbreitet die Nachricht schnell.
 > *The newspaper spreads the news quickly.*
 
+**Phrases & Expressions:**
+- **Die Zeitung verbreitet die Nachricht schnell** — *The newspaper spreads the news quickly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 5a (Miteinander)
 <!-- bank:end -->
 

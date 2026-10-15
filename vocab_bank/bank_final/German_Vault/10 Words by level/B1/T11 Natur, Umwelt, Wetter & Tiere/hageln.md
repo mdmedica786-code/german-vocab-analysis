@@ -33,6 +33,9 @@ status: "new"
 > Bei Gewitter kann es auch hageln.
 > *During a thunderstorm it can also hail.*
 
+**Phrases & Expressions:**
+- **Bei Gewitter kann es auch hageln** — *During a thunderstorm it can also hail* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 11a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

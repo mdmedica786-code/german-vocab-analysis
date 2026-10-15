@@ -30,6 +30,9 @@ status: "new"
 > Man sollte im Kurs nicht passiv sein, sondern mitdiskutieren.
 > *In the course you should not be passive but join in the discussion.*
 
+**Phrases & Expressions:**
+- **Man sollte im Kurs nicht passiv sein, sondern mitdiskutieren** — *In the course you should not be passive but join in the discussion* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

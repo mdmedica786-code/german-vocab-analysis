@@ -33,6 +33,11 @@ status: "new"
 > Der Wanderweg führt durch eine tiefe Schlucht.
 > *The hiking trail leads through a deep gorge.*
 
+**Phrases & Expressions:**
+- **eine tiefe Schlucht** — *gorge; ravine*
+- **durch die Schlucht wandern** — *gorge; ravine*
+- **Schlucht überqueren** — *gorge; ravine*
+
 **Collocations**
 - eine tiefe Schlucht
 - durch die Schlucht wandern

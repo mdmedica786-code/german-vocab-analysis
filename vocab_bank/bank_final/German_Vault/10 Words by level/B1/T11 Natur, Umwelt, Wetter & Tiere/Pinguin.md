@@ -35,6 +35,9 @@ status: "new"
 > Pinguine leben am Südpol.
 > *Penguins live at the South Pole.*
 
+**Phrases & Expressions:**
+- **Pinguine leben am Südpol** — *Penguins live at the South Pole* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12 ÜB (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

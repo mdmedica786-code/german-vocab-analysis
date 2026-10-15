@@ -29,6 +29,11 @@ status: "new"
 > Wir fahren notfalls auch nachts durch.
 > *If need be we will drive through the night too.*
 
+**Phrases & Expressions:**
+- **notfalls auch** — *if need be; if necessary*
+- **notfalls einspringen** — *if need be; if necessary*
+- **notfalls verzichten** — *if need be; if necessary*
+
 **Collocations**
 - notfalls auch
 - notfalls einspringen

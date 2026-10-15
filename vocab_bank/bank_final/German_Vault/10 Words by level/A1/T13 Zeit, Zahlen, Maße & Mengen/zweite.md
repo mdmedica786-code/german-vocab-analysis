@@ -30,6 +30,10 @@ status: "new"
 > Wir wohnen im zweiten Stock.
 > *We live on the second floor.*
 
+**Phrases & Expressions:**
+- **In seltenen Fällen kann eine zweite Operation nötig werden.** — In rare cases a second operation may become necessary. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Risiken nennen]] · B2)*
+- **Ich habe hier Bedenken und würde gern eine zweite Meinung einholen.** — I have concerns here and would like to obtain a second opinion. *([[FSP-19 Übergabe, Konsil und Rücksprache|Unsicherheit ausdrücken]] · C1)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

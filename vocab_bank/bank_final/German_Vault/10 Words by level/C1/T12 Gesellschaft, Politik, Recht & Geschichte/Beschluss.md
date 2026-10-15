@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Gemeinderat fasste einen Beschluss.
 > *The local council passed a resolution.*
+
+**Phrases & Expressions:**
+- **Der Gemeinderat fasste einen Beschluss** — *The local council passed a resolution* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

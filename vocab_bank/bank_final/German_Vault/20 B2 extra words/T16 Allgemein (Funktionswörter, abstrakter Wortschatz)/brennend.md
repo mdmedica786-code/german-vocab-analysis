@@ -29,6 +29,12 @@ status: "new"
 > Das ist eine brennende Frage für uns alle.
 > *That is a burning question for all of us.*
 
+**Phrases & Expressions:**
+- **Haben Sie ein Druckgefühl oder einen brennenden Schmerz?** — Do you have a feeling of pressure or a burning pain? *([[FSP-03 Schmerzanamnese|Qualität erfragen]] · B2)*
+- **eine brennende Frage** — *burning; urgent*
+- **ein brennendes Interesse** — *burning; urgent*
+- **brennend interessieren** — *burning; urgent*
+
 **Collocations**
 - eine brennende Frage
 - ein brennendes Interesse

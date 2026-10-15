@@ -35,6 +35,9 @@ status: "new"
 > Im Frühling blühen die Blumen.
 > *In spring the flowers bloom.*
 
+**Phrases & Expressions:**
+- **Im Frühling blühen die Blumen** — *In spring the flowers bloom* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

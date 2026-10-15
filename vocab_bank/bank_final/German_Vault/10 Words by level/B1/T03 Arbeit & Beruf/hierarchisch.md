@@ -30,6 +30,9 @@ status: "new"
 > Die Firma ist sehr hierarchisch organisiert.
 > *The company is organised very hierarchically.*
 
+**Phrases & Expressions:**
+- **Die Firma ist sehr hierarchisch organisiert** — *The company is organised very hierarchically* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen)
 <!-- bank:end -->
 

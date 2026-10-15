@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Blatt saß ein roter Marienkäfer mit schwarzen Punkten.
 > *A red ladybird with black dots sat on the leaf.*
 
+**Phrases & Expressions:**
+- **ein Marienkäfer sitzt** — *ladybird*
+- **Marienkäfer fressen Blattläuse** — *ladybird*
+- **der Marienkäfer als Glücksbringer** — *ladybird*
+
 **Collocations**
 - ein Marienkäfer sitzt
 - Marienkäfer fressen Blattläuse

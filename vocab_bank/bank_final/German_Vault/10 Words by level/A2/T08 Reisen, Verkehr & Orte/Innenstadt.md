@@ -34,6 +34,9 @@ status: "new"
 > In der Innenstadt gibt es viele Geschäfte.
 > *In the city centre there are many shops.*
 
+**Phrases & Expressions:**
+- **In der Innenstadt gibt es viele Geschäfte** — *In the city centre there are many shops* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil)
 <!-- bank:end -->
 

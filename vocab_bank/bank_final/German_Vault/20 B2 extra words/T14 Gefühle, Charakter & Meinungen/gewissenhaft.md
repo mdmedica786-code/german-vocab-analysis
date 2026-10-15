@@ -29,6 +29,11 @@ status: "new"
 > Sie erledigt ihre Arbeit sehr gewissenhaft.
 > *She does her work very conscientiously.*
 
+**Phrases & Expressions:**
+- **gewissenhaft arbeiten** — *conscientious*
+- **ein gewissenhafter Mitarbeiter** — *conscientious*
+- **gewissenhaft prüfen** — *conscientious*
+
 **Collocations**
 - gewissenhaft arbeiten
 - ein gewissenhafter Mitarbeiter

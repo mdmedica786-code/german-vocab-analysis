@@ -31,6 +31,11 @@ status: "new"
 > Sie musste viel Leid erdulden.
 > *She had to endure a lot of suffering.*
 
+**Phrases & Expressions:**
+- **Leid erdulden** — *to endure; to suffer*
+- **Schmerzen erdulden** — *to endure; to suffer*
+- **nichts erdulden müssen** — *to endure; to suffer*
+
 **Collocations**
 - Leid erdulden
 - Schmerzen erdulden

@@ -29,6 +29,11 @@ status: "new"
 > Das neue Gesetz tritt am 1. Januar in Kraft.
 > *The new law comes into force on 1 January.*
 
+**Phrases & Expressions:**
+- **Gesetz tritt in Kraft** — *to come into force*
+- **in Kraft setzen** — *to come into force*
+- **außer Kraft treten** — *to come into force*
+
 **Collocations**
 - Gesetz tritt in Kraft
 - in Kraft setzen

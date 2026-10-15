@@ -33,6 +33,11 @@ status: "new"
 > Die Gegenüberstellung der Zahlen zeigt einen Trend.
 > *The comparison of the figures shows a trend.*
 
+**Phrases & Expressions:**
+- **die Gegenüberstellung von** — *comparison; juxtaposition*
+- **eine Gegenüberstellung machen** — *comparison; juxtaposition*
+- **in Gegenüberstellung zu** — *comparison; juxtaposition*
+
 **Collocations**
 - die Gegenüberstellung von
 - eine Gegenüberstellung machen

@@ -33,6 +33,9 @@ status: "new"
 > Bitte schicken Sie Ihr Zeugnis mit.
 > *Please send your certificate along.*
 
+**Phrases & Expressions:**
+- **Bitte schicken Sie Ihr Zeugnis mit** — *Please send your certificate along* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

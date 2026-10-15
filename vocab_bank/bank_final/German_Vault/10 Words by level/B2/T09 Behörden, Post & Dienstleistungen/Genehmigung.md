@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Für den Umbau brauchen Sie eine Genehmigung.
 > *You need a permit for the conversion.*
+
+**Phrases & Expressions:**
+- **Für den Umbau brauchen Sie eine Genehmigung** — *You need a permit for the conversion* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

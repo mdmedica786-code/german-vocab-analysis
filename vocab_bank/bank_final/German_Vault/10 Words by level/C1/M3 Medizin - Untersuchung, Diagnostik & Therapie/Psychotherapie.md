@@ -33,6 +33,12 @@ status: "new"
 > Sie macht eine Psychotherapie gegen ihre Angst.
 > *She is undergoing psychotherapy for her anxiety.*
 
+**Phrases & Expressions:**
+- **eine Psychotherapie beginnen** — *psychotherapy*
+- **ambulante Psychotherapie** — *psychotherapy*
+- **Psychotherapie machen** — *psychotherapy*
+- **einen Platz für Psychotherapie finden** — *psychotherapy*
+
 **Collocations**
 - eine Psychotherapie beginnen
 - ambulante Psychotherapie

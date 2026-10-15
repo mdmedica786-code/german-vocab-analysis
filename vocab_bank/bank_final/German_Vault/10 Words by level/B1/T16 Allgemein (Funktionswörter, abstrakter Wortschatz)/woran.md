@@ -27,6 +27,9 @@ status: "new"
 > [!info] Not in the study list
 > already learned in an old deck (review interval of 21 days or more)
 
+**Phrases & Expressions:**
+- **Woran sind Ihre Eltern gestorben?** — What did your parents die of? *([[FSP-05 Familien- und Sozialanamnese|Familienanamnese]] · B2)*
+
 **Source:** Netzwerk neu B1 K8 10a (Rund um Körper und Geist)
 <!-- bank:end -->
 

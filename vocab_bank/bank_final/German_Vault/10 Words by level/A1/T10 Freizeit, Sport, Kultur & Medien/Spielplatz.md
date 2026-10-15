@@ -35,6 +35,9 @@ status: "new"
 > Die Kinder sind auf dem Spielplatz.
 > *The children are at the playground.*
 
+**Phrases & Expressions:**
+- **Die Kinder sind auf dem Spielplatz** — *The children are at the playground* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden) · Goethe word list B1
 <!-- bank:end -->
 

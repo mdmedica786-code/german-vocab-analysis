@@ -33,6 +33,14 @@ status: "new"
 > Sie gehört schon lange dazu.
 > *She has belonged for a long time.*
 
+**Phrases & Expressions:**
+- **dazu führen, dass ...** — to lead to ... (the result that) *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **führt dazu, dass ...** — leads to ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **dazu in der Lage sein** — to be capable of it *([[Können - Müssen - Dürfen (modal frames)|Können / Müssen / Dürfen (modal frames)]] · B2)*
+- **im Gegensatz dazu** — in contrast to that *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B2)*
+- **gehört, dass ...** — heard that ... *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **dazu führt, dass ...** — leads to ... (the result that) *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+
 **Source:** Netzwerk neu A1 K8 13b (Fit und gesund)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Wir haben bei den Kosten kaum Spielraum.
 > *We have hardly any leeway with the costs.*
 
+**Phrases & Expressions:**
+- **finanziellen Spielraum haben** — *room for manoeuvre; leeway*
+- **Spielraum lassen** — *room for manoeuvre; leeway*
+- **zeitlicher Spielraum** — *room for manoeuvre; leeway*
+
 **Collocations**
 - finanziellen Spielraum haben
 - Spielraum lassen

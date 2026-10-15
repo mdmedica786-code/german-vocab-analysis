@@ -31,6 +31,11 @@ status: "new"
 > Sie ahnte nichts von der Überraschung.
 > *She had no idea of the surprise.*
 
+**Phrases & Expressions:**
+- **nichts Böses ahnen** — *to suspect; to have a feeling*
+- **etwas ahnen** — *to suspect; to have a feeling*
+- **eine Ahnung haben** — *to suspect; to have a feeling*
+
 **Collocations**
 - nichts Böses ahnen
 - etwas ahnen

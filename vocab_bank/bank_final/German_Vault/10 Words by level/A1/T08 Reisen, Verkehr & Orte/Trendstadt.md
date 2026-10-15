@@ -31,6 +31,9 @@ status: "new"
 > Berlin ist eine Trendstadt für junge Leute.
 > *Berlin is a trendy city for young people.*
 
+**Phrases & Expressions:**
+- **Berlin ist eine Trendstadt für junge Leute** — *Berlin is a trendy city for young people* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

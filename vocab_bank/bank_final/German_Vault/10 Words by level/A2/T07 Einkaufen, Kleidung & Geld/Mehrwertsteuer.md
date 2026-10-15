@@ -36,6 +36,9 @@ status: "new"
 > Die Mehrwertsteuer bei diesem Produkt beträgt 20 %.
 > *The VAT on this product is 20%.*
 
+**Phrases & Expressions:**
+- **Die Mehrwertsteuer bei diesem Produkt beträgt 20 %** — *The VAT on this product is 20%* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

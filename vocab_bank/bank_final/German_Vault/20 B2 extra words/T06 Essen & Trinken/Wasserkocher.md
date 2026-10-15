@@ -33,6 +33,11 @@ status: "new"
 > Ich koche das Wasser für den Tee im Wasserkocher.
 > *I boil the water for the tea in the kettle.*
 
+**Phrases & Expressions:**
+- **den Wasserkocher einschalten** — *electric kettle*
+- **Wasser im Wasserkocher erhitzen** — *electric kettle*
+- **den Wasserkocher entkalken** — *electric kettle*
+
 **Collocations**
 - den Wasserkocher einschalten
 - Wasser im Wasserkocher erhitzen

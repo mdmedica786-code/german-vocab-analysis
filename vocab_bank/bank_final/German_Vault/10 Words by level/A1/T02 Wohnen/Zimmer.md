@@ -32,6 +32,9 @@ status: "new"
 > Das Zimmer ist groß.
 > *The room is big.*
 
+**Phrases & Expressions:**
+- **Bei Zimmer sieben ist noch eine Kontrolle offen.** — A check is still outstanding in room seven. *([[FSP-19 Übergabe, Konsil und Rücksprache|Schichtübergabe]] · B2)*
+
 **Source:** Netzwerk neu A1 K2 7a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

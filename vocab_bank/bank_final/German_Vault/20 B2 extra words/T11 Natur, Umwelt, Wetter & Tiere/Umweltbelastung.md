@@ -33,6 +33,11 @@ status: "new"
 > Der Verkehr verursacht eine hohe Umweltbelastung.
 > *Traffic causes a high environmental burden.*
 
+**Phrases & Expressions:**
+- **die Umweltbelastung senken** — *environmental pollution; burden on the environment*
+- **hohe Umweltbelastung** — *environmental pollution; burden on the environment*
+- **Umweltbelastungen vermeiden** — *environmental pollution; burden on the environment*
+
 **Collocations**
 - die Umweltbelastung senken
 - hohe Umweltbelastung

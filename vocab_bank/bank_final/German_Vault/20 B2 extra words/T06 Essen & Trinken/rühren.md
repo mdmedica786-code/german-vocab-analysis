@@ -31,6 +31,11 @@ status: "new"
 > Rühren Sie die Soße ständig, damit sie nicht anbrennt.
 > *Keep stirring the sauce so that it does not burn.*
 
+**Phrases & Expressions:**
+- **in der Suppe rühren** — *to stir; to move (emotionally)*
+- **sich rühren** — *to stir; to move (emotionally)*
+- **zu Tränen rühren** — *to stir; to move (emotionally)*
+
 **Collocations**
 - in der Suppe rühren
 - sich rühren

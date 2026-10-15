@@ -33,6 +33,11 @@ status: "new"
 > Er arbeitet als Berater für mehrere Firmen.
 > *He works as a consultant for several companies.*
 
+**Phrases & Expressions:**
+- **ein externer Berater** — *adviser; consultant*
+- **als Berater tätig sein** — *adviser; consultant*
+- **Berater und Kunde** — *adviser; consultant*
+
 **Collocations**
 - ein externer Berater
 - als Berater tätig sein

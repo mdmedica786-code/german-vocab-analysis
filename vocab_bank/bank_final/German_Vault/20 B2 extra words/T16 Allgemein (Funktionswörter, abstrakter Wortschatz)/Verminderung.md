@@ -33,6 +33,11 @@ status: "new"
 > Die Verminderung des Lärms ist wichtig.
 > *The reduction of noise is important.*
 
+**Phrases & Expressions:**
+- **die Verminderung von** — *reduction; decrease*
+- **eine Verminderung der Kosten** — *reduction; decrease*
+- **zur Verminderung** — *reduction; decrease*
+
 **Collocations**
 - die Verminderung von
 - eine Verminderung der Kosten

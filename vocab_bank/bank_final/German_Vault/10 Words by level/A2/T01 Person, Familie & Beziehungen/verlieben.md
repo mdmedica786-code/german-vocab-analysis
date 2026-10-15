@@ -34,6 +34,9 @@ status: "new"
 > Ich bin total verliebt.
 > *I'm totally in love.*
 
+**Phrases & Expressions:**
+- **Ich bin total verliebt** — *I'm totally in love* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 5b (Veränderungen) · Goethe word list A2
 <!-- bank:end -->
 

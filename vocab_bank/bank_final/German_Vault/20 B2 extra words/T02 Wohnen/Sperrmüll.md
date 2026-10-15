@@ -33,6 +33,11 @@ status: "new"
 > Der Sperrmüll wird nur auf Anmeldung abgeholt.
 > *Bulky waste is only collected on registration.*
 
+**Phrases & Expressions:**
+- **Sperrmüll anmelden** — *bulky waste*
+- **Sperrmüll abholen** — *bulky waste*
+- **Sperrmüll vor die Tür stellen** — *bulky waste*
+
 **Collocations**
 - Sperrmüll anmelden
 - Sperrmüll abholen

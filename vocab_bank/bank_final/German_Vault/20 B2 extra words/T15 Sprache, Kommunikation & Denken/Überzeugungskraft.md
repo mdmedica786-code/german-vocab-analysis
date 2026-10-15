@@ -33,6 +33,11 @@ status: "new"
 > Seine Argumente haben wenig Überzeugungskraft.
 > *His arguments have little persuasiveness.*
 
+**Phrases & Expressions:**
+- **Überzeugungskraft haben** — *persuasiveness*
+- **an Überzeugungskraft verlieren** — *persuasiveness*
+- **mit Überzeugungskraft** — *persuasiveness*
+
 **Collocations**
 - Überzeugungskraft haben
 - an Überzeugungskraft verlieren

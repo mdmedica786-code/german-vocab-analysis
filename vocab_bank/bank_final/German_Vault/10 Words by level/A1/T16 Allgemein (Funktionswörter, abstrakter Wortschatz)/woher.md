@@ -32,6 +32,9 @@ status: "new"
 > Woher kommst du?
 > *From where are you?*
 
+**Phrases & Expressions:**
+- **Woher kommst du** — *From where are you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 3b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

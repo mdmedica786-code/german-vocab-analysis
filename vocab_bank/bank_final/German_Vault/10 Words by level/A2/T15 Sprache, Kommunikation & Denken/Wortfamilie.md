@@ -34,6 +34,9 @@ status: "new"
 > Zur Wortfamilie von „fahren“ gehört auch „Fahrer“.
 > *"Fahrer" also belongs to the word family of "fahren".*
 
+**Phrases & Expressions:**
+- **Zur Wortfamilie von „fahren“ gehört auch „Fahrer“** — *"Fahrer" also belongs to the word family of "fahren"* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

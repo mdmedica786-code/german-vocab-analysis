@@ -34,6 +34,9 @@ status: "new"
 > Ob ich helfe, ist eine Gewissensfrage.
 > *Whether I help is a question of conscience.*
 
+**Phrases & Expressions:**
+- **Ob ich helfe, ist eine Gewissensfrage** — *Whether I help is a question of conscience* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 10a (Geld regiert die Welt?)
 <!-- bank:end -->
 

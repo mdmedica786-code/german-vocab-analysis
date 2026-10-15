@@ -31,6 +31,9 @@ status: "new"
 > Im Unicafé treffen wir uns nach der Vorlesung.
 > *We meet in the uni café after the lecture.*
 
+**Phrases & Expressions:**
+- **Im Unicafé treffen wir uns nach der Vorlesung** — *We meet in the uni café after the lecture* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 4a (Studium und Beruf)
 <!-- bank:end -->
 

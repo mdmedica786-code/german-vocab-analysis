@@ -29,6 +29,11 @@ status: "new"
 > Ich bin zutiefst enttäuscht von dir.
 > *I am deeply disappointed in you.*
 
+**Phrases & Expressions:**
+- **zutiefst enttäuscht** — *deeply; profoundly*
+- **zutiefst überzeugt** — *deeply; profoundly*
+- **zutiefst dankbar** — *deeply; profoundly*
+
 **Collocations**
 - zutiefst enttäuscht
 - zutiefst überzeugt

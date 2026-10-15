@@ -33,6 +33,11 @@ status: "new"
 > Die Warmwasserversorgung im Haus fiel gestern aus.
 > *The hot water supply in the building failed yesterday.*
 
+**Phrases & Expressions:**
+- **die Warmwasserversorgung sicherstellen** — *hot water supply*
+- **die zentrale Warmwasserversorgung** — *hot water supply*
+- **eine Störung der Warmwasserversorgung** — *hot water supply*
+
 **Collocations**
 - die Warmwasserversorgung sicherstellen
 - die zentrale Warmwasserversorgung

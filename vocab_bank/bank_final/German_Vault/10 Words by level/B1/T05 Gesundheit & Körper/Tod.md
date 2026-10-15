@@ -36,6 +36,9 @@ status: "new"
 > Ich habe ihn vor seinem Tod noch einmal gesehen.
 > *I saw him once more before his death.*
 
+**Phrases & Expressions:**
+- **Ich habe ihn vor seinem Tod noch einmal gesehen** — *I saw him once more before his death* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 11c (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

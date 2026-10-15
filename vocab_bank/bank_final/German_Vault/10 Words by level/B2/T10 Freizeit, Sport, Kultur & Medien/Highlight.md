@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Konzert war das Highlight des Jahres.
 > *The concert was the highlight of the year.*
+
+**Phrases & Expressions:**
+- **Das Konzert war das Highlight des Jahres** — *The concert was the highlight of the year* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

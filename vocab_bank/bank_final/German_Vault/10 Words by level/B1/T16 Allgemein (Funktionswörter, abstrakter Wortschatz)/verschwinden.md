@@ -33,6 +33,12 @@ status: "new"
 > Mein Ausweis ist verschwunden. Hast du ihn vielleicht gesehen?
 > *My ID has disappeared. Have you seen it by any chance?*
 
+**Phrases & Expressions:**
+- **spurlos verschwinden** — *to disappear*
+- **aus dem Blickfeld verschwinden** — *to disappear*
+- **plötzlich verschwinden** — *to disappear*
+- **verschwinden lassen** — *to disappear*
+
 **Collocations**
 - spurlos verschwinden
 - aus dem Blickfeld verschwinden

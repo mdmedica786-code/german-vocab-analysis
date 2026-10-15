@@ -35,6 +35,9 @@ status: "new"
 > Der neue Esstisch war ein guter Kauf.
 > *The new dining table was a good buy.*
 
+**Phrases & Expressions:**
+- **Der neue Esstisch war ein guter Kauf** — *The new dining table was a good buy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

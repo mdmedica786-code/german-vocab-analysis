@@ -32,6 +32,11 @@ status: "new"
 > Der Wind hat die Tür zugeschlagen.
 > *The wind slammed the door shut.*
 
+**Phrases & Expressions:**
+- **die Tür zuschlagen** — *to slam shut; to strike; to hit*
+- **hart zuschlagen** — *to slam shut; to strike; to hit*
+- **beim Angebot zuschlagen** — *to slam shut; to strike; to hit*
+
 **Collocations**
 - die Tür zuschlagen
 - hart zuschlagen

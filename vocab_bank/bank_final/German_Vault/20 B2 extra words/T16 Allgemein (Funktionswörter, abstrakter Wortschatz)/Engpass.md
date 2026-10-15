@@ -33,6 +33,11 @@ status: "new"
 > Wegen der Lieferprobleme gibt es einen Engpass bei Medikamenten.
 > *Because of the delivery problems there is a shortage of medicines.*
 
+**Phrases & Expressions:**
+- **ein Engpass bei etwas** — *bottleneck; shortage*
+- **Engpässe vermeiden** — *bottleneck; shortage*
+- **ein finanzieller Engpass** — *bottleneck; shortage*
+
 **Collocations**
 - ein Engpass bei etwas
 - Engpässe vermeiden

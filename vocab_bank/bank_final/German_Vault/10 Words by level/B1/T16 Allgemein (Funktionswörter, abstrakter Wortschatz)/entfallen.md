@@ -32,6 +32,9 @@ status: "new"
 > Die Gebühr entfällt bei Barzahlung.
 > *The fee is waived for cash payment.*
 
+**Phrases & Expressions:**
+- **Die Gebühr entfällt bei Barzahlung** — *The fee is waived for cash payment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13e (Umweltfreundlich?)
 <!-- bank:end -->
 

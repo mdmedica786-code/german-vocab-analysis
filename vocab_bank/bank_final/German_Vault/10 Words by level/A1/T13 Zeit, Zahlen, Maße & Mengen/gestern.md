@@ -31,6 +31,9 @@ status: "new"
 > Gestern war ich krank.
 > *Yesterday I was ill.*
 
+**Phrases & Expressions:**
+- **Mir ist seit gestern schwindelig.** — I have felt dizzy since yesterday. *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Patient: Beschwerden schildern]] · A2)*
+
 **Source:** Netzwerk neu A1 K7 9c (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

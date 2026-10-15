@@ -35,6 +35,9 @@ status: "new"
 > Der Physiotherapeut zeigt mir Übungen.
 > *The physiotherapist shows me exercises.*
 
+**Phrases & Expressions:**
+- **Der Physiotherapeut zeigt mir Übungen** — *The physiotherapist shows me exercises* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13a (Fit und gesund)
 <!-- bank:end -->
 

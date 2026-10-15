@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Der Trainer motiviert das Team.
 > *The coach motivates the team.*
+
+**Phrases & Expressions:**
+- **Der Trainer motiviert das Team** — *The coach motivates the team* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

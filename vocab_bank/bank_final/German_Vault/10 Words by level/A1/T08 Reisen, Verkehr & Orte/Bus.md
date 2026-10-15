@@ -36,6 +36,9 @@ status: "new"
 > Wann kommt der nächste Bus?
 > **
 
+**Phrases & Expressions:**
+- **Ich muss leider gehen, mein Bus kommt gleich.** — I'm afraid I have to go, my bus is coming soon. *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Gespräch beenden]] · A2)*
+
 **Source:** Netzwerk neu A1 K3 6a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

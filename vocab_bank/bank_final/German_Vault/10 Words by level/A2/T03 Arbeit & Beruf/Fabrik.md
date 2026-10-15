@@ -35,6 +35,9 @@ status: "new"
 > Ich arbeite in einer Autofabrik.
 > *I work in a car factory.*
 
+**Phrases & Expressions:**
+- **Ich arbeite in einer Autofabrik** — *I work in a car factory* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

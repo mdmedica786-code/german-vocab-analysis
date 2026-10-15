@@ -31,6 +31,9 @@ status: "new"
 > Die Kinder lieben diese Tiergeschichte.
 > *The children love this animal story.*
 
+**Phrases & Expressions:**
+- **Die Kinder lieben diese Tiergeschichte** — *The children love this animal story* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12a (Zusammen leben)
 <!-- bank:end -->
 

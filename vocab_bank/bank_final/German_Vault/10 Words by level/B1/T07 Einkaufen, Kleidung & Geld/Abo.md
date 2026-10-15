@@ -34,6 +34,9 @@ status: "new"
 > Mein Abo für die Zeitung läuft bald aus.
 > *My newspaper subscription is about to expire.*
 
+**Phrases & Expressions:**
+- **Mein Abo für die Zeitung läuft bald aus** — *My newspaper subscription is about to expire* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

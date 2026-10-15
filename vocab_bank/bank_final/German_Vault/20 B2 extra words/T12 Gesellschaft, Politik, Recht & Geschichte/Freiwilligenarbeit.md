@@ -33,6 +33,11 @@ status: "new"
 > Sie engagiert sich in der Freiwilligenarbeit für Flüchtlinge.
 > *She is involved in voluntary work for refugees.*
 
+**Phrases & Expressions:**
+- **Freiwilligenarbeit leisten** — *voluntary work*
+- **in der Freiwilligenarbeit** — *voluntary work*
+- **Freiwilligenarbeit im Ausland** — *voluntary work*
+
 **Collocations**
 - Freiwilligenarbeit leisten
 - in der Freiwilligenarbeit

@@ -33,6 +33,11 @@ status: "new"
 > Nach der Naturkatastrophe brauchten viele Menschen Hilfe.
 > *After the natural disaster many people needed help.*
 
+**Phrases & Expressions:**
+- **von einer Naturkatastrophe betroffen sein** — *natural disaster*
+- **schwere Naturkatastrophe** — *natural disaster*
+- **Naturkatastrophen häufen sich** — *natural disaster*
+
 **Collocations**
 - von einer Naturkatastrophe betroffen sein
 - schwere Naturkatastrophe

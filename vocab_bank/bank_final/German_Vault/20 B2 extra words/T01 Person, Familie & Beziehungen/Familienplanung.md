@@ -33,6 +33,11 @@ status: "new"
 > Die Familienplanung hat bei vielen Paaren mit dem Beruf zu tun.
 > *For many couples family planning is connected with their careers.*
 
+**Phrases & Expressions:**
+- **natürliche Familienplanung** — *family planning*
+- **Beratung zur Familienplanung** — *family planning*
+- **in der Familienplanung** — *family planning*
+
 **Collocations**
 - natürliche Familienplanung
 - Beratung zur Familienplanung

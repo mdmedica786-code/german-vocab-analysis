@@ -32,6 +32,11 @@ status: "new"
 > Die Ereignisse müssen in den historischen Zusammenhang eingeordnet werden.
 > *The events have to be placed in their historical context.*
 
+**Phrases & Expressions:**
+- **in einen Zusammenhang einordnen** — *to classify; to put in order*
+- **sich einordnen** — *to classify; to put in order*
+- **Akten einordnen** — *to classify; to put in order*
+
 **Collocations**
 - in einen Zusammenhang einordnen
 - sich einordnen

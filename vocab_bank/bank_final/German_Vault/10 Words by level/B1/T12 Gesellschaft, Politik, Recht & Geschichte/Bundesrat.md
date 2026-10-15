@@ -34,6 +34,9 @@ status: "new"
 > Der Bundesrat vertritt die Länder.
 > *The Bundesrat represents the federal states.*
 
+**Phrases & Expressions:**
+- **Der Bundesrat vertritt die Länder** — *The Bundesrat represents the federal states* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

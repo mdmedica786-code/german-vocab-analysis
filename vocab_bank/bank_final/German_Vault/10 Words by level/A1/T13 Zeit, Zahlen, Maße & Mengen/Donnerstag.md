@@ -35,6 +35,9 @@ status: "new"
 > Am Donnerstag gehe ich zum Arzt.
 > *On Thursday I'm going to the doctor.*
 
+**Phrases & Expressions:**
+- **Am Donnerstag gehe ich zum Arzt** — *On Thursday I'm going to the doctor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 4a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

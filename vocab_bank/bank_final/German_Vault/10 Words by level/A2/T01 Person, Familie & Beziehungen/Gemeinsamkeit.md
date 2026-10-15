@@ -34,6 +34,9 @@ status: "new"
 > Wir haben viele Gemeinsamkeiten.
 > *We have a lot in common.*
 
+**Phrases & Expressions:**
+- **Wir haben viele Gemeinsamkeiten** — *We have a lot in common* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 11d (Nach der Schulzeit)
 <!-- bank:end -->
 

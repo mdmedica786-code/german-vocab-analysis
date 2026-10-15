@@ -30,6 +30,12 @@ status: "new"
 > Haben Sie eine konkrete Frage?
 > *Do you have a specific question?*
 
+**Phrases & Expressions:**
+- **konkrete Fragen** — *concrete*
+- **konkret werden** — *concrete*
+- **ganz konkret** — *concrete*
+- **ein konkretes Beispiel** — *concrete*
+
 **Collocations**
 - konkrete Fragen
 - konkret werden

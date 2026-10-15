@@ -33,6 +33,11 @@ status: "new"
 > Die Arbeitszufriedenheit steigt mit einem guten Betriebsklima.
 > *Job satisfaction rises with a good working atmosphere.*
 
+**Phrases & Expressions:**
+- **die Arbeitszufriedenheit steigern** — *job satisfaction*
+- **hohe Arbeitszufriedenheit** — *job satisfaction*
+- **die Arbeitszufriedenheit messen** — *job satisfaction*
+
 **Collocations**
 - die Arbeitszufriedenheit steigern
 - hohe Arbeitszufriedenheit

@@ -31,6 +31,9 @@ status: "new"
 > Mit der Fotoüberweisung fotografiert man die Rechnung.
 > *With a photo transfer you photograph the invoice.*
 
+**Phrases & Expressions:**
+- **Mit der Fotoüberweisung fotografiert man die Rechnung** — *With a photo transfer you photograph the invoice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 5a (Geld regiert die Welt?)
 <!-- bank:end -->
 

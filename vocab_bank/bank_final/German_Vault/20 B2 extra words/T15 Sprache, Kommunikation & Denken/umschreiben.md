@@ -31,6 +31,11 @@ status: "new"
 > Wenn du ein Wort nicht kennst, musst du es umschreiben.
 > *If you do not know a word, you have to paraphrase it.*
 
+**Phrases & Expressions:**
+- **einen Begriff umschreiben** — *to paraphrase; to describe in other words*
+- **etwas mit anderen Worten umschreiben** — *to paraphrase; to describe in other words*
+- **eine Aufgabe umschreiben** — *to paraphrase; to describe in other words*
+
 **Collocations**
 - einen Begriff umschreiben
 - etwas mit anderen Worten umschreiben

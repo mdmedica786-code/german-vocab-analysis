@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Das Wetter war überwiegend sonnig.
 > *The weather was mostly sunny.*
+
+**Phrases & Expressions:**
+- **Das Wetter war überwiegend sonnig** — *The weather was mostly sunny* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

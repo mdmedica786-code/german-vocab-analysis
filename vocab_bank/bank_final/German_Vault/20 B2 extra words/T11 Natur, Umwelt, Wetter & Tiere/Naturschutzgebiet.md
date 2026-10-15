@@ -33,6 +33,11 @@ status: "new"
 > In diesem Naturschutzgebiet leben seltene Vögel.
 > *Rare birds live in this nature reserve.*
 
+**Phrases & Expressions:**
+- **ein Naturschutzgebiet betreten** — *nature reserve*
+- **im Naturschutzgebiet** — *nature reserve*
+- **Naturschutzgebiet ausweisen** — *nature reserve*
+
 **Collocations**
 - ein Naturschutzgebiet betreten
 - im Naturschutzgebiet

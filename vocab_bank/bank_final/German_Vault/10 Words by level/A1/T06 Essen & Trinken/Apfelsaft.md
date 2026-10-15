@@ -34,6 +34,9 @@ status: "new"
 > Ich trinke gern Apfelsaft mit Wasser.
 > *I like drinking apple juice with water.*
 
+**Phrases & Expressions:**
+- **Ich trinke gern Apfelsaft mit Wasser** — *I like drinking apple juice with water* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!)
 <!-- bank:end -->
 

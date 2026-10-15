@@ -33,6 +33,9 @@ status: "new"
 > Können wir bitte die Plätze tauschen?
 > *Can we swap seats, please?*
 
+**Phrases & Expressions:**
+- **Können wir bitte die Plätze tauschen** — *Can we swap seats, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 8c (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

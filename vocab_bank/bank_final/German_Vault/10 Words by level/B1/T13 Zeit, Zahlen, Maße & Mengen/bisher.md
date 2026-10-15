@@ -31,6 +31,14 @@ status: "new"
 > Bisher ist alles in Ordnung.
 > *So far everything is fine.*
 
+**Phrases & Expressions:**
+- **Wie viele Schwangerschaften hatten Sie bisher?** — How many pregnancies have you had so far? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Schwangerschaft erfragen]] · B2)*
+- **Bisher war ich eigentlich immer gesund.** — So far I have actually always been healthy. *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Patient: Keine Vorerkrankungen]] · A2)*
+- **Was wissen Sie bisher über Ihre Erkrankung?** — What do you know so far about your illness? *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Vorwissen erfragen]] · B2)*
+- **Wie hat sich Ihr Kind bisher entwickelt?** — How has your child developed so far? *([[FSP-22 Kinder, Eltern und ältere Patienten|Eltern befragen]] · B2)*
+- **bisher noch nicht** — *so far*
+- **bisher alles gut** — *so far*
+
 **Collocations**
 - bisher noch nicht
 - bisher alles gut

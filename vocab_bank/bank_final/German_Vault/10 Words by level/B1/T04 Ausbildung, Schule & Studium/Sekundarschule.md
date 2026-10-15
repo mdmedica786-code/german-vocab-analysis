@@ -42,6 +42,9 @@ status: "new"
 > Nach der Primarschule besucht sie die Sekundarschule.
 > *After primary school she attends secondary school.*
 
+**Phrases & Expressions:**
+- **Nach der Primarschule besucht sie die Sekundarschule** — *After primary school she attends secondary school* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

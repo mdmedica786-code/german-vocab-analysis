@@ -30,6 +30,9 @@ status: "new"
 > Westlich von Berlin liegt Potsdam.
 > *Potsdam lies west of Berlin.*
 
+**Phrases & Expressions:**
+- **Westlich von Berlin liegt Potsdam** — *Potsdam lies west of Berlin* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -30,6 +30,12 @@ status: "new"
 > Meine frühere Chefin arbeitet jetzt in Wien.
 > *My former boss now works in Vienna.*
 
+**Phrases & Expressions:**
+- **früher oder später** — sooner or later *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Früher habe ich oft ..., aber heute ...** — I used to ... often, but today ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Gewohnheit beschreiben]] · B1)*
+- **Waren Sie früher schon einmal ernsthaft krank?** — Have you ever been seriously ill before? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Vorerkrankungen erfragen]] · B1)*
+- **Sollten die Beschwerden nicht besser werden, kommen Sie bitte früher.** — Should the complaints not improve, please come earlier. *([[FSP-11 Therapie und Medikamente erklären|Kontrolltermin vereinbaren]] · B2)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

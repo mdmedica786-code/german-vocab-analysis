@@ -30,6 +30,9 @@ status: "new"
 > Wir fahren mit dem Auto den Berg rauf.
 > *We drive up the mountain by car.*
 
+**Phrases & Expressions:**
+- **Wir fahren mit dem Auto den Berg rauf** — *We drive up the mountain by car* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

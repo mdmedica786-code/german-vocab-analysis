@@ -26,6 +26,10 @@ status: "new"
 > Ihre Worte haben mir Mut gemacht.
 > *Her words encouraged me.*
 
+**Phrases & Expressions:**
+- **jemandem Mut machen** — *to encourage*
+- **Hoffnung machen** — *to encourage*
+
 **Collocations**
 - jemandem Mut machen
 - Hoffnung machen

@@ -33,6 +33,11 @@ status: "new"
 > Die Korruption in der Verwaltung wurde aufgedeckt.
 > *The corruption in the administration was uncovered.*
 
+**Phrases & Expressions:**
+- **Korruption bekämpfen** — *corruption*
+- **der Korruption verdächtigt** — *corruption*
+- **Korruption aufdecken** — *corruption*
+
 **Collocations**
 - Korruption bekämpfen
 - der Korruption verdächtigt

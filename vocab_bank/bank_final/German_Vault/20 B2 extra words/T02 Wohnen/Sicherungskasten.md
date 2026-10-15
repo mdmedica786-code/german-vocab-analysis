@@ -33,6 +33,11 @@ status: "new"
 > Der Strom ist weg, der Sicherungskasten ist im Keller.
 > *The power is out, the fuse box is in the cellar.*
 
+**Phrases & Expressions:**
+- **den Sicherungskasten öffnen** — *fuse box*
+- **die Sicherung im Sicherungskasten** — *fuse box*
+- **ein alter Sicherungskasten** — *fuse box*
+
 **Collocations**
 - den Sicherungskasten öffnen
 - die Sicherung im Sicherungskasten

@@ -33,6 +33,9 @@ status: "new"
 > Ergänzen Sie bitte die fehlenden Angaben.
 > *Please complete the missing information.*
 
+**Phrases & Expressions:**
+- **Darf ich kurz etwas ergänzen?** — May I briefly add something? *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Das Wort ergreifen]] · B2)*
+
 **Source:** Netzwerk neu A1 K1 4b (Guten Tag!) · Goethe word list B1
 <!-- bank:end -->
 

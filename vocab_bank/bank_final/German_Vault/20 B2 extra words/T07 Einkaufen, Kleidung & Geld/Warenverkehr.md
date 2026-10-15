@@ -33,6 +33,11 @@ status: "new"
 > Der freie Warenverkehr gehört zum EU-Binnenmarkt.
 > *The free movement of goods is part of the EU single market.*
 
+**Phrases & Expressions:**
+- **der freie Warenverkehr** — *movement of goods; trade in goods*
+- **der Warenverkehr zwischen Ländern** — *movement of goods; trade in goods*
+- **den Warenverkehr kontrollieren** — *movement of goods; trade in goods*
+
 **Collocations**
 - der freie Warenverkehr
 - der Warenverkehr zwischen Ländern

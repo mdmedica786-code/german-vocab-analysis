@@ -33,6 +33,11 @@ status: "new"
 > Ihre positive Lebenseinstellung gefällt mir sehr.
 > *I like her positive attitude to life very much.*
 
+**Phrases & Expressions:**
+- **eine positive Lebenseinstellung** — *attitude to life; outlook on life*
+- **die Lebenseinstellung ändern** — *attitude to life; outlook on life*
+- **eine andere Lebenseinstellung** — *attitude to life; outlook on life*
+
 **Collocations**
 - eine positive Lebenseinstellung
 - die Lebenseinstellung ändern

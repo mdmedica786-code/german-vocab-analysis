@@ -29,6 +29,11 @@ status: "new"
 > Das ist definitiv falsch.
 > *That is definitely wrong.*
 
+**Phrases & Expressions:**
+- **definitiv entscheiden** — *definite; final*
+- **eine definitive Antwort** — *definite; final*
+- **definitiv nicht** — *definite; final*
+
 **Collocations**
 - definitiv entscheiden
 - eine definitive Antwort

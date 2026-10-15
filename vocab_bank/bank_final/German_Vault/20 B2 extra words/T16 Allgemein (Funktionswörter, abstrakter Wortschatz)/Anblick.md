@@ -33,6 +33,11 @@ status: "new"
 > Der Anblick der Berge war überwältigend.
 > *The sight of the mountains was overwhelming.*
 
+**Phrases & Expressions:**
+- **ein schöner Anblick** — *sight; view*
+- **beim Anblick von** — *sight; view*
+- **sich an den Anblick gewöhnen** — *sight; view*
+
 **Collocations**
 - ein schöner Anblick
 - beim Anblick von

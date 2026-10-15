@@ -35,6 +35,9 @@ status: "new"
 > Er hat hohe Schulden bei der Bank.
 > *He has a lot of debt at the bank.*
 
+**Phrases & Expressions:**
+- **Er hat hohe Schulden bei der Bank** — *He has a lot of debt at the bank* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3b ÜB (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

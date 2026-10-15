@@ -29,6 +29,11 @@ status: "new"
 > Das Dorf liegt abgelegen in den Bergen.
 > *The village lies remote in the mountains.*
 
+**Phrases & Expressions:**
+- **ein abgelegenes Dorf** — *remote; secluded*
+- **abgelegen wohnen** — *remote; secluded*
+- **abgelegene Gegend** — *remote; secluded*
+
 **Collocations**
 - ein abgelegenes Dorf
 - abgelegen wohnen

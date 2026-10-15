@@ -35,6 +35,9 @@ status: "new"
 > Aus welchem Material ist der Schrank?
 > *What material is the cupboard made of?*
 
+**Phrases & Expressions:**
+- **Aus welchem Material ist der Schrank** — *What material is the cupboard made of* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 2b (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

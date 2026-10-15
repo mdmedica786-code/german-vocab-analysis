@@ -31,6 +31,11 @@ status: "new"
 > Ich scanne die Dokumente und schicke sie dir per E-Mail.
 > *I scan the documents and send them to you by email.*
 
+**Phrases & Expressions:**
+- **ein Dokument scannen** — *to scan*
+- **einen Code scannen** — *to scan*
+- **ein Foto scannen** — *to scan*
+
 **Collocations**
 - ein Dokument scannen
 - einen Code scannen

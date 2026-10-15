@@ -30,6 +30,9 @@ status: "new"
 > Ich arbeite nur stundenweise.
 > *I only work by the hour.*
 
+**Phrases & Expressions:**
+- **Ich arbeite nur stundenweise** — *I only work by the hour* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

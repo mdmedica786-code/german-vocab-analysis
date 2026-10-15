@@ -29,6 +29,11 @@ status: "new"
 > Das Hotel ist sehr edel eingerichtet.
 > *The hotel is furnished very elegantly.*
 
+**Phrases & Expressions:**
+- **edles Material** — *noble; fine*
+- **ein edler Charakter** — *noble; fine*
+- **edle Metalle** — *noble; fine*
+
 **Collocations**
 - edles Material
 - ein edler Charakter

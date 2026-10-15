@@ -29,6 +29,11 @@ status: "new"
 > Es herrschte eine brütende Hitze.
 > *There was a sweltering heat.*
 
+**Phrases & Expressions:**
+- **brütende Hitze** — *sweltering; brooding*
+- **brütend heiß** — *sweltering; brooding*
+- **in der brütenden Sonne** — *sweltering; brooding*
+
 **Collocations**
 - brütende Hitze
 - brütend heiß

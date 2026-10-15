@@ -33,6 +33,11 @@ status: "new"
 > Die Sanierung des Hauses dauert mehrere Monate.
 > *The renovation of the house takes several months.*
 
+**Phrases & Expressions:**
+- **eine Sanierung durchführen** — *renovation; restructuring*
+- **energetische Sanierung** — *renovation; restructuring*
+- **Sanierung des Unternehmens** — *renovation; restructuring*
+
 **Collocations**
 - eine Sanierung durchführen
 - energetische Sanierung

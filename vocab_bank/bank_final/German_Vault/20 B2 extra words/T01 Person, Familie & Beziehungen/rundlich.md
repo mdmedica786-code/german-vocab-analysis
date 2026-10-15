@@ -29,6 +29,11 @@ status: "new"
 > Er ist ein rundlicher Mann mit freundlichem Gesicht.
 > *He is a plump man with a friendly face.*
 
+**Phrases & Expressions:**
+- **rundlich sein** — *roundish; plump*
+- **ein rundliches Gesicht** — *roundish; plump*
+- **rundlich geformt** — *roundish; plump*
+
 **Collocations**
 - rundlich sein
 - ein rundliches Gesicht

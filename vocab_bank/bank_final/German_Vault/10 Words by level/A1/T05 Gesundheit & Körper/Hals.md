@@ -35,6 +35,9 @@ status: "new"
 > Mir tut der Hals weh.
 > *My throat hurts.*
 
+**Phrases & Expressions:**
+- **Jetzt schauen wir mal in deinen Hals. Mach bitte den Mund weit auf.** — Now let's have a look in your throat. Please open your mouth wide. *([[FSP-22 Kinder, Eltern und ältere Patienten|Kind untersuchen]] · A2)*
+
 **Source:** Netzwerk neu A1 K8 6a (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

@@ -30,6 +30,9 @@ status: "new"
 > Hast du irgendetwas gehört?
 > *Did you hear anything?*
 
+**Phrases & Expressions:**
+- **Hast du irgendetwas gehört** — *Did you hear anything* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 3a (Das ist ja praktisch!)
 <!-- bank:end -->
 

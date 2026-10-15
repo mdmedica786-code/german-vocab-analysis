@@ -35,6 +35,9 @@ status: "new"
 > Dieser Song gefällt mir sehr.
 > *I like this song a lot.*
 
+**Phrases & Expressions:**
+- **Dieser Song gefällt mir sehr** — *I like this song a lot* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 10b (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

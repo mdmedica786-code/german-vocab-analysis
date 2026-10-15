@@ -30,6 +30,11 @@ status: "new"
 > Die Silbe „un-“ ist eine Negationssilbe.
 > *The syllable "un-" is a negation syllable.*
 
+**Phrases & Expressions:**
+- **eine Negationssilbe erkennen** — *negation syllable (e.g. un-)*
+- **die Negationssilbe „un-“** — *negation syllable (e.g. un-)*
+- **eine Negationssilbe vor das Wort setzen** — *negation syllable (e.g. un-)*
+
 **Collocations**
 - eine Negationssilbe erkennen
 - die Negationssilbe „un-“

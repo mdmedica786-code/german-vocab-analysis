@@ -33,6 +33,11 @@ status: "new"
 > Die Maurer bauen die Wände des Hauses.
 > *The bricklayers are building the walls of the house.*
 
+**Phrases & Expressions:**
+- **als Maurer arbeiten** — *bricklayer*
+- **ein Maurer auf dem Bau** — *bricklayer*
+- **Maurer und Zimmerleute** — *bricklayer*
+
 **Collocations**
 - als Maurer arbeiten
 - ein Maurer auf dem Bau

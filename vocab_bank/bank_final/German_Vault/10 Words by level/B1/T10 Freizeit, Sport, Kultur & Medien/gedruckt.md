@@ -30,6 +30,9 @@ status: "new"
 > Ich lese lieber gedruckte Bücher.
 > *I prefer to read printed books.*
 
+**Phrases & Expressions:**
+- **Ich lese lieber gedruckte Bücher** — *I prefer to read printed books* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 4b (Umweltfreundlich?)
 <!-- bank:end -->
 

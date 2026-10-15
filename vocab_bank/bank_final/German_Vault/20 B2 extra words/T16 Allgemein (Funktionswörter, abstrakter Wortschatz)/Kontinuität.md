@@ -33,6 +33,11 @@ status: "new"
 > Für die Kinder ist Kontinuität im Alltag wichtig.
 > *Continuity in daily life is important for children.*
 
+**Phrases & Expressions:**
+- **Kontinuität wahren** — *continuity*
+- **für Kontinuität sorgen** — *continuity*
+- **mangelnde Kontinuität** — *continuity*
+
 **Collocations**
 - Kontinuität wahren
 - für Kontinuität sorgen

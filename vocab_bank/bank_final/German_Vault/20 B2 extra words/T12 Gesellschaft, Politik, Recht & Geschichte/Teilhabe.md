@@ -33,6 +33,11 @@ status: "new"
 > Die Teilhabe am Arbeitsleben ist wichtig.
 > *Participation in working life is important.*
 
+**Phrases & Expressions:**
+- **soziale Teilhabe** — *participation; inclusion*
+- **die Teilhabe am Arbeitsleben** — *participation; inclusion*
+- **Teilhabe ermöglichen** — *participation; inclusion*
+
 **Collocations**
 - soziale Teilhabe
 - die Teilhabe am Arbeitsleben

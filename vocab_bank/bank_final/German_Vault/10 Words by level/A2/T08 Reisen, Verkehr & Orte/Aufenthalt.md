@@ -35,6 +35,9 @@ status: "new"
 > Der Zug hat in München nur 20 Minuten Aufenthalt.
 > *The train only has a 20-minute stop in Munich.*
 
+**Phrases & Expressions:**
+- **Der Zug hat in München nur 20 Minuten Aufenthalt** — *The train only has a 20-minute stop in Munich* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 9d (Und was machst du?) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Nach den gesetzlichen Bestimmungen ist das verboten.
 > *According to the legal regulations this is forbidden.*
 
+**Phrases & Expressions:**
+- **gesetzliche Bestimmungen** — *regulation; determination; purpose*
+- **Bestimmungen beachten** — *regulation; determination; purpose*
+- **die Bestimmung des Alters** — *regulation; determination; purpose*
+
 **Collocations**
 - gesetzliche Bestimmungen
 - Bestimmungen beachten

@@ -34,6 +34,9 @@ status: "new"
 > In diesem Zeitraum bleibt die Praxis geschlossen.
 > *During this period the practice stays closed.*
 
+**Phrases & Expressions:**
+- **über einen längeren Zeitraum** — over a longer period *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · C1)*
+
 **Source:** Netzwerk neu A2 K10 7c (Zusammen leben)
 <!-- bank:end -->
 

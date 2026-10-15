@@ -31,6 +31,9 @@ status: "new"
 > [!example] Beispiel
 > Dem Patienten droht eine Operation.
 > *The patient faces an operation.*
+
+**Phrases & Expressions:**
+- **Dem Patienten droht eine Operation** — *The patient faces an operation* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

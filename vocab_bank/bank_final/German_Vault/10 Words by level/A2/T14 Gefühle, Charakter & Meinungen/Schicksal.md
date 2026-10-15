@@ -34,6 +34,9 @@ status: "new"
 > Sein Schicksal hat uns alle sehr berührt.
 > *His fate has touched us all deeply.*
 
+**Phrases & Expressions:**
+- **Sein Schicksal hat uns alle sehr berührt** — *His fate has touched us all deeply* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12b (Immer online?)
 <!-- bank:end -->
 

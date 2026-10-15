@@ -33,6 +33,11 @@ status: "new"
 > In Deutschland kann man Leitungswasser trinken.
 > *In Germany you can drink tap water.*
 
+**Phrases & Expressions:**
+- **Leitungswasser trinken** — *tap water*
+- **Leitungswasser statt Mineralwasser** — *tap water*
+- **sauberes Leitungswasser** — *tap water*
+
 **Collocations**
 - Leitungswasser trinken
 - Leitungswasser statt Mineralwasser

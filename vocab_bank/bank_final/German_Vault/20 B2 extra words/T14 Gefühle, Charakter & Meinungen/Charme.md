@@ -33,6 +33,11 @@ status: "new"
 > Sie besticht durch ihren natürlichen Charme.
 > *She wins people over with her natural charm.*
 
+**Phrases & Expressions:**
+- **Charme haben** — *charm*
+- **der Charme der Stadt** — *charm*
+- **seinen Charme spielen lassen** — *charm*
+
 **Collocations**
 - Charme haben
 - der Charme der Stadt

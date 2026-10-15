@@ -34,6 +34,9 @@ status: "new"
 > Die Führerin erklärt die Geschichte des Schlosses.
 > *The guide explains the history of the castle.*
 
+**Phrases & Expressions:**
+- **Die Führerin erklärt die Geschichte des Schlosses** — *The guide explains the history of the castle* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Das Umweltbewusstsein junger Menschen ist gestiegen.
 > *The environmental awareness of young people has increased.*
 
+**Phrases & Expressions:**
+- **Umweltbewusstsein fördern** — *environmental awareness*
+- **mangelndes Umweltbewusstsein** — *environmental awareness*
+- **Umweltbewusstsein entwickeln** — *environmental awareness*
+
 **Collocations**
 - Umweltbewusstsein fördern
 - mangelndes Umweltbewusstsein

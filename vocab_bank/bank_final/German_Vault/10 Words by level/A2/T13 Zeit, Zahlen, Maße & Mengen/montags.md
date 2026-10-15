@@ -30,6 +30,9 @@ status: "new"
 > Montags habe ich Training.
 > *On Mondays I have training.*
 
+**Phrases & Expressions:**
+- **Montags habe ich Training** — *On Mondays I have training* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

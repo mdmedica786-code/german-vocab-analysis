@@ -35,6 +35,9 @@ status: "new"
 > Tragen Sie die richtige Information in die Tabelle ein.
 > *Fill in the correct information in the table.*
 
+**Phrases & Expressions:**
+- **Tragen Sie die richtige Information in die Tabelle ein** — *Fill in the correct information in the table* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 8a (Guten Tag!) · Goethe word list B1
 <!-- bank:end -->
 

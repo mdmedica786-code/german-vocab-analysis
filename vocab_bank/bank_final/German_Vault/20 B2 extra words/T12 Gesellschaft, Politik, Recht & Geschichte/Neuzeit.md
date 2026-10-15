@@ -33,6 +33,11 @@ status: "new"
 > Die Neuzeit beginnt ungefähr um 1500.
 > *The modern era begins around 1500.*
 
+**Phrases & Expressions:**
+- **in der Neuzeit** — *modern era*
+- **die frühe Neuzeit** — *modern era*
+- **Mittelalter und Neuzeit** — *modern era*
+
 **Collocations**
 - in der Neuzeit
 - die frühe Neuzeit

@@ -33,6 +33,9 @@ status: "new"
 > Alle Kollegen arbeiten an dem Projekt mit.
 > *All colleagues are working on the project.*
 
+**Phrases & Expressions:**
+- **Alle Kollegen arbeiten an dem Projekt mit** — *All colleagues are working on the project* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13b (Gute Reise!)
 <!-- bank:end -->
 

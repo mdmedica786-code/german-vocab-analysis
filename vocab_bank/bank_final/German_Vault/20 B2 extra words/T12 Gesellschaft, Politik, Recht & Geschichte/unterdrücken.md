@@ -31,6 +31,11 @@ status: "new"
 > Er konnte ein Lachen kaum unterdrücken.
 > *He could hardly suppress a laugh.*
 
+**Phrases & Expressions:**
+- **ein Lachen unterdrücken** — *to suppress; to oppress*
+- **ein Volk unterdrücken** — *to suppress; to oppress*
+- **eine Meinung unterdrücken** — *to suppress; to oppress*
+
 **Collocations**
 - ein Lachen unterdrücken
 - ein Volk unterdrücken

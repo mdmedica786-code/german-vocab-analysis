@@ -31,6 +31,11 @@ status: "new"
 > Der Hund schnappt nach dem Ball.
 > *The dog snaps at the ball.*
 
+**Phrases & Expressions:**
+- **nach etwas schnappen** — *to snap; to snatch; to catch*
+- **frische Luft schnappen** — *to snap; to snatch; to catch*
+- **jemanden schnappen** — *to snap; to snatch; to catch*
+
 **Collocations**
 - nach etwas schnappen
 - frische Luft schnappen

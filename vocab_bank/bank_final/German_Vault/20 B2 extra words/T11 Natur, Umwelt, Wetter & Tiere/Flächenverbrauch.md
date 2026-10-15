@@ -33,6 +33,11 @@ status: "new"
 > Der Flächenverbrauch durch neue Straßen ist enorm.
 > *Land consumption by new roads is enormous.*
 
+**Phrases & Expressions:**
+- **den Flächenverbrauch senken** — *land consumption*
+- **täglicher Flächenverbrauch** — *land consumption*
+- **hoher Flächenverbrauch** — *land consumption*
+
 **Collocations**
 - den Flächenverbrauch senken
 - täglicher Flächenverbrauch

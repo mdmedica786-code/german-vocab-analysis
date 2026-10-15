@@ -34,6 +34,9 @@ status: "new"
 > Seine Äußerung war nicht höflich.
 > *His remark was not polite.*
 
+**Phrases & Expressions:**
+- **Seine Äußerung war nicht höflich** — *His remark was not polite* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 7b (Meine Wohnung)
 <!-- bank:end -->
 

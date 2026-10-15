@@ -33,6 +33,11 @@ status: "new"
 > Ein Regenbogen ist eine schöne Naturerscheinung.
 > *A rainbow is a beautiful natural phenomenon.*
 
+**Phrases & Expressions:**
+- **eine seltene Naturerscheinung** — *natural phenomenon*
+- **eine Naturerscheinung beobachten** — *natural phenomenon*
+- **Naturerscheinungen erklären** — *natural phenomenon*
+
 **Collocations**
 - eine seltene Naturerscheinung
 - eine Naturerscheinung beobachten

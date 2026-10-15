@@ -34,6 +34,9 @@ status: "new"
 > Das Kaufverhalten der Kunden ändert sich.
 > *Customers' buying behaviour is changing.*
 
+**Phrases & Expressions:**
+- **Das Kaufverhalten der Kunden ändert sich** — *Customers' buying behaviour is changing* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 10b (Das ist ja praktisch!)
 <!-- bank:end -->
 

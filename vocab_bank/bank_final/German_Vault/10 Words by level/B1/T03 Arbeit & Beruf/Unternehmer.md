@@ -35,6 +35,9 @@ status: "new"
 > Er ist ein erfolgreicher Unternehmer.
 > *He is a successful entrepreneur.*
 
+**Phrases & Expressions:**
+- **Er ist ein erfolgreicher Unternehmer** — *He is a successful entrepreneur* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

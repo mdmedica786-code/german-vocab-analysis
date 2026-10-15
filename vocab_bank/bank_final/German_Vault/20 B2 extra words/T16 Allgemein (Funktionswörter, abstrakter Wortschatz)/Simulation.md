@@ -33,6 +33,11 @@ status: "new"
 > Die Simulation zeigt mögliche Folgen des Klimawandels.
 > *The simulation shows possible consequences of climate change.*
 
+**Phrases & Expressions:**
+- **eine Simulation durchführen** — *simulation*
+- **eine Simulation starten** — *simulation*
+- **eine Computersimulation** — *simulation*
+
 **Collocations**
 - eine Simulation durchführen
 - eine Simulation starten

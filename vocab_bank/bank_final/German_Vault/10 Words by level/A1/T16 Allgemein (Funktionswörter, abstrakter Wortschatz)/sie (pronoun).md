@@ -38,6 +38,9 @@ status: "new"
 > Sie kommt aus Deutschland.
 > *She's from Germany.*
 
+**Phrases & Expressions:**
+- **Sie kommt aus Deutschland** — *She's from Germany* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 4b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

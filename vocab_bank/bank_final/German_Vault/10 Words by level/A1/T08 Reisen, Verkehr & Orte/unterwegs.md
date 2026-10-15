@@ -31,6 +31,9 @@ status: "new"
 > Warte auf mich. Ich bin unterwegs und komme gleich.
 > *Wait for me. I'm on my way and will be there in a moment.*
 
+**Phrases & Expressions:**
+- **Warte auf mich. Ich bin unterwegs und komme gleich** — *Wait for me. I'm on my way and will be there in a moment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!) · Goethe word list B1
 <!-- bank:end -->
 

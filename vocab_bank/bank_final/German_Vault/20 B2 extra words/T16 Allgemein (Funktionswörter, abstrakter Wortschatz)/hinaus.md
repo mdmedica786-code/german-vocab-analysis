@@ -29,6 +29,12 @@ status: "new"
 > Das Angebot gilt auch über den Mai hinaus.
 > *The offer is also valid beyond May.*
 
+**Phrases & Expressions:**
+- **darüber hinaus** — in addition; moreover *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **Darüber hinaus ist ... wichtig.** — Moreover, ... is important. *([[B1-03 Argumentieren, begründen und Beispiele nennen|Argumente aufzählen]] · B1)*
+- **über etwas hinaus** — *out; beyond*
+- **zur Tür hinaus** — *out; beyond*
+
 **Collocations**
 - darüber hinaus
 - über etwas hinaus

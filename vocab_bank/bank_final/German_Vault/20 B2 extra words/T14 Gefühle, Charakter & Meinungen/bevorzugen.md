@@ -31,6 +31,11 @@ status: "new"
 > Ich bevorzuge den Zug gegenüber dem Auto.
 > *I prefer the train to the car.*
 
+**Phrases & Expressions:**
+- **etwas bevorzugen** — *to prefer; to favour*
+- **bevorzugt werden** — *to prefer; to favour*
+- **jemanden bevorzugen** — *to prefer; to favour*
+
 **Collocations**
 - etwas bevorzugen
 - bevorzugt werden

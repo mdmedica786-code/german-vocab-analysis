@@ -29,6 +29,12 @@ status: "new"
 > Sie schreibt eine wissenschaftliche Arbeit über Diabetes.
 > *She is writing a scientific paper on diabetes.*
 
+**Phrases & Expressions:**
+- **wissenschaftliche Arbeit** — *scientific; academic*
+- **wissenschaftlich arbeiten** — *scientific; academic*
+- **wissenschaftliche Studie** — *scientific; academic*
+- **wissenschaftlich belegt** — *scientific; academic*
+
 **Collocations**
 - wissenschaftliche Arbeit
 - wissenschaftlich arbeiten

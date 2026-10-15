@@ -33,6 +33,11 @@ status: "new"
 > Die Eignung für den Beruf wird im Test geprüft.
 > *Suitability for the profession is checked in the test.*
 
+**Phrases & Expressions:**
+- **die Eignung für** — *suitability; aptitude*
+- **die Eignung prüfen** — *suitability; aptitude*
+- **fachliche Eignung** — *suitability; aptitude*
+
 **Collocations**
 - die Eignung für
 - die Eignung prüfen

@@ -33,6 +33,9 @@ status: "new"
 > Steffi spielt sehr gut Tennis.
 > **
 
+**Phrases & Expressions:**
+- **Steffi spielt sehr gut Tennis** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

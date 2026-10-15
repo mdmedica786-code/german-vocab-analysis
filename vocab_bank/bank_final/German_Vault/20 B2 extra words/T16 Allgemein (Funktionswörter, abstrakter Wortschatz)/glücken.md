@@ -31,6 +31,10 @@ status: "new"
 > Die Überraschung ist uns geglückt.
 > *The surprise worked out for us.*
 
+**Phrases & Expressions:**
+- **der Plan glückt** — *to succeed; to work out*
+- **die Flucht glückt** — *to succeed; to work out*
+
 **Collocations**
 - der Plan glückt
 - die Flucht glückt

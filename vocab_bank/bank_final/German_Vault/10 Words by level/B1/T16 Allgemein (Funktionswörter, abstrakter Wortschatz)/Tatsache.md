@@ -34,6 +34,11 @@ status: "new"
 > Das widerspricht den Tatsachen.
 > *That contradicts the facts.*
 
+**Phrases & Expressions:**
+- **die Tatsache, dass ...** — the fact that ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **angesichts der Tatsache, dass ...** — in view of the fact that ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · C1)*
+- **aufgrund der Tatsache, dass ...** — due to the fact that ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · C1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

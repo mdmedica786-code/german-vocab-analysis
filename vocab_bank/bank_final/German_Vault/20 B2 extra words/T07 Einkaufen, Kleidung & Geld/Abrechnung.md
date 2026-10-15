@@ -33,6 +33,11 @@ status: "new"
 > Die Abrechnung der Nebenkosten kommt im Frühjahr.
 > *The statement of the additional costs arrives in spring.*
 
+**Phrases & Expressions:**
+- **die Abrechnung erstellen** — *bill; statement; settlement*
+- **die Abrechnung prüfen** — *bill; statement; settlement*
+- **die Abrechnung der Nebenkosten** — *bill; statement; settlement*
+
 **Collocations**
 - die Abrechnung erstellen
 - die Abrechnung prüfen

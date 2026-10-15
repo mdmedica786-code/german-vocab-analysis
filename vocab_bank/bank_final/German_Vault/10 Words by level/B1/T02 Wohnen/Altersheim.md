@@ -34,6 +34,9 @@ status: "new"
 > Die Großeltern unserer Nachbarn sind im Altersheim.
 > *Our neighbours' grandparents are in the old people's home.*
 
+**Phrases & Expressions:**
+- **Die Großeltern unserer Nachbarn sind im Altersheim** — *Our neighbours' grandparents are in the old people's home* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

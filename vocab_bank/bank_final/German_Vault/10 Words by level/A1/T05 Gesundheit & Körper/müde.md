@@ -31,6 +31,10 @@ status: "new"
 > Ich bin müde. Ich gehe schlafen.
 > *I'm tired. I'm going to sleep.*
 
+**Phrases & Expressions:**
+- **Es geht so, ich bin ein bisschen müde.** — So-so, I am a little tired. *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Nach dem Befinden fragen]] · A2)*
+- **Dieses Medikament kann müde machen, fahren Sie daher nicht selbst Auto.** — This medicine can make you tired, so don't drive yourself. *([[FSP-11 Therapie und Medikamente erklären|Nebenwirkungen erklären]] · B2)*
+
 **Source:** Netzwerk neu A1 K8 1c (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

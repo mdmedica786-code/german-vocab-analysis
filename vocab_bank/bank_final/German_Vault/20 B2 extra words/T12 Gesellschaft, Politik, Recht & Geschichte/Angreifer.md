@@ -33,6 +33,11 @@ status: "new"
 > Die Polizei konnte den Angreifer schnell festnehmen.
 > *The police were able to arrest the attacker quickly.*
 
+**Phrases & Expressions:**
+- **ein bewaffneter Angreifer** — *attacker; assailant*
+- **der Angreifer flieht** — *attacker; assailant*
+- **den Angreifer festnehmen** — *attacker; assailant*
+
 **Collocations**
 - ein bewaffneter Angreifer
 - der Angreifer flieht

@@ -34,6 +34,10 @@ status: "new"
 > Das Kochen dauert eine Weile.
 > *Cooking takes a while.*
 
+**Phrases & Expressions:**
+- **nach einer Weile** — after a while *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **noch eine Weile** — for a while yet *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+
 **Source:** Netzwerk neu A2 K11 12a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

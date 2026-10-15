@@ -35,6 +35,9 @@ status: "new"
 > Das Studium beginnt im Oktober.
 > *The degree course starts in October.*
 
+**Phrases & Expressions:**
+- **Studien belegen, dass ...** — Studies prove that ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Beleg anführen]] · B2)*
+
 **Source:** Netzwerk neu A1 K10 1a (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

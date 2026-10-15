@@ -30,6 +30,11 @@ status: "new"
 > Die Fahrtdauer beträgt etwa zwei Stunden.
 > *The journey time is about two hours.*
 
+**Phrases & Expressions:**
+- **die Fahrtdauer beträgt** — *journey time; duration of the trip*
+- **eine kurze Fahrtdauer** — *journey time; duration of the trip*
+- **die Fahrtdauer verkürzen** — *journey time; duration of the trip*
+
 **Collocations**
 - die Fahrtdauer beträgt
 - eine kurze Fahrtdauer

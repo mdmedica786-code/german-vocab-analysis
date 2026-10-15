@@ -29,6 +29,11 @@ status: "new"
 > Sein Traum von einem eigenen Haus ist in Erfüllung gegangen.
 > *His dream of a house of his own has come true.*
 
+**Phrases & Expressions:**
+- **Wünsche gehen in Erfüllung** — *to come true*
+- **Träume gehen in Erfüllung** — *to come true*
+- **in Erfüllung gehen lassen** — *to come true*
+
 **Collocations**
 - Wünsche gehen in Erfüllung
 - Träume gehen in Erfüllung

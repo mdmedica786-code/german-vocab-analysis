@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Sie arbeitet in einer Marketing-Agentur.
 > *She works at a marketing agency.*
+
+**Phrases & Expressions:**
+- **Sie arbeitet in einer Marketing-Agentur** — *She works at a marketing agency* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

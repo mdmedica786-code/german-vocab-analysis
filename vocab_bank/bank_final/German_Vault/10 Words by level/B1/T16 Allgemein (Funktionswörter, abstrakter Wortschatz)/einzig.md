@@ -31,6 +31,14 @@ status: "new"
 > Das ist der einzige Weg.
 > *That is the only way.*
 
+**Phrases & Expressions:**
+- **ein einziges Mal** — just once *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **das Einzige, was ...** — the only thing that ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **einzig und allein** — solely; entirely *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **nur ein einziges Mal** — only a single time *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **der einzige Weg** — *only; sole; single*
+- **das einzige Problem** — *only; sole; single*
+
 **Collocations**
 - der einzige Weg
 - das einzige Problem

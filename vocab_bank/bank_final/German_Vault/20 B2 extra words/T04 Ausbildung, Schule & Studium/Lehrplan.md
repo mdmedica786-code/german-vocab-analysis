@@ -33,6 +33,11 @@ status: "new"
 > Der Lehrplan sieht für die neunte Klasse zwei Fremdsprachen vor.
 > *The curriculum provides for two foreign languages in the ninth grade.*
 
+**Phrases & Expressions:**
+- **den Lehrplan ändern** — *curriculum; syllabus*
+- **im Lehrplan stehen** — *curriculum; syllabus*
+- **ein neuer Lehrplan** — *curriculum; syllabus*
+
 **Collocations**
 - den Lehrplan ändern
 - im Lehrplan stehen

@@ -33,6 +33,12 @@ status: "new"
 > Wir leben getrennt.
 > *We live separately.*
 
+**Phrases & Expressions:**
+- **getrennt leben** — to live apart *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B2)*
+- **Müll trennen** — *to separate; to split up*
+- **sich trennen** — *to separate; to split up*
+- **Wörter trennen** — *to separate; to split up*
+
 **Collocations**
 - Müll trennen
 - sich trennen

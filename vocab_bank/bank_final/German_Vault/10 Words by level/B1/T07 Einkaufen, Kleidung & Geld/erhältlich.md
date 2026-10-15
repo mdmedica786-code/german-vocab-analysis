@@ -30,6 +30,9 @@ status: "new"
 > Das Produkt ist im Internet erhältlich.
 > *The product is available on the internet.*
 
+**Phrases & Expressions:**
+- **Das Produkt ist im Internet erhältlich** — *The product is available on the internet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

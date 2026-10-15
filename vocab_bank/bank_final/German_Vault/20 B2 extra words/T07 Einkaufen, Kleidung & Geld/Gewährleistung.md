@@ -33,6 +33,11 @@ status: "new"
 > Auf das Gerät gilt eine Gewährleistung von zwei Jahren.
 > *A warranty of two years applies to the device.*
 
+**Phrases & Expressions:**
+- **Gewährleistung übernehmen** — *warranty; guarantee*
+- **die gesetzliche Gewährleistung** — *warranty; guarantee*
+- **Anspruch auf Gewährleistung** — *warranty; guarantee*
+
 **Collocations**
 - Gewährleistung übernehmen
 - die gesetzliche Gewährleistung

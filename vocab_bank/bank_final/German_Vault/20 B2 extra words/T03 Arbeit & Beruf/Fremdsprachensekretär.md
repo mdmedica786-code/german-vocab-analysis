@@ -30,6 +30,11 @@ status: "new"
 > Der Fremdsprachensekretär schreibt Briefe auf Englisch und Französisch.
 > *The foreign-language secretary writes letters in English and French.*
 
+**Phrases & Expressions:**
+- **als Fremdsprachensekretär arbeiten** — *foreign-language secretary (male)*
+- **ein erfahrener Fremdsprachensekretär** — *foreign-language secretary (male)*
+- **Fremdsprachensekretär werden** — *foreign-language secretary (male)*
+
 **Collocations**
 - als Fremdsprachensekretär arbeiten
 - ein erfahrener Fremdsprachensekretär

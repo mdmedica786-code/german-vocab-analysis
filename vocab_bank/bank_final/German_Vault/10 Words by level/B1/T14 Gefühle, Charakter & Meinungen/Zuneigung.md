@@ -34,6 +34,9 @@ status: "new"
 > Sie zeigt ihm viel Zuneigung.
 > *She shows him a lot of affection.*
 
+**Phrases & Expressions:**
+- **Sie zeigt ihm viel Zuneigung** — *She shows him a lot of affection* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 6b (Veränderungen)
 <!-- bank:end -->
 

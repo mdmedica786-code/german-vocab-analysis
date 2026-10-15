@@ -27,6 +27,9 @@ status: "new"
 > Nach der langen Reise bin ich k.o.
 > *After the long journey I'm exhausted.*
 
+**Phrases & Expressions:**
+- **Nach der langen Reise bin ich k.o** — *After the long journey I'm exhausted* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7a (Ab in den Urlaub!)
 <!-- bank:end -->
 

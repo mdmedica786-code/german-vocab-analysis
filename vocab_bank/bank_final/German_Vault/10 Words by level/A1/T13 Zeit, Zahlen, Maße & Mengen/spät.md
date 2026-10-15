@@ -32,6 +32,14 @@ status: "new"
 > Es ist schon spät, ich muss gehen.
 > *It is already late, I have to go.*
 
+**Phrases & Expressions:**
+- **früher oder später** — sooner or later *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Jahre später** — years later *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Minuten später** — minutes later *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **wenig später** — shortly afterwards *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Tage später** — days later *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **bis später** — see you later *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A1)*
+
 **Source:** Netzwerk neu A1 K5 5a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

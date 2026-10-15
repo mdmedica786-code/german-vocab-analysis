@@ -32,6 +32,9 @@ status: "new"
 > Ich habe mir die Haare getrocknet.
 > *I dried my hair.*
 
+**Phrases & Expressions:**
+- **Ich habe mir die Haare getrocknet** — *I dried my hair* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Sie strahlt Ruhe und Ausgeglichenheit aus.
 > *She radiates calm and an even temper.*
 
+**Phrases & Expressions:**
+- **innere Ausgeglichenheit** — *balance; even temper*
+- **Ausgeglichenheit finden** — *balance; even temper*
+- **seelische Ausgeglichenheit** — *balance; even temper*
+
 **Collocations**
 - innere Ausgeglichenheit
 - Ausgeglichenheit finden

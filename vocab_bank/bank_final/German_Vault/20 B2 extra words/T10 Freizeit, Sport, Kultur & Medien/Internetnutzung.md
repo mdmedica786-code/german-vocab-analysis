@@ -33,6 +33,11 @@ status: "new"
 > Die Internetnutzung hat in allen Altersgruppen zugenommen.
 > *Internet use has increased in all age groups.*
 
+**Phrases & Expressions:**
+- **die tägliche Internetnutzung** — *internet use*
+- **die Internetnutzung der Jugendlichen** — *internet use*
+- **Internetnutzung begrenzen** — *internet use*
+
 **Collocations**
 - die tägliche Internetnutzung
 - die Internetnutzung der Jugendlichen

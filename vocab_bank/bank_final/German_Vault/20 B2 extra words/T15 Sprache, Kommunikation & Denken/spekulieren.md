@@ -31,6 +31,11 @@ status: "new"
 > Die Medien spekulieren über den Rücktritt des Trainers.
 > *The media speculate about the coach's resignation.*
 
+**Phrases & Expressions:**
+- **auf etwas spekulieren** — *to speculate*
+- **über etwas spekulieren** — *to speculate*
+- **an der Börse spekulieren** — *to speculate*
+
 **Collocations**
 - auf etwas spekulieren
 - über etwas spekulieren

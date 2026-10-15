@@ -26,6 +26,10 @@ status: "new"
 > Rücksichtsloses Fahren bringt andere in Gefahr.
 > *Reckless driving endangers others.*
 
+**Phrases & Expressions:**
+- **jemanden in Gefahr bringen** — *to endanger*
+- **sich in Gefahr begeben** — *to endanger*
+
 **Collocations**
 - jemanden in Gefahr bringen
 - sich in Gefahr begeben

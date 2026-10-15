@@ -32,6 +32,9 @@ status: "new"
 > Diese Fahrkarte gilt nur innerhalb der Stadt.
 > *This ticket is only valid within the city.*
 
+**Phrases & Expressions:**
+- **Die Zahl hat sich innerhalb von zehn Jahren verdoppelt.** — The number has doubled within ten years. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Anstieg beschreiben]] · B2)*
+
 **Source:** Netzwerk neu B1 K3 5b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

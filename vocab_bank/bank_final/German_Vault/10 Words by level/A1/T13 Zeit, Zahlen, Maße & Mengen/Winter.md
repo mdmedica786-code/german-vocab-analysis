@@ -35,6 +35,9 @@ status: "new"
 > Im Winter ist es kalt und dunkel.
 > *In winter it is cold and dark.*
 
+**Phrases & Expressions:**
+- **im Winter** — in winter *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A1)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

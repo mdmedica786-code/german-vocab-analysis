@@ -29,6 +29,11 @@ status: "new"
 > Sie hat ein glänzendes Ergebnis erzielt.
 > *She achieved a brilliant result.*
 
+**Phrases & Expressions:**
+- **ein glänzendes Ergebnis** — *shining; brilliant*
+- **glänzende Augen** — *shining; brilliant*
+- **glänzend laufen** — *shining; brilliant*
+
 **Collocations**
 - ein glänzendes Ergebnis
 - glänzende Augen

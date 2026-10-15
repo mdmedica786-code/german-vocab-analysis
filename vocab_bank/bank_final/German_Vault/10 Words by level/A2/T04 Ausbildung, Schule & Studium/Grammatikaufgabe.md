@@ -31,6 +31,9 @@ status: "new"
 > Die Grammatikaufgabe war heute sehr schwer.
 > *The grammar exercise was very difficult today.*
 
+**Phrases & Expressions:**
+- **Die Grammatikaufgabe war heute sehr schwer** — *The grammar exercise was very difficult today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 7 (Immer online?)
 <!-- bank:end -->
 

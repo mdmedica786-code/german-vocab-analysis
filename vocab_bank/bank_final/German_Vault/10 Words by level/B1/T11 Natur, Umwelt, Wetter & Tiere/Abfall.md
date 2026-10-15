@@ -35,6 +35,9 @@ status: "new"
 > Werfen Sie den Bioabfall bitte nicht zum normalen Müll.
 > *Please do not throw the organic waste in with the normal rubbish.*
 
+**Phrases & Expressions:**
+- **Werfen Sie den Bioabfall bitte nicht zum normalen Müll** — *Please do not throw the organic waste in with the normal rubbish* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 1a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

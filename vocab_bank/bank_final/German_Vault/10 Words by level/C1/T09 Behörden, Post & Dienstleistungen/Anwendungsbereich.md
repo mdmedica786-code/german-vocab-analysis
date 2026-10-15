@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Anwendungsbereich des Gesetzes ist begrenzt.
 > *The scope of the law is limited.*
+
+**Phrases & Expressions:**
+- **Der Anwendungsbereich des Gesetzes ist begrenzt** — *The scope of the law is limited* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

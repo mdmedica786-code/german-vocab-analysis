@@ -33,6 +33,14 @@ status: "new"
 > Der Arzt misst den Blutdruck.
 > *The doctor measures the blood pressure.*
 
+**Phrases & Expressions:**
+- **Ich nehme morgens eine Tablette gegen den Blutdruck.** — I take one tablet against blood pressure in the morning. *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Patient: Medikamente nennen]] · A2)*
+- **Ich messe jetzt Ihren Blutdruck.** — I will now measure your blood pressure. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Blutdruck messen]] · A2)*
+- **Blutdruck 130 zu 80 Millimeter Quecksilbersäule, Puls 78 pro Minute.** — Blood pressure 130 over 80 mmHg, pulse 78 per minute. *([[FSP-08 Befunde beschreiben und berichten|Vitalparameter]] · B2)*
+- **Messen Sie bitte täglich Ihren Blutdruck und notieren Sie die Werte.** — Please measure your blood pressure daily and note the values. *([[FSP-11 Therapie und Medikamente erklären|Selbstmanagement]] · B2)*
+- **den Blutdruck messen** — *blood pressure*
+- **hoher Blutdruck** — *blood pressure*
+
 **Collocations**
 - den Blutdruck messen
 - hoher Blutdruck

@@ -31,6 +31,13 @@ status: "new"
 > Die Aufgabe ist gar nicht so schwer.
 > *The exercise isn't really that difficult.*
 
+**Phrases & Expressions:**
+- **schwer zu ...** — hard to ... *([[Können - Müssen - Dürfen (modal frames)|Können / Müssen / Dürfen (modal frames)]] · B2)*
+- **Schwere Komplikationen sind sehr selten, aber nicht ausgeschlossen.** — Serious complications are very rare but not ruled out. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Risiken nennen]] · B2)*
+- **In den ersten Wochen dürfen Sie nichts Schweres heben.** — In the first few weeks you must not lift anything heavy. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Nachsorge erklären]] · B2)*
+- **Ich kann mir vorstellen, wie schwer das für Sie ist.** — I can imagine how hard this is for you. *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Empathie zeigen]] · B2)*
+- **Bitte schonen Sie sich noch eine Woche und heben Sie nichts Schweres.** — Please take it easy for another week and don't lift anything heavy. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Verhaltensregeln geben]] · B1)*
+
 **Source:** Netzwerk neu A1 K7 9c (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

@@ -31,6 +31,11 @@ status: "new"
 > Das Geräusch irritiert mich bei der Arbeit.
 > *The noise irritates me at work.*
 
+**Phrases & Expressions:**
+- **jemanden irritieren** — *to irritate; to confuse*
+- **irritiert sein** — *to irritate; to confuse*
+- **irritiert wirken** — *to irritate; to confuse*
+
 **Collocations**
 - jemanden irritieren
 - irritiert sein

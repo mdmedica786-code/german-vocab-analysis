@@ -33,6 +33,11 @@ status: "new"
 > Die Verwandlung der Raupe in einen Schmetterling ist beeindruckend.
 > *The transformation of the caterpillar into a butterfly is impressive.*
 
+**Phrases & Expressions:**
+- **die Verwandlung in** — *transformation; metamorphosis*
+- **eine Verwandlung durchmachen** — *transformation; metamorphosis*
+- **eine erstaunliche Verwandlung** — *transformation; metamorphosis*
+
 **Collocations**
 - die Verwandlung in
 - eine Verwandlung durchmachen

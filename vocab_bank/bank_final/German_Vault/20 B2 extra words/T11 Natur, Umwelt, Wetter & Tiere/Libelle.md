@@ -33,6 +33,11 @@ status: "new"
 > Am Teich flog eine blaue Libelle.
 > *A blue dragonfly was flying at the pond.*
 
+**Phrases & Expressions:**
+- **eine Libelle fliegt** — *dragonfly*
+- **am Teich Libellen beobachten** — *dragonfly*
+- **schillernde Libelle** — *dragonfly*
+
 **Collocations**
 - eine Libelle fliegt
 - am Teich Libellen beobachten

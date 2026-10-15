@@ -33,6 +33,9 @@ status: "new"
 > Die Lehrerin sammelt die Hefte ein.
 > *The teacher collects the exercise books.*
 
+**Phrases & Expressions:**
+- **Die Lehrerin sammelt die Hefte ein** — *The teacher collects the exercise books* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 6a (Zeit mit Freunden)
 <!-- bank:end -->
 

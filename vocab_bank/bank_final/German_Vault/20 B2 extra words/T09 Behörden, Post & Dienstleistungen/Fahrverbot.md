@@ -33,6 +33,11 @@ status: "new"
 > Wegen der Raserei bekam er ein Fahrverbot von drei Monaten.
 > *Because of speeding he received a driving ban of three months.*
 
+**Phrases & Expressions:**
+- **ein Fahrverbot verhängen** — *driving ban*
+- **ein Fahrverbot aussprechen** — *driving ban*
+- **Fahrverbot für Dieselautos** — *driving ban*
+
 **Collocations**
 - ein Fahrverbot verhängen
 - ein Fahrverbot aussprechen

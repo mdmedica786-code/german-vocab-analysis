@@ -34,6 +34,9 @@ status: "new"
 > Wir haben heute eine Telefonkonferenz mit dem Team.
 > *Today we have a conference call with the team.*
 
+**Phrases & Expressions:**
+- **Wir haben heute eine Telefonkonferenz mit dem Team** — *Today we have a conference call with the team* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
 <!-- bank:end -->
 

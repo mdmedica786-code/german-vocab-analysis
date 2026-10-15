@@ -34,6 +34,9 @@ status: "new"
 > Deutsch ist seine Zweitsprache.
 > *German is his second language.*
 
+**Phrases & Expressions:**
+- **Deutsch ist seine Zweitsprache** — *German is his second language* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

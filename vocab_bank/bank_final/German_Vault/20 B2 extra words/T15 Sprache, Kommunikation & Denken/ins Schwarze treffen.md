@@ -29,6 +29,10 @@ status: "new"
 > Mit dieser Frage hat sie ins Schwarze getroffen.
 > *With this question she hit the nail on the head.*
 
+**Phrases & Expressions:**
+- **genau richtig liegen** — *to hit the bull's eye; to get it exactly right*
+- **ins Schwarze getroffen haben** — *to hit the bull's eye; to get it exactly right*
+
 **Collocations**
 - genau richtig liegen
 - ins Schwarze getroffen haben

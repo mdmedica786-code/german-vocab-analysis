@@ -34,6 +34,9 @@ status: "new"
 > Die Laborantin nimmt eine Probe.
 > *The lab assistant takes a sample.*
 
+**Phrases & Expressions:**
+- **Die Laborantin nimmt eine Probe** — *The lab assistant takes a sample* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13a (Fit und gesund)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Viele junge Leute finden zuerst über Zeitarbeit einen Job.
 > *Many young people first find a job through temporary agency work.*
 
+**Phrases & Expressions:**
+- **in der Zeitarbeit** — *temporary agency work*
+- **Zeitarbeitsfirma** — *temporary agency work*
+- **Zeitarbeit anbieten** — *temporary agency work*
+
 **Collocations**
 - in der Zeitarbeit
 - Zeitarbeitsfirma

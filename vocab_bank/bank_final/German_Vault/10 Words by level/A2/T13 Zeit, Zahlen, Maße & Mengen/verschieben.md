@@ -33,6 +33,12 @@ status: "new"
 > Leider muss ich den Termin verschieben.
 > *Unfortunately I have to postpone the appointment.*
 
+**Phrases & Expressions:**
+- **Ich würde vorschlagen, dass wir den Termin verschieben.** — I would suggest that we postpone the appointment. *([[B1-05 Vorschläge machen und darauf reagieren|Vorschlag machen]] · B1)*
+- **Können wir den Termin verschieben?** — Can we postpone the appointment? *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Termin verschieben]] · B1)*
+- **Leider muss ich unseren Termin verschieben.** — Unfortunately I have to postpone our appointment. *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Termin verschieben]] · B1)*
+- **Wäre es möglich, den Termin zu verschieben?** — Would it be possible to postpone the appointment? *([[B2-07 Telefonieren|Termin verschieben]] · B2)*
+
 **Source:** Netzwerk neu A2 K8 3b (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

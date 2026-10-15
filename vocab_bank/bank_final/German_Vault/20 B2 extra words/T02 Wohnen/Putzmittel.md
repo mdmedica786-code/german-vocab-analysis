@@ -33,6 +33,11 @@ status: "new"
 > Verwende bitte ein umweltfreundliches Putzmittel!
 > *Please use an environmentally friendly cleaning product!*
 
+**Phrases & Expressions:**
+- **ein Putzmittel verwenden** — *cleaning product*
+- **scharfe Putzmittel** — *cleaning product*
+- **Putzmittel im Haushalt** — *cleaning product*
+
 **Collocations**
 - ein Putzmittel verwenden
 - scharfe Putzmittel

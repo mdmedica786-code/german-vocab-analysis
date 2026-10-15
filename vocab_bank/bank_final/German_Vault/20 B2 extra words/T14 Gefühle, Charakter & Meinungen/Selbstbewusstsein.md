@@ -33,6 +33,11 @@ status: "new"
 > Sie tritt mit großem Selbstbewusstsein auf.
 > *She presents herself with great self-confidence.*
 
+**Phrases & Expressions:**
+- **ein gesundes Selbstbewusstsein** — *self-confidence*
+- **Selbstbewusstsein stärken** — *self-confidence*
+- **mangelndes Selbstbewusstsein** — *self-confidence*
+
 **Collocations**
 - ein gesundes Selbstbewusstsein
 - Selbstbewusstsein stärken

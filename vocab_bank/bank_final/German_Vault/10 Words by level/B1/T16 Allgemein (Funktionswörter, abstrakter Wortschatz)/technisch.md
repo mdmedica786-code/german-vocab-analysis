@@ -31,6 +31,12 @@ status: "new"
 > Es gab ein technisches Problem.
 > *There was a technical problem.*
 
+**Phrases & Expressions:**
+- **technische Probleme** — *technical*
+- **technischer Fortschritt** — *technical*
+- **technische Daten** — *technical*
+- **technisch möglich** — *technical*
+
 **Collocations**
 - technische Probleme
 - technischer Fortschritt

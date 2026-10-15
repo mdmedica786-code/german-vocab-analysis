@@ -31,6 +31,11 @@ status: "new"
 > Kuck mal, wie schön der Himmel ist!
 > *Look how beautiful the sky is!*
 
+**Phrases & Expressions:**
+- **kuck mal** — *to look; to watch (variant of gucken)*
+- **aus dem Fenster kucken** — *to look; to watch (variant of gucken)*
+- **ins Buch kucken** — *to look; to watch (variant of gucken)*
+
 **Collocations**
 - kuck mal
 - aus dem Fenster kucken

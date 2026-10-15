@@ -35,6 +35,9 @@ status: "new"
 > Wir sind Partner.
 > *We are partners.*
 
+**Phrases & Expressions:**
+- **Wir sind Partner** — *We are partners* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 5b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

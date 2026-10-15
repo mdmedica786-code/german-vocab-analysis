@@ -33,6 +33,11 @@ status: "new"
 > Die Meinungsfreiheit ist ein Grundrecht.
 > *Freedom of opinion is a fundamental right.*
 
+**Phrases & Expressions:**
+- **Grundrechte einschränken** — *fundamental right*
+- **ein Grundrecht verletzen** — *fundamental right*
+- **die Grundrechte schützen** — *fundamental right*
+
 **Collocations**
 - Grundrechte einschränken
 - ein Grundrecht verletzen

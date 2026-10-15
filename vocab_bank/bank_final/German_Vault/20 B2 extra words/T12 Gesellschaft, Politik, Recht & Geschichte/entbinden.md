@@ -32,6 +32,11 @@ status: "new"
 > Das Gericht hat ihn von seiner Pflicht entbunden.
 > *The court released him from his duty.*
 
+**Phrases & Expressions:**
+- **von einer Pflicht entbinden** — *to release (from); to give birth*
+- **ein Kind entbinden** — *to release (from); to give birth*
+- **von einem Versprechen entbinden** — *to release (from); to give birth*
+
 **Collocations**
 - von einer Pflicht entbinden
 - ein Kind entbinden

@@ -33,6 +33,11 @@ status: "new"
 > In Anbetracht der Lage verschieben wir das Treffen.
 > *In view of the situation we are postponing the meeting.*
 
+**Phrases & Expressions:**
+- **in Anbetracht der Lage** — *consideration (only in "in Anbetracht")*
+- **in Anbetracht dessen** — *consideration (only in "in Anbetracht")*
+- **in Anbetracht der Umstände** — *consideration (only in "in Anbetracht")*
+
 **Collocations**
 - in Anbetracht der Lage
 - in Anbetracht dessen

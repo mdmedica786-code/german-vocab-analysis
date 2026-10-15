@@ -34,6 +34,9 @@ status: "new"
 > Ich esse gern Pizza mit Salami.
 > *I like eating pizza with salami.*
 
+**Phrases & Expressions:**
+- **Ich esse gern Pizza mit Salami** — *I like eating pizza with salami* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 11 (Zeit mit Freunden)
 <!-- bank:end -->
 

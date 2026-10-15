@@ -33,6 +33,9 @@ status: "new"
 > Die Europäer haben im letzten Jahr mehr Fleisch konsumiert.
 > *Europeans consumed more meat last year.*
 
+**Phrases & Expressions:**
+- **Die Europäer haben im letzten Jahr mehr Fleisch konsumiert** — *Europeans consumed more meat last year* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 1b (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Im Verein trifft sie viele Gleichgesinnte.
 > *In the club she meets many like-minded people.*
 
+**Phrases & Expressions:**
+- **Gleichgesinnte treffen** — *like-minded person*
+- **Gleichgesinnte finden** — *like-minded person*
+- **unter Gleichgesinnten** — *like-minded person*
+
 **Collocations**
 - Gleichgesinnte treffen
 - Gleichgesinnte finden

@@ -33,6 +33,11 @@ status: "new"
 > Viele junge Leute nutzen Streaming statt klassischem Fernsehen.
 > *Many young people use streaming instead of conventional television.*
 
+**Phrases & Expressions:**
+- **Streaming nutzen** — *streaming*
+- **auf Streaming umsteigen** — *streaming*
+- **Streaming-Dienst** — *streaming*
+
 **Collocations**
 - Streaming nutzen
 - auf Streaming umsteigen

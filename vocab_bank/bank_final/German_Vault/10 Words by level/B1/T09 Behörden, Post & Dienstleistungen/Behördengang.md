@@ -34,6 +34,9 @@ status: "new"
 > Nach dem Umzug stehen viele Behördengänge an.
 > *After the move there are many visits to the authorities.*
 
+**Phrases & Expressions:**
+- **Nach dem Umzug stehen viele Behördengänge an** — *After the move there are many visits to the authorities* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

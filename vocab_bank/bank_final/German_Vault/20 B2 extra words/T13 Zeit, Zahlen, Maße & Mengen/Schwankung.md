@@ -33,6 +33,11 @@ status: "new"
 > Die Preise unterliegen jahreszeitlichen Schwankungen.
 > *Prices are subject to seasonal fluctuations.*
 
+**Phrases & Expressions:**
+- **starke Schwankungen** — *fluctuation*
+- **saisonale Schwankungen** — *fluctuation*
+- **Schwankungen unterliegen** — *fluctuation*
+
 **Collocations**
 - starke Schwankungen
 - saisonale Schwankungen

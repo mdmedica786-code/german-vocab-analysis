@@ -26,6 +26,10 @@ status: "new"
 > Die Frage brachte den Redner in Verlegenheit.
 > *The question embarrassed the speaker.*
 
+**Phrases & Expressions:**
+- **jemanden in Verlegenheit bringen** — *to embarrass*
+- **in Verlegenheit geraten** — *to embarrass*
+
 **Collocations**
 - jemanden in Verlegenheit bringen
 - in Verlegenheit geraten

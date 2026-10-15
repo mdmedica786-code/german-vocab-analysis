@@ -33,6 +33,10 @@ status: "new"
 > Bitte schicken Sie mir eine E-Mail.
 > *Please send me an email.*
 
+**Phrases & Expressions:**
+- **Könntest du mir bitte ... schicken?** — Could you please send me ...? *([[B1-12 Persönliche E-Mail und Brief|Bitte äußern]] · B1)*
+- **Könnten Sie mir bitte Informationen zu ... schicken?** — Could you please send me information on ...? *([[B1-13 Formelle E-Mail und Brief|Anfrage stellen]] · B1)*
+
 **Source:** Netzwerk neu A1 K6 6a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

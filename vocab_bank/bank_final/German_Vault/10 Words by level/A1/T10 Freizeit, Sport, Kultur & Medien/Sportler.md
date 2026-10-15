@@ -35,6 +35,9 @@ status: "new"
 > Er ist ein guter Sportler.
 > *He is a good sportsman.*
 
+**Phrases & Expressions:**
+- **Er ist ein guter Sportler** — *He is a good sportsman* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13a (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

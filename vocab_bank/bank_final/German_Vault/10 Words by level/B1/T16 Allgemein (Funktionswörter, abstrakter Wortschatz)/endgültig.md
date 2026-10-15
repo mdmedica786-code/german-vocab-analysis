@@ -31,6 +31,9 @@ status: "new"
 > Damit ist das Problem endgültig gelöst.
 > *With that the problem is finally solved.*
 
+**Phrases & Expressions:**
+- **Ich möchte noch nichts Endgültiges sagen.** — I do not want to say anything final yet. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Vorsichtig formulieren]] · B2)*
+
 **Source:** Netzwerk neu B1 K10 10b (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

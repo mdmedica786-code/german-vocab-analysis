@@ -35,6 +35,9 @@ status: "new"
 > Dieses Haus hat eine berühmte Architektin gebaut.
 > *A famous woman architect built this house.*
 
+**Phrases & Expressions:**
+- **Dieses Haus hat eine berühmte Architektin gebaut** — *A famous woman architect built this house* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a (Freunde, Kollegen und ich) · Goethe word list B1
 <!-- bank:end -->
 

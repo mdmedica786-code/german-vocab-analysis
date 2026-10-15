@@ -33,6 +33,14 @@ status: "new"
 > Sieh bitte genau hin.
 > *Please look closely.*
 
+**Phrases & Expressions:**
+- **hin und her** — back and forth *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **hin und wieder** — now and then *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **bis hin zu ...** — right up to ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · C1)*
+- **bis hin zur ...** — right up to the ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **bis hin zum ...** — right up to the ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **es sieht aus, als ob ...** — it looks as if ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+
 **Source:** Netzwerk neu B1 K2 6b (Das ist ja praktisch!)
 <!-- bank:end -->
 

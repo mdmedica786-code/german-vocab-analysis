@@ -33,6 +33,11 @@ status: "new"
 > Das Konsumverhalten junger Leute hat sich verändert.
 > *The consumer behaviour of young people has changed.*
 
+**Phrases & Expressions:**
+- **das Konsumverhalten ändern** — *consumer behaviour*
+- **nachhaltiges Konsumverhalten** — *consumer behaviour*
+- **Konsumverhalten der Verbraucher** — *consumer behaviour*
+
 **Collocations**
 - das Konsumverhalten ändern
 - nachhaltiges Konsumverhalten

@@ -29,6 +29,11 @@ status: "new"
 > Das wiederum führt zu neuen Problemen.
 > *That in turn leads to new problems.*
 
+**Phrases & Expressions:**
+- **das wiederum** — *again; in turn; on the other hand*
+- **sie wiederum** — *again; in turn; on the other hand*
+- **wiederum anders** — *again; in turn; on the other hand*
+
 **Collocations**
 - das wiederum
 - sie wiederum

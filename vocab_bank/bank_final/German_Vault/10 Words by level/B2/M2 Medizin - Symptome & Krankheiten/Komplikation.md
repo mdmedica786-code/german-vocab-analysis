@@ -33,6 +33,14 @@ status: "new"
 > Bei der Operation gab es keine Komplikationen.
 > *There were no complications during the operation.*
 
+**Phrases & Expressions:**
+- **Zu den möglichen Komplikationen gehören Blutungen und Infektionen.** — Possible complications include bleeding and infections. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Komplikationen nennen]] · B2)*
+- **Schwere Komplikationen sind sehr selten, aber nicht ausgeschlossen.** — Serious complications are very rare but not ruled out. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Risiken nennen]] · B2)*
+- **Komplikationen vermeiden** — *complication*
+- **keine Komplikationen** — *complication*
+- **mögliche Komplikationen** — *complication*
+- **eine schwere Komplikation** — *complication*
+
 **Collocations**
 - Komplikationen vermeiden
 - keine Komplikationen

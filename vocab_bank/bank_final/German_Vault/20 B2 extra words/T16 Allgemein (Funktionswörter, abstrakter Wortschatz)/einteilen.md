@@ -32,6 +32,11 @@ status: "new"
 > Sie teilt sich ihre Zeit gut ein.
 > *She manages her time well.*
 
+**Phrases & Expressions:**
+- **sich die Zeit einteilen** — *to divide; to schedule; to assign*
+- **in Gruppen einteilen** — *to divide; to schedule; to assign*
+- **jemanden für etwas einteilen** — *to divide; to schedule; to assign*
+
 **Collocations**
 - sich die Zeit einteilen
 - in Gruppen einteilen

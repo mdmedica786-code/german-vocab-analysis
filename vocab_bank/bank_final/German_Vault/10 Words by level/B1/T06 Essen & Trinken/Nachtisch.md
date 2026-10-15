@@ -34,6 +34,9 @@ status: "new"
 > Zum Nachtisch gibt es Eis.
 > *For dessert there is ice cream.*
 
+**Phrases & Expressions:**
+- **Zum Nachtisch gibt es Eis** — *For dessert there is ice cream* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 5b (Veränderungen)
 <!-- bank:end -->
 

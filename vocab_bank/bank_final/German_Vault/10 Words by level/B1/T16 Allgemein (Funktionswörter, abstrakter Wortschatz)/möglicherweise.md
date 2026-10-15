@@ -30,6 +30,9 @@ status: "new"
 > Möglicherweise komme ich etwas später.
 > *I may come a little later.*
 
+**Phrases & Expressions:**
+- **Möglicherweise liegt es daran, dass ...** — Possibly it is because ... *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Vermutung ausdrücken]] · B2)*
+
 **Source:** Netzwerk neu B1 K6 8d (Blick nach vorn)
 <!-- bank:end -->
 

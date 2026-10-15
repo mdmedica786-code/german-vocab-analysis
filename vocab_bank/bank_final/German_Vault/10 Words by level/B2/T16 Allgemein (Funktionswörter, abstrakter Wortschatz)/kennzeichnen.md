@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Alle Produkte müssen gekennzeichnet werden.
 > *All products must be labelled.*
+
+**Phrases & Expressions:**
+- **Alle Produkte müssen gekennzeichnet werden** — *All products must be labelled* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

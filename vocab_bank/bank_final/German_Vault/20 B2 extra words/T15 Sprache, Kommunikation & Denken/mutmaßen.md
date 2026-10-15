@@ -31,6 +31,11 @@ status: "new"
 > Die Presse mutmaßt, dass die Firma verkauft wird.
 > *The press speculates that the company will be sold.*
 
+**Phrases & Expressions:**
+- **über etwas mutmaßen** — *to speculate; to surmise*
+- **mutmaßen, dass** — *to speculate; to surmise*
+- **öffentlich mutmaßen** — *to speculate; to surmise*
+
 **Collocations**
 - über etwas mutmaßen
 - mutmaßen, dass

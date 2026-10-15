@@ -34,6 +34,9 @@ status: "new"
 > Ich nehme eine Schmerztablette gegen die Kopfschmerzen.
 > *I take a painkiller for the headache.*
 
+**Phrases & Expressions:**
+- **Ich nehme eine Schmerztablette gegen die Kopfschmerzen** — *I take a painkiller for the headache* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 10a (Das ist ja praktisch!)
 <!-- bank:end -->
 

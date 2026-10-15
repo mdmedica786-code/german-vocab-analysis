@@ -29,6 +29,12 @@ status: "new"
 > Es war anstrengend, dennoch hat es mir Spaß gemacht.
 > *It was exhausting; nevertheless I enjoyed it.*
 
+**Phrases & Expressions:**
+- **und dennoch** — *nevertheless; still*
+- **aber dennoch** — *nevertheless; still*
+- **dennoch möglich** — *nevertheless; still*
+- **dennoch nicht** — *nevertheless; still*
+
 **Collocations**
 - und dennoch
 - aber dennoch

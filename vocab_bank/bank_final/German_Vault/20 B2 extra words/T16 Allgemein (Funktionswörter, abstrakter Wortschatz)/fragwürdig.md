@@ -29,6 +29,11 @@ status: "new"
 > Die Methoden der Firma sind ziemlich fragwürdig.
 > *The company's methods are quite questionable.*
 
+**Phrases & Expressions:**
+- **eine fragwürdige Methode** — *questionable; dubious*
+- **ein fragwürdiger Vorschlag** — *questionable; dubious*
+- **moralisch fragwürdig** — *questionable; dubious*
+
 **Collocations**
 - eine fragwürdige Methode
 - ein fragwürdiger Vorschlag

@@ -33,6 +33,11 @@ status: "new"
 > Ich habe mich ausgesperrt und musste den Schlüsseldienst rufen.
 > *I locked myself out and had to call the locksmith.*
 
+**Phrases & Expressions:**
+- **den Schlüsseldienst rufen** — *locksmith service*
+- **Schlüsseldienst beauftragen** — *locksmith service*
+- **ein teurer Schlüsseldienst** — *locksmith service*
+
 **Collocations**
 - den Schlüsseldienst rufen
 - Schlüsseldienst beauftragen

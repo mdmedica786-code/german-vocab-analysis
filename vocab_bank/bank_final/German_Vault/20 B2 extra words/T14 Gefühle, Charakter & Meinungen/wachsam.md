@@ -29,6 +29,11 @@ status: "new"
 > Der Wachhund ist wachsam und bellt bei jedem Geräusch.
 > *The guard dog is vigilant and barks at every noise.*
 
+**Phrases & Expressions:**
+- **wachsam sein** — *vigilant; watchful*
+- **wachsam bleiben** — *vigilant; watchful*
+- **ein wachsames Auge** — *vigilant; watchful*
+
 **Collocations**
 - wachsam sein
 - wachsam bleiben

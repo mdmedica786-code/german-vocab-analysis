@@ -33,6 +33,11 @@ status: "new"
 > Nach der Vollendung des Baus wurde gefeiert.
 > *After the completion of the building there was a celebration.*
 
+**Phrases & Expressions:**
+- **kurz vor der Vollendung** — *completion; perfection*
+- **zur Vollendung bringen** — *completion; perfection*
+- **in höchster Vollendung** — *completion; perfection*
+
 **Collocations**
 - kurz vor der Vollendung
 - zur Vollendung bringen

@@ -33,6 +33,11 @@ status: "new"
 > In der Krise zeigte sich der Zusammenhalt der Familie.
 > *In the crisis the cohesion of the family became apparent.*
 
+**Phrases & Expressions:**
+- **der Zusammenhalt in der Familie** — *cohesion; solidarity*
+- **gesellschaftlicher Zusammenhalt** — *cohesion; solidarity*
+- **den Zusammenhalt stärken** — *cohesion; solidarity*
+
 **Collocations**
 - der Zusammenhalt in der Familie
 - gesellschaftlicher Zusammenhalt

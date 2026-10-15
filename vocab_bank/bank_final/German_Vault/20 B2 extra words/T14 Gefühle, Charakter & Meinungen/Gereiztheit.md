@@ -33,6 +33,11 @@ status: "new"
 > Ihre Gereiztheit war deutlich zu spüren.
 > *Her irritability was clearly noticeable.*
 
+**Phrases & Expressions:**
+- **spürbare Gereiztheit** — *irritability; tetchiness*
+- **Gereiztheit zeigen** — *irritability; tetchiness*
+- **in gereizter Stimmung** — *irritability; tetchiness*
+
 **Collocations**
 - spürbare Gereiztheit
 - Gereiztheit zeigen

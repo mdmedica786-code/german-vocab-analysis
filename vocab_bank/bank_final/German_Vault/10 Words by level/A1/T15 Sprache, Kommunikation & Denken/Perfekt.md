@@ -34,6 +34,9 @@ status: "new"
 > Das Perfekt bildet man mit haben oder sein.
 > *The perfect tense is formed with haben or sein.*
 
+**Phrases & Expressions:**
+- **Das Perfekt bildet man mit haben oder sein** — *The perfect tense is formed with haben or sein* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 3b (Studium und Beruf)
 <!-- bank:end -->
 

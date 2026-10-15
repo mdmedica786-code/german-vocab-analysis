@@ -32,6 +32,11 @@ status: "new"
 > Die Aussage des Politikers hat viele Bürger empört.
 > *The politician's statement outraged many citizens.*
 
+**Phrases & Expressions:**
+- **sich über etwas empören** — *to outrage; to be indignant*
+- **empört sein** — *to outrage; to be indignant*
+- **empörend finden** — *to outrage; to be indignant*
+
 **Collocations**
 - sich über etwas empören
 - empört sein

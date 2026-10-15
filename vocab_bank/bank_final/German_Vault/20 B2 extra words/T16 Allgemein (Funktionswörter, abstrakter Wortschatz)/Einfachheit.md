@@ -33,6 +33,11 @@ status: "new"
 > Aus Gründen der Einfachheit verzichten wir auf Details.
 > *For the sake of simplicity we leave out details.*
 
+**Phrases & Expressions:**
+- **der Einfachheit halber** — *simplicity; ease*
+- **die Einfachheit der Bedienung** — *simplicity; ease*
+- **in aller Einfachheit** — *simplicity; ease*
+
 **Collocations**
 - der Einfachheit halber
 - die Einfachheit der Bedienung

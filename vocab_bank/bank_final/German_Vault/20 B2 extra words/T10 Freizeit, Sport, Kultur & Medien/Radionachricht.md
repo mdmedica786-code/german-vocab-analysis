@@ -33,6 +33,11 @@ status: "new"
 > Die Radionachrichten melden einen Unfall auf der Autobahn.
 > *The radio news reports an accident on the motorway.*
 
+**Phrases & Expressions:**
+- **Radionachrichten hören** — *radio news item; radio news*
+- **die Radionachrichten am Morgen** — *radio news item; radio news*
+- **in den Radionachrichten** — *radio news item; radio news*
+
 **Collocations**
 - Radionachrichten hören
 - die Radionachrichten am Morgen

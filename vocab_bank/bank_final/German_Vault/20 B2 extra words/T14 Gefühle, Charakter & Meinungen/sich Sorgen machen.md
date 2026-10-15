@@ -26,6 +26,11 @@ status: "new"
 > Ich mache mir Sorgen um meine Großmutter.
 > *I am worried about my grandmother.*
 
+**Phrases & Expressions:**
+- **sich große Sorgen machen** — *to worry*
+- **sich Sorgen machen um + Akk.** — *to worry*
+- **keine Sorgen machen** — *to worry*
+
 **Collocations**
 - sich große Sorgen machen
 - sich Sorgen machen um + Akk.

@@ -34,6 +34,12 @@ status: "new"
 > Die Handlung im Film ist nicht logisch.
 > *The plot of the film is not logical.*
 
+**Phrases & Expressions:**
+- **die Handlung des Films** — *plot*
+- **eine strafbare Handlung** — *plot*
+- **Handlungen vornehmen** — *plot*
+- **der Verlauf der Handlung** — *plot*
+
 **Collocations**
 - die Handlung des Films
 - eine strafbare Handlung

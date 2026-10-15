@@ -34,6 +34,9 @@ status: "new"
 > Der Olympiasieger bekam eine Goldmedaille.
 > *The Olympic champion received a gold medal.*
 
+**Phrases & Expressions:**
+- **Der Olympiasieger bekam eine Goldmedaille** — *The Olympic champion received a gold medal* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

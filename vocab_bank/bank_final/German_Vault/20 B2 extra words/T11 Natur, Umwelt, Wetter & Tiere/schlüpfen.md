@@ -31,6 +31,11 @@ status: "new"
 > Die Küken schlüpfen im Frühling.
 > *The chicks hatch in spring.*
 
+**Phrases & Expressions:**
+- **aus dem Ei schlüpfen** — *to slip; to hatch*
+- **in die Jacke schlüpfen** — *to slip; to hatch*
+- **durch eine Lücke schlüpfen** — *to slip; to hatch*
+
 **Collocations**
 - aus dem Ei schlüpfen
 - in die Jacke schlüpfen

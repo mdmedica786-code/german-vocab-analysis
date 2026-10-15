@@ -35,6 +35,9 @@ status: "new"
 > Die Temperaturen steigen heute um 10 Grad.
 > *The temperatures will rise by 10 degrees today.*
 
+**Phrases & Expressions:**
+- **Die Temperaturen steigen heute um 10 Grad** — *The temperatures will rise by 10 degrees today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

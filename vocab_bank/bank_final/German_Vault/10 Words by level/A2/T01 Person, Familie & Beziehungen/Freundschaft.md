@@ -35,6 +35,9 @@ status: "new"
 > Deine Freundschaft ist mir sehr wichtig.
 > *Your friendship is very important to me.*
 
+**Phrases & Expressions:**
+- **Deine Freundschaft ist mir sehr wichtig** — *Your friendship is very important to me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12c (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

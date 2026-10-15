@@ -35,6 +35,11 @@ status: "new"
 > Es war eine schöne Feier.
 > *It was a lovely party.*
 
+**Phrases & Expressions:**
+- **Hast du Lust, am Samstag bei mir zu feiern?** — Would you like to celebrate at my place on Saturday? *([[B1-18 Einladen, zusagen und absagen|Einladen]] · B1)*
+- **Die Feier beginnt um 19 Uhr bei mir zu Hause.** — The party starts at 7 p.m. at my home. *([[B1-18 Einladen, zusagen und absagen|Zeit und Ort nennen]] · B1)*
+- **Wo genau findet die Feier statt?** — Where exactly is the party taking place? *([[B1-18 Einladen, zusagen und absagen|Rückfrage stellen]] · B1)*
+
 **Source:** Netzwerk neu A1 K9 5c (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

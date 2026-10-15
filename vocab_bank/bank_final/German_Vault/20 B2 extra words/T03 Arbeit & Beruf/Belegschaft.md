@@ -33,6 +33,11 @@ status: "new"
 > Die Belegschaft wurde über die Änderungen informiert.
 > *The workforce was informed about the changes.*
 
+**Phrases & Expressions:**
+- **die gesamte Belegschaft** — *workforce; staff*
+- **Belegschaft abbauen** — *workforce; staff*
+- **Belegschaft informieren** — *workforce; staff*
+
 **Collocations**
 - die gesamte Belegschaft
 - Belegschaft abbauen

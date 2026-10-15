@@ -34,6 +34,9 @@ status: "new"
 > Die Kursstunde dauert 90 Minuten.
 > *The class lasts 90 minutes.*
 
+**Phrases & Expressions:**
+- **Die Kursstunde dauert 90 Minuten** — *The class lasts 90 minutes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 10a (Rund um Körper und Geist)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Spannung im Film stieg von Minute zu Minute.
 > *The suspense in the film rose from minute to minute.*
 
+**Phrases & Expressions:**
+- **in Spannung versetzen** — *tension; suspense; voltage*
+- **elektrische Spannung** — *tension; suspense; voltage*
+- **Spannungen abbauen** — *tension; suspense; voltage*
+
 **Collocations**
 - in Spannung versetzen
 - elektrische Spannung

@@ -33,6 +33,11 @@ status: "new"
 > Die Nachrichtensendung beginnt jeden Abend um 20 Uhr.
 > *The news programme starts every evening at 8 pm.*
 
+**Phrases & Expressions:**
+- **eine Nachrichtensendung sehen** — *news programme*
+- **die abendliche Nachrichtensendung** — *news programme*
+- **Nachrichtensendung im Radio** — *news programme*
+
 **Collocations**
 - eine Nachrichtensendung sehen
 - die abendliche Nachrichtensendung

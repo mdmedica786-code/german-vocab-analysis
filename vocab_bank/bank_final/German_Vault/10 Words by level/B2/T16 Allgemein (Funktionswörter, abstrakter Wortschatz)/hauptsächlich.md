@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Ich arbeite hauptsächlich in der Notaufnahme.
 > *I work mainly in the emergency department.*
+
+**Phrases & Expressions:**
+- **Ich arbeite hauptsächlich in der Notaufnahme** — *I work mainly in the emergency department* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -34,6 +34,9 @@ status: "new"
 > Die Gasse in der Altstadt ist sehr eng.
 > *The alley in the old town is very narrow.*
 
+**Phrases & Expressions:**
+- **Die Gasse in der Altstadt ist sehr eng** — *The alley in the old town is very narrow* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Gemeinde baut ein neues Schwimmbad.
 > *The municipality is building a new swimming pool.*
 
+**Phrases & Expressions:**
+- **Die Gemeinde baut ein neues Schwimmbad** — *The municipality is building a new swimming pool* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

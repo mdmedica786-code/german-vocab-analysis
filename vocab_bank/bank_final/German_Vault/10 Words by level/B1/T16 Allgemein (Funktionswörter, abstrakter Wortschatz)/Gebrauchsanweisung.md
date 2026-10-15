@@ -35,6 +35,9 @@ status: "new"
 > Lesen Sie bitte zuerst die Gebrauchsanweisung.
 > *Please read the instructions for use first.*
 
+**Phrases & Expressions:**
+- **Lesen Sie bitte zuerst die Gebrauchsanweisung** — *Please read the instructions for use first* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 5a ÜB (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

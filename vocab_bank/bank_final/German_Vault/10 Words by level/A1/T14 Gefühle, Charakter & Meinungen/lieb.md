@@ -32,6 +32,14 @@ status: "new"
 > Meine Nachbarin ist wirklich lieb.
 > *My neighbour is really kind.*
 
+**Phrases & Expressions:**
+- **ich liebe dich** — I love you *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · A2)*
+- **Ich würde lieber ... machen.** — I would rather do ... *([[B1-02 Zustimmen und Widersprechen|Gegenvorschlag einleiten]] · B1)*
+- **Ich würde lieber zu Hause bleiben, wenn das okay ist.** — I would rather stay at home if that's okay. *([[B1-05 Vorschläge machen und darauf reagieren|Gegenvorschlag machen]] · B1)*
+- **Liebe Anna, wie geht es dir?** — Dear Anna, how are you? *([[B1-12 Persönliche E-Mail und Brief|Anrede]] · B1)*
+- **Viele liebe Grüße, deine Anna** — Many kind regards, your Anna *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+- **Bis bald und liebe Grüße** — See you soon and kind regards *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+
 **Collocations**
 - Liebe Grüße
 - lieb sein

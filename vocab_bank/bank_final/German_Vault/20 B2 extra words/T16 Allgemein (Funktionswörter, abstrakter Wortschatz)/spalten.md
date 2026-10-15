@@ -31,6 +31,11 @@ status: "new"
 > Der Streit spaltet die ganze Partei.
 > *The dispute is splitting the whole party.*
 
+**Phrases & Expressions:**
+- **Holz spalten** — *to split; to divide*
+- **die Partei spalten** — *to split; to divide*
+- **eine gespaltene Gesellschaft** — *to split; to divide*
+
 **Collocations**
 - Holz spalten
 - die Partei spalten

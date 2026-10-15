@@ -31,6 +31,11 @@ status: "new"
 > Er schleuderte den Stein weit ins Wasser.
 > *He hurled the stone far into the water.*
 
+**Phrases & Expressions:**
+- **etwas schleudern** — *to hurl; to fling; to spin (dry)*
+- **die Wäsche schleudern** — *to hurl; to fling; to spin (dry)*
+- **ins Schleudern geraten** — *to hurl; to fling; to spin (dry)*
+
 **Collocations**
 - etwas schleudern
 - die Wäsche schleudern

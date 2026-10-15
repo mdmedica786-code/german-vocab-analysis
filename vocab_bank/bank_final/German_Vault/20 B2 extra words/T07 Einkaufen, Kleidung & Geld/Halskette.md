@@ -33,6 +33,11 @@ status: "new"
 > Sie trägt eine Halskette aus Perlen.
 > *She wears a necklace made of pearls.*
 
+**Phrases & Expressions:**
+- **eine Halskette tragen** — *necklace*
+- **eine goldene Halskette** — *necklace*
+- **Halskette mit Anhänger** — *necklace*
+
 **Collocations**
 - eine Halskette tragen
 - eine goldene Halskette

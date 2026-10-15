@@ -29,6 +29,11 @@ status: "new"
 > Der Beruf ist sehr abwechslungsreich.
 > *The job is very varied.*
 
+**Phrases & Expressions:**
+- **abwechslungsreich gestalten** — *varied; full of variety*
+- **eine abwechslungsreiche Ernährung** — *varied; full of variety*
+- **ein abwechslungsreiches Programm** — *varied; full of variety*
+
 **Collocations**
 - abwechslungsreich gestalten
 - eine abwechslungsreiche Ernährung

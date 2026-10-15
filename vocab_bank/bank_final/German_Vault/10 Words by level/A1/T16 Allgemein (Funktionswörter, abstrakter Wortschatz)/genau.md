@@ -31,6 +31,14 @@ status: "new"
 > Ja, genau.
 > *Yes, exactly.*
 
+**Phrases & Expressions:**
+- **genau so** — just like that; exactly so *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · A2)*
+- **nicht genau** — not exactly *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **Genau, das sehe ich genauso.** — Exactly, I see it just the same way. *([[B1-02 Zustimmen und Widersprechen|Voll zustimmen]] · B1)*
+- **Wo genau findet die Feier statt?** — Where exactly is the party taking place? *([[B1-18 Einladen, zusagen und absagen|Rückfrage stellen]] · B1)*
+- **Genau kann ich das nicht sagen, aber ...** — I can't say exactly, but ... *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Sich nicht festlegen]] · B2)*
+- **Wo genau tut es weh?** — Where exactly does it hurt? *([[FSP-03 Schmerzanamnese|Lokalisation erfragen]] · A2)*
+
 **Collocations**
 - genau so
 - genau genommen

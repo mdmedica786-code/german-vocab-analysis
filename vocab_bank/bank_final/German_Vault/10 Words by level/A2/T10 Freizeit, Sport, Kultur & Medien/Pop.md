@@ -34,6 +34,9 @@ status: "new"
 > Meine Schwester hört gern Pop.
 > *My sister likes listening to pop.*
 
+**Phrases & Expressions:**
+- **Meine Schwester hört gern Pop** — *My sister likes listening to pop* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 6b (Gute Unterhaltung!)
 <!-- bank:end -->
 

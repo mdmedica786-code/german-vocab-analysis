@@ -26,6 +26,11 @@ status: "new"
 > Viele ältere Menschen werden Opfer von Betrügern.
 > *Many older people fall victim to fraudsters.*
 
+**Phrases & Expressions:**
+- **Opfer eines Betrugs werden** — *to fall victim*
+- **zum Opfer fallen** — *to fall victim*
+- **Opfer von etwas werden** — *to fall victim*
+
 **Collocations**
 - Opfer eines Betrugs werden
 - zum Opfer fallen

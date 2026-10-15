@@ -34,6 +34,11 @@ status: "new"
 > Meine Coachin hilft mir bei der Karriereplanung.
 > *My coach helps me with career planning.*
 
+**Phrases & Expressions:**
+- **eine Coachin engagieren** — *coach (female)*
+- **meine Coachin** — *coach (female)*
+- **von der Coachin lernen** — *coach (female)*
+
 **Collocations**
 - eine Coachin engagieren
 - meine Coachin

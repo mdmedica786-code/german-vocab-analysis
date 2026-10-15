@@ -34,6 +34,9 @@ status: "new"
 > Fragen Sie nach der Telefonnummer.
 > *Ask about the telephone number.*
 
+**Phrases & Expressions:**
+- **Fragen Sie nach der Telefonnummer** — *Ask about the telephone number* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 6c (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

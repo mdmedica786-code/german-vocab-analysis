@@ -34,6 +34,9 @@ status: "new"
 > Vorsicht, auf der Straße ist Glatteis!
 > *Careful, there is black ice on the road!*
 
+**Phrases & Expressions:**
+- **Vorsicht, auf der Straße ist Glatteis** — *Careful, there is black ice on the road* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 11a (Ganz schön mobil)
 <!-- bank:end -->
 

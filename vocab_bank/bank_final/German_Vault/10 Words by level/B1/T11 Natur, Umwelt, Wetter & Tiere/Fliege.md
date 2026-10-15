@@ -35,6 +35,9 @@ status: "new"
 > Eine Fliege sitzt auf dem Tisch.
 > *A fly is sitting on the table.*
 
+**Phrases & Expressions:**
+- **Eine Fliege sitzt auf dem Tisch** — *A fly is sitting on the table* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12 ÜB (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

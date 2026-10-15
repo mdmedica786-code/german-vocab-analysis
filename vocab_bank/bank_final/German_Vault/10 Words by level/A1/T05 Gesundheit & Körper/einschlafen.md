@@ -33,6 +33,9 @@ status: "new"
 > Ich kann abends nicht einschlafen.
 > *I can't fall asleep in the evening.*
 
+**Phrases & Expressions:**
+- **Haben Sie Schwierigkeiten beim Einschlafen oder Durchschlafen?** — Do you have difficulty falling asleep or staying asleep? *([[FSP-06 Systemanamnese (Organsysteme)|Psyche und Schlaf]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 12b (Fit und gesund)
 <!-- bank:end -->
 

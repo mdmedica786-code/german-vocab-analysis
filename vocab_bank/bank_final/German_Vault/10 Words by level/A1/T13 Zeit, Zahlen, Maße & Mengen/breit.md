@@ -32,6 +32,9 @@ status: "new"
 > Wie breit ist der Schrank?
 > *How wide is the wardrobe?*
 
+**Phrases & Expressions:**
+- **Wie breit ist der Schrank** — *How wide is the wardrobe* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

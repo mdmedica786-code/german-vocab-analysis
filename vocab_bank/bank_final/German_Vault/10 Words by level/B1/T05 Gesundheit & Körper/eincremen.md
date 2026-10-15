@@ -33,6 +33,9 @@ status: "new"
 > Ich creme mir die Hände ein.
 > *I put cream on my hands.*
 
+**Phrases & Expressions:**
+- **Ich creme mir die Hände ein** — *I put cream on my hands* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der Hörsaal war bis auf den letzten Platz besetzt.
 > *The lecture hall was full to the last seat.*
 
+**Phrases & Expressions:**
+- **im Hörsaal sitzen** — *lecture hall*
+- **ein voller Hörsaal** — *lecture hall*
+- **Hörsaal 3** — *lecture hall*
+
 **Collocations**
 - im Hörsaal sitzen
 - ein voller Hörsaal

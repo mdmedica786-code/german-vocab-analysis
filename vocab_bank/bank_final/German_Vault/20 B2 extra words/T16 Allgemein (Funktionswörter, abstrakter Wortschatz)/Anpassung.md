@@ -33,6 +33,11 @@ status: "new"
 > Die Anpassung der Löhne erfolgt jährlich.
 > *The adjustment of wages takes place annually.*
 
+**Phrases & Expressions:**
+- **eine Anpassung vornehmen** — *adjustment; adaptation*
+- **Anpassung an + Akk.** — *adjustment; adaptation*
+- **notwendige Anpassungen** — *adjustment; adaptation*
+
 **Collocations**
 - eine Anpassung vornehmen
 - Anpassung an + Akk.

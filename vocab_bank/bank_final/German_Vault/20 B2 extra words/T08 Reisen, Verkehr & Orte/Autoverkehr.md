@@ -33,6 +33,11 @@ status: "new"
 > Der Autoverkehr in der Innenstadt soll reduziert werden.
 > *Car traffic in the city centre is to be reduced.*
 
+**Phrases & Expressions:**
+- **dichter Autoverkehr** — *car traffic; motor traffic*
+- **der Autoverkehr nimmt zu** — *car traffic; motor traffic*
+- **den Autoverkehr reduzieren** — *car traffic; motor traffic*
+
 **Collocations**
 - dichter Autoverkehr
 - der Autoverkehr nimmt zu

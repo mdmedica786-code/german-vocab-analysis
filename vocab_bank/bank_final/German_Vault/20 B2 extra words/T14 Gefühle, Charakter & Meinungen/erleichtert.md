@@ -29,6 +29,11 @@ status: "new"
 > Sie war erleichtert, als der Test negativ war.
 > *She was relieved when the test was negative.*
 
+**Phrases & Expressions:**
+- **erleichtert sein** — *relieved*
+- **erleichtert aufatmen** — *relieved*
+- **erleichtert wirken** — *relieved*
+
 **Collocations**
 - erleichtert sein
 - erleichtert aufatmen

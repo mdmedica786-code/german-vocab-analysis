@@ -32,6 +32,11 @@ status: "new"
 > Mit den neuen Fenstern spart die Familie viel Energie ein.
 > *With the new windows the family saves a lot of energy.*
 
+**Phrases & Expressions:**
+- **Kosten einsparen** — *to save; to cut back*
+- **Energie einsparen** — *to save; to cut back*
+- **Personal einsparen** — *to save; to cut back*
+
 **Collocations**
 - Kosten einsparen
 - Energie einsparen

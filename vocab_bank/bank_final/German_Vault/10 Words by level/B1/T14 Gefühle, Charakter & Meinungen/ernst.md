@@ -30,6 +30,14 @@ status: "new"
 > Der starke Verkehr ist ein ernstes Problem.
 > *The heavy traffic is a serious problem.*
 
+**Phrases & Expressions:**
+- **Ich möchte Ihnen ehrlich sagen, dass die Situation ernst ist.** — I would like to tell you honestly that the situation is serious. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Ernst der Lage erklären]] · B2)*
+- **Ich möchte ehrlich zu Ihnen sein: Die Situation ist ernst.** — I want to be honest with you: the situation is serious. *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Ehrlich bleiben]] · B2)*
+- **ein ernstes Problem** — *serious*
+- **ernst nehmen** — *serious*
+- **ernst meinen** — *serious*
+- **ernste Folgen** — *serious*
+
 **Collocations**
 - ein ernstes Problem
 - ernst nehmen

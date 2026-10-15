@@ -32,6 +32,12 @@ status: "new"
 > Die Zeitschrift erscheint einmal im Monat.
 > *The magazine is published once a month.*
 
+**Phrases & Expressions:**
+- **pünktlich erscheinen** — *to appear; to be published; to seem*
+- **eine Zeitschrift erscheint** — *to appear; to be published; to seem*
+- **vor Gericht erscheinen** — *to appear; to be published; to seem*
+- **es erscheint mir wichtig** — *to appear; to be published; to seem*
+
 **Collocations**
 - pünktlich erscheinen
 - eine Zeitschrift erscheint

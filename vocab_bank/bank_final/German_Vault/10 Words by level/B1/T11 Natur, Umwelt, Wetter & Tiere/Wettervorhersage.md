@@ -35,6 +35,9 @@ status: "new"
 > Die Wettervorhersage für morgen: trocken und sonnig.
 > *The weather forecast for tomorrow: dry and sunny.*
 
+**Phrases & Expressions:**
+- **Die Wettervorhersage für morgen: trocken und sonnig** — *The weather forecast for tomorrow: dry and sunny* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 11b (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Auch ein Laie kann das Programm bedienen.
 > *Even a layperson can operate the program.*
 
+**Phrases & Expressions:**
+- **ein medizinischer Laie** — *layperson; amateur*
+- **für Laien erklärt** — *layperson; amateur*
+- **Laien und Experten** — *layperson; amateur*
+
 **Collocations**
 - ein medizinischer Laie
 - für Laien erklärt

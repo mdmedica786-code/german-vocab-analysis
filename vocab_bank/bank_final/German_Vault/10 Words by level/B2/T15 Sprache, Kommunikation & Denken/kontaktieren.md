@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Bitte kontaktieren Sie uns per E-Mail.
 > *Please contact us by email.*
+
+**Phrases & Expressions:**
+- **Bitte kontaktieren Sie uns per E-Mail** — *Please contact us by email* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

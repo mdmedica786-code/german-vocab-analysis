@@ -33,6 +33,14 @@ status: "new"
 > Was bedeutet das?
 > *What does that mean?*
 
+**Phrases & Expressions:**
+- **das bedeutet, dass ...** — that means that ... *([[Folgen (consequence)|Folgen (consequence)]] · B1)*
+- **bedeutet, dass ...** — means that ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **dies bedeutet, dass ...** — this means that ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **bedeutet dies, dass ...?** — does this mean that ...? *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **das bedeutet nicht, dass ...** — that doesn't mean that ... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B2)*
+- **Ich kenne das Wort nicht. Was bedeutet ...?** — I don't know the word. What does ... mean? *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Wort erfragen]] · B1)*
+
 **Source:** Netzwerk neu A1 K7 2a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

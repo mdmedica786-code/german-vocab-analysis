@@ -34,6 +34,9 @@ status: "new"
 > Der Chemiker arbeitet im Labor.
 > *The chemist works in the laboratory.*
 
+**Phrases & Expressions:**
+- **Der Chemiker arbeitet im Labor** — *The chemist works in the laboratory* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1b (Arbeitswelt)
 <!-- bank:end -->
 

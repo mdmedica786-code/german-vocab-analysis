@@ -31,6 +31,10 @@ status: "new"
 > Die Schillerstraße ist hier rechts.
 > *Schillerstraße is on the right here.*
 
+**Phrases & Expressions:**
+- **nach rechts** — to the right *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A1)*
+- **Im Röntgenbild des Thorax zeigt sich ein Infiltrat rechts basal.** — The chest X-ray shows an infiltrate at the right base. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Befund berichten]] · C1)*
+
 **Source:** Netzwerk neu A1 K3 2b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

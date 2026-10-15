@@ -29,6 +29,11 @@ status: "new"
 > Die Innenstadt ist sonntags autofrei.
 > *The city centre is car-free on Sundays.*
 
+**Phrases & Expressions:**
+- **eine autofreie Zone** — *car-free*
+- **autofrei sein** — *car-free*
+- **ein autofreier Sonntag** — *car-free*
+
 **Collocations**
 - eine autofreie Zone
 - autofrei sein

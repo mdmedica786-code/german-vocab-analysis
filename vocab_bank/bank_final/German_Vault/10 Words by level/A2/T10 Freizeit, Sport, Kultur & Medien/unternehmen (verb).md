@@ -34,6 +34,9 @@ status: "new"
 > Wollen wir heute Abend etwas unternehmen?
 > *Shall we do something this evening?*
 
+**Phrases & Expressions:**
+- **Haben Sie schon etwas dagegen unternommen?** — Have you already done anything about it? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Bisherige Behandlung]] · B1)*
+
 **Source:** Netzwerk neu A2 K8 3c (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

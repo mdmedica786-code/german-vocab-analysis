@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Er ist ein Liebhaber alter Autos.
 > *He is an enthusiast of old cars.*
+
+**Phrases & Expressions:**
+- **Er ist ein Liebhaber alter Autos** — *He is an enthusiast of old cars* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

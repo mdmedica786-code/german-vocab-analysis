@@ -31,6 +31,9 @@ status: "new"
 > Heute ist Überraschungstag in unserer Klasse.
 > *Today is surprise day in our class.*
 
+**Phrases & Expressions:**
+- **Heute ist Überraschungstag in unserer Klasse** — *Today is surprise day in our class* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 6a (Zeit mit Freunden)
 <!-- bank:end -->
 

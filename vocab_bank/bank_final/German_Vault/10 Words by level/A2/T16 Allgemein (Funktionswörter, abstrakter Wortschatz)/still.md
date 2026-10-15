@@ -31,6 +31,12 @@ status: "new"
 > Sei doch mal einen Moment still!
 > *Be quiet for a moment!*
 
+**Phrases & Expressions:**
+- **still sein** — *silent*
+- **still stehen** — *silent*
+- **still halten** — *silent*
+- **still und leise** — *silent*
+
 **Collocations**
 - still sein
 - still stehen

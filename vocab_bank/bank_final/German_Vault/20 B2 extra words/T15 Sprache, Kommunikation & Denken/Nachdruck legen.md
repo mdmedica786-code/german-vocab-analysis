@@ -26,6 +26,10 @@ status: "new"
 > Der Redner legte Nachdruck auf die Bildung.
 > *The speaker put emphasis on education.*
 
+**Phrases & Expressions:**
+- **Nachdruck legen auf + Akk.** — *to emphasise*
+- **mit Nachdruck fordern** — *to emphasise*
+
 **Collocations**
 - Nachdruck legen auf + Akk.
 - mit Nachdruck fordern

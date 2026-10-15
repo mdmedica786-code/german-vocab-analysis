@@ -31,6 +31,9 @@ status: "new"
 > Nach der Feier schreibe ich eine Dankeskarte.
 > *After the party I'll write a thank-you card.*
 
+**Phrases & Expressions:**
+- **Nach der Feier schreibe ich eine Dankeskarte** — *After the party I'll write a thank-you card* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 3e (Große und kleine Gefühle)
 <!-- bank:end -->
 

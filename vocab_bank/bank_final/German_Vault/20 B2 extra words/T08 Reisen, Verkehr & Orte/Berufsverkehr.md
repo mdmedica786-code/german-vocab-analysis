@@ -33,6 +33,11 @@ status: "new"
 > Im Berufsverkehr braucht man für die Strecke eine Stunde.
 > *In rush-hour traffic the route takes an hour.*
 
+**Phrases & Expressions:**
+- **im Berufsverkehr stecken** — *rush-hour traffic*
+- **der morgendliche Berufsverkehr** — *rush-hour traffic*
+- **den Berufsverkehr meiden** — *rush-hour traffic*
+
 **Collocations**
 - im Berufsverkehr stecken
 - der morgendliche Berufsverkehr

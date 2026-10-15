@@ -34,6 +34,9 @@ status: "new"
 > Sie hat eine leitende Stellung in der Firma.
 > *She has a leading position in the company.*
 
+**Phrases & Expressions:**
+- **Sie hat eine leitende Stellung in der Firma** — *She has a leading position in the company* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 4a (Kunststücke)
 <!-- bank:end -->
 

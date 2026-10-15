@@ -42,6 +42,9 @@ status: "new"
 > Dieser Fleischhauer macht sehr gute Wurst.
 > *This butcher makes very good sausage.*
 
+**Phrases & Expressions:**
+- **Dieser Fleischhauer macht sehr gute Wurst** — *This butcher makes very good sausage* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

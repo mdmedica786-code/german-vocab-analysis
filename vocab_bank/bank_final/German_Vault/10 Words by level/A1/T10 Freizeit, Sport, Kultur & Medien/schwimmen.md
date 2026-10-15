@@ -33,6 +33,9 @@ status: "new"
 > Ich schwimme jeden Tag einen Kilometer.
 > *I swim a kilometre every day.*
 
+**Phrases & Expressions:**
+- **Ich schwimme jeden Tag einen Kilometer** — *I swim a kilometre every day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 2a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

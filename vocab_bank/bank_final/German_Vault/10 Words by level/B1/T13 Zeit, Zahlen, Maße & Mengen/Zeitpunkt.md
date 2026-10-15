@@ -35,6 +35,11 @@ status: "new"
 > Er ist krank. Das ist kein guter Zeitpunkt für einen Besuch.
 > *He is ill. This is not a good time for a visit.*
 
+**Phrases & Expressions:**
+- **zu diesem Zeitpunkt** — at this point in time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · C1)*
+- **zu einem späteren Zeitpunkt** — at a later point *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · C1)*
+- **zum Zeitpunkt + Gen.** — at the time of ... *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · C1)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

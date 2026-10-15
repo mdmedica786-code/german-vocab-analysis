@@ -31,6 +31,9 @@ status: "new"
 > Das Küchenteam bereitet das Essen vor.
 > *The kitchen team prepares the food.*
 
+**Phrases & Expressions:**
+- **Das Küchenteam bereitet das Essen vor** — *The kitchen team prepares the food* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Ein Rabe sitzt auf dem Dach.
 > *A raven is sitting on the roof.*
 
+**Phrases & Expressions:**
+- **Ein Rabe sitzt auf dem Dach** — *A raven is sitting on the roof* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12c (Zwischenmenschliches)
 <!-- bank:end -->
 

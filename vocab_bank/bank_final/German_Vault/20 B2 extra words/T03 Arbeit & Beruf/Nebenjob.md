@@ -33,6 +33,11 @@ status: "new"
 > Neben dem Studium habe ich einen Nebenjob im Café.
 > *Alongside my studies I have a side job in a café.*
 
+**Phrases & Expressions:**
+- **einen Nebenjob suchen** — *side job; part-time job*
+- **einen Nebenjob haben** — *side job; part-time job*
+- **Nebenjob neben dem Studium** — *side job; part-time job*
+
 **Collocations**
 - einen Nebenjob suchen
 - einen Nebenjob haben

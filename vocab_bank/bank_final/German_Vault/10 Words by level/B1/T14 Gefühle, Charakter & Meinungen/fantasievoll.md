@@ -30,6 +30,9 @@ status: "new"
 > Das Kind malt sehr fantasievolle Bilder.
 > *The child paints very imaginative pictures.*
 
+**Phrases & Expressions:**
+- **Das Kind malt sehr fantasievolle Bilder** — *The child paints very imaginative pictures* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 12a (Rund um Körper und Geist)
 <!-- bank:end -->
 

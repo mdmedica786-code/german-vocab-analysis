@@ -35,6 +35,9 @@ status: "new"
 > Hier fehlt noch Ihre Unterschrift.
 > *Your signature is still missing here.*
 
+**Phrases & Expressions:**
+- **Hier fehlt noch Ihre Unterschrift** — *Your signature is still missing here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 8a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

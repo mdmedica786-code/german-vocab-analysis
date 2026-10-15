@@ -29,6 +29,11 @@ status: "new"
 > Er stellte sich beim Kochen sehr ungeschickt an.
 > *He went about cooking very clumsily.*
 
+**Phrases & Expressions:**
+- **ungeschickt sein** — *clumsy; awkward*
+- **sich ungeschickt anstellen** — *clumsy; awkward*
+- **eine ungeschickte Bewegung** — *clumsy; awkward*
+
 **Collocations**
 - ungeschickt sein
 - sich ungeschickt anstellen

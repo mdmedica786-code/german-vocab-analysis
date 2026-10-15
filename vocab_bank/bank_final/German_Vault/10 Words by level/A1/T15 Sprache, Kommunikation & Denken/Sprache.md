@@ -35,6 +35,9 @@ status: "new"
 > Welche Sprachen sprichst du?
 > *Which languages do you speak?*
 
+**Phrases & Expressions:**
+- **Sprechen Sie lieber Deutsch oder eine andere Sprache?** — Would you rather speak German or another language? *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Sprachniveau erfragen]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 1b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

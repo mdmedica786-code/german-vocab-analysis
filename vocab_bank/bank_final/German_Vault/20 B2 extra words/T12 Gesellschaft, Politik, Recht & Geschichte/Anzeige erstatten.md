@@ -26,6 +26,10 @@ status: "new"
 > Sie erstattete bei der Polizei Anzeige gegen den Unbekannten.
 > *She filed a complaint with the police against the unknown person.*
 
+**Phrases & Expressions:**
+- **Anzeige erstatten gegen + Akk.** — *to report (a crime); to file a complaint*
+- **bei der Polizei Anzeige erstatten** — *to report (a crime); to file a complaint*
+
 **Collocations**
 - Anzeige erstatten gegen + Akk.
 - bei der Polizei Anzeige erstatten

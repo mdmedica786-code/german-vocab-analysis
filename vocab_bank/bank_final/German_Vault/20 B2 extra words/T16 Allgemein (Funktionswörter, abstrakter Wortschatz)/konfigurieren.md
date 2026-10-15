@@ -31,6 +31,11 @@ status: "new"
 > Der Techniker konfiguriert den neuen Computer.
 > *The technician configures the new computer.*
 
+**Phrases & Expressions:**
+- **ein System konfigurieren** — *to configure; to set up*
+- **einen Router konfigurieren** — *to configure; to set up*
+- **richtig konfigurieren** — *to configure; to set up*
+
 **Collocations**
 - ein System konfigurieren
 - einen Router konfigurieren

@@ -31,6 +31,9 @@ status: "new"
 > Wie geht es Ihnen?
 > *How are you?*
 
+**Phrases & Expressions:**
+- **Wie geht es Ihnen** — *How are you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 3a (Guten Tag!)
 <!-- bank:end -->
 

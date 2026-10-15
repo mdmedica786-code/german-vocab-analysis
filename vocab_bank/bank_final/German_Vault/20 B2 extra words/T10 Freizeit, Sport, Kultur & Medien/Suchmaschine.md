@@ -33,6 +33,11 @@ status: "new"
 > Er gibt den Begriff in die Suchmaschine ein.
 > *He types the term into the search engine.*
 
+**Phrases & Expressions:**
+- **in der Suchmaschine suchen** — *search engine*
+- **eine Suchmaschine nutzen** — *search engine*
+- **Suchmaschine für + Akk.** — *search engine*
+
 **Collocations**
 - in der Suchmaschine suchen
 - eine Suchmaschine nutzen

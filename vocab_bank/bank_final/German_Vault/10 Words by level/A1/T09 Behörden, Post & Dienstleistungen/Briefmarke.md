@@ -35,6 +35,9 @@ status: "new"
 > Kaufst du bitte Briefmarken bei der Post.
 > *Please buy stamps at the post office.*
 
+**Phrases & Expressions:**
+- **Kaufst du bitte Briefmarken bei der Post** — *Please buy stamps at the post office* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 10d (Kunststücke) · Goethe word list A1
 <!-- bank:end -->
 

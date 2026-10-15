@@ -33,6 +33,11 @@ status: "new"
 > Die Begrünung der Straßen verbessert die Luft.
 > *The greening of the streets improves the air.*
 
+**Phrases & Expressions:**
+- **Begrünung fördern** — *greening; planting vegetation*
+- **Begrünung von Dächern** — *greening; planting vegetation*
+- **städtische Begrünung** — *greening; planting vegetation*
+
 **Collocations**
 - Begrünung fördern
 - Begrünung von Dächern

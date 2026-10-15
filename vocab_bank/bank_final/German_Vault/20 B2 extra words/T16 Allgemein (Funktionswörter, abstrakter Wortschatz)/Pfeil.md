@@ -33,6 +33,11 @@ status: "new"
 > Folgen Sie dem Pfeil zum Ausgang.
 > *Follow the arrow to the exit.*
 
+**Phrases & Expressions:**
+- **Pfeil und Bogen** — *arrow*
+- **dem Pfeil folgen** — *arrow*
+- **der Pfeil zeigt nach rechts** — *arrow*
+
 **Collocations**
 - Pfeil und Bogen
 - dem Pfeil folgen

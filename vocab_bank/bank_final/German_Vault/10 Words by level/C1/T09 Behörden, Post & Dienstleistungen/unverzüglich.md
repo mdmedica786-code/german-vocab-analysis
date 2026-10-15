@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Bitte antworten Sie unverzüglich.
 > *Please reply without delay.*
+
+**Phrases & Expressions:**
+- **Bitte antworten Sie unverzüglich** — *Please reply without delay* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

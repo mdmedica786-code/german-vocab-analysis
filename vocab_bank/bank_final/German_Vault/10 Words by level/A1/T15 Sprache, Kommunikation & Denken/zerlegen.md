@@ -32,6 +32,9 @@ status: "new"
 > Wir zerlegen das Wort in seine Teile.
 > *We break the word down into its parts.*
 
+**Phrases & Expressions:**
+- **Wir zerlegen das Wort in seine Teile** — *We break the word down into its parts* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13b (Fit und gesund)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Steine im Wald sind mit Moos bedeckt.
 > *The stones in the forest are covered with moss.*
 
+**Phrases & Expressions:**
+- **mit Moos bewachsen** — *moss*
+- **weiches Moos** — *moss*
+- **Moos auf dem Dach** — *moss*
+
 **Collocations**
 - mit Moos bewachsen
 - weiches Moos

@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Ich wische den Boden jede Woche.
 > *I mop the floor every week.*
+
+**Phrases & Expressions:**
+- **Ich wische den Boden jede Woche** — *I mop the floor every week* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -30,6 +30,9 @@ status: "new"
 > Er macht ein zweimonatiges Praktikum.
 > *He is doing a two-month internship.*
 
+**Phrases & Expressions:**
+- **Er macht ein zweimonatiges Praktikum** — *He is doing a two-month internship* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

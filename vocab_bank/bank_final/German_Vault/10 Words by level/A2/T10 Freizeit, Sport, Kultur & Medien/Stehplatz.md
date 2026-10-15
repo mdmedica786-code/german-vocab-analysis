@@ -34,6 +34,9 @@ status: "new"
 > Für das Konzert gibt es nur noch Stehplätze.
 > *For the concert there are only standing places left.*
 
+**Phrases & Expressions:**
+- **Für das Konzert gibt es nur noch Stehplätze** — *For the concert there are only standing places left* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

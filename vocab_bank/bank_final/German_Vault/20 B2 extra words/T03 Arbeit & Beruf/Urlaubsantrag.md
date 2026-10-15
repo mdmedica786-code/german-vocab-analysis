@@ -33,6 +33,11 @@ status: "new"
 > Mein Urlaubsantrag wurde vom Chef genehmigt.
 > *My leave request was approved by the boss.*
 
+**Phrases & Expressions:**
+- **einen Urlaubsantrag stellen** — *leave request; holiday application*
+- **den Urlaubsantrag genehmigen** — *leave request; holiday application*
+- **den Urlaubsantrag ablehnen** — *leave request; holiday application*
+
 **Collocations**
 - einen Urlaubsantrag stellen
 - den Urlaubsantrag genehmigen

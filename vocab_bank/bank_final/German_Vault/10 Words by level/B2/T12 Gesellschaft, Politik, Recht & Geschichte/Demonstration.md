@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Demonstration beginnt um 14 Uhr.
 > *The demonstration begins at 2 pm.*
+
+**Phrases & Expressions:**
+- **Die Demonstration beginnt um 14 Uhr** — *The demonstration begins at 2 pm* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

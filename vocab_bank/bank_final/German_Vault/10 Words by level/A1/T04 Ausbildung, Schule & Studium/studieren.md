@@ -33,6 +33,9 @@ status: "new"
 > Ich studiere in Mainz.
 > *I study in Mainz.*
 
+**Phrases & Expressions:**
+- **Kurz zu meiner Person: Ich habe ... studiert.** — A few words about myself: I studied ... *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Sich vorstellen]] · B2)*
+
 **Source:** Netzwerk neu A1 K2 9b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

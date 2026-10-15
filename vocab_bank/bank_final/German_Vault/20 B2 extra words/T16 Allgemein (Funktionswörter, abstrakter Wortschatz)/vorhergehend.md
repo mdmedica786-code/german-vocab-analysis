@@ -29,6 +29,11 @@ status: "new"
 > Siehe die vorhergehende Seite.
 > *See the previous page.*
 
+**Phrases & Expressions:**
+- **die vorhergehende Seite** — *previous; preceding*
+- **im vorhergehenden Kapitel** — *previous; preceding*
+- **am vorhergehenden Tag** — *previous; preceding*
+
 **Collocations**
 - die vorhergehende Seite
 - im vorhergehenden Kapitel

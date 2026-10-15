@@ -29,6 +29,10 @@ status: "new"
 > Der Verbrauch ist beträchtlich gesunken.
 > *Consumption has fallen substantially.*
 
+**Phrases & Expressions:**
+- **beträchtlich steigen** — *considerably; substantially*
+- **ein beträchtlicher Unterschied** — *considerably; substantially*
+
 **Collocations**
 - beträchtlich steigen
 - ein beträchtlicher Unterschied

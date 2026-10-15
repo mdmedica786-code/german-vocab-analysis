@@ -34,6 +34,9 @@ status: "new"
 > Der Gebärdendolmetscher übersetzt die Rede für Gehörlose.
 > *The sign language interpreter translates the speech for deaf people.*
 
+**Phrases & Expressions:**
+- **Der Gebärdendolmetscher übersetzt die Rede für Gehörlose** — *The sign language interpreter translates the speech for deaf people* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Das Gemälde hängt im Museum der Stadt.
 > *The painting hangs in the city museum.*
 
+**Phrases & Expressions:**
+- **ein Gemälde malen** — *painting*
+- **ein berühmtes Gemälde** — *painting*
+- **ein Gemälde restaurieren** — *painting*
+
 **Collocations**
 - ein Gemälde malen
 - ein berühmtes Gemälde

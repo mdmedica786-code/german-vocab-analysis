@@ -33,6 +33,11 @@ status: "new"
 > Die Pressefreiheit ist ein wichtiges Gut in der Demokratie.
 > *Freedom of the press is an important good in a democracy.*
 
+**Phrases & Expressions:**
+- **Pressefreiheit garantieren** — *freedom of the press*
+- **die Pressefreiheit einschränken** — *freedom of the press*
+- **Einschränkung der Pressefreiheit** — *freedom of the press*
+
 **Collocations**
 - Pressefreiheit garantieren
 - die Pressefreiheit einschränken

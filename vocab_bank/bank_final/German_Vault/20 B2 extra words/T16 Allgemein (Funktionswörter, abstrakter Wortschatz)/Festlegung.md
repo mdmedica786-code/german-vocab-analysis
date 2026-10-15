@@ -33,6 +33,11 @@ status: "new"
 > Die Festlegung der Termine ist abgeschlossen.
 > *The fixing of the dates is complete.*
 
+**Phrases & Expressions:**
+- **die Festlegung von Zielen** — *determination; fixing; stipulation*
+- **eine verbindliche Festlegung** — *determination; fixing; stipulation*
+- **zur Festlegung** — *determination; fixing; stipulation*
+
 **Collocations**
 - die Festlegung von Zielen
 - eine verbindliche Festlegung

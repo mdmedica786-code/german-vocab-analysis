@@ -29,6 +29,12 @@ status: "new"
 > Das ist sehr unwahrscheinlich.
 > *That is very unlikely.*
 
+**Phrases & Expressions:**
+- **Ich halte es für unwahrscheinlich, dass ...** — I consider it unlikely that ... *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Wahrscheinlichkeit einschätzen]] · B2)*
+- **höchst unwahrscheinlich** — *improbable; unlikely*
+- **eher unwahrscheinlich** — *improbable; unlikely*
+- **unwahrscheinlich klingen** — *improbable; unlikely*
+
 **Collocations**
 - höchst unwahrscheinlich
 - eher unwahrscheinlich

@@ -42,6 +42,9 @@ status: "new"
 > War die Pöstlerin schon da?
 > *Has the postwoman already been?*
 
+**Phrases & Expressions:**
+- **War die Pöstlerin schon da** — *Has the postwoman already been* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

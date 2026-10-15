@@ -29,6 +29,11 @@ status: "new"
 > Auf dem Dachboden ist alles staubig.
 > *In the attic everything is dusty.*
 
+**Phrases & Expressions:**
+- **staubige Regale** — *dusty*
+- **staubig sein** — *dusty*
+- **eine staubige Straße** — *dusty*
+
 **Collocations**
 - staubige Regale
 - staubig sein

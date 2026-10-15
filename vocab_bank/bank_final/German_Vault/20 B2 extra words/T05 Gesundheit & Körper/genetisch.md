@@ -29,6 +29,11 @@ status: "new"
 > Die Krankheit ist genetisch bedingt.
 > *The disease is genetically determined.*
 
+**Phrases & Expressions:**
+- **genetisch bedingt** — *genetic*
+- **ein genetischer Test** — *genetic*
+- **genetische Veranlagung** — *genetic*
+
 **Collocations**
 - genetisch bedingt
 - ein genetischer Test

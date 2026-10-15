@@ -33,6 +33,11 @@ status: "new"
 > Sein Instinkt sagte ihm, dass etwas nicht stimmte.
 > *His instinct told him that something was wrong.*
 
+**Phrases & Expressions:**
+- **dem Instinkt folgen** — *instinct*
+- **ein guter Instinkt** — *instinct*
+- **aus Instinkt handeln** — *instinct*
+
 **Collocations**
 - dem Instinkt folgen
 - ein guter Instinkt

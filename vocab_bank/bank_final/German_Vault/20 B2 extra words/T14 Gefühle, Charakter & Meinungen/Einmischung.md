@@ -33,6 +33,11 @@ status: "new"
 > Ich verbitte mir jede Einmischung in meine Angelegenheiten.
 > *I will not tolerate any interference in my affairs.*
 
+**Phrases & Expressions:**
+- **Einmischung in innere Angelegenheiten** — *interference; meddling*
+- **jede Einmischung** — *interference; meddling*
+- **Einmischung von außen** — *interference; meddling*
+
 **Collocations**
 - Einmischung in innere Angelegenheiten
 - jede Einmischung

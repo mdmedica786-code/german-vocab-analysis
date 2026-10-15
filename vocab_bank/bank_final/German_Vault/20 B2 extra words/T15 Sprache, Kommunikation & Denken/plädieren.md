@@ -32,6 +32,10 @@ status: "new"
 > Viele Experten plädieren für ein Tempolimit.
 > *Many experts advocate a speed limit.*
 
+**Phrases & Expressions:**
+- **plädieren für + Akk.** — *to plead; to advocate*
+- **auf schuldig plädieren** — *to plead; to advocate*
+
 **Collocations**
 - plädieren für + Akk.
 - auf schuldig plädieren

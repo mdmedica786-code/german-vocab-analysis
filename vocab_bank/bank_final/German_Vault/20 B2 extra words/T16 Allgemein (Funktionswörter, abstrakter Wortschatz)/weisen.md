@@ -31,6 +31,14 @@ status: "new"
 > Er wies uns den Weg zum Bahnhof.
 > *He showed us the way to the station.*
 
+**Phrases & Expressions:**
+- **auf diese Weise** — in this way *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B1)*
+- **in gewisser Weise** — in a way; to a certain extent *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **in gleicher Weise** — in the same way *([[Vergleichen (comparison)|Vergleichen (comparison)]] · C1)*
+- **wir weisen darauf hin, dass ...** — we would like to point out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **den Weg weisen** — *to point; to show (the way)*
+- **von der Hand weisen** — *to point; to show (the way)*
+
 **Collocations**
 - den Weg weisen
 - von der Hand weisen

@@ -32,6 +32,11 @@ status: "new"
 > Meine Tante hat mich nach meinem neuen Freund ausgefragt.
 > *My aunt grilled me about my new boyfriend.*
 
+**Phrases & Expressions:**
+- **jemanden ausfragen** — *to question; to grill*
+- **alle ausfragen** — *to question; to grill*
+- **jemanden über etwas ausfragen** — *to question; to grill*
+
 **Collocations**
 - jemanden ausfragen
 - alle ausfragen

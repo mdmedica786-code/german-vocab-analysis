@@ -31,6 +31,11 @@ status: "new"
 > Bitte berichtigen Sie die Fehler im Text.
 > *Please correct the mistakes in the text.*
 
+**Phrases & Expressions:**
+- **einen Fehler berichtigen** — *to correct; to rectify*
+- **eine Aussage berichtigen** — *to correct; to rectify*
+- **Angaben berichtigen** — *to correct; to rectify*
+
 **Collocations**
 - einen Fehler berichtigen
 - eine Aussage berichtigen

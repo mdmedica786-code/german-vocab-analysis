@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Mir tun alle Glieder weh.
 > *All my limbs ache.*
+
+**Phrases & Expressions:**
+- **Mir tun alle Glieder weh** — *All my limbs ache* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

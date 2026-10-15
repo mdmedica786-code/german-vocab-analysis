@@ -33,6 +33,11 @@ status: "new"
 > Die Warnung vor dem Sturm kam zu spät.
 > *The warning about the storm came too late.*
 
+**Phrases & Expressions:**
+- **eine Warnung aussprechen** — *warning*
+- **eine Warnung beachten** — *warning*
+- **zur Warnung** — *warning*
+
 **Collocations**
 - eine Warnung aussprechen
 - eine Warnung beachten

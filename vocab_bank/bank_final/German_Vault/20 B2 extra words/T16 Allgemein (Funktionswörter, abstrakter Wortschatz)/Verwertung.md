@@ -33,6 +33,11 @@ status: "new"
 > Die Verwertung der Abfälle ist teuer.
 > *The recycling of waste is expensive.*
 
+**Phrases & Expressions:**
+- **die Verwertung von Abfällen** — *utilisation; recycling*
+- **die stoffliche Verwertung** — *utilisation; recycling*
+- **zur Verwertung** — *utilisation; recycling*
+
 **Collocations**
 - die Verwertung von Abfällen
 - die stoffliche Verwertung

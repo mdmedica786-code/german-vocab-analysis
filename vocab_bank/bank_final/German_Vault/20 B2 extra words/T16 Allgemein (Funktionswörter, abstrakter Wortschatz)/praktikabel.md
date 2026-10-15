@@ -29,6 +29,11 @@ status: "new"
 > Das ist keine praktikable Lösung.
 > *That is not a practicable solution.*
 
+**Phrases & Expressions:**
+- **eine praktikable Lösung** — *practicable; workable*
+- **praktikabel sein** — *practicable; workable*
+- **ein praktikabler Vorschlag** — *practicable; workable*
+
 **Collocations**
 - eine praktikable Lösung
 - praktikabel sein

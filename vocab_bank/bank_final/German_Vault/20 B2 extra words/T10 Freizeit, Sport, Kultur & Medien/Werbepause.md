@@ -33,6 +33,11 @@ status: "new"
 > In der Werbepause hole ich mir schnell etwas zu trinken.
 > *During the commercial break I quickly get myself something to drink.*
 
+**Phrases & Expressions:**
+- **in der Werbepause** — *commercial break*
+- **eine Werbepause einlegen** — *commercial break*
+- **nach der Werbepause** — *commercial break*
+
 **Collocations**
 - in der Werbepause
 - eine Werbepause einlegen

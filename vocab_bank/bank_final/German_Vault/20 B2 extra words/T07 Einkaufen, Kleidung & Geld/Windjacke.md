@@ -33,6 +33,11 @@ status: "new"
 > Nimm eine Windjacke mit, am Abend wird es kühl.
 > *Take a light jacket with you; it gets cool in the evening.*
 
+**Phrases & Expressions:**
+- **eine Windjacke tragen** — *windcheater; light jacket*
+- **eine leichte Windjacke** — *windcheater; light jacket*
+- **Windjacke und Regenhose** — *windcheater; light jacket*
+
 **Collocations**
 - eine Windjacke tragen
 - eine leichte Windjacke

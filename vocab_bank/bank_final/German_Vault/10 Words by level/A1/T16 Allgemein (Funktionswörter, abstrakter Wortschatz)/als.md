@@ -33,6 +33,9 @@ status: "new"
 > Max Schmidt arbeitet seit zwei Jahren als Koch.
 > *Max Schmidt has been working as a cook for two years.*
 
+**Phrases & Expressions:**
+- **Max Schmidt arbeitet seit zwei Jahren als Koch** — *Max Schmidt has been working as a cook for two years* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

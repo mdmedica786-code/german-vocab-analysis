@@ -33,6 +33,11 @@ status: "new"
 > Für ihre Entdeckung erhielt sie einen Wissenschaftspreis.
 > *She received a science prize for her discovery.*
 
+**Phrases & Expressions:**
+- **einen Wissenschaftspreis erhalten** — *science prize*
+- **einen Wissenschaftspreis vergeben** — *science prize*
+- **der Wissenschaftspreis des Landes** — *science prize*
+
 **Collocations**
 - einen Wissenschaftspreis erhalten
 - einen Wissenschaftspreis vergeben

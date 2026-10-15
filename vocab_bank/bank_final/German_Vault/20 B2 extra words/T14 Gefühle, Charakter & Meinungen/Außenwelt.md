@@ -33,6 +33,11 @@ status: "new"
 > Er hatte kaum Kontakt zur Außenwelt.
 > *He had hardly any contact with the outside world.*
 
+**Phrases & Expressions:**
+- **von der Außenwelt abgeschnitten** — *outside world*
+- **Kontakt zur Außenwelt** — *outside world*
+- **die Außenwelt wahrnehmen** — *outside world*
+
 **Collocations**
 - von der Außenwelt abgeschnitten
 - Kontakt zur Außenwelt

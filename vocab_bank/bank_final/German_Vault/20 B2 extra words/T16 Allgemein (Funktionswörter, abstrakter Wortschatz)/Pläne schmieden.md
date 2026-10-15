@@ -26,6 +26,11 @@ status: "new"
 > Sie schmieden schon Pläne für den Urlaub.
 > *They are already making plans for the holiday.*
 
+**Phrases & Expressions:**
+- **Pläne machen** — *to make plans*
+- **Pläne verwerfen** — *to make plans*
+- **große Pläne schmieden** — *to make plans*
+
 **Collocations**
 - Pläne machen
 - Pläne verwerfen

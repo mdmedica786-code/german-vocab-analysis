@@ -34,6 +34,9 @@ status: "new"
 > Manche Leute fordern ein bedingungsloses Grundeinkommen.
 > *Some people demand an unconditional basic income.*
 
+**Phrases & Expressions:**
+- **Manche Leute fordern ein bedingungsloses Grundeinkommen** — *Some people demand an unconditional basic income* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
 <!-- bank:end -->
 

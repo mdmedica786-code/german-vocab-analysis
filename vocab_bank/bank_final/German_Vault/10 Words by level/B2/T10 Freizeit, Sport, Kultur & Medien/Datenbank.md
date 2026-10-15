@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Daten sind in einer Datenbank gespeichert.
 > *The data are stored in a database.*
+
+**Phrases & Expressions:**
+- **Die Daten sind in einer Datenbank gespeichert** — *The data are stored in a database* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

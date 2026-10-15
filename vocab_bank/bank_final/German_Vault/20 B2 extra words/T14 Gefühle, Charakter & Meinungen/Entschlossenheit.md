@@ -33,6 +33,11 @@ status: "new"
 > Mit großer Entschlossenheit verfolgte sie ihr Ziel.
 > *She pursued her goal with great determination.*
 
+**Phrases & Expressions:**
+- **mit Entschlossenheit** — *determination*
+- **Entschlossenheit zeigen** — *determination*
+- **politische Entschlossenheit** — *determination*
+
 **Collocations**
 - mit Entschlossenheit
 - Entschlossenheit zeigen

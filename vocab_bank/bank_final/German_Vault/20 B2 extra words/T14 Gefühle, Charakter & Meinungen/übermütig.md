@@ -29,6 +29,11 @@ status: "new"
 > Die Kinder waren am letzten Schultag übermütig.
 > *The children were high-spirited on the last day of school.*
 
+**Phrases & Expressions:**
+- **übermütig werden** — *high-spirited; cocky*
+- **übermütig sein** — *high-spirited; cocky*
+- **übermütig lachen** — *high-spirited; cocky*
+
 **Collocations**
 - übermütig werden
 - übermütig sein

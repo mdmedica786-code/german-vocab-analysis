@@ -33,6 +33,11 @@ status: "new"
 > Die Einwanderin lernt seit einem Jahr Deutsch.
 > *The immigrant has been learning German for a year.*
 
+**Phrases & Expressions:**
+- **eine Einwanderin aus Syrien** — *immigrant (female)*
+- **als Einwanderin kommen** — *immigrant (female)*
+- **eine junge Einwanderin** — *immigrant (female)*
+
 **Collocations**
 - eine Einwanderin aus Syrien
 - als Einwanderin kommen

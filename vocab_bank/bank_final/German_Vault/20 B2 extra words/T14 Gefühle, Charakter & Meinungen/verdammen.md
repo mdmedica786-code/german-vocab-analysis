@@ -31,6 +31,11 @@ status: "new"
 > Die Presse verdammte das Verhalten des Ministers.
 > *The press condemned the minister's behaviour.*
 
+**Phrases & Expressions:**
+- **jemanden verdammen** — *to condemn; to damn*
+- **zum Scheitern verdammt** — *to condemn; to damn*
+- **öffentlich verdammen** — *to condemn; to damn*
+
 **Collocations**
 - jemanden verdammen
 - zum Scheitern verdammt

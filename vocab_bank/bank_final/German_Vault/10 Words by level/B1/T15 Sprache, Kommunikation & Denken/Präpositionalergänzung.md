@@ -31,6 +31,9 @@ status: "new"
 > Das Verb warten braucht eine Präpositionalergänzung mit auf.
 > *The verb warten needs a prepositional complement with auf.*
 
+**Phrases & Expressions:**
+- **Das Verb warten braucht eine Präpositionalergänzung mit auf** — *The verb warten needs a prepositional complement with auf* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 4a (Kunststücke)
 <!-- bank:end -->
 

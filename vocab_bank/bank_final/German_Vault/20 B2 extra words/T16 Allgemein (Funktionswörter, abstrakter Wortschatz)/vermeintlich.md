@@ -29,6 +29,11 @@ status: "new"
 > Der vermeintliche Täter war unschuldig.
 > *The supposed perpetrator was innocent.*
 
+**Phrases & Expressions:**
+- **der vermeintliche Täter** — *supposed; alleged*
+- **vermeintlich sicher** — *supposed; alleged*
+- **vermeintliche Vorteile** — *supposed; alleged*
+
 **Collocations**
 - der vermeintliche Täter
 - vermeintlich sicher

@@ -35,6 +35,9 @@ status: "new"
 > Wir übernachten in einer Jugendherberge.
 > *We stay overnight in a youth hostel.*
 
+**Phrases & Expressions:**
+- **Wir übernachten in einer Jugendherberge** — *We stay overnight in a youth hostel* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7a (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

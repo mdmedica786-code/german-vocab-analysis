@@ -35,6 +35,9 @@ status: "new"
 > Der Statist steht im Hintergrund der Szene.
 > *The extra stands in the background of the scene.*
 
+**Phrases & Expressions:**
+- **Der Statist steht im Hintergrund der Szene** — *The extra stands in the background of the scene* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 13d (Studium und Beruf)
 <!-- bank:end -->
 

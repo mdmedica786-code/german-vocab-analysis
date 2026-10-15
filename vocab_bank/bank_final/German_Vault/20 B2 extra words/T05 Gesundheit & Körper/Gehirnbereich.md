@@ -30,6 +30,11 @@ status: "new"
 > Dieser Gehirnbereich steuert die Sprache.
 > *This area of the brain controls language.*
 
+**Phrases & Expressions:**
+- **ein bestimmter Gehirnbereich** — *brain area; region of the brain*
+- **der Gehirnbereich für Sprache** — *brain area; region of the brain*
+- **Gehirnbereiche aktivieren** — *brain area; region of the brain*
+
 **Collocations**
 - ein bestimmter Gehirnbereich
 - der Gehirnbereich für Sprache

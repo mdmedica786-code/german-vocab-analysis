@@ -33,6 +33,11 @@ status: "new"
 > Er hat über die Gegensprechanlage geklingelt.
 > *He rang via the intercom.*
 
+**Phrases & Expressions:**
+- **über die Gegensprechanlage** — *intercom*
+- **die Gegensprechanlage benutzen** — *intercom*
+- **an der Gegensprechanlage klingeln** — *intercom*
+
 **Collocations**
 - über die Gegensprechanlage
 - die Gegensprechanlage benutzen

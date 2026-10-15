@@ -29,6 +29,11 @@ status: "new"
 > Wir gingen gemächlich am Fluss entlang.
 > *We walked leisurely along the river.*
 
+**Phrases & Expressions:**
+- **gemächlich spazieren** — *leisurely; unhurried*
+- **in gemächlichem Tempo** — *leisurely; unhurried*
+- **gemächlich fahren** — *leisurely; unhurried*
+
 **Collocations**
 - gemächlich spazieren
 - in gemächlichem Tempo

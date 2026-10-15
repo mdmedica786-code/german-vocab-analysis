@@ -32,6 +32,9 @@ status: "new"
 > Alle standen auf dem Bahnsteig und winkten zum Abschied.
 > *Everyone stood on the platform and waved goodbye.*
 
+**Phrases & Expressions:**
+- **Alle standen auf dem Bahnsteig und winkten zum Abschied** — *Everyone stood on the platform and waved goodbye* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

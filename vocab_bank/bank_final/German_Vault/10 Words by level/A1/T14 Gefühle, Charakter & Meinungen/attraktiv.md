@@ -30,6 +30,9 @@ status: "new"
 > Das Angebot ist sehr attraktiv.
 > *The offer is very attractive.*
 
+**Phrases & Expressions:**
+- **Das Angebot ist sehr attraktiv** — *The offer is very attractive* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

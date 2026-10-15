@@ -34,6 +34,9 @@ status: "new"
 > Die Erzieherin liest den Kindern eine Geschichte vor.
 > *The nursery teacher reads the children a story.*
 
+**Phrases & Expressions:**
+- **Die Erzieherin liest den Kindern eine Geschichte vor** — *The nursery teacher reads the children a story* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a ÜB (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

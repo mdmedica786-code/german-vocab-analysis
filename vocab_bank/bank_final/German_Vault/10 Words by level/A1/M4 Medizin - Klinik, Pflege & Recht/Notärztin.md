@@ -34,6 +34,12 @@ status: "new"
 > Die Notärztin ist in fünf Minuten da.
 > *The emergency doctor will be there in five minutes.*
 
+**Phrases & Expressions:**
+- **die Notärztin rufen** — *emergency doctor (f)*
+- **die Notärztin kommt** — *emergency doctor (f)*
+- **die Notärztin alarmieren** — *emergency doctor (f)*
+- **Notärztin im Einsatz** — *emergency doctor (f)*
+
 **Collocations**
 - die Notärztin rufen
 - die Notärztin kommt

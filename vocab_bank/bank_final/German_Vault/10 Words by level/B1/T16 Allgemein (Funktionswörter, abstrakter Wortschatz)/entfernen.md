@@ -32,6 +32,14 @@ status: "new"
 > Der Müll muss dringend entfernt werden.
 > *The rubbish must be removed urgently.*
 
+**Phrases & Expressions:**
+- **weit von ... entfernt** — far from ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **Mir wurde vor fünf Jahren der Blinddarm entfernt.** — I had my appendix removed five years ago. *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Patient: Operation nennen]] · B2)*
+- **Ziel der Operation ist es, ... zu entfernen.** — The aim of the operation is to remove ... *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Ziel des Eingriffs]] · B2)*
+- **Flecken entfernen** — *to remove*
+- **einen Fehler entfernen** — *to remove*
+- **aus dem Raum entfernen** — *to remove*
+
 **Collocations**
 - Flecken entfernen
 - einen Fehler entfernen

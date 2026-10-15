@@ -29,6 +29,10 @@ status: "new"
 > Für den günstigen Preis nehme ich die lange Fahrt in Kauf.
 > *For the low price I accept the long journey.*
 
+**Phrases & Expressions:**
+- **Nachteile in Kauf nehmen** — *to accept; to put up with*
+- **einen Verlust in Kauf nehmen** — *to accept; to put up with*
+
 **Collocations**
 - Nachteile in Kauf nehmen
 - einen Verlust in Kauf nehmen

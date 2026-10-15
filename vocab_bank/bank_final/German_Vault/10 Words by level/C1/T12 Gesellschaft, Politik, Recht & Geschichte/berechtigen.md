@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Die Karte berechtigt zum freien Eintritt.
 > *The card entitles you to free admission.*
+
+**Phrases & Expressions:**
+- **Das ist eine berechtigte Frage, ich erkläre es gern genauer.** — That is a legitimate question; I'm happy to explain in more detail. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Fragen beantworten]] · B2)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,11 @@ status: "new"
 > Als Quereinsteiger wechselte er vom Handel in die IT.
 > *As a career changer he moved from retail into IT.*
 
+**Phrases & Expressions:**
+- **als Quereinsteiger arbeiten** — *career changer; lateral entrant*
+- **Quereinsteiger suchen** — *career changer; lateral entrant*
+- **Quereinsteiger einstellen** — *career changer; lateral entrant*
+
 **Collocations**
 - als Quereinsteiger arbeiten
 - Quereinsteiger suchen

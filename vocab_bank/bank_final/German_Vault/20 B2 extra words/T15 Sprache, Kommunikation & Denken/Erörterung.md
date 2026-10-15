@@ -33,6 +33,11 @@ status: "new"
 > Die Erörterung des Themas dauerte zwei Stunden.
 > *The discussion of the topic took two hours.*
 
+**Phrases & Expressions:**
+- **eine Erörterung schreiben** — *discussion; examination (also essay type)*
+- **die Erörterung einer Frage** — *discussion; examination (also essay type)*
+- **eine schriftliche Erörterung** — *discussion; examination (also essay type)*
+
 **Collocations**
 - eine Erörterung schreiben
 - die Erörterung einer Frage

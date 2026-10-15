@@ -31,6 +31,9 @@ status: "new"
 > Nein, umgekehrt: erst der Vorname, dann der Nachname.
 > *No, the other way round: first name, then surname.*
 
+**Phrases & Expressions:**
+- **Nein, umgekehrt: erst der Vorname, dann der Nachname** — *No, the other way round: first name, then surname* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

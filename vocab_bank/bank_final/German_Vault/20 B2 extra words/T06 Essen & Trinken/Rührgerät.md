@@ -33,6 +33,11 @@ status: "new"
 > Für den Teig brauche ich ein Rührgerät.
 > *For the dough I need a hand mixer.*
 
+**Phrases & Expressions:**
+- **ein Rührgerät benutzen** — *hand mixer; electric whisk*
+- **das Rührgerät einschalten** — *hand mixer; electric whisk*
+- **ein elektrisches Rührgerät** — *hand mixer; electric whisk*
+
 **Collocations**
 - ein Rührgerät benutzen
 - das Rührgerät einschalten

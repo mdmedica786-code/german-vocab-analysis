@@ -31,6 +31,9 @@ status: "new"
 > Die Nummer ist immer besetzt.
 > *The number is always engaged.*
 
+**Phrases & Expressions:**
+- **Die Nummer ist immer besetzt** — *The number is always engaged* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 12 (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

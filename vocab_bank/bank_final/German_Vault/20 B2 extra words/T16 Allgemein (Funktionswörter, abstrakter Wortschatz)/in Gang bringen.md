@@ -29,6 +29,10 @@ status: "new"
 > Die Reform soll den Aufschwung in Gang bringen.
 > *The reform is meant to get the upswing going.*
 
+**Phrases & Expressions:**
+- **in Gang setzen** — *to get going*
+- **in Gang kommen** — *to get going*
+
 **Collocations**
 - in Gang setzen
 - in Gang kommen

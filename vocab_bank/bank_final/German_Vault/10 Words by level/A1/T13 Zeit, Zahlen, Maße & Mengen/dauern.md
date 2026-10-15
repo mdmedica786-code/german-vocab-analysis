@@ -33,6 +33,14 @@ status: "new"
 > Wie lange dauert der Film?
 > *How long does the film last?*
 
+**Phrases & Expressions:**
+- **Wie lange dauert der Versand nach ...?** — How long does delivery to ... take? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Post und Paket]] · B1)*
+- **Das Gespräch dauert etwa zehn Minuten.** — The conversation will take about ten minutes. *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Ablauf erklären]] · A2)*
+- **Wie lange dauert ein Anfall ungefähr?** — About how long does an attack last? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Dauer erfragen]] · B1)*
+- **Die Untersuchung dauert ungefähr zwanzig Minuten.** — The examination takes about twenty minutes. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Ablauf erklären]] · A2)*
+- **Die Therapie wird mehrere Wochen dauern.** — The therapy will take several weeks. *([[FSP-11 Therapie und Medikamente erklären|Dauer der Behandlung]] · B2)*
+- **Der Eingriff dauert etwa eine Stunde.** — The procedure takes about an hour. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Ablauf erklären]] · B1)*
+
 **Source:** Netzwerk neu A1 K7 5b (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

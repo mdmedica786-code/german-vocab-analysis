@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Nutzer der App sind sehr zufrieden.
 > *The users of the app are very satisfied.*
+
+**Phrases & Expressions:**
+- **Die Nutzer der App sind sehr zufrieden** — *The users of the app are very satisfied* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

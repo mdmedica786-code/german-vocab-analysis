@@ -34,6 +34,9 @@ status: "new"
 > Zum Sport ziehe ich einen Trainingsanzug an.
 > *I wear a tracksuit for sport.*
 
+**Phrases & Expressions:**
+- **Zum Sport ziehe ich einen Trainingsanzug an** — *I wear a tracksuit for sport* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

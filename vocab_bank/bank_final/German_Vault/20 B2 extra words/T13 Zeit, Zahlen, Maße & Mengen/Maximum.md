@@ -33,6 +33,11 @@ status: "new"
 > Wir haben das Maximum aus den Daten herausgeholt.
 > *We got the maximum out of the data.*
 
+**Phrases & Expressions:**
+- **ein Maximum an** — *maximum; highest level*
+- **das absolute Maximum** — *maximum; highest level*
+- **das Maximum erreichen** — *maximum; highest level*
+
 **Collocations**
 - ein Maximum an
 - das absolute Maximum

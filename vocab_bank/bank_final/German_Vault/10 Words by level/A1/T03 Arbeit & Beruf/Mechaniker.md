@@ -35,6 +35,9 @@ status: "new"
 > Das kann nur ein Mechaniker reparieren.
 > *Only a mechanic can repair that.*
 
+**Phrases & Expressions:**
+- **Das kann nur ein Mechaniker reparieren** — *Only a mechanic can repair that* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a ÜB (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

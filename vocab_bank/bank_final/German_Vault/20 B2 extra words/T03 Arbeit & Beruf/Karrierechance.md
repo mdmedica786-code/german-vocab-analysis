@@ -33,6 +33,11 @@ status: "new"
 > In dieser Branche gibt es gute Karrierechancen.
 > *In this sector there are good career opportunities.*
 
+**Phrases & Expressions:**
+- **gute Karrierechancen** — *career opportunity*
+- **eine Karrierechance nutzen** — *career opportunity*
+- **die Karrierechancen verbessern** — *career opportunity*
+
 **Collocations**
 - gute Karrierechancen
 - eine Karrierechance nutzen

@@ -29,6 +29,11 @@ status: "new"
 > Er ist besessen von dem Gedanken, reich zu werden.
 > *He is obsessed with the idea of becoming rich.*
 
+**Phrases & Expressions:**
+- **von etwas besessen sein** — *obsessed; possessed*
+- **besessen arbeiten** — *obsessed; possessed*
+- **wie besessen** — *obsessed; possessed*
+
 **Collocations**
 - von etwas besessen sein
 - besessen arbeiten

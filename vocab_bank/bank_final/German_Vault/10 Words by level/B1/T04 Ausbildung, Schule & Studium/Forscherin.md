@@ -34,6 +34,9 @@ status: "new"
 > Die Forscherin hat einen Preis gewonnen.
 > *The researcher won a prize.*
 
+**Phrases & Expressions:**
+- **Die Forscherin hat einen Preis gewonnen** — *The researcher won a prize* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist)
 <!-- bank:end -->
 

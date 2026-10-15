@@ -31,6 +31,11 @@ status: "new"
 > Die Tür knallte laut ins Schloss.
 > *The door slammed shut loudly.*
 
+**Phrases & Expressions:**
+- **die Tür knallt zu** — *to bang; to pop; to slam*
+- **der Korken knallt** — *to bang; to pop; to slam*
+- **mit der Tür knallen** — *to bang; to pop; to slam*
+
 **Collocations**
 - die Tür knallt zu
 - der Korken knallt

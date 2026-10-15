@@ -34,6 +34,9 @@ status: "new"
 > Schreiben Sie eine Bildbeschreibung zu diesem Foto.
 > *Write a description of this photo.*
 
+**Phrases & Expressions:**
+- **Schreiben Sie eine Bildbeschreibung zu diesem Foto** — *Write a description of this photo* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 11a (Gute Unterhaltung!)
 <!-- bank:end -->
 

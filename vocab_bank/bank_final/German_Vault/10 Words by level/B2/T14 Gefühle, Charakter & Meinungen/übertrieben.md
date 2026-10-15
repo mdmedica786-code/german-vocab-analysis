@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Ihre Angst ist übertrieben.
 > *Her fear is exaggerated.*
+
+**Phrases & Expressions:**
+- **Ihre Angst ist übertrieben** — *Her fear is exaggerated* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

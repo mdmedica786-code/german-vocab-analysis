@@ -32,6 +32,11 @@ status: "new"
 > Die Methode hat sich als sehr nützlich erwiesen.
 > *The method has proved very useful.*
 
+**Phrases & Expressions:**
+- **sich als etwas erweisen** — *to prove; to show (oneself)*
+- **sich als falsch erweisen** — *to prove; to show (oneself)*
+- **einen Dienst erweisen** — *to prove; to show (oneself)*
+
 **Collocations**
 - sich als etwas erweisen
 - sich als falsch erweisen

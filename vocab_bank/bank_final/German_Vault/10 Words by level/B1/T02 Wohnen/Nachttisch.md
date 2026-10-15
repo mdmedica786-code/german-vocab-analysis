@@ -34,6 +34,9 @@ status: "new"
 > Auf dem Nachttisch liegt mein Buch.
 > *My book is on the nightstand.*
 
+**Phrases & Expressions:**
+- **Auf dem Nachttisch liegt mein Buch** — *My book is on the nightstand* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

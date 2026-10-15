@@ -29,6 +29,11 @@ status: "new"
 > Er antwortete schroff und beendete das Gespräch.
 > *He answered curtly and ended the conversation.*
 
+**Phrases & Expressions:**
+- **schroff antworten** — *curt; abrupt*
+- **schroff ablehnen** — *curt; abrupt*
+- **ein schroffer Ton** — *curt; abrupt*
+
 **Collocations**
 - schroff antworten
 - schroff ablehnen

@@ -32,6 +32,9 @@ status: "new"
 > Sie stapelt die Bücher auf dem Tisch.
 > *She stacks the books on the table.*
 
+**Phrases & Expressions:**
+- **Sie stapelt die Bücher auf dem Tisch** — *She stacks the books on the table* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9c (Blick nach vorn)
 <!-- bank:end -->
 

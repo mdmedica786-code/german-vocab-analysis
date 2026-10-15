@@ -35,6 +35,9 @@ status: "new"
 > Unser Dorf liegt in einem Tal.
 > *Our village lies in a valley.*
 
+**Phrases & Expressions:**
+- **Unser Dorf liegt in einem Tal** — *Our village lies in a valley* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

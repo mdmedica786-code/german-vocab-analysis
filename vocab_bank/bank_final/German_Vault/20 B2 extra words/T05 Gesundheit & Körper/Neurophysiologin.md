@@ -33,6 +33,11 @@ status: "new"
 > Die Neurophysiologin forscht an der Universität.
 > *The neurophysiologist does research at the university.*
 
+**Phrases & Expressions:**
+- **eine bekannte Neurophysiologin** — *neurophysiologist (female)*
+- **als Neurophysiologin forschen** — *neurophysiologist (female)*
+- **die Neurophysiologin erklärt** — *neurophysiologist (female)*
+
 **Collocations**
 - eine bekannte Neurophysiologin
 - als Neurophysiologin forschen

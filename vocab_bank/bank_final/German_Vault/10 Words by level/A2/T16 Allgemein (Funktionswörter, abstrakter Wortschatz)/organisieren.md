@@ -34,6 +34,9 @@ status: "new"
 > Frau Gomez organisiert unseren Ausflug.
 > **
 
+**Phrases & Expressions:**
+- **Wir können einen Pflegedienst für Sie organisieren.** — We can arrange a care service for you. *([[FSP-22 Kinder, Eltern und ältere Patienten|Pflege und Angehörige]] · B2)*
+
 **Source:** Netzwerk neu A2 K1 3a (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

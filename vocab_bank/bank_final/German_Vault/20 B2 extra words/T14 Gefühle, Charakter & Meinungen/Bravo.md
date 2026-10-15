@@ -29,6 +29,11 @@ status: "new"
 > Bravo, das hast du wirklich gut gemacht!
 > *Bravo, you really did that well!*
 
+**Phrases & Expressions:**
+- **Bravo rufen** — *bravo; well done*
+- **ein lautes Bravo** — *bravo; well done*
+- **Bravo, gut gemacht** — *bravo; well done*
+
 **Collocations**
 - Bravo rufen
 - ein lautes Bravo

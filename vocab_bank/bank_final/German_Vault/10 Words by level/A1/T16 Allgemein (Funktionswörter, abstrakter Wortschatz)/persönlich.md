@@ -31,6 +31,14 @@ status: "new"
 > Hier gibt es zu viele Autos. Das ist meine persönliche Meinung.
 > *There are too many cars here. That is my personal opinion.*
 
+**Phrases & Expressions:**
+- **Ich persönlich denke, ...** — I personally think ... *([[B1-01 Meinung äußern|Persönliche Meinung betonen]] · B1)*
+- **Zum Schluss möchte ich meine persönliche Meinung sagen.** — Finally I would like to give my personal opinion. *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Schluss gestalten]] · B1)*
+- **Persönlich habe ich die Erfahrung gemacht, dass ...** — Personally I have found from experience that ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Persönliche Erfahrung nennen]] · B2)*
+- **persönliche Daten** — *personal; personally*
+- **persönlich kennen** — *personal; personally*
+- **persönlich nehmen** — *personal; personally*
+
 **Collocations**
 - persönliche Daten
 - persönlich kennen

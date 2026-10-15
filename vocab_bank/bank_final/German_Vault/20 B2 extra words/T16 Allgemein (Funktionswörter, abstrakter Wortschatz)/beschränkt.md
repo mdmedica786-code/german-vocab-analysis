@@ -29,6 +29,11 @@ status: "new"
 > Die Plätze im Kurs sind beschränkt.
 > *Places in the course are limited.*
 
+**Phrases & Expressions:**
+- **beschränkte Plätze** — *limited; narrow-minded*
+- **zeitlich beschränkt** — *limited; narrow-minded*
+- **auf etwas beschränkt sein** — *limited; narrow-minded*
+
 **Collocations**
 - beschränkte Plätze
 - zeitlich beschränkt

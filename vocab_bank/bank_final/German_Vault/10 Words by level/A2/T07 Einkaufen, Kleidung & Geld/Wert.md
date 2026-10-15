@@ -35,6 +35,9 @@ status: "new"
 > Das Haus hat einen Wert von ca. 1 Mio.
 > *The house is worth approx. 1 million.*
 
+**Phrases & Expressions:**
+- **Messen Sie bitte täglich Ihren Blutdruck und notieren Sie die Werte.** — Please measure your blood pressure daily and note the values. *([[FSP-11 Therapie und Medikamente erklären|Selbstmanagement]] · B2)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

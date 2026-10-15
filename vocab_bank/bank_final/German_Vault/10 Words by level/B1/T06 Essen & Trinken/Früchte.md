@@ -34,6 +34,9 @@ status: "new"
 > Früchte kaufe ich am liebsten auf dem Markt.
 > *I like buying fruit best at the market.*
 
+**Phrases & Expressions:**
+- **Früchte kaufe ich am liebsten auf dem Markt** — *I like buying fruit best at the market* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

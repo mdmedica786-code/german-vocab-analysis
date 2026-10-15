@@ -33,6 +33,11 @@ status: "new"
 > Lege das Blech mit Backpapier aus.
 > *Line the tray with baking paper.*
 
+**Phrases & Expressions:**
+- **mit Backpapier auslegen** — *baking paper*
+- **ein Blatt Backpapier** — *baking paper*
+- **Backpapier verwenden** — *baking paper*
+
 **Collocations**
 - mit Backpapier auslegen
 - ein Blatt Backpapier

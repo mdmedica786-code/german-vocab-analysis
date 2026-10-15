@@ -31,6 +31,11 @@ status: "new"
 > Bei dem Unfall wurde zum Glück niemand getötet.
 > *Fortunately nobody was killed in the accident.*
 
+**Phrases & Expressions:**
+- **einen Menschen töten** — *to kill*
+- **ein Tier töten** — *to kill*
+- **getötet werden** — *to kill*
+
 **Collocations**
 - einen Menschen töten
 - ein Tier töten

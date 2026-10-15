@@ -34,6 +34,9 @@ status: "new"
 > In der Musikgeschichte gibt es viele große Namen.
 > *There are many great names in the history of music.*
 
+**Phrases & Expressions:**
+- **In der Musikgeschichte gibt es viele große Namen** — *There are many great names in the history of music* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 11b (Zwischenmenschliches)
 <!-- bank:end -->
 

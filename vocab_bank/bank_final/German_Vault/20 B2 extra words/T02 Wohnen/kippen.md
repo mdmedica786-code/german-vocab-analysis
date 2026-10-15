@@ -31,6 +31,11 @@ status: "new"
 > Er hat das Fenster gekippt, damit frische Luft hereinkommt.
 > *He tilted the window open so that fresh air comes in.*
 
+**Phrases & Expressions:**
+- **das Fenster kippen** — *to tip; to tilt; to topple*
+- **aus dem Gleichgewicht kippen** — *to tip; to tilt; to topple*
+- **eine Regel kippen** — *to tip; to tilt; to topple*
+
 **Collocations**
 - das Fenster kippen
 - aus dem Gleichgewicht kippen

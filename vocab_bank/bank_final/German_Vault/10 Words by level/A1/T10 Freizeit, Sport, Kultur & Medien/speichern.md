@@ -33,6 +33,9 @@ status: "new"
 > Sie müssen die Datei speichern.
 > *You have to save the file.*
 
+**Phrases & Expressions:**
+- **Sie müssen die Datei speichern** — *You have to save the file* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 6a (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->
 

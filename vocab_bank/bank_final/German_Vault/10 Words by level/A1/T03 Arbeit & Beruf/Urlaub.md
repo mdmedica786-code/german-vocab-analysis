@@ -35,6 +35,9 @@ status: "new"
 > Ich nehme im September Urlaub.
 > *I'm taking holiday in September.*
 
+**Phrases & Expressions:**
+- **Ich nehme im September Urlaub** — *I'm taking holiday in September* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 3a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

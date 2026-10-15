@@ -33,6 +33,9 @@ status: "new"
 > Der Zimmerpreis ist inklusive Frühstück.
 > *The room price includes breakfast.*
 
+**Phrases & Expressions:**
+- **Der Zimmerpreis ist inklusive Frühstück** — *The room price includes breakfast* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

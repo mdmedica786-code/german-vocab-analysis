@@ -29,6 +29,11 @@ status: "new"
 > Bitte bleiben Sie in der Diskussion sachlich.
 > *Please stay objective in the discussion.*
 
+**Phrases & Expressions:**
+- **sachlich bleiben** — *objective; factual*
+- **eine sachliche Diskussion** — *objective; factual*
+- **sachlich richtig** — *objective; factual*
+
 **Collocations**
 - sachlich bleiben
 - eine sachliche Diskussion

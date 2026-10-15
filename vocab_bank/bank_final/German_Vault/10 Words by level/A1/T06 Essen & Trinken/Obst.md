@@ -35,6 +35,9 @@ status: "new"
 > Im Sommer ist das Obst billig.
 > *In summer fruit is cheap.*
 
+**Phrases & Expressions:**
+- **Im Sommer ist das Obst billig** — *In summer fruit is cheap* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

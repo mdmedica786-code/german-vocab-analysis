@@ -34,6 +34,9 @@ status: "new"
 > Möchtest du reiten lernen?
 > **
 
+**Phrases & Expressions:**
+- **Möchtest du reiten lernen** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 1b (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

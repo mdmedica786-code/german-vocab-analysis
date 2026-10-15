@@ -30,6 +30,9 @@ status: "new"
 > Ich gehe um acht zur Arbeit, davor frühstücke ich.
 > *I go to work at eight; before that I have breakfast.*
 
+**Phrases & Expressions:**
+- **Ich habe Angst davor, dass ...** — I am afraid that ... *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Angst ausdrücken]] · B1)*
+
 **Source:** Netzwerk neu B1 K2 11 (Das ist ja praktisch!)
 <!-- bank:end -->
 

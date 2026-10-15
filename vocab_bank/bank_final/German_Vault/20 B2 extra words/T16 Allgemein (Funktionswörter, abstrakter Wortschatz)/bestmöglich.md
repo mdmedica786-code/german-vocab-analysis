@@ -29,6 +29,11 @@ status: "new"
 > Wir bemühen uns um eine bestmögliche Lösung.
 > *We are working on the best possible solution.*
 
+**Phrases & Expressions:**
+- **die bestmögliche Lösung** — *best possible*
+- **bestmöglich vorbereitet sein** — *best possible*
+- **bestmöglich helfen** — *best possible*
+
 **Collocations**
 - die bestmögliche Lösung
 - bestmöglich vorbereitet sein

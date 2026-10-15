@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Im Rahmen des Projekts arbeiten wir mit mehreren Firmen.
 > *As part of the project we work with several companies.*
+
+**Phrases & Expressions:**
+- **im Rahmen von ...** — within the scope of ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
 <!-- bank:end -->
 
 ## My notes

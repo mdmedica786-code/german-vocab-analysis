@@ -33,6 +33,11 @@ status: "new"
 > Mein Vetter wohnt in Hamburg.
 > *My cousin lives in Hamburg.*
 
+**Phrases & Expressions:**
+- **ein entfernter Vetter** — *(male) cousin*
+- **mein Vetter** — *(male) cousin*
+- **Vetter und Cousine** — *(male) cousin*
+
 **Collocations**
 - ein entfernter Vetter
 - mein Vetter

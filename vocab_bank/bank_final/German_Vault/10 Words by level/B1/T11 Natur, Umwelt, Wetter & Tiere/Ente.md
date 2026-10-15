@@ -35,6 +35,9 @@ status: "new"
 > Die Ente schwimmt auf dem See.
 > *The duck is swimming on the lake.*
 
+**Phrases & Expressions:**
+- **Die Ente schwimmt auf dem See** — *The duck is swimming on the lake* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12 ÜB (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

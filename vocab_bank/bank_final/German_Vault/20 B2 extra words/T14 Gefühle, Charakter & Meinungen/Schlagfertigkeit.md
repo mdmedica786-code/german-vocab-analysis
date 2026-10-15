@@ -33,6 +33,11 @@ status: "new"
 > Mit ihrer Schlagfertigkeit überrascht sie alle.
 > *She surprises everyone with her quick wit.*
 
+**Phrases & Expressions:**
+- **Schlagfertigkeit zeigen** — *quick wit; repartee*
+- **seine Schlagfertigkeit trainieren** — *quick wit; repartee*
+- **die Schlagfertigkeit eines Redners** — *quick wit; repartee*
+
 **Collocations**
 - Schlagfertigkeit zeigen
 - seine Schlagfertigkeit trainieren

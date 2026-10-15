@@ -29,6 +29,11 @@ status: "new"
 > Der Hund ist sehr gehorsam.
 > *The dog is very obedient.*
 
+**Phrases & Expressions:**
+- **gehorsam sein** — *obedient*
+- **ein gehorsames Kind** — *obedient*
+- **jemandem gehorsam sein** — *obedient*
+
 **Collocations**
 - gehorsam sein
 - ein gehorsames Kind

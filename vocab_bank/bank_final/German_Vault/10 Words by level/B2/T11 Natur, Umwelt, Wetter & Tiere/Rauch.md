@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Im Zimmer war viel Rauch.
 > *There was a lot of smoke in the room.*
+
+**Phrases & Expressions:**
+- **Im Zimmer war viel Rauch** — *There was a lot of smoke in the room* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

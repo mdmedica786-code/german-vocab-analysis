@@ -35,6 +35,9 @@ status: "new"
 > Große Fortschritte gab es in der Technologie.
 > *There was great progress in technology.*
 
+**Phrases & Expressions:**
+- **Große Fortschritte gab es in der Technologie** — *There was great progress in technology* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 6a (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Holen Sie die Polizei!
 > *Call the police!*
 
+**Phrases & Expressions:**
+- **Holen Sie die Polizei** — *Call the police* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1a (Leben in der Stadt) · Goethe word list A1
 <!-- bank:end -->
 

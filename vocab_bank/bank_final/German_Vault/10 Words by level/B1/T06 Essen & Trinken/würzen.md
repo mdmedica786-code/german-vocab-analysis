@@ -32,6 +32,9 @@ status: "new"
 > Sie würzt die Suppe mit Salz und Pfeffer.
 > *She seasons the soup with salt and pepper.*
 
+**Phrases & Expressions:**
+- **Sie würzt die Suppe mit Salz und Pfeffer** — *She seasons the soup with salt and pepper* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander)
 <!-- bank:end -->
 

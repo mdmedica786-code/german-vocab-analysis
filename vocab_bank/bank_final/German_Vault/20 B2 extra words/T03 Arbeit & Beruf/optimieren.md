@@ -31,6 +31,11 @@ status: "new"
 > Wir wollen die Arbeitsabläufe optimieren.
 > *We want to optimise the work processes.*
 
+**Phrases & Expressions:**
+- **einen Prozess optimieren** — *to optimise*
+- **die Abläufe optimieren** — *to optimise*
+- **optimiert werden** — *to optimise*
+
 **Collocations**
 - einen Prozess optimieren
 - die Abläufe optimieren

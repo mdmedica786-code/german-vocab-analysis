@@ -29,6 +29,11 @@ status: "new"
 > Die Schule liegt unmittelbar neben dem Park.
 > *The school is right next to the park.*
 
+**Phrases & Expressions:**
+- **unmittelbar danach** — *direct; immediate*
+- **in unmittelbarer Nähe** — *direct; immediate*
+- **unmittelbare Folgen** — *direct; immediate*
+
 **Collocations**
 - unmittelbar danach
 - in unmittelbarer Nähe

@@ -35,6 +35,12 @@ status: "new"
 > Verständnis haben für + A.
 > *To have sympathy for + A.*
 
+**Phrases & Expressions:**
+- **Verständnis haben für** — *understanding; sympathy*
+- **Verständnis zeigen** — *understanding; sympathy*
+- **um Verständnis bitten** — *understanding; sympathy*
+- **kein Verständnis** — *understanding; sympathy*
+
 **Collocations**
 - Verständnis haben für
 - Verständnis zeigen

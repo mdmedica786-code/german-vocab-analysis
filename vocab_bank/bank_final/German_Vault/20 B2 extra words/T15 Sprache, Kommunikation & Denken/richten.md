@@ -31,6 +31,11 @@ status: "new"
 > Bitte richten Sie Ihre Fragen an die Geschäftsleitung.
 > *Please address your questions to the management.*
 
+**Phrases & Expressions:**
+- **eine Frage an jemanden richten** — *to direct; to address; to fix*
+- **sich nach etwas richten** — *to direct; to address; to fix*
+- **den Blick auf etwas richten** — *to direct; to address; to fix*
+
 **Collocations**
 - eine Frage an jemanden richten
 - sich nach etwas richten

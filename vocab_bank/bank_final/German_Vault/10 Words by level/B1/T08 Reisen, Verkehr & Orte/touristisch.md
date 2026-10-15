@@ -30,6 +30,9 @@ status: "new"
 > Die Stadt hat viele touristische Attraktionen.
 > *The city has many tourist attractions.*
 
+**Phrases & Expressions:**
+- **Die Stadt hat viele touristische Attraktionen** — *The city has many tourist attractions* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

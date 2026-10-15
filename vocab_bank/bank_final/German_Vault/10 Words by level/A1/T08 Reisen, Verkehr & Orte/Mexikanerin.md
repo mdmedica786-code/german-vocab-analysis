@@ -34,6 +34,9 @@ status: "new"
 > Die Mexikanerin tanzt sehr gut.
 > *The Mexican woman dances very well.*
 
+**Phrases & Expressions:**
+- **Die Mexikanerin tanzt sehr gut** — *The Mexican woman dances very well* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

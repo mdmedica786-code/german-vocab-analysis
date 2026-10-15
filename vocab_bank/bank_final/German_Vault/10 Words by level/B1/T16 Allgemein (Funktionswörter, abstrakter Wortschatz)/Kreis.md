@@ -34,6 +34,9 @@ status: "new"
 > Die Kinder sitzen im Kindergarten im Kreis.
 > *The children sit in a circle in the kindergarten.*
 
+**Phrases & Expressions:**
+- **Die Kinder sitzen im Kindergarten im Kreis** — *The children sit in a circle in the kindergarten* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

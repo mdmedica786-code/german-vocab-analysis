@@ -29,6 +29,11 @@ status: "new"
 > Der Salat ist frisch und knackig.
 > *The salad is fresh and crisp.*
 
+**Phrases & Expressions:**
+- **knackiges Gemüse** — *crisp; crunchy; firm*
+- **knackig frisch** — *crisp; crunchy; firm*
+- **ein knackiger Apfel** — *crisp; crunchy; firm*
+
 **Collocations**
 - knackiges Gemüse
 - knackig frisch

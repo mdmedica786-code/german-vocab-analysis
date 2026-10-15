@@ -35,6 +35,9 @@ status: "new"
 > Wem gehört das Fahrzeug?
 > *Whose vehicle is that?*
 
+**Phrases & Expressions:**
+- **Wem gehört das Fahrzeug** — *Whose vehicle is that* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 6a (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

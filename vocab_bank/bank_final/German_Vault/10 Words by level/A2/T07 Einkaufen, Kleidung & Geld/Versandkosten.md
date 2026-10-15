@@ -34,6 +34,9 @@ status: "new"
 > Die Versandkosten betragen fünf Euro.
 > *The shipping costs are five euros.*
 
+**Phrases & Expressions:**
+- **Die Versandkosten betragen fünf Euro** — *The shipping costs are five euros* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

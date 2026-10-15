@@ -32,6 +32,9 @@ status: "new"
 > Der Soldat hat den Feind erschossen.
 > *The soldier shot the enemy dead.*
 
+**Phrases & Expressions:**
+- **Der Soldat hat den Feind erschossen** — *The soldier shot the enemy dead* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 13b (Kunststücke)
 <!-- bank:end -->
 

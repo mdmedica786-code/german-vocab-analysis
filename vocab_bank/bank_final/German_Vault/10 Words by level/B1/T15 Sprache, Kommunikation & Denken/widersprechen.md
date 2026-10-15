@@ -33,6 +33,9 @@ status: "new"
 > Da muss ich Ihnen widersprechen.
 > *I must disagree with you there.*
 
+**Phrases & Expressions:**
+- **Da muss ich Ihnen leider widersprechen.** — I'm afraid I have to contradict you there. *([[B1-02 Zustimmen und Widersprechen|Höflich widersprechen]] · B1)*
+
 **Source:** Netzwerk neu B1 K5 10 (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > An der Mauer ist ein großes Graffito.
 > *There is a large graffito on the wall.*
 
+**Phrases & Expressions:**
+- **An der Mauer ist ein großes Graffito** — *There is a large graffito on the wall* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 1b (Kunststücke)
 <!-- bank:end -->
 

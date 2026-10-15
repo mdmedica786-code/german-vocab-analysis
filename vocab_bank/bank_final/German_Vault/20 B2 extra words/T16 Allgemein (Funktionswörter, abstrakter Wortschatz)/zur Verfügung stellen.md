@@ -29,6 +29,10 @@ status: "new"
 > Die Firma stellt den Mitarbeitern einen Dienstwagen zur Verfügung.
 > *The company provides the employees with a company car.*
 
+**Phrases & Expressions:**
+- **Geld zur Verfügung stellen** — *to provide; to make available*
+- **Räume zur Verfügung stellen** — *to provide; to make available*
+
 **Collocations**
 - Geld zur Verfügung stellen
 - Räume zur Verfügung stellen

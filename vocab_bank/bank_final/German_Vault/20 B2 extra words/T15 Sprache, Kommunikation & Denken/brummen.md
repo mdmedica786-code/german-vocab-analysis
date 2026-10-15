@@ -31,6 +31,11 @@ status: "new"
 > Der Motor brummt leise.
 > *The engine hums quietly.*
 
+**Phrases & Expressions:**
+- **der Motor brummt** — *to hum; to growl; to grumble*
+- **vor sich hin brummen** — *to hum; to growl; to grumble*
+- **etwas brummen** — *to hum; to growl; to grumble*
+
 **Collocations**
 - der Motor brummt
 - vor sich hin brummen

@@ -35,6 +35,9 @@ status: "new"
 > Ein Insekt hat mich in den Arm gestochen.
 > *An insect stung me on the arm.*
 
+**Phrases & Expressions:**
+- **Ein Insekt hat mich in den Arm gestochen** — *An insect stung me on the arm* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 1a ÜB (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

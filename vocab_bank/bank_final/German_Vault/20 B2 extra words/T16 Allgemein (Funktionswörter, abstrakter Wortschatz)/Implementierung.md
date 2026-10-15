@@ -33,6 +33,11 @@ status: "new"
 > Die Implementierung der Software dauert Wochen.
 > *The implementation of the software takes weeks.*
 
+**Phrases & Expressions:**
+- **die Implementierung einer Software** — *implementation*
+- **die Implementierung der Regeln** — *implementation*
+- **zur Implementierung** — *implementation*
+
 **Collocations**
 - die Implementierung einer Software
 - die Implementierung der Regeln

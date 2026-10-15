@@ -34,6 +34,9 @@ status: "new"
 > Das Gebäude ist fast ein Jahrtausend alt.
 > *The building is almost a thousand years old.*
 
+**Phrases & Expressions:**
+- **Das Gebäude ist fast ein Jahrtausend alt** — *The building is almost a thousand years old* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

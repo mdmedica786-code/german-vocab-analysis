@@ -26,6 +26,10 @@ status: "new"
 > Eine gute Vorbereitung ist das A und O.
 > *Good preparation is essential.*
 
+**Phrases & Expressions:**
+- **das A und O** — *to be the be-all and end-all; to be essential*
+- **das Wichtigste** — *to be the be-all and end-all; to be essential*
+
 **Collocations**
 - das A und O
 - das Wichtigste

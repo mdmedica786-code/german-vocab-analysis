@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Der Angeklagte bestreitet die Tat.
 > *The accused denies the offence.*
+
+**Phrases & Expressions:**
+- **Der Angeklagte bestreitet die Tat** — *The accused denies the offence* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

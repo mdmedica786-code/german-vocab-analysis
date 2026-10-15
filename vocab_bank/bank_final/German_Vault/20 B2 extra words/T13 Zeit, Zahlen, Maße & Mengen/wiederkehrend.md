@@ -29,6 +29,11 @@ status: "new"
 > Wiederkehrende Kosten wie die Miete müssen eingeplant werden.
 > *Recurring costs such as rent have to be planned for.*
 
+**Phrases & Expressions:**
+- **wiederkehrende Kosten** — *recurring*
+- **ein wiederkehrendes Muster** — *recurring*
+- **wiederkehrende Probleme** — *recurring*
+
 **Collocations**
 - wiederkehrende Kosten
 - ein wiederkehrendes Muster

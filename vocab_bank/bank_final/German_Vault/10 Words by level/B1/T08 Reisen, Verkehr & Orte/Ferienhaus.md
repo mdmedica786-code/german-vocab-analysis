@@ -34,6 +34,9 @@ status: "new"
 > Wir mieten ein Ferienhaus am See.
 > *We are renting a holiday house by the lake.*
 
+**Phrases & Expressions:**
+- **Wir mieten ein Ferienhaus am See** — *We are renting a holiday house by the lake* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 3b (Gute Reise!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Bitte bewahren Sie Ihre Gehaltsabrechnungen sorgfältig auf.
 > *Please keep your salary statements carefully.*
 
+**Phrases & Expressions:**
+- **die Gehaltsabrechnung prüfen** — *salary statement*
+- **Gehaltsabrechnung vorlegen** — *salary statement*
+- **eine monatliche Gehaltsabrechnung** — *salary statement*
+
 **Collocations**
 - die Gehaltsabrechnung prüfen
 - Gehaltsabrechnung vorlegen

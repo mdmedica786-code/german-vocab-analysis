@@ -32,6 +32,12 @@ status: "new"
 > Hier ist es sehr warm.
 > *It is very warm here.*
 
+**Phrases & Expressions:**
+- **warmes Wasser** — *warm*
+- **warm essen** — *warm*
+- **warm anziehen** — *warm*
+- **mir ist warm** — *warm*
+
 **Collocations**
 - warmes Wasser
 - warm essen

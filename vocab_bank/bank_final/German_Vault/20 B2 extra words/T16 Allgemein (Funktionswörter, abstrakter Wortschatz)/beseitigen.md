@@ -31,6 +31,11 @@ status: "new"
 > Die Handwerker haben den Schaden schnell beseitigt.
 > *The tradesmen quickly repaired the damage.*
 
+**Phrases & Expressions:**
+- **einen Fehler beseitigen** — *to remove; to eliminate*
+- **Missstände beseitigen** — *to remove; to eliminate*
+- **Zweifel beseitigen** — *to remove; to eliminate*
+
 **Collocations**
 - einen Fehler beseitigen
 - Missstände beseitigen

@@ -35,6 +35,12 @@ status: "new"
 > Wie findest du die Musik?
 > *What do you think of the music?*
 
+**Phrases & Expressions:**
+- **Musik hören** — *music*
+- **laute Musik** — *music*
+- **klassische Musik** — *music*
+- **Musik machen** — *music*
+
 **Collocations**
 - Musik hören
 - laute Musik

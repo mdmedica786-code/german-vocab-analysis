@@ -33,6 +33,11 @@ status: "new"
 > Die Mehrheitsverhältnisse im Parlament haben sich geändert.
 > *The majority situation in parliament has changed.*
 
+**Phrases & Expressions:**
+- **klare Mehrheitsverhältnisse** — *distribution of votes; majority situation*
+- **die Mehrheitsverhältnisse ändern** — *distribution of votes; majority situation*
+- **unklare Mehrheitsverhältnisse** — *distribution of votes; majority situation*
+
 **Collocations**
 - klare Mehrheitsverhältnisse
 - die Mehrheitsverhältnisse ändern

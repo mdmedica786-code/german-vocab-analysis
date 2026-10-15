@@ -31,6 +31,9 @@ status: "new"
 > Ich komme eventuell etwas später.
 > *I may come a little later.*
 
+**Phrases & Expressions:**
+- **Ich komme eventuell etwas später** — *I may come a little later* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 5a (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

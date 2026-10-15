@@ -30,6 +30,11 @@ status: "new"
 > Im Internettext fehlen oft die Quellen.
 > *In the online text the sources are often missing.*
 
+**Phrases & Expressions:**
+- **einen Internettext lesen** — *internet text; online text*
+- **Internettexte prüfen** — *internet text; online text*
+- **ein Internettext zum Thema** — *internet text; online text*
+
 **Collocations**
 - einen Internettext lesen
 - Internettexte prüfen

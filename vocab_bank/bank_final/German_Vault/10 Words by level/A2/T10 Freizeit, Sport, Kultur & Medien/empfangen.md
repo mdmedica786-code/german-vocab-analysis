@@ -33,6 +33,9 @@ status: "new"
 > Wir können mit unserem Fernseher über 30 Programme empfangen.
 > *With our TV we can receive more than 30 channels.*
 
+**Phrases & Expressions:**
+- **Wir können mit unserem Fernseher über 30 Programme empfangen** — *With our TV we can receive more than 30 channels* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 9c (Und was machst du?) · Goethe word list B1
 <!-- bank:end -->
 

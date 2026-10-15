@@ -33,6 +33,12 @@ status: "new"
 > Die Blase muss vor der Untersuchung voll sein.
 > *The bladder has to be full before the examination.*
 
+**Phrases & Expressions:**
+- **die Blase entleeren** — *bladder; bubble; blister*
+- **volle Blase** — *bladder; bubble; blister*
+- **Entzündung der Blase** — *bladder; bubble; blister*
+- **Blase am Fuß** — *bladder; bubble; blister*
+
 **Collocations**
 - die Blase entleeren
 - volle Blase

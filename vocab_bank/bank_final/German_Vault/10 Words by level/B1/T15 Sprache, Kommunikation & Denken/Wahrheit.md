@@ -35,6 +35,12 @@ status: "new"
 > Sag mir bitte die Wahrheit. Hast du wieder geraucht?
 > *Please tell me the truth. Have you been smoking again?*
 
+**Phrases & Expressions:**
+- **in Wahrheit** — in truth *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · C1)*
+- **die Wahrheit sagen** — *truth*
+- **die ganze Wahrheit** — *truth*
+- **die Wahrheit herausfinden** — *truth*
+
 **Collocations**
 - die Wahrheit sagen
 - die ganze Wahrheit

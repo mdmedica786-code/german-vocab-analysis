@@ -34,6 +34,9 @@ status: "new"
 > Sonntags gibt es oft Schweinebraten mit Knödeln.
 > *On Sundays there is often roast pork with dumplings.*
 
+**Phrases & Expressions:**
+- **Sonntags gibt es oft Schweinebraten mit Knödeln** — *On Sundays there is often roast pork with dumplings* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist)
 <!-- bank:end -->
 

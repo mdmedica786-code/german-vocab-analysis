@@ -31,6 +31,13 @@ status: "new"
 > Diese Schuhe sind zwar teuer, aber gut.
 > *These shoes are expensive, to be sure, but good.*
 
+**Phrases & Expressions:**
+- **und zwar** — namely; and indeed *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **zwar ..., aber ...** — indeed ..., but ... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B1)*
+- **Das ist zwar richtig, aber ...** — That is true, but ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Zugeständnis machen]] · B2)*
+- **Das mag zwar stimmen, aber trotzdem ...** — That may be true, but nevertheless ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Gegenargument entkräften]] · B2)*
+- **zwar nicht ..., aber ...** — *admittedly; indeed*
+
 **Collocations**
 - zwar ..., aber ...
 - und zwar

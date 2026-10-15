@@ -29,6 +29,12 @@ status: "new"
 > Das Problem ist sehr komplex.
 > *The problem is very complex.*
 
+**Phrases & Expressions:**
+- **komplexe Zusammenhänge** — *complex*
+- **ein komplexes Thema** — *complex*
+- **komplex sein** — *complex*
+- **eine komplexe Aufgabe** — *complex*
+
 **Collocations**
 - komplexe Zusammenhänge
 - ein komplexes Thema

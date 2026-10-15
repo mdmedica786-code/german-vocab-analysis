@@ -35,6 +35,9 @@ status: "new"
 > Ich habe leider keine Geschwister.
 > *Unfortunately I have no siblings.*
 
+**Phrases & Expressions:**
+- **Sind Ihre Eltern oder Geschwister herzkrank oder zuckerkrank?** — Are your parents or siblings suffering from heart disease or diabetes? *([[FSP-05 Familien- und Sozialanamnese|Familienanamnese]] · B1)*
+
 **Source:** Netzwerk neu A1 K5 8a ÜB (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

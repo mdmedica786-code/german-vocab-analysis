@@ -33,6 +33,11 @@ status: "new"
 > Das Segel des Bootes blähte sich im Wind.
 > *The boat's sail billowed in the wind.*
 
+**Phrases & Expressions:**
+- **die Segel setzen** — *sail*
+- **unter vollen Segeln** — *sail*
+- **das Segel hissen** — *sail*
+
 **Collocations**
 - die Segel setzen
 - unter vollen Segeln

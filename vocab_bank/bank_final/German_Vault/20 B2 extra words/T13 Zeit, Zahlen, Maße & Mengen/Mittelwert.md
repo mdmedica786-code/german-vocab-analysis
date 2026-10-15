@@ -33,6 +33,11 @@ status: "new"
 > Wir berechnen den Mittelwert der Messungen.
 > *We calculate the mean of the measurements.*
 
+**Phrases & Expressions:**
+- **den Mittelwert berechnen** — *mean; average (value)*
+- **der Mittelwert liegt bei** — *mean; average (value)*
+- **der arithmetische Mittelwert** — *mean; average (value)*
+
 **Collocations**
 - den Mittelwert berechnen
 - der Mittelwert liegt bei

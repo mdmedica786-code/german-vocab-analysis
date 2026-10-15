@@ -33,6 +33,11 @@ status: "new"
 > Durch einen Kurzschluss ist die Sicherung herausgesprungen.
 > *A short circuit tripped the fuse.*
 
+**Phrases & Expressions:**
+- **einen Kurzschluss verursachen** — *short circuit*
+- **durch Kurzschluss** — *short circuit*
+- **ein Kurzschluss im Kabel** — *short circuit*
+
 **Collocations**
 - einen Kurzschluss verursachen
 - durch Kurzschluss

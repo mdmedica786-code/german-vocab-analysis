@@ -33,6 +33,9 @@ status: "new"
 > Die Zitrone schmeckt sauer.
 > *The lemon tastes sour.*
 
+**Phrases & Expressions:**
+- **Die Zitrone schmeckt sauer** — *The lemon tastes sour* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 10 ÜB (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

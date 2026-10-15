@@ -30,6 +30,12 @@ status: "new"
 > Das ist unmöglich zu schaffen.
 > *That is impossible to manage.*
 
+**Phrases & Expressions:**
+- **unmöglich sein** — *impossible*
+- **fast unmöglich** — *impossible*
+- **unmöglich machen** — *impossible*
+- **etwas Unmögliches** — *impossible*
+
 **Collocations**
 - unmöglich sein
 - fast unmöglich

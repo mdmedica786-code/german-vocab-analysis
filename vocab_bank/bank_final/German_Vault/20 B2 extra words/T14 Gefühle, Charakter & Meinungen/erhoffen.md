@@ -32,6 +32,11 @@ status: "new"
 > Von dem Treffen erhofft sie sich eine Lösung.
 > *She hopes for a solution from the meeting.*
 
+**Phrases & Expressions:**
+- **sich etwas erhoffen** — *to hope for; to expect*
+- **sich viel erhoffen** — *to hope for; to expect*
+- **sich Hilfe erhoffen** — *to hope for; to expect*
+
 **Collocations**
 - sich etwas erhoffen
 - sich viel erhoffen

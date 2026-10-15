@@ -35,6 +35,9 @@ status: "new"
 > Die Köchin bereitet das Mittagessen vor.
 > *The cook is preparing lunch.*
 
+**Phrases & Expressions:**
+- **Die Köchin bereitet das Mittagessen vor** — *The cook is preparing lunch* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a ÜB (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

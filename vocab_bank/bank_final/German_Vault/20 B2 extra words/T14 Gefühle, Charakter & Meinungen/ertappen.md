@@ -31,6 +31,11 @@ status: "new"
 > Der Ladendieb wurde auf frischer Tat ertappt.
 > *The shoplifter was caught red-handed.*
 
+**Phrases & Expressions:**
+- **jemanden auf frischer Tat ertappen** — *to catch (in the act)*
+- **sich bei etwas ertappen** — *to catch (in the act)*
+- **beim Lügen ertappen** — *to catch (in the act)*
+
 **Collocations**
 - jemanden auf frischer Tat ertappen
 - sich bei etwas ertappen

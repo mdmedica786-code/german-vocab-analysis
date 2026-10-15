@@ -34,6 +34,9 @@ status: "new"
 > Ich möchte ein Auto mieten.
 > **
 
+**Phrases & Expressions:**
+- **Ich möchte ein Auto mieten** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 3a (Und was machst du?) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Mentalität der Menschen ist im Norden anders als im Süden.
 > *The mentality of people in the north is different from the south.*
 
+**Phrases & Expressions:**
+- **eine andere Mentalität** — *mentality; attitude*
+- **die Mentalität ändern** — *mentality; attitude*
+- **typische Mentalität** — *mentality; attitude*
+
 **Collocations**
 - eine andere Mentalität
 - die Mentalität ändern

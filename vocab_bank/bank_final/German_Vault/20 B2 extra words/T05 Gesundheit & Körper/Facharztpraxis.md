@@ -30,6 +30,11 @@ status: "new"
 > In der Facharztpraxis war das Wartezimmer voll.
 > *In the specialist's practice the waiting room was full.*
 
+**Phrases & Expressions:**
+- **in der Facharztpraxis** — *specialist's practice*
+- **eine Facharztpraxis eröffnen** — *specialist's practice*
+- **eine Facharztpraxis für Orthopädie** — *specialist's practice*
+
 **Collocations**
 - in der Facharztpraxis
 - eine Facharztpraxis eröffnen

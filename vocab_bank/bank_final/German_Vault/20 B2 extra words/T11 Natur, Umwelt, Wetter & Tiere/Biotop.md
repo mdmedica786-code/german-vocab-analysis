@@ -33,6 +33,11 @@ status: "new"
 > Der Teich ist ein wertvolles Biotop für Frösche.
 > *The pond is a valuable habitat for frogs.*
 
+**Phrases & Expressions:**
+- **ein Biotop schützen** — *biotope; habitat*
+- **Biotop anlegen** — *biotope; habitat*
+- **feuchtes Biotop** — *biotope; habitat*
+
 **Collocations**
 - ein Biotop schützen
 - Biotop anlegen

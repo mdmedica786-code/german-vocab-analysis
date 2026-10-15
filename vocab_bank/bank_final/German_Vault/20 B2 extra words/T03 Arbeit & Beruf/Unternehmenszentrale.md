@@ -33,6 +33,11 @@ status: "new"
 > Die Unternehmenszentrale befindet sich in Frankfurt.
 > *The company headquarters are located in Frankfurt.*
 
+**Phrases & Expressions:**
+- **in der Unternehmenszentrale** — *company headquarters*
+- **die Unternehmenszentrale verlegen** — *company headquarters*
+- **die Unternehmenszentrale besuchen** — *company headquarters*
+
 **Collocations**
 - in der Unternehmenszentrale
 - die Unternehmenszentrale verlegen

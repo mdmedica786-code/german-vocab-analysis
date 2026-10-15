@@ -35,6 +35,9 @@ status: "new"
 > Es gibt drei Steckdosen in diesem Zimmer.
 > *There are three sockets in this room.*
 
+**Phrases & Expressions:**
+- **Es gibt drei Steckdosen in diesem Zimmer** — *There are three sockets in this room* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

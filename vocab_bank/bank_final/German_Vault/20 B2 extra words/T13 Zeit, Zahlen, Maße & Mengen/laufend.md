@@ -29,6 +29,11 @@ status: "new"
 > Die laufenden Kosten sind sehr hoch.
 > *The running costs are very high.*
 
+**Phrases & Expressions:**
+- **laufende Kosten** — *current; ongoing; regular*
+- **laufende Ermittlungen** — *current; ongoing; regular*
+- **auf dem Laufenden** — *current; ongoing; regular*
+
 **Collocations**
 - laufende Kosten
 - laufende Ermittlungen

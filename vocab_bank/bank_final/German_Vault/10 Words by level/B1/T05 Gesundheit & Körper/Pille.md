@@ -34,6 +34,9 @@ status: "new"
 > Der Arzt hat mir neue Pillen verschrieben.
 > *The doctor prescribed me new pills.*
 
+**Phrases & Expressions:**
+- **Der Arzt hat mir neue Pillen verschrieben** — *The doctor prescribed me new pills* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

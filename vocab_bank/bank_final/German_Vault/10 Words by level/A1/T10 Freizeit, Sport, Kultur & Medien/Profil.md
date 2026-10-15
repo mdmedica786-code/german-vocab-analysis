@@ -34,6 +34,9 @@ status: "new"
 > Mein Profil im Netzwerk ist öffentlich.
 > *My profile on the network is public.*
 
+**Phrases & Expressions:**
+- **Mein Profil im Netzwerk ist öffentlich** — *My profile on the network is public* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 7a (Studium und Beruf)
 <!-- bank:end -->
 

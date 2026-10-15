@@ -33,6 +33,11 @@ status: "new"
 > Ich kann den Knoten nicht lösen.
 > *I cannot undo the knot.*
 
+**Phrases & Expressions:**
+- **einen Knoten machen** — *knot*
+- **einen Knoten lösen** — *knot*
+- **der Knoten platzt** — *knot*
+
 **Collocations**
 - einen Knoten machen
 - einen Knoten lösen

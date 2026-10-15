@@ -29,6 +29,11 @@ status: "new"
 > Vor den Prüfungen stehen viele Studenten unter Druck.
 > *Before exams many students are under pressure.*
 
+**Phrases & Expressions:**
+- **unter großem Druck stehen** — *to be under pressure*
+- **unter Zeitdruck stehen** — *to be under pressure*
+- **unter Druck setzen** — *to be under pressure*
+
 **Collocations**
 - unter großem Druck stehen
 - unter Zeitdruck stehen

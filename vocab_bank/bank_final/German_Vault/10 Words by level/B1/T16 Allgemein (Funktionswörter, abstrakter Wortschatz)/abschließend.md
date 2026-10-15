@@ -30,6 +30,10 @@ status: "new"
 > Abschließend möchte ich Ihnen danken.
 > *In conclusion I would like to thank you.*
 
+**Phrases & Expressions:**
+- **Abschließend lässt sich sagen, dass ...** — In conclusion, it can be said that ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Schlussfolgerung ziehen]] · B2)*
+- **Abschließend möchte ich betonen, dass ...** — In conclusion I would like to stress that ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Schluss mit Fazit]] · B2)*
+
 **Source:** Netzwerk neu B1 K10 12b (Miteinander)
 <!-- bank:end -->
 

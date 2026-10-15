@@ -34,6 +34,9 @@ status: "new"
 > Das Nachbardorf liegt nur zwei Kilometer entfernt.
 > *The neighbouring village is only two kilometres away.*
 
+**Phrases & Expressions:**
+- **Das Nachbardorf liegt nur zwei Kilometer entfernt** — *The neighbouring village is only two kilometres away* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?)
 <!-- bank:end -->
 

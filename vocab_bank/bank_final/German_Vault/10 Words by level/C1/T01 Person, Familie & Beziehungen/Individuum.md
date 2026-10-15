@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Jedes Individuum hat eigene Rechte.
 > *Every individual has their own rights.*
+
+**Phrases & Expressions:**
+- **Jedes Individuum hat eigene Rechte** — *Every individual has their own rights* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

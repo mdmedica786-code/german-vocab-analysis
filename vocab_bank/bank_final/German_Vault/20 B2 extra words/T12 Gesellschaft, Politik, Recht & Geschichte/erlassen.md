@@ -31,6 +31,11 @@ status: "new"
 > Die Regierung hat ein neues Gesetz erlassen.
 > *The government has enacted a new law.*
 
+**Phrases & Expressions:**
+- **ein Gesetz erlassen** — *to enact; to issue; to remit*
+- **eine Verordnung erlassen** — *to enact; to issue; to remit*
+- **die Strafe erlassen** — *to enact; to issue; to remit*
+
 **Collocations**
 - ein Gesetz erlassen
 - eine Verordnung erlassen

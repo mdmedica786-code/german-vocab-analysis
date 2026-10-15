@@ -33,6 +33,9 @@ status: "new"
 > In diesem Haus hat es letztes Jahr gebrannt.
 > *This house was on fire last year.*
 
+**Phrases & Expressions:**
+- **In diesem Haus hat es letztes Jahr gebrannt** — *This house was on fire last year* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 9a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -31,6 +31,11 @@ status: "new"
 > Das Bild erregte großes Aufsehen.
 > *The picture caused a great stir.*
 
+**Phrases & Expressions:**
+- **Aufsehen erregen** — *to arouse; to excite; to cause*
+- **Aufmerksamkeit erregen** — *to arouse; to excite; to cause*
+- **sich über etwas erregen** — *to arouse; to excite; to cause*
+
 **Collocations**
 - Aufsehen erregen
 - Aufmerksamkeit erregen

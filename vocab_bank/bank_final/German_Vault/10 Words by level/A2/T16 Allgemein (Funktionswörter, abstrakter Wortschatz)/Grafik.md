@@ -34,6 +34,9 @@ status: "new"
 > Sie hat Grafik an der Universität studiert.
 > *She studied graphics at university.*
 
+**Phrases & Expressions:**
+- **Wie die Grafik zeigt, ...** — As the chart shows, ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Grafik beschreiben]] · B2)*
+
 **Source:** Netzwerk neu A2 K2 1c (Nach der Schulzeit) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,10 @@ status: "new"
 > Wir führen eine Studie über Arbeitslosigkeit durch.
 > *We are carrying out a study on unemployment.*
 
+**Phrases & Expressions:**
+- **Die Zahlen stammen aus einer Studie der Universität ...** — The figures come from a study by the University of ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Quellen nennen]] · B2)*
+- **Studien belegen, dass ...** — Studies prove that ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Beleg anführen]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

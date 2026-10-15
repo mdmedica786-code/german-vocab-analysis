@@ -34,6 +34,9 @@ status: "new"
 > Zum Frühstück trinke ich immer einen Kakao.
 > *For breakfast I always drink a cocoa.*
 
+**Phrases & Expressions:**
+- **Zum Frühstück trinke ich immer einen Kakao** — *For breakfast I always drink a cocoa* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

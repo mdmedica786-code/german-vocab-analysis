@@ -33,6 +33,11 @@ status: "new"
 > Fette die Kuchenform gut ein, damit der Teig nicht klebt.
 > *Grease the cake tin well so that the dough doesn't stick.*
 
+**Phrases & Expressions:**
+- **die Kuchenform einfetten** — *cake tin*
+- **den Teig in die Kuchenform füllen** — *cake tin*
+- **eine runde Kuchenform** — *cake tin*
+
 **Collocations**
 - die Kuchenform einfetten
 - den Teig in die Kuchenform füllen

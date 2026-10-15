@@ -33,6 +33,11 @@ status: "new"
 > Wir brauchen Klarheit über die Kosten.
 > *We need clarity about the costs.*
 
+**Phrases & Expressions:**
+- **Klarheit gewinnen** — *clarity*
+- **sich Klarheit verschaffen** — *clarity*
+- **in aller Klarheit** — *clarity*
+
 **Collocations**
 - Klarheit gewinnen
 - sich Klarheit verschaffen

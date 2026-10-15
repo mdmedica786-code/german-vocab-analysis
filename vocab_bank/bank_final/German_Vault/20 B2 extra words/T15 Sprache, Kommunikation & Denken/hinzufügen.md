@@ -32,6 +32,13 @@ status: "new"
 > Möchten Sie noch etwas hinzufügen?
 > *Would you like to add anything?*
 
+**Phrases & Expressions:**
+- **hinzu kommt, dass ...** — in addition, ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **Hinzu kommt, dass ...** — In addition, ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Argumentationskette bilden]] · B2)*
+- **einen Satz hinzufügen** — *to add*
+- **Salz hinzufügen** — *to add*
+- **etwas hinzufügen möchten** — *to add*
+
 **Collocations**
 - einen Satz hinzufügen
 - Salz hinzufügen

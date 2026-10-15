@@ -33,6 +33,11 @@ status: "new"
 > Der König trägt eine goldene Krone.
 > *The king wears a golden crown.*
 
+**Phrases & Expressions:**
+- **eine goldene Krone** — *crown; krone (currency)*
+- **die Krone aufsetzen** — *crown; krone (currency)*
+- **dänische Kronen** — *crown; krone (currency)*
+
 **Collocations**
 - eine goldene Krone
 - die Krone aufsetzen

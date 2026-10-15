@@ -30,6 +30,12 @@ status: "new"
 > Der Lichtschalter ist innen links.
 > *The light switch is inside on the left.*
 
+**Phrases & Expressions:**
+- **von innen** — from inside *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **nach innen** — *inside*
+- **innen und außen** — *inside*
+- **innen liegen** — *inside*
+
 **Collocations**
 - von innen
 - nach innen

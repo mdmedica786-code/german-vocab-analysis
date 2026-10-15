@@ -34,6 +34,9 @@ status: "new"
 > Das ist eine alte Lebensweisheit.
 > *That is an old piece of worldly wisdom.*
 
+**Phrases & Expressions:**
+- **Das ist eine alte Lebensweisheit** — *That is an old piece of worldly wisdom* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12b (Zwischenmenschliches)
 <!-- bank:end -->
 

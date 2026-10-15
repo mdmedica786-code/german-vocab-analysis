@@ -33,6 +33,11 @@ status: "new"
 > Die Olympischen Spiele sind das größte Sportereignis der Welt.
 > *The Olympic Games are the biggest sporting event in the world.*
 
+**Phrases & Expressions:**
+- **ein großes Sportereignis** — *sporting event*
+- **ein Sportereignis übertragen** — *sporting event*
+- **ein Sportereignis besuchen** — *sporting event*
+
 **Collocations**
 - ein großes Sportereignis
 - ein Sportereignis übertragen

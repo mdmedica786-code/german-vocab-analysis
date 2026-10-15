@@ -33,6 +33,11 @@ status: "new"
 > Aus den Daten lässt sich eine klare Folgerung ableiten.
 > *A clear conclusion can be derived from the data.*
 
+**Phrases & Expressions:**
+- **eine Folgerung ziehen** — *inference; conclusion*
+- **logische Folgerung** — *inference; conclusion*
+- **falsche Folgerung** — *inference; conclusion*
+
 **Collocations**
 - eine Folgerung ziehen
 - logische Folgerung

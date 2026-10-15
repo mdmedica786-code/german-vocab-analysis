@@ -29,6 +29,13 @@ status: "new"
 > Sie ist sehr religiös.
 > *She is very religious.*
 
+**Phrases & Expressions:**
+- **Gibt es etwas, das wir aus kulturellen oder religiösen Gründen beachten sollen?** — Is there anything we should consider for cultural or religious reasons? *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Kulturelle Sensibilität]] · B2)*
+- **religiös erzogen** — *religious*
+- **religiöse Feste** — *religious*
+- **religiöse Gründe** — *religious*
+- **religiös sein** — *religious*
+
 **Collocations**
 - religiös erzogen
 - religiöse Feste

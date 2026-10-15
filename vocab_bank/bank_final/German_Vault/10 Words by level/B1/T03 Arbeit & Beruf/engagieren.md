@@ -33,6 +33,9 @@ status: "new"
 > Sie engagiert sich für den Umweltschutz.
 > *She is committed to environmental protection.*
 
+**Phrases & Expressions:**
+- **Sie engagiert sich für den Umweltschutz** — *She is committed to environmental protection* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13e (Umweltfreundlich?)
 <!-- bank:end -->
 

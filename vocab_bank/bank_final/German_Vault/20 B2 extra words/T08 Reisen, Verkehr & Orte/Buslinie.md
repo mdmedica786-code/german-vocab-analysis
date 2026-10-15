@@ -33,6 +33,11 @@ status: "new"
 > Diese Buslinie fährt direkt zum Bahnhof.
 > *This bus route goes directly to the station.*
 
+**Phrases & Expressions:**
+- **eine neue Buslinie** — *bus route; bus line*
+- **die Buslinie 12** — *bus route; bus line*
+- **die Buslinie einstellen** — *bus route; bus line*
+
 **Collocations**
 - eine neue Buslinie
 - die Buslinie 12

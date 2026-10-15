@@ -33,6 +33,11 @@ status: "new"
 > Er hat kein Taktgefühl und sagt immer alles direkt.
 > *He has no tact and always says everything directly.*
 
+**Phrases & Expressions:**
+- **Taktgefühl haben** — *tact; sensitivity*
+- **mit Taktgefühl** — *tact; sensitivity*
+- **es an Taktgefühl fehlen lassen** — *tact; sensitivity*
+
 **Collocations**
 - Taktgefühl haben
 - mit Taktgefühl

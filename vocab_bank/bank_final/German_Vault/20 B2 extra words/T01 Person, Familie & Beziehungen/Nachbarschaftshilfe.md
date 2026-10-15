@@ -33,6 +33,11 @@ status: "new"
 > In unserem Haus funktioniert die Nachbarschaftshilfe gut.
 > *Neighbourly help works well in our building.*
 
+**Phrases & Expressions:**
+- **Nachbarschaftshilfe organisieren** — *neighbourly help*
+- **auf Nachbarschaftshilfe angewiesen** — *neighbourly help*
+- **Nachbarschaftshilfe leisten** — *neighbourly help*
+
 **Collocations**
 - Nachbarschaftshilfe organisieren
 - auf Nachbarschaftshilfe angewiesen

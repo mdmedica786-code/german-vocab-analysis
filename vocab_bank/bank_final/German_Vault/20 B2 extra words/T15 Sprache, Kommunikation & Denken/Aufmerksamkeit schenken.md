@@ -26,6 +26,10 @@ status: "new"
 > Man sollte den Warnungen mehr Aufmerksamkeit schenken.
 > *One should pay more attention to the warnings.*
 
+**Phrases & Expressions:**
+- **Beachtung schenken** — *to pay attention*
+- **Aufmerksamkeit schenken + Dat.** — *to pay attention*
+
 **Collocations**
 - Beachtung schenken
 - Aufmerksamkeit schenken + Dat.

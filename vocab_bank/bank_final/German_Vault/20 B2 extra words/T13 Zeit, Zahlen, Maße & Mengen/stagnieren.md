@@ -31,6 +31,10 @@ status: "new"
 > Die Wirtschaft stagniert seit zwei Jahren.
 > *The economy has been stagnating for two years.*
 
+**Phrases & Expressions:**
+- **die Zahlen stagnieren** — *to stagnate*
+- **stagnierende Entwicklung** — *to stagnate*
+
 **Collocations**
 - die Zahlen stagnieren
 - stagnierende Entwicklung

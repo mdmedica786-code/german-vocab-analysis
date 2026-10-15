@@ -34,6 +34,9 @@ status: "new"
 > Meine Tochter spielt Piano.
 > *My daughter plays the piano.*
 
+**Phrases & Expressions:**
+- **Meine Tochter spielt Piano** — *My daughter plays the piano* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9 ÜB (Blick nach vorn)
 <!-- bank:end -->
 

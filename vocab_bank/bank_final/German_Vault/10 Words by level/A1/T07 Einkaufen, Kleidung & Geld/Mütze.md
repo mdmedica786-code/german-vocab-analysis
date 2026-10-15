@@ -35,6 +35,9 @@ status: "new"
 > Haben Sie rote Mützen?
 > *Do you have red hats?*
 
+**Phrases & Expressions:**
+- **Haben Sie rote Mützen** — *Do you have red hats* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 2a ÜB (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

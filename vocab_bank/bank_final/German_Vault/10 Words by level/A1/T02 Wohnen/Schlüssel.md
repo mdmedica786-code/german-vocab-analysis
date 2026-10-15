@@ -35,6 +35,9 @@ status: "new"
 > Ich finde meinen Schlüssel nicht.
 > *I can't find my key.*
 
+**Phrases & Expressions:**
+- **Ich finde meinen Schlüssel nicht** — *I can't find my key* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

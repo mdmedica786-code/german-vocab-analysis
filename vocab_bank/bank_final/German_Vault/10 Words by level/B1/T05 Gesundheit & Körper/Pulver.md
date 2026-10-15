@@ -34,6 +34,9 @@ status: "new"
 > Das Pulver wird in Wasser aufgelöst.
 > *The powder is dissolved in water.*
 
+**Phrases & Expressions:**
+- **Das Pulver wird in Wasser aufgelöst** — *The powder is dissolved in water* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 2a ÜB (Rund um Körper und Geist)
 <!-- bank:end -->
 

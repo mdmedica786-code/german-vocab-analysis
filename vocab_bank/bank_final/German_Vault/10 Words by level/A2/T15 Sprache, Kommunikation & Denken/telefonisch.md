@@ -30,6 +30,9 @@ status: "new"
 > Sie erreichen uns telefonisch von 8 bis 16 Uhr.
 > *You can reach us by phone from 8 am to 4 pm.*
 
+**Phrases & Expressions:**
+- **Wie telefonisch besprochen, ...** — As discussed by phone, ... *([[B1-13 Formelle E-Mail und Brief|Bezug nehmen]] · B1)*
+
 **Source:** Netzwerk neu A2 K7 6c (Ganz schön mobil)
 <!-- bank:end -->
 

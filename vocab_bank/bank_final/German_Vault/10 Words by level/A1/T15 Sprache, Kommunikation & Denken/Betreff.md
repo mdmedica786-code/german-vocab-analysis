@@ -34,6 +34,9 @@ status: "new"
 > Bitte schreiben Sie einen Betreff in die E-Mail.
 > *Please write a subject in the email.*
 
+**Phrases & Expressions:**
+- **Betreff: Anfrage zum Deutschkurs im Oktober** — Subject: Enquiry about the German course in October *([[B1-13 Formelle E-Mail und Brief|Betreff formulieren]] · B1)*
+
 **Source:** Netzwerk neu A1 K6 6a (Zeit mit Freunden)
 <!-- bank:end -->
 

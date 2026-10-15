@@ -32,6 +32,9 @@ status: "new"
 > Wir sollten kein Wasser verschwenden.
 > *We should not waste water.*
 
+**Phrases & Expressions:**
+- **Wir sollten kein Wasser verschwenden** — *We should not waste water* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?)
 <!-- bank:end -->
 

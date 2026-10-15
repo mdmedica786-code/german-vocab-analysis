@@ -33,6 +33,9 @@ status: "new"
 > Können Sie das Foto vergrößern?
 > *Can you enlarge the photo?*
 
+**Phrases & Expressions:**
+- **Können Sie das Foto vergrößern** — *Can you enlarge the photo* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

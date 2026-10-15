@@ -34,6 +34,9 @@ status: "new"
 > Das Kofferpacken dauert bei mir immer lange.
 > *Packing a suitcase always takes me a long time.*
 
+**Phrases & Expressions:**
+- **Das Kofferpacken dauert bei mir immer lange** — *Packing a suitcase always takes me a long time* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 2d (Ab in den Urlaub!)
 <!-- bank:end -->
 

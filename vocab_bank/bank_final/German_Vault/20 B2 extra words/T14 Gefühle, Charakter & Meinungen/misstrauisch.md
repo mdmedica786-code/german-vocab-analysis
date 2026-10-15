@@ -29,6 +29,11 @@ status: "new"
 > Sie wurde misstrauisch, als er keine Fragen beantwortete.
 > *She became suspicious when he did not answer any questions.*
 
+**Phrases & Expressions:**
+- **misstrauisch werden** — *suspicious; distrustful*
+- **misstrauisch gegenüber** — *suspicious; distrustful*
+- **jemanden misstrauisch beobachten** — *suspicious; distrustful*
+
 **Collocations**
 - misstrauisch werden
 - misstrauisch gegenüber

@@ -34,6 +34,9 @@ status: "new"
 > Nach vier Stunden lässt meine Konzentration nach.
 > *After four hours my concentration drops.*
 
+**Phrases & Expressions:**
+- **Nach vier Stunden lässt meine Konzentration nach** — *After four hours my concentration drops* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 11c (Zwischenmenschliches)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Wälder schützen vor Bodenerosion.
 > *Forests protect against soil erosion.*
 
+**Phrases & Expressions:**
+- **vor Bodenerosion schützen** — *soil erosion*
+- **durch Bodenerosion** — *soil erosion*
+- **Bodenerosion verhindern** — *soil erosion*
+
 **Collocations**
 - vor Bodenerosion schützen
 - durch Bodenerosion

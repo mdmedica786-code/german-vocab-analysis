@@ -30,6 +30,11 @@ status: "new"
 > Die Großkundin verlangt einen Rabatt.
 > *The major customer asks for a discount.*
 
+**Phrases & Expressions:**
+- **eine Großkundin betreuen** — *major customer; key client (female)*
+- **eine wichtige Großkundin** — *major customer; key client (female)*
+- **die Großkundin überzeugen** — *major customer; key client (female)*
+
 **Collocations**
 - eine Großkundin betreuen
 - eine wichtige Großkundin

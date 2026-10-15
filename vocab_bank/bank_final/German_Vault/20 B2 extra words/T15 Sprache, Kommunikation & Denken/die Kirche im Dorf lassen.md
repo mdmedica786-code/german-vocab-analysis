@@ -29,6 +29,10 @@ status: "new"
 > Wir sollten die Kirche im Dorf lassen und nicht übertreiben.
 > *We should keep things in proportion and not exaggerate.*
 
+**Phrases & Expressions:**
+- **nicht übertreiben** — *to keep things in proportion*
+- **sachlich bleiben** — *to keep things in proportion*
+
 **Collocations**
 - nicht übertreiben
 - sachlich bleiben

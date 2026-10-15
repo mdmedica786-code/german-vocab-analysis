@@ -34,6 +34,9 @@ status: "new"
 > Das Tempus dieses Satzes ist das Präteritum.
 > *The tense of this sentence is the preterite.*
 
+**Phrases & Expressions:**
+- **Das Tempus dieses Satzes ist das Präteritum** — *The tense of this sentence is the preterite* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 13b (Zwischenmenschliches)
 <!-- bank:end -->
 

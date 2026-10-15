@@ -34,6 +34,9 @@ status: "new"
 > Die Stadtmauer ist 500 Jahre alt.
 > *The city wall is 500 years old.*
 
+**Phrases & Expressions:**
+- **Die Stadtmauer ist 500 Jahre alt** — *The city wall is 500 years old* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Wir danken allen für ihre herzliche Anteilnahme.
 > *We thank everyone for their warm sympathy.*
 
+**Phrases & Expressions:**
+- **Anteilnahme zeigen** — *sympathy; concern*
+- **aufrichtige Anteilnahme** — *sympathy; concern*
+- **große Anteilnahme** — *sympathy; concern*
+
 **Collocations**
 - Anteilnahme zeigen
 - aufrichtige Anteilnahme

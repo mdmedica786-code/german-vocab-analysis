@@ -35,6 +35,9 @@ status: "new"
 > Das ist ein Sonderangebot: 25 % reduziert.
 > *This is a special offer: 25% off.*
 
+**Phrases & Expressions:**
+- **Das ist ein Sonderangebot: 25 % reduziert** — *This is a special offer: 25% off* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 3a (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

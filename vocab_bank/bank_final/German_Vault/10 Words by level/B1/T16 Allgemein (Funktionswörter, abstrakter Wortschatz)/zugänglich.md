@@ -30,6 +30,9 @@ status: "new"
 > Der Park ist für alle zugänglich.
 > *The park is accessible to everyone.*
 
+**Phrases & Expressions:**
+- **Der Park ist für alle zugänglich** — *The park is accessible to everyone* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Sie erzählt ihre Lebensgeschichte.
 > *She tells her life story.*
 
+**Phrases & Expressions:**
+- **Sie erzählt ihre Lebensgeschichte** — *She tells her life story* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3b (Veränderungen)
 <!-- bank:end -->
 

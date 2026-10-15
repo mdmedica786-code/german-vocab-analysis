@@ -31,6 +31,11 @@ status: "new"
 > Er stöhnte vor Schmerzen.
 > *He groaned with pain.*
 
+**Phrases & Expressions:**
+- **vor Schmerzen stöhnen** — *to groan; to moan*
+- **laut stöhnen** — *to groan; to moan*
+- **über etwas stöhnen** — *to groan; to moan*
+
 **Collocations**
 - vor Schmerzen stöhnen
 - laut stöhnen

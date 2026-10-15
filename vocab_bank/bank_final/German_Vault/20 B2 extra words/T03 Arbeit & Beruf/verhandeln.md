@@ -32,6 +32,11 @@ status: "new"
 > Die Gewerkschaft verhandelt über höhere Löhne.
 > *The union is negotiating over higher wages.*
 
+**Phrases & Expressions:**
+- **über etwas verhandeln** — *to negotiate; to hear (a case)*
+- **mit jemandem verhandeln** — *to negotiate; to hear (a case)*
+- **einen Preis verhandeln** — *to negotiate; to hear (a case)*
+
 **Collocations**
 - über etwas verhandeln
 - mit jemandem verhandeln

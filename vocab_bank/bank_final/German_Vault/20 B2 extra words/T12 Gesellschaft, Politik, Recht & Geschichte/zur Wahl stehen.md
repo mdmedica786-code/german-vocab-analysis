@@ -26,6 +26,11 @@ status: "new"
 > Drei Kandidaten stehen zur Wahl.
 > *Three candidates are standing for election.*
 
+**Phrases & Expressions:**
+- **Kandidaten stehen zur Wahl** — *to be up for election; to be on offer*
+- **zur Wahl stellen** — *to be up for election; to be on offer*
+- **zur Wahl aufstellen** — *to be up for election; to be on offer*
+
 **Collocations**
 - Kandidaten stehen zur Wahl
 - zur Wahl stellen

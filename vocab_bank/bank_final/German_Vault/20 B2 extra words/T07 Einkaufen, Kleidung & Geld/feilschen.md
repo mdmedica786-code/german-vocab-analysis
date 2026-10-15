@@ -32,6 +32,11 @@ status: "new"
 > Auf dem Markt in Istanbul muss man um den Preis feilschen.
 > *At the market in Istanbul you have to haggle over the price.*
 
+**Phrases & Expressions:**
+- **um den Preis feilschen** — *to haggle; to bargain*
+- **lange feilschen** — *to haggle; to bargain*
+- **auf dem Markt feilschen** — *to haggle; to bargain*
+
 **Collocations**
 - um den Preis feilschen
 - lange feilschen

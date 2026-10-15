@@ -29,6 +29,10 @@ status: "new"
 > Die Eltern üben viel Druck auf ihr Kind aus.
 > *The parents put a lot of pressure on their child.*
 
+**Phrases & Expressions:**
+- **Druck auf jemanden ausüben** — *to put pressure on*
+- **unter Druck setzen** — *to put pressure on*
+
 **Collocations**
 - Druck auf jemanden ausüben
 - unter Druck setzen

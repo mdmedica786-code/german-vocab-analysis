@@ -35,6 +35,9 @@ status: "new"
 > Ich habe nur Kleingeld in meinem Portemonnaie.
 > *I only have small change in my wallet.*
 
+**Phrases & Expressions:**
+- **Ich habe nur Kleingeld in meinem Portemonnaie** — *I only have small change in my wallet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 5a ÜB (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

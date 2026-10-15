@@ -29,6 +29,11 @@ status: "new"
 > Der Chef hat mir eine Gehaltserhöhung in Aussicht gestellt.
 > *The boss has held out the prospect of a pay rise to me.*
 
+**Phrases & Expressions:**
+- **in Aussicht haben** — *to promise; to hold out the prospect of*
+- **eine Beförderung in Aussicht stellen** — *to promise; to hold out the prospect of*
+- **Hilfe in Aussicht stellen** — *to promise; to hold out the prospect of*
+
 **Collocations**
 - in Aussicht haben
 - eine Beförderung in Aussicht stellen

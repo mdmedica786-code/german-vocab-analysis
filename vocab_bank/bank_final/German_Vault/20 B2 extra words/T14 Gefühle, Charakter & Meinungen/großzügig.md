@@ -29,6 +29,11 @@ status: "new"
 > Die Wohnung ist großzügig geschnitten und hat hohe Decken.
 > *The flat has a spacious layout and high ceilings.*
 
+**Phrases & Expressions:**
+- **großzügig spenden** — *generous; spacious*
+- **eine großzügige Geste** — *generous; spacious*
+- **großzügig geplant** — *generous; spacious*
+
 **Collocations**
 - großzügig spenden
 - eine großzügige Geste

@@ -34,6 +34,9 @@ status: "new"
 > Bei der Schiffskatastrophe gab es viele Opfer.
 > *There were many victims in the ship disaster.*
 
+**Phrases & Expressions:**
+- **Bei der Schiffskatastrophe gab es viele Opfer** — *There were many victims in the ship disaster* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Das Büro ist in der 3. Etage, Zimmer 305.
 > *The office is on the 3rd floor, room 305.*
 
+**Phrases & Expressions:**
+- **Das Büro ist in der 3. Etage, Zimmer 305** — *The office is on the 3rd floor, room 305* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

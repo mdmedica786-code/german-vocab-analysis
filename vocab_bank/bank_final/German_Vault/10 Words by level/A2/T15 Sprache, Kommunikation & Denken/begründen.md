@@ -34,6 +34,9 @@ status: "new"
 > Bitte begründen Sie Ihre Meinung.
 > **
 
+**Phrases & Expressions:**
+- **Das lässt sich damit begründen, dass ...** — This can be explained by the fact that ... *([[B1-03 Argumentieren, begründen und Beispiele nennen|Begründen]] · B1)*
+
 **Source:** Netzwerk neu A2 K1 7b (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

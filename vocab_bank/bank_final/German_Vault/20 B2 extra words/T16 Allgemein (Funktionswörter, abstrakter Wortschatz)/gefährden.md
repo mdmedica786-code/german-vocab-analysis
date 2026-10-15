@@ -31,6 +31,11 @@ status: "new"
 > Rauchen gefährdet die Gesundheit.
 > *Smoking endangers health.*
 
+**Phrases & Expressions:**
+- **die Sicherheit gefährden** — *to endanger; to jeopardise*
+- **den Erfolg gefährden** — *to endanger; to jeopardise*
+- **gefährdet sein** — *to endanger; to jeopardise*
+
 **Collocations**
 - die Sicherheit gefährden
 - den Erfolg gefährden

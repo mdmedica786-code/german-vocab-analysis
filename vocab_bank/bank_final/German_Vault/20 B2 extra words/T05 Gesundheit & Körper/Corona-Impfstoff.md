@@ -33,6 +33,11 @@ status: "new"
 > Der Corona-Impfstoff wurde sehr schnell entwickelt.
 > *The coronavirus vaccine was developed very quickly.*
 
+**Phrases & Expressions:**
+- **den Corona-Impfstoff entwickeln** — *coronavirus vaccine*
+- **ein neuer Corona-Impfstoff** — *coronavirus vaccine*
+- **mit dem Corona-Impfstoff impfen** — *coronavirus vaccine*
+
 **Collocations**
 - den Corona-Impfstoff entwickeln
 - ein neuer Corona-Impfstoff

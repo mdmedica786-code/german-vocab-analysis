@@ -33,6 +33,11 @@ status: "new"
 > Der Schimpanse benutzt einen Stock als Werkzeug.
 > *The chimpanzee uses a stick as a tool.*
 
+**Phrases & Expressions:**
+- **ein Schimpanse im Zoo** — *chimpanzee*
+- **Schimpansen beobachten** — *chimpanzee*
+- **der Schimpanse und der Mensch** — *chimpanzee*
+
 **Collocations**
 - ein Schimpanse im Zoo
 - Schimpansen beobachten

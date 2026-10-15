@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Preisträger bedankte sich bei seiner Familie.
 > *The prize winner thanked his family.*
+
+**Phrases & Expressions:**
+- **Der Preisträger bedankte sich bei seiner Familie** — *The prize winner thanked his family* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

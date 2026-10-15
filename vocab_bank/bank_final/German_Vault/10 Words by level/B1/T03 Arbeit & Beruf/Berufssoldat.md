@@ -34,6 +34,9 @@ status: "new"
 > Mein Onkel ist Berufssoldat.
 > *My uncle is a professional soldier.*
 
+**Phrases & Expressions:**
+- **Mein Onkel ist Berufssoldat** — *My uncle is a professional soldier* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

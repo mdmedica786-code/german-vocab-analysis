@@ -27,6 +27,9 @@ status: "new"
 > Am Samstag ist die Party elternfrei.
 > *On Saturday the party is parent-free.*
 
+**Phrases & Expressions:**
+- **Am Samstag ist die Party elternfrei** — *On Saturday the party is parent-free* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7b (Miteinander)
 <!-- bank:end -->
 

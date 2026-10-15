@@ -29,6 +29,11 @@ status: "new"
 > Der Hund war abgemagert und hungrig.
 > *The dog was emaciated and hungry.*
 
+**Phrases & Expressions:**
+- **stark abgemagert** — *emaciated; very thin*
+- **abgemagert aussehen** — *emaciated; very thin*
+- **ein abgemagerter Körper** — *emaciated; very thin*
+
 **Collocations**
 - stark abgemagert
 - abgemagert aussehen

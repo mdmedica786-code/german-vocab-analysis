@@ -34,6 +34,9 @@ status: "new"
 > Plastikflaschen belasten die Umwelt.
 > *Plastic bottles burden the environment.*
 
+**Phrases & Expressions:**
+- **Plastikflaschen belasten die Umwelt** — *Plastic bottles burden the environment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 4a (Umweltfreundlich?)
 <!-- bank:end -->
 

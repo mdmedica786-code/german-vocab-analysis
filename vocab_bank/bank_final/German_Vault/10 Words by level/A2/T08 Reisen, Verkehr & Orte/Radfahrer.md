@@ -35,6 +35,9 @@ status: "new"
 > Der Radfahrer hält an der roten Ampel an.
 > *The cyclist stops at the red light.*
 
+**Phrases & Expressions:**
+- **Der Radfahrer hält an der roten Ampel an** — *The cyclist stops at the red light* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

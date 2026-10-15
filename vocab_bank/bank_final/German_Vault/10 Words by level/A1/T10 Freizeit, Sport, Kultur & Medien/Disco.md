@@ -35,6 +35,9 @@ status: "new"
 > Heute abend gehen wir in die Disco tanzen.
 > *Tonight we're going dancing at the disco.*
 
+**Phrases & Expressions:**
+- **Heute abend gehen wir in die Disco tanzen** — *Tonight we're going dancing at the disco* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8b (Leben in der Stadt) · Goethe word list A1
 <!-- bank:end -->
 

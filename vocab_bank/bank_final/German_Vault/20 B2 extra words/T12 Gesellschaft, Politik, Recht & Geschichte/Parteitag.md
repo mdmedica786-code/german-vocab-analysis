@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Parteitag wurde der neue Vorsitzende gewählt.
 > *At the party conference the new chairman was elected.*
 
+**Phrases & Expressions:**
+- **auf dem Parteitag** — *party conference*
+- **einen Parteitag abhalten** — *party conference*
+- **Parteitag beschließt** — *party conference*
+
 **Collocations**
 - auf dem Parteitag
 - einen Parteitag abhalten

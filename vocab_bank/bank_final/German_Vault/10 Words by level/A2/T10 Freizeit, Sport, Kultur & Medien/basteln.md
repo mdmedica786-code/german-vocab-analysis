@@ -33,6 +33,9 @@ status: "new"
 > Die Kinder haben etwas gebastelt.
 > *The children made something.*
 
+**Phrases & Expressions:**
+- **Die Kinder haben etwas gebastelt** — *The children made something* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 2b (Sportlich, sportlich) · Goethe word list A2
 <!-- bank:end -->
 

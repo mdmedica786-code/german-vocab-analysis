@@ -31,6 +31,10 @@ status: "new"
 > Die Firma hat für nächstes Jahr einen Umsatz von zehn Millionen Euro anvisiert.
 > *The company is targeting a turnover of ten million euros next year.*
 
+**Phrases & Expressions:**
+- **ein Ziel anvisieren** — *to aim for; to target*
+- **einen Termin anvisieren** — *to aim for; to target*
+
 **Collocations**
 - ein Ziel anvisieren
 - einen Termin anvisieren

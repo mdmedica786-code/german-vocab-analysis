@@ -31,6 +31,14 @@ status: "new"
 > Ich bin schon ziemlich müde. Ich gehe ins Bett.
 > *I am already quite tired. I'm going to bed.*
 
+**Phrases & Expressions:**
+- **ziemlich sicher sein, dass ...** — to be fairly sure that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Es ist aus Holz/Metall/Plastik und ziemlich leicht.** — It is made of wood/metal/plastic and quite light. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ding beschreiben]] · B1)*
+- **ziemlich gut** — *quite*
+- **ziemlich viel** — *quite*
+- **ziemlich lange** — *quite*
+- **ziemlich sicher** — *quite*
+
 **Collocations**
 - ziemlich gut
 - ziemlich viel

@@ -33,6 +33,11 @@ status: "new"
 > Im Werkzeugkasten findest du Hammer, Zange und Schrauben.
 > *In the toolbox you will find a hammer, pliers and screws.*
 
+**Phrases & Expressions:**
+- **den Werkzeugkasten holen** — *toolbox*
+- **im Werkzeugkasten suchen** — *toolbox*
+- **ein gut gefüllter Werkzeugkasten** — *toolbox*
+
 **Collocations**
 - den Werkzeugkasten holen
 - im Werkzeugkasten suchen

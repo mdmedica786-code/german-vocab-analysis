@@ -34,6 +34,9 @@ status: "new"
 > Sie ist eine Powerfrau und schafft alles.
 > *She is a powerhouse and manages everything.*
 
+**Phrases & Expressions:**
+- **Sie ist eine Powerfrau und schafft alles** — *She is a powerhouse and manages everything* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

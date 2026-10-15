@@ -34,6 +34,9 @@ status: "new"
 > Der Pfad führt durch den Wald.
 > *The path leads through the forest.*
 
+**Phrases & Expressions:**
+- **Der Pfad führt durch den Wald** — *The path leads through the forest* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

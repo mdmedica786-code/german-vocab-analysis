@@ -35,6 +35,9 @@ status: "new"
 > Im Sommer schlafen wir manchmal im Zelt.
 > *In summer we sometimes sleep in a tent.*
 
+**Phrases & Expressions:**
+- **Im Sommer schlafen wir manchmal im Zelt** — *In summer we sometimes sleep in a tent* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1b (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

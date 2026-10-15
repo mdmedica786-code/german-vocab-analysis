@@ -34,6 +34,9 @@ status: "new"
 > Ein Relativsatz beschreibt ein Nomen näher.
 > *A relative clause describes a noun in more detail.*
 
+**Phrases & Expressions:**
+- **Ein Relativsatz beschreibt ein Nomen näher** — *A relative clause describes a noun in more detail* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7d (Gute Unterhaltung!)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Guten Appetit!
 > *Enjoy your meal!*
 
+**Phrases & Expressions:**
+- **guten Appetit** — enjoy your meal *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A1)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

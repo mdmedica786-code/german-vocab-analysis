@@ -29,6 +29,11 @@ status: "new"
 > In der Stadt fahren jetzt fahrerlose Busse.
 > *Driverless buses now run in the city.*
 
+**Phrases & Expressions:**
+- **ein fahrerloses Auto** — *driverless*
+- **fahrerlos fahren** — *driverless*
+- **fahrerlose Busse** — *driverless*
+
 **Collocations**
 - ein fahrerloses Auto
 - fahrerlos fahren

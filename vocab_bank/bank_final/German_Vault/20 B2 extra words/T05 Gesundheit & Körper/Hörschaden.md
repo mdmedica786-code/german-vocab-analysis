@@ -33,6 +33,11 @@ status: "new"
 > Zu laute Musik kann einen Hörschaden verursachen.
 > *Music that is too loud can cause hearing damage.*
 
+**Phrases & Expressions:**
+- **einen Hörschaden erleiden** — *hearing damage*
+- **einen Hörschaden haben** — *hearing damage*
+- **Hörschäden vermeiden** — *hearing damage*
+
 **Collocations**
 - einen Hörschaden erleiden
 - einen Hörschaden haben

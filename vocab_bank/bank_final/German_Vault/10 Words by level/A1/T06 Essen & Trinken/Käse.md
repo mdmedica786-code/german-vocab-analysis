@@ -35,6 +35,9 @@ status: "new"
 > Isst du lieber Käse oder Wurst?
 > *Do you prefer cheese or sausage?*
 
+**Phrases & Expressions:**
+- **Isst du lieber Käse oder Wurst** — *Do you prefer cheese or sausage* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

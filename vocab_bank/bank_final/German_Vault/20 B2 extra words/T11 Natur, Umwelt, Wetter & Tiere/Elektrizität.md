@@ -33,6 +33,11 @@ status: "new"
 > Im Haus fiel plötzlich der Strom aus. Ohne Elektrizität funktioniert nichts mehr.
 > *Suddenly the power failed in the house. Without electricity nothing works any more.*
 
+**Phrases & Expressions:**
+- **Elektrizität erzeugen** — *electricity*
+- **Elektrizität sparen** — *electricity*
+- **ohne Elektrizität auskommen** — *electricity*
+
 **Collocations**
 - Elektrizität erzeugen
 - Elektrizität sparen

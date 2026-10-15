@@ -31,6 +31,11 @@ status: "new"
 > Ich muss die App noch updaten.
 > *I still have to update the app.*
 
+**Phrases & Expressions:**
+- **eine App updaten** — *to update*
+- **die Software updaten** — *to update*
+- **den Computer updaten** — *to update*
+
 **Collocations**
 - eine App updaten
 - die Software updaten

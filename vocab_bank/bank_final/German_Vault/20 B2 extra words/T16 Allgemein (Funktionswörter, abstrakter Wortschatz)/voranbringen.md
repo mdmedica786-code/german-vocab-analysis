@@ -32,6 +32,11 @@ status: "new"
 > Die neue Software soll das Projekt voranbringen.
 > *The new software is meant to move the project forward.*
 
+**Phrases & Expressions:**
+- **ein Projekt voranbringen** — *to advance; to move forward; to further*
+- **die Forschung voranbringen** — *to advance; to move forward; to further*
+- **die Entwicklung voranbringen** — *to advance; to move forward; to further*
+
 **Collocations**
 - ein Projekt voranbringen
 - die Forschung voranbringen

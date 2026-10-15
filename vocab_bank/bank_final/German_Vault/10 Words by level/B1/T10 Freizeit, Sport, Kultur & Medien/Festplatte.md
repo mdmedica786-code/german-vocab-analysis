@@ -34,6 +34,9 @@ status: "new"
 > Mein Computer hat eine große Festplatte.
 > *My computer has a large hard drive.*
 
+**Phrases & Expressions:**
+- **Mein Computer hat eine große Festplatte** — *My computer has a large hard drive* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

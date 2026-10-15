@@ -33,6 +33,11 @@ status: "new"
 > Wegen des Unfalls gab es auf der Autobahn ein Verkehrschaos.
 > *Because of the accident there was traffic chaos on the motorway.*
 
+**Phrases & Expressions:**
+- **ein Verkehrschaos verursachen** — *traffic chaos*
+- **im Verkehrschaos stecken** — *traffic chaos*
+- **das tägliche Verkehrschaos** — *traffic chaos*
+
 **Collocations**
 - ein Verkehrschaos verursachen
 - im Verkehrschaos stecken

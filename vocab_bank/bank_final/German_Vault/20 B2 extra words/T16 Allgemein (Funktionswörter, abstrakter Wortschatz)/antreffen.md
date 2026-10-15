@@ -32,6 +32,11 @@ status: "new"
 > Wir haben ihn zu Hause nicht angetroffen.
 > *We did not find him at home.*
 
+**Phrases & Expressions:**
+- **jemanden antreffen** — *to find (someone); to come across*
+- **jemanden zu Hause antreffen** — *to find (someone); to come across*
+- **schwer anzutreffen** — *to find (someone); to come across*
+
 **Collocations**
 - jemanden antreffen
 - jemanden zu Hause antreffen

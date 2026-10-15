@@ -33,6 +33,12 @@ status: "new"
 > Der Verband wird um den Rumpf gewickelt.
 > *The bandage is wound around the torso.*
 
+**Phrases & Expressions:**
+- **Rumpf und Gliedmaßen** — *torso; trunk*
+- **den Rumpf beugen** — *torso; trunk*
+- **den Rumpf stabilisieren** — *torso; trunk*
+- **Verletzung am Rumpf** — *torso; trunk*
+
 **Collocations**
 - Rumpf und Gliedmaßen
 - den Rumpf beugen

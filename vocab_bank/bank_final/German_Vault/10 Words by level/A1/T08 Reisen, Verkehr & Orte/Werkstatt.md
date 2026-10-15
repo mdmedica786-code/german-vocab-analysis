@@ -35,6 +35,9 @@ status: "new"
 > Mein Auto ist kaputt. Es ist in der Werkstatt.
 > *My car is broken. It is in the garage.*
 
+**Phrases & Expressions:**
+- **Mein Auto ist kaputt. Es ist in der Werkstatt** — *My car is broken. It is in the garage* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 1 ÜB (Studium und Beruf) · Goethe word list A2
 <!-- bank:end -->
 

@@ -30,6 +30,10 @@ status: "new"
 > „Aufstehen“ ist ein trennbares Verb.
 > *'Aufstehen' is a separable verb.*
 
+**Phrases & Expressions:**
+- **trennbare Verben** — *separable (separable verbs)*
+- **trennbar sein** — *separable (separable verbs)*
+
 **Collocations**
 - trennbare Verben
 - trennbar sein

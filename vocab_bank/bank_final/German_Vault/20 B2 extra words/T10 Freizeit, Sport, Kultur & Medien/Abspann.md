@@ -33,6 +33,11 @@ status: "new"
 > Im Abspann stehen alle Namen der Mitwirkenden.
 > *The closing credits list all the contributors' names.*
 
+**Phrases & Expressions:**
+- **im Abspann** — *closing credits*
+- **den Abspann lesen** — *closing credits*
+- **nach dem Abspann** — *closing credits*
+
 **Collocations**
 - im Abspann
 - den Abspann lesen

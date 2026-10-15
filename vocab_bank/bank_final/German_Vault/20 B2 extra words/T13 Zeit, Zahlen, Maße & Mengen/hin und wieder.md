@@ -29,6 +29,10 @@ status: "new"
 > Wir gehen hin und wieder ins Kino.
 > *We go to the cinema now and then.*
 
+**Phrases & Expressions:**
+- **ab und zu** — *now and then*
+- **gelegentlich** — *now and then*
+
 **Collocations**
 - ab und zu
 - gelegentlich

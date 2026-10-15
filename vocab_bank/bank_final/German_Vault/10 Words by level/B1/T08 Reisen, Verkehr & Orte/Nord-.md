@@ -31,6 +31,9 @@ status: "new"
 > Nord- und Süddeutschland unterscheiden sich im Dialekt.
 > *North and South Germany differ in dialect.*
 
+**Phrases & Expressions:**
+- **Nord- und Süddeutschland unterscheiden sich im Dialekt** — *North and South Germany differ in dialect* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

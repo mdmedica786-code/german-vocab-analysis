@@ -34,6 +34,9 @@ status: "new"
 > Mein Arbeitsort ist Köln.
 > *My place of work is Cologne.*
 
+**Phrases & Expressions:**
+- **Mein Arbeitsort ist Köln** — *My place of work is Cologne* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

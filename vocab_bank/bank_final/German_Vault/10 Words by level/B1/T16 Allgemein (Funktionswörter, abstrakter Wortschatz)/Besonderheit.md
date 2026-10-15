@@ -34,6 +34,9 @@ status: "new"
 > Eine Besonderheit dieser Stadt ist ihre Lage am Fluss.
 > *A special feature of this city is its location on the river.*
 
+**Phrases & Expressions:**
+- **Eine Besonderheit dieser Stadt ist ihre Lage am Fluss** — *A special feature of this city is its location on the river* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 10b (Miteinander)
 <!-- bank:end -->
 

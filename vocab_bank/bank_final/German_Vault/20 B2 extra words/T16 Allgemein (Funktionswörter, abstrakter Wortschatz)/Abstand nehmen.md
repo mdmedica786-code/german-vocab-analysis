@@ -26,6 +26,11 @@ status: "new"
 > Wir haben von dem Kauf Abstand genommen.
 > *We refrained from the purchase.*
 
+**Phrases & Expressions:**
+- **von etwas Abstand nehmen** — *to refrain; to distance oneself*
+- **Abstand von einem Plan nehmen** — *to refrain; to distance oneself*
+- **davon Abstand nehmen, zu** — *to refrain; to distance oneself*
+
 **Collocations**
 - von etwas Abstand nehmen
 - Abstand von einem Plan nehmen

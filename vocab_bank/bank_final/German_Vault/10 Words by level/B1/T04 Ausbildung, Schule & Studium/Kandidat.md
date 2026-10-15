@@ -35,6 +35,9 @@ status: "new"
 > Wie viele Kandidaten kommen zur Prüfung?
 > *How many candidates are coming to the exam?*
 
+**Phrases & Expressions:**
+- **Wie viele Kandidaten kommen zur Prüfung** — *How many candidates are coming to the exam* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

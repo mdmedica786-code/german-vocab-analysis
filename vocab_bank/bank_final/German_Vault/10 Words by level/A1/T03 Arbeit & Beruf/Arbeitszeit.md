@@ -34,6 +34,9 @@ status: "new"
 > Meine Arbeitszeit beginnt um acht Uhr.
 > *My working hours begin at eight o'clock.*
 
+**Phrases & Expressions:**
+- **Wie sind die Arbeitszeiten geregelt?** — How are the working hours arranged? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Arbeitszeit ansprechen]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!)
 <!-- bank:end -->
 

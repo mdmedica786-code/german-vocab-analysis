@@ -32,6 +32,12 @@ status: "new"
 > Wir gestalten den Unterricht selbst.
 > *We organise the lesson ourselves.*
 
+**Phrases & Expressions:**
+- **den Alltag gestalten** — *to design; to shape; to organise*
+- **die Zukunft gestalten** — *to design; to shape; to organise*
+- **einen Raum gestalten** — *to design; to shape; to organise*
+- **die Freizeit gestalten** — *to design; to shape; to organise*
+
 **Collocations**
 - den Alltag gestalten
 - die Zukunft gestalten

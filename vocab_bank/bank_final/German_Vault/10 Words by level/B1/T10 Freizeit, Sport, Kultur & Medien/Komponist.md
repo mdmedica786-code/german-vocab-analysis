@@ -34,6 +34,9 @@ status: "new"
 > Beethoven war ein berühmter Komponist.
 > *Beethoven was a famous composer.*
 
+**Phrases & Expressions:**
+- **Beethoven war ein berühmter Komponist** — *Beethoven was a famous composer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 11b (Zwischenmenschliches)
 <!-- bank:end -->
 

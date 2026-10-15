@@ -34,6 +34,9 @@ status: "new"
 > Wirf das bitte in den Abfalleimer!
 > *Please throw this in the waste bin!*
 
+**Phrases & Expressions:**
+- **Wirf das bitte in den Abfalleimer** — *Please throw this in the waste bin* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

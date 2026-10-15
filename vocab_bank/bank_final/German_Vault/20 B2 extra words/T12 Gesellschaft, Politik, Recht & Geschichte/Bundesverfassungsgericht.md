@@ -33,6 +33,11 @@ status: "new"
 > Das Bundesverfassungsgericht hat das Gesetz für ungültig erklärt.
 > *The Federal Constitutional Court declared the law invalid.*
 
+**Phrases & Expressions:**
+- **vor dem Bundesverfassungsgericht klagen** — *Federal Constitutional Court*
+- **Urteil des Bundesverfassungsgerichts** — *Federal Constitutional Court*
+- **das Bundesverfassungsgericht entscheidet** — *Federal Constitutional Court*
+
 **Collocations**
 - vor dem Bundesverfassungsgericht klagen
 - Urteil des Bundesverfassungsgerichts

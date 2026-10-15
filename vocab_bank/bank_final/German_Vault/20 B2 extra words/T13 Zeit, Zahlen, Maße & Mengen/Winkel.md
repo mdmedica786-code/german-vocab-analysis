@@ -33,6 +33,11 @@ status: "new"
 > Der Winkel beträgt genau neunzig Grad.
 > *The angle is exactly ninety degrees.*
 
+**Phrases & Expressions:**
+- **ein rechter Winkel** — *angle; corner*
+- **in einem Winkel von** — *angle; corner*
+- **aus jedem Winkel** — *angle; corner*
+
 **Collocations**
 - ein rechter Winkel
 - in einem Winkel von

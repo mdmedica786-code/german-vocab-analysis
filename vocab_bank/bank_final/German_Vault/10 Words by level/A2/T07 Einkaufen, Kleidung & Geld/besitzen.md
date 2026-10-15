@@ -33,6 +33,12 @@ status: "new"
 > Besitzt Ihre Frau ein eigenes Auto?
 > *Does your wife own a car of her own?*
 
+**Phrases & Expressions:**
+- **ein Auto besitzen** — *to own*
+- **ein Haus besitzen** — *to own*
+- **die Fähigkeit besitzen** — *to own*
+- **nichts besitzen** — *to own*
+
 **Collocations**
 - ein Auto besitzen
 - ein Haus besitzen

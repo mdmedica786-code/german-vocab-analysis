@@ -35,6 +35,12 @@ status: "new"
 > Welche Tätigkeit würde Ihnen Spaß machen?
 > *What activity would you enjoy?*
 
+**Phrases & Expressions:**
+- **eine Tätigkeit ausüben** — *occupation*
+- **berufliche Tätigkeit** — *occupation*
+- **eine Tätigkeit beenden** — *occupation*
+- **freiberufliche Tätigkeit** — *occupation*
+
 **Collocations**
 - eine Tätigkeit ausüben
 - berufliche Tätigkeit

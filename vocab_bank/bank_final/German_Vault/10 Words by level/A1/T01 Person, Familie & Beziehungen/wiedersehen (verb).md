@@ -33,6 +33,14 @@ status: "new"
 > Ich möchte dich bald wiedersehen.
 > *I would like to see you again soon.*
 
+**Phrases & Expressions:**
+- **immer wieder** — again and again *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **immer und immer wieder** — again and again *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **hin und wieder** — now and then *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **wieder einmal** — once again *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **es sieht aus, als ob ...** — it looks as if ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **auf Wiedersehen** — goodbye *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A1)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

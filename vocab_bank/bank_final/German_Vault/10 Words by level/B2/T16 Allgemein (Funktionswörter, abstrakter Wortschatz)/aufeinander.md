@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Wir müssen aufeinander achten.
 > *We have to look out for each other.*
+
+**Phrases & Expressions:**
+- **Wir müssen aufeinander achten** — *We have to look out for each other* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

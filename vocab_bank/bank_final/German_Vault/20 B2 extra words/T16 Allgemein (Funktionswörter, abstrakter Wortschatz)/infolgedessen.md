@@ -29,6 +29,9 @@ status: "new"
 > Es hat stark geregnet, infolgedessen sind viele Straßen überflutet.
 > *It rained heavily, and as a result many streets are flooded.*
 
+**Phrases & Expressions:**
+- **Infolgedessen kam es zu Verzögerungen.** — As a result, there were delays. *([[B2-10 Bedingungen, Folgen und irreale Wünsche|Folgen ausdrücken]] · B2)*
+
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > In der Talkshow diskutierten drei Politiker über die Rente.
 > *In the talk show three politicians discussed pensions.*
 
+**Phrases & Expressions:**
+- **in einer Talkshow auftreten** — *talk show*
+- **eine Talkshow moderieren** — *talk show*
+- **Gast in einer Talkshow** — *talk show*
+
 **Collocations**
 - in einer Talkshow auftreten
 - eine Talkshow moderieren

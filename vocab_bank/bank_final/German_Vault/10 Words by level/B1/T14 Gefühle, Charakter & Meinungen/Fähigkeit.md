@@ -35,6 +35,12 @@ status: "new"
 > In seiner Position braucht man die Fähigkeit, andere zu überzeugen.
 > *In his position you need the ability to convince others.*
 
+**Phrases & Expressions:**
+- **die Fähigkeit besitzen** — *ability*
+- **Fähigkeiten entwickeln** — *ability*
+- **die Fähigkeit, zu ...** — *ability*
+- **besondere Fähigkeiten** — *ability*
+
 **Collocations**
 - die Fähigkeit besitzen
 - Fähigkeiten entwickeln

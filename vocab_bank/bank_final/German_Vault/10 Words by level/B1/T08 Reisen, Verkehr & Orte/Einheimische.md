@@ -34,6 +34,9 @@ status: "new"
 > Die Einheimischen kennen die besten Restaurants.
 > *The locals know the best restaurants.*
 
+**Phrases & Expressions:**
+- **Die Einheimischen kennen die besten Restaurants** — *The locals know the best restaurants* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

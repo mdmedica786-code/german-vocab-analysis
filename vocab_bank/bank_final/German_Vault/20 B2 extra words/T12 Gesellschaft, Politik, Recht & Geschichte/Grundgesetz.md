@@ -33,6 +33,11 @@ status: "new"
 > Im Grundgesetz steht, dass die Würde des Menschen unantastbar ist.
 > *The Basic Law states that human dignity is inviolable.*
 
+**Phrases & Expressions:**
+- **im Grundgesetz stehen** — *Basic Law (German constitution)*
+- **das Grundgesetz ändern** — *Basic Law (German constitution)*
+- **nach dem Grundgesetz** — *Basic Law (German constitution)*
+
 **Collocations**
 - im Grundgesetz stehen
 - das Grundgesetz ändern

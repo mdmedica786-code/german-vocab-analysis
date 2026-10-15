@@ -29,6 +29,11 @@ status: "new"
 > Der Stein ist porös und saugt Wasser auf.
 > *The stone is porous and soaks up water.*
 
+**Phrases & Expressions:**
+- **poröses Material** — *porous*
+- **porös werden** — *porous*
+- **ein poröser Boden** — *porous*
+
 **Collocations**
 - poröses Material
 - porös werden

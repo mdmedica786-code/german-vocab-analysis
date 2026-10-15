@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das ist nur ein Gerücht.
 > *That is only a rumour.*
+
+**Phrases & Expressions:**
+- **Das ist nur ein Gerücht** — *That is only a rumour* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

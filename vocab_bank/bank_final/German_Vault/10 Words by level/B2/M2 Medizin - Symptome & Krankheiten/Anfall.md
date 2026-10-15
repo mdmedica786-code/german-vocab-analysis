@@ -33,6 +33,13 @@ status: "new"
 > Der Patient hatte einen epileptischen Anfall.
 > *The patient had an epileptic seizure.*
 
+**Phrases & Expressions:**
+- **Wie lange dauert ein Anfall ungefähr?** — About how long does an attack last? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Dauer erfragen]] · B1)*
+- **einen Anfall erleiden** — *attack; seizure; fit*
+- **epileptischer Anfall** — *attack; seizure; fit*
+- **einen Anfall auslösen** — *attack; seizure; fit*
+- **ein plötzlicher Anfall** — *attack; seizure; fit*
+
 **Collocations**
 - einen Anfall erleiden
 - epileptischer Anfall

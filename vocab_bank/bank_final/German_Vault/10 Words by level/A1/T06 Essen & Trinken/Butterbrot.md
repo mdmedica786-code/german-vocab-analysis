@@ -34,6 +34,9 @@ status: "new"
 > Zum Frühstück esse ich ein Butterbrot mit Käse.
 > *For breakfast I eat a slice of bread and butter with cheese.*
 
+**Phrases & Expressions:**
+- **Zum Frühstück esse ich ein Butterbrot mit Käse** — *For breakfast I eat a slice of bread and butter with cheese* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1a (Guten Tag!)
 <!-- bank:end -->
 

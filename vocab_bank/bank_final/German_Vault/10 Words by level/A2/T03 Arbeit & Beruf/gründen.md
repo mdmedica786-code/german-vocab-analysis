@@ -33,6 +33,14 @@ status: "new"
 > Frau Bauer hat eine eigene Firma gegründet.
 > *Mrs Bauer has founded her own company.*
 
+**Phrases & Expressions:**
+- **aus welchen Gründen auch immer** — for whatever reasons *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B2)*
+- **Aus diesen Gründen bin ich für ...** — For these reasons I am in favour of ... *([[B1-14 Forumsbeitrag und Leserbrief schreiben|Abschluss formulieren]] · B1)*
+- **Gibt es etwas, das wir aus kulturellen oder religiösen Gründen beachten sollen?** — Is there anything we should consider for cultural or religious reasons? *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Kulturelle Sensibilität]] · B2)*
+- **eine Firma gründen** — *to found*
+- **eine Familie gründen** — *to found*
+- **einen Verein gründen** — *to found*
+
 **Collocations**
 - eine Firma gründen
 - eine Familie gründen

@@ -33,6 +33,11 @@ status: "new"
 > Wir haben mehrere Optionen zur Auswahl.
 > *We have several options to choose from.*
 
+**Phrases & Expressions:**
+- **eine Option haben** — *option*
+- **alle Optionen prüfen** — *option*
+- **keine andere Option** — *option*
+
 **Collocations**
 - eine Option haben
 - alle Optionen prüfen

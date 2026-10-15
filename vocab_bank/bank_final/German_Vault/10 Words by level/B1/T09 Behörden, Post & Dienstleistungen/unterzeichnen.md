@@ -32,6 +32,9 @@ status: "new"
 > Bitte unterzeichnen Sie den Vertrag.
 > *Please sign the contract.*
 
+**Phrases & Expressions:**
+- **Bitte unterzeichnen Sie den Vertrag** — *Please sign the contract* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 11a (Miteinander)
 <!-- bank:end -->
 

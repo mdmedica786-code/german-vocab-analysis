@@ -33,6 +33,11 @@ status: "new"
 > Der Fahrer drückte auf die Hupe.
 > *The driver pressed the horn.*
 
+**Phrases & Expressions:**
+- **auf die Hupe drücken** — *horn (of a car)*
+- **die Hupe betätigen** — *horn (of a car)*
+- **eine laute Hupe** — *horn (of a car)*
+
 **Collocations**
 - auf die Hupe drücken
 - die Hupe betätigen

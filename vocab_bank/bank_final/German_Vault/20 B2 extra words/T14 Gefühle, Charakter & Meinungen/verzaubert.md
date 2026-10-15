@@ -29,6 +29,11 @@ status: "new"
 > Die Kinder waren von dem Märchen völlig verzaubert.
 > *The children were completely enchanted by the fairy tale.*
 
+**Phrases & Expressions:**
+- **verzaubert sein** — *enchanted; spellbound*
+- **ein verzauberter Wald** — *enchanted; spellbound*
+- **von etwas verzaubert sein** — *enchanted; spellbound*
+
 **Collocations**
 - verzaubert sein
 - ein verzauberter Wald

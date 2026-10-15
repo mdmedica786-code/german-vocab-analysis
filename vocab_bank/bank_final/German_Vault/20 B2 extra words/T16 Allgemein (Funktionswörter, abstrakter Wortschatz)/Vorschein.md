@@ -33,6 +33,11 @@ status: "new"
 > Beim Umzug kam das alte Foto zum Vorschein.
 > *When moving the old photo turned up.*
 
+**Phrases & Expressions:**
+- **zum Vorschein kommen** — *appearance (only in "zum Vorschein kommen")*
+- **zum Vorschein bringen** — *appearance (only in "zum Vorschein kommen")*
+- **ans Licht kommen** — *appearance (only in "zum Vorschein kommen")*
+
 **Collocations**
 - zum Vorschein kommen
 - zum Vorschein bringen

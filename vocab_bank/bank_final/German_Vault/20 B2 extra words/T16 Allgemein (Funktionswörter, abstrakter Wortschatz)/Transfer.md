@@ -33,6 +33,11 @@ status: "new"
 > Der Transfer vom Flughafen zum Hotel ist inklusive.
 > *The transfer from the airport to the hotel is included.*
 
+**Phrases & Expressions:**
+- **ein Transfer zum Hotel** — *transfer; transport*
+- **der Transfer von Wissen** — *transfer; transport*
+- **ein Transfer von Geld** — *transfer; transport*
+
 **Collocations**
 - ein Transfer zum Hotel
 - der Transfer von Wissen

@@ -29,6 +29,11 @@ status: "new"
 > Die Kosten sind gut kontrollierbar.
 > *The costs are easy to control.*
 
+**Phrases & Expressions:**
+- **gut kontrollierbar** — *controllable; verifiable*
+- **kontrollierbar sein** — *controllable; verifiable*
+- **schwer kontrollierbar** — *controllable; verifiable*
+
 **Collocations**
 - gut kontrollierbar
 - kontrollierbar sein

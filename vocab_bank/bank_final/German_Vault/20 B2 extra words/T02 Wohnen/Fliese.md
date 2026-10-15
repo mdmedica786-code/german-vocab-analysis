@@ -33,6 +33,11 @@ status: "new"
 > Im Bad liegen weiße Fliesen.
 > *There are white tiles in the bathroom.*
 
+**Phrases & Expressions:**
+- **Fliesen legen** — *tile*
+- **gefliester Boden** — *tile*
+- **eine Fliese ist gesprungen** — *tile*
+
 **Collocations**
 - Fliesen legen
 - gefliester Boden

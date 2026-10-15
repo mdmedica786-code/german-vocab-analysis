@@ -34,6 +34,9 @@ status: "new"
 > Ich ziehe abends meinen Schlafanzug an.
 > *In the evening I put on my pyjamas.*
 
+**Phrases & Expressions:**
+- **Ich ziehe abends meinen Schlafanzug an** — *In the evening I put on my pyjamas* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

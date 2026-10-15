@@ -30,6 +30,9 @@ status: "new"
 > Mein Gepäck ist gegen Diebstahl versichert.
 > *My luggage is insured against theft.*
 
+**Phrases & Expressions:**
+- **Mein Gepäck ist gegen Diebstahl versichert** — *My luggage is insured against theft* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 6c (Ganz schön mobil)
 <!-- bank:end -->
 

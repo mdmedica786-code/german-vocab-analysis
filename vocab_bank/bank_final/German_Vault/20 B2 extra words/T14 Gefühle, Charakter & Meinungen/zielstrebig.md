@@ -29,6 +29,11 @@ status: "new"
 > Sie verfolgt zielstrebig ihre Karriere.
 > *She pursues her career with determination.*
 
+**Phrases & Expressions:**
+- **zielstrebig arbeiten** — *determined; purposeful*
+- **ein zielstrebiger Mensch** — *determined; purposeful*
+- **zielstrebig vorgehen** — *determined; purposeful*
+
 **Collocations**
 - zielstrebig arbeiten
 - ein zielstrebiger Mensch

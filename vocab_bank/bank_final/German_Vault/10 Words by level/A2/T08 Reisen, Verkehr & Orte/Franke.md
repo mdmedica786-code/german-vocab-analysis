@@ -34,6 +34,9 @@ status: "new"
 > Der Franke kommt aus Nürnberg.
 > *The Franconian comes from Nuremberg.*
 
+**Phrases & Expressions:**
+- **Der Franke kommt aus Nürnberg** — *The Franconian comes from Nuremberg* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

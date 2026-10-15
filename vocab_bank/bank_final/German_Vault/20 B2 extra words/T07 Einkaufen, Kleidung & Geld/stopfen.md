@@ -31,6 +31,11 @@ status: "new"
 > Sie stopfte die Socken mit Nadel und Faden.
 > *She darned the socks with needle and thread.*
 
+**Phrases & Expressions:**
+- **ein Loch stopfen** — *to stuff; to darn; to plug*
+- **Socken stopfen** — *to stuff; to darn; to plug*
+- **sich den Bauch vollstopfen** — *to stuff; to darn; to plug*
+
 **Collocations**
 - ein Loch stopfen
 - Socken stopfen

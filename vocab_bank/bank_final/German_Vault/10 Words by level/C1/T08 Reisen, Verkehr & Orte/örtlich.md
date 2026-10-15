@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die örtliche Polizei untersucht den Fall.
 > *The local police are investigating the case.*
+
+**Phrases & Expressions:**
+- **Bei einer örtlichen Betäubung sind Sie wach, spüren aber keinen Schmerz.** — With local anaesthesia you are awake but feel no pain. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Narkose erklären]] · B2)*
 <!-- bank:end -->
 
 ## My notes

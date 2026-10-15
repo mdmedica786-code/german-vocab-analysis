@@ -33,6 +33,11 @@ status: "new"
 > Laut Prüfungsordnung darf man die Prüfung nur zweimal wiederholen.
 > *According to the examination regulations you may only repeat the exam twice.*
 
+**Phrases & Expressions:**
+- **laut Prüfungsordnung** — *examination regulations*
+- **die Prüfungsordnung beachten** — *examination regulations*
+- **eine neue Prüfungsordnung** — *examination regulations*
+
 **Collocations**
 - laut Prüfungsordnung
 - die Prüfungsordnung beachten

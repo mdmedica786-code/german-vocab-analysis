@@ -35,6 +35,9 @@ status: "new"
 > Hast du keinen größeren Topf? Ich möchte Kartoffeln kochen.
 > *Don't you have a bigger pot? I want to cook potatoes.*
 
+**Phrases & Expressions:**
+- **Hast du keinen größeren Topf? Ich möchte Kartoffeln kochen** — *Don't you have a bigger pot? I want to cook potatoes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 10d (Kunststücke) · Goethe word list A2
 <!-- bank:end -->
 

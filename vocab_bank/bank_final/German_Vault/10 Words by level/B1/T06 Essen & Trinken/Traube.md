@@ -34,6 +34,9 @@ status: "new"
 > Zum Nachtisch gibt es Trauben.
 > *For dessert there are grapes.*
 
+**Phrases & Expressions:**
+- **Zum Nachtisch gibt es Trauben** — *For dessert there are grapes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 2 (Gute Reise!)
 <!-- bank:end -->
 

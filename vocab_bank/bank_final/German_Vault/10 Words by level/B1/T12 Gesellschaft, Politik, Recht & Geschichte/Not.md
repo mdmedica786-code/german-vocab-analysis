@@ -34,6 +34,9 @@ status: "new"
 > In der Not helfen sich die Nachbarn.
 > *In times of need the neighbours help each other.*
 
+**Phrases & Expressions:**
+- **In der Not helfen sich die Nachbarn** — *In times of need the neighbours help each other* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Im Sommer sitzen wir gern im Biergarten.
 > *In summer we like to sit in the beer garden.*
 
+**Phrases & Expressions:**
+- **Im Sommer sitzen wir gern im Biergarten** — *In summer we like to sit in the beer garden* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden)
 <!-- bank:end -->
 

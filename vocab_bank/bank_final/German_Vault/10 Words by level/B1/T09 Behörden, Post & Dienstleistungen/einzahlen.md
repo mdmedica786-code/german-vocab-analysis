@@ -34,6 +34,9 @@ status: "new"
 > Ich habe gestern Geld auf mein Bankkonto eingezahlt.
 > *Yesterday I paid money into my bank account.*
 
+**Phrases & Expressions:**
+- **Ich habe gestern Geld auf mein Bankkonto eingezahlt** — *Yesterday I paid money into my bank account* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3a (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Jenseits der Grenze beginnt ein anderes Land.
 > *Beyond the border another country begins.*
+
+**Phrases & Expressions:**
+- **Jenseits der Grenze beginnt ein anderes Land** — *Beyond the border another country begins* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

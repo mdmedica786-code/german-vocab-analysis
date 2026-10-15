@@ -31,6 +31,9 @@ status: "new"
 > Die mündliche Prüfung ist erst nächste Woche.
 > *The oral exam is only next week.*
 
+**Phrases & Expressions:**
+- **Die mündliche Prüfung ist erst nächste Woche** — *The oral exam is only next week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 4a ÜB (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

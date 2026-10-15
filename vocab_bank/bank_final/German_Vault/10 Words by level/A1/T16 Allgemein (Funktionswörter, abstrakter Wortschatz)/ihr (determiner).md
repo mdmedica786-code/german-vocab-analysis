@@ -38,6 +38,9 @@ status: "new"
 > Joggt ihr morgen auch?
 > *Are you going jogging tomorrow as well?*
 
+**Phrases & Expressions:**
+- **Joggt ihr morgen auch** — *Are you going jogging tomorrow as well* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Ich besuche einen Deutschkurs an der Volkshochschule.
 > *I attend a German course at the adult education centre.*
 
+**Phrases & Expressions:**
+- **Ich besuche einen Deutschkurs an der Volkshochschule** — *I attend a German course at the adult education centre* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7c ÜB (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

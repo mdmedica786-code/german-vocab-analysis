@@ -33,6 +33,9 @@ status: "new"
 > Du musst immer alle Daten im Computer sichern.
 > *You must always back up all data on the computer.*
 
+**Phrases & Expressions:**
+- **Du musst immer alle Daten im Computer sichern** — *You must always back up all data on the computer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 2c (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

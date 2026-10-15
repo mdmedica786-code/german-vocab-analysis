@@ -31,6 +31,9 @@ status: "new"
 > Der Zug hat voraussichtlich 20 Minuten Verspätung.
 > *The train is expected to be 20 minutes late.*
 
+**Phrases & Expressions:**
+- **Der Zug hat voraussichtlich 20 Minuten Verspätung** — *The train is expected to be 20 minutes late* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,10 @@ status: "new"
 > Der Minister muss über die Ausgaben Rechenschaft ablegen.
 > *The minister has to account for the expenditure.*
 
+**Phrases & Expressions:**
+- **Rechenschaft ablegen über + Akk.** — *to account for; to render account*
+- **Rechenschaft verlangen** — *to account for; to render account*
+
 **Collocations**
 - Rechenschaft ablegen über + Akk.
 - Rechenschaft verlangen

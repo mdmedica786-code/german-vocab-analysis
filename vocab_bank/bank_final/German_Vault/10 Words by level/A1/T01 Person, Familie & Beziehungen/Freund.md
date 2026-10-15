@@ -35,6 +35,9 @@ status: "new"
 > Das ist ein Freund von mir.
 > *That's a friend of mine.*
 
+**Phrases & Expressions:**
+- **Das ist ein Freund von mir** — *That's a friend of mine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 2a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

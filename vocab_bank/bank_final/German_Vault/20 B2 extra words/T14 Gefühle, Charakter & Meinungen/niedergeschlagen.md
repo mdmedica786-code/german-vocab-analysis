@@ -29,6 +29,12 @@ status: "new"
 > Nach der Absage war er tagelang niedergeschlagen.
 > *After the rejection he was downcast for days.*
 
+**Phrases & Expressions:**
+- **Fühlen Sie sich in letzter Zeit niedergeschlagen?** — Have you been feeling down lately? *([[FSP-06 Systemanamnese (Organsysteme)|Psyche und Schlaf]] · B2)*
+- **niedergeschlagen sein** — *downcast; dejected*
+- **niedergeschlagen wirken** — *downcast; dejected*
+- **sich niedergeschlagen fühlen** — *downcast; dejected*
+
 **Collocations**
 - niedergeschlagen sein
 - niedergeschlagen wirken

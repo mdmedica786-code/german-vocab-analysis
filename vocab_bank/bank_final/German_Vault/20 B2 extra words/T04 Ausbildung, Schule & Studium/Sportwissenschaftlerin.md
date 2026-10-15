@@ -33,6 +33,11 @@ status: "new"
 > Die Sportwissenschaftlerin berät das Nationalteam.
 > *The sports scientist advises the national team.*
 
+**Phrases & Expressions:**
+- **eine bekannte Sportwissenschaftlerin** — *sports scientist (female)*
+- **als Sportwissenschaftlerin arbeiten** — *sports scientist (female)*
+- **Sportwissenschaftlerin werden** — *sports scientist (female)*
+
 **Collocations**
 - eine bekannte Sportwissenschaftlerin
 - als Sportwissenschaftlerin arbeiten

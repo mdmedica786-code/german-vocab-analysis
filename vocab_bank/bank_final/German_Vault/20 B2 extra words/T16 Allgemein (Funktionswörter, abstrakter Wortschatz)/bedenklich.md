@@ -29,6 +29,11 @@ status: "new"
 > Die Entwicklung auf dem Arbeitsmarkt ist bedenklich.
 > *The development on the job market is worrying.*
 
+**Phrases & Expressions:**
+- **eine bedenkliche Entwicklung** — *questionable; worrying*
+- **gesundheitlich bedenklich** — *questionable; worrying*
+- **bedenklich stimmen** — *questionable; worrying*
+
 **Collocations**
 - eine bedenkliche Entwicklung
 - gesundheitlich bedenklich

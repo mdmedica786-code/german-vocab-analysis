@@ -33,6 +33,11 @@ status: "new"
 > Die Polizei nahm sofort die Verfolgung auf.
 > *The police immediately took up the pursuit.*
 
+**Phrases & Expressions:**
+- **die Verfolgung aufnehmen** — *pursuit; persecution*
+- **politische Verfolgung** — *pursuit; persecution*
+- **der Verfolgung entkommen** — *pursuit; persecution*
+
 **Collocations**
 - die Verfolgung aufnehmen
 - politische Verfolgung

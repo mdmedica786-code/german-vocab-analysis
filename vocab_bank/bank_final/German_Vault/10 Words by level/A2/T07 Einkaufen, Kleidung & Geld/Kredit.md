@@ -35,6 +35,9 @@ status: "new"
 > Ich brauche einen Kredit von der Bank.
 > *I need a loan from the bank.*
 
+**Phrases & Expressions:**
+- **Ich brauche einen Kredit von der Bank** — *I need a loan from the bank* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt) · Goethe word list A2
 <!-- bank:end -->
 

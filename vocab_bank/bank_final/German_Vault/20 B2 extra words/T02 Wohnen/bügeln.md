@@ -31,6 +31,11 @@ status: "new"
 > Ich muss noch drei Hemden bügeln.
 > *I still have to iron three shirts.*
 
+**Phrases & Expressions:**
+- **ein Hemd bügeln** — *to iron*
+- **Wäsche bügeln** — *to iron*
+- **bügelfrei** — *to iron*
+
 **Collocations**
 - ein Hemd bügeln
 - Wäsche bügeln

@@ -34,6 +34,9 @@ status: "new"
 > Das Gelände der Klinik ist sehr groß.
 > *The grounds of the clinic are very large.*
 
+**Phrases & Expressions:**
+- **Das Gelände der Klinik ist sehr groß** — *The grounds of the clinic are very large* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 1a ÜB (Zwischenmenschliches)
 <!-- bank:end -->
 

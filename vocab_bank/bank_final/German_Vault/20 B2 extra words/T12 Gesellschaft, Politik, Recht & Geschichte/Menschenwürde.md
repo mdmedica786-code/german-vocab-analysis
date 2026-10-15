@@ -33,6 +33,11 @@ status: "new"
 > Die Würde des Menschen, die Menschenwürde, ist unantastbar.
 > *The dignity of human beings is inviolable.*
 
+**Phrases & Expressions:**
+- **die Menschenwürde achten** — *human dignity*
+- **Verletzung der Menschenwürde** — *human dignity*
+- **in Menschenwürde leben** — *human dignity*
+
 **Collocations**
 - die Menschenwürde achten
 - Verletzung der Menschenwürde

@@ -30,6 +30,9 @@ status: "new"
 > Nach dem Sport habe ich einen steifen Nacken.
 > *After sport I have a stiff neck.*
 
+**Phrases & Expressions:**
+- **Nach dem Sport habe ich einen steifen Nacken** — *After sport I have a stiff neck* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

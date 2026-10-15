@@ -31,6 +31,10 @@ status: "new"
 > Da kommt er ja gerade.
 > *Here he comes now.*
 
+**Phrases & Expressions:**
+- **Mir fällt das Wort gerade nicht ein.** — I can't think of the word right now. *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Wort umschreiben]] · B1)*
+- **Ich nehme an, dass er gerade im Meeting ist.** — I assume he is in a meeting at the moment. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Vermutung ausdrücken]] · B2)*
+
 **Source:** Netzwerk neu A1 K8 2a (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

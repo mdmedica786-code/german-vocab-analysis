@@ -35,6 +35,9 @@ status: "new"
 > Für Pommes frites braucht man Kartoffeln.
 > *You need potatoes for chips.*
 
+**Phrases & Expressions:**
+- **Für Pommes frites braucht man Kartoffeln** — *You need potatoes for chips* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

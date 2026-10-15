@@ -34,6 +34,11 @@ status: "new"
 > Die Mode-Designerin präsentiert ihre neue Kollektion.
 > *The fashion designer presents her new collection.*
 
+**Phrases & Expressions:**
+- **eine bekannte Mode-Designerin** — *fashion designer (female)*
+- **als Mode-Designerin arbeiten** — *fashion designer (female)*
+- **eine junge Mode-Designerin** — *fashion designer (female)*
+
 **Collocations**
 - eine bekannte Mode-Designerin
 - als Mode-Designerin arbeiten

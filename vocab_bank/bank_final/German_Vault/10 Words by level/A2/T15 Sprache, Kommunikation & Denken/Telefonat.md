@@ -34,6 +34,9 @@ status: "new"
 > Nach dem Telefonat rufe ich dich zurück.
 > *After the phone call I'll call you back.*
 
+**Phrases & Expressions:**
+- **Nach dem Telefonat rufe ich dich zurück** — *After the phone call I'll call you back* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 11b (Arbeitswelten)
 <!-- bank:end -->
 

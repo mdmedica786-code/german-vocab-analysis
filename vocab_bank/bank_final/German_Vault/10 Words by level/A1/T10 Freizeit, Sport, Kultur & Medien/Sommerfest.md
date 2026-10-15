@@ -34,6 +34,9 @@ status: "new"
 > Unser Sommerfest findet im Garten statt.
 > *Our summer party takes place in the garden.*
 
+**Phrases & Expressions:**
+- **Unser Sommerfest findet im Garten statt** — *Our summer party takes place in the garden* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 3a (Arbeitsalltag)
 <!-- bank:end -->
 

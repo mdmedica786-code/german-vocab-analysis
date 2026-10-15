@@ -33,6 +33,9 @@ status: "new"
 > Ich halte den Lärm nicht mehr aus.
 > *I can't stand the noise any more.*
 
+**Phrases & Expressions:**
+- **Wie lange hält der Schmerz an?** — How long does the pain last? *([[FSP-03 Schmerzanamnese|Dauer und Rhythmus]] · A2)*
+
 **Source:** Netzwerk neu B1 K4 3 (Arbeitswelt)
 <!-- bank:end -->
 

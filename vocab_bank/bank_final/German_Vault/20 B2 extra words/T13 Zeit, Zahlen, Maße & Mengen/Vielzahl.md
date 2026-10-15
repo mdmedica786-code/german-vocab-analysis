@@ -33,6 +33,12 @@ status: "new"
 > Eine Vielzahl von Menschen kam zur Demonstration.
 > *A large number of people came to the demonstration.*
 
+**Phrases & Expressions:**
+- **eine Vielzahl von ...** — a large number of ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · C1)*
+- **eine Vielzahl von** — *large number; multitude*
+- **in einer Vielzahl von Fällen** — *large number; multitude*
+- **die Vielzahl der Fälle** — *large number; multitude*
+
 **Collocations**
 - eine Vielzahl von
 - in einer Vielzahl von Fällen

@@ -36,6 +36,12 @@ status: "new"
 > Meine Cousine möchte gern Krankenschwester werden.
 > *My cousin would like to become a nurse.*
 
+**Phrases & Expressions:**
+- **als Krankenschwester arbeiten** — *nurse*
+- **die Krankenschwester rufen** — *nurse*
+- **die Krankenschwester kommt** — *nurse*
+- **Krankenschwester und Arzt** — *nurse*
+
 **Collocations**
 - als Krankenschwester arbeiten
 - die Krankenschwester rufen

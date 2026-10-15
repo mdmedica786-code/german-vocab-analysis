@@ -34,6 +34,9 @@ status: "new"
 > Die Hausbewohner feiern ein Fest im Hof.
 > *The residents of the building are holding a party in the courtyard.*
 
+**Phrases & Expressions:**
+- **Die Hausbewohner feiern ein Fest im Hof** — *The residents of the building are holding a party in the courtyard* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

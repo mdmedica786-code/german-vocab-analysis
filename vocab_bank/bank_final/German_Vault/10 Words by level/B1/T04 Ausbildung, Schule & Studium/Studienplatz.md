@@ -34,6 +34,9 @@ status: "new"
 > Sie hat einen Studienplatz in Medizin bekommen.
 > *She got a place to study medicine.*
 
+**Phrases & Expressions:**
+- **Sie hat einen Studienplatz in Medizin bekommen** — *She got a place to study medicine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 2b (Zwischenmenschliches)
 <!-- bank:end -->
 

@@ -30,6 +30,9 @@ status: "new"
 > Nach mehrmaliger Aufforderung ging er endlich.
 > *After repeated requests he finally left.*
 
+**Phrases & Expressions:**
+- **Nach mehrmaliger Aufforderung ging er endlich** — *After repeated requests he finally left* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12e (Zusammen leben)
 <!-- bank:end -->
 

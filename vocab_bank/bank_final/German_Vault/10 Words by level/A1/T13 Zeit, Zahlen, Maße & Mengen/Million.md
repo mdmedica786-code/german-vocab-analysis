@@ -35,6 +35,9 @@ status: "new"
 > Deutschland hat über achtzig Millionen Einwohner.
 > *Germany has more than eighty million inhabitants.*
 
+**Phrases & Expressions:**
+- **Deutschland hat über achtzig Millionen Einwohner** — *Germany has more than eighty million inhabitants* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

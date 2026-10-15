@@ -33,6 +33,14 @@ status: "new"
 > Wir haben eine Zeit lang in Wien gewohnt.
 > *We lived in Vienna for a while.*
 
+**Phrases & Expressions:**
+- **wie lange ...?** — how long ...? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **so lange, bis ...** — until ... *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **schon lange nicht mehr** — not for a long time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B2)*
+- **schon lange** — for a long time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **lange Zeit** — a long time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **lange nicht** — not for a long time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+
 **Collocations**
 - eine Zeit lang
 - zwei Stunden lang

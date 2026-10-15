@@ -29,6 +29,11 @@ status: "new"
 > Das neue Gesetz ist sehr umstritten.
 > *The new law is highly controversial.*
 
+**Phrases & Expressions:**
+- **ein umstrittenes Thema** — *controversial; disputed*
+- **höchst umstritten** — *controversial; disputed*
+- **umstritten sein** — *controversial; disputed*
+
 **Collocations**
 - ein umstrittenes Thema
 - höchst umstritten

@@ -26,6 +26,9 @@ status: "new"
 > Der Leiter erstattet dem Vorstand Bericht.
 > *The manager reports to the board.*
 
+**Phrases & Expressions:**
+- **Bericht erstatten über + Akk.** — *to report; to give a report*
+
 **Collocations**
 - Bericht erstatten über + Akk.
 

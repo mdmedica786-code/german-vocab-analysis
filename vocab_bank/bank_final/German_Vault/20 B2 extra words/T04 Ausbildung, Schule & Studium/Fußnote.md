@@ -33,6 +33,11 @@ status: "new"
 > Die Quelle steht in der Fußnote auf Seite 12.
 > *The source is in the footnote on page 12.*
 
+**Phrases & Expressions:**
+- **eine Fußnote einfügen** — *footnote*
+- **in der Fußnote nachlesen** — *footnote*
+- **Fußnote setzen** — *footnote*
+
 **Collocations**
 - eine Fußnote einfügen
 - in der Fußnote nachlesen

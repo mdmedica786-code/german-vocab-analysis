@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Im Winter brennt ein Feuer im Kamin.
 > *In winter a fire burns in the fireplace.*
+
+**Phrases & Expressions:**
+- **Im Winter brennt ein Feuer im Kamin** — *In winter a fire burns in the fireplace* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -32,6 +32,11 @@ status: "new"
 > Die Schäferin hütet die Schafe.
 > *The shepherdess tends the sheep.*
 
+**Phrases & Expressions:**
+- **Kinder hüten** — *to guard; to look after; to tend*
+- **ein Geheimnis hüten** — *to guard; to look after; to tend*
+- **sich vor etwas hüten** — *to guard; to look after; to tend*
+
 **Collocations**
 - Kinder hüten
 - ein Geheimnis hüten

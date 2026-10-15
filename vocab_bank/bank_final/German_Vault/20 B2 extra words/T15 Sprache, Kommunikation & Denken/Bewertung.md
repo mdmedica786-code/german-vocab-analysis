@@ -33,6 +33,11 @@ status: "new"
 > Die Bewertung der Arbeit erfolgt nach klaren Kriterien.
 > *The assessment of the work follows clear criteria.*
 
+**Phrases & Expressions:**
+- **eine Bewertung abgeben** — *assessment; rating*
+- **positive Bewertung** — *assessment; rating*
+- **Bewertung nach Kriterien** — *assessment; rating*
+
 **Collocations**
 - eine Bewertung abgeben
 - positive Bewertung

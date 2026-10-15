@@ -31,6 +31,11 @@ status: "new"
 > Seine Frage hat mich völlig überrumpelt.
 > *His question caught me completely off guard.*
 
+**Phrases & Expressions:**
+- **jemanden überrumpeln** — *to take by surprise; to catch off guard*
+- **sich überrumpeln lassen** — *to take by surprise; to catch off guard*
+- **völlig überrumpelt sein** — *to take by surprise; to catch off guard*
+
 **Collocations**
 - jemanden überrumpeln
 - sich überrumpeln lassen

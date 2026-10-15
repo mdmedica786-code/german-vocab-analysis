@@ -33,6 +33,11 @@ status: "new"
 > Die Zersiedelung der Landschaft ist ein Problem im Umland.
 > *Urban sprawl is a problem in the surrounding areas.*
 
+**Phrases & Expressions:**
+- **Zersiedelung stoppen** — *urban sprawl*
+- **gegen Zersiedelung** — *urban sprawl*
+- **fortschreitende Zersiedelung** — *urban sprawl*
+
 **Collocations**
 - Zersiedelung stoppen
 - gegen Zersiedelung

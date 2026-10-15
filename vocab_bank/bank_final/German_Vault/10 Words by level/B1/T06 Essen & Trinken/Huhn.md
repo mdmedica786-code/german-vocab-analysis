@@ -34,6 +34,9 @@ status: "new"
 > Das Huhn legt jeden Tag ein Ei.
 > *The hen lays an egg every day.*
 
+**Phrases & Expressions:**
+- **Das Huhn legt jeden Tag ein Ei** — *The hen lays an egg every day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 1a (Umweltfreundlich?)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Das Land will seine Klimaziele bis 2040 erreichen.
 > *The country wants to reach its climate targets by 2040.*
 
+**Phrases & Expressions:**
+- **Klimaziele erreichen** — *climate target*
+- **Klimaziele verfehlen** — *climate target*
+- **ehrgeizige Klimaziele** — *climate target*
+
 **Collocations**
 - Klimaziele erreichen
 - Klimaziele verfehlen

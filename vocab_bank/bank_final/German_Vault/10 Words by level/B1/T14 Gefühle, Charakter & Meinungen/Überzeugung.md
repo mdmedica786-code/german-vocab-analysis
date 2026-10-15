@@ -34,6 +34,9 @@ status: "new"
 > Wie bist du zu dieser Überzeugung gekommen?
 > *How did you come to this conviction?*
 
+**Phrases & Expressions:**
+- **Wie bist du zu dieser Überzeugung gekommen** — *How did you come to this conviction* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

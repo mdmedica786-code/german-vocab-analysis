@@ -30,6 +30,9 @@ status: "new"
 > Die Stimme kam mir vertraut vor.
 > *The voice sounded familiar to me.*
 
+**Phrases & Expressions:**
+- **Die Stimme kam mir vertraut vor** — *The voice sounded familiar to me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen)
 <!-- bank:end -->
 

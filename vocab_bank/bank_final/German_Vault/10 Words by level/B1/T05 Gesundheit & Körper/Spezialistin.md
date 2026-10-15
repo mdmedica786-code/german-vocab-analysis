@@ -35,6 +35,9 @@ status: "new"
 > Mein Arzt hat mich zur Spezialistin geschickt.
 > *My doctor sent me to a (female) specialist.*
 
+**Phrases & Expressions:**
+- **Mein Arzt hat mich zur Spezialistin geschickt** — *My doctor sent me to a (female) specialist* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

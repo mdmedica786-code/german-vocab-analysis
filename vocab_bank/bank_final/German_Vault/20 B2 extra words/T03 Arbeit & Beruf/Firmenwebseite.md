@@ -30,6 +30,11 @@ status: "new"
 > Alle Stellenangebote stehen auf der Firmenwebseite.
 > *All job offers are on the company website.*
 
+**Phrases & Expressions:**
+- **auf der Firmenwebseite** — *company website*
+- **die Firmenwebseite besuchen** — *company website*
+- **die Firmenwebseite aktualisieren** — *company website*
+
 **Collocations**
 - auf der Firmenwebseite
 - die Firmenwebseite besuchen

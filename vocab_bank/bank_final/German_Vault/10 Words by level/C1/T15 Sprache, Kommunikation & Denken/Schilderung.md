@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Schilderung des Unfalls war genau.
 > *The account of the accident was precise.*
+
+**Phrases & Expressions:**
+- **Die Schilderung des Unfalls war genau** — *The account of the accident was precise* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

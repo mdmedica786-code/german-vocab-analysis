@@ -32,6 +32,9 @@ status: "new"
 > Sie ist schon sehr gut im Team integriert.
 > *She is already very well integrated into the team.*
 
+**Phrases & Expressions:**
+- **Sie ist schon sehr gut im Team integriert** — *She is already very well integrated into the team* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

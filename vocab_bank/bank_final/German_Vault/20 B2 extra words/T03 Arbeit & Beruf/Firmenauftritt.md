@@ -30,6 +30,11 @@ status: "new"
 > Der Firmenauftritt im Internet wurde neu gestaltet.
 > *The company's online appearance has been redesigned.*
 
+**Phrases & Expressions:**
+- **den Firmenauftritt gestalten** — *corporate appearance; company's public image*
+- **ein moderner Firmenauftritt** — *corporate appearance; company's public image*
+- **der Firmenauftritt im Netz** — *corporate appearance; company's public image*
+
 **Collocations**
 - den Firmenauftritt gestalten
 - ein moderner Firmenauftritt

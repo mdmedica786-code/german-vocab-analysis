@@ -33,6 +33,11 @@ status: "new"
 > Viele Städter haben einen Kleingarten am Stadtrand.
 > *Many city dwellers have an allotment garden on the outskirts.*
 
+**Phrases & Expressions:**
+- **einen Kleingarten pachten** — *allotment garden*
+- **im Kleingarten arbeiten** — *allotment garden*
+- **Kleingartenverein** — *allotment garden*
+
 **Collocations**
 - einen Kleingarten pachten
 - im Kleingarten arbeiten

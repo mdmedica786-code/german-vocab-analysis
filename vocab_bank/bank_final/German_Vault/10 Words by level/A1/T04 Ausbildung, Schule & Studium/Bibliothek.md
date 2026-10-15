@@ -35,6 +35,9 @@ status: "new"
 > Sie lernt jeden Tag in der Bibliothek.
 > *She studies in the library every day.*
 
+**Phrases & Expressions:**
+- **Sie lernt jeden Tag in der Bibliothek** — *She studies in the library every day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 1a (Alltag und Familie) · Goethe word list A2
 <!-- bank:end -->
 

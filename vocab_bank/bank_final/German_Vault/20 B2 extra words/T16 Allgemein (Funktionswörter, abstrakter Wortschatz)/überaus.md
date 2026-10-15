@@ -29,6 +29,11 @@ status: "new"
 > Die Reise war überaus anstrengend.
 > *The journey was extremely tiring.*
 
+**Phrases & Expressions:**
+- **überaus freundlich** — *extremely; exceedingly*
+- **überaus wichtig** — *extremely; exceedingly*
+- **überaus erfolgreich** — *extremely; exceedingly*
+
 **Collocations**
 - überaus freundlich
 - überaus wichtig

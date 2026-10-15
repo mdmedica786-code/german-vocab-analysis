@@ -35,6 +35,9 @@ status: "new"
 > Am Wochenende ist in der Stadt ein Musik-Festival.
 > *There is a music festival in the city at the weekend.*
 
+**Phrases & Expressions:**
+- **Am Wochenende ist in der Stadt ein Musik-Festival** — *There is a music festival in the city at the weekend* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

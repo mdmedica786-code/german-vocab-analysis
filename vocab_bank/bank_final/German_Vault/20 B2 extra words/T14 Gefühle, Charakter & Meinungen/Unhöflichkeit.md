@@ -33,6 +33,11 @@ status: "new"
 > Seine Unhöflichkeit hat alle verärgert.
 > *His rudeness annoyed everyone.*
 
+**Phrases & Expressions:**
+- **eine Unhöflichkeit begehen** — *rudeness; impoliteness*
+- **aus Unhöflichkeit** — *rudeness; impoliteness*
+- **pure Unhöflichkeit** — *rudeness; impoliteness*
+
 **Collocations**
 - eine Unhöflichkeit begehen
 - aus Unhöflichkeit

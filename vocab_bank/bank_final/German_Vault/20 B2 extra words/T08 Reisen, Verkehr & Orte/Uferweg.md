@@ -33,6 +33,11 @@ status: "new"
 > Am Uferweg kann man gut spazieren gehen.
 > *You can go for a good walk along the riverside path.*
 
+**Phrases & Expressions:**
+- **am Uferweg** — *riverside path; path along the shore*
+- **auf dem Uferweg joggen** — *riverside path; path along the shore*
+- **ein schöner Uferweg** — *riverside path; path along the shore*
+
 **Collocations**
 - am Uferweg
 - auf dem Uferweg joggen

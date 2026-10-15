@@ -30,6 +30,9 @@ status: "new"
 > Der Verein ist wohltätig.
 > *The association is charitable.*
 
+**Phrases & Expressions:**
+- **Der Verein ist wohltätig** — *The association is charitable* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11e (Geld regiert die Welt?)
 <!-- bank:end -->
 

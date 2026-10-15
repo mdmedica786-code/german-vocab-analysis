@@ -30,6 +30,11 @@ status: "new"
 > In vier Wochen habe ich einen Kontrolltermin beim Arzt.
 > *In four weeks I have a follow-up appointment with the doctor.*
 
+**Phrases & Expressions:**
+- **einen Kontrolltermin vereinbaren** — *follow-up appointment; check-up appointment*
+- **zum Kontrolltermin gehen** — *follow-up appointment; check-up appointment*
+- **ein Kontrolltermin in drei Monaten** — *follow-up appointment; check-up appointment*
+
 **Collocations**
 - einen Kontrolltermin vereinbaren
 - zum Kontrolltermin gehen

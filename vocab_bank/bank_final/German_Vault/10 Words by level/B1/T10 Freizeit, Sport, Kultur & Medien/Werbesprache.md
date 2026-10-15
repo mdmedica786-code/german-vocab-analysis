@@ -34,6 +34,9 @@ status: "new"
 > Die Werbesprache ist oft übertrieben.
 > *Advertising language is often exaggerated.*
 
+**Phrases & Expressions:**
+- **Die Werbesprache ist oft übertrieben** — *Advertising language is often exaggerated* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 10b (Das ist ja praktisch!)
 <!-- bank:end -->
 

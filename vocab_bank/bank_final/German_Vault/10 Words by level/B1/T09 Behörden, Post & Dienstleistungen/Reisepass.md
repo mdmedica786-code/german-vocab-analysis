@@ -34,6 +34,9 @@ status: "new"
 > Vergessen Sie Ihren Reisepass nicht.
 > *Don't forget your passport.*
 
+**Phrases & Expressions:**
+- **Vergessen Sie Ihren Reisepass nicht** — *Don't forget your passport* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 6c ÜB (Veränderungen)
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Bedienung war sehr freundlich.
 > *The service was very friendly.*
+
+**Phrases & Expressions:**
+- **Die Bedienung war sehr freundlich** — *The service was very friendly* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

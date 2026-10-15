@@ -34,6 +34,9 @@ status: "new"
 > Der Zweite Weltkrieg endete 1945.
 > *The Second World War ended in 1945.*
 
+**Phrases & Expressions:**
+- **Der Zweite Weltkrieg endete 1945** — *The Second World War ended in 1945* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 10b (Miteinander)
 <!-- bank:end -->
 

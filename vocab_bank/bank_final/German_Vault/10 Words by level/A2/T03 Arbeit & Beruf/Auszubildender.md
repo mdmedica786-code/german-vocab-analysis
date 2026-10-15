@@ -34,6 +34,9 @@ status: "new"
 > Der Auszubildende lernt den Beruf in der Praxis.
 > *The apprentice learns the profession in practice.*
 
+**Phrases & Expressions:**
+- **Der Auszubildende lernt den Beruf in der Praxis** — *The apprentice learns the profession in practice* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

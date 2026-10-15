@@ -35,6 +35,9 @@ status: "new"
 > Wir haben Witze erzählt und viel gelacht.
 > *We told jokes and laughed a lot.*
 
+**Phrases & Expressions:**
+- **Wir haben Witze erzählt und viel gelacht** — *We told jokes and laughed a lot* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12b (Immer online?) · Goethe word list A2
 <!-- bank:end -->
 

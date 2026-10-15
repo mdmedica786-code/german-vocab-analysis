@@ -32,6 +32,11 @@ status: "new"
 > Der Film wurde für den Preis nominiert.
 > *The film was nominated for the prize.*
 
+**Phrases & Expressions:**
+- **für einen Preis nominieren** — *to nominate*
+- **jemanden nominieren** — *to nominate*
+- **nominiert werden** — *to nominate*
+
 **Collocations**
 - für einen Preis nominieren
 - jemanden nominieren

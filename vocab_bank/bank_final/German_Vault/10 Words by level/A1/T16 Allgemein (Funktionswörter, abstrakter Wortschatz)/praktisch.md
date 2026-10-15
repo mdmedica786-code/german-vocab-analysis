@@ -31,6 +31,13 @@ status: "new"
 > Mit meinem neuen Handy kann ich auch im Internet surfen und Fotos machen. Das finde ich sehr praktisch.
 > *With my new mobile I can also surf the internet and take photos. I find that very practical.*
 
+**Phrases & Expressions:**
+- **Während meines Praktischen Jahres habe ich ... gesammelt.** — During my practical year I gained ... *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Berufserfahrung beschreiben]] · B2)*
+- **praktisch denken** — *practical*
+- **praktische Erfahrung** — *practical*
+- **sehr praktisch** — *practical*
+- **praktisch veranlagt** — *practical*
+
 **Collocations**
 - praktisch denken
 - praktische Erfahrung

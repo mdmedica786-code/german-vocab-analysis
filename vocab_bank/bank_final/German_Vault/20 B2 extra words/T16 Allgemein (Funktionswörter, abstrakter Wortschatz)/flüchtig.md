@@ -29,6 +29,11 @@ status: "new"
 > Ich habe den Vertrag nur flüchtig gelesen.
 > *I only read the contract cursorily.*
 
+**Phrases & Expressions:**
+- **flüchtig lesen** — *fleeting; cursory; fugitive*
+- **ein flüchtiger Blick** — *fleeting; cursory; fugitive*
+- **der Täter ist flüchtig** — *fleeting; cursory; fugitive*
+
 **Collocations**
 - flüchtig lesen
 - ein flüchtiger Blick

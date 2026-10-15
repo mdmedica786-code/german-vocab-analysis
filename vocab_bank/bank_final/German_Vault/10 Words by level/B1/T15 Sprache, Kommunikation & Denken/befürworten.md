@@ -32,6 +32,9 @@ status: "new"
 > Ich befürworte den Vorschlag.
 > *I support the proposal.*
 
+**Phrases & Expressions:**
+- **Ich befürworte diesen Vorschlag, weil ...** — I support this proposal because ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Position beziehen]] · B2)*
+
 **Source:** Netzwerk neu B1 K12 10c (Geld regiert die Welt?)
 <!-- bank:end -->
 

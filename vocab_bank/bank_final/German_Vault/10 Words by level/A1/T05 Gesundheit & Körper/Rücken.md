@@ -35,6 +35,10 @@ status: "new"
 > Mein Rücken tut mir weh.
 > *My back hurts.*
 
+**Phrases & Expressions:**
+- **Legen Sie sich bitte auf den Rücken.** — Please lie on your back. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Lagerung]] · A2)*
+- **Ich muss Sie auch noch kurz am Rücken untersuchen.** — I also need to examine your back briefly. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Untersuchung ankündigen]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 6a (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

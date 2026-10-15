@@ -34,6 +34,9 @@ status: "new"
 > Diversität bereichert ein Team.
 > *Diversity enriches a team.*
 
+**Phrases & Expressions:**
+- **Diversität bereichert ein Team** — *Diversity enriches a team* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 8b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

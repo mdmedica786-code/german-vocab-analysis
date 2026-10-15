@@ -31,6 +31,10 @@ status: "new"
 > Das warme Wetter begünstigt das Wachstum der Pflanzen.
 > *The warm weather favours the growth of the plants.*
 
+**Phrases & Expressions:**
+- **eine Entwicklung begünstigen** — *to favour; to facilitate*
+- **steuerlich begünstigt** — *to favour; to facilitate*
+
 **Collocations**
 - eine Entwicklung begünstigen
 - steuerlich begünstigt

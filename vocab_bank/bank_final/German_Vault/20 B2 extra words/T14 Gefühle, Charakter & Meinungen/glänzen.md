@@ -31,6 +31,11 @@ status: "new"
 > Bei der Prüfung konnte sie mit ihrem Wissen glänzen.
 > *In the exam she could shine with her knowledge.*
 
+**Phrases & Expressions:**
+- **vor Sauberkeit glänzen** — *to shine; to gleam; to excel*
+- **mit etwas glänzen** — *to shine; to gleam; to excel*
+- **in der Sonne glänzen** — *to shine; to gleam; to excel*
+
 **Collocations**
 - vor Sauberkeit glänzen
 - mit etwas glänzen

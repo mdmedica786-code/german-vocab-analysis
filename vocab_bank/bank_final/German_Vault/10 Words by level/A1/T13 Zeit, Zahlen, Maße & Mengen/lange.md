@@ -31,6 +31,14 @@ status: "new"
 > Wie lange fährt der Zug von Hamburg nach Berlin?
 > *How long does the train take from Hamburg to Berlin?*
 
+**Phrases & Expressions:**
+- **wie lange ...?** — how long ...? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **so lange, bis ...** — until ... *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **schon lange nicht mehr** — not for a long time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B2)*
+- **schon lange** — for a long time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **lange Zeit** — a long time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **lange nicht** — not for a long time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+
 **Source:** Netzwerk neu A1 K5 2a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

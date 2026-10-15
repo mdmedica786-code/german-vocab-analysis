@@ -33,6 +33,11 @@ status: "new"
 > Das Gemüse friere ich in Gefrierbeuteln ein.
 > *I freeze the vegetables in freezer bags.*
 
+**Phrases & Expressions:**
+- **in einen Gefrierbeutel füllen** — *freezer bag*
+- **Gefrierbeutel beschriften** — *freezer bag*
+- **wiederverwendbare Gefrierbeutel** — *freezer bag*
+
 **Collocations**
 - in einen Gefrierbeutel füllen
 - Gefrierbeutel beschriften

@@ -33,6 +33,11 @@ status: "new"
 > Zu ihrem Aufgabengebiet gehört die Kundenberatung.
 > *Customer consulting is part of her area of responsibility.*
 
+**Phrases & Expressions:**
+- **ein breites Aufgabengebiet** — *area of responsibility; field of duties*
+- **das Aufgabengebiet erweitern** — *area of responsibility; field of duties*
+- **im Aufgabengebiet tätig sein** — *area of responsibility; field of duties*
+
 **Collocations**
 - ein breites Aufgabengebiet
 - das Aufgabengebiet erweitern

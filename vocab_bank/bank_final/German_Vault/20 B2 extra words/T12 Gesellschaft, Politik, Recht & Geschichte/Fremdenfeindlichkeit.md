@@ -33,6 +33,11 @@ status: "new"
 > Die Stadt will aktiv gegen Fremdenfeindlichkeit vorgehen.
 > *The city wants to take active steps against xenophobia.*
 
+**Phrases & Expressions:**
+- **gegen Fremdenfeindlichkeit** — *xenophobia*
+- **Fremdenfeindlichkeit bekämpfen** — *xenophobia*
+- **Fremdenfeindlichkeit und Rassismus** — *xenophobia*
+
 **Collocations**
 - gegen Fremdenfeindlichkeit
 - Fremdenfeindlichkeit bekämpfen

@@ -29,6 +29,11 @@ status: "new"
 > Die Webseite ist sehr übersichtlich gestaltet.
 > *The website is laid out very clearly.*
 
+**Phrases & Expressions:**
+- **übersichtlich gestaltet** — *clear; well laid out*
+- **eine übersichtliche Tabelle** — *clear; well laid out*
+- **übersichtlich gegliedert** — *clear; well laid out*
+
 **Collocations**
 - übersichtlich gestaltet
 - eine übersichtliche Tabelle

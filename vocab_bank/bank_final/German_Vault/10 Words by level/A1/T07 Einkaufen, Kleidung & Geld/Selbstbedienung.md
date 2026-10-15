@@ -34,6 +34,9 @@ status: "new"
 > In der Cafeteria gibt es Selbstbedienung.
 > *In the cafeteria there is self-service.*
 
+**Phrases & Expressions:**
+- **In der Cafeteria gibt es Selbstbedienung** — *In the cafeteria there is self-service* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden)
 <!-- bank:end -->
 

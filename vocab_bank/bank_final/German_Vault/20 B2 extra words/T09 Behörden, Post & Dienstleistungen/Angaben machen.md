@@ -26,6 +26,10 @@ status: "new"
 > Bitte machen Sie genaue Angaben zu Ihrer Person.
 > *Please give precise information about yourself.*
 
+**Phrases & Expressions:**
+- **Angaben machen zu + Dat.** — *to give information; to state*
+- **genaue Angaben machen** — *to give information; to state*
+
 **Collocations**
 - Angaben machen zu + Dat.
 - genaue Angaben machen

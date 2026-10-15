@@ -32,6 +32,9 @@ status: "new"
 > Tschüs, bis morgen!
 > *Bye, see you tomorrow!*
 
+**Phrases & Expressions:**
+- **Tschüs, bis bald, mach's gut!** — Bye, see you soon, take care! *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Verabschieden]] · A2)*
+
 **Source:** Netzwerk neu A1 K1 2a (Guten Tag!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Man erkennt die Wortgrenze an der Leerstelle.
 > *You recognise the word boundary by the space.*
 
+**Phrases & Expressions:**
+- **Man erkennt die Wortgrenze an der Leerstelle** — *You recognise the word boundary by the space* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 9a (Ganz schön mobil)
 <!-- bank:end -->
 

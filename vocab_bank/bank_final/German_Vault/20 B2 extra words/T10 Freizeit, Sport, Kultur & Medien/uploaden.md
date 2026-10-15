@@ -31,6 +31,11 @@ status: "new"
 > Er hat das Video auf die Plattform geuploadet.
 > *He uploaded the video to the platform.*
 
+**Phrases & Expressions:**
+- **ein Video uploaden** — *to upload*
+- **Bilder uploaden** — *to upload*
+- **Dateien uploaden** — *to upload*
+
 **Collocations**
 - ein Video uploaden
 - Bilder uploaden

@@ -33,6 +33,14 @@ status: "new"
 > Sie müssen erst eine Null wählen.
 > *You have to dial a zero first.*
 
+**Phrases & Expressions:**
+- **Ich habe dieses Thema gewählt, weil ...** — I chose this topic because ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Thema begründen]] · B1)*
+- **Im Notfall wählen Sie bitte die 112.** — In an emergency please dial 112. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Notfallnummer nennen]] · A2)*
+- **eine Nummer wählen** — *to choose; to dial; to vote*
+- **den Notruf wählen** — *to choose; to dial; to vote*
+- **einen Kandidaten wählen** — *to choose; to dial; to vote*
+- **ein Gericht wählen** — *to choose; to dial; to vote*
+
 **Collocations**
 - eine Nummer wählen
 - den Notruf wählen

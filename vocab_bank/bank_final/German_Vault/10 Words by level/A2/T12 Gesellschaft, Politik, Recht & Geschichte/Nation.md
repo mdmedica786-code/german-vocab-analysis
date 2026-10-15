@@ -31,6 +31,9 @@ status: "new"
 > Die Vereinten Nationen haben ihren Sitz in New York.
 > *The United Nations have their headquarters in New York.*
 
+**Phrases & Expressions:**
+- **Die Vereinten Nationen haben ihren Sitz in New York** — *The United Nations have their headquarters in New York* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 10a (Große und kleine Gefühle)
 <!-- bank:end -->
 

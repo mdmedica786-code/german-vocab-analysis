@@ -33,6 +33,11 @@ status: "new"
 > Ich schätze deine Offenheit.
 > *I appreciate your frankness.*
 
+**Phrases & Expressions:**
+- **in aller Offenheit** — *openness; frankness*
+- **Offenheit zeigen** — *openness; frankness*
+- **mit großer Offenheit** — *openness; frankness*
+
 **Collocations**
 - in aller Offenheit
 - Offenheit zeigen

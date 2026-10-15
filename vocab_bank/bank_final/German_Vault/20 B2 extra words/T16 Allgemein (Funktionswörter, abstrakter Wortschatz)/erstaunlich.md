@@ -29,6 +29,11 @@ status: "new"
 > Es ist erstaunlich, wie schnell sie lernt.
 > *It is astonishing how quickly she learns.*
 
+**Phrases & Expressions:**
+- **erstaunlich schnell** — *astonishing; surprising*
+- **eine erstaunliche Entwicklung** — *astonishing; surprising*
+- **erstaunlich viel** — *astonishing; surprising*
+
 **Collocations**
 - erstaunlich schnell
 - eine erstaunliche Entwicklung

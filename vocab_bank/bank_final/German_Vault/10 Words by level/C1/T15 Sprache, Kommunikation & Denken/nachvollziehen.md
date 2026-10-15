@@ -31,6 +31,9 @@ status: "new"
 > [!example] Beispiel
 > Ich kann deine Entscheidung gut nachvollziehen.
 > *I can easily understand your decision.*
+
+**Phrases & Expressions:**
+- **Ich kann deine Entscheidung gut nachvollziehen** — *I can easily understand your decision* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

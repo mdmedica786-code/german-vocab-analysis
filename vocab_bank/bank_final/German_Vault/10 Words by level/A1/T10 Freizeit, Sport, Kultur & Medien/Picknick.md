@@ -35,6 +35,9 @@ status: "new"
 > Am Sonntag machen wir ein Picknick.
 > *On Sunday we are having a picnic.*
 
+**Phrases & Expressions:**
+- **Am Sonntag machen wir ein Picknick** — *On Sunday we are having a picnic* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 3a (Zeit mit Freunden) · Goethe word list B1
 <!-- bank:end -->
 

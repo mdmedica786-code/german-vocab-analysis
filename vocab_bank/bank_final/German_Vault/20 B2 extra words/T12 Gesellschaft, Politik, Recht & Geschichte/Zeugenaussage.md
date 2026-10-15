@@ -33,6 +33,11 @@ status: "new"
 > Die Zeugenaussagen widersprechen sich.
 > *The witness statements contradict each other.*
 
+**Phrases & Expressions:**
+- **eine Zeugenaussage machen** — *witness statement*
+- **widersprüchliche Zeugenaussagen** — *witness statement*
+- **Zeugenaussage zu Protokoll geben** — *witness statement*
+
 **Collocations**
 - eine Zeugenaussage machen
 - widersprüchliche Zeugenaussagen

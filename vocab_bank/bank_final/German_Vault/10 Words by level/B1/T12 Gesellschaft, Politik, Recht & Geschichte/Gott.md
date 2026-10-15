@@ -34,6 +34,11 @@ status: "new"
 > Glaubst du an Gott?
 > *Do you believe in God?*
 
+**Phrases & Expressions:**
+- **Gott sei Dank** — thank God *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **mein Gott** — my God *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **grüß Gott** — hello (southern German/Austrian) *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

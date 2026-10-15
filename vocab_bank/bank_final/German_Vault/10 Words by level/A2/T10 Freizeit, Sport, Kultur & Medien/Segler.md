@@ -34,6 +34,9 @@ status: "new"
 > Der Segler fährt allein über den Atlantik.
 > *The sailor is crossing the Atlantic alone.*
 
+**Phrases & Expressions:**
+- **Der Segler fährt allein über den Atlantik** — *The sailor is crossing the Atlantic alone* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 10a (Große und kleine Gefühle)
 <!-- bank:end -->
 

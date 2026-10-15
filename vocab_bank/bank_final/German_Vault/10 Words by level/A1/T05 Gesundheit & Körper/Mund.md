@@ -35,6 +35,9 @@ status: "new"
 > Öffnen Sie den Mund.
 > *Open your mouth.*
 
+**Phrases & Expressions:**
+- **Jetzt schauen wir mal in deinen Hals. Mach bitte den Mund weit auf.** — Now let's have a look in your throat. Please open your mouth wide. *([[FSP-22 Kinder, Eltern und ältere Patienten|Kind untersuchen]] · A2)*
+
 **Source:** Netzwerk neu A1 K8 6b ÜB (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

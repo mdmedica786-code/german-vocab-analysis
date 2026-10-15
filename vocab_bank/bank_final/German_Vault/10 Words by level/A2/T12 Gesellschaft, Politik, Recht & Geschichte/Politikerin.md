@@ -35,6 +35,9 @@ status: "new"
 > Weißt du, wie diese Politikerin heißt?
 > *Do you know what this politician is called?*
 
+**Phrases & Expressions:**
+- **Weißt du, wie diese Politikerin heißt** — *Do you know what this politician is called* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8b (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

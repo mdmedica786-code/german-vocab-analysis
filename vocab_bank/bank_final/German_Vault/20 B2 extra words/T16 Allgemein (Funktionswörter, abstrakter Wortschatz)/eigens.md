@@ -29,6 +29,11 @@ status: "new"
 > Der Raum wurde eigens für das Treffen hergerichtet.
 > *The room was prepared specially for the meeting.*
 
+**Phrases & Expressions:**
+- **eigens für** — *specially; expressly*
+- **eigens angefertigt** — *specially; expressly*
+- **eigens dafür** — *specially; expressly*
+
 **Collocations**
 - eigens für
 - eigens angefertigt

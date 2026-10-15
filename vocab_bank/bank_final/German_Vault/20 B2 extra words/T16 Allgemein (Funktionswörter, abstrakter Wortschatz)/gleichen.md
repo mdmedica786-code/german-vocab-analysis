@@ -31,6 +31,13 @@ status: "new"
 > Der Sohn gleicht seinem Vater sehr.
 > *The son greatly resembles his father.*
 
+**Phrases & Expressions:**
+- **zur gleichen Zeit** — at the same time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Gehen Sie möglichst jeden Tag zur gleichen Zeit ins Bett.** — If possible, go to bed at the same time every day. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Schlafhygiene]] · B1)*
+- **einander gleichen** — *to resemble; to be like*
+- **dem Vater gleichen** — *to resemble; to be like*
+- **sich gleichen** — *to resemble; to be like*
+
 **Collocations**
 - einander gleichen
 - dem Vater gleichen

@@ -33,6 +33,11 @@ status: "new"
 > Das Schaubild zeigt die Entwicklung der Preise.
 > *The chart shows the development of prices.*
 
+**Phrases & Expressions:**
+- **ein Schaubild beschreiben** — *diagram; chart; graphic*
+- **ein Schaubild erstellen** — *diagram; chart; graphic*
+- **das Schaubild auswerten** — *diagram; chart; graphic*
+
 **Collocations**
 - ein Schaubild beschreiben
 - ein Schaubild erstellen

@@ -31,6 +31,12 @@ status: "new"
 > Was Sie da sagen, ist absolut falsch.
 > *What you are saying is absolutely wrong.*
 
+**Phrases & Expressions:**
+- **absolut sicher** — *absolutely*
+- **absolut richtig** — *absolutely*
+- **absolut notwendig** — *absolutely*
+- **absolut nicht** — *absolutely*
+
 **Collocations**
 - absolut sicher
 - absolut richtig

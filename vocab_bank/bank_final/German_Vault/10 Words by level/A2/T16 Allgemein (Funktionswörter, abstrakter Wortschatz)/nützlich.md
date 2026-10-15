@@ -31,6 +31,9 @@ status: "new"
 > Danke für den Tipp. Er war sehr nützlich.
 > *Thanks for the tip. It was very useful.*
 
+**Phrases & Expressions:**
+- **Danke für den Tipp. Er war sehr nützlich** — *Thanks for the tip. It was very useful* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 9a (Nach der Schulzeit) · Goethe word list A2
 <!-- bank:end -->
 

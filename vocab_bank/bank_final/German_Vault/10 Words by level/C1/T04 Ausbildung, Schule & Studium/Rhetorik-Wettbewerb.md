@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Sie hat den Rhetorik-Wettbewerb gewonnen.
 > *She won the rhetoric competition.*
+
+**Phrases & Expressions:**
+- **Sie hat den Rhetorik-Wettbewerb gewonnen** — *She won the rhetoric competition* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

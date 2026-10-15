@@ -31,6 +31,11 @@ status: "new"
 > Ich habe noch die letzten Karten ergattert.
 > *I managed to snap up the last tickets.*
 
+**Phrases & Expressions:**
+- **einen Platz ergattern** — *to snap up; to get hold of*
+- **Karten ergattern** — *to snap up; to get hold of*
+- **ein Schnäppchen ergattern** — *to snap up; to get hold of*
+
 **Collocations**
 - einen Platz ergattern
 - Karten ergattern

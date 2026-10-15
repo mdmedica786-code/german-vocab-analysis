@@ -35,6 +35,9 @@ status: "new"
 > Das Poster hängt über dem Bett.
 > *The poster hangs above the bed.*
 
+**Phrases & Expressions:**
+- **Das Poster hängt über dem Bett** — *The poster hangs above the bed* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 5b (Zusammen leben) · Goethe word list A2
 <!-- bank:end -->
 

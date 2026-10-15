@@ -33,6 +33,11 @@ status: "new"
 > Die Geschehnisse der letzten Tage beschäftigen uns alle.
 > *The events of the last few days concern us all.*
 
+**Phrases & Expressions:**
+- **ein schreckliches Geschehnis** — *event; occurrence*
+- **die Geschehnisse schildern** — *event; occurrence*
+- **über die Geschehnisse berichten** — *event; occurrence*
+
 **Collocations**
 - ein schreckliches Geschehnis
 - die Geschehnisse schildern

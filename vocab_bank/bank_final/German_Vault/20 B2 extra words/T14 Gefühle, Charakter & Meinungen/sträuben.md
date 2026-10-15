@@ -32,6 +32,11 @@ status: "new"
 > Er sträubt sich dagegen, zum Arzt zu gehen.
 > *He resists going to the doctor.*
 
+**Phrases & Expressions:**
+- **sich gegen etwas sträuben** — *to resist; to bristle*
+- **sich heftig sträuben** — *to resist; to bristle*
+- **sträuben sich die Haare** — *to resist; to bristle*
+
 **Collocations**
 - sich gegen etwas sträuben
 - sich heftig sträuben

@@ -33,6 +33,11 @@ status: "new"
 > Historiker streiten über die Ursachen des Krieges.
 > *Historians argue about the causes of the war.*
 
+**Phrases & Expressions:**
+- **ein bekannter Historiker** — *historian*
+- **Historiker und Archäologen** — *historian*
+- **als Historiker arbeiten** — *historian*
+
 **Collocations**
 - ein bekannter Historiker
 - Historiker und Archäologen

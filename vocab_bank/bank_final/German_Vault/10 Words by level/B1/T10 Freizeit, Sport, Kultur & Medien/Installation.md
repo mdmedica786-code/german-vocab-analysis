@@ -34,6 +34,9 @@ status: "new"
 > Die Installation im Museum besteht aus vielen Spiegeln.
 > *The installation in the museum consists of many mirrors.*
 
+**Phrases & Expressions:**
+- **Die Installation im Museum besteht aus vielen Spiegeln** — *The installation in the museum consists of many mirrors* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 1b (Kunststücke)
 <!-- bank:end -->
 

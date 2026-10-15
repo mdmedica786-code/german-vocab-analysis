@@ -33,6 +33,11 @@ status: "new"
 > Er trat kräftig in die Pedale.
 > *He pedalled hard.*
 
+**Phrases & Expressions:**
+- **in die Pedale treten** — *pedal*
+- **das Pedal drücken** — *pedal*
+- **das Pedal loslassen** — *pedal*
+
 **Collocations**
 - in die Pedale treten
 - das Pedal drücken

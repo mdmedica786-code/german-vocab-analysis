@@ -34,6 +34,9 @@ status: "new"
 > Ich habe nur Kleingeld in meiner Brieftasche.
 > *I only have small change in my wallet.*
 
+**Phrases & Expressions:**
+- **Ich habe nur Kleingeld in meiner Brieftasche** — *I only have small change in my wallet* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

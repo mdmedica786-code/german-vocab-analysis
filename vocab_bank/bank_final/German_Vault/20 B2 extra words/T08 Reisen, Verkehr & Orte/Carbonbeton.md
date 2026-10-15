@@ -30,6 +30,11 @@ status: "new"
 > Brücken aus Carbonbeton sind leichter und haltbarer.
 > *Bridges made of carbon concrete are lighter and more durable.*
 
+**Phrases & Expressions:**
+- **Bauteile aus Carbonbeton** — *carbon concrete*
+- **mit Carbonbeton bauen** — *carbon concrete*
+- **die Vorteile von Carbonbeton** — *carbon concrete*
+
 **Collocations**
 - Bauteile aus Carbonbeton
 - mit Carbonbeton bauen

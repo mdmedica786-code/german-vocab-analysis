@@ -34,6 +34,9 @@ status: "new"
 > Ich mache ein Bewerbungstraining bei der Agentur für Arbeit.
 > *I am doing an application training course at the employment agency.*
 
+**Phrases & Expressions:**
+- **Ich mache ein Bewerbungstraining bei der Agentur für Arbeit** — *I am doing an application training course at the employment agency* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

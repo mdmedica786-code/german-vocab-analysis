@@ -33,6 +33,11 @@ status: "new"
 > Er lernt zwei verschiedene Computersprachen.
 > *He is learning two different programming languages.*
 
+**Phrases & Expressions:**
+- **eine Computersprache lernen** — *programming language; computer language*
+- **eine einfache Computersprache** — *programming language; computer language*
+- **Computersprachen vergleichen** — *programming language; computer language*
+
 **Collocations**
 - eine Computersprache lernen
 - eine einfache Computersprache

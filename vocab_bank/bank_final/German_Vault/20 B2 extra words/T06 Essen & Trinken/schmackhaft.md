@@ -29,6 +29,11 @@ status: "new"
 > Sie kocht schmackhafte Gerichte aus frischen Zutaten.
 > *She cooks tasty dishes from fresh ingredients.*
 
+**Phrases & Expressions:**
+- **schmackhaft zubereiten** — *tasty; palatable*
+- **ein schmackhaftes Essen** — *tasty; palatable*
+- **schmackhaft gewürzt** — *tasty; palatable*
+
 **Collocations**
 - schmackhaft zubereiten
 - ein schmackhaftes Essen

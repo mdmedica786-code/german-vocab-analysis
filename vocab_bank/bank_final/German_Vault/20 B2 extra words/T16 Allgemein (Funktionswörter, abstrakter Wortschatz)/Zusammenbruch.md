@@ -33,6 +33,11 @@ status: "new"
 > Der Zusammenbruch des Systems überraschte alle.
 > *The collapse of the system surprised everyone.*
 
+**Phrases & Expressions:**
+- **kurz vor dem Zusammenbruch** — *collapse; breakdown*
+- **ein nervlicher Zusammenbruch** — *collapse; breakdown*
+- **der Zusammenbruch der Wirtschaft** — *collapse; breakdown*
+
 **Collocations**
 - kurz vor dem Zusammenbruch
 - ein nervlicher Zusammenbruch

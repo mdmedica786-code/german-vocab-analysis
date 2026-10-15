@@ -33,6 +33,11 @@ status: "new"
 > Lärm ist eine typische Begleiterscheinung von Großstädten.
 > *Noise is a typical accompanying phenomenon of big cities.*
 
+**Phrases & Expressions:**
+- **eine unangenehme Begleiterscheinung** — *side effect; accompanying phenomenon*
+- **als Begleiterscheinung auftreten** — *side effect; accompanying phenomenon*
+- **negative Begleiterscheinungen** — *side effect; accompanying phenomenon*
+
 **Collocations**
 - eine unangenehme Begleiterscheinung
 - als Begleiterscheinung auftreten

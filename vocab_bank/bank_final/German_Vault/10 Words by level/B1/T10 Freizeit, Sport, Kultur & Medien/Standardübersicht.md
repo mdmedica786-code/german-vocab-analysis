@@ -31,6 +31,9 @@ status: "new"
 > Die Standardübersicht zeigt die wichtigsten Daten.
 > *The standard overview shows the most important data.*
 
+**Phrases & Expressions:**
+- **Die Standardübersicht zeigt die wichtigsten Daten** — *The standard overview shows the most important data* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 5a (Geld regiert die Welt?)
 <!-- bank:end -->
 

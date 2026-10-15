@@ -34,6 +34,14 @@ status: "new"
 > Er hat festgestellt, dass der Absender des Briefes falsch war.
 > *He realised that the sender of the letter was wrong.*
 
+**Phrases & Expressions:**
+- **es stellt sich die Frage, ob ...** — the question arises whether ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **feststellen, dass ...** — to find that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **festgestellt, dass ...** — established that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **es stellte sich heraus, dass ...** — it turned out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **es stellt sich heraus, dass ...** — it turns out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **es stellt sich die Frage** — the question arises *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+
 **Collocations**
 - einen Fehler feststellen
 - eine Krankheit feststellen

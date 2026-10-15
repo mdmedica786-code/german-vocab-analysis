@@ -30,6 +30,9 @@ status: "new"
 > Studenten und Studentinnen sind von den Rundfunk-Gebühren befreit.
 > *Students are exempt from broadcasting fees.*
 
+**Phrases & Expressions:**
+- **Studenten und Studentinnen sind von den Rundfunk-Gebühren befreit** — *Students are exempt from broadcasting fees* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

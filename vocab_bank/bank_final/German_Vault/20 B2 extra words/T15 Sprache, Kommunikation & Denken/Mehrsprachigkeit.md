@@ -33,6 +33,11 @@ status: "new"
 > Mehrsprachigkeit ist in der Schweiz normal.
 > *Multilingualism is normal in Switzerland.*
 
+**Phrases & Expressions:**
+- **Mehrsprachigkeit fördern** — *multilingualism*
+- **in der Mehrsprachigkeit** — *multilingualism*
+- **Vorteile der Mehrsprachigkeit** — *multilingualism*
+
 **Collocations**
 - Mehrsprachigkeit fördern
 - in der Mehrsprachigkeit

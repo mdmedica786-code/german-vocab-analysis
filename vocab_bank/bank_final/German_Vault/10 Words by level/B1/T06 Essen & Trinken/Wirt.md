@@ -34,6 +34,9 @@ status: "new"
 > Ich kenne die Wirtin von diesem Lokal.
 > *I know the landlady of this pub.*
 
+**Phrases & Expressions:**
+- **Ich kenne die Wirtin von diesem Lokal** — *I know the landlady of this pub* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

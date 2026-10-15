@@ -33,6 +33,11 @@ status: "new"
 > Welche Konfektionsgröße tragen Sie?
 > *What clothing size do you wear?*
 
+**Phrases & Expressions:**
+- **die Konfektionsgröße wählen** — *clothing size*
+- **Konfektionsgröße 38** — *clothing size*
+- **in der richtigen Konfektionsgröße** — *clothing size*
+
 **Collocations**
 - die Konfektionsgröße wählen
 - Konfektionsgröße 38

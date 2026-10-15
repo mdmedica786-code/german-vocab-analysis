@@ -33,6 +33,11 @@ status: "new"
 > Ihre Argumentation war logisch aufgebaut und überzeugend.
 > *Her line of argument was logically structured and convincing.*
 
+**Phrases & Expressions:**
+- **eine schlüssige Argumentation** — *line of argument; argumentation*
+- **Argumentation aufbauen** — *line of argument; argumentation*
+- **die Argumentation stützen** — *line of argument; argumentation*
+
 **Collocations**
 - eine schlüssige Argumentation
 - Argumentation aufbauen

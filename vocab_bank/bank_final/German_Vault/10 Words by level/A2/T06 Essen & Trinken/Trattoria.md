@@ -34,6 +34,9 @@ status: "new"
 > Wir essen heute in einer Trattoria.
 > *We are eating in a trattoria today.*
 
+**Phrases & Expressions:**
+- **Wir essen heute in einer Trattoria** — *We are eating in a trattoria today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 5a (Arbeitswelten)
 <!-- bank:end -->
 

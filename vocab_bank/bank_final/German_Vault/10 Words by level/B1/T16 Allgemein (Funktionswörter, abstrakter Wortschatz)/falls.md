@@ -31,6 +31,13 @@ status: "new"
 > Falls es regnet, machen wir kein Picknick.
 > *If it rains, we won't have a picnic.*
 
+**Phrases & Expressions:**
+- **Falls das nicht klappt, könnten wir ...** — If that doesn't work, we could ... *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Alternative anbieten]] · B1)*
+- **Falls du Fragen hast, ...** — In case you have questions, ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Bedingung]] · B1)*
+- **Falls ich mich nicht irre, ...** — If I'm not mistaken, ... *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Annahme überprüfen]] · B2)*
+- **Falls es regnet, bleiben wir zu Hause.** — If it rains, we stay at home. *([[B2-10 Bedingungen, Folgen und irreale Wünsche|Bedingung ausdrücken]] · B1)*
+- **Falls Nebenwirkungen auftreten, melden Sie sich bitte sofort.** — If side effects occur, please contact us immediately. *([[FSP-11 Therapie und Medikamente erklären|Nebenwirkungen erklären]] · B2)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

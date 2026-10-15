@@ -36,6 +36,10 @@ status: "new"
 > Sie müssen an der nächsten Station aussteigen.
 > **
 
+**Phrases & Expressions:**
+- **Ich übergebe Ihnen jetzt die Station.** — I am now handing the ward over to you. *([[FSP-19 Übergabe, Konsil und Rücksprache|Übergabe einleiten]] · B2)*
+- **Hier spricht Dr. ... von der Station ..., ich rufe wegen ... an.** — This is Dr ... from ward ..., I am calling about ... *([[FSP-19 Übergabe, Konsil und Rücksprache|Telefonische Rückfrage]] · B2)*
+
 **Source:** Netzwerk neu A1 K3 1a (In Hamburg) · Goethe word list B1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Heute gehen wir mit den Kindern in den Zirkus.
 > *Today we're going to the circus with the children.*
 
+**Phrases & Expressions:**
+- **Heute gehen wir mit den Kindern in den Zirkus** — *Today we're going to the circus with the children* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7c ÜB (Blick nach vorn) · Goethe word list A2
 <!-- bank:end -->
 

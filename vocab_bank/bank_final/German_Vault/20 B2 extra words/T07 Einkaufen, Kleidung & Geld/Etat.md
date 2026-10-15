@@ -33,6 +33,11 @@ status: "new"
 > Der Etat der Stadt für Kultur wurde gekürzt.
 > *The city's budget for culture was cut.*
 
+**Phrases & Expressions:**
+- **den Etat kürzen** — *budget*
+- **der Etat für Bildung** — *budget*
+- **über den Etat verfügen** — *budget*
+
 **Collocations**
 - den Etat kürzen
 - der Etat für Bildung

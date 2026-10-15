@@ -34,6 +34,9 @@ status: "new"
 > Solarzellen wandeln Licht in Strom um.
 > *Solar cells convert light into electricity.*
 
+**Phrases & Expressions:**
+- **Solarzellen wandeln Licht in Strom um** — *Solar cells convert light into electricity* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Das Online-Meeting beginnt um neun Uhr.
 > *The online meeting begins at nine.*
+
+**Phrases & Expressions:**
+- **Das Online-Meeting beginnt um neun Uhr** — *The online meeting begins at nine* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

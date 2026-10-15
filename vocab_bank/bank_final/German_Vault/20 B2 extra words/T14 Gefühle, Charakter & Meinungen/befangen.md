@@ -29,6 +29,11 @@ status: "new"
 > Vor der Kamera wirkte er etwas befangen.
 > *In front of the camera he seemed somewhat self-conscious.*
 
+**Phrases & Expressions:**
+- **befangen wirken** — *biased; self-conscious*
+- **als befangen gelten** — *biased; self-conscious*
+- **einen Richter für befangen erklären** — *biased; self-conscious*
+
 **Collocations**
 - befangen wirken
 - als befangen gelten

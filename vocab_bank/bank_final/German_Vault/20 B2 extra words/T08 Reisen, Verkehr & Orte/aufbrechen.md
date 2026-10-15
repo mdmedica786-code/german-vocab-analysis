@@ -32,6 +32,11 @@ status: "new"
 > Wir brechen morgen früh um sechs Uhr auf.
 > *We set off tomorrow morning at six.*
 
+**Phrases & Expressions:**
+- **zu einer Reise aufbrechen** — *to set off; to break open*
+- **früh aufbrechen** — *to set off; to break open*
+- **ein Schloss aufbrechen** — *to set off; to break open*
+
 **Collocations**
 - zu einer Reise aufbrechen
 - früh aufbrechen

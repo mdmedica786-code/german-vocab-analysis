@@ -33,6 +33,11 @@ status: "new"
 > Ich habe noch fünf Urlaubstage übrig.
 > *I still have five days of leave left.*
 
+**Phrases & Expressions:**
+- **Urlaubstage nehmen** — *day of leave; holiday day*
+- **Urlaubstage beantragen** — *day of leave; holiday day*
+- **ein Urlaubstag pro Monat** — *day of leave; holiday day*
+
 **Collocations**
 - Urlaubstage nehmen
 - Urlaubstage beantragen

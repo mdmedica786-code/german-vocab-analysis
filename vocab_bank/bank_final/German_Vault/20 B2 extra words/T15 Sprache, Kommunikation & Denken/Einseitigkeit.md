@@ -33,6 +33,11 @@ status: "new"
 > Man warf dem Bericht Einseitigkeit vor.
 > *The report was accused of one-sidedness.*
 
+**Phrases & Expressions:**
+- **Einseitigkeit vorwerfen** — *one-sidedness*
+- **die Einseitigkeit der Berichterstattung** — *one-sidedness*
+- **Gefahr der Einseitigkeit** — *one-sidedness*
+
 **Collocations**
 - Einseitigkeit vorwerfen
 - die Einseitigkeit der Berichterstattung

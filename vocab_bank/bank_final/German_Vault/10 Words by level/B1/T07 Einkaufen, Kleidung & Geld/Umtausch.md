@@ -34,6 +34,9 @@ status: "new"
 > Ein Umtausch ist leider nicht möglich.
 > *An exchange is unfortunately not possible.*
 
+**Phrases & Expressions:**
+- **Ich verlange einen Umtausch gegen ein einwandfreies Gerät.** — I demand an exchange for a flawless device. *([[B2-04 Beschwerde und Reklamation|Forderung stellen]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

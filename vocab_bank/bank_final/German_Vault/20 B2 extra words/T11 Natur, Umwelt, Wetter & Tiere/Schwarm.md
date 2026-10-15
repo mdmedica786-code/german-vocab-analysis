@@ -33,6 +33,11 @@ status: "new"
 > Ein Schwarm Vögel flog über das Feld.
 > *A flock of birds flew over the field.*
 
+**Phrases & Expressions:**
+- **ein Schwarm Bienen** — *swarm; flock*
+- **im Schwarm fliegen** — *swarm; flock*
+- **Schwarm von Fischen** — *swarm; flock*
+
 **Collocations**
 - ein Schwarm Bienen
 - im Schwarm fliegen

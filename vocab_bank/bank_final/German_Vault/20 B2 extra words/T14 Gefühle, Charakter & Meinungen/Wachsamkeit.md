@@ -33,6 +33,11 @@ status: "new"
 > Wachsamkeit ist im Straßenverkehr unerlässlich.
 > *Vigilance is essential in road traffic.*
 
+**Phrases & Expressions:**
+- **Wachsamkeit zeigen** — *vigilance*
+- **zur Wachsamkeit mahnen** — *vigilance*
+- **erhöhte Wachsamkeit** — *vigilance*
+
 **Collocations**
 - Wachsamkeit zeigen
 - zur Wachsamkeit mahnen

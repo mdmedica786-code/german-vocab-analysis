@@ -29,6 +29,11 @@ status: "new"
 > Seine Argumentation war nicht schlüssig.
 > *His argument was not coherent.*
 
+**Phrases & Expressions:**
+- **ein schlüssiges Argument** — *conclusive; coherent*
+- **schlüssig begründen** — *conclusive; coherent*
+- **sich schlüssig sein** — *conclusive; coherent*
+
 **Collocations**
 - ein schlüssiges Argument
 - schlüssig begründen

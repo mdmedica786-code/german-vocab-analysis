@@ -34,6 +34,9 @@ status: "new"
 > Meine Schwester studiert Sprachwissenschaft.
 > *My sister studies linguistics.*
 
+**Phrases & Expressions:**
+- **Meine Schwester studiert Sprachwissenschaft** — *My sister studies linguistics* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

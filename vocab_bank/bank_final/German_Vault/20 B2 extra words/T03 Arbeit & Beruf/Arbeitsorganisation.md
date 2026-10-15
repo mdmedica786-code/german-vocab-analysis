@@ -33,6 +33,11 @@ status: "new"
 > Eine gute Arbeitsorganisation spart viel Zeit.
 > *Good work organisation saves a lot of time.*
 
+**Phrases & Expressions:**
+- **die Arbeitsorganisation verbessern** — *work organisation*
+- **eine flexible Arbeitsorganisation** — *work organisation*
+- **die Arbeitsorganisation im Team** — *work organisation*
+
 **Collocations**
 - die Arbeitsorganisation verbessern
 - eine flexible Arbeitsorganisation

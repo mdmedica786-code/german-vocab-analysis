@@ -34,6 +34,9 @@ status: "new"
 > Im Hotel liegt ein Bademantel im Zimmer.
 > *In the hotel there is a bathrobe in the room.*
 
+**Phrases & Expressions:**
+- **Im Hotel liegt ein Bademantel im Zimmer** — *In the hotel there is a bathrobe in the room* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

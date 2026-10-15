@@ -34,6 +34,14 @@ status: "new"
 > Ihr Vorschlag überzeugt mich gar nicht.
 > *Your suggestion doesn't convince me at all.*
 
+**Phrases & Expressions:**
+- **ich bin überzeugt, dass ...** — I am convinced that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **davon überzeugt sein, dass ...** — to be convinced that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **fest davon überzeugt sein, dass ...** — to be firmly convinced that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Ich bin davon überzeugt, dass ...** — I am convinced that ... *([[B1-01 Meinung äußern|Überzeugung ausdrücken]] · B1)*
+- **Dieses Argument überzeugt mich nicht, denn ...** — This argument doesn't convince me, because ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Gegenargument entkräften]] · B2)*
+- **jemanden überzeugen** — *to convince*
+
 **Collocations**
 - jemanden überzeugen
 - sich überzeugen

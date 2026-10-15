@@ -33,6 +33,11 @@ status: "new"
 > Die Romantik ist eine Epoche der Literatur.
 > *Romanticism is a literary period.*
 
+**Phrases & Expressions:**
+- **die Epoche der Romantik** — *Romanticism; romance*
+- **die deutsche Romantik** — *Romanticism; romance*
+- **ein Hauch von Romantik** — *Romanticism; romance*
+
 **Collocations**
 - die Epoche der Romantik
 - die deutsche Romantik

@@ -33,6 +33,13 @@ status: "new"
 > Sie unterstützen mich, wo sie nur können.
 > *They support me wherever they can.*
 
+**Phrases & Expressions:**
+- **Gibt es jemanden, der Sie unterstützt?** — Is there anyone who supports you? *([[FSP-05 Familien- und Sozialanamnese|Soziales Umfeld]] · B1)*
+- **jemanden unterstützen** — *to support*
+- **finanziell unterstützen** — *to support*
+- **ein Projekt unterstützen** — *to support*
+- **tatkräftig unterstützen** — *to support*
+
 **Collocations**
 - jemanden unterstützen
 - finanziell unterstützen

@@ -34,6 +34,9 @@ status: "new"
 > Ein Glas Orangensaft, bitte.
 > *A glass of orange juice, please.*
 
+**Phrases & Expressions:**
+- **Ein Glas Orangensaft, bitte** — *A glass of orange juice, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!)
 <!-- bank:end -->
 

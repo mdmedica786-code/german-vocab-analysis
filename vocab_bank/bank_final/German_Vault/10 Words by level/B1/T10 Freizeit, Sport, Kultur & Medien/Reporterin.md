@@ -35,6 +35,9 @@ status: "new"
 > Die Reporterin macht gerade ein Interview.
 > *The reporter is just doing an interview.*
 
+**Phrases & Expressions:**
+- **Die Reporterin macht gerade ein Interview** — *The reporter is just doing an interview* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

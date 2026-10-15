@@ -33,6 +33,11 @@ status: "new"
 > Die Redaktion der Zeitung sitzt in Berlin.
 > *The editorial office of the newspaper is in Berlin.*
 
+**Phrases & Expressions:**
+- **in der Redaktion arbeiten** — *editorial office; editorial staff*
+- **an die Redaktion schreiben** — *editorial office; editorial staff*
+- **die Redaktion der Zeitung** — *editorial office; editorial staff*
+
 **Collocations**
 - in der Redaktion arbeiten
 - an die Redaktion schreiben

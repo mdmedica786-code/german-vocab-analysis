@@ -35,6 +35,10 @@ status: "new"
 > Kannst du bitte das Fenster öffnen?
 > *Can you open the window, please?*
 
+**Phrases & Expressions:**
+- **Würden Sie bitte das Fenster schließen?** — Would you please close the window? *([[B1-07 Bitten und höflich nachfragen|Um etwas bitten]] · B1)*
+- **Darf ich das Fenster öffnen?** — May I open the window? *([[B1-07 Bitten und höflich nachfragen|Um Erlaubnis bitten]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 4 (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

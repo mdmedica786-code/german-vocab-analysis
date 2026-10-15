@@ -33,6 +33,12 @@ status: "new"
 > Das Gewebe wird im Labor untersucht.
 > *The tissue is examined in the laboratory.*
 
+**Phrases & Expressions:**
+- **entzündetes Gewebe** — *tissue*
+- **Gewebe untersuchen** — *tissue*
+- **totes Gewebe** — *tissue*
+- **gesundes Gewebe** — *tissue*
+
 **Collocations**
 - entzündetes Gewebe
 - Gewebe untersuchen

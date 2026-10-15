@@ -35,6 +35,9 @@ status: "new"
 > Die Führung durch das Haus beginnt in 3 Minuten.
 > *The guided tour of the house starts in 3 minutes.*
 
+**Phrases & Expressions:**
+- **Die Führung durch das Haus beginnt in 3 Minuten** — *The guided tour of the house starts in 3 minutes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1d (Gute Unterhaltung!) · Goethe word list A1
 <!-- bank:end -->
 

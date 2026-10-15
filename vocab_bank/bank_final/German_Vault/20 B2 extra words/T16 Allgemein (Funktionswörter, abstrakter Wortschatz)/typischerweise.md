@@ -29,6 +29,11 @@ status: "new"
 > Typischerweise beginnt der Kurs im Herbst.
 > *Typically the course starts in autumn.*
 
+**Phrases & Expressions:**
+- **typischerweise geschieht** — *typically*
+- **typischerweise dauert** — *typically*
+- **typischerweise gilt** — *typically*
+
 **Collocations**
 - typischerweise geschieht
 - typischerweise dauert

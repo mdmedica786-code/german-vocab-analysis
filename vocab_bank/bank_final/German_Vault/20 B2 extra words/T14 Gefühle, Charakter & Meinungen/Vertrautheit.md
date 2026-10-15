@@ -33,6 +33,11 @@ status: "new"
 > Zwischen den beiden herrschte eine große Vertrautheit.
 > *There was great intimacy between the two.*
 
+**Phrases & Expressions:**
+- **eine gewisse Vertrautheit** — *familiarity; intimacy*
+- **Vertrautheit schaffen** — *familiarity; intimacy*
+- **Vertrautheit mit etwas** — *familiarity; intimacy*
+
 **Collocations**
 - eine gewisse Vertrautheit
 - Vertrautheit schaffen

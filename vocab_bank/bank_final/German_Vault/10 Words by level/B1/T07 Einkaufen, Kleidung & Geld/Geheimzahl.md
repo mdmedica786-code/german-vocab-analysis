@@ -34,6 +34,9 @@ status: "new"
 > Geben Sie bitte Ihre Geheimzahl ein.
 > *Please enter your PIN.*
 
+**Phrases & Expressions:**
+- **Geben Sie bitte Ihre Geheimzahl ein** — *Please enter your PIN* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 5a ÜB (Das ist ja praktisch!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Fachärztin untersucht das Knie genauer.
 > *The specialist examines the knee more closely.*
 
+**Phrases & Expressions:**
+- **zur Fachärztin gehen** — *specialist doctor (female)*
+- **eine Fachärztin für Hautkrankheiten** — *specialist doctor (female)*
+- **eine Fachärztin aufsuchen** — *specialist doctor (female)*
+
 **Collocations**
 - zur Fachärztin gehen
 - eine Fachärztin für Hautkrankheiten

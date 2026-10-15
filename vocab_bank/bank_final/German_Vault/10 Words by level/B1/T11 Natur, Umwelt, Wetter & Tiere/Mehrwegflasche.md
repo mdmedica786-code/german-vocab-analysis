@@ -34,6 +34,9 @@ status: "new"
 > Eine Mehrwegflasche kann man oft wieder benutzen.
 > *A reusable bottle can be used many times.*
 
+**Phrases & Expressions:**
+- **Eine Mehrwegflasche kann man oft wieder benutzen** — *A reusable bottle can be used many times* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 4b (Umweltfreundlich?)
 <!-- bank:end -->
 

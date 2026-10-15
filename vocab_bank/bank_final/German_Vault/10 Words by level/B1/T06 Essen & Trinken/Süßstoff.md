@@ -34,6 +34,9 @@ status: "new"
 > Ich nehme Süßstoff in den Kaffee.
 > *I put sweetener in my coffee.*
 
+**Phrases & Expressions:**
+- **Ich nehme Süßstoff in den Kaffee** — *I put sweetener in my coffee* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 10a (Das ist ja praktisch!)
 <!-- bank:end -->
 

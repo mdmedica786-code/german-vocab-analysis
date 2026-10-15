@@ -33,6 +33,11 @@ status: "new"
 > Kohlendioxid ist das bekannteste Treibhausgas.
 > *Carbon dioxide is the best-known greenhouse gas.*
 
+**Phrases & Expressions:**
+- **Treibhausgase ausstoßen** — *greenhouse gas*
+- **Ausstoß von Treibhausgasen** — *greenhouse gas*
+- **Treibhausgase senken** — *greenhouse gas*
+
 **Collocations**
 - Treibhausgase ausstoßen
 - Ausstoß von Treibhausgasen

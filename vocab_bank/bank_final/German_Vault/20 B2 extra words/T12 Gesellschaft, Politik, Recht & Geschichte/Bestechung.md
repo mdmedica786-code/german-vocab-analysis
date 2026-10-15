@@ -33,6 +33,11 @@ status: "new"
 > Der Beamte wurde wegen Bestechung verurteilt.
 > *The official was convicted of bribery.*
 
+**Phrases & Expressions:**
+- **wegen Bestechung** — *bribery*
+- **Bestechung annehmen** — *bribery*
+- **Bestechung aufdecken** — *bribery*
+
 **Collocations**
 - wegen Bestechung
 - Bestechung annehmen

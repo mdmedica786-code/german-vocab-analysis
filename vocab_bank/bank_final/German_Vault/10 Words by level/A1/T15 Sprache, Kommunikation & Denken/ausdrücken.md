@@ -33,6 +33,9 @@ status: "new"
 > Ich kann meine Gefühle schlecht ausdrücken.
 > *I find it hard to express my feelings.*
 
+**Phrases & Expressions:**
+- **Ich kann meine Gefühle schlecht ausdrücken** — *I find it hard to express my feelings* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13b (Fit und gesund)
 <!-- bank:end -->
 

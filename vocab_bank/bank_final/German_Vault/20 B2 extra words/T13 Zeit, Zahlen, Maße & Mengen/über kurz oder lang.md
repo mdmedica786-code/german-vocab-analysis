@@ -26,6 +26,10 @@ status: "new"
 > Über kurz oder lang wird sich das Problem lösen.
 > *Sooner or later the problem will solve itself.*
 
+**Phrases & Expressions:**
+- **früher oder später** — *sooner or later*
+- **irgendwann** — *sooner or later*
+
 **Collocations**
 - früher oder später
 - irgendwann

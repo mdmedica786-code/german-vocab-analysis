@@ -31,6 +31,11 @@ status: "new"
 > Plötzlich ertönte ein lauter Knall.
 > *Suddenly a loud bang sounded.*
 
+**Phrases & Expressions:**
+- **ein Signal ertönt** — *to sound; to ring out*
+- **Musik ertönt** — *to sound; to ring out*
+- **die Sirene ertönt** — *to sound; to ring out*
+
 **Collocations**
 - ein Signal ertönt
 - Musik ertönt

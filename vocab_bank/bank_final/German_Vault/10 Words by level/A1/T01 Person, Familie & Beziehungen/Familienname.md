@@ -35,6 +35,9 @@ status: "new"
 > Meine Familiennamen sind García González.
 > *My family names are García González.*
 
+**Phrases & Expressions:**
+- **Meine Familiennamen sind García González** — *My family names are García González* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

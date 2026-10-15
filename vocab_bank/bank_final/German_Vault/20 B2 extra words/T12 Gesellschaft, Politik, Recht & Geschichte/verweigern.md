@@ -31,6 +31,11 @@ status: "new"
 > Der Zeuge verweigerte die Aussage.
 > *The witness refused to testify.*
 
+**Phrases & Expressions:**
+- **die Aussage verweigern** — *to refuse; to deny*
+- **den Gehorsam verweigern** — *to refuse; to deny*
+- **jemandem den Zutritt verweigern** — *to refuse; to deny*
+
 **Collocations**
 - die Aussage verweigern
 - den Gehorsam verweigern

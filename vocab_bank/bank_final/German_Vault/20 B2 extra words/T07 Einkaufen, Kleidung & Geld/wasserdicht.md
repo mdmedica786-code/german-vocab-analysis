@@ -29,6 +29,11 @@ status: "new"
 > Meine Jacke ist wasserdicht.
 > *My jacket is waterproof.*
 
+**Phrases & Expressions:**
+- **wasserdichte Kleidung** — *waterproof*
+- **wasserdicht verpackt** — *waterproof*
+- **eine wasserdichte Uhr** — *waterproof*
+
 **Collocations**
 - wasserdichte Kleidung
 - wasserdicht verpackt

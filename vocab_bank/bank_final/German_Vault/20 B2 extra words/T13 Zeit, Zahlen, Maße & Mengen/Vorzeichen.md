@@ -33,6 +33,11 @@ status: "new"
 > Die Zahl hat ein negatives Vorzeichen.
 > *The number has a negative sign.*
 
+**Phrases & Expressions:**
+- **ein negatives Vorzeichen** — *sign (maths); omen; indication*
+- **unter dem Vorzeichen** — *sign (maths); omen; indication*
+- **ein gutes Vorzeichen** — *sign (maths); omen; indication*
+
 **Collocations**
 - ein negatives Vorzeichen
 - unter dem Vorzeichen

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Er hat Aktien einer Bank gekauft.
 > *He bought shares in a bank.*
+
+**Phrases & Expressions:**
+- **Er hat Aktien einer Bank gekauft** — *He bought shares in a bank* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

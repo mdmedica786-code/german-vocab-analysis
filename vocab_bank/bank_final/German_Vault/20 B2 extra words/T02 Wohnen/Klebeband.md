@@ -33,6 +33,11 @@ status: "new"
 > Ich brauche Klebeband, um das Paket zuzukleben.
 > *I need tape to seal the parcel.*
 
+**Phrases & Expressions:**
+- **ein Stück Klebeband** — *adhesive tape*
+- **doppelseitiges Klebeband** — *adhesive tape*
+- **mit Klebeband befestigen** — *adhesive tape*
+
 **Collocations**
 - ein Stück Klebeband
 - doppelseitiges Klebeband

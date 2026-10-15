@@ -32,6 +32,11 @@ status: "new"
 > Er verwies auf die Regeln der Schule.
 > *He referred to the rules of the school.*
 
+**Phrases & Expressions:**
+- **verweisen auf + Akk.** — *to refer; to point out*
+- **an jemanden verweisen** — *to refer; to point out*
+- **des Landes verweisen** — *to refer; to point out*
+
 **Collocations**
 - verweisen auf + Akk.
 - an jemanden verweisen

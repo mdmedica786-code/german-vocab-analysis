@@ -34,6 +34,9 @@ status: "new"
 > Für drei Tage zu meinen Eltern fahren lohnt sich nicht. Es ist zu weit.
 > *Travelling to my parents for three days is not worth it. It's too far.*
 
+**Phrases & Expressions:**
+- **Wir können also sagen, dass sich der Versuch gelohnt hat.** — So we can say that the attempt was worth it. *([[B2-08 Zusammenfassen, Fazit und Schlussfolgerung|Fazit ziehen]] · B2)*
+
 **Source:** Netzwerk neu B1 K2 3a (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

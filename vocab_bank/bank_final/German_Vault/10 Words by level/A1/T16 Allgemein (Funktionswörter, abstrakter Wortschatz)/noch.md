@@ -31,6 +31,9 @@ status: "new"
 > Kennen Sie noch andere Berufe?
 > *Do you know any other occupations?*
 
+**Phrases & Expressions:**
+- **Kennen Sie noch andere Berufe** — *Do you know any other occupations* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

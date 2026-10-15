@@ -35,6 +35,9 @@ status: "new"
 > Die Pflanzen brauchen neue Erde.
 > *The plants need new soil.*
 
+**Phrases & Expressions:**
+- **Die Pflanzen brauchen neue Erde** — *The plants need new soil* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

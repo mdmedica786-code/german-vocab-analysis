@@ -35,6 +35,9 @@ status: "new"
 > Ich esse kein Schweinefleisch.
 > *I don't eat pork.*
 
+**Phrases & Expressions:**
+- **Ich esse kein Schweinefleisch** — *I don't eat pork* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 11b (Zusammen leben) · Goethe word list A2
 <!-- bank:end -->
 

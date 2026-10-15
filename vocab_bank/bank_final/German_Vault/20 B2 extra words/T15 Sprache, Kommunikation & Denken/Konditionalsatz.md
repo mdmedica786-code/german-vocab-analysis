@@ -33,6 +33,11 @@ status: "new"
 > Im Konditionalsatz steht oft „wenn“ oder „falls“.
 > *In the conditional clause "wenn" or "falls" often appears.*
 
+**Phrases & Expressions:**
+- **einen Konditionalsatz bilden** — *conditional clause*
+- **ein Konditionalsatz mit „wenn“** — *conditional clause*
+- **Konditionalsätze üben** — *conditional clause*
+
 **Collocations**
 - einen Konditionalsatz bilden
 - ein Konditionalsatz mit „wenn“

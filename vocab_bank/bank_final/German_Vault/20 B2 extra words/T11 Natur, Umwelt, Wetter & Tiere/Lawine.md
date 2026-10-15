@@ -33,6 +33,11 @@ status: "new"
 > Im Gebirge können sich bei Neuschnee jederzeit Lawinen lösen.
 > *In the mountains avalanches can come down at any time after fresh snow.*
 
+**Phrases & Expressions:**
+- **eine Lawine löst sich** — *avalanche*
+- **von einer Lawine verschüttet** — *avalanche*
+- **Lawine auslösen** — *avalanche*
+
 **Collocations**
 - eine Lawine löst sich
 - von einer Lawine verschüttet

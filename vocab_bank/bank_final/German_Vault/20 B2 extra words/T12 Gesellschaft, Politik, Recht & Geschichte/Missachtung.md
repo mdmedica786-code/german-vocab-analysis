@@ -33,6 +33,11 @@ status: "new"
 > Die Missachtung der Verkehrsregeln führte zum Unfall.
 > *Disregard of the traffic rules led to the accident.*
 
+**Phrases & Expressions:**
+- **Missachtung der Vorschriften** — *disregard; contempt*
+- **bei Missachtung** — *disregard; contempt*
+- **Missachtung zeigen** — *disregard; contempt*
+
 **Collocations**
 - Missachtung der Vorschriften
 - bei Missachtung

@@ -34,6 +34,9 @@ status: "new"
 > Eine Brezel kostet einen Euro.
 > *A pretzel costs one euro.*
 
+**Phrases & Expressions:**
+- **Eine Brezel kostet einen Euro** — *A pretzel costs one euro* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7b (Miteinander)
 <!-- bank:end -->
 

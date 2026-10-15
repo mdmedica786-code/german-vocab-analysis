@@ -30,6 +30,9 @@ status: "new"
 > Ich möchte einen eckigen Tisch, keinen runden.
 > *I would like a square table, not a round one.*
 
+**Phrases & Expressions:**
+- **Ich möchte einen eckigen Tisch, keinen runden** — *I would like a square table, not a round one* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

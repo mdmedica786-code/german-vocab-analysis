@@ -35,6 +35,9 @@ status: "new"
 > Ich esse gern Fisch. Fleisch mag ich nicht.
 > *I like eating fish. I don't like meat.*
 
+**Phrases & Expressions:**
+- **Ich esse gern Fisch. Fleisch mag ich nicht** — *I like eating fish. I don't like meat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 3c ÜB (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

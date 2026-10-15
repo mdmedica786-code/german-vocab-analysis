@@ -30,6 +30,11 @@ status: "new"
 > Bitte tragen Sie hier Ihre Versicherungsnummer ein.
 > *Please enter your insurance number here.*
 
+**Phrases & Expressions:**
+- **die Versicherungsnummer angeben** — *insurance number*
+- **die Versicherungsnummer eintragen** — *insurance number*
+- **die Versicherungsnummer der Krankenkasse** — *insurance number*
+
 **Collocations**
 - die Versicherungsnummer angeben
 - die Versicherungsnummer eintragen

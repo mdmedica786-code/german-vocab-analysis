@@ -33,6 +33,11 @@ status: "new"
 > Für das Regal brauchen wir Schrauben und passende Dübel.
 > *For the shelf we need screws and suitable wall plugs.*
 
+**Phrases & Expressions:**
+- **einen Dübel setzen** — *wall plug*
+- **Dübel und Schrauben** — *wall plug*
+- **der Dübel hält nicht** — *wall plug*
+
 **Collocations**
 - einen Dübel setzen
 - Dübel und Schrauben

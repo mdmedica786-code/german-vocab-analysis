@@ -31,6 +31,12 @@ status: "new"
 > Unsere Fenster sind nicht dicht. Es zieht immer.
 > *Our windows are not tight. There is always a draught.*
 
+**Phrases & Expressions:**
+- **dichter Nebel** — *tight; dense; sealed*
+- **dicht halten** — *tight; dense; sealed*
+- **dicht besiedelt** — *tight; dense; sealed*
+- **dicht machen** — *tight; dense; sealed*
+
 **Collocations**
 - dichter Nebel
 - dicht halten

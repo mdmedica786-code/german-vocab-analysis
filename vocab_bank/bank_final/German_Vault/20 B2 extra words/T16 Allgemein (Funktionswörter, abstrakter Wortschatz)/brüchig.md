@@ -29,6 +29,11 @@ status: "new"
 > Das alte Holz ist schon ganz brüchig.
 > *The old wood is already quite brittle.*
 
+**Phrases & Expressions:**
+- **brüchiges Material** — *brittle; crumbling*
+- **brüchig werden** — *brittle; crumbling*
+- **eine brüchige Stimme** — *brittle; crumbling*
+
 **Collocations**
 - brüchiges Material
 - brüchig werden

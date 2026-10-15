@@ -33,6 +33,11 @@ status: "new"
 > Die Relevanz des Themas wird oft unterschätzt.
 > *The relevance of the topic is often underestimated.*
 
+**Phrases & Expressions:**
+- **von großer Relevanz** — *relevance*
+- **Relevanz haben** — *relevance*
+- **an Relevanz gewinnen** — *relevance*
+
 **Collocations**
 - von großer Relevanz
 - Relevanz haben

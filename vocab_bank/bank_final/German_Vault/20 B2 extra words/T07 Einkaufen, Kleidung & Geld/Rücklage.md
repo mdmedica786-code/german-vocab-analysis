@@ -33,6 +33,11 @@ status: "new"
 > Wir haben für Notfälle eine Rücklage von 5000 Euro gebildet.
 > *We have built up a reserve of 5,000 euros for emergencies.*
 
+**Phrases & Expressions:**
+- **Rücklagen bilden** — *reserve; savings put aside*
+- **eine finanzielle Rücklage** — *reserve; savings put aside*
+- **die Rücklagen auflösen** — *reserve; savings put aside*
+
 **Collocations**
 - Rücklagen bilden
 - eine finanzielle Rücklage

@@ -35,6 +35,9 @@ status: "new"
 > Die politische Vertretung hat ihren Sitz im Rathaus.
 > *The political delegation has its seat in the townhall.*
 
+**Phrases & Expressions:**
+- **Bitte sprechen Sie währenddessen nicht und bleiben Sie ruhig sitzen.** — Please don't speak meanwhile and sit still. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Blutdruck messen]] · B1)*
+
 **Source:** Netzwerk neu B1 K10 7b (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

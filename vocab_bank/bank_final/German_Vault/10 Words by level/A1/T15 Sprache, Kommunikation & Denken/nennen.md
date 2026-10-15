@@ -33,6 +33,14 @@ status: "new"
 > Mein Freund heißt Alexander, aber alle nennen ihn Alex.
 > *My friend is called Alexander, but everyone calls him Alex.*
 
+**Phrases & Expressions:**
+- **Können Sie mir bitte Ihren Namen und Ihr Geburtsdatum nennen?** — Could you please tell me your name and date of birth? *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Identität prüfen]] · B1)*
+- **Das nennt man in der Fachsprache ...** — In technical language that is called ... *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Fachbegriff erklären]] · B2)*
+- **einen Grund nennen** — *to name*
+- **den Namen nennen** — *to name*
+- **jemanden Chef nennen** — *to name*
+- **etwas beim Namen nennen** — *to name*
+
 **Collocations**
 - einen Grund nennen
 - den Namen nennen

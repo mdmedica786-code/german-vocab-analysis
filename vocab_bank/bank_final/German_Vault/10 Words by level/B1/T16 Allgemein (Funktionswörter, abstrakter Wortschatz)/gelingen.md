@@ -35,6 +35,12 @@ status: "new"
 > Es ist mir gelungen, meinen Chef zu überzeugen.
 > *I managed to persuade my boss.*
 
+**Phrases & Expressions:**
+- **Es gelingt mir, ...** — *to succeed*
+- **gut gelingen** — *to succeed*
+- **ein Plan gelingt** — *to succeed*
+- **knapp gelingen** — *to succeed*
+
 **Collocations**
 - Es gelingt mir, ...
 - gut gelingen

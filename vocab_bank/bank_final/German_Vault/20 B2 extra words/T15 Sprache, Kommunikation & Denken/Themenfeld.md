@@ -33,6 +33,11 @@ status: "new"
 > Das Themenfeld Umwelt wird in der Schule behandelt.
 > *The subject area of the environment is covered at school.*
 
+**Phrases & Expressions:**
+- **ein Themenfeld bearbeiten** — *subject area; topic area*
+- **ein weites Themenfeld** — *subject area; topic area*
+- **im Themenfeld Gesundheit** — *subject area; topic area*
+
 **Collocations**
 - ein Themenfeld bearbeiten
 - ein weites Themenfeld

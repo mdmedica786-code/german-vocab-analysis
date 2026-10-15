@@ -33,6 +33,11 @@ status: "new"
 > Die Präsenz der Polizei wurde erhöht.
 > *The police presence has been increased.*
 
+**Phrases & Expressions:**
+- **Präsenz zeigen** — *presence*
+- **die Präsenz im Internet** — *presence*
+- **militärische Präsenz** — *presence*
+
 **Collocations**
 - Präsenz zeigen
 - die Präsenz im Internet

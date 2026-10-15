@@ -33,6 +33,11 @@ status: "new"
 > Für das Gedicht gibt es verschiedene Deutungen.
 > *There are different interpretations of the poem.*
 
+**Phrases & Expressions:**
+- **eine Deutung geben** — *interpretation*
+- **verschiedene Deutungen** — *interpretation*
+- **eine falsche Deutung** — *interpretation*
+
 **Collocations**
 - eine Deutung geben
 - verschiedene Deutungen

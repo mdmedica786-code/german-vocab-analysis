@@ -34,6 +34,9 @@ status: "new"
 > Der Skeptiker glaubt nicht alles.
 > *The sceptic does not believe everything.*
 
+**Phrases & Expressions:**
+- **Der Skeptiker glaubt nicht alles** — *The sceptic does not believe everything* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 10b (Miteinander)
 <!-- bank:end -->
 

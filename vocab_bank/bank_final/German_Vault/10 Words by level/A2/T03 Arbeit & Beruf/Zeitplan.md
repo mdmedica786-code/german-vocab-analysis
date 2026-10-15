@@ -34,6 +34,9 @@ status: "new"
 > Der Zeitplan für das Projekt ist sehr eng.
 > *The schedule for the project is very tight.*
 
+**Phrases & Expressions:**
+- **Der Zeitplan für das Projekt ist sehr eng** — *The schedule for the project is very tight* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3a (Gelernt ist gelernt!)
 <!-- bank:end -->
 

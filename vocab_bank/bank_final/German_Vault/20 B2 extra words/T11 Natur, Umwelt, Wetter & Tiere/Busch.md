@@ -33,6 +33,11 @@ status: "new"
 > Hinter dem Busch versteckte sich ein Hase.
 > *A hare was hiding behind the bush.*
 
+**Phrases & Expressions:**
+- **ein dichter Busch** — *bush; shrub*
+- **auf den Busch klopfen** — *bush; shrub*
+- **sich in die Büsche schlagen** — *bush; shrub*
+
 **Collocations**
 - ein dichter Busch
 - auf den Busch klopfen

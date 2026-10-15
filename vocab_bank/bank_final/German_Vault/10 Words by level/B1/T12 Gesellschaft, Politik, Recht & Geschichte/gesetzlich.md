@@ -30,6 +30,9 @@ status: "new"
 > Die gesetzliche Krankenversicherung ist in Deutschland Pflicht.
 > *Statutory health insurance is compulsory in Germany.*
 
+**Phrases & Expressions:**
+- **Die gesetzliche Krankenversicherung ist in Deutschland Pflicht** — *Statutory health insurance is compulsory in Germany* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 8b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

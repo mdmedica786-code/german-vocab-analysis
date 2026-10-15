@@ -33,6 +33,11 @@ status: "new"
 > Das ist doch völliger Unsinn!
 > *That is complete nonsense!*
 
+**Phrases & Expressions:**
+- **Unsinn reden** — *nonsense*
+- **völliger Unsinn** — *nonsense*
+- **Unsinn machen** — *nonsense*
+
 **Collocations**
 - Unsinn reden
 - völliger Unsinn

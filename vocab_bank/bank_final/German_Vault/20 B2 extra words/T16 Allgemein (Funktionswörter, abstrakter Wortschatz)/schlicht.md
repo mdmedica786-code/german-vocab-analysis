@@ -29,6 +29,11 @@ status: "new"
 > Das Zimmer war schlicht, aber sauber.
 > *The room was plain but clean.*
 
+**Phrases & Expressions:**
+- **schlicht und einfach** — *simple; plain; simply*
+- **schlichtweg falsch** — *simple; plain; simply*
+- **ein schlichtes Design** — *simple; plain; simply*
+
 **Collocations**
 - schlicht und einfach
 - schlichtweg falsch

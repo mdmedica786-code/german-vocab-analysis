@@ -32,6 +32,9 @@ status: "new"
 > Der Lehrer von meiner Tochter ist sehr streng.
 > *My daughter's teacher is very strict.*
 
+**Phrases & Expressions:**
+- **Der Lehrer von meiner Tochter ist sehr streng** — *My daughter's teacher is very strict* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 3a (Nach der Schulzeit) · Goethe word list A2
 <!-- bank:end -->
 

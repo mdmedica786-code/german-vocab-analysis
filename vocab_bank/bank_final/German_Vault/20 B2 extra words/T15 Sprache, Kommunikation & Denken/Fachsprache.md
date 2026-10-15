@@ -33,6 +33,12 @@ status: "new"
 > Die Fachsprache der Juristen ist für Laien schwer verständlich.
 > *The technical language of lawyers is hard for laypeople to understand.*
 
+**Phrases & Expressions:**
+- **Das nennt man in der Fachsprache ...** — In technical language that is called ... *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Fachbegriff erklären]] · B2)*
+- **in der Fachsprache** — *technical language; jargon*
+- **die Fachsprache lernen** — *technical language; jargon*
+- **Fachsprache und Alltagssprache** — *technical language; jargon*
+
 **Collocations**
 - in der Fachsprache
 - die Fachsprache lernen

@@ -33,6 +33,11 @@ status: "new"
 > Die Pendler stehen jeden Morgen im Stau.
 > *The commuters are stuck in traffic every morning.*
 
+**Phrases & Expressions:**
+- **ein täglicher Pendler** — *commuter*
+- **Pendler und Berufsverkehr** — *commuter*
+- **Pendlerpauschale** — *commuter*
+
 **Collocations**
 - ein täglicher Pendler
 - Pendler und Berufsverkehr

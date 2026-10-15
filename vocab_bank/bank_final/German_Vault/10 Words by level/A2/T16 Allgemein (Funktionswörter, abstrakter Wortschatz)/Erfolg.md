@@ -35,6 +35,9 @@ status: "new"
 > Der Film war ein großer Erfolg.
 > *The film was a great success.*
 
+**Phrases & Expressions:**
+- **Der Film war ein großer Erfolg** — *The film was a great success* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1b (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

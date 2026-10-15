@@ -31,6 +31,9 @@ status: "new"
 > Fotozubehör finden Sie im Untergeschoss.
 > *You will find photographic accessories in the basement.*
 
+**Phrases & Expressions:**
+- **Fotozubehör finden Sie im Untergeschoss** — *You will find photographic accessories in the basement* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

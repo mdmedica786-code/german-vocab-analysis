@@ -33,6 +33,11 @@ status: "new"
 > In meinem Arbeitsbereich gibt es viele neue Aufgaben.
 > *In my area of work there are many new tasks.*
 
+**Phrases & Expressions:**
+- **im Arbeitsbereich** — *area of work; work area*
+- **ein neuer Arbeitsbereich** — *area of work; work area*
+- **den Arbeitsbereich wechseln** — *area of work; work area*
+
 **Collocations**
 - im Arbeitsbereich
 - ein neuer Arbeitsbereich

@@ -34,6 +34,9 @@ status: "new"
 > Mein Arbeitgeber zahlt das Gehalt pünktlich.
 > *My employer pays the salary on time.*
 
+**Phrases & Expressions:**
+- **Bitte geben Sie die Bescheinigung bei Ihrem Arbeitgeber ab.** — Please hand the certificate to your employer. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Krankschreibung]] · B1)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

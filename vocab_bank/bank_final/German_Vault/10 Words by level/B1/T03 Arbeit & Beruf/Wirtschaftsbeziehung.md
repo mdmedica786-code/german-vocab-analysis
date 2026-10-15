@@ -34,6 +34,9 @@ status: "new"
 > Die Wirtschaftsbeziehungen zwischen beiden Ländern sind gut.
 > *The economic relations between the two countries are good.*
 
+**Phrases & Expressions:**
+- **Die Wirtschaftsbeziehungen zwischen beiden Ländern sind gut** — *The economic relations between the two countries are good* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 11a (Miteinander)
 <!-- bank:end -->
 

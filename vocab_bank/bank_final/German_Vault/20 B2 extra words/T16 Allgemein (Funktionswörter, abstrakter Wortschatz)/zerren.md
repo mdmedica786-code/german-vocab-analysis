@@ -31,6 +31,11 @@ status: "new"
 > Er zerrte den schweren Koffer die Treppe hinauf.
 > *He dragged the heavy suitcase up the stairs.*
 
+**Phrases & Expressions:**
+- **an etwas zerren** — *to drag; to tug*
+- **jemanden aus dem Bett zerren** — *to drag; to tug*
+- **an den Nerven zerren** — *to drag; to tug*
+
 **Collocations**
 - an etwas zerren
 - jemanden aus dem Bett zerren

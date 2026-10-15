@@ -31,6 +31,9 @@ status: "new"
 > Es ist kühl draußen. Zieh dir eine Jacke an.
 > *It's cool outside. Put on a jacket.*
 
+**Phrases & Expressions:**
+- **Es ist kühl draußen. Zieh dir eine Jacke an** — *It's cool outside. Put on a jacket* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!) · Goethe word list A2
 <!-- bank:end -->
 

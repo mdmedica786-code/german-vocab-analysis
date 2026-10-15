@@ -29,6 +29,11 @@ status: "new"
 > Er war sichtlich nervös.
 > *He was visibly nervous.*
 
+**Phrases & Expressions:**
+- **sichtlich erfreut** — *visibly; obviously*
+- **sichtlich müde** — *visibly; obviously*
+- **sichtlich bewegt** — *visibly; obviously*
+
 **Collocations**
 - sichtlich erfreut
 - sichtlich müde

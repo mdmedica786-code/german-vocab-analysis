@@ -29,6 +29,11 @@ status: "new"
 > Sie lächelte kokett und senkte den Blick.
 > *She smiled coquettishly and lowered her gaze.*
 
+**Phrases & Expressions:**
+- **kokett lächeln** — *coquettish; flirty*
+- **kokett wirken** — *coquettish; flirty*
+- **eine kokette Geste** — *coquettish; flirty*
+
 **Collocations**
 - kokett lächeln
 - kokett wirken

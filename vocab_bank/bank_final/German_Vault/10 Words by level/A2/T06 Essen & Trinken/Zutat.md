@@ -34,6 +34,9 @@ status: "new"
 > Für den Kuchen brauchst du nur vier Zutaten.
 > *For the cake you only need four ingredients.*
 
+**Phrases & Expressions:**
+- **Für den Kuchen brauchst du nur vier Zutaten** — *For the cake you only need four ingredients* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt)
 <!-- bank:end -->
 

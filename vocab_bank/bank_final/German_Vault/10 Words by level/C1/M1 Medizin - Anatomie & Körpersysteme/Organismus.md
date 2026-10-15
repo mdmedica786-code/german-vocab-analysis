@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der menschliche Organismus braucht Wasser.
 > *The human organism needs water.*
+
+**Phrases & Expressions:**
+- **Der menschliche Organismus braucht Wasser** — *The human organism needs water* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

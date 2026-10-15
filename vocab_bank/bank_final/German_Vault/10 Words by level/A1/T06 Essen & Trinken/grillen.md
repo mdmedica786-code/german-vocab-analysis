@@ -33,6 +33,9 @@ status: "new"
 > Heute grillen wir im Garten.
 > *Today we're having a barbecue in the garden.*
 
+**Phrases & Expressions:**
+- **Heute grillen wir im Garten** — *Today we're having a barbecue in the garden* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 3a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Sie tragen die Verantwortung für Ihre Kinder.
 > *You bear the responsibility for your children.*
 
+**Phrases & Expressions:**
+- **Sie tragen die Verantwortung für Ihre Kinder** — *You bear the responsibility for your children* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

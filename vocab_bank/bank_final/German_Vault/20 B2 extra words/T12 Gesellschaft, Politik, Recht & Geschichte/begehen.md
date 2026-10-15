@@ -31,6 +31,11 @@ status: "new"
 > Er hat einen schweren Fehler begangen.
 > *He has committed a serious mistake.*
 
+**Phrases & Expressions:**
+- **einen Fehler begehen** — *to commit; to celebrate*
+- **ein Verbrechen begehen** — *to commit; to celebrate*
+- **einen Feiertag begehen** — *to commit; to celebrate*
+
 **Collocations**
 - einen Fehler begehen
 - ein Verbrechen begehen

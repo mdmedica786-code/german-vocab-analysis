@@ -33,6 +33,11 @@ status: "new"
 > Die Zusammenstellung der Daten dauerte lange.
 > *The compilation of the data took a long time.*
 
+**Phrases & Expressions:**
+- **die Zusammenstellung der Unterlagen** — *compilation; selection; composition*
+- **eine bunte Zusammenstellung** — *compilation; selection; composition*
+- **die Zusammenstellung des Teams** — *compilation; selection; composition*
+
 **Collocations**
 - die Zusammenstellung der Unterlagen
 - eine bunte Zusammenstellung

@@ -29,6 +29,12 @@ status: "new"
 > Sein Ton war respektlos und unhöflich.
 > *His tone was disrespectful and impolite.*
 
+**Phrases & Expressions:**
+- **Ich verstehe Ihren Ärger, aber ich kann kein respektloses Verhalten dulden.** — I understand your anger, but I cannot tolerate disrespectful behaviour. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Grenzen setzen]] · C1)*
+- **respektlos behandeln** — *disrespectful*
+- **sich respektlos benehmen** — *disrespectful*
+- **ein respektloses Verhalten** — *disrespectful*
+
 **Collocations**
 - respektlos behandeln
 - sich respektlos benehmen

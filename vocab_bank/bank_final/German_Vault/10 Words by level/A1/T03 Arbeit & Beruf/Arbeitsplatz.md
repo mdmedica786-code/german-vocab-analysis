@@ -35,6 +35,9 @@ status: "new"
 > An meinem Arbeitsplatz fehlt ein Drucker.
 > *At my workplace a printer is missing.*
 
+**Phrases & Expressions:**
+- **Sind Sie am Arbeitsplatz Schadstoffen oder Staub ausgesetzt?** — Are you exposed to harmful substances or dust at work? *([[FSP-05 Familien- und Sozialanamnese|Umweltbelastung erfragen]] · B2)*
+
 **Source:** Netzwerk neu A1 K10 1 ÜB (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

@@ -29,6 +29,9 @@ status: "new"
 > Man darf die Sicherheit nicht außer Acht lassen.
 > *One must not disregard safety.*
 
+**Phrases & Expressions:**
+- **Regeln außer Acht lassen** — *to disregard; to ignore*
+
 **Collocations**
 - Regeln außer Acht lassen
 

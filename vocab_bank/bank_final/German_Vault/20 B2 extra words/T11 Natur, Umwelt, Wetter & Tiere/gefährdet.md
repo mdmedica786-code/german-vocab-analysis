@@ -29,6 +29,11 @@ status: "new"
 > Viele Tierarten sind stark gefährdet.
 > *Many animal species are highly endangered.*
 
+**Phrases & Expressions:**
+- **stark gefährdet** — *endangered; at risk*
+- **akut gefährdet** — *endangered; at risk*
+- **gefährdete Arten** — *endangered; at risk*
+
 **Collocations**
 - stark gefährdet
 - akut gefährdet

@@ -31,6 +31,9 @@ status: "new"
 > [!example] Beispiel
 > Die Gäste begeben sich in den Speisesaal.
 > *The guests proceed to the dining room.*
+
+**Phrases & Expressions:**
+- **Die Gäste begeben sich in den Speisesaal** — *The guests proceed to the dining room* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

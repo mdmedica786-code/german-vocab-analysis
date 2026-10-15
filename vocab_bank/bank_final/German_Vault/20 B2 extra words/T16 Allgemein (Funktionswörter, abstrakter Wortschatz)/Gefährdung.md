@@ -33,6 +33,11 @@ status: "new"
 > Die Gefährdung der Kinder muss vermieden werden.
 > *The endangerment of the children must be avoided.*
 
+**Phrases & Expressions:**
+- **eine Gefährdung der Sicherheit** — *endangerment; risk; hazard*
+- **eine akute Gefährdung** — *endangerment; risk; hazard*
+- **Gefährdung durch Lärm** — *endangerment; risk; hazard*
+
 **Collocations**
 - eine Gefährdung der Sicherheit
 - eine akute Gefährdung

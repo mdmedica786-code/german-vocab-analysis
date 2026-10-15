@@ -33,6 +33,11 @@ status: "new"
 > Er sprach mit großer Verehrung von seinem Lehrer.
 > *He spoke of his teacher with great admiration.*
 
+**Phrases & Expressions:**
+- **große Verehrung** — *admiration; veneration*
+- **die Verehrung für** — *admiration; veneration*
+- **Verehrung genießen** — *admiration; veneration*
+
 **Collocations**
 - große Verehrung
 - die Verehrung für

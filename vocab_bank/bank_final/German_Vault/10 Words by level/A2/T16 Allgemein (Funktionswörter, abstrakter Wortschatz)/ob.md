@@ -32,6 +32,14 @@ status: "new"
 > Ich möchte gern wissen, ob ich das Auto überall abstellen kann.
 > *I would like to know if I can park the car anywhere.*
 
+**Phrases & Expressions:**
+- **unabhängig davon, ob ...** — regardless of whether ... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · C1)*
+- **fragen, ob ...** — to ask whether ... *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B1)*
+- **ist zu fragen, ob ...** — one must ask whether ... *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B2)*
+- **als ob ...** — as if ... *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B2)*
+- **egal, ob ...** — no matter whether ... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B1)*
+- **so, als ob ...** — as if ... *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B2)*
+
 **Source:** Netzwerk neu A2 K7 6c (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

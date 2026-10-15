@@ -33,6 +33,9 @@ status: "new"
 > Da klopft jemand ans Fenster.
 > *Someone is knocking at the window.*
 
+**Phrases & Expressions:**
+- **Da klopft jemand ans Fenster** — *Someone is knocking at the window* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 5b (In Hamburg) · Goethe word list B1
 <!-- bank:end -->
 

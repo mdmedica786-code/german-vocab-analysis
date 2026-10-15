@@ -33,6 +33,11 @@ status: "new"
 > Am Sonntag schauen wir einen Familienfilm.
 > *On Sunday we are watching a family film.*
 
+**Phrases & Expressions:**
+- **einen Familienfilm sehen** — *family film*
+- **ein lustiger Familienfilm** — *family film*
+- **ein Familienfilm im Kino** — *family film*
+
 **Collocations**
 - einen Familienfilm sehen
 - ein lustiger Familienfilm

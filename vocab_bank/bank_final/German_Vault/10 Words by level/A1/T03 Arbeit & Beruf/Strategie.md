@@ -34,6 +34,9 @@ status: "new"
 > Wir brauchen eine neue Strategie.
 > *We need a new strategy.*
 
+**Phrases & Expressions:**
+- **Wir brauchen eine neue Strategie** — *We need a new strategy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13a (Fit und gesund)
 <!-- bank:end -->
 

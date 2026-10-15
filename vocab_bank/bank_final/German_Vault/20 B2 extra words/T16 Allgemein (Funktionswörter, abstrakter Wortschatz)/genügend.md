@@ -29,6 +29,11 @@ status: "new"
 > Wir haben genügend Zeit für die Aufgabe.
 > *We have sufficient time for the task.*
 
+**Phrases & Expressions:**
+- **genügend Platz** — *sufficient; enough*
+- **genügend Geld** — *sufficient; enough*
+- **nicht genügend** — *sufficient; enough*
+
 **Collocations**
 - genügend Platz
 - genügend Geld

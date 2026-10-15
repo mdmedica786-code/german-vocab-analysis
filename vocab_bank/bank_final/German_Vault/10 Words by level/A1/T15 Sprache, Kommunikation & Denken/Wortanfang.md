@@ -34,6 +34,9 @@ status: "new"
 > Am Wortanfang schreibt man Nomen groß.
 > *Nouns are capitalised at the beginning of a word.*
 
+**Phrases & Expressions:**
+- **Am Wortanfang schreibt man Nomen groß** — *Nouns are capitalised at the beginning of a word* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 3c (Arbeitsalltag)
 <!-- bank:end -->
 

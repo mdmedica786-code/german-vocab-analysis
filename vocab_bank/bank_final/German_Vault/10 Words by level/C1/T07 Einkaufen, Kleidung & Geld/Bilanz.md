@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Bilanz des Jahres ist positiv.
 > *The balance sheet for the year is positive.*
+
+**Phrases & Expressions:**
+- **Die Bilanz des Jahres ist positiv** — *The balance sheet for the year is positive* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Im Brot sind viele Körner.
 > *There are many grains in the bread.*
+
+**Phrases & Expressions:**
+- **Im Brot sind viele Körner** — *There are many grains in the bread* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

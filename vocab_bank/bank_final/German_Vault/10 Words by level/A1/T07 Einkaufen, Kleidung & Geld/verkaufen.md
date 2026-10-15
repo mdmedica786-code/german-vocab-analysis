@@ -33,6 +33,9 @@ status: "new"
 > Er verkauft sein altes Auto.
 > *He is selling his old car.*
 
+**Phrases & Expressions:**
+- **Er verkauft sein altes Auto** — *He is selling his old car* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 13a (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

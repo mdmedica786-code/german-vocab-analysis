@@ -34,6 +34,14 @@ status: "new"
 > „Würstchen“ heißt auf Italienisch „wurstel“.
 > *In Italian, “Würstchen” is called “wurstel”.*
 
+**Phrases & Expressions:**
+- **das heißt, dass ...** — that means that ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B1)*
+- **es heißt, dass ...** — it is said that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **das heißt nicht, dass ...** — that doesn't mean that ... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B2)*
+- **Ich heiße ... und komme aus ...** — My name is ... and I come from ... *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Sich vorstellen]] · A2)*
+- **Die Erkrankung ist chronisch, das heißt, sie bleibt dauerhaft bestehen.** — The illness is chronic, meaning it persists permanently. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Chronische Erkrankung erklären]] · B2)*
+- **Diabetes heißt im Alltag Zuckerkrankheit.** — In everyday language diabetes is called sugar disease. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 1b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

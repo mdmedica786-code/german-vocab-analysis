@@ -33,6 +33,9 @@ status: "new"
 > Spielen Sie die Szene im Kurs vor.
 > *Act out the scene in class.*
 
+**Phrases & Expressions:**
+- **Spielen Sie die Szene im Kurs vor** — *Act out the scene in class* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 12 (Studium und Beruf)
 <!-- bank:end -->
 

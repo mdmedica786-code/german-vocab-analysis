@@ -30,6 +30,11 @@ status: "new"
 > Das war eine sehr freundliche Geste.
 > *That was a very friendly gesture.*
 
+**Phrases & Expressions:**
+- **eine Geste der Höflichkeit** — *gesture*
+- **eine einladende Geste** — *gesture*
+- **Gesten verstehen** — *gesture*
+
 **Collocations**
 - eine Geste der Höflichkeit
 - eine einladende Geste

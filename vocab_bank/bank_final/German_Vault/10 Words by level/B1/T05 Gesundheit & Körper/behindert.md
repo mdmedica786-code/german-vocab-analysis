@@ -31,6 +31,9 @@ status: "new"
 > Seit dem Unfall ist das Kind unserer Freunde behindert.
 > *Since the accident our friends' child has been disabled.*
 
+**Phrases & Expressions:**
+- **Seit dem Unfall ist das Kind unserer Freunde behindert** — *Since the accident our friends' child has been disabled* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

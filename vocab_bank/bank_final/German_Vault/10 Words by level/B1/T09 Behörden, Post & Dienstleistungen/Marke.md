@@ -35,6 +35,9 @@ status: "new"
 > Ich brauche bitte fünf Briefmarken zu 1 Euro.
 > *I need five one-euro stamps, please.*
 
+**Phrases & Expressions:**
+- **Ich brauche bitte fünf Briefmarken zu 1 Euro** — *I need five one-euro stamps, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > 40.000 Filmfans sehen an 10 Tagen Über 100 Filme.
 > *40.000 film fans watch over 100 films over the course of 10 days.*
 
+**Phrases & Expressions:**
+- **40.000 Filmfans sehen an 10 Tagen Über 100 Filme** — *40.000 film fans watch over 100 films over the course of 10 days* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

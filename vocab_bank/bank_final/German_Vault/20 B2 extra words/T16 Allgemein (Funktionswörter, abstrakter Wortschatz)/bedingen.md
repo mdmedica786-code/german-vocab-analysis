@@ -31,6 +31,11 @@ status: "new"
 > Die Verspätung ist durch das Wetter bedingt.
 > *The delay is caused by the weather.*
 
+**Phrases & Expressions:**
+- **sich gegenseitig bedingen** — *to cause; to necessitate*
+- **witterungsbedingt** — *to cause; to necessitate*
+- **bedingt durch** — *to cause; to necessitate*
+
 **Collocations**
 - sich gegenseitig bedingen
 - witterungsbedingt

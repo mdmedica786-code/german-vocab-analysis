@@ -33,6 +33,13 @@ status: "new"
 > Sie sprach viel, aber ihr Mann schwieg den ganzen Abend lang.
 > *She talked a lot, but her husband stayed silent the whole evening.*
 
+**Phrases & Expressions:**
+- **ganz zu schweigen von ...** — not to mention ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **über etwas schweigen** — *to remain silent*
+- **beharrlich schweigen** — *to remain silent*
+- **Schweigen brechen** — *to remain silent*
+- **schweigen wie ein Grab** — *to remain silent*
+
 **Collocations**
 - über etwas schweigen
 - beharrlich schweigen

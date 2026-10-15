@@ -33,6 +33,9 @@ status: "new"
 > Auf der Party habe ich mich sehr vergnügt.
 > *At the party I enjoyed myself a lot.*
 
+**Phrases & Expressions:**
+- **Auf der Party habe ich mich sehr vergnügt** — *At the party I enjoyed myself a lot* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

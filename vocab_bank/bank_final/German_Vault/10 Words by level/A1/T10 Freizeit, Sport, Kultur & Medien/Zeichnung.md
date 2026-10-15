@@ -35,6 +35,9 @@ status: "new"
 > Das ist eine schöne Zeichnung.
 > *That is a nice drawing.*
 
+**Phrases & Expressions:**
+- **Das ist eine schöne Zeichnung** — *That is a nice drawing* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 11a (Freunde, Kollegen und ich) · Goethe word list B1
 <!-- bank:end -->
 

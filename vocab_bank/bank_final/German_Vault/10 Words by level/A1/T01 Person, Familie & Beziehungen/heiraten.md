@@ -34,6 +34,9 @@ status: "new"
 > Meine Schwester heiratet einen Japaner.
 > **
 
+**Phrases & Expressions:**
+- **Meine Schwester heiratet einen Japaner** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 3a (Und was machst du?) · Goethe word list A1
 <!-- bank:end -->
 

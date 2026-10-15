@@ -31,6 +31,9 @@ status: "new"
 > Ich habe viele nette Kollegen.
 > *I have many nice colleagues.*
 
+**Phrases & Expressions:**
+- **Das ist wirklich nett von dir.** — That is really nice of you. *([[B1-17 Sich entschuldigen und danken|Danken]] · A2)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

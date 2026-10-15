@@ -32,6 +32,11 @@ status: "new"
 > In der Küche duftet es nach frischem Brot.
 > *The kitchen smells of fresh bread.*
 
+**Phrases & Expressions:**
+- **nach etwas duften** — *to smell good; to be fragrant*
+- **gut duften** — *to smell good; to be fragrant*
+- **es duftet** — *to smell good; to be fragrant*
+
 **Collocations**
 - nach etwas duften
 - gut duften

@@ -32,6 +32,9 @@ status: "new"
 > Ich google den Namen der Ärztin.
 > *I am googling the doctor's name.*
 
+**Phrases & Expressions:**
+- **Ich google den Namen der Ärztin** — *I am googling the doctor's name* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Esel trägt die Last.
 > *The donkey carries the load.*
+
+**Phrases & Expressions:**
+- **Der Esel trägt die Last** — *The donkey carries the load* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

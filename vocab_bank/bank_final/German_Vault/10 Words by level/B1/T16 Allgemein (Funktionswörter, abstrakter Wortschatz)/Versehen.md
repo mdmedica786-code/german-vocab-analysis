@@ -34,6 +34,9 @@ status: "new"
 > Ich habe aus Versehen den falschen Knopf gedrückt.
 > *I pressed the wrong button by mistake.*
 
+**Phrases & Expressions:**
+- **Ich habe aus Versehen den falschen Knopf gedrückt** — *I pressed the wrong button by mistake* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 6c (Arbeitswelt)
 <!-- bank:end -->
 

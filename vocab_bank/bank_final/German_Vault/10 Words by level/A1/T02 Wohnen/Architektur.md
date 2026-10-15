@@ -34,6 +34,9 @@ status: "new"
 > Die Architektur der Stadt gefällt mir sehr.
 > *I like the architecture of the city very much.*
 
+**Phrases & Expressions:**
+- **Die Architektur der Stadt gefällt mir sehr** — *I like the architecture of the city very much* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

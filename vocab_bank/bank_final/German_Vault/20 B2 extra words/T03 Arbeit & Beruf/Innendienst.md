@@ -33,6 +33,11 @@ status: "new"
 > Im Innendienst bearbeitet er Anfragen und Aufträge.
 > *In the office he deals with enquiries and orders.*
 
+**Phrases & Expressions:**
+- **im Innendienst arbeiten** — *office-based service*
+- **Innendienst und Außendienst** — *office-based service*
+- **Mitarbeiter im Innendienst** — *office-based service*
+
 **Collocations**
 - im Innendienst arbeiten
 - Innendienst und Außendienst

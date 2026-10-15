@@ -34,6 +34,9 @@ status: "new"
 > Nimmst du etwa Drogen?
 > *Do you take drugs?*
 
+**Phrases & Expressions:**
+- **Nehmen Sie Drogen oder andere Substanzen?** — Do you take drugs or other substances? *([[FSP-05 Familien- und Sozialanamnese|Drogen erfragen]] · B1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

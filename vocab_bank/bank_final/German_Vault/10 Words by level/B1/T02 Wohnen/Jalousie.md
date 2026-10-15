@@ -34,6 +34,9 @@ status: "new"
 > Abends ziehen wir die Jalousien herunter.
 > *In the evening we pull down the blinds.*
 
+**Phrases & Expressions:**
+- **Abends ziehen wir die Jalousien herunter** — *In the evening we pull down the blinds* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 6b (Das ist ja praktisch!)
 <!-- bank:end -->
 

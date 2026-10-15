@@ -34,6 +34,9 @@ status: "new"
 > Die Lebensqualität in dieser Stadt ist hoch.
 > *The quality of life in this city is high.*
 
+**Phrases & Expressions:**
+- **Die Lebensqualität in dieser Stadt ist hoch** — *The quality of life in this city is high* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

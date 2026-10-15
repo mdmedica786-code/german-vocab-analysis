@@ -34,6 +34,9 @@ status: "new"
 > Ich hätte gern einen Sack Kartoffeln.
 > *I would like a sack of potatoes.*
 
+**Phrases & Expressions:**
+- **Ich hätte gern einen Sack Kartoffeln** — *I would like a sack of potatoes* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

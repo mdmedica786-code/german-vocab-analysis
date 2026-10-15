@@ -31,6 +31,9 @@ status: "new"
 > Welche Passivform ist richtig?
 > *Which passive form is correct?*
 
+**Phrases & Expressions:**
+- **Welche Passivform ist richtig** — *Which passive form is correct* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 4b (Miteinander)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Er sagte nichts, woraufhin sie den Raum verließ.
 > *He said nothing, whereupon she left the room.*
 
+**Phrases & Expressions:**
+- **woraufhin sie** — *whereupon; after which*
+- **woraufhin er** — *whereupon; after which*
+- **woraufhin folgte** — *whereupon; after which*
+
 **Collocations**
 - woraufhin sie
 - woraufhin er

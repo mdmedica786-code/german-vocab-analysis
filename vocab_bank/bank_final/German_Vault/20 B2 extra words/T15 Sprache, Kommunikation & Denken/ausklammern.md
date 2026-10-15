@@ -32,6 +32,11 @@ status: "new"
 > Das heikle Thema wurde bei den Gesprächen ausgeklammert.
 > *The delicate topic was left out of the talks.*
 
+**Phrases & Expressions:**
+- **ein Thema ausklammern** — *to exclude; to leave out*
+- **Fragen ausklammern** — *to exclude; to leave out*
+- **bewusst ausklammern** — *to exclude; to leave out*
+
 **Collocations**
 - ein Thema ausklammern
 - Fragen ausklammern

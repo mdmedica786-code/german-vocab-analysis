@@ -35,6 +35,9 @@ status: "new"
 > Sein Bruder arbeitet auch hier.
 > *His brother also works here.*
 
+**Phrases & Expressions:**
+- **Sein Bruder arbeitet auch hier** — *His brother also works here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 8a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

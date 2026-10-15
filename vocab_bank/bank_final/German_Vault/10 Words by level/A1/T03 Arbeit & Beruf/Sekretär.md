@@ -35,6 +35,9 @@ status: "new"
 > Der neue Sekretär hat sich gestern vorgestellt.
 > *The new secretary introduced himself yesterday.*
 
+**Phrases & Expressions:**
+- **Der neue Sekretär hat sich gestern vorgestellt** — *The new secretary introduced himself yesterday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 7a (Studium und Beruf) · Goethe word list B1
 <!-- bank:end -->
 

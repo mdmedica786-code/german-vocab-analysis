@@ -26,6 +26,11 @@ status: "new"
 > Der Konzern ist sehr mächtig geworden.
 > *The corporation has become very powerful.*
 
+**Phrases & Expressions:**
+- **ein mächtiger Mann** — *powerful; mighty*
+- **einer Sprache mächtig sein** — *powerful; mighty*
+- **mächtig stolz** — *powerful; mighty*
+
 **Collocations**
 - ein mächtiger Mann
 - einer Sprache mächtig sein

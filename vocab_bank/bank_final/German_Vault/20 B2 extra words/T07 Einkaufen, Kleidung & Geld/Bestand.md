@@ -33,6 +33,11 @@ status: "new"
 > Der Bestand an Büchern ist im Lager gering.
 > *The stock of books in the warehouse is low.*
 
+**Phrases & Expressions:**
+- **den Bestand prüfen** — *stock; inventory; existence*
+- **der Bestand an + Dat.** — *stock; inventory; existence*
+- **im Bestand sein** — *stock; inventory; existence*
+
 **Collocations**
 - den Bestand prüfen
 - der Bestand an + Dat.

@@ -33,6 +33,11 @@ status: "new"
 > Die Insel ist ein Paradies für Taucher.
 > *The island is a paradise for divers.*
 
+**Phrases & Expressions:**
+- **ein Paradies auf Erden** — *paradise*
+- **das verlorene Paradies** — *paradise*
+- **ein Paradies für Kinder** — *paradise*
+
 **Collocations**
 - ein Paradies auf Erden
 - das verlorene Paradies

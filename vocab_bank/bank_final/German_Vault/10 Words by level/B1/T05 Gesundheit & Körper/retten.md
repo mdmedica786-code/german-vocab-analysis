@@ -33,6 +33,9 @@ status: "new"
 > Der Arzt konnte das Kind noch retten.
 > *The doctor was still able to save the child.*
 
+**Phrases & Expressions:**
+- **Der Arzt konnte das Kind noch retten** — *The doctor was still able to save the child* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 9a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

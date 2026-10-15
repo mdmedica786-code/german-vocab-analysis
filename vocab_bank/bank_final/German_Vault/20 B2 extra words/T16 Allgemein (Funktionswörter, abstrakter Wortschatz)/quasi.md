@@ -29,6 +29,11 @@ status: "new"
 > Er ist quasi mein zweiter Vater.
 > *He is, so to speak, my second father.*
 
+**Phrases & Expressions:**
+- **quasi wie** — *virtually; so to speak*
+- **quasi nichts** — *virtually; so to speak*
+- **quasi umsonst** — *virtually; so to speak*
+
 **Collocations**
 - quasi wie
 - quasi nichts

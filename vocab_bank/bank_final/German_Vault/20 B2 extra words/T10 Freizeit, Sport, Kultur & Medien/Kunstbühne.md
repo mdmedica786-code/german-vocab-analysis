@@ -30,6 +30,11 @@ status: "new"
 > Die Kunstbühne zeigt Theater und Tanz.
 > *The art stage shows theatre and dance.*
 
+**Phrases & Expressions:**
+- **auf der Kunstbühne** — *art stage; stage for the arts*
+- **eine Kunstbühne eröffnen** — *art stage; stage for the arts*
+- **eine kleine Kunstbühne** — *art stage; stage for the arts*
+
 **Collocations**
 - auf der Kunstbühne
 - eine Kunstbühne eröffnen

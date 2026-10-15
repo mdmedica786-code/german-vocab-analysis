@@ -34,6 +34,9 @@ status: "new"
 > Am Wochenende sehen wir einen Actionfilm.
 > *At the weekend we're watching an action film.*
 
+**Phrases & Expressions:**
+- **Am Wochenende sehen wir einen Actionfilm** — *At the weekend we're watching an action film* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12a (Immer online?)
 <!-- bank:end -->
 

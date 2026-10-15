@@ -32,6 +32,11 @@ status: "new"
 > Soll ich den Betrag auf zehn Euro aufrunden?
 > *Shall I round the amount up to ten euros?*
 
+**Phrases & Expressions:**
+- **eine Zahl aufrunden** — *to round up*
+- **den Betrag aufrunden** — *to round up*
+- **großzügig aufrunden** — *to round up*
+
 **Collocations**
 - eine Zahl aufrunden
 - den Betrag aufrunden

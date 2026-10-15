@@ -33,6 +33,9 @@ status: "new"
 > Wie kann ich meine alte Kaffeemaschine entsorgen?
 > *How can I dispose of my old coffee machine?*
 
+**Phrases & Expressions:**
+- **Wie kann ich meine alte Kaffeemaschine entsorgen** — *How can I dispose of my old coffee machine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7b (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

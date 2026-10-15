@@ -33,6 +33,11 @@ status: "new"
 > Die Polizei hat keine Anhaltspunkte für ein Verbrechen.
 > *The police have no indications of a crime.*
 
+**Phrases & Expressions:**
+- **einen Anhaltspunkt geben** — *clue; indication; reference point*
+- **keine Anhaltspunkte haben** — *clue; indication; reference point*
+- **als Anhaltspunkt dienen** — *clue; indication; reference point*
+
 **Collocations**
 - einen Anhaltspunkt geben
 - keine Anhaltspunkte haben

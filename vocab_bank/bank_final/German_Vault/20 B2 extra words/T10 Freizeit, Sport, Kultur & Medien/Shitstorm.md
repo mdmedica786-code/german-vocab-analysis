@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Foto erlebte die Firma einen Shitstorm im Netz.
 > *After the photo the company experienced a shitstorm online.*
 
+**Phrases & Expressions:**
+- **einen Shitstorm auslösen** — *online outrage; storm of criticism*
+- **in einen Shitstorm geraten** — *online outrage; storm of criticism*
+- **Shitstorm im Netz** — *online outrage; storm of criticism*
+
 **Collocations**
 - einen Shitstorm auslösen
 - in einen Shitstorm geraten

@@ -33,6 +33,11 @@ status: "new"
 > In der Thermoskanne bleibt der Tee stundenlang heiß.
 > *In the thermos flask the tea stays hot for hours.*
 
+**Phrases & Expressions:**
+- **Kaffee in die Thermoskanne füllen** — *thermos flask*
+- **eine Thermoskanne mitnehmen** — *thermos flask*
+- **heißer Tee in der Thermoskanne** — *thermos flask*
+
 **Collocations**
 - Kaffee in die Thermoskanne füllen
 - eine Thermoskanne mitnehmen

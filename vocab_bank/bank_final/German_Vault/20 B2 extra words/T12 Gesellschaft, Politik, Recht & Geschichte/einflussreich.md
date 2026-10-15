@@ -29,6 +29,11 @@ status: "new"
 > Sie gehört zu den einflussreichsten Politikerinnen des Landes.
 > *She is one of the most influential politicians in the country.*
 
+**Phrases & Expressions:**
+- **ein einflussreicher Politiker** — *influential*
+- **einflussreiche Personen** — *influential*
+- **sehr einflussreich sein** — *influential*
+
 **Collocations**
 - ein einflussreicher Politiker
 - einflussreiche Personen

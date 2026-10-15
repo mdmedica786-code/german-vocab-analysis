@@ -33,6 +33,12 @@ status: "new"
 > Der Erreger der Krankheit ist ein Virus.
 > *The pathogen of the disease is a virus.*
 
+**Phrases & Expressions:**
+- **einen Erreger nachweisen** — *pathogen*
+- **ansteckender Erreger** — *pathogen*
+- **Erreger identifizieren** — *pathogen*
+- **Erreger übertragen** — *pathogen*
+
 **Collocations**
 - einen Erreger nachweisen
 - ansteckender Erreger

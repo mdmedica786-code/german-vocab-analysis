@@ -34,6 +34,9 @@ status: "new"
 > Wir sehen den Sonnenaufgang vom Berg aus.
 > *We watch the sunrise from the mountain.*
 
+**Phrases & Expressions:**
+- **Wir sehen den Sonnenaufgang vom Berg aus** — *We watch the sunrise from the mountain* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!)
 <!-- bank:end -->
 

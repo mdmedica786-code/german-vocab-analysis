@@ -33,6 +33,9 @@ status: "new"
 > Wer betreut bei Ihnen die Kinder?
 > *Who looks after the children at your place?*
 
+**Phrases & Expressions:**
+- **Wer betreut bei Ihnen die Kinder** — *Who looks after the children at your place* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 1a (Studium und Beruf) · Goethe word list B1
 <!-- bank:end -->
 

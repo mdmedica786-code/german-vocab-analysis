@@ -29,6 +29,9 @@ status: "new"
 > Annähernd tausend Gäste waren gekommen.
 > *Almost a thousand guests had come.*
 
+**Phrases & Expressions:**
+- **Annähernd tausend Gäste waren gekommen** — *Almost a thousand guests had come* *(Beispiel im Kontext)*
+
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->
 

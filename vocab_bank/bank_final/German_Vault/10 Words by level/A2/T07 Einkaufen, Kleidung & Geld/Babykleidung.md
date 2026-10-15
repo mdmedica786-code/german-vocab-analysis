@@ -34,6 +34,9 @@ status: "new"
 > Wir kaufen Babykleidung in dem kleinen Laden.
 > *We buy baby clothes in the small shop.*
 
+**Phrases & Expressions:**
+- **Wir kaufen Babykleidung in dem kleinen Laden** — *We buy baby clothes in the small shop* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle)
 <!-- bank:end -->
 

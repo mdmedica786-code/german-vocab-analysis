@@ -34,6 +34,9 @@ status: "new"
 > Sie hat einen wachen Geist.
 > *She has a sharp mind.*
 
+**Phrases & Expressions:**
+- **Sie hat einen wachen Geist** — *She has a sharp mind* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist)
 <!-- bank:end -->
 

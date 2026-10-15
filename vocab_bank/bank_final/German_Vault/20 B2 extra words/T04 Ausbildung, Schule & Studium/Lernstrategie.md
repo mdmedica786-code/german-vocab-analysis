@@ -33,6 +33,11 @@ status: "new"
 > Wer eine Sprache lernt, sollte verschiedene Lernstrategien ausprobieren.
 > *Anyone learning a language should try different learning strategies.*
 
+**Phrases & Expressions:**
+- **eine Lernstrategie entwickeln** — *learning strategy*
+- **effektive Lernstrategien** — *learning strategy*
+- **Lernstrategien anwenden** — *learning strategy*
+
 **Collocations**
 - eine Lernstrategie entwickeln
 - effektive Lernstrategien

@@ -35,6 +35,9 @@ status: "new"
 > Im Treppenhaus ist kein Licht.
 > *There is no light in the stairwell.*
 
+**Phrases & Expressions:**
+- **Im Treppenhaus ist kein Licht** — *There is no light in the stairwell* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 10d (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Markieren Sie die Wortgruppen im Satz.
 > *Mark the word groups in the sentence.*
 
+**Phrases & Expressions:**
+- **Markieren Sie die Wortgruppen im Satz** — *Mark the word groups in the sentence* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 10c (Guten Appetit!)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Ein wichtiger Aspekt ist die Sicherheit.
 > *An important aspect is safety.*
 
+**Phrases & Expressions:**
+- **Ein wichtiger Aspekt ist die Sicherheit** — *An important aspect is safety* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 9a (Veränderungen)
 <!-- bank:end -->
 

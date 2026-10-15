@@ -34,6 +34,9 @@ status: "new"
 > Er wurde zu fünf Jahren Gefängnis verurteilt.
 > *He was sentenced to five years in prison.*
 
+**Phrases & Expressions:**
+- **Er wurde zu fünf Jahren Gefängnis verurteilt** — *He was sentenced to five years in prison* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

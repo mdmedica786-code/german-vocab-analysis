@@ -31,6 +31,12 @@ status: "new"
 > Das Gespräch stockte für einen Moment.
 > *The conversation faltered for a moment.*
 
+**Phrases & Expressions:**
+- **ins Stocken kommen** — to falter *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B1)*
+- **der Verkehr stockt** — *to falter; to come to a halt; to stall*
+- **das Gespräch stockt** — *to falter; to come to a halt; to stall*
+- **der Atem stockt** — *to falter; to come to a halt; to stall*
+
 **Collocations**
 - der Verkehr stockt
 - das Gespräch stockt

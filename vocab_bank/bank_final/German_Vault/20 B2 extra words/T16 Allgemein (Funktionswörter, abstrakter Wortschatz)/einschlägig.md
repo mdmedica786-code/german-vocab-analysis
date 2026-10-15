@@ -29,6 +29,11 @@ status: "new"
 > Er hat einschlägige Erfahrung in diesem Bereich.
 > *He has relevant experience in this field.*
 
+**Phrases & Expressions:**
+- **einschlägige Erfahrung** — *relevant; pertinent; appropriate*
+- **einschlägige Literatur** — *relevant; pertinent; appropriate*
+- **einschlägig bekannt** — *relevant; pertinent; appropriate*
+
 **Collocations**
 - einschlägige Erfahrung
 - einschlägige Literatur

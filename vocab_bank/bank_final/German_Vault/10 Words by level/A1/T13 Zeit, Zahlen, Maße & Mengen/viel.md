@@ -32,6 +32,14 @@ status: "new"
 > Hier regnet es viel.
 > *It rains a lot here.*
 
+**Phrases & Expressions:**
+- **wie viel** — how much *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A1)*
+- **so viel** — so much *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+- **viel Zeit** — a lot of time *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+- **viel besser** — much better *([[Vergleichen (comparison)|Vergleichen (comparison)]] · A2)*
+- **viel zu** — much too *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+- **Um wie viel Uhr treffen wir uns?** — What time shall we meet? *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Uhrzeit festlegen]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 7a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

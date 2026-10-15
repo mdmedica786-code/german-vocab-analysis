@@ -33,6 +33,11 @@ status: "new"
 > Am Fließband arbeiten viele Menschen im Schichtbetrieb.
 > *Many people work in shifts on the assembly line.*
 
+**Phrases & Expressions:**
+- **am Fließband arbeiten** — *assembly line; conveyor belt*
+- **vom Fließband laufen** — *assembly line; conveyor belt*
+- **Fließband anhalten** — *assembly line; conveyor belt*
+
 **Collocations**
 - am Fließband arbeiten
 - vom Fließband laufen

@@ -29,6 +29,11 @@ status: "new"
 > Bitte lesen Sie den Vertrag sorgfältig durch.
 > *Please read the contract through carefully.*
 
+**Phrases & Expressions:**
+- **sorgfältig prüfen** — *careful; thorough*
+- **sorgfältig arbeiten** — *careful; thorough*
+- **eine sorgfältige Planung** — *careful; thorough*
+
 **Collocations**
 - sorgfältig prüfen
 - sorgfältig arbeiten

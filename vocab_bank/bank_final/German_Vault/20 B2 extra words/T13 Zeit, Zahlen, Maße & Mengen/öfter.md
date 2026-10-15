@@ -29,6 +29,12 @@ status: "new"
 > Ich würde dich gern öfter sehen.
 > *I would like to see you more often.*
 
+**Phrases & Expressions:**
+- **Wenn ich mehr Zeit hätte, würde ich öfter reisen.** — If I had more time, I would travel more often. *([[B2-10 Bedingungen, Folgen und irreale Wünsche|Irreale Wünsche]] · B2)*
+- **öfter als** — *more often; several times*
+- **immer öfter** — *more often; several times*
+- **öfter mal** — *more often; several times*
+
 **Collocations**
 - öfter als
 - immer öfter

@@ -29,6 +29,11 @@ status: "new"
 > Beharrlich verfolgte sie ihr Ziel.
 > *She pursued her goal persistently.*
 
+**Phrases & Expressions:**
+- **beharrlich arbeiten** — *persistent; tenacious*
+- **beharrlich schweigen** — *persistent; tenacious*
+- **beharrlich bleiben** — *persistent; tenacious*
+
 **Collocations**
 - beharrlich arbeiten
 - beharrlich schweigen

@@ -30,6 +30,11 @@ status: "new"
 > Die Fremdsprachensekretärin übersetzt die E-Mails des Chefs.
 > *The foreign-language secretary translates the boss's emails.*
 
+**Phrases & Expressions:**
+- **als Fremdsprachensekretärin arbeiten** — *foreign-language secretary (female)*
+- **eine erfahrene Fremdsprachensekretärin** — *foreign-language secretary (female)*
+- **Fremdsprachensekretärin werden** — *foreign-language secretary (female)*
+
 **Collocations**
 - als Fremdsprachensekretärin arbeiten
 - eine erfahrene Fremdsprachensekretärin

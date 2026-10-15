@@ -34,6 +34,9 @@ status: "new"
 > Nimm den Schirm mit, es regnet.
 > *Take the umbrella with you, it is raining.*
 
+**Phrases & Expressions:**
+- **Nimm den Schirm mit, es regnet** — *Take the umbrella with you, it is raining* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

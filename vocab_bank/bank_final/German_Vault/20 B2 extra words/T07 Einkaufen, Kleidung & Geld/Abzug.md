@@ -33,6 +33,11 @@ status: "new"
 > Nach Abzug der Steuern bleiben ihm 2000 Euro im Monat.
 > *After deduction of taxes he has 2,000 euros a month left.*
 
+**Phrases & Expressions:**
+- **nach Abzug der Kosten** — *deduction; withdrawal*
+- **Abzüge vom Lohn** — *deduction; withdrawal*
+- **ein Abzug von der Steuer** — *deduction; withdrawal*
+
 **Collocations**
 - nach Abzug der Kosten
 - Abzüge vom Lohn

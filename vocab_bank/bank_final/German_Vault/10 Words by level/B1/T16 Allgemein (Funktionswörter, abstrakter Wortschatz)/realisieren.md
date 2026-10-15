@@ -33,6 +33,9 @@ status: "new"
 > Diese Pläne sind nicht zu realisieren.
 > *These plans cannot be realised.*
 
+**Phrases & Expressions:**
+- **Diese Pläne sind nicht zu realisieren** — *These plans cannot be realised* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 4a (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

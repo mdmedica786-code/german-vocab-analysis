@@ -31,6 +31,9 @@ status: "new"
 > Der Pass ist nicht mehr gültig.
 > *The passport is no longer valid.*
 
+**Phrases & Expressions:**
+- **Der Pass ist nicht mehr gültig** — *The passport is no longer valid* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 5d (Leben in der Stadt) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Opposition kritisiert die Pläne der Regierung scharf.
 > *The opposition sharply criticises the government's plans.*
 
+**Phrases & Expressions:**
+- **in der Opposition sein** — *opposition*
+- **die Opposition kritisiert** — *opposition*
+- **Oppositionsführer** — *opposition*
+
 **Collocations**
 - in der Opposition sein
 - die Opposition kritisiert

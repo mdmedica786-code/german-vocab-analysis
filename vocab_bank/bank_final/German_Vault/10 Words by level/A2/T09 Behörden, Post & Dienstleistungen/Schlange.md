@@ -35,6 +35,9 @@ status: "new"
 > Auf der Post gibt es immer eine lange (Warte-)Schlange.
 > *At the post office there is always a long queue.*
 
+**Phrases & Expressions:**
+- **Auf der Post gibt es immer eine lange (Warte-)Schlange** — *At the post office there is always a long queue* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 11c (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

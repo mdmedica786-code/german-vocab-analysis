@@ -33,6 +33,11 @@ status: "new"
 > Der Angeklagte legte ein Geständnis ab.
 > *The accused made a confession.*
 
+**Phrases & Expressions:**
+- **ein Geständnis ablegen** — *confession*
+- **ein Geständnis machen** — *confession*
+- **zu einem Geständnis bereit sein** — *confession*
+
 **Collocations**
 - ein Geständnis ablegen
 - ein Geständnis machen

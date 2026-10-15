@@ -35,6 +35,9 @@ status: "new"
 > Mein Girokonto kostet gar nichts.
 > *My current account costs nothing at all.*
 
+**Phrases & Expressions:**
+- **Mein Girokonto kostet gar nichts** — *My current account costs nothing at all* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 5a ÜB (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

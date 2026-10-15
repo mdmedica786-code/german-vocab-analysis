@@ -31,6 +31,11 @@ status: "new"
 > Ich traue ihm nicht mehr.
 > *I no longer trust him.*
 
+**Phrases & Expressions:**
+- **jemandem trauen** — *to trust; to dare; to marry*
+- **sich trauen** — *to trust; to dare; to marry*
+- **sich nicht trauen, etwas zu tun** — *to trust; to dare; to marry*
+
 **Collocations**
 - jemandem trauen
 - sich trauen

@@ -34,6 +34,9 @@ status: "new"
 > Können Sie bitte die Heizung einschalten?
 > *Could you please switch on the heating?*
 
+**Phrases & Expressions:**
+- **Können Sie bitte die Heizung einschalten** — *Could you please switch on the heating* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 6d (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

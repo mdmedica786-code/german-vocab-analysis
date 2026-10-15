@@ -32,6 +32,9 @@ status: "new"
 > Der Pilot steuert das Flugzeug sicher.
 > *The pilot steers the plane safely.*
 
+**Phrases & Expressions:**
+- **Der Pilot steuert das Flugzeug sicher** — *The pilot steers the plane safely* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 6b (Das ist ja praktisch!)
 <!-- bank:end -->
 

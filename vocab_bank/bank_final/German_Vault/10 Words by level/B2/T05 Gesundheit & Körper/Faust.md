@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Er ballte die Hand zur Faust.
 > *He clenched his hand into a fist.*
+
+**Phrases & Expressions:**
+- **Machen Sie bitte eine Faust und halten Sie den Arm ruhig.** — Please make a fist and keep your arm still. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Blutabnahme]] · B1)*
 <!-- bank:end -->
 
 ## My notes

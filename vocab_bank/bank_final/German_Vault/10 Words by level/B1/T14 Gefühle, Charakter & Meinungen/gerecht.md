@@ -31,6 +31,9 @@ status: "new"
 > Lass uns den Kuchen gerecht verteilen.
 > *Let's divide the cake fairly.*
 
+**Phrases & Expressions:**
+- **Lass uns den Kuchen gerecht verteilen** — *Let's divide the cake fairly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

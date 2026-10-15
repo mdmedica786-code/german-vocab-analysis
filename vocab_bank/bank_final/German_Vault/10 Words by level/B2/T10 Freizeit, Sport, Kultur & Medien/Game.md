@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Er spielt gern Games am Computer.
 > *He likes playing games on the computer.*
+
+**Phrases & Expressions:**
+- **Er spielt gern Games am Computer** — *He likes playing games on the computer* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

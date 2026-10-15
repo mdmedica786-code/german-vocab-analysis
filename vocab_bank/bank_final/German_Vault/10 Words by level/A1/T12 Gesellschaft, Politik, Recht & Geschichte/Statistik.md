@@ -35,6 +35,9 @@ status: "new"
 > Die Statistik zeigt, dass jeder zweite ein Fahrrad besitzt.
 > *The statistics show that every second person owns a bicycle.*
 
+**Phrases & Expressions:**
+- **Die Statistik zeigt, dass jeder zweite ein Fahrrad besitzt** — *The statistics show that every second person owns a bicycle* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 4a (Studium und Beruf) · Goethe word list B1
 <!-- bank:end -->
 

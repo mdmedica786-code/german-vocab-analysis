@@ -31,6 +31,11 @@ status: "new"
 > Der Termin wurde schriftlich fixiert.
 > *The date was fixed in writing.*
 
+**Phrases & Expressions:**
+- **schriftlich fixieren** — *to fix; to fixate on*
+- **auf etwas fixiert sein** — *to fix; to fixate on*
+- **einen Termin fixieren** — *to fix; to fixate on*
+
 **Collocations**
 - schriftlich fixieren
 - auf etwas fixiert sein

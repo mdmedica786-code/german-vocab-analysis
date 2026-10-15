@@ -31,6 +31,11 @@ status: "new"
 > Der Vertrag muss bis Ende des Jahres erneuert werden.
 > *The contract must be renewed by the end of the year.*
 
+**Phrases & Expressions:**
+- **einen Vertrag erneuern** — *to renew; to renovate*
+- **einen Ausweis erneuern** — *to renew; to renovate*
+- **die Heizung erneuern** — *to renew; to renovate*
+
 **Collocations**
 - einen Vertrag erneuern
 - einen Ausweis erneuern

@@ -29,6 +29,11 @@ status: "new"
 > Er reagiert intolerant auf andere Meinungen.
 > *He reacts intolerantly to other opinions.*
 
+**Phrases & Expressions:**
+- **intolerant sein** — *intolerant*
+- **ein intoleranter Mensch** — *intolerant*
+- **intolerant gegenüber anderen** — *intolerant*
+
 **Collocations**
 - intolerant sein
 - ein intoleranter Mensch

@@ -30,6 +30,9 @@ status: "new"
 > Er war zornig über die Entscheidung.
 > *He was angry about the decision.*
 
+**Phrases & Expressions:**
+- **Er war zornig über die Entscheidung** — *He was angry about the decision* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

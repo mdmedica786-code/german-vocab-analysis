@@ -26,6 +26,9 @@ status: "new"
 > Die Firma erteilte dem Architekten den Auftrag.
 > *The company commissioned the architect.*
 
+**Phrases & Expressions:**
+- **einen Auftrag erhalten** — *to place an order; to commission*
+
 **Collocations**
 - einen Auftrag erhalten
 

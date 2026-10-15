@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Die Polizei konnte den Täter identifizieren.
 > *The police were able to identify the culprit.*
+
+**Phrases & Expressions:**
+- **Die Polizei konnte den Täter identifizieren** — *The police were able to identify the culprit* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

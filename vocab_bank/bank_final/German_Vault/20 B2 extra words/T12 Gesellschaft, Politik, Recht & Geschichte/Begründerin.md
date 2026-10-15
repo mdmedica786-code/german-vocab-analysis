@@ -33,6 +33,11 @@ status: "new"
 > Sie ist die Begründerin dieser Bewegung.
 > *She is the founder of this movement.*
 
+**Phrases & Expressions:**
+- **die Begründerin einer Schule** — *founder (female); originator*
+- **die Begründerin der Bewegung** — *founder (female); originator*
+- **als Begründerin gelten** — *founder (female); originator*
+
 **Collocations**
 - die Begründerin einer Schule
 - die Begründerin der Bewegung

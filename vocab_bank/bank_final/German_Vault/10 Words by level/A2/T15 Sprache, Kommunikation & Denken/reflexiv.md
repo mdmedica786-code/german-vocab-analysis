@@ -30,6 +30,9 @@ status: "new"
 > „Sich freuen“ ist ein reflexives Verb.
 > *"Sich freuen" is a reflexive verb.*
 
+**Phrases & Expressions:**
+- **„Sich freuen“ ist ein reflexives Verb** — *"Sich freuen" is a reflexive verb* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 6a (Große und kleine Gefühle)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Ihr Führungsstil ist offen und freundlich.
 > *Her leadership style is open and friendly.*
 
+**Phrases & Expressions:**
+- **ein autoritärer Führungsstil** — *leadership style; management style*
+- **einen Führungsstil entwickeln** — *leadership style; management style*
+- **der Führungsstil des Chefs** — *leadership style; management style*
+
 **Collocations**
 - ein autoritärer Führungsstil
 - einen Führungsstil entwickeln

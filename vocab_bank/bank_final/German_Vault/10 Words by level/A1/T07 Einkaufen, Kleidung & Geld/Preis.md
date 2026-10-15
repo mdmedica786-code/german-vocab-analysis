@@ -35,6 +35,9 @@ status: "new"
 > Die Preise sind hoch.
 > *The prices are high.*
 
+**Phrases & Expressions:**
+- **Die Preise sind hoch** — *The prices are high* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 6a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

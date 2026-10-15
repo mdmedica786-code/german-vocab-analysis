@@ -34,6 +34,9 @@ status: "new"
 > Sie malt gern Aquarelle.
 > *She likes painting watercolours.*
 
+**Phrases & Expressions:**
+- **Sie malt gern Aquarelle** — *She likes painting watercolours* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7b (Kunststücke)
 <!-- bank:end -->
 

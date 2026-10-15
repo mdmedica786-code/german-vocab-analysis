@@ -33,6 +33,11 @@ status: "new"
 > Ich kann Ihnen zwei Referenzen von früheren Arbeitgebern geben.
 > *I can give you two references from former employers.*
 
+**Phrases & Expressions:**
+- **Referenzen vorlegen** — *reference; testimonial*
+- **gute Referenzen haben** — *reference; testimonial*
+- **auf Referenzen verweisen** — *reference; testimonial*
+
 **Collocations**
 - Referenzen vorlegen
 - gute Referenzen haben

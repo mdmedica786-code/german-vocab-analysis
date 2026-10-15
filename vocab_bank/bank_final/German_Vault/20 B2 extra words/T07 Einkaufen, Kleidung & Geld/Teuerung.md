@@ -33,6 +33,11 @@ status: "new"
 > Die Teuerung trifft vor allem Familien mit wenig Geld.
 > *The rise in prices mainly affects families with little money.*
 
+**Phrases & Expressions:**
+- **allgemeine Teuerung** — *rise in prices*
+- **Teuerung der Lebenshaltungskosten** — *rise in prices*
+- **Teuerung ausgleichen** — *rise in prices*
+
 **Collocations**
 - allgemeine Teuerung
 - Teuerung der Lebenshaltungskosten

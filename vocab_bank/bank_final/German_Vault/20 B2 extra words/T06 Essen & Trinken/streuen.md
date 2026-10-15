@@ -31,6 +31,11 @@ status: "new"
 > Bei Glatteis streut die Stadt Salz auf die Straßen.
 > *In case of ice the city scatters salt on the roads.*
 
+**Phrases & Expressions:**
+- **Salz streuen** — *to scatter; to sprinkle*
+- **Zucker auf den Kuchen streuen** — *to scatter; to sprinkle*
+- **Gerüchte streuen** — *to scatter; to sprinkle*
+
 **Collocations**
 - Salz streuen
 - Zucker auf den Kuchen streuen

@@ -34,6 +34,9 @@ status: "new"
 > Ohne Motivation lernt man schlecht.
 > *Without motivation one learns badly.*
 
+**Phrases & Expressions:**
+- **Ohne Motivation lernt man schlecht** — *Without motivation one learns badly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 11a (Rund um Körper und Geist)
 <!-- bank:end -->
 

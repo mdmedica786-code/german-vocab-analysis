@@ -35,6 +35,12 @@ status: "new"
 > Vertreter von Kunst und Wissenschaft treffen sich heute in Berlin.
 > *Representatives of art and science are meeting in Berlin today.*
 
+**Phrases & Expressions:**
+- **Wissenschaft und Forschung** — *science*
+- **in der Wissenschaft arbeiten** — *science*
+- **die Wissenschaft belegt** — *science*
+- **moderne Wissenschaft** — *science*
+
 **Collocations**
 - Wissenschaft und Forschung
 - in der Wissenschaft arbeiten

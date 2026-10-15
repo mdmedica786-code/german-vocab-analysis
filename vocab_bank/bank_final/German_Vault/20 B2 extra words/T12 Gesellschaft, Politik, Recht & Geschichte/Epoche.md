@@ -33,6 +33,11 @@ status: "new"
 > Die Romantik ist eine literarische Epoche.
 > *Romanticism is a literary epoch.*
 
+**Phrases & Expressions:**
+- **eine Epoche prägen** — *epoch; era*
+- **eine neue Epoche** — *epoch; era*
+- **Epoche machen** — *epoch; era*
+
 **Collocations**
 - eine Epoche prägen
 - eine neue Epoche

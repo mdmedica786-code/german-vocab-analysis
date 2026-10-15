@@ -33,6 +33,9 @@ status: "new"
 > Er hat das Fahrrad repariert.
 > *He repaired the bicycle.*
 
+**Phrases & Expressions:**
+- **Er hat das Fahrrad repariert** — *He repaired the bicycle* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 9a (Gelernt ist gelernt!) · Goethe word list A1
 <!-- bank:end -->
 

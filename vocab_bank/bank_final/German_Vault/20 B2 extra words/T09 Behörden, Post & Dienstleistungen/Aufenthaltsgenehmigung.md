@@ -33,6 +33,11 @@ status: "new"
 > Ohne Aufenthaltsgenehmigung darf man nicht arbeiten.
 > *Without a residence permit you may not work.*
 
+**Phrases & Expressions:**
+- **eine Aufenthaltsgenehmigung beantragen** — *residence permit*
+- **Aufenthaltsgenehmigung verlängern** — *residence permit*
+- **befristete Aufenthaltsgenehmigung** — *residence permit*
+
 **Collocations**
 - eine Aufenthaltsgenehmigung beantragen
 - Aufenthaltsgenehmigung verlängern

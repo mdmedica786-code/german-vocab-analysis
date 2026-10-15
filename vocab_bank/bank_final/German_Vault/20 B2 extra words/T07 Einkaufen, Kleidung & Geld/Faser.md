@@ -33,6 +33,11 @@ status: "new"
 > Der Stoff besteht aus natürlichen Fasern.
 > *The fabric consists of natural fibres.*
 
+**Phrases & Expressions:**
+- **natürliche Fasern** — *fibre*
+- **eine synthetische Faser** — *fibre*
+- **Faser aus Baumwolle** — *fibre*
+
 **Collocations**
 - natürliche Fasern
 - eine synthetische Faser

@@ -33,6 +33,11 @@ status: "new"
 > Die Unterscheidung zwischen Fakten und Meinungen ist wichtig.
 > *The distinction between facts and opinions is important.*
 
+**Phrases & Expressions:**
+- **eine klare Unterscheidung** — *distinction; differentiation*
+- **eine Unterscheidung treffen** — *distinction; differentiation*
+- **zur Unterscheidung von** — *distinction; differentiation*
+
 **Collocations**
 - eine klare Unterscheidung
 - eine Unterscheidung treffen

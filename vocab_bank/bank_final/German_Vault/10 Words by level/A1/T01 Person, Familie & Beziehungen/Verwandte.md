@@ -36,6 +36,9 @@ status: "new"
 > Peter besucht seine Verwandten in Polen.
 > *Peter is visiting his relatives in Poland.*
 
+**Phrases & Expressions:**
+- **Peter besucht seine Verwandten in Polen** — *Peter is visiting his relatives in Poland* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 8a ÜB (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

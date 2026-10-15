@@ -14,12 +14,14 @@ tags: ["redemittel", "level/B1"]
 ## Um Wiederholung bitten
 
 - **Entschuldigung, wie bitte?** ⭐ — Excuse me, pardon?
+  - Words: [[Entschuldigung]] · [[bitte (interjection)]] · [[bitten]] · [[Bitte]]
   - Entschuldigung, wie bitte? Ich habe das nicht gehört. *(Excuse me, pardon? I didn't hear that.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: Kurzfrage ohne Verb
   - Variants: Wie bitte? | Entschuldigung, was haben Sie gesagt?
   - Exam: alle mündlichen Prüfungen; Alltag
 - **Könnten Sie das bitte noch einmal sagen?** ⭐ — Could you please say that once more?
+  - Words: [[sagen]] · [[bitte (interjection)]] · [[bitten]] · [[Bitte]] · [[einmal]] · [[können]]
   - Könnten Sie das bitte noch einmal sagen? Es war sehr laut. *(Could you please say that once more? It was very loud.)*
   - B1 · formal · speaker: Beide · to: Alle
   - Grammar: Konjunktiv II: könnten + Infinitiv
@@ -28,12 +30,14 @@ tags: ["redemittel", "level/B1"]
 ## Nicht verstanden
 
 - **Ich habe Sie leider nicht verstanden.** ⭐ — Unfortunately I didn't understand you.
+  - Words: [[verstehen]] · [[leider]] · [[haben]] · [[leid]]
   - Ich habe Sie leider nicht verstanden. Können Sie das wiederholen? *(Unfortunately I didn't understand you. Can you repeat that?)*
   - B1 · formal · speaker: Beide · to: Alle
   - Grammar: Perfekt; verstehen + Akk.
   - Variants: Das habe ich leider nicht verstanden. | Ich konnte Ihnen leider nicht folgen.
   - Exam: alle mündlichen Prüfungen; Alltag
 - **Das habe ich nicht ganz verstanden.** ⭐ — I didn't quite understand that.
+  - Words: [[ganz]] · [[verstehen]] · [[haben]]
   - Das habe ich nicht ganz verstanden. Was bedeutet das? *(I didn't quite understand that. What does that mean?)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: Perfekt; nicht ganz = teilweise
@@ -42,6 +46,7 @@ tags: ["redemittel", "level/B1"]
 ## Bitten, langsamer zu sprechen
 
 - **Könnten Sie bitte etwas langsamer sprechen?** ⭐ — Could you please speak a little more slowly?
+  - Words: [[sprechen]] · [[bitte (interjection)]] · [[langsam]] · [[etwas]] · [[bitten]] · [[Bitte]] · [[können]]
   - Könnten Sie bitte etwas langsamer sprechen? Ich lerne noch Deutsch. *(Could you please speak a little more slowly? I am still learning German.)*
   - B1 · formal · speaker: Beide · to: Alle
   - Grammar: Komparativ langsamer
@@ -50,6 +55,7 @@ tags: ["redemittel", "level/B1"]
 ## Um Klärung bitten
 
 - **Können Sie das bitte buchstabieren?** — Can you spell that, please?
+  - Words: [[bitte (interjection)]] · [[buchstabieren]] · [[bitten]] · [[Bitte]] · [[können]]
   - Können Sie das bitte buchstabieren? Ich möchte den Namen richtig schreiben. *(Can you spell that, please? I want to write the name correctly.)*
   - B1 · formal · speaker: Beide · to: Alle
   - Grammar: können + Infinitiv
@@ -58,12 +64,14 @@ tags: ["redemittel", "level/B1"]
 ## Verständnis überprüfen
 
 - **Meinen Sie damit, dass ...?** ⭐ — Do you mean by that that ...?
+  - Words: [[damit]] · [[meinen]]
   - Meinen Sie damit, dass ich früher kommen soll? *(Do you mean by that that I should come earlier?)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: dass-Satz: Verb am Ende
   - Variants: Habe ich das richtig verstanden: ...? | Sie meinen also, ...
   - Exam: alle mündlichen Prüfungen; Alltag
 - **Ich wiederhole kurz, um sicher zu sein: ...** — Let me repeat briefly to be sure: ...
+  - Words: [[kurz]] · [[sicher]] · [[wiederholen]] · [[sicherstellen]]
   - Ich wiederhole kurz, um sicher zu sein: Wir treffen uns um acht. *(Let me repeat briefly to be sure: we meet at eight.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: um ... zu + Infinitiv
@@ -72,12 +80,14 @@ tags: ["redemittel", "level/B1"]
 ## Wort erfragen
 
 - **Ich kenne das Wort nicht. Was bedeutet ...?** ⭐ — I don't know the word. What does ... mean?
+  - Words: [[Wort]] · [[kennen]] · [[bedeuten]] · [[was]]
   - Ich kenne das Wort nicht. Was bedeutet „Termin“? *(I don't know the word. What does “Termin” mean?)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: bedeuten + Akk.
   - Variants: Was heißt ...? | Was ist ...?
   - Exam: alle mündlichen Prüfungen; Alltag
 - **Wie sagt man ... auf Deutsch?** ⭐ — How do you say ... in German?
+  - Words: [[deutsch (adjective)]] · [[sagen]] · [[aussagen]] · [[Deutsch]] · [[absagen]] · [[zusagen]]
   - Wie sagt man „kidney“ auf Deutsch? *(How do you say “kidney” in German?)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: man + Verb; auf Deutsch
@@ -86,18 +96,21 @@ tags: ["redemittel", "level/B1"]
 ## Wort umschreiben
 
 - **Mir fällt das Wort gerade nicht ein.** ⭐ — I can't think of the word right now.
+  - Words: [[Wort]] · [[fallen]] · [[einfallen]] · [[gerade]] · [[ausfallen]] · [[auffallen]] · [[herunterfallen]] · [[anfallen]]
   - Mir fällt das Wort gerade nicht ein. Es ist etwas zum Schreiben. *(I can't think of the word right now. It is something for writing.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: einfallen + Dativ (trennbar)
   - Variants: Das Wort habe ich vergessen. | Ich komme nicht auf das Wort.
   - Exam: alle mündlichen Prüfungen; Alltag
 - **Ich meine so etwas wie ...** — I mean something like ...
+  - Words: [[etwas]] · [[meinen]]
   - Ich meine so etwas wie einen Schlüsselanhänger. *(I mean something like a key ring.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: etwas wie + Akk.
   - Variants: Das ist so ähnlich wie ... | Es ist ein bisschen wie ...
   - Exam: alle mündlichen Prüfungen; Alltag
 - **Das ist ein Gerät, mit dem man ... kann.** ⭐ — That is a device with which you can ...
+  - Words: [[geraten]] · [[Gerät]] · [[können]]
   - Das ist ein Gerät, mit dem man Fieber messen kann. *(That is a device with which you can measure a fever.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: Relativsatz mit Präposition: mit dem; Verb am Ende
@@ -106,12 +119,14 @@ tags: ["redemittel", "level/B1"]
 ## Zeit gewinnen
 
 - **Lassen Sie mich kurz überlegen.** ⭐ — Let me think for a moment.
+  - Words: [[lassen]] · [[kurz]] · [[überlegen]] · [[sich etwas gefallen lassen]] · [[sich scheiden lassen]]
   - Lassen Sie mich kurz überlegen. Das ist keine einfache Frage. *(Let me think for a moment. That is not an easy question.)*
   - B1 · formal · speaker: Beide · to: Alle
   - Grammar: lassen + Infinitiv
   - Variants: Einen Moment, ich muss kurz nachdenken. | Das muss ich mir kurz überlegen.
   - Exam: alle mündlichen Prüfungen; Alltag
 - **Moment, das muss ich mir kurz überlegen.** — Just a moment, I need to think about that briefly.
+  - Words: [[kurz]] · [[Moment]] · [[überlegen]] · [[müssen]]
   - Moment, das muss ich mir kurz überlegen. Wann hatten wir Zeit? *(Just a moment, I need to think about that briefly. When did we have time?)*
   - B1 · informal · speaker: Beide · to: Alle
   - Grammar: sich (Dat.) überlegen
@@ -120,12 +135,14 @@ tags: ["redemittel", "level/B1"]
 ## Pausen überbrücken
 
 - **Wie soll ich sagen ...** — How shall I put it ...
+  - Words: [[sagen]] · [[sollen]]
   - Wie soll ich sagen ... Es war ziemlich anstrengend. *(How shall I put it ... It was quite exhausting.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: Fragesatz als Denkpause
   - Variants: Also, ... | Ja, also ...
   - Exam: alle mündlichen Prüfungen; Alltag
 - **Ich muss kurz nachdenken.** — I need to think for a moment.
+  - Words: [[kurz]] · [[nachdenken]] · [[müssen]]
   - Ich muss kurz nachdenken, bevor ich antworte. *(I need to think for a moment before I answer.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: müssen + Infinitiv; trennbar nachdenken
@@ -134,12 +151,14 @@ tags: ["redemittel", "level/B1"]
 ## Sich selbst korrigieren
 
 - **Entschuldigung, ich meine ...** ⭐ — Sorry, I mean ...
+  - Words: [[Entschuldigung]] · [[meinen]]
   - Am Montag, entschuldigung, ich meine am Dienstag. *(On Monday, sorry, I mean on Tuesday.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: Einschub im Satz
   - Variants: Nein, ich meinte eigentlich ... | Ich korrigiere mich: ...
   - Exam: alle mündlichen Prüfungen; Alltag
 - **Ich korrigiere mich: ...** — I'll correct myself: ...
+  - Words: [[korrigieren]]
   - Ich korrigiere mich: Die Besprechung ist am Mittwoch, nicht am Montag. *(I'll correct myself: the meeting is on Wednesday, not Monday.)*
   - B1 · formal · speaker: Beide · to: Alle
   - Grammar: sich korrigieren; Doppelpunkt
@@ -148,6 +167,7 @@ tags: ["redemittel", "level/B1"]
 ## Um andere Erklärung bitten
 
 - **Können Sie das bitte mit anderen Worten sagen?** ⭐ — Can you please put that in other words?
+  - Words: [[andere]] · [[sagen]] · [[bitte (interjection)]] · [[bitten]] · [[Bitte]] · [[können]]
   - Können Sie das bitte mit anderen Worten sagen? Das Wort ist zu schwer. *(Can you please put that in other words? The word is too difficult.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: mit + Dativ Plural: mit anderen Worten
@@ -156,6 +176,7 @@ tags: ["redemittel", "level/B1"]
 ## Um Geduld bitten
 
 - **Ich lerne noch Deutsch, bitte haben Sie Geduld.** — I am still learning German, please be patient.
+  - Words: [[deutsch (adjective)]] · [[bitte (interjection)]] · [[lernen]] · [[bitten]] · [[Bitte]] · [[Geduld]] · [[Deutsch]]
   - Ich lerne noch Deutsch, bitte haben Sie Geduld mit mir. *(I am still learning German, please be patient with me.)*
   - B1 · formal · speaker: Beide · to: Alle
   - Grammar: Geduld haben mit + Dat.

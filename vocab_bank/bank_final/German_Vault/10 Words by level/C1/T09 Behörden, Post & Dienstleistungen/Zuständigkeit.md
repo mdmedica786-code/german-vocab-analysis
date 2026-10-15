@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Diese Frage fällt nicht in meine Zuständigkeit.
 > *This question does not fall within my responsibility.*
+
+**Phrases & Expressions:**
+- **Diese Frage fällt nicht in meine Zuständigkeit** — *This question does not fall within my responsibility* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

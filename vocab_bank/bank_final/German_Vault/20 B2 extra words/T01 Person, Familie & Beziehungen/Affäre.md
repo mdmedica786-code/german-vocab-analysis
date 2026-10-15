@@ -33,6 +33,11 @@ status: "new"
 > Die Affäre des Ministers sorgte für Schlagzeilen.
 > *The minister's affair made headlines.*
 
+**Phrases & Expressions:**
+- **eine Affäre haben** — *affair; scandal*
+- **in eine Affäre verwickelt sein** — *affair; scandal*
+- **eine politische Affäre** — *affair; scandal*
+
 **Collocations**
 - eine Affäre haben
 - in eine Affäre verwickelt sein

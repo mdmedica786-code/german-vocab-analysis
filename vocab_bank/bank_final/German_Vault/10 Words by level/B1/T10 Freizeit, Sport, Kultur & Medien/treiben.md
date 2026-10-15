@@ -32,6 +32,13 @@ status: "new"
 > Welchen Sport treibst du?
 > *Which sport do you do?*
 
+**Phrases & Expressions:**
+- **Treiben Sie regelmäßig Sport?** — Do you exercise regularly? *([[FSP-05 Familien- und Sozialanamnese|Bewegung erfragen]] · A2)*
+- **Sport treiben** — *to do (sport); to drive; to push*
+- **Handel treiben** — *to do (sport); to drive; to push*
+- **jemanden zur Eile treiben** — *to do (sport); to drive; to push*
+- **Unsinn treiben** — *to do (sport); to drive; to push*
+
 **Collocations**
 - Sport treiben
 - Handel treiben

@@ -35,6 +35,9 @@ status: "new"
 > Die Flugzeuge machen einen schrecklichen Lärm.
 > *The planes make a terrible noise.*
 
+**Phrases & Expressions:**
+- **Die Flugzeuge machen einen schrecklichen Lärm** — *The planes make a terrible noise* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 3c (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

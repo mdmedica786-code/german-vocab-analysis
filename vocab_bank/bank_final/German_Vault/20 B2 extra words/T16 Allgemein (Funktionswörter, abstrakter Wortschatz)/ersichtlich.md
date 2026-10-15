@@ -29,6 +29,11 @@ status: "new"
 > Aus dem Brief ist ersichtlich, dass er krank war.
 > *It is apparent from the letter that he was ill.*
 
+**Phrases & Expressions:**
+- **daraus ist ersichtlich** — *evident; apparent*
+- **ohne ersichtlichen Grund** — *evident; apparent*
+- **ersichtlich sein** — *evident; apparent*
+
 **Collocations**
 - daraus ist ersichtlich
 - ohne ersichtlichen Grund

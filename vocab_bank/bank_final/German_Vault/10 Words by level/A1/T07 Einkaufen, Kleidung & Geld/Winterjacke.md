@@ -34,6 +34,9 @@ status: "new"
 > Die Winterjacke ist schön warm.
 > *The winter coat is nice and warm.*
 
+**Phrases & Expressions:**
+- **Die Winterjacke ist schön warm** — *The winter coat is nice and warm* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1b (Ab in den Urlaub!)
 <!-- bank:end -->
 

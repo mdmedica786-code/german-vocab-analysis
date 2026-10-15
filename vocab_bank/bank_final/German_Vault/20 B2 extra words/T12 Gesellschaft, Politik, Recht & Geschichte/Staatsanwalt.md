@@ -33,6 +33,11 @@ status: "new"
 > Der Staatsanwalt fordert eine Haftstrafe von drei Jahren.
 > *The public prosecutor demands a prison sentence of three years.*
 
+**Phrases & Expressions:**
+- **der Staatsanwalt ermittelt** — *public prosecutor*
+- **Staatsanwalt erhebt Anklage** — *public prosecutor*
+- **Anklage durch den Staatsanwalt** — *public prosecutor*
+
 **Collocations**
 - der Staatsanwalt ermittelt
 - Staatsanwalt erhebt Anklage

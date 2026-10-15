@@ -33,6 +33,11 @@ status: "new"
 > Im Vorratsschrank stehen noch ein paar Konserven.
 > *There are still a few tins in the pantry.*
 
+**Phrases & Expressions:**
+- **Konserven öffnen** — *tinned food*
+- **aus der Konserve** — *tinned food*
+- **Konserven lagern** — *tinned food*
+
 **Collocations**
 - Konserven öffnen
 - aus der Konserve

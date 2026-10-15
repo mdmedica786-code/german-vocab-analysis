@@ -33,6 +33,11 @@ status: "new"
 > Die Abbuchung erfolgt am Monatsende automatisch von Ihrem Konto.
 > *The debit is made automatically from your account at the end of the month.*
 
+**Phrases & Expressions:**
+- **eine Abbuchung vornehmen** — *debit; withdrawal from an account*
+- **einer Abbuchung widersprechen** — *debit; withdrawal from an account*
+- **automatische Abbuchung** — *debit; withdrawal from an account*
+
 **Collocations**
 - eine Abbuchung vornehmen
 - einer Abbuchung widersprechen

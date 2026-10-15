@@ -34,6 +34,9 @@ status: "new"
 > Die Bergtour dauert den ganzen Tag.
 > *The mountain tour lasts all day.*
 
+**Phrases & Expressions:**
+- **Die Bergtour dauert den ganzen Tag** — *The mountain tour lasts all day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 3b (Ab in den Urlaub!)
 <!-- bank:end -->
 

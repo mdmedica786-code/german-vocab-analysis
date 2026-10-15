@@ -29,6 +29,11 @@ status: "new"
 > Diese Entscheidung ist für die Zukunft der Firma bedeutsam.
 > *This decision is significant for the future of the company.*
 
+**Phrases & Expressions:**
+- **ein bedeutsamer Schritt** — *significant; important*
+- **ein bedeutsames Ereignis** — *significant; important*
+- **besonders bedeutsam** — *significant; important*
+
 **Collocations**
 - ein bedeutsamer Schritt
 - ein bedeutsames Ereignis

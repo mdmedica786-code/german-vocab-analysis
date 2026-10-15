@@ -33,6 +33,10 @@ status: "new"
 > Die Wohnung ist nicht in der Stadt, sie liegt etwas außerhalb.
 > *The flat is not in the city, it is a little outside.*
 
+**Phrases & Expressions:**
+- **außerhalb von ...** — outside ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Außerhalb der Sprechzeiten erreichen Sie den ärztlichen Bereitschaftsdienst unter 116 117.** — Outside surgery hours you can reach the on-call medical service on 116 117. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Notfallnummer nennen]] · B2)*
+
 **Source:** Netzwerk neu A1 K12 7a (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

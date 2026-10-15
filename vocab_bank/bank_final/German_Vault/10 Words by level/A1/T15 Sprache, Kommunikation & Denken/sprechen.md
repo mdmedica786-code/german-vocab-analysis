@@ -33,6 +33,14 @@ status: "new"
 > Kann ich (mit) Herrn Klein sprechen?
 > *Can I speak to Mr Klein?*
 
+**Phrases & Expressions:**
+- **Dafür spricht, dass ...** — What speaks for it is that ... *([[B1-04 Vor- und Nachteile nennen|Vorteil nennen]] · B1)*
+- **Dagegen spricht, dass ...** — What speaks against it is that ... *([[B1-04 Vor- und Nachteile nennen|Nachteil nennen]] · B1)*
+- **Guten Tag, mein Name ist ... und ich spreche heute über ...** — Hello, my name is ... and today I am talking about ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Präsentation eröffnen]] · B1)*
+- **Zuerst spreche ich über ..., dann über ... und zum Schluss über ...** — First I talk about ..., then about ... and finally about ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Gliederung ankündigen]] · B1)*
+- **Könnten Sie bitte etwas langsamer sprechen?** — Could you please speak a little more slowly? *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Bitten, langsamer zu sprechen]] · B1)*
+- **Dafür spricht vor allem, dass ...** — What speaks for it above all is that ... *([[B1-14 Forumsbeitrag und Leserbrief schreiben|Argument einführen]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 3b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

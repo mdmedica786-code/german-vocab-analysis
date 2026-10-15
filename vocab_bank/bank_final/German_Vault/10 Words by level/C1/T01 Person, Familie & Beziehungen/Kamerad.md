@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Kameraden halten zusammen.
 > *The comrades stick together.*
+
+**Phrases & Expressions:**
+- **Die Kameraden halten zusammen** — *The comrades stick together* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

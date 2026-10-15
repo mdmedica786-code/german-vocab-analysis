@@ -31,6 +31,12 @@ status: "new"
 > Herr Müller kommt gleich zurück. Sie können inzwischen in seinem Büro warten.
 > *Mr Müller will be back in a moment. In the meantime you can wait in his office.*
 
+**Phrases & Expressions:**
+- **inzwischen schon** — *meanwhile*
+- **inzwischen längst** — *meanwhile*
+- **inzwischen auch** — *meanwhile*
+- **inzwischen noch nicht** — *meanwhile*
+
 **Collocations**
 - inzwischen schon
 - inzwischen längst

@@ -35,6 +35,9 @@ status: "new"
 > Der Notruf hat die Nummer 110.
 > *The emergency number is 110.*
 
+**Phrases & Expressions:**
+- **Der Notruf hat die Nummer 110** — *The emergency number is 110* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 2a ÜB (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,14 @@ status: "new"
 > Die beiden Farben passen gut zusammen.
 > *The two colours go well together.*
 
+**Phrases & Expressions:**
+- **Lass uns morgen zusammen ...!** — Let's ... together tomorrow! *([[B1-05 Vorschläge machen und darauf reagieren|Vorschlag machen]] · B1)*
+- **Ja, das passt mir gut.** — Yes, that suits me well. *([[B1-05 Vorschläge machen und darauf reagieren|Vorschlag annehmen]] · B1)*
+- **Passt es dir am Freitag um 18 Uhr?** — Does Friday at 6 p.m. suit you? *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Termin vorschlagen]] · B1)*
+- **Fassen wir kurz zusammen: ...** — Let's summarise briefly: ... *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Absprachen zusammenfassen]] · B1)*
+- **Ich fasse kurz zusammen: ...** — Let me briefly summarise: ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Zusammenfassen]] · B1)*
+- **Zum Schluss fasse ich die wichtigsten Punkte zusammen.** — Finally I will summarise the most important points. *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Aufbau ankündigen]] · B2)*
+
 **Source:** Netzwerk neu A1 K2 12a (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

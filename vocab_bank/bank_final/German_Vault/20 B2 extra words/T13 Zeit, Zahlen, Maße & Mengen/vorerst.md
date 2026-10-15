@@ -29,6 +29,11 @@ status: "new"
 > Vorerst bleibt alles beim Alten.
 > *For the time being everything stays as it was.*
 
+**Phrases & Expressions:**
+- **vorerst keine** — *for the time being; for now*
+- **vorerst bleiben** — *for the time being; for now*
+- **vorerst geschlossen** — *for the time being; for now*
+
 **Collocations**
 - vorerst keine
 - vorerst bleiben

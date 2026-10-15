@@ -33,6 +33,11 @@ status: "new"
 > Der Soldat geriet in Gefangenschaft.
 > *The soldier was taken prisoner.*
 
+**Phrases & Expressions:**
+- **in Gefangenschaft geraten** — *captivity; imprisonment*
+- **aus der Gefangenschaft fliehen** — *captivity; imprisonment*
+- **in Gefangenschaft leben** — *captivity; imprisonment*
+
 **Collocations**
 - in Gefangenschaft geraten
 - aus der Gefangenschaft fliehen

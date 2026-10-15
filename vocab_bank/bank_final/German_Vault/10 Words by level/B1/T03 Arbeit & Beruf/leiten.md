@@ -32,6 +32,9 @@ status: "new"
 > Wer leitet den Kurs?
 > *Who is leading the course?*
 
+**Phrases & Expressions:**
+- **Wer leitet den Kurs** — *Who is leading the course* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

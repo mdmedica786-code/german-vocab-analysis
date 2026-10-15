@@ -33,6 +33,9 @@ status: "new"
 > Können Sie mir bitte mal zeigen, wie der Automat funktioniert?
 > *Can you show me how the machine works, please?*
 
+**Phrases & Expressions:**
+- **Seit ... funktioniert ... nicht mehr.** — Since ... ... has no longer been working. *([[B2-04 Beschwerde und Reklamation|Problem schildern]] · B2)*
+
 **Source:** Netzwerk neu A2 K5 6c (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

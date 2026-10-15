@@ -35,6 +35,9 @@ status: "new"
 > Das gefällt dir nicht? Aber das ist die Realität.
 > *You don't like that? But that is reality.*
 
+**Phrases & Expressions:**
+- **in der Realität** — in reality *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B2)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

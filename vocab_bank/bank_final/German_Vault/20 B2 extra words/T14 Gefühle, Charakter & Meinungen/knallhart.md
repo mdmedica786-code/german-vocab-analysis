@@ -29,6 +29,11 @@ status: "new"
 > Der Trainer ist knallhart, aber fair.
 > *The coach is extremely tough, but fair.*
 
+**Phrases & Expressions:**
+- **knallhart sein** — *extremely tough; ruthless (colloquial)*
+- **knallhart verhandeln** — *extremely tough; ruthless (colloquial)*
+- **eine knallharte Kritik** — *extremely tough; ruthless (colloquial)*
+
 **Collocations**
 - knallhart sein
 - knallhart verhandeln

@@ -34,6 +34,9 @@ status: "new"
 > Die Killerin wurde verhaftet.
 > *The killer was arrested.*
 
+**Phrases & Expressions:**
+- **Die Killerin wurde verhaftet** — *The killer was arrested* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

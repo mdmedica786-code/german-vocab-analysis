@@ -35,6 +35,9 @@ status: "new"
 > Hier sind Papier und Bleistift.
 > *Here are paper and pencil.*
 
+**Phrases & Expressions:**
+- **Hier sind Papier und Bleistift** — *Here are paper and pencil* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10c (Die Jacke gefällt mir!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -34,6 +34,12 @@ status: "new"
 > Der Arzt legt dem Patienten einen Verband an.
 > *The doctor puts a bandage on the patient.*
 
+**Phrases & Expressions:**
+- **einen Verband anlegen** — *bandage*
+- **den Verband wechseln** — *bandage*
+- **einen Druckverband anlegen** — *bandage*
+- **den Verband abnehmen** — *bandage*
+
 **Collocations**
 - einen Verband anlegen
 - den Verband wechseln

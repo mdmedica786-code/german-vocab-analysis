@@ -29,6 +29,11 @@ status: "new"
 > Das Hotel war ehemals ein Kloster.
 > *The hotel was formerly a monastery.*
 
+**Phrases & Expressions:**
+- **ehemals ein Kloster** — *formerly; once*
+- **die ehemalige Hauptstadt** — *formerly; once*
+- **ehemals bekannt als** — *formerly; once*
+
 **Collocations**
 - ehemals ein Kloster
 - die ehemalige Hauptstadt

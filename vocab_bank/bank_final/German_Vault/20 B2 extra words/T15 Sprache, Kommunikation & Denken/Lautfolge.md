@@ -33,6 +33,11 @@ status: "new"
 > Diese Lautfolge ist im Deutschen sehr selten.
 > *This sequence of sounds is very rare in German.*
 
+**Phrases & Expressions:**
+- **eine Lautfolge sprechen** — *sequence of sounds*
+- **eine bestimmte Lautfolge** — *sequence of sounds*
+- **die Lautfolge üben** — *sequence of sounds*
+
 **Collocations**
 - eine Lautfolge sprechen
 - eine bestimmte Lautfolge

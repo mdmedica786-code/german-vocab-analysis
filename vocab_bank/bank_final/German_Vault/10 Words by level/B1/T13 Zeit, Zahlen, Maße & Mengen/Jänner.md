@@ -39,6 +39,9 @@ status: "new"
 > Im Jänner ist es in Österreich oft sehr kalt.
 > *In January it is often very cold in Austria.*
 
+**Phrases & Expressions:**
+- **Im Jänner ist es in Österreich oft sehr kalt** — *In January it is often very cold in Austria* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

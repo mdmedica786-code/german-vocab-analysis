@@ -31,6 +31,9 @@ status: "new"
 > Der Almsommer beginnt im Juni.
 > *The alpine summer begins in June.*
 
+**Phrases & Expressions:**
+- **Der Almsommer beginnt im Juni** — *The alpine summer begins in June* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!)
 <!-- bank:end -->
 

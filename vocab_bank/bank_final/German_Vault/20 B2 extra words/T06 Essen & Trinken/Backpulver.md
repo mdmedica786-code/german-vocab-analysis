@@ -33,6 +33,11 @@ status: "new"
 > Für den Kuchen brauchst du ein Päckchen Backpulver.
 > *For the cake you need a packet of baking powder.*
 
+**Phrases & Expressions:**
+- **ein Päckchen Backpulver** — *baking powder*
+- **Backpulver hinzufügen** — *baking powder*
+- **Mehl mit Backpulver mischen** — *baking powder*
+
 **Collocations**
 - ein Päckchen Backpulver
 - Backpulver hinzufügen

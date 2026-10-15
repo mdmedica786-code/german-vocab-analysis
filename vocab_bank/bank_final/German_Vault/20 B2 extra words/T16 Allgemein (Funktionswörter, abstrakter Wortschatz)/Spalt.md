@@ -33,6 +33,11 @@ status: "new"
 > Die Tür stand einen Spalt offen.
 > *The door stood slightly open.*
 
+**Phrases & Expressions:**
+- **einen Spalt offen** — *gap; crack*
+- **ein schmaler Spalt** — *gap; crack*
+- **durch den Spalt** — *gap; crack*
+
 **Collocations**
 - einen Spalt offen
 - ein schmaler Spalt

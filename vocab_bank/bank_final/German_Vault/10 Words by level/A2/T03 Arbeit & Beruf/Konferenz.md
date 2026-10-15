@@ -35,6 +35,9 @@ status: "new"
 > Die Konferenz findet in Raum 19 statt.
 > *The conference takes place in room 19.*
 
+**Phrases & Expressions:**
+- **Die Konferenz findet in Raum 19 statt** — *The conference takes place in room 19* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

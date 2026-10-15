@@ -35,6 +35,9 @@ status: "new"
 > Der Moderator der Radiosendung diskutiert mit zwei Gästen.
 > *The presenter of the radio programme is discussing with two guests.*
 
+**Phrases & Expressions:**
+- **Der Moderator der Radiosendung diskutiert mit zwei Gästen** — *The presenter of the radio programme is discussing with two guests* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 11c (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

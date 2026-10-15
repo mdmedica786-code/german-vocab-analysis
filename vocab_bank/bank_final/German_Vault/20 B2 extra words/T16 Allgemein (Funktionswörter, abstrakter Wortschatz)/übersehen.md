@@ -31,6 +31,11 @@ status: "new"
 > Ich habe das Stoppschild übersehen.
 > *I overlooked the stop sign.*
 
+**Phrases & Expressions:**
+- **einen Fehler übersehen** — *to overlook; to miss*
+- **leicht zu übersehen** — *to overlook; to miss*
+- **etwas nicht übersehen** — *to overlook; to miss*
+
 **Collocations**
 - einen Fehler übersehen
 - leicht zu übersehen

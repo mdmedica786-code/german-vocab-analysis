@@ -33,6 +33,9 @@ status: "new"
 > Das ist für Sie.
 > **
 
+**Phrases & Expressions:**
+- **Das ist für Sie** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 5a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

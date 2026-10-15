@@ -31,6 +31,9 @@ status: "new"
 > Das Jahr hat zwölf Monate.
 > *The year has twelve months.*
 
+**Phrases & Expressions:**
+- **Das Jahr hat zwölf Monate** — *The year has twelve months* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

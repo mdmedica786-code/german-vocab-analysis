@@ -31,6 +31,9 @@ status: "new"
 > Diese Musik ist typisch für dieses Land.
 > *This music is typical of this country.*
 
+**Phrases & Expressions:**
+- **Diese Musik ist typisch für dieses Land** — *This music is typical of this country* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden) · Goethe word list A2
 <!-- bank:end -->
 

@@ -26,6 +26,11 @@ status: "new"
 > Wir haben eine Vereinbarung über die Miete getroffen.
 > *We have made an agreement about the rent.*
 
+**Phrases & Expressions:**
+- **eine Abmachung treffen** — *to make an agreement*
+- **Vereinbarungen einhalten** — *to make an agreement*
+- **sich an eine Vereinbarung halten** — *to make an agreement*
+
 **Collocations**
 - eine Abmachung treffen
 - Vereinbarungen einhalten

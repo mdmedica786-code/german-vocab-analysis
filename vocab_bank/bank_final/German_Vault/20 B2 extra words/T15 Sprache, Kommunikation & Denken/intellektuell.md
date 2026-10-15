@@ -29,6 +29,11 @@ status: "new"
 > Die Aufgabe ist intellektuell sehr anspruchsvoll.
 > *The task is intellectually very demanding.*
 
+**Phrases & Expressions:**
+- **intellektuell anspruchsvoll** — *intellectual*
+- **ein intellektueller Mensch** — *intellectual*
+- **intellektuelle Fähigkeiten** — *intellectual*
+
 **Collocations**
 - intellektuell anspruchsvoll
 - ein intellektueller Mensch

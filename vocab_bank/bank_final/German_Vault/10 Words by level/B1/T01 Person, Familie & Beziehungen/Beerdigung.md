@@ -34,6 +34,9 @@ status: "new"
 > Zur Beerdigung kamen viele Menschen.
 > *Many people came to the funeral.*
 
+**Phrases & Expressions:**
+- **Zur Beerdigung kamen viele Menschen** — *Many people came to the funeral* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist)
 <!-- bank:end -->
 

@@ -34,6 +34,12 @@ status: "new"
 > Solche Kontakte dienen der Verbesserung der internationalen Beziehungen.
 > *Such contacts serve to improve international relations.*
 
+**Phrases & Expressions:**
+- **als Beispiel dienen** — *to serve; to be used*
+- **dem Zweck dienen** — *to serve; to be used*
+- **zur Information dienen** — *to serve; to be used*
+- **als Vorbild dienen** — *to serve; to be used*
+
 **Collocations**
 - als Beispiel dienen
 - dem Zweck dienen

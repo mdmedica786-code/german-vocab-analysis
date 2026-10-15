@@ -29,6 +29,11 @@ status: "new"
 > Nach der Arbeit war ich todmüde.
 > *After work I was dead tired.*
 
+**Phrases & Expressions:**
+- **todmüde sein** — *dead tired; exhausted*
+- **todmüde ins Bett fallen** — *dead tired; exhausted*
+- **todmüde nach Hause kommen** — *dead tired; exhausted*
+
 **Collocations**
 - todmüde sein
 - todmüde ins Bett fallen

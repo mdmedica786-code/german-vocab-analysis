@@ -31,6 +31,14 @@ status: "new"
 > Ich komme vielleicht mit dem Bus.
 > *Maybe I'll come by bus.*
 
+**Phrases & Expressions:**
+- **vielleicht sogar** — perhaps even *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Vielleicht liege ich falsch, aber ...** — Maybe I'm wrong, but ... *([[B1-01 Meinung äußern|Meinung abschwächen]] · B1)*
+- **Wissen Sie vielleicht, wann ...?** — Do you happen to know when ...? *([[B1-07 Bitten und höflich nachfragen|Auskunft erfragen]] · B1)*
+- **Vielleicht könntest du noch ... erwähnen.** — Perhaps you could also mention ... *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Verbesserung vorschlagen]] · B1)*
+- **Vielleicht ist er krank.** — Maybe he is ill. *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Vermutung äußern]] · B1)*
+- **Könnten wir uns vielleicht auf ... einigen?** — Could we perhaps agree on ...? *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Kompromiss suchen]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 3a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -30,6 +30,11 @@ status: "new"
 > Sobald ich den Termin weiß, gebe ich Ihnen Bescheid.
 > *As soon as I know the appointment, I'll let you know.*
 
+**Phrases & Expressions:**
+- **Sobald ich Zeit habe, rufe ich dich an.** — As soon as I have time, I'll call you. *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Zeit: sobald]] · B1)*
+- **Wir geben unser Bestes, ich informiere Sie, sobald ich mehr weiß.** — We are doing our best; I will inform you as soon as I know more. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Angehörige informieren]] · B2)*
+- **Ich melde mich, sobald ich mehr weiß.** — I'll get back to you as soon as I know more. *([[FSP-19 Übergabe, Konsil und Rücksprache|Rückmeldung geben]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

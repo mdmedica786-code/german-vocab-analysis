@@ -30,6 +30,9 @@ status: "new"
 > Das Haus steht links, dahinter ist der Garten.
 > *The house is on the left; behind it is the garden.*
 
+**Phrases & Expressions:**
+- **Das Haus steht links, dahinter ist der Garten** — *The house is on the left; behind it is the garden* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 11a (Gute Unterhaltung!)
 <!-- bank:end -->
 

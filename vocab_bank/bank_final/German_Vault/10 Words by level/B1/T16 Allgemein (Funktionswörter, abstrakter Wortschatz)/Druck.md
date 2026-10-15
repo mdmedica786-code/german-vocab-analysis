@@ -35,6 +35,12 @@ status: "new"
 > Wie hoch muss der Druck in den vorderen Reifen sein?
 > *What must the pressure in the front tyres be?*
 
+**Phrases & Expressions:**
+- **Haben Sie Schmerzen oder Druck in der Brust?** — Do you have pain or pressure in your chest? *([[FSP-06 Systemanamnese (Organsysteme)|Herz-Kreislauf]] · B1)*
+- **Ich drücke jetzt vorsichtig auf Ihren Bauch.** — I will now press gently on your abdomen. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Abtasten]] · B1)*
+- **Tut es hier weh, wenn ich drücke?** — Does it hurt here when I press? *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Schmerz bei Untersuchung erfragen]] · A2)*
+- **Mit Bluthochdruck ist gemeint, dass der Druck in den Gefäßen zu hoch ist.** — High blood pressure means that the pressure in the vessels is too high. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

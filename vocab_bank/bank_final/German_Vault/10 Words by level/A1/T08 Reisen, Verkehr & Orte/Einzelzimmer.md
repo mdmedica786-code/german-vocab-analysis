@@ -35,6 +35,9 @@ status: "new"
 > Haben Sie noch ein Einzelzimmer?
 > *Do you still have a single room?*
 
+**Phrases & Expressions:**
+- **Haben Sie noch ein Einzelzimmer** — *Do you still have a single room* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 3a ÜB (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

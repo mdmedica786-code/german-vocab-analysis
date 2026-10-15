@@ -33,6 +33,11 @@ status: "new"
 > Die Bauarbeiten führen zu Beeinträchtigungen im Verkehr.
 > *The construction work leads to disruptions in traffic.*
 
+**Phrases & Expressions:**
+- **eine Beeinträchtigung der Lebensqualität** — *impairment; restriction; disruption*
+- **eine erhebliche Beeinträchtigung** — *impairment; restriction; disruption*
+- **mit Beeinträchtigungen rechnen** — *impairment; restriction; disruption*
+
 **Collocations**
 - eine Beeinträchtigung der Lebensqualität
 - eine erhebliche Beeinträchtigung

@@ -34,6 +34,9 @@ status: "new"
 > Ich nehme eine Apfelsaftschorle, bitte.
 > *I'll have an apple juice spritzer, please.*
 
+**Phrases & Expressions:**
+- **Ich nehme eine Apfelsaftschorle, bitte** — *I'll have an apple juice spritzer, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 10a (Zeit mit Freunden)
 <!-- bank:end -->
 

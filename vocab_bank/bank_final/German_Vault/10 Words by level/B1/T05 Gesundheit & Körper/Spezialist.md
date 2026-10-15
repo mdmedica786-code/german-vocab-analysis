@@ -35,6 +35,9 @@ status: "new"
 > Mein Arzt hat mich zu einem Spezialisten geschickt.
 > *My doctor sent me to a specialist.*
 
+**Phrases & Expressions:**
+- **Mein Arzt hat mich zu einem Spezialisten geschickt** — *My doctor sent me to a specialist* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

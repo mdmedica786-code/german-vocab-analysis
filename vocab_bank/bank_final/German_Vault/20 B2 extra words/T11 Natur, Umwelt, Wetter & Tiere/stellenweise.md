@@ -29,6 +29,11 @@ status: "new"
 > Im Gebirge gibt es stellenweise Nebel.
 > *In the mountains there is fog in places.*
 
+**Phrases & Expressions:**
+- **stellenweise Regen** — *in places; here and there*
+- **stellenweise vereist** — *in places; here and there*
+- **stellenweise stark** — *in places; here and there*
+
 **Collocations**
 - stellenweise Regen
 - stellenweise vereist

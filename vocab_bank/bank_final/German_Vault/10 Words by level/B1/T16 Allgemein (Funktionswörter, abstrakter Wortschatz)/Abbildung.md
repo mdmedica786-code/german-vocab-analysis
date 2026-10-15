@@ -34,6 +34,12 @@ status: "new"
 > Auf der Abbildung sehen Sie, wie man das Gerät einschaltet.
 > *In the figure you can see how to switch on the device.*
 
+**Phrases & Expressions:**
+- **eine Abbildung zeigen** — *illustration; figure; picture*
+- **siehe Abbildung** — *illustration; figure; picture*
+- **in der Abbildung** — *illustration; figure; picture*
+- **die Abbildung erklären** — *illustration; figure; picture*
+
 **Collocations**
 - eine Abbildung zeigen
 - siehe Abbildung

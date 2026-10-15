@@ -34,6 +34,9 @@ status: "new"
 > Der Kuchen wird mit Schlagsahne serviert.
 > *The cake is served with whipped cream.*
 
+**Phrases & Expressions:**
+- **Der Kuchen wird mit Schlagsahne serviert** — *The cake is served with whipped cream* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander)
 <!-- bank:end -->
 

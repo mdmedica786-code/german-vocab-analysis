@@ -31,6 +31,11 @@ status: "new"
 > Zögern Sie nicht, mich anzurufen!
 > *Do not hesitate to call me!*
 
+**Phrases & Expressions:**
+- **ohne zu zögern** — *to hesitate*
+- **kurz zögern** — *to hesitate*
+- **zögern, etwas zu tun** — *to hesitate*
+
 **Collocations**
 - ohne zu zögern
 - kurz zögern

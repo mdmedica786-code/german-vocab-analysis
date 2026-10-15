@@ -35,6 +35,9 @@ status: "new"
 > Der Briefträger kommt jeden Morgen um zehn Uhr.
 > *The postman comes every morning at ten o'clock.*
 
+**Phrases & Expressions:**
+- **Der Briefträger kommt jeden Morgen um zehn Uhr** — *The postman comes every morning at ten o'clock* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

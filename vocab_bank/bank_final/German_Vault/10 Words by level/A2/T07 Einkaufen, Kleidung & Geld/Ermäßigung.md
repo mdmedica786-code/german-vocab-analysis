@@ -35,6 +35,9 @@ status: "new"
 > Für Schüler, Studenten und Rentner gibt es eine Ermäßigung.
 > *There is a discount for pupils, students and pensioners.*
 
+**Phrases & Expressions:**
+- **Für Schüler, Studenten und Rentner gibt es eine Ermäßigung** — *There is a discount for pupils, students and pensioners* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 5a (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

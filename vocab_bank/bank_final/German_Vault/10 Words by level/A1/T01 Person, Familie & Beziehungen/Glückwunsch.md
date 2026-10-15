@@ -35,6 +35,9 @@ status: "new"
 > Herzlichen Glückwunsch zum Geburtstag.
 > *Congratulations on your birthday.*
 
+**Phrases & Expressions:**
+- **Herzlichen Glückwunsch zum Geburtstag** — *Congratulations on your birthday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 5c (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

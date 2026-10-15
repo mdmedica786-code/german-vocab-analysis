@@ -32,6 +32,9 @@ status: "new"
 > Der Einbrecher ist sofort geflohen.
 > *The burglar fled immediately.*
 
+**Phrases & Expressions:**
+- **Der Einbrecher ist sofort geflohen** — *The burglar fled immediately* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

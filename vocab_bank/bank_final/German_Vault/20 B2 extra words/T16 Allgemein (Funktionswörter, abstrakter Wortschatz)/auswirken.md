@@ -32,6 +32,12 @@ status: "new"
 > Das Wetter wirkt sich auf die Ernte aus.
 > *The weather affects the harvest.*
 
+**Phrases & Expressions:**
+- **Dieses Medikament wirkt anders, wenn Sie Alkohol trinken.** — This medicine works differently if you drink alcohol. *([[FSP-11 Therapie und Medikamente erklären|Wechselwirkungen]] · B2)*
+- **sich auf etwas auswirken** — *to affect; to have an effect*
+- **sich positiv auswirken** — *to affect; to have an effect*
+- **sich negativ auswirken** — *to affect; to have an effect*
+
 **Collocations**
 - sich auf etwas auswirken
 - sich positiv auswirken

@@ -32,6 +32,11 @@ status: "new"
 > Ich muss mich noch in das neue Programm einarbeiten.
 > *I still have to get to grips with the new programme.*
 
+**Phrases & Expressions:**
+- **sich einarbeiten** — *to familiarise oneself; to train (on the job)*
+- **neue Mitarbeiter einarbeiten** — *to familiarise oneself; to train (on the job)*
+- **sich in ein Thema einarbeiten** — *to familiarise oneself; to train (on the job)*
+
 **Collocations**
 - sich einarbeiten
 - neue Mitarbeiter einarbeiten

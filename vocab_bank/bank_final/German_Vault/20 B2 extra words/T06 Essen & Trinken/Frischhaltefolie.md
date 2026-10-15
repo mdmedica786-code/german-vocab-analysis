@@ -33,6 +33,11 @@ status: "new"
 > Deck die Schüssel mit Frischhaltefolie ab.
 > *Cover the bowl with cling film.*
 
+**Phrases & Expressions:**
+- **mit Frischhaltefolie abdecken** — *cling film*
+- **in Frischhaltefolie einwickeln** — *cling film*
+- **eine Rolle Frischhaltefolie** — *cling film*
+
 **Collocations**
 - mit Frischhaltefolie abdecken
 - in Frischhaltefolie einwickeln

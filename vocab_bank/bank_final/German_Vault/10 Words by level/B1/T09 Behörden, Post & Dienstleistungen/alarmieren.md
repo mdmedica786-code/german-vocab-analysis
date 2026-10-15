@@ -32,6 +32,9 @@ status: "new"
 > Der Nachbar hat sofort die Feuerwehr alarmiert.
 > *The neighbour alerted the fire brigade immediately.*
 
+**Phrases & Expressions:**
+- **Der Nachbar hat sofort die Feuerwehr alarmiert** — *The neighbour alerted the fire brigade immediately* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

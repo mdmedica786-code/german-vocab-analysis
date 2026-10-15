@@ -34,6 +34,9 @@ status: "new"
 > „z. B.“ ist die Abkürzung für „zum Beispiel“.
 > *"z. B." is the abbreviation for "zum Beispiel".*
 
+**Phrases & Expressions:**
+- **„z. B.“ ist die Abkürzung für „zum Beispiel“** — *"z. B." is the abbreviation for "zum Beispiel"* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

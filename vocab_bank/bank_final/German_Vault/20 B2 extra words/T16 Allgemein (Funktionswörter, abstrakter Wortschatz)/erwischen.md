@@ -31,6 +31,11 @@ status: "new"
 > Die Polizei hat den Dieb erwischt.
 > *The police caught the thief.*
 
+**Phrases & Expressions:**
+- **jemanden erwischen** — *to catch; to get hold of*
+- **den Bus erwischen** — *to catch; to get hold of*
+- **kalt erwischen** — *to catch; to get hold of*
+
 **Collocations**
 - jemanden erwischen
 - den Bus erwischen

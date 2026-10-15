@@ -30,6 +30,11 @@ status: "new"
 > Der Amtsbescheid kam gestern mit der Post.
 > *The official notice came by post yesterday.*
 
+**Phrases & Expressions:**
+- **einen Amtsbescheid erhalten** — *official notice; official decision*
+- **der Amtsbescheid liegt vor** — *official notice; official decision*
+- **gegen einen Amtsbescheid Widerspruch einlegen** — *official notice; official decision*
+
 **Collocations**
 - einen Amtsbescheid erhalten
 - der Amtsbescheid liegt vor

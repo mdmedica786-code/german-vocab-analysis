@@ -33,6 +33,11 @@ status: "new"
 > Die EU hat neue Sanktionen gegen das Land verhängt.
 > *The EU has imposed new sanctions on the country.*
 
+**Phrases & Expressions:**
+- **Sanktionen verhängen** — *sanction*
+- **Sanktionen aufheben** — *sanction*
+- **wirtschaftliche Sanktionen** — *sanction*
+
 **Collocations**
 - Sanktionen verhängen
 - Sanktionen aufheben

@@ -33,6 +33,11 @@ status: "new"
 > Seine Überheblichkeit stört die Kollegen.
 > *His arrogance bothers his colleagues.*
 
+**Phrases & Expressions:**
+- **mit Überheblichkeit** — *arrogance; conceit*
+- **pure Überheblichkeit** — *arrogance; conceit*
+- **die Überheblichkeit der Jugend** — *arrogance; conceit*
+
 **Collocations**
 - mit Überheblichkeit
 - pure Überheblichkeit

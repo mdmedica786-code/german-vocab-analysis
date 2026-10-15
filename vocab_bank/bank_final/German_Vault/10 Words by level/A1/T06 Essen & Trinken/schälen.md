@@ -32,6 +32,9 @@ status: "new"
 > Ich schäle die Kartoffeln für die Suppe.
 > *I am peeling the potatoes for the soup.*
 
+**Phrases & Expressions:**
+- **Ich schäle die Kartoffeln für die Suppe** — *I am peeling the potatoes for the soup* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Ein Hacker hat die Passwörter von tausend Kunden gestohlen.
 > *A hacker stole the passwords of a thousand customers.*
 
+**Phrases & Expressions:**
+- **Hacker greifen an** — *hacker*
+- **von Hackern angegriffen werden** — *hacker*
+- **Opfer von Hackern** — *hacker*
+
 **Collocations**
 - Hacker greifen an
 - von Hackern angegriffen werden

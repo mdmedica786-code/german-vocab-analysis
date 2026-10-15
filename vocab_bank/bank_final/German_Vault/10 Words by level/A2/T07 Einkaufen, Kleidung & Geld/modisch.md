@@ -30,6 +30,9 @@ status: "new"
 > Sie trägt immer modische Kleidung.
 > *She always wears fashionable clothes.*
 
+**Phrases & Expressions:**
+- **Sie trägt immer modische Kleidung** — *She always wears fashionable clothes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 11b (Zusammen leben)
 <!-- bank:end -->
 

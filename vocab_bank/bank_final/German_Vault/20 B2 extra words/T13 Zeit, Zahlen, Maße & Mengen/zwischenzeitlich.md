@@ -29,6 +29,11 @@ status: "new"
 > Zwischenzeitlich wurde das Problem gelöst.
 > *In the meantime the problem has been solved.*
 
+**Phrases & Expressions:**
+- **zwischenzeitlich erledigt** — *in the meantime; meanwhile*
+- **zwischenzeitlich geändert** — *in the meantime; meanwhile*
+- **zwischenzeitlich geschehen** — *in the meantime; meanwhile*
+
 **Collocations**
 - zwischenzeitlich erledigt
 - zwischenzeitlich geändert

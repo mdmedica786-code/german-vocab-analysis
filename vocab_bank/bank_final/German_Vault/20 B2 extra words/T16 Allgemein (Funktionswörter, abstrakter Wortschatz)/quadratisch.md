@@ -29,6 +29,11 @@ status: "new"
 > Der Tisch ist quadratisch.
 > *The table is square.*
 
+**Phrases & Expressions:**
+- **ein quadratischer Raum** — *square*
+- **quadratisch geformt** — *square*
+- **quadratisch, praktisch, gut** — *square*
+
 **Collocations**
 - ein quadratischer Raum
 - quadratisch geformt

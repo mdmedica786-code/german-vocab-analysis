@@ -35,6 +35,12 @@ status: "new"
 > Die Organisation des Festes war sehr gut.
 > *The organisation of the party was very good.*
 
+**Phrases & Expressions:**
+- **die Organisation übernehmen** — *organization*
+- **Organisation eines Festes** — *organization*
+- **gute Organisation** — *organization*
+- **internationale Organisation** — *organization*
+
 **Collocations**
 - die Organisation übernehmen
 - Organisation eines Festes

@@ -30,6 +30,9 @@ status: "new"
 > Bitte ergänzen Sie die fehlenden Wörter.
 > *Please add the missing words.*
 
+**Phrases & Expressions:**
+- **Fehlende Unterlagen reiche ich umgehend nach.** — I will submit missing documents immediately. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Unterlagen nachreichen]] · B2)*
+
 **Source:** Netzwerk neu A1 K9 5b (Meine Wohnung)
 <!-- bank:end -->
 

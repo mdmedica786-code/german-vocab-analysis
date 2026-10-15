@@ -35,6 +35,9 @@ status: "new"
 > Die Verkäuferin wird Ihnen gleich helfen.
 > *The shop assistant will help you in a moment.*
 
+**Phrases & Expressions:**
+- **Die Verkäuferin wird Ihnen gleich helfen** — *The shop assistant will help you in a moment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

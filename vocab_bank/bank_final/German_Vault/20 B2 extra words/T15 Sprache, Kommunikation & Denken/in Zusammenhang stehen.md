@@ -26,6 +26,11 @@ status: "new"
 > Der Unfall steht im Zusammenhang mit dem Sturm.
 > *The accident is connected with the storm.*
 
+**Phrases & Expressions:**
+- **im Zusammenhang stehen mit** — *to be connected; to be related*
+- **in engem Zusammenhang stehen** — *to be connected; to be related*
+- **in Zusammenhang bringen** — *to be connected; to be related*
+
 **Collocations**
 - im Zusammenhang stehen mit
 - in engem Zusammenhang stehen

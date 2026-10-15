@@ -29,6 +29,11 @@ status: "new"
 > Sie interessiert sich für zeitgenössische Kunst.
 > *She is interested in contemporary art.*
 
+**Phrases & Expressions:**
+- **zeitgenössische Kunst** — *contemporary; of the present day*
+- **zeitgenössische Musik** — *contemporary; of the present day*
+- **ein zeitgenössischer Autor** — *contemporary; of the present day*
+
 **Collocations**
 - zeitgenössische Kunst
 - zeitgenössische Musik

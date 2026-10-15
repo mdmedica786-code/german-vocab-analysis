@@ -34,6 +34,9 @@ status: "new"
 > Der Schreiner baut einen Schrank aus Eiche.
 > *The carpenter is building a wardrobe out of oak.*
 
+**Phrases & Expressions:**
+- **Der Schreiner baut einen Schrank aus Eiche** — *The carpenter is building a wardrobe out of oak* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

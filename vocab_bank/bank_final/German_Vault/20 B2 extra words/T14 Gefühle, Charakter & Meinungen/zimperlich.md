@@ -29,6 +29,11 @@ status: "new"
 > Sei nicht so zimperlich, das tut nicht weh!
 > *Don't be so squeamish; it doesn't hurt!*
 
+**Phrases & Expressions:**
+- **nicht zimperlich sein** — *squeamish; overly delicate*
+- **zimperlich reagieren** — *squeamish; overly delicate*
+- **zimperlich tun** — *squeamish; overly delicate*
+
 **Collocations**
 - nicht zimperlich sein
 - zimperlich reagieren

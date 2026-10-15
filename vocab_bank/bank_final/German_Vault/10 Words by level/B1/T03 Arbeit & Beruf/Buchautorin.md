@@ -34,6 +34,9 @@ status: "new"
 > Die Buchautorin signiert ihr neues Buch.
 > *The author signs her new book.*
 
+**Phrases & Expressions:**
+- **Die Buchautorin signiert ihr neues Buch** — *The author signs her new book* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

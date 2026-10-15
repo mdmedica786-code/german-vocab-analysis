@@ -31,6 +31,11 @@ status: "new"
 > Der Schwan gleitet ruhig über das Wasser.
 > *The swan glides calmly over the water.*
 
+**Phrases & Expressions:**
+- **durch die Luft gleiten** — *to glide; to slide*
+- **über das Eis gleiten** — *to glide; to slide*
+- **gleitende Arbeitszeit** — *to glide; to slide*
+
 **Collocations**
 - durch die Luft gleiten
 - über das Eis gleiten

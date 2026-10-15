@@ -32,6 +32,11 @@ status: "new"
 > Die Kanzlei hat sich auf Arbeitsrecht spezialisiert.
 > *The law firm has specialised in employment law.*
 
+**Phrases & Expressions:**
+- **sich auf etwas spezialisieren** — *to specialise*
+- **spezialisiert sein auf** — *to specialise*
+- **sich spezialisieren** — *to specialise*
+
 **Collocations**
 - sich auf etwas spezialisieren
 - spezialisiert sein auf

@@ -34,6 +34,9 @@ status: "new"
 > Suchst du etwas?
 > *Are you looking for something?*
 
+**Phrases & Expressions:**
+- **Ich suche eine Krankenversicherung.** — I am looking for health insurance. *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Krankenversicherung]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 6c (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

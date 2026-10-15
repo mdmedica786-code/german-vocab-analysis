@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Felsen ragt hoch aus dem Meer.
 > *The rock rises high out of the sea.*
+
+**Phrases & Expressions:**
+- **Der Felsen ragt hoch aus dem Meer** — *The rock rises high out of the sea* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

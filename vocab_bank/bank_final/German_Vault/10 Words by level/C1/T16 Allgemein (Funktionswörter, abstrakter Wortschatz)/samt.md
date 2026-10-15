@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Er kam samt seiner Familie.
 > *He came together with his family.*
+
+**Phrases & Expressions:**
+- **Er kam samt seiner Familie** — *He came together with his family* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

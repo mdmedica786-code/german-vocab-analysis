@@ -31,6 +31,11 @@ status: "new"
 > Das Rauchen ist hier nicht gestattet.
 > *Smoking is not permitted here.*
 
+**Phrases & Expressions:**
+- **nicht gestattet** — *to permit; to allow*
+- **jemandem etwas gestatten** — *to permit; to allow*
+- **wenn Sie gestatten** — *to permit; to allow*
+
 **Collocations**
 - nicht gestattet
 - jemandem etwas gestatten

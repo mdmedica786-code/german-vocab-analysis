@@ -31,6 +31,9 @@ status: "new"
 > Mittags esse ich meistens warm.
 > *At noon I usually eat a hot meal.*
 
+**Phrases & Expressions:**
+- **Sie nehmen dreimal täglich eine Tablette, morgens, mittags und abends.** — You take one tablet three times a day: morning, noon and evening. *([[FSP-11 Therapie und Medikamente erklären|Dosierung erklären]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

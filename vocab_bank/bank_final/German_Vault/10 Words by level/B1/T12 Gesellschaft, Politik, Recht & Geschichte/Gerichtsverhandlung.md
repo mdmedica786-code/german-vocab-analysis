@@ -34,6 +34,9 @@ status: "new"
 > Die Gerichtsverhandlung beginnt um neun Uhr.
 > *The trial begins at nine o'clock.*
 
+**Phrases & Expressions:**
+- **Die Gerichtsverhandlung beginnt um neun Uhr** — *The trial begins at nine o'clock* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

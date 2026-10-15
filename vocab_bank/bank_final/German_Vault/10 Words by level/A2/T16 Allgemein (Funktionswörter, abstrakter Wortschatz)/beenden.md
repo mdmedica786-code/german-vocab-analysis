@@ -34,6 +34,9 @@ status: "new"
 > Du musst deine Ausbildung auf jeden Fall beenden.
 > **
 
+**Phrases & Expressions:**
+- **Wenn Sie weiter schreien, muss ich das Gespräch beenden.** — If you keep shouting, I will have to end the conversation. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Grenzen setzen]] · C1)*
+
 **Source:** Netzwerk neu A2 K1 3a (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

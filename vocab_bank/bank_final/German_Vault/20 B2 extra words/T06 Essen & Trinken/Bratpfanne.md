@@ -33,6 +33,11 @@ status: "new"
 > Das Fleisch muss in der Bratpfanne von beiden Seiten angebraten werden.
 > *The meat has to be seared on both sides in the frying pan.*
 
+**Phrases & Expressions:**
+- **in der Bratpfanne braten** — *frying pan*
+- **eine beschichtete Bratpfanne** — *frying pan*
+- **die Bratpfanne erhitzen** — *frying pan*
+
 **Collocations**
 - in der Bratpfanne braten
 - eine beschichtete Bratpfanne

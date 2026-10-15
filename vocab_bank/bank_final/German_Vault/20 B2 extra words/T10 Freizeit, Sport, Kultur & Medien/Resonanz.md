@@ -33,6 +33,11 @@ status: "new"
 > Die Ausstellung fand eine große Resonanz in der Presse.
 > *The exhibition found a great response in the press.*
 
+**Phrases & Expressions:**
+- **Resonanz finden** — *response; echo*
+- **positive Resonanz** — *response; echo*
+- **auf Resonanz stoßen** — *response; echo*
+
 **Collocations**
 - Resonanz finden
 - positive Resonanz

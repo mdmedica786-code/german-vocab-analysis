@@ -33,6 +33,11 @@ status: "new"
 > Beim Anfahren muss man die Kupplung langsam kommen lassen.
 > *When pulling away you have to release the clutch slowly.*
 
+**Phrases & Expressions:**
+- **die Kupplung treten** — *clutch; coupling*
+- **die Kupplung kommen lassen** — *clutch; coupling*
+- **eine defekte Kupplung** — *clutch; coupling*
+
 **Collocations**
 - die Kupplung treten
 - die Kupplung kommen lassen

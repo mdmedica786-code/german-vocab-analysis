@@ -35,6 +35,9 @@ status: "new"
 > Ein Glas Mineralwasser, bitte.
 > *A glass of mineral water, please.*
 
+**Phrases & Expressions:**
+- **Ein Glas Mineralwasser, bitte** — *A glass of mineral water, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3c (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

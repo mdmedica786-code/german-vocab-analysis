@@ -31,6 +31,12 @@ status: "new"
 > Die Angaben unterliegen der Geheimhaltung.
 > *The information is subject to confidentiality.*
 
+**Phrases & Expressions:**
+- **Alles, was Sie mir sagen, unterliegt der ärztlichen Schweigepflicht.** — Everything you tell me is covered by medical confidentiality. *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Vertraulichkeit zusichern]] · B2)*
+- **einer Regelung unterliegen** — *to be subject to; to lose to*
+- **im Wettbewerb unterliegen** — *to be subject to; to lose to*
+- **Schwankungen unterliegen** — *to be subject to; to lose to*
+
 **Collocations**
 - einer Regelung unterliegen
 - im Wettbewerb unterliegen

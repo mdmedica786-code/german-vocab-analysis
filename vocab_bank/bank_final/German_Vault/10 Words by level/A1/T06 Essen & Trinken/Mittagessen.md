@@ -35,6 +35,9 @@ status: "new"
 > Um zwölf Uhr gibt es Mittagessen.
 > *Lunch is at twelve o'clock.*
 
+**Phrases & Expressions:**
+- **Um zwölf Uhr gibt es Mittagessen** — *Lunch is at twelve o'clock* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

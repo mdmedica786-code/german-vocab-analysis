@@ -34,6 +34,9 @@ status: "new"
 > Die Sprecherin der Firma beantwortet die Fragen.
 > *The company's spokesperson answers the questions.*
 
+**Phrases & Expressions:**
+- **Die Sprecherin der Firma beantwortet die Fragen** — *The company's spokesperson answers the questions* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 10a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > In England tragen viele Kinder eine Schuluniform.
 > *In England many children wear a school uniform.*
 
+**Phrases & Expressions:**
+- **In England tragen viele Kinder eine Schuluniform** — *In England many children wear a school uniform* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 3a (Nach der Schulzeit)
 <!-- bank:end -->
 

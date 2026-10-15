@@ -29,6 +29,11 @@ status: "new"
 > Die Verhandlungen sind ins Stocken geraten.
 > *The negotiations have stalled.*
 
+**Phrases & Expressions:**
+- **Verhandlungen geraten ins Stocken** — *to come to a standstill; to stall*
+- **ins Stocken bringen** — *to come to a standstill; to stall*
+- **der Verkehr gerät ins Stocken** — *to come to a standstill; to stall*
+
 **Collocations**
 - Verhandlungen geraten ins Stocken
 - ins Stocken bringen

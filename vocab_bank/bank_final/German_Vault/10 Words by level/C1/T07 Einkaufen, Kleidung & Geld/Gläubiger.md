@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Gläubiger fordert sein Geld zurück.
 > *The creditor demands his money back.*
+
+**Phrases & Expressions:**
+- **Der Gläubiger fordert sein Geld zurück** — *The creditor demands his money back* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

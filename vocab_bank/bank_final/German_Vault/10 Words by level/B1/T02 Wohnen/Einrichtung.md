@@ -34,6 +34,12 @@ status: "new"
 > Deine Wohnung ist sehr gemütlich, die Einrichtung gefällt mir sehr gut.
 > *Your flat is very cosy, I like the furnishings very much.*
 
+**Phrases & Expressions:**
+- **die Einrichtung planen** — *furnishings; facility; institution*
+- **moderne Einrichtung** — *furnishings; facility; institution*
+- **soziale Einrichtung** — *furnishings; facility; institution*
+- **öffentliche Einrichtung** — *furnishings; facility; institution*
+
 **Collocations**
 - die Einrichtung planen
 - moderne Einrichtung

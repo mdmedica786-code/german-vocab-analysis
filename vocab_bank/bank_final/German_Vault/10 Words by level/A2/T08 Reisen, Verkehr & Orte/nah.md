@@ -32,6 +32,12 @@ status: "new"
 > Wie weit ist es zum Bahnhof? – Das ist ganz nah, nur zwei Minuten von hier.
 > *How far is it to the station? – It's very near, only two minutes from here.*
 
+**Phrases & Expressions:**
+- **nah beieinander** — *near*
+- **nah dran** — *near*
+- **nah am Wasser** — *near*
+- **nahe liegen** — *near*
+
 **Collocations**
 - nah beieinander
 - nah dran

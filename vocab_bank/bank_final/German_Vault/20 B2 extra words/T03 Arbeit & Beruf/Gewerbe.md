@@ -33,6 +33,11 @@ status: "new"
 > Er hat ein Gewerbe angemeldet.
 > *He has registered a business.*
 
+**Phrases & Expressions:**
+- **ein Gewerbe anmelden** — *trade; business; commerce*
+- **im Gewerbe tätig sein** — *trade; business; commerce*
+- **das Handwerk und das Gewerbe** — *trade; business; commerce*
+
 **Collocations**
 - ein Gewerbe anmelden
 - im Gewerbe tätig sein

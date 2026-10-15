@@ -32,6 +32,11 @@ status: "new"
 > Sie grübelt die ganze Nacht über ihre Zukunft.
 > *She broods all night about her future.*
 
+**Phrases & Expressions:**
+- **über etwas grübeln** — *to brood; to ponder*
+- **lange grübeln** — *to brood; to ponder*
+- **ins Grübeln kommen** — *to brood; to ponder*
+
 **Collocations**
 - über etwas grübeln
 - lange grübeln

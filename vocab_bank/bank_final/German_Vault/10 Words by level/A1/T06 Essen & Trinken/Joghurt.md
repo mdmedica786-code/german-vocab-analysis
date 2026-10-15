@@ -34,6 +34,9 @@ status: "new"
 > Zum Frühstück esse ich Joghurt mit Obst.
 > *For breakfast I eat yoghurt with fruit.*
 
+**Phrases & Expressions:**
+- **Zum Frühstück esse ich Joghurt mit Obst** — *For breakfast I eat yoghurt with fruit* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!)
 <!-- bank:end -->
 

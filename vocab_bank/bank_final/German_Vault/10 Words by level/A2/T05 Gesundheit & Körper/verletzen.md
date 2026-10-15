@@ -33,6 +33,9 @@ status: "new"
 > Sind Sie verletzt? – Ja, am Bein.
 > *Are you hurt? – Yes, in the leg.*
 
+**Phrases & Expressions:**
+- **Berichten zufolge sind mehrere Menschen verletzt worden.** — According to reports, several people have been injured. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Quelle distanziert wiedergeben]] · B2)*
+
 **Source:** Netzwerk neu A2 K11 1b ÜB (Wie die Zeit vergeht!) · Goethe word list A2
 <!-- bank:end -->
 

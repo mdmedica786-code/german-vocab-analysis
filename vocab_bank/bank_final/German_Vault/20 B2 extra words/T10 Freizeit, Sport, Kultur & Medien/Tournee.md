@@ -33,6 +33,11 @@ status: "new"
 > Die Band geht im Herbst auf Tournee.
 > *The band is going on tour in autumn.*
 
+**Phrases & Expressions:**
+- **auf Tournee gehen** — *tour (of a band or theatre)*
+- **eine Tournee planen** — *tour (of a band or theatre)*
+- **auf Tournee sein** — *tour (of a band or theatre)*
+
 **Collocations**
 - auf Tournee gehen
 - eine Tournee planen

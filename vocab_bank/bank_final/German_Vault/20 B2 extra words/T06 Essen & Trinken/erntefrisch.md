@@ -29,6 +29,11 @@ status: "new"
 > Auf dem Markt gibt es erntefrisches Gemüse.
 > *At the market there are freshly harvested vegetables.*
 
+**Phrases & Expressions:**
+- **erntefrisches Gemüse** — *freshly harvested*
+- **erntefrisch verkaufen** — *freshly harvested*
+- **erntefrische Früchte** — *freshly harvested*
+
 **Collocations**
 - erntefrisches Gemüse
 - erntefrisch verkaufen

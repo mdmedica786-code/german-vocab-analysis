@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Verzeichnis liegt am Empfang.
 > *The directory is at the reception.*
+
+**Phrases & Expressions:**
+- **Das Verzeichnis liegt am Empfang** — *The directory is at the reception* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

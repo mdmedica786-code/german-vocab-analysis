@@ -34,6 +34,9 @@ status: "new"
 > Im Garten steht ein alter Olivenbaum.
 > *An old olive tree stands in the garden.*
 
+**Phrases & Expressions:**
+- **Im Garten steht ein alter Olivenbaum** — *An old olive tree stands in the garden* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13c (Gute Reise!)
 <!-- bank:end -->
 

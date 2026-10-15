@@ -35,6 +35,9 @@ status: "new"
 > Wo ist die Toilette, bitte?
 > *Where is the toilet, please?*
 
+**Phrases & Expressions:**
+- **Haben Sie Durst oder müssen Sie nachts oft zur Toilette?** — Are you thirsty or do you have to go to the toilet often at night? *([[FSP-06 Systemanamnese (Organsysteme)|Stoffwechsel und Gewicht]] · B2)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

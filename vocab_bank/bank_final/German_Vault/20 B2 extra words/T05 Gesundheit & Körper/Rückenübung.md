@@ -30,6 +30,11 @@ status: "new"
 > Der Physiotherapeut zeigt mir Rückenübungen für zu Hause.
 > *The physiotherapist shows me back exercises for home.*
 
+**Phrases & Expressions:**
+- **Rückenübungen machen** — *back exercise*
+- **eine Rückenübung zeigen** — *back exercise*
+- **Rückenübungen gegen Schmerzen** — *back exercise*
+
 **Collocations**
 - Rückenübungen machen
 - eine Rückenübung zeigen

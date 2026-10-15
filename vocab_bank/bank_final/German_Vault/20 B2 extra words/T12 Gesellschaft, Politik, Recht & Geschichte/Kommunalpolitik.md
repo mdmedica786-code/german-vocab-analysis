@@ -33,6 +33,11 @@ status: "new"
 > Sie ist seit Jahren in der Kommunalpolitik aktiv.
 > *She has been active in local politics for years.*
 
+**Phrases & Expressions:**
+- **in der Kommunalpolitik** — *local politics*
+- **Kommunalpolitik betreiben** — *local politics*
+- **Kommunalpolitiker** — *local politics*
+
 **Collocations**
 - in der Kommunalpolitik
 - Kommunalpolitik betreiben

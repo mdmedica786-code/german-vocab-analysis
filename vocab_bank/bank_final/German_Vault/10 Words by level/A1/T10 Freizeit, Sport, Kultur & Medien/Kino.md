@@ -35,6 +35,9 @@ status: "new"
 > Wir sehen heute Abend im Kino einen schönen Film.
 > *Tonight we're watching a nice film at the cinema.*
 
+**Phrases & Expressions:**
+- **Wir sehen heute Abend im Kino einen schönen Film** — *Tonight we're watching a nice film at the cinema* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 2a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

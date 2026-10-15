@@ -31,6 +31,9 @@ status: "new"
 > Welcher Tag ist heute?
 > **
 
+**Phrases & Expressions:**
+- **Welcher Tag ist heute** — ** *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

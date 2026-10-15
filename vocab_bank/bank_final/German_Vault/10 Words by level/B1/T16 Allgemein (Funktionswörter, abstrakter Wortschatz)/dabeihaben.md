@@ -33,6 +33,14 @@ status: "new"
 > Hast du Geld dabei?
 > *Do you have money with you?*
 
+**Phrases & Expressions:**
+- **ich hatte das Gefühl, dass ...** — I had the feeling that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **ich hatte das Gefühl** — I had the feeling *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **ich hatte keine Ahnung** — I had no idea *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **ich hatte den Eindruck, dass ...** — I had the impression that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **Das Problem dabei ist, dass ...** — The problem with it is that ... *([[B1-04 Vor- und Nachteile nennen|Nachteil nennen]] · B1)*
+- **Besonders wichtig ist mir dabei ...** — What is especially important to me here is ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Schwerpunkt setzen]] · B1)*
+
 **Source:** Netzwerk neu B1 K2 5a ÜB (Das ist ja praktisch!)
 <!-- bank:end -->
 

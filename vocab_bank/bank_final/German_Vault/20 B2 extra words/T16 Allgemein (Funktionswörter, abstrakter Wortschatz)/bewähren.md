@@ -32,6 +32,10 @@ status: "new"
 > Das neue System hat sich im Alltag bewährt.
 > *The new system has proved its worth in everyday use.*
 
+**Phrases & Expressions:**
+- **sich bewähren** — *to prove its worth*
+- **sich gut bewähren** — *to prove its worth*
+
 **Collocations**
 - sich bewähren
 - sich gut bewähren

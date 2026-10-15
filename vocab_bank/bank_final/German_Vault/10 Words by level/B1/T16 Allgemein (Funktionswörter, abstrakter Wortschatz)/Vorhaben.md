@@ -34,6 +34,9 @@ status: "new"
 > Das Vorhaben der Stadt kostet viel Geld.
 > *The city's project costs a lot of money.*
 
+**Phrases & Expressions:**
+- **Das Vorhaben der Stadt kostet viel Geld** — *The city's project costs a lot of money* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7b (Miteinander)
 <!-- bank:end -->
 

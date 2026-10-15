@@ -29,6 +29,11 @@ status: "new"
 > Das Gespräch war sehr ergiebig, wir haben viele neue Ideen gesammelt.
 > *The conversation was very productive; we gathered many new ideas.*
 
+**Phrases & Expressions:**
+- **ein ergiebiges Thema** — *productive; rich in yield*
+- **eine ergiebige Quelle** — *productive; rich in yield*
+- **wenig ergiebig** — *productive; rich in yield*
+
 **Collocations**
 - ein ergiebiges Thema
 - eine ergiebige Quelle

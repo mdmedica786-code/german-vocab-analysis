@@ -31,6 +31,9 @@ status: "new"
 > Unsere Klasse macht eine Umweltaktion im Park.
 > *Our class is doing an environmental campaign in the park.*
 
+**Phrases & Expressions:**
+- **Unsere Klasse macht eine Umweltaktion im Park** — *Our class is doing an environmental campaign in the park* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13e (Umweltfreundlich?)
 <!-- bank:end -->
 

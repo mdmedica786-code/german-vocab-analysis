@@ -33,6 +33,11 @@ status: "new"
 > Der Leitfaden erklärt jeden Schritt genau.
 > *The guide explains every step exactly.*
 
+**Phrases & Expressions:**
+- **ein Leitfaden für** — *guide; manual; guideline*
+- **einen Leitfaden erstellen** — *guide; manual; guideline*
+- **ein praktischer Leitfaden** — *guide; manual; guideline*
+
 **Collocations**
 - ein Leitfaden für
 - einen Leitfaden erstellen

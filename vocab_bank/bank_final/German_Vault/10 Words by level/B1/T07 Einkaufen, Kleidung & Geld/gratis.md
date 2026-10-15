@@ -31,6 +31,12 @@ status: "new"
 > Diese Reparatur kostet Sie gar nichts, wir machen das gratis für Sie.
 > *This repair costs you nothing at all, we are doing it for you free of charge.*
 
+**Phrases & Expressions:**
+- **gratis bekommen** — *free*
+- **gratis anbieten** — *free*
+- **völlig gratis** — *free*
+- **gratis testen** — *free*
+
 **Collocations**
 - gratis bekommen
 - gratis anbieten

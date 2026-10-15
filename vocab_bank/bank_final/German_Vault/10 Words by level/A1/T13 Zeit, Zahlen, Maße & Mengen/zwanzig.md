@@ -31,6 +31,9 @@ status: "new"
 > Zwanzig Euro sind zu viel.
 > *Twenty euros is too much.*
 
+**Phrases & Expressions:**
+- **Die Untersuchung dauert ungefähr zwanzig Minuten.** — The examination takes about twenty minutes. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Ablauf erklären]] · A2)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -26,6 +26,10 @@ status: "new"
 > Auf der Sitzung steht eine Steuersenkung zur Debatte.
 > *A tax cut is under discussion at the meeting.*
 
+**Phrases & Expressions:**
+- **zur Debatte stellen** — *to be under discussion*
+- **zur Diskussion stehen** — *to be under discussion*
+
 **Collocations**
 - zur Debatte stellen
 - zur Diskussion stehen

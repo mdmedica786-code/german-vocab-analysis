@@ -30,6 +30,9 @@ status: "new"
 > Sie hat ein künstlerisches Talent.
 > *She has an artistic talent.*
 
+**Phrases & Expressions:**
+- **Sie hat ein künstlerisches Talent** — *She has an artistic talent* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7b (Kunststücke)
 <!-- bank:end -->
 

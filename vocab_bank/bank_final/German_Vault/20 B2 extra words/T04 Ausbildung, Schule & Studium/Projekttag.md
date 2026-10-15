@@ -30,6 +30,11 @@ status: "new"
 > Am Projekttag arbeiten alle Klassen zum gleichen Thema.
 > *On project day all classes work on the same topic.*
 
+**Phrases & Expressions:**
+- **ein Projekttag in der Schule** — *project day*
+- **der Projekttag zum Thema Umwelt** — *project day*
+- **einen Projekttag organisieren** — *project day*
+
 **Collocations**
 - ein Projekttag in der Schule
 - der Projekttag zum Thema Umwelt

@@ -29,6 +29,11 @@ status: "new"
 > Die Kritiken waren durchweg positiv.
 > *The reviews were positive throughout.*
 
+**Phrases & Expressions:**
+- **durchweg positiv** — *throughout; without exception*
+- **durchweg gut** — *throughout; without exception*
+- **durchweg zufrieden** — *throughout; without exception*
+
 **Collocations**
 - durchweg positiv
 - durchweg gut

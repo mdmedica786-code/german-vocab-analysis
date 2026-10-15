@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Viele Jugendliche nutzen ein Online-Netzwerk.
 > *Many young people use an online network.*
+
+**Phrases & Expressions:**
+- **Viele Jugendliche nutzen ein Online-Netzwerk** — *Many young people use an online network* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

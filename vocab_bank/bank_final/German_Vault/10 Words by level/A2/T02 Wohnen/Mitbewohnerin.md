@@ -34,6 +34,9 @@ status: "new"
 > Meine Mitbewohnerin studiert Medizin.
 > *My flatmate studies medicine.*
 
+**Phrases & Expressions:**
+- **Meine Mitbewohnerin studiert Medizin** — *My flatmate studies medicine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 6c (Zusammen leben)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Mein Sohn ist ein eigensinniges Kind.
 > *My son is a headstrong child.*
 
+**Phrases & Expressions:**
+- **ein eigensinniges Kind** — *headstrong; obstinate*
+- **eigensinnig sein** — *headstrong; obstinate*
+- **eigensinnig auf etwas beharren** — *headstrong; obstinate*
+
 **Collocations**
 - ein eigensinniges Kind
 - eigensinnig sein

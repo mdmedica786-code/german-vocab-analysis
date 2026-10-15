@@ -33,6 +33,11 @@ status: "new"
 > Das Auto hat einen elektrischen Antrieb.
 > *The car has an electric drive.*
 
+**Phrases & Expressions:**
+- **elektrischer Antrieb** — *drive; propulsion; motivation*
+- **Antrieb haben** — *drive; propulsion; motivation*
+- **ohne Antrieb** — *drive; propulsion; motivation*
+
 **Collocations**
 - elektrischer Antrieb
 - Antrieb haben

@@ -31,6 +31,9 @@ status: "new"
 > [!example] Beispiel
 > Jeder kann zum Umweltschutz beitragen.
 > *Everyone can contribute to environmental protection.*
+
+**Phrases & Expressions:**
+- **Jeder kann zum Umweltschutz beitragen** — *Everyone can contribute to environmental protection* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

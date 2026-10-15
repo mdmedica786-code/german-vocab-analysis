@@ -33,6 +33,11 @@ status: "new"
 > Fertiggerichte sind praktisch, enthalten aber oft viel Salz.
 > *Ready meals are practical but often contain a lot of salt.*
 
+**Phrases & Expressions:**
+- **ein Fertiggericht erwärmen** — *ready meal*
+- **Fertiggerichte essen** — *ready meal*
+- **auf Fertiggerichte verzichten** — *ready meal*
+
 **Collocations**
 - ein Fertiggericht erwärmen
 - Fertiggerichte essen

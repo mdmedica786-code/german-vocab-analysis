@@ -33,6 +33,11 @@ status: "new"
 > Bei der Informationssuche hilft das Internet.
 > *The internet helps with the search for information.*
 
+**Phrases & Expressions:**
+- **die Informationssuche im Internet** — *search for information*
+- **bei der Informationssuche** — *search for information*
+- **die Informationssuche beginnen** — *search for information*
+
 **Collocations**
 - die Informationssuche im Internet
 - bei der Informationssuche

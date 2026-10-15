@@ -26,6 +26,11 @@ status: "new"
 > Er tritt in der Öffentlichkeit selten in Erscheinung.
 > *He rarely appears in public.*
 
+**Phrases & Expressions:**
+- **öffentlich in Erscheinung treten** — *to appear; to make an appearance*
+- **als Vermittler in Erscheinung treten** — *to appear; to make an appearance*
+- **nicht in Erscheinung treten** — *to appear; to make an appearance*
+
 **Collocations**
 - öffentlich in Erscheinung treten
 - als Vermittler in Erscheinung treten

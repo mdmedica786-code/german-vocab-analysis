@@ -26,6 +26,10 @@ status: "new"
 > Die Universität hat ihm eine Zusage erteilt.
 > *The university has given him an acceptance.*
 
+**Phrases & Expressions:**
+- **eine Zusage erhalten** — *to give a commitment; to grant an acceptance*
+- **eine Zusage geben** — *to give a commitment; to grant an acceptance*
+
 **Collocations**
 - eine Zusage erhalten
 - eine Zusage geben

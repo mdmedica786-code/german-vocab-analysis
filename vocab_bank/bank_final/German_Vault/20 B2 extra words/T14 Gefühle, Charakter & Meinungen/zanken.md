@@ -31,6 +31,11 @@ status: "new"
 > Die Geschwister zanken sich ständig.
 > *The siblings are constantly squabbling.*
 
+**Phrases & Expressions:**
+- **sich zanken** — *to squabble; to quarrel*
+- **sich um etwas zanken** — *to squabble; to quarrel*
+- **herumzanken** — *to squabble; to quarrel*
+
 **Collocations**
 - sich zanken
 - sich um etwas zanken

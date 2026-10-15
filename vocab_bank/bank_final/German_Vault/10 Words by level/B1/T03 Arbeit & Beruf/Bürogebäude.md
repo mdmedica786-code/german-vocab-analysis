@@ -34,6 +34,9 @@ status: "new"
 > Das Bürogebäude hat zehn Stockwerke.
 > *The office building has ten floors.*
 
+**Phrases & Expressions:**
+- **Das Bürogebäude hat zehn Stockwerke** — *The office building has ten floors* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 1b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Produkte sind in drei Kategorien eingeteilt.
 > *The products are divided into three categories.*
 
+**Phrases & Expressions:**
+- **Die Produkte sind in drei Kategorien eingeteilt** — *The products are divided into three categories* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 8a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

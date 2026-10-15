@@ -33,6 +33,11 @@ status: "new"
 > Die Kalkulation des Projekts war zu optimistisch.
 > *The costing of the project was too optimistic.*
 
+**Phrases & Expressions:**
+- **eine Kalkulation erstellen** — *calculation; costing*
+- **nach meiner Kalkulation** — *calculation; costing*
+- **Kalkulation der Kosten** — *calculation; costing*
+
 **Collocations**
 - eine Kalkulation erstellen
 - nach meiner Kalkulation

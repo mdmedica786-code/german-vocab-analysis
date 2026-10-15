@@ -33,6 +33,13 @@ status: "new"
 > Die Patientin fiel in Ohnmacht.
 > *The patient fainted.*
 
+**Phrases & Expressions:**
+- **Hatten Sie schon einmal einen Krampfanfall oder eine Ohnmacht?** — Have you ever had a seizure or fainted? *([[FSP-06 Systemanamnese (Organsysteme)|Nervensystem]] · B2)*
+- **in Ohnmacht fallen** — *fainting; unconsciousness*
+- **aus der Ohnmacht erwachen** — *fainting; unconsciousness*
+- **eine kurze Ohnmacht** — *fainting; unconsciousness*
+- **kurz vor der Ohnmacht** — *fainting; unconsciousness*
+
 **Collocations**
 - in Ohnmacht fallen
 - aus der Ohnmacht erwachen

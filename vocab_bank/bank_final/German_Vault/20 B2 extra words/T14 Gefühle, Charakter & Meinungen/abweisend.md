@@ -29,6 +29,11 @@ status: "new"
 > Er reagierte auf die Frage sehr abweisend.
 > *He reacted very coldly to the question.*
 
+**Phrases & Expressions:**
+- **abweisend wirken** — *dismissive; cold; unfriendly*
+- **ein abweisendes Verhalten** — *dismissive; cold; unfriendly*
+- **sich abweisend zeigen** — *dismissive; cold; unfriendly*
+
 **Collocations**
 - abweisend wirken
 - ein abweisendes Verhalten

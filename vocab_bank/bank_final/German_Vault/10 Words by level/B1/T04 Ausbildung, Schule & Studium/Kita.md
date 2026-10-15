@@ -34,6 +34,9 @@ status: "new"
 > Mein Sohn geht in die Kita.
 > *My son goes to day care.*
 
+**Phrases & Expressions:**
+- **Mein Sohn geht in die Kita** — *My son goes to day care* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 10 (Stadt, Land, Fluss)
 <!-- bank:end -->
 

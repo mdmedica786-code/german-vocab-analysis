@@ -29,6 +29,11 @@ status: "new"
 > Komm doch zu uns rüber!
 > *Come over to us!*
 
+**Phrases & Expressions:**
+- **rüber gehen** — *over; across (colloquial for hinüber)*
+- **rüber kommen** — *over; across (colloquial for hinüber)*
+- **die Straße rüber** — *over; across (colloquial for hinüber)*
+
 **Collocations**
 - rüber gehen
 - rüber kommen

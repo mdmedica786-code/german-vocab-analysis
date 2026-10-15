@@ -33,6 +33,11 @@ status: "new"
 > Die neue Version der App ist fehlerfrei.
 > *The new version of the app is error-free.*
 
+**Phrases & Expressions:**
+- **eine neue Version** — *version*
+- **in der aktuellen Version** — *version*
+- **die deutsche Version** — *version*
+
 **Collocations**
 - eine neue Version
 - in der aktuellen Version

@@ -34,6 +34,9 @@ status: "new"
 > „Wer“ ist ein Fragewort.
 > *“Wer” is an interrogative word.*
 
+**Phrases & Expressions:**
+- **„Wer“ ist ein Fragewort** — *“Wer” is an interrogative word* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7c (Ab in den Urlaub!)
 <!-- bank:end -->
 

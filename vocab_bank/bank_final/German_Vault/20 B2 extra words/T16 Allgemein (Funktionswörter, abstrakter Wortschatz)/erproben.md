@@ -31,6 +31,11 @@ status: "new"
 > Das neue Verfahren wird derzeit erprobt.
 > *The new procedure is currently being tested.*
 
+**Phrases & Expressions:**
+- **ein Verfahren erproben** — *to test; to try out*
+- **im Alltag erproben** — *to test; to try out*
+- **ein erprobtes Mittel** — *to test; to try out*
+
 **Collocations**
 - ein Verfahren erproben
 - im Alltag erproben

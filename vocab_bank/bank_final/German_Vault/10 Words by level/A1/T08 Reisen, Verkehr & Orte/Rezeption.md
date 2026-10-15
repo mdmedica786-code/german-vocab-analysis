@@ -35,6 +35,9 @@ status: "new"
 > Fragen Sie bitte im Hotel an der Rezeption.
 > *Please ask at reception in the hotel.*
 
+**Phrases & Expressions:**
+- **Fragen Sie bitte im Hotel an der Rezeption** — *Please ask at reception in the hotel* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 3a ÜB (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

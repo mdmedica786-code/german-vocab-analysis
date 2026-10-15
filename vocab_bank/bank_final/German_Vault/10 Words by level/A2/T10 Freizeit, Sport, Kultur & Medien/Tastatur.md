@@ -35,6 +35,9 @@ status: "new"
 > Die Tastatur an meinem Computer ist ganz neu.
 > *The keyboard on my computer is brand new.*
 
+**Phrases & Expressions:**
+- **Die Tastatur an meinem Computer ist ganz neu** — *The keyboard on my computer is brand new* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1a ÜB (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

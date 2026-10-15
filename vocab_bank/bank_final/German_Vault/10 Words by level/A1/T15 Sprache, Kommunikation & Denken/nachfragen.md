@@ -33,6 +33,9 @@ status: "new"
 > Fragen Sie bei der Information nach.
 > *Ask at the information desk.*
 
+**Phrases & Expressions:**
+- **Da bin ich mir nicht sicher, ich möchte lieber nachfragen.** — I'm not sure about that; I would rather ask. *([[FSP-19 Übergabe, Konsil und Rücksprache|Unsicherheit ausdrücken]] · B2)*
+
 **Source:** Netzwerk neu A1 K10 13f (Studium und Beruf)
 <!-- bank:end -->
 

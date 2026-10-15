@@ -36,6 +36,9 @@ status: "new"
 > Das Paket wiegt zwei Kilogramm.
 > *The parcel weighs two kilograms.*
 
+**Phrases & Expressions:**
+- **Das Paket wiegt zwei Kilogramm** — *The parcel weighs two kilograms* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 6d ÜB (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,9 @@ status: "new"
 > Können Sie mir den Brief bitte übersetzen?
 > *Can you translate the letter for me, please?*
 
+**Phrases & Expressions:**
+- **Können Sie mir den Brief bitte übersetzen** — *Can you translate the letter for me, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 7a (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

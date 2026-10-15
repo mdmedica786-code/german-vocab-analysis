@@ -31,6 +31,14 @@ status: "new"
 > Das ist das aktuelle Kinoprogramm.
 > *That is the current cinema programme.*
 
+**Phrases & Expressions:**
+- **Laut einer aktuellen Umfrage ...** — According to a recent survey ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Quellen nennen]] · B2)*
+- **Laut aktuellen Medienberichten ...** — According to media reports ... *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Quelle distanziert wiedergeben]] · B2)*
+- **Wie ist der Patient aktuell klinisch einzuschätzen?** — How should the patient be assessed clinically at present? *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Rückfrage stellen]] · C1)*
+- **Das Risiko einer Verschlechterung ist aktuell als gering einzustufen.** — The risk of deterioration is currently to be classed as low. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Prognose und Risiko]] · C1)*
+- **aktuelle Nachrichten** — *current*
+- **die aktuelle Lage** — *current*
+
 **Collocations**
 - aktuelle Nachrichten
 - die aktuelle Lage

@@ -33,6 +33,10 @@ status: "new"
 > Können Sie meine Frage bitte beantworten?
 > *Can you please answer my question?*
 
+**Phrases & Expressions:**
+- **Ich beantworte gern Ihre Fragen.** — I am happy to answer your questions. *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Fragen einladen]] · B1)*
+- **Wir nehmen uns die Zeit, alle Ihre Fragen zu beantworten.** — We'll take the time to answer all your questions. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Angst ansprechen]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

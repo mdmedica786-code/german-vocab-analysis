@@ -31,6 +31,12 @@ status: "new"
 > Ich habe meine gesamten Bücher verschenkt.
 > *I gave away all my books.*
 
+**Phrases & Expressions:**
+- **die gesamte Familie** — *whole; entire; total*
+- **gesamt gesehen** — *whole; entire; total*
+- **der gesamte Betrag** — *whole; entire; total*
+- **im Gesamten** — *whole; entire; total*
+
 **Collocations**
 - die gesamte Familie
 - gesamt gesehen

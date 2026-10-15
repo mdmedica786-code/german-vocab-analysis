@@ -29,6 +29,11 @@ status: "new"
 > Der Vogel ist im Zimmer gefangen.
 > *The bird is trapped in the room.*
 
+**Phrases & Expressions:**
+- **gefangen nehmen** — *captured; trapped*
+- **gefangen halten** — *captured; trapped*
+- **im Stau gefangen sein** — *captured; trapped*
+
 **Collocations**
 - gefangen nehmen
 - gefangen halten

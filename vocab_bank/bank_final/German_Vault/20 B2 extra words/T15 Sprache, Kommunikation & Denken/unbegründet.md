@@ -29,6 +29,11 @@ status: "new"
 > Seine Sorgen waren völlig unbegründet.
 > *His worries were completely unfounded.*
 
+**Phrases & Expressions:**
+- **unbegründet sein** — *unfounded; groundless*
+- **eine unbegründete Angst** — *unfounded; groundless*
+- **als unbegründet ablehnen** — *unfounded; groundless*
+
 **Collocations**
 - unbegründet sein
 - eine unbegründete Angst

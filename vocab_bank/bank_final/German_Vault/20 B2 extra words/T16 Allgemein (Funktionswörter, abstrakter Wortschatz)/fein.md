@@ -29,6 +29,11 @@ status: "new"
 > Das Mehl ist besonders fein gemahlen.
 > *The flour is especially finely ground.*
 
+**Phrases & Expressions:**
+- **fein gemahlen** — *fine; delicate; refined*
+- **ein feiner Unterschied** — *fine; delicate; refined*
+- **fein säuberlich** — *fine; delicate; refined*
+
 **Collocations**
 - fein gemahlen
 - ein feiner Unterschied

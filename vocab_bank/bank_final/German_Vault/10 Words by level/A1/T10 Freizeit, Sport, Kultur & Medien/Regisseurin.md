@@ -34,6 +34,9 @@ status: "new"
 > Die Regisseurin gewinnt einen Preis.
 > *The director wins a prize.*
 
+**Phrases & Expressions:**
+- **Die Regisseurin gewinnt einen Preis** — *The director wins a prize* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg)
 <!-- bank:end -->
 

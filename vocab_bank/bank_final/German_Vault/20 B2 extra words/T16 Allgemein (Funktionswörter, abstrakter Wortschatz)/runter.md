@@ -29,6 +29,11 @@ status: "new"
 > Komm bitte runter, das Essen ist fertig!
 > *Please come down; the meal is ready!*
 
+**Phrases & Expressions:**
+- **runter vom Sofa** — *down; downwards*
+- **die Treppe runter** — *down; downwards*
+- **runterkommen** — *down; downwards*
+
 **Collocations**
 - runter vom Sofa
 - die Treppe runter

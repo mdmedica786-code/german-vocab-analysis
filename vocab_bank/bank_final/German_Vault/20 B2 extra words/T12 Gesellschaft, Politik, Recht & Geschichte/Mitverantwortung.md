@@ -33,6 +33,11 @@ status: "new"
 > Alle Beteiligten tragen Mitverantwortung für den Schaden.
 > *All parties involved bear shared responsibility for the damage.*
 
+**Phrases & Expressions:**
+- **Mitverantwortung tragen** — *shared responsibility*
+- **Mitverantwortung übernehmen** — *shared responsibility*
+- **die Mitverantwortung ablehnen** — *shared responsibility*
+
 **Collocations**
 - Mitverantwortung tragen
 - Mitverantwortung übernehmen

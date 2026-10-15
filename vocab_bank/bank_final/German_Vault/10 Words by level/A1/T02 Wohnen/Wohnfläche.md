@@ -34,6 +34,9 @@ status: "new"
 > Die Wohnfläche beträgt 65 Quadratmeter.
 > *The living area is 65 square metres.*
 
+**Phrases & Expressions:**
+- **Die Wohnfläche beträgt 65 Quadratmeter** — *The living area is 65 square metres* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3c (Meine Wohnung)
 <!-- bank:end -->
 

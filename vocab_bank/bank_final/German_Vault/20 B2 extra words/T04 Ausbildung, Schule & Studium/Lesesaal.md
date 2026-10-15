@@ -33,6 +33,11 @@ status: "new"
 > Im Lesesaal der Bibliothek ist Ruhe Pflicht.
 > *Silence is required in the library's reading room.*
 
+**Phrases & Expressions:**
+- **im Lesesaal arbeiten** — *reading room*
+- **der Lesesaal ist geöffnet** — *reading room*
+- **Platz im Lesesaal** — *reading room*
+
 **Collocations**
 - im Lesesaal arbeiten
 - der Lesesaal ist geöffnet

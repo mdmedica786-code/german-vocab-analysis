@@ -31,6 +31,9 @@ status: "new"
 > Die Bank hat am Samstag geschlossen.
 > *The bank is closed on Saturday.*
 
+**Phrases & Expressions:**
+- **Die Bank hat am Samstag geschlossen** — *The bank is closed on Saturday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 11b ÜB (Die Jacke gefällt mir!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Im August fahren wir in den Urlaub.
 > *In August we are going on holiday.*
 
+**Phrases & Expressions:**
+- **Im August fahren wir in den Urlaub** — *In August we are going on holiday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

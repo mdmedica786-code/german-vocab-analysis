@@ -32,6 +32,14 @@ status: "new"
 > Ich werde die Erkältung einfach nicht los.
 > *I just cannot get rid of this cold.*
 
+**Phrases & Expressions:**
+- **was ist los** — what's the matter? *([[Probleme - Beschwerden beschreiben (problem, symptom, complaint)|Probleme / Beschwerden beschreiben (problem, symptom, complaint)]] · A2)*
+- **was ist denn los?** — what on earth is the matter? *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A2)*
+- **wird deutlich, dass ...** — it becomes clear that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **wird in der Regel ...** — is usually ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **es wird davon ausgegangen, dass ...** — it is assumed that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+- **mir wurde klar, dass ...** — it became clear to me that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+
 **Collocations**
 - etwas loswerden
 - jemanden loswerden

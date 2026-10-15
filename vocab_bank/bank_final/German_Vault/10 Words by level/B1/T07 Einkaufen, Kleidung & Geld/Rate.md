@@ -34,6 +34,10 @@ status: "new"
 > Ich zahle das Auto in zwölf Raten.
 > *I am paying for the car in twelve instalments.*
 
+**Phrases & Expressions:**
+- **Ich würde dir raten, ... zu ...** — I would advise you to ... *([[B1-05 Vorschläge machen und darauf reagieren|Rat geben]] · B1)*
+- **Ich rate Ihnen, Alkohol nur in Maßen zu trinken.** — I advise you to drink alcohol only in moderation. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Alkohol beraten]] · B2)*
+
 **Source:** Netzwerk neu B1 K12 3a (Geld regiert die Welt?)
 <!-- bank:end -->
 

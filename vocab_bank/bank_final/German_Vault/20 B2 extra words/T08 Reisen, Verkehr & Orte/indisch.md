@@ -29,6 +29,11 @@ status: "new"
 > Wir essen gern indisches Essen.
 > *We like eating Indian food.*
 
+**Phrases & Expressions:**
+- **indisches Essen** — *Indian*
+- **ein indisches Restaurant** — *Indian*
+- **die indische Küche** — *Indian*
+
 **Collocations**
 - indisches Essen
 - ein indisches Restaurant

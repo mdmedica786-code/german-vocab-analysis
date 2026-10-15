@@ -34,6 +34,9 @@ status: "new"
 > Die Menschen protestieren gegen das Kraftwerk.
 > *The people are protesting against the power plant.*
 
+**Phrases & Expressions:**
+- **Die Menschen protestieren gegen das Kraftwerk** — *The people are protesting against the power plant* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

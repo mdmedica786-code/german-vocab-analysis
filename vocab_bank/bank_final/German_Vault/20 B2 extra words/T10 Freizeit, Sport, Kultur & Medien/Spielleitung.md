@@ -33,6 +33,11 @@ status: "new"
 > Die Spielleitung erklärt vor dem Start die Regeln.
 > *The game master explains the rules before the start.*
 
+**Phrases & Expressions:**
+- **die Spielleitung übernehmen** — *game management; refereeing; game master*
+- **unter der Spielleitung von** — *game management; refereeing; game master*
+- **die Spielleitung haben** — *game management; refereeing; game master*
+
 **Collocations**
 - die Spielleitung übernehmen
 - unter der Spielleitung von

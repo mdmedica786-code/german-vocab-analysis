@@ -32,6 +32,11 @@ status: "new"
 > Er protzt gern mit seinem neuen Auto.
 > *He likes to show off his new car.*
 
+**Phrases & Expressions:**
+- **mit etwas protzen** — *to show off*
+- **mit Geld protzen** — *to show off*
+- **gern protzen** — *to show off*
+
 **Collocations**
 - mit etwas protzen
 - mit Geld protzen

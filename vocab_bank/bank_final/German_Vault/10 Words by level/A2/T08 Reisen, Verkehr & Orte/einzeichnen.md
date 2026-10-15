@@ -33,6 +33,9 @@ status: "new"
 > Zeichnen Sie bitte den Weg auf der Karte ein.
 > *Please mark the route on the map.*
 
+**Phrases & Expressions:**
+- **Es zeichnet sich ein Trend zu ... ab.** — A trend towards ... is emerging. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Trend beschreiben]] · B2)*
+
 **Source:** Netzwerk neu A2 K7 8e (Ganz schön mobil)
 <!-- bank:end -->
 

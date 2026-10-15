@@ -35,6 +35,9 @@ status: "new"
 > Ich spiele Klavier. Spielen Sie auch ein Instrument?
 > *I play the piano. Do you play an instrument too?*
 
+**Phrases & Expressions:**
+- **Ich spiele Klavier. Spielen Sie auch ein Instrument** — *I play the piano. Do you play an instrument too* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

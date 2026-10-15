@@ -33,6 +33,9 @@ status: "new"
 > Pass auf, dass dich der Hund nicht beißt!
 > *Be careful that the dog does not bite you!*
 
+**Phrases & Expressions:**
+- **Pass auf, dass dich der Hund nicht beißt** — *Be careful that the dog does not bite you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12b (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

@@ -32,6 +32,11 @@ status: "new"
 > Sie beharrt auf ihrer Meinung.
 > *She insists on her opinion.*
 
+**Phrases & Expressions:**
+- **auf etwas beharren** — *to insist; to persist*
+- **stur beharren** — *to insist; to persist*
+- **auf einem Standpunkt beharren** — *to insist; to persist*
+
 **Collocations**
 - auf etwas beharren
 - stur beharren

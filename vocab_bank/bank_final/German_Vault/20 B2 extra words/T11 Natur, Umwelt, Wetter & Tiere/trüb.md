@@ -29,6 +29,11 @@ status: "new"
 > Das Wasser im See war trüb.
 > *The water in the lake was murky.*
 
+**Phrases & Expressions:**
+- **trübes Wasser** — *cloudy; murky; gloomy*
+- **ein trüber Tag** — *cloudy; murky; gloomy*
+- **trübe Stimmung** — *cloudy; murky; gloomy*
+
 **Collocations**
 - trübes Wasser
 - ein trüber Tag

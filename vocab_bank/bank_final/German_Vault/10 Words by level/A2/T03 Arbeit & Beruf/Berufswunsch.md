@@ -34,6 +34,9 @@ status: "new"
 > Mein Berufswunsch war immer Ärztin.
 > *My career goal has always been to be a doctor.*
 
+**Phrases & Expressions:**
+- **Mein Berufswunsch war immer Ärztin** — *My career goal has always been to be a doctor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 8c (Arbeitswelten)
 <!-- bank:end -->
 

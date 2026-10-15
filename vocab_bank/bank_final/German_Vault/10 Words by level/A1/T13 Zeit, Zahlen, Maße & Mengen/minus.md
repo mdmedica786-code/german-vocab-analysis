@@ -32,6 +32,9 @@ status: "new"
 > Zehn minus drei ist sieben.
 > *Ten minus three is seven.*
 
+**Phrases & Expressions:**
+- **Zehn minus drei ist sieben** — *Ten minus three is seven* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 7b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

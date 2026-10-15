@@ -32,6 +32,9 @@ status: "new"
 > Dieser Platz ist besetzt.
 > *This seat is taken.*
 
+**Phrases & Expressions:**
+- **Dieser Platz ist besetzt** — *This seat is taken* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

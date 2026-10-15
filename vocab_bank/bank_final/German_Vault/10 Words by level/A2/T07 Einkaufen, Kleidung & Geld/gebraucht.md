@@ -30,6 +30,12 @@ status: "new"
 > Wir haben ein gebrauchtes Auto gekauft.
 > *We bought a used car.*
 
+**Phrases & Expressions:**
+- **gebrauchtes Auto** — *used*
+- **gebraucht kaufen** — *used*
+- **gebrauchte Möbel** — *used*
+- **gut gebraucht** — *used*
+
 **Collocations**
 - gebrauchtes Auto
 - gebraucht kaufen

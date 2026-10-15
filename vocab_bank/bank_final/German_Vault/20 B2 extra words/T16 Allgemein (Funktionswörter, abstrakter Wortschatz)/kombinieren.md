@@ -31,6 +31,11 @@ status: "new"
 > Sie kombiniert Beruf und Familie sehr gut.
 > *She combines career and family very well.*
 
+**Phrases & Expressions:**
+- **Arbeit und Familie kombinieren** — *to combine; to deduce*
+- **Farben kombinieren** — *to combine; to deduce*
+- **gut kombinierbar** — *to combine; to deduce*
+
 **Collocations**
 - Arbeit und Familie kombinieren
 - Farben kombinieren

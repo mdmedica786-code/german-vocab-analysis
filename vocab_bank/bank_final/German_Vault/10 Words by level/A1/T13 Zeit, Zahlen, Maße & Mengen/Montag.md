@@ -35,6 +35,9 @@ status: "new"
 > Am Montag beginnt die Arbeitswoche.
 > *The working week starts on Monday.*
 
+**Phrases & Expressions:**
+- **Am Montag beginnt die Arbeitswoche** — *The working week starts on Monday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 4a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

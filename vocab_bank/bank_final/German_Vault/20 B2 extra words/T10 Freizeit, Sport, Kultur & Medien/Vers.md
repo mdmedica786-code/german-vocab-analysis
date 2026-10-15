@@ -33,6 +33,11 @@ status: "new"
 > Er las einen Vers aus dem Gedicht vor.
 > *He read out a verse from the poem.*
 
+**Phrases & Expressions:**
+- **in Versen** — *verse; line of poetry*
+- **einen Vers lesen** — *verse; line of poetry*
+- **sich keinen Vers auf etwas machen können** — *verse; line of poetry*
+
 **Collocations**
 - in Versen
 - einen Vers lesen

@@ -26,6 +26,10 @@ status: "new"
 > Der Chef setzt seine Mitarbeiter ständig unter Druck.
 > *The boss constantly puts his employees under pressure.*
 
+**Phrases & Expressions:**
+- **jemanden unter Druck setzen** — *to put under pressure*
+- **sich unter Druck setzen** — *to put under pressure*
+
 **Collocations**
 - jemanden unter Druck setzen
 - sich unter Druck setzen

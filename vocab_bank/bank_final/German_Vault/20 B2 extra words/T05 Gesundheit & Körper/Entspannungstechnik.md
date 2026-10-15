@@ -33,6 +33,11 @@ status: "new"
 > Sie lernt eine Entspannungstechnik gegen Stress.
 > *She is learning a relaxation technique against stress.*
 
+**Phrases & Expressions:**
+- **eine Entspannungstechnik lernen** — *relaxation technique*
+- **Entspannungstechniken anwenden** — *relaxation technique*
+- **eine einfache Entspannungstechnik** — *relaxation technique*
+
 **Collocations**
 - eine Entspannungstechnik lernen
 - Entspannungstechniken anwenden

@@ -33,6 +33,11 @@ status: "new"
 > Für das Wochenende ist ein Kälteeinbruch angekündigt.
 > *A sudden cold spell is forecast for the weekend.*
 
+**Phrases & Expressions:**
+- **ein Kälteeinbruch kommt** — *sudden cold spell*
+- **plötzlicher Kälteeinbruch** — *sudden cold spell*
+- **Kälteeinbruch im Mai** — *sudden cold spell*
+
 **Collocations**
 - ein Kälteeinbruch kommt
 - plötzlicher Kälteeinbruch

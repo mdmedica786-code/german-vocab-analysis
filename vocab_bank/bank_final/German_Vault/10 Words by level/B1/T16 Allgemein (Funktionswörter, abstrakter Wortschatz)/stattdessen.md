@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Ich nehme keinen Kaffee, stattdessen trinke ich Tee.
 > *I'm not having coffee; instead I'll drink tea.*
+
+**Phrases & Expressions:**
+- **Wie wäre es stattdessen mit ...?** — How about ... instead? *([[B1-02 Zustimmen und Widersprechen|Gegenvorschlag einleiten]] · B1)*
 <!-- bank:end -->
 
 ## My notes

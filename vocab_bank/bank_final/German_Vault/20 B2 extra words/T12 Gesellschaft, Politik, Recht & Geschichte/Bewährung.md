@@ -33,6 +33,11 @@ status: "new"
 > Die Strafe wurde zur Bewährung ausgesetzt.
 > *The sentence was suspended on probation.*
 
+**Phrases & Expressions:**
+- **auf Bewährung** — *probation*
+- **zur Bewährung aussetzen** — *probation*
+- **Bewährungsstrafe** — *probation*
+
 **Collocations**
 - auf Bewährung
 - zur Bewährung aussetzen

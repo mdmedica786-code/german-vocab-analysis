@@ -33,6 +33,11 @@ status: "new"
 > Gegen den Mann wurde Anklage wegen Betrugs erhoben.
 > *The man has been charged with fraud.*
 
+**Phrases & Expressions:**
+- **Anklage erheben** — *charge; indictment*
+- **unter Anklage stehen** — *charge; indictment*
+- **die Anklage lautet auf** — *charge; indictment*
+
 **Collocations**
 - Anklage erheben
 - unter Anklage stehen

@@ -31,6 +31,9 @@ status: "new"
 > Im Stadtprogramm stehen viele Veranstaltungen.
 > *The city programme lists many events.*
 
+**Phrases & Expressions:**
+- **Im Stadtprogramm stehen viele Veranstaltungen** — *The city programme lists many events* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 5a (Arbeitswelten)
 <!-- bank:end -->
 

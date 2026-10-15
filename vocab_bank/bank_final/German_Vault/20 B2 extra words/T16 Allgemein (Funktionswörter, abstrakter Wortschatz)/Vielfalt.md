@@ -33,6 +33,11 @@ status: "new"
 > Die Vielfalt der Kulturen ist beeindruckend.
 > *The diversity of cultures is impressive.*
 
+**Phrases & Expressions:**
+- **kulturelle Vielfalt** — *diversity; variety*
+- **Vielfalt bieten** — *diversity; variety*
+- **in seiner Vielfalt** — *diversity; variety*
+
 **Collocations**
 - kulturelle Vielfalt
 - Vielfalt bieten

@@ -35,6 +35,9 @@ status: "new"
 > Die Touristin fragt nach dem Weg zum Dom.
 > *The tourist asks for directions to the cathedral.*
 
+**Phrases & Expressions:**
+- **Die Touristin fragt nach dem Weg zum Dom** — *The tourist asks for directions to the cathedral* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8b (Leben in der Stadt) · Goethe word list A2
 <!-- bank:end -->
 

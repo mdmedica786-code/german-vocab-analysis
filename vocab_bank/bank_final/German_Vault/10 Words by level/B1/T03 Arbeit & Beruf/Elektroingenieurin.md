@@ -34,6 +34,9 @@ status: "new"
 > Die Elektroingenieurin arbeitet bei einem Autohersteller.
 > *The electrical engineer works at a car manufacturer.*
 
+**Phrases & Expressions:**
+- **Die Elektroingenieurin arbeitet bei einem Autohersteller** — *The electrical engineer works at a car manufacturer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

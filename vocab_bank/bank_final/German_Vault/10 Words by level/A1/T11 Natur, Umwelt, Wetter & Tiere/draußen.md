@@ -31,6 +31,9 @@ status: "new"
 > Wollen wir draußen sitzen?
 > *Shall we sit outside?*
 
+**Phrases & Expressions:**
+- **nach draußen** — outside; to the outside *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

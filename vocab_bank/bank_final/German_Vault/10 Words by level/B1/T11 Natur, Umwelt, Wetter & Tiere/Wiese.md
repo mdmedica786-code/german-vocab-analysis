@@ -35,6 +35,9 @@ status: "new"
 > Vor unserem Haus ist eine Wiese mit Bäumen.
 > *In front of our house there is a meadow with trees.*
 
+**Phrases & Expressions:**
+- **Vor unserem Haus ist eine Wiese mit Bäumen** — *In front of our house there is a meadow with trees* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 9a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

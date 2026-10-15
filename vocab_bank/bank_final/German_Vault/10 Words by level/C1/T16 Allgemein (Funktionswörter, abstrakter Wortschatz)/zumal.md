@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Ich gehe heute nicht aus, zumal es regnet.
 > *I am not going out today, especially since it is raining.*
+
+**Phrases & Expressions:**
+- **Ich gehe heute nicht aus, zumal es regnet** — *I am not going out today, especially since it is raining* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

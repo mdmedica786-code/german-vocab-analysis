@@ -34,6 +34,9 @@ status: "new"
 > Im Krankenhaus trage ich ein Nachthemd.
 > *In hospital I wear a nightgown.*
 
+**Phrases & Expressions:**
+- **Im Krankenhaus trage ich ein Nachthemd** — *In hospital I wear a nightgown* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

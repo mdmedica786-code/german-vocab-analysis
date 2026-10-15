@@ -35,6 +35,9 @@ status: "new"
 > Liebe Zuschauer, wir wünschen Ihnen gute Unterhaltung.
 > *Dear viewers, we wish you good entertainment.*
 
+**Phrases & Expressions:**
+- **Liebe Zuschauer, wir wünschen Ihnen gute Unterhaltung** — *Dear viewers, we wish you good entertainment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 13a (Studium und Beruf) · Goethe word list B1
 <!-- bank:end -->
 

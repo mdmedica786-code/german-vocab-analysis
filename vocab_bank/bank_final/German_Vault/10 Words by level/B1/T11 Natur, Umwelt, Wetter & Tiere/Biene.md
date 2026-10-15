@@ -35,6 +35,9 @@ status: "new"
 > Die Biene sammelt Nektar.
 > *The bee collects nectar.*
 
+**Phrases & Expressions:**
+- **Die Biene sammelt Nektar** — *The bee collects nectar* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 10d (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

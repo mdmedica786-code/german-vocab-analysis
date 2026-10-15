@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Morgen ist der Wettkampf im Schwimmen.
 > *Tomorrow is the swimming competition.*
+
+**Phrases & Expressions:**
+- **Morgen ist der Wettkampf im Schwimmen** — *Tomorrow is the swimming competition* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

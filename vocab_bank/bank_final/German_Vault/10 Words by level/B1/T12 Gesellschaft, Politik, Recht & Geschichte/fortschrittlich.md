@@ -30,6 +30,9 @@ status: "new"
 > Die Firma ist sehr fortschrittlich.
 > *The company is very progressive.*
 
+**Phrases & Expressions:**
+- **Die Firma ist sehr fortschrittlich** — *The company is very progressive* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Kann ich das auf deinem Drucker ausdrucken?
 > *Can I print that on your printer?*
 
+**Phrases & Expressions:**
+- **Kann ich das auf deinem Drucker ausdrucken** — *Can I print that on your printer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 6c (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

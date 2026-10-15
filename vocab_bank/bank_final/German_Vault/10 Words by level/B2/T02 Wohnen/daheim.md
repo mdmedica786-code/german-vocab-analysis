@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Ich bin heute den ganzen Tag daheim.
 > *I am at home all day today.*
+
+**Phrases & Expressions:**
+- **Ich bin heute den ganzen Tag daheim** — *I am at home all day today* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

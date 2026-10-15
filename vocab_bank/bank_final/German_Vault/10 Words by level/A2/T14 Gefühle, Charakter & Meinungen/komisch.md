@@ -31,6 +31,9 @@ status: "new"
 > Der Film war sehr komisch. Wir haben viel gelacht.
 > *The film was very funny. We laughed a lot.*
 
+**Phrases & Expressions:**
+- **Der Film war sehr komisch. Wir haben viel gelacht** — *The film was very funny. We laughed a lot* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7c (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

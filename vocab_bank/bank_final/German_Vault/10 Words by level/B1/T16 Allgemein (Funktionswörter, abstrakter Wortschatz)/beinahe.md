@@ -31,6 +31,13 @@ status: "new"
 > Ich habe heute beinahe den Bus verpasst.
 > *I almost missed the bus today.*
 
+**Phrases & Expressions:**
+- **Beinahe wäre es zu einer Verwechslung gekommen.** — It almost came to a mix-up. *([[FSP-19 Übergabe, Konsil und Rücksprache|Beinahe-Ereignis melden]] · C1)*
+- **beinahe passieren** — *almost*
+- **beinahe verpassen** — *almost*
+- **beinahe vergessen** — *almost*
+- **beinahe immer** — *almost*
+
 **Collocations**
 - beinahe passieren
 - beinahe verpassen

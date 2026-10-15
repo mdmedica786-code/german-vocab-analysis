@@ -30,6 +30,11 @@ status: "new"
 > Warme Milch ist für viele eine bewährte Einschlafhilfe.
 > *For many people warm milk is a proven help for falling asleep.*
 
+**Phrases & Expressions:**
+- **eine Einschlafhilfe nehmen** — *sleep aid; help for falling asleep*
+- **eine natürliche Einschlafhilfe** — *sleep aid; help for falling asleep*
+- **als Einschlafhilfe dienen** — *sleep aid; help for falling asleep*
+
 **Collocations**
 - eine Einschlafhilfe nehmen
 - eine natürliche Einschlafhilfe

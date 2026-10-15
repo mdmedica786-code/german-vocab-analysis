@@ -27,6 +27,9 @@ status: "new"
 > Wir treffen uns am Montag, d.h. in zwei Tagen.
 > *We'll meet on Monday, i.e. in two days.*
 
+**Phrases & Expressions:**
+- **Wir treffen uns am Montag, d.h. in zwei Tagen** — *We'll meet on Monday, i.e. in two days* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 11a (Ganz schön mobil)
 <!-- bank:end -->
 

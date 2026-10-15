@@ -35,6 +35,9 @@ status: "new"
 > Die Bewohnerin im dritten Stock ist sehr freundlich.
 > *The resident on the third floor is very friendly.*
 
+**Phrases & Expressions:**
+- **Die Bewohnerin im dritten Stock ist sehr freundlich** — *The resident on the third floor is very friendly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 10b (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

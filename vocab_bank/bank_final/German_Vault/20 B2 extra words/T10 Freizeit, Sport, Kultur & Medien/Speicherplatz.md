@@ -33,6 +33,11 @@ status: "new"
 > Für die Fotos brauche ich mehr Speicherplatz.
 > *I need more storage space for the photos.*
 
+**Phrases & Expressions:**
+- **Speicherplatz freigeben** — *storage space*
+- **wenig Speicherplatz** — *storage space*
+- **zusätzlichen Speicherplatz kaufen** — *storage space*
+
 **Collocations**
 - Speicherplatz freigeben
 - wenig Speicherplatz

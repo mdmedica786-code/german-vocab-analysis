@@ -34,6 +34,9 @@ status: "new"
 > Die Zoodirektorin leitet den Tierpark seit zehn Jahren.
 > *The zoo director has run the zoo for ten years.*
 
+**Phrases & Expressions:**
+- **Die Zoodirektorin leitet den Tierpark seit zehn Jahren** — *The zoo director has run the zoo for ten years* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

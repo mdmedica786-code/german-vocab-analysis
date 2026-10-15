@@ -34,6 +34,9 @@ status: "new"
 > Der Log-in funktioniert nicht.
 > *The log-in does not work.*
 
+**Phrases & Expressions:**
+- **Der Log-in funktioniert nicht** — *The log-in does not work* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 5a (Geld regiert die Welt?)
 <!-- bank:end -->
 

@@ -32,6 +32,11 @@ status: "new"
 > Das erspart uns viel Zeit.
 > *That saves us a lot of time.*
 
+**Phrases & Expressions:**
+- **jemandem etwas ersparen** — *to spare; to save (someone something)*
+- **sich etwas ersparen** — *to spare; to save (someone something)*
+- **Zeit ersparen** — *to spare; to save (someone something)*
+
 **Collocations**
 - jemandem etwas ersparen
 - sich etwas ersparen

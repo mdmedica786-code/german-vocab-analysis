@@ -33,6 +33,11 @@ status: "new"
 > Er hielt nach einem freien Parkplatz Ausschau.
 > *He kept a lookout for a free parking space.*
 
+**Phrases & Expressions:**
+- **Ausschau halten nach** — *lookout (only in "Ausschau halten nach")*
+- **nach jemandem Ausschau halten** — *lookout (only in "Ausschau halten nach")*
+- **Ausschau halten** — *lookout (only in "Ausschau halten nach")*
+
 **Collocations**
 - Ausschau halten nach
 - nach jemandem Ausschau halten

@@ -33,6 +33,11 @@ status: "new"
 > Der Herrscher regierte das Land fünfzig Jahre.
 > *The ruler governed the country for fifty years.*
 
+**Phrases & Expressions:**
+- **ein absoluter Herrscher** — *ruler*
+- **der Herrscher des Landes** — *ruler*
+- **Herrscher und Untertanen** — *ruler*
+
 **Collocations**
 - ein absoluter Herrscher
 - der Herrscher des Landes

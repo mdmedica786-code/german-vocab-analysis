@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Für den Salat nehme ich Olivenöl.
 > *I use olive oil for the salad.*
+
+**Phrases & Expressions:**
+- **Für den Salat nehme ich Olivenöl** — *I use olive oil for the salad* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

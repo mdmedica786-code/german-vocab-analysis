@@ -29,6 +29,10 @@ status: "new"
 > Für diese Stelle kommen nur erfahrene Bewerber in Frage.
 > *Only experienced applicants come into question for this position.*
 
+**Phrases & Expressions:**
+- **nicht in Frage kommen** — *to be an option; to come into question*
+- **als Lösung in Frage kommen** — *to be an option; to come into question*
+
 **Collocations**
 - nicht in Frage kommen
 - als Lösung in Frage kommen

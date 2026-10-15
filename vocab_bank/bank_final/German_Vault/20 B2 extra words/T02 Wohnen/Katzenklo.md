@@ -33,6 +33,11 @@ status: "new"
 > Das Katzenklo steht im Badezimmer.
 > *The cat litter tray is in the bathroom.*
 
+**Phrases & Expressions:**
+- **das Katzenklo reinigen** — *cat litter tray; cat toilet*
+- **ein Katzenklo kaufen** — *cat litter tray; cat toilet*
+- **das Katzenklo säubern** — *cat litter tray; cat toilet*
+
 **Collocations**
 - das Katzenklo reinigen
 - ein Katzenklo kaufen

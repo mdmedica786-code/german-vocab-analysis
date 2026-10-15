@@ -29,6 +29,12 @@ status: "new"
 > Wir erhielten eine prompte Antwort.
 > *We received a prompt answer.*
 
+**Phrases & Expressions:**
+- **Die Pupillen sind isokor und reagieren prompt auf Licht.** — The pupils are isocoric and react promptly to light. *([[FSP-08 Befunde beschreiben und berichten|Neurologischer Kurzstatus]] · C1)*
+- **prompt antworten** — *prompt; immediate*
+- **eine prompte Lieferung** — *prompt; immediate*
+- **prompt reagieren** — *prompt; immediate*
+
 **Collocations**
 - prompt antworten
 - eine prompte Lieferung

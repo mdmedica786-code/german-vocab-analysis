@@ -32,6 +32,9 @@ status: "new"
 > Wir haben gewettet, dass sie wieder zu spät kommt.
 > *We bet that she will be late again.*
 
+**Phrases & Expressions:**
+- **Wir haben gewettet, dass sie wieder zu spät kommt** — *We bet that she will be late again* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

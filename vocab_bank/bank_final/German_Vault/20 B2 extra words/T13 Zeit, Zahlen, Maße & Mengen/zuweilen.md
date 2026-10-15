@@ -29,6 +29,11 @@ status: "new"
 > Das Wetter ist hier zuweilen sehr launisch.
 > *The weather here is at times very moody.*
 
+**Phrases & Expressions:**
+- **zuweilen vorkommen** — *at times; now and then*
+- **zuweilen schwierig** — *at times; now and then*
+- **zuweilen stark** — *at times; now and then*
+
 **Collocations**
 - zuweilen vorkommen
 - zuweilen schwierig

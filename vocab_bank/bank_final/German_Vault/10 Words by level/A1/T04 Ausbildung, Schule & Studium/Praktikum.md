@@ -35,6 +35,9 @@ status: "new"
 > Ich mache ein Praktikum bei Siemens.
 > *I'm doing an internship at Siemens.*
 
+**Phrases & Expressions:**
+- **Ich mache ein Praktikum bei Siemens** — *I'm doing an internship at Siemens* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 2a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

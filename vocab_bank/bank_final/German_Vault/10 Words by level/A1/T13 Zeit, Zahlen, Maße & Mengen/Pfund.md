@@ -34,6 +34,9 @@ status: "new"
 > Ich brauche ein Pfund Mehl.
 > *I need a pound of flour.*
 
+**Phrases & Expressions:**
+- **Ich brauche ein Pfund Mehl** — *I need a pound of flour* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

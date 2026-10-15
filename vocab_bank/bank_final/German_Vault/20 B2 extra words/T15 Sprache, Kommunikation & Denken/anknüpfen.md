@@ -32,6 +32,11 @@ status: "new"
 > Ich möchte an Ihren letzten Punkt anknüpfen.
 > *I would like to follow on from your last point.*
 
+**Phrases & Expressions:**
+- **an etwas anknüpfen** — *to link up; to build on*
+- **ein Gespräch anknüpfen** — *to link up; to build on*
+- **Kontakte anknüpfen** — *to link up; to build on*
+
 **Collocations**
 - an etwas anknüpfen
 - ein Gespräch anknüpfen

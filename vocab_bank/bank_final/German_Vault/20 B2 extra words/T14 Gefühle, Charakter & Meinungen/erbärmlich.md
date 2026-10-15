@@ -29,6 +29,11 @@ status: "new"
 > Die Zustände in dem Heim waren erbärmlich.
 > *The conditions in the home were wretched.*
 
+**Phrases & Expressions:**
+- **erbärmliche Zustände** — *pathetic; wretched*
+- **erbärmlich frieren** — *pathetic; wretched*
+- **ein erbärmlicher Anblick** — *pathetic; wretched*
+
 **Collocations**
 - erbärmliche Zustände
 - erbärmlich frieren

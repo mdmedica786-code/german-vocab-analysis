@@ -29,6 +29,11 @@ status: "new"
 > Die Katze schlich lautlos durch das Zimmer.
 > *The cat crept silently through the room.*
 
+**Phrases & Expressions:**
+- **lautlos schleichen** — *silent; noiseless*
+- **sich lautlos bewegen** — *silent; noiseless*
+- **lautlos davongehen** — *silent; noiseless*
+
 **Collocations**
 - lautlos schleichen
 - sich lautlos bewegen

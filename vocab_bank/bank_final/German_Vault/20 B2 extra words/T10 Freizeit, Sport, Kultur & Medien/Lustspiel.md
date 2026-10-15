@@ -33,6 +33,11 @@ status: "new"
 > Im Theater läuft derzeit ein heiteres Lustspiel.
 > *A cheerful comedy is currently running at the theatre.*
 
+**Phrases & Expressions:**
+- **ein Lustspiel aufführen** — *comedy (play)*
+- **ein beliebtes Lustspiel** — *comedy (play)*
+- **ein Lustspiel von Lessing** — *comedy (play)*
+
 **Collocations**
 - ein Lustspiel aufführen
 - ein beliebtes Lustspiel

@@ -33,6 +33,11 @@ status: "new"
 > Die Regierung soll das Gemeinwohl im Blick behalten.
 > *The government should keep the common good in view.*
 
+**Phrases & Expressions:**
+- **dem Gemeinwohl dienen** — *common good; public interest*
+- **dem Gemeinwohl verpflichtet sein** — *common good; public interest*
+- **das Gemeinwohl fördern** — *common good; public interest*
+
 **Collocations**
 - dem Gemeinwohl dienen
 - dem Gemeinwohl verpflichtet sein

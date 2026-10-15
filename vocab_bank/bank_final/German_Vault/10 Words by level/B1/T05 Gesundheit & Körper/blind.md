@@ -31,6 +31,9 @@ status: "new"
 > Er ist von Geburt an blind.
 > *He has been blind since birth.*
 
+**Phrases & Expressions:**
+- **Er ist von Geburt an blind** — *He has been blind since birth* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Verzeihung, wo finde ich den Bahnhof?
 > *Excuse me, where can I find the station?*
 
+**Phrases & Expressions:**
+- **Verzeihung, wo finde ich den Bahnhof** — *Excuse me, where can I find the station* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 3c (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

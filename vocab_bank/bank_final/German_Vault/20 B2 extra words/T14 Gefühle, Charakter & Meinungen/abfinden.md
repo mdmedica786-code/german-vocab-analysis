@@ -32,6 +32,14 @@ status: "new"
 > Er hat sich mit der Niederlage abgefunden.
 > *He has come to terms with the defeat.*
 
+**Phrases & Expressions:**
+- **ab und zu** — now and then *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **Das hängt davon ab, ob ...** — That depends on whether ... *([[B1-04 Vor- und Nachteile nennen|Abwägen]] · B1)*
+- **Ich fand besonders gut, dass ...** — I particularly liked that ... *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Positives Feedback geben]] · B1)*
+- **Wo genau findet die Feier statt?** — Where exactly is the party taking place? *([[B1-18 Einladen, zusagen und absagen|Rückfrage stellen]] · B1)*
+- **Ich lehne das ab, weil ...** — I reject that because ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Position beziehen]] · B2)*
+- **Es zeichnet sich ein Trend zu ... ab.** — A trend towards ... is emerging. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Trend beschreiben]] · B2)*
+
 **Collocations**
 - sich mit etwas abfinden
 - sich damit abfinden, dass

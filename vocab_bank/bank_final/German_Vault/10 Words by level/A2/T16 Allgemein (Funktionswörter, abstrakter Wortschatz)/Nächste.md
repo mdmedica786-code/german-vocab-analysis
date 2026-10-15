@@ -35,6 +35,14 @@ status: "new"
 > Der Nächste, bitte!
 > *Next, please!*
 
+**Phrases & Expressions:**
+- **in den nächsten Tagen** — in the next few days *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **am nächsten Morgen** — the next morning *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **am nächsten Tag** — the next day *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **das nächste Mal** — the next time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **in den nächsten Jahren** — in the next few years *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Damit komme ich zum nächsten Punkt: ...** — This brings me to the next point: ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Übergang gestalten]] · B1)*
+
 **Source:** Netzwerk neu A2 K5 6d (Leben in der Stadt)
 <!-- bank:end -->
 

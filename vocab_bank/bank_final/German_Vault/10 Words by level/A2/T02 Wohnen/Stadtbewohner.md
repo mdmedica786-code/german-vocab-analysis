@@ -34,6 +34,9 @@ status: "new"
 > Viele Stadtbewohner fahren am Wochenende aufs Land.
 > *Many city dwellers go to the countryside at the weekend.*
 
+**Phrases & Expressions:**
+- **Viele Stadtbewohner fahren am Wochenende aufs Land** — *Many city dwellers go to the countryside at the weekend* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil)
 <!-- bank:end -->
 

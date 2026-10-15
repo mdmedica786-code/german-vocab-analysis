@@ -30,6 +30,9 @@ status: "new"
 > Wir essen heute österreichische Küche.
 > *Today we are eating Austrian cuisine.*
 
+**Phrases & Expressions:**
+- **Wir essen heute österreichische Küche** — *Today we are eating Austrian cuisine* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

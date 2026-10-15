@@ -33,6 +33,11 @@ status: "new"
 > Die Erfassung der Daten ist abgeschlossen.
 > *The recording of the data is complete.*
 
+**Phrases & Expressions:**
+- **die Erfassung von Daten** — *recording; registration*
+- **statistische Erfassung** — *recording; registration*
+- **zur Erfassung** — *recording; registration*
+
 **Collocations**
 - die Erfassung von Daten
 - statistische Erfassung

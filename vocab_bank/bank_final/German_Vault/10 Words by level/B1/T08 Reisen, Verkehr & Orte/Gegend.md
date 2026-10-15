@@ -35,6 +35,9 @@ status: "new"
 > Der Schwarzwald ist eine sehr schöne Gegend.
 > *The Black Forest is a very beautiful area.*
 
+**Phrases & Expressions:**
+- **Die Gegend ist ruhig und grün.** — The area is quiet and green. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ort beschreiben]] · B1)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

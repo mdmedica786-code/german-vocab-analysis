@@ -31,6 +31,10 @@ status: "new"
 > Die Prüfer bemängelten die schlechte Vorbereitung.
 > *The examiners criticised the poor preparation.*
 
+**Phrases & Expressions:**
+- **etwas bemängeln** — *to find fault with; to criticise*
+- **Missstände bemängeln** — *to find fault with; to criticise*
+
 **Collocations**
 - etwas bemängeln
 - Missstände bemängeln

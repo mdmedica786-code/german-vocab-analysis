@@ -33,6 +33,12 @@ status: "new"
 > Die Luft enthält zu viele Schadstoffe.
 > *The air contains too many pollutants.*
 
+**Phrases & Expressions:**
+- **Sind Sie am Arbeitsplatz Schadstoffen oder Staub ausgesetzt?** — Are you exposed to harmful substances or dust at work? *([[FSP-05 Familien- und Sozialanamnese|Umweltbelastung erfragen]] · B2)*
+- **Schadstoffe ausstoßen** — *pollutant; harmful substance*
+- **Schadstoffe filtern** — *pollutant; harmful substance*
+- **giftige Schadstoffe** — *pollutant; harmful substance*
+
 **Collocations**
 - Schadstoffe ausstoßen
 - Schadstoffe filtern

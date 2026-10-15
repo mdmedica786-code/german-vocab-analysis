@@ -35,6 +35,9 @@ status: "new"
 > Die Geschäfte schließen um 18.30 Uhr.
 > *The shops close at 6.30 p.m.*
 
+**Phrases & Expressions:**
+- **Im Zentrum gibt es viele Geschäfte und Cafés.** — In the centre there are many shops and cafés. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ort beschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K4 2c (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

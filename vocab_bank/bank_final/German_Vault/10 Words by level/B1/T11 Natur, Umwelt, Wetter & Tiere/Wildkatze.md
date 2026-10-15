@@ -31,6 +31,9 @@ status: "new"
 > Die Wildkatze lebt im Wald.
 > *The wildcat lives in the forest.*
 
+**Phrases & Expressions:**
+- **Die Wildkatze lebt im Wald** — *The wildcat lives in the forest* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?)
 <!-- bank:end -->
 

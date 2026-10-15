@@ -29,6 +29,11 @@ status: "new"
 > Der Spender wollte namenlos bleiben.
 > *The donor wanted to remain anonymous.*
 
+**Phrases & Expressions:**
+- **namenlos bleiben** — *nameless; anonymous*
+- **ein namenloser Held** — *nameless; anonymous*
+- **eine namenlose Spenderin** — *nameless; anonymous*
+
 **Collocations**
 - namenlos bleiben
 - ein namenloser Held

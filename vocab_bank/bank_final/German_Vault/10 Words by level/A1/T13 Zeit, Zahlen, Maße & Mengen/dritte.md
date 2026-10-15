@@ -30,6 +30,9 @@ status: "new"
 > Mein Büro ist im dritten Stock.
 > *My office is on the third floor.*
 
+**Phrases & Expressions:**
+- **Mein Büro ist im dritten Stock** — *My office is on the third floor* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

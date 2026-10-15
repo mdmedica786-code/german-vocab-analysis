@@ -33,6 +33,11 @@ status: "new"
 > Das Christentum prägte die europäische Geschichte.
 > *Christianity shaped European history.*
 
+**Phrases & Expressions:**
+- **das Christentum annehmen** — *Christianity*
+- **die Geschichte des Christentums** — *Christianity*
+- **Christentum und Islam** — *Christianity*
+
 **Collocations**
 - das Christentum annehmen
 - die Geschichte des Christentums

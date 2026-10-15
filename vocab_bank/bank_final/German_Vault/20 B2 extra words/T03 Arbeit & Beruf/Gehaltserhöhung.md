@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Gespräch bekam er eine Gehaltserhöhung.
 > *After the conversation he got a pay rise.*
 
+**Phrases & Expressions:**
+- **um eine Gehaltserhöhung bitten** — *pay rise (salary)*
+- **Gehaltserhöhung bekommen** — *pay rise (salary)*
+- **Gehaltserhöhung verhandeln** — *pay rise (salary)*
+
 **Collocations**
 - um eine Gehaltserhöhung bitten
 - Gehaltserhöhung bekommen

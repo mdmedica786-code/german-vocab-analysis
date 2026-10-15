@@ -30,6 +30,9 @@ status: "new"
 > Soviel ich weiß, hat dieses Restaurant heute Ruhetag.
 > *As far as I know, this restaurant is closed today.*
 
+**Phrases & Expressions:**
+- **Soviel ich weiß, ...** — As far as I know, ... *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Annahme überprüfen]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

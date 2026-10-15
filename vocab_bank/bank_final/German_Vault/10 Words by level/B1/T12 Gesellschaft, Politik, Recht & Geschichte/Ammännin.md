@@ -39,6 +39,9 @@ status: "new"
 > Die Ammännin leitet die Gemeinde.
 > *The Ammännin heads the municipality.*
 
+**Phrases & Expressions:**
+- **Die Ammännin leitet die Gemeinde** — *The Ammännin heads the municipality* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

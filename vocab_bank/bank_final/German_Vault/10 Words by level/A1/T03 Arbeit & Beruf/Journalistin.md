@@ -35,6 +35,9 @@ status: "new"
 > Meine Tochter möchte Journalistin werden.
 > *My daughter would like to become a journalist.*
 
+**Phrases & Expressions:**
+- **Meine Tochter möchte Journalistin werden** — *My daughter would like to become a journalist* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a ÜB (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

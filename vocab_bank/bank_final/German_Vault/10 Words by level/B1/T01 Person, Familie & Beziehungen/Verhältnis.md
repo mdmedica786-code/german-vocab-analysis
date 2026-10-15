@@ -35,6 +35,14 @@ status: "new"
 > Ich habe ein gutes Verhältnis zu meinen Eltern.
 > *I have a good relationship with my parents.*
 
+**Phrases & Expressions:**
+- **das Verhältnis von ... zu ...** — the ratio of ... to ... *([[Vergleichen (comparison)|Vergleichen (comparison)]] · C1)*
+- **Verhältnis von ... zu ...** — ratio of ... to ... *([[Vergleichen (comparison)|Vergleichen (comparison)]] · C1)*
+- **das Verhältnis zwischen ...** — the relationship between ... *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B2)*
+- **Im Verhältnis zu ... ist ... gering.** — In relation to ..., ... is small. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Verhältnis beschreiben]] · B2)*
+- **ein gutes Verhältnis haben** — *relationship; ratio; (pl.) conditions*
+- **im Verhältnis zu** — *relationship; ratio; (pl.) conditions*
+
 **Collocations**
 - ein gutes Verhältnis haben
 - im Verhältnis zu

@@ -30,6 +30,9 @@ status: "new"
 > Heute war ein hektischer Tag.
 > *Today was a hectic day.*
 
+**Phrases & Expressions:**
+- **Heute war ein hektischer Tag** — *Today was a hectic day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 11b (Arbeitswelten)
 <!-- bank:end -->
 

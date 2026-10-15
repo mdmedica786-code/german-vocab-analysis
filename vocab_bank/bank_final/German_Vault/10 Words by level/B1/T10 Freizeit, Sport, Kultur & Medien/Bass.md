@@ -34,6 +34,9 @@ status: "new"
 > Er spielt Bass in einer Band.
 > *He plays bass in a band.*
 
+**Phrases & Expressions:**
+- **Er spielt Bass in einer Band** — *He plays bass in a band* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9 ÜB (Blick nach vorn)
 <!-- bank:end -->
 

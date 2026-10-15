@@ -34,6 +34,9 @@ status: "new"
 > Bringst du bitte Batterien für die Kamera mit?
 > *Can you bring batteries for the camera, please?*
 
+**Phrases & Expressions:**
+- **Bringst du bitte Batterien für die Kamera mit** — *Can you bring batteries for the camera, please* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

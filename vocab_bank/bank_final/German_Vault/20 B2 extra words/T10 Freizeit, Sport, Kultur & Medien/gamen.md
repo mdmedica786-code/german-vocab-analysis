@@ -31,6 +31,11 @@ status: "new"
 > Mein Bruder gamt jeden Abend mit seinen Freunden.
 > *My brother plays video games with his friends every evening.*
 
+**Phrases & Expressions:**
+- **stundenlang gamen** — *to game; to play video games*
+- **online gamen** — *to game; to play video games*
+- **mit Freunden gamen** — *to game; to play video games*
+
 **Collocations**
 - stundenlang gamen
 - online gamen

@@ -34,6 +34,9 @@ status: "new"
 > Mein Sohn möchte Profisportler werden.
 > *My son wants to become a professional athlete.*
 
+**Phrases & Expressions:**
+- **Mein Sohn möchte Profisportler werden** — *My son wants to become a professional athlete* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

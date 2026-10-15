@@ -33,6 +33,11 @@ status: "new"
 > Die Legende erzählt von einem Drachen.
 > *The legend tells of a dragon.*
 
+**Phrases & Expressions:**
+- **eine Legende erzählen** — *legend; key (of a map)*
+- **zur Legende werden** — *legend; key (of a map)*
+- **die Legende der Karte** — *legend; key (of a map)*
+
 **Collocations**
 - eine Legende erzählen
 - zur Legende werden

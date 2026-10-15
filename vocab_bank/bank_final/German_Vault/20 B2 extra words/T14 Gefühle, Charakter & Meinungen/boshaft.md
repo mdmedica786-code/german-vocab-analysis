@@ -29,6 +29,11 @@ status: "new"
 > Er machte eine boshafte Bemerkung über ihre Frisur.
 > *He made a spiteful remark about her hairstyle.*
 
+**Phrases & Expressions:**
+- **eine boshafte Bemerkung** — *malicious; spiteful*
+- **boshaft lächeln** — *malicious; spiteful*
+- **boshaft sein** — *malicious; spiteful*
+
 **Collocations**
 - eine boshafte Bemerkung
 - boshaft lächeln

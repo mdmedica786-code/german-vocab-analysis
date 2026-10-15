@@ -30,6 +30,9 @@ status: "new"
 > Tierische Fette sind nicht für alle geeignet.
 > *Animal fats are not suitable for everyone.*
 
+**Phrases & Expressions:**
+- **Tierische Fette sind nicht für alle geeignet** — *Animal fats are not suitable for everyone* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3a (Kunststücke)
 <!-- bank:end -->
 

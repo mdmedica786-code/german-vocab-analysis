@@ -29,6 +29,11 @@ status: "new"
 > Es gibt betriebliche Gründe für die Entscheidung.
 > *There are operational reasons for the decision.*
 
+**Phrases & Expressions:**
+- **betriebliche Gründe** — *company; operational*
+- **betriebliche Altersvorsorge** — *company; operational*
+- **betrieblich bedingt** — *company; operational*
+
 **Collocations**
 - betriebliche Gründe
 - betriebliche Altersvorsorge

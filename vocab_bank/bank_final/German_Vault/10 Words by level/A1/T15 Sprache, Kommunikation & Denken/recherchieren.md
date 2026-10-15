@@ -32,6 +32,9 @@ status: "new"
 > Ich recherchiere im Internet für mein Referat.
 > *I'm researching on the internet for my presentation.*
 
+**Phrases & Expressions:**
+- **Ich recherchiere im Internet für mein Referat** — *I'm researching on the internet for my presentation* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 6c (Guten Appetit!)
 <!-- bank:end -->
 

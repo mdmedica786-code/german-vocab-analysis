@@ -29,6 +29,11 @@ status: "new"
 > Das Kind wurde müde und weinerlich.
 > *The child became tired and tearful.*
 
+**Phrases & Expressions:**
+- **weinerlich klingen** — *tearful; whiny*
+- **weinerlich werden** — *tearful; whiny*
+- **eine weinerliche Stimme** — *tearful; whiny*
+
 **Collocations**
 - weinerlich klingen
 - weinerlich werden

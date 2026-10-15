@@ -35,6 +35,9 @@ status: "new"
 > Am Dienstag habe ich Deutschkurs.
 > *On Tuesday I have German class.*
 
+**Phrases & Expressions:**
+- **Würde Ihnen Dienstag um zehn Uhr passen?** — Would Tuesday at ten suit you? *([[B2-07 Telefonieren|Termin vorschlagen]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 4a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

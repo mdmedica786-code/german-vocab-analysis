@@ -35,6 +35,9 @@ status: "new"
 > Lebensmittel bekommen Sie im Supermarkt.
 > *You can get groceries at the supermarket.*
 
+**Phrases & Expressions:**
+- **Vertragen Sie bestimmte Medikamente oder Lebensmittel nicht?** — Are there certain medicines or foods that you don't tolerate? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Unverträglichkeiten erfragen]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

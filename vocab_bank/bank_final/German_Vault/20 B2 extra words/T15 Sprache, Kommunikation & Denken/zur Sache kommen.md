@@ -29,6 +29,9 @@ status: "new"
 > Kommen wir jetzt zur Sache!
 > *Let us get to the point now!*
 
+**Phrases & Expressions:**
+- **zur Sache gehören** — *to get to the point*
+
 **Collocations**
 - zur Sache gehören
 

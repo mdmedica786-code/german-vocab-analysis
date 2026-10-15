@@ -29,6 +29,11 @@ status: "new"
 > Das Wetter bleibt wechselhaft.
 > *The weather remains changeable.*
 
+**Phrases & Expressions:**
+- **wechselhaftes Wetter** — *changeable; variable*
+- **wechselhaft sein** — *changeable; variable*
+- **ein wechselhaftes Leben** — *changeable; variable*
+
 **Collocations**
 - wechselhaftes Wetter
 - wechselhaft sein

@@ -34,6 +34,9 @@ status: "new"
 > Im Prinzip bin ich einverstanden.
 > *In principle I agree.*
 
+**Phrases & Expressions:**
+- **Im Prinzip haben Sie recht, aber ...** — In principle you are right, but ... *([[B1-02 Zustimmen und Widersprechen|Teilweise zustimmen]] · B1)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

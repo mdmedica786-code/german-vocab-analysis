@@ -34,6 +34,9 @@ status: "new"
 > In der Gegenwart zu leben ist wichtig.
 > *Living in the present is important.*
 
+**Phrases & Expressions:**
+- **In der Gegenwart zu leben ist wichtig** — *Living in the present is important* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 3a (Zwischenmenschliches)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Solch ein Wetter hatten wir lange nicht.
 > *We have not had such weather for a long time.*
 
+**Phrases & Expressions:**
+- **solch ein** — *such*
+- **solche Leute** — *such*
+- **in solchen Fällen** — *such*
+
 **Collocations**
 - solch ein
 - solche Leute

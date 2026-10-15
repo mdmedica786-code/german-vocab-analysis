@@ -31,6 +31,11 @@ status: "new"
 > Die Bank gewährt ihm einen Kredit.
 > *The bank grants him a loan.*
 
+**Phrases & Expressions:**
+- **einen Kredit gewähren** — *to grant; to give*
+- **Einblick gewähren** — *to grant; to give*
+- **Rabatt gewähren** — *to grant; to give*
+
 **Collocations**
 - einen Kredit gewähren
 - Einblick gewähren

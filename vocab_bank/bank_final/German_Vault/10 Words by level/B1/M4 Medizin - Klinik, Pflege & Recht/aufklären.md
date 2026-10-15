@@ -33,6 +33,9 @@ status: "new"
 > Der Arzt klärt den Patienten über die Risiken auf.
 > *The doctor informs the patient about the risks.*
 
+**Phrases & Expressions:**
+- **Der Patient wurde über die Risiken aufgeklärt und willigte ein.** — The patient was informed about the risks and consented. *([[FSP-20 Arztbrief und Dokumentation|Dokumentation]] · B2)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Ich habe eine Mitteilung vom Vermieter bekommen.
 > *I received a notice from the landlord.*
 
+**Phrases & Expressions:**
+- **Ich habe eine Mitteilung vom Vermieter bekommen** — *I received a notice from the landlord* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 4a ÜB (Gelernt ist gelernt!)
 <!-- bank:end -->
 

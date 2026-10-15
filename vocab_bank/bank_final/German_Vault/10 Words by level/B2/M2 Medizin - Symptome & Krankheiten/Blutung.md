@@ -33,6 +33,13 @@ status: "new"
 > Die Blutung konnte schnell gestoppt werden.
 > *The bleeding could be stopped quickly.*
 
+**Phrases & Expressions:**
+- **Zu den möglichen Komplikationen gehören Blutungen und Infektionen.** — Possible complications include bleeding and infections. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Komplikationen nennen]] · B2)*
+- **eine starke Blutung** — *bleeding*
+- **die Blutung stoppen** — *bleeding*
+- **innere Blutung** — *bleeding*
+- **die Blutung stillen** — *bleeding*
+
 **Collocations**
 - eine starke Blutung
 - die Blutung stoppen

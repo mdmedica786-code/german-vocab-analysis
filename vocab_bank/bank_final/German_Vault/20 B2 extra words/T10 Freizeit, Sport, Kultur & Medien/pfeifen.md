@@ -31,6 +31,12 @@ status: "new"
 > Der Schiedsrichter pfiff das Spiel ab.
 > *The referee blew the final whistle.*
 
+**Phrases & Expressions:**
+- **Pfeift oder rasselt es beim Atmen?** — Is there wheezing or rattling when you breathe? *([[FSP-06 Systemanamnese (Organsysteme)|Atmung]] · B2)*
+- **ein Lied pfeifen** — *to whistle*
+- **auf etwas pfeifen** — *to whistle*
+- **der Wind pfeift** — *to whistle*
+
 **Collocations**
 - ein Lied pfeifen
 - auf etwas pfeifen

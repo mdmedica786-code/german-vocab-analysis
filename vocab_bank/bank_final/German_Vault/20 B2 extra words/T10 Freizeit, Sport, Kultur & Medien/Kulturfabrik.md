@@ -30,6 +30,11 @@ status: "new"
 > In der Kulturfabrik finden Konzerte und Ausstellungen statt.
 > *Concerts and exhibitions take place in the arts centre.*
 
+**Phrases & Expressions:**
+- **in der Kulturfabrik** — *arts centre in a former factory; cultural factory*
+- **eine Kulturfabrik eröffnen** — *arts centre in a former factory; cultural factory*
+- **ein Konzert in der Kulturfabrik** — *arts centre in a former factory; cultural factory*
+
 **Collocations**
 - in der Kulturfabrik
 - eine Kulturfabrik eröffnen

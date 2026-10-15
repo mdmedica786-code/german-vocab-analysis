@@ -31,6 +31,9 @@ status: "new"
 > Seid leise. Die anderen schlafen schon.
 > *Be quiet. The others are already asleep.*
 
+**Phrases & Expressions:**
+- **Seid leise. Die anderen schlafen schon** — *Be quiet. The others are already asleep* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 4 (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Volk wählt das Parlament.
 > *The people elect the parliament.*
+
+**Phrases & Expressions:**
+- **Das Volk wählt das Parlament** — *The people elect the parliament* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

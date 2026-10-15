@@ -33,6 +33,11 @@ status: "new"
 > Das Motto der Feier lautet Zusammenhalt.
 > *The motto of the party is solidarity.*
 
+**Phrases & Expressions:**
+- **das Motto lautet** — *motto; theme; slogan*
+- **unter dem Motto** — *motto; theme; slogan*
+- **ein Motto wählen** — *motto; theme; slogan*
+
 **Collocations**
 - das Motto lautet
 - unter dem Motto

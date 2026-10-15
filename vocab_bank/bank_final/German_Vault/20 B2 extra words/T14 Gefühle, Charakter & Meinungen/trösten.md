@@ -32,6 +32,11 @@ status: "new"
 > Sie tröstete das weinende Kind.
 > *She comforted the crying child.*
 
+**Phrases & Expressions:**
+- **jemanden trösten** — *to comfort; to console*
+- **sich mit etwas trösten** — *to comfort; to console*
+- **ein tröstendes Wort** — *to comfort; to console*
+
 **Collocations**
 - jemanden trösten
 - sich mit etwas trösten

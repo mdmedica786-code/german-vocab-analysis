@@ -30,6 +30,9 @@ status: "new"
 > Heute muss ich länger arbeiten.
 > *Today I have to work longer.*
 
+**Phrases & Expressions:**
+- **Heute muss ich länger arbeiten** — *Today I have to work longer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!)
 <!-- bank:end -->
 

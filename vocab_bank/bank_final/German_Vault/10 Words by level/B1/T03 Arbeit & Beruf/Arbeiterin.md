@@ -35,6 +35,9 @@ status: "new"
 > Maria ist seit zwei Jahren Arbeiterin bei Siemens.
 > *Maria has been a worker at Siemens for two years.*
 
+**Phrases & Expressions:**
+- **Maria ist seit zwei Jahren Arbeiterin bei Siemens** — *Maria has been a worker at Siemens for two years* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 1a (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

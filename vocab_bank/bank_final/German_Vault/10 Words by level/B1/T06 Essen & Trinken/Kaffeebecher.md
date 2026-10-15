@@ -34,6 +34,9 @@ status: "new"
 > Ich nehme meinen eigenen Kaffeebecher mit.
 > *I take my own coffee mug with me.*
 
+**Phrases & Expressions:**
+- **Ich nehme meinen eigenen Kaffeebecher mit** — *I take my own coffee mug with me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

@@ -33,6 +33,9 @@ status: "new"
 > Ich logge mich mit meinem Passwort ein.
 > *I log in with my password.*
 
+**Phrases & Expressions:**
+- **Ich logge mich mit meinem Passwort ein** — *I log in with my password* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 5a (Geld regiert die Welt?)
 <!-- bank:end -->
 

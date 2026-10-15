@@ -33,6 +33,11 @@ status: "new"
 > Die Zivilisation entstand an einem großen Fluss.
 > *The civilisation arose on a large river.*
 
+**Phrases & Expressions:**
+- **eine alte Zivilisation** — *civilisation*
+- **moderne Zivilisation** — *civilisation*
+- **Zivilisation und Natur** — *civilisation*
+
 **Collocations**
 - eine alte Zivilisation
 - moderne Zivilisation

@@ -34,6 +34,9 @@ status: "new"
 > Dieser Computerkurs ist für Senioren.
 > *This computer course is for senior citizens.*
 
+**Phrases & Expressions:**
+- **Dieser Computerkurs ist für Senioren** — *This computer course is for senior citizens* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

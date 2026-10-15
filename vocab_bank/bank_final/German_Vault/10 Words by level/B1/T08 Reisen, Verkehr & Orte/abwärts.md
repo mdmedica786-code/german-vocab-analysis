@@ -31,6 +31,9 @@ status: "new"
 > Von dort führt der Weg abwärts ins Tal.
 > *From there the path leads downhill into the valley.*
 
+**Phrases & Expressions:**
+- **Von dort führt der Weg abwärts ins Tal** — *From there the path leads downhill into the valley* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

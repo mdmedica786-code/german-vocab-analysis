@@ -31,6 +31,9 @@ status: "new"
 > Sind Sie verheiratet? – Nein. Ledig.
 > *Are you married? – No. Single.*
 
+**Phrases & Expressions:**
+- **Sind Sie verheiratet? – Nein. Ledig** — *Are you married? – No. Single* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 8a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

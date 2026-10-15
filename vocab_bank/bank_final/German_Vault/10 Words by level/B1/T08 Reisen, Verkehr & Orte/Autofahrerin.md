@@ -34,6 +34,9 @@ status: "new"
 > Die Autofahrerin parkt vor dem Haus.
 > *The driver parks in front of the house.*
 
+**Phrases & Expressions:**
+- **Die Autofahrerin parkt vor dem Haus** — *The driver parks in front of the house* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 1a (Umweltfreundlich?)
 <!-- bank:end -->
 

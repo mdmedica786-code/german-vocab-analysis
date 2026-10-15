@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Der Fernseher ist noch eingeschaltet.
 > *The television is still switched on.*
+
+**Phrases & Expressions:**
+- **Der Fernseher ist noch eingeschaltet** — *The television is still switched on* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

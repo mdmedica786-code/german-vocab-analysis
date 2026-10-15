@@ -30,6 +30,9 @@ status: "new"
 > Das Lied klingt sehr melodisch.
 > *The song sounds very melodious.*
 
+**Phrases & Expressions:**
+- **Das Lied klingt sehr melodisch** — *The song sounds very melodious* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 6b (Gute Unterhaltung!)
 <!-- bank:end -->
 

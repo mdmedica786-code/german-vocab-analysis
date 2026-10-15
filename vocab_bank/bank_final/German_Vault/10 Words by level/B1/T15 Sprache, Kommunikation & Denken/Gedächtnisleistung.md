@@ -34,6 +34,9 @@ status: "new"
 > Mit dem Alter lässt die Gedächtnisleistung nach.
 > *Memory performance declines with age.*
 
+**Phrases & Expressions:**
+- **Mit dem Alter lässt die Gedächtnisleistung nach** — *Memory performance declines with age* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 10a (Rund um Körper und Geist)
 <!-- bank:end -->
 

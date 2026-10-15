@@ -35,6 +35,9 @@ status: "new"
 > Wie schmeckt dir der Salat?
 > *How do you like the salad?*
 
+**Phrases & Expressions:**
+- **Kannst du bitte einen Salat mitbringen?** — Can you please bring a salad? *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Aufgaben verteilen]] · B1)*
+
 **Source:** Netzwerk neu A1 K4 2a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

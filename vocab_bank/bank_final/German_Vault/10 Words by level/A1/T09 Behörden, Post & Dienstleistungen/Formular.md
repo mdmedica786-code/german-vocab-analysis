@@ -35,6 +35,9 @@ status: "new"
 > Sie müssen dieses Formular ausfüllen.
 > *You have to fill in this form.*
 
+**Phrases & Expressions:**
+- **Sie müssen dieses Formular ausfüllen** — *You have to fill in this form* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

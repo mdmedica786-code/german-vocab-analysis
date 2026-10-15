@@ -33,6 +33,11 @@ status: "new"
 > Die Beratungsstelle ist die erste Anlaufstelle für Hilfesuchende.
 > *The advice centre is the first point of contact for people seeking help.*
 
+**Phrases & Expressions:**
+- **eine Anlaufstelle sein** — *point of contact; support centre*
+- **erste Anlaufstelle** — *point of contact; support centre*
+- **Anlaufstelle für Migranten** — *point of contact; support centre*
+
 **Collocations**
 - eine Anlaufstelle sein
 - erste Anlaufstelle

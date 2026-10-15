@@ -31,6 +31,11 @@ status: "new"
 > Er schuftet jeden Tag zwölf Stunden auf dem Bau.
 > *He toils twelve hours every day on the building site.*
 
+**Phrases & Expressions:**
+- **hart schuften** — *to slave away; to toil*
+- **den ganzen Tag schuften** — *to slave away; to toil*
+- **wie ein Pferd schuften** — *to slave away; to toil*
+
 **Collocations**
 - hart schuften
 - den ganzen Tag schuften

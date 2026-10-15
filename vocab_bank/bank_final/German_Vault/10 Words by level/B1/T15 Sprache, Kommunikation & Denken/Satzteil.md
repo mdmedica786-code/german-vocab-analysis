@@ -34,6 +34,9 @@ status: "new"
 > Subjekt und Verb sind wichtige Satzteile.
 > *Subject and verb are important parts of a sentence.*
 
+**Phrases & Expressions:**
+- **Subjekt und Verb sind wichtige Satzteile** — *Subject and verb are important parts of a sentence* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 13a (Zwischenmenschliches)
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Universum ist unendlich groß.
 > *The universe is infinitely large.*
+
+**Phrases & Expressions:**
+- **Das Universum ist unendlich groß** — *The universe is infinitely large* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,11 @@ status: "new"
 > Er hat seine Kündigung vor dem Arbeitsgericht angefochten.
 > *He contested his dismissal before the labour court.*
 
+**Phrases & Expressions:**
+- **vor dem Arbeitsgericht** — *labour court*
+- **das Arbeitsgericht entscheidet** — *labour court*
+- **eine Klage beim Arbeitsgericht** — *labour court*
+
 **Collocations**
 - vor dem Arbeitsgericht
 - das Arbeitsgericht entscheidet

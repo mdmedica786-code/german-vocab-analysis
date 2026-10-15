@@ -34,6 +34,11 @@ status: "new"
 > Sie studiert Völkerkunde an der Universität Hamburg.
 > *She studies ethnology at the University of Hamburg.*
 
+**Phrases & Expressions:**
+- **Völkerkunde studieren** — *ethnology; cultural anthropology*
+- **ein Museum für Völkerkunde** — *ethnology; cultural anthropology*
+- **Völkerkunde und Geschichte** — *ethnology; cultural anthropology*
+
 **Collocations**
 - Völkerkunde studieren
 - ein Museum für Völkerkunde

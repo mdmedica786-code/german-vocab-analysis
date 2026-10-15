@@ -33,6 +33,11 @@ status: "new"
 > Mit Klebstoff repariere ich den Henkel der Tasse.
 > *With glue I repair the handle of the cup.*
 
+**Phrases & Expressions:**
+- **Klebstoff auftragen** — *glue; adhesive*
+- **ein Klebstoff für Holz** — *glue; adhesive*
+- **mit Klebstoff befestigen** — *glue; adhesive*
+
 **Collocations**
 - Klebstoff auftragen
 - ein Klebstoff für Holz

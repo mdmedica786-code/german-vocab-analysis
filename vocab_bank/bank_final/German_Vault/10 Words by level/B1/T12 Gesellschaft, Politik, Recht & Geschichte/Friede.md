@@ -42,6 +42,9 @@ status: "new"
 > Endlich ist hier Frieden!
 > *At last there is peace here!*
 
+**Phrases & Expressions:**
+- **Endlich ist hier Frieden** — *At last there is peace here* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

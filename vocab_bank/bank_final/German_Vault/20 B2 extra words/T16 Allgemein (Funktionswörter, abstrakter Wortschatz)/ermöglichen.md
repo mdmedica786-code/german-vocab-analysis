@@ -31,6 +31,10 @@ status: "new"
 > Das Stipendium ermöglicht ihr ein Studium im Ausland.
 > *The scholarship makes it possible for her to study abroad.*
 
+**Phrases & Expressions:**
+- **jemandem etwas ermöglichen** — *to make possible; to enable*
+- **ein Studium ermöglichen** — *to make possible; to enable*
+
 **Collocations**
 - jemandem etwas ermöglichen
 - ein Studium ermöglichen

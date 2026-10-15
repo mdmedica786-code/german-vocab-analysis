@@ -31,6 +31,12 @@ status: "new"
 > Wann reparierst du die Heizung. – Die habe ich schon längst repariert.
 > *When are you going to repair the heating? – I repaired that long ago.*
 
+**Phrases & Expressions:**
+- **längst vergessen** — *for a long time*
+- **längst bekannt** — *for a long time*
+- **längst fertig** — *for a long time*
+- **längst erledigt** — *for a long time*
+
 **Collocations**
 - längst vergessen
 - längst bekannt

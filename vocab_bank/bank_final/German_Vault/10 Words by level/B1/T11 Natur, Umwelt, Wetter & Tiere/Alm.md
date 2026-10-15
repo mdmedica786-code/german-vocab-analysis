@@ -34,6 +34,9 @@ status: "new"
 > Im Sommer weiden die Kühe auf der Alm.
 > *In summer the cows graze on the alpine pasture.*
 
+**Phrases & Expressions:**
+- **Im Sommer weiden die Kühe auf der Alm** — *In summer the cows graze on the alpine pasture* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!)
 <!-- bank:end -->
 

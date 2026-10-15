@@ -34,6 +34,9 @@ status: "new"
 > Ich habe deine Stellenanzeige in der Zeitung gelesen.
 > *I read your job advertisement in the newspaper.*
 
+**Phrases & Expressions:**
+- **Ich habe deine Stellenanzeige in der Zeitung gelesen** — *I read your job advertisement in the newspaper* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 2a ÜB (Leben in der Stadt)
 <!-- bank:end -->
 

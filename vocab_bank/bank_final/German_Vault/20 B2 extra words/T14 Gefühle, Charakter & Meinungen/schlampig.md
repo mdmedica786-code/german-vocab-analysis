@@ -29,6 +29,11 @@ status: "new"
 > Das ist schlampig gearbeitet, so geht das nicht.
 > *That is sloppy work; it won't do like that.*
 
+**Phrases & Expressions:**
+- **schlampig arbeiten** — *sloppy; careless*
+- **schlampig aussehen** — *sloppy; careless*
+- **schlampig geschrieben** — *sloppy; careless*
+
 **Collocations**
 - schlampig arbeiten
 - schlampig aussehen

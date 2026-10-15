@@ -31,6 +31,10 @@ status: "new"
 > Die Bevölkerung auf dem Land schrumpft.
 > *The population in the countryside is shrinking.*
 
+**Phrases & Expressions:**
+- **stark schrumpfen** — *to shrink*
+- **der Gewinn schrumpft** — *to shrink*
+
 **Collocations**
 - stark schrumpfen
 - der Gewinn schrumpft

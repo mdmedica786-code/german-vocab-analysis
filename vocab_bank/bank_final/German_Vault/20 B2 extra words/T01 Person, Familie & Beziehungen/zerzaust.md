@@ -29,6 +29,11 @@ status: "new"
 > Nach dem Sturm waren ihre Haare zerzaust.
 > *After the storm her hair was tousled.*
 
+**Phrases & Expressions:**
+- **zerzauste Haare** — *tousled; dishevelled*
+- **zerzaust aussehen** — *tousled; dishevelled*
+- **ein zerzauster Vogel** — *tousled; dishevelled*
+
 **Collocations**
 - zerzauste Haare
 - zerzaust aussehen

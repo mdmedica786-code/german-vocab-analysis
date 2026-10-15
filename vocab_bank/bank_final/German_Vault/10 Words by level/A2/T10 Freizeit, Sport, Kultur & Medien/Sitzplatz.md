@@ -34,6 +34,9 @@ status: "new"
 > Haben Sie noch einen Sitzplatz frei?
 > *Do you still have a seat free?*
 
+**Phrases & Expressions:**
+- **Haben Sie noch einen Sitzplatz frei** — *Do you still have a seat free* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

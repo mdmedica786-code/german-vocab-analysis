@@ -34,6 +34,9 @@ status: "new"
 > Der Tennisplatz ist am Wochenende immer voll.
 > *The tennis court is always full at the weekend.*
 
+**Phrases & Expressions:**
+- **Der Tennisplatz ist am Wochenende immer voll** — *The tennis court is always full at the weekend* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 9a (Studium und Beruf)
 <!-- bank:end -->
 

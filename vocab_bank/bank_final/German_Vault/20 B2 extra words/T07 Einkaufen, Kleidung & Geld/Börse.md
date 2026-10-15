@@ -33,6 +33,11 @@ status: "new"
 > Die Kurse an der Börse sind gestiegen.
 > *Prices on the stock exchange have risen.*
 
+**Phrases & Expressions:**
+- **an der Börse** — *stock exchange; market*
+- **die Börse schließt** — *stock exchange; market*
+- **an der Börse handeln** — *stock exchange; market*
+
 **Collocations**
 - an der Börse
 - die Börse schließt

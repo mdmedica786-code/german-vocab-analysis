@@ -34,6 +34,9 @@ status: "new"
 > Meine Tochter möchte Profisportlerin werden.
 > *My daughter wants to become a professional athlete.*
 
+**Phrases & Expressions:**
+- **Meine Tochter möchte Profisportlerin werden** — *My daughter wants to become a professional athlete* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

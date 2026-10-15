@@ -33,6 +33,12 @@ status: "new"
 > Hier entsteht ein neues Einkaufszentrum.
 > *A new shopping centre is being built here.*
 
+**Phrases & Expressions:**
+- **neu entstehen** — *to arise; to come into being; to be built*
+- **Kosten entstehen** — *to arise; to come into being; to be built*
+- **ein Schaden entsteht** — *to arise; to come into being; to be built*
+- **daraus entsteht ...** — *to arise; to come into being; to be built*
+
 **Collocations**
 - neu entstehen
 - Kosten entstehen

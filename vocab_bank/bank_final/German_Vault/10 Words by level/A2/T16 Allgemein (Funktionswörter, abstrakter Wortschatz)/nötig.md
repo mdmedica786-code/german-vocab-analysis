@@ -31,6 +31,14 @@ status: "new"
 > Wenn es nötig ist, nehmen Sie noch eine Tablette.
 > *If necessary, take another tablet.*
 
+**Phrases & Expressions:**
+- **nicht nötig** — not necessary *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B1)*
+- **In seltenen Fällen kann eine zweite Operation nötig werden.** — In rare cases a second operation may become necessary. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Risiken nennen]] · B2)*
+- **Offen ist noch, ob eine Operation nötig sein wird.** — It is still open whether an operation will be necessary. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Offene Fragen]] · B2)*
+- **nötig sein** — *necessary*
+- **wenn nötig** — *necessary*
+- **das Nötigste** — *necessary*
+
 **Collocations**
 - nötig sein
 - nicht nötig

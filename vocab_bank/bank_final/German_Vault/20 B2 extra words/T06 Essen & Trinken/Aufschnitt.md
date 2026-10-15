@@ -33,6 +33,11 @@ status: "new"
 > Zum Abendbrot gibt es Brot mit Aufschnitt.
 > *For supper there is bread with cold cuts.*
 
+**Phrases & Expressions:**
+- **Aufschnitt kaufen** — *sliced cold meats and cheese*
+- **Brot mit Aufschnitt** — *sliced cold meats and cheese*
+- **gemischter Aufschnitt** — *sliced cold meats and cheese*
+
 **Collocations**
 - Aufschnitt kaufen
 - Brot mit Aufschnitt

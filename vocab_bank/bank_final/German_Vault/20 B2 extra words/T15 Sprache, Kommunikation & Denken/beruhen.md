@@ -32,6 +32,10 @@ status: "new"
 > Seine Aussage beruht auf einem Missverständnis.
 > *His statement is based on a misunderstanding.*
 
+**Phrases & Expressions:**
+- **beruhen auf + Dat.** — *to be based (on)*
+- **auf Gegenseitigkeit beruhen** — *to be based (on)*
+
 **Collocations**
 - beruhen auf + Dat.
 - auf Gegenseitigkeit beruhen

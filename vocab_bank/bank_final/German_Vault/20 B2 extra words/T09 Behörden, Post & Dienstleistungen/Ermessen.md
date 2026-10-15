@@ -33,6 +33,11 @@ status: "new"
 > Die Entscheidung liegt im Ermessen der Behörde.
 > *The decision lies at the discretion of the authority.*
 
+**Phrases & Expressions:**
+- **nach eigenem Ermessen** — *discretion; judgement*
+- **im Ermessen liegen** — *discretion; judgement*
+- **nach freiem Ermessen** — *discretion; judgement*
+
 **Collocations**
 - nach eigenem Ermessen
 - im Ermessen liegen

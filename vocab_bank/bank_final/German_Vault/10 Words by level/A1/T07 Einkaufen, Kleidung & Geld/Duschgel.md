@@ -34,6 +34,9 @@ status: "new"
 > Ich brauche Duschgel und Shampoo.
 > *I need shower gel and shampoo.*
 
+**Phrases & Expressions:**
+- **Ich brauche Duschgel und Shampoo** — *I need shower gel and shampoo* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

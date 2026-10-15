@@ -33,6 +33,12 @@ status: "new"
 > Dieses Ereignis hat die Wahlen beeinflusst.
 > *This event influenced the elections.*
 
+**Phrases & Expressions:**
+- **jemanden beeinflussen** — *to influence*
+- **stark beeinflussen** — *to influence*
+- **das Ergebnis beeinflussen** — *to influence*
+- **beeinflusst werden** — *to influence*
+
 **Collocations**
 - jemanden beeinflussen
 - stark beeinflussen

@@ -35,6 +35,9 @@ status: "new"
 > Mein Tisch hat folgende Maße: Länge: 1,20 m, Breite: 0,60 m, Höhe: 0,80 m.
 > *My table has the following dimensions: length 1.20 m, width 0.60 m, height 0.80 m.*
 
+**Phrases & Expressions:**
+- **in Höhe von ...** — amounting to ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · C1)*
+
 **Source:** Netzwerk neu A2 K10 1b (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

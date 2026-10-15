@@ -30,6 +30,9 @@ status: "new"
 > Er ist unglücklich, weil er seinen Job verloren hat.
 > *He is unhappy because he lost his job.*
 
+**Phrases & Expressions:**
+- **Er ist unglücklich, weil er seinen Job verloren hat** — *He is unhappy because he lost his job* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 3a (Große und kleine Gefühle)
 <!-- bank:end -->
 

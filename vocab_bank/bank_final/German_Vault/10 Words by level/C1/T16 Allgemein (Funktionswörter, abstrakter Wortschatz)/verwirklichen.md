@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Er will seinen Traum verwirklichen.
 > *He wants to realise his dream.*
+
+**Phrases & Expressions:**
+- **Er will seinen Traum verwirklichen** — *He wants to realise his dream* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

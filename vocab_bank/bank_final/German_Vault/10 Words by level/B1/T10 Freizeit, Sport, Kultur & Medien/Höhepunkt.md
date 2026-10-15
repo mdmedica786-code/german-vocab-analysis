@@ -34,6 +34,9 @@ status: "new"
 > Der Höhepunkt des Abends war das Feuerwerk.
 > *The highlight of the evening was the fireworks.*
 
+**Phrases & Expressions:**
+- **Der Höhepunkt des Abends war das Feuerwerk** — *The highlight of the evening was the fireworks* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Wir machen im Mai einen Kurzurlaub am Meer.
 > *In May we are taking a short holiday by the sea.*
 
+**Phrases & Expressions:**
+- **einen Kurzurlaub machen** — *short holiday; short break*
+- **ein Kurzurlaub am Wochenende** — *short holiday; short break*
+- **einen Kurzurlaub planen** — *short holiday; short break*
+
 **Collocations**
 - einen Kurzurlaub machen
 - ein Kurzurlaub am Wochenende

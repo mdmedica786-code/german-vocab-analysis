@@ -35,6 +35,9 @@ status: "new"
 > An Werktagen öffnet die Praxis um acht Uhr.
 > *On working days the practice opens at eight.*
 
+**Phrases & Expressions:**
+- **An Werktagen öffnet die Praxis um acht Uhr** — *On working days the practice opens at eight* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 2c (Wie die Zeit vergeht!) · Goethe word list A2
 <!-- bank:end -->
 

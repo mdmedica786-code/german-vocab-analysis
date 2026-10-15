@@ -34,6 +34,9 @@ status: "new"
 > Die Herzchirurgin hat über tausend Operationen durchgeführt.
 > *The heart surgeon has performed over a thousand operations.*
 
+**Phrases & Expressions:**
+- **Die Herzchirurgin hat über tausend Operationen durchgeführt** — *The heart surgeon has performed over a thousand operations* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Er hat viel geübt, wodurch er besser geworden ist.
 > *He practised a lot, as a result of which he has improved.*
+
+**Phrases & Expressions:**
+- **Er hat viel geübt, wodurch er besser geworden ist** — *He practised a lot, as a result of which he has improved* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

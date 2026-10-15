@@ -32,6 +32,11 @@ status: "new"
 > Er neigt dazu, schnell wütend zu werden.
 > *He tends to get angry quickly.*
 
+**Phrases & Expressions:**
+- **zu etwas neigen** — *to tend; to tilt*
+- **dazu neigen, zu** — *to tend; to tilt*
+- **den Kopf neigen** — *to tend; to tilt*
+
 **Collocations**
 - zu etwas neigen
 - dazu neigen, zu

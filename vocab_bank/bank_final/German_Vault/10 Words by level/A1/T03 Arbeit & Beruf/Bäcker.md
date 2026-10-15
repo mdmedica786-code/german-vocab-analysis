@@ -35,6 +35,9 @@ status: "new"
 > Ich gehe zum Bäcker und kaufe Brot.
 > *I'm going to the bakery and I'm buying bread.*
 
+**Phrases & Expressions:**
+- **Ich gehe zum Bäcker und kaufe Brot** — *I'm going to the bakery and I'm buying bread* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 5e (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->
 

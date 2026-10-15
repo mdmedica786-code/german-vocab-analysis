@@ -31,6 +31,11 @@ status: "new"
 > Das neue Formular vereinfacht den Antrag.
 > *The new form simplifies the application.*
 
+**Phrases & Expressions:**
+- **den Ablauf vereinfachen** — *to simplify*
+- **etwas stark vereinfachen** — *to simplify*
+- **vereinfacht gesagt** — *to simplify*
+
 **Collocations**
 - den Ablauf vereinfachen
 - etwas stark vereinfachen

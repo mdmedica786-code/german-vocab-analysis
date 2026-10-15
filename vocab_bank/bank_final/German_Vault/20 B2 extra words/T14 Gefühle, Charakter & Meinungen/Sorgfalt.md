@@ -33,6 +33,11 @@ status: "new"
 > Mit großer Sorgfalt prüfte sie jeden Vertrag.
 > *With great care she checked every contract.*
 
+**Phrases & Expressions:**
+- **mit Sorgfalt** — *care; diligence*
+- **große Sorgfalt walten lassen** — *care; diligence*
+- **Sorgfalt verwenden auf + Akk.** — *care; diligence*
+
 **Collocations**
 - mit Sorgfalt
 - große Sorgfalt walten lassen

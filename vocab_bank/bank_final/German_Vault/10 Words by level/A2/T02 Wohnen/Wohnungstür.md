@@ -34,6 +34,9 @@ status: "new"
 > Die Wohnungstür ist abgeschlossen.
 > *The flat door is locked.*
 
+**Phrases & Expressions:**
+- **Die Wohnungstür ist abgeschlossen** — *The flat door is locked* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12c (Zusammen leben)
 <!-- bank:end -->
 

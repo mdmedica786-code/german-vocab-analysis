@@ -33,6 +33,11 @@ status: "new"
 > Stell den heißen Topf bitte auf einen Untersetzer.
 > *Please put the hot pot on a mat.*
 
+**Phrases & Expressions:**
+- **ein Untersetzer für Gläser** — *coaster; mat (under a pot)*
+- **auf einen Untersetzer stellen** — *coaster; mat (under a pot)*
+- **Untersetzer aus Kork** — *coaster; mat (under a pot)*
+
 **Collocations**
 - ein Untersetzer für Gläser
 - auf einen Untersetzer stellen

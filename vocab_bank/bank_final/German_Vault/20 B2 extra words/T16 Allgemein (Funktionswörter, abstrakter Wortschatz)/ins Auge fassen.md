@@ -29,6 +29,10 @@ status: "new"
 > Wir fassen eine Reise nach Italien ins Auge.
 > *We have a trip to Italy in mind.*
 
+**Phrases & Expressions:**
+- **etwas ins Auge fassen** — *to consider; to have in mind*
+- **eine Stelle ins Auge fassen** — *to consider; to have in mind*
+
 **Collocations**
 - etwas ins Auge fassen
 - eine Stelle ins Auge fassen

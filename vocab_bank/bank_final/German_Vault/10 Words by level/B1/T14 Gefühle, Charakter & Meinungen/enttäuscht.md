@@ -30,6 +30,9 @@ status: "new"
 > Ich bin enttäuscht vom Ergebnis.
 > *I am disappointed with the result.*
 
+**Phrases & Expressions:**
+- **Ich bin enttäuscht, dass ...** — I am disappointed that ... *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Enttäuschung ausdrücken]] · B1)*
+
 **Source:** Netzwerk neu B1 K1 8b (Gute Reise!)
 <!-- bank:end -->
 

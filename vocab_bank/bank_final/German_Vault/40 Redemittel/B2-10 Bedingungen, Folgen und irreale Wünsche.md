@@ -14,18 +14,21 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Bedingung ausdrücken
 
 - **Wenn ..., dann ...** ⭐ — If ..., then ...
+  - Words: [[dann]]
   - Wenn du regelmäßig übst, dann wirst du bald fließend sprechen. *(If you practise regularly, you will soon speak fluently.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: wenn-Satz: Verb am Ende; dann: Verb direkt danach
   - Variants: Sobald ..., ... | Immer wenn ..., ...
   - Exam: B2 Sprechen und Schreiben
 - **Falls es regnet, bleiben wir zu Hause.** ⭐ — If it rains, we stay at home.
+  - Words: [[Fall]] · [[bleiben]] · [[regnen]] · [[falls]]
   - Falls es morgen regnet, bleiben wir zu Hause. *(If it rains tomorrow, we will stay at home.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: falls-Satz: Verb am Ende
   - Variants: Für den Fall, dass es regnet, ... | Sollte es regnen, ...
   - Exam: B2 Sprechen und Schreiben
 - **Sollte das Problem weiter bestehen, melden Sie sich bitte.** ⭐ — Should the problem persist, please get in touch.
+  - Words: [[weiter]] · [[bestehen]] · [[bitte (interjection)]] · [[weitere]] · [[bitten]] · [[Problem]] · [[weitermachen]] · [[Bitte]]
   - Sollte das Problem weiter bestehen, melden Sie sich bitte bei uns. *(Should the problem persist, please get in touch with us.)*
   - B2 · formal · speaker: Beide · to: Alle
   - Grammar: Konjunktiv II: Sollte ... (ohne wenn): Verb an Position 1
@@ -34,6 +37,7 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Ausnahme ausdrücken
 
 - **..., es sei denn, ...** ⭐ — ..., unless ...
+  - Words: [[denn]]
   - Ich komme morgen, es sei denn, ich bin krank. *(I'll come tomorrow, unless I'm ill.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: feste Wendung; danach Hauptsatz
@@ -42,6 +46,7 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Bedingung ausdrücken
 
 - **Unter der Voraussetzung, dass ...** ⭐ — On condition that ...
+  - Words: [[Voraussetzung]]
   - Unter der Voraussetzung, dass alle zustimmen, beginnen wir sofort. *(On condition that everyone agrees, we begin immediately.)*
   - B2 · formal · speaker: Beide · to: Alle
   - Grammar: dass-Satz: Verb am Ende
@@ -50,12 +55,14 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Irreale Wünsche
 
 - **Wenn ich mehr Zeit hätte, würde ich öfter reisen.** ⭐ — If I had more time, I would travel more often.
+  - Words: [[reisen]] · [[Zeit]] · [[mehr]] · [[Reise]] · [[Würde]] · [[öfter]]
   - Wenn ich mehr Zeit hätte, würde ich öfter reisen. *(If I had more time, I would travel more often.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: Konjunktiv II: hätte, würde + Infinitiv
   - Variants: Hätte ich mehr Zeit, würde ich öfter reisen. | Ich würde gern öfter reisen, wenn ich Zeit hätte.
   - Exam: B2 Sprechen und Schreiben
 - **Ich wünschte, ich hätte mehr Zeit.** ⭐ — I wish I had more time.
+  - Words: [[Zeit]] · [[mehr]] · [[wünschen]]
   - Ich wünschte, ich hätte mehr Zeit für meine Familie. *(I wish I had more time for my family.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: Konjunktiv II nach wünschen
@@ -64,6 +71,7 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Irreale Vergangenheit
 
 - **Wenn ich das gewusst hätte, wäre ich gekommen.** ⭐ — If I had known that, I would have come.
+  - Words: [[kommen]] · [[wissen (verb)]]
   - Wenn ich das gewusst hätte, wäre ich früher gekommen. *(If I had known that, I would have come earlier.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: Konjunktiv II der Vergangenheit: hätte + Partizip II, wäre + Partizip II
@@ -72,18 +80,21 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Folgen ausdrücken
 
 - **Das hat zur Folge, dass ...** ⭐ — This results in ...
+  - Words: [[folgen]] · [[Folge]]
   - Das hat zur Folge, dass viele Patienten länger warten müssen. *(This results in many patients having to wait longer.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: zur Folge haben + dass-Satz
   - Variants: Dies führt dazu, dass ... | Daraus resultiert, dass ...
   - Exam: B2 Sprechen und Schreiben
 - **Infolgedessen kam es zu Verzögerungen.** — As a result, there were delays.
+  - Words: [[kommen]] · [[drankommen]] · [[mitkommen]] · [[ankommen]] · [[zurückkommen]] · [[vorkommen]] · [[dazukommen]] · [[zurechtkommen]]
   - Infolgedessen kam es zu erheblichen Verzögerungen im Ablauf. *(As a result, there were considerable delays in the process.)*
   - B2 · formal · speaker: Beide · to: Alle
   - Grammar: Infolgedessen: Verb direkt danach
   - Variants: Deshalb ... | Aus diesem Grund ...
   - Exam: B2 Sprechen und Schreiben
 - **..., sodass wir ... müssen** ⭐ — ..., so that ...
+  - Words: [[sodass]] · [[müssen]]
   - Die Straße war gesperrt, sodass wir einen Umweg fahren mussten. *(The road was closed, so we had to take a detour.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: sodass-Satz: Verb am Ende
@@ -92,6 +103,7 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Konsequenz benennen
 
 - **Andernfalls müssten wir die Pläne ändern.** — Otherwise we would have to change the plans.
+  - Words: [[Plan]] · [[müssen]] · [[ändern]] · [[andernfalls]]
   - Andernfalls müssten wir die Pläne komplett ändern. *(Otherwise we would have to change the plans completely.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: andernfalls + Konjunktiv II
@@ -100,6 +112,7 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Voraussetzung nennen
 
 - **Voraussetzung dafür ist, dass ...** — A prerequisite for this is that ...
+  - Words: [[dafür]] · [[Voraussetzung]] · [[dafür sein]]
   - Voraussetzung dafür ist, dass alle Unterlagen vollständig sind. *(A prerequisite for this is that all documents are complete.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: Voraussetzung für + Akkusativ; dass-Satz
@@ -108,6 +121,7 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Vorschlag mit Bedingung
 
 - **Ich würde das machen, wenn Sie einverstanden sind.** — I would do that if you agree.
+  - Words: [[machen]] · [[einverstanden]] · [[Würde]] · [[einverstanden sein]]
   - Ich würde das gern übernehmen, wenn Sie einverstanden sind. *(I would gladly take that on if you agree.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: Konjunktiv II der Höflichkeit; wenn-Satz
@@ -116,6 +130,7 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Einschränkung
 
 - **Nur wenn ..., kann ...** — Only if ..., can ...
+  - Words: [[können]]
   - Nur wenn alle mitmachen, kann das Projekt gelingen. *(Only if everyone joins in can the project succeed.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: Inversion nach „Nur wenn-Satz“: Verb auf Position 1 im Hauptsatz
@@ -124,6 +139,7 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Ratschlag mit Bedingung
 
 - **Wenn ich du wäre, würde ich ...** — If I were you, I would ...
+  - Words: [[Würde]]
   - Wenn ich du wäre, würde ich einen Termin beim Arzt machen. *(If I were you, I would make an appointment with the doctor.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: Konjunktiv II: wäre, würde + Infinitiv

@@ -34,6 +34,13 @@ status: "new"
 > Die Diagnose lautet Lungenentzündung.
 > *The diagnosis is pneumonia.*
 
+**Phrases & Expressions:**
+- **Diagnosen bei Entlassung: ...** — Diagnoses: ... *([[FSP-20 Arztbrief und Dokumentation|Diagnosen auflisten]] · B2)*
+- **eine Diagnose stellen** — *diagnosis*
+- **gesicherte Diagnose** — *diagnosis*
+- **Diagnose mitteilen** — *diagnosis*
+- **Verdachtsdiagnose** — *diagnosis*
+
 **Collocations**
 - eine Diagnose stellen
 - gesicherte Diagnose

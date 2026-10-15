@@ -33,6 +33,12 @@ status: "new"
 > Der Radius ist am Handgelenk gebrochen.
 > *The radius is broken at the wrist.*
 
+**Phrases & Expressions:**
+- **Bruch des Radius** — *radius (bone); radius (circle)*
+- **distaler Radius** — *radius (bone); radius (circle)*
+- **Radius und Elle** — *radius (bone); radius (circle)*
+- **der Radius ist gebrochen** — *radius (bone); radius (circle)*
+
 **Collocations**
 - Bruch des Radius
 - distaler Radius

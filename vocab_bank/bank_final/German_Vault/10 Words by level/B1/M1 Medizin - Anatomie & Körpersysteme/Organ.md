@@ -33,6 +33,12 @@ status: "new"
 > Die Leber ist ein wichtiges Organ.
 > *The liver is an important organ.*
 
+**Phrases & Expressions:**
+- **ein Organ spenden** — *organ*
+- **innere Organe** — *organ*
+- **Organ transplantieren** — *organ*
+- **Organ versagt** — *organ*
+
 **Collocations**
 - ein Organ spenden
 - innere Organe

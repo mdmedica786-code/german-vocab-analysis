@@ -33,6 +33,11 @@ status: "new"
 > Der neue Impfstoff schützt vor schweren Verläufen.
 > *The new vaccine protects against severe courses of illness.*
 
+**Phrases & Expressions:**
+- **einen Impfstoff entwickeln** — *vaccine*
+- **ein Impfstoff gegen Grippe** — *vaccine*
+- **der Impfstoff wirkt** — *vaccine*
+
 **Collocations**
 - einen Impfstoff entwickeln
 - ein Impfstoff gegen Grippe

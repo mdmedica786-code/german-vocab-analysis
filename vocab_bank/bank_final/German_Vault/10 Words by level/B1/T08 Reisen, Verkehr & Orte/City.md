@@ -34,6 +34,9 @@ status: "new"
 > Wir treffen uns in der City.
 > *We will meet in the city centre.*
 
+**Phrases & Expressions:**
+- **Wir treffen uns in der City** — *We will meet in the city centre* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

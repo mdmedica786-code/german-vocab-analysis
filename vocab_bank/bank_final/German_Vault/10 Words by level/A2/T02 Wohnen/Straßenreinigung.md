@@ -34,6 +34,9 @@ status: "new"
 > Die Straßenreinigung kommt jeden Morgen.
 > *The street cleaning comes every morning.*
 
+**Phrases & Expressions:**
+- **Die Straßenreinigung kommt jeden Morgen** — *The street cleaning comes every morning* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1a (Leben in der Stadt)
 <!-- bank:end -->
 

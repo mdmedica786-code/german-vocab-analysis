@@ -33,6 +33,11 @@ status: "new"
 > Das Regime wurde nach Jahren gestürzt.
 > *The regime was overthrown after years.*
 
+**Phrases & Expressions:**
+- **ein autoritäres Regime** — *regime*
+- **das Regime stürzen** — *regime*
+- **unter einem Regime leben** — *regime*
+
 **Collocations**
 - ein autoritäres Regime
 - das Regime stürzen

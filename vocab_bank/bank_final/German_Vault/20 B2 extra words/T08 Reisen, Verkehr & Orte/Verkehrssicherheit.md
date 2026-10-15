@@ -33,6 +33,11 @@ status: "new"
 > Die Verkehrssicherheit für Kinder muss verbessert werden.
 > *Road safety for children must be improved.*
 
+**Phrases & Expressions:**
+- **die Verkehrssicherheit erhöhen** — *road safety*
+- **für mehr Verkehrssicherheit sorgen** — *road safety*
+- **die Verkehrssicherheit gefährden** — *road safety*
+
 **Collocations**
 - die Verkehrssicherheit erhöhen
 - für mehr Verkehrssicherheit sorgen

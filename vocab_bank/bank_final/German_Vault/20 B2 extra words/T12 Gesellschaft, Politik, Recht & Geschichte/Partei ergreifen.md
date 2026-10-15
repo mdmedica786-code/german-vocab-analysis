@@ -26,6 +26,10 @@ status: "new"
 > Im Streit wollte sie für niemanden Partei ergreifen.
 > *In the argument she did not want to take sides for anyone.*
 
+**Phrases & Expressions:**
+- **Partei ergreifen für + Akk.** — *to take sides*
+- **Partei ergreifen gegen + Akk.** — *to take sides*
+
 **Collocations**
 - Partei ergreifen für + Akk.
 - Partei ergreifen gegen + Akk.

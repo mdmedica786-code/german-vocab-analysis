@@ -35,6 +35,9 @@ status: "new"
 > Möchten Sie ein Regal aus Holz oder aus Metall?
 > *Would you like a shelf made of wood or metal?*
 
+**Phrases & Expressions:**
+- **Es ist aus Holz/Metall/Plastik und ziemlich leicht.** — It is made of wood/metal/plastic and quite light. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ding beschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K9 10a (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

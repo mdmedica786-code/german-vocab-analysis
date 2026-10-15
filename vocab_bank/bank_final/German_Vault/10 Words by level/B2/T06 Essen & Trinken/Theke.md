@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Bitte zahlen Sie an der Theke.
 > *Please pay at the counter.*
+
+**Phrases & Expressions:**
+- **Bitte zahlen Sie an der Theke** — *Please pay at the counter* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

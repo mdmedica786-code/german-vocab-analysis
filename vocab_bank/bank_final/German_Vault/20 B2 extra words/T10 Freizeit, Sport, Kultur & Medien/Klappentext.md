@@ -33,6 +33,11 @@ status: "new"
 > Der Klappentext macht neugierig auf das Buch.
 > *The blurb makes you curious about the book.*
 
+**Phrases & Expressions:**
+- **den Klappentext lesen** — *blurb*
+- **ein knapper Klappentext** — *blurb*
+- **auf dem Klappentext** — *blurb*
+
 **Collocations**
 - den Klappentext lesen
 - ein knapper Klappentext

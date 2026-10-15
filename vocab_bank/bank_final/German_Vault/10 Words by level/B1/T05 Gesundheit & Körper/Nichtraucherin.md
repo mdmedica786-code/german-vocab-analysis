@@ -34,6 +34,9 @@ status: "new"
 > Ich bin Nichtraucherin.
 > *I am a non-smoker.*
 
+**Phrases & Expressions:**
+- **Ich bin Nichtraucherin** — *I am a non-smoker* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

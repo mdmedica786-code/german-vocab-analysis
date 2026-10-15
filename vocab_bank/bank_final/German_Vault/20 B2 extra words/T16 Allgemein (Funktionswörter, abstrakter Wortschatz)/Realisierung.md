@@ -33,6 +33,11 @@ status: "new"
 > Die Realisierung des Projekts dauert zwei Jahre.
 > *The realisation of the project takes two years.*
 
+**Phrases & Expressions:**
+- **die Realisierung eines Plans** — *realisation; implementation*
+- **zur Realisierung** — *realisation; implementation*
+- **die Realisierung von Zielen** — *realisation; implementation*
+
 **Collocations**
 - die Realisierung eines Plans
 - zur Realisierung

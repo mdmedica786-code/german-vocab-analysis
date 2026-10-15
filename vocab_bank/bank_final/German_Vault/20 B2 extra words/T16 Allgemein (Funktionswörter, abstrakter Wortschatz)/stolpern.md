@@ -32,6 +32,11 @@ status: "new"
 > Sie stolperte über eine Wurzel und fiel hin.
 > *She tripped over a root and fell.*
 
+**Phrases & Expressions:**
+- **über etwas stolpern** — *to stumble; to trip*
+- **beim Gehen stolpern** — *to stumble; to trip*
+- **über die eigenen Füße stolpern** — *to stumble; to trip*
+
 **Collocations**
 - über etwas stolpern
 - beim Gehen stolpern

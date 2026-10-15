@@ -33,6 +33,9 @@ status: "new"
 > Ich ziehe Tee dem Kaffee vor.
 > *I prefer tea to coffee.*
 
+**Phrases & Expressions:**
+- **Der Schmerz zieht bis in den linken Arm.** — The pain radiates into the left arm. *([[FSP-03 Schmerzanamnese|Patient: Ausstrahlung nennen]] · B1)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Kennst du den Film "Der Club der roten Bänder"?
 > *Do you know the film "Club of the red ribbons"?*
 
+**Phrases & Expressions:**
+- **Kennst du den Film "Der Club der roten Bänder"** — *Do you know the film "Club of the red ribbons"* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12b (Immer online?) · Goethe word list A2
 <!-- bank:end -->
 

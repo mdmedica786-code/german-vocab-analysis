@@ -31,6 +31,9 @@ status: "new"
 > Bist du verrückt geworden?!
 > *Have you gone mad?!*
 
+**Phrases & Expressions:**
+- **Bist du verrückt geworden** — *Have you gone mad* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 10d (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Stamm des Baumes ist sehr dick.
 > *The trunk of the tree is very thick.*
+
+**Phrases & Expressions:**
+- **Der Stamm des Baumes ist sehr dick** — *The trunk of the tree is very thick* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -30,6 +30,9 @@ status: "new"
 > Mit dem Konjunktiv II drückt man irreale Wünsche aus.
 > *With the subjunctive II you express unreal wishes.*
 
+**Phrases & Expressions:**
+- **Mit dem Konjunktiv II drückt man irreale Wünsche aus** — *With the subjunctive II you express unreal wishes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 5a (Arbeitswelt)
 <!-- bank:end -->
 

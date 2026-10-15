@@ -29,6 +29,11 @@ status: "new"
 > Das finde ich ungerecht.
 > *I think that is unfair.*
 
+**Phrases & Expressions:**
+- **ungerecht behandeln** — *unfair; unjust*
+- **ungerecht sein** — *unfair; unjust*
+- **eine ungerechte Entscheidung** — *unfair; unjust*
+
 **Collocations**
 - ungerecht behandeln
 - ungerecht sein

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Hose braucht einen Gürtel.
 > *The trousers need a belt.*
+
+**Phrases & Expressions:**
+- **Die Hose braucht einen Gürtel** — *The trousers need a belt* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

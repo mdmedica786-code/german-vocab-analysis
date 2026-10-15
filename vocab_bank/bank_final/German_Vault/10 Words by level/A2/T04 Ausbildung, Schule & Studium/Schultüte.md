@@ -34,6 +34,9 @@ status: "new"
 > Zur Einschulung bekommt jedes Kind eine Schultüte.
 > *Every child gets a school cone at the start of school.*
 
+**Phrases & Expressions:**
+- **Zur Einschulung bekommt jedes Kind eine Schultüte** — *Every child gets a school cone at the start of school* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle)
 <!-- bank:end -->
 

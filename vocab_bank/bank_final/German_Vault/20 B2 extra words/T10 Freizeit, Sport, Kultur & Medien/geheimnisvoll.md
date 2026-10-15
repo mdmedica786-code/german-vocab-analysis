@@ -29,6 +29,11 @@ status: "new"
 > Aus dem Wald kam ein geheimnisvolles Geräusch.
 > *A mysterious noise came from the forest.*
 
+**Phrases & Expressions:**
+- **ein geheimnisvolles Lächeln** — *mysterious*
+- **geheimnisvoll tun** — *mysterious*
+- **geheimnisvoll klingen** — *mysterious*
+
 **Collocations**
 - ein geheimnisvolles Lächeln
 - geheimnisvoll tun

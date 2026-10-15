@@ -33,6 +33,11 @@ status: "new"
 > Die neue Episode der Serie läuft heute Abend.
 > *The new episode of the series is on tonight.*
 
+**Phrases & Expressions:**
+- **eine Episode ansehen** — *episode*
+- **die letzte Episode** — *episode*
+- **eine kurze Episode** — *episode*
+
 **Collocations**
 - eine Episode ansehen
 - die letzte Episode

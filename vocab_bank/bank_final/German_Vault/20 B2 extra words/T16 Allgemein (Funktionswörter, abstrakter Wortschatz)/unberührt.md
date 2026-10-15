@@ -29,6 +29,11 @@ status: "new"
 > Die Natur ist hier noch unberührt.
 > *Nature here is still unspoiled.*
 
+**Phrases & Expressions:**
+- **unberührte Natur** — *untouched; unspoiled*
+- **unberührt bleiben** — *untouched; unspoiled*
+- **ein unberührter Strand** — *untouched; unspoiled*
+
 **Collocations**
 - unberührte Natur
 - unberührt bleiben

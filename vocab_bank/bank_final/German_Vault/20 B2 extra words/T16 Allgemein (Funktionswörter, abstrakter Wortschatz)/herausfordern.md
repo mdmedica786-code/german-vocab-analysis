@@ -32,6 +32,13 @@ status: "new"
 > Die neue Aufgabe fordert mich heraus.
 > *The new task challenges me.*
 
+**Phrases & Expressions:**
+- **es stellte sich heraus, dass ...** — it turned out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **es stellt sich heraus, dass ...** — it turns out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **jemanden herausfordern** — *to challenge; to provoke*
+- **zum Kampf herausfordern** — *to challenge; to provoke*
+- **das Schicksal herausfordern** — *to challenge; to provoke*
+
 **Collocations**
 - jemanden herausfordern
 - zum Kampf herausfordern

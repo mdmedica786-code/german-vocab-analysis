@@ -34,6 +34,9 @@ status: "new"
 > Das Wort „Auto“ beginnt mit einem Vokal.
 > *The word “Auto” begins with a vowel.*
 
+**Phrases & Expressions:**
+- **Das Wort „Auto“ beginnt mit einem Vokal** — *The word “Auto” begins with a vowel* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 5a (In Hamburg)
 <!-- bank:end -->
 

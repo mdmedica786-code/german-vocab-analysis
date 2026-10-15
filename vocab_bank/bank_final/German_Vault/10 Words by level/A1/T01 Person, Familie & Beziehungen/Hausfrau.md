@@ -35,6 +35,9 @@ status: "new"
 > Die Hausfrau/der Hausmann wäscht, kocht und kauft ein.
 > *The housewife/househusband does the washing, cooks and goes shopping.*
 
+**Phrases & Expressions:**
+- **Die Hausfrau/der Hausmann wäscht, kocht und kauft ein** — *The housewife/househusband does the washing, cooks and goes shopping* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 1b ÜB (Wie die Zeit vergeht!) · Goethe word list A1
 <!-- bank:end -->
 

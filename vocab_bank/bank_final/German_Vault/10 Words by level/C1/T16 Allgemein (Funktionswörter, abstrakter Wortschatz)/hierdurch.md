@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Hierdurch sparen wir viel Zeit.
 > *This way we save a lot of time.*
+
+**Phrases & Expressions:**
+- **Hierdurch sparen wir viel Zeit** — *This way we save a lot of time* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

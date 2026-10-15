@@ -35,6 +35,9 @@ status: "new"
 > Der Bundeskanzler hält eine Rede.
 > *The Federal Chancellor gives a speech.*
 
+**Phrases & Expressions:**
+- **Der Bundeskanzler hält eine Rede** — *The Federal Chancellor gives a speech* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

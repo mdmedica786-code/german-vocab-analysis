@@ -36,6 +36,9 @@ status: "new"
 > Für das Konzert am Sonntag gibt es noch Karten.
 > **
 
+**Phrases & Expressions:**
+- **Für das Konzert am Sonntag gibt es noch Karten** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

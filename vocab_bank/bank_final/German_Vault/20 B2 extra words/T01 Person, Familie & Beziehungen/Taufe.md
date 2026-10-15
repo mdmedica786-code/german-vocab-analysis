@@ -33,6 +33,11 @@ status: "new"
 > Zur Taufe des Babys sind alle Verwandten gekommen.
 > *All relatives came to the baby's christening.*
 
+**Phrases & Expressions:**
+- **die Taufe feiern** — *baptism; christening*
+- **zur Taufe einladen** — *baptism; christening*
+- **ein Kind taufen lassen** — *baptism; christening*
+
 **Collocations**
 - die Taufe feiern
 - zur Taufe einladen

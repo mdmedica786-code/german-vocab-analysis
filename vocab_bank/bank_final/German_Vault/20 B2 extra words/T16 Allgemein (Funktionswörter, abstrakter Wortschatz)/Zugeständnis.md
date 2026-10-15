@@ -33,6 +33,11 @@ status: "new"
 > Beide Seiten machten Zugeständnisse.
 > *Both sides made concessions.*
 
+**Phrases & Expressions:**
+- **Zugeständnisse machen** — *concession*
+- **ein Zugeständnis an + Akk.** — *concession*
+- **auf Zugeständnissen bestehen** — *concession*
+
 **Collocations**
 - Zugeständnisse machen
 - ein Zugeständnis an + Akk.

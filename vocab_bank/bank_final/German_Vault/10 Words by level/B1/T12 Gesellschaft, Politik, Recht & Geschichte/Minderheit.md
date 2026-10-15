@@ -35,6 +35,9 @@ status: "new"
 > Frauen sind in unserer Firma in der Minderheit.
 > *Women are in the minority in our company.*
 
+**Phrases & Expressions:**
+- **Frauen sind in unserer Firma in der Minderheit** — *Women are in the minority in our company* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

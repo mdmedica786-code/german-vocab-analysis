@@ -33,6 +33,11 @@ status: "new"
 > Bei Sonnenschein gehen wir an den See.
 > *When the sun is shining we go to the lake.*
 
+**Phrases & Expressions:**
+- **bei Sonnenschein** — *sunshine*
+- **strahlender Sonnenschein** — *sunshine*
+- **viel Sonnenschein** — *sunshine*
+
 **Collocations**
 - bei Sonnenschein
 - strahlender Sonnenschein

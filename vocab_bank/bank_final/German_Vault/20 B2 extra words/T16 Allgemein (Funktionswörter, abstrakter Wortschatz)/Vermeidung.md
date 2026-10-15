@@ -33,6 +33,11 @@ status: "new"
 > Die Vermeidung von Abfall ist ein wichtiges Ziel.
 > *The avoidance of waste is an important goal.*
 
+**Phrases & Expressions:**
+- **zur Vermeidung von** — *avoidance; prevention*
+- **die Vermeidung von Fehlern** — *avoidance; prevention*
+- **Vermeidung und Verwertung** — *avoidance; prevention*
+
 **Collocations**
 - zur Vermeidung von
 - die Vermeidung von Fehlern

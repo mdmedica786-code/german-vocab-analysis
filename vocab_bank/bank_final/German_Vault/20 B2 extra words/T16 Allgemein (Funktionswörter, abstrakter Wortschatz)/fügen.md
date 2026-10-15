@@ -31,6 +31,11 @@ status: "new"
 > Sie fügten die Bretter zu einem Regal zusammen.
 > *They joined the boards together to make a shelf.*
 
+**Phrases & Expressions:**
+- **sich fügen** — *to join; to add; to comply*
+- **sich dem Schicksal fügen** — *to join; to add; to comply*
+- **Teile zusammenfügen** — *to join; to add; to comply*
+
 **Collocations**
 - sich fügen
 - sich dem Schicksal fügen

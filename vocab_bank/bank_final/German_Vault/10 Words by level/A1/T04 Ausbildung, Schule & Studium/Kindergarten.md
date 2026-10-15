@@ -35,6 +35,9 @@ status: "new"
 > Die kleine Laura geht schon in den Kindergarten.
 > *Little Laura already goes to kindergarten.*
 
+**Phrases & Expressions:**
+- **Die kleine Laura geht schon in den Kindergarten** — *Little Laura already goes to kindergarten* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

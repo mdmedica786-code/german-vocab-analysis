@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Ich wohne alleine in einer kleinen Wohnung.
 > *I live alone in a small flat.*
+
+**Phrases & Expressions:**
+- **Ich wohne alleine in einer kleinen Wohnung** — *I live alone in a small flat* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

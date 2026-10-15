@@ -33,6 +33,11 @@ status: "new"
 > Der Aufruf zur Hilfe wurde im Radio gesendet.
 > *The call for help was broadcast on the radio.*
 
+**Phrases & Expressions:**
+- **ein Aufruf zur Hilfe** — *appeal; call; summons*
+- **einen Aufruf starten** — *appeal; call; summons*
+- **ein Aufruf zum Boykott** — *appeal; call; summons*
+
 **Collocations**
 - ein Aufruf zur Hilfe
 - einen Aufruf starten

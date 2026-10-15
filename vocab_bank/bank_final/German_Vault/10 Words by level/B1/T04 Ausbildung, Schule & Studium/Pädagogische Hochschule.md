@@ -34,6 +34,9 @@ status: "new"
 > Lehrer studieren an der Pädagogischen Hochschule.
 > *Teachers study at the university of teacher education.*
 
+**Phrases & Expressions:**
+- **Lehrer studieren an der Pädagogischen Hochschule** — *Teachers study at the university of teacher education* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

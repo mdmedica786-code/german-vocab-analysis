@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Mein Coach hilft mir bei der Karriere.
 > *My coach helps me with my career.*
+
+**Phrases & Expressions:**
+- **Mein Coach hilft mir bei der Karriere** — *My coach helps me with my career* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

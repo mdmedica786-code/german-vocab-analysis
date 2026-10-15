@@ -33,6 +33,11 @@ status: "new"
 > Mit der Säge schneidet er das Brett zu.
 > *He cuts the board to size with the saw.*
 
+**Phrases & Expressions:**
+- **eine scharfe Säge** — *saw*
+- **mit der Säge schneiden** — *saw*
+- **Säge und Hammer** — *saw*
+
 **Collocations**
 - eine scharfe Säge
 - mit der Säge schneiden

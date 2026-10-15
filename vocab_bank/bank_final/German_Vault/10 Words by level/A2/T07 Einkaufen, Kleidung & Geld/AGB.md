@@ -34,6 +34,9 @@ status: "new"
 > Bitte lesen Sie die AGB vor dem Kauf.
 > *Please read the terms and conditions before buying.*
 
+**Phrases & Expressions:**
+- **Bitte lesen Sie die AGB vor dem Kauf** — *Please read the terms and conditions before buying* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

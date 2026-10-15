@@ -35,6 +35,9 @@ status: "new"
 > Wie hoch sind Ihre Ausgaben in einem Monat?
 > *How high are your expenses in a month?*
 
+**Phrases & Expressions:**
+- **Wie hoch sind Ihre Ausgaben in einem Monat** — *How high are your expenses in a month* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 2b (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

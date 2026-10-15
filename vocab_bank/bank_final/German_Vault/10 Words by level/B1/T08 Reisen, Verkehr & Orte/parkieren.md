@@ -35,6 +35,9 @@ status: "new"
 > Hier dürfen Sie nicht parkieren.
 > **
 
+**Phrases & Expressions:**
+- **Hier dürfen Sie nicht parkieren** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Bushaltestelle ist um die Ecke.
 > *The bus stop is around the corner.*
 
+**Phrases & Expressions:**
+- **Die Bushaltestelle ist um die Ecke** — *The bus stop is around the corner* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 12b (Gute Reise!)
 <!-- bank:end -->
 

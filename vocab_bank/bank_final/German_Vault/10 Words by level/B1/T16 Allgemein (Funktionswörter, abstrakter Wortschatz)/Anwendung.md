@@ -33,6 +33,12 @@ status: "new"
 > Die Anwendung der Salbe ist einfach.
 > *Applying the ointment is easy.*
 
+**Phrases & Expressions:**
+- **Anwendung finden** — *application; use*
+- **zur Anwendung kommen** — *application; use*
+- **Anwendung eines Medikaments** — *application; use*
+- **die richtige Anwendung** — *application; use*
+
 **Collocations**
 - Anwendung finden
 - zur Anwendung kommen

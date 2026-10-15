@@ -33,6 +33,11 @@ status: "new"
 > Bei Regen schalte ich den Scheibenwischer ein.
 > *When it rains I switch on the windscreen wiper.*
 
+**Phrases & Expressions:**
+- **den Scheibenwischer einschalten** — *windscreen wiper*
+- **die Scheibenwischer wechseln** — *windscreen wiper*
+- **der Scheibenwischer quietscht** — *windscreen wiper*
+
 **Collocations**
 - den Scheibenwischer einschalten
 - die Scheibenwischer wechseln

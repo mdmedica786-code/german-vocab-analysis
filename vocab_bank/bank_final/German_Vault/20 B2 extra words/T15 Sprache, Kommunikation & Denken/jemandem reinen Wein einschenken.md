@@ -26,6 +26,11 @@ status: "new"
 > Es ist Zeit, dir reinen Wein einzuschenken.
 > *It is time to tell you the plain truth.*
 
+**Phrases & Expressions:**
+- **reinen Wein einschenken** — *to tell someone the plain truth*
+- **endlich reinen Wein einschenken** — *to tell someone the plain truth*
+- **die Wahrheit sagen** — *to tell someone the plain truth*
+
 **Collocations**
 - reinen Wein einschenken
 - endlich reinen Wein einschenken

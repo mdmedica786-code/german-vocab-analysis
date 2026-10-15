@@ -31,6 +31,9 @@ status: "new"
 > Ich finde unseren Lehrer klasse.
 > **
 
+**Phrases & Expressions:**
+- **Ich finde unseren Lehrer klasse** — ** *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -31,6 +31,9 @@ status: "new"
 > Wir hatten Traumwetter im Urlaub.
 > *We had dream weather on holiday.*
 
+**Phrases & Expressions:**
+- **Wir hatten Traumwetter im Urlaub** — *We had dream weather on holiday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 11a (Umweltfreundlich?)
 <!-- bank:end -->
 

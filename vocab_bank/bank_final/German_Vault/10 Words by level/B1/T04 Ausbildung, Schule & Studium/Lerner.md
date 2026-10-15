@@ -34,6 +34,9 @@ status: "new"
 > Er ist ein fleißiger Lerner.
 > *He is a diligent learner.*
 
+**Phrases & Expressions:**
+- **Er ist ein fleißiger Lerner** — *He is a diligent learner* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Die Messe-Präsentation dauert zehn Minuten.
 > *The trade fair presentation lasts ten minutes.*
+
+**Phrases & Expressions:**
+- **Die Messe-Präsentation dauert zehn Minuten** — *The trade fair presentation lasts ten minutes* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

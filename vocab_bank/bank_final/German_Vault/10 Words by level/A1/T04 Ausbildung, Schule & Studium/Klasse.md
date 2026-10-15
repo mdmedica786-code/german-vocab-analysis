@@ -36,6 +36,9 @@ status: "new"
 > Die Lehrerin steht vor der Klasse.
 > *The teacher is standing in front of the class.*
 
+**Phrases & Expressions:**
+- **Die Lehrerin steht vor der Klasse** — *The teacher is standing in front of the class* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 1a ÜB (Nach der Schulzeit) · Goethe word list A1
 <!-- bank:end -->
 

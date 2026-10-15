@@ -31,6 +31,11 @@ status: "new"
 > Er verschloss die Tür sorgfältig.
 > *He locked the door carefully.*
 
+**Phrases & Expressions:**
+- **die Tür verschließen** — *to lock; to close; to shut*
+- **sich verschließen** — *to lock; to close; to shut*
+- **die Augen verschließen vor** — *to lock; to close; to shut*
+
 **Collocations**
 - die Tür verschließen
 - sich verschließen

@@ -35,6 +35,9 @@ status: "new"
 > Das ist meine Tochter Katharina.
 > *This is my daughter Katharina.*
 
+**Phrases & Expressions:**
+- **Das ist meine Tochter Katharina** — *This is my daughter Katharina* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 7b (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

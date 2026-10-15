@@ -34,6 +34,9 @@ status: "new"
 > Der Zauberer zeigt ein Kunststück.
 > *The magician performs a trick.*
 
+**Phrases & Expressions:**
+- **Der Zauberer zeigt ein Kunststück** — *The magician performs a trick* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 1a (Kunststücke)
 <!-- bank:end -->
 

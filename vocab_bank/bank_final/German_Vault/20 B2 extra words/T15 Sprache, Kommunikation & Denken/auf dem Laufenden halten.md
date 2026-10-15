@@ -26,6 +26,10 @@ status: "new"
 > Halten Sie mich bitte über die Entwicklung auf dem Laufenden.
 > *Please keep me informed about the development.*
 
+**Phrases & Expressions:**
+- **jemanden auf dem Laufenden halten** — *to keep informed*
+- **auf dem Laufenden sein** — *to keep informed*
+
 **Collocations**
 - jemanden auf dem Laufenden halten
 - auf dem Laufenden sein

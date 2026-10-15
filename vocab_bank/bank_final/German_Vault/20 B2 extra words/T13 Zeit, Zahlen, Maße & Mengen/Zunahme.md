@@ -33,6 +33,11 @@ status: "new"
 > Es gibt eine deutliche Zunahme der Online-Bestellungen.
 > *There is a clear increase in online orders.*
 
+**Phrases & Expressions:**
+- **eine starke Zunahme** — *increase; growth*
+- **Zunahme an Gewicht** — *increase; growth*
+- **die Zunahme der Fälle** — *increase; growth*
+
 **Collocations**
 - eine starke Zunahme
 - Zunahme an Gewicht

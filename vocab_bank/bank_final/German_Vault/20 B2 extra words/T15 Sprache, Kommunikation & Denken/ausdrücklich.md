@@ -29,6 +29,11 @@ status: "new"
 > Das Rauchen ist hier ausdrücklich verboten.
 > *Smoking is expressly forbidden here.*
 
+**Phrases & Expressions:**
+- **ausdrücklich erlauben** — *explicit; expressly*
+- **ausdrücklich verboten** — *explicit; expressly*
+- **ausdrücklich betonen** — *explicit; expressly*
+
 **Collocations**
 - ausdrücklich erlauben
 - ausdrücklich verboten

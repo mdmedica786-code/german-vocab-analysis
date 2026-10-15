@@ -32,6 +32,11 @@ status: "new"
 > Die Polizei fahndet nach dem Täter.
 > *The police are searching for the perpetrator.*
 
+**Phrases & Expressions:**
+- **nach jemandem fahnden** — *to search (for a criminal)*
+- **öffentlich fahnden** — *to search (for a criminal)*
+- **Fahndung nach dem Täter** — *to search (for a criminal)*
+
 **Collocations**
 - nach jemandem fahnden
 - öffentlich fahnden

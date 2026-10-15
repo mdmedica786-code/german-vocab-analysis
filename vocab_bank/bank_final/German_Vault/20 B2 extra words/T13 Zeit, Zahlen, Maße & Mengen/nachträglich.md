@@ -29,6 +29,11 @@ status: "new"
 > Ich möchte Ihnen nachträglich zum Geburtstag gratulieren.
 > *I would like to wish you a belated happy birthday.*
 
+**Phrases & Expressions:**
+- **nachträglich gratulieren** — *subsequent; belated; afterwards*
+- **nachträglich ändern** — *subsequent; belated; afterwards*
+- **eine nachträgliche Änderung** — *subsequent; belated; afterwards*
+
 **Collocations**
 - nachträglich gratulieren
 - nachträglich ändern

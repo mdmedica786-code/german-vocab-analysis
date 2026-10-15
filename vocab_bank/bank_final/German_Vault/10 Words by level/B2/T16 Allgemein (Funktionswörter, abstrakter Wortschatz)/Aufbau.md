@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Aufbau des Textes ist logisch.
 > *The structure of the text is logical.*
+
+**Phrases & Expressions:**
+- **Der Aufbau des Textes ist logisch** — *The structure of the text is logical* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -35,6 +35,9 @@ status: "new"
 > Ali hat eine gute Aussprache.
 > *Ali has good pronunciation.*
 
+**Phrases & Expressions:**
+- **Ali hat eine gute Aussprache** — *Ali has good pronunciation* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 3c (Arbeitsalltag) · Goethe word list B1
 <!-- bank:end -->
 

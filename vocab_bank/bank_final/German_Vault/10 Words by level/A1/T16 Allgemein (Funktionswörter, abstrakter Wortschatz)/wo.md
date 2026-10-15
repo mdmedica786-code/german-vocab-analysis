@@ -32,6 +32,14 @@ status: "new"
 > Wo wohnen Sie?
 > *Where do you live?*
 
+**Phrases & Expressions:**
+- **dort, wo ...** — there where ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **ich weiß nicht, wo ...** — I don't know where ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · A2)*
+- **Wo treffen wir uns?** — Where shall we meet? *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Treffpunkt festlegen]] · B1)*
+- **Entschuldigen Sie bitte, wo ist ...?** — Excuse me, where is ...? *([[B1-07 Bitten und höflich nachfragen|Höflich ansprechen]] · B1)*
+- **Wo genau findet die Feier statt?** — Where exactly is the party taking place? *([[B1-18 Einladen, zusagen und absagen|Rückfrage stellen]] · B1)*
+- **Wo kann ich diesen Antrag abgeben?** — Where can I hand in this application? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Behörde: Antrag stellen]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 3b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

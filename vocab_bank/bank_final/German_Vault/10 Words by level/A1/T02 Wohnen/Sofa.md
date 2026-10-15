@@ -35,6 +35,9 @@ status: "new"
 > Das Sofa ist neu.
 > *The sofa is new.*
 
+**Phrases & Expressions:**
+- **Das Sofa ist neu** — *The sofa is new* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

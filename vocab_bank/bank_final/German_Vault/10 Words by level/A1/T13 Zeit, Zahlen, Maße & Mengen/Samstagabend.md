@@ -34,6 +34,9 @@ status: "new"
 > Am Samstagabend gehen wir ins Theater.
 > *On Saturday evening we're going to the theatre.*
 
+**Phrases & Expressions:**
+- **Am Samstagabend gehen wir ins Theater** — *On Saturday evening we're going to the theatre* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 5c (Meine Wohnung)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Die Kinder feierten ausgelassen Geburtstag.
 > *The children celebrated their birthday boisterously.*
 
+**Phrases & Expressions:**
+- **ausgelassen feiern** — *exuberant; boisterous*
+- **ausgelassene Stimmung** — *exuberant; boisterous*
+- **ausgelassen lachen** — *exuberant; boisterous*
+
 **Collocations**
 - ausgelassen feiern
 - ausgelassene Stimmung

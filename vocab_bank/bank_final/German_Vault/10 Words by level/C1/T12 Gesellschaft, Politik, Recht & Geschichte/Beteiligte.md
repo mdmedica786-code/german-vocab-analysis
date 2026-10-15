@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Alle Beteiligten wurden informiert.
 > *All parties involved were informed.*
+
+**Phrases & Expressions:**
+- **Alle Beteiligten wurden informiert** — *All parties involved were informed* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

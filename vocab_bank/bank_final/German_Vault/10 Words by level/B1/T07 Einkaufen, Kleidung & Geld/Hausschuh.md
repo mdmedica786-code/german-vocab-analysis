@@ -34,6 +34,9 @@ status: "new"
 > Zu Hause trage ich immer Hausschuhe.
 > *At home I always wear slippers.*
 
+**Phrases & Expressions:**
+- **Zu Hause trage ich immer Hausschuhe** — *At home I always wear slippers* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

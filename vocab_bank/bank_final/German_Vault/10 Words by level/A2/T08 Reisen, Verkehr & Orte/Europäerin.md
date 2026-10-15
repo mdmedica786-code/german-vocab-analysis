@@ -34,6 +34,9 @@ status: "new"
 > Die Europäerin lebt seit Jahren in Kanada.
 > *The European woman has lived in Canada for years.*
 
+**Phrases & Expressions:**
+- **Die Europäerin lebt seit Jahren in Kanada** — *The European woman has lived in Canada for years* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

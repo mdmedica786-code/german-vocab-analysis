@@ -31,6 +31,9 @@ status: "new"
 > Der Theatermacher plant ein neues Stück.
 > *The theatre maker is planning a new play.*
 
+**Phrases & Expressions:**
+- **Der Theatermacher plant ein neues Stück** — *The theatre maker is planning a new play* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7b (Kunststücke)
 <!-- bank:end -->
 

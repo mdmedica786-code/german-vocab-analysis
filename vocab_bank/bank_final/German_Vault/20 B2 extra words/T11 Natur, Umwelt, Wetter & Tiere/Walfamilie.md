@@ -30,6 +30,11 @@ status: "new"
 > Die Walfamilie schwamm langsam an dem Boot vorbei.
 > *The family of whales swam slowly past the boat.*
 
+**Phrases & Expressions:**
+- **eine Walfamilie beobachten** — *whale family; pod of whales*
+- **eine große Walfamilie** — *whale family; pod of whales*
+- **die Walfamilie begleiten** — *whale family; pod of whales*
+
 **Collocations**
 - eine Walfamilie beobachten
 - eine große Walfamilie

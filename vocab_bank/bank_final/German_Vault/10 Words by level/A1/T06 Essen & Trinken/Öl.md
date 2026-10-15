@@ -34,6 +34,9 @@ status: "new"
 > Zum Braten nehme ich Olivenöl.
 > *For frying I use olive oil.*
 
+**Phrases & Expressions:**
+- **Zum Braten nehme ich Olivenöl** — *For frying I use olive oil* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!)
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > Ich bin in Zagreb geboren.
 > **
 
+**Phrases & Expressions:**
+- **Sind Sie Frau ..., geboren am ...?** — Are you Mrs ..., born on ...? *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Identität prüfen]] · B1)*
+
 **Source:** Netzwerk neu A2 K1 1b (Und was machst du?) · Goethe word list A1
 <!-- bank:end -->
 

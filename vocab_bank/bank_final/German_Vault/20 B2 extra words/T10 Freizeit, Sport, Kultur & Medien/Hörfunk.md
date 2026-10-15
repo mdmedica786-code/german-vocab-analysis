@@ -33,6 +33,11 @@ status: "new"
 > Der Hörfunk erreicht auch Menschen ohne Internet.
 > *Radio broadcasting also reaches people without the internet.*
 
+**Phrases & Expressions:**
+- **im Hörfunk** — *radio (broadcasting)*
+- **Hörfunk und Fernsehen** — *radio (broadcasting)*
+- **im Hörfunk senden** — *radio (broadcasting)*
+
 **Collocations**
 - im Hörfunk
 - Hörfunk und Fernsehen

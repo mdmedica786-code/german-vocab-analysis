@@ -30,6 +30,9 @@ status: "new"
 > Das ist ein biologischer Prozess.
 > *That is a biological process.*
 
+**Phrases & Expressions:**
+- **Das ist ein biologischer Prozess** — *That is a biological process* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 2 ÜB (Veränderungen)
 <!-- bank:end -->
 

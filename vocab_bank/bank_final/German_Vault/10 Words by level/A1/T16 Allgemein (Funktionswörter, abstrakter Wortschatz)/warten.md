@@ -34,6 +34,9 @@ status: "new"
 > Können Sie ein paar Minuten warten?
 > *Can you wait a few minutes?*
 
+**Phrases & Expressions:**
+- **Bitte warten Sie im Wartebereich, ein Kollege kommt gleich zu Ihnen.** — Please wait in the waiting area; a colleague will come to you shortly. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Angehörige informieren]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 7a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

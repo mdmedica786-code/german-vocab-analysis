@@ -33,6 +33,11 @@ status: "new"
 > Die Tarifverhandlungen werden nächste Woche fortgesetzt.
 > *The collective bargaining talks will continue next week.*
 
+**Phrases & Expressions:**
+- **Tarifverhandlungen führen** — *collective bargaining (talks)*
+- **Tarifverhandlungen scheitern** — *collective bargaining (talks)*
+- **in Tarifverhandlungen** — *collective bargaining (talks)*
+
 **Collocations**
 - Tarifverhandlungen führen
 - Tarifverhandlungen scheitern

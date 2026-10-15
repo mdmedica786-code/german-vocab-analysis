@@ -32,6 +32,14 @@ status: "new"
 > Wer bestimmt, wohin wir fahren?
 > *Who decides where we are going?*
 
+**Phrases & Expressions:**
+- **bestimmt nicht** — surely not *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B1)*
+- **Ist der Schmerz zu bestimmten Tageszeiten stärker?** — Is the pain stronger at certain times of day? *([[FSP-03 Schmerzanamnese|Tageszeit erfragen]] · B1)*
+- **Vertragen Sie bestimmte Medikamente oder Lebensmittel nicht?** — Are there certain medicines or foods that you don't tolerate? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Unverträglichkeiten erfragen]] · B2)*
+- **die Richtung bestimmen** — *to determine; to decide*
+- **über etwas bestimmen** — *to determine; to decide*
+- **den Preis bestimmen** — *to determine; to decide*
+
 **Collocations**
 - die Richtung bestimmen
 - über etwas bestimmen

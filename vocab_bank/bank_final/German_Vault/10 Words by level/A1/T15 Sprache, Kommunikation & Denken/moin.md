@@ -31,6 +31,9 @@ status: "new"
 > Moin! Schönes Wetter heute.
 > *Hi! Nice weather today.*
 
+**Phrases & Expressions:**
+- **Moin! Schönes Wetter heute** — *Hi! Nice weather today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 2a (In Hamburg)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Bitte geben Sie in Ihrer Arbeit alle Quellen an.
 > *Please state all sources in your paper.*
 
+**Phrases & Expressions:**
+- **eine zuverlässige Quelle** — *source; spring*
+- **Quellen angeben** — *source; spring*
+- **aus sicherer Quelle** — *source; spring*
+
 **Collocations**
 - eine zuverlässige Quelle
 - Quellen angeben

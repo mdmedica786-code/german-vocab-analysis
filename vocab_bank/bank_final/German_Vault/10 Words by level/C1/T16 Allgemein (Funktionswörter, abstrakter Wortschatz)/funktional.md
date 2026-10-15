@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Das Büro ist modern und funktional eingerichtet.
 > *The office is furnished in a modern and functional way.*
+
+**Phrases & Expressions:**
+- **Das Büro ist modern und funktional eingerichtet** — *The office is furnished in a modern and functional way* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -29,6 +29,10 @@ status: "new"
 > Sie macht keinen Hehl aus ihrer Enttäuschung.
 > *She makes no secret of her disappointment.*
 
+**Phrases & Expressions:**
+- **keinen Hehl daraus machen** — *to make no secret of something*
+- **offen zeigen** — *to make no secret of something*
+
 **Collocations**
 - keinen Hehl daraus machen
 - offen zeigen

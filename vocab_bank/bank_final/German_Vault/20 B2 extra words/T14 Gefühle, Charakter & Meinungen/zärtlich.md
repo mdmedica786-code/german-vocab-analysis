@@ -29,6 +29,11 @@ status: "new"
 > Sie streichelte ihn zärtlich.
 > *She stroked him tenderly.*
 
+**Phrases & Expressions:**
+- **zärtlich küssen** — *tender; affectionate*
+- **zärtliche Worte** — *tender; affectionate*
+- **zärtlich sein** — *tender; affectionate*
+
 **Collocations**
 - zärtlich küssen
 - zärtliche Worte

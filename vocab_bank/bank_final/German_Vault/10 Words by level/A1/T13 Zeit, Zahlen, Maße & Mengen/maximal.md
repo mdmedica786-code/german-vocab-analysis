@@ -31,6 +31,9 @@ status: "new"
 > Wie lange braucht ein Brief? – Maximal zwei Tage.
 > *How long does a letter take? – Two days at most.*
 
+**Phrases & Expressions:**
+- **Wie lange braucht ein Brief? – Maximal zwei Tage** — *How long does a letter take? – Two days at most* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3a (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

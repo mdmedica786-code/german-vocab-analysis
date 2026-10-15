@@ -35,6 +35,14 @@ status: "new"
 > Hab keine Angst!
 > *Don't be afraid!*
 
+**Phrases & Expressions:**
+- **keine Angst** — don't be afraid *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · A2)*
+- **Angst vor ... haben** — to be afraid of ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · A2)*
+- **die Angst vor ...** — the fear of ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **Ich habe Angst davor, dass ...** — I am afraid that ... *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Angst ausdrücken]] · B1)*
+- **Haben Sie Ängste, die Ihnen Sorgen machen?** — Do you have fears that worry you? *([[FSP-06 Systemanamnese (Organsysteme)|Psyche und Schlaf]] · B2)*
+- **Es ist völlig verständlich, dass Sie jetzt Angst haben.** — It is completely understandable that you are afraid now. *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Gefühle ansprechen]] · B2)*
+
 **Source:** Netzwerk neu A2 K1 9c (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

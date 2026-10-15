@@ -33,6 +33,9 @@ status: "new"
 > Die Bauern bauen hier vor allem Mais an.
 > *The farmers mainly grow maize here.*
 
+**Phrases & Expressions:**
+- **Die Bauern bauen hier vor allem Mais an** — *The farmers mainly grow maize here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

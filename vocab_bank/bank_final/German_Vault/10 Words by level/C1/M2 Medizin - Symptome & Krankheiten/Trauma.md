@@ -33,6 +33,12 @@ status: "new"
 > Der Patient hat ein Trauma erlitten.
 > *The patient has suffered a trauma.*
 
+**Phrases & Expressions:**
+- **ein psychisches Trauma** — *trauma*
+- **ein Trauma erleiden** — *trauma*
+- **ein Trauma verarbeiten** — *trauma*
+- **ein schweres Trauma** — *trauma*
+
 **Collocations**
 - ein psychisches Trauma
 - ein Trauma erleiden

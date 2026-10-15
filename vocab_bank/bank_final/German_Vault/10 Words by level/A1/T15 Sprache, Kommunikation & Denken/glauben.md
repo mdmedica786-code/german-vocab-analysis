@@ -34,6 +34,14 @@ status: "new"
 > Ich glaube, es regnet bald.
 > *I think it will rain soon.*
 
+**Phrases & Expressions:**
+- **ich glaube, dass ...** — I think that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B1)*
+- **ich glaube nicht, dass ...** — I don't think that ... *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B1)*
+- **das glaube ich nicht** — I don't think so *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B1)*
+- **glauben, dass ...** — to believe that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B1)*
+- **glaubst du, dass ...?** — do you think that ...? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B1)*
+- **glauben Sie, dass ...?** — do you think that ...? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B1)*
+
 **Collocations**
 - das glaube ich nicht
 - an etwas glauben

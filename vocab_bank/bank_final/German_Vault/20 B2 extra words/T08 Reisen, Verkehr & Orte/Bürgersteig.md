@@ -33,6 +33,11 @@ status: "new"
 > Fahrräder dürfen nicht auf dem Bürgersteig fahren.
 > *Bicycles are not allowed to ride on the pavement.*
 
+**Phrases & Expressions:**
+- **auf dem Bürgersteig gehen** — *pavement; sidewalk*
+- **den Bürgersteig benutzen** — *pavement; sidewalk*
+- **der Bürgersteig ist schmal** — *pavement; sidewalk*
+
 **Collocations**
 - auf dem Bürgersteig gehen
 - den Bürgersteig benutzen

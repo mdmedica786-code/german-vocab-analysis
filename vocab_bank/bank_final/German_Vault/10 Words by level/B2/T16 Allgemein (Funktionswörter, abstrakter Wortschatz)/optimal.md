@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Bedingungen für das Projekt sind optimal.
 > *The conditions for the project are ideal.*
+
+**Phrases & Expressions:**
+- **Die Bedingungen für das Projekt sind optimal** — *The conditions for the project are ideal* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

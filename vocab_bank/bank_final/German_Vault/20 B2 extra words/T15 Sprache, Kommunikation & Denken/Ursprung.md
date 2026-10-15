@@ -33,6 +33,11 @@ status: "new"
 > Der Ursprung dieses Brauchs liegt im Mittelalter.
 > *The origin of this custom lies in the Middle Ages.*
 
+**Phrases & Expressions:**
+- **seinen Ursprung haben in + Dat.** — *origin; source*
+- **den Ursprung erforschen** — *origin; source*
+- **Ursprung des Wortes** — *origin; source*
+
 **Collocations**
 - seinen Ursprung haben in + Dat.
 - den Ursprung erforschen

@@ -35,6 +35,9 @@ status: "new"
 > Sie ist meine Partnerin.
 > *She is my partner.*
 
+**Phrases & Expressions:**
+- **Sie ist meine Partnerin** — *She is my partner* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 5b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

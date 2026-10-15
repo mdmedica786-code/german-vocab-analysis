@@ -35,6 +35,9 @@ status: "new"
 > Das Parlament hat ein neues Gesetz beschlossen.
 > *Parliament has passed a new law.*
 
+**Phrases & Expressions:**
+- **Das Parlament hat ein neues Gesetz beschlossen** — *Parliament has passed a new law* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8b (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der Benzinverbrauch des Autos ist sehr niedrig.
 > *The petrol consumption of the car is very low.*
 
+**Phrases & Expressions:**
+- **den Benzinverbrauch senken** — *petrol consumption; fuel consumption*
+- **ein hoher Benzinverbrauch** — *petrol consumption; fuel consumption*
+- **der Benzinverbrauch pro hundert Kilometer** — *petrol consumption; fuel consumption*
+
 **Collocations**
 - den Benzinverbrauch senken
 - ein hoher Benzinverbrauch

@@ -35,6 +35,9 @@ status: "new"
 > Vor unserem Haus ist eine große Baustelle.
 > *There is a large building site in front of our house.*
 
+**Phrases & Expressions:**
+- **Vor unserem Haus ist eine große Baustelle** — *There is a large building site in front of our house* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 1 ÜB (Studium und Beruf) · Goethe word list A2
 <!-- bank:end -->
 

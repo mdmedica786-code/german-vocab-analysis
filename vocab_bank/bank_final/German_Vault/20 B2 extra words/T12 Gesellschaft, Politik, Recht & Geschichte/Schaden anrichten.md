@@ -26,6 +26,10 @@ status: "new"
 > Der Sturm hat große Schäden angerichtet.
 > *The storm caused great damage.*
 
+**Phrases & Expressions:**
+- **großen Schaden anrichten** — *to cause damage*
+- **Unheil anrichten** — *to cause damage*
+
 **Collocations**
 - großen Schaden anrichten
 - Unheil anrichten

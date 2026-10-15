@@ -32,6 +32,12 @@ status: "new"
 > Das Hotel verfügt über einen großen Wellnessbereich.
 > *The hotel has a large wellness area.*
 
+**Phrases & Expressions:**
+- **Ich verfüge über Kenntnisse in ...** — I have knowledge of ... *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Qualifikationen nennen]] · B2)*
+- **über etwas verfügen** — *to have at one's disposal; to order*
+- **zur Verfügung stehen** — *to have at one's disposal; to order*
+- **verfügen, dass** — *to have at one's disposal; to order*
+
 **Collocations**
 - über etwas verfügen
 - zur Verfügung stehen

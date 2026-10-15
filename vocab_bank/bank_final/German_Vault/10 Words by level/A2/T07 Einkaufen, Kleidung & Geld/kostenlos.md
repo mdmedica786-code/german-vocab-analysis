@@ -31,6 +31,9 @@ status: "new"
 > Diese Zeitschrift kostet nichts. Sie ist kostenlos.
 > *This magazine costs nothing. It is free.*
 
+**Phrases & Expressions:**
+- **Diese Zeitschrift kostet nichts. Sie ist kostenlos** — *This magazine costs nothing. It is free* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 10d (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Welche Verkehrsmittel benutzen Sie oft?
 > *Which means of transport do you often use?*
 
+**Phrases & Expressions:**
+- **Welche Verkehrsmittel benutzen Sie oft** — *Which means of transport do you often use* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1a (Leben in der Stadt) · Goethe word list A2
 <!-- bank:end -->
 

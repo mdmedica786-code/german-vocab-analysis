@@ -33,6 +33,11 @@ status: "new"
 > Er steht auf der Rangliste auf Platz drei.
 > *He is in third place in the ranking.*
 
+**Phrases & Expressions:**
+- **die Rangliste anführen** — *ranking; league table*
+- **auf der Rangliste stehen** — *ranking; league table*
+- **eine Rangliste erstellen** — *ranking; league table*
+
 **Collocations**
 - die Rangliste anführen
 - auf der Rangliste stehen

@@ -31,6 +31,11 @@ status: "new"
 > Man kann das Gedicht auf zwei Arten interpretieren.
 > *One can interpret the poem in two ways.*
 
+**Phrases & Expressions:**
+- **ein Gedicht interpretieren** — *to interpret*
+- **falsch interpretieren** — *to interpret*
+- **Daten interpretieren** — *to interpret*
+
 **Collocations**
 - ein Gedicht interpretieren
 - falsch interpretieren

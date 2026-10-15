@@ -31,6 +31,9 @@ status: "new"
 > Ibrahim ist sehr fleißig. Er macht immer seine Hausaufgaben.
 > *Ibrahim is very hardworking. He always does his homework.*
 
+**Phrases & Expressions:**
+- **Ibrahim ist sehr fleißig. Er macht immer seine Hausaufgaben** — *Ibrahim is very hardworking. He always does his homework* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 3a (Studium und Beruf) · Goethe word list A2
 <!-- bank:end -->
 

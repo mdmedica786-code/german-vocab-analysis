@@ -29,6 +29,12 @@ status: "new"
 > Ich koche, und währenddessen deckst du den Tisch.
 > *I am cooking, and meanwhile you set the table.*
 
+**Phrases & Expressions:**
+- **Bitte sprechen Sie währenddessen nicht und bleiben Sie ruhig sitzen.** — Please don't speak meanwhile and sit still. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Blutdruck messen]] · B1)*
+- **währenddessen passieren** — *meanwhile; in the meantime*
+- **währenddessen warten** — *meanwhile; in the meantime*
+- **und währenddessen** — *meanwhile; in the meantime*
+
 **Collocations**
 - währenddessen passieren
 - währenddessen warten

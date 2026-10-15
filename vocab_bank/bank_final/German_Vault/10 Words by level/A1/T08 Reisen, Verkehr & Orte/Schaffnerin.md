@@ -34,6 +34,9 @@ status: "new"
 > Die Schaffnerin ruft die nächste Station aus.
 > *The conductor announces the next station.*
 
+**Phrases & Expressions:**
+- **Die Schaffnerin ruft die nächste Station aus** — *The conductor announces the next station* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7a (Ab in den Urlaub!)
 <!-- bank:end -->
 

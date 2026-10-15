@@ -33,6 +33,11 @@ status: "new"
 > Der Ausfall der Heizung dauerte zwei Tage.
 > *The failure of the heating lasted two days.*
 
+**Phrases & Expressions:**
+- **der Ausfall eines Geräts** — *failure; cancellation; loss*
+- **Ausfall der Veranstaltung** — *failure; cancellation; loss*
+- **Ausfälle melden** — *failure; cancellation; loss*
+
 **Collocations**
 - der Ausfall eines Geräts
 - Ausfall der Veranstaltung

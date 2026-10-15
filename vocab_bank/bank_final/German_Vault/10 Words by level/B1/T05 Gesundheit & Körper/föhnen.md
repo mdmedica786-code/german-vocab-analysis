@@ -32,6 +32,9 @@ status: "new"
 > Ich föhne mir jeden Morgen die Haare.
 > *I blow-dry my hair every morning.*
 
+**Phrases & Expressions:**
+- **Ich föhne mir jeden Morgen die Haare** — *I blow-dry my hair every morning* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 6a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

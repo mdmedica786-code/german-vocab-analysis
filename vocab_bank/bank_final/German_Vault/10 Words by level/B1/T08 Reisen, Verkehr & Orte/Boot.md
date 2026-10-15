@@ -35,6 +35,9 @@ status: "new"
 > An diesem See kann man Boote mieten.
 > *At this lake you can rent boats.*
 
+**Phrases & Expressions:**
+- **An diesem See kann man Boote mieten** — *At this lake you can rent boats* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 8b (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

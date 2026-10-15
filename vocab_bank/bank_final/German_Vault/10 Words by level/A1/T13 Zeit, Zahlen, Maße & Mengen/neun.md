@@ -31,6 +31,9 @@ status: "new"
 > Wir treffen uns um neun Uhr.
 > *We are meeting at nine o'clock.*
 
+**Phrases & Expressions:**
+- **Wir treffen uns um neun Uhr** — *We are meeting at nine o'clock* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

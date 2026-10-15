@@ -26,6 +26,11 @@ status: "new"
 > Einerseits ist die Stadt laut, andererseits gibt es viel Kultur.
 > *On the one hand the city is loud, on the other hand there is a lot of culture.*
 
+**Phrases & Expressions:**
+- **einerseits ... andererseits ...** — *on the one hand ... on the other hand ...*
+- **einerseits gut** — *on the one hand ... on the other hand ...*
+- **andererseits schlecht** — *on the one hand ... on the other hand ...*
+
 **Collocations**
 - einerseits ... andererseits ...
 - einerseits gut

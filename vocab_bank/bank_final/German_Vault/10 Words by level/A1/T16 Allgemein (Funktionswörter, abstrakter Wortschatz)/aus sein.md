@@ -33,6 +33,10 @@ status: "new"
 > Das Licht ist aus.
 > *The light is off.*
 
+**Phrases & Expressions:**
+- **Leider ist das Gerät bei der Lieferung beschädigt gewesen.** — Unfortunately the device was damaged on delivery. *([[B2-04 Beschwerde und Reklamation|Problem schildern]] · B2)*
+- **Das muss ein Fehler gewesen sein.** — That must have been a mistake. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Vermutung mit Modalverb]] · B2)*
+
 **Source:** Netzwerk neu A2 K1 9c (Und was machst du?) · Goethe word list A1
 <!-- bank:end -->
 

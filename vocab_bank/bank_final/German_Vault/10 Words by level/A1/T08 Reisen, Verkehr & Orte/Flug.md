@@ -35,6 +35,9 @@ status: "new"
 > Ich möchte einen Flug nach Kanada buchen.
 > *I would like to book a flight to Canada.*
 
+**Phrases & Expressions:**
+- **Ich möchte einen Flug nach Kanada buchen** — *I would like to book a flight to Canada* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 8b (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

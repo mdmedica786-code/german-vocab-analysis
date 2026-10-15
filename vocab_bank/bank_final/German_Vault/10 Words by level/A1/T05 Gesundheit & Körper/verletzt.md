@@ -30,6 +30,9 @@ status: "new"
 > Der Fahrer ist schwer verletzt.
 > *The driver is seriously injured.*
 
+**Phrases & Expressions:**
+- **Berichten zufolge sind mehrere Menschen verletzt worden.** — According to reports, several people have been injured. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Quelle distanziert wiedergeben]] · B2)*
+
 **Source:** Netzwerk neu A1 K8 8a (Fit und gesund)
 <!-- bank:end -->
 

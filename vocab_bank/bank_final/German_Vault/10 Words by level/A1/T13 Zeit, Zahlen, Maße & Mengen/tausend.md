@@ -28,6 +28,9 @@ status: "new"
 > [!info] Not in the study list
 > compound number word (follows the number system you already know)
 
+**Phrases & Expressions:**
+- **tausend Dank** — a thousand thanks *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A2)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

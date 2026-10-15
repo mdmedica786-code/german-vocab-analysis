@@ -33,6 +33,11 @@ status: "new"
 > Sie gehört zum Jahrgang 1990.
 > *She belongs to the 1990 age group.*
 
+**Phrases & Expressions:**
+- **der Jahrgang 1990** — *year group; birth year; vintage*
+- **ein guter Jahrgang** — *year group; birth year; vintage*
+- **der ganze Jahrgang** — *year group; birth year; vintage*
+
 **Collocations**
 - der Jahrgang 1990
 - ein guter Jahrgang

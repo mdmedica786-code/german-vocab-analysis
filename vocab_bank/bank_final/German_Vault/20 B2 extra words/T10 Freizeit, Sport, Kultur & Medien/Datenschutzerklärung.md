@@ -33,6 +33,11 @@ status: "new"
 > Bitte lesen Sie unsere Datenschutzerklärung, bevor Sie sich registrieren.
 > *Please read our privacy policy before you register.*
 
+**Phrases & Expressions:**
+- **der Datenschutzerklärung zustimmen** — *privacy policy*
+- **Datenschutzerklärung lesen** — *privacy policy*
+- **Datenschutzerklärung akzeptieren** — *privacy policy*
+
 **Collocations**
 - der Datenschutzerklärung zustimmen
 - Datenschutzerklärung lesen

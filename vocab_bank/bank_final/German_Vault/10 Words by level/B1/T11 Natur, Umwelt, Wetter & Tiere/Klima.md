@@ -35,6 +35,9 @@ status: "new"
 > Alle sagen, dass sich das Klima ändert.
 > *Everyone says the climate is changing.*
 
+**Phrases & Expressions:**
+- **Alle sagen, dass sich das Klima ändert** — *Everyone says the climate is changing* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

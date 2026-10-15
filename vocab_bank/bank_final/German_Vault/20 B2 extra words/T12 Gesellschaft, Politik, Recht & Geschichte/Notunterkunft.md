@@ -33,6 +33,11 @@ status: "new"
 > Die Flüchtlinge wurden in einer Notunterkunft untergebracht.
 > *The refugees were accommodated in an emergency shelter.*
 
+**Phrases & Expressions:**
+- **in einer Notunterkunft** — *emergency shelter*
+- **eine Notunterkunft einrichten** — *emergency shelter*
+- **Notunterkunft für Obdachlose** — *emergency shelter*
+
 **Collocations**
 - in einer Notunterkunft
 - eine Notunterkunft einrichten

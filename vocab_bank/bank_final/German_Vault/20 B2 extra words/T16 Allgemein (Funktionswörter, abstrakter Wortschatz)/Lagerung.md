@@ -33,6 +33,11 @@ status: "new"
 > Die richtige Lagerung verlängert die Haltbarkeit.
 > *Correct storage extends the shelf life.*
 
+**Phrases & Expressions:**
+- **die Lagerung von Lebensmitteln** — *storage*
+- **kühle Lagerung** — *storage*
+- **zur Lagerung** — *storage*
+
 **Collocations**
 - die Lagerung von Lebensmitteln
 - kühle Lagerung

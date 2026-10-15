@@ -32,6 +32,9 @@ status: "new"
 > Am Sonntag chille ich zu Hause.
 > *On Sunday I chill at home.*
 
+**Phrases & Expressions:**
+- **Am Sonntag chille ich zu Hause** — *On Sunday I chill at home* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7d (Ab in den Urlaub!)
 <!-- bank:end -->
 

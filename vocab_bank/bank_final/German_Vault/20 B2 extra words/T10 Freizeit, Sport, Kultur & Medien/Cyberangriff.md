@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Cyberangriff waren die Daten der Firma gesperrt.
 > *After the cyber attack the company's data was locked.*
 
+**Phrases & Expressions:**
+- **einen Cyberangriff abwehren** — *cyber attack*
+- **Opfer eines Cyberangriffs** — *cyber attack*
+- **Cyberangriff auf + Akk.** — *cyber attack*
+
 **Collocations**
 - einen Cyberangriff abwehren
 - Opfer eines Cyberangriffs

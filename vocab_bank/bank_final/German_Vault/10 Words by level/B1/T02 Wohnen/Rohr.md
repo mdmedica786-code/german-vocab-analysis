@@ -34,6 +34,9 @@ status: "new"
 > Das Rohr im Bad ist undicht.
 > *The pipe in the bathroom is leaking.*
 
+**Phrases & Expressions:**
+- **Das Rohr im Bad ist undicht** — *The pipe in the bathroom is leaking* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

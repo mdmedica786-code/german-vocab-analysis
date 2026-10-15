@@ -29,6 +29,11 @@ status: "new"
 > Bei dem Projekt arbeiten alle Abteilungen Hand in Hand.
 > *In the project all departments work hand in hand.*
 
+**Phrases & Expressions:**
+- **Hand in Hand arbeiten** — *hand in hand; in cooperation*
+- **Hand in Hand gehen** — *hand in hand; in cooperation*
+- **zusammen** — *hand in hand; in cooperation*
+
 **Collocations**
 - Hand in Hand arbeiten
 - Hand in Hand gehen

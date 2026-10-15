@@ -35,6 +35,11 @@ status: "new"
 > Von diesem Hotel hat man einen guten Blick auf den Rhein.
 > *From this hotel you have a good view of the Rhine.*
 
+**Phrases & Expressions:**
+- **auf den ersten Blick** — at first glance *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **mit Blick auf ...** — with a view to ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **ein Blick auf ...** — a look at ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B1)*
+
 **Source:** Netzwerk neu A1 K9 11a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

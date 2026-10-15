@@ -31,6 +31,14 @@ status: "new"
 > Ich war dabei, als das passiert ist.
 > *I was there when that happened.*
 
+**Phrases & Expressions:**
+- **Das Problem dabei ist, dass ...** — The problem with it is that ... *([[B1-04 Vor- und Nachteile nennen|Nachteil nennen]] · B1)*
+- **Besonders wichtig ist mir dabei ...** — What is especially important to me here is ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Schwerpunkt setzen]] · B1)*
+- **Sehr gern, ich bin dabei!** — Very gladly, I'm in! *([[B1-18 Einladen, zusagen und absagen|Zusagen]] · B1)*
+- **Schade, aber ich kann diesmal nicht dabei sein.** — Pity, but I can't be there this time. *([[B1-18 Einladen, zusagen und absagen|Mit Begründung absagen]] · B1)*
+- **Ist es in Ordnung, wenn eine Kollegin beim Gespräch dabei ist?** — Is it OK if a colleague is present during the conversation? *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Einverständnis einholen]] · B1)*
+- **Dabei handelt es sich um eine häufige Erkrankung.** — This is a common illness. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Diagnose erklären]] · B2)*
+
 **Collocations**
 - dabei sein
 - dabei helfen, zu ...

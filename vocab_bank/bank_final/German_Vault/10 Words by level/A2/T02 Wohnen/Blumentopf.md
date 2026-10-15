@@ -34,6 +34,9 @@ status: "new"
 > Der Blumentopf steht auf dem Fensterbrett.
 > *The flower pot stands on the windowsill.*
 
+**Phrases & Expressions:**
+- **Der Blumentopf steht auf dem Fensterbrett** — *The flower pot stands on the windowsill* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 5b (Zusammen leben)
 <!-- bank:end -->
 

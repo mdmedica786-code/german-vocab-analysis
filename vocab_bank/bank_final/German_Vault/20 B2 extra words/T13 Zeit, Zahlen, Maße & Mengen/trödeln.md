@@ -31,6 +31,11 @@ status: "new"
 > Trödel nicht so, wir kommen sonst zu spät!
 > *Don't dawdle, otherwise we'll be late!*
 
+**Phrases & Expressions:**
+- **nicht trödeln** — *to dawdle; to dither*
+- **beim Anziehen trödeln** — *to dawdle; to dither*
+- **herumtrödeln** — *to dawdle; to dither*
+
 **Collocations**
 - nicht trödeln
 - beim Anziehen trödeln

@@ -33,6 +33,11 @@ status: "new"
 > Der Islam ist eine große Weltreligion.
 > *Islam is a major world religion.*
 
+**Phrases & Expressions:**
+- **Christentum und Islam** — *Islam*
+- **der Islam in Europa** — *Islam*
+- **zum Islam konvertieren** — *Islam*
+
 **Collocations**
 - Christentum und Islam
 - der Islam in Europa

@@ -31,6 +31,9 @@ status: "new"
 > Mein Zimmernachbar im Krankenhaus schnarcht.
 > *My roommate in the hospital snores.*
 
+**Phrases & Expressions:**
+- **Mein Zimmernachbar im Krankenhaus schnarcht** — *My roommate in the hospital snores* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

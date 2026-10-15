@@ -31,6 +31,11 @@ status: "new"
 > Das Fleisch verdirbt in der Hitze schnell.
 > *The meat spoils quickly in the heat.*
 
+**Phrases & Expressions:**
+- **Lebensmittel verderben** — *to spoil; to go bad*
+- **die Laune verderben** — *to spoil; to go bad*
+- **den Appetit verderben** — *to spoil; to go bad*
+
 **Collocations**
 - Lebensmittel verderben
 - die Laune verderben

@@ -32,6 +32,9 @@ status: "new"
 > Schwimmst du gern? - Nein, nicht so gern.
 > *Do you like swimming? - No, not so much.*
 
+**Phrases & Expressions:**
+- **Schwimmst du gern? - Nein, nicht so gern** — *Do you like swimming? - No, not so much* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 2b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

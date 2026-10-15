@@ -33,6 +33,11 @@ status: "new"
 > Rolle den Teig mit dem Nudelholz dünn aus.
 > *Roll out the dough thinly with the rolling pin.*
 
+**Phrases & Expressions:**
+- **mit dem Nudelholz ausrollen** — *rolling pin*
+- **ein Nudelholz aus Holz** — *rolling pin*
+- **das Nudelholz bemehlen** — *rolling pin*
+
 **Collocations**
 - mit dem Nudelholz ausrollen
 - ein Nudelholz aus Holz

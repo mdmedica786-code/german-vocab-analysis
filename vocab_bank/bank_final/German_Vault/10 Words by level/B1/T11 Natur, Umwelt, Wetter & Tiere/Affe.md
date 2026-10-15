@@ -35,6 +35,9 @@ status: "new"
 > Der Affe klettert auf den Baum.
 > *The monkey climbs up the tree.*
 
+**Phrases & Expressions:**
+- **Der Affe klettert auf den Baum** — *The monkey climbs up the tree* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 5b (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

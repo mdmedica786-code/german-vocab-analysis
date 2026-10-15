@@ -32,6 +32,14 @@ status: "new"
 > Wer bist du?
 > *Who are you?*
 
+**Phrases & Expressions:**
+- **wer weiß** — who knows *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **wer weiß, was ...** — who knows what ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **ich weiß nicht, wer ...** — I don't know who ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · A2)*
+- **Wer kümmert sich um die Getränke?** — Who is taking care of the drinks? *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Aufgaben verteilen]] · B1)*
+- **Wer von Ihnen hat schon einmal ...?** — Who of you has ever ...? *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Publikum einbeziehen]] · B2)*
+- **Wer kümmert sich um Sie zu Hause?** — Who takes care of you at home? *([[FSP-22 Kinder, Eltern und ältere Patienten|Pflege und Angehörige]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 2a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

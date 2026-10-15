@@ -31,6 +31,11 @@ status: "new"
 > Die Band performt heute Abend ihre neuen Songs.
 > *The band performs its new songs this evening.*
 
+**Phrases & Expressions:**
+- **live performen** — *to perform (on stage); to perform (financially)*
+- **einen Song performen** — *to perform (on stage); to perform (financially)*
+- **gut performen** — *to perform (on stage); to perform (financially)*
+
 **Collocations**
 - live performen
 - einen Song performen

@@ -33,6 +33,11 @@ status: "new"
 > Die Passagiere standen auf dem Deck.
 > *The passengers were standing on the deck.*
 
+**Phrases & Expressions:**
+- **an Deck gehen** — *deck*
+- **das obere Deck** — *deck*
+- **auf dem Deck** — *deck*
+
 **Collocations**
 - an Deck gehen
 - das obere Deck

@@ -29,6 +29,11 @@ status: "new"
 > Sie widersprach dem Vorschlag energisch.
 > *She objected to the proposal firmly.*
 
+**Phrases & Expressions:**
+- **energisch widersprechen** — *energetic; firm; vigorous*
+- **energisch eingreifen** — *energetic; firm; vigorous*
+- **ein energischer Schritt** — *energetic; firm; vigorous*
+
 **Collocations**
 - energisch widersprechen
 - energisch eingreifen

@@ -33,6 +33,12 @@ status: "new"
 > Das Management hat die Pläne vorgestellt.
 > *The management presented the plans.*
 
+**Phrases & Expressions:**
+- **ins Management aufsteigen** — *management*
+- **das Management übernehmen** — *management*
+- **Zeitmanagement** — *management*
+- **Qualitätsmanagement** — *management*
+
 **Collocations**
 - ins Management aufsteigen
 - das Management übernehmen

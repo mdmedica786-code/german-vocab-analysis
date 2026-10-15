@@ -31,6 +31,11 @@ status: "new"
 > Die Täter entführten den Sohn des Unternehmers.
 > *The perpetrators kidnapped the entrepreneur's son.*
 
+**Phrases & Expressions:**
+- **jemanden entführen** — *to kidnap; to abduct*
+- **ein Flugzeug entführen** — *to kidnap; to abduct*
+- **entführt werden** — *to kidnap; to abduct*
+
 **Collocations**
 - jemanden entführen
 - ein Flugzeug entführen

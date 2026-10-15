@@ -33,6 +33,11 @@ status: "new"
 > Die Ausführung der Arbeiten dauert zwei Wochen.
 > *The execution of the work takes two weeks.*
 
+**Phrases & Expressions:**
+- **die Ausführung des Plans** — *execution; version; explanation*
+- **in zwei Ausführungen erhältlich** — *execution; version; explanation*
+- **Ausführungen machen** — *execution; version; explanation*
+
 **Collocations**
 - die Ausführung des Plans
 - in zwei Ausführungen erhältlich

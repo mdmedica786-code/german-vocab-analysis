@@ -34,6 +34,9 @@ status: "new"
 > Der Arzthelfer nimmt Blut ab.
 > *The doctor's assistant takes blood.*
 
+**Phrases & Expressions:**
+- **Der Arzthelfer nimmt Blut ab** — *The doctor's assistant takes blood* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 11b (Nach der Schulzeit)
 <!-- bank:end -->
 

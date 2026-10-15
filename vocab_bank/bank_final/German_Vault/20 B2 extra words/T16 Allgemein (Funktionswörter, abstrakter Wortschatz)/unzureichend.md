@@ -29,6 +29,11 @@ status: "new"
 > Die Informationen sind unzureichend.
 > *The information is insufficient.*
 
+**Phrases & Expressions:**
+- **unzureichend informiert** — *insufficient; inadequate*
+- **unzureichend sein** — *insufficient; inadequate*
+- **unzureichende Kenntnisse** — *insufficient; inadequate*
+
 **Collocations**
 - unzureichend informiert
 - unzureichend sein

@@ -34,6 +34,9 @@ status: "new"
 > Sie hat in der Castingshow gewonnen.
 > *She won the casting show.*
 
+**Phrases & Expressions:**
+- **Sie hat in der Castingshow gewonnen** — *She won the casting show* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

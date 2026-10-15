@@ -34,6 +34,9 @@ status: "new"
 > Solidarität ist in der Krise wichtig.
 > *Solidarity is important in a crisis.*
 
+**Phrases & Expressions:**
+- **Solidarität ist in der Krise wichtig** — *Solidarity is important in a crisis* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 11a (Miteinander)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Guten Appetit! - Mahlzeit!
 > *Enjoy your meal! - Enjoy your meal!*
 
+**Phrases & Expressions:**
+- **Guten Appetit! - Mahlzeit** — *Enjoy your meal! - Enjoy your meal* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 7b (Guten Appetit!) · Goethe word list B1
 <!-- bank:end -->
 

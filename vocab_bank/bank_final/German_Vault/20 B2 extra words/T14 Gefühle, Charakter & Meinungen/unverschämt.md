@@ -29,6 +29,11 @@ status: "new"
 > Es ist unverschämt, so spät noch anzurufen.
 > *It is outrageous to call so late.*
 
+**Phrases & Expressions:**
+- **unverschämt sein** — *impertinent; outrageous*
+- **unverschämte Preise** — *impertinent; outrageous*
+- **eine unverschämte Frage** — *impertinent; outrageous*
+
 **Collocations**
 - unverschämt sein
 - unverschämte Preise

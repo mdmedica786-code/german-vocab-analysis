@@ -35,6 +35,9 @@ status: "new"
 > Stell die Teller bitte auf den Tisch!
 > *Please put the plates on the table!*
 
+**Phrases & Expressions:**
+- **Stell die Teller bitte auf den Tisch** — *Please put the plates on the table* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 11c ÜB (Zeit mit Freunden) · Goethe word list A2
 <!-- bank:end -->
 

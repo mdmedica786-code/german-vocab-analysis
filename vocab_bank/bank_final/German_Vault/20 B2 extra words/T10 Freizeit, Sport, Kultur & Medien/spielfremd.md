@@ -26,6 +26,11 @@ status: "new"
 > Der Trainer wurde wegen eines spielfremden Verhaltens bestraft.
 > *The coach was punished for conduct unrelated to the game.*
 
+**Phrases & Expressions:**
+- **spielfremdes Verhalten** — *unrelated to the game; extraneous (in sport)*
+- **spielfremd sein** — *unrelated to the game; extraneous (in sport)*
+- **eine spielfremde Aktion** — *unrelated to the game; extraneous (in sport)*
+
 **Collocations**
 - spielfremdes Verhalten
 - spielfremd sein

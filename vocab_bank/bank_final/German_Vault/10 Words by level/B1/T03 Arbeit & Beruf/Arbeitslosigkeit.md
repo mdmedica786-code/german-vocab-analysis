@@ -35,6 +35,9 @@ status: "new"
 > Die Arbeitslosigkeit ist gesunken.
 > *Unemployment has fallen.*
 
+**Phrases & Expressions:**
+- **Die Arbeitslosigkeit ist gesunken** — *Unemployment has fallen* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 8b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

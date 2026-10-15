@@ -32,6 +32,11 @@ status: "new"
 > Er prahlt mit seinen Erfolgen.
 > *He boasts about his successes.*
 
+**Phrases & Expressions:**
+- **mit etwas prahlen** — *to boast; to brag*
+- **vor anderen prahlen** — *to boast; to brag*
+- **gern prahlen** — *to boast; to brag*
+
 **Collocations**
 - mit etwas prahlen
 - vor anderen prahlen

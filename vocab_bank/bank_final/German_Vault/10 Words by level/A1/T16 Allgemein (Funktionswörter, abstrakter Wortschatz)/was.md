@@ -33,6 +33,14 @@ status: "new"
 > Was ist das?
 > *What is that?*
 
+**Phrases & Expressions:**
+- **was ist los** — what's the matter? *([[Probleme - Beschwerden beschreiben (problem, symptom, complaint)|Probleme / Beschwerden beschreiben (problem, symptom, complaint)]] · A2)*
+- **was für ein ...** — what kind of a... *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A2)*
+- **was meinst du** — what do you think? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A2)*
+- **was ist mit ...?** — what about ...? *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · A2)*
+- **weißt du, was ...?** — do you know what ...? *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · A2)*
+- **keine Ahnung, was ...** — no idea what ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 1a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,9 @@ status: "new"
 > Die Aufzüge bitte nicht benutzen!
 > *Please do not use the lifts!*
 
+**Phrases & Expressions:**
+- **Das ist ein Gerät, das man zum ... benutzt.** — That is a device that you use for ... *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ding beschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K12 4b (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

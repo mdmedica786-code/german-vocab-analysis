@@ -33,6 +33,11 @@ status: "new"
 > Zum Bewerbungsgespräch sollte man pünktlich erscheinen.
 > *For a job interview one should arrive on time.*
 
+**Phrases & Expressions:**
+- **ein Bewerbungsgespräch führen** — *job interview*
+- **zum Bewerbungsgespräch eingeladen werden** — *job interview*
+- **sich auf das Bewerbungsgespräch vorbereiten** — *job interview*
+
 **Collocations**
 - ein Bewerbungsgespräch führen
 - zum Bewerbungsgespräch eingeladen werden

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Anstatt zu lernen, schaut er fern.
 > *Instead of studying, he watches TV.*
+
+**Phrases & Expressions:**
+- **Anstatt zu lernen, schaut er fern** — *Instead of studying, he watches TV* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

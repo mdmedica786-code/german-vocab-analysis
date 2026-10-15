@@ -34,6 +34,9 @@ status: "new"
 > Ein Stadturlaub in Wien ist interessant.
 > *A city break in Vienna is interesting.*
 
+**Phrases & Expressions:**
+- **Ein Stadturlaub in Wien ist interessant** — *A city break in Vienna is interesting* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1a (Ab in den Urlaub!)
 <!-- bank:end -->
 

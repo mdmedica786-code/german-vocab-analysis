@@ -35,6 +35,9 @@ status: "new"
 > Wo geht's hier bitte zur Autobahn?
 > *Where is the way to the motorway, please?*
 
+**Phrases & Expressions:**
+- **Wo geht's hier bitte zur Autobahn** — *Where is the way to the motorway, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

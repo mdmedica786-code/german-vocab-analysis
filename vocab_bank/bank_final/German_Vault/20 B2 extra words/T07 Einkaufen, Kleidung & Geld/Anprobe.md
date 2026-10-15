@@ -33,6 +33,11 @@ status: "new"
 > Die Anprobe findet in der Kabine hinten rechts statt.
 > *The fitting takes place in the cubicle at the back on the right.*
 
+**Phrases & Expressions:**
+- **zur Anprobe gehen** — *fitting; trying on*
+- **die Anprobe der Kleidung** — *fitting; trying on*
+- **nach der Anprobe** — *fitting; trying on*
+
 **Collocations**
 - zur Anprobe gehen
 - die Anprobe der Kleidung

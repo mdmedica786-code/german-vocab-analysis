@@ -34,6 +34,9 @@ status: "new"
 > Die Türkin arbeitet als Ärztin.
 > *The Turkish woman works as a doctor.*
 
+**Phrases & Expressions:**
+- **Die Türkin arbeitet als Ärztin** — *The Turkish woman works as a doctor* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

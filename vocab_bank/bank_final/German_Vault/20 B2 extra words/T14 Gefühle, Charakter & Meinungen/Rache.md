@@ -33,6 +33,11 @@ status: "new"
 > Er schwor Rache an seinen Feinden.
 > *He swore revenge on his enemies.*
 
+**Phrases & Expressions:**
+- **Rache nehmen** — *revenge*
+- **aus Rache** — *revenge*
+- **auf Rache sinnen** — *revenge*
+
 **Collocations**
 - Rache nehmen
 - aus Rache

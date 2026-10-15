@@ -32,6 +32,11 @@ status: "new"
 > Deutschland grenzt an neun Länder.
 > *Germany borders nine countries.*
 
+**Phrases & Expressions:**
+- **an etwas grenzen** — *to border on*
+- **an ein Wunder grenzen** — *to border on*
+- **angrenzen** — *to border on*
+
 **Collocations**
 - an etwas grenzen
 - an ein Wunder grenzen

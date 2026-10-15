@@ -34,6 +34,9 @@ status: "new"
 > Arbeitnehmer haben Anspruch auf Urlaub.
 > *Employees are entitled to holiday.*
 
+**Phrases & Expressions:**
+- **Arbeitnehmer haben Anspruch auf Urlaub** — *Employees are entitled to holiday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 10a (Arbeitswelt)
 <!-- bank:end -->
 

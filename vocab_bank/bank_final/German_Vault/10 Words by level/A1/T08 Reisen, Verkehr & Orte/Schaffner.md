@@ -34,6 +34,9 @@ status: "new"
 > Der Schaffner kontrolliert die Fahrkarten.
 > *The conductor checks the tickets.*
 
+**Phrases & Expressions:**
+- **Der Schaffner kontrolliert die Fahrkarten** — *The conductor checks the tickets* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7a (Ab in den Urlaub!)
 <!-- bank:end -->
 

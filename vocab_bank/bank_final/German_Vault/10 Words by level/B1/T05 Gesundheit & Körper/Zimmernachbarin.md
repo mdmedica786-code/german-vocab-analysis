@@ -34,6 +34,9 @@ status: "new"
 > Meine Zimmernachbarin hat Besuch bekommen.
 > *My roommate had a visitor.*
 
+**Phrases & Expressions:**
+- **Meine Zimmernachbarin hat Besuch bekommen** — *My roommate had a visitor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

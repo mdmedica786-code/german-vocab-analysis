@@ -33,6 +33,11 @@ status: "new"
 > Die Befreiung der Stadt wurde groß gefeiert.
 > *The liberation of the city was celebrated greatly.*
 
+**Phrases & Expressions:**
+- **die Befreiung von der Steuer** — *liberation; exemption*
+- **Befreiung vom Unterricht** — *liberation; exemption*
+- **die Befreiung feiern** — *liberation; exemption*
+
 **Collocations**
 - die Befreiung von der Steuer
 - Befreiung vom Unterricht

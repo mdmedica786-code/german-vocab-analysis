@@ -33,6 +33,9 @@ status: "new"
 > Ich werde meinen Kindern das Rauchen verbieten.
 > *I will forbid my children to smoke.*
 
+**Phrases & Expressions:**
+- **verboten sein** — to be forbidden *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A2)*
+
 **Source:** Netzwerk neu B1 K2 11 (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

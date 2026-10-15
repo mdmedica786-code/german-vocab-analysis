@@ -32,6 +32,14 @@ status: "new"
 > Es regnet heute stark.
 > *It's raining hard today.*
 
+**Phrases & Expressions:**
+- **so stark** — so strongly *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B1)*
+- **Es hat stark ..., sodass wir ... mussten.** — It ... heavily so that we had to ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Folge]] · B1)*
+- **Wie stark ist der Schmerz auf einer Skala von null bis zehn?** — How strong is the pain on a scale from zero to ten? *([[FSP-03 Schmerzanamnese|Intensität erfragen]] · B1)*
+- **Kommen Sie sofort wieder, wenn Sie Fieber oder starke Schmerzen bekommen.** — Come back immediately if you develop a fever or severe pain. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Warnzeichen nennen]] · B1)*
+- **starker Regen** — *strong; (adv.) heavily, hard*
+- **starke Schmerzen** — *strong; (adv.) heavily, hard*
+
 **Collocations**
 - starker Regen
 - starke Schmerzen

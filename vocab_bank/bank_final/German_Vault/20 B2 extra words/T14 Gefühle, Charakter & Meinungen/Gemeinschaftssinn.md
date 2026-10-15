@@ -30,6 +30,11 @@ status: "new"
 > Der Verein fördert den Gemeinschaftssinn.
 > *The club promotes community spirit.*
 
+**Phrases & Expressions:**
+- **den Gemeinschaftssinn stärken** — *sense of community; community spirit*
+- **ein starker Gemeinschaftssinn** — *sense of community; community spirit*
+- **Gemeinschaftssinn zeigen** — *sense of community; community spirit*
+
 **Collocations**
 - den Gemeinschaftssinn stärken
 - ein starker Gemeinschaftssinn

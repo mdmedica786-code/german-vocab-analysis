@@ -29,6 +29,11 @@ status: "new"
 > Das Brett wurde längs durchgesägt.
 > *The board was sawn through lengthways.*
 
+**Phrases & Expressions:**
+- **längs der Straße** — *lengthways; along*
+- **längs liegen** — *lengthways; along*
+- **längs des Flusses** — *lengthways; along*
+
 **Collocations**
 - längs der Straße
 - längs liegen

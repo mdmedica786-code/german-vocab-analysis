@@ -35,6 +35,9 @@ status: "new"
 > Das Wetter hat Einfluss auf die Gesundheit der Menschen.
 > *The weather has an influence on people's health.*
 
+**Phrases & Expressions:**
+- **Einfluss auf ...** — influence on ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

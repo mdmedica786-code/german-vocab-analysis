@@ -30,6 +30,9 @@ status: "new"
 > Die Tür war nicht abgeschlossen. Das ist verdächtig.
 > *The door was not locked. That is suspicious.*
 
+**Phrases & Expressions:**
+- **Die Tür war nicht abgeschlossen. Das ist verdächtig** — *The door was not locked. That is suspicious* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

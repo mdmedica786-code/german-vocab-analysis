@@ -35,6 +35,9 @@ status: "new"
 > Das Haus ist aus dem neunzehnten Jahrhundert.
 > *The house is from the nineteenth century.*
 
+**Phrases & Expressions:**
+- **Das Haus ist aus dem neunzehnten Jahrhundert** — *The house is from the nineteenth century* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

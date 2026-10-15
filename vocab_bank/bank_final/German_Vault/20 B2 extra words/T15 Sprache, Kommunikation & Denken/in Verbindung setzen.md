@@ -26,6 +26,10 @@ status: "new"
 > Bitte setzen Sie sich mit der Firma in Verbindung.
 > *Please get in touch with the company.*
 
+**Phrases & Expressions:**
+- **sich in Verbindung setzen mit + Dat.** — *to get in touch (with)*
+- **in Verbindung stehen mit + Dat.** — *to get in touch (with)*
+
 **Collocations**
 - sich in Verbindung setzen mit + Dat.
 - in Verbindung stehen mit + Dat.

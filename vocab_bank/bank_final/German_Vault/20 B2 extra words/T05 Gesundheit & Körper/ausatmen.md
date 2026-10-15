@@ -32,6 +32,12 @@ status: "new"
 > Atmen Sie tief ein und langsam wieder aus.
 > *Breathe in deeply and then breathe out slowly.*
 
+**Phrases & Expressions:**
+- **Der Patient ist nicht ansprechbar und atmet nicht normal.** — The patient is unresponsive and not breathing normally. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Notfall einschätzen]] · B2)*
+- **tief ausatmen** — *to breathe out; to exhale*
+- **langsam ausatmen** — *to breathe out; to exhale*
+- **durch den Mund ausatmen** — *to breathe out; to exhale*
+
 **Collocations**
 - tief ausatmen
 - langsam ausatmen

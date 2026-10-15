@@ -31,6 +31,11 @@ status: "new"
 > Das gute Wetter lockt viele Besucher an.
 > *The good weather attracts many visitors.*
 
+**Phrases & Expressions:**
+- **jemanden locken** — *to lure; to tempt; to attract*
+- **mit Geld locken** — *to lure; to tempt; to attract*
+- **in eine Falle locken** — *to lure; to tempt; to attract*
+
 **Collocations**
 - jemanden locken
 - mit Geld locken

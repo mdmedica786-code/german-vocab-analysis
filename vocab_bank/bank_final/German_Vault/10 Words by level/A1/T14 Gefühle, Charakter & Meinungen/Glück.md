@@ -35,6 +35,9 @@ status: "new"
 > So ein Glück!
 > *Such luck!*
 
+**Phrases & Expressions:**
+- **zum Glück** — luckily *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · A2)*
+
 **Source:** Netzwerk neu A1 K3 6b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Er sah sie mit Verachtung an.
 > *He looked at her with contempt.*
 
+**Phrases & Expressions:**
+- **Verachtung zeigen** — *contempt; disdain*
+- **voller Verachtung** — *contempt; disdain*
+- **mit Verachtung strafen** — *contempt; disdain*
+
 **Collocations**
 - Verachtung zeigen
 - voller Verachtung

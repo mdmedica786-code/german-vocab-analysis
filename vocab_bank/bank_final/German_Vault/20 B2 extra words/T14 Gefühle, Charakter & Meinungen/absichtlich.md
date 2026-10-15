@@ -29,6 +29,11 @@ status: "new"
 > Er hat das absichtlich getan.
 > *He did that on purpose.*
 
+**Phrases & Expressions:**
+- **absichtlich übersehen** — *deliberate; intentional*
+- **nicht absichtlich** — *deliberate; intentional*
+- **absichtlich falsch machen** — *deliberate; intentional*
+
 **Collocations**
 - absichtlich übersehen
 - nicht absichtlich

@@ -35,6 +35,9 @@ status: "new"
 > Herr Dr. Meyer macht für mich die Vertretung.
 > *Dr Meyer will cover for me.*
 
+**Phrases & Expressions:**
+- **Herr Dr. Meyer macht für mich die Vertretung** — *Dr Meyer will cover for me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7b (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

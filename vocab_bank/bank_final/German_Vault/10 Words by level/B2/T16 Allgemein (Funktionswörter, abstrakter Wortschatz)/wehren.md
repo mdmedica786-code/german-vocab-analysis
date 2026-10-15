@@ -31,6 +31,9 @@ status: "new"
 > [!example] Beispiel
 > Er wehrt sich gegen die Kündigung.
 > *He is fighting against the dismissal.*
+
+**Phrases & Expressions:**
+- **Er wehrt sich gegen die Kündigung** — *He is fighting against the dismissal* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

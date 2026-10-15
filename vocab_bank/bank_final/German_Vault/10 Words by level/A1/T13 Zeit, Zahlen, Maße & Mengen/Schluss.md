@@ -35,6 +35,14 @@ status: "new"
 > Ich muss jetzt Schluss machen.
 > *I have to finish now.*
 
+**Phrases & Expressions:**
+- **zu dem Schluss kommen, dass ...** — to come to the conclusion that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+- **zum Schluss** — at the end *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B1)*
+- **Ich komme zu dem Schluss, dass ...** — I come to the conclusion that ... *([[B1-04 Vor- und Nachteile nennen|Zum Ergebnis kommen]] · B1)*
+- **Zuerst spreche ich über ..., dann über ... und zum Schluss über ...** — First I talk about ..., then about ... and finally about ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Gliederung ankündigen]] · B1)*
+- **Zum Schluss möchte ich noch sagen, dass ...** — Finally I would like to say that ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Schluss gestalten]] · B1)*
+- **Zum Schluss möchte ich meine persönliche Meinung sagen.** — Finally I would like to give my personal opinion. *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Schluss gestalten]] · B1)*
+
 **Source:** Netzwerk neu A1 K12 3d (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

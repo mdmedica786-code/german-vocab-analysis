@@ -33,6 +33,11 @@ status: "new"
 > Die Kinder schauten mit großem Staunen auf den Zauberer.
 > *The children looked at the magician in great wonder.*
 
+**Phrases & Expressions:**
+- **ins Staunen geraten** — *astonishment; wonder*
+- **zum Staunen bringen** — *astonishment; wonder*
+- **aus dem Staunen nicht herauskommen** — *astonishment; wonder*
+
 **Collocations**
 - ins Staunen geraten
 - zum Staunen bringen

@@ -28,6 +28,11 @@ status: "new"
 > Der Weg dauert ca. zehn Minuten.
 > *The way takes approx. ten minutes.*
 
+**Phrases & Expressions:**
+- **ca. zehn Minuten** — *approx. (approximately)*
+- **ca. 20 Euro** — *approx. (approximately)*
+- **ca. 50 Prozent** — *approx. (approximately)*
+
 **Collocations**
 - ca. zehn Minuten
 - ca. 20 Euro

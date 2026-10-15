@@ -35,6 +35,9 @@ status: "new"
 > Bitte ein Schnitzel mit Kartoffeln und Salat.
 > *A schnitzel with potatoes and salad, please.*
 
+**Phrases & Expressions:**
+- **Bitte ein Schnitzel mit Kartoffeln und Salat** — *A schnitzel with potatoes and salad, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 11 (Zeit mit Freunden) · Goethe word list B1
 <!-- bank:end -->
 

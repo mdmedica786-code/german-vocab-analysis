@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Er zitterte am ganzen Leib.
 > *He trembled all over.*
+
+**Phrases & Expressions:**
+- **Er zitterte am ganzen Leib** — *He trembled all over* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

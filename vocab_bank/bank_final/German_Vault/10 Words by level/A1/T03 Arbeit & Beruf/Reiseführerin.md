@@ -34,6 +34,9 @@ status: "new"
 > Meine Schwester arbeitet als Reiseführerin in Wien.
 > *My sister works as a tour guide in Vienna.*
 
+**Phrases & Expressions:**
+- **Meine Schwester arbeitet als Reiseführerin in Wien** — *My sister works as a tour guide in Vienna* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 3b (Guten Tag!)
 <!-- bank:end -->
 

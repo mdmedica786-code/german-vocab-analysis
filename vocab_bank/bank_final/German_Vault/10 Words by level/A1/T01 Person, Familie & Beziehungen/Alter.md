@@ -35,6 +35,9 @@ status: "new"
 > Alter: 26 Jahre.
 > *Age: 26 years.*
 
+**Phrases & Expressions:**
+- **im Alter** — in old age *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 5b (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

@@ -42,6 +42,9 @@ status: "new"
 > Mein Sohn geht in die Primarschule.
 > *My son goes to primary school.*
 
+**Phrases & Expressions:**
+- **Mein Sohn geht in die Primarschule** — *My son goes to primary school* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

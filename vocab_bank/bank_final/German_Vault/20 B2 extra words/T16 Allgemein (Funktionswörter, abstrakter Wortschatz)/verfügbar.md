@@ -29,6 +29,11 @@ status: "new"
 > Das Produkt ist ab nächster Woche wieder verfügbar.
 > *The product is available again from next week.*
 
+**Phrases & Expressions:**
+- **sofort verfügbar** — *available*
+- **nicht mehr verfügbar** — *available*
+- **verfügbar sein** — *available*
+
 **Collocations**
 - sofort verfügbar
 - nicht mehr verfügbar

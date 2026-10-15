@@ -34,6 +34,9 @@ status: "new"
 > Kann man Sie anrufen?
 > *Can I call you?*
 
+**Phrases & Expressions:**
+- **Bitte entschuldige, dass ich nicht angerufen habe.** — Please excuse me for not calling. *([[B1-12 Persönliche E-Mail und Brief|Sich entschuldigen]] · B1)*
+
 **Source:** Netzwerk neu A1 K6 6a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

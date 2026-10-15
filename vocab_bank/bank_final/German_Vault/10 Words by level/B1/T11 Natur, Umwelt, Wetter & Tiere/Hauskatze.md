@@ -34,6 +34,9 @@ status: "new"
 > Unsere Hauskatze schläft den ganzen Tag.
 > *Our house cat sleeps all day.*
 
+**Phrases & Expressions:**
+- **Unsere Hauskatze schläft den ganzen Tag** — *Our house cat sleeps all day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Übersicht zeigt alle Termine auf einen Blick.
 > *The overview shows all appointments at a glance.*
 
+**Phrases & Expressions:**
+- **eine Übersicht geben** — *overview*
+- **die Übersicht behalten** — *overview*
+- **eine kurze Übersicht** — *overview*
+
 **Collocations**
 - eine Übersicht geben
 - die Übersicht behalten

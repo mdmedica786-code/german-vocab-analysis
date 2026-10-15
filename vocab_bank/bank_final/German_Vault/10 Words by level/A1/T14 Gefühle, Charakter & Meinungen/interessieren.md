@@ -34,6 +34,11 @@ status: "new"
 > Ich interessiere mich für Fußball.
 > *I'm interested in football.*
 
+**Phrases & Expressions:**
+- **Ich interessiere mich für ... und möchte gern wissen, ...** — I am interested in ... and would like to know ... *([[B1-13 Formelle E-Mail und Brief|Anfrage stellen]] · B1)*
+- **Ich interessiere mich für die Berufsausübung in Deutschland.** — I am interested in practising my profession in Germany. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Anfrage an Ärztekammer]] · B2)*
+- **Ich interessiere mich für die Wohnung in der ...** — I am interested in the flat in ... *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Wohnung suchen]] · B1)*
+
 **Source:** Netzwerk neu A1 K7 9c (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->
 

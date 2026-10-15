@@ -26,6 +26,10 @@ status: "new"
 > Die Anwohner fanden mit ihren Sorgen kein Gehör.
 > *The residents found no hearing for their concerns.*
 
+**Phrases & Expressions:**
+- **kein Gehör finden** — *to get a hearing*
+- **sich Gehör verschaffen** — *to get a hearing*
+
 **Collocations**
 - kein Gehör finden
 - sich Gehör verschaffen

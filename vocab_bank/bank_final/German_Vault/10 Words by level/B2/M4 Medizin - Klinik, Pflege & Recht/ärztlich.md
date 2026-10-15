@@ -29,6 +29,14 @@ status: "new"
 > Sie brauchen ein ärztliches Attest.
 > *You need a medical certificate.*
 
+**Phrases & Expressions:**
+- **Alles, was Sie mir sagen, unterliegt der ärztlichen Schweigepflicht.** — Everything you tell me is covered by medical confidentiality. *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Vertraulichkeit zusichern]] · B2)*
+- **Außerhalb der Sprechzeiten erreichen Sie den ärztlichen Bereitschaftsdienst unter 116 117.** — Outside surgery hours you can reach the on-call medical service on 116 117. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Notfallnummer nennen]] · B2)*
+- **ärztliche Behandlung** — *medical; by a doctor*
+- **ärztliches Attest** — *medical; by a doctor*
+- **ärztlicher Rat** — *medical; by a doctor*
+- **ärztliche Schweigepflicht** — *medical; by a doctor*
+
 **Collocations**
 - ärztliche Behandlung
 - ärztliches Attest

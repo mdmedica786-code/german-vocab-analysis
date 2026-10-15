@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Nachts höre ich ein seltsames Geräusch.
 > *At night I hear a strange noise.*
+
+**Phrases & Expressions:**
+- **Nachts höre ich ein seltsames Geräusch** — *At night I hear a strange noise* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

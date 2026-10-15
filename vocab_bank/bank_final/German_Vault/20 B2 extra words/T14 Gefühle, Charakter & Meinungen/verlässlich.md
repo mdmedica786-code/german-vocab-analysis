@@ -29,6 +29,11 @@ status: "new"
 > Sie ist eine sehr verlässliche Kollegin.
 > *She is a very dependable colleague.*
 
+**Phrases & Expressions:**
+- **eine verlässliche Quelle** — *reliable; dependable*
+- **verlässlich arbeiten** — *reliable; dependable*
+- **verlässliche Angaben** — *reliable; dependable*
+
 **Collocations**
 - eine verlässliche Quelle
 - verlässlich arbeiten

@@ -34,6 +34,12 @@ status: "new"
 > In der Forschung werden viele Versuche gemacht.
 > *Many experiments are carried out in research.*
 
+**Phrases & Expressions:**
+- **Wir können also sagen, dass sich der Versuch gelohnt hat.** — So we can say that the attempt was worth it. *([[B2-08 Zusammenfassen, Fazit und Schlussfolgerung|Fazit ziehen]] · B2)*
+- **Versuchen Sie, weniger Salz und Fett zu essen.** — Try to eat less salt and fat. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Ernährung beraten]] · A2)*
+- **Versuchen Sie, bewusst Pausen in den Alltag einzubauen.** — Try to consciously build breaks into your day. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Stress abbauen]] · B2)*
+- **Wir respektieren Ihre Wünsche und versuchen, sie zu berücksichtigen.** — We respect your wishes and try to take them into account. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Kulturelle Sensibilität]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

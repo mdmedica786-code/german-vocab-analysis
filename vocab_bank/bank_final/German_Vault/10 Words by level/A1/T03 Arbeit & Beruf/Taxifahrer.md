@@ -34,6 +34,9 @@ status: "new"
 > Der Taxifahrer hilft mir mit dem Koffer.
 > *The taxi driver helps me with my suitcase.*
 
+**Phrases & Expressions:**
+- **Der Taxifahrer hilft mir mit dem Koffer** — *The taxi driver helps me with my suitcase* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

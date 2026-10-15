@@ -30,6 +30,11 @@ status: "new"
 > Der Zeuge beschrieb die Unfallsituation genau.
 > *The witness described the accident situation precisely.*
 
+**Phrases & Expressions:**
+- **die Unfallsituation beschreiben** — *accident situation; situation at the accident*
+- **in einer Unfallsituation** — *accident situation; situation at the accident*
+- **eine gefährliche Unfallsituation** — *accident situation; situation at the accident*
+
 **Collocations**
 - die Unfallsituation beschreiben
 - in einer Unfallsituation

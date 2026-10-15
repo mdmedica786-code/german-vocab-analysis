@@ -26,6 +26,11 @@ status: "new"
 > Die Mitarbeiterin gab uns freundlich Auskunft.
 > *The employee kindly gave us information.*
 
+**Phrases & Expressions:**
+- **über etwas Auskunft geben** — *to give information*
+- **Auskunft erteilen** — *to give information*
+- **Auskunft einholen** — *to give information*
+
 **Collocations**
 - über etwas Auskunft geben
 - Auskunft erteilen

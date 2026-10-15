@@ -26,6 +26,11 @@ status: "new"
 > Die Aufgabe war ziemlich tricky.
 > *The task was quite tricky.*
 
+**Phrases & Expressions:**
+- **tricky sein** — *tricky; difficult*
+- **eine tricky Situation** — *tricky; difficult*
+- **ziemlich tricky** — *tricky; difficult*
+
 **Collocations**
 - tricky sein
 - eine tricky Situation

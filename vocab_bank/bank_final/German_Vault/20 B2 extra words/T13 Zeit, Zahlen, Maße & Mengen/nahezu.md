@@ -29,6 +29,10 @@ status: "new"
 > Das Konzert war nahezu ausverkauft.
 > *The concert was almost sold out.*
 
+**Phrases & Expressions:**
+- **nahezu unmöglich** — *almost; nearly*
+- **nahezu alle** — *almost; nearly*
+
 **Collocations**
 - nahezu unmöglich
 - nahezu alle

@@ -31,6 +31,10 @@ status: "new"
 > Er unterstellte ihr, dass sie gelogen habe.
 > *He insinuated that she had lied.*
 
+**Phrases & Expressions:**
+- **jemandem etwas unterstellen** — *to insinuate; to assume*
+- **böse Absicht unterstellen** — *to insinuate; to assume*
+
 **Collocations**
 - jemandem etwas unterstellen
 - böse Absicht unterstellen

@@ -34,6 +34,9 @@ status: "new"
 > Im Museum bekommt man einen Audioguide.
 > *At the museum you get an audio guide.*
 
+**Phrases & Expressions:**
+- **Im Museum bekommt man einen Audioguide** — *At the museum you get an audio guide* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 10b (Gute Unterhaltung!)
 <!-- bank:end -->
 

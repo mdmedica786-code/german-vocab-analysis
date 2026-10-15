@@ -33,6 +33,11 @@ status: "new"
 > Nach dem stressigen Jahr gönnt sie sich eine Auszeit.
 > *After the stressful year she treats herself to a break.*
 
+**Phrases & Expressions:**
+- **eine Auszeit nehmen** — *time out; break*
+- **sich eine Auszeit gönnen** — *time out; break*
+- **Auszeit vom Alltag** — *time out; break*
+
 **Collocations**
 - eine Auszeit nehmen
 - sich eine Auszeit gönnen

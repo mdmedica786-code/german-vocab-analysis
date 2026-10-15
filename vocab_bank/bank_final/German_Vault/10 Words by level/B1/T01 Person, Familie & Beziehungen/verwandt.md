@@ -30,6 +30,9 @@ status: "new"
 > Sind Sie mit Frau Meyer verwandt?
 > *Are you related to Mrs Meyer?*
 
+**Phrases & Expressions:**
+- **Sind Sie mit Frau Meyer verwandt** — *Are you related to Mrs Meyer* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

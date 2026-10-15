@@ -26,6 +26,11 @@ status: "new"
 > Die Regierung hat der Armut den Kampf angesagt.
 > *The government has declared war on poverty.*
 
+**Phrases & Expressions:**
+- **der Armut den Kampf ansagen** — *to declare war on someone or something; to take up the fight against*
+- **dem Rauchen den Kampf ansagen** — *to declare war on someone or something; to take up the fight against*
+- **einem Problem den Kampf ansagen** — *to declare war on someone or something; to take up the fight against*
+
 **Collocations**
 - der Armut den Kampf ansagen
 - dem Rauchen den Kampf ansagen

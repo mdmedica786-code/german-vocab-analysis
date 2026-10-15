@@ -31,6 +31,9 @@ status: "new"
 > [!example] Beispiel
 > Wir bringen die Gäste im Hotel unter.
 > *We put the guests up at the hotel.*
+
+**Phrases & Expressions:**
+- **Wir bringen die Gäste im Hotel unter** — *We put the guests up at the hotel* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

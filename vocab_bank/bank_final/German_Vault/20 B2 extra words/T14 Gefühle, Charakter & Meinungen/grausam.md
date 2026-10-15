@@ -29,6 +29,11 @@ status: "new"
 > Das war eine grausame Entscheidung.
 > *That was a cruel decision.*
 
+**Phrases & Expressions:**
+- **ein grausames Verbrechen** — *cruel; terrible*
+- **grausam sein** — *cruel; terrible*
+- **grausam behandeln** — *cruel; terrible*
+
 **Collocations**
 - ein grausames Verbrechen
 - grausam sein

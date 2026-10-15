@@ -33,6 +33,11 @@ status: "new"
 > Während der Hitzewelle sollte man viel Wasser trinken.
 > *During the heatwave one should drink plenty of water.*
 
+**Phrases & Expressions:**
+- **eine Hitzewelle erleben** — *heatwave*
+- **anhaltende Hitzewelle** — *heatwave*
+- **die Hitzewelle dauert an** — *heatwave*
+
 **Collocations**
 - eine Hitzewelle erleben
 - anhaltende Hitzewelle

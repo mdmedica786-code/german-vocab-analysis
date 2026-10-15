@@ -32,6 +32,11 @@ status: "new"
 > Im Frühling pflanzen wir neue Rosen im Garten ein.
 > *In spring we plant new roses in the garden.*
 
+**Phrases & Expressions:**
+- **einen Baum einpflanzen** — *to plant; to implant*
+- **Blumen einpflanzen** — *to plant; to implant*
+- **ein Organ einpflanzen** — *to plant; to implant*
+
 **Collocations**
 - einen Baum einpflanzen
 - Blumen einpflanzen

@@ -33,6 +33,11 @@ status: "new"
 > Falsche Meldungen schaden der Glaubwürdigkeit der Medien.
 > *False reports damage the credibility of the media.*
 
+**Phrases & Expressions:**
+- **die Glaubwürdigkeit verlieren** — *credibility*
+- **an Glaubwürdigkeit gewinnen** — *credibility*
+- **Glaubwürdigkeit prüfen** — *credibility*
+
 **Collocations**
 - die Glaubwürdigkeit verlieren
 - an Glaubwürdigkeit gewinnen

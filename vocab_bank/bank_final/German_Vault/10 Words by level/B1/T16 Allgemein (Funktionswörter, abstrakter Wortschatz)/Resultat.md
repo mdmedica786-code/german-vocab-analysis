@@ -34,6 +34,9 @@ status: "new"
 > Das Resultat der Untersuchung kommt morgen.
 > *The result of the examination arrives tomorrow.*
 
+**Phrases & Expressions:**
+- **Das Resultat der Untersuchung kommt morgen** — *The result of the examination arrives tomorrow* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 4b (Umweltfreundlich?)
 <!-- bank:end -->
 

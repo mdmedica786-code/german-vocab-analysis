@@ -34,6 +34,9 @@ status: "new"
 > Die Unsicherheit vor der Prüfung ist normal.
 > *Uncertainty before the exam is normal.*
 
+**Phrases & Expressions:**
+- **Die Unsicherheit vor der Prüfung ist normal** — *Uncertainty before the exam is normal* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 9a (Rund um Körper und Geist)
 <!-- bank:end -->
 

@@ -34,6 +34,11 @@ status: "new"
 > Die Vorsitzende eröffnete die Sitzung.
 > *The chairwoman opened the meeting.*
 
+**Phrases & Expressions:**
+- **der Vorsitzende** — *chairperson; chair*
+- **die Vorsitzende** — *chairperson; chair*
+- **zur Vorsitzenden wählen** — *chairperson; chair*
+
 **Collocations**
 - der Vorsitzende
 - die Vorsitzende

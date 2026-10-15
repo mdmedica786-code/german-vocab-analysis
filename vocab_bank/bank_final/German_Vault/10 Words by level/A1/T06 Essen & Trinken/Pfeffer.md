@@ -35,6 +35,9 @@ status: "new"
 > Bringen Sie uns bitte Pfeffer und Salz.
 > *Please bring us pepper and salt.*
 
+**Phrases & Expressions:**
+- **Bringen Sie uns bitte Pfeffer und Salz** — *Please bring us pepper and salt* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list B1
 <!-- bank:end -->
 

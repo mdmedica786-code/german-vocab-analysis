@@ -30,6 +30,11 @@ status: "new"
 > Der Eventmanager plant die Firmenfeier.
 > *The event manager plans the company party.*
 
+**Phrases & Expressions:**
+- **als Eventmanager arbeiten** — *event manager (male)*
+- **ein erfahrener Eventmanager** — *event manager (male)*
+- **den Eventmanager anrufen** — *event manager (male)*
+
 **Collocations**
 - als Eventmanager arbeiten
 - ein erfahrener Eventmanager

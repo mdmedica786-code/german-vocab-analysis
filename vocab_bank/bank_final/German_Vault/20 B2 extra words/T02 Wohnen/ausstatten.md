@@ -32,6 +32,11 @@ status: "new"
 > Die Küche ist mit modernen Geräten ausgestattet.
 > *The kitchen is equipped with modern appliances.*
 
+**Phrases & Expressions:**
+- **mit etwas ausstatten** — *to equip; to furnish*
+- **gut ausgestattet** — *to equip; to furnish*
+- **ausgestattet sein mit** — *to equip; to furnish*
+
 **Collocations**
 - mit etwas ausstatten
 - gut ausgestattet

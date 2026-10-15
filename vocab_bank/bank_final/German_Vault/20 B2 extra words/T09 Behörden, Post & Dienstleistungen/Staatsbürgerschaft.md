@@ -33,6 +33,11 @@ status: "new"
 > Sie hat die deutsche Staatsbürgerschaft beantragt.
 > *She has applied for German citizenship.*
 
+**Phrases & Expressions:**
+- **die Staatsbürgerschaft beantragen** — *citizenship*
+- **doppelte Staatsbürgerschaft** — *citizenship*
+- **Staatsbürgerschaft erhalten** — *citizenship*
+
 **Collocations**
 - die Staatsbürgerschaft beantragen
 - doppelte Staatsbürgerschaft

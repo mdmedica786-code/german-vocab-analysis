@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Heimweg kaufe ich Brot.
 > *On the way home I buy bread.*
 
+**Phrases & Expressions:**
+- **auf dem Heimweg** — *way home*
+- **den Heimweg antreten** — *way home*
+- **sich auf den Heimweg machen** — *way home*
+
 **Collocations**
 - auf dem Heimweg
 - den Heimweg antreten

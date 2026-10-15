@@ -35,6 +35,9 @@ status: "new"
 > Welche Sportart findest du am besten?
 > *Which sport do you like best?*
 
+**Phrases & Expressions:**
+- **Welche Sportart findest du am besten** — *Which sport do you like best* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1a (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

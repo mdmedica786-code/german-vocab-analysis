@@ -35,6 +35,9 @@ status: "new"
 > Ich habe den Film auf Video aufgenommen.
 > *I recorded the film on video.*
 
+**Phrases & Expressions:**
+- **Ich habe den Film auf Video aufgenommen** — *I recorded the film on video* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7d (Ab in den Urlaub!) · Goethe word list B1
 <!-- bank:end -->
 

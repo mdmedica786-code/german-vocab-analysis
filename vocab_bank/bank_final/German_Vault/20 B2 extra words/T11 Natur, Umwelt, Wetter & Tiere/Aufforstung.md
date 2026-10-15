@@ -33,6 +33,11 @@ status: "new"
 > Die Aufforstung kahler Hänge schützt vor Erdrutschen.
 > *The reforestation of bare slopes protects against landslides.*
 
+**Phrases & Expressions:**
+- **Aufforstung betreiben** — *reforestation; afforestation*
+- **Aufforstung fördern** — *reforestation; afforestation*
+- **Aufforstung von Wäldern** — *reforestation; afforestation*
+
 **Collocations**
 - Aufforstung betreiben
 - Aufforstung fördern

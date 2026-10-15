@@ -14,24 +14,28 @@ tags: ["redemittel", "level/A2", "level/B1"]
 ## Sich vorstellen
 
 - **Darf ich mich vorstellen? Mein Name ist ...** ⭐ — May I introduce myself? My name is ...
+  - Words: [[Name]] · [[vorstellen]] · [[mein]] · [[dürfen]]
   - Darf ich mich vorstellen? Mein Name ist Selin Demir. *(May I introduce myself? My name is Selin Demir.)*
   - A2 · formal · speaker: Beide · to: Alle
   - Grammar: dürfen + Infinitiv; Name im Nominativ
   - Variants: Gestatten, mein Name ist ... | Ich möchte mich kurz vorstellen: ...
   - Exam: Alltag; Vorstellungsgespräch
 - **Ich heiße ... und komme aus ...** ⭐ — My name is ... and I come from ...
+  - Words: [[heißen]] · [[kommen]] · [[heiß]]
   - Ich heiße Selin und komme aus der Türkei. *(My name is Selin and I come from Turkey.)*
   - A2 · neutral · speaker: Beide · to: Alle
   - Grammar: kommen aus + Dativ
   - Variants: Mein Name ist ..., ich bin aus ... | Ich bin ... und stamme aus ...
   - Exam: Alltag; Vorstellungsgespräch
 - **Ich bin Ärztin von Beruf und arbeite im Krankenhaus.** — I am a doctor by profession and work in a hospital.
+  - Words: [[arbeiten]] · [[Ärztin]] · [[Beruf]] · [[Krankenhaus]]
   - Ich bin Ärztin von Beruf und arbeite im Krankenhaus. *(I am a doctor by profession and work in a hospital.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: von Beruf; arbeiten in + Dativ
   - Variants: Beruflich bin ich Ärztin. | Ich arbeite als Ärztin in einer Klinik.
   - Exam: Alltag; Vorstellungsgespräch
 - **Freut mich, Sie kennenzulernen.** ⭐ — Pleased to meet you.
+  - Words: [[freuen]]
   - Freut mich, Sie kennenzulernen. Ich habe schon viel von Ihnen gehört. *(Pleased to meet you. I have already heard a lot about you.)*
   - A2 · formal · speaker: Beide · to: Alle
   - Grammar: kennenlernen als Infinitiv: kennenzulernen
@@ -40,6 +44,7 @@ tags: ["redemittel", "level/A2", "level/B1"]
 ## Begrüßen (formell)
 
 - **Guten Morgen, Frau Meier, wie geht es Ihnen?** ⭐ — Good morning, Mrs Meier, how are you?
+  - Words: [[gut (adjective)]] · [[gehen]] · [[Frau]] · [[morgen (adverb)]] · [[Morgen]] · [[einkaufen gehen]] · [[losgehen]] · [[rausgehen]]
   - Guten Morgen, Frau Meier, wie geht es Ihnen heute? *(Good morning, Mrs Meier, how are you today?)*
   - A2 · formal · speaker: Beide · to: Alle
   - Grammar: Sie-Form: es geht Ihnen
@@ -48,6 +53,7 @@ tags: ["redemittel", "level/A2", "level/B1"]
 ## Begrüßen (informell)
 
 - **Hallo! Na, wie läuft's?** ⭐ — Hi! So, how's it going?
+  - Words: [[hallo]] · [[laufen]] · [[langlaufen]] · [[zurücklaufen]] · [[weglaufen]] · [[ablaufen]] · [[auslaufen]]
   - Hallo! Na, wie läuft's bei dir? *(Hi! So, how's it going with you?)*
   - A2 · informal · speaker: Beide · to: Alle
   - Grammar: umgangssprachlich: läuft's = läuft es
@@ -56,18 +62,21 @@ tags: ["redemittel", "level/A2", "level/B1"]
 ## Gespräch beginnen
 
 - **Schönes Wetter heute, nicht wahr?** ⭐ — Nice weather today, isn't it?
+  - Words: [[wahr]] · [[schön]] · [[heute]] · [[Wetter]] · [[wahrnehmen]]
   - Schönes Wetter heute, nicht wahr? Endlich wird es Frühling. *(Nice weather today, isn't it? Finally spring is coming.)*
   - A2 · neutral · speaker: Beide · to: Alle
   - Grammar: Nachgestelltes nicht wahr = Bestätigungsfrage
   - Variants: Heute ist es aber warm, oder? | So ein schöner Tag!
   - Exam: Alltag; Vorstellungsgespräch
 - **Kennen wir uns nicht von irgendwoher?** — Don't we know each other from somewhere?
+  - Words: [[kennen]] · [[kennenlernen]]
   - Kennen wir uns nicht von irgendwoher? Waren Sie nicht beim Sprachkurs? *(Don't we know each other from somewhere? Weren't you at the language course?)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: Verneinte Frage; sich kennen
   - Variants: Habe ich Sie nicht schon einmal gesehen? | Sind wir uns nicht schon einmal begegnet?
   - Exam: Alltag; Vorstellungsgespräch
 - **Sind Sie auch zum ersten Mal hier?** — Is this your first time here too?
+  - Words: [[Mal]] · [[Erste]] · [[mal (particle)]] · [[hier]]
   - Sind Sie auch zum ersten Mal hier? Mir gefällt es sehr. *(Is this your first time here too? I like it a lot.)*
   - A2 · neutral · speaker: Beide · to: Alle
   - Grammar: zum ersten Mal
@@ -76,12 +85,14 @@ tags: ["redemittel", "level/A2", "level/B1"]
 ## Nach dem Befinden fragen
 
 - **Wie geht es Ihnen? – Danke, gut. Und Ihnen?** ⭐ — How are you? – Fine, thanks. And you?
+  - Words: [[gut (adjective)]] · [[danke]] · [[gehen]] · [[einkaufen gehen]] · [[losgehen]] · [[rausgehen]] · [[ausgehen]] · [[danken]]
   - Wie geht es Ihnen? – Danke, gut. Und Ihnen? *(How are you? – Fine, thanks. And you?)*
   - A2 · formal · speaker: Beide · to: Alle
   - Grammar: es geht + Dativ; Gegenfrage Und Ihnen?
   - Variants: Wie geht's Ihnen? – Gut, danke. | Danke, es geht mir gut. Und Ihnen?
   - Exam: Alltag; Vorstellungsgespräch
 - **Es geht so, ich bin ein bisschen müde.** — So-so, I am a little tired.
+  - Words: [[gehen]] · [[einkaufen gehen]] · [[bisschen]] · [[losgehen]] · [[müde]] · [[rausgehen]] · [[ausgehen]] · [[spazieren gehen]]
   - Wie geht's? – Es geht so, ich bin ein bisschen müde. *(How are you? – So-so, I am a little tired.)*
   - A2 · informal · speaker: Beide · to: Alle
   - Grammar: es geht so = mittelmäßig
@@ -90,18 +101,21 @@ tags: ["redemittel", "level/A2", "level/B1"]
 ## Interesse zeigen
 
 - **Wirklich? Das klingt interessant!** ⭐ — Really? That sounds interesting!
+  - Words: [[wirklich]] · [[interessant]] · [[klingen]]
   - Du warst in Spanien? Wirklich? Das klingt interessant! *(You were in Spain? Really? That sounds interesting!)*
   - A2 · neutral · speaker: Beide · to: Alle
   - Grammar: klingen + Adjektiv
   - Variants: Ach, das ist ja spannend! | Echt? Erzähl mehr!
   - Exam: Alltag; Vorstellungsgespräch
 - **Erzählen Sie mir mehr darüber.** — Tell me more about it.
+  - Words: [[darüber]] · [[mehr]] · [[erzählen]]
   - Sie arbeiten im Ausland? Erzählen Sie mir mehr darüber. *(You work abroad? Tell me more about it.)*
   - A2 · formal · speaker: Beide · to: Alle
   - Grammar: Imperativ Sie; erzählen von/über
   - Variants: Wie war das denn? | Das möchte ich gern genauer wissen.
   - Exam: Alltag; Vorstellungsgespräch
 - **Das ist ja interessant, das wusste ich nicht.** — That's interesting, I didn't know that.
+  - Words: [[ja]] · [[interessant]] · [[wissen (verb)]] · [[weiterwissen]]
   - Das ist ja interessant, das wusste ich nicht. *(That's interesting, I didn't know that.)*
   - B1 · neutral · speaker: Beide · to: Alle
   - Grammar: Präteritum von wissen
@@ -110,18 +124,21 @@ tags: ["redemittel", "level/A2", "level/B1"]
 ## Gespräch beenden
 
 - **Es hat mich gefreut, Sie kennenzulernen.** ⭐ — It was a pleasure to meet you.
+  - Words: [[freuen]]
   - Es hat mich gefreut, Sie kennenzulernen. Auf Wiedersehen! *(It was a pleasure to meet you. Goodbye!)*
   - A2 · formal · speaker: Beide · to: Alle
   - Grammar: Perfekt: es hat mich gefreut
   - Variants: Schön, dass wir uns kennengelernt haben. | Es war nett, mit Ihnen zu sprechen.
   - Exam: Alltag; Vorstellungsgespräch
 - **Ich muss jetzt leider los.** ⭐ — Unfortunately I have to go now.
+  - Words: [[leider]] · [[jetzt]] · [[los]] · [[los sein]] · [[losgehen]] · [[losfahren]] · [[müssen]] · [[leid]]
   - Ich muss jetzt leider los. Mein Bus kommt gleich. *(Unfortunately I have to go now. My bus is coming soon.)*
   - A2 · informal · speaker: Beide · to: Alle
   - Grammar: los müssen = gehen müssen (umgangssprachlich)
   - Variants: Leider muss ich gehen. | Ich muss mich leider verabschieden.
   - Exam: Alltag; Vorstellungsgespräch
 - **Ich muss leider gehen, mein Bus kommt gleich.** — I'm afraid I have to go, my bus is coming soon.
+  - Words: [[gehen]] · [[kommen]] · [[leider]] · [[gleich]] · [[drankommen]] · [[mitkommen]] · [[ankommen]] · [[zurückkommen]]
   - Ich muss leider gehen, mein Bus kommt gleich. Bis morgen! *(I'm afraid I have to go, my bus is coming soon. See you tomorrow!)*
   - A2 · neutral · speaker: Beide · to: Alle
   - Grammar: Hauptsatz mit Komma und zweitem Hauptsatz
@@ -130,24 +147,28 @@ tags: ["redemittel", "level/A2", "level/B1"]
 ## Verabschieden
 
 - **Auf Wiedersehen, bis zum nächsten Mal!** ⭐ — Goodbye, until next time!
+  - Words: [[Mal]] · [[nächste (adjective)]] · [[mal (particle)]] · [[Nächste]] · [[Wiedersehen]] · [[wiedersehen (verb)]] · [[bis]]
   - Auf Wiedersehen, bis zum nächsten Mal! Vielen Dank für das Gespräch. *(Goodbye, until next time! Thank you very much for the conversation.)*
   - A2 · formal · speaker: Beide · to: Alle
   - Grammar: bis zum + Dativ
   - Variants: Bis bald! | Auf Wiedersehen und alles Gute!
   - Exam: Alltag; Vorstellungsgespräch
 - **Tschüs, bis bald, mach's gut!** ⭐ — Bye, see you soon, take care!
+  - Words: [[gut (adjective)]] · [[tschüs]] · [[bald]] · [[Gut]] · [[guttun]] · [[gutschreiben]] · [[bis]]
   - Tschüs, bis bald, mach's gut! Grüß deine Familie von mir. *(Bye, see you soon, take care! Say hello to your family for me.)*
   - A2 · informal · speaker: Beide · to: Alle
   - Grammar: Imperativ: mach's = mach es
   - Variants: Bis später! | Ciao, bis morgen!
   - Exam: Alltag; Vorstellungsgespräch
 - **Schönen Tag noch!** ⭐ — Have a nice day!
+  - Words: [[Tag]] · [[schön]]
   - Danke für Ihre Hilfe, schönen Tag noch! *(Thank you for your help, have a nice day!)*
   - A2 · neutral · speaker: Beide · to: Alle
   - Grammar: Ellipse: (Ich wünsche Ihnen einen) schönen Tag noch; Akk.
   - Variants: Ihnen auch einen schönen Tag! | Einen schönen Tag wünsche ich Ihnen.
   - Exam: Alltag; Vorstellungsgespräch
 - **Ich wünsche Ihnen ein schönes Wochenende.** — I wish you a nice weekend.
+  - Words: [[Wochenende]] · [[schön]] · [[Wunsch]] · [[wünschen]]
   - Ich wünsche Ihnen ein schönes Wochenende. Bis Montag! *(I wish you a nice weekend. See you Monday!)*
   - A2 · formal · speaker: Beide · to: Alle
   - Grammar: wünschen + Dat. + Akk.

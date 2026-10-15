@@ -31,6 +31,11 @@ status: "new"
 > Er konnte seine Enttäuschung nicht verbergen.
 > *He could not hide his disappointment.*
 
+**Phrases & Expressions:**
+- **etwas verbergen** — *to hide; to conceal*
+- **sich verbergen** — *to hide; to conceal*
+- **Gefühle verbergen** — *to hide; to conceal*
+
 **Collocations**
 - etwas verbergen
 - sich verbergen

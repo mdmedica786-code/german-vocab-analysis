@@ -29,6 +29,11 @@ status: "new"
 > In der Diskussion kamen alle Teilnehmer zu Wort.
 > *In the discussion all participants got a chance to speak.*
 
+**Phrases & Expressions:**
+- **kaum zu Wort kommen** — *to get a chance to speak*
+- **jemanden zu Wort kommen lassen** — *to get a chance to speak*
+- **sich zu Wort melden** — *to get a chance to speak*
+
 **Collocations**
 - kaum zu Wort kommen
 - jemanden zu Wort kommen lassen

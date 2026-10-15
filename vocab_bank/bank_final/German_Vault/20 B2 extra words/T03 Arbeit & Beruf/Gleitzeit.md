@@ -33,6 +33,11 @@ status: "new"
 > Bei Gleitzeit kann ich selbst bestimmen, wann ich anfange.
 > *With flexible working hours I can decide myself when I start.*
 
+**Phrases & Expressions:**
+- **Gleitzeit haben** — *flexible working hours*
+- **in Gleitzeit arbeiten** — *flexible working hours*
+- **Gleitzeit vereinbaren** — *flexible working hours*
+
 **Collocations**
 - Gleitzeit haben
 - in Gleitzeit arbeiten

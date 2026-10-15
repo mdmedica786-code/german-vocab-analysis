@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Dach der Schule steht eine Solaranlage.
 > *There is a solar power system on the roof of the school.*
 
+**Phrases & Expressions:**
+- **eine Solaranlage installieren** — *solar power system; solar panels*
+- **Solaranlage auf dem Dach** — *solar power system; solar panels*
+- **Solaranlage betreiben** — *solar power system; solar panels*
+
 **Collocations**
 - eine Solaranlage installieren
 - Solaranlage auf dem Dach

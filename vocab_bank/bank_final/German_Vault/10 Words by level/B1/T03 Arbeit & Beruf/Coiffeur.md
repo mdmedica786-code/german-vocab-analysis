@@ -42,6 +42,9 @@ status: "new"
 > Du siehst toll aus! Wer ist dein Coiffeur?
 > *You look great! Who is your hairdresser?*
 
+**Phrases & Expressions:**
+- **Du siehst toll aus! Wer ist dein Coiffeur** — *You look great! Who is your hairdresser* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

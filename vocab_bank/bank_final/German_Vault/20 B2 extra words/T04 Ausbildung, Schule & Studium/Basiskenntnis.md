@@ -30,6 +30,11 @@ status: "new"
 > Für den Kurs brauchen Sie nur Basiskenntnisse in Mathematik.
 > *For the course you only need basic knowledge of mathematics.*
 
+**Phrases & Expressions:**
+- **Basiskenntnisse haben** — *basic knowledge*
+- **gute Basiskenntnisse** — *basic knowledge*
+- **Basiskenntnisse in Deutsch** — *basic knowledge*
+
 **Collocations**
 - Basiskenntnisse haben
 - gute Basiskenntnisse

@@ -34,6 +34,9 @@ status: "new"
 > Der Gründer der Firma ist schon 80 Jahre alt.
 > *The founder of the company is already 80 years old.*
 
+**Phrases & Expressions:**
+- **Der Gründer der Firma ist schon 80 Jahre alt** — *The founder of the company is already 80 years old* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 10b (Kunststücke)
 <!-- bank:end -->
 

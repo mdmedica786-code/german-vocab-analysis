@@ -32,6 +32,11 @@ status: "new"
 > Ich habe mich vor allen Kollegen blamiert.
 > *I made a fool of myself in front of all my colleagues.*
 
+**Phrases & Expressions:**
+- **sich blamieren** — *to embarrass; to make a fool of*
+- **jemanden blamieren** — *to embarrass; to make a fool of*
+- **sich öffentlich blamieren** — *to embarrass; to make a fool of*
+
 **Collocations**
 - sich blamieren
 - jemanden blamieren

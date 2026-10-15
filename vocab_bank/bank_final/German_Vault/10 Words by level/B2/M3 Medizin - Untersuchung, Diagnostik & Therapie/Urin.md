@@ -33,6 +33,13 @@ status: "new"
 > Der Urin wird im Labor untersucht.
 > *The urine is examined in the laboratory.*
 
+**Phrases & Expressions:**
+- **Ist der Urin verfärbt oder blutig?** — Is the urine discoloured or bloody? *([[FSP-06 Systemanamnese (Organsysteme)|Niere und Harnwege]] · B2)*
+- **Urin abgeben** — *urine*
+- **Blut im Urin** — *urine*
+- **den Urin untersuchen** — *urine*
+- **dunkler Urin** — *urine*
+
 **Collocations**
 - Urin abgeben
 - Blut im Urin

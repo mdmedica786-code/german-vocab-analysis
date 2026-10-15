@@ -33,6 +33,11 @@ status: "new"
 > Mein Sohn bekommt Förderunterricht in Mathematik.
 > *My son gets supplementary tuition in maths.*
 
+**Phrases & Expressions:**
+- **Förderunterricht erhalten** — *supplementary tuition; remedial classes*
+- **Förderunterricht anbieten** — *supplementary tuition; remedial classes*
+- **Förderunterricht für Kinder** — *supplementary tuition; remedial classes*
+
 **Collocations**
 - Förderunterricht erhalten
 - Förderunterricht anbieten

@@ -31,6 +31,9 @@ status: "new"
 > Mein Freund und ich gehen in dieselbe Schule.
 > *My friend and I go to the same school.*
 
+**Phrases & Expressions:**
+- **Mein Freund und ich gehen in dieselbe Schule** — *My friend and I go to the same school* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 3b (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Das Wort „schön“ ist ein Adjektiv.
 > *The word “schön” is an adjective.*
 
+**Phrases & Expressions:**
+- **Das Wort „schön“ ist ein Adjektiv** — *The word “schön” is an adjective* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 10d (In Hamburg)
 <!-- bank:end -->
 

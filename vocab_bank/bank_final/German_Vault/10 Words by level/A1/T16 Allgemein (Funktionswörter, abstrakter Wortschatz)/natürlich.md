@@ -31,6 +31,13 @@ status: "new"
 > Das ist natürlich nicht so schön.
 > *That is of course not so nice.*
 
+**Phrases & Expressions:**
+- **natürlich nicht** — of course not *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · A2)*
+- **Natürlich kann man auch sagen, dass ...** — Of course one can also say that ... *([[B1-14 Forumsbeitrag und Leserbrief schreiben|Gegenposition erwähnen]] · B1)*
+- **natürlich gern** — *of course*
+- **natürlich möglich** — *of course*
+- **ganz natürlich** — *of course*
+
 **Collocations**
 - natürlich nicht
 - natürlich gern

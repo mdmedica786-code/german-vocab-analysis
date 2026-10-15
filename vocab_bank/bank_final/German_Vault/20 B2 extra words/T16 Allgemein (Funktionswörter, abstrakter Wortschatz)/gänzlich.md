@@ -29,6 +29,11 @@ status: "new"
 > Der Plan ist gänzlich gescheitert.
 > *The plan has failed completely.*
 
+**Phrases & Expressions:**
+- **gänzlich anders** — *entirely; completely*
+- **gänzlich ausschließen** — *entirely; completely*
+- **gänzlich unbekannt** — *entirely; completely*
+
 **Collocations**
 - gänzlich anders
 - gänzlich ausschließen

@@ -29,6 +29,11 @@ status: "new"
 > Das Parken ist hier nicht zulässig.
 > *Parking is not permitted here.*
 
+**Phrases & Expressions:**
+- **nicht zulässig** — *permissible; admissible*
+- **die zulässige Höchstgeschwindigkeit** — *permissible; admissible*
+- **rechtlich zulässig** — *permissible; admissible*
+
 **Collocations**
 - nicht zulässig
 - die zulässige Höchstgeschwindigkeit

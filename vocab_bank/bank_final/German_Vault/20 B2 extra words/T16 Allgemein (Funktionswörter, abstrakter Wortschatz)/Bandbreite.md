@@ -33,6 +33,11 @@ status: "new"
 > Das Seminar deckt eine große Bandbreite an Themen ab.
 > *The seminar covers a wide range of topics.*
 
+**Phrases & Expressions:**
+- **eine große Bandbreite** — *range; spectrum*
+- **Bandbreite der Meinungen** — *range; spectrum*
+- **Bandbreite an Angeboten** — *range; spectrum*
+
 **Collocations**
 - eine große Bandbreite
 - Bandbreite der Meinungen

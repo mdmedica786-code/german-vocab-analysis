@@ -32,6 +32,11 @@ status: "new"
 > Bitte legen Sie Ihren Ausweis vor.
 > *Please show your ID.*
 
+**Phrases & Expressions:**
+- **einen Ausweis vorlegen** — *to present; to submit*
+- **Beweise vorlegen** — *to present; to submit*
+- **einen Bericht vorlegen** — *to present; to submit*
+
 **Collocations**
 - einen Ausweis vorlegen
 - Beweise vorlegen

@@ -32,6 +32,9 @@ status: "new"
 > Sie müssen sich erst anmelden.
 > **
 
+**Phrases & Expressions:**
+- **Sie müssen sich erst anmelden** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 8b (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

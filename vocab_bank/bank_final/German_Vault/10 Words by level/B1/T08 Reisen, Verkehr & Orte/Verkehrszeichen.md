@@ -34,6 +34,9 @@ status: "new"
 > Meine Kinder lernen in der Schule gerade die Verkehrszeichen.
 > *My children are just learning the traffic signs at school.*
 
+**Phrases & Expressions:**
+- **Meine Kinder lernen in der Schule gerade die Verkehrszeichen** — *My children are just learning the traffic signs at school* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

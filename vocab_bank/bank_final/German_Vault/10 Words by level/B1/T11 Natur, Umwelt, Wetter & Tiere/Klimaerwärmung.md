@@ -34,6 +34,9 @@ status: "new"
 > Die Klimaerwärmung bedroht viele Länder.
 > *Global warming threatens many countries.*
 
+**Phrases & Expressions:**
+- **Die Klimaerwärmung bedroht viele Länder** — *Global warming threatens many countries* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?)
 <!-- bank:end -->
 

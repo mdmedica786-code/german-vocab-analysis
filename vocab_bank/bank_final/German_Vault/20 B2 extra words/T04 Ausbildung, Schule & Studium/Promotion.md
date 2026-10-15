@@ -33,6 +33,11 @@ status: "new"
 > Nach der Promotion arbeitete er als Forscher an einem Institut.
 > *After his doctorate he worked as a researcher at an institute.*
 
+**Phrases & Expressions:**
+- **eine Promotion anstreben** — *doctorate; doctoral degree*
+- **die Promotion abschließen** — *doctorate; doctoral degree*
+- **Promotion zum Doktor** — *doctorate; doctoral degree*
+
 **Collocations**
 - eine Promotion anstreben
 - die Promotion abschließen

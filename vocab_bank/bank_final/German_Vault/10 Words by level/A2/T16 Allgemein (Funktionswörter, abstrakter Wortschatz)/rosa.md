@@ -30,6 +30,9 @@ status: "new"
 > Das Mädchen trägt ein rosa Kleid.
 > *The girl is wearing a pink dress.*
 
+**Phrases & Expressions:**
+- **Das Mädchen trägt ein rosa Kleid** — *The girl is wearing a pink dress* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

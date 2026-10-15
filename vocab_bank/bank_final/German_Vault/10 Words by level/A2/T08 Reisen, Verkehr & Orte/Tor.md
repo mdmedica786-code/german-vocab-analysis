@@ -35,6 +35,9 @@ status: "new"
 > Hinter dem Tor geht es zur Fabrik.
 > *Behind the gate you get to the factory.*
 
+**Phrases & Expressions:**
+- **Hinter dem Tor geht es zur Fabrik** — *Behind the gate you get to the factory* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1b ÜB (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

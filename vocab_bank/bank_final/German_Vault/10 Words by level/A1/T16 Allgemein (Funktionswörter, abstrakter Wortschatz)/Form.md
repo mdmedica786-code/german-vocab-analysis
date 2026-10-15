@@ -35,6 +35,9 @@ status: "new"
 > Diese Schuhe haben eine schöne Form.
 > *These shoes have a nice shape.*
 
+**Phrases & Expressions:**
+- **Diese Schuhe haben eine schöne Form** — *These shoes have a nice shape* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3c (Freunde, Kollegen und ich) · Goethe word list B1
 <!-- bank:end -->
 

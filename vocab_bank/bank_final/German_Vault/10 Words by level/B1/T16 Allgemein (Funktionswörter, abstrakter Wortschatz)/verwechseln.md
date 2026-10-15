@@ -33,6 +33,9 @@ status: "new"
 > Entschuldigen Sie, ich habe Sie mit jemandem verwechselt.
 > *Excuse me, I mistook you for someone else.*
 
+**Phrases & Expressions:**
+- **Entschuldigen Sie, ich habe Sie mit jemandem verwechselt** — *Excuse me, I mistook you for someone else* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 6c (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Ebenda wird dieselbe Frage gestellt.
 > *The same question is asked in the same place.*
 
+**Phrases & Expressions:**
+- **ebenda, Seite 5** — *in the same place; ibid.*
+- **ebenda zitiert** — *in the same place; ibid.*
+- **siehe ebenda** — *in the same place; ibid.*
+
 **Collocations**
 - ebenda, Seite 5
 - ebenda zitiert

@@ -33,6 +33,11 @@ status: "new"
 > Die Umsatzsteuer beträgt in Deutschland in der Regel 19 Prozent.
 > *Value-added tax in Germany is usually 19 per cent.*
 
+**Phrases & Expressions:**
+- **Umsatzsteuer ausweisen** — *value-added tax; sales tax*
+- **inklusive Umsatzsteuer** — *value-added tax; sales tax*
+- **Umsatzsteuer abführen** — *value-added tax; sales tax*
+
 **Collocations**
 - Umsatzsteuer ausweisen
 - inklusive Umsatzsteuer

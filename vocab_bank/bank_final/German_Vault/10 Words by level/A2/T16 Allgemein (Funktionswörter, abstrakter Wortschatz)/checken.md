@@ -33,6 +33,9 @@ status: "new"
 > Ich checke meine E-Mails jeden Tag.
 > *I check my emails every day.*
 
+**Phrases & Expressions:**
+- **Ich checke meine E-Mails jeden Tag** — *I check my emails every day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1a (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

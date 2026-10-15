@@ -33,6 +33,11 @@ status: "new"
 > Mit dem Locher stanzt er Löcher in die Blätter.
 > *With the hole punch he punches holes in the sheets.*
 
+**Phrases & Expressions:**
+- **den Locher benutzen** — *hole punch*
+- **Papier lochen** — *hole punch*
+- **Locher und Hefter** — *hole punch*
+
 **Collocations**
 - den Locher benutzen
 - Papier lochen

@@ -31,6 +31,9 @@ status: "new"
 > Die Rechnung ist Ende des Monats fällig.
 > *The bill is due at the end of the month.*
 
+**Phrases & Expressions:**
+- **Die Rechnung ist Ende des Monats fällig** — *The bill is due at the end of the month* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3b ÜB (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

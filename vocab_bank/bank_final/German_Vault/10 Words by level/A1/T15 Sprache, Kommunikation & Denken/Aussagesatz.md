@@ -34,6 +34,9 @@ status: "new"
 > Ein Aussagesatz endet mit einem Punkt.
 > *A declarative sentence ends with a full stop.*
 
+**Phrases & Expressions:**
+- **Ein Aussagesatz endet mit einem Punkt** — *A declarative sentence ends with a full stop* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 4b (Guten Tag!)
 <!-- bank:end -->
 

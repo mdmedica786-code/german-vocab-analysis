@@ -34,6 +34,9 @@ status: "new"
 > Haushaltswaren gibt es im dritten Stock.
 > *Household goods are on the third floor.*
 
+**Phrases & Expressions:**
+- **Haushaltswaren gibt es im dritten Stock** — *Household goods are on the third floor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

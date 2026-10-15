@@ -29,6 +29,11 @@ status: "new"
 > Er ist so rechthaberisch, dass man kaum mit ihm diskutieren kann.
 > *He always insists on being right, so one can hardly discuss anything with him.*
 
+**Phrases & Expressions:**
+- **ein rechthaberischer Mensch** — *opinionated; always wanting to be right*
+- **rechthaberisch sein** — *opinionated; always wanting to be right*
+- **rechthaberisch auftreten** — *opinionated; always wanting to be right*
+
 **Collocations**
 - ein rechthaberischer Mensch
 - rechthaberisch sein

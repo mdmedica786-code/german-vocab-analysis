@@ -34,6 +34,9 @@ status: "new"
 > Die Liebesszene im Film ist sehr romantisch.
 > *The love scene in the film is very romantic.*
 
+**Phrases & Expressions:**
+- **Die Liebesszene im Film ist sehr romantisch** — *The love scene in the film is very romantic* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist)
 <!-- bank:end -->
 

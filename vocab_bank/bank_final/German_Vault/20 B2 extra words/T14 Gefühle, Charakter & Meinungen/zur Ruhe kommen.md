@@ -26,6 +26,10 @@ status: "new"
 > Nach dem Umzug kamen wir erst nach Wochen zur Ruhe.
 > *After the move we only found peace after weeks.*
 
+**Phrases & Expressions:**
+- **endlich zur Ruhe kommen** — *to calm down; to find peace*
+- **zur Ruhe bringen** — *to calm down; to find peace*
+
 **Collocations**
 - endlich zur Ruhe kommen
 - zur Ruhe bringen

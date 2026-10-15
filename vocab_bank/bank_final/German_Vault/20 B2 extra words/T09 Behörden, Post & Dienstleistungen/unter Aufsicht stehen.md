@@ -26,6 +26,9 @@ status: "new"
 > Die Kinder stehen während des Ausflugs unter Aufsicht.
 > *The children are supervised during the outing.*
 
+**Phrases & Expressions:**
+- **unter ärztlicher Aufsicht** — *to be supervised*
+
 **Collocations**
 - unter ärztlicher Aufsicht
 

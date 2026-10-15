@@ -33,6 +33,11 @@ status: "new"
 > Die Meldebescheinigung erhalten Sie im Bürgeramt.
 > *You get the registration certificate at the citizens' office.*
 
+**Phrases & Expressions:**
+- **eine Meldebescheinigung beantragen** — *registration certificate*
+- **Meldebescheinigung vorlegen** — *registration certificate*
+- **aktuelle Meldebescheinigung** — *registration certificate*
+
 **Collocations**
 - eine Meldebescheinigung beantragen
 - Meldebescheinigung vorlegen

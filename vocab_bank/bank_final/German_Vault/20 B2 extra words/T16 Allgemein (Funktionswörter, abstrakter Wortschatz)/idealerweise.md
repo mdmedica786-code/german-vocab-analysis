@@ -29,6 +29,11 @@ status: "new"
 > Idealerweise beginnen wir schon um acht Uhr.
 > *Ideally we start at eight o'clock.*
 
+**Phrases & Expressions:**
+- **idealerweise sollte** — *ideally*
+- **idealerweise vorbereiten** — *ideally*
+- **idealerweise zusammen** — *ideally*
+
 **Collocations**
 - idealerweise sollte
 - idealerweise vorbereiten

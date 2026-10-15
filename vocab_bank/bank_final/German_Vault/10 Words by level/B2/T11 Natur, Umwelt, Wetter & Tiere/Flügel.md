@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Vogel breitet die Flügel aus.
 > *The bird spreads its wings.*
+
+**Phrases & Expressions:**
+- **Der Vogel breitet die Flügel aus** — *The bird spreads its wings* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

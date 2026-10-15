@@ -34,6 +34,9 @@ status: "new"
 > Er arbeitet in der Filmbranche.
 > *He works in the film industry.*
 
+**Phrases & Expressions:**
+- **Er arbeitet in der Filmbranche** — *He works in the film industry* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist)
 <!-- bank:end -->
 

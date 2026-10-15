@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Ich habe im Spiel das nächste Level erreicht.
 > *I have reached the next level in the game.*
+
+**Phrases & Expressions:**
+- **Ich habe im Spiel das nächste Level erreicht** — *I have reached the next level in the game* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

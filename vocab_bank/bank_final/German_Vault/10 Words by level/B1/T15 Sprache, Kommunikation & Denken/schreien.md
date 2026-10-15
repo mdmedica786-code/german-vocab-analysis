@@ -33,6 +33,13 @@ status: "new"
 > Kinder, hört bitte auf, so laut zu schreien. – Ich muss arbeiten.
 > *Children, please stop screaming so loudly. – I have to work.*
 
+**Phrases & Expressions:**
+- **Wenn Sie weiter schreien, muss ich das Gespräch beenden.** — If you keep shouting, I will have to end the conversation. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Grenzen setzen]] · C1)*
+- **laut schreien** — *to scream*
+- **um Hilfe schreien** — *to scream*
+- **vor Schmerz schreien** — *to scream*
+- **jemanden anschreien** — *to scream*
+
 **Collocations**
 - laut schreien
 - um Hilfe schreien

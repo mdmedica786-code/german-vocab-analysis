@@ -39,6 +39,9 @@ status: "new"
 > An der Berufsmittelschule macht er die Berufsmatura.
 > *At the vocational secondary school he takes the vocational baccalaureate.*
 
+**Phrases & Expressions:**
+- **An der Berufsmittelschule macht er die Berufsmatura** — *At the vocational secondary school he takes the vocational baccalaureate* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

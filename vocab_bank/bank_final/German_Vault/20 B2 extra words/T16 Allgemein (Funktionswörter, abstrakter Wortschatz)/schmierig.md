@@ -29,6 +29,11 @@ status: "new"
 > Die Fensterscheibe ist ganz schmierig.
 > *The window pane is all smeary.*
 
+**Phrases & Expressions:**
+- **schmierige Hände** — *greasy; smeary*
+- **schmierig sein** — *greasy; smeary*
+- **ein schmieriges Lächeln** — *greasy; smeary*
+
 **Collocations**
 - schmierige Hände
 - schmierig sein

@@ -33,6 +33,11 @@ status: "new"
 > Für die Firmengründung braucht man eine Genehmigung.
 > *For founding a company one needs a permit.*
 
+**Phrases & Expressions:**
+- **eine Firmengründung planen** — *founding of a company*
+- **Beratung zur Firmengründung** — *founding of a company*
+- **nach der Firmengründung** — *founding of a company*
+
 **Collocations**
 - eine Firmengründung planen
 - Beratung zur Firmengründung

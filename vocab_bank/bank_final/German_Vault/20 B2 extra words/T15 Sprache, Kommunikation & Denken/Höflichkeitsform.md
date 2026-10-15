@@ -33,6 +33,11 @@ status: "new"
 > „Sie“ ist die Höflichkeitsform im Deutschen.
 > *"Sie" is the polite form in German.*
 
+**Phrases & Expressions:**
+- **die Höflichkeitsform benutzen** — *polite form; form of politeness*
+- **in der Höflichkeitsform** — *polite form; form of politeness*
+- **eine Höflichkeitsform lernen** — *polite form; form of politeness*
+
 **Collocations**
 - die Höflichkeitsform benutzen
 - in der Höflichkeitsform

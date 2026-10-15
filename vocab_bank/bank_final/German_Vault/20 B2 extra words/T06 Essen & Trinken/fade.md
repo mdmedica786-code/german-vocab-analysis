@@ -29,6 +29,11 @@ status: "new"
 > Die Suppe schmeckt fade, sie braucht mehr Salz.
 > *The soup tastes bland; it needs more salt.*
 
+**Phrases & Expressions:**
+- **fade schmecken** — *bland; insipid*
+- **ein fader Geschmack** — *bland; insipid*
+- **fade Antworten** — *bland; insipid*
+
 **Collocations**
 - fade schmecken
 - ein fader Geschmack

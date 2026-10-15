@@ -33,6 +33,10 @@ status: "new"
 > Bitte senden Sie uns die Unterlagen per E-Mail.
 > *Please send us the documents by email.*
 
+**Phrases & Expressions:**
+- **Wir senden Ihnen umgehend einen Ersatz zu.** — We will send you a replacement immediately. *([[B2-04 Beschwerde und Reklamation|Lösung anbieten]] · B2)*
+- **Bitte senden Sie mir die Antragsformulare zu.** — Please send me the application forms. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Unterlagen anfordern]] · B2)*
+
 **Source:** Netzwerk neu A2 K3 1b ÜB (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

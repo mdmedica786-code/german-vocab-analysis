@@ -26,6 +26,11 @@ status: "new"
 > Der Mann war nach dem Sturz kurz bewusstlos.
 > *The man was briefly unconscious after the fall.*
 
+**Phrases & Expressions:**
+- **bewusstlos werden** — *unconscious*
+- **bewusstlos am Boden liegen** — *unconscious*
+- **eine bewusstlose Person** — *unconscious*
+
 **Collocations**
 - bewusstlos werden
 - bewusstlos am Boden liegen

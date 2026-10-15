@@ -33,6 +33,11 @@ status: "new"
 > Für den Zweitwohnsitz muss man eine Steuer zahlen.
 > *For a second home you have to pay a tax.*
 
+**Phrases & Expressions:**
+- **einen Zweitwohnsitz anmelden** — *second home; secondary residence*
+- **Zweitwohnsitzsteuer** — *second home; secondary residence*
+- **Haupt- und Zweitwohnsitz** — *second home; secondary residence*
+
 **Collocations**
 - einen Zweitwohnsitz anmelden
 - Zweitwohnsitzsteuer

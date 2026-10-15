@@ -30,6 +30,11 @@ status: "new"
 > Vor dem Jobantritt muss man den Vertrag unterschreiben.
 > *Before starting the job you have to sign the contract.*
 
+**Phrases & Expressions:**
+- **vor dem Jobantritt** — *starting a job; start of a job*
+- **nach dem Jobantritt** — *starting a job; start of a job*
+- **beim Jobantritt** — *starting a job; start of a job*
+
 **Collocations**
 - vor dem Jobantritt
 - nach dem Jobantritt

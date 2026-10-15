@@ -32,6 +32,11 @@ status: "new"
 > Er pocht auf sein Recht.
 > *He insists on his right.*
 
+**Phrases & Expressions:**
+- **auf sein Recht pochen** — *to insist on; to knock; to throb*
+- **an die Tür pochen** — *to insist on; to knock; to throb*
+- **das Herz pocht** — *to insist on; to knock; to throb*
+
 **Collocations**
 - auf sein Recht pochen
 - an die Tür pochen

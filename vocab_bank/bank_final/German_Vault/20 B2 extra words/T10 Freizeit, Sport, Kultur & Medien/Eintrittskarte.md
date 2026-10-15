@@ -33,6 +33,11 @@ status: "new"
 > Die Eintrittskarten für das Konzert sind ausverkauft.
 > *The tickets for the concert are sold out.*
 
+**Phrases & Expressions:**
+- **eine Eintrittskarte kaufen** — *admission ticket*
+- **Eintrittskarten reservieren** — *admission ticket*
+- **die Eintrittskarte vorzeigen** — *admission ticket*
+
 **Collocations**
 - eine Eintrittskarte kaufen
 - Eintrittskarten reservieren

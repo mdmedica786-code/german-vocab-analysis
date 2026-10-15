@@ -30,6 +30,9 @@ status: "new"
 > Hi, wie geht's dir?
 > *Hi, how are you?*
 
+**Phrases & Expressions:**
+- **Hi, wie geht's dir** — *Hi, how are you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 3a (Zeit mit Freunden)
 <!-- bank:end -->
 

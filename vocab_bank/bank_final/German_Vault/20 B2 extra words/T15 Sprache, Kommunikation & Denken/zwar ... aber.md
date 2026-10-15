@@ -26,6 +26,11 @@ status: "new"
 > Das Hotel ist zwar teuer, aber das Frühstück ist ausgezeichnet.
 > *The hotel is admittedly expensive, but the breakfast is excellent.*
 
+**Phrases & Expressions:**
+- **zwar ... aber ...** — *admittedly ... but ...; it is true that ... but ...*
+- **zwar schön, aber teuer** — *admittedly ... but ...; it is true that ... but ...*
+- **zwar müde, aber glücklich** — *admittedly ... but ...; it is true that ... but ...*
+
 **Collocations**
 - zwar ... aber ...
 - zwar schön, aber teuer

@@ -35,6 +35,9 @@ status: "new"
 > Wie ist Ihre Postleitzahl?
 > *What is your postcode?*
 
+**Phrases & Expressions:**
+- **Wie ist Ihre Postleitzahl** — *What is your postcode* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Kritiker lobten den neuen Film.
 > *The critics praised the new film.*
 
+**Phrases & Expressions:**
+- **ein scharfer Kritiker** — *critic*
+- **Kritiker und Befürworter** — *critic*
+- **die Kritiker loben** — *critic*
+
 **Collocations**
 - ein scharfer Kritiker
 - Kritiker und Befürworter

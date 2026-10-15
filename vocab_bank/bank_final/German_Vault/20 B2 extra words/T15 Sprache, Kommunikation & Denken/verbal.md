@@ -29,6 +29,11 @@ status: "new"
 > Er reagierte verbal sehr aggressiv.
 > *He reacted very aggressively verbally.*
 
+**Phrases & Expressions:**
+- **verbale Kommunikation** — *verbal*
+- **verbal ausdrücken** — *verbal*
+- **eine verbale Auseinandersetzung** — *verbal*
+
 **Collocations**
 - verbale Kommunikation
 - verbal ausdrücken

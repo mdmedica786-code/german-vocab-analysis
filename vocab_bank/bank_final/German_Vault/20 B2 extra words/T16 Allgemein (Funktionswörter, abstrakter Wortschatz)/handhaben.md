@@ -31,6 +31,11 @@ status: "new"
 > Die Regel wird in jeder Abteilung anders gehandhabt.
 > *The rule is handled differently in each department.*
 
+**Phrases & Expressions:**
+- **ein Gerät handhaben** — *to handle; to operate*
+- **etwas flexibel handhaben** — *to handle; to operate*
+- **eine Regel handhaben** — *to handle; to operate*
+
 **Collocations**
 - ein Gerät handhaben
 - etwas flexibel handhaben

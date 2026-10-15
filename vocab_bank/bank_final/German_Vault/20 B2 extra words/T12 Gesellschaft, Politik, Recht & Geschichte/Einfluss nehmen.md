@@ -26,6 +26,10 @@ status: "new"
 > Die Eltern wollen auf die Schulwahl Einfluss nehmen.
 > *The parents want to influence the choice of school.*
 
+**Phrases & Expressions:**
+- **Einfluss nehmen auf + Akk.** — *to exert influence*
+- **Einfluss auf die Politik nehmen** — *to exert influence*
+
 **Collocations**
 - Einfluss nehmen auf + Akk.
 - Einfluss auf die Politik nehmen

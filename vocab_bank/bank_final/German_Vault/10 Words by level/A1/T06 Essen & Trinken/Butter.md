@@ -35,6 +35,9 @@ status: "new"
 > Für mich bitte ein Brötchen mit Butter und Käse.
 > *For me a roll with butter and cheese, please.*
 
+**Phrases & Expressions:**
+- **Für mich bitte ein Brötchen mit Butter und Käse** — *For me a roll with butter and cheese, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

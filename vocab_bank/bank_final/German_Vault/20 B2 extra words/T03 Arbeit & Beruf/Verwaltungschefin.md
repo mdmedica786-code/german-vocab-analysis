@@ -33,6 +33,11 @@ status: "new"
 > Die Verwaltungschefin hat den neuen Plan genehmigt.
 > *The head of administration approved the new plan.*
 
+**Phrases & Expressions:**
+- **die Verwaltungschefin einer Firma** — *head of administration (female)*
+- **mit der Verwaltungschefin sprechen** — *head of administration (female)*
+- **als Verwaltungschefin arbeiten** — *head of administration (female)*
+
 **Collocations**
 - die Verwaltungschefin einer Firma
 - mit der Verwaltungschefin sprechen

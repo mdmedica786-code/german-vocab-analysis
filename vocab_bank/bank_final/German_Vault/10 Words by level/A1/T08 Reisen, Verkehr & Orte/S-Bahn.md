@@ -36,6 +36,9 @@ status: "new"
 > Ich nehme lieber die S-Bahn.
 > **
 
+**Phrases & Expressions:**
+- **Ich nehme lieber die S-Bahn** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 6a ÜB (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

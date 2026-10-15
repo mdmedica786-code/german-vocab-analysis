@@ -34,6 +34,14 @@ status: "new"
 > Setz dich doch!
 > *Do sit down!*
 
+**Phrases & Expressions:**
+- **Ich setze Ihnen eine Frist bis zum ...** — I am setting you a deadline of ... *([[B2-04 Beschwerde und Reklamation|Frist setzen]] · B2)*
+- **Setzen Sie sich bitte aufrecht hin.** — Please sit up straight. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Lagerung]] · A2)*
+- **Setzen Sie das Medikament bitte nicht eigenmächtig ab.** — Please do not stop the medicine on your own. *([[FSP-11 Therapie und Medikamente erklären|Dauer der Behandlung]] · B2)*
+- **sich auf einen Stuhl setzen** — *to sit down; to put; to set*
+- **sich zu jemandem setzen** — *to sit down; to put; to set*
+- **ein Ziel setzen** — *to sit down; to put; to set*
+
 **Collocations**
 - sich auf einen Stuhl setzen
 - sich zu jemandem setzen

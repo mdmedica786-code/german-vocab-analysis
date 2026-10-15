@@ -33,6 +33,11 @@ status: "new"
 > Die Aufrechterhaltung der Ordnung ist Aufgabe der Polizei.
 > *Maintaining order is the task of the police.*
 
+**Phrases & Expressions:**
+- **die Aufrechterhaltung der Ordnung** — *maintenance; upholding*
+- **zur Aufrechterhaltung** — *maintenance; upholding*
+- **die Aufrechterhaltung des Betriebs** — *maintenance; upholding*
+
 **Collocations**
 - die Aufrechterhaltung der Ordnung
 - zur Aufrechterhaltung

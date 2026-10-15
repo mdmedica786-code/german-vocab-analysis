@@ -32,6 +32,9 @@ status: "new"
 > Die Uhrzeit können Sie an der Information erfragen.
 > *You can find out the time at the information desk.*
 
+**Phrases & Expressions:**
+- **Die Uhrzeit können Sie an der Information erfragen** — *You can find out the time at the information desk* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 13d (Ganz schön mobil)
 <!-- bank:end -->
 

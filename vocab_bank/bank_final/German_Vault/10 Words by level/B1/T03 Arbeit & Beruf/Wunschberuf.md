@@ -31,6 +31,9 @@ status: "new"
 > Mein Wunschberuf ist Ärztin.
 > *My dream job is doctor.*
 
+**Phrases & Expressions:**
+- **Mein Wunschberuf ist Ärztin** — *My dream job is doctor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 3 (Arbeitswelt)
 <!-- bank:end -->
 

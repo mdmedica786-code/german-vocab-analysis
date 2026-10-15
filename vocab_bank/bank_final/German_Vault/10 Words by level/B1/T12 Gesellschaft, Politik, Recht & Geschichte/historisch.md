@@ -31,6 +31,12 @@ status: "new"
 > Wir waren mit unserer Klasse im Historischen Museum.
 > *We went to the Historical Museum with our class.*
 
+**Phrases & Expressions:**
+- **historische Gebäude** — *historical*
+- **historisch gesehen** — *historical*
+- **ein historisches Ereignis** — *historical*
+- **historisches Zentrum** — *historical*
+
 **Collocations**
 - historische Gebäude
 - historisch gesehen

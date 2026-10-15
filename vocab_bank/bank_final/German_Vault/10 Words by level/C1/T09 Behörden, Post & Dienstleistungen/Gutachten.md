@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Ein Arzt erstellt das Gutachten.
 > *A doctor draws up the expert report.*
+
+**Phrases & Expressions:**
+- **Ein Arzt erstellt das Gutachten** — *A doctor draws up the expert report* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

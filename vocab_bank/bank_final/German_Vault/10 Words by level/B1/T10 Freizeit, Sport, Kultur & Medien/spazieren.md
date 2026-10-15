@@ -32,6 +32,9 @@ status: "new"
 > Am Sonntag spazieren wir durch den Park.
 > *On Sunday we stroll through the park.*
 
+**Phrases & Expressions:**
+- **Am Sonntag spazieren wir durch den Park** — *On Sunday we stroll through the park* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 8b (Gute Reise!)
 <!-- bank:end -->
 

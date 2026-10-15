@@ -35,6 +35,9 @@ status: "new"
 > Das ist ein alter Konflikt.
 > *That is an old conflict.*
 
+**Phrases & Expressions:**
+- **Das ist ein alter Konflikt** — *That is an old conflict* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 2b (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

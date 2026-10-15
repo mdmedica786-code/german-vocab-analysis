@@ -34,6 +34,9 @@ status: "new"
 > Der Umgang mit Kindern macht mir Freude.
 > *Dealing with children gives me pleasure.*
 
+**Phrases & Expressions:**
+- **Der Umgang mit Kindern macht mir Freude** — *Dealing with children gives me pleasure* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 11a (Miteinander)
 <!-- bank:end -->
 

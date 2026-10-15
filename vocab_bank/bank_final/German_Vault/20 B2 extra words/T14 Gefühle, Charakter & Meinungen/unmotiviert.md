@@ -29,6 +29,11 @@ status: "new"
 > Die Schüler wirkten heute unmotiviert.
 > *The pupils seemed unmotivated today.*
 
+**Phrases & Expressions:**
+- **unmotiviert wirken** — *unmotivated; for no reason*
+- **ein unmotivierter Mitarbeiter** — *unmotivated; for no reason*
+- **unmotiviert sein** — *unmotivated; for no reason*
+
 **Collocations**
 - unmotiviert wirken
 - ein unmotivierter Mitarbeiter

@@ -29,6 +29,11 @@ status: "new"
 > Das Medikament blieb bei ihm wirkungslos.
 > *The medication remained ineffective in his case.*
 
+**Phrases & Expressions:**
+- **wirkungslos bleiben** — *ineffective; without effect*
+- **wirkungslos sein** — *ineffective; without effect*
+- **eine wirkungslose Maßnahme** — *ineffective; without effect*
+
 **Collocations**
 - wirkungslos bleiben
 - wirkungslos sein

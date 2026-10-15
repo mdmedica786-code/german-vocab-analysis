@@ -33,6 +33,11 @@ status: "new"
 > Wir haben schon zwanzig Umzugskartons gepackt.
 > *We have already packed twenty moving boxes.*
 
+**Phrases & Expressions:**
+- **Umzugskartons packen** — *moving box*
+- **Umzugskartons beschriften** — *moving box*
+- **Umzugskartons besorgen** — *moving box*
+
 **Collocations**
 - Umzugskartons packen
 - Umzugskartons beschriften

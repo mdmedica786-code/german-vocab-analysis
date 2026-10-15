@@ -31,6 +31,9 @@ status: "new"
 > Die Wäsche ist bald trocken.
 > *The laundry will soon be dry.*
 
+**Phrases & Expressions:**
+- **Die Wäsche ist bald trocken** — *The laundry will soon be dry* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich) · Goethe word list A2
 <!-- bank:end -->
 

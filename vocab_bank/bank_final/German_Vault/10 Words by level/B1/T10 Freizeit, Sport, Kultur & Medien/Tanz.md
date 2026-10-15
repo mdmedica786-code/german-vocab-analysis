@@ -34,6 +34,9 @@ status: "new"
 > Diese modernen Tänze kann ich nicht.
 > *I cannot do these modern dances.*
 
+**Phrases & Expressions:**
+- **Diese modernen Tänze kann ich nicht** — *I cannot do these modern dances* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

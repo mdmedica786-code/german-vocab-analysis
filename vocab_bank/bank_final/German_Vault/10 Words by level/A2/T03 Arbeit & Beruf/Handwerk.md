@@ -34,6 +34,9 @@ status: "new"
 > Er hat ein Handwerk gelernt.
 > *He has learned a trade.*
 
+**Phrases & Expressions:**
+- **Er hat ein Handwerk gelernt** — *He has learned a trade* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 7a (Nach der Schulzeit)
 <!-- bank:end -->
 

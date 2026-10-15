@@ -33,6 +33,11 @@ status: "new"
 > Ein fester Tagesrhythmus hilft beim Einschlafen.
 > *A fixed daily rhythm helps with falling asleep.*
 
+**Phrases & Expressions:**
+- **einen festen Tagesrhythmus haben** — *daily rhythm; daily routine*
+- **den Tagesrhythmus ändern** — *daily rhythm; daily routine*
+- **der Tagesrhythmus von Kindern** — *daily rhythm; daily routine*
+
 **Collocations**
 - einen festen Tagesrhythmus haben
 - den Tagesrhythmus ändern

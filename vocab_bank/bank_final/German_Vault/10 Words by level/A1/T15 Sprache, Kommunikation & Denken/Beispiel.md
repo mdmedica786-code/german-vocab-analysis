@@ -35,6 +35,14 @@ status: "new"
 > Er mag viele Sportarten, zum Beispiel Tennis und Fußball.
 > *He likes many sports, for example tennis and football.*
 
+**Phrases & Expressions:**
+- **zum Beispiel** — for example *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · A1)*
+- **ein Beispiel für ...** — an example of ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B1)*
+- **wie zum Beispiel** — such as *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B1)*
+- **am Beispiel ...** — using the example of ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **zum Beispiel in ...** — for example in ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B1)*
+- **Das gilt zum Beispiel für ...** — This applies, for example, to ... *([[B1-03 Argumentieren, begründen und Beispiele nennen|Beispiel einleiten]] · B1)*
+
 **Collocations**
 - zum Beispiel
 - ein gutes Beispiel geben

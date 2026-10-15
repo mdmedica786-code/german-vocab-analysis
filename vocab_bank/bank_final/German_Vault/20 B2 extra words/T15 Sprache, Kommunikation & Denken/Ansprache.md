@@ -33,6 +33,11 @@ status: "new"
 > Der Bürgermeister hielt eine kurze Ansprache.
 > *The mayor gave a short speech.*
 
+**Phrases & Expressions:**
+- **eine Ansprache halten** — *speech; address*
+- **eine kurze Ansprache** — *speech; address*
+- **die Ansprache an die Nation** — *speech; address*
+
 **Collocations**
 - eine Ansprache halten
 - eine kurze Ansprache

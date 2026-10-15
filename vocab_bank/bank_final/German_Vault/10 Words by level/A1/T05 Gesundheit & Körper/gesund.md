@@ -32,6 +32,9 @@ status: "new"
 > Ich hatte Grippe. Jetzt bin ich wieder gesund.
 > *I had the flu. Now I'm healthy again.*
 
+**Phrases & Expressions:**
+- **Bisher war ich eigentlich immer gesund.** — So far I have actually always been healthy. *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Patient: Keine Vorerkrankungen]] · A2)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

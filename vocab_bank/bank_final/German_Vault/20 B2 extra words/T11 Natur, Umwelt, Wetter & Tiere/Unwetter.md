@@ -33,6 +33,11 @@ status: "new"
 > Für das Wochenende wird vor Unwettern gewarnt.
 > *Warnings of severe weather are issued for the weekend.*
 
+**Phrases & Expressions:**
+- **vor Unwettern warnen** — *storm; severe weather*
+- **ein Unwetter zieht auf** — *storm; severe weather*
+- **schweres Unwetter** — *storm; severe weather*
+
 **Collocations**
 - vor Unwettern warnen
 - ein Unwetter zieht auf

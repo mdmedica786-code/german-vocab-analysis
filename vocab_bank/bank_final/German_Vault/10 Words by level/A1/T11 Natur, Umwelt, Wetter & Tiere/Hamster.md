@@ -34,6 +34,9 @@ status: "new"
 > Mein Hamster schläft den ganzen Tag.
 > *My hamster sleeps all day.*
 
+**Phrases & Expressions:**
+- **Mein Hamster schläft den ganzen Tag** — *My hamster sleeps all day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10b (Alltag und Familie)
 <!-- bank:end -->
 

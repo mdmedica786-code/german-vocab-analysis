@@ -31,6 +31,11 @@ status: "new"
 > Er nörgelt an allem herum.
 > *He finds fault with everything.*
 
+**Phrases & Expressions:**
+- **an etwas nörgeln** — *to carp; to nag*
+- **ständig nörgeln** — *to carp; to nag*
+- **herumnörgeln** — *to carp; to nag*
+
 **Collocations**
 - an etwas nörgeln
 - ständig nörgeln

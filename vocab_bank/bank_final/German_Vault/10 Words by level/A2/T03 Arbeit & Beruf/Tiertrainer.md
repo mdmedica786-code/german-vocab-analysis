@@ -34,6 +34,9 @@ status: "new"
 > Der Tiertrainer arbeitet im Zirkus.
 > *The animal trainer works in the circus.*
 
+**Phrases & Expressions:**
+- **Der Tiertrainer arbeitet im Zirkus** — *The animal trainer works in the circus* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 9a (Arbeitswelten)
 <!-- bank:end -->
 

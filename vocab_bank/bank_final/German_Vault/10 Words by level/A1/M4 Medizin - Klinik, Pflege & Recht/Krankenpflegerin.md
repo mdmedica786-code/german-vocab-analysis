@@ -34,6 +34,11 @@ status: "new"
 > Die Krankenpflegerin misst den Blutdruck.
 > *The nurse is taking the blood pressure.*
 
+**Phrases & Expressions:**
+- **als Krankenpflegerin arbeiten** — *nurse (f)*
+- **Ausbildung zur Krankenpflegerin** — *nurse (f)*
+- **die Krankenpflegerin rufen** — *nurse (f)*
+
 **Collocations**
 - als Krankenpflegerin arbeiten
 - Ausbildung zur Krankenpflegerin

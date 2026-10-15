@@ -33,6 +33,11 @@ status: "new"
 > Das Fenster hat ein Gitter aus Eisen.
 > *The window has an iron grille.*
 
+**Phrases & Expressions:**
+- **hinter Gittern** — *bars; grille; grid*
+- **ein Gitter vor dem Fenster** — *bars; grille; grid*
+- **ein eisernes Gitter** — *bars; grille; grid*
+
 **Collocations**
 - hinter Gittern
 - ein Gitter vor dem Fenster

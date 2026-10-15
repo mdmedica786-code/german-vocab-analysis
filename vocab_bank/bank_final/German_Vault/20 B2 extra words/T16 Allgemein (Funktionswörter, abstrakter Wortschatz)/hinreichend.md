@@ -29,6 +29,11 @@ status: "new"
 > Das Beispiel ist hinreichend erklärt.
 > *The example is sufficiently explained.*
 
+**Phrases & Expressions:**
+- **hinreichend erklärt** — *sufficient*
+- **hinreichend bekannt** — *sufficient*
+- **eine hinreichende Begründung** — *sufficient*
+
 **Collocations**
 - hinreichend erklärt
 - hinreichend bekannt

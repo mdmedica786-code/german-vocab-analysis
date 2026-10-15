@@ -34,6 +34,9 @@ status: "new"
 > Die Melodie dieses Liedes ist sehr schön.
 > *The melody of this song is very beautiful.*
 
+**Phrases & Expressions:**
+- **Die Melodie dieses Liedes ist sehr schön** — *The melody of this song is very beautiful* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9b (Blick nach vorn)
 <!-- bank:end -->
 

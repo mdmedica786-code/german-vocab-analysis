@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Ich habe heute eine berufliche Verpflichtung.
 > *I have a work commitment today.*
+
+**Phrases & Expressions:**
+- **Ich habe heute eine berufliche Verpflichtung** — *I have a work commitment today* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

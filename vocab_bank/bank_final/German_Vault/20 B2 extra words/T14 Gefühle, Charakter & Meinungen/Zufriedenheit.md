@@ -33,6 +33,11 @@ status: "new"
 > Die Zufriedenheit der Kunden steht an erster Stelle.
 > *Customer satisfaction comes first.*
 
+**Phrases & Expressions:**
+- **Kundenzufriedenheit** — *satisfaction; contentment*
+- **berufliche Zufriedenheit** — *satisfaction; contentment*
+- **Zufriedenheit ausdrücken** — *satisfaction; contentment*
+
 **Collocations**
 - Kundenzufriedenheit
 - berufliche Zufriedenheit

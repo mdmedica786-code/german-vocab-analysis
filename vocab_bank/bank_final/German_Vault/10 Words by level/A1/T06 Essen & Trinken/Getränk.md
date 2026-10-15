@@ -35,6 +35,9 @@ status: "new"
 > Besorgst du bitte die Getränke?
 > *Can you get the drinks, please?*
 
+**Phrases & Expressions:**
+- **Wer kümmert sich um die Getränke?** — Who is taking care of the drinks? *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Aufgaben verteilen]] · B1)*
+
 **Source:** Netzwerk neu A1 K4 3b (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

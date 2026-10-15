@@ -35,6 +35,12 @@ status: "new"
 > Leider habe ich die Einführung des Kurses verpasst.
 > *Unfortunately I missed the introduction to the course.*
 
+**Phrases & Expressions:**
+- **Einführung in ...** — introduction to ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **eine Einführung geben** — *introduction*
+- **zur Einführung** — *introduction*
+- **die Einführung neuer Regeln** — *introduction*
+
 **Collocations**
 - eine Einführung geben
 - Einführung in ...

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Bundestagswahl findet alle vier Jahre statt.
 > *The federal election takes place every four years.*
+
+**Phrases & Expressions:**
+- **Die Bundestagswahl findet alle vier Jahre statt** — *The federal election takes place every four years* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,11 @@ status: "new"
 > Er war immer ein Kämpfer und gab nie auf.
 > *He was always a fighter and never gave up.*
 
+**Phrases & Expressions:**
+- **ein tapferer Kämpfer** — *fighter; combatant*
+- **ein Kämpfer für Gerechtigkeit** — *fighter; combatant*
+- **die Kämpfer** — *fighter; combatant*
+
 **Collocations**
 - ein tapferer Kämpfer
 - ein Kämpfer für Gerechtigkeit

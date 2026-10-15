@@ -34,6 +34,9 @@ status: "new"
 > Die Weltmeisterin trainiert täglich.
 > *The world champion trains daily.*
 
+**Phrases & Expressions:**
+- **Die Weltmeisterin trainiert täglich** — *The world champion trains daily* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

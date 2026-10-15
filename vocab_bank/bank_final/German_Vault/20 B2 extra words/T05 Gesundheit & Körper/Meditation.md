@@ -33,6 +33,11 @@ status: "new"
 > Sie macht jeden Morgen zehn Minuten Meditation.
 > *She does ten minutes of meditation every morning.*
 
+**Phrases & Expressions:**
+- **Meditation üben** — *meditation*
+- **eine geführte Meditation** — *meditation*
+- **zur Meditation** — *meditation*
+
 **Collocations**
 - Meditation üben
 - eine geführte Meditation

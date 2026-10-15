@@ -33,6 +33,11 @@ status: "new"
 > Die Errichtung des Denkmals kostete viel Geld.
 > *The erection of the monument cost a lot of money.*
 
+**Phrases & Expressions:**
+- **die Errichtung eines Gebäudes** — *erection; establishment*
+- **die Errichtung einer Stiftung** — *erection; establishment*
+- **zur Errichtung** — *erection; establishment*
+
 **Collocations**
 - die Errichtung eines Gebäudes
 - die Errichtung einer Stiftung

@@ -34,6 +34,9 @@ status: "new"
 > Das stimmt nicht! Das ist eine Lüge!
 > *That is not true! That is a lie!*
 
+**Phrases & Expressions:**
+- **Das stimmt nicht! Das ist eine Lüge** — *That is not true! That is a lie* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

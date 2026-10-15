@@ -35,6 +35,9 @@ status: "new"
 > Ich habe um 15 Uhr eine Verabredung mit Klaus.
 > *I have an appointment with Klaus at 3 p.m.*
 
+**Phrases & Expressions:**
+- **Ich habe um 15 Uhr eine Verabredung mit Klaus** — *I have an appointment with Klaus at 3 p.m* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 5b (Freunde, Kollegen und ich) · Goethe word list B1
 <!-- bank:end -->
 

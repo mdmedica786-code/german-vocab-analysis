@@ -34,6 +34,9 @@ status: "new"
 > Die Begrüßung war sehr herzlich.
 > *The greeting was very warm.*
 
+**Phrases & Expressions:**
+- **Die Begrüßung war sehr herzlich** — *The greeting was very warm* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen)
 <!-- bank:end -->
 

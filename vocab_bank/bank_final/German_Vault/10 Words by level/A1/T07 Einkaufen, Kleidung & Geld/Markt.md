@@ -35,6 +35,9 @@ status: "new"
 > Ich gehe heute auf den Markt.
 > *I'm going to the market today.*
 
+**Phrases & Expressions:**
+- **Ich gehe heute auf den Markt** — *I'm going to the market today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 8 (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

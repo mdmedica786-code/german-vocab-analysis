@@ -33,6 +33,12 @@ status: "new"
 > Unsere Nachbarn bauen ein neues Haus.
 > *Our neighbours are building a new house.*
 
+**Phrases & Expressions:**
+- **ein Haus bauen** — *to build*
+- **eine Brücke bauen** — *to build*
+- **ein Modell bauen** — *to build*
+- **auf etwas bauen** — *to build*
+
 **Collocations**
 - ein Haus bauen
 - eine Brücke bauen

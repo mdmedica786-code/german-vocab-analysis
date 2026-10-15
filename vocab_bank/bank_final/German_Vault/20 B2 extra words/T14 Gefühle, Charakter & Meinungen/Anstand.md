@@ -33,6 +33,11 @@ status: "new"
 > Ein bisschen Anstand würde dir nicht schaden.
 > *A little decency would not harm you.*
 
+**Phrases & Expressions:**
+- **keinen Anstand haben** — *decency; propriety*
+- **den Anstand wahren** — *decency; propriety*
+- **mit Anstand** — *decency; propriety*
+
 **Collocations**
 - keinen Anstand haben
 - den Anstand wahren

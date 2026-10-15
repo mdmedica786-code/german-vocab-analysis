@@ -33,6 +33,11 @@ status: "new"
 > Die Forschungsrichtung des Instituts hat sich geändert.
 > *The direction of research of the institute has changed.*
 
+**Phrases & Expressions:**
+- **eine neue Forschungsrichtung** — *line of research; research direction*
+- **eine Forschungsrichtung einschlagen** — *line of research; research direction*
+- **verschiedene Forschungsrichtungen** — *line of research; research direction*
+
 **Collocations**
 - eine neue Forschungsrichtung
 - eine Forschungsrichtung einschlagen

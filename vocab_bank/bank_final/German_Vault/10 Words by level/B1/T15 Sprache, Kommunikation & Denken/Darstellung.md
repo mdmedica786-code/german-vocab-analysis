@@ -35,6 +35,12 @@ status: "new"
 > Ihr Buch enthält eine klare Darstellung dieser Probleme.
 > *Your book contains a clear presentation of these problems.*
 
+**Phrases & Expressions:**
+- **eine klare Darstellung** — *depiction*
+- **grafische Darstellung** — *depiction*
+- **Darstellung der Ergebnisse** — *depiction*
+- **eine falsche Darstellung** — *depiction*
+
 **Collocations**
 - eine klare Darstellung
 - grafische Darstellung

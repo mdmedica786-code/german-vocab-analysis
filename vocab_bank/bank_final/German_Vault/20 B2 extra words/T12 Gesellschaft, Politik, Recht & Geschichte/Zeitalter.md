@@ -33,6 +33,11 @@ status: "new"
 > Wir leben im digitalen Zeitalter.
 > *We live in the digital age.*
 
+**Phrases & Expressions:**
+- **im Zeitalter der Digitalisierung** — *era; age*
+- **ein neues Zeitalter** — *era; age*
+- **das Zeitalter der Aufklärung** — *era; age*
+
 **Collocations**
 - im Zeitalter der Digitalisierung
 - ein neues Zeitalter

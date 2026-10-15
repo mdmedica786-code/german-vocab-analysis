@@ -32,6 +32,12 @@ status: "new"
 > Nach dem Anruf des Arztes konnte sie aufatmen.
 > *After the doctor's call she could breathe a sigh of relief.*
 
+**Phrases & Expressions:**
+- **Der Patient ist nicht ansprechbar und atmet nicht normal.** — The patient is unresponsive and not breathing normally. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Notfall einschätzen]] · B2)*
+- **erleichtert aufatmen** — *to breathe a sigh of relief*
+- **endlich aufatmen** — *to breathe a sigh of relief*
+- **aufatmen können** — *to breathe a sigh of relief*
+
 **Collocations**
 - erleichtert aufatmen
 - endlich aufatmen

@@ -26,6 +26,10 @@ status: "new"
 > Die Kundin trat per E-Mail mit dem Support in Kontakt.
 > *The customer got in touch with support by email.*
 
+**Phrases & Expressions:**
+- **in Kontakt treten mit + Dat.** — *to get in touch; to make contact*
+- **in Kontakt bleiben** — *to get in touch; to make contact*
+
 **Collocations**
 - in Kontakt treten mit + Dat.
 - in Kontakt bleiben

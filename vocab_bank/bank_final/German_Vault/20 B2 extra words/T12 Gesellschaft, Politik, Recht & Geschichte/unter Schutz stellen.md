@@ -26,6 +26,10 @@ status: "new"
 > Das Moor wurde unter Schutz gestellt.
 > *The moor was placed under protection.*
 
+**Phrases & Expressions:**
+- **unter Naturschutz stellen** — *to place under protection*
+- **unter Denkmalschutz stellen** — *to place under protection*
+
 **Collocations**
 - unter Naturschutz stellen
 - unter Denkmalschutz stellen

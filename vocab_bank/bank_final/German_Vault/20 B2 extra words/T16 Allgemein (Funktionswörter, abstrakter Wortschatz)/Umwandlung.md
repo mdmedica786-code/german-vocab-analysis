@@ -33,6 +33,11 @@ status: "new"
 > Die Umwandlung der Fabrik in Wohnungen dauert Jahre.
 > *The conversion of the factory into flats takes years.*
 
+**Phrases & Expressions:**
+- **die Umwandlung in Wohnraum** — *conversion; transformation*
+- **die Umwandlung von Energie** — *conversion; transformation*
+- **die Umwandlung einer Firma** — *conversion; transformation*
+
 **Collocations**
 - die Umwandlung in Wohnraum
 - die Umwandlung von Energie

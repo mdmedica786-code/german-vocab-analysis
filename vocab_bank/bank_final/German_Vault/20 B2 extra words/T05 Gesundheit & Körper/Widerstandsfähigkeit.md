@@ -33,6 +33,11 @@ status: "new"
 > Sport stärkt die Widerstandsfähigkeit des Körpers.
 > *Exercise strengthens the body's resilience.*
 
+**Phrases & Expressions:**
+- **die Widerstandsfähigkeit stärken** — *resilience; resistance*
+- **die Widerstandsfähigkeit gegen Krankheiten** — *resilience; resistance*
+- **hohe Widerstandsfähigkeit** — *resilience; resistance*
+
 **Collocations**
 - die Widerstandsfähigkeit stärken
 - die Widerstandsfähigkeit gegen Krankheiten

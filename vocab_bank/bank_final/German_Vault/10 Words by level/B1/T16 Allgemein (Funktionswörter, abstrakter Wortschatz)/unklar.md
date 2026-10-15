@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Situation ist noch unklar.
 > *The situation is still unclear.*
+
+**Phrases & Expressions:**
+- **Wenn etwas unklar ist, fragen Sie bitte jederzeit nach.** — If anything is unclear, please ask at any time. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Rückfragen zulassen]] · B2)*
 <!-- bank:end -->
 
 ## My notes

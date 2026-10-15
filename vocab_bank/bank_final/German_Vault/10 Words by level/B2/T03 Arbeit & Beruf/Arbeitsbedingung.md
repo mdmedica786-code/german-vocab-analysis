@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Arbeitsbedingungen in der Klinik sind gut.
 > *The working conditions in the clinic are good.*
+
+**Phrases & Expressions:**
+- **Die Arbeitsbedingungen in der Klinik sind gut** — *The working conditions in the clinic are good* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

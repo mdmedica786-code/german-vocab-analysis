@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Lied erfreut sich großer Beliebtheit.
 > *The song enjoys great popularity.*
+
+**Phrases & Expressions:**
+- **Das Lied erfreut sich großer Beliebtheit** — *The song enjoys great popularity* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

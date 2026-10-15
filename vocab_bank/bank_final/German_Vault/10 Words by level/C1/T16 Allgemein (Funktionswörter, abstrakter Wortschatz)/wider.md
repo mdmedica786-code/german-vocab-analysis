@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Er hat das wider besseres Wissen getan.
 > *He did that against his better judgement.*
+
+**Phrases & Expressions:**
+- **Er hat das wider besseres Wissen getan** — *He did that against his better judgement* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

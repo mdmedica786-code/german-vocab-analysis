@@ -32,6 +32,11 @@ status: "new"
 > Die Regierung will die Löhne um fünf Prozent anheben.
 > *The government wants to raise wages by five percent.*
 
+**Phrases & Expressions:**
+- **die Preise anheben** — *to raise; to lift; to increase*
+- **den Mindestlohn anheben** — *to raise; to lift; to increase*
+- **ein Gewicht anheben** — *to raise; to lift; to increase*
+
 **Collocations**
 - die Preise anheben
 - den Mindestlohn anheben

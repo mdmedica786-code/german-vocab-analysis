@@ -35,6 +35,9 @@ status: "new"
 > Bringst du bitte den Müll raus?
 > *Can you take the rubbish out, please?*
 
+**Phrases & Expressions:**
+- **Bringst du bitte den Müll raus** — *Can you take the rubbish out, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt) · Goethe word list A2
 <!-- bank:end -->
 

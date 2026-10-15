@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Aus dem Topf steigt Dampf auf.
 > *Steam rises from the pot.*
+
+**Phrases & Expressions:**
+- **Aus dem Topf steigt Dampf auf** — *Steam rises from the pot* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

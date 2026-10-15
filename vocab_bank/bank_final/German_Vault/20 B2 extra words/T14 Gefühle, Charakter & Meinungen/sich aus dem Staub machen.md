@@ -29,6 +29,10 @@ status: "new"
 > Als es ans Aufräumen ging, hat er sich aus dem Staub gemacht.
 > *When it came to tidying up, he made himself scarce.*
 
+**Phrases & Expressions:**
+- **heimlich verschwinden** — *to slip away; to make oneself scarce*
+- **abhauen** — *to slip away; to make oneself scarce*
+
 **Collocations**
 - heimlich verschwinden
 - abhauen

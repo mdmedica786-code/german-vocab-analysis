@@ -34,6 +34,9 @@ status: "new"
 > Der Roboter hilft in der Fabrik bei der Montage.
 > *The robot helps with assembly in the factory.*
 
+**Phrases & Expressions:**
+- **Der Roboter hilft in der Fabrik bei der Montage** — *The robot helps with assembly in the factory* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
 <!-- bank:end -->
 

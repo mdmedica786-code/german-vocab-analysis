@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Viele Einwanderer kommen wegen der Arbeit.
 > *Many immigrants come because of work.*
+
+**Phrases & Expressions:**
+- **Viele Einwanderer kommen wegen der Arbeit** — *Many immigrants come because of work* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

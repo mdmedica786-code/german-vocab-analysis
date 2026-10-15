@@ -33,6 +33,11 @@ status: "new"
 > Kinder brauchen Raum zur freien Entfaltung.
 > *Children need space for free development.*
 
+**Phrases & Expressions:**
+- **freie Entfaltung** — *development; unfolding*
+- **zur Entfaltung kommen** — *development; unfolding*
+- **Entfaltung der Persönlichkeit** — *development; unfolding*
+
 **Collocations**
 - freie Entfaltung
 - zur Entfaltung kommen

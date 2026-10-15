@@ -33,6 +33,11 @@ status: "new"
 > Bitte füllen Sie den Vordruck in Druckbuchstaben aus.
 > *Please fill out the form in block capitals.*
 
+**Phrases & Expressions:**
+- **einen Vordruck ausfüllen** — *printed form*
+- **Vordruck anfordern** — *printed form*
+- **amtlicher Vordruck** — *printed form*
+
 **Collocations**
 - einen Vordruck ausfüllen
 - Vordruck anfordern

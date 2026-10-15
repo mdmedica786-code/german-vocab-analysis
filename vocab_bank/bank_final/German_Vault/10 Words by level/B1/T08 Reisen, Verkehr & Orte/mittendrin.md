@@ -30,6 +30,9 @@ status: "new"
 > Wir wohnen mittendrin in der Stadt.
 > *We live right in the middle of the city.*
 
+**Phrases & Expressions:**
+- **Wir wohnen mittendrin in der Stadt** — *We live right in the middle of the city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

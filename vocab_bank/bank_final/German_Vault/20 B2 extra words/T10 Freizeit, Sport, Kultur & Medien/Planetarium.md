@@ -33,6 +33,11 @@ status: "new"
 > Im Planetarium sahen wir den Sternenhimmel.
 > *In the planetarium we saw the starry sky.*
 
+**Phrases & Expressions:**
+- **ins Planetarium gehen** — *planetarium*
+- **ein Besuch im Planetarium** — *planetarium*
+- **die Show im Planetarium** — *planetarium*
+
 **Collocations**
 - ins Planetarium gehen
 - ein Besuch im Planetarium

@@ -30,6 +30,11 @@ status: "new"
 > Für die Prüfung brauchen Sie einen Schreibstift.
 > *For the exam you need a pen or pencil.*
 
+**Phrases & Expressions:**
+- **einen Schreibstift benutzen** — *pen or pencil; writing instrument*
+- **ein Schreibstift aus Holz** — *pen or pencil; writing instrument*
+- **den Schreibstift anspitzen** — *pen or pencil; writing instrument*
+
 **Collocations**
 - einen Schreibstift benutzen
 - ein Schreibstift aus Holz

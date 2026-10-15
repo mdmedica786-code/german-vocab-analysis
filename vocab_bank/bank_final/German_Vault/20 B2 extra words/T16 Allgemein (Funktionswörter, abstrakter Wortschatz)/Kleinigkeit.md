@@ -33,6 +33,11 @@ status: "new"
 > Ich habe dir eine Kleinigkeit mitgebracht.
 > *I brought you a little something.*
 
+**Phrases & Expressions:**
+- **eine Kleinigkeit essen** — *trifle; small thing; small gift*
+- **wegen einer Kleinigkeit** — *trifle; small thing; small gift*
+- **eine Kleinigkeit mitbringen** — *trifle; small thing; small gift*
+
 **Collocations**
 - eine Kleinigkeit essen
 - wegen einer Kleinigkeit

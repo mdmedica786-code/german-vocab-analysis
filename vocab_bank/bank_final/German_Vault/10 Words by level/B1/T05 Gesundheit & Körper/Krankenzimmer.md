@@ -34,6 +34,9 @@ status: "new"
 > Das Krankenzimmer liegt im zweiten Stock.
 > *The hospital room is on the second floor.*
 
+**Phrases & Expressions:**
+- **Das Krankenzimmer liegt im zweiten Stock** — *The hospital room is on the second floor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 2b (Rund um Körper und Geist)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Regen waren die Wege voller Schlamm.
 > *After the rain the paths were full of mud.*
 
+**Phrases & Expressions:**
+- **im Schlamm stecken** — *mud*
+- **voller Schlamm** — *mud*
+- **durch den Schlamm waten** — *mud*
+
 **Collocations**
 - im Schlamm stecken
 - voller Schlamm

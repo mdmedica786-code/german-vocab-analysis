@@ -34,6 +34,9 @@ status: "new"
 > Das Aktiv ist leichter als das Passiv.
 > *The active is easier than the passive.*
 
+**Phrases & Expressions:**
+- **Das Aktiv ist leichter als das Passiv** — *The active is easier than the passive* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 4a (Miteinander)
 <!-- bank:end -->
 

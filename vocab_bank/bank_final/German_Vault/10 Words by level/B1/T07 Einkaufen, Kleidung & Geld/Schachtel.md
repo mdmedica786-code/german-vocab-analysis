@@ -34,6 +34,9 @@ status: "new"
 > Ich hätte gern eine Schachtel Zigaretten.
 > *I would like a packet of cigarettes.*
 
+**Phrases & Expressions:**
+- **Ich rauche seit zehn Jahren etwa eine Schachtel pro Tag.** — I have smoked about a pack a day for ten years. *([[FSP-05 Familien- und Sozialanamnese|Patient: Rauchen angeben]] · B1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

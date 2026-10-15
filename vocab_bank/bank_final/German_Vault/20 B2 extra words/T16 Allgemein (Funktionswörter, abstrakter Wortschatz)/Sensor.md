@@ -33,6 +33,11 @@ status: "new"
 > Ein Sensor misst die Temperatur im Raum.
 > *A sensor measures the temperature in the room.*
 
+**Phrases & Expressions:**
+- **ein Sensor reagiert** — *sensor*
+- **Sensoren einbauen** — *sensor*
+- **optischer Sensor** — *sensor*
+
 **Collocations**
 - ein Sensor reagiert
 - Sensoren einbauen

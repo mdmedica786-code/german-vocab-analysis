@@ -33,6 +33,11 @@ status: "new"
 > Geringverdiener können Wohngeld beantragen.
 > *Low earners can apply for housing benefit.*
 
+**Phrases & Expressions:**
+- **Wohngeld beantragen** — *housing benefit*
+- **Wohngeld beziehen** — *housing benefit*
+- **Anspruch auf Wohngeld** — *housing benefit*
+
 **Collocations**
 - Wohngeld beantragen
 - Wohngeld beziehen

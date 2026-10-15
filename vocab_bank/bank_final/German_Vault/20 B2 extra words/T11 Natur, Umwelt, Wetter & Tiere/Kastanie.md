@@ -33,6 +33,11 @@ status: "new"
 > Im Herbst sammeln die Kinder Kastanien.
 > *In autumn the children collect chestnuts.*
 
+**Phrases & Expressions:**
+- **Kastanien sammeln** — *chestnut*
+- **geröstete Kastanien** — *chestnut*
+- **Kastanienbaum** — *chestnut*
+
 **Collocations**
 - Kastanien sammeln
 - geröstete Kastanien

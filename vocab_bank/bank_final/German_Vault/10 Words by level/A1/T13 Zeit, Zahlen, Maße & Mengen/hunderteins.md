@@ -31,6 +31,9 @@ status: "new"
 > Die Zahl hunderteins hat drei Stellen.
 > *The number one hundred and one has three digits.*
 
+**Phrases & Expressions:**
+- **Die Zahl hunderteins hat drei Stellen** — *The number one hundred and one has three digits* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

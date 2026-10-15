@@ -26,6 +26,10 @@ status: "new"
 > Die Eltern äußerten Bedenken gegen den Plan.
 > *The parents voiced concerns about the plan.*
 
+**Phrases & Expressions:**
+- **Bedenken äußern gegen + Akk.** — *to voice concerns*
+- **Bedenken haben** — *to voice concerns*
+
 **Collocations**
 - Bedenken äußern gegen + Akk.
 - Bedenken haben

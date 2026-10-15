@@ -33,6 +33,9 @@ status: "new"
 > Wir bauen eine neue Küche ein.
 > *We are installing a new kitchen.*
 
+**Phrases & Expressions:**
+- **Wir bauen eine neue Küche ein** — *We are installing a new kitchen* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist)
 <!-- bank:end -->
 

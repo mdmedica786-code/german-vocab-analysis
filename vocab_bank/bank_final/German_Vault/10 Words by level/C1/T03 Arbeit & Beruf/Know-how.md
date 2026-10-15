@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Dafür braucht man viel Know-how.
 > *You need a lot of know-how for that.*
+
+**Phrases & Expressions:**
+- **Dafür braucht man viel Know-how** — *You need a lot of know-how for that* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

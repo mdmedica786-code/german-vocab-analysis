@@ -35,6 +35,9 @@ status: "new"
 > Ich verstehe dich besser, wenn du nicht Dialekt sprichst.
 > *I understand you better when you do not speak dialect.*
 
+**Phrases & Expressions:**
+- **Ich verstehe dich besser, wenn du nicht Dialekt sprichst** — *I understand you better when you do not speak dialect* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 4b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

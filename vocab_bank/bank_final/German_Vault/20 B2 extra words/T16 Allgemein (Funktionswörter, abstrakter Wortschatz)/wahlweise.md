@@ -29,6 +29,11 @@ status: "new"
 > Das Menü gibt es wahlweise mit Fleisch oder vegetarisch.
 > *The menu is available with meat or vegetarian, as you choose.*
 
+**Phrases & Expressions:**
+- **wahlweise mit** — *optionally; as you choose*
+- **wahlweise erhältlich** — *optionally; as you choose*
+- **wahlweise bestellen** — *optionally; as you choose*
+
 **Collocations**
 - wahlweise mit
 - wahlweise erhältlich

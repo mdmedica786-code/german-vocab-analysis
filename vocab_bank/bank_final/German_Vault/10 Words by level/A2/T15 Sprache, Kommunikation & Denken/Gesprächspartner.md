@@ -34,6 +34,9 @@ status: "new"
 > Mein Gesprächspartner spricht sehr deutlich.
 > *My conversation partner speaks very clearly.*
 
+**Phrases & Expressions:**
+- **Mein Gesprächspartner spricht sehr deutlich** — *My conversation partner speaks very clearly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

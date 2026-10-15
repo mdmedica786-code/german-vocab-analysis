@@ -29,6 +29,11 @@ status: "new"
 > Das ist weitaus besser als gestern.
 > *That is far better than yesterday.*
 
+**Phrases & Expressions:**
+- **weitaus besser** — *far; by far*
+- **weitaus mehr** — *far; by far*
+- **weitaus größer** — *far; by far*
+
 **Collocations**
 - weitaus besser
 - weitaus mehr

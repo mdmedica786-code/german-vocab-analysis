@@ -33,6 +33,11 @@ status: "new"
 > Sie trägt roten Nagellack.
 > *She wears red nail varnish.*
 
+**Phrases & Expressions:**
+- **Nagellack auftragen** — *nail varnish*
+- **Nagellack entfernen** — *nail varnish*
+- **roter Nagellack** — *nail varnish*
+
 **Collocations**
 - Nagellack auftragen
 - Nagellack entfernen

@@ -29,6 +29,11 @@ status: "new"
 > Derjenige, der das Fenster geöffnet hat, soll es schließen.
 > *The one who opened the window should close it.*
 
+**Phrases & Expressions:**
+- **derjenige, der** — *the one (who); that person*
+- **diejenigen, die** — *the one (who); that person*
+- **desjenigen** — *the one (who); that person*
+
 **Collocations**
 - derjenige, der
 - diejenigen, die

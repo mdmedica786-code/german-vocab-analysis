@@ -34,6 +34,9 @@ status: "new"
 > Die Angeklagte bestreitet die Tat.
 > *The defendant denies the act.*
 
+**Phrases & Expressions:**
+- **Die Angeklagte bestreitet die Tat** — *The defendant denies the act* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

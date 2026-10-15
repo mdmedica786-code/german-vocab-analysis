@@ -32,6 +32,9 @@ status: "new"
 > Das stimmt nicht.
 > **
 
+**Phrases & Expressions:**
+- **Das stimmt nicht** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 7c (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

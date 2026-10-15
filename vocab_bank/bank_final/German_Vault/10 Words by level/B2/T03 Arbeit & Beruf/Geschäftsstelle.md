@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Geschäftsstelle ist von 9 bis 17 Uhr geöffnet.
 > *The office is open from 9 to 5.*
+
+**Phrases & Expressions:**
+- **Die Geschäftsstelle ist von 9 bis 17 Uhr geöffnet** — *The office is open from 9 to 5* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

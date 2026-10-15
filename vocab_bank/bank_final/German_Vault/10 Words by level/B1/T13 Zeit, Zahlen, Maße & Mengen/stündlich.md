@@ -30,6 +30,9 @@ status: "new"
 > Der Bus fährt stündlich.
 > *The bus runs hourly.*
 
+**Phrases & Expressions:**
+- **Der Bus fährt stündlich** — *The bus runs hourly* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -31,6 +31,9 @@ status: "new"
 > Wie heißen die Wörter in Ihrer Sprache?
 > *What are the words called in your language?*
 
+**Phrases & Expressions:**
+- **Wie heißen die Wörter in Ihrer Sprache** — *What are the words called in your language* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1b (Guten Tag!)
 <!-- bank:end -->
 

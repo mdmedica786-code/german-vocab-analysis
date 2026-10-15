@@ -33,6 +33,11 @@ status: "new"
 > Zum Frühstück trinke ich einen Smoothie aus Obst.
 > *For breakfast I drink a fruit smoothie.*
 
+**Phrases & Expressions:**
+- **einen Smoothie mixen** — *smoothie*
+- **ein Smoothie mit Banane** — *smoothie*
+- **ein grüner Smoothie** — *smoothie*
+
 **Collocations**
 - einen Smoothie mixen
 - ein Smoothie mit Banane

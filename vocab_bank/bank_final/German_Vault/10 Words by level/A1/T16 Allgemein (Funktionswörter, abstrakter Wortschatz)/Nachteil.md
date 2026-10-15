@@ -35,6 +35,10 @@ status: "new"
 > Einen Nachteil hat die Wohnung. Sie liegt nicht zentral.
 > *The flat has one disadvantage. It isn't centrally located.*
 
+**Phrases & Expressions:**
+- **Ein Nachteil ist, dass ...** — A disadvantage is that ... *([[B1-04 Vor- und Nachteile nennen|Nachteil nennen]] · B1)*
+- **Die Vor- und Nachteile halten sich die Waage.** — The pros and cons balance each other out. *([[B1-04 Vor- und Nachteile nennen|Abwägen]] · B1)*
+
 **Source:** Netzwerk neu A1 K9 10b (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

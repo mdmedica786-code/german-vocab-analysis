@@ -33,6 +33,11 @@ status: "new"
 > Im Großraumbüro ist es oft laut und unruhig.
 > *In an open-plan office it is often loud and restless.*
 
+**Phrases & Expressions:**
+- **im Großraumbüro arbeiten** — *open-plan office*
+- **ein lautes Großraumbüro** — *open-plan office*
+- **ein Großraumbüro einrichten** — *open-plan office*
+
 **Collocations**
 - im Großraumbüro arbeiten
 - ein lautes Großraumbüro

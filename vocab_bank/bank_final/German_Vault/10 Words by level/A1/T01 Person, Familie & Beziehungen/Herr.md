@@ -37,6 +37,12 @@ status: "new"
 > Guten Tag, Herr Hansen.
 > *Good day, Mr Hansen.*
 
+**Phrases & Expressions:**
+- **Sehr geehrte Damen und Herren,** — Dear Sir or Madam, *([[B1-13 Formelle E-Mail und Brief|Anrede]] · B1)*
+- **Sehr geehrte Frau Schmidt, sehr geehrter Herr Müller,** — Dear Ms Schmidt, dear Mr Müller, *([[B1-13 Formelle E-Mail und Brief|Anrede]] · B1)*
+- **Zur Situation: Herr Meier hat seit einer Stunde Atemnot.** — On the situation: Mr Meier has had shortness of breath for an hour. *([[FSP-19 Übergabe, Konsil und Rücksprache|SBAR: Situation]] · B2)*
+- **Sehr geehrte Frau Kollegin, sehr geehrter Herr Kollege,** — Dear colleague (female), dear colleague (male), *([[FSP-20 Arztbrief und Dokumentation|Anrede und Anlass]] · B2)*
+
 **Source:** Netzwerk neu A1 K1 3a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

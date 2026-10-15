@@ -31,6 +31,9 @@ status: "new"
 > Ich schicke dir eine Urlaubsnachricht vom Strand.
 > *I'll send you a holiday message from the beach.*
 
+**Phrases & Expressions:**
+- **Ich schicke dir eine Urlaubsnachricht vom Strand** — *I'll send you a holiday message from the beach* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 11b (Ab in den Urlaub!)
 <!-- bank:end -->
 

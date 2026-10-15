@@ -29,6 +29,11 @@ status: "new"
 > Die Wolken am Himmel sahen bedrohlich aus.
 > *The clouds in the sky looked threatening.*
 
+**Phrases & Expressions:**
+- **bedrohlich wirken** — *threatening; ominous*
+- **eine bedrohliche Lage** — *threatening; ominous*
+- **bedrohlich nahe** — *threatening; ominous*
+
 **Collocations**
 - bedrohlich wirken
 - eine bedrohliche Lage

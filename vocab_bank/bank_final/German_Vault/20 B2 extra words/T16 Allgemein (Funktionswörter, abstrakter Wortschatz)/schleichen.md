@@ -31,6 +31,11 @@ status: "new"
 > Die Katze schleicht durch den Garten.
 > *The cat creeps through the garden.*
 
+**Phrases & Expressions:**
+- **auf Zehenspitzen schleichen** — *to creep; to sneak*
+- **sich ins Haus schleichen** — *to creep; to sneak*
+- **um etwas herumschleichen** — *to creep; to sneak*
+
 **Collocations**
 - auf Zehenspitzen schleichen
 - sich ins Haus schleichen

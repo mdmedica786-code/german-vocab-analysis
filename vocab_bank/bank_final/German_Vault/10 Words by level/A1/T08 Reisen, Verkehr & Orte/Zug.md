@@ -36,6 +36,9 @@ status: "new"
 > Ich fahre gern mit dem Zug.
 > **
 
+**Phrases & Expressions:**
+- **Ich fahre gern mit dem Zug** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

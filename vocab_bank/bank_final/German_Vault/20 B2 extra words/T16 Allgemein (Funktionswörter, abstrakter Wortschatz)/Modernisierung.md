@@ -33,6 +33,11 @@ status: "new"
 > Die Modernisierung der Schule dauert zwei Jahre.
 > *The modernisation of the school takes two years.*
 
+**Phrases & Expressions:**
+- **die Modernisierung der Wirtschaft** — *modernisation*
+- **eine Modernisierung durchführen** — *modernisation*
+- **die Modernisierung von Gebäuden** — *modernisation*
+
 **Collocations**
 - die Modernisierung der Wirtschaft
 - eine Modernisierung durchführen

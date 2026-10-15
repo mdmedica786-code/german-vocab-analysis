@@ -35,6 +35,9 @@ status: "new"
 > Ich glaube, es gibt heute ein Gewitter.
 > *I think there will be a thunderstorm today.*
 
+**Phrases & Expressions:**
+- **Ich glaube, es gibt heute ein Gewitter** — *I think there will be a thunderstorm today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 11a (Ganz schön mobil) · Goethe word list A2
 <!-- bank:end -->
 

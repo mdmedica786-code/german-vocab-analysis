@@ -30,6 +30,11 @@ status: "new"
 > Die Schuldfrage muss das Gericht klären.
 > *The court has to clarify the question of guilt.*
 
+**Phrases & Expressions:**
+- **die Schuldfrage stellen** — *question of guilt; question of blame*
+- **die Schuldfrage klären** — *question of guilt; question of blame*
+- **die Schuldfrage offenlassen** — *question of guilt; question of blame*
+
 **Collocations**
 - die Schuldfrage stellen
 - die Schuldfrage klären

@@ -33,6 +33,11 @@ status: "new"
 > Die Ausbreitung der Krankheit konnte gestoppt werden.
 > *The spread of the disease could be stopped.*
 
+**Phrases & Expressions:**
+- **die Ausbreitung des Virus** — *spread; expansion*
+- **die Ausbreitung verhindern** — *spread; expansion*
+- **eine schnelle Ausbreitung** — *spread; expansion*
+
 **Collocations**
 - die Ausbreitung des Virus
 - die Ausbreitung verhindern

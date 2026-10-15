@@ -33,6 +33,11 @@ status: "new"
 > Der Index stieg um zwei Prozent.
 > *The index rose by two per cent.*
 
+**Phrases & Expressions:**
+- **der Preisindex** — *index*
+- **im Index nachschlagen** — *index*
+- **ein Index steigt** — *index*
+
 **Collocations**
 - der Preisindex
 - im Index nachschlagen

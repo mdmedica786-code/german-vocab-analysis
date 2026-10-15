@@ -33,6 +33,11 @@ status: "new"
 > Vergiss nicht, alle Quellen im Literaturverzeichnis aufzuführen.
 > *Don't forget to list all sources in the bibliography.*
 
+**Phrases & Expressions:**
+- **ein Literaturverzeichnis erstellen** — *bibliography*
+- **im Literaturverzeichnis aufführen** — *bibliography*
+- **Literaturverzeichnis und Anhang** — *bibliography*
+
 **Collocations**
 - ein Literaturverzeichnis erstellen
 - im Literaturverzeichnis aufführen

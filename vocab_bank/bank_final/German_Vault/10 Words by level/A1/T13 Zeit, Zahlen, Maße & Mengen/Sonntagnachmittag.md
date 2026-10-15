@@ -34,6 +34,9 @@ status: "new"
 > Am Sonntagnachmittag gehen wir spazieren.
 > *On Sunday afternoon we go for a walk.*
 
+**Phrases & Expressions:**
+- **Am Sonntagnachmittag gehen wir spazieren** — *On Sunday afternoon we go for a walk* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10c (Alltag und Familie)
 <!-- bank:end -->
 

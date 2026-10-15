@@ -34,6 +34,9 @@ status: "new"
 > Im Sommer gehen wir ins Flussbad.
 > *In summer we go to the river baths.*
 
+**Phrases & Expressions:**
+- **Im Sommer gehen wir ins Flussbad** — *In summer we go to the river baths* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

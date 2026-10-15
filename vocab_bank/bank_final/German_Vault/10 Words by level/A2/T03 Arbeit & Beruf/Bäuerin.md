@@ -34,6 +34,9 @@ status: "new"
 > Die Bäuerin melkt die Kühe.
 > *The farmer milks the cows.*
 
+**Phrases & Expressions:**
+- **Die Bäuerin melkt die Kühe** — *The farmer milks the cows* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12a (Zusammen leben)
 <!-- bank:end -->
 

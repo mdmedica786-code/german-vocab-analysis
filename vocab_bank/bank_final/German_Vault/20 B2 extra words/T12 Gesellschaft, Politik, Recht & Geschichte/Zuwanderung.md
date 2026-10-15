@@ -33,6 +33,11 @@ status: "new"
 > Die Zuwanderung von Fachkräften soll erleichtert werden.
 > *The immigration of skilled workers is to be made easier.*
 
+**Phrases & Expressions:**
+- **Zuwanderung steuern** — *immigration*
+- **die Zuwanderung begrenzen** — *immigration*
+- **Zuwanderung und Integration** — *immigration*
+
 **Collocations**
 - Zuwanderung steuern
 - die Zuwanderung begrenzen

@@ -33,6 +33,9 @@ status: "new"
 > Wie schnell kannst du tippen?
 > *How fast can you type?*
 
+**Phrases & Expressions:**
+- **Wie schnell kannst du tippen** — *How fast can you type* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 7 (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,10 @@ status: "new"
 > Die Stadt muss Maßnahmen gegen den Lärm ergreifen.
 > *The city has to take measures against the noise.*
 
+**Phrases & Expressions:**
+- **Maßnahmen ergreifen gegen + Akk.** — *to take measures*
+- **geeignete Maßnahmen ergreifen** — *to take measures*
+
 **Collocations**
 - Maßnahmen ergreifen gegen + Akk.
 - geeignete Maßnahmen ergreifen

@@ -31,6 +31,9 @@ status: "new"
 > Der neue Chef ist sehr sympathisch.
 > *The new boss is very likeable.*
 
+**Phrases & Expressions:**
+- **Der neue Chef ist sehr sympathisch** — *The new boss is very likeable* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 5b (Sportlich, sportlich) · Goethe word list A2
 <!-- bank:end -->
 

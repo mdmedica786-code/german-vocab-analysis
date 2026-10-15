@@ -30,6 +30,14 @@ status: "new"
 > Die Haltestelle ist nur zwei Minuten entfernt.
 > *The stop is only two minutes away.*
 
+**Phrases & Expressions:**
+- **weit von ... entfernt** — far from ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **Mir wurde vor fünf Jahren der Blinddarm entfernt.** — I had my appendix removed five years ago. *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Patient: Operation nennen]] · B2)*
+- **weit entfernt** — *away*
+- **nicht weit entfernt** — *away*
+- **zwei Kilometer entfernt** — *away*
+- **entfernt verwandt** — *away*
+
 **Collocations**
 - weit entfernt
 - nicht weit entfernt

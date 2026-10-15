@@ -33,6 +33,11 @@ status: "new"
 > Die Arbeit ist eine Synthese aus Theorie und Praxis.
 > *The work is a synthesis of theory and practice.*
 
+**Phrases & Expressions:**
+- **eine Synthese bilden** — *synthesis*
+- **eine Synthese aus** — *synthesis*
+- **eine gelungene Synthese** — *synthesis*
+
 **Collocations**
 - eine Synthese bilden
 - eine Synthese aus

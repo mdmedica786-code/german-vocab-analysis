@@ -34,6 +34,9 @@ status: "new"
 > Der Rhythmus des Liedes ist schnell.
 > *The rhythm of the song is fast.*
 
+**Phrases & Expressions:**
+- **Der Rhythmus des Liedes ist schnell** — *The rhythm of the song is fast* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9b (Blick nach vorn)
 <!-- bank:end -->
 

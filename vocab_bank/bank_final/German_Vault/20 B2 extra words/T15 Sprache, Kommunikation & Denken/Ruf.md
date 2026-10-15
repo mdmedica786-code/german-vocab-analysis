@@ -33,6 +33,14 @@ status: "new"
 > Das Restaurant hat einen sehr guten Ruf.
 > *The restaurant has a very good reputation.*
 
+**Phrases & Expressions:**
+- **Sobald ich Zeit habe, rufe ich dich an.** — As soon as I have time, I'll call you. *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Zeit: sobald]] · B1)*
+- **Ich rufe an, weil ...** — I'm calling because ... *([[B2-07 Telefonieren|Anrufgrund nennen]] · B1)*
+- **Bitte rufen Sie mich unter der Nummer ... zurück.** — Please call me back on the number ... *([[B2-07 Telefonieren|Nachricht hinterlassen]] · B1)*
+- **Ich rufe Sie gleich noch einmal an.** — I'll call you again in a moment. *([[B2-07 Telefonieren|Verbindungsprobleme]] · B1)*
+- **Rufen Sie bitte sofort den Notarzt!** — Please call the emergency doctor immediately! *([[FSP-16 Notfall, Triage und Anweisungen im Team|Alarmieren]] · A2)*
+- **Hier spricht Dr. ... von der Station ..., ich rufe wegen ... an.** — This is Dr ... from ward ..., I am calling about ... *([[FSP-19 Übergabe, Konsil und Rücksprache|Telefonische Rückfrage]] · B2)*
+
 **Collocations**
 - einen guten Ruf haben
 - im Ruf stehen

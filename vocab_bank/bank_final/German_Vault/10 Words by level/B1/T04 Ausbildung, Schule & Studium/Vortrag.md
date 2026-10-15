@@ -35,6 +35,10 @@ status: "new"
 > Ihr Vortrag war sehr interessant.
 > *Your talk was very interesting.*
 
+**Phrases & Expressions:**
+- **In meinem Vortrag geht es um ...** — My talk is about ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Thema einführen]] · B2)*
+- **Mein Vortrag gliedert sich in drei Teile.** — My talk is divided into three parts. *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Aufbau ankündigen]] · B2)*
+
 **Source:** Netzwerk neu B1 K10 11b (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

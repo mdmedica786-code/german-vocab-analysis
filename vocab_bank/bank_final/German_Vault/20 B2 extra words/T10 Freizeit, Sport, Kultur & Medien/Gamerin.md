@@ -33,6 +33,11 @@ status: "new"
 > Die Gamerin hat ein Turnier gewonnen.
 > *The gamer has won a tournament.*
 
+**Phrases & Expressions:**
+- **eine bekannte Gamerin** — *gamer (female)*
+- **als Gamerin spielen** — *gamer (female)*
+- **eine junge Gamerin** — *gamer (female)*
+
 **Collocations**
 - eine bekannte Gamerin
 - als Gamerin spielen

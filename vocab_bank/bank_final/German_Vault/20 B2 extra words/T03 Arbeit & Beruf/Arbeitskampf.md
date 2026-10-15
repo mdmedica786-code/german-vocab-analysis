@@ -33,6 +33,11 @@ status: "new"
 > Der Arbeitskampf dauerte mehr als zwei Wochen.
 > *The industrial action lasted more than two weeks.*
 
+**Phrases & Expressions:**
+- **im Arbeitskampf** — *industrial action*
+- **einen Arbeitskampf beenden** — *industrial action*
+- **Arbeitskampf ankündigen** — *industrial action*
+
 **Collocations**
 - im Arbeitskampf
 - einen Arbeitskampf beenden

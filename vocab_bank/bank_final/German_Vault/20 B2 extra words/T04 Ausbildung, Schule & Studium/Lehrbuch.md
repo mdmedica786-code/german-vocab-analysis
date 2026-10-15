@@ -33,6 +33,11 @@ status: "new"
 > Wir arbeiten im Kurs mit einem neuen Lehrbuch.
 > *In the course we work with a new textbook.*
 
+**Phrases & Expressions:**
+- **ein Lehrbuch benutzen** — *textbook*
+- **Lehrbuch der Chemie** — *textbook*
+- **im Lehrbuch nachschlagen** — *textbook*
+
 **Collocations**
 - ein Lehrbuch benutzen
 - Lehrbuch der Chemie

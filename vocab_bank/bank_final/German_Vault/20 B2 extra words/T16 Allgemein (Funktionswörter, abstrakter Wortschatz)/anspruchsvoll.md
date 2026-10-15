@@ -29,6 +29,11 @@ status: "new"
 > Das ist eine anspruchsvolle Aufgabe, die viel Erfahrung verlangt.
 > *This is a demanding task that requires a lot of experience.*
 
+**Phrases & Expressions:**
+- **eine anspruchsvolle Aufgabe** — *demanding; sophisticated*
+- **ein anspruchsvolles Publikum** — *demanding; sophisticated*
+- **anspruchsvoll kochen** — *demanding; sophisticated*
+
 **Collocations**
 - eine anspruchsvolle Aufgabe
 - ein anspruchsvolles Publikum

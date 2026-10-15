@@ -34,6 +34,9 @@ status: "new"
 > Für diese Arbeit braucht man viel Kraft.
 > *This work takes a lot of strength.*
 
+**Phrases & Expressions:**
+- **Für diese Arbeit braucht man viel Kraft** — *This work takes a lot of strength* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

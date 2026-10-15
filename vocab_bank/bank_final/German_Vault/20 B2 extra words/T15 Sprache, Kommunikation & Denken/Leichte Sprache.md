@@ -29,6 +29,11 @@ status: "new"
 > Viele Behörden schreiben ihre Briefe auch in Leichter Sprache.
 > *Many authorities also write their letters in plain language.*
 
+**Phrases & Expressions:**
+- **in Leichter Sprache** — *plain language (simplified German for easy reading)*
+- **Texte in Leichter Sprache** — *plain language (simplified German for easy reading)*
+- **Leichte Sprache verwenden** — *plain language (simplified German for easy reading)*
+
 **Collocations**
 - in Leichter Sprache
 - Texte in Leichter Sprache

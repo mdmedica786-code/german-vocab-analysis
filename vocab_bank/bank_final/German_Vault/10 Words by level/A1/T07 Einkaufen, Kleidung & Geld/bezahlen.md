@@ -33,6 +33,9 @@ status: "new"
 > Wo muss ich bezahlen?
 > *Where do I have to pay?*
 
+**Phrases & Expressions:**
+- **Wo muss ich bezahlen** — *Where do I have to pay* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 12a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

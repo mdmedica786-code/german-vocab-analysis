@@ -26,6 +26,11 @@ status: "new"
 > Der Verkehr kam in der Innenstadt zum Stillstand.
 > *Traffic came to a standstill in the city centre.*
 
+**Phrases & Expressions:**
+- **Verkehr kommt zum Stillstand** — *to come to a standstill*
+- **zum Stillstand bringen** — *to come to a standstill*
+- **Produktion steht still** — *to come to a standstill*
+
 **Collocations**
 - Verkehr kommt zum Stillstand
 - zum Stillstand bringen

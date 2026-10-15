@@ -29,6 +29,11 @@ status: "new"
 > Sie bewältigte die Aufgabe mühelos.
 > *She managed the task effortlessly.*
 
+**Phrases & Expressions:**
+- **mühelos schaffen** — *effortless; easy*
+- **mühelos gewinnen** — *effortless; easy*
+- **eine mühelose Leistung** — *effortless; easy*
+
 **Collocations**
 - mühelos schaffen
 - mühelos gewinnen

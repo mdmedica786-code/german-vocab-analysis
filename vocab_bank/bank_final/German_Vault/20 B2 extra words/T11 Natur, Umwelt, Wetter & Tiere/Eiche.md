@@ -33,6 +33,11 @@ status: "new"
 > Die alte Eiche im Park ist über 300 Jahre alt.
 > *The old oak in the park is over 300 years old.*
 
+**Phrases & Expressions:**
+- **eine alte Eiche** — *oak*
+- **Eichenholz** — *oak*
+- **unter der Eiche** — *oak*
+
 **Collocations**
 - eine alte Eiche
 - Eichenholz

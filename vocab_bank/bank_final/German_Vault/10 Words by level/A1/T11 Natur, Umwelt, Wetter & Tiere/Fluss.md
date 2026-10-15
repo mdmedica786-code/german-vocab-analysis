@@ -35,6 +35,9 @@ status: "new"
 > Der Rhein ist ein großer Fluss.
 > *The Rhine is a big river.*
 
+**Phrases & Expressions:**
+- **Der Rhein ist ein großer Fluss** — *The Rhine is a big river* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

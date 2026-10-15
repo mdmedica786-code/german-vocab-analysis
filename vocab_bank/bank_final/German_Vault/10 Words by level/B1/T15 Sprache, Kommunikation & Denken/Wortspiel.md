@@ -34,6 +34,9 @@ status: "new"
 > Der Slogan enthält ein lustiges Wortspiel.
 > *The slogan contains a funny play on words.*
 
+**Phrases & Expressions:**
+- **Der Slogan enthält ein lustiges Wortspiel** — *The slogan contains a funny play on words* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 10b (Das ist ja praktisch!)
 <!-- bank:end -->
 

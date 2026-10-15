@@ -30,6 +30,11 @@ status: "new"
 > Laut Mietspiegel ist die Miete in diesem Viertel angemessen.
 > *According to the rent index the rent in this neighbourhood is reasonable.*
 
+**Phrases & Expressions:**
+- **laut Mietspiegel** — *rent index*
+- **im Mietspiegel nachsehen** — *rent index*
+- **der örtliche Mietspiegel** — *rent index*
+
 **Collocations**
 - laut Mietspiegel
 - im Mietspiegel nachsehen

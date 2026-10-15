@@ -33,6 +33,11 @@ status: "new"
 > Dänemark ist eine konstitutionelle Monarchie.
 > *Denmark is a constitutional monarchy.*
 
+**Phrases & Expressions:**
+- **eine konstitutionelle Monarchie** — *monarchy*
+- **die Monarchie abschaffen** — *monarchy*
+- **in einer Monarchie** — *monarchy*
+
 **Collocations**
 - eine konstitutionelle Monarchie
 - die Monarchie abschaffen

@@ -34,6 +34,9 @@ status: "new"
 > Vom Balkon hat man einen schönen Ausblick.
 > *From the balcony you have a lovely view.*
 
+**Phrases & Expressions:**
+- **Vom Balkon hat man einen schönen Ausblick** — *From the balcony you have a lovely view* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 11b (Gute Unterhaltung!)
 <!-- bank:end -->
 

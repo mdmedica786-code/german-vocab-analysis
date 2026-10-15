@@ -29,6 +29,11 @@ status: "new"
 > Sie ist schlagfertig und weiß immer eine Antwort.
 > *She is quick-witted and always knows an answer.*
 
+**Phrases & Expressions:**
+- **schlagfertig antworten** — *quick-witted*
+- **schlagfertig sein** — *quick-witted*
+- **eine schlagfertige Antwort** — *quick-witted*
+
 **Collocations**
 - schlagfertig antworten
 - schlagfertig sein

@@ -31,6 +31,9 @@ status: "new"
 > Ich finde den Film dumm.
 > *I think the film is stupid.*
 
+**Phrases & Expressions:**
+- **Ich finde den Film dumm** — *I think the film is stupid* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 8b (Immer online?) · Goethe word list A2
 <!-- bank:end -->
 

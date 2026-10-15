@@ -34,6 +34,9 @@ status: "new"
 > Wegen der Verletzung gibt es einige Einschränkungen im Alltag.
 > *Because of the injury there are some limitations in everyday life.*
 
+**Phrases & Expressions:**
+- **Wegen der Verletzung gibt es einige Einschränkungen im Alltag** — *Because of the injury there are some limitations in everyday life* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 7a (Rund um Körper und Geist)
 <!-- bank:end -->
 

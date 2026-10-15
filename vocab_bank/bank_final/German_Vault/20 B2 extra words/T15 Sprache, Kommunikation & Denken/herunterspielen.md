@@ -32,6 +32,11 @@ status: "new"
 > Der Politiker spielte das Problem herunter.
 > *The politician played the problem down.*
 
+**Phrases & Expressions:**
+- **ein Problem herunterspielen** — *to play down; to downplay*
+- **die Gefahr herunterspielen** — *to play down; to downplay*
+- **etwas bewusst herunterspielen** — *to play down; to downplay*
+
 **Collocations**
 - ein Problem herunterspielen
 - die Gefahr herunterspielen

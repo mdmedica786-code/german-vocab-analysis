@@ -30,6 +30,9 @@ status: "new"
 > Die erste Silbe ist betont.
 > *The first syllable is stressed.*
 
+**Phrases & Expressions:**
+- **Die erste Silbe ist betont** — *The first syllable is stressed* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 6a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Fragestellung der Studie ist klar.
 > *The research question of the study is clear.*
+
+**Phrases & Expressions:**
+- **Die Fragestellung lautet: Besteht eine Indikation zur Herzkatheteruntersuchung?** — The question is: Is there an indication for cardiac catheterisation? *([[FSP-19 Übergabe, Konsil und Rücksprache|Konsil anfordern]] · C1)*
 <!-- bank:end -->
 
 ## My notes

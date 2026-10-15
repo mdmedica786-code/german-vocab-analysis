@@ -30,6 +30,14 @@ status: "new"
 > Deine Sachen liegen überall rum.
 > *Your things are lying around everywhere.*
 
+**Phrases & Expressions:**
+- **liegt darin, dass ...** — lies in the fact that ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · C1)*
+- **es liegt an ...** — it is due to ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B2)*
+- **... liegt vor, wenn ...** — ... exists if ... *([[Bedingung - Zweck (condition, purpose)|Bedingung / Zweck (condition, purpose)]] · C1)*
+- **das liegt daran, dass ...** — that is because ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B2)*
+- **es lag daran, dass ...** — it was because ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B2)*
+- **Die Stadt liegt im Norden/Süden von ...** — The city lies in the north/south of ... *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ort beschreiben]] · B1)*
+
 **Source:** Netzwerk neu B1 K9 8a (Kunststücke)
 <!-- bank:end -->
 

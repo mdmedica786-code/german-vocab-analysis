@@ -31,6 +31,12 @@ status: "new"
 > Ich bin krank. Deshalb komme ich heute nicht ins Büro.
 > *I'm ill. That's why I'm not coming to the office today.*
 
+**Phrases & Expressions:**
+- **Deshalb ist es wichtig, dass ...** — That is why it is important that ... *([[B1-03 Argumentieren, begründen und Beispiele nennen|Folge nennen]] · B1)*
+- **gerade deshalb** — *therefore*
+- **deshalb auch** — *therefore*
+- **und deshalb ...** — *therefore*
+
 **Collocations**
 - gerade deshalb
 - deshalb auch

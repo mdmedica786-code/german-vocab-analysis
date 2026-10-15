@@ -29,6 +29,11 @@ status: "new"
 > Das neue Café öffnet demnächst.
 > *The new café will open soon.*
 
+**Phrases & Expressions:**
+- **demnächst erscheinen** — *soon; shortly*
+- **demnächst eröffnen** — *soon; shortly*
+- **demnächst starten** — *soon; shortly*
+
 **Collocations**
 - demnächst erscheinen
 - demnächst eröffnen

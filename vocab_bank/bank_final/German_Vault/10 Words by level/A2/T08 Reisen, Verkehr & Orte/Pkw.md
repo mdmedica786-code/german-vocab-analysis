@@ -34,6 +34,9 @@ status: "new"
 > Der Pkw steht auf dem Parkplatz.
 > *The car is in the car park.*
 
+**Phrases & Expressions:**
+- **Der Pkw steht auf dem Parkplatz** — *The car is in the car park* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil)
 <!-- bank:end -->
 

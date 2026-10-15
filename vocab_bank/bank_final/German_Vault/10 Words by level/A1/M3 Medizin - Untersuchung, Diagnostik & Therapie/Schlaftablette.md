@@ -34,6 +34,9 @@ status: "new"
 > Nehmen Sie keine Schlaftabletten ohne Rücksprache.
 > *Do not take sleeping pills without consulting your doctor.*
 
+**Phrases & Expressions:**
+- **Nehmen Sie keine Schlaftabletten ohne Rücksprache** — *Do not take sleeping pills without consulting your doctor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 12b (Fit und gesund)
 <!-- bank:end -->
 

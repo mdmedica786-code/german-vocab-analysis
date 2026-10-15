@@ -34,6 +34,9 @@ status: "new"
 > Die Anruferin möchte mit dem Chef sprechen.
 > *The caller wants to speak to the boss.*
 
+**Phrases & Expressions:**
+- **Die Anruferin möchte mit dem Chef sprechen** — *The caller wants to speak to the boss* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 12b (Arbeitswelten)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Das ist höchst unwahrscheinlich.
 > *That is highly unlikely.*
 
+**Phrases & Expressions:**
+- **höchst wahrscheinlich** — *highly; extremely*
+- **höchst interessant** — *highly; extremely*
+- **höchst erfreulich** — *highly; extremely*
+
 **Collocations**
 - höchst wahrscheinlich
 - höchst interessant

@@ -33,6 +33,11 @@ status: "new"
 > Im Mehrgenerationenhaus leben Jung und Alt unter einem Dach.
 > *In the multigenerational house young and old live under one roof.*
 
+**Phrases & Expressions:**
+- **im Mehrgenerationenhaus wohnen** — *multigenerational house*
+- **ein Mehrgenerationenhaus gründen** — *multigenerational house*
+- **Mehrgenerationenhäuser fördern** — *multigenerational house*
+
 **Collocations**
 - im Mehrgenerationenhaus wohnen
 - ein Mehrgenerationenhaus gründen

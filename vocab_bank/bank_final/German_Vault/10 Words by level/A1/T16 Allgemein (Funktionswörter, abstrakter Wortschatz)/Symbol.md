@@ -35,6 +35,9 @@ status: "new"
 > Das Herz ist ein Symbol für die Liebe.
 > *The heart is a symbol of love.*
 
+**Phrases & Expressions:**
+- **Das Herz ist ein Symbol für die Liebe** — *The heart is a symbol of love* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list B1
 <!-- bank:end -->
 

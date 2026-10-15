@@ -34,6 +34,9 @@ status: "new"
 > Die Kinder streiten (sich) oft.
 > *The children often argue.*
 
+**Phrases & Expressions:**
+- **Die Kinder streiten (sich) oft** — *The children often argue* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 7a (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

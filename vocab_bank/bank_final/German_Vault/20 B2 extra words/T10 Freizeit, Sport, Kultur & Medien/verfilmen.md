@@ -31,6 +31,11 @@ status: "new"
 > Der Roman wurde schon zweimal verfilmt.
 > *The novel has already been adapted for film twice.*
 
+**Phrases & Expressions:**
+- **einen Roman verfilmen** — *to adapt for film; to film (a book)*
+- **ein Buch verfilmen** — *to adapt for film; to film (a book)*
+- **einen Stoff verfilmen** — *to adapt for film; to film (a book)*
+
 **Collocations**
 - einen Roman verfilmen
 - ein Buch verfilmen

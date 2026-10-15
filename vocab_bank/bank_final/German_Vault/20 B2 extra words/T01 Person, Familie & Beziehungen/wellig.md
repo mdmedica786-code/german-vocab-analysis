@@ -29,6 +29,11 @@ status: "new"
 > Sie hat langes welliges Haar.
 > *She has long wavy hair.*
 
+**Phrases & Expressions:**
+- **welliges Haar** — *wavy*
+- **wellig sein** — *wavy*
+- **eine wellige Oberfläche** — *wavy*
+
 **Collocations**
 - welliges Haar
 - wellig sein

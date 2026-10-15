@@ -33,6 +33,11 @@ status: "new"
 > Die Beiträge zur Sozialversicherung teilen sich Arbeitgeber und Arbeitnehmer.
 > *Employers and employees share the contributions to social insurance.*
 
+**Phrases & Expressions:**
+- **Beiträge zur Sozialversicherung** — *social insurance*
+- **in die Sozialversicherung einzahlen** — *social insurance*
+- **Sozialversicherungsnummer** — *social insurance*
+
 **Collocations**
 - Beiträge zur Sozialversicherung
 - in die Sozialversicherung einzahlen

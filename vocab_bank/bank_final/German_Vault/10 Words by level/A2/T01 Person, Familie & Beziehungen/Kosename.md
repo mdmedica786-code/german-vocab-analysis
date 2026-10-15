@@ -34,6 +34,9 @@ status: "new"
 > „Schatz“ ist ein beliebter Kosename.
 > *"Schatz" is a popular pet name.*
 
+**Phrases & Expressions:**
+- **„Schatz“ ist ein beliebter Kosename** — *"Schatz" is a popular pet name* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 10c (Zusammen leben)
 <!-- bank:end -->
 

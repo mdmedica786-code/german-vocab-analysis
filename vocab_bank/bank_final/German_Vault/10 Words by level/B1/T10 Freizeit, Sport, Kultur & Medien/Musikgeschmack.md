@@ -34,6 +34,9 @@ status: "new"
 > Unser Musikgeschmack ist sehr verschieden.
 > *Our taste in music is very different.*
 
+**Phrases & Expressions:**
+- **Unser Musikgeschmack ist sehr verschieden** — *Our taste in music is very different* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist)
 <!-- bank:end -->
 

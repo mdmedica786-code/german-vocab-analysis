@@ -31,6 +31,11 @@ status: "new"
 > Ständig motzt er über das Essen.
 > *He is constantly grumbling about the food.*
 
+**Phrases & Expressions:**
+- **über etwas motzen** — *to grumble; to moan (colloquial)*
+- **ständig motzen** — *to grumble; to moan (colloquial)*
+- **nur motzen** — *to grumble; to moan (colloquial)*
+
 **Collocations**
 - über etwas motzen
 - ständig motzen

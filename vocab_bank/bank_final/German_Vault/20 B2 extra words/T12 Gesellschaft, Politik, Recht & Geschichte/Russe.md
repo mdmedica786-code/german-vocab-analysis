@@ -33,6 +33,11 @@ status: "new"
 > Der Russe sprach fließend Deutsch.
 > *The Russian spoke fluent German.*
 
+**Phrases & Expressions:**
+- **ein Russe** — *Russian (man)*
+- **Russen und Ukrainer** — *Russian (man)*
+- **die Russen** — *Russian (man)*
+
 **Collocations**
 - ein Russe
 - Russen und Ukrainer

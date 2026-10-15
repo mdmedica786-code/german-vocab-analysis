@@ -31,6 +31,9 @@ status: "new"
 > Der Coversong ist bekannter als das Original.
 > *The cover song is better known than the original.*
 
+**Phrases & Expressions:**
+- **Der Coversong ist bekannter als das Original** — *The cover song is better known than the original* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 10a (Blick nach vorn)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Er drückte sein Bedauern über den Fehler aus.
 > *He expressed his regret about the mistake.*
 
+**Phrases & Expressions:**
+- **Wir bedauern die Unannehmlichkeiten sehr.** — We very much regret the inconvenience. *([[B2-04 Beschwerde und Reklamation|Auf Beschwerde reagieren]] · B2)*
+
 **Source:** Netzwerk neu A2 K4 8b (Große und kleine Gefühle)
 <!-- bank:end -->
 

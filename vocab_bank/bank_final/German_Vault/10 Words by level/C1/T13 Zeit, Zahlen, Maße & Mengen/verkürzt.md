@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Arbeitszeit wurde verkürzt.
 > *The working hours were shortened.*
+
+**Phrases & Expressions:**
+- **Die Arbeitszeit wurde verkürzt** — *The working hours were shortened* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

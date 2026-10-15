@@ -33,6 +33,11 @@ status: "new"
 > Im Frühling wandern die Kröten über die Straße zum Teich.
 > *In spring the toads migrate across the road to the pond.*
 
+**Phrases & Expressions:**
+- **Kröten schützen** — *toad*
+- **eine Kröte im Garten** — *toad*
+- **Krötenwanderung** — *toad*
+
 **Collocations**
 - Kröten schützen
 - eine Kröte im Garten

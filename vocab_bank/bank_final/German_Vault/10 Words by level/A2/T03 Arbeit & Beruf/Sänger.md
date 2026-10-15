@@ -35,6 +35,9 @@ status: "new"
 > Der Sänger hat eine tolle Stimme.
 > *The singer has a great voice.*
 
+**Phrases & Expressions:**
+- **Der Sänger hat eine tolle Stimme** — *The singer has a great voice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 5a (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

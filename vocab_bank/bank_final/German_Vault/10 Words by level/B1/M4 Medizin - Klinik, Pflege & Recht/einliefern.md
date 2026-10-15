@@ -33,6 +33,9 @@ status: "new"
 > Der Verletzte wurde ins Krankenhaus eingeliefert.
 > *The injured man was taken to hospital.*
 
+**Phrases & Expressions:**
+- **Der Verletzte wurde ins Krankenhaus eingeliefert** — *The injured man was taken to hospital* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

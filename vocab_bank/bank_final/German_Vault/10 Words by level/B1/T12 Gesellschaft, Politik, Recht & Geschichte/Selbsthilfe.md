@@ -34,6 +34,9 @@ status: "new"
 > Selbsthilfe ist bei Krankheiten oft wichtig.
 > *Self-help is often important in illness.*
 
+**Phrases & Expressions:**
+- **Selbsthilfe ist bei Krankheiten oft wichtig** — *Self-help is often important in illness* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

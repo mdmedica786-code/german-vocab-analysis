@@ -32,6 +32,11 @@ status: "new"
 > Schlagen Sie bitte das Buch auf Seite 20 auf.
 > *Please open the book at page 20.*
 
+**Phrases & Expressions:**
+- **ein Buch aufschlagen** — *to open (a book); to hit; to increase (prices)*
+- **auf dem Boden aufschlagen** — *to open (a book); to hit; to increase (prices)*
+- **die Preise schlagen auf** — *to open (a book); to hit; to increase (prices)*
+
 **Collocations**
 - ein Buch aufschlagen
 - auf dem Boden aufschlagen

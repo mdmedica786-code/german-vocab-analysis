@@ -35,6 +35,9 @@ status: "new"
 > Im Oktober ist das Oktoberfest in München.
 > *The Oktoberfest takes place in Munich in October.*
 
+**Phrases & Expressions:**
+- **Betreff: Anfrage zum Deutschkurs im Oktober** — Subject: Enquiry about the German course in October *([[B1-13 Formelle E-Mail und Brief|Betreff formulieren]] · B1)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

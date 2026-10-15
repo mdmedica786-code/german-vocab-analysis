@@ -34,6 +34,9 @@ status: "new"
 > Der Rundgang durch das Schloss beginnt in wenigen Minuten.
 > *The tour of the castle begins in a few minutes.*
 
+**Phrases & Expressions:**
+- **Der Rundgang durch das Schloss beginnt in wenigen Minuten** — *The tour of the castle begins in a few minutes* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

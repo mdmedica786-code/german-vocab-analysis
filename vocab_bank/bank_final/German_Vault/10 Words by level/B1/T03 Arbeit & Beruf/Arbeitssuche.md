@@ -34,6 +34,9 @@ status: "new"
 > Die Arbeitssuche kann lange dauern.
 > *The job search can take a long time.*
 
+**Phrases & Expressions:**
+- **Die Arbeitssuche kann lange dauern** — *The job search can take a long time* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

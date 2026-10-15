@@ -30,6 +30,13 @@ status: "new"
 > Ich bin überrascht, wie schnell das ging.
 > *I'm surprised how fast that was.*
 
+**Phrases & Expressions:**
+- **Ich bin überrascht, dass ...** — I am surprised that ... *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Überraschung ausdrücken]] · B1)*
+- **überrascht sein** — *surprised*
+- **angenehm überrascht** — *surprised*
+- **völlig überrascht** — *surprised*
+- **überrascht aussehen** — *surprised*
+
 **Collocations**
 - überrascht sein
 - angenehm überrascht

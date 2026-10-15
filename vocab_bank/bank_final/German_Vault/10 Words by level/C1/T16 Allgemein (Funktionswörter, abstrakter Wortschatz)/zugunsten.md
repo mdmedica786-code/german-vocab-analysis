@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Er verzichtete zugunsten seiner Kinder auf das Erbe.
 > *He gave up the inheritance in favour of his children.*
+
+**Phrases & Expressions:**
+- **Er verzichtete zugunsten seiner Kinder auf das Erbe** — *He gave up the inheritance in favour of his children* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

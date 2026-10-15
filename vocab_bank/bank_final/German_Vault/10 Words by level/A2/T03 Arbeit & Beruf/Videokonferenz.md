@@ -34,6 +34,9 @@ status: "new"
 > Das Meeting findet als Videokonferenz statt.
 > *The meeting takes place as a video conference.*
 
+**Phrases & Expressions:**
+- **Das Meeting findet als Videokonferenz statt** — *The meeting takes place as a video conference* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
 <!-- bank:end -->
 

@@ -32,6 +32,14 @@ status: "new"
 > Alle sollen am gesellschaftlichen Leben teilhaben können.
 > *Everyone should be able to take part in social life.*
 
+**Phrases & Expressions:**
+- **ich hatte das Gefühl, dass ...** — I had the feeling that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **zum Teil** — in part *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **ich hatte das Gefühl** — I had the feeling *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **ich hatte keine Ahnung** — I had no idea *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **ich hatte den Eindruck, dass ...** — I had the impression that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **Da hast du zum Teil recht, aber ...** — You're partly right, but ... *([[B1-02 Zustimmen und Widersprechen|Teilweise zustimmen]] · B1)*
+
 **Collocations**
 - am Leben teilhaben
 - an etwas teilhaben

@@ -34,6 +34,9 @@ status: "new"
 > Die Schweizerin arbeitet in Zürich.
 > *The Swiss woman works in Zurich.*
 
+**Phrases & Expressions:**
+- **Die Schweizerin arbeitet in Zürich** — *The Swiss woman works in Zurich* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

@@ -26,6 +26,11 @@ status: "new"
 > Die schlechten Zahlen sind Wasser auf die Mühlen der Kritiker.
 > *The poor figures are grist to the critics' mill.*
 
+**Phrases & Expressions:**
+- **Wasser auf die Mühlen** — *to be grist to someone's mill*
+- **Wasser auf die Mühlen der Kritiker** — *to be grist to someone's mill*
+- **Argumente liefern** — *to be grist to someone's mill*
+
 **Collocations**
 - Wasser auf die Mühlen
 - Wasser auf die Mühlen der Kritiker

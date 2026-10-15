@@ -33,6 +33,11 @@ status: "new"
 > Mein Schwager arbeitet als Architekt.
 > *My brother-in-law works as an architect.*
 
+**Phrases & Expressions:**
+- **mein Schwager** — *brother-in-law*
+- **der Schwager meiner Frau** — *brother-in-law*
+- **Schwager und Schwägerin** — *brother-in-law*
+
 **Collocations**
 - mein Schwager
 - der Schwager meiner Frau

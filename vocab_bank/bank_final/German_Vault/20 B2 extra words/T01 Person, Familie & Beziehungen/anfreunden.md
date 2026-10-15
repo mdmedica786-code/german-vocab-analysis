@@ -32,6 +32,11 @@ status: "new"
 > Ich habe mich schnell mit meinen Nachbarn angefreundet.
 > *I quickly made friends with my neighbours.*
 
+**Phrases & Expressions:**
+- **sich mit jemandem anfreunden** — *to make friends; to get used to (an idea)*
+- **sich mit dem Gedanken anfreunden** — *to make friends; to get used to (an idea)*
+- **sich schnell anfreunden** — *to make friends; to get used to (an idea)*
+
 **Collocations**
 - sich mit jemandem anfreunden
 - sich mit dem Gedanken anfreunden

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Wandel der Gesellschaft geht schnell.
 > *Change in society is fast.*
+
+**Phrases & Expressions:**
+- **Der Wandel der Gesellschaft geht schnell** — *Change in society is fast* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

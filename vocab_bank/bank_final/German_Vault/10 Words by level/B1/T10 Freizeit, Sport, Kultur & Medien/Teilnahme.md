@@ -35,6 +35,9 @@ status: "new"
 > Die Teilnahme am Gewinnspiel ist kostenlos.
 > *Taking part in the prize draw is free.*
 
+**Phrases & Expressions:**
+- **Die Teilnahme am Gewinnspiel ist kostenlos** — *Taking part in the prize draw is free* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 1a ÜB (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

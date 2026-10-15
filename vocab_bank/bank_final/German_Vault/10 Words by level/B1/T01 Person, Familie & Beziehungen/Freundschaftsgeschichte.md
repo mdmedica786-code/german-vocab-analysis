@@ -31,6 +31,9 @@ status: "new"
 > Das Buch erzählt eine schöne Freundschaftsgeschichte.
 > *The book tells a lovely story of a friendship.*
 
+**Phrases & Expressions:**
+- **Das Buch erzählt eine schöne Freundschaftsgeschichte** — *The book tells a lovely story of a friendship* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 2b (Zwischenmenschliches)
 <!-- bank:end -->
 

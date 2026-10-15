@@ -33,6 +33,12 @@ status: "new"
 > Sie hat die Chance genutzt.
 > *She took the chance.*
 
+**Phrases & Expressions:**
+- **die Chance nutzen** — *to use; to take advantage of*
+- **die Zeit nutzen** — *to use; to take advantage of*
+- **das Angebot nutzen** — *to use; to take advantage of*
+- **den Computer nutzen** — *to use; to take advantage of*
+
 **Collocations**
 - die Chance nutzen
 - die Zeit nutzen

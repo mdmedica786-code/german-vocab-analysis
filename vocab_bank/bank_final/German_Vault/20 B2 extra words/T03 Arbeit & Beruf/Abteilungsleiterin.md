@@ -33,6 +33,11 @@ status: "new"
 > Die Abteilungsleiterin leitet die Sitzung.
 > *The head of department chairs the meeting.*
 
+**Phrases & Expressions:**
+- **die Abteilungsleiterin der Firma** — *head of department (female)*
+- **eine neue Abteilungsleiterin** — *head of department (female)*
+- **zur Abteilungsleiterin befördert werden** — *head of department (female)*
+
 **Collocations**
 - die Abteilungsleiterin der Firma
 - eine neue Abteilungsleiterin

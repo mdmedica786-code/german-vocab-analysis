@@ -33,6 +33,11 @@ status: "new"
 > Er hat nur einen Bruchteil der Aufgaben gelöst.
 > *He solved only a fraction of the tasks.*
 
+**Phrases & Expressions:**
+- **ein Bruchteil von** — *fraction; tiny part*
+- **in einem Bruchteil einer Sekunde** — *fraction; tiny part*
+- **nur einen Bruchteil** — *fraction; tiny part*
+
 **Collocations**
 - ein Bruchteil von
 - in einem Bruchteil einer Sekunde

@@ -34,6 +34,9 @@ status: "new"
 > Ich habe im Urlaub 1 Kilo zugenommen.
 > *I put on 1 kilo on holiday.*
 
+**Phrases & Expressions:**
+- **... nimmt kontinuierlich zu.** — ... is steadily increasing. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Anstieg beschreiben]] · B2)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

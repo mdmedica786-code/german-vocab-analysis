@@ -32,6 +32,11 @@ status: "new"
 > Ich habe mich verplappert und das Geheimnis verraten.
 > *I let it slip and gave away the secret.*
 
+**Phrases & Expressions:**
+- **sich verplappern** — *to let something slip*
+- **sich beinahe verplappern** — *to let something slip*
+- **sich leicht verplappern** — *to let something slip*
+
 **Collocations**
 - sich verplappern
 - sich beinahe verplappern

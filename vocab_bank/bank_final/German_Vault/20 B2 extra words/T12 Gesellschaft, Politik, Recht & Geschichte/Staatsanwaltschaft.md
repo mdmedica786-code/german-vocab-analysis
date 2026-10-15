@@ -33,6 +33,11 @@ status: "new"
 > Die Staatsanwaltschaft hat Ermittlungen aufgenommen.
 > *The public prosecutor's office has started investigations.*
 
+**Phrases & Expressions:**
+- **die Staatsanwaltschaft ermittelt** — *public prosecutor's office*
+- **Staatsanwaltschaft Berlin** — *public prosecutor's office*
+- **an die Staatsanwaltschaft übergeben** — *public prosecutor's office*
+
 **Collocations**
 - die Staatsanwaltschaft ermittelt
 - Staatsanwaltschaft Berlin

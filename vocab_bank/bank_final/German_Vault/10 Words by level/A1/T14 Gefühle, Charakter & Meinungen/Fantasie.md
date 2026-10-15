@@ -35,6 +35,9 @@ status: "new"
 > Mein Sohn malt sehr gut. Er hat viel Fantasie.
 > *My son paints very well. He has a lot of imagination.*
 
+**Phrases & Expressions:**
+- **Mein Sohn malt sehr gut. Er hat viel Fantasie** — *My son paints very well. He has a lot of imagination* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 8b (Alltag und Familie) · Goethe word list B1
 <!-- bank:end -->
 

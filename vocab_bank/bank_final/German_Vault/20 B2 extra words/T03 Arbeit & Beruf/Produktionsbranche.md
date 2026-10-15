@@ -30,6 +30,11 @@ status: "new"
 > Die Produktionsbranche sucht dringend Fachkräfte.
 > *The manufacturing industry urgently needs skilled workers.*
 
+**Phrases & Expressions:**
+- **in der Produktionsbranche arbeiten** — *manufacturing industry*
+- **die Produktionsbranche wächst** — *manufacturing industry*
+- **die Produktionsbranche in Deutschland** — *manufacturing industry*
+
 **Collocations**
 - in der Produktionsbranche arbeiten
 - die Produktionsbranche wächst

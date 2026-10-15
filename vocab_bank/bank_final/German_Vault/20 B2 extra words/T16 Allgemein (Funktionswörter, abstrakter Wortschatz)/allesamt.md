@@ -29,6 +29,11 @@ status: "new"
 > Sie sind allesamt gekommen.
 > *They all came.*
 
+**Phrases & Expressions:**
+- **allesamt gut** — *all of them; altogether*
+- **allesamt vergessen** — *all of them; altogether*
+- **wir allesamt** — *all of them; altogether*
+
 **Collocations**
 - allesamt gut
 - allesamt vergessen

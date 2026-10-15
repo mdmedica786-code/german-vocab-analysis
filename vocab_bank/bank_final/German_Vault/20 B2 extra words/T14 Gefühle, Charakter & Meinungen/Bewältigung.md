@@ -33,6 +33,11 @@ status: "new"
 > Die Bewältigung der Krise dauert lange.
 > *Coping with the crisis takes a long time.*
 
+**Phrases & Expressions:**
+- **die Bewältigung der Krise** — *coping; mastering*
+- **zur Bewältigung** — *coping; mastering*
+- **die Bewältigung von Problemen** — *coping; mastering*
+
 **Collocations**
 - die Bewältigung der Krise
 - zur Bewältigung

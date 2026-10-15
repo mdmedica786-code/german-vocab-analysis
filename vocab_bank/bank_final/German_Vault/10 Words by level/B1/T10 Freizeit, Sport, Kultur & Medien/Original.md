@@ -35,6 +35,9 @@ status: "new"
 > Das Original ist für Sie. Wir bekommen die Kopie.
 > *The original is for you. We get the copy.*
 
+**Phrases & Expressions:**
+- **Das Original ist für Sie. Wir bekommen die Kopie** — *The original is for you. We get the copy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

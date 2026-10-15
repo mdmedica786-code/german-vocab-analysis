@@ -35,6 +35,9 @@ status: "new"
 > Sie spielt sehr schön Flöte.
 > *She plays the flute very nicely.*
 
+**Phrases & Expressions:**
+- **Sie spielt sehr schön Flöte** — *She plays the flute very nicely* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9 ÜB (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

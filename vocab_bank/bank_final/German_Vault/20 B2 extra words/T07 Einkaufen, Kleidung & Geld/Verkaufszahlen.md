@@ -32,6 +32,11 @@ status: "new"
 > Die Verkaufszahlen sind im letzten Quartal gestiegen.
 > *The sales figures rose in the last quarter.*
 
+**Phrases & Expressions:**
+- **die Verkaufszahlen steigern** — *sales figures*
+- **die Verkaufszahlen sinken** — *sales figures*
+- **die aktuellen Verkaufszahlen** — *sales figures*
+
 **Collocations**
 - die Verkaufszahlen steigern
 - die Verkaufszahlen sinken

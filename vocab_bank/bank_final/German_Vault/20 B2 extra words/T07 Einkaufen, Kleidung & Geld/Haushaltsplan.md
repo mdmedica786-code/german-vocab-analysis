@@ -33,6 +33,11 @@ status: "new"
 > Die Stadt hat den Haushaltsplan für das nächste Jahr beschlossen.
 > *The city has approved the budget plan for next year.*
 
+**Phrases & Expressions:**
+- **den Haushaltsplan aufstellen** — *budget plan*
+- **Haushaltsplan verabschieden** — *budget plan*
+- **ein ausgeglichener Haushaltsplan** — *budget plan*
+
 **Collocations**
 - den Haushaltsplan aufstellen
 - Haushaltsplan verabschieden

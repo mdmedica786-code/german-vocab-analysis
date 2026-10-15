@@ -35,6 +35,9 @@ status: "new"
 > Der Fernseher ist kaputt.
 > *The TV is broken.*
 
+**Phrases & Expressions:**
+- **Der Fernseher ist kaputt** — *The TV is broken* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

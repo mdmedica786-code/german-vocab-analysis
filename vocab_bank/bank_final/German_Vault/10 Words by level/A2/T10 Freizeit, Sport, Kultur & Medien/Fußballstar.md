@@ -34,6 +34,9 @@ status: "new"
 > Der Fußballstar gibt Autogramme.
 > *The football star signs autographs.*
 
+**Phrases & Expressions:**
+- **Der Fußballstar gibt Autogramme** — *The football star signs autographs* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 5a (Sportlich, sportlich)
 <!-- bank:end -->
 

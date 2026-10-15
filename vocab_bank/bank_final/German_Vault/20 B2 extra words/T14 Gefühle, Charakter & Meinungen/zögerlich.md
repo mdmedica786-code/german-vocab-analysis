@@ -29,6 +29,11 @@ status: "new"
 > Die Regierung reagierte nur zögerlich auf die Krise.
 > *The government reacted only hesitantly to the crisis.*
 
+**Phrases & Expressions:**
+- **zögerlich reagieren** — *hesitant*
+- **eine zögerliche Haltung** — *hesitant*
+- **zögerlich zustimmen** — *hesitant*
+
 **Collocations**
 - zögerlich reagieren
 - eine zögerliche Haltung

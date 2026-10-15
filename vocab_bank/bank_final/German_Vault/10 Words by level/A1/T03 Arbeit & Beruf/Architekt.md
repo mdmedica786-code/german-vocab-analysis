@@ -36,6 +36,9 @@ status: "new"
 > Der Architekt zeichnet den Plan für das neue Haus.
 > *The architect draws the plan for the new house.*
 
+**Phrases & Expressions:**
+- **Der Architekt zeichnet den Plan für das neue Haus** — *The architect draws the plan for the new house* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a (Freunde, Kollegen und ich) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Den Film schaue ich mit deutschen Untertiteln.
 > *I watch the film with German subtitles.*
 
+**Phrases & Expressions:**
+- **mit Untertiteln** — *subtitle*
+- **Untertitel einschalten** — *subtitle*
+- **ein Film mit Untertiteln** — *subtitle*
+
 **Collocations**
 - mit Untertiteln
 - Untertitel einschalten

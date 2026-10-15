@@ -29,6 +29,11 @@ status: "new"
 > Die Firma ist führend auf dem Markt.
 > *The company is a leader on the market.*
 
+**Phrases & Expressions:**
+- **ein führendes Unternehmen** — *leading*
+- **führend sein** — *leading*
+- **eine führende Rolle** — *leading*
+
 **Collocations**
 - ein führendes Unternehmen
 - führend sein

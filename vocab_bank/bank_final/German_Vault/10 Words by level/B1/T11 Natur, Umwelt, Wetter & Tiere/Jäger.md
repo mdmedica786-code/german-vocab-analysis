@@ -34,6 +34,9 @@ status: "new"
 > Der Jäger geht in den Wald.
 > *The hunter goes into the forest.*
 
+**Phrases & Expressions:**
+- **Der Jäger geht in den Wald** — *The hunter goes into the forest* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 13b (Kunststücke)
 <!-- bank:end -->
 

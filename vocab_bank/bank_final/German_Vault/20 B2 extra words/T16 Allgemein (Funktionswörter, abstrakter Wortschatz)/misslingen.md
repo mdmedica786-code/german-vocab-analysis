@@ -31,6 +31,10 @@ status: "new"
 > Der Versuch ist leider misslungen.
 > *The attempt unfortunately failed.*
 
+**Phrases & Expressions:**
+- **der Versuch misslingt** — *to fail; to go wrong*
+- **misslungen sein** — *to fail; to go wrong*
+
 **Collocations**
 - der Versuch misslingt
 - misslungen sein

@@ -30,6 +30,11 @@ status: "new"
 > Sie sprach ruhig mit ihrer Konfliktpartnerin.
 > *She spoke calmly with her opposite number in the conflict.*
 
+**Phrases & Expressions:**
+- **die Konfliktpartnerin anhören** — *party to a conflict (female)*
+- **mit der Konfliktpartnerin sprechen** — *party to a conflict (female)*
+- **beide Konfliktpartnerinnen** — *party to a conflict (female)*
+
 **Collocations**
 - die Konfliktpartnerin anhören
 - mit der Konfliktpartnerin sprechen

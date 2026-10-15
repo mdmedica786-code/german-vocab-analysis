@@ -34,6 +34,10 @@ status: "new"
 > Ich weiß nicht, was ich machen soll. Ich muss nachdenken.
 > *I don't know what to do. I have to think.*
 
+**Phrases & Expressions:**
+- **ich dachte, ...** — I thought ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **Ich muss kurz nachdenken.** — I need to think for a moment. *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Pausen überbrücken]] · B1)*
+
 **Source:** Netzwerk neu B1 K6 9c (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

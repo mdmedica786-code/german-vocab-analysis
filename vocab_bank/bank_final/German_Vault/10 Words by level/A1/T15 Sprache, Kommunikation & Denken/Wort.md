@@ -36,6 +36,10 @@ status: "new"
 > Leg doch nicht jedes Wort auf die Goldwaage!
 > *Don't take every word too literally!*
 
+**Phrases & Expressions:**
+- **Ich kenne das Wort nicht. Was bedeutet ...?** — I don't know the word. What does ... mean? *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Wort erfragen]] · B1)*
+- **Mir fällt das Wort gerade nicht ein.** — I can't think of the word right now. *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Wort umschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 1b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

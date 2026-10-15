@@ -33,6 +33,9 @@ status: "new"
 > Wir sollten unseren Besuch ankündigen.
 > *We should announce our visit.*
 
+**Phrases & Expressions:**
+- **Wir sollten unseren Besuch ankündigen** — *We should announce our visit* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

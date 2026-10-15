@@ -26,6 +26,10 @@ status: "new"
 > Die Studie fand in der Fachwelt große Beachtung.
 > *The study received great attention among experts.*
 
+**Phrases & Expressions:**
+- **große Beachtung finden** — *to receive attention*
+- **Beachtung schenken** — *to receive attention*
+
 **Collocations**
 - große Beachtung finden
 - Beachtung schenken

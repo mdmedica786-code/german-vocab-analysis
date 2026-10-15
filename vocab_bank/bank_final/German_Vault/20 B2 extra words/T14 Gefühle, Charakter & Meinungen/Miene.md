@@ -33,6 +33,11 @@ status: "new"
 > Er machte eine ernste Miene.
 > *He put on a serious expression.*
 
+**Phrases & Expressions:**
+- **eine ernste Miene machen** — *facial expression; look*
+- **ohne eine Miene zu verziehen** — *facial expression; look*
+- **gute Miene zum bösen Spiel** — *facial expression; look*
+
 **Collocations**
 - eine ernste Miene machen
 - ohne eine Miene zu verziehen

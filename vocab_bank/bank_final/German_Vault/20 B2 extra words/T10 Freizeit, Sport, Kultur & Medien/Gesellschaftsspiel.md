@@ -33,6 +33,11 @@ status: "new"
 > Am Abend spielen wir ein Gesellschaftsspiel.
 > *In the evening we play a board game.*
 
+**Phrases & Expressions:**
+- **ein Gesellschaftsspiel spielen** — *board game; parlour game*
+- **ein beliebtes Gesellschaftsspiel** — *board game; parlour game*
+- **Gesellschaftsspiele für die ganze Familie** — *board game; parlour game*
+
 **Collocations**
 - ein Gesellschaftsspiel spielen
 - ein beliebtes Gesellschaftsspiel

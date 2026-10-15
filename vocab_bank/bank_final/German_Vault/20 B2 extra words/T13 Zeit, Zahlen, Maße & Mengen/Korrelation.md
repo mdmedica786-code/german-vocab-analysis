@@ -33,6 +33,11 @@ status: "new"
 > Die Studie zeigt eine Korrelation zwischen Schlaf und Leistung.
 > *The study shows a correlation between sleep and performance.*
 
+**Phrases & Expressions:**
+- **eine Korrelation zwischen** — *correlation*
+- **eine hohe Korrelation** — *correlation*
+- **die Korrelation berechnen** — *correlation*
+
 **Collocations**
 - eine Korrelation zwischen
 - eine hohe Korrelation

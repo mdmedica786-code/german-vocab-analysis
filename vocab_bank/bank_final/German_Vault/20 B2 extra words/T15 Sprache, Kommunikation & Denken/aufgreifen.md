@@ -32,6 +32,11 @@ status: "new"
 > Die Zeitung hat das Thema sofort aufgegriffen.
 > *The newspaper took up the topic immediately.*
 
+**Phrases & Expressions:**
+- **ein Thema aufgreifen** — *to take up; to pick up (a topic)*
+- **einen Vorschlag aufgreifen** — *to take up; to pick up (a topic)*
+- **einen Gedanken aufgreifen** — *to take up; to pick up (a topic)*
+
 **Collocations**
 - ein Thema aufgreifen
 - einen Vorschlag aufgreifen

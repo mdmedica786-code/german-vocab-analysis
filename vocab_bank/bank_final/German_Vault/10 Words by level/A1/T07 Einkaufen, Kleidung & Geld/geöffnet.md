@@ -31,6 +31,9 @@ status: "new"
 > Der Laden ist samstags bis 16.00 Uhr geöffnet.
 > *The shop is open until 4 p.m. on Saturdays.*
 
+**Phrases & Expressions:**
+- **Der Laden ist samstags bis 16.00 Uhr geöffnet** — *The shop is open until 4 p.m. on Saturdays* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

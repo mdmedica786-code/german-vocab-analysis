@@ -26,6 +26,10 @@ status: "new"
 > Als er den Lärm hörte, geriet er in Rage.
 > *When he heard the noise he flew into a rage.*
 
+**Phrases & Expressions:**
+- **in Wut geraten** — *to fly into a rage*
+- **in Rage bringen** — *to fly into a rage*
+
 **Collocations**
 - in Wut geraten
 - in Rage bringen

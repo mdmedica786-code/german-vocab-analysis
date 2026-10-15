@@ -33,6 +33,11 @@ status: "new"
 > Unter Einwirkung von Hitze verformt sich das Material.
 > *Under the effect of heat the material deforms.*
 
+**Phrases & Expressions:**
+- **unter Einwirkung von** — *influence; effect*
+- **die Einwirkung von Wetter** — *influence; effect*
+- **äußere Einwirkung** — *influence; effect*
+
 **Collocations**
 - unter Einwirkung von
 - die Einwirkung von Wetter

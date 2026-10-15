@@ -31,6 +31,14 @@ status: "new"
 > Körperliche Arbeit macht mir nichts aus.
 > *Physical work doesn't bother me.*
 
+**Phrases & Expressions:**
+- **Danach werde ich Sie körperlich untersuchen.** — After that I will examine you physically. *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Ablauf erklären]] · B1)*
+- **Wie belastend ist Ihre Arbeit körperlich und seelisch?** — How demanding is your work physically and mentally? *([[FSP-05 Familien- und Sozialanamnese|Berufliche Belastung]] · B2)*
+- **Bei der körperlichen Untersuchung fand sich kein Hinweis auf ...** — On physical examination there was no sign of ... *([[FSP-08 Befunde beschreiben und berichten|Befund im Arzt-Arzt-Gespräch]] · C1)*
+- **Der körperliche Untersuchungsbefund war unauffällig.** — The physical examination was unremarkable. *([[FSP-20 Arztbrief und Dokumentation|Befund beschreiben]] · B2)*
+- **körperliche Arbeit** — *physical*
+- **körperlich fit** — *physical*
+
 **Collocations**
 - körperliche Arbeit
 - körperlich fit

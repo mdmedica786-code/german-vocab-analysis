@@ -30,6 +30,9 @@ status: "new"
 > Wir helfen uns gegenseitig.
 > *We help each other.*
 
+**Phrases & Expressions:**
+- **Wir helfen uns gegenseitig** — *We help each other* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 8c (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

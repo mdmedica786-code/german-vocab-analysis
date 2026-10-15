@@ -31,6 +31,9 @@ status: "new"
 > Das Geld ist für die Reise ausreichend.
 > *The money is sufficient for the trip.*
 
+**Phrases & Expressions:**
+- **Nach dem Eingriff bekommen Sie ausreichend Schmerzmittel.** — After the procedure you will receive sufficient painkillers. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Schmerztherapie erklären]] · B2)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

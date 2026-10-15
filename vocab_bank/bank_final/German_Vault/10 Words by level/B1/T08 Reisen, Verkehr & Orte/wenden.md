@@ -34,6 +34,13 @@ status: "new"
 > Sie müssen zurückfahren, aber hier dürfen Sie nicht wenden.
 > *You have to drive back, but you aren't allowed to turn round here.*
 
+**Phrases & Expressions:**
+- **Ich wende mich an Sie mit der Bitte um Auskunft.** — I am contacting you with a request for information. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Anfrage an Behörde]] · B2)*
+- **ein Auto wenden** — *to turn (a vehicle); to turn over*
+- **die Seite wenden** — *to turn (a vehicle); to turn over*
+- **sich an jemanden wenden** — *to turn (a vehicle); to turn over*
+- **das Blatt wenden** — *to turn (a vehicle); to turn over*
+
 **Collocations**
 - ein Auto wenden
 - die Seite wenden

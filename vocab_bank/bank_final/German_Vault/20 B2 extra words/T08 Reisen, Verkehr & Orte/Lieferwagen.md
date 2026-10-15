@@ -33,6 +33,11 @@ status: "new"
 > Der Lieferwagen steht vor dem Geschäft.
 > *The delivery van is parked in front of the shop.*
 
+**Phrases & Expressions:**
+- **ein Lieferwagen fährt vor** — *delivery van*
+- **einen Lieferwagen mieten** — *delivery van*
+- **den Lieferwagen beladen** — *delivery van*
+
 **Collocations**
 - ein Lieferwagen fährt vor
 - einen Lieferwagen mieten

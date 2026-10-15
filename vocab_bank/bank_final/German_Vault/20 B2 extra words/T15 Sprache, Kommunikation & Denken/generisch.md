@@ -29,6 +29,11 @@ status: "new"
 > Das generische Maskulinum wird heute oft diskutiert.
 > *The generic masculine is often discussed today.*
 
+**Phrases & Expressions:**
+- **das generische Maskulinum** — *generic*
+- **ein generischer Begriff** — *generic*
+- **generisch verwenden** — *generic*
+
 **Collocations**
 - das generische Maskulinum
 - ein generischer Begriff

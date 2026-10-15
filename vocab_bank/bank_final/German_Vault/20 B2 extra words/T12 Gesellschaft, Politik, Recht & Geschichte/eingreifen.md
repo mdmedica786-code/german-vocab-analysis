@@ -32,6 +32,11 @@ status: "new"
 > Die Polizei musste eingreifen.
 > *The police had to intervene.*
 
+**Phrases & Expressions:**
+- **in etwas eingreifen** — *to intervene; to step in*
+- **rechtzeitig eingreifen** — *to intervene; to step in*
+- **in den Streit eingreifen** — *to intervene; to step in*
+
 **Collocations**
 - in etwas eingreifen
 - rechtzeitig eingreifen

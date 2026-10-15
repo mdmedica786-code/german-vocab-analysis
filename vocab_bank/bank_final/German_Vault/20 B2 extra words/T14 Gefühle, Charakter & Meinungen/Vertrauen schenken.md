@@ -26,6 +26,10 @@ status: "new"
 > Ich schenke ihm mein Vertrauen.
 > *I place my trust in him.*
 
+**Phrases & Expressions:**
+- **Vertrauen schenken + Dat.** — *to trust; to place trust in*
+- **Glauben schenken** — *to trust; to place trust in*
+
 **Collocations**
 - Vertrauen schenken + Dat.
 - Glauben schenken

@@ -34,6 +34,9 @@ status: "new"
 > Mein Auto fährt mit Diesel.
 > *My car runs on diesel.*
 
+**Phrases & Expressions:**
+- **Mein Auto fährt mit Diesel** — *My car runs on diesel* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil)
 <!-- bank:end -->
 

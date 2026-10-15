@@ -33,6 +33,11 @@ status: "new"
 > Der Versicherungsvertreter erklärte mir die Police.
 > *The insurance agent explained the policy to me.*
 
+**Phrases & Expressions:**
+- **einen Versicherungsvertreter besuchen** — *insurance agent*
+- **der Versicherungsvertreter berät** — *insurance agent*
+- **ein Gespräch mit dem Versicherungsvertreter** — *insurance agent*
+
 **Collocations**
 - einen Versicherungsvertreter besuchen
 - der Versicherungsvertreter berät

@@ -34,6 +34,9 @@ status: "new"
 > Der Herzchirurg operiert seit sechs Stunden.
 > *The heart surgeon has been operating for six hours.*
 
+**Phrases & Expressions:**
+- **Der Herzchirurg operiert seit sechs Stunden** — *The heart surgeon has been operating for six hours* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

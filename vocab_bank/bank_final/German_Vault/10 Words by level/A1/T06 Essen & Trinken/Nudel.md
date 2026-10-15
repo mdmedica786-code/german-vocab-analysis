@@ -35,6 +35,9 @@ status: "new"
 > Möchten Sie lieber Reis oder Nudeln?
 > *Would you prefer rice or noodles?*
 
+**Phrases & Expressions:**
+- **Möchten Sie lieber Reis oder Nudeln** — *Would you prefer rice or noodles* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1a (Guten Tag!) · Goethe word list A2
 <!-- bank:end -->
 

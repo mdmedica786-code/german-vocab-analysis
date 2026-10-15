@@ -34,6 +34,9 @@ status: "new"
 > Im Mittelalter saßen Gefangene im Kerker.
 > *In the Middle Ages prisoners were kept in the dungeon.*
 
+**Phrases & Expressions:**
+- **Im Mittelalter saßen Gefangene im Kerker** — *In the Middle Ages prisoners were kept in the dungeon* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 13b (Kunststücke)
 <!-- bank:end -->
 

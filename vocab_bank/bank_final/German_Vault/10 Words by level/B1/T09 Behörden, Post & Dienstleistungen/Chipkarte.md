@@ -35,6 +35,9 @@ status: "new"
 > Ich habe eine Chipkarte für diesen Automaten.
 > *I have a chip card for this machine.*
 
+**Phrases & Expressions:**
+- **Ich habe eine Chipkarte für diesen Automaten** — *I have a chip card for this machine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

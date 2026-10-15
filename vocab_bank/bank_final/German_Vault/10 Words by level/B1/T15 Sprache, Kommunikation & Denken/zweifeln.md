@@ -32,6 +32,9 @@ status: "new"
 > Ich zweifle nicht daran, dass Sie recht haben.
 > *I do not doubt that you are right.*
 
+**Phrases & Expressions:**
+- **Ich zweifle nicht daran, dass Sie recht haben** — *I do not doubt that you are right* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

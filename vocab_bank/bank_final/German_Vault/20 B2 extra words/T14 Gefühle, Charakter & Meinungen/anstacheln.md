@@ -32,6 +32,11 @@ status: "new"
 > Der Erfolg der anderen hat ihn zusätzlich angestachelt.
 > *The success of the others spurred him on even more.*
 
+**Phrases & Expressions:**
+- **jemanden anstacheln** — *to spur on; to incite*
+- **zum Widerstand anstacheln** — *to spur on; to incite*
+- **den Ehrgeiz anstacheln** — *to spur on; to incite*
+
 **Collocations**
 - jemanden anstacheln
 - zum Widerstand anstacheln

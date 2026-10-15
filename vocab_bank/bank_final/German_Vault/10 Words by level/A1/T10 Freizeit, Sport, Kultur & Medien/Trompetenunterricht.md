@@ -31,6 +31,9 @@ status: "new"
 > Der Trompetenunterricht beginnt um vier Uhr.
 > *The trumpet lesson begins at four o'clock.*
 
+**Phrases & Expressions:**
+- **Der Trompetenunterricht beginnt um vier Uhr** — *The trumpet lesson begins at four o'clock* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 7b (Alltag und Familie)
 <!-- bank:end -->
 

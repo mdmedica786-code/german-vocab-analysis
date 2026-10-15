@@ -35,6 +35,9 @@ status: "new"
 > Zahlen Sie bitte an der Kasse.
 > *Please pay at the till.*
 
+**Phrases & Expressions:**
+- **Zahlen Sie bitte an der Kasse** — *Please pay at the till* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!) · Goethe word list A1
 <!-- bank:end -->
 

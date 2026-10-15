@@ -29,6 +29,10 @@ status: "new"
 > Sie sind mit Sack und Pack in den Urlaub gefahren.
 > *They went on holiday with bag and baggage.*
 
+**Phrases & Expressions:**
+- **mit Sack und Pack ausziehen** — *with bag and baggage*
+- **mit allem** — *with bag and baggage*
+
 **Collocations**
 - mit Sack und Pack ausziehen
 - mit allem

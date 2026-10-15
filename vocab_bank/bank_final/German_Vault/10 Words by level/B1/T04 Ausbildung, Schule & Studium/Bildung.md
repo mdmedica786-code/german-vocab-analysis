@@ -35,6 +35,12 @@ status: "new"
 > Eine gute Bildung hilft für das ganze Leben.
 > *A good education helps you your whole life.*
 
+**Phrases & Expressions:**
+- **eine gute Bildung** — *education*
+- **Bildung und Ausbildung** — *education*
+- **Bildung fördern** — *education*
+- **höhere Bildung** — *education*
+
 **Collocations**
 - eine gute Bildung
 - Bildung und Ausbildung

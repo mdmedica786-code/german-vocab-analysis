@@ -32,6 +32,12 @@ status: "new"
 > Die Sendung wurde live aufgezeichnet.
 > *The programme was recorded live.*
 
+**Phrases & Expressions:**
+- **Es zeichnet sich ein Trend zu ... ab.** — A trend towards ... is emerging. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Trend beschreiben]] · B2)*
+- **eine Sendung aufzeichnen** — *to record; to note down*
+- **Daten aufzeichnen** — *to record; to note down*
+- **ein Gespräch aufzeichnen** — *to record; to note down*
+
 **Collocations**
 - eine Sendung aufzeichnen
 - Daten aufzeichnen

@@ -32,6 +32,10 @@ status: "new"
 > Nächsten Monat ziehen wir um.
 > *Next month we are moving.*
 
+**Phrases & Expressions:**
+- **Der Schmerz zieht bis in den linken Arm.** — The pain radiates into the left arm. *([[FSP-03 Schmerzanamnese|Patient: Ausstrahlung nennen]] · B1)*
+- **Sie können sich hinter dem Vorhang umziehen.** — You can get changed behind the curtain. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Sich frei machen]] · A2)*
+
 **Source:** Netzwerk neu A1 K9 4f ÜB (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

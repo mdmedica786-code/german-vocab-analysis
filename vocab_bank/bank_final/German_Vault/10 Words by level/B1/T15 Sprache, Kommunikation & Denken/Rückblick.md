@@ -34,6 +34,9 @@ status: "new"
 > Im Rückblick war die Reise ein Erfolg.
 > *In retrospect the trip was a success.*
 
+**Phrases & Expressions:**
+- **Im Rückblick war die Reise ein Erfolg** — *In retrospect the trip was a success* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!)
 <!-- bank:end -->
 

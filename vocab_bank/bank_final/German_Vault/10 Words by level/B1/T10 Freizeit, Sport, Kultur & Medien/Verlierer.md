@@ -34,6 +34,9 @@ status: "new"
 > Er ist ein guter Verlierer.
 > *He is a good loser.*
 
+**Phrases & Expressions:**
+- **Er ist ein guter Verlierer** — *He is a good loser* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

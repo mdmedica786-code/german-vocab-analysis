@@ -29,6 +29,11 @@ status: "new"
 > Die Rede der Präsidentin war sehr eindrucksvoll.
 > *The president's speech was very impressive.*
 
+**Phrases & Expressions:**
+- **eine eindrucksvolle Leistung** — *impressive*
+- **eindrucksvoll schildern** — *impressive*
+- **ein eindrucksvolles Bild** — *impressive*
+
 **Collocations**
 - eine eindrucksvolle Leistung
 - eindrucksvoll schildern

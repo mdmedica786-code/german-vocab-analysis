@@ -35,6 +35,9 @@ status: "new"
 > Die Maus ist neben der Tastatur.
 > *The mouse is next to the keyboard.*
 
+**Phrases & Expressions:**
+- **Die Maus ist neben der Tastatur** — *The mouse is next to the keyboard* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10b (Alltag und Familie) · Goethe word list B1
 <!-- bank:end -->
 

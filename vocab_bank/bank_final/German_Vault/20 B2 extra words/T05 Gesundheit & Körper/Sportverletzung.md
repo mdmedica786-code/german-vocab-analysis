@@ -33,6 +33,11 @@ status: "new"
 > Beim Fußball hat er sich eine Sportverletzung zugezogen.
 > *He suffered a sports injury while playing football.*
 
+**Phrases & Expressions:**
+- **eine Sportverletzung behandeln** — *sports injury*
+- **an einer Sportverletzung leiden** — *sports injury*
+- **Sportverletzungen vermeiden** — *sports injury*
+
 **Collocations**
 - eine Sportverletzung behandeln
 - an einer Sportverletzung leiden

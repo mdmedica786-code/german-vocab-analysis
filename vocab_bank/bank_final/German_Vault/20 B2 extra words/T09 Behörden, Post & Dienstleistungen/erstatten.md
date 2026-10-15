@@ -31,6 +31,12 @@ status: "new"
 > Die Krankenkasse erstattet die Kosten.
 > *The health insurer reimburses the costs.*
 
+**Phrases & Expressions:**
+- **Ich fordere Sie auf, mir den Betrag zu erstatten.** — I request that you refund me the amount. *([[B2-04 Beschwerde und Reklamation|Forderung stellen]] · B2)*
+- **Kosten erstatten** — *to reimburse; to file (a report)*
+- **Anzeige erstatten** — *to reimburse; to file (a report)*
+- **einen Bericht erstatten** — *to reimburse; to file (a report)*
+
 **Collocations**
 - Kosten erstatten
 - Anzeige erstatten

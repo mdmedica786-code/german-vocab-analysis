@@ -30,6 +30,9 @@ status: "new"
 > Die Firma macht einen seriösen Eindruck.
 > *The company makes a reputable impression.*
 
+**Phrases & Expressions:**
+- **Die Firma macht einen seriösen Eindruck** — *The company makes a reputable impression* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

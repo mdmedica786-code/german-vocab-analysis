@@ -33,6 +33,10 @@ status: "new"
 > Ich nehme mir morgen einen Tag frei.
 > *I am taking a day off tomorrow.*
 
+**Phrases & Expressions:**
+- **... nimmt kontinuierlich zu.** — ... is steadily increasing. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Anstieg beschreiben]] · B2)*
+- **Bitte machen Sie den Oberkörper frei.** — Please undress your upper body. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Sich frei machen]] · A2)*
+
 **Source:** Netzwerk neu B1 K4 5a (Arbeitswelt)
 <!-- bank:end -->
 

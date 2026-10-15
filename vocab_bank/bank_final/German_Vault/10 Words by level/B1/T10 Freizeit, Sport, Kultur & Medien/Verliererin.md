@@ -34,6 +34,9 @@ status: "new"
 > Sie ist eine gute Verliererin.
 > *She is a good loser.*
 
+**Phrases & Expressions:**
+- **Sie ist eine gute Verliererin** — *She is a good loser* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

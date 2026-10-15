@@ -31,6 +31,9 @@ status: "new"
 > Ich habe deinen Forumstext gelesen.
 > *I have read your forum text.*
 
+**Phrases & Expressions:**
+- **Ich habe deinen Forumstext gelesen** — *I have read your forum text* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 8b (Gute Reise!)
 <!-- bank:end -->
 

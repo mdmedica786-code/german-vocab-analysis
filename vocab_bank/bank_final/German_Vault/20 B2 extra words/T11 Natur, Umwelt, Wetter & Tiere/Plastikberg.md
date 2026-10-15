@@ -30,6 +30,11 @@ status: "new"
 > Jedes Jahr entsteht ein riesiger Plastikberg.
 > *Every year a huge mountain of plastic is created.*
 
+**Phrases & Expressions:**
+- **ein Plastikberg entsteht** — *mountain of plastic*
+- **der Plastikberg wächst** — *mountain of plastic*
+- **einen Plastikberg abbauen** — *mountain of plastic*
+
 **Collocations**
 - ein Plastikberg entsteht
 - der Plastikberg wächst

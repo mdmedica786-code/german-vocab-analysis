@@ -33,6 +33,11 @@ status: "new"
 > Die Pendlerin fährt jeden Tag eine Stunde mit dem Zug.
 > *The commuter travels an hour by train every day.*
 
+**Phrases & Expressions:**
+- **eine Pendlerin aus dem Umland** — *commuter (female)*
+- **als Pendlerin arbeiten** — *commuter (female)*
+- **eine tägliche Pendlerin** — *commuter (female)*
+
 **Collocations**
 - eine Pendlerin aus dem Umland
 - als Pendlerin arbeiten

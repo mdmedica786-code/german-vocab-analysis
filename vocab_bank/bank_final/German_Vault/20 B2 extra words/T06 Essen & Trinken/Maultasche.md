@@ -33,6 +33,11 @@ status: "new"
 > In Schwaben isst man gern Maultaschen mit Brühe.
 > *In Swabia people like to eat Maultaschen in broth.*
 
+**Phrases & Expressions:**
+- **Maultaschen essen** — *Swabian stuffed pasta (Maultasche)*
+- **Maultaschen in der Brühe** — *Swabian stuffed pasta (Maultasche)*
+- **geschmälzte Maultaschen** — *Swabian stuffed pasta (Maultasche)*
+
 **Collocations**
 - Maultaschen essen
 - Maultaschen in der Brühe

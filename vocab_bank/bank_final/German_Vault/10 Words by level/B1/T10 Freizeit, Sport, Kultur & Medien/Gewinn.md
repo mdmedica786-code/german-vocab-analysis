@@ -34,6 +34,9 @@ status: "new"
 > Der Gewinn des Spiels ist ein Auto.
 > *The prize in the game is a car.*
 
+**Phrases & Expressions:**
+- **Der Gewinn des Spiels ist ein Auto** — *The prize in the game is a car* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

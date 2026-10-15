@@ -33,6 +33,11 @@ status: "new"
 > Nachts hört man im Wald den Ruf einer Eule.
 > *At night you hear the call of an owl in the forest.*
 
+**Phrases & Expressions:**
+- **eine Eule ruft** — *owl*
+- **nachts jagen die Eulen** — *owl*
+- **Eulen nach Athen tragen** — *owl*
+
 **Collocations**
 - eine Eule ruft
 - nachts jagen die Eulen

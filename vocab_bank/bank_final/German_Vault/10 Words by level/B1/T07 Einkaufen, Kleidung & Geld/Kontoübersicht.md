@@ -31,6 +31,9 @@ status: "new"
 > In der Kontoübersicht sehe ich alle Umsätze.
 > *In the account overview I see all transactions.*
 
+**Phrases & Expressions:**
+- **In der Kontoübersicht sehe ich alle Umsätze** — *In the account overview I see all transactions* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 5a (Geld regiert die Welt?)
 <!-- bank:end -->
 

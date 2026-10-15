@@ -31,6 +31,12 @@ status: "new"
 > Mein Bruder und ich sind sehr unterschiedlich. Er interessiert sich für Mathematik, ich mich für Sprachen.
 > *My brother and I are very different. He is interested in maths, I in languages.*
 
+**Phrases & Expressions:**
+- **sehr unterschiedlich** — *different*
+- **unterschiedlicher Meinung sein** — *different*
+- **unterschiedliche Interessen** — *different*
+- **unterschiedlich alt** — *different*
+
 **Collocations**
 - sehr unterschiedlich
 - unterschiedlicher Meinung sein

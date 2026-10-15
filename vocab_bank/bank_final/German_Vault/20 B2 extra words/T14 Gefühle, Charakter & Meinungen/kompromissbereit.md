@@ -29,6 +29,11 @@ status: "new"
 > Beide Seiten sind kompromissbereit.
 > *Both sides are willing to compromise.*
 
+**Phrases & Expressions:**
+- **kompromissbereit sein** — *willing to compromise*
+- **sich kompromissbereit zeigen** — *willing to compromise*
+- **ein kompromissbereiter Partner** — *willing to compromise*
+
 **Collocations**
 - kompromissbereit sein
 - sich kompromissbereit zeigen

@@ -33,6 +33,11 @@ status: "new"
 > Wir danken Ihnen für die herzliche Gastfreundschaft.
 > *We thank you for the warm hospitality.*
 
+**Phrases & Expressions:**
+- **Gastfreundschaft genießen** — *hospitality*
+- **warme Gastfreundschaft** — *hospitality*
+- **für die Gastfreundschaft danken** — *hospitality*
+
 **Collocations**
 - Gastfreundschaft genießen
 - warme Gastfreundschaft

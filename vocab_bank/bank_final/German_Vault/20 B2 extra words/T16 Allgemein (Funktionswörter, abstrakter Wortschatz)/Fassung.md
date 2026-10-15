@@ -33,6 +33,11 @@ status: "new"
 > Der Film läuft in der deutschen Fassung.
 > *The film is shown in the German version.*
 
+**Phrases & Expressions:**
+- **in der aktuellen Fassung** — *version; composure; mount*
+- **die Fassung verlieren** — *version; composure; mount*
+- **die ungekürzte Fassung** — *version; composure; mount*
+
 **Collocations**
 - in der aktuellen Fassung
 - die Fassung verlieren

@@ -33,6 +33,11 @@ status: "new"
 > Bei Tauwetter schmilzt der Schnee schnell.
 > *During a thaw the snow melts quickly.*
 
+**Phrases & Expressions:**
+- **Tauwetter setzt ein** — *thaw*
+- **Tauwetter im Februar** — *thaw*
+- **bei Tauwetter** — *thaw*
+
 **Collocations**
 - Tauwetter setzt ein
 - Tauwetter im Februar

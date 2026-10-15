@@ -33,6 +33,11 @@ status: "new"
 > Die Bereitstellung der Daten erfolgt online.
 > *The data is made available online.*
 
+**Phrases & Expressions:**
+- **die Bereitstellung von** — *provision; making available*
+- **zur Bereitstellung** — *provision; making available*
+- **die Bereitstellung von Mitteln** — *provision; making available*
+
 **Collocations**
 - die Bereitstellung von
 - zur Bereitstellung

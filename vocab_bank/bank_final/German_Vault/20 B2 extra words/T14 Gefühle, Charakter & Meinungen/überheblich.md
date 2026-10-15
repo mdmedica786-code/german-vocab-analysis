@@ -29,6 +29,11 @@ status: "new"
 > Sein überhebliches Verhalten stieß auf Ablehnung.
 > *His arrogant behaviour met with rejection.*
 
+**Phrases & Expressions:**
+- **überheblich sein** — *arrogant; overbearing*
+- **überheblich auftreten** — *arrogant; overbearing*
+- **überheblich wirken** — *arrogant; overbearing*
+
 **Collocations**
 - überheblich sein
 - überheblich auftreten

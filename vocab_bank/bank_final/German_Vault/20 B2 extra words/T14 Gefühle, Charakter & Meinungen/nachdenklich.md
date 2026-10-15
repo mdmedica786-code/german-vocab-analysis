@@ -29,6 +29,11 @@ status: "new"
 > Nach dem Gespräch war er sehr nachdenklich.
 > *After the conversation he was very pensive.*
 
+**Phrases & Expressions:**
+- **nachdenklich wirken** — *thoughtful; pensive*
+- **nachdenklich stimmen** — *thoughtful; pensive*
+- **ein nachdenklicher Mensch** — *thoughtful; pensive*
+
 **Collocations**
 - nachdenklich wirken
 - nachdenklich stimmen

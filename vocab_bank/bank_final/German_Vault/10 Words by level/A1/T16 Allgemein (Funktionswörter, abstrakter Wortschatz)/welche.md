@@ -31,6 +31,14 @@ status: "new"
 > Welche Farbe gefällt dir am besten?
 > *Which colour do you like best?*
 
+**Phrases & Expressions:**
+- **Könnten Sie mir bitte mitteilen, welche Unterlagen ich benötige?** — Could you please tell me which documents I need? *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Anfrage an Behörde]] · B2)*
+- **Welche Aufgaben würden auf mich zukommen?** — What tasks would I be facing? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Fragen an Arbeitgeber]] · B2)*
+- **Welche Kündigungsfrist gilt im Mietvertrag?** — What notice period applies in the rental contract? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Mietvertrag klären]] · B2)*
+- **Welche Unterlagen muss ich mitbringen?** — Which documents do I have to bring? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Anmeldung beim Amt]] · B1)*
+- **Welche Beschwerden haben Sie?** — What complaints do you have? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Leitsymptom erfragen]] · A2)*
+- **Nehmen Sie Schmerzmittel, und wenn ja, welche?** — Do you take painkillers, and if so, which? *([[FSP-03 Schmerzanamnese|Schmerzmittel erfragen]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 3b (Guten Tag!)
 <!-- bank:end -->
 

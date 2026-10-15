@@ -34,6 +34,14 @@ status: "new"
 > Der Mann hat sich uns gegenüber merkwürdig verhalten.
 > *The man behaved strangely towards us.*
 
+**Phrases & Expressions:**
+- **Dieses Verhalten finde ich inakzeptabel.** — I find this behaviour unacceptable. *([[B2-04 Beschwerde und Reklamation|Unzufriedenheit ausdrücken]] · B2)*
+- **Entsprechend verhält es sich bei ...** — Accordingly it is the same with ... *([[B2-11 Vergleichen und Entwicklungen beschreiben|Entsprechung ausdrücken]] · B2)*
+- **Ich verstehe Ihren Ärger, aber ich kann kein respektloses Verhalten dulden.** — I understand your anger, but I cannot tolerate disrespectful behaviour. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Grenzen setzen]] · C1)*
+- **sich ruhig verhalten** — *to behave*
+- **sich richtig verhalten** — *to behave*
+- **sich korrekt verhalten** — *to behave*
+
 **Collocations**
 - sich ruhig verhalten
 - sich richtig verhalten

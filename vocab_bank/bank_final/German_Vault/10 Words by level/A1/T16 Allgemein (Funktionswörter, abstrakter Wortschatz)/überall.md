@@ -31,6 +31,13 @@ status: "new"
 > Ich habe überall gesucht, aber ich kann meine Brille nicht finden.
 > *I looked everywhere, but I can't find my glasses.*
 
+**Phrases & Expressions:**
+- **Allerdings ist dieser Trend nicht überall zu beobachten.** — However, this trend cannot be observed everywhere. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Trend relativieren]] · B2)*
+- **überall hin** — *everywhere*
+- **überall suchen** — *everywhere*
+- **fast überall** — *everywhere*
+- **überall auf der Welt** — *everywhere*
+
 **Collocations**
 - überall hin
 - überall suchen

@@ -36,6 +36,9 @@ status: "new"
 > Er ist seit vielen Jahren im Verein.
 > **
 
+**Phrases & Expressions:**
+- **Er ist seit vielen Jahren im Verein** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 3a (Und was machst du?) · Goethe word list A1
 <!-- bank:end -->
 

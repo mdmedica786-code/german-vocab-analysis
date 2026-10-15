@@ -34,6 +34,9 @@ status: "new"
 > Da musst du dieses Wort anklicken.
 > *You have to click on this word.*
 
+**Phrases & Expressions:**
+- **Da musst du dieses Wort anklicken** — *You have to click on this word* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1b ÜB (Immer online?) · Goethe word list A1
 <!-- bank:end -->
 

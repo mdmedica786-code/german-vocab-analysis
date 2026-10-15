@@ -29,6 +29,11 @@ status: "new"
 > Teamarbeit ist in diesem Projekt unverzichtbar.
 > *Teamwork is indispensable in this project.*
 
+**Phrases & Expressions:**
+- **unverzichtbar sein** — *indispensable*
+- **ein unverzichtbarer Bestandteil** — *indispensable*
+- **für etwas unverzichtbar** — *indispensable*
+
 **Collocations**
 - unverzichtbar sein
 - ein unverzichtbarer Bestandteil

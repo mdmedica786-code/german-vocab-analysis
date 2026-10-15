@@ -33,6 +33,11 @@ status: "new"
 > Die Bestäubung der Obstblüten erfolgt durch Bienen.
 > *The pollination of the fruit blossoms is carried out by bees.*
 
+**Phrases & Expressions:**
+- **Bestäubung durch Bienen** — *pollination*
+- **Bestäubung sichern** — *pollination*
+- **für die Bestäubung wichtig** — *pollination*
+
 **Collocations**
 - Bestäubung durch Bienen
 - Bestäubung sichern

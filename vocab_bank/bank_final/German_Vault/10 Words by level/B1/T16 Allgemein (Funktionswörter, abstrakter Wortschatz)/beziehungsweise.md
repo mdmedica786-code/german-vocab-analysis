@@ -31,6 +31,9 @@ status: "new"
 > Ich komme am Montag beziehungsweise am Dienstag.
 > *I'm coming on Monday or rather Tuesday.*
 
+**Phrases & Expressions:**
+- **Ich komme am Montag beziehungsweise am Dienstag** — *I'm coming on Monday or rather Tuesday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen)
 <!-- bank:end -->
 

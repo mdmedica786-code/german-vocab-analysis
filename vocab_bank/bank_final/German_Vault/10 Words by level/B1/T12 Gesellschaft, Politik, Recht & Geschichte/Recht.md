@@ -35,6 +35,14 @@ status: "new"
 > Nach deutschem Recht kann er dafür nicht bestraft werden.
 > *Under German law he cannot be punished for it.*
 
+**Phrases & Expressions:**
+- **du hast recht** — you are right *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · A2)*
+- **auf der rechten Seite** — on the right-hand side *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A1)*
+- **nach rechts** — to the right *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A1)*
+- **nicht so recht** — not really (quite) *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **wenn ich mich recht erinnere** — if I remember correctly *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **ich glaube, du hast recht** — I think you're right *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · A2)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

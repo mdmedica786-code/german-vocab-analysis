@@ -29,6 +29,11 @@ status: "new"
 > Wir führen das System schrittweise ein.
 > *We are introducing the system step by step.*
 
+**Phrases & Expressions:**
+- **schrittweise vorgehen** — *step by step; gradual*
+- **schrittweise einführen** — *step by step; gradual*
+- **schrittweise verbessern** — *step by step; gradual*
+
 **Collocations**
 - schrittweise vorgehen
 - schrittweise einführen

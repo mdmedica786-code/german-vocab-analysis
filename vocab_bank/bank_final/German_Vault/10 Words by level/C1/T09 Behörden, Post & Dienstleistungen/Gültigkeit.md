@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Gültigkeit des Tickets endet heute.
 > *The validity of the ticket ends today.*
+
+**Phrases & Expressions:**
+- **Die Gültigkeit des Tickets endet heute** — *The validity of the ticket ends today* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

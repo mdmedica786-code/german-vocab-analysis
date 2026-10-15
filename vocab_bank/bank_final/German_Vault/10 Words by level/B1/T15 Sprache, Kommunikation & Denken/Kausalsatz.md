@@ -34,6 +34,9 @@ status: "new"
 > Ein Kausalsatz beginnt oft mit „weil“.
 > *A causal clause often begins with "weil".*
 
+**Phrases & Expressions:**
+- **Ein Kausalsatz beginnt oft mit „weil“** — *A causal clause often begins with "weil"* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13c (Gute Reise!)
 <!-- bank:end -->
 

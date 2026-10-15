@@ -33,6 +33,11 @@ status: "new"
 > Die Teilung Deutschlands endete 1990.
 > *The division of Germany ended in 1990.*
 
+**Phrases & Expressions:**
+- **die Teilung Deutschlands** — *division; partition*
+- **die Teilung der Arbeit** — *division; partition*
+- **eine gerechte Teilung** — *division; partition*
+
 **Collocations**
 - die Teilung Deutschlands
 - die Teilung der Arbeit

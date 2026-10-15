@@ -33,6 +33,11 @@ status: "new"
 > Der Wortlaut des Vertrags ist eindeutig.
 > *The wording of the contract is unambiguous.*
 
+**Phrases & Expressions:**
+- **im Wortlaut** — *wording; text*
+- **der genaue Wortlaut** — *wording; text*
+- **dem Wortlaut nach** — *wording; text*
+
 **Collocations**
 - im Wortlaut
 - der genaue Wortlaut

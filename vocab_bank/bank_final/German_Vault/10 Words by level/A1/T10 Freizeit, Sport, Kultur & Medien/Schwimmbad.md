@@ -35,6 +35,9 @@ status: "new"
 > Kommst du mit ins Schwimmbad?
 > *Are you coming along to the swimming pool?*
 
+**Phrases & Expressions:**
+- **Kommst du mit ins Schwimmbad** — *Are you coming along to the swimming pool* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 5b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

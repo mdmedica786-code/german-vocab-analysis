@@ -34,6 +34,9 @@ status: "new"
 > Wo muss ich aussteigen?
 > *Where do I have to get off?*
 
+**Phrases & Expressions:**
+- **Wo muss ich aussteigen** — *Where do I have to get off* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 4b ÜB (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

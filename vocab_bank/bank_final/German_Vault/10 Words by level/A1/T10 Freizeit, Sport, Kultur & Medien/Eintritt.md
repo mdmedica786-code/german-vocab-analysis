@@ -35,6 +35,9 @@ status: "new"
 > Der Preis für den Eintritt ist 5 Euro.
 > *The admission price is 5 euros.*
 
+**Phrases & Expressions:**
+- **Der Preis für den Eintritt ist 5 Euro** — *The admission price is 5 euros* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,13 @@ status: "new"
 > Können Sie das bitte wiederholen?
 > *Can you please repeat that?*
 
+**Phrases & Expressions:**
+- **Könnten Sie das bitte wiederholen?** — Could you please repeat that? *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Nachfragen]] · B1)*
+- **Ich wiederhole kurz, um sicher zu sein: ...** — Let me repeat briefly to be sure: ... *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Verständnis überprüfen]] · B1)*
+- **Entschuldigung, könnten Sie das bitte wiederholen?** — Sorry, could you please repeat that? *([[B2-07 Telefonieren|Rückfrage stellen]] · B1)*
+- **Ich wiederhole: ein Milligramm Adrenalin intravenös.** — I repeat: one milligram of adrenaline intravenously. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Closed-Loop-Kommunikation]] · C1)*
+- **Ich wiederhole kurz, damit es keine Missverständnisse gibt.** — Let me repeat briefly so that there are no misunderstandings. *([[FSP-19 Übergabe, Konsil und Rücksprache|Aufträge bestätigen]] · B2)*
+
 **Source:** Netzwerk neu A1 K8 4 (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

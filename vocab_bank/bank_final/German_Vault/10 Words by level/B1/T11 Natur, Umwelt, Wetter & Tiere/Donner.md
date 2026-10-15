@@ -35,6 +35,9 @@ status: "new"
 > Der Donner kam erst lange nach dem Blitz.
 > *The thunder came a long time after the lightning.*
 
+**Phrases & Expressions:**
+- **Der Donner kam erst lange nach dem Blitz** — *The thunder came a long time after the lightning* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 11a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

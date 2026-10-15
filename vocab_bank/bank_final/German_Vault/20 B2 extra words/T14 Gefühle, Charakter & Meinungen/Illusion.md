@@ -33,6 +33,11 @@ status: "new"
 > Ich habe keine Illusionen mehr.
 > *I have no illusions any more.*
 
+**Phrases & Expressions:**
+- **sich Illusionen machen** — *illusion*
+- **eine Illusion zerstören** — *illusion*
+- **der Illusion erliegen** — *illusion*
+
 **Collocations**
 - sich Illusionen machen
 - eine Illusion zerstören

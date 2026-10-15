@@ -32,6 +32,9 @@ status: "new"
 > Die Kinder schaukeln auf dem Spielplatz.
 > *The children are swinging on the playground.*
 
+**Phrases & Expressions:**
+- **Die Kinder schaukeln auf dem Spielplatz** — *The children are swinging on the playground* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1b (Zusammen leben)
 <!-- bank:end -->
 

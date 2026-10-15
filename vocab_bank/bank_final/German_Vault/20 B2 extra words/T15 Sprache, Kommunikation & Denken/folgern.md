@@ -32,6 +32,10 @@ status: "new"
 > Daraus folgert sie, dass der Plan nicht funktioniert.
 > *From this she concludes that the plan does not work.*
 
+**Phrases & Expressions:**
+- **daraus folgern** — *to conclude; to deduce*
+- **folgern aus + Dat.** — *to conclude; to deduce*
+
 **Collocations**
 - daraus folgern
 - folgern aus + Dat.

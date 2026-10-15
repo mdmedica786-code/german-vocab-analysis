@@ -34,6 +34,9 @@ status: "new"
 > Die Gastgeberin serviert den Kuchen.
 > *The host serves the cake.*
 
+**Phrases & Expressions:**
+- **Die Gastgeberin serviert den Kuchen** — *The host serves the cake* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen)
 <!-- bank:end -->
 

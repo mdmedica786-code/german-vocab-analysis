@@ -33,6 +33,11 @@ status: "new"
 > Nimm eine Taschenlampe mit, es wird dunkel.
 > *Take a torch with you; it is getting dark.*
 
+**Phrases & Expressions:**
+- **eine Taschenlampe einschalten** — *torch; flashlight*
+- **mit der Taschenlampe leuchten** — *torch; flashlight*
+- **die Batterien der Taschenlampe** — *torch; flashlight*
+
 **Collocations**
 - eine Taschenlampe einschalten
 - mit der Taschenlampe leuchten

@@ -29,6 +29,11 @@ status: "new"
 > Der Aufstieg war lang und mühsam.
 > *The climb was long and arduous.*
 
+**Phrases & Expressions:**
+- **ein mühsamer Weg** — *laborious; arduous*
+- **mühsam lernen** — *laborious; arduous*
+- **sich mühsam erinnern** — *laborious; arduous*
+
 **Collocations**
 - ein mühsamer Weg
 - mühsam lernen

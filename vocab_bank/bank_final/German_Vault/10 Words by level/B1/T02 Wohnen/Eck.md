@@ -34,6 +34,9 @@ status: "new"
 > Das Regal stellen wir hier ins Eck.
 > *We put the shelf here in the corner.*
 
+**Phrases & Expressions:**
+- **um die Ecke** — around the corner *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

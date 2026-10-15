@@ -34,6 +34,9 @@ status: "new"
 > Mein Au-pair kommt aus Spanien.
 > *My au pair comes from Spain.*
 
+**Phrases & Expressions:**
+- **Mein Au-pair kommt aus Spanien** — *My au pair comes from Spain* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 1c (Nach der Schulzeit)
 <!-- bank:end -->
 

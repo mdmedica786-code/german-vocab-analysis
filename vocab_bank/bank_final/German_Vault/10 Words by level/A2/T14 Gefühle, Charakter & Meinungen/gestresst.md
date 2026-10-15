@@ -30,6 +30,9 @@ status: "new"
 > Vor der Prüfung bin ich immer gestresst.
 > *Before an exam I'm always stressed.*
 
+**Phrases & Expressions:**
+- **Fühlen Sie sich zurzeit gestresst?** — Do you feel stressed at the moment? *([[FSP-05 Familien- und Sozialanamnese|Stress erfragen]] · A2)*
+
 **Source:** Netzwerk neu A2 K4 9a (Große und kleine Gefühle)
 <!-- bank:end -->
 

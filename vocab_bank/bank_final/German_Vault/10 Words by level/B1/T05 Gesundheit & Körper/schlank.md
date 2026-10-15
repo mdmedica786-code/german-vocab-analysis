@@ -30,6 +30,9 @@ status: "new"
 > In diesem Kleid siehst du sehr schlank aus.
 > *You look very slim in this dress.*
 
+**Phrases & Expressions:**
+- **In diesem Kleid siehst du sehr schlank aus** — *You look very slim in this dress* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Gemäß dem Vertrag müssen wir zahlen.
 > *According to the contract we have to pay.*
+
+**Phrases & Expressions:**
+- **Gemäß dem Vertrag müssen wir zahlen** — *According to the contract we have to pay* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -31,6 +31,11 @@ status: "new"
 > Nach vielen Absagen hat er resigniert.
 > *After many rejections he gave up.*
 
+**Phrases & Expressions:**
+- **resigniert seufzen** — *to give up; to resign oneself*
+- **aus Enttäuschung resignieren** — *to give up; to resign oneself*
+- **resigniert klingen** — *to give up; to resign oneself*
+
 **Collocations**
 - resigniert seufzen
 - aus Enttäuschung resignieren

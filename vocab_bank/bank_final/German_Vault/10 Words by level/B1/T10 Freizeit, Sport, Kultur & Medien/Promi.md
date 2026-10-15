@@ -34,6 +34,9 @@ status: "new"
 > Auf der Party waren viele Promis.
 > *There were many celebrities at the party.*
 
+**Phrases & Expressions:**
+- **Auf der Party waren viele Promis** — *There were many celebrities at the party* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches)
 <!-- bank:end -->
 

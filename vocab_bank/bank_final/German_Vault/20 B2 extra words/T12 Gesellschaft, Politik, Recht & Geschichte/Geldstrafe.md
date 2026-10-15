@@ -33,6 +33,11 @@ status: "new"
 > Er musste wegen der Beleidigung eine Geldstrafe zahlen.
 > *He had to pay a fine for the insult.*
 
+**Phrases & Expressions:**
+- **eine Geldstrafe zahlen** — *fine*
+- **zu einer Geldstrafe verurteilen** — *fine*
+- **hohe Geldstrafe** — *fine*
+
 **Collocations**
 - eine Geldstrafe zahlen
 - zu einer Geldstrafe verurteilen

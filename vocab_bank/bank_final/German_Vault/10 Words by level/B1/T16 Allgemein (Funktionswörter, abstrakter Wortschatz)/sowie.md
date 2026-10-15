@@ -30,6 +30,11 @@ status: "new"
 > Wir brauchen Brot, Käse sowie etwas Obst.
 > *We need bread, cheese and some fruit as well.*
 
+**Phrases & Expressions:**
+- **Kinder sowie Erwachsene** — *as well as; as soon as*
+- **Hotels sowie Restaurants** — *as well as; as soon as*
+- **sowie ich Zeit habe** — *as well as; as soon as*
+
 **Collocations**
 - Kinder sowie Erwachsene
 - Hotels sowie Restaurants

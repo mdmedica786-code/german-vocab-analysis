@@ -33,6 +33,11 @@ status: "new"
 > Der Großteil der Studenten kommt aus der Region.
 > *The majority of the students come from the region.*
 
+**Phrases & Expressions:**
+- **der Großteil von** — *major part; majority*
+- **ein Großteil der Arbeit** — *major part; majority*
+- **zum Großteil** — *major part; majority*
+
 **Collocations**
 - der Großteil von
 - ein Großteil der Arbeit

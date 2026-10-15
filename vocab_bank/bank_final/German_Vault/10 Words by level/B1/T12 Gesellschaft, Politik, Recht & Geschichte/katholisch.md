@@ -30,6 +30,9 @@ status: "new"
 > Meine Großeltern sind katholisch.
 > *My grandparents are Catholic.*
 
+**Phrases & Expressions:**
+- **Meine Großeltern sind katholisch** — *My grandparents are Catholic* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

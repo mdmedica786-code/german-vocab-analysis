@@ -32,6 +32,13 @@ status: "new"
 > Das Kind hat den Ball gefangen.
 > *The child caught the ball.*
 
+**Phrases & Expressions:**
+- **Bitte fangen Sie den Mittelstrahlurin auf.** — Please collect a midstream urine sample. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Urinprobe]] · B2)*
+- **einen Ball fangen** — *to catch*
+- **einen Fisch fangen** — *to catch*
+- **Feuer fangen** — *to catch*
+- **sich fangen** — *to catch*
+
 **Collocations**
 - einen Ball fangen
 - einen Fisch fangen

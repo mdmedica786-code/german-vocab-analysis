@@ -30,6 +30,9 @@ status: "new"
 > Ich mag schweizerische Schokolade.
 > *I like Swiss chocolate.*
 
+**Phrases & Expressions:**
+- **Ich mag schweizerische Schokolade** — *I like Swiss chocolate* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

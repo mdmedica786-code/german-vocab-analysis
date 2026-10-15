@@ -34,6 +34,9 @@ status: "new"
 > Haben Sie dafür Beweise?
 > *Do you have proof of that?*
 
+**Phrases & Expressions:**
+- **Haben Sie dafür Beweise** — *Do you have proof of that* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

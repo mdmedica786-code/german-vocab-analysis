@@ -33,6 +33,14 @@ status: "new"
 > Kannst du den Text kurz wiedergeben?
 > *Can you briefly reproduce the text?*
 
+**Phrases & Expressions:**
+- **immer wieder** — again and again *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **immer und immer wieder** — again and again *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **hin und wieder** — now and then *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **wieder einmal** — once again *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **schon wieder** — again (already) *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A1)*
+- **In meinem Heimatland gibt es ...** — In my home country there is/are ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Heimatland beschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 13b (Fit und gesund)
 <!-- bank:end -->
 

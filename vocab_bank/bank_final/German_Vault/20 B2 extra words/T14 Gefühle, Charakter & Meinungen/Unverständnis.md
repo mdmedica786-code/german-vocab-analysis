@@ -33,6 +33,11 @@ status: "new"
 > Sein Verhalten stieß auf Unverständnis.
 > *His behaviour met with incomprehension.*
 
+**Phrases & Expressions:**
+- **auf Unverständnis stoßen** — *lack of understanding; incomprehension*
+- **Unverständnis zeigen** — *lack of understanding; incomprehension*
+- **mit Unverständnis reagieren** — *lack of understanding; incomprehension*
+
 **Collocations**
 - auf Unverständnis stoßen
 - Unverständnis zeigen

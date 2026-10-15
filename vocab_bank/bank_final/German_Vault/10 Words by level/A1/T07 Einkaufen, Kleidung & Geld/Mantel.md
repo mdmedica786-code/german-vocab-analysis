@@ -35,6 +35,9 @@ status: "new"
 > Es ist kalt. Zieh deinen Mantel an!
 > *It is cold. Put your coat on!*
 
+**Phrases & Expressions:**
+- **Es ist kalt. Zieh deinen Mantel an** — *It is cold. Put your coat on* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 2a ÜB (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

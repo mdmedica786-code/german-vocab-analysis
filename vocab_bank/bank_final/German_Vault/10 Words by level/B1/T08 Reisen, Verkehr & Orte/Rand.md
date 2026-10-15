@@ -35,6 +35,9 @@ status: "new"
 > Wir wohnen am Rand der Innenstadt.
 > *We live on the edge of the city centre.*
 
+**Phrases & Expressions:**
+- **Wir wohnen am Rand der Innenstadt** — *We live on the edge of the city centre* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 10 (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Sie hat eine Weiterbildung im Projektmanagement gemacht.
 > *She completed further training in project management.*
 
+**Phrases & Expressions:**
+- **im Projektmanagement arbeiten** — *project management*
+- **agiles Projektmanagement** — *project management*
+- **Erfahrung im Projektmanagement** — *project management*
+
 **Collocations**
 - im Projektmanagement arbeiten
 - agiles Projektmanagement

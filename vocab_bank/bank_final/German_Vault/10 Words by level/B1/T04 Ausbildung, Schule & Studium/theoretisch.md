@@ -31,6 +31,12 @@ status: "new"
 > Ich habe die theoretische Prüfung bestanden. Nach der praktischen habe ich den Führerschein.
 > *I passed the theory exam. After the practical one I will have the driving licence.*
 
+**Phrases & Expressions:**
+- **theoretisch möglich** — *theoretical*
+- **die theoretische Prüfung** — *theoretical*
+- **theoretisches Wissen** — *theoretical*
+- **theoretisch gesehen** — *theoretical*
+
 **Collocations**
 - theoretisch möglich
 - die theoretische Prüfung

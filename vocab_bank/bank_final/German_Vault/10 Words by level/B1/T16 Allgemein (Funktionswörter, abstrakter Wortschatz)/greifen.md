@@ -33,6 +33,12 @@ status: "new"
 > Greifen Sie doch zu!
 > *Please help yourself!*
 
+**Phrases & Expressions:**
+- **nach etwas greifen** — *to grab; to reach; to seize*
+- **zu den Waffen greifen** — *to grab; to reach; to seize*
+- **in die Tasche greifen** — *to grab; to reach; to seize*
+- **zugreifen** — *to grab; to reach; to seize*
+
 **Collocations**
 - nach etwas greifen
 - zu den Waffen greifen

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Erstellung des Berichts dauert zwei Tage.
 > *Drawing up the report takes two days.*
+
+**Phrases & Expressions:**
+- **Die Erstellung des Berichts dauert zwei Tage** — *Drawing up the report takes two days* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

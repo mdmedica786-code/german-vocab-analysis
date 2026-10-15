@@ -34,6 +34,9 @@ status: "new"
 > Das Golfspiel dauert mehrere Stunden.
 > *A game of golf lasts several hours.*
 
+**Phrases & Expressions:**
+- **Das Golfspiel dauert mehrere Stunden** — *A game of golf lasts several hours* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

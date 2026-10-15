@@ -33,6 +33,12 @@ status: "new"
 > Als Fazit lässt sich festhalten, dass die Studie neue Fragen aufwirft.
 > *In conclusion it can be said that the study raises new questions.*
 
+**Phrases & Expressions:**
+- **Mein Fazit lautet: ...** — My conclusion is: ... *([[B2-08 Zusammenfassen, Fazit und Schlussfolgerung|Fazit ziehen]] · B2)*
+- **ein Fazit ziehen** — *conclusion; summary verdict*
+- **als Fazit** — *conclusion; summary verdict*
+- **das Fazit lautet** — *conclusion; summary verdict*
+
 **Collocations**
 - ein Fazit ziehen
 - als Fazit

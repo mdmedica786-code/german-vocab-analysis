@@ -32,6 +32,11 @@ status: "new"
 > Der Vertrag verpflichtet beide Seiten zur Zahlung.
 > *The contract obliges both sides to pay.*
 
+**Phrases & Expressions:**
+- **sich zu etwas verpflichten** — *to oblige; to commit*
+- **zu etwas verpflichtet sein** — *to oblige; to commit*
+- **jemanden verpflichten** — *to oblige; to commit*
+
 **Collocations**
 - sich zu etwas verpflichten
 - zu etwas verpflichtet sein

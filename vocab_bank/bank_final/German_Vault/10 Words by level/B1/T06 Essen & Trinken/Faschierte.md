@@ -42,6 +42,9 @@ status: "new"
 > Geben Sie mir bitte 500 g Faschiertes.
 > *Please give me 500 g of minced meat.*
 
+**Phrases & Expressions:**
+- **Geben Sie mir bitte 500 g Faschiertes** — *Please give me 500 g of minced meat* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

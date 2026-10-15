@@ -31,6 +31,9 @@ status: "new"
 > Die Arztkleidung ist weiß und wird täglich gewaschen.
 > *The doctor's clothing is white and washed daily.*
 
+**Phrases & Expressions:**
+- **Die Arztkleidung ist weiß und wird täglich gewaschen** — *The doctor's clothing is white and washed daily* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

@@ -26,6 +26,10 @@ status: "new"
 > Sie brachte ihre Freude deutlich zum Ausdruck.
 > *She clearly expressed her joy.*
 
+**Phrases & Expressions:**
+- **Dank zum Ausdruck bringen** — *to express*
+- **Bedauern zum Ausdruck bringen** — *to express*
+
 **Collocations**
 - Dank zum Ausdruck bringen
 - Bedauern zum Ausdruck bringen

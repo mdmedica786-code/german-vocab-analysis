@@ -35,6 +35,9 @@ status: "new"
 > Meine Tochter geht schon in die Schule.
 > *My daughter already goes to school.*
 
+**Phrases & Expressions:**
+- **in der Schule** — at school *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A1)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

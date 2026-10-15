@@ -33,6 +33,11 @@ status: "new"
 > Auf langen Autofahrten hören wir gern ein Hörbuch.
 > *On long car journeys we like listening to an audiobook.*
 
+**Phrases & Expressions:**
+- **ein Hörbuch hören** — *audiobook*
+- **ein Hörbuch aufnehmen** — *audiobook*
+- **ein spannendes Hörbuch** — *audiobook*
+
 **Collocations**
 - ein Hörbuch hören
 - ein Hörbuch aufnehmen

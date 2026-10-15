@@ -33,6 +33,14 @@ status: "new"
 > Schau mal! Da vorne ist noch ein Platz frei.
 > *Look! There is still a free seat up front.*
 
+**Phrases & Expressions:**
+- **Wir sehen uns in vier Wochen und schauen, wie es klappt.** — We will see each other in four weeks and see how it goes. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Ziele vereinbaren]] · B1)*
+- **Jetzt schauen wir mal in deinen Hals. Mach bitte den Mund weit auf.** — Now let's have a look in your throat. Please open your mouth wide. *([[FSP-22 Kinder, Eltern und ältere Patienten|Kind untersuchen]] · A2)*
+- **auf die Uhr schauen** — *to look*
+- **aus dem Fenster schauen** — *to look*
+- **fernsehen schauen** — *to look*
+- **nach dem Rechten schauen** — *to look*
+
 **Collocations**
 - auf die Uhr schauen
 - aus dem Fenster schauen

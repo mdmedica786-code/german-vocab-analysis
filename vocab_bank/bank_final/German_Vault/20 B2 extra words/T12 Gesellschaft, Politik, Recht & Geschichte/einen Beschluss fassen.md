@@ -26,6 +26,9 @@ status: "new"
 > Der Gemeinderat hat einen Beschluss gefasst.
 > *The local council has passed a resolution.*
 
+**Phrases & Expressions:**
+- **einstimmig einen Beschluss fassen** — *to pass a resolution*
+
 **Collocations**
 - einstimmig einen Beschluss fassen
 

@@ -32,6 +32,11 @@ status: "new"
 > Als sie das hörte, ist sie völlig ausgerastet.
 > *When she heard that, she completely lost it.*
 
+**Phrases & Expressions:**
+- **völlig ausrasten** — *to lose it; to flip out*
+- **vor Wut ausrasten** — *to lose it; to flip out*
+- **gleich ausrasten** — *to lose it; to flip out*
+
 **Collocations**
 - völlig ausrasten
 - vor Wut ausrasten

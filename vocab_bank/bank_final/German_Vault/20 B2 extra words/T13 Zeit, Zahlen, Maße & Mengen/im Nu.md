@@ -29,6 +29,10 @@ status: "new"
 > Das Essen war im Nu aufgegessen.
 > *The meal was eaten up in no time.*
 
+**Phrases & Expressions:**
+- **im Nu vorbei** — *in no time*
+- **im Handumdrehen** — *in no time*
+
 **Collocations**
 - im Nu vorbei
 - im Handumdrehen

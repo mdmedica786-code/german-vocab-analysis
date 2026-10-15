@@ -32,6 +32,9 @@ status: "new"
 > Fußball ist bei vielen Menschen beliebt.
 > *Football is popular with many people.*
 
+**Phrases & Expressions:**
+- **Fußball ist bei vielen Menschen beliebt** — *Football is popular with many people* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 9c (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->
 

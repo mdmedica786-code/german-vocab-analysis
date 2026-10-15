@@ -32,6 +32,11 @@ status: "new"
 > Die Heizkosten sind im Winter deutlich gestiegen.
 > *The heating costs rose clearly in winter.*
 
+**Phrases & Expressions:**
+- **die Heizkosten senken** — *heating costs*
+- **hohe Heizkosten** — *heating costs*
+- **Heizkosten abrechnen** — *heating costs*
+
 **Collocations**
 - die Heizkosten senken
 - hohe Heizkosten

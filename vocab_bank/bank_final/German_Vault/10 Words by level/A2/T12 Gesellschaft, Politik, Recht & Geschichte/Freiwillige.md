@@ -35,6 +35,9 @@ status: "new"
 > Die Freiwilligen helfen im Krankenhaus.
 > *The volunteers help in the hospital.*
 
+**Phrases & Expressions:**
+- **Die Freiwilligen helfen im Krankenhaus** — *The volunteers help in the hospital* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 9a (Gelernt ist gelernt!)
 <!-- bank:end -->
 

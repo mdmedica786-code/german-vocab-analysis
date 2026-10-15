@@ -33,6 +33,11 @@ status: "new"
 > Nach der Operation folgt eine Bestrahlung.
 > *After the operation a radiation treatment follows.*
 
+**Phrases & Expressions:**
+- **eine Bestrahlung bekommen** — *radiation treatment; irradiation*
+- **die Bestrahlung des Tumors** — *radiation treatment; irradiation*
+- **eine Bestrahlung vertragen** — *radiation treatment; irradiation*
+
 **Collocations**
 - eine Bestrahlung bekommen
 - die Bestrahlung des Tumors

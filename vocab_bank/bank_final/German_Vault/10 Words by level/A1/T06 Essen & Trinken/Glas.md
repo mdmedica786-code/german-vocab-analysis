@@ -35,6 +35,9 @@ status: "new"
 > Bitte noch ein Glas Wein!
 > *Another glass of wine, please!*
 
+**Phrases & Expressions:**
+- **Ich trinke nur gelegentlich ein Glas Wein.** — I only occasionally drink a glass of wine. *([[FSP-05 Familien- und Sozialanamnese|Patient: Alkohol angeben]] · A2)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

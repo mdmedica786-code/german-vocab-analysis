@@ -29,6 +29,11 @@ status: "new"
 > Die augenblickliche Situation ist schwierig.
 > *The current situation is difficult.*
 
+**Phrases & Expressions:**
+- **augenblicklich handeln** — *immediate; current; immediately*
+- **die augenblickliche Lage** — *immediate; current; immediately*
+- **augenblicklich verschwinden** — *immediate; current; immediately*
+
 **Collocations**
 - augenblicklich handeln
 - die augenblickliche Lage

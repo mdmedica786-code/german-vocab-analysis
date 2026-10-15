@@ -33,6 +33,11 @@ status: "new"
 > Es gibt keinen Ausweg aus dieser Lage.
 > *There is no way out of this situation.*
 
+**Phrases & Expressions:**
+- **einen Ausweg finden** — *way out; solution*
+- **kein Ausweg** — *way out; solution*
+- **der letzte Ausweg** — *way out; solution*
+
 **Collocations**
 - einen Ausweg finden
 - kein Ausweg

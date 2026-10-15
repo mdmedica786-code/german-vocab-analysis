@@ -35,6 +35,9 @@ status: "new"
 > Ich mag Jeans lieber als Röcke.
 > *I like jeans better than skirts.*
 
+**Phrases & Expressions:**
+- **Ich mag Jeans lieber als Röcke** — *I like jeans better than skirts* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 2a ÜB (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

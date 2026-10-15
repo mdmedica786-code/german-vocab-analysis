@@ -35,6 +35,9 @@ status: "new"
 > Die Ernte ist dieses Jahr gut.
 > *The harvest is good this year.*
 
+**Phrases & Expressions:**
+- **Die Ernte ist dieses Jahr gut** — *The harvest is good this year* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

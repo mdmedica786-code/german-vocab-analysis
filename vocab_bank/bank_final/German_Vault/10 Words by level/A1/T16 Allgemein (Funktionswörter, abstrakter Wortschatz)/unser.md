@@ -28,6 +28,9 @@ status: "new"
 > [!info] Not in the study list
 > closed-class word (articles, pronouns, basic prepositions): learned through grammar
 
+**Phrases & Expressions:**
+- **Wir geben unser Bestes, ich informiere Sie, sobald ich mehr weiß.** — We are doing our best; I will inform you as soon as I know more. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Angehörige informieren]] · B2)*
+
 **Source:** Netzwerk neu A1 K5 10a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

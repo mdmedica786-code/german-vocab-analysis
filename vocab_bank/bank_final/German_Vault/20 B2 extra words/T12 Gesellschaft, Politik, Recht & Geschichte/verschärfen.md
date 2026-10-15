@@ -31,6 +31,10 @@ status: "new"
 > Die Regierung verschärft die Regeln für Zuwanderer.
 > *The government is tightening the rules for immigrants.*
 
+**Phrases & Expressions:**
+- **Kontrollen verschärfen** — *to tighten; to aggravate*
+- **ein Gesetz verschärfen** — *to tighten; to aggravate*
+
 **Collocations**
 - Kontrollen verschärfen
 - ein Gesetz verschärfen

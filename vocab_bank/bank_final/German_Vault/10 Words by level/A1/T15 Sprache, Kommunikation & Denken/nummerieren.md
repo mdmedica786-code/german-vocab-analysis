@@ -32,6 +32,9 @@ status: "new"
 > Bitte nummerieren Sie die Seiten.
 > *Please number the pages.*
 
+**Phrases & Expressions:**
+- **Bitte nummerieren Sie die Seiten** — *Please number the pages* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 1b (Alltag und Familie)
 <!-- bank:end -->
 

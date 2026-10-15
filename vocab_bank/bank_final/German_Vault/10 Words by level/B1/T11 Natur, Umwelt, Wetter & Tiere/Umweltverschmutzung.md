@@ -35,6 +35,9 @@ status: "new"
 > Die Umweltverschmutzung nimmt weiter zu.
 > *Environmental pollution continues to increase.*
 
+**Phrases & Expressions:**
+- **Die Umweltverschmutzung nimmt weiter zu** — *Environmental pollution continues to increase* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

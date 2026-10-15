@@ -35,6 +35,14 @@ status: "new"
 > Genug Schlaf ist wichtig für die Entwicklung Ihres Kindes.
 > *Enough sleep is important for your child's development.*
 
+**Phrases & Expressions:**
+- **Dieses Diagramm veranschaulicht die Entwicklung der ...** — This diagram illustrates the development of ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Grafik beschreiben]] · B2)*
+- **Insgesamt lässt sich eine positive Entwicklung erkennen.** — Overall a positive development can be seen. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Entwicklung zusammenfassen]] · B2)*
+- **die Entwicklung fördern** — *development*
+- **eine positive Entwicklung** — *development*
+- **in der Entwicklung sein** — *development*
+- **die Entwicklung eines Kindes** — *development*
+
 **Collocations**
 - die Entwicklung fördern
 - eine positive Entwicklung

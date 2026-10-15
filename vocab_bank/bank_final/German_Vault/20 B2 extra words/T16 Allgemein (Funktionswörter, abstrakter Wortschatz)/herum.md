@@ -29,6 +29,12 @@ status: "new"
 > Um das Haus herum ist ein großer Garten.
 > *Around the house there is a large garden.*
 
+**Phrases & Expressions:**
+- **um ... herum** — around *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **um uns herum** — *around; about*
+- **rund um etwas herum** — *around; about*
+- **herum sein** — *around; about*
+
 **Collocations**
 - um uns herum
 - rund um etwas herum

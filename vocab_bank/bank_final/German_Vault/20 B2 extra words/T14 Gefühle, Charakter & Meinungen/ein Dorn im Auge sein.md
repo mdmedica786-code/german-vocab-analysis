@@ -26,6 +26,10 @@ status: "new"
 > Der laute Nachbar ist uns schon lange ein Dorn im Auge.
 > *The loud neighbour has long been a thorn in our side.*
 
+**Phrases & Expressions:**
+- **jemandem ein Dorn im Auge sein** — *to be a thorn in one's side*
+- **stören** — *to be a thorn in one's side*
+
 **Collocations**
 - jemandem ein Dorn im Auge sein
 - stören

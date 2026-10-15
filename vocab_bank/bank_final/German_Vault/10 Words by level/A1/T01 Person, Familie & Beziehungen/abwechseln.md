@@ -33,6 +33,14 @@ status: "new"
 > Wir wechseln uns beim Kochen ab.
 > *We take turns cooking.*
 
+**Phrases & Expressions:**
+- **ab und zu** — now and then *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **Das hängt davon ab, ob ...** — That depends on whether ... *([[B1-04 Vor- und Nachteile nennen|Abwägen]] · B1)*
+- **Ich lehne das ab, weil ...** — I reject that because ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Position beziehen]] · B2)*
+- **Es zeichnet sich ein Trend zu ... ab.** — A trend towards ... is emerging. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Trend beschreiben]] · B2)*
+- **Wie wäre es, wenn wir uns abwechseln?** — How about taking turns? *([[B2-12 Höflichkeit und Diplomatie - Kritik und Ablehnung abmildern|Lösung vorschlagen]] · B2)*
+- **Wir nehmen Ihnen jetzt etwas Blut ab.** — We will now take some blood from you. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Blutabnahme]] · A2)*
+
 **Source:** Netzwerk neu A1 K8 6b ÜB (Fit und gesund)
 <!-- bank:end -->
 

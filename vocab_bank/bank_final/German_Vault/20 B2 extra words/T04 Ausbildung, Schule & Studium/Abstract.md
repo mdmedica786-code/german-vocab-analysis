@@ -33,6 +33,11 @@ status: "new"
 > Das Abstract fasst den Artikel in zehn Zeilen zusammen.
 > *The abstract summarises the article in ten lines.*
 
+**Phrases & Expressions:**
+- **ein Abstract schreiben** — *abstract; summary (of a paper)*
+- **ein kurzes Abstract** — *abstract; summary (of a paper)*
+- **das Abstract lesen** — *abstract; summary (of a paper)*
+
 **Collocations**
 - ein Abstract schreiben
 - ein kurzes Abstract

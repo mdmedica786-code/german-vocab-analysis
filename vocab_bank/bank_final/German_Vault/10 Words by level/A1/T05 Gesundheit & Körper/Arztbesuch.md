@@ -34,6 +34,9 @@ status: "new"
 > Nach dem Arztbesuch gehe ich zur Apotheke.
 > *After the doctor's visit I go to the pharmacy.*
 
+**Phrases & Expressions:**
+- **Nach dem Arztbesuch gehe ich zur Apotheke** — *After the doctor's visit I go to the pharmacy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 8c (Fit und gesund)
 <!-- bank:end -->
 

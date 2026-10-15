@@ -34,6 +34,12 @@ status: "new"
 > Diese Impfung schützt vor Grippe.
 > *This vaccination protects against flu.*
 
+**Phrases & Expressions:**
+- **vor Kälte schützen** — *to protect*
+- **die Umwelt schützen** — *to protect*
+- **sich schützen** — *to protect*
+- **geschützt sein** — *to protect*
+
 **Collocations**
 - vor Kälte schützen
 - die Umwelt schützen

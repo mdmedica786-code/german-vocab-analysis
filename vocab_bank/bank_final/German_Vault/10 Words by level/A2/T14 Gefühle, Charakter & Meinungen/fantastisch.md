@@ -31,6 +31,9 @@ status: "new"
 > Dein neues Kleid sieht fantastisch aus!
 > *Your new dress looks fantastic!*
 
+**Phrases & Expressions:**
+- **Dein neues Kleid sieht fantastisch aus** — *Your new dress looks fantastic* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 6 (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

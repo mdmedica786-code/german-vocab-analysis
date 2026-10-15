@@ -29,6 +29,11 @@ status: "new"
 > Sie bereitete sich mental auf den Wettkampf vor.
 > *She prepared herself mentally for the competition.*
 
+**Phrases & Expressions:**
+- **mental stark** — *mental*
+- **mentale Gesundheit** — *mental*
+- **mentale Stärke** — *mental*
+
 **Collocations**
 - mental stark
 - mentale Gesundheit

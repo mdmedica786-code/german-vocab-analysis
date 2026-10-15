@@ -35,6 +35,9 @@ status: "new"
 > Zum Frühstück trinke ich immer Kaffee.
 > *I always drink coffee with breakfast.*
 
+**Phrases & Expressions:**
+- **Zum Frühstück trinke ich immer Kaffee** — *I always drink coffee with breakfast* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 2a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Ungewissheit über die Zukunft belastet ihn.
 > *The uncertainty about the future weighs on him.*
 
+**Phrases & Expressions:**
+- **in Ungewissheit leben** — *uncertainty*
+- **in Ungewissheit lassen** — *uncertainty*
+- **quälende Ungewissheit** — *uncertainty*
+
 **Collocations**
 - in Ungewissheit leben
 - in Ungewissheit lassen

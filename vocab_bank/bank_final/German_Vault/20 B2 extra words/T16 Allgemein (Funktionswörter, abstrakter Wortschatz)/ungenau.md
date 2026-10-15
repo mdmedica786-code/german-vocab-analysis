@@ -29,6 +29,11 @@ status: "new"
 > Die Angaben in dem Formular sind ungenau.
 > *The information in the form is imprecise.*
 
+**Phrases & Expressions:**
+- **ungenau sein** — *inaccurate; imprecise*
+- **sich ungenau ausdrücken** — *inaccurate; imprecise*
+- **ungenaue Angaben** — *inaccurate; imprecise*
+
 **Collocations**
 - ungenau sein
 - sich ungenau ausdrücken

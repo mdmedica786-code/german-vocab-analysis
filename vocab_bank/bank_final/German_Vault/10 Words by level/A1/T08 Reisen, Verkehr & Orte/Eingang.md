@@ -35,6 +35,9 @@ status: "new"
 > Der Eingang ist um die Ecke.
 > *The entrance is around the corner.*
 
+**Phrases & Expressions:**
+- **Der Eingang ist um die Ecke** — *The entrance is around the corner* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 9c (Und was machst du?) · Goethe word list A1
 <!-- bank:end -->
 

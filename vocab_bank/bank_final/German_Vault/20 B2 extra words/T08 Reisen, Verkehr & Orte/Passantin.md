@@ -33,6 +33,11 @@ status: "new"
 > Eine Passantin half dem Mann auf die Beine.
 > *A passer-by helped the man to his feet.*
 
+**Phrases & Expressions:**
+- **eine Passantin fragen** — *passer-by (female)*
+- **eine aufmerksame Passantin** — *passer-by (female)*
+- **von einer Passantin gerettet werden** — *passer-by (female)*
+
 **Collocations**
 - eine Passantin fragen
 - eine aufmerksame Passantin

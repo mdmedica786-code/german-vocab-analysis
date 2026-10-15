@@ -34,6 +34,9 @@ status: "new"
 > Bitte entwerten Sie Ihren Fahrschein.
 > *Please validate your ticket.*
 
+**Phrases & Expressions:**
+- **Bitte entwerten Sie Ihren Fahrschein** — *Please validate your ticket* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

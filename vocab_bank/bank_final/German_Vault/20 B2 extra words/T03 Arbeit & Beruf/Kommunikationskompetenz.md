@@ -30,6 +30,11 @@ status: "new"
 > Kommunikationskompetenz ist in diesem Beruf sehr wichtig.
 > *Communication skills are very important in this job.*
 
+**Phrases & Expressions:**
+- **Kommunikationskompetenz zeigen** — *communication skills; communicative competence*
+- **gute Kommunikationskompetenz** — *communication skills; communicative competence*
+- **Kommunikationskompetenz entwickeln** — *communication skills; communicative competence*
+
 **Collocations**
 - Kommunikationskompetenz zeigen
 - gute Kommunikationskompetenz

@@ -30,6 +30,14 @@ status: "new"
 > Das ist mein letzter Tag hier.
 > *This is my last day here.*
 
+**Phrases & Expressions:**
+- **in den letzten Jahren** — in recent years *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **in letzter Zeit** — lately *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **in den letzten Tagen** — in the last few days *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **in der letzten Zeit** — lately *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **in den letzten Wochen** — in the last few weeks *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **in den letzten Monaten** — in recent months *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+
 **Source:** Netzwerk neu A1 K10 3a (Studium und Beruf)
 <!-- bank:end -->
 

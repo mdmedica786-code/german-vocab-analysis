@@ -33,6 +33,11 @@ status: "new"
 > Viele nehmen den Freitag nach Christi Himmelfahrt als Brückentag frei.
 > *Many people take the Friday after Ascension Day off as a bridge day.*
 
+**Phrases & Expressions:**
+- **einen Brückentag nehmen** — *bridge day (day off between holiday and weekend)*
+- **Brückentage nutzen** — *bridge day (day off between holiday and weekend)*
+- **Urlaub am Brückentag** — *bridge day (day off between holiday and weekend)*
+
 **Collocations**
 - einen Brückentag nehmen
 - Brückentage nutzen

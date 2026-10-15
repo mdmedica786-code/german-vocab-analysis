@@ -35,6 +35,9 @@ status: "new"
 > Ich brauche Ihre Papiere: den Ausweis oder Pass.
 > *I need your documents: ID card or passport.*
 
+**Phrases & Expressions:**
+- **Ich brauche Ihre Papiere: den Ausweis oder Pass** — *I need your documents: ID card or passport* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 3a ÜB (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

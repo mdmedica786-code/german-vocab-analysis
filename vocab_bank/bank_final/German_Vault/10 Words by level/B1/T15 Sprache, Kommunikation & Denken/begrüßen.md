@@ -33,6 +33,9 @@ status: "new"
 > Der Gastgeber begrüßt seine Gäste.
 > *The host welcomes his guests.*
 
+**Phrases & Expressions:**
+- **Der Gastgeber begrüßt seine Gäste** — *The host welcomes his guests* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10a (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

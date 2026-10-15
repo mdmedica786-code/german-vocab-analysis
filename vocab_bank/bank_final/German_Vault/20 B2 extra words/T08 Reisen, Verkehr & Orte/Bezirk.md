@@ -33,6 +33,11 @@ status: "new"
 > Sie wohnt im Bezirk Kreuzberg.
 > *She lives in the Kreuzberg district.*
 
+**Phrases & Expressions:**
+- **im Bezirk** — *district; borough*
+- **der Bezirk Mitte** — *district; borough*
+- **ein Bezirk von Wien** — *district; borough*
+
 **Collocations**
 - im Bezirk
 - der Bezirk Mitte

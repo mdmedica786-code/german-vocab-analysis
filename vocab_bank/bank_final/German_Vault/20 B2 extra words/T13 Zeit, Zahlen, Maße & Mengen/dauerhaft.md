@@ -29,6 +29,11 @@ status: "new"
 > Die Lösung muss dauerhaft funktionieren.
 > *The solution must work permanently.*
 
+**Phrases & Expressions:**
+- **Die Erkrankung ist chronisch, das heißt, sie bleibt dauerhaft bestehen.** — The illness is chronic, meaning it persists permanently. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Chronische Erkrankung erklären]] · B2)*
+- **dauerhaft gelöst** — *permanently; lasting*
+- **dauerhafter Schaden** — *permanently; lasting*
+
 **Collocations**
 - dauerhaft gelöst
 - dauerhafter Schaden

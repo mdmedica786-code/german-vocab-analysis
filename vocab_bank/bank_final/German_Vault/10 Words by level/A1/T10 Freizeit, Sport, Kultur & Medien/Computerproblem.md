@@ -34,6 +34,9 @@ status: "new"
 > Ich habe ein Computerproblem und brauche Hilfe.
 > *I have a computer problem and need help.*
 
+**Phrases & Expressions:**
+- **Ich habe ein Computerproblem und brauche Hilfe** — *I have a computer problem and need help* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 12 (Studium und Beruf)
 <!-- bank:end -->
 

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Tür ist verschlossen.
 > *The door is locked.*
+
+**Phrases & Expressions:**
+- **Die Tür ist verschlossen** — *The door is locked* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

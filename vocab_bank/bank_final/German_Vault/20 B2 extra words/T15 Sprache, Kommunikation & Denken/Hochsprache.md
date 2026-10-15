@@ -33,6 +33,11 @@ status: "new"
 > In der Schule lernen die Kinder die Hochsprache.
 > *At school the children learn the standard language.*
 
+**Phrases & Expressions:**
+- **Hochsprache und Dialekt** — *standard language; standard German*
+- **in der Hochsprache** — *standard language; standard German*
+- **die deutsche Hochsprache** — *standard language; standard German*
+
 **Collocations**
 - Hochsprache und Dialekt
 - in der Hochsprache

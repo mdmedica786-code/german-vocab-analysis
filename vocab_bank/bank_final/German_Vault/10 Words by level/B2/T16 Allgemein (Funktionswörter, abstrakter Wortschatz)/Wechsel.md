@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Wechsel des Arbeitsplatzes war schwierig.
 > *Changing jobs was difficult.*
+
+**Phrases & Expressions:**
+- **Wechseln wir uns alle zwei Minuten bei der Herzdruckmassage ab.** — Let us take turns with chest compressions every two minutes. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Reanimation]] · C1)*
 <!-- bank:end -->
 
 ## My notes

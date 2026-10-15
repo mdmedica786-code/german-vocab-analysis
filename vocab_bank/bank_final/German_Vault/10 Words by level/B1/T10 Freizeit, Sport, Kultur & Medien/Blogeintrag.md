@@ -34,6 +34,9 @@ status: "new"
 > Ich schreibe einen Blogeintrag über meine Reise.
 > *I'm writing a blog post about my trip.*
 
+**Phrases & Expressions:**
+- **Ich schreibe einen Blogeintrag über meine Reise** — *I'm writing a blog post about my trip* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 9a (Veränderungen)
 <!-- bank:end -->
 

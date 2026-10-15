@@ -33,6 +33,11 @@ status: "new"
 > Die Besatzung des Flugzeugs begrüßte die Passagiere.
 > *The crew of the aircraft welcomed the passengers.*
 
+**Phrases & Expressions:**
+- **die Besatzung eines Schiffes** — *crew; occupation*
+- **die Besatzung des Landes** — *crew; occupation*
+- **Besatzung an Bord** — *crew; occupation*
+
 **Collocations**
 - die Besatzung eines Schiffes
 - die Besatzung des Landes

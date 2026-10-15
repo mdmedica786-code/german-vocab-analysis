@@ -33,6 +33,9 @@ status: "new"
 > Ich weigere mich, diese Arbeit zu tun.
 > *I refuse to do this work.*
 
+**Phrases & Expressions:**
+- **Ich weigere mich, diese Arbeit zu tun** — *I refuse to do this work* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -31,6 +31,9 @@ status: "new"
 > Lena ist schwanger. Sie bekommt im Juli ein Kind.
 > *Lena is pregnant. She is having a baby in July.*
 
+**Phrases & Expressions:**
+- **Besteht die Möglichkeit, dass Sie schwanger sind?** — Is there a possibility that you are pregnant? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Schwangerschaft erfragen]] · B1)*
+
 **Source:** Netzwerk neu A2 K6 8b (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

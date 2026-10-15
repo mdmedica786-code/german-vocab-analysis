@@ -35,6 +35,9 @@ status: "new"
 > Im Zoo sehen wir einen Bären.
 > *At the zoo we see a bear.*
 
+**Phrases & Expressions:**
+- **Im Zoo sehen wir einen Bären** — *At the zoo we see a bear* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 10c (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,14 @@ status: "new"
 > Ich erwarte einen Anruf aus Berlin.
 > *I'm expecting a call from Berlin.*
 
+**Phrases & Expressions:**
+- **erwarten, dass ...** — to expect that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **ich kann es kaum erwarten** — I can hardly wait *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **es ist zu erwarten, dass ...** — it is to be expected that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+- **Ich erwarte Ihre Antwort bis zum ...** — I expect your reply by ... *([[B1-13 Formelle E-Mail und Brief|Frist setzen]] · B1)*
+- **einen Anruf erwarten** — *to expect*
+- **ein Kind erwarten** — *to expect*
+
 **Collocations**
 - einen Anruf erwarten
 - ein Kind erwarten

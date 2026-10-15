@@ -31,6 +31,11 @@ status: "new"
 > Er murmelte etwas vor sich hin.
 > *He mumbled something to himself.*
 
+**Phrases & Expressions:**
+- **vor sich hin murmeln** — *to mumble; to murmur*
+- **leise murmeln** — *to mumble; to murmur*
+- **etwas in den Bart murmeln** — *to mumble; to murmur*
+
 **Collocations**
 - vor sich hin murmeln
 - leise murmeln

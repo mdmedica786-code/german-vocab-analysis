@@ -35,6 +35,9 @@ status: "new"
 > Ich habe mal wieder einen Virus auf meinem Computer.
 > *Once again I have a virus on my computer.*
 
+**Phrases & Expressions:**
+- **Ich habe mal wieder einen Virus auf meinem Computer** — *Once again I have a virus on my computer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 12b (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

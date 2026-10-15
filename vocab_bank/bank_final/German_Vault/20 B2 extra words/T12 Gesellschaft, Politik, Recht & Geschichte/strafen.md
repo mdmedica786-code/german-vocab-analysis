@@ -31,6 +31,11 @@ status: "new"
 > Die Eltern straften das Kind nie mit Schlägen.
 > *The parents never punished the child with beatings.*
 
+**Phrases & Expressions:**
+- **jemanden streng strafen** — *to punish*
+- **jemanden für etwas strafen** — *to punish*
+- **mit Gefängnis strafen** — *to punish*
+
 **Collocations**
 - jemanden streng strafen
 - jemanden für etwas strafen

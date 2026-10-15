@@ -31,6 +31,9 @@ status: "new"
 > Rauchen ist schädlich für die Gesundheit.
 > *Smoking is harmful to your health.*
 
+**Phrases & Expressions:**
+- **Rauchen ist schädlich für die Gesundheit** — *Smoking is harmful to your health* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?) · Goethe word list A2
 <!-- bank:end -->
 

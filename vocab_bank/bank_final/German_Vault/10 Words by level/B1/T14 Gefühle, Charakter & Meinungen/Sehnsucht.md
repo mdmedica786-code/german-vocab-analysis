@@ -34,6 +34,9 @@ status: "new"
 > Ich habe Sehnsucht nach meiner Heimat.
 > *I long for my homeland.*
 
+**Phrases & Expressions:**
+- **Ich habe Sehnsucht nach meiner Heimat** — *I long for my homeland* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

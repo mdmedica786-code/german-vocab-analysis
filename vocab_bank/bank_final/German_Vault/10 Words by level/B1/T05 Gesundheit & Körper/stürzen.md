@@ -33,6 +33,13 @@ status: "new"
 > Ich bin auf der Straße gestürzt und habe mir den Fuß gebrochen.
 > *I fell in the street and broke my foot.*
 
+**Phrases & Expressions:**
+- **Sind Sie in letzter Zeit einmal gestürzt?** — Have you fallen at any time recently? *([[FSP-22 Kinder, Eltern und ältere Patienten|Sturzgefahr besprechen]] · B1)*
+- **von der Leiter stürzen** — *to fall*
+- **zu Boden stürzen** — *to fall*
+- **schwer stürzen** — *to fall*
+- **in die Tiefe stürzen** — *to fall*
+
 **Collocations**
 - von der Leiter stürzen
 - zu Boden stürzen

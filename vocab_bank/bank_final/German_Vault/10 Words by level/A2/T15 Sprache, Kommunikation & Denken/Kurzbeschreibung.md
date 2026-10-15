@@ -31,6 +31,9 @@ status: "new"
 > Die Kurzbeschreibung steht auf der Rückseite des Buches.
 > *The short description is on the back of the book.*
 
+**Phrases & Expressions:**
+- **Die Kurzbeschreibung steht auf der Rückseite des Buches** — *The short description is on the back of the book* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12c (Immer online?)
 <!-- bank:end -->
 

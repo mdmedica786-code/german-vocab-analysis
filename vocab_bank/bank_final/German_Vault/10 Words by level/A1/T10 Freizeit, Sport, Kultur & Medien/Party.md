@@ -35,6 +35,10 @@ status: "new"
 > Heute Abend machen wir eine Party.
 > *Tonight we're having a party.*
 
+**Phrases & Expressions:**
+- **Ich komme sehr gern zu deiner Party.** — I'm very happy to come to your party. *([[B1-12 Persönliche E-Mail und Brief|Zusage geben]] · B1)*
+- **Wir machen am Freitag eine Party. Kommst du auch?** — We're having a party on Friday. Are you coming too? *([[B1-18 Einladen, zusagen und absagen|Einladen]] · B1)*
+
 **Source:** Netzwerk neu A1 K5 11c (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Das Versteck war gut gewählt.
 > *The hiding place was well chosen.*
 
+**Phrases & Expressions:**
+- **ein Versteck finden** — *hiding place*
+- **im Versteck** — *hiding place*
+- **ein sicheres Versteck** — *hiding place*
+
 **Collocations**
 - ein Versteck finden
 - im Versteck

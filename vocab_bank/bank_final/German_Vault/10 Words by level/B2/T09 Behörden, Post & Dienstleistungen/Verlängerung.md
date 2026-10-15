@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Ich beantrage eine Verlängerung des Visums.
 > *I am applying for an extension of the visa.*
+
+**Phrases & Expressions:**
+- **Ich beantrage eine Verlängerung des Visums** — *I am applying for an extension of the visa* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,11 @@ status: "new"
 > Die Boulevardpresse berichtet gern über das Privatleben von Prominenten.
 > *The tabloid press likes to report on celebrities' private lives.*
 
+**Phrases & Expressions:**
+- **in der Boulevardpresse** — *tabloid press*
+- **Schlagzeilen der Boulevardpresse** — *tabloid press*
+- **von der Boulevardpresse verfolgt** — *tabloid press*
+
 **Collocations**
 - in der Boulevardpresse
 - Schlagzeilen der Boulevardpresse

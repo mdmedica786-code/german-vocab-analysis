@@ -32,6 +32,10 @@ status: "new"
 > Sie gestand ihre Niederlage ein.
 > *She admitted her defeat.*
 
+**Phrases & Expressions:**
+- **einen Irrtum eingestehen** — *to admit; to confess*
+- **sich etwas eingestehen** — *to admit; to confess*
+
 **Collocations**
 - einen Irrtum eingestehen
 - sich etwas eingestehen

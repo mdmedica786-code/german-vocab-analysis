@@ -32,6 +32,11 @@ status: "new"
 > Ich habe gar nicht mitgekriegt, dass du angerufen hast.
 > *I did not notice at all that you called.*
 
+**Phrases & Expressions:**
+- **etwas mitkriegen** — *to notice; to catch (colloquial)*
+- **nichts mitkriegen** — *to notice; to catch (colloquial)*
+- **das Wichtigste mitkriegen** — *to notice; to catch (colloquial)*
+
 **Collocations**
 - etwas mitkriegen
 - nichts mitkriegen

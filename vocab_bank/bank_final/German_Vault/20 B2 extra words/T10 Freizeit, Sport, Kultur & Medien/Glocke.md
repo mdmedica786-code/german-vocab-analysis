@@ -33,6 +33,11 @@ status: "new"
 > Die Glocke der Kirche läutet jeden Morgen.
 > *The church bell rings every morning.*
 
+**Phrases & Expressions:**
+- **die Glocke läuten** — *bell*
+- **etwas an die große Glocke hängen** — *bell*
+- **eine Glocke gießen** — *bell*
+
 **Collocations**
 - die Glocke läuten
 - etwas an die große Glocke hängen

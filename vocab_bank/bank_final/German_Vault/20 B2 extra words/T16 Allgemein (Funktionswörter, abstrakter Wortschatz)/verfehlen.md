@@ -31,6 +31,11 @@ status: "new"
 > Der Schuss verfehlte das Tor nur knapp.
 > *The shot missed the goal only narrowly.*
 
+**Phrases & Expressions:**
+- **das Ziel verfehlen** — *to miss; to fail to achieve*
+- **den Ball verfehlen** — *to miss; to fail to achieve*
+- **seine Wirkung verfehlen** — *to miss; to fail to achieve*
+
 **Collocations**
 - das Ziel verfehlen
 - den Ball verfehlen

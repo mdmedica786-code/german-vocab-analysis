@@ -35,6 +35,9 @@ status: "new"
 > Die Tomate ist noch grün.
 > *The tomato is still green.*
 
+**Phrases & Expressions:**
+- **Die Tomate ist noch grün** — *The tomato is still green* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 2a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

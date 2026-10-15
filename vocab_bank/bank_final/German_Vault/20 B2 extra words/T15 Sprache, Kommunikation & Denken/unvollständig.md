@@ -29,6 +29,11 @@ status: "new"
 > Das Formular ist leider unvollständig.
 > *The form is unfortunately incomplete.*
 
+**Phrases & Expressions:**
+- **unvollständig ausfüllen** — *incomplete*
+- **unvollständige Angaben** — *incomplete*
+- **unvollständig sein** — *incomplete*
+
 **Collocations**
 - unvollständig ausfüllen
 - unvollständige Angaben

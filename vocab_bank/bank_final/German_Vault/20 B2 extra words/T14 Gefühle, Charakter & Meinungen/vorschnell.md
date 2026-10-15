@@ -29,6 +29,11 @@ status: "new"
 > Er hat vorschnell eine Entscheidung getroffen.
 > *He made a decision too hastily.*
 
+**Phrases & Expressions:**
+- **vorschnell handeln** — *hasty; rash; premature*
+- **ein vorschnelles Urteil** — *hasty; rash; premature*
+- **vorschnell urteilen** — *hasty; rash; premature*
+
 **Collocations**
 - vorschnell handeln
 - ein vorschnelles Urteil

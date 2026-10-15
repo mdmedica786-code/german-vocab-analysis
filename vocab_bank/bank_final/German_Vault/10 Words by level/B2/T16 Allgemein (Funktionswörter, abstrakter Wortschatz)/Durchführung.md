@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Durchführung der Studie dauert ein Jahr.
 > *Carrying out the study takes a year.*
+
+**Phrases & Expressions:**
+- **Zur weiteren Abklärung erfolgte die Durchführung einer Koloskopie.** — For further clarification, a colonoscopy was performed. *([[FSP-20 Arztbrief und Dokumentation|Nominalstil]] · C1)*
 <!-- bank:end -->
 
 ## My notes

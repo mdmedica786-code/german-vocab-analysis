@@ -33,6 +33,10 @@ status: "new"
 > Die Operation ist gut gelaufen. Wir können Sie nächste Woche aus dem Krankenhaus entlassen.
 > *The operation went well. We can discharge you from hospital next week.*
 
+**Phrases & Expressions:**
+- **Wir planen, Sie morgen zu entlassen.** — We plan to discharge you tomorrow. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Entlassung ankündigen]] · B1)*
+- **Der Patient konnte in gutem Allgemeinzustand entlassen werden.** — The patient could be discharged in good general condition. *([[FSP-20 Arztbrief und Dokumentation|Entlassungsstatus]] · B2)*
+
 **Source:** Netzwerk neu A2 K11 5a (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

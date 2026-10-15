@@ -29,6 +29,11 @@ status: "new"
 > Im Keller riecht es muffig.
 > *It smells musty in the cellar.*
 
+**Phrases & Expressions:**
+- **muffig riechen** — *musty; stuffy*
+- **ein muffiger Geruch** — *musty; stuffy*
+- **eine muffige Luft** — *musty; stuffy*
+
 **Collocations**
 - muffig riechen
 - ein muffiger Geruch

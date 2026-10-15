@@ -33,6 +33,9 @@ status: "new"
 > Wo sitzen Sie?
 > *Where are you sitting?*
 
+**Phrases & Expressions:**
+- **Bitte sprechen Sie währenddessen nicht und bleiben Sie ruhig sitzen.** — Please don't speak meanwhile and sit still. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Blutdruck messen]] · B1)*
+
 **Source:** Netzwerk neu A1 K5 15a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

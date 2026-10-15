@@ -33,6 +33,11 @@ status: "new"
 > Öl und Gas sind wichtige Rohstoffe.
 > *Oil and gas are important raw materials.*
 
+**Phrases & Expressions:**
+- **Rohstoffe abbauen** — *raw material*
+- **nachwachsende Rohstoffe** — *raw material*
+- **Rohstoffe importieren** — *raw material*
+
 **Collocations**
 - Rohstoffe abbauen
 - nachwachsende Rohstoffe

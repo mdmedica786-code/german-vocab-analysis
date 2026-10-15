@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Mein Nachbar fährt ein E-Auto.
 > *My neighbour drives an electric car.*
+
+**Phrases & Expressions:**
+- **Mein Nachbar fährt ein E-Auto** — *My neighbour drives an electric car* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

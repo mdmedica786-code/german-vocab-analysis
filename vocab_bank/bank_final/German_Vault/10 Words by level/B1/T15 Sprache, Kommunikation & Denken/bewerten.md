@@ -32,6 +32,9 @@ status: "new"
 > Die Lehrerin bewertet den Test.
 > *The teacher marks the test.*
 
+**Phrases & Expressions:**
+- **Die Lehrerin bewertet den Test** — *The teacher marks the test* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9d (Blick nach vorn)
 <!-- bank:end -->
 

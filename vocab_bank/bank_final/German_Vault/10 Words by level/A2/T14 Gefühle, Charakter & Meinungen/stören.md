@@ -33,6 +33,10 @@ status: "new"
 > Störe ich?
 > *Am I disturbing you?*
 
+**Phrases & Expressions:**
+- **Ich verstehe Sie sehr schlecht, die Verbindung ist gestört.** — I can hardly understand you, the connection is bad. *([[B2-07 Telefonieren|Verbindungsprobleme]] · B1)*
+- **Dürfte ich Sie kurz stören?** — May I disturb you briefly? *([[B2-12 Höflichkeit und Diplomatie - Kritik und Ablehnung abmildern|Höflichkeit mit Konjunktiv II]] · B2)*
+
 **Source:** Netzwerk neu A2 K6 11b (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

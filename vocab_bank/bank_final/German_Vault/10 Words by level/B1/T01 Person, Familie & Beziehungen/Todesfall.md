@@ -34,6 +34,9 @@ status: "new"
 > Es gab einen Todesfall in der Familie.
 > *There was a death in the family.*
 
+**Phrases & Expressions:**
+- **Es gab einen Todesfall in der Familie** — *There was a death in the family* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3b (Veränderungen)
 <!-- bank:end -->
 

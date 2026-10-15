@@ -34,6 +34,9 @@ status: "new"
 > Das Label ist bei jungen Leuten beliebt.
 > *The label is popular with young people.*
 
+**Phrases & Expressions:**
+- **Das Label ist bei jungen Leuten beliebt** — *The label is popular with young people* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der Privatverkehr in der Innenstadt soll sinken.
 > *Private traffic in the city centre is to decrease.*
 
+**Phrases & Expressions:**
+- **den Privatverkehr einschränken** — *private transport; private traffic*
+- **im Privatverkehr** — *private transport; private traffic*
+- **Privatverkehr und öffentlicher Verkehr** — *private transport; private traffic*
+
 **Collocations**
 - den Privatverkehr einschränken
 - im Privatverkehr

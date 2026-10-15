@@ -34,6 +34,9 @@ status: "new"
 > Der Ausflug war ein Riesenspaß.
 > *The outing was great fun.*
 
+**Phrases & Expressions:**
+- **Der Ausflug war ein Riesenspaß** — *The outing was great fun* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 3a (Nach der Schulzeit)
 <!-- bank:end -->
 

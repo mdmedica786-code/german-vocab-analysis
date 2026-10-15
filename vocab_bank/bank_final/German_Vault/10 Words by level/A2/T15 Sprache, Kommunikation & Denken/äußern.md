@@ -32,6 +32,10 @@ status: "new"
 > Er äußert seine Meinung offen.
 > *He expresses his opinion openly.*
 
+**Phrases & Expressions:**
+- **Ich möchte meine Meinung zu diesem Thema äußern.** — I would like to express my opinion on this topic. *([[B1-01 Meinung äußern|Forumsbeitrag einleiten]] · B1)*
+- **Zu diesem Thema möchte ich meine Meinung äußern.** — I would like to express my opinion on this topic. *([[B2-03 Forumsbeitrag und Stellungnahme B2|Einstieg mit Bezug]] · B2)*
+
 **Source:** Netzwerk neu A2 K11 12b (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

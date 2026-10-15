@@ -29,6 +29,11 @@ status: "new"
 > Für diese Stelle suchen wir eine belastbare Person.
 > *For this position we are looking for a person who can cope with pressure.*
 
+**Phrases & Expressions:**
+- **körperlich belastbar** — *resilient; able to cope with pressure*
+- **psychisch belastbar** — *resilient; able to cope with pressure*
+- **belastbar sein** — *resilient; able to cope with pressure*
+
 **Collocations**
 - körperlich belastbar
 - psychisch belastbar

@@ -34,6 +34,9 @@ status: "new"
 > Als Hauptgericht gibt es ein Fischgericht.
 > *As the main course there is a fish dish.*
 
+**Phrases & Expressions:**
+- **Als Hauptgericht gibt es ein Fischgericht** — *As the main course there is a fish dish* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!)
 <!-- bank:end -->
 

@@ -30,6 +30,11 @@ status: "new"
 > Im Formular wird nach der Religionszugehörigkeit gefragt.
 > *The form asks about religious affiliation.*
 
+**Phrases & Expressions:**
+- **die Religionszugehörigkeit angeben** — *religious affiliation*
+- **ohne Religionszugehörigkeit** — *religious affiliation*
+- **die Religionszugehörigkeit erfragen** — *religious affiliation*
+
 **Collocations**
 - die Religionszugehörigkeit angeben
 - ohne Religionszugehörigkeit

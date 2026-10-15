@@ -30,6 +30,9 @@ status: "new"
 > Der neue Chef wirkt auf mich unsympathisch.
 > *The new boss comes across to me as unlikeable.*
 
+**Phrases & Expressions:**
+- **Der neue Chef wirkt auf mich unsympathisch** — *The new boss comes across to me as unlikeable* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 12a ÜB (Große und kleine Gefühle)
 <!-- bank:end -->
 

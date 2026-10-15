@@ -35,6 +35,9 @@ status: "new"
 > Wir haben in den Ferien eine schöne Wanderung gemacht.
 > *We went on a lovely hike during the holidays.*
 
+**Phrases & Expressions:**
+- **Wir haben in den Ferien eine schöne Wanderung gemacht** — *We went on a lovely hike during the holidays* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

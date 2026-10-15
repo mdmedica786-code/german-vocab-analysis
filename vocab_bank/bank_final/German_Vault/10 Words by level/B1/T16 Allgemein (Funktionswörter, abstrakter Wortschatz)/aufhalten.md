@@ -35,6 +35,9 @@ status: "new"
 > Es ist höflich, anderen Menschen die Tür aufzuhalten.
 > *It's polite to hold the door open for other people.*
 
+**Phrases & Expressions:**
+- **Wie lange hält der Schmerz an?** — How long does the pain last? *([[FSP-03 Schmerzanamnese|Dauer und Rhythmus]] · A2)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

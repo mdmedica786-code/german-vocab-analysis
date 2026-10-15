@@ -29,6 +29,12 @@ status: "new"
 > Ich bin diese Woche sehr beschäftigt.
 > *I am very busy this week.*
 
+**Phrases & Expressions:**
+- **beschäftigt sein** — *busy; employed*
+- **sehr beschäftigt** — *busy; employed*
+- **bei einer Firma beschäftigt** — *busy; employed*
+- **mit etwas beschäftigt sein** — *busy; employed*
+
 **Collocations**
 - beschäftigt sein
 - sehr beschäftigt

@@ -34,6 +34,9 @@ status: "new"
 > Die Kinder malen mit Farbstiften.
 > *The children draw with coloured pencils.*
 
+**Phrases & Expressions:**
+- **Die Kinder malen mit Farbstiften** — *The children draw with coloured pencils* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 8a (Kunststücke)
 <!-- bank:end -->
 

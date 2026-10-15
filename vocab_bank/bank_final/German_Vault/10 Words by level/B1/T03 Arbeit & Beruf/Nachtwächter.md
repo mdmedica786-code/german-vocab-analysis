@@ -34,6 +34,9 @@ status: "new"
 > Der Nachtwächter macht seine Runde.
 > *The night watchman makes his rounds.*
 
+**Phrases & Expressions:**
+- **Der Nachtwächter macht seine Runde** — *The night watchman makes his rounds* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

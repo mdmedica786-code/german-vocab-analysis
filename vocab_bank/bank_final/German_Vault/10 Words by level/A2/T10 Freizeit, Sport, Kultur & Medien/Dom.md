@@ -34,6 +34,9 @@ status: "new"
 > Der Dom ist das Wahrzeichen der Stadt.
 > *The cathedral is the landmark of the city.*
 
+**Phrases & Expressions:**
+- **Der Dom ist das Wahrzeichen der Stadt** — *The cathedral is the landmark of the city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 2a (Leben in der Stadt)
 <!-- bank:end -->
 

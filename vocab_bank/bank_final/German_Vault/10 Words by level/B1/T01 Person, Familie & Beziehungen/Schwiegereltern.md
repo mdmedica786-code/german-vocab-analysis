@@ -34,6 +34,9 @@ status: "new"
 > Meine Schwiegereltern besuchen uns am Sonntag.
 > *My parents-in-law are visiting us on Sunday.*
 
+**Phrases & Expressions:**
+- **Meine Schwiegereltern besuchen uns am Sonntag** — *My parents-in-law are visiting us on Sunday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 5b (Veränderungen)
 <!-- bank:end -->
 

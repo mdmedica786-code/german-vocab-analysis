@@ -34,6 +34,9 @@ status: "new"
 > Zur Pizza esse ich gern Oliven.
 > *With pizza I like to eat olives.*
 
+**Phrases & Expressions:**
+- **Zur Pizza esse ich gern Oliven** — *With pizza I like to eat olives* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 3c ÜB (Guten Appetit!)
 <!-- bank:end -->
 

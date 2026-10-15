@@ -30,6 +30,9 @@ status: "new"
 > Es ist unhöflich, immer zu spät zu kommen.
 > *It is impolite always to arrive late.*
 
+**Phrases & Expressions:**
+- **Es ist unhöflich, immer zu spät zu kommen** — *It is impolite always to arrive late* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 14 (Alltag und Familie)
 <!-- bank:end -->
 

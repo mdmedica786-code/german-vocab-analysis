@@ -34,6 +34,14 @@ status: "new"
 > Ich hoffe, dass es dir gut geht.
 > *I hope you are well.*
 
+**Phrases & Expressions:**
+- **ich hoffe, dass ...** — I hope that ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **ich hoffe, es geht dir gut** — I hope you are well *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **hoffen, dass ...** — to hope that ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **nur hoffen, dass ...** — can only hope that ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B2)*
+- **ich hoffe, du hast ...** — I hope you have ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · A2)*
+- **Ich hoffe, es geht dir gut.** — I hope you are well. *([[B1-12 Persönliche E-Mail und Brief|Einstieg]] · B1)*
+
 **Collocations**
 - auf etwas hoffen
 - auf Besserung hoffen

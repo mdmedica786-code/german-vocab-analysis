@@ -34,6 +34,9 @@ status: "new"
 > Das Stiftungsvermögen wird gut verwaltet.
 > *The endowment capital is managed well.*
 
+**Phrases & Expressions:**
+- **Das Stiftungsvermögen wird gut verwaltet** — *The endowment capital is managed well* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

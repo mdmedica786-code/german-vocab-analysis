@@ -31,6 +31,10 @@ status: "new"
 > Das Kind ist fünf Jahre alt.
 > *The child is five years old.*
 
+**Phrases & Expressions:**
+- **fünf Minuten** — five minutes *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A1)*
+- **Mir wurde vor fünf Jahren der Blinddarm entfernt.** — I had my appendix removed five years ago. *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Patient: Operation nennen]] · B2)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

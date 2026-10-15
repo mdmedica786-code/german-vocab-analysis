@@ -33,6 +33,11 @@ status: "new"
 > Aus Quitten kann man Gelee und Saft machen.
 > *Jelly and juice can be made from quinces.*
 
+**Phrases & Expressions:**
+- **Quittengelee** — *quince*
+- **reife Quitten** — *quince*
+- **Quitten kochen** — *quince*
+
 **Collocations**
 - Quittengelee
 - reife Quitten

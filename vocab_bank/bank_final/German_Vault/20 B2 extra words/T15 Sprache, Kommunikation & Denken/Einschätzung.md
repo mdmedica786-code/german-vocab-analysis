@@ -33,6 +33,12 @@ status: "new"
 > Meiner Einschätzung nach ist das Risiko gering.
 > *In my assessment the risk is low.*
 
+**Phrases & Expressions:**
+- **Meine Einschätzung ist, dass er dekompensiert ist.** — My assessment is that he is decompensated. *([[FSP-19 Übergabe, Konsil und Rücksprache|SBAR: Einschätzung]] · C1)*
+- **meiner Einschätzung nach** — *assessment; estimation*
+- **eine Einschätzung abgeben** — *assessment; estimation*
+- **falsche Einschätzung** — *assessment; estimation*
+
 **Collocations**
 - meiner Einschätzung nach
 - eine Einschätzung abgeben

@@ -31,6 +31,11 @@ status: "new"
 > Die Firma unterbreitete uns ein günstiges Angebot.
 > *The company submitted a favourable offer to us.*
 
+**Phrases & Expressions:**
+- **einen Vorschlag unterbreiten** — *to submit; to put forward*
+- **ein Angebot unterbreiten** — *to submit; to put forward*
+- **Ideen unterbreiten** — *to submit; to put forward*
+
 **Collocations**
 - einen Vorschlag unterbreiten
 - ein Angebot unterbreiten

@@ -29,6 +29,11 @@ status: "new"
 > Wir sollten die Lage objektiv beurteilen.
 > *We should assess the situation objectively.*
 
+**Phrases & Expressions:**
+- **objektiv betrachten** — *objective*
+- **objektiv gesehen** — *objective*
+- **eine objektive Meinung** — *objective*
+
 **Collocations**
 - objektiv betrachten
 - objektiv gesehen

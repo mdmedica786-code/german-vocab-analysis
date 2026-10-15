@@ -34,6 +34,9 @@ status: "new"
 > Unsere Stadt hat ein großes Müllproblem.
 > *Our city has a big rubbish problem.*
 
+**Phrases & Expressions:**
+- **Unsere Stadt hat ein großes Müllproblem** — *Our city has a big rubbish problem* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 7b (Umweltfreundlich?)
 <!-- bank:end -->
 

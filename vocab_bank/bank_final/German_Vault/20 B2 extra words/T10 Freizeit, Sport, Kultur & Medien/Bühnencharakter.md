@@ -30,6 +30,11 @@ status: "new"
 > Der Komiker ist als Bühnencharakter sehr beliebt.
 > *The comedian is very popular as a stage persona.*
 
+**Phrases & Expressions:**
+- **einen Bühnencharakter entwickeln** — *stage character; stage persona*
+- **der Bühnencharakter des Künstlers** — *stage character; stage persona*
+- **einen Bühnencharakter spielen** — *stage character; stage persona*
+
 **Collocations**
 - einen Bühnencharakter entwickeln
 - der Bühnencharakter des Künstlers

@@ -35,6 +35,9 @@ status: "new"
 > Alte Autos sind ein Problem für die Umwelt.
 > *Old cars are a problem for the environment.*
 
+**Phrases & Expressions:**
+- **Alte Autos sind ein Problem für die Umwelt** — *Old cars are a problem for the environment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

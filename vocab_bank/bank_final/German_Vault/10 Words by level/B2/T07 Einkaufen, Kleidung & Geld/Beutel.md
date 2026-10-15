@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Ich brauche einen Beutel für die Äpfel.
 > *I need a bag for the apples.*
+
+**Phrases & Expressions:**
+- **Ich brauche einen Beutel für die Äpfel** — *I need a bag for the apples* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

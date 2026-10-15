@@ -33,6 +33,9 @@ status: "new"
 > Können Sie bei meinem Auto bitte das Öl kontrollieren?
 > *Can you check the oil on my car, please?*
 
+**Phrases & Expressions:**
+- **Können Sie bei meinem Auto bitte das Öl kontrollieren** — *Can you check the oil on my car, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 8b (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

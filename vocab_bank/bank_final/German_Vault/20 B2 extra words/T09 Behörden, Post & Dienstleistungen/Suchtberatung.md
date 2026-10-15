@@ -30,6 +30,11 @@ status: "new"
 > Die Suchtberatung hilft Betroffenen und Angehörigen.
 > *Addiction counselling helps those affected and their families.*
 
+**Phrases & Expressions:**
+- **zur Suchtberatung gehen** — *addiction counselling*
+- **eine Suchtberatung aufsuchen** — *addiction counselling*
+- **kostenlose Suchtberatung** — *addiction counselling*
+
 **Collocations**
 - zur Suchtberatung gehen
 - eine Suchtberatung aufsuchen

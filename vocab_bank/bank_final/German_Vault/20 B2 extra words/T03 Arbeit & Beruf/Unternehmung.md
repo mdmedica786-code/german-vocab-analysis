@@ -33,6 +33,11 @@ status: "new"
 > Am Wochenende planen wir eine gemeinsame Unternehmung.
 > *At the weekend we are planning a joint outing.*
 
+**Phrases & Expressions:**
+- **eine gemeinsame Unternehmung** — *undertaking; outing*
+- **eine gewagte Unternehmung** — *undertaking; outing*
+- **Unternehmungen planen** — *undertaking; outing*
+
 **Collocations**
 - eine gemeinsame Unternehmung
 - eine gewagte Unternehmung

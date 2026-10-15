@@ -33,6 +33,12 @@ status: "new"
 > Die Firma sucht Verstärkung für das Team.
 > *The company is looking for reinforcement for the team.*
 
+**Phrases & Expressions:**
+- **Wir brauchen sofort Verstärkung im Schockraum.** — We need reinforcements in the resuscitation room immediately. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Alarmieren]] · B2)*
+- **Verstärkung suchen** — *reinforcement; amplification*
+- **Verstärkung anfordern** — *reinforcement; amplification*
+- **zur Verstärkung** — *reinforcement; amplification*
+
 **Collocations**
 - Verstärkung suchen
 - Verstärkung anfordern

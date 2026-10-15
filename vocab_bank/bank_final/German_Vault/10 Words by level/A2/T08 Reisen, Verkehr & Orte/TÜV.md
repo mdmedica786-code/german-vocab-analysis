@@ -35,6 +35,9 @@ status: "new"
 > Mein Auto muss nächste Woche zum TÜV.
 > *My car has to go for its inspection next week.*
 
+**Phrases & Expressions:**
+- **Mein Auto muss nächste Woche zum TÜV** — *My car has to go for its inspection next week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil)
 <!-- bank:end -->
 

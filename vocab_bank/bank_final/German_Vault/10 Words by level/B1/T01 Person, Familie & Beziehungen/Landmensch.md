@@ -34,6 +34,9 @@ status: "new"
 > Meine Oma ist ein richtiger Landmensch.
 > *My grandmother is a real country person.*
 
+**Phrases & Expressions:**
+- **Meine Oma ist ein richtiger Landmensch** — *My grandmother is a real country person* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 4b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

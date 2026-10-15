@@ -26,6 +26,11 @@ status: "new"
 > Im Supermarkt kauft sie Obst, Gemüse, Brot et cetera.
 > *At the supermarket she buys fruit, vegetables, bread and so on.*
 
+**Phrases & Expressions:**
+- **et cetera (etc.)** — *and so on; etc.*
+- **und so weiter** — *and so on; etc.*
+- **Obst, Gemüse et cetera** — *and so on; etc.*
+
 **Collocations**
 - et cetera (etc.)
 - und so weiter

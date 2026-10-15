@@ -33,6 +33,11 @@ status: "new"
 > Die Entscheidung wurde in der Chefetage getroffen.
 > *The decision was made on the executive floor.*
 
+**Phrases & Expressions:**
+- **in der Chefetage** — *executive floor; top management*
+- **die Chefetage informieren** — *executive floor; top management*
+- **in die Chefetage aufsteigen** — *executive floor; top management*
+
 **Collocations**
 - in der Chefetage
 - die Chefetage informieren

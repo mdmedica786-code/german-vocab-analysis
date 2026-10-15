@@ -31,6 +31,9 @@ status: "new"
 > Bei der Ticketwahl können Sie den Sitzplatz aussuchen.
 > *When choosing tickets you can pick your seat.*
 
+**Phrases & Expressions:**
+- **Bei der Ticketwahl können Sie den Sitzplatz aussuchen** — *When choosing tickets you can pick your seat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

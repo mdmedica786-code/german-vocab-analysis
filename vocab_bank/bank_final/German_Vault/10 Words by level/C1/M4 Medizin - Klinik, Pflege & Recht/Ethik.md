@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Ethik spielt in der Medizin eine große Rolle.
 > *Ethics plays a big role in medicine.*
+
+**Phrases & Expressions:**
+- **Die Ethik spielt in der Medizin eine große Rolle** — *Ethics plays a big role in medicine* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,10 @@ status: "new"
 > Die Vereinfachung des Formulars spart viel Zeit.
 > *The simplification of the form saves a lot of time.*
 
+**Phrases & Expressions:**
+- **eine Vereinfachung des Verfahrens** — *simplification*
+- **zur Vereinfachung** — *simplification*
+
 **Collocations**
 - eine Vereinfachung des Verfahrens
 - zur Vereinfachung

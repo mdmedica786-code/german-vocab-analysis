@@ -33,6 +33,11 @@ status: "new"
 > An der Küste entsteht ein neuer Windpark.
 > *A new wind farm is being built on the coast.*
 
+**Phrases & Expressions:**
+- **einen Windpark bauen** — *wind farm*
+- **Windpark auf See** — *wind farm*
+- **Windpark betreiben** — *wind farm*
+
 **Collocations**
 - einen Windpark bauen
 - Windpark auf See

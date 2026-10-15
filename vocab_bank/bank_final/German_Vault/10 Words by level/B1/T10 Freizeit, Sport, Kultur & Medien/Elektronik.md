@@ -34,6 +34,9 @@ status: "new"
 > Er arbeitet in einer Firma für Elektronik.
 > *He works in an electronics company.*
 
+**Phrases & Expressions:**
+- **Er arbeitet in einer Firma für Elektronik** — *He works in an electronics company* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1b (Arbeitswelt)
 <!-- bank:end -->
 

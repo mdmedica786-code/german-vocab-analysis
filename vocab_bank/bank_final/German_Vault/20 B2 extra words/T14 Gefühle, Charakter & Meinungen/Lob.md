@@ -33,6 +33,11 @@ status: "new"
 > Für die gute Arbeit bekam sie viel Lob.
 > *She received a lot of praise for the good work.*
 
+**Phrases & Expressions:**
+- **Lob verdienen** — *praise*
+- **ein großes Lob** — *praise*
+- **jemandem Lob aussprechen** — *praise*
+
 **Collocations**
 - Lob verdienen
 - ein großes Lob

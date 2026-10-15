@@ -30,6 +30,11 @@ status: "new"
 > Meine Gesundheits-App zählt jeden Tag meine Schritte.
 > *My health app counts my steps every day.*
 
+**Phrases & Expressions:**
+- **eine Gesundheits-App nutzen** — *health app*
+- **die Gesundheits-App öffnen** — *health app*
+- **eine Gesundheits-App herunterladen** — *health app*
+
 **Collocations**
 - eine Gesundheits-App nutzen
 - die Gesundheits-App öffnen

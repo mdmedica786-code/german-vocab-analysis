@@ -31,6 +31,9 @@ status: "new"
 > Sie besucht eine Modeschule in Mailand.
 > *She attends a fashion school in Milan.*
 
+**Phrases & Expressions:**
+- **Sie besucht eine Modeschule in Mailand** — *She attends a fashion school in Milan* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

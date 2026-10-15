@@ -34,6 +34,12 @@ status: "new"
 > Das Kind hat rote Wangen vom Fieber.
 > *The child has red cheeks from the fever.*
 
+**Phrases & Expressions:**
+- **rote Wangen** — *cheek*
+- **die Wange streicheln** — *cheek*
+- **auf die Wange küssen** — *cheek*
+- **eine geschwollene Wange** — *cheek*
+
 **Collocations**
 - rote Wangen
 - die Wange streicheln

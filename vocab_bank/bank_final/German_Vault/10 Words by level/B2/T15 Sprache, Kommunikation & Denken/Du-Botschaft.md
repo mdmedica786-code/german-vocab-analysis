@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Eine Du-Botschaft klingt oft wie ein Vorwurf.
 > *A you-message often sounds like an accusation.*
+
+**Phrases & Expressions:**
+- **Eine Du-Botschaft klingt oft wie ein Vorwurf** — *A you-message often sounds like an accusation* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

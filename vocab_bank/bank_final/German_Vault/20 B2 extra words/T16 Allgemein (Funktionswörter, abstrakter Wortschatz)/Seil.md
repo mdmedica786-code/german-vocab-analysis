@@ -33,6 +33,11 @@ status: "new"
 > Er kletterte am Seil nach oben.
 > *He climbed up the rope.*
 
+**Phrases & Expressions:**
+- **am Seil ziehen** — *rope*
+- **ein Seil spannen** — *rope*
+- **Seil springen** — *rope*
+
 **Collocations**
 - am Seil ziehen
 - ein Seil spannen

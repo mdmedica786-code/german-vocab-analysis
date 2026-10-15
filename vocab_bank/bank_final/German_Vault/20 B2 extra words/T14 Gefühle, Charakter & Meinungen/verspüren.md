@@ -31,6 +31,11 @@ status: "new"
 > Ich verspürte plötzlich großen Hunger.
 > *I suddenly felt great hunger.*
 
+**Phrases & Expressions:**
+- **Hunger verspüren** — *to feel; to sense*
+- **Lust verspüren** — *to feel; to sense*
+- **Angst verspüren** — *to feel; to sense*
+
 **Collocations**
 - Hunger verspüren
 - Lust verspüren

@@ -33,6 +33,12 @@ status: "new"
 > Das Gelenk ist geschwollen.
 > *The joint is swollen.*
 
+**Phrases & Expressions:**
+- **ein Gelenk ersetzen** — *joint*
+- **Schmerzen im Gelenk** — *joint*
+- **das Gelenk bewegen** — *joint*
+- **entzündetes Gelenk** — *joint*
+
 **Collocations**
 - ein Gelenk ersetzen
 - Schmerzen im Gelenk

@@ -30,6 +30,9 @@ status: "new"
 > Dieses Gift kann für den Menschen tödlich sein.
 > *This poison can be deadly to humans.*
 
+**Phrases & Expressions:**
+- **Dieses Gift kann für den Menschen tödlich sein** — *This poison can be deadly to humans* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

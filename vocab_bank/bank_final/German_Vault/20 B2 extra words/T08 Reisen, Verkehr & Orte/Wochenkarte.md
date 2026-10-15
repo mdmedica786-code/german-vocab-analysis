@@ -33,6 +33,11 @@ status: "new"
 > Mit der Wochenkarte kann ich alle Busse benutzen.
 > *With the weekly ticket I can use all the buses.*
 
+**Phrases & Expressions:**
+- **eine Wochenkarte kaufen** — *weekly ticket*
+- **Monats- und Wochenkarte** — *weekly ticket*
+- **die Wochenkarte entwerten** — *weekly ticket*
+
 **Collocations**
 - eine Wochenkarte kaufen
 - Monats- und Wochenkarte

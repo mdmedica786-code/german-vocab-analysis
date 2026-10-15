@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Auszug aus der Wohnung ist am Monatsende.
 > *The move out of the flat is at the end of the month.*
+
+**Phrases & Expressions:**
+- **Der Auszug aus der Wohnung ist am Monatsende** — *The move out of the flat is at the end of the month* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -31,6 +31,11 @@ status: "new"
 > Der Bericht beleuchtet die Ursachen der Krise.
 > *The report examines the causes of the crisis.*
 
+**Phrases & Expressions:**
+- **ein Thema beleuchten** — *to light up; to examine (a topic)*
+- **ein Problem beleuchten** — *to light up; to examine (a topic)*
+- **hell beleuchtet** — *to light up; to examine (a topic)*
+
 **Collocations**
 - ein Thema beleuchten
 - ein Problem beleuchten

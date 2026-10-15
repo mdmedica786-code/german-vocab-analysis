@@ -30,6 +30,11 @@ status: "new"
 > Die Servicezeiten finden Sie auf unserer Webseite.
 > *You will find the service hours on our website.*
 
+**Phrases & Expressions:**
+- **die Servicezeiten beachten** — *service hours*
+- **außerhalb der Servicezeiten** — *service hours*
+- **die Servicezeiten ändern** — *service hours*
+
 **Collocations**
 - die Servicezeiten beachten
 - außerhalb der Servicezeiten

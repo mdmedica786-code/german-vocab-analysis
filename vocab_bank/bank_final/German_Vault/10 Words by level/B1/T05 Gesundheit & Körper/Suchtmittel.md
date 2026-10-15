@@ -34,6 +34,9 @@ status: "new"
 > Manche Medikamente sind auch Suchtmittel.
 > *Some medicines are also addictive substances.*
 
+**Phrases & Expressions:**
+- **Manche Medikamente sind auch Suchtmittel** — *Some medicines are also addictive substances* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

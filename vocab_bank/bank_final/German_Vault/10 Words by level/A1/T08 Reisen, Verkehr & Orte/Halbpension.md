@@ -35,6 +35,9 @@ status: "new"
 > Möchten Sie Vollpension oder Halbpension?
 > *Would you like full board or half board?*
 
+**Phrases & Expressions:**
+- **Möchten Sie Vollpension oder Halbpension** — *Would you like full board or half board* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 7 (Gute Reise!) · Goethe word list A1
 <!-- bank:end -->
 

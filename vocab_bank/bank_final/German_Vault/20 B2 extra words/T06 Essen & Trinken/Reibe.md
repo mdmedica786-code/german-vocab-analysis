@@ -33,6 +33,11 @@ status: "new"
 > Reibe den Käse auf der groben Reibe.
 > *Grate the cheese on the coarse grater.*
 
+**Phrases & Expressions:**
+- **Käse auf der Reibe reiben** — *grater*
+- **eine feine Reibe** — *grater*
+- **die Reibe reinigen** — *grater*
+
 **Collocations**
 - Käse auf der Reibe reiben
 - eine feine Reibe

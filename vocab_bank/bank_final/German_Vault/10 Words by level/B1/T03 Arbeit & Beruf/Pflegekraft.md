@@ -34,6 +34,9 @@ status: "new"
 > Die Pflegekraft misst den Blutdruck.
 > *The nurse measures the blood pressure.*
 
+**Phrases & Expressions:**
+- **Die Pflegekraft misst den Blutdruck** — *The nurse measures the blood pressure* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 1a (Veränderungen)
 <!-- bank:end -->
 

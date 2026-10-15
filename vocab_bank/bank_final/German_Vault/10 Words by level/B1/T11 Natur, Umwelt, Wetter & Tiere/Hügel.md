@@ -34,6 +34,9 @@ status: "new"
 > Auf diesem Hügel machen wir eine Pause.
 > *We are taking a break on this hill.*
 
+**Phrases & Expressions:**
+- **Auf diesem Hügel machen wir eine Pause** — *We are taking a break on this hill* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

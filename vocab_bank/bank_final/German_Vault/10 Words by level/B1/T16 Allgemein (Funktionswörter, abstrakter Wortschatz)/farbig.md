@@ -30,6 +30,9 @@ status: "new"
 > Ich brauche kein weißes, sondern farbiges Papier.
 > *I do not need white paper but coloured paper.*
 
+**Phrases & Expressions:**
+- **Ich brauche kein weißes, sondern farbiges Papier** — *I do not need white paper but coloured paper* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

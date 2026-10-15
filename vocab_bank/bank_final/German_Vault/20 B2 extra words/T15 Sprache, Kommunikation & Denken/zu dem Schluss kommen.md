@@ -26,6 +26,10 @@ status: "new"
 > Die Forscher kamen zu dem Schluss, dass der Test zuverlässig ist.
 > *The researchers came to the conclusion that the test is reliable.*
 
+**Phrases & Expressions:**
+- **zu dem Ergebnis kommen** — *to come to the conclusion*
+- **zu der Erkenntnis kommen** — *to come to the conclusion*
+
 **Collocations**
 - zu dem Ergebnis kommen
 - zu der Erkenntnis kommen

@@ -33,6 +33,9 @@ status: "new"
 > Das Geld muss bis März ausreichen.
 > *The money has to last until March.*
 
+**Phrases & Expressions:**
+- **Das Geld muss bis März ausreichen** — *The money has to last until March* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

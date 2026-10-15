@@ -35,6 +35,9 @@ status: "new"
 > Ich habe Schnupfen. Welches Medikament empfehlen Sie?
 > *I have a cold. Which medicine do you recommend?*
 
+**Phrases & Expressions:**
+- **Ich habe Schnupfen. Welches Medikament empfehlen Sie** — *I have a cold. Which medicine do you recommend* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 12a (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

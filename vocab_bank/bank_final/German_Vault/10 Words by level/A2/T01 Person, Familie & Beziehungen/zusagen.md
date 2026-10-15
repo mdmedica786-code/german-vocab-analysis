@@ -35,6 +35,10 @@ status: "new"
 > Meine Eltern haben uns zum Essen eingeladen. Ich habe zugesagt.
 > **
 
+**Phrases & Expressions:**
+- **... sagt, dass ...** — ... says that ... *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **Wie sagt man ... auf Deutsch?** — How do you say ... in German? *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Wort erfragen]] · B1)*
+
 **Source:** Netzwerk neu A2 K1 8b (Und was machst du?) · Goethe word list B1
 <!-- bank:end -->
 

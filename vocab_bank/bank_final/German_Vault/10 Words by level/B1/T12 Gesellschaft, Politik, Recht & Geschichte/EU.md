@@ -34,6 +34,9 @@ status: "new"
 > Deutschland gehört zur EU.
 > *Germany belongs to the EU.*
 
+**Phrases & Expressions:**
+- **Deutschland gehört zur EU** — *Germany belongs to the EU* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 10a (Miteinander)
 <!-- bank:end -->
 

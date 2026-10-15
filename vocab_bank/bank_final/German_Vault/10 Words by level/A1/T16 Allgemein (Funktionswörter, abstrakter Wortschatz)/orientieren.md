@@ -33,6 +33,9 @@ status: "new"
 > Ich orientiere mich an der Karte.
 > *I orient myself by the map.*
 
+**Phrases & Expressions:**
+- **Neurologisch ist der Patient wach, orientiert und kooperativ.** — Neurologically the patient is awake, oriented and cooperative. *([[FSP-08 Befunde beschreiben und berichten|Neurologischer Kurzstatus]] · B2)*
+
 **Source:** Netzwerk neu A1 K11 12c (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

@@ -31,6 +31,11 @@ status: "new"
 > Die Bibliothek mahnt mich wegen des überfälligen Buches.
 > *The library is sending me a reminder about the overdue book.*
 
+**Phrases & Expressions:**
+- **jemanden mahnen** — *to remind; to warn; to demand payment*
+- **zur Vorsicht mahnen** — *to remind; to warn; to demand payment*
+- **schriftlich mahnen** — *to remind; to warn; to demand payment*
+
 **Collocations**
 - jemanden mahnen
 - zur Vorsicht mahnen

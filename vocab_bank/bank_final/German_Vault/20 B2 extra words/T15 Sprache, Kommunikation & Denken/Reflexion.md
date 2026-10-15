@@ -33,6 +33,11 @@ status: "new"
 > Die Reflexion der Ergebnisse ist wichtig.
 > *The reflection on the results is important.*
 
+**Phrases & Expressions:**
+- **zur Reflexion anregen** — *reflection; consideration*
+- **kritische Reflexion** — *reflection; consideration*
+- **die Reflexion des Lichts** — *reflection; consideration*
+
 **Collocations**
 - zur Reflexion anregen
 - kritische Reflexion

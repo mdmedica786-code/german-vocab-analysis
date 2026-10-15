@@ -29,6 +29,11 @@ status: "new"
 > Sie war beleidigt, weil niemand ihre Idee gut fand.
 > *She was offended because nobody liked her idea.*
 
+**Phrases & Expressions:**
+- **beleidigt sein** — *offended; sulking*
+- **beleidigt reagieren** — *offended; sulking*
+- **beleidigt wirken** — *offended; sulking*
+
 **Collocations**
 - beleidigt sein
 - beleidigt reagieren

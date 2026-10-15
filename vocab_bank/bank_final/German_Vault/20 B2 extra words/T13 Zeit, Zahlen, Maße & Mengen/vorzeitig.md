@@ -29,6 +29,11 @@ status: "new"
 > Der Vertrag wurde vorzeitig beendet.
 > *The contract was terminated early.*
 
+**Phrases & Expressions:**
+- **vorzeitig beenden** — *premature; early*
+- **vorzeitig kündigen** — *premature; early*
+- **vorzeitig abreisen** — *premature; early*
+
 **Collocations**
 - vorzeitig beenden
 - vorzeitig kündigen

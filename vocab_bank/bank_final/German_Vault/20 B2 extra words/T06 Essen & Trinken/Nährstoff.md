@@ -33,6 +33,11 @@ status: "new"
 > Gemüse enthält viele wichtige Nährstoffe.
 > *Vegetables contain many important nutrients.*
 
+**Phrases & Expressions:**
+- **wichtige Nährstoffe** — *nutrient*
+- **Nährstoffe aufnehmen** — *nutrient*
+- **reich an Nährstoffen** — *nutrient*
+
 **Collocations**
 - wichtige Nährstoffe
 - Nährstoffe aufnehmen

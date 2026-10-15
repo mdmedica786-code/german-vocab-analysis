@@ -31,6 +31,9 @@ status: "new"
 > Meine Schwester ist achtzehn Jahre alt.
 > *My sister is eighteen years old.*
 
+**Phrases & Expressions:**
+- **Meine Schwester ist achtzehn Jahre alt** — *My sister is eighteen years old* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

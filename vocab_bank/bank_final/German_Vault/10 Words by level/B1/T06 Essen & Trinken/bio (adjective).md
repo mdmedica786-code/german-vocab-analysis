@@ -30,6 +30,9 @@ status: "new"
 > Biologische Lebensmittel gibt es jetzt auch im Supermarkt.
 > *Organic food is now also available in the supermarket.*
 
+**Phrases & Expressions:**
+- **Biologische Lebensmittel gibt es jetzt auch im Supermarkt** — *Organic food is now also available in the supermarket* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

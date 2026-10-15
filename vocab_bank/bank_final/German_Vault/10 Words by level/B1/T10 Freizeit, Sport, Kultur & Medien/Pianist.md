@@ -34,6 +34,9 @@ status: "new"
 > Der Pianist gibt morgen ein Konzert.
 > *The pianist is giving a concert tomorrow.*
 
+**Phrases & Expressions:**
+- **Der Pianist gibt morgen ein Konzert** — *The pianist is giving a concert tomorrow* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 11b (Zwischenmenschliches)
 <!-- bank:end -->
 

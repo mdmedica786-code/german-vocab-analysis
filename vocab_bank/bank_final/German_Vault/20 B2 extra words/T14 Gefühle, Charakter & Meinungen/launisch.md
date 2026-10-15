@@ -29,6 +29,11 @@ status: "new"
 > Mein Chef ist heute wieder sehr launisch.
 > *My boss is very moody again today.*
 
+**Phrases & Expressions:**
+- **launisch sein** — *moody*
+- **ein launischer Mensch** — *moody*
+- **launisch reagieren** — *moody*
+
 **Collocations**
 - launisch sein
 - ein launischer Mensch

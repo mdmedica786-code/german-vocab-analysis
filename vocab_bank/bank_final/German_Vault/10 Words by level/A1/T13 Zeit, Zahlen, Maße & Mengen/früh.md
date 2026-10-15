@@ -32,6 +32,14 @@ status: "new"
 > Geht es auch später? Sechs Uhr ist mir zu früh.
 > *Can it be later? Six o'clock is too early for me.*
 
+**Phrases & Expressions:**
+- **in der Früh** — in the morning *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B2)*
+- **früher oder später** — sooner or later *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **Früher habe ich oft ..., aber heute ...** — I used to ... often, but today ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Gewohnheit beschreiben]] · B1)*
+- **Waren Sie früher schon einmal ernsthaft krank?** — Have you ever been seriously ill before? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Vorerkrankungen erfragen]] · B1)*
+- **Die Prognose ist gut, wenn wir früh behandeln.** — The prognosis is good if we treat early. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Prognose geben]] · B2)*
+- **Sollten die Beschwerden nicht besser werden, kommen Sie bitte früher.** — Should the complaints not improve, please come earlier. *([[FSP-11 Therapie und Medikamente erklären|Kontrolltermin vereinbaren]] · B2)*
+
 **Collocations**
 - früh aufstehen
 - am frühen Morgen

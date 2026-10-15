@@ -34,6 +34,9 @@ status: "new"
 > Beim Radfahren trägt man einen Helm.
 > *When cycling you wear a helmet.*
 
+**Phrases & Expressions:**
+- **Beim Radfahren trägt man einen Helm** — *When cycling you wear a helmet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1b (Ab in den Urlaub!)
 <!-- bank:end -->
 

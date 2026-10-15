@@ -33,6 +33,11 @@ status: "new"
 > Bitte geben Sie Ihre Zugangsdaten ein.
 > *Please enter your login details.*
 
+**Phrases & Expressions:**
+- **Zugangsdaten eingeben** — *login details; access data*
+- **Zugangsdaten vergessen** — *login details; access data*
+- **Zugangsdaten ändern** — *login details; access data*
+
 **Collocations**
 - Zugangsdaten eingeben
 - Zugangsdaten vergessen

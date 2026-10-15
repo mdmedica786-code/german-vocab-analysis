@@ -34,6 +34,9 @@ status: "new"
 > Deutschland wurde 2014 Weltmeister.
 > *Germany became world champion in 2014.*
 
+**Phrases & Expressions:**
+- **Deutschland wurde 2014 Weltmeister** — *Germany became world champion in 2014* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

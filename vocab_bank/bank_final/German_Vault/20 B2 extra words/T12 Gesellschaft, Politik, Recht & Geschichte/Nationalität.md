@@ -33,6 +33,11 @@ status: "new"
 > In der Klasse gibt es viele Nationalitäten.
 > *In the class there are many nationalities.*
 
+**Phrases & Expressions:**
+- **die Nationalität angeben** — *nationality*
+- **eine andere Nationalität** — *nationality*
+- **Menschen verschiedener Nationalitäten** — *nationality*
+
 **Collocations**
 - die Nationalität angeben
 - eine andere Nationalität

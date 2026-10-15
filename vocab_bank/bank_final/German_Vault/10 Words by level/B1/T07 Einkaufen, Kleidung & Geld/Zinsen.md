@@ -34,6 +34,9 @@ status: "new"
 > Wie viele Zinsen bekomme ich für mein Sparkonto?
 > *How much interest do I get on my savings account?*
 
+**Phrases & Expressions:**
+- **Wie viele Zinsen bekomme ich für mein Sparkonto** — *How much interest do I get on my savings account* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

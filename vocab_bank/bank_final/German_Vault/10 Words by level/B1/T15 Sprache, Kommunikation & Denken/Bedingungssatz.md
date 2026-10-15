@@ -34,6 +34,9 @@ status: "new"
 > Ein Bedingungssatz beginnt oft mit wenn.
 > *A conditional clause often begins with wenn.*
 
+**Phrases & Expressions:**
+- **Ein Bedingungssatz beginnt oft mit wenn** — *A conditional clause often begins with wenn* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 5a (Arbeitswelt)
 <!-- bank:end -->
 

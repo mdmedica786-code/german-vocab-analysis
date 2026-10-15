@@ -33,6 +33,11 @@ status: "new"
 > Der Pharmakonzern stellt ein neues Medikament vor.
 > *The pharmaceutical company presents a new drug.*
 
+**Phrases & Expressions:**
+- **ein großer Pharmakonzern** — *pharmaceutical company*
+- **bei einem Pharmakonzern arbeiten** — *pharmaceutical company*
+- **ein internationaler Pharmakonzern** — *pharmaceutical company*
+
 **Collocations**
 - ein großer Pharmakonzern
 - bei einem Pharmakonzern arbeiten

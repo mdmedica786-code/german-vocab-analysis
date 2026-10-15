@@ -29,6 +29,11 @@ status: "new"
 > Es ist merklich kälter geworden.
 > *It has become noticeably colder.*
 
+**Phrases & Expressions:**
+- **merklich besser** — *noticeable; marked*
+- **merklich nachlassen** — *noticeable; marked*
+- **sich merklich verändern** — *noticeable; marked*
+
 **Collocations**
 - merklich besser
 - merklich nachlassen

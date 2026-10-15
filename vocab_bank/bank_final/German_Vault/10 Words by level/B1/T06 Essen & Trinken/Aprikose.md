@@ -35,6 +35,9 @@ status: "new"
 > Schmecken dir die Aprikosen?
 > *Do you like the apricots?*
 
+**Phrases & Expressions:**
+- **Schmecken dir die Aprikosen** — *Do you like the apricots* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

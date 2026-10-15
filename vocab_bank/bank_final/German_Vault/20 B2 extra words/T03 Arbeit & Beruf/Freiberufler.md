@@ -33,6 +33,11 @@ status: "new"
 > Als Freiberufler arbeitet sie für mehrere Auftraggeber.
 > *As a freelancer she works for several clients.*
 
+**Phrases & Expressions:**
+- **als Freiberufler arbeiten** — *freelancer; self-employed professional*
+- **erfahrener Freiberufler** — *freelancer; self-employed professional*
+- **Freiberufler und Selbstständige** — *freelancer; self-employed professional*
+
 **Collocations**
 - als Freiberufler arbeiten
 - erfahrener Freiberufler

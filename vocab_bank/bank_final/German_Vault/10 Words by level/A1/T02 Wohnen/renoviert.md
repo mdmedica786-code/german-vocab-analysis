@@ -30,6 +30,9 @@ status: "new"
 > Die Wohnung ist frisch renoviert.
 > *The flat has been freshly renovated.*
 
+**Phrases & Expressions:**
+- **Die Wohnung ist frisch renoviert** — *The flat has been freshly renovated* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3c (Meine Wohnung)
 <!-- bank:end -->
 

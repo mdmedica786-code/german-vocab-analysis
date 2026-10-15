@@ -29,6 +29,11 @@ status: "new"
 > Sie trug ein bezauberndes Kleid.
 > *She wore an enchanting dress.*
 
+**Phrases & Expressions:**
+- **bezaubernd aussehen** — *charming; enchanting*
+- **ein bezauberndes Lächeln** — *charming; enchanting*
+- **bezaubernd schön** — *charming; enchanting*
+
 **Collocations**
 - bezaubernd aussehen
 - ein bezauberndes Lächeln

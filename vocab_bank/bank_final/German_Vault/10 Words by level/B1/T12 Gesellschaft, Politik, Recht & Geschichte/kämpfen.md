@@ -34,6 +34,12 @@ status: "new"
 > Die Frauen kämpfen für mehr Rechte.
 > *The women are fighting for more rights.*
 
+**Phrases & Expressions:**
+- **für etwas kämpfen** — *to fight*
+- **gegen eine Krankheit kämpfen** — *to fight*
+- **um etwas kämpfen** — *to fight*
+- **mit sich kämpfen** — *to fight*
+
 **Collocations**
 - für etwas kämpfen
 - gegen eine Krankheit kämpfen

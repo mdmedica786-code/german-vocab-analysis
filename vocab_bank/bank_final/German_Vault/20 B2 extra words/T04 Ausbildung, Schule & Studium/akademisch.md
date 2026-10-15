@@ -29,6 +29,11 @@ status: "new"
 > Er hat eine akademische Ausbildung.
 > *He has an academic education.*
 
+**Phrases & Expressions:**
+- **ein akademischer Grad** — *academic*
+- **akademische Freiheit** — *academic*
+- **die akademische Laufbahn** — *academic*
+
 **Collocations**
 - ein akademischer Grad
 - akademische Freiheit

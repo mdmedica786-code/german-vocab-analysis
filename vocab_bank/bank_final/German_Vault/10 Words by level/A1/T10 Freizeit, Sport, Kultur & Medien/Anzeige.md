@@ -35,6 +35,9 @@ status: "new"
 > Ich habe Ihre Anzeige in der Zeitung gelesen.
 > *I read your advertisement in the newspaper.*
 
+**Phrases & Expressions:**
+- **Mit großem Interesse habe ich Ihre Anzeige gelesen.** — I read your advertisement with great interest. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Bezug auf Anzeige]] · B2)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

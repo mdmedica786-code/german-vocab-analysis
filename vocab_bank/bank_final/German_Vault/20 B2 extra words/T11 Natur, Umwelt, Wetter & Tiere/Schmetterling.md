@@ -33,6 +33,11 @@ status: "new"
 > Im Sommer fliegen viele bunte Schmetterlinge über die Wiese.
 > *In summer many colourful butterflies fly over the meadow.*
 
+**Phrases & Expressions:**
+- **ein Schmetterling flattert** — *butterfly*
+- **Schmetterlinge im Bauch haben** — *butterfly*
+- **bunte Schmetterlinge** — *butterfly*
+
 **Collocations**
 - ein Schmetterling flattert
 - Schmetterlinge im Bauch haben

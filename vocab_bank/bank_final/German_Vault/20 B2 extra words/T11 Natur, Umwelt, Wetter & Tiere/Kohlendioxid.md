@@ -33,6 +33,11 @@ status: "new"
 > Beim Verbrennen von Kohle entsteht Kohlendioxid.
 > *Carbon dioxide is produced when coal is burned.*
 
+**Phrases & Expressions:**
+- **Kohlendioxid ausstoßen** — *carbon dioxide*
+- **Kohlendioxid binden** — *carbon dioxide*
+- **Ausstoß von Kohlendioxid** — *carbon dioxide*
+
 **Collocations**
 - Kohlendioxid ausstoßen
 - Kohlendioxid binden

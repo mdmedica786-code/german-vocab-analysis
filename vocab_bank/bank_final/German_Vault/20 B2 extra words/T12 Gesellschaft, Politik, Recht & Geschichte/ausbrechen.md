@@ -32,6 +32,11 @@ status: "new"
 > Im Gefängnis ist ein Feuer ausgebrochen.
 > *A fire broke out in the prison.*
 
+**Phrases & Expressions:**
+- **ein Krieg bricht aus** — *to break out; to erupt*
+- **in Tränen ausbrechen** — *to break out; to erupt*
+- **Panik bricht aus** — *to break out; to erupt*
+
 **Collocations**
 - ein Krieg bricht aus
 - in Tränen ausbrechen

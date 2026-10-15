@@ -33,6 +33,11 @@ status: "new"
 > Eine Büroklammer hält die Seiten zusammen.
 > *A paper clip holds the pages together.*
 
+**Phrases & Expressions:**
+- **eine Büroklammer verwenden** — *paper clip*
+- **mit Büroklammern zusammenheften** — *paper clip*
+- **eine Schachtel Büroklammern** — *paper clip*
+
 **Collocations**
 - eine Büroklammer verwenden
 - mit Büroklammern zusammenheften

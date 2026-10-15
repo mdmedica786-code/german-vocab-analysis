@@ -32,6 +32,9 @@ status: "new"
 > Sie hatte einen Unfall. Seitdem ist sie gelähmt.
 > *She had an accident. She's been paralyzed since then.*
 
+**Phrases & Expressions:**
+- **Seitdem ich in Deutschland wohne, ...** — Since I have been living in Germany, ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Zeit: seitdem]] · B1)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

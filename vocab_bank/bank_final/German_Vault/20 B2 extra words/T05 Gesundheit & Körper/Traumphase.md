@@ -33,6 +33,11 @@ status: "new"
 > In der Traumphase bewegen sich die Augen schnell.
 > *In the dream phase the eyes move quickly.*
 
+**Phrases & Expressions:**
+- **in der Traumphase** — *dream phase; REM phase*
+- **eine Traumphase erleben** — *dream phase; REM phase*
+- **die Traumphasen der Nacht** — *dream phase; REM phase*
+
 **Collocations**
 - in der Traumphase
 - eine Traumphase erleben

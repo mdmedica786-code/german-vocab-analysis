@@ -34,6 +34,9 @@ status: "new"
 > Haben Sie eine Arbeitserlaubnis?
 > *Do you have a work permit?*
 
+**Phrases & Expressions:**
+- **Haben Sie eine Arbeitserlaubnis** — *Do you have a work permit* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

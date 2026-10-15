@@ -33,6 +33,13 @@ status: "new"
 > Herr Müller kommt heute nicht. Sein Vater ist gestern gestorben.
 > *Mr Müller isn't coming today. His father died yesterday.*
 
+**Phrases & Expressions:**
+- **Woran sind Ihre Eltern gestorben?** — What did your parents die of? *([[FSP-05 Familien- und Sozialanamnese|Familienanamnese]] · B2)*
+- **an einer Krankheit sterben** — *to die*
+- **jung sterben** — *to die*
+- **im Krankenhaus sterben** — *to die*
+- **vor Angst sterben** — *to die*
+
 **Collocations**
 - an einer Krankheit sterben
 - jung sterben

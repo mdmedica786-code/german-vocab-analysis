@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Wir suchen woanders nach dem Schlüssel.
 > *We are looking elsewhere for the key.*
+
+**Phrases & Expressions:**
+- **Wir suchen woanders nach dem Schlüssel** — *We are looking elsewhere for the key* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -35,6 +35,9 @@ status: "new"
 > Der Motor ist kaputt. Das Auto fährt nicht mehr.
 > *The engine is broken. The car won't run any more.*
 
+**Phrases & Expressions:**
+- **Der Motor ist kaputt. Das Auto fährt nicht mehr** — *The engine is broken. The car won't run any more* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 1 ÜB (Ganz schön mobil) · Goethe word list A2
 <!-- bank:end -->
 

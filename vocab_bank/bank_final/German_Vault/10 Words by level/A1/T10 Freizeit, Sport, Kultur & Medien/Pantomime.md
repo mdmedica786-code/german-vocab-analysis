@@ -34,6 +34,9 @@ status: "new"
 > Wir spielen ein Wort als Pantomime vor.
 > *We act out a word as a mime.*
 
+**Phrases & Expressions:**
+- **Wir spielen ein Wort als Pantomime vor** — *We act out a word as a mime* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 2b (Zeit mit Freunden)
 <!-- bank:end -->
 

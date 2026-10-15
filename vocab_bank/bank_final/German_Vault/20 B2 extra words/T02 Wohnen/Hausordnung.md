@@ -33,6 +33,11 @@ status: "new"
 > Laut Hausordnung ist ab 22 Uhr Nachtruhe.
 > *According to the house rules quiet time begins at 10 pm.*
 
+**Phrases & Expressions:**
+- **die Hausordnung beachten** — *house rules*
+- **gegen die Hausordnung verstoßen** — *house rules*
+- **laut Hausordnung** — *house rules*
+
 **Collocations**
 - die Hausordnung beachten
 - gegen die Hausordnung verstoßen

@@ -33,6 +33,11 @@ status: "new"
 > Die Auszahlung des Gehalts erfolgt zum Monatsende.
 > *The salary is paid out at the end of the month.*
 
+**Phrases & Expressions:**
+- **die Auszahlung beantragen** — *payout; disbursement*
+- **die Auszahlung der Rente** — *payout; disbursement*
+- **eine Auszahlung erhalten** — *payout; disbursement*
+
 **Collocations**
 - die Auszahlung beantragen
 - die Auszahlung der Rente

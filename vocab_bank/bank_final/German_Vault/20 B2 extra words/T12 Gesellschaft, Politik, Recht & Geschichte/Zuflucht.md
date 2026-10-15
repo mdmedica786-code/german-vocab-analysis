@@ -33,6 +33,11 @@ status: "new"
 > Die Familie fand Zuflucht in einem Kloster.
 > *The family found refuge in a monastery.*
 
+**Phrases & Expressions:**
+- **Zuflucht suchen** — *refuge; shelter*
+- **Zuflucht finden** — *refuge; shelter*
+- **seine Zuflucht nehmen zu** — *refuge; shelter*
+
 **Collocations**
 - Zuflucht suchen
 - Zuflucht finden

@@ -33,6 +33,11 @@ status: "new"
 > Die Erzählerin führt uns durch die Geschichte.
 > *The narrator guides us through the story.*
 
+**Phrases & Expressions:**
+- **eine gute Erzählerin** — *narrator (female); storyteller*
+- **die Erzählerin des Romans** — *narrator (female); storyteller*
+- **als Erzählerin auftreten** — *narrator (female); storyteller*
+
 **Collocations**
 - eine gute Erzählerin
 - die Erzählerin des Romans

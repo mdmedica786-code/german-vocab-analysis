@@ -34,6 +34,9 @@ status: "new"
 > Meine Schwester singt in einem Chor.
 > *My sister sings in a choir.*
 
+**Phrases & Expressions:**
+- **Meine Schwester singt in einem Chor** — *My sister sings in a choir* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg)
 <!-- bank:end -->
 

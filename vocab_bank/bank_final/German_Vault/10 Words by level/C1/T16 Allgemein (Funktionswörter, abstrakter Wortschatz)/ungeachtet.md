@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Ungeachtet der Warnung fuhr er weiter.
 > *Regardless of the warning he drove on.*
+
+**Phrases & Expressions:**
+- **Ungeachtet der Warnung fuhr er weiter** — *Regardless of the warning he drove on* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

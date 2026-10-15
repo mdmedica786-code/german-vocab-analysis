@@ -34,6 +34,9 @@ status: "new"
 > Ich möchte diese Bluse umtauschen.
 > *I would like to exchange this blouse.*
 
+**Phrases & Expressions:**
+- **Ich möchte diese Bluse umtauschen** — *I would like to exchange this blouse* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 4b (Die Jacke gefällt mir!) · Goethe word list B1
 <!-- bank:end -->
 

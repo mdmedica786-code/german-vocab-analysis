@@ -34,6 +34,9 @@ status: "new"
 > In einem Benimmbuch stehen Regeln für gutes Benehmen.
 > *A book of etiquette contains rules for good manners.*
 
+**Phrases & Expressions:**
+- **In einem Benimmbuch stehen Regeln für gutes Benehmen** — *A book of etiquette contains rules for good manners* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen)
 <!-- bank:end -->
 

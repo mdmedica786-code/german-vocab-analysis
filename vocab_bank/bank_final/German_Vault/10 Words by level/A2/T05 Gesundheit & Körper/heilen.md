@@ -33,6 +33,12 @@ status: "new"
 > Die Wunde heilt langsam.
 > *The wound is healing slowly.*
 
+**Phrases & Expressions:**
+- **Wunden heilen** — *to heal*
+- **Krankheiten heilen** — *to heal*
+- **vollständig heilen** — *to heal*
+- **schnell heilen** — *to heal*
+
 **Collocations**
 - Wunden heilen
 - Krankheiten heilen

@@ -35,6 +35,9 @@ status: "new"
 > Diesen Ausdruck habe ich noch nie gehört.
 > *I have never heard this expression.*
 
+**Phrases & Expressions:**
+- **Diesen Ausdruck habe ich noch nie gehört** — *I have never heard this expression* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13b (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

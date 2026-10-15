@@ -30,6 +30,9 @@ status: "new"
 > Das ist eine doofe Idee.
 > *That is a silly idea.*
 
+**Phrases & Expressions:**
+- **Das ist eine doofe Idee** — *That is a silly idea* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 1a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Sie studiert Ökonomie an der Universität.
 > *She studies economics at university.*
 
+**Phrases & Expressions:**
+- **Ökonomie studieren** — *economics; economy*
+- **politische Ökonomie** — *economics; economy*
+- **Ökonomie und Ökologie** — *economics; economy*
+
 **Collocations**
 - Ökonomie studieren
 - politische Ökonomie

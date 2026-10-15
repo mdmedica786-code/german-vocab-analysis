@@ -31,6 +31,11 @@ status: "new"
 > Das Kind heulte vor Wut.
 > *The child howled with rage.*
 
+**Phrases & Expressions:**
+- **vor Wut heulen** — *to howl; to cry (colloquial)*
+- **laut heulen** — *to howl; to cry (colloquial)*
+- **der Wind heult** — *to howl; to cry (colloquial)*
+
 **Collocations**
 - vor Wut heulen
 - laut heulen

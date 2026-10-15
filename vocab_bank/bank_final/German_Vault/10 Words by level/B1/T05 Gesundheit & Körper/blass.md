@@ -31,6 +31,9 @@ status: "new"
 > Du siehst ganz blass aus. Bist du krank?
 > *You look quite pale. Are you ill?*
 
+**Phrases & Expressions:**
+- **Bei der Inspektion zeigt sich ein blasses Hautkolorit.** — On inspection a pale skin colour is evident. *([[FSP-08 Befunde beschreiben und berichten|Inspektion]] · C1)*
+
 **Source:** Netzwerk neu B1 K8 2a ÜB (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

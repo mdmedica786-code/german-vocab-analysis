@@ -33,6 +33,11 @@ status: "new"
 > In vielen Großstädten ist die Luftverschmutzung ein Problem.
 > *In many large cities air pollution is a problem.*
 
+**Phrases & Expressions:**
+- **die Luftverschmutzung verringern** — *air pollution*
+- **Luftverschmutzung bekämpfen** — *air pollution*
+- **starke Luftverschmutzung** — *air pollution*
+
 **Collocations**
 - die Luftverschmutzung verringern
 - Luftverschmutzung bekämpfen

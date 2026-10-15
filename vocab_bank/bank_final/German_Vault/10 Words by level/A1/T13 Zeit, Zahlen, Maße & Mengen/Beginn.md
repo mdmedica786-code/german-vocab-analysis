@@ -35,6 +35,9 @@ status: "new"
 > Zu Beginn der Stunde begrüßt die Lehrerin ihre Schüler.
 > *At the beginning of the lesson the teacher greets her students.*
 
+**Phrases & Expressions:**
+- **Zu Beginn der Stunde begrüßt die Lehrerin ihre Schüler** — *At the beginning of the lesson the teacher greets her students* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden) · Goethe word list B1
 <!-- bank:end -->
 

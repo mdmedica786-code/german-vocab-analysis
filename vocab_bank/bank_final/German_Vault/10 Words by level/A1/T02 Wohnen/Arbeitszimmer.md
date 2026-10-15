@@ -34,6 +34,9 @@ status: "new"
 > Mein Mann arbeitet im Arbeitszimmer.
 > *My husband works in the study.*
 
+**Phrases & Expressions:**
+- **Mein Mann arbeitet im Arbeitszimmer** — *My husband works in the study* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung)
 <!-- bank:end -->
 

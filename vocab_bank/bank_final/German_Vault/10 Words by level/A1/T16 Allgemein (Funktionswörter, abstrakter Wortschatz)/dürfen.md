@@ -34,6 +34,14 @@ status: "new"
 > Sie dürfen hier nicht rauchen.
 > **
 
+**Phrases & Expressions:**
+- **Darf ich das Fenster öffnen?** — May I open the window? *([[B1-07 Bitten und höflich nachfragen|Um Erlaubnis bitten]] · B1)*
+- **Darf ich jemanden mitbringen?** — May I bring someone? *([[B1-18 Einladen, zusagen und absagen|Rückfrage stellen]] · B1)*
+- **Darf ich mich vorstellen? Mein Name ist ...** — May I introduce myself? My name is ... *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Sich vorstellen]] · A2)*
+- **Darf ich kurz etwas ergänzen?** — May I briefly add something? *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Das Wort ergreifen]] · B2)*
+- **Wenn ich Sie kurz unterbrechen darf, ...** — If I may briefly interrupt you, ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Das Wort ergreifen]] · B2)*
+- **Dürfte ich ein, zwei Tage bei Ihnen hospitieren?** — Might I observe with you for a day or two? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Hospitation vereinbaren]] · B2)*
+
 **Source:** Netzwerk neu A1 K8 10b (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

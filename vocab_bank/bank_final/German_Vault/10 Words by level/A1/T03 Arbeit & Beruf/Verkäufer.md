@@ -35,6 +35,9 @@ status: "new"
 > Meine Mutter ist Verkäuferin im Kaufhaus.
 > *My mother is a saleswoman in the department store.*
 
+**Phrases & Expressions:**
+- **Meine Mutter ist Verkäuferin im Kaufhaus** — *My mother is a saleswoman in the department store* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

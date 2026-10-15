@@ -39,6 +39,9 @@ status: "new"
 > Meine Tochter hat gerade die Matura gemacht.
 > *My daughter has just taken her school-leaving exams.*
 
+**Phrases & Expressions:**
+- **Meine Tochter hat gerade die Matura gemacht** — *My daughter has just taken her school-leaving exams* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

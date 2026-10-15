@@ -33,6 +33,11 @@ status: "new"
 > Die Materie ist sehr kompliziert.
 > *The subject matter is very complicated.*
 
+**Phrases & Expressions:**
+- **eine komplizierte Materie** — *matter; subject matter*
+- **Materie und Energie** — *matter; subject matter*
+- **sich in eine Materie einarbeiten** — *matter; subject matter*
+
 **Collocations**
 - eine komplizierte Materie
 - Materie und Energie

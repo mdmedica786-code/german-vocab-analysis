@@ -32,6 +32,11 @@ status: "new"
 > Der Hund bettelt um ein Stück Wurst.
 > *The dog begs for a piece of sausage.*
 
+**Phrases & Expressions:**
+- **um Geld betteln** — *to beg*
+- **um etwas betteln** — *to beg*
+- **betteln gehen** — *to beg*
+
 **Collocations**
 - um Geld betteln
 - um etwas betteln

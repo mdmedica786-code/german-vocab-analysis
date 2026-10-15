@@ -34,6 +34,9 @@ status: "new"
 > Die Konzeption des Projekts ist abgeschlossen.
 > *The conception of the project is complete.*
 
+**Phrases & Expressions:**
+- **Die Konzeption des Projekts ist abgeschlossen** — *The conception of the project is complete* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

@@ -37,6 +37,10 @@ status: "new"
 > Mach dich nicht klein, du hast gute Noten.
 > *Do not belittle yourself, you have good grades.*
 
+**Phrases & Expressions:**
+- **Kein Problem, das macht nichts.** — No problem, it doesn't matter. *([[B1-17 Sich entschuldigen und danken|Entschuldigung annehmen]] · A2)*
+- **Wir tun alles, was in unserer Macht steht.** — We are doing everything in our power. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Angehörige beruhigen]] · B2)*
+
 **Source:** Netzwerk neu B1 K4 10a (Arbeitswelt)
 <!-- bank:end -->
 

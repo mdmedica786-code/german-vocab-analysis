@@ -31,6 +31,12 @@ status: "new"
 > Ich musste lange warten. Aber schließlich habe ich den Job doch noch bekommen.
 > *I had to wait a long time. But in the end I did get the job.*
 
+**Phrases & Expressions:**
+- **Schließlich haben wir uns für ... entschieden.** — Finally we decided on ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Aufzählung]] · B1)*
+- **schließlich doch** — *finally, eventually*
+- **und schließlich** — *finally, eventually*
+- **schließlich und endlich** — *finally, eventually*
+
 **Collocations**
 - schließlich doch
 - und schließlich

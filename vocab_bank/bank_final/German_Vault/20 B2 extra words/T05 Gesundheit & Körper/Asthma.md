@@ -33,6 +33,11 @@ status: "new"
 > Seit seiner Kindheit leidet er an Asthma.
 > *He has suffered from asthma since childhood.*
 
+**Phrases & Expressions:**
+- **an Asthma leiden** — *asthma*
+- **Asthma haben** — *asthma*
+- **ein Asthmaanfall** — *asthma*
+
 **Collocations**
 - an Asthma leiden
 - Asthma haben

@@ -33,6 +33,13 @@ status: "new"
 > Ich habe mir vorgenommen, mehr Sport zu treiben.
 > *I have resolved to do more sport.*
 
+**Phrases & Expressions:**
+- **... nimmt kontinuierlich zu.** — ... is steadily increasing. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Anstieg beschreiben]] · B2)*
+- **sich etwas vornehmen** — *to plan to do; to undertake*
+- **Änderungen vornehmen** — *to plan to do; to undertake*
+- **eine Untersuchung vornehmen** — *to plan to do; to undertake*
+- **sich viel vornehmen** — *to plan to do; to undertake*
+
 **Collocations**
 - sich etwas vornehmen
 - Änderungen vornehmen

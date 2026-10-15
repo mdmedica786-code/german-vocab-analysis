@@ -33,6 +33,10 @@ status: "new"
 > Er unterschätzte die Tragweite seiner Entscheidung.
 > *He underestimated the significance of his decision.*
 
+**Phrases & Expressions:**
+- **von großer Tragweite** — *significance; consequences*
+- **die Tragweite erkennen** — *significance; consequences*
+
 **Collocations**
 - von großer Tragweite
 - die Tragweite erkennen

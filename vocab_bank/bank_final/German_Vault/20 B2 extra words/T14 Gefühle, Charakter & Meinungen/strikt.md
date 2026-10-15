@@ -29,6 +29,11 @@ status: "new"
 > Er befolgt die Regeln strikt.
 > *He follows the rules strictly.*
 
+**Phrases & Expressions:**
+- **strikt ablehnen** — *strict*
+- **strikt einhalten** — *strict*
+- **strikt dagegen sein** — *strict*
+
 **Collocations**
 - strikt ablehnen
 - strikt einhalten

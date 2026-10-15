@@ -34,6 +34,9 @@ status: "new"
 > Die Taxifahrerin kennt jede Straße in der Stadt.
 > *The taxi driver knows every street in the city.*
 
+**Phrases & Expressions:**
+- **Die Taxifahrerin kennt jede Straße in der Stadt** — *The taxi driver knows every street in the city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

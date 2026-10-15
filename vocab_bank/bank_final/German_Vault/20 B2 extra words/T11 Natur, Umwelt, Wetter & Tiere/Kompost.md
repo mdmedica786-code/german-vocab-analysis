@@ -33,6 +33,11 @@ status: "new"
 > Im Garten werden Küchenabfälle zu Kompost.
 > *In the garden kitchen waste becomes compost.*
 
+**Phrases & Expressions:**
+- **Kompost anlegen** — *compost*
+- **Kompost verwenden** — *compost*
+- **Abfälle auf den Kompost werfen** — *compost*
+
 **Collocations**
 - Kompost anlegen
 - Kompost verwenden

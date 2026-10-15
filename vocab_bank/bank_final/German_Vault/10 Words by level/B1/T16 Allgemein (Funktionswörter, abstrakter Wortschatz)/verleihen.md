@@ -32,6 +32,9 @@ status: "new"
 > Ich verleihe meine Bücher nicht gern.
 > *I don't like lending my books.*
 
+**Phrases & Expressions:**
+- **Ich verleihe meine Bücher nicht gern** — *I don't like lending my books* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

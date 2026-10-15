@@ -29,6 +29,11 @@ status: "new"
 > Er hat eine gedrungene Gestalt.
 > *He has a stocky build.*
 
+**Phrases & Expressions:**
+- **eine gedrungene Gestalt** — *stocky; squat*
+- **gedrungen wirken** — *stocky; squat*
+- **ein gedrungener Körperbau** — *stocky; squat*
+
 **Collocations**
 - eine gedrungene Gestalt
 - gedrungen wirken

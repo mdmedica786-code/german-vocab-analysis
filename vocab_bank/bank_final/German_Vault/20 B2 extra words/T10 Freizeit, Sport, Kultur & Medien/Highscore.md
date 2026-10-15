@@ -33,6 +33,11 @@ status: "new"
 > Mein Bruder hat einen neuen Highscore erreicht.
 > *My brother has reached a new high score.*
 
+**Phrases & Expressions:**
+- **einen Highscore erreichen** — *high score*
+- **den Highscore knacken** — *high score*
+- **ein neuer Highscore** — *high score*
+
 **Collocations**
 - einen Highscore erreichen
 - den Highscore knacken

@@ -32,6 +32,14 @@ status: "new"
 > Ich habe meinen alten Lehrer sofort wiedererkannt.
 > *I recognised my old teacher immediately.*
 
+**Phrases & Expressions:**
+- **immer wieder** — again and again *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **immer und immer wieder** — again and again *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **hin und wieder** — now and then *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **wieder einmal** — once again *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **schon wieder** — again (already) *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A1)*
+- **Schreib mir bald wieder!** — Write to me again soon! *([[B1-12 Persönliche E-Mail und Brief|Schluss formulieren]] · B1)*
+
 **Collocations**
 - jemanden wiedererkennen
 - sich wiedererkennen

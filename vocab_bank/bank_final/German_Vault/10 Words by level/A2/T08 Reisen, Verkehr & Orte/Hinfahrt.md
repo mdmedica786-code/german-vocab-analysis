@@ -34,6 +34,9 @@ status: "new"
 > Auf der Hinfahrt haben wir im Stau gestanden.
 > *On the way there we were stuck in a traffic jam.*
 
+**Phrases & Expressions:**
+- **Auf der Hinfahrt haben wir im Stau gestanden** — *On the way there we were stuck in a traffic jam* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 3c (Arbeitswelten)
 <!-- bank:end -->
 

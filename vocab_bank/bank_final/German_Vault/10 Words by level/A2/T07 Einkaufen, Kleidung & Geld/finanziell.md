@@ -31,6 +31,9 @@ status: "new"
 > Finanziell geht es meinem Neffen jetzt besser.
 > *Financially my nephew is doing better now.*
 
+**Phrases & Expressions:**
+- **Finanziell geht es meinem Neffen jetzt besser** — *Financially my nephew is doing better now* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

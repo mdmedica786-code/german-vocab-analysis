@@ -33,6 +33,11 @@ status: "new"
 > Für das alte Modell gibt es keine Ersatzteile mehr.
 > *There are no spare parts any more for the old model.*
 
+**Phrases & Expressions:**
+- **ein Ersatzteil bestellen** — *spare part*
+- **Ersatzteile liefern** — *spare part*
+- **Ersatzteile einbauen** — *spare part*
+
 **Collocations**
 - ein Ersatzteil bestellen
 - Ersatzteile liefern

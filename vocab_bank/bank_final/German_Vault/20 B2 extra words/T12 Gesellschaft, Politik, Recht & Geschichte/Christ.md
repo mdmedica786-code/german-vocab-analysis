@@ -33,6 +33,11 @@ status: "new"
 > Die Christen feiern im Dezember Weihnachten.
 > *Christians celebrate Christmas in December.*
 
+**Phrases & Expressions:**
+- **ein gläubiger Christ** — *Christian*
+- **Christen und Muslime** — *Christian*
+- **die ersten Christen** — *Christian*
+
 **Collocations**
 - ein gläubiger Christ
 - Christen und Muslime

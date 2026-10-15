@@ -31,6 +31,14 @@ status: "new"
 > Vier Brötchen, möchten Sie außerdem noch etwas?
 > *Four rolls – would you like anything else?*
 
+**Phrases & Expressions:**
+- **Außerdem finde ich, dass ...** — Besides, I think that ... *([[B1-03 Argumentieren, begründen und Beispiele nennen|Argumente aufzählen]] · B1)*
+- **Außerdem würde ich gern wissen, ob ...** — Also I would like to know whether ... *([[B1-13 Formelle E-Mail und Brief|Anfrage stellen]] · B1)*
+- **und außerdem** — *besides; in addition*
+- **außerdem noch** — *besides; in addition*
+- **außerdem kommt hinzu** — *besides; in addition*
+- **wir brauchen außerdem ...** — *besides; in addition*
+
 **Collocations**
 - und außerdem
 - außerdem noch

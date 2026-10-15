@@ -34,6 +34,9 @@ status: "new"
 > Die Damenmode finden Sie im ersten Stock.
 > *You will find women's fashion on the first floor.*
 
+**Phrases & Expressions:**
+- **Die Damenmode finden Sie im ersten Stock** — *You will find women's fashion on the first floor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

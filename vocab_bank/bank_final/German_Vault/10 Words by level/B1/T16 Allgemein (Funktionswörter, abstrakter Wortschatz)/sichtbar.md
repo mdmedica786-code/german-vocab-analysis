@@ -31,6 +31,9 @@ status: "new"
 > Es gibt keine sichtbaren Verletzungen.
 > *There are no visible injuries.*
 
+**Phrases & Expressions:**
+- **Es gibt keine sichtbaren Verletzungen** — *There are no visible injuries* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

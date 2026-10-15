@@ -32,6 +32,14 @@ status: "new"
 > Max' Lautsprecher geht nicht, darum lässt er ihn reparieren.
 > *Max's speaker doesn't work, so he's getting it repaired.*
 
+**Phrases & Expressions:**
+- **wenn es darum geht, ...** — when it comes to ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **geht es darum, dass ...** — the point is that ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **darum bitten** — *that's why*
+- **darum geht es** — *that's why*
+- **genau darum** — *that's why*
+- **darum geht es nicht** — *that's why*
+
 **Collocations**
 - darum bitten
 - darum geht es

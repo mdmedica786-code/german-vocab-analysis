@@ -34,6 +34,9 @@ status: "new"
 > Die Straßenlampe vor dem Haus ist kaputt.
 > *The street lamp in front of the house is broken.*
 
+**Phrases & Expressions:**
+- **Die Straßenlampe vor dem Haus ist kaputt** — *The street lamp in front of the house is broken* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 8b (Miteinander)
 <!-- bank:end -->
 

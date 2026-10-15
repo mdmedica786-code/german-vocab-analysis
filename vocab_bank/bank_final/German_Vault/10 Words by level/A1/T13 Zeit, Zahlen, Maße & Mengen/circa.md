@@ -32,6 +32,9 @@ status: "new"
 > Von Mainz nach Frankfurt sind es circa fünfzig Kilometer.
 > *From Mainz to Frankfurt it is about fifty kilometres.*
 
+**Phrases & Expressions:**
+- **Von Mainz nach Frankfurt sind es circa fünfzig Kilometer** — *From Mainz to Frankfurt it is about fifty kilometres* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

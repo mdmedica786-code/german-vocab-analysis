@@ -33,6 +33,11 @@ status: "new"
 > Abends lassen wir die Rollläden herunter.
 > *In the evening we let the roller shutters down.*
 
+**Phrases & Expressions:**
+- **den Rollladen herunterlassen** — *roller shutter*
+- **den Rollladen hochziehen** — *roller shutter*
+- **der Rollladen klemmt** — *roller shutter*
+
 **Collocations**
 - den Rollladen herunterlassen
 - den Rollladen hochziehen

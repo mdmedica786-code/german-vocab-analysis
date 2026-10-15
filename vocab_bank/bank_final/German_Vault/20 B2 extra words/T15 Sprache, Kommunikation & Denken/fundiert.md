@@ -29,6 +29,11 @@ status: "new"
 > Sie hat eine fundierte Ausbildung.
 > *She has a solid education.*
 
+**Phrases & Expressions:**
+- **fundierte Kenntnisse** — *well-founded; sound; solid*
+- **eine fundierte Meinung** — *well-founded; sound; solid*
+- **fundiert argumentieren** — *well-founded; sound; solid*
+
 **Collocations**
 - fundierte Kenntnisse
 - eine fundierte Meinung

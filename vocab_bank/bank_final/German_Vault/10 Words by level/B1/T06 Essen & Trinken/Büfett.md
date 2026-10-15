@@ -34,6 +34,9 @@ status: "new"
 > Das Büfett im Hotel ist sehr gut.
 > *The buffet at the hotel is very good.*
 
+**Phrases & Expressions:**
+- **Das Büfett im Hotel ist sehr gut** — *The buffet at the hotel is very good* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7a ÜB (Kunststücke)
 <!-- bank:end -->
 

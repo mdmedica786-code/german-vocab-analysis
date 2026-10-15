@@ -33,6 +33,11 @@ status: "new"
 > Er arbeitet im Messebau und baut Stände auf.
 > *He works in trade fair construction and builds stands.*
 
+**Phrases & Expressions:**
+- **im Messebau arbeiten** — *trade fair construction; exhibition stand building*
+- **eine Firma für Messebau** — *trade fair construction; exhibition stand building*
+- **Messebau und Ausstattung** — *trade fair construction; exhibition stand building*
+
 **Collocations**
 - im Messebau arbeiten
 - eine Firma für Messebau

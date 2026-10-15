@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Bücher stehen eng, da passt nichts dazwischen.
 > *The books are close together, nothing fits in between.*
+
+**Phrases & Expressions:**
+- **Die Bücher stehen eng, da passt nichts dazwischen** — *The books are close together, nothing fits in between* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

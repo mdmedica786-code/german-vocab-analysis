@@ -33,6 +33,11 @@ status: "new"
 > Die Zivilgesellschaft spielt eine wichtige Rolle in der Demokratie.
 > *Civil society plays an important role in democracy.*
 
+**Phrases & Expressions:**
+- **die Zivilgesellschaft stärken** — *civil society*
+- **engagierte Zivilgesellschaft** — *civil society*
+- **Rolle der Zivilgesellschaft** — *civil society*
+
 **Collocations**
 - die Zivilgesellschaft stärken
 - engagierte Zivilgesellschaft

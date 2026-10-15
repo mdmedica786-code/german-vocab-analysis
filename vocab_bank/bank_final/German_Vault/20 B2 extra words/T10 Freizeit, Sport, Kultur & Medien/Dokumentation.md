@@ -33,6 +33,11 @@ status: "new"
 > Gestern habe ich eine Dokumentation über den Regenwald gesehen.
 > *Yesterday I watched a documentary about the rainforest.*
 
+**Phrases & Expressions:**
+- **eine Dokumentation sehen** — *documentary; documentation*
+- **Dokumentation der Arbeit** — *documentary; documentation*
+- **umfassende Dokumentation** — *documentary; documentation*
+
 **Collocations**
 - eine Dokumentation sehen
 - Dokumentation der Arbeit

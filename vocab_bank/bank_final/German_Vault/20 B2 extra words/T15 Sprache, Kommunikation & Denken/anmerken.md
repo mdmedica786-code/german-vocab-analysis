@@ -32,6 +32,11 @@ status: "new"
 > Man merkt ihm an, dass er müde ist.
 > *You can tell that he is tired.*
 
+**Phrases & Expressions:**
+- **jemandem etwas anmerken** — *to remark; to notice (in someone)*
+- **etwas kritisch anmerken** — *to remark; to notice (in someone)*
+- **sich nichts anmerken lassen** — *to remark; to notice (in someone)*
+
 **Collocations**
 - jemandem etwas anmerken
 - etwas kritisch anmerken

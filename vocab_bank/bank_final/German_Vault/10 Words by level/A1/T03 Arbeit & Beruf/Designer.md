@@ -34,6 +34,9 @@ status: "new"
 > Der Designer entwirft Möbel.
 > *The designer designs furniture.*
 
+**Phrases & Expressions:**
+- **Der Designer entwirft Möbel** — *The designer designs furniture* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

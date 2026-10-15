@@ -35,6 +35,9 @@ status: "new"
 > Wir treffen uns um 15 Uhr in der Fußgängerzone.
 > *We will meet at 3 pm in the pedestrian zone.*
 
+**Phrases & Expressions:**
+- **Wir treffen uns um 15 Uhr in der Fußgängerzone** — *We will meet at 3 pm in the pedestrian zone* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7c ÜB (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

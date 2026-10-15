@@ -32,6 +32,9 @@ status: "new"
 > Der Hund bellt die ganze Nacht.
 > *The dog barks all night.*
 
+**Phrases & Expressions:**
+- **Der Hund bellt die ganze Nacht** — *The dog barks all night* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 3c (Zusammen leben)
 <!-- bank:end -->
 

@@ -31,6 +31,9 @@ status: "new"
 > Der Radiosprecher hat eine angenehme Stimme.
 > *The radio announcer has a pleasant voice.*
 
+**Phrases & Expressions:**
+- **Der Radiosprecher hat eine angenehme Stimme** — *The radio announcer has a pleasant voice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!)
 <!-- bank:end -->
 

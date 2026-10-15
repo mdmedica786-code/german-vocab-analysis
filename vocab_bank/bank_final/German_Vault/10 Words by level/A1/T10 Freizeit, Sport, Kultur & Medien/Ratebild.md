@@ -31,6 +31,9 @@ status: "new"
 > Wer kann das Ratebild lösen?
 > *Who can solve the picture puzzle?*
 
+**Phrases & Expressions:**
+- **Wer kann das Ratebild lösen** — *Who can solve the picture puzzle* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 2b (Zeit mit Freunden)
 <!-- bank:end -->
 

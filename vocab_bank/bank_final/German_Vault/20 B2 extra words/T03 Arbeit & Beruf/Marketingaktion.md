@@ -30,6 +30,11 @@ status: "new"
 > Die Marketingaktion hat viele neue Kunden gebracht.
 > *The marketing campaign brought many new customers.*
 
+**Phrases & Expressions:**
+- **eine Marketingaktion starten** — *marketing campaign; promotion*
+- **eine Marketingaktion planen** — *marketing campaign; promotion*
+- **eine erfolgreiche Marketingaktion** — *marketing campaign; promotion*
+
 **Collocations**
 - eine Marketingaktion starten
 - eine Marketingaktion planen

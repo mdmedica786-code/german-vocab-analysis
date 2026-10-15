@@ -34,6 +34,9 @@ status: "new"
 > Welcher Lerntyp bist du?
 > *What type of learner are you?*
 
+**Phrases & Expressions:**
+- **Welcher Lerntyp bist du** — *What type of learner are you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 11b (Rund um Körper und Geist)
 <!-- bank:end -->
 

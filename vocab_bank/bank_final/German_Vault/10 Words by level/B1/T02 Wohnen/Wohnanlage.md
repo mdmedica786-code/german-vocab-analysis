@@ -34,6 +34,9 @@ status: "new"
 > Die Wohnanlage hat einen großen Spielplatz.
 > *The residential complex has a big playground.*
 
+**Phrases & Expressions:**
+- **Die Wohnanlage hat einen großen Spielplatz** — *The residential complex has a big playground* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 1a (Blick nach vorn)
 <!-- bank:end -->
 

@@ -34,6 +34,12 @@ status: "new"
 > Wollen Sie einen Kaffee trinken?
 > **
 
+**Phrases & Expressions:**
+- **ich wollte ... fragen** — I wanted to ask ... *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B1)*
+- **Ich wollte fragen, ob ...** — I wanted to ask whether ... *([[B1-07 Bitten und höflich nachfragen|Höflich nachfragen]] · B1)*
+- **Tut mir leid, das wollte ich nicht.** — Sorry, I didn't mean that. *([[B1-17 Sich entschuldigen und danken|Sich entschuldigen]] · A2)*
+- **Er will den Unfall nicht gesehen haben.** — He claims not to have seen the accident. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Distanzierung]] · B2)*
+
 **Source:** Netzwerk neu A1 K5 10c (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

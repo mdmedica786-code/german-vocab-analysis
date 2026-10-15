@@ -29,6 +29,11 @@ status: "new"
 > Der Fluss ist stark verschmutzt.
 > *The river is heavily polluted.*
 
+**Phrases & Expressions:**
+- **stark verschmutzt** — *dirty; polluted*
+- **verschmutztes Wasser** — *dirty; polluted*
+- **verschmutzte Kleidung** — *dirty; polluted*
+
 **Collocations**
 - stark verschmutzt
 - verschmutztes Wasser

@@ -29,6 +29,11 @@ status: "new"
 > Mein Sohn ist beim Essen sehr wählerisch.
 > *My son is very picky about food.*
 
+**Phrases & Expressions:**
+- **wählerisch sein** — *picky; choosy*
+- **beim Essen wählerisch** — *picky; choosy*
+- **nicht wählerisch sein** — *picky; choosy*
+
 **Collocations**
 - wählerisch sein
 - beim Essen wählerisch

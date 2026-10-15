@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Verhandlungen dauern schon Wochen.
 > *The negotiations have been going on for weeks.*
+
+**Phrases & Expressions:**
+- **Die Verhandlungen dauern schon Wochen** — *The negotiations have been going on for weeks* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

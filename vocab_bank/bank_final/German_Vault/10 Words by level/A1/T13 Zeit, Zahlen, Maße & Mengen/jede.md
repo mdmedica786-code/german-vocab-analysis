@@ -31,6 +31,9 @@ status: "new"
 > Jede Woche gehe ich einmal schwimmen.
 > *Every week I go swimming once.*
 
+**Phrases & Expressions:**
+- **Jede Woche gehe ich einmal schwimmen** — *Every week I go swimming once* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 5b (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

@@ -33,6 +33,12 @@ status: "new"
 > Der Patient hat eine Wunde am Schenkel.
 > *The patient has a wound on the thigh.*
 
+**Phrases & Expressions:**
+- **der rechte Schenkel** — *thigh; leg (of a limb)*
+- **Schmerzen im Schenkel** — *thigh; leg (of a limb)*
+- **den Schenkel verletzen** — *thigh; leg (of a limb)*
+- **Schenkel und Hüfte** — *thigh; leg (of a limb)*
+
 **Collocations**
 - der rechte Schenkel
 - Schmerzen im Schenkel

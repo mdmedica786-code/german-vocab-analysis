@@ -34,6 +34,12 @@ status: "new"
 > Die Verwendung von Handys ist hier verboten.
 > *The use of mobile phones is forbidden here.*
 
+**Phrases & Expressions:**
+- **Verwendung finden** — *usage*
+- **zur Verwendung** — *usage*
+- **die Verwendung von ...** — *usage*
+- **sinnvolle Verwendung** — *usage*
+
 **Collocations**
 - Verwendung finden
 - zur Verwendung

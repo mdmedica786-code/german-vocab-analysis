@@ -33,6 +33,11 @@ status: "new"
 > Die Kapazität des Saals ist begrenzt.
 > *The capacity of the hall is limited.*
 
+**Phrases & Expressions:**
+- **die Kapazität erreichen** — *capacity; expert*
+- **freie Kapazitäten** — *capacity; expert*
+- **an die Grenzen der Kapazität stoßen** — *capacity; expert*
+
 **Collocations**
 - die Kapazität erreichen
 - freie Kapazitäten

@@ -34,6 +34,9 @@ status: "new"
 > Viele Europäer fahren im Sommer ans Meer.
 > *Many Europeans go to the seaside in summer.*
 
+**Phrases & Expressions:**
+- **Viele Europäer fahren im Sommer ans Meer** — *Many Europeans go to the seaside in summer* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

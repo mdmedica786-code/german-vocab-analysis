@@ -31,6 +31,11 @@ status: "new"
 > Er vergöttert seine kleine Tochter.
 > *He idolises his little daughter.*
 
+**Phrases & Expressions:**
+- **jemanden vergöttern** — *to idolise; to worship*
+- **von den Fans vergöttert** — *to idolise; to worship*
+- **einen Star vergöttern** — *to idolise; to worship*
+
 **Collocations**
 - jemanden vergöttern
 - von den Fans vergöttert

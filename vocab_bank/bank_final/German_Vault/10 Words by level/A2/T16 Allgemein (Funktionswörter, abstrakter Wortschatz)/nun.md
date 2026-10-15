@@ -32,6 +32,13 @@ status: "new"
 > Schade, dass du arbeiten musst. – Das ist nun mal so.
 > *Shame that you have to work. – That's just how it is.*
 
+**Phrases & Expressions:**
+- **Kommen wir nun zu ...** — Let's now turn to ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Übergang gestalten]] · B1)*
+- **nun mal** — *now*
+- **nun gut** — *now*
+- **von nun an** — *now*
+- **nun ja** — *now*
+
 **Collocations**
 - nun mal
 - nun gut

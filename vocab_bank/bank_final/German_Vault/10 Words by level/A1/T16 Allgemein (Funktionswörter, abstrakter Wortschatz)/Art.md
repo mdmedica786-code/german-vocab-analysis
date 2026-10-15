@@ -35,6 +35,9 @@ status: "new"
 > Im Zoo haben sie 34 verschiedene Arten von Vögeln.
 > *In the zoo they have 34 different kinds of birds.*
 
+**Phrases & Expressions:**
+- **Im Zoo haben sie 34 verschiedene Arten von Vögeln** — *In the zoo they have 34 different kinds of birds* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7c (Ab in den Urlaub!) · Goethe word list B1
 <!-- bank:end -->
 

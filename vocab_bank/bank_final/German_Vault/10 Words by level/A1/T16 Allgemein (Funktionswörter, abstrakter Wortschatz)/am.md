@@ -32,6 +32,9 @@ status: "new"
 > Kochen wir am Wochenende Spaghetti?
 > *Are we going to cook spaghetti at the weekend?*
 
+**Phrases & Expressions:**
+- **Kochen wir am Wochenende Spaghetti** — *Are we going to cook spaghetti at the weekend* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3b (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

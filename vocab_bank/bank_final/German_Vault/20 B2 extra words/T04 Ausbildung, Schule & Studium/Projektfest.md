@@ -30,6 +30,11 @@ status: "new"
 > Zum Abschluss feiern wir ein Projektfest in der Schule.
 > *To finish we are having a project celebration at school.*
 
+**Phrases & Expressions:**
+- **ein Projektfest feiern** — *project celebration; project party*
+- **ein Projektfest organisieren** — *project celebration; project party*
+- **zum Projektfest einladen** — *project celebration; project party*
+
 **Collocations**
 - ein Projektfest feiern
 - ein Projektfest organisieren

@@ -29,6 +29,11 @@ status: "new"
 > Ich suche ein gestreiftes T-Shirt in Blau und Weiß.
 > *I'm looking for a striped T-shirt in blue and white.*
 
+**Phrases & Expressions:**
+- **ein gestreiftes Hemd** — *striped*
+- **blau-weiß gestreift** — *striped*
+- **gestreift sein** — *striped*
+
 **Collocations**
 - ein gestreiftes Hemd
 - blau-weiß gestreift

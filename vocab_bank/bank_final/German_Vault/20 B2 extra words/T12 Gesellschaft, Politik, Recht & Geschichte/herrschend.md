@@ -29,6 +29,11 @@ status: "new"
 > Die herrschende Meinung ändert sich langsam.
 > *The prevailing opinion is changing slowly.*
 
+**Phrases & Expressions:**
+- **die herrschende Meinung** — *prevailing; ruling*
+- **die herrschenden Verhältnisse** — *prevailing; ruling*
+- **die herrschende Klasse** — *prevailing; ruling*
+
 **Collocations**
 - die herrschende Meinung
 - die herrschenden Verhältnisse

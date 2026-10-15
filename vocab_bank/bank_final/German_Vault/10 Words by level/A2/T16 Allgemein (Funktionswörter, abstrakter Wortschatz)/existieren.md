@@ -32,6 +32,12 @@ status: "new"
 > Dieses Geschäft existiert nicht mehr.
 > *This shop no longer exists.*
 
+**Phrases & Expressions:**
+- **nicht mehr existieren** — *to exist*
+- **weiterhin existieren** — *to exist*
+- **existieren können** — *to exist*
+- **noch existieren** — *to exist*
+
 **Collocations**
 - nicht mehr existieren
 - weiterhin existieren

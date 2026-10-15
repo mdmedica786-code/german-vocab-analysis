@@ -33,6 +33,11 @@ status: "new"
 > Die Höchstgeschwindigkeit in der Stadt beträgt fünfzig Kilometer pro Stunde.
 > *The maximum speed in the city is fifty kilometres per hour.*
 
+**Phrases & Expressions:**
+- **die Höchstgeschwindigkeit erreichen** — *top speed; maximum speed*
+- **eine Höchstgeschwindigkeit festlegen** — *top speed; maximum speed*
+- **mit Höchstgeschwindigkeit** — *top speed; maximum speed*
+
 **Collocations**
 - die Höchstgeschwindigkeit erreichen
 - eine Höchstgeschwindigkeit festlegen

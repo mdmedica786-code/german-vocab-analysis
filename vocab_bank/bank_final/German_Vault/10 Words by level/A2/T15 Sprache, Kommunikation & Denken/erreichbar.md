@@ -30,6 +30,9 @@ status: "new"
 > Sind Sie morgen telefonisch erreichbar?
 > *Can you be reached by phone tomorrow?*
 
+**Phrases & Expressions:**
+- **Sind Sie morgen telefonisch erreichbar** — *Can you be reached by phone tomorrow* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
 <!-- bank:end -->
 

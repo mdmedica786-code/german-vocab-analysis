@@ -35,6 +35,14 @@ status: "new"
 > Haben Sie Schmerzen?
 > *Do you have any pain?*
 
+**Phrases & Expressions:**
+- **Ich habe seit ... Schmerzen im ...** — I have had pain in the ... since ... *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Patient: Beschwerden schildern]] · A2)*
+- **Wie fühlt sich der Schmerz an?** — What does the pain feel like? *([[FSP-03 Schmerzanamnese|Qualität erfragen]] · B1)*
+- **Ist der Schmerz eher stechend, dumpf oder krampfartig?** — Is the pain more stabbing, dull or cramping? *([[FSP-03 Schmerzanamnese|Qualität erfragen]] · B1)*
+- **Haben Sie ein Druckgefühl oder einen brennenden Schmerz?** — Do you have a feeling of pressure or a burning pain? *([[FSP-03 Schmerzanamnese|Qualität erfragen]] · B2)*
+- **Wie stark ist der Schmerz auf einer Skala von null bis zehn?** — How strong is the pain on a scale from zero to ten? *([[FSP-03 Schmerzanamnese|Intensität erfragen]] · B1)*
+- **Ist der Schmerz erträglich oder kaum auszuhalten?** — Is the pain bearable or hardly endurable? *([[FSP-03 Schmerzanamnese|Intensität erfragen]] · B2)*
+
 **Collocations**
 - starke Schmerzen haben
 - über Schmerzen klagen

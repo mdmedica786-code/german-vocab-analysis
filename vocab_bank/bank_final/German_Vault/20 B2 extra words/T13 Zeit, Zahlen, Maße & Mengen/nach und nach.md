@@ -29,6 +29,10 @@ status: "new"
 > Nach und nach gewöhnte er sich an das Klima.
 > *Little by little he got used to the climate.*
 
+**Phrases & Expressions:**
+- **nach und nach verbessern** — *little by little; gradually*
+- **allmählich** — *little by little; gradually*
+
 **Collocations**
 - nach und nach verbessern
 - allmählich

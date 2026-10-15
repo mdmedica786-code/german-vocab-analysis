@@ -30,6 +30,11 @@ status: "new"
 > Die nächste S-Bahn-Station ist nur fünf Minuten entfernt.
 > *The nearest suburban train station is only five minutes away.*
 
+**Phrases & Expressions:**
+- **an der S-Bahn-Station** — *suburban train station*
+- **zur S-Bahn-Station laufen** — *suburban train station*
+- **die S-Bahn-Station erreichen** — *suburban train station*
+
 **Collocations**
 - an der S-Bahn-Station
 - zur S-Bahn-Station laufen

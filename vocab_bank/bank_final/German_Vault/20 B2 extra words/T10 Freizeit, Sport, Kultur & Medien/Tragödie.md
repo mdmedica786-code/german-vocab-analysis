@@ -33,6 +33,11 @@ status: "new"
 > Der Unfall war eine furchtbare Tragödie.
 > *The accident was a terrible tragedy.*
 
+**Phrases & Expressions:**
+- **eine Tragödie erleben** — *tragedy*
+- **eine griechische Tragödie** — *tragedy*
+- **die Tragödie von** — *tragedy*
+
 **Collocations**
 - eine Tragödie erleben
 - eine griechische Tragödie

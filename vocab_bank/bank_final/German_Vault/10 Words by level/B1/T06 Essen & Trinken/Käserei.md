@@ -34,6 +34,9 @@ status: "new"
 > In der Käserei sehen wir, wie Käse gemacht wird.
 > *At the cheese dairy we see how cheese is made.*
 
+**Phrases & Expressions:**
+- **In der Käserei sehen wir, wie Käse gemacht wird** — *At the cheese dairy we see how cheese is made* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!)
 <!-- bank:end -->
 

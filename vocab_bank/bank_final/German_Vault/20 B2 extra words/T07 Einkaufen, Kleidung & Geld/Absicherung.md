@@ -33,6 +33,11 @@ status: "new"
 > Eine Versicherung dient der Absicherung gegen Risiken.
 > *Insurance serves as protection against risks.*
 
+**Phrases & Expressions:**
+- **soziale Absicherung** — *safeguarding; security*
+- **finanzielle Absicherung** — *safeguarding; security*
+- **zur Absicherung** — *safeguarding; security*
+
 **Collocations**
 - soziale Absicherung
 - finanzielle Absicherung

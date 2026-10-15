@@ -31,6 +31,14 @@ status: "new"
 > Der Brief beginnt mit „Sehr geehrte Damen und Herren“.
 > *The letter begins with 'Dear Sir or Madam'.*
 
+**Phrases & Expressions:**
+- **Sehr geehrte Damen und Herren,** — Dear Sir or Madam, *([[B1-13 Formelle E-Mail und Brief|Anrede]] · B1)*
+- **Sehr geehrte Frau Schmidt, sehr geehrter Herr Müller,** — Dear Ms Schmidt, dear Mr Müller, *([[B1-13 Formelle E-Mail und Brief|Anrede]] · B1)*
+- **Sehr geehrte Frau Doktor ...,** — Dear Dr ... (female addressee), *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Anrede und Bezug]] · B1)*
+- **Sehr geehrte Frau Kollegin, sehr geehrter Herr Kollege,** — Dear colleague (female), dear colleague (male), *([[FSP-20 Arztbrief und Dokumentation|Anrede und Anlass]] · B2)*
+- **Sehr geehrte Damen und Herren** — *honoured*
+- **sehr geehrter Herr Müller** — *honoured*
+
 **Collocations**
 - Sehr geehrte Damen und Herren
 - sehr geehrter Herr Müller

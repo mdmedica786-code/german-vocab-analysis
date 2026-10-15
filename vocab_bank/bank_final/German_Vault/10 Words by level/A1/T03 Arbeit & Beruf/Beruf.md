@@ -35,6 +35,9 @@ status: "new"
 > Was sind Sie von Beruf?
 > *What do you do for a living?*
 
+**Phrases & Expressions:**
+- **Ich bin Ärztin von Beruf und arbeite im Krankenhaus.** — I am a doctor by profession and work in a hospital. *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Sich vorstellen]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

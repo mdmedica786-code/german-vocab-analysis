@@ -29,6 +29,11 @@ status: "new"
 > Sie ist klein und zierlich.
 > *She is small and petite.*
 
+**Phrases & Expressions:**
+- **eine zierliche Frau** — *petite; dainty*
+- **zierlich gebaut** — *petite; dainty*
+- **ein zierliches Gefäß** — *petite; dainty*
+
 **Collocations**
 - eine zierliche Frau
 - zierlich gebaut

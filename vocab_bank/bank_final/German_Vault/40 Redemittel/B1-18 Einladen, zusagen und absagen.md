@@ -14,18 +14,21 @@ tags: ["redemittel", "level/B1"]
 ## Einladen
 
 - **Hast du Lust, am Samstag bei mir zu feiern?** ⭐ — Would you like to celebrate at my place on Saturday?
+  - Words: [[Samstag]] · [[feiern]] · [[Lust]] · [[Feier]]
   - Hast du Lust, am Samstag bei mir zu feiern? Ich werde dreißig. *(Would you like to celebrate at my place on Saturday? I'm turning thirty.)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: Lust haben + zu-Infinitiv
   - Variants: Hast du am Samstag Zeit und Lust zu feiern? | Ich lade dich zu meiner Feier ein.
   - Exam: Goethe B1 Schreiben Aufgabe 1
 - **Wir machen am Freitag eine Party. Kommst du auch?** — We're having a party on Friday. Are you coming too?
+  - Words: [[machen]] · [[kommen]] · [[Freitag]] · [[Party]]
   - Wir machen am Freitag eine Party. Kommst du auch? *(We're having a party on Friday. Are you coming too?)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: Aussagesatz, dann Ja/Nein-Frage
   - Variants: Wir feiern am Freitag. Hast du Zeit? | Am Freitag gibt es eine Party bei uns. Komm doch auch!
   - Exam: Goethe B1 Schreiben Aufgabe 1
 - **Ich würde mich sehr freuen, wenn du kommen könntest.** ⭐ — I would be very happy if you could come.
+  - Words: [[kommen]] · [[freuen]] · [[Würde]]
   - Ich würde mich sehr freuen, wenn du zu meinem Geburtstag kommen könntest. *(I would be very happy if you could come to my birthday.)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: Konjunktiv II; wenn-Satz: Verb am Ende
@@ -34,12 +37,14 @@ tags: ["redemittel", "level/B1"]
 ## Zeit und Ort nennen
 
 - **Die Feier beginnt um 19 Uhr bei mir zu Hause.** ⭐ — The party starts at 7 p.m. at my home.
+  - Words: [[Uhr]] · [[beginnen]] · [[Feier]]
   - Die Feier beginnt um 19 Uhr bei mir zu Hause. *(The party starts at 7 p.m. at my home.)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: Zeitangabe vor Ortsangabe
   - Variants: Wir fangen um 19 Uhr an, bei mir zu Hause. | Ab 19 Uhr bei mir, kommt einfach vorbei!
   - Exam: Goethe B1 Schreiben Aufgabe 1
 - **Ich wohne in der Hauptstraße 12, im dritten Stock.** — I live at Hauptstraße 12, on the third floor.
+  - Words: [[wohnen]] · [[Stock]] · [[Hauptstraße]]
   - Ich wohne in der Hauptstraße 12, im dritten Stock. Klingle einfach. *(I live at Hauptstraße 12, on the third floor. Just ring the bell.)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: wohnen in + Dativ; Stock mit im
@@ -48,6 +53,7 @@ tags: ["redemittel", "level/B1"]
 ## Hinweis geben
 
 - **Bring gern etwas zu essen oder zu trinken mit.** — Feel free to bring something to eat or drink.
+  - Words: [[gern]] · [[Essen]] · [[essen (verb)]] · [[etwas]] · [[trinken]]
   - Bring gern etwas zu essen oder zu trinken mit, dann wird es ein Buffet. *(Feel free to bring something to eat or drink, then it will be a buffet.)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: Imperativ; mitbringen (trennbar)
@@ -56,12 +62,14 @@ tags: ["redemittel", "level/B1"]
 ## Zusagen
 
 - **Sehr gern, ich bin dabei!** ⭐ — Very gladly, I'm in!
+  - Words: [[dabei]] · [[gern]] · [[dabei sein]] · [[dabei haben]] · [[dabeihaben]]
   - Sehr gern, ich bin dabei! Wann soll ich kommen? *(Very gladly, I'm in! When should I come?)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: dabei sein = teilnehmen
   - Variants: Ja, gern, ich komme! | Klingt super, ich komme.
   - Exam: Goethe B1 Schreiben Aufgabe 1
 - **Ich sage gern zu und freue mich auf den Abend.** — I'm happy to accept and look forward to the evening.
+  - Words: [[sagen]] · [[gern]] · [[Abend]] · [[freuen]]
   - Ich sage gern zu und freue mich auf den Abend mit euch. *(I'm happy to accept and look forward to the evening with you.)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: zusagen (trennbar): sage ... zu
@@ -70,6 +78,7 @@ tags: ["redemittel", "level/B1"]
 ## Rückfrage stellen
 
 - **Darf ich jemanden mitbringen?** ⭐ — May I bring someone?
+  - Words: [[mitbringen]] · [[dürfen]]
   - Darf ich jemanden mitbringen? Meine Schwester ist gerade zu Besuch. *(May I bring someone? My sister is visiting at the moment.)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: dürfen + Infinitiv; mitbringen
@@ -78,18 +87,21 @@ tags: ["redemittel", "level/B1"]
 ## Mit Begründung absagen
 
 - **Leider kann ich nicht kommen, weil ich ... muss.** ⭐ — Unfortunately I can't come because I have to ...
+  - Words: [[kommen]] · [[leider]] · [[können]] · [[müssen]] · [[weil]] · [[leid]]
   - Leider kann ich nicht kommen, weil ich am Samstag arbeiten muss. *(Unfortunately I can't come because I have to work on Saturday.)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: weil-Satz: Modalverb am Ende
   - Variants: Leider klappt es nicht, denn ich muss ... | Ich kann leider nicht, da ich ... muss.
   - Exam: Goethe B1 Schreiben Aufgabe 1
 - **Ich muss leider absagen, weil ich schon etwas vorhabe.** — Unfortunately I have to decline because I already have plans.
+  - Words: [[leider]] · [[schon]] · [[etwas]] · [[Absage]] · [[vorhaben (verb)]] · [[müssen]] · [[weil]] · [[absagen]]
   - Ich muss leider absagen, weil ich schon etwas vorhabe. *(Unfortunately I have to decline because I already have plans.)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: absagen (trennbar); weil-Satz
   - Variants: Leider habe ich schon eine Verabredung. | Ich bin an dem Tag leider nicht frei.
   - Exam: Goethe B1 Schreiben Aufgabe 1
 - **Schade, aber ich kann diesmal nicht dabei sein.** — Pity, but I can't be there this time.
+  - Words: [[dabei]] · [[schade]] · [[diesmal]] · [[dabei sein]] · [[dabei haben]] · [[schaden (verb)]] · [[dabeihaben]] · [[können]]
   - Schade, aber ich kann diesmal nicht dabei sein. Ich bin verreist. *(Pity, but I can't be there this time. I'm away.)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: aber + Hauptsatz; dabei sein
@@ -98,12 +110,14 @@ tags: ["redemittel", "level/B1"]
 ## Alternative vorschlagen
 
 - **Wie wäre es nächstes Wochenende?** ⭐ — How about next weekend?
+  - Words: [[Wochenende]] · [[nächste (adjective)]]
   - Am Samstag geht es nicht. Wie wäre es nächstes Wochenende? *(Saturday doesn't work. How about next weekend?)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: Wie wäre es + Zeitangabe (Akk.)
   - Variants: Können wir uns nächste Woche treffen? | Wollen wir das nachholen?
   - Exam: Goethe B1 Schreiben Aufgabe 1
 - **Können wir das nachholen?** — Can we make up for it?
+  - Words: [[können]]
   - Ich kann nicht kommen. Können wir das nachholen? *(I can't come. Can we make up for it?)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: nachholen (trennbar)
@@ -112,12 +126,14 @@ tags: ["redemittel", "level/B1"]
 ## Rückfrage stellen
 
 - **Soll ich etwas mitbringen?** ⭐ — Should I bring something?
+  - Words: [[etwas]] · [[mitbringen]] · [[sollen]]
   - Soll ich etwas mitbringen? Vielleicht einen Nachtisch? *(Should I bring something? Maybe a dessert?)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: sollen + Infinitiv
   - Variants: Was kann ich mitbringen? | Brauchst du noch etwas für die Feier?
   - Exam: Goethe B1 Schreiben Aufgabe 1
 - **Wo genau findet die Feier statt?** ⭐ — Where exactly is the party taking place?
+  - Words: [[genau]] · [[finden]] · [[statt]] · [[Feier]] · [[stattfinden]] · [[zurückfinden]] · [[herausfinden]] · [[wo]]
   - Wo genau findet die Feier statt? Ich kenne die Straße nicht. *(Where exactly is the party taking place? I don't know the street.)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: stattfinden (trennbar): Verb an Position 2
@@ -126,6 +142,7 @@ tags: ["redemittel", "level/B1"]
 ## Antwort erbitten
 
 - **Bitte gib mir bis Mittwoch Bescheid.** ⭐ — Please let me know by Wednesday.
+  - Words: [[bitte (interjection)]] · [[Mittwoch]] · [[bitten]] · [[Bitte]] · [[Bescheid]] · [[bis]]
   - Bitte gib mir bis Mittwoch Bescheid, ob du kommst. *(Please let me know by Wednesday whether you are coming.)*
   - B1 · informal · speaker: Beide · to: Freunde/Bekannte
   - Grammar: Bescheid geben + Dat.; bis + Zeit

@@ -34,6 +34,9 @@ status: "new"
 > Die Pianistin übt jeden Tag drei Stunden.
 > *The pianist practises three hours every day.*
 
+**Phrases & Expressions:**
+- **Die Pianistin übt jeden Tag drei Stunden** — *The pianist practises three hours every day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 11b (Zwischenmenschliches)
 <!-- bank:end -->
 

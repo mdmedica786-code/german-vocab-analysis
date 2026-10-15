@@ -33,6 +33,11 @@ status: "new"
 > Auf Genauigkeit wird großer Wert gelegt.
 > *Great importance is attached to accuracy.*
 
+**Phrases & Expressions:**
+- **mit Genauigkeit** — *accuracy; precision*
+- **höchste Genauigkeit** — *accuracy; precision*
+- **auf Genauigkeit achten** — *accuracy; precision*
+
 **Collocations**
 - mit Genauigkeit
 - höchste Genauigkeit

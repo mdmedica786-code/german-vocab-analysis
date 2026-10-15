@@ -29,6 +29,9 @@ status: "new"
 > Ich helfe dir gern, vorausgesetzt, du sagst die Wahrheit.
 > *I will gladly help you, provided you tell the truth.*
 
+**Phrases & Expressions:**
+- **vorausgesetzt, dass** — *provided that*
+
 **Collocations**
 - vorausgesetzt, dass
 

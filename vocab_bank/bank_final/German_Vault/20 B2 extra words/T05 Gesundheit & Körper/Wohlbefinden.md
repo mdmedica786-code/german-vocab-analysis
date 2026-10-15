@@ -33,6 +33,11 @@ status: "new"
 > Sport fördert das Wohlbefinden.
 > *Exercise promotes well-being.*
 
+**Phrases & Expressions:**
+- **das Wohlbefinden steigern** — *well-being; comfort*
+- **zum Wohlbefinden beitragen** — *well-being; comfort*
+- **sein Wohlbefinden** — *well-being; comfort*
+
 **Collocations**
 - das Wohlbefinden steigern
 - zum Wohlbefinden beitragen

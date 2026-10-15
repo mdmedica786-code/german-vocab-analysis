@@ -30,6 +30,11 @@ status: "new"
 > Am Ende des Bescheids steht die Rechtsbehelfsbelehrung.
 > *At the end of the notice there is the information on the right of appeal.*
 
+**Phrases & Expressions:**
+- **eine Rechtsbehelfsbelehrung erhalten** — *notice of right of appeal; information on legal remedies*
+- **die Rechtsbehelfsbelehrung lesen** — *notice of right of appeal; information on legal remedies*
+- **mit Rechtsbehelfsbelehrung** — *notice of right of appeal; information on legal remedies*
+
 **Collocations**
 - eine Rechtsbehelfsbelehrung erhalten
 - die Rechtsbehelfsbelehrung lesen

@@ -29,6 +29,11 @@ status: "new"
 > Die Soße ist würzig und pikant.
 > *The sauce is flavourful and piquant.*
 
+**Phrases & Expressions:**
+- **pikant gewürzt** — *spicy; piquant*
+- **eine pikante Soße** — *spicy; piquant*
+- **ein pikanter Käse** — *spicy; piquant*
+
 **Collocations**
 - pikant gewürzt
 - eine pikante Soße

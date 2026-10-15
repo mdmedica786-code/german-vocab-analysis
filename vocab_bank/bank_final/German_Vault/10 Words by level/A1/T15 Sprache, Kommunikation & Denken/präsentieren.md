@@ -33,6 +33,9 @@ status: "new"
 > Präsentieren Sie Ihre Ergebnisse bitte im Kurs.
 > *Please present your results in the course.*
 
+**Phrases & Expressions:**
+- **Präsentieren Sie Ihre Ergebnisse bitte im Kurs** — *Please present your results in the course* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 7d (Freunde, Kollegen und ich) · Goethe word list B1
 <!-- bank:end -->
 

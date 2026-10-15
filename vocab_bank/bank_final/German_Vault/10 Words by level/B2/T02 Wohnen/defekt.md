@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Heizung ist defekt.
 > *The heating is defective.*
+
+**Phrases & Expressions:**
+- **Die Heizung ist defekt** — *The heating is defective* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -30,6 +30,9 @@ status: "new"
 > Die nächtliche Ruhe wurde gestört.
 > *The nighttime quiet was disturbed.*
 
+**Phrases & Expressions:**
+- **Die nächtliche Ruhe wurde gestört** — *The nighttime quiet was disturbed* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 13b (Kunststücke)
 <!-- bank:end -->
 

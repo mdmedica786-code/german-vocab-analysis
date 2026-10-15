@@ -26,6 +26,10 @@ status: "new"
 > Sie hat ihr Können unter Beweis gestellt.
 > *She has proved her ability.*
 
+**Phrases & Expressions:**
+- **sein Können unter Beweis stellen** — *to prove; to demonstrate*
+- **Mut unter Beweis stellen** — *to prove; to demonstrate*
+
 **Collocations**
 - sein Können unter Beweis stellen
 - Mut unter Beweis stellen

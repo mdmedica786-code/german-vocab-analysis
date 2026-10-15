@@ -33,6 +33,11 @@ status: "new"
 > Zu den Hauptverkehrszeiten fahren die Busse im Fünf-Minuten-Takt.
 > *During peak hours the buses run every five minutes.*
 
+**Phrases & Expressions:**
+- **zur Hauptverkehrszeit** — *peak traffic hours*
+- **außerhalb der Hauptverkehrszeiten** — *peak traffic hours*
+- **in der Hauptverkehrszeit** — *peak traffic hours*
+
 **Collocations**
 - zur Hauptverkehrszeit
 - außerhalb der Hauptverkehrszeiten

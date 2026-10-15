@@ -36,6 +36,9 @@ status: "new"
 > Komm, wir fahren zum Starnberger See.
 > *Come on, let's go to Lake Starnberg.*
 
+**Phrases & Expressions:**
+- **Komm, wir fahren zum Starnberger See** — *Come on, let's go to Lake Starnberg* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 2b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

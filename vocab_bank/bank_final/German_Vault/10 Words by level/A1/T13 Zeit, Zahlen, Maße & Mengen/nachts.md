@@ -31,6 +31,10 @@ status: "new"
 > Nachts schlafe ich tief.
 > *At night I sleep deeply.*
 
+**Phrases & Expressions:**
+- **Haben Sie Durst oder müssen Sie nachts oft zur Toilette?** — Are you thirsty or do you have to go to the toilet often at night? *([[FSP-06 Systemanamnese (Organsysteme)|Stoffwechsel und Gewicht]] · B2)*
+- **Wachen Sie nachts mit Luftnot auf?** — Do you wake up at night short of breath? *([[FSP-06 Systemanamnese (Organsysteme)|Atmung]] · B2)*
+
 **Source:** Netzwerk neu A1 K2 7a (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

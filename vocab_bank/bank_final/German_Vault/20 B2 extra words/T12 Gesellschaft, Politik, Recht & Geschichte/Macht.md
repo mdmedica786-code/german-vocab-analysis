@@ -33,6 +33,13 @@ status: "new"
 > Die Macht liegt in den Händen des Volkes.
 > *The power lies in the hands of the people.*
 
+**Phrases & Expressions:**
+- **Kein Problem, das macht nichts.** — No problem, it doesn't matter. *([[B1-17 Sich entschuldigen und danken|Entschuldigung annehmen]] · A2)*
+- **Wir tun alles, was in unserer Macht steht.** — We are doing everything in our power. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Angehörige beruhigen]] · B2)*
+- **an die Macht kommen** — *power; might; force*
+- **die Macht ergreifen** — *power; might; force*
+- **an der Macht sein** — *power; might; force*
+
 **Collocations**
 - an die Macht kommen
 - die Macht ergreifen

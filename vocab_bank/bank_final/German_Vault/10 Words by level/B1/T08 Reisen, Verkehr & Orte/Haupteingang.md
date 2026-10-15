@@ -34,6 +34,9 @@ status: "new"
 > Der Haupteingang ist auf der Nordseite.
 > *The main entrance is on the north side.*
 
+**Phrases & Expressions:**
+- **Wir treffen uns vor dem Haupteingang.** — We'll meet in front of the main entrance. *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Treffpunkt festlegen]] · B1)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

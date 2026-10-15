@@ -35,6 +35,9 @@ status: "new"
 > Die Mülltonne ist voll.
 > *The rubbish bin is full.*
 
+**Phrases & Expressions:**
+- **Die Mülltonne ist voll** — *The rubbish bin is full* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

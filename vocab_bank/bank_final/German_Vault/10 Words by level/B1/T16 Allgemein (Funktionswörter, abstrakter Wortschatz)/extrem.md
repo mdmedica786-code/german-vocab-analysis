@@ -31,6 +31,9 @@ status: "new"
 > Die Prüfung war extrem schwer.
 > *The exam was extremely hard.*
 
+**Phrases & Expressions:**
+- **Die Prüfung war extrem schwer** — *The exam was extremely hard* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

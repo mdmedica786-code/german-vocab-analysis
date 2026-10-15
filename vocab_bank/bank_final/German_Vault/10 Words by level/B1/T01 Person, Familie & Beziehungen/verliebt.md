@@ -30,6 +30,9 @@ status: "new"
 > Ich bin in Francesco verliebt.
 > *I'm in love with Francesco.*
 
+**Phrases & Expressions:**
+- **Ich bin in Francesco verliebt** — *I'm in love with Francesco* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

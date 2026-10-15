@@ -35,6 +35,9 @@ status: "new"
 > Die Gebühr liegt bei 60 Euro.
 > *The fee is 60 euros.*
 
+**Phrases & Expressions:**
+- **Fallen für das Konto Gebühren an?** — Are there fees for the account? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Bankkonto eröffnen]] · B2)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

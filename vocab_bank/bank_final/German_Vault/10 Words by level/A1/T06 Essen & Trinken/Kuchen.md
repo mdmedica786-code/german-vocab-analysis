@@ -35,6 +35,9 @@ status: "new"
 > Ich nehme ein Stück Kuchen.
 > *I'll have a piece of cake.*
 
+**Phrases & Expressions:**
+- **Ich nehme ein Stück Kuchen** — *I'll have a piece of cake* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 2a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

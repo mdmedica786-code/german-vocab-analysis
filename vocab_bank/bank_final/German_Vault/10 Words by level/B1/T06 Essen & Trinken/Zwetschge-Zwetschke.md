@@ -34,6 +34,9 @@ status: "new"
 > Im Herbst backe ich Kuchen mit Zwetschgen.
 > *In autumn I bake cake with plums.*
 
+**Phrases & Expressions:**
+- **Im Herbst backe ich Kuchen mit Zwetschgen** — *In autumn I bake cake with plums* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander)
 <!-- bank:end -->
 

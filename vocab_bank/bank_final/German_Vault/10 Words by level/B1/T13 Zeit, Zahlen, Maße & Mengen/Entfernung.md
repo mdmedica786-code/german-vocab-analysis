@@ -35,6 +35,9 @@ status: "new"
 > Aus dieser Entfernung ist das nicht zu erkennen.
 > *From this distance it can't be recognised.*
 
+**Phrases & Expressions:**
+- **Aus dieser Entfernung ist das nicht zu erkennen** — *From this distance it can't be recognised* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 3b (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

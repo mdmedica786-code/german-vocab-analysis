@@ -34,6 +34,9 @@ status: "new"
 > Hilfsmittel wie Mobiltelefone oder Wörterbücher sind nicht erlaubt.
 > *Aids such as mobile phones or dictionaries are not allowed.*
 
+**Phrases & Expressions:**
+- **Hilfsmittel wie Mobiltelefone oder Wörterbücher sind nicht erlaubt** — *Aids such as mobile phones or dictionaries are not allowed* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

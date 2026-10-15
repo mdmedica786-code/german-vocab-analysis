@@ -34,6 +34,9 @@ status: "new"
 > Privatkunden zahlen mit Karte.
 > *Private customers pay by card.*
 
+**Phrases & Expressions:**
+- **Privatkunden zahlen mit Karte** — *Private customers pay by card* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

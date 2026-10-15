@@ -33,6 +33,11 @@ status: "new"
 > Das Schauspiel dauerte drei Stunden.
 > *The play lasted three hours.*
 
+**Phrases & Expressions:**
+- **ein Schauspiel aufführen** — *play; drama; spectacle*
+- **ein Schauspiel sehen** — *play; drama; spectacle*
+- **ein seltenes Schauspiel** — *play; drama; spectacle*
+
 **Collocations**
 - ein Schauspiel aufführen
 - ein Schauspiel sehen

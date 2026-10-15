@@ -31,6 +31,11 @@ status: "new"
 > Er tastete im Dunkeln nach dem Lichtschalter.
 > *He felt for the light switch in the dark.*
 
+**Phrases & Expressions:**
+- **nach etwas tasten** — *to feel; to grope*
+- **sich vortasten** — *to feel; to grope*
+- **im Dunkeln tasten** — *to feel; to grope*
+
 **Collocations**
 - nach etwas tasten
 - sich vortasten

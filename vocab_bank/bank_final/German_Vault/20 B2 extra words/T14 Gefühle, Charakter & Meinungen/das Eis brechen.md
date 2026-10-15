@@ -29,6 +29,10 @@ status: "new"
 > Ein gemeinsames Spiel half, das Eis zwischen den Kindern zu brechen.
 > *A shared game helped to break the ice between the children.*
 
+**Phrases & Expressions:**
+- **das Eis ist gebrochen** — *to break the ice*
+- **ein Gespräch beginnen** — *to break the ice*
+
 **Collocations**
 - das Eis ist gebrochen
 - ein Gespräch beginnen

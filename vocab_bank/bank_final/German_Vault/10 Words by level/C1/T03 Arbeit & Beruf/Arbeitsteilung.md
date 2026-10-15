@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Arbeitsteilung im Team funktioniert gut.
 > *The division of labour in the team works well.*
+
+**Phrases & Expressions:**
+- **Die Arbeitsteilung im Team funktioniert gut** — *The division of labour in the team works well* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

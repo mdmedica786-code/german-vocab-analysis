@@ -35,6 +35,9 @@ status: "new"
 > Ich möchte eine eigene Firma, das ist mein Traum.
 > *I'd like to have my own company, that is my dream.*
 
+**Phrases & Expressions:**
+- **Ich möchte eine eigene Firma, das ist mein Traum** — *I'd like to have my own company, that is my dream* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 11b (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

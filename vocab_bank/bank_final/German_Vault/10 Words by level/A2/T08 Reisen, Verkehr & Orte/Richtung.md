@@ -35,6 +35,12 @@ status: "new"
 > Der Zug in Richtung Köln hat Verspätung.
 > *The train towards Cologne is delayed.*
 
+**Phrases & Expressions:**
+- **in Richtung ...** — in the direction of ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **die Richtung ändern** — *direction*
+- **in die falsche Richtung fahren** — *direction*
+- **aus der Richtung kommen** — *direction*
+
 **Collocations**
 - in Richtung ...
 - die Richtung ändern

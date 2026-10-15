@@ -29,6 +29,11 @@ status: "new"
 > Er ist fachlich sehr kompetent.
 > *He is professionally very competent.*
 
+**Phrases & Expressions:**
+- **fachlich qualifiziert** — *professional; technical*
+- **fachliche Fragen** — *professional; technical*
+- **fachlich beraten** — *professional; technical*
+
 **Collocations**
 - fachlich qualifiziert
 - fachliche Fragen

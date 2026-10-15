@@ -31,6 +31,9 @@ status: "new"
 > Das Theaterabenteuer begann mit einer Probe.
 > *The theatre adventure began with a rehearsal.*
 
+**Phrases & Expressions:**
+- **Das Theaterabenteuer begann mit einer Probe** — *The theatre adventure began with a rehearsal* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7a ÜB (Kunststücke)
 <!-- bank:end -->
 

@@ -30,6 +30,9 @@ status: "new"
 > Lisa hat blonde Haare.
 > *Lisa has blond hair.*
 
+**Phrases & Expressions:**
+- **Lisa hat blonde Haare** — *Lisa has blond hair* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

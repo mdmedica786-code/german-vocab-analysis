@@ -30,6 +30,9 @@ status: "new"
 > Nach dem Urlaub bin ich total entspannt.
 > *After the holiday I am totally relaxed.*
 
+**Phrases & Expressions:**
+- **Sie bekommen vorher ein Beruhigungsmittel, damit Sie entspannt sind.** — You will get a sedative beforehand so that you are relaxed. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Endoskopie]] · B2)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

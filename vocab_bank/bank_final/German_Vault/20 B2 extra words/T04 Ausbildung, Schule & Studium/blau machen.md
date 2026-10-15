@@ -29,6 +29,10 @@ status: "new"
 > Er hat gestern einfach blau gemacht und ist ins Schwimmbad gegangen.
 > *He simply skipped work yesterday and went to the swimming pool.*
 
+**Phrases & Expressions:**
+- **einen Tag blau machen** — *to skip work or school*
+- **schwänzen** — *to skip work or school*
+
 **Collocations**
 - einen Tag blau machen
 - schwänzen

@@ -29,6 +29,11 @@ status: "new"
 > Er blieb auch in der Prüfung völlig gelassen.
 > *He stayed completely calm even during the exam.*
 
+**Phrases & Expressions:**
+- **gelassen bleiben** — *calm; composed*
+- **gelassen reagieren** — *calm; composed*
+- **eine gelassene Haltung** — *calm; composed*
+
 **Collocations**
 - gelassen bleiben
 - gelassen reagieren

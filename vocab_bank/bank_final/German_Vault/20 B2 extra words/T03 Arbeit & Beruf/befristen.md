@@ -31,6 +31,11 @@ status: "new"
 > Der Arbeitsvertrag wurde auf zwei Jahre befristet.
 > *The employment contract was limited to two years.*
 
+**Phrases & Expressions:**
+- **einen Vertrag befristen** — *to limit in time; to give a fixed term*
+- **befristet beschäftigt** — *to limit in time; to give a fixed term*
+- **eine befristete Stelle** — *to limit in time; to give a fixed term*
+
 **Collocations**
 - einen Vertrag befristen
 - befristet beschäftigt

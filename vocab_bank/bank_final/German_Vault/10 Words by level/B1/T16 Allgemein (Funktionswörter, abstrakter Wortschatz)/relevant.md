@@ -30,6 +30,9 @@ status: "new"
 > Diese Information ist für die Diagnose relevant.
 > *This information is relevant for the diagnosis.*
 
+**Phrases & Expressions:**
+- **Diese Information ist für die Diagnose relevant** — *This information is relevant for the diagnosis* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

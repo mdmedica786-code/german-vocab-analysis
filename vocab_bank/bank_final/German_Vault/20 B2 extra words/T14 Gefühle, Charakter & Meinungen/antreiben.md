@@ -32,6 +32,11 @@ status: "new"
 > Ihr Ehrgeiz treibt sie an.
 > *Her ambition drives her.*
 
+**Phrases & Expressions:**
+- **jemanden antreiben** — *to drive; to urge on*
+- **von Neugier angetrieben** — *to drive; to urge on*
+- **einen Motor antreiben** — *to drive; to urge on*
+
 **Collocations**
 - jemanden antreiben
 - von Neugier angetrieben

@@ -33,6 +33,11 @@ status: "new"
 > Die Pflegeversicherung ist seit 1995 Pflicht.
 > *Long-term care insurance has been compulsory since 1995.*
 
+**Phrases & Expressions:**
+- **in die Pflegeversicherung einzahlen** — *long-term care insurance*
+- **Leistungen der Pflegeversicherung** — *long-term care insurance*
+- **gesetzliche Pflegeversicherung** — *long-term care insurance*
+
 **Collocations**
 - in die Pflegeversicherung einzahlen
 - Leistungen der Pflegeversicherung

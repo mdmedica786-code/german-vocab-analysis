@@ -34,6 +34,9 @@ status: "new"
 > Meine Tochter lernt Geige.
 > *My daughter is learning the violin.*
 
+**Phrases & Expressions:**
+- **Meine Tochter lernt Geige** — *My daughter is learning the violin* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 7a (Alltag und Familie)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Bei der Landung müssen Sie sich anschnallen.
 > *During landing you must fasten your seat belt.*
 
+**Phrases & Expressions:**
+- **Bei der Landung müssen Sie sich anschnallen** — *During landing you must fasten your seat belt* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

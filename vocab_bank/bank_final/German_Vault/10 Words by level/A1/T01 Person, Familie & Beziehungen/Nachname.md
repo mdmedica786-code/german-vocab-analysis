@@ -35,6 +35,9 @@ status: "new"
 > Wie lautet Ihr Nachname, bitte?
 > *What is your last name, please?*
 
+**Phrases & Expressions:**
+- **Wie lautet Ihr Nachname, bitte** — *What is your last name, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 3b (Guten Tag!)
 <!-- bank:end -->
 

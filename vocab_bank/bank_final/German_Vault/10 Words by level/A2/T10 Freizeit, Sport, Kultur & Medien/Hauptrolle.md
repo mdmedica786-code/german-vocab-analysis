@@ -34,6 +34,9 @@ status: "new"
 > Sie spielt die Hauptrolle in dem Film.
 > *She plays the lead role in the film.*
 
+**Phrases & Expressions:**
+- **Sie spielt die Hauptrolle in dem Film** — *She plays the lead role in the film* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 9a (Gute Unterhaltung!)
 <!-- bank:end -->
 

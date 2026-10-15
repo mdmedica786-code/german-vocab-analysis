@@ -33,6 +33,12 @@ status: "new"
 > Der Patient hat eine Wunde am Kinn.
 > *The patient has a wound on the chin.*
 
+**Phrases & Expressions:**
+- **ein markantes Kinn** — *chin*
+- **Wunde am Kinn** — *chin*
+- **das Kinn heben** — *chin*
+- **Doppelkinn** — *chin*
+
 **Collocations**
 - ein markantes Kinn
 - Wunde am Kinn

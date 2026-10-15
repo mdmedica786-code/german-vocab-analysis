@@ -35,6 +35,9 @@ status: "new"
 > Sie ist 67 und bekommt jetzt eine gute Rente.
 > *She is 67 and now gets a good pension.*
 
+**Phrases & Expressions:**
+- **in Rente gehen** — to retire *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+
 **Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

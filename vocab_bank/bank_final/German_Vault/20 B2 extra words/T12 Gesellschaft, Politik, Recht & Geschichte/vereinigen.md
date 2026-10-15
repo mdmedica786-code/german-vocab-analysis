@@ -32,6 +32,11 @@ status: "new"
 > Die Parteien vereinigten sich zu einer Koalition.
 > *The parties united to form a coalition.*
 
+**Phrases & Expressions:**
+- **sich vereinigen** — *to unite; to combine*
+- **Kräfte vereinigen** — *to unite; to combine*
+- **die Vereinigten Staaten** — *to unite; to combine*
+
 **Collocations**
 - sich vereinigen
 - Kräfte vereinigen

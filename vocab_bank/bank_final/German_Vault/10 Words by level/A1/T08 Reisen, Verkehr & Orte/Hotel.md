@@ -36,6 +36,9 @@ status: "new"
 > Im Urlaub sind wir in einem Hotel am Meer.
 > **
 
+**Phrases & Expressions:**
+- **Im Urlaub sind wir in einem Hotel am Meer** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 2a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

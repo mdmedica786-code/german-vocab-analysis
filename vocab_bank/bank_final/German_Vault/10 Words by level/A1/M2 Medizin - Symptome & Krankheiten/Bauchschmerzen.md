@@ -34,6 +34,12 @@ status: "new"
 > Seit gestern habe ich starke Bauchschmerzen.
 > *Since yesterday I have had severe stomach pain.*
 
+**Phrases & Expressions:**
+- **starke Bauchschmerzen** — *stomach pain*
+- **Bauchschmerzen haben** — *stomach pain*
+- **krampfartige Bauchschmerzen** — *stomach pain*
+- **über Bauchschmerzen klagen** — *stomach pain*
+
 **Collocations**
 - starke Bauchschmerzen
 - Bauchschmerzen haben

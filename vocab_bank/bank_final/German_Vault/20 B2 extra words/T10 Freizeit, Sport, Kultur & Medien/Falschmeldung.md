@@ -33,6 +33,11 @@ status: "new"
 > Die Falschmeldung verbreitete sich in wenigen Stunden im Netz.
 > *The false report spread online within a few hours.*
 
+**Phrases & Expressions:**
+- **eine Falschmeldung verbreiten** — *false report; fake news item*
+- **Falschmeldungen erkennen** — *false report; fake news item*
+- **Falschmeldung richtigstellen** — *false report; fake news item*
+
 **Collocations**
 - eine Falschmeldung verbreiten
 - Falschmeldungen erkennen

@@ -34,6 +34,9 @@ status: "new"
 > Der Lastwagen blockiert die Straße.
 > *The lorry is blocking the road.*
 
+**Phrases & Expressions:**
+- **Der Lastwagen blockiert die Straße** — *The lorry is blocking the road* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Gärtnerin pflanzt Blumen.
 > *The gardener is planting flowers.*
 
+**Phrases & Expressions:**
+- **Die Gärtnerin pflanzt Blumen** — *The gardener is planting flowers* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 7a (Nach der Schulzeit)
 <!-- bank:end -->
 

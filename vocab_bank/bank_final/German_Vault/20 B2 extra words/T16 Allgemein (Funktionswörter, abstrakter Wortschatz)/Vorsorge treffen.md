@@ -26,6 +26,10 @@ status: "new"
 > Man sollte rechtzeitig für das Alter Vorsorge treffen.
 > *One should make provision for old age in good time.*
 
+**Phrases & Expressions:**
+- **für etwas Vorsorge treffen** — *to make provision*
+- **private Vorsorge** — *to make provision*
+
 **Collocations**
 - für etwas Vorsorge treffen
 - private Vorsorge

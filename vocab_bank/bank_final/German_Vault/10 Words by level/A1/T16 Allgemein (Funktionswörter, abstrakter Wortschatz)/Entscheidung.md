@@ -35,6 +35,13 @@ status: "new"
 > Diese wichtige Entscheidung möchte ich zuerst mit meinem Mann besprechen.
 > *I would like to discuss this important decision with my husband first.*
 
+**Phrases & Expressions:**
+- **eine Entscheidung treffen** — to make a decision *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B1)*
+- **Darf ich fragen, was Sie zu dieser Entscheidung bewegt?** — May I ask what leads you to this decision? *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Behandlung ablehnen]] · B2)*
+- **vor einer Entscheidung stehen** — *decision*
+- **eine schwere Entscheidung** — *decision*
+- **die Entscheidung fällt** — *decision*
+
 **Collocations**
 - eine Entscheidung treffen
 - vor einer Entscheidung stehen

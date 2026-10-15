@@ -33,6 +33,11 @@ status: "new"
 > Die Hochzeitsfeier fand in einem Schloss statt.
 > *The wedding celebration took place in a castle.*
 
+**Phrases & Expressions:**
+- **eine Hochzeitsfeier planen** — *wedding celebration*
+- **zur Hochzeitsfeier einladen** — *wedding celebration*
+- **auf einer Hochzeitsfeier** — *wedding celebration*
+
 **Collocations**
 - eine Hochzeitsfeier planen
 - zur Hochzeitsfeier einladen

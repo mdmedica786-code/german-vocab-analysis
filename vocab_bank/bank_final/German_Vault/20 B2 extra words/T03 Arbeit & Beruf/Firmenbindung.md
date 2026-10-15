@@ -30,6 +30,11 @@ status: "new"
 > Eine starke Firmenbindung senkt die Zahl der Kündigungen.
 > *A strong loyalty to the company reduces the number of resignations.*
 
+**Phrases & Expressions:**
+- **die Firmenbindung stärken** — *loyalty to the company*
+- **eine hohe Firmenbindung** — *loyalty to the company*
+- **die Firmenbindung der Mitarbeiter** — *loyalty to the company*
+
 **Collocations**
 - die Firmenbindung stärken
 - eine hohe Firmenbindung

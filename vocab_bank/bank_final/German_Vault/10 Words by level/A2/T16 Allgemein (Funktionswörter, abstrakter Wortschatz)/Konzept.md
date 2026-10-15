@@ -34,6 +34,9 @@ status: "new"
 > Das Konzept der Schule ist modern.
 > *The school's concept is modern.*
 
+**Phrases & Expressions:**
+- **Das Konzept der Schule ist modern** — *The school's concept is modern* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 6b (Ganz schön mobil)
 <!-- bank:end -->
 

@@ -34,6 +34,12 @@ status: "new"
 > Ich kenne dich gut. Ich vertraue dir.
 > *I know you well. I trust you.*
 
+**Phrases & Expressions:**
+- **jemandem vertrauen** — *to trust*
+- **auf etwas vertrauen** — *to trust*
+- **blind vertrauen** — *to trust*
+- **Vertrauen schenken** — *to trust*
+
 **Collocations**
 - jemandem vertrauen
 - auf etwas vertrauen

@@ -33,6 +33,9 @@ status: "new"
 > Obwohl sie sich schon lange kennen, siezen sie sich.
 > *Although they have known each other for a long time, they address each other formally.*
 
+**Phrases & Expressions:**
+- **Obwohl sie sich schon lange kennen, siezen sie sich** — *Although they have known each other for a long time, they address each other formally* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

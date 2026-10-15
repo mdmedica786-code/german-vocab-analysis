@@ -33,6 +33,12 @@ status: "new"
 > Wir müssen euch etwas erzählen!
 > *We have to tell you something!*
 
+**Phrases & Expressions:**
+- **erzählt, dass ...** — tells that ... *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **... hat mir erzählt, dass ...** — ... told me that ... *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **Erzählen Sie mir mehr darüber.** — Tell me more about it. *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Interesse zeigen]] · A2)*
+- **Sie können mir alles in Ruhe erzählen.** — You can tell me everything in peace. *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Vertrauen aufbauen]] · B1)*
+
 **Source:** Netzwerk neu A1 K4 9b (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

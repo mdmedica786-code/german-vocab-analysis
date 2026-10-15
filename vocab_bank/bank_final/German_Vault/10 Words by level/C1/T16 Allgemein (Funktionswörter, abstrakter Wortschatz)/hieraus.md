@@ -25,6 +25,9 @@ status: "new"
 > [!example] Beispiel
 > Hieraus folgt, dass wir mehr Zeit brauchen.
 > *From this it follows that we need more time.*
+
+**Phrases & Expressions:**
+- **Hieraus folgt, dass wir mehr Zeit brauchen** — *From this it follows that we need more time* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

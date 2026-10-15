@@ -29,6 +29,11 @@ status: "new"
 > Sie reagierte in der Notlage besonnen.
 > *She reacted level-headedly in the emergency.*
 
+**Phrases & Expressions:**
+- **besonnen reagieren** — *level-headed; prudent*
+- **ein besonnener Mensch** — *level-headed; prudent*
+- **besonnen handeln** — *level-headed; prudent*
+
 **Collocations**
 - besonnen reagieren
 - ein besonnener Mensch

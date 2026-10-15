@@ -34,6 +34,9 @@ status: "new"
 > Ein Punkt und ein Komma sind Satzzeichen.
 > *A full stop and a comma are punctuation marks.*
 
+**Phrases & Expressions:**
+- **Ein Punkt und ein Komma sind Satzzeichen** — *A full stop and a comma are punctuation marks* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 7a (Umweltfreundlich?)
 <!-- bank:end -->
 

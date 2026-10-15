@@ -33,6 +33,11 @@ status: "new"
 > Das Thema Wohnungsnot ist ein Dauerbrenner in den Nachrichten.
 > *The topic of housing shortage is a long-running issue in the news.*
 
+**Phrases & Expressions:**
+- **ein Dauerbrenner sein** — *perennial favourite; long-running topic*
+- **Dauerbrenner im Programm** — *perennial favourite; long-running topic*
+- **ein echter Dauerbrenner** — *perennial favourite; long-running topic*
+
 **Collocations**
 - ein Dauerbrenner sein
 - Dauerbrenner im Programm

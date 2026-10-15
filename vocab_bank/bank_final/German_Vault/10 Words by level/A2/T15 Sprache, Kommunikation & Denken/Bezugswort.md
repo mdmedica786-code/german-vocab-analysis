@@ -34,6 +34,9 @@ status: "new"
 > Das Bezugswort des Relativsatzes steht davor.
 > *The antecedent of the relative clause comes before it.*
 
+**Phrases & Expressions:**
+- **Das Bezugswort des Relativsatzes steht davor** — *The antecedent of the relative clause comes before it* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 8b (Gute Unterhaltung!)
 <!-- bank:end -->
 

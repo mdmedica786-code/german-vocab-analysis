@@ -30,6 +30,11 @@ status: "new"
 > Sie träumt von einer Dachterrassenwohnung in der Stadt.
 > *She dreams of an apartment with a roof terrace in the city.*
 
+**Phrases & Expressions:**
+- **eine Dachterrassenwohnung mieten** — *apartment with a roof terrace*
+- **eine Dachterrassenwohnung mit Aussicht** — *apartment with a roof terrace*
+- **in einer Dachterrassenwohnung leben** — *apartment with a roof terrace*
+
 **Collocations**
 - eine Dachterrassenwohnung mieten
 - eine Dachterrassenwohnung mit Aussicht

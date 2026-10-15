@@ -34,6 +34,13 @@ status: "new"
 > Die Prognose nach der Operation ist gut.
 > *The prognosis after the operation is good.*
 
+**Phrases & Expressions:**
+- **Die Prognose ist gut, wenn wir früh behandeln.** — The prognosis is good if we treat early. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Prognose geben]] · B2)*
+- **eine gute Prognose** — *prognosis; forecast*
+- **eine Prognose stellen** — *prognosis; forecast*
+- **die Prognose verschlechtert sich** — *prognosis; forecast*
+- **schlechte Prognose** — *prognosis; forecast*
+
 **Collocations**
 - eine gute Prognose
 - eine Prognose stellen

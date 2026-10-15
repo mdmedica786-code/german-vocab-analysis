@@ -34,6 +34,9 @@ status: "new"
 > Wir sehen heute ein Theaterstück.
 > *We are seeing a play today.*
 
+**Phrases & Expressions:**
+- **Wir sehen heute ein Theaterstück** — *We are seeing a play today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 8c (Kunststücke)
 <!-- bank:end -->
 

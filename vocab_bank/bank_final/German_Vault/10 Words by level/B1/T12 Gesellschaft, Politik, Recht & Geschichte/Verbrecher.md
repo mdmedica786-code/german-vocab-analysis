@@ -34,6 +34,9 @@ status: "new"
 > Die Polizei hat den Verbrecher verhaftet.
 > *The police arrested the criminal.*
 
+**Phrases & Expressions:**
+- **Die Polizei hat den Verbrecher verhaftet** — *The police arrested the criminal* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Diese Erzählung ist sehr berühmt. Du musst sie lesen.
 > *This story is very famous. You must read it.*
 
+**Phrases & Expressions:**
+- **Diese Erzählung ist sehr berühmt. Du musst sie lesen** — *This story is very famous. You must read it* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Datenschutzbestimmung erklärt den Umgang mit Ihren Daten.
 > *The data protection regulation explains how your data is handled.*
 
+**Phrases & Expressions:**
+- **Die Datenschutzbestimmung erklärt den Umgang mit Ihren Daten** — *The data protection regulation explains how your data is handled* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Deutschland leistet Entwicklungshilfe in vielen Ländern.
 > *Germany provides development aid in many countries.*
 
+**Phrases & Expressions:**
+- **Entwicklungshilfe leisten** — *development aid*
+- **Entwicklungshilfe kürzen** — *development aid*
+- **Entwicklungshilfe erhalten** — *development aid*
+
 **Collocations**
 - Entwicklungshilfe leisten
 - Entwicklungshilfe kürzen

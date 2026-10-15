@@ -35,6 +35,10 @@ status: "new"
 > Am Mittwoch fahre ich nach Hamburg.
 > *On Wednesday I'm going to Hamburg.*
 
+**Phrases & Expressions:**
+- **Bitte gib mir bis Mittwoch Bescheid.** — Please let me know by Wednesday. *([[B1-18 Einladen, zusagen und absagen|Antwort erbitten]] · B1)*
+- **Dann bleibt es bei Mittwoch, 9 Uhr, richtig?** — So it stays Wednesday at 9, right? *([[B2-07 Telefonieren|Termin bestätigen]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 4a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

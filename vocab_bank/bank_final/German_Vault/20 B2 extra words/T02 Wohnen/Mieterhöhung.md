@@ -33,6 +33,11 @@ status: "new"
 > Die Mieterhöhung muss schriftlich angekündigt werden.
 > *The rent increase must be announced in writing.*
 
+**Phrases & Expressions:**
+- **eine Mieterhöhung ankündigen** — *rent increase*
+- **einer Mieterhöhung zustimmen** — *rent increase*
+- **gegen die Mieterhöhung klagen** — *rent increase*
+
 **Collocations**
 - eine Mieterhöhung ankündigen
 - einer Mieterhöhung zustimmen

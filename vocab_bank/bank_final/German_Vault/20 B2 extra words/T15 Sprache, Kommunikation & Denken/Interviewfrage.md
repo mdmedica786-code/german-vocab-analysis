@@ -30,6 +30,11 @@ status: "new"
 > Bereiten Sie drei Interviewfragen vor.
 > *Prepare three interview questions.*
 
+**Phrases & Expressions:**
+- **eine Interviewfrage stellen** — *interview question*
+- **Interviewfragen vorbereiten** — *interview question*
+- **eine schwierige Interviewfrage** — *interview question*
+
 **Collocations**
 - eine Interviewfrage stellen
 - Interviewfragen vorbereiten

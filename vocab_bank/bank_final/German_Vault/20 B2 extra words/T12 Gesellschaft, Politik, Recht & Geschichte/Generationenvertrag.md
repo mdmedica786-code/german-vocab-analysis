@@ -33,6 +33,11 @@ status: "new"
 > Das Rentensystem beruht auf dem Generationenvertrag.
 > *The pension system is based on the intergenerational contract.*
 
+**Phrases & Expressions:**
+- **der Generationenvertrag gerät unter Druck** — *intergenerational contract (pension system)*
+- **nach dem Generationenvertrag** — *intergenerational contract (pension system)*
+- **Generationenvertrag erneuern** — *intergenerational contract (pension system)*
+
 **Collocations**
 - der Generationenvertrag gerät unter Druck
 - nach dem Generationenvertrag

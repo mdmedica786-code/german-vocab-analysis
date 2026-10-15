@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Umfang des Projekts ist größer als gedacht.
 > *The scope of the project is bigger than expected.*
+
+**Phrases & Expressions:**
+- **Der Umfang des Projekts ist größer als gedacht** — *The scope of the project is bigger than expected* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

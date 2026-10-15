@@ -34,6 +34,9 @@ status: "new"
 > Wir mieten eine Ferienwohnung am Meer.
 > *We are renting a holiday flat by the sea.*
 
+**Phrases & Expressions:**
+- **Wir mieten eine Ferienwohnung am Meer** — *We are renting a holiday flat by the sea* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1b (Zusammen leben)
 <!-- bank:end -->
 

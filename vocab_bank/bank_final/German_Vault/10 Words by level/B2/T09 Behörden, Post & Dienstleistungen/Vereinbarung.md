@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Wir haben eine Vereinbarung getroffen.
 > *We have reached an agreement.*
+
+**Phrases & Expressions:**
+- **Wir haben eine Vereinbarung getroffen** — *We have reached an agreement* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

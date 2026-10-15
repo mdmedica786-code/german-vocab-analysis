@@ -26,6 +26,9 @@ status: "new"
 > Er ergriff die Initiative und rief alle zusammen.
 > *He took the initiative and called everyone together.*
 
+**Phrases & Expressions:**
+- **die Initiative übernehmen** — *to take the initiative*
+
 **Collocations**
 - die Initiative übernehmen
 

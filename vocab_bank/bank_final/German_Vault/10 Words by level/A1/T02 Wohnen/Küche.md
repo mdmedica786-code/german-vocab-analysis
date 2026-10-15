@@ -35,6 +35,9 @@ status: "new"
 > Der neue Herd kommt in die Küche.
 > *The new cooker is going into the kitchen.*
 
+**Phrases & Expressions:**
+- **Der neue Herd kommt in die Küche** — *The new cooker is going into the kitchen* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

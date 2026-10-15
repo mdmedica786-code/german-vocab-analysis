@@ -33,6 +33,11 @@ status: "new"
 > In vielen Regionen herrscht im Sommer Wasserknappheit.
 > *In many regions there is water scarcity in summer.*
 
+**Phrases & Expressions:**
+- **unter Wasserknappheit leiden** — *water scarcity*
+- **Wasserknappheit droht** — *water scarcity*
+- **Folgen der Wasserknappheit** — *water scarcity*
+
 **Collocations**
 - unter Wasserknappheit leiden
 - Wasserknappheit droht

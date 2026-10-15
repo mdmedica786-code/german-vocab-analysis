@@ -33,6 +33,11 @@ status: "new"
 > Seine Gestik unterstreicht jedes Wort.
 > *His gestures underline every word.*
 
+**Phrases & Expressions:**
+- **Mimik und Gestik** — *gestures; use of gestures*
+- **eine lebhafte Gestik** — *gestures; use of gestures*
+- **die Gestik einsetzen** — *gestures; use of gestures*
+
 **Collocations**
 - Mimik und Gestik
 - eine lebhafte Gestik

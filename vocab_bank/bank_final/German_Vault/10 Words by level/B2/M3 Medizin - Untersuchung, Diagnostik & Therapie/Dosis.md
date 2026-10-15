@@ -33,6 +33,12 @@ status: "new"
 > Nehmen Sie bitte nicht mehr als die empfohlene Dosis.
 > *Please do not take more than the recommended dose.*
 
+**Phrases & Expressions:**
+- **die Dosis erhöhen** — *dose*
+- **die empfohlene Dosis** — *dose*
+- **eine tägliche Dosis** — *dose*
+- **die Dosis anpassen** — *dose*
+
 **Collocations**
 - die Dosis erhöhen
 - die empfohlene Dosis

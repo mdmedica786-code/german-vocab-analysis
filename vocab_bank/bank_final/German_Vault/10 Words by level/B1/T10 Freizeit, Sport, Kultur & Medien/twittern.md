@@ -32,6 +32,9 @@ status: "new"
 > Der Minister twittert jeden Tag.
 > *The minister tweets every day.*
 
+**Phrases & Expressions:**
+- **Der Minister twittert jeden Tag** — *The minister tweets every day* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

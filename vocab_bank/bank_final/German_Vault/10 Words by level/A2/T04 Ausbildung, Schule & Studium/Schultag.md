@@ -34,6 +34,9 @@ status: "new"
 > Der erste Schultag ist für Kinder aufregend.
 > *The first day of school is exciting for children.*
 
+**Phrases & Expressions:**
+- **Der erste Schultag ist für Kinder aufregend** — *The first day of school is exciting for children* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle)
 <!-- bank:end -->
 

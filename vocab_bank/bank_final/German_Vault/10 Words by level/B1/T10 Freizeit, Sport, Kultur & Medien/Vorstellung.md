@@ -36,6 +36,12 @@ status: "new"
 > Hast du eine Vorstellung, wie eine smarte Wohnung aussieht?
 > *Do you have an idea what a smart flat looks like?*
 
+**Phrases & Expressions:**
+- **eine Vorstellung haben** — *idea; introduction; performance*
+- **keine Vorstellung davon haben** — *idea; introduction; performance*
+- **sich eine Vorstellung machen** — *idea; introduction; performance*
+- **eine Vorstellung geben** — *idea; introduction; performance*
+
 **Collocations**
 - eine Vorstellung haben
 - keine Vorstellung davon haben

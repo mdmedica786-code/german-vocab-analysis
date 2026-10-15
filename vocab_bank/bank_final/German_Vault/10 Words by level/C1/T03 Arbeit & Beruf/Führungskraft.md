@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Als Führungskraft trägt sie viel Verantwortung.
 > *As a manager she carries a lot of responsibility.*
+
+**Phrases & Expressions:**
+- **Als Führungskraft trägt sie viel Verantwortung** — *As a manager she carries a lot of responsibility* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

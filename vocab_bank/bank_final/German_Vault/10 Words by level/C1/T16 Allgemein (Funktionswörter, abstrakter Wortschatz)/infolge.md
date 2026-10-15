@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Infolge des Sturms fiel der Strom aus.
 > *As a result of the storm the power failed.*
+
+**Phrases & Expressions:**
+- **Infolge des Sturms fiel der Strom aus** — *As a result of the storm the power failed* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

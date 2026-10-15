@@ -30,6 +30,9 @@ status: "new"
 > Seine Eltern sind sehr liberal.
 > *His parents are very liberal.*
 
+**Phrases & Expressions:**
+- **Seine Eltern sind sehr liberal** — *His parents are very liberal* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das ist ein guter Ansatz für eine Lösung.
 > *That is a good approach to a solution.*
+
+**Phrases & Expressions:**
+- **Das ist ein guter Ansatz für eine Lösung** — *That is a good approach to a solution* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

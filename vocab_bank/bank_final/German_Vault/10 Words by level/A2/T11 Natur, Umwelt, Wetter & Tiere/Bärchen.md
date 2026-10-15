@@ -34,6 +34,9 @@ status: "new"
 > Das Kind schläft mit seinem Bärchen.
 > *The child sleeps with its little teddy bear.*
 
+**Phrases & Expressions:**
+- **Das Kind schläft mit seinem Bärchen** — *The child sleeps with its little teddy bear* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 10c (Zusammen leben)
 <!-- bank:end -->
 

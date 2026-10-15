@@ -29,6 +29,11 @@ status: "new"
 > Trotz ihres Erfolgs ist sie bescheiden geblieben.
 > *Despite her success she has remained modest.*
 
+**Phrases & Expressions:**
+- **bescheiden leben** — *modest; humble*
+- **ein bescheidenes Gehalt** — *modest; humble*
+- **bescheiden auftreten** — *modest; humble*
+
 **Collocations**
 - bescheiden leben
 - ein bescheidenes Gehalt

@@ -34,6 +34,9 @@ status: "new"
 > Die Außenseite des Gebäudes ist grau.
 > *The outside of the building is grey.*
 
+**Phrases & Expressions:**
+- **Die Außenseite des Gebäudes ist grau** — *The outside of the building is grey* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

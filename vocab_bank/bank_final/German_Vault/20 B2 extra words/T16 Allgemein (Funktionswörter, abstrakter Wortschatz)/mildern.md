@@ -31,6 +31,10 @@ status: "new"
 > Der Richter milderte die Strafe.
 > *The judge reduced the sentence.*
 
+**Phrases & Expressions:**
+- **die Strafe mildern** — *to soften; to mitigate*
+- **Folgen mildern** — *to soften; to mitigate*
+
 **Collocations**
 - die Strafe mildern
 - Folgen mildern

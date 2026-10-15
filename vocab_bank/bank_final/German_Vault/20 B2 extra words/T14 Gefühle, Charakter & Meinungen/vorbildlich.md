@@ -29,6 +29,11 @@ status: "new"
 > Sie hat sich vorbildlich verhalten.
 > *She behaved in an exemplary way.*
 
+**Phrases & Expressions:**
+- **vorbildlich handeln** — *exemplary; model*
+- **ein vorbildliches Verhalten** — *exemplary; model*
+- **vorbildlich sein** — *exemplary; model*
+
 **Collocations**
 - vorbildlich handeln
 - ein vorbildliches Verhalten

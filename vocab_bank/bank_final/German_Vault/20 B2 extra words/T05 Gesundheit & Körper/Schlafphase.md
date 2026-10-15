@@ -33,6 +33,11 @@ status: "new"
 > Der Körper erholt sich in jeder Schlafphase anders.
 > *The body recovers differently in each sleep phase.*
 
+**Phrases & Expressions:**
+- **eine Schlafphase** — *sleep phase; stage of sleep*
+- **die Schlafphasen messen** — *sleep phase; stage of sleep*
+- **die REM-Schlafphase** — *sleep phase; stage of sleep*
+
 **Collocations**
 - eine Schlafphase
 - die Schlafphasen messen

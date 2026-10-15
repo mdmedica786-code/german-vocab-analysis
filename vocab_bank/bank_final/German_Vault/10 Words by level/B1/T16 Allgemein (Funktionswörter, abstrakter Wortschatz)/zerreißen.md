@@ -32,6 +32,9 @@ status: "new"
 > Er zerreißt den Brief.
 > *He tears the letter apart.*
 
+**Phrases & Expressions:**
+- **Er zerreißt den Brief** — *He tears the letter apart* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 13b (Kunststücke)
 <!-- bank:end -->
 

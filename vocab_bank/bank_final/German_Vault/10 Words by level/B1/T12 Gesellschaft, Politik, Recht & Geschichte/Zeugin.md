@@ -34,6 +34,9 @@ status: "new"
 > Die Zeugin hat den Unfall gesehen.
 > *The witness saw the accident.*
 
+**Phrases & Expressions:**
+- **Die Zeugin hat den Unfall gesehen** — *The witness saw the accident* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

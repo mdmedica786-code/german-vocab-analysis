@@ -31,6 +31,11 @@ status: "new"
 > Lärm mindert die Lebensqualität.
 > *Noise reduces the quality of life.*
 
+**Phrases & Expressions:**
+- **die Qualität mindern** — *to reduce; to diminish*
+- **den Wert mindern** — *to reduce; to diminish*
+- **das Risiko mindern** — *to reduce; to diminish*
+
 **Collocations**
 - die Qualität mindern
 - den Wert mindern

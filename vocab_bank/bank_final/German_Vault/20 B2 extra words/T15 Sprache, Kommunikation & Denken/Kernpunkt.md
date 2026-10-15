@@ -33,6 +33,11 @@ status: "new"
 > Der Kernpunkt der Debatte war die Finanzierung.
 > *The crux of the debate was the financing.*
 
+**Phrases & Expressions:**
+- **der Kernpunkt der Sache** — *crux; main point*
+- **den Kernpunkt treffen** — *crux; main point*
+- **Kernpunkte zusammenfassen** — *crux; main point*
+
 **Collocations**
 - der Kernpunkt der Sache
 - den Kernpunkt treffen

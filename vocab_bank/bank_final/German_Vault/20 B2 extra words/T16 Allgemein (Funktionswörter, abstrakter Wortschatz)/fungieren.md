@@ -32,6 +32,11 @@ status: "new"
 > Er fungiert als Vertreter des Chefs.
 > *He acts as the boss's representative.*
 
+**Phrases & Expressions:**
+- **als etwas fungieren** — *to act (as); to serve (as)*
+- **als Vermittler fungieren** — *to act (as); to serve (as)*
+- **als Sprecher fungieren** — *to act (as); to serve (as)*
+
 **Collocations**
 - als etwas fungieren
 - als Vermittler fungieren

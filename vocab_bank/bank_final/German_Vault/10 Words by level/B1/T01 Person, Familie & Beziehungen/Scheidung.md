@@ -35,6 +35,9 @@ status: "new"
 > Wann war die Scheidung?
 > *When was the divorce?*
 
+**Phrases & Expressions:**
+- **Wann war die Scheidung** — *When was the divorce* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

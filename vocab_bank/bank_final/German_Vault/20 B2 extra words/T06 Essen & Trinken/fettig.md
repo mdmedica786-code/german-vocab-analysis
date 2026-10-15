@@ -29,6 +29,11 @@ status: "new"
 > Die Pommes sind mir zu fettig.
 > *The chips are too greasy for me.*
 
+**Phrases & Expressions:**
+- **fettige Haare** — *greasy; oily*
+- **fettiges Essen** — *greasy; oily*
+- **fettig glänzen** — *greasy; oily*
+
 **Collocations**
 - fettige Haare
 - fettiges Essen

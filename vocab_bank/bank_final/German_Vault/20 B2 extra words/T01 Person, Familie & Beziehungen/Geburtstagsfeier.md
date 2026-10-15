@@ -33,6 +33,11 @@ status: "new"
 > Zu ihrer Geburtstagsfeier kamen viele Gäste.
 > *Many guests came to her birthday party.*
 
+**Phrases & Expressions:**
+- **eine Geburtstagsfeier planen** — *birthday party*
+- **zur Geburtstagsfeier einladen** — *birthday party*
+- **eine kleine Geburtstagsfeier** — *birthday party*
+
 **Collocations**
 - eine Geburtstagsfeier planen
 - zur Geburtstagsfeier einladen

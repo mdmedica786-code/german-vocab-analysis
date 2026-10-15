@@ -33,6 +33,11 @@ status: "new"
 > Sie studiert Strafrecht an der Universität.
 > *She studies criminal law at the university.*
 
+**Phrases & Expressions:**
+- **im Strafrecht** — *criminal law*
+- **das deutsche Strafrecht** — *criminal law*
+- **Strafrecht und Zivilrecht** — *criminal law*
+
 **Collocations**
 - im Strafrecht
 - das deutsche Strafrecht

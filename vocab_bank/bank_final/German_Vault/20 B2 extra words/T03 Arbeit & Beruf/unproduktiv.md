@@ -29,6 +29,11 @@ status: "new"
 > Nach dem langen Meeting war der Tag unproduktiv.
 > *After the long meeting the day was unproductive.*
 
+**Phrases & Expressions:**
+- **unproduktiv sein** — *unproductive*
+- **ein unproduktiver Tag** — *unproductive*
+- **unproduktiv arbeiten** — *unproductive*
+
 **Collocations**
 - unproduktiv sein
 - ein unproduktiver Tag

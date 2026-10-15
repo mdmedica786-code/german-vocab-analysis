@@ -34,6 +34,9 @@ status: "new"
 > In Deutschland gibt es Meinungsfreiheit.
 > *There is freedom of opinion in Germany.*
 
+**Phrases & Expressions:**
+- **In Deutschland gibt es Meinungsfreiheit** — *There is freedom of opinion in Germany* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 2a (Miteinander)
 <!-- bank:end -->
 

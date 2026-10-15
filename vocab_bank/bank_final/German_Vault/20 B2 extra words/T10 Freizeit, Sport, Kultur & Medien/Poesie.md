@@ -33,6 +33,11 @@ status: "new"
 > Seine Texte haben viel Poesie.
 > *His texts have a lot of poetry.*
 
+**Phrases & Expressions:**
+- **Poesie und Prosa** — *poetry*
+- **die Poesie der Sprache** — *poetry*
+- **voller Poesie** — *poetry*
+
 **Collocations**
 - Poesie und Prosa
 - die Poesie der Sprache

@@ -33,6 +33,11 @@ status: "new"
 > Eine Steigerung der Leistung ist noch möglich.
 > *An improvement in performance is still possible.*
 
+**Phrases & Expressions:**
+- **eine Steigerung um zehn Prozent** — *increase; improvement*
+- **die Steigerung der Produktion** — *increase; improvement*
+- **zur Steigerung** — *increase; improvement*
+
 **Collocations**
 - eine Steigerung um zehn Prozent
 - die Steigerung der Produktion

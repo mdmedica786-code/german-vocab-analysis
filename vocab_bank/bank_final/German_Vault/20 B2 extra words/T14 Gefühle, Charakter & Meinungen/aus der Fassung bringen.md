@@ -26,6 +26,11 @@ status: "new"
 > Die Nachricht brachte ihn völlig aus der Fassung.
 > *The news completely threw him.*
 
+**Phrases & Expressions:**
+- **aus der Fassung geraten** — *to throw off balance; to rattle*
+- **die Fassung verlieren** — *to throw off balance; to rattle*
+- **die Fassung bewahren** — *to throw off balance; to rattle*
+
 **Collocations**
 - aus der Fassung geraten
 - die Fassung verlieren

@@ -33,6 +33,11 @@ status: "new"
 > Sie handelt nicht aus Eigennutz, sondern aus Überzeugung.
 > *She acts not out of self-interest but out of conviction.*
 
+**Phrases & Expressions:**
+- **aus Eigennutz** — *self-interest*
+- **reiner Eigennutz** — *self-interest*
+- **Eigennutz und Gemeinwohl** — *self-interest*
+
 **Collocations**
 - aus Eigennutz
 - reiner Eigennutz

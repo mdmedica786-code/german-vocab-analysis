@@ -34,6 +34,9 @@ status: "new"
 > Wir nehmen die Fähre über den Bodensee.
 > *We take the ferry across Lake Constance.*
 
+**Phrases & Expressions:**
+- **Wir nehmen die Fähre über den Bodensee** — *We take the ferry across Lake Constance* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

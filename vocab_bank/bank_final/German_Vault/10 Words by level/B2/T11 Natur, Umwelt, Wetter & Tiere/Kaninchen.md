@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Kaninchen frisst Karotten.
 > *The rabbit eats carrots.*
+
+**Phrases & Expressions:**
+- **Das Kaninchen frisst Karotten** — *The rabbit eats carrots* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

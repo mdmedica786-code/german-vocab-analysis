@@ -29,6 +29,11 @@ status: "new"
 > Instinktiv trat er einen Schritt zurück.
 > *Instinctively he took a step back.*
 
+**Phrases & Expressions:**
+- **instinktiv handeln** — *instinctive; by instinct*
+- **instinktiv reagieren** — *instinctive; by instinct*
+- **instinktiv wissen** — *instinctive; by instinct*
+
 **Collocations**
 - instinktiv handeln
 - instinktiv reagieren

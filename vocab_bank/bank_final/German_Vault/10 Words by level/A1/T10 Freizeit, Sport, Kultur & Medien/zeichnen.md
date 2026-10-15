@@ -33,6 +33,9 @@ status: "new"
 > Caterina kann gut zeichnen. Sieh mal das Bild hier.
 > *Caterina can draw well. Look at this picture.*
 
+**Phrases & Expressions:**
+- **Es zeichnet sich ein Trend zu ... ab.** — A trend towards ... is emerging. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Trend beschreiben]] · B2)*
+
 **Source:** Netzwerk neu A1 K3 2b (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

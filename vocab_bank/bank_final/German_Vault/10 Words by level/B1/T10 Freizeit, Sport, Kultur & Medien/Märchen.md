@@ -34,6 +34,9 @@ status: "new"
 > Meine Großmutter hat uns viele Märchen erzählt.
 > *My grandmother told us many fairy tales.*
 
+**Phrases & Expressions:**
+- **Meine Großmutter hat uns viele Märchen erzählt** — *My grandmother told us many fairy tales* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

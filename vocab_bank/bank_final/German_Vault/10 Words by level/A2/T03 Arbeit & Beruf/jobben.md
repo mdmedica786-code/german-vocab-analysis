@@ -33,6 +33,9 @@ status: "new"
 > Im Sommer jobbt sie im Café.
 > *In summer she has a job at the café.*
 
+**Phrases & Expressions:**
+- **Im Sommer jobbt sie im Café** — *In summer she has a job at the café* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 1c (Nach der Schulzeit) · Goethe word list B1
 <!-- bank:end -->
 

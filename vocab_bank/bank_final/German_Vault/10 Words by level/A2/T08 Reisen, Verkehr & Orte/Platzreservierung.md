@@ -34,6 +34,9 @@ status: "new"
 > Für diesen Zug brauchen Sie eine Platzreservierung.
 > *For this train you need a seat reservation.*
 
+**Phrases & Expressions:**
+- **Für diesen Zug brauchen Sie eine Platzreservierung** — *For this train you need a seat reservation* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 9a (Ganz schön mobil)
 <!-- bank:end -->
 

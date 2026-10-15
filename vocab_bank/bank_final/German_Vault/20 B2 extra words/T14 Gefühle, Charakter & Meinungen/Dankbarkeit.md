@@ -33,6 +33,11 @@ status: "new"
 > Sie zeigte ihre Dankbarkeit mit einem kleinen Geschenk.
 > *She showed her gratitude with a small gift.*
 
+**Phrases & Expressions:**
+- **tiefe Dankbarkeit** — *gratitude*
+- **Dankbarkeit zeigen** — *gratitude*
+- **aus Dankbarkeit** — *gratitude*
+
 **Collocations**
 - tiefe Dankbarkeit
 - Dankbarkeit zeigen

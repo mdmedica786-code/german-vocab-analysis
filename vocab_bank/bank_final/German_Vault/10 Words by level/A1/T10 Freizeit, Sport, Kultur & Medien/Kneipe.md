@@ -35,6 +35,9 @@ status: "new"
 > Gehen wir noch in eine Kneipe ein Bier trinken?
 > *Shall we go to a pub for a beer?*
 
+**Phrases & Expressions:**
+- **Gehen wir noch in eine Kneipe ein Bier trinken** — *Shall we go to a pub for a beer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden) · Goethe word list B1
 <!-- bank:end -->
 

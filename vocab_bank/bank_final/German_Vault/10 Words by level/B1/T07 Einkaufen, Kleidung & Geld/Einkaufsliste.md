@@ -34,6 +34,9 @@ status: "new"
 > Ich schreibe eine Einkaufsliste.
 > *I'm writing a shopping list.*
 
+**Phrases & Expressions:**
+- **Ich schreibe eine Einkaufsliste** — *I'm writing a shopping list* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 7c (Das ist ja praktisch!)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Diesen Buchstaben gibt es in meiner Sprache nicht.
 > *This letter does not exist in my language.*
 
+**Phrases & Expressions:**
+- **Diesen Buchstaben gibt es in meiner Sprache nicht** — *This letter does not exist in my language* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

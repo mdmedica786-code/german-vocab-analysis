@@ -33,6 +33,14 @@ status: "new"
 > Ich bin in ein Stück Glas getreten.
 > *I stepped on a piece of glass.*
 
+**Phrases & Expressions:**
+- **Wie oft treten die Beschwerden auf?** — How often do the complaints occur? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Häufigkeit erfragen]] · B1)*
+- **Treten die Beschwerden bei Belastung oder in Ruhe auf?** — Do the complaints occur on exertion or at rest? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Auslöser erfragen]] · B2)*
+- **in etwas treten** — *to step; to kick; to tread*
+- **gegen den Ball treten** — *to step; to kick; to tread*
+- **in Kraft treten** — *to step; to kick; to tread*
+- **zur Seite treten** — *to step; to kick; to tread*
+
 **Collocations**
 - in etwas treten
 - gegen den Ball treten

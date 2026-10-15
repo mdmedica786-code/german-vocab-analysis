@@ -34,6 +34,9 @@ status: "new"
 > Im Deutschen gibt es vier Kasus.
 > *In German there are four cases.*
 
+**Phrases & Expressions:**
+- **Im Deutschen gibt es vier Kasus** — *In German there are four cases* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 8b (Blick nach vorn)
 <!-- bank:end -->
 

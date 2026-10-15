@@ -33,6 +33,11 @@ status: "new"
 > Mit viel Schwung begann sie ihre neue Arbeit.
 > *With a lot of energy she began her new job.*
 
+**Phrases & Expressions:**
+- **mit Schwung** — *momentum; swing; drive*
+- **in Schwung kommen** — *momentum; swing; drive*
+- **Schwung holen** — *momentum; swing; drive*
+
 **Collocations**
 - mit Schwung
 - in Schwung kommen

@@ -33,6 +33,11 @@ status: "new"
 > Sie wohnt mit ihrem Lebensgefährten in Köln.
 > *She lives with her life partner in Cologne.*
 
+**Phrases & Expressions:**
+- **mit dem Lebensgefährten leben** — *life partner*
+- **Lebensgefährte und Lebensgefährtin** — *life partner*
+- **langjähriger Lebensgefährte** — *life partner*
+
 **Collocations**
 - mit dem Lebensgefährten leben
 - Lebensgefährte und Lebensgefährtin

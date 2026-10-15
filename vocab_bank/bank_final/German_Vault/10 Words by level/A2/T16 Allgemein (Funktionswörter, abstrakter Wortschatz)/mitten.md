@@ -31,6 +31,9 @@ status: "new"
 > Wir haben eine Wohnung mitten in der Stadt.
 > *We have a flat right in the middle of the town.*
 
+**Phrases & Expressions:**
+- **Wir haben eine Wohnung mitten in der Stadt** — *We have a flat right in the middle of the town* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1b (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

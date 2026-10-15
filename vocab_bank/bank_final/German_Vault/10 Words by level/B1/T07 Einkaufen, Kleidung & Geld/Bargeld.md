@@ -35,6 +35,9 @@ status: "new"
 > Ich habe kein Bargeld mehr.
 > *I have no cash left.*
 
+**Phrases & Expressions:**
+- **Ich habe kein Bargeld mehr** — *I have no cash left* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3e (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

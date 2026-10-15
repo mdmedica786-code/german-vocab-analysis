@@ -33,6 +33,12 @@ status: "new"
 > Er arbeitet immer nach demselben Schema.
 > *He always works according to the same pattern.*
 
+**Phrases & Expressions:**
+- **Wir gehen nach dem ABCDE-Schema vor.** — We proceed according to the ABCDE scheme. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Notfall einschätzen]] · B2)*
+- **nach Schema F** — *scheme; pattern*
+- **ein festes Schema** — *scheme; pattern*
+- **in ein Schema pressen** — *scheme; pattern*
+
 **Collocations**
 - nach Schema F
 - ein festes Schema

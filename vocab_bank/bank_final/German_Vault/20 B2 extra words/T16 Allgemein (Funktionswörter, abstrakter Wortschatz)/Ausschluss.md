@@ -33,6 +33,11 @@ status: "new"
 > Der Ausschluss aus dem Verein war endgültig.
 > *The expulsion from the club was final.*
 
+**Phrases & Expressions:**
+- **unter Ausschluss der Öffentlichkeit** — *exclusion; expulsion*
+- **der Ausschluss aus dem Verein** — *exclusion; expulsion*
+- **der Ausschluss von der Teilnahme** — *exclusion; expulsion*
+
 **Collocations**
 - unter Ausschluss der Öffentlichkeit
 - der Ausschluss aus dem Verein

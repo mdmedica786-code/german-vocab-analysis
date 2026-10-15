@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Wir führten ein philosophisches Gespräch über das Leben.
 > *We had a philosophical conversation about life.*
+
+**Phrases & Expressions:**
+- **Wir führten ein philosophisches Gespräch über das Leben** — *We had a philosophical conversation about life* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

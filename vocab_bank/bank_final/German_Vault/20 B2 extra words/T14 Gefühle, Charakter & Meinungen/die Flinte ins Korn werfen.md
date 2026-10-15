@@ -29,6 +29,10 @@ status: "new"
 > Wirf nicht gleich die Flinte ins Korn, versuch es noch einmal!
 > *Don't give up right away; try again!*
 
+**Phrases & Expressions:**
+- **nicht aufgeben** — *to give up too soon*
+- **früh aufgeben** — *to give up too soon*
+
 **Collocations**
 - nicht aufgeben
 - früh aufgeben

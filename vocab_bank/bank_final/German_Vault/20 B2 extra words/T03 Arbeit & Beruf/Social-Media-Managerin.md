@@ -30,6 +30,11 @@ status: "new"
 > Die Social-Media-Managerin antwortet auf alle Kommentare.
 > *The social media manager replies to all comments.*
 
+**Phrases & Expressions:**
+- **als Social-Media-Managerin arbeiten** — *social media manager (female)*
+- **eine erfahrene Social-Media-Managerin** — *social media manager (female)*
+- **Social-Media-Managerin werden** — *social media manager (female)*
+
 **Collocations**
 - als Social-Media-Managerin arbeiten
 - eine erfahrene Social-Media-Managerin

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Der Patient braucht psychologische Hilfe.
 > *The patient needs psychological help.*
+
+**Phrases & Expressions:**
+- **Der Patient braucht psychologische Hilfe** — *The patient needs psychological help* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

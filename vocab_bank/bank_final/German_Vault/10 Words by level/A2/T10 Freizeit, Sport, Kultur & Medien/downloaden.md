@@ -32,6 +32,9 @@ status: "new"
 > Ich downloade die App kostenlos.
 > *I download the app for free.*
 
+**Phrases & Expressions:**
+- **Ich downloade die App kostenlos** — *I download the app for free* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1a (Immer online?)
 <!-- bank:end -->
 

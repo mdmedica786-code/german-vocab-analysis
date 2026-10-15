@@ -34,6 +34,9 @@ status: "new"
 > Schnell, steig ein, der Zug fährt gleich.
 > *Quick, get in, the train is about to leave.*
 
+**Phrases & Expressions:**
+- **Schnell, steig ein, der Zug fährt gleich** — *Quick, get in, the train is about to leave* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 3d (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

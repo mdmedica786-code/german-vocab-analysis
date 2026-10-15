@@ -32,6 +32,11 @@ status: "new"
 > Mit Sport gleicht sie den Stress im Büro aus.
 > *She balances out the stress at the office with sport.*
 
+**Phrases & Expressions:**
+- **einen Unterschied ausgleichen** — *to balance out; to compensate*
+- **ein Defizit ausgleichen** — *to balance out; to compensate*
+- **ein Konto ausgleichen** — *to balance out; to compensate*
+
 **Collocations**
 - einen Unterschied ausgleichen
 - ein Defizit ausgleichen

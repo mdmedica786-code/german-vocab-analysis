@@ -33,6 +33,14 @@ status: "new"
 > Ich finde allein nicht zurück.
 > *I can't find my way back alone.*
 
+**Phrases & Expressions:**
+- **hin und zurück** — there and back; return *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Ich fand besonders gut, dass ...** — I particularly liked that ... *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Positives Feedback geben]] · B1)*
+- **Wo genau findet die Feier statt?** — Where exactly is the party taking place? *([[B1-18 Einladen, zusagen und absagen|Rückfrage stellen]] · B1)*
+- **Bitte rufen Sie mich unter der Nummer ... zurück.** — Please call me back on the number ... *([[B2-07 Telefonieren|Nachricht hinterlassen]] · B1)*
+- **... geht stetig zurück.** — ... is steadily declining. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Rückgang beschreiben]] · B2)*
+- **Bei der körperlichen Untersuchung fand sich kein Hinweis auf ...** — On physical examination there was no sign of ... *([[FSP-08 Befunde beschreiben und berichten|Befund im Arzt-Arzt-Gespräch]] · C1)*
+
 **Source:** Netzwerk neu A1 K12 7b (Ab in den Urlaub!)
 <!-- bank:end -->
 

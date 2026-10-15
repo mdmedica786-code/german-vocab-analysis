@@ -33,6 +33,11 @@ status: "new"
 > Das Tagesgericht kostet nur acht Euro.
 > *The dish of the day costs only eight euros.*
 
+**Phrases & Expressions:**
+- **das Tagesgericht bestellen** — *dish of the day*
+- **das heutige Tagesgericht** — *dish of the day*
+- **Tagesgericht mit Salat** — *dish of the day*
+
 **Collocations**
 - das Tagesgericht bestellen
 - das heutige Tagesgericht

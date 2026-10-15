@@ -33,6 +33,11 @@ status: "new"
 > Der Schlag traf ihn am Kopf.
 > *The blow hit him on the head.*
 
+**Phrases & Expressions:**
+- **ein Schlag ins Gesicht** — *blow; stroke; hit*
+- **Schlag auf Schlag** — *blow; stroke; hit*
+- **auf einen Schlag** — *blow; stroke; hit*
+
 **Collocations**
 - ein Schlag ins Gesicht
 - Schlag auf Schlag

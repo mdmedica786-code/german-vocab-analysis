@@ -33,6 +33,11 @@ status: "new"
 > Der Verbrauch an Strom ist gestiegen.
 > *The consumption of electricity has risen.*
 
+**Phrases & Expressions:**
+- **der Verbrauch an** — *consumption; use*
+- **den Verbrauch senken** — *consumption; use*
+- **der durchschnittliche Verbrauch** — *consumption; use*
+
 **Collocations**
 - der Verbrauch an
 - den Verbrauch senken

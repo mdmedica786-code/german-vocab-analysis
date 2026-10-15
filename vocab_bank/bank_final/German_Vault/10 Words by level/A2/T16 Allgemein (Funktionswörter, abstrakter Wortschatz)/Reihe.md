@@ -35,6 +35,14 @@ status: "new"
 > Bitte stellen Sie sich der Reihe nach an.
 > *Please line up one after the other.*
 
+**Phrases & Expressions:**
+- **eine Reihe von ...** — a number of ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **eine ganze Reihe von ...** — quite a number of ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **einer Reihe von ...** — of a number of ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · C1)*
+- **eine ganze Reihe** — quite a number *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **der Reihe nach** — *row*
+- **in der ersten Reihe** — *row*
+
 **Collocations**
 - der Reihe nach
 - in der ersten Reihe

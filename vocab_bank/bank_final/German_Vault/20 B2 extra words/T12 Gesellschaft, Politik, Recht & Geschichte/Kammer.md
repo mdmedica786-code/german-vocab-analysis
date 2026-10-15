@@ -33,6 +33,11 @@ status: "new"
 > Die Kammer berät Firmen in rechtlichen Fragen.
 > *The chamber advises companies on legal questions.*
 
+**Phrases & Expressions:**
+- **die Handwerkskammer** — *chamber; association*
+- **die erste Kammer** — *chamber; association*
+- **eine dunkle Kammer** — *chamber; association*
+
 **Collocations**
 - die Handwerkskammer
 - die erste Kammer

@@ -33,6 +33,11 @@ status: "new"
 > Der Gletscher schmilzt jedes Jahr ein Stück weiter ab.
 > *The glacier melts away a bit more every year.*
 
+**Phrases & Expressions:**
+- **der Gletscher schmilzt** — *glacier*
+- **auf dem Gletscher** — *glacier*
+- **Rückgang der Gletscher** — *glacier*
+
 **Collocations**
 - der Gletscher schmilzt
 - auf dem Gletscher

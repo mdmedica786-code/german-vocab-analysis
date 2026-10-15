@@ -33,6 +33,11 @@ status: "new"
 > Die Konjunktur hat sich im letzten Quartal erholt.
 > *The economy recovered in the last quarter.*
 
+**Phrases & Expressions:**
+- **die Konjunktur belebt sich** — *economic situation; boom*
+- **schwache Konjunktur** — *economic situation; boom*
+- **Konjunktur ankurbeln** — *economic situation; boom*
+
 **Collocations**
 - die Konjunktur belebt sich
 - schwache Konjunktur

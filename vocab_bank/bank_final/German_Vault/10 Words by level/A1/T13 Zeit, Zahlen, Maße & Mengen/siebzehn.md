@@ -31,6 +31,9 @@ status: "new"
 > Die Wohnung hat siebzehn Fenster.
 > *The flat has seventeen windows.*
 
+**Phrases & Expressions:**
+- **Die Wohnung hat siebzehn Fenster** — *The flat has seventeen windows* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

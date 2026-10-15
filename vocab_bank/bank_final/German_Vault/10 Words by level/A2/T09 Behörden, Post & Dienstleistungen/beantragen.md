@@ -33,6 +33,9 @@ status: "new"
 > Hast du schon einen neuen Pass beantragt?
 > *Have you already applied for a new passport?*
 
+**Phrases & Expressions:**
+- **Ich beantrage hiermit die Erteilung der Approbation.** — I hereby apply for the granting of the licence to practise. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Antrag stellen]] · B2)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

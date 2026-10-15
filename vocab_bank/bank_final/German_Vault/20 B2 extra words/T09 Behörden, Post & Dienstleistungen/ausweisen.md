@@ -32,6 +32,11 @@ status: "new"
 > Bitte weisen Sie sich mit dem Pass aus.
 > *Please identify yourself with your passport.*
 
+**Phrases & Expressions:**
+- **sich ausweisen** — *to expel; to identify; (sich) to prove one's identity*
+- **jemanden ausweisen** — *to expel; to identify; (sich) to prove one's identity*
+- **aus dem Land ausweisen** — *to expel; to identify; (sich) to prove one's identity*
+
 **Collocations**
 - sich ausweisen
 - jemanden ausweisen

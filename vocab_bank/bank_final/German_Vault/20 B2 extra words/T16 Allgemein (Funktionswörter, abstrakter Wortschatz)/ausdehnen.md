@@ -32,6 +32,11 @@ status: "new"
 > Die Firma will ihr Angebot auf andere Länder ausdehnen.
 > *The company wants to extend its offer to other countries.*
 
+**Phrases & Expressions:**
+- **sich ausdehnen** — *to expand; to extend*
+- **das Angebot ausdehnen** — *to expand; to extend*
+- **eine ausgedehnte Wanderung** — *to expand; to extend*
+
 **Collocations**
 - sich ausdehnen
 - das Angebot ausdehnen

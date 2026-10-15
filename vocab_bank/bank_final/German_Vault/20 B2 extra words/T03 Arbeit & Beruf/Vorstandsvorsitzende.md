@@ -33,6 +33,11 @@ status: "new"
 > Die Vorstandsvorsitzende hat die Jahreszahlen präsentiert.
 > *The chair of the board presented the annual figures.*
 
+**Phrases & Expressions:**
+- **der Vorstandsvorsitzende des Konzerns** — *chair of the board; CEO*
+- **zur Vorstandsvorsitzenden gewählt werden** — *chair of the board; CEO*
+- **die Vorstandsvorsitzende der Bank** — *chair of the board; CEO*
+
 **Collocations**
 - der Vorstandsvorsitzende des Konzerns
 - zur Vorstandsvorsitzenden gewählt werden

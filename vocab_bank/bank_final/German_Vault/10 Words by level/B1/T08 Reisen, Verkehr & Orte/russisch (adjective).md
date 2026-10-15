@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Meine Nachbarin spricht russisch.
 > *My neighbour speaks Russian.*
+
+**Phrases & Expressions:**
+- **Meine Nachbarin spricht russisch** — *My neighbour speaks Russian* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

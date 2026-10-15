@@ -32,6 +32,11 @@ status: "new"
 > Bitte füllen Sie das Wasser im Tank nach.
 > *Please top up the water in the tank.*
 
+**Phrases & Expressions:**
+- **Wasser nachfüllen** — *to refill; to top up*
+- **den Tank nachfüllen** — *to refill; to top up*
+- **das Glas nachfüllen** — *to refill; to top up*
+
 **Collocations**
 - Wasser nachfüllen
 - den Tank nachfüllen

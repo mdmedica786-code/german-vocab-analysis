@@ -34,6 +34,9 @@ status: "new"
 > Im Wald haben wir einen Hirsch gesehen.
 > *We saw a stag in the forest.*
 
+**Phrases & Expressions:**
+- **Im Wald haben wir einen Hirsch gesehen** — *We saw a stag in the forest* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12b (Zwischenmenschliches)
 <!-- bank:end -->
 

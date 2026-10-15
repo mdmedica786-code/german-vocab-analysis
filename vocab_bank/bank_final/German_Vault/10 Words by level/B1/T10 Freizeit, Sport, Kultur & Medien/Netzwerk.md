@@ -35,6 +35,9 @@ status: "new"
 > Soziale Netzwerke sind wichtig.
 > *Social networks are important.*
 
+**Phrases & Expressions:**
+- **Soziale Netzwerke sind wichtig** — *Social networks are important* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 4c (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

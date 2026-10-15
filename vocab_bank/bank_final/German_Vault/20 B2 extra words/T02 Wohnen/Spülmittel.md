@@ -33,6 +33,11 @@ status: "new"
 > Wir haben kein Spülmittel mehr.
 > *We have no washing-up liquid left.*
 
+**Phrases & Expressions:**
+- **Spülmittel kaufen** — *washing-up liquid*
+- **ein Tropfen Spülmittel** — *washing-up liquid*
+- **mit Spülmittel abwaschen** — *washing-up liquid*
+
 **Collocations**
 - Spülmittel kaufen
 - ein Tropfen Spülmittel

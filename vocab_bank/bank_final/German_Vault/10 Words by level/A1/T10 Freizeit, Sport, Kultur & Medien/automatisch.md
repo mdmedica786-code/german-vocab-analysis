@@ -31,6 +31,9 @@ status: "new"
 > Du musst nichts machen. Das geht automatisch.
 > *You don't have to do anything. It happens automatically.*
 
+**Phrases & Expressions:**
+- **Du musst nichts machen. Das geht automatisch** — *You don't have to do anything. It happens automatically* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 10b (Das ist ja praktisch!) · Goethe word list A1
 <!-- bank:end -->
 

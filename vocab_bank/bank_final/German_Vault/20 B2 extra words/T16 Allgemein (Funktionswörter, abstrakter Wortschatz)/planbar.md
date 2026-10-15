@@ -29,6 +29,11 @@ status: "new"
 > Eine Karriere ist nicht immer planbar.
 > *A career is not always possible to plan.*
 
+**Phrases & Expressions:**
+- **gut planbar** — *predictable; possible to plan*
+- **nicht planbar** — *predictable; possible to plan*
+- **eine planbare Zukunft** — *predictable; possible to plan*
+
 **Collocations**
 - gut planbar
 - nicht planbar

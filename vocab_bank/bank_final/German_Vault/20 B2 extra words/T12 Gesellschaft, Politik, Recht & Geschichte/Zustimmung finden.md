@@ -26,6 +26,10 @@ status: "new"
 > Der Plan fand bei der Mehrheit Zustimmung.
 > *The plan met with approval from the majority.*
 
+**Phrases & Expressions:**
+- **breite Zustimmung finden** — *to meet with approval*
+- **auf Zustimmung stoßen** — *to meet with approval*
+
 **Collocations**
 - breite Zustimmung finden
 - auf Zustimmung stoßen

@@ -30,6 +30,10 @@ status: "new"
 > Erstens habe ich keine Zeit, zweitens keine Lust.
 > *Firstly I have no time, secondly no desire.*
 
+**Phrases & Expressions:**
+- **Erstens ..., zweitens ...** — Firstly ..., secondly ... *([[B1-03 Argumentieren, begründen und Beispiele nennen|Argumente aufzählen]] · B1)*
+- **Erstens spricht dafür, dass ...** — Firstly, one point in favour is that ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Argumentationskette bilden]] · B2)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

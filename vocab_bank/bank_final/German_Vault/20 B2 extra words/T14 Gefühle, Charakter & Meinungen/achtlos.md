@@ -29,6 +29,11 @@ status: "new"
 > Er warf das Papier achtlos auf den Boden.
 > *He threw the paper carelessly on the floor.*
 
+**Phrases & Expressions:**
+- **achtlos wegwerfen** — *careless; heedless*
+- **achtlos vorbeigehen** — *careless; heedless*
+- **achtlos mit etwas umgehen** — *careless; heedless*
+
 **Collocations**
 - achtlos wegwerfen
 - achtlos vorbeigehen

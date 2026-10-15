@@ -33,6 +33,11 @@ status: "new"
 > Der Erfinder des Telefons ist weltweit bekannt.
 > *The inventor of the telephone is known worldwide.*
 
+**Phrases & Expressions:**
+- **ein berühmter Erfinder** — *inventor*
+- **der Erfinder der Glühbirne** — *inventor*
+- **als Erfinder bekannt** — *inventor*
+
 **Collocations**
 - ein berühmter Erfinder
 - der Erfinder der Glühbirne

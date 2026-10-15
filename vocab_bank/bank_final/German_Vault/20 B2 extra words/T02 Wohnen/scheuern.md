@@ -31,6 +31,11 @@ status: "new"
 > Er scheuert den Boden mit einer Bürste.
 > *He scrubs the floor with a brush.*
 
+**Phrases & Expressions:**
+- **den Boden scheuern** — *to scrub; to chafe*
+- **der Kragen scheuert am Hals** — *to scrub; to chafe*
+- **sich wund scheuern** — *to scrub; to chafe*
+
 **Collocations**
 - den Boden scheuern
 - der Kragen scheuert am Hals

@@ -34,6 +34,9 @@ status: "new"
 > Hast du dich schon nach einem Zug erkundigt?
 > *Have you already enquired about a train?*
 
+**Phrases & Expressions:**
+- **Hast du dich schon nach einem Zug erkundigt** — *Have you already enquired about a train* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,9 @@ status: "new"
 > Er nähert sich dem Unfallort ganz langsam.
 > *He approaches the scene of the accident very slowly.*
 
+**Phrases & Expressions:**
+- **Er nähert sich dem Unfallort ganz langsam** — *He approaches the scene of the accident very slowly* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

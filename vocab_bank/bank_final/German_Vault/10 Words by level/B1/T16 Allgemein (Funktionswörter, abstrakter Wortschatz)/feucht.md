@@ -31,6 +31,9 @@ status: "new"
 > Die Wäsche ist noch feucht.
 > *The washing is still damp.*
 
+**Phrases & Expressions:**
+- **Über der Lunge sind feuchte Rasselgeräusche zu hören.** — Moist rales can be heard over the lungs. *([[FSP-08 Befunde beschreiben und berichten|Auskultation]] · C1)*
+
 **Source:** Netzwerk neu B1 K5 11a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

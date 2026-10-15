@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Danke für das Kompliment!
 > *Thank you for the compliment!*
+
+**Phrases & Expressions:**
+- **Danke für das Kompliment** — *Thank you for the compliment* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

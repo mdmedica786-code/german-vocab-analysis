@@ -33,6 +33,11 @@ status: "new"
 > Mein Lieblingssport ist Schwimmen.
 > *My favourite sport is swimming.*
 
+**Phrases & Expressions:**
+- **mein Lieblingssport** — *favourite sport*
+- **seinen Lieblingssport ausüben** — *favourite sport*
+- **der Lieblingssport der Kinder** — *favourite sport*
+
 **Collocations**
 - mein Lieblingssport
 - seinen Lieblingssport ausüben

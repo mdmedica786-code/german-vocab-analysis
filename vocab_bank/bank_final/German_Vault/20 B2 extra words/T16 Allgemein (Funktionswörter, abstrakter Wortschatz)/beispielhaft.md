@@ -29,6 +29,11 @@ status: "new"
 > Das Projekt ist beispielhaft für gute Zusammenarbeit.
 > *The project is exemplary for good cooperation.*
 
+**Phrases & Expressions:**
+- **beispielhaft sein** — *exemplary; as an example*
+- **beispielhaft zeigen** — *exemplary; as an example*
+- **ein beispielhaftes Verhalten** — *exemplary; as an example*
+
 **Collocations**
 - beispielhaft sein
 - beispielhaft zeigen

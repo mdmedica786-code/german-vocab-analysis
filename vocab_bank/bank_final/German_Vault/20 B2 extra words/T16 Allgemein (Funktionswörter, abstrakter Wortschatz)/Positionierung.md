@@ -33,6 +33,11 @@ status: "new"
 > Die Positionierung des Produkts auf dem Markt ist wichtig.
 > *The positioning of the product on the market is important.*
 
+**Phrases & Expressions:**
+- **die Positionierung am Markt** — *positioning*
+- **eine klare Positionierung** — *positioning*
+- **die Positionierung des Produkts** — *positioning*
+
 **Collocations**
 - die Positionierung am Markt
 - eine klare Positionierung

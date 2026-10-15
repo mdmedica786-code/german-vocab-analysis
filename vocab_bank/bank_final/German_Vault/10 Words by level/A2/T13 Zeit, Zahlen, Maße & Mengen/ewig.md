@@ -31,6 +31,9 @@ status: "new"
 > Ich warte schon ewig auf mein neues Auto!
 > *I've been waiting for my new car for ages!*
 
+**Phrases & Expressions:**
+- **Ich warte schon ewig auf mein neues Auto** — *I've been waiting for my new car for ages* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

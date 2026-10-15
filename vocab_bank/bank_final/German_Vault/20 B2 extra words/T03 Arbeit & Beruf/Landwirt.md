@@ -33,6 +33,11 @@ status: "new"
 > Der Landwirt bringt morgens frische Milch in den Ort.
 > *The farmer brings fresh milk into the village in the morning.*
 
+**Phrases & Expressions:**
+- **ein Landwirt aus der Region** — *farmer*
+- **ökologisch wirtschaftender Landwirt** — *farmer*
+- **die Landwirte protestieren** — *farmer*
+
 **Collocations**
 - ein Landwirt aus der Region
 - ökologisch wirtschaftender Landwirt

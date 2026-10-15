@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Das Wetter bereitet uns Sorgen.
 > *The weather is causing us worry.*
+
+**Phrases & Expressions:**
+- **Bereiten Sie bitte Adrenalin vor.** — Please prepare adrenaline. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Anweisung geben]] · B2)*
 <!-- bank:end -->
 
 ## My notes

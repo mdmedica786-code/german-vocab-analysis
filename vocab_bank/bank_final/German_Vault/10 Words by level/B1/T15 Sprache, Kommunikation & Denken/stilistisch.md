@@ -30,6 +30,9 @@ status: "new"
 > Der Text ist stilistisch sehr schön.
 > *The text is very good stylistically.*
 
+**Phrases & Expressions:**
+- **Der Text ist stilistisch sehr schön** — *The text is very good stylistically* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

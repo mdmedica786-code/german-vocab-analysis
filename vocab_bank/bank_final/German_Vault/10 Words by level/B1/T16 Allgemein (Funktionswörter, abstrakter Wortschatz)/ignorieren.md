@@ -32,6 +32,9 @@ status: "new"
 > Er ignoriert alle Warnungen.
 > *He ignores all warnings.*
 
+**Phrases & Expressions:**
+- **Er ignoriert alle Warnungen** — *He ignores all warnings* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen)
 <!-- bank:end -->
 

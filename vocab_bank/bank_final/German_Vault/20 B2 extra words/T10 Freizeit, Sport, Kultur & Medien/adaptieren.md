@@ -31,6 +31,11 @@ status: "new"
 > Der Regisseur hat den Roman für das Theater adaptiert.
 > *The director adapted the novel for the theatre.*
 
+**Phrases & Expressions:**
+- **einen Roman adaptieren** — *to adapt; to modify*
+- **ein Konzept adaptieren** — *to adapt; to modify*
+- **für die Bühne adaptieren** — *to adapt; to modify*
+
 **Collocations**
 - einen Roman adaptieren
 - ein Konzept adaptieren

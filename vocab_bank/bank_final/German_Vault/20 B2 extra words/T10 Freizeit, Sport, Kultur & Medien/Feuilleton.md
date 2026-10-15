@@ -33,6 +33,11 @@ status: "new"
 > Im Feuilleton der Zeitung steht eine Kritik zum neuen Roman.
 > *The arts section of the newspaper has a review of the new novel.*
 
+**Phrases & Expressions:**
+- **im Feuilleton** — *arts section; culture pages*
+- **im Feuilleton erscheinen** — *arts section; culture pages*
+- **Feuilleton lesen** — *arts section; culture pages*
+
 **Collocations**
 - im Feuilleton
 - im Feuilleton erscheinen

@@ -33,6 +33,11 @@ status: "new"
 > In der Familie spricht man Mundart.
 > *In the family people speak dialect.*
 
+**Phrases & Expressions:**
+- **Mundart sprechen** — *dialect*
+- **in Mundart** — *dialect*
+- **die Mundart pflegen** — *dialect*
+
 **Collocations**
 - Mundart sprechen
 - in Mundart

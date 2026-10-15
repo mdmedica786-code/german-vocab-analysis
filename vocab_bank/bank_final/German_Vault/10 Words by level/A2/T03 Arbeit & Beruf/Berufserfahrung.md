@@ -34,6 +34,9 @@ status: "new"
 > Ich habe fünf Jahre Berufserfahrung.
 > *I have five years of work experience.*
 
+**Phrases & Expressions:**
+- **Ich habe fünf Jahre Berufserfahrung** — *I have five years of work experience* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 9a (Nach der Schulzeit)
 <!-- bank:end -->
 

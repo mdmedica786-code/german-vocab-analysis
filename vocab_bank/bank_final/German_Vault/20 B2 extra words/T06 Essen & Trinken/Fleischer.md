@@ -33,6 +33,11 @@ status: "new"
 > Beim Fleischer kaufe ich Wurst und Schnitzel.
 > *At the butcher's I buy sausage and schnitzel.*
 
+**Phrases & Expressions:**
+- **beim Fleischer** — *butcher*
+- **der Fleischer im Dorf** — *butcher*
+- **Fleischer und Metzger** — *butcher*
+
 **Collocations**
 - beim Fleischer
 - der Fleischer im Dorf

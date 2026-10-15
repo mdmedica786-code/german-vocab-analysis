@@ -31,6 +31,12 @@ status: "new"
 > Ich diskutiere mit meinem Mann oft über politische Probleme.
 > *I often discuss political problems with my husband.*
 
+**Phrases & Expressions:**
+- **politische Probleme** — *political*
+- **politisch aktiv** — *political*
+- **eine politische Entscheidung** — *political*
+- **politisch korrekt** — *political*
+
 **Collocations**
 - politische Probleme
 - politisch aktiv

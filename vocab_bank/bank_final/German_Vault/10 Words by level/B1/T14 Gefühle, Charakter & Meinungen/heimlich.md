@@ -31,6 +31,9 @@ status: "new"
 > Gestern habe ich gehört, dass mein Sohn heimlich raucht.
 > *Yesterday I heard that my son smokes secretly.*
 
+**Phrases & Expressions:**
+- **Gestern habe ich gehört, dass mein Sohn heimlich raucht** — *Yesterday I heard that my son smokes secretly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 12b (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

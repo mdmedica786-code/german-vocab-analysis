@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > In der Klinik gibt es klare Hierarchien.
 > *There are clear hierarchies in the clinic.*
+
+**Phrases & Expressions:**
+- **In der Klinik gibt es klare Hierarchien** — *There are clear hierarchies in the clinic* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

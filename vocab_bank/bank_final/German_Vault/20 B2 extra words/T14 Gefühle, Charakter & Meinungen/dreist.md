@@ -29,6 +29,11 @@ status: "new"
 > Es war dreist von ihm, sich einfach vorzudrängeln.
 > *It was brazen of him to simply push in line.*
 
+**Phrases & Expressions:**
+- **eine dreiste Lüge** — *brazen; cheeky*
+- **dreist behaupten** — *brazen; cheeky*
+- **dreist sein** — *brazen; cheeky*
+
 **Collocations**
 - eine dreiste Lüge
 - dreist behaupten

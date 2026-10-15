@@ -32,6 +32,11 @@ status: "new"
 > Die Kampagne soll die Menschen für das Thema sensibilisieren.
 > *The campaign is meant to raise people's awareness of the topic.*
 
+**Phrases & Expressions:**
+- **für etwas sensibilisieren** — *to raise awareness; to sensitise*
+- **Mitarbeiter sensibilisieren** — *to raise awareness; to sensitise*
+- **sensibilisiert sein** — *to raise awareness; to sensitise*
+
 **Collocations**
 - für etwas sensibilisieren
 - Mitarbeiter sensibilisieren

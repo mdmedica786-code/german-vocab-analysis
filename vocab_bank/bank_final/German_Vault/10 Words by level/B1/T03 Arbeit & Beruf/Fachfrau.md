@@ -34,6 +34,9 @@ status: "new"
 > Sie ist eine Fachfrau für Datenschutz.
 > *She is an expert in data protection.*
 
+**Phrases & Expressions:**
+- **Sie ist eine Fachfrau für Datenschutz** — *She is an expert in data protection* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

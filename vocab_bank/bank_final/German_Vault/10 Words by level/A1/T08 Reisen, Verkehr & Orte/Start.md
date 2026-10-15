@@ -35,6 +35,9 @@ status: "new"
 > Bleiben Sie bitte während des Starts sitzen.
 > *Please remain seated during take-off.*
 
+**Phrases & Expressions:**
+- **Bleiben Sie bitte während des Starts sitzen** — *Please remain seated during take-off* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 8 (In Hamburg) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Schicken Sie uns einfach ein Fax!
 > *Just send us a fax!*
 
+**Phrases & Expressions:**
+- **Schicken Sie uns einfach ein Fax** — *Just send us a fax* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

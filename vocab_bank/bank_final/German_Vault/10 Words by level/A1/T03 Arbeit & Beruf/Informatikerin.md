@@ -34,6 +34,9 @@ status: "new"
 > Die Informatikerin entwickelt neue Programme.
 > *The computer scientist develops new programs.*
 
+**Phrases & Expressions:**
+- **Die Informatikerin entwickelt neue Programme** — *The computer scientist develops new programs* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

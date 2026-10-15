@@ -34,6 +34,9 @@ status: "new"
 > Die Nachricht war eine echte Sensation.
 > *The news was a real sensation.*
 
+**Phrases & Expressions:**
+- **Die Nachricht war eine echte Sensation** — *The news was a real sensation* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3a (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

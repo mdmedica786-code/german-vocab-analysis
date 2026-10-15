@@ -34,6 +34,9 @@ status: "new"
 > Er hat viele Feinde.
 > *He has many enemies.*
 
+**Phrases & Expressions:**
+- **Er hat viele Feinde** — *He has many enemies* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12b (Zwischenmenschliches)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Der Chef fragt mich oft nach dem Stand der Dinge in meinem Projekt.
 > *My boss often asks me about the status of my project.*
 
+**Phrases & Expressions:**
+- **Sind Ihre Impfungen auf dem neuesten Stand?** — Are your vaccinations up to date? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Impfstatus erfragen]] · B1)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

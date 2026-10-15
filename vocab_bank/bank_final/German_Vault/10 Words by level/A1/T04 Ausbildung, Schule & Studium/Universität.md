@@ -35,6 +35,14 @@ status: "new"
 > Er studiert an der Universität Freiburg.
 > *He studies at the University of Freiburg.*
 
+**Phrases & Expressions:**
+- **an der Universität** — at the university *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Die Zahlen stammen aus einer Studie der Universität ...** — The figures come from a study by the University of ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Quellen nennen]] · B2)*
+- **an der Universität studieren** — *university*
+- **an die Universität gehen** — *university*
+- **die Universität besuchen** — *university*
+- **Universität Heidelberg** — *university*
+
 **Collocations**
 - an der Universität studieren
 - an die Universität gehen

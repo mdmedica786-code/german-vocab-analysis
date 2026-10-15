@@ -42,6 +42,9 @@ status: "new"
 > Ein Franken hat hundert Rappen.
 > *One franc has a hundred centimes.*
 
+**Phrases & Expressions:**
+- **Ein Franken hat hundert Rappen** — *One franc has a hundred centimes* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

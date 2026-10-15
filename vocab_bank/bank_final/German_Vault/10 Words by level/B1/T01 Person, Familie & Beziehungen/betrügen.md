@@ -33,6 +33,9 @@ status: "new"
 > Ich würde meine Familie niemals betrügen.
 > *I would never cheat on my family.*
 
+**Phrases & Expressions:**
+- **Ich würde meine Familie niemals betrügen** — *I would never cheat on my family* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 10a (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

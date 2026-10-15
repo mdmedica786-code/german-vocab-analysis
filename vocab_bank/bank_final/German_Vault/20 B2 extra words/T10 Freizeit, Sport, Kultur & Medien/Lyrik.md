@@ -33,6 +33,11 @@ status: "new"
 > Sie liest gern moderne Lyrik.
 > *She likes reading modern poetry.*
 
+**Phrases & Expressions:**
+- **moderne Lyrik** — *poetry; lyric poetry*
+- **Lyrik und Prosa** — *poetry; lyric poetry*
+- **ein Band mit Lyrik** — *poetry; lyric poetry*
+
 **Collocations**
 - moderne Lyrik
 - Lyrik und Prosa

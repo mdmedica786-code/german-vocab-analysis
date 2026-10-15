@@ -26,6 +26,10 @@ status: "new"
 > Am Wochenende schaffe ich Ordnung in meinen Unterlagen.
 > *At the weekend I'll put my papers in order.*
 
+**Phrases & Expressions:**
+- **Ordnung in etwas bringen** — *to put things in order*
+- **Ordnung halten** — *to put things in order*
+
 **Collocations**
 - Ordnung in etwas bringen
 - Ordnung halten

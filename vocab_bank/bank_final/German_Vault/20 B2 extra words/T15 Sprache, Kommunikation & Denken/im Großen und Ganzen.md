@@ -29,6 +29,10 @@ status: "new"
 > Im Großen und Ganzen bin ich zufrieden.
 > *On the whole I am satisfied.*
 
+**Phrases & Expressions:**
+- **im Ganzen gesehen** — *by and large; on the whole*
+- **insgesamt** — *by and large; on the whole*
+
 **Collocations**
 - im Ganzen gesehen
 - insgesamt

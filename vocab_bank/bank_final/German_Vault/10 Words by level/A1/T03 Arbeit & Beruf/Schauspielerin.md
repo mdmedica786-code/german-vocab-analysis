@@ -35,6 +35,9 @@ status: "new"
 > Die Schauspielerin spielt die Hauptrolle.
 > *The actress plays the leading role.*
 
+**Phrases & Expressions:**
+- **Die Schauspielerin spielt die Hauptrolle** — *The actress plays the leading role* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

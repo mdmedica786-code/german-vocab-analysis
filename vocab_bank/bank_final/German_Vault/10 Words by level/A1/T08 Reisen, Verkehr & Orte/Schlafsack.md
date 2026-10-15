@@ -34,6 +34,9 @@ status: "new"
 > Im Zelt brauche ich einen Schlafsack.
 > *In a tent I need a sleeping bag.*
 
+**Phrases & Expressions:**
+- **Im Zelt brauche ich einen Schlafsack** — *In a tent I need a sleeping bag* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1b (Ab in den Urlaub!)
 <!-- bank:end -->
 

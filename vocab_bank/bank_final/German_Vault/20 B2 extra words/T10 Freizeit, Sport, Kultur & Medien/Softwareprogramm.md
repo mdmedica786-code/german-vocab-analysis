@@ -30,6 +30,11 @@ status: "new"
 > Dieses Softwareprogramm hilft beim Übersetzen.
 > *This software program helps with translating.*
 
+**Phrases & Expressions:**
+- **ein Softwareprogramm installieren** — *software program*
+- **ein Softwareprogramm nutzen** — *software program*
+- **ein Softwareprogramm entwickeln** — *software program*
+
 **Collocations**
 - ein Softwareprogramm installieren
 - ein Softwareprogramm nutzen

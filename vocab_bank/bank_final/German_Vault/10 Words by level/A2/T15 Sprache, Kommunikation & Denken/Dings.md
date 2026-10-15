@@ -34,6 +34,9 @@ status: "new"
 > Gib mir mal das Dings dort!
 > *Pass me that thingamajig over there!*
 
+**Phrases & Expressions:**
+- **Gib mir mal das Dings dort** — *Pass me that thingamajig over there* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 6d (Immer online?)
 <!-- bank:end -->
 

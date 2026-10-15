@@ -32,6 +32,9 @@ status: "new"
 > Er dirigiert das Orchester seit zehn Jahren.
 > *He has been conducting the orchestra for ten years.*
 
+**Phrases & Expressions:**
+- **Er dirigiert das Orchester seit zehn Jahren** — *He has been conducting the orchestra for ten years* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg)
 <!-- bank:end -->
 

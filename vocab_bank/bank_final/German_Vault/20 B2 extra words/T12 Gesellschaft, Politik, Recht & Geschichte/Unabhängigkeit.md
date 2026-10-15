@@ -33,6 +33,11 @@ status: "new"
 > Das Land feierte den Tag der Unabhängigkeit.
 > *The country celebrated Independence Day.*
 
+**Phrases & Expressions:**
+- **finanzielle Unabhängigkeit** — *independence*
+- **Unabhängigkeit erlangen** — *independence*
+- **die Unabhängigkeit der Justiz** — *independence*
+
 **Collocations**
 - finanzielle Unabhängigkeit
 - Unabhängigkeit erlangen

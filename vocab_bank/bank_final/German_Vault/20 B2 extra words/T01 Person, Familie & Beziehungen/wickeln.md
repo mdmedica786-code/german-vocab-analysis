@@ -31,6 +31,11 @@ status: "new"
 > Sie wickelt das Baby dreimal am Tag.
 > *She changes the baby's nappy three times a day.*
 
+**Phrases & Expressions:**
+- **ein Baby wickeln** — *to wrap; to change a nappy*
+- **in eine Decke wickeln** — *to wrap; to change a nappy*
+- **um den Finger wickeln** — *to wrap; to change a nappy*
+
 **Collocations**
 - ein Baby wickeln
 - in eine Decke wickeln

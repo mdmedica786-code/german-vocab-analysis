@@ -32,6 +32,12 @@ status: "new"
 > Wir müssen bis Ende des Monats 5000 Euro aufbringen.
 > *We have to raise 5,000 euros by the end of the month.*
 
+**Phrases & Expressions:**
+- **Ich verstehe, dass Sie sehr aufgebracht sind.** — I understand that you are very upset. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Aufgebrachte beruhigen]] · B2)*
+- **Geld aufbringen** — *to raise (money); to muster; to infuriate*
+- **Verständnis aufbringen** — *to raise (money); to muster; to infuriate*
+- **Mut aufbringen** — *to raise (money); to muster; to infuriate*
+
 **Collocations**
 - Geld aufbringen
 - Verständnis aufbringen

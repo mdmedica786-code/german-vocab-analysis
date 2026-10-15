@@ -33,6 +33,11 @@ status: "new"
 > Bei Ebbe zieht sich das Wasser weit zurück.
 > *At low tide the water retreats far.*
 
+**Phrases & Expressions:**
+- **bei Ebbe** — *low tide; ebb*
+- **Ebbe und Flut** — *low tide; ebb*
+- **die Ebbe setzt ein** — *low tide; ebb*
+
 **Collocations**
 - bei Ebbe
 - Ebbe und Flut

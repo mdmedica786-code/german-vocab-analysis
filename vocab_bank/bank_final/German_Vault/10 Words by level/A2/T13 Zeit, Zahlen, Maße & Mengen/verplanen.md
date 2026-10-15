@@ -32,6 +32,9 @@ status: "new"
 > Mein Wochenende ist schon komplett verplant.
 > *My weekend is already completely booked up.*
 
+**Phrases & Expressions:**
+- **Mein Wochenende ist schon komplett verplant** — *My weekend is already completely booked up* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3c (Gelernt ist gelernt!)
 <!-- bank:end -->
 

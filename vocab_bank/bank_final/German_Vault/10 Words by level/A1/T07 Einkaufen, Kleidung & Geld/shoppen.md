@@ -32,6 +32,9 @@ status: "new"
 > Am Wochenende gehen wir shoppen.
 > *At the weekend we're going shopping.*
 
+**Phrases & Expressions:**
+- **Am Wochenende gehen wir shoppen** — *At the weekend we're going shopping* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 9a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

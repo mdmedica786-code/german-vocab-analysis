@@ -26,6 +26,11 @@ status: "new"
 > Er wollte mir einen Bären aufbinden, aber ich habe es gemerkt.
 > *He wanted to pull my leg, but I noticed.*
 
+**Phrases & Expressions:**
+- **einen Bären aufbinden** — *to pull someone's leg; to tell someone a tall story*
+- **sich keinen Bären aufbinden lassen** — *to pull someone's leg; to tell someone a tall story*
+- **jemanden anschwindeln** — *to pull someone's leg; to tell someone a tall story*
+
 **Collocations**
 - einen Bären aufbinden
 - sich keinen Bären aufbinden lassen

@@ -33,6 +33,11 @@ status: "new"
 > Die Truppen zogen sich aus der Region zurück.
 > *The troops withdrew from the region.*
 
+**Phrases & Expressions:**
+- **Truppen abziehen** — *troop; group; company*
+- **Truppen stationieren** — *troop; group; company*
+- **eine Theatertruppe** — *troop; group; company*
+
 **Collocations**
 - Truppen abziehen
 - Truppen stationieren

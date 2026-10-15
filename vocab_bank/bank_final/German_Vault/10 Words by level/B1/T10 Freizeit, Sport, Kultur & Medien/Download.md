@@ -34,6 +34,9 @@ status: "new"
 > Der Download dauert nur eine Minute.
 > *The download takes only one minute.*
 
+**Phrases & Expressions:**
+- **Der Download dauert nur eine Minute** — *The download takes only one minute* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

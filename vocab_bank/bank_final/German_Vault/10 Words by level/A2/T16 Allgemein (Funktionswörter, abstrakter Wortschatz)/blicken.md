@@ -33,6 +33,11 @@ status: "new"
 > Er blickt kurz auf die Uhr.
 > *He glances briefly at the clock.*
 
+**Phrases & Expressions:**
+- **auf die Uhr blicken** — *to look; to glance; (colloquial) to get it*
+- **aus dem Fenster blicken** — *to look; to glance; (colloquial) to get it*
+- **in die Zukunft blicken** — *to look; to glance; (colloquial) to get it*
+
 **Collocations**
 - auf die Uhr blicken
 - aus dem Fenster blicken

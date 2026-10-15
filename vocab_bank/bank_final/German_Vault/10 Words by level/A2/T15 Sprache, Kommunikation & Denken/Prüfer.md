@@ -35,6 +35,9 @@ status: "new"
 > Der Prüfer stellt schwierige Fragen.
 > *The examiner asks difficult questions.*
 
+**Phrases & Expressions:**
+- **Der Prüfer stellt schwierige Fragen** — *The examiner asks difficult questions* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3c (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

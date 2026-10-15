@@ -34,6 +34,9 @@ status: "new"
 > Achtung! Das Auto rechts hat Vorfahrt!
 > *Attention! The car on the right has right of way!*
 
+**Phrases & Expressions:**
+- **Achtung! Das Auto rechts hat Vorfahrt** — *Attention! The car on the right has right of way* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

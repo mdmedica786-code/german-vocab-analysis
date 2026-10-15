@@ -28,6 +28,11 @@ status: "new"
 > [!example] Beispiel
 > Entweder fahren wir mit dem Zug, oder wir nehmen das Auto.
 > *Either we go by train, or we take the car.*
+
+**Phrases & Expressions:**
+- **entweder ... oder ...** — either ... or ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B1)*
+- **Entweder fahren wir ..., oder wir ...** — Either we go ..., or we ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Alternative nennen]] · B1)*
+- **Es gibt zwei Möglichkeiten: Entweder ..., oder ...** — There are two options: either ..., or ... *([[FSP-11 Therapie und Medikamente erklären|Alternativen nennen]] · B2)*
 <!-- bank:end -->
 
 ## My notes

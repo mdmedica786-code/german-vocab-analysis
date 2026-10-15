@@ -29,6 +29,11 @@ status: "new"
 > Er schaute ungläubig auf die Zahl.
 > *He looked at the number in disbelief.*
 
+**Phrases & Expressions:**
+- **ungläubig staunen** — *incredulous; disbelieving*
+- **ungläubig blicken** — *incredulous; disbelieving*
+- **ein ungläubiges Gesicht** — *incredulous; disbelieving*
+
 **Collocations**
 - ungläubig staunen
 - ungläubig blicken

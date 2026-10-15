@@ -33,6 +33,9 @@ status: "new"
 > Ordnen Sie den Dialog.
 > *Arrange the dialogue.*
 
+**Phrases & Expressions:**
+- **Ich habe verstanden: Ich ordne eine Blutgasanalyse an.** — I have understood: I order a blood gas analysis. *([[FSP-19 Übergabe, Konsil und Rücksprache|Aufträge bestätigen]] · C1)*
+
 **Source:** Netzwerk neu A1 K6 12a (Zeit mit Freunden) · Goethe word list B1
 <!-- bank:end -->
 

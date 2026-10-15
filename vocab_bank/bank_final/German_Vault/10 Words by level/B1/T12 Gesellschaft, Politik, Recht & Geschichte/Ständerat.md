@@ -39,6 +39,9 @@ status: "new"
 > Der Ständerat ist die kleine Kammer des Parlaments.
 > *The Council of States is the small chamber of parliament.*
 
+**Phrases & Expressions:**
+- **Der Ständerat ist die kleine Kammer des Parlaments** — *The Council of States is the small chamber of parliament* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

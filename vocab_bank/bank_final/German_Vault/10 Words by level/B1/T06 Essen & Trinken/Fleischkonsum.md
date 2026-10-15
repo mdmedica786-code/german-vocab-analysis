@@ -34,6 +34,9 @@ status: "new"
 > Der Fleischkonsum sinkt in Deutschland langsam.
 > *Meat consumption is slowly falling in Germany.*
 
+**Phrases & Expressions:**
+- **Der Fleischkonsum sinkt in Deutschland langsam** — *Meat consumption is slowly falling in Germany* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 1a (Umweltfreundlich?)
 <!-- bank:end -->
 

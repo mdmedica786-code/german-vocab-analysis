@@ -29,6 +29,11 @@ status: "new"
 > Die Braut lächelte strahlend.
 > *The bride smiled radiantly.*
 
+**Phrases & Expressions:**
+- **strahlend schön** — *radiant; beaming; brilliant*
+- **ein strahlender Tag** — *radiant; beaming; brilliant*
+- **strahlendes Wetter** — *radiant; beaming; brilliant*
+
 **Collocations**
 - strahlend schön
 - ein strahlender Tag

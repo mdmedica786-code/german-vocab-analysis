@@ -35,6 +35,12 @@ status: "new"
 > Die Firma hat mir ein gutes Angebot geschickt.
 > *The company sent me a good offer.*
 
+**Phrases & Expressions:**
+- **Das Angebot ist gut, jedoch ist es zu teuer.** — The offer is good, however it is too expensive. *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Gegensatz]] · B1)*
+- **ein Angebot schreiben** — *offer*
+- **ein Angebot machen** — *offer*
+- **ein Angebot annehmen** — *offer*
+
 **Collocations**
 - ein Angebot schreiben
 - ein Angebot machen

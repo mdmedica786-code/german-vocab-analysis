@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Benutzer gibt sein Passwort ein.
 > *The user enters his password.*
+
+**Phrases & Expressions:**
+- **Der Benutzer gibt sein Passwort ein** — *The user enters his password* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

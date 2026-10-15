@@ -33,6 +33,11 @@ status: "new"
 > Niemand bestreitet die Notwendigkeit dieser Maßnahme.
 > *Nobody denies the necessity of this measure.*
 
+**Phrases & Expressions:**
+- **die Notwendigkeit erkennen** — *necessity*
+- **aus der Notwendigkeit heraus** — *necessity*
+- **keine Notwendigkeit sehen** — *necessity*
+
 **Collocations**
 - die Notwendigkeit erkennen
 - aus der Notwendigkeit heraus

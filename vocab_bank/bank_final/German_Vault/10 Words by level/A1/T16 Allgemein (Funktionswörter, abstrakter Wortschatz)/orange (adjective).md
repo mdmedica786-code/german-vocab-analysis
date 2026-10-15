@@ -32,6 +32,9 @@ status: "new"
 > Ich möchte eine orange Jacke.
 > *I would like an orange jacket.*
 
+**Phrases & Expressions:**
+- **Ich möchte eine orange Jacke** — *I would like an orange jacket* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 9a (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

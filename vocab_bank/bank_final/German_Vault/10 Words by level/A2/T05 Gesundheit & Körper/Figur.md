@@ -35,6 +35,12 @@ status: "new"
 > Lars hat eine gute Figur.
 > *Lars has a good figure.*
 
+**Phrases & Expressions:**
+- **eine gute Figur haben** — *figure; character*
+- **auf seine Figur achten** — *figure; character*
+- **eine historische Figur** — *figure; character*
+- **eine Figur im Spiel** — *figure; character*
+
 **Collocations**
 - eine gute Figur haben
 - auf seine Figur achten

@@ -33,6 +33,11 @@ status: "new"
 > Der Löwe ist ein Raubtier.
 > *The lion is a predator.*
 
+**Phrases & Expressions:**
+- **ein gefährliches Raubtier** — *predator; beast of prey*
+- **von einem Raubtier gejagt** — *predator; beast of prey*
+- **Raubtiere füttern** — *predator; beast of prey*
+
 **Collocations**
 - ein gefährliches Raubtier
 - von einem Raubtier gejagt

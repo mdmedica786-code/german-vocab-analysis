@@ -31,6 +31,12 @@ status: "new"
 > Dieses Mineralwasser gibt es nur als Sechserpack, nicht einzeln.
 > *This mineral water is only sold as a six-pack, not individually.*
 
+**Phrases & Expressions:**
+- **einzelne Teile** — *single; individual*
+- **einzeln verpacken** — *single; individual*
+- **im Einzelnen** — *single; individual*
+- **jeder Einzelne** — *single; individual*
+
 **Collocations**
 - einzelne Teile
 - einzeln verpacken

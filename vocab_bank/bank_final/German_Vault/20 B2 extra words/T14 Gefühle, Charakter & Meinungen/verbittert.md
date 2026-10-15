@@ -29,6 +29,11 @@ status: "new"
 > Nach den vielen Enttäuschungen wurde er verbittert.
 > *After the many disappointments he became embittered.*
 
+**Phrases & Expressions:**
+- **verbittert sein** — *embittered; bitter*
+- **verbittert wirken** — *embittered; bitter*
+- **verbittert werden** — *embittered; bitter*
+
 **Collocations**
 - verbittert sein
 - verbittert wirken

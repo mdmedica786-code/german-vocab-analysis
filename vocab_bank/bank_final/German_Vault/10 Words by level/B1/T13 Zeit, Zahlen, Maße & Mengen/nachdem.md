@@ -32,6 +32,10 @@ status: "new"
 > Nachdem wir gegessen hatten, sind wir spazieren gegangen.
 > *After we had eaten, we went for a walk.*
 
+**Phrases & Expressions:**
+- **Nachdem ich ... hatte, habe ich ...** — After I had ..., I ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Zeitliche Abfolge erzählen]] · B1)*
+- **Nachdem wir ... hatten, ...** — After we had ..., ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Zeit: nachher]] · B1)*
+
 **Source:** Netzwerk neu B1 K7 2b (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

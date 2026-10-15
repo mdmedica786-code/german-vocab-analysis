@@ -32,6 +32,11 @@ status: "new"
 > Ich könnte verzweifeln, wenn ich an die Prüfung denke.
 > *I could despair when I think of the exam.*
 
+**Phrases & Expressions:**
+- **an etwas verzweifeln** — *to despair*
+- **zum Verzweifeln sein** — *to despair*
+- **verzweifelt suchen** — *to despair*
+
 **Collocations**
 - an etwas verzweifeln
 - zum Verzweifeln sein

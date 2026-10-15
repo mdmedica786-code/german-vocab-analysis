@@ -33,6 +33,11 @@ status: "new"
 > Viele Bürger sehen die Pläne mit Skepsis.
 > *Many citizens view the plans with scepticism.*
 
+**Phrases & Expressions:**
+- **mit Skepsis** — *scepticism*
+- **Skepsis äußern** — *scepticism*
+- **berechtigte Skepsis** — *scepticism*
+
 **Collocations**
 - mit Skepsis
 - Skepsis äußern

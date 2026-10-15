@@ -33,6 +33,11 @@ status: "new"
 > An Weihnachten gibt es in manchen Familien Karpfen.
 > *At Christmas some families eat carp.*
 
+**Phrases & Expressions:**
+- **Karpfen blau** — *carp*
+- **Karpfen im Teich** — *carp*
+- **ein Karpfen zu Weihnachten** — *carp*
+
 **Collocations**
 - Karpfen blau
 - Karpfen im Teich

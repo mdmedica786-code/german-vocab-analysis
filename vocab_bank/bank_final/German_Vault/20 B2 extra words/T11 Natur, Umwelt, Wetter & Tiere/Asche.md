@@ -33,6 +33,11 @@ status: "new"
 > Die Asche im Ofen ist noch warm.
 > *The ash in the stove is still warm.*
 
+**Phrases & Expressions:**
+- **in Schutt und Asche** — *ash; ashes*
+- **die Asche abstreifen** — *ash; ashes*
+- **die Asche des Vulkans** — *ash; ashes*
+
 **Collocations**
 - in Schutt und Asche
 - die Asche abstreifen

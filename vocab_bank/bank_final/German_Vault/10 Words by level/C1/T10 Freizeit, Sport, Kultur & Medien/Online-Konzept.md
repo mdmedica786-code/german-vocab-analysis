@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Das Online-Konzept der Schule funktioniert gut.
 > *The school's online concept works well.*
+
+**Phrases & Expressions:**
+- **Das Online-Konzept der Schule funktioniert gut** — *The school's online concept works well* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

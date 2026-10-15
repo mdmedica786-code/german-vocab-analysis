@@ -34,6 +34,9 @@ status: "new"
 > Jedes Vereinsmitglied zahlt einen kleinen Beitrag.
 > *Every club member pays a small fee.*
 
+**Phrases & Expressions:**
+- **Jedes Vereinsmitglied zahlt einen kleinen Beitrag** — *Every club member pays a small fee* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

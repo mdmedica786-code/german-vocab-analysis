@@ -33,6 +33,9 @@ status: "new"
 > Unsere Sekretärin berät Sie gern, wenn Sie Fragen haben.
 > *Our secretary will gladly advise you if you have questions.*
 
+**Phrases & Expressions:**
+- **Unsere Sekretärin berät Sie gern, wenn Sie Fragen haben** — *Our secretary will gladly advise you if you have questions* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 2a (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

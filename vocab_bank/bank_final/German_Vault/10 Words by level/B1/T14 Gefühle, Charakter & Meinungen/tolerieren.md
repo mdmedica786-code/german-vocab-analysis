@@ -32,6 +32,9 @@ status: "new"
 > Ich toleriere keine Lügen.
 > *I do not tolerate lies.*
 
+**Phrases & Expressions:**
+- **Ich toleriere keine Lügen** — *I do not tolerate lies* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 10c (Geld regiert die Welt?)
 <!-- bank:end -->
 

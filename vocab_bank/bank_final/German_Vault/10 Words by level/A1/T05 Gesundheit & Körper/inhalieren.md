@@ -32,6 +32,9 @@ status: "new"
 > Bei Husten sollten Sie zweimal am Tag inhalieren.
 > *For a cough you should inhale twice a day.*
 
+**Phrases & Expressions:**
+- **Bei Husten sollten Sie zweimal am Tag inhalieren** — *For a cough you should inhale twice a day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 12b (Fit und gesund)
 <!-- bank:end -->
 

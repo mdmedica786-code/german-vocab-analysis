@@ -29,6 +29,10 @@ status: "new"
 > Er hat in der neuen Stadt schnell Fuß gefasst.
 > *He quickly gained a foothold in the new city.*
 
+**Phrases & Expressions:**
+- **beruflich Fuß fassen** — *to gain a foothold; to settle in*
+- **auf dem Markt Fuß fassen** — *to gain a foothold; to settle in*
+
 **Collocations**
 - beruflich Fuß fassen
 - auf dem Markt Fuß fassen

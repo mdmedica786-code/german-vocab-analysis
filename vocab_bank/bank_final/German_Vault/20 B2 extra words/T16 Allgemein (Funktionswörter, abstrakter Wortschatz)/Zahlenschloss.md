@@ -33,6 +33,11 @@ status: "new"
 > Ich habe die Zahl für das Zahlenschloss vergessen.
 > *I have forgotten the number for the combination lock.*
 
+**Phrases & Expressions:**
+- **ein Zahlenschloss öffnen** — *combination lock*
+- **das Zahlenschloss knacken** — *combination lock*
+- **ein Fahrrad mit Zahlenschloss** — *combination lock*
+
 **Collocations**
 - ein Zahlenschloss öffnen
 - das Zahlenschloss knacken

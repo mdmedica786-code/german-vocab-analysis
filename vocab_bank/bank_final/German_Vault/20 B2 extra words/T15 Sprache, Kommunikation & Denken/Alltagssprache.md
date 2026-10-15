@@ -33,6 +33,11 @@ status: "new"
 > In der Alltagssprache sagt man oft „Handy“.
 > *In everyday language people often say "Handy".*
 
+**Phrases & Expressions:**
+- **in der Alltagssprache** — *everyday language; colloquial speech*
+- **die Alltagssprache verstehen** — *everyday language; colloquial speech*
+- **die gesprochene Alltagssprache** — *everyday language; colloquial speech*
+
 **Collocations**
 - in der Alltagssprache
 - die Alltagssprache verstehen

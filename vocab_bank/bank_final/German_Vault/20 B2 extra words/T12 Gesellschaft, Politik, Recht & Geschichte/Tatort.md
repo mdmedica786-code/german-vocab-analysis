@@ -33,6 +33,11 @@ status: "new"
 > Die Polizei sperrte den Tatort ab.
 > *The police cordoned off the crime scene.*
 
+**Phrases & Expressions:**
+- **am Tatort** — *crime scene; scene of the crime*
+- **den Tatort absperren** — *crime scene; scene of the crime*
+- **zum Tatort fahren** — *crime scene; scene of the crime*
+
 **Collocations**
 - am Tatort
 - den Tatort absperren

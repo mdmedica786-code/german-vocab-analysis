@@ -32,6 +32,14 @@ status: "new"
 > Er hat den Termin leider nicht wahrgenommen.
 > *Unfortunately he did not keep the appointment.*
 
+**Phrases & Expressions:**
+- **nicht wahr?** — isn't it? / right? *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B1)*
+- **Schönes Wetter heute, nicht wahr?** — Nice weather today, isn't it? *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Gespräch beginnen]] · A2)*
+- **... nimmt kontinuierlich zu.** — ... is steadily increasing. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Anstieg beschreiben]] · B2)*
+- **einen Termin wahrnehmen** — *to perceive; to take up (an appointment)*
+- **Veränderungen wahrnehmen** — *to perceive; to take up (an appointment)*
+- **Interessen wahrnehmen** — *to perceive; to take up (an appointment)*
+
 **Collocations**
 - einen Termin wahrnehmen
 - Veränderungen wahrnehmen

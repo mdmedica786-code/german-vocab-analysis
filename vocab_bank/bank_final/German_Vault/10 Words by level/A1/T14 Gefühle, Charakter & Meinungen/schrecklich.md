@@ -31,6 +31,9 @@ status: "new"
 > Es tut mir schrecklich leid!
 > *I'm terribly sorry!*
 
+**Phrases & Expressions:**
+- **Es tut mir schrecklich leid** — *I'm terribly sorry* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 9d (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->
 

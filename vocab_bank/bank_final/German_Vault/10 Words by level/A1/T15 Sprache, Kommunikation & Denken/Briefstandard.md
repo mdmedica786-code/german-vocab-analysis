@@ -31,6 +31,9 @@ status: "new"
 > Ein Briefstandard hilft beim Schreiben.
 > *A letter template helps with writing.*
 
+**Phrases & Expressions:**
+- **Ein Briefstandard hilft beim Schreiben** — *A letter template helps with writing* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 8a (Arbeitsalltag)
 <!-- bank:end -->
 

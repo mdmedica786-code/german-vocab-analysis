@@ -33,6 +33,11 @@ status: "new"
 > Wir müssen die Parameter noch anpassen.
 > *We still have to adjust the parameters.*
 
+**Phrases & Expressions:**
+- **Parameter festlegen** — *parameter*
+- **wichtige Parameter** — *parameter*
+- **die Parameter ändern** — *parameter*
+
 **Collocations**
 - Parameter festlegen
 - wichtige Parameter

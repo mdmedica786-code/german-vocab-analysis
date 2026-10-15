@@ -42,6 +42,9 @@ status: "new"
 > Der Regierungsrat leitet den Kanton.
 > *The cantonal government member heads the canton.*
 
+**Phrases & Expressions:**
+- **Der Regierungsrat leitet den Kanton** — *The cantonal government member heads the canton* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

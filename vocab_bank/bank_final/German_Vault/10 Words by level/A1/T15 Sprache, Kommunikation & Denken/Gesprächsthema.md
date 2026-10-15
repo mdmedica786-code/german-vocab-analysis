@@ -34,6 +34,9 @@ status: "new"
 > Das Wetter ist ein beliebtes Gesprächsthema.
 > *The weather is a popular topic of conversation.*
 
+**Phrases & Expressions:**
+- **Das Wetter ist ein beliebtes Gesprächsthema** — *The weather is a popular topic of conversation* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 9c (Arbeitsalltag)
 <!-- bank:end -->
 

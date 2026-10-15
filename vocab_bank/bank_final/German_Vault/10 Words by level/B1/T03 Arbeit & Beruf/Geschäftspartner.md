@@ -34,6 +34,9 @@ status: "new"
 > Mein Geschäftspartner kommt aus Italien.
 > *My business partner comes from Italy.*
 
+**Phrases & Expressions:**
+- **Mein Geschäftspartner kommt aus Italien** — *My business partner comes from Italy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 13b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

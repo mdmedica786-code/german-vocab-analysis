@@ -33,6 +33,11 @@ status: "new"
 > Das Vorhandensein von Fehlern wurde bestätigt.
 > *The presence of errors was confirmed.*
 
+**Phrases & Expressions:**
+- **das Vorhandensein von** — *presence; existence*
+- **das Vorhandensein prüfen** — *presence; existence*
+- **bei Vorhandensein** — *presence; existence*
+
 **Collocations**
 - das Vorhandensein von
 - das Vorhandensein prüfen

@@ -30,6 +30,9 @@ status: "new"
 > Mein Vater ist seit zwei Jahren pensioniert.
 > *My father has been retired for two years.*
 
+**Phrases & Expressions:**
+- **pensioniert werden** — to be retired *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B2)*
+
 **Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Behörde sieht dringenden Handlungsbedarf.
 > *The authority sees an urgent need for action.*
 
+**Phrases & Expressions:**
+- **Handlungsbedarf sehen** — *need for action*
+- **dringender Handlungsbedarf** — *need for action*
+- **kein Handlungsbedarf** — *need for action*
+
 **Collocations**
 - Handlungsbedarf sehen
 - dringender Handlungsbedarf

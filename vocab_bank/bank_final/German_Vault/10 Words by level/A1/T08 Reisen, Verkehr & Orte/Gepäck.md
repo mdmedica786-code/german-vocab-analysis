@@ -35,6 +35,9 @@ status: "new"
 > Wollen Sie Ihr Gepäck mitnehmen?
 > *Do you want to take your luggage with you?*
 
+**Phrases & Expressions:**
+- **Wollen Sie Ihr Gepäck mitnehmen** — *Do you want to take your luggage with you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1b (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

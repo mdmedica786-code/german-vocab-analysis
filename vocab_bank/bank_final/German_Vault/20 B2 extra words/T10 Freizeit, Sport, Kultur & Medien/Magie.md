@@ -33,6 +33,11 @@ status: "new"
 > Er glaubt an Magie und Zauberei.
 > *He believes in magic and sorcery.*
 
+**Phrases & Expressions:**
+- **schwarze Magie** — *magic*
+- **die Magie des Augenblicks** — *magic*
+- **Magie und Zauberei** — *magic*
+
 **Collocations**
 - schwarze Magie
 - die Magie des Augenblicks

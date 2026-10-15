@@ -33,6 +33,11 @@ status: "new"
 > In der Stadtluft sind viele Abgase.
 > *There are many exhaust fumes in the city air.*
 
+**Phrases & Expressions:**
+- **die Stadtluft atmen** — *city air*
+- **Stadtluft macht frei** — *city air*
+- **frische Luft statt Stadtluft** — *city air*
+
 **Collocations**
 - die Stadtluft atmen
 - Stadtluft macht frei

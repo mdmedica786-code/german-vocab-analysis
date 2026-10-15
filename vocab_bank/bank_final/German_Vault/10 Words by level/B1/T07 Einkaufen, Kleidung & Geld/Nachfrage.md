@@ -35,6 +35,9 @@ status: "new"
 > Die Nachfrage für dieses Produkt ist groß.
 > *The demand for this product is high.*
 
+**Phrases & Expressions:**
+- **Da bin ich mir nicht sicher, ich möchte lieber nachfragen.** — I'm not sure about that; I would rather ask. *([[FSP-19 Übergabe, Konsil und Rücksprache|Unsicherheit ausdrücken]] · B2)*
+
 **Source:** Netzwerk neu B1 K8 9a (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

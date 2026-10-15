@@ -33,6 +33,11 @@ status: "new"
 > Die Leistungsfähigkeit des Computers ist sehr hoch.
 > *The performance of the computer is very high.*
 
+**Phrases & Expressions:**
+- **die Leistungsfähigkeit steigern** — *performance; capacity*
+- **körperliche Leistungsfähigkeit** — *performance; capacity*
+- **an der Grenze der Leistungsfähigkeit** — *performance; capacity*
+
 **Collocations**
 - die Leistungsfähigkeit steigern
 - körperliche Leistungsfähigkeit

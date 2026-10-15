@@ -35,6 +35,9 @@ status: "new"
 > Kannst du Golf spielen?
 > *Can you play golf?*
 
+**Phrases & Expressions:**
+- **Kannst du Golf spielen** — *Can you play golf* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > Er leert jeden Morgen den Mülleimer.
 > *He empties the bin every morning.*
 
+**Phrases & Expressions:**
+- **Er leert jeden Morgen den Mülleimer** — *He empties the bin every morning* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt)
 <!-- bank:end -->
 

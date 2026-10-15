@@ -35,6 +35,9 @@ status: "new"
 > Ich komme aus der Schweiz. Das ist meine Heimat.
 > *I come from Switzerland. That is my home.*
 
+**Phrases & Expressions:**
+- **Ich komme aus der Schweiz. Das ist meine Heimat** — *I come from Switzerland. That is my home* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 7a (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

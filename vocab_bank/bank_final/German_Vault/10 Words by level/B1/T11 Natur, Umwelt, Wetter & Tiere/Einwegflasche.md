@@ -34,6 +34,9 @@ status: "new"
 > Die Einwegflasche wird nach dem Gebrauch weggeworfen.
 > *The disposable bottle is thrown away after use.*
 
+**Phrases & Expressions:**
+- **Die Einwegflasche wird nach dem Gebrauch weggeworfen** — *The disposable bottle is thrown away after use* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 4b (Umweltfreundlich?)
 <!-- bank:end -->
 

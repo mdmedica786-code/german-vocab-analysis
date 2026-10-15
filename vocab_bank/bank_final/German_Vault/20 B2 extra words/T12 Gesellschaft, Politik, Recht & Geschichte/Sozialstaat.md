@@ -33,6 +33,11 @@ status: "new"
 > Der Sozialstaat soll Menschen in Not unterstützen.
 > *The welfare state is meant to support people in need.*
 
+**Phrases & Expressions:**
+- **den Sozialstaat reformieren** — *welfare state*
+- **der deutsche Sozialstaat** — *welfare state*
+- **Sozialstaat stärken** — *welfare state*
+
 **Collocations**
 - den Sozialstaat reformieren
 - der deutsche Sozialstaat

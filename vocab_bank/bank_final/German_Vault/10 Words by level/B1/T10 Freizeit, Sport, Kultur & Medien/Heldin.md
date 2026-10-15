@@ -35,6 +35,9 @@ status: "new"
 > Sie ist die Heldin des Tages.
 > *She is the heroine of the day.*
 
+**Phrases & Expressions:**
+- **Sie ist die Heldin des Tages** — *She is the heroine of the day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Fassade des Hauses ist frisch gestrichen.
 > *The facade of the house has been freshly painted.*
 
+**Phrases & Expressions:**
+- **Die Fassade des Hauses ist frisch gestrichen** — *The facade of the house has been freshly painted* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

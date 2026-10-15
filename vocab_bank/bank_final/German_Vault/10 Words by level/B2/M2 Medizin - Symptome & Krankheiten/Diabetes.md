@@ -33,6 +33,14 @@ status: "new"
 > Er hat seit Jahren Diabetes.
 > *He has had diabetes for years.*
 
+**Phrases & Expressions:**
+- **Diabetes heißt im Alltag Zuckerkrankheit.** — In everyday language diabetes is called sugar disease. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B1)*
+- **Vorerkrankungen: arterielle Hypertonie, Diabetes mellitus Typ 2.** — Previous illnesses: arterial hypertension, type 2 diabetes mellitus. *([[FSP-20 Arztbrief und Dokumentation|Vorerkrankungen nennen]] · C1)*
+- **Diabetes haben** — *diabetes*
+- **Diabetes Typ 2** — *diabetes*
+- **an Diabetes leiden** — *diabetes*
+- **Diabetes behandeln** — *diabetes*
+
 **Collocations**
 - Diabetes haben
 - Diabetes Typ 2

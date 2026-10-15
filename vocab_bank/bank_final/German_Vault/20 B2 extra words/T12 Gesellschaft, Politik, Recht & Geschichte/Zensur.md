@@ -33,6 +33,11 @@ status: "new"
 > In einigen Ländern gibt es noch immer eine strenge Zensur.
 > *In some countries there is still strict censorship.*
 
+**Phrases & Expressions:**
+- **Zensur ausüben** — *censorship*
+- **der Zensur unterliegen** — *censorship*
+- **Zensur der Presse** — *censorship*
+
 **Collocations**
 - Zensur ausüben
 - der Zensur unterliegen

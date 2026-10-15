@@ -31,6 +31,14 @@ status: "new"
 > Sie müssen die Tabletten regelmäßig nehmen.
 > *You have to take the tablets regularly.*
 
+**Phrases & Expressions:**
+- **Seit wann nehmen Sie die Schmerzmittel regelmäßig?** — Since when have you been taking the painkillers regularly? *([[FSP-03 Schmerzanamnese|Schmerzmittel erfragen]] · B2)*
+- **Nehmen Sie regelmäßig Medikamente ein?** — Do you take medicines regularly? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Dauermedikation]] · B1)*
+- **Gehen Sie regelmäßig zur Vorsorgeuntersuchung?** — Do you go for check-ups regularly? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Vorsorge erfragen]] · B1)*
+- **Treiben Sie regelmäßig Sport?** — Do you exercise regularly? *([[FSP-05 Familien- und Sozialanamnese|Bewegung erfragen]] · A2)*
+- **Es ist wichtig, dass Sie Ihre Medikamente regelmäßig einnehmen.** — It is important that you take your medication regularly. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Therapietreue]] · B1)*
+- **Ich mache mir Sorgen, weil Sie die Tabletten nicht regelmäßig nehmen.** — I'm worried because you are not taking the tablets regularly. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Therapietreue]] · B2)*
+
 **Collocations**
 - regelmäßig nehmen
 - regelmäßig kontrollieren

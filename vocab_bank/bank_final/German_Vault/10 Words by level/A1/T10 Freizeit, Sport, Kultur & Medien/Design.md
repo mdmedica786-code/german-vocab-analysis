@@ -34,6 +34,9 @@ status: "new"
 > Das Design der Lampe ist modern.
 > *The design of the lamp is modern.*
 
+**Phrases & Expressions:**
+- **Das Design der Lampe ist modern** — *The design of the lamp is modern* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

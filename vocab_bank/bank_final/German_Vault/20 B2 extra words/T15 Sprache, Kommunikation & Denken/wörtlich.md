@@ -26,6 +26,11 @@ status: "new"
 > Das darf man nicht wörtlich nehmen.
 > *You must not take that literally.*
 
+**Phrases & Expressions:**
+- **wörtlich nehmen** — *literal; word for word*
+- **wörtlich übersetzen** — *literal; word for word*
+- **die wörtliche Rede** — *literal; word for word*
+
 **Collocations**
 - wörtlich nehmen
 - wörtlich übersetzen

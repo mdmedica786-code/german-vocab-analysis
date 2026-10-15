@@ -29,6 +29,11 @@ status: "new"
 > Er ist unfähig, Fehler zuzugeben.
 > *He is unable to admit mistakes.*
 
+**Phrases & Expressions:**
+- **unfähig sein, zu** — *incapable; unable; incompetent*
+- **zu etwas unfähig** — *incapable; unable; incompetent*
+- **ein unfähiger Chef** — *incapable; unable; incompetent*
+
 **Collocations**
 - unfähig sein, zu
 - zu etwas unfähig

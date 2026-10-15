@@ -33,6 +33,11 @@ status: "new"
 > Mit Zeichensprache konnten wir uns trotzdem verständigen.
 > *We were still able to communicate using gestures.*
 
+**Phrases & Expressions:**
+- **in Zeichensprache sprechen** — *gestures; sign-based communication (not formal sign language, which is Gebärdensprache)*
+- **sich mit Zeichensprache verständigen** — *gestures; sign-based communication (not formal sign language, which is Gebärdensprache)*
+- **Zeichensprache lernen** — *gestures; sign-based communication (not formal sign language, which is Gebärdensprache)*
+
 **Collocations**
 - in Zeichensprache sprechen
 - sich mit Zeichensprache verständigen

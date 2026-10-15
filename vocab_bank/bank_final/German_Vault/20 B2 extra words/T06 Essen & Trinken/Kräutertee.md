@@ -33,6 +33,11 @@ status: "new"
 > Bei Husten trinke ich gern einen Kräutertee.
 > *When I have a cough I like to drink a herbal tea.*
 
+**Phrases & Expressions:**
+- **einen Kräutertee trinken** — *herbal tea*
+- **ein Kräutertee mit Honig** — *herbal tea*
+- **Kräutertee kochen** — *herbal tea*
+
 **Collocations**
 - einen Kräutertee trinken
 - ein Kräutertee mit Honig

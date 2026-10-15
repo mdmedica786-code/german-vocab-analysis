@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Niveau des Kurses ist hoch.
 > *The level of the course is high.*
+
+**Phrases & Expressions:**
+- **Das Niveau des Kurses ist hoch** — *The level of the course is high* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

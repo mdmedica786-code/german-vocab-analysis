@@ -33,6 +33,13 @@ status: "new"
 > Die Entzündung geht langsam zurück.
 > *The inflammation is slowly subsiding.*
 
+**Phrases & Expressions:**
+- **Eine Entzündung bedeutet, dass der Körper auf etwas reagiert.** — An inflammation means that the body is reacting to something. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B1)*
+- **eine akute Entzündung** — *inflammation*
+- **die Entzündung behandeln** — *inflammation*
+- **Entzündung der Lunge** — *inflammation*
+- **Anzeichen einer Entzündung** — *inflammation*
+
 **Collocations**
 - eine akute Entzündung
 - die Entzündung behandeln

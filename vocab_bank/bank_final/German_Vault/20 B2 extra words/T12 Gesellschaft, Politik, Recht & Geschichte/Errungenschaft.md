@@ -33,6 +33,11 @@ status: "new"
 > Das Wahlrecht ist eine wichtige Errungenschaft.
 > *The right to vote is an important achievement.*
 
+**Phrases & Expressions:**
+- **eine soziale Errungenschaft** — *achievement; accomplishment*
+- **eine große Errungenschaft** — *achievement; accomplishment*
+- **Errungenschaften der Technik** — *achievement; accomplishment*
+
 **Collocations**
 - eine soziale Errungenschaft
 - eine große Errungenschaft

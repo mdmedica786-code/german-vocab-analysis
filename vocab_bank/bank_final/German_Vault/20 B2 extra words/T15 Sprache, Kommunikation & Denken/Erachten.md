@@ -30,6 +30,11 @@ status: "new"
 > Meines Erachtens ist der Plan zu teuer.
 > *In my opinion the plan is too expensive.*
 
+**Phrases & Expressions:**
+- **meines Erachtens** — *opinion; view (only in "meines Erachtens")*
+- **meinem Erachten nach** — *opinion; view (only in "meines Erachtens")*
+- **nach unserem Erachten** — *opinion; view (only in "meines Erachtens")*
+
 **Collocations**
 - meines Erachtens
 - meinem Erachten nach

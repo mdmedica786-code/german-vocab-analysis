@@ -31,6 +31,11 @@ status: "new"
 > Sie verfasste einen langen Brief an die Behörde.
 > *She wrote a long letter to the authority.*
 
+**Phrases & Expressions:**
+- **einen Text verfassen** — *to write; to compose; to draft*
+- **ein Gutachten verfassen** — *to write; to compose; to draft*
+- **einen Brief verfassen** — *to write; to compose; to draft*
+
 **Collocations**
 - einen Text verfassen
 - ein Gutachten verfassen

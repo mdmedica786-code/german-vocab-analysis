@@ -33,6 +33,11 @@ status: "new"
 > Der Kleinkünstler tritt in kleinen Theatern auf.
 > *The cabaret performer appears in small theatres.*
 
+**Phrases & Expressions:**
+- **ein Kleinkünstler auf der Bühne** — *cabaret performer; small-stage artist (male)*
+- **als Kleinkünstler arbeiten** — *cabaret performer; small-stage artist (male)*
+- **ein bekannter Kleinkünstler** — *cabaret performer; small-stage artist (male)*
+
 **Collocations**
 - ein Kleinkünstler auf der Bühne
 - als Kleinkünstler arbeiten

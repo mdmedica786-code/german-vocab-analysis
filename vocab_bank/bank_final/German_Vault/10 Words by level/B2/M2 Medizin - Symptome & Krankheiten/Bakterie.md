@@ -33,6 +33,12 @@ status: "new"
 > Diese Bakterie verursacht eine Lungenentzündung.
 > *This bacterium causes pneumonia.*
 
+**Phrases & Expressions:**
+- **Bakterien züchten** — *bacterium*
+- **Bakterien abtöten** — *bacterium*
+- **gegen Bakterien wirken** — *bacterium*
+- **Bakterien im Blut** — *bacterium*
+
 **Collocations**
 - Bakterien züchten
 - Bakterien abtöten

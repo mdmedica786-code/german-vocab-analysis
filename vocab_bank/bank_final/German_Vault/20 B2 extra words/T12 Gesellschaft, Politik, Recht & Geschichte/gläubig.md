@@ -29,6 +29,11 @@ status: "new"
 > Sie ist eine gläubige Christin.
 > *She is a devout Christian.*
 
+**Phrases & Expressions:**
+- **gläubig sein** — *religious; devout*
+- **ein gläubiger Mensch** — *religious; devout*
+- **streng gläubig** — *religious; devout*
+
 **Collocations**
 - gläubig sein
 - ein gläubiger Mensch

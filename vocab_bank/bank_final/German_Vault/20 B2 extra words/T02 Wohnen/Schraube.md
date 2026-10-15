@@ -33,6 +33,11 @@ status: "new"
 > Eine Schraube am Stuhl ist locker.
 > *A screw on the chair is loose.*
 
+**Phrases & Expressions:**
+- **eine Schraube festdrehen** — *screw*
+- **eine Schraube lösen** — *screw*
+- **eine Schraube locker haben** — *screw*
+
 **Collocations**
 - eine Schraube festdrehen
 - eine Schraube lösen

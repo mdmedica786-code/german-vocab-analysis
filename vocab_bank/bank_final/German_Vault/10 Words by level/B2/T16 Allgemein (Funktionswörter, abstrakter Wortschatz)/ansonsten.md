@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Ansonsten ist alles in Ordnung.
 > *Otherwise everything is fine.*
+
+**Phrases & Expressions:**
+- **Ansonsten ist alles in Ordnung** — *Otherwise everything is fine* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

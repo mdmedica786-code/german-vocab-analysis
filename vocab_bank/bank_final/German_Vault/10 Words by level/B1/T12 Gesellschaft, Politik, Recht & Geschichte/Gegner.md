@@ -34,6 +34,9 @@ status: "new"
 > Die Mannschaft aus Frankreich war ein sehr starker Gegner.
 > *The team from France was a very strong opponent.*
 
+**Phrases & Expressions:**
+- **Die Mannschaft aus Frankreich war ein sehr starker Gegner** — *The team from France was a very strong opponent* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

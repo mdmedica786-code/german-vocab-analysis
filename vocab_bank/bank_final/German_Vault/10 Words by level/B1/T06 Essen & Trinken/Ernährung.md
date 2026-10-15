@@ -35,6 +35,9 @@ status: "new"
 > Ich finde eine gesunde Ernährung wichtig.
 > *I think healthy nutrition is important.*
 
+**Phrases & Expressions:**
+- **Ich finde eine gesunde Ernährung wichtig** — *I think healthy nutrition is important* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 2 ÜB (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

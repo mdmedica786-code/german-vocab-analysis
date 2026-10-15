@@ -35,6 +35,9 @@ status: "new"
 > Diese Sängerin ist ein Star in Deutschland.
 > *This singer is a star in Germany.*
 
+**Phrases & Expressions:**
+- **Diese Sängerin ist ein Star in Deutschland** — *This singer is a star in Germany* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

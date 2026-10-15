@@ -35,6 +35,9 @@ status: "new"
 > Gibst du mir bitte ein frisches Handtuch?
 > *Could you give me a fresh towel, please?*
 
+**Phrases & Expressions:**
+- **Gibst du mir bitte ein frisches Handtuch** — *Could you give me a fresh towel, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1a (Guten Tag!) · Goethe word list A2
 <!-- bank:end -->
 

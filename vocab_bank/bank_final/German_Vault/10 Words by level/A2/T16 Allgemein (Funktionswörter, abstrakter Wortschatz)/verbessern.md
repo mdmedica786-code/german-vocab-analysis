@@ -33,6 +33,9 @@ status: "new"
 > Ich habe mein Deutsch verbessert.
 > *I have improved my German.*
 
+**Phrases & Expressions:**
+- **Ich habe mein Deutsch verbessert** — *I have improved my German* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12d (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

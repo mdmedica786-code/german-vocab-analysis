@@ -35,6 +35,9 @@ status: "new"
 > Sie packt einen Bikini ein.
 > *She packs a bikini.*
 
+**Phrases & Expressions:**
+- **Sie packt einen Bikini ein** — *She packs a bikini* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1b (Ab in den Urlaub!) · Goethe word list B1
 <!-- bank:end -->
 

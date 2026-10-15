@@ -29,6 +29,11 @@ status: "new"
 > Der betreffende Mitarbeiter wurde informiert.
 > *The employee concerned was informed.*
 
+**Phrases & Expressions:**
+- **der betreffende Mitarbeiter** — *concerned; in question*
+- **die betreffende Stelle** — *concerned; in question*
+- **die betreffenden Unterlagen** — *concerned; in question*
+
 **Collocations**
 - der betreffende Mitarbeiter
 - die betreffende Stelle

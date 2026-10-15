@@ -30,6 +30,9 @@ status: "new"
 > Sonntags schlafe ich lange.
 > *On Sundays I sleep in.*
 
+**Phrases & Expressions:**
+- **Sonntags schlafe ich lange** — *On Sundays I sleep in* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

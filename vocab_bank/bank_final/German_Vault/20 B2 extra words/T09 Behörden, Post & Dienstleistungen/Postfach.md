@@ -33,6 +33,11 @@ status: "new"
 > Die Firma hat ein Postfach und keine Hausadresse.
 > *The company has a PO box and no street address.*
 
+**Phrases & Expressions:**
+- **ein Postfach mieten** — *PO box*
+- **an ein Postfach senden** — *PO box*
+- **Postfach und Adresse** — *PO box*
+
 **Collocations**
 - ein Postfach mieten
 - an ein Postfach senden

@@ -34,6 +34,14 @@ status: "new"
 > Ich kann mich nicht entscheiden. Ich muss mir das noch überlegen.
 > *I can't decide. I still have to think it over.*
 
+**Phrases & Expressions:**
+- **Lassen Sie mich kurz überlegen.** — Let me think for a moment. *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Zeit gewinnen]] · B1)*
+- **Moment, das muss ich mir kurz überlegen.** — Just a moment, I need to think about that briefly. *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Zeit gewinnen]] · B1)*
+- **Sie müssen sich nicht sofort entscheiden. Nehmen Sie sich Zeit zum Überlegen.** — You do not have to decide right away. Take time to think about it. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Bedenkzeit geben]] · B2)*
+- **sich etwas überlegen** — *to think about*
+- **lange überlegen** — *to think about*
+- **hin und her überlegen** — *to think about*
+
 **Collocations**
 - sich etwas überlegen
 - lange überlegen

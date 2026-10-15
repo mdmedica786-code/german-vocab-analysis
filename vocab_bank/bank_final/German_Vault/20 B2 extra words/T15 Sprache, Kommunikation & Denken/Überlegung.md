@@ -33,6 +33,11 @@ status: "new"
 > Nach reiflicher Überlegung habe ich mich entschieden.
 > *After careful consideration I have decided.*
 
+**Phrases & Expressions:**
+- **nach reiflicher Überlegung** — *consideration; reflection*
+- **Überlegungen anstellen** — *consideration; reflection*
+- **eine Überlegung wert sein** — *consideration; reflection*
+
 **Collocations**
 - nach reiflicher Überlegung
 - Überlegungen anstellen

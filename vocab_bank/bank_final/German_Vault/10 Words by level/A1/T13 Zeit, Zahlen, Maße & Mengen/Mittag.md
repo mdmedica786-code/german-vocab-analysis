@@ -35,6 +35,10 @@ status: "new"
 > Zu Mittag esse ich in der Kantine.
 > *At noon I eat in the canteen.*
 
+**Phrases & Expressions:**
+- **zu Mittag essen** — to have lunch *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A1)*
+- **Sie nehmen dreimal täglich eine Tablette, morgens, mittags und abends.** — You take one tablet three times a day: morning, noon and evening. *([[FSP-11 Therapie und Medikamente erklären|Dosierung erklären]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

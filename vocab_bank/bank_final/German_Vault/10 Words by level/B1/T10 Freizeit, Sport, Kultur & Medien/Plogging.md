@@ -34,6 +34,9 @@ status: "new"
 > Beim Plogging sammelt man beim Joggen Müll.
 > *When plogging you collect rubbish while jogging.*
 
+**Phrases & Expressions:**
+- **Beim Plogging sammelt man beim Joggen Müll** — *When plogging you collect rubbish while jogging* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13c (Umweltfreundlich?)
 <!-- bank:end -->
 

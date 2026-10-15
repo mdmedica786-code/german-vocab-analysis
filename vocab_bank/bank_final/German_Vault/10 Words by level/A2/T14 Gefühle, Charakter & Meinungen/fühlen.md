@@ -34,6 +34,14 @@ status: "new"
 > Wie fühlen Sie sich?
 > **
 
+**Phrases & Expressions:**
+- **ich fühle mich ...** — I feel ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · A2)*
+- **... fühlt sich ...** — feels ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · A2)*
+- **Wie fühlt sich der Schmerz an?** — What does the pain feel like? *([[FSP-03 Schmerzanamnese|Qualität erfragen]] · B1)*
+- **Fühlen Sie sich zurzeit gestresst?** — Do you feel stressed at the moment? *([[FSP-05 Familien- und Sozialanamnese|Stress erfragen]] · A2)*
+- **Fühlen Sie sich in letzter Zeit niedergeschlagen?** — Have you been feeling down lately? *([[FSP-06 Systemanamnese (Organsysteme)|Psyche und Schlaf]] · B2)*
+- **Fühlen Sie sich abgeschlagen oder leistungsschwach?** — Do you feel exhausted or lacking in energy? *([[FSP-06 Systemanamnese (Organsysteme)|Allgemeinzustand]] · B2)*
+
 **Source:** Netzwerk neu A2 K1 9c (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

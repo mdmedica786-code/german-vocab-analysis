@@ -33,6 +33,11 @@ status: "new"
 > Ihre Intuition sagte ihr, dass etwas nicht stimmt.
 > *Her intuition told her that something was wrong.*
 
+**Phrases & Expressions:**
+- **der Intuition folgen** — *intuition*
+- **auf die Intuition hören** — *intuition*
+- **eine gute Intuition** — *intuition*
+
 **Collocations**
 - der Intuition folgen
 - auf die Intuition hören

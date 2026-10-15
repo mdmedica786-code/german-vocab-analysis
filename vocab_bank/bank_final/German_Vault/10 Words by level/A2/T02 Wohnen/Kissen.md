@@ -35,6 +35,9 @@ status: "new"
 > Ohne Kopfkissen kann ich nicht schlafen.
 > *I can't sleep without a pillow.*
 
+**Phrases & Expressions:**
+- **Ohne Kopfkissen kann ich nicht schlafen** — *I can't sleep without a pillow* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 5b (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

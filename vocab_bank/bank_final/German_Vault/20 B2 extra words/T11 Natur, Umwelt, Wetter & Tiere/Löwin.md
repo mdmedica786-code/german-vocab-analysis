@@ -33,6 +33,11 @@ status: "new"
 > Die Löwin jagt für das ganze Rudel.
 > *The lioness hunts for the whole pride.*
 
+**Phrases & Expressions:**
+- **wie eine Löwin kämpfen** — *lioness*
+- **eine Löwin mit Jungen** — *lioness*
+- **die Löwin im Zoo** — *lioness*
+
 **Collocations**
 - wie eine Löwin kämpfen
 - eine Löwin mit Jungen

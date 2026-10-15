@@ -35,6 +35,9 @@ status: "new"
 > Das ist mein Ehemann/meine Ehefrau.
 > *This is my husband/my wife.*
 
+**Phrases & Expressions:**
+- **Das ist mein Ehemann/meine Ehefrau** — *This is my husband/my wife* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 7a (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Am Wortende steht oft die Endung -en.
 > *At the end of a word there is often the ending -en.*
 
+**Phrases & Expressions:**
+- **Am Wortende steht oft die Endung -en** — *At the end of a word there is often the ending -en* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 9 (Alltag und Familie)
 <!-- bank:end -->
 

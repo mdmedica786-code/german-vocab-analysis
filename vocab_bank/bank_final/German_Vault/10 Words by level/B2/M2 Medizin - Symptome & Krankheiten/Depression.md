@@ -33,6 +33,12 @@ status: "new"
 > Die Patientin leidet seit Monaten an einer Depression.
 > *The patient has been suffering from depression for months.*
 
+**Phrases & Expressions:**
+- **an einer Depression leiden** — *depression*
+- **eine schwere Depression** — *depression*
+- **eine Depression behandeln** — *depression*
+- **in eine Depression fallen** — *depression*
+
 **Collocations**
 - an einer Depression leiden
 - eine schwere Depression

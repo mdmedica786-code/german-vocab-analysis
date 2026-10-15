@@ -33,6 +33,12 @@ status: "new"
 > Mein Sohn ist sehr gewachsen. Er ist jetzt schon größer als ich.
 > *My son has grown a lot. He is already taller than me.*
 
+**Phrases & Expressions:**
+- **schnell wachsen** — *to grow*
+- **in die Höhe wachsen** — *to grow*
+- **die Wirtschaft wächst** — *to grow*
+- **Pflanzen wachsen** — *to grow*
+
 **Collocations**
 - schnell wachsen
 - in die Höhe wachsen

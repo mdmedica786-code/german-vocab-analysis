@@ -34,6 +34,9 @@ status: "new"
 > Sie hat eine starke Persönlichkeit.
 > *She has a strong personality.*
 
+**Phrases & Expressions:**
+- **Sie hat eine starke Persönlichkeit** — *She has a strong personality* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

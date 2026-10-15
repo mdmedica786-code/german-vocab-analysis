@@ -33,6 +33,11 @@ status: "new"
 > Ein Flächenbrand zerstörte tausende Hektar Wald.
 > *A large-scale fire destroyed thousands of hectares of forest.*
 
+**Phrases & Expressions:**
+- **ein Flächenbrand breitet sich aus** — *large-scale fire; wildfire*
+- **Flächenbrand verhindern** — *large-scale fire; wildfire*
+- **zu einem Flächenbrand werden** — *large-scale fire; wildfire*
+
 **Collocations**
 - ein Flächenbrand breitet sich aus
 - Flächenbrand verhindern

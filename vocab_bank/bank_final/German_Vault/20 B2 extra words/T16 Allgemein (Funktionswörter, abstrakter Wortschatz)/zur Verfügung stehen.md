@@ -29,6 +29,11 @@ status: "new"
 > Am Wochenende steht uns ein Auto zur Verfügung.
 > *A car is available to us at the weekend.*
 
+**Phrases & Expressions:**
+- **jederzeit zur Verfügung stehen** — *to be available*
+- **zur Verfügung stehen für + Akk.** — *to be available*
+- **Mittel stehen zur Verfügung** — *to be available*
+
 **Collocations**
 - jederzeit zur Verfügung stehen
 - zur Verfügung stehen für + Akk.

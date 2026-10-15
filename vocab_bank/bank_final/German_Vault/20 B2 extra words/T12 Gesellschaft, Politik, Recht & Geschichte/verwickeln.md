@@ -32,6 +32,11 @@ status: "new"
 > Er wurde in einen Unfall verwickelt.
 > *He was involved in an accident.*
 
+**Phrases & Expressions:**
+- **in etwas verwickelt sein** — *to involve; to entangle*
+- **jemanden in ein Gespräch verwickeln** — *to involve; to entangle*
+- **sich verwickeln** — *to involve; to entangle*
+
 **Collocations**
 - in etwas verwickelt sein
 - jemanden in ein Gespräch verwickeln

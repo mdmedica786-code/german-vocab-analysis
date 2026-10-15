@@ -33,6 +33,11 @@ status: "new"
 > Die Schule startet ein Umweltprojekt zum Thema Müll.
 > *The school is starting an environmental project on the topic of waste.*
 
+**Phrases & Expressions:**
+- **ein Umweltprojekt starten** — *environmental project*
+- **an einem Umweltprojekt teilnehmen** — *environmental project*
+- **ein Umweltprojekt fördern** — *environmental project*
+
 **Collocations**
 - ein Umweltprojekt starten
 - an einem Umweltprojekt teilnehmen

@@ -30,6 +30,9 @@ status: "new"
 > Herr Huber ist bis zum 25. April abwesend.
 > *Mr Huber is absent until 25 April.*
 
+**Phrases & Expressions:**
+- **Herr Huber ist bis zum 25. April abwesend** — *Mr Huber is absent until 25 April* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

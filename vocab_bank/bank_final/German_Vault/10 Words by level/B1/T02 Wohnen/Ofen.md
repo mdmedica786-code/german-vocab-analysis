@@ -34,6 +34,9 @@ status: "new"
 > Der Kuchen kommt frisch aus dem Ofen.
 > *The cake is fresh out of the oven.*
 
+**Phrases & Expressions:**
+- **Der Kuchen kommt frisch aus dem Ofen** — *The cake is fresh out of the oven* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

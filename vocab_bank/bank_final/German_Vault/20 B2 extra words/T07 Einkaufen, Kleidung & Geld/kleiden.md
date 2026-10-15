@@ -32,6 +32,11 @@ status: "new"
 > Sie kleidet sich immer sehr elegant.
 > *She always dresses very elegantly.*
 
+**Phrases & Expressions:**
+- **sich elegant kleiden** — *to dress; to clothe*
+- **gut gekleidet** — *to dress; to clothe*
+- **in Worte kleiden** — *to dress; to clothe*
+
 **Collocations**
 - sich elegant kleiden
 - gut gekleidet

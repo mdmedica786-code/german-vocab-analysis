@@ -34,6 +34,9 @@ status: "new"
 > Auf der Hallig leben nur wenige Menschen.
 > *Only a few people live on the Hallig.*
 
+**Phrases & Expressions:**
+- **Auf der Hallig leben nur wenige Menschen** — *Only a few people live on the Hallig* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1b (Zusammen leben)
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Witwe lebt allein in dem Haus.
 > *The widow lives alone in the house.*
+
+**Phrases & Expressions:**
+- **Die Witwe lebt allein in dem Haus** — *The widow lives alone in the house* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

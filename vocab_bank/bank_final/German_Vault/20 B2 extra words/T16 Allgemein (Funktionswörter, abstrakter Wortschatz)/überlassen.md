@@ -31,6 +31,11 @@ status: "new"
 > Die Entscheidung überlasse ich Ihnen.
 > *I leave the decision to you.*
 
+**Phrases & Expressions:**
+- **jemandem etwas überlassen** — *to leave to; to let have*
+- **sich selbst überlassen** — *to leave to; to let have*
+- **dem Zufall überlassen** — *to leave to; to let have*
+
 **Collocations**
 - jemandem etwas überlassen
 - sich selbst überlassen

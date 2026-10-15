@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Zu meiner Erleichterung war der Test negativ.
 > *To my relief the test was negative.*
+
+**Phrases & Expressions:**
+- **Zu meiner Erleichterung war der Test negativ** — *To my relief the test was negative* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

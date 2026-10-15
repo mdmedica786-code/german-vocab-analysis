@@ -34,6 +34,9 @@ status: "new"
 > Wohlstand bedeutet nicht immer Glück.
 > *Prosperity does not always mean happiness.*
 
+**Phrases & Expressions:**
+- **Wohlstand bedeutet nicht immer Glück** — *Prosperity does not always mean happiness* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Gute Reifen erhöhen die Fahrsicherheit.
 > *Good tyres increase driving safety.*
 
+**Phrases & Expressions:**
+- **die Fahrsicherheit erhöhen** — *driving safety; road safety*
+- **ein Fahrsicherheitstraining** — *driving safety; road safety*
+- **für mehr Fahrsicherheit** — *driving safety; road safety*
+
 **Collocations**
 - die Fahrsicherheit erhöhen
 - ein Fahrsicherheitstraining

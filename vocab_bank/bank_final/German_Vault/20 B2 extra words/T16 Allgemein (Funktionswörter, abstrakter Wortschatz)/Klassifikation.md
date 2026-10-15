@@ -33,6 +33,11 @@ status: "new"
 > Die Klassifikation der Daten ist aufwendig.
 > *The classification of the data is laborious.*
 
+**Phrases & Expressions:**
+- **eine Klassifikation vornehmen** — *classification*
+- **eine feine Klassifikation** — *classification*
+- **die Klassifikation von Daten** — *classification*
+
 **Collocations**
 - eine Klassifikation vornehmen
 - eine feine Klassifikation

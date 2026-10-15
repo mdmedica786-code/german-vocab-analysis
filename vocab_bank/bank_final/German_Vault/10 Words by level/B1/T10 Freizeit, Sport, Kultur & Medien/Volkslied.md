@@ -34,6 +34,9 @@ status: "new"
 > Wir singen im Chor ein altes Volkslied.
 > *We sing an old folk song in the choir.*
 
+**Phrases & Expressions:**
+- **Wir singen im Chor ein altes Volkslied** — *We sing an old folk song in the choir* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 12b (Kunststücke)
 <!-- bank:end -->
 

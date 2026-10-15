@@ -33,6 +33,11 @@ status: "new"
 > Der Aufbruch zur Wanderung war früh am Morgen.
 > *The departure for the hike was early in the morning.*
 
+**Phrases & Expressions:**
+- **der Aufbruch zur Reise** — *departure; start; new beginning*
+- **im Aufbruch sein** — *departure; start; new beginning*
+- **ein Aufbruch in eine neue Zeit** — *departure; start; new beginning*
+
 **Collocations**
 - der Aufbruch zur Reise
 - im Aufbruch sein

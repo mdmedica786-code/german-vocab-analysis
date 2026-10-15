@@ -30,6 +30,11 @@ status: "new"
 > Der Quantenprozessor kann bestimmte Aufgaben sehr schnell lösen.
 > *The quantum processor can solve certain tasks very quickly.*
 
+**Phrases & Expressions:**
+- **einen Quantenprozessor entwickeln** — *quantum processor*
+- **der Quantenprozessor rechnet** — *quantum processor*
+- **ein neuer Quantenprozessor** — *quantum processor*
+
 **Collocations**
 - einen Quantenprozessor entwickeln
 - der Quantenprozessor rechnet

@@ -35,6 +35,9 @@ status: "new"
 > Der Urlaub war eine Katastrophe. Es hat nur geregnet.
 > *The holiday was a disaster. It only rained.*
 
+**Phrases & Expressions:**
+- **Der Urlaub war eine Katastrophe. Es hat nur geregnet** — *The holiday was a disaster. It only rained* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 3d (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

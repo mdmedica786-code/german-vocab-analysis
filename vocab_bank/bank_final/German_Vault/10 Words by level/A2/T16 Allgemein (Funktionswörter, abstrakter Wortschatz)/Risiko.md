@@ -35,6 +35,12 @@ status: "new"
 > Ich nehme keinen Kredit auf. Das Risiko ist mir zu hoch.
 > *I'm not taking out a loan. The risk is too high for me.*
 
+**Phrases & Expressions:**
+- **Wie bei jedem Eingriff gibt es gewisse Risiken.** — As with every procedure there are certain risks. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Risiken nennen]] · B2)*
+- **Wenn Sie sich nicht operieren lassen, besteht das Risiko, dass ...** — If you do not have the operation, there is a risk that ... *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Alternativen nennen]] · B2)*
+- **Das Risiko einer Verschlechterung ist aktuell als gering einzustufen.** — The risk of deterioration is currently to be classed as low. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Prognose und Risiko]] · C1)*
+- **Der Patient wurde über die Risiken aufgeklärt und willigte ein.** — The patient was informed about the risks and consented. *([[FSP-20 Arztbrief und Dokumentation|Dokumentation]] · B2)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

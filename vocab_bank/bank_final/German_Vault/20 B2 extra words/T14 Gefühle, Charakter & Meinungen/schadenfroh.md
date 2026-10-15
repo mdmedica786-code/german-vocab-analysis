@@ -29,6 +29,11 @@ status: "new"
 > Er grinste schadenfroh, als ich stolperte.
 > *He grinned gloatingly when I stumbled.*
 
+**Phrases & Expressions:**
+- **schadenfroh lachen** — *gloating; malicious*
+- **schadenfroh sein** — *gloating; malicious*
+- **schadenfroh grinsen** — *gloating; malicious*
+
 **Collocations**
 - schadenfroh lachen
 - schadenfroh sein

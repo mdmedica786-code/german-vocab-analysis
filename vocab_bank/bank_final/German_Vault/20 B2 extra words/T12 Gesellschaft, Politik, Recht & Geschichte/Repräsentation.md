@@ -33,6 +33,11 @@ status: "new"
 > Die Repräsentation der Minderheiten ist gering.
 > *The representation of minorities is low.*
 
+**Phrases & Expressions:**
+- **politische Repräsentation** — *representation*
+- **zur Repräsentation** — *representation*
+- **die Repräsentation der Firma** — *representation*
+
 **Collocations**
 - politische Repräsentation
 - zur Repräsentation

@@ -34,6 +34,9 @@ status: "new"
 > Die Detektivin löst den Fall.
 > *The detective solves the case.*
 
+**Phrases & Expressions:**
+- **Die Detektivin löst den Fall** — *The detective solves the case* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 10d (Kunststücke)
 <!-- bank:end -->
 

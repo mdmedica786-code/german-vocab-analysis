@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Nach der Heirat zogen sie nach Köln.
 > *After the marriage they moved to Cologne.*
+
+**Phrases & Expressions:**
+- **Nach der Heirat zogen sie nach Köln** — *After the marriage they moved to Cologne* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

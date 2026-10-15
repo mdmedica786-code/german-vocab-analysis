@@ -33,6 +33,11 @@ status: "new"
 > Die Nachricht löste große Betroffenheit aus.
 > *The news caused great dismay.*
 
+**Phrases & Expressions:**
+- **Betroffenheit zeigen** — *dismay; being affected*
+- **tiefe Betroffenheit** — *dismay; being affected*
+- **Betroffenheit auslösen** — *dismay; being affected*
+
 **Collocations**
 - Betroffenheit zeigen
 - tiefe Betroffenheit

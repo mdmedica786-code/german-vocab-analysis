@@ -35,6 +35,9 @@ status: "new"
 > Die Käuferin hat den Tisch schon bezahlt.
 > *The buyer has already paid for the table.*
 
+**Phrases & Expressions:**
+- **Die Käuferin hat den Tisch schon bezahlt** — *The buyer has already paid for the table* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

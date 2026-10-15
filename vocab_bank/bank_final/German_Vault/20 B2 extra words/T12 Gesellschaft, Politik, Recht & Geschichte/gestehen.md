@@ -31,6 +31,11 @@ status: "new"
 > Der Verdächtige hat die Tat gestanden.
 > *The suspect confessed to the crime.*
 
+**Phrases & Expressions:**
+- **ein Verbrechen gestehen** — *to confess; to admit*
+- **offen gestehen** — *to confess; to admit*
+- **ehrlich gestanden** — *to confess; to admit*
+
 **Collocations**
 - ein Verbrechen gestehen
 - offen gestehen

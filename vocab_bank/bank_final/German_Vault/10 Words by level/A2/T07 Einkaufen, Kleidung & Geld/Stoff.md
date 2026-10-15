@@ -35,6 +35,9 @@ status: "new"
 > Was für ein Stoff ist das? – Wolle.
 > *What kind of material is this? – Wool.*
 
+**Phrases & Expressions:**
+- **Mit einer Allergie reagiert Ihr Körper überempfindlich auf einen Stoff.** — With an allergy your body reacts hypersensitively to a substance. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B1)*
+
 **Source:** Netzwerk neu A2 K8 3a (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

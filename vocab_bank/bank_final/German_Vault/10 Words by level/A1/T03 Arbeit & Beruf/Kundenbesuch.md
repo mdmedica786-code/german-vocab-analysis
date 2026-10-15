@@ -34,6 +34,9 @@ status: "new"
 > Morgen habe ich einen Kundenbesuch in Köln.
 > *Tomorrow I have a customer visit in Cologne.*
 
+**Phrases & Expressions:**
+- **Morgen habe ich einen Kundenbesuch in Köln** — *Tomorrow I have a customer visit in Cologne* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 3a (Arbeitsalltag)
 <!-- bank:end -->
 

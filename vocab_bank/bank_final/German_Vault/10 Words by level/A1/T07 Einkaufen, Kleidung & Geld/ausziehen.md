@@ -35,6 +35,9 @@ status: "new"
 > Wann zieht ihr aus der Wohnung aus?
 > *When are you moving out of the flat?*
 
+**Phrases & Expressions:**
+- **Der Schmerz zieht bis in den linken Arm.** — The pain radiates into the left arm. *([[FSP-03 Schmerzanamnese|Patient: Ausstrahlung nennen]] · B1)*
+
 **Source:** Netzwerk neu A1 K11 8b (Die Jacke gefällt mir!) · Goethe word list A1
 <!-- bank:end -->
 

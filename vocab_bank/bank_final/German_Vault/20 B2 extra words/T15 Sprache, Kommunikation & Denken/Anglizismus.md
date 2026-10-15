@@ -33,6 +33,11 @@ status: "new"
 > Das Wort »Meeting« ist ein typischer Anglizismus.
 > *The word "Meeting" is a typical anglicism.*
 
+**Phrases & Expressions:**
+- **Anglizismen verwenden** — *anglicism*
+- **zu viele Anglizismen** — *anglicism*
+- **Anglizismen im Deutschen** — *anglicism*
+
 **Collocations**
 - Anglizismen verwenden
 - zu viele Anglizismen

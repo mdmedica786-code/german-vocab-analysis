@@ -34,6 +34,9 @@ status: "new"
 > Pünktlichkeit ist in Deutschland sehr wichtig.
 > *Punctuality is very important in Germany.*
 
+**Phrases & Expressions:**
+- **Pünktlichkeit ist in Deutschland sehr wichtig** — *Punctuality is very important in Germany* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 15a (Alltag und Familie)
 <!-- bank:end -->
 

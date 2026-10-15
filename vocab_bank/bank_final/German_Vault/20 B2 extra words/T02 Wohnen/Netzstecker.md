@@ -33,6 +33,11 @@ status: "new"
 > Ziehen Sie bitte den Netzstecker aus der Steckdose.
 > *Please pull the power plug out of the socket.*
 
+**Phrases & Expressions:**
+- **den Netzstecker ziehen** — *mains plug; power plug*
+- **den Netzstecker einstecken** — *mains plug; power plug*
+- **der Netzstecker ist defekt** — *mains plug; power plug*
+
 **Collocations**
 - den Netzstecker ziehen
 - den Netzstecker einstecken

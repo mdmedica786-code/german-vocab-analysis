@@ -33,6 +33,11 @@ status: "new"
 > Abends kommen Rehe an den Waldrand.
 > *In the evening roe deer come to the edge of the forest.*
 
+**Phrases & Expressions:**
+- **ein Reh im Wald** — *roe deer*
+- **Rehe füttern** — *roe deer*
+- **Rehe beobachten** — *roe deer*
+
 **Collocations**
 - ein Reh im Wald
 - Rehe füttern

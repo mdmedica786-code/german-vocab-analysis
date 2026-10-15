@@ -31,6 +31,11 @@ status: "new"
 > Die Schlange zischte, als wir uns näherten.
 > *The snake hissed as we approached.*
 
+**Phrases & Expressions:**
+- **leise zischen** — *to hiss; to fizz*
+- **die Limonade zischt** — *to hiss; to fizz*
+- **ein Zischlaut** — *to hiss; to fizz*
+
 **Collocations**
 - leise zischen
 - die Limonade zischt

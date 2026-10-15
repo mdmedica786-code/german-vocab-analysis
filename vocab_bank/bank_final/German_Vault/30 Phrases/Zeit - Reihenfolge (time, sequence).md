@@ -13,54 +13,65 @@ tags: ["phrase", "moc"]
 ## A1
 
 - **am Abend** — in the evening
+  - Words: [[Abend]]
   - Am Abend sehe ich gern fern. *(In the evening I like watching TV.)*
   - Grammar: am + Dat.: Tageszeit
   - Variants: abends | gegen Abend
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **am Morgen** — in the morning
+  - Words: [[morgen (adverb)]] · [[Morgen]]
   - Am Morgen trinke ich Kaffee. *(In the morning I drink coffee.)*
   - Variants: morgens | früh
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **am Samstag** — on Saturday
+  - Words: [[Samstag]]
   - Wir treffen uns am Samstag im Café. *(We're meeting on Saturday at the café.)*
   - Grammar: am + Dat.: Wochentag
   - Variants: samstags
   - Exam: Wortliste B1 (exam vocabulary)
 - **am Wochenende** — at the weekend
+  - Words: [[Wochenende]]
   - Ich besuche am Wochenende meine Eltern. *(I visit my parents at the weekend.)*
   - Grammar: am + Dat.: das Wochenende
   - Variants: samstags und sonntags
   - Exam: Wortliste A1 (exam vocabulary)
 - **heute Abend** — this evening; tonight
+  - Words: [[Abend]] · [[heute]]
   - Heute Abend gehen wir ins Kino. *(This evening we're going to the cinema.)*
   - Grammar: heute Abend: Zeitpunkt
   - Variants: heute Nacht | am heutigen Abend
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **heute Morgen** — this morning
+  - Words: [[morgen (adverb)]] · [[heute]] · [[Morgen]]
   - Heute Morgen habe ich lange geschlafen. *(This morning I slept late.)*
   - Grammar: heute Morgen (groß): Zeitpunkt
   - Variants: heute früh | am heutigen Morgen
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **im Herbst** — in autumn
+  - Words: [[Herbst]]
   - Im Herbst fallen die Blätter. *(In autumn the leaves fall.)*
   - Grammar: im + Dat.: Jahreszeit
   - Variants: herbsts | in den Herbstmonaten
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **im Moment** — at the moment
+  - Words: [[Moment]]
   - Ich habe im Moment keine Zeit. *(I have no time at the moment.)*
   - Variants: gerade | zurzeit
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **im Sommer** — in summer
+  - Words: [[Sommer]]
   - Im Sommer fahren wir ans Meer. *(In summer we go to the seaside.)*
   - Grammar: im + Dat.: Jahreszeit
   - Variants: sommers | in den Sommermonaten
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **im Winter** — in winter
+  - Words: [[Winter]]
   - Im Winter schneit es oft. *(In winter it often snows.)*
   - Grammar: im + Dat.: Jahreszeit
   - Variants: winters | in den Wintermonaten
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in diesem Jahr** — this year
+  - Words: [[Jahr]]
   - In diesem Jahr mache ich Urlaub in Italien. *(This year I'm taking my holiday in Italy.)*
   - Variants: dieses Jahr | heuer
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
@@ -69,424 +80,523 @@ tags: ["phrase", "moc"]
   - Variants: bis jetzt nicht | bislang nicht
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **schon wieder** — again (already)
+  - Words: [[schon]] · [[wieder]] · [[wiedergeben]] · [[wiedersehen (verb)]] · [[wiedererkennen]]
   - Der Bus hat schon wieder Verspätung. *(The bus is late again.)*
   - Grammar: drückt Ärger/Überraschung aus
   - Variants: wieder einmal | erneut
 - **von ... bis ...** — from ... to/until ...
+  - Words: [[bis]]
   - Ich arbeite von 6 bis 15 Uhr. *(work from 6 am till 3 pm.)*
   - Grammar: von + Dat. ... bis + Zeit
   - Variants: ab ... bis
 - **zu Mittag essen** — to have lunch
+  - Words: [[Essen]] · [[essen (verb)]] · [[Mittag]]
   - Wir essen heute zu Mittag in der Kantine. *(We are having lunch in the canteen today.)*
   - Grammar: zu Mittag: feste Wendung
   - Variants: Mittag essen | zu Mittag speisen
 ## A2
 
 - **als Kind** — as a child
+  - Words: [[Kind]]
   - Als Kind habe ich viel gespielt. *(As a child I played a lot.)*
   - Variants: in der Kindheit | früher
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **am Anfang** — at the beginning
+  - Words: [[Anfang]]
   - Am Anfang war alles neu für mich. *(At the beginning everything was new to me.)*
   - Variants: zu Beginn | anfangs
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **am Ende** — at the end
+  - Words: [[enden]] · [[Ende]]
   - Am Ende des Films weint sie. *(At the end of the film she cries.)*
   - Variants: zum Schluss | schließlich
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **an diesem Tag** — on this day
+  - Words: [[Tag]]
   - An diesem Tag hat es geregnet. *(On this day it rained.)*
   - Variants: an jenem Tag | damals
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **bis dahin** — until then
+  - Words: [[dahin]] · [[bis]]
   - Wir sehen uns Freitag. Bis dahin viel Spaß! *(We'll see each other on Friday. Until then, have fun!)*
   - Variants: bis zu dem Zeitpunkt | bis dann
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **das erste Mal** — the first time
+  - Words: [[erste (numeral)]] · [[Mal]] · [[Erste]] · [[mal (particle)]]
   - Das ist das erste Mal, dass ich hier bin. *(This is the first time that I'm here.)*
   - Grammar: das erste Mal, dass ...
   - Variants: zum ersten Mal | erstmals
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **das letzte Mal** — the last time
+  - Words: [[Mal]] · [[letzte (adjective)]] · [[mal (particle)]] · [[Letzte]]
   - Das letzte Mal war ich vor einem Jahr hier. *(The last time I was here was a year ago.)*
   - Variants: zuletzt | letztes Mal
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **das nächste Mal** — the next time
+  - Words: [[Mal]] · [[nächste (adjective)]] · [[mal (particle)]] · [[Nächste]]
   - Das nächste Mal komme ich früher. *(Next time I'll come earlier.)*
   - Grammar: Akk. der Zeit
   - Variants: beim nächsten Mal | nächstes Mal
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **den ganzen Tag** — all day
+  - Words: [[Tag]]
   - Ich habe den ganzen Tag gearbeitet. *(I worked all day.)*
   - Grammar: Akk. der Zeit
   - Variants: tagsüber | den Tag über
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **die ganze Nacht** — all night
+  - Words: [[Nacht]]
   - Ich habe die ganze Nacht gelernt. *(I studied all night.)*
   - Grammar: Akk. der Zeit
   - Variants: die Nacht über | nächtelang
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **erst mal** — first (of all)
+  - Words: [[Mal]] · [[mal (particle)]] · [[erst]]
   - Ich trinke erst mal einen Kaffee. *(First I'll have a coffee.)*
   - Grammar: umgangssprachlich für „erst einmal“
   - Variants: zuerst | zunächst
 - **im Jahr ...** — in the year ...
+  - Words: [[Jahr]]
   - Im Jahr 2020 habe ich mein Studium begonnen. *(In 2020 I began my studies.)*
   - Grammar: im Jahr + Jahreszahl
   - Variants: im Jahre ... | 2020
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **immer noch** — still
+  - Words: [[immer]]
   - Er ist immer noch krank. *(He is still ill.)*
   - Variants: noch immer | weiterhin
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **immer noch nicht** — still not
+  - Words: [[immer]]
   - Der Arzt ist immer noch nicht da. *(The doctor still isn't here.)*
   - Variants: noch nicht | nach wie vor nicht
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **immer wenn ...** — whenever ...
+  - Words: [[immer]]
   - Immer wenn ich ihn sehe, lächelt er. *(Whenever I see him, he smiles.)*
   - Grammar: wenn-Satz: Verb am Ende
   - Variants: jedes Mal, wenn | sooft
 - **in den letzten zehn Jahren** — in the last ten years
+  - Words: [[zehn]] · [[Jahr]] · [[letzte (adjective)]] · [[Letzte]]
   - In den letzten zehn Jahren hat sich viel verändert. *(In the last ten years a lot has changed.)*
   - Variants: seit zehn Jahren | im letzten Jahrzehnt
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in der Nacht** — at night; during the night
+  - Words: [[Nacht]]
   - In der Nacht hat es stark geregnet. *(It rained heavily during the night.)*
   - Grammar: in der Nacht (auch: nachts)
   - Variants: nachts | bei Nacht
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in diesem Moment** — at this moment
+  - Words: [[Moment]]
   - In diesem Moment klingelt das Telefon. *(At this moment the phone rings.)*
   - Variants: gerade jetzt | in diesem Augenblick
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in einer halben Stunde** — in half an hour
+  - Words: [[Stunde]] · [[halb]]
   - In einer halben Stunde beginnt die Untersuchung. *(The examination begins in half an hour.)*
   - Grammar: in + Dat.: Zeitspanne
   - Variants: in 30 Minuten | gleich
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **nach dem Essen** — after eating
+  - Words: [[Essen]] · [[essen (verb)]]
   - Nach dem Essen mache ich einen Spaziergang. *(After eating I go for a walk.)*
   - Variants: nach der Mahlzeit | anschließend
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **nie mehr** — never again
+  - Words: [[mehr]] · [[nie]]
   - Das mache ich nie mehr! *(I will never do that again!)*
   - Variants: nie wieder | niemals mehr
 - **noch immer** — still
+  - Words: [[immer]]
   - Das Problem ist noch immer nicht gelöst. *(The problem is still not solved.)*
   - Variants: immer noch | weiterhin
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **schon bald** — very soon
+  - Words: [[schon]] · [[bald]]
   - Wir sehen uns schon bald wieder. *(We'll see each other again very soon.)*
   - Variants: bald | in Kürze
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **schon mal** — ever; before
+  - Words: [[schon]] · [[Mal]] · [[mal (particle)]]
   - Warst du schon mal in Wien? *(Have you ever been to Vienna?)*
   - Grammar: umgangssprachlich: schon einmal
   - Variants: schon einmal | bereits
 - **um Mitternacht** — at midnight
+  - Words: [[Mitternacht]]
   - Die Party endet um Mitternacht. *(The party ends at midnight.)*
   - Variants: um 24 Uhr
   - Exam: Wortliste A2 (exam vocabulary)
 - **zum ersten Mal** — for the first time
+  - Words: [[Mal]] · [[Erste]] · [[mal (particle)]]
   - Ich fliege zum ersten Mal nach Deutschland. *(I'm flying to Germany for the first time.)*
   - Variants: erstmals | das erste Mal
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 ## B1
 
 - **am nächsten Morgen** — the next morning
+  - Words: [[morgen (adverb)]] · [[Morgen]] · [[nächste (adjective)]] · [[Nächste]]
   - Am nächsten Morgen ging es ihr besser. *(The next morning she was feeling better.)*
   - Variants: tags darauf | am Morgen danach
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **am nächsten Tag** — the next day
+  - Words: [[Tag]] · [[nächste (adjective)]] · [[Nächste]]
   - Am nächsten Tag war ich krank. *(The next day I was ill.)*
   - Variants: tags darauf | am folgenden Tag
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **auf einmal** — suddenly
+  - Words: [[einmal]]
   - Auf einmal wurde es dunkel. *(Suddenly it became dark.)*
   - Variants: plötzlich | unerwartet
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **bis heute** — until today
+  - Words: [[heute]] · [[bis]]
   - Bis heute habe ich keine Antwort bekommen. *(Until today I haven't received an answer.)*
   - Variants: bislang | bis jetzt
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **bis spät in die Nacht** — until late at night
+  - Words: [[spät]] · [[Nacht]] · [[bis]]
   - Wir haben bis spät in die Nacht gearbeitet. *(We worked until late at night.)*
   - Variants: bis in die Nacht | bis nach Mitternacht
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **bis zum Ende** — until the end
+  - Words: [[enden]] · [[Ende]] · [[bis]]
   - Wir bleiben bis zum Ende des Films. *(We stay until the end of the film.)*
   - Variants: bis zum Schluss | bis zum Abschluss
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **das erste Mal, dass ...** — the first time that ...
+  - Words: [[erste (numeral)]] · [[Mal]] · [[Erste]] · [[mal (particle)]]
   - Das ist das erste Mal, dass ich allein reise. *(This is the first time that I am travelling alone.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: zum ersten Mal | erstmals
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **die ganze Zeit** — all the time
+  - Words: [[Zeit]]
   - Er telefoniert die ganze Zeit. *(He is on the phone all the time.)*
   - Grammar: Akk. der Zeit
   - Variants: ständig | andauernd
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **ein letztes Mal** — one last time
+  - Words: [[Mal]] · [[letzte (adjective)]] · [[mal (particle)]]
   - Ich lese den Text ein letztes Mal. *(I'm reading the text one last time.)*
   - Variants: zum letzten Mal | noch einmal
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **ein weiteres Mal** — once more
+  - Words: [[weitere]] · [[Mal]] · [[mal (particle)]]
   - Ein weiteres Mal bitte ich um Verständnis. *(Once more I ask for your understanding.)*
   - Variants: noch einmal | erneut
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **ein zweites Mal** — a second time
+  - Words: [[Mal]] · [[mal (particle)]]
   - Ich lese den Text ein zweites Mal. *(I read the text a second time.)*
   - Variants: nochmals | erneut
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **eine Zeit lang** — for a while
+  - Words: [[lang]] · [[Zeit]] · [[langlaufen]]
   - Ich war eine Zeit lang krank. *(I was ill for a while.)*
   - Variants: eine Weile | eine Zeitlang
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **eines Tages** — one day
+  - Words: [[Tag]]
   - Eines Tages werde ich in Deutschland arbeiten. *(One day I will work in Germany.)*
   - Grammar: Genitiv der Zeit
   - Variants: irgendwann
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **früher oder später** — sooner or later
+  - Words: [[spät]] · [[früh]] · [[später]] · [[früher]] · [[frühere]]
   - Früher oder später müssen wir darüber sprechen. *(Sooner or later we will have to talk about it.)*
   - Variants: irgendwann | mit der Zeit
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **für die Zukunft** — for the future
+  - Words: [[Zukunft]]
   - Für die Zukunft wünsche ich dir alles Gute. *(For the future I wish you all the best.)*
   - Variants: künftig | in Zukunft
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **für einen Moment** — for a moment
+  - Words: [[Moment]]
   - Ich habe für einen Moment gezweifelt. *(I doubted for a moment.)*
   - Variants: kurz | einen Augenblick lang
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **gleich darauf** — immediately afterwards
+  - Words: [[darauf]] · [[gleich]]
   - Gleich darauf hörte man einen Knall. *(Immediately afterwards there was a bang.)*
   - Variants: sofort danach | im nächsten Moment
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **heute nicht mehr** — not any more today
+  - Words: [[heute]] · [[mehr]]
   - Heute geht das nicht mehr. *(That doesn't work any more today.)*
   - Variants: nicht mehr heute | heute leider nicht mehr
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **im Alter** — in old age
+  - Words: [[alt]] · [[Alter]]
   - Im Alter braucht man mehr Ruhe. *(In old age you need more rest.)*
   - Grammar: im Alter von + Zahl = mit ... Jahren
   - Variants: im höheren Alter | auf seine alten Tage
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **im Augenblick** — at the moment
+  - Words: [[Augenblick]]
   - Im Augenblick habe ich keine Zeit. *(At the moment I have no time.)*
   - Variants: im Moment | gerade
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **im Lauf(e) der Zeit** — over the course
+  - Words: [[Zeit]] · [[Lauf]]
   - Im Lauf der Zeit hat sich viel geändert. *(Over the course of time a lot has changed.)*
   - Grammar: im Lauf(e) + Gen.
   - Variants: im Laufe der Zeit | allmählich
 - **in den letzten Jahren** — in recent years
+  - Words: [[Jahr]] · [[letzte (adjective)]] · [[Letzte]]
   - In den letzten Jahren ist das Leben teurer geworden. *(In recent years life has become more expensive.)*
   - Grammar: Dativ Plural: in den ... Jahren
   - Variants: seit einigen Jahren | in jüngster Zeit
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in den letzten Monaten** — in recent months
+  - Words: [[Monat]] · [[letzte (adjective)]] · [[Letzte]]
   - In den letzten Monaten ist viel passiert. *(A lot has happened in recent months.)*
   - Variants: seit einigen Monaten | in jüngster Zeit
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in den letzten Tagen** — in the last few days
+  - Words: [[Tag]] · [[letzte (adjective)]] · [[Letzte]]
   - In den letzten Tagen hat es viel geregnet. *(It has rained a lot in the last few days.)*
   - Variants: seit einigen Tagen | in jüngster Zeit
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in den letzten Wochen** — in the last few weeks
+  - Words: [[Woche]] · [[letzte (adjective)]] · [[Letzte]]
   - In den letzten Wochen war ich viel unterwegs. *(In the last few weeks I was away a lot.)*
   - Grammar: Dativ Plural: in den ... Wochen
   - Variants: seit einigen Wochen | zuletzt
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in den nächsten Jahren** — in the next few years
+  - Words: [[Jahr]] · [[nächste (adjective)]] · [[Nächste]]
   - In den nächsten Jahren will ich Arzt werden. *(In the next few years I want to become a doctor.)*
   - Variants: künftig | in naher Zukunft
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in den nächsten Tagen** — in the next few days
+  - Words: [[Tag]] · [[nächste (adjective)]] · [[Nächste]]
   - Ich melde mich in den nächsten Tagen bei Ihnen. *(I'll get in touch with you in the next few days.)*
   - Variants: demnächst | bald
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in der letzten Zeit** — lately
+  - Words: [[Zeit]] · [[letzte (adjective)]] · [[Letzte]]
   - In der letzten Zeit habe ich wenig geschlafen. *(Lately I've slept little.)*
   - Variants: neuerdings | seit Kurzem
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in der Vergangenheit** — in the past
+  - Words: [[Vergangenheit]]
   - In der Vergangenheit gab es hier mehr Wald. *(In the past there was more forest here.)*
   - Variants: früher | damals
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in der Zukunft** — in the future
+  - Words: [[Zukunft]]
   - In der Zukunft wird alles digital sein. *(In the future everything will be digital.)*
   - Variants: künftig | später
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in der Zwischenzeit** — in the meantime
+  - Words: [[Zwischenzeit]]
   - Der Arzt kommt gleich, in der Zwischenzeit können Sie warten. *(The doctor will be here shortly, in the meantime you can wait.)*
   - Variants: inzwischen | mittlerweile
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in dieser Zeit** — during this time; at that time
+  - Words: [[Zeit]]
   - In dieser Zeit habe ich viel gelernt. *(During this time I learned a lot.)*
   - Variants: damals | währenddessen
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in letzter Zeit** — lately
+  - Words: [[Zeit]] · [[letzte (adjective)]]
   - In letzter Zeit schlafe ich schlecht. *(Lately I've been sleeping badly.)*
   - Variants: neuerdings | seit Kurzem
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in Pension gehen** — to retire
+  - Words: [[gehen]] · [[Pension]]
   - Ich gehe Ende des Jahres in Pension. *(I retire at the end of the year.)*
   - Grammar: Pension: Österreich/Süddeutschland, sonst „Rente“
   - Variants: in Rente gehen | in den Ruhestand gehen
   - Exam: Wortliste B1 (exam vocabulary)
 - **in Rente gehen** — to retire
+  - Words: [[gehen]] · [[Rente]]
   - Ich gehe Ende des Jahres in Rente. *(I retire at the end of the year.)*
   - Variants: in Pension gehen | in den Ruhestand gehen
   - Exam: Wortliste B1 (exam vocabulary)
 - **in Zukunft** — in future
+  - Words: [[Zukunft]]
   - In Zukunft möchte ich mehr Sport machen. *(In future I'd like to do more sport.)*
   - Grammar: in Zukunft (= künftig)
   - Variants: künftig | zukünftig
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **Jahre lang** — for years
+  - Words: [[Jahr]] · [[lang]] · [[langlaufen]]
   - Ich habe Jahre lang in Köln gelebt. *(I lived in Cologne for years.)*
   - Grammar: auch: jahrelang
   - Variants: jahrelang | viele Jahre
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **Jahre später** — years later
+  - Words: [[Jahr]] · [[spät]] · [[später]]
   - Jahre später traf ich ihn wieder. *(Years later I met him again.)*
   - Variants: viele Jahre danach | später
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **jedes Mal, wenn ...** — every time ...
+  - Words: [[Mal]] · [[mal (particle)]]
   - Jedes Mal, wenn ich ihn sehe, lacht er. *(Every time I see him, he laughs.)*
   - Grammar: wenn-Satz: Verb am Ende
   - Variants: immer wenn | sooft
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **kurz darauf** — shortly afterwards
+  - Words: [[kurz]] · [[darauf]]
   - Kurz darauf klingelte das Telefon. *(Shortly afterwards the phone rang.)*
   - Variants: wenig später | bald danach
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **kurz nach ...** — shortly after ...
+  - Words: [[kurz]]
   - Kurz nach dem Essen wurde mir schlecht. *(Shortly after the meal I felt sick.)*
   - Grammar: nach + Dat.
   - Variants: bald nach | wenig nach
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **kurz vor ...** — shortly before ...
+  - Words: [[kurz]]
   - Wir sind kurz vor der Prüfung nervös. *(We are nervous shortly before the exam.)*
   - Grammar: vor + Dat.
   - Variants: unmittelbar vor | knapp vor
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **lange nicht** — not for a long time
+  - Words: [[lang]] · [[lange]]
   - Ich war schon lange nicht mehr im Kino. *(I haven't been to the cinema for a long time.)*
   - Variants: seit Langem nicht | ewig nicht
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **lange nicht mehr** — not for a long time
+  - Words: [[lang]] · [[mehr]] · [[lange]]
   - Ich habe ihn lange nicht mehr gesehen. *(I haven't seen him for a long time.)*
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **lange Zeit** — a long time
+  - Words: [[lang]] · [[Zeit]] · [[lange]]
   - Ich habe lange Zeit in Berlin gelebt. *(I lived in Berlin for a long time.)*
   - Variants: lange | viele Jahre
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **Minuten später** — minutes later
+  - Words: [[spät]] · [[Minute]] · [[später]]
   - Minuten später kam der Krankenwagen. *(Minutes later the ambulance arrived.)*
   - Variants: kurz darauf | wenig später
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **mit der Zeit** — in time; over time
+  - Words: [[Zeit]]
   - Mit der Zeit gewöhnt man sich an alles. *(In time you get used to everything.)*
   - Variants: allmählich | im Laufe der Zeit
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **nach einer Weile** — after a while
+  - Words: [[Weile]]
   - Nach einer Weile kam der Arzt zurück. *(After a while the doctor came back.)*
   - Variants: nach einiger Zeit | später
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **nach einiger Zeit** — after some time
+  - Words: [[Zeit]]
   - Nach einiger Zeit ging es ihm besser. *(After some time he was feeling better.)*
   - Variants: nach einer Weile | später
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **nach kurzer Zeit** — after a short time
+  - Words: [[kurz]] · [[Zeit]]
   - Nach kurzer Zeit kam die Krankenschwester zurück. *(After a short time the nurse came back.)*
   - Variants: bald danach | nach einer Weile
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **nicht mehr lange** — not much longer
+  - Words: [[lang]] · [[mehr]] · [[lange]]
   - Es dauert nicht mehr lange. *(It won't be long now.)*
   - Variants: bald | gleich
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **noch eine Weile** — for a while yet
+  - Words: [[Weile]]
   - Ich bleibe noch eine Weile hier. *(I'm staying here a while longer.)*
   - Variants: noch kurz | noch ein bisschen
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **schon lange** — for a long time
+  - Words: [[lang]] · [[schon]] · [[lange]]
   - Ich kenne ihn schon lange. *(I have known him for a long time.)*
   - Grammar: schon lange + Präsens
   - Variants: seit Langem | seit Jahren
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **seit einiger Zeit** — for some time
+  - Words: [[Zeit]] · [[seit]] · [[sein]]
   - Ich habe seit einiger Zeit Rückenschmerzen. *(I have had back pain for some time.)*
   - Grammar: seit + Dat.: Dauer
   - Variants: seit Kurzem | seit geraumer Zeit
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **seit Jahren** — for years
+  - Words: [[Jahr]] · [[seit]] · [[sein]]
   - Ich lerne seit Jahren Deutsch. *(I've been learning German for years.)*
   - Grammar: seit + Dat.: Dauer
   - Variants: jahrelang | seit langer Zeit
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **so lange, bis ...** — until ...
+  - Words: [[lang]] · [[lange]] · [[bis]]
   - Ich warte so lange, bis du kommst. *(I'll wait until you come.)*
   - Grammar: bis-Satz: Verb am Ende
   - Variants: bis | solange
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **so schnell wie möglich** — as quickly as possible
+  - Words: [[möglich]] · [[schnell]]
   - Bitte antworten Sie so schnell wie möglich. *(Please reply as quickly as possible.)*
   - Variants: baldmöglichst | umgehend
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **Tag und Nacht** — day and night
+  - Words: [[Tag]] · [[Nacht]]
   - Die Notaufnahme ist Tag und Nacht geöffnet. *(The emergency room is open day and night.)*
   - Variants: rund um die Uhr | 24 Stunden
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **Tage später** — days later
+  - Words: [[Tag]] · [[spät]] · [[später]]
   - Tage später ging es ihm besser. *(Days later he was better.)*
   - Variants: einige Tage danach | später
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **von Anfang an** — from the start
+  - Words: [[Anfang]]
   - Ich habe von Anfang an gewusst, dass es schwierig wird. *(I knew from the start that it would be difficult.)*
   - Variants: von vornherein | seit Beginn
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **von einem ... auf den anderen** — from one ... to the next
+  - Words: [[andere]]
   - Von einem Tag auf den anderen veränderte sich ihr Leben radikal. *(From one day to the next her life changed radically.)*
   - Grammar: von einem Tag auf den anderen = plötzlich
   - Variants: plötzlich | von heute auf morgen
 - **vor ein paar Jahren** — a few years ago
+  - Words: [[Jahr]] · [[Paar]] · [[paar (determiner)]]
   - Wir sind vor ein paar Jahren umgezogen. *(We moved a few years ago.)*
   - Variants: vor einigen Jahren | vor längerer Zeit
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **vor ein paar Tagen** — a few days ago
+  - Words: [[Tag]] · [[Paar]] · [[paar (determiner)]]
   - Ich habe ihn vor ein paar Tagen gesehen. *(I saw him a few days ago.)*
   - Grammar: vor + Dat. = zeitlich zurück
   - Variants: vor einigen Tagen | kürzlich
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **wenig später** — shortly afterwards
+  - Words: [[wenig]] · [[spät]] · [[später]]
   - Wenig später klopfte es an der Tür. *(Shortly afterwards there was a knock at the door.)*
   - Variants: kurz darauf | bald danach
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **zu der Zeit** — at that time
+  - Words: [[Zeit]]
   - Zu der Zeit gab es noch keine Handys. *(At that time there were no mobile phones yet.)*
   - Variants: damals | zu jener Zeit
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **zu dieser Zeit** — at that time
+  - Words: [[Zeit]]
   - Zu dieser Zeit lebte ich noch bei meinen Eltern. *(At that time I still lived with my parents.)*
   - Variants: damals | in jener Zeit
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **zu Ende sein** — to finish
+  - Words: [[enden]] · [[Ende]]
   - Der Film ist um zehn Uhr zu Ende. *(The film ends at ten o'clock.)*
   - Grammar: zu Ende sein = beendet sein
   - Variants: vorbei sein | aus sein
 - **zum Ende** — towards the end
+  - Words: [[enden]] · [[Ende]]
   - Zum Ende des Jahres haben wir Urlaub. *(Towards the end of the year we have holiday.)*
   - Variants: am Ende | gegen Ende
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **zur gleichen Zeit** — at the same time
+  - Words: [[Zeit]] · [[gleichen]]
   - Zur gleichen Zeit rief mich meine Mutter an. *(At the same time my mother called me.)*
   - Variants: gleichzeitig | zeitgleich
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **zur Zeit** — at the moment; currently
+  - Words: [[Zeit]]
   - Zur Zeit arbeite ich in einer Klinik. *(At the moment I work in a clinic.)*
   - Grammar: auch: zurzeit (zusammen)
   - Variants: im Moment | derzeit
@@ -494,49 +604,59 @@ tags: ["phrase", "moc"]
 ## B2
 
 - **auch heute noch** — even today
+  - Words: [[heute]]
   - Auch heute noch denke ich oft daran. *(Even today I often think of it.)*
   - Variants: bis heute | immer noch
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **den ganzen Tag über** — throughout the day
+  - Words: [[Tag]]
   - Trinken Sie den ganzen Tag über Wasser. *(Drink water throughout the day.)*
   - Grammar: Akk. der Zeit + über
   - Variants: den ganzen Tag | tagsüber
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **die ganze Zeit über** — the whole time
+  - Words: [[Zeit]]
   - Er hat die ganze Zeit über geschwiegen. *(He was silent the whole time.)*
   - Grammar: Akk. der Zeit + über
   - Variants: die ganze Zeit | durchgehend
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **im Anschluss** — afterwards; subsequently
+  - Words: [[Anschluss]]
   - Im Anschluss gibt es Kaffee und Kuchen. *(Afterwards there is coffee and cake.)*
   - Variants: danach | anschließend
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **im Laufe der Jahre** — over the years
+  - Words: [[Jahr]] · [[laufen]]
   - Im Laufe der Jahre wurde er ruhiger. *(Over the years he became calmer.)*
   - Grammar: im Laufe + Gen.
   - Variants: mit den Jahren | über die Jahre
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **im Laufe der Zeit** — over time
+  - Words: [[Zeit]] · [[laufen]]
   - Im Laufe der Zeit hat sich vieles verändert. *(Over time much has changed.)*
   - Grammar: im Laufe + Gen.
   - Variants: mit der Zeit | allmählich
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in den vergangenen Jahren** — in recent years
+  - Words: [[Jahr]] · [[vergangen]]
   - In den vergangenen Jahren hat sich viel verändert. *(In recent years a lot has changed.)*
   - Grammar: Dativ Plural
   - Variants: in den letzten Jahren | seit einigen Jahren
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in der Früh** — in the morning
+  - Words: [[früh]]
   - Ich stehe in der Früh um sechs Uhr auf. *(I get up at six in the morning.)*
   - Grammar: süddeutsch/österreichisch für „morgens“
   - Variants: am Morgen | morgens
   - Exam: Wortliste B1 (exam vocabulary)
 - **in die Zukunft** — into the future
+  - Words: [[Zukunft]]
   - Wir blicken positiv in die Zukunft. *(We look positively into the future.)*
   - Grammar: in + Akk.: wohin?
   - Variants: nach vorn | zukünftig
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in dieser Phase** — in this phase
+  - Words: [[Phase]]
   - In dieser Phase ist Ruhe wichtig. *(In this phase rest is important.)*
   - Variants: in diesem Stadium | zu diesem Zeitpunkt
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
@@ -549,53 +669,64 @@ tags: ["phrase", "moc"]
   - Variants: immer noch | weiterhin
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **pensioniert werden** — to be retired
+  - Words: [[pensioniert]]
   - Ich werde Ende des Jahres pensioniert. *(I will retire at the end of the year.)*
   - Grammar: Passiv: werden + Partizip II
   - Variants: in Rente gehen | in den Ruhestand treten
   - Exam: Wortliste B1 (exam vocabulary)
 - **schon lange nicht mehr** — not for a long time
+  - Words: [[lang]] · [[schon]] · [[mehr]] · [[lange]]
   - Ich habe ihn schon lange nicht mehr gesehen. *(I haven't seen him for a long time.)*
   - Grammar: schon lange nicht mehr + Perfekt
   - Variants: seit Langem nicht mehr | ewig nicht
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **von Tag zu Tag** — from day to day
+  - Words: [[Tag]]
   - Es geht ihm von Tag zu Tag besser. *(He gets better from day to day.)*
   - Variants: täglich | jeden Tag ein bisschen
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **vor nicht allzu langer Zeit** — not so long ago
+  - Words: [[lang]] · [[Zeit]] · [[allzu]]
   - Vor nicht allzu langer Zeit war ich dort. *(Not so long ago I was there.)*
   - Variants: kürzlich | vor Kurzem
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 ## C1
 
 - **bis auf den heutigen Tag** — up to the present day
+  - Words: [[Tag]] · [[heutig]] · [[bis]]
   - Bis auf den heutigen Tag wurde er nicht gefunden. *(Up to the present day he has not been found.)*
   - Grammar: feierlich-formell
   - Variants: bis heute | bis zum heutigen Tag
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **es ist an der Zeit** — it is time
+  - Words: [[Zeit]]
   - Ist es an der Zeit, die Therapie zu ändern? *(Is it time to change the therapy?)*
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **es ist an der Zeit, ... zu ...** — it is time to ...
+  - Words: [[Zeit]]
   - Es ist an der Zeit, eine Entscheidung zu treffen. *(It is time to make a decision.)*
   - Grammar: an der Zeit sein + zu + Infinitiv
   - Variants: es wird Zeit, ... | höchste Zeit
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **im Anschluss an ...** — following ...
+  - Words: [[Anschluss]]
   - Im Anschluss an den Vortrag gibt es eine Diskussion. *(Following the lecture there is a discussion.)*
   - Grammar: an + Akk.
   - Variants: nach | danach
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **im Verlauf + Gen.** — in the course of ...
+  - Words: [[Verlauf]]
   - Im Verlauf der Krankheit treten Schmerzen auf. *(Pain occurs in the course of the illness.)*
   - Grammar: im Verlauf + Gen.
   - Variants: während | im Laufe
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **im weiteren Verlauf** — in the further course
+  - Words: [[weitere]] · [[Verlauf]]
   - Im weiteren Verlauf erklärt der Arzt die Behandlung. *(In the further course the doctor explains the treatment.)*
   - Variants: später | anschließend
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **in den letzten Jahrzehnten** — in recent decades
+  - Words: [[letzte (adjective)]] · [[Letzte]] · [[Jahrzehnt]]
   - In den letzten Jahrzehnten ist die Lebenserwartung gestiegen. *(In recent decades life expectancy has risen.)*
   - Variants: seit Jahrzehnten | in jüngster Zeit
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
@@ -605,19 +736,23 @@ tags: ["phrase", "moc"]
   - Variants: von Anfang an | von Beginn an
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **zu diesem Zeitpunkt** — at this point in time
+  - Words: [[Zeitpunkt]]
   - Zu diesem Zeitpunkt wussten wir das noch nicht. *(At that point in time we didn't know that yet.)*
   - Variants: damals | in dem Moment
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **zu einem späteren Zeitpunkt** — at a later point
+  - Words: [[Zeitpunkt]]
   - Wir sprechen zu einem späteren Zeitpunkt darüber. *(We will talk about it at a later point.)*
   - Variants: später | zu gegebener Zeit
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **zum Zeitpunkt + Gen.** — at the time of ...
+  - Words: [[Zeitpunkt]]
   - Zum Zeitpunkt der Aufnahme hatte er Fieber. *(At the time of admission he had a fever.)*
   - Grammar: zum Zeitpunkt + Gen.
   - Variants: zur Zeit von | während
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag
 - **über einen längeren Zeitraum** — over a longer period
+  - Words: [[Zeitraum]]
   - Die Medikamente werden über einen längeren Zeitraum eingenommen. *(The medication is taken over a longer period.)*
   - Variants: lange | über Monate
   - Exam: B1 Sprechen Aufgabe 1 (Termin planen) · B1 Schreiben Aufgabe 1 · B2 Vortrag

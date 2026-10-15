@@ -31,6 +31,11 @@ status: "new"
 > Sie erstarrte vor Schreck.
 > *She froze with fright.*
 
+**Phrases & Expressions:**
+- **vor Schreck erstarren** — *to freeze; to stiffen; to set*
+- **zu Eis erstarren** — *to freeze; to stiffen; to set*
+- **in Angst erstarren** — *to freeze; to stiffen; to set*
+
 **Collocations**
 - vor Schreck erstarren
 - zu Eis erstarren

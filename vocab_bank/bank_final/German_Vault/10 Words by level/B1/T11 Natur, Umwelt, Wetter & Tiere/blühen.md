@@ -32,6 +32,9 @@ status: "new"
 > Die Bäume blühen schon. Es ist Frühling.
 > *The trees are already blooming. It is spring.*
 
+**Phrases & Expressions:**
+- **Die Bäume blühen schon. Es ist Frühling** — *The trees are already blooming. It is spring* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

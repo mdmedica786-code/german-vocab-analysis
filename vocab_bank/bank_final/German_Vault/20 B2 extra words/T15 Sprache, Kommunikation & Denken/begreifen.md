@@ -31,6 +31,12 @@ status: "new"
 > Ich begreife nicht, warum er das getan hat.
 > *I do not understand why he did that.*
 
+**Phrases & Expressions:**
+- **Gibt es einen Begriff, den Sie nicht verstanden haben?** — Is there a term that you did not understand? *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Nachfragen]] · B1)*
+- **etwas begreifen** — *to grasp; to understand*
+- **schwer zu begreifen** — *to grasp; to understand*
+- **sich begreifen als** — *to grasp; to understand*
+
 **Collocations**
 - etwas begreifen
 - schwer zu begreifen

@@ -29,6 +29,11 @@ status: "new"
 > Nach der Grippe fühle ich mich noch schlapp.
 > *After the flu I still feel run-down.*
 
+**Phrases & Expressions:**
+- **sich schlapp fühlen** — *limp; weak; run-down*
+- **schlapp sein** — *limp; weak; run-down*
+- **schlapp und müde** — *limp; weak; run-down*
+
 **Collocations**
 - sich schlapp fühlen
 - schlapp sein

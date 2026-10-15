@@ -30,6 +30,9 @@ status: "new"
 > Heute ist es null Grad.
 > *It is zero degrees today.*
 
+**Phrases & Expressions:**
+- **Wie stark ist der Schmerz auf einer Skala von null bis zehn?** — How strong is the pain on a scale from zero to ten? *([[FSP-03 Schmerzanamnese|Intensität erfragen]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!)
 <!-- bank:end -->
 

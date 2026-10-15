@@ -33,6 +33,11 @@ status: "new"
 > Die Einkommensschere zwischen Arm und Reich wird größer.
 > *The income gap between rich and poor is widening.*
 
+**Phrases & Expressions:**
+- **die Einkommensschere öffnet sich** — *income gap*
+- **die Einkommensschere schließen** — *income gap*
+- **wachsende Einkommensschere** — *income gap*
+
 **Collocations**
 - die Einkommensschere öffnet sich
 - die Einkommensschere schließen

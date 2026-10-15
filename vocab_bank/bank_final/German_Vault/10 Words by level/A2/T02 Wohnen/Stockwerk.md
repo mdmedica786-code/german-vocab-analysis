@@ -35,6 +35,9 @@ status: "new"
 > Das Gebäude hat zwanzig Stockwerke.
 > *The building has twenty floors.*
 
+**Phrases & Expressions:**
+- **Das Gebäude hat zwanzig Stockwerke** — *The building has twenty floors* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12c (Zusammen leben) · Goethe word list A2
 <!-- bank:end -->
 

@@ -31,6 +31,9 @@ status: "new"
 > Wenn Sie betrunken Auto fahren, verlieren Sie Ihren Führerschein.
 > *If you drive drunk you lose your driving licence.*
 
+**Phrases & Expressions:**
+- **Wenn Sie betrunken Auto fahren, verlieren Sie Ihren Führerschein** — *If you drive drunk you lose your driving licence* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 1b ÜB (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Das Geburtsjahr Ihres Sohnes, bitte?
 > *The year of birth of your son, please?*
 
+**Phrases & Expressions:**
+- **Das Geburtsjahr Ihres Sohnes, bitte** — *The year of birth of your son, please* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

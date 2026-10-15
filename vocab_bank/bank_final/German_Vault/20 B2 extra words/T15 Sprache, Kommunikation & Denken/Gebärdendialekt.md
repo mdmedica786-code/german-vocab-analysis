@@ -30,6 +30,11 @@ status: "new"
 > Auch in der Gebärdensprache gibt es regionale Gebärdendialekte.
 > *Sign language also has regional dialects.*
 
+**Phrases & Expressions:**
+- **ein regionaler Gebärdendialekt** — *sign language dialect*
+- **einen Gebärdendialekt sprechen** — *sign language dialect*
+- **Gebärdendialekte vergleichen** — *sign language dialect*
+
 **Collocations**
 - ein regionaler Gebärdendialekt
 - einen Gebärdendialekt sprechen

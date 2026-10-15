@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > In seiner Antwort lag viel Ironie.
 > *There was a lot of irony in his answer.*
+
+**Phrases & Expressions:**
+- **In seiner Antwort lag viel Ironie** — *There was a lot of irony in his answer* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

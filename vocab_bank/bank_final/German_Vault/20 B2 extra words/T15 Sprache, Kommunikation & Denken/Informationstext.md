@@ -33,6 +33,11 @@ status: "new"
 > Lesen Sie bitte den Informationstext zur Anmeldung.
 > *Please read the information text on registration.*
 
+**Phrases & Expressions:**
+- **einen Informationstext lesen** — *informational text*
+- **einen Informationstext schreiben** — *informational text*
+- **ein kurzer Informationstext** — *informational text*
+
 **Collocations**
 - einen Informationstext lesen
 - einen Informationstext schreiben

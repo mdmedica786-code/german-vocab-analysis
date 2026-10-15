@@ -33,6 +33,11 @@ status: "new"
 > Die Autorin vertritt eine umstrittene These.
 > *The author represents a controversial thesis.*
 
+**Phrases & Expressions:**
+- **eine These aufstellen** — *thesis; hypothesis*
+- **eine These belegen** — *thesis; hypothesis*
+- **eine These widerlegen** — *thesis; hypothesis*
+
 **Collocations**
 - eine These aufstellen
 - eine These belegen

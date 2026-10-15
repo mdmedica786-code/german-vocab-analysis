@@ -34,6 +34,9 @@ status: "new"
 > „Gern“ ist ein Adverb.
 > *"Gern" is an adverb.*
 
+**Phrases & Expressions:**
+- **„Gern“ ist ein Adverb** — *"Gern" is an adverb* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 11 (Das ist ja praktisch!)
 <!-- bank:end -->
 

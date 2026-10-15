@@ -33,6 +33,11 @@ status: "new"
 > Die Ausleihe ist bis 18 Uhr geöffnet.
 > *The loan desk is open until 6 pm.*
 
+**Phrases & Expressions:**
+- **an der Ausleihe** — *lending; loan desk*
+- **die Ausleihe verlängern** — *lending; loan desk*
+- **Ausleihe und Rückgabe** — *lending; loan desk*
+
 **Collocations**
 - an der Ausleihe
 - die Ausleihe verlängern

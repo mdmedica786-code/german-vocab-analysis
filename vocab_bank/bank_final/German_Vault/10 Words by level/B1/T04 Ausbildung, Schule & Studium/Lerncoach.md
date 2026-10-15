@@ -31,6 +31,9 @@ status: "new"
 > Mein Lerncoach hilft mir bei der Prüfungsvorbereitung.
 > *My learning coach helps me prepare for the exam.*
 
+**Phrases & Expressions:**
+- **Mein Lerncoach hilft mir bei der Prüfungsvorbereitung** — *My learning coach helps me prepare for the exam* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 11a (Rund um Körper und Geist)
 <!-- bank:end -->
 

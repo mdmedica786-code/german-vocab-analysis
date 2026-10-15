@@ -31,6 +31,9 @@ status: "new"
 > Das Essen schmeckt wunderbar.
 > *The food tastes wonderful.*
 
+**Phrases & Expressions:**
+- **Das Essen schmeckt wunderbar** — *The food tastes wonderful* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7d (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

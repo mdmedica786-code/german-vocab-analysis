@@ -34,6 +34,9 @@ status: "new"
 > Die Endung des Verbs ändert sich.
 > *The ending of the verb changes.*
 
+**Phrases & Expressions:**
+- **Die Endung des Verbs ändert sich** — *The ending of the verb changes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3b (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

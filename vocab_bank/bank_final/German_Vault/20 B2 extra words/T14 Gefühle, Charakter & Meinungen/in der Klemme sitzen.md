@@ -29,6 +29,10 @@ status: "new"
 > Ich sitze finanziell ziemlich in der Klemme.
 > *I am in quite a financial fix.*
 
+**Phrases & Expressions:**
+- **jemandem aus der Klemme helfen** — *to be in a fix*
+- **in der Klemme stecken** — *to be in a fix*
+
 **Collocations**
 - jemandem aus der Klemme helfen
 - in der Klemme stecken

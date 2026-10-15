@@ -31,6 +31,13 @@ status: "new"
 > Das Kind hat mehrmals erbrochen.
 > *The child has vomited several times.*
 
+**Phrases & Expressions:**
+- **Haben Sie Übelkeit oder Erbrechen?** — Do you have nausea or vomiting? *([[FSP-06 Systemanamnese (Organsysteme)|Magen-Darm]] · A2)*
+- **Blut erbrechen** — *to vomit*
+- **mehrmals erbrechen** — *to vomit*
+- **Übelkeit und Erbrechen** — *to vomit*
+- **morgens erbrechen** — *to vomit*
+
 **Collocations**
 - Blut erbrechen
 - mehrmals erbrechen

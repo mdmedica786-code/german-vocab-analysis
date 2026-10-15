@@ -33,6 +33,11 @@ status: "new"
 > Das Vieh steht auf der Weide.
 > *The cattle are standing in the pasture.*
 
+**Phrases & Expressions:**
+- **das Vieh füttern** — *cattle; livestock*
+- **Vieh halten** — *cattle; livestock*
+- **Vieh auf der Weide** — *cattle; livestock*
+
 **Collocations**
 - das Vieh füttern
 - Vieh halten

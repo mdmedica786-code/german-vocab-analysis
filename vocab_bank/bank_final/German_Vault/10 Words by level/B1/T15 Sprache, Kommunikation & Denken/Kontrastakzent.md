@@ -31,6 +31,9 @@ status: "new"
 > Beim Kontrastakzent betont man das wichtige Wort besonders stark.
 > *With contrastive stress you stress the important word particularly strongly.*
 
+**Phrases & Expressions:**
+- **Beim Kontrastakzent betont man das wichtige Wort besonders stark** — *With contrastive stress you stress the important word particularly strongly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 9a (Miteinander)
 <!-- bank:end -->
 

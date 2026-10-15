@@ -34,6 +34,9 @@ status: "new"
 > Wie lautet die Singularform von Kinder?
 > *What is the singular form of Kinder?*
 
+**Phrases & Expressions:**
+- **Wie lautet die Singularform von Kinder** — *What is the singular form of Kinder* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 5 (Stadt, Land, Fluss)
 <!-- bank:end -->
 

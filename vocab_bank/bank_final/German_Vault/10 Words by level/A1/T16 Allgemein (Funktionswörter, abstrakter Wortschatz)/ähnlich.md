@@ -31,6 +31,13 @@ status: "new"
 > Emilia ist in einer ganz ähnlichen Situation wie ich.
 > *Emilia is in a very similar situation to mine.*
 
+**Phrases & Expressions:**
+- **Hatten Sie schon einmal ähnliche Schmerzen?** — Have you had similar pain before? *([[FSP-03 Schmerzanamnese|Warnzeichen erfragen]] · B1)*
+- **ähnlich aussehen** — *similar*
+- **eine ähnliche Situation** — *similar*
+- **ähnlich wie** — *similar*
+- **jemandem ähnlich sehen** — *similar*
+
 **Collocations**
 - ähnlich aussehen
 - eine ähnliche Situation

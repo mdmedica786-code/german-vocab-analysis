@@ -33,6 +33,11 @@ status: "new"
 > Sie arbeitet im Außendienst und besucht Kunden.
 > *She works in the field and visits customers.*
 
+**Phrases & Expressions:**
+- **im Außendienst arbeiten** — *field service; sales force (outside the office)*
+- **Mitarbeiter im Außendienst** — *field service; sales force (outside the office)*
+- **der Außendienst reist viel** — *field service; sales force (outside the office)*
+
 **Collocations**
 - im Außendienst arbeiten
 - Mitarbeiter im Außendienst

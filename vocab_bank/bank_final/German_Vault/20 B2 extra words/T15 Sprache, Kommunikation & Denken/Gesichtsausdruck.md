@@ -33,6 +33,11 @@ status: "new"
 > Sein Gesichtsausdruck verriet alles.
 > *His facial expression gave everything away.*
 
+**Phrases & Expressions:**
+- **ein ernster Gesichtsausdruck** — *facial expression*
+- **mit freundlichem Gesichtsausdruck** — *facial expression*
+- **der Gesichtsausdruck ändert sich** — *facial expression*
+
 **Collocations**
 - ein ernster Gesichtsausdruck
 - mit freundlichem Gesichtsausdruck

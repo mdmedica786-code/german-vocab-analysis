@@ -35,6 +35,9 @@ status: "new"
 > Ich geh mal schnell zur Bäckerei.
 > *I'll just pop over to the bakery.*
 
+**Phrases & Expressions:**
+- **Ich geh mal schnell zur Bäckerei** — *I'll just pop over to the bakery* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 2a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

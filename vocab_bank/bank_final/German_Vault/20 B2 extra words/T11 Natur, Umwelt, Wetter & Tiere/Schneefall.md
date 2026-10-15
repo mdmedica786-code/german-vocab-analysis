@@ -33,6 +33,11 @@ status: "new"
 > Starker Schneefall behindert den Verkehr in den Alpen.
 > *Heavy snowfall is hindering traffic in the Alps.*
 
+**Phrases & Expressions:**
+- **starker Schneefall** — *snowfall*
+- **Schneefall setzt ein** — *snowfall*
+- **anhaltender Schneefall** — *snowfall*
+
 **Collocations**
 - starker Schneefall
 - Schneefall setzt ein

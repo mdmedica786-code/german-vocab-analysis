@@ -33,6 +33,11 @@ status: "new"
 > Ein Hauch von Frühling lag in der Luft.
 > *A hint of spring was in the air.*
 
+**Phrases & Expressions:**
+- **ein Hauch von** — *breath; hint; touch*
+- **ein Hauch von Ironie** — *breath; hint; touch*
+- **keinen Hauch einer Chance** — *breath; hint; touch*
+
 **Collocations**
 - ein Hauch von
 - ein Hauch von Ironie

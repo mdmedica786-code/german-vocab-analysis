@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Sie wohnen in einem kleinen Häuschen am Waldrand.
 > *They live in a little house at the edge of the forest.*
+
+**Phrases & Expressions:**
+- **Sie wohnen in einem kleinen Häuschen am Waldrand** — *They live in a little house at the edge of the forest* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

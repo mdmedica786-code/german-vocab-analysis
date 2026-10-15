@@ -30,6 +30,11 @@ status: "new"
 > Vor dem Bahnhof fehlen Fahrradstellplätze.
 > *There are not enough bicycle parking spaces in front of the station.*
 
+**Phrases & Expressions:**
+- **einen Fahrradstellplatz finden** — *bicycle parking space*
+- **überdachte Fahrradstellplätze** — *bicycle parking space*
+- **Fahrradstellplätze schaffen** — *bicycle parking space*
+
 **Collocations**
 - einen Fahrradstellplatz finden
 - überdachte Fahrradstellplätze

@@ -34,6 +34,9 @@ status: "new"
 > Bitte beachten Sie die Markierung auf dem Boden.
 > *Please note the marking on the floor.*
 
+**Phrases & Expressions:**
+- **Bitte beachten Sie die Markierung auf dem Boden** — *Please note the marking on the floor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 13b (Zwischenmenschliches)
 <!-- bank:end -->
 

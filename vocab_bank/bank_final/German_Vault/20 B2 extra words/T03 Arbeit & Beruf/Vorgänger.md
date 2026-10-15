@@ -33,6 +33,11 @@ status: "new"
 > Mein Vorgänger hat die Stelle vor einem Jahr verlassen.
 > *My predecessor left the position a year ago.*
 
+**Phrases & Expressions:**
+- **im Vergleich zum Vorgänger** — *predecessor*
+- **der Vorgänger im Amt** — *predecessor*
+- **mein Vorgänger** — *predecessor*
+
 **Collocations**
 - im Vergleich zum Vorgänger
 - der Vorgänger im Amt

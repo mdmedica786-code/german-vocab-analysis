@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Anhänger des Vereins feiern den Sieg.
 > *The club's supporters celebrate the victory.*
+
+**Phrases & Expressions:**
+- **Die Anhänger des Vereins feiern den Sieg** — *The club's supporters celebrate the victory* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

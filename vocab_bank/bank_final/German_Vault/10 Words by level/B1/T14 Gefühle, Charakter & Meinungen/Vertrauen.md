@@ -34,6 +34,9 @@ status: "new"
 > Ich habe Vertrauen zu Ihnen.
 > *I have trust in you.*
 
+**Phrases & Expressions:**
+- **Ich habe Vertrauen zu Ihnen** — *I have trust in you* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

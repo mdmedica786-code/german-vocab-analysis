@@ -29,6 +29,11 @@ status: "new"
 > Wir fahren ein schadstoffarmes Auto.
 > *We drive a low-emission car.*
 
+**Phrases & Expressions:**
+- **schadstoffarme Produkte** — *low in pollutants*
+- **schadstoffarm sein** — *low in pollutants*
+- **ein schadstoffarmer Motor** — *low in pollutants*
+
 **Collocations**
 - schadstoffarme Produkte
 - schadstoffarm sein

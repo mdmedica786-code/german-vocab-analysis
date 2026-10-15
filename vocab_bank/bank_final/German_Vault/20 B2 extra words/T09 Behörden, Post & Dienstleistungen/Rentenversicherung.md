@@ -33,6 +33,11 @@ status: "new"
 > Jeder Angestellte zahlt in die Rentenversicherung ein.
 > *Every employee pays into the pension insurance.*
 
+**Phrases & Expressions:**
+- **in die Rentenversicherung einzahlen** — *pension insurance*
+- **gesetzliche Rentenversicherung** — *pension insurance*
+- **private Rentenversicherung** — *pension insurance*
+
 **Collocations**
 - in die Rentenversicherung einzahlen
 - gesetzliche Rentenversicherung

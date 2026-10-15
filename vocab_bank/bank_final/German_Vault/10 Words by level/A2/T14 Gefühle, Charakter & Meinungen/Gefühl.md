@@ -35,6 +35,12 @@ status: "new"
 > Ich glaube, ich schaffe die Prüfung. Ich habe ein gutes Gefühl.
 > *I think I'll pass the exam. I have a good feeling.*
 
+**Phrases & Expressions:**
+- **ich habe das Gefühl, dass ...** — I have the feeling that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B1)*
+- **das Gefühl, dass ...** — the feeling that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **ich hatte das Gefühl, dass ...** — I had the feeling that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **ich hatte das Gefühl** — I had the feeling *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle) · Goethe word list B1
 <!-- bank:end -->
 

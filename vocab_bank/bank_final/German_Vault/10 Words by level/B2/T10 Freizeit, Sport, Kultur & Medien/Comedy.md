@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Ich sehe gern Comedy im Fernsehen.
 > *I like watching comedy on TV.*
+
+**Phrases & Expressions:**
+- **Ich sehe gern Comedy im Fernsehen** — *I like watching comedy on TV* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

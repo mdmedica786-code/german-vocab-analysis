@@ -34,6 +34,9 @@ status: "new"
 > „Erste“ ist eine Ordinalzahl.
 > *“Erste” is an ordinal number.*
 
+**Phrases & Expressions:**
+- **„Erste“ ist eine Ordinalzahl** — *“Erste” is an ordinal number* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 4a (Zeit mit Freunden)
 <!-- bank:end -->
 

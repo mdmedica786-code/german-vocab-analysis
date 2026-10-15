@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Der Film war sehr unterhaltsam.
 > *The film was very entertaining.*
+
+**Phrases & Expressions:**
+- **Der Film war sehr unterhaltsam** — *The film was very entertaining* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

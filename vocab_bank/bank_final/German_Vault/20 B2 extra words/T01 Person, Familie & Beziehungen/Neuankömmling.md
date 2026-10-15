@@ -33,6 +33,11 @@ status: "new"
 > Die Neuankömmlinge werden im Kurs herzlich begrüßt.
 > *The newcomers are warmly welcomed in the course.*
 
+**Phrases & Expressions:**
+- **ein Neuankömmling** — *newcomer; new arrival*
+- **die Neuankömmlinge begrüßen** — *newcomer; new arrival*
+- **als Neuankömmling** — *newcomer; new arrival*
+
 **Collocations**
 - ein Neuankömmling
 - die Neuankömmlinge begrüßen

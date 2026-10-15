@@ -33,6 +33,11 @@ status: "new"
 > Die Parkgebühr beträgt zwei Euro pro Stunde.
 > *The parking fee is two euros per hour.*
 
+**Phrases & Expressions:**
+- **Parkgebühren zahlen** — *parking fee*
+- **die Parkgebühr erhöhen** — *parking fee*
+- **Parkgebühr entrichten** — *parking fee*
+
 **Collocations**
 - Parkgebühren zahlen
 - die Parkgebühr erhöhen

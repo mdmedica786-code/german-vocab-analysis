@@ -34,6 +34,9 @@ status: "new"
 > Das Wort „ich“ ist ein Personalpronomen.
 > *The word “ich” is a personal pronoun.*
 
+**Phrases & Expressions:**
+- **Das Wort „ich“ ist ein Personalpronomen** — *The word “ich” is a personal pronoun* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 3b (Guten Tag!)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Zum Schnitzel gibt es Pommes.
 > *Chips come with the schnitzel.*
 
+**Phrases & Expressions:**
+- **Zum Schnitzel gibt es Pommes** — *Chips come with the schnitzel* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 11 (Zeit mit Freunden)
 <!-- bank:end -->
 

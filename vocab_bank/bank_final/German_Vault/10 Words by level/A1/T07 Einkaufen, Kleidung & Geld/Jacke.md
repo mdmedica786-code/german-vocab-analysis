@@ -35,6 +35,9 @@ status: "new"
 > Zieh dir eine Jacke an. Es ist kalt.
 > *Put on a jacket. It is cold.*
 
+**Phrases & Expressions:**
+- **Zieh dir eine Jacke an. Es ist kalt** — *Put on a jacket. It is cold* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 1a (Die Jacke gefällt mir!) · Goethe word list A1
 <!-- bank:end -->
 

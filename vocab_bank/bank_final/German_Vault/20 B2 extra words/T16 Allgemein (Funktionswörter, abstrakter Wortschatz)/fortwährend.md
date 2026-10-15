@@ -29,6 +29,11 @@ status: "new"
 > Er unterbricht mich fortwährend.
 > *He interrupts me constantly.*
 
+**Phrases & Expressions:**
+- **fortwährend stören** — *constantly; continually*
+- **fortwährend wachsen** — *constantly; continually*
+- **fortwährend klingeln** — *constantly; continually*
+
 **Collocations**
 - fortwährend stören
 - fortwährend wachsen

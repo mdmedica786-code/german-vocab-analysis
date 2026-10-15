@@ -26,6 +26,11 @@ status: "new"
 > Er stellt hohe Ansprüche an seine Mitarbeiter.
 > *He makes high demands on his employees.*
 
+**Phrases & Expressions:**
+- **hohe Ansprüche stellen** — *to make demands; to be demanding*
+- **Ansprüche an jemanden stellen** — *to make demands; to be demanding*
+- **Anspruch erheben** — *to make demands; to be demanding*
+
 **Collocations**
 - hohe Ansprüche stellen
 - Ansprüche an jemanden stellen

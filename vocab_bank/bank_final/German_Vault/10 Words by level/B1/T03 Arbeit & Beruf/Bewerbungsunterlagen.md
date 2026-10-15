@@ -34,6 +34,9 @@ status: "new"
 > Bitte senden Sie Ihre Bewerbungsunterlagen per E-Mail.
 > *Please send your application documents by email.*
 
+**Phrases & Expressions:**
+- **Anbei übersende ich Ihnen meine Bewerbungsunterlagen.** — Enclosed I am sending you my application documents. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Unterlagen einreichen]] · B2)*
+
 **Source:** Netzwerk neu B1 K4 12b (Arbeitswelt)
 <!-- bank:end -->
 

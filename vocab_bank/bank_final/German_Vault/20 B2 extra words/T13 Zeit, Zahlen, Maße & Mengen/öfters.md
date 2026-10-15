@@ -29,6 +29,11 @@ status: "new"
 > Wir treffen uns öfters in der Stadt.
 > *We meet in town fairly often.*
 
+**Phrases & Expressions:**
+- **öfters besuchen** — *often; repeatedly*
+- **öfters vorkommen** — *often; repeatedly*
+- **öfters mal** — *often; repeatedly*
+
 **Collocations**
 - öfters besuchen
 - öfters vorkommen

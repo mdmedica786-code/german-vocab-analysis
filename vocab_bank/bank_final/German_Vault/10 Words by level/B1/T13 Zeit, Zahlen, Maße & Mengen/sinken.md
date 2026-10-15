@@ -33,6 +33,9 @@ status: "new"
 > Das Schiff ist vor der Küste gesunken.
 > *The ship sank off the coast.*
 
+**Phrases & Expressions:**
+- **Das Schiff ist vor der Küste gesunken** — *The ship sank off the coast* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

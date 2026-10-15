@@ -35,6 +35,9 @@ status: "new"
 > Deutschland ist eine Demokratie.
 > *Germany is a democracy.*
 
+**Phrases & Expressions:**
+- **Deutschland ist eine Demokratie** — *Germany is a democracy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1a (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

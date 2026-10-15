@@ -29,6 +29,10 @@ status: "new"
 > Wenn du das glaubst, bist du auf dem Holzweg.
 > *If you believe that, you are on the wrong track.*
 
+**Phrases & Expressions:**
+- **sich auf dem Holzweg befinden** — *to be on the wrong track*
+- **falsch liegen** — *to be on the wrong track*
+
 **Collocations**
 - sich auf dem Holzweg befinden
 - falsch liegen

@@ -33,6 +33,9 @@ status: "new"
 > Wir bauen das Zelt am See auf.
 > *We are putting up the tent by the lake.*
 
+**Phrases & Expressions:**
+- **Wir bauen das Zelt am See auf** — *We are putting up the tent by the lake* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 9a (Gute Reise!)
 <!-- bank:end -->
 

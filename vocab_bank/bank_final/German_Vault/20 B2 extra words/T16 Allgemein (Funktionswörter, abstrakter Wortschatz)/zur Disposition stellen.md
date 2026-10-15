@@ -26,6 +26,10 @@ status: "new"
 > Die Regierung stellt die Reform zur Disposition.
 > *The government puts the reform up for review.*
 
+**Phrases & Expressions:**
+- **zur Disposition stehen** — *to put up for review; to make available*
+- **etwas zur Debatte stellen** — *to put up for review; to make available*
+
 **Collocations**
 - zur Disposition stehen
 - etwas zur Debatte stellen

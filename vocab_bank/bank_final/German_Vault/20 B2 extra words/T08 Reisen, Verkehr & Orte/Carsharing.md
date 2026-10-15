@@ -33,6 +33,11 @@ status: "new"
 > In der Stadt nutze ich Carsharing statt eines eigenen Autos.
 > *In the city I use car sharing instead of my own car.*
 
+**Phrases & Expressions:**
+- **Carsharing nutzen** — *car sharing*
+- **ein Carsharing-Angebot** — *car sharing*
+- **per Carsharing fahren** — *car sharing*
+
 **Collocations**
 - Carsharing nutzen
 - ein Carsharing-Angebot

@@ -29,6 +29,11 @@ status: "new"
 > Sein Annäherungsversuch war ziemlich plump.
 > *His attempt to get closer was rather clumsy.*
 
+**Phrases & Expressions:**
+- **ein plumper Versuch** — *clumsy; crude*
+- **plump wirken** — *clumsy; crude*
+- **eine plumpe Lüge** — *clumsy; crude*
+
 **Collocations**
 - ein plumper Versuch
 - plump wirken

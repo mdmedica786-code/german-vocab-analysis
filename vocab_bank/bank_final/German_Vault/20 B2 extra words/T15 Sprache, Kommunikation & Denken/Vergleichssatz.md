@@ -33,6 +33,11 @@ status: "new"
 > Im Unterricht üben wir den Vergleichssatz mit „als" und „wie".
 > *In class we practise the comparative clause with "als" and "wie".*
 
+**Phrases & Expressions:**
+- **einen Vergleichssatz bilden** — *comparative clause; sentence of comparison*
+- **einen Vergleichssatz schreiben** — *comparative clause; sentence of comparison*
+- **ein Vergleichssatz mit „als"** — *comparative clause; sentence of comparison*
+
 **Collocations**
 - einen Vergleichssatz bilden
 - einen Vergleichssatz schreiben

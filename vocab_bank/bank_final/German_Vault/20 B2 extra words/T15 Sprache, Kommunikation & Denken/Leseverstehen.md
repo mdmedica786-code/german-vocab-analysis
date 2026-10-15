@@ -30,6 +30,11 @@ status: "new"
 > Das Leseverstehen ist der erste Teil der Prüfung.
 > *The reading comprehension is the first part of the exam.*
 
+**Phrases & Expressions:**
+- **das Leseverstehen üben** — *reading comprehension*
+- **Aufgaben zum Leseverstehen** — *reading comprehension*
+- **Leseverstehen verbessern** — *reading comprehension*
+
 **Collocations**
 - das Leseverstehen üben
 - Aufgaben zum Leseverstehen

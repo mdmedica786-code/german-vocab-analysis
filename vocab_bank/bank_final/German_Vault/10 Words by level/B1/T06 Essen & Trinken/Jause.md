@@ -42,6 +42,9 @@ status: "new"
 > Es ist Zeit für eine kleine Jause.
 > *It is time for a little snack.*
 
+**Phrases & Expressions:**
+- **Es ist Zeit für eine kleine Jause** — *It is time for a little snack* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

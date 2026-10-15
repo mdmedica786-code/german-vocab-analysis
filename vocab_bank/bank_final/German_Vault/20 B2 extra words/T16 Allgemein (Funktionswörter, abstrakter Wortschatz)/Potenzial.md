@@ -33,6 +33,11 @@ status: "new"
 > Die Region hat großes Potenzial für den Tourismus.
 > *The region has great potential for tourism.*
 
+**Phrases & Expressions:**
+- **Potenzial haben** — *potential*
+- **Potenzial ausschöpfen** — *potential*
+- **großes Potenzial** — *potential*
+
 **Collocations**
 - Potenzial haben
 - Potenzial ausschöpfen

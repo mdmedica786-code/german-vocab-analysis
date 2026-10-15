@@ -26,6 +26,10 @@ status: "new"
 > Die Menschen suchten in der Kirche Zuflucht.
 > *The people sought refuge in the church.*
 
+**Phrases & Expressions:**
+- **Zuflucht finden** — *to seek refuge*
+- **in etwas Zuflucht suchen** — *to seek refuge*
+
 **Collocations**
 - Zuflucht finden
 - in etwas Zuflucht suchen

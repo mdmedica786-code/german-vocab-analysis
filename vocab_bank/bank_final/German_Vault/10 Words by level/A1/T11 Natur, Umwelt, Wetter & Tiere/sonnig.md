@@ -31,6 +31,9 @@ status: "new"
 > Morgen ist das Wetter wieder warm und sonnig.
 > *Tomorrow the weather will be warm and sunny again.*
 
+**Phrases & Expressions:**
+- **Morgen ist das Wetter wieder warm und sonnig** — *Tomorrow the weather will be warm and sunny again* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 11b (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Mozart galt schon als Kind als Genie.
 > *Mozart was regarded as a genius even as a child.*
 
+**Phrases & Expressions:**
+- **ein wahres Genie** — *genius*
+- **ein Genie sein** — *genius*
+- **ein mathematisches Genie** — *genius*
+
 **Collocations**
 - ein wahres Genie
 - ein Genie sein

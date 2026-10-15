@@ -29,6 +29,11 @@ status: "new"
 > Das Zusammenleben in der Familie ist nicht immer konfliktfrei.
 > *Living together in the family is not always free of conflict.*
 
+**Phrases & Expressions:**
+- **konfliktfrei lösen** — *conflict-free; without conflict*
+- **ein konfliktfreies Miteinander** — *conflict-free; without conflict*
+- **nicht konfliktfrei sein** — *conflict-free; without conflict*
+
 **Collocations**
 - konfliktfrei lösen
 - ein konfliktfreies Miteinander

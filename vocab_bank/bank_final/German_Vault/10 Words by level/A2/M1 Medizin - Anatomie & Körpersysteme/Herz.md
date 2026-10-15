@@ -36,6 +36,14 @@ status: "new"
 > Ich bin ganz nervös. Mir klopft das Herz.
 > *I'm really nervous. My heart is pounding.*
 
+**Phrases & Expressions:**
+- **Danke für das Feedback, das nehme ich mir zu Herzen.** — Thank you for the feedback; I'll take that to heart. *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Feedback annehmen]] · B2)*
+- **Über dem Herzen hört man ein Systolikum.** — A systolic murmur can be heard over the heart. *([[FSP-08 Befunde beschreiben und berichten|Auskultation]] · C1)*
+- **Wir schreiben jetzt ein EKG, um Ihr Herz zu überprüfen.** — We are now going to record an ECG to check your heart. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|EKG]] · A2)*
+- **Ein paar Kilo weniger würden Ihrem Herzen guttun.** — A few kilos less would do your heart good. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Gewicht besprechen]] · B1)*
+- **das Herz schlägt** — *heart*
+- **Herzklopfen haben** — *heart*
+
 **Collocations**
 - das Herz schlägt
 - Herzklopfen haben

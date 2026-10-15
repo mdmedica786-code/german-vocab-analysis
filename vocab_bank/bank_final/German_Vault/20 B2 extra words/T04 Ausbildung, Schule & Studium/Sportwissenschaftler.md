@@ -33,6 +33,11 @@ status: "new"
 > Der Sportwissenschaftler untersucht die Wirkung von Training.
 > *The sports scientist examines the effect of training.*
 
+**Phrases & Expressions:**
+- **ein bekannter Sportwissenschaftler** — *sports scientist (male)*
+- **als Sportwissenschaftler arbeiten** — *sports scientist (male)*
+- **Sportwissenschaftler werden** — *sports scientist (male)*
+
 **Collocations**
 - ein bekannter Sportwissenschaftler
 - als Sportwissenschaftler arbeiten

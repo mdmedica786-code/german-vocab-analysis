@@ -33,6 +33,11 @@ status: "new"
 > Im Kulturzentrum gibt es jeden Freitag ein Konzert.
 > *At the cultural centre there is a concert every Friday.*
 
+**Phrases & Expressions:**
+- **ins Kulturzentrum gehen** — *cultural centre*
+- **ein Kulturzentrum leiten** — *cultural centre*
+- **das Kulturzentrum der Stadt** — *cultural centre*
+
 **Collocations**
 - ins Kulturzentrum gehen
 - ein Kulturzentrum leiten

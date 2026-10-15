@@ -33,6 +33,11 @@ status: "new"
 > Das Paar hat zwei Pflegekinder aufgenommen.
 > *The couple has taken in two foster children.*
 
+**Phrases & Expressions:**
+- **ein Pflegekind aufnehmen** — *foster child*
+- **Eltern eines Pflegekindes** — *foster child*
+- **Pflegekinder betreuen** — *foster child*
+
 **Collocations**
 - ein Pflegekind aufnehmen
 - Eltern eines Pflegekindes

@@ -33,6 +33,11 @@ status: "new"
 > Der Protagonist des Romans ist ein junger Arzt.
 > *The protagonist of the novel is a young doctor.*
 
+**Phrases & Expressions:**
+- **der Protagonist des Films** — *protagonist; main character*
+- **ein starker Protagonist** — *protagonist; main character*
+- **die Protagonisten der Geschichte** — *protagonist; main character*
+
 **Collocations**
 - der Protagonist des Films
 - ein starker Protagonist

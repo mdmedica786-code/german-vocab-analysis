@@ -29,6 +29,11 @@ status: "new"
 > Das Beispiel steht exemplarisch für viele Fälle.
 > *The example is representative of many cases.*
 
+**Phrases & Expressions:**
+- **exemplarisch zeigen** — *exemplary; representative*
+- **ein exemplarisches Beispiel** — *exemplary; representative*
+- **exemplarisch für etwas** — *exemplary; representative*
+
 **Collocations**
 - exemplarisch zeigen
 - ein exemplarisches Beispiel

@@ -30,6 +30,9 @@ status: "new"
 > Mein Handy ist gerade offline.
 > *My phone is offline at the moment.*
 
+**Phrases & Expressions:**
+- **Mein Handy ist gerade offline** — *My phone is offline at the moment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 6a (Arbeitsalltag)
 <!-- bank:end -->
 

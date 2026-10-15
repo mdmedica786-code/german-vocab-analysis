@@ -33,6 +33,11 @@ status: "new"
 > Sie hat einen Ausbildungsplatz in einer Bank bekommen.
 > *She has got an apprenticeship position at a bank.*
 
+**Phrases & Expressions:**
+- **einen Ausbildungsplatz suchen** — *training place; apprenticeship position*
+- **Ausbildungsplätze anbieten** — *training place; apprenticeship position*
+- **einen Ausbildungsplatz finden** — *training place; apprenticeship position*
+
 **Collocations**
 - einen Ausbildungsplatz suchen
 - Ausbildungsplätze anbieten

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Blonde dort ist meine Schwester.
 > *The blonde woman over there is my sister.*
+
+**Phrases & Expressions:**
+- **Die Blonde dort ist meine Schwester** — *The blonde woman over there is my sister* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

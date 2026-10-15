@@ -29,6 +29,11 @@ status: "new"
 > Hier kann man nur bargeldlos bezahlen.
 > *Here you can only pay without cash.*
 
+**Phrases & Expressions:**
+- **bargeldlos bezahlen** — *cashless*
+- **bargeldloser Zahlungsverkehr** — *cashless*
+- **eine bargeldlose Gesellschaft** — *cashless*
+
 **Collocations**
 - bargeldlos bezahlen
 - bargeldloser Zahlungsverkehr

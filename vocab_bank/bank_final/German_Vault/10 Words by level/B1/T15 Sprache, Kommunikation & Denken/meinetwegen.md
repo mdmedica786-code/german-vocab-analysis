@@ -31,6 +31,9 @@ status: "new"
 > Meinetwegen kannst du heute das Auto haben.
 > *Fine with me, you can have the car today.*
 
+**Phrases & Expressions:**
+- **Meinetwegen kannst du heute das Auto haben** — *Fine with me, you can have the car today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 4a (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

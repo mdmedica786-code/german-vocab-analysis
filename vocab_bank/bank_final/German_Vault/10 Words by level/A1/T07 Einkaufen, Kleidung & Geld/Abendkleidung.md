@@ -34,6 +34,9 @@ status: "new"
 > Für die Feier brauchen Sie Abendkleidung.
 > *For the party you need evening wear.*
 
+**Phrases & Expressions:**
+- **Für die Feier brauchen Sie Abendkleidung** — *For the party you need evening wear* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

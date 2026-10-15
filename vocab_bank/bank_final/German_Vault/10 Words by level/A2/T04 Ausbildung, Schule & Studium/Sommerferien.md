@@ -34,6 +34,9 @@ status: "new"
 > In den Sommerferien fahren wir ans Meer.
 > *In the summer holidays we go to the seaside.*
 
+**Phrases & Expressions:**
+- **In den Sommerferien fahren wir ans Meer** — *In the summer holidays we go to the seaside* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 3a (Nach der Schulzeit)
 <!-- bank:end -->
 

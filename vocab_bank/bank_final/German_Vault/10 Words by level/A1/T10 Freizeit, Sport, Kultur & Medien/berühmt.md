@@ -31,6 +31,9 @@ status: "new"
 > Thomas Müller ist ein berühmter Fußballspieler.
 > *Thomas Müller is a famous footballer.*
 
+**Phrases & Expressions:**
+- **Thomas Müller ist ein berühmter Fußballspieler** — *Thomas Müller is a famous footballer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 13a (Studium und Beruf) · Goethe word list A2
 <!-- bank:end -->
 

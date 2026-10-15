@@ -29,6 +29,11 @@ status: "new"
 > Das Land verstärkt seine militärische Präsenz.
 > *The country is strengthening its military presence.*
 
+**Phrases & Expressions:**
+- **militärische Gewalt** — *military*
+- **ein militärischer Einsatz** — *military*
+- **militärisch eingreifen** — *military*
+
 **Collocations**
 - militärische Gewalt
 - ein militärischer Einsatz

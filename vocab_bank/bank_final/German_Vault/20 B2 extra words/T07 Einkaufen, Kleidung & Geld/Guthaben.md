@@ -33,6 +33,11 @@ status: "new"
 > Auf meinem Handy ist noch ein Guthaben von fünf Euro.
 > *There are still five euros of credit on my phone.*
 
+**Phrases & Expressions:**
+- **ein Guthaben haben** — *credit balance; credit*
+- **Guthaben aufladen** — *credit balance; credit*
+- **das Guthaben auszahlen** — *credit balance; credit*
+
 **Collocations**
 - ein Guthaben haben
 - Guthaben aufladen

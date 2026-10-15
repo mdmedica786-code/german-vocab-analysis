@@ -32,6 +32,14 @@ status: "new"
 > Wann und wo sind Sie geboren?
 > *When and where were you born?*
 
+**Phrases & Expressions:**
+- **wird deutlich, dass ...** — it becomes clear that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **wird in der Regel ...** — is usually ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **es wird davon ausgegangen, dass ...** — it is assumed that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+- **mir wurde klar, dass ...** — it became clear to me that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **es wird Zeit, dass ...** — it's time that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **es wird deutlich, dass ...** — it becomes clear that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

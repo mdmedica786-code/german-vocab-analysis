@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > In der Beratung ging es um Sex und Verhütung.
 > *The counselling session was about sex and contraception.*
+
+**Phrases & Expressions:**
+- **In der Beratung ging es um Sex und Verhütung** — *The counselling session was about sex and contraception* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

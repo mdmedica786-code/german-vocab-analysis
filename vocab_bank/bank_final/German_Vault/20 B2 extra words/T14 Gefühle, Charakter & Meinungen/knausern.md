@@ -32,6 +32,11 @@ status: "new"
 > Beim Trinkgeld hat er nicht geknausert.
 > *He was not stingy with the tip.*
 
+**Phrases & Expressions:**
+- **mit etwas knausern** — *to be stingy*
+- **nicht knausern** — *to be stingy*
+- **am Geld knausern** — *to be stingy*
+
 **Collocations**
 - mit etwas knausern
 - nicht knausern

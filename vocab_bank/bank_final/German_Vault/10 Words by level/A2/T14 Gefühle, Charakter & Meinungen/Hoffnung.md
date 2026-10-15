@@ -35,6 +35,13 @@ status: "new"
 > Man darf die Hoffnung nicht verlieren.
 > *You must not lose hope.*
 
+**Phrases & Expressions:**
+- **in der Hoffnung, dass ...** — in the hope that ... *([[Bedingung - Zweck (condition, purpose)|Bedingung / Zweck (condition, purpose)]] · B2)*
+- **Hoffnung haben** — *hope*
+- **die Hoffnung verlieren** — *hope*
+- **neue Hoffnung schöpfen** — *hope*
+- **Hoffnung auf Besserung** — *hope*
+
 **Collocations**
 - Hoffnung haben
 - die Hoffnung verlieren

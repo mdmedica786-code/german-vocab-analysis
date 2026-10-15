@@ -32,6 +32,11 @@ status: "new"
 > Sie lästern ständig über die Kollegen.
 > *They are constantly badmouthing the colleagues.*
 
+**Phrases & Expressions:**
+- **über jemanden lästern** — *to gossip maliciously; to badmouth*
+- **hinter jemandes Rücken lästern** — *to gossip maliciously; to badmouth*
+- **gern lästern** — *to gossip maliciously; to badmouth*
+
 **Collocations**
 - über jemanden lästern
 - hinter jemandes Rücken lästern

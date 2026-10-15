@@ -31,6 +31,9 @@ status: "new"
 > Unser Sportteam trainiert zweimal pro Woche.
 > *Our sports team trains twice a week.*
 
+**Phrases & Expressions:**
+- **Unser Sportteam trainiert zweimal pro Woche** — *Our sports team trains twice a week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 8d (Kunststücke)
 <!-- bank:end -->
 

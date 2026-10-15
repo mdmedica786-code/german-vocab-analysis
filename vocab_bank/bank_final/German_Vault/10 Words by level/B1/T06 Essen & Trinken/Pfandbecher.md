@@ -34,6 +34,9 @@ status: "new"
 > Den Pfandbecher gibt man am Stand zurück.
 > *You return the deposit cup at the stall.*
 
+**Phrases & Expressions:**
+- **Den Pfandbecher gibt man am Stand zurück** — *You return the deposit cup at the stall* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 9a (Umweltfreundlich?)
 <!-- bank:end -->
 

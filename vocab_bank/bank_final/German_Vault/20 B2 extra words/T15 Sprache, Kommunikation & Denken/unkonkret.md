@@ -26,6 +26,11 @@ status: "new"
 > Ihre Antwort war leider ziemlich unkonkret.
 > *Her answer was unfortunately rather vague.*
 
+**Phrases & Expressions:**
+- **unkonkret bleiben** — *vague; not concrete*
+- **eine unkonkrete Aussage** — *vague; not concrete*
+- **zu unkonkret sein** — *vague; not concrete*
+
 **Collocations**
 - unkonkret bleiben
 - eine unkonkrete Aussage

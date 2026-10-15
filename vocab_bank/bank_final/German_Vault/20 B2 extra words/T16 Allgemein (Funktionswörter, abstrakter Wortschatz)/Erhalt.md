@@ -33,6 +33,11 @@ status: "new"
 > Nach Erhalt der Rechnung bitten wir um Zahlung.
 > *After receipt of the invoice we ask for payment.*
 
+**Phrases & Expressions:**
+- **nach Erhalt** — *receipt; preservation*
+- **der Erhalt der Natur** — *receipt; preservation*
+- **den Erhalt bestätigen** — *receipt; preservation*
+
 **Collocations**
 - nach Erhalt
 - der Erhalt der Natur

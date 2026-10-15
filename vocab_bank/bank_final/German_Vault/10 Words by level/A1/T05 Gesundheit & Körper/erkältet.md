@@ -31,6 +31,9 @@ status: "new"
 > Ich bin stark erkältet.
 > *I have a bad cold.*
 
+**Phrases & Expressions:**
+- **Ich bin stark erkältet** — *I have a bad cold* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 10a (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

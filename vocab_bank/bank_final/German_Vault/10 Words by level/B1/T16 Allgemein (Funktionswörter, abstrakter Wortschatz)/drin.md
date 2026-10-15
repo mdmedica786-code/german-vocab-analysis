@@ -30,6 +30,9 @@ status: "new"
 > In der Packung ist nichts mehr drin.
 > *There is nothing left in the packet.*
 
+**Phrases & Expressions:**
+- **In der Packung ist nichts mehr drin** — *There is nothing left in the packet* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

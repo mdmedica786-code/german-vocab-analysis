@@ -34,6 +34,9 @@ status: "new"
 > Der Plural von „Kind“ ist „Kinder“.
 > *The plural of “Kind” is “Kinder”.*
 
+**Phrases & Expressions:**
+- **Der Plural von „Kind“ ist „Kinder“** — *The plural of “Kind” is “Kinder”* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

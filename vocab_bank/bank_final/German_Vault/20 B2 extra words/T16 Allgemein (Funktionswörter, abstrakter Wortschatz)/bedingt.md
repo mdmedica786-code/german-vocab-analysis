@@ -29,6 +29,11 @@ status: "new"
 > Das Gerät ist nur bedingt einsatzbereit.
 > *The device is ready for use only to a limited extent.*
 
+**Phrases & Expressions:**
+- **nur bedingt** — *conditional; limited*
+- **bedingt geeignet** — *conditional; limited*
+- **bedingt durch** — *conditional; limited*
+
 **Collocations**
 - nur bedingt
 - bedingt geeignet

@@ -35,6 +35,9 @@ status: "new"
 > Bald haben wir Ferien.
 > *We'll soon have holidays.*
 
+**Phrases & Expressions:**
+- **Bald haben wir Ferien** — *We'll soon have holidays* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 3a (Nach der Schulzeit) · Goethe word list A2
 <!-- bank:end -->
 

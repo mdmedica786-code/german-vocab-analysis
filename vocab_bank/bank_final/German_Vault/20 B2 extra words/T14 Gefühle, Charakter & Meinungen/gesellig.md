@@ -29,6 +29,11 @@ status: "new"
 > Er ist ein geselliger Typ und hat viele Freunde.
 > *He is a sociable guy and has many friends.*
 
+**Phrases & Expressions:**
+- **ein geselliger Mensch** — *sociable*
+- **gesellig beisammensitzen** — *sociable*
+- **gesellig sein** — *sociable*
+
 **Collocations**
 - ein geselliger Mensch
 - gesellig beisammensitzen

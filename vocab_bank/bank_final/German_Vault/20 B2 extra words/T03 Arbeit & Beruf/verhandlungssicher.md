@@ -29,6 +29,11 @@ status: "new"
 > Für die Stelle suchen wir jemanden mit verhandlungssicherem Englisch.
 > *For the position we are looking for someone with English good enough for negotiations.*
 
+**Phrases & Expressions:**
+- **verhandlungssicheres Englisch** — *fluent enough for negotiations; skilled in negotiating*
+- **verhandlungssicher sein** — *fluent enough for negotiations; skilled in negotiating*
+- **verhandlungssicher auftreten** — *fluent enough for negotiations; skilled in negotiating*
+
 **Collocations**
 - verhandlungssicheres Englisch
 - verhandlungssicher sein

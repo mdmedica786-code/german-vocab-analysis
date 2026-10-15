@@ -33,6 +33,13 @@ status: "new"
 > Ich möchte keine Zeit verlieren.
 > *I don't want to lose any time.*
 
+**Phrases & Expressions:**
+- **aus den Augen verlieren** — to lose touch *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B1)*
+- **den Mut verlieren** — *to lose*
+- **Zeit verlieren** — *to lose*
+- **ein Spiel verlieren** — *to lose*
+- **den Schlüssel verlieren** — *to lose*
+
 **Collocations**
 - den Mut verlieren
 - Zeit verlieren

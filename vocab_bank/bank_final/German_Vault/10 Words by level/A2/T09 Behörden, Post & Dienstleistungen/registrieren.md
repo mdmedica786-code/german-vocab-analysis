@@ -33,6 +33,9 @@ status: "new"
 > Ich muss mich noch bei der Plattform registrieren.
 > *I still have to register on the platform.*
 
+**Phrases & Expressions:**
+- **Ich muss mich noch bei der Plattform registrieren** — *I still have to register on the platform* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 6a (Ganz schön mobil)
 <!-- bank:end -->
 

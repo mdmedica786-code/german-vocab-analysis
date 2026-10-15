@@ -32,6 +32,11 @@ status: "new"
 > Sie ist im Unternehmen schnell aufgestiegen.
 > *She rose quickly in the company.*
 
+**Phrases & Expressions:**
+- **in der Karriere aufsteigen** — *to rise; to be promoted*
+- **zur Managerin aufsteigen** — *to rise; to be promoted*
+- **in die Bundesliga aufsteigen** — *to rise; to be promoted*
+
 **Collocations**
 - in der Karriere aufsteigen
 - zur Managerin aufsteigen

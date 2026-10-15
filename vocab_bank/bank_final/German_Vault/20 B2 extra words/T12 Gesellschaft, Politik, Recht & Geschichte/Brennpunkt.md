@@ -33,6 +33,11 @@ status: "new"
 > Die Schule liegt in einem sozialen Brennpunkt.
 > *The school is in a social trouble spot.*
 
+**Phrases & Expressions:**
+- **sozialer Brennpunkt** — *focal point; trouble spot*
+- **im Brennpunkt stehen** — *focal point; trouble spot*
+- **Brennpunkt des Interesses** — *focal point; trouble spot*
+
 **Collocations**
 - sozialer Brennpunkt
 - im Brennpunkt stehen

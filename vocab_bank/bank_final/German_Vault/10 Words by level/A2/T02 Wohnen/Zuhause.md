@@ -35,6 +35,9 @@ status: "new"
 > Ich fühle mich hier wohl. Das ist mein Zuhause.
 > *I feel comfortable here. This is my home.*
 
+**Phrases & Expressions:**
+- **Ich fühle mich hier wohl. Das ist mein Zuhause** — *I feel comfortable here. This is my home* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12a (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

@@ -26,6 +26,10 @@ status: "new"
 > Das Unternehmen stellt Nachhaltigkeit in den Vordergrund.
 > *The company puts sustainability in the foreground.*
 
+**Phrases & Expressions:**
+- **in den Vordergrund rücken** — *to put in the foreground; to emphasise*
+- **im Vordergrund stehen** — *to put in the foreground; to emphasise*
+
 **Collocations**
 - in den Vordergrund rücken
 - im Vordergrund stehen

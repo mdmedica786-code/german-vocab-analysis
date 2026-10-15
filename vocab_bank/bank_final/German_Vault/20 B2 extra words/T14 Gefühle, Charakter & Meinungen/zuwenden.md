@@ -33,6 +33,11 @@ status: "new"
 > Sie wandte sich ihrem Nachbarn zu und lächelte.
 > *She turned to her neighbour and smiled.*
 
+**Phrases & Expressions:**
+- **sich jemandem zuwenden** — *to turn to; (sich) to turn towards; to devote oneself to*
+- **sich einem Thema zuwenden** — *to turn to; (sich) to turn towards; to devote oneself to*
+- **sich der Politik zuwenden** — *to turn to; (sich) to turn towards; to devote oneself to*
+
 **Collocations**
 - sich jemandem zuwenden
 - sich einem Thema zuwenden

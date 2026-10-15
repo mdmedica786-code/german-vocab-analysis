@@ -33,6 +33,11 @@ status: "new"
 > Seine Zeitgenossen verstanden den Dichter nicht.
 > *His contemporaries did not understand the poet.*
 
+**Phrases & Expressions:**
+- **ein Zeitgenosse von** — *contemporary; (sometimes humorous) character; person*
+- **ein seltsamer Zeitgenosse** — *contemporary; (sometimes humorous) character; person*
+- **die Zeitgenossen** — *contemporary; (sometimes humorous) character; person*
+
 **Collocations**
 - ein Zeitgenosse von
 - ein seltsamer Zeitgenosse

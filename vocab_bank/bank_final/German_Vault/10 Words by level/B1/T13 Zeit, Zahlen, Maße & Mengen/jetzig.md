@@ -30,6 +30,9 @@ status: "new"
 > Die jetzige Lage ist schwierig.
 > *The current situation is difficult.*
 
+**Phrases & Expressions:**
+- **Die jetzige Lage ist schwierig** — *The current situation is difficult* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 6a (Veränderungen)
 <!-- bank:end -->
 

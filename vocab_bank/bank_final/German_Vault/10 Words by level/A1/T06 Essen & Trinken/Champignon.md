@@ -34,6 +34,9 @@ status: "new"
 > Die Soße enthält frische Champignons.
 > *The sauce contains fresh mushrooms.*
 
+**Phrases & Expressions:**
+- **Die Soße enthält frische Champignons** — *The sauce contains fresh mushrooms* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!)
 <!-- bank:end -->
 

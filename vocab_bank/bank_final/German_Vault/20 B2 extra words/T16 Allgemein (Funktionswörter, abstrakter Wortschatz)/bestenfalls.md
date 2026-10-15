@@ -29,6 +29,11 @@ status: "new"
 > Die Reparatur dauert bestenfalls zwei Tage.
 > *The repair takes two days at best.*
 
+**Phrases & Expressions:**
+- **bestenfalls möglich** — *at best*
+- **im besten Fall** — *at best*
+- **bestenfalls ein Drittel** — *at best*
+
 **Collocations**
 - bestenfalls möglich
 - im besten Fall

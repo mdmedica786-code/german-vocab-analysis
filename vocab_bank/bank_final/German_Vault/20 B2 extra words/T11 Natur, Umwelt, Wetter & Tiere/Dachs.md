@@ -33,6 +33,11 @@ status: "new"
 > Der Dachs ist ein nachtaktives Tier.
 > *The badger is a nocturnal animal.*
 
+**Phrases & Expressions:**
+- **ein Dachs im Wald** — *badger*
+- **Dachsbau** — *badger*
+- **schlafen wie ein Dachs** — *badger*
+
 **Collocations**
 - ein Dachs im Wald
 - Dachsbau

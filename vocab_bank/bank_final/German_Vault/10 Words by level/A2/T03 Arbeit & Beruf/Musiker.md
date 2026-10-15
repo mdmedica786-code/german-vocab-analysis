@@ -35,6 +35,9 @@ status: "new"
 > Mein Bruder möchte Musiker werden.
 > *My brother wants to become a musician.*
 
+**Phrases & Expressions:**
+- **Mein Bruder möchte Musiker werden** — *My brother wants to become a musician* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 5a (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

@@ -31,6 +31,11 @@ status: "new"
 > Das Kind schluchzte leise vor sich hin.
 > *The child sobbed quietly to itself.*
 
+**Phrases & Expressions:**
+- **laut schluchzen** — *to sob*
+- **heftig schluchzen** — *to sob*
+- **vor Trauer schluchzen** — *to sob*
+
 **Collocations**
 - laut schluchzen
 - heftig schluchzen

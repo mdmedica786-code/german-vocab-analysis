@@ -31,6 +31,9 @@ status: "new"
 > Deine Tasche kannst du dorthin stellen.
 > *You can put your bag over there.*
 
+**Phrases & Expressions:**
+- **Deine Tasche kannst du dorthin stellen** — *You can put your bag over there* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

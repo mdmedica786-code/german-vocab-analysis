@@ -34,6 +34,9 @@ status: "new"
 > Dieser Ratgeber gibt Tipps für die Bewerbung.
 > *This guidebook gives tips for applying.*
 
+**Phrases & Expressions:**
+- **Dieser Ratgeber gibt Tipps für die Bewerbung** — *This guidebook gives tips for applying* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

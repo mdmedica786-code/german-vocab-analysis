@@ -34,6 +34,9 @@ status: "new"
 > Wir haben ein kleines Reihenhaus am Stadtrand.
 > *We have a small terraced house on the outskirts.*
 
+**Phrases & Expressions:**
+- **Wir haben ein kleines Reihenhaus am Stadtrand** — *We have a small terraced house on the outskirts* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 10a (Meine Wohnung)
 <!-- bank:end -->
 

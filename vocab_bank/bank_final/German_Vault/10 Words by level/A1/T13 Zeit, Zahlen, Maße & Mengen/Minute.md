@@ -35,6 +35,14 @@ status: "new"
 > Der Bus kommt in fünf Minuten.
 > *The bus comes in five minutes.*
 
+**Phrases & Expressions:**
+- **ein paar Minuten** — a few minutes *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+- **zehn Minuten** — ten minutes *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A1)*
+- **Minuten später** — minutes later *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **fünf Minuten** — five minutes *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A1)*
+- **Das Gespräch dauert etwa zehn Minuten.** — The conversation will take about ten minutes. *([[FSP-01 Gesprächseröffnung, Vorstellung und Einverständnis|Ablauf erklären]] · A2)*
+- **Blutdruck 130 zu 80 Millimeter Quecksilbersäule, Puls 78 pro Minute.** — Blood pressure 130 over 80 mmHg, pulse 78 per minute. *([[FSP-08 Befunde beschreiben und berichten|Vitalparameter]] · B2)*
+
 **Source:** Netzwerk neu A1 K5 15a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

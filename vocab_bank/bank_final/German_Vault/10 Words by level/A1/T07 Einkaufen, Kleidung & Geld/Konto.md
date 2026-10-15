@@ -35,6 +35,10 @@ status: "new"
 > Das Geld überweisen wir am ersten März auf Ihr Konto.
 > *We will transfer the money to your account on 1 March.*
 
+**Phrases & Expressions:**
+- **Ich möchte gern ein Konto eröffnen.** — I would like to open an account. *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Bankkonto eröffnen]] · B1)*
+- **Fallen für das Konto Gebühren an?** — Are there fees for the account? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Bankkonto eröffnen]] · B2)*
+
 **Source:** Netzwerk neu A1 K7 5a ÜB (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

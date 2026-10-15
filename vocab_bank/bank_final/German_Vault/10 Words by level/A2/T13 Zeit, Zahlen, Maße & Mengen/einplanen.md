@@ -33,6 +33,9 @@ status: "new"
 > Plane genug Zeit für die Fahrt ein.
 > *Allow enough time for the journey.*
 
+**Phrases & Expressions:**
+- **Plane genug Zeit für die Fahrt ein** — *Allow enough time for the journey* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 4d (Gelernt ist gelernt!)
 <!-- bank:end -->
 

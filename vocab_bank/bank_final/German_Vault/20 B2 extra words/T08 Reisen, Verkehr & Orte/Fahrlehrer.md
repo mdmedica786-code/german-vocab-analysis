@@ -33,6 +33,11 @@ status: "new"
 > Mein Fahrlehrer lobte mich für das sichere Einparken.
 > *My driving instructor praised me for parking confidently.*
 
+**Phrases & Expressions:**
+- **beim Fahrlehrer lernen** — *driving instructor*
+- **ein geduldiger Fahrlehrer** — *driving instructor*
+- **Fahrstunden beim Fahrlehrer** — *driving instructor*
+
 **Collocations**
 - beim Fahrlehrer lernen
 - ein geduldiger Fahrlehrer

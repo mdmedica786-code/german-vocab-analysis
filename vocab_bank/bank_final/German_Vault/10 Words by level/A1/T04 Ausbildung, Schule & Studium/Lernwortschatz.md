@@ -31,6 +31,9 @@ status: "new"
 > Der Lernwortschatz steht am Ende des Kapitels.
 > *The learning vocabulary is at the end of the chapter.*
 
+**Phrases & Expressions:**
+- **Der Lernwortschatz steht am Ende des Kapitels** — *The learning vocabulary is at the end of the chapter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 6c (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

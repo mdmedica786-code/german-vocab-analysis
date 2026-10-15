@@ -33,6 +33,12 @@ status: "new"
 > Mit dem 18. Lebensjahr ist man volljährig.
 > *At the age of 18 one comes of age.*
 
+**Phrases & Expressions:**
+- **Ab dem 50. Lebensjahr sollten Sie zur Darmkrebsvorsorge gehen.** — From the age of 50 you should go for bowel cancer screening. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Vorsorge empfehlen]] · B2)*
+- **im ersten Lebensjahr** — *year of life*
+- **vor dem 18. Lebensjahr** — *year of life*
+- **das 65. Lebensjahr vollenden** — *year of life*
+
 **Collocations**
 - im ersten Lebensjahr
 - vor dem 18. Lebensjahr

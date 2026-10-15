@@ -33,6 +33,11 @@ status: "new"
 > Ich bringe das Fahrrad in die Reparaturwerkstatt.
 > *I am taking the bicycle to the repair workshop.*
 
+**Phrases & Expressions:**
+- **in die Reparaturwerkstatt bringen** — *repair workshop*
+- **eine Reparaturwerkstatt suchen** — *repair workshop*
+- **freie Reparaturwerkstatt** — *repair workshop*
+
 **Collocations**
 - in die Reparaturwerkstatt bringen
 - eine Reparaturwerkstatt suchen

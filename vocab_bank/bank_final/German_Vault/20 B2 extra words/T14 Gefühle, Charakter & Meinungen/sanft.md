@@ -29,6 +29,11 @@ status: "new"
 > Sie sprach mit sanfter Stimme zu dem Kind.
 > *She spoke to the child in a gentle voice.*
 
+**Phrases & Expressions:**
+- **eine sanfte Stimme** — *gentle; soft*
+- **sanft streicheln** — *gentle; soft*
+- **sanfter Druck** — *gentle; soft*
+
 **Collocations**
 - eine sanfte Stimme
 - sanft streicheln

@@ -33,6 +33,11 @@ status: "new"
 > Wickle den Fisch in Alufolie und lege ihn auf den Grill.
 > *Wrap the fish in aluminium foil and put it on the grill.*
 
+**Phrases & Expressions:**
+- **in Alufolie einwickeln** — *aluminium foil*
+- **mit Alufolie abdecken** — *aluminium foil*
+- **Alufolie verwenden** — *aluminium foil*
+
 **Collocations**
 - in Alufolie einwickeln
 - mit Alufolie abdecken

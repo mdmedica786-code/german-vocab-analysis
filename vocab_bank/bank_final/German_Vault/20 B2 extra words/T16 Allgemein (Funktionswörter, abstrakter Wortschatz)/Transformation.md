@@ -33,6 +33,11 @@ status: "new"
 > Die Stadt erlebt eine tiefe Transformation.
 > *The city is experiencing a deep transformation.*
 
+**Phrases & Expressions:**
+- **digitale Transformation** — *transformation*
+- **eine Transformation erleben** — *transformation*
+- **gesellschaftliche Transformation** — *transformation*
+
 **Collocations**
 - digitale Transformation
 - eine Transformation erleben

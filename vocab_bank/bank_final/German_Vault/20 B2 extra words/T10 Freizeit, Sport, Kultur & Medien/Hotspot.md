@@ -33,6 +33,11 @@ status: "new"
 > Im Café gibt es einen kostenlosen Hotspot.
 > *In the café there is a free hotspot.*
 
+**Phrases & Expressions:**
+- **einen Hotspot nutzen** — *Wi-Fi hotspot*
+- **sich mit dem Hotspot verbinden** — *Wi-Fi hotspot*
+- **ein öffentlicher Hotspot** — *Wi-Fi hotspot*
+
 **Collocations**
 - einen Hotspot nutzen
 - sich mit dem Hotspot verbinden

@@ -26,6 +26,10 @@ status: "new"
 > Mit 25 will sie endlich auf eigenen Füßen stehen.
 > *At 25 she finally wants to stand on her own two feet.*
 
+**Phrases & Expressions:**
+- **wirtschaftlich auf eigenen Füßen stehen** — *to stand on one's own two feet*
+- **selbstständig werden** — *to stand on one's own two feet*
+
 **Collocations**
 - wirtschaftlich auf eigenen Füßen stehen
 - selbstständig werden

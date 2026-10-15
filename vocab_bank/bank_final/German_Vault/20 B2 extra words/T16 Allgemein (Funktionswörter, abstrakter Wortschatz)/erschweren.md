@@ -31,6 +31,10 @@ status: "new"
 > Der Lärm erschwert das Lernen.
 > *The noise makes learning more difficult.*
 
+**Phrases & Expressions:**
+- **die Arbeit erschweren** — *to make more difficult*
+- **jemandem das Leben erschweren** — *to make more difficult*
+
 **Collocations**
 - die Arbeit erschweren
 - jemandem das Leben erschweren

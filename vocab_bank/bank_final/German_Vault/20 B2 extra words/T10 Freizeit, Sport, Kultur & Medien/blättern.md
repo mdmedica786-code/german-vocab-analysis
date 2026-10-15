@@ -32,6 +32,11 @@ status: "new"
 > Sie blätterte in der Zeitschrift.
 > *She leafed through the magazine.*
 
+**Phrases & Expressions:**
+- **in einem Buch blättern** — *to leaf through; to flick through*
+- **durch die Seiten blättern** — *to leaf through; to flick through*
+- **in einer Zeitung blättern** — *to leaf through; to flick through*
+
 **Collocations**
 - in einem Buch blättern
 - durch die Seiten blättern

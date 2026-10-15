@@ -35,6 +35,9 @@ status: "new"
 > Er ist ein Individualist und geht seinen eigenen Weg.
 > *He is an individualist and goes his own way.*
 
+**Phrases & Expressions:**
+- **Er ist ein Individualist und geht seinen eigenen Weg** — *He is an individualist and goes his own way* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Die Birne ist reif und saftig.
 > *The pear is ripe and juicy.*
 
+**Phrases & Expressions:**
+- **saftiges Fleisch** — *juicy*
+- **eine saftige Orange** — *juicy*
+- **eine saftige Rechnung** — *juicy*
+
 **Collocations**
 - saftiges Fleisch
 - eine saftige Orange

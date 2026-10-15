@@ -26,6 +26,11 @@ status: "new"
 > Die Löhne konnten mit den Preisen nicht Schritt halten.
 > *Wages could not keep pace with prices.*
 
+**Phrases & Expressions:**
+- **mit jemandem Schritt halten** — *to keep pace*
+- **mit der Entwicklung Schritt halten** — *to keep pace*
+- **Schritt halten mit** — *to keep pace*
+
 **Collocations**
 - mit jemandem Schritt halten
 - mit der Entwicklung Schritt halten

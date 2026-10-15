@@ -33,6 +33,11 @@ status: "new"
 > Experten warnen vor einer Rezession.
 > *Experts warn of a recession.*
 
+**Phrases & Expressions:**
+- **in eine Rezession geraten** — *recession*
+- **eine Rezession befürchten** — *recession*
+- **tiefe Rezession** — *recession*
+
 **Collocations**
 - in eine Rezession geraten
 - eine Rezession befürchten

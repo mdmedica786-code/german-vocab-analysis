@@ -33,6 +33,11 @@ status: "new"
 > Es ist eine seiner Marotten, jeden Morgen dreimal die Tür zu prüfen.
 > *It is one of his quirks to check the door three times every morning.*
 
+**Phrases & Expressions:**
+- **eine Marotte haben** — *quirk; habit*
+- **alte Marotten** — *quirk; habit*
+- **kleine Marotten** — *quirk; habit*
+
 **Collocations**
 - eine Marotte haben
 - alte Marotten

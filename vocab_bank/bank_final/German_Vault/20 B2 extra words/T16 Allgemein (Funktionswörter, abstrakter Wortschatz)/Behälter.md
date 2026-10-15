@@ -33,6 +33,11 @@ status: "new"
 > Bewahren Sie das Öl in einem dichten Behälter auf.
 > *Store the oil in a sealed container.*
 
+**Phrases & Expressions:**
+- **ein Behälter aus Glas** — *container; receptacle*
+- **ein luftdichter Behälter** — *container; receptacle*
+- **den Behälter füllen** — *container; receptacle*
+
 **Collocations**
 - ein Behälter aus Glas
 - ein luftdichter Behälter

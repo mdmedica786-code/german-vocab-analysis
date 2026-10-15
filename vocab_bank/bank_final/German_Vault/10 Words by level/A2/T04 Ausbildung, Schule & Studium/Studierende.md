@@ -36,6 +36,9 @@ status: "new"
 > Zehn Studierende besuchen das Seminar.
 > *Ten students attend the seminar.*
 
+**Phrases & Expressions:**
+- **Zehn Studierende besuchen das Seminar** — *Ten students attend the seminar* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 6a (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Ihre Bestellung kommt in drei Tagen.
 > *Your order arrives in three days.*
 
+**Phrases & Expressions:**
+- **Ihre Bestellung kommt in drei Tagen** — *Your order arrives in three days* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 10a (Zeit mit Freunden)
 <!-- bank:end -->
 

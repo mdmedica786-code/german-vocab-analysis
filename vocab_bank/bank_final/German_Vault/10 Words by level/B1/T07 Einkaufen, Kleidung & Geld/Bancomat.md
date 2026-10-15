@@ -39,6 +39,9 @@ status: "new"
 > Ich hole schnell Geld am Bancomaten.
 > *I will quickly get some money from the cash machine.*
 
+**Phrases & Expressions:**
+- **Ich hole schnell Geld am Bancomaten** — *I will quickly get some money from the cash machine* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

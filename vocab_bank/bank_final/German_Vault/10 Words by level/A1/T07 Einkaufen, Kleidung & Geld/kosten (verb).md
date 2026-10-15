@@ -33,6 +33,9 @@ status: "new"
 > Wie viel kostet das? – 10 Euro.
 > *How much is it? – 10 euros.*
 
+**Phrases & Expressions:**
+- **Was würde die Reparatur ungefähr kosten?** — Roughly what would the repair cost? *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Handwerker und Reparatur]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 6a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Das Deutschbuch liegt auf dem Tisch.
 > *The German book is on the table.*
 
+**Phrases & Expressions:**
+- **Das Deutschbuch liegt auf dem Tisch** — *The German book is on the table* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 8b (Ab in den Urlaub!)
 <!-- bank:end -->
 

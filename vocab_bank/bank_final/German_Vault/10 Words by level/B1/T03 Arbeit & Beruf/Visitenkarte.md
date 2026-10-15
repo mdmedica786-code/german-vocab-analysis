@@ -34,6 +34,9 @@ status: "new"
 > Darf ich Ihnen meine Visitenkarte geben?
 > *May I give you my business card?*
 
+**Phrases & Expressions:**
+- **Darf ich Ihnen meine Visitenkarte geben** — *May I give you my business card* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -30,6 +30,9 @@ status: "new"
 > Ich organisiere das Fest mit.
 > *I am co-organising the party.*
 
+**Phrases & Expressions:**
+- **Ich organisiere das Fest mit** — *I am co-organising the party* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7c (Miteinander)
 <!-- bank:end -->
 

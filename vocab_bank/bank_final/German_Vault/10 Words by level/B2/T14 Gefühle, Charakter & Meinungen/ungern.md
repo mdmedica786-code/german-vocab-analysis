@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Ich stehe ungern früh auf.
 > *I do not like getting up early.*
+
+**Phrases & Expressions:**
+- **Ich stehe ungern früh auf** — *I do not like getting up early* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

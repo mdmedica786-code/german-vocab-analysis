@@ -33,6 +33,11 @@ status: "new"
 > Der Kraftstoff wird jedes Jahr teurer.
 > *Fuel gets more expensive every year.*
 
+**Phrases & Expressions:**
+- **Kraftstoff sparen** — *fuel*
+- **der Verbrauch an Kraftstoff** — *fuel*
+- **alternative Kraftstoffe** — *fuel*
+
 **Collocations**
 - Kraftstoff sparen
 - der Verbrauch an Kraftstoff

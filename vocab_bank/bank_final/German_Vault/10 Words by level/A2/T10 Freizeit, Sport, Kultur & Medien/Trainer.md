@@ -35,6 +35,9 @@ status: "new"
 > Ich finde unseren Trainer sehr nett.
 > *I think our coach is very nice.*
 
+**Phrases & Expressions:**
+- **Ich finde unseren Trainer sehr nett** — *I think our coach is very nice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 5a (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

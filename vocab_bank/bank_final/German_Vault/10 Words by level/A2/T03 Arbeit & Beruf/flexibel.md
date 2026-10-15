@@ -31,6 +31,9 @@ status: "new"
 > Meine Arbeitszeit ist flexibel.
 > *My working hours are flexible.*
 
+**Phrases & Expressions:**
+- **Meine Arbeitszeit ist flexibel** — *My working hours are flexible* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3 (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

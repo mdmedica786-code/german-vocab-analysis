@@ -33,6 +33,11 @@ status: "new"
 > Schädlinge haben die ganze Ernte befallen.
 > *Pests have infested the whole harvest.*
 
+**Phrases & Expressions:**
+- **Schädlinge bekämpfen** — *pest*
+- **von Schädlingen befallen** — *pest*
+- **Schädlinge vernichten** — *pest*
+
 **Collocations**
 - Schädlinge bekämpfen
 - von Schädlingen befallen

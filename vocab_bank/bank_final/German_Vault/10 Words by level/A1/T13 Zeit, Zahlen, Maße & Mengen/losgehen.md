@@ -33,6 +33,14 @@ status: "new"
 > Gleich geht es los.
 > *It is about to start.*
 
+**Phrases & Expressions:**
+- **was ist los** — what's the matter? *([[Probleme - Beschwerden beschreiben (problem, symptom, complaint)|Probleme / Beschwerden beschreiben (problem, symptom, complaint)]] · A2)*
+- **wie geht es dir?** — how are you? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **wie geht es dir** — how are you? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **was ist denn los?** — what on earth is the matter? *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A2)*
+- **es geht um ...** — it is about ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · A2)*
+- **ich hoffe, es geht dir gut** — I hope you are well *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 1c (Fit und gesund)
 <!-- bank:end -->
 

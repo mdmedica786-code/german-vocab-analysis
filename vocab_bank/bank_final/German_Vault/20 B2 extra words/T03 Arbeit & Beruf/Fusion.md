@@ -33,6 +33,11 @@ status: "new"
 > Nach der Fusion beider Banken wurden Stellen gestrichen.
 > *After the merger of both banks, jobs were cut.*
 
+**Phrases & Expressions:**
+- **eine Fusion planen** — *merger*
+- **die Fusion zweier Firmen** — *merger*
+- **Fusion mit einem Konkurrenten** — *merger*
+
 **Collocations**
 - eine Fusion planen
 - die Fusion zweier Firmen

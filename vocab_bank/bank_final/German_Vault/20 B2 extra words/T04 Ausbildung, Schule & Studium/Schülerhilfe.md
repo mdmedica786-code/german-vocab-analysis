@@ -30,6 +30,11 @@ status: "new"
 > Für Mathematik besucht er die Schülerhilfe.
 > *For mathematics he goes to tutoring.*
 
+**Phrases & Expressions:**
+- **zur Schülerhilfe gehen** — *tutoring for pupils; homework help*
+- **die Schülerhilfe nutzen** — *tutoring for pupils; homework help*
+- **eine Schülerhilfe für Mathe** — *tutoring for pupils; homework help*
+
 **Collocations**
 - zur Schülerhilfe gehen
 - die Schülerhilfe nutzen

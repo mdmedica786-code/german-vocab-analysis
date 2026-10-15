@@ -31,6 +31,10 @@ status: "new"
 > Die Polizei intensiviert die Suche nach dem Täter.
 > *The police are intensifying the search for the culprit.*
 
+**Phrases & Expressions:**
+- **die Zusammenarbeit intensivieren** — *to intensify*
+- **Kontakte intensivieren** — *to intensify*
+
 **Collocations**
 - die Zusammenarbeit intensivieren
 - Kontakte intensivieren

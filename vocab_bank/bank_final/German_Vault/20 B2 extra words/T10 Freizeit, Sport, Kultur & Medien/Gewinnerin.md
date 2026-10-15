@@ -33,6 +33,11 @@ status: "new"
 > Die Gewinnerin des Wettbewerbs bekommt einen Preis.
 > *The winner of the competition gets a prize.*
 
+**Phrases & Expressions:**
+- **die Gewinnerin des Wettbewerbs** — *winner (female)*
+- **eine glückliche Gewinnerin** — *winner (female)*
+- **die Gewinnerin ehren** — *winner (female)*
+
 **Collocations**
 - die Gewinnerin des Wettbewerbs
 - eine glückliche Gewinnerin

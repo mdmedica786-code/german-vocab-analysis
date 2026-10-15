@@ -30,6 +30,10 @@ status: "new"
 > Das Hotel liegt unweit des Bahnhofs.
 > *The hotel is not far from the station.*
 
+**Phrases & Expressions:**
+- **unweit des Zentrums** — *not far from*
+- **unweit des Flusses** — *not far from*
+
 **Collocations**
 - unweit des Zentrums
 - unweit des Flusses

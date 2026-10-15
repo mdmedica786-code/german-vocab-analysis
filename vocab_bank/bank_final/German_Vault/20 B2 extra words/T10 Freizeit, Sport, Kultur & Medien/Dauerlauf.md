@@ -33,6 +33,11 @@ status: "new"
 > Jeden Sonntag macht er einen Dauerlauf im Park.
 > *Every Sunday he does a long jog in the park.*
 
+**Phrases & Expressions:**
+- **einen Dauerlauf machen** — *endurance run; long-distance jog*
+- **ein langer Dauerlauf** — *endurance run; long-distance jog*
+- **im Dauerlauf** — *endurance run; long-distance jog*
+
 **Collocations**
 - einen Dauerlauf machen
 - ein langer Dauerlauf

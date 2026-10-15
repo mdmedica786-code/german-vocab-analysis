@@ -33,6 +33,11 @@ status: "new"
 > Wir machen an der nächsten Raststätte eine Pause.
 > *We will take a break at the next service area.*
 
+**Phrases & Expressions:**
+- **an der Raststätte halten** — *motorway service area*
+- **eine Raststätte anfahren** — *motorway service area*
+- **Autobahnraststätte** — *motorway service area*
+
 **Collocations**
 - an der Raststätte halten
 - eine Raststätte anfahren

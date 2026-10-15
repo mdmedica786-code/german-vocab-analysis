@@ -34,6 +34,9 @@ status: "new"
 > Die Grundform des Verbs ist der Infinitiv.
 > *The basic form of the verb is the infinitive.*
 
+**Phrases & Expressions:**
+- **Die Grundform des Verbs ist der Infinitiv** — *The basic form of the verb is the infinitive* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3d (Geld regiert die Welt?)
 <!-- bank:end -->
 

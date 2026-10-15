@@ -35,6 +35,9 @@ status: "new"
 > Er schwimmt ans Ufer zurück.
 > *He swims back to the shore.*
 
+**Phrases & Expressions:**
+- **Er schwimmt ans Ufer zurück** — *He swims back to the shore* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1b (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

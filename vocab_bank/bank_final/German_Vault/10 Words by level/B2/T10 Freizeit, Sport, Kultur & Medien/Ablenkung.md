@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Ich brauche etwas Ablenkung.
 > *I need some distraction.*
+
+**Phrases & Expressions:**
+- **Ich brauche etwas Ablenkung** — *I need some distraction* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

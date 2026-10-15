@@ -29,6 +29,11 @@ status: "new"
 > Die restlichen Gäste gingen nach Hause.
 > *The remaining guests went home.*
 
+**Phrases & Expressions:**
+- **die restlichen Tage** — *remaining*
+- **der restliche Teil** — *remaining*
+- **die restlichen Kosten** — *remaining*
+
 **Collocations**
 - die restlichen Tage
 - der restliche Teil

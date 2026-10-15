@@ -31,6 +31,11 @@ status: "new"
 > Hallo Inge! Wie geht’s?
 > *Hello Inge! How are you?*
 
+**Phrases & Expressions:**
+- **Hallo Max, schön, von dir zu hören!** — Hi Max, nice to hear from you! *([[B1-12 Persönliche E-Mail und Brief|Einstieg]] · B1)*
+- **Hallo! Na, wie läuft's?** — Hi! So, how's it going? *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Begrüßen (informell)]] · A2)*
+- **Hallo, wie heißt du denn?** — Hello, what's your name? *([[FSP-22 Kinder, Eltern und ältere Patienten|Kind ansprechen]] · A2)*
+
 **Source:** Netzwerk neu A1 K1 2a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

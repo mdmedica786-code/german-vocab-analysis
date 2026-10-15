@@ -34,6 +34,9 @@ status: "new"
 > Die Jury wählt den Gewinner aus.
 > *The jury selects the winner.*
 
+**Phrases & Expressions:**
+- **Die Jury wählt den Gewinner aus** — *The jury selects the winner* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 10a (Blick nach vorn)
 <!-- bank:end -->
 

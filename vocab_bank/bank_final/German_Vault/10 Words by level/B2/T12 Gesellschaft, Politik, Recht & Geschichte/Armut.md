@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Armut in der Stadt nimmt zu.
 > *Poverty in the city is increasing.*
+
+**Phrases & Expressions:**
+- **Die Armut in der Stadt nimmt zu** — *Poverty in the city is increasing* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

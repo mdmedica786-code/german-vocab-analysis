@@ -31,6 +31,11 @@ status: "new"
 > Der Kapitän befahl, die Segel zu setzen.
 > *The captain ordered the sails to be set.*
 
+**Phrases & Expressions:**
+- **jemandem etwas befehlen** — *to order; to command*
+- **den Rückzug befehlen** — *to order; to command*
+- **Befehl ist Befehl** — *to order; to command*
+
 **Collocations**
 - jemandem etwas befehlen
 - den Rückzug befehlen

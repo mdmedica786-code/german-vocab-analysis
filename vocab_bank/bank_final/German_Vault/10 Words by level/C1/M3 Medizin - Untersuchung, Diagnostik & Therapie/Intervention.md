@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Eine frühe Intervention verbessert die Prognose.
 > *An early intervention improves the prognosis.*
+
+**Phrases & Expressions:**
+- **Eine frühe Intervention verbessert die Prognose** — *An early intervention improves the prognosis* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

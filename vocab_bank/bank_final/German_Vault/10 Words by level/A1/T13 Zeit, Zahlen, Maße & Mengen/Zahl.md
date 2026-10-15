@@ -35,6 +35,11 @@ status: "new"
 > Können Sie die Zahl bitte wiederholen?
 > *Could you please repeat the number?*
 
+**Phrases & Expressions:**
+- **Die Zahl ... ist von ... auf ... gestiegen.** — The number of ... has risen from ... to ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Zunahme beschreiben]] · B2)*
+- **Die Zahlen stammen aus einer Studie der Universität ...** — The figures come from a study by the University of ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Quellen nennen]] · B2)*
+- **Die Zahl hat sich innerhalb von zehn Jahren verdoppelt.** — The number has doubled within ten years. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Anstieg beschreiben]] · B2)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A2
 <!-- bank:end -->
 

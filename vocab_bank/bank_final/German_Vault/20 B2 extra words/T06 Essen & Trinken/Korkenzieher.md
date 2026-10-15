@@ -33,6 +33,11 @@ status: "new"
 > Hast du einen Korkenzieher für die Weinflasche?
 > *Do you have a corkscrew for the wine bottle?*
 
+**Phrases & Expressions:**
+- **mit dem Korkenzieher öffnen** — *corkscrew*
+- **den Korkenzieher ansetzen** — *corkscrew*
+- **einen Korkenzieher brauchen** — *corkscrew*
+
 **Collocations**
 - mit dem Korkenzieher öffnen
 - den Korkenzieher ansetzen

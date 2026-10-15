@@ -34,6 +34,9 @@ status: "new"
 > Wir tauschen Erfahrungen aus.
 > *We exchange experiences.*
 
+**Phrases & Expressions:**
+- **Wir tauschen Erfahrungen aus** — *We exchange experiences* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 12b (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

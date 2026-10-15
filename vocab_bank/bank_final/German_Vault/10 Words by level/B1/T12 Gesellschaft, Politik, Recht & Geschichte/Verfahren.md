@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Verfahren dauert mehrere Monate.
 > *The procedure takes several months.*
+
+**Phrases & Expressions:**
+- **Wie ist das Verfahren zur Anerkennung ausländischer Abschlüsse?** — What is the procedure for recognising foreign qualifications? *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Anfrage an Ärztekammer]] · B2)*
 <!-- bank:end -->
 
 ## My notes

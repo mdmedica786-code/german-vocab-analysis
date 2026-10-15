@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Zwischen Mutter und Kind besteht eine enge Bindung.
 > *There is a close bond between mother and child.*
+
+**Phrases & Expressions:**
+- **Zwischen Mutter und Kind besteht eine enge Bindung** — *There is a close bond between mother and child* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

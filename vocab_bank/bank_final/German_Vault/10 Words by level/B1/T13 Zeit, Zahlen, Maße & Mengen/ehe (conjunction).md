@@ -31,6 +31,9 @@ status: "new"
 > Ehe du gehst, ruf mich bitte an.
 > *Before you go, please call me.*
 
+**Phrases & Expressions:**
+- **Ehe du gehst, ruf mich bitte an** — *Before you go, please call me* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

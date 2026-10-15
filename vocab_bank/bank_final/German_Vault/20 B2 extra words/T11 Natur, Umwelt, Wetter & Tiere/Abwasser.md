@@ -33,6 +33,11 @@ status: "new"
 > Das Abwasser wird in der Kläranlage gereinigt.
 > *The wastewater is cleaned in the sewage plant.*
 
+**Phrases & Expressions:**
+- **Abwasser reinigen** — *wastewater; sewage*
+- **Abwasser einleiten** — *wastewater; sewage*
+- **industrielles Abwasser** — *wastewater; sewage*
+
 **Collocations**
 - Abwasser reinigen
 - Abwasser einleiten

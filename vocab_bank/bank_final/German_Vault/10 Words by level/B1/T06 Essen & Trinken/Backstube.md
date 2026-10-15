@@ -34,6 +34,9 @@ status: "new"
 > In der Backstube riecht es nach frischem Brot.
 > *It smells of fresh bread in the bakery workshop.*
 
+**Phrases & Expressions:**
+- **In der Backstube riecht es nach frischem Brot** — *It smells of fresh bread in the bakery workshop* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

@@ -31,6 +31,9 @@ status: "new"
 > Ich schreibe die neuen Wörter auf Lernkarten.
 > *I write the new words on flashcards.*
 
+**Phrases & Expressions:**
+- **Ich schreibe die neuen Wörter auf Lernkarten** — *I write the new words on flashcards* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 8c (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

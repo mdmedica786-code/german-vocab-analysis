@@ -34,6 +34,9 @@ status: "new"
 > Das Subjekt steht im Nominativ.
 > *The subject is in the nominative.*
 
+**Phrases & Expressions:**
+- **Das Subjekt steht im Nominativ** — *The subject is in the nominative* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 3d (Guten Appetit!)
 <!-- bank:end -->
 

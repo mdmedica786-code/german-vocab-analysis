@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die chemische Analyse dauert zwei Tage.
 > *The chemical analysis takes two days.*
+
+**Phrases & Expressions:**
+- **Die chemische Analyse dauert zwei Tage** — *The chemical analysis takes two days* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

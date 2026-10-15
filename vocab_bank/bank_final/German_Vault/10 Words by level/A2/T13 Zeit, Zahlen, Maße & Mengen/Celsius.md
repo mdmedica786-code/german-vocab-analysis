@@ -31,6 +31,9 @@ status: "new"
 > Heute sind es 20 Grad Celsius.
 > *Today it is 20 degrees Celsius.*
 
+**Phrases & Expressions:**
+- **Heute sind es 20 Grad Celsius** — *Today it is 20 degrees Celsius* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

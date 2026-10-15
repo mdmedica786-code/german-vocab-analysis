@@ -33,6 +33,11 @@ status: "new"
 > Die Benutzeroberfläche der App ist einfach zu bedienen.
 > *The user interface of the app is easy to use.*
 
+**Phrases & Expressions:**
+- **eine übersichtliche Benutzeroberfläche** — *user interface*
+- **Benutzeroberfläche gestalten** — *user interface*
+- **intuitive Benutzeroberfläche** — *user interface*
+
 **Collocations**
 - eine übersichtliche Benutzeroberfläche
 - Benutzeroberfläche gestalten

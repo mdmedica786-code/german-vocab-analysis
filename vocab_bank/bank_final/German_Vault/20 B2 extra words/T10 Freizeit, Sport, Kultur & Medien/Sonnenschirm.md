@@ -33,6 +33,11 @@ status: "new"
 > Wir haben einen großen Sonnenschirm auf die Terrasse gestellt.
 > *We put a large parasol on the terrace.*
 
+**Phrases & Expressions:**
+- **den Sonnenschirm aufspannen** — *parasol*
+- **im Schatten des Sonnenschirms** — *parasol*
+- **ein Sonnenschirm am Strand** — *parasol*
+
 **Collocations**
 - den Sonnenschirm aufspannen
 - im Schatten des Sonnenschirms

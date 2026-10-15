@@ -33,6 +33,11 @@ status: "new"
 > Mein Opa löst jeden Morgen ein Kreuzworträtsel.
 > *My grandpa does a crossword puzzle every morning.*
 
+**Phrases & Expressions:**
+- **ein Kreuzworträtsel lösen** — *crossword puzzle*
+- **ein schweres Kreuzworträtsel** — *crossword puzzle*
+- **Kreuzworträtsel lieben** — *crossword puzzle*
+
 **Collocations**
 - ein Kreuzworträtsel lösen
 - ein schweres Kreuzworträtsel

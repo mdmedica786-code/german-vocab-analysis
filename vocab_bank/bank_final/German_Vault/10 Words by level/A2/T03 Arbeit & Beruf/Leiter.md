@@ -36,6 +36,9 @@ status: "new"
 > Der Leiter der Abteilung ist heute nicht da.
 > *The head of the department is not here today.*
 
+**Phrases & Expressions:**
+- **Der Leiter der Abteilung ist heute nicht da** — *The head of the department is not here today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

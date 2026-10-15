@@ -35,6 +35,9 @@ status: "new"
 > Der Hund ist noch jung.
 > *The dog is still young.*
 
+**Phrases & Expressions:**
+- **Der Hund ist noch jung** — *The dog is still young* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

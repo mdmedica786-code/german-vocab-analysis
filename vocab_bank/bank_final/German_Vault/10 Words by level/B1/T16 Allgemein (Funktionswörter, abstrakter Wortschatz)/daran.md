@@ -30,6 +30,14 @@ status: "new"
 > Ich denke oft daran.
 > *I often think about it.*
 
+**Phrases & Expressions:**
+- **das liegt daran, dass ...** — that is because ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B2)*
+- **daran erinnern, dass ...** — to remind (someone) that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **keinen Zweifel daran haben, dass ...** — to have no doubt that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **es lag daran, dass ...** — it was because ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B2)*
+- **denken Sie daran, dass ...** — remember that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **Möglicherweise liegt es daran, dass ...** — Possibly it is because ... *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Vermutung ausdrücken]] · B2)*
+
 **Collocations**
 - daran denken
 - sich daran erinnern

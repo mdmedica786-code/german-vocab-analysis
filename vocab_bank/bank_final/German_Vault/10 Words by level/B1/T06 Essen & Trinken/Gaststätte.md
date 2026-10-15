@@ -35,6 +35,9 @@ status: "new"
 > Ich arbeite seit einem Monat in einer Gaststätte.
 > *I have been working in a restaurant for a month.*
 
+**Phrases & Expressions:**
+- **Ich arbeite seit einem Monat in einer Gaststätte** — *I have been working in a restaurant for a month* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 6a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,9 @@ status: "new"
 > Darf ich die Zeitschrift behalten?
 > *May I keep the magazine?*
 
+**Phrases & Expressions:**
+- **Darf ich die Zeitschrift behalten** — *May I keep the magazine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 5a (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

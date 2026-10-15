@@ -26,6 +26,11 @@ status: "new"
 > Die Parteien trafen eine Vereinbarung über die Lieferung.
 > *The parties came to an agreement on the delivery.*
 
+**Phrases & Expressions:**
+- **eine Vereinbarung treffen** — *to make arrangements; to come to agreements*
+- **Vereinbarungen einhalten** — *to make arrangements; to come to agreements*
+- **vertragliche Vereinbarungen** — *to make arrangements; to come to agreements*
+
 **Collocations**
 - eine Vereinbarung treffen
 - Vereinbarungen einhalten

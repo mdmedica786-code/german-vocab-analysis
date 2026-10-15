@@ -29,6 +29,9 @@ status: "new"
 > Zeitweise fällt der Strom im ganzen Viertel aus.
 > *At times the power fails in the whole district.*
 
+**Phrases & Expressions:**
+- **Zeitweise fällt der Strom im ganzen Viertel aus** — *At times the power fails in the whole district* *(Beispiel im Kontext)*
+
 **Exam use:** Lesen, Alltag
 <!-- bank:end -->
 

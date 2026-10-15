@@ -35,6 +35,9 @@ status: "new"
 > Im Urlaub bin ich am liebsten am Strand.
 > *On holiday I like being on the beach best.*
 
+**Phrases & Expressions:**
+- **Im Urlaub bin ich am liebsten am Strand** — *On holiday I like being on the beach best* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 12b (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

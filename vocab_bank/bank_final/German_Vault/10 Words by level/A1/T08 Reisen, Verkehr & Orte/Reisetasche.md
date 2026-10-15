@@ -34,6 +34,9 @@ status: "new"
 > Die Reisetasche ist schon gepackt.
 > *The travel bag is already packed.*
 
+**Phrases & Expressions:**
+- **Die Reisetasche ist schon gepackt** — *The travel bag is already packed* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1b (Ab in den Urlaub!)
 <!-- bank:end -->
 

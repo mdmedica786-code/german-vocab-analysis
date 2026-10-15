@@ -33,6 +33,11 @@ status: "new"
 > Der Medienkonsum der Jugendlichen ist stark gestiegen.
 > *The media consumption of young people has risen sharply.*
 
+**Phrases & Expressions:**
+- **den Medienkonsum begrenzen** — *media consumption*
+- **ein hoher Medienkonsum** — *media consumption*
+- **der tägliche Medienkonsum** — *media consumption*
+
 **Collocations**
 - den Medienkonsum begrenzen
 - ein hoher Medienkonsum

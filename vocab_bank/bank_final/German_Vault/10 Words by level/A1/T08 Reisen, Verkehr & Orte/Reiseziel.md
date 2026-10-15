@@ -34,6 +34,9 @@ status: "new"
 > Unser Reiseziel ist Italien.
 > *Our destination is Italy.*
 
+**Phrases & Expressions:**
+- **Unser Reiseziel ist Italien** — *Our destination is Italy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 12a (Ab in den Urlaub!)
 <!-- bank:end -->
 

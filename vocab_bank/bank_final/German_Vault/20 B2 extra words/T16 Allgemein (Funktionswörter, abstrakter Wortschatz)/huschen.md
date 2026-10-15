@@ -31,6 +31,11 @@ status: "new"
 > Eine Maus huschte über den Boden.
 > *A mouse scurried across the floor.*
 
+**Phrases & Expressions:**
+- **über etwas huschen** — *to dart; to flit; to scurry*
+- **durch den Raum huschen** — *to dart; to flit; to scurry*
+- **ein Lächeln huscht über das Gesicht** — *to dart; to flit; to scurry*
+
 **Collocations**
 - über etwas huschen
 - durch den Raum huschen

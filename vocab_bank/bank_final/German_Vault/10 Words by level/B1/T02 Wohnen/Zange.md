@@ -34,6 +34,9 @@ status: "new"
 > Um das Fahrrad zu reparieren, brauchst du eine Zange.
 > *To repair the bicycle you need pliers.*
 
+**Phrases & Expressions:**
+- **Um das Fahrrad zu reparieren, brauchst du eine Zange** — *To repair the bicycle you need pliers* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Filmproduktion dauerte zwei Jahre.
 > *The film production took two years.*
 
+**Phrases & Expressions:**
+- **Die Filmproduktion dauerte zwei Jahre** — *The film production took two years* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

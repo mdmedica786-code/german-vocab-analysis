@@ -34,6 +34,9 @@ status: "new"
 > Im Industrieviertel gibt es viele Fabriken.
 > *There are many factories in the industrial quarter.*
 
+**Phrases & Expressions:**
+- **Im Industrieviertel gibt es viele Fabriken** — *There are many factories in the industrial quarter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

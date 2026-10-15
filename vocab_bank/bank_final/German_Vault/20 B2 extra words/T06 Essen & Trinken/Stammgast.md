@@ -33,6 +33,11 @@ status: "new"
 > Der Wirt kennt alle Stammgäste mit Namen.
 > *The landlord knows all the regulars by name.*
 
+**Phrases & Expressions:**
+- **ein Stammgast sein** — *regular (customer); regular guest*
+- **Stammgäste begrüßen** — *regular (customer); regular guest*
+- **als Stammgast bekannt sein** — *regular (customer); regular guest*
+
 **Collocations**
 - ein Stammgast sein
 - Stammgäste begrüßen

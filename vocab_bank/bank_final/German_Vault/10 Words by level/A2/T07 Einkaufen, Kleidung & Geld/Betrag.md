@@ -35,6 +35,9 @@ status: "new"
 > Bitte überweisen Sie den Betrag auf unser Konto.
 > *Please transfer the amount to our account.*
 
+**Phrases & Expressions:**
+- **Ich fordere Sie auf, mir den Betrag zu erstatten.** — I request that you refund me the amount. *([[B2-04 Beschwerde und Reklamation|Forderung stellen]] · B2)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

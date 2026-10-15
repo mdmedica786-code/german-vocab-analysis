@@ -35,6 +35,9 @@ status: "new"
 > Möchten Sie eine Tasse Kaffee?
 > *Would you like a cup of coffee?*
 
+**Phrases & Expressions:**
+- **Möchten Sie eine Tasse Kaffee** — *Would you like a cup of coffee* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 11c ÜB (Zeit mit Freunden) · Goethe word list A2
 <!-- bank:end -->
 

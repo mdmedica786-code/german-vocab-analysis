@@ -33,6 +33,11 @@ status: "new"
 > Bei der Ausübung des Berufs gelten strenge Regeln.
 > *Strict rules apply when practising the profession.*
 
+**Phrases & Expressions:**
+- **in Ausübung seines Dienstes** — *practice; exercise*
+- **die Ausübung des Berufs** — *practice; exercise*
+- **Ausübung der Rechte** — *practice; exercise*
+
 **Collocations**
 - in Ausübung seines Dienstes
 - die Ausübung des Berufs

@@ -33,6 +33,11 @@ status: "new"
 > Bei schlechten Wetterverhältnissen fällt das Fest aus.
 > *In poor weather conditions the festival is cancelled.*
 
+**Phrases & Expressions:**
+- **schlechte Wetterverhältnisse** — *weather condition*
+- **bei guten Wetterverhältnissen** — *weather condition*
+- **die Wetterverhältnisse beachten** — *weather condition*
+
 **Collocations**
 - schlechte Wetterverhältnisse
 - bei guten Wetterverhältnissen

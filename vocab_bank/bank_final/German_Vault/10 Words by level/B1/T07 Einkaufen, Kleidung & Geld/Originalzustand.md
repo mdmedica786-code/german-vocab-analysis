@@ -34,6 +34,9 @@ status: "new"
 > Das Haus ist im Originalzustand erhalten.
 > *The house has been preserved in its original condition.*
 
+**Phrases & Expressions:**
+- **Das Haus ist im Originalzustand erhalten** — *The house has been preserved in its original condition* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

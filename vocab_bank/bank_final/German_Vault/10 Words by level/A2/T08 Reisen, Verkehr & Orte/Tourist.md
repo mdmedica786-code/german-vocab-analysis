@@ -35,6 +35,9 @@ status: "new"
 > Im Sommer kommen viele Touristen in diese Stadt.
 > *In summer many tourists come to this city.*
 
+**Phrases & Expressions:**
+- **Im Sommer kommen viele Touristen in diese Stadt** — *In summer many tourists come to this city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8b (Leben in der Stadt) · Goethe word list A2
 <!-- bank:end -->
 

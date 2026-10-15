@@ -34,6 +34,9 @@ status: "new"
 > Der Rechtsanwalt berät seine Mandanten.
 > *The lawyer advises his clients.*
 
+**Phrases & Expressions:**
+- **Der Rechtsanwalt berät seine Mandanten** — *The lawyer advises his clients* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

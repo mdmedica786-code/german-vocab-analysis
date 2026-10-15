@@ -31,6 +31,11 @@ status: "new"
 > Ich musste nie Hausaufgaben machen. - Ehrlich?
 > *I never had to do homework. - Really?*
 
+**Phrases & Expressions:**
+- **Ich sehe das etwas anders, wenn ich ehrlich bin.** — I see that somewhat differently, if I'm honest. *([[B2-12 Höflichkeit und Diplomatie - Kritik und Ablehnung abmildern|Ablehnung abmildern]] · B2)*
+- **Ich möchte Ihnen ehrlich sagen, dass die Situation ernst ist.** — I would like to tell you honestly that the situation is serious. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Ernst der Lage erklären]] · B2)*
+- **Ich möchte ehrlich zu Ihnen sein: Die Situation ist ernst.** — I want to be honest with you: the situation is serious. *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Ehrlich bleiben]] · B2)*
+
 **Source:** Netzwerk neu A2 K2 3a (Nach der Schulzeit) · Goethe word list B1
 <!-- bank:end -->
 

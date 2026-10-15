@@ -30,6 +30,11 @@ status: "new"
 > Bitte geben Sie hier Ihre Bankdaten ein.
 > *Please enter your bank details here.*
 
+**Phrases & Expressions:**
+- **die Bankdaten angeben** — *bank details*
+- **Bankdaten eingeben** — *bank details*
+- **Bankdaten ändern** — *bank details*
+
 **Collocations**
 - die Bankdaten angeben
 - Bankdaten eingeben

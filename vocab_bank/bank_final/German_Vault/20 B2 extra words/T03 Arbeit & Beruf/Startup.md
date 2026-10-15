@@ -33,6 +33,11 @@ status: "new"
 > Das Startup hat im ersten Jahr zehn Mitarbeiter eingestellt.
 > *The start-up hired ten employees in its first year.*
 
+**Phrases & Expressions:**
+- **ein Startup gründen** — *start-up (company)*
+- **bei einem Startup arbeiten** — *start-up (company)*
+- **ein junges Startup** — *start-up (company)*
+
 **Collocations**
 - ein Startup gründen
 - bei einem Startup arbeiten

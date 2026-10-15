@@ -33,6 +33,9 @@ status: "new"
 > Verreist ihr in den Ferien?
 > *Are you going away during the holidays?*
 
+**Phrases & Expressions:**
+- **Verreist ihr in den Ferien** — *Are you going away during the holidays* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 1a (Wie die Zeit vergeht!) · Goethe word list A2
 <!-- bank:end -->
 

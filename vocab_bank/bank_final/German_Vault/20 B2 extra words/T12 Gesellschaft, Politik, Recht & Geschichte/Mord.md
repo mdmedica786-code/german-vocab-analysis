@@ -33,6 +33,11 @@ status: "new"
 > Die Polizei ermittelt wegen Mordes.
 > *The police are investigating on suspicion of murder.*
 
+**Phrases & Expressions:**
+- **einen Mord aufklären** — *murder*
+- **Mord und Totschlag** — *murder*
+- **wegen Mordes angeklagt** — *murder*
+
 **Collocations**
 - einen Mord aufklären
 - Mord und Totschlag

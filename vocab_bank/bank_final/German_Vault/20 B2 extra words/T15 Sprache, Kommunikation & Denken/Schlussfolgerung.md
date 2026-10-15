@@ -33,6 +33,11 @@ status: "new"
 > Aus den Zahlen lässt sich eine klare Schlussfolgerung ziehen.
 > *A clear conclusion can be drawn from the figures.*
 
+**Phrases & Expressions:**
+- **eine Schlussfolgerung ziehen** — *conclusion; inference*
+- **zu einer Schlussfolgerung kommen** — *conclusion; inference*
+- **logische Schlussfolgerung** — *conclusion; inference*
+
 **Collocations**
 - eine Schlussfolgerung ziehen
 - zu einer Schlussfolgerung kommen

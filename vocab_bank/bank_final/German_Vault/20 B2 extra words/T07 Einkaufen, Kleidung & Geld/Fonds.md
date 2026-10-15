@@ -33,6 +33,11 @@ status: "new"
 > Das Geld kommt aus einem europäischen Fonds.
 > *The money comes from a European fund.*
 
+**Phrases & Expressions:**
+- **ein Fonds für** — *fund (financial)*
+- **in einen Fonds einzahlen** — *fund (financial)*
+- **der Europäische Sozialfonds** — *fund (financial)*
+
 **Collocations**
 - ein Fonds für
 - in einen Fonds einzahlen

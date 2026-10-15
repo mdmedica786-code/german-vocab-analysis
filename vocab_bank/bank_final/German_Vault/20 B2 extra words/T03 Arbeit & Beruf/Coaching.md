@@ -33,6 +33,11 @@ status: "new"
 > Das Coaching hat ihr bei der Bewerbung sehr geholfen.
 > *The coaching helped her a lot with the application.*
 
+**Phrases & Expressions:**
+- **ein Coaching machen** — *coaching*
+- **ein Coaching buchen** — *coaching*
+- **zum Coaching gehen** — *coaching*
+
 **Collocations**
 - ein Coaching machen
 - ein Coaching buchen

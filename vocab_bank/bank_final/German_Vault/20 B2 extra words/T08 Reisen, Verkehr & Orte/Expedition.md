@@ -33,6 +33,11 @@ status: "new"
 > Die Expedition in die Antarktis dauerte ein Jahr.
 > *The expedition to Antarctica lasted a year.*
 
+**Phrases & Expressions:**
+- **an einer Expedition teilnehmen** — *expedition*
+- **eine Expedition planen** — *expedition*
+- **auf Expedition gehen** — *expedition*
+
 **Collocations**
 - an einer Expedition teilnehmen
 - eine Expedition planen

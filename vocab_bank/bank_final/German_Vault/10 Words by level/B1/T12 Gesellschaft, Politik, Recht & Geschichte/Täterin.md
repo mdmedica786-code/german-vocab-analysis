@@ -34,6 +34,9 @@ status: "new"
 > Die Täterin wurde von der Polizei gefasst.
 > *The perpetrator was caught by the police.*
 
+**Phrases & Expressions:**
+- **Die Täterin wurde von der Polizei gefasst** — *The perpetrator was caught by the police* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

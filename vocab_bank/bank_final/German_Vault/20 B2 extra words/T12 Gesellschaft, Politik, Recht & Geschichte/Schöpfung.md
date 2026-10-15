@@ -33,6 +33,11 @@ status: "new"
 > Wir sollten die Schöpfung bewahren.
 > *We should preserve creation.*
 
+**Phrases & Expressions:**
+- **die Schöpfung bewahren** — *creation*
+- **eine neue Schöpfung** — *creation*
+- **Schöpfung und Evolution** — *creation*
+
 **Collocations**
 - die Schöpfung bewahren
 - eine neue Schöpfung

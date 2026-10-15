@@ -29,6 +29,11 @@ status: "new"
 > Nach der Hitze ließen die Blumen schlaff die Köpfe hängen.
 > *After the heat the flowers drooped limply.*
 
+**Phrases & Expressions:**
+- **schlaff herunterhängen** — *limp; slack*
+- **ein schlaffer Händedruck** — *limp; slack*
+- **schlaffe Muskeln** — *limp; slack*
+
 **Collocations**
 - schlaff herunterhängen
 - ein schlaffer Händedruck

@@ -29,6 +29,11 @@ status: "new"
 > Ihm wurde plötzlich übel.
 > *He suddenly felt sick.*
 
+**Phrases & Expressions:**
+- **übel riechen** — *bad; nasty; sick*
+- **jemandem etwas übel nehmen** — *bad; nasty; sick*
+- **übel gelaunt** — *bad; nasty; sick*
+
 **Collocations**
 - übel riechen
 - jemandem etwas übel nehmen

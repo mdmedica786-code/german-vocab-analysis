@@ -34,6 +34,12 @@ status: "new"
 > Geduld ist eine wichtige Eigenschaft für Ärzte.
 > *Patience is an important characteristic for doctors.*
 
+**Phrases & Expressions:**
+- **gute Eigenschaften** — *characteristic*
+- **eine wichtige Eigenschaft** — *characteristic*
+- **positive Eigenschaften** — *characteristic*
+- **eine charakterliche Eigenschaft** — *characteristic*
+
 **Collocations**
 - gute Eigenschaften
 - eine wichtige Eigenschaft

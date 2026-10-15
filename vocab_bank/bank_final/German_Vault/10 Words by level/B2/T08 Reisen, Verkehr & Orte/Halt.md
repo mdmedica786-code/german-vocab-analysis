@@ -34,6 +34,9 @@ status: "new"
 > Nächster Halt ist am Südbahnhof.
 > *The next stop is at the south station.*
 
+**Phrases & Expressions:**
+- **Nächster Halt ist am Südbahnhof** — *The next stop is at the south station* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

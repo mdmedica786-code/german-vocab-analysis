@@ -30,6 +30,10 @@ status: "new"
 > Gehen Sie schon voraus.
 > *Go ahead.*
 
+**Phrases & Expressions:**
+- **Für Ihre Hilfe bedanke ich mich im Voraus.** — I thank you in advance for your help. *([[B1-13 Formelle E-Mail und Brief|Dank aussprechen]] · B1)*
+- **Vielen Dank im Voraus für Ihre Bemühungen.** — Thank you in advance for your efforts. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Schlussformel]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

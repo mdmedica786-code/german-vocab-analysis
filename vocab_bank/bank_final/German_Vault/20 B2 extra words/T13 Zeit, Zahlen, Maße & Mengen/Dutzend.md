@@ -33,6 +33,11 @@ status: "new"
 > Ein Dutzend Eier, bitte.
 > *A dozen eggs, please.*
 
+**Phrases & Expressions:**
+- **ein Dutzend Eier** — *dozen*
+- **Dutzende von Menschen** — *dozen*
+- **dutzendweise** — *dozen*
+
 **Collocations**
 - ein Dutzend Eier
 - Dutzende von Menschen

@@ -34,6 +34,9 @@ status: "new"
 > Diese App zeigt das Wetter.
 > *This app shows the weather.*
 
+**Phrases & Expressions:**
+- **Diese App zeigt das Wetter** — *This app shows the weather* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 3d (Fit und gesund)
 <!-- bank:end -->
 

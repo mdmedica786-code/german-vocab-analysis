@@ -33,6 +33,11 @@ status: "new"
 > Als Neuling in der Firma hatte er viele Fragen.
 > *As a newcomer in the company he had many questions.*
 
+**Phrases & Expressions:**
+- **ein absoluter Neuling** — *newcomer; beginner; novice*
+- **als Neuling anfangen** — *newcomer; beginner; novice*
+- **Neulinge einarbeiten** — *newcomer; beginner; novice*
+
 **Collocations**
 - ein absoluter Neuling
 - als Neuling anfangen

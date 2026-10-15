@@ -29,6 +29,11 @@ status: "new"
 > Gute Sprachkenntnisse sind für diesen Beruf unabdingbar.
 > *Good language skills are indispensable for this profession.*
 
+**Phrases & Expressions:**
+- **eine unabdingbare Voraussetzung** — *indispensable; essential*
+- **unabdingbar sein** — *indispensable; essential*
+- **für etwas unabdingbar sein** — *indispensable; essential*
+
 **Collocations**
 - eine unabdingbare Voraussetzung
 - unabdingbar sein

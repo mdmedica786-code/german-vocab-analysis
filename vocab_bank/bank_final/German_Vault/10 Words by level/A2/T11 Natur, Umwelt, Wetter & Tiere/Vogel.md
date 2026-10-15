@@ -35,6 +35,9 @@ status: "new"
 > Nadine mag Vögel.
 > *Nadine likes birds.*
 
+**Phrases & Expressions:**
+- **Nadine mag Vögel** — *Nadine likes birds* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 11b (Zusammen leben) · Goethe word list A2
 <!-- bank:end -->
 

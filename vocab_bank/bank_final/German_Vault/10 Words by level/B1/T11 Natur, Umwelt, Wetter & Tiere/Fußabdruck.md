@@ -34,6 +34,9 @@ status: "new"
 > Mein ökologischer Fußabdruck ist zu groß.
 > *My ecological footprint is too big.*
 
+**Phrases & Expressions:**
+- **Mein ökologischer Fußabdruck ist zu groß** — *My ecological footprint is too big* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 3 (Umweltfreundlich?)
 <!-- bank:end -->
 

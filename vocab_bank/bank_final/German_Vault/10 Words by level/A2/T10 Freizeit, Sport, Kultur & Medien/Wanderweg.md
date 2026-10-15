@@ -34,6 +34,9 @@ status: "new"
 > Der Wanderweg führt durch den Wald.
 > *The hiking trail leads through the forest.*
 
+**Phrases & Expressions:**
+- **Der Wanderweg führt durch den Wald** — *The hiking trail leads through the forest* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

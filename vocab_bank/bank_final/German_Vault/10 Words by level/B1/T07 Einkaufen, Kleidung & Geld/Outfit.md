@@ -34,6 +34,9 @@ status: "new"
 > Für das Vorstellungsgespräch brauche ich ein neues Outfit.
 > *I need a new outfit for the job interview.*
 
+**Phrases & Expressions:**
+- **Für das Vorstellungsgespräch brauche ich ein neues Outfit** — *I need a new outfit for the job interview* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

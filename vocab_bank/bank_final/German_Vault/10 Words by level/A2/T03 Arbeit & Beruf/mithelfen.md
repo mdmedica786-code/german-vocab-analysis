@@ -33,6 +33,10 @@ status: "new"
 > Alle Kinder helfen im Haushalt mit.
 > *All the children help with the housework.*
 
+**Phrases & Expressions:**
+- **Danke für die Rückmeldung, das hilft mir weiter.** — Thanks for the feedback, that helps me. *([[B2-12 Höflichkeit und Diplomatie - Kritik und Ablehnung abmildern|Konstruktiv reagieren]] · B2)*
+- **Ich spreche gern langsamer, wenn es Ihnen hilft.** — I am happy to speak more slowly if it helps you. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Langsam sprechen]] · A2)*
+
 **Source:** Netzwerk neu A2 K6 10b (Arbeitswelten)
 <!-- bank:end -->
 

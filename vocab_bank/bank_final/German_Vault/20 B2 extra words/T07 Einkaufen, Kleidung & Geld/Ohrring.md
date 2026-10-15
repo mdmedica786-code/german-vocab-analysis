@@ -33,6 +33,11 @@ status: "new"
 > Ich habe einen Ohrring verloren.
 > *I have lost an earring.*
 
+**Phrases & Expressions:**
+- **Ohrringe tragen** — *earring*
+- **ein Paar Ohrringe** — *earring*
+- **goldene Ohrringe** — *earring*
+
 **Collocations**
 - Ohrringe tragen
 - ein Paar Ohrringe

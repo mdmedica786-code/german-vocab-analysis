@@ -33,6 +33,11 @@ status: "new"
 > Für die Stelle ist ein höherer Bildungsabschluss erforderlich.
 > *A higher educational qualification is required for the position.*
 
+**Phrases & Expressions:**
+- **ein höherer Bildungsabschluss** — *educational qualification*
+- **den Bildungsabschluss anerkennen lassen** — *educational qualification*
+- **ohne Bildungsabschluss** — *educational qualification*
+
 **Collocations**
 - ein höherer Bildungsabschluss
 - den Bildungsabschluss anerkennen lassen

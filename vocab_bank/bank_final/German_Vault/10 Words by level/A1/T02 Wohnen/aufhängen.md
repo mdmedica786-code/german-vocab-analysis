@@ -33,6 +33,9 @@ status: "new"
 > Hängst du bitte die Wäsche auf?
 > *Can you hang up the washing, please?*
 
+**Phrases & Expressions:**
+- **Das hängt davon ab, ob ...** — That depends on whether ... *([[B1-04 Vor- und Nachteile nennen|Abwägen]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 12c (Fit und gesund)
 <!-- bank:end -->
 

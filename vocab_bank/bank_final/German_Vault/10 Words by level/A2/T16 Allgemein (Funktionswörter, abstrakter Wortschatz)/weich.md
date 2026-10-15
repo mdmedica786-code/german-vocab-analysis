@@ -31,6 +31,9 @@ status: "new"
 > Ich möchte zum Frühstück ein weiches Ei.
 > *I'd like a soft-boiled egg for breakfast.*
 
+**Phrases & Expressions:**
+- **Das Abdomen ist weich, ohne Druckschmerz oder Abwehrspannung.** — The abdomen is soft, without tenderness or guarding. *([[FSP-08 Befunde beschreiben und berichten|Palpation]] · C1)*
+
 **Source:** Netzwerk neu B1 K9 1b (Kunststücke) · Goethe word list A2
 <!-- bank:end -->
 

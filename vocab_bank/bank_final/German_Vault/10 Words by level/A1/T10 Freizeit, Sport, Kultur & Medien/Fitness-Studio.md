@@ -34,6 +34,9 @@ status: "new"
 > Ich gehe zweimal pro Woche ins Fitness-Studio.
 > *I go to the gym twice a week.*
 
+**Phrases & Expressions:**
+- **Ich gehe zweimal pro Woche ins Fitness-Studio** — *I go to the gym twice a week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 1a (Zeit mit Freunden)
 <!-- bank:end -->
 

@@ -31,6 +31,9 @@ status: "new"
 > Bei dem Treffen waren alle Mitglieder anwesend.
 > *At the meeting all the members were present.*
 
+**Phrases & Expressions:**
+- **Bei dem Treffen waren alle Mitglieder anwesend** — *At the meeting all the members were present* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

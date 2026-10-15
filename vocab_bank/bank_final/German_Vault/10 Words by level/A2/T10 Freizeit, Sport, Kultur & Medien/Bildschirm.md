@@ -35,6 +35,9 @@ status: "new"
 > Ich brauche einen größeren Bildschirm für meinen Computer.
 > *I need a bigger screen for my computer.*
 
+**Phrases & Expressions:**
+- **Ich brauche einen größeren Bildschirm für meinen Computer** — *I need a bigger screen for my computer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1a ÜB (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

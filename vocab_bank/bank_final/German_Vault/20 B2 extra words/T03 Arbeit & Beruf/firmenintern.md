@@ -29,6 +29,11 @@ status: "new"
 > Die Weiterbildung findet firmenintern statt.
 > *The training takes place in-house.*
 
+**Phrases & Expressions:**
+- **firmenintern regeln** — *in-house; within the company*
+- **eine firmeninterne Schulung** — *in-house; within the company*
+- **firmenintern kommunizieren** — *in-house; within the company*
+
 **Collocations**
 - firmenintern regeln
 - eine firmeninterne Schulung

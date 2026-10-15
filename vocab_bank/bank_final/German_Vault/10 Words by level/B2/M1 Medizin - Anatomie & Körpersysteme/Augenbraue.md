@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Er hat sich an der Augenbraue verletzt.
 > *He injured himself on the eyebrow.*
+
+**Phrases & Expressions:**
+- **Er hat sich an der Augenbraue verletzt** — *He injured himself on the eyebrow* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

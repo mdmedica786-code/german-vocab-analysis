@@ -31,6 +31,11 @@ status: "new"
 > Die Nachricht erschütterte die ganze Stadt.
 > *The news shocked the whole city.*
 
+**Phrases & Expressions:**
+- **jemanden erschüttern** — *to shake; to shock; to shatter*
+- **das Vertrauen erschüttern** — *to shake; to shock; to shatter*
+- **tief erschüttert sein** — *to shake; to shock; to shatter*
+
 **Collocations**
 - jemanden erschüttern
 - das Vertrauen erschüttern

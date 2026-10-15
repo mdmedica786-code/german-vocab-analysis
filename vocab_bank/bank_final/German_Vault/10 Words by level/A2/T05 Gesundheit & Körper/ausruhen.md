@@ -34,6 +34,9 @@ status: "new"
 > Ruh dich erst mal aus! Du bist sicher müde.
 > *Have a rest first! You're surely tired.*
 
+**Phrases & Expressions:**
+- **Geben Sie Ihrem Kind viel zu trinken und lassen Sie es sich ausruhen.** — Give your child plenty to drink and let it rest. *([[FSP-22 Kinder, Eltern und ältere Patienten|Eltern beraten]] · B1)*
+
 **Source:** Netzwerk neu A2 K4 7a (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

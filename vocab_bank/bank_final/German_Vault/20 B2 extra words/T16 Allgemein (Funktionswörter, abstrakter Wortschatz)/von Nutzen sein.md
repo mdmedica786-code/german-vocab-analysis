@@ -26,6 +26,10 @@ status: "new"
 > Diese Kenntnisse werden Ihnen im Beruf von Nutzen sein.
 > *This knowledge will be useful to you in your job.*
 
+**Phrases & Expressions:**
+- **von großem Nutzen sein** — *to be useful*
+- **von Nutzen für + Akk.** — *to be useful*
+
 **Collocations**
 - von großem Nutzen sein
 - von Nutzen für + Akk.

@@ -33,6 +33,11 @@ status: "new"
 > Gegen das Land wurde ein Embargo verhängt.
 > *An embargo was imposed against the country.*
 
+**Phrases & Expressions:**
+- **ein Embargo verhängen** — *embargo*
+- **das Embargo aufheben** — *embargo*
+- **Embargo gegen + Akk.** — *embargo*
+
 **Collocations**
 - ein Embargo verhängen
 - das Embargo aufheben

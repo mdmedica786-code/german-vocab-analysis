@@ -35,6 +35,9 @@ status: "new"
 > Im April regnet es oft.
 > *It often rains in April.*
 
+**Phrases & Expressions:**
+- **Im April regnet es oft** — *It often rains in April* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

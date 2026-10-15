@@ -34,6 +34,9 @@ status: "new"
 > Sie wohnt in einem Loft in der Innenstadt.
 > *She lives in a loft in the city centre.*
 
+**Phrases & Expressions:**
+- **Sie wohnt in einem Loft in der Innenstadt** — *She lives in a loft in the city centre* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 10a (Meine Wohnung)
 <!-- bank:end -->
 

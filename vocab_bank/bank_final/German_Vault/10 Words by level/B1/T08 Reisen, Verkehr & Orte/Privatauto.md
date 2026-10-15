@@ -34,6 +34,9 @@ status: "new"
 > Viele Menschen fahren lieber mit dem Privatauto.
 > *Many people prefer to travel by private car.*
 
+**Phrases & Expressions:**
+- **Viele Menschen fahren lieber mit dem Privatauto** — *Many people prefer to travel by private car* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

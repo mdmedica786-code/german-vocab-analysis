@@ -31,6 +31,14 @@ status: "new"
 > Die Zahlung erfolgt per Überweisung.
 > *Payment is made by bank transfer.*
 
+**Phrases & Expressions:**
+- **Die stationäre Aufnahme erfolgte aufgrund von ...** — Inpatient admission took place because of ... *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Aufnahmegrund nennen]] · C1)*
+- **Die Behandlung erfolgte leitliniengerecht.** — Treatment was carried out in accordance with the guidelines. *([[FSP-20 Arztbrief und Dokumentation|Therapie beschreiben]] · C1)*
+- **Zur weiteren Abklärung erfolgte die Durchführung einer Koloskopie.** — For further clarification, a colonoscopy was performed. *([[FSP-20 Arztbrief und Dokumentation|Nominalstil]] · C1)*
+- **die Anmeldung erfolgt online** — *to take place; to follow (as a result)*
+- **im Anschluss erfolgen** — *to take place; to follow (as a result)*
+- **eine Reaktion erfolgt** — *to take place; to follow (as a result)*
+
 **Collocations**
 - die Anmeldung erfolgt online
 - im Anschluss erfolgen

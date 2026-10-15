@@ -31,6 +31,9 @@ status: "new"
 > Am Silbenanfang steht oft ein Konsonant.
 > *A consonant often stands at the beginning of a syllable.*
 
+**Phrases & Expressions:**
+- **Am Silbenanfang steht oft ein Konsonant** — *A consonant often stands at the beginning of a syllable* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 3c (Arbeitsalltag)
 <!-- bank:end -->
 

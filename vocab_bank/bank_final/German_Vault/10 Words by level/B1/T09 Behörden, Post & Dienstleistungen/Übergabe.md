@@ -34,6 +34,9 @@ status: "new"
 > Die Übergabe der Schlüssel erfolgt am Montag.
 > *The handover of the keys takes place on Monday.*
 
+**Phrases & Expressions:**
+- **Haben Sie noch Fragen zur Übergabe?** — Do you have any further questions about the handover? *([[FSP-19 Übergabe, Konsil und Rücksprache|Übergabe abschließen]] · B2)*
+
 **Source:** Netzwerk neu B1 K11 6b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Das ist ein heikles Thema, über das man nicht gern spricht.
 > *That is a delicate topic that people do not like to talk about.*
 
+**Phrases & Expressions:**
+- **ein heikles Thema** — *delicate; tricky*
+- **eine heikle Frage** — *delicate; tricky*
+- **in einer heiklen Lage** — *delicate; tricky*
+
 **Collocations**
 - ein heikles Thema
 - eine heikle Frage

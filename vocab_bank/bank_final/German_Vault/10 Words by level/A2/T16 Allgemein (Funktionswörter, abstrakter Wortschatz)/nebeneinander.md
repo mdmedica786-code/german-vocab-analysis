@@ -30,6 +30,9 @@ status: "new"
 > Wir sitzen im Kino nebeneinander.
 > *We sit next to each other in the cinema.*
 
+**Phrases & Expressions:**
+- **Wir sitzen im Kino nebeneinander** — *We sit next to each other in the cinema* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 4b (Arbeitswelten)
 <!-- bank:end -->
 

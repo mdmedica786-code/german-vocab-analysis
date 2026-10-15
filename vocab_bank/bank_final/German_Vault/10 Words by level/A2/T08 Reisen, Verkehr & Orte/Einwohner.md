@@ -35,6 +35,9 @@ status: "new"
 > Berlin hat über drei Millionen Einwohner.
 > *Berlin has over three million inhabitants.*
 
+**Phrases & Expressions:**
+- **Berlin hat über drei Millionen Einwohner** — *Berlin has over three million inhabitants* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 13a (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der Pottwal taucht sehr tief.
 > *The sperm whale dives very deep.*
 
+**Phrases & Expressions:**
+- **ein Pottwal im Meer** — *sperm whale*
+- **einen Pottwal beobachten** — *sperm whale*
+- **die Größe eines Pottwals** — *sperm whale*
+
 **Collocations**
 - ein Pottwal im Meer
 - einen Pottwal beobachten

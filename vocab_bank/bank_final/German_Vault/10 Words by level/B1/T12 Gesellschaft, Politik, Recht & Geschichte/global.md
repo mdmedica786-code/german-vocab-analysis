@@ -31,6 +31,9 @@ status: "new"
 > Das Problem ist global.
 > *The problem is global.*
 
+**Phrases & Expressions:**
+- **Das Problem ist global** — *The problem is global* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 6a (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

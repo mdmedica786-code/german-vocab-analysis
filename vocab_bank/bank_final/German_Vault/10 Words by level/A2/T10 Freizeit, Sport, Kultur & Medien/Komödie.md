@@ -34,6 +34,9 @@ status: "new"
 > Ich mag Komödien, weil ich gern lache.
 > *I like comedies because I like laughing.*
 
+**Phrases & Expressions:**
+- **Ich mag Komödien, weil ich gern lache** — *I like comedies because I like laughing* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12a (Immer online?)
 <!-- bank:end -->
 

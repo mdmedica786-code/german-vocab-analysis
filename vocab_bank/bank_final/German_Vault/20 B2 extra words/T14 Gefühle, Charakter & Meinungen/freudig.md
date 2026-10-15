@@ -29,6 +29,11 @@ status: "new"
 > Sie begrüßte ihre Gäste mit einem freudigen Lächeln.
 > *She welcomed her guests with a joyful smile.*
 
+**Phrases & Expressions:**
+- **ein freudiges Ereignis** — *joyful; happy*
+- **freudig überrascht** — *joyful; happy*
+- **jemanden freudig empfangen** — *joyful; happy*
+
 **Collocations**
 - ein freudiges Ereignis
 - freudig überrascht

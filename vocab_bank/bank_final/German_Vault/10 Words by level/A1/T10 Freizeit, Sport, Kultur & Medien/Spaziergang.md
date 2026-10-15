@@ -35,6 +35,9 @@ status: "new"
 > Abends mache ich immer einen Spaziergang.
 > *In the evening I always go for a walk.*
 
+**Phrases & Expressions:**
+- **Schon ein zügiger Spaziergang pro Tag tut Ihnen gut.** — Even a brisk walk a day does you good. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Bewegung motivieren]] · B1)*
+
 **Source:** Netzwerk neu A1 K10 9a (Studium und Beruf) · Goethe word list A2
 <!-- bank:end -->
 

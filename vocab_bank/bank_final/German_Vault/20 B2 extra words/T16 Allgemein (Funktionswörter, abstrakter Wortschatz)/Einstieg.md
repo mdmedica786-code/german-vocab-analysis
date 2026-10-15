@@ -33,6 +33,11 @@ status: "new"
 > Der Einstieg in den Beruf fiel ihr leicht.
 > *Starting out in her career was easy for her.*
 
+**Phrases & Expressions:**
+- **der Einstieg in** — *entry; start; way in*
+- **ein guter Einstieg** — *entry; start; way in*
+- **der Einstieg ins Berufsleben** — *entry; start; way in*
+
 **Collocations**
 - der Einstieg in
 - ein guter Einstieg

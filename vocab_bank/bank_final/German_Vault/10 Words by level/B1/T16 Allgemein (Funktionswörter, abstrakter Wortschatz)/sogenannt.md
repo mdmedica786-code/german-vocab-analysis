@@ -31,6 +31,12 @@ status: "new"
 > Das ist ein sogenannter Fachbegriff.
 > *That is a so-called technical term.*
 
+**Phrases & Expressions:**
+- **sogenannte Experten** — *so-called*
+- **der sogenannte Fortschritt** — *so-called*
+- **sogenannte Freunde** — *so-called*
+- **die sogenannte Wahrheit** — *so-called*
+
 **Collocations**
 - sogenannte Experten
 - der sogenannte Fortschritt

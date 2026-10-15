@@ -33,6 +33,11 @@ status: "new"
 > In der Probezeit kann man schnell kündigen.
 > *During the probation period one can give notice quickly.*
 
+**Phrases & Expressions:**
+- **die Probezeit bestehen** — *probation period*
+- **eine Probezeit von sechs Monaten** — *probation period*
+- **in der Probezeit** — *probation period*
+
 **Collocations**
 - die Probezeit bestehen
 - eine Probezeit von sechs Monaten

@@ -30,6 +30,11 @@ status: "new"
 > Mein Portmonee lag auf dem Tisch.
 > *My wallet was lying on the table.*
 
+**Phrases & Expressions:**
+- **das Portmonee verlieren** — *wallet; purse (variant of Portemonnaie)*
+- **ein Portmonee aus Leder** — *wallet; purse (variant of Portemonnaie)*
+- **im Portmonee suchen** — *wallet; purse (variant of Portemonnaie)*
+
 **Collocations**
 - das Portmonee verlieren
 - ein Portmonee aus Leder

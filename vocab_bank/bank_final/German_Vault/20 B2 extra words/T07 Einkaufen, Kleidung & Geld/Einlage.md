@@ -33,6 +33,11 @@ status: "new"
 > Die Einlagen bei deutschen Banken sind bis 100 000 Euro gesichert.
 > *Deposits at German banks are protected up to 100,000 euros.*
 
+**Phrases & Expressions:**
+- **eine Einlage leisten** — *deposit; contribution; insert*
+- **Einlagen sichern** — *deposit; contribution; insert*
+- **Schuheinlage** — *deposit; contribution; insert*
+
 **Collocations**
 - eine Einlage leisten
 - Einlagen sichern

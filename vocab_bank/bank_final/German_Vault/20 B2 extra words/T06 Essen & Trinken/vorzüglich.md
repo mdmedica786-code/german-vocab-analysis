@@ -29,6 +29,11 @@ status: "new"
 > Das Essen im Restaurant war vorzüglich.
 > *The food at the restaurant was excellent.*
 
+**Phrases & Expressions:**
+- **vorzüglich schmecken** — *excellent; superb*
+- **eine vorzügliche Leistung** — *excellent; superb*
+- **vorzüglich kochen** — *excellent; superb*
+
 **Collocations**
 - vorzüglich schmecken
 - eine vorzügliche Leistung

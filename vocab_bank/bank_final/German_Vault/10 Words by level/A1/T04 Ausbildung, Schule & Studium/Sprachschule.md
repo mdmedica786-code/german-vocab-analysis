@@ -34,6 +34,9 @@ status: "new"
 > Die Sprachschule liegt in der Innenstadt.
 > *The language school is in the city centre.*
 
+**Phrases & Expressions:**
+- **Die Sprachschule liegt in der Innenstadt** — *The language school is in the city centre* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 14 (Alltag und Familie)
 <!-- bank:end -->
 

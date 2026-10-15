@@ -33,6 +33,11 @@ status: "new"
 > Am Nachmittag geht der Regen in Schneeregen über.
 > *In the afternoon the rain turns into sleet.*
 
+**Phrases & Expressions:**
+- **Schneeregen setzt ein** — *sleet*
+- **bei Schneeregen** — *sleet*
+- **Regen und Schneeregen** — *sleet*
+
 **Collocations**
 - Schneeregen setzt ein
 - bei Schneeregen

@@ -27,6 +27,9 @@ status: "new"
 > Das ist die meistabonnierte Zeitschrift des Landes.
 > *This is the most subscribed magazine in the country.*
 
+**Phrases & Expressions:**
+- **Das ist die meistabonnierte Zeitschrift des Landes** — *This is the most subscribed magazine in the country* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!)
 <!-- bank:end -->
 

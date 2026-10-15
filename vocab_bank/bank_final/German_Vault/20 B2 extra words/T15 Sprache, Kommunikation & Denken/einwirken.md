@@ -32,6 +32,12 @@ status: "new"
 > Sie versuchte, auf ihren Bruder einzuwirken.
 > *She tried to influence her brother.*
 
+**Phrases & Expressions:**
+- **Dieses Medikament wirkt anders, wenn Sie Alkohol trinken.** — This medicine works differently if you drink alcohol. *([[FSP-11 Therapie und Medikamente erklären|Wechselwirkungen]] · B2)*
+- **auf jemanden einwirken** — *to influence; to act upon*
+- **auf etwas einwirken** — *to influence; to act upon*
+- **etwas einwirken lassen** — *to influence; to act upon*
+
 **Collocations**
 - auf jemanden einwirken
 - auf etwas einwirken

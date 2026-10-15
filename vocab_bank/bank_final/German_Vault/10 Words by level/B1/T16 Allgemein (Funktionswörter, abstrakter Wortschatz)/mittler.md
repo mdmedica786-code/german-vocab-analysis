@@ -31,6 +31,9 @@ status: "new"
 > Das Unternehmen hat eine mittlere Größe.
 > *The company is of medium size.*
 
+**Phrases & Expressions:**
+- **Das Unternehmen hat eine mittlere Größe** — *The company is of medium size* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Mein Smartphone hat eine gute Kamera.
 > *My smartphone has a good camera.*
 
+**Phrases & Expressions:**
+- **Mein Smartphone hat eine gute Kamera** — *My smartphone has a good camera* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1b (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

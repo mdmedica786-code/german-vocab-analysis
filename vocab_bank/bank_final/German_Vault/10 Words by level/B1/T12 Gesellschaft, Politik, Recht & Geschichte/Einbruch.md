@@ -35,6 +35,9 @@ status: "new"
 > In der Urlaubszeit gibt es viele Wohnungseinbrüche.
 > *In the holiday season there are many burglaries.*
 
+**Phrases & Expressions:**
+- **In der Urlaubszeit gibt es viele Wohnungseinbrüche** — *In the holiday season there are many burglaries* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 6b (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Das Ergebnis war überraschend.
 > *The result was surprising.*
+
+**Phrases & Expressions:**
+- **Das Ergebnis war überraschend** — *The result was surprising* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

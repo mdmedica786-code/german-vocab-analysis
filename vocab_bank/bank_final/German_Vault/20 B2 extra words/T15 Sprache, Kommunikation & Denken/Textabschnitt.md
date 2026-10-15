@@ -33,6 +33,11 @@ status: "new"
 > Lesen Sie bitte den ersten Textabschnitt noch einmal.
 > *Please read the first section of the text again.*
 
+**Phrases & Expressions:**
+- **ein Textabschnitt** — *section of text; paragraph*
+- **den Textabschnitt markieren** — *section of text; paragraph*
+- **der erste Textabschnitt** — *section of text; paragraph*
+
 **Collocations**
 - ein Textabschnitt
 - den Textabschnitt markieren

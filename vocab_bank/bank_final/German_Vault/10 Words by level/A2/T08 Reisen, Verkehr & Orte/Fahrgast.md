@@ -34,6 +34,9 @@ status: "new"
 > Die Fahrgäste steigen am Hauptbahnhof aus.
 > *The passengers get off at the main station.*
 
+**Phrases & Expressions:**
+- **Die Fahrgäste steigen am Hauptbahnhof aus** — *The passengers get off at the main station* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 3a ÜB (Arbeitswelten)
 <!-- bank:end -->
 

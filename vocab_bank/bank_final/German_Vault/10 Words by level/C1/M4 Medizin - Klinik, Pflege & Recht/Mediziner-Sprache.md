@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Die Mediziner-Sprache ist für Patienten oft schwer.
 > *Medical jargon is often difficult for patients.*
+
+**Phrases & Expressions:**
+- **Die Mediziner-Sprache ist für Patienten oft schwer** — *Medical jargon is often difficult for patients* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -26,6 +26,11 @@ status: "new"
 > Der Name des Dichters ist fast in Vergessenheit geraten.
 > *The poet's name has almost been forgotten.*
 
+**Phrases & Expressions:**
+- **schnell in Vergessenheit geraten** — *to be forgotten; to fall into oblivion*
+- **nicht in Vergessenheit geraten** — *to be forgotten; to fall into oblivion*
+- **in Vergessenheit geraten lassen** — *to be forgotten; to fall into oblivion*
+
 **Collocations**
 - schnell in Vergessenheit geraten
 - nicht in Vergessenheit geraten

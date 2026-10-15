@@ -34,6 +34,11 @@ status: "new"
 > Mein direkter Vorgesetzter ist sehr nett.
 > *My direct superior is very nice.*
 
+**Phrases & Expressions:**
+- **der direkte Vorgesetzte** — *superior; boss*
+- **Vorgesetzte und Mitarbeiter** — *superior; boss*
+- **den Vorgesetzten informieren** — *superior; boss*
+
 **Collocations**
 - der direkte Vorgesetzte
 - Vorgesetzte und Mitarbeiter

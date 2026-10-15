@@ -33,6 +33,9 @@ status: "new"
 > Lass dich zum Abschied umarmen.
 > *Let me hug you goodbye.*
 
+**Phrases & Expressions:**
+- **Ich umarme dich ganz fest.** — I give you a big hug. *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

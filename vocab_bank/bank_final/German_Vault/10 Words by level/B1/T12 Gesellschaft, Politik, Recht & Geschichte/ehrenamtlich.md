@@ -30,6 +30,9 @@ status: "new"
 > Sie arbeitet ehrenamtlich im Tierheim.
 > *She works as a volunteer at the animal shelter.*
 
+**Phrases & Expressions:**
+- **Sie arbeitet ehrenamtlich im Tierheim** — *She works as a volunteer at the animal shelter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

@@ -29,6 +29,12 @@ status: "new"
 > Sie war maßgeblich an dem Erfolg beteiligt.
 > *She played a decisive part in the success.*
 
+**Phrases & Expressions:**
+- **Es kommt maßgeblich darauf an, ob ...** — It depends largely on whether ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Relativieren]] · B2)*
+- **maßgeblich beteiligt sein** — *decisive; authoritative*
+- **maßgeblich beeinflussen** — *decisive; authoritative*
+- **eine maßgebliche Rolle** — *decisive; authoritative*
+
 **Collocations**
 - maßgeblich beteiligt sein
 - maßgeblich beeinflussen

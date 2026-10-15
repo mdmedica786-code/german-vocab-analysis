@@ -33,6 +33,11 @@ status: "new"
 > Die Verknüpfung der beiden Themen ist sinnvoll.
 > *The link between the two topics makes sense.*
 
+**Phrases & Expressions:**
+- **eine Verknüpfung herstellen** — *link; connection*
+- **eine logische Verknüpfung** — *link; connection*
+- **Verknüpfung von Daten** — *link; connection*
+
 **Collocations**
 - eine Verknüpfung herstellen
 - eine logische Verknüpfung

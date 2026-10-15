@@ -33,6 +33,11 @@ status: "new"
 > Die Erneuerung des Passes kostet Geld.
 > *The renewal of the passport costs money.*
 
+**Phrases & Expressions:**
+- **die Erneuerung des Vertrags** — *renewal; renovation*
+- **die Erneuerung der Heizung** — *renewal; renovation*
+- **eine politische Erneuerung** — *renewal; renovation*
+
 **Collocations**
 - die Erneuerung des Vertrags
 - die Erneuerung der Heizung

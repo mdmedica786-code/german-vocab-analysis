@@ -32,6 +32,11 @@ status: "new"
 > Er jobbt am Wochenende, um sein Gehalt aufzubessern.
 > *He works a side job at weekends to top up his income.*
 
+**Phrases & Expressions:**
+- **das Gehalt aufbessern** — *to improve; to top up*
+- **das Taschengeld aufbessern** — *to improve; to top up*
+- **die Rente aufbessern** — *to improve; to top up*
+
 **Collocations**
 - das Gehalt aufbessern
 - das Taschengeld aufbessern

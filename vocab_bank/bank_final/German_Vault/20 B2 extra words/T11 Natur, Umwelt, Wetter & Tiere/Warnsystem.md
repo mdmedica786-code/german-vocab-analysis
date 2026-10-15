@@ -33,6 +33,11 @@ status: "new"
 > Das neue Warnsystem informiert die Bürger bei Hochwasser.
 > *The new warning system informs citizens in case of flooding.*
 
+**Phrases & Expressions:**
+- **ein Warnsystem einrichten** — *warning system*
+- **ein Warnsystem installieren** — *warning system*
+- **ein Warnsystem für Hochwasser** — *warning system*
+
 **Collocations**
 - ein Warnsystem einrichten
 - ein Warnsystem installieren

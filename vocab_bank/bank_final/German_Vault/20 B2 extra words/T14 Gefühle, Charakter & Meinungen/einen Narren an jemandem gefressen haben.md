@@ -29,6 +29,11 @@ status: "new"
 > Die Oma hat an dem kleinen Enkel einen Narren gefressen.
 > *Grandma is completely taken with the little grandson.*
 
+**Phrases & Expressions:**
+- **einen Narren gefressen haben** — *to be completely taken with someone*
+- **an jemandem einen Narren gefressen haben** — *to be completely taken with someone*
+- **vernarrt sein** — *to be completely taken with someone*
+
 **Collocations**
 - einen Narren gefressen haben
 - an jemandem einen Narren gefressen haben

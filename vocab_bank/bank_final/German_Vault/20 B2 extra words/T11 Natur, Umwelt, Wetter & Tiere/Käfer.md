@@ -33,6 +33,11 @@ status: "new"
 > Im Garten krabbelt ein grüner Käfer über den Weg.
 > *In the garden a green beetle is crawling across the path.*
 
+**Phrases & Expressions:**
+- **ein Käfer krabbelt** — *beetle*
+- **Kartoffelkäfer** — *beetle*
+- **einen Käfer fangen** — *beetle*
+
 **Collocations**
 - ein Käfer krabbelt
 - Kartoffelkäfer

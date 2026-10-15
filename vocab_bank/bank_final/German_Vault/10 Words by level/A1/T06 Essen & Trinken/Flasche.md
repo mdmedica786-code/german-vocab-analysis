@@ -35,6 +35,9 @@ status: "new"
 > Eine Flasche Bier, bitte.
 > *A bottle of beer, please.*
 
+**Phrases & Expressions:**
+- **Eine Flasche Bier, bitte** — *A bottle of beer, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

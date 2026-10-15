@@ -33,6 +33,11 @@ status: "new"
 > Die Erhebung der Daten dauerte drei Monate.
 > *Collecting the data took three months.*
 
+**Phrases & Expressions:**
+- **eine statistische Erhebung** — *survey; elevation; uprising*
+- **die Erhebung von Gebühren** — *survey; elevation; uprising*
+- **eine Erhebung durchführen** — *survey; elevation; uprising*
+
 **Collocations**
 - eine statistische Erhebung
 - die Erhebung von Gebühren

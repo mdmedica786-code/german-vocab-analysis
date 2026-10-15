@@ -35,6 +35,9 @@ status: "new"
 > Die Stadt sollte eine Aktion für Familien planen.
 > *The city should plan a campaign for families.*
 
+**Phrases & Expressions:**
+- **Die Stadt sollte eine Aktion für Familien planen** — *The city should plan a campaign for families* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 9a (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Bitte machen Sie präzise Angaben zum Unfall.
 > *Please give precise details of the accident.*
 
+**Phrases & Expressions:**
+- **präzise formulieren** — *precise*
+- **eine präzise Antwort** — *precise*
+- **präzise Angaben** — *precise*
+
 **Collocations**
 - präzise formulieren
 - eine präzise Antwort

@@ -29,6 +29,11 @@ status: "new"
 > Die Details sind mir nicht mehr präsent.
 > *I no longer have the details in mind.*
 
+**Phrases & Expressions:**
+- **präsent sein** — *present; at hand; in mind*
+- **etwas präsent haben** — *present; at hand; in mind*
+- **stark präsent** — *present; at hand; in mind*
+
 **Collocations**
 - präsent sein
 - etwas präsent haben

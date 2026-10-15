@@ -29,6 +29,11 @@ status: "new"
 > Die Änderungen sind nur unwesentlich.
 > *The changes are only minor.*
 
+**Phrases & Expressions:**
+- **nur unwesentlich** — *insignificant; minor*
+- **eine unwesentliche Rolle** — *insignificant; minor*
+- **unwesentlich sein** — *insignificant; minor*
+
 **Collocations**
 - nur unwesentlich
 - eine unwesentliche Rolle

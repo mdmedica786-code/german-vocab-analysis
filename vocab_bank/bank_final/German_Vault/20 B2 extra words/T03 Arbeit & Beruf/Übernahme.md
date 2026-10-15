@@ -33,6 +33,12 @@ status: "new"
 > Die Übernahme des Konkurrenten kostete viel Geld.
 > *The takeover of the competitor cost a lot of money.*
 
+**Phrases & Expressions:**
+- **Wir bitten um Übernahme der weiteren Behandlung.** — We ask you to take over further treatment. *([[FSP-20 Arztbrief und Dokumentation|Schlussformel]] · B2)*
+- **feindliche Übernahme** — *takeover; acceptance*
+- **die Übernahme einer Firma** — *takeover; acceptance*
+- **Übernahme von Verantwortung** — *takeover; acceptance*
+
 **Collocations**
 - feindliche Übernahme
 - die Übernahme einer Firma

@@ -31,6 +31,14 @@ status: "new"
 > Ich habe grad keine Zeit.
 > *I don't have time right now.*
 
+**Phrases & Expressions:**
+- **zu einem gewissen Grad** — to a certain extent *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · C1)*
+- **bis zu einem gewissen Grad** — to a certain degree *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · C1)*
+- **grad eben** — *just; at the moment*
+- **grad jetzt** — *just; at the moment*
+- **grad noch** — *just; at the moment*
+- **grad erst** — *just; at the moment*
+
 **Collocations**
 - grad eben
 - grad jetzt

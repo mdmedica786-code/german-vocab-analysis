@@ -29,6 +29,11 @@ status: "new"
 > Fortan gelten neue Regeln.
 > *From now on new rules apply.*
 
+**Phrases & Expressions:**
+- **fortan gelten** — *from now on; henceforth*
+- **fortan verboten** — *from now on; henceforth*
+- **fortan nur noch** — *from now on; henceforth*
+
 **Collocations**
 - fortan gelten
 - fortan verboten

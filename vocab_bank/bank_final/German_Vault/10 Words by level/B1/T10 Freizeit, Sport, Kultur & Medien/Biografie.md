@@ -34,6 +34,9 @@ status: "new"
 > Ich lese gerade eine Biografie über Goethe.
 > *I am currently reading a biography of Goethe.*
 
+**Phrases & Expressions:**
+- **Ich lese gerade eine Biografie über Goethe** — *I am currently reading a biography of Goethe* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 10a (Blick nach vorn)
 <!-- bank:end -->
 

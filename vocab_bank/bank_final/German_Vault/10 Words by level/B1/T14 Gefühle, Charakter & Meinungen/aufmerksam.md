@@ -31,6 +31,9 @@ status: "new"
 > Die Schülerin hörte aufmerksam zu.
 > *The pupil listened attentively.*
 
+**Phrases & Expressions:**
+- **Die Schülerin hörte aufmerksam zu** — *The pupil listened attentively* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 10b (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

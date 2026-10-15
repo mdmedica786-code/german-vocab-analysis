@@ -33,6 +33,11 @@ status: "new"
 > Die Gewinnspanne bei diesem Produkt ist gering.
 > *The profit margin on this product is low.*
 
+**Phrases & Expressions:**
+- **eine hohe Gewinnspanne** — *profit margin*
+- **die Gewinnspanne verringern** — *profit margin*
+- **Gewinnspanne berechnen** — *profit margin*
+
 **Collocations**
 - eine hohe Gewinnspanne
 - die Gewinnspanne verringern

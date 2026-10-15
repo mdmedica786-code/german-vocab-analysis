@@ -31,6 +31,9 @@ status: "new"
 > „Sehr geehrte Damen und Herren“ ist eine Anredeformel.
 > *"Sehr geehrte Damen und Herren" is a form of address.*
 
+**Phrases & Expressions:**
+- **„Sehr geehrte Damen und Herren“ ist eine Anredeformel** — *"Sehr geehrte Damen und Herren" is a form of address* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 8b (Arbeitsalltag)
 <!-- bank:end -->
 

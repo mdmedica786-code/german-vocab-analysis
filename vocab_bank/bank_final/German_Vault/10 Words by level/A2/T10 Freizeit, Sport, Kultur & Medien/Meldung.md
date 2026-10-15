@@ -35,6 +35,9 @@ status: "new"
 > Hast du die Meldung im Radio gehört?
 > *Did you hear the announcement on the radio?*
 
+**Phrases & Expressions:**
+- **Hast du die Meldung im Radio gehört** — *Did you hear the announcement on the radio* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 8a (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

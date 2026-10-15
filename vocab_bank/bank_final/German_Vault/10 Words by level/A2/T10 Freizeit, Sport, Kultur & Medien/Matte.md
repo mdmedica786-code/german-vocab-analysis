@@ -34,6 +34,9 @@ status: "new"
 > Für die Yogastunde brauchst du eine Matte.
 > *For the yoga class you need a mat.*
 
+**Phrases & Expressions:**
+- **Für die Yogastunde brauchst du eine Matte** — *For the yoga class you need a mat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1a (Sportlich, sportlich)
 <!-- bank:end -->
 

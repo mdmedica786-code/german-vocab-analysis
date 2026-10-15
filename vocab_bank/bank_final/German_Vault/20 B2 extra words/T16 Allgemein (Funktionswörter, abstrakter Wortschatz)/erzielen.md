@@ -31,6 +31,11 @@ status: "new"
 > Das Unternehmen hat im letzten Jahr hohe Gewinne erzielt.
 > *The company achieved high profits last year.*
 
+**Phrases & Expressions:**
+- **ein Ergebnis erzielen** — *to achieve; to score*
+- **eine Einigung erzielen** — *to achieve; to score*
+- **einen Gewinn erzielen** — *to achieve; to score*
+
 **Collocations**
 - ein Ergebnis erzielen
 - eine Einigung erzielen

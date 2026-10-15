@@ -31,6 +31,11 @@ status: "new"
 > Sie zerschnitt den Kuchen in acht gleich große Stücke.
 > *She cut the cake into eight equal pieces.*
 
+**Phrases & Expressions:**
+- **Papier zerschneiden** — *to cut up; to cut into pieces*
+- **etwas in Stücke zerschneiden** — *to cut up; to cut into pieces*
+- **einen Stoff zerschneiden** — *to cut up; to cut into pieces*
+
 **Collocations**
 - Papier zerschneiden
 - etwas in Stücke zerschneiden

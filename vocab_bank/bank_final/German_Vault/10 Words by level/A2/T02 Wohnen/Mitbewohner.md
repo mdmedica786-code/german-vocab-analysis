@@ -34,6 +34,9 @@ status: "new"
 > Mein Mitbewohner kocht gern.
 > *My flatmate likes cooking.*
 
+**Phrases & Expressions:**
+- **Mein Mitbewohner kocht gern** — *My flatmate likes cooking* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 6c (Zusammen leben)
 <!-- bank:end -->
 

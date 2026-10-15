@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Bundesrepublik Deutschland hat 16 Bundesländer.
 > *The Federal Republic of Germany has 16 federal states.*
+
+**Phrases & Expressions:**
+- **Die Bundesrepublik Deutschland hat 16 Bundesländer** — *The Federal Republic of Germany has 16 federal states* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,12 @@ status: "new"
 > Er hat sich den Ellbogen gestoßen.
 > *He bumped his elbow.*
 
+**Phrases & Expressions:**
+- **den Ellbogen stoßen** — *elbow*
+- **Schmerzen im Ellbogen** — *elbow*
+- **gebrochener Ellbogen** — *elbow*
+- **den Ellbogen beugen** — *elbow*
+
 **Collocations**
 - den Ellbogen stoßen
 - Schmerzen im Ellbogen

@@ -28,6 +28,10 @@ status: "new"
 > [!example] Beispiel
 > Das Essen war nicht allzu teuer.
 > *The food wasn't all that expensive.*
+
+**Phrases & Expressions:**
+- **nicht allzu ...** — not too ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **vor nicht allzu langer Zeit** — not so long ago *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B2)*
 <!-- bank:end -->
 
 ## My notes

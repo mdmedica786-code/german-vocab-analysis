@@ -30,6 +30,11 @@ status: "new"
 > Auf dem Schatz lag ein alter Fluch.
 > *An old curse lay on the treasure.*
 
+**Phrases & Expressions:**
+- **einen Fluch aussprechen** — *curse*
+- **Fluch und Segen** — *curse*
+- **unter einem Fluch stehen** — *curse*
+
 **Collocations**
 - einen Fluch aussprechen
 - Fluch und Segen

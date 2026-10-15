@@ -32,6 +32,12 @@ status: "new"
 > Gute Mitarbeiter denken im Betrieb mit.
 > *Good employees think along in the company.*
 
+**Phrases & Expressions:**
+- **ich dachte, ...** — I thought ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **mitdenken** — *to think along; to follow the thought process*
+- **aktiv mitdenken** — *to think along; to follow the thought process*
+- **bei der Planung mitdenken** — *to think along; to follow the thought process*
+
 **Collocations**
 - mitdenken
 - aktiv mitdenken

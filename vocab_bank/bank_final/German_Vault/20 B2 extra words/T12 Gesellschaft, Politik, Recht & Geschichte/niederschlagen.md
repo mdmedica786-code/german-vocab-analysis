@@ -32,6 +32,12 @@ status: "new"
 > Die Polizei schlug den Aufstand nieder.
 > *The police put down the uprising.*
 
+**Phrases & Expressions:**
+- **Fühlen Sie sich in letzter Zeit niedergeschlagen?** — Have you been feeling down lately? *([[FSP-06 Systemanamnese (Organsysteme)|Psyche und Schlaf]] · B2)*
+- **einen Aufstand niederschlagen** — *to knock down; to suppress; (sich) to be reflected*
+- **sich niederschlagen in** — *to knock down; to suppress; (sich) to be reflected*
+- **ein Verfahren niederschlagen** — *to knock down; to suppress; (sich) to be reflected*
+
 **Collocations**
 - einen Aufstand niederschlagen
 - sich niederschlagen in

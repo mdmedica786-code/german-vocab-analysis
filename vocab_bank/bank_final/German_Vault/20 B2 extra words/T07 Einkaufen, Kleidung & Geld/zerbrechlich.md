@@ -29,6 +29,11 @@ status: "new"
 > Vorsicht, die Vase ist zerbrechlich!
 > *Careful, the vase is fragile!*
 
+**Phrases & Expressions:**
+- **zerbrechlich wirken** — *fragile*
+- **zerbrechliche Ware** — *fragile*
+- **ein zerbrechliches Glas** — *fragile*
+
 **Collocations**
 - zerbrechlich wirken
 - zerbrechliche Ware

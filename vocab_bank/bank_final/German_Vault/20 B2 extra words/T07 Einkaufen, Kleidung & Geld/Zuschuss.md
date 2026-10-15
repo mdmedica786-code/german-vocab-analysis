@@ -33,6 +33,11 @@ status: "new"
 > Die Stadt gibt einen Zuschuss für den Umbau.
 > *The city gives a grant for the conversion.*
 
+**Phrases & Expressions:**
+- **einen Zuschuss beantragen** — *grant; subsidy; contribution*
+- **Zuschuss erhalten** — *grant; subsidy; contribution*
+- **Zuschuss zur Miete** — *grant; subsidy; contribution*
+
 **Collocations**
 - einen Zuschuss beantragen
 - Zuschuss erhalten

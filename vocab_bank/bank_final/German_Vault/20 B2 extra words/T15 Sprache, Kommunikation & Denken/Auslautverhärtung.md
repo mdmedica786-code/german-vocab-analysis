@@ -33,6 +33,11 @@ status: "new"
 > Wegen der Auslautverhärtung spricht man „Hund“ mit einem T am Ende.
 > *Because of final devoicing "Hund" is pronounced with a T at the end.*
 
+**Phrases & Expressions:**
+- **die Auslautverhärtung beachten** — *final devoicing (of consonants)*
+- **ein Beispiel für Auslautverhärtung** — *final devoicing (of consonants)*
+- **die Regel der Auslautverhärtung** — *final devoicing (of consonants)*
+
 **Collocations**
 - die Auslautverhärtung beachten
 - ein Beispiel für Auslautverhärtung

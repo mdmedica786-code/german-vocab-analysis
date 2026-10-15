@@ -31,6 +31,11 @@ status: "new"
 > Der Richter verkündete das Urteil.
 > *The judge announced the verdict.*
 
+**Phrases & Expressions:**
+- **ein Urteil verkünden** — *to announce; to proclaim*
+- **eine Nachricht verkünden** — *to announce; to proclaim*
+- **öffentlich verkünden** — *to announce; to proclaim*
+
 **Collocations**
 - ein Urteil verkünden
 - eine Nachricht verkünden

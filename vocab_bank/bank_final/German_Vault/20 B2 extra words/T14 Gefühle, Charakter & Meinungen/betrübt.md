@@ -29,6 +29,11 @@ status: "new"
 > Er war betrübt über den Abschied.
 > *He was saddened by the farewell.*
 
+**Phrases & Expressions:**
+- **betrübt sein** — *saddened; sad*
+- **betrübt aussehen** — *saddened; sad*
+- **über etwas betrübt** — *saddened; sad*
+
 **Collocations**
 - betrübt sein
 - betrübt aussehen

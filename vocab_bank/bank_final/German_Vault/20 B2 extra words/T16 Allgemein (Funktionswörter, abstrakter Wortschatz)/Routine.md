@@ -33,6 +33,11 @@ status: "new"
 > Mit der Zeit wird die Arbeit zur Routine.
 > *In time the work becomes routine.*
 
+**Phrases & Expressions:**
+- **zur Routine werden** — *routine; experience*
+- **Routine haben** — *routine; experience*
+- **tägliche Routine** — *routine; experience*
+
 **Collocations**
 - zur Routine werden
 - Routine haben

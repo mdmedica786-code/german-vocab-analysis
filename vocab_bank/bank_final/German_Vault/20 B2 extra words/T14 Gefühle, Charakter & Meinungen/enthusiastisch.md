@@ -29,6 +29,11 @@ status: "new"
 > Das Publikum reagierte enthusiastisch auf die Show.
 > *The audience reacted enthusiastically to the show.*
 
+**Phrases & Expressions:**
+- **enthusiastisch reagieren** — *enthusiastic*
+- **enthusiastisch klatschen** — *enthusiastic*
+- **ein enthusiastischer Beifall** — *enthusiastic*
+
 **Collocations**
 - enthusiastisch reagieren
 - enthusiastisch klatschen

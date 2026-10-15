@@ -31,6 +31,9 @@ status: "new"
 > Meine Kinder sind glücklich verheiratet.
 > *My children are happily married.*
 
+**Phrases & Expressions:**
+- **Meine Kinder sind glücklich verheiratet** — *My children are happily married* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13a (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

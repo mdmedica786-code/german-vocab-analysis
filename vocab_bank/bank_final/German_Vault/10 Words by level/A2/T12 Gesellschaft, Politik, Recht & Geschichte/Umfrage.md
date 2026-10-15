@@ -35,6 +35,9 @@ status: "new"
 > Wir machen eine Umfrage zum Thema Umweltschutz.
 > *We are doing a survey on environmental protection.*
 
+**Phrases & Expressions:**
+- **Laut einer aktuellen Umfrage ...** — According to a recent survey ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Quellen nennen]] · B2)*
+
 **Source:** Netzwerk neu A2 K3 6a (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

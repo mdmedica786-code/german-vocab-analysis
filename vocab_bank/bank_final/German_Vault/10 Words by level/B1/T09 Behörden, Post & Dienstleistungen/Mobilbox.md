@@ -39,6 +39,9 @@ status: "new"
 > Ich habe zwei Nachrichten auf meiner Mobilbox.
 > *I have two messages on my voicemail.*
 
+**Phrases & Expressions:**
+- **Ich habe zwei Nachrichten auf meiner Mobilbox** — *I have two messages on my voicemail* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

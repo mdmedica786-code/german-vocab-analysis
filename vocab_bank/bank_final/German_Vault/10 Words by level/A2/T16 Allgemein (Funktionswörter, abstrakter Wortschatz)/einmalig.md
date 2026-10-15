@@ -30,6 +30,9 @@ status: "new"
 > Dieses Angebot ist einmalig.
 > *This offer is unique.*
 
+**Phrases & Expressions:**
+- **Dieses Angebot ist einmalig** — *This offer is unique* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 7c (Zusammen leben)
 <!-- bank:end -->
 

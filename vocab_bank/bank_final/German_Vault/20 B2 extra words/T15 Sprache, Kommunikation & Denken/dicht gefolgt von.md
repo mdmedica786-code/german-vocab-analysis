@@ -26,6 +26,11 @@ status: "new"
 > Berlin liegt vorn, dicht gefolgt von Hamburg.
 > *Berlin is in the lead, closely followed by Hamburg.*
 
+**Phrases & Expressions:**
+- **dicht gefolgt von** — *closely followed by*
+- **dicht gefolgt werden** — *closely followed by*
+- **an zweiter Stelle, dicht gefolgt von** — *closely followed by*
+
 **Collocations**
 - dicht gefolgt von
 - dicht gefolgt werden

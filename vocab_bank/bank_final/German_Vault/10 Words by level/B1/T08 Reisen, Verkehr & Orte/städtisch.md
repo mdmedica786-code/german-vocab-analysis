@@ -31,6 +31,9 @@ status: "new"
 > Ich gehe gern in die städtische Bibliothek.
 > *I like going to the municipal library.*
 
+**Phrases & Expressions:**
+- **Ich gehe gern in die städtische Bibliothek** — *I like going to the municipal library* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

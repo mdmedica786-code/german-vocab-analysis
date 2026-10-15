@@ -35,6 +35,9 @@ status: "new"
 > Ich hätte gern ein Steak mit Pommes.
 > *I would like a steak with chips.*
 
+**Phrases & Expressions:**
+- **Ich hätte gern ein Steak mit Pommes** — *I would like a steak with chips* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

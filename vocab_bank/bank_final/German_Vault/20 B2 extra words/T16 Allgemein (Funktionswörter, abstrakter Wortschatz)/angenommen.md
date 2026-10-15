@@ -29,6 +29,9 @@ status: "new"
 > Angenommen, der Zug hat Verspätung, was machen wir dann?
 > *Suppose the train is delayed, what do we do then?*
 
+**Phrases & Expressions:**
+- **angenommen, dass** — *assuming; suppose*
+
 **Collocations**
 - angenommen, dass
 

@@ -35,6 +35,9 @@ status: "new"
 > Achtung! Da kommt eine Radfahrerin.
 > *Watch out! A cyclist is coming.*
 
+**Phrases & Expressions:**
+- **Achtung! Da kommt eine Radfahrerin** — *Watch out! A cyclist is coming* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

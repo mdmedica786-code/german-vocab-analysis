@@ -34,6 +34,12 @@ status: "new"
 > Ich habe seit drei Tagen Halsschmerzen.
 > *I have had a sore throat for three days.*
 
+**Phrases & Expressions:**
+- **starke Halsschmerzen** — *sore throat*
+- **Halsschmerzen haben** — *sore throat*
+- **Halsschmerzen beim Schlucken** — *sore throat*
+- **gegen Halsschmerzen lutschen** — *sore throat*
+
 **Collocations**
 - starke Halsschmerzen
 - Halsschmerzen haben

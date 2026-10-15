@@ -34,6 +34,9 @@ status: "new"
 > Der Entertainer begrüßt das Publikum.
 > *The entertainer welcomes the audience.*
 
+**Phrases & Expressions:**
+- **Der Entertainer begrüßt das Publikum** — *The entertainer welcomes the audience* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12b (Immer online?)
 <!-- bank:end -->
 

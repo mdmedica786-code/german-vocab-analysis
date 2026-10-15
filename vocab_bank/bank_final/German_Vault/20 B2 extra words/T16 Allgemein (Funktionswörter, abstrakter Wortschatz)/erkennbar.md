@@ -29,6 +29,11 @@ status: "new"
 > Der Fehler ist deutlich erkennbar.
 > *The mistake is clearly recognisable.*
 
+**Phrases & Expressions:**
+- **deutlich erkennbar** — *recognisable; visible*
+- **kaum erkennbar** — *recognisable; visible*
+- **klar erkennbar** — *recognisable; visible*
+
 **Collocations**
 - deutlich erkennbar
 - kaum erkennbar

@@ -29,6 +29,11 @@ status: "new"
 > Er hat ein kariertes Hemd an.
 > *He is wearing a checked shirt.*
 
+**Phrases & Expressions:**
+- **ein kariertes Hemd** — *checked; squared*
+- **kariertes Papier** — *checked; squared*
+- **rot-weiß kariert** — *checked; squared*
+
 **Collocations**
 - ein kariertes Hemd
 - kariertes Papier

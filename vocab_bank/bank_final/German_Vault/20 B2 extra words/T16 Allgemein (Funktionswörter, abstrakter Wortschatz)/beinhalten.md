@@ -31,6 +31,11 @@ status: "new"
 > Der Vertrag beinhaltet mehrere wichtige Klauseln.
 > *The contract contains several important clauses.*
 
+**Phrases & Expressions:**
+- **beinhaltet auch** — *to contain; to include; to involve*
+- **das beinhaltet** — *to contain; to include; to involve*
+- **etwas beinhalten** — *to contain; to include; to involve*
+
 **Collocations**
 - beinhaltet auch
 - das beinhaltet

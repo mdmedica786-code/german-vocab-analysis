@@ -34,6 +34,14 @@ status: "new"
 > Welches Foto passt zum Text?
 > *Which photo matches the text?*
 
+**Phrases & Expressions:**
+- **Ja, das passt mir gut.** — Yes, that suits me well. *([[B1-05 Vorschläge machen und darauf reagieren|Vorschlag annehmen]] · B1)*
+- **Passt es dir am Freitag um 18 Uhr?** — Does Friday at 6 p.m. suit you? *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Termin vorschlagen]] · B1)*
+- **Würde Ihnen Dienstag um zehn Uhr passen?** — Would Tuesday at ten suit you? *([[B2-07 Telefonieren|Termin vorschlagen]] · B1)*
+- **gut passen** — *to fit; to match; to suit*
+- **zu etwas passen** — *to fit; to match; to suit*
+- **jemandem passen** — *to fit; to match; to suit*
+
 **Collocations**
 - gut passen
 - zu etwas passen

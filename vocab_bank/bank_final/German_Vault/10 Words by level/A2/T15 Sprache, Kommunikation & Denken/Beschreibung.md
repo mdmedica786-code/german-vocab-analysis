@@ -35,6 +35,13 @@ status: "new"
 > Eine Beschreibung des Geräts liegt bei.
 > *A description of the device is enclosed.*
 
+**Phrases & Expressions:**
+- **Das Produkt entspricht nicht der Beschreibung.** — The product doesn't match the description. *([[B2-04 Beschwerde und Reklamation|Problem schildern]] · B2)*
+- **eine genaue Beschreibung** — *description*
+- **eine Beschreibung geben** — *description*
+- **nach der Beschreibung** — *description*
+- **die Beschreibung des Geräts** — *description*
+
 **Collocations**
 - eine genaue Beschreibung
 - eine Beschreibung geben

@@ -33,6 +33,11 @@ status: "new"
 > Die Branche befindet sich in einem Umbruch.
 > *The industry is going through a period of upheaval.*
 
+**Phrases & Expressions:**
+- **ein tiefgreifender Umbruch** — *upheaval; radical change*
+- **sich im Umbruch befinden** — *upheaval; radical change*
+- **gesellschaftlicher Umbruch** — *upheaval; radical change*
+
 **Collocations**
 - ein tiefgreifender Umbruch
 - sich im Umbruch befinden

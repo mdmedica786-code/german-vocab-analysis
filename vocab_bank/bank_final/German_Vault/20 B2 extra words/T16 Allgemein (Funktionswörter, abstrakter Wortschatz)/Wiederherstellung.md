@@ -33,6 +33,11 @@ status: "new"
 > Die Wiederherstellung der Daten dauerte Stunden.
 > *The recovery of the data took hours.*
 
+**Phrases & Expressions:**
+- **die Wiederherstellung von Daten** — *restoration; recovery*
+- **die Wiederherstellung der Ordnung** — *restoration; recovery*
+- **zur Wiederherstellung** — *restoration; recovery*
+
 **Collocations**
 - die Wiederherstellung von Daten
 - die Wiederherstellung der Ordnung

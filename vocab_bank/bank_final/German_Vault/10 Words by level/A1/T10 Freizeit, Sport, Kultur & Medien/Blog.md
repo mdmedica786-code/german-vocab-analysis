@@ -35,6 +35,9 @@ status: "new"
 > Ich schreibe einen Blog über Mode.
 > *I write a blog about fashion.*
 
+**Phrases & Expressions:**
+- **Ich schreibe einen Blog über Mode** — *I write a blog about fashion* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 2a (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->
 

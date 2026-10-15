@@ -35,6 +35,9 @@ status: "new"
 > Bitte schreiben Sie Ihren Geburtsort auf das Formular.
 > *Please write your place of birth on the form.*
 
+**Phrases & Expressions:**
+- **Bitte schreiben Sie Ihren Geburtsort auf das Formular** — *Please write your place of birth on the form* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

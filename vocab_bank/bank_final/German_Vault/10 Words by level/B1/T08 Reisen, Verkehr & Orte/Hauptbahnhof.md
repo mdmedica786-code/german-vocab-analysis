@@ -35,6 +35,9 @@ status: "new"
 > Treffen wir uns am Hauptbahnhof?
 > *Shall we meet at the central station?*
 
+**Phrases & Expressions:**
+- **Treffen wir uns am Hauptbahnhof** — *Shall we meet at the central station* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 12c (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

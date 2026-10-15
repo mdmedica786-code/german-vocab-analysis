@@ -36,6 +36,10 @@ status: "new"
 > Ein guter Schulabschluss ist sehr wichtig.
 > **
 
+**Phrases & Expressions:**
+- **Wie ist das Verfahren zur Anerkennung ausländischer Abschlüsse?** — What is the procedure for recognising foreign qualifications? *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Anfrage an Ärztekammer]] · B2)*
+- **Zum Abschluss möchte ich noch sagen, dass ...** — In closing I would like to say that ... *([[B2-08 Zusammenfassen, Fazit und Schlussfolgerung|Schluss einleiten]] · B2)*
+
 **Source:** Netzwerk neu A2 K2 9a (Nach der Schulzeit) · Goethe word list B1
 <!-- bank:end -->
 

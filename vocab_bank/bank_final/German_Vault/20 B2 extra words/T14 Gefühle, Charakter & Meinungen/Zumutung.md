@@ -33,6 +33,11 @@ status: "new"
 > Die lange Wartezeit war eine Zumutung.
 > *The long waiting time was an imposition.*
 
+**Phrases & Expressions:**
+- **eine Zumutung sein** — *imposition; outrage*
+- **das ist eine Zumutung** — *imposition; outrage*
+- **Zumutung für + Akk.** — *imposition; outrage*
+
 **Collocations**
 - eine Zumutung sein
 - das ist eine Zumutung

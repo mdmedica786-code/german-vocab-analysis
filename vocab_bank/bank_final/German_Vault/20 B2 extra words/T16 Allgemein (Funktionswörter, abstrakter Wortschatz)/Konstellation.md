@@ -33,6 +33,11 @@ status: "new"
 > Diese Konstellation ist sehr ungewöhnlich.
 > *This constellation is very unusual.*
 
+**Phrases & Expressions:**
+- **eine politische Konstellation** — *constellation; situation*
+- **in dieser Konstellation** — *constellation; situation*
+- **eine günstige Konstellation** — *constellation; situation*
+
 **Collocations**
 - eine politische Konstellation
 - in dieser Konstellation

@@ -33,6 +33,11 @@ status: "new"
 > Das Arbeitszeugnis ist wichtig für die nächste Bewerbung.
 > *The employment reference is important for the next application.*
 
+**Phrases & Expressions:**
+- **ein Arbeitszeugnis verlangen** — *employment reference*
+- **qualifiziertes Arbeitszeugnis** — *employment reference*
+- **gutes Arbeitszeugnis** — *employment reference*
+
 **Collocations**
 - ein Arbeitszeugnis verlangen
 - qualifiziertes Arbeitszeugnis

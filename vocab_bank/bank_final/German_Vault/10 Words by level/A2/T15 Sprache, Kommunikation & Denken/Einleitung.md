@@ -35,6 +35,9 @@ status: "new"
 > Schreiben Sie eine passende Einleitung und einen Schluss.
 > *Write a suitable introduction and conclusion.*
 
+**Phrases & Expressions:**
+- **Schreiben Sie eine passende Einleitung und einen Schluss** — *Write a suitable introduction and conclusion* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 10b (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

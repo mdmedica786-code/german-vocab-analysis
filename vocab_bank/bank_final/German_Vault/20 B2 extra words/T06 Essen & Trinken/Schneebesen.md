@@ -33,6 +33,11 @@ status: "new"
 > Schlagen Sie die Eier mit einem Schneebesen schaumig.
 > *Beat the eggs until frothy with a whisk.*
 
+**Phrases & Expressions:**
+- **mit dem Schneebesen rühren** — *whisk*
+- **einen Schneebesen benutzen** — *whisk*
+- **ein Schneebesen aus Edelstahl** — *whisk*
+
 **Collocations**
 - mit dem Schneebesen rühren
 - einen Schneebesen benutzen

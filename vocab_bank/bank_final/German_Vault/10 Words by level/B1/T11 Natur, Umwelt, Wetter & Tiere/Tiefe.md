@@ -34,6 +34,9 @@ status: "new"
 > Die Tiefe des Sees beträgt zehn Meter.
 > *The depth of the lake is ten metres.*
 
+**Phrases & Expressions:**
+- **Die Tiefe des Sees beträgt zehn Meter** — *The depth of the lake is ten metres* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9c (Blick nach vorn)
 <!-- bank:end -->
 

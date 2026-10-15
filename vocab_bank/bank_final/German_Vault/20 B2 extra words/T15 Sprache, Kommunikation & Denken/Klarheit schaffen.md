@@ -26,6 +26,10 @@ status: "new"
 > Ein Gespräch soll Klarheit schaffen.
 > *A conversation is meant to clear things up.*
 
+**Phrases & Expressions:**
+- **Klarheit gewinnen** — *to clear things up*
+- **für Klarheit sorgen** — *to clear things up*
+
 **Collocations**
 - Klarheit gewinnen
 - für Klarheit sorgen

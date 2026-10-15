@@ -33,6 +33,11 @@ status: "new"
 > Sie haben 14 Tage Zeit für den Widerruf des Vertrags.
 > *You have 14 days for the withdrawal from the contract.*
 
+**Phrases & Expressions:**
+- **Widerruf erklären** — *revocation; withdrawal (of a contract)*
+- **das Recht auf Widerruf** — *revocation; withdrawal (of a contract)*
+- **bis auf Widerruf** — *revocation; withdrawal (of a contract)*
+
 **Collocations**
 - Widerruf erklären
 - das Recht auf Widerruf

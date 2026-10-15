@@ -33,6 +33,11 @@ status: "new"
 > Der Einzug in die neue Wohnung ist im Mai.
 > *The move into the new flat is in May.*
 
+**Phrases & Expressions:**
+- **Einzug halten** — *moving in; entry; arrival*
+- **der Einzug ins Parlament** — *moving in; entry; arrival*
+- **beim Einzug** — *moving in; entry; arrival*
+
 **Collocations**
 - Einzug halten
 - der Einzug ins Parlament

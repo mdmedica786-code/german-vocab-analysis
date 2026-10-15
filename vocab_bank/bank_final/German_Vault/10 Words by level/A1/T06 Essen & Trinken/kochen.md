@@ -33,6 +33,9 @@ status: "new"
 > Herr Georgi kann gut kochen.
 > *Mr Georgi can cook well.*
 
+**Phrases & Expressions:**
+- **Während ich koche, hört mein Mann ...** — While I cook, my husband listens to ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Zeit: gleichzeitig]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 2a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

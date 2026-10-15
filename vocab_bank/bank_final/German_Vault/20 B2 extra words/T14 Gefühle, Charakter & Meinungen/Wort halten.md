@@ -26,6 +26,10 @@ status: "new"
 > Er hat Wort gehalten und das Geld zurückgezahlt.
 > *He kept his word and paid the money back.*
 
+**Phrases & Expressions:**
+- **sein Wort halten** — *to keep one's word*
+- **ein Versprechen einhalten** — *to keep one's word*
+
 **Collocations**
 - sein Wort halten
 - ein Versprechen einhalten

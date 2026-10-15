@@ -32,6 +32,9 @@ status: "new"
 > Der Preis versteht sich zuzüglich Versandkosten.
 > *The price is plus shipping costs.*
 
+**Phrases & Expressions:**
+- **Der Preis versteht sich zuzüglich Versandkosten** — *The price is plus shipping costs* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

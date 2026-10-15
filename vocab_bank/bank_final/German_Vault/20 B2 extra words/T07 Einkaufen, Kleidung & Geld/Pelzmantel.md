@@ -33,6 +33,11 @@ status: "new"
 > Viele Menschen lehnen Pelzmäntel aus ethischen Gründen ab.
 > *Many people reject fur coats for ethical reasons.*
 
+**Phrases & Expressions:**
+- **ein Pelzmantel aus Fuchs** — *fur coat*
+- **einen Pelzmantel tragen** — *fur coat*
+- **auf Pelzmäntel verzichten** — *fur coat*
+
 **Collocations**
 - ein Pelzmantel aus Fuchs
 - einen Pelzmantel tragen

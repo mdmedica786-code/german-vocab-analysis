@@ -33,6 +33,11 @@ status: "new"
 > Eine große Masse von Menschen versammelte sich auf dem Platz.
 > *A large crowd of people gathered on the square.*
 
+**Phrases & Expressions:**
+- **die breite Masse** — *mass; crowd; bulk*
+- **in Massen** — *mass; crowd; bulk*
+- **Masse und Gewicht** — *mass; crowd; bulk*
+
 **Collocations**
 - die breite Masse
 - in Massen

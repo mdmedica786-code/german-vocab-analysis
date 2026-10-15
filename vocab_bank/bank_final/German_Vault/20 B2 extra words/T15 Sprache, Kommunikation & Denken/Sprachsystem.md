@@ -33,6 +33,11 @@ status: "new"
 > Jedes Sprachsystem hat eigene Regeln.
 > *Every language system has its own rules.*
 
+**Phrases & Expressions:**
+- **ein Sprachsystem lernen** — *language system*
+- **das Sprachsystem verstehen** — *language system*
+- **das Sprachsystem des Deutschen** — *language system*
+
 **Collocations**
 - ein Sprachsystem lernen
 - das Sprachsystem verstehen

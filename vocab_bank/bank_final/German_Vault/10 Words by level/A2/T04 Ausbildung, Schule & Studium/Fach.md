@@ -37,6 +37,9 @@ status: "new"
 > Meine Tasche hat viele kleine Fächer.
 > *My bag has many small compartments.*
 
+**Phrases & Expressions:**
+- **Meine Tasche hat viele kleine Fächer** — *My bag has many small compartments* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 1a ÜB (Nach der Schulzeit) · Goethe word list A2
 <!-- bank:end -->
 

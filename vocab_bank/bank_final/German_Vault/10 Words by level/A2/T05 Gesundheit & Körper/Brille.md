@@ -34,6 +34,9 @@ status: "new"
 > Wo ist meine Brille?
 > *Where are my glasses?*
 
+**Phrases & Expressions:**
+- **Haben Sie ein Hörgerät oder eine Brille dabei?** — Do you have a hearing aid or glasses with you? *([[FSP-22 Kinder, Eltern und ältere Patienten|Hilfsmittel erfragen]] · B1)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

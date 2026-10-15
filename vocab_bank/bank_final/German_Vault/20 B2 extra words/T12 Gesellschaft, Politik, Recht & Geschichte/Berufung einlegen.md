@@ -26,6 +26,11 @@ status: "new"
 > Der Anwalt legte gegen das Urteil Berufung ein.
 > *The lawyer lodged an appeal against the verdict.*
 
+**Phrases & Expressions:**
+- **Berufung einlegen gegen + Akk.** — *to lodge an appeal*
+- **Widerspruch einlegen** — *to lodge an appeal*
+- **Revision einlegen** — *to lodge an appeal*
+
 **Collocations**
 - Berufung einlegen gegen + Akk.
 - Widerspruch einlegen

@@ -29,6 +29,11 @@ status: "new"
 > Er half uns bereitwillig beim Umzug.
 > *He willingly helped us with the move.*
 
+**Phrases & Expressions:**
+- **bereitwillig helfen** — *willing; readily*
+- **bereitwillig antworten** — *willing; readily*
+- **bereitwillig zustimmen** — *willing; readily*
+
 **Collocations**
 - bereitwillig helfen
 - bereitwillig antworten

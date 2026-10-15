@@ -33,6 +33,11 @@ status: "new"
 > Der Biologe untersucht die Wasserqualität im See.
 > *The biologist examines the water quality in the lake.*
 
+**Phrases & Expressions:**
+- **als Biologe arbeiten** — *biologist (male)*
+- **ein bekannter Biologe** — *biologist (male)*
+- **Biologe werden** — *biologist (male)*
+
 **Collocations**
 - als Biologe arbeiten
 - ein bekannter Biologe

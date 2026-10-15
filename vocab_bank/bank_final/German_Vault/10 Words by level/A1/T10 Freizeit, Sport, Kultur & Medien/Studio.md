@@ -35,6 +35,9 @@ status: "new"
 > Zu Gast im Studio sind heute ...
 > *Today's guests in the studio are ...*
 
+**Phrases & Expressions:**
+- **Zu Gast im Studio sind heute ** — *Today's guests in the studio are * *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 4a (Studium und Beruf) · Goethe word list B1
 <!-- bank:end -->
 

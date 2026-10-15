@@ -33,6 +33,11 @@ status: "new"
 > Der Vermieter hat wegen Eigenbedarfs gekündigt.
 > *The landlord gave notice because of personal need.*
 
+**Phrases & Expressions:**
+- **Eigenbedarf anmelden** — *own use (landlord's need to occupy)*
+- **Kündigung wegen Eigenbedarf** — *own use (landlord's need to occupy)*
+- **wegen Eigenbedarfs** — *own use (landlord's need to occupy)*
+
 **Collocations**
 - Eigenbedarf anmelden
 - Kündigung wegen Eigenbedarf

@@ -31,6 +31,11 @@ status: "new"
 > Das Gericht hat die Verhandlung vertagt.
 > *The court has adjourned the hearing.*
 
+**Phrases & Expressions:**
+- **eine Sitzung vertagen** — *to adjourn; to postpone*
+- **auf später vertagen** — *to adjourn; to postpone*
+- **die Entscheidung vertagen** — *to adjourn; to postpone*
+
 **Collocations**
 - eine Sitzung vertagen
 - auf später vertagen

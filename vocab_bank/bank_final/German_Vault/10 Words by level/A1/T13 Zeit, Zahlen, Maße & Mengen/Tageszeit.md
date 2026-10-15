@@ -34,6 +34,9 @@ status: "new"
 > Zu welcher Tageszeit trainierst du?
 > *At what time of day do you train?*
 
+**Phrases & Expressions:**
+- **Ist der Schmerz zu bestimmten Tageszeiten stärker?** — Is the pain stronger at certain times of day? *([[FSP-03 Schmerzanamnese|Tageszeit erfragen]] · B1)*
+
 **Source:** Netzwerk neu A1 K5 15b (Alltag und Familie)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Aktivierung des Kontos erfolgt per E-Mail.
 > *The activation of the account is done by email.*
 
+**Phrases & Expressions:**
+- **zur Aktivierung** — *activation*
+- **die Aktivierung des Kontos** — *activation*
+- **die Aktivierung der Karte** — *activation*
+
 **Collocations**
 - zur Aktivierung
 - die Aktivierung des Kontos

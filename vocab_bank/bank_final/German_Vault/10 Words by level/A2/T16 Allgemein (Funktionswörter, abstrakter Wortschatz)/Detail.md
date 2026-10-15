@@ -35,6 +35,9 @@ status: "new"
 > Dieses Detail ist unwichtig.
 > *This detail is unimportant.*
 
+**Phrases & Expressions:**
+- **Dieses Detail ist unwichtig** — *This detail is unimportant* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 8c (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

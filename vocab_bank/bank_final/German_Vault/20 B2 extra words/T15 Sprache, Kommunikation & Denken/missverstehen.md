@@ -31,6 +31,12 @@ status: "new"
 > Du hast mich völlig missverstanden.
 > *You have completely misunderstood me.*
 
+**Phrases & Expressions:**
+- **Wir holen einen Dolmetscher, damit nichts missverstanden wird.** — We'll get an interpreter so that nothing is misunderstood. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Sprachbarriere]] · B2)*
+- **jemanden missverstehen** — *to misunderstand*
+- **eine Aussage missverstehen** — *to misunderstand*
+- **leicht zu missverstehen** — *to misunderstand*
+
 **Collocations**
 - jemanden missverstehen
 - eine Aussage missverstehen

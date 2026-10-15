@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Minister hat seinen Rücktritt erklärt.
 > *The minister announced his resignation.*
+
+**Phrases & Expressions:**
+- **Der Minister hat seinen Rücktritt erklärt** — *The minister announced his resignation* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

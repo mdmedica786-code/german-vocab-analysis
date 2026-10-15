@@ -35,6 +35,14 @@ status: "new"
 > Gesunde Ernährung ist die Voraussetzung für ein langes Leben.
 > *Healthy eating is the prerequisite for a long life.*
 
+**Phrases & Expressions:**
+- **Voraussetzung für ...** — prerequisite for ... *([[Bedingung - Zweck (condition, purpose)|Bedingung / Zweck (condition, purpose)]] · B2)*
+- **unter der Voraussetzung, dass ...** — on condition that ... *([[Bedingung - Zweck (condition, purpose)|Bedingung / Zweck (condition, purpose)]] · C1)*
+- **Ich habe eine Frage zu den Voraussetzungen für ...** — I have a question about the requirements for ... *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Anfrage stellen]] · B2)*
+- **Unter der Voraussetzung, dass ...** — On condition that ... *([[B2-10 Bedingungen, Folgen und irreale Wünsche|Bedingung ausdrücken]] · B2)*
+- **Voraussetzung dafür ist, dass ...** — A prerequisite for this is that ... *([[B2-10 Bedingungen, Folgen und irreale Wünsche|Voraussetzung nennen]] · B2)*
+- **Voraussetzungen erfüllen** — *prerequisite, condition*
+
 **Collocations**
 - Voraussetzungen erfüllen
 - die Voraussetzung dafür ist

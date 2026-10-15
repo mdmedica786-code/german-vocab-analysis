@@ -33,6 +33,11 @@ status: "new"
 > Auf der Wiese blüht gelber Löwenzahn.
 > *Yellow dandelions are blooming on the meadow.*
 
+**Phrases & Expressions:**
+- **gelber Löwenzahn** — *dandelion*
+- **Löwenzahnsalat** — *dandelion*
+- **eine Wiese voller Löwenzahn** — *dandelion*
+
 **Collocations**
 - gelber Löwenzahn
 - Löwenzahnsalat

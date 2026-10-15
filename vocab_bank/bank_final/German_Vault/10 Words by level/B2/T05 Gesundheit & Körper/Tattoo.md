@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Er hat ein Tattoo am Arm.
 > *He has a tattoo on his arm.*
+
+**Phrases & Expressions:**
+- **Er hat ein Tattoo am Arm** — *He has a tattoo on his arm* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

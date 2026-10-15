@@ -34,6 +34,9 @@ status: "new"
 > Die Stadträtin spricht über den neuen Park.
 > *The city councillor speaks about the new park.*
 
+**Phrases & Expressions:**
+- **Die Stadträtin spricht über den neuen Park** — *The city councillor speaks about the new park* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 10 (Stadt, Land, Fluss)
 <!-- bank:end -->
 

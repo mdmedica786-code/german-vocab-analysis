@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Geschäftsführung entscheidet morgen.
 > *The management decides tomorrow.*
+
+**Phrases & Expressions:**
+- **Die Geschäftsführung entscheidet morgen** — *The management decides tomorrow* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

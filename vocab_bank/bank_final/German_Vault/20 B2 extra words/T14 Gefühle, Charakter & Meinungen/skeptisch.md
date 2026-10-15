@@ -29,6 +29,12 @@ status: "new"
 > Ich bin skeptisch, ob das Projekt klappt.
 > *I am sceptical whether the project will work.*
 
+**Phrases & Expressions:**
+- **Ich stehe der Idee eher skeptisch gegenüber.** — I am rather sceptical about the idea. *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Position beziehen]] · B2)*
+- **skeptisch sein** — *sceptical*
+- **skeptisch blicken** — *sceptical*
+- **skeptisch gegenüber** — *sceptical*
+
 **Collocations**
 - skeptisch sein
 - skeptisch blicken

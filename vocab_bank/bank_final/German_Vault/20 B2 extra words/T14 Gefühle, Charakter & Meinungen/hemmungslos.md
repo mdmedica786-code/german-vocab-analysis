@@ -29,6 +29,11 @@ status: "new"
 > Er schrie hemmungslos seine Wut heraus.
 > *He shouted out his rage without any restraint.*
 
+**Phrases & Expressions:**
+- **hemmungslos weinen** — *unrestrained; without inhibition*
+- **hemmungslos feiern** — *unrestrained; without inhibition*
+- **hemmungslos ausnutzen** — *unrestrained; without inhibition*
+
 **Collocations**
 - hemmungslos weinen
 - hemmungslos feiern

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Wartezeit beträgt etwa zehn Minuten.
 > *The waiting time is about ten minutes.*
+
+**Phrases & Expressions:**
+- **Die Wartezeit beträgt etwa zehn Minuten** — *The waiting time is about ten minutes* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

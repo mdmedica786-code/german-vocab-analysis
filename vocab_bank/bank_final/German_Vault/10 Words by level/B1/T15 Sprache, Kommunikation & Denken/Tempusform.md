@@ -34,6 +34,9 @@ status: "new"
 > Wie heißt die Tempusform von „ging“?
 > *What is the tense form of "ging"?*
 
+**Phrases & Expressions:**
+- **Wie heißt die Tempusform von „ging“** — *What is the tense form of "ging"* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 9b (Veränderungen)
 <!-- bank:end -->
 

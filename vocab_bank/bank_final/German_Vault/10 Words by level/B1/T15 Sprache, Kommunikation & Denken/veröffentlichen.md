@@ -31,6 +31,12 @@ status: "new"
 > Der Verlag veröffentlicht im Herbst ein neues Buch.
 > *The publisher is releasing a new book in autumn.*
 
+**Phrases & Expressions:**
+- **ein Buch veröffentlichen** — *to publish; to release*
+- **einen Artikel veröffentlichen** — *to publish; to release*
+- **Ergebnisse veröffentlichen** — *to publish; to release*
+- **ein Foto veröffentlichen** — *to publish; to release*
+
 **Collocations**
 - ein Buch veröffentlichen
 - einen Artikel veröffentlichen

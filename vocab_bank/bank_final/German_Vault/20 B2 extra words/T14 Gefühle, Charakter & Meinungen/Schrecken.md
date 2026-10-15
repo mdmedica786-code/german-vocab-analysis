@@ -33,6 +33,11 @@ status: "new"
 > Der Schrecken saß ihm noch in den Gliedern.
 > *The fright was still in his bones.*
 
+**Phrases & Expressions:**
+- **einen Schrecken bekommen** — *fright; terror*
+- **in Angst und Schrecken** — *fright; terror*
+- **mit dem Schrecken davonkommen** — *fright; terror*
+
 **Collocations**
 - einen Schrecken bekommen
 - in Angst und Schrecken

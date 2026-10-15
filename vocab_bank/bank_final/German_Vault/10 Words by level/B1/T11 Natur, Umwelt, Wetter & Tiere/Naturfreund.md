@@ -34,6 +34,9 @@ status: "new"
 > Als Naturfreund wandert er viel.
 > *As a nature lover he goes hiking a lot.*
 
+**Phrases & Expressions:**
+- **Als Naturfreund wandert er viel** — *As a nature lover he goes hiking a lot* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?)
 <!-- bank:end -->
 

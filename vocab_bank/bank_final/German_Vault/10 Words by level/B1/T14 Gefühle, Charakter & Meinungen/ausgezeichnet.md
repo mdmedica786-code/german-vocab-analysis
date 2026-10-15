@@ -31,6 +31,12 @@ status: "new"
 > Essen und Unterkunft waren ausgezeichnet.
 > *Food and accommodation were excellent.*
 
+**Phrases & Expressions:**
+- **eine ausgezeichnete Leistung** — *excellent*
+- **ausgezeichnet schmecken** — *excellent*
+- **ausgezeichnet Deutsch sprechen** — *excellent*
+- **ausgezeichnet sein** — *excellent*
+
 **Collocations**
 - eine ausgezeichnete Leistung
 - ausgezeichnet schmecken

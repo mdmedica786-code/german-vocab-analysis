@@ -33,6 +33,11 @@ status: "new"
 > Die Ware ist von bester Güte.
 > *The goods are of the best quality.*
 
+**Phrases & Expressions:**
+- **von bester Güte** — *kindness; quality*
+- **die Güte der Ware** — *kindness; quality*
+- **in aller Güte** — *kindness; quality*
+
 **Collocations**
 - von bester Güte
 - die Güte der Ware

@@ -33,6 +33,11 @@ status: "new"
 > Er hat ein Darlehen für den Hauskauf aufgenommen.
 > *He took out a loan for buying the house.*
 
+**Phrases & Expressions:**
+- **ein Darlehen aufnehmen** — *loan*
+- **ein Darlehen zurückzahlen** — *loan*
+- **ein zinsloses Darlehen** — *loan*
+
 **Collocations**
 - ein Darlehen aufnehmen
 - ein Darlehen zurückzahlen

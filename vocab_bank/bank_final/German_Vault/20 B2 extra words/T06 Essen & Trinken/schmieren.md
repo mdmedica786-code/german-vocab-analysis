@@ -31,6 +31,11 @@ status: "new"
 > Sie schmiert sich ein Brot mit Butter.
 > *She spreads butter on a slice of bread for herself.*
 
+**Phrases & Expressions:**
+- **ein Brot schmieren** — *to spread; to smear; to grease*
+- **Butter aufs Brot schmieren** — *to spread; to smear; to grease*
+- **ein Scharnier schmieren** — *to spread; to smear; to grease*
+
 **Collocations**
 - ein Brot schmieren
 - Butter aufs Brot schmieren

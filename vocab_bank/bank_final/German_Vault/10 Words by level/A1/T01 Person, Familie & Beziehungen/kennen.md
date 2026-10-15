@@ -34,6 +34,10 @@ status: "new"
 > Kennen Sie diese Frau? – Nein, leider nicht.
 > *Do you know this woman? – No, unfortunately not.*
 
+**Phrases & Expressions:**
+- **Ich kenne das Wort nicht. Was bedeutet ...?** — I don't know the word. What does ... mean? *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Wort erfragen]] · B1)*
+- **Kennen wir uns nicht von irgendwoher?** — Don't we know each other from somewhere? *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Gespräch beginnen]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 1c (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

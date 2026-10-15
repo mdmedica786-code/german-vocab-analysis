@@ -35,6 +35,9 @@ status: "new"
 > Mach bitte die Tür zu!
 > *Please close the door!*
 
+**Phrases & Expressions:**
+- **Mach bitte die Tür zu** — *Please close the door* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 4f ÜB (Meine Wohnung) · Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Steuerung der Anlage erfolgt per App.
 > *The system is controlled via an app.*
 
+**Phrases & Expressions:**
+- **die Steuerung übernehmen** — *control; steering; management*
+- **die automatische Steuerung** — *control; steering; management*
+- **Steuerung per App** — *control; steering; management*
+
 **Collocations**
 - die Steuerung übernehmen
 - die automatische Steuerung

@@ -31,6 +31,12 @@ status: "new"
 > Das ist meine Nummer im Büro und das ist meine private Handynummer.
 > *This is my number at the office and this is my private mobile number.*
 
+**Phrases & Expressions:**
+- **privat versichert** — *private*
+- **privater Besuch** — *private*
+- **private Daten** — *private*
+- **privat und beruflich** — *private*
+
 **Collocations**
 - privat versichert
 - privater Besuch

@@ -35,6 +35,9 @@ status: "new"
 > Bei diesem Regen gehe ich nicht raus.
 > *I'm not going out in this rain.*
 
+**Phrases & Expressions:**
+- **Bei diesem Regen gehe ich nicht raus** — *I'm not going out in this rain* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 6a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

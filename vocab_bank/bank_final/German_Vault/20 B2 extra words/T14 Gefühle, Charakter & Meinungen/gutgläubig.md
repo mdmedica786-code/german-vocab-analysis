@@ -29,6 +29,11 @@ status: "new"
 > Er ist zu gutgläubig und glaubt jede Geschichte.
 > *He is too gullible and believes every story.*
 
+**Phrases & Expressions:**
+- **gutgläubig sein** — *gullible; credulous*
+- **gutgläubig handeln** — *gullible; credulous*
+- **gutgläubige Menschen** — *gullible; credulous*
+
 **Collocations**
 - gutgläubig sein
 - gutgläubig handeln

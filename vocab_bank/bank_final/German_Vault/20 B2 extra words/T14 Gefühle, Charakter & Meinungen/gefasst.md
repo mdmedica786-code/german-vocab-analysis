@@ -29,6 +29,11 @@ status: "new"
 > Sie blieb nach der schlechten Nachricht erstaunlich gefasst.
 > *She remained astonishingly composed after the bad news.*
 
+**Phrases & Expressions:**
+- **gefasst bleiben** — *composed; calm*
+- **gefasst wirken** — *composed; calm*
+- **auf alles gefasst sein** — *composed; calm*
+
 **Collocations**
 - gefasst bleiben
 - gefasst wirken

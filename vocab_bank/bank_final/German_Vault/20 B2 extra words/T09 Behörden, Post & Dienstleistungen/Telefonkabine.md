@@ -33,6 +33,11 @@ status: "new"
 > Die alte Telefonkabine am Bahnhof wird kaum noch genutzt.
 > *The old phone box at the station is hardly used any more.*
 
+**Phrases & Expressions:**
+- **in der Telefonkabine** — *telephone box; phone booth*
+- **eine Telefonkabine benutzen** — *telephone box; phone booth*
+- **eine rote Telefonkabine** — *telephone box; phone booth*
+
 **Collocations**
 - in der Telefonkabine
 - eine Telefonkabine benutzen

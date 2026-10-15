@@ -33,6 +33,11 @@ status: "new"
 > Im Saal brach lautes Gelächter aus.
 > *Loud laughter broke out in the hall.*
 
+**Phrases & Expressions:**
+- **in Gelächter ausbrechen** — *laughter*
+- **schallendes Gelächter** — *laughter*
+- **Gelächter hören** — *laughter*
+
 **Collocations**
 - in Gelächter ausbrechen
 - schallendes Gelächter

@@ -35,6 +35,9 @@ status: "new"
 > Der Minister hielt bei der Versammlung eine Rede.
 > *The minister gave a speech at the assembly.*
 
+**Phrases & Expressions:**
+- **Der Minister hielt bei der Versammlung eine Rede** — *The minister gave a speech at the assembly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 1a ÜB (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Oberhalb des Dorfes liegt eine Burg.
 > *A castle lies above the village.*
+
+**Phrases & Expressions:**
+- **Oberhalb des Dorfes liegt eine Burg** — *A castle lies above the village* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

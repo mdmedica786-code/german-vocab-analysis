@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Krankheit schränkt die kognitiven Fähigkeiten ein.
 > *The disease limits cognitive abilities.*
+
+**Phrases & Expressions:**
+- **Die Krankheit schränkt die kognitiven Fähigkeiten ein** — *The disease limits cognitive abilities* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

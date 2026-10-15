@@ -29,6 +29,11 @@ status: "new"
 > Die Stille in der Stadt war ungewohnt.
 > *The quiet in the city was unusual.*
 
+**Phrases & Expressions:**
+- **ungewohnt sein** — *unusual; unaccustomed*
+- **eine ungewohnte Situation** — *unusual; unaccustomed*
+- **etwas ist mir ungewohnt** — *unusual; unaccustomed*
+
 **Collocations**
 - ungewohnt sein
 - eine ungewohnte Situation

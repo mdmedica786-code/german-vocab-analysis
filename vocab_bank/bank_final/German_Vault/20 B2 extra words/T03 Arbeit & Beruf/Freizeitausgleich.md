@@ -33,6 +33,11 @@ status: "new"
 > Für die Überstunden bekommt sie Freizeitausgleich.
 > *For the overtime she gets time off in lieu.*
 
+**Phrases & Expressions:**
+- **Freizeitausgleich nehmen** — *time off in lieu; compensatory time off*
+- **Freizeitausgleich erhalten** — *time off in lieu; compensatory time off*
+- **Überstunden durch Freizeitausgleich abgelten** — *time off in lieu; compensatory time off*
+
 **Collocations**
 - Freizeitausgleich nehmen
 - Freizeitausgleich erhalten

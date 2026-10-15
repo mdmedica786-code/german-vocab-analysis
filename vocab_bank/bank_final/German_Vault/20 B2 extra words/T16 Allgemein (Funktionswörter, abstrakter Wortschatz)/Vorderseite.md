@@ -33,6 +33,11 @@ status: "new"
 > Bitte schreiben Sie Ihren Namen auf die Vorderseite.
 > *Please write your name on the front.*
 
+**Phrases & Expressions:**
+- **die Vorderseite des Blattes** — *front; front side*
+- **auf der Vorderseite** — *front; front side*
+- **die Vorderseite der Karte** — *front; front side*
+
 **Collocations**
 - die Vorderseite des Blattes
 - auf der Vorderseite

@@ -35,6 +35,9 @@ status: "new"
 > Meine Tochter liebt es, im Fernsehen Serien zu schauen.
 > *My daughter loves watching series on TV.*
 
+**Phrases & Expressions:**
+- **Meine Tochter liebt es, im Fernsehen Serien zu schauen** — *My daughter loves watching series on TV* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 9a (Arbeitsalltag) · Goethe word list B1
 <!-- bank:end -->
 

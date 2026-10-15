@@ -35,6 +35,9 @@ status: "new"
 > Was für ein Gewitter, hast du den Blitz gesehen?
 > *What a thunderstorm, did you see the lightning?*
 
+**Phrases & Expressions:**
+- **Was für ein Gewitter, hast du den Blitz gesehen** — *What a thunderstorm, did you see the lightning* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 11a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

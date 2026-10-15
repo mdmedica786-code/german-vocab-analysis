@@ -32,6 +32,9 @@ status: "new"
 > Unsere Firma produziert für den weltweiten Markt.
 > *Our company produces for the worldwide market.*
 
+**Phrases & Expressions:**
+- **Unsere Firma produziert für den weltweiten Markt** — *Our company produces for the worldwide market* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 10a (Große und kleine Gefühle) · Goethe word list B1
 <!-- bank:end -->
 

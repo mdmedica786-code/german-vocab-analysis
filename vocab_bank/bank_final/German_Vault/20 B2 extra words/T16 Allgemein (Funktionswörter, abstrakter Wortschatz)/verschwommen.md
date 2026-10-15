@@ -29,6 +29,11 @@ status: "new"
 > Ohne Brille sehe ich alles verschwommen.
 > *Without glasses I see everything blurry.*
 
+**Phrases & Expressions:**
+- **verschwommen sehen** — *blurry; vague*
+- **verschwommene Erinnerungen** — *blurry; vague*
+- **ein verschwommenes Bild** — *blurry; vague*
+
 **Collocations**
 - verschwommen sehen
 - verschwommene Erinnerungen

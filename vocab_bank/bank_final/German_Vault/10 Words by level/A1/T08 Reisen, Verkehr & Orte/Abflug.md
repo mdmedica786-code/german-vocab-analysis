@@ -35,6 +35,9 @@ status: "new"
 > Der Abflug ist um 11.20 Uhr.
 > *The departure is at 11:20.*
 
+**Phrases & Expressions:**
+- **Der Abflug ist um 11.20 Uhr** — *The departure is at 11:20* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Mein Kumpel hilft mir beim Umzug.
 > *My mate is helping me with the move.*
 
+**Phrases & Expressions:**
+- **ein guter Kumpel** — *mate; buddy (colloquial)*
+- **mit Kumpels** — *mate; buddy (colloquial)*
+- **ein alter Kumpel** — *mate; buddy (colloquial)*
+
 **Collocations**
 - ein guter Kumpel
 - mit Kumpels

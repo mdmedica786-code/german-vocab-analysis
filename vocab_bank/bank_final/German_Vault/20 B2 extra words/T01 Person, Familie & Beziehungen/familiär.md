@@ -29,6 +29,11 @@ status: "new"
 > Aus familiären Gründen kann ich nicht kommen.
 > *I cannot come for family reasons.*
 
+**Phrases & Expressions:**
+- **aus familiären Gründen** — *family-related; familial; familiar*
+- **familiäre Probleme** — *family-related; familial; familiar*
+- **eine familiäre Atmosphäre** — *family-related; familial; familiar*
+
 **Collocations**
 - aus familiären Gründen
 - familiäre Probleme

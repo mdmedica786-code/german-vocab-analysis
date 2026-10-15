@@ -36,6 +36,9 @@ status: "new"
 > Gehen wir morgen zusammen in die Ausstellung?
 > **
 
+**Phrases & Expressions:**
+- **Gehen wir morgen zusammen in die Ausstellung** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1d (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

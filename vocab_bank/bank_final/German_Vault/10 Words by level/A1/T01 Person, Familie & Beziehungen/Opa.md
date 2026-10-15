@@ -35,6 +35,9 @@ status: "new"
 > Mein Opa heißt Hans.
 > *My grandpa is called Hans.*
 
+**Phrases & Expressions:**
+- **Mein Opa heißt Hans** — *My grandpa is called Hans* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 8a ÜB (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

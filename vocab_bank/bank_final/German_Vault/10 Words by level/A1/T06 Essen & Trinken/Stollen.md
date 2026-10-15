@@ -34,6 +34,9 @@ status: "new"
 > Zu Weihnachten backen wir einen Stollen.
 > *At Christmas we bake a stollen.*
 
+**Phrases & Expressions:**
+- **Zu Weihnachten backen wir einen Stollen** — *At Christmas we bake a stollen* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 13a (Studium und Beruf)
 <!-- bank:end -->
 

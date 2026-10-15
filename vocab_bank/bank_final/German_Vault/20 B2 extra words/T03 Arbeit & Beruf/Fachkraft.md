@@ -33,6 +33,11 @@ status: "new"
 > Die Firma sucht dringend qualifizierte Fachkräfte.
 > *The company urgently seeks qualified skilled workers.*
 
+**Phrases & Expressions:**
+- **qualifizierte Fachkraft** — *skilled worker; specialist*
+- **Fachkräfte suchen** — *skilled worker; specialist*
+- **ausländische Fachkräfte** — *skilled worker; specialist*
+
 **Collocations**
 - qualifizierte Fachkraft
 - Fachkräfte suchen

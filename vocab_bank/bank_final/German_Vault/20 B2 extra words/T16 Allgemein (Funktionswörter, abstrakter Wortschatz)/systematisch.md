@@ -29,6 +29,11 @@ status: "new"
 > Die Polizei suchte systematisch nach Spuren.
 > *The police searched systematically for traces.*
 
+**Phrases & Expressions:**
+- **systematisch vorgehen** — *systematic*
+- **systematisch untersuchen** — *systematic*
+- **ein systematischer Fehler** — *systematic*
+
 **Collocations**
 - systematisch vorgehen
 - systematisch untersuchen

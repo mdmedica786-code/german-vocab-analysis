@@ -34,6 +34,9 @@ status: "new"
 > Die Jahresmiete beträgt zwölftausend Euro.
 > *The annual rent is twelve thousand euros.*
 
+**Phrases & Expressions:**
+- **Die Jahresmiete beträgt zwölftausend Euro** — *The annual rent is twelve thousand euros* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

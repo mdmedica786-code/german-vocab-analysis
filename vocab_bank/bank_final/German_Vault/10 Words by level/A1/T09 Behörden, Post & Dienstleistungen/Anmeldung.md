@@ -36,6 +36,11 @@ status: "new"
 > Die Anmeldung zum Marathon ist bis Freitag möglich.
 > *Registration for the marathon is possible until Friday.*
 
+**Phrases & Expressions:**
+- **die Anmeldung zum Marathon** — *registration; sign-up; application*
+- **die Anmeldung ausfüllen** — *registration; sign-up; application*
+- **sich zur Anmeldung melden** — *registration; sign-up; application*
+
 **Collocations**
 - die Anmeldung zum Marathon
 - die Anmeldung ausfüllen

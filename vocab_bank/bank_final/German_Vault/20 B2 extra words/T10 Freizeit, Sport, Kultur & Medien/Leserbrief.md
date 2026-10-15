@@ -33,6 +33,11 @@ status: "new"
 > Auf den Artikel folgten viele Leserbriefe.
 > *Many letters to the editor followed the article.*
 
+**Phrases & Expressions:**
+- **einen Leserbrief schreiben** — *letter to the editor*
+- **Leserbrief an die Zeitung** — *letter to the editor*
+- **Leserbriefe veröffentlichen** — *letter to the editor*
+
 **Collocations**
 - einen Leserbrief schreiben
 - Leserbrief an die Zeitung

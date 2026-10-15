@@ -35,6 +35,9 @@ status: "new"
 > Haben Sie Ihre e-card dabei?
 > *Do you have your e-card with you?*
 
+**Phrases & Expressions:**
+- **Haben Sie Ihre e-card dabei** — *Do you have your e-card with you* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

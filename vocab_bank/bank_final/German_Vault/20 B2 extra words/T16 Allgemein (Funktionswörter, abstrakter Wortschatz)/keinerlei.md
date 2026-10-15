@@ -29,6 +29,11 @@ status: "new"
 > Es gab keinerlei Probleme bei der Anmeldung.
 > *There were no problems whatsoever with the registration.*
 
+**Phrases & Expressions:**
+- **keinerlei Zweifel** — *no ... whatsoever*
+- **keinerlei Erfahrung** — *no ... whatsoever*
+- **keinerlei Grund** — *no ... whatsoever*
+
 **Collocations**
 - keinerlei Zweifel
 - keinerlei Erfahrung

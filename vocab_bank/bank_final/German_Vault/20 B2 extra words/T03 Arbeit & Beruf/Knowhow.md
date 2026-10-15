@@ -30,6 +30,11 @@ status: "new"
 > Für dieses Projekt brauchen wir technisches Knowhow.
 > *For this project we need technical know-how.*
 
+**Phrases & Expressions:**
+- **technisches Knowhow** — *know-how; expertise*
+- **Knowhow weitergeben** — *know-how; expertise*
+- **das nötige Knowhow haben** — *know-how; expertise*
+
 **Collocations**
 - technisches Knowhow
 - Knowhow weitergeben

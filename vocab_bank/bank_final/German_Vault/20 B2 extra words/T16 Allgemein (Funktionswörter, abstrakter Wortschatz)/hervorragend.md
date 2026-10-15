@@ -29,6 +29,11 @@ status: "new"
 > Sie hat die Prüfung hervorragend bestanden.
 > *She passed the exam excellently.*
 
+**Phrases & Expressions:**
+- **hervorragende Leistung** — *excellent; outstanding*
+- **hervorragend geeignet** — *excellent; outstanding*
+- **ein hervorragender Koch** — *excellent; outstanding*
+
 **Collocations**
 - hervorragende Leistung
 - hervorragend geeignet

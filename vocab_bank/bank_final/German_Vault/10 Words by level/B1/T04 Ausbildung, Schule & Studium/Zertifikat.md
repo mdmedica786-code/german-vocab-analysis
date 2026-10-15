@@ -34,6 +34,9 @@ status: "new"
 > Wenn ich die Prüfung schaffe, bekomme ich ein Zertifikat.
 > *If I pass the exam, I get a certificate.*
 
+**Phrases & Expressions:**
+- **Wenn ich die Prüfung schaffe, bekomme ich ein Zertifikat** — *If I pass the exam, I get a certificate* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

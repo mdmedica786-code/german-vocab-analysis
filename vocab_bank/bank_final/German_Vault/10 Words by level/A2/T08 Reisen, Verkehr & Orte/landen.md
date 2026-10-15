@@ -33,6 +33,9 @@ status: "new"
 > Es landen viel zu viele Kaffeebecher im Abfall.
 > *Way too many coffee cups land in the bin.*
 
+**Phrases & Expressions:**
+- **Es landen viel zu viele Kaffeebecher im Abfall** — *Way too many coffee cups land in the bin* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

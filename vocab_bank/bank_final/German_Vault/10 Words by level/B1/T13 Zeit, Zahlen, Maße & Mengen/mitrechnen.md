@@ -33,6 +33,9 @@ status: "new"
 > Rechnest du die Getränke mit?
 > *Are you including the drinks in the calculation?*
 
+**Phrases & Expressions:**
+- **Rechnest du die Getränke mit** — *Are you including the drinks in the calculation* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 1a (Umweltfreundlich?)
 <!-- bank:end -->
 

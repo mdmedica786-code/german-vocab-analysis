@@ -29,6 +29,14 @@ status: "new"
 > Daraus kann man viel lernen.
 > *You can learn a lot from that.*
 
+**Phrases & Expressions:**
+- **Daraus lässt sich schließen, dass ...** — From this one can conclude that ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Schlussfolgerung ziehen]] · B2)*
+- **Daraus ergibt sich, dass ...** — From this it follows that ... *([[B2-08 Zusammenfassen, Fazit und Schlussfolgerung|Schlussfolgerung ziehen]] · B2)*
+- **Wir sollten den Vorfall im Team besprechen, um daraus zu lernen.** — We should discuss the incident in the team in order to learn from it. *([[FSP-19 Übergabe, Konsil und Rücksprache|Fehler ansprechen]] · C1)*
+- **daraus folgen** — *out of it; from that*
+- **daraus lernen** — *out of it; from that*
+- **daraus entstehen** — *out of it; from that*
+
 **Collocations**
 - daraus folgen
 - daraus lernen

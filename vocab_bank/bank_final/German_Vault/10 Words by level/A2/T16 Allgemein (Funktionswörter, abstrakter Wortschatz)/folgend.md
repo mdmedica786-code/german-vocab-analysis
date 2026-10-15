@@ -31,6 +31,14 @@ status: "new"
 > Mehr Informationen auf den folgenden Seiten.
 > *More information on the following pages.*
 
+**Phrases & Expressions:**
+- **im Folgenden** — below; in the following *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **Ich schlage Ihnen folgende Behandlung vor.** — I propose the following treatment to you. *([[FSP-11 Therapie und Medikamente erklären|Therapieplan erklären]] · B2)*
+- **Folgende Medikamente nehmen Sie weiterhin ein: ...** — You continue to take the following medicines: ... *([[FSP-17 Entlassung, Überweisung und Nachsorge|Entlassmedikation]] · B1)*
+- **Folgende Aufgaben sind noch ausstehend: ...** — The following tasks are still pending: ... *([[FSP-19 Übergabe, Konsil und Rücksprache|Schichtübergabe]] · C1)*
+- **Wir bitten um Beachtung folgender Hinweise: ...** — We ask you to note the following: ... *([[FSP-20 Arztbrief und Dokumentation|Pflegerische Hinweise]] · C1)*
+- **die folgenden Seiten** — *following*
+
 **Collocations**
 - im Folgenden
 - die folgenden Seiten

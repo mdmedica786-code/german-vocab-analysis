@@ -29,6 +29,11 @@ status: "new"
 > Ich denke, also bin ich, ergo existiere ich.
 > *I think, therefore I am; hence I exist.*
 
+**Phrases & Expressions:**
+- **ergo müssen wir** — *therefore; hence*
+- **ergo folgt** — *therefore; hence*
+- **also ergo** — *therefore; hence*
+
 **Collocations**
 - ergo müssen wir
 - ergo folgt

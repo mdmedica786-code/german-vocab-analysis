@@ -32,6 +32,9 @@ status: "new"
 > Die Polizei hat 23 Menschen verhaftet.
 > *The police arrested 23 people.*
 
+**Phrases & Expressions:**
+- **Die Polizei hat 23 Menschen verhaftet** — *The police arrested 23 people* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

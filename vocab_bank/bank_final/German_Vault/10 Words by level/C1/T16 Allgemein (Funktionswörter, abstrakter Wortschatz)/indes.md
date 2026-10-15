@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Er wartete; indes wurde es dunkel.
 > *He waited; meanwhile it grew dark.*
+
+**Phrases & Expressions:**
+- **Er wartete; indes wurde es dunkel** — *He waited; meanwhile it grew dark* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

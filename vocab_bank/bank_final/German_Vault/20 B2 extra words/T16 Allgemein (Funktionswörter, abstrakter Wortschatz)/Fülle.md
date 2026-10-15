@@ -33,6 +33,11 @@ status: "new"
 > Die Fülle an Angeboten ist riesig.
 > *The abundance of offers is huge.*
 
+**Phrases & Expressions:**
+- **eine Fülle von** — *abundance; fullness*
+- **in Hülle und Fülle** — *abundance; fullness*
+- **die Fülle des Lebens** — *abundance; fullness*
+
 **Collocations**
 - eine Fülle von
 - in Hülle und Fülle

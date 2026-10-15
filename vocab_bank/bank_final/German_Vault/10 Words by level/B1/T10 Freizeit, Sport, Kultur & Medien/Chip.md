@@ -35,6 +35,9 @@ status: "new"
 > Der Chip ist in der Karte eingebaut.
 > *The chip is built into the card.*
 
+**Phrases & Expressions:**
+- **Der Chip ist in der Karte eingebaut** — *The chip is built into the card* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 1a (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

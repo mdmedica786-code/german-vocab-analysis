@@ -31,6 +31,10 @@ status: "new"
 > Wir erwägen, das Haus zu verkaufen.
 > *We are considering selling the house.*
 
+**Phrases & Expressions:**
+- **etwas ernsthaft erwägen** — *to consider; to contemplate*
+- **einen Wechsel erwägen** — *to consider; to contemplate*
+
 **Collocations**
 - etwas ernsthaft erwägen
 - einen Wechsel erwägen

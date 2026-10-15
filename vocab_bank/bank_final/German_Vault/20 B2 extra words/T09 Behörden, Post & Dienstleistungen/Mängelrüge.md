@@ -33,6 +33,11 @@ status: "new"
 > Die Mängelrüge muss schriftlich beim Verkäufer eingehen.
 > *The notice of defect must reach the seller in writing.*
 
+**Phrases & Expressions:**
+- **eine Mängelrüge erheben** — *notice of defect; complaint about defects*
+- **Mängelrüge einreichen** — *notice of defect; complaint about defects*
+- **Mängelrüge schicken** — *notice of defect; complaint about defects*
+
 **Collocations**
 - eine Mängelrüge erheben
 - Mängelrüge einreichen

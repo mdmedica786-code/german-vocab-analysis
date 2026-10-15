@@ -31,6 +31,9 @@ status: "new"
 > Er hat mich vorgestern angerufen.
 > *He called me the day before yesterday.*
 
+**Phrases & Expressions:**
+- **Er hat mich vorgestern angerufen** — *He called me the day before yesterday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 4b (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Ich prüfe jeden Monat meinen Kontoauszug.
 > *I check my bank statement every month.*
 
+**Phrases & Expressions:**
+- **Ich prüfe jeden Monat meinen Kontoauszug** — *I check my bank statement every month* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3a (Geld regiert die Welt?)
 <!-- bank:end -->
 

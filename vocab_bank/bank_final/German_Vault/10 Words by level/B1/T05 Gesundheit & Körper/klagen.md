@@ -33,6 +33,9 @@ status: "new"
 > Sie klagt über Kopfschmerzen.
 > *She complains of headaches.*
 
+**Phrases & Expressions:**
+- **Der Patient klagte über ...** — The patient complained of ... *([[FSP-20 Arztbrief und Dokumentation|Präteritum im Arztbrief]] · B2)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

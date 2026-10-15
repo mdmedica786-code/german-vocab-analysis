@@ -29,6 +29,11 @@ status: "new"
 > Das Geräusch war kaum wahrnehmbar.
 > *The noise was barely perceptible.*
 
+**Phrases & Expressions:**
+- **kaum wahrnehmbar** — *perceptible; noticeable*
+- **deutlich wahrnehmbar** — *perceptible; noticeable*
+- **für das Auge wahrnehmbar** — *perceptible; noticeable*
+
 **Collocations**
 - kaum wahrnehmbar
 - deutlich wahrnehmbar

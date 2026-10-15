@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Standort der Klinik ist günstig.
 > *The location of the clinic is convenient.*
+
+**Phrases & Expressions:**
+- **Der Standort der Klinik ist günstig** — *The location of the clinic is convenient* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

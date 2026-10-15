@@ -33,6 +33,11 @@ status: "new"
 > Nach der Kündigung beantragte er Arbeitslosengeld.
 > *After his dismissal he applied for unemployment benefit.*
 
+**Phrases & Expressions:**
+- **Arbeitslosengeld beantragen** — *unemployment benefit*
+- **Arbeitslosengeld beziehen** — *unemployment benefit*
+- **Anspruch auf Arbeitslosengeld** — *unemployment benefit*
+
 **Collocations**
 - Arbeitslosengeld beantragen
 - Arbeitslosengeld beziehen

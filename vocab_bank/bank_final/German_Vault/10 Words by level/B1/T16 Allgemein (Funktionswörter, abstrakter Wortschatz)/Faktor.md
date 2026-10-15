@@ -35,6 +35,9 @@ status: "new"
 > Die Creme hat einen hohen Sonnenschutzfaktor.
 > *The cream has a high sun protection factor.*
 
+**Phrases & Expressions:**
+- **Die Creme hat einen hohen Sonnenschutzfaktor** — *The cream has a high sun protection factor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

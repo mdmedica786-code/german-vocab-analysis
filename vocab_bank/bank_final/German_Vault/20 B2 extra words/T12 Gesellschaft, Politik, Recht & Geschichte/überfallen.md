@@ -31,6 +31,11 @@ status: "new"
 > Zwei Männer überfielen die Bank.
 > *Two men robbed the bank.*
 
+**Phrases & Expressions:**
+- **eine Bank überfallen** — *to attack; to rob; to ambush*
+- **jemanden überfallen** — *to attack; to rob; to ambush*
+- **überfallen werden** — *to attack; to rob; to ambush*
+
 **Collocations**
 - eine Bank überfallen
 - jemanden überfallen

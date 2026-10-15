@@ -31,6 +31,9 @@ status: "new"
 > Mein Bruder ist ein großer Designfan.
 > *My brother is a big design fan.*
 
+**Phrases & Expressions:**
+- **Mein Bruder ist ein großer Designfan** — *My brother is a big design fan* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

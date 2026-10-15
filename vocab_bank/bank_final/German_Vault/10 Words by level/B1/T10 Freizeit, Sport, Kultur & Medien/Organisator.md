@@ -34,6 +34,9 @@ status: "new"
 > Der Organisator begrüßt die Gäste.
 > *The organiser welcomes the guests.*
 
+**Phrases & Expressions:**
+- **Der Organisator begrüßt die Gäste** — *The organiser welcomes the guests* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7c (Miteinander)
 <!-- bank:end -->
 

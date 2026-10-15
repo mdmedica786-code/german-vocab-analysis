@@ -35,6 +35,9 @@ status: "new"
 > Sie lesen Kommentare zu einem Artikel.
 > *You are reading comments on an article.*
 
+**Phrases & Expressions:**
+- **Sie lesen Kommentare zu einem Artikel** — *You are reading comments on an article* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3b (Freunde, Kollegen und ich) · Goethe word list B1
 <!-- bank:end -->
 

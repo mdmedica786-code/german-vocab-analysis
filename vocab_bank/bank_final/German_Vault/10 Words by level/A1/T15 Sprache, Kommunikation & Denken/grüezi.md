@@ -36,6 +36,9 @@ status: "new"
 > Grüezi, wie geht es Ihnen?
 > *Hello, how are you?*
 
+**Phrases & Expressions:**
+- **Grüezi, wie geht es Ihnen** — *Hello, how are you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 2a (In Hamburg)
 <!-- bank:end -->
 

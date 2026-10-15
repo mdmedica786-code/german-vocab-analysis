@@ -35,6 +35,12 @@ status: "new"
 > Mara ruft in der Praxis von Dr. Steinig an.
 > *Mara is calling Dr Steinig's surgery.*
 
+**Phrases & Expressions:**
+- **in die Praxis gehen** — *surgery; (doctor's) practice*
+- **eine Praxis eröffnen** — *surgery; (doctor's) practice*
+- **Praxis für Allgemeinmedizin** — *surgery; (doctor's) practice*
+- **die Praxis ist geöffnet** — *surgery; (doctor's) practice*
+
 **Collocations**
 - in die Praxis gehen
 - eine Praxis eröffnen

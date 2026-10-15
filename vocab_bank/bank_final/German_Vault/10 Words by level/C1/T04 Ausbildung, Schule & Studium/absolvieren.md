@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Sie absolviert ein Praktikum in einer Klinik.
 > *She is completing an internship at a clinic.*
+
+**Phrases & Expressions:**
+- **Sie absolviert ein Praktikum in einer Klinik** — *She is completing an internship at a clinic* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

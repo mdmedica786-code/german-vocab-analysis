@@ -32,6 +32,11 @@ status: "new"
 > Außer Lisa möchte niemand den Film sehen.
 > *Except for Lisa, nobody wants to see the film.*
 
+**Phrases & Expressions:**
+- **außer Haus** — out (of the house) *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **außer Acht lassen** — to disregard *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B1)*
+- **Für mich steht außer Frage, dass ...** — For me there is no question that ... *([[B1-01 Meinung äußern|Überzeugung ausdrücken]] · B1)*
+
 **Source:** Netzwerk neu A2 K9 5a (Sportlich, sportlich) · Goethe word list A2
 <!-- bank:end -->
 

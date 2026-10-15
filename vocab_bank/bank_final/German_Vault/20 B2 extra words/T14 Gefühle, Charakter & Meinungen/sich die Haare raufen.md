@@ -26,6 +26,10 @@ status: "new"
 > Die Eltern rauften sich die Haare, weil das Kind nicht hörte.
 > *The parents tore their hair out because the child would not listen.*
 
+**Phrases & Expressions:**
+- **zum Haareraufen** — *to tear one's hair out*
+- **verzweifeln** — *to tear one's hair out*
+
 **Collocations**
 - zum Haareraufen
 - verzweifeln

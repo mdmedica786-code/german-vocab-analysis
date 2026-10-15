@@ -34,6 +34,9 @@ status: "new"
 > „Um acht Uhr“ ist eine Zeitangabe.
 > *“At eight o'clock” is a time expression.*
 
+**Phrases & Expressions:**
+- **„Um acht Uhr“ ist eine Zeitangabe** — *“At eight o'clock” is a time expression* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 15b (Alltag und Familie)
 <!-- bank:end -->
 

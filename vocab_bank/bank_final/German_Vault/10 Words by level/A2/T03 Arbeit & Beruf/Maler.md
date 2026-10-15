@@ -35,6 +35,9 @@ status: "new"
 > Der Maler streicht die Wände in unserer Wohnung neu.
 > *The painter is repainting the walls in our flat.*
 
+**Phrases & Expressions:**
+- **Der Maler streicht die Wände in unserer Wohnung neu** — *The painter is repainting the walls in our flat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8b (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

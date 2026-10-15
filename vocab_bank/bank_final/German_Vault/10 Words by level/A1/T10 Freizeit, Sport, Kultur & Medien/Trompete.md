@@ -34,6 +34,9 @@ status: "new"
 > Er spielt seit Jahren Trompete.
 > *He has been playing the trumpet for years.*
 
+**Phrases & Expressions:**
+- **Er spielt seit Jahren Trompete** — *He has been playing the trumpet for years* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 7a (Alltag und Familie)
 <!-- bank:end -->
 

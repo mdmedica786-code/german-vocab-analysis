@@ -31,6 +31,13 @@ status: "new"
 > Bitte kommen Sie mindestens zwei Stunden vor Ihrem Flug zum Flughafen.
 > *Please arrive at the airport at least two hours before your flight.*
 
+**Phrases & Expressions:**
+- **Trinken Sie täglich mindestens zwei Liter Wasser.** — Drink at least two litres of water daily. *([[FSP-11 Therapie und Medikamente erklären|Selbstmanagement]] · B1)*
+- **mindestens zwei** — *at least*
+- **mindestens ein Jahr** — *at least*
+- **mindestens haltbar bis** — *at least*
+- **mindestens so viel** — *at least*
+
 **Collocations**
 - mindestens zwei
 - mindestens ein Jahr

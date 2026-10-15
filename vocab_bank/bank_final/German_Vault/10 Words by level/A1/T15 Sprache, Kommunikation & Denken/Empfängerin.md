@@ -34,6 +34,9 @@ status: "new"
 > Die Empfängerin unterschreibt den Brief.
 > *The recipient signs the letter.*
 
+**Phrases & Expressions:**
+- **Die Empfängerin unterschreibt den Brief** — *The recipient signs the letter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 8a (Arbeitsalltag)
 <!-- bank:end -->
 

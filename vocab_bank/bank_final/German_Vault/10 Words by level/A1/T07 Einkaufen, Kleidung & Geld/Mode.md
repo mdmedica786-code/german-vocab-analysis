@@ -35,6 +35,11 @@ status: "new"
 > Diese Schuhe sind aus der Mode gekommen.
 > *These shoes have gone out of fashion.*
 
+**Phrases & Expressions:**
+- **aus der Mode kommen** — *fashion*
+- **in Mode sein** — *fashion*
+- **nach der neuesten Mode** — *fashion*
+
 **Collocations**
 - aus der Mode kommen
 - in Mode sein

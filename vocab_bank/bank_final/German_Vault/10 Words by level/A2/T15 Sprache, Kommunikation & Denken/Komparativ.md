@@ -34,6 +34,9 @@ status: "new"
 > Der Komparativ von „gut“ ist „besser“.
 > *The comparative of "gut" is "besser".*
 
+**Phrases & Expressions:**
+- **Der Komparativ von „gut“ ist „besser“** — *The comparative of "gut" is "besser"* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 3 (Immer online?)
 <!-- bank:end -->
 

@@ -33,6 +33,9 @@ status: "new"
 > Ich muss noch Geld holen.
 > *I still need to get money.*
 
+**Phrases & Expressions:**
+- **Wir holen einen Dolmetscher, damit nichts missverstanden wird.** — We'll get an interpreter so that nothing is misunderstood. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Sprachbarriere]] · B2)*
+
 **Source:** Netzwerk neu A1 K7 5a ÜB (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

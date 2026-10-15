@@ -34,6 +34,9 @@ status: "new"
 > Nächste Woche habe ich eine Geschäftsreise nach Wien.
 > *Next week I have a business trip to Vienna.*
 
+**Phrases & Expressions:**
+- **Nächste Woche habe ich eine Geschäftsreise nach Wien** — *Next week I have a business trip to Vienna* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 3a (Arbeitswelten)
 <!-- bank:end -->
 

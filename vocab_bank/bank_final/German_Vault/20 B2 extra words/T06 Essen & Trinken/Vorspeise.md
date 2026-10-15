@@ -33,6 +33,11 @@ status: "new"
 > Als Vorspeise nehme ich eine Tomatensuppe.
 > *As a starter I'll have a tomato soup.*
 
+**Phrases & Expressions:**
+- **als Vorspeise** — *starter; appetiser*
+- **eine Vorspeise bestellen** — *starter; appetiser*
+- **Vorspeise und Hauptgericht** — *starter; appetiser*
+
 **Collocations**
 - als Vorspeise
 - eine Vorspeise bestellen

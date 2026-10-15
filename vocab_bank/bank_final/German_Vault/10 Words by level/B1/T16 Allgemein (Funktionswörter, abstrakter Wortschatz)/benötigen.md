@@ -33,6 +33,13 @@ status: "new"
 > Sagen Sie Bescheid, wenn Sie noch etwas benötigen.
 > *Let me know if you need anything else.*
 
+**Phrases & Expressions:**
+- **Könnten Sie mir bitte mitteilen, welche Unterlagen ich benötige?** — Could you please tell me which documents I need? *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Anfrage an Behörde]] · B2)*
+- **Hilfe benötigen** — *to need*
+- **Unterlagen benötigen** — *to need*
+- **dringend benötigen** — *to need*
+- **Zeit benötigen** — *to need*
+
 **Collocations**
 - Hilfe benötigen
 - Unterlagen benötigen

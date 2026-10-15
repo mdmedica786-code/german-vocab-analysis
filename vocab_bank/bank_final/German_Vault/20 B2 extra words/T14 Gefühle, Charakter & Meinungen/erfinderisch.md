@@ -29,6 +29,11 @@ status: "new"
 > Wer wenig Geld hat, wird oft sehr erfinderisch.
 > *People with little money often become very resourceful.*
 
+**Phrases & Expressions:**
+- **erfinderisch sein** — *inventive; resourceful*
+- **ein erfinderischer Kopf** — *inventive; resourceful*
+- **erfinderisch vorgehen** — *inventive; resourceful*
+
 **Collocations**
 - erfinderisch sein
 - ein erfinderischer Kopf

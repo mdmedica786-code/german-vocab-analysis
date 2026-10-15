@@ -33,6 +33,11 @@ status: "new"
 > Die Textverweise helfen, andere Stellen im Buch zu finden.
 > *The cross-references help to find other passages in the book.*
 
+**Phrases & Expressions:**
+- **ein Textverweis** — *cross-reference (in a text)*
+- **Textverweise nutzen** — *cross-reference (in a text)*
+- **einen Textverweis einfügen** — *cross-reference (in a text)*
+
 **Collocations**
 - ein Textverweis
 - Textverweise nutzen

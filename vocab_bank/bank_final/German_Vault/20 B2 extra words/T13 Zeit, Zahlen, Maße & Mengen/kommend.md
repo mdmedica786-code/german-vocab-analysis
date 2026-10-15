@@ -29,6 +29,11 @@ status: "new"
 > In der kommenden Woche ist ein Feiertag.
 > *Next week there is a public holiday.*
 
+**Phrases & Expressions:**
+- **die kommende Woche** — *coming; next*
+- **kommende Generationen** — *coming; next*
+- **im kommenden Jahr** — *coming; next*
+
 **Collocations**
 - die kommende Woche
 - kommende Generationen

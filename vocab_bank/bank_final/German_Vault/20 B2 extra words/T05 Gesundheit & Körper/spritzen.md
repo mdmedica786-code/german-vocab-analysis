@@ -31,6 +31,11 @@ status: "new"
 > Das Wasser spritzte mir ins Gesicht.
 > *The water splashed into my face.*
 
+**Phrases & Expressions:**
+- **Wasser spritzen** — *to spray; to splash; to inject*
+- **mit Wasser spritzen** — *to spray; to splash; to inject*
+- **eine Spritze geben** — *to spray; to splash; to inject*
+
 **Collocations**
 - Wasser spritzen
 - mit Wasser spritzen

@@ -31,6 +31,14 @@ status: "new"
 > Geh immer geradeaus.
 > *Keep on walking straight forward.*
 
+**Phrases & Expressions:**
+- **immer wieder** — again and again *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **immer und immer wieder** — again and again *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **immer noch** — still *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **noch immer** — still *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **immer noch nicht** — still not *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+- **immer wenn ...** — whenever ... *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+
 **Source:** Netzwerk neu A1 K2 8b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

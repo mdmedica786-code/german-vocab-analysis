@@ -33,6 +33,11 @@ status: "new"
 > Bitte lesen Sie den Arbeitsvertrag genau durch, bevor Sie unterschreiben.
 > *Please read the employment contract carefully before you sign.*
 
+**Phrases & Expressions:**
+- **einen Arbeitsvertrag unterschreiben** — *employment contract*
+- **befristeter Arbeitsvertrag** — *employment contract*
+- **einen Arbeitsvertrag abschließen** — *employment contract*
+
 **Collocations**
 - einen Arbeitsvertrag unterschreiben
 - befristeter Arbeitsvertrag

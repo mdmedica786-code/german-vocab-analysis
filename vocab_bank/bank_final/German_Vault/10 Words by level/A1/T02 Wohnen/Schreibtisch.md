@@ -34,6 +34,9 @@ status: "new"
 > Auf dem Schreibtisch liegen viele Papiere.
 > *There are many papers on the desk.*
 
+**Phrases & Expressions:**
+- **Auf dem Schreibtisch liegen viele Papiere** — *There are many papers on the desk* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung)
 <!-- bank:end -->
 

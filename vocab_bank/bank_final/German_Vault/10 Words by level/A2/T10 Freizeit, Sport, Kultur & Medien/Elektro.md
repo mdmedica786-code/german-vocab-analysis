@@ -28,6 +28,9 @@ status: "new"
 > Auf dem Festival spielen sie Elektro.
 > *At the festival they play electro.*
 
+**Phrases & Expressions:**
+- **Auf dem Festival spielen sie Elektro** — *At the festival they play electro* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a (Gute Unterhaltung!)
 <!-- bank:end -->
 

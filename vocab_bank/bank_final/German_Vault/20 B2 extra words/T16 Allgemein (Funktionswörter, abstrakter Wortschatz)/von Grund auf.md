@@ -26,6 +26,10 @@ status: "new"
 > Die Firma wurde von Grund auf neu organisiert.
 > *The company was reorganised from the ground up.*
 
+**Phrases & Expressions:**
+- **von Grund auf neu** — *from the ground up; fundamentally*
+- **grundlegend verändern** — *from the ground up; fundamentally*
+
 **Collocations**
 - von Grund auf neu
 - grundlegend verändern

@@ -34,6 +34,9 @@ status: "new"
 > An einem schönen Sommertag gehen wir baden.
 > *On a lovely summer's day we go swimming.*
 
+**Phrases & Expressions:**
+- **An einem schönen Sommertag gehen wir baden** — *On a lovely summer's day we go swimming* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

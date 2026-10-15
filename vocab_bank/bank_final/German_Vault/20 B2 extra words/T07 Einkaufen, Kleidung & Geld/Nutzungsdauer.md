@@ -33,6 +33,11 @@ status: "new"
 > Die Nutzungsdauer des Geräts beträgt etwa zehn Jahre.
 > *The useful life of the device is about ten years.*
 
+**Phrases & Expressions:**
+- **die Nutzungsdauer verlängern** — *period of use; useful life*
+- **eine lange Nutzungsdauer** — *period of use; useful life*
+- **die Nutzungsdauer begrenzen** — *period of use; useful life*
+
 **Collocations**
 - die Nutzungsdauer verlängern
 - eine lange Nutzungsdauer

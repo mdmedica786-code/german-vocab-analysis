@@ -29,6 +29,11 @@ status: "new"
 > Bitte fahr den Computer runter, bevor du gehst.
 > *Please shut the computer down before you go.*
 
+**Phrases & Expressions:**
+- **den Computer runterfahren** — *to shut down; to power down; to scale down (colloquial)*
+- **das System runterfahren** — *to shut down; to power down; to scale down (colloquial)*
+- **die Produktion runterfahren** — *to shut down; to power down; to scale down (colloquial)*
+
 **Collocations**
 - den Computer runterfahren
 - das System runterfahren

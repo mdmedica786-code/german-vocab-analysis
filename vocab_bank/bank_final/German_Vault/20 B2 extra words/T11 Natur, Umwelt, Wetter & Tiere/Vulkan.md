@@ -33,6 +33,11 @@ status: "new"
 > Der Vulkan ist vor kurzem wieder ausgebrochen.
 > *The volcano has erupted again recently.*
 
+**Phrases & Expressions:**
+- **ein Vulkan bricht aus** — *volcano*
+- **aktiver Vulkan** — *volcano*
+- **am Fuß des Vulkans** — *volcano*
+
 **Collocations**
 - ein Vulkan bricht aus
 - aktiver Vulkan

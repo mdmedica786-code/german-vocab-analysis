@@ -34,6 +34,9 @@ status: "new"
 > Die Seglerin hat die Regatta gewonnen.
 > *The sailor won the regatta.*
 
+**Phrases & Expressions:**
+- **Die Seglerin hat die Regatta gewonnen** — *The sailor won the regatta* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 10a (Große und kleine Gefühle)
 <!-- bank:end -->
 

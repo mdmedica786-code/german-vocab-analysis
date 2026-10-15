@@ -32,6 +32,11 @@ status: "new"
 > Plötzlich tauchten neue Probleme auf.
 > *Suddenly new problems appeared.*
 
+**Phrases & Expressions:**
+- **plötzlich auftauchen** — *to appear; to surface*
+- **Probleme tauchen auf** — *to appear; to surface*
+- **aus dem Wasser auftauchen** — *to appear; to surface*
+
 **Collocations**
 - plötzlich auftauchen
 - Probleme tauchen auf

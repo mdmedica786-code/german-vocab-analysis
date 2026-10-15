@@ -30,6 +30,11 @@ status: "new"
 > Als Wahlfach habe ich Spanisch gewählt.
 > *I chose Spanish as my elective subject.*
 
+**Phrases & Expressions:**
+- **ein Wahlfach belegen** — *elective subject*
+- **Pflicht- und Wahlfächer** — *elective subject*
+- **ein Wahlfach wählen** — *elective subject*
+
 **Collocations**
 - ein Wahlfach belegen
 - Pflicht- und Wahlfächer

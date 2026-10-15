@@ -34,6 +34,9 @@ status: "new"
 > Er hat den Marathon in drei Stunden geschafft.
 > *He finished the marathon in three hours.*
 
+**Phrases & Expressions:**
+- **Er hat den Marathon in drei Stunden geschafft** — *He finished the marathon in three hours* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden)
 <!-- bank:end -->
 

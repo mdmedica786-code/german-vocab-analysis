@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Hund springt über den Zaun.
 > *The dog jumps over the fence.*
+
+**Phrases & Expressions:**
+- **Der Hund springt über den Zaun** — *The dog jumps over the fence* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

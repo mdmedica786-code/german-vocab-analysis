@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Dachboden stehen alte Möbel und Kisten.
 > *There is old furniture and there are boxes in the attic.*
 
+**Phrases & Expressions:**
+- **auf dem Dachboden** — *attic; loft*
+- **den Dachboden ausbauen** — *attic; loft*
+- **Dachboden aufräumen** — *attic; loft*
+
 **Collocations**
 - auf dem Dachboden
 - den Dachboden ausbauen

@@ -33,6 +33,11 @@ status: "new"
 > Der Antragsteller muss alle Unterlagen persönlich einreichen.
 > *The applicant must submit all documents in person.*
 
+**Phrases & Expressions:**
+- **der Antragsteller muss nachweisen** — *applicant*
+- **Antragsteller informieren** — *applicant*
+- **Name des Antragstellers** — *applicant*
+
 **Collocations**
 - der Antragsteller muss nachweisen
 - Antragsteller informieren

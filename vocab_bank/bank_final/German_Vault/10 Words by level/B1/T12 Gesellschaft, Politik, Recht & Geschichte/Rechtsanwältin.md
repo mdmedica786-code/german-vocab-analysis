@@ -34,6 +34,9 @@ status: "new"
 > Die Rechtsanwältin vertritt mich vor Gericht.
 > *The lawyer represents me in court.*
 
+**Phrases & Expressions:**
+- **Die Rechtsanwältin vertritt mich vor Gericht** — *The lawyer represents me in court* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

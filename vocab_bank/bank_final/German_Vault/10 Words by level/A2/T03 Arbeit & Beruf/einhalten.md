@@ -33,6 +33,9 @@ status: "new"
 > Bitte halten Sie den Termin ein.
 > *Please keep to the appointment.*
 
+**Phrases & Expressions:**
+- **Wie lange hält der Schmerz an?** — How long does the pain last? *([[FSP-03 Schmerzanamnese|Dauer und Rhythmus]] · A2)*
+
 **Source:** Netzwerk neu A2 K6 2a (Arbeitswelten)
 <!-- bank:end -->
 

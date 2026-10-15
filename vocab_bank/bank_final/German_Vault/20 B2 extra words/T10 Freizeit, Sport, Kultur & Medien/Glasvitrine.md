@@ -33,6 +33,11 @@ status: "new"
 > Die alte Uhr liegt in einer Glasvitrine.
 > *The old watch lies in a glass display case.*
 
+**Phrases & Expressions:**
+- **in einer Glasvitrine** — *glass display case*
+- **eine Glasvitrine öffnen** — *glass display case*
+- **eine Glasvitrine aufstellen** — *glass display case*
+
 **Collocations**
 - in einer Glasvitrine
 - eine Glasvitrine öffnen

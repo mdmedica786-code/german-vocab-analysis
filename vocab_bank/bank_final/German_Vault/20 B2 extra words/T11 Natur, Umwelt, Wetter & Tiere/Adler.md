@@ -33,6 +33,11 @@ status: "new"
 > Der Adler kreiste hoch über dem Tal.
 > *The eagle circled high above the valley.*
 
+**Phrases & Expressions:**
+- **ein Adler kreist** — *eagle*
+- **der Adler als Wappentier** — *eagle*
+- **Adler und Falke** — *eagle*
+
 **Collocations**
 - ein Adler kreist
 - der Adler als Wappentier

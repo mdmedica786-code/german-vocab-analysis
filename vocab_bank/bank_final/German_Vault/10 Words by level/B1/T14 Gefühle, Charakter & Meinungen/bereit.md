@@ -30,6 +30,13 @@ status: "new"
 > Ich bin jederzeit bereit, dir zu helfen.
 > *I am ready to help you at any time.*
 
+**Phrases & Expressions:**
+- **Bereiten Sie bitte Adrenalin vor.** — Please prepare adrenaline. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Anweisung geben]] · B2)*
+- **bereit sein** — *ready; prepared; willing*
+- **sich bereit erklären** — *ready; prepared; willing*
+- **bereit halten** — *ready; prepared; willing*
+- **zu allem bereit** — *ready; prepared; willing*
+
 **Collocations**
 - bereit sein
 - sich bereit erklären

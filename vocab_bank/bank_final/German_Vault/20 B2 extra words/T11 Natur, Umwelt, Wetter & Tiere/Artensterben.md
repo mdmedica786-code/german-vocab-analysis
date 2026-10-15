@@ -33,6 +33,11 @@ status: "new"
 > Das Artensterben nimmt weltweit zu.
 > *Species extinction is increasing worldwide.*
 
+**Phrases & Expressions:**
+- **das Artensterben stoppen** — *species extinction*
+- **das Artensterben beschleunigen** — *species extinction*
+- **massives Artensterben** — *species extinction*
+
 **Collocations**
 - das Artensterben stoppen
 - das Artensterben beschleunigen

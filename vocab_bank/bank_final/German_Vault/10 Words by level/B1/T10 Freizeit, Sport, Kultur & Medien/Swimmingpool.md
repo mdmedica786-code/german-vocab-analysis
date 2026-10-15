@@ -34,6 +34,9 @@ status: "new"
 > Das Hotel hat einen großen Swimmingpool.
 > *The hotel has a large swimming pool.*
 
+**Phrases & Expressions:**
+- **Das Hotel hat einen großen Swimmingpool** — *The hotel has a large swimming pool* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

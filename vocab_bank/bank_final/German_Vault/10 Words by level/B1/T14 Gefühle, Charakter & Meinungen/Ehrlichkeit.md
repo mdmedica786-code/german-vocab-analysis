@@ -34,6 +34,9 @@ status: "new"
 > Ehrlichkeit ist mir sehr wichtig.
 > *Honesty is very important to me.*
 
+**Phrases & Expressions:**
+- **Ehrlichkeit ist mir sehr wichtig** — *Honesty is very important to me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1a (Miteinander)
 <!-- bank:end -->
 

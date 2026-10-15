@@ -33,6 +33,11 @@ status: "new"
 > Aus Kulanz tauschte der Händler das Gerät kostenlos um.
 > *As a gesture of goodwill the dealer exchanged the device free of charge.*
 
+**Phrases & Expressions:**
+- **aus Kulanz** — *goodwill (accommodating treatment)*
+- **auf Kulanz** — *goodwill (accommodating treatment)*
+- **Kulanz zeigen** — *goodwill (accommodating treatment)*
+
 **Collocations**
 - aus Kulanz
 - auf Kulanz

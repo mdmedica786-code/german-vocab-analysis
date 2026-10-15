@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Leiche wurde in die Pathologie gebracht.
 > *The body was taken to the pathology department.*
+
+**Phrases & Expressions:**
+- **Die Leiche wurde in die Pathologie gebracht** — *The body was taken to the pathology department* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

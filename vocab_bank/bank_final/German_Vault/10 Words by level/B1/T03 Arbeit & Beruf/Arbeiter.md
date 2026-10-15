@@ -35,6 +35,9 @@ status: "new"
 > Der Arbeiter repariert die Maschine.
 > *The worker repairs the machine.*
 
+**Phrases & Expressions:**
+- **Der Arbeiter repariert die Maschine** — *The worker repairs the machine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 1a (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

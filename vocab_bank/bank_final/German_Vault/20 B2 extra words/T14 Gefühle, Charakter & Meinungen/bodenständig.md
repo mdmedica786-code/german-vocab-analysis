@@ -29,6 +29,11 @@ status: "new"
 > Er ist trotz seines Reichtums bodenständig geblieben.
 > *He has remained down-to-earth despite his wealth.*
 
+**Phrases & Expressions:**
+- **ein bodenständiger Mensch** — *down-to-earth; grounded*
+- **bodenständige Küche** — *down-to-earth; grounded*
+- **bodenständig bleiben** — *down-to-earth; grounded*
+
 **Collocations**
 - ein bodenständiger Mensch
 - bodenständige Küche

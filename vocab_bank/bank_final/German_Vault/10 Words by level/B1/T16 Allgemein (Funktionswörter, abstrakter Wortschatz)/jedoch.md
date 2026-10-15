@@ -32,6 +32,12 @@ status: "new"
 > Sie ruft immer wieder an, jedoch ohne Erfolg.
 > *She keeps calling, but without success.*
 
+**Phrases & Expressions:**
+- **Das Angebot ist gut, jedoch ist es zu teuer.** — The offer is good, however it is too expensive. *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Gegensatz]] · B1)*
+- **jedoch ohne Erfolg** — *however*
+- **jedoch nicht** — *however*
+- **jedoch nur dann, wenn ...** — *however*
+
 **Collocations**
 - jedoch ohne Erfolg
 - jedoch nicht

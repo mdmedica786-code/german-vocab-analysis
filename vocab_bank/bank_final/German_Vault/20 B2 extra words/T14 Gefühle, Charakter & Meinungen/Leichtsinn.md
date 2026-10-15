@@ -33,6 +33,11 @@ status: "new"
 > Es war purer Leichtsinn, ohne Helm zu fahren.
 > *It was sheer recklessness to ride without a helmet.*
 
+**Phrases & Expressions:**
+- **aus Leichtsinn** — *recklessness; carelessness*
+- **purer Leichtsinn** — *recklessness; carelessness*
+- **Leichtsinn rächt sich** — *recklessness; carelessness*
+
 **Collocations**
 - aus Leichtsinn
 - purer Leichtsinn

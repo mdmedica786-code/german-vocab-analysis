@@ -33,6 +33,9 @@ status: "new"
 > Ich kenne mich in dieser Stadt gut aus.
 > *I know my way around this city well.*
 
+**Phrases & Expressions:**
+- **Ich kenne mich in dieser Stadt gut aus** — *I know my way around this city well* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 6c (Zusammen leben)
 <!-- bank:end -->
 

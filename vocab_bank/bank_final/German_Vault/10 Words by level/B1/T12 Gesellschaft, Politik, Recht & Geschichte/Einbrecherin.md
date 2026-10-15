@@ -34,6 +34,9 @@ status: "new"
 > Die Einbrecherin wurde von der Polizei gefasst.
 > *The burglar was caught by the police.*
 
+**Phrases & Expressions:**
+- **Die Einbrecherin wurde von der Polizei gefasst** — *The burglar was caught by the police* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

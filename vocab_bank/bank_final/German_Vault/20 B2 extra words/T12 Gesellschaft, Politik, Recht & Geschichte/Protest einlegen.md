@@ -26,6 +26,10 @@ status: "new"
 > Die Anwohner legten Protest gegen den Neubau ein.
 > *The residents lodged a protest against the new building.*
 
+**Phrases & Expressions:**
+- **Protest einlegen gegen + Akk.** — *to lodge a protest*
+- **Berufung einlegen** — *to lodge a protest*
+
 **Collocations**
 - Protest einlegen gegen + Akk.
 - Berufung einlegen

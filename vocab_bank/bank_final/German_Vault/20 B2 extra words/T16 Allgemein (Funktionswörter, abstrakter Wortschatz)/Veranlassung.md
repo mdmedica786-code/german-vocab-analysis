@@ -33,6 +33,11 @@ status: "new"
 > Es besteht keine Veranlassung zur Sorge.
 > *There is no reason for concern.*
 
+**Phrases & Expressions:**
+- **keine Veranlassung haben** — *reason; cause; initiative*
+- **auf Veranlassung von** — *reason; cause; initiative*
+- **Veranlassung geben** — *reason; cause; initiative*
+
 **Collocations**
 - keine Veranlassung haben
 - auf Veranlassung von

@@ -32,6 +32,11 @@ status: "new"
 > Einbrecher sind in das Haus eingedrungen.
 > *Burglars broke into the house.*
 
+**Phrases & Expressions:**
+- **in etwas eindringen** — *to penetrate; to break in*
+- **in ein System eindringen** — *to penetrate; to break in*
+- **Wasser dringt ein** — *to penetrate; to break in*
+
 **Collocations**
 - in etwas eindringen
 - in ein System eindringen

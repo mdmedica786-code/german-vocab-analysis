@@ -33,6 +33,11 @@ status: "new"
 > Nachts hörte man plötzlich einen Schuss.
 > *At night a shot was suddenly heard.*
 
+**Phrases & Expressions:**
+- **einen Schuss abgeben** — *shot; dash (of liquid)*
+- **ein Schuss Milch** — *shot; dash (of liquid)*
+- **in Schuss halten** — *shot; dash (of liquid)*
+
 **Collocations**
 - einen Schuss abgeben
 - ein Schuss Milch

@@ -13,100 +13,124 @@ tags: ["phrase", "moc"]
 ## A1
 
 - **auf Deutsch** — in German
+  - Words: [[deutsch (adjective)]] · [[Deutsch]]
   - Können Sie das bitte auf Deutsch sagen? *(Can you say that in German, please?)*
   - Variants: in deutscher Sprache | deutsch
   - Exam: Wortliste A2 (exam vocabulary)
 - **auf Wiederhören** — goodbye (on the phone)
+  - Words: [[Wiederhören]]
   - Danke für den Anruf, auf Wiederhören! *(Thanks for calling, goodbye!)*
   - Grammar: nur am Telefon/Radio
   - Variants: tschüs | bis bald
 - **auf Wiedersehen** — goodbye
+  - Words: [[Wiedersehen]] · [[wiedersehen (verb)]]
   - Auf Wiedersehen, bis nächste Woche! *(Goodbye, until next week!)*
   - Grammar: Verabschiedung, formell
   - Variants: tschüs | bis bald
 - **bis bald** — see you soon
+  - Words: [[bald]] · [[bis]]
   - Bis bald, ich freue mich auf dich! *(See you soon, I'm looking forward to seeing you!)*
   - Grammar: Verabschiedung
   - Variants: bis demnächst | bis gleich
 - **bis dann** — until then
+  - Words: [[dann]] · [[bis]]
   - Wir sehen uns morgen. Bis dann! *(We'll see each other tomorrow. See you then!)*
   - Variants: bis später | bis bald
 - **bis später** — see you later
+  - Words: [[spät]] · [[später]] · [[bis]]
   - Bis später, ich komme gegen acht. *(See you later, I'll come at about eight.)*
   - Variants: bis nachher | bis gleich
 - **danke schön** — thank you very much
+  - Words: [[danke]] · [[schön]] · [[danken]]
   - Danke schön für die Einladung! *(Thank you very much for the invitation!)*
   - Variants: vielen Dank | herzlichen Dank
 - **grüß Gott** — hello (southern German/Austrian)
+  - Words: [[Gott]]
   - Grüß Gott, Frau Huber! *(Hello, Mrs Huber!)*
   - Grammar: süddeutsch und österreichisch
   - Variants: Servus | Hallo
 - **gute Besserung** — get well soon
+  - Words: [[gut (adjective)]] · [[Besserung]]
   - Gute Besserung! Bleib im Bett und ruh dich aus. *(Get well soon! Stay in bed and rest.)*
   - Grammar: Wunsch an Kranke
   - Variants: werde schnell gesund | alles Gute
 - **gute Nacht** — good night
+  - Words: [[gut (adjective)]] · [[Nacht]]
   - Gute Nacht, schlaf gut! *(Good night, sleep well!)*
   - Grammar: Verabschiedung am späten Abend
   - Variants: schlaf gut | träum was Schönes
 - **guten Abend** — good evening
+  - Words: [[gut (adjective)]] · [[Abend]]
   - Guten Abend, was darf es sein? *(Good evening, what can I get you?)*
   - Grammar: Begrüßung am Abend
   - Variants: Hallo | Abend
 - **guten Appetit** — enjoy your meal
+  - Words: [[gut (adjective)]] · [[Appetit]]
   - Guten Appetit, lasst es euch schmecken! *(Enjoy your meal, dig in!)*
   - Grammar: vor dem Essen
   - Variants: Mahlzeit | lasst es euch schmecken
 - **guten Morgen** — good morning
+  - Words: [[gut (adjective)]] · [[morgen (adverb)]] · [[Morgen]]
   - Guten Morgen, haben Sie gut geschlafen? *(Good morning, did you sleep well?)*
   - Grammar: Begrüßung am Morgen
   - Variants: Morgen | Moin
 - **guten Tag** — hello; good day
+  - Words: [[gut (adjective)]] · [[Tag]]
   - Guten Tag, ich habe einen Termin. *(Hello, I have an appointment.)*
   - Grammar: Begrüßung, formell
   - Variants: Hallo | Grüß Gott
 - **mein Name ist ...** — my name is ...
+  - Words: [[Name]] · [[mein]]
   - Guten Tag, mein Name ist Meier. *(Hello, my name is Meier.)*
   - Variants: ich heiße ... | ich bin ...
   - Exam: allgemein für Sprechen und Schreiben (A2/B1)
 - **Rad fahren** — to cycle
+  - Words: [[fahren]] · [[Rad]]
   - Das Kind kann schon Rad fahren. *(The child can already ride a bike.)*
   - Grammar: Perfekt: ist Rad gefahren
   - Variants: radfahren | mit dem Fahrrad fahren
   - Exam: Wortliste A1 (exam vocabulary)
 - **wir sehen uns** — see you
+  - Words: [[sehen]]
   - Wir sehen uns morgen in der Klinik. *(We'll see each other tomorrow at the clinic.)*
   - Grammar: Verabschiedung
   - Variants: bis bald | bis später
   - Exam: allgemein für Sprechen und Schreiben (A2/B1)
 - **zum Wohl** — cheers
+  - Words: [[wohl]] · [[wohlfühlen]]
   - Zum Wohl, auf deine Gesundheit! *(Cheers, to your health!)*
   - Grammar: beim Anstoßen
   - Variants: Prost | auf dein Wohl
 ## A2
 
 - **Acht geben** — to be careful
+  - Words: [[acht]] · [[geben]]
   - Gib Acht auf die Stufe! *(Watch out for the step!)*
   - Grammar: Acht geben auf + Akk.
   - Variants: aufpassen | achtgeben
 - **alles Gute** — all the best
+  - Words: [[gut (adjective)]] · [[alles]]
   - Alles Gute zum Geburtstag! *(All the best for your birthday!)*
   - Variants: viel Glück | herzlichen Glückwunsch
 - **tausend Dank** — a thousand thanks
+  - Words: [[Dank]] · [[dank (preposition)]] · [[tausend]]
   - Tausend Dank für deine Hilfe! *(A thousand thanks for your help!)*
   - Grammar: umgangssprachlich: starke Dankbarkeit
   - Variants: vielen Dank | herzlichen Dank
 - **verboten sein** — to be forbidden
+  - Words: [[verboten]] · [[Verbot]] · [[verbieten]]
   - Hier ist Rauchen verboten. *(Smoking is forbidden here.)*
   - Grammar: Zustand: ist verboten; Gegenteil: erlaubt sein
   - Variants: untersagt sein | nicht erlaubt sein
   - Exam: Wortliste A2 (exam vocabulary)
 - **was für ein ...** — what kind of a...
+  - Words: [[was]]
   - Was für eine Farbe möchten Sie? *(What colour would you like?)*
   - Grammar: Fall nach dem Verb: was für einen/eine/ein
   - Variants: welche
   - Exam: Wortliste A1 (exam vocabulary) · B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **was ist denn los?** — what on earth is the matter?
+  - Words: [[los]] · [[denn]] · [[los sein]] · [[losgehen]] · [[losfahren]] · [[was]] · [[loslassen]] · [[lose]]
   - Warum weinst du? Was ist denn los? *(Why are you crying? What on earth is the matter?)*
   - Grammar: denn = Interesse/Überraschung
   - Variants: was ist passiert? | was hast du denn?
@@ -114,41 +138,51 @@ tags: ["phrase", "moc"]
 ## B1
 
 - **aus den Augen verlieren** — to lose touch
+  - Words: [[verlieren]] · [[Auge]]
   - Meine Freunde aus der Kindheit habe ich leider aus den Augen verloren. *(Sadly I've lost touch with my childhood friends.)*
   - Grammar: aus den Augen verlieren + Akk.
   - Variants: den Kontakt verlieren | aus dem Blick verlieren
 - **außer Acht lassen** — to disregard
+  - Words: [[lassen]] · [[acht]] · [[außer]] · [[sich etwas gefallen lassen]] · [[sich scheiden lassen]]
   - Man darf diese Regel nicht außer Acht lassen. *(You must not disregard this rule.)*
   - Grammar: lassen + Akk.
   - Variants: nicht beachten | übersehen
 - **beim Alten bleiben** — to stay the same
+  - Words: [[alt]] · [[bleiben]] · [[Alte]]
   - Früher dachte ich, dass immer alles beim Alten bleibt. *(I used to think that everything always stays the same.)*
   - Grammar: beim Alten bleiben = unverändert
   - Variants: sich nichts ändern | alles beim Alten lassen
 - **eine Entscheidung treffen** — to make a decision
+  - Words: [[treffen (verb)]] · [[Entscheidung]] · [[Treffen]]
   - Ich muss bald eine Entscheidung treffen. *(I must make a decision soon.)*
   - Grammar: treffen + Akk.: eine Entscheidung treffen
   - Variants: entscheiden | sich entscheiden
 - **einfach so** — just like that
+  - Words: [[einfach]]
   - Er hat einfach so die Tür zugemacht. *(He just closed the door, just like that.)*
   - Grammar: umgangssprachlich
   - Variants: ohne Grund | grundlos
 - **Heavy Metal** — heavy metal (music)
+  - Words: [[Metal]]
   - Mein Bruder hört gern Heavy Metal. *(My brother likes listening to heavy metal.)*
   - Grammar: Anglizismus: Musikrichtung, kein Phraseologismus
 - **ins Stocken kommen** — to falter
+  - Words: [[kommen]] · [[stocken]]
   - Das Gespräch kam ins Stocken. *(The conversation faltered.)*
   - Grammar: Perfekt: ist ins Stocken gekommen
   - Variants: stocken | stillstehen
 - **Tee ziehen lassen** — to let tea steep
+  - Words: [[lassen]] · [[Tee]] · [[ziehen]] · [[sich etwas gefallen lassen]] · [[sich scheiden lassen]]
   - Diesen Tee sollte man 10 Minuten ziehen lassen. *(You should let this tea steep for ten minutes.)*
   - Grammar: lassen + Infinitiv
   - Variants: Tee durchziehen lassen
   - Exam: Wortliste B1 (exam vocabulary)
 - **von Hand** — by hand
+  - Words: [[Hand]]
   - Das Hemd muss man von Hand waschen. *(The shirt has to be washed by hand.)*
   - Variants: manuell | mit der Hand
 - **zu tun haben** — to have to do with
+  - Words: [[tun]]
   - Was haben diese Ideen mit der Umwelt zu tun? *(What do these ideas have to do with the environment?)*
   - Grammar: zu tun haben mit + Dat.
   - Variants: zusammenhängen mit | betreffen
@@ -157,11 +191,13 @@ tags: ["phrase", "moc"]
 - **Confoederatio Helvetica** — Switzerland (Latin name)
   - Auf Schweizer Münzen steht „Confoederatio Helvetica“. *(On Swiss coins it says "Confoederatio Helvetica".)*
 - **getrennt leben** — to live apart
+  - Words: [[getrennt]] · [[Leben]] · [[leben (verb)]] · [[trennen]]
   - Ich lebe getrennt von meiner Frau. *(I live apart from my wife.)*
   - Grammar: getrennt leben: Zustand
   - Variants: sich getrennt haben | nicht zusammenleben
   - Exam: Wortliste B1 (exam vocabulary)
 - **sich auf ... beziehen** — to refer to ...
+  - Words: [[beziehen]]
   - Ich möchte mich auf Ihre E-Mail vom Montag beziehen. *(I would like to refer to your email from Monday.)*
   - Grammar: sich beziehen auf + Akk.
   - Variants: Bezug nehmen auf | verweisen auf
@@ -169,6 +205,7 @@ tags: ["phrase", "moc"]
 ## C1
 
 - **zu berücksichtigen ist, dass ...** — it must be taken into account that ...
+  - Words: [[berücksichtigen]]
   - Zu berücksichtigen ist, dass nicht alle Patienten gleich reagieren. *(It must be taken into account that not all patients react the same.)*
   - Grammar: sein + zu + Infinitiv = Passiversatz
   - Variants: man muss berücksichtigen, dass | zu beachten ist, dass

@@ -33,6 +33,14 @@ status: "new"
 > Die Bank schreibt den Betrag dem Konto gut.
 > *The bank credits the amount to the account.*
 
+**Phrases & Expressions:**
+- **nicht gut** — not good; not well *([[Probleme - Beschwerden beschreiben (problem, symptom, complaint)|Probleme / Beschwerden beschreiben (problem, symptom, complaint)]] · A1)*
+- **so gut** — as good as; so well *([[Vergleichen (comparison)|Vergleichen (comparison)]] · A2)*
+- **ich hoffe, es geht dir gut** — I hope you are well *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **wie gut ...** — how good ... *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A2)*
+- **es ist gut, dass ...** — it is good that ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **schon gut** — it's all right; never mind *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B1)*
+
 **Collocations**
 - einen Betrag gutschreiben
 - dem Konto gutschreiben

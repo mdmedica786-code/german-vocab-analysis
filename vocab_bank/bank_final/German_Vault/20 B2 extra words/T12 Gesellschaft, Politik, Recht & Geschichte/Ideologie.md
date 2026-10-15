@@ -33,6 +33,11 @@ status: "new"
 > Die Ideologie der Partei ist umstritten.
 > *The ideology of the party is controversial.*
 
+**Phrases & Expressions:**
+- **eine politische Ideologie** — *ideology*
+- **Ideologie und Politik** — *ideology*
+- **einer Ideologie folgen** — *ideology*
+
 **Collocations**
 - eine politische Ideologie
 - Ideologie und Politik

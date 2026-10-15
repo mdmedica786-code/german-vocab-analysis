@@ -29,6 +29,10 @@ status: "new"
 > Ich habe die Nase voll von dem ständigen Streit.
 > *I'm fed up with the constant arguing.*
 
+**Phrases & Expressions:**
+- **davon die Nase voll haben** — *to be fed up*
+- **es satt haben** — *to be fed up*
+
 **Collocations**
 - davon die Nase voll haben
 - es satt haben

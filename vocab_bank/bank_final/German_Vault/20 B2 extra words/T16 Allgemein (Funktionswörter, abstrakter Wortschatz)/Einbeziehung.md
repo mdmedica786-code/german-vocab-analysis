@@ -33,6 +33,11 @@ status: "new"
 > Die Einbeziehung aller Beteiligten ist wichtig.
 > *The involvement of all parties is important.*
 
+**Phrases & Expressions:**
+- **unter Einbeziehung von** — *inclusion; involvement*
+- **die Einbeziehung der Bürger** — *inclusion; involvement*
+- **Einbeziehung anderer Meinungen** — *inclusion; involvement*
+
 **Collocations**
 - unter Einbeziehung von
 - die Einbeziehung der Bürger

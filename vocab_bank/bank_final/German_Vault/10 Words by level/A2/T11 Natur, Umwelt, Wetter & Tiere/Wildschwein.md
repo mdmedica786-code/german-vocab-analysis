@@ -34,6 +34,9 @@ status: "new"
 > Im Wald haben wir ein Wildschwein gesehen.
 > *In the forest we saw a wild boar.*
 
+**Phrases & Expressions:**
+- **Im Wald haben wir ein Wildschwein gesehen** — *In the forest we saw a wild boar* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 10c (Gute Unterhaltung!)
 <!-- bank:end -->
 

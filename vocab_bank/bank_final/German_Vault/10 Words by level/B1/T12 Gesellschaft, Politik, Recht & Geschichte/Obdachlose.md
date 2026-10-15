@@ -34,6 +34,9 @@ status: "new"
 > Der Obdachlose schläft unter der Brücke.
 > *The homeless man sleeps under the bridge.*
 
+**Phrases & Expressions:**
+- **Der Obdachlose schläft unter der Brücke** — *The homeless man sleeps under the bridge* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

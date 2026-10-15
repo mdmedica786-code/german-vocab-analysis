@@ -34,6 +34,9 @@ status: "new"
 > Ich finde keinen freien Parkplatz.
 > *I can't find a free parking space.*
 
+**Phrases & Expressions:**
+- **Ich finde keinen freien Parkplatz** — *I can't find a free parking space* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 1 ÜB (Ganz schön mobil)
 <!-- bank:end -->
 

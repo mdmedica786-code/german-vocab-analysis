@@ -34,6 +34,9 @@ status: "new"
 > Die Plattform bietet viele Kurse an.
 > *The platform offers many courses.*
 
+**Phrases & Expressions:**
+- **Die Plattform bietet viele Kurse an** — *The platform offers many courses* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

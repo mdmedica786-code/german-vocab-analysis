@@ -33,6 +33,11 @@ status: "new"
 > Rauchen kann schwere Lungenkrankheiten verursachen.
 > *Smoking can cause serious lung diseases.*
 
+**Phrases & Expressions:**
+- **eine chronische Lungenkrankheit** — *lung disease*
+- **an einer Lungenkrankheit leiden** — *lung disease*
+- **eine Lungenkrankheit behandeln** — *lung disease*
+
 **Collocations**
 - eine chronische Lungenkrankheit
 - an einer Lungenkrankheit leiden

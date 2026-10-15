@@ -34,6 +34,9 @@ status: "new"
 > Die Kinder tragen beim Laternenumzug einen Lampion.
 > *The children carry a paper lantern at the lantern parade.*
 
+**Phrases & Expressions:**
+- **Die Kinder tragen beim Laternenumzug einen Lampion** — *The children carry a paper lantern at the lantern parade* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 5b (Zusammen leben)
 <!-- bank:end -->
 

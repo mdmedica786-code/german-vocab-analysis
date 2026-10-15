@@ -29,6 +29,11 @@ status: "new"
 > Die Temperatur bleibt über Tage konstant.
 > *The temperature stays constant for days.*
 
+**Phrases & Expressions:**
+- **konstant bleiben** — *constant*
+- **konstante Preise** — *constant*
+- **konstant steigen** — *constant*
+
 **Collocations**
 - konstant bleiben
 - konstante Preise

@@ -33,6 +33,11 @@ status: "new"
 > Die Polizei sicherte die Unfallstelle ab.
 > *The police secured the scene of the accident.*
 
+**Phrases & Expressions:**
+- **die Unfallstelle absichern** — *scene of the accident*
+- **an der Unfallstelle** — *scene of the accident*
+- **die Unfallstelle verlassen** — *scene of the accident*
+
 **Collocations**
 - die Unfallstelle absichern
 - an der Unfallstelle

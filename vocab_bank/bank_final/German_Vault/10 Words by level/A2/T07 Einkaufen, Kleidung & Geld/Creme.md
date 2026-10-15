@@ -35,6 +35,9 @@ status: "new"
 > Ich suche eine Creme für die Hände.
 > *I am looking for a cream for my hands.*
 
+**Phrases & Expressions:**
+- **Ich suche eine Creme für die Hände** — *I am looking for a cream for my hands* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

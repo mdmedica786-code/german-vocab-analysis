@@ -31,6 +31,11 @@ status: "new"
 > Wir erörterten die Frage ausführlich im Seminar.
 > *We discussed the question at length in the seminar.*
 
+**Phrases & Expressions:**
+- **eine Frage erörtern** — *to discuss; to debate; to examine*
+- **ein Thema erörtern** — *to discuss; to debate; to examine*
+- **ausführlich erörtern** — *to discuss; to debate; to examine*
+
 **Collocations**
 - eine Frage erörtern
 - ein Thema erörtern

@@ -31,6 +31,9 @@ status: "new"
 > Leider habe ich nur ausländisches Geld.
 > *Unfortunately I only have foreign money.*
 
+**Phrases & Expressions:**
+- **Wie ist das Verfahren zur Anerkennung ausländischer Abschlüsse?** — What is the procedure for recognising foreign qualifications? *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Anfrage an Ärztekammer]] · B2)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!) · Goethe word list A1
 <!-- bank:end -->
 

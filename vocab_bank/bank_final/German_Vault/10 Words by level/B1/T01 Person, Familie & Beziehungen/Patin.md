@@ -34,6 +34,9 @@ status: "new"
 > Meine Patin wohnt in Wien.
 > *My godmother lives in Vienna.*
 
+**Phrases & Expressions:**
+- **Meine Patin wohnt in Wien** — *My godmother lives in Vienna* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

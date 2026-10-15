@@ -31,6 +31,9 @@ status: "new"
 > Auf einem Kunstblog schreibt sie über Ausstellungen.
 > *On an art blog she writes about exhibitions.*
 
+**Phrases & Expressions:**
+- **Auf einem Kunstblog schreibt sie über Ausstellungen** — *On an art blog she writes about exhibitions* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 1b (Kunststücke)
 <!-- bank:end -->
 

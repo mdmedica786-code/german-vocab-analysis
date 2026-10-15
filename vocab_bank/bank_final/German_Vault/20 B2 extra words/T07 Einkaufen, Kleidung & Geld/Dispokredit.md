@@ -33,6 +33,11 @@ status: "new"
 > Ihr Konto ist überzogen, Sie nutzen den Dispokredit.
 > *Your account is overdrawn; you are using the overdraft facility.*
 
+**Phrases & Expressions:**
+- **den Dispokredit ausschöpfen** — *overdraft facility*
+- **Zinsen auf den Dispokredit** — *overdraft facility*
+- **im Dispo sein** — *overdraft facility*
+
 **Collocations**
 - den Dispokredit ausschöpfen
 - Zinsen auf den Dispokredit

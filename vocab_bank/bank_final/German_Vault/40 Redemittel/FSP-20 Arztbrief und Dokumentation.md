@@ -14,6 +14,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Anrede und Anlass
 
 - **Sehr geehrte Frau Kollegin, sehr geehrter Herr Kollege,** ⭐ — Dear colleague (female), dear colleague (male),
+  - Words: [[Frau]] · [[Herr]] · [[Kollege]] · [[Kollegin]] · [[geehrt]]
   - Sehr geehrte Frau Kollegin, sehr geehrter Herr Kollege, wir berichten über unseren gemeinsamen Patienten. *(Dear colleagues, we are reporting on our shared patient.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Anrede im Arztbrief; danach Komma und Kleinschreibung
@@ -22,6 +23,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Anlass nennen
 
 - **Wir berichten über Ihren Patienten ..., der sich vom ... bis ... in unserer stationären Behandlung befand.** ⭐ — We are reporting on your patient ..., who was under our inpatient care from ... to ...
+  - Words: [[Patient]] · [[befinden (verb)]] · [[berichten]] · [[Bericht]] · [[Behandlung]] · [[stationär]] · [[bis]]
   - Wir berichten über Ihren Patienten Herrn Müller, der sich vom 3. bis 10. Mai in unserer stationären Behandlung befand. *(We are reporting on your patient Mr Müller, who was under our inpatient care from 3 to 10 May.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Relativsatz im Präteritum; sich befinden in
@@ -30,6 +32,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Diagnosen auflisten
 
 - **Diagnosen bei Entlassung: ...** ⭐ — Diagnoses: ...
+  - Words: [[Diagnose]] · [[Entlassung]]
   - Diagnosen: 1. Ambulant erworbene Pneumonie. 2. Arterielle Hypertonie. *(Diagnoses: 1. Community-acquired pneumonia. 2. Arterial hypertension.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Stichwortartig, Nominalstil
@@ -38,12 +41,14 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Anamnese schildern
 
 - **Der Patient stellte sich mit ... vor.** ⭐ — The patient presented with ...
+  - Words: [[vorstellen]] · [[Patient]] · [[darstellen]] · [[stellen]] · [[aufstellen]] · [[feststellen]] · [[herstellen]] · [[abstellen]]
   - Der Patient stellte sich mit seit drei Tagen bestehendem Husten und Fieber in unserer Notaufnahme vor. *(The patient presented to our emergency department with a cough and fever existing for three days.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: sich vorstellen mit + Dativ; Präteritum
   - Variants: Der Patient kam mit ... zur Aufnahme. | Der Patient wurde mit ... eingewiesen.
   - Exam: FSP Arztbrief (schriftlich)
 - **Anamnestisch bestehen seit ... Beschwerden.** ⭐ — Anamnestically complaints have existed for ...
+  - Words: [[bestehen]] · [[seit]] · [[Beschwerde]] · [[sein]]
   - Anamnestisch bestehen seit zwei Wochen zunehmende Beschwerden. *(Anamnestically progressive complaints have existed for two weeks.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: bestehen seit + Dativ
@@ -52,6 +57,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Vorerkrankungen nennen
 
 - **Vorerkrankungen: arterielle Hypertonie, Diabetes mellitus Typ 2.** ⭐ — Previous illnesses: arterial hypertension, type 2 diabetes mellitus.
+  - Words: [[Typ]] · [[Diabetes]]
   - Vorerkrankungen: arterielle Hypertonie, Diabetes mellitus Typ 2, Z. n. Appendektomie. *(Previous illnesses: arterial hypertension, type 2 diabetes mellitus, status post appendectomy.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Stichwörter; Z. n. = Zustand nach
@@ -60,6 +66,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Aufnahmebefund
 
 - **Bei Aufnahme zeigte sich ein reduzierter Allgemeinzustand.** ⭐ — On admission a reduced general condition was evident.
+  - Words: [[zeigen]] · [[Aufnahme]] · [[anzeigen]] · [[aufzeigen]]
   - Bei Aufnahme zeigte sich ein reduzierter Allgemeinzustand bei erhaltener Orientierung. *(On admission a reduced general condition was evident with preserved orientation.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Präteritum im Arztbrief
@@ -68,6 +75,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Befund beschreiben
 
 - **Der körperliche Untersuchungsbefund war unauffällig.** ⭐ — The physical examination was unremarkable.
+  - Words: [[körperlich]] · [[unauffällig]]
   - Der körperliche Untersuchungsbefund war bis auf ein leichtes Systolikum unauffällig. *(The physical examination was unremarkable apart from a slight systolic murmur.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: bis auf + Akkusativ
@@ -76,6 +84,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Laborbefund
 
 - **Laborchemisch zeigten sich erhöhte Entzündungsparameter.** ⭐ — Laboratory tests showed elevated inflammatory parameters.
+  - Words: [[zeigen]] · [[erhöhen]]
   - Laborchemisch zeigten sich erhöhte Entzündungsparameter mit einem CRP von 85 mg/l. *(Laboratory tests showed elevated inflammatory parameters with a CRP of 85 mg/l.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Adverb laborchemisch
@@ -84,12 +93,14 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Apparative Diagnostik
 
 - **Im EKG zeigte sich ein Sinusrhythmus ohne Ischämiezeichen.** ⭐ — The ECG showed sinus rhythm without signs of ischaemia.
+  - Words: [[zeigen]] · [[ohne]] · [[anzeigen]] · [[aufzeigen]]
   - Im EKG zeigte sich ein Sinusrhythmus ohne Ischämiezeichen. *(The ECG showed sinus rhythm without signs of ischaemia.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: ohne + Akkusativ
   - Variants: Das EKG war unauffällig. | Elektrokardiografisch Sinusrhythmus.
   - Exam: FSP Arztbrief (schriftlich)
 - **Die Röntgenaufnahme des Thorax ergab ein Infiltrat im rechten Unterlappen.** ⭐ — The chest X-ray revealed an infiltrate in the right lower lobe.
+  - Words: [[Recht]] · [[ergeben]]
   - Die Röntgenaufnahme des Thorax ergab ein Infiltrat im rechten Unterlappen. *(The chest X-ray revealed an infiltrate in the right lower lobe.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: ergeben + Akkusativ
@@ -98,12 +109,14 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Verlauf schildern
 
 - **Im weiteren Verlauf kam es zu einer klinischen Besserung.** ⭐ — In the further course there was clinical improvement.
+  - Words: [[kommen]] · [[weitere]] · [[drankommen]] · [[mitkommen]] · [[ankommen]] · [[zurückkommen]] · [[vorkommen]] · [[dazukommen]]
   - Im weiteren Verlauf kam es unter der Therapie zu einer klinischen Besserung. *(In the further course there was clinical improvement under therapy.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: es kommt zu + Dativ
   - Variants: Der Verlauf gestaltete sich unkompliziert. | Unter Therapie besserte sich der Zustand.
   - Exam: FSP Arztbrief (schriftlich)
 - **Der stationäre Verlauf war unkompliziert.** ⭐ — The inpatient course was uncomplicated.
+  - Words: [[stationär]] · [[Verlauf]] · [[unkompliziert]]
   - Der stationäre Verlauf war unkompliziert, der Patient blieb stets kreislaufstabil. *(The inpatient course was uncomplicated; the patient remained haemodynamically stable throughout.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Präteritum von sein
@@ -118,6 +131,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
   - Variants: Es erfolgte eine antibiotische Therapie. | Es wurde eine Antibiose begonnen.
   - Exam: FSP Arztbrief (schriftlich)
 - **Die Behandlung erfolgte leitliniengerecht.** — Treatment was carried out in accordance with the guidelines.
+  - Words: [[Behandlung]] · [[erfolgen]]
   - Die Behandlung erfolgte leitliniengerecht mit einer Kombinationstherapie. *(Treatment was carried out in accordance with the guidelines with a combination therapy.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: leitliniengerecht = nach den Leitlinien
@@ -126,6 +140,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Medikation nennen
 
 - **Medikation bei Entlassung: ...** ⭐ — Discharge medication: ...
+  - Words: [[Entlassung]]
   - Entlassmedikation: Ramipril 5 mg 1-0-0, Metformin 1000 mg 1-0-1. *(Discharge medication: ramipril 5 mg 1-0-0, metformin 1000 mg 1-0-1.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Dosierschema: morgens-mittags-abends
@@ -134,12 +149,14 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Procedere und Empfehlung
 
 - **Wir empfehlen eine Kontrolle der Entzündungsparameter in einer Woche.** ⭐ — We recommend a check of the inflammatory parameters in a week.
+  - Words: [[Woche]] · [[Kontrolle]] · [[empfehlen]]
   - Wir empfehlen eine Kontrolle der Entzündungsparameter in einer Woche. *(We recommend a check of the inflammatory parameters in a week.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: empfehlen + Akkusativ; Nominalstil
   - Variants: Procedere: Kontrolle in einer Woche. | Wir bitten um Verlaufskontrolle.
   - Exam: FSP Arztbrief (schriftlich)
 - **Eine ambulante Anbindung an die Kardiologie wird empfohlen.** ⭐ — Outpatient follow-up with cardiology is recommended.
+  - Words: [[empfehlen]] · [[geboren werden]] · [[werden]] · [[loswerden]]
   - Eine ambulante Anbindung an die Kardiologie wird empfohlen. *(Outpatient follow-up with cardiology is recommended.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Passiv; Anbindung an + Akkusativ
@@ -148,6 +165,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Beurteilung
 
 - **Zusammenfassend handelt es sich um eine unkomplizierte Pneumonie.** ⭐ — In summary it is an uncomplicated pneumonia.
+  - Words: [[handeln]] · [[zusammenfassend]] · [[unkompliziert]]
   - Zusammenfassend handelt es sich um eine unkomplizierte, ambulant erworbene Pneumonie. *(In summary it is an uncomplicated community-acquired pneumonia.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: zusammenfassend; es handelt sich um
@@ -156,6 +174,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Entlassungsstatus
 
 - **Der Patient konnte in gutem Allgemeinzustand entlassen werden.** ⭐ — The patient could be discharged in good general condition.
+  - Words: [[gut (adjective)]] · [[Patient]] · [[entlassen]] · [[können]]
   - Der Patient konnte in gutem Allgemeinzustand nach Hause entlassen werden. *(The patient could be discharged home in good general condition.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Passiv mit Modalverb im Präteritum
@@ -164,6 +183,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Arbeitsfähigkeit
 
 - **Der Patient ist für zwei Wochen arbeitsunfähig.** — The patient is unfit for work for two weeks.
+  - Words: [[zwei]] · [[Patient]] · [[Woche]]
   - Der Patient ist bis zum 24. Mai arbeitsunfähig geschrieben. *(The patient is signed off as unfit for work until 24 May.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: arbeitsunfähig sein
@@ -172,12 +192,14 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Schlussformel
 
 - **Wir bitten um Übernahme der weiteren Behandlung.** ⭐ — We ask you to take over further treatment.
+  - Words: [[weitere]] · [[bitten]] · [[Bitte]] · [[Behandlung]] · [[Übernahme]]
   - Wir bitten um Übernahme der weiteren Behandlung und stehen für Rückfragen gern zur Verfügung. *(We ask you to take over further treatment and are happy to answer any questions.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: bitten um + Akkusativ; Nominalstil
   - Variants: Wir bitten um Weiterbehandlung. | Für Rückfragen stehen wir gern zur Verfügung.
   - Exam: FSP Arztbrief (schriftlich)
 - **Mit freundlichen kollegialen Grüßen** ⭐ — With kind collegial regards
+  - Words: [[grüßen]] · [[Gruß]] · [[freundlich]]
   - Mit freundlichen kollegialen Grüßen, Dr. A. Khan, Assistenzärztin *(With kind collegial regards, Dr A. Khan, junior doctor)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Grußformel unter Ärzten
@@ -186,6 +208,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Präteritum im Arztbrief
 
 - **Der Patient klagte über ...** — The patient complained of ...
+  - Words: [[Patient]] · [[klagen]]
   - Der Patient klagte über Schmerzen im rechten Unterbauch. *(The patient complained of pain in the right lower abdomen.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: klagen über + Akkusativ; Präteritum
@@ -194,6 +217,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Perfekt im Arztbrief
 
 - **Es wurde eine Computertomografie durchgeführt, die einen Tumor zeigte.** — A CT scan was performed which showed a tumour.
+  - Words: [[zeigen]] · [[durchführen]] · [[anzeigen]] · [[Tumor]] · [[geboren werden]] · [[aufzeigen]] · [[werden]] · [[loswerden]]
   - Es wurde eine Computertomografie durchgeführt, die einen Tumor zeigte. *(A CT scan was performed which showed a tumour.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Passiv Präteritum; Relativsatz
@@ -202,12 +226,14 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Nominalstil
 
 - **Zur weiteren Abklärung erfolgte die Durchführung einer Koloskopie.** — For further clarification, a colonoscopy was performed.
+  - Words: [[weitere]] · [[Durchführung]] · [[erfolgen]]
   - Zur weiteren Abklärung erfolgte die Durchführung einer Koloskopie. *(For further clarification, a colonoscopy was performed.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Nominalstil: erfolgte die Durchführung = wurde durchgeführt
   - Variants: Zur weiteren Abklärung wurde eine Koloskopie durchgeführt. | Weitere Diagnostik: Koloskopie.
   - Exam: FSP Arztbrief (schriftlich)
 - **Unter dieser Therapie zeigte sich ein rascher Rückgang der Beschwerden.** — Under this therapy a rapid decline in complaints was seen.
+  - Words: [[zeigen]] · [[Therapie]] · [[anzeigen]] · [[Beschwerde]] · [[aufzeigen]] · [[Rückgang]] · [[rasch]]
   - Unter dieser Therapie zeigte sich ein rascher Rückgang der Beschwerden. *(Under this therapy a rapid decline in complaints was seen.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Nominalstil: Rückgang statt zurückgehen
@@ -216,12 +242,14 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Dokumentation
 
 - **Der Patient wurde über die Risiken aufgeklärt und willigte ein.** — The patient was informed about the risks and consented.
+  - Words: [[Patient]] · [[Risiko]] · [[aufklären]] · [[geboren werden]] · [[werden]] · [[einwilligen]] · [[loswerden]]
   - Der Patient wurde über die Risiken aufgeklärt und willigte schriftlich in den Eingriff ein. *(The patient was informed about the risks and consented in writing to the procedure.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Passiv Präteritum; einwilligen in + Akkusativ
   - Variants: Aufklärung erfolgte mündlich und schriftlich. | Die Einwilligung liegt vor.
   - Exam: FSP Arztbrief (schriftlich)
 - **Der Patient lehnte die vorgeschlagene Therapie ab.** — The patient declined the proposed therapy.
+  - Words: [[Patient]] · [[ab]] · [[abholen]] · [[abwechseln]] · [[Therapie]] · [[abfahren]] · [[abgeben]] · [[abfliegen]]
   - Der Patient lehnte die vorgeschlagene Therapie nach ausführlicher Aufklärung ab. *(The patient declined the proposed therapy after detailed information.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: ablehnen: trennbar, Präteritum
@@ -230,6 +258,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Pflegerische Hinweise
 
 - **Wir bitten um Beachtung folgender Hinweise: ...** — We ask you to note the following: ...
+  - Words: [[folgend]] · [[bitten]] · [[Hinweis]] · [[Bitte]] · [[hinweisen]] · [[Beachtung]]
   - Wir bitten um Beachtung folgender Hinweise: Gewichtskontrolle täglich, Trinkmenge begrenzen. *(We ask you to note the following: daily weight check, limit fluid intake.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Beachtung + Genitiv

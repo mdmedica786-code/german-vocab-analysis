@@ -33,6 +33,11 @@ status: "new"
 > Ohne gültige Fahrerlaubnis darf man kein Auto fahren.
 > *Without a valid driving licence you may not drive a car.*
 
+**Phrases & Expressions:**
+- **die Fahrerlaubnis entziehen** — *driving licence; permission to drive*
+- **die Fahrerlaubnis erwerben** — *driving licence; permission to drive*
+- **Fahrerlaubnis der Klasse B** — *driving licence; permission to drive*
+
 **Collocations**
 - die Fahrerlaubnis entziehen
 - die Fahrerlaubnis erwerben

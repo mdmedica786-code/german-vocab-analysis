@@ -31,6 +31,9 @@ status: "new"
 > Das Kulturfestival dauert eine Woche.
 > *The culture festival lasts a week.*
 
+**Phrases & Expressions:**
+- **Das Kulturfestival dauert eine Woche** — *The culture festival lasts a week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 13a (Studium und Beruf)
 <!-- bank:end -->
 

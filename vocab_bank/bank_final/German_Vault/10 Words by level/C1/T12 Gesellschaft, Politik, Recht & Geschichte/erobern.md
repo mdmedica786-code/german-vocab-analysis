@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Die Armee eroberte die Stadt.
 > *The army conquered the city.*
+
+**Phrases & Expressions:**
+- **Die Armee eroberte die Stadt** — *The army conquered the city* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,11 @@ status: "new"
 > Für die Reinigung wird eine Pauschale von 30 Euro berechnet.
 > *A flat fee of 30 euros is charged for cleaning.*
 
+**Phrases & Expressions:**
+- **eine Pauschale zahlen** — *flat rate; lump sum*
+- **Pauschale pro Tag** — *flat rate; lump sum*
+- **monatliche Pauschale** — *flat rate; lump sum*
+
 **Collocations**
 - eine Pauschale zahlen
 - Pauschale pro Tag

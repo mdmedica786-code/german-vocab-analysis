@@ -30,6 +30,11 @@ status: "new"
 > Das Launchen der neuen App wurde auf Mai verschoben.
 > *The launch of the new app was postponed until May.*
 
+**Phrases & Expressions:**
+- **das Launchen eines Produkts** — *launching; launch process*
+- **das Launchen vorbereiten** — *launching; launch process*
+- **das Launchen verschieben** — *launching; launch process*
+
 **Collocations**
 - das Launchen eines Produkts
 - das Launchen vorbereiten

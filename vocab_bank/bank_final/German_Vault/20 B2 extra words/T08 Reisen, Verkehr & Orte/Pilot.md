@@ -33,6 +33,11 @@ status: "new"
 > Der Pilot kündigte eine Verspätung von zwanzig Minuten an.
 > *The pilot announced a delay of twenty minutes.*
 
+**Phrases & Expressions:**
+- **Pilot werden** — *pilot*
+- **der Pilot landet** — *pilot*
+- **Piloten und Flugbegleiter** — *pilot*
+
 **Collocations**
 - Pilot werden
 - der Pilot landet

@@ -34,6 +34,9 @@ status: "new"
 > Ein Drittel der Schüler fehlt.
 > *A third of the pupils are absent.*
 
+**Phrases & Expressions:**
+- **Ein Drittel der Schüler fehlt** — *A third of the pupils are absent* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

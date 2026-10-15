@@ -34,6 +34,9 @@ status: "new"
 > Ich kaufe eine Packung Nudeln.
 > *I'm buying a packet of pasta.*
 
+**Phrases & Expressions:**
+- **Ich kaufe eine Packung Nudeln** — *I'm buying a packet of pasta* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 6d ÜB (Guten Appetit!)
 <!-- bank:end -->
 

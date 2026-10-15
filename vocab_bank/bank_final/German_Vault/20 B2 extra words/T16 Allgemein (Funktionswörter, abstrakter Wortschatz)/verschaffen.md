@@ -32,6 +32,11 @@ status: "new"
 > Er verschaffte sich zuerst einen Überblick.
 > *He first got an overview for himself.*
 
+**Phrases & Expressions:**
+- **sich einen Überblick verschaffen** — *to procure; to obtain; to give*
+- **sich Respekt verschaffen** — *to procure; to obtain; to give*
+- **jemandem Arbeit verschaffen** — *to procure; to obtain; to give*
+
 **Collocations**
 - sich einen Überblick verschaffen
 - sich Respekt verschaffen

@@ -32,6 +32,11 @@ status: "new"
 > Wie ist es dir im Urlaub ergangen?
 > *How did you fare on holiday?*
 
+**Phrases & Expressions:**
+- **es ergeht jemandem gut** — *to fare; to be dealt with (impersonal: es ergeht jemandem)*
+- **wie ergeht es dir** — *to fare; to be dealt with (impersonal: es ergeht jemandem)*
+- **etwas über sich ergehen lassen** — *to fare; to be dealt with (impersonal: es ergeht jemandem)*
+
 **Collocations**
 - es ergeht jemandem gut
 - wie ergeht es dir

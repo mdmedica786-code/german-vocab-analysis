@@ -33,6 +33,11 @@ status: "new"
 > Der Filter muss regelmäßig gewechselt werden.
 > *The filter has to be changed regularly.*
 
+**Phrases & Expressions:**
+- **einen Filter wechseln** — *filter*
+- **ein Filter für Kaffee** — *filter*
+- **den Filter reinigen** — *filter*
+
 **Collocations**
 - einen Filter wechseln
 - ein Filter für Kaffee

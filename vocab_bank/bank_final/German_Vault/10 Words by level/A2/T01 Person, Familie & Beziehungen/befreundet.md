@@ -30,6 +30,9 @@ status: "new"
 > Wir sind schon lange befreundet.
 > *We have been friends for a long time.*
 
+**Phrases & Expressions:**
+- **Wir sind schon lange befreundet** — *We have been friends for a long time* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der Upload der Datei dauert wegen der schlechten Verbindung lange.
 > *The upload of the file takes a long time because of the poor connection.*
 
+**Phrases & Expressions:**
+- **einen Upload starten** — *upload*
+- **Upload und Download** — *upload*
+- **Upload abbrechen** — *upload*
+
 **Collocations**
 - einen Upload starten
 - Upload und Download

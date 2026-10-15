@@ -33,6 +33,11 @@ status: "new"
 > Die Sache hat leider einen Haken.
 > *The thing unfortunately has a catch.*
 
+**Phrases & Expressions:**
+- **einen Haken haben** — *hook; catch*
+- **an den Haken hängen** — *hook; catch*
+- **einen Haken setzen** — *hook; catch*
+
 **Collocations**
 - einen Haken haben
 - an den Haken hängen

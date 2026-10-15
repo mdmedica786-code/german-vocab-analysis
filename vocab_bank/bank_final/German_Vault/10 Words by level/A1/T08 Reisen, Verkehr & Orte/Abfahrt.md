@@ -35,6 +35,9 @@ status: "new"
 > Vor der Abfahrt rufe ich an.
 > *I'll call before departure.*
 
+**Phrases & Expressions:**
+- **Vor der Abfahrt rufe ich an** — *I'll call before departure* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 4b ÜB (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

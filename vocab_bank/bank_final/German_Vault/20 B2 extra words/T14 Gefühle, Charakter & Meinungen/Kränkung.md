@@ -33,6 +33,11 @@ status: "new"
 > Die Kränkung durch seinen Chef hat ihn lange beschäftigt.
 > *The hurt caused by his boss occupied him for a long time.*
 
+**Phrases & Expressions:**
+- **eine Kränkung erfahren** — *insult; hurt feelings*
+- **eine tiefe Kränkung** — *insult; hurt feelings*
+- **Kränkung und Wut** — *insult; hurt feelings*
+
 **Collocations**
 - eine Kränkung erfahren
 - eine tiefe Kränkung

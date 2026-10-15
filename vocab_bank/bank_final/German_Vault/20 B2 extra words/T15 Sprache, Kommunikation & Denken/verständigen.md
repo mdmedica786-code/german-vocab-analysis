@@ -32,6 +32,11 @@ status: "new"
 > Bitte verständigen Sie den Arzt sofort.
 > *Please notify the doctor immediately.*
 
+**Phrases & Expressions:**
+- **jemanden verständigen** — *to notify; (sich) to come to an understanding*
+- **sich verständigen** — *to notify; (sich) to come to an understanding*
+- **die Polizei verständigen** — *to notify; (sich) to come to an understanding*
+
 **Collocations**
 - jemanden verständigen
 - sich verständigen

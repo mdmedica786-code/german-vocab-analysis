@@ -31,6 +31,11 @@ status: "new"
 > Er faltete den Brief sorgfältig zusammen.
 > *He carefully folded the letter.*
 
+**Phrases & Expressions:**
+- **Papier falten** — *to fold*
+- **die Hände falten** — *to fold*
+- **einen Brief falten** — *to fold*
+
 **Collocations**
 - Papier falten
 - die Hände falten

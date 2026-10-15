@@ -33,6 +33,12 @@ status: "new"
 > Er bezeichnet sich als Künstler.
 > *He calls himself an artist.*
 
+**Phrases & Expressions:**
+- **als etwas bezeichnen** — *to describe; to call; to designate*
+- **sich als ... bezeichnen** — *to describe; to call; to designate*
+- **jemanden als Freund bezeichnen** — *to describe; to call; to designate*
+- **genau bezeichnen** — *to describe; to call; to designate*
+
 **Collocations**
 - als etwas bezeichnen
 - sich als ... bezeichnen

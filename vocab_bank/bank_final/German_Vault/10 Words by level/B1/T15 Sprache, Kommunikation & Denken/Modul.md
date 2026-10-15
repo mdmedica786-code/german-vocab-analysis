@@ -34,6 +34,9 @@ status: "new"
 > Das Modul Hören besteht aus vier Teilen.
 > *The listening module consists of four parts.*
 
+**Phrases & Expressions:**
+- **Das Modul Hören besteht aus vier Teilen** — *The listening module consists of four parts* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

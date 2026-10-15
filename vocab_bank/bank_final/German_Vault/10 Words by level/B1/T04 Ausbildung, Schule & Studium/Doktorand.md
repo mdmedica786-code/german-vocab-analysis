@@ -34,6 +34,9 @@ status: "new"
 > Der Doktorand schreibt an seiner Dissertation.
 > *The doctoral student is writing his dissertation.*
 
+**Phrases & Expressions:**
+- **Der Doktorand schreibt an seiner Dissertation** — *The doctoral student is writing his dissertation* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 10b (Blick nach vorn)
 <!-- bank:end -->
 

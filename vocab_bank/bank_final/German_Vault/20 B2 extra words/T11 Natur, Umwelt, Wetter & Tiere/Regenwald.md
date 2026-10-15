@@ -33,6 +33,11 @@ status: "new"
 > Der Regenwald wird durch Abholzung zerstört.
 > *The rainforest is being destroyed by deforestation.*
 
+**Phrases & Expressions:**
+- **den Regenwald schützen** — *rainforest*
+- **tropischer Regenwald** — *rainforest*
+- **Rodung des Regenwaldes** — *rainforest*
+
 **Collocations**
 - den Regenwald schützen
 - tropischer Regenwald

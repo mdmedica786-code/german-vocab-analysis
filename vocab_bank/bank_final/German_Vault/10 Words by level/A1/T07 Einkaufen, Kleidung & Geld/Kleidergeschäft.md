@@ -34,6 +34,9 @@ status: "new"
 > Im Kleidergeschäft gibt es heute Sonderangebote.
 > *There are special offers in the clothes shop today.*
 
+**Phrases & Expressions:**
+- **Im Kleidergeschäft gibt es heute Sonderangebote** — *There are special offers in the clothes shop today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 3a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

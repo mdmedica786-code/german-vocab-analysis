@@ -35,6 +35,9 @@ status: "new"
 > Eine Mücke hat mich gestochen.
 > *A mosquito bit me.*
 
+**Phrases & Expressions:**
+- **Eine Mücke hat mich gestochen** — *A mosquito bit me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12 ÜB (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

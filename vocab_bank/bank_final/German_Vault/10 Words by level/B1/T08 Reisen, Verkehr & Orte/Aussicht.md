@@ -35,6 +35,9 @@ status: "new"
 > Von diesem Turm hat man eine tolle Aussicht.
 > *From this tower you have a great view.*
 
+**Phrases & Expressions:**
+- **Von diesem Turm hat man eine tolle Aussicht** — *From this tower you have a great view* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 2 (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

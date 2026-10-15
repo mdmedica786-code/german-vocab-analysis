@@ -33,6 +33,13 @@ status: "new"
 > Das Spiel beginnt um 15.30 Uhr.
 > *The game starts at 3.30 p.m.*
 
+**Phrases & Expressions:**
+- **Ich möchte mit ... beginnen.** — I would like to start with ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Gliederung ankündigen]] · B1)*
+- **Die Feier beginnt um 19 Uhr bei mir zu Hause.** — The party starts at 7 p.m. at my home. *([[B1-18 Einladen, zusagen und absagen|Zeit und Ort nennen]] · B1)*
+- **Zuerst bekommen Sie die Narkose, dann beginnen wir mit dem Eingriff.** — First you will receive the anaesthetic, then we begin the procedure. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Ablauf erklären]] · B2)*
+- **Beginnen Sie bitte mit der Herzdruckmassage, dreißig zu zwei.** — Please start chest compressions, thirty to two. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Reanimation]] · B2)*
+- **Wir haben eine Antibiose mit ... begonnen.** — We have started antibiotic treatment with ... *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Weiteres Vorgehen]] · C1)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

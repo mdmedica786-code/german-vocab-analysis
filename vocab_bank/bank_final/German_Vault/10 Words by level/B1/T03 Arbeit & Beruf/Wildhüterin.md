@@ -34,6 +34,9 @@ status: "new"
 > Die Wildhüterin zählt die Rehe im Wald.
 > *The gamekeeper counts the deer in the forest.*
 
+**Phrases & Expressions:**
+- **Die Wildhüterin zählt die Rehe im Wald** — *The gamekeeper counts the deer in the forest* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

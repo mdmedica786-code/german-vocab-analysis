@@ -33,6 +33,11 @@ status: "new"
 > Mein Stromanbieter hat die Preise erhöht.
 > *My electricity provider has raised the prices.*
 
+**Phrases & Expressions:**
+- **den Stromanbieter wechseln** — *electricity provider*
+- **günstiger Stromanbieter** — *electricity provider*
+- **Stromanbieter vergleichen** — *electricity provider*
+
 **Collocations**
 - den Stromanbieter wechseln
 - günstiger Stromanbieter

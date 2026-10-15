@@ -33,6 +33,11 @@ status: "new"
 > Vor Kälte war ihre Nasenspitze ganz rot.
 > *Her nose tip was completely red from the cold.*
 
+**Phrases & Expressions:**
+- **die Nasenspitze berühren** — *tip of the nose*
+- **eine rote Nasenspitze** — *tip of the nose*
+- **an der Nasenspitze** — *tip of the nose*
+
 **Collocations**
 - die Nasenspitze berühren
 - eine rote Nasenspitze

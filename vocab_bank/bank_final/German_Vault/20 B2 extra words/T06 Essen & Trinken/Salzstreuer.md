@@ -33,6 +33,11 @@ status: "new"
 > Bitte reich mir den Salzstreuer.
 > *Please pass me the salt shaker.*
 
+**Phrases & Expressions:**
+- **den Salzstreuer füllen** — *salt shaker*
+- **ein Salzstreuer aus Glas** — *salt shaker*
+- **der Salzstreuer steht auf dem Tisch** — *salt shaker*
+
 **Collocations**
 - den Salzstreuer füllen
 - ein Salzstreuer aus Glas

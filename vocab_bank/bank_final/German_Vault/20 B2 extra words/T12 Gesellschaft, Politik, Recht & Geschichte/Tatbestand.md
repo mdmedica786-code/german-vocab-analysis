@@ -33,6 +33,11 @@ status: "new"
 > Der Tatbestand der Körperverletzung ist erfüllt.
 > *The elements of the offence of assault are met.*
 
+**Phrases & Expressions:**
+- **den Tatbestand erfüllen** — *facts of the case; offence (legal)*
+- **der Tatbestand des Betrugs** — *facts of the case; offence (legal)*
+- **den Tatbestand feststellen** — *facts of the case; offence (legal)*
+
 **Collocations**
 - den Tatbestand erfüllen
 - der Tatbestand des Betrugs

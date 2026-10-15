@@ -35,6 +35,9 @@ status: "new"
 > Ich gehe nicht gern ins Theater.
 > *I don't like going to the theatre.*
 
+**Phrases & Expressions:**
+- **Ich gehe nicht gern ins Theater** — *I don't like going to the theatre* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 5b (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

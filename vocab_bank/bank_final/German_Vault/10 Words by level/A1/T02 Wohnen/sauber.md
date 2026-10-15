@@ -31,6 +31,9 @@ status: "new"
 > Bringen Sie mir bitte ein sauberes Glas!
 > *Please bring me a clean glass!*
 
+**Phrases & Expressions:**
+- **Bringen Sie mir bitte ein sauberes Glas** — *Please bring me a clean glass* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7a (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

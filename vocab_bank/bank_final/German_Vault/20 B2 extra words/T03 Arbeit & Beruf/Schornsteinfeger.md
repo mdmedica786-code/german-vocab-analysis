@@ -33,6 +33,11 @@ status: "new"
 > Der Schornsteinfeger prüft einmal im Jahr die Heizung.
 > *The chimney sweep checks the heating once a year.*
 
+**Phrases & Expressions:**
+- **den Schornsteinfeger bestellen** — *chimney sweep*
+- **der Schornsteinfeger kommt** — *chimney sweep*
+- **Glücksbringer Schornsteinfeger** — *chimney sweep*
+
 **Collocations**
 - den Schornsteinfeger bestellen
 - der Schornsteinfeger kommt

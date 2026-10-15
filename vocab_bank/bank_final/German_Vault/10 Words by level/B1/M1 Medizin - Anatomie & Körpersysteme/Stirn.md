@@ -33,6 +33,12 @@ status: "new"
 > Das Kind hat eine Beule an der Stirn.
 > *The child has a bump on its forehead.*
 
+**Phrases & Expressions:**
+- **die Stirn runzeln** — *forehead*
+- **Schweiß auf der Stirn** — *forehead*
+- **eine Beule an der Stirn** — *forehead*
+- **die Stirn abtasten** — *forehead*
+
 **Collocations**
 - die Stirn runzeln
 - Schweiß auf der Stirn

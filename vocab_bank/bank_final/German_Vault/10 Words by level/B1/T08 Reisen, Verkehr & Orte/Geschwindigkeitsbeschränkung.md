@@ -34,6 +34,9 @@ status: "new"
 > Bitte beachten Sie die Geschwindigkeitsbeschränkungen.
 > *Please observe the speed limits.*
 
+**Phrases & Expressions:**
+- **Bitte beachten Sie die Geschwindigkeitsbeschränkungen** — *Please observe the speed limits* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

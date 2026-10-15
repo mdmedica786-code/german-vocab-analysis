@@ -29,6 +29,11 @@ status: "new"
 > Die Landschaft ist karg und unwirtlich.
 > *The landscape is barren and inhospitable.*
 
+**Phrases & Expressions:**
+- **ein karger Boden** — *meagre; barren*
+- **karge Vegetation** — *meagre; barren*
+- **karg bemessen** — *meagre; barren*
+
 **Collocations**
 - ein karger Boden
 - karge Vegetation

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Zieh bitte den Vorhang zu.
 > *Please draw the curtain.*
+
+**Phrases & Expressions:**
+- **Sie können sich hinter dem Vorhang umziehen.** — You can get changed behind the curtain. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Sich frei machen]] · A2)*
 <!-- bank:end -->
 
 ## My notes

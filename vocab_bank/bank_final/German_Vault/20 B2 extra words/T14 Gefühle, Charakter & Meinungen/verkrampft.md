@@ -29,6 +29,11 @@ status: "new"
 > Beim Vorstellungsgespräch wirkte sie verkrampft.
 > *At the job interview she seemed tense.*
 
+**Phrases & Expressions:**
+- **verkrampft wirken** — *tense; strained*
+- **verkrampft lachen** — *tense; strained*
+- **ein verkrampftes Lächeln** — *tense; strained*
+
 **Collocations**
 - verkrampft wirken
 - verkrampft lachen

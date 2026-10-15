@@ -33,6 +33,11 @@ status: "new"
 > Der Buchhalter erstellt am Monatsende die Abrechnungen.
 > *The bookkeeper prepares the statements at the end of the month.*
 
+**Phrases & Expressions:**
+- **als Buchhalter arbeiten** — *bookkeeper; accountant*
+- **der Buchhalter prüft** — *bookkeeper; accountant*
+- **Buchhalter in einer Firma** — *bookkeeper; accountant*
+
 **Collocations**
 - als Buchhalter arbeiten
 - der Buchhalter prüft

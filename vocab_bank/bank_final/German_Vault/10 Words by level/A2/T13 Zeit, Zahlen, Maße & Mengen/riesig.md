@@ -31,6 +31,9 @@ status: "new"
 > Die Stadt ist riesig.
 > *The city is huge.*
 
+**Phrases & Expressions:**
+- **Die Stadt ist riesig** — *The city is huge* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 8b (Große und kleine Gefühle) · Goethe word list B1
 <!-- bank:end -->
 

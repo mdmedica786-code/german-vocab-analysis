@@ -34,6 +34,9 @@ status: "new"
 > Die Expertin erklärt uns die neue Technik.
 > *The expert explains the new technology to us.*
 
+**Phrases & Expressions:**
+- **Die Expertin erklärt uns die neue Technik** — *The expert explains the new technology to us* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil)
 <!-- bank:end -->
 

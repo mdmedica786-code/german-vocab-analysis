@@ -32,6 +32,11 @@ status: "new"
 > Die Stadt zeichnet das Projekt mit einem Preis aus.
 > *The city awards the project a prize.*
 
+**Phrases & Expressions:**
+- **Es zeichnet sich ein Trend zu ... ab.** — A trend towards ... is emerging. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Trend beschreiben]] · B2)*
+- **sich auszeichnen durch + Akk.** — *to distinguish; to award*
+- **mit einem Preis auszeichnen** — *to distinguish; to award*
+
 **Collocations**
 - sich auszeichnen durch + Akk.
 - mit einem Preis auszeichnen

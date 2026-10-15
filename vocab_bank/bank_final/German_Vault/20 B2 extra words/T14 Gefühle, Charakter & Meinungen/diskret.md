@@ -29,6 +29,11 @@ status: "new"
 > Der Arzt behandelt alle Fälle diskret.
 > *The doctor handles all cases discreetly.*
 
+**Phrases & Expressions:**
+- **diskret behandeln** — *discreet*
+- **eine diskrete Anfrage** — *discreet*
+- **sich diskret verhalten** — *discreet*
+
 **Collocations**
 - diskret behandeln
 - eine diskrete Anfrage

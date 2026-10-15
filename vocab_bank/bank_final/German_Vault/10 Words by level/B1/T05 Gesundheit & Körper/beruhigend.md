@@ -30,6 +30,9 @@ status: "new"
 > Die Musik wirkt beruhigend.
 > *The music has a calming effect.*
 
+**Phrases & Expressions:**
+- **Die Musik wirkt beruhigend** — *The music has a calming effect* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist)
 <!-- bank:end -->
 

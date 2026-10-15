@@ -33,6 +33,11 @@ status: "new"
 > Viele Muslime fasten im Monat Ramadan.
 > *Many Muslims fast during the month of Ramadan.*
 
+**Phrases & Expressions:**
+- **ein gläubiger Muslim** — *Muslim*
+- **Muslime und Christen** — *Muslim*
+- **die Muslime in Deutschland** — *Muslim*
+
 **Collocations**
 - ein gläubiger Muslim
 - Muslime und Christen

@@ -29,6 +29,11 @@ status: "new"
 > Das war von vornherein klar.
 > *That was clear from the start.*
 
+**Phrases & Expressions:**
+- **von vornherein ausschließen** — *from the start; from the outset*
+- **von vornherein klar** — *from the start; from the outset*
+- **von vornherein wissen** — *from the start; from the outset*
+
 **Collocations**
 - von vornherein ausschließen
 - von vornherein klar

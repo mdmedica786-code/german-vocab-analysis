@@ -29,6 +29,11 @@ status: "new"
 > Der Arzt wurde wegen fahrlässiger Körperverletzung angeklagt.
 > *The doctor was charged with negligent bodily harm.*
 
+**Phrases & Expressions:**
+- **fahrlässig handeln** — *negligent; careless*
+- **grob fahrlässig** — *negligent; careless*
+- **fahrlässige Tötung** — *negligent; careless*
+
 **Collocations**
 - fahrlässig handeln
 - grob fahrlässig

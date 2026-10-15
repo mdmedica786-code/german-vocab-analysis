@@ -31,6 +31,9 @@ status: "new"
 > Hätte ist eine Konjunktivform von haben.
 > *Hätte is a subjunctive form of haben.*
 
+**Phrases & Expressions:**
+- **Hätte ist eine Konjunktivform von haben** — *Hätte is a subjunctive form of haben* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 4d (Arbeitswelt)
 <!-- bank:end -->
 

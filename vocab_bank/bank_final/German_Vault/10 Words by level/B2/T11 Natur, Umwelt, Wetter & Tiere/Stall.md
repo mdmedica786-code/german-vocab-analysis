@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Kühe stehen im Stall.
 > *The cows are in the barn.*
+
+**Phrases & Expressions:**
+- **Die Kühe stehen im Stall** — *The cows are in the barn* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

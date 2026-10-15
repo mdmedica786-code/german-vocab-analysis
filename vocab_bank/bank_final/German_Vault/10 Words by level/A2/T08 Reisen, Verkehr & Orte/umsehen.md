@@ -33,6 +33,12 @@ status: "new"
 > Ich sehe mich im Geschäft ein bisschen um.
 > *I'm having a little look around the shop.*
 
+**Phrases & Expressions:**
+- **es sieht aus, als ob ...** — it looks as if ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **es sieht so aus, als ob ...** — it looks as if ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Er/Sie sieht ... aus.** — He/she looks ... *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Person beschreiben]] · B1)*
+- **Wie sieht die Vergütung aus?** — What does the remuneration look like? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Gehalt ansprechen]] · B2)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt)
 <!-- bank:end -->
 

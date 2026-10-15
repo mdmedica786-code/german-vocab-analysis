@@ -33,6 +33,11 @@ status: "new"
 > Wir sahen den Sonnenuntergang am Meer.
 > *We watched the sunset at the sea.*
 
+**Phrases & Expressions:**
+- **bei Sonnenuntergang** — *sunset*
+- **den Sonnenuntergang beobachten** — *sunset*
+- **ein schöner Sonnenuntergang** — *sunset*
+
 **Collocations**
 - bei Sonnenuntergang
 - den Sonnenuntergang beobachten

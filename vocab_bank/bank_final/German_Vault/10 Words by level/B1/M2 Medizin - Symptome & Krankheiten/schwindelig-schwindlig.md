@@ -30,6 +30,9 @@ status: "new"
 > Mir ist schwindelig.
 > *I feel dizzy.*
 
+**Phrases & Expressions:**
+- **Mir ist schwindelig** — *I feel dizzy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 3c (Rund um Körper und Geist)
 <!-- bank:end -->
 

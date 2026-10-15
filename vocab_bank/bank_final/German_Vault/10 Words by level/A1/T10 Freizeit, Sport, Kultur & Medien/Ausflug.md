@@ -35,6 +35,9 @@ status: "new"
 > Morgen machen wir einen Ausflug nach Heidelberg.
 > *Tomorrow we are going on an excursion to Heidelberg.*
 
+**Phrases & Expressions:**
+- **Morgen machen wir einen Ausflug nach Heidelberg** — *Tomorrow we are going on an excursion to Heidelberg* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 6a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

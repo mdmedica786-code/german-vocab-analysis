@@ -33,6 +33,11 @@ status: "new"
 > Mit seiner Arroganz macht er sich keine Freunde.
 > *With his arrogance he does not make friends.*
 
+**Phrases & Expressions:**
+- **pure Arroganz** — *arrogance*
+- **mit Arroganz antworten** — *arrogance*
+- **die Arroganz der Macht** — *arrogance*
+
 **Collocations**
 - pure Arroganz
 - mit Arroganz antworten

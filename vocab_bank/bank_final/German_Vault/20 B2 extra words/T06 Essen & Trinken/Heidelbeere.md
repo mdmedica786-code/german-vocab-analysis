@@ -33,6 +33,11 @@ status: "new"
 > Im Wald sammeln wir im Sommer Heidelbeeren.
 > *In the forest we collect blueberries in summer.*
 
+**Phrases & Expressions:**
+- **Heidelbeeren sammeln** — *blueberry*
+- **Heidelbeerkuchen** — *blueberry*
+- **frische Heidelbeeren** — *blueberry*
+
 **Collocations**
 - Heidelbeeren sammeln
 - Heidelbeerkuchen

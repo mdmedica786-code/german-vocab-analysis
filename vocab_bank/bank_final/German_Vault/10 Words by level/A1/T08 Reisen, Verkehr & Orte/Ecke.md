@@ -35,6 +35,9 @@ status: "new"
 > An der nächsten Ecke links.
 > *At the next corner turn left.*
 
+**Phrases & Expressions:**
+- **um die Ecke** — around the corner *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+
 **Source:** Netzwerk neu A1 K12 4b ÜB (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

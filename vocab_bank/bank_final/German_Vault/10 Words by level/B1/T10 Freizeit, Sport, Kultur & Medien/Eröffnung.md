@@ -35,6 +35,9 @@ status: "new"
 > Die Eröffnung der neuen Oper ist am 1. Juni.
 > *The opening of the new opera house is on 1 June.*
 
+**Phrases & Expressions:**
+- **Die Eröffnung der neuen Oper ist am 1. Juni** — *The opening of the new opera house is on 1 June* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7a ÜB (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

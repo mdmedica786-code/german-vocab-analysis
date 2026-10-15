@@ -29,6 +29,11 @@ status: "new"
 > Nach dem Essen fühle ich mich träge.
 > *After eating I feel sluggish.*
 
+**Phrases & Expressions:**
+- **träge werden** — *sluggish; lazy; slow*
+- **ein träger Fluss** — *sluggish; lazy; slow*
+- **sich träge fühlen** — *sluggish; lazy; slow*
+
 **Collocations**
 - träge werden
 - ein träger Fluss

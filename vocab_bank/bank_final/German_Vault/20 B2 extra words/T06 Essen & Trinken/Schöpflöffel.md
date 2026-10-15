@@ -33,6 +33,11 @@ status: "new"
 > Mit dem Schöpflöffel füllt sie die Suppe in die Teller.
 > *She fills the soup into the bowls with the ladle.*
 
+**Phrases & Expressions:**
+- **mit dem Schöpflöffel austeilen** — *ladle*
+- **ein großer Schöpflöffel** — *ladle*
+- **Suppe mit dem Schöpflöffel schöpfen** — *ladle*
+
 **Collocations**
 - mit dem Schöpflöffel austeilen
 - ein großer Schöpflöffel

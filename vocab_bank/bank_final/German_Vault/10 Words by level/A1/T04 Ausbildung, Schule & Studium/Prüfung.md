@@ -35,6 +35,9 @@ status: "new"
 > Die Prüfung ist am Montag um 8.00 Uhr.
 > *The exam is on Monday at 8 a.m.*
 
+**Phrases & Expressions:**
+- **Die Prüfung ist am Montag um 8.00 Uhr** — *The exam is on Monday at 8 a.m* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 4a (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,9 @@ status: "new"
 > Ich hoffe, wir können dieses Problem bald klären.
 > *I hope we can settle this problem soon.*
 
+**Phrases & Expressions:**
+- **Bitte atmen Sie kurz durch, dann klären wir alles.** — Please take a deep breath, then we will sort everything out. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Aufgebrachte beruhigen]] · B2)*
+
 **Source:** Netzwerk neu B1 K7 1a ÜB (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

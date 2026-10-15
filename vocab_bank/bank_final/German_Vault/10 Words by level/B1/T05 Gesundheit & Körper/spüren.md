@@ -33,6 +33,13 @@ status: "new"
 > Wo tut es weh? Spüren Sie das hier?
 > *Where does it hurt? Can you feel this here?*
 
+**Phrases & Expressions:**
+- **Bei einer örtlichen Betäubung sind Sie wach, spüren aber keinen Schmerz.** — With local anaesthesia you are awake but feel no pain. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Narkose erklären]] · B2)*
+- **Schmerzen spüren** — *to sense*
+- **die Kälte spüren** — *to sense*
+- **nichts spüren** — *to sense*
+- **einen Druck spüren** — *to sense*
+
 **Collocations**
 - Schmerzen spüren
 - die Kälte spüren

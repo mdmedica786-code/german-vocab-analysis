@@ -30,6 +30,11 @@ status: "new"
 > Die Raumsituation in der Schule ist angespannt.
 > *The room situation at the school is tight.*
 
+**Phrases & Expressions:**
+- **die Raumsituation verbessern** — *space situation; availability of rooms*
+- **eine schwierige Raumsituation** — *space situation; availability of rooms*
+- **die aktuelle Raumsituation** — *space situation; availability of rooms*
+
 **Collocations**
 - die Raumsituation verbessern
 - eine schwierige Raumsituation

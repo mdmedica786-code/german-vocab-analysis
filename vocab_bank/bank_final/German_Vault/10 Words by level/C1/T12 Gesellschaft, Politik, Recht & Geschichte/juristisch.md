@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Er braucht juristische Beratung.
 > *He needs legal advice.*
+
+**Phrases & Expressions:**
+- **Er braucht juristische Beratung** — *He needs legal advice* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

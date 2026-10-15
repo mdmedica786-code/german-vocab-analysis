@@ -31,6 +31,9 @@ status: "new"
 > Die Miete wird monatlich bezahlt.
 > *The rent is paid monthly.*
 
+**Phrases & Expressions:**
+- **Die Miete wird monatlich bezahlt** — *The rent is paid monthly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3b ÜB (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

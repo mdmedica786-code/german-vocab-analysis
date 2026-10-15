@@ -33,6 +33,12 @@ status: "new"
 > Der Darm nimmt Nährstoffe auf.
 > *The intestine absorbs nutrients.*
 
+**Phrases & Expressions:**
+- **den Darm untersuchen** — *intestine; bowel*
+- **entzündeter Darm** — *intestine; bowel*
+- **Darm und Magen** — *intestine; bowel*
+- **den Darm entleeren** — *intestine; bowel*
+
 **Collocations**
 - den Darm untersuchen
 - entzündeter Darm

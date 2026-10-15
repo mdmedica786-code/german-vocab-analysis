@@ -35,6 +35,9 @@ status: "new"
 > Heute sieht man viele Sterne am Himmel.
 > *Today you can see many stars in the sky.*
 
+**Phrases & Expressions:**
+- **Heute sieht man viele Sterne am Himmel** — *Today you can see many stars in the sky* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9b (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

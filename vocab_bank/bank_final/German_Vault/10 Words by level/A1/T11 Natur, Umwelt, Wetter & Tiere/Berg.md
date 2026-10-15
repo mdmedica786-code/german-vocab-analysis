@@ -35,6 +35,9 @@ status: "new"
 > Die Zugspitze ist der höchste Berg in Deutschland.
 > *The Zugspitze is the highest mountain in Germany.*
 
+**Phrases & Expressions:**
+- **Die Zugspitze ist der höchste Berg in Deutschland** — *The Zugspitze is the highest mountain in Germany* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 11b (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

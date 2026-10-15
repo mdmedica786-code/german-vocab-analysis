@@ -34,6 +34,10 @@ status: "new"
 > Ich habe eine Absage für die Stelle bekommen.
 > *I got a rejection for the job.*
 
+**Phrases & Expressions:**
+- **Ich muss leider absagen, weil ich schon etwas vorhabe.** — Unfortunately I have to decline because I already have plans. *([[B1-18 Einladen, zusagen und absagen|Mit Begründung absagen]] · B1)*
+- **Leider muss ich meinen Termin absagen.** — Unfortunately I have to cancel my appointment. *([[B2-07 Telefonieren|Termin absagen]] · B1)*
+
 **Source:** Netzwerk neu A2 K4 3e (Große und kleine Gefühle)
 <!-- bank:end -->
 

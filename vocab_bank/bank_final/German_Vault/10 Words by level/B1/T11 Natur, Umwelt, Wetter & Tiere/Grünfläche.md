@@ -34,6 +34,9 @@ status: "new"
 > In der Stadt gibt es viele Grünflächen.
 > *There are many green spaces in the city.*
 
+**Phrases & Expressions:**
+- **In der Stadt gibt es viele Grünflächen** — *There are many green spaces in the city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

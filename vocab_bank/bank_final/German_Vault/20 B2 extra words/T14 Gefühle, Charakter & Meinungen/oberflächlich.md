@@ -29,6 +29,11 @@ status: "new"
 > Ich habe den Bericht nur oberflächlich gelesen.
 > *I only read the report superficially.*
 
+**Phrases & Expressions:**
+- **oberflächlich betrachten** — *superficial*
+- **ein oberflächlicher Mensch** — *superficial*
+- **oberflächlich kennen** — *superficial*
+
 **Collocations**
 - oberflächlich betrachten
 - ein oberflächlicher Mensch

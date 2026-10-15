@@ -33,6 +33,11 @@ status: "new"
 > Der Ball traf ihn mit voller Wucht.
 > *The ball hit him with full force.*
 
+**Phrases & Expressions:**
+- **mit voller Wucht** — *force; impact; power*
+- **die Wucht des Aufpralls** — *force; impact; power*
+- **mit aller Wucht** — *force; impact; power*
+
 **Collocations**
 - mit voller Wucht
 - die Wucht des Aufpralls

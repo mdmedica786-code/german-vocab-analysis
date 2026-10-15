@@ -29,6 +29,13 @@ status: "new"
 > Es kommt hinzu, dass die Miete steigt.
 > *In addition, the rent is rising.*
 
+**Phrases & Expressions:**
+- **hinzu kommt, dass ...** — in addition, ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **Hinzu kommt, dass ...** — In addition, ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Argumentationskette bilden]] · B2)*
+- **hinzu kommt, dass** — *in addition; to it*
+- **noch hinzu kommen** — *in addition; to it*
+- **fügte er hinzu** — *in addition; to it*
+
 **Collocations**
 - hinzu kommt, dass
 - noch hinzu kommen

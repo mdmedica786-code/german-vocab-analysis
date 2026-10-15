@@ -33,6 +33,11 @@ status: "new"
 > Der Spitzenwert wurde am Mittag gemessen.
 > *The peak value was measured at noon.*
 
+**Phrases & Expressions:**
+- **einen Spitzenwert erreichen** — *peak value; top value*
+- **ein neuer Spitzenwert** — *peak value; top value*
+- **Spitzenwerte messen** — *peak value; top value*
+
 **Collocations**
 - einen Spitzenwert erreichen
 - ein neuer Spitzenwert

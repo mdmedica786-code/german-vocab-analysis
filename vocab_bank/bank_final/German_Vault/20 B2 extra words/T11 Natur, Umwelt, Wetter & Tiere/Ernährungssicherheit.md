@@ -33,6 +33,11 @@ status: "new"
 > Der Klimawandel gefährdet die Ernährungssicherheit in vielen Ländern.
 > *Climate change endangers food security in many countries.*
 
+**Phrases & Expressions:**
+- **Ernährungssicherheit gewährleisten** — *food security*
+- **die Ernährungssicherheit gefährden** — *food security*
+- **Fragen der Ernährungssicherheit** — *food security*
+
 **Collocations**
 - Ernährungssicherheit gewährleisten
 - die Ernährungssicherheit gefährden

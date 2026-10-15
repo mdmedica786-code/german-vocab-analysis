@@ -30,6 +30,11 @@ status: "new"
 > Ein Screenreader liest blinden Menschen den Text vor.
 > *A screen reader reads the text aloud to blind people.*
 
+**Phrases & Expressions:**
+- **einen Screenreader nutzen** — *screen reader*
+- **ein Screenreader für Blinde** — *screen reader*
+- **mit Screenreader arbeiten** — *screen reader*
+
 **Collocations**
 - einen Screenreader nutzen
 - ein Screenreader für Blinde

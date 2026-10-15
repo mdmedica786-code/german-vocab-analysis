@@ -31,6 +31,9 @@ status: "new"
 > Sie bekommen von uns eine offizielle Einladung.
 > *You will receive an official invitation from us.*
 
+**Phrases & Expressions:**
+- **Sie bekommen von uns eine offizielle Einladung** — *You will receive an official invitation from us* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 5a (Alltag und Familie) · Goethe word list B1
 <!-- bank:end -->
 

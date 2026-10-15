@@ -31,6 +31,11 @@ status: "new"
 > Sie presste frische Orangen für den Saft aus.
 > *She squeezed fresh oranges for the juice.*
 
+**Phrases & Expressions:**
+- **Saft pressen** — *to press; to squeeze*
+- **die Lippen pressen** — *to press; to squeeze*
+- **an sich pressen** — *to press; to squeeze*
+
 **Collocations**
 - Saft pressen
 - die Lippen pressen

@@ -34,6 +34,9 @@ status: "new"
 > Vor dem Cent hieß die Währung in Deutschland Pfennig.
 > *Before the cent, the currency in Germany was the pfennig.*
 
+**Phrases & Expressions:**
+- **Vor dem Cent hieß die Währung in Deutschland Pfennig** — *Before the cent, the currency in Germany was the pfennig* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 9a (Veränderungen)
 <!-- bank:end -->
 

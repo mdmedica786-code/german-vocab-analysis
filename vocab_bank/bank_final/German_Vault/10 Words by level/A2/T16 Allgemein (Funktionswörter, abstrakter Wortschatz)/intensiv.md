@@ -31,6 +31,9 @@ status: "new"
 > Ich möchte intensiv Deutsch lernen.
 > *I want to learn German intensively.*
 
+**Phrases & Expressions:**
+- **Ich möchte intensiv Deutsch lernen** — *I want to learn German intensively* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1b (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

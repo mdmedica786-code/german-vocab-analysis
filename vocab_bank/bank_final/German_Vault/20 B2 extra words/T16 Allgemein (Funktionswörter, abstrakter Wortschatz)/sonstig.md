@@ -29,6 +29,11 @@ status: "new"
 > Sonstige Kosten werden nicht erstattet.
 > *Other costs are not reimbursed.*
 
+**Phrases & Expressions:**
+- **sonstige Kosten** — *other; further*
+- **sonstige Einnahmen** — *other; further*
+- **sonstige Angaben** — *other; further*
+
 **Collocations**
 - sonstige Kosten
 - sonstige Einnahmen

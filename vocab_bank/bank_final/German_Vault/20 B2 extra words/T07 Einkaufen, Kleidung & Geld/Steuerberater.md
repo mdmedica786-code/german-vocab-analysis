@@ -33,6 +33,11 @@ status: "new"
 > Ich lasse meine Steuererklärung von einem Steuerberater machen.
 > *I have my tax return done by a tax adviser.*
 
+**Phrases & Expressions:**
+- **zum Steuerberater gehen** — *tax adviser*
+- **einen Steuerberater beauftragen** — *tax adviser*
+- **mein Steuerberater** — *tax adviser*
+
 **Collocations**
 - zum Steuerberater gehen
 - einen Steuerberater beauftragen

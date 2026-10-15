@@ -29,6 +29,10 @@ status: "new"
 > Geben Sie mir bitte Bescheid, wenn Sie angekommen sind.
 > *Please let me know when you have arrived.*
 
+**Phrases & Expressions:**
+- **jemandem Bescheid geben** — *to let someone know*
+- **rechtzeitig Bescheid geben** — *to let someone know*
+
 **Collocations**
 - jemandem Bescheid geben
 - rechtzeitig Bescheid geben

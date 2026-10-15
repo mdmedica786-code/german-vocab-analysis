@@ -33,6 +33,11 @@ status: "new"
 > Die Biologin erforscht das Verhalten von Bienen.
 > *The biologist researches the behaviour of bees.*
 
+**Phrases & Expressions:**
+- **als Biologin arbeiten** — *biologist (female)*
+- **eine bekannte Biologin** — *biologist (female)*
+- **Biologin werden** — *biologist (female)*
+
 **Collocations**
 - als Biologin arbeiten
 - eine bekannte Biologin

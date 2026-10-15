@@ -35,6 +35,9 @@ status: "new"
 > Die Erde hat über acht Milliarden Einwohner.
 > *The Earth has more than eight billion inhabitants.*
 
+**Phrases & Expressions:**
+- **Die Erde hat über acht Milliarden Einwohner** — *The Earth has more than eight billion inhabitants* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

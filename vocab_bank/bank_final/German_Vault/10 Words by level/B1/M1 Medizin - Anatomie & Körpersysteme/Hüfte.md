@@ -33,6 +33,12 @@ status: "new"
 > Die Patientin hat Schmerzen in der rechten Hüfte.
 > *The patient has pain in the right hip.*
 
+**Phrases & Expressions:**
+- **Schmerzen in der Hüfte** — *hip*
+- **künstliche Hüfte** — *hip*
+- **die Hüfte operieren** — *hip*
+- **Hüfte und Knie** — *hip*
+
 **Collocations**
 - Schmerzen in der Hüfte
 - künstliche Hüfte

@@ -33,6 +33,9 @@ status: "new"
 > Er räusperte sich und begann zu sprechen.
 > *He cleared his throat and began to speak.*
 
+**Phrases & Expressions:**
+- **Er räusperte sich und begann zu sprechen** — *He cleared his throat and began to speak* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 10c (Geld regiert die Welt?)
 <!-- bank:end -->
 

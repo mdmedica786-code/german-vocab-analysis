@@ -33,6 +33,11 @@ status: "new"
 > Sie hat einen Stich von einer Wespe bekommen.
 > *She got a sting from a wasp.*
 
+**Phrases & Expressions:**
+- **ein Stich in der Seite** — *sting; stitch; prick*
+- **im Stich lassen** — *sting; stitch; prick*
+- **ein Stich ins Herz** — *sting; stitch; prick*
+
 **Collocations**
 - ein Stich in der Seite
 - im Stich lassen

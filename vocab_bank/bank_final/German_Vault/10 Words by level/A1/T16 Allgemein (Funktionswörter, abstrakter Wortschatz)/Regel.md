@@ -35,6 +35,14 @@ status: "new"
 > Im Straßenverkehr sind viele Regeln zu beachten.
 > *Many rules have to be observed in road traffic.*
 
+**Phrases & Expressions:**
+- **in der Regel** — as a rule; usually *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B1)*
+- **in der Regel nicht** — usually not *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **in der Regel ist ...** — as a rule ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **sind in der Regel ...** — are as a rule ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **in aller Regel** — as a rule *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · C1)*
+- **wird in der Regel ...** — is usually ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+
 **Source:** Netzwerk neu A1 K5 9 (Alltag und Familie) · Goethe word list B1
 <!-- bank:end -->
 

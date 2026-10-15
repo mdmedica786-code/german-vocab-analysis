@@ -34,6 +34,9 @@ status: "new"
 > Mit der Powerbank lade ich unterwegs das Handy.
 > *With the power bank I charge my phone on the go.*
 
+**Phrases & Expressions:**
+- **Mit der Powerbank lade ich unterwegs das Handy** — *With the power bank I charge my phone on the go* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 4a (Das ist ja praktisch!)
 <!-- bank:end -->
 

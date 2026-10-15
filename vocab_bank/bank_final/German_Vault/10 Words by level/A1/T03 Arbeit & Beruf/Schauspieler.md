@@ -35,6 +35,9 @@ status: "new"
 > Der Film war toll. Die Schauspieler waren sehr gut.
 > *The film was great. The actors were very good.*
 
+**Phrases & Expressions:**
+- **Der Film war toll. Die Schauspieler waren sehr gut** — *The film was great. The actors were very good* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

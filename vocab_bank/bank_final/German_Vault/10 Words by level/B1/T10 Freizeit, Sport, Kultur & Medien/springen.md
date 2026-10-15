@@ -33,6 +33,12 @@ status: "new"
 > Wir waren im Schwimmbad. Mein Sohn ist immer wieder ins Wasser gesprungen.
 > *We were at the swimming pool. My son kept jumping into the water.*
 
+**Phrases & Expressions:**
+- **ins Wasser springen** — *to jump*
+- **über einen Zaun springen** — *to jump*
+- **in die Höhe springen** — *to jump*
+- **vom Sprungbrett springen** — *to jump*
+
 **Collocations**
 - ins Wasser springen
 - über einen Zaun springen

@@ -34,6 +34,9 @@ status: "new"
 > Ich setze bei Sonne meine Sonnenbrille auf.
 > *When it is sunny I put on my sunglasses.*
 
+**Phrases & Expressions:**
+- **Ich setze bei Sonne meine Sonnenbrille auf** — *When it is sunny I put on my sunglasses* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1b (Ab in den Urlaub!)
 <!-- bank:end -->
 

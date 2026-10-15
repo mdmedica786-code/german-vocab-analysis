@@ -33,6 +33,11 @@ status: "new"
 > Das Problem hat eine neue Dimension erreicht.
 > *The problem has reached a new dimension.*
 
+**Phrases & Expressions:**
+- **eine neue Dimension** — *dimension; scale*
+- **eine globale Dimension** — *dimension; scale*
+- **in großen Dimensionen** — *dimension; scale*
+
 **Collocations**
 - eine neue Dimension
 - eine globale Dimension

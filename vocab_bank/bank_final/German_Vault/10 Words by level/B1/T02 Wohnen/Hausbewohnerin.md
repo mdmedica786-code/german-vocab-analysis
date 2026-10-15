@@ -34,6 +34,9 @@ status: "new"
 > Die Hausbewohnerin im ersten Stock grüßt immer freundlich.
 > *The resident on the first floor always greets us kindly.*
 
+**Phrases & Expressions:**
+- **Die Hausbewohnerin im ersten Stock grüßt immer freundlich** — *The resident on the first floor always greets us kindly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

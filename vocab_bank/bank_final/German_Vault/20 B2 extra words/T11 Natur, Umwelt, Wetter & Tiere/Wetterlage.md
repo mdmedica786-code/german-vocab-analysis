@@ -33,6 +33,11 @@ status: "new"
 > Die Wetterlage bleibt in den nächsten Tagen stabil.
 > *The weather situation remains stable in the next few days.*
 
+**Phrases & Expressions:**
+- **stabile Wetterlage** — *weather situation*
+- **die Wetterlage ändert sich** — *weather situation*
+- **aktuelle Wetterlage** — *weather situation*
+
 **Collocations**
 - stabile Wetterlage
 - die Wetterlage ändert sich

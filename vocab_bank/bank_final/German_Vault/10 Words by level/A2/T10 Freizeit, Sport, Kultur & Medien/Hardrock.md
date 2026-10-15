@@ -31,6 +31,9 @@ status: "new"
 > Mein Bruder hört gern Hardrock.
 > *My brother likes listening to hard rock.*
 
+**Phrases & Expressions:**
+- **Mein Bruder hört gern Hardrock** — *My brother likes listening to hard rock* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 6b (Gute Unterhaltung!)
 <!-- bank:end -->
 

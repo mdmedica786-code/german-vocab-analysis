@@ -29,6 +29,11 @@ status: "new"
 > Es war leichtsinnig, bei Glatteis so schnell zu fahren.
 > *It was reckless to drive so fast on black ice.*
 
+**Phrases & Expressions:**
+- **leichtsinnig handeln** — *reckless; careless*
+- **leichtsinnig sein** — *reckless; careless*
+- **leichtsinnig fahren** — *reckless; careless*
+
 **Collocations**
 - leichtsinnig handeln
 - leichtsinnig sein

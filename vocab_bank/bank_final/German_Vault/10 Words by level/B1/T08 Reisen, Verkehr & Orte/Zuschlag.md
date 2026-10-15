@@ -34,6 +34,9 @@ status: "new"
 > Für diesen Zug müssen Sie einen Zuschlag zahlen.
 > *For this train you have to pay a surcharge.*
 
+**Phrases & Expressions:**
+- **Für diesen Zug müssen Sie einen Zuschlag zahlen** — *For this train you have to pay a surcharge* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

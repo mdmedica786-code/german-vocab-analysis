@@ -34,6 +34,9 @@ status: "new"
 > Mein Bruder spielt Saxofon in einer Band.
 > *My brother plays the saxophone in a band.*
 
+**Phrases & Expressions:**
+- **Mein Bruder spielt Saxofon in einer Band** — *My brother plays the saxophone in a band* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10b (Alltag und Familie)
 <!-- bank:end -->
 

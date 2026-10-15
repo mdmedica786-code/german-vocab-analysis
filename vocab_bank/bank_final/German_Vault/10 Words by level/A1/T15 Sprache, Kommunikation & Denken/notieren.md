@@ -33,6 +33,10 @@ status: "new"
 > Notieren Sie bitte alle wichtigen Informationen.
 > *Please note down all important information.*
 
+**Phrases & Expressions:**
+- **Messen Sie bitte täglich Ihren Blutdruck und notieren Sie die Werte.** — Please measure your blood pressure daily and note the values. *([[FSP-11 Therapie und Medikamente erklären|Selbstmanagement]] · B2)*
+- **Adrenalin ist gegeben, Uhrzeit ist notiert.** — Adrenaline has been given; the time has been noted. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Closed-Loop-Kommunikation]] · C1)*
+
 **Source:** Netzwerk neu A1 K1 5a (Guten Tag!) · Goethe word list A2
 <!-- bank:end -->
 

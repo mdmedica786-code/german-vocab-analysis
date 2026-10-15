@@ -29,6 +29,11 @@ status: "new"
 > Das Hotel ist ruhig gelegen.
 > *The hotel is quietly situated.*
 
+**Phrases & Expressions:**
+- **zentral gelegen** — *situated; convenient*
+- **ruhig gelegen** — *situated; convenient*
+- **gelegen kommen** — *situated; convenient*
+
 **Collocations**
 - zentral gelegen
 - ruhig gelegen

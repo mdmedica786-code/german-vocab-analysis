@@ -33,6 +33,11 @@ status: "new"
 > Das Ökosystem des Sees ist durch die Verschmutzung gefährdet.
 > *The lake's ecosystem is endangered by the pollution.*
 
+**Phrases & Expressions:**
+- **ein Ökosystem schützen** — *ecosystem*
+- **empfindliches Ökosystem** — *ecosystem*
+- **Ökosysteme erhalten** — *ecosystem*
+
 **Collocations**
 - ein Ökosystem schützen
 - empfindliches Ökosystem

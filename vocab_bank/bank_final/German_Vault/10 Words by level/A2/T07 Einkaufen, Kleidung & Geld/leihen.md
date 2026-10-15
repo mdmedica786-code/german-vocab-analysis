@@ -33,6 +33,9 @@ status: "new"
 > Kannst du mir fünf Euro leihen?
 > *Can you lend me five euros?*
 
+**Phrases & Expressions:**
+- **Kannst du mir fünf Euro leihen** — *Can you lend me five euros* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 6c (Leben in der Stadt) · Goethe word list A2
 <!-- bank:end -->
 

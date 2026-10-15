@@ -30,6 +30,9 @@ status: "new"
 > Der Vertrag wird zweifach ausgedruckt.
 > *The contract is printed in duplicate.*
 
+**Phrases & Expressions:**
+- **Der Vertrag wird zweifach ausgedruckt** — *The contract is printed in duplicate* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

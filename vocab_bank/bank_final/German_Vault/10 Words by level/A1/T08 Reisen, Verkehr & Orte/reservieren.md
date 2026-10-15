@@ -33,6 +33,9 @@ status: "new"
 > Reservieren Sie bitte ein Doppelzimmer.
 > *Please reserve a double room.*
 
+**Phrases & Expressions:**
+- **Reservieren Sie bitte ein Doppelzimmer** — *Please reserve a double room* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 3a ÜB (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Das Verfahren ist unnötig umständlich.
 > *The procedure is needlessly cumbersome.*
 
+**Phrases & Expressions:**
+- **umständlich erklären** — *cumbersome; long-winded*
+- **ein umständlicher Weg** — *cumbersome; long-winded*
+- **umständlich formulieren** — *cumbersome; long-winded*
+
 **Collocations**
 - umständlich erklären
 - ein umständlicher Weg

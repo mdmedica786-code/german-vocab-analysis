@@ -30,6 +30,9 @@ status: "new"
 > Wollen Sie drinnen oder draußen sitzen?
 > *Do you want to sit inside or outside?*
 
+**Phrases & Expressions:**
+- **Wollen Sie drinnen oder draußen sitzen** — *Do you want to sit inside or outside* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

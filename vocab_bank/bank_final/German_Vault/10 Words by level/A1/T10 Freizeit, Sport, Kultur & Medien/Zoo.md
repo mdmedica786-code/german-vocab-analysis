@@ -35,6 +35,9 @@ status: "new"
 > Am Sonntag gehen wir in den Zoo.
 > *On Sunday we're going to the zoo.*
 
+**Phrases & Expressions:**
+- **Am Sonntag gehen wir in den Zoo** — *On Sunday we're going to the zoo* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 5a (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

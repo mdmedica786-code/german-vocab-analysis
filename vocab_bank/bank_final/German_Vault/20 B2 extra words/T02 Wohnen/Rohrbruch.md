@@ -33,6 +33,11 @@ status: "new"
 > Nach einem Rohrbruch stand der Keller unter Wasser.
 > *After a burst pipe the cellar was flooded.*
 
+**Phrases & Expressions:**
+- **einen Rohrbruch melden** — *burst pipe*
+- **Rohrbruch im Keller** — *burst pipe*
+- **wegen eines Rohrbruchs** — *burst pipe*
+
 **Collocations**
 - einen Rohrbruch melden
 - Rohrbruch im Keller

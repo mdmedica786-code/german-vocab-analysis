@@ -33,6 +33,11 @@ status: "new"
 > Am Abend schauen wir eine Comedyserie.
 > *In the evening we watch a comedy series.*
 
+**Phrases & Expressions:**
+- **eine Comedyserie schauen** — *comedy series*
+- **eine beliebte Comedyserie** — *comedy series*
+- **die neue Comedyserie** — *comedy series*
+
 **Collocations**
 - eine Comedyserie schauen
 - eine beliebte Comedyserie

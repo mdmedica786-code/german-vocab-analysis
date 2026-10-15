@@ -34,6 +34,9 @@ status: "new"
 > Die Waschmaschine ist kaputt.
 > *The washing machine is broken.*
 
+**Phrases & Expressions:**
+- **Die Waschmaschine ist kaputt** — *The washing machine is broken* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Der Notausgang ist gleich hier bei der Treppe.
 > *The emergency exit is right here by the stairs.*
 
+**Phrases & Expressions:**
+- **Der Notausgang ist gleich hier bei der Treppe** — *The emergency exit is right here by the stairs* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

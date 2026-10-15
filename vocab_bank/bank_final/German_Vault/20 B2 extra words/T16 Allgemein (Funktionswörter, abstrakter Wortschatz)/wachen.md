@@ -32,6 +32,12 @@ status: "new"
 > Die Mutter wachte die ganze Nacht am Bett des Kindes.
 > *The mother kept watch at the child's bed all night.*
 
+**Phrases & Expressions:**
+- **Wachen Sie nachts mit Luftnot auf?** — Do you wake up at night short of breath? *([[FSP-06 Systemanamnese (Organsysteme)|Atmung]] · B2)*
+- **über etwas wachen** — *to keep watch; to stay awake*
+- **bei jemandem wachen** — *to keep watch; to stay awake*
+- **über die Einhaltung wachen** — *to keep watch; to stay awake*
+
 **Collocations**
 - über etwas wachen
 - bei jemandem wachen

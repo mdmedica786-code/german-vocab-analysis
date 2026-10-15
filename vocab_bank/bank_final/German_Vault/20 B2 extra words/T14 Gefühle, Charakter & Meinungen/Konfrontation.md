@@ -33,6 +33,11 @@ status: "new"
 > Eine Konfrontation mit dem Chef wollte sie vermeiden.
 > *She wanted to avoid a confrontation with the boss.*
 
+**Phrases & Expressions:**
+- **eine Konfrontation vermeiden** — *confrontation*
+- **die Konfrontation suchen** — *confrontation*
+- **die Konfrontation mit** — *confrontation*
+
 **Collocations**
 - eine Konfrontation vermeiden
 - die Konfrontation suchen

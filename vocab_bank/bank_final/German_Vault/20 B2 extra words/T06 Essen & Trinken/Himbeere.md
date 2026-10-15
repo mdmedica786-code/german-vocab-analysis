@@ -33,6 +33,11 @@ status: "new"
 > Zum Frühstück gibt es Joghurt mit Himbeeren.
 > *For breakfast there is yoghurt with raspberries.*
 
+**Phrases & Expressions:**
+- **Himbeeren pflücken** — *raspberry*
+- **Himbeermarmelade** — *raspberry*
+- **frische Himbeeren** — *raspberry*
+
 **Collocations**
 - Himbeeren pflücken
 - Himbeermarmelade

@@ -29,6 +29,10 @@ status: "new"
 > Er sprang über seinen Schatten und entschuldigte sich.
 > *He overcame his reluctance and apologised.*
 
+**Phrases & Expressions:**
+- **über den eigenen Schatten springen** — *to overcome one's own reluctance*
+- **sich überwinden** — *to overcome one's own reluctance*
+
 **Collocations**
 - über den eigenen Schatten springen
 - sich überwinden

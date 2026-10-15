@@ -35,6 +35,9 @@ status: "new"
 > Die Verletzten werden ins Krankenhaus gebracht.
 > *The injured are taken to hospital.*
 
+**Phrases & Expressions:**
+- **Die Verletzten werden ins Krankenhaus gebracht** — *The injured are taken to hospital* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13b (Fit und gesund)
 <!-- bank:end -->
 

@@ -33,6 +33,14 @@ status: "new"
 > Ich habe Roberto gleich an seiner Stimme erkannt.
 > *I recognised Roberto straight away by his voice.*
 
+**Phrases & Expressions:**
+- **erkennen, dass ...** — to realise that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **zu erkennen, dass ...** — to realise that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **Insgesamt lässt sich eine positive Entwicklung erkennen.** — Overall a positive development can be seen. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Entwicklung zusammenfassen]] · B2)*
+- **jemanden an der Stimme erkennen** — *to recognise; to realise*
+- **einen Fehler erkennen** — *to recognise; to realise*
+- **die Situation erkennen** — *to recognise; to realise*
+
 **Collocations**
 - jemanden an der Stimme erkennen
 - einen Fehler erkennen

@@ -34,6 +34,9 @@ status: "new"
 > Im Fitnessraum stehen viele Fitnessgeräte.
 > *There is a lot of fitness equipment in the gym.*
 
+**Phrases & Expressions:**
+- **Im Fitnessraum stehen viele Fitnessgeräte** — *There is a lot of fitness equipment in the gym* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

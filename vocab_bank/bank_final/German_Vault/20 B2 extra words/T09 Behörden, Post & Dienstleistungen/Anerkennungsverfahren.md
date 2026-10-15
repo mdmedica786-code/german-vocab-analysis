@@ -33,6 +33,11 @@ status: "new"
 > Das Anerkennungsverfahren für ausländische Abschlüsse dauert oft Monate.
 > *The recognition procedure for foreign qualifications often takes months.*
 
+**Phrases & Expressions:**
+- **ein Anerkennungsverfahren durchlaufen** — *recognition procedure*
+- **Anerkennungsverfahren beantragen** — *recognition procedure*
+- **Dauer des Anerkennungsverfahrens** — *recognition procedure*
+
 **Collocations**
 - ein Anerkennungsverfahren durchlaufen
 - Anerkennungsverfahren beantragen

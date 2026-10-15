@@ -31,6 +31,9 @@ status: "new"
 > [!example] Beispiel
 > Die Stadt verwandelt sich im Winter in ein Märchenland.
 > *In winter the city transforms into a fairy-tale land.*
+
+**Phrases & Expressions:**
+- **Die Stadt verwandelt sich im Winter in ein Märchenland** — *In winter the city transforms into a fairy-tale land* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

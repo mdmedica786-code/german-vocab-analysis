@@ -33,6 +33,11 @@ status: "new"
 > Deutschland ist ein Rechtsstaat.
 > *Germany is a state governed by the rule of law.*
 
+**Phrases & Expressions:**
+- **im Rechtsstaat** — *state governed by the rule of law*
+- **Rechtsstaat verteidigen** — *state governed by the rule of law*
+- **demokratischer Rechtsstaat** — *state governed by the rule of law*
+
 **Collocations**
 - im Rechtsstaat
 - Rechtsstaat verteidigen

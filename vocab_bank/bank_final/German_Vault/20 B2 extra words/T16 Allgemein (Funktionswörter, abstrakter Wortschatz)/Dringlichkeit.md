@@ -33,6 +33,11 @@ status: "new"
 > Die Dringlichkeit des Problems wurde unterschätzt.
 > *The urgency of the problem was underestimated.*
 
+**Phrases & Expressions:**
+- **von großer Dringlichkeit** — *urgency*
+- **die Dringlichkeit betonen** — *urgency*
+- **Dringlichkeit erkennen** — *urgency*
+
 **Collocations**
 - von großer Dringlichkeit
 - die Dringlichkeit betonen

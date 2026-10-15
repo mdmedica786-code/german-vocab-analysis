@@ -32,6 +32,9 @@ status: "new"
 > Drei plus vier ist sieben.
 > *Three plus four is seven.*
 
+**Phrases & Expressions:**
+- **Drei plus vier ist sieben** — *Three plus four is seven* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10c (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

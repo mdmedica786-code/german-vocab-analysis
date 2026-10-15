@@ -29,6 +29,11 @@ status: "new"
 > Die routinierte Pilotin landete das Flugzeug sicher.
 > *The experienced pilot landed the plane safely.*
 
+**Phrases & Expressions:**
+- **routiniert wirken** — *experienced; practised; skilful*
+- **ein routinierter Fahrer** — *experienced; practised; skilful*
+- **routiniert arbeiten** — *experienced; practised; skilful*
+
 **Collocations**
 - routiniert wirken
 - ein routinierter Fahrer

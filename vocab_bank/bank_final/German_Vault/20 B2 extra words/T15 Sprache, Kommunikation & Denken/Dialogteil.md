@@ -30,6 +30,11 @@ status: "new"
 > Im Dialogteil üben wir Gespräche in Alltagssituationen.
 > *In the dialogue part we practise conversations in everyday situations.*
 
+**Phrases & Expressions:**
+- **der Dialogteil der Prüfung** — *dialogue part; part of a dialogue*
+- **im Dialogteil** — *dialogue part; part of a dialogue*
+- **den Dialogteil üben** — *dialogue part; part of a dialogue*
+
 **Collocations**
 - der Dialogteil der Prüfung
 - im Dialogteil

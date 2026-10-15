@@ -34,6 +34,9 @@ status: "new"
 > Mein Schulweg dauert zehn Minuten.
 > *My way to school takes ten minutes.*
 
+**Phrases & Expressions:**
+- **Mein Schulweg dauert zehn Minuten** — *My way to school takes ten minutes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 5a (Nach der Schulzeit)
 <!-- bank:end -->
 

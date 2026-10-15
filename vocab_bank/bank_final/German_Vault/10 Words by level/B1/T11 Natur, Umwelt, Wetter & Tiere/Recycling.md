@@ -34,6 +34,9 @@ status: "new"
 > Recycling schont die Umwelt.
 > *Recycling protects the environment.*
 
+**Phrases & Expressions:**
+- **Recycling schont die Umwelt** — *Recycling protects the environment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2a (Umweltfreundlich?)
 <!-- bank:end -->
 

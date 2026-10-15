@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Wir gewährleisten die Sicherheit der Patienten.
 > *We ensure the safety of the patients.*
+
+**Phrases & Expressions:**
+- **Wir gewährleisten die Sicherheit der Patienten** — *We ensure the safety of the patients* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

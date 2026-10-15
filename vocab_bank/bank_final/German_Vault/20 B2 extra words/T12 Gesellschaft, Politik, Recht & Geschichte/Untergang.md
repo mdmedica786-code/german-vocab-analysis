@@ -33,6 +33,11 @@ status: "new"
 > Der Untergang des Schiffes wurde gefilmt.
 > *The sinking of the ship was filmed.*
 
+**Phrases & Expressions:**
+- **der Untergang des Römischen Reiches** — *downfall; sinking; sunset*
+- **vom Untergang bedroht** — *downfall; sinking; sunset*
+- **dem Untergang geweiht** — *downfall; sinking; sunset*
+
 **Collocations**
 - der Untergang des Römischen Reiches
 - vom Untergang bedroht

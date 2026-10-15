@@ -31,6 +31,13 @@ status: "new"
 > Ich bin erkältet, daher kann ich heute nicht kommen.
 > *I have a cold, so I can't come today.*
 
+**Phrases & Expressions:**
+- **Ich komme daher zu dem Schluss, dass ...** — I therefore come to the conclusion that ... *([[B2-08 Zusammenfassen, Fazit und Schlussfolgerung|Schlussfolgerung ziehen]] · B2)*
+- **Dieses Medikament kann müde machen, fahren Sie daher nicht selbst Auto.** — This medicine can make you tired, so don't drive yourself. *([[FSP-11 Therapie und Medikamente erklären|Nebenwirkungen erklären]] · B2)*
+- **daher kommen** — *therefore; from there*
+- **von daher** — *therefore; from there*
+- **daher auch** — *therefore; from there*
+
 **Collocations**
 - daher kommen
 - von daher

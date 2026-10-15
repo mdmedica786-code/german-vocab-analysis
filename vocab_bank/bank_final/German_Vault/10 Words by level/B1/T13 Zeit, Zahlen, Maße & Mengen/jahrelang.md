@@ -30,6 +30,9 @@ status: "new"
 > Er hat jahrelang in Köln gelebt.
 > *He lived in Cologne for years.*
 
+**Phrases & Expressions:**
+- **Er hat jahrelang in Köln gelebt** — *He lived in Cologne for years* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 9a (Veränderungen)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Was machen wir mit deinem alten Apparat?
 > *What shall we do with your old device?*
 
+**Phrases & Expressions:**
+- **Was machen wir mit deinem alten Apparat** — *What shall we do with your old device* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist) · Goethe word list A2
 <!-- bank:end -->
 

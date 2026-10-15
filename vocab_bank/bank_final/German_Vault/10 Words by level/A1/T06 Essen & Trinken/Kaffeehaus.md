@@ -35,6 +35,9 @@ status: "new"
 > Hier in der Nähe ist ein Kaffeehaus.
 > *There is a coffee house near here.*
 
+**Phrases & Expressions:**
+- **Hier in der Nähe ist ein Kaffeehaus** — *There is a coffee house near here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden) · Goethe word list B1
 <!-- bank:end -->
 

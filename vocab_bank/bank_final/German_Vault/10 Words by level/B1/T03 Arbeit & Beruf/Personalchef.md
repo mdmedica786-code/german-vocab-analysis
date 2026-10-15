@@ -34,6 +34,9 @@ status: "new"
 > Der Personalchef führt die Vorstellungsgespräche.
 > *The HR manager conducts the job interviews.*
 
+**Phrases & Expressions:**
+- **Der Personalchef führt die Vorstellungsgespräche** — *The HR manager conducts the job interviews* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

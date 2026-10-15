@@ -34,6 +34,9 @@ status: "new"
 > Du irrst dich. Das Auto war nicht grün, sondern rot.
 > *You are wrong. The car was not green but red.*
 
+**Phrases & Expressions:**
+- **Falls ich mich nicht irre, ...** — If I'm not mistaken, ... *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Annahme überprüfen]] · B2)*
+
 **Source:** Netzwerk neu B1 K4 6c (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

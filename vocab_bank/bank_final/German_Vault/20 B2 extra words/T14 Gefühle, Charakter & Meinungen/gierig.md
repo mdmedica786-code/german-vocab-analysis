@@ -29,6 +29,11 @@ status: "new"
 > Der Mann ist gierig nach Geld.
 > *The man is greedy for money.*
 
+**Phrases & Expressions:**
+- **gierig sein nach** — *greedy*
+- **gierig essen** — *greedy*
+- **ein gieriger Blick** — *greedy*
+
 **Collocations**
 - gierig sein nach
 - gierig essen

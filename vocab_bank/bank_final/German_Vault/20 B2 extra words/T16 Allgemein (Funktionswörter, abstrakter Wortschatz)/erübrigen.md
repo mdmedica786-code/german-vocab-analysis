@@ -32,6 +32,11 @@ status: "new"
 > Eine weitere Diskussion erübrigt sich.
 > *Further discussion is unnecessary.*
 
+**Phrases & Expressions:**
+- **sich erübrigen** — *to be unnecessary; to spare*
+- **das erübrigt sich** — *to be unnecessary; to spare*
+- **Zeit erübrigen** — *to be unnecessary; to spare*
+
 **Collocations**
 - sich erübrigen
 - das erübrigt sich

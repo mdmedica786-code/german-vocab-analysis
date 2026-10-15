@@ -33,6 +33,11 @@ status: "new"
 > Der Klimawandel ist eine ernste Bedrohung.
 > *Climate change is a serious threat.*
 
+**Phrases & Expressions:**
+- **eine Bedrohung darstellen** — *threat*
+- **eine akute Bedrohung** — *threat*
+- **eine Bedrohung für die Sicherheit** — *threat*
+
 **Collocations**
 - eine Bedrohung darstellen
 - eine akute Bedrohung

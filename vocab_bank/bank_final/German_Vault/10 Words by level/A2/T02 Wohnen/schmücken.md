@@ -32,6 +32,9 @@ status: "new"
 > Wir schmücken den Weihnachtsbaum.
 > *We are decorating the Christmas tree.*
 
+**Phrases & Expressions:**
+- **Wir schmücken den Weihnachtsbaum** — *We are decorating the Christmas tree* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle)
 <!-- bank:end -->
 

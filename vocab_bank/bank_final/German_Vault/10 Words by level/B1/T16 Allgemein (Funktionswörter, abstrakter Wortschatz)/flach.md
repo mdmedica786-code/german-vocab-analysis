@@ -30,6 +30,9 @@ status: "new"
 > Für die Arbeit brauche ich flache Schuhe.
 > *I need flat shoes for work.*
 
+**Phrases & Expressions:**
+- **Für die Arbeit brauche ich flache Schuhe** — *I need flat shoes for work* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

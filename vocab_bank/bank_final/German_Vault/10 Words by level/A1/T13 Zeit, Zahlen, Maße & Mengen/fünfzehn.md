@@ -31,6 +31,9 @@ status: "new"
 > Der Kurs dauert fünfzehn Wochen.
 > *The course lasts fifteen weeks.*
 
+**Phrases & Expressions:**
+- **Der Kurs dauert fünfzehn Wochen** — *The course lasts fifteen weeks* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

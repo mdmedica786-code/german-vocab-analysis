@@ -33,6 +33,11 @@ status: "new"
 > Die Museumsbibliothek ist nur nach Anmeldung geöffnet.
 > *The museum library is only open by appointment.*
 
+**Phrases & Expressions:**
+- **in der Museumsbibliothek** — *museum library*
+- **die Museumsbibliothek nutzen** — *museum library*
+- **eine Museumsbibliothek besuchen** — *museum library*
+
 **Collocations**
 - in der Museumsbibliothek
 - die Museumsbibliothek nutzen

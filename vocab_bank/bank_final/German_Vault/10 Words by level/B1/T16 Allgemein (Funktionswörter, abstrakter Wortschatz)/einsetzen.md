@@ -35,6 +35,12 @@ status: "new"
 > Du musst zuerst die Batterie ins Handy einsetzen.
 > *First you have to insert the battery into the phone.*
 
+**Phrases & Expressions:**
+- **Geld einsetzen** — *to insert; to use; to appoint*
+- **sich für etwas einsetzen** — *to insert; to use; to appoint*
+- **Personal einsetzen** — *to insert; to use; to appoint*
+- **ein Medikament einsetzen** — *to insert; to use; to appoint*
+
 **Collocations**
 - Geld einsetzen
 - sich für etwas einsetzen

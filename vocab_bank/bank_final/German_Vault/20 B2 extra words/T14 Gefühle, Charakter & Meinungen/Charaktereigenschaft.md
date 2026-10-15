@@ -33,6 +33,11 @@ status: "new"
 > Ehrlichkeit ist eine wichtige Charaktereigenschaft.
 > *Honesty is an important character trait.*
 
+**Phrases & Expressions:**
+- **eine positive Charaktereigenschaft** — *character trait*
+- **Charaktereigenschaften beschreiben** — *character trait*
+- **eine typische Charaktereigenschaft** — *character trait*
+
 **Collocations**
 - eine positive Charaktereigenschaft
 - Charaktereigenschaften beschreiben

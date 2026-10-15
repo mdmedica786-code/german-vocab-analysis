@@ -35,6 +35,9 @@ status: "new"
 > Meine Tochter nimmt meine Ratschläge nicht an.
 > *My daughter doesn't accept my advice.*
 
+**Phrases & Expressions:**
+- **Meine Tochter nimmt meine Ratschläge nicht an** — *My daughter doesn't accept my advice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 4b (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

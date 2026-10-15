@@ -33,6 +33,11 @@ status: "new"
 > Die Zeitung deckte Missstände im Pflegeheim auf.
 > *The newspaper uncovered abuses in the care home.*
 
+**Phrases & Expressions:**
+- **Missstände aufdecken** — *grievance; abuse; problem*
+- **Missstände beseitigen** — *grievance; abuse; problem*
+- **soziale Missstände** — *grievance; abuse; problem*
+
 **Collocations**
 - Missstände aufdecken
 - Missstände beseitigen

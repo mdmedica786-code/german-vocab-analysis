@@ -35,6 +35,9 @@ status: "new"
 > Hast du eine Bürste? Meine Schuhe sind so schmutzig.
 > *Do you have a brush? My shoes are so dirty.*
 
+**Phrases & Expressions:**
+- **Hast du eine Bürste? Meine Schuhe sind so schmutzig** — *Do you have a brush? My shoes are so dirty* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 6a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

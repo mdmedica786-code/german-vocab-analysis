@@ -34,6 +34,9 @@ status: "new"
 > Schreiben Sie zu jedem Absatz ein Stichwort.
 > *Write a keyword for each paragraph.*
 
+**Phrases & Expressions:**
+- **Schreiben Sie zu jedem Absatz ein Stichwort** — *Write a keyword for each paragraph* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 5a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

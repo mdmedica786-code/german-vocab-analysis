@@ -31,6 +31,11 @@ status: "new"
 > Wir sollten unser Verhalten kritisch reflektieren.
 > *We should critically reflect on our behaviour.*
 
+**Phrases & Expressions:**
+- **über etwas reflektieren** — *to reflect; to think about*
+- **Licht reflektieren** — *to reflect; to think about*
+- **kritisch reflektieren** — *to reflect; to think about*
+
 **Collocations**
 - über etwas reflektieren
 - Licht reflektieren

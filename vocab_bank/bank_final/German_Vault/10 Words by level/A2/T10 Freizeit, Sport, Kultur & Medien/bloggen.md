@@ -33,6 +33,9 @@ status: "new"
 > Meine Schwester bloggt über ihre Reisen.
 > *My sister blogs about her trips.*
 
+**Phrases & Expressions:**
+- **Meine Schwester bloggt über ihre Reisen** — *My sister blogs about her trips* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 3 (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

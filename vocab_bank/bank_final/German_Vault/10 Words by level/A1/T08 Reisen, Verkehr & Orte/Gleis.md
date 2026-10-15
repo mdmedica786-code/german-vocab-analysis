@@ -35,6 +35,9 @@ status: "new"
 > Der ICE nach Berlin hält heute an Gleis 12.
 > *The ICE to Berlin stops at platform 12 today.*
 
+**Phrases & Expressions:**
+- **Der ICE nach Berlin hält heute an Gleis 12** — *The ICE to Berlin stops at platform 12 today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 4b ÜB (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

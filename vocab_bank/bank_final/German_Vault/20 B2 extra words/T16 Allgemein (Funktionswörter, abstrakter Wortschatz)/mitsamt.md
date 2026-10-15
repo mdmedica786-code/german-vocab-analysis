@@ -30,6 +30,10 @@ status: "new"
 > Er zog mitsamt seiner Familie nach Hamburg.
 > *He moved to Hamburg together with his family.*
 
+**Phrases & Expressions:**
+- **mitsamt Gepäck** — *together with; including*
+- **mitsamt Inventar** — *together with; including*
+
 **Collocations**
 - mitsamt Gepäck
 - mitsamt Inventar

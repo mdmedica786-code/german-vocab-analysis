@@ -35,6 +35,9 @@ status: "new"
 > Er arbeitet jetzt bei einer anderen Firma.
 > *He now works for another company.*
 
+**Phrases & Expressions:**
+- **Er arbeitet jetzt bei einer anderen Firma** — *He now works for another company* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

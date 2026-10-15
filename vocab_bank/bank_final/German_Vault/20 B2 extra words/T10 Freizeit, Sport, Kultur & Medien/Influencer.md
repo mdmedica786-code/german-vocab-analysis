@@ -33,6 +33,11 @@ status: "new"
 > Viele Jugendliche folgen einem Influencer auf Instagram.
 > *Many teenagers follow an influencer on Instagram.*
 
+**Phrases & Expressions:**
+- **einem Influencer folgen** — *influencer*
+- **ein bekannter Influencer** — *influencer*
+- **als Influencer arbeiten** — *influencer*
+
 **Collocations**
 - einem Influencer folgen
 - ein bekannter Influencer

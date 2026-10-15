@@ -35,6 +35,9 @@ status: "new"
 > Mein Nachbar ist ein netter Typ.
 > *My neighbour is a nice guy.*
 
+**Phrases & Expressions:**
+- **Vorerkrankungen: arterielle Hypertonie, Diabetes mellitus Typ 2.** — Previous illnesses: arterial hypertension, type 2 diabetes mellitus. *([[FSP-20 Arztbrief und Dokumentation|Vorerkrankungen nennen]] · C1)*
+
 **Source:** Netzwerk neu B1 K1 3b (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

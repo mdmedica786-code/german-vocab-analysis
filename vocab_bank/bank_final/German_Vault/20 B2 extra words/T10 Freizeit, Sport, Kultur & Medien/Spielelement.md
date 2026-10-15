@@ -33,6 +33,11 @@ status: "new"
 > Die App nutzt Spielelemente, um Nutzer zu motivieren.
 > *The app uses game elements to motivate users.*
 
+**Phrases & Expressions:**
+- **Spielelemente einsetzen** — *game element; gaming element*
+- **digitale Spielelemente** — *game element; gaming element*
+- **ein typisches Spielelement** — *game element; gaming element*
+
 **Collocations**
 - Spielelemente einsetzen
 - digitale Spielelemente

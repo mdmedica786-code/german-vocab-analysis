@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Der Marketing-Bericht liegt auf dem Tisch.
 > *The marketing report is on the table.*
+
+**Phrases & Expressions:**
+- **Der Marketing-Bericht liegt auf dem Tisch** — *The marketing report is on the table* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

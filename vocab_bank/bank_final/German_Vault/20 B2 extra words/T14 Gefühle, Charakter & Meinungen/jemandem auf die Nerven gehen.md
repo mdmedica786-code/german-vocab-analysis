@@ -26,6 +26,11 @@ status: "new"
 > Der ständige Lärm geht mir auf die Nerven.
 > *The constant noise gets on my nerves.*
 
+**Phrases & Expressions:**
+- **auf die Nerven gehen** — *to get on someone's nerves*
+- **jemandem auf die Nerven fallen** — *to get on someone's nerves*
+- **die Nerven verlieren** — *to get on someone's nerves*
+
 **Collocations**
 - auf die Nerven gehen
 - jemandem auf die Nerven fallen

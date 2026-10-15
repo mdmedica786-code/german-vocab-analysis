@@ -33,6 +33,11 @@ status: "new"
 > Die Bahn bietet im Fernverkehr neue Verbindungen an.
 > *The railway offers new connections in long-distance transport.*
 
+**Phrases & Expressions:**
+- **im Fernverkehr** — *long-distance transport*
+- **Nah- und Fernverkehr** — *long-distance transport*
+- **der Fernverkehr der Bahn** — *long-distance transport*
+
 **Collocations**
 - im Fernverkehr
 - Nah- und Fernverkehr

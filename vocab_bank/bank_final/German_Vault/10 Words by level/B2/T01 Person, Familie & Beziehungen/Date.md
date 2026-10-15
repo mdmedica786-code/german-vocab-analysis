@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Heute Abend habe ich ein Date.
 > *Tonight I have a date.*
+
+**Phrases & Expressions:**
+- **Heute Abend habe ich ein Date** — *Tonight I have a date* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

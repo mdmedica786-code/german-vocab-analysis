@@ -35,6 +35,10 @@ status: "new"
 > In Mannheim haben Sie Anschluss nach Saarbrücken.
 > *In Mannheim you have a connection to Saarbrücken.*
 
+**Phrases & Expressions:**
+- **im Anschluss an ...** — following ... *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · C1)*
+- **im Anschluss** — afterwards; subsequently *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B2)*
+
 **Source:** Netzwerk neu A1 K10 12 (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

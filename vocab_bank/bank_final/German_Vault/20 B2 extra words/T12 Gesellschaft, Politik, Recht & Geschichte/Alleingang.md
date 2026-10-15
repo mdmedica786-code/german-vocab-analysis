@@ -33,6 +33,11 @@ status: "new"
 > Der Minister startete einen Alleingang, ohne die Partner zu fragen.
 > *The minister went it alone without asking the partners.*
 
+**Phrases & Expressions:**
+- **im Alleingang** — *solo effort; going it alone*
+- **einen Alleingang wagen** — *solo effort; going it alone*
+- **Alleingang vermeiden** — *solo effort; going it alone*
+
 **Collocations**
 - im Alleingang
 - einen Alleingang wagen

@@ -35,6 +35,9 @@ status: "new"
 > Ich möchte gerne Vollzeit arbeiten.
 > *I'd like to work full-time.*
 
+**Phrases & Expressions:**
+- **Ich möchte gerne Vollzeit arbeiten** — *I'd like to work full-time* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

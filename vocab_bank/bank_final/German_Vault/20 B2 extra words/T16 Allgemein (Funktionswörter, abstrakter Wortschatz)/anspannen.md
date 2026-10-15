@@ -32,6 +32,11 @@ status: "new"
 > Er spannte alle Muskeln an.
 > *He tensed all his muscles.*
 
+**Phrases & Expressions:**
+- **die Muskeln anspannen** — *to tense; to harness*
+- **die Pferde anspannen** — *to tense; to harness*
+- **angespannt sein** — *to tense; to harness*
+
 **Collocations**
 - die Muskeln anspannen
 - die Pferde anspannen

@@ -34,6 +34,9 @@ status: "new"
 > Wo kann ich mein Diplom abholen?
 > *Where can I pick up my diploma?*
 
+**Phrases & Expressions:**
+- **Wo kann ich mein Diplom abholen** — *Where can I pick up my diploma* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

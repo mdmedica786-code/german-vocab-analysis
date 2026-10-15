@@ -33,6 +33,11 @@ status: "new"
 > Das Verkehrssystem der Hauptstadt ist sehr effizient.
 > *The capital's transport system is very efficient.*
 
+**Phrases & Expressions:**
+- **ein modernes Verkehrssystem** — *transport system*
+- **das Verkehrssystem verbessern** — *transport system*
+- **ein öffentliches Verkehrssystem** — *transport system*
+
 **Collocations**
 - ein modernes Verkehrssystem
 - das Verkehrssystem verbessern

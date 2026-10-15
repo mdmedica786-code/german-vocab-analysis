@@ -31,6 +31,12 @@ status: "new"
 > In der Stadt fahre ich immer mit öffentlichen Verkehrsmitteln.
 > *In the city I always use public transport.*
 
+**Phrases & Expressions:**
+- **öffentliche Verkehrsmittel** — *public*
+- **öffentlicher Dienst** — *public*
+- **öffentlich bekannt** — *public*
+- **in der Öffentlichkeit** — *public*
+
 **Collocations**
 - öffentliche Verkehrsmittel
 - öffentlicher Dienst

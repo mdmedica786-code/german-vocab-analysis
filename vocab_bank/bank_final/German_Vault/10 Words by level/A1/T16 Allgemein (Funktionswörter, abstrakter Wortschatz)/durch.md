@@ -33,6 +33,9 @@ status: "new"
 > Die Stelle habe ich durch ein Job-Portal gefunden.
 > *I found the position through a job portal.*
 
+**Phrases & Expressions:**
+- **Bitte atmen Sie kurz durch, dann klären wir alles.** — Please take a deep breath, then we will sort everything out. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Aufgebrachte beruhigen]] · B2)*
+
 **Source:** Netzwerk neu A1 K2 5b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

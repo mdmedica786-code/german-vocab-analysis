@@ -30,6 +30,9 @@ status: "new"
 > Herein! Die Tür ist offen.
 > *Come in! The door is open.*
 
+**Phrases & Expressions:**
+- **Herein! Die Tür ist offen** — *Come in! The door is open* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

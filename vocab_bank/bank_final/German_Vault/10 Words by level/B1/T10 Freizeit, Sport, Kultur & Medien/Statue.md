@@ -34,6 +34,9 @@ status: "new"
 > Auf dem Platz steht eine alte Statue.
 > *There is an old statue on the square.*
 
+**Phrases & Expressions:**
+- **Auf dem Platz steht eine alte Statue** — *There is an old statue on the square* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 1b (Kunststücke)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Das ist eine potenzielle Gefahr.
 > *That is a potential danger.*
 
+**Phrases & Expressions:**
+- **potenzielle Kunden** — *potential*
+- **potenziell gefährlich** — *potential*
+- **ein potenzieller Käufer** — *potential*
+
 **Collocations**
 - potenzielle Kunden
 - potenziell gefährlich

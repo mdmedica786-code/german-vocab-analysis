@@ -33,6 +33,12 @@ status: "new"
 > Der Arzt sagt, ich soll Stress vermeiden.
 > *The doctor says I should avoid stress.*
 
+**Phrases & Expressions:**
+- **Stress vermeiden** — *to avoid*
+- **Fehler vermeiden** — *to avoid*
+- **Kontakt vermeiden** — *to avoid*
+- **vermeiden, dass ...** — *to avoid*
+
 **Collocations**
 - Stress vermeiden
 - Fehler vermeiden

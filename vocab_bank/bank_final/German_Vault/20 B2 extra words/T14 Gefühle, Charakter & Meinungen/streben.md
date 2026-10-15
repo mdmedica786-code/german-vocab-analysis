@@ -32,6 +32,11 @@ status: "new"
 > Er strebt nach Erfolg und Anerkennung.
 > *He strives for success and recognition.*
 
+**Phrases & Expressions:**
+- **nach etwas streben** — *to strive; to aspire*
+- **nach Glück streben** — *to strive; to aspire*
+- **nach Höherem streben** — *to strive; to aspire*
+
 **Collocations**
 - nach etwas streben
 - nach Glück streben

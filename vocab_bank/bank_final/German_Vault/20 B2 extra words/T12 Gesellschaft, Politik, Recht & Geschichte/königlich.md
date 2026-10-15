@@ -29,6 +29,11 @@ status: "new"
 > Die königliche Familie besuchte die Stadt.
 > *The royal family visited the city.*
 
+**Phrases & Expressions:**
+- **die königliche Familie** — *royal*
+- **königlich empfangen** — *royal*
+- **ein königlicher Palast** — *royal*
+
 **Collocations**
 - die königliche Familie
 - königlich empfangen

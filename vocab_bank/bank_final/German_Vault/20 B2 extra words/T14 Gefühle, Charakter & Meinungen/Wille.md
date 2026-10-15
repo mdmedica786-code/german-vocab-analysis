@@ -33,6 +33,11 @@ status: "new"
 > Es war sein freier Wille, das zu tun.
 > *It was his free will to do it.*
 
+**Phrases & Expressions:**
+- **der freie Wille** — *will; intention*
+- **gegen jemandes Willen** — *will; intention*
+- **mit gutem Willen** — *will; intention*
+
 **Collocations**
 - der freie Wille
 - gegen jemandes Willen

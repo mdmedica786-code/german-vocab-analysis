@@ -29,6 +29,11 @@ status: "new"
 > Der Schüler schaute gelangweilt aus dem Fenster.
 > *The pupil looked out of the window, bored.*
 
+**Phrases & Expressions:**
+- **gelangweilt sein** — *bored*
+- **gelangweilt aussehen** — *bored*
+- **gelangweilt gähnen** — *bored*
+
 **Collocations**
 - gelangweilt sein
 - gelangweilt aussehen

@@ -33,6 +33,11 @@ status: "new"
 > Der Tunnel ist fünf Kilometer lang.
 > *The tunnel is five kilometres long.*
 
+**Phrases & Expressions:**
+- **durch einen Tunnel fahren** — *tunnel*
+- **der Tunnel ist gesperrt** — *tunnel*
+- **ein Tunnel unter dem Berg** — *tunnel*
+
 **Collocations**
 - durch einen Tunnel fahren
 - der Tunnel ist gesperrt

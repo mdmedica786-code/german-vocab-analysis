@@ -32,6 +32,11 @@ status: "new"
 > Die Kosten belaufen sich auf 500 Euro.
 > *The costs amount to 500 euros.*
 
+**Phrases & Expressions:**
+- **sich auf etwas belaufen** — *to amount to*
+- **sich insgesamt belaufen** — *to amount to*
+- **die Summe beläuft sich auf** — *to amount to*
+
 **Collocations**
 - sich auf etwas belaufen
 - sich insgesamt belaufen

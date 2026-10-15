@@ -30,6 +30,11 @@ status: "new"
 > Im Jugendclub treffen sich die Jugendlichen nach der Schule.
 > *At the youth club the young people meet after school.*
 
+**Phrases & Expressions:**
+- **im Jugendclub** — *youth club*
+- **einen Jugendclub besuchen** — *youth club*
+- **ein Jugendclub im Stadtteil** — *youth club*
+
 **Collocations**
 - im Jugendclub
 - einen Jugendclub besuchen

@@ -33,6 +33,11 @@ status: "new"
 > Mitarbeiter wünschen sich mehr Wertschätzung.
 > *Employees would like more appreciation.*
 
+**Phrases & Expressions:**
+- **Wertschätzung zeigen** — *appreciation; esteem*
+- **Wertschätzung erfahren** — *appreciation; esteem*
+- **mit Wertschätzung** — *appreciation; esteem*
+
 **Collocations**
 - Wertschätzung zeigen
 - Wertschätzung erfahren

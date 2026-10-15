@@ -31,6 +31,11 @@ status: "new"
 > Die Polizei hat die Wohnung durchsucht.
 > *The police searched the flat.*
 
+**Phrases & Expressions:**
+- **eine Wohnung durchsuchen** — *to search; to go through*
+- **Taschen durchsuchen** — *to search; to go through*
+- **das Gepäck durchsuchen** — *to search; to go through*
+
 **Collocations**
 - eine Wohnung durchsuchen
 - Taschen durchsuchen

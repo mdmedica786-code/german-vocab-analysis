@@ -34,6 +34,9 @@ status: "new"
 > Im Supermarkt gibt es viel Verpackungsmüll.
 > *In the supermarket there is a lot of packaging waste.*
 
+**Phrases & Expressions:**
+- **Im Supermarkt gibt es viel Verpackungsmüll** — *In the supermarket there is a lot of packaging waste* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 1a (Umweltfreundlich?)
 <!-- bank:end -->
 

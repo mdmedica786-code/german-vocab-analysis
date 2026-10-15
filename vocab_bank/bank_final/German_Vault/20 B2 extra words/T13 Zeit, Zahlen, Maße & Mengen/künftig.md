@@ -29,6 +29,11 @@ status: "new"
 > Künftig gelten für alle neue Regeln.
 > *In future new rules apply to everyone.*
 
+**Phrases & Expressions:**
+- **künftige Generationen** — *future; in future*
+- **in künftigen Fällen** — *future; in future*
+- **künftig vermeiden** — *future; in future*
+
 **Collocations**
 - künftige Generationen
 - in künftigen Fällen

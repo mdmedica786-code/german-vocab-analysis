@@ -33,6 +33,11 @@ status: "new"
 > Nach der Schicht müssen elf Stunden Ruhezeit eingehalten werden.
 > *After the shift eleven hours of rest period must be observed.*
 
+**Phrases & Expressions:**
+- **die Ruhezeit einhalten** — *rest period; quiet hours*
+- **gesetzliche Ruhezeiten** — *rest period; quiet hours*
+- **die Ruhezeit beginnt** — *rest period; quiet hours*
+
 **Collocations**
 - die Ruhezeit einhalten
 - gesetzliche Ruhezeiten

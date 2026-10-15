@@ -33,6 +33,11 @@ status: "new"
 > Auf der Autobahn herrschte ein totales Chaos.
 > *Total chaos reigned on the motorway.*
 
+**Phrases & Expressions:**
+- **ein totales Chaos** — *chaos*
+- **Chaos verursachen** — *chaos*
+- **Chaos anrichten** — *chaos*
+
 **Collocations**
 - ein totales Chaos
 - Chaos verursachen

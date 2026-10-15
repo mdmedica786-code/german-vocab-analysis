@@ -29,6 +29,11 @@ status: "new"
 > Ich werde das auf keinen Fall unterschreiben.
 > *I will under no circumstances sign that.*
 
+**Phrases & Expressions:**
+- **auf keinen Fall** — *under no circumstances; definitely not*
+- **unter keinen Umständen** — *under no circumstances; definitely not*
+- **keinesfalls** — *under no circumstances; definitely not*
+
 **Collocations**
 - auf keinen Fall
 - unter keinen Umständen

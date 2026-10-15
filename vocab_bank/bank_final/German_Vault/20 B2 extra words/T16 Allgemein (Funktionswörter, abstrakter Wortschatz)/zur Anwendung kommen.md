@@ -26,6 +26,11 @@ status: "new"
 > Diese Regel kommt nur im Ausnahmefall zur Anwendung.
 > *This rule is applied only in exceptional cases.*
 
+**Phrases & Expressions:**
+- **selten zur Anwendung kommen** — *to be applied; to come into use*
+- **zur Anwendung bringen** — *to be applied; to come into use*
+- **Regeln kommen zur Anwendung** — *to be applied; to come into use*
+
 **Collocations**
 - selten zur Anwendung kommen
 - zur Anwendung bringen

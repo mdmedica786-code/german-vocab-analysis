@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Beim Baden am See waren die Kinder nackt.
 > *While swimming in the lake the children were naked.*
+
+**Phrases & Expressions:**
+- **Beim Baden am See waren die Kinder nackt** — *While swimming in the lake the children were naked* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

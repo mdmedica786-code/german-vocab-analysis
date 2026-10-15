@@ -31,6 +31,9 @@ status: "new"
 > Übrigens, kennst du schon die neuen Nachbarn?
 > *By the way, do you already know the new neighbours?*
 
+**Phrases & Expressions:**
+- **Übrigens, kennst du schon die neuen Nachbarn** — *By the way, do you already know the new neighbours* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3c (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

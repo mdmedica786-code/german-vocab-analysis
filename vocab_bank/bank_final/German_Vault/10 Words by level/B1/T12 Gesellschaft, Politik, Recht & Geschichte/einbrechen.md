@@ -33,6 +33,9 @@ status: "new"
 > Jemand ist in unsere Wohnung eingebrochen.
 > *Someone broke into our flat.*
 
+**Phrases & Expressions:**
+- **Jemand ist in unsere Wohnung eingebrochen** — *Someone broke into our flat* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

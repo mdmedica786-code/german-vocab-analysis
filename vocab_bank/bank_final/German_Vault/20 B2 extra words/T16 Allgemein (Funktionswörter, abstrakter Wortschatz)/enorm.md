@@ -29,6 +29,11 @@ status: "new"
 > Die Kosten sind enorm gestiegen.
 > *The costs have risen enormously.*
 
+**Phrases & Expressions:**
+- **enorm viel** — *enormous; huge*
+- **enorm wichtig** — *enormous; huge*
+- **ein enormer Aufwand** — *enormous; huge*
+
 **Collocations**
 - enorm viel
 - enorm wichtig

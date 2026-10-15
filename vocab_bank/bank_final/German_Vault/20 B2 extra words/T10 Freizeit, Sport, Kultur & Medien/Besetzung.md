@@ -33,6 +33,11 @@ status: "new"
 > Die Besetzung des Films ist hervorragend.
 > *The cast of the film is excellent.*
 
+**Phrases & Expressions:**
+- **die Besetzung der Stelle** — *occupation; cast; staffing*
+- **die Besetzung eines Films** — *occupation; cast; staffing*
+- **die Besetzung der Rolle** — *occupation; cast; staffing*
+
 **Collocations**
 - die Besetzung der Stelle
 - die Besetzung eines Films

@@ -34,6 +34,9 @@ status: "new"
 > Zur Nachtzeit ist es in der Stadt ruhig.
 > *At night it is quiet in the city.*
 
+**Phrases & Expressions:**
+- **Zur Nachtzeit ist es in der Stadt ruhig** — *At night it is quiet in the city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

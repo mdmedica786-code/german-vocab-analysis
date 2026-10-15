@@ -35,6 +35,9 @@ status: "new"
 > Mein Sohn liest immer nur Comics.
 > *My son only ever reads comics.*
 
+**Phrases & Expressions:**
+- **Mein Sohn liest immer nur Comics** — *My son only ever reads comics* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 3a (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

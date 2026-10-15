@@ -35,6 +35,14 @@ status: "new"
 > Sie hat ein großes Wissen über Pflanzen.
 > *She has great knowledge of plants.*
 
+**Phrases & Expressions:**
+- **wissen, dass ...** — to know that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **wissen, was ...** — to know what ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **zu wissen, dass ...** — to know that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **wissen, wie ...** — to know how ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **wissen, ob ...** — to know whether ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **wir wissen, dass ...** — we know that ... *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Er suchte nach einer Rechtfertigung für sein Verhalten.
 > *He looked for a justification for his behaviour.*
 
+**Phrases & Expressions:**
+- **eine Rechtfertigung suchen** — *justification; excuse*
+- **zur Rechtfertigung** — *justification; excuse*
+- **keine Rechtfertigung** — *justification; excuse*
+
 **Collocations**
 - eine Rechtfertigung suchen
 - zur Rechtfertigung

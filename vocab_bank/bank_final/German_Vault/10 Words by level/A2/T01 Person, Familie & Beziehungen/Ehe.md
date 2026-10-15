@@ -35,6 +35,9 @@ status: "new"
 > Sie hat zwei Kinder aus erster Ehe.
 > *She has two children from her first marriage.*
 
+**Phrases & Expressions:**
+- **Sie hat zwei Kinder aus erster Ehe** — *She has two children from her first marriage* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 5a (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

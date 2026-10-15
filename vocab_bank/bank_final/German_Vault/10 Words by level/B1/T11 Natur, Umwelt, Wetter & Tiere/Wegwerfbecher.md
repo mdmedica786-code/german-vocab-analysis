@@ -31,6 +31,9 @@ status: "new"
 > Wegwerfbecher verursachen viel Müll.
 > *Disposable cups cause a lot of rubbish.*
 
+**Phrases & Expressions:**
+- **Wegwerfbecher verursachen viel Müll** — *Disposable cups cause a lot of rubbish* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 9a (Umweltfreundlich?)
 <!-- bank:end -->
 

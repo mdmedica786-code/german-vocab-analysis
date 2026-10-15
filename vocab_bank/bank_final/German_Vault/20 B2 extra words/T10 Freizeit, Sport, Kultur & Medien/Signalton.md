@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Signalton können Sie sprechen.
 > *After the tone you can speak.*
 
+**Phrases & Expressions:**
+- **auf den Signalton warten** — *signal tone; beep*
+- **ein Signalton ertönt** — *signal tone; beep*
+- **nach dem Signalton** — *signal tone; beep*
+
 **Collocations**
 - auf den Signalton warten
 - ein Signalton ertönt

@@ -33,6 +33,11 @@ status: "new"
 > Sein Gemütszustand schwankt von Tag zu Tag.
 > *His state of mind fluctuates from day to day.*
 
+**Phrases & Expressions:**
+- **in einem schlechten Gemütszustand** — *state of mind*
+- **sich in einem Gemütszustand befinden** — *state of mind*
+- **Gemütszustand verbessern** — *state of mind*
+
 **Collocations**
 - in einem schlechten Gemütszustand
 - sich in einem Gemütszustand befinden

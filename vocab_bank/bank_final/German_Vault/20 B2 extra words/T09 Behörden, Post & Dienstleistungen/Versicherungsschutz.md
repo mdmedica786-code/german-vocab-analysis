@@ -33,6 +33,11 @@ status: "new"
 > Mit dieser Police haben Sie vollen Versicherungsschutz.
 > *With this policy you have full insurance coverage.*
 
+**Phrases & Expressions:**
+- **Versicherungsschutz genießen** — *insurance coverage*
+- **ohne Versicherungsschutz** — *insurance coverage*
+- **den Versicherungsschutz erweitern** — *insurance coverage*
+
 **Collocations**
 - Versicherungsschutz genießen
 - ohne Versicherungsschutz

@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Die vielen Fragen haben den Patienten verwirrt.
 > *The many questions confused the patient.*
+
+**Phrases & Expressions:**
+- **Die vielen Fragen haben den Patienten verwirrt** — *The many questions confused the patient* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

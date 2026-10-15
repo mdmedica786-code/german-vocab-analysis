@@ -31,6 +31,10 @@ status: "new"
 > Der Lehrer tadelte den Schüler wegen seines Verhaltens.
 > *The teacher reprimanded the pupil for his behaviour.*
 
+**Phrases & Expressions:**
+- **jemanden tadeln** — *to reprimand; to criticise*
+- **öffentlich tadeln** — *to reprimand; to criticise*
+
 **Collocations**
 - jemanden tadeln
 - öffentlich tadeln

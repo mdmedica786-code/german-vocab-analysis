@@ -42,6 +42,9 @@ status: "new"
 > Deine Deutschkenntnisse sind sehr gut!
 > *Your German skills are very good!*
 
+**Phrases & Expressions:**
+- **Ich verfüge über Kenntnisse in ...** — I have knowledge of ... *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Qualifikationen nennen]] · B2)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Einbrecher haben nichts gestohlen.
 > *The burglars did not steal anything.*
 
+**Phrases & Expressions:**
+- **Die Einbrecher haben nichts gestohlen** — *The burglars did not steal anything* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

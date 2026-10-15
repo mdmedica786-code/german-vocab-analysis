@@ -26,6 +26,9 @@ status: "new"
 > Bei der Konferenz steht das Thema Klimaschutz im Mittelpunkt.
 > *At the conference the topic of climate protection is the focus.*
 
+**Phrases & Expressions:**
+- **in den Mittelpunkt stellen** — *to be the centre of attention*
+
 **Collocations**
 - in den Mittelpunkt stellen
 

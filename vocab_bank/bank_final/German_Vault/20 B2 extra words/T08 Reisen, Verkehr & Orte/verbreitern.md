@@ -32,6 +32,11 @@ status: "new"
 > Die Stadt will die Straße verbreitern.
 > *The city wants to widen the road.*
 
+**Phrases & Expressions:**
+- **eine Straße verbreitern** — *to widen; to broaden*
+- **den Radweg verbreitern** — *to widen; to broaden*
+- **sich verbreitern** — *to widen; to broaden*
+
 **Collocations**
 - eine Straße verbreitern
 - den Radweg verbreitern

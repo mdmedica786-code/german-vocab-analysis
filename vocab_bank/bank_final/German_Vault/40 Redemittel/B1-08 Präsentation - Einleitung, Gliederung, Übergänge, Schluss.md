@@ -14,6 +14,7 @@ tags: ["redemittel", "level/B1"]
 ## Präsentation eröffnen
 
 - **Guten Tag, mein Name ist ... und ich spreche heute über ...** ⭐ — Hello, my name is ... and today I am talking about ...
+  - Words: [[gut (adjective)]] · [[Name]] · [[sprechen]] · [[Tag]] · [[heute]] · [[mein]]
   - Guten Tag, mein Name ist Selin und ich spreche heute über das Thema Ernährung. *(Hello, my name is Selin and today I am talking about the topic of nutrition.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: Hauptsätze; sprechen über + Akk.
@@ -22,6 +23,7 @@ tags: ["redemittel", "level/B1"]
 ## Thema nennen
 
 - **Mein Thema ist ...** ⭐ — My topic is ...
+  - Words: [[Thema]] · [[mein]]
   - Mein Thema ist das Leben in der Großstadt. *(My topic is life in a big city.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: sein + Nominativ
@@ -30,6 +32,7 @@ tags: ["redemittel", "level/B1"]
 ## Thema begründen
 
 - **Ich habe dieses Thema gewählt, weil ...** ⭐ — I chose this topic because ...
+  - Words: [[wählen]] · [[Thema]] · [[haben]] · [[weil]]
   - Ich habe dieses Thema gewählt, weil es mich persönlich betrifft. *(I chose this topic because it affects me personally.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: Perfekt; weil-Satz: Verb am Ende
@@ -38,12 +41,14 @@ tags: ["redemittel", "level/B1"]
 ## Interesse wecken
 
 - **Haben Sie sich schon einmal gefragt, ...?** — Have you ever wondered ...?
+  - Words: [[fragen]] · [[schon]] · [[einmal]]
   - Haben Sie sich schon einmal gefragt, wie viel Zeit wir am Handy verbringen? *(Have you ever wondered how much time we spend on our phones?)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: sich fragen + indirekter Fragesatz: Verb am Ende
   - Variants: Wussten Sie, dass ...? | Kennen Sie das auch: ...?
   - Exam: Goethe B1 Sprechen Teil 2
 - **Stellen Sie sich einmal vor, ...** — Just imagine ...
+  - Words: [[stellen]] · [[Stelle]] · [[einmal]]
   - Stellen Sie sich einmal vor, Sie müssten eine Woche ohne Internet leben. *(Just imagine you had to live a week without the internet.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: Imperativ Sie; Konjunktiv II im Nebensatz
@@ -52,24 +57,28 @@ tags: ["redemittel", "level/B1"]
 ## Gliederung ankündigen
 
 - **Meine Präsentation besteht aus drei Teilen.** ⭐ — My presentation consists of three parts.
+  - Words: [[bestehen]] · [[drei]] · [[Teil]] · [[teilen]] · [[Präsentation]] · [[meinen]]
   - Meine Präsentation besteht aus drei Teilen: Einleitung, Hauptteil und Schluss. *(My presentation consists of three parts: introduction, main part and conclusion.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: bestehen aus + Dat.
   - Variants: Ich habe meine Präsentation in drei Teile gegliedert. | Ich möchte drei Punkte ansprechen.
   - Exam: Goethe B1 Sprechen Teil 2
 - **Zuerst spreche ich über ..., dann über ... und zum Schluss über ...** ⭐ — First I talk about ..., then about ... and finally about ...
+  - Words: [[sprechen]] · [[dann]] · [[zuerst]] · [[Schluss]]
   - Zuerst spreche ich über die Vorteile, dann über die Nachteile und zum Schluss über meine Meinung. *(First I talk about the advantages, then about the disadvantages and finally about my opinion.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: sprechen über + Akk.; Verb nach Zuerst an Position 2
   - Variants: Erstens geht es um ..., zweitens um ... | Ich beginne mit ..., danach folgt ...
   - Exam: Goethe B1 Sprechen Teil 2
 - **Ich möchte mit ... beginnen.** ⭐ — I would like to start with ...
+  - Words: [[möchten]] · [[beginnen]]
   - Ich möchte mit einem Beispiel aus meinem Alltag beginnen. *(I would like to start with an example from my everyday life.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: möchte + Infinitiv am Ende; beginnen mit + Dat.
   - Variants: Als Erstes möchte ich ... erwähnen. | Ich fange mit ... an.
   - Exam: Goethe B1 Sprechen Teil 2
 - **Im ersten Teil geht es um ...** ⭐ — The first part is about ...
+  - Words: [[gehen]] · [[Teil]] · [[einkaufen gehen]] · [[Erste]] · [[losgehen]] · [[rausgehen]] · [[ausgehen]] · [[spazieren gehen]]
   - Im ersten Teil geht es um die Geschichte der Stadt. *(The first part is about the history of the city.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: es geht um + Akk.
@@ -78,18 +87,21 @@ tags: ["redemittel", "level/B1"]
 ## Übergang gestalten
 
 - **Kommen wir nun zu ...** ⭐ — Let's now turn to ...
+  - Words: [[nun]] · [[kommen]]
   - Kommen wir nun zum zweiten Teil: den Vorteilen. *(Let's now turn to the second part: the advantages.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: Aufforderung mit wir: Verb vor wir; kommen zu + Dat.
   - Variants: Damit komme ich zu ... | Gehen wir jetzt zu ... über.
   - Exam: Goethe B1 Sprechen Teil 2
 - **Damit komme ich zum nächsten Punkt: ...** — This brings me to the next point: ...
+  - Words: [[damit]] · [[kommen]] · [[Punkt]] · [[nächste (adjective)]] · [[Nächste]]
   - Damit komme ich zum nächsten Punkt: den Kosten. *(This brings me to the next point: the costs.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: kommen zu + Dat.; Doppelpunkt
   - Variants: Das führt mich zum nächsten Punkt: ... | Als Nächstes möchte ich ... besprechen.
   - Exam: Goethe B1 Sprechen Teil 2
 - **Jetzt möchte ich auf ... eingehen.** ⭐ — Now I would like to go into ...
+  - Words: [[jetzt]] · [[möchten]] · [[eingehen]]
   - Jetzt möchte ich auf die Frage der Kosten eingehen. *(Now I would like to go into the question of costs.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: eingehen auf + Akk. (trennbar)
@@ -98,18 +110,21 @@ tags: ["redemittel", "level/B1"]
 ## Schwerpunkt setzen
 
 - **Besonders wichtig ist mir dabei ...** — What is especially important to me here is ...
+  - Words: [[dabei]] · [[wichtig]] · [[besonders]] · [[dabei sein]] · [[dabei haben]] · [[dabeihaben]]
   - Besonders wichtig ist mir dabei der Schutz der Umwelt. *(What is especially important to me here is the protection of the environment.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: wichtig sein + Dativ; Nominativ
   - Variants: Mir ist ... besonders wichtig. | Ich lege besonderen Wert auf ...
   - Exam: Goethe B1 Sprechen Teil 2
 - **Ich möchte besonders auf ... hinweisen.** — I would like to point out ... in particular.
+  - Words: [[möchten]] · [[besonders]] · [[Hinweis]] · [[hinweisen]]
   - Ich möchte besonders auf die Risiken hinweisen. *(I would like to point out the risks in particular.)*
   - B1 · formal · speaker: Beide · to: Prüfer/Publikum
   - Grammar: hinweisen auf + Akk. (trennbar)
   - Variants: Ich möchte ... hervorheben. | Dabei ist ... besonders wichtig.
   - Exam: Goethe B1 Sprechen Teil 2
 - **Im Mittelpunkt steht für mich ...** — For me the focus is on ...
+  - Words: [[stehen]] · [[aufstehen]] · [[Mittelpunkt]] · [[feststehen]] · [[zustehen]] · [[gegenüberstehen]]
   - Im Mittelpunkt steht für mich die Frage, wie wir Energie sparen können. *(For me the focus is on the question of how we can save energy.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: im Mittelpunkt stehen; indirekter Fragesatz
@@ -118,12 +133,14 @@ tags: ["redemittel", "level/B1"]
 ## Zusammenfassen
 
 - **Zusammenfassend kann man sagen, dass ...** ⭐ — In summary, one can say that ...
+  - Words: [[sagen]] · [[können]] · [[zusammenfassend]]
   - Zusammenfassend kann man sagen, dass das Projekt ein Erfolg war. *(In summary, one can say that the project was a success.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: man kann + Infinitiv; dass-Satz
   - Variants: Alles in allem lässt sich sagen, dass ... | Kurz gesagt: ...
   - Exam: Goethe B1 Sprechen Teil 2
 - **Ich fasse kurz zusammen: ...** — Let me briefly summarise: ...
+  - Words: [[zusammengehören]] · [[kurz]] · [[zusammenpassen]] · [[zusammen]] · [[fassen]] · [[zusammenfassen]] · [[zusammenarbeiten]] · [[zusammenbringen]]
   - Ich fasse kurz zusammen: Es gibt Vorteile, aber auch Risiken. *(Let me briefly summarise: there are advantages, but also risks.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: zusammenfassen (trennbar): fasse ... zusammen
@@ -132,12 +149,14 @@ tags: ["redemittel", "level/B1"]
 ## Schluss gestalten
 
 - **Zum Schluss möchte ich noch sagen, dass ...** ⭐ — Finally I would like to say that ...
+  - Words: [[sagen]] · [[möchten]] · [[Schluss]]
   - Zum Schluss möchte ich noch sagen, dass mir das Thema sehr am Herzen liegt. *(Finally I would like to say that this topic is very close to my heart.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: dass-Satz: Verb am Ende
   - Variants: Abschließend möchte ich betonen, dass ... | Zum Schluss noch ein Gedanke: ...
   - Exam: Goethe B1 Sprechen Teil 2
 - **Zum Schluss möchte ich meine persönliche Meinung sagen.** — Finally I would like to give my personal opinion.
+  - Words: [[sagen]] · [[persönlich]] · [[möchten]] · [[Meinung]] · [[meinen]] · [[Schluss]]
   - Zum Schluss möchte ich meine persönliche Meinung sagen: Ich finde die Idee gut. *(Finally I would like to give my personal opinion: I think the idea is good.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: möchte + Infinitiv am Ende
@@ -146,6 +165,7 @@ tags: ["redemittel", "level/B1"]
 ## Danken
 
 - **Vielen Dank für Ihre Aufmerksamkeit.** ⭐ — Thank you very much for your attention.
+  - Words: [[Dank]] · [[dank (preposition)]] · [[Aufmerksamkeit]]
   - Das war meine Präsentation. Vielen Dank für Ihre Aufmerksamkeit. *(That was my presentation. Thank you very much for your attention.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: danken für + Akk.
@@ -154,18 +174,21 @@ tags: ["redemittel", "level/B1"]
 ## Fragen einladen
 
 - **Haben Sie noch Fragen?** ⭐ — Do you have any more questions?
+  - Words: [[fragen]] · [[Frage]]
   - Das war meine Präsentation. Haben Sie noch Fragen? *(That was my presentation. Do you have any more questions?)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: Ja/Nein-Frage: Verb an Position 1
   - Variants: Gibt es Fragen? | Wenn Sie Fragen haben, beantworte ich sie gern.
   - Exam: Goethe B1 Sprechen Teil 2
 - **Ich beantworte gern Ihre Fragen.** ⭐ — I am happy to answer your questions.
+  - Words: [[fragen]] · [[gern]] · [[Frage]] · [[beantworten]]
   - Ich beantworte gern Ihre Fragen zum Thema. *(I am happy to answer your questions about the topic.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: beantworten + Akk.
   - Variants: Ich stehe für Fragen gern zur Verfügung. | Fragen sind jetzt willkommen.
   - Exam: Goethe B1 Sprechen Teil 2
 - **Wenn Sie Fragen haben, können Sie diese gern jetzt stellen.** — If you have questions, please feel free to ask them now.
+  - Words: [[fragen]] · [[gern]] · [[Frage]] · [[jetzt]] · [[stellen]] · [[Stelle]] · [[diese]] · [[können]]
   - Wenn Sie Fragen haben, können Sie diese gern jetzt stellen. *(If you have questions, please feel free to ask them now.)*
   - B1 · formal · speaker: Beide · to: Prüfer/Publikum
   - Grammar: wenn-Satz zuerst: danach Verb an Position 1
@@ -174,6 +197,7 @@ tags: ["redemittel", "level/B1"]
 ## Schluss gestalten
 
 - **Das waren meine wichtigsten Punkte.** — Those were my most important points.
+  - Words: [[Punkt]] · [[Ware]] · [[meinen]]
   - Das waren meine wichtigsten Punkte zum Thema Gesundheit. *(Those were my most important points on the topic of health.)*
   - B1 · neutral · speaker: Beide · to: Prüfer/Publikum
   - Grammar: Hauptsatz; Plural der Punkt

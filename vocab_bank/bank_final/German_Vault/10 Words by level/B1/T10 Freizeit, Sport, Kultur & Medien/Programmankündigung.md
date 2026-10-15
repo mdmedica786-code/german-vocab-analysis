@@ -31,6 +31,9 @@ status: "new"
 > Die Programmankündigung steht in der Zeitung.
 > *The programme announcement is in the newspaper.*
 
+**Phrases & Expressions:**
+- **Die Programmankündigung steht in der Zeitung** — *The programme announcement is in the newspaper* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 11a (Rund um Körper und Geist)
 <!-- bank:end -->
 

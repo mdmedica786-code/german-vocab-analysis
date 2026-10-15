@@ -31,6 +31,9 @@ status: "new"
 > Eine Stunde hat sechzig Minuten.
 > *An hour has sixty minutes.*
 
+**Phrases & Expressions:**
+- **Eine Stunde hat sechzig Minuten** — *An hour has sixty minutes* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

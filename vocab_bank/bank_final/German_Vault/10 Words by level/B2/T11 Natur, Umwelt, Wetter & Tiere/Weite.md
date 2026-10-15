@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Ich liebe die Weite des Meeres.
 > *I love the vastness of the sea.*
+
+**Phrases & Expressions:**
+- **Ich liebe die Weite des Meeres** — *I love the vastness of the sea* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

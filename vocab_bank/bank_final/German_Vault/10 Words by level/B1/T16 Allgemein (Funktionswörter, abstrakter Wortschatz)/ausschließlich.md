@@ -31,6 +31,12 @@ status: "new"
 > Tut mir leid. Wir haben ausschließlich Nichtraucherzimmer.
 > *I'm sorry. We have non-smoking rooms only.*
 
+**Phrases & Expressions:**
+- **ausschließlich für** — *exclusively*
+- **ausschließlich online** — *exclusively*
+- **ausschließlich Frauen** — *exclusively*
+- **ausschließlich privat** — *exclusively*
+
 **Collocations**
 - ausschließlich für
 - ausschließlich online

@@ -35,6 +35,9 @@ status: "new"
 > Die Teilnehmerinnen aus unserem Kurs kommen aus verschiedenen Ländern.
 > *The participants from our course come from different countries.*
 
+**Phrases & Expressions:**
+- **Die Teilnehmerinnen aus unserem Kurs kommen aus verschiedenen Ländern** — *The participants from our course come from different countries* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13e (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

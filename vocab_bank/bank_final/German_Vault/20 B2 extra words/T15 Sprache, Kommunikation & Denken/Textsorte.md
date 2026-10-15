@@ -33,6 +33,11 @@ status: "new"
 > Ein Brief ist eine Textsorte mit klaren Regeln.
 > *A letter is a type of text with clear rules.*
 
+**Phrases & Expressions:**
+- **eine Textsorte bestimmen** — *type of text; genre*
+- **verschiedene Textsorten** — *type of text; genre*
+- **die Textsorte erkennen** — *type of text; genre*
+
 **Collocations**
 - eine Textsorte bestimmen
 - verschiedene Textsorten

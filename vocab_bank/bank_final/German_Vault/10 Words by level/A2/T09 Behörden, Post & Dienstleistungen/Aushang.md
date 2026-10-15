@@ -34,6 +34,9 @@ status: "new"
 > Der Aushang im Treppenhaus informiert über die Hausversammlung.
 > *The notice in the stairwell informs about the residents' meeting.*
 
+**Phrases & Expressions:**
+- **Der Aushang im Treppenhaus informiert über die Hausversammlung** — *The notice in the stairwell informs about the residents' meeting* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 5a (Zusammen leben)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Im Winter bekomme ich oft Fernweh.
 > *In winter I often get wanderlust.*
 
+**Phrases & Expressions:**
+- **Fernweh haben** — *wanderlust; longing for faraway places*
+- **von Fernweh geplagt** — *wanderlust; longing for faraway places*
+- **Fernweh und Heimweh** — *wanderlust; longing for faraway places*
+
 **Collocations**
 - Fernweh haben
 - von Fernweh geplagt

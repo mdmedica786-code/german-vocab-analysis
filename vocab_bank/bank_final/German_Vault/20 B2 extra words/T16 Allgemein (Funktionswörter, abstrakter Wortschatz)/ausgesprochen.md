@@ -29,6 +29,11 @@ status: "new"
 > Das war eine ausgesprochen freundliche Geste.
 > *That was a particularly friendly gesture.*
 
+**Phrases & Expressions:**
+- **ausgesprochen freundlich** — *decided; distinct; particularly*
+- **ausgesprochen gut** — *decided; distinct; particularly*
+- **eine ausgesprochene Vorliebe** — *decided; distinct; particularly*
+
 **Collocations**
 - ausgesprochen freundlich
 - ausgesprochen gut

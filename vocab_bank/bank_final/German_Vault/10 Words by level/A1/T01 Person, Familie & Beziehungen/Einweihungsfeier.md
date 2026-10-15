@@ -34,6 +34,9 @@ status: "new"
 > Zur Einweihungsfeier kommen alle Nachbarn.
 > *All the neighbours are coming to the housewarming party.*
 
+**Phrases & Expressions:**
+- **Zur Einweihungsfeier kommen alle Nachbarn** — *All the neighbours are coming to the housewarming party* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 6a (Meine Wohnung)
 <!-- bank:end -->
 

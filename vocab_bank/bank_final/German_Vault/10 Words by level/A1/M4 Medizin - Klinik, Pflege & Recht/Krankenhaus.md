@@ -35,6 +35,14 @@ status: "new"
 > Meine Tante ist im Krankenhaus.
 > *My aunt is in hospital.*
 
+**Phrases & Expressions:**
+- **im Krankenhaus** — in hospital *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Ich bin Ärztin von Beruf und arbeite im Krankenhaus.** — I am a doctor by profession and work in a hospital. *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Sich vorstellen]] · B1)*
+- **Waren Sie in den letzten Jahren im Krankenhaus?** — Have you been in hospital in recent years? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Krankenhausaufenthalte]] · B1)*
+- **ins Krankenhaus kommen** — *hospital*
+- **im Krankenhaus liegen** — *hospital*
+- **aus dem Krankenhaus entlassen** — *hospital*
+
 **Collocations**
 - ins Krankenhaus kommen
 - im Krankenhaus liegen

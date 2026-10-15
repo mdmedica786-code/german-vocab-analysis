@@ -33,6 +33,11 @@ status: "new"
 > Nach reiflicher Erwägung nahm sie das Angebot an.
 > *After careful consideration she accepted the offer.*
 
+**Phrases & Expressions:**
+- **in Erwägung ziehen** — *consideration; deliberation*
+- **nach reiflicher Erwägung** — *consideration; deliberation*
+- **Erwägungen anstellen** — *consideration; deliberation*
+
 **Collocations**
 - in Erwägung ziehen
 - nach reiflicher Erwägung

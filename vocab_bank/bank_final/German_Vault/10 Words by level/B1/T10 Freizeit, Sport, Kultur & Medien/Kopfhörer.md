@@ -34,6 +34,9 @@ status: "new"
 > Ich höre Musik mit Kopfhörern.
 > *I listen to music with headphones.*
 
+**Phrases & Expressions:**
+- **Ich höre Musik mit Kopfhörern** — *I listen to music with headphones* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 4a (Das ist ja praktisch!)
 <!-- bank:end -->
 

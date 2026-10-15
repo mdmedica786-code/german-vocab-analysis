@@ -33,6 +33,11 @@ status: "new"
 > Die Erhaltung der Wälder ist sehr wichtig.
 > *The preservation of the forests is very important.*
 
+**Phrases & Expressions:**
+- **zur Erhaltung** — *preservation; maintenance*
+- **die Erhaltung der Arten** — *preservation; maintenance*
+- **die Erhaltung von Arbeitsplätzen** — *preservation; maintenance*
+
 **Collocations**
 - zur Erhaltung
 - die Erhaltung der Arten

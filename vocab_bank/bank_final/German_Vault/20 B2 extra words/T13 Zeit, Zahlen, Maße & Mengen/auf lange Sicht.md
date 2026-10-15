@@ -26,6 +26,10 @@ status: "new"
 > Auf lange Sicht lohnt sich die Investition.
 > *In the long run the investment pays off.*
 
+**Phrases & Expressions:**
+- **auf lange Sicht gesehen** — *in the long run*
+- **langfristig** — *in the long run*
+
 **Collocations**
 - auf lange Sicht gesehen
 - langfristig

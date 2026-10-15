@@ -33,6 +33,11 @@ status: "new"
 > An der Nordsee kann man Robben beobachten.
 > *At the North Sea you can watch seals.*
 
+**Phrases & Expressions:**
+- **Robben beobachten** — *seal*
+- **eine Robbe auf der Sandbank** — *seal*
+- **Robbenbaby** — *seal*
+
 **Collocations**
 - Robben beobachten
 - eine Robbe auf der Sandbank

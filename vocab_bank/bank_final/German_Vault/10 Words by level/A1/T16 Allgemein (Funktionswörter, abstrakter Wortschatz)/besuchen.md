@@ -33,6 +33,11 @@ status: "new"
 > Er besucht jeden Dienstag eine Vorlesung an der Uni.
 > *He attends a lecture at the university every Tuesday.*
 
+**Phrases & Expressions:**
+- **eine Vorlesung besuchen** — *to visit*
+- **Freunde besuchen** — *to visit*
+- **einen Kurs besuchen** — *to visit*
+
 **Collocations**
 - eine Vorlesung besuchen
 - Freunde besuchen

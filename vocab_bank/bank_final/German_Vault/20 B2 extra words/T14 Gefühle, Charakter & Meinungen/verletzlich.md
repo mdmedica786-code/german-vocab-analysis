@@ -29,6 +29,11 @@ status: "new"
 > Kleine Kinder sind besonders verletzlich.
 > *Small children are particularly vulnerable.*
 
+**Phrases & Expressions:**
+- **verletzlich sein** — *vulnerable*
+- **verletzlich wirken** — *vulnerable*
+- **sich verletzlich zeigen** — *vulnerable*
+
 **Collocations**
 - verletzlich sein
 - verletzlich wirken

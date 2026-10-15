@@ -32,6 +32,11 @@ status: "new"
 > Sie hat mich freundlich angelächelt.
 > *She smiled at me in a friendly way.*
 
+**Phrases & Expressions:**
+- **jemanden anlächeln** — *to smile at*
+- **freundlich anlächeln** — *to smile at*
+- **sich anlächeln** — *to smile at*
+
 **Collocations**
 - jemanden anlächeln
 - freundlich anlächeln

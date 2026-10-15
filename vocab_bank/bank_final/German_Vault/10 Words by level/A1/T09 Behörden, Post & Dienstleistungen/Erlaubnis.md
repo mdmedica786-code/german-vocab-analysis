@@ -35,6 +35,9 @@ status: "new"
 > Sie hätten ihn vorher um Erlaubnis bitten müssen.
 > *You should have asked him for permission beforehand.*
 
+**Phrases & Expressions:**
+- **Sie hätten ihn vorher um Erlaubnis bitten müssen** — *You should have asked him for permission beforehand* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13b (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

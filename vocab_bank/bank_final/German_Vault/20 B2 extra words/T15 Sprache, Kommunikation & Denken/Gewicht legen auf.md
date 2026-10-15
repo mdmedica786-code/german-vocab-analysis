@@ -26,6 +26,11 @@ status: "new"
 > Im Unterricht wird viel Gewicht auf die Aussprache gelegt.
 > *In class much emphasis is put on pronunciation.*
 
+**Phrases & Expressions:**
+- **Gewicht auf etwas legen** — *to put emphasis on*
+- **besonderes Gewicht legen auf** — *to put emphasis on*
+- **Gewicht beimessen** — *to put emphasis on*
+
 **Collocations**
 - Gewicht auf etwas legen
 - besonderes Gewicht legen auf

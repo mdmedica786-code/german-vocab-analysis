@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Inwiefern ist das ein Problem?
 > *In what way is that a problem?*
+
+**Phrases & Expressions:**
+- **Inwiefern ist das ein Problem** — *In what way is that a problem* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

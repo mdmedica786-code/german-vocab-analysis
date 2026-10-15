@@ -34,6 +34,9 @@ status: "new"
 > Im Sommer fahren die Kinder in ein Camp.
 > *In summer the children go to a camp.*
 
+**Phrases & Expressions:**
+- **Im Sommer fahren die Kinder in ein Camp** — *In summer the children go to a camp* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

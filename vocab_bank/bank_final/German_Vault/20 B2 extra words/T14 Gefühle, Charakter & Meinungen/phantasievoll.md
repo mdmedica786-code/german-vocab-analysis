@@ -29,6 +29,11 @@ status: "new"
 > Die Kinder haben ein phantasievolles Spiel erfunden.
 > *The children invented an imaginative game.*
 
+**Phrases & Expressions:**
+- **ein phantasievoller Mensch** — *imaginative; full of imagination*
+- **phantasievoll erzählen** — *imaginative; full of imagination*
+- **eine phantasievolle Geschichte** — *imaginative; full of imagination*
+
 **Collocations**
 - ein phantasievoller Mensch
 - phantasievoll erzählen

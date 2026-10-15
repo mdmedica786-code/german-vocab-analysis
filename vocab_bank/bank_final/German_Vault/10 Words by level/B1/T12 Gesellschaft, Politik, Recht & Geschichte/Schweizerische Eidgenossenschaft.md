@@ -34,6 +34,9 @@ status: "new"
 > Die Schweizerische Eidgenossenschaft hat vier Landessprachen.
 > *The Swiss Confederation has four national languages.*
 
+**Phrases & Expressions:**
+- **Die Schweizerische Eidgenossenschaft hat vier Landessprachen** — *The Swiss Confederation has four national languages* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

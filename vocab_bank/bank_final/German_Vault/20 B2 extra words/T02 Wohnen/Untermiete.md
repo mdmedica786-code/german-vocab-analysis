@@ -33,6 +33,11 @@ status: "new"
 > Sie wohnt zur Untermiete bei einer älteren Dame.
 > *She lives as a subtenant with an elderly lady.*
 
+**Phrases & Expressions:**
+- **zur Untermiete wohnen** — *subletting*
+- **Untermiete erlauben** — *subletting*
+- **Untermiete anmelden** — *subletting*
+
 **Collocations**
 - zur Untermiete wohnen
 - Untermiete erlauben

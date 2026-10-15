@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Kommst du allein oder in Begleitung?
 > *Are you coming alone or with company?*
+
+**Phrases & Expressions:**
+- **Kommst du allein oder in Begleitung** — *Are you coming alone or with company* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

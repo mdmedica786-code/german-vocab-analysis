@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Das Medikament ist zur innerlichen Anwendung.
 > *The medicine is for internal use.*
+
+**Phrases & Expressions:**
+- **Das Medikament ist zur innerlichen Anwendung** — *The medicine is for internal use* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

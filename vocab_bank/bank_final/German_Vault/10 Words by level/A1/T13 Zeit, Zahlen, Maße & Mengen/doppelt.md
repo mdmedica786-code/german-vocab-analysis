@@ -31,6 +31,9 @@ status: "new"
 > Das Buch habe ich doppelt.
 > *I have this book twice.*
 
+**Phrases & Expressions:**
+- **Das Buch habe ich doppelt** — *I have this book twice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 5a (In Hamburg) · Goethe word list B1
 <!-- bank:end -->
 

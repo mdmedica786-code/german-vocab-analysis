@@ -42,6 +42,9 @@ status: "new"
 > Zum Frühstück gibt es Müsli mit Obst.
 > *For breakfast there is muesli with fruit.*
 
+**Phrases & Expressions:**
+- **Zum Frühstück gibt es Müsli mit Obst** — *For breakfast there is muesli with fruit* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

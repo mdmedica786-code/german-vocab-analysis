@@ -29,6 +29,11 @@ status: "new"
 > Er behauptet, unschuldig zu sein.
 > *He claims to be innocent.*
 
+**Phrases & Expressions:**
+- **unschuldig sein** — *innocent*
+- **unschuldig verurteilt** — *innocent*
+- **ein unschuldiges Kind** — *innocent*
+
 **Collocations**
 - unschuldig sein
 - unschuldig verurteilt

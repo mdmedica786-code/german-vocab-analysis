@@ -33,6 +33,9 @@ status: "new"
 > Alle singen bei dem Lied mit.
 > *Everyone sings along to the song.*
 
+**Phrases & Expressions:**
+- **Alle singen bei dem Lied mit** — *Everyone sings along to the song* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 10b (Blick nach vorn)
 <!-- bank:end -->
 

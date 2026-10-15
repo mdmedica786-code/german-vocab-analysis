@@ -34,6 +34,9 @@ status: "new"
 > Das Fleisch kaufe ich in der Metzgerei.
 > *I buy meat at the butcher's.*
 
+**Phrases & Expressions:**
+- **Das Fleisch kaufe ich in der Metzgerei** — *I buy meat at the butcher's* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 2a (Guten Appetit!)
 <!-- bank:end -->
 

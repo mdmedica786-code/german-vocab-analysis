@@ -30,6 +30,9 @@ status: "new"
 > Viertens ist das Zimmer zu laut.
 > *Fourthly, the room is too noisy.*
 
+**Phrases & Expressions:**
+- **Viertens ist das Zimmer zu laut** — *Fourthly, the room is too noisy* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

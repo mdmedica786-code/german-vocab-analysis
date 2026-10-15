@@ -32,6 +32,11 @@ status: "new"
 > Das Gemälde wird einem alten Meister zugeschrieben.
 > *The painting is attributed to an old master.*
 
+**Phrases & Expressions:**
+- **jemandem etwas zuschreiben** — *to attribute; to ascribe*
+- **sich etwas zuschreiben** — *to attribute; to ascribe*
+- **die Schuld zuschreiben** — *to attribute; to ascribe*
+
 **Collocations**
 - jemandem etwas zuschreiben
 - sich etwas zuschreiben

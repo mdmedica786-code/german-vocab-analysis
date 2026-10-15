@@ -33,6 +33,11 @@ status: "new"
 > In der Anzeige wird Kommunikationsstärke verlangt.
 > *The ad asks for strong communication skills.*
 
+**Phrases & Expressions:**
+- **Kommunikationsstärke verlangen** — *communication skills; strength in communicating*
+- **große Kommunikationsstärke** — *communication skills; strength in communicating*
+- **seine Kommunikationsstärke zeigen** — *communication skills; strength in communicating*
+
 **Collocations**
 - Kommunikationsstärke verlangen
 - große Kommunikationsstärke

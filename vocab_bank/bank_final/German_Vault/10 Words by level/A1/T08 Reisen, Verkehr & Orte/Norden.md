@@ -35,6 +35,10 @@ status: "new"
 > Im Norden von Deutschland liegt das Meer.
 > *The sea is in the north of Germany.*
 
+**Phrases & Expressions:**
+- **im Norden** — in the north *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Die Stadt liegt im Norden/Süden von ...** — The city lies in the north/south of ... *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ort beschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K12 11a (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

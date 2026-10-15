@@ -34,6 +34,9 @@ status: "new"
 > Meine E-Mail-Adresse enthält einen Unterstrich.
 > *My email address contains an underscore.*
 
+**Phrases & Expressions:**
+- **Meine E-Mail-Adresse enthält einen Unterstrich** — *My email address contains an underscore* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 7b (Guten Tag!)
 <!-- bank:end -->
 

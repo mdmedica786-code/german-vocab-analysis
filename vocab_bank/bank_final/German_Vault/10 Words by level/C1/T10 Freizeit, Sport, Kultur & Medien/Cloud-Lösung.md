@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Die Firma nutzt eine Cloud-Lösung für die Daten.
 > *The company uses a cloud solution for the data.*
+
+**Phrases & Expressions:**
+- **Die Firma nutzt eine Cloud-Lösung für die Daten** — *The company uses a cloud solution for the data* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

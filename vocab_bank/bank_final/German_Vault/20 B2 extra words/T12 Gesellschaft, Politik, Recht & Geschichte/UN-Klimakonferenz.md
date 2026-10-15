@@ -33,6 +33,11 @@ status: "new"
 > Auf der UN-Klimakonferenz wurden neue Ziele beschlossen.
 > *New goals were agreed at the UN climate conference.*
 
+**Phrases & Expressions:**
+- **die UN-Klimakonferenz besuchen** — *UN climate conference*
+- **auf der UN-Klimakonferenz** — *UN climate conference*
+- **an der UN-Klimakonferenz teilnehmen** — *UN climate conference*
+
 **Collocations**
 - die UN-Klimakonferenz besuchen
 - auf der UN-Klimakonferenz

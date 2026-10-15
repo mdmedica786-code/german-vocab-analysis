@@ -33,6 +33,11 @@ status: "new"
 > Das Gesundheitsmanagement der Firma bietet Sportkurse an.
 > *The company's health management offers sports courses.*
 
+**Phrases & Expressions:**
+- **betriebliches Gesundheitsmanagement** — *health management*
+- **ein Gesundheitsmanagement einführen** — *health management*
+- **Gesundheitsmanagement im Betrieb** — *health management*
+
 **Collocations**
 - betriebliches Gesundheitsmanagement
 - ein Gesundheitsmanagement einführen

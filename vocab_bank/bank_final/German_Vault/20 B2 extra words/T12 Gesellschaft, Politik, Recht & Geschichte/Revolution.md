@@ -33,6 +33,11 @@ status: "new"
 > Die Revolution veränderte das ganze Land.
 > *The revolution changed the whole country.*
 
+**Phrases & Expressions:**
+- **eine friedliche Revolution** — *revolution*
+- **die Französische Revolution** — *revolution*
+- **eine Revolution auslösen** — *revolution*
+
 **Collocations**
 - eine friedliche Revolution
 - die Französische Revolution

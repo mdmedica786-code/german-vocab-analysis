@@ -33,6 +33,11 @@ status: "new"
 > Der Wirbelsturm zerstörte ganze Küstendörfer.
 > *The cyclone destroyed whole coastal villages.*
 
+**Phrases & Expressions:**
+- **ein Wirbelsturm zieht auf** — *cyclone; hurricane*
+- **von einem Wirbelsturm getroffen** — *cyclone; hurricane*
+- **tropischer Wirbelsturm** — *cyclone; hurricane*
+
 **Collocations**
 - ein Wirbelsturm zieht auf
 - von einem Wirbelsturm getroffen

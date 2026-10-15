@@ -34,6 +34,9 @@ status: "new"
 > Ich bin sehr in Eile. Das hat keine Eile.
 > *I am in a great hurry. That is not urgent.*
 
+**Phrases & Expressions:**
+- **Ich bin sehr in Eile. Das hat keine Eile** — *I am in a great hurry. That is not urgent* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

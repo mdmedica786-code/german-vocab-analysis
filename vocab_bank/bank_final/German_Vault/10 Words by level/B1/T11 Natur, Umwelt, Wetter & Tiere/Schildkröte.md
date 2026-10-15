@@ -35,6 +35,9 @@ status: "new"
 > Die Schildkröte bewegt sich sehr langsam.
 > *The turtle moves very slowly.*
 
+**Phrases & Expressions:**
+- **Die Schildkröte bewegt sich sehr langsam** — *The turtle moves very slowly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12 ÜB (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

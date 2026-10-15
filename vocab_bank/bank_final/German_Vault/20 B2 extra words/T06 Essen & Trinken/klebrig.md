@@ -29,6 +29,11 @@ status: "new"
 > Meine Hände sind vom Honig ganz klebrig.
 > *My hands are all sticky from the honey.*
 
+**Phrases & Expressions:**
+- **klebrige Finger** — *sticky*
+- **klebrig sein** — *sticky*
+- **ein klebriger Tisch** — *sticky*
+
 **Collocations**
 - klebrige Finger
 - klebrig sein

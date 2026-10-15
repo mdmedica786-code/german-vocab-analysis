@@ -33,6 +33,11 @@ status: "new"
 > Zu viel Zucker kann Karies verursachen.
 > *Too much sugar can cause tooth decay.*
 
+**Phrases & Expressions:**
+- **Karies vorbeugen** — *tooth decay; caries*
+- **Karies haben** — *tooth decay; caries*
+- **Karies bei Kindern** — *tooth decay; caries*
+
 **Collocations**
 - Karies vorbeugen
 - Karies haben

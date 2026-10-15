@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Die Polizei ermittelt den Täter.
 > *The police are investigating the culprit.*
+
+**Phrases & Expressions:**
+- **Die Polizei ermittelt den Täter** — *The police are investigating the culprit* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

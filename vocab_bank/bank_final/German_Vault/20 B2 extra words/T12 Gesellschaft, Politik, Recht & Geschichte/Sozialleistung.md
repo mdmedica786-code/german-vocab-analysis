@@ -33,6 +33,11 @@ status: "new"
 > Wer arbeitslos wird, hat Anspruch auf Sozialleistungen.
 > *Those who become unemployed are entitled to social benefits.*
 
+**Phrases & Expressions:**
+- **Sozialleistungen beziehen** — *social benefit*
+- **Sozialleistungen kürzen** — *social benefit*
+- **Anspruch auf Sozialleistungen** — *social benefit*
+
 **Collocations**
 - Sozialleistungen beziehen
 - Sozialleistungen kürzen

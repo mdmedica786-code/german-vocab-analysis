@@ -33,6 +33,11 @@ status: "new"
 > Wir haben den Lieferanten gewechselt.
 > *We have changed the supplier.*
 
+**Phrases & Expressions:**
+- **einen Lieferanten suchen** — *supplier*
+- **zuverlässiger Lieferant** — *supplier*
+- **Lieferant für + Akk.** — *supplier*
+
 **Collocations**
 - einen Lieferanten suchen
 - zuverlässiger Lieferant

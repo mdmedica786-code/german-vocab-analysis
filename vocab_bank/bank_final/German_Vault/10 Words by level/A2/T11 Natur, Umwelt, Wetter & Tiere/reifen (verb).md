@@ -32,6 +32,9 @@ status: "new"
 > Die Äpfel reifen im Herbst.
 > *The apples ripen in autumn.*
 
+**Phrases & Expressions:**
+- **Die Äpfel reifen im Herbst** — *The apples ripen in autumn* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

@@ -34,6 +34,12 @@ status: "new"
 > Vergleichen Sie die Angebote!
 > *Compare the offers!*
 
+**Phrases & Expressions:**
+- **Preise vergleichen** — *to compare*
+- **A mit B vergleichen** — *to compare*
+- **Angebote vergleichen** — *to compare*
+- **sich vergleichen mit** — *to compare*
+
 **Collocations**
 - Preise vergleichen
 - A mit B vergleichen

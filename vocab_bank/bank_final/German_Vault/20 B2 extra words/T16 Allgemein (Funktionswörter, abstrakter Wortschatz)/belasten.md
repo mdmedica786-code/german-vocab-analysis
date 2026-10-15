@@ -31,6 +31,11 @@ status: "new"
 > Der Lärm belastet die Anwohner sehr.
 > *The noise puts a great strain on the residents.*
 
+**Phrases & Expressions:**
+- **die Umwelt belasten** — *to burden; to strain; to debit*
+- **ein Konto belasten** — *to burden; to strain; to debit*
+- **schwer belastet** — *to burden; to strain; to debit*
+
 **Collocations**
 - die Umwelt belasten
 - ein Konto belasten

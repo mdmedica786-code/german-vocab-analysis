@@ -33,6 +33,11 @@ status: "new"
 > Im Dienstleistungssektor entstehen viele neue Arbeitsplätze.
 > *Many new jobs are being created in the service sector.*
 
+**Phrases & Expressions:**
+- **der öffentliche Sektor** — *sector*
+- **im privaten Sektor** — *sector*
+- **Sektor Handel und Dienstleistungen** — *sector*
+
 **Collocations**
 - der öffentliche Sektor
 - im privaten Sektor

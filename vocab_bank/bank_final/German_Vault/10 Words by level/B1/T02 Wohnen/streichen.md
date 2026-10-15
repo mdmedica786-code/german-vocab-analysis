@@ -32,6 +32,14 @@ status: "new"
 > Wir streichen die Wände weiß.
 > *We are painting the walls white.*
 
+**Phrases & Expressions:**
+- **Unterm Strich ist das eine gute Lösung.** — At the end of the day, that is a good solution. *([[B1-04 Vor- und Nachteile nennen|Zum Ergebnis kommen]] · B1)*
+- **Unter dem Strich bleibt festzuhalten, dass ...** — The bottom line is that ... *([[B2-08 Zusammenfassen, Fazit und Schlussfolgerung|Fazit ziehen]] · B2)*
+- **die Wand streichen** — *to paint; to cross out; to cancel*
+- **einen Satz streichen** — *to paint; to cross out; to cancel*
+- **Butter aufs Brot streichen** — *to paint; to cross out; to cancel*
+- **einen Termin streichen** — *to paint; to cross out; to cancel*
+
 **Collocations**
 - die Wand streichen
 - einen Satz streichen

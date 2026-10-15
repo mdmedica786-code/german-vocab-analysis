@@ -30,6 +30,11 @@ status: "new"
 > Sie lehnt eine Schönheits-OP ab.
 > *She rejects cosmetic surgery.*
 
+**Phrases & Expressions:**
+- **eine Schönheits-OP machen** — *cosmetic surgery*
+- **eine Schönheits-OP bezahlen** — *cosmetic surgery*
+- **sich für eine Schönheits-OP entscheiden** — *cosmetic surgery*
+
 **Collocations**
 - eine Schönheits-OP machen
 - eine Schönheits-OP bezahlen

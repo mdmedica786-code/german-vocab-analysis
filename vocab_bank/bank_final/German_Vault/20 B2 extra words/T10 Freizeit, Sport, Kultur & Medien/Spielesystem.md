@@ -30,6 +30,11 @@ status: "new"
 > Er hat ein neues Spielesystem zum Geburtstag bekommen.
 > *He got a new gaming system for his birthday.*
 
+**Phrases & Expressions:**
+- **ein Spielesystem kaufen** — *gaming system; game console*
+- **ein Spielesystem anschließen** — *gaming system; game console*
+- **ein modernes Spielesystem** — *gaming system; game console*
+
 **Collocations**
 - ein Spielesystem kaufen
 - ein Spielesystem anschließen

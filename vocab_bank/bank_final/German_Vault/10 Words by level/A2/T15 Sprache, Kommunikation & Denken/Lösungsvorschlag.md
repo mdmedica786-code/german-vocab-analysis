@@ -34,6 +34,9 @@ status: "new"
 > Haben Sie einen Lösungsvorschlag für das Problem?
 > *Do you have a proposed solution to the problem?*
 
+**Phrases & Expressions:**
+- **Haben Sie einen Lösungsvorschlag für das Problem** — *Do you have a proposed solution to the problem* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil)
 <!-- bank:end -->
 

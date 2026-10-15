@@ -33,6 +33,11 @@ status: "new"
 > Mit der Firma hat er sich eine neue Existenz aufgebaut.
 > *With the company he built a new livelihood.*
 
+**Phrases & Expressions:**
+- **sich eine Existenz aufbauen** — *existence; livelihood*
+- **die Existenz bedrohen** — *existence; livelihood*
+- **Existenzgründung** — *existence; livelihood*
+
 **Collocations**
 - sich eine Existenz aufbauen
 - die Existenz bedrohen

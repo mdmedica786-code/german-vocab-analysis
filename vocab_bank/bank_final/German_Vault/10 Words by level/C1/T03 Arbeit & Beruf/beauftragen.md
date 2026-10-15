@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Die Firma beauftragt einen Anwalt.
 > *The company instructs a lawyer.*
+
+**Phrases & Expressions:**
+- **Die Firma beauftragt einen Anwalt** — *The company instructs a lawyer* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

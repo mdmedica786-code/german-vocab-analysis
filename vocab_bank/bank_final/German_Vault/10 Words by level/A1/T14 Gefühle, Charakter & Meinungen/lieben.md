@@ -33,6 +33,12 @@ status: "new"
 > Ich liebe dich!
 > *I love you!*
 
+**Phrases & Expressions:**
+- **ich liebe dich** — I love you *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · A2)*
+- **Liebe Anna, wie geht es dir?** — Dear Anna, how are you? *([[B1-12 Persönliche E-Mail und Brief|Anrede]] · B1)*
+- **Viele liebe Grüße, deine Anna** — Many kind regards, your Anna *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+- **Bis bald und liebe Grüße** — See you soon and kind regards *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 3a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

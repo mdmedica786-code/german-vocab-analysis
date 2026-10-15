@@ -34,6 +34,9 @@ status: "new"
 > Der Altenpfleger hilft den Bewohnern beim Waschen.
 > *The geriatric nurse helps the residents with washing.*
 
+**Phrases & Expressions:**
+- **Der Altenpfleger hilft den Bewohnern beim Waschen** — *The geriatric nurse helps the residents with washing* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 1c (Nach der Schulzeit)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Das Konzert wird im Livestream übertragen.
 > *The concert is broadcast in a livestream.*
 
+**Phrases & Expressions:**
+- **im Livestream** — *livestream*
+- **einen Livestream ansehen** — *livestream*
+- **Livestream starten** — *livestream*
+
 **Collocations**
 - im Livestream
 - einen Livestream ansehen

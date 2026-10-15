@@ -33,6 +33,11 @@ status: "new"
 > Der Mörder wurde schnell gefasst.
 > *The murderer was caught quickly.*
 
+**Phrases & Expressions:**
+- **ein gesuchter Mörder** — *murderer*
+- **den Mörder fassen** — *murderer*
+- **der Mörder wurde verurteilt** — *murderer*
+
 **Collocations**
 - ein gesuchter Mörder
 - den Mörder fassen

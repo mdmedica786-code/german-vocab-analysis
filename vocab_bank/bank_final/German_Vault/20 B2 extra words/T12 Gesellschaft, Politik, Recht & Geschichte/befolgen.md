@@ -31,6 +31,11 @@ status: "new"
 > Bitte befolgen Sie die Anweisungen genau.
 > *Please follow the instructions exactly.*
 
+**Phrases & Expressions:**
+- **einen Rat befolgen** — *to follow; to obey*
+- **Regeln befolgen** — *to follow; to obey*
+- **eine Anweisung befolgen** — *to follow; to obey*
+
 **Collocations**
 - einen Rat befolgen
 - Regeln befolgen

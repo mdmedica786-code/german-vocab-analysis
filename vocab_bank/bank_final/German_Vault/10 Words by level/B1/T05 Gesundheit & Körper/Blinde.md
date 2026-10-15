@@ -34,6 +34,9 @@ status: "new"
 > Der Blinde überquert die Straße mit einem Stock.
 > *The blind man crosses the street with a stick.*
 
+**Phrases & Expressions:**
+- **Der Blinde überquert die Straße mit einem Stock** — *The blind man crosses the street with a stick* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander)
 <!-- bank:end -->
 

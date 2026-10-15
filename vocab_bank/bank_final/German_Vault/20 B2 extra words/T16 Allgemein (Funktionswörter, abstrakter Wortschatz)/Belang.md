@@ -33,6 +33,11 @@ status: "new"
 > Die Belange der Bürger müssen berücksichtigt werden.
 > *The concerns of the citizens must be taken into account.*
 
+**Phrases & Expressions:**
+- **von Belang sein** — *concern; interest; importance*
+- **die Belange der Kinder** — *concern; interest; importance*
+- **Belange berücksichtigen** — *concern; interest; importance*
+
 **Collocations**
 - von Belang sein
 - die Belange der Kinder

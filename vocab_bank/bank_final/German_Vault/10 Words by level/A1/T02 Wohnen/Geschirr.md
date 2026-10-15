@@ -35,6 +35,9 @@ status: "new"
 > Stellst du bitte das Geschirr in den Schrank?
 > *Can you put the dishes in the cupboard, please?*
 
+**Phrases & Expressions:**
+- **Stellst du bitte das Geschirr in den Schrank** — *Can you put the dishes in the cupboard, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1b (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

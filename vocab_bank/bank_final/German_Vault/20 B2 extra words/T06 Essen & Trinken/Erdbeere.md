@@ -33,6 +33,11 @@ status: "new"
 > Im Juni kaufen wir frische Erdbeeren vom Feld.
 > *In June we buy fresh strawberries from the field.*
 
+**Phrases & Expressions:**
+- **Erdbeeren pflücken** — *strawberry*
+- **frische Erdbeeren** — *strawberry*
+- **Erdbeeren mit Sahne** — *strawberry*
+
 **Collocations**
 - Erdbeeren pflücken
 - frische Erdbeeren

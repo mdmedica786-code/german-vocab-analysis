@@ -31,6 +31,11 @@ status: "new"
 > Die Armee musste nach drei Monaten kapitulieren.
 > *The army had to surrender after three months.*
 
+**Phrases & Expressions:**
+- **vor etwas kapitulieren** — *to surrender; to give up*
+- **bedingungslos kapitulieren** — *to surrender; to give up*
+- **vor Problemen kapitulieren** — *to surrender; to give up*
+
 **Collocations**
 - vor etwas kapitulieren
 - bedingungslos kapitulieren

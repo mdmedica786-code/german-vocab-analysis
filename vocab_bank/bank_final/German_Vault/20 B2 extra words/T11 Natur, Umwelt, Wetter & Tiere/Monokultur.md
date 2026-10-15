@@ -33,6 +33,11 @@ status: "new"
 > In Monokulturen leben nur wenige Tierarten.
 > *Only few animal species live in monocultures.*
 
+**Phrases & Expressions:**
+- **Monokulturen anbauen** — *monoculture*
+- **Gefahren der Monokultur** — *monoculture*
+- **Wald als Monokultur** — *monoculture*
+
 **Collocations**
 - Monokulturen anbauen
 - Gefahren der Monokultur

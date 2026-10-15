@@ -32,6 +32,10 @@ status: "new"
 > Die Probleme resultieren aus mangelnder Planung.
 > *The problems result from poor planning.*
 
+**Phrases & Expressions:**
+- **resultieren aus + Dat.** — *to result (from)*
+- **daraus resultieren** — *to result (from)*
+
 **Collocations**
 - resultieren aus + Dat.
 - daraus resultieren

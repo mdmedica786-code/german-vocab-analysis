@@ -33,6 +33,11 @@ status: "new"
 > Die Kennzeichnung der Produkte ist Pflicht.
 > *The labelling of the products is mandatory.*
 
+**Phrases & Expressions:**
+- **die Kennzeichnung von Lebensmitteln** — *labelling; marking; identification*
+- **eine Kennzeichnung tragen** — *labelling; marking; identification*
+- **eine klare Kennzeichnung** — *labelling; marking; identification*
+
 **Collocations**
 - die Kennzeichnung von Lebensmitteln
 - eine Kennzeichnung tragen

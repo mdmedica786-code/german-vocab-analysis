@@ -32,6 +32,9 @@ status: "new"
 > Claudia ist 21. – Was? Noch so jung?
 > *Claudia is 21. – What? So young?*
 
+**Phrases & Expressions:**
+- **Claudia ist 21. – Was? Noch so jung** — *Claudia is 21. – What? So young* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3c (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Kinder wünschen sich eine elektrische Eisenbahn.
 > *The children want an electric train set.*
 
+**Phrases & Expressions:**
+- **Die Kinder wünschen sich eine elektrische Eisenbahn** — *The children want an electric train set* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

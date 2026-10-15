@@ -35,6 +35,13 @@ status: "new"
 > Entschuldigung, wie heißt du?
 > *Excuse me, what's your name?*
 
+**Phrases & Expressions:**
+- **Entschuldigung, wie bitte?** — Excuse me, pardon? *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Um Wiederholung bitten]] · B1)*
+- **Entschuldigung, ich meine ...** — Sorry, I mean ... *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Sich selbst korrigieren]] · B1)*
+- **Entschuldigung, das war mein Fehler.** — Sorry, that was my mistake. *([[B1-17 Sich entschuldigen und danken|Sich entschuldigen]] · A2)*
+- **Ich bitte vielmals um Entschuldigung.** — I apologise sincerely. *([[B1-17 Sich entschuldigen und danken|Sich entschuldigen]] · B1)*
+- **Entschuldigung, könnten Sie das bitte wiederholen?** — Sorry, could you please repeat that? *([[B2-07 Telefonieren|Rückfrage stellen]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 2a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

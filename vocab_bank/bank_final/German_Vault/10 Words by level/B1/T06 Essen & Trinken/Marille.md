@@ -42,6 +42,9 @@ status: "new"
 > Schmecken dir die Marillen?
 > *Do you like the apricots?*
 
+**Phrases & Expressions:**
+- **Schmecken dir die Marillen** — *Do you like the apricots* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -30,6 +30,11 @@ status: "new"
 > Solche Fehler passieren jedem.
 > *Such mistakes happen to everyone.*
 
+**Phrases & Expressions:**
+- **solche Leute** — *such; such a*
+- **in solchen Fällen** — *such; such a*
+- **solche wie du** — *such; such a*
+
 **Collocations**
 - solche Leute
 - in solchen Fällen

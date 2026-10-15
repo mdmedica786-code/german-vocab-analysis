@@ -30,6 +30,9 @@ status: "new"
 > „Der Mann“ ist ein maskulines Nomen.
 > *"Der Mann" is a masculine noun.*
 
+**Phrases & Expressions:**
+- **„Der Mann“ ist ein maskulines Nomen** — *"Der Mann" is a masculine noun* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

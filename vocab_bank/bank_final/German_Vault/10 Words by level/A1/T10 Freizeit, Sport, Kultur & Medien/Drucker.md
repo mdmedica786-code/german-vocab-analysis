@@ -35,6 +35,9 @@ status: "new"
 > Mein Drucker ist kaputt.
 > *My printer is broken.*
 
+**Phrases & Expressions:**
+- **Mein Drucker ist kaputt** — *My printer is broken* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 6a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

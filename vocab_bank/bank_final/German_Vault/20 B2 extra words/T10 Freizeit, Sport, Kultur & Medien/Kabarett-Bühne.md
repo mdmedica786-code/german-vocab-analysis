@@ -34,6 +34,11 @@ status: "new"
 > Auf der Kabarett-Bühne tritt heute ein bekannter Komiker auf.
 > *A well-known comedian is performing on the cabaret stage today.*
 
+**Phrases & Expressions:**
+- **auf der Kabarett-Bühne** — *cabaret stage*
+- **eine Kabarett-Bühne eröffnen** — *cabaret stage*
+- **die Kabarett-Bühne der Stadt** — *cabaret stage*
+
 **Collocations**
 - auf der Kabarett-Bühne
 - eine Kabarett-Bühne eröffnen

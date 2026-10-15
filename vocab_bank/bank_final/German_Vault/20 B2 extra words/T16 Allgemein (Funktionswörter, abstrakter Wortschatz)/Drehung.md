@@ -33,6 +33,11 @@ status: "new"
 > Eine halbe Drehung genügt, um das Ventil zu öffnen.
 > *A half turn is enough to open the valve.*
 
+**Phrases & Expressions:**
+- **eine Drehung um** — *turn; rotation*
+- **eine halbe Drehung** — *turn; rotation*
+- **eine Drehung machen** — *turn; rotation*
+
 **Collocations**
 - eine Drehung um
 - eine halbe Drehung

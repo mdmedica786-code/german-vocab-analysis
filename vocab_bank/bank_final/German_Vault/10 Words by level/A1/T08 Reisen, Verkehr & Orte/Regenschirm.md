@@ -34,6 +34,9 @@ status: "new"
 > Hast du einen Regenschirm dabei?
 > *Do you have an umbrella with you?*
 
+**Phrases & Expressions:**
+- **Hast du einen Regenschirm dabei** — *Do you have an umbrella with you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1b (Ab in den Urlaub!)
 <!-- bank:end -->
 

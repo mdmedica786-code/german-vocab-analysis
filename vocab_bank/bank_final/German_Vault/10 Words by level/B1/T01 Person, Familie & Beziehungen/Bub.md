@@ -34,6 +34,9 @@ status: "new"
 > In der Schulklasse sind 15 Buben und 10 Mädchen.
 > *In the class there are 15 boys and 10 girls.*
 
+**Phrases & Expressions:**
+- **In der Schulklasse sind 15 Buben und 10 Mädchen** — *In the class there are 15 boys and 10 girls* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

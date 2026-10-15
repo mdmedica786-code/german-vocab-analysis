@@ -31,6 +31,9 @@ status: "new"
 > Vormittags bin ich im Büro.
 > *In the mornings I am in the office.*
 
+**Phrases & Expressions:**
+- **Vormittags bin ich im Büro** — *In the mornings I am in the office* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

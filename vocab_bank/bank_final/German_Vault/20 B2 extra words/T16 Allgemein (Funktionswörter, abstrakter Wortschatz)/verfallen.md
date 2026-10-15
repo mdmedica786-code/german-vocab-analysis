@@ -31,6 +31,11 @@ status: "new"
 > Der Gutschein verfällt nach einem Jahr.
 > *The voucher expires after one year.*
 
+**Phrases & Expressions:**
+- **in alte Gewohnheiten verfallen** — *to decay; to expire; to fall into*
+- **ein Gebäude verfällt** — *to decay; to expire; to fall into*
+- **verfallen lassen** — *to decay; to expire; to fall into*
+
 **Collocations**
 - in alte Gewohnheiten verfallen
 - ein Gebäude verfällt

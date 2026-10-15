@@ -33,6 +33,14 @@ status: "new"
 > Das Gefäß ist verengt.
 > *The vessel is narrowed.*
 
+**Phrases & Expressions:**
+- **Mit Bluthochdruck ist gemeint, dass der Druck in den Gefäßen zu hoch ist.** — High blood pressure means that the pressure in the vessels is too high. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B1)*
+- **Stellen Sie sich Ihre Gefäße wie verkalkte Wasserrohre vor.** — Imagine your vessels like calcified water pipes. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Bildhaft erklären]] · B2)*
+- **ein verengtes Gefäß** — *vessel; container*
+- **das Gefäß verschließen** — *vessel; container*
+- **das Gefäß erweitern** — *vessel; container*
+- **ein verstopftes Gefäß** — *vessel; container*
+
 **Collocations**
 - ein verengtes Gefäß
 - das Gefäß verschließen

@@ -34,6 +34,9 @@ status: "new"
 > Hören Sie die Ansagen.
 > *Listen to the announcements.*
 
+**Phrases & Expressions:**
+- **Hören Sie die Ansagen** — *Listen to the announcements* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

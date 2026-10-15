@@ -33,6 +33,11 @@ status: "new"
 > Er überzeugt durch seine gute Rhetorik.
 > *He convinces through his good rhetoric.*
 
+**Phrases & Expressions:**
+- **eine geschickte Rhetorik** — *rhetoric*
+- **leere Rhetorik** — *rhetoric*
+- **Rhetorik lernen** — *rhetoric*
+
 **Collocations**
 - eine geschickte Rhetorik
 - leere Rhetorik

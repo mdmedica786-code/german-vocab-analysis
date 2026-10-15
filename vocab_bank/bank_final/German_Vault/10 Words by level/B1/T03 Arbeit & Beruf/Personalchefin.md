@@ -34,6 +34,9 @@ status: "new"
 > Die Personalchefin hat meine Bewerbung gelesen.
 > *The HR manager has read my application.*
 
+**Phrases & Expressions:**
+- **Die Personalchefin hat meine Bewerbung gelesen** — *The HR manager has read my application* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

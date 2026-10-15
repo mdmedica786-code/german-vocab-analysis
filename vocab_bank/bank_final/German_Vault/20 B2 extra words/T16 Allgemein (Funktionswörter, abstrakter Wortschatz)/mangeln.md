@@ -32,6 +32,10 @@ status: "new"
 > Es mangelt an Lehrern.
 > *There is a lack of teachers.*
 
+**Phrases & Expressions:**
+- **mangeln an + Dat.** — *to be lacking*
+- **es mangelt an** — *to be lacking*
+
 **Collocations**
 - mangeln an + Dat.
 - es mangelt an

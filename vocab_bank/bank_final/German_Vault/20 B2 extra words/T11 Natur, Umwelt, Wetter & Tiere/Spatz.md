@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Balkon picken die Spatzen Brotkrumen.
 > *On the balcony the sparrows peck at breadcrumbs.*
 
+**Phrases & Expressions:**
+- **ein Spatz auf dem Dach** — *sparrow*
+- **Spatzen füttern** — *sparrow*
+- **besser ein Spatz in der Hand als eine Taube auf dem Dach** — *sparrow*
+
 **Collocations**
 - ein Spatz auf dem Dach
 - Spatzen füttern

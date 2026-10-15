@@ -32,6 +32,9 @@ status: "new"
 > Ärzte müssen klar mit Patienten kommunizieren.
 > *Doctors must communicate clearly with patients.*
 
+**Phrases & Expressions:**
+- **Ärzte müssen klar mit Patienten kommunizieren** — *Doctors must communicate clearly with patients* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

@@ -31,6 +31,10 @@ status: "new"
 > Der Autor charakterisiert seine Hauptfigur als ehrgeizig.
 > *The author characterises his main character as ambitious.*
 
+**Phrases & Expressions:**
+- **eine Person charakterisieren** — *to characterise*
+- **treffend charakterisieren** — *to characterise*
+
 **Collocations**
 - eine Person charakterisieren
 - treffend charakterisieren

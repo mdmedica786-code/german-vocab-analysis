@@ -34,6 +34,9 @@ status: "new"
 > Die Ehegattin ist mit zur Untersuchung gekommen.
 > *The spouse came along to the examination.*
 
+**Phrases & Expressions:**
+- **Die Ehegattin ist mit zur Untersuchung gekommen** — *The spouse came along to the examination* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches)
 <!-- bank:end -->
 

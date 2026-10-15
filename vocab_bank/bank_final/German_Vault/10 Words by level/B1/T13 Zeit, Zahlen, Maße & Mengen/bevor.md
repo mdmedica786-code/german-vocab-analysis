@@ -31,6 +31,9 @@ status: "new"
 > Bevor wir gehen, möchte ich noch etwas essen.
 > *Before we go, I'd like to eat something.*
 
+**Phrases & Expressions:**
+- **Bevor ich ..., ... ich ...** — Before I ..., I ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Zeit: vorher]] · B1)*
+
 **Source:** Netzwerk neu B1 K7 6c (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

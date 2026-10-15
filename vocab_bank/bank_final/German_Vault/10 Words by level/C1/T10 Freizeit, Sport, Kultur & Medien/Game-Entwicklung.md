@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Er arbeitet in der Game-Entwicklung.
 > *He works in game development.*
+
+**Phrases & Expressions:**
+- **Er arbeitet in der Game-Entwicklung** — *He works in game development* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

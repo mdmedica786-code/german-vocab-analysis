@@ -33,6 +33,11 @@ status: "new"
 > Das alte Hospital der Stadt wurde zu einem Museum.
 > *The town's old hospital was turned into a museum.*
 
+**Phrases & Expressions:**
+- **ein Hospital besuchen** — *hospital (older/formal word)*
+- **im Hospital liegen** — *hospital (older/formal word)*
+- **ein altes Hospital** — *hospital (older/formal word)*
+
 **Collocations**
 - ein Hospital besuchen
 - im Hospital liegen

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Wir passen gut zueinander.
 > *We suit each other well.*
+
+**Phrases & Expressions:**
+- **Wir passen gut zueinander** — *We suit each other well* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

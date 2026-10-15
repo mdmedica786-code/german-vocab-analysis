@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Patient zeigt eine starke Unruhe.
 > *The patient shows marked restlessness.*
+
+**Phrases & Expressions:**
+- **Der Patient zeigt eine starke Unruhe** — *The patient shows marked restlessness* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

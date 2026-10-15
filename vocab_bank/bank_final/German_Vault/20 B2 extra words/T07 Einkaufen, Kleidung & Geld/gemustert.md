@@ -29,6 +29,11 @@ status: "new"
 > Er trägt ein gemustertes Hemd.
 > *He is wearing a patterned shirt.*
 
+**Phrases & Expressions:**
+- **gemusterter Stoff** — *patterned*
+- **gemustert sein** — *patterned*
+- **ein gemustertes Kleid** — *patterned*
+
 **Collocations**
 - gemusterter Stoff
 - gemustert sein

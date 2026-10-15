@@ -29,6 +29,11 @@ status: "new"
 > Er ist jähzornig und schreit schnell.
 > *He is quick-tempered and shouts quickly.*
 
+**Phrases & Expressions:**
+- **ein jähzorniger Mensch** — *quick-tempered*
+- **jähzornig reagieren** — *quick-tempered*
+- **jähzornig werden** — *quick-tempered*
+
 **Collocations**
 - ein jähzorniger Mensch
 - jähzornig reagieren

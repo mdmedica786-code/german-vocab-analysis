@@ -33,6 +33,11 @@ status: "new"
 > Alle Kinder sollen die gleichen Bildungschancen haben.
 > *All children should have the same educational opportunities.*
 
+**Phrases & Expressions:**
+- **gleiche Bildungschancen** — *educational opportunity*
+- **Bildungschancen verbessern** — *educational opportunity*
+- **die Bildungschancen von Kindern** — *educational opportunity*
+
 **Collocations**
 - gleiche Bildungschancen
 - Bildungschancen verbessern

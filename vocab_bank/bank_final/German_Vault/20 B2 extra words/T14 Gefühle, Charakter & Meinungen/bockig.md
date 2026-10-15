@@ -29,6 +29,11 @@ status: "new"
 > Das Kind wurde bockig, als es ins Bett sollte.
 > *The child turned stubborn when it had to go to bed.*
 
+**Phrases & Expressions:**
+- **bockig sein** — *stubborn; sulky (colloquial)*
+- **bockig werden** — *stubborn; sulky (colloquial)*
+- **ein bockiges Kind** — *stubborn; sulky (colloquial)*
+
 **Collocations**
 - bockig sein
 - bockig werden

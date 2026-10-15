@@ -34,6 +34,9 @@ status: "new"
 > Die Verpflegung auf der Reise ist inklusive.
 > *Catering during the trip is included.*
 
+**Phrases & Expressions:**
+- **Die Verpflegung auf der Reise ist inklusive** — *Catering during the trip is included* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

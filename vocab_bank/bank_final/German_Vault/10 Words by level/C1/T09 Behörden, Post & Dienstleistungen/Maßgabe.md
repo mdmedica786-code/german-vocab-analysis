@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Die Hilfe erfolgt nach Maßgabe der vorhandenen Mittel.
 > *Help is given according to the available funds.*
+
+**Phrases & Expressions:**
+- **Die Hilfe erfolgt nach Maßgabe der vorhandenen Mittel** — *Help is given according to the available funds* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -35,6 +35,9 @@ status: "new"
 > Nächste Woche fahre ich zu meinem Onkel nach Berlin.
 > *Next week I'm going to visit my uncle in Berlin.*
 
+**Phrases & Expressions:**
+- **Nächste Woche fahre ich zu meinem Onkel nach Berlin** — *Next week I'm going to visit my uncle in Berlin* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 7a (Alltag und Familie) · Goethe word list A2
 <!-- bank:end -->
 

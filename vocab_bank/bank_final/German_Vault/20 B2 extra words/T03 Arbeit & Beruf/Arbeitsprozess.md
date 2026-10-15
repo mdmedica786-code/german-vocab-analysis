@@ -33,6 +33,11 @@ status: "new"
 > Wir wollen die Arbeitsprozesse in der Firma vereinfachen.
 > *We want to simplify the work processes in the company.*
 
+**Phrases & Expressions:**
+- **den Arbeitsprozess verbessern** — *work process; workflow*
+- **ein effizienter Arbeitsprozess** — *work process; workflow*
+- **in den Arbeitsprozess einbinden** — *work process; workflow*
+
 **Collocations**
 - den Arbeitsprozess verbessern
 - ein effizienter Arbeitsprozess

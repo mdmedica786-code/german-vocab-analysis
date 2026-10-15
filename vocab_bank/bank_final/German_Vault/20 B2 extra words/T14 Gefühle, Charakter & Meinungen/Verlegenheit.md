@@ -33,6 +33,11 @@ status: "new"
 > Vor lauter Verlegenheit wusste er nicht, was er sagen sollte.
 > *Out of sheer embarrassment he did not know what to say.*
 
+**Phrases & Expressions:**
+- **in Verlegenheit geraten** — *embarrassment; predicament*
+- **jemanden in Verlegenheit bringen** — *embarrassment; predicament*
+- **aus Verlegenheit** — *embarrassment; predicament*
+
 **Collocations**
 - in Verlegenheit geraten
 - jemanden in Verlegenheit bringen

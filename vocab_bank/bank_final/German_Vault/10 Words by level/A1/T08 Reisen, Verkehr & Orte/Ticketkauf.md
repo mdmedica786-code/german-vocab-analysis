@@ -31,6 +31,9 @@ status: "new"
 > Der Ticketkauf online ist sehr einfach.
 > *Buying tickets online is very easy.*
 
+**Phrases & Expressions:**
+- **Der Ticketkauf online ist sehr einfach** — *Buying tickets online is very easy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 1a (Arbeitsalltag)
 <!-- bank:end -->
 

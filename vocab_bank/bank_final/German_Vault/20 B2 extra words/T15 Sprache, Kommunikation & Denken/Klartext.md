@@ -33,6 +33,11 @@ status: "new"
 > Ich rede jetzt Klartext mit dir.
 > *I am going to speak plainly with you now.*
 
+**Phrases & Expressions:**
+- **Klartext reden** — *plain speaking; plain language (Klartext reden)*
+- **im Klartext** — *plain speaking; plain language (Klartext reden)*
+- **Klartext sprechen** — *plain speaking; plain language (Klartext reden)*
+
 **Collocations**
 - Klartext reden
 - im Klartext

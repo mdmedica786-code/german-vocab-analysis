@@ -34,6 +34,14 @@ status: "new"
 > Pünktlichkeit zählt zu den wichtigsten Eigenschaften eines Bewerbers.
 > *Punctuality counts among the most important characteristics of an applicant.*
 
+**Phrases & Expressions:**
+- **Zu meinen Stärken zählt, dass ich teamfähig bin.** — Among my strengths is that I work well in a team. *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Stärken nennen]] · B2)*
+- **Zu den Risikofaktoren zählen Rauchen und Übergewicht.** — Risk factors include smoking and being overweight. *([[FSP-10 Verdachtsdiagnose und Diagnose erklären|Risikofaktoren nennen]] · B2)*
+- **bis zehn zählen** — *to count*
+- **zu den Besten zählen** — *to count*
+- **Geld zählen** — *to count*
+- **auf jemanden zählen** — *to count*
+
 **Collocations**
 - bis zehn zählen
 - zu den Besten zählen

@@ -35,6 +35,9 @@ status: "new"
 > Meine Freundin ist Pflegerin in einem Altersheim.
 > *My friend is a nurse in a care home.*
 
+**Phrases & Expressions:**
+- **Meine Freundin ist Pflegerin in einem Altersheim** — *My friend is a nurse in a care home* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 3a (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

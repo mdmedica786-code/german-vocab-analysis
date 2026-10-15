@@ -32,6 +32,9 @@ status: "new"
 > Braten Sie das Fleisch in etwas Öl!
 > *Fry the meat in a little oil!*
 
+**Phrases & Expressions:**
+- **Braten Sie das Fleisch in etwas Öl** — *Fry the meat in a little oil* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Show im Fernsehen war sehr lustig.
 > *The show on TV was very funny.*
 
+**Phrases & Expressions:**
+- **Die Show im Fernsehen war sehr lustig** — *The show on TV was very funny* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

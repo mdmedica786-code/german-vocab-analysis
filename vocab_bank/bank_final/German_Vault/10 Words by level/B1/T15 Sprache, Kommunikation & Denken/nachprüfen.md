@@ -33,6 +33,9 @@ status: "new"
 > Ich prüfe die Zahlen noch einmal nach.
 > *I will check the numbers once more.*
 
+**Phrases & Expressions:**
+- **Ich prüfe die Zahlen noch einmal nach** — *I will check the numbers once more* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 10a (Geld regiert die Welt?)
 <!-- bank:end -->
 

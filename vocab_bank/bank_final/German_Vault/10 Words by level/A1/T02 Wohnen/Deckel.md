@@ -34,6 +34,9 @@ status: "new"
 > Der Deckel passt nicht auf den Topf.
 > *The lid doesn't fit the pot.*
 
+**Phrases & Expressions:**
+- **Der Deckel passt nicht auf den Topf** — *The lid doesn't fit the pot* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Ich brauche neue Sportschuhe für den Lauf.
 > *I need new sports shoes for the run.*
 
+**Phrases & Expressions:**
+- **Ich brauche neue Sportschuhe für den Lauf** — *I need new sports shoes for the run* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 3a (Fit und gesund)
 <!-- bank:end -->
 

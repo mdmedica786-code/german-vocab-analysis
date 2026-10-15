@@ -35,6 +35,9 @@ status: "new"
 > Wir haben noch eine Menge Zeit.
 > *We still have plenty of time.*
 
+**Phrases & Expressions:**
+- **Wir haben noch eine Menge Zeit** — *We still have plenty of time* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Er hat seine Autobiografie mit achtzig Jahren geschrieben.
 > *He wrote his autobiography at the age of eighty.*
 
+**Phrases & Expressions:**
+- **Er hat seine Autobiografie mit achtzig Jahren geschrieben** — *He wrote his autobiography at the age of eighty* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12b (Immer online?)
 <!-- bank:end -->
 

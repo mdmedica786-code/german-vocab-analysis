@@ -32,6 +32,11 @@ status: "new"
 > Bei Gefahr müssen Sie den Notknopf betätigen.
 > *In case of danger you must press the emergency button.*
 
+**Phrases & Expressions:**
+- **den Schalter betätigen** — *to operate; to press; (sich) to be active*
+- **die Bremse betätigen** — *to operate; to press; (sich) to be active*
+- **sich sportlich betätigen** — *to operate; to press; (sich) to be active*
+
 **Collocations**
 - den Schalter betätigen
 - die Bremse betätigen

@@ -33,6 +33,11 @@ status: "new"
 > Im Teich quaken die Frösche laut.
 > *In the pond the frogs croak loudly.*
 
+**Phrases & Expressions:**
+- **ein Frosch quakt** — *frog*
+- **einen Frosch im Hals haben** — *frog*
+- **Froschkönig** — *frog*
+
 **Collocations**
 - ein Frosch quakt
 - einen Frosch im Hals haben

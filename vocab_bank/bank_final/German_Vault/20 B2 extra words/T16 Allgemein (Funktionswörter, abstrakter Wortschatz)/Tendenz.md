@@ -33,6 +33,11 @@ status: "new"
 > Die Tendenz geht zu kleineren Haushalten.
 > *The trend is towards smaller households.*
 
+**Phrases & Expressions:**
+- **eine steigende Tendenz** — *tendency; trend*
+- **die Tendenz zeigt nach oben** — *tendency; trend*
+- **Tendenz haben zu + Dat.** — *tendency; trend*
+
 **Collocations**
 - eine steigende Tendenz
 - die Tendenz zeigt nach oben

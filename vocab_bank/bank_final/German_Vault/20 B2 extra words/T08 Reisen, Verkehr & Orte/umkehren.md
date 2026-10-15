@@ -32,6 +32,11 @@ status: "new"
 > Wegen des Sturms mussten wir auf halbem Weg umkehren.
 > *Because of the storm we had to turn back halfway.*
 
+**Phrases & Expressions:**
+- **auf halbem Weg umkehren** — *to turn back; to reverse*
+- **umkehren müssen** — *to turn back; to reverse*
+- **ins Gegenteil umkehren** — *to turn back; to reverse*
+
 **Collocations**
 - auf halbem Weg umkehren
 - umkehren müssen

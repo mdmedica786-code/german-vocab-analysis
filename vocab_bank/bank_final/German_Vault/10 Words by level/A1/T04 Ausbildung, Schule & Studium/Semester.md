@@ -35,6 +35,9 @@ status: "new"
 > Mein Neffe studiert im 7. Semester Medizin.
 > *My nephew is in his seventh semester of medicine.*
 
+**Phrases & Expressions:**
+- **Mein Neffe studiert im 7. Semester Medizin** — *My nephew is in his seventh semester of medicine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 3a (Studium und Beruf) · Goethe word list B1
 <!-- bank:end -->
 

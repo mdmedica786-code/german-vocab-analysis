@@ -29,6 +29,12 @@ status: "new"
 > Eine nüchterne Betrachtung zeigt, dass der Plan zu teuer ist.
 > *A sober look shows that the plan is too expensive.*
 
+**Phrases & Expressions:**
+- **Bitte kommen Sie nüchtern zur Untersuchung.** — Please come on an empty stomach for the examination. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Nüchternheit]] · A2)*
+- **nüchtern betrachten** — *sober; matter-of-fact; on an empty stomach*
+- **nüchtern bleiben** — *sober; matter-of-fact; on an empty stomach*
+- **auf nüchternen Magen** — *sober; matter-of-fact; on an empty stomach*
+
 **Collocations**
 - nüchtern betrachten
 - nüchtern bleiben

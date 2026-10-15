@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Menschheit muss das Klima schützen.
 > *Humankind must protect the climate.*
+
+**Phrases & Expressions:**
+- **Die Menschheit muss das Klima schützen** — *Humankind must protect the climate* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

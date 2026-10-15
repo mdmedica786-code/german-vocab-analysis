@@ -34,6 +34,9 @@ status: "new"
 > Die Krankheit hat drei Phasen.
 > *The illness has three phases.*
 
+**Phrases & Expressions:**
+- **in dieser Phase** — in this phase *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B2)*
+
 **Source:** Netzwerk neu A2 K8 10b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

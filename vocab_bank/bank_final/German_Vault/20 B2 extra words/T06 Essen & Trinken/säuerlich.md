@@ -29,6 +29,11 @@ status: "new"
 > Die Äpfel schmecken säuerlich.
 > *The apples taste slightly sour.*
 
+**Phrases & Expressions:**
+- **säuerlich schmecken** — *slightly sour*
+- **ein säuerlicher Geschmack** — *slightly sour*
+- **säuerlich lächeln** — *slightly sour*
+
 **Collocations**
 - säuerlich schmecken
 - ein säuerlicher Geschmack

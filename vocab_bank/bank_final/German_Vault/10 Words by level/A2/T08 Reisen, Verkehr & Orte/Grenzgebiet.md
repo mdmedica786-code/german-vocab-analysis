@@ -34,6 +34,9 @@ status: "new"
 > Im Grenzgebiet leben Menschen aus zwei Ländern.
 > *In the border region live people from two countries.*
 
+**Phrases & Expressions:**
+- **Im Grenzgebiet leben Menschen aus zwei Ländern** — *In the border region live people from two countries* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

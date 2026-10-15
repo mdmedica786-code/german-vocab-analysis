@@ -35,6 +35,9 @@ status: "new"
 > Ich mache viel Sport.
 > *I do a lot of sport.*
 
+**Phrases & Expressions:**
+- **Treiben Sie regelmäßig Sport?** — Do you exercise regularly? *([[FSP-05 Familien- und Sozialanamnese|Bewegung erfragen]] · A2)*
+
 **Source:** Netzwerk neu A1 K5 10a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

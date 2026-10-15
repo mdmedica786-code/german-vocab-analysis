@@ -33,6 +33,11 @@ status: "new"
 > Sie empfand sein Schweigen als Verrat.
 > *She felt his silence was a betrayal.*
 
+**Phrases & Expressions:**
+- **Verrat begehen** — *betrayal; treason*
+- **ein Verrat an** — *betrayal; treason*
+- **Verrat üben** — *betrayal; treason*
+
 **Collocations**
 - Verrat begehen
 - ein Verrat an

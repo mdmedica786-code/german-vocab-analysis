@@ -31,6 +31,12 @@ status: "new"
 > Ich möchte nicht in der Stadt wohnen, zumindest jetzt nicht, wenn die Kinder noch so klein sind.
 > *I don't want to live in the city, at least not now while the children are still so small.*
 
+**Phrases & Expressions:**
+- **zumindest teilweise** — *at least*
+- **zumindest jetzt** — *at least*
+- **zumindest nicht** — *at least*
+- **zumindest für ...** — *at least*
+
 **Collocations**
 - zumindest teilweise
 - zumindest jetzt

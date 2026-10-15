@@ -33,6 +33,13 @@ status: "new"
 > Ich habe meine Hausaufgaben vergessen.
 > *I forgot my homework.*
 
+**Phrases & Expressions:**
+- **nicht vergessen** — don't forget *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · A2)*
+- **Was würde Ihnen helfen, die Tabletten nicht zu vergessen?** — What would help you not to forget the tablets? *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Therapietreue]] · B2)*
+- **den Schlüssel vergessen** — *to forget*
+- **den Termin vergessen** — *to forget*
+- **vergessen, zu ...** — *to forget*
+
 **Collocations**
 - den Schlüssel vergessen
 - den Termin vergessen

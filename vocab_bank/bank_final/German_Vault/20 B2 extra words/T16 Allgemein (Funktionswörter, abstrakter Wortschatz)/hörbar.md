@@ -29,6 +29,11 @@ status: "new"
 > Das Geräusch war kaum hörbar.
 > *The noise was barely audible.*
 
+**Phrases & Expressions:**
+- **kaum hörbar** — *audible*
+- **deutlich hörbar** — *audible*
+- **gut hörbar** — *audible*
+
 **Collocations**
 - kaum hörbar
 - deutlich hörbar

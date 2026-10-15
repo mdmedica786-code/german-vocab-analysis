@@ -33,6 +33,11 @@ status: "new"
 > Die Zahl der Delikte ist im letzten Jahr gestiegen.
 > *The number of offences rose last year.*
 
+**Phrases & Expressions:**
+- **ein Delikt begehen** — *offence; crime*
+- **schweres Delikt** — *offence; crime*
+- **Delikte aufklären** — *offence; crime*
+
 **Collocations**
 - ein Delikt begehen
 - schweres Delikt

@@ -31,6 +31,9 @@ status: "new"
 > Das muss dir nicht peinlich sein.
 > *You don't need to feel embarrassed.*
 
+**Phrases & Expressions:**
+- **Das muss dir nicht peinlich sein** — *You don't need to feel embarrassed* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 8b (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

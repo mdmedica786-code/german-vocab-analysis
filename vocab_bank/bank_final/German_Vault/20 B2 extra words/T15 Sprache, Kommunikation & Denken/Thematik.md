@@ -33,6 +33,11 @@ status: "new"
 > Die Thematik ist sehr komplex.
 > *The subject matter is very complex.*
 
+**Phrases & Expressions:**
+- **die Thematik behandeln** — *subject matter; theme*
+- **zur Thematik passen** — *subject matter; theme*
+- **eine schwierige Thematik** — *subject matter; theme*
+
 **Collocations**
 - die Thematik behandeln
 - zur Thematik passen

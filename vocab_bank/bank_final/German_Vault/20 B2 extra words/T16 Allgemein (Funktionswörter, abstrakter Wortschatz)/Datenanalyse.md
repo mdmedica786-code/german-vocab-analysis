@@ -33,6 +33,11 @@ status: "new"
 > Die Datenanalyse zeigt einen klaren Trend.
 > *The data analysis shows a clear trend.*
 
+**Phrases & Expressions:**
+- **eine Datenanalyse durchführen** — *data analysis*
+- **die Datenanalyse auswerten** — *data analysis*
+- **eine statistische Datenanalyse** — *data analysis*
+
 **Collocations**
 - eine Datenanalyse durchführen
 - die Datenanalyse auswerten

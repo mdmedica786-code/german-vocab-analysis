@@ -33,6 +33,11 @@ status: "new"
 > Auf Anordnung des Arztes darf er nicht arbeiten.
 > *On the doctor's orders he may not work.*
 
+**Phrases & Expressions:**
+- **auf Anordnung** — *arrangement; order; instruction*
+- **eine Anordnung treffen** — *arrangement; order; instruction*
+- **die Anordnung der Möbel** — *arrangement; order; instruction*
+
 **Collocations**
 - auf Anordnung
 - eine Anordnung treffen

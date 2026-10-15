@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Die Blume entfaltet ihre Blätter.
 > *The flower unfolds its leaves.*
+
+**Phrases & Expressions:**
+- **Die Blume entfaltet ihre Blätter** — *The flower unfolds its leaves* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

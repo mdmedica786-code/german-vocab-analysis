@@ -33,6 +33,11 @@ status: "new"
 > Der Text enthält viele Fachbegriffe, die ich nachschlagen musste.
 > *The text contains many technical terms that I had to look up.*
 
+**Phrases & Expressions:**
+- **einen Fachbegriff erklären** — *technical term*
+- **medizinische Fachbegriffe** — *technical term*
+- **Fachbegriffe verwenden** — *technical term*
+
 **Collocations**
 - einen Fachbegriff erklären
 - medizinische Fachbegriffe

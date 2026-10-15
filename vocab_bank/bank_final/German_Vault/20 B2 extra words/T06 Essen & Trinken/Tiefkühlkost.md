@@ -30,6 +30,11 @@ status: "new"
 > Tiefkühlkost behält die Nährstoffe oft gut.
 > *Frozen food often retains nutrients well.*
 
+**Phrases & Expressions:**
+- **Tiefkühlkost kaufen** — *frozen food*
+- **Tiefkühlkost auftauen** — *frozen food*
+- **Tiefkühlkost lagern** — *frozen food*
+
 **Collocations**
 - Tiefkühlkost kaufen
 - Tiefkühlkost auftauen

@@ -33,6 +33,12 @@ status: "new"
 > Ich wohne in München.
 > *I live in Munich.*
 
+**Phrases & Expressions:**
+- **Seitdem ich in Deutschland wohne, ...** — Since I have been living in Germany, ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Zeit: seitdem]] · B1)*
+- **Ich wohne in der Hauptstraße 12, im dritten Stock.** — I live at Hauptstraße 12, on the third floor. *([[B1-18 Einladen, zusagen und absagen|Zeit und Ort nennen]] · B1)*
+- **Wie wohnen Sie, allein oder mit Familie?** — What is your living situation, alone or with family? *([[FSP-05 Familien- und Sozialanamnese|Wohnsituation erfragen]] · A2)*
+- **Ich wohne allein und habe wenig Unterstützung.** — I live alone and have little support. *([[FSP-05 Familien- und Sozialanamnese|Patient: Lebensumstände]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 3b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Für Mitglieder ist der Eintritt zum Konzert gratis.
 > *Admission to the concert is free for members.*
 
+**Phrases & Expressions:**
+- **Für Mitglieder ist der Eintritt zum Konzert gratis** — *Admission to the concert is free for members* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 7a (Arbeitsalltag) · Goethe word list B1
 <!-- bank:end -->
 

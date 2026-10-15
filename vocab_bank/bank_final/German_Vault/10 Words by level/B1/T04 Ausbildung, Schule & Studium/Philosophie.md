@@ -34,6 +34,9 @@ status: "new"
 > Sie studiert Philosophie und Geschichte.
 > *She studies philosophy and history.*
 
+**Phrases & Expressions:**
+- **Sie studiert Philosophie und Geschichte** — *She studies philosophy and history* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -31,6 +31,10 @@ status: "new"
 > Ich bin mit der Wohnung zufrieden.
 > *I'm satisfied with the flat.*
 
+**Phrases & Expressions:**
+- **Leider war ich mit ... nicht zufrieden.** — Unfortunately I was not satisfied with ... *([[B1-13 Formelle E-Mail und Brief|Kurz beschweren]] · B1)*
+- **Ich bin mit der Qualität leider nicht zufrieden.** — Unfortunately I am not satisfied with the quality. *([[B2-04 Beschwerde und Reklamation|Unzufriedenheit ausdrücken]] · B2)*
+
 **Source:** Netzwerk neu A1 K9 11a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

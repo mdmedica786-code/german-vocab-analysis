@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Sie beherrscht drei Sprachen.
 > *She masters three languages.*
+
+**Phrases & Expressions:**
+- **Sie beherrscht drei Sprachen** — *She masters three languages* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

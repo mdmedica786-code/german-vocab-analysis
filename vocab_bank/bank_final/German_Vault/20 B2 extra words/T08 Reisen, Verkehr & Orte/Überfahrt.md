@@ -33,6 +33,11 @@ status: "new"
 > Die Überfahrt mit der Fähre dauert zwei Stunden.
 > *The ferry crossing takes two hours.*
 
+**Phrases & Expressions:**
+- **die Überfahrt buchen** — *crossing (by ferry)*
+- **eine ruhige Überfahrt** — *crossing (by ferry)*
+- **Überfahrt zur Insel** — *crossing (by ferry)*
+
 **Collocations**
 - die Überfahrt buchen
 - eine ruhige Überfahrt

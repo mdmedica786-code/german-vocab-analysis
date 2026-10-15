@@ -35,6 +35,9 @@ status: "new"
 > An meiner Jacke fehlt ein Knopf.
 > *A button is missing on my jacket.*
 
+**Phrases & Expressions:**
+- **An meiner Jacke fehlt ein Knopf** — *A button is missing on my jacket* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 3e (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

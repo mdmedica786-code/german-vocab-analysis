@@ -33,6 +33,11 @@ status: "new"
 > Der Lehrer hat bei den Schülern keine Autorität.
 > *The teacher has no authority over the pupils.*
 
+**Phrases & Expressions:**
+- **Autorität haben** — *authority*
+- **die Autorität verlieren** — *authority*
+- **eine anerkannte Autorität** — *authority*
+
 **Collocations**
 - Autorität haben
 - die Autorität verlieren

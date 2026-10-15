@@ -30,6 +30,11 @@ status: "new"
 > Zur Kennenlernparty brachte jeder etwas zu essen mit.
 > *Everyone brought something to eat to the get-to-know-you party.*
 
+**Phrases & Expressions:**
+- **eine Kennenlernparty feiern** — *get-to-know-you party; icebreaker party*
+- **zur Kennenlernparty einladen** — *get-to-know-you party; icebreaker party*
+- **eine Kennenlernparty im Studentenwohnheim** — *get-to-know-you party; icebreaker party*
+
 **Collocations**
 - eine Kennenlernparty feiern
 - zur Kennenlernparty einladen

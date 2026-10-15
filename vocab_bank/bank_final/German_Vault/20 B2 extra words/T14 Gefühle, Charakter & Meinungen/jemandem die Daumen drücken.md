@@ -26,6 +26,11 @@ status: "new"
 > Ich drücke dir für die Prüfung die Daumen.
 > *I'll keep my fingers crossed for you for the exam.*
 
+**Phrases & Expressions:**
+- **Daumen drücken** — *to keep one's fingers crossed for someone*
+- **ich drücke dir die Daumen** — *to keep one's fingers crossed for someone*
+- **die Daumen gedrückt halten** — *to keep one's fingers crossed for someone*
+
 **Collocations**
 - Daumen drücken
 - ich drücke dir die Daumen

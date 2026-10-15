@@ -33,6 +33,13 @@ status: "new"
 > Machen wir eine Fahrradtour? - Klingt gut.
 > *Are we going for a bike ride today? Sounds good.*
 
+**Phrases & Expressions:**
+- **Wirklich? Das klingt interessant!** — Really? That sounds interesting! *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Interesse zeigen]] · A2)*
+- **gut klingen** — *to sound*
+- **seltsam klingen** — *to sound*
+- **komisch klingen** — *to sound*
+- **wie klingt das** — *to sound*
+
 **Collocations**
 - gut klingen
 - seltsam klingen

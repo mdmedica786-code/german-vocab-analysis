@@ -31,6 +31,11 @@ status: "new"
 > Das Medikament muss kühl gelagert werden.
 > *The medicine must be stored in a cool place.*
 
+**Phrases & Expressions:**
+- **kühl lagern** — *to store; to be stored*
+- **Waren lagern** — *to store; to be stored*
+- **trocken lagern** — *to store; to be stored*
+
 **Collocations**
 - kühl lagern
 - Waren lagern

@@ -29,6 +29,11 @@ status: "new"
 > Der Boden ist sehr durchlässig, das Wasser versickert sofort.
 > *The soil is very permeable; the water seeps away immediately.*
 
+**Phrases & Expressions:**
+- **durchlässig sein** — *permeable; porous*
+- **wasserdurchlässig** — *permeable; porous*
+- **eine durchlässige Schicht** — *permeable; porous*
+
 **Collocations**
 - durchlässig sein
 - wasserdurchlässig

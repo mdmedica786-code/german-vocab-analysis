@@ -26,6 +26,10 @@ status: "new"
 > Der Vorsitzende erteilte der Rednerin das Wort.
 > *The chairman gave the speaker the floor.*
 
+**Phrases & Expressions:**
+- **das Wort ergreifen** — *to give the floor*
+- **das Wort haben** — *to give the floor*
+
 **Collocations**
 - das Wort ergreifen
 - das Wort haben

@@ -33,6 +33,11 @@ status: "new"
 > Im Feinkostladen gibt es Oliven und Antipasti.
 > *In the delicatessen there are olives and antipasti.*
 
+**Phrases & Expressions:**
+- **Feinkost kaufen** — *delicatessen; gourmet food*
+- **ein Feinkostladen** — *delicatessen; gourmet food*
+- **Feinkost und Delikatessen** — *delicatessen; gourmet food*
+
 **Collocations**
 - Feinkost kaufen
 - ein Feinkostladen

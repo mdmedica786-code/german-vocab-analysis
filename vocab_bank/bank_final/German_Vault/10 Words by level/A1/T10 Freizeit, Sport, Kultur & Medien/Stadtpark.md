@@ -34,6 +34,9 @@ status: "new"
 > Im Stadtpark gibt es einen kleinen See.
 > *There is a small lake in the city park.*
 
+**Phrases & Expressions:**
+- **Im Stadtpark gibt es einen kleinen See** — *There is a small lake in the city park* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 7a (Arbeitsalltag)
 <!-- bank:end -->
 

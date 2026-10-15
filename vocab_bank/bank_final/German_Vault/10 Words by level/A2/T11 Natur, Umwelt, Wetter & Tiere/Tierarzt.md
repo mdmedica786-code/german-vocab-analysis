@@ -34,6 +34,9 @@ status: "new"
 > Der Tierarzt impft den Hund.
 > *The vet vaccinates the dog.*
 
+**Phrases & Expressions:**
+- **Der Tierarzt impft den Hund** — *The vet vaccinates the dog* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 11b (Zusammen leben)
 <!-- bank:end -->
 

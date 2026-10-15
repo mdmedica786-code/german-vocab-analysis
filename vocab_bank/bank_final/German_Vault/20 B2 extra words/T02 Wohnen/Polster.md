@@ -33,6 +33,11 @@ status: "new"
 > Das Polster des Sofas ist sehr weich.
 > *The cushion of the sofa is very soft.*
 
+**Phrases & Expressions:**
+- **ein weiches Polster** — *cushion; padding*
+- **das Polster aufschütteln** — *cushion; padding*
+- **ein finanzielles Polster** — *cushion; padding*
+
 **Collocations**
 - ein weiches Polster
 - das Polster aufschütteln

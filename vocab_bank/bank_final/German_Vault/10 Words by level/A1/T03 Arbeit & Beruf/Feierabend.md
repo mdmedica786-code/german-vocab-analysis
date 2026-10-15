@@ -35,6 +35,9 @@ status: "new"
 > Einen schönen Feierabend.
 > *Have a nice evening after work.*
 
+**Phrases & Expressions:**
+- **Einen schönen Feierabend** — *Have a nice evening after work* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 3a (Studium und Beruf) · Goethe word list B1
 <!-- bank:end -->
 

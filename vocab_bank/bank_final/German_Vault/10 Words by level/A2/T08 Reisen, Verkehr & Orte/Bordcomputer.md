@@ -34,6 +34,9 @@ status: "new"
 > Der Bordcomputer zeigt den Benzinverbrauch an.
 > *The on-board computer shows the petrol consumption.*
 
+**Phrases & Expressions:**
+- **Der Bordcomputer zeigt den Benzinverbrauch an** — *The on-board computer shows the petrol consumption* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 6a (Ganz schön mobil)
 <!-- bank:end -->
 

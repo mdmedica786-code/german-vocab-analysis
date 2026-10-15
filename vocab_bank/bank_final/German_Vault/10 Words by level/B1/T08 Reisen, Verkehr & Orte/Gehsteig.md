@@ -34,6 +34,9 @@ status: "new"
 > Das Fahrradfahren auf dem Gehsteig ist nicht erlaubt.
 > *Cycling on the pavement is not allowed.*
 
+**Phrases & Expressions:**
+- **Das Fahrradfahren auf dem Gehsteig ist nicht erlaubt** — *Cycling on the pavement is not allowed* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

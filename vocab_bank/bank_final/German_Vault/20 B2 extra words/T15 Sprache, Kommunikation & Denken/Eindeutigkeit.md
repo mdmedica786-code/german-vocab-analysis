@@ -33,6 +33,11 @@ status: "new"
 > Die Eindeutigkeit des Ergebnisses überraschte alle.
 > *The unambiguity of the result surprised everyone.*
 
+**Phrases & Expressions:**
+- **mit Eindeutigkeit** — *clarity; unambiguity*
+- **Eindeutigkeit schaffen** — *clarity; unambiguity*
+- **an Eindeutigkeit mangeln** — *clarity; unambiguity*
+
 **Collocations**
 - mit Eindeutigkeit
 - Eindeutigkeit schaffen

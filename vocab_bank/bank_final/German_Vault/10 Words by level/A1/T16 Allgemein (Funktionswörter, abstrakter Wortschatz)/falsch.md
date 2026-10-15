@@ -31,6 +31,9 @@ status: "new"
 > Das ist falsch.
 > *That is wrong.*
 
+**Phrases & Expressions:**
+- **Vielleicht liege ich falsch, aber ...** — Maybe I'm wrong, but ... *([[B1-01 Meinung äußern|Meinung abschwächen]] · B1)*
+
 **Source:** Netzwerk neu A1 K5 7b (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Andreas und Nessrin unterhalten sich.
 > *Andreas and Nessrin are chatting.*
 
+**Phrases & Expressions:**
+- **Andreas und Nessrin unterhalten sich** — *Andreas and Nessrin are chatting* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 5c (Große und kleine Gefühle) · Goethe word list A2
 <!-- bank:end -->
 

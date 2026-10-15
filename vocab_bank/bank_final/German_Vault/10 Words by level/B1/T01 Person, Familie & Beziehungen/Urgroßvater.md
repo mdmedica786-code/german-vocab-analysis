@@ -34,6 +34,9 @@ status: "new"
 > Mein Urgroßvater wurde im Jahr 1920 geboren.
 > *My great-grandfather was born in 1920.*
 
+**Phrases & Expressions:**
+- **Mein Urgroßvater wurde im Jahr 1920 geboren** — *My great-grandfather was born in 1920* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

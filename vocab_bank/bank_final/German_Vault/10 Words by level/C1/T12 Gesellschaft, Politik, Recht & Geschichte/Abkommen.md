@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Länder unterzeichneten ein Abkommen.
 > *The countries signed an agreement.*
+
+**Phrases & Expressions:**
+- **Die Länder unterzeichneten ein Abkommen** — *The countries signed an agreement* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -30,6 +30,9 @@ status: "new"
 > Ich bin fest entschlossen, diese Ausbildung fertigzumachen.
 > *I am firmly determined to finish this training.*
 
+**Phrases & Expressions:**
+- **Ich bin fest entschlossen, diese Ausbildung fertigzumachen** — *I am firmly determined to finish this training* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

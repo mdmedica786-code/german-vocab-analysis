@@ -29,6 +29,11 @@ status: "new"
 > Das war ein wahrhaft schöner Abend.
 > *That was a truly lovely evening.*
 
+**Phrases & Expressions:**
+- **wahrhaft groß** — *truly; genuinely; real*
+- **ein wahrhaft einmaliges Erlebnis** — *truly; genuinely; real*
+- **wahrhaft erstaunlich** — *truly; genuinely; real*
+
 **Collocations**
 - wahrhaft groß
 - ein wahrhaft einmaliges Erlebnis

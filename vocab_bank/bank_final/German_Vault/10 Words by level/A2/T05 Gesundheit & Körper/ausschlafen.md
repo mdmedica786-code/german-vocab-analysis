@@ -33,6 +33,9 @@ status: "new"
 > Am Wochenende schlafe ich gern aus.
 > *At the weekend I like to sleep in.*
 
+**Phrases & Expressions:**
+- **Am Wochenende schlafe ich gern aus** — *At the weekend I like to sleep in* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 3a (Nach der Schulzeit)
 <!-- bank:end -->
 

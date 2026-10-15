@@ -34,6 +34,9 @@ status: "new"
 > Die deutsche Grammatik ist nicht immer leicht.
 > *German grammar is not always easy.*
 
+**Phrases & Expressions:**
+- **Die deutsche Grammatik ist nicht immer leicht** — *German grammar is not always easy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 8e (Guten Tag!)
 <!-- bank:end -->
 

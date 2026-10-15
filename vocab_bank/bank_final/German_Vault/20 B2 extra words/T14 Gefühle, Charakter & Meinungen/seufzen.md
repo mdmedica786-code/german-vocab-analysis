@@ -31,6 +31,11 @@ status: "new"
 > Sie seufzte tief und schloss das Buch.
 > *She sighed deeply and closed the book.*
 
+**Phrases & Expressions:**
+- **tief seufzen** — *to sigh*
+- **erleichtert seufzen** — *to sigh*
+- **vor sich hin seufzen** — *to sigh*
+
 **Collocations**
 - tief seufzen
 - erleichtert seufzen

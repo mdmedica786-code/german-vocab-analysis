@@ -32,6 +32,9 @@ status: "new"
 > Die Stadt ehrt die Sportlerin.
 > *The city honours the sportswoman.*
 
+**Phrases & Expressions:**
+- **Die Stadt ehrt die Sportlerin** — *The city honours the sportswoman* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

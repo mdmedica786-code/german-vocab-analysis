@@ -33,6 +33,11 @@ status: "new"
 > Er hat eine Neigung zu Übertreibungen.
 > *He has a tendency to exaggerate.*
 
+**Phrases & Expressions:**
+- **eine Neigung haben zu + Dat.** — *inclination; tendency; slope*
+- **künstlerische Neigungen** — *inclination; tendency; slope*
+- **eine leichte Neigung** — *inclination; tendency; slope*
+
 **Collocations**
 - eine Neigung haben zu + Dat.
 - künstlerische Neigungen

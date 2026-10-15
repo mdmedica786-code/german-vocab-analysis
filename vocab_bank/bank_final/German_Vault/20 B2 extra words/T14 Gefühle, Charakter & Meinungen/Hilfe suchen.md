@@ -26,6 +26,10 @@ status: "new"
 > Wer Probleme hat, sollte rechtzeitig Hilfe suchen.
 > *Anyone who has problems should seek help in good time.*
 
+**Phrases & Expressions:**
+- **professionelle Hilfe suchen** — *to seek help*
+- **bei jemandem Hilfe suchen** — *to seek help*
+
 **Collocations**
 - professionelle Hilfe suchen
 - bei jemandem Hilfe suchen

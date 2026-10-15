@@ -29,6 +29,11 @@ status: "new"
 > Diese Plätze sind den Gästen vorbehalten.
 > *These seats are reserved for the guests.*
 
+**Phrases & Expressions:**
+- **vorbehalten sein** — *reserved*
+- **sich etwas vorbehalten** — *reserved*
+- **Änderungen vorbehalten** — *reserved*
+
 **Collocations**
 - vorbehalten sein
 - sich etwas vorbehalten

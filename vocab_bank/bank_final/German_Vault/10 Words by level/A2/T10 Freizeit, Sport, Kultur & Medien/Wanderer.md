@@ -34,6 +34,9 @@ status: "new"
 > Der Wanderer macht Pause am See.
 > *The hiker takes a break at the lake.*
 
+**Phrases & Expressions:**
+- **Der Wanderer macht Pause am See** — *The hiker takes a break at the lake* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!)
 <!-- bank:end -->
 

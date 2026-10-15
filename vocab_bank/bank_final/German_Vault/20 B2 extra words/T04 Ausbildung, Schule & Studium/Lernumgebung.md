@@ -30,6 +30,11 @@ status: "new"
 > Eine ruhige Lernumgebung hilft beim Konzentrieren.
 > *A quiet learning environment helps with concentration.*
 
+**Phrases & Expressions:**
+- **eine gute Lernumgebung** — *learning environment*
+- **die Lernumgebung gestalten** — *learning environment*
+- **eine digitale Lernumgebung** — *learning environment*
+
 **Collocations**
 - eine gute Lernumgebung
 - die Lernumgebung gestalten

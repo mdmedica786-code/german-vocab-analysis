@@ -35,6 +35,9 @@ status: "new"
 > Es gibt viele Webseiten mit Grammatikübungen.
 > *There are many websites with grammar exercises.*
 
+**Phrases & Expressions:**
+- **Es gibt viele Webseiten mit Grammatikübungen** — *There are many websites with grammar exercises* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1a (Immer online?) · Goethe word list A2
 <!-- bank:end -->
 

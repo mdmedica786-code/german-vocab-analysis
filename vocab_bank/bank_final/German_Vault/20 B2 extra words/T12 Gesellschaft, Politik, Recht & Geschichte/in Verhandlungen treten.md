@@ -26,6 +26,10 @@ status: "new"
 > Die Parteien sind in Verhandlungen getreten.
 > *The parties have entered into negotiations.*
 
+**Phrases & Expressions:**
+- **Verhandlungen führen** — *to enter into negotiations*
+- **in Verhandlungen stehen** — *to enter into negotiations*
+
 **Collocations**
 - Verhandlungen führen
 - in Verhandlungen stehen

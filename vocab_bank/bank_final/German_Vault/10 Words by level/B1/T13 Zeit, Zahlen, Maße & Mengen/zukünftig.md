@@ -31,6 +31,9 @@ status: "new"
 > Ich bitte dich, zukünftig früher zu kommen.
 > *I ask you to come earlier in future.*
 
+**Phrases & Expressions:**
+- **Ich bitte dich, zukünftig früher zu kommen** — *I ask you to come earlier in future* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

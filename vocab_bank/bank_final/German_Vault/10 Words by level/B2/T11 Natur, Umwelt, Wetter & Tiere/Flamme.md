@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Flammen griffen schnell auf das Nachbarhaus über.
 > *The flames quickly spread to the neighbouring house.*
+
+**Phrases & Expressions:**
+- **Die Flammen griffen schnell auf das Nachbarhaus über** — *The flames quickly spread to the neighbouring house* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

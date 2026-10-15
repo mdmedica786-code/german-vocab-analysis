@@ -34,6 +34,9 @@ status: "new"
 > Die Busfahrerin ist immer freundlich.
 > *The bus driver is always friendly.*
 
+**Phrases & Expressions:**
+- **Die Busfahrerin ist immer freundlich** — *The bus driver is always friendly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

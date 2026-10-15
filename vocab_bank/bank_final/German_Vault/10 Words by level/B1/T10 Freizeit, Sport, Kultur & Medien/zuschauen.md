@@ -33,6 +33,9 @@ status: "new"
 > Möchtest du beim Fußballspiel zuschauen?
 > *Would you like to watch the football match?*
 
+**Phrases & Expressions:**
+- **Möchtest du beim Fußballspiel zuschauen** — *Would you like to watch the football match* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

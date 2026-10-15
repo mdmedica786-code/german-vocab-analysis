@@ -34,6 +34,9 @@ status: "new"
 > Was ist die Pluralform von „Kind“?
 > *What is the plural form of “Kind”?*
 
+**Phrases & Expressions:**
+- **Was ist die Pluralform von „Kind“** — *What is the plural form of “Kind”* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 8a (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

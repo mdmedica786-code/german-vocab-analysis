@@ -33,6 +33,11 @@ status: "new"
 > Er schrieb eine Abhandlung über die deutsche Sprache.
 > *He wrote a treatise on the German language.*
 
+**Phrases & Expressions:**
+- **eine wissenschaftliche Abhandlung** — *treatise; essay; paper*
+- **eine Abhandlung verfassen** — *treatise; essay; paper*
+- **eine Abhandlung über** — *treatise; essay; paper*
+
 **Collocations**
 - eine wissenschaftliche Abhandlung
 - eine Abhandlung verfassen

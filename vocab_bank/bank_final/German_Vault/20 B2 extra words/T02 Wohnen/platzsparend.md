@@ -29,6 +29,11 @@ status: "new"
 > Das Regal ist platzsparend und praktisch.
 > *The shelf is space-saving and practical.*
 
+**Phrases & Expressions:**
+- **platzsparend einrichten** — *space-saving*
+- **ein platzsparendes Möbelstück** — *space-saving*
+- **platzsparend verstauen** — *space-saving*
+
 **Collocations**
 - platzsparend einrichten
 - ein platzsparendes Möbelstück

@@ -29,6 +29,11 @@ status: "new"
 > Das Treffen musste kurzfristig abgesagt werden.
 > *The meeting had to be cancelled at short notice.*
 
+**Phrases & Expressions:**
+- **kurzfristig absagen** — *short-term; at short notice*
+- **kurzfristige Lösungen** — *short-term; at short notice*
+- **kurzfristig buchen** — *short-term; at short notice*
+
 **Collocations**
 - kurzfristig absagen
 - kurzfristige Lösungen

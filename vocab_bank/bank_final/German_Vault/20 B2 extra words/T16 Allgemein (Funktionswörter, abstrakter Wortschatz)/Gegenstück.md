@@ -33,6 +33,11 @@ status: "new"
 > Der deutsche Begriff hat im Englischen kein genaues Gegenstück.
 > *The German term has no exact counterpart in English.*
 
+**Phrases & Expressions:**
+- **das Gegenstück zu + Dat.** — *counterpart; opposite*
+- **ein passendes Gegenstück** — *counterpart; opposite*
+- **kein Gegenstück haben** — *counterpart; opposite*
+
 **Collocations**
 - das Gegenstück zu + Dat.
 - ein passendes Gegenstück

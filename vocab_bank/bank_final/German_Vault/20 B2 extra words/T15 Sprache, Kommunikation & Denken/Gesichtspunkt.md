@@ -33,6 +33,10 @@ status: "new"
 > Wir müssen die Frage unter mehreren Gesichtspunkten betrachten.
 > *We must look at the question from several points of view.*
 
+**Phrases & Expressions:**
+- **unter diesem Gesichtspunkt** — *point of view; aspect*
+- **einen Gesichtspunkt berücksichtigen** — *point of view; aspect*
+
 **Collocations**
 - unter diesem Gesichtspunkt
 - einen Gesichtspunkt berücksichtigen

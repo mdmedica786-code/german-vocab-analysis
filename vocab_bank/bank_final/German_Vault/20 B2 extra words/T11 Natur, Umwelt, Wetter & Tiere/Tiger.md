@@ -33,6 +33,11 @@ status: "new"
 > Der Tiger im Zoo ist ein Raubtier.
 > *The tiger in the zoo is a predator.*
 
+**Phrases & Expressions:**
+- **ein bengalischer Tiger** — *tiger*
+- **wie ein Tiger** — *tiger*
+- **der Tiger brüllt** — *tiger*
+
 **Collocations**
 - ein bengalischer Tiger
 - wie ein Tiger

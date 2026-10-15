@@ -33,6 +33,13 @@ status: "new"
 > Der Laden hat sonntags zu.
 > *The shop is closed on Sundays.*
 
+**Phrases & Expressions:**
+- **ich hatte das Gefühl, dass ...** — I had the feeling that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **ich hatte das Gefühl** — I had the feeling *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **ich hatte keine Ahnung** — I had no idea *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **ich hatte den Eindruck, dass ...** — I had the impression that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **Nachdem ich ... hatte, habe ich ...** — After I had ..., I ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Zeitliche Abfolge erzählen]] · B1)*
+
 **Source:** Netzwerk neu A1 K11 11b ÜB (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

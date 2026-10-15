@@ -33,6 +33,11 @@ status: "new"
 > Der Welpe spielt im Garten mit einem Ball.
 > *The puppy is playing with a ball in the garden.*
 
+**Phrases & Expressions:**
+- **einen Welpen kaufen** — *puppy*
+- **süßer Welpe** — *puppy*
+- **Welpen erziehen** — *puppy*
+
 **Collocations**
 - einen Welpen kaufen
 - süßer Welpe

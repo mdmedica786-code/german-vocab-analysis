@@ -29,6 +29,10 @@ status: "new"
 > Bitte nehmen Sie die neuen Regeln zur Kenntnis.
 > *Please take note of the new rules.*
 
+**Phrases & Expressions:**
+- **etwas zur Kenntnis nehmen** — *to take note of*
+- **Informationen zur Kenntnis nehmen** — *to take note of*
+
 **Collocations**
 - etwas zur Kenntnis nehmen
 - Informationen zur Kenntnis nehmen

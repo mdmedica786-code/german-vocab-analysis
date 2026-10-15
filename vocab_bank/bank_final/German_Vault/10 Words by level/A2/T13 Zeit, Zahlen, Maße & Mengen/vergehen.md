@@ -32,6 +32,9 @@ status: "new"
 > Die Zeit vergeht im Urlaub schnell.
 > *Time goes by quickly on holiday.*
 
+**Phrases & Expressions:**
+- **Die Zeit vergeht im Urlaub schnell** — *Time goes by quickly on holiday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 1a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

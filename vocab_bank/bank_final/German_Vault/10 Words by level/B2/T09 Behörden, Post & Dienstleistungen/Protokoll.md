@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Wer schreibt das Protokoll der Sitzung?
 > *Who is writing the minutes of the meeting?*
+
+**Phrases & Expressions:**
+- **Wer schreibt das Protokoll der Sitzung** — *Who is writing the minutes of the meeting* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -31,6 +31,14 @@ status: "new"
 > Oliver hat in der Firma kein festes Büro.
 > *Oliver doesn't have a fixed office at the firm.*
 
+**Phrases & Expressions:**
+- **fest davon überzeugt sein, dass ...** — to be firmly convinced that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Dazu habe ich keine feste Meinung.** — I don't have a firm opinion on that. *([[B1-01 Meinung äußern|Keine klare Meinung haben]] · B1)*
+- **Ich umarme dich ganz fest.** — I give you a big hug. *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+- **fest angestellt** — *fixed; firm; solid*
+- **ein fester Termin** — *fixed; firm; solid*
+- **fest schlafen** — *fixed; firm; solid*
+
 **Collocations**
 - fest angestellt
 - ein fester Termin

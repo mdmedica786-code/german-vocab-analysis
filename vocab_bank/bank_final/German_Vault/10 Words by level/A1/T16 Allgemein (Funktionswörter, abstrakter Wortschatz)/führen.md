@@ -34,6 +34,14 @@ status: "new"
 > Wir haben gestern ein langes Gespräch geführt.
 > *We had a long conversation yesterday.*
 
+**Phrases & Expressions:**
+- **dazu führen, dass ...** — to lead to ... (the result that) *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **führt dazu, dass ...** — leads to ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **führt zu ...** — leads to ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **dazu führt, dass ...** — leads to ... (the result that) *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **kann dazu führen, dass ...** — can lead to ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **Das führt mich zu der Frage, ob ...** — This leads me to the question of whether ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Übergang gestalten]] · B2)*
+
 **Collocations**
 - ein Gespräch führen
 - zum Erfolg führen

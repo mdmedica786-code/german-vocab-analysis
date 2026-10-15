@@ -34,6 +34,14 @@ status: "new"
 > Zeigen Sie auf das Bild.
 > *Point to the picture.*
 
+**Phrases & Expressions:**
+- **zeigen, dass ...** — to show that ... *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **... zeigt sich, dass ...** — it turns out that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **zeigt sich, dass ...** — it turns out that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **... zeigt, dass ...** — ... shows that ... *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **gezeigt, dass ...** — shown that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **zu zeigen, dass ...** — to show that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+
 **Collocations**
 - auf etwas zeigen
 - den Weg zeigen

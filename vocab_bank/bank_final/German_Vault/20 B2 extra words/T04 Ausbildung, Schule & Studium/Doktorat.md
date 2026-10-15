@@ -33,6 +33,11 @@ status: "new"
 > In Österreich dauert ein Doktorat meist drei Jahre.
 > *In Austria a doctorate usually takes three years.*
 
+**Phrases & Expressions:**
+- **ein Doktorat abschließen** — *doctorate (Austria/Switzerland)*
+- **ein Doktorat machen** — *doctorate (Austria/Switzerland)*
+- **am Doktorat arbeiten** — *doctorate (Austria/Switzerland)*
+
 **Collocations**
 - ein Doktorat abschließen
 - ein Doktorat machen

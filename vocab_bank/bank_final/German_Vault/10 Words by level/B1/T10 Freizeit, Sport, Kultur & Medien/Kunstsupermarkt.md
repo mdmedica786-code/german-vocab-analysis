@@ -31,6 +31,9 @@ status: "new"
 > Im Kunstsupermarkt kann man Bilder günstig kaufen.
 > *In the art supermarket you can buy pictures cheaply.*
 
+**Phrases & Expressions:**
+- **Im Kunstsupermarkt kann man Bilder günstig kaufen** — *In the art supermarket you can buy pictures cheaply* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

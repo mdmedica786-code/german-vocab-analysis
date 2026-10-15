@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Mietrecht darf der Vermieter die Miete nicht beliebig erhöhen.
 > *According to tenancy law the landlord may not raise the rent arbitrarily.*
 
+**Phrases & Expressions:**
+- **im Mietrecht** — *tenancy law*
+- **Mietrecht reformieren** — *tenancy law*
+- **Fragen zum Mietrecht** — *tenancy law*
+
 **Collocations**
 - im Mietrecht
 - Mietrecht reformieren

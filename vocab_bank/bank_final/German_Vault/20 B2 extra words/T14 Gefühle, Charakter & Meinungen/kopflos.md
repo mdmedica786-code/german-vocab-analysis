@@ -29,6 +29,11 @@ status: "new"
 > Kopflos rannte er aus dem Gebäude.
 > *Panicking, he ran out of the building.*
 
+**Phrases & Expressions:**
+- **kopflos reagieren** — *panicky; rash; without thinking*
+- **kopflos umherlaufen** — *panicky; rash; without thinking*
+- **kopflos handeln** — *panicky; rash; without thinking*
+
 **Collocations**
 - kopflos reagieren
 - kopflos umherlaufen

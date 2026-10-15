@@ -34,6 +34,9 @@ status: "new"
 > Für dieses Wort brauche ich eine Umschreibung.
 > *I need a paraphrase for this word.*
 
+**Phrases & Expressions:**
+- **Für dieses Wort brauche ich eine Umschreibung** — *I need a paraphrase for this word* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9c (Blick nach vorn)
 <!-- bank:end -->
 

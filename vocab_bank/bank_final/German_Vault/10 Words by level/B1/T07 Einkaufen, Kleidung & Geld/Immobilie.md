@@ -34,6 +34,9 @@ status: "new"
 > Er investiert sein Geld in Immobilien.
 > *He invests his money in real estate.*
 
+**Phrases & Expressions:**
+- **Er investiert sein Geld in Immobilien** — *He invests his money in real estate* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

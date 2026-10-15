@@ -34,6 +34,9 @@ status: "new"
 > Ich habe einen Forumsbeitrag zu dem Thema geschrieben.
 > *I wrote a forum post on the topic.*
 
+**Phrases & Expressions:**
+- **Ich habe einen Forumsbeitrag zu dem Thema geschrieben** — *I wrote a forum post on the topic* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 12b (Fit und gesund)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Wir haben das Problem eingehend besprochen.
 > *We discussed the problem thoroughly.*
 
+**Phrases & Expressions:**
+- **eingehend prüfen** — *thorough; detailed*
+- **eingehend besprechen** — *thorough; detailed*
+- **eine eingehende Analyse** — *thorough; detailed*
+
 **Collocations**
 - eingehend prüfen
 - eingehend besprechen

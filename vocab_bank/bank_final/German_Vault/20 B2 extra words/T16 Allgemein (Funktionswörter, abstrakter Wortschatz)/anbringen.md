@@ -32,6 +32,11 @@ status: "new"
 > Wir haben ein Schild an der Tür angebracht.
 > *We have put up a sign on the door.*
 
+**Phrases & Expressions:**
+- **ein Schild anbringen** — *to attach; to put up; to voice*
+- **Kritik anbringen** — *to attach; to put up; to voice*
+- **an der Wand anbringen** — *to attach; to put up; to voice*
+
 **Collocations**
 - ein Schild anbringen
 - Kritik anbringen

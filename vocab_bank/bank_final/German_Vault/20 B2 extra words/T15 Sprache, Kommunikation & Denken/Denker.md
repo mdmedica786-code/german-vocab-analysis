@@ -33,6 +33,11 @@ status: "new"
 > Kant gilt als einer der größten Denker Europas.
 > *Kant is regarded as one of the greatest thinkers of Europe.*
 
+**Phrases & Expressions:**
+- **ein großer Denker** — *thinker*
+- **ein kritischer Denker** — *thinker*
+- **die Denker der Aufklärung** — *thinker*
+
 **Collocations**
 - ein großer Denker
 - ein kritischer Denker

@@ -29,6 +29,11 @@ status: "new"
 > Unterdessen wartete sie draußen im Auto.
 > *Meanwhile she waited outside in the car.*
 
+**Phrases & Expressions:**
+- **unterdessen geschehen** — *meanwhile; in the meantime*
+- **und unterdessen** — *meanwhile; in the meantime*
+- **unterdessen schon** — *meanwhile; in the meantime*
+
 **Collocations**
 - unterdessen geschehen
 - und unterdessen

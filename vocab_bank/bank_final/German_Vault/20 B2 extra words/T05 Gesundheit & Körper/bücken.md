@@ -32,6 +32,11 @@ status: "new"
 > Sie bückte sich, um das Buch aufzuheben.
 > *She bent down to pick up the book.*
 
+**Phrases & Expressions:**
+- **sich bücken** — *to bend down; to stoop*
+- **sich nach etwas bücken** — *to bend down; to stoop*
+- **tief gebückt** — *to bend down; to stoop*
+
 **Collocations**
 - sich bücken
 - sich nach etwas bücken

@@ -35,6 +35,10 @@ status: "new"
 > Ich arbeite gern in einem Team.
 > *I like working in a team.*
 
+**Phrases & Expressions:**
+- **Guten Morgen zusammen! Ich bin die Neue im Team.** — Good morning everyone! I'm the new person on the team. *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Kollegen begrüßen]] · B2)*
+- **Wir sollten den Vorfall im Team besprechen, um daraus zu lernen.** — We should discuss the incident in the team in order to learn from it. *([[FSP-19 Übergabe, Konsil und Rücksprache|Fehler ansprechen]] · C1)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Bitte lassen Sie keine Wertsachen im Zimmer.
 > *Please do not leave any valuables in the room.*
 
+**Phrases & Expressions:**
+- **Bitte lassen Sie keine Wertsachen im Zimmer** — *Please do not leave any valuables in the room* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5a (Rund um Körper und Geist)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Die nationalsozialistische Diktatur dauerte zwölf Jahre.
 > *The National Socialist dictatorship lasted twelve years.*
 
+**Phrases & Expressions:**
+- **die nationalsozialistische Zeit** — *National Socialist; Nazi*
+- **nationalsozialistische Verbrechen** — *National Socialist; Nazi*
+- **das nationalsozialistische Regime** — *National Socialist; Nazi*
+
 **Collocations**
 - die nationalsozialistische Zeit
 - nationalsozialistische Verbrechen

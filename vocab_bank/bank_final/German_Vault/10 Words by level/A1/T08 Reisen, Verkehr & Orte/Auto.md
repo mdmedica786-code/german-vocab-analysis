@@ -35,6 +35,9 @@ status: "new"
 > Er kommt mit dem Auto.
 > *He's coming by car.*
 
+**Phrases & Expressions:**
+- **Dieses Medikament kann müde machen, fahren Sie daher nicht selbst Auto.** — This medicine can make you tired, so don't drive yourself. *([[FSP-11 Therapie und Medikamente erklären|Nebenwirkungen erklären]] · B2)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

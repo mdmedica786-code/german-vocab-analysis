@@ -33,6 +33,11 @@ status: "new"
 > Die Landflucht verändert viele Dörfer.
 > *The rural exodus is changing many villages.*
 
+**Phrases & Expressions:**
+- **der Landflucht entgegenwirken** — *rural exodus*
+- **Landflucht beklagen** — *rural exodus*
+- **zunehmende Landflucht** — *rural exodus*
+
 **Collocations**
 - der Landflucht entgegenwirken
 - Landflucht beklagen

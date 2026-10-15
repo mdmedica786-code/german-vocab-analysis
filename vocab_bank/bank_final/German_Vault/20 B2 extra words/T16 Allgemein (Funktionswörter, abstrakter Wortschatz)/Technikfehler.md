@@ -30,6 +30,11 @@ status: "new"
 > Wegen eines Technikfehlers fiel der Vortrag aus.
 > *Because of a technical fault the lecture was cancelled.*
 
+**Phrases & Expressions:**
+- **ein Technikfehler tritt auf** — *technical error; technical fault*
+- **einen Technikfehler beheben** — *technical error; technical fault*
+- **wegen eines Technikfehlers** — *technical error; technical fault*
+
 **Collocations**
 - ein Technikfehler tritt auf
 - einen Technikfehler beheben

@@ -33,6 +33,11 @@ status: "new"
 > Er steht an der Spitze des Unternehmens.
 > *He is at the head of the company.*
 
+**Phrases & Expressions:**
+- **an der Spitze stehen** — *tip; top; lead*
+- **die Spitze des Berges** — *tip; top; lead*
+- **Spitzenleistung** — *tip; top; lead*
+
 **Collocations**
 - an der Spitze stehen
 - die Spitze des Berges

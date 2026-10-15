@@ -33,6 +33,11 @@ status: "new"
 > Die Stadt organisiert die Müllentsorgung für alle Haushalte.
 > *The city organises waste disposal for all households.*
 
+**Phrases & Expressions:**
+- **die Müllentsorgung organisieren** — *waste disposal*
+- **Gebühren für die Müllentsorgung** — *waste disposal*
+- **Müllentsorgung regeln** — *waste disposal*
+
 **Collocations**
 - die Müllentsorgung organisieren
 - Gebühren für die Müllentsorgung

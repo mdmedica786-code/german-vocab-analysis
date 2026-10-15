@@ -33,6 +33,11 @@ status: "new"
 > Die Ausdehnung des Sees ist beachtlich.
 > *The extent of the lake is considerable.*
 
+**Phrases & Expressions:**
+- **die Ausdehnung der Stadt** — *expansion; extent*
+- **räumliche Ausdehnung** — *expansion; extent*
+- **Ausdehnung bei Wärme** — *expansion; extent*
+
 **Collocations**
 - die Ausdehnung der Stadt
 - räumliche Ausdehnung

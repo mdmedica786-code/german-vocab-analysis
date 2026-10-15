@@ -31,6 +31,11 @@ status: "new"
 > Der Dieb konnte der Polizei entkommen.
 > *The thief managed to escape from the police.*
 
+**Phrases & Expressions:**
+- **jemandem entkommen** — *to escape; to get away*
+- **aus dem Gefängnis entkommen** — *to escape; to get away*
+- **knapp entkommen** — *to escape; to get away*
+
 **Collocations**
 - jemandem entkommen
 - aus dem Gefängnis entkommen

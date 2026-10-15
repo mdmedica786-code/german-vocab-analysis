@@ -31,6 +31,11 @@ status: "new"
 > Das Team erlitt eine klare Niederlage.
 > *The team suffered a clear defeat.*
 
+**Phrases & Expressions:**
+- **einen Verlust erleiden** — *to suffer; to sustain*
+- **Schaden erleiden** — *to suffer; to sustain*
+- **eine Niederlage erleiden** — *to suffer; to sustain*
+
 **Collocations**
 - einen Verlust erleiden
 - Schaden erleiden

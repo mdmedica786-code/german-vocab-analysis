@@ -26,6 +26,11 @@ status: "new"
 > Mit einem Protest verlieh die Gruppe ihrer Forderung Nachdruck.
 > *With a protest the group lent emphasis to its demand.*
 
+**Phrases & Expressions:**
+- **einer Forderung Nachdruck verleihen** — *to lend emphasis*
+- **einer Sache Nachdruck verleihen** — *to lend emphasis*
+- **mit Nachdruck** — *to lend emphasis*
+
 **Collocations**
 - einer Forderung Nachdruck verleihen
 - einer Sache Nachdruck verleihen

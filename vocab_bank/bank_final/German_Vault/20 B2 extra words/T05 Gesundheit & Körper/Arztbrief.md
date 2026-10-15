@@ -33,6 +33,12 @@ status: "new"
 > Bitte bringen Sie den Arztbrief zum Termin mit.
 > *Please bring the doctor's letter to the appointment.*
 
+**Phrases & Expressions:**
+- **Sie bekommen einen Arztbrief für Ihren Hausarzt mit.** — You will be given a doctor's letter to take to your GP. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Entlassbrief erklären]] · B1)*
+- **einen Arztbrief schreiben** — *doctor's letter; medical report*
+- **den Arztbrief lesen** — *doctor's letter; medical report*
+- **ein ausführlicher Arztbrief** — *doctor's letter; medical report*
+
 **Collocations**
 - einen Arztbrief schreiben
 - den Arztbrief lesen

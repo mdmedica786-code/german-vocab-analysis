@@ -33,6 +33,11 @@ status: "new"
 > Der Verstoß gegen die Regeln wurde bestraft.
 > *The violation of the rules was punished.*
 
+**Phrases & Expressions:**
+- **ein Verstoß gegen** — *violation; breach; offence*
+- **einen Verstoß melden** — *violation; breach; offence*
+- **bei einem Verstoß** — *violation; breach; offence*
+
 **Collocations**
 - ein Verstoß gegen
 - einen Verstoß melden

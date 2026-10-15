@@ -33,6 +33,11 @@ status: "new"
 > Als Mitfahrer musst du dich im Auto anschnallen.
 > *As a passenger you have to wear a seatbelt in the car.*
 
+**Phrases & Expressions:**
+- **Mitfahrer suchen** — *fellow passenger; passenger*
+- **Fahrer und Mitfahrer** — *fellow passenger; passenger*
+- **einen Mitfahrer mitnehmen** — *fellow passenger; passenger*
+
 **Collocations**
 - Mitfahrer suchen
 - Fahrer und Mitfahrer

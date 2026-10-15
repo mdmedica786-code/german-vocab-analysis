@@ -33,6 +33,13 @@ status: "new"
 > Wir müssen dieses Problem lösen.
 > *We have to solve this problem.*
 
+**Phrases & Expressions:**
+- **Was löst den Schmerz aus?** — What triggers the pain? *([[FSP-03 Schmerzanamnese|Auslösende Faktoren]] · B1)*
+- **ein Problem lösen** — *to solve*
+- **eine Aufgabe lösen** — *to solve*
+- **eine Fahrkarte lösen** — *to solve*
+- **einen Vertrag lösen** — *to solve*
+
 **Collocations**
 - ein Problem lösen
 - eine Aufgabe lösen

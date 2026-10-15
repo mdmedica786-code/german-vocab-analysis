@@ -30,6 +30,14 @@ status: "new"
 > Die Linie 8 fährt am Krankenhaus vorbei.
 > *Line 8 goes past the hospital.*
 
+**Phrases & Expressions:**
+- **an ... vorbei** — past ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Es piekst kurz, dann ist es schon vorbei.** — It will sting briefly, then it's already over. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Blutabnahme]] · A2)*
+- **vorbei sein** — *past; over*
+- **vorbeigehen** — *past; over*
+- **an etwas vorbei** — *past; over*
+- **die Zeit ist vorbei** — *past; over*
+
 **Collocations**
 - vorbei sein
 - vorbeigehen

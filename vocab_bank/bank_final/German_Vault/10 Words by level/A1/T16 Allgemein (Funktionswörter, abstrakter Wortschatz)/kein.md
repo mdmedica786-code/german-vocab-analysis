@@ -32,6 +32,14 @@ status: "new"
 > Es gibt keine Eintrittskarten mehr.
 > **
 
+**Phrases & Expressions:**
+- **kein Wunder, dass ...** — no wonder that ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B1)*
+- **kein Wunder** — no wonder *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B1)*
+- **kein Problem** — no problem *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · A2)*
+- **Kein Problem, das macht nichts.** — No problem, it doesn't matter. *([[B1-17 Sich entschuldigen und danken|Entschuldigung annehmen]] · A2)*
+- **Bei der körperlichen Untersuchung fand sich kein Hinweis auf ...** — On physical examination there was no sign of ... *([[FSP-08 Befunde beschreiben und berichten|Befund im Arzt-Arzt-Gespräch]] · C1)*
+- **Ich verstehe Ihren Ärger, aber ich kann kein respektloses Verhalten dulden.** — I understand your anger, but I cannot tolerate disrespectful behaviour. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Grenzen setzen]] · C1)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

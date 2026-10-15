@@ -31,6 +31,10 @@ status: "new"
 > Wer ständig arbeitet, vernachlässigt seine Freunde.
 > *Anyone who works constantly neglects their friends.*
 
+**Phrases & Expressions:**
+- **die Familie vernachlässigen** — *to neglect*
+- **Pflichten vernachlässigen** — *to neglect*
+
 **Collocations**
 - die Familie vernachlässigen
 - Pflichten vernachlässigen

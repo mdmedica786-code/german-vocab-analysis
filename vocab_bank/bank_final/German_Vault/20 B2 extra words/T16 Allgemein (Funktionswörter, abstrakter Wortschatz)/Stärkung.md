@@ -33,6 +33,11 @@ status: "new"
 > Die Stärkung der Wirtschaft ist das Ziel.
 > *The strengthening of the economy is the aim.*
 
+**Phrases & Expressions:**
+- **zur Stärkung** — *strengthening*
+- **die Stärkung des Vertrauens** — *strengthening*
+- **die Stärkung des Teams** — *strengthening*
+
 **Collocations**
 - zur Stärkung
 - die Stärkung des Vertrauens

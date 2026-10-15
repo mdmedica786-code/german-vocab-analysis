@@ -31,6 +31,10 @@ status: "new"
 > Schade, dass du nicht kommen kannst.
 > *It's a pity that you can't come.*
 
+**Phrases & Expressions:**
+- **Schade, dass du nicht kommen kannst.** — It's a pity that you can't come. *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Bedauern ausdrücken]] · B1)*
+- **Schade, aber ich kann diesmal nicht dabei sein.** — Pity, but I can't be there this time. *([[B1-18 Einladen, zusagen und absagen|Mit Begründung absagen]] · B1)*
+
 **Source:** Netzwerk neu A1 K5 12 (Alltag und Familie) · Goethe word list A2
 <!-- bank:end -->
 

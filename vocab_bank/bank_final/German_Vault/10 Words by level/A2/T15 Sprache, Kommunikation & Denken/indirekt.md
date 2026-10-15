@@ -30,6 +30,11 @@ status: "new"
 > Dieser Satz ist ein indirekter Fragesatz.
 > *This sentence is an indirect question clause.*
 
+**Phrases & Expressions:**
+- **ein indirekter Fragesatz** — *indirect*
+- **indirekt fragen** — *indirect*
+- **eine indirekte Rede** — *indirect*
+
 **Collocations**
 - ein indirekter Fragesatz
 - indirekt fragen

@@ -35,6 +35,14 @@ status: "new"
 > Sie wollen ans Meer? Da gibt es mehrere Möglichkeiten.
 > *You want to go to the seaside? There are several options.*
 
+**Phrases & Expressions:**
+- **die Möglichkeit, dass ...** — the possibility that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Gibt es Möglichkeiten zur Weiterbildung?** — Are there opportunities for further training? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Fragen an Arbeitgeber]] · B2)*
+- **Besteht die Möglichkeit, dass Sie schwanger sind?** — Is there a possibility that you are pregnant? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Schwangerschaft erfragen]] · B1)*
+- **Es gibt zwei Möglichkeiten: Entweder ..., oder ...** — There are two options: either ..., or ... *([[FSP-11 Therapie und Medikamente erklären|Alternativen nennen]] · B2)*
+- **eine Möglichkeit haben** — *possibility*
+- **die Möglichkeit bieten** — *possibility*
+
 **Collocations**
 - eine Möglichkeit haben
 - die Möglichkeit bieten

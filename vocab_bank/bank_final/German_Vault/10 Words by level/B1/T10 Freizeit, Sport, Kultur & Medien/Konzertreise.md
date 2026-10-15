@@ -34,6 +34,9 @@ status: "new"
 > Die Band plant eine Konzertreise durch Europa.
 > *The band is planning a concert tour through Europe.*
 
+**Phrases & Expressions:**
+- **Die Band plant eine Konzertreise durch Europa** — *The band is planning a concert tour through Europe* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 11c (Zwischenmenschliches)
 <!-- bank:end -->
 

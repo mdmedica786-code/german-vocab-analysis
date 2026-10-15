@@ -33,6 +33,11 @@ status: "new"
 > Alle Lebewesen brauchen Wasser zum Leben.
 > *All living beings need water to live.*
 
+**Phrases & Expressions:**
+- **ein einzelnes Lebewesen** — *living being; creature*
+- **höhere Lebewesen** — *living being; creature*
+- **Lebewesen im Meer** — *living being; creature*
+
 **Collocations**
 - ein einzelnes Lebewesen
 - höhere Lebewesen

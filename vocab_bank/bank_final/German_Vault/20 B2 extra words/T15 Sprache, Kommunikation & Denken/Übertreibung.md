@@ -33,6 +33,11 @@ status: "new"
 > Das ist eine maßlose Übertreibung!
 > *That is an extreme exaggeration!*
 
+**Phrases & Expressions:**
+- **maßlose Übertreibung** — *exaggeration*
+- **ohne Übertreibung** — *exaggeration*
+- **eine bewusste Übertreibung** — *exaggeration*
+
 **Collocations**
 - maßlose Übertreibung
 - ohne Übertreibung

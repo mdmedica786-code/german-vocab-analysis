@@ -35,6 +35,9 @@ status: "new"
 > Haben Sie einen Stadtplan von Salzburg?
 > *Do you have a city map of Salzburg?*
 
+**Phrases & Expressions:**
+- **Haben Sie einen Stadtplan von Salzburg** — *Do you have a city map of Salzburg* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8a (Leben in der Stadt) · Goethe word list A2
 <!-- bank:end -->
 

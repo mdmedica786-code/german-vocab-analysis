@@ -35,6 +35,9 @@ status: "new"
 > Ich habe großen Respekt vor meinem Lehrer.
 > *I have great respect for my teacher.*
 
+**Phrases & Expressions:**
+- **Ich habe großen Respekt vor meinem Lehrer** — *I have great respect for my teacher* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1a (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

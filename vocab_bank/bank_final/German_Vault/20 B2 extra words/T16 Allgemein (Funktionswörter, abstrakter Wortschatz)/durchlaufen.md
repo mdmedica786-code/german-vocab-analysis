@@ -31,6 +31,11 @@ status: "new"
 > Jeder Bewerber durchläuft mehrere Auswahlphasen.
 > *Every applicant goes through several selection stages.*
 
+**Phrases & Expressions:**
+- **eine Ausbildung durchlaufen** — *to pass through; to go through (stages)*
+- **mehrere Phasen durchlaufen** — *to pass through; to go through (stages)*
+- **ein Verfahren durchlaufen** — *to pass through; to go through (stages)*
+
 **Collocations**
 - eine Ausbildung durchlaufen
 - mehrere Phasen durchlaufen

@@ -30,6 +30,9 @@ status: "new"
 > Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“.
 > *Young people mostly say tschüss and not auf Wiedersehen.*
 
+**Phrases & Expressions:**
+- **Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“** — *Young people mostly say tschüss and not auf Wiedersehen* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

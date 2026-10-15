@@ -33,6 +33,11 @@ status: "new"
 > Er stieß einen tiefen Seufzer aus.
 > *He let out a deep sigh.*
 
+**Phrases & Expressions:**
+- **einen Seufzer ausstoßen** — *sigh*
+- **ein tiefer Seufzer** — *sigh*
+- **ein Seufzer der Erleichterung** — *sigh*
+
 **Collocations**
 - einen Seufzer ausstoßen
 - ein tiefer Seufzer

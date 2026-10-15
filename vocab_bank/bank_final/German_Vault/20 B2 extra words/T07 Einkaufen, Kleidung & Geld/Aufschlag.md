@@ -33,6 +33,11 @@ status: "new"
 > Für die Lieferung am Sonntag zahlt man einen Aufschlag.
 > *For delivery on Sunday you pay a surcharge.*
 
+**Phrases & Expressions:**
+- **einen Aufschlag zahlen** — *surcharge; extra charge*
+- **ein Aufschlag von zehn Prozent** — *surcharge; extra charge*
+- **mit Aufschlag** — *surcharge; extra charge*
+
 **Collocations**
 - einen Aufschlag zahlen
 - ein Aufschlag von zehn Prozent

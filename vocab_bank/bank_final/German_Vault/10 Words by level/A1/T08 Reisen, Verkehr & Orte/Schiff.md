@@ -36,6 +36,9 @@ status: "new"
 > Wir fahren mit dem Schiff von Basel nach Köln.
 > **
 
+**Phrases & Expressions:**
+- **Wir fahren mit dem Schiff von Basel nach Köln** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

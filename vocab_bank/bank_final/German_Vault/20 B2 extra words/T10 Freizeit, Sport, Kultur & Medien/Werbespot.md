@@ -33,6 +33,11 @@ status: "new"
 > Der Werbespot läuft vor jeder Nachrichtensendung.
 > *The commercial runs before every news programme.*
 
+**Phrases & Expressions:**
+- **einen Werbespot drehen** — *advertisement; commercial*
+- **Werbespot im Fernsehen** — *advertisement; commercial*
+- **einen Werbespot ausstrahlen** — *advertisement; commercial*
+
 **Collocations**
 - einen Werbespot drehen
 - Werbespot im Fernsehen

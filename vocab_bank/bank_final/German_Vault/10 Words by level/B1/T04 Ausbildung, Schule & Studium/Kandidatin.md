@@ -34,6 +34,9 @@ status: "new"
 > Die Kandidatin beantwortet alle Fragen.
 > *The candidate answers all the questions.*
 
+**Phrases & Expressions:**
+- **Die Kandidatin beantwortet alle Fragen** — *The candidate answers all the questions* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander)
 <!-- bank:end -->
 

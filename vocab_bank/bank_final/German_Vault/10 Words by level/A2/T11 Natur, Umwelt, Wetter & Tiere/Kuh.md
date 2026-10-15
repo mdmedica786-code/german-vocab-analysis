@@ -35,6 +35,9 @@ status: "new"
 > Die Kuh gibt jeden Tag viel Milch.
 > *The cow gives a lot of milk every day.*
 
+**Phrases & Expressions:**
+- **Die Kuh gibt jeden Tag viel Milch** — *The cow gives a lot of milk every day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1b (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

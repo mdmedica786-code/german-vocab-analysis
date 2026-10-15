@@ -29,6 +29,11 @@ status: "new"
 > Sie wirkte bedrückt und sagte kaum etwas.
 > *She seemed dejected and hardly said anything.*
 
+**Phrases & Expressions:**
+- **bedrückt wirken** — *depressed; dejected*
+- **bedrückt sein** — *depressed; dejected*
+- **eine bedrückte Stimmung** — *depressed; dejected*
+
 **Collocations**
 - bedrückt wirken
 - bedrückt sein

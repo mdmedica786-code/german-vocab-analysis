@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Dem Bericht liegen genaue Zahlen zugrunde.
 > *Exact figures form the basis of the report.*
+
+**Phrases & Expressions:**
+- **Dem Bericht liegen genaue Zahlen zugrunde** — *Exact figures form the basis of the report* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -34,6 +34,9 @@ status: "new"
 > Wir wohnen am Stadtrand.
 > *We live on the outskirts of the city.*
 
+**Phrases & Expressions:**
+- **Wir wohnen am Stadtrand** — *We live on the outskirts of the city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1b (Zusammen leben)
 <!-- bank:end -->
 

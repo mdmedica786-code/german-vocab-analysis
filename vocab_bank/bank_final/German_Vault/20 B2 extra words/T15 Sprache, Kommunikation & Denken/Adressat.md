@@ -33,6 +33,11 @@ status: "new"
 > Der Adressat des Briefes ist unbekannt.
 > *The addressee of the letter is unknown.*
 
+**Phrases & Expressions:**
+- **der Adressat des Briefes** — *addressee; recipient; target audience*
+- **an den Adressaten** — *addressee; recipient; target audience*
+- **die Adressaten erreichen** — *addressee; recipient; target audience*
+
 **Collocations**
 - der Adressat des Briefes
 - an den Adressaten

@@ -29,6 +29,11 @@ status: "new"
 > Wir haben uns dahingehend geeinigt, dass alle mitmachen.
 > *We agreed to the effect that everyone takes part.*
 
+**Phrases & Expressions:**
+- **dahingehend informieren** — *to the effect; in this regard*
+- **sich dahingehend äußern** — *to the effect; in this regard*
+- **dahingehend ändern** — *to the effect; in this regard*
+
 **Collocations**
 - dahingehend informieren
 - sich dahingehend äußern

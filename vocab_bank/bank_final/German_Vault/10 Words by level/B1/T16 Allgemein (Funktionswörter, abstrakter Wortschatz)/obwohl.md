@@ -31,6 +31,10 @@ status: "new"
 > Obwohl meine Kollegin krank ist, geht sie arbeiten.
 > *Although my colleague is ill, she goes to work.*
 
+**Phrases & Expressions:**
+- **..., obwohl ich ... bin.** — ..., although I am ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Gegensatz]] · B1)*
+- **Obwohl es regnet, gehen wir ...** — Although it is raining, we ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Gegensatz]] · B1)*
+
 **Source:** Netzwerk neu B1 K1 8b (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

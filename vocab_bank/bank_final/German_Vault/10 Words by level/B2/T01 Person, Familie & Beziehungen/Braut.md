@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Braut trägt ein weißes Kleid.
 > *The bride wears a white dress.*
+
+**Phrases & Expressions:**
+- **Die Braut trägt ein weißes Kleid** — *The bride wears a white dress* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

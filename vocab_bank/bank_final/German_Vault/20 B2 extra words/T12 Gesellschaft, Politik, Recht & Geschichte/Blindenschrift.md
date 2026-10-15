@@ -33,6 +33,11 @@ status: "new"
 > Die Speisekarte gibt es auch in Blindenschrift.
 > *The menu is also available in Braille.*
 
+**Phrases & Expressions:**
+- **in Blindenschrift** — *Braille; writing for the blind*
+- **Blindenschrift lesen** — *Braille; writing for the blind*
+- **ein Buch in Blindenschrift** — *Braille; writing for the blind*
+
 **Collocations**
 - in Blindenschrift
 - Blindenschrift lesen

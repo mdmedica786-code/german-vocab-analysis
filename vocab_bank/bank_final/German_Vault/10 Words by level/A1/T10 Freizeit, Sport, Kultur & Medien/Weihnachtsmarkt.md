@@ -34,6 +34,9 @@ status: "new"
 > Auf dem Weihnachtsmarkt gibt es Glühwein.
 > *At the Christmas market there is mulled wine.*
 
+**Phrases & Expressions:**
+- **Auf dem Weihnachtsmarkt gibt es Glühwein** — *At the Christmas market there is mulled wine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 13a (Studium und Beruf)
 <!-- bank:end -->
 

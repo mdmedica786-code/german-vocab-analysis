@@ -35,6 +35,10 @@ status: "new"
 > Wenn Sie Fragen haben, gehen Sie zur Information.
 > *If you have any questions, go to the information desk.*
 
+**Phrases & Expressions:**
+- **Vielen Dank für die interessanten Informationen.** — Thank you very much for the interesting information. *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Sich bedanken]] · B1)*
+- **Könnten Sie mir bitte Informationen zu ... schicken?** — Could you please send me information on ...? *([[B1-13 Formelle E-Mail und Brief|Anfrage stellen]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 7c (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

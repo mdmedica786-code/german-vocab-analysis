@@ -34,6 +34,9 @@ status: "new"
 > Die Konsumenten kaufen weniger Fleisch.
 > *Consumers are buying less meat.*
 
+**Phrases & Expressions:**
+- **Die Konsumenten kaufen weniger Fleisch** — *Consumers are buying less meat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

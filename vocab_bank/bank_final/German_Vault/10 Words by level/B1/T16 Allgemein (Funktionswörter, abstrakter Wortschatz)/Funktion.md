@@ -34,6 +34,12 @@ status: "new"
 > Die Taste hat mehrere Funktionen.
 > *The button has several functions.*
 
+**Phrases & Expressions:**
+- **eine Funktion erfüllen** — *function*
+- **außer Funktion** — *function*
+- **die Funktion eines Geräts** — *function*
+- **in Funktion treten** — *function*
+
 **Collocations**
 - eine Funktion erfüllen
 - außer Funktion

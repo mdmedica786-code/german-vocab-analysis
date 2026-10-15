@@ -34,6 +34,9 @@ status: "new"
 > Am Satzende steht ein Punkt.
 > *At the end of the sentence there is a full stop.*
 
+**Phrases & Expressions:**
+- **Am Satzende steht ein Punkt** — *At the end of the sentence there is a full stop* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 15b (Alltag und Familie)
 <!-- bank:end -->
 

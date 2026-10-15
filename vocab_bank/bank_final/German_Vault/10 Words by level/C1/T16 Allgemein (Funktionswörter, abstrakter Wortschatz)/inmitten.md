@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Inmitten der Stadt liegt ein ruhiger Park.
 > *A quiet park lies in the middle of the city.*
+
+**Phrases & Expressions:**
+- **Inmitten der Stadt liegt ein ruhiger Park** — *A quiet park lies in the middle of the city* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

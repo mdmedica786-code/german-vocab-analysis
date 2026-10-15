@@ -33,6 +33,9 @@ status: "new"
 > Wir wollen den Plan bald umsetzen.
 > *We want to put the plan into practice soon.*
 
+**Phrases & Expressions:**
+- **Wir wollen den Plan bald umsetzen** — *We want to put the plan into practice soon* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7b (Kunststücke)
 <!-- bank:end -->
 

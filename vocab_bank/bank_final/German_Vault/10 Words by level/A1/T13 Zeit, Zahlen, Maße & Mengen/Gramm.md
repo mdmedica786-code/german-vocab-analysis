@@ -35,6 +35,9 @@ status: "new"
 > Ich brauche zweihundert Gramm Butter.
 > *I need two hundred grams of butter.*
 
+**Phrases & Expressions:**
+- **Ich brauche zweihundert Gramm Butter** — *I need two hundred grams of butter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 6a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

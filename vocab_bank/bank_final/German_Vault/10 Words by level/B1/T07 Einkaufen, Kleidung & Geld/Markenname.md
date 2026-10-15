@@ -34,6 +34,9 @@ status: "new"
 > Der Markenname steht auf der Verpackung.
 > *The brand name is on the packaging.*
 
+**Phrases & Expressions:**
+- **Der Markenname steht auf der Verpackung** — *The brand name is on the packaging* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 10a (Das ist ja praktisch!)
 <!-- bank:end -->
 

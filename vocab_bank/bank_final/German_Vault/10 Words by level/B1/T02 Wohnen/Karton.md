@@ -34,6 +34,9 @@ status: "new"
 > Wir packen die Bücher in einen Karton.
 > *We are packing the books in a cardboard box.*
 
+**Phrases & Expressions:**
+- **Wir packen die Bücher in einen Karton** — *We are packing the books in a cardboard box* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 6a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

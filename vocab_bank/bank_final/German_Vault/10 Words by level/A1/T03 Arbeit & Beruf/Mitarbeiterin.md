@@ -35,6 +35,9 @@ status: "new"
 > Die neue Mitarbeiterin fängt am Montag an.
 > *The new colleague starts on Monday.*
 
+**Phrases & Expressions:**
+- **Die neue Mitarbeiterin fängt am Montag an** — *The new colleague starts on Monday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 3a (Arbeitsalltag) · Goethe word list B1
 <!-- bank:end -->
 

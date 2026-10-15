@@ -31,6 +31,9 @@ status: "new"
 > Mein Handy ist stumm geschaltet.
 > *My phone is on silent.*
 
+**Phrases & Expressions:**
+- **Mein Handy ist stumm geschaltet** — *My phone is on silent* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 1b ÜB (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

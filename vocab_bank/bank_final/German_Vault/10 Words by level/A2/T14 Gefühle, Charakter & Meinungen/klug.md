@@ -31,6 +31,9 @@ status: "new"
 > Molly ist ein kluges Mädchen.
 > *Molly is a clever girl.*
 
+**Phrases & Expressions:**
+- **Molly ist ein kluges Mädchen** — *Molly is a clever girl* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3a (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

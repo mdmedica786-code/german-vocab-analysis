@@ -29,6 +29,10 @@ status: "new"
 > Nach drei Misserfolgen hat er das Handtuch geworfen.
 > *After three failures he threw in the towel.*
 
+**Phrases & Expressions:**
+- **nicht das Handtuch werfen** — *to throw in the towel*
+- **aufgeben** — *to throw in the towel*
+
 **Collocations**
 - nicht das Handtuch werfen
 - aufgeben

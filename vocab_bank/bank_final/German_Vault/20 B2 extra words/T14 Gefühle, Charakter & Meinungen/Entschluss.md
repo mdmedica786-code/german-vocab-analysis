@@ -33,6 +33,11 @@ status: "new"
 > Sein Entschluss steht fest.
 > *His decision is firm.*
 
+**Phrases & Expressions:**
+- **ein fester Entschluss** — *decision; resolution*
+- **zu dem Entschluss kommen** — *decision; resolution*
+- **seinen Entschluss ändern** — *decision; resolution*
+
 **Collocations**
 - ein fester Entschluss
 - zu dem Entschluss kommen

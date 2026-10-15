@@ -31,6 +31,12 @@ status: "new"
 > Die lange Wartezeit hat die Kunden verärgert.
 > *The long waiting time annoyed the customers.*
 
+**Phrases & Expressions:**
+- **Sie haben das Recht, verärgert zu sein.** — You have a right to be angry. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Aufgebrachte beruhigen]] · B2)*
+- **jemanden verärgern** — *to annoy; to anger*
+- **verärgert sein** — *to annoy; to anger*
+- **Kunden verärgern** — *to annoy; to anger*
+
 **Collocations**
 - jemanden verärgern
 - verärgert sein

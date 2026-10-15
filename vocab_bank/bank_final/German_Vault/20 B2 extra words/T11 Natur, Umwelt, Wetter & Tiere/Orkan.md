@@ -33,6 +33,11 @@ status: "new"
 > Der Orkan hat Bäume entwurzelt und Dächer abgedeckt.
 > *The hurricane uprooted trees and blew roofs off.*
 
+**Phrases & Expressions:**
+- **ein Orkan zieht auf** — *hurricane; violent storm*
+- **Orkan der Stärke 12** — *hurricane; violent storm*
+- **vor dem Orkan warnen** — *hurricane; violent storm*
+
 **Collocations**
 - ein Orkan zieht auf
 - Orkan der Stärke 12

@@ -33,6 +33,11 @@ status: "new"
 > Wer hat die Lampe kaputtgemacht?
 > *Who broke the lamp?*
 
+**Phrases & Expressions:**
+- **Kein Problem, das macht nichts.** — No problem, it doesn't matter. *([[B1-17 Sich entschuldigen und danken|Entschuldigung annehmen]] · A2)*
+- **Bei mir ist der Wasserhahn kaputt.** — My tap is broken. *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Handwerker und Reparatur]] · B1)*
+- **Wir tun alles, was in unserer Macht steht.** — We are doing everything in our power. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Angehörige beruhigen]] · B2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

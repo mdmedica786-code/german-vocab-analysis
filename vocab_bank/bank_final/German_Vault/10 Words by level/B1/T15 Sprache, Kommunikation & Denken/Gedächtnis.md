@@ -34,6 +34,9 @@ status: "new"
 > Mein Gedächtnis ist nicht mehr so gut.
 > *My memory is not as good as it used to be.*
 
+**Phrases & Expressions:**
+- **Mein Gedächtnis ist nicht mehr so gut** — *My memory is not as good as it used to be* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 12a (Umweltfreundlich?)
 <!-- bank:end -->
 

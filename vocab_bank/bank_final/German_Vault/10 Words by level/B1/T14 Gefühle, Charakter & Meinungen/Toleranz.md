@@ -34,6 +34,9 @@ status: "new"
 > Toleranz ist die Basis für ein friedliches Miteinander.
 > *Tolerance is the basis for peaceful coexistence.*
 
+**Phrases & Expressions:**
+- **Toleranz ist die Basis für ein friedliches Miteinander** — *Tolerance is the basis for peaceful coexistence* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 11a (Miteinander)
 <!-- bank:end -->
 

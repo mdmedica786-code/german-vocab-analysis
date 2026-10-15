@@ -30,6 +30,11 @@ status: "new"
 > Für die Tür brauchen Sie einen vierstelligen Zahlencode.
 > *For the door you need a four-digit number code.*
 
+**Phrases & Expressions:**
+- **einen Zahlencode eingeben** — *number code; numerical code*
+- **einen Zahlencode knacken** — *number code; numerical code*
+- **ein vierstelliger Zahlencode** — *number code; numerical code*
+
 **Collocations**
 - einen Zahlencode eingeben
 - einen Zahlencode knacken

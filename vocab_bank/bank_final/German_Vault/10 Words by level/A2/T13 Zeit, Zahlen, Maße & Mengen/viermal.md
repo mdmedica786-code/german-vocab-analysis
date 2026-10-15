@@ -30,6 +30,9 @@ status: "new"
 > Ich war schon viermal in Berlin.
 > *I have already been to Berlin four times.*
 
+**Phrases & Expressions:**
+- **Ich war schon viermal in Berlin** — *I have already been to Berlin four times* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

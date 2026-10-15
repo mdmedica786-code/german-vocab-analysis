@@ -31,6 +31,10 @@ status: "new"
 > Der Lärm beeinträchtigt die Lebensqualität der Anwohner.
 > *The noise impairs the quality of life of the residents.*
 
+**Phrases & Expressions:**
+- **die Gesundheit beeinträchtigen** — *to impair; to affect adversely*
+- **stark beeinträchtigt sein** — *to impair; to affect adversely*
+
 **Collocations**
 - die Gesundheit beeinträchtigen
 - stark beeinträchtigt sein

@@ -34,6 +34,9 @@ status: "new"
 > Bei Vollmond kann ich nicht schlafen.
 > *I cannot sleep when there is a full moon.*
 
+**Phrases & Expressions:**
+- **Bei Vollmond kann ich nicht schlafen** — *I cannot sleep when there is a full moon* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Sein Desinteresse an dem Thema war nicht zu übersehen.
 > *His lack of interest in the topic was impossible to miss.*
 
+**Phrases & Expressions:**
+- **Desinteresse zeigen** — *lack of interest; indifference*
+- **ein Desinteresse an etwas** — *lack of interest; indifference*
+- **aus Desinteresse** — *lack of interest; indifference*
+
 **Collocations**
 - Desinteresse zeigen
 - ein Desinteresse an etwas

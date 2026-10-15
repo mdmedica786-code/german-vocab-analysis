@@ -33,6 +33,11 @@ status: "new"
 > Viele Hausbesitzer ersetzen die Gasheizung durch eine Wärmepumpe.
 > *Many homeowners replace the gas heating with a heat pump.*
 
+**Phrases & Expressions:**
+- **eine Wärmepumpe einbauen** — *heat pump*
+- **Wärmepumpe installieren** — *heat pump*
+- **Förderung für Wärmepumpen** — *heat pump*
+
 **Collocations**
 - eine Wärmepumpe einbauen
 - Wärmepumpe installieren

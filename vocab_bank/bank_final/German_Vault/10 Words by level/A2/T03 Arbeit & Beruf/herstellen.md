@@ -34,6 +34,14 @@ status: "new"
 > In unserer Firma stellen wir Möbel her.
 > *In our company we make furniture.*
 
+**Phrases & Expressions:**
+- **hin und her** — back and forth *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **es stellt sich die Frage, ob ...** — the question arises whether ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **es stellte sich heraus, dass ...** — it turned out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **es stellt sich heraus, dass ...** — it turns out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **es stellt sich die Frage** — the question arises *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **es stellt sich die Frage nach ...** — the question of ... arises *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt) · Goethe word list A2
 <!-- bank:end -->
 

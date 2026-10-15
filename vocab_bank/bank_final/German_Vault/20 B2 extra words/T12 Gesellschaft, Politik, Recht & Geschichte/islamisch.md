@@ -29,6 +29,11 @@ status: "new"
 > Sie interessiert sich für islamische Kunst.
 > *She is interested in Islamic art.*
 
+**Phrases & Expressions:**
+- **die islamische Welt** — *Islamic*
+- **islamische Feiertage** — *Islamic*
+- **eine islamische Gemeinde** — *Islamic*
+
 **Collocations**
 - die islamische Welt
 - islamische Feiertage

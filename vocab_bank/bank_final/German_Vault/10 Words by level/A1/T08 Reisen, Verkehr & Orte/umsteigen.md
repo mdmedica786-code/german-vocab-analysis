@@ -34,6 +34,9 @@ status: "new"
 > Sie müssen in Mannheim umsteigen.
 > *You have to change in Mannheim.*
 
+**Phrases & Expressions:**
+- **Sie müssen in Mannheim umsteigen** — *You have to change in Mannheim* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 3d (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

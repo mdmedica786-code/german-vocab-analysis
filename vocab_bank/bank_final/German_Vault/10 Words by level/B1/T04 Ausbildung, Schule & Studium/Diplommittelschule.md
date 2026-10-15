@@ -39,6 +39,9 @@ status: "new"
 > Nach der Diplommittelschule arbeitet sie im Gesundheitswesen.
 > *After the diploma secondary school she works in healthcare.*
 
+**Phrases & Expressions:**
+- **Nach der Diplommittelschule arbeitet sie im Gesundheitswesen** — *After the diploma secondary school she works in healthcare* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

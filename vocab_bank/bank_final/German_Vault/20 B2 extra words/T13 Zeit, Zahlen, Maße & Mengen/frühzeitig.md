@@ -29,6 +29,11 @@ status: "new"
 > Melden Sie sich bitte frühzeitig an.
 > *Please register in good time.*
 
+**Phrases & Expressions:**
+- **frühzeitig erkennen** — *early; in good time*
+- **frühzeitig buchen** — *early; in good time*
+- **frühzeitig informieren** — *early; in good time*
+
 **Collocations**
 - frühzeitig erkennen
 - frühzeitig buchen

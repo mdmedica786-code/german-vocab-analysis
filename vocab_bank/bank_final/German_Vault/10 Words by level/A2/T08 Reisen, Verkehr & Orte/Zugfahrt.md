@@ -34,6 +34,9 @@ status: "new"
 > Die Zugfahrt nach Wien dauert vier Stunden.
 > *The train journey to Vienna takes four hours.*
 
+**Phrases & Expressions:**
+- **Die Zugfahrt nach Wien dauert vier Stunden** — *The train journey to Vienna takes four hours* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 11a (Ganz schön mobil)
 <!-- bank:end -->
 

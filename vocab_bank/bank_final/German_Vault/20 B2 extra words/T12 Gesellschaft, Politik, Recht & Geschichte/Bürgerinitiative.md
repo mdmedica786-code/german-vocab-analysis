@@ -33,6 +33,11 @@ status: "new"
 > Eine Bürgerinitiative kämpft gegen den Bau der Straße.
 > *A citizens' initiative is fighting against the building of the road.*
 
+**Phrases & Expressions:**
+- **eine Bürgerinitiative gründen** — *citizens' initiative*
+- **sich einer Bürgerinitiative anschließen** — *citizens' initiative*
+- **Bürgerinitiative gegen + Akk.** — *citizens' initiative*
+
 **Collocations**
 - eine Bürgerinitiative gründen
 - sich einer Bürgerinitiative anschließen

@@ -34,6 +34,12 @@ status: "new"
 > Der Arzt hat Krebs diagnostiziert.
 > *The doctor diagnosed cancer.*
 
+**Phrases & Expressions:**
+- **an Krebs erkranken** — *cancer; crab*
+- **Krebs im Frühstadium** — *cancer; crab*
+- **Krebs diagnostizieren** — *cancer; crab*
+- **Krebs behandeln** — *cancer; crab*
+
 **Collocations**
 - an Krebs erkranken
 - Krebs im Frühstadium

@@ -29,6 +29,11 @@ status: "new"
 > Die Ärzte sind eher pessimistisch, was die Heilung angeht.
 > *The doctors are rather pessimistic about the recovery.*
 
+**Phrases & Expressions:**
+- **pessimistisch sein** — *pessimistic*
+- **pessimistisch in die Zukunft blicken** — *pessimistic*
+- **eine pessimistische Prognose** — *pessimistic*
+
 **Collocations**
 - pessimistisch sein
 - pessimistisch in die Zukunft blicken

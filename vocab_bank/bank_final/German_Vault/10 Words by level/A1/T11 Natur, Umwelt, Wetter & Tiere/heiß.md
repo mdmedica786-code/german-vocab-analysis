@@ -32,6 +32,9 @@ status: "new"
 > Vorsicht, der Tee ist heiß!
 > *Careful, the tea is hot!*
 
+**Phrases & Expressions:**
+- **Ich heiße ... und komme aus ...** — My name is ... and I come from ... *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Sich vorstellen]] · A2)*
+
 **Source:** Netzwerk neu A1 K7 9d (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->
 

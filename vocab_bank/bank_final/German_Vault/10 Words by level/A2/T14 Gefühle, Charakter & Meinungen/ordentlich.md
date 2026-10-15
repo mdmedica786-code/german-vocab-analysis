@@ -31,6 +31,9 @@ status: "new"
 > Mein Bruder ist ein sehr ordentlicher Mensch.
 > *My brother is a very tidy person.*
 
+**Phrases & Expressions:**
+- **Mein Bruder ist ein sehr ordentlicher Mensch** — *My brother is a very tidy person* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle) · Goethe word list B1
 <!-- bank:end -->
 

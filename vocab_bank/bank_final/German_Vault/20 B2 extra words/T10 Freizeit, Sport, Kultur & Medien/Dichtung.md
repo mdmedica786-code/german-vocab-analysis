@@ -33,6 +33,11 @@ status: "new"
 > Die Dichtung der Klassik wird in der Schule gelesen.
 > *The poetry of the classical period is read at school.*
 
+**Phrases & Expressions:**
+- **die Dichtung der Romantik** — *poetry; seal*
+- **Dichtung und Wahrheit** — *poetry; seal*
+- **die Dichtung austauschen** — *poetry; seal*
+
 **Collocations**
 - die Dichtung der Romantik
 - Dichtung und Wahrheit

@@ -31,6 +31,9 @@ status: "new"
 > Die Kontrolle findet jährlich statt.
 > *The check takes place annually.*
 
+**Phrases & Expressions:**
+- **Ich empfehle Ihnen eine jährliche Grippeschutzimpfung.** — I recommend an annual flu vaccination to you. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Impfung empfehlen]] · B1)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

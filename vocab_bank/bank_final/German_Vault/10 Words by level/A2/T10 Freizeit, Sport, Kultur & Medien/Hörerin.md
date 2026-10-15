@@ -35,6 +35,9 @@ status: "new"
 > Die Sendung hat viele Hörer und Hörerinnen.
 > *The programme has many listeners.*
 
+**Phrases & Expressions:**
+- **Die Sendung hat viele Hörer und Hörerinnen** — *The programme has many listeners* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 7a (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

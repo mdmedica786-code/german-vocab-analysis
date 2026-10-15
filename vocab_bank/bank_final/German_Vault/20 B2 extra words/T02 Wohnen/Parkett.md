@@ -33,6 +33,11 @@ status: "new"
 > Das Wohnzimmer hat ein altes Parkett.
 > *The living room has an old parquet floor.*
 
+**Phrases & Expressions:**
+- **Parkett verlegen** — *parquet*
+- **Parkett schleifen** — *parquet*
+- **auf dem Parkett** — *parquet*
+
 **Collocations**
 - Parkett verlegen
 - Parkett schleifen

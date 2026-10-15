@@ -33,6 +33,11 @@ status: "new"
 > Hol bitte die Gießkanne, die Tomaten brauchen Wasser.
 > *Please fetch the watering can; the tomatoes need water.*
 
+**Phrases & Expressions:**
+- **mit der Gießkanne gießen** — *watering can*
+- **die Gießkanne füllen** — *watering can*
+- **eine volle Gießkanne** — *watering can*
+
 **Collocations**
 - mit der Gießkanne gießen
 - die Gießkanne füllen

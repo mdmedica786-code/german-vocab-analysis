@@ -33,6 +33,11 @@ status: "new"
 > Die Kosten trägt die Allgemeinheit.
 > *The costs are borne by the general public.*
 
+**Phrases & Expressions:**
+- **im Interesse der Allgemeinheit** — *the public; general public; generality*
+- **der Allgemeinheit dienen** — *the public; general public; generality*
+- **die breite Allgemeinheit** — *the public; general public; generality*
+
 **Collocations**
 - im Interesse der Allgemeinheit
 - der Allgemeinheit dienen

@@ -33,6 +33,11 @@ status: "new"
 > Sie betrachtete das Gemälde voller Ehrfurcht.
 > *She looked at the painting full of awe.*
 
+**Phrases & Expressions:**
+- **voller Ehrfurcht** — *awe; reverence*
+- **Ehrfurcht empfinden** — *awe; reverence*
+- **in Ehrfurcht erstarren** — *awe; reverence*
+
 **Collocations**
 - voller Ehrfurcht
 - Ehrfurcht empfinden

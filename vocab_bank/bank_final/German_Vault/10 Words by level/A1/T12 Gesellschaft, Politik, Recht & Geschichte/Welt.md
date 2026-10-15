@@ -35,6 +35,9 @@ status: "new"
 > Es gibt viele Probleme auf der Welt.
 > *There are many problems in the world.*
 
+**Phrases & Expressions:**
+- **Es gibt viele Probleme auf der Welt** — *There are many problems in the world* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

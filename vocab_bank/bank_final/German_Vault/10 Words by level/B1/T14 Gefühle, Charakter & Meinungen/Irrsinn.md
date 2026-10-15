@@ -34,6 +34,9 @@ status: "new"
 > Das ist doch Irrsinn!
 > *That is sheer madness!*
 
+**Phrases & Expressions:**
+- **Das ist doch Irrsinn** — *That is sheer madness* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

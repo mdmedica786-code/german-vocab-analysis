@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Der Anwalt verteidigt seinen Mandanten.
 > *The lawyer defends his client.*
+
+**Phrases & Expressions:**
+- **Der Anwalt verteidigt seinen Mandanten** — *The lawyer defends his client* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

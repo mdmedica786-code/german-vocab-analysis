@@ -33,6 +33,11 @@ status: "new"
 > Die Berufsanfängerin sucht eine Mentorin im Betrieb.
 > *The career starter is looking for a mentor in the company.*
 
+**Phrases & Expressions:**
+- **als Berufsanfängerin** — *career starter (female)*
+- **eine motivierte Berufsanfängerin** — *career starter (female)*
+- **Berufsanfängerinnen fördern** — *career starter (female)*
+
 **Collocations**
 - als Berufsanfängerin
 - eine motivierte Berufsanfängerin

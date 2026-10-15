@@ -34,6 +34,9 @@ status: "new"
 > Der Detektiv beobachtet das Haus.
 > *The detective is watching the house.*
 
+**Phrases & Expressions:**
+- **Der Detektiv beobachtet das Haus** — *The detective is watching the house* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 10d (Kunststücke)
 <!-- bank:end -->
 

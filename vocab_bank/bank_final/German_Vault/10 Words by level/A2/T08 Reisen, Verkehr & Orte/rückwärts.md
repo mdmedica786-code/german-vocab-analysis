@@ -31,6 +31,9 @@ status: "new"
 > Ich bin rückwärts aus der Garage gefahren.
 > *I reversed out of the garage.*
 
+**Phrases & Expressions:**
+- **Ich bin rückwärts aus der Garage gefahren** — *I reversed out of the garage* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

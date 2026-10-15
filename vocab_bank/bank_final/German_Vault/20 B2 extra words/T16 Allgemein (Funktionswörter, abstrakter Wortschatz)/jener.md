@@ -29,6 +29,11 @@ status: "new"
 > In jener Zeit gab es noch keine Handys.
 > *At that time there were no mobile phones yet.*
 
+**Phrases & Expressions:**
+- **in jener Zeit** — *that; that one (formal, written)*
+- **an jenem Tag** — *that; that one (formal, written)*
+- **dieser und jener** — *that; that one (formal, written)*
+
 **Collocations**
 - in jener Zeit
 - an jenem Tag

@@ -36,6 +36,9 @@ status: "new"
 > Björn ist Angestellter in einem Reisebüro.
 > *Björn is an employee at a travel agency.*
 
+**Phrases & Expressions:**
+- **Björn ist Angestellter in einem Reisebüro** — *Björn is an employee at a travel agency* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8b (Leben in der Stadt) · Goethe word list A2
 <!-- bank:end -->
 

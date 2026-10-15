@@ -29,6 +29,11 @@ status: "new"
 > Sie ist im Gespräch eher zurückhaltend.
 > *She is rather reserved in conversation.*
 
+**Phrases & Expressions:**
+- **zurückhaltend reagieren** — *reserved; restrained*
+- **sich zurückhaltend äußern** — *reserved; restrained*
+- **eine zurückhaltende Person** — *reserved; restrained*
+
 **Collocations**
 - zurückhaltend reagieren
 - sich zurückhaltend äußern

@@ -32,6 +32,9 @@ status: "new"
 > Zu schnelles Fahren wird streng bestraft.
 > *Driving too fast is severely punished.*
 
+**Phrases & Expressions:**
+- **Zu schnelles Fahren wird streng bestraft** — *Driving too fast is severely punished* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

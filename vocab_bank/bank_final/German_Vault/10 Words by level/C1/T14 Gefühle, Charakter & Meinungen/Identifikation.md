@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Identifikation des Patienten erfolgt über das Armband.
 > *The patient is identified by the wristband.*
+
+**Phrases & Expressions:**
+- **Die Identifikation des Patienten erfolgt über das Armband** — *The patient is identified by the wristband* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

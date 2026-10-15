@@ -30,6 +30,10 @@ status: "new"
 > Zwecks Klärung bitten wir um einen Rückruf.
 > *For clarification we ask for a call back.*
 
+**Phrases & Expressions:**
+- **zwecks Klärung** — *for the purpose of*
+- **zwecks Prüfung** — *for the purpose of*
+
 **Collocations**
 - zwecks Klärung
 - zwecks Prüfung

@@ -33,6 +33,11 @@ status: "new"
 > Das Phänomen ist keine neue Erscheinung.
 > *The phenomenon is not a new occurrence.*
 
+**Phrases & Expressions:**
+- **eine häufige Erscheinung** — *phenomenon; appearance*
+- **in Erscheinung treten** — *phenomenon; appearance*
+- **äußere Erscheinung** — *phenomenon; appearance*
+
 **Collocations**
 - eine häufige Erscheinung
 - in Erscheinung treten

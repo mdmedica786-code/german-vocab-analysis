@@ -33,6 +33,12 @@ status: "new"
 > Der Patient ist am Rande der Erschöpfung.
 > *The patient is on the verge of exhaustion.*
 
+**Phrases & Expressions:**
+- **völlige Erschöpfung** — *exhaustion*
+- **vor Erschöpfung umfallen** — *exhaustion*
+- **körperliche Erschöpfung** — *exhaustion*
+- **Zeichen der Erschöpfung** — *exhaustion*
+
 **Collocations**
 - völlige Erschöpfung
 - vor Erschöpfung umfallen

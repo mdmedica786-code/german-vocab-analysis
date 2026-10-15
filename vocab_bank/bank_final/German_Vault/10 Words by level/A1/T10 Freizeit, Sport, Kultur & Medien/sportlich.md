@@ -31,6 +31,9 @@ status: "new"
 > Tom ist sehr sportlich.
 > *Tom is very sporty.*
 
+**Phrases & Expressions:**
+- **Tom ist sehr sportlich** — *Tom is very sporty* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 3a (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

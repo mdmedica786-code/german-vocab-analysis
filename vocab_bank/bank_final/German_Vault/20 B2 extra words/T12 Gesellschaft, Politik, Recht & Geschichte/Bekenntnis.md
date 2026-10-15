@@ -33,6 +33,11 @@ status: "new"
 > Das Bekenntnis zur Demokratie war klar.
 > *The commitment to democracy was clear.*
 
+**Phrases & Expressions:**
+- **ein Bekenntnis zu** — *confession; commitment; declaration*
+- **ein Bekenntnis ablegen** — *confession; commitment; declaration*
+- **ein klares Bekenntnis** — *confession; commitment; declaration*
+
 **Collocations**
 - ein Bekenntnis zu
 - ein Bekenntnis ablegen

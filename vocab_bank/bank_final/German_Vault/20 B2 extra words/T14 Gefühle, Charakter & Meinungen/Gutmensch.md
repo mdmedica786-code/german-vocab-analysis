@@ -33,6 +33,11 @@ status: "new"
 > Manche nennen ihn spöttisch einen Gutmenschen.
 > *Some mockingly call him a do-gooder.*
 
+**Phrases & Expressions:**
+- **jemanden als Gutmenschen bezeichnen** — *do-gooder (often ironic)*
+- **ein selbsternannter Gutmensch** — *do-gooder (often ironic)*
+- **der Gutmensch** — *do-gooder (often ironic)*
+
 **Collocations**
 - jemanden als Gutmenschen bezeichnen
 - ein selbsternannter Gutmensch

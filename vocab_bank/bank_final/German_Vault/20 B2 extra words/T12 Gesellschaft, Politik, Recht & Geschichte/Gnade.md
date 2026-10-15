@@ -33,6 +33,11 @@ status: "new"
 > Der Richter ließ Gnade walten.
 > *The judge showed mercy.*
 
+**Phrases & Expressions:**
+- **Gnade walten lassen** — *mercy; grace*
+- **um Gnade bitten** — *mercy; grace*
+- **auf Gnade und Ungnade** — *mercy; grace*
+
 **Collocations**
 - Gnade walten lassen
 - um Gnade bitten

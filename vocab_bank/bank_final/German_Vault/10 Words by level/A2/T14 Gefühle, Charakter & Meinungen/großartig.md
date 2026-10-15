@@ -30,6 +30,9 @@ status: "new"
 > Das Konzert war großartig.
 > *The concert was terrific.*
 
+**Phrases & Expressions:**
+- **Das Konzert war großartig** — *The concert was terrific* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 3d (Sportlich, sportlich)
 <!-- bank:end -->
 

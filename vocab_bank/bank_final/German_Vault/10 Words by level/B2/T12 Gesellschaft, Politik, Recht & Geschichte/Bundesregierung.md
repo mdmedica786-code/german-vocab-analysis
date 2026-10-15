@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Bundesregierung beschließt ein neues Gesetz.
 > *The federal government passes a new law.*
+
+**Phrases & Expressions:**
+- **Die Bundesregierung beschließt ein neues Gesetz** — *The federal government passes a new law* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

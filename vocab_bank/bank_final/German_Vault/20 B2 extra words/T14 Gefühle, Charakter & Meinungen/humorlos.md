@@ -29,6 +29,11 @@ status: "new"
 > Mein Lehrer ist leider völlig humorlos.
 > *Unfortunately my teacher is completely humourless.*
 
+**Phrases & Expressions:**
+- **ein humorloser Mensch** — *humourless; without a sense of humour*
+- **humorlos reagieren** — *humourless; without a sense of humour*
+- **völlig humorlos** — *humourless; without a sense of humour*
+
 **Collocations**
 - ein humorloser Mensch
 - humorlos reagieren

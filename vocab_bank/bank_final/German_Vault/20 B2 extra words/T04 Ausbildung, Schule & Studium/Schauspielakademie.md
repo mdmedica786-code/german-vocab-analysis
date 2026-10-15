@@ -30,6 +30,11 @@ status: "new"
 > Sie bewirbt sich an einer Schauspielakademie in Wien.
 > *She is applying to a drama school in Vienna.*
 
+**Phrases & Expressions:**
+- **an der Schauspielakademie** — *acting academy; drama school*
+- **eine Schauspielakademie besuchen** — *acting academy; drama school*
+- **an einer Schauspielakademie studieren** — *acting academy; drama school*
+
 **Collocations**
 - an der Schauspielakademie
 - eine Schauspielakademie besuchen

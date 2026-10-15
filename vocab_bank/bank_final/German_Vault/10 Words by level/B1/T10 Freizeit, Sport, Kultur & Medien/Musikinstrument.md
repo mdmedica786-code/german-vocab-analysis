@@ -34,6 +34,9 @@ status: "new"
 > Welches Musikinstrument spielst du?
 > *Which musical instrument do you play?*
 
+**Phrases & Expressions:**
+- **Welches Musikinstrument spielst du** — *Which musical instrument do you play* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9 ÜB (Blick nach vorn)
 <!-- bank:end -->
 

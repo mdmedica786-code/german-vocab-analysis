@@ -30,6 +30,9 @@ status: "new"
 > Das Kind schläft unruhig.
 > *The child sleeps restlessly.*
 
+**Phrases & Expressions:**
+- **Das Kind schläft unruhig** — *The child sleeps restlessly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Mit Bildungsurlaub kann man sich fünf Tage im Jahr weiterbilden.
 > *With educational leave you can train for five days a year.*
 
+**Phrases & Expressions:**
+- **Bildungsurlaub nehmen** — *educational leave*
+- **Bildungsurlaub beantragen** — *educational leave*
+- **Anspruch auf Bildungsurlaub** — *educational leave*
+
 **Collocations**
 - Bildungsurlaub nehmen
 - Bildungsurlaub beantragen

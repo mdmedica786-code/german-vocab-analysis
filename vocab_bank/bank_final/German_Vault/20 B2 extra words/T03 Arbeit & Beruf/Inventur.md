@@ -33,6 +33,11 @@ status: "new"
 > Der Laden bleibt wegen Inventur geschlossen.
 > *The shop remains closed because of stocktaking.*
 
+**Phrases & Expressions:**
+- **Inventur machen** — *stocktaking*
+- **wegen Inventur geschlossen** — *stocktaking*
+- **die jährliche Inventur** — *stocktaking*
+
 **Collocations**
 - Inventur machen
 - wegen Inventur geschlossen

@@ -33,6 +33,14 @@ status: "new"
 > Ich habe das Geschäft von meinem Vater übernommen.
 > *I took over the business from my father.*
 
+**Phrases & Expressions:**
+- **Ich übernehme die Einladungen.** — I'll take care of the invitations. *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Aufgaben verteilen]] · B1)*
+- **Soll ich das für dich übernehmen?** — Shall I take care of that for you? *([[B1-07 Bitten und höflich nachfragen|Hilfe anbieten]] · B1)*
+- **Leider kann ich das nicht übernehmen.** — Unfortunately I can't take that on. *([[B2-12 Höflichkeit und Diplomatie - Kritik und Ablehnung abmildern|Ablehnung abmildern]] · B2)*
+- **Sie übernehmen die Atemwege, Sie die Medikamente.** — You take the airway, you the medication. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Rollen verteilen]] · C1)*
+- **die Verantwortung übernehmen** — *to take on*
+- **die Kosten übernehmen** — *to take on*
+
 **Collocations**
 - die Verantwortung übernehmen
 - die Kosten übernehmen

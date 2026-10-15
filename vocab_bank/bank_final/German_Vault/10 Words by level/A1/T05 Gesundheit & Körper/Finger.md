@@ -35,6 +35,10 @@ status: "new"
 > Alessandro hat sich in den Finger geschnitten.
 > *Alessandro cut his finger.*
 
+**Phrases & Expressions:**
+- **Können Sie mit einem Finger auf die schmerzhafte Stelle zeigen?** — Can you point to the painful spot with one finger? *([[FSP-03 Schmerzanamnese|Lokalisation erfragen]] · B1)*
+- **Folgen Sie meinem Finger nur mit den Augen.** — Follow my finger with your eyes only. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Bewegungsanweisung]] · B2)*
+
 **Source:** Netzwerk neu A1 K8 6a (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

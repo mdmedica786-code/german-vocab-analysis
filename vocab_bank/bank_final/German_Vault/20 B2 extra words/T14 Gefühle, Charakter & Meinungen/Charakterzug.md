@@ -33,6 +33,11 @@ status: "new"
 > Ehrlichkeit ist ihr wichtigster Charakterzug.
 > *Honesty is her most important character trait.*
 
+**Phrases & Expressions:**
+- **ein positiver Charakterzug** — *character trait*
+- **Charakterzüge beschreiben** — *character trait*
+- **ein typischer Charakterzug** — *character trait*
+
 **Collocations**
 - ein positiver Charakterzug
 - Charakterzüge beschreiben

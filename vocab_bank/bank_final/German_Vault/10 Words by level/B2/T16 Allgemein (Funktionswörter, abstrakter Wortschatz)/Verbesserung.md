@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Wir arbeiten an der Verbesserung der Abläufe.
 > *We are working on improving the processes.*
+
+**Phrases & Expressions:**
+- **Wir arbeiten an der Verbesserung der Abläufe** — *We are working on improving the processes* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

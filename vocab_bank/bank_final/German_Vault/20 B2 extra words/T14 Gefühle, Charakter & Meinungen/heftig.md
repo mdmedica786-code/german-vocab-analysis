@@ -29,6 +29,11 @@ status: "new"
 > Es gab einen heftigen Streit zwischen den Nachbarn.
 > *There was a fierce quarrel between the neighbours.*
 
+**Phrases & Expressions:**
+- **ein heftiger Streit** — *violent; intense; fierce*
+- **heftig diskutieren** — *violent; intense; fierce*
+- **heftiger Regen** — *violent; intense; fierce*
+
 **Collocations**
 - ein heftiger Streit
 - heftig diskutieren

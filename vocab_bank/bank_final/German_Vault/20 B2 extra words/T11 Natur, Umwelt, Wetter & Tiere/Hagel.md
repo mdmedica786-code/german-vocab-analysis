@@ -33,6 +33,11 @@ status: "new"
 > Der Hagel hat die Ernte und mehrere Autos beschädigt.
 > *The hail damaged the harvest and several cars.*
 
+**Phrases & Expressions:**
+- **Hagel und Starkregen** — *hail*
+- **starker Hagel** — *hail*
+- **Hagelkörner** — *hail*
+
 **Collocations**
 - Hagel und Starkregen
 - starker Hagel

@@ -33,6 +33,11 @@ status: "new"
 > Der Dozent erklärte das Thema mit vielen Beispielen.
 > *The lecturer explained the topic with many examples.*
 
+**Phrases & Expressions:**
+- **ein erfahrener Dozent** — *lecturer*
+- **Dozent an der Universität** — *lecturer*
+- **Dozent für Chemie** — *lecturer*
+
 **Collocations**
 - ein erfahrener Dozent
 - Dozent an der Universität

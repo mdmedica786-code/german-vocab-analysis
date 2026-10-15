@@ -35,6 +35,9 @@ status: "new"
 > Schmeckt dir die Suppe?
 > *Do you like the soup?*
 
+**Phrases & Expressions:**
+- **Schmeckt dir die Suppe** — *Do you like the soup* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 2a (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,12 @@ status: "new"
 > Mein Hausarzt überweist mich zu einem Facharzt.
 > *My family doctor refers me to a specialist.*
 
+**Phrases & Expressions:**
+- **Ich überweise Sie an einen Facharzt für Kardiologie.** — I am referring you to a specialist in cardiology. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Überweisung]] · B2)*
+- **zum Facharzt gehen** — *specialist doctor (male)*
+- **ein Facharzt für Innere Medizin** — *specialist doctor (male)*
+- **einen Facharzt aufsuchen** — *specialist doctor (male)*
+
 **Collocations**
 - zum Facharzt gehen
 - ein Facharzt für Innere Medizin

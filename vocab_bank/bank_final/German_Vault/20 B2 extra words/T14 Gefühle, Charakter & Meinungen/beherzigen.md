@@ -31,6 +31,11 @@ status: "new"
 > Ich werde Ihren Rat beherzigen.
 > *I will take your advice to heart.*
 
+**Phrases & Expressions:**
+- **einen Rat beherzigen** — *to take to heart*
+- **eine Warnung beherzigen** — *to take to heart*
+- **Lehren beherzigen** — *to take to heart*
+
 **Collocations**
 - einen Rat beherzigen
 - eine Warnung beherzigen

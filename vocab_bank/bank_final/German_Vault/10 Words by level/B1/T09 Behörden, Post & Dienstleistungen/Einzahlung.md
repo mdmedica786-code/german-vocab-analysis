@@ -34,6 +34,9 @@ status: "new"
 > Sie sollten die Einzahlung pünktlich machen.
 > *You should make the payment on time.*
 
+**Phrases & Expressions:**
+- **Sie sollten die Einzahlung pünktlich machen** — *You should make the payment on time* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

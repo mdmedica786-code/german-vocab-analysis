@@ -35,6 +35,9 @@ status: "new"
 > Der Arzt sagt, ich soll viele Vitamine essen.
 > *The doctor says I should eat lots of vitamins.*
 
+**Phrases & Expressions:**
+- **Der Arzt sagt, ich soll viele Vitamine essen** — *The doctor says I should eat lots of vitamins* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 2 ÜB (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

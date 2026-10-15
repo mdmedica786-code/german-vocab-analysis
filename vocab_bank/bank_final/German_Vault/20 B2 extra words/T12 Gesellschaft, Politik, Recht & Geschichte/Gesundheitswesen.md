@@ -33,6 +33,11 @@ status: "new"
 > Das Gesundheitswesen leidet unter Personalmangel.
 > *The healthcare system suffers from a lack of staff.*
 
+**Phrases & Expressions:**
+- **im Gesundheitswesen arbeiten** — *healthcare system*
+- **Reform des Gesundheitswesens** — *healthcare system*
+- **das deutsche Gesundheitswesen** — *healthcare system*
+
 **Collocations**
 - im Gesundheitswesen arbeiten
 - Reform des Gesundheitswesens

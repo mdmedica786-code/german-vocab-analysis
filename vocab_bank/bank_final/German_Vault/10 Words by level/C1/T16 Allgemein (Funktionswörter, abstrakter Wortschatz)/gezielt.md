@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Wir suchen gezielt nach neuen Mitarbeitern.
 > *We are searching specifically for new employees.*
+
+**Phrases & Expressions:**
+- **Wir suchen gezielt nach neuen Mitarbeitern** — *We are searching specifically for new employees* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

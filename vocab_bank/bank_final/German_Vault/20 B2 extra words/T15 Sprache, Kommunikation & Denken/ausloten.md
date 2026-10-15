@@ -32,6 +32,11 @@ status: "new"
 > Das Team lotet die Möglichkeiten einer Zusammenarbeit aus.
 > *The team is exploring the possibilities of cooperation.*
 
+**Phrases & Expressions:**
+- **Möglichkeiten ausloten** — *to sound out; to explore*
+- **Grenzen ausloten** — *to sound out; to explore*
+- **die Lage ausloten** — *to sound out; to explore*
+
 **Collocations**
 - Möglichkeiten ausloten
 - Grenzen ausloten

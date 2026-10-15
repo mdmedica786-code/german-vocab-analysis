@@ -34,6 +34,9 @@ status: "new"
 > Dieser Fernsehsender zeigt viele Filme.
 > *This TV channel shows many films.*
 
+**Phrases & Expressions:**
+- **Dieser Fernsehsender zeigt viele Filme** — *This TV channel shows many films* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

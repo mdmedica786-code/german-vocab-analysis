@@ -29,6 +29,11 @@ status: "new"
 > Mein Nachbar ist sehr redselig und erzählt gern.
 > *My neighbour is very talkative and likes to tell stories.*
 
+**Phrases & Expressions:**
+- **redselig sein** — *talkative; garrulous*
+- **ein redseliger Mensch** — *talkative; garrulous*
+- **redselig werden** — *talkative; garrulous*
+
 **Collocations**
 - redselig sein
 - ein redseliger Mensch

@@ -34,6 +34,9 @@ status: "new"
 > Zum Frühstück esse ich ein Käsebrot.
 > *I eat a cheese sandwich for breakfast.*
 
+**Phrases & Expressions:**
+- **Zum Frühstück esse ich ein Käsebrot** — *I eat a cheese sandwich for breakfast* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 8b (Immer online?)
 <!-- bank:end -->
 

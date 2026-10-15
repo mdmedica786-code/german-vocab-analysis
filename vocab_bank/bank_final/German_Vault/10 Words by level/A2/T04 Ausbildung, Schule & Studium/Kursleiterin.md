@@ -34,6 +34,9 @@ status: "new"
 > Die Kursleiterin ist sehr geduldig.
 > *The course leader is very patient.*
 
+**Phrases & Expressions:**
+- **Die Kursleiterin ist sehr geduldig** — *The course leader is very patient* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Sie sucht ihr Handy in der Handtasche.
 > *She is looking for her phone in the handbag.*
 
+**Phrases & Expressions:**
+- **Sie sucht ihr Handy in der Handtasche** — *She is looking for her phone in the handbag* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1b (Ab in den Urlaub!)
 <!-- bank:end -->
 

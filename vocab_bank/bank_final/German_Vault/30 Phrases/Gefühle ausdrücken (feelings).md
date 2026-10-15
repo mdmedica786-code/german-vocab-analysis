@@ -13,188 +13,228 @@ tags: ["phrase", "moc"]
 ## A2
 
 - **... fühlt sich ...** — feels ...
+  - Words: [[wohlfühlen]] · [[fühlen]] · [[abfühlen]]
   - Mein Bein fühlt sich schwer an. *(My leg feels heavy.)*
   - Grammar: sich anfühlen + Adjektiv; sich fühlen + Adjektiv
   - Variants: kommt mir ... vor | wirkt ...
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **Angst vor ... haben** — to be afraid of ...
+  - Words: [[Angst]]
   - Viele Kinder haben Angst vor dem Zahnarzt. *(Many children are afraid of the dentist.)*
   - Grammar: Angst vor + Dat.
   - Variants: sich fürchten vor | Furcht vor
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich bin froh, dass ...** — I'm glad that ...
+  - Words: [[froh]]
   - Ich bin froh, dass du gekommen bist. *(I'm glad you came.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: ich freue mich, dass | zum Glück
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich freue mich auf/über ...** — I'm looking forward to / pleased about ...
+  - Words: [[freuen]]
   - Ich freue mich auf den Urlaub. *(I'm looking forward to the holiday.)*
   - Grammar: auf + Akk. (Zukunft); über + Akk. (Gegenwart)
   - Variants: ich bin froh über ... | ich bin gespannt auf ...
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich fühle mich ...** — I feel ...
+  - Words: [[fühlen]]
   - Ich fühle mich heute nicht gut. *(I don't feel well today.)*
   - Grammar: sich fühlen + Adjektiv
   - Variants: mir geht es ... | ich bin ...
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich fühle mich ...** — I feel ...
+  - Words: [[fühlen]]
   - Ich fühle mich heute viel besser. *(I feel much better today.)*
   - Grammar: sich fühlen + Adjektiv
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich hoffe, du hast ...** — I hope you have ...
+  - Words: [[hoffen]]
   - Ich hoffe, du hast ein schönes Wochenende. *(I hope you have a nice weekend.)*
   - Grammar: Hauptsatz ohne dass
   - Variants: ich wünsche dir ... | hoffentlich hast du ...
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich liebe dich** — I love you
+  - Words: [[lieben]] · [[lieb]] · [[Liebe]]
   - Ich liebe dich und möchte bei dir bleiben. *(I love you and want to stay with you.)*
   - Grammar: lieben + Akk.
   - Variants: ich hab dich lieb | ich mag dich sehr
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **keine Angst** — don't be afraid
+  - Words: [[Angst]]
   - Keine Angst, die Spritze tut kaum weh. *(Don't be afraid, the injection hardly hurts.)*
   - Variants: keine Sorge | nur keine Panik
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **keine Lust ...** — no desire; not in the mood
+  - Words: [[Lust]]
   - Ich habe keine Lust auf Fernsehen. *(I don't feel like watching TV.)*
   - Grammar: Lust auf + Akk. oder Lust, ... zu ...
   - Variants: keine Motivation | keinen Bock
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **schön, dass ...** — nice that ...
+  - Words: [[schön]]
   - Schön, dass du da bist! *(Nice that you're here!)*
   - Grammar: Kurzform von „es ist schön, dass ...“
   - Variants: toll, dass | ich freue mich, dass
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **so schön** — so beautiful
+  - Words: [[schön]]
   - Der Garten ist so schön. *(The garden is so beautiful.)*
   - Variants: sehr schön | wunderschön
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **zum Glück** — luckily
+  - Words: [[Glück]]
   - Wir haben zum Glück einen Parkplatz gefunden. *(Luckily we found a parking space.)*
   - Variants: glücklicherweise | Gott sei Dank
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 ## B1
 
 - **die Angst vor ...** — the fear of ...
+  - Words: [[Angst]]
   - Die Angst vor dem Zahnarzt ist weit verbreitet. *(The fear of the dentist is widespread.)*
   - Grammar: Angst vor + Dat.
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **es ist gut, dass ...** — it is good that ...
+  - Words: [[gut (adjective)]] · [[Gut]] · [[guttun]] · [[gutschreiben]]
   - Es ist gut, dass du rechtzeitig gekommen bist. *(It is good that you came in time.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: gut, dass | zum Glück
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **froh sein, dass ...** — to be glad that ...
+  - Words: [[froh]]
   - Wir sind froh, dass alles gut gegangen ist. *(We are glad that everything went well.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: sich freuen, dass | erleichtert sein, dass
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **Gott sei Dank** — thank God
+  - Words: [[Gott]] · [[Dank]] · [[dank (preposition)]]
   - Gott sei Dank ist nichts Schlimmes passiert. *(Thank God nothing bad happened.)*
   - Grammar: feste Wendung (Konjunktiv I)
   - Variants: zum Glück | glücklicherweise
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **hoffen, dass ...** — to hope that ...
+  - Words: [[hoffen]]
   - Wir hoffen, dass es bald besser wird. *(We hope that it will get better soon.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich bin froh, dass ...** — I'm glad that ...
+  - Words: [[froh]]
   - Ich bin froh, dass die Prüfung vorbei ist. *(I'm glad that the exam is over.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich bin froh, dass ...** — I'm glad that ...
+  - Words: [[froh]]
   - Ich bin froh, dass es dir wieder gut geht. *(I'm glad that you are well again.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich bin so froh, dass ...** — I'm so glad that ...
+  - Words: [[froh]]
   - Ich bin so froh, dass es vorbei ist. *(I'm so glad that it's over.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich danke Ihnen für ...** — I thank you for ...
+  - Words: [[danke]] · [[danken]]
   - Ich danke Ihnen für Ihre schnelle Antwort. *(Thank you for your quick reply.)*
   - Grammar: danken + Dat.; für + Akk.
   - Variants: vielen Dank für ... | besten Dank für ...
   - Exam: B1 Schreiben Aufgabe 1 und 3 (Entschuldigung, Absage) · B1 Sprechen Aufgabe 1
 - **ich freue mich, dass ...** — I'm pleased that ...
+  - Words: [[freuen]]
   - Ich freue mich, dass du da bist. *(I'm pleased that you are here.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: schön, dass | ich bin froh, dass
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich freue mich, dass ...** — I'm pleased that ...
+  - Words: [[freuen]]
   - Ich freue mich, dass wir uns kennengelernt haben. *(I'm pleased that we've got to know each other.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich hoffe, dass ...** — I hope that ...
+  - Words: [[hoffen]]
   - Ich hoffe, dass es dir bald besser geht. *(I hope you get better soon.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: hoffentlich | ich wünsche mir, dass
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich hoffe, dass ...** — I hope that ...
+  - Words: [[hoffen]]
   - Ich hoffe, dass wir uns bald wiedersehen. *(I hope that we see each other again soon.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich hoffe, es geht dir gut** — I hope you are well
+  - Words: [[gut (adjective)]] · [[gehen]] · [[hoffen]] · [[einkaufen gehen]] · [[losgehen]] · [[rausgehen]] · [[ausgehen]] · [[spazieren gehen]]
   - Hallo Anna, ich hoffe, es geht dir gut. *(Hello Anna, I hope you are well.)*
   - Grammar: Einstieg in E-Mails und Briefen
   - Variants: ich hoffe, du bist wohlauf | wie geht es dir?
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich kann es kaum erwarten** — I can hardly wait
+  - Words: [[erwarten]] · [[kaum]] · [[können]]
   - Morgen ist die Party, ich kann es kaum erwarten. *(The party is tomorrow, I can hardly wait.)*
   - Variants: ich freue mich riesig | ich bin schon ganz gespannt
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich war froh, dass ...** — I was glad that ...
+  - Words: [[froh]]
   - Ich war froh, dass du da warst. *(I was glad that you were there.)*
   - Grammar: Präteritum; dass-Satz
   - Variants: ich freute mich, dass | zum Glück
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **Interesse an ... haben** — to be interested in ...
+  - Words: [[Interesse]]
   - Ich habe Interesse an dem Kurs. *(I am interested in the course.)*
   - Grammar: Interesse an + Dat.
   - Variants: sich interessieren für | Interesse zeigen an
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **mein Gott** — my God
+  - Words: [[Gott]] · [[mein]]
   - Mein Gott, was ist denn hier passiert? *(My God, what happened here?)*
   - Variants: ach du liebe Zeit | um Himmels willen
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 ## B2
 
 - **ich hätte nicht gedacht, dass ...** — I wouldn't have thought that ...
+  - Words: [[denken (verb)]]
   - Ich hätte nicht gedacht, dass es so weh tut. *(I wouldn't have thought that it would hurt so much.)*
   - Grammar: Konjunktiv II der Vergangenheit; dass-Satz
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich hätte nie gedacht, dass ...** — I would never have thought that ...
+  - Words: [[denken (verb)]] · [[nie]]
   - Ich hätte nie gedacht, dass ich die Prüfung bestehe. *(I would never have thought that I would pass the exam.)*
   - Grammar: Konjunktiv II der Vergangenheit; dass-Satz
   - Variants: ich hätte nie geglaubt, dass | nie im Leben hätte ich gedacht, dass
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich wünschte, ich hätte ...** — I wish I had ...
+  - Words: [[wünschen]]
   - Ich wünschte, ich hätte mehr Zeit. *(I wish I had more time.)*
   - Grammar: Konjunktiv II = unerfüllter Wunsch
   - Variants: hätte ich doch ... | wenn ich nur ... hätte
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **ich wünschte, ich könnte ...** — I wish I could ...
+  - Words: [[wünschen]] · [[können]]
   - Ich wünschte, ich könnte dir helfen. *(I wish I could help you.)*
   - Grammar: Konjunktiv II = unerfüllter Wunsch
   - Variants: hätte ich doch ... | ich würde gern ... können
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **in der Hoffnung, dass ...** — in the hope that ...
+  - Words: [[Hoffnung]]
   - Er wartet, in der Hoffnung, dass sie anruft. *(He waits in the hope that she will call.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **in der Hoffnung, dass ...** — in the hope that ...
+  - Words: [[Hoffnung]]
   - Ich rufe an, in der Hoffnung, dass du Zeit hast. *(I'm calling in the hope that you have time.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **nicht damit gerechnet haben, dass ...** — not to have expected that ...
+  - Words: [[damit]] · [[rechnen]]
   - Ich habe nicht damit gerechnet, dass du kommst. *(I hadn't expected that you would come.)*
   - Grammar: rechnen mit + Dat.; dass-Satz
   - Variants: nicht erwartet haben, dass | überrascht sein, dass
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **nicht glauben können, dass ...** — to be unable to believe that ...
+  - Words: [[glauben]] · [[können]]
   - Ich kann nicht glauben, dass es schon Winter ist. *(I can't believe that it's winter already.)*
   - Grammar: dass-Satz: Verb am Ende
   - Exam: B1 Schreiben Aufgabe 1 (persönliche E-Mail) · B1 Sprechen Aufgabe 3 (Feedback geben)
 - **nur hoffen, dass ...** — can only hope that ...
+  - Words: [[hoffen]]
   - Wir können nur hoffen, dass es gut geht. *(We can only hope that it goes well.)*
   - Grammar: dass-Satz: Verb am Ende
   - Variants: nur wünschen, dass | hoffentlich

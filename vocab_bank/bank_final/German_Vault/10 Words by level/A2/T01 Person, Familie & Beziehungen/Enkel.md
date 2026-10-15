@@ -35,6 +35,9 @@ status: "new"
 > Alle meine Enkel gehen schon zur Schule.
 > *All my grandchildren already go to school.*
 
+**Phrases & Expressions:**
+- **Alle meine Enkel gehen schon zur Schule** — *All my grandchildren already go to school* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 8b (Immer online?) · Goethe word list A2
 <!-- bank:end -->
 

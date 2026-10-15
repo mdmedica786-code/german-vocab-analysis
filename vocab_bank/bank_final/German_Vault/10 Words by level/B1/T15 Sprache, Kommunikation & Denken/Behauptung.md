@@ -34,6 +34,9 @@ status: "new"
 > Seine Behauptung ist nicht richtig.
 > *His claim is not correct.*
 
+**Phrases & Expressions:**
+- **Seine Behauptung ist nicht richtig** — *His claim is not correct* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches)
 <!-- bank:end -->
 

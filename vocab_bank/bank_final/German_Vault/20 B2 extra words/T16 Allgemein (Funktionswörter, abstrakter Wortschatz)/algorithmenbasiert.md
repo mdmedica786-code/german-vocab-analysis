@@ -26,6 +26,11 @@ status: "new"
 > Die Auswahl erfolgt algorithmenbasiert.
 > *The selection is made on the basis of algorithms.*
 
+**Phrases & Expressions:**
+- **algorithmenbasiert arbeiten** — *algorithm-based*
+- **ein algorithmenbasiertes System** — *algorithm-based*
+- **algorithmenbasiert entscheiden** — *algorithm-based*
+
 **Collocations**
 - algorithmenbasiert arbeiten
 - ein algorithmenbasiertes System

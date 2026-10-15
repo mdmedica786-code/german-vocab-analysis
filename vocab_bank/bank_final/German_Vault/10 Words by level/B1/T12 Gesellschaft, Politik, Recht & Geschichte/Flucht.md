@@ -35,6 +35,9 @@ status: "new"
 > Der Einbrecher war schon auf der Flucht.
 > *The burglar was already on the run.*
 
+**Phrases & Expressions:**
+- **Der Einbrecher war schon auf der Flucht** — *The burglar was already on the run* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

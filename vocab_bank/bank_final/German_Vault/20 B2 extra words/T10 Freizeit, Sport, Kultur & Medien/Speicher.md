@@ -33,6 +33,11 @@ status: "new"
 > Auf meinem Handy ist der Speicher voll.
 > *The storage on my phone is full.*
 
+**Phrases & Expressions:**
+- **der Speicher ist voll** — *memory; storage; store*
+- **Speicher erweitern** — *memory; storage; store*
+- **interner Speicher** — *memory; storage; store*
+
 **Collocations**
 - der Speicher ist voll
 - Speicher erweitern

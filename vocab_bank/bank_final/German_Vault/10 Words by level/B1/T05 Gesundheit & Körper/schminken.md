@@ -34,6 +34,9 @@ status: "new"
 > Du bist heute sehr schön geschminkt.
 > *You are very nicely made up today.*
 
+**Phrases & Expressions:**
+- **Du bist heute sehr schön geschminkt** — *You are very nicely made up today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7a ÜB (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

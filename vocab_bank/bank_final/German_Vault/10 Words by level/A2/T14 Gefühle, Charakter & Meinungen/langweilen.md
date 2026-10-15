@@ -34,6 +34,9 @@ status: "new"
 > Langweilst du dich?
 > *Are you bored?*
 
+**Phrases & Expressions:**
+- **Langweilst du dich** — *Are you bored* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 7a (Große und kleine Gefühle) · Goethe word list B1
 <!-- bank:end -->
 

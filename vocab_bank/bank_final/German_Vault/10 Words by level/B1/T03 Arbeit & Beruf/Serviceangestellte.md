@@ -42,6 +42,9 @@ status: "new"
 > Ich bin Serviceangestellte von Beruf.
 > *I am a waitress by profession.*
 
+**Phrases & Expressions:**
+- **Ich bin Serviceangestellte von Beruf** — *I am a waitress by profession* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

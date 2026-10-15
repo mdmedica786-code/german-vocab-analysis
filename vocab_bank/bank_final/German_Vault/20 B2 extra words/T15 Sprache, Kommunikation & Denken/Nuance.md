@@ -33,6 +33,11 @@ status: "new"
 > Zwischen den beiden Wörtern gibt es eine feine Nuance.
 > *There is a subtle nuance between the two words.*
 
+**Phrases & Expressions:**
+- **eine feine Nuance** — *nuance; shade*
+- **um eine Nuance** — *nuance; shade*
+- **Nuancen unterscheiden** — *nuance; shade*
+
 **Collocations**
 - eine feine Nuance
 - um eine Nuance

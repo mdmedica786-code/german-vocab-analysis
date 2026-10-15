@@ -35,6 +35,9 @@ status: "new"
 > Mein Kollege wird Ihre Personalien aufnehmen.
 > *My colleague will take down your personal details.*
 
+**Phrases & Expressions:**
+- **Mein Kollege wird Ihre Personalien aufnehmen** — *My colleague will take down your personal details* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Hast du die Unterlagen parat?
 > *Do you have the documents ready?*
+
+**Phrases & Expressions:**
+- **Hast du die Unterlagen parat** — *Do you have the documents ready* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,11 @@ status: "new"
 > Am Wegrand wachsen Brennnesseln, die auf der Haut brennen.
 > *Stinging nettles grow by the wayside and burn the skin.*
 
+**Phrases & Expressions:**
+- **in die Brennnesseln greifen** — *stinging nettle*
+- **Brennnesseltee** — *stinging nettle*
+- **sich an Brennnesseln verbrennen** — *stinging nettle*
+
 **Collocations**
 - in die Brennnesseln greifen
 - Brennnesseltee

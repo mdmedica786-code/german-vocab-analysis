@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Wir fliegen via Frankfurt nach Rom.
 > *We fly to Rome via Frankfurt.*
+
+**Phrases & Expressions:**
+- **Wir fliegen via Frankfurt nach Rom** — *We fly to Rome via Frankfurt* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

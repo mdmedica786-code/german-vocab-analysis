@@ -33,6 +33,11 @@ status: "new"
 > Mein Nachbar ist Franzose.
 > *My neighbour is French.*
 
+**Phrases & Expressions:**
+- **ein Franzose** — *Frenchman*
+- **Franzosen und Deutsche** — *Frenchman*
+- **der Franzose und die Französin** — *Frenchman*
+
 **Collocations**
 - ein Franzose
 - Franzosen und Deutsche

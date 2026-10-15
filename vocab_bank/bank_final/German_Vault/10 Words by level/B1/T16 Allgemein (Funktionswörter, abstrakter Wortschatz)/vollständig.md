@@ -30,6 +30,13 @@ status: "new"
 > Bitte füllen Sie das Formular vollständig aus.
 > *Please fill in the form completely.*
 
+**Phrases & Expressions:**
+- **Sind die Impfungen Ihres Kindes vollständig?** — Are your child's vaccinations complete? *([[FSP-22 Kinder, Eltern und ältere Patienten|Eltern befragen]] · B1)*
+- **vollständig ausfüllen** — *complete*
+- **vollständig sein** — *complete*
+- **vollständige Angaben** — *complete*
+- **nicht vollständig** — *complete*
+
 **Collocations**
 - vollständig ausfüllen
 - vollständig sein

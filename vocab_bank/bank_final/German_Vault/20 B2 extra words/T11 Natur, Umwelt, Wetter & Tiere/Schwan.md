@@ -33,6 +33,11 @@ status: "new"
 > Auf dem See schwimmen zwei weiße Schwäne.
 > *Two white swans are swimming on the lake.*
 
+**Phrases & Expressions:**
+- **ein weißer Schwan** — *swan*
+- **Schwäne füttern** — *swan*
+- **der Schwanengesang** — *swan*
+
 **Collocations**
 - ein weißer Schwan
 - Schwäne füttern

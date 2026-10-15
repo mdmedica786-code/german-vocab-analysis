@@ -36,6 +36,9 @@ status: "new"
 > Ich hole schnell ein paar Semmeln zum Frühstück.
 > *I will quickly fetch a few bread rolls for breakfast.*
 
+**Phrases & Expressions:**
+- **Ich hole schnell ein paar Semmeln zum Frühstück** — *I will quickly fetch a few bread rolls for breakfast* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7b (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

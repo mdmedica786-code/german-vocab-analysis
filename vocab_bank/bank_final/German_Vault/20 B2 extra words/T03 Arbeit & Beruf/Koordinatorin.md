@@ -33,6 +33,11 @@ status: "new"
 > Die Koordinatorin organisiert alle Termine.
 > *The coordinator organises all appointments.*
 
+**Phrases & Expressions:**
+- **eine erfahrene Koordinatorin** — *coordinator (female)*
+- **als Koordinatorin arbeiten** — *coordinator (female)*
+- **die Koordinatorin des Projekts** — *coordinator (female)*
+
 **Collocations**
 - eine erfahrene Koordinatorin
 - als Koordinatorin arbeiten

@@ -33,6 +33,11 @@ status: "new"
 > Es gab einen lauten Knall im Haus.
 > *There was a loud bang in the house.*
 
+**Phrases & Expressions:**
+- **ein lauter Knall** — *bang; crack; pop*
+- **mit einem Knall** — *bang; crack; pop*
+- **Knall auf Fall** — *bang; crack; pop*
+
 **Collocations**
 - ein lauter Knall
 - mit einem Knall

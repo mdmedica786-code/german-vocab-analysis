@@ -35,6 +35,9 @@ status: "new"
 > Bei einem höheren Einkommen muss man mehr Steuern zahlen.
 > *With a higher income you have to pay more tax.*
 
+**Phrases & Expressions:**
+- **Bei einem höheren Einkommen muss man mehr Steuern zahlen** — *With a higher income you have to pay more tax* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

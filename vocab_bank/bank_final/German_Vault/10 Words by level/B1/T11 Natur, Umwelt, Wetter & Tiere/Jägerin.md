@@ -34,6 +34,9 @@ status: "new"
 > Die Jägerin hat einen Hirsch gesehen.
 > *The hunter saw a stag.*
 
+**Phrases & Expressions:**
+- **Die Jägerin hat einen Hirsch gesehen** — *The hunter saw a stag* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 13b (Kunststücke)
 <!-- bank:end -->
 

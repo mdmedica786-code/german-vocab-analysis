@@ -34,6 +34,9 @@ status: "new"
 > Welche Bezeichnung steht auf dem Etikett?
 > *What term is on the label?*
 
+**Phrases & Expressions:**
+- **Welche Bezeichnung steht auf dem Etikett** — *What term is on the label* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 10b (Blick nach vorn)
 <!-- bank:end -->
 

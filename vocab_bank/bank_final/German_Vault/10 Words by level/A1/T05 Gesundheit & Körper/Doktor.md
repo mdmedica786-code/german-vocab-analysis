@@ -35,6 +35,9 @@ status: "new"
 > Meine Tochter ist krank. Wir gehen zum Doktor.
 > *My daughter is ill. We're going to the doctor.*
 
+**Phrases & Expressions:**
+- **Sehr geehrte Frau Doktor ...,** — Dear Dr ... (female addressee), *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Anrede und Bezug]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 8a (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

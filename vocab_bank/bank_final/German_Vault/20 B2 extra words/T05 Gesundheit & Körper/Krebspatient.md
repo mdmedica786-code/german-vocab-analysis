@@ -33,6 +33,11 @@ status: "new"
 > Der Krebspatient wird in einer Spezialklinik behandelt.
 > *The cancer patient is treated in a specialist clinic.*
 
+**Phrases & Expressions:**
+- **einen Krebspatienten behandeln** — *cancer patient (male)*
+- **ein junger Krebspatient** — *cancer patient (male)*
+- **Krebspatienten betreuen** — *cancer patient (male)*
+
 **Collocations**
 - einen Krebspatienten behandeln
 - ein junger Krebspatient

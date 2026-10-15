@@ -34,6 +34,9 @@ status: "new"
 > Mit der Drohne macht er Fotos von oben.
 > *He takes photos from above with the drone.*
 
+**Phrases & Expressions:**
+- **Mit der Drohne macht er Fotos von oben** — *He takes photos from above with the drone* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 1a (Blick nach vorn)
 <!-- bank:end -->
 

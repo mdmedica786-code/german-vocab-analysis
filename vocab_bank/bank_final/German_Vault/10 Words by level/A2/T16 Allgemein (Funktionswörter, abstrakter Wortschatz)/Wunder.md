@@ -35,6 +35,10 @@ status: "new"
 > Ich bin mit dem Fahrrad gestürzt. Es war ein Wunder, dass nichts Schlimmes passiert ist.
 > *I fell off my bike. It was a miracle that nothing bad happened.*
 
+**Phrases & Expressions:**
+- **kein Wunder, dass ...** — no wonder that ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B1)*
+- **kein Wunder** — no wonder *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · B1)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

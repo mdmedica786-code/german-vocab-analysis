@@ -30,6 +30,11 @@ status: "new"
 > Die Medizintechnikerin repariert das Röntgengerät.
 > *The medical technician repairs the X-ray machine.*
 
+**Phrases & Expressions:**
+- **als Medizintechnikerin arbeiten** — *medical technician (female); biomedical engineer*
+- **eine erfahrene Medizintechnikerin** — *medical technician (female); biomedical engineer*
+- **Medizintechnikerin werden** — *medical technician (female); biomedical engineer*
+
 **Collocations**
 - als Medizintechnikerin arbeiten
 - eine erfahrene Medizintechnikerin

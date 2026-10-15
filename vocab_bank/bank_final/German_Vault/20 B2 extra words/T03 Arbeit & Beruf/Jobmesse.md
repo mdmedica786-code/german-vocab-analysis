@@ -30,6 +30,11 @@ status: "new"
 > Auf der Jobmesse habe ich viele Firmen kennengelernt.
 > *At the job fair I got to know many companies.*
 
+**Phrases & Expressions:**
+- **auf die Jobmesse gehen** — *job fair*
+- **eine Jobmesse besuchen** — *job fair*
+- **die Jobmesse der Universität** — *job fair*
+
 **Collocations**
 - auf die Jobmesse gehen
 - eine Jobmesse besuchen

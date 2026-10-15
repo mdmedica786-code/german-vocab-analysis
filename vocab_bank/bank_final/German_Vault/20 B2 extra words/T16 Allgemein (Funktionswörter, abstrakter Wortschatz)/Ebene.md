@@ -33,6 +33,11 @@ status: "new"
 > Auf politischer Ebene wurde ein Kompromiss erzielt.
 > *At the political level a compromise was reached.*
 
+**Phrases & Expressions:**
+- **auf politischer Ebene** — *level; plane; plain*
+- **auf gleicher Ebene** — *level; plane; plain*
+- **auf mehreren Ebenen** — *level; plane; plain*
+
 **Collocations**
 - auf politischer Ebene
 - auf gleicher Ebene

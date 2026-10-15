@@ -33,6 +33,11 @@ status: "new"
 > Die Firma gab eine schriftliche Stellungnahme ab.
 > *The company issued a written statement.*
 
+**Phrases & Expressions:**
+- **eine Stellungnahme abgeben** — *statement; opinion*
+- **zur Stellungnahme auffordern** — *statement; opinion*
+- **eine schriftliche Stellungnahme** — *statement; opinion*
+
 **Collocations**
 - eine Stellungnahme abgeben
 - zur Stellungnahme auffordern

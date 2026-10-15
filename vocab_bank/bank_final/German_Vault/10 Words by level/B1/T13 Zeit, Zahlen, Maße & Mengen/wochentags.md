@@ -30,6 +30,9 @@ status: "new"
 > Wochentags arbeite ich bis 17 Uhr.
 > *On weekdays I work until 5 pm.*
 
+**Phrases & Expressions:**
+- **Wochentags arbeite ich bis 17 Uhr** — *On weekdays I work until 5 pm* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

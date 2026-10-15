@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Investition in neue Geräte lohnt sich.
 > *The investment in new equipment is worthwhile.*
+
+**Phrases & Expressions:**
+- **Die Investition in neue Geräte lohnt sich** — *The investment in new equipment is worthwhile* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -26,6 +26,9 @@ status: "new"
 > Seine Erfahrung kam in der Krise voll zum Tragen.
 > *His experience came fully into play in the crisis.*
 
+**Phrases & Expressions:**
+- **voll zum Tragen kommen** — *to take effect; to come into play*
+
 **Collocations**
 - voll zum Tragen kommen
 

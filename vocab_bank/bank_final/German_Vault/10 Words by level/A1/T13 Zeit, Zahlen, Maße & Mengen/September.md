@@ -35,6 +35,9 @@ status: "new"
 > Im September beginnt das neue Semester.
 > *The new semester begins in September.*
 
+**Phrases & Expressions:**
+- **Im September beginnt das neue Semester** — *The new semester begins in September* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

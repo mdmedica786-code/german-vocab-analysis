@@ -29,6 +29,11 @@ status: "new"
 > Hat irgendjemand meinen Schlüssel gesehen?
 > *Has anybody seen my key?*
 
+**Phrases & Expressions:**
+- **irgendjemand anderes** — *somebody; anybody*
+- **irgendjemand von euch** — *somebody; anybody*
+- **irgendjemand fragen** — *somebody; anybody*
+
 **Collocations**
 - irgendjemand anderes
 - irgendjemand von euch

@@ -34,6 +34,9 @@ status: "new"
 > Sprachenlernen braucht Geduld.
 > *Learning languages takes patience.*
 
+**Phrases & Expressions:**
+- **Sprachenlernen braucht Geduld** — *Learning languages takes patience* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

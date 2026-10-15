@@ -31,6 +31,11 @@ status: "new"
 > Er filmte die Hochzeit mit seinem Handy.
 > *He filmed the wedding with his phone.*
 
+**Phrases & Expressions:**
+- **jemanden filmen** — *to film; to record on video*
+- **etwas heimlich filmen** — *to film; to record on video*
+- **mit dem Handy filmen** — *to film; to record on video*
+
 **Collocations**
 - jemanden filmen
 - etwas heimlich filmen

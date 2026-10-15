@@ -31,6 +31,9 @@ status: "new"
 > In der Klinik gibt es modernste Hightech.
 > *In the clinic there is state-of-the-art high tech.*
 
+**Phrases & Expressions:**
+- **In der Klinik gibt es modernste Hightech** — *In the clinic there is state-of-the-art high tech* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 6d (Das ist ja praktisch!)
 <!-- bank:end -->
 

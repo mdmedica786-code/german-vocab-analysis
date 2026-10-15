@@ -33,6 +33,11 @@ status: "new"
 > Beim Smalltalk redet man über das Wetter.
 > *In small talk people talk about the weather.*
 
+**Phrases & Expressions:**
+- **Smalltalk machen** — *small talk*
+- **beim Smalltalk** — *small talk*
+- **ein kurzer Smalltalk** — *small talk*
+
 **Collocations**
 - Smalltalk machen
 - beim Smalltalk

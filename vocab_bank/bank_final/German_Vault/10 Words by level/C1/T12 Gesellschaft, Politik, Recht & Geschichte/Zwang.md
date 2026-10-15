@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Es gibt keinen Zwang, an dem Kurs teilzunehmen.
 > *There is no compulsion to take part in the course.*
+
+**Phrases & Expressions:**
+- **Es gibt keinen Zwang, an dem Kurs teilzunehmen** — *There is no compulsion to take part in the course* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -32,6 +32,11 @@ status: "new"
 > Die Firma beutet ihre Arbeiter aus.
 > *The company exploits its workers.*
 
+**Phrases & Expressions:**
+- **Arbeiter ausbeuten** — *to exploit*
+- **die Natur ausbeuten** — *to exploit*
+- **Rohstoffe ausbeuten** — *to exploit*
+
 **Collocations**
 - Arbeiter ausbeuten
 - die Natur ausbeuten

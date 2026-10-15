@@ -33,6 +33,11 @@ status: "new"
 > Die Sendung findet man noch eine Woche in der Mediathek.
 > *You can find the programme in the media library for another week.*
 
+**Phrases & Expressions:**
+- **in der Mediathek** — *online media library*
+- **Mediathek nutzen** — *online media library*
+- **Sendung in der Mediathek ansehen** — *online media library*
+
 **Collocations**
 - in der Mediathek
 - Mediathek nutzen

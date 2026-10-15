@@ -35,6 +35,10 @@ status: "new"
 > Mein rechtes Bein tut weh.
 > *My right leg hurts.*
 
+**Phrases & Expressions:**
+- **Schwellen Ihre Beine abends an?** — Do your legs swell in the evening? *([[FSP-06 Systemanamnese (Organsysteme)|Herz-Kreislauf]] · B1)*
+- **Haben Sie Kribbeln oder Taubheit in Armen oder Beinen?** — Do you have tingling or numbness in your arms or legs? *([[FSP-06 Systemanamnese (Organsysteme)|Nervensystem]] · B2)*
+
 **Source:** Netzwerk neu A1 K8 6a (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

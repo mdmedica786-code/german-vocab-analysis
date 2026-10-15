@@ -30,6 +30,9 @@ status: "new"
 > Vor der Prüfung bin ich immer sehr aufgeregt.
 > *Before an exam I'm always very nervous.*
 
+**Phrases & Expressions:**
+- **Vor der Prüfung bin ich immer sehr aufgeregt** — *Before an exam I'm always very nervous* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 1a (Große und kleine Gefühle)
 <!-- bank:end -->
 

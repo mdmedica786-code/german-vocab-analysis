@@ -33,6 +33,11 @@ status: "new"
 > Der Überfall auf die Bank dauerte nur Minuten.
 > *The robbery of the bank lasted only minutes.*
 
+**Phrases & Expressions:**
+- **ein Überfall auf** — *robbery; attack; raid*
+- **einen Überfall melden** — *robbery; attack; raid*
+- **ein bewaffneter Überfall** — *robbery; attack; raid*
+
 **Collocations**
 - ein Überfall auf
 - einen Überfall melden

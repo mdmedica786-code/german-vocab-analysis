@@ -35,6 +35,12 @@ status: "new"
 > Danke für Ihre Hilfe.
 > *Thank you for your help.*
 
+**Phrases & Expressions:**
+- **Ich bräuchte Ihre Hilfe bei ...** — I would need your help with ... *([[B1-07 Bitten und höflich nachfragen|Um Hilfe bitten]] · B1)*
+- **Für Ihre Hilfe bedanke ich mich im Voraus.** — I thank you in advance for your help. *([[B1-13 Formelle E-Mail und Brief|Dank aussprechen]] · B1)*
+- **Vielen Dank für Ihre Hilfe.** — Thank you very much for your help. *([[B1-17 Sich entschuldigen und danken|Danken]] · A2)*
+- **Können Sie allein aufstehen, oder brauchen Sie Hilfe?** — Can you get up on your own, or do you need help? *([[FSP-22 Kinder, Eltern und ältere Patienten|Ältere Patienten ansprechen]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 13b (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

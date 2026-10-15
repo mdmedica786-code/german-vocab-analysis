@@ -32,6 +32,11 @@ status: "new"
 > Eine Kollegin leitet die neuen Mitarbeiter an.
 > *A colleague trains the new employees.*
 
+**Phrases & Expressions:**
+- **jemanden anleiten** — *to instruct; to guide; to train*
+- **zur Selbstständigkeit anleiten** — *to instruct; to guide; to train*
+- **Schüler anleiten** — *to instruct; to guide; to train*
+
 **Collocations**
 - jemanden anleiten
 - zur Selbstständigkeit anleiten

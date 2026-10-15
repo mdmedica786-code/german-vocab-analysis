@@ -35,6 +35,9 @@ status: "new"
 > Der Verlust meiner Uhr ärgert mich sehr.
 > *The loss of my watch annoys me a lot.*
 
+**Phrases & Expressions:**
+- **Mein aufrichtiges Beileid zum Verlust Ihres Mannes.** — My sincere condolences on the loss of your husband. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Trauer begleiten]] · C1)*
+
 **Source:** Netzwerk neu B1 K12 5c (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

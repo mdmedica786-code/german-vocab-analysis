@@ -30,6 +30,9 @@ status: "new"
 > Mann und Frau sind gleichberechtigt.
 > *Man and woman have equal rights.*
 
+**Phrases & Expressions:**
+- **Mann und Frau sind gleichberechtigt** — *Man and woman have equal rights* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

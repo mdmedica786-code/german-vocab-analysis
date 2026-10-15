@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Es gab eine heftige Auseinandersetzung im Gemeinderat.
 > *There was a heated argument in the local council.*
+
+**Phrases & Expressions:**
+- **Es gab eine heftige Auseinandersetzung im Gemeinderat** — *There was a heated argument in the local council* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

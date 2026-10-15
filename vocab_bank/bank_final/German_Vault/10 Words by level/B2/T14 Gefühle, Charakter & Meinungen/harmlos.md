@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Wunde sieht harmlos aus.
 > *The wound looks harmless.*
+
+**Phrases & Expressions:**
+- **Ihr Kind hat nur eine harmlose Erkältung, Sie müssen sich keine Sorgen machen.** — Your child only has a harmless cold; you don't need to worry. *([[FSP-22 Kinder, Eltern und ältere Patienten|Eltern beruhigen]] · B1)*
 <!-- bank:end -->
 
 ## My notes

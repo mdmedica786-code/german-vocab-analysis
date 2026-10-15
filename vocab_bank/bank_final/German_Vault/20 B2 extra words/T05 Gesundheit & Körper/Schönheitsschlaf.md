@@ -30,6 +30,11 @@ status: "new"
 > Vor dem Fest braucht sie noch etwas Schönheitsschlaf.
 > *Before the party she still needs some beauty sleep.*
 
+**Phrases & Expressions:**
+- **den Schönheitsschlaf brauchen** — *beauty sleep*
+- **der Schönheitsschlaf vor Mitternacht** — *beauty sleep*
+- **einen Schönheitsschlaf halten** — *beauty sleep*
+
 **Collocations**
 - den Schönheitsschlaf brauchen
 - der Schönheitsschlaf vor Mitternacht

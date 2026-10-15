@@ -35,6 +35,9 @@ status: "new"
 > Bring bitte deine Lieblings-CD mit.
 > *Please bring your favourite CD.*
 
+**Phrases & Expressions:**
+- **Bring bitte deine Lieblings-CD mit** — *Please bring your favourite CD* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!) · Goethe word list A1
 <!-- bank:end -->
 

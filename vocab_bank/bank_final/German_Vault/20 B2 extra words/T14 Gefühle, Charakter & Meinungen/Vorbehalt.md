@@ -33,6 +33,11 @@ status: "new"
 > Ich habe Vorbehalte gegenüber dem Plan.
 > *I have reservations about the plan.*
 
+**Phrases & Expressions:**
+- **Vorbehalte haben gegenüber + Dat.** — *reservation; reserve*
+- **unter Vorbehalt** — *reservation; reserve*
+- **ohne Vorbehalt** — *reservation; reserve*
+
 **Collocations**
 - Vorbehalte haben gegenüber + Dat.
 - unter Vorbehalt

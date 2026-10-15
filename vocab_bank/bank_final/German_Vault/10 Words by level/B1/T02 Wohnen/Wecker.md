@@ -35,6 +35,9 @@ status: "new"
 > Ich stelle den Wecker auf sechs Uhr.
 > *I set the alarm clock for six o'clock.*
 
+**Phrases & Expressions:**
+- **Ich stelle den Wecker auf sechs Uhr** — *I set the alarm clock for six o'clock* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

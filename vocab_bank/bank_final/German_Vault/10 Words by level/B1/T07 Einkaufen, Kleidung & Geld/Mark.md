@@ -31,6 +31,9 @@ status: "new"
 > Vor dem Euro war die Währung in Deutschland Mark.
 > *Before the euro the currency in Germany was the Mark.*
 
+**Phrases & Expressions:**
+- **Vor dem Euro war die Währung in Deutschland Mark** — *Before the euro the currency in Germany was the Mark* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 9a (Veränderungen)
 <!-- bank:end -->
 

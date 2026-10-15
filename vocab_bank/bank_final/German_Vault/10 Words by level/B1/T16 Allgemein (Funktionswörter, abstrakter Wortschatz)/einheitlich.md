@@ -30,6 +30,9 @@ status: "new"
 > Die Schüler dieser Schule tragen einheitliche Kleidung.
 > *The pupils of this school wear uniform clothing.*
 
+**Phrases & Expressions:**
+- **Die Schüler dieser Schule tragen einheitliche Kleidung** — *The pupils of this school wear uniform clothing* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

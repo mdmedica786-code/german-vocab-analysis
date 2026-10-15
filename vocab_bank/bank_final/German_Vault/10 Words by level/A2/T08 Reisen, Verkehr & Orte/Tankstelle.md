@@ -35,6 +35,9 @@ status: "new"
 > Wo ist die nächste Tankstelle?
 > *Where is the nearest petrol station?*
 
+**Phrases & Expressions:**
+- **Wo ist die nächste Tankstelle** — *Where is the nearest petrol station* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

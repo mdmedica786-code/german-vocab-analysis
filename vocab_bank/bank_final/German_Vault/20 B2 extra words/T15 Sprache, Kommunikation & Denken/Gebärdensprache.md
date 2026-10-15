@@ -33,6 +33,11 @@ status: "new"
 > Sie lernt Gebärdensprache an der Volkshochschule.
 > *She is learning sign language at the adult education centre.*
 
+**Phrases & Expressions:**
+- **Gebärdensprache lernen** — *sign language*
+- **in Gebärdensprache** — *sign language*
+- **die deutsche Gebärdensprache** — *sign language*
+
 **Collocations**
 - Gebärdensprache lernen
 - in Gebärdensprache

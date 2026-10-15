@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Er tätigt einen großen Einkauf.
 > *He makes a large purchase.*
+
+**Phrases & Expressions:**
+- **Er tätigt einen großen Einkauf** — *He makes a large purchase* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

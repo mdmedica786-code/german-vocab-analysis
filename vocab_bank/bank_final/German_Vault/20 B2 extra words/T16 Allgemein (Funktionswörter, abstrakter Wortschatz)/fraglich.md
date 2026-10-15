@@ -29,6 +29,11 @@ status: "new"
 > Es ist fraglich, ob er rechtzeitig kommt.
 > *It is doubtful whether he will come on time.*
 
+**Phrases & Expressions:**
+- **es ist fraglich, ob** — *doubtful; in question*
+- **die fragliche Person** — *doubtful; in question*
+- **fraglich bleiben** — *doubtful; in question*
+
 **Collocations**
 - es ist fraglich, ob
 - die fragliche Person

@@ -33,6 +33,14 @@ status: "new"
 > Er schreibt jeden Tag fünfzig E-Mails.
 > *He writes fifty emails every day.*
 
+**Phrases & Expressions:**
+- **Entschuldige, dass ich so lange nicht geschrieben habe.** — Sorry that I haven't written for so long. *([[B1-12 Persönliche E-Mail und Brief|Sich entschuldigen]] · B1)*
+- **Ich schreibe dir, weil ...** — I'm writing to you because ... *([[B1-12 Persönliche E-Mail und Brief|Anlass nennen]] · B1)*
+- **Ich schreibe Ihnen wegen ...** — I am writing to you about ... *([[B1-13 Formelle E-Mail und Brief|Anliegen nennen]] · B1)*
+- **Mein Name wird so geschrieben: ...** — My name is spelled like this: ... *([[B2-07 Telefonieren|Buchstabieren]] · B1)*
+- **Wir schreiben jetzt ein EKG, um Ihr Herz zu überprüfen.** — We are now going to record an ECG to check your heart. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|EKG]] · A2)*
+- **Ich schreibe Sie für eine Woche krank.** — I will sign you off sick for a week. *([[FSP-11 Therapie und Medikamente erklären|Krankschreibung]] · B1)*
+
 **Source:** Netzwerk neu A1 K1 7b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

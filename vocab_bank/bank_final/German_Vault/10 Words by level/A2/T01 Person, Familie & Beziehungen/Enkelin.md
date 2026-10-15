@@ -35,6 +35,9 @@ status: "new"
 > Meine Enkelin ist drei Jahre alt.
 > *My granddaughter is three years old.*
 
+**Phrases & Expressions:**
+- **Meine Enkelin ist drei Jahre alt** — *My granddaughter is three years old* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 8b (Immer online?) · Goethe word list A2
 <!-- bank:end -->
 

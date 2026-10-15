@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Das Medikament ist sehr wirksam.
 > *The medicine is very effective.*
+
+**Phrases & Expressions:**
+- **Das Medikament ist sehr wirksam** — *The medicine is very effective* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

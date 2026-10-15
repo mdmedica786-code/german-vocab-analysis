@@ -33,6 +33,11 @@ status: "new"
 > Politische Beobachter erwarten Änderungen.
 > *Political observers expect changes.*
 
+**Phrases & Expressions:**
+- **ein aufmerksamer Beobachter** — *observer*
+- **ein neutraler Beobachter** — *observer*
+- **internationale Beobachter** — *observer*
+
 **Collocations**
 - ein aufmerksamer Beobachter
 - ein neutraler Beobachter

@@ -35,6 +35,9 @@ status: "new"
 > Im Büro ist leider der Lift kaputt.
 > *Unfortunately the lift is broken in the office.*
 
+**Phrases & Expressions:**
+- **Im Büro ist leider der Lift kaputt** — *Unfortunately the lift is broken in the office* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

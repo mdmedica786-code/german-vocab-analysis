@@ -33,6 +33,11 @@ status: "new"
 > Die Verwirklichung seines Traums dauerte Jahre.
 > *The realisation of his dream took years.*
 
+**Phrases & Expressions:**
+- **die Verwirklichung eines Traums** — *realisation; fulfilment*
+- **zur Verwirklichung** — *realisation; fulfilment*
+- **die Verwirklichung von Plänen** — *realisation; fulfilment*
+
 **Collocations**
 - die Verwirklichung eines Traums
 - zur Verwirklichung

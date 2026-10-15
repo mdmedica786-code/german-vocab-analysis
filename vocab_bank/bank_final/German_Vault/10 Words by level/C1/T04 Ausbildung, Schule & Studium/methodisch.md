@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Sie arbeitet sehr methodisch.
 > *She works very methodically.*
+
+**Phrases & Expressions:**
+- **Sie arbeitet sehr methodisch** — *She works very methodically* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

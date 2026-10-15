@@ -35,6 +35,12 @@ status: "new"
 > In den Ferien bietet die Stadt für Kinder verschiedene Freizeitaktivitäten.
 > *In the holidays the city offers various leisure activities for children.*
 
+**Phrases & Expressions:**
+- **sportliche Aktivität** — *activity*
+- **körperliche Aktivität** — *activity*
+- **Aktivitäten planen** — *activity*
+- **Freizeitaktivitäten** — *activity*
+
 **Collocations**
 - sportliche Aktivität
 - körperliche Aktivität

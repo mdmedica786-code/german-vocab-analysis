@@ -30,6 +30,11 @@ status: "new"
 > Zu jedem Inhaltspunkt schreiben Sie zwei Sätze.
 > *Write two sentences on each content point.*
 
+**Phrases & Expressions:**
+- **alle Inhaltspunkte behandeln** — *content point; key point*
+- **einen Inhaltspunkt erwähnen** — *content point; key point*
+- **die Inhaltspunkte der Aufgabe** — *content point; key point*
+
 **Collocations**
 - alle Inhaltspunkte behandeln
 - einen Inhaltspunkt erwähnen

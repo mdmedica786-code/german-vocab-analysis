@@ -29,6 +29,11 @@ status: "new"
 > Es ist bemerkenswert, wie schnell sie die Sprache gelernt hat.
 > *It is remarkable how quickly she learned the language.*
 
+**Phrases & Expressions:**
+- **eine bemerkenswerte Leistung** — *remarkable; noteworthy*
+- **bemerkenswert früh** — *remarkable; noteworthy*
+- **es ist bemerkenswert, dass** — *remarkable; noteworthy*
+
 **Collocations**
 - eine bemerkenswerte Leistung
 - bemerkenswert früh

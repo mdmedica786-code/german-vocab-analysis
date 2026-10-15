@@ -33,6 +33,11 @@ status: "new"
 > Er sprach mit großer Traurigkeit über den Verlust.
 > *He spoke with great sadness about the loss.*
 
+**Phrases & Expressions:**
+- **tiefe Traurigkeit** — *sadness*
+- **von Traurigkeit erfüllt** — *sadness*
+- **die Traurigkeit überwinden** — *sadness*
+
 **Collocations**
 - tiefe Traurigkeit
 - von Traurigkeit erfüllt

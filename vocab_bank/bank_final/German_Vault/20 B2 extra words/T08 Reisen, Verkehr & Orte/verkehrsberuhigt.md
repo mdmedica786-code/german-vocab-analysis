@@ -26,6 +26,11 @@ status: "new"
 > Wir wohnen in einer verkehrsberuhigten Zone.
 > *We live in a traffic-calmed zone.*
 
+**Phrases & Expressions:**
+- **eine verkehrsberuhigte Zone** — *traffic-calmed*
+- **ein verkehrsberuhigter Bereich** — *traffic-calmed*
+- **verkehrsberuhigt sein** — *traffic-calmed*
+
 **Collocations**
 - eine verkehrsberuhigte Zone
 - ein verkehrsberuhigter Bereich

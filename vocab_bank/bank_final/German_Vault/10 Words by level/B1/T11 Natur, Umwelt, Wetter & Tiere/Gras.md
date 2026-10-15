@@ -34,6 +34,9 @@ status: "new"
 > Wir lagen den ganzen Tag im Gras.
 > *We lay in the grass all day.*
 
+**Phrases & Expressions:**
+- **Wir lagen den ganzen Tag im Gras** — *We lay in the grass all day* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

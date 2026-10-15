@@ -29,6 +29,11 @@ status: "new"
 > Die Stadt hat eine große geschichtliche Bedeutung.
 > *The city has great historical importance.*
 
+**Phrases & Expressions:**
+- **geschichtliche Ereignisse** — *historical*
+- **geschichtlich bedeutsam** — *historical*
+- **eine geschichtliche Entwicklung** — *historical*
+
 **Collocations**
 - geschichtliche Ereignisse
 - geschichtlich bedeutsam

@@ -35,6 +35,9 @@ status: "new"
 > Ich glaube, es hat keinen Zweck, sich zu bewerben. Der Job ist sicher schon weg.
 > *I think there is no point in applying. The job is surely gone already.*
 
+**Phrases & Expressions:**
+- **zu diesem Zweck** — for this purpose *([[Bedingung - Zweck (condition, purpose)|Bedingung / Zweck (condition, purpose)]] · B2)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

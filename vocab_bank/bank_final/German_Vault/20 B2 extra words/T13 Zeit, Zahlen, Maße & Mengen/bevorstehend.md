@@ -29,6 +29,11 @@ status: "new"
 > Wir bereiten uns auf die bevorstehende Prüfung vor.
 > *We are preparing for the upcoming exam.*
 
+**Phrases & Expressions:**
+- **die bevorstehende Prüfung** — *upcoming; imminent*
+- **eine bevorstehende Wahl** — *upcoming; imminent*
+- **bevorstehende Änderungen** — *upcoming; imminent*
+
 **Collocations**
 - die bevorstehende Prüfung
 - eine bevorstehende Wahl

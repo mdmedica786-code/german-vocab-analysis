@@ -29,6 +29,10 @@ status: "new"
 > Gib Acht, dass du nicht stolperst!
 > *Be careful that you do not trip!*
 
+**Phrases & Expressions:**
+- **Acht geben auf + Akk.** — *to be careful; to pay attention*
+- **gut Acht geben** — *to be careful; to pay attention*
+
 **Collocations**
 - Acht geben auf + Akk.
 - gut Acht geben

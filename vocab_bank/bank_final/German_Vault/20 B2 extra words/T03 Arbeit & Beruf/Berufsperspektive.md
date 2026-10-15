@@ -30,6 +30,11 @@ status: "new"
 > Mit diesem Abschluss hat sie gute Berufsperspektiven.
 > *With this degree she has good career prospects.*
 
+**Phrases & Expressions:**
+- **gute Berufsperspektiven** — *career prospect*
+- **keine Berufsperspektive haben** — *career prospect*
+- **neue Berufsperspektiven eröffnen** — *career prospect*
+
 **Collocations**
 - gute Berufsperspektiven
 - keine Berufsperspektive haben

@@ -32,6 +32,9 @@ status: "new"
 > Ich strukturiere meinen Tag mit einer Liste.
 > *I structure my day with a list.*
 
+**Phrases & Expressions:**
+- **Ich strukturiere meinen Tag mit einer Liste** — *I structure my day with a list* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 11c (Große und kleine Gefühle)
 <!-- bank:end -->
 

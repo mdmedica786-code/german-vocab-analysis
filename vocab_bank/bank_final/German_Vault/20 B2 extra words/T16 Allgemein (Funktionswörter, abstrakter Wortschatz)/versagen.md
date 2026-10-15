@@ -31,6 +31,11 @@ status: "new"
 > In der Prüfung hat sie wegen der Nervosität versagt.
 > *She failed in the exam because of nervousness.*
 
+**Phrases & Expressions:**
+- **jemandem etwas versagen** — *to fail; to refuse*
+- **technisch versagen** — *to fail; to refuse*
+- **kläglich versagen** — *to fail; to refuse*
+
 **Collocations**
 - jemandem etwas versagen
 - technisch versagen

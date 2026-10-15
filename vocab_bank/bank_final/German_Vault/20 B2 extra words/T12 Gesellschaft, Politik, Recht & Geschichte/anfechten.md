@@ -32,6 +32,11 @@ status: "new"
 > Er will das Urteil anfechten.
 > *He wants to contest the verdict.*
 
+**Phrases & Expressions:**
+- **ein Urteil anfechten** — *to contest; to challenge*
+- **eine Entscheidung anfechten** — *to contest; to challenge*
+- **ein Testament anfechten** — *to contest; to challenge*
+
 **Collocations**
 - ein Urteil anfechten
 - eine Entscheidung anfechten

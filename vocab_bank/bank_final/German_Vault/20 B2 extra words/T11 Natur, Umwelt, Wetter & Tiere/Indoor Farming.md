@@ -30,6 +30,11 @@ status: "new"
 > Indoor Farming bringt Gemüse direkt in die Großstadt.
 > *Indoor farming brings vegetables directly into the big city.*
 
+**Phrases & Expressions:**
+- **Indoor Farming betreiben** — *indoor farming*
+- **Indoor Farming in der Stadt** — *indoor farming*
+- **Salat aus Indoor Farming** — *indoor farming*
+
 **Collocations**
 - Indoor Farming betreiben
 - Indoor Farming in der Stadt

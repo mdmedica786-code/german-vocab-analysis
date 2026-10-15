@@ -34,6 +34,9 @@ status: "new"
 > Der Vogel hat einen gelben Schnabel.
 > *The bird has a yellow beak.*
 
+**Phrases & Expressions:**
+- **Der Vogel hat einen gelben Schnabel** — *The bird has a yellow beak* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12c (Zwischenmenschliches)
 <!-- bank:end -->
 

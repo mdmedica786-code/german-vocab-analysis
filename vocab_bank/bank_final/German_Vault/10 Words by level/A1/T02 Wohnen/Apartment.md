@@ -35,6 +35,9 @@ status: "new"
 > Wir haben ein Apartment gemietet.
 > *We have rented an apartment.*
 
+**Phrases & Expressions:**
+- **Wir haben ein Apartment gemietet** — *We have rented an apartment* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3c (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

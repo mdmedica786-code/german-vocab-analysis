@@ -30,6 +30,9 @@ status: "new"
 > Mein Nachbar kocht gern griechisch.
 > *My neighbour likes cooking Greek food.*
 
+**Phrases & Expressions:**
+- **Mein Nachbar kocht gern griechisch** — *My neighbour likes cooking Greek food* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

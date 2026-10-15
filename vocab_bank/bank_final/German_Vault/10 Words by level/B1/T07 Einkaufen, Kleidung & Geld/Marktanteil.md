@@ -34,6 +34,9 @@ status: "new"
 > Die Firma hat einen großen Marktanteil.
 > *The company has a large market share.*
 
+**Phrases & Expressions:**
+- **Die Firma hat einen großen Marktanteil** — *The company has a large market share* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 1a (Umweltfreundlich?)
 <!-- bank:end -->
 

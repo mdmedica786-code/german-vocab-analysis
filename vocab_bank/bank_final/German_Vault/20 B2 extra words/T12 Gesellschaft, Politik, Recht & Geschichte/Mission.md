@@ -33,6 +33,11 @@ status: "new"
 > Die Mission war ein voller Erfolg.
 > *The mission was a complete success.*
 
+**Phrases & Expressions:**
+- **eine Mission erfüllen** — *mission*
+- **in geheimer Mission** — *mission*
+- **eine diplomatische Mission** — *mission*
+
 **Collocations**
 - eine Mission erfüllen
 - in geheimer Mission

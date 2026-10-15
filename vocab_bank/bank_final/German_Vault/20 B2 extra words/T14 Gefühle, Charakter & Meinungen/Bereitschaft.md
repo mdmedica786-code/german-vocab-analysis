@@ -33,6 +33,11 @@ status: "new"
 > Die Bereitschaft zu helfen ist groß.
 > *The willingness to help is great.*
 
+**Phrases & Expressions:**
+- **Bereitschaft zeigen** — *readiness; willingness; standby duty*
+- **in Bereitschaft sein** — *readiness; willingness; standby duty*
+- **die Bereitschaft, zu helfen** — *readiness; willingness; standby duty*
+
 **Collocations**
 - Bereitschaft zeigen
 - in Bereitschaft sein

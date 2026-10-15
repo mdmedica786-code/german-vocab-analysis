@@ -33,6 +33,12 @@ status: "new"
 > Diese Schokolade enthält nur sehr wenig Zucker.
 > *This chocolate contains very little sugar.*
 
+**Phrases & Expressions:**
+- **enthalten sein** — *to contain*
+- **Mehrwertsteuer enthalten** — *to contain*
+- **Informationen enthalten** — *to contain*
+- **sich enthalten** — *to contain*
+
 **Collocations**
 - enthalten sein
 - Mehrwertsteuer enthalten

@@ -33,6 +33,11 @@ status: "new"
 > Durch die Serie erlangte sie große Bekanntheit.
 > *Through the series she gained great fame.*
 
+**Phrases & Expressions:**
+- **Bekanntheit erlangen** — *fame; popularity; being well known*
+- **an Bekanntheit gewinnen** — *fame; popularity; being well known*
+- **der Bekanntheitsgrad** — *fame; popularity; being well known*
+
 **Collocations**
 - Bekanntheit erlangen
 - an Bekanntheit gewinnen

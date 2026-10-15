@@ -31,6 +31,12 @@ status: "new"
 > Sein Auge zuckt vor Müdigkeit.
 > *His eye twitches from tiredness.*
 
+**Phrases & Expressions:**
+- **mit den Schultern zucken** — *to twitch; to jerk*
+- **das Auge zuckt** — *to twitch; to jerk*
+- **zusammenzucken** — *to twitch; to jerk*
+- **die Mundwinkel zucken** — *to twitch; to jerk*
+
 **Collocations**
 - mit den Schultern zucken
 - das Auge zuckt

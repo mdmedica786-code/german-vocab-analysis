@@ -29,6 +29,10 @@ status: "new"
 > Ich zerbreche mir den Kopf, wie ich das lösen soll.
 > *I am racking my brains over how to solve this.*
 
+**Phrases & Expressions:**
+- **sich über etwas den Kopf zerbrechen** — *to rack one's brains*
+- **nachgrübeln** — *to rack one's brains*
+
 **Collocations**
 - sich über etwas den Kopf zerbrechen
 - nachgrübeln

@@ -30,6 +30,9 @@ status: "new"
 > Der Film war uninteressant.
 > *The film was uninteresting.*
 
+**Phrases & Expressions:**
+- **Der Film war uninteressant** — *The film was uninteresting* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 10d (Gute Unterhaltung!)
 <!-- bank:end -->
 

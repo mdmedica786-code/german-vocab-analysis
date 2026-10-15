@@ -30,6 +30,9 @@ status: "new"
 > Der Befund ist unverändert.
 > *The finding is unchanged.*
 
+**Phrases & Expressions:**
+- **Im Vergleich zur Voruntersuchung ist der Befund unverändert.** — Compared to the previous examination the finding is unchanged. *([[FSP-08 Befunde beschreiben und berichten|Befund im Arzt-Arzt-Gespräch]] · C1)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

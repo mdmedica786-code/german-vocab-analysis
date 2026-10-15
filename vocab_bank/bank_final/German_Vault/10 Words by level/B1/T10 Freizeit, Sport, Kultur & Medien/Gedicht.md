@@ -34,6 +34,9 @@ status: "new"
 > Kennst du ein schönes Gedicht?
 > *Do you know a nice poem?*
 
+**Phrases & Expressions:**
+- **Kennst du ein schönes Gedicht** — *Do you know a nice poem* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

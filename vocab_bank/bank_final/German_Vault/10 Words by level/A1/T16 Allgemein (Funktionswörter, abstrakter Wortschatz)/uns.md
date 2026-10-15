@@ -31,6 +31,9 @@ status: "new"
 > Wir grillen heute Abend bei uns.
 > *We're barbecuing at ours this evening.*
 
+**Phrases & Expressions:**
+- **Wir grillen heute Abend bei uns** — *We're barbecuing at ours this evening* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 3a (Guten Appetit!)
 <!-- bank:end -->
 

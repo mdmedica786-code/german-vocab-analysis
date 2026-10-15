@@ -29,6 +29,14 @@ status: "new"
 > Die Frau tut mir leid.
 > *I feel sorry for the woman.*
 
+**Phrases & Expressions:**
+- **es tut mir leid** — I'm sorry *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · A1)*
+- **tut mir leid** — I'm sorry *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · A1)*
+- **tut mir so leid** — I'm so sorry *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · A2)*
+- **in der Tat** — indeed *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · C1)*
+- **es tut mir leid, dass ...** — I'm sorry that ... *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · B1)*
+- **es tut mir so leid** — I'm so sorry *([[Entschuldigen - Bedauern (apology, regret)|Entschuldigen / Bedauern (apology, regret)]] · B1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

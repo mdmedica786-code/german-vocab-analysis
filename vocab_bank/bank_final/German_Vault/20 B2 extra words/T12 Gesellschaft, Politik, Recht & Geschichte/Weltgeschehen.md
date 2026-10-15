@@ -33,6 +33,11 @@ status: "new"
 > Sie verfolgt das Weltgeschehen jeden Tag in den Nachrichten.
 > *She follows world events in the news every day.*
 
+**Phrases & Expressions:**
+- **das aktuelle Weltgeschehen** — *world events; goings-on in the world*
+- **das Weltgeschehen verfolgen** — *world events; goings-on in the world*
+- **das Weltgeschehen beeinflussen** — *world events; goings-on in the world*
+
 **Collocations**
 - das aktuelle Weltgeschehen
 - das Weltgeschehen verfolgen

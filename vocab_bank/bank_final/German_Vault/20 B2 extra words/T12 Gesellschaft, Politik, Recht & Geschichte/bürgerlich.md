@@ -29,6 +29,11 @@ status: "new"
 > Das Bürgerliche Gesetzbuch regelt das Privatrecht.
 > *The Civil Code regulates private law.*
 
+**Phrases & Expressions:**
+- **bürgerliches Recht** — *civil; middle-class*
+- **das Bürgerliche Gesetzbuch** — *civil; middle-class*
+- **bürgerliche Parteien** — *civil; middle-class*
+
 **Collocations**
 - bürgerliches Recht
 - das Bürgerliche Gesetzbuch

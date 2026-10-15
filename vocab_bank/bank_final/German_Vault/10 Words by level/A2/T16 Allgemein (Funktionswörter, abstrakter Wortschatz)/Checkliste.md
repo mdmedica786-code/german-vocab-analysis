@@ -34,6 +34,9 @@ status: "new"
 > Ich habe eine Checkliste für die Reise gemacht.
 > *I made a checklist for the trip.*
 
+**Phrases & Expressions:**
+- **Ich habe eine Checkliste für die Reise gemacht** — *I made a checklist for the trip* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12b (Zusammen leben)
 <!-- bank:end -->
 

@@ -30,6 +30,11 @@ status: "new"
 > Die Schule bietet viele Sportaktivitäten an.
 > *The school offers many sports activities.*
 
+**Phrases & Expressions:**
+- **eine Sportaktivität planen** — *sports activity*
+- **Sportaktivitäten anbieten** — *sports activity*
+- **regelmäßige Sportaktivität** — *sports activity*
+
 **Collocations**
 - eine Sportaktivität planen
 - Sportaktivitäten anbieten

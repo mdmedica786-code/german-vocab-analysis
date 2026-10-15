@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Haus hat ein stabiles Fundament.
 > *The house has a stable foundation.*
+
+**Phrases & Expressions:**
+- **Das Haus hat ein stabiles Fundament** — *The house has a stable foundation* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

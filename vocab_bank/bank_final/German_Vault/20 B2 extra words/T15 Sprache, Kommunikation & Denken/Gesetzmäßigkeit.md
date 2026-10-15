@@ -33,6 +33,11 @@ status: "new"
 > Die Wissenschaft sucht nach Gesetzmäßigkeiten in der Natur.
 > *Science looks for regularities in nature.*
 
+**Phrases & Expressions:**
+- **Gesetzmäßigkeiten erkennen** — *regularity; law (of nature)*
+- **eine bestimmte Gesetzmäßigkeit** — *regularity; law (of nature)*
+- **nach Gesetzmäßigkeiten suchen** — *regularity; law (of nature)*
+
 **Collocations**
 - Gesetzmäßigkeiten erkennen
 - eine bestimmte Gesetzmäßigkeit

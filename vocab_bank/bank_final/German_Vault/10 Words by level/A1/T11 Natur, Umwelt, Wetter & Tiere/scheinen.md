@@ -33,6 +33,11 @@ status: "new"
 > Die Sonne scheint.
 > *The sun is shining.*
 
+**Phrases & Expressions:**
+- **es scheint, dass ...** — it seems that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Es scheint, dass ...** — It seems that ... *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Scheinen]] · B2)*
+- **Er scheint krank zu sein.** — He seems to be ill. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Scheinen]] · B2)*
+
 **Source:** Netzwerk neu A1 K9 5a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

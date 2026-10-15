@@ -33,6 +33,11 @@ status: "new"
 > Viele Gastarbeiter kamen in den 1960er-Jahren nach Deutschland.
 > *Many guest workers came to Germany in the 1960s.*
 
+**Phrases & Expressions:**
+- **Gastarbeiter aus der Türkei** — *guest worker*
+- **die erste Generation der Gastarbeiter** — *guest worker*
+- **als Gastarbeiter kommen** — *guest worker*
+
 **Collocations**
 - Gastarbeiter aus der Türkei
 - die erste Generation der Gastarbeiter

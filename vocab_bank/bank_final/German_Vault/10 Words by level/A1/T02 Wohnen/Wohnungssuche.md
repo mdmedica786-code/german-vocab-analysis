@@ -34,6 +34,9 @@ status: "new"
 > Die Wohnungssuche in der Großstadt ist schwierig.
 > *Finding a flat in a big city is difficult.*
 
+**Phrases & Expressions:**
+- **Die Wohnungssuche in der Großstadt ist schwierig** — *Finding a flat in a big city is difficult* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3a (Meine Wohnung)
 <!-- bank:end -->
 

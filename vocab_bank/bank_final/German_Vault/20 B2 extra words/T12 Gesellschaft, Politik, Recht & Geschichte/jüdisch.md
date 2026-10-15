@@ -29,6 +29,11 @@ status: "new"
 > Das jüdische Museum ist sonntags geöffnet.
 > *The Jewish museum is open on Sundays.*
 
+**Phrases & Expressions:**
+- **die jüdische Gemeinde** — *Jewish*
+- **ein jüdischer Friedhof** — *Jewish*
+- **jüdisches Leben** — *Jewish*
+
 **Collocations**
 - die jüdische Gemeinde
 - ein jüdischer Friedhof

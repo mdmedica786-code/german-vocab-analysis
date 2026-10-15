@@ -35,6 +35,9 @@ status: "new"
 > Dieser Kuchen schmeckt super! Kannst du mir bitte das Rezept geben?
 > *This cake tastes great! Can you give me the recipe, please?*
 
+**Phrases & Expressions:**
+- **Ich stelle Ihnen ein Rezept für das Medikament aus.** — I will write you a prescription for the medicine. *([[FSP-11 Therapie und Medikamente erklären|Rezept ausstellen]] · B1)*
+
 **Source:** Netzwerk neu A1 K8 8a (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

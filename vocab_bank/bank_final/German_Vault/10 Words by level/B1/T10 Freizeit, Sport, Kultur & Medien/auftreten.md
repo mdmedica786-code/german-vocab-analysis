@@ -34,6 +34,13 @@ status: "new"
 > Nächste Woche tritt in der Stadthalle eine berühmte Musikgruppe auf.
 > *Next week a famous band is performing at the city hall.*
 
+**Phrases & Expressions:**
+- **Falls Nebenwirkungen auftreten, melden Sie sich bitte sofort.** — If side effects occur, please contact us immediately. *([[FSP-11 Therapie und Medikamente erklären|Nebenwirkungen erklären]] · B2)*
+- **öffentlich auftreten** — *to appear; to perform; to occur*
+- **als Zeuge auftreten** — *to appear; to perform; to occur*
+- **selbstbewusst auftreten** — *to appear; to perform; to occur*
+- **Probleme treten auf** — *to appear; to perform; to occur*
+
 **Collocations**
 - öffentlich auftreten
 - als Zeuge auftreten

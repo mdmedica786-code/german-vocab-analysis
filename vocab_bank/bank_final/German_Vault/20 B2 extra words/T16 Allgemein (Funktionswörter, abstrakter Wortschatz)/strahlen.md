@@ -31,6 +31,12 @@ status: "new"
 > Die Sonne strahlt vom blauen Himmel.
 > *The sun shines from the blue sky.*
 
+**Phrases & Expressions:**
+- **Strahlt der Schmerz irgendwohin aus?** — Does the pain radiate anywhere? *([[FSP-03 Schmerzanamnese|Ausstrahlung erfragen]] · B1)*
+- **vor Freude strahlen** — *to shine; to beam*
+- **über das ganze Gesicht strahlen** — *to shine; to beam*
+- **hell strahlen** — *to shine; to beam*
+
 **Collocations**
 - vor Freude strahlen
 - über das ganze Gesicht strahlen

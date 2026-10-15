@@ -34,6 +34,14 @@ status: "new"
 > Mir ist aufgefallen, dass Harriett ganz blass ist.
 > *I noticed that Harriett is very pale.*
 
+**Phrases & Expressions:**
+- **es fällt auf, dass ...** — it is striking that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **mir fiel auf, dass ...** — I noticed that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **Mir ist aufgefallen, dass ...** — I noticed that ... *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Verbesserung vorschlagen]] · B1)*
+- **Mir fällt das Wort gerade nicht ein.** — I can't think of the word right now. *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Wort umschreiben]] · B1)*
+- **Ist Ihnen sonst noch etwas aufgefallen?** — Has anything else struck you? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Nachfragen]] · B1)*
+- **Es fällt mir nicht leicht, Ihnen das zu sagen.** — It is not easy for me to tell you this. *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Ankündigung]] · B2)*
+
 **Source:** Netzwerk neu A2 K12 11b (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

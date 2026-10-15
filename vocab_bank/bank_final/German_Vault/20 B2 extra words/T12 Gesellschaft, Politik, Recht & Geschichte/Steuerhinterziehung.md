@@ -33,6 +33,11 @@ status: "new"
 > Steuerhinterziehung ist eine Straftat.
 > *Tax evasion is a criminal offence.*
 
+**Phrases & Expressions:**
+- **Steuerhinterziehung begehen** — *tax evasion*
+- **wegen Steuerhinterziehung** — *tax evasion*
+- **Steuerhinterziehung aufdecken** — *tax evasion*
+
 **Collocations**
 - Steuerhinterziehung begehen
 - wegen Steuerhinterziehung

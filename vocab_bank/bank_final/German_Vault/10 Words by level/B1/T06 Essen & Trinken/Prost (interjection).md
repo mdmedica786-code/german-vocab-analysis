@@ -38,6 +38,9 @@ status: "new"
 > Wir trinken auf Ihre Gesundheit! Prost!
 > *We drink to your health! Cheers!*
 
+**Phrases & Expressions:**
+- **Wir trinken auf Ihre Gesundheit! Prost** — *We drink to your health! Cheers* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

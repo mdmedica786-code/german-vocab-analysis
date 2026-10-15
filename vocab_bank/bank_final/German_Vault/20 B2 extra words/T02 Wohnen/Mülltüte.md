@@ -33,6 +33,11 @@ status: "new"
 > Die Mülltüte ist voll, bring sie bitte hinunter.
 > *The bin bag is full; please take it down.*
 
+**Phrases & Expressions:**
+- **eine Mülltüte wechseln** — *bin bag*
+- **die Mülltüte zuknoten** — *bin bag*
+- **Mülltüten kaufen** — *bin bag*
+
 **Collocations**
 - eine Mülltüte wechseln
 - die Mülltüte zuknoten

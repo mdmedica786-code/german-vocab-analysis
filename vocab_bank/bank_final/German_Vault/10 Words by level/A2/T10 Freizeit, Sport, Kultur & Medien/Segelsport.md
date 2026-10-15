@@ -34,6 +34,9 @@ status: "new"
 > Segelsport ist an der Küste sehr beliebt.
 > *Sailing is very popular on the coast.*
 
+**Phrases & Expressions:**
+- **Segelsport ist an der Küste sehr beliebt** — *Sailing is very popular on the coast* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 10a (Große und kleine Gefühle)
 <!-- bank:end -->
 

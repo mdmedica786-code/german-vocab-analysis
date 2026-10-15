@@ -32,6 +32,11 @@ status: "new"
 > Jeder kann seine Ideen in die Diskussion einbringen.
 > *Everyone can contribute their ideas to the discussion.*
 
+**Phrases & Expressions:**
+- **Ideen einbringen** — *to contribute; to bring in; to yield*
+- **sich einbringen** — *to contribute; to bring in; to yield*
+- **einen Antrag einbringen** — *to contribute; to bring in; to yield*
+
 **Collocations**
 - Ideen einbringen
 - sich einbringen

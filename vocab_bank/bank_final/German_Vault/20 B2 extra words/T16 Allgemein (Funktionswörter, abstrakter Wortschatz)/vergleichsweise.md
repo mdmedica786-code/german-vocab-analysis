@@ -29,6 +29,11 @@ status: "new"
 > Die Wohnung ist vergleichsweise günstig.
 > *The flat is comparatively cheap.*
 
+**Phrases & Expressions:**
+- **vergleichsweise günstig** — *comparatively; relatively*
+- **vergleichsweise wenig** — *comparatively; relatively*
+- **vergleichsweise gut** — *comparatively; relatively*
+
 **Collocations**
 - vergleichsweise günstig
 - vergleichsweise wenig

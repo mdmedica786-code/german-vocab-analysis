@@ -31,6 +31,9 @@ status: "new"
 > Der Kursort ist das Gemeindehaus.
 > *The course venue is the community centre.*
 
+**Phrases & Expressions:**
+- **Der Kursort ist das Gemeindehaus** — *The course venue is the community centre* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 6 (Arbeitswelten)
 <!-- bank:end -->
 

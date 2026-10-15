@@ -34,6 +34,9 @@ status: "new"
 > „In“ ist eine Präposition.
 > *“In” is a preposition.*
 
+**Phrases & Expressions:**
+- **„In“ ist eine Präposition** — *“In” is a preposition* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden)
 <!-- bank:end -->
 

@@ -36,6 +36,9 @@ status: "new"
 > Zur dieser Hochzeit kommen mehr als fünfzig Gäste.
 > **
 
+**Phrases & Expressions:**
+- **Zur dieser Hochzeit kommen mehr als fünfzig Gäste** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 3a (Und was machst du?) · Goethe word list A1
 <!-- bank:end -->
 

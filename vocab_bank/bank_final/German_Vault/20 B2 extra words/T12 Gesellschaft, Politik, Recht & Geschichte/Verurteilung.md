@@ -33,6 +33,11 @@ status: "new"
 > Seine Verurteilung führte zu Protesten.
 > *His conviction led to protests.*
 
+**Phrases & Expressions:**
+- **die Verurteilung zu** — *conviction; condemnation*
+- **eine Verurteilung erwarten** — *conviction; condemnation*
+- **scharfe Verurteilung** — *conviction; condemnation*
+
 **Collocations**
 - die Verurteilung zu
 - eine Verurteilung erwarten

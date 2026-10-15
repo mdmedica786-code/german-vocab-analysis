@@ -33,6 +33,11 @@ status: "new"
 > Die Pflanze braucht viel Sonnenlicht.
 > *The plant needs a lot of sunlight.*
 
+**Phrases & Expressions:**
+- **direktes Sonnenlicht** — *sunlight*
+- **im Sonnenlicht** — *sunlight*
+- **warmes Sonnenlicht** — *sunlight*
+
 **Collocations**
 - direktes Sonnenlicht
 - im Sonnenlicht

@@ -33,6 +33,13 @@ status: "new"
 > Sarah kann gut rechnen.
 > *Sarah is good at maths.*
 
+**Phrases & Expressions:**
+- **damit rechnen, dass ...** — to reckon with the fact that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **nicht damit gerechnet haben, dass ...** — not to have expected that ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B2)*
+- **mit etwas rechnen** — *to calculate; to count; to expect*
+- **im Kopf rechnen** — *to calculate; to count; to expect*
+- **gut rechnen können** — *to calculate; to count; to expect*
+
 **Collocations**
 - mit etwas rechnen
 - im Kopf rechnen

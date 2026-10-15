@@ -34,6 +34,9 @@ status: "new"
 > „Mit freundlichen Grüßen“ ist eine Grußformel.
 > *"Mit freundlichen Grüßen" is a closing formula.*
 
+**Phrases & Expressions:**
+- **„Mit freundlichen Grüßen“ ist eine Grußformel** — *"Mit freundlichen Grüßen" is a closing formula* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 8b (Arbeitsalltag)
 <!-- bank:end -->
 

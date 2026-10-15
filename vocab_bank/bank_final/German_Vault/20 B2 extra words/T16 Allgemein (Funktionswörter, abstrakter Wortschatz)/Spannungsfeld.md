@@ -33,6 +33,11 @@ status: "new"
 > Die Pflege bewegt sich im Spannungsfeld zwischen Zeit und Qualität.
 > *Care operates in a field of tension between time and quality.*
 
+**Phrases & Expressions:**
+- **im Spannungsfeld stehen** — *area of tension; conflicting demands*
+- **im Spannungsfeld zwischen + Dat.** — *area of tension; conflicting demands*
+- **Spannungsfeld Beruf und Familie** — *area of tension; conflicting demands*
+
 **Collocations**
 - im Spannungsfeld stehen
 - im Spannungsfeld zwischen + Dat.

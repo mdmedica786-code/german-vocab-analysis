@@ -33,6 +33,11 @@ status: "new"
 > Die neue Staffel der Serie startet im Herbst.
 > *The new season of the series starts in autumn.*
 
+**Phrases & Expressions:**
+- **eine neue Staffel** — *season (of a series); relay*
+- **die erste Staffel** — *season (of a series); relay*
+- **Staffel einer Serie** — *season (of a series); relay*
+
 **Collocations**
 - eine neue Staffel
 - die erste Staffel

@@ -31,6 +31,9 @@ status: "new"
 > Zahlen Sie bar oder mit Karte?
 > *Are you paying in cash or with a card?*
 
+**Phrases & Expressions:**
+- **Zahlen Sie bar oder mit Karte** — *Are you paying in cash or with a card* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 5a ÜB (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

@@ -35,6 +35,12 @@ status: "new"
 > Die Ärztin untersucht den Patienten.
 > *The doctor examines the patient.*
 
+**Phrases & Expressions:**
+- **Ich bin Ärztin von Beruf und arbeite im Krankenhaus.** — I am a doctor by profession and work in a hospital. *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Sich vorstellen]] · B1)*
+- **zur Ärztin gehen** — *doctor (f)*
+- **die Ärztin fragen** — *doctor (f)*
+- **Fachärztin für Innere Medizin** — *doctor (f)*
+
 **Collocations**
 - zur Ärztin gehen
 - die Ärztin fragen

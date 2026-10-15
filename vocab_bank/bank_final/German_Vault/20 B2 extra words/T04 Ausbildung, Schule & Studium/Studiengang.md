@@ -33,6 +33,11 @@ status: "new"
 > Dieser Studiengang hat einen Numerus clausus.
 > *This degree programme has an admission restriction.*
 
+**Phrases & Expressions:**
+- **einen Studiengang wählen** — *degree programme; course of study*
+- **den Studiengang wechseln** — *degree programme; course of study*
+- **ein internationaler Studiengang** — *degree programme; course of study*
+
 **Collocations**
 - einen Studiengang wählen
 - den Studiengang wechseln

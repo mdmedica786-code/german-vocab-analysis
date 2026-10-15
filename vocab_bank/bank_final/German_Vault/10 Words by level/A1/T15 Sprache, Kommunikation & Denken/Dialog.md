@@ -35,6 +35,9 @@ status: "new"
 > Sie hören jetzt einen Dialog.
 > *You will now hear a dialogue.*
 
+**Phrases & Expressions:**
+- **Sie hören jetzt einen Dialog** — *You will now hear a dialogue* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 7c (Guten Tag!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Sie beantwortete alle Fragen selbstsicher.
 > *She answered all the questions self-assuredly.*
 
+**Phrases & Expressions:**
+- **selbstsicher auftreten** — *self-assured*
+- **selbstsicher wirken** — *self-assured*
+- **selbstsicher antworten** — *self-assured*
+
 **Collocations**
 - selbstsicher auftreten
 - selbstsicher wirken

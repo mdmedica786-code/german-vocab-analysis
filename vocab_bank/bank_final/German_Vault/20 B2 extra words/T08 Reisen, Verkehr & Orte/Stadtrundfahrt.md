@@ -33,6 +33,11 @@ status: "new"
 > Wir machten eine Stadtrundfahrt mit dem Doppeldeckerbus.
 > *We took a city tour on a double-decker bus.*
 
+**Phrases & Expressions:**
+- **eine Stadtrundfahrt machen** — *city sightseeing tour*
+- **an der Stadtrundfahrt teilnehmen** — *city sightseeing tour*
+- **Stadtrundfahrt buchen** — *city sightseeing tour*
+
 **Collocations**
 - eine Stadtrundfahrt machen
 - an der Stadtrundfahrt teilnehmen

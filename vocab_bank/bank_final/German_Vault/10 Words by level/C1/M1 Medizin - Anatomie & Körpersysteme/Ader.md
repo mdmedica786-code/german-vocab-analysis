@@ -33,6 +33,12 @@ status: "new"
 > Die Ader am Arm ist gut zu sehen.
 > *The vein on the arm is easy to see.*
 
+**Phrases & Expressions:**
+- **eine Ader punktieren** — *vein; blood vessel*
+- **die Adern verengen** — *vein; blood vessel*
+- **eine verstopfte Ader** — *vein; blood vessel*
+- **Blut aus der Ader** — *vein; blood vessel*
+
 **Collocations**
 - eine Ader punktieren
 - die Adern verengen

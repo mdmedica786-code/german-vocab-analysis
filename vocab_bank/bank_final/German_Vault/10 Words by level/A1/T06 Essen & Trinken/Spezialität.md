@@ -34,6 +34,9 @@ status: "new"
 > Die Spezialität des Hauses ist Fischsuppe.
 > *The speciality of the house is fish soup.*
 
+**Phrases & Expressions:**
+- **Die Spezialität des Hauses ist Fischsuppe** — *The speciality of the house is fish soup* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 7a (Arbeitsalltag)
 <!-- bank:end -->
 

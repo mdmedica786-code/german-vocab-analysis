@@ -34,6 +34,9 @@ status: "new"
 > Wir machen dieses Jahr Strandurlaub.
 > *This year we are having a beach holiday.*
 
+**Phrases & Expressions:**
+- **Wir machen dieses Jahr Strandurlaub** — *This year we are having a beach holiday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 8b (Gute Reise!)
 <!-- bank:end -->
 

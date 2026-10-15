@@ -33,6 +33,11 @@ status: "new"
 > Das Erdbeben hat viele Häuser zerstört.
 > *The earthquake destroyed many houses.*
 
+**Phrases & Expressions:**
+- **ein Erdbeben der Stärke 6** — *earthquake*
+- **von einem Erdbeben betroffen** — *earthquake*
+- **ein Erdbeben erschüttert die Region** — *earthquake*
+
 **Collocations**
 - ein Erdbeben der Stärke 6
 - von einem Erdbeben betroffen

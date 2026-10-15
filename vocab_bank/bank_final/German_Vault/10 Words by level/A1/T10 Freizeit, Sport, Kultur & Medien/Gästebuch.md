@@ -34,6 +34,9 @@ status: "new"
 > Bitte schreiben Sie etwas in unser Gästebuch.
 > *Please write something in our guestbook.*
 
+**Phrases & Expressions:**
+- **Bitte schreiben Sie etwas in unser Gästebuch** — *Please write something in our guestbook* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10a (Alltag und Familie)
 <!-- bank:end -->
 

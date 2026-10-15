@@ -33,6 +33,11 @@ status: "new"
 > Ich möchte Gewissheit haben, bevor ich entscheide.
 > *I want to have certainty before I decide.*
 
+**Phrases & Expressions:**
+- **Gewissheit haben** — *certainty*
+- **sich Gewissheit verschaffen** — *certainty*
+- **mit Gewissheit sagen** — *certainty*
+
 **Collocations**
 - Gewissheit haben
 - sich Gewissheit verschaffen

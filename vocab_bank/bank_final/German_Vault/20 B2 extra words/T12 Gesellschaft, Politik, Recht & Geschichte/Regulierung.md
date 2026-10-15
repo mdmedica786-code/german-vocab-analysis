@@ -33,6 +33,11 @@ status: "new"
 > Die Regulierung des Marktes ist umstritten.
 > *The regulation of the market is controversial.*
 
+**Phrases & Expressions:**
+- **die Regulierung des Marktes** — *regulation; control; settlement*
+- **eine strenge Regulierung** — *regulation; control; settlement*
+- **die Regulierung der Schäden** — *regulation; control; settlement*
+
 **Collocations**
 - die Regulierung des Marktes
 - eine strenge Regulierung

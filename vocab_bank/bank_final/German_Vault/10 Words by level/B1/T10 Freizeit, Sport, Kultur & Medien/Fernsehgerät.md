@@ -34,6 +34,9 @@ status: "new"
 > Das Fernsehgerät steht im Wohnzimmer.
 > *The television set is in the living room.*
 
+**Phrases & Expressions:**
+- **Das Fernsehgerät steht im Wohnzimmer** — *The television set is in the living room* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

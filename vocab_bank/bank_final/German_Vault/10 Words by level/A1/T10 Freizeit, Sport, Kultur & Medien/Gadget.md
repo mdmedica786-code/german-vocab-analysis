@@ -34,6 +34,9 @@ status: "new"
 > Mein Bruder kauft jedes neue Gadget.
 > *My brother buys every new gadget.*
 
+**Phrases & Expressions:**
+- **Mein Bruder kauft jedes neue Gadget** — *My brother buys every new gadget* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

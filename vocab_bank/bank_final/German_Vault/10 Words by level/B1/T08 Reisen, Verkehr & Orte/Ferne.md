@@ -34,6 +34,9 @@ status: "new"
 > In der Ferne sieht man die Berge.
 > *In the distance you can see the mountains.*
 
+**Phrases & Expressions:**
+- **In der Ferne sieht man die Berge** — *In the distance you can see the mountains* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

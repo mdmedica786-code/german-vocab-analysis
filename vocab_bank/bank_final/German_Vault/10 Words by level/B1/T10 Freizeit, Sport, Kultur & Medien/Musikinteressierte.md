@@ -31,6 +31,9 @@ status: "new"
 > Für Musikinteressierte gibt es einen Kurs.
 > *There is a course for people interested in music.*
 
+**Phrases & Expressions:**
+- **Für Musikinteressierte gibt es einen Kurs** — *There is a course for people interested in music* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

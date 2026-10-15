@@ -33,6 +33,11 @@ status: "new"
 > Am Ende des Artikels steht eine kurze Zusammenfassung.
 > *At the end of the article there is a short summary.*
 
+**Phrases & Expressions:**
+- **eine Zusammenfassung schreiben** — *summary*
+- **in der Zusammenfassung** — *summary*
+- **eine kurze Zusammenfassung** — *summary*
+
 **Collocations**
 - eine Zusammenfassung schreiben
 - in der Zusammenfassung

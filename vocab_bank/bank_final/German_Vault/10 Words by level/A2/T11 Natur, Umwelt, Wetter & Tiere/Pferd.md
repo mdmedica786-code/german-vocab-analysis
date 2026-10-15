@@ -36,6 +36,9 @@ status: "new"
 > Amira liebt Pferde. Sie reitet seit zehn Jahren.
 > **
 
+**Phrases & Expressions:**
+- **Amira liebt Pferde. Sie reitet seit zehn Jahren** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 1b (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

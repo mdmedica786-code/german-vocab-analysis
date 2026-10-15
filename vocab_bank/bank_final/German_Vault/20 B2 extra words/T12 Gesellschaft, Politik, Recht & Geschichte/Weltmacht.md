@@ -33,6 +33,11 @@ status: "new"
 > Die beiden Weltmächte trafen sich zu Gesprächen.
 > *The two world powers met for talks.*
 
+**Phrases & Expressions:**
+- **eine Weltmacht werden** — *world power; superpower*
+- **frühere Weltmacht** — *world power; superpower*
+- **zur Weltmacht aufsteigen** — *world power; superpower*
+
 **Collocations**
 - eine Weltmacht werden
 - frühere Weltmacht

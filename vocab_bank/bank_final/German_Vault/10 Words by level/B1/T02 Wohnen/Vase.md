@@ -35,6 +35,9 @@ status: "new"
 > Hast du eine Vase für die Blumen?
 > *Do you have a vase for the flowers?*
 
+**Phrases & Expressions:**
+- **Hast du eine Vase für die Blumen** — *Do you have a vase for the flowers* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7b (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

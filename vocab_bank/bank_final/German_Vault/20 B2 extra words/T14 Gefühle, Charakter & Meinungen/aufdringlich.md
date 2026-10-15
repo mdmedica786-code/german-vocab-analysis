@@ -29,6 +29,11 @@ status: "new"
 > Der Verkäufer war mir zu aufdringlich.
 > *The salesman was too pushy for me.*
 
+**Phrases & Expressions:**
+- **ein aufdringlicher Verkäufer** — *pushy; intrusive*
+- **aufdringlich wirken** — *pushy; intrusive*
+- **aufdringlicher Geruch** — *pushy; intrusive*
+
 **Collocations**
 - ein aufdringlicher Verkäufer
 - aufdringlich wirken

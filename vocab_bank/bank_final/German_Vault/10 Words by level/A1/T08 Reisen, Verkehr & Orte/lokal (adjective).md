@@ -31,6 +31,9 @@ status: "new"
 > Die lokale Zeitung berichtet darüber.
 > *The local newspaper reports on it.*
 
+**Phrases & Expressions:**
+- **Die lokale Zeitung berichtet darüber** — *The local newspaper reports on it* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen) · Goethe word list A1
 <!-- bank:end -->
 

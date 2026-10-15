@@ -33,6 +33,12 @@ status: "new"
 > Ich laufe schnell zum Auto zurück.
 > *I'll run back to the car quickly.*
 
+**Phrases & Expressions:**
+- **hin und zurück** — there and back; return *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Hallo! Na, wie läuft's?** — Hi! So, how's it going? *([[B1-20 Smalltalk, Begrüßung und Verabschiedung|Begrüßen (informell)]] · A2)*
+- **Bitte rufen Sie mich unter der Nummer ... zurück.** — Please call me back on the number ... *([[B2-07 Telefonieren|Nachricht hinterlassen]] · B1)*
+- **... geht stetig zurück.** — ... is steadily declining. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Rückgang beschreiben]] · B2)*
+
 **Source:** Netzwerk neu A2 K10 12a (Zusammen leben)
 <!-- bank:end -->
 

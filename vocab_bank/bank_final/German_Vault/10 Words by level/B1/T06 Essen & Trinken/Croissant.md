@@ -34,6 +34,9 @@ status: "new"
 > Zum Frühstück esse ich ein Croissant.
 > *For breakfast I eat a croissant.*
 
+**Phrases & Expressions:**
+- **Zum Frühstück esse ich ein Croissant** — *For breakfast I eat a croissant* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander)
 <!-- bank:end -->
 

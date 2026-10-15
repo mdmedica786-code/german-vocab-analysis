@@ -33,6 +33,11 @@ status: "new"
 > Das Untersuchungsergebnis liegt in einer Woche vor.
 > *The examination result will be available in a week.*
 
+**Phrases & Expressions:**
+- **das Untersuchungsergebnis abwarten** — *examination result; test result*
+- **ein positives Untersuchungsergebnis** — *examination result; test result*
+- **das Untersuchungsergebnis besprechen** — *examination result; test result*
+
 **Collocations**
 - das Untersuchungsergebnis abwarten
 - ein positives Untersuchungsergebnis

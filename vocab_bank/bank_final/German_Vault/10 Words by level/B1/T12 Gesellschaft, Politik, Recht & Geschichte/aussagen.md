@@ -32,6 +32,14 @@ status: "new"
 > Der Zeuge sagt vor Gericht aus.
 > *The witness testifies in court.*
 
+**Phrases & Expressions:**
+- **... sagt, dass ...** — ... says that ... *([[Berichten (reporting)|Berichten (reporting)]] · B1)*
+- **Wie sagt man ... auf Deutsch?** — How do you say ... in German? *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Wort erfragen]] · B1)*
+- **als Zeuge aussagen** — *to testify; to state*
+- **vor Gericht aussagen** — *to testify; to state*
+- **gegen jemanden aussagen** — *to testify; to state*
+- **etwas über ... aussagen** — *to testify; to state*
+
 **Collocations**
 - als Zeuge aussagen
 - vor Gericht aussagen

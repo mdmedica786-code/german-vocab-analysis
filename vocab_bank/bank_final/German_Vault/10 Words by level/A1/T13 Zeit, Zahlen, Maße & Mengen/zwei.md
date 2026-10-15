@@ -31,6 +31,14 @@ status: "new"
 > Ich habe zwei Geschwister.
 > *I have two siblings.*
 
+**Phrases & Expressions:**
+- **zwei Stunden** — two hours *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A1)*
+- **zwei Jahre** — two years *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A1)*
+- **zwei Wochen** — two weeks *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A1)*
+- **zwei oder drei** — two or three *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+- **zwei Tage** — two days *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A1)*
+- **ein oder zwei** — one or two *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+
 **Source:** Netzwerk neu A1 K1 5a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

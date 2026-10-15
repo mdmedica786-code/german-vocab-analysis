@@ -30,6 +30,12 @@ status: "new"
 > Die jeweiligen Kosten stehen im Vertrag.
 > *The respective costs are in the contract.*
 
+**Phrases & Expressions:**
+- **die jeweilige Situation** — *respective*
+- **jeweilige Regeln** — *respective*
+- **je nach jeweiliger Lage** — *respective*
+- **der jeweilige Mitarbeiter** — *respective*
+
 **Collocations**
 - die jeweilige Situation
 - jeweilige Regeln

@@ -29,6 +29,11 @@ status: "new"
 > Sie wartete den ganzen Abend vergebens auf ihn.
 > *She waited for him in vain all evening.*
 
+**Phrases & Expressions:**
+- **vergebens warten** — *in vain; for nothing*
+- **vergebens versuchen** — *in vain; for nothing*
+- **vergebens hoffen** — *in vain; for nothing*
+
 **Collocations**
 - vergebens warten
 - vergebens versuchen

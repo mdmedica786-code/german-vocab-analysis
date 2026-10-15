@@ -33,6 +33,12 @@ status: "new"
 > Das Diagramm zeigt die Entwicklung der Preise.
 > *The chart shows the development of prices.*
 
+**Phrases & Expressions:**
+- **Dieses Diagramm veranschaulicht die Entwicklung der ...** — This diagram illustrates the development of ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Grafik beschreiben]] · B2)*
+- **ein Diagramm erstellen** — *diagram; chart; graph*
+- **das Diagramm zeigt** — *diagram; chart; graph*
+- **ein Diagramm beschreiben** — *diagram; chart; graph*
+
 **Collocations**
 - ein Diagramm erstellen
 - das Diagramm zeigt

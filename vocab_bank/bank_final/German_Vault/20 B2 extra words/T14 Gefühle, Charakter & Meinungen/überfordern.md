@@ -31,6 +31,11 @@ status: "new"
 > Die vielen Aufgaben überfordern mich.
 > *The many tasks are too much for me.*
 
+**Phrases & Expressions:**
+- **jemanden überfordern** — *to overtax; to overwhelm*
+- **sich überfordert fühlen** — *to overtax; to overwhelm*
+- **überfordert sein** — *to overtax; to overwhelm*
+
 **Collocations**
 - jemanden überfordern
 - sich überfordert fühlen

@@ -33,6 +33,11 @@ status: "new"
 > Die Demografie stellt die Gesellschaft vor große Aufgaben.
 > *Demography sets society great tasks.*
 
+**Phrases & Expressions:**
+- **demografischer Wandel** — *demography*
+- **Demografie und Rente** — *demography*
+- **Demografie der Stadt** — *demography*
+
 **Collocations**
 - demografischer Wandel
 - Demografie und Rente

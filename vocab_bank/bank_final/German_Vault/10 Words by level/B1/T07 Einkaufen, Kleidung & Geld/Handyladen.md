@@ -34,6 +34,9 @@ status: "new"
 > Im Handyladen kaufe ich eine neue Hülle.
 > *In the phone shop I buy a new case.*
 
+**Phrases & Expressions:**
+- **Im Handyladen kaufe ich eine neue Hülle** — *In the phone shop I buy a new case* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 3a (Das ist ja praktisch!)
 <!-- bank:end -->
 

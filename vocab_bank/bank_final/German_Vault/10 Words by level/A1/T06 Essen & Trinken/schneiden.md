@@ -33,6 +33,9 @@ status: "new"
 > Er schneidet das Gemüse.
 > *He is cutting the vegetables.*
 
+**Phrases & Expressions:**
+- **Er schneidet das Gemüse** — *He is cutting the vegetables* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

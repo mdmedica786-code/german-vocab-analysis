@@ -35,6 +35,9 @@ status: "new"
 > Ich mag Opern.
 > *I like operas.*
 
+**Phrases & Expressions:**
+- **Ich mag Opern** — *I like operas* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 13a (Studium und Beruf) · Goethe word list B1
 <!-- bank:end -->
 

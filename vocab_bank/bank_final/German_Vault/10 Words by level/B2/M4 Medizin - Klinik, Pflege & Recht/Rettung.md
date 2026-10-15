@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Rettung kam nach zehn Minuten.
 > *The rescue service arrived after ten minutes.*
+
+**Phrases & Expressions:**
+- **Die Rettung kam nach zehn Minuten** — *The rescue service arrived after ten minutes* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

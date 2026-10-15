@@ -29,6 +29,11 @@ status: "new"
 > Unsere Welt ist heute stark vernetzt.
 > *Our world is highly networked today.*
 
+**Phrases & Expressions:**
+- **digital vernetzt** — *networked; connected*
+- **eng vernetzt** — *networked; connected*
+- **vernetzt sein** — *networked; connected*
+
 **Collocations**
 - digital vernetzt
 - eng vernetzt

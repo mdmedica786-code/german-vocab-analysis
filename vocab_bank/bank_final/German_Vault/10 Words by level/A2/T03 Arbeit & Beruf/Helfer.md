@@ -34,6 +34,9 @@ status: "new"
 > Die Helfer verteilen Wasser.
 > *The helpers distribute water.*
 
+**Phrases & Expressions:**
+- **Die Helfer verteilen Wasser** — *The helpers distribute water* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

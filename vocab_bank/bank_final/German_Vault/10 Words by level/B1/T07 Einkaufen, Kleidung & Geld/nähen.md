@@ -33,6 +33,11 @@ status: "new"
 > Meine Mutter näht ihre Kleider selbst.
 > *My mother sews her dresses herself.*
 
+**Phrases & Expressions:**
+- **in der Nähe** — nearby; close by *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **in der Nähe von ...** — near ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **ganz in der Nähe** — very close by *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+
 **Source:** Netzwerk neu B1 K2 3e (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -30,6 +30,11 @@ status: "new"
 > Hören Sie den Hörtext zweimal.
 > *Listen to the listening text twice.*
 
+**Phrases & Expressions:**
+- **einen Hörtext hören** — *listening text; listening comprehension text*
+- **der Hörtext zur Aufgabe** — *listening text; listening comprehension text*
+- **einen Hörtext verstehen** — *listening text; listening comprehension text*
+
 **Collocations**
 - einen Hörtext hören
 - der Hörtext zur Aufgabe

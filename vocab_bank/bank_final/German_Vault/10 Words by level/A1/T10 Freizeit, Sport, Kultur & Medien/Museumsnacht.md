@@ -31,6 +31,9 @@ status: "new"
 > Bei der Museumsnacht sind alle Museen bis Mitternacht geöffnet.
 > *On museum night all the museums are open until midnight.*
 
+**Phrases & Expressions:**
+- **Bei der Museumsnacht sind alle Museen bis Mitternacht geöffnet** — *On museum night all the museums are open until midnight* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden)
 <!-- bank:end -->
 

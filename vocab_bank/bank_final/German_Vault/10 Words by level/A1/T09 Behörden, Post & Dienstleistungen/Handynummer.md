@@ -34,6 +34,9 @@ status: "new"
 > Kann ich Ihre Handynummer haben?
 > *May I have your mobile number?*
 
+**Phrases & Expressions:**
+- **Kann ich Ihre Handynummer haben** — *May I have your mobile number* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 6b (Guten Tag!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Das Unternehmen erwartet von den Mitarbeitern Flexibilität.
 > *The company expects flexibility from its employees.*
 
+**Phrases & Expressions:**
+- **Flexibilität zeigen** — *flexibility*
+- **zeitliche Flexibilität** — *flexibility*
+- **Flexibilität fordern** — *flexibility*
+
 **Collocations**
 - Flexibilität zeigen
 - zeitliche Flexibilität

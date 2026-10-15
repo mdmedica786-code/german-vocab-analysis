@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Arbeit ist eine große Belastung für ihn.
 > *The work is a great strain for him.*
+
+**Phrases & Expressions:**
+- **Treten die Beschwerden bei Belastung oder in Ruhe auf?** — Do the complaints occur on exertion or at rest? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Auslöser erfragen]] · B2)*
 <!-- bank:end -->
 
 ## My notes

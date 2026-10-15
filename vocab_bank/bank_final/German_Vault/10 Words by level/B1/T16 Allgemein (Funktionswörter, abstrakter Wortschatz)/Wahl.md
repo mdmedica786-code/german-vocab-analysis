@@ -36,6 +36,9 @@ status: "new"
 > Sie gewann eine lokale Wahl und ist nun im Stadtrat aktiv.
 > *She won a local election and is now active in the city council.*
 
+**Phrases & Expressions:**
+- **keine andere Wahl haben, als ...** — to have no other choice but ... *([[Können - Müssen - Dürfen (modal frames)|Können / Müssen / Dürfen (modal frames)]] · B2)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

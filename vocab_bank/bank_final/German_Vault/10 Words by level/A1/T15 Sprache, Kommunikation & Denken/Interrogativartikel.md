@@ -31,6 +31,9 @@ status: "new"
 > „Welcher“ ist ein Interrogativartikel.
 > *“Welcher” is an interrogative article.*
 
+**Phrases & Expressions:**
+- **„Welcher“ ist ein Interrogativartikel** — *“Welcher” is an interrogative article* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12c (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

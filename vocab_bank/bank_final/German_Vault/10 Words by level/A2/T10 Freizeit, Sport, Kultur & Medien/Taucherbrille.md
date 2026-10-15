@@ -34,6 +34,9 @@ status: "new"
 > Ohne Taucherbrille sieht man unter Wasser schlecht.
 > *Without a diving mask you can't see well under water.*
 
+**Phrases & Expressions:**
+- **Ohne Taucherbrille sieht man unter Wasser schlecht** — *Without a diving mask you can't see well under water* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1a (Sportlich, sportlich)
 <!-- bank:end -->
 

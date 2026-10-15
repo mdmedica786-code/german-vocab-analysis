@@ -30,6 +30,11 @@ status: "new"
 > Am Ende des Kapitels finden Sie eine Kurzübersicht.
 > *At the end of the chapter you will find a short overview.*
 
+**Phrases & Expressions:**
+- **eine Kurzübersicht erstellen** — *short overview; summary*
+- **die Kurzübersicht lesen** — *short overview; summary*
+- **eine Kurzübersicht der Regeln** — *short overview; summary*
+
 **Collocations**
 - eine Kurzübersicht erstellen
 - die Kurzübersicht lesen

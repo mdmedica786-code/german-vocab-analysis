@@ -34,6 +34,9 @@ status: "new"
 > Der Geigenunterricht ist am Mittwoch.
 > *The violin lesson is on Wednesday.*
 
+**Phrases & Expressions:**
+- **Der Geigenunterricht ist am Mittwoch** — *The violin lesson is on Wednesday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 7a (Alltag und Familie)
 <!-- bank:end -->
 

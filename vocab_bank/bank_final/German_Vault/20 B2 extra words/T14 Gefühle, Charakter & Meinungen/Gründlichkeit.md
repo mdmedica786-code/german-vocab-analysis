@@ -33,6 +33,11 @@ status: "new"
 > Die Gründlichkeit der Ärztin überzeugte die Patienten.
 > *The doctor's thoroughness convinced the patients.*
 
+**Phrases & Expressions:**
+- **mit Gründlichkeit** — *thoroughness*
+- **deutsche Gründlichkeit** — *thoroughness*
+- **Gründlichkeit zeigen** — *thoroughness*
+
 **Collocations**
 - mit Gründlichkeit
 - deutsche Gründlichkeit

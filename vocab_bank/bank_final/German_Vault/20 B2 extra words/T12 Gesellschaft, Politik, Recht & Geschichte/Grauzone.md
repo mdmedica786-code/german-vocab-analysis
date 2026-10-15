@@ -33,6 +33,11 @@ status: "new"
 > Das Verfahren bewegt sich rechtlich in einer Grauzone.
 > *The procedure operates in a legal grey area.*
 
+**Phrases & Expressions:**
+- **in einer Grauzone** — *grey area*
+- **eine rechtliche Grauzone** — *grey area*
+- **Grauzone zwischen Erlaubtem und Verbotenem** — *grey area*
+
 **Collocations**
 - in einer Grauzone
 - eine rechtliche Grauzone

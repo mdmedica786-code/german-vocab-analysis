@@ -33,6 +33,11 @@ status: "new"
 > Die Biodiversität in den Wäldern ist durch Monokulturen gefährdet.
 > *Biodiversity in the forests is endangered by monocultures.*
 
+**Phrases & Expressions:**
+- **Biodiversität erhalten** — *biodiversity*
+- **Verlust der Biodiversität** — *biodiversity*
+- **Biodiversität schützen** — *biodiversity*
+
 **Collocations**
 - Biodiversität erhalten
 - Verlust der Biodiversität

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Anerkennung ausländischer Abschlüsse dauert oft lange.
 > *The recognition of foreign qualifications often takes a long time.*
+
+**Phrases & Expressions:**
+- **Wie ist das Verfahren zur Anerkennung ausländischer Abschlüsse?** — What is the procedure for recognising foreign qualifications? *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Anfrage an Ärztekammer]] · B2)*
 <!-- bank:end -->
 
 ## My notes

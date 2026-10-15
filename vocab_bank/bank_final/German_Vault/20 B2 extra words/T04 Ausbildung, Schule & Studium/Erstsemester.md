@@ -33,6 +33,11 @@ status: "new"
 > Für die Erstsemester gibt es eine Einführungswoche.
 > *There is an orientation week for the first-year students.*
 
+**Phrases & Expressions:**
+- **ein Erstsemester sein** — *first-semester student*
+- **Begrüßung der Erstsemester** — *first-semester student*
+- **Erstsemesterparty** — *first-semester student*
+
 **Collocations**
 - ein Erstsemester sein
 - Begrüßung der Erstsemester

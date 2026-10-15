@@ -26,6 +26,9 @@ status: "new"
 > Dass wir helfen müssen, steht außer Frage.
 > *That we have to help is beyond question.*
 
+**Phrases & Expressions:**
+- **außer Zweifel stehen** — *to be beyond question*
+
 **Collocations**
 - außer Zweifel stehen
 

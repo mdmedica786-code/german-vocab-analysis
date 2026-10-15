@@ -35,6 +35,9 @@ status: "new"
 > Ich gehe zum Gemüsehändler, soll ich dir etwas mitbringen?
 > *I'm going to the greengrocer's. Shall I bring you something?*
 
+**Phrases & Expressions:**
+- **Ich gehe zum Gemüsehändler, soll ich dir etwas mitbringen** — *I'm going to the greengrocer's. Shall I bring you something* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 13a (Studium und Beruf) · Goethe word list B1
 <!-- bank:end -->
 

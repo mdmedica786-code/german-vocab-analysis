@@ -34,6 +34,9 @@ status: "new"
 > Der Abschied von meinen Freunden fiel mir schwer.
 > *Saying goodbye to my friends was hard for me.*
 
+**Phrases & Expressions:**
+- **Der Abschied von meinen Freunden fiel mir schwer** — *Saying goodbye to my friends was hard for me* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Wirf das bitte in den Mülleimer.
 > *Please throw that in the rubbish bin.*
 
+**Phrases & Expressions:**
+- **Wirf das bitte in den Mülleimer** — *Please throw that in the rubbish bin* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

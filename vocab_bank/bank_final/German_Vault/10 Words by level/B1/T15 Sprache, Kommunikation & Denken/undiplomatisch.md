@@ -30,6 +30,9 @@ status: "new"
 > Seine Antwort war sehr undiplomatisch.
 > *His answer was very undiplomatic.*
 
+**Phrases & Expressions:**
+- **Seine Antwort war sehr undiplomatisch** — *His answer was very undiplomatic* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 9a (Zwischenmenschliches)
 <!-- bank:end -->
 

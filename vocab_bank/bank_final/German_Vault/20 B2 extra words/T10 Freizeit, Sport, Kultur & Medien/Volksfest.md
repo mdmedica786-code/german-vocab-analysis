@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Volksfest gab es Karussells und Bierzelte.
 > *At the fair there were carousels and beer tents.*
 
+**Phrases & Expressions:**
+- **ein Volksfest besuchen** — *public festival; fair*
+- **auf dem Volksfest** — *public festival; fair*
+- **ein traditionelles Volksfest** — *public festival; fair*
+
 **Collocations**
 - ein Volksfest besuchen
 - auf dem Volksfest

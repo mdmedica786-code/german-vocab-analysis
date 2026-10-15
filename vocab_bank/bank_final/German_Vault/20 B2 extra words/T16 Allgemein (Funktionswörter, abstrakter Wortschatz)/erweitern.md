@@ -31,6 +31,11 @@ status: "new"
 > Wir wollen unser Angebot im nächsten Jahr erweitern.
 > *We want to expand our range next year.*
 
+**Phrases & Expressions:**
+- **den Wortschatz erweitern** — *to extend; to expand; to widen*
+- **das Angebot erweitern** — *to extend; to expand; to widen*
+- **sich erweitern** — *to extend; to expand; to widen*
+
 **Collocations**
 - den Wortschatz erweitern
 - das Angebot erweitern

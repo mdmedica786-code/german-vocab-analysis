@@ -33,6 +33,11 @@ status: "new"
 > Die Beweislast liegt beim Kläger.
 > *The burden of proof lies with the plaintiff.*
 
+**Phrases & Expressions:**
+- **die Beweislast tragen** — *burden of proof*
+- **Umkehr der Beweislast** — *burden of proof*
+- **Beweislast liegt bei** — *burden of proof*
+
 **Collocations**
 - die Beweislast tragen
 - Umkehr der Beweislast

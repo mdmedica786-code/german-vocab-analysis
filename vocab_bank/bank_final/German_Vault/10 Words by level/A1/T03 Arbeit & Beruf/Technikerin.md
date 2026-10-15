@@ -35,6 +35,9 @@ status: "new"
 > Die Technikerin prüft die Maschine.
 > *The technician is checking the machine.*
 
+**Phrases & Expressions:**
+- **Die Technikerin prüft die Maschine** — *The technician is checking the machine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 8a (Alltag und Familie) · Goethe word list A2
 <!-- bank:end -->
 

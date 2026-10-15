@@ -30,6 +30,9 @@ status: "new"
 > Deine Erklärung klingt logisch.
 > *Your explanation sounds logical.*
 
+**Phrases & Expressions:**
+- **Deine Erklärung klingt logisch** — *Your explanation sounds logical* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 13b (Immer online?)
 <!-- bank:end -->
 

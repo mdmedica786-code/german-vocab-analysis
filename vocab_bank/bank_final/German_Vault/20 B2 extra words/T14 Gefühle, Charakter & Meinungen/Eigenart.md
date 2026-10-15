@@ -33,6 +33,11 @@ status: "new"
 > Jede Stadt hat ihre eigenen Eigenarten.
 > *Every city has its own peculiarities.*
 
+**Phrases & Expressions:**
+- **eine Eigenart haben** — *peculiarity; characteristic*
+- **regionale Eigenarten** — *peculiarity; characteristic*
+- **persönliche Eigenart** — *peculiarity; characteristic*
+
 **Collocations**
 - eine Eigenart haben
 - regionale Eigenarten

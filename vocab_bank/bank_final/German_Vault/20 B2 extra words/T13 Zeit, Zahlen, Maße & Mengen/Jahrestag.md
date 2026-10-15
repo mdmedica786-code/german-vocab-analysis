@@ -33,6 +33,11 @@ status: "new"
 > Heute ist unser fünfter Jahrestag.
 > *Today is our fifth anniversary.*
 
+**Phrases & Expressions:**
+- **den Jahrestag feiern** — *anniversary*
+- **zum Jahrestag** — *anniversary*
+- **der hundertste Jahrestag** — *anniversary*
+
 **Collocations**
 - den Jahrestag feiern
 - zum Jahrestag

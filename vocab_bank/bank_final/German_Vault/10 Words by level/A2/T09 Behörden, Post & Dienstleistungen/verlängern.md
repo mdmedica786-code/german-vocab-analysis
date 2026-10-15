@@ -33,6 +33,9 @@ status: "new"
 > Ich muss meinen Pass verlängern lassen.
 > *I have to get my passport renewed.*
 
+**Phrases & Expressions:**
+- **Ich muss meinen Pass verlängern lassen** — *I have to get my passport renewed* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

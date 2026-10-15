@@ -31,6 +31,9 @@ status: "new"
 > Gehen Sie immer geradeaus!
 > *Keep going straight ahead!*
 
+**Phrases & Expressions:**
+- **Gehen Sie immer geradeaus** — *Keep going straight ahead* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 7b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

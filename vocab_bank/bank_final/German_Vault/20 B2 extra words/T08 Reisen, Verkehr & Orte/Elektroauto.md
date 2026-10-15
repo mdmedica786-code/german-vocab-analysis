@@ -33,6 +33,11 @@ status: "new"
 > Immer mehr Familien kaufen ein Elektroauto.
 > *More and more families are buying an electric car.*
 
+**Phrases & Expressions:**
+- **ein Elektroauto laden** — *electric car*
+- **Elektroauto fahren** — *electric car*
+- **Förderung für Elektroautos** — *electric car*
+
 **Collocations**
 - ein Elektroauto laden
 - Elektroauto fahren

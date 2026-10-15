@@ -31,6 +31,9 @@ status: "new"
 > Bitte wählen Sie eine Zahlungsart.
 > *Please choose a payment method.*
 
+**Phrases & Expressions:**
+- **Bitte wählen Sie eine Zahlungsart** — *Please choose a payment method* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Das Kätzchen spielt mit einem Ball.
 > *The kitten plays with a ball.*
 
+**Phrases & Expressions:**
+- **Das Kätzchen spielt mit einem Ball** — *The kitten plays with a ball* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 10c (Zusammen leben)
 <!-- bank:end -->
 

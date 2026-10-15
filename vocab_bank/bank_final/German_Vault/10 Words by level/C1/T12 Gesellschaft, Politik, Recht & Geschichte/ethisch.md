@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Das ist eine ethische Frage.
 > *That is an ethical question.*
+
+**Phrases & Expressions:**
+- **Das ist eine ethische Frage** — *That is an ethical question* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

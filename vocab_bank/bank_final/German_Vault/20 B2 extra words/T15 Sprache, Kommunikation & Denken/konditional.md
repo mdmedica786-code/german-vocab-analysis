@@ -29,6 +29,11 @@ status: "new"
 > Ein konditionaler Nebensatz beginnt oft mit „wenn“.
 > *A conditional subordinate clause often begins with "wenn".*
 
+**Phrases & Expressions:**
+- **ein konditionaler Satz** — *conditional*
+- **konditional verwenden** — *conditional*
+- **die konditionale Bedeutung** — *conditional*
+
 **Collocations**
 - ein konditionaler Satz
 - konditional verwenden

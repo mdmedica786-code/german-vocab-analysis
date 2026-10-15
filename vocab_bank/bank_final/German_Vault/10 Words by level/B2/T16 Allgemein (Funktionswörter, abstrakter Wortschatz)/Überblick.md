@@ -32,6 +32,10 @@ status: "new"
 > [!example] Beispiel
 > Ich verschaffe mir zuerst einen Überblick.
 > *First I get an overview.*
+
+**Phrases & Expressions:**
+- **einen Überblick über ... geben** — to give an overview of ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **Überblick über ...** — overview of ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
 <!-- bank:end -->
 
 ## My notes

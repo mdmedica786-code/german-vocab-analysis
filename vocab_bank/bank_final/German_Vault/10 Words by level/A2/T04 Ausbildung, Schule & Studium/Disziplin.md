@@ -34,6 +34,9 @@ status: "new"
 > Zum Lernen braucht man Disziplin.
 > *You need discipline to study.*
 
+**Phrases & Expressions:**
+- **Zum Lernen braucht man Disziplin** — *You need discipline to study* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

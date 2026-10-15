@@ -32,6 +32,9 @@ status: "new"
 > Ich kapiere die Aufgabe nicht.
 > *I don't get the task.*
 
+**Phrases & Expressions:**
+- **Ich kapiere die Aufgabe nicht** — *I don't get the task* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3a (Gelernt ist gelernt!)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Abweichende Meinungen sind erlaubt.
 > *Differing opinions are permitted.*
 
+**Phrases & Expressions:**
+- **abweichende Meinungen** — *deviating; different*
+- **abweichend von** — *deviating; different*
+- **abweichend regeln** — *deviating; different*
+
 **Collocations**
 - abweichende Meinungen
 - abweichend von

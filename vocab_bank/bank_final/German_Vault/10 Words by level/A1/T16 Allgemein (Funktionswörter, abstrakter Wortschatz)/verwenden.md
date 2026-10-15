@@ -33,6 +33,12 @@ status: "new"
 > Dieses Wort wird oft verwendet.
 > *This word is often used.*
 
+**Phrases & Expressions:**
+- **ein Wort verwenden** — *to use*
+- **frische Zutaten verwenden** — *to use*
+- **eine Methode verwenden** — *to use*
+- **Geld sinnvoll verwenden** — *to use*
+
 **Collocations**
 - ein Wort verwenden
 - frische Zutaten verwenden

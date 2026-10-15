@@ -30,6 +30,9 @@ status: "new"
 > Im Keller ist es finster.
 > *It is dark in the cellar.*
 
+**Phrases & Expressions:**
+- **Im Keller ist es finster** — *It is dark in the cellar* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 13b (Kunststücke)
 <!-- bank:end -->
 

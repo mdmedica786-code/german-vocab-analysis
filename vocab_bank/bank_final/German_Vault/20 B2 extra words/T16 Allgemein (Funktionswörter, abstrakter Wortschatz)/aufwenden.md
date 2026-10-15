@@ -32,6 +32,11 @@ status: "new"
 > Für das Projekt wurde viel Zeit aufgewendet.
 > *A lot of time was spent on the project.*
 
+**Phrases & Expressions:**
+- **Zeit aufwenden** — *to spend; to expend*
+- **Kosten aufwenden** — *to spend; to expend*
+- **viel Mühe aufwenden** — *to spend; to expend*
+
 **Collocations**
 - Zeit aufwenden
 - Kosten aufwenden

@@ -33,6 +33,11 @@ status: "new"
 > Der Nachlass des Verstorbenen wurde unter den Kindern aufgeteilt.
 > *The estate of the deceased was divided among the children.*
 
+**Phrases & Expressions:**
+- **den Nachlass regeln** — *estate (of a deceased person); discount*
+- **der literarische Nachlass** — *estate (of a deceased person); discount*
+- **Nachlass aufteilen** — *estate (of a deceased person); discount*
+
 **Collocations**
 - den Nachlass regeln
 - der literarische Nachlass

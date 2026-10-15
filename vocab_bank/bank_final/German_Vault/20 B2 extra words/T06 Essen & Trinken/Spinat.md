@@ -33,6 +33,11 @@ status: "new"
 > Zum Mittagessen gibt es Spinat mit Kartoffeln.
 > *For lunch there is spinach with potatoes.*
 
+**Phrases & Expressions:**
+- **frischer Spinat** — *spinach*
+- **Spinat kochen** — *spinach*
+- **Spinat mit Ei** — *spinach*
+
 **Collocations**
 - frischer Spinat
 - Spinat kochen

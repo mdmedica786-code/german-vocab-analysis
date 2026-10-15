@@ -32,6 +32,11 @@ status: "new"
 > Ich konnte der Versuchung nicht widerstehen.
 > *I could not resist the temptation.*
 
+**Phrases & Expressions:**
+- **der Versuchung widerstehen** — *to resist; to withstand*
+- **dem Druck widerstehen** — *to resist; to withstand*
+- **nicht widerstehen können** — *to resist; to withstand*
+
 **Collocations**
 - der Versuchung widerstehen
 - dem Druck widerstehen

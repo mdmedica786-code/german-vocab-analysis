@@ -33,6 +33,11 @@ status: "new"
 > Wir machen jetzt zehn Minuten Kaffeepause.
 > *We are now taking a ten-minute coffee break.*
 
+**Phrases & Expressions:**
+- **Kaffeepause machen** — *coffee break*
+- **in der Kaffeepause** — *coffee break*
+- **eine kurze Kaffeepause** — *coffee break*
+
 **Collocations**
 - Kaffeepause machen
 - in der Kaffeepause

@@ -34,6 +34,9 @@ status: "new"
 > Die Griechin kocht sehr gut.
 > *The Greek woman cooks very well.*
 
+**Phrases & Expressions:**
+- **Die Griechin kocht sehr gut** — *The Greek woman cooks very well* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

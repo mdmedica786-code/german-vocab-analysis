@@ -33,6 +33,11 @@ status: "new"
 > Das Team hat drei verschiedene Lösungsansätze entwickelt.
 > *The team developed three different approaches to a solution.*
 
+**Phrases & Expressions:**
+- **einen Lösungsansatz entwickeln** — *approach to a solution*
+- **ein vielversprechender Lösungsansatz** — *approach to a solution*
+- **Lösungsansätze diskutieren** — *approach to a solution*
+
 **Collocations**
 - einen Lösungsansatz entwickeln
 - ein vielversprechender Lösungsansatz

@@ -35,6 +35,9 @@ status: "new"
 > Im Sommer gehen wir oft schwimmen.
 > *In summer we often go swimming.*
 
+**Phrases & Expressions:**
+- **im Sommer** — in summer *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A1)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

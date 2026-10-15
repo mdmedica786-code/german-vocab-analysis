@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Nach der Nacht fühlte ich mich elend.
 > *After the night I felt miserable.*
+
+**Phrases & Expressions:**
+- **Nach der Nacht fühlte ich mich elend** — *After the night I felt miserable* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -30,6 +30,14 @@ status: "new"
 > Das würde ich mir nicht gefallen lassen.
 > *I would not put up with that.*
 
+**Phrases & Expressions:**
+- **... lässt sich ...** — can be ... *([[Können - Müssen - Dürfen (modal frames)|Können / Müssen / Dürfen (modal frames)]] · B2)*
+- **... lassen sich ...** — can be ... *([[Können - Müssen - Dürfen (modal frames)|Können / Müssen / Dürfen (modal frames)]] · B2)*
+- **lassen Sie mich ...** — let me ... *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B1)*
+- **Tee ziehen lassen** — to let tea steep *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B1)*
+- **außer Acht lassen** — to disregard *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · B1)*
+- **es lässt sich sagen, dass ...** — it can be said that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

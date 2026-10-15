@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Kraut im Garten wächst schnell.
 > *The herb in the garden grows quickly.*
+
+**Phrases & Expressions:**
+- **Das Kraut im Garten wächst schnell** — *The herb in the garden grows quickly* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

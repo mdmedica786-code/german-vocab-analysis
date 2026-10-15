@@ -34,6 +34,9 @@ status: "new"
 > Die Arbeitswelt verändert sich schnell.
 > *The working world is changing quickly.*
 
+**Phrases & Expressions:**
+- **Die Arbeitswelt verändert sich schnell** — *The working world is changing quickly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 11b (Nach der Schulzeit)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Er lief ziellos in der Stadt umher.
 > *He wandered aimlessly around the city.*
 
+**Phrases & Expressions:**
+- **umherlaufen** — *about; around*
+- **umherirren** — *about; around*
+- **weit umher** — *about; around*
+
 **Collocations**
 - umherlaufen
 - umherirren

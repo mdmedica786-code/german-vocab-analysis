@@ -29,6 +29,11 @@ status: "new"
 > Er ist beim Essen sehr pingelig.
 > *He is very fussy about food.*
 
+**Phrases & Expressions:**
+- **pingelig sein** — *fussy; nitpicky*
+- **pingelig prüfen** — *fussy; nitpicky*
+- **ein pingeliger Typ** — *fussy; nitpicky*
+
 **Collocations**
 - pingelig sein
 - pingelig prüfen

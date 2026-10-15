@@ -33,6 +33,11 @@ status: "new"
 > Beim Auszug muss der Mieter oft Schönheitsreparaturen durchführen.
 > *When moving out the tenant often has to carry out cosmetic repairs.*
 
+**Phrases & Expressions:**
+- **Schönheitsreparaturen durchführen** — *cosmetic repairs (e.g. painting)*
+- **zu Schönheitsreparaturen verpflichtet** — *cosmetic repairs (e.g. painting)*
+- **Schönheitsreparaturen übernehmen** — *cosmetic repairs (e.g. painting)*
+
 **Collocations**
 - Schönheitsreparaturen durchführen
 - zu Schönheitsreparaturen verpflichtet

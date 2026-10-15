@@ -30,6 +30,9 @@ status: "new"
 > Dein Zimmer ist sehr unordentlich.
 > *Your room is very messy.*
 
+**Phrases & Expressions:**
+- **Dein Zimmer ist sehr unordentlich** — *Your room is very messy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 12a ÜB (Große und kleine Gefühle)
 <!-- bank:end -->
 

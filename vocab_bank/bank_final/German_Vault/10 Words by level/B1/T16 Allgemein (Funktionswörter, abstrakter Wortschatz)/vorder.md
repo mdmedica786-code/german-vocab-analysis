@@ -30,6 +30,9 @@ status: "new"
 > Wir sitzen in der vorderen Reihe.
 > *We sit in the front row.*
 
+**Phrases & Expressions:**
+- **Wir sitzen in der vorderen Reihe** — *We sit in the front row* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Bei einem Umzug ins Ausland ist eine Abmeldung beim Einwohnermeldeamt nötig.
 > *When moving abroad you must de-register at the residents' registration office.*
 
+**Phrases & Expressions:**
+- **die Abmeldung vornehmen** — *de-registration; cancellation*
+- **Abmeldung beim Amt** — *de-registration; cancellation*
+- **Anmeldung und Abmeldung** — *de-registration; cancellation*
+
 **Collocations**
 - die Abmeldung vornehmen
 - Abmeldung beim Amt

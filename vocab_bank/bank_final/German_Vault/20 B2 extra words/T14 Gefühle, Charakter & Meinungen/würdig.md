@@ -29,6 +29,11 @@ status: "new"
 > Er ist dieses Preises würdig.
 > *He is worthy of this prize.*
 
+**Phrases & Expressions:**
+- **einer Sache würdig sein** — *worthy; dignified*
+- **ein würdiger Nachfolger** — *worthy; dignified*
+- **würdig leben** — *worthy; dignified*
+
 **Collocations**
 - einer Sache würdig sein
 - ein würdiger Nachfolger

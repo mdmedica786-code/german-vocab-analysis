@@ -33,6 +33,9 @@ status: "new"
 > Ich spiele gern Volleyball.
 > **
 
+**Phrases & Expressions:**
+- **Ich spiele gern Volleyball** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1a (Sportlich, sportlich) · Goethe word list A2
 <!-- bank:end -->
 

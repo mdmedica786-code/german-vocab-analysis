@@ -35,6 +35,11 @@ status: "new"
 > Das ist eine schwere Aufgabe.
 > *That is a difficult task.*
 
+**Phrases & Expressions:**
+- **Zu meinen Aufgaben gehörte(n) ...** — My duties included ... *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Berufserfahrung beschreiben]] · B2)*
+- **Welche Aufgaben würden auf mich zukommen?** — What tasks would I be facing? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Fragen an Arbeitgeber]] · B2)*
+- **Folgende Aufgaben sind noch ausstehend: ...** — The following tasks are still pending: ... *([[FSP-19 Übergabe, Konsil und Rücksprache|Schichtübergabe]] · C1)*
+
 **Source:** Netzwerk neu A1 K10 6 (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

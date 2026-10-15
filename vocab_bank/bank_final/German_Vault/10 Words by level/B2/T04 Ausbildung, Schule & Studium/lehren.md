@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Er lehrt Medizin an der Universität.
 > *He teaches medicine at the university.*
+
+**Phrases & Expressions:**
+- **Er lehrt Medizin an der Universität** — *He teaches medicine at the university* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -29,6 +29,11 @@ status: "new"
 > Sie haben kirchlich geheiratet.
 > *They had a church wedding.*
 
+**Phrases & Expressions:**
+- **kirchlich heiraten** — *church; ecclesiastical*
+- **kirchliche Feiertage** — *church; ecclesiastical*
+- **ein kirchlicher Träger** — *church; ecclesiastical*
+
 **Collocations**
 - kirchlich heiraten
 - kirchliche Feiertage

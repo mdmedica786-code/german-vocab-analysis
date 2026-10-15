@@ -30,6 +30,11 @@ status: "new"
 > Die Firma betreibt mehrere Social-Media-Kanäle.
 > *The company runs several social media channels.*
 
+**Phrases & Expressions:**
+- **einen Social-Media-Kanal betreiben** — *social media channel*
+- **auf dem Social-Media-Kanal** — *social media channel*
+- **ein Social-Media-Kanal der Stadt** — *social media channel*
+
 **Collocations**
 - einen Social-Media-Kanal betreiben
 - auf dem Social-Media-Kanal

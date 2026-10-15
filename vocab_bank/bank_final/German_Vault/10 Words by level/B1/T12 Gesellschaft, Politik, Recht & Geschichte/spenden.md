@@ -32,6 +32,9 @@ status: "new"
 > Viele Menschen spenden Geld für die Opfer.
 > *Many people donate money for the victims.*
 
+**Phrases & Expressions:**
+- **Viele Menschen spenden Geld für die Opfer** — *Many people donate money for the victims* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

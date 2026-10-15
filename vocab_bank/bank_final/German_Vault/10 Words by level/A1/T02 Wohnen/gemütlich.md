@@ -31,6 +31,9 @@ status: "new"
 > Wir haben eine sehr gemütliche Wohnung.
 > *We have a very cosy flat.*
 
+**Phrases & Expressions:**
+- **Wir haben eine sehr gemütliche Wohnung** — *We have a very cosy flat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 7a (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

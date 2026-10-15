@@ -33,6 +33,12 @@ status: "new"
 > Es gab eine Verzögerung bei der Lieferung.
 > *There was a delay in the delivery.*
 
+**Phrases & Expressions:**
+- **Infolgedessen kam es zu Verzögerungen.** — As a result, there were delays. *([[B2-10 Bedingungen, Folgen und irreale Wünsche|Folgen ausdrücken]] · B2)*
+- **mit Verzögerung** — *delay*
+- **eine Verzögerung melden** — *delay*
+- **zu einer Verzögerung führen** — *delay*
+
 **Collocations**
 - mit Verzögerung
 - eine Verzögerung melden

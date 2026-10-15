@@ -34,6 +34,9 @@ status: "new"
 > Alle Menschen wünschen sich Frieden.
 > *Everyone wishes for peace.*
 
+**Phrases & Expressions:**
+- **Alle Menschen wünschen sich Frieden** — *Everyone wishes for peace* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7a ÜB (Kunststücke)
 <!-- bank:end -->
 

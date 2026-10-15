@@ -34,6 +34,9 @@ status: "new"
 > Dieser Metzger hat sehr gute Wurst.
 > *This butcher has very good sausage.*
 
+**Phrases & Expressions:**
+- **Dieser Metzger hat sehr gute Wurst** — *This butcher has very good sausage* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

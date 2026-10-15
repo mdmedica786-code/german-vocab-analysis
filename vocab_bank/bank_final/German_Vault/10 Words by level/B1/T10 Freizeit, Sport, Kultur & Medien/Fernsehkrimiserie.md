@@ -31,6 +31,9 @@ status: "new"
 > Meine Lieblings-Fernsehkrimiserie läuft am Sonntag.
 > *My favourite TV crime series is on on Sunday.*
 
+**Phrases & Expressions:**
+- **Meine Lieblings-Fernsehkrimiserie läuft am Sonntag** — *My favourite TV crime series is on on Sunday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 11b (Zwischenmenschliches)
 <!-- bank:end -->
 

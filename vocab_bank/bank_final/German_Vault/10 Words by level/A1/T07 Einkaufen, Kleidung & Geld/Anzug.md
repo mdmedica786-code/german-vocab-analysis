@@ -35,6 +35,9 @@ status: "new"
 > Mein Mann muss sich einen neuen Anzug kaufen.
 > *My husband needs to buy a new suit.*
 
+**Phrases & Expressions:**
+- **Mein Mann muss sich einen neuen Anzug kaufen** — *My husband needs to buy a new suit* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 2a (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

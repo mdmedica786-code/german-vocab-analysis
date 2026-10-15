@@ -33,6 +33,11 @@ status: "new"
 > Wegen der hohen Nebenkosten muss ich eine Nachzahlung leisten.
 > *Because of the high utility costs I have to make an additional payment.*
 
+**Phrases & Expressions:**
+- **eine Nachzahlung leisten** — *additional payment; back payment*
+- **eine Nachzahlung fordern** — *additional payment; back payment*
+- **mit einer Nachzahlung rechnen** — *additional payment; back payment*
+
 **Collocations**
 - eine Nachzahlung leisten
 - eine Nachzahlung fordern

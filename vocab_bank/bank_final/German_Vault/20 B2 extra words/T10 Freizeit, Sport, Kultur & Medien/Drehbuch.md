@@ -33,6 +33,11 @@ status: "new"
 > Der Regisseur hat das Drehbuch selbst geschrieben.
 > *The director wrote the screenplay himself.*
 
+**Phrases & Expressions:**
+- **ein Drehbuch schreiben** — *screenplay; script*
+- **nach einem Drehbuch drehen** — *screenplay; script*
+- **Drehbuchautor** — *screenplay; script*
+
 **Collocations**
 - ein Drehbuch schreiben
 - nach einem Drehbuch drehen

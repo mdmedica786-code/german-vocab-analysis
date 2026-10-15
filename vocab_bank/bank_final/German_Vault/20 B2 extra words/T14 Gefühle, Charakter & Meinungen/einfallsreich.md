@@ -29,6 +29,11 @@ status: "new"
 > Die Kinder sind sehr einfallsreich beim Spielen.
 > *The children are very inventive when playing.*
 
+**Phrases & Expressions:**
+- **ein einfallsreicher Mensch** — *inventive; imaginative*
+- **einfallsreiche Lösungen** — *inventive; imaginative*
+- **einfallsreich sein** — *inventive; imaginative*
+
 **Collocations**
 - ein einfallsreicher Mensch
 - einfallsreiche Lösungen

@@ -26,6 +26,10 @@ status: "new"
 > Er leistete der Aufforderung des Gerichts Folge.
 > *He complied with the court's summons.*
 
+**Phrases & Expressions:**
+- **einer Aufforderung Folge leisten** — *to comply with*
+- **Folge leisten + Dat.** — *to comply with*
+
 **Collocations**
 - einer Aufforderung Folge leisten
 - Folge leisten + Dat.

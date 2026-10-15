@@ -36,6 +36,9 @@ status: "new"
 > Die Kinder essen Hähnchen mit Pommes frites.
 > *The children eat chicken with chips.*
 
+**Phrases & Expressions:**
+- **Die Kinder essen Hähnchen mit Pommes frites** — *The children eat chicken with chips* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 3c ÜB (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Der Zeitungstext ist leicht zu verstehen.
 > *The newspaper text is easy to understand.*
 
+**Phrases & Expressions:**
+- **Der Zeitungstext ist leicht zu verstehen** — *The newspaper text is easy to understand* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3a (Kunststücke)
 <!-- bank:end -->
 

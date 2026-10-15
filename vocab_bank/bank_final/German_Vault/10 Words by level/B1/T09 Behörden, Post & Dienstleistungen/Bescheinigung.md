@@ -34,6 +34,9 @@ status: "new"
 > Ich brauche eine Bescheinigung für meinen Arbeitgeber.
 > *I need a certificate for my employer.*
 
+**Phrases & Expressions:**
+- **Bitte geben Sie die Bescheinigung bei Ihrem Arbeitgeber ab.** — Please hand the certificate to your employer. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Krankschreibung]] · B1)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

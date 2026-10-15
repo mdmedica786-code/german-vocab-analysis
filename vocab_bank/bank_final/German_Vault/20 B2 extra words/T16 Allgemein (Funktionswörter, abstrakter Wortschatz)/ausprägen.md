@@ -32,6 +32,11 @@ status: "new"
 > Sein Charakter prägte sich schon früh aus.
 > *His character took shape early on.*
 
+**Phrases & Expressions:**
+- **sich ausprägen** — *to develop; to take shape*
+- **eine Eigenschaft ausprägen** — *to develop; to take shape*
+- **stark ausgeprägt** — *to develop; to take shape*
+
 **Collocations**
 - sich ausprägen
 - eine Eigenschaft ausprägen

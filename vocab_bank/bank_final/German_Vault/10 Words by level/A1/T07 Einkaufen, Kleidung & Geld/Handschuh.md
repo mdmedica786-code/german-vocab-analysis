@@ -34,6 +34,9 @@ status: "new"
 > Im Winter trage ich warme Handschuhe.
 > *In winter I wear warm gloves.*
 
+**Phrases & Expressions:**
+- **Im Winter trage ich warme Handschuhe** — *In winter I wear warm gloves* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 1b (Ab in den Urlaub!)
 <!-- bank:end -->
 

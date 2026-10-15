@@ -33,6 +33,11 @@ status: "new"
 > Die Liedermacherin singt eigene Lieder.
 > *The singer-songwriter sings her own songs.*
 
+**Phrases & Expressions:**
+- **eine bekannte Liedermacherin** — *singer-songwriter (female)*
+- **als Liedermacherin auftreten** — *singer-songwriter (female)*
+- **eine junge Liedermacherin** — *singer-songwriter (female)*
+
 **Collocations**
 - eine bekannte Liedermacherin
 - als Liedermacherin auftreten

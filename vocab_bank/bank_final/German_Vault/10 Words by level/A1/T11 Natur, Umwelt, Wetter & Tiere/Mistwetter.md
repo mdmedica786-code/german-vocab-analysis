@@ -34,6 +34,9 @@ status: "new"
 > Bei dem Mistwetter bleibe ich zu Hause.
 > *In this awful weather I'm staying at home.*
 
+**Phrases & Expressions:**
+- **Bei dem Mistwetter bleibe ich zu Hause** — *In this awful weather I'm staying at home* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 11d (Ab in den Urlaub!)
 <!-- bank:end -->
 

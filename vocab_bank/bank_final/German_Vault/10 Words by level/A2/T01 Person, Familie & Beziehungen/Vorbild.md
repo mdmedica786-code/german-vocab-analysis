@@ -34,6 +34,9 @@ status: "new"
 > Meine Mutter ist mein Vorbild.
 > *My mother is my role model.*
 
+**Phrases & Expressions:**
+- **Meine Mutter ist mein Vorbild** — *My mother is my role model* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 5a (Sportlich, sportlich)
 <!-- bank:end -->
 

@@ -29,6 +29,10 @@ status: "new"
 > Die Stadt wird zunehmend zum Zentrum der Kultur.
 > *The city is increasingly becoming a centre of culture.*
 
+**Phrases & Expressions:**
+- **zunehmend schwierig** — *increasingly*
+- **zunehmend beliebt** — *increasingly*
+
 **Collocations**
 - zunehmend schwierig
 - zunehmend beliebt

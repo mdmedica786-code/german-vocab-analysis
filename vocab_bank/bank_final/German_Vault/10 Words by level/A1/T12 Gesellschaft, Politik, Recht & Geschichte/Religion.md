@@ -35,6 +35,12 @@ status: "new"
 > Religion ist für manche Menschen sehr wichtig.
 > *Religion is very important to some people.*
 
+**Phrases & Expressions:**
+- **eine Religion ausüben** — *religion*
+- **die Religion wechseln** — *religion*
+- **Religion und Politik** — *religion*
+- **die Religionsfreiheit** — *religion*
+
 **Collocations**
 - eine Religion ausüben
 - die Religion wechseln

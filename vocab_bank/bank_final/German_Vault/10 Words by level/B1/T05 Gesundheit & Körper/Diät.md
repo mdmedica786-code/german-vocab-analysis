@@ -35,6 +35,9 @@ status: "new"
 > Ich möchte abnehmen. Deshalb mache ich eine Diät.
 > *I want to lose weight. That's why I'm on a diet.*
 
+**Phrases & Expressions:**
+- **Ich möchte abnehmen. Deshalb mache ich eine Diät** — *I want to lose weight. That's why I'm on a diet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 2 ÜB (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

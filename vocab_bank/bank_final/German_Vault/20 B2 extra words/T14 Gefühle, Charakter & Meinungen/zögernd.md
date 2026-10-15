@@ -29,6 +29,11 @@ status: "new"
 > Sie antwortete zögernd auf die Frage.
 > *She answered the question hesitantly.*
 
+**Phrases & Expressions:**
+- **zögernd antworten** — *hesitant; hesitating*
+- **zögernd zustimmen** — *hesitant; hesitating*
+- **mit zögernden Schritten** — *hesitant; hesitating*
+
 **Collocations**
 - zögernd antworten
 - zögernd zustimmen

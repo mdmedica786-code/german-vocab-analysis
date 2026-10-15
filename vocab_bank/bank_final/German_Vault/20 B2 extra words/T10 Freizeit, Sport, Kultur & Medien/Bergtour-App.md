@@ -30,6 +30,11 @@ status: "new"
 > Mit der Bergtour-App finde ich die schönsten Wege.
 > *With the hiking app I find the most beautiful routes.*
 
+**Phrases & Expressions:**
+- **eine Bergtour-App nutzen** — *hiking app (for mountain tours)*
+- **eine Bergtour-App herunterladen** — *hiking app (for mountain tours)*
+- **die Bergtour-App zeigt die Route** — *hiking app (for mountain tours)*
+
 **Collocations**
 - eine Bergtour-App nutzen
 - eine Bergtour-App herunterladen

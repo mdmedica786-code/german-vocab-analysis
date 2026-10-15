@@ -35,6 +35,9 @@ status: "new"
 > Du musst mir das in allen Einzelheiten erzählen.
 > *You have to tell me that in every detail.*
 
+**Phrases & Expressions:**
+- **Du musst mir das in allen Einzelheiten erzählen** — *You have to tell me that in every detail* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

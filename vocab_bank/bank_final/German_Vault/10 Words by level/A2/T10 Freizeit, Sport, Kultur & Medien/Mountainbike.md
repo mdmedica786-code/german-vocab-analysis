@@ -35,6 +35,9 @@ status: "new"
 > Am Wochenende fahre ich mit dem Mountainbike im Wald.
 > *At the weekend I ride my mountain bike in the forest.*
 
+**Phrases & Expressions:**
+- **Am Wochenende fahre ich mit dem Mountainbike im Wald** — *At the weekend I ride my mountain bike in the forest* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1a (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

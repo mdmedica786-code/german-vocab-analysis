@@ -35,6 +35,9 @@ status: "new"
 > Die Angestellten haben Anspruch auf 30 Tage Urlaub.
 > *The employees are entitled to 30 days of holiday.*
 
+**Phrases & Expressions:**
+- **Die Angestellten haben Anspruch auf 30 Tage Urlaub** — *The employees are entitled to 30 days of holiday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 8b (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

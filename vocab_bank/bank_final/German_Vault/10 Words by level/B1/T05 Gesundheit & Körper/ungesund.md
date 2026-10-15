@@ -30,6 +30,9 @@ status: "new"
 > Zu viel Zucker ist ungesund.
 > *Too much sugar is unhealthy.*
 
+**Phrases & Expressions:**
+- **Zu viel Zucker ist ungesund** — *Too much sugar is unhealthy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 11 (Das ist ja praktisch!)
 <!-- bank:end -->
 

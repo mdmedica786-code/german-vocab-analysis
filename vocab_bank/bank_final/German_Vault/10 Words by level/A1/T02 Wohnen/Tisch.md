@@ -35,6 +35,9 @@ status: "new"
 > Die Fotos liegen auf dem Tisch.
 > *The photos are on the table.*
 
+**Phrases & Expressions:**
+- **Die Fotos liegen auf dem Tisch** — *The photos are on the table* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 5b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

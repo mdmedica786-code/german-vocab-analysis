@@ -31,6 +31,11 @@ status: "new"
 > Der Hund knurrte laut.
 > *The dog growled loudly.*
 
+**Phrases & Expressions:**
+- **der Hund knurrt** — *to growl; to grumble*
+- **der Magen knurrt** — *to growl; to grumble*
+- **unwillig knurren** — *to growl; to grumble*
+
 **Collocations**
 - der Hund knurrt
 - der Magen knurrt

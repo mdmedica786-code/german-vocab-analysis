@@ -26,6 +26,10 @@ status: "new"
 > Sie macht im Deutschkurs große Fortschritte.
 > *She is making great progress in the German course.*
 
+**Phrases & Expressions:**
+- **große Fortschritte machen** — *to make progress*
+- **Fortschritte machen in + Dat.** — *to make progress*
+
 **Collocations**
 - große Fortschritte machen
 - Fortschritte machen in + Dat.

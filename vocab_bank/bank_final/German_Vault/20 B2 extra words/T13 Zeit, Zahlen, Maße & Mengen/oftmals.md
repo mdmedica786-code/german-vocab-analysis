@@ -29,6 +29,11 @@ status: "new"
 > Das Wetter ist hier oftmals unbeständig.
 > *The weather here is often unsettled.*
 
+**Phrases & Expressions:**
+- **oftmals vorkommen** — *often; frequently*
+- **oftmals zu spät** — *often; frequently*
+- **oftmals unbeständig** — *often; frequently*
+
 **Collocations**
 - oftmals vorkommen
 - oftmals zu spät

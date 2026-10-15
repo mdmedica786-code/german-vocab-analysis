@@ -33,6 +33,11 @@ status: "new"
 > Für die Hausarbeit habe ich viel Fachliteratur gelesen.
 > *For the term paper I read a lot of specialist literature.*
 
+**Phrases & Expressions:**
+- **Fachliteratur lesen** — *specialist literature*
+- **einschlägige Fachliteratur** — *specialist literature*
+- **Fachliteratur zum Thema** — *specialist literature*
+
 **Collocations**
 - Fachliteratur lesen
 - einschlägige Fachliteratur

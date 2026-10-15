@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Bachelorstudium möchte sie ein Masterstudium anschließen.
 > *After her bachelor's degree she wants to continue with a master's.*
 
+**Phrases & Expressions:**
+- **das Bachelorstudium abschließen** — *bachelor's degree programme*
+- **ein Bachelorstudium beginnen** — *bachelor's degree programme*
+- **nach dem Bachelorstudium** — *bachelor's degree programme*
+
 **Collocations**
 - das Bachelorstudium abschließen
 - ein Bachelorstudium beginnen

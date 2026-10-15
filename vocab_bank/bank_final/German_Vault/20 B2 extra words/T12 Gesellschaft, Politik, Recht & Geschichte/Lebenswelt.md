@@ -33,6 +33,11 @@ status: "new"
 > Die Lebenswelt der Jugendlichen hat sich verändert.
 > *The living environment of young people has changed.*
 
+**Phrases & Expressions:**
+- **die Lebenswelt der Kinder** — *world of experience; living environment*
+- **digitale Lebenswelten** — *world of experience; living environment*
+- **die eigene Lebenswelt** — *world of experience; living environment*
+
 **Collocations**
 - die Lebenswelt der Kinder
 - digitale Lebenswelten

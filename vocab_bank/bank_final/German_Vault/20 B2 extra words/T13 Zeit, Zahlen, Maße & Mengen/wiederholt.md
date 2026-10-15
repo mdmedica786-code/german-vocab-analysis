@@ -29,6 +29,11 @@ status: "new"
 > Er wurde wiederholt auf den Fehler hingewiesen.
 > *He was repeatedly made aware of the mistake.*
 
+**Phrases & Expressions:**
+- **wiederholt auffordern** — *repeated; repeatedly*
+- **wiederholt vorkommen** — *repeated; repeatedly*
+- **wiederholte Versuche** — *repeated; repeatedly*
+
 **Collocations**
 - wiederholt auffordern
 - wiederholt vorkommen

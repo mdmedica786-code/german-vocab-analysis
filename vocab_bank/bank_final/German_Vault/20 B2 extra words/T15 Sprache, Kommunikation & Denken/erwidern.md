@@ -31,6 +31,11 @@ status: "new"
 > Auf meine Frage erwiderte er nichts.
 > *He said nothing in reply to my question.*
 
+**Phrases & Expressions:**
+- **auf etwas erwidern** — *to reply; to return (a feeling)*
+- **einen Gruß erwidern** — *to reply; to return (a feeling)*
+- **Gefühle erwidern** — *to reply; to return (a feeling)*
+
 **Collocations**
 - auf etwas erwidern
 - einen Gruß erwidern

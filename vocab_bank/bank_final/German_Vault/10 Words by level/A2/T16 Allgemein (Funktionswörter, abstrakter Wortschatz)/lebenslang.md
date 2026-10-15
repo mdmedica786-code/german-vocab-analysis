@@ -30,6 +30,9 @@ status: "new"
 > Lernen ist ein lebenslanger Prozess.
 > *Learning is a lifelong process.*
 
+**Phrases & Expressions:**
+- **Lernen ist ein lebenslanger Prozess** — *Learning is a lifelong process* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
 <!-- bank:end -->
 

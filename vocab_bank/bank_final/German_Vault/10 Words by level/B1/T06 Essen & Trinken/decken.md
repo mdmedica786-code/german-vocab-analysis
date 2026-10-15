@@ -32,6 +32,11 @@ status: "new"
 > Kannst du bitte den Tisch decken?
 > *Can you please lay the table?*
 
+**Phrases & Expressions:**
+- **den Tisch decken** — *to cover; to lay (the table)*
+- **den Bedarf decken** — *to cover; to lay (the table)*
+- **die Kosten decken** — *to cover; to lay (the table)*
+
 **Collocations**
 - den Tisch decken
 - den Bedarf decken

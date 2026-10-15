@@ -33,6 +33,11 @@ status: "new"
 > Die Berufsbezeichnung steht im Arbeitsvertrag.
 > *The job title is stated in the employment contract.*
 
+**Phrases & Expressions:**
+- **eine offizielle Berufsbezeichnung** — *job title; professional title*
+- **die Berufsbezeichnung führen** — *job title; professional title*
+- **die Berufsbezeichnung ändern** — *job title; professional title*
+
 **Collocations**
 - eine offizielle Berufsbezeichnung
 - die Berufsbezeichnung führen

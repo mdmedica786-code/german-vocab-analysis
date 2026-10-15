@@ -35,6 +35,9 @@ status: "new"
 > Sie bekommen zehn Prozent Rabatt.
 > *You get ten percent discount.*
 
+**Phrases & Expressions:**
+- **Sie bekommen zehn Prozent Rabatt** — *You get ten percent discount* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 5a ÜB (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

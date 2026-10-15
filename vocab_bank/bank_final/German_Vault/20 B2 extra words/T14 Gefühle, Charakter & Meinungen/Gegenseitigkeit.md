@@ -33,6 +33,11 @@ status: "new"
 > Die Beziehung beruht auf Gegenseitigkeit.
 > *The relationship is based on reciprocity.*
 
+**Phrases & Expressions:**
+- **auf Gegenseitigkeit beruhen** — *reciprocity; mutuality*
+- **Prinzip der Gegenseitigkeit** — *reciprocity; mutuality*
+- **auf Gegenseitigkeit hoffen** — *reciprocity; mutuality*
+
 **Collocations**
 - auf Gegenseitigkeit beruhen
 - Prinzip der Gegenseitigkeit

@@ -31,6 +31,11 @@ status: "new"
 > Die Mädchen kicherten die ganze Zeit.
 > *The girls giggled the whole time.*
 
+**Phrases & Expressions:**
+- **leise kichern** — *to giggle; to titter*
+- **über etwas kichern** — *to giggle; to titter*
+- **albern kichern** — *to giggle; to titter*
+
 **Collocations**
 - leise kichern
 - über etwas kichern

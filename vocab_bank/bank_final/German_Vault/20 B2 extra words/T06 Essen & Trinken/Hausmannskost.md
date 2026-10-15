@@ -33,6 +33,11 @@ status: "new"
 > Im Gasthof gibt es gute Hausmannskost.
 > *At the inn there is good plain home cooking.*
 
+**Phrases & Expressions:**
+- **deftige Hausmannskost** — *plain home cooking*
+- **traditionelle Hausmannskost** — *plain home cooking*
+- **gutbürgerliche Hausmannskost** — *plain home cooking*
+
 **Collocations**
 - deftige Hausmannskost
 - traditionelle Hausmannskost

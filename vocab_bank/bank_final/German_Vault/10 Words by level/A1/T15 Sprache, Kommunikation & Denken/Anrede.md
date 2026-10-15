@@ -35,6 +35,9 @@ status: "new"
 > Schreiben Sie auch eine Anrede und einen Gruß.
 > *Also write a salutation and a closing.*
 
+**Phrases & Expressions:**
+- **Schreiben Sie auch eine Anrede und einen Gruß** — *Also write a salutation and a closing* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 8 (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

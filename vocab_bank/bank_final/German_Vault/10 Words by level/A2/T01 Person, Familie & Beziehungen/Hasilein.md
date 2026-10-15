@@ -31,6 +31,9 @@ status: "new"
 > Komm her, mein Hasilein!
 > *Come here, my little bunny!*
 
+**Phrases & Expressions:**
+- **Komm her, mein Hasilein** — *Come here, my little bunny* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 10c (Zusammen leben)
 <!-- bank:end -->
 

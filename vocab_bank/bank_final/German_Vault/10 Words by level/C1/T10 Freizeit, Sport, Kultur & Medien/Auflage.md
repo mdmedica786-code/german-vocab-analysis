@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Buch erscheint in einer neuen Auflage.
 > *The book is being published in a new edition.*
+
+**Phrases & Expressions:**
+- **Das Buch erscheint in einer neuen Auflage** — *The book is being published in a new edition* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

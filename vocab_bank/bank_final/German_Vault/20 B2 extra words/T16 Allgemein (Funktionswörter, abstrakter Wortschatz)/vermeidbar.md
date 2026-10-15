@@ -29,6 +29,11 @@ status: "new"
 > Viele Unfälle wären vermeidbar gewesen.
 > *Many accidents would have been avoidable.*
 
+**Phrases & Expressions:**
+- **ein vermeidbarer Fehler** — *avoidable*
+- **vermeidbar sein** — *avoidable*
+- **leicht vermeidbar** — *avoidable*
+
 **Collocations**
 - ein vermeidbarer Fehler
 - vermeidbar sein

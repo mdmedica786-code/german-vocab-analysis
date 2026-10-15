@@ -33,6 +33,11 @@ status: "new"
 > Ich schicke dir gleich eine Kurznachricht.
 > *I will send you a short message right away.*
 
+**Phrases & Expressions:**
+- **eine Kurznachricht schicken** — *short message; text message*
+- **eine Kurznachricht erhalten** — *short message; text message*
+- **eine Kurznachricht schreiben** — *short message; text message*
+
 **Collocations**
 - eine Kurznachricht schicken
 - eine Kurznachricht erhalten

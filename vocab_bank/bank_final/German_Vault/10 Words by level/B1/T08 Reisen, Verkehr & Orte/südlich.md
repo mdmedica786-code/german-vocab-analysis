@@ -31,6 +31,9 @@ status: "new"
 > Südlich der Stadt liegt ein See.
 > *A lake lies south of the town.*
 
+**Phrases & Expressions:**
+- **Südlich der Stadt liegt ein See** — *A lake lies south of the town* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

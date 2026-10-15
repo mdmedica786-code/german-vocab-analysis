@@ -33,6 +33,13 @@ status: "new"
 > Das Amt erließ eine Verfügung gegen den Bau.
 > *The authority issued an order against the construction.*
 
+**Phrases & Expressions:**
+- **zur Verfügung stehen** — to be available *([[Hilfe anbieten - Service (offer help)|Hilfe anbieten / Service (offer help)]] · B2)*
+- **Für Rückfragen stehe ich Ihnen gern zur Verfügung.** — I am happy to answer any further questions. *([[B1-13 Formelle E-Mail und Brief|Schluss formulieren]] · B1)*
+- **Ich stehe Ihnen für ein Vorstellungsgespräch jederzeit zur Verfügung.** — I am available for an interview at any time. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Termin vorschlagen]] · B2)*
+- **eine Verfügung erlassen** — *disposal; order; decree*
+- **einstweilige Verfügung** — *disposal; order; decree*
+
 **Collocations**
 - zur Verfügung stehen
 - eine Verfügung erlassen

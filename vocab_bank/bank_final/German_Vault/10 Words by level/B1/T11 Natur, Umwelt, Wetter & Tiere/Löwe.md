@@ -35,6 +35,9 @@ status: "new"
 > Der Löwe schläft in der Sonne.
 > *The lion is sleeping in the sun.*
 
+**Phrases & Expressions:**
+- **Der Löwe schläft in der Sonne** — *The lion is sleeping in the sun* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 5b (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

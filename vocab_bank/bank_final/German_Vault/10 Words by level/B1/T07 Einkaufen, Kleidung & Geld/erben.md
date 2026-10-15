@@ -32,6 +32,9 @@ status: "new"
 > Sie erbt das Haus ihrer Eltern.
 > *She inherits her parents' house.*
 
+**Phrases & Expressions:**
+- **Sie erbt das Haus ihrer Eltern** — *She inherits her parents' house* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3a (Veränderungen)
 <!-- bank:end -->
 

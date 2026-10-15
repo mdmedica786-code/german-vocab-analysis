@@ -33,6 +33,11 @@ status: "new"
 > Im Tiefschlaf erholt sich der Körper am besten.
 > *In deep sleep the body recovers best.*
 
+**Phrases & Expressions:**
+- **im Tiefschlaf liegen** — *deep sleep*
+- **der Tiefschlaf im Alter** — *deep sleep*
+- **in den Tiefschlaf fallen** — *deep sleep*
+
 **Collocations**
 - im Tiefschlaf liegen
 - der Tiefschlaf im Alter

@@ -34,6 +34,9 @@ status: "new"
 > Die Hotelchefin zeigt uns das Zimmer.
 > *The hotel manager shows us the room.*
 
+**Phrases & Expressions:**
+- **Die Hotelchefin zeigt uns das Zimmer** — *The hotel manager shows us the room* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 7a (Studium und Beruf)
 <!-- bank:end -->
 

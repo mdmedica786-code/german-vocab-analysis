@@ -31,6 +31,11 @@ status: "new"
 > Ihre Lehrerin hat sie ermutigt, sich zu bewerben.
 > *Her teacher encouraged her to apply.*
 
+**Phrases & Expressions:**
+- **jemanden ermutigen** — *to encourage*
+- **zum Weitermachen ermutigen** — *to encourage*
+- **ermutigend wirken** — *to encourage*
+
 **Collocations**
 - jemanden ermutigen
 - zum Weitermachen ermutigen

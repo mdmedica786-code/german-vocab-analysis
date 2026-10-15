@@ -26,6 +26,10 @@ status: "new"
 > Sie legte bei der Behörde Beschwerde ein.
 > *She lodged a complaint with the authority.*
 
+**Phrases & Expressions:**
+- **Beschwerde einlegen gegen + Akk.** — *to lodge a complaint*
+- **Beschwerde einreichen** — *to lodge a complaint*
+
 **Collocations**
 - Beschwerde einlegen gegen + Akk.
 - Beschwerde einreichen

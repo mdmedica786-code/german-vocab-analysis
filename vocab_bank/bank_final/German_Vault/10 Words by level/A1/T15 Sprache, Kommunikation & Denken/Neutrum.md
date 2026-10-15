@@ -35,6 +35,9 @@ status: "new"
 > „Das Kind“ ist ein Neutrum.
 > *"Das Kind" is a neuter noun.*
 
+**Phrases & Expressions:**
+- **„Das Kind“ ist ein Neutrum** — *"Das Kind" is a neuter noun* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

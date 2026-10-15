@@ -30,6 +30,11 @@ status: "new"
 > Der Wissenschaftsfonds finanziert das Forschungsprojekt.
 > *The science fund finances the research project.*
 
+**Phrases & Expressions:**
+- **vom Wissenschaftsfonds gefördert** — *science fund (research funding body)*
+- **beim Wissenschaftsfonds beantragen** — *science fund (research funding body)*
+- **ein Wissenschaftsfonds** — *science fund (research funding body)*
+
 **Collocations**
 - vom Wissenschaftsfonds gefördert
 - beim Wissenschaftsfonds beantragen

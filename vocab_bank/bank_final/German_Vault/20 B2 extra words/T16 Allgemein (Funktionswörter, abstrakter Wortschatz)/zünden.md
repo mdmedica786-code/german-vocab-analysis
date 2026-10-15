@@ -31,6 +31,11 @@ status: "new"
 > Er zündete die Sprengladung aus sicherer Entfernung.
 > *He detonated the explosive charge from a safe distance.*
 
+**Phrases & Expressions:**
+- **eine Rakete zünden** — *to ignite; to light; to detonate*
+- **eine Bombe zünden** — *to ignite; to light; to detonate*
+- **der Motor zündet** — *to ignite; to light; to detonate*
+
 **Collocations**
 - eine Rakete zünden
 - eine Bombe zünden

@@ -31,6 +31,11 @@ status: "new"
 > Sie blinzelte in die helle Sonne.
 > *She squinted into the bright sun.*
 
+**Phrases & Expressions:**
+- **in die Sonne blinzeln** — *to blink; to squint*
+- **mit den Augen blinzeln** — *to blink; to squint*
+- **kurz blinzeln** — *to blink; to squint*
+
 **Collocations**
 - in die Sonne blinzeln
 - mit den Augen blinzeln

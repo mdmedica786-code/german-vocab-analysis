@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Psychische Belastung kann krank machen.
 > *Mental strain can make you ill.*
+
+**Phrases & Expressions:**
+- **Psychische Belastung kann krank machen** — *Mental strain can make you ill* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

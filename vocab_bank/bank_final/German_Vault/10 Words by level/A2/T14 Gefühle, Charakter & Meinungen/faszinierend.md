@@ -30,6 +30,9 @@ status: "new"
 > Das ist eine faszinierende Geschichte.
 > *That is a fascinating story.*
 
+**Phrases & Expressions:**
+- **Das ist eine faszinierende Geschichte** — *That is a fascinating story* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

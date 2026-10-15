@@ -35,6 +35,9 @@ status: "new"
 > Sprachen zu lernen fördert die Mobilität.
 > *Learning languages promotes mobility.*
 
+**Phrases & Expressions:**
+- **Sprachen zu lernen fördert die Mobilität** — *Learning languages promotes mobility* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 1a (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

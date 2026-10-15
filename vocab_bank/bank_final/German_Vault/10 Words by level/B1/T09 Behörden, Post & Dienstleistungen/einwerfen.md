@@ -33,6 +33,9 @@ status: "new"
 > Werfen Sie bitte zwei Euro ein.
 > *Please insert two euros.*
 
+**Phrases & Expressions:**
+- **Werfen Sie bitte zwei Euro ein** — *Please insert two euros* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 10a (Geld regiert die Welt?)
 <!-- bank:end -->
 

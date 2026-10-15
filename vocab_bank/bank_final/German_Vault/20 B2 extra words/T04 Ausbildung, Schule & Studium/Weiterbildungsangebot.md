@@ -33,6 +33,11 @@ status: "new"
 > Die Firma hat ein breites Weiterbildungsangebot für Mitarbeiter.
 > *The company has a wide range of further training for employees.*
 
+**Phrases & Expressions:**
+- **ein Weiterbildungsangebot nutzen** — *further education offering*
+- **Weiterbildungsangebote machen** — *further education offering*
+- **vielfältige Weiterbildungsangebote** — *further education offering*
+
 **Collocations**
 - ein Weiterbildungsangebot nutzen
 - Weiterbildungsangebote machen

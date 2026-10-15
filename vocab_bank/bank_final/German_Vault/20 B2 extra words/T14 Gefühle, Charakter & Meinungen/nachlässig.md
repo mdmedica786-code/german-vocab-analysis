@@ -29,6 +29,11 @@ status: "new"
 > Er hat die Unterlagen nachlässig ausgefüllt.
 > *He filled out the documents carelessly.*
 
+**Phrases & Expressions:**
+- **nachlässig arbeiten** — *careless; negligent*
+- **nachlässig gekleidet** — *careless; negligent*
+- **nachlässig mit etwas umgehen** — *careless; negligent*
+
 **Collocations**
 - nachlässig arbeiten
 - nachlässig gekleidet

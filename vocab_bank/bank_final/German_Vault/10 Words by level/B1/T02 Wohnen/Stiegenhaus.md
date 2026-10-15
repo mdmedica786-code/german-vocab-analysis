@@ -42,6 +42,9 @@ status: "new"
 > Im Stiegenhaus ist kein Licht.
 > *There is no light in the stairwell.*
 
+**Phrases & Expressions:**
+- **Im Stiegenhaus ist kein Licht** — *There is no light in the stairwell* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

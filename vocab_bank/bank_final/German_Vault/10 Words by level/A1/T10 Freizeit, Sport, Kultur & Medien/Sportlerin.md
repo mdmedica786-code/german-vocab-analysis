@@ -35,6 +35,9 @@ status: "new"
 > Sie ist eine gute Sportlerin.
 > *She is a good sportswoman.*
 
+**Phrases & Expressions:**
+- **Sie ist eine gute Sportlerin** — *She is a good sportswoman* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13a (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

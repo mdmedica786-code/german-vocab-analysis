@@ -30,6 +30,11 @@ status: "new"
 > Gute EDV-Kenntnisse sind für die Stelle wichtig.
 > *Good IT skills are important for the job.*
 
+**Phrases & Expressions:**
+- **gute EDV-Kenntnisse** — *IT skills; computer skills*
+- **EDV-Kenntnisse nachweisen** — *IT skills; computer skills*
+- **EDV-Kenntnisse erwerben** — *IT skills; computer skills*
+
 **Collocations**
 - gute EDV-Kenntnisse
 - EDV-Kenntnisse nachweisen

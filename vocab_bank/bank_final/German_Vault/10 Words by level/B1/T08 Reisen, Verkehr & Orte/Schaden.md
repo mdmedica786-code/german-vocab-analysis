@@ -34,6 +34,9 @@ status: "new"
 > Jetzt muss ich den Schaden der Versicherung melden.
 > *Now I have to report the damage to the insurance company.*
 
+**Phrases & Expressions:**
+- **Ich melde mich wegen eines Schadens in meiner Wohnung.** — I'm contacting you about damage in my flat. *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Vermieter kontaktieren]] · B1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

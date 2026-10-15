@@ -26,6 +26,11 @@ status: "new"
 > Bei dem Brand kamen drei Löschzüge zum Einsatz.
 > *Three fire engines were deployed at the fire.*
 
+**Phrases & Expressions:**
+- **zum Einsatz bringen** — *to be used; to be deployed*
+- **Feuerwehr kommt zum Einsatz** — *to be used; to be deployed*
+- **im Einsatz sein** — *to be used; to be deployed*
+
 **Collocations**
 - zum Einsatz bringen
 - Feuerwehr kommt zum Einsatz

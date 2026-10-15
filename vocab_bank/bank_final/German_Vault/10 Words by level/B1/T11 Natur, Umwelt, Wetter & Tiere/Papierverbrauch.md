@@ -31,6 +31,9 @@ status: "new"
 > Der Papierverbrauch im Büro soll sinken.
 > *Paper consumption in the office should fall.*
 
+**Phrases & Expressions:**
+- **Der Papierverbrauch im Büro soll sinken** — *Paper consumption in the office should fall* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 1a (Umweltfreundlich?)
 <!-- bank:end -->
 

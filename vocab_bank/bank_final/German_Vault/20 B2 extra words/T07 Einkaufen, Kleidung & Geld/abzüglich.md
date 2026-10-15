@@ -30,6 +30,10 @@ status: "new"
 > Der Preis beträgt 100 Euro abzüglich der Versandkosten.
 > *The price is 100 euros less the shipping costs.*
 
+**Phrases & Expressions:**
+- **abzüglich der Steuer** — *minus; less*
+- **abzüglich Rabatt** — *minus; less*
+
 **Collocations**
 - abzüglich der Steuer
 - abzüglich Rabatt

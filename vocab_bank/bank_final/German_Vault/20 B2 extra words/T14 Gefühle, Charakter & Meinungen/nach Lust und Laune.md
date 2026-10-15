@@ -29,6 +29,10 @@ status: "new"
 > Am Wochenende machen wir alles nach Lust und Laune.
 > *At weekends we do everything as we please.*
 
+**Phrases & Expressions:**
+- **nach Belieben** — *as one pleases*
+- **was man will** — *as one pleases*
+
 **Collocations**
 - nach Belieben
 - was man will

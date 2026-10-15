@@ -29,6 +29,11 @@ status: "new"
 > Das Angebot ist für junge Leute unattraktiv.
 > *The offer is unattractive for young people.*
 
+**Phrases & Expressions:**
+- **unattraktiv wirken** — *unattractive*
+- **ein unattraktives Angebot** — *unattractive*
+- **unattraktiv sein** — *unattractive*
+
 **Collocations**
 - unattraktiv wirken
 - ein unattraktives Angebot

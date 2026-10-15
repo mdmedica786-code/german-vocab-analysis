@@ -34,6 +34,9 @@ status: "new"
 > Welchen Sender siehst du am liebsten?
 > *Which channel do you like watching best?*
 
+**Phrases & Expressions:**
+- **Welchen Sender siehst du am liebsten** — *Which channel do you like watching best* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

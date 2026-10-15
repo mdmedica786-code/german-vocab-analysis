@@ -32,6 +32,9 @@ status: "new"
 > Wer würfelt als Erster?
 > *Who rolls the dice first?*
 
+**Phrases & Expressions:**
+- **Wer würfelt als Erster** — *Who rolls the dice first* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 8 (In Hamburg)
 <!-- bank:end -->
 

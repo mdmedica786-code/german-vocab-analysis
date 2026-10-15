@@ -29,6 +29,11 @@ status: "new"
 > Das Kleid hat einen samtigen Stoff.
 > *The dress has a velvety fabric.*
 
+**Phrases & Expressions:**
+- **samtige Haut** — *velvety*
+- **samtig weich** — *velvety*
+- **eine samtige Stimme** — *velvety*
+
 **Collocations**
 - samtige Haut
 - samtig weich

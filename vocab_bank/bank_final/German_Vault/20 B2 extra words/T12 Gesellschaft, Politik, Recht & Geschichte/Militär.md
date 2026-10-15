@@ -33,6 +33,11 @@ status: "new"
 > Das Militär übernahm die Macht im Land.
 > *The military took power in the country.*
 
+**Phrases & Expressions:**
+- **beim Militär sein** — *military; armed forces*
+- **das Militär einsetzen** — *military; armed forces*
+- **zum Militär gehen** — *military; armed forces*
+
 **Collocations**
 - beim Militär sein
 - das Militär einsetzen

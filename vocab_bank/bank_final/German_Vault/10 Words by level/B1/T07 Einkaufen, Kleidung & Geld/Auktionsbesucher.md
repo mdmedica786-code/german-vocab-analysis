@@ -31,6 +31,9 @@ status: "new"
 > Die Auktionsbesucher warten auf das erste Bild.
 > *The auction visitors are waiting for the first picture.*
 
+**Phrases & Expressions:**
+- **Die Auktionsbesucher warten auf das erste Bild** — *The auction visitors are waiting for the first picture* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

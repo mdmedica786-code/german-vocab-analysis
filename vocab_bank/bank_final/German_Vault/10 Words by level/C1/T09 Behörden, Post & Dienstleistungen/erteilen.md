@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Die Behörde erteilt Ihnen die Erlaubnis.
 > *The authority grants you permission.*
+
+**Phrases & Expressions:**
+- **Die Behörde erteilt Ihnen die Erlaubnis** — *The authority grants you permission* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

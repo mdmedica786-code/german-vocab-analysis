@@ -33,6 +33,11 @@ status: "new"
 > Der Stammsitz der Firma liegt in Stuttgart.
 > *The company's headquarters are in Stuttgart.*
 
+**Phrases & Expressions:**
+- **der Stammsitz der Firma** — *headquarters; registered office; ancestral seat*
+- **den Stammsitz verlegen** — *headquarters; registered office; ancestral seat*
+- **am Stammsitz** — *headquarters; registered office; ancestral seat*
+
 **Collocations**
 - der Stammsitz der Firma
 - den Stammsitz verlegen

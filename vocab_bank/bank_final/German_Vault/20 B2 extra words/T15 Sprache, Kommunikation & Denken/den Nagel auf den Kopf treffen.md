@@ -29,6 +29,10 @@ status: "new"
 > Mit deiner Analyse hast du den Nagel auf den Kopf getroffen.
 > *With your analysis you hit the nail on the head.*
 
+**Phrases & Expressions:**
+- **genau treffen** — *to hit the nail on the head*
+- **die Sache auf den Punkt bringen** — *to hit the nail on the head*
+
 **Collocations**
 - genau treffen
 - die Sache auf den Punkt bringen

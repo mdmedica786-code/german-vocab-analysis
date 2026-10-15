@@ -34,6 +34,9 @@ status: "new"
 > Wir fahren im Urlaub Kajak.
 > *On holiday we go kayaking.*
 
+**Phrases & Expressions:**
+- **Wir fahren im Urlaub Kajak** — *On holiday we go kayaking* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1a (Sportlich, sportlich)
 <!-- bank:end -->
 

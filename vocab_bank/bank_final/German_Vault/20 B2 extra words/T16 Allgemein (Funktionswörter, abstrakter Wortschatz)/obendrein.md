@@ -29,6 +29,11 @@ status: "new"
 > Er hat den Zug verpasst und obendrein sein Handy verloren.
 > *He missed the train and lost his phone on top of that.*
 
+**Phrases & Expressions:**
+- **und obendrein** — *on top of that; into the bargain*
+- **obendrein noch** — *on top of that; into the bargain*
+- **obendrein teuer** — *on top of that; into the bargain*
+
 **Collocations**
 - und obendrein
 - obendrein noch

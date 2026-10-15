@@ -33,6 +33,11 @@ status: "new"
 > Das Team kämpft gegen den Abstieg.
 > *The team is fighting against relegation.*
 
+**Phrases & Expressions:**
+- **den Abstieg verhindern** — *relegation; descent; decline*
+- **der Abstieg in die zweite Liga** — *relegation; descent; decline*
+- **sozialer Abstieg** — *relegation; descent; decline*
+
 **Collocations**
 - den Abstieg verhindern
 - der Abstieg in die zweite Liga

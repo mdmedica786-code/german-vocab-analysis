@@ -35,6 +35,10 @@ status: "new"
 > Fahren Sie ins Ausland?
 > *Are you going abroad?*
 
+**Phrases & Expressions:**
+- **im Ausland** — abroad *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Waren Sie in letzter Zeit im Ausland?** — Have you been abroad recently? *([[FSP-05 Familien- und Sozialanamnese|Reisen erfragen]] · B1)*
+
 **Source:** Netzwerk neu A1 K10 13a (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

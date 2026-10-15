@@ -29,6 +29,11 @@ status: "new"
 > Das Buch gibt einen umfassenden Überblick über das Thema.
 > *The book gives a comprehensive overview of the topic.*
 
+**Phrases & Expressions:**
+- **umfassend informieren** — *comprehensive; extensive*
+- **eine umfassende Reform** — *comprehensive; extensive*
+- **umfassende Kenntnisse** — *comprehensive; extensive*
+
 **Collocations**
 - umfassend informieren
 - eine umfassende Reform

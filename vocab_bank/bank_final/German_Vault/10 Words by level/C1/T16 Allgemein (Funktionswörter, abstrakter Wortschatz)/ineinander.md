@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die beiden Teile greifen ineinander.
 > *The two parts fit into each other.*
+
+**Phrases & Expressions:**
+- **Die beiden Teile greifen ineinander** — *The two parts fit into each other* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

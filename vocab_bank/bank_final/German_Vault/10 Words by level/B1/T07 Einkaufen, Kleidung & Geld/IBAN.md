@@ -34,6 +34,9 @@ status: "new"
 > Bitte geben Sie Ihre IBAN an.
 > *Please state your IBAN.*
 
+**Phrases & Expressions:**
+- **Bitte geben Sie Ihre IBAN an** — *Please state your IBAN* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3b ÜB (Geld regiert die Welt?)
 <!-- bank:end -->
 

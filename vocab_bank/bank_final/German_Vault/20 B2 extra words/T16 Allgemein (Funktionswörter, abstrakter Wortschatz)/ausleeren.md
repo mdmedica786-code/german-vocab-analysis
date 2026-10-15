@@ -32,6 +32,11 @@ status: "new"
 > Sie leerte die Tasche auf den Tisch aus.
 > *She emptied the bag out onto the table.*
 
+**Phrases & Expressions:**
+- **eine Tasche ausleeren** — *to empty out*
+- **den Eimer ausleeren** — *to empty out*
+- **das Glas ausleeren** — *to empty out*
+
 **Collocations**
 - eine Tasche ausleeren
 - den Eimer ausleeren

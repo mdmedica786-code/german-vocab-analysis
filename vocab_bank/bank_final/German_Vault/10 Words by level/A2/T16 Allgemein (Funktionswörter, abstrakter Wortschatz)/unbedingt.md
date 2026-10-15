@@ -31,6 +31,12 @@ status: "new"
 > Ich muss unbedingt mit dir sprechen.
 > *I absolutely have to speak to you.*
 
+**Phrases & Expressions:**
+- **nicht unbedingt** — not necessarily *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B1)*
+- **unbedingt notwendig** — *absolutely*
+- **unbedingt wollen** — *absolutely*
+- **unbedingt brauchen** — *absolutely*
+
 **Collocations**
 - unbedingt notwendig
 - unbedingt wollen

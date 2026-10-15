@@ -33,6 +33,11 @@ status: "new"
 > Die Oberfläche des Tisches ist glatt.
 > *The surface of the table is smooth.*
 
+**Phrases & Expressions:**
+- **eine glatte Oberfläche** — *surface*
+- **an der Oberfläche** — *surface*
+- **die Oberfläche reinigen** — *surface*
+
 **Collocations**
 - eine glatte Oberfläche
 - an der Oberfläche

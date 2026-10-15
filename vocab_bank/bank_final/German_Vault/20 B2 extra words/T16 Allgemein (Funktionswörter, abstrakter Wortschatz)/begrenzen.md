@@ -31,6 +31,11 @@ status: "new"
 > Die Stadt will die Zahl der Besucher begrenzen.
 > *The city wants to limit the number of visitors.*
 
+**Phrases & Expressions:**
+- **die Zahl begrenzen** — *to limit; to restrict; to border*
+- **auf zehn Personen begrenzen** — *to limit; to restrict; to border*
+- **zeitlich begrenzt** — *to limit; to restrict; to border*
+
 **Collocations**
 - die Zahl begrenzen
 - auf zehn Personen begrenzen

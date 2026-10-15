@@ -34,6 +34,9 @@ status: "new"
 > Beim Unfall hat er Erste Hilfe geleistet.
 > *He gave first aid at the accident.*
 
+**Phrases & Expressions:**
+- **Beim Unfall hat er Erste Hilfe geleistet** — *He gave first aid at the accident* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

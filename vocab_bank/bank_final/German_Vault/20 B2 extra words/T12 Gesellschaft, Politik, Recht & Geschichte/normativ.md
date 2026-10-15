@@ -29,6 +29,11 @@ status: "new"
 > Die Studie hat einen normativen Anspruch.
 > *The study has a normative claim.*
 
+**Phrases & Expressions:**
+- **normativ wirken** — *normative*
+- **normative Vorgaben** — *normative*
+- **eine normative Aussage** — *normative*
+
 **Collocations**
 - normativ wirken
 - normative Vorgaben

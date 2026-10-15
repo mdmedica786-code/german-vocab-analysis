@@ -32,6 +32,12 @@ status: "new"
 > Alle sind eingeladen, niemand ist ausgenommen.
 > *Everyone is invited; nobody is excluded.*
 
+**Phrases & Expressions:**
+- **... nimmt kontinuierlich zu.** — ... is steadily increasing. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Anstieg beschreiben]] · B2)*
+- **niemanden ausnehmen** — *to exclude; to gut; to fleece*
+- **ausgenommen sein** — *to exclude; to gut; to fleece*
+- **ein Tier ausnehmen** — *to exclude; to gut; to fleece*
+
 **Collocations**
 - niemanden ausnehmen
 - ausgenommen sein

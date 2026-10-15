@@ -33,6 +33,11 @@ status: "new"
 > In einer Sondersituation gelten besondere Regeln.
 > *In an exceptional situation special rules apply.*
 
+**Phrases & Expressions:**
+- **eine Sondersituation meistern** — *special situation; exceptional circumstances*
+- **in einer Sondersituation** — *special situation; exceptional circumstances*
+- **eine Sondersituation schaffen** — *special situation; exceptional circumstances*
+
 **Collocations**
 - eine Sondersituation meistern
 - in einer Sondersituation

@@ -35,6 +35,9 @@ status: "new"
 > Ich kaufe ein Ticket am Schalter.
 > *I buy a ticket at the counter.*
 
+**Phrases & Expressions:**
+- **Ich kaufe ein Ticket am Schalter** — *I buy a ticket at the counter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 3a ÜB (Arbeitswelten) · Goethe word list A1
 <!-- bank:end -->
 

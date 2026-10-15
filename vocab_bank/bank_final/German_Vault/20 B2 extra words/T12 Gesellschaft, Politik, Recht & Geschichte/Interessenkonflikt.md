@@ -33,6 +33,11 @@ status: "new"
 > Die Abgeordnete trat wegen eines Interessenkonflikts zurück.
 > *The MP resigned because of a conflict of interest.*
 
+**Phrases & Expressions:**
+- **ein Interessenkonflikt entsteht** — *conflict of interest*
+- **in einen Interessenkonflikt geraten** — *conflict of interest*
+- **Interessenkonflikte vermeiden** — *conflict of interest*
+
 **Collocations**
 - ein Interessenkonflikt entsteht
 - in einen Interessenkonflikt geraten

@@ -30,6 +30,9 @@ status: "new"
 > Wir wohnen nicht weit auseinander.
 > *We do not live far apart.*
 
+**Phrases & Expressions:**
+- **Wir wohnen nicht weit auseinander** — *We do not live far apart* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

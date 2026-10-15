@@ -36,6 +36,9 @@ status: "new"
 > Der Fotograf macht Bilder von der Hochzeit.
 > *The photographer takes pictures of the wedding.*
 
+**Phrases & Expressions:**
+- **Der Fotograf macht Bilder von der Hochzeit** — *The photographer takes pictures of the wedding* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -28,6 +28,10 @@ status: "new"
 > Er ist ein Fan von Kneipen & Co.
 > *He is a fan of pubs and the like.*
 
+**Phrases & Expressions:**
+- **Kneipen & Co** — *and the like (Co.)*
+- **und Co.** — *and the like (Co.)*
+
 **Collocations**
 - Kneipen & Co
 - und Co.

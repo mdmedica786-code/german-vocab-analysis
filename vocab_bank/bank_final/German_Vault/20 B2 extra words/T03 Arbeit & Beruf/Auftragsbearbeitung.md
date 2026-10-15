@@ -30,6 +30,11 @@ status: "new"
 > Die Auftragsbearbeitung dauert in der Regel zwei Tage.
 > *Order processing usually takes two days.*
 
+**Phrases & Expressions:**
+- **die Auftragsbearbeitung beschleunigen** — *order processing*
+- **in der Auftragsbearbeitung arbeiten** — *order processing*
+- **schnelle Auftragsbearbeitung** — *order processing*
+
 **Collocations**
 - die Auftragsbearbeitung beschleunigen
 - in der Auftragsbearbeitung arbeiten

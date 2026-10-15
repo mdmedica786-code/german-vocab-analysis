@@ -31,6 +31,11 @@ status: "new"
 > Ich war schon dreimal in Berlin.
 > *I've already been to Berlin three times.*
 
+**Phrases & Expressions:**
+- **dreimal am Tag** — three times a day *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+- **Sie nehmen dreimal täglich eine Tablette, morgens, mittags und abends.** — You take one tablet three times a day: morning, noon and evening. *([[FSP-11 Therapie und Medikamente erklären|Dosierung erklären]] · B2)*
+- **Es wäre gut, wenn Sie sich dreimal pro Woche bewegen würden.** — It would be good if you were to move three times a week. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Bewegung motivieren]] · B1)*
+
 **Source:** Netzwerk neu A1 K5 12 (Alltag und Familie) · Goethe word list A2
 <!-- bank:end -->
 

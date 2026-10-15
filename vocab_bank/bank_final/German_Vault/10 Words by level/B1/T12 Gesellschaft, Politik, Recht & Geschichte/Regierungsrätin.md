@@ -39,6 +39,9 @@ status: "new"
 > Die Regierungsrätin eröffnet die Ausstellung.
 > *The cantonal government member opens the exhibition.*
 
+**Phrases & Expressions:**
+- **Die Regierungsrätin eröffnet die Ausstellung** — *The cantonal government member opens the exhibition* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

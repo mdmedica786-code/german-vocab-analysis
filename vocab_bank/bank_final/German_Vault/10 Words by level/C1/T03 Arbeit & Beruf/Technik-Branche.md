@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Sie arbeitet in der Technik-Branche.
 > *She works in the tech industry.*
+
+**Phrases & Expressions:**
+- **Sie arbeitet in der Technik-Branche** — *She works in the tech industry* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

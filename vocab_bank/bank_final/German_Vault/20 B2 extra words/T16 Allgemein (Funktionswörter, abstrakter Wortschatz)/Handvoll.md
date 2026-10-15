@@ -33,6 +33,11 @@ status: "new"
 > Nur eine Handvoll Leute kam zur Versammlung.
 > *Only a handful of people came to the meeting.*
 
+**Phrases & Expressions:**
+- **eine Handvoll Leute** — *handful; small number*
+- **eine Handvoll Reis** — *handful; small number*
+- **nur eine Handvoll** — *handful; small number*
+
 **Collocations**
 - eine Handvoll Leute
 - eine Handvoll Reis

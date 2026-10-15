@@ -33,6 +33,11 @@ status: "new"
 > Die Lieferfrist beträgt fünf bis sieben Werktage.
 > *The delivery period is five to seven working days.*
 
+**Phrases & Expressions:**
+- **die Lieferfrist einhalten** — *delivery period*
+- **die Lieferfrist verlängern** — *delivery period*
+- **die vereinbarte Lieferfrist** — *delivery period*
+
 **Collocations**
 - die Lieferfrist einhalten
 - die Lieferfrist verlängern

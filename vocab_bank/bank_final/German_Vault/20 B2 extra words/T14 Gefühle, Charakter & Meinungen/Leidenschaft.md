@@ -33,6 +33,11 @@ status: "new"
 > Kochen ist ihre große Leidenschaft.
 > *Cooking is her great passion.*
 
+**Phrases & Expressions:**
+- **mit Leidenschaft** — *passion*
+- **eine große Leidenschaft** — *passion*
+- **Leidenschaft für etwas** — *passion*
+
 **Collocations**
 - mit Leidenschaft
 - eine große Leidenschaft

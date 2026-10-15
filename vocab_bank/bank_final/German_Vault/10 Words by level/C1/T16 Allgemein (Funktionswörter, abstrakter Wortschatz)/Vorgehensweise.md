@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Vorgehensweise ist klar festgelegt.
 > *The procedure is clearly defined.*
+
+**Phrases & Expressions:**
+- **Die Vorgehensweise ist klar festgelegt** — *The procedure is clearly defined* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

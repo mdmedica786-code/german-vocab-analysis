@@ -34,6 +34,9 @@ status: "new"
 > Zivilcourage bedeutet, anderen in Gefahr zu helfen.
 > *Moral courage means helping others in danger.*
 
+**Phrases & Expressions:**
+- **Zivilcourage bedeutet, anderen in Gefahr zu helfen** — *Moral courage means helping others in danger* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1a (Miteinander)
 <!-- bank:end -->
 

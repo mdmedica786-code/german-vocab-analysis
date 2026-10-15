@@ -33,6 +33,11 @@ status: "new"
 > Für die Einbürgerung muss man den Einbürgerungstest bestehen.
 > *For naturalisation you must pass the naturalisation test.*
 
+**Phrases & Expressions:**
+- **den Einbürgerungstest bestehen** — *naturalisation test*
+- **Einbürgerungstest ablegen** — *naturalisation test*
+- **Fragen im Einbürgerungstest** — *naturalisation test*
+
 **Collocations**
 - den Einbürgerungstest bestehen
 - Einbürgerungstest ablegen

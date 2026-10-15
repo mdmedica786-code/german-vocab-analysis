@@ -33,6 +33,11 @@ status: "new"
 > Hinter dem Haus fließt ein kleiner Bach.
 > *A small brook flows behind the house.*
 
+**Phrases & Expressions:**
+- **ein Bach plätschert** — *brook; stream*
+- **am Bach spielen** — *brook; stream*
+- **über den Bach springen** — *brook; stream*
+
 **Collocations**
 - ein Bach plätschert
 - am Bach spielen

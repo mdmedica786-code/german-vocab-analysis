@@ -34,6 +34,9 @@ status: "new"
 > Wasser aus der Glasflasche schmeckt mir besser.
 > *Water from a glass bottle tastes better to me.*
 
+**Phrases & Expressions:**
+- **Wasser aus der Glasflasche schmeckt mir besser** — *Water from a glass bottle tastes better to me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 4a (Umweltfreundlich?)
 <!-- bank:end -->
 

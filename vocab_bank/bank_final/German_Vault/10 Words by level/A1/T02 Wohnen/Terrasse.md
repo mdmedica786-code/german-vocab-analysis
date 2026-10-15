@@ -35,6 +35,9 @@ status: "new"
 > Setzen wir uns auf die Terrasse!
 > *Let's sit on the terrace!*
 
+**Phrases & Expressions:**
+- **Setzen wir uns auf die Terrasse** — *Let's sit on the terrace* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3a (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Sein Benehmen war sehr höflich.
 > *His behaviour was very polite.*
 
+**Phrases & Expressions:**
+- **Sein Benehmen war sehr höflich** — *His behaviour was very polite* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10a (Veränderungen)
 <!-- bank:end -->
 

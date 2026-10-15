@@ -31,6 +31,11 @@ status: "new"
 > Was bezweckst du mit dieser Frage?
 > *What are you aiming at with this question?*
 
+**Phrases & Expressions:**
+- **etwas bezwecken** — *to aim at; to intend*
+- **damit bezwecken** — *to aim at; to intend*
+- **bezwecken, dass** — *to aim at; to intend*
+
 **Collocations**
 - etwas bezwecken
 - damit bezwecken

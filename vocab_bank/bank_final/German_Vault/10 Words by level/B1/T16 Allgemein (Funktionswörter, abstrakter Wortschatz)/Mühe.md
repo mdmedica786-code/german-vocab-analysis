@@ -35,6 +35,9 @@ status: "new"
 > Vielen Dank für Ihre Mühe.
 > *Thank you very much for your effort.*
 
+**Phrases & Expressions:**
+- **Vielen Dank für Ihre Mühe** — *Thank you very much for your effort* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

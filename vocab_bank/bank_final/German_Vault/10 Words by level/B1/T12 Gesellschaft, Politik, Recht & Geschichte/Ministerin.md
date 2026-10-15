@@ -35,6 +35,9 @@ status: "new"
 > Die Ministerin spricht im Fernsehen.
 > *The minister speaks on television.*
 
+**Phrases & Expressions:**
+- **Die Ministerin spricht im Fernsehen** — *The minister speaks on television* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

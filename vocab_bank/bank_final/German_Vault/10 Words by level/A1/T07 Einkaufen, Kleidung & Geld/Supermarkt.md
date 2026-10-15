@@ -35,6 +35,9 @@ status: "new"
 > Ich kaufe oft im Supermarkt ein.
 > *I often shop at the supermarket.*
 
+**Phrases & Expressions:**
+- **Ich kaufe oft im Supermarkt ein** — *I often shop at the supermarket* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 2a (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

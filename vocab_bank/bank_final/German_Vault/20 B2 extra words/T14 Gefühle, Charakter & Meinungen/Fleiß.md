@@ -33,6 +33,11 @@ status: "new"
 > Ohne Fleiß kein Preis.
 > *No pain, no gain.*
 
+**Phrases & Expressions:**
+- **mit Fleiß** — *diligence; hard work*
+- **großer Fleiß** — *diligence; hard work*
+- **Fleiß und Disziplin** — *diligence; hard work*
+
 **Collocations**
 - mit Fleiß
 - großer Fleiß

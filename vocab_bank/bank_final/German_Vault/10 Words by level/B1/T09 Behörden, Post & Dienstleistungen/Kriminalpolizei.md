@@ -34,6 +34,9 @@ status: "new"
 > Die Kriminalpolizei untersucht den Fall.
 > *The criminal investigation department is investigating the case.*
 
+**Phrases & Expressions:**
+- **Die Kriminalpolizei untersucht den Fall** — *The criminal investigation department is investigating the case* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

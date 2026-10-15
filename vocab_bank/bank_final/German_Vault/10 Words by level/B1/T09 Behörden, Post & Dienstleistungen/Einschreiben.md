@@ -34,6 +34,9 @@ status: "new"
 > Ich habe den Brief als Einschreiben geschickt.
 > *I sent the letter by registered mail.*
 
+**Phrases & Expressions:**
+- **Ich habe den Brief als Einschreiben geschickt** — *I sent the letter by registered mail* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

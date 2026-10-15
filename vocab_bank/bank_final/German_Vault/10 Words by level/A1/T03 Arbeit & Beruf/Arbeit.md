@@ -36,6 +36,10 @@ status: "new"
 > Mein Bruder sucht Arbeit.
 > **
 
+**Phrases & Expressions:**
+- **Ich kann kaum noch arbeiten.** — I can hardly work any more. *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Patient: Einschränkung schildern]] · A2)*
+- **Wie belastend ist Ihre Arbeit körperlich und seelisch?** — How demanding is your work physically and mentally? *([[FSP-05 Familien- und Sozialanamnese|Berufliche Belastung]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

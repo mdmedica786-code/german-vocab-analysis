@@ -35,6 +35,9 @@ status: "new"
 > Im Hotel brauchst du deinen Pass.
 > *In the hotel you need your passport.*
 
+**Phrases & Expressions:**
+- **Im Hotel brauchst du deinen Pass** — *In the hotel you need your passport* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 3a ÜB (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Das Medikament ist gut verträglich.
 > *The medication is well tolerated.*
 
+**Phrases & Expressions:**
+- **gut verträglich** — *well tolerated; compatible; good-natured*
+- **verträglich sein** — *well tolerated; compatible; good-natured*
+- **ein verträglicher Mensch** — *well tolerated; compatible; good-natured*
+
 **Collocations**
 - gut verträglich
 - verträglich sein

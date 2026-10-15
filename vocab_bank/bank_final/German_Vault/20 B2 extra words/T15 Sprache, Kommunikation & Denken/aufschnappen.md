@@ -32,6 +32,11 @@ status: "new"
 > Das Wort habe ich im Radio aufgeschnappt.
 > *I picked up the word on the radio.*
 
+**Phrases & Expressions:**
+- **ein Wort aufschnappen** — *to pick up (words, information)*
+- **eine Information aufschnappen** — *to pick up (words, information)*
+- **etwas zufällig aufschnappen** — *to pick up (words, information)*
+
 **Collocations**
 - ein Wort aufschnappen
 - eine Information aufschnappen

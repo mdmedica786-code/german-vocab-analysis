@@ -32,6 +32,12 @@ status: "new"
 > Haben Sie häufig Kopfschmerzen?
 > *Do you often have headaches?*
 
+**Phrases & Expressions:**
+- **häufig vorkommen** — *often*
+- **sehr häufig** — *often*
+- **häufig Kopfschmerzen haben** — *often*
+- **häufig besuchen** — *often*
+
 **Collocations**
 - häufig vorkommen
 - sehr häufig

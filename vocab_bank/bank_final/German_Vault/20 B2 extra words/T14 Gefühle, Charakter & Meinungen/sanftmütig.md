@@ -29,6 +29,11 @@ status: "new"
 > Er ist ein sanftmütiger Mensch und streitet nie.
 > *He is a gentle person and never argues.*
 
+**Phrases & Expressions:**
+- **sanftmütig sein** — *gentle; meek*
+- **ein sanftmütiges Wesen** — *gentle; meek*
+- **sanftmütig lächeln** — *gentle; meek*
+
 **Collocations**
 - sanftmütig sein
 - ein sanftmütiges Wesen

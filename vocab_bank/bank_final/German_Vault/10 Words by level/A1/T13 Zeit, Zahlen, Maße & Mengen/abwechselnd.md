@@ -30,6 +30,9 @@ status: "new"
 > Wir kochen abwechselnd, einmal du, einmal ich.
 > *We take turns cooking, once you, once me.*
 
+**Phrases & Expressions:**
+- **Wir kochen abwechselnd, einmal du, einmal ich** — *We take turns cooking, once you, once me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 2b (Alltag und Familie)
 <!-- bank:end -->
 

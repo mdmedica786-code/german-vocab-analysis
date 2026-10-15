@@ -33,6 +33,11 @@ status: "new"
 > Das Publikum belohnte die Sängerin mit großem Applaus.
 > *The audience rewarded the singer with great applause.*
 
+**Phrases & Expressions:**
+- **Applaus bekommen** — *applause*
+- **großer Applaus** — *applause*
+- **für den Applaus danken** — *applause*
+
 **Collocations**
 - Applaus bekommen
 - großer Applaus

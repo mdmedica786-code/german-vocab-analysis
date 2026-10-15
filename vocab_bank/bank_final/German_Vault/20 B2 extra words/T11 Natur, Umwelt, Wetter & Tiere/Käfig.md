@@ -33,6 +33,11 @@ status: "new"
 > Der Vogel sitzt in einem großen Käfig.
 > *The bird is sitting in a large cage.*
 
+**Phrases & Expressions:**
+- **im Käfig halten** — *cage*
+- **ein Käfig für Hamster** — *cage*
+- **den Käfig reinigen** — *cage*
+
 **Collocations**
 - im Käfig halten
 - ein Käfig für Hamster

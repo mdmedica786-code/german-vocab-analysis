@@ -29,6 +29,11 @@ status: "new"
 > Die Aussagen der beiden Zeugen sind widersprüchlich.
 > *The statements of the two witnesses are contradictory.*
 
+**Phrases & Expressions:**
+- **widersprüchliche Angaben** — *contradictory*
+- **sich widersprüchlich äußern** — *contradictory*
+- **widersprüchliche Informationen** — *contradictory*
+
 **Collocations**
 - widersprüchliche Angaben
 - sich widersprüchlich äußern

@@ -29,6 +29,11 @@ status: "new"
 > Im Sommer trage ich luftige Kleider.
 > *In summer I wear airy dresses.*
 
+**Phrases & Expressions:**
+- **luftig gekleidet** — *airy; light*
+- **ein luftiges Kleid** — *airy; light*
+- **luftig und leicht** — *airy; light*
+
 **Collocations**
 - luftig gekleidet
 - ein luftiges Kleid

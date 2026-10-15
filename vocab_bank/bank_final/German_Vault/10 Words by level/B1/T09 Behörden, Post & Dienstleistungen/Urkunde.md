@@ -34,6 +34,9 @@ status: "new"
 > Wenn wir das Spiel gewinnen, bekommen wir eine Urkunde.
 > *If we win the game, we get a certificate.*
 
+**Phrases & Expressions:**
+- **Wenn wir das Spiel gewinnen, bekommen wir eine Urkunde** — *If we win the game, we get a certificate* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

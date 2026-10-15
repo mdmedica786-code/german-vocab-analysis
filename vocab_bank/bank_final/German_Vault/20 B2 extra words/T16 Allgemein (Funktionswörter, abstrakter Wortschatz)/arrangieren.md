@@ -32,6 +32,11 @@ status: "new"
 > Er hat sich mit den neuen Umständen arrangiert.
 > *He has come to terms with the new circumstances.*
 
+**Phrases & Expressions:**
+- **sich arrangieren mit** — *to arrange; (sich) to come to terms with*
+- **ein Treffen arrangieren** — *to arrange; (sich) to come to terms with*
+- **ein Konzert arrangieren** — *to arrange; (sich) to come to terms with*
+
 **Collocations**
 - sich arrangieren mit
 - ein Treffen arrangieren

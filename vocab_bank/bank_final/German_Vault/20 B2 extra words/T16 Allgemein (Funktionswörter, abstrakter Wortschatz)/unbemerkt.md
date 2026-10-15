@@ -29,6 +29,11 @@ status: "new"
 > Er verließ unbemerkt das Haus.
 > *He left the house unnoticed.*
 
+**Phrases & Expressions:**
+- **unbemerkt bleiben** — *unnoticed*
+- **unbemerkt verschwinden** — *unnoticed*
+- **nicht unbemerkt** — *unnoticed*
+
 **Collocations**
 - unbemerkt bleiben
 - unbemerkt verschwinden

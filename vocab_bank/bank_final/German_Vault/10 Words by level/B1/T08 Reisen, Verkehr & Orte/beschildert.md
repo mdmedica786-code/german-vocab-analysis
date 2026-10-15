@@ -30,6 +30,9 @@ status: "new"
 > Der Weg ist gut beschildert.
 > *The path is well signposted.*
 
+**Phrases & Expressions:**
+- **Der Weg ist gut beschildert** — *The path is well signposted* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

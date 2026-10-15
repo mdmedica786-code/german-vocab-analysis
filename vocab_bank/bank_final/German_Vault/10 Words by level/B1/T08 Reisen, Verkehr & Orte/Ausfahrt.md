@@ -34,6 +34,9 @@ status: "new"
 > Hier ist eine Ausfahrt, da dürfen Sie nicht parken.
 > *This is an exit, you may not park here.*
 
+**Phrases & Expressions:**
+- **Hier ist eine Ausfahrt, da dürfen Sie nicht parken** — *This is an exit, you may not park here* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

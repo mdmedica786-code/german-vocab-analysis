@@ -34,6 +34,9 @@ status: "new"
 > Wir zeichnen eine Mindmap zum Thema Gesundheit.
 > *We are drawing a mind map on the topic of health.*
 
+**Phrases & Expressions:**
+- **Wir zeichnen eine Mindmap zum Thema Gesundheit** — *We are drawing a mind map on the topic of health* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 10a (Guten Appetit!)
 <!-- bank:end -->
 

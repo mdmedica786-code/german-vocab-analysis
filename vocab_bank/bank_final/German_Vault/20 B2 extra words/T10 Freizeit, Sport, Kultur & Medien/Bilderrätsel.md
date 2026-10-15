@@ -33,6 +33,11 @@ status: "new"
 > Die Kinder lösen gern Bilderrätsel.
 > *The children like solving picture puzzles.*
 
+**Phrases & Expressions:**
+- **ein Bilderrätsel lösen** — *picture puzzle; rebus*
+- **ein lustiges Bilderrätsel** — *picture puzzle; rebus*
+- **Bilderrätsel für Kinder** — *picture puzzle; rebus*
+
 **Collocations**
 - ein Bilderrätsel lösen
 - ein lustiges Bilderrätsel

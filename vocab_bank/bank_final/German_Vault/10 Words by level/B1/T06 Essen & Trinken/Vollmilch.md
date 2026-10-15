@@ -34,6 +34,9 @@ status: "new"
 > Für den Kuchen brauche ich Vollmilch.
 > *For the cake I need whole milk.*
 
+**Phrases & Expressions:**
+- **Für den Kuchen brauche ich Vollmilch** — *For the cake I need whole milk* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander)
 <!-- bank:end -->
 

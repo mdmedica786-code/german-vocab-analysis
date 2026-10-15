@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Kerl hat mir geholfen, mein Auto zu starten.
 > *The guy helped me start my car.*
+
+**Phrases & Expressions:**
+- **Der Kerl hat mir geholfen, mein Auto zu starten** — *The guy helped me start my car* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

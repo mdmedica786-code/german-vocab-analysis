@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Wir helfen einander.
 > *We help each other.*
+
+**Phrases & Expressions:**
+- **Wir helfen einander** — *We help each other* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

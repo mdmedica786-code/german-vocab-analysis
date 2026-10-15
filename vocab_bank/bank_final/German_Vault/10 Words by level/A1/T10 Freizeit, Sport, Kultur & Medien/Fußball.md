@@ -33,6 +33,9 @@ status: "new"
 > Er spielt gern Fußball.
 > *He likes to play football.*
 
+**Phrases & Expressions:**
+- **Er spielt gern Fußball** — *He likes to play football* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

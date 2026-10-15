@@ -33,6 +33,11 @@ status: "new"
 > Im Dezember mussten wir viele Überstunden machen.
 > *In December we had to work a lot of overtime.*
 
+**Phrases & Expressions:**
+- **Überstunden machen** — *overtime*
+- **Überstunden abbauen** — *overtime*
+- **Überstunden bezahlen** — *overtime*
+
 **Collocations**
 - Überstunden machen
 - Überstunden abbauen

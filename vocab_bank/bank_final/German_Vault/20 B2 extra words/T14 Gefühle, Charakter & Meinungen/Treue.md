@@ -33,6 +33,11 @@ status: "new"
 > Die Treue zum Partner ist ihm sehr wichtig.
 > *Faithfulness to his partner is very important to him.*
 
+**Phrases & Expressions:**
+- **Treue schwören** — *loyalty; faithfulness*
+- **in Treue** — *loyalty; faithfulness*
+- **Treue halten** — *loyalty; faithfulness*
+
 **Collocations**
 - Treue schwören
 - in Treue

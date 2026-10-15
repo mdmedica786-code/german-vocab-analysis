@@ -35,6 +35,9 @@ status: "new"
 > Sie ist mit ihrem Gehalt zufrieden.
 > *She is satisfied with her salary.*
 
+**Phrases & Expressions:**
+- **Sie ist mit ihrem Gehalt zufrieden** — *She is satisfied with her salary* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

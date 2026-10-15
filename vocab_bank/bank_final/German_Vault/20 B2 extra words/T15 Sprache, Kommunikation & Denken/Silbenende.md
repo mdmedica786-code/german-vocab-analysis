@@ -33,6 +33,11 @@ status: "new"
 > Am Silbenende wird „b“ wie „p“ gesprochen.
 > *At the end of a syllable "b" is pronounced like "p".*
 
+**Phrases & Expressions:**
+- **am Silbenende** — *end of a syllable*
+- **das Silbenende betonen** — *end of a syllable*
+- **das Silbenende hören** — *end of a syllable*
+
 **Collocations**
 - am Silbenende
 - das Silbenende betonen

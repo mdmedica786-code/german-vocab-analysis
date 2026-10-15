@@ -33,6 +33,11 @@ status: "new"
 > Der General befahl den Rückzug.
 > *The general ordered the retreat.*
 
+**Phrases & Expressions:**
+- **ein hoher General** — *general*
+- **der General der Armee** — *general*
+- **der Generalstab** — *general*
+
 **Collocations**
 - ein hoher General
 - der General der Armee

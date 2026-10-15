@@ -35,6 +35,9 @@ status: "new"
 > In dieser Gegend gibt es viel Industrie.
 > *There is a lot of industry in this area.*
 
+**Phrases & Expressions:**
+- **In dieser Gegend gibt es viel Industrie** — *There is a lot of industry in this area* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

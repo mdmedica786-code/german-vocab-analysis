@@ -33,6 +33,11 @@ status: "new"
 > In der Nacht gibt es Frost, auch am Boden.
 > *Tonight there will be frost, including ground frost.*
 
+**Phrases & Expressions:**
+- **leichter Frost** — *frost*
+- **Frost und Schnee** — *frost*
+- **vor Frost schützen** — *frost*
+
 **Collocations**
 - leichter Frost
 - Frost und Schnee

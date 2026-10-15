@@ -31,6 +31,9 @@ status: "new"
 > Die Ampel ist grün.
 > *The traffic light is green.*
 
+**Phrases & Expressions:**
+- **Die Gegend ist ruhig und grün.** — The area is quiet and green. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ort beschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 11a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

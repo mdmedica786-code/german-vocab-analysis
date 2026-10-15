@@ -34,6 +34,9 @@ status: "new"
 > Der Autoverkauf läuft in diesem Jahr gut.
 > *Car sales are going well this year.*
 
+**Phrases & Expressions:**
+- **Der Autoverkauf läuft in diesem Jahr gut** — *Car sales are going well this year* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 11a (Kunststücke)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Nachbarn haben wegen Ruhestörung die Polizei gerufen.
 > *The neighbours called the police because of a noise disturbance.*
 
+**Phrases & Expressions:**
+- **Anzeige wegen Ruhestörung** — *disturbance of the peace; noise nuisance*
+- **nächtliche Ruhestörung** — *disturbance of the peace; noise nuisance*
+- **eine Ruhestörung melden** — *disturbance of the peace; noise nuisance*
+
 **Collocations**
 - Anzeige wegen Ruhestörung
 - nächtliche Ruhestörung

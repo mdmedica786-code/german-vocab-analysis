@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Sie studiert Soziologie.
 > *She studies sociology.*
+
+**Phrases & Expressions:**
+- **Sie studiert Soziologie** — *She studies sociology* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

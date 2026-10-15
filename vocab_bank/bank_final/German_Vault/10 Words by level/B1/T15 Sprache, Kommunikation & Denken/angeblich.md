@@ -30,6 +30,9 @@ status: "new"
 > Er ist angeblich krank.
 > *He is supposedly ill.*
 
+**Phrases & Expressions:**
+- **Angeblich hat er das Geld nie bekommen.** — Allegedly he never received the money. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Distanzierung]] · B2)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches)
 <!-- bank:end -->
 

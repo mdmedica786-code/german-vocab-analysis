@@ -33,6 +33,11 @@ status: "new"
 > Ich habe meine Aufzeichnungen verloren.
 > *I have lost my notes.*
 
+**Phrases & Expressions:**
+- **Aufzeichnungen machen** — *record; notes; recording*
+- **die Aufzeichnung der Sendung** — *record; notes; recording*
+- **handschriftliche Aufzeichnungen** — *record; notes; recording*
+
 **Collocations**
 - Aufzeichnungen machen
 - die Aufzeichnung der Sendung

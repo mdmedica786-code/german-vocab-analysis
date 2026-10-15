@@ -34,6 +34,9 @@ status: "new"
 > Ich habe meine Wohnung selbst eingerichtet.
 > *I furnished my flat myself.*
 
+**Phrases & Expressions:**
+- **Ich fürchte, das lässt sich nicht einrichten.** — I'm afraid that can't be arranged. *([[B2-12 Höflichkeit und Diplomatie - Kritik und Ablehnung abmildern|Ablehnung abmildern]] · B2)*
+
 **Source:** Netzwerk neu A2 K11 1b ÜB (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

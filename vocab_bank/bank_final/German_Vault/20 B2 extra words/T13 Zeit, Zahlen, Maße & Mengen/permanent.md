@@ -29,6 +29,11 @@ status: "new"
 > Sie fühlt sich permanent müde.
 > *She feels permanently tired.*
 
+**Phrases & Expressions:**
+- **permanent müde** — *permanent; constant*
+- **permanent geöffnet** — *permanent; constant*
+- **permanent überwacht** — *permanent; constant*
+
 **Collocations**
 - permanent müde
 - permanent geöffnet

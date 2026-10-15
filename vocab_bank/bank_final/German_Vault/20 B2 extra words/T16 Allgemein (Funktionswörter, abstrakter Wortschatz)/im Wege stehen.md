@@ -29,6 +29,10 @@ status: "new"
 > Bürokratie steht dem Projekt im Wege.
 > *Bureaucracy stands in the way of the project.*
 
+**Phrases & Expressions:**
+- **jemandem im Wege stehen** — *to stand in the way*
+- **im Weg stehen** — *to stand in the way*
+
 **Collocations**
 - jemandem im Wege stehen
 - im Weg stehen

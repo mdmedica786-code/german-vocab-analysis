@@ -33,6 +33,11 @@ status: "new"
 > Die Ärztin riet zur Mäßigung beim Alkohol.
 > *The doctor advised moderation with alcohol.*
 
+**Phrases & Expressions:**
+- **zur Mäßigung mahnen** — *moderation; restraint*
+- **Mäßigung üben** — *moderation; restraint*
+- **zur Mäßigung raten** — *moderation; restraint*
+
 **Collocations**
 - zur Mäßigung mahnen
 - Mäßigung üben

@@ -33,6 +33,11 @@ status: "new"
 > Die Überalterung der Gesellschaft stellt die Rentenkassen vor Probleme.
 > *The ageing of society poses problems for the pension funds.*
 
+**Phrases & Expressions:**
+- **Überalterung der Gesellschaft** — *ageing of the population*
+- **durch Überalterung** — *ageing of the population*
+- **die Überalterung aufhalten** — *ageing of the population*
+
 **Collocations**
 - Überalterung der Gesellschaft
 - durch Überalterung

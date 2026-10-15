@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Ich habe eine Chat-Nachricht von ihr bekommen.
 > *I received a chat message from her.*
+
+**Phrases & Expressions:**
+- **Ich habe eine Chat-Nachricht von ihr bekommen** — *I received a chat message from her* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

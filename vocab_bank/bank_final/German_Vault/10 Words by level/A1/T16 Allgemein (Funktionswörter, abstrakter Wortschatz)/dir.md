@@ -32,6 +32,9 @@ status: "new"
 > Wie geht's? - Gut, und dir?
 > *How are you? - Good, and you?*
 
+**Phrases & Expressions:**
+- **Wie geht's? - Gut, und dir** — *How are you? - Good, and you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 2a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

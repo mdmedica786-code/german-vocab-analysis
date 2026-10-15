@@ -33,6 +33,12 @@ status: "new"
 > Wasser ist ein wichtiges Element der Natur.
 > *Water is an important element of nature.*
 
+**Phrases & Expressions:**
+- **ein wichtiges Element** — *element*
+- **chemisches Element** — *element*
+- **Elemente kombinieren** — *element*
+- **Element der Überraschung** — *element*
+
 **Collocations**
 - ein wichtiges Element
 - chemisches Element

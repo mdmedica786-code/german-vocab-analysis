@@ -34,6 +34,9 @@ status: "new"
 > Auf dem Radweg darf man nicht parken.
 > *You must not park on the cycle path.*
 
+**Phrases & Expressions:**
+- **Auf dem Radweg darf man nicht parken** — *You must not park on the cycle path* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil)
 <!-- bank:end -->
 

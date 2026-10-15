@@ -34,6 +34,9 @@ status: "new"
 > Im Berufsleben ist Pünktlichkeit wichtig.
 > *In professional life punctuality is important.*
 
+**Phrases & Expressions:**
+- **Im Berufsleben ist Pünktlichkeit wichtig** — *In professional life punctuality is important* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 11b (Nach der Schulzeit)
 <!-- bank:end -->
 

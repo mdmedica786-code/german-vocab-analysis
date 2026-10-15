@@ -34,6 +34,9 @@ status: "new"
 > Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.
 > *Please write your answers on the answer sheet.*
 
+**Phrases & Expressions:**
+- **Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen** — *Please write your answers on the answer sheet* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

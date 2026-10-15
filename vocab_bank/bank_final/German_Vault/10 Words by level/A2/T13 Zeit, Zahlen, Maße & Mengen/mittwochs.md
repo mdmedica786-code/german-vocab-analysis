@@ -30,6 +30,9 @@ status: "new"
 > Mittwochs habe ich frei.
 > *On Wednesdays I am off.*
 
+**Phrases & Expressions:**
+- **Mittwochs habe ich frei** — *On Wednesdays I am off* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

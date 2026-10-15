@@ -29,6 +29,10 @@ status: "new"
 > Wer ohne Versicherung fährt, spielt mit dem Feuer.
 > *Anyone who drives without insurance is playing with fire.*
 
+**Phrases & Expressions:**
+- **gefährlich handeln** — *to play with fire*
+- **spiel nicht mit dem Feuer** — *to play with fire*
+
 **Collocations**
 - gefährlich handeln
 - spiel nicht mit dem Feuer

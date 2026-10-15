@@ -26,6 +26,10 @@ status: "new"
 > Die Stadt will bei der Parkplatznot Abhilfe schaffen.
 > *The city wants to remedy the parking shortage.*
 
+**Phrases & Expressions:**
+- **dringend Abhilfe schaffen** — *to remedy; to put right*
+- **für Abhilfe sorgen** — *to remedy; to put right*
+
 **Collocations**
 - dringend Abhilfe schaffen
 - für Abhilfe sorgen

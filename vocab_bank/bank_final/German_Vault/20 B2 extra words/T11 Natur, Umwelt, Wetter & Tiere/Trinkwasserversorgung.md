@@ -33,6 +33,11 @@ status: "new"
 > Die Trinkwasserversorgung der Stadt ist gesichert.
 > *The city's drinking water supply is secure.*
 
+**Phrases & Expressions:**
+- **die Trinkwasserversorgung sichern** — *drinking water supply*
+- **Trinkwasserversorgung gefährden** — *drinking water supply*
+- **öffentliche Trinkwasserversorgung** — *drinking water supply*
+
 **Collocations**
 - die Trinkwasserversorgung sichern
 - Trinkwasserversorgung gefährden

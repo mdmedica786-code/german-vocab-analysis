@@ -33,6 +33,11 @@ status: "new"
 > Der Verwalter kümmert sich um das Haus.
 > *The administrator takes care of the building.*
 
+**Phrases & Expressions:**
+- **der Verwalter des Hauses** — *administrator; manager (property)*
+- **einen Verwalter bestellen** — *administrator; manager (property)*
+- **Verwalter einer Immobilie** — *administrator; manager (property)*
+
 **Collocations**
 - der Verwalter des Hauses
 - einen Verwalter bestellen

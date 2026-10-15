@@ -34,6 +34,9 @@ status: "new"
 > Die Bezahlung in diesem Beruf ist gut.
 > *The pay in this job is good.*
 
+**Phrases & Expressions:**
+- **Die Bezahlung in diesem Beruf ist gut** — *The pay in this job is good* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt)
 <!-- bank:end -->
 

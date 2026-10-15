@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Film ist längst Kult.
 > *The film has long been a cult classic.*
+
+**Phrases & Expressions:**
+- **Der Film ist längst Kult** — *The film has long been a cult classic* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

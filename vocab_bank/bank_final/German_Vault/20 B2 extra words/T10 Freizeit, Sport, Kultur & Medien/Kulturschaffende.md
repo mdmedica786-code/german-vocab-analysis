@@ -33,6 +33,11 @@ status: "new"
 > Viele Kulturschaffende hatten während der Krise kaum Aufträge.
 > *Many people working in the arts had hardly any commissions during the crisis.*
 
+**Phrases & Expressions:**
+- **Kulturschaffende unterstützen** — *person working in the arts; cultural worker*
+- **ein Kulturschaffender** — *person working in the arts; cultural worker*
+- **die Kulturschaffenden der Stadt** — *person working in the arts; cultural worker*
+
 **Collocations**
 - Kulturschaffende unterstützen
 - ein Kulturschaffender

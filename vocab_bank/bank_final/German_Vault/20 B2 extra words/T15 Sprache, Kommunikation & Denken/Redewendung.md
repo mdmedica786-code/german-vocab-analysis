@@ -33,6 +33,11 @@ status: "new"
 > Diese Redewendung kommt aus dem Mittelalter.
 > *This idiom comes from the Middle Ages.*
 
+**Phrases & Expressions:**
+- **eine Redewendung benutzen** — *idiom; expression*
+- **feststehende Redewendung** — *idiom; expression*
+- **Sprichwörter und Redewendungen** — *idiom; expression*
+
 **Collocations**
 - eine Redewendung benutzen
 - feststehende Redewendung

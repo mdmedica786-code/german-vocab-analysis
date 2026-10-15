@@ -33,6 +33,11 @@ status: "new"
 > Für diese Straftat droht eine hohe Strafe.
 > *A heavy penalty is threatened for this offence.*
 
+**Phrases & Expressions:**
+- **eine Straftat begehen** — *criminal offence*
+- **schwere Straftat** — *criminal offence*
+- **Straftat aufklären** — *criminal offence*
+
 **Collocations**
 - eine Straftat begehen
 - schwere Straftat

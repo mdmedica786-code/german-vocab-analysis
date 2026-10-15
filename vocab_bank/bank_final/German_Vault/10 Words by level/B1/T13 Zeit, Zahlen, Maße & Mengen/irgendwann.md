@@ -31,6 +31,12 @@ status: "new"
 > Ich habe Sie irgendwann schon mal gesehen.
 > *I have seen you somewhere at some point.*
 
+**Phrases & Expressions:**
+- **irgendwann einmal** — *sometime*
+- **irgendwann später** — *sometime*
+- **irgendwann mal** — *sometime*
+- **irgendwann am Tag** — *sometime*
+
 **Collocations**
 - irgendwann einmal
 - irgendwann später

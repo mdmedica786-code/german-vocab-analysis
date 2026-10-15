@@ -30,6 +30,12 @@ status: "new"
 > Das Krankenhaus liegt nahe am Bahnhof.
 > *The hospital is close to the station.*
 
+**Phrases & Expressions:**
+- **nahe liegen** — *near; close*
+- **nahe stehen** — *near; close*
+- **nahe am Wasser** — *near; close*
+- **aus nächster Nähe** — *near; close*
+
 **Collocations**
 - nahe liegen
 - nahe stehen

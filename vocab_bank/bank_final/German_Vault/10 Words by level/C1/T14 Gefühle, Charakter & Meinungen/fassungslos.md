@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Er war fassungslos über die Nachricht.
 > *He was stunned by the news.*
+
+**Phrases & Expressions:**
+- **Er war fassungslos über die Nachricht** — *He was stunned by the news* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

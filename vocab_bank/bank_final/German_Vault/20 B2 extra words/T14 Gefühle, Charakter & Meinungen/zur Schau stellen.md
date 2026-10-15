@@ -26,6 +26,11 @@ status: "new"
 > Er stellt seinen Reichtum gern zur Schau.
 > *He likes to flaunt his wealth.*
 
+**Phrases & Expressions:**
+- **etwas zur Schau stellen** — *to display; to flaunt*
+- **Reichtum zur Schau stellen** — *to display; to flaunt*
+- **offen zur Schau tragen** — *to display; to flaunt*
+
 **Collocations**
 - etwas zur Schau stellen
 - Reichtum zur Schau stellen

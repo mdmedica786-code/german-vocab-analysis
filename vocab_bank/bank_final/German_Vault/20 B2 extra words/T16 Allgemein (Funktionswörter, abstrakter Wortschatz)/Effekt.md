@@ -33,6 +33,11 @@ status: "new"
 > Der Effekt der Maßnahme war nur gering.
 > *The effect of the measure was only slight.*
 
+**Phrases & Expressions:**
+- **ein positiver Effekt** — *effect*
+- **Effekte erzielen** — *effect*
+- **der Treibhauseffekt** — *effect*
+
 **Collocations**
 - ein positiver Effekt
 - Effekte erzielen

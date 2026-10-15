@@ -32,6 +32,14 @@ status: "new"
 > Von hier ist es nicht weit zur Uni.
 > *It's not far to uni from here.*
 
+**Phrases & Expressions:**
+- **so weit wie möglich** — as far as possible *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **nicht weit** — not far *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A1)*
+- **und so weiter** — and so on *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · A2)*
+- **wie weit ...?** — how far ...? *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **weit weg** — far away *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **weit von ... entfernt** — far from ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+
 **Source:** Netzwerk neu A1 K9 11a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

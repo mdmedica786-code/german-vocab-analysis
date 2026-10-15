@@ -31,6 +31,12 @@ status: "new"
 > Das Tablet ist viel leichter als ein Laptop.
 > *The tablet is a lot lighter than a laptop.*
 
+**Phrases & Expressions:**
+- **nicht leicht** — not easy *([[Probleme - Beschwerden beschreiben (problem, symptom, complaint)|Probleme / Beschwerden beschreiben (problem, symptom, complaint)]] · B1)*
+- **so leicht** — so easily *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B1)*
+- **Es ist aus Holz/Metall/Plastik und ziemlich leicht.** — It is made of wood/metal/plastic and quite light. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ding beschreiben]] · B1)*
+- **Es fällt mir nicht leicht, Ihnen das zu sagen.** — It is not easy for me to tell you this. *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Ankündigung]] · B2)*
+
 **Source:** Netzwerk neu A1 K7 2a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

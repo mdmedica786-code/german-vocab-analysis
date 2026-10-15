@@ -32,6 +32,9 @@ status: "new"
 > Er heißt Ali.
 > **
 
+**Phrases & Expressions:**
+- **Er heißt Ali** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 4b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

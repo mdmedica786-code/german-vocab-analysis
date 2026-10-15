@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Das hat er ironisch gemeint.
 > *He meant that ironically.*
+
+**Phrases & Expressions:**
+- **Das hat er ironisch gemeint** — *He meant that ironically* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -29,6 +29,11 @@ status: "new"
 > Im Museum sehen wir antike Vasen.
 > *In the museum we see ancient vases.*
 
+**Phrases & Expressions:**
+- **antike Möbel** — *ancient; antique*
+- **die antike Welt** — *ancient; antique*
+- **antike Kunst** — *ancient; antique*
+
 **Collocations**
 - antike Möbel
 - die antike Welt

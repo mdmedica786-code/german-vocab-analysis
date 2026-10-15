@@ -31,6 +31,11 @@ status: "new"
 > Das Pendel schwingt gleichmäßig hin und her.
 > *The pendulum swings steadily to and fro.*
 
+**Phrases & Expressions:**
+- **die Fahne schwingen** — *to swing; to vibrate*
+- **sich schwingen** — *to swing; to vibrate*
+- **ein Seil schwingen** — *to swing; to vibrate*
+
 **Collocations**
 - die Fahne schwingen
 - sich schwingen

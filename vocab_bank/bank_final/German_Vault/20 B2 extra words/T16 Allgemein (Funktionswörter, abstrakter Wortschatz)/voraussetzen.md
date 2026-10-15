@@ -32,6 +32,12 @@ status: "new"
 > Die Stelle setzt gute Englischkenntnisse voraus.
 > *The position requires good English skills.*
 
+**Phrases & Expressions:**
+- **Für Ihre Hilfe bedanke ich mich im Voraus.** — I thank you in advance for your help. *([[B1-13 Formelle E-Mail und Brief|Dank aussprechen]] · B1)*
+- **Vielen Dank im Voraus für Ihre Bemühungen.** — Thank you in advance for your efforts. *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Schlussformel]] · B2)*
+- **Kenntnisse voraussetzen** — *to presuppose; to require*
+- **als bekannt voraussetzen** — *to presuppose; to require*
+
 **Collocations**
 - Kenntnisse voraussetzen
 - als bekannt voraussetzen

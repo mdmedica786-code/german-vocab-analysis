@@ -35,6 +35,9 @@ status: "new"
 > Der Laborant analysiert die Blutprobe.
 > *The lab assistant analyses the blood sample.*
 
+**Phrases & Expressions:**
+- **Der Laborant analysiert die Blutprobe** — *The lab assistant analyses the blood sample* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 13a (Fit und gesund)
 <!-- bank:end -->
 

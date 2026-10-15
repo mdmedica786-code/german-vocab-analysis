@@ -34,6 +34,9 @@ status: "new"
 > Er hat eine große Sammlung alter Münzen.
 > *He has a large collection of old coins.*
 
+**Phrases & Expressions:**
+- **Er hat eine große Sammlung alter Münzen** — *He has a large collection of old coins* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 11c (Zwischenmenschliches)
 <!-- bank:end -->
 

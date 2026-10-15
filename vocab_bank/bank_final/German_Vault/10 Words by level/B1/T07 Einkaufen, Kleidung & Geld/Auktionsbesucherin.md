@@ -31,6 +31,9 @@ status: "new"
 > Eine Auktionsbesucherin hat das Bild gekauft.
 > *A woman at the auction bought the picture.*
 
+**Phrases & Expressions:**
+- **Eine Auktionsbesucherin hat das Bild gekauft** — *A woman at the auction bought the picture* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

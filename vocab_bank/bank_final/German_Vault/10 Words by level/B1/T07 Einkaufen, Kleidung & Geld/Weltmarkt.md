@@ -34,6 +34,9 @@ status: "new"
 > Auf dem Weltmarkt steigen die Preise.
 > *Prices are rising on the world market.*
 
+**Phrases & Expressions:**
+- **Auf dem Weltmarkt steigen die Preise** — *Prices are rising on the world market* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

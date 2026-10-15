@@ -29,6 +29,11 @@ status: "new"
 > Es ist naheliegend, zuerst den Chef zu fragen.
 > *It is obvious to ask the boss first.*
 
+**Phrases & Expressions:**
+- **eine naheliegende Lösung** — *obvious; natural*
+- **ein naheliegender Gedanke** — *obvious; natural*
+- **es liegt nahe** — *obvious; natural*
+
 **Collocations**
 - eine naheliegende Lösung
 - ein naheliegender Gedanke

@@ -33,6 +33,11 @@ status: "new"
 > Wir suchen eine Hilfskraft für das Lager.
 > *We are looking for an assistant for the warehouse.*
 
+**Phrases & Expressions:**
+- **studentische Hilfskraft** — *assistant; auxiliary worker*
+- **eine Hilfskraft einstellen** — *assistant; auxiliary worker*
+- **als Hilfskraft arbeiten** — *assistant; auxiliary worker*
+
 **Collocations**
 - studentische Hilfskraft
 - eine Hilfskraft einstellen

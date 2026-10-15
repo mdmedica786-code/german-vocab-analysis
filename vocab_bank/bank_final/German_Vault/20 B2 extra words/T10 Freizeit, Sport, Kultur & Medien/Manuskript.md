@@ -33,6 +33,11 @@ status: "new"
 > Die Autorin schickt ihr Manuskript an den Verlag.
 > *The author sends her manuscript to the publisher.*
 
+**Phrases & Expressions:**
+- **ein Manuskript einreichen** — *manuscript; typescript*
+- **ein Manuskript lesen** — *manuscript; typescript*
+- **das Manuskript überarbeiten** — *manuscript; typescript*
+
 **Collocations**
 - ein Manuskript einreichen
 - ein Manuskript lesen

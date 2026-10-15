@@ -34,6 +34,9 @@ status: "new"
 > Vor der Prüfung herrschte große Aufregung.
 > *Before the exam there was great excitement.*
 
+**Phrases & Expressions:**
+- **Vor der Prüfung herrschte große Aufregung** — *Before the exam there was great excitement* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

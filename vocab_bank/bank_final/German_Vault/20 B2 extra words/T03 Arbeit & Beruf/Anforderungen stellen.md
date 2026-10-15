@@ -26,6 +26,11 @@ status: "new"
 > Der Beruf stellt hohe Anforderungen an die Mitarbeiter.
 > *The job places high demands on the employees.*
 
+**Phrases & Expressions:**
+- **hohe Anforderungen stellen** — *to set requirements*
+- **Anforderungen erfüllen** — *to set requirements*
+- **den Anforderungen genügen** — *to set requirements*
+
 **Collocations**
 - hohe Anforderungen stellen
 - Anforderungen erfüllen

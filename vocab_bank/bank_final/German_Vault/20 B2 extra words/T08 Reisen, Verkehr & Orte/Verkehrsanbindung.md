@@ -33,6 +33,11 @@ status: "new"
 > Die Wohnung hat eine sehr gute Verkehrsanbindung.
 > *The flat has very good transport connections.*
 
+**Phrases & Expressions:**
+- **eine gute Verkehrsanbindung** — *transport connections; access to public transport*
+- **die Verkehrsanbindung verbessern** — *transport connections; access to public transport*
+- **Verkehrsanbindung an die Innenstadt** — *transport connections; access to public transport*
+
 **Collocations**
 - eine gute Verkehrsanbindung
 - die Verkehrsanbindung verbessern

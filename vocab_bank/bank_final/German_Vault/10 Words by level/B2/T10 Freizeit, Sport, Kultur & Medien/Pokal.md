@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Mannschaft hat den Pokal gewonnen.
 > *The team won the cup.*
+
+**Phrases & Expressions:**
+- **Die Mannschaft hat den Pokal gewonnen** — *The team won the cup* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

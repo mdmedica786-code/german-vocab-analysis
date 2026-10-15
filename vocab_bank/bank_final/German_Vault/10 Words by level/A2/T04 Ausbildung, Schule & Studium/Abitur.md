@@ -36,6 +36,9 @@ status: "new"
 > Meine Tochter hat gerade Abitur gemacht.
 > **
 
+**Phrases & Expressions:**
+- **Meine Tochter hat gerade Abitur gemacht** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 1a ÜB (Nach der Schulzeit) · Goethe word list A2
 <!-- bank:end -->
 

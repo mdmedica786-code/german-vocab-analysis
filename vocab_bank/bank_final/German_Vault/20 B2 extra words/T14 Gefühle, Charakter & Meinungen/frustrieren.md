@@ -31,6 +31,11 @@ status: "new"
 > Die vielen Fehler frustrieren mich.
 > *The many mistakes frustrate me.*
 
+**Phrases & Expressions:**
+- **jemanden frustrieren** — *to frustrate; to discourage*
+- **frustriert sein** — *to frustrate; to discourage*
+- **ein frustrierendes Erlebnis** — *to frustrate; to discourage*
+
 **Collocations**
 - jemanden frustrieren
 - frustriert sein

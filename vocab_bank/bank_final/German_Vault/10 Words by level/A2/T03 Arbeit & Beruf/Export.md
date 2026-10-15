@@ -35,6 +35,9 @@ status: "new"
 > Hier ist die Firma Schulz, Import und Export.
 > *Here is the firm Schulz, import and export.*
 
+**Phrases & Expressions:**
+- **Hier ist die Firma Schulz, Import und Export** — *Here is the firm Schulz, import and export* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 5a (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

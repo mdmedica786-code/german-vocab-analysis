@@ -30,6 +30,11 @@ status: "new"
 > Die Firma bietet einen Anti-Stress-Workshop an.
 > *The company offers an anti-stress workshop.*
 
+**Phrases & Expressions:**
+- **an einem Anti-Stress-Workshop teilnehmen** — *anti-stress workshop*
+- **einen Anti-Stress-Workshop anbieten** — *anti-stress workshop*
+- **ein Anti-Stress-Workshop für Mitarbeiter** — *anti-stress workshop*
+
 **Collocations**
 - an einem Anti-Stress-Workshop teilnehmen
 - einen Anti-Stress-Workshop anbieten

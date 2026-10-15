@@ -35,6 +35,14 @@ status: "new"
 > Stellen Sie Ihren Partner im Kurs vor.
 > *Introduce your partner to the course.*
 
+**Phrases & Expressions:**
+- **sich vorstellen, dass ...** — to imagine that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **es stellt sich die Frage, ob ...** — the question arises whether ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **ich kann mir nicht vorstellen, dass ...** — I can't imagine that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **es stellte sich heraus, dass ...** — it turned out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **ich kann mir nicht vorstellen, ... zu ...** — I can't imagine ...ing *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **es stellt sich heraus, dass ...** — it turns out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+
 **Source:** Netzwerk neu A1 K1 5b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

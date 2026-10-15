@@ -35,6 +35,9 @@ status: "new"
 > Haben Sie Telefon?
 > *Do you have a telephone?*
 
+**Phrases & Expressions:**
+- **Haben Sie Telefon** — *Do you have a telephone* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 3b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

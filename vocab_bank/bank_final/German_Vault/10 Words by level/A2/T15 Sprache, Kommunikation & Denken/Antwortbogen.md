@@ -31,6 +31,9 @@ status: "new"
 > Bitte übertragen Sie Ihre Lösungen auf den Antwortbogen.
 > *Please transfer your answers to the answer sheet.*
 
+**Phrases & Expressions:**
+- **Bitte übertragen Sie Ihre Lösungen auf den Antwortbogen** — *Please transfer your answers to the answer sheet* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

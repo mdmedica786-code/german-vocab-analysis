@@ -35,6 +35,10 @@ status: "new"
 > Auf dieser Strecke ist der Zug eine gute Alternative zum Flugzeug.
 > *On this route the train is a good alternative to the plane.*
 
+**Phrases & Expressions:**
+- **Hast du eine Alternative?** — Do you have an alternative? *([[B1-06 Gemeinsam planen - Termin, Ort, Aufgaben|Alternative anbieten]] · B1)*
+- **Als Alternative käme auch eine konservative Behandlung infrage.** — Conservative treatment would also come into question as an alternative. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Alternativen nennen]] · B2)*
+
 **Source:** Netzwerk neu B1 K5 6a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Diese Bahnlinie verbindet die beiden Städte.
 > *This railway line connects the two cities.*
 
+**Phrases & Expressions:**
+- **eine neue Bahnlinie** — *railway line*
+- **eine Bahnlinie bauen** — *railway line*
+- **die Bahnlinie stilllegen** — *railway line*
+
 **Collocations**
 - eine neue Bahnlinie
 - eine Bahnlinie bauen

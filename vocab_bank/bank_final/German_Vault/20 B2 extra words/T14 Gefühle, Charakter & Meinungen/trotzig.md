@@ -29,6 +29,11 @@ status: "new"
 > Das Kind schaute trotzig zur Seite.
 > *The child looked away defiantly.*
 
+**Phrases & Expressions:**
+- **trotzig sein** — *defiant; sulky*
+- **trotzig antworten** — *defiant; sulky*
+- **ein trotziges Kind** — *defiant; sulky*
+
 **Collocations**
 - trotzig sein
 - trotzig antworten

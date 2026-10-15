@@ -33,6 +33,11 @@ status: "new"
 > Der Verfasser des Briefes ist unbekannt.
 > *The writer of the letter is unknown.*
 
+**Phrases & Expressions:**
+- **der Verfasser eines Textes** — *author; writer*
+- **der Verfasser des Berichts** — *author; writer*
+- **Verfasser und Leser** — *author; writer*
+
 **Collocations**
 - der Verfasser eines Textes
 - der Verfasser des Berichts

@@ -33,6 +33,9 @@ status: "new"
 > Ich möchte ein gemischtes Eis mit Sahne.
 > *I would like a mixed ice cream with cream.*
 
+**Phrases & Expressions:**
+- **Ich möchte ein gemischtes Eis mit Sahne** — *I would like a mixed ice cream with cream* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 6 (Studium und Beruf) · Goethe word list B1
 <!-- bank:end -->
 

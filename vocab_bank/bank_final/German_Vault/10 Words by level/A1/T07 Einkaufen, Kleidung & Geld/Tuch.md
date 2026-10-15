@@ -35,6 +35,9 @@ status: "new"
 > Wo hast du dieses schöne Tuch gekauft?
 > *Where did you buy this nice shawl?*
 
+**Phrases & Expressions:**
+- **Wo hast du dieses schöne Tuch gekauft** — *Where did you buy this nice shawl* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 4b (Die Jacke gefällt mir!) · Goethe word list B1
 <!-- bank:end -->
 

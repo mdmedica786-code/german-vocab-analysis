@@ -32,6 +32,11 @@ status: "new"
 > Man sollte nicht vorschnell urteilen.
 > *One should not judge too hastily.*
 
+**Phrases & Expressions:**
+- **über jemanden urteilen** — *to judge*
+- **vorschnell urteilen** — *to judge*
+- **nach dem Aussehen urteilen** — *to judge*
+
 **Collocations**
 - über jemanden urteilen
 - vorschnell urteilen

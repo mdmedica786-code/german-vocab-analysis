@@ -35,6 +35,9 @@ status: "new"
 > Hast du schon Infos zum Kurs?
 > *Do you already have info about the course?*
 
+**Phrases & Expressions:**
+- **Hast du schon Infos zum Kurs** — *Do you already have info about the course* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 10a (Sportlich, sportlich)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Das Wetter hat sich geändert.
 > **
 
+**Phrases & Expressions:**
+- **Andernfalls müssten wir die Pläne ändern.** — Otherwise we would have to change the plans. *([[B2-10 Bedingungen, Folgen und irreale Wünsche|Konsequenz benennen]] · B2)*
+
 **Source:** Netzwerk neu A2 K1 8c (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

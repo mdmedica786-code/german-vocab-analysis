@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Ich bin der Auffassung, dass wir mehr Zeit brauchen.
 > *I am of the view that we need more time.*
+
+**Phrases & Expressions:**
+- **Ich vertrete die Auffassung, dass ...** — I hold the view that ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|These formulieren]] · B2)*
 <!-- bank:end -->
 
 ## My notes

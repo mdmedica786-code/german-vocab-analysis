@@ -35,6 +35,9 @@ status: "new"
 > Ich gebe dir einen Rat: ...
 > *I'll give you some advice: ...*
 
+**Phrases & Expressions:**
+- **Ich gebe dir einen Rat: ** — *I'll give you some advice: * *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 12a (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

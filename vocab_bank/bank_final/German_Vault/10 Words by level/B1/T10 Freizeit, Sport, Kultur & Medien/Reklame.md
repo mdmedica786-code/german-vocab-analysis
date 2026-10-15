@@ -35,6 +35,9 @@ status: "new"
 > Ich möchte keine Reklame im Briefkasten.
 > *I do not want any advertising in my letterbox.*
 
+**Phrases & Expressions:**
+- **Ich möchte keine Reklame im Briefkasten** — *I do not want any advertising in my letterbox* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

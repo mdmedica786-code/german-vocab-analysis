@@ -32,6 +32,11 @@ status: "new"
 > Er ist auf dem nassen Boden ausgerutscht.
 > *He slipped on the wet floor.*
 
+**Phrases & Expressions:**
+- **auf dem Eis ausrutschen** — *to slip*
+- **auf einer Bananenschale ausrutschen** — *to slip*
+- **ausgerutscht sein** — *to slip*
+
 **Collocations**
 - auf dem Eis ausrutschen
 - auf einer Bananenschale ausrutschen

@@ -34,6 +34,9 @@ status: "new"
 > Die Verpackung ist aus Papier.
 > *The packaging is made of paper.*
 
+**Phrases & Expressions:**
+- **Die Verpackung ist aus Papier** — *The packaging is made of paper* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 6d ÜB (Guten Appetit!)
 <!-- bank:end -->
 

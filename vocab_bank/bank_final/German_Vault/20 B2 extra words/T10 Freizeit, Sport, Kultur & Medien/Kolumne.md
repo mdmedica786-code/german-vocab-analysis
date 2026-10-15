@@ -33,6 +33,11 @@ status: "new"
 > Seine Kolumne erscheint jeden Samstag in der Zeitung.
 > *His column appears in the newspaper every Saturday.*
 
+**Phrases & Expressions:**
+- **eine Kolumne schreiben** — *column (newspaper)*
+- **wöchentliche Kolumne** — *column (newspaper)*
+- **Kolumne in der Zeitung** — *column (newspaper)*
+
 **Collocations**
 - eine Kolumne schreiben
 - wöchentliche Kolumne

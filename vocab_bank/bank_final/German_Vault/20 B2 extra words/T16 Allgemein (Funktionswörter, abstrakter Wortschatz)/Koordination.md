@@ -33,6 +33,11 @@ status: "new"
 > Die Koordination der Arbeit ist schwierig.
 > *The coordination of the work is difficult.*
 
+**Phrases & Expressions:**
+- **die Koordination übernehmen** — *coordination*
+- **die Koordination der Projekte** — *coordination*
+- **Koordination zwischen den Abteilungen** — *coordination*
+
 **Collocations**
 - die Koordination übernehmen
 - die Koordination der Projekte

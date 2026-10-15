@@ -33,6 +33,11 @@ status: "new"
 > Die Transaktion wurde erfolgreich abgeschlossen.
 > *The transaction was completed successfully.*
 
+**Phrases & Expressions:**
+- **eine Transaktion durchführen** — *transaction*
+- **eine Transaktion abschließen** — *transaction*
+- **eine finanzielle Transaktion** — *transaction*
+
 **Collocations**
 - eine Transaktion durchführen
 - eine Transaktion abschließen

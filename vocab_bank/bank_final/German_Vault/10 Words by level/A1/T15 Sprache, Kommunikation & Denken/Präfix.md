@@ -34,6 +34,9 @@ status: "new"
 > „Un-“ ist ein Präfix.
 > *"Un-" is a prefix.*
 
+**Phrases & Expressions:**
+- **„Un-“ ist ein Präfix** — *"Un-" is a prefix* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 5b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

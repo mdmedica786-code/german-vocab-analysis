@@ -30,6 +30,11 @@ status: "new"
 > Im Jobportal gibt es täglich neue Stellenanzeigen.
 > *On the job portal there are new job ads every day.*
 
+**Phrases & Expressions:**
+- **im Jobportal suchen** — *job portal; job website*
+- **ein Jobportal nutzen** — *job portal; job website*
+- **sich im Jobportal registrieren** — *job portal; job website*
+
 **Collocations**
 - im Jobportal suchen
 - ein Jobportal nutzen

@@ -31,6 +31,9 @@ status: "new"
 > Nach dem Kursabschluss gibt es ein Zertifikat.
 > *After completing the course there is a certificate.*
 
+**Phrases & Expressions:**
+- **Nach dem Kursabschluss gibt es ein Zertifikat** — *After completing the course there is a certificate* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7a ÜB (Kunststücke)
 <!-- bank:end -->
 

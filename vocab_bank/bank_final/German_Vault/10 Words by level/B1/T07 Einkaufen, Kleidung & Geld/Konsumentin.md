@@ -34,6 +34,9 @@ status: "new"
 > Die Konsumentin vergleicht die Preise.
 > *The consumer compares the prices.*
 
+**Phrases & Expressions:**
+- **Die Konsumentin vergleicht die Preise** — *The consumer compares the prices* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->
 

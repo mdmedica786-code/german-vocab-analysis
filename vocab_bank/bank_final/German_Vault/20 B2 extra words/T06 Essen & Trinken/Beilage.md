@@ -33,6 +33,11 @@ status: "new"
 > Zum Schnitzel gibt es als Beilage Kartoffelsalat oder Pommes.
 > *With the schnitzel there is potato salad or chips as a side dish.*
 
+**Phrases & Expressions:**
+- **als Beilage servieren** — *side dish; supplement (newspaper)*
+- **eine Beilage wählen** — *side dish; supplement (newspaper)*
+- **Fleisch mit Beilage** — *side dish; supplement (newspaper)*
+
 **Collocations**
 - als Beilage servieren
 - eine Beilage wählen

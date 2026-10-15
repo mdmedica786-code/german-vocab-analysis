@@ -34,6 +34,9 @@ status: "new"
 > Der Kletterer sichert sich mit einem Seil.
 > *The climber secures himself with a rope.*
 
+**Phrases & Expressions:**
+- **Der Kletterer sichert sich mit einem Seil** — *The climber secures himself with a rope* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 10a (Sportlich, sportlich)
 <!-- bank:end -->
 

@@ -31,6 +31,9 @@ status: "new"
 > Entgegen allen Erwartungen hat es nicht geregnet.
 > *Contrary to all expectations it did not rain.*
 
+**Phrases & Expressions:**
+- **Ich komme dir entgegen: ...** — I'll meet you halfway: ... *([[B1-05 Vorschläge machen und darauf reagieren|Kompromiss finden]] · B1)*
+
 **Source:** Netzwerk neu B1 K7 2b (Zwischenmenschliches)
 <!-- bank:end -->
 

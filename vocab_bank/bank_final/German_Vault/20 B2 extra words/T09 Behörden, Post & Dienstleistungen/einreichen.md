@@ -32,6 +32,11 @@ status: "new"
 > Reichen Sie den Antrag bitte bis zum 15. März ein.
 > *Please submit the application by 15 March.*
 
+**Phrases & Expressions:**
+- **einen Antrag einreichen** — *to submit; to hand in*
+- **Unterlagen einreichen** — *to submit; to hand in*
+- **eine Klage einreichen** — *to submit; to hand in*
+
 **Collocations**
 - einen Antrag einreichen
 - Unterlagen einreichen

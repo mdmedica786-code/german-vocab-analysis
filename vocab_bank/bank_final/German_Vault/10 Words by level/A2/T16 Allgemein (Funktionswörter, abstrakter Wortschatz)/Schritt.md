@@ -35,6 +35,11 @@ status: "new"
 > Mach einen Schritt nach vorne.
 > *Take a step forward.*
 
+**Phrases & Expressions:**
+- **Schritt für Schritt** — step by step *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **in einem ersten Schritt** — as a first step *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **Als nächsten Schritt würde ich gern ... empfehlen.** — As a next step I would like to recommend ... *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Nächste Schritte]] · B2)*
+
 **Source:** Netzwerk neu A2 K6 10a (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

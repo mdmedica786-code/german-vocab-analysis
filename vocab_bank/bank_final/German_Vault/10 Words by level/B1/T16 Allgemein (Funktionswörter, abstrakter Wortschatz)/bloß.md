@@ -31,6 +31,12 @@ status: "new"
 > Ich möchte nichts kaufen. Ich möchte mich bloß umsehen.
 > *I don't want to buy anything. I just want to look around.*
 
+**Phrases & Expressions:**
+- **bloß nicht** — *only; just; merely*
+- **bloß weil** — *only; just; merely*
+- **wie bloß** — *only; just; merely*
+- **nicht bloß ..., sondern auch** — *only; just; merely*
+
 **Collocations**
 - bloß nicht
 - bloß weil

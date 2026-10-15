@@ -33,6 +33,11 @@ status: "new"
 > Sie schreibt jeden Abend in ihr Tagebuch.
 > *She writes in her diary every evening.*
 
+**Phrases & Expressions:**
+- **ein Tagebuch führen** — *diary; journal*
+- **ins Tagebuch schreiben** — *diary; journal*
+- **im Tagebuch lesen** — *diary; journal*
+
 **Collocations**
 - ein Tagebuch führen
 - ins Tagebuch schreiben

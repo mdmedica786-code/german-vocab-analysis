@@ -34,6 +34,9 @@ status: "new"
 > Im Gartenhaus lagern wir die Gartengeräte.
 > *We store the garden tools in the summer house.*
 
+**Phrases & Expressions:**
+- **Im Gartenhaus lagern wir die Gartengeräte** — *We store the garden tools in the summer house* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 5b (Zusammen leben)
 <!-- bank:end -->
 

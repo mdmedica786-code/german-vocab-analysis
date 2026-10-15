@@ -33,6 +33,11 @@ status: "new"
 > Im Auto muss man den Sicherheitsgurt anlegen.
 > *In the car you have to fasten your seat belt.*
 
+**Phrases & Expressions:**
+- **den Sicherheitsgurt anlegen** — *seat belt*
+- **den Sicherheitsgurt lösen** — *seat belt*
+- **ohne Sicherheitsgurt fahren** — *seat belt*
+
 **Collocations**
 - den Sicherheitsgurt anlegen
 - den Sicherheitsgurt lösen

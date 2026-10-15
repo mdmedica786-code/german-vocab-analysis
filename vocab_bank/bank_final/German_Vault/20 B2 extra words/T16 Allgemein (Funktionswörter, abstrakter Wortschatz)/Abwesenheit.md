@@ -33,6 +33,11 @@ status: "new"
 > In Abwesenheit des Chefs entscheide ich.
 > *In the boss's absence I decide.*
 
+**Phrases & Expressions:**
+- **in Abwesenheit von** — *absence*
+- **durch Abwesenheit glänzen** — *absence*
+- **seine Abwesenheit entschuldigen** — *absence*
+
 **Collocations**
 - in Abwesenheit von
 - durch Abwesenheit glänzen

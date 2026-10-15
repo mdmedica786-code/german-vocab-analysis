@@ -35,6 +35,13 @@ status: "new"
 > Das Fest ist eine gute Gelegenheit, unsere Freunde zu sehen.
 > *The party is a good opportunity to see our friends.*
 
+**Phrases & Expressions:**
+- **Ich freue mich, dass ich heute die Gelegenheit habe, mich vorzustellen.** — I am pleased to have the opportunity to introduce myself today. *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Sich vorstellen]] · B2)*
+- **eine Gelegenheit nutzen** — *opportunity*
+- **bei Gelegenheit** — *opportunity*
+- **die Gelegenheit haben** — *opportunity*
+- **eine günstige Gelegenheit** — *opportunity*
+
 **Collocations**
 - eine Gelegenheit nutzen
 - bei Gelegenheit

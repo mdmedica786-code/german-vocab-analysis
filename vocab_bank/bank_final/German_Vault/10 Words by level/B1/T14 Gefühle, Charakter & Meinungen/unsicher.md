@@ -30,6 +30,9 @@ status: "new"
 > Ich bin unsicher, ob das die richtige Entscheidung ist.
 > *I am unsure whether this is the right decision.*
 
+**Phrases & Expressions:**
+- **Ich bin unsicher, ob das die richtige Entscheidung ist** — *I am unsure whether this is the right decision* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen)
 <!-- bank:end -->
 

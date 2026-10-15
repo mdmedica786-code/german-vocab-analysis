@@ -33,6 +33,11 @@ status: "new"
 > Das Display meines Handys ist gesprungen.
 > *The display of my phone is cracked.*
 
+**Phrases & Expressions:**
+- **ein Display mit Touchscreen** — *display; screen*
+- **das Display reinigen** — *display; screen*
+- **ein helles Display** — *display; screen*
+
 **Collocations**
 - ein Display mit Touchscreen
 - das Display reinigen

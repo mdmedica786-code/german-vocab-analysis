@@ -32,6 +32,11 @@ status: "new"
 > Die Stadt will das Radwegenetz ausbauen.
 > *The city wants to expand the cycle path network.*
 
+**Phrases & Expressions:**
+- **das Netz ausbauen** — *to expand; to extend; to convert*
+- **einen Dachboden ausbauen** — *to expand; to extend; to convert*
+- **die Zusammenarbeit ausbauen** — *to expand; to extend; to convert*
+
 **Collocations**
 - das Netz ausbauen
 - einen Dachboden ausbauen

@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Viele Menschen demonstrieren gegen die Reform.
 > *Many people are demonstrating against the reform.*
+
+**Phrases & Expressions:**
+- **Viele Menschen demonstrieren gegen die Reform** — *Many people are demonstrating against the reform* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

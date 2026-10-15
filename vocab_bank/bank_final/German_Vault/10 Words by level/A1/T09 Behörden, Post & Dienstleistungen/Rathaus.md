@@ -36,6 +36,9 @@ status: "new"
 > Das Formular bekommen Sie im Rathaus.
 > **
 
+**Phrases & Expressions:**
+- **Das Formular bekommen Sie im Rathaus** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

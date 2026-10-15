@@ -33,6 +33,11 @@ status: "new"
 > Sie hat Schuldgefühle, weil sie ihre Mutter so selten besucht.
 > *She has feelings of guilt because she visits her mother so rarely.*
 
+**Phrases & Expressions:**
+- **Schuldgefühle haben** — *feeling of guilt*
+- **von Schuldgefühlen geplagt** — *feeling of guilt*
+- **Schuldgefühle machen** — *feeling of guilt*
+
 **Collocations**
 - Schuldgefühle haben
 - von Schuldgefühlen geplagt

@@ -34,6 +34,14 @@ status: "new"
 > Lukas muss an der Ampel halten.
 > *Lukas needs to stop at the traffic light.*
 
+**Phrases & Expressions:**
+- **ich halte das für ...** — I consider that to be ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **Ich bin mir nicht sicher, was ich davon halten soll.** — I'm not sure what to make of it. *([[B1-01 Meinung äußern|Keine klare Meinung haben]] · B1)*
+- **Was halten Sie davon, wenn ...?** — What do you think about it if ...? *([[B1-01 Meinung äußern|Nach der Meinung fragen]] · B1)*
+- **Die Vor- und Nachteile halten sich die Waage.** — The pros and cons balance each other out. *([[B1-04 Vor- und Nachteile nennen|Abwägen]] · B1)*
+- **Was halten Sie davon, dass ...?** — What do you think of the fact that ...? *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Frage zur Präsentation stellen]] · B1)*
+- **Ich halte es für unwahrscheinlich, dass ...** — I consider it unlikely that ... *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Wahrscheinlichkeit einschätzen]] · B2)*
+
 **Collocations**
 - den Mund halten
 - Abstand halten

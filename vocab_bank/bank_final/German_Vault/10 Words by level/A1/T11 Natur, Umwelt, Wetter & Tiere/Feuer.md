@@ -35,6 +35,9 @@ status: "new"
 > Haben Sie Feuer?
 > *Do you have a light?*
 
+**Phrases & Expressions:**
+- **Haben Sie Feuer** — *Do you have a light* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!) · Goethe word list A1
 <!-- bank:end -->
 

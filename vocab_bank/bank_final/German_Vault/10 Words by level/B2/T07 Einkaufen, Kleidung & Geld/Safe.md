@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Das Geld liegt im Safe des Hotels.
 > *The money is in the hotel safe.*
+
+**Phrases & Expressions:**
+- **Das Geld liegt im Safe des Hotels** — *The money is in the hotel safe* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

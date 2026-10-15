@@ -35,6 +35,9 @@ status: "new"
 > Bitte bring die Kartoffeln in den Keller!
 > *Please take the potatoes to the cellar!*
 
+**Phrases & Expressions:**
+- **Bitte bring die Kartoffeln in den Keller** — *Please take the potatoes to the cellar* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1a ÜB (Zusammen leben) · Goethe word list A2
 <!-- bank:end -->
 

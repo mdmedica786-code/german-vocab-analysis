@@ -33,6 +33,11 @@ status: "new"
 > Für die Reise nach England brauche ich einen Adapter.
 > *For the trip to England I need an adapter.*
 
+**Phrases & Expressions:**
+- **einen Adapter kaufen** — *adapter*
+- **Adapter für Steckdosen** — *adapter*
+- **Reiseadapter** — *adapter*
+
 **Collocations**
 - einen Adapter kaufen
 - Adapter für Steckdosen

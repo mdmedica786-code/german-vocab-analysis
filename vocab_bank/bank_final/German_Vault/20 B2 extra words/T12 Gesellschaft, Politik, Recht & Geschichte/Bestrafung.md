@@ -33,6 +33,11 @@ status: "new"
 > Die Bestrafung der Täter war hart.
 > *The punishment of the offenders was harsh.*
 
+**Phrases & Expressions:**
+- **die Bestrafung der Täter** — *punishment*
+- **eine strenge Bestrafung** — *punishment*
+- **zur Bestrafung** — *punishment*
+
 **Collocations**
 - die Bestrafung der Täter
 - eine strenge Bestrafung

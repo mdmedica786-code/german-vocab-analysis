@@ -32,6 +32,13 @@ status: "new"
 > Halte durch, bald hast du es geschafft!
 > *Hang in there, you will have made it soon!*
 
+**Phrases & Expressions:**
+- **Wie lange hält der Schmerz an?** — How long does the pain last? *([[FSP-03 Schmerzanamnese|Dauer und Rhythmus]] · A2)*
+- **Bitte atmen Sie kurz durch, dann klären wir alles.** — Please take a deep breath, then we will sort everything out. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Aufgebrachte beruhigen]] · B2)*
+- **bis zum Schluss durchhalten** — *to hold out; to persevere*
+- **den Stress durchhalten** — *to hold out; to persevere*
+- **tapfer durchhalten** — *to hold out; to persevere*
+
 **Collocations**
 - bis zum Schluss durchhalten
 - den Stress durchhalten

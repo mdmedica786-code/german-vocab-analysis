@@ -33,6 +33,11 @@ status: "new"
 > Das Vermögen der Familie besteht vor allem aus Immobilien.
 > *The family's assets consist mainly of property.*
 
+**Phrases & Expressions:**
+- **ein Vermögen verdienen** — *fortune; assets*
+- **ein Vermögen kosten** — *fortune; assets*
+- **zu Vermögen kommen** — *fortune; assets*
+
 **Collocations**
 - ein Vermögen verdienen
 - ein Vermögen kosten

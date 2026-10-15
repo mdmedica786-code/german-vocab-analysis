@@ -33,6 +33,11 @@ status: "new"
 > Die Autoproduktion wurde wegen fehlender Teile gestoppt.
 > *Car production was stopped because of missing parts.*
 
+**Phrases & Expressions:**
+- **die Autoproduktion steigern** — *car production*
+- **die Autoproduktion stoppen** — *car production*
+- **in der Autoproduktion arbeiten** — *car production*
+
 **Collocations**
 - die Autoproduktion steigern
 - die Autoproduktion stoppen

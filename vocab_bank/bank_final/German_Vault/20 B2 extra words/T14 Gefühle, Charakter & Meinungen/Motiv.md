@@ -33,6 +33,11 @@ status: "new"
 > Das Motiv des Täters ist noch unklar.
 > *The culprit's motive is still unclear.*
 
+**Phrases & Expressions:**
+- **ein Motiv haben** — *motive; motif*
+- **aus welchem Motiv** — *motive; motif*
+- **das Motiv des Bildes** — *motive; motif*
+
 **Collocations**
 - ein Motiv haben
 - aus welchem Motiv

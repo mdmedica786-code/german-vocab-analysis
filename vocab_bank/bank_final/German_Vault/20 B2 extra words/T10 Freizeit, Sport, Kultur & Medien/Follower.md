@@ -33,6 +33,11 @@ status: "new"
 > Die Sängerin hat über eine Million Follower.
 > *The singer has over a million followers.*
 
+**Phrases & Expressions:**
+- **Follower gewinnen** — *follower (social media)*
+- **viele Follower haben** — *follower (social media)*
+- **Follower verlieren** — *follower (social media)*
+
 **Collocations**
 - Follower gewinnen
 - viele Follower haben

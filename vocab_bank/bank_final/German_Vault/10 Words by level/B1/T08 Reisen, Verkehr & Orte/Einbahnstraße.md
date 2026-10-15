@@ -34,6 +34,9 @@ status: "new"
 > Die Goethestraße ist jetzt eine Einbahnstraße.
 > *Goethestraße is now a one-way street.*
 
+**Phrases & Expressions:**
+- **Die Goethestraße ist jetzt eine Einbahnstraße** — *Goethestraße is now a one-way street* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

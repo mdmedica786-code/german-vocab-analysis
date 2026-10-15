@@ -29,6 +29,11 @@ status: "new"
 > Die Firma hat strukturelle Probleme.
 > *The company has structural problems.*
 
+**Phrases & Expressions:**
+- **strukturelle Probleme** — *structural*
+- **strukturell bedingt** — *structural*
+- **strukturelle Veränderungen** — *structural*
+
 **Collocations**
 - strukturelle Probleme
 - strukturell bedingt

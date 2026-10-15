@@ -33,6 +33,11 @@ status: "new"
 > Der wichtigste Kritikpunkt betrifft die hohen Kosten.
 > *The most important point of criticism concerns the high costs.*
 
+**Phrases & Expressions:**
+- **einen Kritikpunkt nennen** — *point of criticism*
+- **ein Kritikpunkt ist, dass** — *point of criticism*
+- **Kritikpunkte sammeln** — *point of criticism*
+
 **Collocations**
 - einen Kritikpunkt nennen
 - ein Kritikpunkt ist, dass

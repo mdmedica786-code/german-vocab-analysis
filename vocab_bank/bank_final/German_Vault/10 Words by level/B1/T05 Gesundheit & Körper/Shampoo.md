@@ -34,6 +34,9 @@ status: "new"
 > Ich brauche ein neues Shampoo.
 > *I need a new shampoo.*
 
+**Phrases & Expressions:**
+- **Ich brauche ein neues Shampoo** — *I need a new shampoo* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

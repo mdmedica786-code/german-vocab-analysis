@@ -35,6 +35,9 @@ status: "new"
 > Im Wortinneren steht oft ein Vokal.
 > *A vowel often stands inside the word.*
 
+**Phrases & Expressions:**
+- **Im Wortinneren steht oft ein Vokal** — *A vowel often stands inside the word* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 3c (Arbeitsalltag)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Der Tee ist nur noch lauwarm.
 > *The tea is only lukewarm now.*
 
+**Phrases & Expressions:**
+- **lauwarmes Wasser** — *lukewarm*
+- **lauwarm sein** — *lukewarm*
+- **lauwarm duschen** — *lukewarm*
+
 **Collocations**
 - lauwarmes Wasser
 - lauwarm sein

@@ -33,6 +33,12 @@ status: "new"
 > Letztes Jahr bin ich in einen Sportverein eingetreten.
 > *Last year I joined a sports club.*
 
+**Phrases & Expressions:**
+- **in einen Verein eintreten** — *to enter; to join*
+- **in den Raum eintreten** — *to enter; to join*
+- **ein Problem tritt ein** — *to enter; to join*
+- **für etwas eintreten** — *to enter; to join*
+
 **Collocations**
 - in einen Verein eintreten
 - in den Raum eintreten

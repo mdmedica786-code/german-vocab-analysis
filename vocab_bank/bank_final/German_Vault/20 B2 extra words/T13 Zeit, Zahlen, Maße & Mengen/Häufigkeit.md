@@ -33,6 +33,11 @@ status: "new"
 > Die Häufigkeit der Fehler hat abgenommen.
 > *The frequency of errors has decreased.*
 
+**Phrases & Expressions:**
+- **die Häufigkeit von etwas** — *frequency*
+- **mit hoher Häufigkeit** — *frequency*
+- **die relative Häufigkeit** — *frequency*
+
 **Collocations**
 - die Häufigkeit von etwas
 - mit hoher Häufigkeit

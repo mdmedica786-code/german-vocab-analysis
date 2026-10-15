@@ -34,6 +34,12 @@ status: "new"
 > Diese Salbe muss man dreimal am Tag anwenden.
 > *This ointment has to be applied three times a day.*
 
+**Phrases & Expressions:**
+- **eine Methode anwenden** — *to use*
+- **eine Salbe anwenden** — *to use*
+- **Gewalt anwenden** — *to use*
+- **richtig anwenden** — *to use*
+
 **Collocations**
 - eine Methode anwenden
 - eine Salbe anwenden

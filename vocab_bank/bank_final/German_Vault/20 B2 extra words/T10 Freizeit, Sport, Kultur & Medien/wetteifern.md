@@ -32,6 +32,11 @@ status: "new"
 > Die Firmen wetteifern um die besten Fachkräfte.
 > *The companies vie for the best specialists.*
 
+**Phrases & Expressions:**
+- **um etwas wetteifern** — *to compete; to vie*
+- **miteinander wetteifern** — *to compete; to vie*
+- **um die Gunst wetteifern** — *to compete; to vie*
+
 **Collocations**
 - um etwas wetteifern
 - miteinander wetteifern

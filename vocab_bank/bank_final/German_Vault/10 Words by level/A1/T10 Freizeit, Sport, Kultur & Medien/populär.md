@@ -31,6 +31,9 @@ status: "new"
 > Diese Musik ist bei Jugendlichen populär.
 > *This music is popular with young people.*
 
+**Phrases & Expressions:**
+- **Diese Musik ist bei Jugendlichen populär** — *This music is popular with young people* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 12b (Ab in den Urlaub!) · Goethe word list B1
 <!-- bank:end -->
 

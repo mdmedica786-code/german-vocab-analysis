@@ -35,6 +35,9 @@ status: "new"
 > Der Test war einfach.
 > *The test was easy.*
 
+**Phrases & Expressions:**
+- **Der Test war einfach** — *The test was easy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 6b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

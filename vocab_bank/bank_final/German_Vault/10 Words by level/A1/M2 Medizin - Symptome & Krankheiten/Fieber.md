@@ -35,6 +35,14 @@ status: "new"
 > Mein Mann hat noch immer Fieber.
 > *My husband still has a fever.*
 
+**Phrases & Expressions:**
+- **Haben Sie Fieber, Schüttelfrost oder Nachtschweiß?** — Do you have a fever, chills or night sweats? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Begleitsymptome erfragen]] · B2)*
+- **Hatten Sie Fieber, Nachtschweiß oder ungewollten Gewichtsverlust?** — Have you had a fever, night sweats or unintentional weight loss? *([[FSP-06 Systemanamnese (Organsysteme)|B-Symptomatik]] · B2)*
+- **Kommen Sie sofort wieder, wenn Sie Fieber oder starke Schmerzen bekommen.** — Come back immediately if you develop a fever or severe pain. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Warnzeichen nennen]] · B1)*
+- **Wie lange hat Ihr Kind schon Fieber?** — How long has your child had a fever? *([[FSP-22 Kinder, Eltern und ältere Patienten|Eltern befragen]] · B1)*
+- **Fieber haben** — *fever*
+- **Fieber messen** — *fever*
+
 **Collocations**
 - Fieber haben
 - Fieber messen

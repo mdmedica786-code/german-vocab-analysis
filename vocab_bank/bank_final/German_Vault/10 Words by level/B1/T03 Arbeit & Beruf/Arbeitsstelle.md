@@ -35,6 +35,9 @@ status: "new"
 > Meine Frau hat eine neue Arbeitsstelle gefunden.
 > *My wife found a new job.*
 
+**Phrases & Expressions:**
+- **Meine Frau hat eine neue Arbeitsstelle gefunden** — *My wife found a new job* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

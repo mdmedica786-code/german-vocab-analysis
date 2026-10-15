@@ -35,6 +35,9 @@ status: "new"
 > Kochen macht Spaß.
 > *Cooking is fun.*
 
+**Phrases & Expressions:**
+- **Kochen macht Spaß** — *Cooking is fun* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

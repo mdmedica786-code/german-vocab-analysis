@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Er ist in einer Vereinigung für Naturschutz.
 > *He is in an association for nature conservation.*
+
+**Phrases & Expressions:**
+- **Er ist in einer Vereinigung für Naturschutz** — *He is in an association for nature conservation* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -35,6 +35,9 @@ status: "new"
 > Bitte haben Sie etwas Geduld.
 > *Please be patient for a moment.*
 
+**Phrases & Expressions:**
+- **Ich lerne noch Deutsch, bitte haben Sie Geduld.** — I am still learning German, please be patient. *([[B1-11 Nicht verstanden Nachfragen, Wiederholen, Zeit gewinnen|Um Geduld bitten]] · B1)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

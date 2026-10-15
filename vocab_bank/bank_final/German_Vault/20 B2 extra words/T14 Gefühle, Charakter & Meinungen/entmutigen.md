@@ -31,6 +31,11 @@ status: "new"
 > Lass dich von einem Misserfolg nicht entmutigen!
 > *Don't let a failure discourage you!*
 
+**Phrases & Expressions:**
+- **sich nicht entmutigen lassen** — *to discourage*
+- **jemanden entmutigen** — *to discourage*
+- **entmutigt sein** — *to discourage*
+
 **Collocations**
 - sich nicht entmutigen lassen
 - jemanden entmutigen

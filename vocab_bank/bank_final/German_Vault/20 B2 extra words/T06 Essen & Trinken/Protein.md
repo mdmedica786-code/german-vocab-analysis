@@ -33,6 +33,11 @@ status: "new"
 > Eier enthalten viel Protein.
 > *Eggs contain a lot of protein.*
 
+**Phrases & Expressions:**
+- **viel Protein** — *protein*
+- **pflanzliches Protein** — *protein*
+- **Protein aufnehmen** — *protein*
+
 **Collocations**
 - viel Protein
 - pflanzliches Protein

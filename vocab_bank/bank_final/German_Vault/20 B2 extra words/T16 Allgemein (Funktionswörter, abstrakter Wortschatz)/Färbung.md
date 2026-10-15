@@ -33,6 +33,11 @@ status: "new"
 > Die Färbung der Blätter zeigt den Herbst an.
 > *The colouring of the leaves shows that autumn is here.*
 
+**Phrases & Expressions:**
+- **eine natürliche Färbung** — *colouring; tint; tone*
+- **die Färbung der Haare** — *colouring; tint; tone*
+- **eine politische Färbung** — *colouring; tint; tone*
+
 **Collocations**
 - eine natürliche Färbung
 - die Färbung der Haare

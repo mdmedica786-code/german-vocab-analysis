@@ -35,6 +35,12 @@ status: "new"
 > Dieser Urlaub wird mir lange in Erinnerung bleiben.
 > *I will remember this holiday for a long time.*
 
+**Phrases & Expressions:**
+- **in Erinnerung bleiben** — *memory*
+- **eine schöne Erinnerung** — *memory*
+- **Erinnerungen austauschen** — *memory*
+- **zur Erinnerung** — *memory*
+
 **Collocations**
 - in Erinnerung bleiben
 - eine schöne Erinnerung

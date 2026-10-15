@@ -35,6 +35,9 @@ status: "new"
 > Ich wohne in einer WG mit drei Freunden.
 > *I live in a flat share with three friends.*
 
+**Phrases & Expressions:**
+- **Ich wohne in einer WG mit drei Freunden** — *I live in a flat share with three friends* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 11a (Meine Wohnung)
 <!-- bank:end -->
 

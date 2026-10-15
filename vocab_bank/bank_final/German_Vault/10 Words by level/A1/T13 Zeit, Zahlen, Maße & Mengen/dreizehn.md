@@ -31,6 +31,9 @@ status: "new"
 > Der Kurs beginnt am dreizehnten Mai.
 > *The course starts on the thirteenth of May.*
 
+**Phrases & Expressions:**
+- **Der Kurs beginnt am dreizehnten Mai** — *The course starts on the thirteenth of May* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 6a (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

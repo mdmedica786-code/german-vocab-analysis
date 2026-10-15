@@ -33,6 +33,11 @@ status: "new"
 > Zu Weihnachten kommt die ganze Verwandtschaft zusammen.
 > *At Christmas the whole family gets together.*
 
+**Phrases & Expressions:**
+- **die ganze Verwandtschaft** — *relatives; kinship*
+- **entfernte Verwandtschaft** — *relatives; kinship*
+- **Besuch bei der Verwandtschaft** — *relatives; kinship*
+
 **Collocations**
 - die ganze Verwandtschaft
 - entfernte Verwandtschaft

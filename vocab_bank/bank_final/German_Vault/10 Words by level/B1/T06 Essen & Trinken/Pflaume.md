@@ -35,6 +35,9 @@ status: "new"
 > Ich esse gern Pflaumen und noch lieber Pflaumenkuchen.
 > *I like eating plums, and I like plum cake even more.*
 
+**Phrases & Expressions:**
+- **Ich esse gern Pflaumen und noch lieber Pflaumenkuchen** — *I like eating plums, and I like plum cake even more* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

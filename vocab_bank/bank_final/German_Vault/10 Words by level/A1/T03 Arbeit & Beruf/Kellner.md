@@ -35,6 +35,9 @@ status: "new"
 > Der Kellner bringt uns die Speisekarte.
 > *The waiter brings us the menu.*
 
+**Phrases & Expressions:**
+- **Der Kellner bringt uns die Speisekarte** — *The waiter brings us the menu* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

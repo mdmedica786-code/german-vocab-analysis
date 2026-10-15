@@ -30,6 +30,10 @@ status: "new"
 > Anlässlich seines Geburtstags gab es ein Fest.
 > *There was a party on the occasion of his birthday.*
 
+**Phrases & Expressions:**
+- **anlässlich des Jubiläums** — *on the occasion of*
+- **anlässlich der Eröffnung** — *on the occasion of*
+
 **Collocations**
 - anlässlich des Jubiläums
 - anlässlich der Eröffnung

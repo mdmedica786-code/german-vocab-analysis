@@ -31,6 +31,9 @@ status: "new"
 > Mein Lernhelfer erklärt mir die Grammatik.
 > *My tutor explains the grammar to me.*
 
+**Phrases & Expressions:**
+- **Mein Lernhelfer erklärt mir die Grammatik** — *My tutor explains the grammar to me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3c (Gelernt ist gelernt!)
 <!-- bank:end -->
 

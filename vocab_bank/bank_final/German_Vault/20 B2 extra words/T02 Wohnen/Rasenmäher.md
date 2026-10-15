@@ -33,6 +33,11 @@ status: "new"
 > Am Samstag ist der Rasenmäher im Einsatz.
 > *On Saturday the lawnmower is in use.*
 
+**Phrases & Expressions:**
+- **den Rasenmäher anwerfen** — *lawnmower*
+- **mit dem Rasenmäher mähen** — *lawnmower*
+- **ein elektrischer Rasenmäher** — *lawnmower*
+
 **Collocations**
 - den Rasenmäher anwerfen
 - mit dem Rasenmäher mähen

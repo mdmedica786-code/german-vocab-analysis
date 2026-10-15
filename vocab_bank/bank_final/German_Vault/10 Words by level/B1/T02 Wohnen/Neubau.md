@@ -34,6 +34,9 @@ status: "new"
 > Wir wohnen in einem Neubau.
 > *We live in a new building.*
 
+**Phrases & Expressions:**
+- **Wir wohnen in einem Neubau** — *We live in a new building* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 6b (Das ist ja praktisch!)
 <!-- bank:end -->
 

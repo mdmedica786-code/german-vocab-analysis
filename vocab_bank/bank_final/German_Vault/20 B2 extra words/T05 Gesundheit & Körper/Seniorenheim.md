@@ -33,6 +33,11 @@ status: "new"
 > Seine Großmutter lebt in einem Seniorenheim.
 > *His grandmother lives in a retirement home.*
 
+**Phrases & Expressions:**
+- **im Seniorenheim wohnen** — *retirement home; care home*
+- **ein Seniorenheim besuchen** — *retirement home; care home*
+- **ein Platz im Seniorenheim** — *retirement home; care home*
+
 **Collocations**
 - im Seniorenheim wohnen
 - ein Seniorenheim besuchen

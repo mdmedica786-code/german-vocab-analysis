@@ -29,6 +29,11 @@ status: "new"
 > Die Schüler waren heute sehr undiszipliniert.
 > *The pupils were very undisciplined today.*
 
+**Phrases & Expressions:**
+- **undiszipliniert sein** — *undisciplined*
+- **undiszipliniert arbeiten** — *undisciplined*
+- **ein undisziplinierter Schüler** — *undisciplined*
+
 **Collocations**
 - undiszipliniert sein
 - undiszipliniert arbeiten

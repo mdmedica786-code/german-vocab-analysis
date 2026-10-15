@@ -33,6 +33,11 @@ status: "new"
 > Eine Aufstellung der Kosten liegt bei.
 > *A list of the costs is enclosed.*
 
+**Phrases & Expressions:**
+- **eine Aufstellung machen** — *list; line-up; setting up*
+- **die Aufstellung der Mannschaft** — *list; line-up; setting up*
+- **die Aufstellung eines Zeltes** — *list; line-up; setting up*
+
 **Collocations**
 - eine Aufstellung machen
 - die Aufstellung der Mannschaft

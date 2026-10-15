@@ -33,6 +33,11 @@ status: "new"
 > Im Herbst fegen wir das Laub zusammen.
 > *In autumn we sweep the leaves together.*
 
+**Phrases & Expressions:**
+- **das Laub fegen** — *foliage; fallen leaves*
+- **bunt gefärbtes Laub** — *foliage; fallen leaves*
+- **im Laub** — *foliage; fallen leaves*
+
 **Collocations**
 - das Laub fegen
 - bunt gefärbtes Laub

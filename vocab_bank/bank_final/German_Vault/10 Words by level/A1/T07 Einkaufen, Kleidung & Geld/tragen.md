@@ -34,6 +34,12 @@ status: "new"
 > Kannst du mir helfen, das Gepäck zum Auto zu tragen?
 > *Can you help me carry the luggage to the car?*
 
+**Phrases & Expressions:**
+- **Kleidung tragen** — *to wear*
+- **eine Brille tragen** — *to wear*
+- **Verantwortung tragen** — *to wear*
+- **die Kosten tragen** — *to wear*
+
 **Collocations**
 - Kleidung tragen
 - eine Brille tragen

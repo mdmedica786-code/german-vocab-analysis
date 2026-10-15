@@ -34,6 +34,9 @@ status: "new"
 > Im Bewerbungsschreiben nenne ich meine Stärken.
 > *In the cover letter I mention my strengths.*
 
+**Phrases & Expressions:**
+- **Im Bewerbungsschreiben nenne ich meine Stärken** — *In the cover letter I mention my strengths* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

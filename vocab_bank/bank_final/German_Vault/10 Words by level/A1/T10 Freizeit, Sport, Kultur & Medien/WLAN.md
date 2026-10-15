@@ -34,6 +34,9 @@ status: "new"
 > Gibt es hier kostenloses WLAN?
 > *Is there free Wi-Fi here?*
 
+**Phrases & Expressions:**
+- **Gibt es hier kostenloses WLAN** — *Is there free Wi-Fi here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 6a (Arbeitsalltag)
 <!-- bank:end -->
 

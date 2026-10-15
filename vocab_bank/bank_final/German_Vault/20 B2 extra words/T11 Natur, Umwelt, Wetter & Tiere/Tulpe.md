@@ -33,6 +33,11 @@ status: "new"
 > Im Frühling blühen im Garten bunte Tulpen.
 > *In spring colourful tulips bloom in the garden.*
 
+**Phrases & Expressions:**
+- **Tulpen pflanzen** — *tulip*
+- **ein Strauß Tulpen** — *tulip*
+- **rote Tulpen** — *tulip*
+
 **Collocations**
 - Tulpen pflanzen
 - ein Strauß Tulpen

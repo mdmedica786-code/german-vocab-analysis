@@ -34,6 +34,9 @@ status: "new"
 > Er kämpft für Gerechtigkeit.
 > *He fights for justice.*
 
+**Phrases & Expressions:**
+- **Er kämpft für Gerechtigkeit** — *He fights for justice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1a (Miteinander)
 <!-- bank:end -->
 

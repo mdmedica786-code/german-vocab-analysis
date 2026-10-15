@@ -29,6 +29,11 @@ status: "new"
 > Das Baby ist mollig und gesund.
 > *The baby is chubby and healthy.*
 
+**Phrases & Expressions:**
+- **mollige Arme** — *plump; chubby*
+- **mollig sein** — *plump; chubby*
+- **eine mollige Figur** — *plump; chubby*
+
 **Collocations**
 - mollige Arme
 - mollig sein

@@ -29,6 +29,11 @@ status: "new"
 > Mit dieser Behauptung tust du ihm unrecht.
 > *With this claim you do him an injustice.*
 
+**Phrases & Expressions:**
+- **unrecht haben** — *wrong; unjust*
+- **jemandem unrecht tun** — *wrong; unjust*
+- **zu Unrecht** — *wrong; unjust*
+
 **Collocations**
 - unrecht haben
 - jemandem unrecht tun

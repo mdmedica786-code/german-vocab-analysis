@@ -39,6 +39,9 @@ status: "new"
 > Zum Mittagessen gibt es Poulet mit Reis.
 > *For lunch there is chicken with rice.*
 
+**Phrases & Expressions:**
+- **Zum Mittagessen gibt es Poulet mit Reis** — *For lunch there is chicken with rice* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

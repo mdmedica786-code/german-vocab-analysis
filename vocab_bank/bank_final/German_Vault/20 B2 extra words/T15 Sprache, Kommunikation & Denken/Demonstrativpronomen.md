@@ -33,6 +33,11 @@ status: "new"
 > „Dieser“ und „jener“ sind Demonstrativpronomen.
 > *"Dieser" and "jener" are demonstrative pronouns.*
 
+**Phrases & Expressions:**
+- **ein Demonstrativpronomen benutzen** — *demonstrative pronoun*
+- **das Demonstrativpronomen im Dativ** — *demonstrative pronoun*
+- **Demonstrativpronomen und Artikel** — *demonstrative pronoun*
+
 **Collocations**
 - ein Demonstrativpronomen benutzen
 - das Demonstrativpronomen im Dativ

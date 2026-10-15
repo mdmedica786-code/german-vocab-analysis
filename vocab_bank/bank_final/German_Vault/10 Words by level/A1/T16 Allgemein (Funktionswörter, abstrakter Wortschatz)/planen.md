@@ -33,6 +33,10 @@ status: "new"
 > Wir sollen zusammen eine Klassenparty planen.
 > *We're supposed to plan a class party together.*
 
+**Phrases & Expressions:**
+- **Wir planen, Sie morgen zu entlassen.** — We plan to discharge you tomorrow. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Entlassung ankündigen]] · B1)*
+- **Geplant sind eine Verlaufskontrolle des Labors und ein Kontroll-Röntgen.** — A follow-up of the laboratory values and a repeat X-ray are planned. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Weiteres Vorgehen]] · C1)*
+
 **Source:** Netzwerk neu A1 K4 3b (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

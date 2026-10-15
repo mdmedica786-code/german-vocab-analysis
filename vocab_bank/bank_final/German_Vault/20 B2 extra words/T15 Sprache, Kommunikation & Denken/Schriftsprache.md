@@ -33,6 +33,11 @@ status: "new"
 > In der Schriftsprache gelten strenge Regeln.
 > *Strict rules apply in the written language.*
 
+**Phrases & Expressions:**
+- **gesprochene Sprache und Schriftsprache** — *written language; standard written language*
+- **in der Schriftsprache** — *written language; standard written language*
+- **die deutsche Schriftsprache** — *written language; standard written language*
+
 **Collocations**
 - gesprochene Sprache und Schriftsprache
 - in der Schriftsprache

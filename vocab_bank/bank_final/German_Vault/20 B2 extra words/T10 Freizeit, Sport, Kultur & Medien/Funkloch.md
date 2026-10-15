@@ -33,6 +33,11 @@ status: "new"
 > Auf dem Land gibt es immer noch viele Funklöcher.
 > *In the countryside there are still many dead zones.*
 
+**Phrases & Expressions:**
+- **im Funkloch sein** — *dead zone (no signal)*
+- **ein Funkloch haben** — *dead zone (no signal)*
+- **Funklöcher schließen** — *dead zone (no signal)*
+
 **Collocations**
 - im Funkloch sein
 - ein Funkloch haben

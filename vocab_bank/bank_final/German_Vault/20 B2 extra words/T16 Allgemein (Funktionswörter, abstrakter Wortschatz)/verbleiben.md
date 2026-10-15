@@ -31,6 +31,12 @@ status: "new"
 > Es verbleibt nur wenig Zeit.
 > *Only little time remains.*
 
+**Phrases & Expressions:**
+- **Ich verbleibe mit freundlichen Grüßen** — I remain, with kind regards *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Grußformel]] · B1)*
+- **es verbleibt** — *to remain; to be left*
+- **verbleiben wir so** — *to remain; to be left*
+- **mit freundlichen Grüßen verbleibe ich** — *to remain; to be left*
+
 **Collocations**
 - es verbleibt
 - verbleiben wir so

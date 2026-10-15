@@ -34,6 +34,9 @@ status: "new"
 > Die Vorfreude auf den Urlaub ist groß.
 > *The anticipation of the holiday is great.*
 
+**Phrases & Expressions:**
+- **Die Vorfreude auf den Urlaub ist groß** — *The anticipation of the holiday is great* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9a (Blick nach vorn)
 <!-- bank:end -->
 

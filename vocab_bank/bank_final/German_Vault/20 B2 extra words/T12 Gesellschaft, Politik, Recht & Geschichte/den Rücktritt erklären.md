@@ -26,6 +26,10 @@ status: "new"
 > Der Minister erklärte gestern seinen Rücktritt.
 > *The minister announced his resignation yesterday.*
 
+**Phrases & Expressions:**
+- **seinen Rücktritt anbieten** — *to announce one's resignation*
+- **zurücktreten** — *to announce one's resignation*
+
 **Collocations**
 - seinen Rücktritt anbieten
 - zurücktreten

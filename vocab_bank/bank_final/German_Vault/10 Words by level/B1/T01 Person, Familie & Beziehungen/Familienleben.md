@@ -34,6 +34,9 @@ status: "new"
 > Das Familienleben ist mir sehr wichtig.
 > *Family life is very important to me.*
 
+**Phrases & Expressions:**
+- **Das Familienleben ist mir sehr wichtig** — *Family life is very important to me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches)
 <!-- bank:end -->
 

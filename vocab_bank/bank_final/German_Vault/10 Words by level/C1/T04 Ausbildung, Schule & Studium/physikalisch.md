@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Das ist ein physikalisches Experiment.
 > *That is a physics experiment.*
+
+**Phrases & Expressions:**
+- **Das ist ein physikalisches Experiment** — *That is a physics experiment* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

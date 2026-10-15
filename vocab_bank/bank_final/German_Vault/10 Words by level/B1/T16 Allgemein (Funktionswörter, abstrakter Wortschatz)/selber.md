@@ -31,6 +31,12 @@ status: "new"
 > Sie will das selber machen.
 > *She wants to do it herself.*
 
+**Phrases & Expressions:**
+- **selber machen** — *myself/himself/etc.; on one's own*
+- **selber schuld** — *myself/himself/etc.; on one's own*
+- **von selber** — *myself/himself/etc.; on one's own*
+- **selber sagen** — *myself/himself/etc.; on one's own*
+
 **Collocations**
 - selber machen
 - selber schuld

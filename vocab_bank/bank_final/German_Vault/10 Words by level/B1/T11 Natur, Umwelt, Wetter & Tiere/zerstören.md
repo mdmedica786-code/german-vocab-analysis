@@ -33,6 +33,9 @@ status: "new"
 > Der Sturm hat viele Häuser zerstört.
 > *The storm destroyed many houses.*
 
+**Phrases & Expressions:**
+- **Der Sturm hat viele Häuser zerstört** — *The storm destroyed many houses* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

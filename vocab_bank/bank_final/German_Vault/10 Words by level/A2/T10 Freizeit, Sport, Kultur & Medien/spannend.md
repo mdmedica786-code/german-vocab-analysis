@@ -32,6 +32,9 @@ status: "new"
 > Ich finde den Film sehr spannend.
 > **
 
+**Phrases & Expressions:**
+- **Danke, das war wirklich spannend!** — Thanks, that was really exciting! *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Sich bedanken]] · B1)*
+
 **Source:** Netzwerk neu A2 K1 3a (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

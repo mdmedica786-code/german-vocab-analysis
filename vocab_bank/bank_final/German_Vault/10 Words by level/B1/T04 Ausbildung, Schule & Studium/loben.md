@@ -33,6 +33,9 @@ status: "new"
 > Der Lehrer hat mich heute gelobt.
 > *The teacher praised me today.*
 
+**Phrases & Expressions:**
+- **Der Lehrer hat mich heute gelobt** — *The teacher praised me today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12c (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

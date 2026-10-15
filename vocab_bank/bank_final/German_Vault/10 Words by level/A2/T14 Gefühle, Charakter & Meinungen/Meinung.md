@@ -35,6 +35,14 @@ status: "new"
 > Sag deine Meinung.
 > *State your opinion.*
 
+**Phrases & Expressions:**
+- **der Meinung sein, dass ...** — to be of the opinion that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **meiner Meinung nach** — in my opinion *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B1)*
+- **Ich bin der Meinung, dass ...** — I am of the opinion that ... *([[B1-01 Meinung äußern|Meinung nennen]] · B1)*
+- **Meiner Meinung nach ...** — In my opinion ... *([[B1-01 Meinung äußern|Meinung nennen]] · B1)*
+- **Dazu habe ich keine feste Meinung.** — I don't have a firm opinion on that. *([[B1-01 Meinung äußern|Keine klare Meinung haben]] · B1)*
+- **Ich möchte meine Meinung zu diesem Thema äußern.** — I would like to express my opinion on this topic. *([[B1-01 Meinung äußern|Forumsbeitrag einleiten]] · B1)*
+
 **Collocations**
 - meine Meinung sagen
 - eine andere Meinung haben

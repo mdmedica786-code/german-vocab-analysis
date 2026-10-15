@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Das Kind hat sich mehrmals übergeben.
 > *The child vomited several times.*
+
+**Phrases & Expressions:**
+- **Ich übergebe Ihnen jetzt die Station.** — I am now handing the ward over to you. *([[FSP-19 Übergabe, Konsil und Rücksprache|Übergabe einleiten]] · B2)*
 <!-- bank:end -->
 
 ## My notes

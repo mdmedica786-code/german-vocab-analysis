@@ -30,6 +30,11 @@ status: "new"
 > Helle Möbel sind ein aktueller Wohntrend.
 > *Light furniture is a current interior trend.*
 
+**Phrases & Expressions:**
+- **ein aktueller Wohntrend** — *interior trend; living trend*
+- **einem Wohntrend folgen** — *interior trend; living trend*
+- **ein neuer Wohntrend** — *interior trend; living trend*
+
 **Collocations**
 - ein aktueller Wohntrend
 - einem Wohntrend folgen

@@ -35,6 +35,9 @@ status: "new"
 > Zu Weihnachten wünschen sich die Kinder vor allem Spielzeug.
 > *For Christmas children mainly wish for toys.*
 
+**Phrases & Expressions:**
+- **Zu Weihnachten wünschen sich die Kinder vor allem Spielzeug** — *For Christmas children mainly wish for toys* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 5b (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

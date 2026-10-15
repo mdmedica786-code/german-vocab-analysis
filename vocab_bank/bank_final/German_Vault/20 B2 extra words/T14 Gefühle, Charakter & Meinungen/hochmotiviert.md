@@ -29,6 +29,11 @@ status: "new"
 > Das Team ist hochmotiviert in das Projekt gestartet.
 > *The team started the project highly motivated.*
 
+**Phrases & Expressions:**
+- **hochmotiviert sein** — *highly motivated*
+- **ein hochmotivierter Mitarbeiter** — *highly motivated*
+- **hochmotiviert arbeiten** — *highly motivated*
+
 **Collocations**
 - hochmotiviert sein
 - ein hochmotivierter Mitarbeiter

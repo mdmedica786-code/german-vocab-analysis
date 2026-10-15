@@ -33,6 +33,12 @@ status: "new"
 > Er kann das Essen leider nicht genießen, weil es zu scharf ist.
 > *Unfortunately he can't enjoy the food because it is too spicy.*
 
+**Phrases & Expressions:**
+- **das Leben genießen** — *to enjoy; to savour*
+- **den Urlaub genießen** — *to enjoy; to savour*
+- **die Ruhe genießen** — *to enjoy; to savour*
+- **ein gutes Essen genießen** — *to enjoy; to savour*
+
 **Collocations**
 - das Leben genießen
 - den Urlaub genießen

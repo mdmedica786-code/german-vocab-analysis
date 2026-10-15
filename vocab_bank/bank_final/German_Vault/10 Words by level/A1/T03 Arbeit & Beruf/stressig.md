@@ -31,6 +31,9 @@ status: "new"
 > Meine Arbeit ist stressig.
 > *My work is stressful.*
 
+**Phrases & Expressions:**
+- **Meine Arbeit ist stressig** — *My work is stressful* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list A2
 <!-- bank:end -->
 

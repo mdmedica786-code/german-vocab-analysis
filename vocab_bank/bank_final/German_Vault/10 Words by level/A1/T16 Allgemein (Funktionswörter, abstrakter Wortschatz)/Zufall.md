@@ -35,6 +35,9 @@ status: "new"
 > So ein Zufall, dass ich dich hier treffe.
 > *What a coincidence that I meet you here.*
 
+**Phrases & Expressions:**
+- **So ein Zufall, dass ich dich hier treffe** — *What a coincidence that I meet you here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 5c (Arbeitsalltag) · Goethe word list B1
 <!-- bank:end -->
 

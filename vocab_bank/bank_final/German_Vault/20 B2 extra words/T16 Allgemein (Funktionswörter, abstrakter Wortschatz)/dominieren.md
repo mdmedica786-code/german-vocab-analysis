@@ -31,6 +31,11 @@ status: "new"
 > Eine Firma dominiert den Markt.
 > *One company dominates the market.*
 
+**Phrases & Expressions:**
+- **den Markt dominieren** — *to dominate; to prevail*
+- **das Gespräch dominieren** — *to dominate; to prevail*
+- **klar dominieren** — *to dominate; to prevail*
+
 **Collocations**
 - den Markt dominieren
 - das Gespräch dominieren

@@ -29,6 +29,11 @@ status: "new"
 > Sie geht verschwenderisch mit Wasser um.
 > *She is wasteful with water.*
 
+**Phrases & Expressions:**
+- **verschwenderisch leben** — *lavish; wasteful*
+- **verschwenderisch umgehen mit** — *lavish; wasteful*
+- **ein verschwenderischer Lebensstil** — *lavish; wasteful*
+
 **Collocations**
 - verschwenderisch leben
 - verschwenderisch umgehen mit

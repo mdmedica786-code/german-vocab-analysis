@@ -29,6 +29,10 @@ status: "new"
 > Der Plan hat Hand und Fuß.
 > *The plan is well thought out.*
 
+**Phrases & Expressions:**
+- **weder Hand noch Fuß haben** — *to make sense; to be well thought out*
+- **ein Plan mit Hand und Fuß** — *to make sense; to be well thought out*
+
 **Collocations**
 - weder Hand noch Fuß haben
 - ein Plan mit Hand und Fuß

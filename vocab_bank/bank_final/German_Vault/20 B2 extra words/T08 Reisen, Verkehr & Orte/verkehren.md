@@ -31,6 +31,11 @@ status: "new"
 > Die Busse verkehren alle zehn Minuten.
 > *The buses run every ten minutes.*
 
+**Phrases & Expressions:**
+- **regelmäßig verkehren** — *to run (public transport); to associate (with)*
+- **mit jemandem verkehren** — *to run (public transport); to associate (with)*
+- **der Zug verkehrt täglich** — *to run (public transport); to associate (with)*
+
 **Collocations**
 - regelmäßig verkehren
 - mit jemandem verkehren

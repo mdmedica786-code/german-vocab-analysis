@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Das Konzept hat einen pädagogischen Ansatz.
 > *The concept has an educational approach.*
+
+**Phrases & Expressions:**
+- **Das Konzept hat einen pädagogischen Ansatz** — *The concept has an educational approach* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

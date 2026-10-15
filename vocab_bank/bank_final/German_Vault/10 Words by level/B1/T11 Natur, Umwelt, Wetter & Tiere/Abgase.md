@@ -34,6 +34,9 @@ status: "new"
 > Abgase aus Industrie und Haushalten verschmutzen die Luft.
 > *Exhaust fumes from industry and households pollute the air.*
 
+**Phrases & Expressions:**
+- **Abgase aus Industrie und Haushalten verschmutzen die Luft** — *Exhaust fumes from industry and households pollute the air* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

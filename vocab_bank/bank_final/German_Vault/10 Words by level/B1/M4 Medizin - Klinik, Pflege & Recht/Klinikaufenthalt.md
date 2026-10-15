@@ -34,6 +34,9 @@ status: "new"
 > Nach dem Klinikaufenthalt fühlt er sich besser.
 > *After the hospital stay he feels better.*
 
+**Phrases & Expressions:**
+- **Nach dem Klinikaufenthalt fühlt er sich besser** — *After the hospital stay he feels better* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

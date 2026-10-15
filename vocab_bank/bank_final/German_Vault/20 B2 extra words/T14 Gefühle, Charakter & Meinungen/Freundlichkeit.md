@@ -33,6 +33,11 @@ status: "new"
 > Wir danken Ihnen für Ihre Freundlichkeit.
 > *We thank you for your kindness.*
 
+**Phrases & Expressions:**
+- **mit Freundlichkeit** — *friendliness; kindness*
+- **die Freundlichkeit des Personals** — *friendliness; kindness*
+- **vielen Dank für die Freundlichkeit** — *friendliness; kindness*
+
 **Collocations**
 - mit Freundlichkeit
 - die Freundlichkeit des Personals

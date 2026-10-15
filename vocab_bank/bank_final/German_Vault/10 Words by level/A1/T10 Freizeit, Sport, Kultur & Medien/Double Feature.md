@@ -32,6 +32,9 @@ status: "new"
 > Im Kino läuft heute ein Double Feature.
 > *A double feature is showing at the cinema today.*
 
+**Phrases & Expressions:**
+- **Im Kino läuft heute ein Double Feature** — *A double feature is showing at the cinema today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden)
 <!-- bank:end -->
 

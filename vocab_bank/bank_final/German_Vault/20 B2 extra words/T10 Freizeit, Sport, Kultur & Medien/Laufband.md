@@ -33,6 +33,11 @@ status: "new"
 > Im Winter trainiere ich auf dem Laufband.
 > *In winter I train on the treadmill.*
 
+**Phrases & Expressions:**
+- **auf dem Laufband laufen** — *treadmill*
+- **das Laufband einstellen** — *treadmill*
+- **ein Laufband benutzen** — *treadmill*
+
 **Collocations**
 - auf dem Laufband laufen
 - das Laufband einstellen

@@ -29,6 +29,11 @@ status: "new"
 > Derzeit sind keine Zimmer frei.
 > *There are currently no rooms available.*
 
+**Phrases & Expressions:**
+- **derzeit gültig** — *currently; at present*
+- **derzeit nicht möglich** — *currently; at present*
+- **derzeit arbeitslos** — *currently; at present*
+
 **Collocations**
 - derzeit gültig
 - derzeit nicht möglich

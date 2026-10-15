@@ -33,6 +33,11 @@ status: "new"
 > Vor der Küste konnten wir Wale beobachten.
 > *Off the coast we were able to watch whales.*
 
+**Phrases & Expressions:**
+- **Wale beobachten** — *whale*
+- **der Blauwal** — *whale*
+- **Walfang verbieten** — *whale*
+
 **Collocations**
 - Wale beobachten
 - der Blauwal

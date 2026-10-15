@@ -33,6 +33,9 @@ status: "new"
 > Ich habe den Zug verpasst.
 > *I missed the train.*
 
+**Phrases & Expressions:**
+- **Ich habe den Zug verpasst** — *I missed the train* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7a (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

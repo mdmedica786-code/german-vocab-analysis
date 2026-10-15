@@ -38,6 +38,9 @@ status: "new"
 > Die Leute sitzen auf der Bank.
 > *People are sitting on the bench.*
 
+**Phrases & Expressions:**
+- **Die Leute sitzen auf der Bank** — *People are sitting on the bench* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->
 

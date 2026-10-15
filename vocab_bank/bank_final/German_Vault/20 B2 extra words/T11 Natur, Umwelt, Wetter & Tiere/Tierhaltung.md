@@ -33,6 +33,11 @@ status: "new"
 > Die artgerechte Tierhaltung ist vielen Verbrauchern wichtig.
 > *Species-appropriate animal husbandry is important to many consumers.*
 
+**Phrases & Expressions:**
+- **artgerechte Tierhaltung** — *keeping of animals; animal husbandry*
+- **Tierhaltung verbieten** — *keeping of animals; animal husbandry*
+- **Bedingungen der Tierhaltung** — *keeping of animals; animal husbandry*
+
 **Collocations**
 - artgerechte Tierhaltung
 - Tierhaltung verbieten

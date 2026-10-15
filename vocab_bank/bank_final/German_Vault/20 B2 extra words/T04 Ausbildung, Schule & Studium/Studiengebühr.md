@@ -33,6 +33,11 @@ status: "new"
 > In den meisten Bundesländern gibt es keine Studiengebühren.
 > *In most federal states there are no tuition fees.*
 
+**Phrases & Expressions:**
+- **Studiengebühren zahlen** — *tuition fee*
+- **Studiengebühren erheben** — *tuition fee*
+- **Studiengebühren abschaffen** — *tuition fee*
+
 **Collocations**
 - Studiengebühren zahlen
 - Studiengebühren erheben

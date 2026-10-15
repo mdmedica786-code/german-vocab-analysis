@@ -33,6 +33,12 @@ status: "new"
 > Ich muss noch meinen Koffer packen.
 > *I still have to pack my suitcase.*
 
+**Phrases & Expressions:**
+- **den Koffer packen** — *to pack*
+- **Sachen packen** — *to pack*
+- **ein Paket packen** — *to pack*
+- **jemanden am Arm packen** — *to pack*
+
 **Collocations**
 - den Koffer packen
 - Sachen packen

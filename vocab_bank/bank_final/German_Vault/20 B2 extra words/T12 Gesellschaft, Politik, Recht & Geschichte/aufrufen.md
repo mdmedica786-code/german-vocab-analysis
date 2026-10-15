@@ -32,6 +32,11 @@ status: "new"
 > Die Gewerkschaft ruft zum Streik auf.
 > *The union calls for a strike.*
 
+**Phrases & Expressions:**
+- **zum Streik aufrufen** — *to call upon; to call up; to open (a page)*
+- **eine Seite aufrufen** — *to call upon; to call up; to open (a page)*
+- **jemanden aufrufen** — *to call upon; to call up; to open (a page)*
+
 **Collocations**
 - zum Streik aufrufen
 - eine Seite aufrufen

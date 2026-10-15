@@ -34,6 +34,9 @@ status: "new"
 > Du hast einen Fleck auf der Bluse.
 > *You have a stain on your blouse.*
 
+**Phrases & Expressions:**
+- **Du hast einen Fleck auf der Bluse** — *You have a stain on your blouse* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -26,6 +26,11 @@ status: "new"
 > Die Frage der Arbeitszeit steht zur Diskussion.
 > *The question of working hours is under discussion.*
 
+**Phrases & Expressions:**
+- **Vorschläge stehen zur Diskussion** — *to be under discussion*
+- **zur Diskussion stellen** — *to be under discussion*
+- **zur Diskussion bringen** — *to be under discussion*
+
 **Collocations**
 - Vorschläge stehen zur Diskussion
 - zur Diskussion stellen

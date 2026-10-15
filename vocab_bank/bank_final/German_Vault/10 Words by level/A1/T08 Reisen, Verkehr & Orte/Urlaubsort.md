@@ -34,6 +34,9 @@ status: "new"
 > Der Urlaubsort liegt direkt am Meer.
 > *The holiday resort is right by the sea.*
 
+**Phrases & Expressions:**
+- **Der Urlaubsort liegt direkt am Meer** — *The holiday resort is right by the sea* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 12b (Ab in den Urlaub!)
 <!-- bank:end -->
 

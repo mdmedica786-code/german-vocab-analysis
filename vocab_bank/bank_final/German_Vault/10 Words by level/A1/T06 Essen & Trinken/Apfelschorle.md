@@ -34,6 +34,9 @@ status: "new"
 > Zum Essen trinke ich eine Apfelschorle.
 > *With the meal I drink an apple juice spritzer.*
 
+**Phrases & Expressions:**
+- **Zum Essen trinke ich eine Apfelschorle** — *With the meal I drink an apple juice spritzer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 2c (Arbeitsalltag)
 <!-- bank:end -->
 

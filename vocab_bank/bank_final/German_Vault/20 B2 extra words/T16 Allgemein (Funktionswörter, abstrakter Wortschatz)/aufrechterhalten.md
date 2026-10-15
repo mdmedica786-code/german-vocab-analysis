@@ -32,6 +32,12 @@ status: "new"
 > Trotz der Probleme konnte der Betrieb aufrechterhalten werden.
 > *Despite the problems operations could be maintained.*
 
+**Phrases & Expressions:**
+- **Setzen Sie sich bitte aufrecht hin.** — Please sit up straight. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Lagerung]] · A2)*
+- **den Kontakt aufrechterhalten** — *to maintain; to uphold*
+- **die Ordnung aufrechterhalten** — *to maintain; to uphold*
+- **eine Behauptung aufrechterhalten** — *to maintain; to uphold*
+
 **Collocations**
 - den Kontakt aufrechterhalten
 - die Ordnung aufrechterhalten

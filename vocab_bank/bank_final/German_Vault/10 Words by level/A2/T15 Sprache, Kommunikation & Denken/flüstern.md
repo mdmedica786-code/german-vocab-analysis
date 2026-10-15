@@ -32,6 +32,12 @@ status: "new"
 > Sie flüstert ihm ein Geheimnis ins Ohr.
 > *She whispers a secret into his ear.*
 
+**Phrases & Expressions:**
+- **leise flüstern** — *to whisper*
+- **jemandem etwas zuflüstern** — *to whisper*
+- **ins Ohr flüstern** — *to whisper*
+- **miteinander flüstern** — *to whisper*
+
 **Collocations**
 - leise flüstern
 - jemandem etwas zuflüstern

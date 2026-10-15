@@ -33,6 +33,11 @@ status: "new"
 > Viele Geflüchtete lernen in Integrationskursen Deutsch.
 > *Many refugees learn German in integration courses.*
 
+**Phrases & Expressions:**
+- **Geflüchtete aufnehmen** — *refugee*
+- **Geflüchtete unterstützen** — *refugee*
+- **geflüchtete Kinder** — *refugee*
+
 **Collocations**
 - Geflüchtete aufnehmen
 - Geflüchtete unterstützen

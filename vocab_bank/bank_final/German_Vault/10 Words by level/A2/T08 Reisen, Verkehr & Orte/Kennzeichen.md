@@ -35,6 +35,9 @@ status: "new"
 > Das Auto hat ein Schweizer Kennzeichen.
 > *The car has a Swiss number plate.*
 
+**Phrases & Expressions:**
+- **Das Auto hat ein Schweizer Kennzeichen** — *The car has a Swiss number plate* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

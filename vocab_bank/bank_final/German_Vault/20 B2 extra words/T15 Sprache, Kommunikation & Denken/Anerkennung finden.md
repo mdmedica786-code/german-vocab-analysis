@@ -26,6 +26,10 @@ status: "new"
 > Ihre Arbeit fand in der ganzen Welt Anerkennung.
 > *Her work gained recognition all over the world.*
 
+**Phrases & Expressions:**
+- **breite Anerkennung finden** — *to gain recognition*
+- **Anerkennung zollen** — *to gain recognition*
+
 **Collocations**
 - breite Anerkennung finden
 - Anerkennung zollen

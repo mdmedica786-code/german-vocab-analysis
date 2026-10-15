@@ -35,6 +35,9 @@ status: "new"
 > Er schließt den Lautsprecher an den Laptop an.
 > *He connects the speaker to the laptop.*
 
+**Phrases & Expressions:**
+- **Er schließt den Lautsprecher an den Laptop an** — *He connects the speaker to the laptop* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 1b ÜB (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

@@ -30,6 +30,9 @@ status: "new"
 > Der lange Rock ist unpraktisch zum Radfahren.
 > *The long skirt is impractical for cycling.*
 
+**Phrases & Expressions:**
+- **Der lange Rock ist unpraktisch zum Radfahren** — *The long skirt is impractical for cycling* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 10c (Ganz schön mobil)
 <!-- bank:end -->
 

@@ -29,6 +29,14 @@ status: "new"
 > Die Ausbildung ist abgeschlossen.
 > *The training is completed.*
 
+**Phrases & Expressions:**
+- **Ich habe mein Medizinstudium im Jahr ... abgeschlossen.** — I completed my medical studies in ... *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Qualifikationen nennen]] · B2)*
+- **Ich habe meine Ausbildung im Jahr ... abgeschlossen.** — I completed my training in ... *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Ausbildung beschreiben]] · B2)*
+- **abgeschlossene Ausbildung** — *completed; locked*
+- **ein abgeschlossenes Studium** — *completed; locked*
+- **abgeschlossen sein** — *completed; locked*
+- **die Tür abgeschlossen** — *completed; locked*
+
 **Collocations**
 - abgeschlossene Ausbildung
 - ein abgeschlossenes Studium

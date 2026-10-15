@@ -33,6 +33,11 @@ status: "new"
 > Sie haben sich eine Eigentumswohnung am Stadtrand gekauft.
 > *They bought a flat of their own on the outskirts of the city.*
 
+**Phrases & Expressions:**
+- **eine Eigentumswohnung kaufen** — *owner-occupied flat; condominium*
+- **in einer Eigentumswohnung wohnen** — *owner-occupied flat; condominium*
+- **Eigentumswohnung vermieten** — *owner-occupied flat; condominium*
+
 **Collocations**
 - eine Eigentumswohnung kaufen
 - in einer Eigentumswohnung wohnen

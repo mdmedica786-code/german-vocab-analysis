@@ -35,6 +35,9 @@ status: "new"
 > Meine Schwester möchte Musikerin werden.
 > *My sister wants to become a musician.*
 
+**Phrases & Expressions:**
+- **Meine Schwester möchte Musikerin werden** — *My sister wants to become a musician* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 5a (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

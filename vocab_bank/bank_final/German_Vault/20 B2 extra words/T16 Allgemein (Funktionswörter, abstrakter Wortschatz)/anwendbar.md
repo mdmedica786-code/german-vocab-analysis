@@ -29,6 +29,11 @@ status: "new"
 > Die Regel ist hier nicht anwendbar.
 > *The rule is not applicable here.*
 
+**Phrases & Expressions:**
+- **anwendbar sein** — *applicable*
+- **nicht anwendbar** — *applicable*
+- **praktisch anwendbar** — *applicable*
+
 **Collocations**
 - anwendbar sein
 - nicht anwendbar

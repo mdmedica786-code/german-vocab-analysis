@@ -29,6 +29,11 @@ status: "new"
 > Das Chaos wurde dadurch vollends perfekt.
 > *The chaos was thereby completely perfected.*
 
+**Phrases & Expressions:**
+- **vollends verstehen** — *completely; entirely*
+- **vollends überzeugt** — *completely; entirely*
+- **vollends verschwinden** — *completely; entirely*
+
 **Collocations**
 - vollends verstehen
 - vollends überzeugt

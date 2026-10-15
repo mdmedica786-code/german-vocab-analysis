@@ -33,6 +33,11 @@ status: "new"
 > Sie hat ein Jobangebot aus Hamburg bekommen.
 > *She received a job offer from Hamburg.*
 
+**Phrases & Expressions:**
+- **ein Jobangebot annehmen** — *job offer*
+- **ein Jobangebot ablehnen** — *job offer*
+- **ein gutes Jobangebot** — *job offer*
+
 **Collocations**
 - ein Jobangebot annehmen
 - ein Jobangebot ablehnen

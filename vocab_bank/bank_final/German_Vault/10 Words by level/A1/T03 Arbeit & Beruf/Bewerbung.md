@@ -35,6 +35,9 @@ status: "new"
 > Wohin soll ich meine Bewerbung schicken?
 > *Where should I send my application?*
 
+**Phrases & Expressions:**
+- **Wohin soll ich meine Bewerbung schicken** — *Where should I send my application* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 7a (Studium und Beruf) · Goethe word list A2
 <!-- bank:end -->
 

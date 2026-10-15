@@ -34,6 +34,12 @@ status: "new"
 > Mit meiner Freundin kann ich über alles reden.
 > *I can talk about everything with my girlfriend.*
 
+**Phrases & Expressions:**
+- **über etwas reden** — *to talk*
+- **mit jemandem reden** — *to talk*
+- **miteinander reden** — *to talk*
+- **viel reden** — *to talk*
+
 **Collocations**
 - über etwas reden
 - mit jemandem reden

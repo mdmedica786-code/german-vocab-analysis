@@ -29,6 +29,11 @@ status: "new"
 > Er verfolgt sein Ziel hartnäckig.
 > *He pursues his goal persistently.*
 
+**Phrases & Expressions:**
+- **hartnäckig bleiben** — *stubborn; persistent*
+- **ein hartnäckiger Husten** — *stubborn; persistent*
+- **hartnäckig behaupten** — *stubborn; persistent*
+
 **Collocations**
 - hartnäckig bleiben
 - ein hartnäckiger Husten

@@ -33,6 +33,9 @@ status: "new"
 > Tanzen Sie gern?
 > *Do you like dancing?*
 
+**Phrases & Expressions:**
+- **Tanzen Sie gern** — *Do you like dancing* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 2a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

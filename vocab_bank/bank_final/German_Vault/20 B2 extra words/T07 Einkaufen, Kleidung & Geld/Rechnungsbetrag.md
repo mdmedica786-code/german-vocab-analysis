@@ -33,6 +33,11 @@ status: "new"
 > Bitte überweisen Sie den Rechnungsbetrag innerhalb von 14 Tagen.
 > *Please transfer the invoice amount within 14 days.*
 
+**Phrases & Expressions:**
+- **den Rechnungsbetrag begleichen** — *invoice amount*
+- **der offene Rechnungsbetrag** — *invoice amount*
+- **Rechnungsbetrag überweisen** — *invoice amount*
+
 **Collocations**
 - den Rechnungsbetrag begleichen
 - der offene Rechnungsbetrag

@@ -34,6 +34,9 @@ status: "new"
 > „Er ging“ steht im Präteritum.
 > *"Er ging" is in the simple past.*
 
+**Phrases & Expressions:**
+- **„Er ging“ steht im Präteritum** — *"Er ging" is in the simple past* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 13b (Zeit mit Freunden)
 <!-- bank:end -->
 

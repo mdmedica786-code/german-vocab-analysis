@@ -33,6 +33,11 @@ status: "new"
 > Viele Bauern verzichten inzwischen auf Pestizide.
 > *Many farmers now do without pesticides.*
 
+**Phrases & Expressions:**
+- **Pestizide einsetzen** — *pesticide*
+- **auf Pestizide verzichten** — *pesticide*
+- **Rückstände von Pestiziden** — *pesticide*
+
 **Collocations**
 - Pestizide einsetzen
 - auf Pestizide verzichten

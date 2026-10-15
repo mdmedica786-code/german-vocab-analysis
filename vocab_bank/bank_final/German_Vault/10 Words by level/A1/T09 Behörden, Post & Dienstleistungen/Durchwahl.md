@@ -34,6 +34,9 @@ status: "new"
 > Meine Durchwahl ist die 123.
 > *My extension is 123.*
 
+**Phrases & Expressions:**
+- **Meine Durchwahl ist die 123** — *My extension is 123* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 11a (Studium und Beruf)
 <!-- bank:end -->
 

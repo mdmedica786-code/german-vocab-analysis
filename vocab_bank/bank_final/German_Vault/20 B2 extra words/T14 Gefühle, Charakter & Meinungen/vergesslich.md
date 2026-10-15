@@ -29,6 +29,11 @@ status: "new"
 > Mein Großvater wird mit dem Alter etwas vergesslich.
 > *My grandfather is becoming a little forgetful with age.*
 
+**Phrases & Expressions:**
+- **ein vergesslicher Mensch** — *forgetful*
+- **vergesslich sein** — *forgetful*
+- **vergesslich werden** — *forgetful*
+
 **Collocations**
 - ein vergesslicher Mensch
 - vergesslich sein

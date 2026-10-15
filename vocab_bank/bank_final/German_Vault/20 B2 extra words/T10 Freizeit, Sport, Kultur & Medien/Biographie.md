@@ -33,6 +33,11 @@ status: "new"
 > Die Biographie des Künstlers ist sehr spannend.
 > *The biography of the artist is very exciting.*
 
+**Phrases & Expressions:**
+- **eine Biographie schreiben** — *biography*
+- **die Biographie eines Politikers** — *biography*
+- **Biographie und Werk** — *biography*
+
 **Collocations**
 - eine Biographie schreiben
 - die Biographie eines Politikers

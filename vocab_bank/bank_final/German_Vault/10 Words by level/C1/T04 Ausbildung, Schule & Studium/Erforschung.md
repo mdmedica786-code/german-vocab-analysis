@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Erforschung des Weltraums ist teuer.
 > *The exploration of space is expensive.*
+
+**Phrases & Expressions:**
+- **Die Erforschung des Weltraums ist teuer** — *The exploration of space is expensive* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

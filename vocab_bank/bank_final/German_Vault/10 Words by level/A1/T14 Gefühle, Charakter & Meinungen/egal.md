@@ -31,6 +31,14 @@ status: "new"
 > Das ist mir egal.
 > *I don't care.*
 
+**Phrases & Expressions:**
+- **egal, ob ...** — no matter whether ... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B1)*
+- **egal, was ...** — no matter what ... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B2)*
+- **egal, wie ...** — no matter how ... *([[Gegensatz - Einräumung (contrast, concession)|Gegensatz / Einräumung (contrast, concession)]] · B2)*
+- **egal sein** — *whatever*
+- **ganz egal** — *whatever*
+- **egal wie** — *whatever*
+
 **Collocations**
 - egal sein
 - ganz egal

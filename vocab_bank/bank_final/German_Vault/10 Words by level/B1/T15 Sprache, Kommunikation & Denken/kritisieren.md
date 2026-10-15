@@ -32,6 +32,9 @@ status: "new"
 > Kritisiere mich nicht so oft.
 > *Do not criticise me so often.*
 
+**Phrases & Expressions:**
+- **Kritisiere mich nicht so oft** — *Do not criticise me so often* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

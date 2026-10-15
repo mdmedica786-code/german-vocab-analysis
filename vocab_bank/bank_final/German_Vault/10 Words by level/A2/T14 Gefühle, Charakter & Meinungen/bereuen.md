@@ -32,6 +32,9 @@ status: "new"
 > Ich bereue meine Entscheidung nicht.
 > *I don't regret my decision.*
 
+**Phrases & Expressions:**
+- **Ich bereue meine Entscheidung nicht** — *I don't regret my decision* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

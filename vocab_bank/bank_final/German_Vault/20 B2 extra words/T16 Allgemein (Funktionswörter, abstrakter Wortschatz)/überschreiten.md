@@ -31,6 +31,12 @@ status: "new"
 > Die Temperatur hat 35 Grad überschritten.
 > *The temperature has exceeded 35 degrees.*
 
+**Phrases & Expressions:**
+- **Überschreiten Sie bitte nicht die empfohlene Höchstdosis.** — Please do not exceed the recommended maximum dose. *([[FSP-11 Therapie und Medikamente erklären|Dosierung erklären]] · B2)*
+- **eine Grenze überschreiten** — *to exceed; to cross*
+- **die Frist überschreiten** — *to exceed; to cross*
+- **das Tempolimit überschreiten** — *to exceed; to cross*
+
 **Collocations**
 - eine Grenze überschreiten
 - die Frist überschreiten

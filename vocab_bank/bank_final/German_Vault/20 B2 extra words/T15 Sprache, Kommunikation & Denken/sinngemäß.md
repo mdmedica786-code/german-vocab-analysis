@@ -29,6 +29,11 @@ status: "new"
 > Sie hat sinngemäß gesagt, dass sie gehen will.
 > *She said in essence that she wants to leave.*
 
+**Phrases & Expressions:**
+- **sinngemäß wiedergeben** — *in essence; roughly in meaning*
+- **sinngemäß übersetzen** — *in essence; roughly in meaning*
+- **sinngemäßes Zitat** — *in essence; roughly in meaning*
+
 **Collocations**
 - sinngemäß wiedergeben
 - sinngemäß übersetzen

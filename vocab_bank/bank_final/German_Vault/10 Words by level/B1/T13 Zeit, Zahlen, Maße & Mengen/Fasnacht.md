@@ -34,6 +34,9 @@ status: "new"
 > Dort hängt mein Kostüm für den Fasnachtsumzug.
 > *My costume for the carnival parade hangs there.*
 
+**Phrases & Expressions:**
+- **Dort hängt mein Kostüm für den Fasnachtsumzug** — *My costume for the carnival parade hangs there* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

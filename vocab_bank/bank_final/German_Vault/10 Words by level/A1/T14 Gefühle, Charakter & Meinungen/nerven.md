@@ -32,6 +32,9 @@ status: "new"
 > Das Warten nervt mich.
 > *The waiting annoys me.*
 
+**Phrases & Expressions:**
+- **Es nervt mich, dass ...** — It gets on my nerves that ... *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Ärger ausdrücken]] · B1)*
+
 **Source:** Netzwerk neu A1 K11 4b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

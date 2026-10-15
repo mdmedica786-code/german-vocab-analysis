@@ -33,6 +33,11 @@ status: "new"
 > Ich habe die Einladung ohne Hintergedanken ausgesprochen.
 > *I extended the invitation without any ulterior motive.*
 
+**Phrases & Expressions:**
+- **ohne Hintergedanken** — *ulterior motive*
+- **einen Hintergedanken haben** — *ulterior motive*
+- **ohne jeden Hintergedanken** — *ulterior motive*
+
 **Collocations**
 - ohne Hintergedanken
 - einen Hintergedanken haben

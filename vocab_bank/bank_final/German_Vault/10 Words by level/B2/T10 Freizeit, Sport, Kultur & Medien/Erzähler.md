@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Erzähler beginnt die Geschichte.
 > *The narrator begins the story.*
+
+**Phrases & Expressions:**
+- **Der Erzähler beginnt die Geschichte** — *The narrator begins the story* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

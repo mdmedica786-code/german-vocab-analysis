@@ -29,6 +29,11 @@ status: "new"
 > Ein verantwortungsbewusster Fahrer trinkt keinen Alkohol.
 > *A responsible driver does not drink alcohol.*
 
+**Phrases & Expressions:**
+- **verantwortungsbewusst handeln** — *responsible; conscientious*
+- **ein verantwortungsbewusster Umgang** — *responsible; conscientious*
+- **verantwortungsbewusst sein** — *responsible; conscientious*
+
 **Collocations**
 - verantwortungsbewusst handeln
 - ein verantwortungsbewusster Umgang

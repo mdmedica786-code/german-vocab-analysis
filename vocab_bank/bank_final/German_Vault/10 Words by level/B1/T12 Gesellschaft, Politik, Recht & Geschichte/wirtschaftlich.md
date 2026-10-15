@@ -30,6 +30,12 @@ status: "new"
 > Die wirtschaftliche Lage ist schwierig.
 > *The economic situation is difficult.*
 
+**Phrases & Expressions:**
+- **wirtschaftliche Lage** — *economic*
+- **wirtschaftliche Entwicklung** — *economic*
+- **wirtschaftlich denken** — *economic*
+- **wirtschaftliche Probleme** — *economic*
+
 **Collocations**
 - wirtschaftliche Lage
 - wirtschaftliche Entwicklung

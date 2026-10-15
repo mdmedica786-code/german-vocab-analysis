@@ -31,6 +31,12 @@ status: "new"
 > Sprechen Sie bitte miteinander.
 > *Please talk to each other.*
 
+**Phrases & Expressions:**
+- **miteinander reden** — *with each other; together*
+- **miteinander auskommen** — *with each other; together*
+- **gut miteinander** — *with each other; together*
+- **miteinander verbunden** — *with each other; together*
+
 **Collocations**
 - miteinander reden
 - miteinander auskommen

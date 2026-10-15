@@ -35,6 +35,9 @@ status: "new"
 > Die Giraffe hat einen sehr langen Hals.
 > *The giraffe has a very long neck.*
 
+**Phrases & Expressions:**
+- **Die Giraffe hat einen sehr langen Hals** — *The giraffe has a very long neck* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12 ÜB (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

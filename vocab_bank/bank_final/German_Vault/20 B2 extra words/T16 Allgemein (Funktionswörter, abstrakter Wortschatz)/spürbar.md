@@ -29,6 +29,11 @@ status: "new"
 > Die Entlastung ist für viele Familien spürbar.
 > *The relief is noticeable for many families.*
 
+**Phrases & Expressions:**
+- **spürbar besser** — *noticeable; tangible*
+- **eine spürbare Verbesserung** — *noticeable; tangible*
+- **spürbar sinken** — *noticeable; tangible*
+
 **Collocations**
 - spürbar besser
 - eine spürbare Verbesserung

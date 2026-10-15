@@ -30,6 +30,9 @@ status: "new"
 > Das Kleid ist altmodisch.
 > *The dress is old-fashioned.*
 
+**Phrases & Expressions:**
+- **Das Kleid ist altmodisch** — *The dress is old-fashioned* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

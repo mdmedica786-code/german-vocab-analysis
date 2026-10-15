@@ -30,6 +30,9 @@ status: "new"
 > Donnerstags arbeite ich bis 18 Uhr.
 > *On Thursdays I work until 6 pm.*
 
+**Phrases & Expressions:**
+- **Donnerstags arbeite ich bis 18 Uhr** — *On Thursdays I work until 6 pm* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

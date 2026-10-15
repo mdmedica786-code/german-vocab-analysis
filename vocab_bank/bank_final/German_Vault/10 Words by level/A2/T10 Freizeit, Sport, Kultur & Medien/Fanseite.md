@@ -31,6 +31,9 @@ status: "new"
 > Die Band hat eine Fanseite im Internet.
 > *The band has a fan page on the internet.*
 
+**Phrases & Expressions:**
+- **Die Band hat eine Fanseite im Internet** — *The band has a fan page on the internet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 5a (Sportlich, sportlich)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Ich muss noch Wäsche waschen.
 > *I still have to do the laundry.*
 
+**Phrases & Expressions:**
+- **Ich muss noch Wäsche waschen** — *I still have to do the laundry* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Am Wochenende wandern wir im Naturpark.
 > *At the weekend we are hiking in the nature park.*
 
+**Phrases & Expressions:**
+- **im Naturpark wandern** — *nature park*
+- **Naturpark besuchen** — *nature park*
+- **ein Naturpark im Schwarzwald** — *nature park*
+
 **Collocations**
 - im Naturpark wandern
 - Naturpark besuchen

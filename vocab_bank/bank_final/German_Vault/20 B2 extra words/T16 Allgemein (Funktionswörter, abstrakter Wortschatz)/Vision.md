@@ -33,6 +33,11 @@ status: "new"
 > Der Gründer hatte eine klare Vision.
 > *The founder had a clear vision.*
 
+**Phrases & Expressions:**
+- **eine Vision haben** — *vision*
+- **Visionen entwickeln** — *vision*
+- **eine Vision verwirklichen** — *vision*
+
 **Collocations**
 - eine Vision haben
 - Visionen entwickeln

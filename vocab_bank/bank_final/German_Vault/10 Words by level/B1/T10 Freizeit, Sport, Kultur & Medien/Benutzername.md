@@ -34,6 +34,9 @@ status: "new"
 > Ihr Benutzername steht in der E-Mail.
 > *Your user name is in the email.*
 
+**Phrases & Expressions:**
+- **Ihr Benutzername steht in der E-Mail** — *Your user name is in the email* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 5a (Geld regiert die Welt?)
 <!-- bank:end -->
 

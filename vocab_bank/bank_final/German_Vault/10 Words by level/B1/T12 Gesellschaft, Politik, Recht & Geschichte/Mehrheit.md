@@ -35,6 +35,9 @@ status: "new"
 > Die Mehrheit der Menschen in Deutschland besitzt ein Handy.
 > *The majority of people in Germany own a mobile phone.*
 
+**Phrases & Expressions:**
+- **Die Mehrheit ist der Meinung, dass ...** — The majority is of the opinion that ... *([[B2-11 Vergleichen und Entwicklungen beschreiben|Mehrheit und Minderheit]] · B2)*
+
 **Source:** Netzwerk neu B1 K7 10a (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Sie lernt seit drei Jahren Violine.
 > *She has been learning the violin for three years.*
 
+**Phrases & Expressions:**
+- **Sie lernt seit drei Jahren Violine** — *She has been learning the violin for three years* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9 ÜB (Blick nach vorn)
 <!-- bank:end -->
 

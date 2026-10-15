@@ -33,6 +33,11 @@ status: "new"
 > Wegen der Trockenheit besteht Waldbrandgefahr.
 > *Because of the dryness there is a danger of forest fires.*
 
+**Phrases & Expressions:**
+- **einen Waldbrand löschen** — *forest fire*
+- **ein Waldbrand bricht aus** — *forest fire*
+- **Gefahr von Waldbränden** — *forest fire*
+
 **Collocations**
 - einen Waldbrand löschen
 - ein Waldbrand bricht aus

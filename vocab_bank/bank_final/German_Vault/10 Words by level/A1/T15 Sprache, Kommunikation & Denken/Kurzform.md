@@ -34,6 +34,9 @@ status: "new"
 > „Info“ ist die Kurzform von „Information“.
 > *“Info” is the short form of “Information”.*
 
+**Phrases & Expressions:**
+- **„Info“ ist die Kurzform von „Information“** — *“Info” is the short form of “Information”* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 5d (Arbeitsalltag)
 <!-- bank:end -->
 

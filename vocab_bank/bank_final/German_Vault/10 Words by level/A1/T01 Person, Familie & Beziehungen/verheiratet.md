@@ -31,6 +31,9 @@ status: "new"
 > Ich bin verheiratet und habe drei Kinder.
 > *I'm married and have three children.*
 
+**Phrases & Expressions:**
+- **Ich bin verheiratet und habe drei Kinder** — *I'm married and have three children* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 8a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

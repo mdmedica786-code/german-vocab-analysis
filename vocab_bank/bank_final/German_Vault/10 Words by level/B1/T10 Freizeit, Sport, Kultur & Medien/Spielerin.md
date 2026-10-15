@@ -34,6 +34,9 @@ status: "new"
 > Die Spielerin hat zwei Tore geschossen.
 > *The player scored two goals.*
 
+**Phrases & Expressions:**
+- **Die Spielerin hat zwei Tore geschossen** — *The player scored two goals* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

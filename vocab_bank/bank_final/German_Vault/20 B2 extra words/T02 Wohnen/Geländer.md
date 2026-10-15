@@ -33,6 +33,11 @@ status: "new"
 > Halten Sie sich bitte am Geländer fest.
 > *Please hold on to the railing.*
 
+**Phrases & Expressions:**
+- **sich am Geländer festhalten** — *railing; banister*
+- **ein Geländer anbringen** — *railing; banister*
+- **das Geländer der Treppe** — *railing; banister*
+
 **Collocations**
 - sich am Geländer festhalten
 - ein Geländer anbringen

@@ -35,6 +35,9 @@ status: "new"
 > Ein Hähnchen mit Pommes bitte!
 > *A chicken with chips, please!*
 
+**Phrases & Expressions:**
+- **Ein Hähnchen mit Pommes bitte** — *A chicken with chips, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 3c ÜB (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > In der Kürze liegt die Würze.
 > *Brevity is the soul of wit.*
 
+**Phrases & Expressions:**
+- **in aller Kürze** — *brevity; shortness*
+- **in Kürze** — *brevity; shortness*
+- **der Kürze halber** — *brevity; shortness*
+
 **Collocations**
 - in aller Kürze
 - in Kürze

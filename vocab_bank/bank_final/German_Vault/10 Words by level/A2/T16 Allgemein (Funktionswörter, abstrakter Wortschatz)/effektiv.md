@@ -30,6 +30,9 @@ status: "new"
 > Diese Methode ist sehr effektiv.
 > *This method is very effective.*
 
+**Phrases & Expressions:**
+- **Diese Methode ist sehr effektiv** — *This method is very effective* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 12b (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

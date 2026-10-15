@@ -34,6 +34,9 @@ status: "new"
 > Die Fahrtzeit beträgt zwei Stunden.
 > *The travel time is two hours.*
 
+**Phrases & Expressions:**
+- **Die Fahrtzeit beträgt zwei Stunden** — *The travel time is two hours* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 7 (Gute Reise!)
 <!-- bank:end -->
 

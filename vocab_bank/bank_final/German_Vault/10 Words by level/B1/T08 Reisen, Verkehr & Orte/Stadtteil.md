@@ -34,6 +34,9 @@ status: "new"
 > Mein Stadtteil ist ruhig und grün.
 > *My part of town is quiet and green.*
 
+**Phrases & Expressions:**
+- **Mein Stadtteil ist ruhig und grün** — *My part of town is quiet and green* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 1b (Kunststücke)
 <!-- bank:end -->
 

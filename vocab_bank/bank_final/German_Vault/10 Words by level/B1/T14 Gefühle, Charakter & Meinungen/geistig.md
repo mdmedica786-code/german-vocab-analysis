@@ -29,6 +29,12 @@ status: "new"
 > Er ist geistig noch sehr fit.
 > *He is still mentally very fit.*
 
+**Phrases & Expressions:**
+- **geistige Gesundheit** — *mental; intellectual*
+- **geistig fit** — *mental; intellectual*
+- **geistige Arbeit** — *mental; intellectual*
+- **geistig behindert** — *mental; intellectual*
+
 **Collocations**
 - geistige Gesundheit
 - geistig fit

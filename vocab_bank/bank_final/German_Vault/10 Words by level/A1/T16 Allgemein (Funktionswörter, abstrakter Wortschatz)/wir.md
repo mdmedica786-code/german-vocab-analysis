@@ -32,6 +32,9 @@ status: "new"
 > Wir lernen Deutsch.
 > **
 
+**Phrases & Expressions:**
+- **Wir lernen Deutsch** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Auf diesem Plan steht nur die Ankunft(-szeit) der Züge.
 > *This timetable only shows the arrival times of the trains.*
 
+**Phrases & Expressions:**
+- **Auf diesem Plan steht nur die Ankunft(-szeit) der Züge** — *This timetable only shows the arrival times of the trains* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 4b ÜB (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->
 

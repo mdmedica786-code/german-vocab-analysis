@@ -34,6 +34,9 @@ status: "new"
 > Die Altstadt ist für Autos gesperrt.
 > *The old town is closed to cars.*
 
+**Phrases & Expressions:**
+- **Die Altstadt ist für Autos gesperrt** — *The old town is closed to cars* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!)
 <!-- bank:end -->
 

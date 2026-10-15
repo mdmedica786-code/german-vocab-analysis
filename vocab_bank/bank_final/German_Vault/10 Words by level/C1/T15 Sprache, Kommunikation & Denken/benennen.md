@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Können Sie die Ursache klar benennen?
 > *Can you clearly name the cause?*
+
+**Phrases & Expressions:**
+- **Können Sie die Ursache klar benennen** — *Can you clearly name the cause* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

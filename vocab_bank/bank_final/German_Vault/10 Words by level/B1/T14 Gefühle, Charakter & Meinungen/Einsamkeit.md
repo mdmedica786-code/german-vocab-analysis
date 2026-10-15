@@ -34,6 +34,9 @@ status: "new"
 > Die Einsamkeit macht ihm zu schaffen.
 > *Loneliness troubles him.*
 
+**Phrases & Expressions:**
+- **Die Einsamkeit macht ihm zu schaffen** — *Loneliness troubles him* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!)
 <!-- bank:end -->
 

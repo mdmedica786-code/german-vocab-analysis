@@ -33,6 +33,9 @@ status: "new"
 > Ich vermisse meine Familie.
 > *I miss my family.*
 
+**Phrases & Expressions:**
+- **Ich vermisse meine Familie** — *I miss my family* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 2a (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

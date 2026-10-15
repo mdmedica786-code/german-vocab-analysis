@@ -33,6 +33,11 @@ status: "new"
 > Das Museumsgebäude wurde vor zwei Jahren renoviert.
 > *The museum building was renovated two years ago.*
 
+**Phrases & Expressions:**
+- **ein modernes Museumsgebäude** — *museum building*
+- **das Museumsgebäude erweitern** — *museum building*
+- **im Museumsgebäude** — *museum building*
+
 **Collocations**
 - ein modernes Museumsgebäude
 - das Museumsgebäude erweitern

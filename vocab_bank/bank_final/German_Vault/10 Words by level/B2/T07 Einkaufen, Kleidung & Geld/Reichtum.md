@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Reichtum macht nicht glücklich.
 > *Wealth does not make you happy.*
+
+**Phrases & Expressions:**
+- **Reichtum macht nicht glücklich** — *Wealth does not make you happy* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

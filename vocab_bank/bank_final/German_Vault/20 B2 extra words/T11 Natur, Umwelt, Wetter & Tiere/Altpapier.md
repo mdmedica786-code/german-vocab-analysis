@@ -33,6 +33,11 @@ status: "new"
 > Das Altpapier wird jeden zweiten Donnerstag abgeholt.
 > *The waste paper is collected every second Thursday.*
 
+**Phrases & Expressions:**
+- **Altpapier sammeln** — *waste paper*
+- **Altpapier entsorgen** — *waste paper*
+- **Altpapier bündeln** — *waste paper*
+
 **Collocations**
 - Altpapier sammeln
 - Altpapier entsorgen

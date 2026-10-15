@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Zugehörigkeit zu einer Gruppe ist wichtig.
 > *A sense of belonging to a group is important.*
+
+**Phrases & Expressions:**
+- **Die Zugehörigkeit zu einer Gruppe ist wichtig** — *A sense of belonging to a group is important* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

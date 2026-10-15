@@ -32,6 +32,11 @@ status: "new"
 > Sie hat sich an der Universität Wien habilitiert.
 > *She qualified as a university lecturer at the University of Vienna.*
 
+**Phrases & Expressions:**
+- **sich habilitieren** — *to qualify as a university lecturer (Habilitation)*
+- **sich an einer Universität habilitieren** — *to qualify as a university lecturer (Habilitation)*
+- **habilitiert sein** — *to qualify as a university lecturer (Habilitation)*
+
 **Collocations**
 - sich habilitieren
 - sich an einer Universität habilitieren

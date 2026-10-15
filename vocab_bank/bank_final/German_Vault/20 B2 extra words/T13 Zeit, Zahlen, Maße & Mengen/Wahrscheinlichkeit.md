@@ -33,6 +33,12 @@ status: "new"
 > Die Wahrscheinlichkeit, dass es regnet, ist hoch.
 > *The probability that it will rain is high.*
 
+**Phrases & Expressions:**
+- **die Wahrscheinlichkeit, dass ...** — the probability that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · C1)*
+- **mit hoher Wahrscheinlichkeit** — *probability; likelihood*
+- **aller Wahrscheinlichkeit nach** — *probability; likelihood*
+- **die Wahrscheinlichkeit, dass** — *probability; likelihood*
+
 **Collocations**
 - mit hoher Wahrscheinlichkeit
 - aller Wahrscheinlichkeit nach

@@ -33,6 +33,11 @@ status: "new"
 > Mein Urlaubsanspruch beträgt 30 Tage pro Jahr.
 > *My holiday entitlement is 30 days per year.*
 
+**Phrases & Expressions:**
+- **den Urlaubsanspruch nutzen** — *holiday entitlement*
+- **Urlaubsanspruch haben** — *holiday entitlement*
+- **verbliebener Urlaubsanspruch** — *holiday entitlement*
+
 **Collocations**
 - den Urlaubsanspruch nutzen
 - Urlaubsanspruch haben

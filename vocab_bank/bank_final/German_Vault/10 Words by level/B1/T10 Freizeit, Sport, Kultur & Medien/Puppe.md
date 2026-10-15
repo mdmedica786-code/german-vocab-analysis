@@ -34,6 +34,9 @@ status: "new"
 > Unsere kleine Tochter bekommt zum Geburtstag eine Puppe.
 > *Our little daughter is getting a doll for her birthday.*
 
+**Phrases & Expressions:**
+- **Unsere kleine Tochter bekommt zum Geburtstag eine Puppe** — *Our little daughter is getting a doll for her birthday* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

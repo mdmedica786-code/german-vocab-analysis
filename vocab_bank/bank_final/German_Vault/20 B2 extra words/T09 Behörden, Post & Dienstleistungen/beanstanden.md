@@ -31,6 +31,10 @@ status: "new"
 > Der Kunde beanstandete die Qualität der Ware.
 > *The customer complained about the quality of the goods.*
 
+**Phrases & Expressions:**
+- **die Qualität beanstanden** — *to complain about; to object to*
+- **eine Rechnung beanstanden** — *to complain about; to object to*
+
 **Collocations**
 - die Qualität beanstanden
 - eine Rechnung beanstanden

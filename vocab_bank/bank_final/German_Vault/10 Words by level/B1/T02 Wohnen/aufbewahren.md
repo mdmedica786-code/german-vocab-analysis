@@ -33,6 +33,9 @@ status: "new"
 > Bewahren Sie das Medikament im Kühlschrank auf.
 > *Store the medicine in the fridge.*
 
+**Phrases & Expressions:**
+- **Bewahren Sie das Medikament im Kühlschrank auf** — *Store the medicine in the fridge* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

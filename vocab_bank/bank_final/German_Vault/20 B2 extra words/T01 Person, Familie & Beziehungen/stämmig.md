@@ -29,6 +29,11 @@ status: "new"
 > Der stämmige Mann trug schwere Kisten.
 > *The sturdy man carried heavy boxes.*
 
+**Phrases & Expressions:**
+- **ein stämmiger Mann** — *stocky; sturdy*
+- **stämmig gebaut** — *stocky; sturdy*
+- **stämmige Beine** — *stocky; sturdy*
+
 **Collocations**
 - ein stämmiger Mann
 - stämmig gebaut

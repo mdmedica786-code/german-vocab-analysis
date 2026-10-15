@@ -33,6 +33,11 @@ status: "new"
 > Die Planung zeugt von großer Weitsicht.
 > *The planning shows great foresight.*
 
+**Phrases & Expressions:**
+- **Weitsicht beweisen** — *foresight*
+- **mit Weitsicht** — *foresight*
+- **politische Weitsicht** — *foresight*
+
 **Collocations**
 - Weitsicht beweisen
 - mit Weitsicht

@@ -35,6 +35,9 @@ status: "new"
 > In diesem Gebäude sind nur Büros.
 > *This building only contains offices.*
 
+**Phrases & Expressions:**
+- **In diesem Gebäude sind nur Büros** — *This building only contains offices* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 8b (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

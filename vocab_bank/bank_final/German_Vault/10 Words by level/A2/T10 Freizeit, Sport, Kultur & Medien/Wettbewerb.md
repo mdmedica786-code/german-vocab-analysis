@@ -35,6 +35,9 @@ status: "new"
 > Mein Sohn hat bei einem Wettbewerb gewonnen.
 > *My son won in a competition.*
 
+**Phrases & Expressions:**
+- **Mein Sohn hat bei einem Wettbewerb gewonnen** — *My son won in a competition* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1b ÜB (Sportlich, sportlich) · Goethe word list A2
 <!-- bank:end -->
 

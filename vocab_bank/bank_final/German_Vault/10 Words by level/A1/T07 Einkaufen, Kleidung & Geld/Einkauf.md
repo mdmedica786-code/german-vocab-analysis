@@ -35,6 +35,9 @@ status: "new"
 > Achten Sie beim Einkauf auf Sonderangebote.
 > *Look out for special offers when shopping.*
 
+**Phrases & Expressions:**
+- **Achten Sie beim Einkauf auf Sonderangebote** — *Look out for special offers when shopping* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 3c (Guten Appetit!) · Goethe word list B1
 <!-- bank:end -->
 

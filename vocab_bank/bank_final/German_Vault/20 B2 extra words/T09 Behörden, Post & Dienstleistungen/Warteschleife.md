@@ -33,6 +33,11 @@ status: "new"
 > Ich hing zehn Minuten in der Warteschleife.
 > *I was on hold for ten minutes.*
 
+**Phrases & Expressions:**
+- **in der Warteschleife hängen** — *queue (on the phone); holding pattern*
+- **in der Warteschleife warten** — *queue (on the phone); holding pattern*
+- **in der Warteschleife sein** — *queue (on the phone); holding pattern*
+
 **Collocations**
 - in der Warteschleife hängen
 - in der Warteschleife warten

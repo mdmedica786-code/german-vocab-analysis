@@ -26,6 +26,10 @@ status: "new"
 > Die Kirche bezog in der Debatte klar Position.
 > *The church clearly took a position in the debate.*
 
+**Phrases & Expressions:**
+- **klare Position beziehen** — *to take a position*
+- **eine Position vertreten** — *to take a position*
+
 **Collocations**
 - klare Position beziehen
 - eine Position vertreten

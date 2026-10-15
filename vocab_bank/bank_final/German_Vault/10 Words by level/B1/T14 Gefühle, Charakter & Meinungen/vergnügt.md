@@ -30,6 +30,9 @@ status: "new"
 > Er kam mit einem vergnügten Grinsen herein.
 > *He came in with a cheerful grin.*
 
+**Phrases & Expressions:**
+- **Er kam mit einem vergnügten Grinsen herein** — *He came in with a cheerful grin* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

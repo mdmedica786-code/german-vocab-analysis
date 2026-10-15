@@ -33,6 +33,11 @@ status: "new"
 > Der Auslöser des Streits war eine Kleinigkeit.
 > *The trigger of the argument was a trifle.*
 
+**Phrases & Expressions:**
+- **der Auslöser für** — *trigger; cause; shutter release*
+- **ein möglicher Auslöser** — *trigger; cause; shutter release*
+- **den Auslöser drücken** — *trigger; cause; shutter release*
+
 **Collocations**
 - der Auslöser für
 - ein möglicher Auslöser

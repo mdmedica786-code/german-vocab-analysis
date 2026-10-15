@@ -35,6 +35,14 @@ status: "new"
 > Am Ende des Satzes steht ein Punkt.
 > *There is a period at the end of the sentence.*
 
+**Phrases & Expressions:**
+- **Ein weiterer Punkt ist ...** — Another point is ... *([[B1-03 Argumentieren, begründen und Beispiele nennen|Argumente aufzählen]] · B1)*
+- **Damit komme ich zum nächsten Punkt: ...** — This brings me to the next point: ... *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Übergang gestalten]] · B1)*
+- **Das waren meine wichtigsten Punkte.** — Those were my most important points. *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Schluss gestalten]] · B1)*
+- **Zum Schluss fasse ich die wichtigsten Punkte zusammen.** — Finally I will summarise the most important points. *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Aufbau ankündigen]] · B2)*
+- **Damit komme ich zu meinem nächsten Punkt.** — With that I come to my next point. *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Übergang gestalten]] · B2)*
+- **In diesem Punkt gebe ich Ihnen recht, aber ...** — On this point I agree with you, but ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Teilweise zustimmen]] · B2)*
+
 **Collocations**
 - der Punkt am Satzende
 - einen Punkt setzen

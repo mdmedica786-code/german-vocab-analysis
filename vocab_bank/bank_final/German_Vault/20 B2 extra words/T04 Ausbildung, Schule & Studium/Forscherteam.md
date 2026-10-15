@@ -33,6 +33,11 @@ status: "new"
 > Ein internationales Forscherteam hat die Studie durchgeführt.
 > *An international research team carried out the study.*
 
+**Phrases & Expressions:**
+- **ein Forscherteam leiten** — *research team*
+- **ein internationales Forscherteam** — *research team*
+- **das Forscherteam arbeitet** — *research team*
+
 **Collocations**
 - ein Forscherteam leiten
 - ein internationales Forscherteam

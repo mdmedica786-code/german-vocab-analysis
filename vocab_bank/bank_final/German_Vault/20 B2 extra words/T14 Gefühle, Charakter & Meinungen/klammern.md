@@ -32,6 +32,11 @@ status: "new"
 > Das Kind klammerte sich an die Hand seiner Mutter.
 > *The child clung to its mother's hand.*
 
+**Phrases & Expressions:**
+- **sich an etwas klammern** — *to cling*
+- **sich an jemanden klammern** — *to cling*
+- **sich an eine Hoffnung klammern** — *to cling*
+
 **Collocations**
 - sich an etwas klammern
 - sich an jemanden klammern

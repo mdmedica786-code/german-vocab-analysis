@@ -33,6 +33,11 @@ status: "new"
 > In dieser Region gibt es viele alte Bräuche.
 > *In this region there are many old customs.*
 
+**Phrases & Expressions:**
+- **ein alter Brauch** — *custom; tradition*
+- **einen Brauch pflegen** — *custom; tradition*
+- **Sitten und Bräuche** — *custom; tradition*
+
 **Collocations**
 - ein alter Brauch
 - einen Brauch pflegen

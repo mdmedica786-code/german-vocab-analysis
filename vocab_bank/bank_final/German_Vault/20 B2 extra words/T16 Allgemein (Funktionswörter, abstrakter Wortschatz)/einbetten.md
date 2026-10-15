@@ -32,6 +32,11 @@ status: "new"
 > Das Video ist in die Webseite eingebettet.
 > *The video is embedded in the website.*
 
+**Phrases & Expressions:**
+- **in etwas einbetten** — *to embed; to place in context*
+- **in einen Kontext einbetten** — *to embed; to place in context*
+- **ein Video einbetten** — *to embed; to place in context*
+
 **Collocations**
 - in etwas einbetten
 - in einen Kontext einbetten

@@ -35,6 +35,9 @@ status: "new"
 > Hast du schon den Wetterbericht gehört?
 > *Have you heard the weather report yet?*
 
+**Phrases & Expressions:**
+- **Hast du schon den Wetterbericht gehört** — *Have you heard the weather report yet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 11b (Ab in den Urlaub!) · Goethe word list B1
 <!-- bank:end -->
 

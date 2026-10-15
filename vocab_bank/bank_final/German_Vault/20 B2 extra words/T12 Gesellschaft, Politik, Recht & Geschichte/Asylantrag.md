@@ -33,6 +33,11 @@ status: "new"
 > Sein Asylantrag wurde nach drei Monaten bewilligt.
 > *His asylum application was approved after three months.*
 
+**Phrases & Expressions:**
+- **einen Asylantrag stellen** — *asylum application*
+- **einen Asylantrag ablehnen** — *asylum application*
+- **den Asylantrag prüfen** — *asylum application*
+
 **Collocations**
 - einen Asylantrag stellen
 - einen Asylantrag ablehnen

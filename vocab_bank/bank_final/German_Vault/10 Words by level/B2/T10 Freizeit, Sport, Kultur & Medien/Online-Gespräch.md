@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Wir führen das Online-Gespräch um zehn Uhr.
 > *We are holding the online conversation at ten o'clock.*
+
+**Phrases & Expressions:**
+- **Wir führen das Online-Gespräch um zehn Uhr** — *We are holding the online conversation at ten o'clock* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

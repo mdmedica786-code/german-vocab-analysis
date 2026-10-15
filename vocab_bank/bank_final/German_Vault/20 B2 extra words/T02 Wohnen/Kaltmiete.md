@@ -33,6 +33,11 @@ status: "new"
 > Die Kaltmiete liegt bei 600 Euro, dazu kommen die Nebenkosten.
 > *The basic rent is 600 euros; utilities come on top.*
 
+**Phrases & Expressions:**
+- **die Kaltmiete erhöhen** — *basic rent (excluding utilities)*
+- **Kaltmiete pro Quadratmeter** — *basic rent (excluding utilities)*
+- **eine günstige Kaltmiete** — *basic rent (excluding utilities)*
+
 **Collocations**
 - die Kaltmiete erhöhen
 - Kaltmiete pro Quadratmeter

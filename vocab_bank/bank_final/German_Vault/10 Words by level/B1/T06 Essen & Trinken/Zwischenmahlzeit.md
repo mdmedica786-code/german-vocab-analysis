@@ -34,6 +34,9 @@ status: "new"
 > Als Zwischenmahlzeit esse ich einen Apfel.
 > *As a snack I eat an apple.*
 
+**Phrases & Expressions:**
+- **Als Zwischenmahlzeit esse ich einen Apfel** — *As a snack I eat an apple* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist)
 <!-- bank:end -->
 

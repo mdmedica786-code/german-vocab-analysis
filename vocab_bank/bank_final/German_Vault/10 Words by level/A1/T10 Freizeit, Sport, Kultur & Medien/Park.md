@@ -35,6 +35,9 @@ status: "new"
 > Ich gehe gern im Park spazieren.
 > *I like going for walks in the park.*
 
+**Phrases & Expressions:**
+- **Das Haus steht direkt neben dem Park.** — The house stands right next to the park. *([[B1-19 Beschreiben - Personen, Orte, Dinge, Abläufe|Ort beschreiben]] · B1)*
+
 **Source:** Netzwerk neu A1 K3 8 (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

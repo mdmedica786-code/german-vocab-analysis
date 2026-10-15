@@ -33,6 +33,11 @@ status: "new"
 > Räucherlachs mit Meerrettich ist ein beliebtes Gericht.
 > *Smoked salmon with horseradish is a popular dish.*
 
+**Phrases & Expressions:**
+- **geräucherter Lachs** — *salmon*
+- **Lachs mit Dill** — *salmon*
+- **Lachs angeln** — *salmon*
+
 **Collocations**
 - geräucherter Lachs
 - Lachs mit Dill

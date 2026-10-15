@@ -31,6 +31,11 @@ status: "new"
 > Das Kind zappelt ständig auf dem Stuhl herum.
 > *The child keeps fidgeting around on the chair.*
 
+**Phrases & Expressions:**
+- **mit den Beinen zappeln** — *to fidget; to wriggle*
+- **ein zappelndes Kind** — *to fidget; to wriggle*
+- **herumzappeln** — *to fidget; to wriggle*
+
 **Collocations**
 - mit den Beinen zappeln
 - ein zappelndes Kind

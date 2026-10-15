@@ -31,6 +31,9 @@ status: "new"
 > Mit dem Gebärdentelefon können Gehörlose telefonieren.
 > *With the sign language telephone deaf people can make calls.*
 
+**Phrases & Expressions:**
+- **Mit dem Gebärdentelefon können Gehörlose telefonieren** — *With the sign language telephone deaf people can make calls* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

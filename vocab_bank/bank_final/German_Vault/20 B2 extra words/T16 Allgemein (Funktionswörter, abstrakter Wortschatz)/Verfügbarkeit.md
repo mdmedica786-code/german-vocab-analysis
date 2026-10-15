@@ -33,6 +33,11 @@ status: "new"
 > Prüfen Sie bitte die Verfügbarkeit des Artikels.
 > *Please check the availability of the item.*
 
+**Phrases & Expressions:**
+- **die Verfügbarkeit prüfen** — *availability*
+- **eine hohe Verfügbarkeit** — *availability*
+- **die Verfügbarkeit von Medikamenten** — *availability*
+
 **Collocations**
 - die Verfügbarkeit prüfen
 - eine hohe Verfügbarkeit

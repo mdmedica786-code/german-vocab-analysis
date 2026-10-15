@@ -26,6 +26,10 @@ status: "new"
 > Sie nahm ihren Kollegen vor den Vorwürfen in Schutz.
 > *She defended her colleague against the accusations.*
 
+**Phrases & Expressions:**
+- **jemanden in Schutz nehmen** — *to defend; to stand up for*
+- **vor Kritik in Schutz nehmen** — *to defend; to stand up for*
+
 **Collocations**
 - jemanden in Schutz nehmen
 - vor Kritik in Schutz nehmen

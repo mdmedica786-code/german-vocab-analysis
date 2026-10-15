@@ -33,6 +33,12 @@ status: "new"
 > Die Anforderungen an Ärzte sind hoch.
 > *The requirements for doctors are high.*
 
+**Phrases & Expressions:**
+- **hohe Anforderungen** — *requirement; demand*
+- **Anforderungen erfüllen** — *requirement; demand*
+- **den Anforderungen entsprechen** — *requirement; demand*
+- **Anforderungen stellen** — *requirement; demand*
+
 **Collocations**
 - hohe Anforderungen
 - Anforderungen erfüllen

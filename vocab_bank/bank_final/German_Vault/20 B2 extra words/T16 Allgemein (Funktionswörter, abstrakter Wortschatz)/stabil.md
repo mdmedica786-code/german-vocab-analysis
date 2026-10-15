@@ -29,6 +29,12 @@ status: "new"
 > Der Tisch ist sehr stabil.
 > *The table is very sturdy.*
 
+**Phrases & Expressions:**
+- **Bei der Aufnahme war der Patient hämodynamisch stabil.** — On admission the patient was haemodynamically stable. *([[FSP-18 Arzt-Arzt-Gespräch - Patientenvorstellung|Befund berichten]] · C1)*
+- **stabil bleiben** — *stable; sturdy*
+- **eine stabile Währung** — *stable; sturdy*
+- **ein stabiler Zustand** — *stable; sturdy*
+
 **Collocations**
 - stabil bleiben
 - eine stabile Währung

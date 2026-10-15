@@ -31,6 +31,11 @@ status: "new"
 > Sie verdrehte genervt die Augen.
 > *She rolled her eyes, annoyed.*
 
+**Phrases & Expressions:**
+- **die Augen verdrehen** — *to twist; to distort; to roll (eyes)*
+- **die Tatsachen verdrehen** — *to twist; to distort; to roll (eyes)*
+- **den Kopf verdrehen** — *to twist; to distort; to roll (eyes)*
+
 **Collocations**
 - die Augen verdrehen
 - die Tatsachen verdrehen

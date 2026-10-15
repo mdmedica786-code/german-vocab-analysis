@@ -35,6 +35,9 @@ status: "new"
 > Mein Großvater ist schon 80.
 > *My grandfather is already 80.*
 
+**Phrases & Expressions:**
+- **Mein Großvater ist schon 80** — *My grandfather is already 80* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 8a ÜB (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Alarmanlage geht nachts an.
 > *The alarm system switches on at night.*
 
+**Phrases & Expressions:**
+- **Die Alarmanlage geht nachts an** — *The alarm system switches on at night* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 6b (Das ist ja praktisch!)
 <!-- bank:end -->
 

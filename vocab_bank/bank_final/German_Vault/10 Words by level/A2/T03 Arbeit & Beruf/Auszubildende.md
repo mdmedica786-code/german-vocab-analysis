@@ -36,6 +36,9 @@ status: "new"
 > Die Auszubildende lernt im ersten Lehrjahr.
 > *The trainee is in her first year of training.*
 
+**Phrases & Expressions:**
+- **Die Auszubildende lernt im ersten Lehrjahr** — *The trainee is in her first year of training* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 1a ÜB (Nach der Schulzeit) · Goethe word list A2
 <!-- bank:end -->
 

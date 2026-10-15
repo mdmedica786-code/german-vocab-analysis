@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Zum Jubiläum trinken wir Champagner.
 > *We drink champagne for the anniversary.*
+
+**Phrases & Expressions:**
+- **Zum Jubiläum trinken wir Champagner** — *We drink champagne for the anniversary* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

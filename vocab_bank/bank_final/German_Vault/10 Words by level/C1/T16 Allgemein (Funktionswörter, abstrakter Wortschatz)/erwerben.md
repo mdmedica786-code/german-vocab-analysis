@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Sie hat in Deutschland ihren Abschluss erworben.
 > *She acquired her degree in Germany.*
+
+**Phrases & Expressions:**
+- **Sie hat in Deutschland ihren Abschluss erworben** — *She acquired her degree in Germany* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

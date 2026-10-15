@@ -29,6 +29,11 @@ status: "new"
 > Er wanderte ruhelos durch die Wohnung.
 > *He wandered restlessly through the flat.*
 
+**Phrases & Expressions:**
+- **ruhelos umherirren** — *restless*
+- **ruhelos sein** — *restless*
+- **ein ruheloses Leben** — *restless*
+
 **Collocations**
 - ruhelos umherirren
 - ruhelos sein

@@ -33,6 +33,11 @@ status: "new"
 > Das Portal bietet viele Informationen für Studenten.
 > *The portal offers a lot of information for students.*
 
+**Phrases & Expressions:**
+- **ein Portal nutzen** — *portal; (web) platform*
+- **ein Online-Portal** — *portal; (web) platform*
+- **sich im Portal anmelden** — *portal; (web) platform*
+
 **Collocations**
 - ein Portal nutzen
 - ein Online-Portal

@@ -35,6 +35,9 @@ status: "new"
 > Haben Sie nicht das Schild gesehen?
 > *Didn't you see the sign?*
 
+**Phrases & Expressions:**
+- **Haben Sie nicht das Schild gesehen** — *Didn't you see the sign* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 11b ÜB (Die Jacke gefällt mir!) · Goethe word list A1
 <!-- bank:end -->
 

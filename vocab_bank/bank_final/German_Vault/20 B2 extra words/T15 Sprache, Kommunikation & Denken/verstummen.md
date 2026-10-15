@@ -31,6 +31,11 @@ status: "new"
 > Als der Lehrer eintrat, verstummte das Gespräch.
 > *When the teacher came in, the conversation fell silent.*
 
+**Phrases & Expressions:**
+- **plötzlich verstummen** — *to fall silent*
+- **das Gespräch verstummt** — *to fall silent*
+- **vor Schreck verstummen** — *to fall silent*
+
 **Collocations**
 - plötzlich verstummen
 - das Gespräch verstummt

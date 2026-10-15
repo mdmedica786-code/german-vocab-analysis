@@ -30,6 +30,9 @@ status: "new"
 > Heute ist ein besonderer Tag.
 > *Today is a special day.*
 
+**Phrases & Expressions:**
+- **In der Nacht gab es keine besonderen Vorkommnisse.** — There were no particular incidents during the night. *([[FSP-19 Übergabe, Konsil und Rücksprache|Schichtübergabe]] · B2)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Zum Geburtstag backe ich dir eine Torte.
 > *I'll bake you a cake for your birthday.*
 
+**Phrases & Expressions:**
+- **Zum Geburtstag backe ich dir eine Torte** — *I'll bake you a cake for your birthday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 5a (Zusammen leben) · Goethe word list A2
 <!-- bank:end -->
 

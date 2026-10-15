@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Feder des Vogels ist blau.
 > *The bird's feather is blue.*
+
+**Phrases & Expressions:**
+- **Die Feder des Vogels ist blau** — *The bird's feather is blue* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

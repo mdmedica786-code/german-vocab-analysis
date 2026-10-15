@@ -34,6 +34,9 @@ status: "new"
 > Die Windturbine liefert Strom für 500 Haushalte.
 > *The wind turbine supplies electricity for 500 households.*
 
+**Phrases & Expressions:**
+- **Die Windturbine liefert Strom für 500 Haushalte** — *The wind turbine supplies electricity for 500 households* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

@@ -30,6 +30,9 @@ status: "new"
 > Er ist ein argentinischer Arzt.
 > *He is an Argentine doctor.*
 
+**Phrases & Expressions:**
+- **Er ist ein argentinischer Arzt** — *He is an Argentine doctor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 7a (Arbeitsalltag)
 <!-- bank:end -->
 

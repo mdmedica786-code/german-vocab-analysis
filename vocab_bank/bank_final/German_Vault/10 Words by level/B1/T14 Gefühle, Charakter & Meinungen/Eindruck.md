@@ -35,6 +35,12 @@ status: "new"
 > Mach einen guten Eindruck auf den Arbeitgeber.
 > *Make a good impression on your employer.*
 
+**Phrases & Expressions:**
+- **den Eindruck haben, dass ...** — to have the impression that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **ich hatte den Eindruck, dass ...** — I had the impression that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · B2)*
+- **Ich habe den Eindruck, dass ...** — I have the impression that ... *([[B1-01 Meinung äußern|Eindruck schildern]] · B1)*
+- **Ich habe den Eindruck, dass ich nicht gehört werde.** — I have the impression that I am not being listened to. *([[B2-12 Höflichkeit und Diplomatie - Kritik und Ablehnung abmildern|Ich-Botschaft]] · B2)*
+
 **Source:** Netzwerk neu B1 K4 10a (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Zum Frühstück esse ich gern Vollkornbrot mit Käse.
 > *For breakfast I like to eat wholemeal bread with cheese.*
 
+**Phrases & Expressions:**
+- **Vollkornbrot essen** — *wholemeal bread*
+- **eine Scheibe Vollkornbrot** — *wholemeal bread*
+- **Vollkornbrot backen** — *wholemeal bread*
+
 **Collocations**
 - Vollkornbrot essen
 - eine Scheibe Vollkornbrot

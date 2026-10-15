@@ -34,6 +34,9 @@ status: "new"
 > Der Passivsatz betont die Handlung.
 > *The passive sentence emphasises the action.*
 
+**Phrases & Expressions:**
+- **Der Passivsatz betont die Handlung** — *The passive sentence emphasises the action* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 4a (Miteinander)
 <!-- bank:end -->
 

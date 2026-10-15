@@ -31,6 +31,12 @@ status: "new"
 > Wir suchen eine Zweizimmerwohnung in zentraler Lage.
 > *We are looking for a two-room flat in a central location.*
 
+**Phrases & Expressions:**
+- **zentral gelegen** — *central*
+- **zentrale Lage** — *central*
+- **ein zentrales Thema** — *central*
+- **zentral wohnen** — *central*
+
 **Collocations**
 - zentral gelegen
 - zentrale Lage

@@ -34,6 +34,9 @@ status: "new"
 > Sie ist ein Jahr in Elternzeit.
 > *She is on parental leave for a year.*
 
+**Phrases & Expressions:**
+- **Sie ist ein Jahr in Elternzeit** — *She is on parental leave for a year* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 8b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

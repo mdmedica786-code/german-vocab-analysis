@@ -26,6 +26,11 @@ status: "new"
 > Wir müssen bis Freitag eine Entscheidung treffen.
 > *We have to make a decision by Friday.*
 
+**Phrases & Expressions:**
+- **eine Wahl treffen** — *to make a decision*
+- **eine Auswahl treffen** — *to make a decision*
+- **eine Entscheidung fällen** — *to make a decision*
+
 **Collocations**
 - eine Wahl treffen
 - eine Auswahl treffen

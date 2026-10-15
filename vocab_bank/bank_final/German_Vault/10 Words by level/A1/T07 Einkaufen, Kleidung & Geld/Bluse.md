@@ -35,6 +35,9 @@ status: "new"
 > Ich suche eine weiße Bluse.
 > *I'm looking for a white blouse.*
 
+**Phrases & Expressions:**
+- **Ich suche eine weiße Bluse** — *I'm looking for a white blouse* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 2a ÜB (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Das Gericht entschied auf Freispruch.
 > *The court decided on acquittal.*
 
+**Phrases & Expressions:**
+- **auf Freispruch plädieren** — *acquittal*
+- **ein Freispruch erster Klasse** — *acquittal*
+- **Freispruch mangels Beweisen** — *acquittal*
+
 **Collocations**
 - auf Freispruch plädieren
 - ein Freispruch erster Klasse

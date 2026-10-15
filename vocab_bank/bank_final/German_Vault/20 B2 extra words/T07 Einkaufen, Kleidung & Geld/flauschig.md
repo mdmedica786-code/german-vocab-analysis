@@ -29,6 +29,11 @@ status: "new"
 > Die Decke ist schön flauschig und warm.
 > *The blanket is nice and fluffy and warm.*
 
+**Phrases & Expressions:**
+- **ein flauschiger Pullover** — *fluffy; soft*
+- **flauschig weich** — *fluffy; soft*
+- **eine flauschige Decke** — *fluffy; soft*
+
 **Collocations**
 - ein flauschiger Pullover
 - flauschig weich

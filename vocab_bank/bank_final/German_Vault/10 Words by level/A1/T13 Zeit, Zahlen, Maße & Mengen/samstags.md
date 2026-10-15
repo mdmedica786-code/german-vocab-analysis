@@ -31,6 +31,9 @@ status: "new"
 > Samstags gehe ich auf den Markt.
 > *On Saturdays I go to the market.*
 
+**Phrases & Expressions:**
+- **Samstags gehe ich auf den Markt** — *On Saturdays I go to the market* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 7a (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->
 

@@ -31,6 +31,9 @@ status: "new"
 > Bitte kommen Sie schnell. Es ist dringend.
 > *Please come quickly. It is urgent.*
 
+**Phrases & Expressions:**
+- **Das ist dringend, bitte kommen Sie sofort.** — This is urgent; please come immediately. *([[FSP-19 Übergabe, Konsil und Rücksprache|Dringlichkeit ausdrücken]] · B2)*
+
 **Source:** Netzwerk neu A2 K5 2a (Leben in der Stadt) · Goethe word list A2
 <!-- bank:end -->
 

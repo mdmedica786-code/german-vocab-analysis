@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Das Haus ist mein Eigentum.
 > *The house is my property.*
+
+**Phrases & Expressions:**
+- **Das Haus ist mein Eigentum** — *The house is my property* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

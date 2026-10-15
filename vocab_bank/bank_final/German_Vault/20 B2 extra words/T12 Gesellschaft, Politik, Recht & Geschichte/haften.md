@@ -32,6 +32,11 @@ status: "new"
 > Eltern haften für ihre Kinder nicht immer.
 > *Parents are not always liable for their children.*
 
+**Phrases & Expressions:**
+- **für Schäden haften** — *to be liable; to stick*
+- **persönlich haften** — *to be liable; to stick*
+- **an etwas haften** — *to be liable; to stick*
+
 **Collocations**
 - für Schäden haften
 - persönlich haften

@@ -33,6 +33,11 @@ status: "new"
 > Am Wochenende fahren wir in einen Freizeitpark.
 > *At the weekend we are going to an amusement park.*
 
+**Phrases & Expressions:**
+- **in den Freizeitpark gehen** — *amusement park; theme park*
+- **ein Freizeitpark für Familien** — *amusement park; theme park*
+- **einen Freizeitpark besuchen** — *amusement park; theme park*
+
 **Collocations**
 - in den Freizeitpark gehen
 - ein Freizeitpark für Familien

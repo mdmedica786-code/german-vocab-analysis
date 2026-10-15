@@ -35,6 +35,9 @@ status: "new"
 > Ich trinke gern Cola mit Eis.
 > *I like drinking cola with ice.*
 
+**Phrases & Expressions:**
+- **Ich trinke gern Cola mit Eis** — *I like drinking cola with ice* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list B1
 <!-- bank:end -->
 

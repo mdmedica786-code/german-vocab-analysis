@@ -29,6 +29,11 @@ status: "new"
 > Er trat dicht an sie heran.
 > *He stepped up close to her.*
 
+**Phrases & Expressions:**
+- **an etwas heran** — *up to; towards (the speaker)*
+- **immer näher heran** — *up to; towards (the speaker)*
+- **nah heran** — *up to; towards (the speaker)*
+
 **Collocations**
 - an etwas heran
 - immer näher heran

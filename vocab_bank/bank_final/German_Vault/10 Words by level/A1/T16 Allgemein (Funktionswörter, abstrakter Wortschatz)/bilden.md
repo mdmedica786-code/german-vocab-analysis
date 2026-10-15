@@ -32,6 +32,9 @@ status: "new"
 > Bilden Sie drei Gruppen.
 > *Form three groups.*
 
+**Phrases & Expressions:**
+- **Bilden Sie drei Gruppen** — *Form three groups* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 3 (In Hamburg)
 <!-- bank:end -->
 

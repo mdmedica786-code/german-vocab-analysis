@@ -33,6 +33,11 @@ status: "new"
 > Auf die richtige Zeichensetzung muss man beim Schreiben achten.
 > *You must pay attention to correct punctuation when writing.*
 
+**Phrases & Expressions:**
+- **Regeln der Zeichensetzung** — *punctuation*
+- **Fehler in der Zeichensetzung** — *punctuation*
+- **Zeichensetzung beachten** — *punctuation*
+
 **Collocations**
 - Regeln der Zeichensetzung
 - Fehler in der Zeichensetzung

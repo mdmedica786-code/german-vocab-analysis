@@ -34,6 +34,9 @@ status: "new"
 > Der Kurs ist für alle Altersgruppen.
 > *The course is for all age groups.*
 
+**Phrases & Expressions:**
+- **Der Kurs ist für alle Altersgruppen** — *The course is for all age groups* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 13a (Rund um Körper und Geist)
 <!-- bank:end -->
 

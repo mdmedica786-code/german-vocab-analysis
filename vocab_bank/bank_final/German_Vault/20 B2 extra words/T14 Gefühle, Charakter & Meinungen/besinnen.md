@@ -32,6 +32,11 @@ status: "new"
 > Wir sollten uns auf unsere Stärken besinnen.
 > *We should reflect on our strengths.*
 
+**Phrases & Expressions:**
+- **sich besinnen auf** — *to reflect; to remember*
+- **sich anders besinnen** — *to reflect; to remember*
+- **sich eines Besseren besinnen** — *to reflect; to remember*
+
 **Collocations**
 - sich besinnen auf
 - sich anders besinnen

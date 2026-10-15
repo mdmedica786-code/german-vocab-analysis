@@ -33,6 +33,11 @@ status: "new"
 > Die Nazis kamen 1933 an die Macht.
 > *The Nazis came to power in 1933.*
 
+**Phrases & Expressions:**
+- **die Nazis** — *Nazi*
+- **gegen die Nazis kämpfen** — *Nazi*
+- **Nazis und Widerstand** — *Nazi*
+
 **Collocations**
 - die Nazis
 - gegen die Nazis kämpfen

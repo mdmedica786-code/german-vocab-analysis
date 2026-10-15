@@ -34,6 +34,9 @@ status: "new"
 > Ist das ein privater Telefonanbieter?
 > *Is that a private telephone provider?*
 
+**Phrases & Expressions:**
+- **Ist das ein privater Telefonanbieter** — *Is that a private telephone provider* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

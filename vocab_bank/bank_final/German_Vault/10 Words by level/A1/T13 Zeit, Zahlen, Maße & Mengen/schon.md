@@ -32,6 +32,14 @@ status: "new"
 > Da ist auch schon das Hotel.
 > *There is the hotel already.*
 
+**Phrases & Expressions:**
+- **und schon gar nicht** — and certainly not *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · C1)*
+- **schon lange nicht mehr** — not for a long time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B2)*
+- **schon einmal** — once already; ever *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+- **schon lange** — for a long time *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+- **schon gut** — it's all right; never mind *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B1)*
+- **schon bald** — very soon *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · A2)*
+
 **Source:** Netzwerk neu A1 K3 2b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

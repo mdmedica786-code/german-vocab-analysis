@@ -33,6 +33,13 @@ status: "new"
 > Ich bin ganz überrascht, dass die Wohnung so billig ist.
 > *I'm very surprised that the flat is so cheap.*
 
+**Phrases & Expressions:**
+- **Ich bin überrascht, dass ...** — I am surprised that ... *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Überraschung ausdrücken]] · B1)*
+- **jemanden überraschen** — *to surprise*
+- **angenehm überrascht** — *to surprise*
+- **von etwas überrascht werden** — *to surprise*
+- **überraschend kommen** — *to surprise*
+
 **Collocations**
 - jemanden überraschen
 - angenehm überrascht

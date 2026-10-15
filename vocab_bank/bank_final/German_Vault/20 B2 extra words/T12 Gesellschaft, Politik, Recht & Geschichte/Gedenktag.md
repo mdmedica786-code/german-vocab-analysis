@@ -33,6 +33,11 @@ status: "new"
 > Der 27. Januar ist der Gedenktag für die Opfer des Nationalsozialismus.
 > *January 27 is the day of remembrance for the victims of National Socialism.*
 
+**Phrases & Expressions:**
+- **einen Gedenktag begehen** — *day of remembrance*
+- **nationaler Gedenktag** — *day of remembrance*
+- **Gedenktag für die Opfer** — *day of remembrance*
+
 **Collocations**
 - einen Gedenktag begehen
 - nationaler Gedenktag

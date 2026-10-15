@@ -35,6 +35,9 @@ status: "new"
 > Sie können bar oder per Überweisung bezahlen.
 > *You can pay in cash or by bank transfer.*
 
+**Phrases & Expressions:**
+- **Mit dieser Überweisung können Sie einen Termin vereinbaren.** — With this referral you can make an appointment. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Überweisung]] · B1)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!) · Goethe word list B1
 <!-- bank:end -->
 

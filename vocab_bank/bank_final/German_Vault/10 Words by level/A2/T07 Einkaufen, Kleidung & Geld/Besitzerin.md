@@ -34,6 +34,9 @@ status: "new"
 > Die Besitzerin des Cafés kennt alle Gäste.
 > *The owner of the café knows all the guests.*
 
+**Phrases & Expressions:**
+- **Die Besitzerin des Cafés kennt alle Gäste** — *The owner of the café knows all the guests* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 12a (Zusammen leben)
 <!-- bank:end -->
 

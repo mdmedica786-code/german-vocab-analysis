@@ -35,6 +35,9 @@ status: "new"
 > Meine Pullover kaufe ich immer im Kaufhaus Hertie.
 > *I always buy my sweaters at the Hertie department store.*
 
+**Phrases & Expressions:**
+- **Meine Pullover kaufe ich immer im Kaufhaus Hertie** — *I always buy my sweaters at the Hertie department store* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 1 ÜB (Studium und Beruf) · Goethe word list A2
 <!-- bank:end -->
 

@@ -34,6 +34,10 @@ status: "new"
 > Hör mir doch mal zu! Ich rede mit dir.
 > *Do listen to me! I'm talking to you.*
 
+**Phrases & Expressions:**
+- **Während ich koche, hört mein Mann ...** — While I cook, my husband listens to ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Zeit: gleichzeitig]] · B1)*
+- **Über dem Herzen hört man ein Systolikum.** — A systolic murmur can be heard over the heart. *([[FSP-08 Befunde beschreiben und berichten|Auskultation]] · C1)*
+
 **Source:** Netzwerk neu A2 K1 10b (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

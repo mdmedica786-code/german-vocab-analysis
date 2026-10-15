@@ -30,6 +30,9 @@ status: "new"
 > Der Bleistift ist nicht spitz.
 > *The pencil is not sharp.*
 
+**Phrases & Expressions:**
+- **Der Bleistift ist nicht spitz** — *The pencil is not sharp* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

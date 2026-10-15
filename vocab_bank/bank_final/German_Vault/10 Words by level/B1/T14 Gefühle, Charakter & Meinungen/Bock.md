@@ -30,6 +30,9 @@ status: "new"
 > Ich habe keinen Bock auf Hausaufgaben.
 > *I don't feel like doing homework.*
 
+**Phrases & Expressions:**
+- **Ich habe keinen Bock auf Hausaufgaben** — *I don't feel like doing homework* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 9a (Gute Reise!)
 <!-- bank:end -->
 

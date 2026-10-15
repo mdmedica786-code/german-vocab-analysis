@@ -34,6 +34,9 @@ status: "new"
 > Zum Frühstück esse ich eine Apfelsine.
 > *For breakfast I eat an orange.*
 
+**Phrases & Expressions:**
+- **Zum Frühstück esse ich eine Apfelsine** — *For breakfast I eat an orange* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander)
 <!-- bank:end -->
 

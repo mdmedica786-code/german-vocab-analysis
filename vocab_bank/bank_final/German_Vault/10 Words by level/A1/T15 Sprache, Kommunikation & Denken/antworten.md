@@ -34,6 +34,10 @@ status: "new"
 > Er antwortet nicht.
 > *He doesn't answer.*
 
+**Phrases & Expressions:**
+- **Ich habe den Beitrag von ... gelesen und möchte darauf antworten.** — I have read the post by ... and would like to reply. *([[B1-14 Forumsbeitrag und Leserbrief schreiben|Bezug nehmen]] · B1)*
+- **Auf die Frage, ob ..., möchte ich antworten, dass ...** — To the question of whether ..., I would like to answer that ... *([[B1-14 Forumsbeitrag und Leserbrief schreiben|Bezug nehmen]] · B1)*
+
 **Source:** Netzwerk neu A1 K2 2b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

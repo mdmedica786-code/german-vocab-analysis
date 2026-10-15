@@ -31,6 +31,11 @@ status: "new"
 > Sie summt leise eine Melodie vor sich hin.
 > *She hums a melody quietly to herself.*
 
+**Phrases & Expressions:**
+- **eine Melodie summen** — *to hum; to buzz*
+- **die Bienen summen** — *to hum; to buzz*
+- **vor sich hin summen** — *to hum; to buzz*
+
 **Collocations**
 - eine Melodie summen
 - die Bienen summen

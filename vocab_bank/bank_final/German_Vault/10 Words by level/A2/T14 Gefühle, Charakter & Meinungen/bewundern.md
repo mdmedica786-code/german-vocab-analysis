@@ -32,6 +32,9 @@ status: "new"
 > Ich bewundere ihren Mut.
 > *I admire her courage.*
 
+**Phrases & Expressions:**
+- **Ich bewundere ihren Mut** — *I admire her courage* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 10a (Große und kleine Gefühle)
 <!-- bank:end -->
 

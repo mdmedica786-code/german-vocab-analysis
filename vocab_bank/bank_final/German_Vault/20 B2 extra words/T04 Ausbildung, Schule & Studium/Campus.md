@@ -33,6 +33,11 @@ status: "new"
 > Die Mensa liegt mitten auf dem Campus.
 > *The canteen is in the middle of the campus.*
 
+**Phrases & Expressions:**
+- **auf dem Campus** — *campus*
+- **der Campus der Universität** — *campus*
+- **ein grüner Campus** — *campus*
+
 **Collocations**
 - auf dem Campus
 - der Campus der Universität

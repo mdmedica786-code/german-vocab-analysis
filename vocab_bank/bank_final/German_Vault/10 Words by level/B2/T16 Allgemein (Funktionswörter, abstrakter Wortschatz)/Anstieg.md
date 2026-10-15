@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Anstieg der Preise macht mir Sorgen.
 > *The rise in prices worries me.*
+
+**Phrases & Expressions:**
+- **Der Anstieg der Preise macht mir Sorgen** — *The rise in prices worries me* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

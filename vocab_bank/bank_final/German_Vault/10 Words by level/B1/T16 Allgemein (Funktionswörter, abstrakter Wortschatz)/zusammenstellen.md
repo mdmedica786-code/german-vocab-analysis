@@ -33,6 +33,14 @@ status: "new"
 > Sie stellt die Unterlagen für die Bewerbung zusammen.
 > *She is putting together the documents for the application.*
 
+**Phrases & Expressions:**
+- **es stellt sich die Frage, ob ...** — the question arises whether ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **es stellte sich heraus, dass ...** — it turned out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **es stellt sich heraus, dass ...** — it turns out that ... *([[Berichten (reporting)|Berichten (reporting)]] · B2)*
+- **es stellt sich die Frage** — the question arises *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **es stellt sich die Frage nach ...** — the question of ... arises *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **Lass uns morgen zusammen ...!** — Let's ... together tomorrow! *([[B1-05 Vorschläge machen und darauf reagieren|Vorschlag machen]] · B1)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

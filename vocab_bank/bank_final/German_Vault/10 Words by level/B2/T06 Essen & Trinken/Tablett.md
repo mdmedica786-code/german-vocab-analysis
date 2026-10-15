@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Kellner trägt ein Tablett.
 > *The waiter carries a tray.*
+
+**Phrases & Expressions:**
+- **Der Kellner trägt ein Tablett** — *The waiter carries a tray* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

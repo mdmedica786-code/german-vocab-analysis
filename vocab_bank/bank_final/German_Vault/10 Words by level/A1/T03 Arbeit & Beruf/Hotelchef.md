@@ -31,6 +31,9 @@ status: "new"
 > Der Hotelchef begrüßt die Gäste.
 > *The hotel manager welcomes the guests.*
 
+**Phrases & Expressions:**
+- **Der Hotelchef begrüßt die Gäste** — *The hotel manager welcomes the guests* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 7a (Studium und Beruf)
 <!-- bank:end -->
 

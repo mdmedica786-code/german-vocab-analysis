@@ -35,6 +35,9 @@ status: "new"
 > Brauchen Sie eine Tüte für den Salat?
 > *Do you need a bag for the salad?*
 
+**Phrases & Expressions:**
+- **Brauchen Sie eine Tüte für den Salat** — *Do you need a bag for the salad* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 6a (Guten Appetit!) · Goethe word list B1
 <!-- bank:end -->
 

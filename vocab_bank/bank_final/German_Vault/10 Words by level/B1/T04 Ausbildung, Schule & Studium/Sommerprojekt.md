@@ -31,6 +31,9 @@ status: "new"
 > Das Sommerprojekt der Schule beginnt im Juli.
 > *The school's summer project begins in July.*
 
+**Phrases & Expressions:**
+- **Das Sommerprojekt der Schule beginnt im Juli** — *The school's summer project begins in July* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7b (Miteinander)
 <!-- bank:end -->
 

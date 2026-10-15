@@ -35,6 +35,9 @@ status: "new"
 > Ich brauche eine neue Zahnbürste.
 > *I need a new toothbrush.*
 
+**Phrases & Expressions:**
+- **Ich brauche eine neue Zahnbürste** — *I need a new toothbrush* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

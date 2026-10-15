@@ -30,6 +30,9 @@ status: "new"
 > Nominale Ausdrücke sind in Texten sehr häufig.
 > *Nominal expressions are very common in texts.*
 
+**Phrases & Expressions:**
+- **Nominale Ausdrücke sind in Texten sehr häufig** — *Nominal expressions are very common in texts* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7c (Kunststücke)
 <!-- bank:end -->
 

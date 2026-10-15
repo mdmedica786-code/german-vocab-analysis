@@ -35,6 +35,9 @@ status: "new"
 > Er steht gern auf der Bühne.
 > *He likes standing on the stage.*
 
+**Phrases & Expressions:**
+- **Er steht gern auf der Bühne** — *He likes standing on the stage* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 13a (Studium und Beruf) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Nach acht Jahren kann man die Einbürgerung beantragen.
 > *After eight years one can apply for naturalisation.*
 
+**Phrases & Expressions:**
+- **Nach acht Jahren kann man die Einbürgerung beantragen** — *After eight years one can apply for naturalisation* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt)
 <!-- bank:end -->
 

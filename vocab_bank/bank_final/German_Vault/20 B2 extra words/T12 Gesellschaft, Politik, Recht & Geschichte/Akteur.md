@@ -33,6 +33,11 @@ status: "new"
 > Die wichtigsten Akteure sitzen am Verhandlungstisch.
 > *The most important players are sitting at the negotiating table.*
 
+**Phrases & Expressions:**
+- **politische Akteure** — *actor; player; participant*
+- **zentraler Akteur** — *actor; player; participant*
+- **Akteure vor Ort** — *actor; player; participant*
+
 **Collocations**
 - politische Akteure
 - zentraler Akteur

@@ -31,6 +31,9 @@ status: "new"
 > In der Radioumfrage ging es um Musik.
 > *The radio survey was about music.*
 
+**Phrases & Expressions:**
+- **In der Radioumfrage ging es um Musik** — *The radio survey was about music* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 2a (Kunststücke)
 <!-- bank:end -->
 

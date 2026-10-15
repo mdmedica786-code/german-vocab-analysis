@@ -34,6 +34,9 @@ status: "new"
 > An der Wand hängt ein Tierbild.
 > *An animal picture hangs on the wall.*
 
+**Phrases & Expressions:**
+- **An der Wand hängt ein Tierbild** — *An animal picture hangs on the wall* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 10b (Gute Unterhaltung!)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Im Hausflur stehen die Briefkästen und die Fahrräder.
 > *The letterboxes and bicycles are in the hallway.*
 
+**Phrases & Expressions:**
+- **im Hausflur** — *hallway; entrance hall (of a building)*
+- **den Hausflur putzen** — *hallway; entrance hall (of a building)*
+- **der Hausflur ist beleuchtet** — *hallway; entrance hall (of a building)*
+
 **Collocations**
 - im Hausflur
 - den Hausflur putzen

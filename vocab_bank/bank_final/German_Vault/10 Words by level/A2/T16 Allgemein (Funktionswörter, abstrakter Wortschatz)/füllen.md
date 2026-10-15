@@ -32,6 +32,9 @@ status: "new"
 > Bitte füllen Sie das Glas mit Wasser.
 > *Please fill the glass with water.*
 
+**Phrases & Expressions:**
+- **Bitte füllen Sie das Glas mit Wasser** — *Please fill the glass with water* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11b (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

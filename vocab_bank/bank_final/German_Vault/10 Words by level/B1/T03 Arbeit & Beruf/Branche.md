@@ -34,6 +34,9 @@ status: "new"
 > Sie arbeitet seit Jahren in der Baubranche.
 > *She has worked in the construction sector for years.*
 
+**Phrases & Expressions:**
+- **Sie arbeitet seit Jahren in der Baubranche** — *She has worked in the construction sector for years* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

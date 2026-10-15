@@ -33,6 +33,11 @@ status: "new"
 > Wir müssen uns den örtlichen Gegebenheiten anpassen.
 > *We have to adapt to the local conditions.*
 
+**Phrases & Expressions:**
+- **örtliche Gegebenheiten** — *circumstance; condition*
+- **den Gegebenheiten entsprechen** — *circumstance; condition*
+- **sich an Gegebenheiten anpassen** — *circumstance; condition*
+
 **Collocations**
 - örtliche Gegebenheiten
 - den Gegebenheiten entsprechen

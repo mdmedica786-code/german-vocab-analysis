@@ -36,6 +36,9 @@ status: "new"
 > Ich gehe gern auf den Flohmarkt.
 > **
 
+**Phrases & Expressions:**
+- **Ich gehe gern auf den Flohmarkt** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 8c (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

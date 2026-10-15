@@ -34,6 +34,9 @@ status: "new"
 > Am Samstag machen wir eine Grillparty im Garten.
 > *On Saturday we're having a barbecue party in the garden.*
 
+**Phrases & Expressions:**
+- **Am Samstag machen wir eine Grillparty im Garten** — *On Saturday we're having a barbecue party in the garden* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 3b (Guten Appetit!)
 <!-- bank:end -->
 

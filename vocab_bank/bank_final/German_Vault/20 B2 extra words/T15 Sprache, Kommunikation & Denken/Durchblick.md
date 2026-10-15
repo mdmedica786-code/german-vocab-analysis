@@ -33,6 +33,11 @@ status: "new"
 > Bei den vielen Tarifen verliert man leicht den Durchblick.
 > *With so many tariffs you easily lose track.*
 
+**Phrases & Expressions:**
+- **den Durchblick haben** — *overview; grasp of things*
+- **den Durchblick verlieren** — *overview; grasp of things*
+- **keinen Durchblick haben** — *overview; grasp of things*
+
 **Collocations**
 - den Durchblick haben
 - den Durchblick verlieren

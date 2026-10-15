@@ -29,6 +29,11 @@ status: "new"
 > Sie war entsetzt über die Nachricht.
 > *She was horrified at the news.*
 
+**Phrases & Expressions:**
+- **entsetzt sein über** — *horrified; appalled*
+- **entsetzt reagieren** — *horrified; appalled*
+- **entsetzt schauen** — *horrified; appalled*
+
 **Collocations**
 - entsetzt sein über
 - entsetzt reagieren

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Straße ist gut beleuchtet.
 > *The street is well lit.*
+
+**Phrases & Expressions:**
+- **Die Straße ist gut beleuchtet** — *The street is well lit* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

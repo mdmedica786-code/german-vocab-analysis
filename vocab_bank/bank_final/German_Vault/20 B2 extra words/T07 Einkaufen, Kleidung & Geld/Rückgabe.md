@@ -33,6 +33,11 @@ status: "new"
 > Die Rückgabe der Ware ist innerhalb von 30 Tagen möglich.
 > *The return of goods is possible within 30 days.*
 
+**Phrases & Expressions:**
+- **die Rückgabe der Kaution** — *return; handing back*
+- **die Rückgabe der Ware** — *return; handing back*
+- **Rückgabe der Mietwohnung** — *return; handing back*
+
 **Collocations**
 - die Rückgabe der Kaution
 - die Rückgabe der Ware

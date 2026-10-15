@@ -32,6 +32,9 @@ status: "new"
 > Ein Hund bewacht das Haus.
 > *A dog guards the house.*
 
+**Phrases & Expressions:**
+- **Ein Hund bewacht das Haus** — *A dog guards the house* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

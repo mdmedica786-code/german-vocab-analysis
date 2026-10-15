@@ -33,6 +33,11 @@ status: "new"
 > Bei dem Schuss gingen alle in Deckung.
 > *At the shot everyone took cover.*
 
+**Phrases & Expressions:**
+- **in Deckung gehen** — *cover; coverage; collateral*
+- **die Deckung der Kosten** — *cover; coverage; collateral*
+- **mangelnde Deckung** — *cover; coverage; collateral*
+
 **Collocations**
 - in Deckung gehen
 - die Deckung der Kosten

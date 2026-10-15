@@ -35,6 +35,9 @@ status: "new"
 > Der Prof erklärt die Aufgabe.
 > *The prof explains the task.*
 
+**Phrases & Expressions:**
+- **Der Prof erklärt die Aufgabe** — *The prof explains the task* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 1a ÜB (Zwischenmenschliches)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Namentlich die jungen Leute sind betroffen.
 > *Young people in particular are affected.*
 
+**Phrases & Expressions:**
+- **namentlich genannt** — *especially; by name*
+- **namentlich erwähnen** — *especially; by name*
+- **namentlich bekannt** — *especially; by name*
+
 **Collocations**
 - namentlich genannt
 - namentlich erwähnen

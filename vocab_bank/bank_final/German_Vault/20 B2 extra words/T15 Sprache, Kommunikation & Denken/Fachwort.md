@@ -33,6 +33,11 @@ status: "new"
 > Dieses Fachwort verstehen nur Experten.
 > *Only experts understand this technical term.*
 
+**Phrases & Expressions:**
+- **ein Fachwort erklären** — *technical term*
+- **ein medizinisches Fachwort** — *technical term*
+- **Fachwörter lernen** — *technical term*
+
 **Collocations**
 - ein Fachwort erklären
 - ein medizinisches Fachwort

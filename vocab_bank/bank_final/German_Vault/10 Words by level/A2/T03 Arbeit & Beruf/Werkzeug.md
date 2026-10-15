@@ -35,6 +35,9 @@ status: "new"
 > Wir hatten kein Werkzeug für die Reparatur dabei.
 > *We didn't have any tools with us for the repair.*
 
+**Phrases & Expressions:**
+- **Wir hatten kein Werkzeug für die Reparatur dabei** — *We didn't have any tools with us for the repair* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 9a (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

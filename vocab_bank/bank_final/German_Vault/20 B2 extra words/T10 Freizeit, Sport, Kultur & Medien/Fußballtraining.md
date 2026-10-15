@@ -33,6 +33,11 @@ status: "new"
 > Das Fußballtraining beginnt um 17 Uhr.
 > *Football training starts at 5 p.m.*
 
+**Phrases & Expressions:**
+- **zum Fußballtraining gehen** — *football training*
+- **das Fußballtraining leiten** — *football training*
+- **beim Fußballtraining** — *football training*
+
 **Collocations**
 - zum Fußballtraining gehen
 - das Fußballtraining leiten

@@ -31,6 +31,12 @@ status: "new"
 > Die Stadt erhebt eine Gebühr für Parkplätze.
 > *The city charges a fee for parking spaces.*
 
+**Phrases & Expressions:**
+- **Anklage erheben** — *to raise; to levy; to collect (data)*
+- **Gebühren erheben** — *to raise; to levy; to collect (data)*
+- **Daten erheben** — *to raise; to levy; to collect (data)*
+- **die Stimme erheben** — *to raise; to levy; to collect (data)*
+
 **Collocations**
 - Anklage erheben
 - Gebühren erheben

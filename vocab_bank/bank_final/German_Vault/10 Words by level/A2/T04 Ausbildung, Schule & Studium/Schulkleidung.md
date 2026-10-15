@@ -31,6 +31,9 @@ status: "new"
 > Schulkleidung ist an manchen Schulen Pflicht.
 > *School clothing is compulsory at some schools.*
 
+**Phrases & Expressions:**
+- **Schulkleidung ist an manchen Schulen Pflicht** — *School clothing is compulsory at some schools* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 5a (Nach der Schulzeit)
 <!-- bank:end -->
 

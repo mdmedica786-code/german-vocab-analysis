@@ -34,6 +34,9 @@ status: "new"
 > Ich schreibe einen Einkaufszettel für morgen.
 > *I'm writing a shopping list for tomorrow.*
 
+**Phrases & Expressions:**
+- **Ich schreibe einen Einkaufszettel für morgen** — *I'm writing a shopping list for tomorrow* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 3b (Guten Appetit!)
 <!-- bank:end -->
 

@@ -29,6 +29,11 @@ status: "new"
 > Zum Frühstück esse ich gern etwas Herzhaftes.
 > *For breakfast I like to eat something savoury.*
 
+**Phrases & Expressions:**
+- **herzhaft essen** — *hearty; savoury*
+- **ein herzhaftes Lachen** — *hearty; savoury*
+- **eine herzhafte Suppe** — *hearty; savoury*
+
 **Collocations**
 - herzhaft essen
 - ein herzhaftes Lachen

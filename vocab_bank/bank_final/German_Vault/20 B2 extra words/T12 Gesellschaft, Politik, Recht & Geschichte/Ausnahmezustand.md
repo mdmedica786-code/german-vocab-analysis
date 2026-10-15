@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Sturm herrschte in der Stadt der Ausnahmezustand.
 > *After the storm the city was in a state of emergency.*
 
+**Phrases & Expressions:**
+- **den Ausnahmezustand ausrufen** — *state of emergency; exceptional situation*
+- **im Ausnahmezustand** — *state of emergency; exceptional situation*
+- **der Ausnahmezustand gilt** — *state of emergency; exceptional situation*
+
 **Collocations**
 - den Ausnahmezustand ausrufen
 - im Ausnahmezustand

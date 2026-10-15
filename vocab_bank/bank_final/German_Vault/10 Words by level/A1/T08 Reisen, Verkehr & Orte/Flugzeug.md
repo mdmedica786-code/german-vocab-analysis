@@ -36,6 +36,9 @@ status: "new"
 > Das Flugzeug aus Berlin kommt heute später an.
 > **
 
+**Phrases & Expressions:**
+- **Das Flugzeug aus Berlin kommt heute später an** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 6a ÜB (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

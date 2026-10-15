@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Sie ist eine engagierte Lehrerin.
 > *She is a dedicated teacher.*
+
+**Phrases & Expressions:**
+- **Sie ist eine engagierte Lehrerin** — *She is a dedicated teacher* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

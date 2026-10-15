@@ -29,6 +29,10 @@ status: "new"
 > Die Preise sind erheblich gestiegen.
 > *Prices have risen considerably.*
 
+**Phrases & Expressions:**
+- **erheblich steigen** — *considerably; significantly*
+- **erheblich teurer** — *considerably; significantly*
+
 **Collocations**
 - erheblich steigen
 - erheblich teurer

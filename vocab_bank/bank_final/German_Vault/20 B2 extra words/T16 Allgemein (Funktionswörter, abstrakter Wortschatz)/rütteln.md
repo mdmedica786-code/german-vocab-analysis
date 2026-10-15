@@ -32,6 +32,11 @@ status: "new"
 > Niemand darf an diesem Grundsatz rütteln.
 > *Nobody may shake this principle.*
 
+**Phrases & Expressions:**
+- **an etwas rütteln** — *to shake*
+- **an der Tür rütteln** — *to shake*
+- **daran ist nicht zu rütteln** — *to shake*
+
 **Collocations**
 - an etwas rütteln
 - an der Tür rütteln

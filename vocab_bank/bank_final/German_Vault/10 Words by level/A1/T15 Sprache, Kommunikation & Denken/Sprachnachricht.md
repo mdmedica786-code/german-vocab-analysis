@@ -34,6 +34,9 @@ status: "new"
 > Ich schicke dir eine Sprachnachricht.
 > *I'll send you a voice message.*
 
+**Phrases & Expressions:**
+- **Ich schicke dir eine Sprachnachricht** — *I'll send you a voice message* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 2a (Fit und gesund)
 <!-- bank:end -->
 

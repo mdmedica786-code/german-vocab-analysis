@@ -29,6 +29,11 @@ status: "new"
 > Das Museum zeigt erstmals diese Bilder.
 > *The museum shows these pictures for the first time.*
 
+**Phrases & Expressions:**
+- **erstmals seit** — *for the first time*
+- **erstmals erwähnen** — *for the first time*
+- **erstmals vorgestellt** — *for the first time*
+
 **Collocations**
 - erstmals seit
 - erstmals erwähnen

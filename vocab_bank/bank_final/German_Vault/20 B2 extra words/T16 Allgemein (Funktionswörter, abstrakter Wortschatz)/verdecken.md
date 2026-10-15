@@ -31,6 +31,11 @@ status: "new"
 > Ein großes Auto verdeckte die Sicht.
 > *A large car blocked the view.*
 
+**Phrases & Expressions:**
+- **die Sicht verdecken** — *to cover; to hide; to conceal*
+- **etwas verdecken** — *to cover; to hide; to conceal*
+- **den Blick verdecken** — *to cover; to hide; to conceal*
+
 **Collocations**
 - die Sicht verdecken
 - etwas verdecken

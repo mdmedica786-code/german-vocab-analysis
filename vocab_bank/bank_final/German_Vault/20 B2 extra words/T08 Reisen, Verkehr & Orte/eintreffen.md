@@ -32,6 +32,11 @@ status: "new"
 > Der Zug trifft um 18 Uhr ein.
 > *The train arrives at 6 pm.*
 
+**Phrases & Expressions:**
+- **pünktlich eintreffen** — *to arrive; to come true*
+- **verspätet eintreffen** — *to arrive; to come true*
+- **die Nachricht trifft ein** — *to arrive; to come true*
+
 **Collocations**
 - pünktlich eintreffen
 - verspätet eintreffen

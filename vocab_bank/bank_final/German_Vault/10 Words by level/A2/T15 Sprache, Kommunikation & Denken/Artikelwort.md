@@ -34,6 +34,9 @@ status: "new"
 > „Der“ und „ein“ sind Artikelwörter.
 > *"Der" and "ein" are determiners.*
 
+**Phrases & Expressions:**
+- **„Der“ und „ein“ sind Artikelwörter** — *"Der" and "ein" are determiners* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 5c (Arbeitswelten)
 <!-- bank:end -->
 

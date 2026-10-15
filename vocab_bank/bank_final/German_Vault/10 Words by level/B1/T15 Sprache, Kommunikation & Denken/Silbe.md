@@ -34,6 +34,9 @@ status: "new"
 > Das Wort „Tisch“ hat nur eine Silbe.
 > *The word "Tisch" has only one syllable.*
 
+**Phrases & Expressions:**
+- **Das Wort „Tisch“ hat nur eine Silbe** — *The word "Tisch" has only one syllable* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 11 (Das ist ja praktisch!)
 <!-- bank:end -->
 

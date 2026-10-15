@@ -36,6 +36,9 @@ status: "new"
 > Sie kommt aus der Schweiz.
 > *She's from Switzerland.*
 
+**Phrases & Expressions:**
+- **Sie kommt aus der Schweiz** — *She's from Switzerland* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 8a (Guten Tag!) · Goethe word list A2
 <!-- bank:end -->
 

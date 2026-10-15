@@ -35,6 +35,9 @@ status: "new"
 > Im Wald ist es ruhig.
 > *It is quiet in the forest.*
 
+**Phrases & Expressions:**
+- **Im Wald ist es ruhig** — *It is quiet in the forest* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3c (Gelernt ist gelernt!) · Goethe word list A2
 <!-- bank:end -->
 

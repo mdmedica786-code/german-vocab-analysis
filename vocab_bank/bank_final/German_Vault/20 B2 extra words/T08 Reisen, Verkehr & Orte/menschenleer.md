@@ -29,6 +29,11 @@ status: "new"
 > Am frühen Morgen waren die Straßen menschenleer.
 > *In the early morning the streets were deserted.*
 
+**Phrases & Expressions:**
+- **menschenleere Straßen** — *deserted; empty of people*
+- **ein menschenleerer Strand** — *deserted; empty of people*
+- **menschenleer sein** — *deserted; empty of people*
+
 **Collocations**
 - menschenleere Straßen
 - ein menschenleerer Strand

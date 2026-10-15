@@ -29,6 +29,11 @@ status: "new"
 > Er hat einen unbefristeten Arbeitsvertrag.
 > *He has a permanent employment contract.*
 
+**Phrases & Expressions:**
+- **ein unbefristeter Vertrag** — *permanent; for an unlimited period*
+- **unbefristet eingestellt werden** — *permanent; for an unlimited period*
+- **unbefristet gültig** — *permanent; for an unlimited period*
+
 **Collocations**
 - ein unbefristeter Vertrag
 - unbefristet eingestellt werden

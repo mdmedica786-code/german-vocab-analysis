@@ -31,6 +31,9 @@ status: "new"
 > Hoffentlich hat unser Zug keine Verspätung.
 > *Hopefully our train isn't late.*
 
+**Phrases & Expressions:**
+- **Hoffentlich klappt alles mit dem Termin.** — Hopefully everything works out with the appointment. *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Hoffnung ausdrücken]] · B1)*
+
 **Source:** Netzwerk neu A1 K6 6a (Zeit mit Freunden) · Goethe word list A2
 <!-- bank:end -->
 

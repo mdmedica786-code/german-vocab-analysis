@@ -31,6 +31,11 @@ status: "new"
 > Das Projekt vereint Kunst und Technik.
 > *The project combines art and technology.*
 
+**Phrases & Expressions:**
+- **sich vereinen** — *to unite; to combine*
+- **Kräfte vereinen** — *to unite; to combine*
+- **vereint sein** — *to unite; to combine*
+
 **Collocations**
 - sich vereinen
 - Kräfte vereinen

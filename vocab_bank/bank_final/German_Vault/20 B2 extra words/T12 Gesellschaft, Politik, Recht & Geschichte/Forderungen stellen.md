@@ -26,6 +26,10 @@ status: "new"
 > Die Gewerkschaft stellt hohe Forderungen.
 > *The union makes high demands.*
 
+**Phrases & Expressions:**
+- **Forderungen stellen an + Akk.** — *to make demands*
+- **Bedingungen stellen** — *to make demands*
+
 **Collocations**
 - Forderungen stellen an + Akk.
 - Bedingungen stellen

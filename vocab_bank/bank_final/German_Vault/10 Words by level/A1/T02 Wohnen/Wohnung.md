@@ -35,6 +35,10 @@ status: "new"
 > Seit wann haben Sie diese Wohnung?
 > *How long have you had this flat?*
 
+**Phrases & Expressions:**
+- **Ich interessiere mich für die Wohnung in der ...** — I am interested in the flat in ... *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Wohnung suchen]] · B1)*
+- **Ich melde mich wegen eines Schadens in meiner Wohnung.** — I'm contacting you about damage in my flat. *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Vermieter kontaktieren]] · B1)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

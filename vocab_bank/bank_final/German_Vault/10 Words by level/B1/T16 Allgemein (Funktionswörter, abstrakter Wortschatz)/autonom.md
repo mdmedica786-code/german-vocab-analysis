@@ -30,6 +30,9 @@ status: "new"
 > Das Auto fährt autonom.
 > *The car drives autonomously.*
 
+**Phrases & Expressions:**
+- **Das Auto fährt autonom** — *The car drives autonomously* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

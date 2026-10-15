@@ -31,6 +31,12 @@ status: "new"
 > Wann kommst du endlich? Der Film fängt gleich an.
 > *When are you finally coming? The film is about to start.*
 
+**Phrases & Expressions:**
+- **endlich fertig** — *finally*
+- **endlich Ferien** — *finally*
+- **endlich ankommen** — *finally*
+- **endlich wieder** — *finally*
+
 **Collocations**
 - endlich fertig
 - endlich Ferien

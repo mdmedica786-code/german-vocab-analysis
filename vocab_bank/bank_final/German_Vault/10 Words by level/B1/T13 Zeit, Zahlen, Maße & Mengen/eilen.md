@@ -32,6 +32,9 @@ status: "new"
 > Es eilt sehr. Bitte machen Sie schnell.
 > *It is very urgent. Please be quick.*
 
+**Phrases & Expressions:**
+- **Es eilt sehr. Bitte machen Sie schnell** — *It is very urgent. Please be quick* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

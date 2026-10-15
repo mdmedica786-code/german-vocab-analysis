@@ -34,6 +34,9 @@ status: "new"
 > Ein deutsches Sprichwort sagt: Übung macht den Meister.
 > *A German proverb says: practice makes perfect.*
 
+**Phrases & Expressions:**
+- **Ein deutsches Sprichwort sagt: Übung macht den Meister** — *A German proverb says: practice makes perfect* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 12a (Wie die Zeit vergeht!)
 <!-- bank:end -->
 

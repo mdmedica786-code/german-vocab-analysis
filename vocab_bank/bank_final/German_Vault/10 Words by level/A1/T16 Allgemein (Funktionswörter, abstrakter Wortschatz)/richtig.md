@@ -32,6 +32,14 @@ status: "new"
 > Ist der Satz richtig oder falsch?
 > *Is the sentence correct or wrong?*
 
+**Phrases & Expressions:**
+- **Darauf habe ich richtig Lust.** — I really feel like doing that. *([[B1-05 Vorschläge machen und darauf reagieren|Vorschlag annehmen]] · B1)*
+- **Habe ich Sie richtig verstanden? Sie meinen, ...** — Did I understand you correctly? You mean ... *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Nachfragen]] · B1)*
+- **Das ist zwar richtig, aber ...** — That is true, but ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Zugeständnis machen]] · B2)*
+- **Habe ich das richtig verstanden, dass ...?** — Have I understood correctly that ...? *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Rückfrage stellen]] · B2)*
+- **Habe ich Sie richtig verstanden, dass ...?** — Have I understood you correctly that ...? *([[B2-07 Telefonieren|Rückfrage stellen]] · B2)*
+- **Dann bleibt es bei Mittwoch, 9 Uhr, richtig?** — So it stays Wednesday at 9, right? *([[B2-07 Telefonieren|Termin bestätigen]] · B1)*
+
 **Source:** Netzwerk neu A1 K3 2b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

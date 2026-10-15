@@ -33,6 +33,11 @@ status: "new"
 > Diskriminierung am Arbeitsplatz ist verboten.
 > *Discrimination in the workplace is forbidden.*
 
+**Phrases & Expressions:**
+- **Diskriminierung erfahren** — *discrimination*
+- **gegen Diskriminierung kämpfen** — *discrimination*
+- **Diskriminierung aufgrund des Geschlechts** — *discrimination*
+
 **Collocations**
 - Diskriminierung erfahren
 - gegen Diskriminierung kämpfen

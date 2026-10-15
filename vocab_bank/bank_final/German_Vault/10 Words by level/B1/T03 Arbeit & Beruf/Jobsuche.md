@@ -34,6 +34,9 @@ status: "new"
 > Die Jobsuche dauert oft mehrere Monate.
 > *The job search often takes several months.*
 
+**Phrases & Expressions:**
+- **Die Jobsuche dauert oft mehrere Monate** — *The job search often takes several months* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 8b (Arbeitswelt)
 <!-- bank:end -->
 

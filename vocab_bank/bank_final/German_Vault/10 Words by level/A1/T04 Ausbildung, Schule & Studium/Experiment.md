@@ -34,6 +34,9 @@ status: "new"
 > Das Experiment hat gut funktioniert.
 > *The experiment worked well.*
 
+**Phrases & Expressions:**
+- **Das Experiment hat gut funktioniert** — *The experiment worked well* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 1b (Fit und gesund)
 <!-- bank:end -->
 

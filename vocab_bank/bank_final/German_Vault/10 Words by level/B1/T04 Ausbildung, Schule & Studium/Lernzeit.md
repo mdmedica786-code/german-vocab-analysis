@@ -34,6 +34,9 @@ status: "new"
 > Die beste Lernzeit ist am Morgen.
 > *The best learning time is in the morning.*
 
+**Phrases & Expressions:**
+- **Die beste Lernzeit ist am Morgen** — *The best learning time is in the morning* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 11b (Rund um Körper und Geist)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Rechtschreibung des Wortes hat sich geändert.
 > *The spelling of the word has changed.*
 
+**Phrases & Expressions:**
+- **die neue Rechtschreibung** — *spelling; orthography*
+- **Rechtschreibung üben** — *spelling; orthography*
+- **Fehler in der Rechtschreibung** — *spelling; orthography*
+
 **Collocations**
 - die neue Rechtschreibung
 - Rechtschreibung üben

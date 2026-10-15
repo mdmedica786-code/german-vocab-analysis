@@ -35,6 +35,9 @@ status: "new"
 > Der Elefant hat einen langen Rüssel.
 > *The elephant has a long trunk.*
 
+**Phrases & Expressions:**
+- **Der Elefant hat einen langen Rüssel** — *The elephant has a long trunk* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 5b (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->
 

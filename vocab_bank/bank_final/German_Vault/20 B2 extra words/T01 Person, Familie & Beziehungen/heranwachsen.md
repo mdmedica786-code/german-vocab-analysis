@@ -32,6 +32,11 @@ status: "new"
 > Er ist in einem kleinen Dorf herangewachsen.
 > *He grew up in a small village.*
 
+**Phrases & Expressions:**
+- **zu einem Erwachsenen heranwachsen** — *to grow up; to mature*
+- **die heranwachsende Generation** — *to grow up; to mature*
+- **in Armut heranwachsen** — *to grow up; to mature*
+
 **Collocations**
 - zu einem Erwachsenen heranwachsen
 - die heranwachsende Generation

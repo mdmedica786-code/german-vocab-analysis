@@ -31,6 +31,9 @@ status: "new"
 > Die Schiffe fahren auf dem Fluss.
 > *The ships sail on the river.*
 
+**Phrases & Expressions:**
+- **Die Schiffe fahren auf dem Fluss** — *The ships sail on the river* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 1b (In Hamburg)
 <!-- bank:end -->
 

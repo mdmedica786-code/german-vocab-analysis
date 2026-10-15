@@ -33,6 +33,9 @@ status: "new"
 > Luis chattet gern mit seinen Freunden im Internet.
 > *Luis likes chatting with his friends on the internet.*
 
+**Phrases & Expressions:**
+- **Luis chattet gern mit seinen Freunden im Internet** — *Luis likes chatting with his friends on the internet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1a (Immer online?) · Goethe word list A2
 <!-- bank:end -->
 

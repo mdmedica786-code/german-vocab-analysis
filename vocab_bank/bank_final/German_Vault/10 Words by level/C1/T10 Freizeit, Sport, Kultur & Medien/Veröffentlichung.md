@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Veröffentlichung der Studie ist für Mai geplant.
 > *The publication of the study is planned for May.*
+
+**Phrases & Expressions:**
+- **Die Veröffentlichung der Studie ist für Mai geplant** — *The publication of the study is planned for May* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

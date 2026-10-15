@@ -35,6 +35,9 @@ status: "new"
 > Auf der Rückfahrt besuche ich meine Eltern.
 > *On the way back I'll visit my parents.*
 
+**Phrases & Expressions:**
+- **Auf der Rückfahrt besuche ich meine Eltern** — *On the way back I'll visit my parents* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 1b (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Gutes Zeitmanagement hilft beim Lernen und im Beruf.
 > *Good time management helps with studying and at work.*
 
+**Phrases & Expressions:**
+- **ein gutes Zeitmanagement** — *time management*
+- **Zeitmanagement verbessern** — *time management*
+- **Tipps zum Zeitmanagement** — *time management*
+
 **Collocations**
 - ein gutes Zeitmanagement
 - Zeitmanagement verbessern

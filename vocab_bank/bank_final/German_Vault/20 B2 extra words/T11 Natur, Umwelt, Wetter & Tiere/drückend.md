@@ -29,6 +29,11 @@ status: "new"
 > Heute ist es drückend schwül.
 > *Today it is oppressively muggy.*
 
+**Phrases & Expressions:**
+- **drückende Hitze** — *oppressive; sultry*
+- **drückende Schwüle** — *oppressive; sultry*
+- **drückend heiß** — *oppressive; sultry*
+
 **Collocations**
 - drückende Hitze
 - drückende Schwüle

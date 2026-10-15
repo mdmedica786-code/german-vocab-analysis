@@ -33,6 +33,11 @@ status: "new"
 > Die Beeinflussung der Wähler ist verboten.
 > *Influencing the voters is forbidden.*
 
+**Phrases & Expressions:**
+- **die Beeinflussung der Meinung** — *influencing; influence*
+- **gezielte Beeinflussung** — *influencing; influence*
+- **unter Beeinflussung** — *influencing; influence*
+
 **Collocations**
 - die Beeinflussung der Meinung
 - gezielte Beeinflussung

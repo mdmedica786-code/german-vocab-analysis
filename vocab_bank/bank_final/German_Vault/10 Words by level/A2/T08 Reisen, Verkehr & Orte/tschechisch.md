@@ -30,6 +30,9 @@ status: "new"
 > Mein Nachbar spricht tschechisch.
 > *My neighbour speaks Czech.*
 
+**Phrases & Expressions:**
+- **Mein Nachbar spricht tschechisch** — *My neighbour speaks Czech* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

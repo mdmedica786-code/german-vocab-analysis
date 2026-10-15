@@ -31,6 +31,9 @@ status: "new"
 > Der Kurs hat dreißig Teilnehmer.
 > *The course has thirty participants.*
 
+**Phrases & Expressions:**
+- **Beginnen Sie bitte mit der Herzdruckmassage, dreißig zu zwei.** — Please start chest compressions, thirty to two. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Reanimation]] · B2)*
+
 **Source:** Netzwerk neu A1 K2 12b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Problematik ist uns bekannt.
 > *We are aware of the issue.*
+
+**Phrases & Expressions:**
+- **Die Problematik ist uns bekannt** — *We are aware of the issue* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

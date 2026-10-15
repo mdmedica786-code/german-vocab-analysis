@@ -29,6 +29,11 @@ status: "new"
 > Ich esse am liebsten zartbittere Schokolade.
 > *I like to eat dark chocolate best.*
 
+**Phrases & Expressions:**
+- **zartbittere Schokolade** — *dark (chocolate); bittersweet*
+- **zartbitter schmecken** — *dark (chocolate); bittersweet*
+- **Zartbitterschokolade** — *dark (chocolate); bittersweet*
+
 **Collocations**
 - zartbittere Schokolade
 - zartbitter schmecken

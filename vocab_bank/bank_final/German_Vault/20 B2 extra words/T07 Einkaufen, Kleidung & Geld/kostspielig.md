@@ -29,6 +29,11 @@ status: "new"
 > Eine Reparatur wäre kostspielig und lohnt sich nicht.
 > *A repair would be costly and is not worth it.*
 
+**Phrases & Expressions:**
+- **ein kostspieliges Hobby** — *expensive; costly*
+- **kostspielig sein** — *expensive; costly*
+- **eine kostspielige Anschaffung** — *expensive; costly*
+
 **Collocations**
 - ein kostspieliges Hobby
 - kostspielig sein

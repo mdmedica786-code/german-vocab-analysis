@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Sie hat große Bekanntheit erlangt.
 > *She has gained great fame.*
+
+**Phrases & Expressions:**
+- **Sie hat große Bekanntheit erlangt** — *She has gained great fame* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -29,6 +29,11 @@ status: "new"
 > Langfristig lohnt sich die Investition.
 > *In the long term the investment pays off.*
 
+**Phrases & Expressions:**
+- **langfristig planen** — *long-term*
+- **langfristige Folgen** — *long-term*
+- **langfristig denken** — *long-term*
+
 **Collocations**
 - langfristig planen
 - langfristige Folgen

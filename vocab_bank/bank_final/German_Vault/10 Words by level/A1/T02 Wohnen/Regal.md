@@ -35,6 +35,9 @@ status: "new"
 > Das Buch steht im Regal oben rechts.
 > *The book is on the shelf at the top right.*
 
+**Phrases & Expressions:**
+- **Das Buch steht im Regal oben rechts** — *The book is on the shelf at the top right* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Seine Bemerkung hat mich sehr geärgert.
 > *His remark annoyed me a lot.*
 
+**Phrases & Expressions:**
+- **eine Bemerkung machen** — *remark; comment*
+- **eine spitze Bemerkung** — *remark; comment*
+- **eine kritische Bemerkung** — *remark; comment*
+
 **Collocations**
 - eine Bemerkung machen
 - eine spitze Bemerkung

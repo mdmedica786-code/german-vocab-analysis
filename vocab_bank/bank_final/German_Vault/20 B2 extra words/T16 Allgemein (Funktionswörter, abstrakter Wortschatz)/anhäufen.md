@@ -32,6 +32,11 @@ status: "new"
 > Im Laufe der Jahre hat er ein großes Vermögen angehäuft.
 > *Over the years he has accumulated a large fortune.*
 
+**Phrases & Expressions:**
+- **ein Vermögen anhäufen** — *to accumulate; to pile up*
+- **Schulden anhäufen** — *to accumulate; to pile up*
+- **Wissen anhäufen** — *to accumulate; to pile up*
+
 **Collocations**
 - ein Vermögen anhäufen
 - Schulden anhäufen

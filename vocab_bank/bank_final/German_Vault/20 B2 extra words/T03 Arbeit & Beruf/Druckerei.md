@@ -33,6 +33,11 @@ status: "new"
 > Die Druckerei liefert die Flyer morgen früh.
 > *The print shop delivers the flyers tomorrow morning.*
 
+**Phrases & Expressions:**
+- **in der Druckerei** — *print shop; printing company*
+- **eine Druckerei beauftragen** — *print shop; printing company*
+- **bei einer Druckerei arbeiten** — *print shop; printing company*
+
 **Collocations**
 - in der Druckerei
 - eine Druckerei beauftragen

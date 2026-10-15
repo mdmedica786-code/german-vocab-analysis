@@ -33,6 +33,12 @@ status: "new"
 > Unsere Mannschaft hat ein Tor geschossen.
 > *Our team scored a goal.*
 
+**Phrases & Expressions:**
+- **ein Tor schießen** — *to shoot*
+- **ein Foto schießen** — *to shoot*
+- **auf jemanden schießen** — *to shoot*
+- **in die Höhe schießen** — *to shoot*
+
 **Collocations**
 - ein Tor schießen
 - ein Foto schießen

@@ -29,6 +29,9 @@ status: "new"
 > Das ist keineswegs selbstverständlich.
 > *That is by no means a matter of course.*
 
+**Phrases & Expressions:**
+- **Das ist keineswegs selbstverständlich** — *That is by no means a matter of course* *(Beispiel im Kontext)*
+
 **Exam use:** Sprechen, Schreiben
 <!-- bank:end -->
 

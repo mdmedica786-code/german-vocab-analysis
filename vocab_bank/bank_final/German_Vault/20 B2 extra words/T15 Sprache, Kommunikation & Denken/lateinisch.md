@@ -29,6 +29,11 @@ status: "new"
 > Viele Fachwörter sind lateinisch.
 > *Many technical terms are Latin.*
 
+**Phrases & Expressions:**
+- **lateinische Wörter** — *Latin*
+- **lateinisch beschriftet** — *Latin*
+- **die lateinische Sprache** — *Latin*
+
 **Collocations**
 - lateinische Wörter
 - lateinisch beschriftet

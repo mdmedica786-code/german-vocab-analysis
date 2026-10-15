@@ -32,6 +32,12 @@ status: "new"
 > Ich habe nichts von dem Streit mitbekommen.
 > *I did not notice anything of the argument.*
 
+**Phrases & Expressions:**
+- **Ein Schlaganfall bedeutet, dass ein Teil des Gehirns zu wenig Blut bekommt.** — A stroke means that part of the brain gets too little blood. *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Fachbegriff umschreiben]] · B2)*
+- **etwas mitbekommen** — *to notice; to catch (what is going on)*
+- **nichts mitbekommen** — *to notice; to catch (what is going on)*
+- **viel mitbekommen** — *to notice; to catch (what is going on)*
+
 **Collocations**
 - etwas mitbekommen
 - nichts mitbekommen

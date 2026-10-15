@@ -34,6 +34,12 @@ status: "new"
 > Nach dem langen Sitzen habe ich Rückenschmerzen.
 > *After sitting for so long I have back pain.*
 
+**Phrases & Expressions:**
+- **Rückenschmerzen haben** — *back pain*
+- **chronische Rückenschmerzen** — *back pain*
+- **untere Rückenschmerzen** — *back pain*
+- **Tabletten gegen Rückenschmerzen** — *back pain*
+
 **Collocations**
 - Rückenschmerzen haben
 - chronische Rückenschmerzen

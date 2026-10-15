@@ -30,6 +30,9 @@ status: "new"
 > Der Urlaub war völlig stressfrei.
 > *The holiday was completely stress-free.*
 
+**Phrases & Expressions:**
+- **Der Urlaub war völlig stressfrei** — *The holiday was completely stress-free* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 4a ÜB (Gelernt ist gelernt!)
 <!-- bank:end -->
 

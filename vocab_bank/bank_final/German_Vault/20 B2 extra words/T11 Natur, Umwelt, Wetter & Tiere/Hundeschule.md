@@ -33,6 +33,11 @@ status: "new"
 > Unser junger Hund geht jede Woche in die Hundeschule.
 > *Our young dog goes to dog school every week.*
 
+**Phrases & Expressions:**
+- **in die Hundeschule gehen** — *dog school; dog training school*
+- **eine Hundeschule besuchen** — *dog school; dog training school*
+- **in der Hundeschule lernen** — *dog school; dog training school*
+
 **Collocations**
 - in die Hundeschule gehen
 - eine Hundeschule besuchen

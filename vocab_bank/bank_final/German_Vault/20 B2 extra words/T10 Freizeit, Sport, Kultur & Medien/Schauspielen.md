@@ -33,6 +33,11 @@ status: "new"
 > Das Schauspielen macht ihr großen Spaß.
 > *Acting gives her great pleasure.*
 
+**Phrases & Expressions:**
+- **das Schauspielen lernen** — *acting*
+- **Freude am Schauspielen** — *acting*
+- **das Schauspielen studieren** — *acting*
+
 **Collocations**
 - das Schauspielen lernen
 - Freude am Schauspielen

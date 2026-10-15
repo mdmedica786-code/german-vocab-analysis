@@ -36,6 +36,9 @@ status: "new"
 > Ich höre gerne Rock im Radio.
 > *I like to listen to rock on the radio.*
 
+**Phrases & Expressions:**
+- **Ich höre gerne Rock im Radio** — *I like to listen to rock on the radio* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 1a (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

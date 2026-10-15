@@ -29,6 +29,11 @@ status: "new"
 > Er ist untersetzt und kräftig gebaut.
 > *He is thickset and powerfully built.*
 
+**Phrases & Expressions:**
+- **untersetzt sein** — *thickset; stocky*
+- **ein untersetzter Mann** — *thickset; stocky*
+- **untersetzt wirken** — *thickset; stocky*
+
 **Collocations**
 - untersetzt sein
 - ein untersetzter Mann

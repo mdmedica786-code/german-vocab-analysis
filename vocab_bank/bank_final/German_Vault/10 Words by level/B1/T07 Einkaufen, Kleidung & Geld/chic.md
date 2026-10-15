@@ -30,6 +30,9 @@ status: "new"
 > Ich finde dein Kleid sehr chic.
 > *I think your dress is very stylish.*
 
+**Phrases & Expressions:**
+- **Ich finde dein Kleid sehr chic** — *I think your dress is very stylish* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

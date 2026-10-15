@@ -32,6 +32,11 @@ status: "new"
 > Er starrte stundenlang auf den Bildschirm.
 > *He stared at the screen for hours.*
 
+**Phrases & Expressions:**
+- **auf etwas starren** — *to stare*
+- **vor sich hin starren** — *to stare*
+- **ins Leere starren** — *to stare*
+
 **Collocations**
 - auf etwas starren
 - vor sich hin starren

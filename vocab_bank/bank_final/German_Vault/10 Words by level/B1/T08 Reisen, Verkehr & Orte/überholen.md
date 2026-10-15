@@ -32,6 +32,9 @@ status: "new"
 > Hier dürfen Lkws nicht überholen.
 > *Lorries may not overtake here.*
 
+**Phrases & Expressions:**
+- **Hier dürfen Lkws nicht überholen** — *Lorries may not overtake here* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

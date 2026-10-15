@@ -33,6 +33,11 @@ status: "new"
 > Die Regierung rief zur Zurückhaltung auf.
 > *The government called for restraint.*
 
+**Phrases & Expressions:**
+- **Zurückhaltung üben** — *restraint; reserve*
+- **sich Zurückhaltung auferlegen** — *restraint; reserve*
+- **gebotene Zurückhaltung** — *restraint; reserve*
+
 **Collocations**
 - Zurückhaltung üben
 - sich Zurückhaltung auferlegen

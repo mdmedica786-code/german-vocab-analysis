@@ -34,6 +34,9 @@ status: "new"
 > Die Summe scheint mir zu hoch!
 > *The sum seems too high to me!*
 
+**Phrases & Expressions:**
+- **Die Summe scheint mir zu hoch** — *The sum seems too high to me* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

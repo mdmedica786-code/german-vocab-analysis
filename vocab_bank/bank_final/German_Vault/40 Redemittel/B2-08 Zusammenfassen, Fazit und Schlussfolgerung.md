@@ -14,12 +14,14 @@ tags: ["redemittel", "level/B2"]
 ## Zusammenfassen
 
 - **Zusammenfassend lässt sich festhalten, dass ...** ⭐ — In summary, it can be stated that ...
+  - Words: [[lassen]] · [[festhalten]] · [[zulassen]] · [[sich etwas gefallen lassen]] · [[sich scheiden lassen]] · [[auslassen]] · [[einlassen]] · [[zusammenfassend]]
   - Zusammenfassend lässt sich festhalten, dass beide Lösungen Vor- und Nachteile haben. *(In summary, it can be stated that both solutions have advantages and disadvantages.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: sich lassen + Infinitiv; dass-Satz
   - Variants: Kurz gesagt: ... | Alles in allem kann man sagen, dass ...
   - Exam: Goethe B2 Sprechen und Schreiben
 - **Ich möchte die wichtigsten Punkte noch einmal zusammenfassen.** ⭐ — I would like to summarise the most important points once more.
+  - Words: [[Punkt]] · [[möchten]] · [[einmal]] · [[zusammenfassen]]
   - Ich möchte die wichtigsten Punkte noch einmal kurz zusammenfassen. *(I would like to briefly summarise the most important points once more.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: möchte + Infinitiv; zusammenfassen: trennbares Verb
@@ -28,12 +30,14 @@ tags: ["redemittel", "level/B2"]
 ## Fazit ziehen
 
 - **Mein Fazit lautet: ...** ⭐ — My conclusion is: ...
+  - Words: [[lauten]] · [[mein]] · [[Fazit]]
   - Mein Fazit lautet: Die Vorteile überwiegen deutlich. *(My conclusion is: the advantages clearly outweigh.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: Doppelpunkt; Fazit lauten
   - Variants: Als Fazit bleibt festzuhalten, dass ... | Unter dem Strich ...
   - Exam: Goethe B2 Sprechen und Schreiben
 - **Unter dem Strich bleibt festzuhalten, dass ...** — The bottom line is that ...
+  - Words: [[bleiben]] · [[streichen]] · [[durchstreichen]] · [[stehenbleiben]]
   - Unter dem Strich bleibt festzuhalten, dass sich der Aufwand gelohnt hat. *(The bottom line is that the effort was worthwhile.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: festzuhalten bleiben = es bleibt festzuhalten
@@ -42,12 +46,14 @@ tags: ["redemittel", "level/B2"]
 ## Schlussfolgerung ziehen
 
 - **Daraus ergibt sich, dass ...** ⭐ — From this it follows that ...
+  - Words: [[daraus]] · [[ergeben]]
   - Daraus ergibt sich, dass wir mehr Personal brauchen. *(From this it follows that we need more staff.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: sich ergeben aus + Dativ; dass-Satz
   - Variants: Daraus folgt, dass ... | Daraus lässt sich ableiten, dass ...
   - Exam: Goethe B2 Sprechen und Schreiben
 - **Ich komme daher zu dem Schluss, dass ...** ⭐ — I therefore come to the conclusion that ...
+  - Words: [[kommen]] · [[daher]] · [[Schluss]]
   - Ich komme daher zu dem Schluss, dass der Vorschlag sinnvoll ist. *(I therefore come to the conclusion that the proposal makes sense.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: zu dem Schluss kommen, dass
@@ -56,6 +62,7 @@ tags: ["redemittel", "level/B2"]
 ## Ergebnis festhalten
 
 - **Wir haben uns darauf geeinigt, dass ...** ⭐ — We have agreed that ...
+  - Words: [[darauf]] · [[einigen]]
   - Wir haben uns darauf geeinigt, dass die Sitzung künftig montags stattfindet. *(We have agreed that the meeting will take place on Mondays in future.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: sich einigen auf + Akkusativ; Perfekt
@@ -70,12 +77,14 @@ tags: ["redemittel", "level/B2"]
 ## Ausblick geben
 
 - **In Zukunft wird es wichtig sein, ...** ⭐ — In future it will be important to ...
+  - Words: [[wichtig]] · [[Zukunft]] · [[geboren werden]] · [[werden]] · [[loswerden]]
   - In Zukunft wird es wichtig sein, mehr junge Ärzte auszubilden. *(In future it will be important to train more young doctors.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: Futur I: wird ... sein; zu-Infinitiv
   - Variants: Künftig sollte man ... | Es bleibt abzuwarten, ob ...
   - Exam: Goethe B2 Sprechen und Schreiben
 - **Es bleibt abzuwarten, wie sich ... entwickelt.** — It remains to be seen how ... develops.
+  - Words: [[entwickeln]] · [[bleiben]] · [[weiterentwickeln]] · [[mitentwickeln]] · [[stehenbleiben]]
   - Es bleibt abzuwarten, wie sich die Zahlen in den nächsten Jahren entwickeln. *(It remains to be seen how the figures develop in the next few years.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: bleiben + zu-Infinitiv; indirekte Frage
@@ -84,6 +93,7 @@ tags: ["redemittel", "level/B2"]
 ## Hauptpunkte wiederholen
 
 - **Noch einmal kurz die wichtigsten Argumente: ...** — Once more, briefly, the most important arguments: ...
+  - Words: [[kurz]] · [[einmal]] · [[Argument]]
   - Noch einmal kurz die wichtigsten Argumente: Kosten, Nutzen und Zeitaufwand. *(Once more, briefly, the most important arguments: costs, benefits and time required.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: Doppelpunkt; Aufzählung folgt
@@ -92,6 +102,7 @@ tags: ["redemittel", "level/B2"]
 ## Schluss einleiten
 
 - **Zum Abschluss möchte ich noch sagen, dass ...** ⭐ — In closing I would like to say that ...
+  - Words: [[sagen]] · [[möchten]] · [[Abschluss]]
   - Zum Abschluss möchte ich noch sagen, dass mir das Thema sehr am Herzen liegt. *(In closing I would like to say that this topic is very close to my heart.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: dass-Satz: Verb am Ende
@@ -100,6 +111,7 @@ tags: ["redemittel", "level/B2"]
 ## Zusammenhang herstellen
 
 - **Im Großen und Ganzen sind sich alle einig.** — By and large, everyone agrees.
+  - Words: [[groß]] · [[alle]]
   - Im Großen und Ganzen sind sich alle einig, dass etwas getan werden muss. *(By and large everyone agrees that something has to be done.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: sich einig sein
@@ -108,6 +120,7 @@ tags: ["redemittel", "level/B2"]
 ## Schlussfolgerung ziehen
 
 - **Folglich ist es ratsam, ...** — Consequently, it is advisable to ...
+  - Words: [[folglich]]
   - Folglich ist es ratsam, die Therapie frühzeitig zu beginnen. *(Consequently, it is advisable to start the therapy early.)*
   - B2 · formal · speaker: Beide · to: Alle
   - Grammar: Es ist ratsam + zu-Infinitiv
@@ -116,6 +129,7 @@ tags: ["redemittel", "level/B2"]
 ## Fazit ziehen
 
 - **Wir können also sagen, dass sich der Versuch gelohnt hat.** — So we can say that the attempt was worth it.
+  - Words: [[sagen]] · [[Versuch]] · [[lohnen]] · [[also]] · [[können]]
   - Wir können also sagen, dass sich der Versuch gelohnt hat. *(So we can say that the attempt was worth it.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: sich lohnen; dass-Satz
@@ -124,6 +138,7 @@ tags: ["redemittel", "level/B2"]
 ## Zusammenfassen
 
 - **Mit anderen Worten: ...** ⭐ — In other words: ...
+  - Words: [[andere]]
   - Mit anderen Worten: Wir müssen schneller handeln. *(In other words: we have to act more quickly.)*
   - B2 · neutral · speaker: Beide · to: Alle
   - Grammar: Doppelpunkt; erklärender Anschluss

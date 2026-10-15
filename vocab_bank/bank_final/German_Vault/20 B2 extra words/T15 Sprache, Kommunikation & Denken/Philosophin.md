@@ -33,6 +33,11 @@ status: "new"
 > Die Philosophin hielt einen Vortrag über Ethik.
 > *The philosopher gave a talk on ethics.*
 
+**Phrases & Expressions:**
+- **eine bekannte Philosophin** — *philosopher (female)*
+- **die Philosophin Hannah Arendt** — *philosopher (female)*
+- **als Philosophin arbeiten** — *philosopher (female)*
+
 **Collocations**
 - eine bekannte Philosophin
 - die Philosophin Hannah Arendt

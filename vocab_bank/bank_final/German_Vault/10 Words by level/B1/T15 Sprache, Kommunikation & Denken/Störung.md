@@ -34,6 +34,13 @@ status: "new"
 > Entschuldigen Sie bitte die Störung.
 > *Please excuse the interruption.*
 
+**Phrases & Expressions:**
+- **Entschuldigen Sie bitte die Störung.** — Please excuse the interruption. *([[B1-17 Sich entschuldigen und danken|Sich entschuldigen]] · A2)*
+- **eine Störung beheben** — *disturbance; interruption; disorder*
+- **technische Störung** — *disturbance; interruption; disorder*
+- **eine Störung melden** — *disturbance; interruption; disorder*
+- **psychische Störung** — *disturbance; interruption; disorder*
+
 **Collocations**
 - eine Störung beheben
 - technische Störung

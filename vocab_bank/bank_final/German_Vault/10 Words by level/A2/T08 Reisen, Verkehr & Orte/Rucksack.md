@@ -35,6 +35,9 @@ status: "new"
 > Ich nehme lieber einen Rucksack als einen Koffer mit.
 > *I'd rather take a backpack than a suitcase.*
 
+**Phrases & Expressions:**
+- **Ich nehme lieber einen Rucksack als einen Koffer mit** — *I'd rather take a backpack than a suitcase* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 4b (Gute Unterhaltung!) · Goethe word list A2
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Viele Tierarten sind vom Aussterben bedroht.
 > *Many animal species are threatened with extinction.*
 
+**Phrases & Expressions:**
+- **eine seltene Tierart** — *animal species; kind of animal*
+- **bedrohte Tierarten** — *animal species; kind of animal*
+- **eine Tierart schützen** — *animal species; kind of animal*
+
 **Collocations**
 - eine seltene Tierart
 - bedrohte Tierarten

@@ -33,6 +33,11 @@ status: "new"
 > Meine Tante ist eine echte Tierfreundin.
 > *My aunt is a real animal lover.*
 
+**Phrases & Expressions:**
+- **eine große Tierfreundin** — *animal lover (female)*
+- **eine echte Tierfreundin** — *animal lover (female)*
+- **Tierfreundinnen und Tierfreunde** — *animal lover (female)*
+
 **Collocations**
 - eine große Tierfreundin
 - eine echte Tierfreundin

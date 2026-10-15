@@ -28,6 +28,10 @@ status: "new"
 > Auf dem Markt gibt es Obst, Gemüse, Käse usw.
 > *At the market there are fruit, vegetables, cheese etc.*
 
+**Phrases & Expressions:**
+- **Obst, Gemüse usw.** — *etc. (and so on)*
+- **und so weiter und so fort** — *etc. (and so on)*
+
 **Collocations**
 - Obst, Gemüse usw.
 - und so weiter und so fort

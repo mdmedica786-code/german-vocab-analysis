@@ -30,6 +30,9 @@ status: "new"
 > Ich mag dieses Haus nicht. Es sieht unheimlich aus.
 > *I do not like this house. It looks eerie.*
 
+**Phrases & Expressions:**
+- **Ich mag dieses Haus nicht. Es sieht unheimlich aus** — *I do not like this house. It looks eerie* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

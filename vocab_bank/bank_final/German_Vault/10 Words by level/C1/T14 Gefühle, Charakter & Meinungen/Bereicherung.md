@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die neue Kollegin ist eine Bereicherung für das Team.
 > *The new colleague is an asset to the team.*
+
+**Phrases & Expressions:**
+- **Die neue Kollegin ist eine Bereicherung für das Team** — *The new colleague is an asset to the team* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -30,6 +30,11 @@ status: "new"
 > Die Mobilitätsbranche verändert sich durch Elektroautos.
 > *The mobility industry is changing because of electric cars.*
 
+**Phrases & Expressions:**
+- **in der Mobilitätsbranche arbeiten** — *mobility industry*
+- **die Mobilitätsbranche wächst** — *mobility industry*
+- **die Mobilitätsbranche der Zukunft** — *mobility industry*
+
 **Collocations**
 - in der Mobilitätsbranche arbeiten
 - die Mobilitätsbranche wächst

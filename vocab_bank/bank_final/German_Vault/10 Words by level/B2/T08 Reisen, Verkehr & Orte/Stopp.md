@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Wir machen einen kurzen Stopp an der Tankstelle.
 > *We make a short stop at the petrol station.*
+
+**Phrases & Expressions:**
+- **Wir machen einen kurzen Stopp an der Tankstelle** — *We make a short stop at the petrol station* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -29,6 +29,11 @@ status: "new"
 > Die Torte schmeckt einfach göttlich.
 > *The cake tastes simply heavenly.*
 
+**Phrases & Expressions:**
+- **göttlich schmecken** — *divine; heavenly*
+- **ein göttliches Wesen** — *divine; heavenly*
+- **göttliche Gnade** — *divine; heavenly*
+
 **Collocations**
 - göttlich schmecken
 - ein göttliches Wesen

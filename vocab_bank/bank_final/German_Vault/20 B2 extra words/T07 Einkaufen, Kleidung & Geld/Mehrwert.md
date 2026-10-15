@@ -33,6 +33,11 @@ status: "new"
 > Das Angebot bietet den Kunden einen echten Mehrwert.
 > *The offer gives customers real added value.*
 
+**Phrases & Expressions:**
+- **einen Mehrwert bieten** — *added value; benefit*
+- **ein Mehrwert für + Akk.** — *added value; benefit*
+- **Mehrwert schaffen** — *added value; benefit*
+
 **Collocations**
 - einen Mehrwert bieten
 - ein Mehrwert für + Akk.

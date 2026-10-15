@@ -34,6 +34,9 @@ status: "new"
 > Meine Kinder haben in der Schule einen Intelligenztest gemacht.
 > *My children took an intelligence test at school.*
 
+**Phrases & Expressions:**
+- **Meine Kinder haben in der Schule einen Intelligenztest gemacht** — *My children took an intelligence test at school* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

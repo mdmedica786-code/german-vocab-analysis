@@ -34,6 +34,14 @@ status: "new"
 > Pass bitte mit diesem Glas auf. Es geht leicht kaputt.
 > *Please be careful with this glass. It breaks easily.*
 
+**Phrases & Expressions:**
+- **wie geht es dir?** — how are you? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **wie geht es dir** — how are you? *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · A1)*
+- **es geht um ...** — it is about ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · A2)*
+- **ich hoffe, es geht dir gut** — I hope you are well *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · B1)*
+- **geht nicht** — that won't do; that's not possible *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · A2)*
+- **wenn es darum geht, ...** — when it comes to ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+
 **Source:** Netzwerk neu B1 K2 3a (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

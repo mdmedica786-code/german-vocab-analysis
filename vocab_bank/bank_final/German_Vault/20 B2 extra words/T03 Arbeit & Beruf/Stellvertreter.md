@@ -33,6 +33,11 @@ status: "new"
 > Der Stellvertreter leitet die Sitzung.
 > *The deputy chairs the meeting.*
 
+**Phrases & Expressions:**
+- **der Stellvertreter des Chefs** — *deputy; substitute*
+- **einen Stellvertreter ernennen** — *deputy; substitute*
+- **als Stellvertreter** — *deputy; substitute*
+
 **Collocations**
 - der Stellvertreter des Chefs
 - einen Stellvertreter ernennen

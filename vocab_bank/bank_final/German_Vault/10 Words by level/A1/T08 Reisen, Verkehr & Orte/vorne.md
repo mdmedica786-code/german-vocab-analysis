@@ -30,6 +30,10 @@ status: "new"
 > Vorne rechts sitzt der Lehrer.
 > *The teacher sits at the front right.*
 
+**Phrases & Expressions:**
+- **nach vorne** — forward; to the front *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **da vorne** — over there; up ahead *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A1)*
+
 **Source:** Netzwerk neu A1 K12 11a (Ab in den Urlaub!)
 <!-- bank:end -->
 

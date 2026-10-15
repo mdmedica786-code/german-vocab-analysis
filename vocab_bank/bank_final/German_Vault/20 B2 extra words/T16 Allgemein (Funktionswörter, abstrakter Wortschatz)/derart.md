@@ -29,6 +29,11 @@ status: "new"
 > Er war derart müde, dass er sofort einschlief.
 > *He was so tired that he fell asleep immediately.*
 
+**Phrases & Expressions:**
+- **derart müde** — *so; to such an extent*
+- **derart viel** — *so; to such an extent*
+- **derart, dass** — *so; to such an extent*
+
 **Collocations**
 - derart müde
 - derart viel

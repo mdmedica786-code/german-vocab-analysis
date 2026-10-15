@@ -36,6 +36,9 @@ status: "new"
 > Ich brauche ein Kilo Äpfel.
 > *I need a kilo of apples.*
 
+**Phrases & Expressions:**
+- **Ein paar Kilo weniger würden Ihrem Herzen guttun.** — A few kilos less would do your heart good. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Gewicht besprechen]] · B1)*
+
 **Source:** Netzwerk neu A1 K4 6d ÜB (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

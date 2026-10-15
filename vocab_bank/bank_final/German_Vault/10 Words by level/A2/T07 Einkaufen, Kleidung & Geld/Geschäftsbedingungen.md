@@ -34,6 +34,9 @@ status: "new"
 > Die Geschäftsbedingungen finden Sie auf unserer Internetseite.
 > *You can find the business conditions on our website.*
 
+**Phrases & Expressions:**
+- **Die Geschäftsbedingungen finden Sie auf unserer Internetseite** — *You can find the business conditions on our website* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

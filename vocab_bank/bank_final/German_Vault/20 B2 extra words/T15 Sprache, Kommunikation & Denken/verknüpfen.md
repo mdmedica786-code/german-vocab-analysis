@@ -31,6 +31,11 @@ status: "new"
 > Man sollte die beiden Themen sinnvoll verknüpfen.
 > *One should link the two topics sensibly.*
 
+**Phrases & Expressions:**
+- **etwas mit etwas verknüpfen** — *to link; to connect*
+- **Informationen verknüpfen** — *to link; to connect*
+- **eng verknüpft** — *to link; to connect*
+
 **Collocations**
 - etwas mit etwas verknüpfen
 - Informationen verknüpfen

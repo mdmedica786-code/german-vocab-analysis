@@ -35,6 +35,9 @@ status: "new"
 > Bringst du bitte das Paket zur Post?
 > *Can you take the parcel to the post office, please?*
 
+**Phrases & Expressions:**
+- **Ich möchte ein Paket abholen.** — I would like to pick up a parcel. *([[B2-13 Alltag in Deutschland - Wohnung, Behörden, Bank, Versicherung|Post und Paket]] · B1)*
+
 **Source:** Netzwerk neu A1 K7 1a (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->
 

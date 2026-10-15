@@ -33,6 +33,12 @@ status: "new"
 > Der Patient hat einen Bruch im Becken.
 > *The patient has a fracture of the pelvis.*
 
+**Phrases & Expressions:**
+- **gebrochenes Becken** — *pelvis; basin*
+- **Schmerzen im Becken** — *pelvis; basin*
+- **das Becken röntgen** — *pelvis; basin*
+- **das Becken untersuchen** — *pelvis; basin*
+
 **Collocations**
 - gebrochenes Becken
 - Schmerzen im Becken

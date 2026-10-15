@@ -32,6 +32,9 @@ status: "new"
 > Stefan wird beim Zelten immer von den Mücken gestochen.
 > *Stefan always gets stung by mosquitoes when camping.*
 
+**Phrases & Expressions:**
+- **Stefan wird beim Zelten immer von den Mücken gestochen** — *Stefan always gets stung by mosquitoes when camping* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

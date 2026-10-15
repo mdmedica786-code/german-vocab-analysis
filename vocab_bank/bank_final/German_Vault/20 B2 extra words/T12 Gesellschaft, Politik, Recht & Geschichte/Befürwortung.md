@@ -33,6 +33,11 @@ status: "new"
 > Wir danken für die Befürwortung unseres Antrags.
 > *We thank you for supporting our application.*
 
+**Phrases & Expressions:**
+- **die Befürwortung eines Antrags** — *support; advocacy*
+- **Befürwortung finden** — *support; advocacy*
+- **mit Befürwortung der Stadt** — *support; advocacy*
+
 **Collocations**
 - die Befürwortung eines Antrags
 - Befürwortung finden

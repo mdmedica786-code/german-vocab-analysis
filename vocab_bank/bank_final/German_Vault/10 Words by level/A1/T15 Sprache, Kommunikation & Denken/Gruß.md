@@ -35,6 +35,14 @@ status: "new"
 > Einen schönen Gruß an deine Eltern!
 > *Best wishes to your parents!*
 
+**Phrases & Expressions:**
+- **Viele liebe Grüße, deine Anna** — Many kind regards, your Anna *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+- **Bis bald und liebe Grüße** — See you soon and kind regards *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+- **Herzliche Grüße aus ...** — Warm greetings from ... *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+- **Mit freundlichen Grüßen** — Yours sincerely *([[B1-13 Formelle E-Mail und Brief|Grußformel]] · B1)*
+- **Mit besten Grüßen aus ...** — With best regards from ... *([[B1-13 Formelle E-Mail und Brief|Grußformel]] · B1)*
+- **Ich verbleibe mit freundlichen Grüßen** — I remain, with kind regards *([[B2-05 Anfrage, Bewerbung und Antrag (schriftlich)|Grußformel]] · B1)*
+
 **Collocations**
 - Liebe Grüße
 - viele Grüße

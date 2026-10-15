@@ -35,6 +35,9 @@ status: "new"
 > In den Bergen liegt viel Schnee.
 > *There is a lot of snow in the mountains.*
 
+**Phrases & Expressions:**
+- **In den Bergen liegt viel Schnee** — *There is a lot of snow in the mountains* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 11b (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

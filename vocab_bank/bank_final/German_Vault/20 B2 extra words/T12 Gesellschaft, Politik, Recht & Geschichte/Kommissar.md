@@ -33,6 +33,11 @@ status: "new"
 > Der Kommissar befragte den Zeugen.
 > *The inspector questioned the witness.*
 
+**Phrases & Expressions:**
+- **ein Kommissar ermittelt** — *inspector; commissioner*
+- **der leitende Kommissar** — *inspector; commissioner*
+- **der EU-Kommissar** — *inspector; commissioner*
+
 **Collocations**
 - ein Kommissar ermittelt
 - der leitende Kommissar

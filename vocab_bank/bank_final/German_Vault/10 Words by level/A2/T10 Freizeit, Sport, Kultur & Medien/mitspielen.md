@@ -33,6 +33,9 @@ status: "new"
 > Willst du beim Fußball mitspielen?
 > *Do you want to join in the football game?*
 
+**Phrases & Expressions:**
+- **Willst du beim Fußball mitspielen** — *Do you want to join in the football game* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 4 (Sportlich, sportlich)
 <!-- bank:end -->
 

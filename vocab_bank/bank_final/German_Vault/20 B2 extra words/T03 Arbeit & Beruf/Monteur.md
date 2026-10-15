@@ -33,6 +33,11 @@ status: "new"
 > Der Monteur installiert die neue Heizung.
 > *The fitter is installing the new heating.*
 
+**Phrases & Expressions:**
+- **den Monteur bestellen** — *fitter; installation technician*
+- **ein Monteur kommt** — *fitter; installation technician*
+- **Termin mit dem Monteur** — *fitter; installation technician*
+
 **Collocations**
 - den Monteur bestellen
 - ein Monteur kommt

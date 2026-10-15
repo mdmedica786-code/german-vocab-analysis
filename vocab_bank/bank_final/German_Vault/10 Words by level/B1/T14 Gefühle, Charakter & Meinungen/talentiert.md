@@ -30,6 +30,9 @@ status: "new"
 > Sie ist eine talentierte Malerin.
 > *She is a talented painter.*
 
+**Phrases & Expressions:**
+- **Sie ist eine talentierte Malerin** — *She is a talented painter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 12b (Kunststücke)
 <!-- bank:end -->
 

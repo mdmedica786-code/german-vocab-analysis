@@ -34,6 +34,9 @@ status: "new"
 > In der Bücherei kann man Bücher ausleihen.
 > *In the library you can borrow books.*
 
+**Phrases & Expressions:**
+- **In der Bücherei kann man Bücher ausleihen** — *In the library you can borrow books* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 9a (Gelernt ist gelernt!)
 <!-- bank:end -->
 

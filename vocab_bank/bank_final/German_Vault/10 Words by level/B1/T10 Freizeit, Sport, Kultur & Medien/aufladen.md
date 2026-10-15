@@ -34,6 +34,9 @@ status: "new"
 > Ich muss mein Telefon aufladen. Die Batterie ist leer.
 > *I have to charge my phone. The battery is empty.*
 
+**Phrases & Expressions:**
+- **Ich muss mein Telefon aufladen. Die Batterie ist leer** — *I have to charge my phone. The battery is empty* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 1b ÜB (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

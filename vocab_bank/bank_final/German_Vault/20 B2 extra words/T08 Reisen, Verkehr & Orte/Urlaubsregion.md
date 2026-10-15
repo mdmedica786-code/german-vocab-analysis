@@ -33,6 +33,11 @@ status: "new"
 > Diese Urlaubsregion ist besonders bei Familien beliebt.
 > *This holiday region is particularly popular with families.*
 
+**Phrases & Expressions:**
+- **eine beliebte Urlaubsregion** — *holiday region*
+- **die Urlaubsregion wählen** — *holiday region*
+- **eine Urlaubsregion bereisen** — *holiday region*
+
 **Collocations**
 - eine beliebte Urlaubsregion
 - die Urlaubsregion wählen

@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Die Medikamente bewirken eine schnelle Besserung.
 > *The medicines bring about a quick improvement.*
+
+**Phrases & Expressions:**
+- **Die Medikamente bewirken eine schnelle Besserung** — *The medicines bring about a quick improvement* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

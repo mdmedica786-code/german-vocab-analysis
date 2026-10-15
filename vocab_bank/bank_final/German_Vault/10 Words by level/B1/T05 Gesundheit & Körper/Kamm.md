@@ -34,6 +34,9 @@ status: "new"
 > Hast du einen Kamm dabei?
 > *Do you have a comb with you?*
 
+**Phrases & Expressions:**
+- **Hast du einen Kamm dabei** — *Do you have a comb with you* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 6a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

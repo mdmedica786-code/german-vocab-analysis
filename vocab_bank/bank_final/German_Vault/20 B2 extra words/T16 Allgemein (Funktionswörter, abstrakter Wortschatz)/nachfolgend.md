@@ -29,6 +29,11 @@ status: "new"
 > Beachten Sie bitte die nachfolgenden Hinweise.
 > *Please note the following instructions.*
 
+**Phrases & Expressions:**
+- **nachfolgende Hinweise** — *following; below*
+- **im nachfolgenden Text** — *following; below*
+- **nachfolgend aufgeführt** — *following; below*
+
 **Collocations**
 - nachfolgende Hinweise
 - im nachfolgenden Text

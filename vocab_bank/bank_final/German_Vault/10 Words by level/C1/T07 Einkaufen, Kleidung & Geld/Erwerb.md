@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Erwerb des Hauses war teuer.
 > *The purchase of the house was expensive.*
+
+**Phrases & Expressions:**
+- **Der Erwerb des Hauses war teuer** — *The purchase of the house was expensive* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

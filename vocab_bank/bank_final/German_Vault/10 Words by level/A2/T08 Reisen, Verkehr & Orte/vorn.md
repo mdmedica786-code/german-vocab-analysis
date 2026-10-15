@@ -31,6 +31,10 @@ status: "new"
 > Bitte vorn(e) einsteigen!
 > *Please board at the front!*
 
+**Phrases & Expressions:**
+- **nach vorn** — forward; to the front *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Strecken Sie bitte beide Arme nach vorn.** — Please stretch both arms out in front. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Bewegungsanweisung]] · B2)*
+
 **Source:** Netzwerk neu A2 K7 11c (Ganz schön mobil) · Goethe word list A2
 <!-- bank:end -->
 

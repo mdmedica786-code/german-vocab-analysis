@@ -34,6 +34,9 @@ status: "new"
 > Die Republik Österreich hat neun Bundesländer.
 > *The Republic of Austria has nine federal states.*
 
+**Phrases & Expressions:**
+- **Die Republik Österreich hat neun Bundesländer** — *The Republic of Austria has nine federal states* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

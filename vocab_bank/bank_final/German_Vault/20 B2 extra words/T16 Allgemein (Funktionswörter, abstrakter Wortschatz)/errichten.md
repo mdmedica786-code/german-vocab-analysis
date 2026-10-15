@@ -31,6 +31,11 @@ status: "new"
 > Hier soll ein neues Denkmal errichtet werden.
 > *A new monument is to be erected here.*
 
+**Phrases & Expressions:**
+- **ein Gebäude errichten** — *to erect; to build; to set up*
+- **ein Denkmal errichten** — *to erect; to build; to set up*
+- **eine Barriere errichten** — *to erect; to build; to set up*
+
 **Collocations**
 - ein Gebäude errichten
 - ein Denkmal errichten

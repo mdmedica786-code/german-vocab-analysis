@@ -31,6 +31,14 @@ status: "new"
 > Heute bin ich sicher die Erste im Büro.
 > *Today I'll be the first at the office, for sure.*
 
+**Phrases & Expressions:**
+- **ich bin mir sicher, dass ...** — I'm sure that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **sicher nicht** — surely not; certainly not *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B1)*
+- **ich bin sicher, dass ...** — I am sure that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **sicher sein, dass ...** — to be sure that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **ich bin nicht sicher, ob ...** — I'm not sure whether ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B1)*
+- **nicht sicher** — not sure *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · A2)*
+
 **Collocations**
 - sicher sein
 - auf Nummer sicher gehen

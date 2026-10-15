@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Sie ist gut in die Gesellschaft integriert.
 > *She is well integrated into society.*
+
+**Phrases & Expressions:**
+- **Sie ist gut in die Gesellschaft integriert** — *She is well integrated into society* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

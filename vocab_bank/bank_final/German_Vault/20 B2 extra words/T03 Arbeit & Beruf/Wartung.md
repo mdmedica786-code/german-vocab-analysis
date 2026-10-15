@@ -33,6 +33,11 @@ status: "new"
 > Die Wartung der Anlage erfolgt einmal im Jahr.
 > *The maintenance of the plant takes place once a year.*
 
+**Phrases & Expressions:**
+- **regelmäßige Wartung** — *maintenance; servicing*
+- **Wartung durchführen** — *maintenance; servicing*
+- **wegen Wartungsarbeiten** — *maintenance; servicing*
+
 **Collocations**
 - regelmäßige Wartung
 - Wartung durchführen

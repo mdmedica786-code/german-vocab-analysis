@@ -33,6 +33,9 @@ status: "new"
 > Bitte wecken Sie mich morgen früh um fünf.
 > *Please wake me tomorrow at five in the morning.*
 
+**Phrases & Expressions:**
+- **Bitte wecken Sie mich morgen früh um fünf** — *Please wake me tomorrow at five in the morning* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 7a (Ab in den Urlaub!) · Goethe word list A2
 <!-- bank:end -->
 

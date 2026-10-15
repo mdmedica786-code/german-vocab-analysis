@@ -35,6 +35,14 @@ status: "new"
 > Sicherheit ist für mich sehr wichtig.
 > *Safety is very important to me.*
 
+**Phrases & Expressions:**
+- **mit Sicherheit** — for sure; certainly *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Das kann ich Ihnen leider nicht mit Sicherheit sagen.** — Unfortunately I cannot tell you that with certainty. *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Unsicherheit eingestehen]] · B2)*
+- **für Sicherheit sorgen** — *security; safety; certainty*
+- **in Sicherheit sein** — *security; safety; certainty*
+- **soziale Sicherheit** — *security; safety; certainty*
+- **Sicherheit geben** — *security; safety; certainty*
+
 **Collocations**
 - für Sicherheit sorgen
 - in Sicherheit sein

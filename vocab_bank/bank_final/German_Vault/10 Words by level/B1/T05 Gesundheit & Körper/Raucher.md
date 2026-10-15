@@ -34,6 +34,9 @@ status: "new"
 > Gibt es hier ein Zimmer für Raucher?
 > *Is there a room for smokers here?*
 
+**Phrases & Expressions:**
+- **Gibt es hier ein Zimmer für Raucher** — *Is there a room for smokers here* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

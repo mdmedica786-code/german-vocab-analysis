@@ -33,6 +33,11 @@ status: "new"
 > Der Palast ist für Besucher geöffnet.
 > *The palace is open to visitors.*
 
+**Phrases & Expressions:**
+- **ein königlicher Palast** — *palace*
+- **den Palast besichtigen** — *palace*
+- **im Palast wohnen** — *palace*
+
 **Collocations**
 - ein königlicher Palast
 - den Palast besichtigen

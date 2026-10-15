@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Fachbereich Medizin hat 2.000 Studierende.
 > *The medical department has 2,000 students.*
+
+**Phrases & Expressions:**
+- **Der Fachbereich Medizin hat 2.000 Studierende** — *The medical department has 2,000 students* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

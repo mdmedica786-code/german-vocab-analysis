@@ -34,6 +34,9 @@ status: "new"
 > Das Wort „Mütter“ hat einen Umlaut.
 > *The word “Mütter” has an umlaut.*
 
+**Phrases & Expressions:**
+- **Das Wort „Mütter“ hat einen Umlaut** — *The word “Mütter” has an umlaut* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 5a (Guten Appetit!)
 <!-- bank:end -->
 

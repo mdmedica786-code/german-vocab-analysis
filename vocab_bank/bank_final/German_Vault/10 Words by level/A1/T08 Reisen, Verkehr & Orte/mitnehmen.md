@@ -34,6 +34,9 @@ status: "new"
 > Nehmen wir meine Schwester ins Kino mit?
 > *Shall we take my sister to the cinema?*
 
+**Phrases & Expressions:**
+- **... nimmt kontinuierlich zu.** — ... is steadily increasing. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Anstieg beschreiben]] · B2)*
+
 **Source:** Netzwerk neu A1 K7 1a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

@@ -29,6 +29,9 @@ status: "new"
 > [!example] Beispiel
 > Bezüglich Ihrer Anfrage melden wir uns morgen.
 > *Regarding your enquiry, we will get back to you tomorrow.*
+
+**Phrases & Expressions:**
+- **Bezüglich Ihrer Anfrage melden wir uns morgen** — *Regarding your enquiry, we will get back to you tomorrow* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -35,6 +35,9 @@ status: "new"
 > Wo ist die Post, bitte?
 > *Where is the post office, please?*
 
+**Phrases & Expressions:**
+- **Wo ist die Post, bitte** — *Where is the post office, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 5b (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->
 

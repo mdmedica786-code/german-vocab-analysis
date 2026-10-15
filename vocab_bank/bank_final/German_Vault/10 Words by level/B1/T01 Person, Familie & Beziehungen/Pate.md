@@ -34,6 +34,9 @@ status: "new"
 > Mein Pate schenkt mir jedes Jahr ein Buch.
 > *My godfather gives me a book every year.*
 
+**Phrases & Expressions:**
+- **Mein Pate schenkt mir jedes Jahr ein Buch** — *My godfather gives me a book every year* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

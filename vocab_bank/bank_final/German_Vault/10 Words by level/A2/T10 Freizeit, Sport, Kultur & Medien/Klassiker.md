@@ -34,6 +34,9 @@ status: "new"
 > „Faust“ ist ein Klassiker der deutschen Literatur.
 > *"Faust" is a classic of German literature.*
 
+**Phrases & Expressions:**
+- **„Faust“ ist ein Klassiker der deutschen Literatur** — *"Faust" is a classic of German literature* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 5a (Arbeitswelten)
 <!-- bank:end -->
 

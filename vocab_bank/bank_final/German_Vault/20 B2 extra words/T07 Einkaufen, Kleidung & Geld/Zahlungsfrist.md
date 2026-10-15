@@ -33,6 +33,11 @@ status: "new"
 > Die Zahlungsfrist endet am Monatsende.
 > *The payment deadline ends at the end of the month.*
 
+**Phrases & Expressions:**
+- **die Zahlungsfrist einhalten** — *payment deadline*
+- **Zahlungsfrist verlängern** — *payment deadline*
+- **Zahlungsfrist überschreiten** — *payment deadline*
+
 **Collocations**
 - die Zahlungsfrist einhalten
 - Zahlungsfrist verlängern

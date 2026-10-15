@@ -30,6 +30,9 @@ status: "new"
 > Unser Lehrer ist sehr humorvoll.
 > *Our teacher is very humorous.*
 
+**Phrases & Expressions:**
+- **Unser Lehrer ist sehr humorvoll** — *Our teacher is very humorous* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander)
 <!-- bank:end -->
 

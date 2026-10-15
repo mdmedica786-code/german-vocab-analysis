@@ -33,6 +33,9 @@ status: "new"
 > Bitte benimm dich anständig.
 > *Please behave properly.*
 
+**Phrases & Expressions:**
+- **Bitte benimm dich anständig** — *Please behave properly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 5a (Sportlich, sportlich)
 <!-- bank:end -->
 

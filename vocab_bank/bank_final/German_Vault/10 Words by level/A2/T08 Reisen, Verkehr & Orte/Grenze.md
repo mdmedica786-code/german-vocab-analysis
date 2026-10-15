@@ -35,6 +35,9 @@ status: "new"
 > An der Grenze musst du deinen Ausweis zeigen.
 > *At the border you have to show your ID.*
 
+**Phrases & Expressions:**
+- **An der Grenze musst du deinen Ausweis zeigen** — *At the border you have to show your ID* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 5d (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

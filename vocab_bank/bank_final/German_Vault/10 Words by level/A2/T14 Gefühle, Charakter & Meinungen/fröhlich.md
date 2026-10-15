@@ -31,6 +31,9 @@ status: "new"
 > Die Musik klingt fröhlich.
 > *The music sounds cheerful.*
 
+**Phrases & Expressions:**
+- **Die Musik klingt fröhlich** — *The music sounds cheerful* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 12b (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

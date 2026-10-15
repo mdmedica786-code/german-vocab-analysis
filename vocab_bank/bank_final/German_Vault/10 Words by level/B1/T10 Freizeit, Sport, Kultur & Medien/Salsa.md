@@ -31,6 +31,9 @@ status: "new"
 > Am Samstag tanzen wir Salsa.
 > *On Saturday we dance salsa.*
 
+**Phrases & Expressions:**
+- **Am Samstag tanzen wir Salsa** — *On Saturday we dance salsa* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist)
 <!-- bank:end -->
 

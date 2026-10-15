@@ -33,6 +33,11 @@ status: "new"
 > Die Logistik ist ein wichtiger Teil der Firma.
 > *Logistics is an important part of the company.*
 
+**Phrases & Expressions:**
+- **in der Logistik arbeiten** — *logistics*
+- **die Logistik organisieren** — *logistics*
+- **ein Logistik-Unternehmen** — *logistics*
+
 **Collocations**
 - in der Logistik arbeiten
 - die Logistik organisieren

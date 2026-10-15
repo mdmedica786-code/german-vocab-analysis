@@ -35,6 +35,9 @@ status: "new"
 > Hast du einen Kuli für mich?
 > *Do you have a pen for me?*
 
+**Phrases & Expressions:**
+- **Hast du einen Kuli für mich** — *Do you have a pen for me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 8a (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

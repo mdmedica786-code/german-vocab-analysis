@@ -30,6 +30,11 @@ status: "new"
 > Die Forscher nehmen die Wal-Laute unter Wasser auf.
 > *The researchers record the whale sounds underwater.*
 
+**Phrases & Expressions:**
+- **Wal-Laute aufnehmen** — *whale sound; whale call*
+- **Wal-Laute analysieren** — *whale sound; whale call*
+- **Wal-Laute hören** — *whale sound; whale call*
+
 **Collocations**
 - Wal-Laute aufnehmen
 - Wal-Laute analysieren

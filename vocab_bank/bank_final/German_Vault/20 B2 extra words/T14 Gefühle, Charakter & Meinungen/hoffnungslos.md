@@ -29,6 +29,11 @@ status: "new"
 > Die Lage der Flüchtlinge war hoffnungslos.
 > *The situation of the refugees was hopeless.*
 
+**Phrases & Expressions:**
+- **hoffnungslos überfordert** — *hopeless*
+- **ein hoffnungsloser Fall** — *hopeless*
+- **hoffnungslos sein** — *hopeless*
+
 **Collocations**
 - hoffnungslos überfordert
 - ein hoffnungsloser Fall

@@ -29,6 +29,11 @@ status: "new"
 > Wir sollten rational entscheiden und nicht aus Angst.
 > *We should decide rationally and not out of fear.*
 
+**Phrases & Expressions:**
+- **rational denken** — *rational*
+- **eine rationale Entscheidung** — *rational*
+- **rational betrachtet** — *rational*
+
 **Collocations**
 - rational denken
 - eine rationale Entscheidung

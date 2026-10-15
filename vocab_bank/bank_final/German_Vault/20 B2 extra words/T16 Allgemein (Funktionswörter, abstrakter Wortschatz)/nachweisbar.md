@@ -29,6 +29,11 @@ status: "new"
 > Der Zusammenhang ist wissenschaftlich nachweisbar.
 > *The connection is scientifically provable.*
 
+**Phrases & Expressions:**
+- **nachweisbar sein** — *provable; detectable*
+- **wissenschaftlich nachweisbar** — *provable; detectable*
+- **kaum nachweisbar** — *provable; detectable*
+
 **Collocations**
 - nachweisbar sein
 - wissenschaftlich nachweisbar

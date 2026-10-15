@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Österreich ist eine Republik.
 > *Austria is a republic.*
+
+**Phrases & Expressions:**
+- **Österreich ist eine Republik** — *Austria is a republic* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

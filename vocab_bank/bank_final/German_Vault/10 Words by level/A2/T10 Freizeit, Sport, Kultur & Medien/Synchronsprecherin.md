@@ -34,6 +34,9 @@ status: "new"
 > Die Synchronsprecherin spricht die Hauptrolle.
 > *The voice actress speaks the lead role.*
 
+**Phrases & Expressions:**
+- **Die Synchronsprecherin spricht die Hauptrolle** — *The voice actress speaks the lead role* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!)
 <!-- bank:end -->
 

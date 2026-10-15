@@ -33,6 +33,11 @@ status: "new"
 > Häng deine Jacke bitte auf einen Kleiderbügel.
 > *Please hang your jacket on a hanger.*
 
+**Phrases & Expressions:**
+- **auf den Kleiderbügel hängen** — *clothes hanger*
+- **ein Kleiderbügel aus Holz** — *clothes hanger*
+- **Kleiderbügel kaufen** — *clothes hanger*
+
 **Collocations**
 - auf den Kleiderbügel hängen
 - ein Kleiderbügel aus Holz

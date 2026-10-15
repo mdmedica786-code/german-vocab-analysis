@@ -34,6 +34,9 @@ status: "new"
 > Ich habe einen interessanten Zeitschriftenartikel gelesen.
 > *I read an interesting magazine article.*
 
+**Phrases & Expressions:**
+- **Ich habe einen interessanten Zeitschriftenartikel gelesen** — *I read an interesting magazine article* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3b (Veränderungen)
 <!-- bank:end -->
 

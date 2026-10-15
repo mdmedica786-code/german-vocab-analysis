@@ -34,6 +34,9 @@ status: "new"
 > Ich brauche neue Sportkleidung.
 > *I need new sportswear.*
 
+**Phrases & Expressions:**
+- **Ich brauche neue Sportkleidung** — *I need new sportswear* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

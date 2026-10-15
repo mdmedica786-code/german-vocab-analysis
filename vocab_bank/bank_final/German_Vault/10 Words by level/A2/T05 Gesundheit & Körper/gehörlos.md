@@ -30,6 +30,9 @@ status: "new"
 > Mein Onkel ist gehörlos und benutzt die Gebärdensprache.
 > *My uncle is deaf and uses sign language.*
 
+**Phrases & Expressions:**
+- **Mein Onkel ist gehörlos und benutzt die Gebärdensprache** — *My uncle is deaf and uses sign language* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

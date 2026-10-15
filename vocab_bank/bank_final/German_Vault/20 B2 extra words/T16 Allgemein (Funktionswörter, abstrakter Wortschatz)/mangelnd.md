@@ -29,6 +29,11 @@ status: "new"
 > Wegen mangelnder Nachfrage fällt der Kurs aus.
 > *The course is cancelled because of insufficient demand.*
 
+**Phrases & Expressions:**
+- **mangelnde Erfahrung** — *lacking; insufficient*
+- **mangelndes Interesse** — *lacking; insufficient*
+- **aus mangelnder Nachfrage** — *lacking; insufficient*
+
 **Collocations**
 - mangelnde Erfahrung
 - mangelndes Interesse

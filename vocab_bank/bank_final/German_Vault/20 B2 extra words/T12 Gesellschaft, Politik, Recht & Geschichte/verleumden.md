@@ -31,6 +31,11 @@ status: "new"
 > Er wurde von einem Konkurrenten verleumdet.
 > *He was slandered by a competitor.*
 
+**Phrases & Expressions:**
+- **jemanden verleumden** — *to slander; to defame*
+- **öffentlich verleumden** — *to slander; to defame*
+- **verleumdet werden** — *to slander; to defame*
+
 **Collocations**
 - jemanden verleumden
 - öffentlich verleumden

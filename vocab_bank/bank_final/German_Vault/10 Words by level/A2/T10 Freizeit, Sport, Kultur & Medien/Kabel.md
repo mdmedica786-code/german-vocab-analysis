@@ -35,6 +35,9 @@ status: "new"
 > Wo ist das Kabel für das Aufnahmegerät?
 > *Where is the cable for the recording device?*
 
+**Phrases & Expressions:**
+- **Wo ist das Kabel für das Aufnahmegerät** — *Where is the cable for the recording device* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1a ÜB (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

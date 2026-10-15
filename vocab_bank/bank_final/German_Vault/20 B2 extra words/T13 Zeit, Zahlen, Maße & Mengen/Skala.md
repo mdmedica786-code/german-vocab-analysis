@@ -33,6 +33,12 @@ status: "new"
 > Die Skala reicht von eins bis zehn.
 > *The scale ranges from one to ten.*
 
+**Phrases & Expressions:**
+- **Wie stark ist der Schmerz auf einer Skala von null bis zehn?** — How strong is the pain on a scale from zero to ten? *([[FSP-03 Schmerzanamnese|Intensität erfragen]] · B1)*
+- **auf einer Skala von** — *scale*
+- **die Skala ablesen** — *scale*
+- **eine Skala von eins bis zehn** — *scale*
+
 **Collocations**
 - auf einer Skala von
 - die Skala ablesen

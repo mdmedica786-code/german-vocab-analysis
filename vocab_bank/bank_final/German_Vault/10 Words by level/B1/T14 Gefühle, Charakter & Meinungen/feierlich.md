@@ -30,6 +30,9 @@ status: "new"
 > Die Eröffnung war sehr feierlich.
 > *The opening was very festive.*
 
+**Phrases & Expressions:**
+- **Die Eröffnung war sehr feierlich** — *The opening was very festive* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist)
 <!-- bank:end -->
 

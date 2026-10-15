@@ -34,6 +34,9 @@ status: "new"
 > Im Nationalpark leben viele seltene Tiere.
 > *Many rare animals live in the national park.*
 
+**Phrases & Expressions:**
+- **Im Nationalpark leben viele seltene Tiere** — *Many rare animals live in the national park* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Das Produkt enthält keine Zusätze.
 > *The product contains no additives.*
 
+**Phrases & Expressions:**
+- **ohne Zusatz von** — *addition; additive*
+- **ein Zusatz zum Vertrag** — *addition; additive*
+- **Zusätze und Konservierungsstoffe** — *addition; additive*
+
 **Collocations**
 - ohne Zusatz von
 - ein Zusatz zum Vertrag

@@ -34,6 +34,9 @@ status: "new"
 > Die Bäckerin backt jeden Morgen Brot.
 > *The baker bakes bread every morning.*
 
+**Phrases & Expressions:**
+- **Die Bäckerin backt jeden Morgen Brot** — *The baker bakes bread every morning* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

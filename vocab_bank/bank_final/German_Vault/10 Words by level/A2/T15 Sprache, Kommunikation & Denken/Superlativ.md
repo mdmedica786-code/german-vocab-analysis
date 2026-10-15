@@ -34,6 +34,9 @@ status: "new"
 > Der Superlativ von „gut“ ist „am besten“.
 > *The superlative of "gut" is "am besten".*
 
+**Phrases & Expressions:**
+- **Der Superlativ von „gut“ ist „am besten“** — *The superlative of "gut" is "am besten"* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 6b (Immer online?)
 <!-- bank:end -->
 

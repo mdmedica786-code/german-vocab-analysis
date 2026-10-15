@@ -33,6 +33,11 @@ status: "new"
 > Die Dürre hat die Ernte im Süden zerstört.
 > *The drought has destroyed the harvest in the south.*
 
+**Phrases & Expressions:**
+- **eine lange Dürre** — *drought*
+- **unter Dürre leiden** — *drought*
+- **Dürre und Hitze** — *drought*
+
 **Collocations**
 - eine lange Dürre
 - unter Dürre leiden

@@ -31,6 +31,11 @@ status: "new"
 > Das Baby kriecht über den Boden.
 > *The baby crawls across the floor.*
 
+**Phrases & Expressions:**
+- **auf allen vieren kriechen** — *to crawl; to creep*
+- **durch ein Loch kriechen** — *to crawl; to creep*
+- **zu Kreuze kriechen** — *to crawl; to creep*
+
 **Collocations**
 - auf allen vieren kriechen
 - durch ein Loch kriechen

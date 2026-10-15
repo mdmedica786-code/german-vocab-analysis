@@ -29,6 +29,11 @@ status: "new"
 > Die Kommissarin stellte eine scharfsinnige Frage.
 > *The inspector asked an astute question.*
 
+**Phrases & Expressions:**
+- **eine scharfsinnige Analyse** — *astute; sharp-witted*
+- **ein scharfsinniger Beobachter** — *astute; sharp-witted*
+- **scharfsinnig kombinieren** — *astute; sharp-witted*
+
 **Collocations**
 - eine scharfsinnige Analyse
 - ein scharfsinniger Beobachter

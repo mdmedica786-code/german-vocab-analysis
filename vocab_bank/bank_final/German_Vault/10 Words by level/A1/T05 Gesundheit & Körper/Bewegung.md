@@ -35,6 +35,13 @@ status: "new"
 > Sie brauchen mehr Bewegung. Sie müssen regelmäßig spazieren gehen.
 > *You need more exercise. You must go for regular walks.*
 
+**Phrases & Expressions:**
+- **Wird der Schmerz bei Bewegung oder Atmung stärker?** — Does the pain get stronger on movement or breathing? *([[FSP-03 Schmerzanamnese|Auslösende Faktoren]] · B2)*
+- **mehr Bewegung** — *exercise; movement*
+- **in Bewegung bleiben** — *exercise; movement*
+- **körperliche Bewegung** — *exercise; movement*
+- **sich Bewegung verschaffen** — *exercise; movement*
+
 **Collocations**
 - mehr Bewegung
 - in Bewegung bleiben

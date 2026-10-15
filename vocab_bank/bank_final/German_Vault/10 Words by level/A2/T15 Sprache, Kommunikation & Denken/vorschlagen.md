@@ -35,6 +35,9 @@ status: "new"
 > Ich schlage vor, dass wir eine Pause machen.
 > **
 
+**Phrases & Expressions:**
+- **Ich würde vorschlagen, dass wir den Termin verschieben.** — I would suggest that we postpone the appointment. *([[B1-05 Vorschläge machen und darauf reagieren|Vorschlag machen]] · B1)*
+
 **Source:** Netzwerk neu A2 K1 8b (Und was machst du?) · Goethe word list B1
 <!-- bank:end -->
 

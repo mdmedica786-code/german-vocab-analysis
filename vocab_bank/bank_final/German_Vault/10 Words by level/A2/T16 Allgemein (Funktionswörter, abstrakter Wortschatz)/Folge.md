@@ -35,6 +35,14 @@ status: "new"
 > Die Folgen des Unfalls waren schlimm.
 > *The consequences of the accident were serious.*
 
+**Phrases & Expressions:**
+- **in der Folge** — subsequently; as a result *([[Folgen (consequence)|Folgen (consequence)]] · C1)*
+- **zur Folge haben, dass ...** — to result in ... *([[Folgen (consequence)|Folgen (consequence)]] · C1)*
+- **zur Folge haben** — to result in ... *([[Folgen (consequence)|Folgen (consequence)]] · C1)*
+- **als Folge davon** — as a result of that *([[Folgen (consequence)|Folgen (consequence)]] · C1)*
+- **hat zur Folge, dass ...** — results in ... *([[Folgen (consequence)|Folgen (consequence)]] · C1)*
+- **mit der Folge, dass ...** — with the result that ... *([[Folgen (consequence)|Folgen (consequence)]] · C1)*
+
 **Source:** Netzwerk neu A2 K9 5b (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Leg doch nicht jedes Wort auf die Goldwaage!
 > *Don't take every word too literally!*
 
+**Phrases & Expressions:**
+- **Leg doch nicht jedes Wort auf die Goldwaage** — *Don't take every word too literally* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 8a (Zwischenmenschliches)
 <!-- bank:end -->
 

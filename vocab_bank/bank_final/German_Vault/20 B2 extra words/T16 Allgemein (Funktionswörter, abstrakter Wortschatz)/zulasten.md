@@ -30,6 +30,10 @@ status: "new"
 > Die Sparmaßnahmen gehen zulasten der Schüler.
 > *The cutbacks are at the expense of the pupils.*
 
+**Phrases & Expressions:**
+- **zulasten der Umwelt** — *at the expense of*
+- **zulasten der Gesundheit** — *at the expense of*
+
 **Collocations**
 - zulasten der Umwelt
 - zulasten der Gesundheit

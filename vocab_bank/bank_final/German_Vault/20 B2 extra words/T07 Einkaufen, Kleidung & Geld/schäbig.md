@@ -29,6 +29,11 @@ status: "new"
 > Der Mantel sieht schon ziemlich schäbig aus.
 > *The coat already looks rather shabby.*
 
+**Phrases & Expressions:**
+- **schäbig aussehen** — *shabby*
+- **ein schäbiges Zimmer** — *shabby*
+- **schäbig gekleidet** — *shabby*
+
 **Collocations**
 - schäbig aussehen
 - ein schäbiges Zimmer

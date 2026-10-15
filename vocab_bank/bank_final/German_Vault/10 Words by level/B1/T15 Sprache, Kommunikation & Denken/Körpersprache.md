@@ -34,6 +34,9 @@ status: "new"
 > Die Körpersprache verrät oft mehr als Worte.
 > *Body language often reveals more than words.*
 
+**Phrases & Expressions:**
+- **Die Körpersprache verrät oft mehr als Worte** — *Body language often reveals more than words* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

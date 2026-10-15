@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Du spinnst wohl!
 > *You must be crazy!*
+
+**Phrases & Expressions:**
+- **Du spinnst wohl** — *You must be crazy* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

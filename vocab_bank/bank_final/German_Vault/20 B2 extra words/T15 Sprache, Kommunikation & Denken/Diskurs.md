@@ -33,6 +33,11 @@ status: "new"
 > Der öffentliche Diskurs hat sich verändert.
 > *The public discourse has changed.*
 
+**Phrases & Expressions:**
+- **öffentlicher Diskurs** — *discourse*
+- **wissenschaftlicher Diskurs** — *discourse*
+- **am Diskurs teilnehmen** — *discourse*
+
 **Collocations**
 - öffentlicher Diskurs
 - wissenschaftlicher Diskurs

@@ -33,6 +33,11 @@ status: "new"
 > Im Winter koche ich gern einen Eintopf mit Gemüse und Wurst.
 > *In winter I like to cook a stew with vegetables and sausage.*
 
+**Phrases & Expressions:**
+- **einen Eintopf kochen** — *stew; one-pot meal*
+- **deftiger Eintopf** — *stew; one-pot meal*
+- **Eintopf mit Gemüse** — *stew; one-pot meal*
+
 **Collocations**
 - einen Eintopf kochen
 - deftiger Eintopf

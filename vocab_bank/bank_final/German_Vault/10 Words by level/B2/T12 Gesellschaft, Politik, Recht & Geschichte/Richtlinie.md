@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Ärzte folgen den aktuellen Richtlinien.
 > *The doctors follow the current guidelines.*
+
+**Phrases & Expressions:**
+- **Die Ärzte folgen den aktuellen Richtlinien** — *The doctors follow the current guidelines* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

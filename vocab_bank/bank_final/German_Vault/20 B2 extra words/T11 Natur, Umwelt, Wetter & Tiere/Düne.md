@@ -33,6 +33,11 @@ status: "new"
 > Wir sind barfuß über die Dünen zum Strand gelaufen.
 > *We walked barefoot over the dunes to the beach.*
 
+**Phrases & Expressions:**
+- **über die Dünen** — *dune*
+- **Dünen schützen** — *dune*
+- **eine hohe Düne** — *dune*
+
 **Collocations**
 - über die Dünen
 - Dünen schützen

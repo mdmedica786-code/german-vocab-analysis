@@ -33,6 +33,14 @@ status: "new"
 > Halt dich gut fest.
 > *Hold on tight.*
 
+**Phrases & Expressions:**
+- **es lässt sich festhalten, dass ...** — it can be stated that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **es kann festgehalten werden, dass ...** — it can be stated that ... *([[Berichten (reporting)|Berichten (reporting)]] · C1)*
+- **fest davon überzeugt sein, dass ...** — to be firmly convinced that ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **Ich umarme dich ganz fest.** — I give you a big hug. *([[B1-12 Persönliche E-Mail und Brief|Grußformel]] · B1)*
+- **Zusammenfassend lässt sich festhalten, dass ...** — In summary, it can be stated that ... *([[B2-08 Zusammenfassen, Fazit und Schlussfolgerung|Zusammenfassen]] · B2)*
+- **Wie lange hält der Schmerz an?** — How long does the pain last? *([[FSP-03 Schmerzanamnese|Dauer und Rhythmus]] · A2)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

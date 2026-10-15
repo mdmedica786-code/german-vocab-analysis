@@ -33,6 +33,12 @@ status: "new"
 > Der Psychologe führt ein Gespräch mit dem Patienten.
 > *The psychologist has a conversation with the patient.*
 
+**Phrases & Expressions:**
+- **zum Psychologen gehen** — *psychologist (m)*
+- **ein Psychologe berät** — *psychologist (m)*
+- **klinischer Psychologe** — *psychologist (m)*
+- **Psychologe und Arzt** — *psychologist (m)*
+
 **Collocations**
 - zum Psychologen gehen
 - ein Psychologe berät

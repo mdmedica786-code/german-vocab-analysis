@@ -31,6 +31,12 @@ status: "new"
 > Mir ist ein kleiner Fehler unterlaufen.
 > *A small mistake slipped in on my part.*
 
+**Phrases & Expressions:**
+- **Mir ist ein Fehler unterlaufen, ich möchte das offen ansprechen.** — I made a mistake and want to address it openly. *([[FSP-19 Übergabe, Konsil und Rücksprache|Fehler ansprechen]] · C1)*
+- **ein Fehler unterläuft jemandem** — *to slip in (a mistake); to happen by mistake*
+- **ein Irrtum ist unterlaufen** — *to slip in (a mistake); to happen by mistake*
+- **mir ist unterlaufen** — *to slip in (a mistake); to happen by mistake*
+
 **Collocations**
 - ein Fehler unterläuft jemandem
 - ein Irrtum ist unterlaufen

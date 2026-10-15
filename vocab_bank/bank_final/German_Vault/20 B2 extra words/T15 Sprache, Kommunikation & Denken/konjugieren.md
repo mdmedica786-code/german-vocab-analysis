@@ -31,6 +31,11 @@ status: "new"
 > Im Unterricht konjugieren wir regelmäßige Verben.
 > *In class we conjugate regular verbs.*
 
+**Phrases & Expressions:**
+- **ein Verb konjugieren** — *to conjugate*
+- **im Präsens konjugieren** — *to conjugate*
+- **richtig konjugieren** — *to conjugate*
+
 **Collocations**
 - ein Verb konjugieren
 - im Präsens konjugieren

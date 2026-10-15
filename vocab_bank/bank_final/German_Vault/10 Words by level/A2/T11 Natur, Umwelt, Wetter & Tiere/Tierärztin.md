@@ -34,6 +34,9 @@ status: "new"
 > Die Tierärztin untersucht die Katze.
 > *The vet examines the cat.*
 
+**Phrases & Expressions:**
+- **Die Tierärztin untersucht die Katze** — *The vet examines the cat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 11b (Zusammen leben)
 <!-- bank:end -->
 

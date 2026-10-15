@@ -33,6 +33,13 @@ status: "new"
 > Der Patient bekommt Sauerstoff.
 > *The patient is given oxygen.*
 
+**Phrases & Expressions:**
+- **Geben Sie bitte vier Liter Sauerstoff über die Maske.** — Please give four litres of oxygen via mask. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Anweisung geben]] · B2)*
+- **Sauerstoff geben** — *oxygen*
+- **Sauerstoff verabreichen** — *oxygen*
+- **zu wenig Sauerstoff** — *oxygen*
+- **Sauerstoff im Blut** — *oxygen*
+
 **Collocations**
 - Sauerstoff geben
 - Sauerstoff verabreichen

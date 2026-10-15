@@ -33,6 +33,9 @@ status: "new"
 > Darf ich hier parken?
 > *May I park here?*
 
+**Phrases & Expressions:**
+- **Darf ich hier parken** — *May I park here* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil) · Goethe word list A2
 <!-- bank:end -->
 

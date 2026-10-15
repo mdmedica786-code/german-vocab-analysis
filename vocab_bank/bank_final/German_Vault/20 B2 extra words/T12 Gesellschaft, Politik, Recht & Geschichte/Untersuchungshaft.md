@@ -33,6 +33,11 @@ status: "new"
 > Der Beschuldigte sitzt in Untersuchungshaft.
 > *The accused is in pre-trial detention.*
 
+**Phrases & Expressions:**
+- **in Untersuchungshaft sitzen** — *pre-trial detention*
+- **Untersuchungshaft anordnen** — *pre-trial detention*
+- **aus der Untersuchungshaft entlassen** — *pre-trial detention*
+
 **Collocations**
 - in Untersuchungshaft sitzen
 - Untersuchungshaft anordnen

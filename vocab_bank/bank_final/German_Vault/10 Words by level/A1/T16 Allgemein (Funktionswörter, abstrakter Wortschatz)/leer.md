@@ -31,6 +31,12 @@ status: "new"
 > Mein Akku ist gleich leer.
 > *My battery is almost empty.*
 
+**Phrases & Expressions:**
+- **leer sein** — *empty*
+- **leer machen** — *empty*
+- **ein leeres Glas** — *empty*
+- **leer ausgehen** — *empty*
+
 **Collocations**
 - leer sein
 - leer machen

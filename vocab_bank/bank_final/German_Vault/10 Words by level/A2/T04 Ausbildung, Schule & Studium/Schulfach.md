@@ -34,6 +34,9 @@ status: "new"
 > Mein Lieblingsschulfach ist Biologie.
 > *My favourite school subject is biology.*
 
+**Phrases & Expressions:**
+- **Mein Lieblingsschulfach ist Biologie** — *My favourite school subject is biology* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 11a ÜB (Nach der Schulzeit)
 <!-- bank:end -->
 

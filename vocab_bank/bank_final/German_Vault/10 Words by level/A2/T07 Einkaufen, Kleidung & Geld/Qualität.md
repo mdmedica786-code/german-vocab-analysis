@@ -35,6 +35,13 @@ status: "new"
 > Dieser Fernseher hat eine gute Qualität.
 > *This television is of good quality.*
 
+**Phrases & Expressions:**
+- **Ich bin mit der Qualität leider nicht zufrieden.** — Unfortunately I am not satisfied with the quality. *([[B2-04 Beschwerde und Reklamation|Unzufriedenheit ausdrücken]] · B2)*
+- **gute Qualität** — *quality*
+- **die Qualität prüfen** — *quality*
+- **auf Qualität achten** — *quality*
+- **die Qualität sichern** — *quality*
+
 **Collocations**
 - gute Qualität
 - die Qualität prüfen

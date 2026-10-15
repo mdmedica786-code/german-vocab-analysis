@@ -34,6 +34,9 @@ status: "new"
 > Neben dem Studium habe ich einen Teilzeitjob.
 > *Besides my studies I have a part-time job.*
 
+**Phrases & Expressions:**
+- **Neben dem Studium habe ich einen Teilzeitjob** — *Besides my studies I have a part-time job* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 12a (Arbeitswelt)
 <!-- bank:end -->
 

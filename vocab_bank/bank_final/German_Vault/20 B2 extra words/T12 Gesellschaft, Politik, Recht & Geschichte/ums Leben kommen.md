@@ -29,6 +29,10 @@ status: "new"
 > Bei dem Unfall kamen zwei Menschen ums Leben.
 > *Two people lost their lives in the accident.*
 
+**Phrases & Expressions:**
+- **bei einem Unfall ums Leben kommen** — *to lose one's life; to die*
+- **ums Leben bringen** — *to lose one's life; to die*
+
 **Collocations**
 - bei einem Unfall ums Leben kommen
 - ums Leben bringen

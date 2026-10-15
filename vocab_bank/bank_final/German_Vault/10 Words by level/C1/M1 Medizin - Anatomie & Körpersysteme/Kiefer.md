@@ -34,6 +34,12 @@ status: "new"
 > Der Patient hat Schmerzen im Kiefer.
 > *The patient has pain in the jaw.*
 
+**Phrases & Expressions:**
+- **Schmerzen im Kiefer** — *jaw; pine tree (die Kiefer)*
+- **der Kiefer ist gebrochen** — *jaw; pine tree (die Kiefer)*
+- **den Kiefer öffnen** — *jaw; pine tree (die Kiefer)*
+- **Kiefer und Zähne** — *jaw; pine tree (die Kiefer)*
+
 **Collocations**
 - Schmerzen im Kiefer
 - der Kiefer ist gebrochen

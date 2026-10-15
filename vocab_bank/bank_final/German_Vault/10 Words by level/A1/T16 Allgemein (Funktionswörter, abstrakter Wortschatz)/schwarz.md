@@ -31,6 +31,9 @@ status: "new"
 > Mein Kater ist schwarz.
 > *My tomcat is black.*
 
+**Phrases & Expressions:**
+- **Wird Ihnen manchmal schwarz vor Augen?** — Do you sometimes see black spots in front of your eyes? *([[FSP-06 Systemanamnese (Organsysteme)|Herz-Kreislauf]] · B2)*
+
 **Source:** Netzwerk neu A1 K9 9a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

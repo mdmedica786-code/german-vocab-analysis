@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Generell sollte man viel Wasser trinken.
 > *In general one should drink a lot of water.*
+
+**Phrases & Expressions:**
+- **Generell sollte man viel Wasser trinken** — *In general one should drink a lot of water* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

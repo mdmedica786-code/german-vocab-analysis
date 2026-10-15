@@ -34,6 +34,9 @@ status: "new"
 > Die Polizei untersucht das Verbrechen.
 > *The police are investigating the crime.*
 
+**Phrases & Expressions:**
+- **Die Polizei untersucht das Verbrechen** — *The police are investigating the crime* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

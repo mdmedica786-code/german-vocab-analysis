@@ -35,6 +35,12 @@ status: "new"
 > Ich verstehe nicht viel von Technik.
 > *I don't understand much about technology.*
 
+**Phrases & Expressions:**
+- **moderne Technik** — *technology*
+- **Technik verstehen** — *technology*
+- **die Technik beherrschen** — *technology*
+- **medizinische Technik** — *technology*
+
 **Collocations**
 - moderne Technik
 - Technik verstehen

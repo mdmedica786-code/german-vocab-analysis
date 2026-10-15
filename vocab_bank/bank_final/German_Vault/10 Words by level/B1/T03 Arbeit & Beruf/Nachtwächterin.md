@@ -34,6 +34,9 @@ status: "new"
 > Die Nachtwächterin kontrolliert alle Türen.
 > *The night watchwoman checks all the doors.*
 
+**Phrases & Expressions:**
+- **Die Nachtwächterin kontrolliert alle Türen** — *The night watchwoman checks all the doors* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 11b (Geld regiert die Welt?)
 <!-- bank:end -->
 

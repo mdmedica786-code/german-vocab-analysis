@@ -31,6 +31,11 @@ status: "new"
 > Auf der Messe konnte sie viele Kontakte knüpfen.
 > *At the fair she was able to make many contacts.*
 
+**Phrases & Expressions:**
+- **Kontakte knüpfen** — *to tie; to knot; to make (contacts)*
+- **Freundschaften knüpfen** — *to tie; to knot; to make (contacts)*
+- **ein Netz knüpfen** — *to tie; to knot; to make (contacts)*
+
 **Collocations**
 - Kontakte knüpfen
 - Freundschaften knüpfen

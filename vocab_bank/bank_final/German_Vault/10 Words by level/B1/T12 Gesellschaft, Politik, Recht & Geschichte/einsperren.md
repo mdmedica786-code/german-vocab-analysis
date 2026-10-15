@@ -33,6 +33,9 @@ status: "new"
 > Die Polizei sperrt den Dieb ein.
 > *The police lock up the thief.*
 
+**Phrases & Expressions:**
+- **Die Polizei sperrt den Dieb ein** — *The police lock up the thief* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 13b (Kunststücke)
 <!-- bank:end -->
 

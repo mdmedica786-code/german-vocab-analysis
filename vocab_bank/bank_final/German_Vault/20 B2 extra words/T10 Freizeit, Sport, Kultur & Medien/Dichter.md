@@ -33,6 +33,11 @@ status: "new"
 > Goethe ist ein berühmter deutscher Dichter.
 > *Goethe is a famous German poet.*
 
+**Phrases & Expressions:**
+- **ein berühmter Dichter** — *poet*
+- **Dichter und Denker** — *poet*
+- **der Dichter schreibt** — *poet*
+
 **Collocations**
 - ein berühmter Dichter
 - Dichter und Denker

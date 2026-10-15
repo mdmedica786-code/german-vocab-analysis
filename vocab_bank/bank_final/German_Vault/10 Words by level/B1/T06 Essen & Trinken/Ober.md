@@ -34,6 +34,9 @@ status: "new"
 > Ich bin Ober von Beruf.
 > *I am a waiter by profession.*
 
+**Phrases & Expressions:**
+- **Ich bin Ober von Beruf** — *I am a waiter by profession* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

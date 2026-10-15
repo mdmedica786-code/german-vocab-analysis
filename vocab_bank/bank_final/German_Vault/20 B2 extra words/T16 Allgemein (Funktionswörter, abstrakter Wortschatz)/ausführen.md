@@ -32,6 +32,14 @@ status: "new"
 > Der Handwerker führt die Arbeiten sorgfältig aus.
 > *The tradesman carries out the work carefully.*
 
+**Phrases & Expressions:**
+- **führt dazu, dass ...** — leads to ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **führt zu ...** — leads to ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **dazu führt, dass ...** — leads to ... (the result that) *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **Das führt mich zu der Frage, ob ...** — This leads me to the question of whether ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Übergang gestalten]] · B2)*
+- **Was führt Sie zu uns?** — What brings you to us? *([[FSP-02 Beschwerden erfragen - Leitsymptom, Beginn, Verlauf|Leitsymptom erfragen]] · B1)*
+- **einen Auftrag ausführen** — *to carry out; to explain; to take out (a dog)*
+
 **Collocations**
 - einen Auftrag ausführen
 - Pläne ausführen

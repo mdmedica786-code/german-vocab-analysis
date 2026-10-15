@@ -33,6 +33,11 @@ status: "new"
 > Die Forstwirtschaft muss nachhaltig arbeiten.
 > *Forestry has to work sustainably.*
 
+**Phrases & Expressions:**
+- **nachhaltige Forstwirtschaft** — *forestry*
+- **in der Forstwirtschaft arbeiten** — *forestry*
+- **Forstwirtschaft betreiben** — *forestry*
+
 **Collocations**
 - nachhaltige Forstwirtschaft
 - in der Forstwirtschaft arbeiten

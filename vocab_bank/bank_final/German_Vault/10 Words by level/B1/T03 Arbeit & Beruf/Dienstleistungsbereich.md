@@ -34,6 +34,9 @@ status: "new"
 > Sie arbeitet im Dienstleistungsbereich.
 > *She works in the service sector.*
 
+**Phrases & Expressions:**
+- **Sie arbeitet im Dienstleistungsbereich** — *She works in the service sector* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

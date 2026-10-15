@@ -30,6 +30,9 @@ status: "new"
 > Der Text ist thematisch geordnet.
 > *The text is organised by topic.*
 
+**Phrases & Expressions:**
+- **Der Text ist thematisch geordnet** — *The text is organised by topic* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 10c (Guten Appetit!)
 <!-- bank:end -->
 

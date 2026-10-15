@@ -30,6 +30,9 @@ status: "new"
 > Drittens ist das Hotel zu teuer.
 > *Thirdly, the hotel is too expensive.*
 
+**Phrases & Expressions:**
+- **Drittens ist das Hotel zu teuer** — *Thirdly, the hotel is too expensive* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

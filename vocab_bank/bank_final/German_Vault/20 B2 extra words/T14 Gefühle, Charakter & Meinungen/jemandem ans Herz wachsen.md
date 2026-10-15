@@ -26,6 +26,11 @@ status: "new"
 > Die Kinder sind mir in den letzten Jahren ans Herz gewachsen.
 > *I have grown fond of the children in the last few years.*
 
+**Phrases & Expressions:**
+- **ans Herz wachsen** — *to grow fond of someone*
+- **jemandem ans Herz gewachsen sein** — *to grow fond of someone*
+- **ans Herz gelegt** — *to grow fond of someone*
+
 **Collocations**
 - ans Herz wachsen
 - jemandem ans Herz gewachsen sein

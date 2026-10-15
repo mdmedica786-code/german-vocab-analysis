@@ -37,6 +37,14 @@ status: "new"
 > Meiner besten Freundin bin ich zufällig über den Weg gelaufen.
 > *My best friend and I crossed paths by chance.*
 
+**Phrases & Expressions:**
+- **auf dem Weg zu ...** — on the way to ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **auf dem Weg zum ...** — on the way to the ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **auf dem Weg zur ...** — on the way to the ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **auf dem Weg nach ...** — on the way to ... *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **weit weg** — far away *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **auf dem Weg nach Hause** — on the way home *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+
 **Source:** Netzwerk neu A1 K3 2a (In Hamburg) · Goethe word list A2
 <!-- bank:end -->
 

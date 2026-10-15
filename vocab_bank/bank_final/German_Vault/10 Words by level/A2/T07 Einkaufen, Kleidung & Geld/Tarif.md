@@ -34,6 +34,9 @@ status: "new"
 > Dieser Handytarif ist sehr günstig.
 > *This mobile phone tariff is very cheap.*
 
+**Phrases & Expressions:**
+- **Dieser Handytarif ist sehr günstig** — *This mobile phone tariff is very cheap* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K7 6a (Ganz schön mobil)
 <!-- bank:end -->
 

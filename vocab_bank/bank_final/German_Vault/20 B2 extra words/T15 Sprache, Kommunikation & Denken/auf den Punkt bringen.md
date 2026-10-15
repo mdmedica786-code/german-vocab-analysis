@@ -26,6 +26,10 @@ status: "new"
 > Sie brachte das Problem in einem Satz auf den Punkt.
 > *She summed up the problem in one sentence.*
 
+**Phrases & Expressions:**
+- **etwas auf den Punkt bringen** — *to put succinctly; to sum up*
+- **auf den Punkt kommen** — *to put succinctly; to sum up*
+
 **Collocations**
 - etwas auf den Punkt bringen
 - auf den Punkt kommen

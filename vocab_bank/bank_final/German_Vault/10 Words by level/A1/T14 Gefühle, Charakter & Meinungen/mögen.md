@@ -34,6 +34,9 @@ status: "new"
 > Magst du Kaffee oder Tee?
 > **
 
+**Phrases & Expressions:**
+- **Das mag zwar stimmen, aber trotzdem ...** — That may be true, but nevertheless ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Gegenargument entkräften]] · B2)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

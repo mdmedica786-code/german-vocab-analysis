@@ -31,6 +31,9 @@ status: "new"
 > Frau Mertens ist lustig. Sie lacht immer.
 > *Mrs Mertens is funny. She is always laughing.*
 
+**Phrases & Expressions:**
+- **Frau Mertens ist lustig. Sie lacht immer** — *Mrs Mertens is funny. She is always laughing* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 3b (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

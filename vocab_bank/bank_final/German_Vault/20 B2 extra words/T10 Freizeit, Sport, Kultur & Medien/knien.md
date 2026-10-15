@@ -31,6 +31,12 @@ status: "new"
 > Sie kniet vor dem Beet und pflanzt Blumen.
 > *She kneels in front of the flower bed and plants flowers.*
 
+**Phrases & Expressions:**
+- **Ich teste jetzt Ihre Reflexe am Knie.** — I will now test your reflexes at the knee. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Reflexe prüfen]] · B2)*
+- **sich hinknien** — *to kneel*
+- **vor jemandem knien** — *to kneel*
+- **auf dem Boden knien** — *to kneel*
+
 **Collocations**
 - sich hinknien
 - vor jemandem knien

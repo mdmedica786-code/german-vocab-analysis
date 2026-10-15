@@ -35,6 +35,10 @@ status: "new"
 > Die Schülerin hat für ihre Präsentation eine gute Note bekommen.
 > *The pupil got a good mark for her presentation.*
 
+**Phrases & Expressions:**
+- **Meine Präsentation besteht aus drei Teilen.** — My presentation consists of three parts. *([[B1-08 Präsentation - Einleitung, Gliederung, Übergänge, Schluss|Gliederung ankündigen]] · B1)*
+- **Ihre Präsentation hat mir sehr gut gefallen.** — I liked your presentation very much. *([[B1-10 Auf eine Präsentation reagieren - Feedback und Fragen|Positives Feedback geben]] · B1)*
+
 **Source:** Netzwerk neu A1 K7 7a (Arbeitsalltag) · Goethe word list B1
 <!-- bank:end -->
 

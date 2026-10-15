@@ -33,6 +33,11 @@ status: "new"
 > Zum Standesamt müssen Sie Ihre Geburtsurkunde mitbringen.
 > *You have to bring your birth certificate to the registry office.*
 
+**Phrases & Expressions:**
+- **eine Geburtsurkunde beantragen** — *birth certificate*
+- **die Geburtsurkunde vorlegen** — *birth certificate*
+- **beglaubigte Geburtsurkunde** — *birth certificate*
+
 **Collocations**
 - eine Geburtsurkunde beantragen
 - die Geburtsurkunde vorlegen

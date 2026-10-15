@@ -29,6 +29,11 @@ status: "new"
 > Sie ist Ärztin und zugleich Mutter von drei Kindern.
 > *She is a doctor and at the same time a mother of three.*
 
+**Phrases & Expressions:**
+- **und zugleich** — *at the same time; simultaneously*
+- **zugleich aber** — *at the same time; simultaneously*
+- **zugleich auch** — *at the same time; simultaneously*
+
 **Collocations**
 - und zugleich
 - zugleich aber

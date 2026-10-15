@@ -14,6 +14,7 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Wohnung suchen
 
 - **Ich interessiere mich für die Wohnung in der ...** ⭐ — I am interested in the flat in ...
+  - Words: [[interessieren]] · [[Wohnung]]
   - Ich interessiere mich für die Wohnung in der Hauptstraße. *(I am interested in the flat on Hauptstraße.)*
   - B1 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: sich interessieren für + Akkusativ
@@ -22,6 +23,7 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Wohnung besichtigen
 
 - **Wäre eine Besichtigung diese Woche möglich?** ⭐ — Would a viewing be possible this week?
+  - Words: [[möglich]] · [[Woche]] · [[diese]] · [[Besichtigung]]
   - Wäre eine Besichtigung diese Woche möglich? *(Would a viewing be possible this week?)*
   - B1 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: Konjunktiv II der Höflichkeit
@@ -30,12 +32,14 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Mietvertrag klären
 
 - **Wie hoch ist die Warmmiete?** ⭐ — How high is the rent including heating?
+  - Words: [[hoch]] · [[hochfahren]] · [[hochladen]] · [[Warmmiete]]
   - Wie hoch ist die Warmmiete, und sind die Nebenkosten schon enthalten? *(How high is the rent including heating, and are the utilities already included?)*
   - B1 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: Warmmiete = Kaltmiete + Nebenkosten
   - Variants: Was kostet die Wohnung monatlich? | Wie viel Kaution muss ich zahlen?
   - Exam: Alltag
 - **Welche Kündigungsfrist gilt im Mietvertrag?** ⭐ — What notice period applies in the rental contract?
+  - Words: [[welche]] · [[gelten]] · [[Kündigungsfrist]] · [[Mietvertrag]]
   - Welche Kündigungsfrist gilt im Mietvertrag, wenn ich ausziehen möchte? *(What notice period applies in the rental contract if I want to move out?)*
   - B2 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: gelten im Mietvertrag
@@ -44,12 +48,14 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Anmeldung beim Amt
 
 - **Ich möchte mich anmelden, ich bin neu in der Stadt.** ⭐ — I'd like to register; I'm new in the city.
+  - Words: [[Stadt]] · [[neu]] · [[möchten]] · [[anmelden]]
   - Guten Tag, ich möchte mich anmelden. Ich bin neu in der Stadt. *(Hello, I'd like to register. I'm new in the city.)*
   - B1 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: sich anmelden: reflexiv, trennbar
   - Variants: Ich muss meinen Wohnsitz anmelden. | Wo kann ich mich ummelden?
   - Exam: Alltag
 - **Welche Unterlagen muss ich mitbringen?** ⭐ — Which documents do I have to bring?
+  - Words: [[welche]] · [[mitbringen]] · [[Unterlagen]] · [[müssen]]
   - Welche Unterlagen muss ich zur Anmeldung mitbringen? *(Which documents do I have to bring for registration?)*
   - B1 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: Modalverb + Infinitiv; mitbringen trennbar
@@ -58,6 +64,7 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Termin beim Amt
 
 - **Ich habe einen Termin um ... Uhr bei Frau ...** ⭐ — I have an appointment at ... with Mrs ...
+  - Words: [[Frau]] · [[Termin]] · [[Uhr]] · [[haben]]
   - Ich habe einen Termin um 10 Uhr bei Frau Schneider. *(I have an appointment at 10 with Mrs Schneider.)*
   - B1 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: Termin bei + Dativ
@@ -66,12 +73,14 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Bankkonto eröffnen
 
 - **Ich möchte gern ein Konto eröffnen.** ⭐ — I would like to open an account.
+  - Words: [[gern]] · [[möchten]] · [[Konto]] · [[eröffnen]]
   - Ich möchte gern ein Girokonto bei Ihnen eröffnen. *(I would like to open a current account with you.)*
   - B1 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: ein Konto eröffnen
   - Variants: Ich brauche ein Bankkonto. | Wie kann ich ein Konto eröffnen?
   - Exam: Alltag
 - **Fallen für das Konto Gebühren an?** — Are there fees for the account?
+  - Words: [[fallen]] · [[Konto]] · [[Gebühr]]
   - Fallen für das Konto monatliche Gebühren an? *(Are there monthly fees for the account?)*
   - B2 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: anfallen: trennbares Verb
@@ -80,6 +89,7 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Krankenversicherung
 
 - **Ich suche eine Krankenversicherung.** ⭐ — I am looking for health insurance.
+  - Words: [[suchen]] · [[Krankenversicherung]]
   - Ich suche eine Krankenversicherung, die auch für Berufsanfänger geeignet ist. *(I am looking for health insurance that is also suitable for career starters.)*
   - B1 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: Relativsatz mit die
@@ -94,12 +104,14 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Post und Paket
 
 - **Ich möchte ein Paket abholen.** ⭐ — I would like to pick up a parcel.
+  - Words: [[möchten]] · [[abholen]] · [[Paket]]
   - Ich möchte ein Paket abholen, ich habe eine Benachrichtigungskarte. *(I would like to pick up a parcel; I have a notification card.)*
   - B1 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: abholen: trennbares Verb
   - Variants: Ich habe eine Karte im Briefkasten gefunden. | Wo kann ich mein Paket abholen?
   - Exam: Alltag
 - **Wie lange dauert der Versand nach ...?** — How long does delivery to ... take?
+  - Words: [[lang]] · [[lange]] · [[dauern]] · [[Versand]]
   - Wie lange dauert der Versand nach Pakistan? *(How long does delivery to Pakistan take?)*
   - B1 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: nach + Land ohne Artikel
@@ -108,18 +120,21 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Handwerker und Reparatur
 
 - **Bei mir ist der Wasserhahn kaputt.** ⭐ — My tap is broken.
+  - Words: [[kaputt]] · [[kaputtgehen]] · [[kaputtmachen]]
   - Bei mir ist der Wasserhahn in der Küche kaputt. *(My kitchen tap is broken.)*
   - B1 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: bei mir = in meiner Wohnung
   - Variants: Der Wasserhahn tropft. | Der Wasserhahn lässt sich nicht mehr zudrehen.
   - Exam: Alltag
 - **Könnten Sie so bald wie möglich vorbeikommen?** ⭐ — Could you come round as soon as possible?
+  - Words: [[möglich]] · [[bald]] · [[vorbeikommen]] · [[können]]
   - Könnten Sie so bald wie möglich vorbeikommen und sich das ansehen? *(Could you come round as soon as possible and have a look at it?)*
   - B1 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: vorbeikommen: trennbares Verb
   - Variants: Wann können Sie kommen? | Es ist dringend.
   - Exam: Alltag
 - **Was würde die Reparatur ungefähr kosten?** — Roughly what would the repair cost?
+  - Words: [[Kosten]] · [[kosten (verb)]] · [[ungefähr]] · [[Reparatur]] · [[Würde]] · [[was]]
   - Was würde die Reparatur ungefähr kosten? *(Roughly what would the repair cost?)*
   - B2 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: Konjunktiv II: würde kosten
@@ -128,6 +143,7 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Vermieter kontaktieren
 
 - **Ich melde mich wegen eines Schadens in meiner Wohnung.** — I'm contacting you about damage in my flat.
+  - Words: [[Wohnung]] · [[melden]] · [[wegen]] · [[Schaden]] · [[Weg]]
   - Ich melde mich wegen eines Schadens in meiner Wohnung: Es gibt Schimmel im Bad. *(I'm contacting you about damage in my flat: there is mould in the bathroom.)*
   - B1 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: wegen + Genitiv
@@ -136,6 +152,7 @@ tags: ["redemittel", "level/B1", "level/B2"]
 ## Behörde: Antrag stellen
 
 - **Wo kann ich diesen Antrag abgeben?** — Where can I hand in this application?
+  - Words: [[abgeben]] · [[Antrag]] · [[wo]] · [[können]]
   - Wo kann ich diesen Antrag abgeben, und muss ich einen Termin vereinbaren? *(Where can I hand in this application, and do I have to make an appointment?)*
   - B1 · neutral · speaker: Beide · to: Behörde/Firma
   - Grammar: abgeben: trennbares Verb

@@ -26,6 +26,10 @@ status: "new"
 > Ich habe in Erfahrung gebracht, dass der Kurs ausfällt.
 > *I have found out that the course is cancelled.*
 
+**Phrases & Expressions:**
+- **Näheres in Erfahrung bringen** — *to find out; to learn*
+- **den Grund in Erfahrung bringen** — *to find out; to learn*
+
 **Collocations**
 - Näheres in Erfahrung bringen
 - den Grund in Erfahrung bringen

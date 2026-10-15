@@ -33,6 +33,11 @@ status: "new"
 > Die Renaissance begann in Italien.
 > *The Renaissance began in Italy.*
 
+**Phrases & Expressions:**
+- **die Zeit der Renaissance** — *Renaissance*
+- **eine Renaissance erleben** — *Renaissance*
+- **die Kunst der Renaissance** — *Renaissance*
+
 **Collocations**
 - die Zeit der Renaissance
 - eine Renaissance erleben

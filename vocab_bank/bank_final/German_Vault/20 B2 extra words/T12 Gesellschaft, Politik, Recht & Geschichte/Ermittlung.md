@@ -33,6 +33,11 @@ status: "new"
 > Die Ermittlungen der Polizei dauern noch an.
 > *The police investigations are still ongoing.*
 
+**Phrases & Expressions:**
+- **Ermittlungen aufnehmen** — *investigation; inquiry*
+- **die Ermittlungen einstellen** — *investigation; inquiry*
+- **Ermittlungen gegen + Akk.** — *investigation; inquiry*
+
 **Collocations**
 - Ermittlungen aufnehmen
 - die Ermittlungen einstellen

@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Bitte kommen Sie nacheinander herein.
 > *Please come in one after the other.*
+
+**Phrases & Expressions:**
+- **Bitte kommen Sie nacheinander herein** — *Please come in one after the other* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

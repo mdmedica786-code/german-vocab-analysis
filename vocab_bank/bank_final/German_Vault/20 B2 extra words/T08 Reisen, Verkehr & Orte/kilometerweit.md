@@ -29,6 +29,11 @@ status: "new"
 > Der Rauch war kilometerweit zu sehen.
 > *The smoke could be seen for kilometres.*
 
+**Phrases & Expressions:**
+- **kilometerweit sehen** — *for kilometres; many kilometres*
+- **kilometerweit entfernt** — *for kilometres; many kilometres*
+- **kilometerweit laufen** — *for kilometres; many kilometres*
+
 **Collocations**
 - kilometerweit sehen
 - kilometerweit entfernt

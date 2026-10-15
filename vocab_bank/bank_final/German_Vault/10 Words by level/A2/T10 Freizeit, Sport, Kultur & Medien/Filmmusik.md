@@ -34,6 +34,9 @@ status: "new"
 > Die Filmmusik hat mir besonders gut gefallen.
 > *I particularly liked the film music.*
 
+**Phrases & Expressions:**
+- **Die Filmmusik hat mir besonders gut gefallen** — *I particularly liked the film music* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 13b (Immer online?)
 <!-- bank:end -->
 

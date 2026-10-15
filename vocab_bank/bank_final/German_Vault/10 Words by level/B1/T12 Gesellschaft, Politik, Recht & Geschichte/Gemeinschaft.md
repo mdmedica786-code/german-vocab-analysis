@@ -35,6 +35,9 @@ status: "new"
 > Die Gemeinschaft der Nachbarn hilft sich gegenseitig.
 > *The community of neighbours helps each other.*
 
+**Phrases & Expressions:**
+- **Die Gemeinschaft der Nachbarn hilft sich gegenseitig** — *The community of neighbours helps each other* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 10b (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

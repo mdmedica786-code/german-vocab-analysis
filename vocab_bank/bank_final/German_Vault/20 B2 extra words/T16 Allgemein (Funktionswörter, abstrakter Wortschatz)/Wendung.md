@@ -33,6 +33,11 @@ status: "new"
 > Die Wendung des Gesprächs überraschte alle.
 > *The turn of the conversation surprised everyone.*
 
+**Phrases & Expressions:**
+- **eine unerwartete Wendung** — *turn; phrase; expression*
+- **eine feste Wendung** — *turn; phrase; expression*
+- **eine Wendung zum Besseren** — *turn; phrase; expression*
+
 **Collocations**
 - eine unerwartete Wendung
 - eine feste Wendung

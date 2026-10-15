@@ -33,6 +33,11 @@ status: "new"
 > Ein Stab aus Metall hielt die Konstruktion.
 > *A metal rod held the construction.*
 
+**Phrases & Expressions:**
+- **ein Stab aus Metall** — *rod; staff; baton*
+- **der Krisenstab** — *rod; staff; baton*
+- **den Stab brechen über** — *rod; staff; baton*
+
 **Collocations**
 - ein Stab aus Metall
 - der Krisenstab

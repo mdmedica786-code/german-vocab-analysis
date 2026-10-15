@@ -33,6 +33,11 @@ status: "new"
 > Das Schreiben ist in kompliziertem Amtsdeutsch verfasst.
 > *The letter is written in complicated officialese.*
 
+**Phrases & Expressions:**
+- **in Amtsdeutsch** — *officialese; bureaucratic German*
+- **Amtsdeutsch verstehen** — *officialese; bureaucratic German*
+- **schwieriges Amtsdeutsch** — *officialese; bureaucratic German*
+
 **Collocations**
 - in Amtsdeutsch
 - Amtsdeutsch verstehen

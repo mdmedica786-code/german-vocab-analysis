@@ -35,6 +35,9 @@ status: "new"
 > Warten Sie bitte eine Sekunde.
 > *Please wait a second.*
 
+**Phrases & Expressions:**
+- **ein paar Sekunden** — a few seconds *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · A2)*
+
 **Source:** Netzwerk neu A1 K5 15b (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->
 

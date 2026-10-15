@@ -33,6 +33,11 @@ status: "new"
 > Entferne die Heftklammer, bevor du die Seiten kopierst.
 > *Remove the staple before you copy the pages.*
 
+**Phrases & Expressions:**
+- **Heftklammern nachfüllen** — *staple*
+- **eine Heftklammer entfernen** — *staple*
+- **mit einer Heftklammer befestigen** — *staple*
+
 **Collocations**
 - Heftklammern nachfüllen
 - eine Heftklammer entfernen

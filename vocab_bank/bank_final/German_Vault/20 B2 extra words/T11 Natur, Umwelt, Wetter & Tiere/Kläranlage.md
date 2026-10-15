@@ -33,6 +33,11 @@ status: "new"
 > Die Kläranlage reinigt das Wasser der ganzen Stadt.
 > *The sewage treatment plant cleans the water of the whole city.*
 
+**Phrases & Expressions:**
+- **eine Kläranlage bauen** — *sewage treatment plant*
+- **Kläranlage betreiben** — *sewage treatment plant*
+- **Wasser aus der Kläranlage** — *sewage treatment plant*
+
 **Collocations**
 - eine Kläranlage bauen
 - Kläranlage betreiben

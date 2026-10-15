@@ -33,6 +33,9 @@ status: "new"
 > Meine Freundin studiert Biologie.
 > **
 
+**Phrases & Expressions:**
+- **Meine Freundin studiert Biologie** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 3a (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

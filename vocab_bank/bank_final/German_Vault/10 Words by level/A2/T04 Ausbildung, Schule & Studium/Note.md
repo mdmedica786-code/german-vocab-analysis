@@ -36,6 +36,9 @@ status: "new"
 > Eva hat immer sehr gute Noten in Deutsch.
 > **
 
+**Phrases & Expressions:**
+- **Eva hat immer sehr gute Noten in Deutsch** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 3a (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

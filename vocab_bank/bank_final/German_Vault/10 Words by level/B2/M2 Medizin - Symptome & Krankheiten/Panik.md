@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Bei Panik atmen manche Menschen sehr schnell.
 > *In a panic some people breathe very fast.*
+
+**Phrases & Expressions:**
+- **Bei Panik atmen manche Menschen sehr schnell** — *In a panic some people breathe very fast* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

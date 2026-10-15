@@ -30,6 +30,9 @@ status: "new"
 > Wir essen heute italienisch.
 > *Today we're having Italian food.*
 
+**Phrases & Expressions:**
+- **Wir essen heute italienisch** — *Today we're having Italian food* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 11 (Das ist ja praktisch!)
 <!-- bank:end -->
 

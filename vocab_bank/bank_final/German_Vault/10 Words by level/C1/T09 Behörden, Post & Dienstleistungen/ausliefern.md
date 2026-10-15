@@ -31,6 +31,9 @@ status: "new"
 > [!example] Beispiel
 > Der Händler liefert die Ware morgen aus.
 > *The dealer delivers the goods tomorrow.*
+
+**Phrases & Expressions:**
+- **Der Händler liefert die Ware morgen aus** — *The dealer delivers the goods tomorrow* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

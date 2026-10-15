@@ -33,6 +33,11 @@ status: "new"
 > Bildung hat in unserer Gesellschaft einen hohen Stellenwert.
 > *Education has a high status in our society.*
 
+**Phrases & Expressions:**
+- **einen hohen Stellenwert haben** — *importance; status*
+- **Stellenwert einräumen** — *importance; status*
+- **den Stellenwert erkennen** — *importance; status*
+
 **Collocations**
 - einen hohen Stellenwert haben
 - Stellenwert einräumen

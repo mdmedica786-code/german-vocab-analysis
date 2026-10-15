@@ -33,6 +33,11 @@ status: "new"
 > Zeichne die Linie mit einem Lineal.
 > *Draw the line with a ruler.*
 
+**Phrases & Expressions:**
+- **mit dem Lineal zeichnen** — *ruler*
+- **ein langes Lineal** — *ruler*
+- **das Lineal anlegen** — *ruler*
+
 **Collocations**
 - mit dem Lineal zeichnen
 - ein langes Lineal

@@ -33,6 +33,11 @@ status: "new"
 > Das Parlament berät den Gesetzentwurf der Regierung.
 > *Parliament is debating the government's draft law.*
 
+**Phrases & Expressions:**
+- **einen Gesetzentwurf einbringen** — *draft law; bill*
+- **den Gesetzentwurf ablehnen** — *draft law; bill*
+- **Gesetzentwurf vorlegen** — *draft law; bill*
+
 **Collocations**
 - einen Gesetzentwurf einbringen
 - den Gesetzentwurf ablehnen

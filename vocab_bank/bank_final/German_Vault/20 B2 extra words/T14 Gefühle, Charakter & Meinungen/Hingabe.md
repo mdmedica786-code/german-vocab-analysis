@@ -33,6 +33,11 @@ status: "new"
 > Sie arbeitet mit großer Hingabe.
 > *She works with great dedication.*
 
+**Phrases & Expressions:**
+- **mit Hingabe** — *devotion; dedication*
+- **voller Hingabe** — *devotion; dedication*
+- **Hingabe an eine Aufgabe** — *devotion; dedication*
+
 **Collocations**
 - mit Hingabe
 - voller Hingabe

@@ -34,6 +34,9 @@ status: "new"
 > Wie viel Taschengeld bekommen deine Kinder?
 > *How much pocket money do your children get?*
 
+**Phrases & Expressions:**
+- **Wie viel Taschengeld bekommen deine Kinder** — *How much pocket money do your children get* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

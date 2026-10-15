@@ -31,6 +31,11 @@ status: "new"
 > Das neue Gesetz benachteiligt Familien mit niedrigem Einkommen.
 > *The new law disadvantages families with low incomes.*
 
+**Phrases & Expressions:**
+- **benachteiligt werden** — *to disadvantage; to discriminate against*
+- **sich benachteiligt fühlen** — *to disadvantage; to discriminate against*
+- **Frauen benachteiligen** — *to disadvantage; to discriminate against*
+
 **Collocations**
 - benachteiligt werden
 - sich benachteiligt fühlen

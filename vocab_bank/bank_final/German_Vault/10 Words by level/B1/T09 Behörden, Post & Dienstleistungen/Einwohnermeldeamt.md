@@ -34,6 +34,9 @@ status: "new"
 > Im Einwohnermeldeamt melde ich meinen Wohnsitz an.
 > *At the registration office I register my place of residence.*
 
+**Phrases & Expressions:**
+- **Im Einwohnermeldeamt melde ich meinen Wohnsitz an** — *At the registration office I register my place of residence* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7a (Miteinander)
 <!-- bank:end -->
 

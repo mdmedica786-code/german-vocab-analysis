@@ -29,6 +29,11 @@ status: "new"
 > Er sah von oben auf uns herab.
 > *He looked down on us from above.*
 
+**Phrases & Expressions:**
+- **von oben herab** — *down (towards the speaker)*
+- **den Hügel herab** — *down (towards the speaker)*
+- **herab ins Tal** — *down (towards the speaker)*
+
 **Collocations**
 - von oben herab
 - den Hügel herab

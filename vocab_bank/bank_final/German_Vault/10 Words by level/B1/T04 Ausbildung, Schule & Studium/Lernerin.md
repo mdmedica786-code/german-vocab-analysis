@@ -34,6 +34,9 @@ status: "new"
 > Sie ist eine fleißige Lernerin.
 > *She is a diligent learner.*
 
+**Phrases & Expressions:**
+- **Sie ist eine fleißige Lernerin** — *She is a diligent learner* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

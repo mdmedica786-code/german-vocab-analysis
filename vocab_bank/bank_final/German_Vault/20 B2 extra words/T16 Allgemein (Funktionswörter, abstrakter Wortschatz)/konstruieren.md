@@ -31,6 +31,11 @@ status: "new"
 > Die Ingenieure konstruieren eine neue Brücke.
 > *The engineers are designing a new bridge.*
 
+**Phrases & Expressions:**
+- **eine Maschine konstruieren** — *to construct; to design*
+- **einen Satz konstruieren** — *to construct; to design*
+- **ein konstruierter Fall** — *to construct; to design*
+
 **Collocations**
 - eine Maschine konstruieren
 - einen Satz konstruieren

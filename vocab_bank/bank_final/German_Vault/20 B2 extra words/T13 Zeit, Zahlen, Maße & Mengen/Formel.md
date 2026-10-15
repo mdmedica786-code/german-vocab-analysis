@@ -33,6 +33,11 @@ status: "new"
 > Die Formel für die Fläche lautet Länge mal Breite.
 > *The formula for the area is length times width.*
 
+**Phrases & Expressions:**
+- **eine mathematische Formel** — *formula*
+- **die Formel anwenden** — *formula*
+- **eine Formel aufstellen** — *formula*
+
 **Collocations**
 - eine mathematische Formel
 - die Formel anwenden

@@ -33,6 +33,11 @@ status: "new"
 > Der Biomüll kommt in die braune Tonne.
 > *Organic waste goes in the brown bin.*
 
+**Phrases & Expressions:**
+- **Biomüll trennen** — *organic waste*
+- **Biomüll sammeln** — *organic waste*
+- **im Biomüll entsorgen** — *organic waste*
+
 **Collocations**
 - Biomüll trennen
 - Biomüll sammeln

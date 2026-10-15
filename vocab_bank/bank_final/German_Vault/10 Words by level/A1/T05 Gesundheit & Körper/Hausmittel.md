@@ -34,6 +34,9 @@ status: "new"
 > Honig mit Milch ist ein altes Hausmittel.
 > *Honey with milk is an old home remedy.*
 
+**Phrases & Expressions:**
+- **Honig mit Milch ist ein altes Hausmittel** — *Honey with milk is an old home remedy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 12b (Fit und gesund)
 <!-- bank:end -->
 

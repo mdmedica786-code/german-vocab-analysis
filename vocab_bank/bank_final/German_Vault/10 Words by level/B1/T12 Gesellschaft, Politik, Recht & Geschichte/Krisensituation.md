@@ -34,6 +34,9 @@ status: "new"
 > In einer Krisensituation bleibt man ruhig.
 > *In a crisis situation you stay calm.*
 
+**Phrases & Expressions:**
+- **In einer Krisensituation bleibt man ruhig** — *In a crisis situation you stay calm* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3b (Veränderungen)
 <!-- bank:end -->
 

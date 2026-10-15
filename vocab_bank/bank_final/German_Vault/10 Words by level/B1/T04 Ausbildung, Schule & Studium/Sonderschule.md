@@ -34,6 +34,9 @@ status: "new"
 > Das Kind besucht eine Sonderschule.
 > *The child attends a special school.*
 
+**Phrases & Expressions:**
+- **Das Kind besucht eine Sonderschule** — *The child attends a special school* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Es war ein tolles Konzert. Das Publikum war begeistert.
 > *It was a great concert. The audience was thrilled.*
 
+**Phrases & Expressions:**
+- **Es war ein tolles Konzert. Das Publikum war begeistert** — *It was a great concert. The audience was thrilled* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg) · Goethe word list B1
 <!-- bank:end -->
 

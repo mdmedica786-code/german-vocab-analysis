@@ -33,6 +33,11 @@ status: "new"
 > Zu meiner Verwunderung war die Tür offen.
 > *To my astonishment the door was open.*
 
+**Phrases & Expressions:**
+- **zu meiner Verwunderung** — *astonishment; surprise*
+- **voller Verwunderung** — *astonishment; surprise*
+- **mit Verwunderung** — *astonishment; surprise*
+
 **Collocations**
 - zu meiner Verwunderung
 - voller Verwunderung

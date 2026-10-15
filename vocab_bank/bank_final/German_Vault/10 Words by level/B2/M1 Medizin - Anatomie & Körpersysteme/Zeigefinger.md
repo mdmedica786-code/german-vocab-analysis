@@ -33,6 +33,12 @@ status: "new"
 > Er hat sich den Zeigefinger verletzt.
 > *He injured his index finger.*
 
+**Phrases & Expressions:**
+- **der rechte Zeigefinger** — *index finger*
+- **mit dem Zeigefinger zeigen** — *index finger*
+- **den Zeigefinger verletzen** — *index finger*
+- **Zeigefinger und Daumen** — *index finger*
+
 **Collocations**
 - der rechte Zeigefinger
 - mit dem Zeigefinger zeigen

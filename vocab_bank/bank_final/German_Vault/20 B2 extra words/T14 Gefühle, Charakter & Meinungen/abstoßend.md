@@ -29,6 +29,11 @@ status: "new"
 > Der Geruch im Keller war abstoßend.
 > *The smell in the cellar was repulsive.*
 
+**Phrases & Expressions:**
+- **ein abstoßender Geruch** — *repulsive; repellent*
+- **abstoßend wirken** — *repulsive; repellent*
+- **abstoßend hässlich** — *repulsive; repellent*
+
 **Collocations**
 - ein abstoßender Geruch
 - abstoßend wirken

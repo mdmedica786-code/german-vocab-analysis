@@ -34,6 +34,9 @@ status: "new"
 > Die Gliederung des Textes hilft beim Verstehen.
 > *The outline of the text helps with understanding.*
 
+**Phrases & Expressions:**
+- **Die Gliederung des Textes hilft beim Verstehen** — *The outline of the text helps with understanding* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 10b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

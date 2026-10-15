@@ -33,6 +33,11 @@ status: "new"
 > Schüler sollten Medienkompetenz erwerben.
 > *Pupils should acquire media literacy.*
 
+**Phrases & Expressions:**
+- **Medienkompetenz fördern** — *media literacy*
+- **Medienkompetenz vermitteln** — *media literacy*
+- **mangelnde Medienkompetenz** — *media literacy*
+
 **Collocations**
 - Medienkompetenz fördern
 - Medienkompetenz vermitteln

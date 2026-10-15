@@ -33,6 +33,11 @@ status: "new"
 > Der Schuldner konnte die Forderung nicht begleichen.
 > *The debtor could not settle the claim.*
 
+**Phrases & Expressions:**
+- **ein säumiger Schuldner** — *debtor*
+- **Schuldner und Gläubiger** — *debtor*
+- **den Schuldner mahnen** — *debtor*
+
 **Collocations**
 - ein säumiger Schuldner
 - Schuldner und Gläubiger

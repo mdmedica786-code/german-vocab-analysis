@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Schwimmen gehen wir noch in die Sauna.
 > *After swimming we go to the sauna.*
 
+**Phrases & Expressions:**
+- **in die Sauna gehen** — *sauna*
+- **Sauna und Dampfbad** — *sauna*
+- **eine finnische Sauna** — *sauna*
+
 **Collocations**
 - in die Sauna gehen
 - Sauna und Dampfbad

@@ -35,6 +35,9 @@ status: "new"
 > Julia möchte ein rotes Kleid kaufen.
 > *Julia wants to buy a red dress.*
 
+**Phrases & Expressions:**
+- **Julia möchte ein rotes Kleid kaufen** — *Julia wants to buy a red dress* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 2a (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

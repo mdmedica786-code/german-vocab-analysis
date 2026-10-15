@@ -34,6 +34,9 @@ status: "new"
 > Wir produzieren jedes Jahr einen riesigen Müllberg.
 > *Every year we produce a huge mountain of rubbish.*
 
+**Phrases & Expressions:**
+- **Wir produzieren jedes Jahr einen riesigen Müllberg** — *Every year we produce a huge mountain of rubbish* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 8a (Umweltfreundlich?)
 <!-- bank:end -->
 

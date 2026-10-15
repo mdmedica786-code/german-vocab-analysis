@@ -31,6 +31,11 @@ status: "new"
 > Das Recht ist im Grundgesetz verankert.
 > *The right is enshrined in the Basic Law.*
 
+**Phrases & Expressions:**
+- **im Gesetz verankern** — *to anchor; to enshrine*
+- **fest verankert** — *to anchor; to enshrine*
+- **ein Schiff verankern** — *to anchor; to enshrine*
+
 **Collocations**
 - im Gesetz verankern
 - fest verankert

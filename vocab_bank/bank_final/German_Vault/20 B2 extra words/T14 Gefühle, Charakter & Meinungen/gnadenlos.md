@@ -29,6 +29,11 @@ status: "new"
 > Die Konkurrenz in der Branche ist gnadenlos.
 > *The competition in the industry is ruthless.*
 
+**Phrases & Expressions:**
+- **gnadenlos kritisieren** — *merciless; ruthless*
+- **ein gnadenloser Kampf** — *merciless; ruthless*
+- **gnadenlos sein** — *merciless; ruthless*
+
 **Collocations**
 - gnadenlos kritisieren
 - ein gnadenloser Kampf

@@ -33,6 +33,12 @@ status: "new"
 > Was schenken wir Michael zum Geburtstag?
 > *What shall we give Michael for his birthday?*
 
+**Phrases & Expressions:**
+- **jemandem Blumen schenken** — *to give (as a gift)*
+- **zum Geburtstag schenken** — *to give (as a gift)*
+- **Aufmerksamkeit schenken** — *to give (as a gift)*
+- **Vertrauen schenken** — *to give (as a gift)*
+
 **Collocations**
 - jemandem Blumen schenken
 - zum Geburtstag schenken

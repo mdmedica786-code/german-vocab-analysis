@@ -33,6 +33,11 @@ status: "new"
 > Ein Passant rief sofort die Polizei.
 > *A passer-by called the police immediately.*
 
+**Phrases & Expressions:**
+- **ein zufälliger Passant** — *passer-by (male)*
+- **einen Passanten fragen** — *passer-by (male)*
+- **von Passanten gesehen werden** — *passer-by (male)*
+
 **Collocations**
 - ein zufälliger Passant
 - einen Passanten fragen

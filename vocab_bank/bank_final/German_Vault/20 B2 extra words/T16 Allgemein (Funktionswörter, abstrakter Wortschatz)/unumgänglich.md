@@ -29,6 +29,11 @@ status: "new"
 > Eine Operation ist leider unumgänglich.
 > *An operation is unfortunately unavoidable.*
 
+**Phrases & Expressions:**
+- **unumgänglich sein** — *unavoidable; essential*
+- **eine unumgängliche Maßnahme** — *unavoidable; essential*
+- **sich als unumgänglich erweisen** — *unavoidable; essential*
+
 **Collocations**
 - unumgänglich sein
 - eine unumgängliche Maßnahme

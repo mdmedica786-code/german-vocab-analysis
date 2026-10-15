@@ -34,6 +34,9 @@ status: "new"
 > „Im Park“ ist eine Ortsangabe.
 > *“In the park” is a place expression.*
 
+**Phrases & Expressions:**
+- **„Im Park“ ist eine Ortsangabe** — *“In the park” is a place expression* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 5d (Arbeitsalltag)
 <!-- bank:end -->
 

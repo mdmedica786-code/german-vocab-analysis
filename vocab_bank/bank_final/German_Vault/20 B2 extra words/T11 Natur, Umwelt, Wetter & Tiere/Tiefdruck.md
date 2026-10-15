@@ -33,6 +33,11 @@ status: "new"
 > Über der Nordsee liegt Tiefdruck, der Regen und Wind bringt.
 > *Low pressure over the North Sea is bringing rain and wind.*
 
+**Phrases & Expressions:**
+- **Tiefdruckgebiet** — *low pressure*
+- **Tiefdruck über der Nordsee** — *low pressure*
+- **unter Tiefdruckeinfluss** — *low pressure*
+
 **Collocations**
 - Tiefdruckgebiet
 - Tiefdruck über der Nordsee

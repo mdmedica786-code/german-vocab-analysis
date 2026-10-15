@@ -33,6 +33,11 @@ status: "new"
 > Er sprach mit Unbehagen über das Treffen.
 > *He spoke with unease about the meeting.*
 
+**Phrases & Expressions:**
+- **ein Gefühl des Unbehagens** — *unease; discomfort*
+- **Unbehagen empfinden** — *unease; discomfort*
+- **Unbehagen auslösen** — *unease; discomfort*
+
 **Collocations**
 - ein Gefühl des Unbehagens
 - Unbehagen empfinden

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Router steht im Wohnzimmer.
 > *The router is in the living room.*
+
+**Phrases & Expressions:**
+- **Der Router steht im Wohnzimmer** — *The router is in the living room* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

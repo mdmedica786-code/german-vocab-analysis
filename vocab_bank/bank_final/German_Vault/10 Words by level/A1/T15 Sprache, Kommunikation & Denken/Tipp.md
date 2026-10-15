@@ -35,6 +35,9 @@ status: "new"
 > Kannst du mir einen guten Tipp geben?
 > *Can you give me a good tip?*
 
+**Phrases & Expressions:**
+- **Kannst du mir einen guten Tipp geben** — *Can you give me a good tip* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 12b (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

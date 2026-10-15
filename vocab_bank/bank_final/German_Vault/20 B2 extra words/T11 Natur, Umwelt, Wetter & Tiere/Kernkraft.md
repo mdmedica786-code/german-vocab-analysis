@@ -33,6 +33,11 @@ status: "new"
 > Deutschland hat sich von der Kernkraft verabschiedet.
 > *Germany has said goodbye to nuclear power.*
 
+**Phrases & Expressions:**
+- **Ausstieg aus der Kernkraft** — *nuclear power*
+- **gegen Kernkraft sein** — *nuclear power*
+- **Kernkraft nutzen** — *nuclear power*
+
 **Collocations**
 - Ausstieg aus der Kernkraft
 - gegen Kernkraft sein

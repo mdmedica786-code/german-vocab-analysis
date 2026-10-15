@@ -35,6 +35,12 @@ status: "new"
 > In der Anlage der E-Mail finden Sie meinen Lebenslauf.
 > *In the attachment to the email you will find my CV.*
 
+**Phrases & Expressions:**
+- **als Anlage beifügen** — *attachment; facility; investment*
+- **eine Anlage bauen** — *attachment; facility; investment*
+- **technische Anlage** — *attachment; facility; investment*
+- **Anlage zur E-Mail** — *attachment; facility; investment*
+
 **Collocations**
 - als Anlage beifügen
 - eine Anlage bauen

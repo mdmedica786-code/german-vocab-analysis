@@ -26,6 +26,10 @@ status: "new"
 > Die Regierung hat ein neues Gesetz auf den Weg gebracht.
 > *The government has initiated a new law.*
 
+**Phrases & Expressions:**
+- **ein Gesetz auf den Weg bringen** — *to initiate; to set in motion*
+- **ein Projekt auf den Weg bringen** — *to initiate; to set in motion*
+
 **Collocations**
 - ein Gesetz auf den Weg bringen
 - ein Projekt auf den Weg bringen

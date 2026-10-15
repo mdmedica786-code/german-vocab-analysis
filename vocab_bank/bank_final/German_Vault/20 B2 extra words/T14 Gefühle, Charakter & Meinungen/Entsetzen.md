@@ -33,6 +33,11 @@ status: "new"
 > Zu meinem Entsetzen war die Tür offen.
 > *To my horror the door was open.*
 
+**Phrases & Expressions:**
+- **zu meinem Entsetzen** — *horror; dismay*
+- **voller Entsetzen** — *horror; dismay*
+- **mit Entsetzen** — *horror; dismay*
+
 **Collocations**
 - zu meinem Entsetzen
 - voller Entsetzen

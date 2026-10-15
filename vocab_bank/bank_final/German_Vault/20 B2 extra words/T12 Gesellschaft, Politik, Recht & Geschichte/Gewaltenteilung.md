@@ -33,6 +33,11 @@ status: "new"
 > Die Gewaltenteilung ist ein Grundprinzip der Demokratie.
 > *The separation of powers is a basic principle of democracy.*
 
+**Phrases & Expressions:**
+- **das Prinzip der Gewaltenteilung** — *separation of powers*
+- **Gewaltenteilung gewährleisten** — *separation of powers*
+- **auf Gewaltenteilung beruhen** — *separation of powers*
+
 **Collocations**
 - das Prinzip der Gewaltenteilung
 - Gewaltenteilung gewährleisten

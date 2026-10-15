@@ -33,6 +33,11 @@ status: "new"
 > Der Bus ist für den Personentransport zugelassen.
 > *The bus is approved for passenger transport.*
 
+**Phrases & Expressions:**
+- **der öffentliche Personentransport** — *passenger transport*
+- **ein Personentransport per Bahn** — *passenger transport*
+- **Personentransporte organisieren** — *passenger transport*
+
 **Collocations**
 - der öffentliche Personentransport
 - ein Personentransport per Bahn

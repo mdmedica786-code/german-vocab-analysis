@@ -31,6 +31,10 @@ status: "new"
 > Du solltest deine Entscheidung noch einmal überdenken.
 > *You should reconsider your decision.*
 
+**Phrases & Expressions:**
+- **eine Entscheidung überdenken** — *to reconsider; to think over*
+- **einen Plan überdenken** — *to reconsider; to think over*
+
 **Collocations**
 - eine Entscheidung überdenken
 - einen Plan überdenken

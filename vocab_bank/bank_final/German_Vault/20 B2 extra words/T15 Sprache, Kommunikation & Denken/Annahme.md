@@ -33,6 +33,14 @@ status: "new"
 > Wir gehen von der Annahme aus, dass die Preise steigen.
 > *We start from the assumption that prices will rise.*
 
+**Phrases & Expressions:**
+- **in der Annahme, dass ...** — on the assumption that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+- **die Annahme, dass ...** — the assumption that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+- **zu der Annahme kommen, dass ...** — to come to assume that ... *([[Meinung äußern (give an opinion)|Meinung äußern (give an opinion)]] · C1)*
+- **in der Annahme, dass** — *assumption; acceptance*
+- **eine falsche Annahme** — *assumption; acceptance*
+- **von einer Annahme ausgehen** — *assumption; acceptance*
+
 **Collocations**
 - in der Annahme, dass
 - eine falsche Annahme

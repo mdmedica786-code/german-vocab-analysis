@@ -34,6 +34,10 @@ status: "new"
 > Also auf Wiederhören!
 > *Goodbye then!*
 
+**Phrases & Expressions:**
+- **auf Wiederhören** — goodbye (on the phone) *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A1)*
+- **Vielen Dank für Ihre Auskunft, auf Wiederhören!** — Thank you for your information, goodbye! *([[B2-07 Telefonieren|Gespräch beenden]] · B1)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

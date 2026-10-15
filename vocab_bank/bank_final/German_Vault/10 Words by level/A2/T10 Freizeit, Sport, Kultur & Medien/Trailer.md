@@ -34,6 +34,9 @@ status: "new"
 > Hast du den Trailer zum neuen Film schon gesehen?
 > *Have you already seen the trailer for the new film?*
 
+**Phrases & Expressions:**
+- **Hast du den Trailer zum neuen Film schon gesehen** — *Have you already seen the trailer for the new film* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 13e (Immer online?)
 <!-- bank:end -->
 

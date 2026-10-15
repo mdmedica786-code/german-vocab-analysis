@@ -33,6 +33,11 @@ status: "new"
 > Seine Krankmeldung ging am Montagmorgen per E-Mail ein.
 > *His notification of sick leave arrived by email on Monday morning.*
 
+**Phrases & Expressions:**
+- **eine Krankmeldung abgeben** — *notification of sick leave*
+- **die Krankmeldung einreichen** — *notification of sick leave*
+- **Krankmeldung per E-Mail** — *notification of sick leave*
+
 **Collocations**
 - eine Krankmeldung abgeben
 - die Krankmeldung einreichen

@@ -33,6 +33,11 @@ status: "new"
 > Aus Neugierde öffnete sie den Brief.
 > *Out of curiosity she opened the letter.*
 
+**Phrases & Expressions:**
+- **aus Neugierde** — *curiosity*
+- **Neugierde wecken** — *curiosity*
+- **vor Neugierde platzen** — *curiosity*
+
 **Collocations**
 - aus Neugierde
 - Neugierde wecken

@@ -29,6 +29,11 @@ status: "new"
 > Die beiden Firmen sind räumlich getrennt.
 > *The two companies are spatially separated.*
 
+**Phrases & Expressions:**
+- **räumlich getrennt** — *spatial; of space*
+- **räumliche Nähe** — *spatial; of space*
+- **räumliche Enge** — *spatial; of space*
+
 **Collocations**
 - räumlich getrennt
 - räumliche Nähe

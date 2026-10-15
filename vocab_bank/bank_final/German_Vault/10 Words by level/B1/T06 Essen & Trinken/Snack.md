@@ -35,6 +35,9 @@ status: "new"
 > Als Snack nehme ich einen Apfel mit.
 > *I take an apple with me as a snack.*
 
+**Phrases & Expressions:**
+- **Als Snack nehme ich einen Apfel mit** — *I take an apple with me as a snack* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7a ÜB (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

@@ -31,6 +31,12 @@ status: "new"
 > Ich wünsche Ihnen ein schönes Wochenende. – Danke, ebenfalls.
 > *I wish you a nice weekend. – Thanks, you too.*
 
+**Phrases & Expressions:**
+- **ebenfalls danke** — *also*
+- **ebenfalls gut** — *also*
+- **ebenfalls möglich** — *also*
+- **ebenfalls betroffen** — *also*
+
 **Collocations**
 - ebenfalls danke
 - ebenfalls gut

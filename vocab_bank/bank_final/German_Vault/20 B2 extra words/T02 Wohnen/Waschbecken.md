@@ -33,6 +33,11 @@ status: "new"
 > Das Waschbecken im Bad ist verstopft.
 > *The washbasin in the bathroom is blocked.*
 
+**Phrases & Expressions:**
+- **das Waschbecken reinigen** — *washbasin; sink*
+- **über dem Waschbecken** — *washbasin; sink*
+- **ein verstopftes Waschbecken** — *washbasin; sink*
+
 **Collocations**
 - das Waschbecken reinigen
 - über dem Waschbecken

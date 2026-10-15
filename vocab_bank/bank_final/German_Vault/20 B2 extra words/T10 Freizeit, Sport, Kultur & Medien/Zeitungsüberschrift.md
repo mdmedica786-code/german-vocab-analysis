@@ -33,6 +33,11 @@ status: "new"
 > Die Zeitungsüberschrift hat viele Leser neugierig gemacht.
 > *The newspaper headline made many readers curious.*
 
+**Phrases & Expressions:**
+- **eine Zeitungsüberschrift lesen** — *newspaper headline*
+- **eine reißerische Zeitungsüberschrift** — *newspaper headline*
+- **die Zeitungsüberschrift von heute** — *newspaper headline*
+
 **Collocations**
 - eine Zeitungsüberschrift lesen
 - eine reißerische Zeitungsüberschrift

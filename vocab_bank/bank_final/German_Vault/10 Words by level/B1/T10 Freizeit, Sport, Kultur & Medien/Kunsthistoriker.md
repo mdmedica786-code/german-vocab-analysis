@@ -34,6 +34,9 @@ status: "new"
 > Der Kunsthistoriker hält einen Vortrag über Rembrandt.
 > *The art historian gives a lecture about Rembrandt.*
 
+**Phrases & Expressions:**
+- **Der Kunsthistoriker hält einen Vortrag über Rembrandt** — *The art historian gives a lecture about Rembrandt* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Eine regelmäßige Datensicherung verhindert den Verlust wichtiger Dateien.
 > *A regular data backup prevents the loss of important files.*
 
+**Phrases & Expressions:**
+- **eine Datensicherung durchführen** — *data backup*
+- **automatische Datensicherung** — *data backup*
+- **Datensicherung einrichten** — *data backup*
+
 **Collocations**
 - eine Datensicherung durchführen
 - automatische Datensicherung

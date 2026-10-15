@@ -31,6 +31,9 @@ status: "new"
 > Diesmal haben wir zum Glück gewonnen.
 > *This time we luckily won.*
 
+**Phrases & Expressions:**
+- **Schade, aber ich kann diesmal nicht dabei sein.** — Pity, but I can't be there this time. *([[B1-18 Einladen, zusagen und absagen|Mit Begründung absagen]] · B1)*
+
 **Source:** Netzwerk neu B1 K2 5a ÜB (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

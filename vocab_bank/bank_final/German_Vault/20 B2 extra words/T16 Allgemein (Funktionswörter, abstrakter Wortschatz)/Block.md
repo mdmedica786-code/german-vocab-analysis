@@ -33,6 +33,11 @@ status: "new"
 > Sie schrieb alles in einen Block.
 > *She wrote everything in a pad.*
 
+**Phrases & Expressions:**
+- **ein Block Papier** — *block; pad*
+- **der Wohnblock** — *block; pad*
+- **im Block** — *block; pad*
+
 **Collocations**
 - ein Block Papier
 - der Wohnblock

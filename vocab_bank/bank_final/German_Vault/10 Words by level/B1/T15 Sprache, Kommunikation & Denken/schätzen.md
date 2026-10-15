@@ -35,6 +35,9 @@ status: "new"
 > Ich schätze, so tolle Nachbarn findet man selten.
 > *I guess you don't find such nice neighbours often.*
 
+**Phrases & Expressions:**
+- **Ich schätze, so tolle Nachbarn findet man selten** — *I guess you don't find such nice neighbours often* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 1a ÜB (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

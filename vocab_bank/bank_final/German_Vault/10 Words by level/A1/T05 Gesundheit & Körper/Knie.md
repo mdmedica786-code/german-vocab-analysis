@@ -35,6 +35,9 @@ status: "new"
 > Ich habe mich am Knie verletzt. Jetzt kann ich nicht laufen.
 > *I hurt my knee. Now I can't walk.*
 
+**Phrases & Expressions:**
+- **Ich teste jetzt Ihre Reflexe am Knie.** — I will now test your reflexes at the knee. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Reflexe prüfen]] · B2)*
+
 **Source:** Netzwerk neu A1 K8 6a (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

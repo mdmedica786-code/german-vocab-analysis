@@ -34,6 +34,9 @@ status: "new"
 > Die Kunsthistorikerin führt uns durch das Museum.
 > *The art historian shows us through the museum.*
 
+**Phrases & Expressions:**
+- **Die Kunsthistorikerin führt uns durch das Museum** — *The art historian shows us through the museum* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 3b (Kunststücke)
 <!-- bank:end -->
 

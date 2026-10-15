@@ -33,6 +33,11 @@ status: "new"
 > Mein Bruder war mein Trauzeuge.
 > *My brother was my best man.*
 
+**Phrases & Expressions:**
+- **als Trauzeuge fungieren** — *best man; witness at a wedding*
+- **Trauzeuge sein** — *best man; witness at a wedding*
+- **Trauzeugin und Trauzeuge** — *best man; witness at a wedding*
+
 **Collocations**
 - als Trauzeuge fungieren
 - Trauzeuge sein

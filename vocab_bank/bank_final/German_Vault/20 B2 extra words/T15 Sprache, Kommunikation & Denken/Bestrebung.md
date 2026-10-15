@@ -33,6 +33,11 @@ status: "new"
 > Die Bestrebungen der Regierung sind nicht erfolgreich.
 > *The government's efforts are not successful.*
 
+**Phrases & Expressions:**
+- **Bestrebungen zeigen** — *effort; endeavour*
+- **die Bestrebung nach** — *effort; endeavour*
+- **ständige Bestrebungen** — *effort; endeavour*
+
 **Collocations**
 - Bestrebungen zeigen
 - die Bestrebung nach

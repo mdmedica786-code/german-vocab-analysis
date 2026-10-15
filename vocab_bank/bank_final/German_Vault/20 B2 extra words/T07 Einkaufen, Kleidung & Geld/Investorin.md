@@ -33,6 +33,11 @@ status: "new"
 > Die Investorin steckt viel Geld in das Start-up.
 > *The investor puts a lot of money into the start-up.*
 
+**Phrases & Expressions:**
+- **eine Investorin suchen** — *investor (female)*
+- **eine private Investorin** — *investor (female)*
+- **die Investorin überzeugen** — *investor (female)*
+
 **Collocations**
 - eine Investorin suchen
 - eine private Investorin

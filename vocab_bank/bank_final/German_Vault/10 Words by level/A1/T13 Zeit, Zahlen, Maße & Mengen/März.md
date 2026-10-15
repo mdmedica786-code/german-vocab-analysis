@@ -35,6 +35,9 @@ status: "new"
 > Im März beginnt der Frühling.
 > *Spring begins in March.*
 
+**Phrases & Expressions:**
+- **Im März beginnt der Frühling** — *Spring begins in March* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

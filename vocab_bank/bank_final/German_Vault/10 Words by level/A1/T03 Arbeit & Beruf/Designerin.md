@@ -34,6 +34,9 @@ status: "new"
 > Die Designerin zeigt ihre neue Kollektion.
 > *The designer presents her new collection.*
 
+**Phrases & Expressions:**
+- **Die Designerin zeigt ihre neue Kollektion** — *The designer presents her new collection* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

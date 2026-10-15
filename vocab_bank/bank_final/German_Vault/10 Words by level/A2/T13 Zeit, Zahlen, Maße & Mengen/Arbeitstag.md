@@ -35,6 +35,9 @@ status: "new"
 > Mein Arbeitstag beginnt um acht Uhr.
 > *My working day starts at eight o'clock.*
 
+**Phrases & Expressions:**
+- **Mein Arbeitstag beginnt um acht Uhr** — *My working day starts at eight o'clock* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten) · Goethe word list A2
 <!-- bank:end -->
 

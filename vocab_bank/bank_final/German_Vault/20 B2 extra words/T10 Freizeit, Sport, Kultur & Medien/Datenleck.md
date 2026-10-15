@@ -33,6 +33,11 @@ status: "new"
 > Durch ein Datenleck wurden Kundendaten veröffentlicht.
 > *Customer data was published through a data leak.*
 
+**Phrases & Expressions:**
+- **ein Datenleck entdecken** — *data leak*
+- **Datenleck bei der Firma** — *data leak*
+- **Datenleck melden** — *data leak*
+
 **Collocations**
 - ein Datenleck entdecken
 - Datenleck bei der Firma

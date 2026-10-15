@@ -29,6 +29,11 @@ status: "new"
 > „Können“ und „müssen“ sind modale Verben.
 > *"Können" and "müssen" are modal verbs.*
 
+**Phrases & Expressions:**
+- **ein modales Verb** — *modal*
+- **modal verwenden** — *modal*
+- **die modale Bedeutung** — *modal*
+
 **Collocations**
 - ein modales Verb
 - modal verwenden

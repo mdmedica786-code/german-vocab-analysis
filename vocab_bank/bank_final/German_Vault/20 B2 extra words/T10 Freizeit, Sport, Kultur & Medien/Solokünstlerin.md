@@ -30,6 +30,11 @@ status: "new"
 > Die Solokünstlerin tritt bei dem Festival auf.
 > *The solo artist performs at the festival.*
 
+**Phrases & Expressions:**
+- **eine bekannte Solokünstlerin** — *solo artist (female)*
+- **als Solokünstlerin auftreten** — *solo artist (female)*
+- **eine junge Solokünstlerin** — *solo artist (female)*
+
 **Collocations**
 - eine bekannte Solokünstlerin
 - als Solokünstlerin auftreten

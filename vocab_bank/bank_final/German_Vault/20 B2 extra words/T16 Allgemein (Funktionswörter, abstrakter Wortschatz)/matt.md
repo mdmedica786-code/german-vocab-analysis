@@ -29,6 +29,11 @@ status: "new"
 > Die Farbe hat einen matten Glanz.
 > *The colour has a matt sheen.*
 
+**Phrases & Expressions:**
+- **matte Farben** — *dull; matt; weak*
+- **matt glänzen** — *dull; matt; weak*
+- **sich matt fühlen** — *dull; matt; weak*
+
 **Collocations**
 - matte Farben
 - matt glänzen

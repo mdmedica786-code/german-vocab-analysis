@@ -33,6 +33,11 @@ status: "new"
 > Die Bank prüft vor der Kreditvergabe die Bonität des Kunden.
 > *The bank checks the customer's creditworthiness before granting a loan.*
 
+**Phrases & Expressions:**
+- **die Bonität prüfen** — *creditworthiness*
+- **gute Bonität** — *creditworthiness*
+- **Bonität nachweisen** — *creditworthiness*
+
 **Collocations**
 - die Bonität prüfen
 - gute Bonität

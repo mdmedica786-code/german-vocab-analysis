@@ -33,6 +33,11 @@ status: "new"
 > Mit niedrigem Einkommen kann man eine Sozialwohnung beantragen.
 > *With a low income you can apply for a social housing flat.*
 
+**Phrases & Expressions:**
+- **eine Sozialwohnung beantragen** — *social housing flat*
+- **in einer Sozialwohnung leben** — *social housing flat*
+- **Sozialwohnungen bauen** — *social housing flat*
+
 **Collocations**
 - eine Sozialwohnung beantragen
 - in einer Sozialwohnung leben

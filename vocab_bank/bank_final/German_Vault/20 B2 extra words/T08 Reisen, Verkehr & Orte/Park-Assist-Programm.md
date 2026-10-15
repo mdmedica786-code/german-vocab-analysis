@@ -30,6 +30,11 @@ status: "new"
 > Das Park-Assist-Programm hilft beim Einparken.
 > *The park assist programme helps with parking.*
 
+**Phrases & Expressions:**
+- **ein Park-Assist-Programm nutzen** — *park assist programme*
+- **das Park-Assist-Programm einschalten** — *park assist programme*
+- **ein Park-Assist-Programm im Auto** — *park assist programme*
+
 **Collocations**
 - ein Park-Assist-Programm nutzen
 - das Park-Assist-Programm einschalten

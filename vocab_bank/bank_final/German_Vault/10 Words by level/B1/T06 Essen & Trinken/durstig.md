@@ -30,6 +30,9 @@ status: "new"
 > Du bist sicher durstig. Was möchtest du trinken?
 > *You must be thirsty. What would you like to drink?*
 
+**Phrases & Expressions:**
+- **Du bist sicher durstig. Was möchtest du trinken** — *You must be thirsty. What would you like to drink* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

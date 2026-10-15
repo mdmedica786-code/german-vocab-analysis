@@ -30,6 +30,9 @@ status: "new"
 > Mir geht es einigermaßen gut.
 > *I am doing fairly well.*
 
+**Phrases & Expressions:**
+- **Mir geht es einigermaßen gut** — *I am doing fairly well* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 1b (Rund um Körper und Geist)
 <!-- bank:end -->
 

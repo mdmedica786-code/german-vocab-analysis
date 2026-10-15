@@ -29,6 +29,11 @@ status: "new"
 > Das grelle Licht blendete mich.
 > *The glaring light dazzled me.*
 
+**Phrases & Expressions:**
+- **grelles Licht** — *glaring; harsh*
+- **grelle Farben** — *glaring; harsh*
+- **grell leuchten** — *glaring; harsh*
+
 **Collocations**
 - grelles Licht
 - grelle Farben

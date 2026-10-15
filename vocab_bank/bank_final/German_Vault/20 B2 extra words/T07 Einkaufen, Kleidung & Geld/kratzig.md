@@ -29,6 +29,11 @@ status: "new"
 > Der Pullover ist mir zu kratzig.
 > *The jumper is too scratchy for me.*
 
+**Phrases & Expressions:**
+- **ein kratziger Stoff** — *scratchy*
+- **kratzig sein** — *scratchy*
+- **ein kratziger Hals** — *scratchy*
+
 **Collocations**
 - ein kratziger Stoff
 - kratzig sein

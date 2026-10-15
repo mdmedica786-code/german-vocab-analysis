@@ -34,6 +34,9 @@ status: "new"
 > Er lädt die Musik aus dem Internet herunter.
 > *He downloads the music from the internet.*
 
+**Phrases & Expressions:**
+- **Er lädt die Musik aus dem Internet herunter** — *He downloads the music from the internet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 1a (Immer online?) · Goethe word list A2
 <!-- bank:end -->
 

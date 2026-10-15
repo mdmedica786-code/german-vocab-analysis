@@ -31,6 +31,11 @@ status: "new"
 > Das Haus ist von einem großen Garten umgeben.
 > *The house is surrounded by a large garden.*
 
+**Phrases & Expressions:**
+- **von etwas umgeben sein** — *to surround*
+- **sich mit Menschen umgeben** — *to surround*
+- **umgeben von** — *to surround*
+
 **Collocations**
 - von etwas umgeben sein
 - sich mit Menschen umgeben

@@ -34,6 +34,9 @@ status: "new"
 > Die Kinderbetreuung kostet viel Geld.
 > *Childcare costs a lot of money.*
 
+**Phrases & Expressions:**
+- **Die Kinderbetreuung kostet viel Geld** — *Childcare costs a lot of money* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 8b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

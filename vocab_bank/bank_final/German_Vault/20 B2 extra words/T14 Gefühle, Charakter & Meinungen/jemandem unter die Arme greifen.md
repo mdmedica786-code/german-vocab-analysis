@@ -26,6 +26,11 @@ status: "new"
 > Meine Nachbarn haben mir beim Umzug unter die Arme gegriffen.
 > *My neighbours gave me a helping hand with the move.*
 
+**Phrases & Expressions:**
+- **unter die Arme greifen** — *to give someone a helping hand*
+- **jemandem helfen** — *to give someone a helping hand*
+- **finanziell unter die Arme greifen** — *to give someone a helping hand*
+
 **Collocations**
 - unter die Arme greifen
 - jemandem helfen

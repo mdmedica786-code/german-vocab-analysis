@@ -34,6 +34,9 @@ status: "new"
 > Hauptsache, du bist gesund.
 > *The main thing is that you are healthy.*
 
+**Phrases & Expressions:**
+- **Hauptsache, du bist gesund** — *The main thing is that you are healthy* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 3a (Nach der Schulzeit)
 <!-- bank:end -->
 

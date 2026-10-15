@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Der Film wirkt sehr authentisch.
 > *The film seems very authentic.*
+
+**Phrases & Expressions:**
+- **Der Film wirkt sehr authentisch** — *The film seems very authentic* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -30,6 +30,9 @@ status: "new"
 > Wofür entscheiden Sie sich?
 > *What are you opting for?*
 
+**Phrases & Expressions:**
+- **Wofür entscheiden Sie sich** — *What are you opting for* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 5b (Arbeitswelten)
 <!-- bank:end -->
 

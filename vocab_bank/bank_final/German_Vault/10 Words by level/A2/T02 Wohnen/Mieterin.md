@@ -35,6 +35,9 @@ status: "new"
 > Die Mieterin zahlt die Miete pünktlich.
 > *The tenant pays the rent on time.*
 
+**Phrases & Expressions:**
+- **Die Mieterin zahlt die Miete pünktlich** — *The tenant pays the rent on time* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 6b (Zusammen leben) · Goethe word list B1
 <!-- bank:end -->
 

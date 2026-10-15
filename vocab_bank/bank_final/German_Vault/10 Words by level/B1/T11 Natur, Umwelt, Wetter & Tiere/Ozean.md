@@ -34,6 +34,9 @@ status: "new"
 > Dieses Schiff fährt über den Atlantischen Ozean.
 > *This ship crosses the Atlantic Ocean.*
 
+**Phrases & Expressions:**
+- **Dieses Schiff fährt über den Atlantischen Ozean** — *This ship crosses the Atlantic Ocean* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

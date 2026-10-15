@@ -33,6 +33,14 @@ status: "new"
 > Haben Sie schon Fieber gemessen?
 > *Have you taken your temperature yet?*
 
+**Phrases & Expressions:**
+- **ein hohes Maß an ...** — a high degree of ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · C1)*
+- **Ich messe jetzt Ihren Blutdruck.** — I will now measure your blood pressure. *([[FSP-07 Körperliche Untersuchung ankündigen und Anweisungen geben|Blutdruck messen]] · A2)*
+- **Messen Sie bitte täglich Ihren Blutdruck und notieren Sie die Werte.** — Please measure your blood pressure daily and note the values. *([[FSP-11 Therapie und Medikamente erklären|Selbstmanagement]] · B2)*
+- **Fieber messen** — *to measure*
+- **den Blutdruck messen** — *to measure*
+- **den Puls messen** — *to measure*
+
 **Collocations**
 - Fieber messen
 - den Blutdruck messen

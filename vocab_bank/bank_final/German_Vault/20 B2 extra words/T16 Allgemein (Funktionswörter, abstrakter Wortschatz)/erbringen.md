@@ -31,6 +31,11 @@ status: "new"
 > Der Test hat gute Ergebnisse erbracht.
 > *The test produced good results.*
 
+**Phrases & Expressions:**
+- **einen Beweis erbringen** — *to provide; to yield; to produce*
+- **eine Leistung erbringen** — *to provide; to yield; to produce*
+- **einen Nachweis erbringen** — *to provide; to yield; to produce*
+
 **Collocations**
 - einen Beweis erbringen
 - eine Leistung erbringen

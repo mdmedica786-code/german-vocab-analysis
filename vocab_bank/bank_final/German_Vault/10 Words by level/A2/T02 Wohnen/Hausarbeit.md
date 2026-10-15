@@ -34,6 +34,9 @@ status: "new"
 > Die Hausarbeit teilen wir uns gerecht.
 > *We share the housework fairly.*
 
+**Phrases & Expressions:**
+- **Die Hausarbeit teilen wir uns gerecht** — *We share the housework fairly* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
 <!-- bank:end -->
 

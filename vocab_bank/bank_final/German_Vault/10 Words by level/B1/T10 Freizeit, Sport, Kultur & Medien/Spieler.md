@@ -34,6 +34,9 @@ status: "new"
 > Für dieses Spiel braucht man zwei bis vier Spieler.
 > *You need two to four players for this game.*
 
+**Phrases & Expressions:**
+- **Für dieses Spiel braucht man zwei bis vier Spieler** — *You need two to four players for this game* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

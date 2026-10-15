@@ -29,6 +29,9 @@ status: "new"
 > Er ist gewissermaßen mein zweiter Vater.
 > *He is, in a way, my second father.*
 
+**Phrases & Expressions:**
+- **Er ist gewissermaßen mein zweiter Vater** — *He is, in a way, my second father* *(Beispiel im Kontext)*
+
 **Exam use:** Sprechen, Schreiben
 <!-- bank:end -->
 

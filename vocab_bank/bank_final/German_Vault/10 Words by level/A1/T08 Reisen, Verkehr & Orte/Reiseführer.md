@@ -36,6 +36,9 @@ status: "new"
 > Ich arbeite als Reiseführer.
 > *I work as a travel guide.*
 
+**Phrases & Expressions:**
+- **Ich arbeite als Reiseführer** — *I work as a travel guide* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 3b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->
 

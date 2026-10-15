@@ -30,6 +30,11 @@ status: "new"
 > Vor dem Behördengespräch habe ich alle Unterlagen vorbereitet.
 > *Before the meeting with the authority I prepared all the documents.*
 
+**Phrases & Expressions:**
+- **ein Behördengespräch führen** — *conversation with an authority; official meeting*
+- **ein Behördengespräch vorbereiten** — *conversation with an authority; official meeting*
+- **im Behördengespräch** — *conversation with an authority; official meeting*
+
 **Collocations**
 - ein Behördengespräch führen
 - ein Behördengespräch vorbereiten

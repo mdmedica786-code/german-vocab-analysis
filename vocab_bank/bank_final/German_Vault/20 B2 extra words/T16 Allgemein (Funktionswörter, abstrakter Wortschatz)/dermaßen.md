@@ -29,6 +29,11 @@ status: "new"
 > Er hat mich dermaßen geärgert, dass ich gegangen bin.
 > *He annoyed me so much that I left.*
 
+**Phrases & Expressions:**
+- **dermaßen groß** — *to such an extent; so*
+- **dermaßen müde** — *to such an extent; so*
+- **dermaßen, dass** — *to such an extent; so*
+
 **Collocations**
 - dermaßen groß
 - dermaßen müde

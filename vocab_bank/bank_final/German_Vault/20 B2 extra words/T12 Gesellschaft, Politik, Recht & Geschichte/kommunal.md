@@ -29,6 +29,11 @@ status: "new"
 > Die kommunalen Wahlen finden im Herbst statt.
 > *The local elections take place in autumn.*
 
+**Phrases & Expressions:**
+- **kommunale Aufgaben** — *municipal; local-government*
+- **die kommunale Ebene** — *municipal; local-government*
+- **kommunale Wahlen** — *municipal; local-government*
+
 **Collocations**
 - kommunale Aufgaben
 - die kommunale Ebene

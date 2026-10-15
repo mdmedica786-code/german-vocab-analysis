@@ -34,6 +34,9 @@ status: "new"
 > Die Besuchszeit ist von 14 bis 18 Uhr.
 > *Visiting hours are from 2 to 6 pm.*
 
+**Phrases & Expressions:**
+- **Die Besuchszeit ist von 14 bis 18 Uhr** — *Visiting hours are from 2 to 6 pm* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5a (Rund um Körper und Geist)
 <!-- bank:end -->
 

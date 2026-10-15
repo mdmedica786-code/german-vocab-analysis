@@ -32,6 +32,9 @@ status: "new"
 > Er ist selbstständig.
 > *He is self-employed.*
 
+**Phrases & Expressions:**
+- **Er ist selbstständig** — *He is self-employed* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten) · Goethe word list A1
 <!-- bank:end -->
 

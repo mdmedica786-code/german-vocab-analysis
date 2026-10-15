@@ -29,6 +29,11 @@ status: "new"
 > Die beiden Texte sind fast identisch.
 > *The two texts are almost identical.*
 
+**Phrases & Expressions:**
+- **identisch sein mit** — *identical*
+- **identisch aussehen** — *identical*
+- **inhaltlich identisch** — *identical*
+
 **Collocations**
 - identisch sein mit
 - identisch aussehen

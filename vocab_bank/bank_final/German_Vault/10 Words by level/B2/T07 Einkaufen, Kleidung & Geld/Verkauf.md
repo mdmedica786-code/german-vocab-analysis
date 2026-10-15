@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Verkauf der Wohnung dauerte lange.
 > *The sale of the flat took a long time.*
+
+**Phrases & Expressions:**
+- **Der Verkauf der Wohnung dauerte lange** — *The sale of the flat took a long time* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

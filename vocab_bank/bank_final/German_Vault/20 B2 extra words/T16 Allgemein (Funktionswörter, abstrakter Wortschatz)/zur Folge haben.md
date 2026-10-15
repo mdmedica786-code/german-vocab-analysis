@@ -26,6 +26,11 @@ status: "new"
 > Die späte Anmeldung hatte hohe Gebühren zur Folge.
 > *The late registration resulted in high fees.*
 
+**Phrases & Expressions:**
+- **Konsequenzen zur Folge haben** — *to result in; to have as a consequence*
+- **negative Folgen haben** — *to result in; to have as a consequence*
+- **etwas hat zur Folge, dass** — *to result in; to have as a consequence*
+
 **Collocations**
 - Konsequenzen zur Folge haben
 - negative Folgen haben

@@ -29,6 +29,11 @@ status: "new"
 > Haben Sie diesbezüglich noch Fragen?
 > *Do you have any further questions in this regard?*
 
+**Phrases & Expressions:**
+- **diesbezüglich informieren** — *in this regard; concerning this*
+- **eine diesbezügliche Anfrage** — *in this regard; concerning this*
+- **diesbezügliche Fragen** — *in this regard; concerning this*
+
 **Collocations**
 - diesbezüglich informieren
 - eine diesbezügliche Anfrage

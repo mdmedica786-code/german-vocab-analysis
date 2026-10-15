@@ -33,6 +33,11 @@ status: "new"
 > Sie studiert eine Geisteswissenschaft, nämlich Philosophie.
 > *She studies a humanities subject, namely philosophy.*
 
+**Phrases & Expressions:**
+- **Geistes- und Naturwissenschaften** — *humanities (discipline)*
+- **in den Geisteswissenschaften** — *humanities (discipline)*
+- **Geisteswissenschaftler** — *humanities (discipline)*
+
 **Collocations**
 - Geistes- und Naturwissenschaften
 - in den Geisteswissenschaften

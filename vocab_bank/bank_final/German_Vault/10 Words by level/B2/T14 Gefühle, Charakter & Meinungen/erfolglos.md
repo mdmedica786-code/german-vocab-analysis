@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Die Suche blieb erfolglos.
 > *The search remained unsuccessful.*
+
+**Phrases & Expressions:**
+- **Die Suche blieb erfolglos** — *The search remained unsuccessful* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

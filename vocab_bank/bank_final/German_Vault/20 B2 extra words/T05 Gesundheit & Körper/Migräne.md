@@ -33,6 +33,11 @@ status: "new"
 > Seit Jahren leidet sie unter Migräne.
 > *She has suffered from migraines for years.*
 
+**Phrases & Expressions:**
+- **unter Migräne leiden** — *migraine*
+- **einen Migräneanfall haben** — *migraine*
+- **Migräne bekommen** — *migraine*
+
 **Collocations**
 - unter Migräne leiden
 - einen Migräneanfall haben

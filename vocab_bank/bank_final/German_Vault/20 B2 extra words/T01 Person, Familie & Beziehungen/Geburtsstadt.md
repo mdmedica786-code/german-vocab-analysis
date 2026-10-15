@@ -33,6 +33,11 @@ status: "new"
 > Seine Geburtsstadt ist Hamburg.
 > *His city of birth is Hamburg.*
 
+**Phrases & Expressions:**
+- **in der Geburtsstadt** — *city of birth; home town*
+- **in die Geburtsstadt zurückkehren** — *city of birth; home town*
+- **die Geburtsstadt besuchen** — *city of birth; home town*
+
 **Collocations**
 - in der Geburtsstadt
 - in die Geburtsstadt zurückkehren

@@ -33,6 +33,11 @@ status: "new"
 > Es gibt eine deutliche Abnahme der Besucherzahlen.
 > *There is a clear decrease in visitor numbers.*
 
+**Phrases & Expressions:**
+- **eine deutliche Abnahme** — *decrease; acceptance (of work)*
+- **die Abnahme der Arbeitslosigkeit** — *decrease; acceptance (of work)*
+- **die Abnahme der Wohnung** — *decrease; acceptance (of work)*
+
 **Collocations**
 - eine deutliche Abnahme
 - die Abnahme der Arbeitslosigkeit

@@ -33,6 +33,11 @@ status: "new"
 > Frankfurt ist ein wichtiges Verkehrszentrum in Europa.
 > *Frankfurt is an important transport hub in Europe.*
 
+**Phrases & Expressions:**
+- **ein wichtiges Verkehrszentrum** — *transport hub*
+- **ein internationales Verkehrszentrum** — *transport hub*
+- **das Verkehrszentrum der Region** — *transport hub*
+
 **Collocations**
 - ein wichtiges Verkehrszentrum
 - ein internationales Verkehrszentrum

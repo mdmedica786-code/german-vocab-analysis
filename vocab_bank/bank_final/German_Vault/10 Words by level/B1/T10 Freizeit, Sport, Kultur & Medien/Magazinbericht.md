@@ -31,6 +31,9 @@ status: "new"
 > Der Magazinbericht handelt von Umweltschutz.
 > *The magazine report is about environmental protection.*
 
+**Phrases & Expressions:**
+- **Der Magazinbericht handelt von Umweltschutz** — *The magazine report is about environmental protection* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 6b (Stadt, Land, Fluss)
 <!-- bank:end -->
 

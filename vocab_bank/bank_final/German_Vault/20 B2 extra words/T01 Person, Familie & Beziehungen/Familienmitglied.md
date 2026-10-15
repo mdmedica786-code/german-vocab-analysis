@@ -33,6 +33,11 @@ status: "new"
 > Jedes Familienmitglied hilft im Haushalt.
 > *Every family member helps with the housework.*
 
+**Phrases & Expressions:**
+- **ein Familienmitglied** — *family member*
+- **alle Familienmitglieder** — *family member*
+- **ein neues Familienmitglied** — *family member*
+
 **Collocations**
 - ein Familienmitglied
 - alle Familienmitglieder

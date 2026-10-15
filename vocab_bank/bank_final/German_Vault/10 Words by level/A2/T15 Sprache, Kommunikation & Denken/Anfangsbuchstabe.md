@@ -34,6 +34,9 @@ status: "new"
 > Der Anfangsbuchstabe deines Namens ist ein M.
 > *The first letter of your name is an M.*
 
+**Phrases & Expressions:**
+- **Der Anfangsbuchstabe deines Namens ist ein M** — *The first letter of your name is an M* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 11c (Immer online?)
 <!-- bank:end -->
 

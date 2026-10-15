@@ -29,6 +29,11 @@ status: "new"
 > Der Saft schmeckt mir zu süßlich.
 > *The juice tastes too sweetish to me.*
 
+**Phrases & Expressions:**
+- **süßlich schmecken** — *sweetish; cloying*
+- **ein süßlicher Geruch** — *sweetish; cloying*
+- **süßlich lächeln** — *sweetish; cloying*
+
 **Collocations**
 - süßlich schmecken
 - ein süßlicher Geruch

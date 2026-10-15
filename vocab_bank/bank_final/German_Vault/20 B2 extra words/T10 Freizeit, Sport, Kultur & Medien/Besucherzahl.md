@@ -33,6 +33,11 @@ status: "new"
 > Die Besucherzahlen des Museums sind gestiegen.
 > *The museum's visitor numbers have risen.*
 
+**Phrases & Expressions:**
+- **die Besucherzahl steigt** — *number of visitors; attendance*
+- **hohe Besucherzahlen** — *number of visitors; attendance*
+- **die Besucherzahl beschränken** — *number of visitors; attendance*
+
 **Collocations**
 - die Besucherzahl steigt
 - hohe Besucherzahlen

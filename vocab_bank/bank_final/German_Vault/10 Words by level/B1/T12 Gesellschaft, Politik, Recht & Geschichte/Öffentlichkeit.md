@@ -35,6 +35,9 @@ status: "new"
 > Von solchen Dingen erfährt die Öffentlichkeit nur selten.
 > *The public rarely finds out about such things.*
 
+**Phrases & Expressions:**
+- **Von solchen Dingen erfährt die Öffentlichkeit nur selten** — *The public rarely finds out about such things* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

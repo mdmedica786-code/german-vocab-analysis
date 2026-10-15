@@ -35,6 +35,9 @@ status: "new"
 > Ich bin für das Verbot dieses neuen Videospiels.
 > *I am in favour of banning this new video game.*
 
+**Phrases & Expressions:**
+- **verboten sein** — to be forbidden *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A2)*
+
 **Source:** Netzwerk neu A1 K8 13b (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->
 

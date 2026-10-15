@@ -34,6 +34,9 @@ status: "new"
 > Meine Tochter studiert Kunstgeschichte.
 > *My daughter studies art history.*
 
+**Phrases & Expressions:**
+- **Meine Tochter studiert Kunstgeschichte** — *My daughter studies art history* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 10b (Gute Unterhaltung!)
 <!-- bank:end -->
 

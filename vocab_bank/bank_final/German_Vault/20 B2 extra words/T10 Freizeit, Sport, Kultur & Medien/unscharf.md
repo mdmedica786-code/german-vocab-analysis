@@ -29,6 +29,11 @@ status: "new"
 > Das Foto ist leider unscharf.
 > *The photo is unfortunately blurred.*
 
+**Phrases & Expressions:**
+- **unscharf sein** — *blurred; out of focus*
+- **ein unscharfes Bild** — *blurred; out of focus*
+- **unscharf fotografieren** — *blurred; out of focus*
+
 **Collocations**
 - unscharf sein
 - ein unscharfes Bild

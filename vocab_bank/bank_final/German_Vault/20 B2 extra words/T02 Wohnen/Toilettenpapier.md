@@ -33,6 +33,11 @@ status: "new"
 > Wir haben kein Toilettenpapier mehr.
 > *We have no toilet paper left.*
 
+**Phrases & Expressions:**
+- **eine Rolle Toilettenpapier** — *toilet paper*
+- **Toilettenpapier kaufen** — *toilet paper*
+- **Toilettenpapier nachfüllen** — *toilet paper*
+
 **Collocations**
 - eine Rolle Toilettenpapier
 - Toilettenpapier kaufen

@@ -33,6 +33,11 @@ status: "new"
 > Das Gras war noch nass vom Tau.
 > *The grass was still wet with dew.*
 
+**Phrases & Expressions:**
+- **Tau auf den Wiesen** — *dew*
+- **vom Tau benetzt** — *dew*
+- **der Morgentau** — *dew*
+
 **Collocations**
 - Tau auf den Wiesen
 - vom Tau benetzt

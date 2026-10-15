@@ -31,6 +31,9 @@ status: "new"
 > Mein Bruder ist ein Modefan.
 > *My brother is a fashion fan.*
 
+**Phrases & Expressions:**
+- **Mein Bruder ist ein Modefan** — *My brother is a fashion fan* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

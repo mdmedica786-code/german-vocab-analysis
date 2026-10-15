@@ -34,6 +34,9 @@ status: "new"
 > Haben Sie frische Schwammerln?
 > *Do you have fresh mushrooms?*
 
+**Phrases & Expressions:**
+- **Haben Sie frische Schwammerln** — *Do you have fresh mushrooms* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

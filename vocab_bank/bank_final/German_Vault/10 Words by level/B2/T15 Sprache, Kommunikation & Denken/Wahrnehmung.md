@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Nach dem Schlaganfall war ihre Wahrnehmung gestört.
 > *After the stroke her perception was impaired.*
+
+**Phrases & Expressions:**
+- **Nach dem Schlaganfall war ihre Wahrnehmung gestört** — *After the stroke her perception was impaired* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

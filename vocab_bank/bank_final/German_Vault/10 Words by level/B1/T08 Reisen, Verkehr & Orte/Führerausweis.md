@@ -42,6 +42,9 @@ status: "new"
 > Hast du einen Führerausweis?
 > *Do you have a driving licence?*
 
+**Phrases & Expressions:**
+- **Hast du einen Führerausweis** — *Do you have a driving licence* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

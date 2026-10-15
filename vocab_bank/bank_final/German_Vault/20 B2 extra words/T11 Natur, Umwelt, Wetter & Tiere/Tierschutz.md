@@ -33,6 +33,11 @@ status: "new"
 > Der Tierschutz ist im Grundgesetz verankert.
 > *Animal protection is enshrined in the Basic Law.*
 
+**Phrases & Expressions:**
+- **für den Tierschutz** — *animal protection*
+- **Tierschutzverein** — *animal protection*
+- **Tierschutz verbessern** — *animal protection*
+
 **Collocations**
 - für den Tierschutz
 - Tierschutzverein

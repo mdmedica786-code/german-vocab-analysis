@@ -35,6 +35,9 @@ status: "new"
 > Unsere Produkte haben eine sehr hohe Qualität.
 > *Our products are of very high quality.*
 
+**Phrases & Expressions:**
+- **Das Produkt entspricht nicht der Beschreibung.** — The product doesn't match the description. *([[B2-04 Beschwerde und Reklamation|Problem schildern]] · B2)*
+
 **Source:** Netzwerk neu A1 K11 10b (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

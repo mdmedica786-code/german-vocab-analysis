@@ -31,6 +31,14 @@ status: "new"
 > Die Kartoffeln sind noch nicht gar.
 > *The potatoes are not cooked yet.*
 
+**Phrases & Expressions:**
+- **auf gar keinen Fall** — under no circumstances *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B1)*
+- **ganz und gar nicht** — not at all *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · B2)*
+- **und schon gar nicht** — and certainly not *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · C1)*
+- **ganz und gar** — completely *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **ich weiß gar nicht, ob ...** — I don't even know whether ... *([[Sicherheit - Zweifel (certainty, doubt)|Sicherheit / Zweifel (certainty, doubt)]] · B2)*
+- **gar nicht** — not at all *([[Zustimmen - Widersprechen (agree, disagree)|Zustimmen / Widersprechen (agree, disagree)]] · A2)*
+
 **Collocations**
 - gar nicht
 - gar kein

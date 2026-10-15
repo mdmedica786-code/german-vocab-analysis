@@ -29,6 +29,9 @@ status: "new"
 > Wir fahren morgen, es sei denn, es regnet stark.
 > *We are leaving tomorrow unless it rains heavily.*
 
+**Phrases & Expressions:**
+- **Wir fahren morgen, es sei denn, es regnet stark** — *We are leaving tomorrow unless it rains heavily* *(Beispiel im Kontext)*
+
 **Exam use:** Schreiben, Grammatik
 <!-- bank:end -->
 

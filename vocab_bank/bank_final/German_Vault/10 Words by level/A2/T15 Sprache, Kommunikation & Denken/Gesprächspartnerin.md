@@ -34,6 +34,9 @@ status: "new"
 > Meine Gesprächspartnerin hört aufmerksam zu.
 > *My conversation partner listens attentively.*
 
+**Phrases & Expressions:**
+- **Meine Gesprächspartnerin hört aufmerksam zu** — *My conversation partner listens attentively* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

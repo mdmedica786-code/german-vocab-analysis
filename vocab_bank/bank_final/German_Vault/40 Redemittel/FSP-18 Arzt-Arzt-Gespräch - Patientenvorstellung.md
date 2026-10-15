@@ -14,12 +14,14 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Patient vorstellen
 
 - **Ich stelle Ihnen Herrn ... vor, einen ...-jährigen Patienten.** ⭐ — I present Mr ... to you, a ...-year-old patient.
+  - Words: [[Patient]] · [[stellen]] · [[Stelle]]
   - Ich stelle Ihnen Herrn Müller vor, einen 67-jährigen Patienten, der mit Brustschmerzen aufgenommen wurde. *(I present Mr Müller to you, a 67-year-old patient who was admitted with chest pain.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: vorstellen: trennbar; Relativsatz im Passiv
   - Variants: Es geht um Herrn ..., 67 Jahre alt. | Ich berichte über einen Patienten, ... Jahre alt.
   - Exam: FSP Arzt-Arzt-Gespräch
 - **Es handelt sich um einen ...-jährigen Patienten mit bekanntem ...** ⭐ — This is a ...-year-old patient with known ...
+  - Words: [[bekannt]] · [[handeln]] · [[Patient]]
   - Es handelt sich um einen 72-jährigen Patienten mit bekannter koronarer Herzerkrankung. *(This is a 72-year-old patient with known coronary heart disease.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: bekannt als Partizip-Adjektiv
@@ -28,12 +30,14 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Aufnahmegrund nennen
 
 - **Der Patient wurde mit ... aufgenommen.** ⭐ — The patient was admitted with ...
+  - Words: [[Patient]] · [[aufnehmen]] · [[geboren werden]] · [[werden]] · [[loswerden]]
   - Der Patient wurde mit akuten Oberbauchschmerzen aufgenommen. *(The patient was admitted with acute upper abdominal pain.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Passiv Präteritum: wurde aufgenommen
   - Variants: Er kam mit ... in die Notaufnahme. | Aufnahmegrund war ...
   - Exam: FSP Arzt-Arzt-Gespräch
 - **Die stationäre Aufnahme erfolgte aufgrund von ...** ⭐ — Inpatient admission took place because of ...
+  - Words: [[aufgrund]] · [[Aufnahme]] · [[stationär]] · [[erfolgen]]
   - Die stationäre Aufnahme erfolgte aufgrund von Atemnot und Fieber. *(Inpatient admission took place because of shortness of breath and fever.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: aufgrund von + Dativ; erfolgen
@@ -42,12 +46,14 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Anamnese zusammenfassen
 
 - **Anamnestisch berichtet der Patient über ...** ⭐ — Anamnestically the patient reports ...
+  - Words: [[Patient]] · [[berichten]]
   - Anamnestisch berichtet der Patient über seit drei Tagen bestehende Schmerzen. *(Anamnestically the patient reports pain that has existed for three days.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Adverb anamnestisch
   - Variants: Zur Vorgeschichte: Der Patient gibt an, ... | Die Eigenanamnese ergibt ...
   - Exam: FSP Arzt-Arzt-Gespräch
 - **Die Beschwerden bestehen seit etwa drei Tagen.** ⭐ — The complaints have existed for about three days.
+  - Words: [[bestehen]] · [[etwa]] · [[drei]] · [[Tag]] · [[seit]] · [[Beschwerde]] · [[sein]]
   - Die Beschwerden bestehen seit etwa drei Tagen und haben sich zunehmend verschlechtert. *(The complaints have existed for about three days and have increasingly worsened.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: bestehen seit + Dativ
@@ -56,6 +62,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Vorerkrankungen nennen
 
 - **Als Vorerkrankungen sind ... bekannt.** ⭐ — Known pre-existing conditions are ...
+  - Words: [[bekannt]] · [[bekannt geben]] · [[bekennen]]
   - Als Vorerkrankungen sind arterielle Hypertonie und Diabetes mellitus Typ 2 bekannt. *(Known pre-existing conditions are arterial hypertension and type 2 diabetes mellitus.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: bekannt sein als
@@ -64,6 +71,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Medikation nennen
 
 - **Die Dauermedikation umfasst ...** ⭐ — The regular medication comprises ...
+  - Words: [[umfassen]]
   - Die Dauermedikation umfasst einen ACE-Hemmer, einen Betablocker und Metformin. *(The regular medication comprises an ACE inhibitor, a beta blocker and metformin.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: umfassen + Akkusativ
@@ -72,6 +80,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Allergien nennen
 
 - **Allergien sind nicht bekannt.** ⭐ — No allergies are known.
+  - Words: [[bekannt]] · [[bekannt geben]] · [[bekennen]] · [[Allergie]]
   - Allergien sind nicht bekannt, Nikotin- und Alkoholabusus werden verneint. *(No allergies are known; nicotine and alcohol abuse are denied.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Zustandspassiv; verneinen
@@ -80,18 +89,21 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Befund berichten
 
 - **Bei der Aufnahme war der Patient hämodynamisch stabil.** ⭐ — On admission the patient was haemodynamically stable.
+  - Words: [[Patient]] · [[Aufnahme]] · [[stabil]]
   - Bei der Aufnahme war der Patient hämodynamisch stabil und afebril. *(On admission the patient was haemodynamically stable and afebrile.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Präteritum bei Berichtszeitpunkt
   - Variants: Der Aufnahmebefund zeigte stabile Vitalparameter. | Zum Zeitpunkt der Aufnahme: ...
   - Exam: FSP Arzt-Arzt-Gespräch
 - **In der Laboruntersuchung zeigten sich erhöhte Entzündungswerte.** ⭐ — The laboratory tests showed elevated inflammatory markers.
+  - Words: [[zeigen]] · [[erhöhen]]
   - In der Laboruntersuchung zeigten sich erhöhte Entzündungswerte mit einem CRP von 120. *(The laboratory tests showed elevated inflammatory markers with a CRP of 120.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: sich zeigen im Präteritum
   - Variants: Laborchemisch fiel ... auf. | Die Entzündungsparameter sind erhöht.
   - Exam: FSP Arzt-Arzt-Gespräch
 - **Im Röntgenbild des Thorax zeigt sich ein Infiltrat rechts basal.** ⭐ — The chest X-ray shows an infiltrate at the right base.
+  - Words: [[rechts]] · [[zeigen]] · [[Recht]] · [[anzeigen]] · [[aufzeigen]]
   - Im Röntgenbild des Thorax zeigt sich ein Infiltrat rechts basal. *(The chest X-ray shows an infiltrate at the right base.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Röntgenbild des Thorax
@@ -100,6 +112,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Verdachtsdiagnose nennen
 
 - **Wir haben den Verdacht auf eine ambulant erworbene Pneumonie.** ⭐ — We suspect community-acquired pneumonia.
+  - Words: [[Verdacht]]
   - Wir haben den Verdacht auf eine ambulant erworbene Pneumonie. *(We suspect community-acquired pneumonia.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Verdacht auf + Akkusativ
@@ -108,6 +121,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Differenzialdiagnosen nennen
 
 - **Differenzialdiagnostisch müssen wir auch eine Lungenembolie ausschließen.** ⭐ — As differential diagnosis we must also rule out pulmonary embolism.
+  - Words: [[ausschließen]] · [[müssen]]
   - Differenzialdiagnostisch müssen wir auch eine Lungenembolie ausschließen. *(As differential diagnosis we must also rule out pulmonary embolism.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: ausschließen: trennbar
@@ -116,18 +130,21 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Weiteres Vorgehen
 
 - **Wir haben eine Antibiose mit ... begonnen.** ⭐ — We have started antibiotic treatment with ...
+  - Words: [[beginnen]]
   - Wir haben eine Antibiose mit Amoxicillin und Clavulansäure begonnen. *(We have started antibiotic treatment with amoxicillin and clavulanic acid.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Antibiose = Antibiotikatherapie
   - Variants: Eine kalkulierte Antibiotikatherapie wurde eingeleitet. | Wir therapieren mit ...
   - Exam: FSP Arzt-Arzt-Gespräch
 - **Geplant sind eine Verlaufskontrolle des Labors und ein Kontroll-Röntgen.** ⭐ — A follow-up of the laboratory values and a repeat X-ray are planned.
+  - Words: [[planen]] · [[Labor]]
   - Geplant sind eine Verlaufskontrolle des Labors und ein Kontroll-Röntgen in drei Tagen. *(A follow-up of the laboratory values and a repeat X-ray are planned in three days.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: geplant sein: Zustandspassiv
   - Variants: Wir planen weitere Kontrollen. | Als Nächstes folgt ...
   - Exam: FSP Arzt-Arzt-Gespräch
 - **Das weitere Vorgehen würde ich gern mit Ihnen besprechen.** ⭐ — I would like to discuss the further procedure with you.
+  - Words: [[gern]] · [[weitere]] · [[Würde]] · [[besprechen]] · [[vorgehen]]
   - Das weitere Vorgehen würde ich gern mit Ihnen besprechen, weil ich unsicher bin. *(I would like to discuss the further procedure with you because I am unsure.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Konjunktiv II: würde gern
@@ -136,12 +153,14 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Rückfrage beantworten
 
 - **Das kann ich Ihnen noch nicht sagen, die Befunde stehen noch aus.** ⭐ — I can't tell you that yet; the results are still pending.
+  - Words: [[sagen]] · [[stehen]] · [[Befund]] · [[können]] · [[stehenbleiben]]
   - Das kann ich Ihnen noch nicht sagen, die Befunde stehen noch aus. *(I can't tell you that yet; the results are still pending.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: ausstehen: Befunde stehen aus
   - Variants: Dazu liegen noch keine Ergebnisse vor. | Das ist noch offen.
   - Exam: FSP Arzt-Arzt-Gespräch
 - **Soweit ich weiß, hat der Patient keine Nierenerkrankung.** ⭐ — As far as I know, the patient has no kidney disease.
+  - Words: [[Patient]] · [[wissen (verb)]] · [[soweit]] · [[weiß]] · [[weiterwissen]]
   - Soweit ich weiß, hat der Patient keine Nierenerkrankung, die Nierenwerte sind normal. *(As far as I know, the patient has no kidney disease; the kidney values are normal.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: soweit ich weiß: Einschränkung
@@ -150,12 +169,14 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Rückfrage stellen
 
 - **Gibt es Hinweise auf eine Immunsuppression?** ⭐ — Are there any indications of immunosuppression?
+  - Words: [[geben]] · [[eingeben]] · [[Hinweis]] · [[wiedergeben]] · [[abgeben]] · [[angeben]] · [[ausgeben]] · [[hinweisen]]
   - Gibt es Hinweise auf eine Immunsuppression oder eine Chemotherapie? *(Are there any indications of immunosuppression or chemotherapy?)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Hinweis auf + Akkusativ
   - Variants: Besteht ein Hinweis auf ...? | Ist etwas über ... bekannt?
   - Exam: FSP Arzt-Arzt-Gespräch
 - **Wie ist der Patient aktuell klinisch einzuschätzen?** — How should the patient be assessed clinically at present?
+  - Words: [[Patient]] · [[aktuell]] · [[klinisch]]
   - Wie ist der Patient aktuell klinisch einzuschätzen? Ist er stabil? *(How should the patient be assessed clinically at present? Is he stable?)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: einzuschätzen: sein + zu-Infinitiv
@@ -164,6 +185,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Prognose und Risiko
 
 - **Das Risiko einer Verschlechterung ist aktuell als gering einzustufen.** — The risk of deterioration is currently to be classed as low.
+  - Words: [[gering]] · [[aktuell]] · [[Risiko]]
   - Das Risiko einer Verschlechterung ist aktuell als gering einzustufen. *(The risk of deterioration is currently to be classed as low.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: einzustufen als: sein + zu-Infinitiv
@@ -172,6 +194,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Zusammenfassung
 
 - **Zusammenfassend handelt es sich um ...** — In summary it is a case of ...
+  - Words: [[handeln]] · [[zusammenfassend]]
   - Zusammenfassend handelt es sich um einen älteren Patienten mit einer ambulant erworbenen Pneumonie. *(In summary it is an older patient with community-acquired pneumonia.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: zusammenfassend: Inversion
@@ -180,6 +203,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Rücksprache einholen
 
 - **Ich würde Ihnen den Patienten gern vorstellen und Ihre Meinung hören.** — I would like to present the patient to you and hear your opinion.
+  - Words: [[hören]] · [[vorstellen]] · [[gern]] · [[Patient]] · [[Meinung]] · [[Würde]]
   - Ich würde Ihnen den Patienten gern vorstellen und Ihre Meinung hören. *(I would like to present the patient to you and hear your opinion.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: Konjunktiv II: würde gern
@@ -188,6 +212,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Aufnahmeform nennen
 
 - **Der Patient kam über den Rettungsdienst in die Notaufnahme.** — The patient came to the emergency department via the ambulance service.
+  - Words: [[kommen]] · [[Patient]] · [[drankommen]] · [[mitkommen]] · [[ankommen]] · [[zurückkommen]] · [[vorkommen]] · [[dazukommen]]
   - Der Patient kam über den Rettungsdienst in die Notaufnahme. *(The patient came to the emergency department via the ambulance service.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: über + Akkusativ
@@ -196,6 +221,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Sozialanamnese nennen
 
 - **Sozialanamnestisch lebt der Patient allein und ist berentet.** — In terms of social history the patient lives alone and is retired.
+  - Words: [[Patient]] · [[allein]] · [[leben (verb)]] · [[zusammenleben (verb)]] · [[einleben]]
   - Sozialanamnestisch lebt der Patient allein und ist berentet. *(In terms of social history the patient lives alone and is retired.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: sozialanamnestisch: Adverb
@@ -204,6 +230,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Verlauf berichten
 
 - **Unter der Therapie kam es zu einer klinischen Besserung.** — Under therapy there was clinical improvement.
+  - Words: [[kommen]] · [[drankommen]] · [[mitkommen]] · [[ankommen]] · [[Therapie]] · [[zurückkommen]] · [[vorkommen]] · [[dazukommen]]
   - Unter der Therapie kam es zu einer klinischen Besserung, das Fieber ist abgefallen. *(Under therapy there was clinical improvement; the fever has fallen.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: es kommt zu + Dativ
@@ -212,6 +239,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Dringlichkeit ausdrücken
 
 - **Der Patient muss zeitnah einer Herzkatheteruntersuchung zugeführt werden.** — The patient must be sent promptly for cardiac catheterisation.
+  - Words: [[Patient]] · [[müssen]]
   - Der Patient muss zeitnah einer Herzkatheteruntersuchung zugeführt werden. *(The patient must be sent promptly for cardiac catheterisation.)*
   - C1 · formal · speaker: Arzt · to: Kollegen
   - Grammar: zuführen + Dativ; Passiv
@@ -220,6 +248,7 @@ tags: ["redemittel", "level/B2", "level/C1", "medical"]
 ## Offene Fragen
 
 - **Offen ist noch, ob eine Operation nötig sein wird.** — It is still open whether an operation will be necessary.
+  - Words: [[ob]] · [[offen]] · [[nötig]] · [[Operation]] · [[geboren werden]] · [[werden]] · [[loswerden]]
   - Offen ist noch, ob eine Operation nötig sein wird. *(It is still open whether an operation will be necessary.)*
   - B2 · formal · speaker: Arzt · to: Kollegen
   - Grammar: ob-Satz: Verb am Ende

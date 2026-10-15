@@ -29,6 +29,11 @@ status: "new"
 > Das Glas ist völlig durchsichtig.
 > *The glass is completely transparent.*
 
+**Phrases & Expressions:**
+- **durchsichtig sein** — *transparent; see-through*
+- **eine durchsichtige Folie** — *transparent; see-through*
+- **durchsichtig wie Glas** — *transparent; see-through*
+
 **Collocations**
 - durchsichtig sein
 - eine durchsichtige Folie

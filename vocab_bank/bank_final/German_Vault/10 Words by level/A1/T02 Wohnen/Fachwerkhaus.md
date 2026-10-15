@@ -34,6 +34,9 @@ status: "new"
 > In der Altstadt stehen viele Fachwerkhäuser.
 > *There are many half-timbered houses in the old town.*
 
+**Phrases & Expressions:**
+- **In der Altstadt stehen viele Fachwerkhäuser** — *There are many half-timbered houses in the old town* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 10a (Meine Wohnung)
 <!-- bank:end -->
 

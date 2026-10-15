@@ -34,6 +34,9 @@ status: "new"
 > Dieser Begriff ist mir neu.
 > *This term is new to me.*
 
+**Phrases & Expressions:**
+- **Gibt es einen Begriff, den Sie nicht verstanden haben?** — Is there a term that you did not understand? *([[FSP-15 Verständnis sichern und Fachbegriffe umschreiben|Nachfragen]] · B1)*
+
 **Source:** Netzwerk neu B1 K5 3 (Umweltfreundlich?)
 <!-- bank:end -->
 

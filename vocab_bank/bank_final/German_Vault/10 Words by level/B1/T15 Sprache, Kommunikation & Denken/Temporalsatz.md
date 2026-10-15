@@ -34,6 +34,9 @@ status: "new"
 > Ein Temporalsatz beginnt oft mit als oder wenn.
 > *A temporal clause often begins with als or wenn.*
 
+**Phrases & Expressions:**
+- **Ein Temporalsatz beginnt oft mit als oder wenn** — *A temporal clause often begins with als or wenn* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 13b (Zwischenmenschliches)
 <!-- bank:end -->
 

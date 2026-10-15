@@ -35,6 +35,9 @@ status: "new"
 > Bring bitte noch ein Glas Konfitüre mit.
 > *Please bring another jar of jam.*
 
+**Phrases & Expressions:**
+- **Bring bitte noch ein Glas Konfitüre mit** — *Please bring another jar of jam* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander) · Goethe word list B1
 <!-- bank:end -->
 

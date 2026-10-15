@@ -33,6 +33,11 @@ status: "new"
 > Der Abbau von Arbeitsplätzen beunruhigt viele Menschen.
 > *The cutting of jobs worries many people.*
 
+**Phrases & Expressions:**
+- **der Abbau von Stellen** — *dismantling; reduction; mining*
+- **der Abbau von Vorurteilen** — *dismantling; reduction; mining*
+- **der Abbau von Kohle** — *dismantling; reduction; mining*
+
 **Collocations**
 - der Abbau von Stellen
 - der Abbau von Vorurteilen

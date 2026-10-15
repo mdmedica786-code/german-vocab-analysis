@@ -33,6 +33,11 @@ status: "new"
 > Im Maklerbüro bekommen wir Angebote für Wohnungen.
 > *At the estate agent's office we get offers for flats.*
 
+**Phrases & Expressions:**
+- **ins Maklerbüro gehen** — *estate agent's office; brokerage office*
+- **ein Maklerbüro beauftragen** — *estate agent's office; brokerage office*
+- **im Maklerbüro anrufen** — *estate agent's office; brokerage office*
+
 **Collocations**
 - ins Maklerbüro gehen
 - ein Maklerbüro beauftragen

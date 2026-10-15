@@ -32,6 +32,12 @@ status: "new"
 > Ich vertrage keine Milch.
 > *I cannot tolerate milk.*
 
+**Phrases & Expressions:**
+- **Vertragen Sie bestimmte Medikamente oder Lebensmittel nicht?** — Are there certain medicines or foods that you don't tolerate? *([[FSP-04 Vorerkrankungen, Operationen, Allergien und Medikamente|Unverträglichkeiten erfragen]] · B2)*
+- **etwas gut vertragen** — *to tolerate; to bear; to get on (sich vertragen)*
+- **sich vertragen mit** — *to tolerate; to bear; to get on (sich vertragen)*
+- **Kritik vertragen** — *to tolerate; to bear; to get on (sich vertragen)*
+
 **Collocations**
 - etwas gut vertragen
 - sich vertragen mit

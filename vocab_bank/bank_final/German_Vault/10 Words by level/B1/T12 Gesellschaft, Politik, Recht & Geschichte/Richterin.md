@@ -35,6 +35,9 @@ status: "new"
 > Die Richterin hat noch kein Urteil gesprochen.
 > *The judge has not yet passed judgement.*
 
+**Phrases & Expressions:**
+- **Die Richterin hat noch kein Urteil gesprochen** — *The judge has not yet passed judgement* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

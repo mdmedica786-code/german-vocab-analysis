@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Insoweit stimme ich Ihnen zu.
 > *To that extent I agree with you.*
+
+**Phrases & Expressions:**
+- **Insoweit stimme ich Ihnen zu** — *To that extent I agree with you* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

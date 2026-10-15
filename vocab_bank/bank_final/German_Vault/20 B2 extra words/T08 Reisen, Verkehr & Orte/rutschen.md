@@ -31,6 +31,11 @@ status: "new"
 > Auf dem nassen Laub bin ich gerutscht und gestürzt.
 > *I slid on the wet leaves and fell.*
 
+**Phrases & Expressions:**
+- **ins Rutschen kommen** — *to slip; to slide*
+- **vom Stuhl rutschen** — *to slip; to slide*
+- **zur Seite rutschen** — *to slip; to slide*
+
 **Collocations**
 - ins Rutschen kommen
 - vom Stuhl rutschen

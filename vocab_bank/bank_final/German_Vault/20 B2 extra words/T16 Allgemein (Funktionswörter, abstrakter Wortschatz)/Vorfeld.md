@@ -33,6 +33,11 @@ status: "new"
 > Im Vorfeld der Wahl gab es viele Debatten.
 > *In the run-up to the election there were many debates.*
 
+**Phrases & Expressions:**
+- **im Vorfeld** — *run-up; preliminary stage (only in "im Vorfeld")*
+- **im Vorfeld der Wahl** — *run-up; preliminary stage (only in "im Vorfeld")*
+- **im Vorfeld klären** — *run-up; preliminary stage (only in "im Vorfeld")*
+
 **Collocations**
 - im Vorfeld
 - im Vorfeld der Wahl

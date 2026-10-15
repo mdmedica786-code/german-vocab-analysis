@@ -29,6 +29,11 @@ status: "new"
 > Der Wein schmeckt herb.
 > *The wine tastes dry.*
 
+**Phrases & Expressions:**
+- **ein herber Geschmack** — *tart; dry; harsh*
+- **herb im Geschmack** — *tart; dry; harsh*
+- **eine herbe Enttäuschung** — *tart; dry; harsh*
+
 **Collocations**
 - ein herber Geschmack
 - herb im Geschmack

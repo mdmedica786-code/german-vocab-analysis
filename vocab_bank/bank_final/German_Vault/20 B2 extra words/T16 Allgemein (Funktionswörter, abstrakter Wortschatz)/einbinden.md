@@ -32,6 +32,11 @@ status: "new"
 > Wir wollen alle Mitarbeiter in das Projekt einbinden.
 > *We want to involve all employees in the project.*
 
+**Phrases & Expressions:**
+- **jemanden einbinden** — *to integrate; to involve; to bind in*
+- **in etwas einbinden** — *to integrate; to involve; to bind in*
+- **in ein Team einbinden** — *to integrate; to involve; to bind in*
+
 **Collocations**
 - jemanden einbinden
 - in etwas einbinden

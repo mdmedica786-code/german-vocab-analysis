@@ -34,6 +34,9 @@ status: "new"
 > Das Futur drückt etwas in der Zukunft aus.
 > *The future tense expresses something in the future.*
 
+**Phrases & Expressions:**
+- **Das Futur drückt etwas in der Zukunft aus** — *The future tense expresses something in the future* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 3d (Blick nach vorn)
 <!-- bank:end -->
 

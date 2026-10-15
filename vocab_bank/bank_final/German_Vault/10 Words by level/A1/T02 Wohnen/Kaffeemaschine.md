@@ -34,6 +34,9 @@ status: "new"
 > Die Kaffeemaschine steht in der Küche.
 > *The coffee machine is in the kitchen.*
 
+**Phrases & Expressions:**
+- **Die Kaffeemaschine steht in der Küche** — *The coffee machine is in the kitchen* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 1a (Meine Wohnung)
 <!-- bank:end -->
 

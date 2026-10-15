@@ -34,6 +34,9 @@ status: "new"
 > Bitte geben Sie Ihre Bankleitzahl an.
 > *Please state your bank sort code.*
 
+**Phrases & Expressions:**
+- **Bitte geben Sie Ihre Bankleitzahl an** — *Please state your bank sort code* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

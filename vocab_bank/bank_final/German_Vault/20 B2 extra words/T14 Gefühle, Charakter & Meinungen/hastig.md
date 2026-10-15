@@ -29,6 +29,11 @@ status: "new"
 > Er trank hastig seinen Kaffee aus.
 > *He hurriedly drank up his coffee.*
 
+**Phrases & Expressions:**
+- **hastig essen** — *hasty; hurried*
+- **hastig antworten** — *hasty; hurried*
+- **eine hastige Bewegung** — *hasty; hurried*
+
 **Collocations**
 - hastig essen
 - hastig antworten

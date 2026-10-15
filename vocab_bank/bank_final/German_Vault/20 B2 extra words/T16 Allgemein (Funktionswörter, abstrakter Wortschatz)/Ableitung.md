@@ -33,6 +33,11 @@ status: "new"
 > Die Ableitung der Wörter folgt festen Regeln.
 > *The derivation of the words follows fixed rules.*
 
+**Phrases & Expressions:**
+- **die Ableitung eines Wortes** — *derivation; deduction*
+- **eine mathematische Ableitung** — *derivation; deduction*
+- **eine logische Ableitung** — *derivation; deduction*
+
 **Collocations**
 - die Ableitung eines Wortes
 - eine mathematische Ableitung

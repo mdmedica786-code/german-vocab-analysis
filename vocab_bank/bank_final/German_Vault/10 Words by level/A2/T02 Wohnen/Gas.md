@@ -35,6 +35,9 @@ status: "new"
 > Wir kochen mit Gas.
 > *We cook with gas.*
 
+**Phrases & Expressions:**
+- **Wir kochen mit Gas** — *We cook with gas* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!) · Goethe word list B1
 <!-- bank:end -->
 

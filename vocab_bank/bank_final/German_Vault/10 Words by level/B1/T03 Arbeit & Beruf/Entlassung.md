@@ -35,6 +35,10 @@ status: "new"
 > Seine Entlassung aus der Firma kam überraschend.
 > *His dismissal from the company came as a surprise.*
 
+**Phrases & Expressions:**
+- **Diagnosen bei Entlassung: ...** — Diagnoses: ... *([[FSP-20 Arztbrief und Dokumentation|Diagnosen auflisten]] · B2)*
+- **Medikation bei Entlassung: ...** — Discharge medication: ... *([[FSP-20 Arztbrief und Dokumentation|Medikation nennen]] · B2)*
+
 **Source:** Netzwerk neu B1 K8 5b (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

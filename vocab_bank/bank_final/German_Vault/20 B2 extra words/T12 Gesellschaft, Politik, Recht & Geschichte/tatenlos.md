@@ -29,6 +29,11 @@ status: "new"
 > Die Regierung kann dem Problem nicht länger tatenlos zusehen.
 > *The government can no longer look on idly at the problem.*
 
+**Phrases & Expressions:**
+- **tatenlos zusehen** — *idle; passive*
+- **tatenlos bleiben** — *idle; passive*
+- **tatenlos zuschauen** — *idle; passive*
+
 **Collocations**
 - tatenlos zusehen
 - tatenlos bleiben

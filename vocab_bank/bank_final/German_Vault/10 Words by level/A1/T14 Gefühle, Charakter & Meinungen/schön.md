@@ -31,6 +31,14 @@ status: "new"
 > Du bist ganz schön schnell!
 > *You're pretty fast!*
 
+**Phrases & Expressions:**
+- **schön, dass ...** — nice that ... *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · A2)*
+- **so schön** — so beautiful *([[Gefühle ausdrücken (feelings)|Gefühle ausdrücken (feelings)]] · A2)*
+- **ganz schön ...** — quite ...; rather ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **danke schön** — thank you very much *([[Sonstige nützliche Wendung (other useful expression)|Sonstige nützliche Wendung (other useful expression)]] · A1)*
+- **Hallo Max, schön, von dir zu hören!** — Hi Max, nice to hear from you! *([[B1-12 Persönliche E-Mail und Brief|Einstieg]] · B1)*
+- **Ich hoffe, dass das Wetter schön wird.** — I hope that the weather will be nice. *([[B1-16 Gefühle, Wünsche und Vermutungen ausdrücken|Hoffnung ausdrücken]] · B1)*
+
 **Source:** Netzwerk neu A1 K3 2b (In Hamburg) · Goethe word list A1
 <!-- bank:end -->
 

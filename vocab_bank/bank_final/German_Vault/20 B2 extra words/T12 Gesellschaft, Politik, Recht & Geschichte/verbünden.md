@@ -32,6 +32,11 @@ status: "new"
 > Die beiden Parteien haben sich gegen den Gegner verbündet.
 > *The two parties joined forces against the opponent.*
 
+**Phrases & Expressions:**
+- **sich mit jemandem verbünden** — *to ally oneself; to join forces*
+- **sich gegen jemanden verbünden** — *to ally oneself; to join forces*
+- **verbündet sein** — *to ally oneself; to join forces*
+
 **Collocations**
 - sich mit jemandem verbünden
 - sich gegen jemanden verbünden

@@ -35,6 +35,9 @@ status: "new"
 > Ich habe die Schlüssel in der Tasche.
 > *I have the keys in my bag.*
 
+**Phrases & Expressions:**
+- **Ich habe die Schlüssel in der Tasche** — *I have the keys in my bag* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 2a ÜB (Die Jacke gefällt mir!) · Goethe word list A1
 <!-- bank:end -->
 

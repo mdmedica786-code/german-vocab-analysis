@@ -35,6 +35,9 @@ status: "new"
 > EU-Bürgerinnen und Bürger können überall in Europa arbeiten.
 > *EU citizens can work anywhere in Europe.*
 
+**Phrases & Expressions:**
+- **EU-Bürgerinnen und Bürger können überall in Europa arbeiten** — *EU citizens can work anywhere in Europe* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 13a (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Die Dynamik der Entwicklung überrascht alle.
 > *The dynamics of the development surprise everyone.*
 
+**Phrases & Expressions:**
+- **eine starke Dynamik** — *dynamics; momentum*
+- **Dynamik entwickeln** — *dynamics; momentum*
+- **an Dynamik gewinnen** — *dynamics; momentum*
+
 **Collocations**
 - eine starke Dynamik
 - Dynamik entwickeln

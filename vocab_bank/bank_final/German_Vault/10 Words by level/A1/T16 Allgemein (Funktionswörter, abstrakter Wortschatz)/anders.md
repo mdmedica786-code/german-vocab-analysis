@@ -31,6 +31,14 @@ status: "new"
 > Anders geht das leider nicht.
 > *Unfortunately it can't be done any other way.*
 
+**Phrases & Expressions:**
+- **ganz anders** — quite different *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B2)*
+- **anders, als ...** — different from ... *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B2)*
+- **anders als bei ...** — different from with ... *([[Vergleichen (comparison)|Vergleichen (comparison)]] · B2)*
+- **Ich sehe das ein bisschen anders.** — I see it a little differently. *([[B1-02 Zustimmen und Widersprechen|Höflich widersprechen]] · B1)*
+- **In Deutschland ist es anders als bei uns: ...** — In Germany it is different from where I come from: ... *([[B1-09 Persönliche Erfahrungen und Situation im Heimatland|Unterschiede nennen]] · B1)*
+- **Manche Leute meinen, dass ..., aber ich sehe das anders.** — Some people think that ..., but I see it differently. *([[B1-14 Forumsbeitrag und Leserbrief schreiben|Gegenposition erwähnen]] · B1)*
+
 **Collocations**
 - ganz anders
 - anders denken

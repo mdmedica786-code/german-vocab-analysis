@@ -33,6 +33,11 @@ status: "new"
 > Auf der Museumsinsel in Berlin gibt es fünf Museen.
 > *On Museum Island in Berlin there are five museums.*
 
+**Phrases & Expressions:**
+- **die Museumsinsel besuchen** — *Museum Island; island of museums*
+- **auf der Museumsinsel** — *Museum Island; island of museums*
+- **die Berliner Museumsinsel** — *Museum Island; island of museums*
+
 **Collocations**
 - die Museumsinsel besuchen
 - auf der Museumsinsel

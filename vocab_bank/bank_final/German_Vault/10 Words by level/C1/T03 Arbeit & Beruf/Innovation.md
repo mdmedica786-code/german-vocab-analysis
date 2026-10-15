@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Firma lebt von Innovationen.
 > *The company lives on innovations.*
+
+**Phrases & Expressions:**
+- **Die Firma lebt von Innovationen** — *The company lives on innovations* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,11 @@ status: "new"
 > Die Zeitung musste eine Gegendarstellung veröffentlichen.
 > *The newspaper had to publish a counter-statement.*
 
+**Phrases & Expressions:**
+- **eine Gegendarstellung fordern** — *right of reply; counter-statement*
+- **Gegendarstellung veröffentlichen** — *right of reply; counter-statement*
+- **Recht auf Gegendarstellung** — *right of reply; counter-statement*
+
 **Collocations**
 - eine Gegendarstellung fordern
 - Gegendarstellung veröffentlichen

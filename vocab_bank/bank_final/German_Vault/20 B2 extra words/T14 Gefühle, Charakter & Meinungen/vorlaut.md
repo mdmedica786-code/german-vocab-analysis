@@ -29,6 +29,11 @@ status: "new"
 > Sei nicht so vorlaut, wenn Erwachsene sprechen!
 > *Don't be so cheeky when adults are speaking!*
 
+**Phrases & Expressions:**
+- **vorlaut sein** — *cheeky; forward*
+- **eine vorlaute Bemerkung** — *cheeky; forward*
+- **ein vorlautes Kind** — *cheeky; forward*
+
 **Collocations**
 - vorlaut sein
 - eine vorlaute Bemerkung

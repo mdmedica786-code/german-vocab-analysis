@@ -33,6 +33,11 @@ status: "new"
 > Der Umsatzrückgang betrug im letzten Quartal fünf Prozent.
 > *The decline in sales was five per cent in the last quarter.*
 
+**Phrases & Expressions:**
+- **einen Umsatzrückgang verzeichnen** — *decline in sales*
+- **Umsatzrückgang im Handel** — *decline in sales*
+- **deutlicher Umsatzrückgang** — *decline in sales*
+
 **Collocations**
 - einen Umsatzrückgang verzeichnen
 - Umsatzrückgang im Handel

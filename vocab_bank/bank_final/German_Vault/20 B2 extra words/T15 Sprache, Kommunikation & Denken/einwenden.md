@@ -32,6 +32,11 @@ status: "new"
 > Dagegen lässt sich einwenden, dass es zu teuer ist.
 > *One can object that it is too expensive.*
 
+**Phrases & Expressions:**
+- **etwas einwenden** — *to object*
+- **nichts einzuwenden haben** — *to object*
+- **Einwände vorbringen** — *to object*
+
 **Collocations**
 - etwas einwenden
 - nichts einzuwenden haben

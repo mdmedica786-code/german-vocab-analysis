@@ -33,6 +33,12 @@ status: "new"
 > Prävention ist besser als Therapie.
 > *Prevention is better than therapy.*
 
+**Phrases & Expressions:**
+- **Prävention betreiben** — *prevention*
+- **primäre Prävention** — *prevention*
+- **Prävention von Krankheiten** — *prevention*
+- **gezielte Prävention** — *prevention*
+
 **Collocations**
 - Prävention betreiben
 - primäre Prävention

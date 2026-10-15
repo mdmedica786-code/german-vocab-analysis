@@ -26,6 +26,9 @@ status: "new"
 > Nach langem Streit kam er endlich zur Einsicht.
 > *After a long argument he finally came to his senses.*
 
+**Phrases & Expressions:**
+- **zur Einsicht bringen** — *to come to one's senses; to realise*
+
 **Collocations**
 - zur Einsicht bringen
 

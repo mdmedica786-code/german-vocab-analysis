@@ -35,6 +35,9 @@ status: "new"
 > Er spielt gern den Helden.
 > *He likes playing the hero.*
 
+**Phrases & Expressions:**
+- **Er spielt gern den Helden** — *He likes playing the hero* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Meine E-Mail-Adresse steht auf der Karte.
 > *My email address is on the card.*
 
+**Phrases & Expressions:**
+- **Meine E-Mail-Adresse steht auf der Karte** — *My email address is on the card* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 7b (Guten Tag!)
 <!-- bank:end -->
 

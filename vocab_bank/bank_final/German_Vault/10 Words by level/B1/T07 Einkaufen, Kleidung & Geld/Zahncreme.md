@@ -34,6 +34,9 @@ status: "new"
 > Die neue Zahncreme riecht sehr gut.
 > *The new toothpaste smells very good.*
 
+**Phrases & Expressions:**
+- **Die neue Zahncreme riecht sehr gut** — *The new toothpaste smells very good* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

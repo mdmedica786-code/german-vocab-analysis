@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Ein Vorfahr von mir war Bäcker.
 > *One of my ancestors was a baker.*
+
+**Phrases & Expressions:**
+- **Ein Vorfahr von mir war Bäcker** — *One of my ancestors was a baker* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

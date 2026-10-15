@@ -32,6 +32,9 @@ status: "new"
 > Er verneinte die Frage.
 > *He answered the question in the negative.*
 
+**Phrases & Expressions:**
+- **Er verneinte die Frage** — *He answered the question in the negative* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 4a (Kunststücke)
 <!-- bank:end -->
 

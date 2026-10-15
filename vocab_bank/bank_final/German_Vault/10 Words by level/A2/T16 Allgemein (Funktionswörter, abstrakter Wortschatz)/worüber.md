@@ -31,6 +31,9 @@ status: "new"
 > Worüber lachen Sie?
 > *What are you laughing about?*
 
+**Phrases & Expressions:**
+- **Worüber lachen Sie** — *What are you laughing about* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K2 1b (Nach der Schulzeit) · Goethe word list B1
 <!-- bank:end -->
 

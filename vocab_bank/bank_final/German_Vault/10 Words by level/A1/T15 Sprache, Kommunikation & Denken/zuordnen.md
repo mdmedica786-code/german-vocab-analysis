@@ -34,6 +34,9 @@ status: "new"
 > Ordnen Sie die Aussagen zu.
 > *Match the statements.*
 
+**Phrases & Expressions:**
+- **Ordnen Sie die Aussagen zu** — *Match the statements* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K1 1a (Guten Tag!) · Goethe word list B1
 <!-- bank:end -->
 

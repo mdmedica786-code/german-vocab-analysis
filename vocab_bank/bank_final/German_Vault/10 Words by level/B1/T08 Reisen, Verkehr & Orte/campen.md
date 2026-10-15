@@ -32,6 +32,9 @@ status: "new"
 > Im Sommer campen wir am See.
 > *In summer we camp by the lake.*
 
+**Phrases & Expressions:**
+- **Im Sommer campen wir am See** — *In summer we camp by the lake* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

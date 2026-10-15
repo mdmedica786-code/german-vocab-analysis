@@ -34,6 +34,9 @@ status: "new"
 > Der Regisseur dreht einen neuen Film.
 > *The director is shooting a new film.*
 
+**Phrases & Expressions:**
+- **Der Regisseur dreht einen neuen Film** — *The director is shooting a new film* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg)
 <!-- bank:end -->
 

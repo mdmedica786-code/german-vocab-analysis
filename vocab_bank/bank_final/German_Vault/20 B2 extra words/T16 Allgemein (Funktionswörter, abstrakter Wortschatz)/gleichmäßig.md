@@ -29,6 +29,11 @@ status: "new"
 > Verteile den Teig gleichmäßig auf dem Blech.
 > *Spread the dough evenly on the tray.*
 
+**Phrases & Expressions:**
+- **gleichmäßig verteilen** — *even; steady; regular*
+- **gleichmäßig atmen** — *even; steady; regular*
+- **ein gleichmäßiges Tempo** — *even; steady; regular*
+
 **Collocations**
 - gleichmäßig verteilen
 - gleichmäßig atmen

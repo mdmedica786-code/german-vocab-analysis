@@ -33,6 +33,10 @@ status: "new"
 > Atmen Sie tief durch, dann geht es Ihnen besser.
 > *Take a deep breath, then you'll feel better.*
 
+**Phrases & Expressions:**
+- **Der Patient ist nicht ansprechbar und atmet nicht normal.** — The patient is unresponsive and not breathing normally. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Notfall einschätzen]] · B2)*
+- **Bitte atmen Sie kurz durch, dann klären wir alles.** — Please take a deep breath, then we will sort everything out. *([[FSP-21 Schwierige Gespräche - Angehörige, Angst, Ablehnung, Sprachbarriere|Aufgebrachte beruhigen]] · B2)*
+
 **Source:** Netzwerk neu A2 K8 3c (Gelernt ist gelernt!)
 <!-- bank:end -->
 

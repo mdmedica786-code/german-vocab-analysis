@@ -34,6 +34,9 @@ status: "new"
 > Bei „Familienstand“ musst du „ledig“ ankreuzen.
 > *Under marital status you have to tick single.*
 
+**Phrases & Expressions:**
+- **Bei „Familienstand“ musst du „ledig“ ankreuzen** — *Under marital status you have to tick single* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Die Erde ist ein Planet.
 > *The Earth is a planet.*
 
+**Phrases & Expressions:**
+- **Die Erde ist ein Planet** — *The Earth is a planet* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 1a (Blick nach vorn)
 <!-- bank:end -->
 

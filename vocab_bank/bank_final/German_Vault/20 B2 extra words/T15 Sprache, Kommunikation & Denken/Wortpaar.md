@@ -33,6 +33,11 @@ status: "new"
 > Das Wortpaar „groß – klein" besteht aus Gegensätzen.
 > *The word pair "big – small" consists of opposites.*
 
+**Phrases & Expressions:**
+- **ein Wortpaar bilden** — *word pair*
+- **Wortpaare ordnen** — *word pair*
+- **passende Wortpaare finden** — *word pair*
+
 **Collocations**
 - ein Wortpaar bilden
 - Wortpaare ordnen

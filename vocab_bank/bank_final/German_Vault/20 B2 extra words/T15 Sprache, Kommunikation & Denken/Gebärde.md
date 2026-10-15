@@ -33,6 +33,11 @@ status: "new"
 > Mit einer Gebärde grüßte er seine Freundin.
 > *With a gesture he greeted his friend.*
 
+**Phrases & Expressions:**
+- **eine Gebärde machen** — *sign; gesture (in sign language)*
+- **eine Gebärde lernen** — *sign; gesture (in sign language)*
+- **mit Gebärden sprechen** — *sign; gesture (in sign language)*
+
 **Collocations**
 - eine Gebärde machen
 - eine Gebärde lernen

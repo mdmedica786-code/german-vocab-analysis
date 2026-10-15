@@ -33,6 +33,11 @@ status: "new"
 > Das Handy steckt in einer Hülle aus Leder.
 > *The phone is in a leather case.*
 
+**Phrases & Expressions:**
+- **eine Hülle für das Handy** — *cover; case; sleeve*
+- **in Hülle und Fülle** — *cover; case; sleeve*
+- **die Hülle abnehmen** — *cover; case; sleeve*
+
 **Collocations**
 - eine Hülle für das Handy
 - in Hülle und Fülle

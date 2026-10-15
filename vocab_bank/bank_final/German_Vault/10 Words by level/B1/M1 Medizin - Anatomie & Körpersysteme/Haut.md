@@ -35,6 +35,12 @@ status: "new"
 > Haben Sie eine Creme für trockene Haut?
 > *Do you have a cream for dry skin?*
 
+**Phrases & Expressions:**
+- **trockene Haut** — *skin*
+- **die Haut untersuchen** — *skin*
+- **empfindliche Haut** — *skin*
+- **die Haut desinfizieren** — *skin*
+
 **Collocations**
 - trockene Haut
 - die Haut untersuchen

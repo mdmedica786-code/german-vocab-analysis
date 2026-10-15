@@ -32,6 +32,9 @@ status: "new"
 > Er relativiert seine Aussage.
 > *He qualifies his statement.*
 
+**Phrases & Expressions:**
+- **Er relativiert seine Aussage** — *He qualifies his statement* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 13b (Kunststücke)
 <!-- bank:end -->
 

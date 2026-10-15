@@ -32,6 +32,9 @@ status: "new"
 > Der Arzt diktiert den Brief.
 > *The doctor dictates the letter.*
 
+**Phrases & Expressions:**
+- **Der Arzt diktiert den Brief** — *The doctor dictates the letter* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 10c (Gute Reise!)
 <!-- bank:end -->
 

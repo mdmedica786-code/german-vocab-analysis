@@ -30,6 +30,11 @@ status: "new"
 > Der Betriebsausflug führt dieses Jahr in die Berge.
 > *The company outing goes to the mountains this year.*
 
+**Phrases & Expressions:**
+- **einen Betriebsausflug machen** — *company outing*
+- **am Betriebsausflug teilnehmen** — *company outing*
+- **beim Betriebsausflug** — *company outing*
+
 **Collocations**
 - einen Betriebsausflug machen
 - am Betriebsausflug teilnehmen

@@ -34,6 +34,9 @@ status: "new"
 > Der Rap handelt vom Leben in der Stadt.
 > *The rap is about life in the city.*
 
+**Phrases & Expressions:**
+- **Der Rap handelt vom Leben in der Stadt** — *The rap is about life in the city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 6b (Gute Unterhaltung!)
 <!-- bank:end -->
 

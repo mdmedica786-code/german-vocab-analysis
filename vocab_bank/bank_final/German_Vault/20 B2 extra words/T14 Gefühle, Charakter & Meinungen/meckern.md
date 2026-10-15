@@ -32,6 +32,11 @@ status: "new"
 > Er meckert den ganzen Tag über das Essen.
 > *He moans about the food all day.*
 
+**Phrases & Expressions:**
+- **über etwas meckern** — *to moan; to grumble*
+- **ständig meckern** — *to moan; to grumble*
+- **herummeckern** — *to moan; to grumble*
+
 **Collocations**
 - über etwas meckern
 - ständig meckern

@@ -34,6 +34,9 @@ status: "new"
 > Der Elektroingenieur plant die Stromversorgung.
 > *The electrical engineer plans the power supply.*
 
+**Phrases & Expressions:**
+- **Der Elektroingenieur plant die Stromversorgung** — *The electrical engineer plans the power supply* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt)
 <!-- bank:end -->
 

@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Zielgruppe der Werbung sind junge Leute.
 > *The target group of the advertising is young people.*
+
+**Phrases & Expressions:**
+- **Die Zielgruppe der Werbung sind junge Leute** — *The target group of the advertising is young people* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

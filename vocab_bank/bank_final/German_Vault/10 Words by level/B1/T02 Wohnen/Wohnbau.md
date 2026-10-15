@@ -34,6 +34,9 @@ status: "new"
 > Die Stadt fördert den Wohnbau.
 > *The city promotes housing construction.*
 
+**Phrases & Expressions:**
+- **Die Stadt fördert den Wohnbau** — *The city promotes housing construction* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 10 (Stadt, Land, Fluss)
 <!-- bank:end -->
 

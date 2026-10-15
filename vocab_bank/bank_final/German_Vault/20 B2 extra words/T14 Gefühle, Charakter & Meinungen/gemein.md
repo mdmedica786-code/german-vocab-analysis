@@ -29,6 +29,11 @@ status: "new"
 > Das war wirklich gemein von dir.
 > *That was really mean of you.*
 
+**Phrases & Expressions:**
+- **gemein sein** — *mean; nasty; common*
+- **eine gemeine Lüge** — *mean; nasty; common*
+- **gemein zu jemandem sein** — *mean; nasty; common*
+
 **Collocations**
 - gemein sein
 - eine gemeine Lüge

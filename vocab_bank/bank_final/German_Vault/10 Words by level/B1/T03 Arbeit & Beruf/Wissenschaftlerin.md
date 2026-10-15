@@ -34,6 +34,9 @@ status: "new"
 > Sie ist Wissenschaftlerin an der Universität.
 > *She is a scientist at the university.*
 
+**Phrases & Expressions:**
+- **Sie ist Wissenschaftlerin an der Universität** — *She is a scientist at the university* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

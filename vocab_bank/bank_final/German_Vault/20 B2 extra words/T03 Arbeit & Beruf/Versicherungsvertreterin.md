@@ -33,6 +33,11 @@ status: "new"
 > Die Versicherungsvertreterin berät uns zur Haftpflichtversicherung.
 > *The insurance agent advises us on liability insurance.*
 
+**Phrases & Expressions:**
+- **als Versicherungsvertreterin arbeiten** — *insurance agent (female)*
+- **eine Versicherungsvertreterin anrufen** — *insurance agent (female)*
+- **mit der Versicherungsvertreterin sprechen** — *insurance agent (female)*
+
 **Collocations**
 - als Versicherungsvertreterin arbeiten
 - eine Versicherungsvertreterin anrufen

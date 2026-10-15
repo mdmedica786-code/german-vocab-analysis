@@ -29,6 +29,10 @@ status: "new"
 > Mit seinen Forderungen biss er beim Chef auf Granit.
 > *With his demands he met stubborn resistance from the boss.*
 
+**Phrases & Expressions:**
+- **bei jemandem auf Granit beißen** — *to meet with stubborn resistance*
+- **auf Widerstand stoßen** — *to meet with stubborn resistance*
+
 **Collocations**
 - bei jemandem auf Granit beißen
 - auf Widerstand stoßen

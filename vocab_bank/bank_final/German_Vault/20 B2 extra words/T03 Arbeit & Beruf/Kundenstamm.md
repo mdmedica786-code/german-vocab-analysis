@@ -33,6 +33,11 @@ status: "new"
 > Die Firma hat einen treuen Kundenstamm aufgebaut.
 > *The company has built up a loyal customer base.*
 
+**Phrases & Expressions:**
+- **den Kundenstamm erweitern** — *customer base*
+- **ein treuer Kundenstamm** — *customer base*
+- **Kundenstamm pflegen** — *customer base*
+
 **Collocations**
 - den Kundenstamm erweitern
 - ein treuer Kundenstamm

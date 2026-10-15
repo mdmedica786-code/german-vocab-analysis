@@ -32,6 +32,11 @@ status: "new"
 > Sie hat ihr Geld in Aktien angelegt.
 > *She invested her money in shares.*
 
+**Phrases & Expressions:**
+- **Geld anlegen** — *to invest; to create; to put on*
+- **einen Garten anlegen** — *to invest; to create; to put on*
+- **eine Akte anlegen** — *to invest; to create; to put on*
+
 **Collocations**
 - Geld anlegen
 - einen Garten anlegen

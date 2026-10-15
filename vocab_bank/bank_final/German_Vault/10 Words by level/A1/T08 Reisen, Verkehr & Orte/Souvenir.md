@@ -35,6 +35,9 @@ status: "new"
 > Ich habe ein paar Souvenirs aus dem Urlaub mitgebracht.
 > *I brought back a few souvenirs from my holiday.*
 
+**Phrases & Expressions:**
+- **Ich habe ein paar Souvenirs aus dem Urlaub mitgebracht** — *I brought back a few souvenirs from my holiday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12b (Die Jacke gefällt mir!) · Goethe word list B1
 <!-- bank:end -->
 

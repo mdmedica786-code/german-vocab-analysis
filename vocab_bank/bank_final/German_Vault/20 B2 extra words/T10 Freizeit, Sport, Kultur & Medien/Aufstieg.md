@@ -33,6 +33,11 @@ status: "new"
 > Der Verein feierte den Aufstieg in die erste Liga.
 > *The club celebrated promotion to the first division.*
 
+**Phrases & Expressions:**
+- **der Aufstieg in die Bundesliga** — *promotion; ascent; rise*
+- **beruflicher Aufstieg** — *promotion; ascent; rise*
+- **der Aufstieg zum Gipfel** — *promotion; ascent; rise*
+
 **Collocations**
 - der Aufstieg in die Bundesliga
 - beruflicher Aufstieg

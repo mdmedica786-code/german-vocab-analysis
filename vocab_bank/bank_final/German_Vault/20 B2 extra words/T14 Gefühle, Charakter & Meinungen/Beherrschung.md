@@ -33,6 +33,11 @@ status: "new"
 > Er verlor kurz die Beherrschung und schrie.
 > *He briefly lost control and shouted.*
 
+**Phrases & Expressions:**
+- **die Beherrschung verlieren** — *control; mastery; self-control*
+- **die Beherrschung der Sprache** — *control; mastery; self-control*
+- **seine Beherrschung wahren** — *control; mastery; self-control*
+
 **Collocations**
 - die Beherrschung verlieren
 - die Beherrschung der Sprache

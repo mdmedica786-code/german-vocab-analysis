@@ -31,6 +31,9 @@ status: "new"
 > Wir wünschen Ihnen eine angenehme Reise.
 > *We wish you a pleasant journey.*
 
+**Phrases & Expressions:**
+- **Wir wünschen Ihnen eine angenehme Reise** — *We wish you a pleasant journey* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 2 (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

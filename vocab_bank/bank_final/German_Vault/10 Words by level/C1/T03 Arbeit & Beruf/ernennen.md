@@ -30,6 +30,9 @@ status: "new"
 > [!example] Beispiel
 > Der Präsident ernennt den neuen Minister.
 > *The president appoints the new minister.*
+
+**Phrases & Expressions:**
+- **Der Präsident ernennt den neuen Minister** — *The president appoints the new minister* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

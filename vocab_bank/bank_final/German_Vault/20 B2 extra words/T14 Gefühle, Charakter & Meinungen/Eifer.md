@@ -33,6 +33,11 @@ status: "new"
 > Er arbeitete mit großem Eifer.
 > *He worked with great zeal.*
 
+**Phrases & Expressions:**
+- **mit Eifer** — *zeal; eagerness*
+- **im Eifer des Gefechts** — *zeal; eagerness*
+- **großer Eifer** — *zeal; eagerness*
+
 **Collocations**
 - mit Eifer
 - im Eifer des Gefechts

@@ -34,6 +34,9 @@ status: "new"
 > Meine Vorgesetzte hat mir eine Woche Urlaub genehmigt.
 > *My boss approved a week of leave for me.*
 
+**Phrases & Expressions:**
+- **Meine Vorgesetzte hat mir eine Woche Urlaub genehmigt** — *My boss approved a week of leave for me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 10b (Veränderungen)
 <!-- bank:end -->
 

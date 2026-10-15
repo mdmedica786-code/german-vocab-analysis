@@ -30,6 +30,9 @@ status: "new"
 > Das Bild ist sehr abstrakt.
 > *The picture is very abstract.*
 
+**Phrases & Expressions:**
+- **Das Bild ist sehr abstrakt** — *The picture is very abstract* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 10d (Gute Unterhaltung!)
 <!-- bank:end -->
 

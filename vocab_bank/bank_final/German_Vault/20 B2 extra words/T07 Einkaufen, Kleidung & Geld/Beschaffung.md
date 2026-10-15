@@ -33,6 +33,11 @@ status: "new"
 > Die Beschaffung der Ersatzteile dauert lange.
 > *The procurement of the spare parts takes a long time.*
 
+**Phrases & Expressions:**
+- **Beschaffung von + Dat.** — *procurement; obtaining*
+- **Beschaffung von Material** — *procurement; obtaining*
+- **Beschaffung organisieren** — *procurement; obtaining*
+
 **Collocations**
 - Beschaffung von + Dat.
 - Beschaffung von Material

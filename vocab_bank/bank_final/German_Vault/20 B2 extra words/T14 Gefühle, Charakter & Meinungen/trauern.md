@@ -32,6 +32,11 @@ status: "new"
 > Die Familie trauert um den Verstorbenen.
 > *The family mourns the deceased.*
 
+**Phrases & Expressions:**
+- **um jemanden trauern** — *to mourn; to grieve*
+- **in Trauer sein** — *to mourn; to grieve*
+- **lange trauern** — *to mourn; to grieve*
+
 **Collocations**
 - um jemanden trauern
 - in Trauer sein

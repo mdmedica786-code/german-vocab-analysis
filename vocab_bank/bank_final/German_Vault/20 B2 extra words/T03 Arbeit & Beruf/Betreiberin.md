@@ -33,6 +33,11 @@ status: "new"
 > Die Betreiberin des Cafés kennt alle Stammgäste.
 > *The operator of the café knows all the regular customers.*
 
+**Phrases & Expressions:**
+- **die Betreiberin des Hotels** — *operator (female); owner (of a business)*
+- **die Betreiberin der Anlage** — *operator (female); owner (of a business)*
+- **als Betreiberin** — *operator (female); owner (of a business)*
+
 **Collocations**
 - die Betreiberin des Hotels
 - die Betreiberin der Anlage

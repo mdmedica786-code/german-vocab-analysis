@@ -29,6 +29,11 @@ status: "new"
 > Die Haut vom Braten ist schön kross.
 > *The skin of the roast is nicely crispy.*
 
+**Phrases & Expressions:**
+- **kross gebraten** — *crispy*
+- **kross backen** — *crispy*
+- **eine krosse Kruste** — *crispy*
+
 **Collocations**
 - kross gebraten
 - kross backen

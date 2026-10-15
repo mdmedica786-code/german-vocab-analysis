@@ -33,6 +33,11 @@ status: "new"
 > Sie schreibt gerade an ihrer Abschlussarbeit über erneuerbare Energien.
 > *She is currently writing her final thesis on renewable energy.*
 
+**Phrases & Expressions:**
+- **eine Abschlussarbeit schreiben** — *final thesis; degree dissertation*
+- **die Abschlussarbeit abgeben** — *final thesis; degree dissertation*
+- **Betreuer der Abschlussarbeit** — *final thesis; degree dissertation*
+
 **Collocations**
 - eine Abschlussarbeit schreiben
 - die Abschlussarbeit abgeben

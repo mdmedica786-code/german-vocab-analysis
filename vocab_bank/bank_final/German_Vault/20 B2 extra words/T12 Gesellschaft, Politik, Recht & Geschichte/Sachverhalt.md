@@ -33,6 +33,11 @@ status: "new"
 > Der Sachverhalt ist noch unklar.
 > *The facts of the case are still unclear.*
 
+**Phrases & Expressions:**
+- **den Sachverhalt klären** — *facts of a case; matter*
+- **einen Sachverhalt darlegen** — *facts of a case; matter*
+- **der zugrunde liegende Sachverhalt** — *facts of a case; matter*
+
 **Collocations**
 - den Sachverhalt klären
 - einen Sachverhalt darlegen

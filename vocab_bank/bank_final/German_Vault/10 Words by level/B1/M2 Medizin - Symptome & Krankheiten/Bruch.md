@@ -33,6 +33,12 @@ status: "new"
 > Der Röntgenbefund zeigt einen Bruch des Unterarms.
 > *The X-ray shows a fracture of the forearm.*
 
+**Phrases & Expressions:**
+- **ein Bruch des Beins** — *fracture; break*
+- **ein offener Bruch** — *fracture; break*
+- **einen Bruch schienen** — *fracture; break*
+- **einen Bruch behandeln** — *fracture; break*
+
 **Collocations**
 - ein Bruch des Beins
 - ein offener Bruch

@@ -32,6 +32,12 @@ status: "new"
 > Ich bin frisch verliebt.
 > *I'm newly in love.*
 
+**Phrases & Expressions:**
+- **frisch gebacken** — *fresh*
+- **frische Luft** — *fresh*
+- **frisch verliebt** — *fresh*
+- **frisch gewaschen** — *fresh*
+
 **Collocations**
 - frisch gebacken
 - frische Luft

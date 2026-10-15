@@ -31,6 +31,9 @@ status: "new"
 > Zum Kursfest bringt jeder etwas zu essen mit.
 > *Everyone brings something to eat to the course party.*
 
+**Phrases & Expressions:**
+- **Zum Kursfest bringt jeder etwas zu essen mit** — *Everyone brings something to eat to the course party* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 5e (Zusammen leben)
 <!-- bank:end -->
 

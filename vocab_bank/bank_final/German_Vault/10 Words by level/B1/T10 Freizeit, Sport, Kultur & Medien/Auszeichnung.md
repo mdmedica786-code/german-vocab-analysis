@@ -34,6 +34,9 @@ status: "new"
 > Der Film hat eine wichtige Auszeichnung bekommen.
 > *The film received an important award.*
 
+**Phrases & Expressions:**
+- **Der Film hat eine wichtige Auszeichnung bekommen** — *The film received an important award* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 10a (Blick nach vorn)
 <!-- bank:end -->
 

@@ -35,6 +35,9 @@ status: "new"
 > Ich möchte dieses Seminar unbedingt besuchen.
 > *I definitely want to attend this seminar.*
 
+**Phrases & Expressions:**
+- **Ich möchte dieses Seminar unbedingt besuchen** — *I definitely want to attend this seminar* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 7a (Freunde, Kollegen und ich) · Goethe word list B1
 <!-- bank:end -->
 

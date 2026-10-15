@@ -33,6 +33,11 @@ status: "new"
 > Die Aktualität der Daten ist für die Studie wichtig.
 > *The up-to-dateness of the data is important for the study.*
 
+**Phrases & Expressions:**
+- **an Aktualität verlieren** — *topicality; up-to-dateness*
+- **von großer Aktualität** — *topicality; up-to-dateness*
+- **die Aktualität prüfen** — *topicality; up-to-dateness*
+
 **Collocations**
 - an Aktualität verlieren
 - von großer Aktualität

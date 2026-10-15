@@ -32,6 +32,9 @@ status: "new"
 > Sie ist böse auf mich.
 > *She is angry with me.*
 
+**Phrases & Expressions:**
+- **Sie ist böse auf mich** — *She is angry with me* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 4b (Die Jacke gefällt mir!) · Goethe word list A1
 <!-- bank:end -->
 

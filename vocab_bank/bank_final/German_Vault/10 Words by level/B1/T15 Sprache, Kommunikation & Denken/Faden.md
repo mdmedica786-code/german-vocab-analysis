@@ -34,6 +34,10 @@ status: "new"
 > Ich habe beim Vortrag den Faden verloren.
 > *I lost the thread during the talk.*
 
+**Phrases & Expressions:**
+- **Die Fäden werden nach etwa zehn Tagen gezogen.** — The stitches are removed after about ten days. *([[FSP-12 Aufklärungsgespräch vor Eingriff oder Operation|Nachsorge erklären]] · B2)*
+- **Die Fäden werden in zehn Tagen gezogen.** — The stitches will be removed in ten days. *([[FSP-17 Entlassung, Überweisung und Nachsorge|Kontrolltermin]] · B1)*
+
 **Source:** Netzwerk neu B1 K10 11b (Miteinander)
 <!-- bank:end -->
 

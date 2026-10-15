@@ -30,6 +30,11 @@ status: "new"
 > Im Hörverstehen hörst du die Texte nur ein- oder zweimal.
 > *In the listening comprehension you hear the texts only once or twice.*
 
+**Phrases & Expressions:**
+- **das Hörverstehen üben** — *listening comprehension*
+- **Hörverstehen trainieren** — *listening comprehension*
+- **Aufgaben zum Hörverstehen** — *listening comprehension*
+
 **Collocations**
 - das Hörverstehen üben
 - Hörverstehen trainieren

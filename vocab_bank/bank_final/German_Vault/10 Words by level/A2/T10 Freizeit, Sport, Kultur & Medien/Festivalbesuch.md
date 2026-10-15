@@ -31,6 +31,9 @@ status: "new"
 > Der Festivalbesuch war ein tolles Erlebnis.
 > *The festival visit was a great experience.*
 
+**Phrases & Expressions:**
+- **Der Festivalbesuch war ein tolles Erlebnis** — *The festival visit was a great experience* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a (Gute Unterhaltung!)
 <!-- bank:end -->
 

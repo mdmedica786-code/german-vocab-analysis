@@ -35,6 +35,9 @@ status: "new"
 > Ich habe mir einen größeren Monitor gekauft. Das ist besser für meine Augen.
 > *I bought a bigger monitor. That's better for my eyes.*
 
+**Phrases & Expressions:**
+- **Schreiben Sie bitte sofort ein EKG und legen Sie den Monitor an.** — Please record an ECG immediately and attach the monitor. *([[FSP-16 Notfall, Triage und Anweisungen im Team|Anweisung geben]] · B2)*
+
 **Source:** Netzwerk neu B1 K2 6b (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

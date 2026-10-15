@@ -27,6 +27,12 @@ status: "new"
 > Wir haben das Schloss nur von außen gesehen.
 > *We only saw the castle from the outside.*
 
+**Phrases & Expressions:**
+- **von außen** — from outside *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **nach außen** — outwards; to the outside *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B2)*
+- **außen vor** — *outside*
+- **außen stehen** — *outside*
+
 **Collocations**
 - von außen
 - nach außen

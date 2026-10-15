@@ -33,6 +33,11 @@ status: "new"
 > Wir leben in einer Wegwerfgesellschaft, in der vieles zu schnell ersetzt wird.
 > *We live in a throwaway society in which many things are replaced too quickly.*
 
+**Phrases & Expressions:**
+- **in einer Wegwerfgesellschaft** — *throwaway society*
+- **die Wegwerfgesellschaft kritisieren** — *throwaway society*
+- **Abkehr von der Wegwerfgesellschaft** — *throwaway society*
+
 **Collocations**
 - in einer Wegwerfgesellschaft
 - die Wegwerfgesellschaft kritisieren

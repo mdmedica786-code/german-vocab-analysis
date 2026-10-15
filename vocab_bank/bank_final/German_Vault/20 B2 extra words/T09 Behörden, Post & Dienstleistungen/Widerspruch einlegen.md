@@ -26,6 +26,10 @@ status: "new"
 > Gegen den Bescheid können Sie innerhalb eines Monats Widerspruch einlegen.
 > *You can lodge an objection against the notice within a month.*
 
+**Phrases & Expressions:**
+- **Widerspruch einlegen gegen + Akk.** — *to lodge an objection*
+- **fristgerecht Widerspruch einlegen** — *to lodge an objection*
+
 **Collocations**
 - Widerspruch einlegen gegen + Akk.
 - fristgerecht Widerspruch einlegen

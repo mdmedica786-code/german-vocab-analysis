@@ -31,6 +31,11 @@ status: "new"
 > Der Krimi hat mich von der ersten Seite an gefesselt.
 > *The thriller captivated me from the first page.*
 
+**Phrases & Expressions:**
+- **jemanden fesseln** — *to tie up; to captivate*
+- **an das Bett gefesselt** — *to tie up; to captivate*
+- **gefesselt von etwas** — *to tie up; to captivate*
+
 **Collocations**
 - jemanden fesseln
 - an das Bett gefesselt

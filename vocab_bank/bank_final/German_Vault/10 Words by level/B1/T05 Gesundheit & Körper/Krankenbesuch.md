@@ -34,6 +34,9 @@ status: "new"
 > Der Krankenbesuch dauert nur eine halbe Stunde.
 > *The hospital visit lasts only half an hour.*
 
+**Phrases & Expressions:**
+- **Der Krankenbesuch dauert nur eine halbe Stunde** — *The hospital visit lasts only half an hour* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 5c (Rund um Körper und Geist)
 <!-- bank:end -->
 

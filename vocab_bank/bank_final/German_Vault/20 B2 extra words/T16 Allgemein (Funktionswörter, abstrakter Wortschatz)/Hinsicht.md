@@ -33,6 +33,11 @@ status: "new"
 > In dieser Hinsicht habe ich keine Bedenken.
 > *In this respect I have no concerns.*
 
+**Phrases & Expressions:**
+- **in dieser Hinsicht** — in this respect *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **in jeder Hinsicht** — *respect; regard*
+- **in vieler Hinsicht** — *respect; regard*
+
 **Collocations**
 - in dieser Hinsicht
 - in jeder Hinsicht

@@ -33,6 +33,11 @@ status: "new"
 > Als Muttersprachler spricht sie fehlerfrei Deutsch.
 > *As a native speaker she speaks German without errors.*
 
+**Phrases & Expressions:**
+- **mit Muttersprachlern üben** — *native speaker*
+- **ein Muttersprachler korrigiert** — *native speaker*
+- **Muttersprachler und Nichtmuttersprachler** — *native speaker*
+
 **Collocations**
 - mit Muttersprachlern üben
 - ein Muttersprachler korrigiert

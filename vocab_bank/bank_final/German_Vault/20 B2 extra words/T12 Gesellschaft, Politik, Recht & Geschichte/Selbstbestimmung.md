@@ -33,6 +33,11 @@ status: "new"
 > Jeder Mensch hat ein Recht auf Selbstbestimmung.
 > *Every person has a right to self-determination.*
 
+**Phrases & Expressions:**
+- **das Recht auf Selbstbestimmung** — *self-determination; autonomy*
+- **die Selbstbestimmung stärken** — *self-determination; autonomy*
+- **sexuelle Selbstbestimmung** — *self-determination; autonomy*
+
 **Collocations**
 - das Recht auf Selbstbestimmung
 - die Selbstbestimmung stärken

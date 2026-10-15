@@ -33,6 +33,11 @@ status: "new"
 > In Deutschland ist die Mülltrennung Pflicht.
 > *In Germany waste separation is compulsory.*
 
+**Phrases & Expressions:**
+- **Mülltrennung betreiben** — *waste separation*
+- **auf Mülltrennung achten** — *waste separation*
+- **richtige Mülltrennung** — *waste separation*
+
 **Collocations**
 - Mülltrennung betreiben
 - auf Mülltrennung achten

@@ -33,6 +33,9 @@ status: "new"
 > Ich möchte im Urlaub wieder tauchen gehen.
 > *I'd like to go diving again on holiday.*
 
+**Phrases & Expressions:**
+- **Ich möchte im Urlaub wieder tauchen gehen** — *I'd like to go diving again on holiday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1a (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

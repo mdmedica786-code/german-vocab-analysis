@@ -31,6 +31,11 @@ status: "new"
 > Der Schiedsrichter pfiff nach dem Foul.
 > *The referee blew his whistle after the foul.*
 
+**Phrases & Expressions:**
+- **ein Loch reißen** — *to tear; to rip*
+- **der Faden reißt** — *to tear; to rip*
+- **sich um etwas reißen** — *to tear; to rip*
+
 **Collocations**
 - ein Loch reißen
 - der Faden reißt

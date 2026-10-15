@@ -35,6 +35,10 @@ status: "new"
 > Ich wollte gerade parken. In dem Augenblick ist ein Wagen aus der Ausfahrt gekommen.
 > *I was just about to park. At that moment a car came out of the exit.*
 
+**Phrases & Expressions:**
+- **einen Augenblick** — just a moment *([[Höflich bitten - fragen (polite request)|Höflich bitten / fragen (polite request)]] · B1)*
+- **im Augenblick** — at the moment *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · B1)*
+
 **Source:** Netzwerk neu B1 K4 1a ÜB (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

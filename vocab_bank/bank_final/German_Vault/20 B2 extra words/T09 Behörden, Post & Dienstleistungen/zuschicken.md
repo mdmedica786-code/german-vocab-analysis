@@ -32,6 +32,11 @@ status: "new"
 > Die Firma hat mir die Unterlagen per Post zugeschickt.
 > *The company sent me the documents by post.*
 
+**Phrases & Expressions:**
+- **jemandem etwas zuschicken** — *to send (to someone); to mail*
+- **Unterlagen zuschicken** — *to send (to someone); to mail*
+- **sich etwas zuschicken lassen** — *to send (to someone); to mail*
+
 **Collocations**
 - jemandem etwas zuschicken
 - Unterlagen zuschicken

@@ -31,6 +31,9 @@ status: "new"
 > Die Mechatronikerin prüft die Elektronik des Autos.
 > *The mechatronics technician checks the car's electronics.*
 
+**Phrases & Expressions:**
+- **Die Mechatronikerin prüft die Elektronik des Autos** — *The mechatronics technician checks the car's electronics* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 1b (Arbeitswelt)
 <!-- bank:end -->
 

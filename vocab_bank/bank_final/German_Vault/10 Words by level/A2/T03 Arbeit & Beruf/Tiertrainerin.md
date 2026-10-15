@@ -34,6 +34,9 @@ status: "new"
 > Die Tiertrainerin übt mit den Delfinen.
 > *The animal trainer practises with the dolphins.*
 
+**Phrases & Expressions:**
+- **Die Tiertrainerin übt mit den Delfinen** — *The animal trainer practises with the dolphins* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 9a (Arbeitswelten)
 <!-- bank:end -->
 

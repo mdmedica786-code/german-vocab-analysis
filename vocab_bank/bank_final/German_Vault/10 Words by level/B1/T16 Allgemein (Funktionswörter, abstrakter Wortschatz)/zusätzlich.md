@@ -31,6 +31,12 @@ status: "new"
 > Sie müssen in Zukunft eine Stunde zusätzlich arbeiten.
 > *In future you will have to work an additional hour.*
 
+**Phrases & Expressions:**
+- **zusätzlich zu** — *additional*
+- **zusätzliche Kosten** — *additional*
+- **zusätzlich arbeiten** — *additional*
+- **zusätzlich bekommen** — *additional*
+
 **Collocations**
 - zusätzlich zu
 - zusätzliche Kosten

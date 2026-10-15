@@ -29,6 +29,11 @@ status: "new"
 > Das Hemd war nach der Reise zerknittert.
 > *The shirt was creased after the journey.*
 
+**Phrases & Expressions:**
+- **zerknitterte Kleidung** — *crumpled; creased*
+- **zerknittert aussehen** — *crumpled; creased*
+- **ein zerknittertes Papier** — *crumpled; creased*
+
 **Collocations**
 - zerknitterte Kleidung
 - zerknittert aussehen

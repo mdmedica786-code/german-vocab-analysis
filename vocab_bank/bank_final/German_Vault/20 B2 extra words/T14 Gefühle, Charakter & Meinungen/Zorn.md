@@ -33,6 +33,11 @@ status: "new"
 > Sein Zorn war nicht zu übersehen.
 > *His anger was impossible to overlook.*
 
+**Phrases & Expressions:**
+- **voller Zorn** — *anger; wrath*
+- **im Zorn** — *anger; wrath*
+- **den Zorn auf sich ziehen** — *anger; wrath*
+
 **Collocations**
 - voller Zorn
 - im Zorn

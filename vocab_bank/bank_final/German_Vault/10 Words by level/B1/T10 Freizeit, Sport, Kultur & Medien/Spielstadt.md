@@ -31,6 +31,9 @@ status: "new"
 > In der Spielstadt führen Kinder eine eigene Stadt.
 > *In the play city children run their own town.*
 
+**Phrases & Expressions:**
+- **In der Spielstadt führen Kinder eine eigene Stadt** — *In the play city children run their own town* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 7b (Miteinander)
 <!-- bank:end -->
 

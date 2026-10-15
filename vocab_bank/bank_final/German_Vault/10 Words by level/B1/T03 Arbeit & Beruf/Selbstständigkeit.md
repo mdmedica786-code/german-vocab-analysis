@@ -34,6 +34,9 @@ status: "new"
 > Mit der Selbstständigkeit hat sie sich einen Traum erfüllt.
 > *With self-employment she fulfilled a dream.*
 
+**Phrases & Expressions:**
+- **Mit der Selbstständigkeit hat sie sich einen Traum erfüllt** — *With self-employment she fulfilled a dream* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

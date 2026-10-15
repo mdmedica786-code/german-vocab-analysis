@@ -29,6 +29,11 @@ status: "new"
 > Sie denkt messerscharf und erkennt jeden Fehler.
 > *She thinks razor-sharp and spots every mistake.*
 
+**Phrases & Expressions:**
+- **messerscharf denken** — *razor-sharp; very sharp*
+- **eine messerscharfe Analyse** — *razor-sharp; very sharp*
+- **messerscharf argumentieren** — *razor-sharp; very sharp*
+
 **Collocations**
 - messerscharf denken
 - eine messerscharfe Analyse

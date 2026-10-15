@@ -29,6 +29,11 @@ status: "new"
 > Seine Erklärung klingt plausibel.
 > *His explanation sounds plausible.*
 
+**Phrases & Expressions:**
+- **plausibel klingen** — *plausible; convincing*
+- **eine plausible Erklärung** — *plausible; convincing*
+- **plausibel erscheinen** — *plausible; convincing*
+
 **Collocations**
 - plausibel klingen
 - eine plausible Erklärung

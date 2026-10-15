@@ -30,6 +30,9 @@ status: "new"
 > Die Gefahr ist real.
 > *The danger is real.*
 
+**Phrases & Expressions:**
+- **Die Gefahr ist real** — *The danger is real* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 10 (Immer online?)
 <!-- bank:end -->
 

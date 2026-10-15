@@ -30,6 +30,11 @@ status: "new"
 > Social-Media-Marketing ist für kleine Firmen günstig.
 > *Social media marketing is cheap for small companies.*
 
+**Phrases & Expressions:**
+- **Social-Media-Marketing betreiben** — *social media marketing*
+- **im Social-Media-Marketing arbeiten** — *social media marketing*
+- **erfolgreiches Social-Media-Marketing** — *social media marketing*
+
 **Collocations**
 - Social-Media-Marketing betreiben
 - im Social-Media-Marketing arbeiten

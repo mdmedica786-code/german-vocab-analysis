@@ -34,6 +34,9 @@ status: "new"
 > Heute Abend essen wir Sushi.
 > *Tonight we are having sushi.*
 
+**Phrases & Expressions:**
+- **Heute Abend essen wir Sushi** — *Tonight we are having sushi* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!)
 <!-- bank:end -->
 

@@ -30,6 +30,9 @@ status: "new"
 > Entweder oder ist ein zweiteiliger Konnektor.
 > *Entweder oder is a two-part connector.*
 
+**Phrases & Expressions:**
+- **Entweder oder ist ein zweiteiliger Konnektor** — *Entweder oder is a two-part connector* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K8 7a (Rund um Körper und Geist)
 <!-- bank:end -->
 

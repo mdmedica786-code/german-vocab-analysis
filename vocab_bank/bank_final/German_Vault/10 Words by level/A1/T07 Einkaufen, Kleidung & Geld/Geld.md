@@ -36,6 +36,10 @@ status: "new"
 > Hast du noch Geld?
 > *Do you still have money?*
 
+**Phrases & Expressions:**
+- **Man kann Geld sparen, indem man ...** — You can save money by ... *([[B1-15 Verknüpfen und Gliedern (Konnektoren)|Mittel nennen]] · B1)*
+- **Angeblich hat er das Geld nie bekommen.** — Allegedly he never received the money. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Distanzierung]] · B2)*
+
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

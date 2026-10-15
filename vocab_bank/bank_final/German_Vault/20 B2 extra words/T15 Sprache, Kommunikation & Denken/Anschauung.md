@@ -33,6 +33,11 @@ status: "new"
 > Sie vertreten unterschiedliche Anschauungen.
 > *They hold different views.*
 
+**Phrases & Expressions:**
+- **nach meiner Anschauung** — *view; opinion; observation*
+- **zur Anschauung** — *view; opinion; observation*
+- **politische Anschauung** — *view; opinion; observation*
+
 **Collocations**
 - nach meiner Anschauung
 - zur Anschauung

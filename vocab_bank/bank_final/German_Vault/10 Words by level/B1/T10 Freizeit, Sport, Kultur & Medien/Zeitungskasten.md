@@ -34,6 +34,9 @@ status: "new"
 > Am Eingang steht ein Zeitungskasten.
 > *There is a newspaper box at the entrance.*
 
+**Phrases & Expressions:**
+- **Am Eingang steht ein Zeitungskasten** — *There is a newspaper box at the entrance* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 10a (Geld regiert die Welt?)
 <!-- bank:end -->
 

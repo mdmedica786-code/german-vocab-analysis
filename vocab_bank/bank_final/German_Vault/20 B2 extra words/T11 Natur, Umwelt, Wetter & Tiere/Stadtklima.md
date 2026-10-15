@@ -33,6 +33,11 @@ status: "new"
 > Das Stadtklima ist im Sommer oft heißer als auf dem Land.
 > *The urban climate is often hotter in summer than in the countryside.*
 
+**Phrases & Expressions:**
+- **das Stadtklima verbessern** — *urban climate*
+- **Bäume für das Stadtklima** — *urban climate*
+- **heißes Stadtklima** — *urban climate*
+
 **Collocations**
 - das Stadtklima verbessern
 - Bäume für das Stadtklima

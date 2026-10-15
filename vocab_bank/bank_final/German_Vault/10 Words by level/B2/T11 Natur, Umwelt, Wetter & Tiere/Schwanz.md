@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Hund wedelt mit dem Schwanz.
 > *The dog wags its tail.*
+
+**Phrases & Expressions:**
+- **Der Hund wedelt mit dem Schwanz** — *The dog wags its tail* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -35,6 +35,9 @@ status: "new"
 > Achten Sie auf die Reihenfolge der Inhaltspunkte.
 > *Pay attention to the order of the content points.*
 
+**Phrases & Expressions:**
+- **Achten Sie auf die Reihenfolge der Inhaltspunkte** — *Pay attention to the order of the content points* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K7 1c (Arbeitsalltag) · Goethe word list B1
 <!-- bank:end -->
 

@@ -31,6 +31,9 @@ status: "new"
 > Welche Versandart möchten Sie wählen?
 > *Which shipping method would you like to choose?*
 
+**Phrases & Expressions:**
+- **Welche Versandart möchten Sie wählen** — *Which shipping method would you like to choose* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!)
 <!-- bank:end -->
 

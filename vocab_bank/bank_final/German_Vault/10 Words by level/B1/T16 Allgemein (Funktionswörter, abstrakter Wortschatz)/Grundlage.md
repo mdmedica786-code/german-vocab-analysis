@@ -33,6 +33,14 @@ status: "new"
 > Das ist die Grundlage für unsere Entscheidung.
 > *That is the basis for our decision.*
 
+**Phrases & Expressions:**
+- **auf der Grundlage von ...** — on the basis of ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · C1)*
+- **Grundlage für ...** — basis for ... *([[Gründe nennen (cause, reason)|Gründe nennen (cause, reason)]] · C1)*
+- **die Grundlage bilden** — *basis; foundation*
+- **auf der Grundlage von** — *basis; foundation*
+- **Grundlagen schaffen** — *basis; foundation*
+- **Grundlage für ... sein** — *basis; foundation*
+
 **Collocations**
 - die Grundlage bilden
 - auf der Grundlage von

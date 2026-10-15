@@ -35,6 +35,9 @@ status: "new"
 > Gefallen dir die Blumen?
 > *Do you like the flowers?*
 
+**Phrases & Expressions:**
+- **Gefallen dir die Blumen** — *Do you like the flowers* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 11a (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->
 

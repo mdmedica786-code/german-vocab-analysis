@@ -29,6 +29,11 @@ status: "new"
 > Das war ein sehr hilfreicher Tipp.
 > *That was a very helpful tip.*
 
+**Phrases & Expressions:**
+- **ein hilfreicher Hinweis** — *helpful*
+- **sehr hilfreich** — *helpful*
+- **hilfreich sein** — *helpful*
+
 **Collocations**
 - ein hilfreicher Hinweis
 - sehr hilfreich

@@ -35,6 +35,9 @@ status: "new"
 > Jenny hat einen neuen Job bei der Post.
 > *Jenny has a new job at the post office.*
 
+**Phrases & Expressions:**
+- **Jenny hat einen neuen Job bei der Post** — *Jenny has a new job at the post office* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 7a (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->
 

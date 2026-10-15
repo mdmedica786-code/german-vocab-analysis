@@ -31,6 +31,9 @@ status: "new"
 > Ich möchte nur ein Glas Wasser.
 > *I'd just like a glass of water.*
 
+**Phrases & Expressions:**
+- **Ich möchte nur ein Glas Wasser** — *I'd just like a glass of water* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 9a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

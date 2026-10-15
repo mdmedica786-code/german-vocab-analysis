@@ -34,6 +34,9 @@ status: "new"
 > Der Luxemburger spricht drei Sprachen.
 > *The Luxembourger speaks three languages.*
 
+**Phrases & Expressions:**
+- **Der Luxemburger spricht drei Sprachen** — *The Luxembourger speaks three languages* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

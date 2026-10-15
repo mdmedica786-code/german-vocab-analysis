@@ -34,6 +34,9 @@ status: "new"
 > Gibt es eine direkte Zugverbindung nach Hamburg?
 > *Is there a direct train connection to Hamburg?*
 
+**Phrases & Expressions:**
+- **Gibt es eine direkte Zugverbindung nach Hamburg** — *Is there a direct train connection to Hamburg* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 3a ÜB (Arbeitswelten)
 <!-- bank:end -->
 

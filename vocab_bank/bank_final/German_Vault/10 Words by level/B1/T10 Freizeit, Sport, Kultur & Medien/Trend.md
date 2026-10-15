@@ -35,6 +35,10 @@ status: "new"
 > Vegane Ernährung ist ein Trend.
 > *Vegan eating is a trend.*
 
+**Phrases & Expressions:**
+- **Es zeichnet sich ein Trend zu ... ab.** — A trend towards ... is emerging. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Trend beschreiben]] · B2)*
+- **Allerdings ist dieser Trend nicht überall zu beobachten.** — However, this trend cannot be observed everywhere. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Trend relativieren]] · B2)*
+
 **Source:** Netzwerk neu B1 K3 2 ÜB (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

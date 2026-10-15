@@ -33,6 +33,9 @@ status: "new"
 > Der Berg spiegelt sich im See.
 > *The mountain is reflected in the lake.*
 
+**Phrases & Expressions:**
+- **Der Berg spiegelt sich im See** — *The mountain is reflected in the lake* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K10 1b (Zusammen leben)
 <!-- bank:end -->
 

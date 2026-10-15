@@ -33,6 +33,9 @@ status: "new"
 > Die Arbeiter streiken für höhere Löhne.
 > *The workers are striking for higher wages.*
 
+**Phrases & Expressions:**
+- **Die Arbeiter streiken für höhere Löhne** — *The workers are striking for higher wages* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 1a ÜB (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->
 

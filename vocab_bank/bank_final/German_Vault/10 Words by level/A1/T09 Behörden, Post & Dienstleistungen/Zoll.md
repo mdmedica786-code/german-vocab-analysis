@@ -35,6 +35,9 @@ status: "new"
 > Wir müssen noch durch den Zoll.
 > *We still have to go through customs.*
 
+**Phrases & Expressions:**
+- **Wir müssen noch durch den Zoll** — *We still have to go through customs* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 6c ÜB (Veränderungen) · Goethe word list A1
 <!-- bank:end -->
 

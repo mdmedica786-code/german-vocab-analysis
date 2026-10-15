@@ -33,6 +33,9 @@ status: "new"
 > Ich habe noch nie gezeltet.
 > *I have never camped.*
 
+**Phrases & Expressions:**
+- **Ich habe noch nie gezeltet** — *I have never camped* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 1a ÜB (Gute Reise!) · Goethe word list B1
 <!-- bank:end -->
 

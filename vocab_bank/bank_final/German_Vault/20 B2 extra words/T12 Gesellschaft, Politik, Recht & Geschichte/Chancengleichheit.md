@@ -33,6 +33,11 @@ status: "new"
 > Bildung ist der Schlüssel zur Chancengleichheit.
 > *Education is the key to equal opportunities.*
 
+**Phrases & Expressions:**
+- **für Chancengleichheit sorgen** — *equal opportunities*
+- **Chancengleichheit fördern** — *equal opportunities*
+- **echte Chancengleichheit** — *equal opportunities*
+
 **Collocations**
 - für Chancengleichheit sorgen
 - Chancengleichheit fördern

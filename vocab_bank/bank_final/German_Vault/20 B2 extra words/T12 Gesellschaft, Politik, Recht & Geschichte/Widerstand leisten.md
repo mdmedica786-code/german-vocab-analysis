@@ -26,6 +26,10 @@ status: "new"
 > Die Bevölkerung leistete gegen den Bau Widerstand.
 > *The population put up resistance to the construction.*
 
+**Phrases & Expressions:**
+- **Widerstand leisten gegen + Akk.** — *to put up resistance*
+- **erbitterten Widerstand leisten** — *to put up resistance*
+
 **Collocations**
 - Widerstand leisten gegen + Akk.
 - erbitterten Widerstand leisten

@@ -34,6 +34,9 @@ status: "new"
 > Die Komponistin schreibt eine Oper.
 > *The composer is writing an opera.*
 
+**Phrases & Expressions:**
+- **Die Komponistin schreibt eine Oper** — *The composer is writing an opera* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 11b (Zwischenmenschliches)
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Der Hirte treibt die Herde auf die Weide.
 > *The shepherd drives the herd to the pasture.*
 
+**Phrases & Expressions:**
+- **eine Herde Schafe** — *herd; flock*
+- **die Herde hüten** — *herd; flock*
+- **Herdentrieb** — *herd; flock*
+
 **Collocations**
 - eine Herde Schafe
 - die Herde hüten

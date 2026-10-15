@@ -35,6 +35,9 @@ status: "new"
 > Ich laufe jeden Tag fünf Runden im Park.
 > *I run five laps in the park every day.*
 
+**Phrases & Expressions:**
+- **Ich laufe jeden Tag fünf Runden im Park** — *I run five laps in the park every day* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K3 11c (Immer online?) · Goethe word list B1
 <!-- bank:end -->
 

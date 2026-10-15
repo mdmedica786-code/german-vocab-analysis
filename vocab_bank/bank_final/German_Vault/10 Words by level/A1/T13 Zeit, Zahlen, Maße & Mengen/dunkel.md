@@ -32,6 +32,12 @@ status: "new"
 > Um sechs Uhr ist es schon dunkel.
 > *At six o'clock it is already dark.*
 
+**Phrases & Expressions:**
+- **dunkle Haare** — *dark*
+- **dunkel werden** — *dark*
+- **im Dunkeln** — *dark*
+- **dunkle Wolken** — *dark*
+
 **Collocations**
 - dunkle Haare
 - dunkel werden

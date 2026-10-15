@@ -30,6 +30,11 @@ status: "new"
 > Das kommt für mich nicht in Betracht.
 > *That is not an option for me.*
 
+**Phrases & Expressions:**
+- **in Betracht kommen** — *consideration (only in "in Betracht")*
+- **in Betracht ziehen** — *consideration (only in "in Betracht")*
+- **außer Betracht lassen** — *consideration (only in "in Betracht")*
+
 **Collocations**
 - in Betracht kommen
 - in Betracht ziehen

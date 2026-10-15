@@ -27,6 +27,9 @@ status: "new"
 > Das war im Jahr zweitausendeins.
 > *That was in the year two thousand and one.*
 
+**Phrases & Expressions:**
+- **Das war im Jahr zweitausendeins** — *That was in the year two thousand and one* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list A2
 <!-- bank:end -->
 

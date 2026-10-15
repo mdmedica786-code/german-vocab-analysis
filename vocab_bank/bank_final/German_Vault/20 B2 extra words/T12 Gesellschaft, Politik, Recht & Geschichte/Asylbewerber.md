@@ -33,6 +33,11 @@ status: "new"
 > Die Asylbewerber werden in einer Gemeinschaftsunterkunft untergebracht.
 > *The asylum seekers are accommodated in a shared home.*
 
+**Phrases & Expressions:**
+- **Asylbewerber aufnehmen** — *asylum seeker*
+- **Asylbewerber betreuen** — *asylum seeker*
+- **Unterkunft für Asylbewerber** — *asylum seeker*
+
 **Collocations**
 - Asylbewerber aufnehmen
 - Asylbewerber betreuen

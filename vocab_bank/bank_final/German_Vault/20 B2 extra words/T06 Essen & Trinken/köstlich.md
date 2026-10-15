@@ -29,6 +29,11 @@ status: "new"
 > Die Suppe schmeckt köstlich.
 > *The soup tastes delicious.*
 
+**Phrases & Expressions:**
+- **köstlich schmecken** — *delicious*
+- **ein köstliches Essen** — *delicious*
+- **sich köstlich amüsieren** — *delicious*
+
 **Collocations**
 - köstlich schmecken
 - ein köstliches Essen

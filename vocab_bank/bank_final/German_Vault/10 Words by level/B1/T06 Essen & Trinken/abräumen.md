@@ -33,6 +33,14 @@ status: "new"
 > Kannst du bitte den Tisch abräumen?
 > *Can you clear the table, please?*
 
+**Phrases & Expressions:**
+- **ab und zu** — now and then *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B1)*
+- **Das hängt davon ab, ob ...** — That depends on whether ... *([[B1-04 Vor- und Nachteile nennen|Abwägen]] · B1)*
+- **Ich lehne das ab, weil ...** — I reject that because ... *([[B2-02 Diskussion B2 - Position beziehen, abwägen, einräumen|Position beziehen]] · B2)*
+- **Es zeichnet sich ein Trend zu ... ab.** — A trend towards ... is emerging. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Trend beschreiben]] · B2)*
+- **Wir nehmen Ihnen jetzt etwas Blut ab.** — We will now take some blood from you. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Blutabnahme]] · A2)*
+- **Legen Sie bitte Schmuck und Metallteile ab.** — Please take off jewellery and metal objects. *([[FSP-09 Diagnostik erklären - Labor, EKG, Bildgebung|Röntgen]] · B1)*
+
 **Source:** Netzwerk neu B1 K10 8b (Miteinander)
 <!-- bank:end -->
 

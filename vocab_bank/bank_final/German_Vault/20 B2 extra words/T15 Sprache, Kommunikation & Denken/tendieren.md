@@ -32,6 +32,11 @@ status: "new"
 > Die Mehrheit tendiert zu einer neuen Lösung.
 > *The majority tends towards a new solution.*
 
+**Phrases & Expressions:**
+- **zu etwas tendieren** — *to tend; to incline*
+- **dazu tendieren, etwas zu tun** — *to tend; to incline*
+- **in eine Richtung tendieren** — *to tend; to incline*
+
 **Collocations**
 - zu etwas tendieren
 - dazu tendieren, etwas zu tun

@@ -34,6 +34,9 @@ status: "new"
 > In einer Konfliktsituation bleibt sie ruhig.
 > *In a conflict situation she stays calm.*
 
+**Phrases & Expressions:**
+- **In einer Konfliktsituation bleibt sie ruhig** — *In a conflict situation she stays calm* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 6a (Zwischenmenschliches)
 <!-- bank:end -->
 

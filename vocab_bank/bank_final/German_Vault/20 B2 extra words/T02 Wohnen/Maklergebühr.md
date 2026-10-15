@@ -33,6 +33,11 @@ status: "new"
 > Die Maklergebühr muss der Auftraggeber zahlen.
 > *The client has to pay the estate agent's fee.*
 
+**Phrases & Expressions:**
+- **die Maklergebühr zahlen** — *estate agent's fee*
+- **Maklergebühren sparen** — *estate agent's fee*
+- **eine hohe Maklergebühr** — *estate agent's fee*
+
 **Collocations**
 - die Maklergebühr zahlen
 - Maklergebühren sparen

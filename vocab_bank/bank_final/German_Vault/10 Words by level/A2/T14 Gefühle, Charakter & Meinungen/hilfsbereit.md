@@ -30,6 +30,9 @@ status: "new"
 > Meine Nachbarn sind sehr hilfsbereit.
 > *My neighbours are very helpful.*
 
+**Phrases & Expressions:**
+- **Meine Nachbarn sind sehr hilfsbereit** — *My neighbours are very helpful* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle)
 <!-- bank:end -->
 

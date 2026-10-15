@@ -34,6 +34,9 @@ status: "new"
 > Der Bundespräsident hält eine Rede.
 > *The Federal President gives a speech.*
 
+**Phrases & Expressions:**
+- **Der Bundespräsident hält eine Rede** — *The Federal President gives a speech* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

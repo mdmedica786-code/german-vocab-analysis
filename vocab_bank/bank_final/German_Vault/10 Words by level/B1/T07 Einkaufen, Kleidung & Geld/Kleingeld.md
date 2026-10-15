@@ -34,6 +34,9 @@ status: "new"
 > Hast du Kleingeld für den Automaten?
 > *Do you have small change for the machine?*
 
+**Phrases & Expressions:**
+- **Hast du Kleingeld für den Automaten** — *Do you have small change for the machine* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 10a (Geld regiert die Welt?)
 <!-- bank:end -->
 

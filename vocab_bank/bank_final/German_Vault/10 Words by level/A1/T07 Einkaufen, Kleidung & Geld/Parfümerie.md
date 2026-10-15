@@ -34,6 +34,9 @@ status: "new"
 > In der Parfümerie rieche ich an vielen Düften.
 > *In the perfumery I smell many fragrances.*
 
+**Phrases & Expressions:**
+- **In der Parfümerie rieche ich an vielen Düften** — *In the perfumery I smell many fragrances* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

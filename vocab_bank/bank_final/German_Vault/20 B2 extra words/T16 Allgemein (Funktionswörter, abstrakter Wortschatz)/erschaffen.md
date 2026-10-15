@@ -31,6 +31,11 @@ status: "new"
 > Der Künstler erschuf ein neues Werk.
 > *The artist created a new work.*
 
+**Phrases & Expressions:**
+- **eine Welt erschaffen** — *to create*
+- **ein Kunstwerk erschaffen** — *to create*
+- **etwas Neues erschaffen** — *to create*
+
 **Collocations**
 - eine Welt erschaffen
 - ein Kunstwerk erschaffen

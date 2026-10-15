@@ -34,6 +34,9 @@ status: "new"
 > Die Doktorandin forscht in einem Labor.
 > *The doctoral student does research in a laboratory.*
 
+**Phrases & Expressions:**
+- **Die Doktorandin forscht in einem Labor** — *The doctoral student does research in a laboratory* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 10b (Blick nach vorn)
 <!-- bank:end -->
 

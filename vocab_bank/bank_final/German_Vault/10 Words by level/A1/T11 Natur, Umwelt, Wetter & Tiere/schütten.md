@@ -32,6 +32,9 @@ status: "new"
 > Es schüttet, so ein Regen!
 > *It's pouring, such rain!*
 
+**Phrases & Expressions:**
+- **Es schüttet, so ein Regen** — *It's pouring, such rain* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K12 11d (Ab in den Urlaub!)
 <!-- bank:end -->
 

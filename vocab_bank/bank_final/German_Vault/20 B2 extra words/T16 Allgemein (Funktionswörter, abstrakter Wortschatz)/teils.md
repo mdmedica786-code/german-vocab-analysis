@@ -29,6 +29,11 @@ status: "new"
 > Das Wetter war teils sonnig, teils bewölkt.
 > *The weather was partly sunny, partly cloudy.*
 
+**Phrases & Expressions:**
+- **teils ... teils** — *partly*
+- **teils heiter** — *partly*
+- **teils erfreulich** — *partly*
+
 **Collocations**
 - teils ... teils
 - teils heiter
