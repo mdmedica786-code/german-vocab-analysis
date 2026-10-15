@@ -151,6 +151,12 @@ hr { border: none; border-top: 1px solid #E5E7EB; margin: 20px auto; width: 55%;
 .nightMode .word-family-list, .card.nightMode .word-family-list { color: #E5E7EB; }
 .nightMode .word-family-list li, .card.nightMode .word-family-list li { border-bottom-color: #2E2E33; }
 
+/* Listen-in-context links on the Core back */
+.links { margin-top: 18px; font-size: 14px; }
+.links a { color: #2563EB; text-decoration: none; margin: 0 10px; }
+.links a:hover { text-decoration: underline; }
+.nightMode .links a, .card.nightMode .links a { color: #60A5FA; }
+
 @media (max-width: 500px) {
   .card { font-size: 18px; padding: 16px 12px; }
   .en-meaning { font-size: 24px; }
@@ -159,7 +165,25 @@ hr { border: none; border-top: 1px solid #E5E7EB; margin: 20px auto; width: 55%;
   .grammar-table { font-size: 15px; }
   .grammar-table td { padding: 6px 10px; }
 }
+
+/* Visual Mnemonics */
+.card-image { margin: 16px auto; text-align: center; }
+.card-image img { max-width: 96%; max-height: 290px; border-radius: 10px; box-shadow: 0 4px 16px rgba(0,0,0,0.12); border: 1px solid #E5E7EB; object-fit: contain; }
+.card-image-front { margin: 14px auto; text-align: center; }
+.card-image-front img { max-width: 90%; max-height: 260px; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.10); border: 1px solid #E5E7EB; object-fit: contain; }
+.nightMode .card-image img, .card.nightMode .card-image img { border-color: #374151; box-shadow: 0 4px 16px rgba(0,0,0,0.45); }
+.nightMode .card-image-front img, .card.nightMode .card-image-front img { border-color: #374151; box-shadow: 0 4px 14px rgba(0,0,0,0.45); }
 """
+
+
+# Native-speaker context links (YouGlish clips, PlayPhrase film/TV snippets).
+# {{text:DE_Word}} strips any HTML so the word is safe inside the URL.
+LINKS_HTML = (
+    '<div class="links">'
+    '<a href="https://youglish.com/pronounce/{{text:DE_Word}}/german">&#9654;&#65039; YouGlish</a>'
+    '<a href="https://www.playphrase.me/#/search?q={{text:DE_Word}}&amp;language=de">&#127916; PlayPhrase</a>'
+    '</div>'
+)
 
 
 # ==============================================================
@@ -171,7 +195,7 @@ def _make_models():
         fields=[{"name": n} for n in [
             "EN_Meaning","POS","DE_Word","Article","GenderClass",
             "Pronunciation","DE_Sentence","EN_Sentence","Note",
-            "Audio_Word","Audio_Sentence",
+            "Audio_Word","Audio_Sentence","Image","Image_Front",
         ]],
         # Two templates on one note → Anki generates 2 cards per word.
         # Bury siblings keeps only one per day.
@@ -185,24 +209,29 @@ def _make_models():
                          '{{#Pronunciation}}<div class="pron">/{{Pronunciation}}/</div>{{/Pronunciation}}'
                          '<hr>'
                          '<div class="en-reveal">{{EN_Meaning}}</div>'
+                         '{{#Image}}<div class="card-image"><img src="{{Image}}"></div>{{/Image}}'
                          '<div class="de-sentence">{{DE_Sentence}}</div>'
                          '<div class="en-sentence">{{EN_Sentence}}</div>'
                          '{{#Note}}<div class="note">{{Note}}</div>{{/Note}}'
-                         '{{Audio_Word}}{{Audio_Sentence}}'),
+                         '{{Audio_Word}}{{Audio_Sentence}}'
+                         + LINKS_HTML),
             },
             {
                 "name": "EN → DE",
                 "qfmt": ('<div class="pos-tag">{{POS}}</div>'
-                         '<div class="en-meaning">{{EN_Meaning}}</div>'),
+                         '<div class="en-meaning">{{EN_Meaning}}</div>'
+                         '{{#Image_Front}}<div class="card-image-front"><img src="{{Image_Front}}"></div>{{/Image_Front}}'),
                 "afmt": ('<div class="pos-tag">{{POS}}</div>'
                          '<div class="en-meaning">{{EN_Meaning}}</div>'
                          '<hr>'
                          '<div class="de-word {{GenderClass}}">{{Article}} {{DE_Word}}</div>'
                          '{{#Pronunciation}}<div class="pron">/{{Pronunciation}}/</div>{{/Pronunciation}}'
+                         '{{#Image}}<div class="card-image"><img src="{{Image}}"></div>{{/Image}}'
                          '<div class="de-sentence">{{DE_Sentence}}</div>'
                          '<div class="en-sentence">{{EN_Sentence}}</div>'
                          '{{#Note}}<div class="note">{{Note}}</div>{{/Note}}'
-                         '{{Audio_Word}}{{Audio_Sentence}}'),
+                         '{{Audio_Word}}{{Audio_Sentence}}'
+                         + LINKS_HTML),
             },
         ],
         css=CSS,
@@ -326,6 +355,8 @@ def build_core(word: dict) -> dict | None:
             word.get("note", ""),
             word.get("audio_word", ""),
             word.get("audio_sentence", ""),
+            word.get("image", "") or "",
+            word.get("image_front", "") or "",
         ],
         "tags": _base_tags(word) + ["type::core"],
     }
