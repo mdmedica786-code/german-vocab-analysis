@@ -1,5 +1,5 @@
 ---
-name: nerdmedica-de-pro
+name: "nerdmedica-de-pro"
 description: Generate Medica's NerdMedica DE PRO 6-card-type Anki deck (.apkg) from any German vocabulary source — an existing 14-field .apkg, a Netzwerk / Goethe PDF chapter, a textbook photo, or a plain vocab list. ALWAYS use when Medica says 'de pro', 'de anki pro', 'nerdmedica de pro', 'german pro', 'pro cards', 'pro anki', 'convert my kap X to pro', 'rebuild this chapter as pro', 'the new format', 'the 6-card system', or attaches a German .apkg / vocab source and asks for pro / bury-siblings / subdeck cards. Also use to rebuild an existing PRO deck while keeping study progress, or to add native TTS audio to German cards. Output is a downloadable .apkg with 6 subdecks (reversible Core, Production, Grammar, Chunks, Breadth, Family), light+dark theme, tags preserved. Do NOT use for the old 14-field TSV format (nerdmedica-german-anki), German grammar teaching (deutsch-meister), medical Anki (nerdmedica-anki), or n-gram phrase cards (nerdmedica-german-ngram).
 ---
 
