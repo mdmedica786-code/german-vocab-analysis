@@ -1,3 +1,4 @@
+import urllib.parse
 #!/usr/bin/env python3
 """make_vault.py - builds the Obsidian vault `German_Vault/` from the CSV banks in bank_final/.
 
@@ -286,6 +287,11 @@ def build(root, copy_audio=True):
             b += [f"![[{afile}]]", ""]
             if copy_audio:
                 V.copy_file(AUDIO_DIR / afile, f"{D_AUDIO}/{afile}")
+        q_clean = urllib.parse.quote(lemma)
+        yg_link = f"https://youglish.com/pronounce/{q_clean}/german"
+        pp_link = f"https://www.playphrase.me/#/search?q={q_clean}&language=de"
+        b.append(f"[▶️ YouGlish]({yg_link}) · [🎬 PlayPhrase]({pp_link})")
+        b.append("")
         b.append(f"**Meaning:** {r['meaning_en']}")
         if r.get("other_senses"):
             b.append(f"**Other senses:** {r['other_senses']}")
@@ -748,9 +754,11 @@ def check(vault_root):
                 yaml.safe_load(t[4:t.find("\n---\n", 4)])
             except Exception as ex:
                 bad_yaml.append((p.name, str(ex)[:80]))
+        stems_folded = {s.casefold() for s in stems}
         for m in link_re.finditer(t):
-            if m.group(1).strip() not in stems:
-                broken.append((p.name, m.group(1)))
+            target = m.group(1).strip()
+            if target not in stems and target.casefold() not in stems_folded:
+                broken.append((p.name, target))
     print(f"notes: {len(notes)}  case-insensitive duplicate names: {len(dup)}  broken links: {len(broken)}  bad yaml: {len(bad_yaml)}")
     for x in list(dup.items())[:5]:
         print("  dup", x)

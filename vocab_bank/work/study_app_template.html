@@ -1,6 +1,4 @@
 <!doctype html>
-<!-- GERMAN STUDY PAGE. Do not read this file in a text editor: double-click it so it opens in your web browser (Chrome, Edge, Safari, Firefox).
-     The short letters in the data block (t, m, p, d, e ...) are internal names; you never need them. Help: START_HERE.md in this folder. -->
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -44,6 +42,8 @@ td,th{padding:7px 6px;border-bottom:1px solid var(--line);text-align:left;vertic
 tr.item{cursor:pointer}tr.item:hover{background:var(--acc2)}
 .hide{display:none}
 .spk{background:none;border:1px solid var(--line);color:var(--ink);border-radius:8px;padding:2px 9px;cursor:pointer}
+.vbtn{display:inline-flex;align-items:center;gap:4px;background:none;border:1px solid var(--line);color:var(--ink);border-radius:8px;padding:3px 10px;font-size:13px;text-decoration:none;cursor:pointer;margin-right:6px}
+.vbtn:hover{background:var(--acc2);border-color:var(--acc)}
 h2{font-size:18px;margin:4px 0 10px}
 kbd{border:1px solid var(--line);border-bottom-width:2px;border-radius:5px;padding:0 6px;font-size:13px}
 </style>
@@ -191,19 +191,34 @@ function stats(due,nw,total,fresh){
 function next(){
   cur=queue.shift()||null; shown=false; render();
 }
-const AUDIO_DIR='../vocab_bank/bank_final/audio/';  // native recordings (download_audio.py); optional
 let nativeAudio=null;
 function tts(t){
   if(!('speechSynthesis' in window)) return;
-  speechSynthesis.cancel(); const u=new SpeechSynthesisUtterance(t); u.lang='de-DE'; u.rate=.9; speechSynthesis.speak(u);
+  try{
+    window.speechSynthesis.cancel();
+    const u=new SpeechSynthesisUtterance(t);
+    u.lang='de-DE'; u.rate=.9;
+    window.speechSynthesis.speak(u);
+  }catch(e){}
 }
 function speak(t,file){
-  if(nativeAudio){nativeAudio.pause();nativeAudio=null;}
+  if(nativeAudio){try{nativeAudio.pause();}catch(e){} nativeAudio=null;}
   if(!file){tts(t);return;}
-  // play the native recording; if the file is not on this computer/phone, fall back to the browser voice
-  let done=false; const fb=()=>{if(!done){done=true;tts(t);}};
-  const a=new Audio(AUDIO_DIR+encodeURIComponent(file)); nativeAudio=a;
-  a.onerror=fb; a.play().catch(fb);
+  let done=false;
+  const fb=()=>{if(!done){done=true;tts(t);}};
+  try{
+    const a=new Audio('audio/'+encodeURIComponent(file));
+    nativeAudio=a;
+    a.onerror=()=>{
+      try{
+        const a2=new Audio('../vocab_bank/bank_final/audio/'+encodeURIComponent(file));
+        nativeAudio=a2;
+        a2.onerror=fb;
+        a2.play().catch(fb);
+      }catch(e){fb();}
+    };
+    a.play().catch(()=>{ if(a.onerror) a.onerror(); else fb(); });
+  }catch(e){fb();}
 }
 function front(c){return c.k==='M'||c.k==='B'?c.t:c.t;}
 function render(){
@@ -225,6 +240,7 @@ function render(){
     if(c.d) h+=`<div class="ex">${esc(c.d)}<br><i>${esc(c.e)}</i> <button class="spk" data-say="${esc(c.d)}">🔊</button></div>`;
     if(c.c) h+=`<p class="muted">${c.k==='M'||c.k==='B'?'Collocations':'Variants'}: ${esc(c.c)}</p>`;
     if(c.g) h+=`<p><span class="tag">${esc(c.g)}</span></p>`;
+    h+=extLinks(c.t);
     h+='</div>';
     rb.classList.remove('hide');
   }else{
@@ -262,12 +278,20 @@ function search(){
   $$('#qTable tr.item').forEach(tr=>tr.onclick=()=>{$('#d'+tr.dataset.n).classList.toggle('hide');});
   $$('#qTable [data-say]').forEach(b=>b.onclick=e=>{e.stopPropagation();speak(b.dataset.say,b.dataset.aud);});
 }
+function extLinks(t){
+  const clean=t.replace(/^(der|die|das|dem|den|des|sich)\s+/i,'').replace(/\s*\([^)]*\)/g,'').trim()||t;
+  const yg='https://youglish.com/pronounce/'+encodeURIComponent(clean)+'/german';
+  const pp='https://www.playphrase.me/#/search?q='+encodeURIComponent(clean)+'&language=de';
+  return `<div style="margin-top:10px;display:flex;gap:6px;flex-wrap:wrap"><a href="${yg}" target="_blank" rel="noopener" class="vbtn" onclick="event.stopPropagation()">?? YouGlish</a><a href="${pp}" target="_blank" rel="noopener" class="vbtn" onclick="event.stopPropagation()">?? PlayPhrase</a></div>`;
+}
+
 function detail(c){
   let h='';
   if(c.f) h+=`<p class="muted">${esc(c.f)}</p>`;
   if(c.d) h+=`<div class="ex">${esc(c.d)} <button class="spk" data-say="${esc(c.d)}">🔊</button><br><i>${esc(c.e)}</i></div>`;
   if(c.c) h+=`<p class="muted">${c.k==='M'||c.k==='B'?'Collocations':'Variants'}: ${esc(c.c)}</p>`;
   if(c.g) h+=`<p><span class="tag">${esc(c.g)}</span></p>`;
+  h+=extLinks(c.t);
   return h;
 }
 

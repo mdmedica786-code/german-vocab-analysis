@@ -30,7 +30,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from audio_util import AUDIO_DIR, MANIFEST, ROOT, clean_word, file_stem  # noqa: E402
 from studylist import mark_not_in_list  # noqa: E402
 
-UA = "MedicaGermanStudy/1.0 (educational)"
+UA = "MedicaGermanStudy/1.0 (https://github.com/mdmedica786-code/german-vocab-analysis; contact: student)"
 SPARQL = "https://lingualibre.org/bigdata/namespace/wdq/sparql"
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
 FILEPATH = "https://commons.wikimedia.org/wiki/Special:FilePath/"
@@ -124,8 +124,8 @@ def q_lit(w):
 
 def lingualibre_query(variants, qid=LANG_QID):
     return (PREFIX + "SELECT ?word ?file ?speakerLabel WHERE {\n  VALUES ?word { " + " ".join(q_lit(v) for v in variants) + " }\n"
-            f"  ?record prop:P4 entity:{qid} ;\n          prop:P5 ?word ;\n          prop:P3 ?file .\n"
-            "  OPTIONAL { ?record prop:P6 ?speaker . ?speaker rdfs:label ?speakerLabel . }\n}")
+            f"  ?record prop:P4 entity:{qid} ;\n          prop:P7 ?word ;\n          prop:P3 ?file .\n"
+            "  OPTIONAL { ?record prop:P2 ?speaker . ?speaker rdfs:label ?speakerLabel . }\n}")
 
 
 def parse_filename(v):
@@ -337,7 +337,10 @@ def main(argv=None):
     print(f"\nwords: {len(mine)}  lingua_libre: {c['lingua_libre']}  wikimedia_wiktionary: {c['wikimedia_wiktionary']}  missing: {c['missing']}  "
           f"hit rate: {100 * ok / max(1, len(mine)):.1f}%")
     spk = Counter(e["speaker"] for e in mine if e["speaker"])
-    print("speakers:", ", ".join(f"{s} ({n})" for s, n in spk.most_common(8)) or "-")
+    try:
+        print("speakers:", ", ".join(f"{s} ({n})" for s, n in spk.most_common(8)) or "-")
+    except UnicodeEncodeError:
+        print("speakers: (contains non-ASCII speaker names)")
     miss = [e["word"] for e in mine if e["source"] == "missing"]
     if miss:
         print(f"missing ({len(miss)}):", ", ".join(miss[:40]) + (" ..." if len(miss) > 40 else ""))

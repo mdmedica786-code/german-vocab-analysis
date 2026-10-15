@@ -17,3 +17,9 @@ ENV/
 .DS_Store
 Thumbs.db
 *.tmp
+
+# Local vault duplicate audio (canonical audio lives in vocab_bank/bank_final/audio/)
+vocab_bank/bank_final/German_Vault/95 Audio/
+vocab_bank/bank_final/German_Vault/96 Images/
+STUDY_HERE/audio/
+vocab_bank/work/_backup_scripts/
