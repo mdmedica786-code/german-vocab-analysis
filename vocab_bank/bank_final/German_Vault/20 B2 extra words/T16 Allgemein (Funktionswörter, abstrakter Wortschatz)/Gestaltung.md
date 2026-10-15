@@ -33,6 +33,11 @@ status: "new"
 > Die Gestaltung der Webseite ist sehr modern.
 > *The design of the website is very modern.*
 
+**Phrases & Expressions:**
+- **die Gestaltung der Freizeit** — *design; shaping; organisation*
+- **kreative Gestaltung** — *design; shaping; organisation*
+- **Gestaltung von Räumen** — *design; shaping; organisation*
+
 **Collocations**
 - die Gestaltung der Freizeit
 - kreative Gestaltung

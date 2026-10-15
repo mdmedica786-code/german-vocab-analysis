@@ -34,6 +34,9 @@ status: "new"
 > Ich nehme abends einen Löffel Hustensaft.
 > *In the evening I take a spoonful of cough syrup.*
 
+**Phrases & Expressions:**
+- **Ich nehme abends einen Löffel Hustensaft** — *In the evening I take a spoonful of cough syrup* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 10b (Fit und gesund)
 <!-- bank:end -->
 

@@ -34,6 +34,9 @@ status: "new"
 > Zum Nachtisch gibt es Pudding.
 > *There is pudding for dessert.*
 
+**Phrases & Expressions:**
+- **Zum Nachtisch gibt es Pudding** — *There is pudding for dessert* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3c ÜB (Miteinander)
 <!-- bank:end -->
 

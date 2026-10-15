@@ -32,6 +32,9 @@ status: "new"
 > Der Kellner serviert das Essen.
 > *The waiter serves the food.*
 
+**Phrases & Expressions:**
+- **Der Kellner serviert das Essen** — *The waiter serves the food* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt)
 <!-- bank:end -->
 

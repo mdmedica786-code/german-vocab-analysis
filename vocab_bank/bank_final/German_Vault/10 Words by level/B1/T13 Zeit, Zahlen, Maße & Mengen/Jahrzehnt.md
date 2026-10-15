@@ -34,6 +34,9 @@ status: "new"
 > Das Jahrzehnt war von Veränderungen geprägt.
 > *The decade was marked by changes.*
 
+**Phrases & Expressions:**
+- **in den letzten Jahrzehnten** — in recent decades *([[Zeit - Reihenfolge (time, sequence)|Zeit / Reihenfolge (time, sequence)]] · C1)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

@@ -30,6 +30,11 @@ status: "new"
 > Bitte geben Sie die Zeilennummer im Text an.
 > *Please state the line number in the text.*
 
+**Phrases & Expressions:**
+- **die Zeilennummer angeben** — *line number*
+- **die Zeilennummer nennen** — *line number*
+- **die Zeilennummer im Text** — *line number*
+
 **Collocations**
 - die Zeilennummer angeben
 - die Zeilennummer nennen

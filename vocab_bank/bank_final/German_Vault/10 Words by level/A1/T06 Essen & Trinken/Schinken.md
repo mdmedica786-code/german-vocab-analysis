@@ -35,6 +35,9 @@ status: "new"
 > Bitte, ein Brötchen mit Schinken.
 > *A roll with ham, please.*
 
+**Phrases & Expressions:**
+- **Bitte, ein Brötchen mit Schinken** — *A roll with ham, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 2a (Guten Appetit!) · Goethe word list A1
 <!-- bank:end -->
 

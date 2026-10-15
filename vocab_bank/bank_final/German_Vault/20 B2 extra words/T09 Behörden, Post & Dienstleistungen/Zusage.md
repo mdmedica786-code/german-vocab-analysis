@@ -33,6 +33,11 @@ status: "new"
 > Ich habe die Zusage für den Studienplatz bekommen.
 > *I received the acceptance for the university place.*
 
+**Phrases & Expressions:**
+- **eine Zusage erhalten** — *acceptance; promise; confirmation*
+- **eine Zusage geben** — *acceptance; promise; confirmation*
+- **auf eine Zusage warten** — *acceptance; promise; confirmation*
+
 **Collocations**
 - eine Zusage erhalten
 - eine Zusage geben

@@ -34,6 +34,9 @@ status: "new"
 > Die Hausaufgaben stehen im Übungsbuch.
 > *The homework is in the exercise book.*
 
+**Phrases & Expressions:**
+- **Die Hausaufgaben stehen im Übungsbuch** — *The homework is in the exercise book* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 6c (Freunde, Kollegen und ich)
 <!-- bank:end -->
 

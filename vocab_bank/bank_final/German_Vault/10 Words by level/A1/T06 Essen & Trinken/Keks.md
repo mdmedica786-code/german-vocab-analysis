@@ -34,6 +34,9 @@ status: "new"
 > Zum Tee esse ich gern einen Keks.
 > *With tea I like to eat a biscuit.*
 
+**Phrases & Expressions:**
+- **Zum Tee esse ich gern einen Keks** — *With tea I like to eat a biscuit* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K4 2a (Guten Appetit!)
 <!-- bank:end -->
 

@@ -26,6 +26,10 @@ status: "new"
 > Die Lage ist außer Kontrolle geraten.
 > *The situation has got out of control.*
 
+**Phrases & Expressions:**
+- **außer Kontrolle sein** — *to get out of control*
+- **die Kontrolle verlieren** — *to get out of control*
+
 **Collocations**
 - außer Kontrolle sein
 - die Kontrolle verlieren

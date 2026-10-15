@@ -32,6 +32,11 @@ status: "new"
 > Das Team arbeitet ein neues Konzept aus.
 > *The team is working out a new concept.*
 
+**Phrases & Expressions:**
+- **einen Plan ausarbeiten** — *to work out; to draw up*
+- **ein Konzept ausarbeiten** — *to work out; to draw up*
+- **einen Vorschlag ausarbeiten** — *to work out; to draw up*
+
 **Collocations**
 - einen Plan ausarbeiten
 - ein Konzept ausarbeiten

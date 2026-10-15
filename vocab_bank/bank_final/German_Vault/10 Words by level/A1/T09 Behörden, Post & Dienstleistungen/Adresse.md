@@ -35,6 +35,9 @@ status: "new"
 > Können Sie mir seine Adresse sagen?
 > *Can you tell me his address?*
 
+**Phrases & Expressions:**
+- **Können Sie mir seine Adresse sagen** — *Can you tell me his address* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 12a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->
 

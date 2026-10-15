@@ -35,6 +35,9 @@ status: "new"
 > Das Training ist immer dienstags.
 > *Training is always on Tuesdays.*
 
+**Phrases & Expressions:**
+- **Das Training ist immer dienstags** — *Training is always on Tuesdays* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 7a (Alltag und Familie) · Goethe word list A2
 <!-- bank:end -->
 

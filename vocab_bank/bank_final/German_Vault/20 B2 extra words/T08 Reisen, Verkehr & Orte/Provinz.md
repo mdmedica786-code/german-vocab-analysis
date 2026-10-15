@@ -33,6 +33,11 @@ status: "new"
 > Er ist in der Provinz aufgewachsen.
 > *He grew up in the provinces.*
 
+**Phrases & Expressions:**
+- **in der Provinz leben** — *province; the sticks*
+- **eine ländliche Provinz** — *province; the sticks*
+- **die Provinz verlassen** — *province; the sticks*
+
 **Collocations**
 - in der Provinz leben
 - eine ländliche Provinz

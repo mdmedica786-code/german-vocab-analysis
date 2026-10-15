@@ -33,6 +33,11 @@ status: "new"
 > Falsches Parken ist eine Ordnungswidrigkeit.
 > *Parking incorrectly is an administrative offence.*
 
+**Phrases & Expressions:**
+- **eine Ordnungswidrigkeit begehen** — *administrative offence*
+- **Bußgeld für Ordnungswidrigkeit** — *administrative offence*
+- **geringfügige Ordnungswidrigkeit** — *administrative offence*
+
 **Collocations**
 - eine Ordnungswidrigkeit begehen
 - Bußgeld für Ordnungswidrigkeit

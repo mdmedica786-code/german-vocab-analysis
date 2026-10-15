@@ -34,6 +34,9 @@ status: "new"
 > Ohne Paddel kommen wir im Boot nicht voran.
 > *Without a paddle we can't make progress in the boat.*
 
+**Phrases & Expressions:**
+- **Ohne Paddel kommen wir im Boot nicht voran** — *Without a paddle we can't make progress in the boat* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1a (Sportlich, sportlich)
 <!-- bank:end -->
 

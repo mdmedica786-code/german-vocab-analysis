@@ -29,6 +29,11 @@ status: "new"
 > Die Bedeutung des Wortes ist aus dem Text erschließbar.
 > *The meaning of the word can be inferred from the text.*
 
+**Phrases & Expressions:**
+- **leicht erschließbar** — *inferable; can be worked out (e.g. from context)*
+- **aus dem Kontext erschließbar** — *inferable; can be worked out (e.g. from context)*
+- **nicht erschließbar** — *inferable; can be worked out (e.g. from context)*
+
 **Collocations**
 - leicht erschließbar
 - aus dem Kontext erschließbar

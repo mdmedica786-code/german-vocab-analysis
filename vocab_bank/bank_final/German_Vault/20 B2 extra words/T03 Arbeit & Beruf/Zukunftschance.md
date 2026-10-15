@@ -33,6 +33,11 @@ status: "new"
 > Eine gute Ausbildung verbessert die Zukunftschancen.
 > *A good education improves future prospects.*
 
+**Phrases & Expressions:**
+- **gute Zukunftschancen** — *future opportunity; prospects*
+- **die Zukunftschancen verbessern** — *future opportunity; prospects*
+- **Zukunftschancen haben** — *future opportunity; prospects*
+
 **Collocations**
 - gute Zukunftschancen
 - die Zukunftschancen verbessern

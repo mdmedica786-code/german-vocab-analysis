@@ -33,6 +33,11 @@ status: "new"
 > Gamification macht das Lernen für viele motivierender.
 > *Gamification makes learning more motivating for many people.*
 
+**Phrases & Expressions:**
+- **Gamification im Unterricht** — *gamification*
+- **Gamification einsetzen** — *gamification*
+- **Elemente der Gamification** — *gamification*
+
 **Collocations**
 - Gamification im Unterricht
 - Gamification einsetzen

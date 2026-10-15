@@ -30,6 +30,9 @@ status: "new"
 > Ziehen Sie bitte eine senkrechte Linie.
 > *Please draw a vertical line.*
 
+**Phrases & Expressions:**
+- **Ziehen Sie bitte eine senkrechte Linie** — *Please draw a vertical line* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

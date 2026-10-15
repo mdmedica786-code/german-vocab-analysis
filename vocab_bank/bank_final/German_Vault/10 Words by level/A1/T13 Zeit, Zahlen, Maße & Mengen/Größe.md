@@ -35,6 +35,9 @@ status: "new"
 > Haben Sie das auch in Größe 40?
 > *Do you also have that in size 40?*
 
+**Phrases & Expressions:**
+- **Haben Sie das auch in Größe 40** — *Do you also have that in size 40* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 5b (Fit und gesund) · Goethe word list A1
 <!-- bank:end -->
 

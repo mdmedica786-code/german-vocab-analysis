@@ -35,6 +35,9 @@ status: "new"
 > Kosmetik können Sie im Erdgeschoss kaufen.
 > *You can buy cosmetics on the ground floor.*
 
+**Phrases & Expressions:**
+- **Kosmetik können Sie im Erdgeschoss kaufen** — *You can buy cosmetics on the ground floor* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->
 

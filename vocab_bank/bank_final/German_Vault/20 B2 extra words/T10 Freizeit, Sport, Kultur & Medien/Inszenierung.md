@@ -33,6 +33,11 @@ status: "new"
 > Die Inszenierung des Stücks war beeindruckend.
 > *The staging of the play was impressive.*
 
+**Phrases & Expressions:**
+- **eine neue Inszenierung** — *staging; production*
+- **die Inszenierung des Stücks** — *staging; production*
+- **eine gelungene Inszenierung** — *staging; production*
+
 **Collocations**
 - eine neue Inszenierung
 - die Inszenierung des Stücks

@@ -34,6 +34,9 @@ status: "new"
 > Hast du einen Trick, wie man Vokabeln schneller lernt?
 > *Do you have a trick for learning vocabulary faster?*
 
+**Phrases & Expressions:**
+- **Hast du einen Trick, wie man Vokabeln schneller lernt** — *Do you have a trick for learning vocabulary faster* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 3c (Gelernt ist gelernt!)
 <!-- bank:end -->
 

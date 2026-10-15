@@ -31,6 +31,11 @@ status: "new"
 > Der Anwalt hat eine einstweilige Verfügung erwirkt.
 > *The lawyer obtained an interim injunction.*
 
+**Phrases & Expressions:**
+- **ein Urteil erwirken** — *to obtain; to secure*
+- **eine Genehmigung erwirken** — *to obtain; to secure*
+- **einen Beschluss erwirken** — *to obtain; to secure*
+
 **Collocations**
 - ein Urteil erwirken
 - eine Genehmigung erwirken

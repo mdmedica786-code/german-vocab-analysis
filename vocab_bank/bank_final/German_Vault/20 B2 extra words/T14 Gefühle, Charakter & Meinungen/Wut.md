@@ -33,6 +33,11 @@ status: "new"
 > Er schrie vor Wut.
 > *He screamed with rage.*
 
+**Phrases & Expressions:**
+- **vor Wut kochen** — *rage; anger*
+- **eine Wut im Bauch haben** — *rage; anger*
+- **Wut auf jemanden** — *rage; anger*
+
 **Collocations**
 - vor Wut kochen
 - eine Wut im Bauch haben

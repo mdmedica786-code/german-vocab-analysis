@@ -31,6 +31,9 @@ status: "new"
 > Ich finde dein Kleid sehr elegant.
 > *I find your dress very elegant.*
 
+**Phrases & Expressions:**
+- **Ich finde dein Kleid sehr elegant** — *I find your dress very elegant* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 3c (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->
 

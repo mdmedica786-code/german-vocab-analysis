@@ -34,6 +34,9 @@ status: "new"
 > Nach zehn Jahren plant er einen Berufswechsel.
 > *After ten years he is planning a career change.*
 
+**Phrases & Expressions:**
+- **Nach zehn Jahren plant er einen Berufswechsel** — *After ten years he is planning a career change* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 7a (Arbeitswelten)
 <!-- bank:end -->
 

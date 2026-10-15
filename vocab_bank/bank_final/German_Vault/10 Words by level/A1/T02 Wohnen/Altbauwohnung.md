@@ -34,6 +34,9 @@ status: "new"
 > Die Altbauwohnung hat hohe Decken.
 > *The old-building flat has high ceilings.*
 
+**Phrases & Expressions:**
+- **Die Altbauwohnung hat hohe Decken** — *The old-building flat has high ceilings* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K9 10a (Meine Wohnung)
 <!-- bank:end -->
 

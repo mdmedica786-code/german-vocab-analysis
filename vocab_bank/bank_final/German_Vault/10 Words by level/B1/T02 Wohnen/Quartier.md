@@ -34,6 +34,9 @@ status: "new"
 > Wir wohnen in einem schönen Quartier.
 > *We are staying in a nice accommodation.*
 
+**Phrases & Expressions:**
+- **Wir wohnen in einem schönen Quartier** — *We are staying in a nice accommodation* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

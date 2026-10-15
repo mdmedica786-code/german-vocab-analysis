@@ -33,6 +33,11 @@ status: "new"
 > Die Reformation begann im Jahr 1517.
 > *The Reformation began in the year 1517.*
 
+**Phrases & Expressions:**
+- **die Zeit der Reformation** — *Reformation (historical movement)*
+- **die Reformation in Deutschland** — *Reformation (historical movement)*
+- **seit der Reformation** — *Reformation (historical movement)*
+
 **Collocations**
 - die Zeit der Reformation
 - die Reformation in Deutschland

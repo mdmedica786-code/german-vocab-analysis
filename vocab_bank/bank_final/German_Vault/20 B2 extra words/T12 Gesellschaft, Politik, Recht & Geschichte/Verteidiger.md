@@ -33,6 +33,11 @@ status: "new"
 > Der Verteidiger beantragt einen Freispruch für seinen Mandanten.
 > *The defence lawyer requests an acquittal for his client.*
 
+**Phrases & Expressions:**
+- **der Verteidiger plädiert** — *defence lawyer*
+- **einen Verteidiger nehmen** — *defence lawyer*
+- **Pflichtverteidiger** — *defence lawyer*
+
 **Collocations**
 - der Verteidiger plädiert
 - einen Verteidiger nehmen

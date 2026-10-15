@@ -26,6 +26,10 @@ status: "new"
 > In dem Artikel wird ein Vergleich zwischen beiden Städten gezogen.
 > *The article draws a comparison between the two cities.*
 
+**Phrases & Expressions:**
+- **einen Vergleich ziehen zwischen + Dat.** — *to draw a comparison*
+- **einen Vergleich anstellen** — *to draw a comparison*
+
 **Collocations**
 - einen Vergleich ziehen zwischen + Dat.
 - einen Vergleich anstellen

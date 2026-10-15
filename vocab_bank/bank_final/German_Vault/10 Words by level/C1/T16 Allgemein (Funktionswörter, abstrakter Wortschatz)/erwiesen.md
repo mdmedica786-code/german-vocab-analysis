@@ -28,6 +28,9 @@ status: "new"
 > [!example] Beispiel
 > Es ist erwiesen, dass Rauchen schadet.
 > *It is proven that smoking is harmful.*
+
+**Phrases & Expressions:**
+- **Es ist erwiesen, dass Rauchen schadet** — *It is proven that smoking is harmful* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,11 @@ status: "new"
 > Der Meter ist eine Maßeinheit für Längen.
 > *The metre is a unit of measurement for lengths.*
 
+**Phrases & Expressions:**
+- **eine Maßeinheit angeben** — *unit of measurement*
+- **eine gängige Maßeinheit** — *unit of measurement*
+- **die Maßeinheit umrechnen** — *unit of measurement*
+
 **Collocations**
 - eine Maßeinheit angeben
 - eine gängige Maßeinheit

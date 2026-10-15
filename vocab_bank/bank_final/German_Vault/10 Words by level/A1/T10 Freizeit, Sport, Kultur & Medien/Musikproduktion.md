@@ -34,6 +34,9 @@ status: "new"
 > Die Musikproduktion braucht ein gutes Studio.
 > *Music production needs a good studio.*
 
+**Phrases & Expressions:**
+- **Die Musikproduktion braucht ein gutes Studio** — *Music production needs a good studio* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K11 12a (Die Jacke gefällt mir!)
 <!-- bank:end -->
 

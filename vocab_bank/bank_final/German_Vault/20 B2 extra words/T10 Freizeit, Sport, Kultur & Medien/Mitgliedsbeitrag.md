@@ -33,6 +33,11 @@ status: "new"
 > Der Mitgliedsbeitrag wird monatlich abgebucht.
 > *The membership fee is debited monthly.*
 
+**Phrases & Expressions:**
+- **den Mitgliedsbeitrag zahlen** — *membership fee*
+- **der jährliche Mitgliedsbeitrag** — *membership fee*
+- **Mitgliedsbeitrag erhöhen** — *membership fee*
+
 **Collocations**
 - den Mitgliedsbeitrag zahlen
 - der jährliche Mitgliedsbeitrag

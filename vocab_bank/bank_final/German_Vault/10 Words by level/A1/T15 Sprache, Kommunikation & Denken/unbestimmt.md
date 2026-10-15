@@ -30,6 +30,10 @@ status: "new"
 > Hier braucht man den unbestimmten Artikel.
 > *Here you need the indefinite article.*
 
+**Phrases & Expressions:**
+- **der unbestimmte Artikel** — *indefinite; vague*
+- **auf unbestimmte Zeit** — *indefinite; vague*
+
 **Collocations**
 - der unbestimmte Artikel
 - auf unbestimmte Zeit

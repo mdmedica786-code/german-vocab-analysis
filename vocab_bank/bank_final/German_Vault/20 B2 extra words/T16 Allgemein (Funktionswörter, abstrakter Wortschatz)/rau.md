@@ -29,6 +29,11 @@ status: "new"
 > Seine Stimme klingt heute ganz rau.
 > *His voice sounds quite hoarse today.*
 
+**Phrases & Expressions:**
+- **eine raue Stimme** — *rough; hoarse; harsh*
+- **raues Klima** — *rough; hoarse; harsh*
+- **raue Haut** — *rough; hoarse; harsh*
+
 **Collocations**
 - eine raue Stimme
 - raues Klima

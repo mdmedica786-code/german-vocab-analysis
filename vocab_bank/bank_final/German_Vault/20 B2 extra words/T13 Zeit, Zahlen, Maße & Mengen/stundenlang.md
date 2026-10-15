@@ -29,6 +29,11 @@ status: "new"
 > Wir haben stundenlang auf den Bus gewartet.
 > *We waited for the bus for hours.*
 
+**Phrases & Expressions:**
+- **stundenlang warten** — *for hours; lasting hours*
+- **stundenlang reden** — *for hours; lasting hours*
+- **stundenlang dauern** — *for hours; lasting hours*
+
 **Collocations**
 - stundenlang warten
 - stundenlang reden

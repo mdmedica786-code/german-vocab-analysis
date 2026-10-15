@@ -31,6 +31,9 @@ status: "new"
 > Der Bahnradfahrer trainiert im Velodrom.
 > *The track cyclist trains in the velodrome.*
 
+**Phrases & Expressions:**
+- **Der Bahnradfahrer trainiert im Velodrom** — *The track cyclist trains in the velodrome* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->
 

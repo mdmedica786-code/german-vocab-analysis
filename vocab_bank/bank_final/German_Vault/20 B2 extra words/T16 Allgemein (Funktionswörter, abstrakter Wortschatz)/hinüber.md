@@ -29,6 +29,11 @@ status: "new"
 > Er ging zur anderen Straßenseite hinüber.
 > *He went across to the other side of the street.*
 
+**Phrases & Expressions:**
+- **über die Brücke hinüber** — *over; across*
+- **zu jemandem hinüber** — *over; across*
+- **hinüber sein** — *over; across*
+
 **Collocations**
 - über die Brücke hinüber
 - zu jemandem hinüber

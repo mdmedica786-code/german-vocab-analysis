@@ -33,6 +33,11 @@ status: "new"
 > Im Wald wachsen große Farne.
 > *Large ferns grow in the forest.*
 
+**Phrases & Expressions:**
+- **Farne im Wald** — *fern*
+- **ein Farn im Garten** — *fern*
+- **zwischen Farnen** — *fern*
+
 **Collocations**
 - Farne im Wald
 - ein Farn im Garten

@@ -29,6 +29,11 @@ status: "new"
 > Die Zeit ist kostbar.
 > *Time is precious.*
 
+**Phrases & Expressions:**
+- **ein kostbares Geschenk** — *precious; valuable*
+- **kostbare Zeit** — *precious; valuable*
+- **kostbar sein** — *precious; valuable*
+
 **Collocations**
 - ein kostbares Geschenk
 - kostbare Zeit

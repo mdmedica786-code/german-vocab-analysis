@@ -29,6 +29,10 @@ status: "new"
 > Er spart auf Teufel komm raus für das Haus.
 > *He is saving like crazy for the house.*
 
+**Phrases & Expressions:**
+- **wie verrückt** — *like crazy; at all costs*
+- **um jeden Preis** — *like crazy; at all costs*
+
 **Collocations**
 - wie verrückt
 - um jeden Preis

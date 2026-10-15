@@ -32,6 +32,10 @@ status: "new"
 > Der Titel des Buches lautet „Faust“.
 > *The title of the book is "Faust".*
 
+**Phrases & Expressions:**
+- **Mein Fazit lautet: ...** — My conclusion is: ... *([[B2-08 Zusammenfassen, Fazit und Schlussfolgerung|Fazit ziehen]] · B2)*
+- **Die Fragestellung lautet: Besteht eine Indikation zur Herzkatheteruntersuchung?** — The question is: Is there an indication for cardiac catheterisation? *([[FSP-19 Übergabe, Konsil und Rücksprache|Konsil anfordern]] · C1)*
+
 **Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
 <!-- bank:end -->
 

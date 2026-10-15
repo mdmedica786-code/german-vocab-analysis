@@ -30,6 +30,9 @@ status: "new"
 > Wir sind spontan ins Kino gegangen.
 > *We went to the cinema spontaneously.*
 
+**Phrases & Expressions:**
+- **Wir sind spontan ins Kino gegangen** — *We went to the cinema spontaneously* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 3c (Leben in der Stadt)
 <!-- bank:end -->
 

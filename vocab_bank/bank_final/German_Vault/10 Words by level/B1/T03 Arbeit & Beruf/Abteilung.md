@@ -34,6 +34,9 @@ status: "new"
 > Meine Freundin arbeitet in der Abteilung von Frau Kaufmann.
 > *My friend works in Mrs Kaufmann's department.*
 
+**Phrases & Expressions:**
+- **Meine Freundin arbeitet in der Abteilung von Frau Kaufmann** — *My friend works in Mrs Kaufmann's department* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

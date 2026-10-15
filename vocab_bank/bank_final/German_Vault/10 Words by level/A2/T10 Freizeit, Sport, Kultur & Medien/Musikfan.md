@@ -34,6 +34,9 @@ status: "new"
 > Mein Bruder ist ein großer Musikfan.
 > *My brother is a big music fan.*
 
+**Phrases & Expressions:**
+- **Mein Bruder ist ein großer Musikfan** — *My brother is a big music fan* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K4 10a (Große und kleine Gefühle)
 <!-- bank:end -->
 

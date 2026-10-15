@@ -33,6 +33,11 @@ status: "new"
 > Der Lyriker liest aus seinem neuen Gedichtband.
 > *The poet reads from his new volume of poems.*
 
+**Phrases & Expressions:**
+- **ein bekannter Lyriker** — *poet; lyric poet (male)*
+- **ein zeitgenössischer Lyriker** — *poet; lyric poet (male)*
+- **als Lyriker arbeiten** — *poet; lyric poet (male)*
+
 **Collocations**
 - ein bekannter Lyriker
 - ein zeitgenössischer Lyriker

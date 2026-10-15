@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Als Belohnung gibt es ein Eis.
 > *As a reward there is an ice cream.*
+
+**Phrases & Expressions:**
+- **Als Belohnung gibt es ein Eis** — *As a reward there is an ice cream* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,11 @@ status: "new"
 > Die Überwachung öffentlicher Plätze ist umstritten.
 > *The surveillance of public places is controversial.*
 
+**Phrases & Expressions:**
+- **Überwachung durch + Akk.** — *surveillance; monitoring*
+- **ständige Überwachung** — *surveillance; monitoring*
+- **unter Überwachung stehen** — *surveillance; monitoring*
+
 **Collocations**
 - Überwachung durch + Akk.
 - ständige Überwachung

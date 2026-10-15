@@ -33,6 +33,11 @@ status: "new"
 > Für einen Marathon braucht man viel Ausdauer.
 > *For a marathon you need a lot of endurance.*
 
+**Phrases & Expressions:**
+- **Ausdauer haben** — *endurance; perseverance*
+- **Ausdauer trainieren** — *endurance; perseverance*
+- **mit Ausdauer** — *endurance; perseverance*
+
 **Collocations**
 - Ausdauer haben
 - Ausdauer trainieren

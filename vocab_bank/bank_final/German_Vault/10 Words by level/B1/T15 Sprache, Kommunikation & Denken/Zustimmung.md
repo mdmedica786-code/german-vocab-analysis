@@ -34,6 +34,9 @@ status: "new"
 > Wir brauchen Ihre Zustimmung, um Ihnen Werbung zu schicken.
 > *We need your consent to send you advertising.*
 
+**Phrases & Expressions:**
+- **Wir brauchen Ihre Zustimmung, um Ihnen Werbung zu schicken** — *We need your consent to send you advertising* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

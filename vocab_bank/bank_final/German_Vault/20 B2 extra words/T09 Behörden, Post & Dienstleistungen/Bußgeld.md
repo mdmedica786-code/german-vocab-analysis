@@ -33,6 +33,11 @@ status: "new"
 > Für das Falschparken musste er ein Bußgeld zahlen.
 > *He had to pay a fine for parking illegally.*
 
+**Phrases & Expressions:**
+- **ein Bußgeld zahlen** — *fine (for a minor offence)*
+- **ein Bußgeld verhängen** — *fine (for a minor offence)*
+- **mit einem Bußgeld belegen** — *fine (for a minor offence)*
+
 **Collocations**
 - ein Bußgeld zahlen
 - ein Bußgeld verhängen

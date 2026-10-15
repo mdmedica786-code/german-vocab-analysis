@@ -33,6 +33,11 @@ status: "new"
 > Der Film bedient viele Klischees über Deutsche.
 > *The film caters to many clichés about Germans.*
 
+**Phrases & Expressions:**
+- **ein Klischee bedienen** — *cliché; stereotype*
+- **Klischees abbauen** — *cliché; stereotype*
+- **ein altes Klischee** — *cliché; stereotype*
+
 **Collocations**
 - ein Klischee bedienen
 - Klischees abbauen

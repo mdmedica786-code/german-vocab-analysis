@@ -34,6 +34,14 @@ status: "new"
 > Wer sorgt denn für die Kinder?
 > *Who is looking after the children, then?*
 
+**Phrases & Expressions:**
+- **dafür sorgen, dass ...** — to make sure that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **mach dir keine Sorgen** — don't worry *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · A2)*
+- **dafür zu sorgen, dass ...** — to make sure that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+- **dafür gesorgt, dass ...** — made sure that ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **sorgt dafür, dass ...** — makes sure that ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **sorgen Sie dafür, dass ...** — make sure that ... *([[Vorschlagen - Raten (suggest, advise)|Vorschlagen / Raten (suggest, advise)]] · B2)*
+
 **Collocations**
 - für die Kinder sorgen
 - für Ruhe sorgen

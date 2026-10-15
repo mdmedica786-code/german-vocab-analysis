@@ -34,6 +34,9 @@ status: "new"
 > Der Konzertbeginn ist um 20 Uhr.
 > *The concert starts at 8 p.m.*
 
+**Phrases & Expressions:**
+- **Der Konzertbeginn ist um 20 Uhr** — *The concert starts at 8 p.m* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden)
 <!-- bank:end -->
 

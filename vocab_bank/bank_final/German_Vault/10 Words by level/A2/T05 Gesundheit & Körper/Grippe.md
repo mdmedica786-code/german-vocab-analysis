@@ -36,6 +36,9 @@ status: "new"
 > Ich habe eine Grippe und kann leider nicht kommen.
 > **
 
+**Phrases & Expressions:**
+- **Ich habe eine Grippe und kann leider nicht kommen** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 6b (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

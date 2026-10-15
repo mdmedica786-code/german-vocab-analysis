@@ -33,6 +33,11 @@ status: "new"
 > Die Rechtsprechung der Gerichte ist nicht einheitlich.
 > *The case law of the courts is not uniform.*
 
+**Phrases & Expressions:**
+- **nach der Rechtsprechung** — *case law; judicature (court decisions)*
+- **ständige Rechtsprechung** — *case law; judicature (court decisions)*
+- **höchstrichterliche Rechtsprechung** — *case law; judicature (court decisions)*
+
 **Collocations**
 - nach der Rechtsprechung
 - ständige Rechtsprechung

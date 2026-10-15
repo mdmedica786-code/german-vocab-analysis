@@ -33,6 +33,11 @@ status: "new"
 > Die Universität verlieh ihm die Ehrendoktorwürde.
 > *The university awarded him an honorary doctorate.*
 
+**Phrases & Expressions:**
+- **die Ehrendoktorwürde verleihen** — *honorary doctorate*
+- **die Ehrendoktorwürde erhalten** — *honorary doctorate*
+- **mit der Ehrendoktorwürde ausgezeichnet** — *honorary doctorate*
+
 **Collocations**
 - die Ehrendoktorwürde verleihen
 - die Ehrendoktorwürde erhalten

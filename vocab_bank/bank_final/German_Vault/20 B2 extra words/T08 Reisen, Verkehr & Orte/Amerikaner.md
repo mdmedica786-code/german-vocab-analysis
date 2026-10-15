@@ -33,6 +33,11 @@ status: "new"
 > Er ist Amerikaner und lebt in Berlin.
 > *He is American and lives in Berlin.*
 
+**Phrases & Expressions:**
+- **ein Amerikaner** — *American*
+- **Amerikaner und Europäer** — *American*
+- **die Amerikaner wählen** — *American*
+
 **Collocations**
 - ein Amerikaner
 - Amerikaner und Europäer

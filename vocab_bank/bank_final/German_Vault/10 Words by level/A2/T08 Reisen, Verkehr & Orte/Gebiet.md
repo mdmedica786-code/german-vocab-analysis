@@ -35,6 +35,9 @@ status: "new"
 > In diesem Gebiet gibt es kaum Industrie.
 > *There is hardly any industry in this area.*
 
+**Phrases & Expressions:**
+- **In diesem Gebiet gibt es kaum Industrie** — *There is hardly any industry in this area* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 12a (Sportlich, sportlich) · Goethe word list B1
 <!-- bank:end -->
 

@@ -33,6 +33,11 @@ status: "new"
 > Mit dem Spachtel glättet er die Wand vor dem Streichen.
 > *He smooths the wall with the putty knife before painting.*
 
+**Phrases & Expressions:**
+- **mit dem Spachtel verstreichen** — *putty knife; filling knife*
+- **einen Spachtel benutzen** — *putty knife; filling knife*
+- **Spachtel und Gips** — *putty knife; filling knife*
+
 **Collocations**
 - mit dem Spachtel verstreichen
 - einen Spachtel benutzen

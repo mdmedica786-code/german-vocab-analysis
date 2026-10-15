@@ -32,6 +32,14 @@ status: "new"
 > Er schreckte nicht davor zurück, die Wahrheit zu sagen.
 > *He did not shy away from telling the truth.*
 
+**Phrases & Expressions:**
+- **hin und zurück** — there and back; return *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Bitte rufen Sie mich unter der Nummer ... zurück.** — Please call me back on the number ... *([[B2-07 Telefonieren|Nachricht hinterlassen]] · B1)*
+- **... geht stetig zurück.** — ... is steadily declining. *([[B2-11 Vergleichen und Entwicklungen beschreiben|Rückgang beschreiben]] · B2)*
+- **vor etwas zurückschrecken** — *to shrink back; to shy away from*
+- **nicht zurückschrecken vor** — *to shrink back; to shy away from*
+- **erschrocken zurückschrecken** — *to shrink back; to shy away from*
+
 **Collocations**
 - vor etwas zurückschrecken
 - nicht zurückschrecken vor

@@ -29,6 +29,10 @@ status: "new"
 > Das Problem ist weitgehend gelöst.
 > *The problem is largely solved.*
 
+**Phrases & Expressions:**
+- **weitgehend unbekannt** — *largely; to a great extent*
+- **weitgehend zufrieden** — *largely; to a great extent*
+
 **Collocations**
 - weitgehend unbekannt
 - weitgehend zufrieden

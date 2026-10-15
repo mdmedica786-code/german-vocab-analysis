@@ -31,6 +31,13 @@ status: "new"
 > Sagen Sie mir bitte möglichst bald, ob Ihnen der Termin passt.
 > *Please tell me as soon as possible whether the appointment suits you.*
 
+**Phrases & Expressions:**
+- **Gehen Sie möglichst jeden Tag zur gleichen Zeit ins Bett.** — If possible, go to bed at the same time every day. *([[FSP-14 Beraten und motivieren - Lebensstil und Prävention|Schlafhygiene]] · B1)*
+- **möglichst bald** — *as ... as possible*
+- **möglichst schnell** — *as ... as possible*
+- **möglichst viel** — *as ... as possible*
+- **möglichst wenig** — *as ... as possible*
+
 **Collocations**
 - möglichst bald
 - möglichst schnell

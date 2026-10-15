@@ -34,6 +34,9 @@ status: "new"
 > Wir renovieren das ganze Haus.
 > **
 
+**Phrases & Expressions:**
+- **Wir renovieren das ganze Haus** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 1b (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

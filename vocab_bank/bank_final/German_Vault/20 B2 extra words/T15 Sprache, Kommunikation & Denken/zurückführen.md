@@ -32,6 +32,14 @@ status: "new"
 > Der Unfall ist auf menschliches Versagen zurückzuführen.
 > *The accident is to be attributed to human error.*
 
+**Phrases & Expressions:**
+- **führt dazu, dass ...** — leads to ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **führt zu ...** — leads to ... *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **dazu führt, dass ...** — leads to ... (the result that) *([[Folgen (consequence)|Folgen (consequence)]] · B2)*
+- **hin und zurück** — there and back; return *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · A2)*
+- **Das führt mich zu der Frage, ob ...** — This leads me to the question of whether ... *([[B2-01 Vortrag B2 - Thema, Aufbau, Zahlen und Grafiken|Übergang gestalten]] · B2)*
+- **Bitte rufen Sie mich unter der Nummer ... zurück.** — Please call me back on the number ... *([[B2-07 Telefonieren|Nachricht hinterlassen]] · B1)*
+
 **Collocations**
 - zurückführen auf + Akk.
 - darauf zurückzuführen sein

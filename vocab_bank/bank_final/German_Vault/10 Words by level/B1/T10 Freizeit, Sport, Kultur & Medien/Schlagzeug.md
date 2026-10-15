@@ -34,6 +34,9 @@ status: "new"
 > Das Schlagzeug ist sehr laut.
 > *The drums are very loud.*
 
+**Phrases & Expressions:**
+- **Das Schlagzeug ist sehr laut** — *The drums are very loud* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9 ÜB (Blick nach vorn)
 <!-- bank:end -->
 

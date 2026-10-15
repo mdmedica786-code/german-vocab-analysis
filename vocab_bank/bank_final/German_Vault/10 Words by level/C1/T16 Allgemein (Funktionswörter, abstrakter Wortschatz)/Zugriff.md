@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Nur Ärzte haben Zugriff auf die Patientendaten.
 > *Only doctors have access to the patient data.*
+
+**Phrases & Expressions:**
+- **Nur Ärzte haben Zugriff auf die Patientendaten** — *Only doctors have access to the patient data* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

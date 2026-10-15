@@ -33,6 +33,11 @@ status: "new"
 > Nach dem Regen sprangen die Kinder durch die Pfützen.
 > *After the rain the children jumped through the puddles.*
 
+**Phrases & Expressions:**
+- **in eine Pfütze treten** — *puddle*
+- **durch die Pfütze springen** — *puddle*
+- **eine große Pfütze** — *puddle*
+
 **Collocations**
 - in eine Pfütze treten
 - durch die Pfütze springen

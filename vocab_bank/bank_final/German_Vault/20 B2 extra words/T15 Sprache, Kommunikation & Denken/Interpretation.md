@@ -33,6 +33,11 @@ status: "new"
 > Dieses Gedicht lässt mehrere Interpretationen zu.
 > *This poem allows several interpretations.*
 
+**Phrases & Expressions:**
+- **eine Interpretation geben** — *interpretation*
+- **Interpretationen zulassen** — *interpretation*
+- **eine falsche Interpretation** — *interpretation*
+
 **Collocations**
 - eine Interpretation geben
 - Interpretationen zulassen

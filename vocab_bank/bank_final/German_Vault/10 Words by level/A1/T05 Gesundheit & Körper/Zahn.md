@@ -35,6 +35,9 @@ status: "new"
 > Der Zahn tut mir schon seit einer Woche weh.
 > *My tooth has been hurting for a week.*
 
+**Phrases & Expressions:**
+- **Der Zahn tut mir schon seit einer Woche weh** — *My tooth has been hurting for a week* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K8 6b ÜB (Fit und gesund) · Goethe word list A2
 <!-- bank:end -->
 

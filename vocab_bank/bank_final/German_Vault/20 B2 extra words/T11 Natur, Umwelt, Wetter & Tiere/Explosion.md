@@ -33,6 +33,11 @@ status: "new"
 > Die Explosion war in der ganzen Stadt zu hören.
 > *The explosion could be heard throughout the city.*
 
+**Phrases & Expressions:**
+- **eine laute Explosion** — *explosion*
+- **bei einer Explosion** — *explosion*
+- **zu einer Explosion kommen** — *explosion*
+
 **Collocations**
 - eine laute Explosion
 - bei einer Explosion

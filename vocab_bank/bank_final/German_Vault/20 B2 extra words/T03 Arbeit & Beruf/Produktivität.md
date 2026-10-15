@@ -33,6 +33,11 @@ status: "new"
 > Gute Pausen steigern die Produktivität.
 > *Good breaks increase productivity.*
 
+**Phrases & Expressions:**
+- **die Produktivität steigern** — *productivity*
+- **hohe Produktivität** — *productivity*
+- **die Produktivität sinkt** — *productivity*
+
 **Collocations**
 - die Produktivität steigern
 - hohe Produktivität

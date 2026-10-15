@@ -31,6 +31,11 @@ status: "new"
 > Seine Antwort verblüffte alle.
 > *His answer astonished everyone.*
 
+**Phrases & Expressions:**
+- **jemanden verblüffen** — *to astonish; to baffle*
+- **verblüfft sein** — *to astonish; to baffle*
+- **verblüffend einfach** — *to astonish; to baffle*
+
 **Collocations**
 - jemanden verblüffen
 - verblüfft sein

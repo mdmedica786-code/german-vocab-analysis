@@ -30,6 +30,9 @@ status: "new"
 > In der Schweiz gibt es einen deutschsprachigen Teil.
 > *In Switzerland there is a German-speaking part.*
 
+**Phrases & Expressions:**
+- **In der Schweiz gibt es einen deutschsprachigen Teil** — *In Switzerland there is a German-speaking part* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K3 9a (In Hamburg)
 <!-- bank:end -->
 

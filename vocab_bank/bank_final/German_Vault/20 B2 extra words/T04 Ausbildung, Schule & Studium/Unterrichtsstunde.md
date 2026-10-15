@@ -33,6 +33,11 @@ status: "new"
 > Eine Unterrichtsstunde dauert 45 Minuten.
 > *A lesson lasts 45 minutes.*
 
+**Phrases & Expressions:**
+- **eine Unterrichtsstunde halten** — *lesson; class period*
+- **Unterrichtsstunden planen** — *lesson; class period*
+- **in der ersten Unterrichtsstunde** — *lesson; class period*
+
 **Collocations**
 - eine Unterrichtsstunde halten
 - Unterrichtsstunden planen

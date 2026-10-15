@@ -33,6 +33,11 @@ status: "new"
 > Für die Hilfe erwartet er keine Gegenleistung.
 > *He expects nothing in return for the help.*
 
+**Phrases & Expressions:**
+- **eine Gegenleistung erbringen** — *something in return; consideration*
+- **als Gegenleistung** — *something in return; consideration*
+- **ohne Gegenleistung** — *something in return; consideration*
+
 **Collocations**
 - eine Gegenleistung erbringen
 - als Gegenleistung

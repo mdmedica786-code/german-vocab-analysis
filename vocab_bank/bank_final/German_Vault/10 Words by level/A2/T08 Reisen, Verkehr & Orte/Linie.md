@@ -35,6 +35,10 @@ status: "new"
 > Zum Hauptbahnhof können Sie mit der Linie 8 fahren.
 > *You can take line 8 to the main station.*
 
+**Phrases & Expressions:**
+- **in erster Linie** — primarily *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · B2)*
+- **in erster Linie auf ...** — primarily on ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+
 **Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil) · Goethe word list B1
 <!-- bank:end -->
 

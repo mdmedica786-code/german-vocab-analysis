@@ -33,6 +33,9 @@ status: "new"
 > Du sollst nicht lügen.
 > *You shouldn't lie.*
 
+**Phrases & Expressions:**
+- **Du sollst nicht lügen** — *You shouldn't lie* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 12b (Zwischenmenschliches) · Goethe word list A2
 <!-- bank:end -->
 

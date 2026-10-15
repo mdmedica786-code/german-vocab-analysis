@@ -35,6 +35,9 @@ status: "new"
 > Das Land muss mehr Geld für Umweltschutz ausgeben.
 > *The country has to spend more money on environmental protection.*
 
+**Phrases & Expressions:**
+- **Das Land muss mehr Geld für Umweltschutz ausgeben** — *The country has to spend more money on environmental protection* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K5 2b ÜB (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->
 

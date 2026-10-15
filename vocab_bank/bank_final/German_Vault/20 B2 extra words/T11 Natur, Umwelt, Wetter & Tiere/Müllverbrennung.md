@@ -33,6 +33,11 @@ status: "new"
 > Bei der Müllverbrennung entsteht Strom und Wärme.
 > *Waste incineration produces electricity and heat.*
 
+**Phrases & Expressions:**
+- **Müllverbrennungsanlage** — *waste incineration*
+- **Müllverbrennung und Recycling** — *waste incineration*
+- **Müllverbrennung ausbauen** — *waste incineration*
+
 **Collocations**
 - Müllverbrennungsanlage
 - Müllverbrennung und Recycling

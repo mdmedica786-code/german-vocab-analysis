@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Die Erweiterung der Klinik beginnt im Frühjahr.
 > *The extension of the clinic begins in spring.*
+
+**Phrases & Expressions:**
+- **Die Erweiterung der Klinik beginnt im Frühjahr** — *The extension of the clinic begins in spring* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

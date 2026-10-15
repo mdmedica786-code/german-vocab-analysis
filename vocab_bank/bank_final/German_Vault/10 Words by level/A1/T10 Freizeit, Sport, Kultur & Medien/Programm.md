@@ -35,6 +35,9 @@ status: "new"
 > Dieses Programm im Radio interessiert mich nicht.
 > *I'm not interested in this radio programme.*
 
+**Phrases & Expressions:**
+- **Dieses Programm im Radio interessiert mich nicht** — *I'm not interested in this radio programme* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden) · Goethe word list A2
 <!-- bank:end -->
 

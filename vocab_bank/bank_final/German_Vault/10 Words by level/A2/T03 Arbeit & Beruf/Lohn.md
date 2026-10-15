@@ -35,6 +35,9 @@ status: "new"
 > Sie bekommen Ihren Lohn immer am Ende des Monats.
 > *You always get your wages at the end of the month.*
 
+**Phrases & Expressions:**
+- **Sie bekommen Ihren Lohn immer am Ende des Monats** — *You always get your wages at the end of the month* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 2a (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

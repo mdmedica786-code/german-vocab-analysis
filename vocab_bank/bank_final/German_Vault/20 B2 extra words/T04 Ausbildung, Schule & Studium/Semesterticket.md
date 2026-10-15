@@ -30,6 +30,11 @@ status: "new"
 > Mit dem Semesterticket kann man den ganzen Nahverkehr nutzen.
 > *With the semester ticket you can use the whole local transport network.*
 
+**Phrases & Expressions:**
+- **das Semesterticket nutzen** — *semester ticket (student travel pass)*
+- **ein Semesterticket kaufen** — *semester ticket (student travel pass)*
+- **im Semesterbeitrag enthalten** — *semester ticket (student travel pass)*
+
 **Collocations**
 - das Semesterticket nutzen
 - ein Semesterticket kaufen

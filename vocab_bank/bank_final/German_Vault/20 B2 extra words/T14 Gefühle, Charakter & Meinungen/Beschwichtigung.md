@@ -33,6 +33,11 @@ status: "new"
 > Alle Beschwichtigungen halfen nichts, der Kunde blieb wütend.
 > *No amount of soothing helped; the customer stayed angry.*
 
+**Phrases & Expressions:**
+- **beschwichtigende Worte** — *appeasement; soothing*
+- **Beschwichtigungsversuch** — *appeasement; soothing*
+- **zur Beschwichtigung** — *appeasement; soothing*
+
 **Collocations**
 - beschwichtigende Worte
 - Beschwichtigungsversuch

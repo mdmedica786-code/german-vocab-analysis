@@ -34,6 +34,9 @@ status: "new"
 > Beim Skifahren hält man in jeder Hand einen Skistock.
 > *When skiing you hold a ski pole in each hand.*
 
+**Phrases & Expressions:**
+- **Beim Skifahren hält man in jeder Hand einen Skistock** — *When skiing you hold a ski pole in each hand* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K9 1a (Sportlich, sportlich)
 <!-- bank:end -->
 

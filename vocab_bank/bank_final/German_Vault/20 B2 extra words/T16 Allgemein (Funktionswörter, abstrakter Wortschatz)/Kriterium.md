@@ -33,6 +33,11 @@ status: "new"
 > Das wichtigste Kriterium bei der Auswahl ist die Qualität.
 > *The most important criterion in the selection is quality.*
 
+**Phrases & Expressions:**
+- **ein Kriterium erfüllen** — *criterion*
+- **nach Kriterien auswählen** — *criterion*
+- **strenge Kriterien** — *criterion*
+
 **Collocations**
 - ein Kriterium erfüllen
 - nach Kriterien auswählen

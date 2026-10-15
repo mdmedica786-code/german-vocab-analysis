@@ -33,6 +33,11 @@ status: "new"
 > Ohne Sonnencreme bekommt man schnell einen Sonnenbrand.
 > *Without sun cream you quickly get sunburn.*
 
+**Phrases & Expressions:**
+- **einen Sonnenbrand bekommen** — *sunburn*
+- **einen Sonnenbrand haben** — *sunburn*
+- **vor Sonnenbrand schützen** — *sunburn*
+
 **Collocations**
 - einen Sonnenbrand bekommen
 - einen Sonnenbrand haben

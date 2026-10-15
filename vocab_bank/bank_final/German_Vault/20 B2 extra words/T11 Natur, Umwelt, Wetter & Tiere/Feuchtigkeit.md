@@ -33,6 +33,11 @@ status: "new"
 > Die Feuchtigkeit in der Wohnung verursacht Schimmel.
 > *The dampness in the flat causes mould.*
 
+**Phrases & Expressions:**
+- **hohe Feuchtigkeit** — *moisture; humidity; dampness*
+- **vor Feuchtigkeit schützen** — *moisture; humidity; dampness*
+- **die Feuchtigkeit messen** — *moisture; humidity; dampness*
+
 **Collocations**
 - hohe Feuchtigkeit
 - vor Feuchtigkeit schützen

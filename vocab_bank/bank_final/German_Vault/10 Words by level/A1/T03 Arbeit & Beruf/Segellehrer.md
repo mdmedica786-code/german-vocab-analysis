@@ -34,6 +34,9 @@ status: "new"
 > Der Segellehrer erklärt die Knoten.
 > *The sailing instructor explains the knots.*
 
+**Phrases & Expressions:**
+- **Der Segellehrer erklärt die Knoten** — *The sailing instructor explains the knots* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 1b (Studium und Beruf)
 <!-- bank:end -->
 

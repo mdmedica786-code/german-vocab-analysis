@@ -32,6 +32,11 @@ status: "new"
 > Die Stadt schreibt die Stelle öffentlich aus.
 > *The city advertises the position publicly.*
 
+**Phrases & Expressions:**
+- **eine Stelle ausschreiben** — *to write out; to advertise (a job); to announce*
+- **ein Wort ausschreiben** — *to write out; to advertise (a job); to announce*
+- **einen Wettbewerb ausschreiben** — *to write out; to advertise (a job); to announce*
+
 **Collocations**
 - eine Stelle ausschreiben
 - ein Wort ausschreiben

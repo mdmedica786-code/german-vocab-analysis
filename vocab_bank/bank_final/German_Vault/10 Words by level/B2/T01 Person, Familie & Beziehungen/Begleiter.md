@@ -32,6 +32,9 @@ status: "new"
 > [!example] Beispiel
 > Der Patient kam mit einem Begleiter.
 > *The patient came with a companion.*
+
+**Phrases & Expressions:**
+- **Der Patient kam mit einem Begleiter** — *The patient came with a companion* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

@@ -34,6 +34,9 @@ status: "new"
 > Mein Vater hört gern Rockmusik.
 > *My father likes listening to rock music.*
 
+**Phrases & Expressions:**
+- **Mein Vater hört gern Rockmusik** — *My father likes listening to rock music* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K12 3a (Gute Unterhaltung!)
 <!-- bank:end -->
 

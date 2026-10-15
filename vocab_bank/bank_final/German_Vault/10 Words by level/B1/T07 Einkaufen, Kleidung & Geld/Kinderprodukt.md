@@ -31,6 +31,9 @@ status: "new"
 > Dieses Kinderprodukt ist sehr sicher.
 > *This children's product is very safe.*
 
+**Phrases & Expressions:**
+- **Dieses Kinderprodukt ist sehr sicher** — *This children's product is very safe* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 11 (Das ist ja praktisch!)
 <!-- bank:end -->
 

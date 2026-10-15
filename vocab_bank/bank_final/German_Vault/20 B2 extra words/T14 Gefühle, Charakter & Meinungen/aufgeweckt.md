@@ -29,6 +29,11 @@ status: "new"
 > Das Mädchen ist für sein Alter sehr aufgeweckt.
 > *The girl is very bright for her age.*
 
+**Phrases & Expressions:**
+- **ein aufgewecktes Kind** — *bright; alert*
+- **aufgeweckt wirken** — *bright; alert*
+- **geistig aufgeweckt** — *bright; alert*
+
 **Collocations**
 - ein aufgewecktes Kind
 - aufgeweckt wirken

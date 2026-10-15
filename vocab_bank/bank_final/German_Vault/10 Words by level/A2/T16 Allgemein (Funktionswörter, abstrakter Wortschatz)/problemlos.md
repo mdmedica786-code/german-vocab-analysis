@@ -30,6 +30,9 @@ status: "new"
 > Die Anmeldung hat problemlos funktioniert.
 > *The registration worked without any problems.*
 
+**Phrases & Expressions:**
+- **Die Anmeldung hat problemlos funktioniert** — *The registration worked without any problems* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
 <!-- bank:end -->
 

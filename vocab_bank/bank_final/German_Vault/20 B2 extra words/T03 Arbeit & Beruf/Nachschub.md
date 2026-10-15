@@ -33,6 +33,11 @@ status: "new"
 > Der Nachschub an Getränken ist bereits unterwegs.
 > *The fresh supply of drinks is already on its way.*
 
+**Phrases & Expressions:**
+- **Nachschub holen** — *fresh supplies; reinforcements*
+- **für Nachschub sorgen** — *fresh supplies; reinforcements*
+- **auf Nachschub warten** — *fresh supplies; reinforcements*
+
 **Collocations**
 - Nachschub holen
 - für Nachschub sorgen

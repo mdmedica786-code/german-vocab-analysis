@@ -33,6 +33,11 @@ status: "new"
 > Sie besucht das Grab ihrer Großmutter.
 > *She visits her grandmother's grave.*
 
+**Phrases & Expressions:**
+- **ein Grab besuchen** — *grave*
+- **am Grab stehen** — *grave*
+- **ein frisches Grab** — *grave*
+
 **Collocations**
 - ein Grab besuchen
 - am Grab stehen

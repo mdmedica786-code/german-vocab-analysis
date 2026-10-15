@@ -34,6 +34,9 @@ status: "new"
 > Ich rufe auf Empfehlung von Herrn Weber an.
 > *I am calling on the recommendation of Mr Weber.*
 
+**Phrases & Expressions:**
+- **Ich rufe auf Empfehlung von Herrn Weber an** — *I am calling on the recommendation of Mr Weber* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

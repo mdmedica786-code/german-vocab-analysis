@@ -35,6 +35,9 @@ status: "new"
 > Schnell! Rufen Sie die Feuerwehr! Die Nummer ist: 112.
 > *Quick! Call the fire brigade! The number is 112.*
 
+**Phrases & Expressions:**
+- **Schnell! Rufen Sie die Feuerwehr! Die Nummer ist: 112** — *Quick! Call the fire brigade! The number is 112* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K5 1d (Leben in der Stadt) · Goethe word list B1
 <!-- bank:end -->
 

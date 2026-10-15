@@ -33,6 +33,11 @@ status: "new"
 > Er gab ihm einen leichten Stoß.
 > *He gave him a light push.*
 
+**Phrases & Expressions:**
+- **ein Stoß Papier** — *push; shock; pile*
+- **einen Stoß bekommen** — *push; shock; pile*
+- **sich einen Stoß geben** — *push; shock; pile*
+
 **Collocations**
 - ein Stoß Papier
 - einen Stoß bekommen

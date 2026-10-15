@@ -32,6 +32,14 @@ status: "new"
 > Wie kommen wir am besten zum Stadion hin?
 > *What is the best way for us to get to the stadium?*
 
+**Phrases & Expressions:**
+- **hin und her** — back and forth *([[Ort - Richtung (location, direction)|Ort / Richtung (location, direction)]] · B1)*
+- **kommt es zu ...** — it leads to ...; there is ... *([[Folgen (consequence)|Folgen (consequence)]] · C1)*
+- **hinzu kommt, dass ...** — in addition, ... *([[Gliedern - Verknüpfen (structuring, discourse markers)|Gliedern / Verknüpfen (structuring, discourse markers)]] · C1)*
+- **hin und wieder** — now and then *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · B2)*
+- **bis hin zu ...** — right up to ... *([[Menge - Häufigkeit (quantity, frequency)|Menge / Häufigkeit (quantity, frequency)]] · C1)*
+- **kam es zu ...** — there was ...; it led to ... *([[Folgen (consequence)|Folgen (consequence)]] · C1)*
+
 **Collocations**
 - wo kommst du hin
 - gut hinkommen

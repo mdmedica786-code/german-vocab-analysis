@@ -33,6 +33,9 @@ status: "new"
 > Ich habe das Geld hinter dem Regal versteckt.
 > *I hid the money behind the shelf.*
 
+**Phrases & Expressions:**
+- **Ich habe das Geld hinter dem Regal versteckt** — *I hid the money behind the shelf* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

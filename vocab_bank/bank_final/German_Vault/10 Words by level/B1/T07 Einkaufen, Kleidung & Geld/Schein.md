@@ -35,6 +35,9 @@ status: "new"
 > Kannst du einen Schein in Kleingeld wechseln?
 > *Can you change a note into small change?*
 
+**Phrases & Expressions:**
+- **Kannst du einen Schein in Kleingeld wechseln** — *Can you change a note into small change* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K12 3b ÜB (Geld regiert die Welt?) · Goethe word list B1
 <!-- bank:end -->
 

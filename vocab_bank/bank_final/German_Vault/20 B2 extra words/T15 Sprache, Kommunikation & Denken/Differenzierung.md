@@ -33,6 +33,11 @@ status: "new"
 > Eine genauere Differenzierung ist nötig.
 > *A more precise differentiation is necessary.*
 
+**Phrases & Expressions:**
+- **eine feine Differenzierung** — *differentiation*
+- **Differenzierung zwischen** — *differentiation*
+- **nach Alter differenzieren** — *differentiation*
+
 **Collocations**
 - eine feine Differenzierung
 - Differenzierung zwischen

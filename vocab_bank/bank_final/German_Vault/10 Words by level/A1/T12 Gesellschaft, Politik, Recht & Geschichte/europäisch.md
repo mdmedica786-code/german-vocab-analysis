@@ -31,6 +31,12 @@ status: "new"
 > Deutschland ist ein europäisches Land.
 > *Germany is a European country.*
 
+**Phrases & Expressions:**
+- **die Europäische Union** — *European*
+- **europäische Länder** — *European*
+- **europäische Kultur** — *European*
+- **europäisches Recht** — *European*
+
 **Collocations**
 - die Europäische Union
 - europäische Länder

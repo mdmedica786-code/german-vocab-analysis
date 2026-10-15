@@ -34,6 +34,9 @@ status: "new"
 > Was darf ich dir anbieten?
 > *What can I offer you?*
 
+**Phrases & Expressions:**
+- **Ich kann Ihnen ein Gespräch mit unserer Psychologin anbieten.** — I can offer you a conversation with our psychologist. *([[FSP-13 Schlechte Nachrichten überbringen und Empathie zeigen|Unterstützung anbieten]] · B2)*
+
 **Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle) · Goethe word list A1
 <!-- bank:end -->
 

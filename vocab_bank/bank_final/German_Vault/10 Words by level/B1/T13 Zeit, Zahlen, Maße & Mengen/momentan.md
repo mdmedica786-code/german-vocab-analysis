@@ -30,6 +30,9 @@ status: "new"
 > Momentan habe ich keine Zeit.
 > *At the moment I have no time.*
 
+**Phrases & Expressions:**
+- **Momentan habe ich keine Zeit** — *At the moment I have no time* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 13a (Gute Reise!)
 <!-- bank:end -->
 

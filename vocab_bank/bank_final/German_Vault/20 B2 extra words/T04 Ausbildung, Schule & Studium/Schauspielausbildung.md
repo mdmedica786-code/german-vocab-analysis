@@ -30,6 +30,11 @@ status: "new"
 > Ihre Schauspielausbildung dauerte vier Jahre.
 > *Her acting training lasted four years.*
 
+**Phrases & Expressions:**
+- **eine Schauspielausbildung machen** — *acting training*
+- **die Schauspielausbildung abschließen** — *acting training*
+- **eine Schauspielausbildung beginnen** — *acting training*
+
 **Collocations**
 - eine Schauspielausbildung machen
 - die Schauspielausbildung abschließen

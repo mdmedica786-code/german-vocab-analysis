@@ -33,6 +33,11 @@ status: "new"
 > Im Winter trocknen wir die Wäsche auf dem Wäscheständer.
 > *In winter we dry the washing on the clothes airer.*
 
+**Phrases & Expressions:**
+- **den Wäscheständer aufstellen** — *clothes airer*
+- **Wäsche auf dem Wäscheständer** — *clothes airer*
+- **der Wäscheständer im Bad** — *clothes airer*
+
 **Collocations**
 - den Wäscheständer aufstellen
 - Wäsche auf dem Wäscheständer

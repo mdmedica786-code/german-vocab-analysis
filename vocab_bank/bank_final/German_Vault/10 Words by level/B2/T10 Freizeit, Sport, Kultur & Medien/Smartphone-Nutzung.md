@@ -33,6 +33,9 @@ status: "new"
 > [!example] Beispiel
 > Die Smartphone-Nutzung nimmt zu.
 > *Smartphone use is increasing.*
+
+**Phrases & Expressions:**
+- **Die Smartphone-Nutzung nimmt zu** — *Smartphone use is increasing* *(Beispiel im Kontext)*
 <!-- bank:end -->
 
 ## My notes

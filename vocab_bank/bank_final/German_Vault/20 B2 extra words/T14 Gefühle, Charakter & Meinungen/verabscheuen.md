@@ -31,6 +31,11 @@ status: "new"
 > Ich verabscheue Gewalt in jeder Form.
 > *I abhor violence in every form.*
 
+**Phrases & Expressions:**
+- **Gewalt verabscheuen** — *to detest; to abhor*
+- **zutiefst verabscheuen** — *to detest; to abhor*
+- **jemanden verabscheuen** — *to detest; to abhor*
+
 **Collocations**
 - Gewalt verabscheuen
 - zutiefst verabscheuen

@@ -32,6 +32,9 @@ status: "new"
 > Ich bin seit drei Jahren geschieden.
 > **
 
+**Phrases & Expressions:**
+- **Ich bin seit drei Jahren geschieden** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K1 1b (Und was machst du?) · Goethe word list A2
 <!-- bank:end -->
 

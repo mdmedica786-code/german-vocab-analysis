@@ -33,6 +33,11 @@ status: "new"
 > Das Auto stürzte in den Abgrund.
 > *The car plunged into the abyss.*
 
+**Phrases & Expressions:**
+- **am Abgrund stehen** — *abyss; precipice*
+- **in den Abgrund stürzen** — *abyss; precipice*
+- **ein tiefer Abgrund** — *abyss; precipice*
+
 **Collocations**
 - am Abgrund stehen
 - in den Abgrund stürzen

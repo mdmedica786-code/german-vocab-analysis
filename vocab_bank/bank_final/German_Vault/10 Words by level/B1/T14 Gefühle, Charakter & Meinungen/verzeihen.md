@@ -33,6 +33,9 @@ status: "new"
 > Das werde ich ihm nie verzeihen können.
 > *I will never be able to forgive him for that.*
 
+**Phrases & Expressions:**
+- **Verzeihen Sie bitte, dass ich ...** — Please forgive me for ... *([[B1-17 Sich entschuldigen und danken|Sich entschuldigen]] · B1)*
+
 **Source:** Netzwerk neu B1 K4 6d (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

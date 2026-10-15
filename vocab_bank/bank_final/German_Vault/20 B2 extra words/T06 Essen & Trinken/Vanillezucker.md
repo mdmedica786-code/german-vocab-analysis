@@ -33,6 +33,11 @@ status: "new"
 > Für den Pudding brauche ich ein Päckchen Vanillezucker.
 > *For the pudding I need a packet of vanilla sugar.*
 
+**Phrases & Expressions:**
+- **ein Päckchen Vanillezucker** — *vanilla sugar*
+- **mit Vanillezucker süßen** — *vanilla sugar*
+- **Vanillezucker hinzufügen** — *vanilla sugar*
+
 **Collocations**
 - ein Päckchen Vanillezucker
 - mit Vanillezucker süßen

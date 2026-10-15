@@ -35,6 +35,9 @@ status: "new"
 > Die Lehrerin hat heute viele Hausaufgaben gegeben.
 > *The teacher gave a lot of homework today.*
 
+**Phrases & Expressions:**
+- **Die Lehrerin hat heute viele Hausaufgaben gegeben** — *The teacher gave a lot of homework today* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K2 9a (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->
 

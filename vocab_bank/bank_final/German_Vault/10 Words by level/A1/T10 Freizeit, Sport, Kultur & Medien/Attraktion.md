@@ -34,6 +34,9 @@ status: "new"
 > Der Turm ist die größte Attraktion der Stadt.
 > *The tower is the biggest attraction in the city.*
 
+**Phrases & Expressions:**
+- **Der Turm ist die größte Attraktion der Stadt** — *The tower is the biggest attraction in the city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K10 13a (Studium und Beruf)
 <!-- bank:end -->
 

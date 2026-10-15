@@ -33,6 +33,11 @@ status: "new"
 > Fledermäuse schlafen tagsüber in Höhlen oder auf Dachböden.
 > *Bats sleep during the day in caves or in attics.*
 
+**Phrases & Expressions:**
+- **Fledermäuse schützen** — *bat*
+- **eine Fledermaus fliegt** — *bat*
+- **Fledermäuse jagen nachts** — *bat*
+
 **Collocations**
 - Fledermäuse schützen
 - eine Fledermaus fliegt

@@ -35,6 +35,9 @@ status: "new"
 > Meine Kinder spielen gern Ball.
 > *My children like playing ball.*
 
+**Phrases & Expressions:**
+- **Meine Kinder spielen gern Ball** — *My children like playing ball* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A1 K5 10a (Alltag und Familie) · Goethe word list A2
 <!-- bank:end -->
 

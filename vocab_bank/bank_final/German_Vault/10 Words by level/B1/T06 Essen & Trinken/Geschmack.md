@@ -35,6 +35,9 @@ status: "new"
 > Ich möchte bitte Kaugummi mit Erdbeergeschmack.
 > *I would like chewing gum with strawberry flavour, please.*
 
+**Phrases & Expressions:**
+- **Ich möchte bitte Kaugummi mit Erdbeergeschmack** — *I would like chewing gum with strawberry flavour, please* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K9 7a ÜB (Kunststücke) · Goethe word list B1
 <!-- bank:end -->
 

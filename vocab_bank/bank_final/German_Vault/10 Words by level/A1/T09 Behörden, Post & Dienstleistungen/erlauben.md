@@ -33,6 +33,9 @@ status: "new"
 > Rauchen ist hier nicht erlaubt.
 > *Smoking is not allowed here.*
 
+**Phrases & Expressions:**
+- **Wenn Sie erlauben, würde ich gern ...** — If you allow me, I would like to ... *([[B2-06 Vorstellungsgespräch und Arbeitsalltag|Vorgesetzten gegenüber höflich bleiben]] · B2)*
+
 **Source:** Goethe word list A1
 <!-- bank:end -->
 

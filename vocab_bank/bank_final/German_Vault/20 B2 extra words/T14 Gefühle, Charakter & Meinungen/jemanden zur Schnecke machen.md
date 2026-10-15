@@ -30,6 +30,11 @@ status: "new"
 > Der Chef hat ihn vor allen Kollegen zur Schnecke gemacht.
 > *The boss gave him a dressing-down in front of all his colleagues.*
 
+**Phrases & Expressions:**
+- **jemanden zur Schnecke machen** — *to give someone a dressing-down; to tear someone to pieces (colloquial)*
+- **zur Schnecke gemacht werden** — *to give someone a dressing-down; to tear someone to pieces (colloquial)*
+- **den Mitarbeiter zur Schnecke machen** — *to give someone a dressing-down; to tear someone to pieces (colloquial)*
+
 **Collocations**
 - jemanden zur Schnecke machen
 - zur Schnecke gemacht werden

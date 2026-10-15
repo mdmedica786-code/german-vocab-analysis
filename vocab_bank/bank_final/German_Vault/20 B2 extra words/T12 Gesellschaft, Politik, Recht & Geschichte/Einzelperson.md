@@ -33,6 +33,11 @@ status: "new"
 > Das Angebot gilt nur für Einzelpersonen.
 > *The offer is only valid for individual persons.*
 
+**Phrases & Expressions:**
+- **für Einzelpersonen** — *individual person*
+- **eine Einzelperson** — *individual person*
+- **Einzelpersonen und Gruppen** — *individual person*
+
 **Collocations**
 - für Einzelpersonen
 - eine Einzelperson

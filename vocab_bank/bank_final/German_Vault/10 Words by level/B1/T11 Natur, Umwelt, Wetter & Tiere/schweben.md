@@ -32,6 +32,9 @@ status: "new"
 > Der Ballon schwebt über der Stadt.
 > *The balloon floats above the city.*
 
+**Phrases & Expressions:**
+- **Der Ballon schwebt über der Stadt** — *The balloon floats above the city* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K6 9c (Blick nach vorn)
 <!-- bank:end -->
 

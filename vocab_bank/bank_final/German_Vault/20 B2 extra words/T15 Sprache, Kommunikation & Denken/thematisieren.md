@@ -31,6 +31,11 @@ status: "new"
 > Der Film thematisiert die Armut in der Stadt.
 > *The film addresses poverty in the city.*
 
+**Phrases & Expressions:**
+- **ein Problem thematisieren** — *to address; to make a subject of discussion*
+- **offen thematisieren** — *to address; to make a subject of discussion*
+- **thematisiert werden** — *to address; to make a subject of discussion*
+
 **Collocations**
 - ein Problem thematisieren
 - offen thematisieren

@@ -34,6 +34,9 @@ status: "new"
 > Die Präsidentin hält eine Rede.
 > *The president gives a speech.*
 
+**Phrases & Expressions:**
+- **Die Präsidentin hält eine Rede** — *The president gives a speech* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K7 1a ÜB (Zwischenmenschliches)
 <!-- bank:end -->
 

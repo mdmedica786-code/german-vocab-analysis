@@ -33,6 +33,11 @@ status: "new"
 > Die Lokalzeitung berichtet über das Stadtfest.
 > *The local newspaper reports on the town festival.*
 
+**Phrases & Expressions:**
+- **in der Lokalzeitung** — *local newspaper*
+- **die Lokalzeitung abonnieren** — *local newspaper*
+- **Anzeige in der Lokalzeitung** — *local newspaper*
+
 **Collocations**
 - in der Lokalzeitung
 - die Lokalzeitung abonnieren

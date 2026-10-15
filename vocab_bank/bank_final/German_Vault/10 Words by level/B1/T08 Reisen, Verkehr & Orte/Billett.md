@@ -37,6 +37,9 @@ status: "new"
 > Ein Billett können Sie am Schalter kaufen.
 > **
 
+**Phrases & Expressions:**
+- **Ein Billett können Sie am Schalter kaufen** — ** *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K11 12b (Stadt, Land, Fluss) · Goethe word list B1
 <!-- bank:end -->
 

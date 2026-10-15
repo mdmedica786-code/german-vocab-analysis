@@ -32,6 +32,9 @@ status: "new"
 > Er bearbeitet Fotos am Computer.
 > *He is editing pictures on the computer.*
 
+**Phrases & Expressions:**
+- **Er bearbeitet Fotos am Computer** — *He is editing pictures on the computer* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!)
 <!-- bank:end -->
 

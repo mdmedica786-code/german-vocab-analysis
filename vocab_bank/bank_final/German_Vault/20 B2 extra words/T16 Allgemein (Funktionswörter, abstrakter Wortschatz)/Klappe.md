@@ -33,6 +33,12 @@ status: "new"
 > Die Klappe des Briefkastens ist kaputt.
 > *The flap of the letterbox is broken.*
 
+**Phrases & Expressions:**
+- **Sehr wahrscheinlich wird das nicht klappen.** — Very probably that won't work. *([[B2-09 Vermutungen, Wahrscheinlichkeit und Distanzierung|Wahrscheinlichkeit einschätzen]] · B2)*
+- **die Klappe schließen** — *flap; hatch; lid*
+- **eine Klappe öffnen** — *flap; hatch; lid*
+- **die Klappe halten** — *flap; hatch; lid*
+
 **Collocations**
 - die Klappe schließen
 - eine Klappe öffnen

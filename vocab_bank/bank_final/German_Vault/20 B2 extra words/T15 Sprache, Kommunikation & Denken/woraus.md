@@ -26,6 +26,11 @@ status: "new"
 > Woraus besteht dieses Gericht?
 > *What does this dish consist of?*
 
+**Phrases & Expressions:**
+- **woraus besteht** — *from what; out of which*
+- **woraus macht man** — *from what; out of which*
+- **woraus schließen Sie** — *from what; out of which*
+
 **Collocations**
 - woraus besteht
 - woraus macht man

@@ -30,6 +30,11 @@ status: "new"
 > In der Tiefschlafphase träumt man selten.
 > *In the deep-sleep phase one rarely dreams.*
 
+**Phrases & Expressions:**
+- **in der Tiefschlafphase** — *deep-sleep phase*
+- **die Tiefschlafphase verlängern** — *deep-sleep phase*
+- **eine kurze Tiefschlafphase** — *deep-sleep phase*
+
 **Collocations**
 - in der Tiefschlafphase
 - die Tiefschlafphase verlängern

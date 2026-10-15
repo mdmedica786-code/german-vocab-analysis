@@ -32,6 +32,9 @@ status: "new"
 > Trotz Grippe bin ich zur Arbeit gegangen.
 > *Despite the flu I went to work.*
 
+**Phrases & Expressions:**
+- **Trotz Grippe bin ich zur Arbeit gegangen** — *Despite the flu I went to work* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K2 7a (Das ist ja praktisch!) · Goethe word list B1
 <!-- bank:end -->
 

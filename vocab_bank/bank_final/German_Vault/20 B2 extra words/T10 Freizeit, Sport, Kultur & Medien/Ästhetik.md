@@ -33,6 +33,11 @@ status: "new"
 > Die Ästhetik des Gebäudes überzeugt.
 > *The aesthetics of the building are convincing.*
 
+**Phrases & Expressions:**
+- **die Ästhetik des Raumes** — *aesthetics*
+- **Ästhetik und Funktion** — *aesthetics*
+- **moderne Ästhetik** — *aesthetics*
+
 **Collocations**
 - die Ästhetik des Raumes
 - Ästhetik und Funktion

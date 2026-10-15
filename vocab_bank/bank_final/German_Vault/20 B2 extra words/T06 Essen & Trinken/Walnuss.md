@@ -33,6 +33,11 @@ status: "new"
 > Der Kuchen enthält gehackte Walnüsse.
 > *The cake contains chopped walnuts.*
 
+**Phrases & Expressions:**
+- **Walnüsse knacken** — *walnut*
+- **gehackte Walnüsse** — *walnut*
+- **ein Walnussbaum** — *walnut*
+
 **Collocations**
 - Walnüsse knacken
 - gehackte Walnüsse

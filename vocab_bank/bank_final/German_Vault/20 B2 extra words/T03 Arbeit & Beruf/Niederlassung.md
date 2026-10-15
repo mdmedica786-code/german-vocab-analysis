@@ -33,6 +33,11 @@ status: "new"
 > Die Firma hat Niederlassungen in zehn Ländern.
 > *The company has branches in ten countries.*
 
+**Phrases & Expressions:**
+- **eine Niederlassung eröffnen** — *branch; subsidiary office*
+- **Niederlassung in Berlin** — *branch; subsidiary office*
+- **die Niederlassung schließen** — *branch; subsidiary office*
+
 **Collocations**
 - eine Niederlassung eröffnen
 - Niederlassung in Berlin

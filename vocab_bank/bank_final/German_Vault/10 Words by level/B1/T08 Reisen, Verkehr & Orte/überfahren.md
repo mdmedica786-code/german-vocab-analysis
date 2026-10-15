@@ -32,6 +32,9 @@ status: "new"
 > Gestern hat ein Autofahrer einen Hund überfahren.
 > *Yesterday a driver ran over a dog.*
 
+**Phrases & Expressions:**
+- **Gestern hat ein Autofahrer einen Hund überfahren** — *Yesterday a driver ran over a dog* *(Beispiel im Kontext)*
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

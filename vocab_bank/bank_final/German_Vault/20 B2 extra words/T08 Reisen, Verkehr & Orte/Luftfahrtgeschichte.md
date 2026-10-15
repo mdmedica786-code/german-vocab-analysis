@@ -30,6 +30,11 @@ status: "new"
 > Das Museum zeigt Objekte aus der Luftfahrtgeschichte.
 > *The museum shows objects from aviation history.*
 
+**Phrases & Expressions:**
+- **die Luftfahrtgeschichte** — *aviation history; history of aviation*
+- **ein Buch über Luftfahrtgeschichte** — *aviation history; history of aviation*
+- **die Luftfahrtgeschichte erforschen** — *aviation history; history of aviation*
+
 **Collocations**
 - die Luftfahrtgeschichte
 - ein Buch über Luftfahrtgeschichte

@@ -30,6 +30,11 @@ status: "new"
 > Im Superblock gibt es kaum noch Autoverkehr.
 > *In the superblock there is hardly any car traffic left.*
 
+**Phrases & Expressions:**
+- **ein Superblock in Barcelona** — *superblock (traffic-calmed city block)*
+- **einen Superblock einrichten** — *superblock (traffic-calmed city block)*
+- **im Superblock wohnen** — *superblock (traffic-calmed city block)*
+
 **Collocations**
 - ein Superblock in Barcelona
 - einen Superblock einrichten

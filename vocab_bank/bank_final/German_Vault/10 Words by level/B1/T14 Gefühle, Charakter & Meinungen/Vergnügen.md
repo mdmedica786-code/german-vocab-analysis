@@ -35,6 +35,9 @@ status: "new"
 > Es ist ein Vergnügen, den Kindern beim Spielen zuzusehen.
 > *It is a pleasure to watch the children play.*
 
+**Phrases & Expressions:**
+- **Es ist ein Vergnügen, den Kindern beim Spielen zuzusehen** — *It is a pleasure to watch the children play* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K4 12a (Arbeitswelt) · Goethe word list B1
 <!-- bank:end -->
 

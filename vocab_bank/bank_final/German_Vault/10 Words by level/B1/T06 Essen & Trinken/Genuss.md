@@ -34,6 +34,9 @@ status: "new"
 > Der Kaffee ist jeden Morgen ein Genuss.
 > *The coffee is a pleasure every morning.*
 
+**Phrases & Expressions:**
+- **Der Kaffee ist jeden Morgen ein Genuss** — *The coffee is a pleasure every morning* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K1 2 (Gute Reise!)
 <!-- bank:end -->
 

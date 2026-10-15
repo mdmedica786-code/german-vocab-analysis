@@ -33,6 +33,11 @@ status: "new"
 > Die Sitzung beginnt um zehn Uhr.
 > *The meeting starts at ten o'clock.*
 
+**Phrases & Expressions:**
+- **eine Sitzung leiten** — *meeting; session*
+- **an einer Sitzung teilnehmen** — *meeting; session*
+- **die Sitzung vertagen** — *meeting; session*
+
 **Collocations**
 - eine Sitzung leiten
 - an einer Sitzung teilnehmen

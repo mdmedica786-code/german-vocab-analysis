@@ -33,6 +33,11 @@ status: "new"
 > Mit der Kundenkarte sammelst du Punkte beim Einkaufen.
 > *With the loyalty card you collect points when shopping.*
 
+**Phrases & Expressions:**
+- **die Kundenkarte vorzeigen** — *loyalty card; customer card*
+- **eine Kundenkarte beantragen** — *loyalty card; customer card*
+- **Rabatt mit Kundenkarte** — *loyalty card; customer card*
+
 **Collocations**
 - die Kundenkarte vorzeigen
 - eine Kundenkarte beantragen

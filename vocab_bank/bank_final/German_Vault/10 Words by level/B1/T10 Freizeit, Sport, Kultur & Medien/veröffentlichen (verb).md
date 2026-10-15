@@ -41,6 +41,9 @@ status: "new"
 > Das Buch wurde gestern veröffentlicht.
 > *The book was published yesterday.*
 
+**Phrases & Expressions:**
+- **Das Buch wurde gestern veröffentlicht** — *The book was published yesterday* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K3 9a (Veränderungen) · Goethe word list B1
 <!-- bank:end -->
 

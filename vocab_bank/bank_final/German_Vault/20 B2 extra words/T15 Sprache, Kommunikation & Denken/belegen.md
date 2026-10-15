@@ -31,6 +31,12 @@ status: "new"
 > Die Studie belegt, dass Bewegung die Stimmung verbessert.
 > *The study proves that exercise improves mood.*
 
+**Phrases & Expressions:**
+- **Studien belegen, dass ...** — Studies prove that ... *([[B2-03 Forumsbeitrag und Stellungnahme B2|Beleg anführen]] · B2)*
+- **eine These belegen** — *to prove; to document; to occupy*
+- **einen Platz belegen** — *to prove; to document; to occupy*
+- **einen Kurs belegen** — *to prove; to document; to occupy*
+
 **Collocations**
 - eine These belegen
 - einen Platz belegen

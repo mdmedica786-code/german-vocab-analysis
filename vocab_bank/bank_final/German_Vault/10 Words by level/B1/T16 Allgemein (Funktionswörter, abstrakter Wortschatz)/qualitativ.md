@@ -30,6 +30,9 @@ status: "new"
 > Es gibt einen qualitativen Unterschied.
 > *There is a qualitative difference.*
 
+**Phrases & Expressions:**
+- **Es gibt einen qualitativen Unterschied** — *There is a qualitative difference* *(Beispiel im Kontext)*
+
 **Source:** Netzwerk neu B1 K10 3b (Miteinander)
 <!-- bank:end -->
 

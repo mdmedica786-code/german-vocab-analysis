@@ -29,6 +29,11 @@ status: "new"
 > Sie hat ihrerseits den Vertrag gekündigt.
 > *For her part she cancelled the contract.*
 
+**Phrases & Expressions:**
+- **meinerseits** — *for her part; on their part*
+- **ihrerseits** — *for her part; on their part*
+- **unsererseits** — *for her part; on their part*
+
 **Collocations**
 - meinerseits
 - ihrerseits
