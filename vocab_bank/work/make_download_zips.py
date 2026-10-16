@@ -7,8 +7,11 @@ Run make_word_lists.py and make_level_workbook.py first (it zips what they wrote
   1_Words_to_learn.zip      the study words by exam stage + phrases + Redemittel + Excel (no duplicates, no 'not in list')
   2_Obsidian_Vault.zip      the Obsidian vault (open the unzipped folder as vault)
   3_Anki_JSON_for_AI.zip    the same words as JSON for the nerdmedica-de-pro skill
+  4_Redemittel_up_to_B1.zip the Redemittel of levels A2 and B1 (no A1 Redemittel exist in the bank)
 The native audio is not zipped: it stays in vocab_bank/bank_final/audio (about 370 MB, already on the computer).
 """
+import csv
+import io
 import zipfile
 from pathlib import Path
 
@@ -77,6 +80,34 @@ def main():
                                 "--deck-id 2002001001 --out German_PRO_A1.apkg --audio native+edge\n"
                                 "Do not change any German in the files.\n").encode("utf-8")))
     zip_files(OUT / "3_Anki_JSON_for_AI.zip", anki)
+    redemittel_b1()
+
+
+def redemittel_b1():
+    rows = list(csv.DictReader(open(WL / "redemittel.csv", encoding="utf-8-sig", newline="")))
+    cols = list(rows[0].keys())
+    rows = [r for r in rows if r["level"] in ("A2", "B1")]
+    rows.sort(key=lambda r: (r["level"], r["category"], r["id"]))
+
+    def dump(rs):
+        b = io.StringIO()
+        w = csv.DictWriter(b, fieldnames=cols, lineterminator="\r\n")
+        w.writeheader()
+        w.writerows(rs)
+        return ("\ufeff" + b.getvalue()).encode("utf-8")
+
+    n = {lv: sum(1 for r in rows if r["level"] == lv) for lv in ("A2", "B1")}
+    readme = (f"REDEMITTEL UP TO B1\n===================\n\n"
+              f"Redemittel_A2_B1.csv  all {len(rows)} (A2: {n['A2']}, B1: {n['B1']}), sorted by level, then topic\n"
+              f"Redemittel_A2.csv     {n['A2']} A2 Redemittel (learn first)\n"
+              f"Redemittel_B1.csv     {n['B1']} B1 Redemittel (Goethe B1 Sprechen / Schreiben, FSP basics)\n\n"
+              "There are no A1 Redemittel in the bank. Columns: id, cat_id, category, function, speaker, level, priority\n"
+              "(core = learn first), redemittel_de, meaning_en, example_de, example_en, variants, grammar_note, exam_use.\n"
+              "Open the CSV in Excel with encoding UTF-8. Redemittel of level B2/C1 are in WORD_LISTS/redemittel.csv.\n")
+    items = [("README.txt", readme.encode("utf-8")), ("Redemittel_A2_B1.csv", dump(rows)),
+             ("Redemittel_A2.csv", dump([r for r in rows if r["level"] == "A2"])),
+             ("Redemittel_B1.csv", dump([r for r in rows if r["level"] == "B1"]))]
+    zip_files(OUT / "4_Redemittel_up_to_B1.zip", items)
 
 
 if __name__ == "__main__":
