@@ -25,6 +25,8 @@ status: "new"
 
 ![[Koffer (12).wav]]
 
+![[Koffer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Koffer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Koffer&language=de)
 
 **Meaning:** suitcase
@@ -42,4 +44,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad
+> **Mike Ehrmantraut's 'Go-Bag':** *A heavy leather Koffer hidden in a remote locker with stacks of clean bills, a burner phone, and a fake passport: "When the sirens sound, you grab der Koffer and you don't look back."*
+
+**Visual:** Packed suitcase standing ready for an emergency escape.
+
 

@@ -45,3 +45,7 @@ status: "new"
 
 ## My notes
 
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 4: "Crawl Space")
+> **The Crawl Space Breakdown:** *Walter rushes home in sheer panic to pay the vacuum repairman to disappear his family from Gus Fring. He crawls into the dark dirt basement to grab his emergency stash of GELD (money), only to find empty duffel bags. Skyler confesses she gave das Geld to Ted Beneke. Walter stares up through the square floor hatch and descends into legendary, unhinged laughter.*
+
+

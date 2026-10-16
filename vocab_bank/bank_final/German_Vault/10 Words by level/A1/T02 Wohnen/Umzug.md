@@ -25,6 +25,8 @@ status: "new"
 
 ![[Umzug.ogg]]
 
+![[Umzug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Umzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umzug&language=de)
 
 **Meaning:** move
@@ -42,4 +44,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad
+> **Moving $80 million into Tohajiilee:** *Walter loading seven 55-gallon barrels stuffed with cash into a rental van in the middle of the night. Skyler asks what he is doing: "I'm conducting a high-stakes Umzug. Everything we have is on the move."*
+
+**Visual:** Stacked boxes and moving van carrying life-changing cargo.
+
 

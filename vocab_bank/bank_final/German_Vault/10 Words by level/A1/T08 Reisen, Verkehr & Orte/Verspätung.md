@@ -25,6 +25,8 @@ status: "new"
 
 ![[Verspätung.ogg]]
 
+![[Verspaetung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Versp%C3%A4tung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versp%C3%A4tung&language=de)
 
 **Meaning:** delay
@@ -42,4 +44,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad
+> **Gus checking his watch:** *Gus Fring glances at his gold watch as Walt arrives 10 minutes late to Los Pollos Hermanos: "In my business, eine Verspätung is disrespect. Never be late again."*
+
+**Visual:** Airport/train delay board.
+
 

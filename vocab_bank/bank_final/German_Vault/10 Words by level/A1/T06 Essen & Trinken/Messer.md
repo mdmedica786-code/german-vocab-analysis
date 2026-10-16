@@ -43,3 +43,7 @@ status: "new"
 
 ## My notes
 
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 4: "Box Cutter")
+> **Gus Fring's Box Cutter:** *Gus Fring walks into the underground superlab in a bright orange hazmat suit. In utter, terrifying silence, he pulls open a heavy utility knife / MESSER. Without saying a single word, he uses das Messer to execute Victor right before Walter and Jesse's eyes, proving that no one is indispensable.*
+
+

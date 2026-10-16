@@ -25,6 +25,8 @@ status: "new"
 
 ![[Autobahn (5).wav]]
 
+![[Autobahn.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Autobahn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autobahn&language=de)
 
 **Meaning:** motorway; freeway
@@ -42,4 +44,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 2 & 5)
+> **Hank Schrader's High-Speed DEA Pursuit:** *Hank gets an urgent code-3 radio dispatch about a cartel convoy. He slams the gas on his DEA vehicle, tearing down the multi-lane highway / AUTOBAHN at 110 mph with sirens wailing, chasing down blue sky leads before they vanish across state lines.*
+
+**Visual:** German Autobahn highway stretching into the distance with blue directional signage.
+
 

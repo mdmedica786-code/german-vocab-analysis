@@ -25,6 +25,8 @@ status: "new"
 
 ![[Frühstück.ogg]]
 
+![[Fruehstueck.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fr%C3%BChst%C3%BCck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fr%C3%BChst%C3%BCck&language=de)
 
 **Meaning:** breakfast
@@ -42,4 +44,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad
+> **Flynn / Walter Jr.'s breakfast obsession:** *Every morning at the White residence, Flynn is at the table eating Raisin Bran crunch: "Mom, is das Frühstück ready? What's for breakfast?" The ultimate running gag of the series.*
+
+**Visual:** Fresh breakfast table with rolls, eggs, and coffee.
+
 

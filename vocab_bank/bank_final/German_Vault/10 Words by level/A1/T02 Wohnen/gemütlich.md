@@ -22,6 +22,8 @@ status: "new"
 
 ![[gemütlich.ogg]]
 
+![[gemuetlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gem%C3%BCtlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gem%C3%BCtlich&language=de)
 
 **Meaning:** comfortable
@@ -38,4 +40,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad
+> **Saul Goodman's Office:** *Saul leans back in his plush leather armchair under neoclassical pillars and inflatable Statue of Liberty: "Make yourself gemütlich, take a cucumber water, and let's discuss your legal dilemma."*
+
+**Visual:** Warm fireplace, tea, and cozy armchair.
+
 

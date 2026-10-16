@@ -48,3 +48,7 @@ status: "new"
 
 ## My notes
 
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 1 Pilot & Season 5: "Ozymandias")
+> **Tohajiilee & The Desert:** *Everything begins and ends in die WÜSTE (desert). In the Pilot, Walter stands in green shirt and underpants in the scorching Wüste with a camcorder saying goodbye to his family. In Season 5, Walter buries seven barrels of cash in die Wüste, and in that same red dirt, Hank Schrader meets his tragic fate.*
+
+

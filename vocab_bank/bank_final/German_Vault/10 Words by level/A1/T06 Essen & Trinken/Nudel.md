@@ -25,6 +25,8 @@ status: "new"
 
 ![[Nudel.ogg]]
 
+![[Nudel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nudel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nudel&language=de)
 
 **Meaning:** noodle
@@ -42,4 +44,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 4)
+> **Jesse Pinkman's Lonely Living Room:** *Jesse, haunted by guilt and trauma, sits alone on the bare hardwood floor of his empty house while laser lights flash and stereo music blares. He slurps hot noodles / NUDELN from a cheap paper cup, dreaming of simpler times before the drug empire.*
+
+**Visual:** Steaming ribbons of egg pasta / noodles with tomato sauce.
+
 

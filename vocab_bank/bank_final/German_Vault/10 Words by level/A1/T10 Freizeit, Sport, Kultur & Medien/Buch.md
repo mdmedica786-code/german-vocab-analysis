@@ -43,3 +43,7 @@ status: "new"
 
 ## My notes
 
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 5: "Gliding Over All")
+> **Leaves of Grass in the Bathroom:** *Hank Schrader uses the master bathroom at the White residence and looks for something to read. He picks up a leather-bound BUCH (book) of poetry by Walt Whitman. Opening das Buch, he reads Gale Boetticher's handwritten inscription: "To my other favorite W.W. It's an honour working with you." In one chilling second, Hank realizes Walter is Heisenberg.*
+
+

@@ -42,3 +42,7 @@ status: "new"
 
 ## My notes
 
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 2: "4 Days Out")
+> **Engineering a Galvanic Cell:** *Stranded in 105-degree desert heat after Jesse left the keys in the ignition, draining the RV's BATTERIE (battery). With no cell signal and dying of thirst, Walter uses basic chemistry to build a homemade battery from scratch using galvanized zinc coins, brake pads, copper wire, and potassium chlorate sponge.*
+
+

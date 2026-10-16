@@ -23,6 +23,8 @@ status: "new"
 
 ![[stellen.wav]]
 
+![[stellen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stellen&language=de)
 
 **Meaning:** to put (upright); to set; to ask (a question)
@@ -53,4 +55,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad
+> **Laboratory Precision:** *Walt drills Jesse on lab safety: "Jesse, you STELLEN the glass beaker upright on the stand! If you LEGEN it down on its side, the acid spills and melts the floor!"*
+
+**Visual:** Standing a bottle/beaker vertically upright.
+
 

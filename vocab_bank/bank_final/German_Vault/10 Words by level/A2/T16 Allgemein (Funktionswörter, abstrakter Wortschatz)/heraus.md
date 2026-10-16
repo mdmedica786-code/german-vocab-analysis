@@ -21,6 +21,8 @@ status: "new"
 
 ![[heraus.ogg]]
 
+![[heraus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/heraus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heraus&language=de)
 
 **Meaning:** out (towards the speaker)
@@ -50,4 +52,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad
+> **I am the one who knocks:** *Walt tells Skyler: "A guy opens his door and gets shot, and you think that of me? No. When I step HERAUS (out towards you), I am the danger!" (heraus = moving out towards speaker; hinaus = moving out away).*
+
+**Visual:** Stepping through the doorway towards the viewer.
+
 

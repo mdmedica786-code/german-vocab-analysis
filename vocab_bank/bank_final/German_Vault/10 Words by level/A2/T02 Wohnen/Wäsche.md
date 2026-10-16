@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wäsche.ogg]]
 
+![[Waesche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/W%C3%A4sche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%A4sche&language=de)
 
 **Meaning:** laundry; washing
@@ -41,4 +43,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad
+> **Gus Fring's Superlab Cover:** *Lavandería Brillante — industrial washing machines spinning around the clock. Underneath heavy washing machine #3 lies the secret hydraulic lift to the meth superlab. Gus: "Nobody questions die Wäsche. Clean laundry is the perfect front."*
+
+**Visual:** Laundry racks and washing machines hiding the underground empire.
+
 

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fliege.wav]]
 
+![[Fliege.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fliege/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fliege&language=de)
 
 **Meaning:** fly
@@ -42,4 +44,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 3: "Fly")
+> **The Contaminant in the Superlab:** *Walt locks down the entire multimillion-dollar underground lab because of one single FLIEGE (housefly) buzzing near the ceiling. Walt is frantic: "Jesse! It's a contaminant! If we cook with die Fliege in here, the purity drops below 99%! Everything is contaminated!" Jesse ends up swatting all night with rolled-up magazines.*
+
+**Visual:** Extreme macro shot of a black housefly perched on the rim of the stainless steel chemical vat in the lab.
+
 

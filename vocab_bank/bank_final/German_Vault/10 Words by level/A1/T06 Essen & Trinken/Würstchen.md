@@ -24,6 +24,8 @@ status: "new"
 
 ![[Würstchen.ogg]]
 
+![[Wuerstchen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/W%C3%BCrstchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%BCrstchen&language=de)
 
 **Meaning:** small sausage; frankfurter
@@ -41,4 +43,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 2: "Over")
+> **The Backyard BBQ Meltdown:** *Walt stands over the sizzling charcoal grill flipping German sausages / WÜRSTCHEN for Hank and Marie. But as the Würstchen sizzle over glowing embers, Walt's ego flares up and he forces Walter Jr. to drink shot after shot of tequila until Hank steps in, causing a furious confrontation.*
+
+**Visual:** German sausages / Würstchen sizzling over open charcoal grill embers.
+
 

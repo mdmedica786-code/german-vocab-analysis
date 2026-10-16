@@ -24,6 +24,8 @@ status: "new"
 
 ![[Butterbrot.ogg]]
 
+![[Butterbrot.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Butterbrot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Butterbrot&language=de)
 
 **Meaning:** bread and butter; sandwich
@@ -41,4 +43,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 3 & 4)
+> **Mike Ehrmantraut's Classic Stakeout:** *Mike sitting patiently in his brown sedan on a 10-hour cold surveillance stakeout outside Madrigal Electromotive. He unwraps butcher paper to reveal ein BUTTERBROT (crusty sourdough with thick butter and pimento cheese): "A professional never leaves a mess in the car. Ein Butterbrot keeps you sharp and silent."*
+
+**Visual:** Hearty crusty bread thickly spread with golden butter and chives.
+
 

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Wand.wav]]
 
+![[Wand.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wand&language=de)
 
 **Meaning:** wall
@@ -42,4 +44,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad
+> **The Crawlspace Breakdown:** *Walter tears through the interior drywall of the crawlspace searching for the missing money. When he finds it's gone, he lies between die Wand and the floor, laughing maniacally into the dark. (Contrast: die Wand = indoor room wall; die Mauer = heavy exterior brick wall).*
+
+**Visual:** Interior room wall with framed picture.
+
 

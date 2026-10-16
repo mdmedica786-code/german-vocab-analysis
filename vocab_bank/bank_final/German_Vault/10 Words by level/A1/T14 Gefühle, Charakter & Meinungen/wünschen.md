@@ -23,6 +23,8 @@ status: "new"
 
 ![[wünschen.wav]]
 
+![[wuenschen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/w%C3%BCnschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=w%C3%BCnschen&language=de)
 
 **Meaning:** to wish
@@ -53,4 +55,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 1 Pilot & Season 5)
+> **The 50th Birthday Wish:** *Skyler arranges veggie bacon strips into the number "50" on Walter's plate and whispers: "Make a wish (WÜNSCHEN), Walt." Staring at the single flickering candle, Walter makes a silent wish for control and dignity — the exact catalyst that unleashed Heisenberg onto the world.*
+
+**Visual:** A single glowing birthday candle flame reflecting in eyes making a wish.
+
 

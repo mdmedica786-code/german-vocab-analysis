@@ -25,6 +25,8 @@ status: "new"
 
 ![[Flasche (8).wav]]
 
+![[Flasche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Flasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flasche&language=de)
 
 **Meaning:** bottle
@@ -42,4 +44,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 4: "Salud")
+> **Don Eladio & Zafiro Añejo:** *Gus Fring arrives at Don Eladio's Mexico hacienda bearing a stunning hand-blown glass bottle / FLASCHE of rare Zafiro Añejo tequila. Don Eladio holds die Flasche up in triumph to the cartel: "Salud!" — entirely unaware that Gus laced die Flasche with lethal poison.*
+
+**Visual:** Elegant sculpted luxury tequila bottle with sapphire-blue glass swirls.
+
 

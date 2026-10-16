@@ -21,6 +21,8 @@ status: "new"
 
 ![[formell.ogg]]
 
+![[formell.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/formell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=formell&language=de)
 
 **Meaning:** formal
@@ -37,4 +39,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad
+> **Gus vs. Jesse:** *Gustavo Fring in a tailored yellow shirt and tie greeting DEA agents politely: 100% FORMELL. Jesse Pinkman in baggy hoodie saying "Yo bitch, science!": 100% INFORMELL.*
+
+**Visual:** Business handshake (formell) vs casual high-five (informell).
+
 

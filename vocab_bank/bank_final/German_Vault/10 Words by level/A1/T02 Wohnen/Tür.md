@@ -43,3 +43,7 @@ status: "new"
 
 ## My notes
 
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 4: "Cornered")
+> **I am the One Who Knocks:** *Skyler begs Walter to go to the police, fearing someone will come to their front door to shoot him. Walt glares at her: "Who are you talking to right now? A guy opens his TÜR (door) and gets shot, and you think that of me? No. I AM THE ONE WHO KNOCKS!"*
+
+

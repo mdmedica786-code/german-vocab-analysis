@@ -23,6 +23,8 @@ status: "new"
 
 ![[bauen.wav]]
 
+![[bauen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bauen&language=de)
 
 **Meaning:** to build
@@ -51,4 +53,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad
+> **The Empire Business:** *Walter White to Jesse in the diner: "You asked if I was in the meth business or the money business. Neither. I'm in the empire business. We don't just cook, Jesse — we bauen an empire that cannot be stopped."*
+
+**Visual:** Laying brick by brick to build an empire.
+
 

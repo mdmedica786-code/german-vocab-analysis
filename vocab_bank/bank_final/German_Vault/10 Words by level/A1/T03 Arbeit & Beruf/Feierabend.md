@@ -25,6 +25,8 @@ status: "new"
 
 ![[Feierabend.ogg]]
 
+![[Feierabend.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Feierabend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feierabend&language=de)
 
 **Meaning:** closing time, home time
@@ -42,4 +44,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad
+> **Mike feeding pigeons in the park:** *Mike Ehrmantraut finishes a brutal 14-hour surveillance job, takes off his jacket, sits on a park bench in the sunset feeding pigeons: "The day's work is done. It's Feierabend."*
+
+**Visual:** 5:00 PM clock, relaxing after a long shift.
+
 

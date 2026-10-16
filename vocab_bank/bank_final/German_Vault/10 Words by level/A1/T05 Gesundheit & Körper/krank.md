@@ -22,6 +22,8 @@ status: "new"
 
 ![[krank.wav]]
 
+![[krank.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/krank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=krank&language=de)
 
 **Meaning:** sick
@@ -43,4 +45,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 1: Pilot & Oncology)
+> **The Diagnosis that Started it All:** *Dr. Delcavoli points to the shadowy lung CT scan: "Mr. White, you are KRANK (sick). Inoperable Stage 3A lung cancer." In the heavy silence of the hospital room, staring at a mustard stain on the doctor's lab coat, Walter realizes he has nothing left to lose.*
+
+**Visual:** Clinical hospital bed by a rain-streaked window with an IV infusion stand.
+
 

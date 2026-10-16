@@ -23,6 +23,8 @@ status: "new"
 
 ![[putzen.wav]]
 
+![[putzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/putzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=putzen&language=de)
 
 **Meaning:** to clean
@@ -40,4 +42,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 1 & 4)
+> **The Car Wash & The Superlab:** *Before Heisenberg, Walter White was forced to PUTZEN (scrub/clean) luxury cars at the A1A Car Wash under Bogdan. Later in the underground superlab, Walt strictly commands Jesse: "Jesse, we don't begin the cook until we PUTZEN every stainless-steel surface! In chemistry, contamination is failure!"*
+
+**Visual:** Yellow rubber cleaning gloves, disinfectant spray, and microfibre cloth wiping down steel.
+
 

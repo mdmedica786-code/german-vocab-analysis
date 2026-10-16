@@ -25,6 +25,8 @@ status: "new"
 
 ![[Müll.wav]]
 
+![[Muell.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCll&language=de)
 
 **Meaning:** rubbish
@@ -42,4 +44,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad
+> **Walter White in yellow hazmat suits cleaning up the RV:** *"Jesse, we bag every single chemical scrap and dispose of der Müll. In this business, if you leave Müll behind, the DEA finds you. No loose ends."*
+
+**Visual:** Hazmat suits, trash cans, disposing of evidence in the desert.
+
 

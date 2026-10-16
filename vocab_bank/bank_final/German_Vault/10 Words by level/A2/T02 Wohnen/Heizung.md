@@ -25,6 +25,8 @@ status: "new"
 
 ![[Heizung.wav]]
 
+![[Heizung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Heizung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heizung&language=de)
 
 **Meaning:** heating
@@ -42,4 +44,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad
+> **Stranded in '4 Days Out':** *The RV battery dies in the 105°F desert. Jesse complains: "Yo Mr. White, the sun is blazing, it feels like die Heizung is cranked to maximum and won't turn off!" Walt must engineer a homemade battery to survive.*
+
+**Visual:** White radiator emitting intense heat.
+
 

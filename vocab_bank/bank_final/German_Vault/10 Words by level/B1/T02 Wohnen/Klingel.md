@@ -42,3 +42,7 @@ status: "new"
 
 ## My notes
 
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 2 & 4)
+> **Hector Salamanca's Fatal Chime:** *Tio Hector Salamanca sits paralyzed in his wheelchair, using a single brass KLINGEL (desk bell) to communicate: ding... ding... ding! In the desert shack, he dings die Klingel furiously to save Tuco from poisoned chili. In Season 4 at Casa Tranquila, Hector aggressively spams die Klingel to detonate the bomb wired to his wheelchair, ending Gus Fring.*
+
+

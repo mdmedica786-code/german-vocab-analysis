@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fenster.wav]]
 
+![[Fenster.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fenster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fenster&language=de)
 
 **Meaning:** window
@@ -43,4 +45,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad
+> **Paranoid Jesse Pinkman at the blinds:** *Jesse twitches and parts the window blinds with two fingers, looking for unmarked police cars. Walt snaps: "Jesse! Step away from das Fenster! If they see your face at das Fenster, we're done!"*
+
+**Visual:** Peering through the window blinds for surveillance.
+
 

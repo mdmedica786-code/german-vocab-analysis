@@ -25,6 +25,8 @@ status: "new"
 
 ![[Stuhl.ogg]]
 
+![[Stuhl.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stuhl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stuhl&language=de)
 
 **Meaning:** chair
@@ -43,4 +45,10 @@ status: "new"
 <!-- bank:end -->
 
 ## My notes
+
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad
+> **Tuco's Desert Shack:** *Tuco Salamanca forces Walter and Jesse to sit in old wooden chairs while Tio Hector dings his wheelchair bell: "Sit on der Stuhl and don't move!" (der Stuhl = masculine blue chair).*
+
+**Visual:** A single sturdy wooden chair.
+
 

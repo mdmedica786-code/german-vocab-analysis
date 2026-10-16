@@ -40,3 +40,7 @@ status: "new"
 
 ## My notes
 
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 1–5: Heisenberg's Armor)
+> **The Transformation into Heisenberg:** *Whenever Walter White needs to become ruthless, he reaches for his black wool porkpie HUT (hat) and dark sunglasses. Putting on der Hut turns a mild-mannered high school chemistry teacher into the feared Southwest drug kingpin: "Say my name."*
+
+

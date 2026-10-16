@@ -48,3 +48,7 @@ status: "new"
 
 ## My notes
 
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 1: "Crazy Handful of Nothin'")
+> **This is Not Meth:** *Walter walks into Tuco Salamanca's fortified penthouse holding a bag of translucent crystals. When Tuco scoffs, Walter smashes a crystal on the desk, triggering a deafening EXPLOSION that blows out all the windows and knocks the cartel thugs off their feet. Walt walks out into the smoke clutching a sack of money: Heisenberg has arrived.*
+
+

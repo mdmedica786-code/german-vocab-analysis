@@ -44,3 +44,7 @@ status: "new"
 
 ## My notes
 
+> [!tip] 🧪 Heisenberg Memory Anchor — Breaking Bad (Season 5: "Dead Freight")
+> **The Great Methylamine Heist:** *Walter, Jesse, and Todd stop a massive freight ZUG (train) in the middle of the New Mexico desert by staging a broken-down Kuby truck on the tracks. While the engineers are distracted, they siphon 1,000 gallons of methylamine directly out of der Zug into an underground water tank without spilling an ounce.*
+
+
