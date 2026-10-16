@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wüste.ogg]]
 
+![[Wueste.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/W%C3%BCste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%BCste&language=de)
 
 **Meaning:** desert

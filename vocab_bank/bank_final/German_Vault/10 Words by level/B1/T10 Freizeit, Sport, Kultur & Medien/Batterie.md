@@ -24,6 +24,8 @@ status: "new"
 
 ![[Batterie.ogg]]
 
+![[Batterie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Batterie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Batterie&language=de)
 
 **Meaning:** battery

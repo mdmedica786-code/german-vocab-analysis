@@ -25,6 +25,8 @@ status: "new"
 
 ![[Messer.wav]]
 
+![[Messer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Messer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Messer&language=de)
 
 **Meaning:** knife

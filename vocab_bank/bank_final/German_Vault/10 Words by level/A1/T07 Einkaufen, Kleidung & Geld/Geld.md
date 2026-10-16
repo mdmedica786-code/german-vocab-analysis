@@ -25,6 +25,8 @@ status: "new"
 
 ![[Geld.wav]]
 
+![[Geld.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geld&language=de)
 
 **Meaning:** money

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Hut.wav]]
 
+![[Hut.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hut&language=de)
 
 **Meaning:** hat

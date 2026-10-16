@@ -25,6 +25,8 @@ status: "new"
 
 ![[Buch.wav]]
 
+![[Buch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Buch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buch&language=de)
 
 **Meaning:** book

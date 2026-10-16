@@ -24,6 +24,8 @@ status: "new"
 
 ![[Klingel.ogg]]
 
+![[Klingel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Klingel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klingel&language=de)
 
 **Meaning:** bell

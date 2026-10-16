@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Zug
 
+![[Zug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zug&language=de)
 
 **Meaning:** train

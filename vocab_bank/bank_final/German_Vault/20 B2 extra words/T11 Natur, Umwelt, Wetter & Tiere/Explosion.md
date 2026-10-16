@@ -23,6 +23,8 @@ status: "new"
 
 ![[Explosion.ogg]]
 
+![[Explosion.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Explosion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Explosion&language=de)
 
 **Meaning:** explosion

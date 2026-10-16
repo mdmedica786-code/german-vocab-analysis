@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tür.ogg]]
 
+![[Tuer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/T%C3%BCr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%BCr&language=de)
 
 **Meaning:** door
