@@ -24,6 +24,8 @@ status: "new"
 
 ![[Reisepass.ogg]]
 
+![[Reisepass.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reisepass/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reisepass&language=de)
 
 **Meaning:** passport

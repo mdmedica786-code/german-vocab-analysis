@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Quark
 
+![[Quark.png]]
+
 ![[Quark.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Quark/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Quark&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Inventur.ogg]]
 
+![[Inventur.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Inventur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Inventur&language=de)
 
 **Meaning:** stocktaking

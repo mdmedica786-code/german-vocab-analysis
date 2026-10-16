@@ -24,6 +24,8 @@ status: "new"
 
 ![[Alzheimer.ogg]]
 
+![[Alzheimer.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Alzheimer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alzheimer&language=de)
 
 **Meaning:** Alzheimer's disease

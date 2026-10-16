@@ -23,6 +23,8 @@ status: "new"
 
 ![[Skizze.ogg]]
 
+![[Skizze.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Skizze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Skizze&language=de)
 
 **Meaning:** sketch; outline

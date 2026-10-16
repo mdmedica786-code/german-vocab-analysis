@@ -24,6 +24,8 @@ status: "new"
 
 ![[Damenmode.ogg]]
 
+![[Damenmode.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Damenmode/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Damenmode&language=de)
 
 **Meaning:** women's fashion

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Trauer.ogg]]
 
+![[Trauer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Trauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trauer&language=de)
 
 **Meaning:** grief; mourning

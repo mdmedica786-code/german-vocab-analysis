@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die USA
 
+![[USA.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/USA/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=USA&language=de)
 
 **Meaning:** USA

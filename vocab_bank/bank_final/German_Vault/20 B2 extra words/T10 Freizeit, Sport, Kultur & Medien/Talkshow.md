@@ -23,6 +23,8 @@ status: "new"
 
 ![[Talkshow.ogg]]
 
+![[Talkshow.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Talkshow/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Talkshow&language=de)
 
 **Meaning:** talk show

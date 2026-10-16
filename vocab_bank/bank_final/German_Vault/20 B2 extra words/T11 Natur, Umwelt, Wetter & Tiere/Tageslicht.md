@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tageslicht.ogg]]
 
+![[Tageslicht.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tageslicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tageslicht&language=de)
 
 **Meaning:** daylight

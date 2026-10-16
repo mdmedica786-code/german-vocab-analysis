@@ -24,6 +24,8 @@ status: "new"
 
 ![[Garagentor.ogg]]
 
+![[Garagentor.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Garagentor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Garagentor&language=de)
 
 **Meaning:** garage door

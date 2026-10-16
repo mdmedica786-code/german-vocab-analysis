@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Vernunft
 
+![[Vernunft.jpg]]
+
 ![[Vernunft.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Vernunft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vernunft&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Deich.ogg]]
 
+![[Deich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Deich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Deich&language=de)
 
 **Meaning:** dyke

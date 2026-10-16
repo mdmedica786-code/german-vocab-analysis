@@ -25,6 +25,8 @@ status: "new"
 
 ![[Herd.ogg]]
 
+![[Herd.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Herd/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herd&language=de)
 
 **Meaning:** stove

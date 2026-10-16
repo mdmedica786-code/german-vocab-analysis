@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Hubschrauber
 
+![[Hubschrauber.jpg]]
+
 ![[Hubschrauber.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hubschrauber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hubschrauber&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Nagelschere.ogg]]
 
+![[Nagelschere.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nagelschere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nagelschere&language=de)
 
 **Meaning:** nail scissors

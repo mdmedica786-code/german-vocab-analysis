@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Flügel
 
+![[Flügel.jpg]]
+
 ![[Flügel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fl%C3%BCgel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fl%C3%BCgel&language=de)

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Verachtung
 
+![[Verachtung.jpg]]
+
 ![[Verachtung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Verachtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verachtung&language=de)

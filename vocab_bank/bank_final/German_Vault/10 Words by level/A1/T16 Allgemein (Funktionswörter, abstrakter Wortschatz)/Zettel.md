@@ -25,6 +25,8 @@ status: "new"
 
 ![[Zettel.ogg]]
 
+![[Zettel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zettel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zettel&language=de)
 
 **Meaning:** slip of paper; note

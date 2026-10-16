@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Yoga
 
+![[Yoga.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Yoga/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Yoga&language=de)
 
 **Meaning:** yoga

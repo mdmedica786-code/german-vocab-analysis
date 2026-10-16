@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Volk
 
+![[Volk.jpg]]
+
 ![[Volk.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Volk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Volk&language=de)

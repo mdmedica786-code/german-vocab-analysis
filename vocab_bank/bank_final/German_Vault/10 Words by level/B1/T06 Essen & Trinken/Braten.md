@@ -24,6 +24,8 @@ status: "new"
 
 ![[Braten (2262).ogg]]
 
+![[Braten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Braten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Braten&language=de)
 
 **Meaning:** roast

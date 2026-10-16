@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kommunikation.ogg]]
 
+![[Kommunikation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kommunikation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kommunikation&language=de)
 
 **Meaning:** communication

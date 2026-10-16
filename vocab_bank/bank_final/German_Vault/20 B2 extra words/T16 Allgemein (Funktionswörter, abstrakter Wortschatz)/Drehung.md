@@ -23,6 +23,8 @@ status: "new"
 
 ![[Drehung.ogg]]
 
+![[Drehung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Drehung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Drehung&language=de)
 
 **Meaning:** turn; rotation

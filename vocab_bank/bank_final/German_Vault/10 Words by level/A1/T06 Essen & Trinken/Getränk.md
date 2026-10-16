@@ -25,6 +25,8 @@ status: "new"
 
 ![[Getränk.ogg]]
 
+![[Getränk.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Getr%C3%A4nk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Getr%C3%A4nk&language=de)
 
 **Meaning:** drink

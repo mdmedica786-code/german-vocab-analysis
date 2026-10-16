@@ -24,6 +24,8 @@ status: "new"
 
 ![[EU.ogg]]
 
+![[EU.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/EU/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=EU&language=de)
 
 **Meaning:** EU

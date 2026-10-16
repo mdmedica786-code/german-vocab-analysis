@@ -24,6 +24,8 @@ status: "new"
 
 ![[Versand.ogg]]
 
+![[Versand.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Versand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versand&language=de)
 
 **Meaning:** shipping

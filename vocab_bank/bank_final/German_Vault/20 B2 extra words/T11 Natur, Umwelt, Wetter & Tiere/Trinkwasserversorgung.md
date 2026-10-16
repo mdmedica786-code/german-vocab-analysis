@@ -23,6 +23,8 @@ status: "new"
 
 ![[Trinkwasserversorgung.ogg]]
 
+![[Trinkwasserversorgung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Trinkwasserversorgung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trinkwasserversorgung&language=de)
 
 **Meaning:** drinking water supply

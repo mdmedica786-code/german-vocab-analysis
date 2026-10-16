@@ -23,6 +23,8 @@ status: "new"
 
 ![[Preisgeld.ogg]]
 
+![[Preisgeld.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Preisgeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Preisgeld&language=de)
 
 **Meaning:** prize money

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Benimmbuch.ogg]]
 
+![[Benimmbuch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Benimmbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Benimmbuch&language=de)
 
 **Meaning:** book of etiquette

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Literaturklassiker
 
+![[Literaturklassiker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Literaturklassiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Literaturklassiker&language=de)
 
 **Meaning:** literary classic

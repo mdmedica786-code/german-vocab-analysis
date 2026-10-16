@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Spiegel
 
+![[Spiegel.jpg]]
+
 ![[Spiegel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Spiegel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spiegel&language=de)

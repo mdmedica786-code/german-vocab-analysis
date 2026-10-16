@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kunstsammler.ogg]]
 
+![[Kunstsammler.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kunstsammler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunstsammler&language=de)
 
 **Meaning:** art collector (m)

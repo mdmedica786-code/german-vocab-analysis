@@ -25,6 +25,8 @@ status: "new"
 
 ![[Reisebüro.ogg]]
 
+![[Reisebüro.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reiseb%C3%BCro/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reiseb%C3%BCro&language=de)
 
 **Meaning:** travel agency

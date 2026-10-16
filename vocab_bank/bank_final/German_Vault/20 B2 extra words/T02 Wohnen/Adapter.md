@@ -23,6 +23,8 @@ status: "new"
 
 ![[Adapter.ogg]]
 
+![[Adapter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Adapter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Adapter&language=de)
 
 **Meaning:** adapter

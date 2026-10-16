@@ -23,6 +23,8 @@ status: "new"
 
 ![[Influencer.ogg]]
 
+![[Influencer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Influencer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Influencer&language=de)
 
 **Meaning:** influencer

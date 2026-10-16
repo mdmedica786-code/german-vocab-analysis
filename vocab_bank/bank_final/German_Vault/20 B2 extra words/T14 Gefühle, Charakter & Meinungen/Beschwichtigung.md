@@ -23,6 +23,8 @@ status: "new"
 
 ![[Beschwichtigung.ogg]]
 
+![[Beschwichtigung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beschwichtigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beschwichtigung&language=de)
 
 **Meaning:** appeasement; soothing

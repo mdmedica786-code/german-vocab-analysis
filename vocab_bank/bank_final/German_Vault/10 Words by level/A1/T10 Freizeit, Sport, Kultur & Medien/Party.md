@@ -25,6 +25,8 @@ status: "new"
 
 ![[Party.ogg]]
 
+![[Party.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Party/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Party&language=de)
 
 **Meaning:** party

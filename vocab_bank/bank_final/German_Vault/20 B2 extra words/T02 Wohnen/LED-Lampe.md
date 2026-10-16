@@ -23,6 +23,8 @@ status: "new"
 
 ![[LED-Lampe.ogg]]
 
+![[LED-Lampe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/LED-Lampe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=LED-Lampe&language=de)
 
 **Meaning:** LED lamp

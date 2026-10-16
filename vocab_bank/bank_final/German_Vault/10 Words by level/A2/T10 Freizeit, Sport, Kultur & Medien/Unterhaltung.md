@@ -25,6 +25,8 @@ status: "new"
 
 ![[Unterhaltung.ogg]]
 
+![[Unterhaltung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Unterhaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterhaltung&language=de)
 
 **Meaning:** entertainment

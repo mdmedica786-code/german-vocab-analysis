@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zersiedelung.ogg]]
 
+![[Zersiedelung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zersiedelung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zersiedelung&language=de)
 
 **Meaning:** urban sprawl

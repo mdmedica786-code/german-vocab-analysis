@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kluft.ogg]]
 
+![[Kluft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kluft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kluft&language=de)
 
 **Meaning:** gulf; gap; divide

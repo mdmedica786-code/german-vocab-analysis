@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Vokallänge
 
+![[Vokallänge.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vokall%C3%A4nge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vokall%C3%A4nge&language=de)
 
 **Meaning:** vowel length

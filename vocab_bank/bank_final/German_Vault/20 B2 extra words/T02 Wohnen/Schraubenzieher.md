@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Schraubenzieher
 
+![[Schraubenzieher.jpg]]
+
 ![[Schraubenzieher.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schraubenzieher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schraubenzieher&language=de)

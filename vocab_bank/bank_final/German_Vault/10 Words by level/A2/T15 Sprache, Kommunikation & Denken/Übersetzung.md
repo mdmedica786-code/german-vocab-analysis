@@ -25,6 +25,8 @@ status: "new"
 
 ![[Übersetzung.ogg]]
 
+![[Übersetzung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbersetzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbersetzung&language=de)
 
 **Meaning:** translation

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kredit.ogg]]
 
+![[Kredit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kredit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kredit&language=de)
 
 **Meaning:** loan

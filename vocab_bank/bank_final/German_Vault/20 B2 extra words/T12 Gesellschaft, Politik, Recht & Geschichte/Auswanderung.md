@@ -23,6 +23,8 @@ status: "new"
 
 ![[Auswanderung.ogg]]
 
+![[Auswanderung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Auswanderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auswanderung&language=de)
 
 **Meaning:** emigration

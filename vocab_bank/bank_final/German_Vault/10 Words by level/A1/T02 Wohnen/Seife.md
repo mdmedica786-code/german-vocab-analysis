@@ -25,6 +25,8 @@ status: "new"
 
 ![[Seife.ogg]]
 
+![[Seife.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Seife/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Seife&language=de)
 
 **Meaning:** soap

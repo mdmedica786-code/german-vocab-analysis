@@ -24,6 +24,8 @@ status: "new"
 
 ![[Lerner.ogg]]
 
+![[Lerner.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lerner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lerner&language=de)
 
 **Meaning:** learner (m)

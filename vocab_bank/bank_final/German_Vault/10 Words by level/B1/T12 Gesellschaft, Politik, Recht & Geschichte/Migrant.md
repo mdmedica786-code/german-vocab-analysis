@@ -25,6 +25,8 @@ status: "new"
 
 ![[Migrant.ogg]]
 
+![[Migrant.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Migrant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Migrant&language=de)
 
 **Meaning:** migrant (m)

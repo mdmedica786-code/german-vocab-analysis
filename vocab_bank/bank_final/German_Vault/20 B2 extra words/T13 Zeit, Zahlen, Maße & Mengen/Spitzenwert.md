@@ -23,6 +23,8 @@ status: "new"
 
 ![[Spitzenwert.ogg]]
 
+![[Spitzenwert.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spitzenwert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spitzenwert&language=de)
 
 **Meaning:** peak value; top value

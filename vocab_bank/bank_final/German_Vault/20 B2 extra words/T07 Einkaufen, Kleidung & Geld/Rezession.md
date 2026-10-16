@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rezession.ogg]]
 
+![[Rezession.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rezession/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rezession&language=de)
 
 **Meaning:** recession

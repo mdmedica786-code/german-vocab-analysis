@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Gärtnerin
 
+![[Gärtnerin.jpg]]
+
 ![[Gärtnerin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/G%C3%A4rtnerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=G%C3%A4rtnerin&language=de)

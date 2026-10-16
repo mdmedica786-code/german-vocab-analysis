@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Balkon
 
+![[Balkon.jpg]]
+
 ![[Balkon.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Balkon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Balkon&language=de)

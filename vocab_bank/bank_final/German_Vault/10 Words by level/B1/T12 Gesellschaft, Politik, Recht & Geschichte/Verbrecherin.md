@@ -24,6 +24,8 @@ status: "new"
 
 ![[Verbrecherin.ogg]]
 
+![[Verbrecherin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verbrecherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbrecherin&language=de)
 
 **Meaning:** criminal (f)

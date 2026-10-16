@@ -23,6 +23,8 @@ status: "new"
 
 ![[Glocke.ogg]]
 
+![[Glocke.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Glocke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Glocke&language=de)
 
 **Meaning:** bell

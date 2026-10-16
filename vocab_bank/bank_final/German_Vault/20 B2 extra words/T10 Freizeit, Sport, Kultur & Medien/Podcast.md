@@ -23,6 +23,8 @@ status: "new"
 
 ![[Podcast.ogg]]
 
+![[Podcast.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Podcast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Podcast&language=de)
 
 **Meaning:** podcast

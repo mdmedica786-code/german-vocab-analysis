@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Kopf
 
+![[Kopf.jpg]]
+
 ![[Kopf.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kopf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kopf&language=de)

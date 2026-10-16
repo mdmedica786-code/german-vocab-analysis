@@ -24,6 +24,8 @@ status: "new"
 
 ![[Oberärztin.ogg]]
 
+![[Oberärztin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ober%C3%A4rztin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ober%C3%A4rztin&language=de)
 
 **Meaning:** senior physician (f)

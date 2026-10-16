@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Rätoromanisch
 
+![[Rätoromanisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/R%C3%A4toromanisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%A4toromanisch&language=de)
 
 **Meaning:** Romansh

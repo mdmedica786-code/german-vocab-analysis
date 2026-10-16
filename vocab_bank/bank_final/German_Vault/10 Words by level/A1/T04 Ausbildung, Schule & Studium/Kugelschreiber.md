@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Kugelschreiber
 
+![[Kugelschreiber.jpg]]
+
 ![[Kugelschreiber.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kugelschreiber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kugelschreiber&language=de)

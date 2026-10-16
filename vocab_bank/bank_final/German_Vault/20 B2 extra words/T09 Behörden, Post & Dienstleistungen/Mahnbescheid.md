@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mahnbescheid.ogg]]
 
+![[Mahnbescheid.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mahnbescheid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mahnbescheid&language=de)
 
 **Meaning:** payment order; court demand for payment

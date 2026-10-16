@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kooperation.ogg]]
 
+![[Kooperation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kooperation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kooperation&language=de)
 
 **Meaning:** cooperation

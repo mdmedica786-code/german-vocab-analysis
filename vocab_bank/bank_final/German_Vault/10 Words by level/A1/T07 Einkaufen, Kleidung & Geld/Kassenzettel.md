@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kassenzettel.ogg]]
 
+![[Kassenzettel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kassenzettel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kassenzettel&language=de)
 
 **Meaning:** receipt

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Absprache
 
+![[Absprache.jpg]]
+
 ![[Absprache.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Absprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Absprache&language=de)

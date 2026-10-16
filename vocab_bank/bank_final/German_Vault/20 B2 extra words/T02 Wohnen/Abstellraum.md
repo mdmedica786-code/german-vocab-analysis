@@ -23,6 +23,8 @@ status: "new"
 
 ![[Abstellraum.ogg]]
 
+![[Abstellraum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abstellraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abstellraum&language=de)
 
 **Meaning:** storage room; box room

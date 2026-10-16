@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sachbearbeiter.ogg]]
 
+![[Sachbearbeiter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sachbearbeiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sachbearbeiter&language=de)
 
 **Meaning:** case worker; clerk in charge

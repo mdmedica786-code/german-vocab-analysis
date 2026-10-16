@@ -23,6 +23,8 @@ status: "new"
 
 ![[Postbote.ogg]]
 
+![[Postbote.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Postbote/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Postbote&language=de)
 
 **Meaning:** postman; postie

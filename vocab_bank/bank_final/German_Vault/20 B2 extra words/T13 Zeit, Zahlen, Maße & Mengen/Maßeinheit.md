@@ -23,6 +23,8 @@ status: "new"
 
 ![[Maßeinheit.ogg]]
 
+![[Maßeinheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ma%C3%9Feinheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ma%C3%9Feinheit&language=de)
 
 **Meaning:** unit of measurement

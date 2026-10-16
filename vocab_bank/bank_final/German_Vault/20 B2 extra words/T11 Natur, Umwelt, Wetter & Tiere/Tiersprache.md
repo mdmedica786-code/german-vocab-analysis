@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tiersprache.ogg]]
 
+![[Tiersprache.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tiersprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiersprache&language=de)
 
 **Meaning:** animal language; animal communication

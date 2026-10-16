@@ -23,6 +23,8 @@ status: "new"
 
 ![[Arbeitsmarkt.ogg]]
 
+![[Arbeitsmarkt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitsmarkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsmarkt&language=de)
 
 **Meaning:** labour market

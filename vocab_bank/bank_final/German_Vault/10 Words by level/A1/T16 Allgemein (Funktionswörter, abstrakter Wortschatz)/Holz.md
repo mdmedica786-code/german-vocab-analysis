@@ -25,6 +25,8 @@ status: "new"
 
 ![[Holz.ogg]]
 
+![[Holz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Holz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Holz&language=de)
 
 **Meaning:** wood

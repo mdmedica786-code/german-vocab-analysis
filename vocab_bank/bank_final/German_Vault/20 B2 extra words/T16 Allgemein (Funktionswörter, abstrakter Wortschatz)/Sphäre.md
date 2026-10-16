@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sphäre.ogg]]
 
+![[Sphäre.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sph%C3%A4re/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sph%C3%A4re&language=de)
 
 **Meaning:** sphere; realm

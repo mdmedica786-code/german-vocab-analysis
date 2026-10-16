@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hingabe.ogg]]
 
+![[Hingabe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hingabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hingabe&language=de)
 
 **Meaning:** devotion; dedication

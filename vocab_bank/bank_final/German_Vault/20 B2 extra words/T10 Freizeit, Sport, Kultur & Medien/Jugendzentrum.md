@@ -23,6 +23,8 @@ status: "new"
 
 ![[Jugendzentrum.ogg]]
 
+![[Jugendzentrum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Jugendzentrum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jugendzentrum&language=de)
 
 **Meaning:** youth centre

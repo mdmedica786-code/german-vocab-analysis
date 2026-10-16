@@ -24,6 +24,8 @@ status: "new"
 
 ![[Begrüßung.ogg]]
 
+![[Begrüßung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Begr%C3%BC%C3%9Fung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Begr%C3%BC%C3%9Fung&language=de)
 
 **Meaning:** greeting

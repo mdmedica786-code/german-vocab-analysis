@@ -23,6 +23,8 @@ status: "new"
 
 ![[Abstand.ogg]]
 
+![[Abstand.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abstand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abstand&language=de)
 
 **Meaning:** distance; gap

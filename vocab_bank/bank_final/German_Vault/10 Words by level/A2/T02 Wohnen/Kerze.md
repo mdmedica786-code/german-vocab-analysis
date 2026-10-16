@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kerze.ogg]]
 
+![[Kerze.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kerze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kerze&language=de)
 
 **Meaning:** candle

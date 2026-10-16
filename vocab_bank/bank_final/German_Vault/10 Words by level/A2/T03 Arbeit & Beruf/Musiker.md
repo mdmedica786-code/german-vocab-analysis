@@ -25,6 +25,8 @@ status: "new"
 
 ![[Musiker.ogg]]
 
+![[Musiker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Musiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musiker&language=de)
 
 **Meaning:** musician (m)

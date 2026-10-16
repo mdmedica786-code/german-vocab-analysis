@@ -24,6 +24,8 @@ status: "new"
 
 ![[Gift.ogg]]
 
+![[Gift.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gift&language=de)
 
 **Meaning:** poison

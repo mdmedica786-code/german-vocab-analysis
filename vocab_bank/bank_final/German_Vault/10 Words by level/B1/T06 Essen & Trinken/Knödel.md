@@ -25,6 +25,8 @@ status: "new"
 
 ![[Knödel.ogg]]
 
+![[Knödel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kn%C3%B6del/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kn%C3%B6del&language=de)
 
 **Meaning:** German dumpling

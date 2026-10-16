@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Kinderbuchreihe
 
+![[Kinderbuchreihe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kinderbuchreihe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinderbuchreihe&language=de)
 
 **Meaning:** children's book series

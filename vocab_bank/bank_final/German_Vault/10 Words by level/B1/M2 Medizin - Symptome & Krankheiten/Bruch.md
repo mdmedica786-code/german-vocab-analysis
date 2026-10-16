@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bruch.ogg]]
 
+![[Bruch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bruch&language=de)
 
 **Meaning:** fracture; break

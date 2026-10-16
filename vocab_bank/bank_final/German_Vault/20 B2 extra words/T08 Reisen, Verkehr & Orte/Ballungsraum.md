@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ballungsraum.ogg]]
 
+![[Ballungsraum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ballungsraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ballungsraum&language=de)
 
 **Meaning:** conurbation; densely populated area

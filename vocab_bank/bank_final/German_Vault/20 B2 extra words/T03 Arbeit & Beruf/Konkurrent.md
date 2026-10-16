@@ -23,6 +23,8 @@ status: "new"
 
 ![[Konkurrent.ogg]]
 
+![[Konkurrent.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konkurrent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konkurrent&language=de)
 
 **Meaning:** competitor; rival

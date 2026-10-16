@@ -23,6 +23,8 @@ status: "new"
 
 ![[Grundrecht.ogg]]
 
+![[Grundrecht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Grundrecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundrecht&language=de)
 
 **Meaning:** fundamental right

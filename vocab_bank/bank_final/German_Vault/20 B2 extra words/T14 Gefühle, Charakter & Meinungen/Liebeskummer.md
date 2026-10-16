@@ -23,6 +23,8 @@ status: "new"
 
 ![[Liebeskummer.ogg]]
 
+![[Liebeskummer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Liebeskummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Liebeskummer&language=de)
 
 **Meaning:** heartache; lovesickness

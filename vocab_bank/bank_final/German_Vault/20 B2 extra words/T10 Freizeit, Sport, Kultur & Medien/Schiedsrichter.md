@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schiedsrichter.ogg]]
 
+![[Schiedsrichter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schiedsrichter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schiedsrichter&language=de)
 
 **Meaning:** referee; umpire

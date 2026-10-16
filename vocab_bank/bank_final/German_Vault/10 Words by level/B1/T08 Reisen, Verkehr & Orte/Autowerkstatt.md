@@ -24,6 +24,8 @@ status: "new"
 
 ![[Autowerkstatt.ogg]]
 
+![[Autowerkstatt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Autowerkstatt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autowerkstatt&language=de)
 
 **Meaning:** garage

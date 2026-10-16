@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schlafmangel.ogg]]
 
+![[Schlafmangel.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schlafmangel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlafmangel&language=de)
 
 **Meaning:** lack of sleep; sleep deprivation

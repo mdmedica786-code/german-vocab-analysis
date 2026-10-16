@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Haut
 
+![[Haut.png]]
+
 ![[Haut.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Haut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haut&language=de)

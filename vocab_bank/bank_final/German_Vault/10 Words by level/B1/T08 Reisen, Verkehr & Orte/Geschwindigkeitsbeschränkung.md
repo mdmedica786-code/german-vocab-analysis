@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Geschwindigkeitsbeschränkung
 
+![[Geschwindigkeitsbeschränkung.jpg]]
+
 ![[Geschwindigkeitsbeschränkung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Geschwindigkeitsbeschr%C3%A4nkung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geschwindigkeitsbeschr%C3%A4nkung&language=de)

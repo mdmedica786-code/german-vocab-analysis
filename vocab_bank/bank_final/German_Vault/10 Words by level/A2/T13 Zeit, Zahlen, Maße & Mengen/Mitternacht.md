@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Mitternacht
 
+![[Mitternacht.jpg]]
+
 ![[Mitternacht.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Mitternacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitternacht&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verschlüsselung.ogg]]
 
+![[Verschlüsselung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verschl%C3%BCsselung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verschl%C3%BCsselung&language=de)
 
 **Meaning:** encryption

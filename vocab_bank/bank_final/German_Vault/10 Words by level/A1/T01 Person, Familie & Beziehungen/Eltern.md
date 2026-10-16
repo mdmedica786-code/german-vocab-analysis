@@ -25,6 +25,8 @@ status: "new"
 
 ![[Eltern.ogg]]
 
+![[Eltern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Eltern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eltern&language=de)
 
 **Meaning:** parents

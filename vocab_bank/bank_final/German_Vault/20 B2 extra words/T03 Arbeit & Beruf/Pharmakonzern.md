@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pharmakonzern.ogg]]
 
+![[Pharmakonzern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pharmakonzern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pharmakonzern&language=de)
 
 **Meaning:** pharmaceutical company

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Kuchen
 
+![[Kuchen.jpg]]
+
 ![[Kuchen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kuchen&language=de)

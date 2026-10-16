@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Erlaubnis
 
+![[Erlaubnis.jpg]]
+
 ![[Erlaubnis.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Erlaubnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erlaubnis&language=de)

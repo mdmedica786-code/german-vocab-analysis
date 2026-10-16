@@ -23,6 +23,8 @@ status: "new"
 
 ![[Scheibenwischer.ogg]]
 
+![[Scheibenwischer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Scheibenwischer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Scheibenwischer&language=de)
 
 **Meaning:** windscreen wiper

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Archiv.ogg]]
 
+![[Archiv.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Archiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Archiv&language=de)
 
 **Meaning:** archive

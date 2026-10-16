@@ -24,6 +24,8 @@ status: "new"
 
 ![[Infoblatt.ogg]]
 
+![[Infoblatt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Infoblatt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Infoblatt&language=de)
 
 **Meaning:** fact sheet

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Satzmelodie.ogg]]
 
+![[Satzmelodie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Satzmelodie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Satzmelodie&language=de)
 
 **Meaning:** intonation

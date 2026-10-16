@@ -23,6 +23,8 @@ status: "new"
 
 ![[Philosophin.ogg]]
 
+![[Philosophin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Philosophin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Philosophin&language=de)
 
 **Meaning:** philosopher (female)

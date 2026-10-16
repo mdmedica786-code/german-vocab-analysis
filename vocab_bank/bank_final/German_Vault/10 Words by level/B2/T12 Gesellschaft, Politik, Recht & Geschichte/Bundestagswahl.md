@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bundestagswahl.ogg]]
 
+![[Bundestagswahl.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bundestagswahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundestagswahl&language=de)
 
 **Meaning:** federal election

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Applaus
 
+![[Applaus.jpg]]
+
 ![[Applaus.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Applaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Applaus&language=de)

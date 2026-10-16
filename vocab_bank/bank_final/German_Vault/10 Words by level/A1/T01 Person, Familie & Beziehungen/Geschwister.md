@@ -25,6 +25,8 @@ status: "new"
 
 ![[Geschwister.ogg]]
 
+![[Geschwister.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geschwister/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geschwister&language=de)
 
 **Meaning:** siblings

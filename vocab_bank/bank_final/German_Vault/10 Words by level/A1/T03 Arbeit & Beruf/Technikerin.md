@@ -25,6 +25,8 @@ status: "new"
 
 ![[Technikerin.ogg]]
 
+![[Technikerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Technikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Technikerin&language=de)
 
 **Meaning:** technician (f)

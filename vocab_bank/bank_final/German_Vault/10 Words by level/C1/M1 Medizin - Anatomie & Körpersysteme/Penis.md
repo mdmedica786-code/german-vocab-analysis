@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Penis
 
+![[Penis.jpg]]
+
 ![[Penis.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Penis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Penis&language=de)

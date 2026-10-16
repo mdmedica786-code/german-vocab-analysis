@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kröte.ogg]]
 
+![[Kröte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kr%C3%B6te/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kr%C3%B6te&language=de)
 
 **Meaning:** toad

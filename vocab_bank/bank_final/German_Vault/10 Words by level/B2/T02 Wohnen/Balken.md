@@ -23,6 +23,8 @@ status: "new"
 
 ![[Balken.ogg]]
 
+![[Balken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Balken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Balken&language=de)
 
 **Meaning:** beam

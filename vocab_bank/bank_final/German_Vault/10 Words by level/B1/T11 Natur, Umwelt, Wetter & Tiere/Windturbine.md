@@ -24,6 +24,8 @@ status: "new"
 
 ![[Windturbine.ogg]]
 
+![[Windturbine.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Windturbine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Windturbine&language=de)
 
 **Meaning:** wind turbine

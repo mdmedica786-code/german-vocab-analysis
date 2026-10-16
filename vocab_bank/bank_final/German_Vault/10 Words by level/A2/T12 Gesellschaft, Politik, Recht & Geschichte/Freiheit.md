@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Freiheit
 
+![[Freiheit.jpg]]
+
 ![[Freiheit.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Freiheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freiheit&language=de)

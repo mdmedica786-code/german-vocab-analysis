@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das LED-Licht
 
+![[LED-Licht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/LED-Licht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=LED-Licht&language=de)
 
 **Meaning:** LED light

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kälte.ogg]]
 
+![[Kälte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4lte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4lte&language=de)
 
 **Meaning:** cold

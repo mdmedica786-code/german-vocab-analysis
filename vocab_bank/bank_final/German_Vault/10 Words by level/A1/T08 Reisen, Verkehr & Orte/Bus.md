@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Bus
 
+![[Bus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bus&language=de)
 
 **Meaning:** bus

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gas.ogg]]
 
+![[Gas.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gas/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gas&language=de)
 
 **Meaning:** gas

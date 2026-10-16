@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Uni-Mensa
 
+![[Uni-Mensa.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Uni-Mensa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Uni-Mensa&language=de)
 
 **Meaning:** university cafeteria

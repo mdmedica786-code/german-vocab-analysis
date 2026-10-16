@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der CD-Player
 
+![[CD-Player.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/CD-Player/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=CD-Player&language=de)
 
 **Meaning:** CD player

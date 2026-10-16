@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Leuchtturm
 
+![[Leuchtturm.jpg]]
+
 ![[Leuchtturm.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Leuchtturm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leuchtturm&language=de)

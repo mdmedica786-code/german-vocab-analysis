@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Museumsinsel
 
+![[Museumsinsel.jpg]]
+
 ![[Museumsinsel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Museumsinsel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Museumsinsel&language=de)

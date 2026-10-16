@@ -23,6 +23,8 @@ status: "new"
 
 ![[Löwin.ogg]]
 
+![[Löwin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/L%C3%B6win/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%B6win&language=de)
 
 **Meaning:** lioness

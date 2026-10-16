@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Stern
 
+![[Stern.jpg]]
+
 ![[Stern.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Stern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stern&language=de)

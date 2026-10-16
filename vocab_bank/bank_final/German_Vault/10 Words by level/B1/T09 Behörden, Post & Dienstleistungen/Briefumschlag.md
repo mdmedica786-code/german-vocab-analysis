@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Briefumschlag
 
+![[Briefumschlag.jpg]]
+
 ![[Briefumschlag.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Briefumschlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Briefumschlag&language=de)

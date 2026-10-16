@@ -23,6 +23,8 @@ status: "new"
 
 ![[Notunterkunft.ogg]]
 
+![[Notunterkunft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Notunterkunft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notunterkunft&language=de)
 
 **Meaning:** emergency shelter

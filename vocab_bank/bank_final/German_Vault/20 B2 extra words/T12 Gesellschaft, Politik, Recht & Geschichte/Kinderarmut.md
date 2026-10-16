@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kinderarmut.ogg]]
 
+![[Kinderarmut.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kinderarmut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinderarmut&language=de)
 
 **Meaning:** child poverty

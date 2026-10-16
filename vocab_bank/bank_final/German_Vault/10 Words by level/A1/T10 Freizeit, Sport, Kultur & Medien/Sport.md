@@ -25,6 +25,8 @@ status: "new"
 
 ![[Sport.ogg]]
 
+![[Sport.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sport/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sport&language=de)
 
 **Meaning:** sport

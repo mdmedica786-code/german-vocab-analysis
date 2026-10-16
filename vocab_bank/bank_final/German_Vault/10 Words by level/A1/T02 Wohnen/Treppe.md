@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Treppe
 
+![[Treppe.jpg]]
+
 ![[Treppe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Treppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Treppe&language=de)

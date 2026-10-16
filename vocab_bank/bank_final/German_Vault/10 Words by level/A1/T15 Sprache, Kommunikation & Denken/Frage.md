@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Frage
 
+![[Frage.jpg]]
+
 ![[Frage.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Frage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frage&language=de)

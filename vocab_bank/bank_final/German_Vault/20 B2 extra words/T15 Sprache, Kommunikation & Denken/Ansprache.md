@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Ansprache
 
+![[Ansprache.jpg]]
+
 ![[Ansprache.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Ansprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ansprache&language=de)

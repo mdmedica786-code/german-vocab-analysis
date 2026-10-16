@@ -23,6 +23,8 @@ status: "new"
 
 ![[Abschleppdienst.ogg]]
 
+![[Abschleppdienst.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abschleppdienst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abschleppdienst&language=de)
 
 **Meaning:** towing service

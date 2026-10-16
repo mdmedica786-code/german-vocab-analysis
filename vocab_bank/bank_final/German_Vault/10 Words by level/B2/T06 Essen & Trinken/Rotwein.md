@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rotwein.ogg]]
 
+![[Rotwein.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rotwein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rotwein&language=de)
 
 **Meaning:** red wine

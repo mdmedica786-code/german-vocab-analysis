@@ -23,6 +23,8 @@ status: "new"
 
 ![[Barrierefreiheit.ogg]]
 
+![[Barrierefreiheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Barrierefreiheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Barrierefreiheit&language=de)
 
 **Meaning:** accessibility; barrier-free access

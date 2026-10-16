@@ -25,6 +25,8 @@ status: "new"
 
 ![[Broschüre.ogg]]
 
+![[Broschüre.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Brosch%C3%BCre/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brosch%C3%BCre&language=de)
 
 **Meaning:** brochure

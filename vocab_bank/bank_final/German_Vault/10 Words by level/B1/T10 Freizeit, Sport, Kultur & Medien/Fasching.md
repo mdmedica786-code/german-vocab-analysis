@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fasching.ogg]]
 
+![[Fasching.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fasching/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fasching&language=de)
 
 **Meaning:** carnival (Austrian, Bavarian)

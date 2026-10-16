@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Essen
 
+![[Essen.png]]
+
 ![[essen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Essen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Essen&language=de)

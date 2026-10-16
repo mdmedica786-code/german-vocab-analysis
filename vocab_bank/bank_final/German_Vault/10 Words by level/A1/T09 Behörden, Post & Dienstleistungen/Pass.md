@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Pass
 
+![[Pass.jpg]]
+
 ![[Pass.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Pass/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pass&language=de)

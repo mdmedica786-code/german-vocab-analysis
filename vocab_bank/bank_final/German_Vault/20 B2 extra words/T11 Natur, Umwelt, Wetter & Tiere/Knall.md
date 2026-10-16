@@ -23,6 +23,8 @@ status: "new"
 
 ![[Knall.ogg]]
 
+![[Knall.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Knall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Knall&language=de)
 
 **Meaning:** bang; crack; pop

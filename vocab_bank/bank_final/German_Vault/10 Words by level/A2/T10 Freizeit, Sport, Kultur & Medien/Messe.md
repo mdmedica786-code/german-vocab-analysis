@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Messe
 
+![[Messe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Messe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Messe&language=de)
 
 **Meaning:** exhibition

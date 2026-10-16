@@ -24,6 +24,8 @@ status: "new"
 
 ![[Designerin.ogg]]
 
+![[Designerin.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Designerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Designerin&language=de)
 
 **Meaning:** designer (f)

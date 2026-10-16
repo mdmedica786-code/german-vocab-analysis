@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Neid
 
+![[Neid.jpg]]
+
 ![[Neid.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Neid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neid&language=de)

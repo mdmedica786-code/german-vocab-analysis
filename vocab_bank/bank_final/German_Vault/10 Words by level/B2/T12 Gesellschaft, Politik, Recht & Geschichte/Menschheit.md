@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Menschheit
 
+![[Menschheit.png]]
+
 ![[Menschheit.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Menschheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Menschheit&language=de)

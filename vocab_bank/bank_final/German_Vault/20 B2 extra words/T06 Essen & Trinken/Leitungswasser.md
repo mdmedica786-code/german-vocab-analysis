@@ -23,6 +23,8 @@ status: "new"
 
 ![[Leitungswasser.ogg]]
 
+![[Leitungswasser.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Leitungswasser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leitungswasser&language=de)
 
 **Meaning:** tap water

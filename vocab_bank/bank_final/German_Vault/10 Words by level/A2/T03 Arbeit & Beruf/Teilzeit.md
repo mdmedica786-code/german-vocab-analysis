@@ -25,6 +25,8 @@ status: "new"
 
 ![[Teilzeit.ogg]]
 
+![[Teilzeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Teilzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teilzeit&language=de)
 
 **Meaning:** part-time

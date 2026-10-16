@@ -25,6 +25,8 @@ status: "new"
 
 ![[Hitze.ogg]]
 
+![[Hitze.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hitze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hitze&language=de)
 
 **Meaning:** heat

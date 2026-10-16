@@ -24,6 +24,8 @@ status: "new"
 
 ![[Seglerin.ogg]]
 
+![[Seglerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Seglerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Seglerin&language=de)
 
 **Meaning:** sailor (f)

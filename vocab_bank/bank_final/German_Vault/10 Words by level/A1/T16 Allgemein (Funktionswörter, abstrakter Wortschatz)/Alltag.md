@@ -25,6 +25,8 @@ status: "new"
 
 ![[Alltag.ogg]]
 
+![[Alltag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Alltag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alltag&language=de)
 
 **Meaning:** everyday life

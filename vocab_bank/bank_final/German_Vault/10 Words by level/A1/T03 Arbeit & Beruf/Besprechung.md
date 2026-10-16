@@ -25,6 +25,8 @@ status: "new"
 
 ![[Besprechung.ogg]]
 
+![[Besprechung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Besprechung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besprechung&language=de)
 
 **Meaning:** meeting

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Reue.ogg]]
 
+![[Reue.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reue/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reue&language=de)
 
 **Meaning:** remorse; regret

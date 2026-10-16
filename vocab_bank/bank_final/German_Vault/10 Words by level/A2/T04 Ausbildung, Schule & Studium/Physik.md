@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Physik
 
+![[Physik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Physik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Physik&language=de)
 
 **Meaning:** physics

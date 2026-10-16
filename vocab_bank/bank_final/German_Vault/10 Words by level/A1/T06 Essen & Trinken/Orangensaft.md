@@ -24,6 +24,8 @@ status: "new"
 
 ![[Orangensaft.ogg]]
 
+![[Orangensaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Orangensaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Orangensaft&language=de)
 
 **Meaning:** orange juice

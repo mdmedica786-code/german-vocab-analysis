@@ -23,6 +23,8 @@ status: "new"
 
 ![[Regenwald.ogg]]
 
+![[Regenwald.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Regenwald/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regenwald&language=de)
 
 **Meaning:** rainforest

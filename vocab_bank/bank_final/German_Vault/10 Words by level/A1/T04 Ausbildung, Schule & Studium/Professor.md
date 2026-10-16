@@ -25,6 +25,8 @@ status: "new"
 
 ![[Professor.ogg]]
 
+![[Professor.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Professor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Professor&language=de)
 
 **Meaning:** professor (m)

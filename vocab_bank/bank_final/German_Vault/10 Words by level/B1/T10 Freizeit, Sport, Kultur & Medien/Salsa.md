@@ -21,6 +21,8 @@ status: "new"
 
 ![[Salsa.ogg]]
 
+![[Salsa.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Salsa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Salsa&language=de)
 
 **Meaning:** salsa music

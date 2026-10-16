@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Baby
 
+![[Baby.jpg]]
+
 ![[Baby.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Baby/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Baby&language=de)

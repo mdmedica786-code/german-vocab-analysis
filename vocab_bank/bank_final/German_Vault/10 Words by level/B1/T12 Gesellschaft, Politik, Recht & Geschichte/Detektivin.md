@@ -24,6 +24,8 @@ status: "new"
 
 ![[Detektivin.ogg]]
 
+![[Detektivin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Detektivin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Detektivin&language=de)
 
 **Meaning:** detective (f)

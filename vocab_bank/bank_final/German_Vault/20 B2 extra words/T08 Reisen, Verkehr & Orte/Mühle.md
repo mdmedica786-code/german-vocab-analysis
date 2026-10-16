@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mühle.ogg]]
 
+![[Mühle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%BChle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BChle&language=de)
 
 **Meaning:** mill

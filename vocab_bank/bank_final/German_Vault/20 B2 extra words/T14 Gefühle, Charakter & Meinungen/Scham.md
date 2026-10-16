@@ -23,6 +23,8 @@ status: "new"
 
 ![[Scham.ogg]]
 
+![[Scham.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Scham/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Scham&language=de)
 
 **Meaning:** shame

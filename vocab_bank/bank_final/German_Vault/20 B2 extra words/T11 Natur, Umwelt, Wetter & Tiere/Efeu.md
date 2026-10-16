@@ -23,6 +23,8 @@ status: "new"
 
 ![[Efeu.ogg]]
 
+![[Efeu.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Efeu/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Efeu&language=de)
 
 **Meaning:** ivy

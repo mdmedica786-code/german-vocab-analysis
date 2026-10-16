@@ -24,6 +24,8 @@ status: "new"
 
 ![[Umweltproblem.ogg]]
 
+![[Umweltproblem.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Umweltproblem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umweltproblem&language=de)
 
 **Meaning:** environmental problem

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Implantat.ogg]]
 
+![[Implantat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Implantat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Implantat&language=de)
 
 **Meaning:** implant

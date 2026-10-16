@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ofen.ogg]]
 
+![[Ofen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ofen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ofen&language=de)
 
 **Meaning:** oven

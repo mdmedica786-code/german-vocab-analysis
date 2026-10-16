@@ -24,6 +24,8 @@ status: "new"
 
 ![[Genuss.ogg]]
 
+![[Genuss.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Genuss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Genuss&language=de)
 
 **Meaning:** enjoyment; pleasure; consumption

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zeichensprache.ogg]]
 
+![[Zeichensprache.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zeichensprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeichensprache&language=de)
 
 **Meaning:** gestures; sign-based communication (not formal sign language, which is Gebärdensprache)

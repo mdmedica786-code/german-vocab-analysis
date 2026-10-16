@@ -25,6 +25,8 @@ status: "new"
 
 ![[Imbiss.ogg]]
 
+![[Imbiss.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Imbiss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Imbiss&language=de)
 
 **Meaning:** takeaway

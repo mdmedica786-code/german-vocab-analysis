@@ -23,6 +23,8 @@ status: "new"
 
 ![[Biologin.ogg]]
 
+![[Biologin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Biologin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biologin&language=de)
 
 **Meaning:** biologist (female)

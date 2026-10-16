@@ -23,6 +23,8 @@ status: "new"
 
 ![[Geschwindigkeitsbegrenzung.ogg]]
 
+![[Geschwindigkeitsbegrenzung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geschwindigkeitsbegrenzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geschwindigkeitsbegrenzung&language=de)
 
 **Meaning:** speed limit

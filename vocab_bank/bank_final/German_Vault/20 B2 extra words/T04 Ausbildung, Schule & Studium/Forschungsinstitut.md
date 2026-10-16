@@ -23,6 +23,8 @@ status: "new"
 
 ![[Forschungsinstitut.ogg]]
 
+![[Forschungsinstitut.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Forschungsinstitut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forschungsinstitut&language=de)
 
 **Meaning:** research institute

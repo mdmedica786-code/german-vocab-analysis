@@ -24,6 +24,8 @@ status: "new"
 
 ![[Espressokanne.ogg]]
 
+![[Espressokanne.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Espressokanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Espressokanne&language=de)
 
 **Meaning:** espresso pot (moka pot)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Steuerbescheid.ogg]]
 
+![[Steuerbescheid.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Steuerbescheid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Steuerbescheid&language=de)
 
 **Meaning:** tax assessment notice

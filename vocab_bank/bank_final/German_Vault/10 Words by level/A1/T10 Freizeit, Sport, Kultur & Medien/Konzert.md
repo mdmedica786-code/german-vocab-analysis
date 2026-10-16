@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Konzert
 
+![[Konzert.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konzert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konzert&language=de)
 
 **Meaning:** concert

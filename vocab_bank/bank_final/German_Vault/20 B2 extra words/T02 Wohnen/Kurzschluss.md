@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kurzschluss.ogg]]
 
+![[Kurzschluss.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kurzschluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kurzschluss&language=de)
 
 **Meaning:** short circuit

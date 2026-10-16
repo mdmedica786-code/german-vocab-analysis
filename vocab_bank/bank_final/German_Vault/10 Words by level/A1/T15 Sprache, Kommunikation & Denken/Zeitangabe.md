@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zeitangabe.ogg]]
 
+![[Zeitangabe.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zeitangabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitangabe&language=de)
 
 **Meaning:** time designation

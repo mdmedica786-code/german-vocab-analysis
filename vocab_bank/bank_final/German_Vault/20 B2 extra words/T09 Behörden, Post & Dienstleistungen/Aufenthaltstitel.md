@@ -23,6 +23,8 @@ status: "new"
 
 ![[Aufenthaltstitel.ogg]]
 
+![[Aufenthaltstitel.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aufenthaltstitel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufenthaltstitel&language=de)
 
 **Meaning:** residence permit

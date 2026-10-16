@@ -23,6 +23,8 @@ status: "new"
 
 ![[Nudelholz.ogg]]
 
+![[Nudelholz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nudelholz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nudelholz&language=de)
 
 **Meaning:** rolling pin

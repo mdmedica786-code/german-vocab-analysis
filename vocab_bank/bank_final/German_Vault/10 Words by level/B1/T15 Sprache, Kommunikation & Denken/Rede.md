@@ -25,6 +25,8 @@ status: "new"
 
 ![[Rede.ogg]]
 
+![[Rede.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rede/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rede&language=de)
 
 **Meaning:** speech

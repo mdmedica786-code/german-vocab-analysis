@@ -23,6 +23,8 @@ status: "new"
 
 ![[Neuzeit.ogg]]
 
+![[Neuzeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Neuzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neuzeit&language=de)
 
 **Meaning:** modern era

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Kugel
 
+![[Kugel.png]]
+
 ![[Kugel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kugel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kugel&language=de)

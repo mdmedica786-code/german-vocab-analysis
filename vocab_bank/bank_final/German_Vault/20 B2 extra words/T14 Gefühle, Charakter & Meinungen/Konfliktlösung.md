@@ -23,6 +23,8 @@ status: "new"
 
 ![[Konfliktlösung.ogg]]
 
+![[Konfliktlösung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konfliktl%C3%B6sung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konfliktl%C3%B6sung&language=de)
 
 **Meaning:** conflict resolution

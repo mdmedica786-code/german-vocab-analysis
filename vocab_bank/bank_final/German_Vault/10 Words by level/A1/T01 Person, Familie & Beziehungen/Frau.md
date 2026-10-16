@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Frau
 
+![[Frau.jpg]]
+
 ![[Frau.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Frau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frau&language=de)

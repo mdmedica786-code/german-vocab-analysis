@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die CD
 
+![[CD.png]]
+
 ![[CD.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/CD/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=CD&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stromausfall.ogg]]
 
+![[Stromausfall.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stromausfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stromausfall&language=de)
 
 **Meaning:** power cut

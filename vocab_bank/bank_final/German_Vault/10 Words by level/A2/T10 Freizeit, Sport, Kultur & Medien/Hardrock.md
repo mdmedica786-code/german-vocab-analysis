@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Hardrock
 
+![[Hardrock.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hardrock/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hardrock&language=de)
 
 **Meaning:** hard rock

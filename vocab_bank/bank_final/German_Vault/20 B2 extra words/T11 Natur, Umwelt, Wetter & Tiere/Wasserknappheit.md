@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wasserknappheit.ogg]]
 
+![[Wasserknappheit.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wasserknappheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wasserknappheit&language=de)
 
 **Meaning:** water scarcity

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fahrgemeinschaft.ogg]]
 
+![[Fahrgemeinschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fahrgemeinschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrgemeinschaft&language=de)
 
 **Meaning:** carpool

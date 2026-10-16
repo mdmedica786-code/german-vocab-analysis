@@ -24,6 +24,8 @@ status: "new"
 
 ![[Faden.ogg]]
 
+![[Faden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Faden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Faden&language=de)
 
 **Meaning:** thread; (den Faden verlieren = to lose the thread)

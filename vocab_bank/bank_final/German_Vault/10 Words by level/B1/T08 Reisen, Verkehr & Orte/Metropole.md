@@ -24,6 +24,8 @@ status: "new"
 
 ![[Metropole.ogg]]
 
+![[Metropole.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Metropole/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Metropole&language=de)
 
 **Meaning:** metropolis

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Zusatz
 
+![[Zusatz.png]]
+
 ![[Zusatz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zusatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zusatz&language=de)

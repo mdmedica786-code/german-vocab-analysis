@@ -23,6 +23,8 @@ status: "new"
 
 ![[Seniorenheim.ogg]]
 
+![[Seniorenheim.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Seniorenheim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Seniorenheim&language=de)
 
 **Meaning:** retirement home; care home

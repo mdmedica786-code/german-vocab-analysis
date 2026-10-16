@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Werkstatt
 
+![[Werkstatt.jpg]]
+
 ![[Werkstatt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Werkstatt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werkstatt&language=de)

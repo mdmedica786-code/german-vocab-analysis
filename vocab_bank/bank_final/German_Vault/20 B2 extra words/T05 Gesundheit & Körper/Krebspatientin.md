@@ -23,6 +23,8 @@ status: "new"
 
 ![[Krebspatientin.ogg]]
 
+![[Krebspatientin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krebspatientin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krebspatientin&language=de)
 
 **Meaning:** cancer patient (female)

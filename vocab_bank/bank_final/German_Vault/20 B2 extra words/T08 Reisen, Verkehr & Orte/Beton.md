@@ -23,6 +23,8 @@ status: "new"
 
 ![[Beton.ogg]]
 
+![[Beton.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beton/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beton&language=de)
 
 **Meaning:** concrete

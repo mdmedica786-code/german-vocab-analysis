@@ -24,6 +24,8 @@ status: "new"
 
 ![[Anhang.ogg]]
 
+![[Anhang.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anhang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anhang&language=de)
 
 **Meaning:** attachment; appendix

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Konstellation.ogg]]
 
+![[Konstellation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konstellation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konstellation&language=de)
 
 **Meaning:** constellation; situation

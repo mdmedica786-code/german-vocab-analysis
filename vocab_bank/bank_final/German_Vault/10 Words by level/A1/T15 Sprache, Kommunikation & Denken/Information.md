@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Information
 
+![[Information.png]]
+
 ![[Information.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Information/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Information&language=de)

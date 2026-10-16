@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Brot
 
+![[Brot.jpg]]
+
 ![[Brot.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Brot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brot&language=de)

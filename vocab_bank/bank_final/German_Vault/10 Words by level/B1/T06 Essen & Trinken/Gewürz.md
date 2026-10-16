@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gewürz.ogg]]
 
+![[Gewürz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gew%C3%BCrz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gew%C3%BCrz&language=de)
 
 **Meaning:** spice

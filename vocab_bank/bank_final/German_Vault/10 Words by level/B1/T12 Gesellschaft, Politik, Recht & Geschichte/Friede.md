@@ -26,6 +26,8 @@ status: "new"
 
 ![[Friede.ogg]]
 
+![[Friede.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Friede/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Friede&language=de)
 
 **Meaning:** peace

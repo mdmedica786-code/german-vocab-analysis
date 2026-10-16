@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Lernhelfer
 
+![[Lernhelfer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lernhelfer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernhelfer&language=de)
 
 **Meaning:** tutor (m)

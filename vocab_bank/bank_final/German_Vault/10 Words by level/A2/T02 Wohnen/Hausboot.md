@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hausboot.ogg]]
 
+![[Hausboot.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hausboot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausboot&language=de)
 
 **Meaning:** houseboat

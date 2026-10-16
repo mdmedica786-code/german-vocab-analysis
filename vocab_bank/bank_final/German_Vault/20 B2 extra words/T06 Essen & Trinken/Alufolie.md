@@ -23,6 +23,8 @@ status: "new"
 
 ![[Alufolie.ogg]]
 
+![[Alufolie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Alufolie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alufolie&language=de)
 
 **Meaning:** aluminium foil

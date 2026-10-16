@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kleingarten.ogg]]
 
+![[Kleingarten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kleingarten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleingarten&language=de)
 
 **Meaning:** allotment garden

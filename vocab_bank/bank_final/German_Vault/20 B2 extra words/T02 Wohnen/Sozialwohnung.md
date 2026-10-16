@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sozialwohnung.ogg]]
 
+![[Sozialwohnung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sozialwohnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialwohnung&language=de)
 
 **Meaning:** social housing flat

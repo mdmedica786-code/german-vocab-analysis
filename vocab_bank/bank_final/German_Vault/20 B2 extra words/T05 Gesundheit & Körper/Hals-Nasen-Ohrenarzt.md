@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Hals-Nasen-Ohrenarzt
 
+![[Hals-Nasen-Ohrenarzt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hals-Nasen-Ohrenarzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hals-Nasen-Ohrenarzt&language=de)
 
 **Meaning:** ear, nose and throat doctor (male)

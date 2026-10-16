@@ -23,6 +23,8 @@ status: "new"
 
 ![[Motto.ogg]]
 
+![[Motto.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Motto/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Motto&language=de)
 
 **Meaning:** motto; theme; slogan

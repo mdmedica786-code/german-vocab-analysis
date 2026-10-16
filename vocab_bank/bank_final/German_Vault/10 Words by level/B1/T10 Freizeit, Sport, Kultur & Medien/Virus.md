@@ -25,6 +25,8 @@ status: "new"
 
 ![[Virus.ogg]]
 
+![[Virus.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Virus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Virus&language=de)
 
 **Meaning:** virus

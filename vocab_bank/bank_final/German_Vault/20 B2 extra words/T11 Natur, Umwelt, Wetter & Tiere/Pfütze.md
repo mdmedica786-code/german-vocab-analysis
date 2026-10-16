@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pfütze.ogg]]
 
+![[Pfütze.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pf%C3%BCtze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pf%C3%BCtze&language=de)
 
 **Meaning:** puddle

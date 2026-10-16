@@ -25,6 +25,8 @@ status: "new"
 
 ![[E-Book.ogg]]
 
+![[E-Book.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/E-Book/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=E-Book&language=de)
 
 **Meaning:** e-book

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schichtarbeit.ogg]]
 
+![[Schichtarbeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schichtarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schichtarbeit&language=de)
 
 **Meaning:** shift work

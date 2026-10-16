@@ -24,6 +24,8 @@ status: "new"
 
 ![[Salami.ogg]]
 
+![[Salami.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Salami/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Salami&language=de)
 
 **Meaning:** salami

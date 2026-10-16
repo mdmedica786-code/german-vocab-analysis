@@ -23,6 +23,8 @@ status: "new"
 
 ![[Erderwärmung.ogg]]
 
+![[Erderwärmung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erderw%C3%A4rmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erderw%C3%A4rmung&language=de)
 
 **Meaning:** global warming

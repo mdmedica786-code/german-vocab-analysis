@@ -25,6 +25,8 @@ status: "new"
 
 ![[Lage.ogg]]
 
+![[Lage.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lage&language=de)
 
 **Meaning:** location; situation

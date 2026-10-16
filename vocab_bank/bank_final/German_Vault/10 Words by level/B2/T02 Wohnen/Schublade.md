@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schublade.ogg]]
 
+![[Schublade.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schublade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schublade&language=de)
 
 **Meaning:** drawer

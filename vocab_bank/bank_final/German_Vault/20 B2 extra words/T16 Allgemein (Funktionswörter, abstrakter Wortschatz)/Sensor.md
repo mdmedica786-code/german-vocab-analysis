@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sensor.ogg]]
 
+![[Sensor.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sensor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sensor&language=de)
 
 **Meaning:** sensor

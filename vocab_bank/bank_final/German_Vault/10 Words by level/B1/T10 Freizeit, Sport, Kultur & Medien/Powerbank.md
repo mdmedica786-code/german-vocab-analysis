@@ -24,6 +24,8 @@ status: "new"
 
 ![[Powerbank.ogg]]
 
+![[Powerbank.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Powerbank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Powerbank&language=de)
 
 **Meaning:** powerbank

@@ -24,6 +24,8 @@ status: "new"
 
 ![[IBAN.ogg]]
 
+![[IBAN.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/IBAN/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=IBAN&language=de)
 
 **Meaning:** IBAN

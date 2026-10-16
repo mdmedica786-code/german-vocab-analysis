@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Pfeil
 
+![[Pfeil.jpg]]
+
 ![[Pfeil.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Pfeil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfeil&language=de)

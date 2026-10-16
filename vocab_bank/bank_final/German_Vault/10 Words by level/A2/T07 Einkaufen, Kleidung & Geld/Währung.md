@@ -24,6 +24,8 @@ status: "new"
 
 ![[Währung.ogg]]
 
+![[Währung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/W%C3%A4hrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%A4hrung&language=de)
 
 **Meaning:** currency

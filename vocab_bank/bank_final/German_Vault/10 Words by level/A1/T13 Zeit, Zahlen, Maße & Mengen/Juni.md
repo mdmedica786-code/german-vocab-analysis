@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Juni
 
+![[Juni.jpg]]
+
 ![[Juni.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Juni/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Juni&language=de)

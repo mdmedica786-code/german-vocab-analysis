@@ -23,6 +23,8 @@ status: "new"
 
 ![[Artenschutz.ogg]]
 
+![[Artenschutz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Artenschutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Artenschutz&language=de)
 
 **Meaning:** species protection

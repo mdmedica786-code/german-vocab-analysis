@@ -23,6 +23,8 @@ status: "new"
 
 ![[Erdmännchen.ogg]]
 
+![[Erdmännchen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erdm%C3%A4nnchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erdm%C3%A4nnchen&language=de)
 
 **Meaning:** meerkat

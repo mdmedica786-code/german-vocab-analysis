@@ -24,6 +24,8 @@ status: "new"
 
 ![[Grundeinkommen.ogg]]
 
+![[Grundeinkommen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Grundeinkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundeinkommen&language=de)
 
 **Meaning:** basic income

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Haar
 
+![[Haar.jpg]]
+
 ![[Haar.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Haar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haar&language=de)

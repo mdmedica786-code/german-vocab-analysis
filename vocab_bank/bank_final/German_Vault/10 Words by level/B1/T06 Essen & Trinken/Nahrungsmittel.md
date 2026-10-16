@@ -25,6 +25,8 @@ status: "new"
 
 ![[Nahrungsmittel.ogg]]
 
+![[Nahrungsmittel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nahrungsmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nahrungsmittel&language=de)
 
 **Meaning:** food

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Upload.ogg]]
 
+![[Upload.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Upload/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Upload&language=de)
 
 **Meaning:** upload

@@ -26,6 +26,8 @@ status: "new"
 
 ![[Sekundarschule.ogg]]
 
+![[Sekundarschule.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sekundarschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sekundarschule&language=de)
 
 **Meaning:** secondary school (Swiss)

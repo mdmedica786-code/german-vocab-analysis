@@ -23,6 +23,8 @@ status: "new"
 
 ![[Werbespot.ogg]]
 
+![[Werbespot.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Werbespot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werbespot&language=de)
 
 **Meaning:** advertisement; commercial

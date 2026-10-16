@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bestand.ogg]]
 
+![[Bestand.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bestand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bestand&language=de)
 
 **Meaning:** stock; inventory; existence

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Altenpflegerin.ogg]]
 
+![[Altenpflegerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Altenpflegerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altenpflegerin&language=de)
 
 **Meaning:** geriatric nurse (f)

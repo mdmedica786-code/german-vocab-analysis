@@ -24,6 +24,8 @@ status: "new"
 
 ![[Langeweile.ogg]]
 
+![[Langeweile.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Langeweile/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Langeweile&language=de)
 
 **Meaning:** boredom

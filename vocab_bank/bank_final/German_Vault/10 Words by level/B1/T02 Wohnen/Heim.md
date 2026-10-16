@@ -24,6 +24,8 @@ status: "new"
 
 ![[heim.ogg]]
 
+![[Heim.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Heim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heim&language=de)
 
 **Meaning:** home; institution

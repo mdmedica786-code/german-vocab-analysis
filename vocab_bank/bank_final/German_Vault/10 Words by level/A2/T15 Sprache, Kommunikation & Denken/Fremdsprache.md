@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fremdsprache.ogg]]
 
+![[Fremdsprache.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fremdsprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fremdsprache&language=de)
 
 **Meaning:** foreign language

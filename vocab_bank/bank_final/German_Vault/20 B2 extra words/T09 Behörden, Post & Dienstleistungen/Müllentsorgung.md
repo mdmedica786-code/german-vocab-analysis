@@ -23,6 +23,8 @@ status: "new"
 
 ![[Müllentsorgung.ogg]]
 
+![[Müllentsorgung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCllentsorgung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCllentsorgung&language=de)
 
 **Meaning:** waste disposal

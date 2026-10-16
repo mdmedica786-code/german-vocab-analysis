@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kinderzimmer.ogg]]
 
+![[Kinderzimmer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kinderzimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinderzimmer&language=de)
 
 **Meaning:** nursery

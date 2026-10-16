@@ -25,6 +25,8 @@ status: "new"
 
 ![[Beisl.ogg]]
 
+![[Beisl.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beisl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beisl&language=de)
 
 **Meaning:** pub (Austria)

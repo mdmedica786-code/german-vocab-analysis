@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Heiterkeit
 
+![[Heiterkeit.jpg]]
+
 ![[Heiterkeit.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Heiterkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heiterkeit&language=de)

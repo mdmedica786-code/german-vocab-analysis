@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Institut
 
+![[Institut.jpg]]
+
 ![[Institut.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Institut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Institut&language=de)

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der September
 
+![[September.jpg]]
+
 ![[September.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/September/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=September&language=de)

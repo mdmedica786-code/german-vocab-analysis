@@ -25,6 +25,8 @@ status: "new"
 
 ![[Marmelade.ogg]]
 
+![[Marmelade.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Marmelade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marmelade&language=de)
 
 **Meaning:** jam; marmalade

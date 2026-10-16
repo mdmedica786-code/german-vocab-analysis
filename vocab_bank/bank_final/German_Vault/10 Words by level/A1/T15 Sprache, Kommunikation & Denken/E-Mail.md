@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die E-Mail
 
+![[E-Mail.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/E-Mail/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=E-Mail&language=de)
 
 **Meaning:** e-mail

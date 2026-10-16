@@ -23,6 +23,8 @@ status: "new"
 
 ![[Backpulver.ogg]]
 
+![[Backpulver.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Backpulver/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Backpulver&language=de)
 
 **Meaning:** baking powder

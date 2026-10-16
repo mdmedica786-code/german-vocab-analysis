@@ -23,6 +23,8 @@ status: "new"
 
 ![[Markenzeichen.ogg]]
 
+![[Markenzeichen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Markenzeichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Markenzeichen&language=de)
 
 **Meaning:** trademark; hallmark

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Creme
 
+![[Creme.jpg]]
+
 ![[Creme.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Creme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Creme&language=de)

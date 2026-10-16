@@ -23,6 +23,8 @@ status: "new"
 
 ![[Antikörper.ogg]]
 
+![[Antikörper.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Antik%C3%B6rper/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Antik%C3%B6rper&language=de)
 
 **Meaning:** antibody

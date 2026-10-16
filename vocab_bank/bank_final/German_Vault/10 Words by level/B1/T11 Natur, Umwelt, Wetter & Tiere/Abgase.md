@@ -24,6 +24,8 @@ status: "new"
 
 ![[Abgase.ogg]]
 
+![[Abgase.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abgase/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abgase&language=de)
 
 **Meaning:** exhaust fumes

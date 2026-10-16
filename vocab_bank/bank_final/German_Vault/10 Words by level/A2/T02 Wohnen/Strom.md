@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Strom
 
+![[Strom.jpg]]
+
 ![[Strom.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Strom/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strom&language=de)

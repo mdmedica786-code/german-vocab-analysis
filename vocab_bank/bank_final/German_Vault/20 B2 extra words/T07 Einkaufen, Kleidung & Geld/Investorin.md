@@ -23,6 +23,8 @@ status: "new"
 
 ![[Investorin.ogg]]
 
+![[Investorin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Investorin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Investorin&language=de)
 
 **Meaning:** investor (female)

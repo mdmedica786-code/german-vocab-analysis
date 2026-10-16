@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wanderschuh.ogg]]
 
+![[Wanderschuh.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wanderschuh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wanderschuh&language=de)
 
 **Meaning:** hiking boot

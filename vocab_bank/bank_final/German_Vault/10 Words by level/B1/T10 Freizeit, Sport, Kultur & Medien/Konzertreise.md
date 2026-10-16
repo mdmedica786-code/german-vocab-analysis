@@ -24,6 +24,8 @@ status: "new"
 
 ![[Konzertreise.ogg]]
 
+![[Konzertreise.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konzertreise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konzertreise&language=de)
 
 **Meaning:** concert tour

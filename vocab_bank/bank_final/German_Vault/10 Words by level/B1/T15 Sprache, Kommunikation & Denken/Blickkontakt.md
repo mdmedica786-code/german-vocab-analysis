@@ -24,6 +24,8 @@ status: "new"
 
 ![[Blickkontakt.ogg]]
 
+![[Blickkontakt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Blickkontakt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blickkontakt&language=de)
 
 **Meaning:** eye contact

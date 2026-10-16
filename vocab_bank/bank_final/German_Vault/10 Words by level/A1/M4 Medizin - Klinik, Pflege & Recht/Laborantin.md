@@ -24,6 +24,8 @@ status: "new"
 
 ![[Laborantin.ogg]]
 
+![[Laborantin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Laborantin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laborantin&language=de)
 
 **Meaning:** lab assistant (f)

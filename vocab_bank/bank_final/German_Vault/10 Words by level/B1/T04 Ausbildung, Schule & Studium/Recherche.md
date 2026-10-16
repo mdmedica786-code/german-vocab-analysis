@@ -24,6 +24,8 @@ status: "new"
 
 ![[Recherche.ogg]]
 
+![[Recherche.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Recherche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Recherche&language=de)
 
 **Meaning:** research; investigation

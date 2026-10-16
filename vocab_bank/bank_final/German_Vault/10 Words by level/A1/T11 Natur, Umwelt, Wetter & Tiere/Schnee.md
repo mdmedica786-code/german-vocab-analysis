@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Schnee
 
+![[Schnee.jpg]]
+
 ![[Schnee.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schnee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schnee&language=de)

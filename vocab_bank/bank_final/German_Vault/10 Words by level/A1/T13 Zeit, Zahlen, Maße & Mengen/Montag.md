@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Montag
 
+![[Montag.jpg]]
+
 ![[Montag.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Montag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Montag&language=de)

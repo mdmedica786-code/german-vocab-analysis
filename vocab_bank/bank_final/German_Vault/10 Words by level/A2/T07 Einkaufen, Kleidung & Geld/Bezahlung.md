@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bezahlung.ogg]]
 
+![[Bezahlung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bezahlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bezahlung&language=de)
 
 **Meaning:** payment

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Kursraum
 
+![[Kursraum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kursraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kursraum&language=de)
 
 **Meaning:** classroom; course room

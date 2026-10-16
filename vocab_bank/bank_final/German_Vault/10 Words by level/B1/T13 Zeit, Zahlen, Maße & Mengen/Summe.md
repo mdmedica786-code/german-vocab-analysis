@@ -24,6 +24,8 @@ status: "new"
 
 ![[Summe.ogg]]
 
+![[Summe.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Summe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Summe&language=de)
 
 **Meaning:** sum; amount

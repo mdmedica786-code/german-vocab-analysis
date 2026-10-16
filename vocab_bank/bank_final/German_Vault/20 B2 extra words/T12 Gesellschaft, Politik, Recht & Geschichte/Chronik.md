@@ -23,6 +23,8 @@ status: "new"
 
 ![[Chronik.ogg]]
 
+![[Chronik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Chronik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chronik&language=de)
 
 **Meaning:** chronicle

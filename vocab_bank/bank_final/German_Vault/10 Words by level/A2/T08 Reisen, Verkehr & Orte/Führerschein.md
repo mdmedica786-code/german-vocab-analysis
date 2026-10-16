@@ -25,6 +25,8 @@ status: "new"
 
 ![[Führerschein.ogg]]
 
+![[Führerschein.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/F%C3%BChrerschein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%BChrerschein&language=de)
 
 **Meaning:** driver's license

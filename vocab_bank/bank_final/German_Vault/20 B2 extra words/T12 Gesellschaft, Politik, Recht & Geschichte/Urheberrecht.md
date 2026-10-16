@@ -23,6 +23,8 @@ status: "new"
 
 ![[Urheberrecht.ogg]]
 
+![[Urheberrecht.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Urheberrecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urheberrecht&language=de)
 
 **Meaning:** copyright

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Brennnessel.ogg]]
 
+![[Brennnessel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Brennnessel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brennnessel&language=de)
 
 **Meaning:** stinging nettle

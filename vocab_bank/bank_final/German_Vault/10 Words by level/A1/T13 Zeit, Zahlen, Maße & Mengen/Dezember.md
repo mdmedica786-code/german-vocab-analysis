@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Dezember
 
+![[Dezember.png]]
+
 ![[Dezember.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Dezember/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dezember&language=de)

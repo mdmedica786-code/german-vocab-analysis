@@ -24,6 +24,8 @@ status: "new"
 
 ![[Weblog.ogg]]
 
+![[Weblog.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Weblog/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weblog&language=de)
 
 **Meaning:** web blog

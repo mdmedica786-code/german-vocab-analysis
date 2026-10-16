@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Kneipe
 
+![[Kneipe.jpg]]
+
 ![[Kneipe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kneipe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kneipe&language=de)

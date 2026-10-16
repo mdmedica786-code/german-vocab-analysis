@@ -23,6 +23,8 @@ status: "new"
 
 ![[Durchsetzung.ogg]]
 
+![[Durchsetzung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Durchsetzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Durchsetzung&language=de)
 
 **Meaning:** enforcement; implementation

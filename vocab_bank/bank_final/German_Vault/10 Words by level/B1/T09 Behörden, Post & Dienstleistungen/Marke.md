@@ -25,6 +25,8 @@ status: "new"
 
 ![[Marke.ogg]]
 
+![[Marke.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Marke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marke&language=de)
 
 **Meaning:** brand; stamp

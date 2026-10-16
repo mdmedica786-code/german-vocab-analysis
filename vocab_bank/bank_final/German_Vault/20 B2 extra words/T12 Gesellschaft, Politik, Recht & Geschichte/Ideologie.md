@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ideologie.ogg]]
 
+![[Ideologie.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ideologie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ideologie&language=de)
 
 **Meaning:** ideology

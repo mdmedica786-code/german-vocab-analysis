@@ -23,6 +23,8 @@ status: "new"
 
 ![[Herde.ogg]]
 
+![[Herde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Herde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herde&language=de)
 
 **Meaning:** herd; flock

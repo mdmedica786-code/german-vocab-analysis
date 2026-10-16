@@ -24,6 +24,8 @@ status: "new"
 
 ![[Stadtrat.ogg]]
 
+![[Stadtrat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stadtrat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtrat&language=de)
 
 **Meaning:** city council

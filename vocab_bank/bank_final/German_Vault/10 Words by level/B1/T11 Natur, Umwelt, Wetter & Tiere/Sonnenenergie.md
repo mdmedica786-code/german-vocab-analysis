@@ -24,6 +24,8 @@ status: "new"
 
 ![[Sonnenenergie.ogg]]
 
+![[Sonnenenergie.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sonnenenergie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnenenergie&language=de)
 
 **Meaning:** solar energy

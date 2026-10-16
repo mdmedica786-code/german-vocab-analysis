@@ -23,6 +23,8 @@ status: "new"
 
 ![[Demografie.ogg]]
 
+![[Demografie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Demografie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Demografie&language=de)
 
 **Meaning:** demography

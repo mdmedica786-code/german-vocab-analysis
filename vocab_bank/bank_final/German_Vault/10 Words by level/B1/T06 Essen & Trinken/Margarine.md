@@ -25,6 +25,8 @@ status: "new"
 
 ![[Margarine.ogg]]
 
+![[Margarine.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Margarine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Margarine&language=de)
 
 **Meaning:** margarine

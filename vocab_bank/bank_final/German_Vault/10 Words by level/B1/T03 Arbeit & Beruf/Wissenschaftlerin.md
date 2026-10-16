@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Wissenschaftlerin
 
+![[Wissenschaftlerin.jpg]]
+
 ![[Wissenschaftlerin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wissenschaftlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wissenschaftlerin&language=de)

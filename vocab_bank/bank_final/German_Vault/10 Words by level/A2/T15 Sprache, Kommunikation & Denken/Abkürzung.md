@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Abkürzung
 
+![[Abkürzung.jpg]]
+
 ![[Abkürzung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Abk%C3%BCrzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abk%C3%BCrzung&language=de)

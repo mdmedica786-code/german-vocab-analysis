@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bundesrätin.ogg]]
 
+![[Bundesrätin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bundesr%C3%A4tin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundesr%C3%A4tin&language=de)
 
 **Meaning:** Federal Councillor (f) (Switzerland)

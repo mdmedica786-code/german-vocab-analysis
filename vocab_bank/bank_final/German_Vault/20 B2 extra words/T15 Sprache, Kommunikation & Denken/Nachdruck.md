@@ -23,6 +23,8 @@ status: "new"
 
 ![[Nachdruck.ogg]]
 
+![[Nachdruck.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachdruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachdruck&language=de)
 
 **Meaning:** emphasis; insistence

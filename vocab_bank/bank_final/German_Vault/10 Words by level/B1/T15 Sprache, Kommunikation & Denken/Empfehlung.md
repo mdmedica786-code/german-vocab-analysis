@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Empfehlung
 
+![[Empfehlung.jpg]]
+
 ![[Empfehlung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Empfehlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Empfehlung&language=de)

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Toleranz
 
+![[Toleranz.jpg]]
+
 ![[Toleranz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Toleranz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Toleranz&language=de)

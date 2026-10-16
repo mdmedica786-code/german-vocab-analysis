@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Sand
 
+![[Sand.jpg]]
+
 ![[Sand.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sand&language=de)

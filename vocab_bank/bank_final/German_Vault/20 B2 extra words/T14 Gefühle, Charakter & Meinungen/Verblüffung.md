@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verblüffung.ogg]]
 
+![[Verblüffung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verbl%C3%BCffung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbl%C3%BCffung&language=de)
 
 **Meaning:** amazement; bewilderment

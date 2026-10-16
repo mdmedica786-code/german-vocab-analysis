@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Kitesurfen
 
+![[Kitesurfen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kitesurfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kitesurfen&language=de)
 
 **Meaning:** kitesurfing

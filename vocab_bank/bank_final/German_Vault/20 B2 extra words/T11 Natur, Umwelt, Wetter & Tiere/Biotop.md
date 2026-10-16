@@ -23,6 +23,8 @@ status: "new"
 
 ![[Biotop.ogg]]
 
+![[Biotop.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Biotop/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biotop&language=de)
 
 **Meaning:** biotope; habitat

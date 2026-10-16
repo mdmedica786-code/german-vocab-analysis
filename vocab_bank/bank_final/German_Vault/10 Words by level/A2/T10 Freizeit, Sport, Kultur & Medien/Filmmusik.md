@@ -24,6 +24,8 @@ status: "new"
 
 ![[Filmmusik.ogg]]
 
+![[Filmmusik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Filmmusik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Filmmusik&language=de)
 
 **Meaning:** film music

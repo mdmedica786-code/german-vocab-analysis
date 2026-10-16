@@ -23,6 +23,8 @@ status: "new"
 
 ![[Grillkohle.ogg]]
 
+![[Grillkohle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Grillkohle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grillkohle&language=de)
 
 **Meaning:** charcoal (for barbecue)

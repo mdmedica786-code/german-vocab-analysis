@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fabel.ogg]]
 
+![[Fabel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fabel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fabel&language=de)
 
 **Meaning:** fable

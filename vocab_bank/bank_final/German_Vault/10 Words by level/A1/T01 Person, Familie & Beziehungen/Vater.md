@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Vater
 
+![[Vater.jpg]]
+
 ![[Vater.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Vater/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vater&language=de)

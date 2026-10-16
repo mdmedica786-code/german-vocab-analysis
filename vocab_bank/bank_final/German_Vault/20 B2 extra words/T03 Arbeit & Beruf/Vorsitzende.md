@@ -23,6 +23,8 @@ status: "new"
 
 ![[Vorsitzende.ogg]]
 
+![[Vorsitzende.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vorsitzende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorsitzende&language=de)
 
 **Meaning:** chairperson; chair

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Kabarettpreis
 
+![[Kabarettpreis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kabarettpreis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kabarettpreis&language=de)
 
 **Meaning:** cabaret prize

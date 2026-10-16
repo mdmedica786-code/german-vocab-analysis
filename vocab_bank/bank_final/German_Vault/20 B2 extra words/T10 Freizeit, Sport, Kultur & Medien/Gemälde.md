@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gemälde.ogg]]
 
+![[Gemälde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gem%C3%A4lde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gem%C3%A4lde&language=de)
 
 **Meaning:** painting

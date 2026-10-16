@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Schmutz
 
+![[Schmutz.jpg]]
+
 ![[Schmutz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schmutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schmutz&language=de)

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Tier
 
+![[Tier.png]]
+
 ![[Tier.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tier&language=de)

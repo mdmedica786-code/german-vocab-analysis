@@ -25,6 +25,8 @@ status: "new"
 
 ![[Plakat.ogg]]
 
+![[Plakat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Plakat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Plakat&language=de)
 
 **Meaning:** poster

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Surfbrett.ogg]]
 
+![[Surfbrett.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Surfbrett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Surfbrett&language=de)
 
 **Meaning:** surf board

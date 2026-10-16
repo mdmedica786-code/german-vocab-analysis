@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Hausmeister
 
+![[Hausmeister.jpg]]
+
 ![[Hausmeister.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hausmeister/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausmeister&language=de)

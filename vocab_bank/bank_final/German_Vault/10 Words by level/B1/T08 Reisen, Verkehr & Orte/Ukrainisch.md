@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ukrainisch.ogg]]
 
+![[Ukrainisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ukrainisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ukrainisch&language=de)
 
 **Meaning:** Ukrainian (language)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Nachmittag.ogg]]
 
+![[Nachmittag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachmittag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachmittag&language=de)
 
 **Meaning:** afternoon

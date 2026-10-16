@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kellnerin.ogg]]
 
+![[Kellnerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kellnerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kellnerin&language=de)
 
 **Meaning:** waitress

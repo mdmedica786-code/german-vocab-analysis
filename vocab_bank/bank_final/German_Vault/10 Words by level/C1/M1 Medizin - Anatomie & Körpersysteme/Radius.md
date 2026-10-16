@@ -23,6 +23,8 @@ status: "new"
 
 ![[Radius.ogg]]
 
+![[Radius.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Radius/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radius&language=de)
 
 **Meaning:** radius (bone); radius (circle)

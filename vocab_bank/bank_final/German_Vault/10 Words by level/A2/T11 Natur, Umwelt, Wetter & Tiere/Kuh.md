@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Kuh
 
+![[Kuh.jpg]]
+
 ![[Kuh.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kuh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kuh&language=de)

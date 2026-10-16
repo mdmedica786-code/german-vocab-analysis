@@ -23,6 +23,8 @@ status: "new"
 
 ![[Banküberfall.ogg]]
 
+![[Banküberfall.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bank%C3%BCberfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bank%C3%BCberfall&language=de)
 
 **Meaning:** bank robbery

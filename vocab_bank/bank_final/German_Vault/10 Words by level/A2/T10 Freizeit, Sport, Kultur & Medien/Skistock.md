@@ -24,6 +24,8 @@ status: "new"
 
 ![[Skistock.ogg]]
 
+![[Skistock.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Skistock/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Skistock&language=de)
 
 **Meaning:** ski pole

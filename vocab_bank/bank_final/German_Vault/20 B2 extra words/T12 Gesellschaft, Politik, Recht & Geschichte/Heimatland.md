@@ -23,6 +23,8 @@ status: "new"
 
 ![[Heimatland.ogg]]
 
+![[Heimatland.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Heimatland/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heimatland&language=de)
 
 **Meaning:** home country

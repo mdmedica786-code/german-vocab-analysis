@@ -24,6 +24,8 @@ status: "new"
 
 ![[Herrenmode.ogg]]
 
+![[Herrenmode.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Herrenmode/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herrenmode&language=de)
 
 **Meaning:** men's fashion

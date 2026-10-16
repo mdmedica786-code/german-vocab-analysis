@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Grafikerin
 
+![[Grafikerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Grafikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grafikerin&language=de)
 
 **Meaning:** graphic designer (f)

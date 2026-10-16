@@ -23,6 +23,8 @@ status: "new"
 
 ![[Scheune.ogg]]
 
+![[Scheune.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Scheune/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Scheune&language=de)
 
 **Meaning:** barn

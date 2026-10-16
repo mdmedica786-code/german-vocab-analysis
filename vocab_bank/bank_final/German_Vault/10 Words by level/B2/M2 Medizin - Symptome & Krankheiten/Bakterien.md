@@ -25,6 +25,8 @@ status: "new"
 
 ![[Bakterien.ogg]]
 
+![[Bakterien.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bakterien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bakterien&language=de)
 
 **Meaning:** bacteria

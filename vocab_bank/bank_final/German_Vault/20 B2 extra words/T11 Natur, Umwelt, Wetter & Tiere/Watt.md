@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Watt
 
+![[Watt.png]]
+
 ![[Watt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Watt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Watt&language=de)

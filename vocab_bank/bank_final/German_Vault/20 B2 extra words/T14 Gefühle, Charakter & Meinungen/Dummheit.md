@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dummheit.ogg]]
 
+![[Dummheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dummheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dummheit&language=de)
 
 **Meaning:** stupidity; foolish act

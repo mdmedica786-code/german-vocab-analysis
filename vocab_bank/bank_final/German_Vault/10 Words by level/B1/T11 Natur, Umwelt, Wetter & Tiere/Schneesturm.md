@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Schneesturm
 
+![[Schneesturm.jpg]]
+
 ![[Schneesturm.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schneesturm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schneesturm&language=de)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Autofahrer.ogg]]
 
+![[Autofahrer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Autofahrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autofahrer&language=de)
 
 **Meaning:** driver (m); motorist

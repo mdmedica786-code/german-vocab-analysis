@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mäßigung.ogg]]
 
+![[Mäßigung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%A4%C3%9Figung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%A4%C3%9Figung&language=de)
 
 **Meaning:** moderation; restraint

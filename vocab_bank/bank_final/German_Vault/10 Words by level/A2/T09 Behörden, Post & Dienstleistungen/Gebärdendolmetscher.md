@@ -24,6 +24,8 @@ status: "new"
 
 ![[Gebärdendolmetscher.ogg]]
 
+![[Gebärdendolmetscher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geb%C3%A4rdendolmetscher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geb%C3%A4rdendolmetscher&language=de)
 
 **Meaning:** sign language interpreter (m)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Krankmeldung.ogg]]
 
+![[Krankmeldung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krankmeldung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankmeldung&language=de)
 
 **Meaning:** notification of sick leave

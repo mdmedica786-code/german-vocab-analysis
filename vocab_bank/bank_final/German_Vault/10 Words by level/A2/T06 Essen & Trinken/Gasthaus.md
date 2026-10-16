@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gasthaus.ogg]]
 
+![[Gasthaus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gasthaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gasthaus&language=de)
 
 **Meaning:** inn

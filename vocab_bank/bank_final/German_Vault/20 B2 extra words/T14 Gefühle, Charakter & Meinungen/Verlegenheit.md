@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verlegenheit.ogg]]
 
+![[Verlegenheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verlegenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verlegenheit&language=de)
 
 **Meaning:** embarrassment; predicament

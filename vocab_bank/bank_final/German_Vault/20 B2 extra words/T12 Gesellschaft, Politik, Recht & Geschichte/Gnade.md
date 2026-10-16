@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gnade.ogg]]
 
+![[Gnade.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gnade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gnade&language=de)
 
 **Meaning:** mercy; grace

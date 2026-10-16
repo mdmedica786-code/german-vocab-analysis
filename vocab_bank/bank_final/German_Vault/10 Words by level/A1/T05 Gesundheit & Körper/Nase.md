@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Nase
 
+![[Nase.jpg]]
+
 ![[Nase.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Nase/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nase&language=de)

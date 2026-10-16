@@ -23,6 +23,8 @@ status: "new"
 
 ![[Außenspiegel.ogg]]
 
+![[Außenspiegel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Au%C3%9Fenspiegel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Au%C3%9Fenspiegel&language=de)
 
 **Meaning:** wing mirror; exterior mirror

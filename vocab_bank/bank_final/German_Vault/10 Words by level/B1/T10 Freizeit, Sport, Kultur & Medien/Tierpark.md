@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tierpark.ogg]]
 
+![[Tierpark.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tierpark/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tierpark&language=de)
 
 **Meaning:** zoo

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Ampel.ogg]]
 
+![[Ampel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ampel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ampel&language=de)
 
 **Meaning:** traffic light

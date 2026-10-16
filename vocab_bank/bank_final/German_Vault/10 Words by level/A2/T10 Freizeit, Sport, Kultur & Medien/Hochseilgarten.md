@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hochseilgarten.ogg]]
 
+![[Hochseilgarten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hochseilgarten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochseilgarten&language=de)
 
 **Meaning:** high ropes course

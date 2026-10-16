@@ -25,6 +25,8 @@ status: "new"
 
 ![[Mechaniker.ogg]]
 
+![[Mechaniker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mechaniker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mechaniker&language=de)
 
 **Meaning:** mechanic (m)

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Karate
 
+![[Karate.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Karate/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Karate&language=de)
 
 **Meaning:** karate

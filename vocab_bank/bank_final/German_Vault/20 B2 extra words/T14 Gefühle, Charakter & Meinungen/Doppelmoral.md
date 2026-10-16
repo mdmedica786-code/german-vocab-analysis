@@ -23,6 +23,8 @@ status: "new"
 
 ![[Doppelmoral.ogg]]
 
+![[Doppelmoral.webp]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Doppelmoral/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Doppelmoral&language=de)
 
 **Meaning:** double standards

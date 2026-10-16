@@ -25,6 +25,8 @@ status: "new"
 
 ![[Vorort.ogg]]
 
+![[Vorort.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vorort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorort&language=de)
 
 **Meaning:** suburb

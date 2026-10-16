@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hirn.ogg]]
 
+![[Hirn.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hirn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hirn&language=de)
 
 **Meaning:** brain

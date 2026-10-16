@@ -24,6 +24,8 @@ status: "new"
 
 ![[Elektriker.ogg]]
 
+![[Elektriker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Elektriker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elektriker&language=de)
 
 **Meaning:** electrician (m)

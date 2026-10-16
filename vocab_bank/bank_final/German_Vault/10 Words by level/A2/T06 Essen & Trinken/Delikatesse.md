@@ -24,6 +24,8 @@ status: "new"
 
 ![[Delikatesse.ogg]]
 
+![[Delikatesse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Delikatesse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Delikatesse&language=de)
 
 **Meaning:** delicacy

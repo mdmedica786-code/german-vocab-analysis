@@ -23,6 +23,8 @@ status: "new"
 
 ![[Meisterbrief.ogg]]
 
+![[Meisterbrief.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Meisterbrief/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meisterbrief&language=de)
 
 **Meaning:** master craftsman's certificate

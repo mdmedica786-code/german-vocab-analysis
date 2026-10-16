@@ -25,6 +25,8 @@ status: "new"
 
 ![[Adresse.ogg]]
 
+![[Adresse.webp]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Adresse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Adresse&language=de)
 
 **Meaning:** address

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Optiker.ogg]]
 
+![[Optiker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Optiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Optiker&language=de)
 
 **Meaning:** optician

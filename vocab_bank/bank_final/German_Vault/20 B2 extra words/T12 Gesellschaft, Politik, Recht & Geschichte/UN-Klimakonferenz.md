@@ -23,6 +23,8 @@ status: "new"
 
 ![[UN-Klimakonferenz.ogg]]
 
+![[UN-Klimakonferenz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/UN-Klimakonferenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=UN-Klimakonferenz&language=de)
 
 **Meaning:** UN climate conference

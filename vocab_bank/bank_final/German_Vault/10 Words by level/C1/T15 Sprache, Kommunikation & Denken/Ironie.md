@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ironie.ogg]]
 
+![[Ironie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ironie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ironie&language=de)
 
 **Meaning:** irony

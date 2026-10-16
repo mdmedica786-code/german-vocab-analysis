@@ -23,6 +23,8 @@ status: "new"
 
 ![[Olivenöl.ogg]]
 
+![[Olivenöl.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Oliven%C3%B6l/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oliven%C3%B6l&language=de)
 
 **Meaning:** olive oil

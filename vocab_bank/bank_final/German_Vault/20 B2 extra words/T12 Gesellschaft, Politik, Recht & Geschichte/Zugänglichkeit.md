@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zugänglichkeit.ogg]]
 
+![[Zugänglichkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zug%C3%A4nglichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zug%C3%A4nglichkeit&language=de)
 
 **Meaning:** accessibility

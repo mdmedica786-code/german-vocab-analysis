@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gestaltung.ogg]]
 
+![[Gestaltung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gestaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gestaltung&language=de)
 
 **Meaning:** design; shaping; organisation

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Latein
 
+![[Latein.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Latein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Latein&language=de)
 
 **Meaning:** Latin

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Überschwemmung.ogg]]
 
+![[Überschwemmung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberschwemmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberschwemmung&language=de)
 
 **Meaning:** flood

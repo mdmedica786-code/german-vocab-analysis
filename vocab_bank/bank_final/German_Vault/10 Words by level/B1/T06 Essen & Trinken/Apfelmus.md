@@ -24,6 +24,8 @@ status: "new"
 
 ![[Apfelmus.ogg]]
 
+![[Apfelmus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Apfelmus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Apfelmus&language=de)
 
 **Meaning:** apple sauce

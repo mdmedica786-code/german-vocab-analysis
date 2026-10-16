@@ -23,6 +23,8 @@ status: "new"
 
 ![[Campus.ogg]]
 
+![[Campus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Campus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Campus&language=de)
 
 **Meaning:** campus

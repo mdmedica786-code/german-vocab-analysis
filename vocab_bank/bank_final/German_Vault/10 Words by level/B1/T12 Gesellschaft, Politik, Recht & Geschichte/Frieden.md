@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Frieden
 
+![[Frieden.png]]
+
 ![[Frieden.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Frieden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frieden&language=de)

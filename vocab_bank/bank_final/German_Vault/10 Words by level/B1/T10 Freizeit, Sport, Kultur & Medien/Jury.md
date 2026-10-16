@@ -24,6 +24,8 @@ status: "new"
 
 ![[Jury.ogg]]
 
+![[Jury.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Jury/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jury&language=de)
 
 **Meaning:** jury

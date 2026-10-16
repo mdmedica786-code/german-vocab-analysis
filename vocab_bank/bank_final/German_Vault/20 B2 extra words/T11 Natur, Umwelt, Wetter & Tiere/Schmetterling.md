@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schmetterling.ogg]]
 
+![[Schmetterling.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schmetterling/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schmetterling&language=de)
 
 **Meaning:** butterfly

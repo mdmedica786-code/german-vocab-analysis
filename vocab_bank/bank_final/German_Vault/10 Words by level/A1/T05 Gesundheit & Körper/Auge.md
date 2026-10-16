@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Auge
 
+![[Auge.jpg]]
+
 ![[Auge.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Auge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auge&language=de)

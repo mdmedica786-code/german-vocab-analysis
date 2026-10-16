@@ -25,6 +25,8 @@ status: "new"
 
 ![[Vorstellung.ogg]]
 
+![[Vorstellung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vorstellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorstellung&language=de)
 
 **Meaning:** idea; introduction; performance

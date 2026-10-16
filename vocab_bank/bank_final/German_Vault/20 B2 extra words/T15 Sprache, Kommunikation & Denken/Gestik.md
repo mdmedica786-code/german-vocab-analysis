@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gestik.ogg]]
 
+![[Gestik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gestik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gestik&language=de)
 
 **Meaning:** gestures; use of gestures

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Pfandflasche
 
+![[Pfandflasche.jpg]]
+
 ![[Pfandflasche.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Pfandflasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfandflasche&language=de)

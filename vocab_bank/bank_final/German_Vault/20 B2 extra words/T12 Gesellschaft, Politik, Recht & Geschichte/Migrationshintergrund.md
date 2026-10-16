@@ -23,6 +23,8 @@ status: "new"
 
 ![[Migrationshintergrund.ogg]]
 
+![[Migrationshintergrund.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Migrationshintergrund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Migrationshintergrund&language=de)
 
 **Meaning:** migrant background

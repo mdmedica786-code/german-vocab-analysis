@@ -23,6 +23,8 @@ status: "new"
 
 ![[Regie.ogg]]
 
+![[Regie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Regie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regie&language=de)
 
 **Meaning:** direction (film, theatre)

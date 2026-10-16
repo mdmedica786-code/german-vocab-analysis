@@ -25,6 +25,8 @@ status: "new"
 
 ![[Verkäufer.ogg]]
 
+![[Verkäufer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verk%C3%A4ufer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verk%C3%A4ufer&language=de)
 
 **Meaning:** salesperson (m)

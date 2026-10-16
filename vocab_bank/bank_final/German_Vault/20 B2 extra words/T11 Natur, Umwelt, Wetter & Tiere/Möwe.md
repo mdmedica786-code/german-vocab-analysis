@@ -23,6 +23,8 @@ status: "new"
 
 ![[Möwe.ogg]]
 
+![[Möwe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%B6we/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%B6we&language=de)
 
 **Meaning:** seagull

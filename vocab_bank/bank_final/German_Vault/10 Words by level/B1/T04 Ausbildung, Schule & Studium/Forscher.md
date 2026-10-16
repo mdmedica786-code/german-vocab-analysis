@@ -24,6 +24,8 @@ status: "new"
 
 ![[Forscher.ogg]]
 
+![[Forscher.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Forscher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forscher&language=de)
 
 **Meaning:** researcher (m)

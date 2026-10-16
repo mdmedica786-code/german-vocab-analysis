@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zugverbindung.ogg]]
 
+![[Zugverbindung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zugverbindung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zugverbindung&language=de)
 
 **Meaning:** train connection

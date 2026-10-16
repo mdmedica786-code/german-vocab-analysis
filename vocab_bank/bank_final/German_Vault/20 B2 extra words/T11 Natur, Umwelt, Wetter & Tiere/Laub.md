@@ -23,6 +23,8 @@ status: "new"
 
 ![[Laub.ogg]]
 
+![[Laub.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Laub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laub&language=de)
 
 **Meaning:** foliage; fallen leaves

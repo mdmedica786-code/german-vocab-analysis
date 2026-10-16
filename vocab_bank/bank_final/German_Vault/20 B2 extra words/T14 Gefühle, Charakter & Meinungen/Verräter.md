@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verräter.ogg]]
 
+![[Verräter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verr%C3%A4ter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verr%C3%A4ter&language=de)
 
 **Meaning:** traitor

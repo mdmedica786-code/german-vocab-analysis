@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Fließband
 
+![[Fließband.jpg]]
+
 ![[Fließband.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Flie%C3%9Fband/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flie%C3%9Fband&language=de)

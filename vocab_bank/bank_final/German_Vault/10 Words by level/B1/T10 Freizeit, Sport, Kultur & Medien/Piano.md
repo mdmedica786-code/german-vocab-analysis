@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Piano
 
+![[Piano.jpg]]
+
 ![[Piano.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Piano/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Piano&language=de)

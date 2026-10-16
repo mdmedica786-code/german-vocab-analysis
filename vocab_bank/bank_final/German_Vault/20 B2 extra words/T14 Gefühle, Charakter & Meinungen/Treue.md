@@ -23,6 +23,8 @@ status: "new"
 
 ![[Treue.ogg]]
 
+![[Treue.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Treue/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Treue&language=de)
 
 **Meaning:** loyalty; faithfulness

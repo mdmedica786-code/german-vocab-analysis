@@ -23,6 +23,8 @@ status: "new"
 
 ![[Blase.ogg]]
 
+![[Blase.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Blase/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blase&language=de)
 
 **Meaning:** bladder; bubble; blister

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gelächter.ogg]]
 
+![[Gelächter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gel%C3%A4chter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gel%C3%A4chter&language=de)
 
 **Meaning:** laughter

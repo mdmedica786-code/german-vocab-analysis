@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kassenbon.ogg]]
 
+![[Kassenbon.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kassenbon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kassenbon&language=de)
 
 **Meaning:** till receipt

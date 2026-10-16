@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Affe
 
+![[Affe.jpg]]
+
 ![[Affe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Affe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Affe&language=de)

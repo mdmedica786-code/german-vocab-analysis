@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gesicht.ogg]]
 
+![[Gesicht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesicht&language=de)
 
 **Meaning:** face

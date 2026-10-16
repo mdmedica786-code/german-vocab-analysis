@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Tonne
 
+![[Tonne.jpg]]
+
 ![[Tonne.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tonne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tonne&language=de)

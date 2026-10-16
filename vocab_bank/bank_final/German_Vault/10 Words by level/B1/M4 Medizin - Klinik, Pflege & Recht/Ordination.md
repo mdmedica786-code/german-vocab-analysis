@@ -26,6 +26,8 @@ status: "new"
 
 ![[Ordination.ogg]]
 
+![[Ordination.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ordination/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ordination&language=de)
 
 **Meaning:** doctor's surgery (Austrian)

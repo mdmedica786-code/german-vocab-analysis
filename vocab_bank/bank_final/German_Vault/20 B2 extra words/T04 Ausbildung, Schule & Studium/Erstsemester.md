@@ -23,6 +23,8 @@ status: "new"
 
 ![[Erstsemester.ogg]]
 
+![[Erstsemester.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erstsemester/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erstsemester&language=de)
 
 **Meaning:** first-semester student

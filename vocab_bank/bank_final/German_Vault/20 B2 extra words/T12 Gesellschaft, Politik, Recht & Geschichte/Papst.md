@@ -23,6 +23,8 @@ status: "new"
 
 ![[Papst.ogg]]
 
+![[Papst.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Papst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Papst&language=de)
 
 **Meaning:** pope

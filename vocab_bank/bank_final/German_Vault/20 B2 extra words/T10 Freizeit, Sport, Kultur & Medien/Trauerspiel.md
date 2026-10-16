@@ -23,6 +23,8 @@ status: "new"
 
 ![[Trauerspiel.ogg]]
 
+![[Trauerspiel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Trauerspiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trauerspiel&language=de)
 
 **Meaning:** tragedy (play)

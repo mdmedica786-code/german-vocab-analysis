@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tiger.ogg]]
 
+![[Tiger.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tiger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiger&language=de)
 
 **Meaning:** tiger

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Familienplanung.ogg]]
 
+![[Familienplanung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Familienplanung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Familienplanung&language=de)
 
 **Meaning:** family planning

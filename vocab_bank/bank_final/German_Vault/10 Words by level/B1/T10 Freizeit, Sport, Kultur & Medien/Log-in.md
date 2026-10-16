@@ -24,6 +24,8 @@ status: "new"
 
 ![[Log-in.ogg]]
 
+![[Log-in.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Log-in/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Log-in&language=de)
 
 **Meaning:** log-in

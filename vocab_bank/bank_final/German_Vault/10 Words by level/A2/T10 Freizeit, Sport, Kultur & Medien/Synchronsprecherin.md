@@ -24,6 +24,8 @@ status: "new"
 
 ![[Synchronsprecherin.ogg]]
 
+![[Synchronsprecherin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Synchronsprecherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Synchronsprecherin&language=de)
 
 **Meaning:** voice actress

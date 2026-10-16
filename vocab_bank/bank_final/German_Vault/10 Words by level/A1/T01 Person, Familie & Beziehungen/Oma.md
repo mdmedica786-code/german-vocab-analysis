@@ -25,6 +25,8 @@ status: "new"
 
 ![[Oma.ogg]]
 
+![[Oma.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Oma/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oma&language=de)
 
 **Meaning:** grandma

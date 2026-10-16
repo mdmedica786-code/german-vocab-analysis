@@ -23,6 +23,8 @@ status: "new"
 
 ![[Paketdienst.ogg]]
 
+![[Paketdienst.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Paketdienst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Paketdienst&language=de)
 
 **Meaning:** parcel service

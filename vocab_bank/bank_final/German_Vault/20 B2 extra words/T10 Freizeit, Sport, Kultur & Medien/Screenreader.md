@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Screenreader
 
+![[Screenreader.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Screenreader/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Screenreader&language=de)
 
 **Meaning:** screen reader

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fußgänger.ogg]]
 
+![[Fußgänger.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fg%C3%A4nger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fg%C3%A4nger&language=de)
 
 **Meaning:** pedestrian (m)

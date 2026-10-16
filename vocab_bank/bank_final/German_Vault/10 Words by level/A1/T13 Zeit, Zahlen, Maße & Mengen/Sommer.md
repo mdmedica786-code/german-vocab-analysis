@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Sommer
 
+![[Sommer.jpg]]
+
 ![[Sommer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sommer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sommer&language=de)

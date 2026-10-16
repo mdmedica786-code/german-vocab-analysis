@@ -24,6 +24,8 @@ status: "new"
 
 ![[Buchladen.ogg]]
 
+![[Buchladen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Buchladen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buchladen&language=de)
 
 **Meaning:** bookstore

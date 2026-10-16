@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gesetzgeber.ogg]]
 
+![[Gesetzgeber.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesetzgeber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesetzgeber&language=de)
 
 **Meaning:** legislator; legislature

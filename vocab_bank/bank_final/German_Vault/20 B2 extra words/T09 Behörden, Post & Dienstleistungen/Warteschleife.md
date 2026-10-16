@@ -23,6 +23,8 @@ status: "new"
 
 ![[Warteschleife.ogg]]
 
+![[Warteschleife.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Warteschleife/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Warteschleife&language=de)
 
 **Meaning:** queue (on the phone); holding pattern

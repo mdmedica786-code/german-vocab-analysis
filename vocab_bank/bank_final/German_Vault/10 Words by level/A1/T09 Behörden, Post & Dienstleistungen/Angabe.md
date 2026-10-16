@@ -25,6 +25,8 @@ status: "new"
 
 ![[Angabe.ogg]]
 
+![[Angabe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Angabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angabe&language=de)
 
 **Meaning:** information; statement; detail

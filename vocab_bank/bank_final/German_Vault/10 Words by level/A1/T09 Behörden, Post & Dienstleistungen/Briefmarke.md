@@ -25,6 +25,8 @@ status: "new"
 
 ![[Briefmarke.ogg]]
 
+![[Briefmarke.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Briefmarke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Briefmarke&language=de)
 
 **Meaning:** postage stamp

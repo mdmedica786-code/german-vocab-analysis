@@ -23,6 +23,8 @@ status: "new"
 
 ![[Aufrechterhaltung.ogg]]
 
+![[Aufrechterhaltung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aufrechterhaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufrechterhaltung&language=de)
 
 **Meaning:** maintenance; upholding

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Plastik.ogg]]
 
+![[Plastik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Plastik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Plastik&language=de)
 
 **Meaning:** plastic

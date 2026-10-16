@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fahrradtour.ogg]]
 
+![[Fahrradtour.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fahrradtour/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrradtour&language=de)
 
 **Meaning:** bike ride

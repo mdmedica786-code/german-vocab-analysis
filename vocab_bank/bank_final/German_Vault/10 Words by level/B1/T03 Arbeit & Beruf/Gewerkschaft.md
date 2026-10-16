@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Gewerkschaft
 
+![[Gewerkschaft.jpg]]
+
 ![[Gewerkschaft.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gewerkschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewerkschaft&language=de)

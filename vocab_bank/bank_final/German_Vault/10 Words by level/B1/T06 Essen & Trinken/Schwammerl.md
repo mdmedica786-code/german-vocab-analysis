@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schwammerl.ogg]]
 
+![[Schwammerl.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schwammerl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwammerl&language=de)
 
 **Meaning:** mushroom (Austrian, Bavarian)

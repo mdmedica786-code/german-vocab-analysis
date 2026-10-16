@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Fledermaus
 
+![[Fledermaus.jpg]]
+
 ![[Fledermaus.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fledermaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fledermaus&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zeitarbeit.ogg]]
 
+![[Zeitarbeit.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zeitarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitarbeit&language=de)
 
 **Meaning:** temporary agency work

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Energiewende.ogg]]
 
+![[Energiewende.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Energiewende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Energiewende&language=de)
 
 **Meaning:** energy transition

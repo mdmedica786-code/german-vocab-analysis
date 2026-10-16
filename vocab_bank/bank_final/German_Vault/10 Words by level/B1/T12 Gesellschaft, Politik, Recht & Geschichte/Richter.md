@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Richter
 
+![[Richter.jpg]]
+
 ![[Richter.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Richter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Richter&language=de)

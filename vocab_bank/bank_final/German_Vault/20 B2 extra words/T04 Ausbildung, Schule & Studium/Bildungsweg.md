@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bildungsweg.ogg]]
 
+![[Bildungsweg.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bildungsweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bildungsweg&language=de)
 
 **Meaning:** educational path

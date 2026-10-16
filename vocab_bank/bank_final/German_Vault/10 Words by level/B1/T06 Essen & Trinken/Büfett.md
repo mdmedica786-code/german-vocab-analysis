@@ -24,6 +24,8 @@ status: "new"
 
 ![[Büfett.ogg]]
 
+![[Büfett.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCfett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCfett&language=de)
 
 **Meaning:** buffet

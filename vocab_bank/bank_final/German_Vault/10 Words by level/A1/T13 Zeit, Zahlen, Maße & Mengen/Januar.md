@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Januar
 
+![[Januar.jpg]]
+
 ![[Januar.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Januar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Januar&language=de)

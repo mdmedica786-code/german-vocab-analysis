@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Zeugnis
 
+![[Zeugnis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zeugnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeugnis&language=de)
 
 **Meaning:** report card

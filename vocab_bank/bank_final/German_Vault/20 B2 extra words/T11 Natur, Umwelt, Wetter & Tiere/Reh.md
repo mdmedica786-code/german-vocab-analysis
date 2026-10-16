@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Reh
 
+![[Reh.jpg]]
+
 ![[Reh.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Reh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reh&language=de)

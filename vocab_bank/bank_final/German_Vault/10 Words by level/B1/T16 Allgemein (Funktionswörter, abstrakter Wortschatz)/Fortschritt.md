@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fortschritt.ogg]]
 
+![[Fortschritt.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fortschritt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fortschritt&language=de)
 
 **Meaning:** progress

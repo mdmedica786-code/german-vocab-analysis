@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Wetter
 
+![[Wetter.jpg]]
+
 ![[Wetter.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wetter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wetter&language=de)

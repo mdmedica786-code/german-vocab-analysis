@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Hausärztin
 
+![[Hausärztin.jpg]]
+
 ![[Hausärztin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Haus%C3%A4rztin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haus%C3%A4rztin&language=de)

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Repair-Café
 
+![[Repair-Café.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Repair-Caf%C3%A9/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Repair-Caf%C3%A9&language=de)
 
 **Meaning:** repair café

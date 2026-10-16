@@ -25,6 +25,8 @@ status: "new"
 
 ![[Erfolg.ogg]]
 
+![[Erfolg.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erfolg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erfolg&language=de)
 
 **Meaning:** success

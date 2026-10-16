@@ -24,6 +24,8 @@ status: "new"
 
 ![[Altersgruppe.ogg]]
 
+![[Altersgruppe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Altersgruppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altersgruppe&language=de)
 
 **Meaning:** age group

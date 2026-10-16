@@ -25,6 +25,8 @@ status: "new"
 
 ![[Volkshochschule.ogg]]
 
+![[Volkshochschule.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Volkshochschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Volkshochschule&language=de)
 
 **Meaning:** adult education centre

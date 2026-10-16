@@ -24,6 +24,8 @@ status: "new"
 
 ![[Meinungsfreiheit.ogg]]
 
+![[Meinungsfreiheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Meinungsfreiheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meinungsfreiheit&language=de)
 
 **Meaning:** freedom of opinion

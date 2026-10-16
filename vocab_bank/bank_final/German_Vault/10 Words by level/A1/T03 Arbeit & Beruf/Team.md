@@ -25,6 +25,8 @@ status: "new"
 
 ![[Team.ogg]]
 
+![[Team.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Team/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Team&language=de)
 
 **Meaning:** team

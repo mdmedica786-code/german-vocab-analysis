@@ -23,6 +23,8 @@ status: "new"
 
 ![[Instinkt.ogg]]
 
+![[Instinkt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Instinkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Instinkt&language=de)
 
 **Meaning:** instinct

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Terrasse.ogg]]
 
+![[Terrasse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Terrasse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Terrasse&language=de)
 
 **Meaning:** patio

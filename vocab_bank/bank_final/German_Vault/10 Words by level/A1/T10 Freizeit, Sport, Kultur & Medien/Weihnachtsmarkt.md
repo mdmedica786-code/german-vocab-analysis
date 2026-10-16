@@ -24,6 +24,8 @@ status: "new"
 
 ![[Weihnachtsmarkt.ogg]]
 
+![[Weihnachtsmarkt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Weihnachtsmarkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weihnachtsmarkt&language=de)
 
 **Meaning:** Christmas market

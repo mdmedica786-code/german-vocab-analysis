@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gabe.ogg]]
 
+![[Gabe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gabe&language=de)
 
 **Meaning:** gift; talent; donation

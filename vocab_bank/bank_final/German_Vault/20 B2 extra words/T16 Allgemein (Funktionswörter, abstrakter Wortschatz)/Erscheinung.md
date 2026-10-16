@@ -23,6 +23,8 @@ status: "new"
 
 ![[Erscheinung.ogg]]
 
+![[Erscheinung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erscheinung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erscheinung&language=de)
 
 **Meaning:** phenomenon; appearance

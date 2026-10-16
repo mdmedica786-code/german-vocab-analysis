@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Nationalsozialismus
 
+![[Nationalsozialismus.jpg]]
+
 ![[Nationalsozialismus.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Nationalsozialismus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nationalsozialismus&language=de)

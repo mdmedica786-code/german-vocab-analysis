@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Silvester
 
+![[Silvester.jpg]]
+
 ![[Silvester.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Silvester/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Silvester&language=de)

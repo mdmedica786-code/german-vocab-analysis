@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schimpfwort.ogg]]
 
+![[Schimpfwort.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schimpfwort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schimpfwort&language=de)
 
 **Meaning:** swear word; insult

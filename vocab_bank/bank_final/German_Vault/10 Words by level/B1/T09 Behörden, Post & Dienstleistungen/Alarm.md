@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Alarm
 
+![[Alarm.jpg]]
+
 ![[Alarm.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Alarm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alarm&language=de)

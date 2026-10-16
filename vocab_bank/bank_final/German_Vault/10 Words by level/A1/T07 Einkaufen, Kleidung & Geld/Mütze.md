@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Mütze
 
+![[Mütze.jpg]]
+
 ![[Mütze.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCtze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCtze&language=de)

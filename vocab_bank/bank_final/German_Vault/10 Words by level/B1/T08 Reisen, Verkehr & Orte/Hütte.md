@@ -25,6 +25,8 @@ status: "new"
 
 ![[Hütte.ogg]]
 
+![[Hütte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%BCtte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%BCtte&language=de)
 
 **Meaning:** hut; lodge

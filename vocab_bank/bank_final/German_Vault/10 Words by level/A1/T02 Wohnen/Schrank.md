@@ -25,6 +25,8 @@ status: "new"
 
 ![[Schrank.ogg]]
 
+![[Schrank.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schrank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schrank&language=de)
 
 **Meaning:** wardrobe, cupboard

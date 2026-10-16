@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bäuerin.ogg]]
 
+![[Bäuerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%A4uerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%A4uerin&language=de)
 
 **Meaning:** farmer (f)

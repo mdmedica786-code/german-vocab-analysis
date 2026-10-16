@@ -23,6 +23,8 @@ status: "new"
 
 ![[Trauzeuge.ogg]]
 
+![[Trauzeuge.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Trauzeuge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trauzeuge&language=de)
 
 **Meaning:** best man; witness at a wedding

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Abfall.ogg]]
 
+![[Abfall.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abfall&language=de)
 
 **Meaning:** waste

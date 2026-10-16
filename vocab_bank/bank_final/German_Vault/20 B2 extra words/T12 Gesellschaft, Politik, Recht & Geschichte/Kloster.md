@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kloster.ogg]]
 
+![[Kloster.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kloster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kloster&language=de)
 
 **Meaning:** monastery; convent

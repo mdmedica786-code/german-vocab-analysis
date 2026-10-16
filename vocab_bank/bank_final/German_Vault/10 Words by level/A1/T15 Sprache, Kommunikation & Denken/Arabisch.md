@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Arabisch
 
+![[Arabisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arabisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arabisch&language=de)
 
 **Meaning:** Arabic

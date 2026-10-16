@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Souvenir
 
+![[Souvenir.jpg]]
+
 ![[Souvenir.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Souvenir/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Souvenir&language=de)

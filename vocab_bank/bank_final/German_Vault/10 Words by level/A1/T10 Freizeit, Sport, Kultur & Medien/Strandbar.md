@@ -24,6 +24,8 @@ status: "new"
 
 ![[Strandbar.ogg]]
 
+![[Strandbar.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Strandbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strandbar&language=de)
 
 **Meaning:** beach bar

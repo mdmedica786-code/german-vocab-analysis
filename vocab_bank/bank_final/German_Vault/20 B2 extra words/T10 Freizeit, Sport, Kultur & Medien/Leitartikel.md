@@ -23,6 +23,8 @@ status: "new"
 
 ![[Leitartikel.ogg]]
 
+![[Leitartikel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Leitartikel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leitartikel&language=de)
 
 **Meaning:** editorial; leading article

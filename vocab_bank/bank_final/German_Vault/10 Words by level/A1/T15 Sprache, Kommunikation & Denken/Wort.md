@@ -25,6 +25,8 @@ status: "new"
 
 ![[Wort.ogg]]
 
+![[Wort.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wort&language=de)
 
 **Meaning:** word

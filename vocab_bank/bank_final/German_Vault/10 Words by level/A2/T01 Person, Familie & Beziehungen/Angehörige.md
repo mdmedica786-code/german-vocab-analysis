@@ -25,6 +25,8 @@ status: "new"
 
 ![[Angehörige.ogg]]
 
+![[Angehörige.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Angeh%C3%B6rige/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angeh%C3%B6rige&language=de)
 
 **Meaning:** relative

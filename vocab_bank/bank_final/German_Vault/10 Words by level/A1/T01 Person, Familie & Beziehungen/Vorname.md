@@ -25,6 +25,8 @@ status: "new"
 
 ![[Vorname.ogg]]
 
+![[Vorname.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vorname/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorname&language=de)
 
 **Meaning:** first name

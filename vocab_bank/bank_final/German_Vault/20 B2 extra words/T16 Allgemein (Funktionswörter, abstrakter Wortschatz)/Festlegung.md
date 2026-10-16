@@ -23,6 +23,8 @@ status: "new"
 
 ![[Festlegung.ogg]]
 
+![[Festlegung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Festlegung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Festlegung&language=de)
 
 **Meaning:** determination; fixing; stipulation

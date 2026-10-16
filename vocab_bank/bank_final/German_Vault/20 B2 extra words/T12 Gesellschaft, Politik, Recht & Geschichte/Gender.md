@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gender.ogg]]
 
+![[Gender.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gender/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gender&language=de)
 
 **Meaning:** gender (social)

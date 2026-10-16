@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Ast
 
+![[Ast.jpg]]
+
 ![[Ast.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Ast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ast&language=de)

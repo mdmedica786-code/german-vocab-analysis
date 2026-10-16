@@ -25,6 +25,8 @@ status: "new"
 
 ![[Lust.ogg]]
 
+![[Lust.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lust/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lust&language=de)
 
 **Meaning:** desire; inclination

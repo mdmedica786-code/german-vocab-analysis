@@ -25,6 +25,8 @@ status: "new"
 
 ![[Haushalt.ogg]]
 
+![[Haushalt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Haushalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haushalt&language=de)
 
 **Meaning:** household

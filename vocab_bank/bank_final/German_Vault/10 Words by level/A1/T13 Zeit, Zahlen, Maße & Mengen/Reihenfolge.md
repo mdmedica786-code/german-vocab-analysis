@@ -25,6 +25,8 @@ status: "new"
 
 ![[Reihenfolge.ogg]]
 
+![[Reihenfolge.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reihenfolge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reihenfolge&language=de)
 
 **Meaning:** sequence

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Säule
 
+![[Säule.jpg]]
+
 ![[Säule.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/S%C3%A4ule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%A4ule&language=de)

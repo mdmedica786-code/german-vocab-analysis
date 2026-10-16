@@ -25,6 +25,8 @@ status: "new"
 
 ![[Politikerin.ogg]]
 
+![[Politikerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Politikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Politikerin&language=de)
 
 **Meaning:** politician (f)

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Softwareprogramm
 
+![[Softwareprogramm.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Softwareprogramm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Softwareprogramm&language=de)
 
 **Meaning:** software program

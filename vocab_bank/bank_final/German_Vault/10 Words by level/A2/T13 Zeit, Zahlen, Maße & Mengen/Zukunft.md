@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Zukunft
 
+![[Zukunft.jpg]]
+
 ![[Zukunft.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zukunft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zukunft&language=de)

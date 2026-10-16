@@ -23,6 +23,8 @@ status: "new"
 
 ![[Haushaltsgerät.ogg]]
 
+![[Haushaltsgerät.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Haushaltsger%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haushaltsger%C3%A4t&language=de)
 
 **Meaning:** household appliance

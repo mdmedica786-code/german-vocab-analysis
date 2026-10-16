@@ -25,6 +25,8 @@ status: "new"
 
 ![[Stundenplan.ogg]]
 
+![[Stundenplan.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stundenplan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stundenplan&language=de)
 
 **Meaning:** timetable; schedule

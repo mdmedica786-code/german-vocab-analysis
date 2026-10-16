@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kreislaufwirtschaft.ogg]]
 
+![[Kreislaufwirtschaft.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kreislaufwirtschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kreislaufwirtschaft&language=de)
 
 **Meaning:** circular economy

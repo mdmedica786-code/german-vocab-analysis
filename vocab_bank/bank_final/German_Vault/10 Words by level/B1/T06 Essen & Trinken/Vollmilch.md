@@ -24,6 +24,8 @@ status: "new"
 
 ![[Vollmilch.ogg]]
 
+![[Vollmilch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vollmilch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vollmilch&language=de)
 
 **Meaning:** whole milk

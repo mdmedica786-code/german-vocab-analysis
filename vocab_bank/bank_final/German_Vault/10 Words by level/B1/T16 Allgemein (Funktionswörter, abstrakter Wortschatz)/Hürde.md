@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hürde.ogg]]
 
+![[Hürde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%BCrde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%BCrde&language=de)
 
 **Meaning:** hurdle; obstacle

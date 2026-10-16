@@ -25,6 +25,8 @@ status: "new"
 
 ![[Respekt.ogg]]
 
+![[Respekt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Respekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Respekt&language=de)
 
 **Meaning:** respect

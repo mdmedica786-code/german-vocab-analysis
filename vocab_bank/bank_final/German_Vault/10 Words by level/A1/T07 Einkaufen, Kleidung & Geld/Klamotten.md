@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Klamotten
 
+![[Klamotten.jpg]]
+
 ![[Klamotten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Klamotten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klamotten&language=de)

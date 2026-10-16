@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hausarbeit.ogg]]
 
+![[Hausarbeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hausarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausarbeit&language=de)
 
 **Meaning:** housework; term paper

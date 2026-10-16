@@ -24,6 +24,8 @@ status: "new"
 
 ![[Republik Österreich.ogg]]
 
+![[Republik Österreich.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Republik%20%C3%96sterreich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Republik%20%C3%96sterreich&language=de)
 
 **Meaning:** Republic of Austria

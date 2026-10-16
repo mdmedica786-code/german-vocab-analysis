@@ -23,6 +23,8 @@ status: "new"
 
 ![[Übelkeit.ogg]]
 
+![[Übelkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbelkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbelkeit&language=de)
 
 **Meaning:** nausea

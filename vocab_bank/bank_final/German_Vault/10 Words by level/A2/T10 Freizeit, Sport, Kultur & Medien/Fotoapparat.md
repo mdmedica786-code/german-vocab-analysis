@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fotoapparat.ogg]]
 
+![[Fotoapparat.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fotoapparat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fotoapparat&language=de)
 
 **Meaning:** camera

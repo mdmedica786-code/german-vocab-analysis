@@ -25,6 +25,8 @@ status: "new"
 
 ![[Notiz.ogg]]
 
+![[Notiz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Notiz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notiz&language=de)
 
 **Meaning:** note

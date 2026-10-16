@@ -25,6 +25,8 @@ status: "new"
 
 ![[Wunder.ogg]]
 
+![[Wunder.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wunder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wunder&language=de)
 
 **Meaning:** miracle

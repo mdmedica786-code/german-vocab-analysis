@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rückseite.ogg]]
 
+![[Rückseite.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCckseite/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCckseite&language=de)
 
 **Meaning:** back; reverse side

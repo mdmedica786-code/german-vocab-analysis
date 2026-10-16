@@ -23,6 +23,8 @@ status: "new"
 
 ![[Charme.ogg]]
 
+![[Charme.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Charme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Charme&language=de)
 
 **Meaning:** charm

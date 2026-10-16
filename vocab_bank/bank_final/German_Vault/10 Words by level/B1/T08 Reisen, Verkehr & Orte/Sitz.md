@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Sitz
 
+![[Sitz.jpg]]
+
 ![[Sitz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sitz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sitz&language=de)

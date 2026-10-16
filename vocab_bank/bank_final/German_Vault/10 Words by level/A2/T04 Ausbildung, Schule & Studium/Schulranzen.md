@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schulranzen.ogg]]
 
+![[Schulranzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schulranzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulranzen&language=de)
 
 **Meaning:** school bag

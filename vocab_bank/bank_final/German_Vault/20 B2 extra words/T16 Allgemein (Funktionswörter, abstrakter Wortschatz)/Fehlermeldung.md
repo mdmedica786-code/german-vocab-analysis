@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fehlermeldung.ogg]]
 
+![[Fehlermeldung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fehlermeldung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fehlermeldung&language=de)
 
 **Meaning:** error message

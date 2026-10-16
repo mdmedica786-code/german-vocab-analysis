@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ehrfurcht.ogg]]
 
+![[Ehrfurcht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ehrfurcht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehrfurcht&language=de)
 
 **Meaning:** awe; reverence

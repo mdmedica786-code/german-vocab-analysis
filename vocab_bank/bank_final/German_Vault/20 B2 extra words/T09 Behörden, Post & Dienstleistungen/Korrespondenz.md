@@ -23,6 +23,8 @@ status: "new"
 
 ![[Korrespondenz.ogg]]
 
+![[Korrespondenz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Korrespondenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Korrespondenz&language=de)
 
 **Meaning:** correspondence

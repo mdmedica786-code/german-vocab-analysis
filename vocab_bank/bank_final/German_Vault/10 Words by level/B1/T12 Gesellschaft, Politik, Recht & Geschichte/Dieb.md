@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Dieb
 
+![[Dieb.jpg]]
+
 ![[Dieb.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Dieb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dieb&language=de)

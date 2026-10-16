@@ -25,6 +25,8 @@ status: "new"
 
 ![[Angestellte.ogg]]
 
+![[Angestellte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Angestellte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angestellte&language=de)
 
 **Meaning:** employee

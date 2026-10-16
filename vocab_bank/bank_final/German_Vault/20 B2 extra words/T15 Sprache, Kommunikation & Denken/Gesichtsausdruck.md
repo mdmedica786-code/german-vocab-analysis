@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gesichtsausdruck.ogg]]
 
+![[Gesichtsausdruck.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesichtsausdruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesichtsausdruck&language=de)
 
 **Meaning:** facial expression

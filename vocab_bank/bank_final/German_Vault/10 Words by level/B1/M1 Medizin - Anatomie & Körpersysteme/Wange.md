@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wange.ogg]]
 
+![[Wange.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wange/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wange&language=de)
 
 **Meaning:** cheek

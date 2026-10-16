@@ -23,6 +23,8 @@ status: "new"
 
 ![[Angelegenheit.ogg]]
 
+![[Angelegenheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Angelegenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angelegenheit&language=de)
 
 **Meaning:** matter; affair

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Büchse.ogg]]
 
+![[Büchse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCchse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCchse&language=de)
 
 **Meaning:** tin; can

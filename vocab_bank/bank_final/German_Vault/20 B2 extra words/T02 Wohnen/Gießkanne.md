@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Gießkanne
 
+![[Gießkanne.jpg]]
+
 ![[Gießkanne.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gie%C3%9Fkanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gie%C3%9Fkanne&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Reformation.ogg]]
 
+![[Reformation.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reformation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reformation&language=de)
 
 **Meaning:** Reformation (historical movement)

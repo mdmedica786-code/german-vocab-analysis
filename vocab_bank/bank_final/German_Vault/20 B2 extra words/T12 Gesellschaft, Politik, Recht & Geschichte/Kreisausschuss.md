@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Kreisausschuss
 
+![[Kreisausschuss.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kreisausschuss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kreisausschuss&language=de)
 
 **Meaning:** district committee

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Friseur.ogg]]
 
+![[Friseur.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Friseur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Friseur&language=de)
 
 **Meaning:** hairdresser (m)

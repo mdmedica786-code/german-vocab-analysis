@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zugvogel.ogg]]
 
+![[Zugvogel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zugvogel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zugvogel&language=de)
 
 **Meaning:** migratory bird

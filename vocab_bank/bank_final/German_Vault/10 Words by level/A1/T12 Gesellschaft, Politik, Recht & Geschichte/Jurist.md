@@ -24,6 +24,8 @@ status: "new"
 
 ![[Jurist.ogg]]
 
+![[Jurist.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Jurist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jurist&language=de)
 
 **Meaning:** lawyer; legal expert

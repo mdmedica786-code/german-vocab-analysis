@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Jugendclub
 
+![[Jugendclub.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Jugendclub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jugendclub&language=de)
 
 **Meaning:** youth club

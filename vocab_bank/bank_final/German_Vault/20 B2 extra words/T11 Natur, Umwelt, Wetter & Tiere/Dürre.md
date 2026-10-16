@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dürre.ogg]]
 
+![[Dürre.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/D%C3%BCrre/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=D%C3%BCrre&language=de)
 
 **Meaning:** drought

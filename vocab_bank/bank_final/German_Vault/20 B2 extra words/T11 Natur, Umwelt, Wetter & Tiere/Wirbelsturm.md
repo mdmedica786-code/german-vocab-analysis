@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wirbelsturm.ogg]]
 
+![[Wirbelsturm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wirbelsturm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wirbelsturm&language=de)
 
 **Meaning:** cyclone; hurricane

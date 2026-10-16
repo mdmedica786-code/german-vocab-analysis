@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fußweg.ogg]]
 
+![[Fußweg.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fweg&language=de)
 
 **Meaning:** footpath; walk

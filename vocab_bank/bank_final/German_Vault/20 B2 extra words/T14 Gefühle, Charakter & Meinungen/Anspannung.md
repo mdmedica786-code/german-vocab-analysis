@@ -23,6 +23,8 @@ status: "new"
 
 ![[Anspannung.ogg]]
 
+![[Anspannung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anspannung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anspannung&language=de)
 
 **Meaning:** tension; strain

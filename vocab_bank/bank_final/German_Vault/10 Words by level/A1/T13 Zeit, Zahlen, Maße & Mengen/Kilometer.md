@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kilometer.ogg]]
 
+![[Kilometer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kilometer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kilometer&language=de)
 
 **Meaning:** kilometre

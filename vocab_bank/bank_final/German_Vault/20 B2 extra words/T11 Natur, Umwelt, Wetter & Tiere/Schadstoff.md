@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schadstoff.ogg]]
 
+![[Schadstoff.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schadstoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schadstoff&language=de)
 
 **Meaning:** pollutant; harmful substance

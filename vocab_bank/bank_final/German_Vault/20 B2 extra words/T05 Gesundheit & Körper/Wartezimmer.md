@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wartezimmer.ogg]]
 
+![[Wartezimmer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wartezimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wartezimmer&language=de)
 
 **Meaning:** waiting room

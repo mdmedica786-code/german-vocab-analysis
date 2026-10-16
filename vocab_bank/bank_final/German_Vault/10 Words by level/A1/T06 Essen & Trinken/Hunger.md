@@ -25,6 +25,8 @@ status: "new"
 
 ![[Hunger.ogg]]
 
+![[Hunger.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hunger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hunger&language=de)
 
 **Meaning:** hunger

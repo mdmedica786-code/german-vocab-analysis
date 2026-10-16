@@ -24,6 +24,8 @@ status: "new"
 
 ![[Buffet.ogg]]
 
+![[Buffet.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Buffet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buffet&language=de)
 
 **Meaning:** buffet

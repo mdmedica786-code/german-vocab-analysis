@@ -23,6 +23,8 @@ status: "new"
 
 ![[Geburtsurkunde.ogg]]
 
+![[Geburtsurkunde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geburtsurkunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburtsurkunde&language=de)
 
 **Meaning:** birth certificate

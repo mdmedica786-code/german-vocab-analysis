@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Freude
 
+![[Freude.jpg]]
+
 ![[Freude.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Freude/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freude&language=de)

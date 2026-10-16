@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fahrerlaubnis.ogg]]
 
+![[Fahrerlaubnis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fahrerlaubnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrerlaubnis&language=de)
 
 **Meaning:** driving licence; permission to drive

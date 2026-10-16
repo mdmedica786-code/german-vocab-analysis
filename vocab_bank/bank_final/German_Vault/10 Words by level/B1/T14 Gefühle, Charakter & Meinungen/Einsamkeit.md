@@ -24,6 +24,8 @@ status: "new"
 
 ![[Einsamkeit.ogg]]
 
+![[Einsamkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einsamkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einsamkeit&language=de)
 
 **Meaning:** solitude

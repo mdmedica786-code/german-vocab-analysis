@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ärmel.ogg]]
 
+![[Ärmel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%84rmel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%84rmel&language=de)
 
 **Meaning:** sleeve

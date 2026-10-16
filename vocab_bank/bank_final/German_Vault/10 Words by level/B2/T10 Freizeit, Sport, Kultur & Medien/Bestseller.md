@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bestseller.ogg]]
 
+![[Bestseller.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bestseller/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bestseller&language=de)
 
 **Meaning:** bestseller

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Nebel
 
+![[Nebel.jpg]]
+
 ![[Nebel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Nebel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nebel&language=de)

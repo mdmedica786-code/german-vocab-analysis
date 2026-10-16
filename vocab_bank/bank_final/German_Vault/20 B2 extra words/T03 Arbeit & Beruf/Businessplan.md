@@ -23,6 +23,8 @@ status: "new"
 
 ![[Businessplan.ogg]]
 
+![[Businessplan.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Businessplan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Businessplan&language=de)
 
 **Meaning:** business plan

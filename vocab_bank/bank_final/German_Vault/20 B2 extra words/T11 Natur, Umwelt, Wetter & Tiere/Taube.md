@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Taube
 
+![[Taube.jpg]]
+
 ![[Taube.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Taube/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taube&language=de)

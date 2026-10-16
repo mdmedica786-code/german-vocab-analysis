@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zorn.ogg]]
 
+![[Zorn.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zorn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zorn&language=de)
 
 **Meaning:** anger; wrath

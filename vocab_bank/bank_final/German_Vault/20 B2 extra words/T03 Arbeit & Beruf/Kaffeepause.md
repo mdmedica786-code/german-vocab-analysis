@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kaffeepause.ogg]]
 
+![[Kaffeepause.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kaffeepause/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaffeepause&language=de)
 
 **Meaning:** coffee break

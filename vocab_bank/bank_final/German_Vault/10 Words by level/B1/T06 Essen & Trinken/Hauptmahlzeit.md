@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hauptmahlzeit.ogg]]
 
+![[Hauptmahlzeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hauptmahlzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptmahlzeit&language=de)
 
 **Meaning:** main meal

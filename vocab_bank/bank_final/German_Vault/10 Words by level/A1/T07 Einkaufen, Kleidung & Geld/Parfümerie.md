@@ -24,6 +24,8 @@ status: "new"
 
 ![[Parfümerie.ogg]]
 
+![[Parfümerie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Parf%C3%BCmerie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parf%C3%BCmerie&language=de)
 
 **Meaning:** perfumery

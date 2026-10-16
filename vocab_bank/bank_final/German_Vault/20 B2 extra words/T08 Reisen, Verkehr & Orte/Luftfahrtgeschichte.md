@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Luftfahrtgeschichte
 
+![[Luftfahrtgeschichte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Luftfahrtgeschichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luftfahrtgeschichte&language=de)
 
 **Meaning:** aviation history; history of aviation

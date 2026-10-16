@@ -25,6 +25,8 @@ status: "new"
 
 ![[Heft.ogg]]
 
+![[Heft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Heft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heft&language=de)
 
 **Meaning:** exercise book

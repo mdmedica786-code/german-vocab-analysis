@@ -24,6 +24,8 @@ status: "new"
 
 ![[Saal.ogg]]
 
+![[Saal.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Saal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Saal&language=de)
 
 **Meaning:** hall

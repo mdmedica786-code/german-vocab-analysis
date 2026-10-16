@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gegenüberstellung.ogg]]
 
+![[Gegenüberstellung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gegen%C3%BCberstellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegen%C3%BCberstellung&language=de)
 
 **Meaning:** comparison; juxtaposition

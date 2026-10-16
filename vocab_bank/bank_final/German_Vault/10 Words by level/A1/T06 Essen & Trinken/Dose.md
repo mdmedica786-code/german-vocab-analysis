@@ -25,6 +25,8 @@ status: "new"
 
 ![[Dose.ogg]]
 
+![[Dose.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dose/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dose&language=de)
 
 **Meaning:** tin; can

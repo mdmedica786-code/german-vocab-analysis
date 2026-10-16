@@ -25,6 +25,8 @@ status: "new"
 
 ![[Sessel.ogg]]
 
+![[Sessel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sessel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sessel&language=de)
 
 **Meaning:** armchair

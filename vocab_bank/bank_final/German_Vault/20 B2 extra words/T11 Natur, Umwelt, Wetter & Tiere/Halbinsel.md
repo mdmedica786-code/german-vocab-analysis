@@ -23,6 +23,8 @@ status: "new"
 
 ![[Halbinsel.ogg]]
 
+![[Halbinsel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Halbinsel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Halbinsel&language=de)
 
 **Meaning:** peninsula

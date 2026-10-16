@@ -23,6 +23,8 @@ status: "new"
 
 ![[Denkweise.ogg]]
 
+![[Denkweise.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Denkweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Denkweise&language=de)
 
 **Meaning:** way of thinking; mentality

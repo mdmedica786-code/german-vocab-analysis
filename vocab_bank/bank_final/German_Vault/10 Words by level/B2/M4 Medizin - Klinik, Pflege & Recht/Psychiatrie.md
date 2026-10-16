@@ -23,6 +23,8 @@ status: "new"
 
 ![[Psychiatrie.ogg]]
 
+![[Psychiatrie.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Psychiatrie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Psychiatrie&language=de)
 
 **Meaning:** psychiatry

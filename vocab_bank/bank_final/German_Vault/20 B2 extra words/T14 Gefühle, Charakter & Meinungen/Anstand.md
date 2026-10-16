@@ -23,6 +23,8 @@ status: "new"
 
 ![[Anstand.ogg]]
 
+![[Anstand.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anstand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anstand&language=de)
 
 **Meaning:** decency; propriety

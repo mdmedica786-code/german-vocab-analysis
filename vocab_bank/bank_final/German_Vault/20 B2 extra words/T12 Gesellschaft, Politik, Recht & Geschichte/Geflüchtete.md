@@ -23,6 +23,8 @@ status: "new"
 
 ![[Geflüchtete.ogg]]
 
+![[Geflüchtete.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gefl%C3%BCchtete/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gefl%C3%BCchtete&language=de)
 
 **Meaning:** refugee

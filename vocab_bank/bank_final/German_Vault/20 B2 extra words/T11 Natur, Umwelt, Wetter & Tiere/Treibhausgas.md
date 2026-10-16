@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Treibhausgas
 
+![[Treibhausgas.png]]
+
 ![[Treibhausgas.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Treibhausgas/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Treibhausgas&language=de)

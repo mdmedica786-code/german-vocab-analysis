@@ -23,6 +23,8 @@ status: "new"
 
 ![[Christ.ogg]]
 
+![[Christ.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Christ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Christ&language=de)
 
 **Meaning:** Christian

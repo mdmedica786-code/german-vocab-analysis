@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kapitän.ogg]]
 
+![[Kapitän.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kapit%C3%A4n/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kapit%C3%A4n&language=de)
 
 **Meaning:** captain

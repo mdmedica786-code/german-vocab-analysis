@@ -24,6 +24,8 @@ status: "new"
 
 ![[Solarpanel.ogg]]
 
+![[Solarpanel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Solarpanel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Solarpanel&language=de)
 
 **Meaning:** solar panel

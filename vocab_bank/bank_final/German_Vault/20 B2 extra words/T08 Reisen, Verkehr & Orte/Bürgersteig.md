@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bürgersteig.ogg]]
 
+![[Bürgersteig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCrgersteig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCrgersteig&language=de)
 
 **Meaning:** pavement; sidewalk

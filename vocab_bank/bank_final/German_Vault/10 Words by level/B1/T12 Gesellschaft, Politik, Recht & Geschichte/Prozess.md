@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Prozess
 
+![[Prozess.jpg]]
+
 ![[Prozess.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Prozess/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prozess&language=de)

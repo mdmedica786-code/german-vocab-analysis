@@ -24,6 +24,8 @@ status: "new"
 
 ![[Album.ogg]]
 
+![[Album.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Album/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Album&language=de)
 
 **Meaning:** album

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Leiche
 
+![[Leiche.jpg]]
+
 ![[Leiche.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Leiche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leiche&language=de)

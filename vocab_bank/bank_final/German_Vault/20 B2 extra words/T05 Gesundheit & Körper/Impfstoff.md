@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Impfstoff
 
+![[Impfstoff.jpg]]
+
 ![[Impfstoff.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Impfstoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Impfstoff&language=de)

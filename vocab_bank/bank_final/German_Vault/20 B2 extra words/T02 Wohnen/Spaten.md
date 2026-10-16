@@ -23,6 +23,8 @@ status: "new"
 
 ![[Spaten.ogg]]
 
+![[Spaten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spaten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spaten&language=de)
 
 **Meaning:** spade

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Versicherung.ogg]]
 
+![[Versicherung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Versicherung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versicherung&language=de)
 
 **Meaning:** insurance

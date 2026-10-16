@@ -26,6 +26,8 @@ status: "new"
 
 ![[Primarschule.ogg]]
 
+![[Primarschule.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Primarschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Primarschule&language=de)
 
 **Meaning:** primary school (Swiss)

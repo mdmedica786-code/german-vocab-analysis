@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Friedhof
 
+![[Friedhof.jpg]]
+
 ![[Friedhof.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Friedhof/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Friedhof&language=de)

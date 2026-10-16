@@ -25,6 +25,8 @@ status: "new"
 
 ![[Spaß.ogg]]
 
+![[Spaß.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spa%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spa%C3%9F&language=de)
 
 **Meaning:** fun

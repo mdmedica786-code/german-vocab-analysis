@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ladegerät.ogg]]
 
+![[Ladegerät.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ladeger%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ladeger%C3%A4t&language=de)
 
 **Meaning:** charger

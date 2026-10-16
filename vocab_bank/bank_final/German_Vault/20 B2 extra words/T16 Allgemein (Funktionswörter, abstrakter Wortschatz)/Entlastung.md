@@ -23,6 +23,8 @@ status: "new"
 
 ![[Entlastung.ogg]]
 
+![[Entlastung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Entlastung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entlastung&language=de)
 
 **Meaning:** relief; easing of the burden

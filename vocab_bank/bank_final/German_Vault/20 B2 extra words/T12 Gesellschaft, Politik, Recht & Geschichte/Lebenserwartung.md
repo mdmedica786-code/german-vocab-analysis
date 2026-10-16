@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lebenserwartung.ogg]]
 
+![[Lebenserwartung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lebenserwartung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebenserwartung&language=de)
 
 **Meaning:** life expectancy

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Echo
 
+![[Echo.jpg]]
+
 ![[Echo.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Echo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Echo&language=de)

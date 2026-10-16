@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Glück
 
+![[Glück.jpg]]
+
 ![[Glück.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gl%C3%BCck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gl%C3%BCck&language=de)

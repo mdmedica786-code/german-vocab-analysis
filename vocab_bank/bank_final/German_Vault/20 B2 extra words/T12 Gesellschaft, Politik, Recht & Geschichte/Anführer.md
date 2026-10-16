@@ -23,6 +23,8 @@ status: "new"
 
 ![[Anführer.ogg]]
 
+![[Anführer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anf%C3%BChrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anf%C3%BChrer&language=de)
 
 **Meaning:** leader; ringleader

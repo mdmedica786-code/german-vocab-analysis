@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Wasserflasche
 
+![[Wasserflasche.jpg]]
+
 ![[Wasserflasche.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wasserflasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wasserflasche&language=de)

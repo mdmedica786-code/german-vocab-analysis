@@ -23,6 +23,8 @@ status: "new"
 
 ![[Feuchtigkeit.ogg]]
 
+![[Feuchtigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Feuchtigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuchtigkeit&language=de)
 
 **Meaning:** moisture; humidity; dampness

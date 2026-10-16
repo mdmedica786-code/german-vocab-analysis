@@ -25,6 +25,8 @@ status: "new"
 
 ![[Anrufbeantworter.ogg]]
 
+![[Anrufbeantworter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anrufbeantworter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anrufbeantworter&language=de)
 
 **Meaning:** answering machine

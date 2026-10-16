@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pudel.ogg]]
 
+![[Pudel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pudel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pudel&language=de)
 
 **Meaning:** poodle

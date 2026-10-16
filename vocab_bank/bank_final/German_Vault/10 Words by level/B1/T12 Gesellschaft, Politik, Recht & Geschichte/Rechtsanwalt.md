@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Rechtsanwalt
 
+![[Rechtsanwalt.jpg]]
+
 ![[Rechtsanwalt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Rechtsanwalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechtsanwalt&language=de)

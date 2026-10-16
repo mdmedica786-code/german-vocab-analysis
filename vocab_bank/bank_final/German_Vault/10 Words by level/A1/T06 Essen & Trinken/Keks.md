@@ -24,6 +24,8 @@ status: "new"
 
 ![[Keks.ogg]]
 
+![[Keks.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Keks/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Keks&language=de)
 
 **Meaning:** biscuit; cookie

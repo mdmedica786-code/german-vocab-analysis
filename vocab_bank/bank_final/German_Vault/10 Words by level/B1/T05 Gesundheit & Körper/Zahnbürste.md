@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Zahnbürste
 
+![[Zahnbürste.jpg]]
+
 ![[Zahnbürste.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zahnb%C3%BCrste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahnb%C3%BCrste&language=de)

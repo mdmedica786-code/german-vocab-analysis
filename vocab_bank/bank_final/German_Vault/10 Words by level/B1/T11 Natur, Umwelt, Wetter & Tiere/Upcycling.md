@@ -24,6 +24,8 @@ status: "new"
 
 ![[Upcycling.ogg]]
 
+![[Upcycling.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Upcycling/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Upcycling&language=de)
 
 **Meaning:** upcycling

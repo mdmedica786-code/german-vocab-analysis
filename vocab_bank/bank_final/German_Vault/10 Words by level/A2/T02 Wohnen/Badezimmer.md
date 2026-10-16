@@ -23,6 +23,8 @@ status: "new"
 
 ![[Badezimmer.ogg]]
 
+![[Badezimmer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Badezimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Badezimmer&language=de)
 
 **Meaning:** bathroom

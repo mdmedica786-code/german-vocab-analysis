@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Zwiebel
 
+![[Zwiebel.jpg]]
+
 ![[Zwiebel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zwiebel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zwiebel&language=de)

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das E-Auto
 
+![[E-Auto.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/E-Auto/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=E-Auto&language=de)
 
 **Meaning:** electric car

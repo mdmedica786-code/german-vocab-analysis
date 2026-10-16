@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Buchhandlung
 
+![[Buchhandlung.jpg]]
+
 ![[Buchhandlung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Buchhandlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buchhandlung&language=de)

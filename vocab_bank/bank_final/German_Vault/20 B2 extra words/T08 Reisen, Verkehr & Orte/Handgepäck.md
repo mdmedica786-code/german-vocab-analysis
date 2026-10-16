@@ -23,6 +23,8 @@ status: "new"
 
 ![[Handgepäck.ogg]]
 
+![[Handgepäck.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Handgep%C3%A4ck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handgep%C3%A4ck&language=de)
 
 **Meaning:** hand luggage

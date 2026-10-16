@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Herz
 
+![[Herz.jpg]]
+
 ![[Herz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Herz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herz&language=de)

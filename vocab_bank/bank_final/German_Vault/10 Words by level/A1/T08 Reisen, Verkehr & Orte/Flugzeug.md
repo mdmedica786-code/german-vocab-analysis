@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Flugzeug
 
+![[Flugzeug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Flugzeug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flugzeug&language=de)
 
 **Meaning:** airplane

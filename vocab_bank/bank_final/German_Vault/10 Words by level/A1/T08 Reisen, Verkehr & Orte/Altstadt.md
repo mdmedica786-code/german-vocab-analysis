@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Altstadt
 
+![[Altstadt.jpg]]
+
 ![[Altstadt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Altstadt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altstadt&language=de)

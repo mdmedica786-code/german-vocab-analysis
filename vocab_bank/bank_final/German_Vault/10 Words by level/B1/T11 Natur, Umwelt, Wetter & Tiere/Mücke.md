@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Mücke
 
+![[Mücke.jpg]]
+
 ![[Mücke.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCcke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCcke&language=de)

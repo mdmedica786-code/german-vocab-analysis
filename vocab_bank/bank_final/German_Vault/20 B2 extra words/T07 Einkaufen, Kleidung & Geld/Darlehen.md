@@ -23,6 +23,8 @@ status: "new"
 
 ![[Darlehen.ogg]]
 
+![[Darlehen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Darlehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Darlehen&language=de)
 
 **Meaning:** loan

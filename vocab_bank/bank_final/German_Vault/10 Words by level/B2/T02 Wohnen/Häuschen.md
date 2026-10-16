@@ -23,6 +23,8 @@ status: "new"
 
 ![[Häuschen.ogg]]
 
+![[Häuschen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%A4uschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%A4uschen&language=de)
 
 **Meaning:** little house

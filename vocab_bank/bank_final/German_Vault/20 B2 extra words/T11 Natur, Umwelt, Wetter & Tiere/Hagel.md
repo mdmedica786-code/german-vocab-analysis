@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hagel.ogg]]
 
+![[Hagel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hagel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hagel&language=de)
 
 **Meaning:** hail

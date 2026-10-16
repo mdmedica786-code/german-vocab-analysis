@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ingenieurin.ogg]]
 
+![[Ingenieurin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ingenieurin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ingenieurin&language=de)
 
 **Meaning:** engineer (f)

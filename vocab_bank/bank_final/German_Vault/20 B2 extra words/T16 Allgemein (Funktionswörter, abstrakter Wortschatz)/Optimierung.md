@@ -23,6 +23,8 @@ status: "new"
 
 ![[Optimierung.ogg]]
 
+![[Optimierung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Optimierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Optimierung&language=de)
 
 **Meaning:** optimisation

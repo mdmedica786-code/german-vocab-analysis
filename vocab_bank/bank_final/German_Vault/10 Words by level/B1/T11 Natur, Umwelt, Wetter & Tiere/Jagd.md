@@ -24,6 +24,8 @@ status: "new"
 
 ![[Jagd.ogg]]
 
+![[Jagd.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Jagd/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jagd&language=de)
 
 **Meaning:** hunt

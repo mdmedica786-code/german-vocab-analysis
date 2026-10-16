@@ -22,6 +22,8 @@ status: "new"
 
 ![[spanisch.ogg]]
 
+![[Spanisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spanisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spanisch&language=de)
 
 **Meaning:** Spanish

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Uhr
 
+![[Uhr.jpg]]
+
 ![[Uhr.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Uhr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Uhr&language=de)

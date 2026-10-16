@@ -24,6 +24,8 @@ status: "new"
 
 ![[Medizinerin.ogg]]
 
+![[Medizinerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Medizinerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medizinerin&language=de)
 
 **Meaning:** doctor (f); physician (f)

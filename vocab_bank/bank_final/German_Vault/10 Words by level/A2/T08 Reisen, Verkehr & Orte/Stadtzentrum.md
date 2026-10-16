@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Stadtzentrum
 
+![[Stadtzentrum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stadtzentrum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtzentrum&language=de)
 
 **Meaning:** city centre

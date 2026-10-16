@@ -25,6 +25,8 @@ status: "new"
 
 ![[Norden.ogg]]
 
+![[Norden.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Norden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Norden&language=de)
 
 **Meaning:** North

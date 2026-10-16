@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Basketball
 
+![[Basketball.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Basketball/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Basketball&language=de)
 
 **Meaning:** basketball

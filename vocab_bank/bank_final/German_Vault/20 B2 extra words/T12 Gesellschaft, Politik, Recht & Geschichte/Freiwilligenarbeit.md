@@ -23,6 +23,8 @@ status: "new"
 
 ![[Freiwilligenarbeit.ogg]]
 
+![[Freiwilligenarbeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Freiwilligenarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freiwilligenarbeit&language=de)
 
 **Meaning:** voluntary work

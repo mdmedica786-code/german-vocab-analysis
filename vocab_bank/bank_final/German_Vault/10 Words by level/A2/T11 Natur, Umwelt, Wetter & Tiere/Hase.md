@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Hase
 
+![[Hase.jpg]]
+
 ![[Hase.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hase/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hase&language=de)

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Wahl-O-Mat
 
+![[Wahl-O-Mat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wahl-O-Mat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahl-O-Mat&language=de)
 
 **Meaning:** Wahl-O-Mat (online tool comparing voters' views with party positions)

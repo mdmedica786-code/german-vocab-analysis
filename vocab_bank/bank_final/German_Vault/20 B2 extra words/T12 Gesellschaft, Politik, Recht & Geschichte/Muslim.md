@@ -23,6 +23,8 @@ status: "new"
 
 ![[Muslim.ogg]]
 
+![[Muslim.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Muslim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Muslim&language=de)
 
 **Meaning:** Muslim

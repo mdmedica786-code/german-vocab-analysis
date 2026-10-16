@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Kunsterziehung
 
+![[Kunsterziehung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kunsterziehung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunsterziehung&language=de)
 
 **Meaning:** art

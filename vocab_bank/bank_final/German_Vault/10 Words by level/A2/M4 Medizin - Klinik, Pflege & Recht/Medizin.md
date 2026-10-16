@@ -25,6 +25,8 @@ status: "new"
 
 ![[Medizin.ogg]]
 
+![[Medizin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Medizin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medizin&language=de)
 
 **Meaning:** medicine (drug); medicine (subject)

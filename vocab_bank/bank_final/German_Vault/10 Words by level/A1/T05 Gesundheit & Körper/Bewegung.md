@@ -25,6 +25,8 @@ status: "new"
 
 ![[Bewegung.ogg]]
 
+![[Bewegung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bewegung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bewegung&language=de)
 
 **Meaning:** exercise; movement

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Landschaftsschutz.ogg]]
 
+![[Landschaftsschutz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Landschaftsschutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Landschaftsschutz&language=de)
 
 **Meaning:** landscape conservation

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Armband.ogg]]
 
+![[Armband.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Armband/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Armband&language=de)
 
 **Meaning:** bracelet; strap

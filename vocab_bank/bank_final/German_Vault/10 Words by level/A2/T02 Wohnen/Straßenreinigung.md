@@ -24,6 +24,8 @@ status: "new"
 
 ![[Straßenreinigung.ogg]]
 
+![[Straßenreinigung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stra%C3%9Fenreinigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stra%C3%9Fenreinigung&language=de)
 
 **Meaning:** street cleaning

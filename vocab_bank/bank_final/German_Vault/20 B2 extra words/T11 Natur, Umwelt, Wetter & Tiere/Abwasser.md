@@ -23,6 +23,8 @@ status: "new"
 
 ![[Abwasser.ogg]]
 
+![[Abwasser.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abwasser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abwasser&language=de)
 
 **Meaning:** wastewater; sewage

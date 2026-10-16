@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mittelalter.ogg]]
 
+![[Mittelalter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mittelalter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittelalter&language=de)
 
 **Meaning:** Middle Ages

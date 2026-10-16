@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wohnheim.ogg]]
 
+![[Wohnheim.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wohnheim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnheim&language=de)
 
 **Meaning:** dorm

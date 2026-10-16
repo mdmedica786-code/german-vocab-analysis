@@ -24,6 +24,8 @@ status: "new"
 
 ![[Prominente.ogg]]
 
+![[Prominente.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Prominente/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prominente&language=de)
 
 **Meaning:** celebrity

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Glückwunsch
 
+![[Glückwunsch.jpg]]
+
 ![[Glückwunsch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gl%C3%BCckwunsch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gl%C3%BCckwunsch&language=de)

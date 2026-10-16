@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pfarrer.ogg]]
 
+![[Pfarrer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pfarrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfarrer&language=de)
 
 **Meaning:** priest; pastor

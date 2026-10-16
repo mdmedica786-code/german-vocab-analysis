@@ -23,6 +23,8 @@ status: "new"
 
 ![[Navigationssystem.ogg]]
 
+![[Navigationssystem.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Navigationssystem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Navigationssystem&language=de)
 
 **Meaning:** navigation system; sat nav

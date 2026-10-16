@@ -25,6 +25,8 @@ status: "new"
 
 ![[Pilz.ogg]]
 
+![[Pilz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pilz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pilz&language=de)
 
 **Meaning:** mushroom; fungus

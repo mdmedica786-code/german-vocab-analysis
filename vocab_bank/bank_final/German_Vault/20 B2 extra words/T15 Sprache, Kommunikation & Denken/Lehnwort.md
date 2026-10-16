@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lehnwort.ogg]]
 
+![[Lehnwort.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lehnwort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lehnwort&language=de)
 
 **Meaning:** loanword

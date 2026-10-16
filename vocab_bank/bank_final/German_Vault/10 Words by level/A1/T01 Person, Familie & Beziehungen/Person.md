@@ -25,6 +25,8 @@ status: "new"
 
 ![[Person.ogg]]
 
+![[Person.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Person/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Person&language=de)
 
 **Meaning:** person

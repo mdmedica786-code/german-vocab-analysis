@@ -25,6 +25,8 @@ status: "new"
 
 ![[Schloss.ogg]]
 
+![[Schloss.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schloss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schloss&language=de)
 
 **Meaning:** castle; lock

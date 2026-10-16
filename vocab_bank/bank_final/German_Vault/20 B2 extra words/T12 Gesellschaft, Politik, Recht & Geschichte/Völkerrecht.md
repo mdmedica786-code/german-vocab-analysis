@@ -23,6 +23,8 @@ status: "new"
 
 ![[Völkerrecht.ogg]]
 
+![[Völkerrecht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/V%C3%B6lkerrecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=V%C3%B6lkerrecht&language=de)
 
 **Meaning:** international law

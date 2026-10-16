@@ -23,6 +23,8 @@ status: "new"
 
 ![[Einwanderer.ogg]]
 
+![[Einwanderer.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einwanderer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einwanderer&language=de)
 
 **Meaning:** immigrant

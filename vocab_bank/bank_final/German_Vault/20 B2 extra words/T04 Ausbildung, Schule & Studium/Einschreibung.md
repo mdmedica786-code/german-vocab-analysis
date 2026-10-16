@@ -23,6 +23,8 @@ status: "new"
 
 ![[Einschreibung.ogg]]
 
+![[Einschreibung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einschreibung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einschreibung&language=de)
 
 **Meaning:** enrolment; registration

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Gott
 
+![[Gott.jpg]]
+
 ![[Gott.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gott/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gott&language=de)

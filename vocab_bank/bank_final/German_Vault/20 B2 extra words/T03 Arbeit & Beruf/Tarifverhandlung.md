@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tarifverhandlung.ogg]]
 
+![[Tarifverhandlung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tarifverhandlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tarifverhandlung&language=de)
 
 **Meaning:** collective bargaining (talks)

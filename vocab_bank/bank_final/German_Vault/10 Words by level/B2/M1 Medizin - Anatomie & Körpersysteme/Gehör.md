@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gehör.ogg]]
 
+![[Gehör.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geh%C3%B6r/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geh%C3%B6r&language=de)
 
 **Meaning:** hearing

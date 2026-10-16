@@ -24,6 +24,8 @@ status: "new"
 
 ![[Swimmingpool.ogg]]
 
+![[Swimmingpool.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Swimmingpool/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Swimmingpool&language=de)
 
 **Meaning:** swimming pool

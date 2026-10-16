@@ -24,6 +24,8 @@ status: "new"
 
 ![[Lippe.ogg]]
 
+![[Lippe.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lippe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lippe&language=de)
 
 **Meaning:** lip

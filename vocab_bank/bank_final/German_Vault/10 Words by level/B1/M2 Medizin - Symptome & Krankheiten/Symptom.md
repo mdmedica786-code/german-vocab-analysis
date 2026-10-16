@@ -23,6 +23,8 @@ status: "new"
 
 ![[Symptom.ogg]]
 
+![[Symptom.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Symptom/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Symptom&language=de)
 
 **Meaning:** symptom

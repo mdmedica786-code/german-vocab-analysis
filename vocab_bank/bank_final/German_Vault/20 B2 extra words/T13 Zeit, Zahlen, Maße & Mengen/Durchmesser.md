@@ -23,6 +23,8 @@ status: "new"
 
 ![[Durchmesser.ogg]]
 
+![[Durchmesser.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Durchmesser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Durchmesser&language=de)
 
 **Meaning:** diameter

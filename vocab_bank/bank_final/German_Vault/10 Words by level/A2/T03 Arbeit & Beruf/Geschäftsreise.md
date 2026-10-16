@@ -24,6 +24,8 @@ status: "new"
 
 ![[Geschäftsreise.ogg]]
 
+![[Geschäftsreise.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesch%C3%A4ftsreise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesch%C3%A4ftsreise&language=de)
 
 **Meaning:** business trip

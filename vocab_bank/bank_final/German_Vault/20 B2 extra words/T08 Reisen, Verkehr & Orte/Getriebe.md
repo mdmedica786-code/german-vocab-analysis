@@ -23,6 +23,8 @@ status: "new"
 
 ![[Getriebe.ogg]]
 
+![[Getriebe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Getriebe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Getriebe&language=de)
 
 **Meaning:** gearbox; transmission

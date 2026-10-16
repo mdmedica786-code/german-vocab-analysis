@@ -23,6 +23,8 @@ status: "new"
 
 ![[Spinat.ogg]]
 
+![[Spinat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spinat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spinat&language=de)
 
 **Meaning:** spinach

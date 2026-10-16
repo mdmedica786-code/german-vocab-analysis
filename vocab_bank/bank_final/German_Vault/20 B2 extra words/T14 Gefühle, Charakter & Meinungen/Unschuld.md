@@ -23,6 +23,8 @@ status: "new"
 
 ![[Unschuld.ogg]]
 
+![[Unschuld.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Unschuld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unschuld&language=de)
 
 **Meaning:** innocence

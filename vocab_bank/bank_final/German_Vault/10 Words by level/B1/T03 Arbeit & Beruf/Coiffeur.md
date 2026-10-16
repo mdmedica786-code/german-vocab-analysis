@@ -26,6 +26,8 @@ status: "new"
 
 ![[Coiffeur.ogg]]
 
+![[Coiffeur.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Coiffeur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Coiffeur&language=de)
 
 **Meaning:** hairdresser (m) (Swiss)

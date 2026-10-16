@@ -23,6 +23,8 @@ status: "new"
 
 ![[Narbe.ogg]]
 
+![[Narbe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Narbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Narbe&language=de)
 
 **Meaning:** scar

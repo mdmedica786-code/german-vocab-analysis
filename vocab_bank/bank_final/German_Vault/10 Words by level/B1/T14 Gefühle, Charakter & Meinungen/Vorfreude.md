@@ -24,6 +24,8 @@ status: "new"
 
 ![[Vorfreude.ogg]]
 
+![[Vorfreude.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vorfreude/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorfreude&language=de)
 
 **Meaning:** anticipation; joyful expectation

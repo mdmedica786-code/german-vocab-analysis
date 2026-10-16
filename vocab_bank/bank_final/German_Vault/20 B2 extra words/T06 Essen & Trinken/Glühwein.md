@@ -23,6 +23,8 @@ status: "new"
 
 ![[Glühwein.ogg]]
 
+![[Glühwein.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gl%C3%BChwein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gl%C3%BChwein&language=de)
 
 **Meaning:** mulled wine

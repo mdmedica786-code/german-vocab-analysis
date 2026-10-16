@@ -23,6 +23,8 @@ status: "new"
 
 ![[Selbstverständnis.ogg]]
 
+![[Selbstverständnis.webp]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Selbstverst%C3%A4ndnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Selbstverst%C3%A4ndnis&language=de)
 
 **Meaning:** self-image; self-perception

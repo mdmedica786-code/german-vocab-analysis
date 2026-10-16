@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ausfall.ogg]]
 
+![[Ausfall.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ausfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausfall&language=de)
 
 **Meaning:** failure; cancellation; loss

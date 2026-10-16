@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ruhestörung.ogg]]
 
+![[Ruhestörung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ruhest%C3%B6rung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ruhest%C3%B6rung&language=de)
 
 **Meaning:** disturbance of the peace; noise nuisance

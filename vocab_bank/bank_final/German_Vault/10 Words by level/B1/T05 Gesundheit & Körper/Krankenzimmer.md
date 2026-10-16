@@ -24,6 +24,8 @@ status: "new"
 
 ![[Krankenzimmer.ogg]]
 
+![[Krankenzimmer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krankenzimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankenzimmer&language=de)
 
 **Meaning:** hospital room

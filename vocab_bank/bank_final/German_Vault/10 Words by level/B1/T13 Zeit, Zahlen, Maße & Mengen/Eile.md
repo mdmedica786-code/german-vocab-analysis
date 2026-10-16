@@ -24,6 +24,8 @@ status: "new"
 
 ![[Eile.ogg]]
 
+![[Eile.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Eile/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eile&language=de)
 
 **Meaning:** hurry; haste

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Senior.ogg]]
 
+![[Senior.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Senior/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Senior&language=de)
 
 **Meaning:** senior (m)

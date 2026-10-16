@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kletterer.ogg]]
 
+![[Kletterer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kletterer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kletterer&language=de)
 
 **Meaning:** climber (m)

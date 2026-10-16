@@ -24,6 +24,8 @@ status: "new"
 
 ![[Champignon.ogg]]
 
+![[Champignon.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Champignon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Champignon&language=de)
 
 **Meaning:** mushroom

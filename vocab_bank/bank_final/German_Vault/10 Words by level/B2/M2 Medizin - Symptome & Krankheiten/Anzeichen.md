@@ -23,6 +23,8 @@ status: "new"
 
 ![[Anzeichen.ogg]]
 
+![[Anzeichen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anzeichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anzeichen&language=de)
 
 **Meaning:** sign; indication

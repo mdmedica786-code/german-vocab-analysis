@@ -23,6 +23,8 @@ status: "new"
 
 ![[Regime.ogg]]
 
+![[Regime.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Regime/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regime&language=de)
 
 **Meaning:** regime

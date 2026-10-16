@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tiefdruck.ogg]]
 
+![[Tiefdruck.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tiefdruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiefdruck&language=de)
 
 **Meaning:** low pressure

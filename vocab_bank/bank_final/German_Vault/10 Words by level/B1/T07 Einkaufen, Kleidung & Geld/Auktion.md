@@ -24,6 +24,8 @@ status: "new"
 
 ![[Auktion.ogg]]
 
+![[Auktion.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Auktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auktion&language=de)
 
 **Meaning:** auction

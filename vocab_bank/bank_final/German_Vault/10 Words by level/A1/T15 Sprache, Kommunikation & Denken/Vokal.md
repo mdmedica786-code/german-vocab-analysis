@@ -24,6 +24,8 @@ status: "new"
 
 ![[Vokal.ogg]]
 
+![[Vokal.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vokal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vokal&language=de)
 
 **Meaning:** vowel

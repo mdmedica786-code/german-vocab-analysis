@@ -25,6 +25,8 @@ status: "new"
 
 ![[Meinung.ogg]]
 
+![[Meinung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Meinung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meinung&language=de)
 
 **Meaning:** opinion

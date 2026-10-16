@@ -24,6 +24,8 @@ status: "new"
 
 ![[Expertin.ogg]]
 
+![[Expertin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Expertin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Expertin&language=de)
 
 **Meaning:** expert (f)

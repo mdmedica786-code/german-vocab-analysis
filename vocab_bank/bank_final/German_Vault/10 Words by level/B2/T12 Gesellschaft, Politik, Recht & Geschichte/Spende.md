@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Spende
 
+![[Spende.jpg]]
+
 ![[Spende.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Spende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spende&language=de)

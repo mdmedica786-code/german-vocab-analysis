@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Fehler
 
+![[Fehler.jpg]]
+
 ![[Fehler.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fehler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fehler&language=de)

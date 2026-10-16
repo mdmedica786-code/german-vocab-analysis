@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kritiker.ogg]]
 
+![[Kritiker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kritiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kritiker&language=de)
 
 **Meaning:** critic

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kunsthistoriker.ogg]]
 
+![[Kunsthistoriker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kunsthistoriker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunsthistoriker&language=de)
 
 **Meaning:** art historian (m)

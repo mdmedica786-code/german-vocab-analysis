@@ -25,6 +25,8 @@ status: "new"
 
 ![[Doktorin.ogg]]
 
+![[Doktorin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Doktorin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Doktorin&language=de)
 
 **Meaning:** doctor (f)

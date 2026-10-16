@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verzicht.ogg]]
 
+![[Verzicht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verzicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verzicht&language=de)
 
 **Meaning:** renunciation; doing without

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gesetzgebung.ogg]]
 
+![[Gesetzgebung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesetzgebung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesetzgebung&language=de)
 
 **Meaning:** legislation

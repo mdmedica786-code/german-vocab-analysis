@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zaun.ogg]]
 
+![[Zaun.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zaun/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zaun&language=de)
 
 **Meaning:** fence

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Sonnenschirm
 
+![[Sonnenschirm.jpg]]
+
 ![[Sonnenschirm.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sonnenschirm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnenschirm&language=de)

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Rücken
 
+![[Rücken.jpg]]
+
 ![[Rücken.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCcken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCcken&language=de)

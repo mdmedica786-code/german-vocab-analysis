@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Rohstoff
 
+![[Rohstoff.jpg]]
+
 ![[Rohstoff.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Rohstoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rohstoff&language=de)

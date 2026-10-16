@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ostern.ogg]]
 
+![[Ostern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ostern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ostern&language=de)
 
 **Meaning:** Easter

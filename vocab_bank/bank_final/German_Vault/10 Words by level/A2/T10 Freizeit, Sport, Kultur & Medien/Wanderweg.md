@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wanderweg.ogg]]
 
+![[Wanderweg.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wanderweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wanderweg&language=de)
 
 **Meaning:** hiking trail

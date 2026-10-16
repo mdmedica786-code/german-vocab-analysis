@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Rüebli
 
+![[Rüebli.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCebli/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCebli&language=de)
 
 **Meaning:** carrot (Swiss)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Favoritin.ogg]]
 
+![[Favoritin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Favoritin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Favoritin&language=de)
 
 **Meaning:** favourite (f)

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Band
 
+![[Band.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Band/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Band&language=de)
 
 **Meaning:** ribbon

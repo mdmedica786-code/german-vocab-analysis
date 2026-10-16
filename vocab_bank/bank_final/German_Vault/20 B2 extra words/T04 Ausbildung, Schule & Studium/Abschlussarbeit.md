@@ -23,6 +23,8 @@ status: "new"
 
 ![[Abschlussarbeit.ogg]]
 
+![[Abschlussarbeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abschlussarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abschlussarbeit&language=de)
 
 **Meaning:** final thesis; degree dissertation

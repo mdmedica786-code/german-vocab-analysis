@@ -24,6 +24,8 @@ status: "new"
 
 ![[Lernerin.ogg]]
 
+![[Lernerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lernerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernerin&language=de)
 
 **Meaning:** learner (f)

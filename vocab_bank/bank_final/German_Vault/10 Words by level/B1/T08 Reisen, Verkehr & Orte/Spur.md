@@ -24,6 +24,8 @@ status: "new"
 
 ![[Spur.ogg]]
 
+![[Spur.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spur&language=de)
 
 **Meaning:** lane; track; trace

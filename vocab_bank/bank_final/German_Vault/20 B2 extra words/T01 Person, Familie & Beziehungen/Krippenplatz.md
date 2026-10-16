@@ -23,6 +23,8 @@ status: "new"
 
 ![[Krippenplatz.ogg]]
 
+![[Krippenplatz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krippenplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krippenplatz&language=de)
 
 **Meaning:** nursery place

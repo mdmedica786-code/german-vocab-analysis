@@ -24,6 +24,8 @@ status: "new"
 
 ![[Skilift.ogg]]
 
+![[Skilift.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Skilift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Skilift&language=de)
 
 **Meaning:** ski lift

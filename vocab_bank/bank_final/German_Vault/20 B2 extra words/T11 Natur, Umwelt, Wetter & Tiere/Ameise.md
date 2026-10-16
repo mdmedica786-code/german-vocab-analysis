@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ameise.ogg]]
 
+![[Ameise.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ameise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ameise&language=de)
 
 **Meaning:** ant

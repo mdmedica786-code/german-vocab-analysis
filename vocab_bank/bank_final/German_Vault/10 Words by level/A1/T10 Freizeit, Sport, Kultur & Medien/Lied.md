@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Lied
 
+![[Lied.jpg]]
+
 ![[Lied.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Lied/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lied&language=de)

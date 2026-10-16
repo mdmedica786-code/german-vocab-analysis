@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gymnastik.ogg]]
 
+![[Gymnastik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gymnastik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gymnastik&language=de)
 
 **Meaning:** gymnastics; exercises

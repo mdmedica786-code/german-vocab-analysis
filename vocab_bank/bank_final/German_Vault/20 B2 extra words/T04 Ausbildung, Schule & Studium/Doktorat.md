@@ -23,6 +23,8 @@ status: "new"
 
 ![[Doktorat.ogg]]
 
+![[Doktorat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Doktorat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Doktorat&language=de)
 
 **Meaning:** doctorate (Austria/Switzerland)

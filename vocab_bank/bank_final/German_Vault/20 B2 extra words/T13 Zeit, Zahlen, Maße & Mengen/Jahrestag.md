@@ -23,6 +23,8 @@ status: "new"
 
 ![[Jahrestag.ogg]]
 
+![[Jahrestag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Jahrestag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jahrestag&language=de)
 
 **Meaning:** anniversary

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Arbeitsplatz
 
+![[Arbeitsplatz.jpg]]
+
 ![[Arbeitsplatz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitsplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsplatz&language=de)

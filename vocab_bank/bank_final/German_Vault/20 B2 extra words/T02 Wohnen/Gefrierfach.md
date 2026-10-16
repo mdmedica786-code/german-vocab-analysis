@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gefrierfach.ogg]]
 
+![[Gefrierfach.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gefrierfach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gefrierfach&language=de)
 
 **Meaning:** freezer compartment

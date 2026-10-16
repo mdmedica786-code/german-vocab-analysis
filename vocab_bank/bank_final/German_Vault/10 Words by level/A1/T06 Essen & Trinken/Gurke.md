@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Gurke
 
+![[Gurke.jpg]]
+
 ![[Gurke.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gurke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gurke&language=de)

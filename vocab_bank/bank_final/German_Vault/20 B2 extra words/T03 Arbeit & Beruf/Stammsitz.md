@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stammsitz.ogg]]
 
+![[Stammsitz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stammsitz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stammsitz&language=de)
 
 **Meaning:** headquarters; registered office; ancestral seat

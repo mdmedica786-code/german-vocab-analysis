@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Biotechnologie-Unternehmen
 
+![[Biotechnologie-Unternehmen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Biotechnologie-Unternehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biotechnologie-Unternehmen&language=de)
 
 **Meaning:** biotechnology company

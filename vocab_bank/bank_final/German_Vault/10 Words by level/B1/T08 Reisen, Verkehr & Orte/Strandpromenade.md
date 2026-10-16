@@ -24,6 +24,8 @@ status: "new"
 
 ![[Strandpromenade.ogg]]
 
+![[Strandpromenade.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Strandpromenade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strandpromenade&language=de)
 
 **Meaning:** beach side promenade

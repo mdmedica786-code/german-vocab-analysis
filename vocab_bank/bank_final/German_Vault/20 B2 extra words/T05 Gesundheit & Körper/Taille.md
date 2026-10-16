@@ -23,6 +23,8 @@ status: "new"
 
 ![[Taille.ogg]]
 
+![[Taille.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Taille/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taille&language=de)
 
 **Meaning:** waist

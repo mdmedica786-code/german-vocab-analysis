@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wanderer.ogg]]
 
+![[Wanderer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wanderer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wanderer&language=de)
 
 **Meaning:** hiker (m)

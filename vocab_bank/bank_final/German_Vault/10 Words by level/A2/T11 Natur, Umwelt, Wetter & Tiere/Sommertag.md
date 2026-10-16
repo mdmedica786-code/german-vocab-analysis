@@ -24,6 +24,8 @@ status: "new"
 
 ![[Sommertag.ogg]]
 
+![[Sommertag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sommertag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sommertag&language=de)
 
 **Meaning:** summer's day

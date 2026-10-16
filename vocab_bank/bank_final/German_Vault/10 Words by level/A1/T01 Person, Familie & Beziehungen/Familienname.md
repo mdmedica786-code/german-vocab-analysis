@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Familienname
 
+![[Familienname.jpg]]
+
 ![[Familienname.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Familienname/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Familienname&language=de)

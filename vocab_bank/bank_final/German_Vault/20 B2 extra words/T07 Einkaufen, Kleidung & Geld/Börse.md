@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Börse
 
+![[Börse.jpg]]
+
 ![[Börse.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%B6rse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%B6rse&language=de)

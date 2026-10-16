@@ -23,6 +23,8 @@ status: "new"
 
 ![[Anstrengung.ogg]]
 
+![[Anstrengung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anstrengung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anstrengung&language=de)
 
 **Meaning:** effort; strain

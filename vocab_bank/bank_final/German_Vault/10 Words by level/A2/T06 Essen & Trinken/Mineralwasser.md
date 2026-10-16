@@ -25,6 +25,8 @@ status: "new"
 
 ![[Mineralwasser.ogg]]
 
+![[Mineralwasser.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mineralwasser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mineralwasser&language=de)
 
 **Meaning:** mineral water

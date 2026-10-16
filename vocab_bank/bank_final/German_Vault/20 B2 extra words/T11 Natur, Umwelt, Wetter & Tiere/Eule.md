@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Eule
 
+![[Eule.jpg]]
+
 ![[Eule.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Eule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eule&language=de)

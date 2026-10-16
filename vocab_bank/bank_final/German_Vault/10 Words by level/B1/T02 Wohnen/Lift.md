@@ -25,6 +25,8 @@ status: "new"
 
 ![[Lift.ogg]]
 
+![[Lift.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lift&language=de)
 
 **Meaning:** elevator

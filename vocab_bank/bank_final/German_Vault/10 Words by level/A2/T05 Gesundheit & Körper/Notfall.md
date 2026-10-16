@@ -25,6 +25,8 @@ status: "new"
 
 ![[Notfall.ogg]]
 
+![[Notfall.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Notfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notfall&language=de)
 
 **Meaning:** emergency

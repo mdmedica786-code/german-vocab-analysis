@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fernsehproduktion.ogg]]
 
+![[Fernsehproduktion.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fernsehproduktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fernsehproduktion&language=de)
 
 **Meaning:** TV production

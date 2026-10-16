@@ -25,6 +25,8 @@ status: "new"
 
 ![[Uniform.ogg]]
 
+![[Uniform.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Uniform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Uniform&language=de)
 
 **Meaning:** uniform

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Champagner.ogg]]
 
+![[Champagner.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Champagner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Champagner&language=de)
 
 **Meaning:** champagne

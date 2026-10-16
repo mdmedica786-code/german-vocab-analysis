@@ -25,6 +25,8 @@ status: "new"
 
 ![[Ernährung.ogg]]
 
+![[Ernährung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ern%C3%A4hrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ern%C3%A4hrung&language=de)
 
 **Meaning:** nutrition

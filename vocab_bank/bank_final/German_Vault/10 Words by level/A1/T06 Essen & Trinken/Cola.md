@@ -25,6 +25,8 @@ status: "new"
 
 ![[Cola.ogg]]
 
+![[Cola.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Cola/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Cola&language=de)
 
 **Meaning:** cola

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Grundwasser.ogg]]
 
+![[Grundwasser.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Grundwasser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundwasser&language=de)
 
 **Meaning:** groundwater

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Matte.ogg]]
 
+![[Matte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Matte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Matte&language=de)
 
 **Meaning:** mat

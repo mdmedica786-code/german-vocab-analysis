@@ -23,6 +23,8 @@ status: "new"
 
 ![[Vorwand.ogg]]
 
+![[Vorwand.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vorwand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorwand&language=de)
 
 **Meaning:** pretext; excuse

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Nichtraucher
 
+![[Nichtraucher.jpg]]
+
 ![[Nichtraucher.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Nichtraucher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nichtraucher&language=de)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Weiterbildung.ogg]]
 
+![[Weiterbildung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Weiterbildung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weiterbildung&language=de)
 
 **Meaning:** further training

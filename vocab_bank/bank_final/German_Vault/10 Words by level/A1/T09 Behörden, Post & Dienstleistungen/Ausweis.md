@@ -25,6 +25,8 @@ status: "new"
 
 ![[Ausweis.ogg]]
 
+![[Ausweis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ausweis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausweis&language=de)
 
 **Meaning:** ID card

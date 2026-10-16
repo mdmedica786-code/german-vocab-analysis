@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ehepaar.ogg]]
 
+![[Ehepaar.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ehepaar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehepaar&language=de)
 
 **Meaning:** married couple

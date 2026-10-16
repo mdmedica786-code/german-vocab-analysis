@@ -23,6 +23,8 @@ status: "new"
 
 ![[Chemotherapie.ogg]]
 
+![[Chemotherapie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Chemotherapie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chemotherapie&language=de)
 
 **Meaning:** chemotherapy

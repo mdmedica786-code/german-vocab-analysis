@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zärtlichkeit.ogg]]
 
+![[Zärtlichkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Z%C3%A4rtlichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Z%C3%A4rtlichkeit&language=de)
 
 **Meaning:** tenderness; affection

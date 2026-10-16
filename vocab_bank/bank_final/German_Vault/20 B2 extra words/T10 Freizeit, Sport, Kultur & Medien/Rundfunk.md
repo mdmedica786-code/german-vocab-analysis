@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rundfunk.ogg]]
 
+![[Rundfunk.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rundfunk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rundfunk&language=de)
 
 **Meaning:** broadcasting; radio

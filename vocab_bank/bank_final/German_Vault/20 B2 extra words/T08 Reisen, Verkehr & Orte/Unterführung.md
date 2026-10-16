@@ -23,6 +23,8 @@ status: "new"
 
 ![[Unterführung.ogg]]
 
+![[Unterführung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Unterf%C3%BChrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterf%C3%BChrung&language=de)
 
 **Meaning:** underpass; subway

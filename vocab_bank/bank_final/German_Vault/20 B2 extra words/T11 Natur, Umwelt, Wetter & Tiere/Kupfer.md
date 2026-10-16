@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Kupfer
 
+![[Kupfer.jpg]]
+
 ![[Kupfer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kupfer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kupfer&language=de)

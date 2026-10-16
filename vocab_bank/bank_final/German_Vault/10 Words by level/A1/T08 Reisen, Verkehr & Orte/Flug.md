@@ -25,6 +25,8 @@ status: "new"
 
 ![[Flug.ogg]]
 
+![[Flug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Flug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flug&language=de)
 
 **Meaning:** flight

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Arbeitsgericht.ogg]]
 
+![[Arbeitsgericht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitsgericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsgericht&language=de)
 
 **Meaning:** labour court

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Gehsteig.ogg]]
 
+![[Gehsteig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gehsteig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gehsteig&language=de)
 
 **Meaning:** pavement (Austrian, S. German)

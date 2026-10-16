@@ -25,6 +25,8 @@ status: "new"
 
 ![[Ehemann.ogg]]
 
+![[Ehemann.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ehemann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehemann&language=de)
 
 **Meaning:** husband

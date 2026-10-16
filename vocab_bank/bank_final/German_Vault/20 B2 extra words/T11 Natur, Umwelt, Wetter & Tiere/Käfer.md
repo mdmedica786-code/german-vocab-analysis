@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Käfer
 
+![[Käfer.jpg]]
+
 ![[Käfer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4fer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4fer&language=de)

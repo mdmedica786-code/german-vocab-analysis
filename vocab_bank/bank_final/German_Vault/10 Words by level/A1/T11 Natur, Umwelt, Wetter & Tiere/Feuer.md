@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Feuer
 
+![[Feuer.jpg]]
+
 ![[Feuer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Feuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuer&language=de)

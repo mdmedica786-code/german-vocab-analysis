@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hauskatze.ogg]]
 
+![[Hauskatze.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hauskatze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauskatze&language=de)
 
 **Meaning:** domestic cat

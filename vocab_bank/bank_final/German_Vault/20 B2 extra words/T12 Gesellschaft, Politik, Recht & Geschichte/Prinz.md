@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Prinz
 
+![[Prinz.jpg]]
+
 ![[Prinz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Prinz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prinz&language=de)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Aquarell.ogg]]
 
+![[Aquarell.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aquarell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aquarell&language=de)
 
 **Meaning:** watercolour

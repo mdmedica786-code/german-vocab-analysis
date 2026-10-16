@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Kamera
 
+![[Kamera.jpg]]
+
 ![[Kamera.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kamera/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kamera&language=de)

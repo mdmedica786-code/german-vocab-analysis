@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schreibwaren.ogg]]
 
+![[Schreibwaren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schreibwaren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schreibwaren&language=de)
 
 **Meaning:** stationary

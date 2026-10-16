@@ -23,6 +23,8 @@ status: "new"
 
 ![[Nachschlagewerk.ogg]]
 
+![[Nachschlagewerk.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachschlagewerk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachschlagewerk&language=de)
 
 **Meaning:** reference work

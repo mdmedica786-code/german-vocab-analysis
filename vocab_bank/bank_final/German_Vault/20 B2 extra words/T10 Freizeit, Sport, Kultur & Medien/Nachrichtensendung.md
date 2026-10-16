@@ -23,6 +23,8 @@ status: "new"
 
 ![[Nachrichtensendung.ogg]]
 
+![[Nachrichtensendung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachrichtensendung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachrichtensendung&language=de)
 
 **Meaning:** news programme

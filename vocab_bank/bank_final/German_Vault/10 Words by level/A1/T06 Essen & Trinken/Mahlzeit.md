@@ -25,6 +25,8 @@ status: "new"
 
 ![[Mahlzeit.ogg]]
 
+![[Mahlzeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mahlzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mahlzeit&language=de)
 
 **Meaning:** meal; (lunchtime greeting)

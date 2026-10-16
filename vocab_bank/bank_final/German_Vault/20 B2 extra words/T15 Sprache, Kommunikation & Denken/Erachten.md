@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Erachten
 
+![[Erachten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erachten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erachten&language=de)
 
 **Meaning:** opinion; view (only in "meines Erachtens")

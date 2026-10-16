@@ -23,6 +23,8 @@ status: "new"
 
 ![[Geheimschrift.ogg]]
 
+![[Geheimschrift.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geheimschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geheimschrift&language=de)
 
 **Meaning:** secret code; cipher

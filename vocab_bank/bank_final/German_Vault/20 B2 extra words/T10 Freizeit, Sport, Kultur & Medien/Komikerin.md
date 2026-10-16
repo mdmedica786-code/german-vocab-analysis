@@ -23,6 +23,8 @@ status: "new"
 
 ![[Komikerin.ogg]]
 
+![[Komikerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Komikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Komikerin&language=de)
 
 **Meaning:** comedian (female)

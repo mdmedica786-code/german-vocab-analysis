@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Schlange
 
+![[Schlange.jpg]]
+
 ![[Schlange.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schlange/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlange&language=de)

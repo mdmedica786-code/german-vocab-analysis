@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Blatt
 
+![[Blatt.jpg]]
+
 ![[Blatt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Blatt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blatt&language=de)

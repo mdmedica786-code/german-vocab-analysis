@@ -25,6 +25,8 @@ status: "new"
 
 ![[Reiseführer.ogg]]
 
+![[Reiseführer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reisef%C3%BChrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reisef%C3%BChrer&language=de)
 
 **Meaning:** tour guide (m); guidebook

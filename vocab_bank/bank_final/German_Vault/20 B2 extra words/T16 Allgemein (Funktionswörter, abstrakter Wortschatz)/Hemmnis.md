@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hemmnis.ogg]]
 
+![[Hemmnis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hemmnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hemmnis&language=de)
 
 **Meaning:** obstacle; impediment

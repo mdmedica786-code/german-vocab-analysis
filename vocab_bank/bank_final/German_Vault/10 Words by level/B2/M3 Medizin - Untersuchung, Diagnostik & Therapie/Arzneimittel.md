@@ -23,6 +23,8 @@ status: "new"
 
 ![[Arzneimittel.ogg]]
 
+![[Arzneimittel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arzneimittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arzneimittel&language=de)
 
 **Meaning:** medicine; drug

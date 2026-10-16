@@ -23,6 +23,8 @@ status: "new"
 
 ![[Filmemacherin.ogg]]
 
+![[Filmemacherin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Filmemacherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Filmemacherin&language=de)
 
 **Meaning:** filmmaker (female)

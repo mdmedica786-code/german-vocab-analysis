@@ -25,6 +25,8 @@ status: "new"
 
 ![[Geldbörse.ogg]]
 
+![[Geldbörse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geldb%C3%B6rse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geldb%C3%B6rse&language=de)
 
 **Meaning:** purse; wallet

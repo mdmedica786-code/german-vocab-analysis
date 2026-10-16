@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gleis.ogg]]
 
+![[Gleis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gleis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gleis&language=de)
 
 **Meaning:** track

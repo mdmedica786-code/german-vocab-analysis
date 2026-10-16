@@ -24,6 +24,8 @@ status: "new"
 
 ![[Globalisierung.ogg]]
 
+![[Globalisierung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Globalisierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Globalisierung&language=de)
 
 **Meaning:** globalization

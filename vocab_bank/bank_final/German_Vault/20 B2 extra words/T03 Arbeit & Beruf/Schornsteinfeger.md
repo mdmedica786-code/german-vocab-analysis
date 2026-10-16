@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schornsteinfeger.ogg]]
 
+![[Schornsteinfeger.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schornsteinfeger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schornsteinfeger&language=de)
 
 **Meaning:** chimney sweep

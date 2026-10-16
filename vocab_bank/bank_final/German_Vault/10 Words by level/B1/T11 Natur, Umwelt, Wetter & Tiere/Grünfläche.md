@@ -24,6 +24,8 @@ status: "new"
 
 ![[Grünfläche.ogg]]
 
+![[Grünfläche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gr%C3%BCnfl%C3%A4che/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gr%C3%BCnfl%C3%A4che&language=de)
 
 **Meaning:** green space

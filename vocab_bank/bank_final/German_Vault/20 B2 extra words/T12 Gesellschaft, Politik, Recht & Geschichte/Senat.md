@@ -23,6 +23,8 @@ status: "new"
 
 ![[Senat.ogg]]
 
+![[Senat.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Senat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Senat&language=de)
 
 **Meaning:** senate; governing council

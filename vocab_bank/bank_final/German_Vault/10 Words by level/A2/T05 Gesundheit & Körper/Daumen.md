@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Daumen
 
+![[Daumen.jpg]]
+
 ![[Daumen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Daumen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Daumen&language=de)

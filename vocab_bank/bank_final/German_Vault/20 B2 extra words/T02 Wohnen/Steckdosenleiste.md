@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Steckdosenleiste
 
+![[Steckdosenleiste.jpg]]
+
 ![[Steckdosenleiste.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Steckdosenleiste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Steckdosenleiste&language=de)

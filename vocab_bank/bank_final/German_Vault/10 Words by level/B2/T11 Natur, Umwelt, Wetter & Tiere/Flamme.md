@@ -23,6 +23,8 @@ status: "new"
 
 ![[Flamme.ogg]]
 
+![[Flamme.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Flamme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flamme&language=de)
 
 **Meaning:** flame

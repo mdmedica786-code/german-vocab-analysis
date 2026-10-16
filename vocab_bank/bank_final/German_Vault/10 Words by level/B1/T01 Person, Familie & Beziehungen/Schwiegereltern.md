@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schwiegereltern.ogg]]
 
+![[Schwiegereltern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schwiegereltern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwiegereltern&language=de)
 
 **Meaning:** parents-in-law

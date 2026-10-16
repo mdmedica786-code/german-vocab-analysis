@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Wahl
 
+![[Wahl.jpg]]
+
 ![[Wahl.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahl&language=de)

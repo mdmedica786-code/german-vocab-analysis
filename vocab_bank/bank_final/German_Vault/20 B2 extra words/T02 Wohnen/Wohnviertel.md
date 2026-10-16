@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wohnviertel.ogg]]
 
+![[Wohnviertel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wohnviertel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnviertel&language=de)
 
 **Meaning:** residential area; neighbourhood

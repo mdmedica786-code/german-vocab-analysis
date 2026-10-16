@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Gasse
 
+![[Gasse.jpg]]
+
 ![[Gasse.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gasse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gasse&language=de)

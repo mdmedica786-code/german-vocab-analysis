@@ -23,6 +23,8 @@ status: "new"
 
 ![[Brotdose.ogg]]
 
+![[Brotdose.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Brotdose/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brotdose&language=de)
 
 **Meaning:** lunch box

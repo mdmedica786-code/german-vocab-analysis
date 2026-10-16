@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Kofferraum
 
+![[Kofferraum.jpg]]
+
 ![[Kofferraum.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kofferraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kofferraum&language=de)

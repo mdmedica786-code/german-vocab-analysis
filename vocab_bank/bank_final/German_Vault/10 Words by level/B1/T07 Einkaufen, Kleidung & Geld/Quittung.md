@@ -25,6 +25,8 @@ status: "new"
 
 ![[Quittung.ogg]]
 
+![[Quittung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Quittung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Quittung&language=de)
 
 **Meaning:** receipt

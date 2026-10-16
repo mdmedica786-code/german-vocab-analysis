@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Quantenprozessor
 
+![[Quantenprozessor.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Quantenprozessor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Quantenprozessor&language=de)
 
 **Meaning:** quantum processor

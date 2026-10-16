@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lineal.ogg]]
 
+![[Lineal.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lineal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lineal&language=de)
 
 **Meaning:** ruler

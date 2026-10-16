@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pinsel.ogg]]
 
+![[Pinsel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pinsel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pinsel&language=de)
 
 **Meaning:** brush; paintbrush

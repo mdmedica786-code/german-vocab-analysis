@@ -24,6 +24,8 @@ status: "new"
 
 ![[Handarbeit.ogg]]
 
+![[Handarbeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Handarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handarbeit&language=de)
 
 **Meaning:** handicraft; manual work

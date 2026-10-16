@@ -23,6 +23,8 @@ status: "new"
 
 ![[Auszug.ogg]]
 
+![[Auszug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Auszug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auszug&language=de)
 
 **Meaning:** move out; extract

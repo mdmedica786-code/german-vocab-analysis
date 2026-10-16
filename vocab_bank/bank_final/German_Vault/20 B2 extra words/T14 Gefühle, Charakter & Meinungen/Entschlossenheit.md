@@ -23,6 +23,8 @@ status: "new"
 
 ![[Entschlossenheit.ogg]]
 
+![[Entschlossenheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Entschlossenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entschlossenheit&language=de)
 
 **Meaning:** determination

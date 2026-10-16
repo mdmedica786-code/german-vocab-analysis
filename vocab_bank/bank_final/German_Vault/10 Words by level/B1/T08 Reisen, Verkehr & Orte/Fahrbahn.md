@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Fahrbahn
 
+![[Fahrbahn.png]]
+
 ![[Fahrbahn.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fahrbahn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrbahn&language=de)

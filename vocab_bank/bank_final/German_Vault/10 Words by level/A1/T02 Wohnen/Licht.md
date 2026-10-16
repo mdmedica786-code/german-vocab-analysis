@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Licht
 
+![[Licht.jpg]]
+
 ![[Licht.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Licht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Licht&language=de)

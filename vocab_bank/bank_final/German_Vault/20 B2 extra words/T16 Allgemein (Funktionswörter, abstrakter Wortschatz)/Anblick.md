@@ -23,6 +23,8 @@ status: "new"
 
 ![[Anblick.ogg]]
 
+![[Anblick.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anblick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anblick&language=de)
 
 **Meaning:** sight; view

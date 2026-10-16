@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Straßenbahn
 
+![[Straßenbahn.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stra%C3%9Fenbahn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stra%C3%9Fenbahn&language=de)
 
 **Meaning:** tram

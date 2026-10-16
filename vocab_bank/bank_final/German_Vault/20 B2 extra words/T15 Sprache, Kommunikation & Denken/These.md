@@ -23,6 +23,8 @@ status: "new"
 
 ![[These.ogg]]
 
+![[These.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/These/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=These&language=de)
 
 **Meaning:** thesis; hypothesis

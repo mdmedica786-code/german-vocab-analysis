@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Indonesien
 
+![[Indonesien.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Indonesien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Indonesien&language=de)
 
 **Meaning:** Indonesia

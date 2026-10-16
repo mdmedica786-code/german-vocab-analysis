@@ -23,6 +23,8 @@ status: "new"
 
 ![[Spülmittel.ogg]]
 
+![[Spülmittel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sp%C3%BClmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sp%C3%BClmittel&language=de)
 
 **Meaning:** washing-up liquid

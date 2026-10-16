@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Pianistin
 
+![[Pianistin.jpg]]
+
 ![[Pianistin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Pianistin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pianistin&language=de)

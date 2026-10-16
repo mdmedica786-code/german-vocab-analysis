@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der November
 
+![[November.png]]
+
 ![[November.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/November/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=November&language=de)

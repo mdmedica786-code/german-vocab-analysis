@@ -23,6 +23,8 @@ status: "new"
 
 ![[Drehbuch.ogg]]
 
+![[Drehbuch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Drehbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Drehbuch&language=de)
 
 **Meaning:** screenplay; script

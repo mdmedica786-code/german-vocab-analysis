@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mörder.ogg]]
 
+![[Mörder.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%B6rder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%B6rder&language=de)
 
 **Meaning:** murderer

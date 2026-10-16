@@ -25,6 +25,8 @@ status: "new"
 
 ![[Sportler.ogg]]
 
+![[Sportler.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sportler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportler&language=de)
 
 **Meaning:** athlete (m)

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Bildschirm
 
+![[Bildschirm.jpg]]
+
 ![[Bildschirm.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bildschirm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bildschirm&language=de)

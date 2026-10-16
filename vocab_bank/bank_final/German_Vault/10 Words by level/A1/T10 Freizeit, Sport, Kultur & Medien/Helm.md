@@ -24,6 +24,8 @@ status: "new"
 
 ![[Helm.ogg]]
 
+![[Helm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Helm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Helm&language=de)
 
 **Meaning:** helmet

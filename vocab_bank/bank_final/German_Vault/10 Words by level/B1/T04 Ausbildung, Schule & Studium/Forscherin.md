@@ -24,6 +24,8 @@ status: "new"
 
 ![[Forscherin.ogg]]
 
+![[Forscherin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Forscherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forscherin&language=de)
 
 **Meaning:** researcher (f)

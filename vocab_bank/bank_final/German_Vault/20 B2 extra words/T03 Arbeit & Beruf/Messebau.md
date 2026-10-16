@@ -23,6 +23,8 @@ status: "new"
 
 ![[Messebau.ogg]]
 
+![[Messebau.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Messebau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Messebau&language=de)
 
 **Meaning:** trade fair construction; exhibition stand building

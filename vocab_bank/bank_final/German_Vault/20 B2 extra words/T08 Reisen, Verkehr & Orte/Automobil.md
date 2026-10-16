@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Automobil
 
+![[Automobil.jpg]]
+
 ![[Automobil.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Automobil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Automobil&language=de)

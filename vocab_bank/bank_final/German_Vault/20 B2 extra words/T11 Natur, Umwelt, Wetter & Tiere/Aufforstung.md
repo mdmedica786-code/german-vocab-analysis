@@ -23,6 +23,8 @@ status: "new"
 
 ![[Aufforstung.ogg]]
 
+![[Aufforstung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aufforstung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufforstung&language=de)
 
 **Meaning:** reforestation; afforestation

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Anhänger.ogg]]
 
+![[Anhänger.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anh%C3%A4nger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anh%C3%A4nger&language=de)
 
 **Meaning:** follower; supporter; trailer

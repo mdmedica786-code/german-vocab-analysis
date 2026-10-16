@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Sonnabend
 
+![[Sonnabend.jpg]]
+
 ![[Sonnabend.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sonnabend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnabend&language=de)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Prinzip.ogg]]
 
+![[Prinzip.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Prinzip/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prinzip&language=de)
 
 **Meaning:** principle

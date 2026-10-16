@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stammgast.ogg]]
 
+![[Stammgast.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stammgast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stammgast&language=de)
 
 **Meaning:** regular (customer); regular guest

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schwung.ogg]]
 
+![[Schwung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schwung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwung&language=de)
 
 **Meaning:** momentum; swing; drive

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Feuchtigkeitscreme.ogg]]
 
+![[Feuchtigkeitscreme.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Feuchtigkeitscreme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuchtigkeitscreme&language=de)
 
 **Meaning:** moisturiser

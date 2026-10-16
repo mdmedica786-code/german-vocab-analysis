@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schweizerische Eidgenossenschaft.ogg]]
 
+![[Schweizerische Eidgenossenschaft.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schweizerische%20Eidgenossenschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schweizerische%20Eidgenossenschaft&language=de)
 
 **Meaning:** Swiss Confederation

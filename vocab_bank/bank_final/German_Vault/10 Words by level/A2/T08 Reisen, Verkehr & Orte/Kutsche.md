@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kutsche.ogg]]
 
+![[Kutsche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kutsche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kutsche&language=de)
 
 **Meaning:** carriage

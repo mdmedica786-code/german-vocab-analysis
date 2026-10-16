@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Fernbedienung
 
+![[Fernbedienung.jpg]]
+
 ![[Fernbedienung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fernbedienung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fernbedienung&language=de)

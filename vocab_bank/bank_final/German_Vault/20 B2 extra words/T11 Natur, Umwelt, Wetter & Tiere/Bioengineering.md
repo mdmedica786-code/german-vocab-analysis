@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Bioengineering
 
+![[Bioengineering.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bioengineering/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bioengineering&language=de)
 
 **Meaning:** bioengineering

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Zigarette
 
+![[Zigarette.jpg]]
+
 ![[Zigarette.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zigarette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zigarette&language=de)

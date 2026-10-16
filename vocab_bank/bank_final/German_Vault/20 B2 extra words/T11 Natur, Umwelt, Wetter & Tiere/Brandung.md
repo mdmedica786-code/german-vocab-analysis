@@ -23,6 +23,8 @@ status: "new"
 
 ![[Brandung.ogg]]
 
+![[Brandung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Brandung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brandung&language=de)
 
 **Meaning:** surf; breakers

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wut.ogg]]
 
+![[Wut.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wut&language=de)
 
 **Meaning:** rage; anger

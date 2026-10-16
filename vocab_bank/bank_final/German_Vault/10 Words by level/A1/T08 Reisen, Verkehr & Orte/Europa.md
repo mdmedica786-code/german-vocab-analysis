@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Europa
 
+![[Europa.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Europa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Europa&language=de)
 
 **Meaning:** Europe

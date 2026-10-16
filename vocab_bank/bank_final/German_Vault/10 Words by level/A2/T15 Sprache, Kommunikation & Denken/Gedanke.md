@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Gedanke
 
+![[Gedanke.jpg]]
+
 ![[Gedanke.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gedanke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gedanke&language=de)

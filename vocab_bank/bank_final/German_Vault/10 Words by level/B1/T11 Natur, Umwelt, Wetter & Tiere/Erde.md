@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Erde
 
+![[Erde.jpg]]
+
 ![[Erde.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Erde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erde&language=de)

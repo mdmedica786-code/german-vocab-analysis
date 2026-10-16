@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Rad
 
+![[Rad.jpg]]
+
 ![[Rad.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Rad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rad&language=de)

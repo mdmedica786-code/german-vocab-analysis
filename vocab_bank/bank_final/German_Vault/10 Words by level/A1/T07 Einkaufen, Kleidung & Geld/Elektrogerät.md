@@ -24,6 +24,8 @@ status: "new"
 
 ![[Elektrogerät.ogg]]
 
+![[Elektrogerät.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Elektroger%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elektroger%C3%A4t&language=de)
 
 **Meaning:** electronic device

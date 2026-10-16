@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Lid
 
+![[Lid.jpg]]
+
 ![[Lid.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Lid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lid&language=de)

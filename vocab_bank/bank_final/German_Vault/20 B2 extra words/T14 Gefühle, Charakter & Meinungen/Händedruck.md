@@ -23,6 +23,8 @@ status: "new"
 
 ![[Händedruck.ogg]]
 
+![[Händedruck.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%A4ndedruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%A4ndedruck&language=de)
 
 **Meaning:** handshake; grip of the hand

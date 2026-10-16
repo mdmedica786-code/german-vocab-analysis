@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kommunikationswissenschaftlerin.ogg]]
 
+![[Kommunikationswissenschaftlerin.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kommunikationswissenschaftlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kommunikationswissenschaftlerin&language=de)
 
 **Meaning:** communication scientist (female)

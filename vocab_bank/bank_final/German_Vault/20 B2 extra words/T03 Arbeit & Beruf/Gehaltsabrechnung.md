@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gehaltsabrechnung.ogg]]
 
+![[Gehaltsabrechnung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gehaltsabrechnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gehaltsabrechnung&language=de)
 
 **Meaning:** salary statement

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bratpfanne.ogg]]
 
+![[Bratpfanne.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bratpfanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bratpfanne&language=de)
 
 **Meaning:** frying pan

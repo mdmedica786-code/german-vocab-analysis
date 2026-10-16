@@ -24,6 +24,8 @@ status: "new"
 
 ![[Persönlichkeit.ogg]]
 
+![[Persönlichkeit.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pers%C3%B6nlichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pers%C3%B6nlichkeit&language=de)
 
 **Meaning:** personality

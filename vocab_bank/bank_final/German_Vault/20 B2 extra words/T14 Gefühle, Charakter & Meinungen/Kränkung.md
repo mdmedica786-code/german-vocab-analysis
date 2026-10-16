@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kränkung.ogg]]
 
+![[Kränkung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kr%C3%A4nkung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kr%C3%A4nkung&language=de)
 
 **Meaning:** insult; hurt feelings

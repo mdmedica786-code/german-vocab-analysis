@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stadtrundfahrt.ogg]]
 
+![[Stadtrundfahrt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stadtrundfahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtrundfahrt&language=de)
 
 **Meaning:** city sightseeing tour

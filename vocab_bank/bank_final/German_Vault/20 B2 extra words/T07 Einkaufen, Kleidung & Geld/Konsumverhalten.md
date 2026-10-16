@@ -23,6 +23,8 @@ status: "new"
 
 ![[Konsumverhalten.ogg]]
 
+![[Konsumverhalten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konsumverhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konsumverhalten&language=de)
 
 **Meaning:** consumer behaviour

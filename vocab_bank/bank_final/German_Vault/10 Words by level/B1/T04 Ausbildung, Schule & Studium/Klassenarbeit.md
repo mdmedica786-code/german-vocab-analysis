@@ -24,6 +24,8 @@ status: "new"
 
 ![[Klassenarbeit.ogg]]
 
+![[Klassenarbeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Klassenarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klassenarbeit&language=de)
 
 **Meaning:** class test

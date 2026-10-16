@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zeitplan.ogg]]
 
+![[Zeitplan.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zeitplan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitplan&language=de)
 
 **Meaning:** schedule

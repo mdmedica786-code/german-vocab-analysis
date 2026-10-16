@@ -25,6 +25,8 @@ status: "new"
 
 ![[Natur.ogg]]
 
+![[Natur.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Natur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Natur&language=de)
 
 **Meaning:** nature

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Perspektive.ogg]]
 
+![[Perspektive.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Perspektive/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Perspektive&language=de)
 
 **Meaning:** perspective

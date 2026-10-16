@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kundin.ogg]]
 
+![[Kundin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kundin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kundin&language=de)
 
 **Meaning:** customer (f)

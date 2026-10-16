@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fitnessstudio.ogg]]
 
+![[Fitnessstudio.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fitnessstudio/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fitnessstudio&language=de)
 
 **Meaning:** gym; fitness studio

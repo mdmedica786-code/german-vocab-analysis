@@ -24,6 +24,8 @@ status: "new"
 
 ![[Abschlussprüfung.ogg]]
 
+![[Abschlussprüfung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abschlusspr%C3%BCfung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abschlusspr%C3%BCfung&language=de)
 
 **Meaning:** final exam

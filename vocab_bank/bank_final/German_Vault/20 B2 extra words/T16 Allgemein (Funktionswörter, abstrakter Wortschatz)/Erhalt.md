@@ -23,6 +23,8 @@ status: "new"
 
 ![[Erhalt.ogg]]
 
+![[Erhalt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erhalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erhalt&language=de)
 
 **Meaning:** receipt; preservation

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Abbildung
 
+![[Abbildung.jpg]]
+
 ![[Abbildung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Abbildung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abbildung&language=de)

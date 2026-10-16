@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lebensweise.ogg]]
 
+![[Lebensweise.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lebensweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensweise&language=de)
 
 **Meaning:** way of life; lifestyle

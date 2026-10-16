@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Bild
 
+![[Bild.png]]
+
 ![[Bild.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bild/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bild&language=de)

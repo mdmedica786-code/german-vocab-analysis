@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Metzger
 
+![[Metzger.jpg]]
+
 ![[Metzger.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Metzger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Metzger&language=de)

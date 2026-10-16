@@ -24,6 +24,8 @@ status: "new"
 
 ![[Segler.ogg]]
 
+![[Segler.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Segler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Segler&language=de)
 
 **Meaning:** sailor (m)

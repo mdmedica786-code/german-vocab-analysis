@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tempel.ogg]]
 
+![[Tempel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tempel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tempel&language=de)
 
 **Meaning:** temple

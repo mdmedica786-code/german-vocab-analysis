@@ -24,6 +24,8 @@ status: "new"
 
 ![[Versehen.ogg]]
 
+![[Versehen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Versehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versehen&language=de)
 
 **Meaning:** accident (accidentally)

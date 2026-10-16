@@ -24,6 +24,8 @@ status: "new"
 
 ![[Blogbeitrag.ogg]]
 
+![[Blogbeitrag.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Blogbeitrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blogbeitrag&language=de)
 
 **Meaning:** blog post

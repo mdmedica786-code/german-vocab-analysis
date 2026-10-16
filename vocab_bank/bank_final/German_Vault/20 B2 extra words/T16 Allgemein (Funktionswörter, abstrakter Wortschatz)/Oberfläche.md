@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Oberfläche
 
+![[Oberfläche.jpg]]
+
 ![[Oberfläche.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Oberfl%C3%A4che/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oberfl%C3%A4che&language=de)

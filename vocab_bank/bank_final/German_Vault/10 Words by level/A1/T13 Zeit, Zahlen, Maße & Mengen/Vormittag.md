@@ -25,6 +25,8 @@ status: "new"
 
 ![[Vormittag.ogg]]
 
+![[Vormittag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vormittag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vormittag&language=de)
 
 **Meaning:** morning (before noon)

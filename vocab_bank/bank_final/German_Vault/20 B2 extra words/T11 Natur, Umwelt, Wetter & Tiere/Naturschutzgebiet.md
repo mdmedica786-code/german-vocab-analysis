@@ -23,6 +23,8 @@ status: "new"
 
 ![[Naturschutzgebiet.ogg]]
 
+![[Naturschutzgebiet.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Naturschutzgebiet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Naturschutzgebiet&language=de)
 
 **Meaning:** nature reserve

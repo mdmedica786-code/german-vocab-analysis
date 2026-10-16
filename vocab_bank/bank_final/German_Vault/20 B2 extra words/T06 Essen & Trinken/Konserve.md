@@ -23,6 +23,8 @@ status: "new"
 
 ![[Konserve.ogg]]
 
+![[Konserve.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konserve/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konserve&language=de)
 
 **Meaning:** tinned food

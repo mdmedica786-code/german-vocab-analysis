@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Grippe
 
+![[Grippe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Grippe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grippe&language=de)
 
 **Meaning:** flu

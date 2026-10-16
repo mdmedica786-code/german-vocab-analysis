@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hölle.ogg]]
 
+![[Hölle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6lle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6lle&language=de)
 
 **Meaning:** hell

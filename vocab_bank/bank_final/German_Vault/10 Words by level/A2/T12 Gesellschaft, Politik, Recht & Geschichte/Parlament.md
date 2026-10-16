@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Parlament
 
+![[Parlament.jpg]]
+
 ![[Parlament.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Parlament/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parlament&language=de)

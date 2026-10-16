@@ -23,6 +23,8 @@ status: "new"
 
 ![[Freizeitbeschäftigung.ogg]]
 
+![[Freizeitbeschäftigung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Freizeitbesch%C3%A4ftigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freizeitbesch%C3%A4ftigung&language=de)
 
 **Meaning:** leisure activity; hobby

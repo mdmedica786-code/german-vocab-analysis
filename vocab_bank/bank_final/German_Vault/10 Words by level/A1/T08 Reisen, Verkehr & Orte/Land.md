@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Land
 
+![[Land.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Land/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Land&language=de)
 
 **Meaning:** country; land; countryside

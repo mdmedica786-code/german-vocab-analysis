@@ -23,6 +23,8 @@ status: "new"
 
 ![[Handbremse.ogg]]
 
+![[Handbremse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Handbremse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handbremse&language=de)
 
 **Meaning:** handbrake

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Milchprodukt.ogg]]
 
+![[Milchprodukt.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Milchprodukt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Milchprodukt&language=de)
 
 **Meaning:** milk product

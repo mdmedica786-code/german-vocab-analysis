@@ -25,6 +25,8 @@ status: "new"
 
 ![[Schulter.ogg]]
 
+![[Schulter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schulter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulter&language=de)
 
 **Meaning:** shoulder

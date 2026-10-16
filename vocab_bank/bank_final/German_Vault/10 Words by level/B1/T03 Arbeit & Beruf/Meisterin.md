@@ -24,6 +24,8 @@ status: "new"
 
 ![[Meisterin.ogg]]
 
+![[Meisterin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Meisterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meisterin&language=de)
 
 **Meaning:** master craftswoman; champion (f)

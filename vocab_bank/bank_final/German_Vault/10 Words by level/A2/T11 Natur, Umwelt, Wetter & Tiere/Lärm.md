@@ -25,6 +25,8 @@ status: "new"
 
 ![[Lärm.ogg]]
 
+![[Lärm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/L%C3%A4rm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%A4rm&language=de)
 
 **Meaning:** noise

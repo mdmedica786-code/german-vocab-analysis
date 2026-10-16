@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lustspiel.ogg]]
 
+![[Lustspiel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lustspiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lustspiel&language=de)
 
 **Meaning:** comedy (play)

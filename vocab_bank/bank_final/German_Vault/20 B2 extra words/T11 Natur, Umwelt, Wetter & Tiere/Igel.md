@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Igel
 
+![[Igel.jpg]]
+
 ![[Igel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Igel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Igel&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Durchsage.ogg]]
 
+![[Durchsage.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Durchsage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Durchsage&language=de)
 
 **Meaning:** announcement

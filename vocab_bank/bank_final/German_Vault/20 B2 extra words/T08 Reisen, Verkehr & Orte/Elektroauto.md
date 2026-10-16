@@ -23,6 +23,8 @@ status: "new"
 
 ![[Elektroauto.ogg]]
 
+![[Elektroauto.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Elektroauto/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elektroauto&language=de)
 
 **Meaning:** electric car

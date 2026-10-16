@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dübel.ogg]]
 
+![[Dübel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/D%C3%BCbel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=D%C3%BCbel&language=de)
 
 **Meaning:** wall plug

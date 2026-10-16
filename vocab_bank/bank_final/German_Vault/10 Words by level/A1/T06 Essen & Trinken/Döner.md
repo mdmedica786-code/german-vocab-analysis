@@ -24,6 +24,8 @@ status: "new"
 
 ![[Döner.ogg]]
 
+![[Döner.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/D%C3%B6ner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=D%C3%B6ner&language=de)
 
 **Meaning:** doner kebab

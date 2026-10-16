@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rückzug.ogg]]
 
+![[Rückzug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCckzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCckzug&language=de)
 
 **Meaning:** retreat; withdrawal

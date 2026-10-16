@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Wecker
 
+![[Wecker.jpg]]
+
 ![[Wecker.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wecker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wecker&language=de)

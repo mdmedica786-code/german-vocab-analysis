@@ -24,6 +24,8 @@ status: "new"
 
 ![[Sweatshirt.ogg]]
 
+![[Sweatshirt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sweatshirt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sweatshirt&language=de)
 
 **Meaning:** sweatshirt

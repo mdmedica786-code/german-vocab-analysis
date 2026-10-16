@@ -26,6 +26,8 @@ status: "new"
 
 ![[Fleischhauer.ogg]]
 
+![[Fleischhauer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fleischhauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fleischhauer&language=de)
 
 **Meaning:** butcher (Austrian)

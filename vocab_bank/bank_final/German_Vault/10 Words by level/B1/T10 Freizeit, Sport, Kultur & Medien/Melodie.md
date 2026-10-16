@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Melodie
 
+![[Melodie.png]]
+
 ![[Melodie.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Melodie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Melodie&language=de)

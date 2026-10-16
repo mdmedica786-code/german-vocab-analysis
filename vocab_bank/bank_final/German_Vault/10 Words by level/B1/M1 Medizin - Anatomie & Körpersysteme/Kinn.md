@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kinn.ogg]]
 
+![[Kinn.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kinn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinn&language=de)
 
 **Meaning:** chin

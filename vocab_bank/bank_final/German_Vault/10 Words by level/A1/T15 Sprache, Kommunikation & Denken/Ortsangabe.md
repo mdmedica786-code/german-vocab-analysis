@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ortsangabe.ogg]]
 
+![[Ortsangabe.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ortsangabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ortsangabe&language=de)
 
 **Meaning:** location

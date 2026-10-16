@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ausdauer.ogg]]
 
+![[Ausdauer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ausdauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausdauer&language=de)
 
 **Meaning:** endurance; perseverance

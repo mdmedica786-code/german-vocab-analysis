@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Augenoptikerin
 
+![[Augenoptikerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Augenoptikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Augenoptikerin&language=de)
 
 **Meaning:** optician (f)

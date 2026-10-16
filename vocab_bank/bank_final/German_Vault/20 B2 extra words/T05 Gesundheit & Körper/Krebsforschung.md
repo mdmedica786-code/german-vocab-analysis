@@ -23,6 +23,8 @@ status: "new"
 
 ![[Krebsforschung.ogg]]
 
+![[Krebsforschung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krebsforschung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krebsforschung&language=de)
 
 **Meaning:** cancer research

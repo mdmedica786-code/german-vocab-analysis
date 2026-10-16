@@ -23,6 +23,8 @@ status: "new"
 
 ![[Luftqualität.ogg]]
 
+![[Luftqualität.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Luftqualit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luftqualit%C3%A4t&language=de)
 
 **Meaning:** air quality

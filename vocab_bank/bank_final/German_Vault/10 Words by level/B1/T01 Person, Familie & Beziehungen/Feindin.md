@@ -24,6 +24,8 @@ status: "new"
 
 ![[Feindin.ogg]]
 
+![[Feindin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Feindin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feindin&language=de)
 
 **Meaning:** enemy (f)

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Interview
 
+![[Interview.jpg]]
+
 ![[Interview.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Interview/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Interview&language=de)

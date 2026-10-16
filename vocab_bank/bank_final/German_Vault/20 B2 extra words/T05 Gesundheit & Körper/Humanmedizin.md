@@ -23,6 +23,8 @@ status: "new"
 
 ![[Humanmedizin.ogg]]
 
+![[Humanmedizin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Humanmedizin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Humanmedizin&language=de)
 
 **Meaning:** human medicine

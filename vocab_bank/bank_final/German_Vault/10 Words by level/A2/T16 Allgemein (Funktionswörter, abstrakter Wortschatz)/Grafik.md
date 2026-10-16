@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Grafik
 
+![[Grafik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Grafik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grafik&language=de)
 
 **Meaning:** graphic design; graphics

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Umweltschutz.ogg]]
 
+![[Umweltschutz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Umweltschutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umweltschutz&language=de)
 
 **Meaning:** environmental protection

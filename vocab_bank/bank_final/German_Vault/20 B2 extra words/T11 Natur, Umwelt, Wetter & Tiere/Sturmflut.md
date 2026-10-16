@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sturmflut.ogg]]
 
+![[Sturmflut.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sturmflut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sturmflut&language=de)
 
 **Meaning:** storm surge

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Christentum.ogg]]
 
+![[Christentum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Christentum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Christentum&language=de)
 
 **Meaning:** Christianity

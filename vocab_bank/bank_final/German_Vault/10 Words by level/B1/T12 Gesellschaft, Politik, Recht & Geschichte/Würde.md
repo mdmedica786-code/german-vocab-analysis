@@ -24,6 +24,8 @@ status: "new"
 
 ![[Würde.ogg]]
 
+![[Würde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/W%C3%BCrde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%BCrde&language=de)
 
 **Meaning:** dignity

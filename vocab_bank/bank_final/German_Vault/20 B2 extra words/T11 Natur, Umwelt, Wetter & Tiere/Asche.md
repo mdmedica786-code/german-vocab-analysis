@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Asche
 
+![[Asche.jpg]]
+
 ![[Asche.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Asche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Asche&language=de)

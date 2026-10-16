@@ -25,6 +25,8 @@ status: "new"
 
 ![[Abflug.ogg]]
 
+![[Abflug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abflug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abflug&language=de)
 
 **Meaning:** take-off; departure (flight)

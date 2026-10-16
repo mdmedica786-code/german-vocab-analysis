@@ -24,6 +24,8 @@ status: "new"
 
 ![[Führer.ogg]]
 
+![[Führer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/F%C3%BChrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%BChrer&language=de)
 
 **Meaning:** guide (m); leader

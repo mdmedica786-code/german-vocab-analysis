@@ -24,6 +24,8 @@ status: "new"
 
 ![[Alarmanlage.ogg]]
 
+![[Alarmanlage.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Alarmanlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alarmanlage&language=de)
 
 **Meaning:** alarm (system)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Nervosität.ogg]]
 
+![[Nervosität.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nervosit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nervosit%C3%A4t&language=de)
 
 **Meaning:** nervousness

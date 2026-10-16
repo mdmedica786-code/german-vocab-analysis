@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Ferne
 
+![[Ferne.jpg]]
+
 ![[Ferne.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Ferne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ferne&language=de)

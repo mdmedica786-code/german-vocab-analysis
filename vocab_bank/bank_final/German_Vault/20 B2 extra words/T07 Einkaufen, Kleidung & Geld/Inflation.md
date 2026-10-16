@@ -23,6 +23,8 @@ status: "new"
 
 ![[Inflation.ogg]]
 
+![[Inflation.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Inflation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Inflation&language=de)
 
 **Meaning:** inflation

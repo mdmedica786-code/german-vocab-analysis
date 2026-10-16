@@ -25,6 +25,8 @@ status: "new"
 
 ![[Präsentation.ogg]]
 
+![[Präsentation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pr%C3%A4sentation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pr%C3%A4sentation&language=de)
 
 **Meaning:** presentation

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schweiß.ogg]]
 
+![[Schweiß.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schwei%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwei%C3%9F&language=de)
 
 **Meaning:** sweat

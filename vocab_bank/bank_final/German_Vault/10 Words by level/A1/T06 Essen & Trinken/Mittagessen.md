@@ -25,6 +25,8 @@ status: "new"
 
 ![[Mittagessen.ogg]]
 
+![[Mittagessen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mittagessen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittagessen&language=de)
 
 **Meaning:** lunch

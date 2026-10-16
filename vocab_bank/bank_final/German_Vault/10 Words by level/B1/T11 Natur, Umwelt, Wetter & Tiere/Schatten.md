@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Schatten
 
+![[Schatten.jpg]]
+
 ![[Schatten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schatten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schatten&language=de)

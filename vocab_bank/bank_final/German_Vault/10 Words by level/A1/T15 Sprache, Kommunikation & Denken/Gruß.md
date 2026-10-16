@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gruß.ogg]]
 
+![[Gruß.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gru%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gru%C3%9F&language=de)
 
 **Meaning:** greeting

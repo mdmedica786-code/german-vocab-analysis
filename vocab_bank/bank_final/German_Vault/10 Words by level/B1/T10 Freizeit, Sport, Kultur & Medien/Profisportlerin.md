@@ -24,6 +24,8 @@ status: "new"
 
 ![[Profisportlerin.ogg]]
 
+![[Profisportlerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Profisportlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Profisportlerin&language=de)
 
 **Meaning:** professional athlete (f)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Düne.ogg]]
 
+![[Düne.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/D%C3%BCne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=D%C3%BCne&language=de)
 
 **Meaning:** dune

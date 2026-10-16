@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verkehrsanbindung.ogg]]
 
+![[Verkehrsanbindung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verkehrsanbindung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrsanbindung&language=de)
 
 **Meaning:** transport connections; access to public transport

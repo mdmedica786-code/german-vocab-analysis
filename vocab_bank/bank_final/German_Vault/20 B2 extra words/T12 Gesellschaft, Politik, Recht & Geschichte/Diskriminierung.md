@@ -23,6 +23,8 @@ status: "new"
 
 ![[Diskriminierung.ogg]]
 
+![[Diskriminierung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Diskriminierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diskriminierung&language=de)
 
 **Meaning:** discrimination

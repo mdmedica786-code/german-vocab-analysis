@@ -23,6 +23,8 @@ status: "new"
 
 ![[Festnetztelefon.ogg]]
 
+![[Festnetztelefon.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Festnetztelefon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Festnetztelefon&language=de)
 
 **Meaning:** landline phone

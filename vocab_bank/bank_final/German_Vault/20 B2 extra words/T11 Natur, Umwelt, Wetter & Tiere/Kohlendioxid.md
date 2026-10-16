@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Kohlendioxid
 
+![[Kohlendioxid.png]]
+
 ![[Kohlendioxid.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kohlendioxid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kohlendioxid&language=de)

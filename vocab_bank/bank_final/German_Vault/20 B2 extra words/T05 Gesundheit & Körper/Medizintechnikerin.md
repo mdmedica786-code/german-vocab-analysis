@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Medizintechnikerin
 
+![[Medizintechnikerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Medizintechnikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medizintechnikerin&language=de)
 
 **Meaning:** medical technician (female); biomedical engineer

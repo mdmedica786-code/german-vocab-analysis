@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kolumne.ogg]]
 
+![[Kolumne.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kolumne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kolumne&language=de)
 
 **Meaning:** column (newspaper)

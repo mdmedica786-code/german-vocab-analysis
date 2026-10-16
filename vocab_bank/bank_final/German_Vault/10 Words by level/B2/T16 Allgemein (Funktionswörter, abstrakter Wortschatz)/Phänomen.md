@@ -23,6 +23,8 @@ status: "new"
 
 ![[Phänomen.ogg]]
 
+![[Phänomen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ph%C3%A4nomen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ph%C3%A4nomen&language=de)
 
 **Meaning:** phenomenon

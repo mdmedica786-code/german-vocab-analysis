@@ -25,6 +25,8 @@ status: "new"
 
 ![[Krimi.ogg]]
 
+![[Krimi.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krimi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krimi&language=de)
 
 **Meaning:** detective story; crime novel

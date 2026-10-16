@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bevölkerungsentwicklung.ogg]]
 
+![[Bevölkerungsentwicklung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bev%C3%B6lkerungsentwicklung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bev%C3%B6lkerungsentwicklung&language=de)
 
 **Meaning:** population development

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Krankheitserreger
 
+![[Krankheitserreger.png]]
+
 ![[Krankheitserreger.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Krankheitserreger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankheitserreger&language=de)

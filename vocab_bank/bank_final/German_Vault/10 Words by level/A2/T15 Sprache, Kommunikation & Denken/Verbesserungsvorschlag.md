@@ -24,6 +24,8 @@ status: "new"
 
 ![[Verbesserungsvorschlag.ogg]]
 
+![[Verbesserungsvorschlag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verbesserungsvorschlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbesserungsvorschlag&language=de)
 
 **Meaning:** improvement suggestions

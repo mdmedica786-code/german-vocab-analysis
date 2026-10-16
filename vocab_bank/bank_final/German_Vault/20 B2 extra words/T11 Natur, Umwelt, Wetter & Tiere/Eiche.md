@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Eiche
 
+![[Eiche.jpg]]
+
 ![[Eiche.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Eiche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eiche&language=de)

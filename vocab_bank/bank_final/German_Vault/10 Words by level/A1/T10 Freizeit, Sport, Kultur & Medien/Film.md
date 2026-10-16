@@ -25,6 +25,8 @@ status: "new"
 
 ![[Film.ogg]]
 
+![[Film.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Film/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Film&language=de)
 
 **Meaning:** film

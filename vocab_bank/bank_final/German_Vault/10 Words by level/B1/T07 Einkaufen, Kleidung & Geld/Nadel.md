@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Nadel
 
+![[Nadel.jpg]]
+
 ![[Nadel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Nadel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nadel&language=de)

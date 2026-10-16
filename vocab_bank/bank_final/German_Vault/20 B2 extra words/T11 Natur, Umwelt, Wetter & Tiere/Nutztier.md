@@ -23,6 +23,8 @@ status: "new"
 
 ![[Nutztier.ogg]]
 
+![[Nutztier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nutztier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nutztier&language=de)
 
 **Meaning:** farm animal; livestock

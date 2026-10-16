@@ -25,6 +25,8 @@ status: "new"
 
 ![[Pizza.ogg]]
 
+![[Pizza.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pizza/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pizza&language=de)
 
 **Meaning:** pizza

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Menschenrechte.ogg]]
 
+![[Menschenrechte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Menschenrechte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Menschenrechte&language=de)
 
 **Meaning:** human rights

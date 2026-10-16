@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kraftfahrzeug.ogg]]
 
+![[Kraftfahrzeug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kraftfahrzeug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kraftfahrzeug&language=de)
 
 **Meaning:** motor vehicle

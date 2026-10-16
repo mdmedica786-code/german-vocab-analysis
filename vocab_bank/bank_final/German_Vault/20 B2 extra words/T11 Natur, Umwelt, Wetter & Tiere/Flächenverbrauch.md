@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Flächenverbrauch
 
+![[Flächenverbrauch.jpg]]
+
 ![[Flächenverbrauch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fl%C3%A4chenverbrauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fl%C3%A4chenverbrauch&language=de)

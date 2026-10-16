@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Schulabschluss
 
+![[Schulabschluss.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schulabschluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulabschluss&language=de)
 
 **Meaning:** graduation

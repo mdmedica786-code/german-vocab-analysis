@@ -24,6 +24,8 @@ status: "new"
 
 ![[Tomatensuppe.ogg]]
 
+![[Tomatensuppe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tomatensuppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tomatensuppe&language=de)
 
 **Meaning:** tomato soup

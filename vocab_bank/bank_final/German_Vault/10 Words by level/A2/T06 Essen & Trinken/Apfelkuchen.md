@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Apfelkuchen
 
+![[Apfelkuchen.jpg]]
+
 ![[Apfelkuchen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Apfelkuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Apfelkuchen&language=de)

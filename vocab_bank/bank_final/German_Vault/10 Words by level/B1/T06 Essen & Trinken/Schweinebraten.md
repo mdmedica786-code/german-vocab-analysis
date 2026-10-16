@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schweinebraten.ogg]]
 
+![[Schweinebraten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schweinebraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schweinebraten&language=de)
 
 **Meaning:** roast pork

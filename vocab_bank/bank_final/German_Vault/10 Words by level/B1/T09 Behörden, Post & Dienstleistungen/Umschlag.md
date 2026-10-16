@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Umschlag
 
+![[Umschlag.jpg]]
+
 ![[Umschlag.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Umschlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umschlag&language=de)

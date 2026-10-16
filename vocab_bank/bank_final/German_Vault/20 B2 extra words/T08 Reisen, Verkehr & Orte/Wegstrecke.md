@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wegstrecke.ogg]]
 
+![[Wegstrecke.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wegstrecke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wegstrecke&language=de)
 
 **Meaning:** distance; route; stretch

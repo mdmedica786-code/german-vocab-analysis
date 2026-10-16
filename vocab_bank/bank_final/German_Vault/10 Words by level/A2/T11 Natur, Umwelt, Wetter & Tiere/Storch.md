@@ -24,6 +24,8 @@ status: "new"
 
 ![[Storch.ogg]]
 
+![[Storch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Storch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Storch&language=de)
 
 **Meaning:** stork

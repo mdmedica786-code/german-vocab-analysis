@@ -24,6 +24,8 @@ status: "new"
 
 ![[Pantomime.ogg]]
 
+![[Pantomime.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pantomime/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pantomime&language=de)
 
 **Meaning:** pantomime

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Planet.ogg]]
 
+![[Planet.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Planet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Planet&language=de)
 
 **Meaning:** planet

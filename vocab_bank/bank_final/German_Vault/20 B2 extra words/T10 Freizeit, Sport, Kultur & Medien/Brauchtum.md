@@ -23,6 +23,8 @@ status: "new"
 
 ![[Brauchtum.ogg]]
 
+![[Brauchtum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Brauchtum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brauchtum&language=de)
 
 **Meaning:** customs; folk traditions

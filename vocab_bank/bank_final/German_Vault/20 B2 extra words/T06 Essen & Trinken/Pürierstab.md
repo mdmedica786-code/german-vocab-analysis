@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pürierstab.ogg]]
 
+![[Pürierstab.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/P%C3%BCrierstab/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=P%C3%BCrierstab&language=de)
 
 **Meaning:** hand blender

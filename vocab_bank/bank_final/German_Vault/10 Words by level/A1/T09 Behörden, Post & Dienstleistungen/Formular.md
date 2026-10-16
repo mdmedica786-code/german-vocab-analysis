@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Formular
 
+![[Formular.jpg]]
+
 ![[Formular.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Formular/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Formular&language=de)

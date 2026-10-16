@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dachbegrünung.ogg]]
 
+![[Dachbegrünung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dachbegr%C3%BCnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dachbegr%C3%BCnung&language=de)
 
 **Meaning:** green roof

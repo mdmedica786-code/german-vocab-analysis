@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stärke.ogg]]
 
+![[Stärke.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/St%C3%A4rke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=St%C3%A4rke&language=de)
 
 **Meaning:** strength; starch

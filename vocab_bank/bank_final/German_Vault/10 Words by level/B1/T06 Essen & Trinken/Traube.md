@@ -24,6 +24,8 @@ status: "new"
 
 ![[Traube.ogg]]
 
+![[Traube.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Traube/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Traube&language=de)
 
 **Meaning:** grape

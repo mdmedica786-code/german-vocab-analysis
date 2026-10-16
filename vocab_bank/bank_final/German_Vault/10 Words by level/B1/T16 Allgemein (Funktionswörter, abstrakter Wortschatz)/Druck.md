@@ -24,6 +24,8 @@ status: "new"
 
 ![[Druck.ogg]]
 
+![[Druck.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Druck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Druck&language=de)
 
 **Meaning:** pressure; print

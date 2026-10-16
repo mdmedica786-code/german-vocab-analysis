@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Currywurst
 
+![[Currywurst.jpg]]
+
 ![[Currywurst.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Currywurst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Currywurst&language=de)

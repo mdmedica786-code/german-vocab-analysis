@@ -24,6 +24,8 @@ status: "new"
 
 ![[WG.ogg]]
 
+![[WG.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/WG/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=WG&language=de)
 
 **Meaning:** flat share

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bürgerversammlung.ogg]]
 
+![[Bürgerversammlung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCrgerversammlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCrgerversammlung&language=de)
 
 **Meaning:** town meeting

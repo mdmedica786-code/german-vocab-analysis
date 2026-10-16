@@ -24,6 +24,8 @@ status: "new"
 
 ![[Annonce.ogg]]
 
+![[Annonce.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Annonce/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Annonce&language=de)
 
 **Meaning:** advertisement

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Protein
 
+![[Protein.png]]
+
 ![[Protein.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Protein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Protein&language=de)

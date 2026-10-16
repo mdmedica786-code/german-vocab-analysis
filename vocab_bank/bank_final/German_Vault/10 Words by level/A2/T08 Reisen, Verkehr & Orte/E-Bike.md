@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das E-Bike
 
+![[E-Bike.jpg]]
+
 ![[E-Bike.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/E-Bike/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=E-Bike&language=de)

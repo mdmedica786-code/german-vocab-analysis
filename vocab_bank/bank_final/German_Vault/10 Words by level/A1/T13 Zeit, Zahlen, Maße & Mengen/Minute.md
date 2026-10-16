@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Minute
 
+![[Minute.png]]
+
 ![[Minute.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Minute/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Minute&language=de)

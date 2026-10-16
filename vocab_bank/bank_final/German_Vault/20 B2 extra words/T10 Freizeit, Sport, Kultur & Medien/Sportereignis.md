@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sportereignis.ogg]]
 
+![[Sportereignis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sportereignis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportereignis&language=de)
 
 **Meaning:** sporting event

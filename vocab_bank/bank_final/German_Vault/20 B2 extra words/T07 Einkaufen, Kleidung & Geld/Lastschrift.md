@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lastschrift.ogg]]
 
+![[Lastschrift.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lastschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lastschrift&language=de)
 
 **Meaning:** direct debit

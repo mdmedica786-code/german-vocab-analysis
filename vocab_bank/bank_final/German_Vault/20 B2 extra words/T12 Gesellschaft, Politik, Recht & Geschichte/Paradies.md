@@ -23,6 +23,8 @@ status: "new"
 
 ![[Paradies.ogg]]
 
+![[Paradies.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Paradies/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Paradies&language=de)
 
 **Meaning:** paradise

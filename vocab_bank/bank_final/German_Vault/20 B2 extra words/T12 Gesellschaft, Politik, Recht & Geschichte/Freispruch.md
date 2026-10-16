@@ -23,6 +23,8 @@ status: "new"
 
 ![[Freispruch.ogg]]
 
+![[Freispruch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Freispruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freispruch&language=de)
 
 **Meaning:** acquittal

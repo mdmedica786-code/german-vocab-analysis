@@ -23,6 +23,8 @@ status: "new"
 
 ![[Betriebssystem.ogg]]
 
+![[Betriebssystem.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Betriebssystem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betriebssystem&language=de)
 
 **Meaning:** operating system

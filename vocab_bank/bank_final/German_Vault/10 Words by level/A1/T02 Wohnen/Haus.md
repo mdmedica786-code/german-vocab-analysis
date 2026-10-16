@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Haus
 
+![[Haus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Haus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haus&language=de)
 
 **Meaning:** house

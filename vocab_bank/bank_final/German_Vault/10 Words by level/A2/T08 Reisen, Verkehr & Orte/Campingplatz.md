@@ -24,6 +24,8 @@ status: "new"
 
 ![[Campingplatz.ogg]]
 
+![[Campingplatz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Campingplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Campingplatz&language=de)
 
 **Meaning:** campsite

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Salz
 
+![[Salz.jpg]]
+
 ![[Salz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Salz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Salz&language=de)

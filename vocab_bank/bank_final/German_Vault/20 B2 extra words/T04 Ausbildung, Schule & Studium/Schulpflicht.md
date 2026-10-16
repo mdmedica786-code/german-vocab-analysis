@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schulpflicht.ogg]]
 
+![[Schulpflicht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schulpflicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulpflicht&language=de)
 
 **Meaning:** compulsory schooling

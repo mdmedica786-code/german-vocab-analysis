@@ -23,6 +23,8 @@ status: "new"
 
 ![[Heizkörper.ogg]]
 
+![[Heizkörper.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Heizk%C3%B6rper/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heizk%C3%B6rper&language=de)
 
 **Meaning:** radiator

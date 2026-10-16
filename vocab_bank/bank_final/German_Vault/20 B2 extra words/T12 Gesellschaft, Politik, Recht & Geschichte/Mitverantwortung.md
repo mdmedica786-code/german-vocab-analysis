@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mitverantwortung.ogg]]
 
+![[Mitverantwortung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mitverantwortung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitverantwortung&language=de)
 
 **Meaning:** shared responsibility

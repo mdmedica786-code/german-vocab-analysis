@@ -24,6 +24,8 @@ status: "new"
 
 ![[Experiment.ogg]]
 
+![[Experiment.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Experiment/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Experiment&language=de)
 
 **Meaning:** experiment

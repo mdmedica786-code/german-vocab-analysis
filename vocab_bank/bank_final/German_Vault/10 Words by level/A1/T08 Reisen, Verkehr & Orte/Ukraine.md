@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Ukraine
 
+![[Ukraine.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ukraine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ukraine&language=de)
 
 **Meaning:** Ukraine

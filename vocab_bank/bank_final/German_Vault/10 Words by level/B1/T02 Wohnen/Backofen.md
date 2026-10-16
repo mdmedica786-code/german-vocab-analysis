@@ -24,6 +24,8 @@ status: "new"
 
 ![[Backofen.ogg]]
 
+![[Backofen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Backofen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Backofen&language=de)
 
 **Meaning:** oven

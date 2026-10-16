@@ -24,6 +24,8 @@ status: "new"
 
 ![[Mist.ogg]]
 
+![[Mist.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mist&language=de)
 
 **Meaning:** rubbish; (colloq.) damn!

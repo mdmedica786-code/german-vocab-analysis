@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Sängerin
 
+![[Sängerin.jpg]]
+
 ![[Sängerin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/S%C3%A4ngerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%A4ngerin&language=de)

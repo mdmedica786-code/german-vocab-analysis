@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Dom
 
+![[Dom.jpg]]
+
 ![[Dom.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Dom/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dom&language=de)

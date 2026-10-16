@@ -23,6 +23,8 @@ status: "new"
 
 ![[Abstimmung.ogg]]
 
+![[Abstimmung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abstimmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abstimmung&language=de)
 
 **Meaning:** vote; coordination

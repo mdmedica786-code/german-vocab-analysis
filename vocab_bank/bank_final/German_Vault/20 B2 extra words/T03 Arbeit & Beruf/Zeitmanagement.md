@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zeitmanagement.ogg]]
 
+![[Zeitmanagement.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zeitmanagement/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitmanagement&language=de)
 
 **Meaning:** time management

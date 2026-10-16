@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Torte
 
+![[Torte.jpg]]
+
 ![[Torte.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Torte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Torte&language=de)

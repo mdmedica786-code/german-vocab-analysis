@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Sack
 
+![[Sack.jpg]]
+
 ![[Sack.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sack/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sack&language=de)

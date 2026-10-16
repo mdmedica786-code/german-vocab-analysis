@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ökobilanz.ogg]]
 
+![[Ökobilanz.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%96kobilanz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%96kobilanz&language=de)
 
 **Meaning:** ecobalance, life-cycle assessment

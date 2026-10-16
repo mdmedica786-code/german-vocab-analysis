@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wendepunkt.ogg]]
 
+![[Wendepunkt.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wendepunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wendepunkt&language=de)
 
 **Meaning:** turning point

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Schule
 
+![[Schule.jpg]]
+
 ![[Schule.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schule&language=de)

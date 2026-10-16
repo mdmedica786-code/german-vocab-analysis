@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rache.ogg]]
 
+![[Rache.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rache&language=de)
 
 **Meaning:** revenge

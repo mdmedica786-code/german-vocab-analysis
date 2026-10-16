@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Polizei
 
+![[Polizei.jpg]]
+
 ![[Polizei.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Polizei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Polizei&language=de)

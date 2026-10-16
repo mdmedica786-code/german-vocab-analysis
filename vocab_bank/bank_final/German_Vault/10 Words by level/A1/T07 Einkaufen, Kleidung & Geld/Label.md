@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Label
 
+![[Label.jpg]]
+
 ![[Label.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Label/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Label&language=de)

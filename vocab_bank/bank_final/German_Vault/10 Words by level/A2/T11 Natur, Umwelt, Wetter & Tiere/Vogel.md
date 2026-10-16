@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Vogel
 
+![[Vogel.jpg]]
+
 ![[Vogel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Vogel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vogel&language=de)

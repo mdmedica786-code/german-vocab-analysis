@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ausführung.ogg]]
 
+![[Ausführung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ausf%C3%BChrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausf%C3%BChrung&language=de)
 
 **Meaning:** execution; version; explanation

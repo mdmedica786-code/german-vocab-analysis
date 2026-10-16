@@ -23,6 +23,8 @@ status: "new"
 
 ![[Beliebtheit.ogg]]
 
+![[Beliebtheit.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beliebtheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beliebtheit&language=de)
 
 **Meaning:** popularity

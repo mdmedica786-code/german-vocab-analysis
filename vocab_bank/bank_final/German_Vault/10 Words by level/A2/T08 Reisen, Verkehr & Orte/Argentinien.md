@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Argentinien
 
+![[Argentinien.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Argentinien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Argentinien&language=de)
 
 **Meaning:** Argentina

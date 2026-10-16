@@ -23,6 +23,8 @@ status: "new"
 
 ![[Halskette.ogg]]
 
+![[Halskette.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Halskette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Halskette&language=de)
 
 **Meaning:** necklace

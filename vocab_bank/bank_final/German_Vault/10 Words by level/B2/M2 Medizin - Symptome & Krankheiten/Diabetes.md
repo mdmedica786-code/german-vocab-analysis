@@ -23,6 +23,8 @@ status: "new"
 
 ![[Diabetes.ogg]]
 
+![[Diabetes.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Diabetes/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diabetes&language=de)
 
 **Meaning:** diabetes

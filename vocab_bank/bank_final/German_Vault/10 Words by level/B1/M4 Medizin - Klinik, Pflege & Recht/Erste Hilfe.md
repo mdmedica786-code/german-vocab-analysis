@@ -24,6 +24,8 @@ status: "new"
 
 ![[Erste Hilfe.ogg]]
 
+![[Erste Hilfe.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erste%20Hilfe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erste%20Hilfe&language=de)
 
 **Meaning:** first aid

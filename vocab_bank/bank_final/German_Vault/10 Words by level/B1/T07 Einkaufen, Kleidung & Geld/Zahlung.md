@@ -25,6 +25,8 @@ status: "new"
 
 ![[Zahlung.ogg]]
 
+![[Zahlung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zahlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahlung&language=de)
 
 **Meaning:** payment

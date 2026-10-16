@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bohne.ogg]]
 
+![[Bohne.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bohne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bohne&language=de)
 
 **Meaning:** bean

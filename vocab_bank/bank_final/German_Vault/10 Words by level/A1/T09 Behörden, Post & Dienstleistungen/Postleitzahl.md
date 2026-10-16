@@ -25,6 +25,8 @@ status: "new"
 
 ![[Postleitzahl.ogg]]
 
+![[Postleitzahl.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Postleitzahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Postleitzahl&language=de)
 
 **Meaning:** postcode; zip code

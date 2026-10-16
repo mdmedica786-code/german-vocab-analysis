@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gefährdung.ogg]]
 
+![[Gefährdung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gef%C3%A4hrdung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gef%C3%A4hrdung&language=de)
 
 **Meaning:** endangerment; risk; hazard

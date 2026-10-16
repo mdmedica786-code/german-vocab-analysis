@@ -25,6 +25,8 @@ status: "new"
 
 ![[Teppich.ogg]]
 
+![[Teppich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Teppich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teppich&language=de)
 
 **Meaning:** carpet

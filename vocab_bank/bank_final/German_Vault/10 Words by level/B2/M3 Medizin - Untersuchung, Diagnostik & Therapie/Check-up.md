@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Check-up
 
+![[Check-up.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Check-up/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Check-up&language=de)
 
 **Meaning:** check-up

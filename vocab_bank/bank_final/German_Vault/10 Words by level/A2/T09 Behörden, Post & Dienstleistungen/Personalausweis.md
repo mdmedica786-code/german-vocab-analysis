@@ -24,6 +24,8 @@ status: "new"
 
 ![[Personalausweis.ogg]]
 
+![[Personalausweis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Personalausweis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Personalausweis&language=de)
 
 **Meaning:** ID card

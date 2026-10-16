@@ -23,6 +23,8 @@ status: "new"
 
 ![[Nutzpflanze.ogg]]
 
+![[Nutzpflanze.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nutzpflanze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nutzpflanze&language=de)
 
 **Meaning:** useful plant; crop

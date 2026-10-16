@@ -25,6 +25,8 @@ status: "new"
 
 ![[Biene.ogg]]
 
+![[Biene.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Biene/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biene&language=de)
 
 **Meaning:** bee

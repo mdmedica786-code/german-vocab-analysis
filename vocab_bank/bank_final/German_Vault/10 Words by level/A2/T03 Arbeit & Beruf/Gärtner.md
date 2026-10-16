@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Gärtner
 
+![[Gärtner.jpg]]
+
 ![[Gärtner.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/G%C3%A4rtner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=G%C3%A4rtner&language=de)

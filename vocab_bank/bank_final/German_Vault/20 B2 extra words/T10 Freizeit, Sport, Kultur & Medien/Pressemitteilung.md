@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pressemitteilung.ogg]]
 
+![[Pressemitteilung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pressemitteilung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pressemitteilung&language=de)
 
 **Meaning:** press release

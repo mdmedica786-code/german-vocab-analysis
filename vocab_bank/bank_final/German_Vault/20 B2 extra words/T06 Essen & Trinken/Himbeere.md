@@ -23,6 +23,8 @@ status: "new"
 
 ![[Himbeere.ogg]]
 
+![[Himbeere.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Himbeere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Himbeere&language=de)
 
 **Meaning:** raspberry

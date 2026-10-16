@@ -25,6 +25,8 @@ status: "new"
 
 ![[Notaufnahme.ogg]]
 
+![[Notaufnahme.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Notaufnahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notaufnahme&language=de)
 
 **Meaning:** emergency room

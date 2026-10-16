@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zivilgesellschaft.ogg]]
 
+![[Zivilgesellschaft.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zivilgesellschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zivilgesellschaft&language=de)
 
 **Meaning:** civil society

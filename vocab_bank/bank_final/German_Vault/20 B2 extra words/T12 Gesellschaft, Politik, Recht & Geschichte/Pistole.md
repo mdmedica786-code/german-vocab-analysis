@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Pistole
 
+![[Pistole.jpg]]
+
 ![[Pistole.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Pistole/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pistole&language=de)

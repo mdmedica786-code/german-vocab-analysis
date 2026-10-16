@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hebel.ogg]]
 
+![[Hebel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hebel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hebel&language=de)
 
 **Meaning:** lever

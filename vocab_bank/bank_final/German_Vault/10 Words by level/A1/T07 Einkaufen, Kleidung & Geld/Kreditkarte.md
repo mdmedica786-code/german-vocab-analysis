@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kreditkarte.ogg]]
 
+![[Kreditkarte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kreditkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kreditkarte&language=de)
 
 **Meaning:** credit card

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sozialwissenschaft.ogg]]
 
+![[Sozialwissenschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sozialwissenschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialwissenschaft&language=de)
 
 **Meaning:** social science

@@ -25,6 +25,8 @@ status: "new"
 
 ![[vergnügen.ogg]]
 
+![[Vergnügen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vergn%C3%BCgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vergn%C3%BCgen&language=de)
 
 **Meaning:** enjoyment, delight

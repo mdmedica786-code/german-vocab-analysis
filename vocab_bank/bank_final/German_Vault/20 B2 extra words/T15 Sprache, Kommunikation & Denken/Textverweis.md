@@ -23,6 +23,8 @@ status: "new"
 
 ![[Textverweis.ogg]]
 
+![[Textverweis.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Textverweis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Textverweis&language=de)
 
 **Meaning:** cross-reference (in a text)

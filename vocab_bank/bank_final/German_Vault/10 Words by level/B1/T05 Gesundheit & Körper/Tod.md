@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Tod
 
+![[Tod.jpg]]
+
 ![[Tod.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tod/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tod&language=de)

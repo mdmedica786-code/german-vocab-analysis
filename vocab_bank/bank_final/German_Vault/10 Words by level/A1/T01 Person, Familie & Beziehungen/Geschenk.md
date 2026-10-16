@@ -25,6 +25,8 @@ status: "new"
 
 ![[Geschenk.ogg]]
 
+![[Geschenk.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geschenk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geschenk&language=de)
 
 **Meaning:** present

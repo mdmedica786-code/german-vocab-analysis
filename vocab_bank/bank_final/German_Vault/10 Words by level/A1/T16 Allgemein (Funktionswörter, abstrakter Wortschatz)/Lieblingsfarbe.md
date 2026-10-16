@@ -24,6 +24,8 @@ status: "new"
 
 ![[Lieblingsfarbe.ogg]]
 
+![[Lieblingsfarbe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lieblingsfarbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lieblingsfarbe&language=de)
 
 **Meaning:** favourite colour

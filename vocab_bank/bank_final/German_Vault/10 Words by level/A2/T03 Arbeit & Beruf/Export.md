@@ -25,6 +25,8 @@ status: "new"
 
 ![[Export.ogg]]
 
+![[Export.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Export/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Export&language=de)
 
 **Meaning:** export

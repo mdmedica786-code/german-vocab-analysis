@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schlaf.ogg]]
 
+![[Schlaf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schlaf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlaf&language=de)
 
 **Meaning:** sleep

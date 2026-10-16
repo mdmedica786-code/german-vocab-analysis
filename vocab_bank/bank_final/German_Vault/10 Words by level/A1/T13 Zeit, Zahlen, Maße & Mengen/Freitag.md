@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Freitag
 
+![[Freitag.png]]
+
 ![[Freitag.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Freitag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freitag&language=de)

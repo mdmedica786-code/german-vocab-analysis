@@ -24,6 +24,8 @@ status: "new"
 
 ![[Atelier.ogg]]
 
+![[Atelier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Atelier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Atelier&language=de)
 
 **Meaning:** studio

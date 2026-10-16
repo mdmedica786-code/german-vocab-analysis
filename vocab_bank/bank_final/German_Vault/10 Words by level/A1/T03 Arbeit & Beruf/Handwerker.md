@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Handwerker
 
+![[Handwerker.jpg]]
+
 ![[Handwerker.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Handwerker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handwerker&language=de)

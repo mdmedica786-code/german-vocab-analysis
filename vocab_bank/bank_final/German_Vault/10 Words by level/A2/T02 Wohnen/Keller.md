@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Keller
 
+![[Keller.jpg]]
+
 ![[Keller.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Keller/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Keller&language=de)

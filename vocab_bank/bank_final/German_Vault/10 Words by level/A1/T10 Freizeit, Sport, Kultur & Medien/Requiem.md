@@ -24,6 +24,8 @@ status: "new"
 
 ![[Requiem.ogg]]
 
+![[Requiem.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Requiem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Requiem&language=de)
 
 **Meaning:** requiem

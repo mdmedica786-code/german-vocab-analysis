@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dachboden.ogg]]
 
+![[Dachboden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dachboden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dachboden&language=de)
 
 **Meaning:** attic; loft

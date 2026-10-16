@@ -24,6 +24,8 @@ status: "new"
 
 ![[Karton.ogg]]
 
+![[Karton.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Karton/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Karton&language=de)
 
 **Meaning:** cardboard box; carton

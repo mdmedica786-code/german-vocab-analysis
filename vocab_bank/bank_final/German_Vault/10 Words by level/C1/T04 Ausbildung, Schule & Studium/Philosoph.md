@@ -23,6 +23,8 @@ status: "new"
 
 ![[Philosoph.ogg]]
 
+![[Philosoph.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Philosoph/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Philosoph&language=de)
 
 **Meaning:** philosopher

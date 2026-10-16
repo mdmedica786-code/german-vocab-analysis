@@ -25,6 +25,8 @@ status: "new"
 
 ![[Papier.ogg]]
 
+![[Papier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Papier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Papier&language=de)
 
 **Meaning:** paper

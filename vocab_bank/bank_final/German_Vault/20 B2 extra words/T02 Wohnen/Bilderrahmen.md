@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Bilderrahmen
 
+![[Bilderrahmen.jpg]]
+
 ![[Bilderrahmen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bilderrahmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bilderrahmen&language=de)

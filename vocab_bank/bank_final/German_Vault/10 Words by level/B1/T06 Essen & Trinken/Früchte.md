@@ -24,6 +24,8 @@ status: "new"
 
 ![[Früchte.ogg]]
 
+![[Früchte.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fr%C3%BCchte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fr%C3%BCchte&language=de)
 
 **Meaning:** fruits

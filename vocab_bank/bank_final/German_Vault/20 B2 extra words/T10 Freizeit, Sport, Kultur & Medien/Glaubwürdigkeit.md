@@ -23,6 +23,8 @@ status: "new"
 
 ![[Glaubwürdigkeit.ogg]]
 
+![[Glaubwürdigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Glaubw%C3%BCrdigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Glaubw%C3%BCrdigkeit&language=de)
 
 **Meaning:** credibility

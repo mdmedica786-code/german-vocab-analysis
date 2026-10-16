@@ -23,6 +23,8 @@ status: "new"
 
 ![[Windkraft.ogg]]
 
+![[Windkraft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Windkraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Windkraft&language=de)
 
 **Meaning:** wind power

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Münze
 
+![[Münze.jpg]]
+
 ![[Münze.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCnze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCnze&language=de)

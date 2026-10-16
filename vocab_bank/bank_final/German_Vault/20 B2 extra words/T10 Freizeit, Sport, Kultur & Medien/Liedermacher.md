@@ -23,6 +23,8 @@ status: "new"
 
 ![[Liedermacher.ogg]]
 
+![[Liedermacher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Liedermacher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Liedermacher&language=de)
 
 **Meaning:** singer-songwriter (male)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mitgefühl.ogg]]
 
+![[Mitgefühl.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mitgef%C3%BChl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitgef%C3%BChl&language=de)
 
 **Meaning:** compassion; sympathy

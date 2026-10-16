@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zweitsprache.ogg]]
 
+![[Zweitsprache.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zweitsprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zweitsprache&language=de)
 
 **Meaning:** second language

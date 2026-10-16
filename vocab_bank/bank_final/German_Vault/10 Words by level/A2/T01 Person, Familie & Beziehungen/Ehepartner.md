@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ehepartner.ogg]]
 
+![[Ehepartner.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ehepartner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehepartner&language=de)
 
 **Meaning:** spouse; partner

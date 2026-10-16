@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bibliothekar.ogg]]
 
+![[Bibliothekar.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bibliothekar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bibliothekar&language=de)
 
 **Meaning:** librarian

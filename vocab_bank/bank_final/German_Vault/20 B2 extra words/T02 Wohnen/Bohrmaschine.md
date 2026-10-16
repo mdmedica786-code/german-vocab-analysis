@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bohrmaschine.ogg]]
 
+![[Bohrmaschine.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bohrmaschine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bohrmaschine&language=de)
 
 **Meaning:** drill

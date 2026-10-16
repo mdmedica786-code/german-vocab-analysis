@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Ebbe
 
+![[Ebbe.jpg]]
+
 ![[Ebbe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Ebbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ebbe&language=de)

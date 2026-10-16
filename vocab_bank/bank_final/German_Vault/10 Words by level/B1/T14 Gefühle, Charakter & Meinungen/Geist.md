@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Geist
 
+![[Geist.jpg]]
+
 ![[Geist.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Geist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geist&language=de)

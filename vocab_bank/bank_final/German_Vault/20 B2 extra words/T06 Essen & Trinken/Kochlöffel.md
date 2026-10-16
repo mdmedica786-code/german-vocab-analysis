@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kochlöffel.ogg]]
 
+![[Kochlöffel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kochl%C3%B6ffel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kochl%C3%B6ffel&language=de)
 
 **Meaning:** wooden spoon

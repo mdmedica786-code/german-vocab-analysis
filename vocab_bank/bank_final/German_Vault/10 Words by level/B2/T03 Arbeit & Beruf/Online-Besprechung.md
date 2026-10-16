@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Online-Besprechung
 
+![[Online-Besprechung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Online-Besprechung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Online-Besprechung&language=de)
 
 **Meaning:** online meeting

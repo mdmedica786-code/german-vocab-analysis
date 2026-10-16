@@ -23,6 +23,8 @@ status: "new"
 
 ![[Errichtung.ogg]]
 
+![[Errichtung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Errichtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Errichtung&language=de)
 
 **Meaning:** erection; establishment

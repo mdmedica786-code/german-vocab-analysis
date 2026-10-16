@@ -25,6 +25,8 @@ status: "new"
 
 ![[Durst.ogg]]
 
+![[Durst.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Durst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Durst&language=de)
 
 **Meaning:** thirst

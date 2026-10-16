@@ -24,6 +24,8 @@ status: "new"
 
 ![[Oberkörper.ogg]]
 
+![[Oberkörper.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Oberk%C3%B6rper/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oberk%C3%B6rper&language=de)
 
 **Meaning:** upper body

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Glasflasche.ogg]]
 
+![[Glasflasche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Glasflasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Glasflasche&language=de)
 
 **Meaning:** glass bottle

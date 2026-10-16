@@ -23,6 +23,8 @@ status: "new"
 
 ![[Forstwirtschaft.ogg]]
 
+![[Forstwirtschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Forstwirtschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forstwirtschaft&language=de)
 
 **Meaning:** forestry

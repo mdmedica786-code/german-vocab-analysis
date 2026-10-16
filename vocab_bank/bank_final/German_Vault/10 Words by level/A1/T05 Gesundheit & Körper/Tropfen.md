@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Tropfen
 
+![[Tropfen.jpg]]
+
 ![[Tropfen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tropfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tropfen&language=de)

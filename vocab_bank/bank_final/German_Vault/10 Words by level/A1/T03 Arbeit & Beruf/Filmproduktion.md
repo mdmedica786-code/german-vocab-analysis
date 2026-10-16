@@ -24,6 +24,8 @@ status: "new"
 
 ![[Filmproduktion.ogg]]
 
+![[Filmproduktion.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Filmproduktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Filmproduktion&language=de)
 
 **Meaning:** film production

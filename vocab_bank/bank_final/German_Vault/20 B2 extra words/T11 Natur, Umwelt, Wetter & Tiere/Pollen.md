@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pollen.ogg]]
 
+![[Pollen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pollen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pollen&language=de)
 
 **Meaning:** pollen

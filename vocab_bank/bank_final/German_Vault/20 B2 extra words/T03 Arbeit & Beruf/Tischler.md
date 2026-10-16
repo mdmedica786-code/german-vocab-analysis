@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Tischler
 
+![[Tischler.jpg]]
+
 ![[Tischler.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tischler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tischler&language=de)

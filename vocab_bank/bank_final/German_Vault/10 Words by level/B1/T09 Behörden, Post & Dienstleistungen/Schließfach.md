@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schließfach.ogg]]
 
+![[Schließfach.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schlie%C3%9Ffach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlie%C3%9Ffach&language=de)
 
 **Meaning:** locker; safe-deposit box

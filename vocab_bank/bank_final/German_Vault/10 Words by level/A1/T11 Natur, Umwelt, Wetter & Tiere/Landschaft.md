@@ -25,6 +25,8 @@ status: "new"
 
 ![[Landschaft.ogg]]
 
+![[Landschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Landschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Landschaft&language=de)
 
 **Meaning:** landscape

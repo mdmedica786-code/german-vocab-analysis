@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ordnungswidrigkeit.ogg]]
 
+![[Ordnungswidrigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ordnungswidrigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ordnungswidrigkeit&language=de)
 
 **Meaning:** administrative offence

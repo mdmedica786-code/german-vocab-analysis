@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ingenieurwesen.ogg]]
 
+![[Ingenieurwesen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ingenieurwesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ingenieurwesen&language=de)
 
 **Meaning:** engineering (as a field)

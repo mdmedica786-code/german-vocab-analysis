@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ausbildungsplatz.ogg]]
 
+![[Ausbildungsplatz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ausbildungsplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausbildungsplatz&language=de)
 
 **Meaning:** training place; apprenticeship position

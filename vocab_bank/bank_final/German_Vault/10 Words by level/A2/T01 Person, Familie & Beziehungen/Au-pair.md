@@ -24,6 +24,8 @@ status: "new"
 
 ![[Au-pair.ogg]]
 
+![[Au-pair.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Au-pair/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Au-pair&language=de)
 
 **Meaning:** au pair

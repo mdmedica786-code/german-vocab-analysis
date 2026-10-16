@@ -25,6 +25,8 @@ status: "new"
 
 ![[Europäische Parlament.ogg]]
 
+![[Europäische Parlament.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Europ%C3%A4ische%20Parlament/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Europ%C3%A4ische%20Parlament&language=de)
 
 **Meaning:** European Parliament

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Mittag.ogg]]
 
+![[Mittag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mittag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittag&language=de)
 
 **Meaning:** noon

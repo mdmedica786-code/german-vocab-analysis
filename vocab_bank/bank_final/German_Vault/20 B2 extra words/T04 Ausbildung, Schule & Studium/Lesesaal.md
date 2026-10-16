@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lesesaal.ogg]]
 
+![[Lesesaal.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lesesaal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lesesaal&language=de)
 
 **Meaning:** reading room

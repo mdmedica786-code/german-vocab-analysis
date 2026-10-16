@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kindergarten.ogg]]
 
+![[Kindergarten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kindergarten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kindergarten&language=de)
 
 **Meaning:** kindergarten

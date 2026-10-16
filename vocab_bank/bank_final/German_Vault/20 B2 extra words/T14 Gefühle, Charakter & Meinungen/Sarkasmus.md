@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sarkasmus.ogg]]
 
+![[Sarkasmus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sarkasmus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sarkasmus&language=de)
 
 **Meaning:** sarcasm

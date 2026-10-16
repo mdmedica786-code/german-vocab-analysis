@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Journalist
 
+![[Journalist.jpg]]
+
 ![[Journalist.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Journalist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Journalist&language=de)

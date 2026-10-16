@@ -25,6 +25,8 @@ status: "new"
 
 ![[Halbpension.ogg]]
 
+![[Halbpension.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Halbpension/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Halbpension&language=de)
 
 **Meaning:** half board

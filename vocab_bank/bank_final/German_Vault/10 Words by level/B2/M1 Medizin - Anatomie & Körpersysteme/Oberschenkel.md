@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Oberschenkel
 
+![[Oberschenkel.png]]
+
 ![[Oberschenkel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Oberschenkel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oberschenkel&language=de)

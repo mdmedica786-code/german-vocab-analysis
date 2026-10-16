@@ -23,6 +23,8 @@ status: "new"
 
 ![[Antrieb.ogg]]
 
+![[Antrieb.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Antrieb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Antrieb&language=de)
 
 **Meaning:** drive; propulsion; motivation

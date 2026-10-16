@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hindernis.ogg]]
 
+![[Hindernis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hindernis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hindernis&language=de)
 
 **Meaning:** obstacle

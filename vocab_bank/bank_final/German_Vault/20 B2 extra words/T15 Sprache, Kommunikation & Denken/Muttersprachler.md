@@ -23,6 +23,8 @@ status: "new"
 
 ![[Muttersprachler.ogg]]
 
+![[Muttersprachler.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Muttersprachler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Muttersprachler&language=de)
 
 **Meaning:** native speaker

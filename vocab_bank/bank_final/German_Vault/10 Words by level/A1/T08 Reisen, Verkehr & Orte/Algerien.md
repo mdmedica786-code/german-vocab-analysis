@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Algerien
 
+![[Algerien.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Algerien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Algerien&language=de)
 
 **Meaning:** Algeria

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Fertiggericht
 
+![[Fertiggericht.jpg]]
+
 ![[Fertiggericht.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fertiggericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fertiggericht&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lokalzeitung.ogg]]
 
+![[Lokalzeitung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lokalzeitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lokalzeitung&language=de)
 
 **Meaning:** local newspaper

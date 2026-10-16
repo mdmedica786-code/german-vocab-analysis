@@ -23,6 +23,8 @@ status: "new"
 
 ![[Horizont.ogg]]
 
+![[Horizont.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Horizont/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Horizont&language=de)
 
 **Meaning:** horizon

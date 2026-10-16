@@ -23,6 +23,8 @@ status: "new"
 
 ![[Begrenzung.ogg]]
 
+![[Begrenzung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Begrenzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Begrenzung&language=de)
 
 **Meaning:** limitation; restriction

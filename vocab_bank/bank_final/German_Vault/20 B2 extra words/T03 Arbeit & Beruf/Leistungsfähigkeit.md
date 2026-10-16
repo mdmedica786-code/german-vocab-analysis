@@ -23,6 +23,8 @@ status: "new"
 
 ![[Leistungsfähigkeit.ogg]]
 
+![[Leistungsfähigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Leistungsf%C3%A4higkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leistungsf%C3%A4higkeit&language=de)
 
 **Meaning:** performance; capacity

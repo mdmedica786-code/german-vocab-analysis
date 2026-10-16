@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kraftstoff.ogg]]
 
+![[Kraftstoff.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kraftstoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kraftstoff&language=de)
 
 **Meaning:** fuel

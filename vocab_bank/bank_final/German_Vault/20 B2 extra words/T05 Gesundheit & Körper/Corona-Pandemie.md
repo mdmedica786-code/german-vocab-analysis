@@ -23,6 +23,8 @@ status: "new"
 
 ![[Corona-Pandemie.ogg]]
 
+![[Corona-Pandemie.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Corona-Pandemie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Corona-Pandemie&language=de)
 
 **Meaning:** coronavirus pandemic

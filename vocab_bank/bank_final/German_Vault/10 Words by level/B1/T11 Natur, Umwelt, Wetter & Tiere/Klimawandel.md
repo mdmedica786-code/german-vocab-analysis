@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Klimawandel
 
+![[Klimawandel.png]]
+
 ![[Klimawandel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Klimawandel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klimawandel&language=de)

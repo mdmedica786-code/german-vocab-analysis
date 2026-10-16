@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Universum
 
+![[Universum.jpg]]
+
 ![[Universum.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Universum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Universum&language=de)

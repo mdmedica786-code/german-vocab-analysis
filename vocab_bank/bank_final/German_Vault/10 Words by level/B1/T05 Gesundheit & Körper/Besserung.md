@@ -24,6 +24,8 @@ status: "new"
 
 ![[Besserung.ogg]]
 
+![[Besserung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Besserung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besserung&language=de)
 
 **Meaning:** improvement; recovery

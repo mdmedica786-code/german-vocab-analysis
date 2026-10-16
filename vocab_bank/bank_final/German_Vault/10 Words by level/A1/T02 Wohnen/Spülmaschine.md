@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Spülmaschine
 
+![[Spülmaschine.jpg]]
+
 ![[Spülmaschine.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sp%C3%BClmaschine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sp%C3%BClmaschine&language=de)

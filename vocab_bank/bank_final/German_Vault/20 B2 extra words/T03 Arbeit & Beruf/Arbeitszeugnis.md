@@ -23,6 +23,8 @@ status: "new"
 
 ![[Arbeitszeugnis.ogg]]
 
+![[Arbeitszeugnis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitszeugnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitszeugnis&language=de)
 
 **Meaning:** employment reference

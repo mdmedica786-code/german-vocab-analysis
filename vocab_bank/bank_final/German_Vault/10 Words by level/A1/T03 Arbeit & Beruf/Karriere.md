@@ -25,6 +25,8 @@ status: "new"
 
 ![[Karriere.ogg]]
 
+![[Karriere.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Karriere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Karriere&language=de)
 
 **Meaning:** career

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Volleyball
 
+![[Volleyball.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Volleyball/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Volleyball&language=de)
 
 **Meaning:** volleyball

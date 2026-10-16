@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Schaf
 
+![[Schaf.jpg]]
+
 ![[Schaf.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schaf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schaf&language=de)

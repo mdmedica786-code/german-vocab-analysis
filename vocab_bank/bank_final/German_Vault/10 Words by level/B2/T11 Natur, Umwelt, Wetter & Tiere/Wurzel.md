@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Wurzel
 
+![[Wurzel.jpg]]
+
 ![[Wurzel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wurzel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wurzel&language=de)

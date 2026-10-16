@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Brille
 
+![[Brille.jpg]]
+
 ![[Brille.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Brille/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brille&language=de)

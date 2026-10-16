@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Ständerat
 
+![[Ständerat.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/St%C3%A4nderat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=St%C3%A4nderat&language=de)
 
 **Meaning:** Council of States (Swiss)

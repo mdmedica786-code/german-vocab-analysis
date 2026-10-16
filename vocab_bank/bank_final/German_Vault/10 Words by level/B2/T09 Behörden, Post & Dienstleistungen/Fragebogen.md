@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fragebogen.ogg]]
 
+![[Fragebogen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fragebogen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fragebogen&language=de)
 
 **Meaning:** questionnaire

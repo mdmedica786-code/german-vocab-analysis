@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fichte.ogg]]
 
+![[Fichte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fichte&language=de)
 
 **Meaning:** spruce

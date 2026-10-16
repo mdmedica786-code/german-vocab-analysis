@@ -24,6 +24,8 @@ status: "new"
 
 ![[Einbrecher.ogg]]
 
+![[Einbrecher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einbrecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einbrecher&language=de)
 
 **Meaning:** burglar

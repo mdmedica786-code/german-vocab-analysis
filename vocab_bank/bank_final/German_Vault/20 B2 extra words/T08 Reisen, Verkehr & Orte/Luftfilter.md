@@ -23,6 +23,8 @@ status: "new"
 
 ![[Luftfilter.ogg]]
 
+![[Luftfilter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Luftfilter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luftfilter&language=de)
 
 **Meaning:** air filter

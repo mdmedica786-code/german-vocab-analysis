@@ -25,6 +25,8 @@ status: "new"
 
 ![[Konkurrenz.ogg]]
 
+![[Konkurrenz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konkurrenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konkurrenz&language=de)
 
 **Meaning:** competition

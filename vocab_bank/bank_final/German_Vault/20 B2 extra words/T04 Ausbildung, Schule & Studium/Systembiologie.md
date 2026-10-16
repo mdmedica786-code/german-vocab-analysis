@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Systembiologie
 
+![[Systembiologie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Systembiologie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Systembiologie&language=de)
 
 **Meaning:** systems biology

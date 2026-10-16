@@ -23,6 +23,8 @@ status: "new"
 
 ![[Buchhandel.ogg]]
 
+![[Buchhandel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Buchhandel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buchhandel&language=de)
 
 **Meaning:** book trade; bookselling

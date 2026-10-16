@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Silber
 
+![[Silber.jpg]]
+
 ![[Silber.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Silber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Silber&language=de)

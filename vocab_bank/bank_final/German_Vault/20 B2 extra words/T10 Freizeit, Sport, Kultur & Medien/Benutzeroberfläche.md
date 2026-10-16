@@ -23,6 +23,8 @@ status: "new"
 
 ![[Benutzeroberfläche.ogg]]
 
+![[Benutzeroberfläche.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Benutzeroberfl%C3%A4che/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Benutzeroberfl%C3%A4che&language=de)
 
 **Meaning:** user interface

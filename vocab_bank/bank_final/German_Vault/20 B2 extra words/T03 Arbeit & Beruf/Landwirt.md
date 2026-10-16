@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Landwirt
 
+![[Landwirt.jpg]]
+
 ![[Landwirt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Landwirt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Landwirt&language=de)

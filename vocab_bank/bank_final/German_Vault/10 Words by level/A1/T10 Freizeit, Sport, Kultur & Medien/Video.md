@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Video
 
+![[Video.jpg]]
+
 ![[Video.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Video/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Video&language=de)

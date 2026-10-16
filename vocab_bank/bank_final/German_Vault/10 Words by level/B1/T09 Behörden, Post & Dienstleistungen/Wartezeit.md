@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wartezeit.ogg]]
 
+![[Wartezeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wartezeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wartezeit&language=de)
 
 **Meaning:** waiting time

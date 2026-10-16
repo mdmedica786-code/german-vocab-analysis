@@ -24,6 +24,8 @@ status: "new"
 
 ![[Telefonkonferenz.ogg]]
 
+![[Telefonkonferenz.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Telefonkonferenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Telefonkonferenz&language=de)
 
 **Meaning:** conference call

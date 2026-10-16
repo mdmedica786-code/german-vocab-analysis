@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bundesministerium.ogg]]
 
+![[Bundesministerium.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bundesministerium/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundesministerium&language=de)
 
 **Meaning:** federal ministry

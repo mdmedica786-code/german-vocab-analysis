@@ -26,6 +26,8 @@ status: "new"
 
 ![[Pöstlerin.ogg]]
 
+![[Pöstlerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/P%C3%B6stlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=P%C3%B6stlerin&language=de)
 
 **Meaning:** postwoman (Swiss)

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Kultur
 
+![[Kultur.jpg]]
+
 ![[Kultur.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kultur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kultur&language=de)

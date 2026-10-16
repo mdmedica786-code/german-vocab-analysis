@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Grab
 
+![[Grab.jpg]]
+
 ![[Grab.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Grab/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grab&language=de)

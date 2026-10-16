@@ -23,6 +23,8 @@ status: "new"
 
 ![[Steuerlast.ogg]]
 
+![[Steuerlast.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Steuerlast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Steuerlast&language=de)
 
 **Meaning:** tax burden

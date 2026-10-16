@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kundschaft.ogg]]
 
+![[Kundschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kundschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kundschaft&language=de)
 
 **Meaning:** customers; clientele

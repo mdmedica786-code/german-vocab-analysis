@@ -24,6 +24,8 @@ status: "new"
 
 ![[Senioren.ogg]]
 
+![[Senioren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Senioren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Senioren&language=de)
 
 **Meaning:** senior citizens; elderly people

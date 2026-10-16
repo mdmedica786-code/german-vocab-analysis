@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Decke
 
+![[Decke.jpg]]
+
 ![[Decke.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Decke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Decke&language=de)

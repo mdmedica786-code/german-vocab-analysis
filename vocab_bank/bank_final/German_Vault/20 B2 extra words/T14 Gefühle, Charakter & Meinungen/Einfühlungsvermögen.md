@@ -23,6 +23,8 @@ status: "new"
 
 ![[Einfühlungsvermögen.ogg]]
 
+![[Einfühlungsvermögen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einf%C3%BChlungsverm%C3%B6gen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einf%C3%BChlungsverm%C3%B6gen&language=de)
 
 **Meaning:** empathy; sensitivity

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Pfanne.ogg]]
 
+![[Pfanne.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pfanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfanne&language=de)
 
 **Meaning:** pan

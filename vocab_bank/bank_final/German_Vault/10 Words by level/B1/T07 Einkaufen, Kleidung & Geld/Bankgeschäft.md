@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bankgeschäft.ogg]]
 
+![[Bankgeschäft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bankgesch%C3%A4ft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bankgesch%C3%A4ft&language=de)
 
 **Meaning:** banking

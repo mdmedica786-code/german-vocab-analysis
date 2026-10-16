@@ -23,6 +23,8 @@ status: "new"
 
 ![[Eingangstür.ogg]]
 
+![[Eingangstür.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Eingangst%C3%BCr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eingangst%C3%BCr&language=de)
 
 **Meaning:** front door; entrance door

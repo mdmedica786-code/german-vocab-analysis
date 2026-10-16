@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Schraube
 
+![[Schraube.jpg]]
+
 ![[Schraube.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schraube/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schraube&language=de)

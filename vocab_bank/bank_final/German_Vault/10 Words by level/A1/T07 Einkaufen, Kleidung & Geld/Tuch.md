@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tuch.ogg]]
 
+![[Tuch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tuch&language=de)
 
 **Meaning:** scarf; shawl; cloth

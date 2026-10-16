@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Gezeiten
 
+![[Gezeiten.jpg]]
+
 ![[Gezeiten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gezeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gezeiten&language=de)

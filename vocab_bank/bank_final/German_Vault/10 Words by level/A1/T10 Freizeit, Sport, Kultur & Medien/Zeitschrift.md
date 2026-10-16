@@ -25,6 +25,8 @@ status: "new"
 
 ![[Zeitschrift.ogg]]
 
+![[Zeitschrift.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zeitschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitschrift&language=de)
 
 **Meaning:** magazine

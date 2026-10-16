@@ -25,6 +25,8 @@ status: "new"
 
 ![[Minderheit.ogg]]
 
+![[Minderheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Minderheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Minderheit&language=de)
 
 **Meaning:** minority

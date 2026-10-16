@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Eventmanagerin
 
+![[Eventmanagerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Eventmanagerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eventmanagerin&language=de)
 
 **Meaning:** event manager (female)

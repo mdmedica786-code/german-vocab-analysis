@@ -25,6 +25,8 @@ status: "new"
 
 ![[Dienst.ogg]]
 
+![[Dienst.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dienst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dienst&language=de)
 
 **Meaning:** duty; service; shift

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Vokabel.ogg]]
 
+![[Vokabel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vokabel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vokabel&language=de)
 
 **Meaning:** vocabulary word

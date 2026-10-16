@@ -23,6 +23,8 @@ status: "new"
 
 ![[Arztbrief.ogg]]
 
+![[Arztbrief.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arztbrief/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arztbrief&language=de)
 
 **Meaning:** doctor's letter; medical report

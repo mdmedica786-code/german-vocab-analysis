@@ -23,6 +23,8 @@ status: "new"
 
 ![[Traurigkeit.ogg]]
 
+![[Traurigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Traurigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Traurigkeit&language=de)
 
 **Meaning:** sadness

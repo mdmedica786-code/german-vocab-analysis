@@ -23,6 +23,8 @@ status: "new"
 
 ![[Staffel.ogg]]
 
+![[Staffel.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Staffel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Staffel&language=de)
 
 **Meaning:** season (of a series); relay

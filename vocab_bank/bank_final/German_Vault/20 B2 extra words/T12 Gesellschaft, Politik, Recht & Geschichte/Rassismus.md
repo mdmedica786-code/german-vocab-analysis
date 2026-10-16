@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rassismus.ogg]]
 
+![[Rassismus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rassismus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rassismus&language=de)
 
 **Meaning:** racism

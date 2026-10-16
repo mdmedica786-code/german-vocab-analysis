@@ -25,6 +25,8 @@ status: "new"
 
 ![[Bikini.ogg]]
 
+![[Bikini.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bikini/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bikini&language=de)
 
 **Meaning:** bikini

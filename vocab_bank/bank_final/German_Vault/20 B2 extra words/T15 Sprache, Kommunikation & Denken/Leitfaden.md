@@ -23,6 +23,8 @@ status: "new"
 
 ![[Leitfaden.ogg]]
 
+![[Leitfaden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Leitfaden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leitfaden&language=de)
 
 **Meaning:** guide; manual; guideline

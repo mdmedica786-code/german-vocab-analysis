@@ -25,6 +25,8 @@ status: "new"
 
 ![[Ehe.ogg]]
 
+![[Ehe.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ehe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehe&language=de)
 
 **Meaning:** marriage

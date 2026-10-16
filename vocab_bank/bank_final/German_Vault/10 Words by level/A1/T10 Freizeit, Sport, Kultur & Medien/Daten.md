@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Daten
 
+![[Daten.png]]
+
 ![[Daten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Daten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Daten&language=de)

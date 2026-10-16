@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Schüssel
 
+![[Schüssel.jpg]]
+
 ![[Schüssel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%BCssel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%BCssel&language=de)

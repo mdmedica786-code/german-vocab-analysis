@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fachfrau.ogg]]
 
+![[Fachfrau.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fachfrau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachfrau&language=de)
 
 **Meaning:** expert (f)

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Contra-Argument
 
+![[Contra-Argument.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Contra-Argument/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Contra-Argument&language=de)
 
 **Meaning:** counter-argument; argument against

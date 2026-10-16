@@ -23,6 +23,8 @@ status: "new"
 
 ![[Untersetzer.ogg]]
 
+![[Untersetzer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Untersetzer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Untersetzer&language=de)
 
 **Meaning:** coaster; mat (under a pot)

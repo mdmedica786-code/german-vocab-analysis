@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Treffen
 
+![[Treffen.jpg]]
+
 ![[Treffen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Treffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Treffen&language=de)

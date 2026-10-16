@@ -23,6 +23,8 @@ status: "new"
 
 ![[Influencerin.ogg]]
 
+![[Influencerin.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Influencerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Influencerin&language=de)
 
 **Meaning:** influencer (female)

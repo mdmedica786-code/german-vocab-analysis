@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Stimme
 
+![[Stimme.jpg]]
+
 ![[Stimme.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Stimme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stimme&language=de)

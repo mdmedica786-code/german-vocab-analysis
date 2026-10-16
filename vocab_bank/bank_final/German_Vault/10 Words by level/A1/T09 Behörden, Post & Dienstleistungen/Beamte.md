@@ -25,6 +25,8 @@ status: "new"
 
 ![[Beamte.ogg]]
 
+![[Beamte.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beamte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beamte&language=de)
 
 **Meaning:** civil servant; official

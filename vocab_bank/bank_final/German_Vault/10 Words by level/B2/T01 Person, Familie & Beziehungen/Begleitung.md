@@ -23,6 +23,8 @@ status: "new"
 
 ![[Begleitung.ogg]]
 
+![[Begleitung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Begleitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Begleitung&language=de)
 
 **Meaning:** company; accompaniment; escort

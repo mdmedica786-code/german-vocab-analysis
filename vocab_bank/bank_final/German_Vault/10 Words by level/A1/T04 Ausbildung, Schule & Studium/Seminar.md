@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Seminar
 
+![[Seminar.jpg]]
+
 ![[Seminar.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Seminar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Seminar&language=de)

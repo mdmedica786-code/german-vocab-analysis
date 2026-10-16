@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Polster
 
+![[Polster.jpg]]
+
 ![[Polster.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Polster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Polster&language=de)

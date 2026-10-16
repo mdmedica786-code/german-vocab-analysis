@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Luxemburg
 
+![[Luxemburg.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Luxemburg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luxemburg&language=de)
 
 **Meaning:** Luxembourg

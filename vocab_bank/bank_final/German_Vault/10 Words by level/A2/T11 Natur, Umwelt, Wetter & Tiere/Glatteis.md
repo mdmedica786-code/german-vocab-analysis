@@ -24,6 +24,8 @@ status: "new"
 
 ![[Glatteis.ogg]]
 
+![[Glatteis.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Glatteis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Glatteis&language=de)
 
 **Meaning:** black ice

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kraftwerk.ogg]]
 
+![[Kraftwerk.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kraftwerk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kraftwerk&language=de)
 
 **Meaning:** power plant

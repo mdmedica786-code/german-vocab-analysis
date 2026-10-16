@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bremse.ogg]]
 
+![[Bremse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bremse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bremse&language=de)
 
 **Meaning:** brake

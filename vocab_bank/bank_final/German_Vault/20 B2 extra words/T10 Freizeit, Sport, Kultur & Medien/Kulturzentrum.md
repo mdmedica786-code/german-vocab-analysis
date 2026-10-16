@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kulturzentrum.ogg]]
 
+![[Kulturzentrum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kulturzentrum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kulturzentrum&language=de)
 
 **Meaning:** cultural centre

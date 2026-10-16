@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pilot.ogg]]
 
+![[Pilot.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pilot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pilot&language=de)
 
 **Meaning:** pilot

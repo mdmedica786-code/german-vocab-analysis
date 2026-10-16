@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bauingenieurin.ogg]]
 
+![[Bauingenieurin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bauingenieurin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bauingenieurin&language=de)
 
 **Meaning:** civil engineer (female)

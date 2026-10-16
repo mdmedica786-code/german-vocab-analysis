@@ -25,6 +25,8 @@ status: "new"
 
 ![[Bargeld.ogg]]
 
+![[Bargeld.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bargeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bargeld&language=de)
 
 **Meaning:** cash

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Elite.ogg]]
 
+![[Elite.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Elite/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elite&language=de)
 
 **Meaning:** elite

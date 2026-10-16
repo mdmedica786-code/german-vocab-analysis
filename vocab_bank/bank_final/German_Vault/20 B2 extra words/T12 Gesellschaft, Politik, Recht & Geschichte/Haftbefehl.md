@@ -23,6 +23,8 @@ status: "new"
 
 ![[Haftbefehl.ogg]]
 
+![[Haftbefehl.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Haftbefehl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haftbefehl&language=de)
 
 **Meaning:** arrest warrant

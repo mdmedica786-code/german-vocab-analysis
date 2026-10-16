@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Alphabet
 
+![[Alphabet.jpg]]
+
 ![[Alphabet.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Alphabet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alphabet&language=de)

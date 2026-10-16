@@ -23,6 +23,8 @@ status: "new"
 
 ![[Foodtruck.ogg]]
 
+![[Foodtruck.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Foodtruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Foodtruck&language=de)
 
 **Meaning:** food truck

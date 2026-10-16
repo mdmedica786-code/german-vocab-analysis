@@ -25,6 +25,8 @@ status: "new"
 
 ![[Hafen.ogg]]
 
+![[Hafen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hafen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hafen&language=de)
 
 **Meaning:** harbour

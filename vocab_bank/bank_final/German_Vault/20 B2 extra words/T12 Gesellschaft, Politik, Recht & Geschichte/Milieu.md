@@ -23,6 +23,8 @@ status: "new"
 
 ![[Milieu.ogg]]
 
+![[Milieu.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Milieu/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Milieu&language=de)
 
 **Meaning:** social environment; milieu

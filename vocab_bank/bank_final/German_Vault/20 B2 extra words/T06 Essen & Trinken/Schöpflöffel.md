@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schöpflöffel.ogg]]
 
+![[Schöpflöffel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%B6pfl%C3%B6ffel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%B6pfl%C3%B6ffel&language=de)
 
 **Meaning:** ladle

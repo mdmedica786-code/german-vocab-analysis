@@ -25,6 +25,8 @@ status: "new"
 
 ![[Soße.ogg]]
 
+![[Soße.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/So%C3%9Fe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=So%C3%9Fe&language=de)
 
 **Meaning:** sauce

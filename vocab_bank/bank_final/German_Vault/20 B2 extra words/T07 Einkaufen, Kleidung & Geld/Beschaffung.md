@@ -23,6 +23,8 @@ status: "new"
 
 ![[Beschaffung.ogg]]
 
+![[Beschaffung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beschaffung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beschaffung&language=de)
 
 **Meaning:** procurement; obtaining

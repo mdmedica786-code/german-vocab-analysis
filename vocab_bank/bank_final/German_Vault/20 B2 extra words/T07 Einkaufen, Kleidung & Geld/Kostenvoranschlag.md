@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kostenvoranschlag.ogg]]
 
+![[Kostenvoranschlag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kostenvoranschlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kostenvoranschlag&language=de)
 
 **Meaning:** cost estimate

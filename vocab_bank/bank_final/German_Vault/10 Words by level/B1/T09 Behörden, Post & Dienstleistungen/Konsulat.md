@@ -25,6 +25,8 @@ status: "new"
 
 ![[Konsulat.ogg]]
 
+![[Konsulat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konsulat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konsulat&language=de)
 
 **Meaning:** consulate

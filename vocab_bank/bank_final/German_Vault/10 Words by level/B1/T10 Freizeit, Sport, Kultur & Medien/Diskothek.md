@@ -24,6 +24,8 @@ status: "new"
 
 ![[Diskothek.ogg]]
 
+![[Diskothek.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Diskothek/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diskothek&language=de)
 
 **Meaning:** discotheque

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Beste.ogg]]
 
+![[Beste.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beste&language=de)
 
 **Meaning:** best

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Karussell.ogg]]
 
+![[Karussell.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Karussell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Karussell&language=de)
 
 **Meaning:** merry-go-round

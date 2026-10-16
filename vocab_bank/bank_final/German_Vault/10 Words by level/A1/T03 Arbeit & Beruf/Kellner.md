@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kellner.ogg]]
 
+![[Kellner.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kellner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kellner&language=de)
 
 **Meaning:** waiter

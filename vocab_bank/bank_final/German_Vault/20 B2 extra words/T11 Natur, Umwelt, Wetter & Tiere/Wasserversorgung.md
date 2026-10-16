@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wasserversorgung.ogg]]
 
+![[Wasserversorgung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wasserversorgung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wasserversorgung&language=de)
 
 **Meaning:** water supply

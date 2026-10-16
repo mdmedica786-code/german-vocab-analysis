@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Strumpf
 
+![[Strumpf.jpg]]
+
 ![[Strumpf.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Strumpf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strumpf&language=de)

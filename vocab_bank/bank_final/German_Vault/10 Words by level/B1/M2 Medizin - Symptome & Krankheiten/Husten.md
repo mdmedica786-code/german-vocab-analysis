@@ -24,6 +24,8 @@ status: "new"
 
 ![[Husten.ogg]]
 
+![[Husten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Husten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Husten&language=de)
 
 **Meaning:** cough

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Schwein
 
+![[Schwein.jpg]]
+
 ![[Schwein.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schwein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwein&language=de)

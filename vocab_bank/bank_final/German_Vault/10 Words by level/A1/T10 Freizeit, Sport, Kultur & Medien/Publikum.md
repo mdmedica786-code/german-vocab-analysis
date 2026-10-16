@@ -25,6 +25,8 @@ status: "new"
 
 ![[Publikum.ogg]]
 
+![[Publikum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Publikum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Publikum&language=de)
 
 **Meaning:** audience

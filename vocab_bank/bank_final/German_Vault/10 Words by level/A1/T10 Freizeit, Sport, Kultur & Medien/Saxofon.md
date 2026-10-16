@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Saxofon
 
+![[Saxofon.jpg]]
+
 ![[Saxofon.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Saxofon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Saxofon&language=de)

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Unwetter
 
+![[Unwetter.jpg]]
+
 ![[Unwetter.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Unwetter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unwetter&language=de)

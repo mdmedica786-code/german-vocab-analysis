@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Flöte
 
+![[Flöte.jpg]]
+
 ![[Flöte.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fl%C3%B6te/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fl%C3%B6te&language=de)

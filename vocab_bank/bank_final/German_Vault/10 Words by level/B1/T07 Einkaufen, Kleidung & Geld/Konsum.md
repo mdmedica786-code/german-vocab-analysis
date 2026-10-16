@@ -24,6 +24,8 @@ status: "new"
 
 ![[Konsum.ogg]]
 
+![[Konsum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konsum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konsum&language=de)
 
 **Meaning:** consumption

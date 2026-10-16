@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Treppenhaus
 
+![[Treppenhaus.jpg]]
+
 ![[Treppenhaus.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Treppenhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Treppenhaus&language=de)

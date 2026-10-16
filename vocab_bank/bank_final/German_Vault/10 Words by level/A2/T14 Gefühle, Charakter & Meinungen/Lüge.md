@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Lüge
 
+![[Lüge.jpg]]
+
 ![[Lüge.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/L%C3%BCge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%BCge&language=de)

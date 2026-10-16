@@ -24,6 +24,8 @@ status: "new"
 
 ![[Rap.ogg]]
 
+![[Rap.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rap/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rap&language=de)
 
 **Meaning:** rap

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Lautsprecher
 
+![[Lautsprecher.jpg]]
+
 ![[Lautsprecher.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Lautsprecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lautsprecher&language=de)

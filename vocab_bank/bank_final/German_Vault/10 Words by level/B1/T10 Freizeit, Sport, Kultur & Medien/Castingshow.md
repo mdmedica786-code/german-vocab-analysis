@@ -24,6 +24,8 @@ status: "new"
 
 ![[Castingshow.ogg]]
 
+![[Castingshow.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Castingshow/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Castingshow&language=de)
 
 **Meaning:** casting show

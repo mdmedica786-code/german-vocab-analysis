@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kampf.ogg]]
 
+![[Kampf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kampf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kampf&language=de)
 
 **Meaning:** fight; struggle

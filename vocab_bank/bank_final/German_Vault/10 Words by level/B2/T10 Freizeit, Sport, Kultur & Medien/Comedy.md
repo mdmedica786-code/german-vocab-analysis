@@ -23,6 +23,8 @@ status: "new"
 
 ![[Comedy.ogg]]
 
+![[Comedy.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Comedy/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Comedy&language=de)
 
 **Meaning:** comedy (genre)

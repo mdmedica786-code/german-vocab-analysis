@@ -24,6 +24,8 @@ status: "new"
 
 ![[Backstube.ogg]]
 
+![[Backstube.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Backstube/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Backstube&language=de)
 
 **Meaning:** bakery (workshop)

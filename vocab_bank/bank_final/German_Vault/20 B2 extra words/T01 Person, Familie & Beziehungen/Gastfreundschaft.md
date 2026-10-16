@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gastfreundschaft.ogg]]
 
+![[Gastfreundschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gastfreundschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gastfreundschaft&language=de)
 
 **Meaning:** hospitality

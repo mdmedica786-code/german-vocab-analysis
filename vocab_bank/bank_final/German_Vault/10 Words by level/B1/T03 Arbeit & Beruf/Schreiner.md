@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Schreiner
 
+![[Schreiner.jpg]]
+
 ![[Schreiner.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schreiner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schreiner&language=de)

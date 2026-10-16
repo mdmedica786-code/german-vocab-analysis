@@ -23,6 +23,8 @@ status: "new"
 
 ![[Leine.ogg]]
 
+![[Leine.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Leine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leine&language=de)
 
 **Meaning:** lead; leash; line

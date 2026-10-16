@@ -24,6 +24,8 @@ status: "new"
 
 ![[Nachtzeit.ogg]]
 
+![[Nachtzeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachtzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachtzeit&language=de)
 
 **Meaning:** nighttime

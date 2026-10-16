@@ -25,6 +25,8 @@ status: "new"
 
 ![[Firma.ogg]]
 
+![[Firma.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Firma/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Firma&language=de)
 
 **Meaning:** company

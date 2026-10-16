@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stausee.ogg]]
 
+![[Stausee.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stausee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stausee&language=de)
 
 **Meaning:** reservoir

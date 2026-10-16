@@ -24,6 +24,8 @@ status: "new"
 
 ![[Verpflegung.ogg]]
 
+![[Verpflegung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verpflegung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verpflegung&language=de)
 
 **Meaning:** catering; food

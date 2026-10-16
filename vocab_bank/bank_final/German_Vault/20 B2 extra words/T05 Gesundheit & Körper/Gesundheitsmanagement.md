@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gesundheitsmanagement.ogg]]
 
+![[Gesundheitsmanagement.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesundheitsmanagement/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesundheitsmanagement&language=de)
 
 **Meaning:** health management

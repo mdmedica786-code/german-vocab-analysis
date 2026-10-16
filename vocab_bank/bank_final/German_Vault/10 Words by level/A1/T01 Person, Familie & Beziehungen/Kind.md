@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Kind
 
+![[Kind.jpg]]
+
 ![[Kind.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kind/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kind&language=de)

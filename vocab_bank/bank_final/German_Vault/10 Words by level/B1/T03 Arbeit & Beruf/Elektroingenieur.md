@@ -24,6 +24,8 @@ status: "new"
 
 ![[Elektroingenieur.ogg]]
 
+![[Elektroingenieur.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Elektroingenieur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elektroingenieur&language=de)
 
 **Meaning:** electrical engineer (m)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Gefängnis.ogg]]
 
+![[Gefängnis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gef%C3%A4ngnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gef%C3%A4ngnis&language=de)
 
 **Meaning:** prison

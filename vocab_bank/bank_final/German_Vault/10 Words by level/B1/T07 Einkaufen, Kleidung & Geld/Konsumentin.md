@@ -24,6 +24,8 @@ status: "new"
 
 ![[Konsumentin.ogg]]
 
+![[Konsumentin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konsumentin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konsumentin&language=de)
 
 **Meaning:** consumer (f)

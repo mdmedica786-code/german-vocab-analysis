@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dimension.ogg]]
 
+![[Dimension.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dimension/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dimension&language=de)
 
 **Meaning:** dimension; scale

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Schulkleidung
 
+![[Schulkleidung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schulkleidung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulkleidung&language=de)
 
 **Meaning:** school clothing

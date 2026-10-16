@@ -23,6 +23,8 @@ status: "new"
 
 ![[Amtsgericht.ogg]]
 
+![[Amtsgericht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Amtsgericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Amtsgericht&language=de)
 
 **Meaning:** local court

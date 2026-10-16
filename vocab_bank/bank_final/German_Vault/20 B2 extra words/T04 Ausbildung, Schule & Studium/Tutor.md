@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tutor.ogg]]
 
+![[Tutor.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tutor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tutor&language=de)
 
 **Meaning:** tutor; student teaching assistant

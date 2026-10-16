@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Geburtstagsfeier
 
+![[Geburtstagsfeier.jpg]]
+
 ![[Geburtstagsfeier.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Geburtstagsfeier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburtstagsfeier&language=de)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wagenburg.ogg]]
 
+![[Wagenburg.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wagenburg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wagenburg&language=de)
 
 **Meaning:** wagon fort

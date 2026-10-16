@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Geste
 
+![[Geste.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geste&language=de)
 
 **Meaning:** gesture

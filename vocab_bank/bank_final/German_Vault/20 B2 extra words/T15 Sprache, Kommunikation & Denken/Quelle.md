@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Quelle
 
+![[Quelle.jpg]]
+
 ![[Quelle.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Quelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Quelle&language=de)

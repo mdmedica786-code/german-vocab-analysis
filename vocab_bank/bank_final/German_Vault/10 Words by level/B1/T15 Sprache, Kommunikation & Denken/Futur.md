@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Futur
 
+![[Futur.jpg]]
+
 ![[Futur.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Futur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Futur&language=de)

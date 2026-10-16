@@ -25,6 +25,8 @@ status: "new"
 
 ![[Toilette.ogg]]
 
+![[Toilette.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Toilette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Toilette&language=de)
 
 **Meaning:** toilet

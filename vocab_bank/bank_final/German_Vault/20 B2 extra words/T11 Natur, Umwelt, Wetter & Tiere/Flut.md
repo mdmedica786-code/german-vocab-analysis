@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Flut
 
+![[Flut.png]]
+
 ![[Flut.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Flut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flut&language=de)

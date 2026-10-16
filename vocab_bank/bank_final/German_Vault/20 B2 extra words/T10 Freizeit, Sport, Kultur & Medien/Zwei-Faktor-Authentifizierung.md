@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Zwei-Faktor-Authentifizierung
 
+![[Zwei-Faktor-Authentifizierung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zwei-Faktor-Authentifizierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zwei-Faktor-Authentifizierung&language=de)
 
 **Meaning:** two-factor authentication

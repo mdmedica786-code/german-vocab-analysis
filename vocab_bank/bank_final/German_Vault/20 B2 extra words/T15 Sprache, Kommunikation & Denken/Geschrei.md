@@ -23,6 +23,8 @@ status: "new"
 
 ![[Geschrei.ogg]]
 
+![[Geschrei.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geschrei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geschrei&language=de)
 
 **Meaning:** shouting; screaming; cries

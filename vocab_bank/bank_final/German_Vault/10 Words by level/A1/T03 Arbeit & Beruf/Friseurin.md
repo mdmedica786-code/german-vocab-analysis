@@ -25,6 +25,8 @@ status: "new"
 
 ![[Friseurin.ogg]]
 
+![[Friseurin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Friseurin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Friseurin&language=de)
 
 **Meaning:** hairdresser (f)

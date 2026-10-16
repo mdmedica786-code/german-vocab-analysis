@@ -23,6 +23,8 @@ status: "new"
 
 ![[Spam.ogg]]
 
+![[Spam.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spam&language=de)
 
 **Meaning:** spam

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Konflikt.ogg]]
 
+![[Konflikt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konflikt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konflikt&language=de)
 
 **Meaning:** conflict

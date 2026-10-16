@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dreieck.ogg]]
 
+![[Dreieck.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dreieck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dreieck&language=de)
 
 **Meaning:** triangle

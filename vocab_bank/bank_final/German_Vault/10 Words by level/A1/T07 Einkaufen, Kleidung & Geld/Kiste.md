@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Kiste
 
+![[Kiste.jpg]]
+
 ![[Kiste.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kiste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kiste&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Waldbrand.ogg]]
 
+![[Waldbrand.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Waldbrand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Waldbrand&language=de)
 
 **Meaning:** forest fire

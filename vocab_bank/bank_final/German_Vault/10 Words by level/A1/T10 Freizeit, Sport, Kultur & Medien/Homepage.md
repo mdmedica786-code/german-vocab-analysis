@@ -25,6 +25,8 @@ status: "new"
 
 ![[Homepage.ogg]]
 
+![[Homepage.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Homepage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Homepage&language=de)
 
 **Meaning:** homepage

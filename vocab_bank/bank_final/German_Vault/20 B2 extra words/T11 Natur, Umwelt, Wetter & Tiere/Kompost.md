@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kompost.ogg]]
 
+![[Kompost.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kompost/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kompost&language=de)
 
 **Meaning:** compost

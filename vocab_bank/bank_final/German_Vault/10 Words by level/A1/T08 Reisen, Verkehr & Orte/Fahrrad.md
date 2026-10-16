@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Fahrrad
 
+![[Fahrrad.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fahrrad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrrad&language=de)
 
 **Meaning:** bicycle

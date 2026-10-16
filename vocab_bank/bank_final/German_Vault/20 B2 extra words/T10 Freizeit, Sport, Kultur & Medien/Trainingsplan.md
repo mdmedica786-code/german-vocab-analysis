@@ -23,6 +23,8 @@ status: "new"
 
 ![[Trainingsplan.ogg]]
 
+![[Trainingsplan.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Trainingsplan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trainingsplan&language=de)
 
 **Meaning:** training plan

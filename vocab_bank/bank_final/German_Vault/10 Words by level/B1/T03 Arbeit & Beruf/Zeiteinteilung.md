@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Zeiteinteilung
 
+![[Zeiteinteilung.jpg]]
+
 ![[Zeiteinteilung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zeiteinteilung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeiteinteilung&language=de)

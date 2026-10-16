@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Nachrichten
 
+![[Nachrichten.jpg]]
+
 ![[Nachrichten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Nachrichten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachrichten&language=de)

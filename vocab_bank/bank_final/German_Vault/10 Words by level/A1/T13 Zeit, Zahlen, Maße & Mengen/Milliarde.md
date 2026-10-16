@@ -25,6 +25,8 @@ status: "new"
 
 ![[Milliarde.ogg]]
 
+![[Milliarde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Milliarde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Milliarde&language=de)
 
 **Meaning:** billion

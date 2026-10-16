@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sonnenblume.ogg]]
 
+![[Sonnenblume.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sonnenblume/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnenblume&language=de)
 
 **Meaning:** sunflower

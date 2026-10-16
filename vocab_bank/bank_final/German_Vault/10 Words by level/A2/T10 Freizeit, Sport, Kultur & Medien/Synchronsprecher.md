@@ -24,6 +24,8 @@ status: "new"
 
 ![[Synchronsprecher.ogg]]
 
+![[Synchronsprecher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Synchronsprecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Synchronsprecher&language=de)
 
 **Meaning:** voice actor

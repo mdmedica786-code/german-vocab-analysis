@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verstärkung.ogg]]
 
+![[Verstärkung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verst%C3%A4rkung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verst%C3%A4rkung&language=de)
 
 **Meaning:** reinforcement; amplification

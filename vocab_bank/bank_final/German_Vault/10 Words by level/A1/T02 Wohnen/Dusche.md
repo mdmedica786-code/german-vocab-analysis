@@ -25,6 +25,8 @@ status: "new"
 
 ![[Dusche.ogg]]
 
+![[Dusche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dusche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dusche&language=de)
 
 **Meaning:** shower

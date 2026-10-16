@@ -25,6 +25,8 @@ status: "new"
 
 ![[Beamtin.ogg]]
 
+![[Beamtin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beamtin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beamtin&language=de)
 
 **Meaning:** official (f)

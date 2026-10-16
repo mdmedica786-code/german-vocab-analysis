@@ -25,6 +25,8 @@ status: "new"
 
 ![[Größe.ogg]]
 
+![[Größe.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gr%C3%B6%C3%9Fe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gr%C3%B6%C3%9Fe&language=de)
 
 **Meaning:** size; height; greatness

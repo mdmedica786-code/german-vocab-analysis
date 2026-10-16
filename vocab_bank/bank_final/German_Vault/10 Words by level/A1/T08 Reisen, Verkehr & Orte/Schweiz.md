@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Schweiz
 
+![[Schweiz.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schweiz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schweiz&language=de)
 
 **Meaning:** Switzerland

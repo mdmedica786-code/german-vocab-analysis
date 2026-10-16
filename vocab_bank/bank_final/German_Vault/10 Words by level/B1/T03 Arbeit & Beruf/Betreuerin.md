@@ -24,6 +24,8 @@ status: "new"
 
 ![[Betreuerin.ogg]]
 
+![[Betreuerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Betreuerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betreuerin&language=de)
 
 **Meaning:** carer; supervisor (f)

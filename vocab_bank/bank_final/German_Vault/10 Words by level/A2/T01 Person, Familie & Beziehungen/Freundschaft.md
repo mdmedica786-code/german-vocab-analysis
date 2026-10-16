@@ -25,6 +25,8 @@ status: "new"
 
 ![[Freundschaft.ogg]]
 
+![[Freundschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Freundschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freundschaft&language=de)
 
 **Meaning:** friendship

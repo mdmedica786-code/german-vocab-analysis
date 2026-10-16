@@ -25,6 +25,8 @@ status: "new"
 
 ![[Material.ogg]]
 
+![[Material.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Material/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Material&language=de)
 
 **Meaning:** material

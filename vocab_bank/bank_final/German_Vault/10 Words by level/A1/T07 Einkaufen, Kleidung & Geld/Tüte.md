@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tüte.ogg]]
 
+![[Tüte.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/T%C3%BCte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%BCte&language=de)
 
 **Meaning:** bag

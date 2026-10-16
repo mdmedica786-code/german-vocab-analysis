@@ -23,6 +23,8 @@ status: "new"
 
 ![[Freundeskreis.ogg]]
 
+![[Freundeskreis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Freundeskreis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freundeskreis&language=de)
 
 **Meaning:** circle of friends

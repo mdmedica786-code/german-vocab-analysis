@@ -23,6 +23,8 @@ status: "new"
 
 ![[Logik.ogg]]
 
+![[Logik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Logik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Logik&language=de)
 
 **Meaning:** logic

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Lastwagen.ogg]]
 
+![[Lastwagen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lastwagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lastwagen&language=de)
 
 **Meaning:** truck

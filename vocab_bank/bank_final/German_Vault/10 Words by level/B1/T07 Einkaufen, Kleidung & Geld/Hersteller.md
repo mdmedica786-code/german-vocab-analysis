@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hersteller.ogg]]
 
+![[Hersteller.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hersteller/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hersteller&language=de)
 
 **Meaning:** manufacturer

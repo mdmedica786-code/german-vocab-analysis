@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stromnetz.ogg]]
 
+![[Stromnetz.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stromnetz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stromnetz&language=de)
 
 **Meaning:** power grid

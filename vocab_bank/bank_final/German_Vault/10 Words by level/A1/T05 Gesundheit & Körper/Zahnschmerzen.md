@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zahnschmerzen.ogg]]
 
+![[Zahnschmerzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zahnschmerzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahnschmerzen&language=de)
 
 **Meaning:** toothache

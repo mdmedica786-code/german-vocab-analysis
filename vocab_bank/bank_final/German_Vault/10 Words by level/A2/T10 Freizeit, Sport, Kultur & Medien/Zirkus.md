@@ -25,6 +25,8 @@ status: "new"
 
 ![[Zirkus.ogg]]
 
+![[Zirkus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zirkus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zirkus&language=de)
 
 **Meaning:** circus

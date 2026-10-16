@@ -24,6 +24,8 @@ status: "new"
 
 ![[Model.ogg]]
 
+![[Model.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Model/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Model&language=de)
 
 **Meaning:** fashion model

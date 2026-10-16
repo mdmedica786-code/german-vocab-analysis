@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mythos.ogg]]
 
+![[Mythos.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mythos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mythos&language=de)
 
 **Meaning:** myth

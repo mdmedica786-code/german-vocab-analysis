@@ -24,6 +24,8 @@ status: "new"
 
 ![[Solarzelle.ogg]]
 
+![[Solarzelle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Solarzelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Solarzelle&language=de)
 
 **Meaning:** solar cell

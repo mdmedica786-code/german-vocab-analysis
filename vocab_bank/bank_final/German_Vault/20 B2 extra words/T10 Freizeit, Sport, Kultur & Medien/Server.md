@@ -23,6 +23,8 @@ status: "new"
 
 ![[Server.ogg]]
 
+![[Server.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Server/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Server&language=de)
 
 **Meaning:** server

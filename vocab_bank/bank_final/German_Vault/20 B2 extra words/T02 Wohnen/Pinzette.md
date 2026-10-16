@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pinzette.ogg]]
 
+![[Pinzette.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pinzette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pinzette&language=de)
 
 **Meaning:** tweezers

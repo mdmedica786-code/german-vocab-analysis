@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Taschenlampe
 
+![[Taschenlampe.jpg]]
+
 ![[Taschenlampe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Taschenlampe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taschenlampe&language=de)

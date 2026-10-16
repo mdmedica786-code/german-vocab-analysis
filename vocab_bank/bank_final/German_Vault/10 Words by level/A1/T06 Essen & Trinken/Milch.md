@@ -25,6 +25,8 @@ status: "new"
 
 ![[Milch.ogg]]
 
+![[Milch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Milch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Milch&language=de)
 
 **Meaning:** milk

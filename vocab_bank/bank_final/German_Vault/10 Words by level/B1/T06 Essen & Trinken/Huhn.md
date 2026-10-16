@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Huhn
 
+![[Huhn.jpg]]
+
 ![[Huhn.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Huhn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Huhn&language=de)

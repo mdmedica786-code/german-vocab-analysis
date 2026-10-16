@@ -23,6 +23,8 @@ status: "new"
 
 ![[Prozentsatz.ogg]]
 
+![[Prozentsatz.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Prozentsatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prozentsatz&language=de)
 
 **Meaning:** percentage; rate

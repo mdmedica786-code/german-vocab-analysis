@@ -24,6 +24,8 @@ status: "new"
 
 ![[Nationalfeiertag.ogg]]
 
+![[Nationalfeiertag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nationalfeiertag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nationalfeiertag&language=de)
 
 **Meaning:** national holiday

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Entfernung.ogg]]
 
+![[Entfernung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Entfernung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entfernung&language=de)
 
 **Meaning:** distance

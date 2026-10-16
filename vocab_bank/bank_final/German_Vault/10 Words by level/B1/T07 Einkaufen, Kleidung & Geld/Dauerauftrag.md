@@ -24,6 +24,8 @@ status: "new"
 
 ![[Dauerauftrag.ogg]]
 
+![[Dauerauftrag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dauerauftrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dauerauftrag&language=de)
 
 **Meaning:** recurring payment, standing order

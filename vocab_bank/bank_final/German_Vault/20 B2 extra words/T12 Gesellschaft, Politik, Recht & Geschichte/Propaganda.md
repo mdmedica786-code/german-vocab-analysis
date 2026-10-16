@@ -23,6 +23,8 @@ status: "new"
 
 ![[Propaganda.ogg]]
 
+![[Propaganda.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Propaganda/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Propaganda&language=de)
 
 **Meaning:** propaganda

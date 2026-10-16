@@ -24,6 +24,8 @@ status: "new"
 
 ![[Industrieviertel.ogg]]
 
+![[Industrieviertel.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Industrieviertel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Industrieviertel&language=de)
 
 **Meaning:** industrial quarter

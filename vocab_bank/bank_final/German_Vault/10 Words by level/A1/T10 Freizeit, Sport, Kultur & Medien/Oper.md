@@ -25,6 +25,8 @@ status: "new"
 
 ![[Oper.ogg]]
 
+![[Oper.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Oper/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oper&language=de)
 
 **Meaning:** opera

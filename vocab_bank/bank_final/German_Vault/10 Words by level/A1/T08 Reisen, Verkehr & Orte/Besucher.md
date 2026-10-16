@@ -24,6 +24,8 @@ status: "new"
 
 ![[Besucher.ogg]]
 
+![[Besucher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Besucher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besucher&language=de)
 
 **Meaning:** visitor (m)

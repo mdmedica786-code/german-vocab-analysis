@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rührgerät.ogg]]
 
+![[Rührgerät.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/R%C3%BChrger%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BChrger%C3%A4t&language=de)
 
 **Meaning:** hand mixer; electric whisk

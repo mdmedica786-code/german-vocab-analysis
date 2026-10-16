@@ -23,6 +23,8 @@ status: "new"
 
 ![[Freiraum.ogg]]
 
+![[Freiraum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Freiraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freiraum&language=de)
 
 **Meaning:** freedom; space (to act)

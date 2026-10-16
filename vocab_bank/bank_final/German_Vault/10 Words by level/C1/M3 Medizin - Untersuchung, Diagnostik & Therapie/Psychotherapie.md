@@ -23,6 +23,8 @@ status: "new"
 
 ![[Psychotherapie.ogg]]
 
+![[Psychotherapie.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Psychotherapie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Psychotherapie&language=de)
 
 **Meaning:** psychotherapy

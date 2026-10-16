@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kreisverkehr.ogg]]
 
+![[Kreisverkehr.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kreisverkehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kreisverkehr&language=de)
 
 **Meaning:** roundabout

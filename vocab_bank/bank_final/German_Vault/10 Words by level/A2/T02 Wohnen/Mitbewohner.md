@@ -24,6 +24,8 @@ status: "new"
 
 ![[Mitbewohner.ogg]]
 
+![[Mitbewohner.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mitbewohner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitbewohner&language=de)
 
 **Meaning:** flatmate (m)

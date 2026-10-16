@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tau.ogg]]
 
+![[Tau.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tau&language=de)
 
 **Meaning:** dew

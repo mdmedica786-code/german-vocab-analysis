@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Mode-Designerin
 
+![[Mode-Designerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mode-Designerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mode-Designerin&language=de)
 
 **Meaning:** fashion designer (female)

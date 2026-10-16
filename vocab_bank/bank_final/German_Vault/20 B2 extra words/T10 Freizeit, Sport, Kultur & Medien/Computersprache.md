@@ -23,6 +23,8 @@ status: "new"
 
 ![[Computersprache.ogg]]
 
+![[Computersprache.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Computersprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Computersprache&language=de)
 
 **Meaning:** programming language; computer language

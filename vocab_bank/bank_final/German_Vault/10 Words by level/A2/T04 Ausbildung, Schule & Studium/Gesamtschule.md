@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Gesamtschule
 
+![[Gesamtschule.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesamtschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesamtschule&language=de)
 
 **Meaning:** comprehensive school

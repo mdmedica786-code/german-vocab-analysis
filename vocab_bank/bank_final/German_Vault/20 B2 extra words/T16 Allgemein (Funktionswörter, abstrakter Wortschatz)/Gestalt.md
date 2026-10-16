@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gestalt.ogg]]
 
+![[Gestalt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gestalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gestalt&language=de)
 
 **Meaning:** shape; figure; form

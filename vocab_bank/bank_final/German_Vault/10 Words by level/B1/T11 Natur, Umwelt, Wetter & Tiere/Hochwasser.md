@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hochwasser.ogg]]
 
+![[Hochwasser.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hochwasser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochwasser&language=de)
 
 **Meaning:** flood

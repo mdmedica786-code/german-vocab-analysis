@@ -23,6 +23,8 @@ status: "new"
 
 ![[Korn.ogg]]
 
+![[Korn.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Korn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Korn&language=de)
 
 **Meaning:** grain; seed

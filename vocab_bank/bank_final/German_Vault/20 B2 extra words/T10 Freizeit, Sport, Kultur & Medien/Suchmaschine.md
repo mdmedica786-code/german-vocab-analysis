@@ -23,6 +23,8 @@ status: "new"
 
 ![[Suchmaschine.ogg]]
 
+![[Suchmaschine.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Suchmaschine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Suchmaschine&language=de)
 
 **Meaning:** search engine

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Foto.ogg]]
 
+![[Foto.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Foto/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Foto&language=de)
 
 **Meaning:** photo

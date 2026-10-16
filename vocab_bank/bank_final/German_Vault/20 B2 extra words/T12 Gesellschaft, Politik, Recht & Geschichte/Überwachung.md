@@ -23,6 +23,8 @@ status: "new"
 
 ![[Überwachung.ogg]]
 
+![[Überwachung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberwachung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberwachung&language=de)
 
 **Meaning:** surveillance; monitoring

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tempo.ogg]]
 
+![[Tempo.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tempo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tempo&language=de)
 
 **Meaning:** speed

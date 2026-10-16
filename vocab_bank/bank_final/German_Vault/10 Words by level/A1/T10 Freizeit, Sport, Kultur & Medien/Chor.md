@@ -24,6 +24,8 @@ status: "new"
 
 ![[Chor.ogg]]
 
+![[Chor.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Chor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chor&language=de)
 
 **Meaning:** choir

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Gefahr
 
+![[Gefahr.png]]
+
 ![[Gefahr.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gefahr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gefahr&language=de)

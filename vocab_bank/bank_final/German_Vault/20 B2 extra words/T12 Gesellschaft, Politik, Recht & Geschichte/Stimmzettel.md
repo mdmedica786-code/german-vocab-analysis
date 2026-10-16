@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stimmzettel.ogg]]
 
+![[Stimmzettel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stimmzettel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stimmzettel&language=de)
 
 **Meaning:** ballot paper

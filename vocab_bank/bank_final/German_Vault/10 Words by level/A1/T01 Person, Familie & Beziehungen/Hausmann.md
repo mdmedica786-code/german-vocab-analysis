@@ -25,6 +25,8 @@ status: "new"
 
 ![[Hausmann.ogg]]
 
+![[Hausmann.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hausmann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausmann&language=de)
 
 **Meaning:** househusband; homemaker (m)

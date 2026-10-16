@@ -25,6 +25,8 @@ status: "new"
 
 ![[Automat.ogg]]
 
+![[Automat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Automat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Automat&language=de)
 
 **Meaning:** vending machine

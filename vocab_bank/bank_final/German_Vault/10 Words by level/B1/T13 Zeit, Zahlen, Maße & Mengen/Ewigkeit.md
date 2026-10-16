@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ewigkeit.ogg]]
 
+![[Ewigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ewigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ewigkeit&language=de)
 
 **Meaning:** eternity; ages

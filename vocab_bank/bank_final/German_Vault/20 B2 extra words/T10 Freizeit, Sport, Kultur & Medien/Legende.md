@@ -23,6 +23,8 @@ status: "new"
 
 ![[Legende.ogg]]
 
+![[Legende.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Legende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Legende&language=de)
 
 **Meaning:** legend; key (of a map)

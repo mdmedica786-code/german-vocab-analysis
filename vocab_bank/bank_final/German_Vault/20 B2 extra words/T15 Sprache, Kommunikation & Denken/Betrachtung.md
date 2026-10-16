@@ -23,6 +23,8 @@ status: "new"
 
 ![[Betrachtung.ogg]]
 
+![[Betrachtung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Betrachtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betrachtung&language=de)
 
 **Meaning:** consideration; contemplation

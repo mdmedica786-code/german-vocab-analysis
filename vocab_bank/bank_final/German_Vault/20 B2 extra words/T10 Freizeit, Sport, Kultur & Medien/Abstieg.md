@@ -23,6 +23,8 @@ status: "new"
 
 ![[Abstieg.ogg]]
 
+![[Abstieg.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abstieg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abstieg&language=de)
 
 **Meaning:** relegation; descent; decline

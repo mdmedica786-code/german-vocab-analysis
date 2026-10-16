@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kindheit.ogg]]
 
+![[Kindheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kindheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kindheit&language=de)
 
 **Meaning:** childhood

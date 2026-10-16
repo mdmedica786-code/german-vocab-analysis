@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Schultyp
 
+![[Schultyp.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schultyp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schultyp&language=de)
 
 **Meaning:** school type

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bratwurst.ogg]]
 
+![[Bratwurst.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bratwurst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bratwurst&language=de)
 
 **Meaning:** fried sausage; bratwurst

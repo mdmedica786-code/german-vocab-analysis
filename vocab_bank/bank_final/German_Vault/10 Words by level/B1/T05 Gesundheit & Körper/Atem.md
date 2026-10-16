@@ -24,6 +24,8 @@ status: "new"
 
 ![[Atem.ogg]]
 
+![[Atem.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Atem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Atem&language=de)
 
 **Meaning:** breath

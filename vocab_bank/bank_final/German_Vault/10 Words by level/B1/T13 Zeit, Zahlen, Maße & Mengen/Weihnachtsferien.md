@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Weihnachtsferien
 
+![[Weihnachtsferien.jpg]]
+
 ![[Weihnachtsferien.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Weihnachtsferien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weihnachtsferien&language=de)

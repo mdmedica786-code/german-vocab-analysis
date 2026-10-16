@@ -25,6 +25,8 @@ status: "new"
 
 ![[Übersetzerin.ogg]]
 
+![[Übersetzerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbersetzerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbersetzerin&language=de)
 
 **Meaning:** translator (f)

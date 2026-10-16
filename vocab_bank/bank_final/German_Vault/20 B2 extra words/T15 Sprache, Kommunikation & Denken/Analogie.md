@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Analogie
 
+![[Analogie.png]]
+
 ![[Analogie.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Analogie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Analogie&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Ingenieur.ogg]]
 
+![[Ingenieur.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ingenieur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ingenieur&language=de)
 
 **Meaning:** engineer (m)

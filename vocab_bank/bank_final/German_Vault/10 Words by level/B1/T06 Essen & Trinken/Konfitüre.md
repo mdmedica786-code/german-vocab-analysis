@@ -25,6 +25,8 @@ status: "new"
 
 ![[Konfitüre.ogg]]
 
+![[Konfitüre.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konfit%C3%BCre/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konfit%C3%BCre&language=de)
 
 **Meaning:** jam

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sonnenuntergang.ogg]]
 
+![[Sonnenuntergang.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sonnenuntergang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnenuntergang&language=de)
 
 **Meaning:** sunset

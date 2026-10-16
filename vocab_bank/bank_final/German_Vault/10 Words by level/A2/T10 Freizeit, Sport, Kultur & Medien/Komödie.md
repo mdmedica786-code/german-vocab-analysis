@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Komödie
 
+![[Komödie.jpg]]
+
 ![[Komödie.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kom%C3%B6die/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kom%C3%B6die&language=de)

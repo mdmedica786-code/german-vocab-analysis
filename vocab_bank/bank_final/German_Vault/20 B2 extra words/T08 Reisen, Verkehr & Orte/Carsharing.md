@@ -23,6 +23,8 @@ status: "new"
 
 ![[Carsharing.ogg]]
 
+![[Carsharing.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Carsharing/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Carsharing&language=de)
 
 **Meaning:** car sharing

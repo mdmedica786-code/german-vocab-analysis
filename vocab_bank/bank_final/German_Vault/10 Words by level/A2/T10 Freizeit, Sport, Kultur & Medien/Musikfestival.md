@@ -24,6 +24,8 @@ status: "new"
 
 ![[Musikfestival.ogg]]
 
+![[Musikfestival.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Musikfestival/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikfestival&language=de)
 
 **Meaning:** music festival

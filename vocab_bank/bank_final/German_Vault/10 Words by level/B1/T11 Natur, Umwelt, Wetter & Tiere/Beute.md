@@ -24,6 +24,8 @@ status: "new"
 
 ![[Beute.ogg]]
 
+![[Beute.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beute/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beute&language=de)
 
 **Meaning:** prey

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Japan
 
+![[Japan.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Japan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Japan&language=de)
 
 **Meaning:** Japan

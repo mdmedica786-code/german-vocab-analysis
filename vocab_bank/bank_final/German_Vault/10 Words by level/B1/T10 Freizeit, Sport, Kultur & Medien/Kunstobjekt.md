@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kunstobjekt.ogg]]
 
+![[Kunstobjekt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kunstobjekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunstobjekt&language=de)
 
 **Meaning:** artwork

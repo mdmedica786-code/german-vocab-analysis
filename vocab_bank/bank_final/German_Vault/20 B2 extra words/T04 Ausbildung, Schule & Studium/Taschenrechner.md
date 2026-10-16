@@ -23,6 +23,8 @@ status: "new"
 
 ![[Taschenrechner.ogg]]
 
+![[Taschenrechner.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Taschenrechner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taschenrechner&language=de)
 
 **Meaning:** calculator

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # Tram
 
+![[Tram.jpg]]
+
 ![[Tram.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tram/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tram&language=de)

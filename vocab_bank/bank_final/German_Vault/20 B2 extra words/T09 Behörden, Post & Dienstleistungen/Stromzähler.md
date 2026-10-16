@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stromzähler.ogg]]
 
+![[Stromzähler.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stromz%C3%A4hler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stromz%C3%A4hler&language=de)
 
 **Meaning:** electricity meter

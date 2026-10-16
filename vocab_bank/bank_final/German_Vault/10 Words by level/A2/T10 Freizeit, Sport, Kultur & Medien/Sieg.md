@@ -25,6 +25,8 @@ status: "new"
 
 ![[Sieg.ogg]]
 
+![[Sieg.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sieg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sieg&language=de)
 
 **Meaning:** victory

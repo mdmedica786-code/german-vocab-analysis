@@ -25,6 +25,8 @@ status: "new"
 
 ![[Rückmeldung.ogg]]
 
+![[Rückmeldung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCckmeldung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCckmeldung&language=de)
 
 **Meaning:** feedback; response

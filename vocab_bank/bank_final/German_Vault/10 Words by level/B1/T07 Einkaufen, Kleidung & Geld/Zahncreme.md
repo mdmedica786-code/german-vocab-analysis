@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zahncreme.ogg]]
 
+![[Zahncreme.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zahncreme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahncreme&language=de)
 
 **Meaning:** toothpaste

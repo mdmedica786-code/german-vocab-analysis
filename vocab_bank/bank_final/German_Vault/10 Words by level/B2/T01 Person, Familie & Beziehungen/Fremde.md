@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fremde.ogg]]
 
+![[Fremde.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fremde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fremde&language=de)
 
 **Meaning:** stranger

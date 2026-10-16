@@ -23,6 +23,8 @@ status: "new"
 
 ![[Klassifikation.ogg]]
 
+![[Klassifikation.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Klassifikation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klassifikation&language=de)
 
 **Meaning:** classification

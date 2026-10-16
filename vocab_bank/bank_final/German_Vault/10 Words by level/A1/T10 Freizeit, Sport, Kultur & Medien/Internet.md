@@ -25,6 +25,8 @@ status: "new"
 
 ![[Internet.ogg]]
 
+![[Internet.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Internet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Internet&language=de)
 
 **Meaning:** internet

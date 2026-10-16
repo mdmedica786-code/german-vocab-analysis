@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wahrscheinlichkeit.ogg]]
 
+![[Wahrscheinlichkeit.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wahrscheinlichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahrscheinlichkeit&language=de)
 
 **Meaning:** probability; likelihood

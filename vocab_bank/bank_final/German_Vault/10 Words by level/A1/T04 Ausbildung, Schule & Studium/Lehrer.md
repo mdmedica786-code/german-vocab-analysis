@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Lehrer
 
+![[Lehrer.jpg]]
+
 ![[Lehrer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Lehrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lehrer&language=de)

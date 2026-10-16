@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Diebstahl
 
+![[Diebstahl.jpg]]
+
 ![[Diebstahl.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Diebstahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diebstahl&language=de)

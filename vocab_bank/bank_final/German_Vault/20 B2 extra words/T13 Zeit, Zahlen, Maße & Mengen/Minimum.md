@@ -23,6 +23,8 @@ status: "new"
 
 ![[Minimum.ogg]]
 
+![[Minimum.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Minimum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Minimum&language=de)
 
 **Meaning:** minimum; lowest level

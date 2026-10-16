@@ -24,6 +24,8 @@ status: "new"
 
 ![[Therapie.ogg]]
 
+![[Therapie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Therapie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Therapie&language=de)
 
 **Meaning:** therapy; treatment

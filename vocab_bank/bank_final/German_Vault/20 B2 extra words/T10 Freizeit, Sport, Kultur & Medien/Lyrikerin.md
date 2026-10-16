@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lyrikerin.ogg]]
 
+![[Lyrikerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lyrikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lyrikerin&language=de)
 
 **Meaning:** poet; lyric poet (female)

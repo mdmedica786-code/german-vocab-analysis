@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Zusammenarbeit
 
+![[Zusammenarbeit.jpg]]
+
 ![[Zusammenarbeit.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zusammenarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zusammenarbeit&language=de)

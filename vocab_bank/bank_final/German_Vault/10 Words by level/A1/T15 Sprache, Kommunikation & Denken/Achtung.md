@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Achtung
 
+![[Achtung.jpg]]
+
 ![[Achtung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Achtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Achtung&language=de)

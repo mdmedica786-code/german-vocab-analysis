@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Beschleunigung
 
+![[Beschleunigung.jpg]]
+
 ![[Beschleunigung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Beschleunigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beschleunigung&language=de)

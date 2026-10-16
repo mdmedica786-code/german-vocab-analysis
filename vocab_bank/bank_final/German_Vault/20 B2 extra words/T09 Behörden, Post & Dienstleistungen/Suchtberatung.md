@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Suchtberatung
 
+![[Suchtberatung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Suchtberatung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Suchtberatung&language=de)
 
 **Meaning:** addiction counselling

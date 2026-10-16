@@ -24,6 +24,8 @@ status: "new"
 
 ![[Grundstück.ogg]]
 
+![[Grundstück.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Grundst%C3%BCck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundst%C3%BCck&language=de)
 
 **Meaning:** plot; property

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Krone
 
+![[Krone.jpg]]
+
 ![[Krone.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Krone/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krone&language=de)

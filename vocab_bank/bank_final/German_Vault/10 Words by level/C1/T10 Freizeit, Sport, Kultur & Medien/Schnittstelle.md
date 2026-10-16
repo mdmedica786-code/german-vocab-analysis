@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schnittstelle.ogg]]
 
+![[Schnittstelle.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schnittstelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schnittstelle&language=de)
 
 **Meaning:** interface

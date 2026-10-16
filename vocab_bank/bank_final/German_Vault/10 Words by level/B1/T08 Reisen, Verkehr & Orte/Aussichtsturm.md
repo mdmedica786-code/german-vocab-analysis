@@ -24,6 +24,8 @@ status: "new"
 
 ![[Aussichtsturm.ogg]]
 
+![[Aussichtsturm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aussichtsturm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aussichtsturm&language=de)
 
 **Meaning:** observation tower

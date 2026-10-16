@@ -24,6 +24,8 @@ status: "new"
 
 ![[Jägerin.ogg]]
 
+![[Jägerin.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/J%C3%A4gerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=J%C3%A4gerin&language=de)
 
 **Meaning:** hunter (f)

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Unsinn
 
+![[Unsinn.png]]
+
 ![[Unsinn.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Unsinn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unsinn&language=de)

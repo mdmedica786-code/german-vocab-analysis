@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verleger.ogg]]
 
+![[Verleger.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verleger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verleger&language=de)
 
 **Meaning:** publisher

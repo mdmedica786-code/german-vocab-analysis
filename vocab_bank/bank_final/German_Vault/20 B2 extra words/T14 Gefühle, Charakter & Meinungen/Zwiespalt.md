@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zwiespalt.ogg]]
 
+![[Zwiespalt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zwiespalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zwiespalt&language=de)
 
 **Meaning:** dilemma; conflict (inner)

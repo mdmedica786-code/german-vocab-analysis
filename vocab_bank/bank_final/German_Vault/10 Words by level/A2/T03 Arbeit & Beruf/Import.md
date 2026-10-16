@@ -25,6 +25,8 @@ status: "new"
 
 ![[Import.ogg]]
 
+![[Import.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Import/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Import&language=de)
 
 **Meaning:** import

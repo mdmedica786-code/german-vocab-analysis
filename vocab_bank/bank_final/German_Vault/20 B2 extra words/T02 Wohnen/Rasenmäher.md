@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rasenmäher.ogg]]
 
+![[Rasenmäher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rasenm%C3%A4her/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rasenm%C3%A4her&language=de)
 
 **Meaning:** lawnmower

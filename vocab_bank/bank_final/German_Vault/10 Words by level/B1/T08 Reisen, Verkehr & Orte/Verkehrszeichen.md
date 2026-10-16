@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Verkehrszeichen
 
+![[Verkehrszeichen.jpg]]
+
 ![[Verkehrszeichen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Verkehrszeichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrszeichen&language=de)

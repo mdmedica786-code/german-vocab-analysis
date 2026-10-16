@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Corona-Virus
 
+![[Corona-Virus.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Corona-Virus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Corona-Virus&language=de)
 
 **Meaning:** coronavirus

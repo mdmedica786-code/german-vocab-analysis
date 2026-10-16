@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Streikrecht
 
+![[Streikrecht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Streikrecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Streikrecht&language=de)
 
 **Meaning:** right to strike

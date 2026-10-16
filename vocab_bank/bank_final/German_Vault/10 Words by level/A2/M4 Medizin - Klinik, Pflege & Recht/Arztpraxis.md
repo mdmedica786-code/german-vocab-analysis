@@ -24,6 +24,8 @@ status: "new"
 
 ![[Arztpraxis.ogg]]
 
+![[Arztpraxis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arztpraxis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arztpraxis&language=de)
 
 **Meaning:** doctor's office

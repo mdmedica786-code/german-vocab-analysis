@@ -23,6 +23,8 @@ status: "new"
 
 ![[Massentierhaltung.ogg]]
 
+![[Massentierhaltung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Massentierhaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Massentierhaltung&language=de)
 
 **Meaning:** factory farming

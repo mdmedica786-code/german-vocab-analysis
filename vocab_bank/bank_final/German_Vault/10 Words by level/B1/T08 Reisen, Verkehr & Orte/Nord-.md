@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Nord-
 
+![[Nord-.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nord-/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nord-&language=de)
 
 **Meaning:** north (combining form)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Spektrum.ogg]]
 
+![[Spektrum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spektrum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spektrum&language=de)
 
 **Meaning:** spectrum; range

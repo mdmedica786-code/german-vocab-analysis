@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Badehose
 
+![[Badehose.jpg]]
+
 ![[Badehose.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Badehose/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Badehose&language=de)

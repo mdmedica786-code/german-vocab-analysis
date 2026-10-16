@@ -25,6 +25,8 @@ status: "new"
 
 ![[Strafe.ogg]]
 
+![[Strafe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Strafe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strafe&language=de)
 
 **Meaning:** punishment, penalty

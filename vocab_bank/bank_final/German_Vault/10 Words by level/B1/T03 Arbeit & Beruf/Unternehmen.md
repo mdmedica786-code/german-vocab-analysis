@@ -24,6 +24,8 @@ status: "new"
 
 ![[Unternehmen.ogg]]
 
+![[Unternehmen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Unternehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unternehmen&language=de)
 
 **Meaning:** company

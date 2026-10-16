@@ -24,6 +24,8 @@ status: "new"
 
 ![[Appetit.ogg]]
 
+![[Appetit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Appetit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Appetit&language=de)
 
 **Meaning:** appetite

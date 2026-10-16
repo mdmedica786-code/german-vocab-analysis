@@ -23,6 +23,8 @@ status: "new"
 
 ![[Treibhauseffekt.ogg]]
 
+![[Treibhauseffekt.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Treibhauseffekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Treibhauseffekt&language=de)
 
 **Meaning:** greenhouse effect

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lerngruppe.ogg]]
 
+![[Lerngruppe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lerngruppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lerngruppe&language=de)
 
 **Meaning:** study group; learning group

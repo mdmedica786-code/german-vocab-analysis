@@ -24,6 +24,8 @@ status: "new"
 
 ![[Putzmann.ogg]]
 
+![[Putzmann.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Putzmann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Putzmann&language=de)
 
 **Meaning:** cleaner (m)

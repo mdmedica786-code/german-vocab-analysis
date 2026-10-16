@@ -26,6 +26,8 @@ status: "new"
 
 ![[Beiz.ogg]]
 
+![[Beiz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beiz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beiz&language=de)
 
 **Meaning:** pub (Switzerland)

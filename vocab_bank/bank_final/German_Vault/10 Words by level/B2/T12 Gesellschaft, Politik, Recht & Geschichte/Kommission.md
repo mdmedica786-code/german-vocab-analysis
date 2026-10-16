@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Kommission
 
+![[Kommission.jpg]]
+
 ![[Kommission.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kommission/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kommission&language=de)

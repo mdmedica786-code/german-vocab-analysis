@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Bundesregierung
 
+![[Bundesregierung.png]]
+
 ![[Bundesregierung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bundesregierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundesregierung&language=de)

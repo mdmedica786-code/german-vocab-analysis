@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Öffnungszeiten
 
+![[Öffnungszeiten.jpg]]
+
 ![[Öffnungszeiten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%96ffnungszeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%96ffnungszeiten&language=de)

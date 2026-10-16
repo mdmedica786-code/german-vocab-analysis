@@ -23,6 +23,8 @@ status: "new"
 
 ![[Frequenz.ogg]]
 
+![[Frequenz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Frequenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frequenz&language=de)
 
 **Meaning:** frequency

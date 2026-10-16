@@ -23,6 +23,8 @@ status: "new"
 
 ![[Reißverschluss.ogg]]
 
+![[Reißverschluss.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rei%C3%9Fverschluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rei%C3%9Fverschluss&language=de)
 
 **Meaning:** zip

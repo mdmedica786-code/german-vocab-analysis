@@ -23,6 +23,8 @@ status: "new"
 
 ![[Immunabwehr.ogg]]
 
+![[Immunabwehr.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Immunabwehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Immunabwehr&language=de)
 
 **Meaning:** immune defence

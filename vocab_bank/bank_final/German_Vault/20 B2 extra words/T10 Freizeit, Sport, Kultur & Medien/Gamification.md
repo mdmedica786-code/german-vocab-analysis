@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gamification.ogg]]
 
+![[Gamification.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gamification/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gamification&language=de)
 
 **Meaning:** gamification

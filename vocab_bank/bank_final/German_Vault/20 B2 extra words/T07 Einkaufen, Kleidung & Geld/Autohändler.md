@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Autohändler
 
+![[Autohändler.jpg]]
+
 ![[Autohändler.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Autoh%C3%A4ndler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autoh%C3%A4ndler&language=de)

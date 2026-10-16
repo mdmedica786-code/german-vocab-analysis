@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Wasser
 
+![[Wasser.png]]
+
 ![[Wasser.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wasser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wasser&language=de)

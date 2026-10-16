@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Aschenbecher
 
+![[Aschenbecher.jpg]]
+
 ![[Aschenbecher.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Aschenbecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aschenbecher&language=de)

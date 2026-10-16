@@ -23,6 +23,8 @@ status: "new"
 
 ![[Netzstecker.ogg]]
 
+![[Netzstecker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Netzstecker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Netzstecker&language=de)
 
 **Meaning:** mains plug; power plug

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Leidenschaft.ogg]]
 
+![[Leidenschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Leidenschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leidenschaft&language=de)
 
 **Meaning:** passion

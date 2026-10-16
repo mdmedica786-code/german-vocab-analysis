@@ -25,6 +25,8 @@ status: "new"
 
 ![[Nachhilfe.ogg]]
 
+![[Nachhilfe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachhilfe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachhilfe&language=de)
 
 **Meaning:** private tutoring

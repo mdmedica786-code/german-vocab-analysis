@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zapfsäule.ogg]]
 
+![[Zapfsäule.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zapfs%C3%A4ule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zapfs%C3%A4ule&language=de)
 
 **Meaning:** petrol pump; fuel pump

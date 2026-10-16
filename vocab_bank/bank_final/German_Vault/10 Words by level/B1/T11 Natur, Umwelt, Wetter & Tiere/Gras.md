@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Gras
 
+![[Gras.jpg]]
+
 ![[Gras.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gras/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gras&language=de)

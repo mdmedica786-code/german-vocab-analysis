@@ -23,6 +23,8 @@ status: "new"
 
 ![[Filmemacher.ogg]]
 
+![[Filmemacher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Filmemacher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Filmemacher&language=de)
 
 **Meaning:** filmmaker (male)

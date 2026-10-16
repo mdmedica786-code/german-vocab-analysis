@@ -23,6 +23,8 @@ status: "new"
 
 ![[Soziologie.ogg]]
 
+![[Soziologie.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Soziologie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Soziologie&language=de)
 
 **Meaning:** sociology

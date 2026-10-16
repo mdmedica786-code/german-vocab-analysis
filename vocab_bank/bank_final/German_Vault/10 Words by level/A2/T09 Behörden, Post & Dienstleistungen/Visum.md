@@ -25,6 +25,8 @@ status: "new"
 
 ![[Visum.ogg]]
 
+![[Visum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Visum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Visum&language=de)
 
 **Meaning:** visa

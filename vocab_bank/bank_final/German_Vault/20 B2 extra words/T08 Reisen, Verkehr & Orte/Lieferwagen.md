@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lieferwagen.ogg]]
 
+![[Lieferwagen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lieferwagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lieferwagen&language=de)
 
 **Meaning:** delivery van

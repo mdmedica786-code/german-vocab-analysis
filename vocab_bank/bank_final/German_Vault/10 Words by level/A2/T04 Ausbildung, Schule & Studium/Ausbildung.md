@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Ausbildung
 
+![[Ausbildung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ausbildung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausbildung&language=de)
 
 **Meaning:** training, education

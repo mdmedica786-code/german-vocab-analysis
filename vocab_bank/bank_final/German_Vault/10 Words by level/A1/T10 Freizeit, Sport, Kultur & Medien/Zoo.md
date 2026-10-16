@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Zoo
 
+![[Zoo.jpg]]
+
 ![[Zoo.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zoo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zoo&language=de)

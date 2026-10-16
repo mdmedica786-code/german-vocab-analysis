@@ -24,6 +24,8 @@ status: "new"
 
 ![[Teilzeitjob.ogg]]
 
+![[Teilzeitjob.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Teilzeitjob/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teilzeitjob&language=de)
 
 **Meaning:** part-time job

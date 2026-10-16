@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Herrscher
 
+![[Herrscher.jpg]]
+
 ![[Herrscher.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Herrscher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herrscher&language=de)

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Bleistift
 
+![[Bleistift.jpg]]
+
 ![[Bleistift.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bleistift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bleistift&language=de)

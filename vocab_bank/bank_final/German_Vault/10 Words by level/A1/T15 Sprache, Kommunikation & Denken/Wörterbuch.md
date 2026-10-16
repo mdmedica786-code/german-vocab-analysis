@@ -25,6 +25,8 @@ status: "new"
 
 ![[Wörterbuch.ogg]]
 
+![[Wörterbuch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/W%C3%B6rterbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%B6rterbuch&language=de)
 
 **Meaning:** dictionary

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wirtin.ogg]]
 
+![[Wirtin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wirtin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wirtin&language=de)
 
 **Meaning:** landlady

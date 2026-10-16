@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kritik.ogg]]
 
+![[Kritik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kritik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kritik&language=de)
 
 **Meaning:** criticism

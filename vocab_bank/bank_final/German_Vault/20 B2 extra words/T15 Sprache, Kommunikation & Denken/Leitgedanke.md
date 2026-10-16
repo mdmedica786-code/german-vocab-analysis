@@ -23,6 +23,8 @@ status: "new"
 
 ![[Leitgedanke.ogg]]
 
+![[Leitgedanke.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Leitgedanke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leitgedanke&language=de)
 
 **Meaning:** guiding principle; central idea

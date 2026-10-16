@@ -25,6 +25,8 @@ status: "new"
 
 ![[Rose.ogg]]
 
+![[Rose.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rose/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rose&language=de)
 
 **Meaning:** rose

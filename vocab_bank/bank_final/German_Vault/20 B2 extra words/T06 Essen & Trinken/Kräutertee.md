@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kräutertee.ogg]]
 
+![[Kräutertee.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kr%C3%A4utertee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kr%C3%A4utertee&language=de)
 
 **Meaning:** herbal tea

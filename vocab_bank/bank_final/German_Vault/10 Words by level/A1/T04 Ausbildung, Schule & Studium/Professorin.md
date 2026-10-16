@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Professorin
 
+![[Professorin.jpg]]
+
 ![[Professorin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Professorin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Professorin&language=de)

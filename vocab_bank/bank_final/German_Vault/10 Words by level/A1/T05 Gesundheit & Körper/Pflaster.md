@@ -25,6 +25,8 @@ status: "new"
 
 ![[Pflaster.ogg]]
 
+![[Pflaster.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pflaster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflaster&language=de)
 
 **Meaning:** plaster

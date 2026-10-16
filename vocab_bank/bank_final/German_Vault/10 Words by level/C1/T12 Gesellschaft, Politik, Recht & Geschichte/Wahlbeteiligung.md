@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wahlbeteiligung.ogg]]
 
+![[Wahlbeteiligung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wahlbeteiligung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahlbeteiligung&language=de)
 
 **Meaning:** voter turnout

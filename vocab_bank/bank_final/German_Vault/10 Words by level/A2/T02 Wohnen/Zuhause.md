@@ -25,6 +25,8 @@ status: "new"
 
 ![[Zuhause.ogg]]
 
+![[Zuhause.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zuhause/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zuhause&language=de)
 
 **Meaning:** home

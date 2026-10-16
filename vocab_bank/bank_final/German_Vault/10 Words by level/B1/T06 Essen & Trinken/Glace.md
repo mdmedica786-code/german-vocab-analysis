@@ -26,6 +26,8 @@ status: "new"
 
 ![[Glace.ogg]]
 
+![[Glace.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Glace/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Glace&language=de)
 
 **Meaning:** ice cream (Swiss)

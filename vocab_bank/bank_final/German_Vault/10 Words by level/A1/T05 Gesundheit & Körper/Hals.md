@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Hals
 
+![[Hals.jpg]]
+
 ![[Hals.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hals/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hals&language=de)

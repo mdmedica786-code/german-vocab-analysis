@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pottwal.ogg]]
 
+![[Pottwal.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pottwal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pottwal&language=de)
 
 **Meaning:** sperm whale

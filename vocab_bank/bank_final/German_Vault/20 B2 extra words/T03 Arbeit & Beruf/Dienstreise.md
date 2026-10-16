@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dienstreise.ogg]]
 
+![[Dienstreise.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dienstreise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dienstreise&language=de)
 
 **Meaning:** business trip

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kühlschrank.ogg]]
 
+![[Kühlschrank.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%BChlschrank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%BChlschrank&language=de)
 
 **Meaning:** refridgerator

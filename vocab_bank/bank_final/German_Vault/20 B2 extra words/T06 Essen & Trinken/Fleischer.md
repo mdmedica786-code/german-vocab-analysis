@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fleischer.ogg]]
 
+![[Fleischer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fleischer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fleischer&language=de)
 
 **Meaning:** butcher

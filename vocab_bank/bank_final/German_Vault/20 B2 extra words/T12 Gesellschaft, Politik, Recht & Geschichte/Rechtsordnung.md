@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rechtsordnung.ogg]]
 
+![[Rechtsordnung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rechtsordnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechtsordnung&language=de)
 
 **Meaning:** legal system; legal order

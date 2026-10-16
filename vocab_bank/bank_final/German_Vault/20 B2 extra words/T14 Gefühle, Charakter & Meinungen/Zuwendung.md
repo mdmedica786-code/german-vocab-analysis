@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zuwendung.ogg]]
 
+![[Zuwendung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zuwendung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zuwendung&language=de)
 
 **Meaning:** attention; affection; grant

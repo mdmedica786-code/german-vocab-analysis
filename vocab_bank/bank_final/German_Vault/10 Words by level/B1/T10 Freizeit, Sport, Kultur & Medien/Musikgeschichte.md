@@ -24,6 +24,8 @@ status: "new"
 
 ![[Musikgeschichte.ogg]]
 
+![[Musikgeschichte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Musikgeschichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikgeschichte&language=de)
 
 **Meaning:** history of music

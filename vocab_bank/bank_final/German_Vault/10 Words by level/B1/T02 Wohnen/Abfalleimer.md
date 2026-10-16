@@ -24,6 +24,8 @@ status: "new"
 
 ![[Abfalleimer.ogg]]
 
+![[Abfalleimer.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abfalleimer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abfalleimer&language=de)
 
 **Meaning:** waste bin

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Beweglichkeit.ogg]]
 
+![[Beweglichkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beweglichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beweglichkeit&language=de)
 
 **Meaning:** mobility; flexibility

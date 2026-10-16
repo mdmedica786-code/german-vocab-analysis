@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gegendarstellung.ogg]]
 
+![[Gegendarstellung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gegendarstellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegendarstellung&language=de)
 
 **Meaning:** right of reply; counter-statement

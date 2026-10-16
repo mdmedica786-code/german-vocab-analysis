@@ -23,6 +23,8 @@ status: "new"
 
 ![[Beglaubigung.ogg]]
 
+![[Beglaubigung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beglaubigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beglaubigung&language=de)
 
 **Meaning:** certification (of a document)

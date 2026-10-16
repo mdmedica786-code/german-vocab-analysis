@@ -23,6 +23,8 @@ status: "new"
 
 ![[Windpark.ogg]]
 
+![[Windpark.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Windpark/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Windpark&language=de)
 
 **Meaning:** wind farm

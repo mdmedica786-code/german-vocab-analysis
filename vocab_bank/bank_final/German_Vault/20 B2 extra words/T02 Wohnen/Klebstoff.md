@@ -23,6 +23,8 @@ status: "new"
 
 ![[Klebstoff.ogg]]
 
+![[Klebstoff.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Klebstoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klebstoff&language=de)
 
 **Meaning:** glue; adhesive

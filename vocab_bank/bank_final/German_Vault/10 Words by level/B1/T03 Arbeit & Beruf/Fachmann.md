@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fachmann.ogg]]
 
+![[Fachmann.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fachmann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachmann&language=de)
 
 **Meaning:** expert (m)

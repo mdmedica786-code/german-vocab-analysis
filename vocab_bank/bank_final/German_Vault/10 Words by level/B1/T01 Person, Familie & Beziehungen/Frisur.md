@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Frisur
 
+![[Frisur.jpg]]
+
 ![[Frisur.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Frisur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frisur&language=de)

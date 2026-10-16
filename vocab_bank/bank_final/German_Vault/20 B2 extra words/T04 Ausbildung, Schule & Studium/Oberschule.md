@@ -23,6 +23,8 @@ status: "new"
 
 ![[Oberschule.ogg]]
 
+![[Oberschule.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Oberschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oberschule&language=de)
 
 **Meaning:** secondary school (in some German states)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Handball.ogg]]
 
+![[Handball.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Handball/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handball&language=de)
 
 **Meaning:** handball

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Berufsschule
 
+![[Berufsschule.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Berufsschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufsschule&language=de)
 
 **Meaning:** vocational school

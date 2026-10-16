@@ -25,6 +25,8 @@ status: "new"
 
 ![[Spielzeug.ogg]]
 
+![[Spielzeug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spielzeug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spielzeug&language=de)
 
 **Meaning:** toy

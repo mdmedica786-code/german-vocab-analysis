@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Luftfeuchtigkeit
 
+![[Luftfeuchtigkeit.jpg]]
+
 ![[Luftfeuchtigkeit.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Luftfeuchtigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luftfeuchtigkeit&language=de)

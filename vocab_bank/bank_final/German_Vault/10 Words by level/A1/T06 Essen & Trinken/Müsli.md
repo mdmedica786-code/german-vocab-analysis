@@ -24,6 +24,8 @@ status: "new"
 
 ![[Müsli.ogg]]
 
+![[Müsli.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCsli/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCsli&language=de)
 
 **Meaning:** muesli

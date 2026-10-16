@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Weihnachten
 
+![[Weihnachten.jpg]]
+
 ![[Weihnachten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Weihnachten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weihnachten&language=de)

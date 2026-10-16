@@ -25,6 +25,8 @@ status: "new"
 
 ![[Bibliothek.ogg]]
 
+![[Bibliothek.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bibliothek/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bibliothek&language=de)
 
 **Meaning:** library

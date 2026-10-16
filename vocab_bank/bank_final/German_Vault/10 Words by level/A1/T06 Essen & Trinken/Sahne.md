@@ -25,6 +25,8 @@ status: "new"
 
 ![[Sahne.ogg]]
 
+![[Sahne.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sahne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sahne&language=de)
 
 **Meaning:** cream

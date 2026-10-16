@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hausschuh.ogg]]
 
+![[Hausschuh.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hausschuh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausschuh&language=de)
 
 **Meaning:** slipper

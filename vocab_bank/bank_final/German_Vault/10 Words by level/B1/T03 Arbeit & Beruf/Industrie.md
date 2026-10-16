@@ -25,6 +25,8 @@ status: "new"
 
 ![[Industrie.ogg]]
 
+![[Industrie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Industrie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Industrie&language=de)
 
 **Meaning:** industry

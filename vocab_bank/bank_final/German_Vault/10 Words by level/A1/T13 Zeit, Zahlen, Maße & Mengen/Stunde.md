@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Stunde
 
+![[Stunde.jpg]]
+
 ![[Stunde.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Stunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stunde&language=de)

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Zahnärztin
 
+![[Zahnärztin.jpg]]
+
 ![[Zahnärztin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zahn%C3%A4rztin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahn%C3%A4rztin&language=de)

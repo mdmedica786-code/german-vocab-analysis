@@ -24,6 +24,8 @@ status: "new"
 
 ![[Elternzeit.ogg]]
 
+![[Elternzeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Elternzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elternzeit&language=de)
 
 **Meaning:** parental leave

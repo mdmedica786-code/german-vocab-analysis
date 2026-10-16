@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verständigung.ogg]]
 
+![[Verständigung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verst%C3%A4ndigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verst%C3%A4ndigung&language=de)
 
 **Meaning:** communication; understanding

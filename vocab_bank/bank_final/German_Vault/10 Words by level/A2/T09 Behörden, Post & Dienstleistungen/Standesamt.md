@@ -24,6 +24,8 @@ status: "new"
 
 ![[Standesamt.ogg]]
 
+![[Standesamt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Standesamt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Standesamt&language=de)
 
 **Meaning:** registrar's office

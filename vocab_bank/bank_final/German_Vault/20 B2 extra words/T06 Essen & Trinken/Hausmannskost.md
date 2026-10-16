@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hausmannskost.ogg]]
 
+![[Hausmannskost.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hausmannskost/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausmannskost&language=de)
 
 **Meaning:** plain home cooking

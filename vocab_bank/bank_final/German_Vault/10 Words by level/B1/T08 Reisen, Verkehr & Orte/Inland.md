@@ -24,6 +24,8 @@ status: "new"
 
 ![[Inland.ogg]]
 
+![[Inland.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Inland/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Inland&language=de)
 
 **Meaning:** home country; domestic

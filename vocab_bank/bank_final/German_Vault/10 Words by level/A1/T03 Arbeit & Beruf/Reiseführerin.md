@@ -24,6 +24,8 @@ status: "new"
 
 ![[Reiseführerin.ogg]]
 
+![[Reiseführerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reisef%C3%BChrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reisef%C3%BChrerin&language=de)
 
 **Meaning:** tour guide (f)

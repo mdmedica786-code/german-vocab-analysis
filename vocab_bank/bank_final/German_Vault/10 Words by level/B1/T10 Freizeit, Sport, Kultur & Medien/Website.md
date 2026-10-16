@@ -23,6 +23,8 @@ status: "new"
 
 ![[Website.ogg]]
 
+![[Website.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Website/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Website&language=de)
 
 **Meaning:** website

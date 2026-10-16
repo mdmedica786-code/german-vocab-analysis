@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gebühr.ogg]]
 
+![[Gebühr.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geb%C3%BChr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geb%C3%BChr&language=de)
 
 **Meaning:** fee

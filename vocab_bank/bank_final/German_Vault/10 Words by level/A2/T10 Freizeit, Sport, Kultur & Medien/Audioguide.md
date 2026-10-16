@@ -24,6 +24,8 @@ status: "new"
 
 ![[Audioguide.ogg]]
 
+![[Audioguide.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Audioguide/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Audioguide&language=de)
 
 **Meaning:** audio guide

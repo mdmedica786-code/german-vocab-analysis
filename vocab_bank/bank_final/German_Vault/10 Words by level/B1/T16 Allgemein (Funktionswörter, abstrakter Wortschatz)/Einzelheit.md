@@ -25,6 +25,8 @@ status: "new"
 
 ![[Einzelheit.ogg]]
 
+![[Einzelheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einzelheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einzelheit&language=de)
 
 **Meaning:** detail

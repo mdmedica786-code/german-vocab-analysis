@@ -23,6 +23,8 @@ status: "new"
 
 ![[Parkgebühr.ogg]]
 
+![[Parkgebühr.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Parkgeb%C3%BChr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parkgeb%C3%BChr&language=de)
 
 **Meaning:** parking fee

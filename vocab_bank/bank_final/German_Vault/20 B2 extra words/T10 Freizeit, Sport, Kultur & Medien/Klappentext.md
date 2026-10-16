@@ -23,6 +23,8 @@ status: "new"
 
 ![[Klappentext.ogg]]
 
+![[Klappentext.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Klappentext/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klappentext&language=de)
 
 **Meaning:** blurb

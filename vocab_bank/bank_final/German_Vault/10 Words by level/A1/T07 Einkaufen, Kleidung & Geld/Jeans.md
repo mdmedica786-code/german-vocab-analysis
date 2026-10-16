@@ -25,6 +25,8 @@ status: "new"
 
 ![[Jeans.ogg]]
 
+![[Jeans.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Jeans/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jeans&language=de)
 
 **Meaning:** jeans

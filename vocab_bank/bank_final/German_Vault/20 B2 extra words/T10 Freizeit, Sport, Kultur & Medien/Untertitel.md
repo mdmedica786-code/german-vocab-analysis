@@ -23,6 +23,8 @@ status: "new"
 
 ![[Untertitel.ogg]]
 
+![[Untertitel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Untertitel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Untertitel&language=de)
 
 **Meaning:** subtitle

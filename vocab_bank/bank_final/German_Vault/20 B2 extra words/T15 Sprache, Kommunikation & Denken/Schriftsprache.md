@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schriftsprache.ogg]]
 
+![[Schriftsprache.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schriftsprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schriftsprache&language=de)
 
 **Meaning:** written language; standard written language

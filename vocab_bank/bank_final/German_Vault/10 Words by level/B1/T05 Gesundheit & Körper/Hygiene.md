@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Hygiene
 
+![[Hygiene.jpg]]
+
 ![[Hygiene.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hygiene/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hygiene&language=de)

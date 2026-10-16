@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Cloud
 
+![[Cloud.jpg]]
+
 ![[Cloud.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Cloud/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Cloud&language=de)

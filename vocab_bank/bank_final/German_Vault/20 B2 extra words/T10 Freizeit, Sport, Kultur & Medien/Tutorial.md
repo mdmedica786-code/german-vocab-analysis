@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tutorial.ogg]]
 
+![[Tutorial.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tutorial/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tutorial&language=de)
 
 **Meaning:** tutorial

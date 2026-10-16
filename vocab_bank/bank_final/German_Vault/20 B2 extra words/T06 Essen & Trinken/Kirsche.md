@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kirsche.ogg]]
 
+![[Kirsche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kirsche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kirsche&language=de)
 
 **Meaning:** cherry

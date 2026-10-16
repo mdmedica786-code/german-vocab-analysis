@@ -23,6 +23,8 @@ status: "new"
 
 ![[Knoblauch.ogg]]
 
+![[Knoblauch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Knoblauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Knoblauch&language=de)
 
 **Meaning:** garlic

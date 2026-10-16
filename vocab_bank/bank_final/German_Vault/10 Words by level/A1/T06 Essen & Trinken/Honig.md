@@ -25,6 +25,8 @@ status: "new"
 
 ![[Honig.ogg]]
 
+![[Honig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Honig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Honig&language=de)
 
 **Meaning:** honey

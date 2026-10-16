@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sonnenlicht.ogg]]
 
+![[Sonnenlicht.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sonnenlicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnenlicht&language=de)
 
 **Meaning:** sunlight

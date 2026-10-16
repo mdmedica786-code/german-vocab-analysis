@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rollenspiel.ogg]]
 
+![[Rollenspiel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rollenspiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rollenspiel&language=de)
 
 **Meaning:** role play; role-playing game

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Parteitag.ogg]]
 
+![[Parteitag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Parteitag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parteitag&language=de)
 
 **Meaning:** party conference

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rippe.ogg]]
 
+![[Rippe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rippe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rippe&language=de)
 
 **Meaning:** rib

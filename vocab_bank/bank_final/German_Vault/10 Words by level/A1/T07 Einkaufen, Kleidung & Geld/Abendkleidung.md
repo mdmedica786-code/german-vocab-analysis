@@ -24,6 +24,8 @@ status: "new"
 
 ![[Abendkleidung.ogg]]
 
+![[Abendkleidung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abendkleidung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abendkleidung&language=de)
 
 **Meaning:** evening wear

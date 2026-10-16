@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Mund
 
+![[Mund.png]]
+
 ![[Mund.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Mund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mund&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Klebeband.ogg]]
 
+![[Klebeband.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Klebeband/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klebeband&language=de)
 
 **Meaning:** adhesive tape

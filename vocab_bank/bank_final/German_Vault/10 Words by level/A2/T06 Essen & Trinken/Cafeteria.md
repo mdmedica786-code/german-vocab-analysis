@@ -25,6 +25,8 @@ status: "new"
 
 ![[Cafeteria.ogg]]
 
+![[Cafeteria.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Cafeteria/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Cafeteria&language=de)
 
 **Meaning:** cafeteria

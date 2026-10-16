@@ -23,6 +23,8 @@ status: "new"
 
 ![[Nachbarschaftshilfe.ogg]]
 
+![[Nachbarschaftshilfe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachbarschaftshilfe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachbarschaftshilfe&language=de)
 
 **Meaning:** neighbourly help

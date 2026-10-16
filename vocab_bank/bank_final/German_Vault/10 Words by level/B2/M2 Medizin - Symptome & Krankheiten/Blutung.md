@@ -23,6 +23,8 @@ status: "new"
 
 ![[Blutung.ogg]]
 
+![[Blutung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Blutung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blutung&language=de)
 
 **Meaning:** bleeding

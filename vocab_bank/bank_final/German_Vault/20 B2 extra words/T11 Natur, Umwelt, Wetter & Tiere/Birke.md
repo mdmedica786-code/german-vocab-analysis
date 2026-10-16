@@ -23,6 +23,8 @@ status: "new"
 
 ![[Birke.ogg]]
 
+![[Birke.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Birke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Birke&language=de)
 
 **Meaning:** birch

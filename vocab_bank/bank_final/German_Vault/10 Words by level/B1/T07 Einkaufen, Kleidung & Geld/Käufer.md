@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Käufer
 
+![[Käufer.png]]
+
 ![[Käufer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4ufer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4ufer&language=de)

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Chemie
 
+![[Chemie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Chemie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chemie&language=de)
 
 **Meaning:** chemistry

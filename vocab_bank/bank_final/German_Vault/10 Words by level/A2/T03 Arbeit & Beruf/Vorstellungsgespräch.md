@@ -25,6 +25,8 @@ status: "new"
 
 ![[Vorstellungsgespräch.ogg]]
 
+![[Vorstellungsgespräch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vorstellungsgespr%C3%A4ch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorstellungsgespr%C3%A4ch&language=de)
 
 **Meaning:** job interview

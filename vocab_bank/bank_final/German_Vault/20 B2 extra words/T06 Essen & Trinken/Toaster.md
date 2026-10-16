@@ -23,6 +23,8 @@ status: "new"
 
 ![[Toaster.ogg]]
 
+![[Toaster.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Toaster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Toaster&language=de)
 
 **Meaning:** toaster

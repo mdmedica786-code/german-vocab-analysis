@@ -23,6 +23,8 @@ status: "new"
 
 ![[Buslinie.ogg]]
 
+![[Buslinie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Buslinie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buslinie&language=de)
 
 **Meaning:** bus route; bus line

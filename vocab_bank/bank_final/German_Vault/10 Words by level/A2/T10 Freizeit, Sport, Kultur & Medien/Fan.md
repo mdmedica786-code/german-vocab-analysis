@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fan.ogg]]
 
+![[Fan.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fan&language=de)
 
 **Meaning:** fan

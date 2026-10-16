@@ -25,6 +25,8 @@ status: "new"
 
 ![[Dessert.ogg]]
 
+![[Dessert.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dessert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dessert&language=de)
 
 **Meaning:** dessert

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Gelenk
 
+![[Gelenk.png]]
+
 ![[Gelenk.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gelenk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gelenk&language=de)

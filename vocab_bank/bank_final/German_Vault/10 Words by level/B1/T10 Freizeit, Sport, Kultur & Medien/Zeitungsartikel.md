@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zeitungsartikel.ogg]]
 
+![[Zeitungsartikel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zeitungsartikel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitungsartikel&language=de)
 
 **Meaning:** newspaper article

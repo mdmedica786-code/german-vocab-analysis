@@ -23,6 +23,8 @@ status: "new"
 
 ![[Erkrankung.ogg]]
 
+![[Erkrankung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erkrankung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erkrankung&language=de)
 
 **Meaning:** illness; disease

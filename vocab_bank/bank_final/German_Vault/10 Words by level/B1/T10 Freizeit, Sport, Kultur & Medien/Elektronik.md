@@ -24,6 +24,8 @@ status: "new"
 
 ![[Elektronik.ogg]]
 
+![[Elektronik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Elektronik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elektronik&language=de)
 
 **Meaning:** electronics

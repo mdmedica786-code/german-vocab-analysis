@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mülldeponie.ogg]]
 
+![[Mülldeponie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%BClldeponie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BClldeponie&language=de)
 
 **Meaning:** landfill

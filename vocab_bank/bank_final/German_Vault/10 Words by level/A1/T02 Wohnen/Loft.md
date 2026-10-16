@@ -24,6 +24,8 @@ status: "new"
 
 ![[Loft.ogg]]
 
+![[Loft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Loft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Loft&language=de)
 
 **Meaning:** loft

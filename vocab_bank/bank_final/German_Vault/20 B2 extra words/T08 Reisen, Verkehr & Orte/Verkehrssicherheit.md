@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verkehrssicherheit.ogg]]
 
+![[Verkehrssicherheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verkehrssicherheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrssicherheit&language=de)
 
 **Meaning:** road safety

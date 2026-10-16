@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Monokultur
 
+![[Monokultur.jpg]]
+
 ![[Monokultur.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Monokultur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Monokultur&language=de)

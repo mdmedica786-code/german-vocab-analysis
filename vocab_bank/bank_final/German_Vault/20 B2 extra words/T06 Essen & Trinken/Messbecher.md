@@ -23,6 +23,8 @@ status: "new"
 
 ![[Messbecher.ogg]]
 
+![[Messbecher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Messbecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Messbecher&language=de)
 
 **Meaning:** measuring jug

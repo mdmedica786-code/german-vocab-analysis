@@ -23,6 +23,8 @@ status: "new"
 
 ![[Häuserblock.ogg]]
 
+![[Häuserblock.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%A4userblock/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%A4userblock&language=de)
 
 **Meaning:** block of houses; city block

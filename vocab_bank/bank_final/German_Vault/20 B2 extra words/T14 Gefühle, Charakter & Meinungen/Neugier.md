@@ -23,6 +23,8 @@ status: "new"
 
 ![[Neugier.ogg]]
 
+![[Neugier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Neugier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neugier&language=de)
 
 **Meaning:** curiosity

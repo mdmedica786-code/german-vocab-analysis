@@ -24,6 +24,8 @@ status: "new"
 
 ![[Warenkorb.ogg]]
 
+![[Warenkorb.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Warenkorb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Warenkorb&language=de)
 
 **Meaning:** shopping cart

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Pille.ogg]]
 
+![[Pille.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pille/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pille&language=de)
 
 **Meaning:** pill

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Eisenbahn
 
+![[Eisenbahn.jpg]]
+
 ![[Eisenbahn.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Eisenbahn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eisenbahn&language=de)

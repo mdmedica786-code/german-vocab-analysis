@@ -24,6 +24,8 @@ status: "new"
 
 ![[Disko.ogg]]
 
+![[Disko.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Disko/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Disko&language=de)
 
 **Meaning:** disco

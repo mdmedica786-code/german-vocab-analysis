@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schwan.ogg]]
 
+![[Schwan.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schwan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwan&language=de)
 
 **Meaning:** swan

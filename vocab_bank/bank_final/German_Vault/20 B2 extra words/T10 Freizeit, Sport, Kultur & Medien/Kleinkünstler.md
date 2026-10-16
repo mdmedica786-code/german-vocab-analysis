@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kleinkünstler.ogg]]
 
+![[Kleinkünstler.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kleink%C3%BCnstler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleink%C3%BCnstler&language=de)
 
 **Meaning:** cabaret performer; small-stage artist (male)

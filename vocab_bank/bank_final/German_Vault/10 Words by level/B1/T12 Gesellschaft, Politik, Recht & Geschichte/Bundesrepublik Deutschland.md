@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bundesrepublik Deutschland.ogg]]
 
+![[Bundesrepublik Deutschland.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bundesrepublik%20Deutschland/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundesrepublik%20Deutschland&language=de)
 
 **Meaning:** Federal Republic of Germany

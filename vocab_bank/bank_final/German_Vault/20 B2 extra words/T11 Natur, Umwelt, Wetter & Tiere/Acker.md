@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Acker
 
+![[Acker.jpg]]
+
 ![[Acker.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Acker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Acker&language=de)

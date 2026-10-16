@@ -24,6 +24,8 @@ status: "new"
 
 ![[Gedächtnis.ogg]]
 
+![[Gedächtnis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ged%C3%A4chtnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ged%C3%A4chtnis&language=de)
 
 **Meaning:** memory

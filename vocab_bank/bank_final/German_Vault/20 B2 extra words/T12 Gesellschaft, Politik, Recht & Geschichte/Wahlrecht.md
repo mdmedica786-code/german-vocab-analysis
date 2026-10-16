@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wahlrecht.ogg]]
 
+![[Wahlrecht.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wahlrecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahlrecht&language=de)
 
 **Meaning:** right to vote; electoral law

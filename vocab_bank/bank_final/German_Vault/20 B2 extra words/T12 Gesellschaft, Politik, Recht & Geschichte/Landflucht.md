@@ -23,6 +23,8 @@ status: "new"
 
 ![[Landflucht.ogg]]
 
+![[Landflucht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Landflucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Landflucht&language=de)
 
 **Meaning:** rural exodus

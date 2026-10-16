@@ -24,6 +24,8 @@ status: "new"
 
 ![[Analyse.ogg]]
 
+![[Analyse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Analyse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Analyse&language=de)
 
 **Meaning:** analysis

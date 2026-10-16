@@ -24,6 +24,8 @@ status: "new"
 
 ![[Krisensituation.ogg]]
 
+![[Krisensituation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krisensituation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krisensituation&language=de)
 
 **Meaning:** crisis (situation)

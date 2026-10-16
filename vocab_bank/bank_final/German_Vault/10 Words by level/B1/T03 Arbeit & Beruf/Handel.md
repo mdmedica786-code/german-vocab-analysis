@@ -24,6 +24,8 @@ status: "new"
 
 ![[Handel.ogg]]
 
+![[Handel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Handel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handel&language=de)
 
 **Meaning:** trade; commerce

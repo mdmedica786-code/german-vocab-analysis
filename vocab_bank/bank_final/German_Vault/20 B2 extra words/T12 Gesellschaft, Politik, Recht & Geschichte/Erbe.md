@@ -23,6 +23,8 @@ status: "new"
 
 ![[Erbe.ogg]]
 
+![[Erbe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erbe&language=de)
 
 **Meaning:** inheritance; legacy

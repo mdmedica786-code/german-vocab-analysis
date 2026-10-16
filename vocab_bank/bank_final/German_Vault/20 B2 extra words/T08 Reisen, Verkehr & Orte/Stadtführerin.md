@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stadtführerin.ogg]]
 
+![[Stadtführerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stadtf%C3%BChrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtf%C3%BChrerin&language=de)
 
 **Meaning:** city guide (female)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Naturkatastrophe.ogg]]
 
+![[Naturkatastrophe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Naturkatastrophe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Naturkatastrophe&language=de)
 
 **Meaning:** natural disaster

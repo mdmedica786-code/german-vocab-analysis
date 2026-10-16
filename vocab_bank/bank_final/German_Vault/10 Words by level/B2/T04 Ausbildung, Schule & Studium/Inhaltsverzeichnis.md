@@ -23,6 +23,8 @@ status: "new"
 
 ![[Inhaltsverzeichnis.ogg]]
 
+![[Inhaltsverzeichnis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Inhaltsverzeichnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Inhaltsverzeichnis&language=de)
 
 **Meaning:** table of contents

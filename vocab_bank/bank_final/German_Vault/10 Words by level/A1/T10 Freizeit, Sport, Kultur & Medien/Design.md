@@ -24,6 +24,8 @@ status: "new"
 
 ![[Design.ogg]]
 
+![[Design.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Design/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Design&language=de)
 
 **Meaning:** design

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Wildschwein
 
+![[Wildschwein.jpg]]
+
 ![[Wildschwein.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wildschwein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wildschwein&language=de)

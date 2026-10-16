@@ -24,6 +24,8 @@ status: "new"
 
 ![[Camping.ogg]]
 
+![[Camping.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Camping/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Camping&language=de)
 
 **Meaning:** camping

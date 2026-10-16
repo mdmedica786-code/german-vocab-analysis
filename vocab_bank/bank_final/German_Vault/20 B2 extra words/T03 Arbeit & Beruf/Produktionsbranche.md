@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Produktionsbranche
 
+![[Produktionsbranche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Produktionsbranche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Produktionsbranche&language=de)
 
 **Meaning:** manufacturing industry

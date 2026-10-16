@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Schere
 
+![[Schere.jpg]]
+
 ![[Schere.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schere&language=de)

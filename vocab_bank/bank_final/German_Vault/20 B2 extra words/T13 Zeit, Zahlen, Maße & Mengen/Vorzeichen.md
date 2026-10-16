@@ -23,6 +23,8 @@ status: "new"
 
 ![[Vorzeichen.ogg]]
 
+![[Vorzeichen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vorzeichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorzeichen&language=de)
 
 **Meaning:** sign (maths); omen; indication

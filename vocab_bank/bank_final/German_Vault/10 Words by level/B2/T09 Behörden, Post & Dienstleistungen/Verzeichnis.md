@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verzeichnis.ogg]]
 
+![[Verzeichnis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verzeichnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verzeichnis&language=de)
 
 **Meaning:** list; directory; index

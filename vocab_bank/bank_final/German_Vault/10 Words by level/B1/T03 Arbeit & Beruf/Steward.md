@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Steward
 
+![[Steward.jpg]]
+
 ![[Steward.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Steward/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Steward&language=de)

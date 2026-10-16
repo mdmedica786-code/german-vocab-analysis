@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wärme.ogg]]
 
+![[Wärme.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/W%C3%A4rme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%A4rme&language=de)
 
 **Meaning:** warmth; heat

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Vorfahrt.ogg]]
 
+![[Vorfahrt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vorfahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorfahrt&language=de)
 
 **Meaning:** right of way

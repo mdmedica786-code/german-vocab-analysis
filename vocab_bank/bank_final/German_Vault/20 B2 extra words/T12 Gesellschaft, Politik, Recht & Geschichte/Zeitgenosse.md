@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zeitgenosse.ogg]]
 
+![[Zeitgenosse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zeitgenosse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitgenosse&language=de)
 
 **Meaning:** contemporary; (sometimes humorous) character; person

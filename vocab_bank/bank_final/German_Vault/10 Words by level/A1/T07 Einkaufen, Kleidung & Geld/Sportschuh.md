@@ -24,6 +24,8 @@ status: "new"
 
 ![[Sportschuh.ogg]]
 
+![[Sportschuh.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sportschuh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportschuh&language=de)
 
 **Meaning:** sports shoe; trainer

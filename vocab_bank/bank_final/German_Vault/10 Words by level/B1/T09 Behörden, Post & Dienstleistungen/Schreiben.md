@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schreiben (836).ogg]]
 
+![[Schreiben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schreiben&language=de)
 
 **Meaning:** letter; written communication

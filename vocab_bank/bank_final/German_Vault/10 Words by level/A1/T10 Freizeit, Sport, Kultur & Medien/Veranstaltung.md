@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Veranstaltung
 
+![[Veranstaltung.jpg]]
+
 ![[Veranstaltung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Veranstaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Veranstaltung&language=de)

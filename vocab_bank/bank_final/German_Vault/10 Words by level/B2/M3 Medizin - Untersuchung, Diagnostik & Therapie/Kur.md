@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kur.ogg]]
 
+![[Kur.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kur&language=de)
 
 **Meaning:** spa treatment; cure

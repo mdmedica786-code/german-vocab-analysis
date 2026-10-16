@@ -26,6 +26,8 @@ status: "new"
 
 ![[Stiegenhaus.ogg]]
 
+![[Stiegenhaus.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stiegenhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stiegenhaus&language=de)
 
 **Meaning:** stairwell (Austrian)

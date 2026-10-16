@@ -25,6 +25,8 @@ status: "new"
 
 ![[Stockwerk.ogg]]
 
+![[Stockwerk.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stockwerk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stockwerk&language=de)
 
 **Meaning:** floor

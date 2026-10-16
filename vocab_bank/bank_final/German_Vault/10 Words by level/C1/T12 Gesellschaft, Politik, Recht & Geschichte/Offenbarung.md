@@ -23,6 +23,8 @@ status: "new"
 
 ![[Offenbarung.ogg]]
 
+![[Offenbarung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Offenbarung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Offenbarung&language=de)
 
 **Meaning:** revelation

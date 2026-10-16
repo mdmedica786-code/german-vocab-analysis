@@ -24,6 +24,8 @@ status: "new"
 
 ![[Busfahrerin.ogg]]
 
+![[Busfahrerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Busfahrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Busfahrerin&language=de)
 
 **Meaning:** bus driver (f)

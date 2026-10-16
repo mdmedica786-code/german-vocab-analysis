@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Schenkel
 
+![[Schenkel.jpg]]
+
 ![[Schenkel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schenkel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schenkel&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kilogramm.ogg]]
 
+![[Kilogramm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kilogramm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kilogramm&language=de)
 
 **Meaning:** kilogram

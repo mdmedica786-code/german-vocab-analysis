@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Hobby
 
+![[Hobby.jpg]]
+
 ![[Hobby.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hobby/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hobby&language=de)

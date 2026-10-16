@@ -23,6 +23,8 @@ status: "new"
 
 ![[Niedrigwasser.ogg]]
 
+![[Niedrigwasser.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Niedrigwasser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Niedrigwasser&language=de)
 
 **Meaning:** low water

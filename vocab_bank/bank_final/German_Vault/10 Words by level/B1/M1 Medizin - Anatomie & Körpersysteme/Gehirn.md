@@ -24,6 +24,8 @@ status: "new"
 
 ![[Gehirn.ogg]]
 
+![[Gehirn.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gehirn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gehirn&language=de)
 
 **Meaning:** brain

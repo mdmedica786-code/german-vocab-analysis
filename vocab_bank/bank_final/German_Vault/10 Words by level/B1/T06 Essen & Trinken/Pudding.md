@@ -24,6 +24,8 @@ status: "new"
 
 ![[Pudding.ogg]]
 
+![[Pudding.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pudding/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pudding&language=de)
 
 **Meaning:** pudding

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Backpapier.ogg]]
 
+![[Backpapier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Backpapier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Backpapier&language=de)
 
 **Meaning:** baking paper

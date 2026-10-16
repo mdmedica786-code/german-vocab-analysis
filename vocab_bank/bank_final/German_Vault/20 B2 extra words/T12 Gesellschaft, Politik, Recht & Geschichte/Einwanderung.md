@@ -23,6 +23,8 @@ status: "new"
 
 ![[Einwanderung.ogg]]
 
+![[Einwanderung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einwanderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einwanderung&language=de)
 
 **Meaning:** immigration

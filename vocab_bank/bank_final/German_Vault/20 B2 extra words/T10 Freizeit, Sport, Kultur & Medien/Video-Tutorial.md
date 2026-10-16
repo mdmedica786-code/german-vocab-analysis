@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Video-Tutorial
 
+![[Video-Tutorial.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Video-Tutorial/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Video-Tutorial&language=de)
 
 **Meaning:** video tutorial

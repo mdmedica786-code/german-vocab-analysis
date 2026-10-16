@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Problem
 
+![[Problem.png]]
+
 ![[Problem.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Problem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Problem&language=de)

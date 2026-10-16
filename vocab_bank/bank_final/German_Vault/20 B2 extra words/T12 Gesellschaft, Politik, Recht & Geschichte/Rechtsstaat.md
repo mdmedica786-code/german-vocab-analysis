@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rechtsstaat.ogg]]
 
+![[Rechtsstaat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rechtsstaat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechtsstaat&language=de)
 
 **Meaning:** state governed by the rule of law

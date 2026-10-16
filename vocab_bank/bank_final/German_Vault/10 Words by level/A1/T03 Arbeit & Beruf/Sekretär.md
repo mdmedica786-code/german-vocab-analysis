@@ -25,6 +25,8 @@ status: "new"
 
 ![[Sekretär.ogg]]
 
+![[Sekretär.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sekret%C3%A4r/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sekret%C3%A4r&language=de)
 
 **Meaning:** secretary (m)

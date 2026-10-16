@@ -24,6 +24,8 @@ status: "new"
 
 ![[Urlaubsort.ogg]]
 
+![[Urlaubsort.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Urlaubsort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urlaubsort&language=de)
 
 **Meaning:** holiday resort

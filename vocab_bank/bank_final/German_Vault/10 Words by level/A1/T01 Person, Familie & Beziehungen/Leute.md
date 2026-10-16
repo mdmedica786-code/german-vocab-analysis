@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Leute
 
+![[Leute.jpg]]
+
 ![[Leute.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Leute/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leute&language=de)

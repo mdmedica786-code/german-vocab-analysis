@@ -24,6 +24,8 @@ status: "new"
 
 ![[Putzfrau.ogg]]
 
+![[Putzfrau.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Putzfrau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Putzfrau&language=de)
 
 **Meaning:** cleaner (f)

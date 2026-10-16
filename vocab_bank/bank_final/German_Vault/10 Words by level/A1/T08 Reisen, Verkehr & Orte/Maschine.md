@@ -25,6 +25,8 @@ status: "new"
 
 ![[Maschine.ogg]]
 
+![[Maschine.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Maschine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Maschine&language=de)
 
 **Meaning:** machine; aeroplane

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Marienkäfer.ogg]]
 
+![[Marienkäfer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Marienk%C3%A4fer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marienk%C3%A4fer&language=de)
 
 **Meaning:** ladybird

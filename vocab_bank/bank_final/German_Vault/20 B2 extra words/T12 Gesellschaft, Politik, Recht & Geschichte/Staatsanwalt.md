@@ -23,6 +23,8 @@ status: "new"
 
 ![[Staatsanwalt.ogg]]
 
+![[Staatsanwalt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Staatsanwalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Staatsanwalt&language=de)
 
 **Meaning:** public prosecutor

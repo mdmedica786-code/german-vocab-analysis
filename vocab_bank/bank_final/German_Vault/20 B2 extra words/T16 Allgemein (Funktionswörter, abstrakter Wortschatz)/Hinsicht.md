@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hinsicht.ogg]]
 
+![[Hinsicht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hinsicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hinsicht&language=de)
 
 **Meaning:** respect; regard

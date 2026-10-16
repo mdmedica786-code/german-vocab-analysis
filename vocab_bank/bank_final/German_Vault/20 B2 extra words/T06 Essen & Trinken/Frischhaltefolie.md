@@ -23,6 +23,8 @@ status: "new"
 
 ![[Frischhaltefolie.ogg]]
 
+![[Frischhaltefolie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Frischhaltefolie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frischhaltefolie&language=de)
 
 **Meaning:** cling film

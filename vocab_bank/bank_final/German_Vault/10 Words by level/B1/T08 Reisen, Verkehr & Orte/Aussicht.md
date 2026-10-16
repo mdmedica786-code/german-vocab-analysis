@@ -25,6 +25,8 @@ status: "new"
 
 ![[Aussicht.ogg]]
 
+![[Aussicht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aussicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aussicht&language=de)
 
 **Meaning:** view

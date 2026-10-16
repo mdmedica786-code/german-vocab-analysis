@@ -23,6 +23,8 @@ status: "new"
 
 ![[Maurer.ogg]]
 
+![[Maurer.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Maurer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Maurer&language=de)
 
 **Meaning:** bricklayer

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kamerad.ogg]]
 
+![[Kamerad.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kamerad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kamerad&language=de)
 
 **Meaning:** comrade

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Golfspiel.ogg]]
 
+![[Golfspiel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Golfspiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Golfspiel&language=de)
 
 **Meaning:** game of golf

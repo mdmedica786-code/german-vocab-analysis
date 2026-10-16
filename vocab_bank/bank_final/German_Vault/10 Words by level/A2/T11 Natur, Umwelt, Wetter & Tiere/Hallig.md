@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hallig.ogg]]
 
+![[Hallig.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hallig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hallig&language=de)
 
 **Meaning:** hallig

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schatz.ogg]]
 
+![[Schatz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schatz&language=de)
 
 **Meaning:** treasure; darling

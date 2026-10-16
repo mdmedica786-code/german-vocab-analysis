@@ -23,6 +23,8 @@ status: "new"
 
 ![[Exponat.ogg]]
 
+![[Exponat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Exponat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Exponat&language=de)
 
 **Meaning:** exhibit

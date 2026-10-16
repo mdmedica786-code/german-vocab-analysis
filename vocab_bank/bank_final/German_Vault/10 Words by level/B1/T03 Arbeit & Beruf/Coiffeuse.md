@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Coiffeuse
 
+![[Coiffeuse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Coiffeuse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Coiffeuse&language=de)
 
 **Meaning:** hairdresser (f) (Swiss)

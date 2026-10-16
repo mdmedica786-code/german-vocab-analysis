@@ -24,6 +24,8 @@ status: "new"
 
 ![[Obdachlose.ogg]]
 
+![[Obdachlose.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Obdachlose/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Obdachlose&language=de)
 
 **Meaning:** homeless person

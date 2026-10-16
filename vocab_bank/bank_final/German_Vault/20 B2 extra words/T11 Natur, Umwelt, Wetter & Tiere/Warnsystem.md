@@ -23,6 +23,8 @@ status: "new"
 
 ![[Warnsystem.ogg]]
 
+![[Warnsystem.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Warnsystem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Warnsystem&language=de)
 
 **Meaning:** warning system

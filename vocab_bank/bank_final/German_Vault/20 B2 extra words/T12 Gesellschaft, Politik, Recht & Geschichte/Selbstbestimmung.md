@@ -23,6 +23,8 @@ status: "new"
 
 ![[Selbstbestimmung.ogg]]
 
+![[Selbstbestimmung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Selbstbestimmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Selbstbestimmung&language=de)
 
 **Meaning:** self-determination; autonomy

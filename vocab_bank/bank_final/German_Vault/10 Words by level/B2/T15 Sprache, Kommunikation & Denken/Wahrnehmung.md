@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wahrnehmung.ogg]]
 
+![[Wahrnehmung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wahrnehmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahrnehmung&language=de)
 
 **Meaning:** perception

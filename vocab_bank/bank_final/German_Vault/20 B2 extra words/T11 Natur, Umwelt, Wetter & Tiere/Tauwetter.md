@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tauwetter.ogg]]
 
+![[Tauwetter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tauwetter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tauwetter&language=de)
 
 **Meaning:** thaw

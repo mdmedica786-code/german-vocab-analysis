@@ -23,6 +23,8 @@ status: "new"
 
 ![[Heidelbeere.ogg]]
 
+![[Heidelbeere.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Heidelbeere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heidelbeere&language=de)
 
 **Meaning:** blueberry

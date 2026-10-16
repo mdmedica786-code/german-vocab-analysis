@@ -25,6 +25,8 @@ status: "new"
 
 ![[Jugendliche.ogg]]
 
+![[Jugendliche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Jugendliche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jugendliche&language=de)
 
 **Meaning:** teenager

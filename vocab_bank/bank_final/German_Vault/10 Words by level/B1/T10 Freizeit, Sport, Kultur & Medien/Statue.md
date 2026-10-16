@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Statue
 
+![[Statue.jpg]]
+
 ![[Statue.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Statue/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Statue&language=de)

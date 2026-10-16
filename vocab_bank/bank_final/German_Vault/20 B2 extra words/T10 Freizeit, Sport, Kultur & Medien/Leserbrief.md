@@ -23,6 +23,8 @@ status: "new"
 
 ![[Leserbrief.ogg]]
 
+![[Leserbrief.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Leserbrief/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leserbrief&language=de)
 
 **Meaning:** letter to the editor

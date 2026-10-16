@@ -24,6 +24,8 @@ status: "new"
 
 ![[Rahm.ogg]]
 
+![[Rahm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rahm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rahm&language=de)
 
 **Meaning:** cream (Swiss, S. German)

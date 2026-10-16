@@ -23,6 +23,8 @@ status: "new"
 
 ![[Offizier.ogg]]
 
+![[Offizier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Offizier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Offizier&language=de)
 
 **Meaning:** officer

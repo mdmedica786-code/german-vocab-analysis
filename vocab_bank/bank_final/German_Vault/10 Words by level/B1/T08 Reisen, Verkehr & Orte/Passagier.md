@@ -25,6 +25,8 @@ status: "new"
 
 ![[Passagier.ogg]]
 
+![[Passagier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Passagier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Passagier&language=de)
 
 **Meaning:** passenger (m)

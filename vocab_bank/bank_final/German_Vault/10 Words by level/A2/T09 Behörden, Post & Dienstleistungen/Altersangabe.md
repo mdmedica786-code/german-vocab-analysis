@@ -24,6 +24,8 @@ status: "new"
 
 ![[Altersangabe.ogg]]
 
+![[Altersangabe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Altersangabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altersangabe&language=de)
 
 **Meaning:** age statement

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Felsen.ogg]]
 
+![[Felsen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Felsen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Felsen&language=de)
 
 **Meaning:** rock; cliff

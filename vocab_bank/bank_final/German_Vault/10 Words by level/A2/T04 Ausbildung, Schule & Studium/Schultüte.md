@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schultüte.ogg]]
 
+![[Schultüte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schult%C3%BCte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schult%C3%BCte&language=de)
 
 **Meaning:** school cone (sweets given on the first day of school)

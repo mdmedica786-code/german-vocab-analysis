@@ -24,6 +24,8 @@ status: "new"
 
 ![[Liebesfilm.ogg]]
 
+![[Liebesfilm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Liebesfilm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Liebesfilm&language=de)
 
 **Meaning:** romantic film

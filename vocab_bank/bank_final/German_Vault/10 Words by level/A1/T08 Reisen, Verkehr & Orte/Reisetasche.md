@@ -24,6 +24,8 @@ status: "new"
 
 ![[Reisetasche.ogg]]
 
+![[Reisetasche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reisetasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reisetasche&language=de)
 
 **Meaning:** holdall

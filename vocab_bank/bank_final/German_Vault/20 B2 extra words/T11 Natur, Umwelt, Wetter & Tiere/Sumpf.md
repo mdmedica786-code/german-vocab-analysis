@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sumpf.ogg]]
 
+![[Sumpf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sumpf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sumpf&language=de)
 
 **Meaning:** swamp; marsh

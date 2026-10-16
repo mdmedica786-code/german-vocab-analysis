@@ -25,6 +25,8 @@ status: "new"
 
 ![[Studentin.ogg]]
 
+![[Studentin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Studentin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Studentin&language=de)
 
 **Meaning:** student (f)

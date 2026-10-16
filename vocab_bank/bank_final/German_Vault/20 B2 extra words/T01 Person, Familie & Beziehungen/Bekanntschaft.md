@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bekanntschaft.ogg]]
 
+![[Bekanntschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bekanntschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bekanntschaft&language=de)
 
 **Meaning:** acquaintance; getting to know someone

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hausordnung.ogg]]
 
+![[Hausordnung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hausordnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausordnung&language=de)
 
 **Meaning:** house rules

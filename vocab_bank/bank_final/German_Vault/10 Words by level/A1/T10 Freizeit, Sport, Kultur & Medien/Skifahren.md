@@ -24,6 +24,8 @@ status: "new"
 
 ![[Skifahren.ogg]]
 
+![[Skifahren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Skifahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Skifahren&language=de)
 
 **Meaning:** skiing

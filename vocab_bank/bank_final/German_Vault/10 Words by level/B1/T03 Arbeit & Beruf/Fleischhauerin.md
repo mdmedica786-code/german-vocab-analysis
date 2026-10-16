@@ -26,6 +26,8 @@ status: "new"
 
 ![[Fleischhauerin.ogg]]
 
+![[Fleischhauerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fleischhauerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fleischhauerin&language=de)
 
 **Meaning:** butcher (f) (Austrian)

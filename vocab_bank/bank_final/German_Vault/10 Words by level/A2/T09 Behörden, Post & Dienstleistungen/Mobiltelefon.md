@@ -25,6 +25,8 @@ status: "new"
 
 ![[Mobiltelefon.ogg]]
 
+![[Mobiltelefon.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mobiltelefon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mobiltelefon&language=de)
 
 **Meaning:** mobile telephone

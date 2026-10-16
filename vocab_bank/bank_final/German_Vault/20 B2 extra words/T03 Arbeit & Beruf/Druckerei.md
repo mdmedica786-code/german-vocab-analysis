@@ -23,6 +23,8 @@ status: "new"
 
 ![[Druckerei.ogg]]
 
+![[Druckerei.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Druckerei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Druckerei&language=de)
 
 **Meaning:** print shop; printing company

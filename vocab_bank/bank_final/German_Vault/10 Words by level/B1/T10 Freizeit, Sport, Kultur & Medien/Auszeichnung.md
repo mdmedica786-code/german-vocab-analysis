@@ -24,6 +24,8 @@ status: "new"
 
 ![[Auszeichnung.ogg]]
 
+![[Auszeichnung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Auszeichnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auszeichnung&language=de)
 
 **Meaning:** award

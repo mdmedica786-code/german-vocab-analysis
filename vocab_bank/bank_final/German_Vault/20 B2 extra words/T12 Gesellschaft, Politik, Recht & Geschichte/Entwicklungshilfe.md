@@ -23,6 +23,8 @@ status: "new"
 
 ![[Entwicklungshilfe.ogg]]
 
+![[Entwicklungshilfe.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Entwicklungshilfe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entwicklungshilfe&language=de)
 
 **Meaning:** development aid

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kupplung.ogg]]
 
+![[Kupplung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kupplung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kupplung&language=de)
 
 **Meaning:** clutch; coupling

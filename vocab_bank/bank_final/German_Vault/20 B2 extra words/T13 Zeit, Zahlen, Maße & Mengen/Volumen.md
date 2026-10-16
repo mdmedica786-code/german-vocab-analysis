@@ -23,6 +23,8 @@ status: "new"
 
 ![[Volumen.ogg]]
 
+![[Volumen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Volumen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Volumen&language=de)
 
 **Meaning:** volume

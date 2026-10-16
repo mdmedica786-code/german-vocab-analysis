@@ -24,6 +24,8 @@ status: "new"
 
 ![[Duschgel.ogg]]
 
+![[Duschgel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Duschgel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Duschgel&language=de)
 
 **Meaning:** shower gel

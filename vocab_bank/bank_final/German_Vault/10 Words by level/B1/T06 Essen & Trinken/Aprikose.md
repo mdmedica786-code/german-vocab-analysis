@@ -25,6 +25,8 @@ status: "new"
 
 ![[Aprikose.ogg]]
 
+![[Aprikose.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aprikose/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aprikose&language=de)
 
 **Meaning:** apricot

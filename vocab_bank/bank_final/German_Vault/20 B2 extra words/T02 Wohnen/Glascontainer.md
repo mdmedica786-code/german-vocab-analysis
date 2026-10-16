@@ -23,6 +23,8 @@ status: "new"
 
 ![[Glascontainer.ogg]]
 
+![[Glascontainer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Glascontainer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Glascontainer&language=de)
 
 **Meaning:** bottle bank

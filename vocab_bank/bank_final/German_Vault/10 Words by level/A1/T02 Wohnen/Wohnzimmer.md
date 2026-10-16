@@ -25,6 +25,8 @@ status: "new"
 
 ![[Wohnzimmer.ogg]]
 
+![[Wohnzimmer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wohnzimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnzimmer&language=de)
 
 **Meaning:** living room

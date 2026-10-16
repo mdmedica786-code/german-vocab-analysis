@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bergwerk.ogg]]
 
+![[Bergwerk.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bergwerk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bergwerk&language=de)
 
 **Meaning:** mine

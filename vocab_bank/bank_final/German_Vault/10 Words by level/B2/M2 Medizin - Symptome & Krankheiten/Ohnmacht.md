@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ohnmacht.ogg]]
 
+![[Ohnmacht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ohnmacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ohnmacht&language=de)
 
 **Meaning:** fainting; unconsciousness

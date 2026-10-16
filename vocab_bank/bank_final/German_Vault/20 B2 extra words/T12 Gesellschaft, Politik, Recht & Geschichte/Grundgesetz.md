@@ -23,6 +23,8 @@ status: "new"
 
 ![[Grundgesetz.ogg]]
 
+![[Grundgesetz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Grundgesetz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundgesetz&language=de)
 
 **Meaning:** Basic Law (German constitution)

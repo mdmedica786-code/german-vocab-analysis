@@ -23,6 +23,8 @@ status: "new"
 
 ![[Teppichboden.ogg]]
 
+![[Teppichboden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Teppichboden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teppichboden&language=de)
 
 **Meaning:** fitted carpet

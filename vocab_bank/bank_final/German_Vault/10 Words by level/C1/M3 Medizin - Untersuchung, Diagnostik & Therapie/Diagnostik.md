@@ -23,6 +23,8 @@ status: "new"
 
 ![[Diagnostik.ogg]]
 
+![[Diagnostik.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Diagnostik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diagnostik&language=de)
 
 **Meaning:** diagnostics

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Verbraucherin.ogg]]
 
+![[Verbraucherin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verbraucherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbraucherin&language=de)
 
 **Meaning:** consumer (f)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Outfit.ogg]]
 
+![[Outfit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Outfit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Outfit&language=de)
 
 **Meaning:** outfit

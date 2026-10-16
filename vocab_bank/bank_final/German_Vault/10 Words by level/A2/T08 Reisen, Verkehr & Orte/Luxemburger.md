@@ -24,6 +24,8 @@ status: "new"
 
 ![[Luxemburger.ogg]]
 
+![[Luxemburger.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Luxemburger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luxemburger&language=de)
 
 **Meaning:** Luxembourger (m)

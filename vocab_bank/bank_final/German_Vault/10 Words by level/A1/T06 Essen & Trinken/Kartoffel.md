@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Kartoffel
 
+![[Kartoffel.jpg]]
+
 ![[Kartoffel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kartoffel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kartoffel&language=de)

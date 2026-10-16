@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zweigstelle.ogg]]
 
+![[Zweigstelle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zweigstelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zweigstelle&language=de)
 
 **Meaning:** branch office

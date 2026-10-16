@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der See
 
+![[See.jpg]]
+
 ![[See.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/See/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=See&language=de)

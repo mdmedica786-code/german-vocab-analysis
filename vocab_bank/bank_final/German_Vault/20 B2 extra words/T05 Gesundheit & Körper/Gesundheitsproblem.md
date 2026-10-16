@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gesundheitsproblem.ogg]]
 
+![[Gesundheitsproblem.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesundheitsproblem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesundheitsproblem&language=de)
 
 **Meaning:** health problem

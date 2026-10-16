@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Zeh
 
+![[Zeh.png]]
+
 ![[Zeh.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zeh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeh&language=de)

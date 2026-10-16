@@ -25,6 +25,8 @@ status: "new"
 
 ![[Rabatt.ogg]]
 
+![[Rabatt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rabatt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rabatt&language=de)
 
 **Meaning:** discount

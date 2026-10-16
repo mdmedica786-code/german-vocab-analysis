@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Engel
 
+![[Engel.jpg]]
+
 ![[Engel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Engel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Engel&language=de)

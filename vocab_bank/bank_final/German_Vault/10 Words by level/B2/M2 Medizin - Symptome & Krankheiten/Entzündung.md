@@ -23,6 +23,8 @@ status: "new"
 
 ![[Entzündung.ogg]]
 
+![[Entzündung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Entz%C3%BCndung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entz%C3%BCndung&language=de)
 
 **Meaning:** inflammation

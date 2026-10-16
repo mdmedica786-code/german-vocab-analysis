@@ -23,6 +23,8 @@ status: "new"
 
 ![[Heftklammer.ogg]]
 
+![[Heftklammer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Heftklammer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heftklammer&language=de)
 
 **Meaning:** staple

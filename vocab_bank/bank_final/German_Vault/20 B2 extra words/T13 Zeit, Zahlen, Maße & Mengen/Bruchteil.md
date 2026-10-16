@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bruchteil.ogg]]
 
+![[Bruchteil.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bruchteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bruchteil&language=de)
 
 **Meaning:** fraction; tiny part

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Philosophie.ogg]]
 
+![[Philosophie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Philosophie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Philosophie&language=de)
 
 **Meaning:** philosophy

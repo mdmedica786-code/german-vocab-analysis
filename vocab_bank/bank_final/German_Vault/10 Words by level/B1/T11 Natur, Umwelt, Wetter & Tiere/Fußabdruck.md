@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fußabdruck.ogg]]
 
+![[Fußabdruck.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fabdruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fabdruck&language=de)
 
 **Meaning:** footprint

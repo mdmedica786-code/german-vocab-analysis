@@ -25,6 +25,8 @@ status: "new"
 
 ![[Markt.ogg]]
 
+![[Markt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Markt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Markt&language=de)
 
 **Meaning:** market

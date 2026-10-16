@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zartbitterschokolade.ogg]]
 
+![[Zartbitterschokolade.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zartbitterschokolade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zartbitterschokolade&language=de)
 
 **Meaning:** dark chocolate (plain)

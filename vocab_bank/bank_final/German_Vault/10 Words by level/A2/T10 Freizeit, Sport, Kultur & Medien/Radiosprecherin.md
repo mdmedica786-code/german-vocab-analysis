@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Radiosprecherin
 
+![[Radiosprecherin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Radiosprecherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radiosprecherin&language=de)
 
 **Meaning:** radio announcer (f)

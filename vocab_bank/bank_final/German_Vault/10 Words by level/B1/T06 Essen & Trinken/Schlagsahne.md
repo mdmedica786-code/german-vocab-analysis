@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schlagsahne.ogg]]
 
+![[Schlagsahne.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schlagsahne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlagsahne&language=de)
 
 **Meaning:** whipped cream

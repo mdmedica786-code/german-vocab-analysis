@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schwangerschaft.ogg]]
 
+![[Schwangerschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schwangerschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwangerschaft&language=de)
 
 **Meaning:** pregnancy

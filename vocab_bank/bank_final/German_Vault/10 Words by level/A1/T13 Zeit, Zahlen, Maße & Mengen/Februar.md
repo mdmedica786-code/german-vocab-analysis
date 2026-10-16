@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Februar
 
+![[Februar.png]]
+
 ![[Februar.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Februar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Februar&language=de)

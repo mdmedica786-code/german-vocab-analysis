@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ausbruch.ogg]]
 
+![[Ausbruch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ausbruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausbruch&language=de)
 
 **Meaning:** outbreak; eruption; escape

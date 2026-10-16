@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Schildkröte
 
+![[Schildkröte.jpg]]
+
 ![[Schildkröte.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schildkr%C3%B6te/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schildkr%C3%B6te&language=de)

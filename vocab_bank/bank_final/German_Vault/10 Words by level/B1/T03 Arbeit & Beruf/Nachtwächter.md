@@ -24,6 +24,8 @@ status: "new"
 
 ![[Nachtwächter.ogg]]
 
+![[Nachtwächter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachtw%C3%A4chter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachtw%C3%A4chter&language=de)
 
 **Meaning:** night watchman

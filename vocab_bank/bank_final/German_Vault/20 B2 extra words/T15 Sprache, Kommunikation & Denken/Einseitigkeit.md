@@ -23,6 +23,8 @@ status: "new"
 
 ![[Einseitigkeit.ogg]]
 
+![[Einseitigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einseitigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einseitigkeit&language=de)
 
 **Meaning:** one-sidedness

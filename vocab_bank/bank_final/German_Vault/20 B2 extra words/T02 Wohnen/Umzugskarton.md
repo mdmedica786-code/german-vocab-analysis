@@ -23,6 +23,8 @@ status: "new"
 
 ![[Umzugskarton.ogg]]
 
+![[Umzugskarton.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Umzugskarton/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umzugskarton&language=de)
 
 **Meaning:** moving box

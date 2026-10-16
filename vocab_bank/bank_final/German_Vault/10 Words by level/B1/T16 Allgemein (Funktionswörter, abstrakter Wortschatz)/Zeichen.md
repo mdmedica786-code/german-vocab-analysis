@@ -25,6 +25,8 @@ status: "new"
 
 ![[Zeichen.ogg]]
 
+![[Zeichen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zeichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeichen&language=de)
 
 **Meaning:** sign; symbol; character

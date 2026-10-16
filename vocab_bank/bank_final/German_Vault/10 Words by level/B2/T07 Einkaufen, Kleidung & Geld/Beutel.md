@@ -23,6 +23,8 @@ status: "new"
 
 ![[Beutel.ogg]]
 
+![[Beutel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beutel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beutel&language=de)
 
 **Meaning:** bag; pouch

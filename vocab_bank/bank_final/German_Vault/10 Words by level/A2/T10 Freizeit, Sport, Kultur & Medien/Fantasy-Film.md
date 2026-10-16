@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Fantasy-Film
 
+![[Fantasy-Film.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fantasy-Film/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fantasy-Film&language=de)
 
 **Meaning:** fantasy film

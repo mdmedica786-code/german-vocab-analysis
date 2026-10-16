@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wucht.ogg]]
 
+![[Wucht.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wucht&language=de)
 
 **Meaning:** force; impact; power

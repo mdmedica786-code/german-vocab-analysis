@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hühnchen.ogg]]
 
+![[Hühnchen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%BChnchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%BChnchen&language=de)
 
 **Meaning:** chicken

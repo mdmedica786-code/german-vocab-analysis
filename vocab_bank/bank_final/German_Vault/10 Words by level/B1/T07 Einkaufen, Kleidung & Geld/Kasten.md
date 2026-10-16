@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kasten.ogg]]
 
+![[Kasten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kasten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kasten&language=de)
 
 **Meaning:** box

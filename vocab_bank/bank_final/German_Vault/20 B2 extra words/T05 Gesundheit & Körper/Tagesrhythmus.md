@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tagesrhythmus.ogg]]
 
+![[Tagesrhythmus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tagesrhythmus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tagesrhythmus&language=de)
 
 **Meaning:** daily rhythm; daily routine

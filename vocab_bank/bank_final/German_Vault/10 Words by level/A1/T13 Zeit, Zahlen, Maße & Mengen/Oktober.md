@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Oktober
 
+![[Oktober.png]]
+
 ![[Oktober.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Oktober/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oktober&language=de)

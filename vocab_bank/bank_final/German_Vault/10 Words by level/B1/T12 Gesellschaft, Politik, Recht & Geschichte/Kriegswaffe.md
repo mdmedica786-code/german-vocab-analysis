@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kriegswaffe.ogg]]
 
+![[Kriegswaffe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kriegswaffe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kriegswaffe&language=de)
 
 **Meaning:** weapon of war

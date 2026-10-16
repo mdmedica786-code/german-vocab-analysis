@@ -25,6 +25,8 @@ status: "new"
 
 ![[Einzelzimmer.ogg]]
 
+![[Einzelzimmer.webp]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einzelzimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einzelzimmer&language=de)
 
 **Meaning:** single room

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kernpunkt.ogg]]
 
+![[Kernpunkt.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kernpunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kernpunkt&language=de)
 
 **Meaning:** crux; main point

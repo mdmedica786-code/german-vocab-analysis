@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Bahnhof
 
+![[Bahnhof.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bahnhof/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bahnhof&language=de)
 
 **Meaning:** train station

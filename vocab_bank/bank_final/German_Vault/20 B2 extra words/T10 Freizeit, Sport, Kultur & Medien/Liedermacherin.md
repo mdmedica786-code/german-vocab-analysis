@@ -23,6 +23,8 @@ status: "new"
 
 ![[Liedermacherin.ogg]]
 
+![[Liedermacherin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Liedermacherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Liedermacherin&language=de)
 
 **Meaning:** singer-songwriter (female)

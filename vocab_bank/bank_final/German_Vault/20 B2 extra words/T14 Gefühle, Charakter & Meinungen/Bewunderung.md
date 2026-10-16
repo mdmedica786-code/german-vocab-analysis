@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bewunderung.ogg]]
 
+![[Bewunderung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bewunderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bewunderung&language=de)
 
 **Meaning:** admiration

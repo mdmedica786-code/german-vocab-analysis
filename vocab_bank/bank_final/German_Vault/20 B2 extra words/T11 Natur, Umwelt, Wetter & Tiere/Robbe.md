@@ -23,6 +23,8 @@ status: "new"
 
 ![[Robbe.ogg]]
 
+![[Robbe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Robbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Robbe&language=de)
 
 **Meaning:** seal

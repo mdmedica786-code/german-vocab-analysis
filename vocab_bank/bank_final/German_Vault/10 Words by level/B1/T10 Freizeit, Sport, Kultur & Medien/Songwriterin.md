@@ -24,6 +24,8 @@ status: "new"
 
 ![[Songwriterin.ogg]]
 
+![[Songwriterin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Songwriterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Songwriterin&language=de)
 
 **Meaning:** songwriter (f)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hospital.ogg]]
 
+![[Hospital.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hospital/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hospital&language=de)
 
 **Meaning:** hospital (older/formal word)

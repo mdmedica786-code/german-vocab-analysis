@@ -23,6 +23,8 @@ status: "new"
 
 ![[Entscheidungsfindung.ogg]]
 
+![[Entscheidungsfindung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Entscheidungsfindung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entscheidungsfindung&language=de)
 
 **Meaning:** decision-making

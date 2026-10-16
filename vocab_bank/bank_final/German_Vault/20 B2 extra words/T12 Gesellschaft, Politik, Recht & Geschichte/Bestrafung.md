@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bestrafung.ogg]]
 
+![[Bestrafung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bestrafung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bestrafung&language=de)
 
 **Meaning:** punishment

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wiedergabe.ogg]]
 
+![[Wiedergabe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wiedergabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wiedergabe&language=de)
 
 **Meaning:** reproduction; playback; rendering

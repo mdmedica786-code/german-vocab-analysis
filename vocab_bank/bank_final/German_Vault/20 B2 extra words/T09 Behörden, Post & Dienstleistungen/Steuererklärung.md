@@ -23,6 +23,8 @@ status: "new"
 
 ![[Steuererklärung.ogg]]
 
+![[Steuererklärung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Steuererkl%C3%A4rung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Steuererkl%C3%A4rung&language=de)
 
 **Meaning:** tax return

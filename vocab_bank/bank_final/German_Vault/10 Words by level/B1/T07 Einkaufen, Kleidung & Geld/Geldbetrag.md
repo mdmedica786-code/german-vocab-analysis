@@ -24,6 +24,8 @@ status: "new"
 
 ![[Geldbetrag.ogg]]
 
+![[Geldbetrag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geldbetrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geldbetrag&language=de)
 
 **Meaning:** sum of money

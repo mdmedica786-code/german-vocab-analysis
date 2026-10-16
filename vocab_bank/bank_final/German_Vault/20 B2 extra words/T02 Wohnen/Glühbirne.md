@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Glühbirne
 
+![[Glühbirne.png]]
+
 ![[Glühbirne.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gl%C3%BChbirne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gl%C3%BChbirne&language=de)

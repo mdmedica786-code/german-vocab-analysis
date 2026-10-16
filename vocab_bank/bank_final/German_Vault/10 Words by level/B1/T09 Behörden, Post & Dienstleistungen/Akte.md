@@ -24,6 +24,8 @@ status: "new"
 
 ![[Akte.ogg]]
 
+![[Akte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Akte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Akte&language=de)
 
 **Meaning:** file; record

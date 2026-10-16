@@ -23,6 +23,8 @@ status: "new"
 
 ![[Formel.ogg]]
 
+![[Formel.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Formel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Formel&language=de)
 
 **Meaning:** formula

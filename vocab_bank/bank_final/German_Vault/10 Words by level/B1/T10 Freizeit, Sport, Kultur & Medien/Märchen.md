@@ -24,6 +24,8 @@ status: "new"
 
 ![[Märchen.ogg]]
 
+![[Märchen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%A4rchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%A4rchen&language=de)
 
 **Meaning:** fairy tale

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Solokünstlerin
 
+![[Solokünstlerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Solok%C3%BCnstlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Solok%C3%BCnstlerin&language=de)
 
 **Meaning:** solo artist (female)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Lernende.ogg]]
 
+![[Lernende.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lernende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernende&language=de)
 
 **Meaning:** learner

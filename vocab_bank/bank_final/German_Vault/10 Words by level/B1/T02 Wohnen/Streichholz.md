@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Streichholz
 
+![[Streichholz.jpg]]
+
 ![[Streichholz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Streichholz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Streichholz&language=de)

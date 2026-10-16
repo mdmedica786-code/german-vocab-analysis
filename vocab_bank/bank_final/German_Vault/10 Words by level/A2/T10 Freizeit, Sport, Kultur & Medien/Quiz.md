@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Quiz
 
+![[Quiz.jpg]]
+
 ![[Quiz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Quiz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Quiz&language=de)

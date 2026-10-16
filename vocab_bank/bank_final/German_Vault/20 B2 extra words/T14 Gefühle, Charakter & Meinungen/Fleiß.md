@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fleiß.ogg]]
 
+![[Fleiß.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Flei%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flei%C3%9F&language=de)
 
 **Meaning:** diligence; hard work

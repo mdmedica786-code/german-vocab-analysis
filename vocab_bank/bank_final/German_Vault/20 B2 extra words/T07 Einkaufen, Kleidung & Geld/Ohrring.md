@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Ohrring
 
+![[Ohrring.jpg]]
+
 ![[Ohrring.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Ohrring/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ohrring&language=de)

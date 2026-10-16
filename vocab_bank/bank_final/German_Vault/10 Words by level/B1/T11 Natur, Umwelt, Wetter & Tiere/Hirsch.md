@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hirsch.ogg]]
 
+![[Hirsch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hirsch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hirsch&language=de)
 
 **Meaning:** stag

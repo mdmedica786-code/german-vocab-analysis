@@ -25,6 +25,8 @@ status: "new"
 
 ![[Studio.ogg]]
 
+![[Studio.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Studio/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Studio&language=de)
 
 **Meaning:** studio

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Lampion.ogg]]
 
+![[Lampion.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lampion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lampion&language=de)
 
 **Meaning:** paper lantern

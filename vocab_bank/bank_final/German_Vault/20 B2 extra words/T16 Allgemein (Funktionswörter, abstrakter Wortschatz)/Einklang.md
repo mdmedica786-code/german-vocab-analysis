@@ -23,6 +23,8 @@ status: "new"
 
 ![[Einklang.ogg]]
 
+![[Einklang.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einklang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einklang&language=de)
 
 **Meaning:** harmony; accord

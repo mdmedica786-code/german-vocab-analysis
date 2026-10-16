@@ -23,6 +23,8 @@ status: "new"
 
 ![[Leinwand.ogg]]
 
+![[Leinwand.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Leinwand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leinwand&language=de)
 
 **Meaning:** screen (cinema); canvas

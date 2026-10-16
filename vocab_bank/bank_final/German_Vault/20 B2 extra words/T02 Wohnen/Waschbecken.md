@@ -23,6 +23,8 @@ status: "new"
 
 ![[Waschbecken.ogg]]
 
+![[Waschbecken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Waschbecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Waschbecken&language=de)
 
 **Meaning:** washbasin; sink

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Nachsicht.ogg]]
 
+![[Nachsicht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachsicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachsicht&language=de)
 
 **Meaning:** leniency; indulgence

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Afrika
 
+![[Afrika.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Afrika/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Afrika&language=de)
 
 **Meaning:** Africa

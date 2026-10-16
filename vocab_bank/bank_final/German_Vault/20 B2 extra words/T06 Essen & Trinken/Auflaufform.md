@@ -23,6 +23,8 @@ status: "new"
 
 ![[Auflaufform.ogg]]
 
+![[Auflaufform.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Auflaufform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auflaufform&language=de)
 
 **Meaning:** baking dish; casserole dish

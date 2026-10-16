@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hering.ogg]]
 
+![[Hering.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hering/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hering&language=de)
 
 **Meaning:** herring

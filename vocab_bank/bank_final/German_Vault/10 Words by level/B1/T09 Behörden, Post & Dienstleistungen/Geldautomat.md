@@ -25,6 +25,8 @@ status: "new"
 
 ![[Geldautomat.ogg]]
 
+![[Geldautomat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geldautomat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geldautomat&language=de)
 
 **Meaning:** ATM (automatic teller machine)

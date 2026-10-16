@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Post
 
+![[Post.jpg]]
+
 ![[Post.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Post/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Post&language=de)

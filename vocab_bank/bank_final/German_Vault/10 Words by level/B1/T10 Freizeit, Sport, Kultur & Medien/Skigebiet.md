@@ -24,6 +24,8 @@ status: "new"
 
 ![[Skigebiet.ogg]]
 
+![[Skigebiet.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Skigebiet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Skigebiet&language=de)
 
 **Meaning:** ski resort

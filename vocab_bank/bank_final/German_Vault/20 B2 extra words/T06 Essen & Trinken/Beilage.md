@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Beilage
 
+![[Beilage.jpg]]
+
 ![[Beilage.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Beilage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beilage&language=de)

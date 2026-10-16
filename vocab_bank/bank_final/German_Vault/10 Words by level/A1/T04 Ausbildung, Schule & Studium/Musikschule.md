@@ -24,6 +24,8 @@ status: "new"
 
 ![[Musikschule.ogg]]
 
+![[Musikschule.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Musikschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikschule&language=de)
 
 **Meaning:** music school; conservatoire

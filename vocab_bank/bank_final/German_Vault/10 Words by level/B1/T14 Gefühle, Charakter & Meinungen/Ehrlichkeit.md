@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ehrlichkeit.ogg]]
 
+![[Ehrlichkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ehrlichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehrlichkeit&language=de)
 
 **Meaning:** honesty

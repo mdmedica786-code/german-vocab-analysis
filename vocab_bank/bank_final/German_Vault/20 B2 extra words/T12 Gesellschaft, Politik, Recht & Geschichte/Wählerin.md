@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wählerin.ogg]]
 
+![[Wählerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/W%C3%A4hlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%A4hlerin&language=de)
 
 **Meaning:** voter (female)

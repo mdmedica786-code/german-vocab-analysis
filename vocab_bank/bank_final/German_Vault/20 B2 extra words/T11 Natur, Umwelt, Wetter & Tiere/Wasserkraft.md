@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wasserkraft.ogg]]
 
+![[Wasserkraft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wasserkraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wasserkraft&language=de)
 
 **Meaning:** hydropower; water power

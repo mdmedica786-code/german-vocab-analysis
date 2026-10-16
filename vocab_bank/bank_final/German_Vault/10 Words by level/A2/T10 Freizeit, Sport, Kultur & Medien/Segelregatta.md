@@ -24,6 +24,8 @@ status: "new"
 
 ![[Segelregatta.ogg]]
 
+![[Segelregatta.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Segelregatta/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Segelregatta&language=de)
 
 **Meaning:** sailing regatta

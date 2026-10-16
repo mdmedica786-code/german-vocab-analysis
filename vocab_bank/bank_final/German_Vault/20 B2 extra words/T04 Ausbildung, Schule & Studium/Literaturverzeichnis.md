@@ -23,6 +23,8 @@ status: "new"
 
 ![[Literaturverzeichnis.ogg]]
 
+![[Literaturverzeichnis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Literaturverzeichnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Literaturverzeichnis&language=de)
 
 **Meaning:** bibliography

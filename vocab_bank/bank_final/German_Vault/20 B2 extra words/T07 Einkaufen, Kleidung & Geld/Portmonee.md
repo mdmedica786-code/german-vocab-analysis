@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Portmonee
 
+![[Portmonee.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Portmonee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Portmonee&language=de)
 
 **Meaning:** wallet; purse (variant of Portemonnaie)

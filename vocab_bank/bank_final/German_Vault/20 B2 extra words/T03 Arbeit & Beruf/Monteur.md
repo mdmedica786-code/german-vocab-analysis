@@ -23,6 +23,8 @@ status: "new"
 
 ![[Monteur.ogg]]
 
+![[Monteur.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Monteur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Monteur&language=de)
 
 **Meaning:** fitter; installation technician

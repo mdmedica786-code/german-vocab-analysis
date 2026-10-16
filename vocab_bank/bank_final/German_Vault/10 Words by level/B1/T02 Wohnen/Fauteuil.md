@@ -26,6 +26,8 @@ status: "new"
 
 ![[Fauteuil.ogg]]
 
+![[Fauteuil.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fauteuil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fauteuil&language=de)
 
 **Meaning:** armchair

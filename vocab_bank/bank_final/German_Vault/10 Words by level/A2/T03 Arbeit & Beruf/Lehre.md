@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Lehre
 
+![[Lehre.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lehre/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lehre&language=de)
 
 **Meaning:** apprenticeship

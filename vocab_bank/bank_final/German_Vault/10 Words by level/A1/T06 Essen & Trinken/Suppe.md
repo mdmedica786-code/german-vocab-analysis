@@ -25,6 +25,8 @@ status: "new"
 
 ![[Suppe.ogg]]
 
+![[Suppe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Suppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Suppe&language=de)
 
 **Meaning:** soup

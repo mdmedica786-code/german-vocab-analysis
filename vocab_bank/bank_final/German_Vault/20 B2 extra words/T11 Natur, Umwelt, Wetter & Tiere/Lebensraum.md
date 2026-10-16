@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lebensraum.ogg]]
 
+![[Lebensraum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lebensraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensraum&language=de)
 
 **Meaning:** habitat; living space

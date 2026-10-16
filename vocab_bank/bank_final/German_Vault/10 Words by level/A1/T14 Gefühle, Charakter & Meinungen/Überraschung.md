@@ -25,6 +25,8 @@ status: "new"
 
 ![[Überraschung.ogg]]
 
+![[Überraschung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberraschung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberraschung&language=de)
 
 **Meaning:** surprise

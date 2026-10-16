@@ -24,6 +24,8 @@ status: "new"
 
 ![[Parkhaus.ogg]]
 
+![[Parkhaus.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Parkhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parkhaus&language=de)
 
 **Meaning:** multi-storey car park

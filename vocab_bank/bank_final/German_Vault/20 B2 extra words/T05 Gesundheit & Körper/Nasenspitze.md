@@ -23,6 +23,8 @@ status: "new"
 
 ![[Nasenspitze.ogg]]
 
+![[Nasenspitze.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nasenspitze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nasenspitze&language=de)
 
 **Meaning:** tip of the nose

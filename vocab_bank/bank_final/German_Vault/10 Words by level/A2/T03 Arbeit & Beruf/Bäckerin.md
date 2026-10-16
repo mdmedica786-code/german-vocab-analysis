@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Bäckerin
 
+![[Bäckerin.jpg]]
+
 ![[Bäckerin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%A4ckerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%A4ckerin&language=de)

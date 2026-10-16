@@ -24,6 +24,8 @@ status: "new"
 
 ![[Selbsthilfe.ogg]]
 
+![[Selbsthilfe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Selbsthilfe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Selbsthilfe&language=de)
 
 **Meaning:** self-help

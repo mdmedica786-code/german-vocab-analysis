@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Bankkauffrau
 
+![[Bankkauffrau.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bankkauffrau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bankkauffrau&language=de)
 
 **Meaning:** bank clerk (f)

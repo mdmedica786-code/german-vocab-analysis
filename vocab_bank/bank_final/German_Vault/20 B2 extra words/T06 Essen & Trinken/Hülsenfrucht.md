@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hülsenfrucht.ogg]]
 
+![[Hülsenfrucht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%BClsenfrucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%BClsenfrucht&language=de)
 
 **Meaning:** legume; pulse

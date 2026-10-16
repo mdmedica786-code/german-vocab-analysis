@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Erdbeben
 
+![[Erdbeben.png]]
+
 ![[Erdbeben.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Erdbeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erdbeben&language=de)

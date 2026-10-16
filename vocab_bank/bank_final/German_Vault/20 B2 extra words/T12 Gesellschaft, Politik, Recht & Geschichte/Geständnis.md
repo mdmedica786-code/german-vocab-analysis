@@ -23,6 +23,8 @@ status: "new"
 
 ![[Geständnis.ogg]]
 
+![[Geständnis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gest%C3%A4ndnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gest%C3%A4ndnis&language=de)
 
 **Meaning:** confession

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lüftung.ogg]]
 
+![[Lüftung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/L%C3%BCftung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%BCftung&language=de)
 
 **Meaning:** ventilation; ventilation system

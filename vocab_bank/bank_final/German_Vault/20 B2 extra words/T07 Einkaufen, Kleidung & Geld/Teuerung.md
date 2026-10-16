@@ -23,6 +23,8 @@ status: "new"
 
 ![[Teuerung.ogg]]
 
+![[Teuerung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Teuerung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teuerung&language=de)
 
 **Meaning:** rise in prices

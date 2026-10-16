@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Werk
 
+![[Werk.jpg]]
+
 ![[Werk.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Werk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werk&language=de)

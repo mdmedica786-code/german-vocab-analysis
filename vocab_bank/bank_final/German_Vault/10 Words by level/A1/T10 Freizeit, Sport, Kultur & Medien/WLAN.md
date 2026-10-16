@@ -24,6 +24,8 @@ status: "new"
 
 ![[WLAN.ogg]]
 
+![[WLAN.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/WLAN/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=WLAN&language=de)
 
 **Meaning:** Wi-Fi

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Messung.ogg]]
 
+![[Messung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Messung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Messung&language=de)
 
 **Meaning:** measurement

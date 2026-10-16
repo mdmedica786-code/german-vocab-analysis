@@ -23,6 +23,8 @@ status: "new"
 
 ![[Anatomie.ogg]]
 
+![[Anatomie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anatomie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anatomie&language=de)
 
 **Meaning:** anatomy

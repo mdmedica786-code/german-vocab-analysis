@@ -23,6 +23,8 @@ status: "new"
 
 ![[Matratze.ogg]]
 
+![[Matratze.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Matratze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Matratze&language=de)
 
 **Meaning:** mattress

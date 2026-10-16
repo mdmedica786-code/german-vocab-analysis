@@ -25,6 +25,8 @@ status: "new"
 
 ![[Pfeffer.ogg]]
 
+![[Pfeffer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pfeffer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfeffer&language=de)
 
 **Meaning:** pepper

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Tunnel
 
+![[Tunnel.jpg]]
+
 ![[Tunnel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tunnel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tunnel&language=de)

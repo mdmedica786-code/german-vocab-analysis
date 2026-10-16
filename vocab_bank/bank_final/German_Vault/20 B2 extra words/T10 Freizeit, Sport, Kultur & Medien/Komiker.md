@@ -23,6 +23,8 @@ status: "new"
 
 ![[Komiker.ogg]]
 
+![[Komiker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Komiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Komiker&language=de)
 
 **Meaning:** comedian (male)

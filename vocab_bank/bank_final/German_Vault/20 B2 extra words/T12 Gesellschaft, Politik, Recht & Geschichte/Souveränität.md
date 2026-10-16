@@ -23,6 +23,8 @@ status: "new"
 
 ![[Souveränität.ogg]]
 
+![[Souveränität.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Souver%C3%A4nit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Souver%C3%A4nit%C3%A4t&language=de)
 
 **Meaning:** sovereignty

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Indoor Farming
 
+![[Indoor Farming.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Indoor%20Farming/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Indoor%20Farming&language=de)
 
 **Meaning:** indoor farming

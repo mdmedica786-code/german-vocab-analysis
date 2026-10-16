@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Kaiserin
 
+![[Kaiserin.jpg]]
+
 ![[Kaiserin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kaiserin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaiserin&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Smartphone.ogg]]
 
+![[Smartphone.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Smartphone/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Smartphone&language=de)
 
 **Meaning:** smartphone

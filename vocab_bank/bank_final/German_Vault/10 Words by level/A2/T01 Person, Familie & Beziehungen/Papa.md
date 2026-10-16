@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Papa
 
+![[Papa.jpg]]
+
 ![[Papa.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Papa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Papa&language=de)

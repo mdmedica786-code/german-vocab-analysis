@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sportwissenschaftlerin.ogg]]
 
+![[Sportwissenschaftlerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sportwissenschaftlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportwissenschaftlerin&language=de)
 
 **Meaning:** sports scientist (female)

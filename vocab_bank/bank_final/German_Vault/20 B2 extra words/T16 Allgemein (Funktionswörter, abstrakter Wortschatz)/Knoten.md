@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Knoten
 
+![[Knoten.png]]
+
 ![[Knoten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Knoten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Knoten&language=de)

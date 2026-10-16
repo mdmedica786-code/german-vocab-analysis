@@ -24,6 +24,8 @@ status: "new"
 
 ![[Pfund.ogg]]
 
+![[Pfund.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pfund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfund&language=de)
 
 **Meaning:** pound

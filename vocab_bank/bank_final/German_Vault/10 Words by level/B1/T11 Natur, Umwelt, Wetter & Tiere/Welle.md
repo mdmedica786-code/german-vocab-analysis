@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Welle
 
+![[Welle.jpg]]
+
 ![[Welle.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Welle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Welle&language=de)

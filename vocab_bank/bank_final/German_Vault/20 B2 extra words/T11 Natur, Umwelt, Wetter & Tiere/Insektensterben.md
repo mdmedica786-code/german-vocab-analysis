@@ -23,6 +23,8 @@ status: "new"
 
 ![[Insektensterben.ogg]]
 
+![[Insektensterben.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Insektensterben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Insektensterben&language=de)
 
 **Meaning:** insect decline

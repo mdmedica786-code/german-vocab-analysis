@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sperrmüll.ogg]]
 
+![[Sperrmüll.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sperrm%C3%BCll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sperrm%C3%BCll&language=de)
 
 **Meaning:** bulky waste

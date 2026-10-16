@@ -25,6 +25,8 @@ status: "new"
 
 ![[Pflanze.ogg]]
 
+![[Pflanze.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pflanze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflanze&language=de)
 
 **Meaning:** plant

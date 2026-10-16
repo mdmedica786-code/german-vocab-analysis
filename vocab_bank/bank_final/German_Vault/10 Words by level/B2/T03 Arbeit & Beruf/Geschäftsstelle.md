@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Geschäftsstelle
 
+![[Geschäftsstelle.jpg]]
+
 ![[Geschäftsstelle.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gesch%C3%A4ftsstelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesch%C3%A4ftsstelle&language=de)

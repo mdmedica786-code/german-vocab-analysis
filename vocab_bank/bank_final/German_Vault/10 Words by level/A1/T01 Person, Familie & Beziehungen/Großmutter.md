@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Großmutter
 
+![[Großmutter.jpg]]
+
 ![[Großmutter.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gro%C3%9Fmutter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gro%C3%9Fmutter&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Flutkatastrophe.ogg]]
 
+![[Flutkatastrophe.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Flutkatastrophe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flutkatastrophe&language=de)
 
 **Meaning:** flood disaster

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Vorfall.ogg]]
 
+![[Vorfall.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vorfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorfall&language=de)
 
 **Meaning:** incident; occurrence

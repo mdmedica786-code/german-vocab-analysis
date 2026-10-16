@@ -25,6 +25,8 @@ status: "new"
 
 ![[Taxi.ogg]]
 
+![[Taxi.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Taxi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taxi&language=de)
 
 **Meaning:** taxi

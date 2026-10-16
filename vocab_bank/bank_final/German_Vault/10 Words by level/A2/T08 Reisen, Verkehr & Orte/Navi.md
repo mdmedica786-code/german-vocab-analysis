@@ -24,6 +24,8 @@ status: "new"
 
 ![[Navi.ogg]]
 
+![[Navi.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Navi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Navi&language=de)
 
 **Meaning:** satnav

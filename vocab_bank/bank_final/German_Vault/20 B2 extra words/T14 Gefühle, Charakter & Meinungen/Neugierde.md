@@ -23,6 +23,8 @@ status: "new"
 
 ![[Neugierde.ogg]]
 
+![[Neugierde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Neugierde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neugierde&language=de)
 
 **Meaning:** curiosity

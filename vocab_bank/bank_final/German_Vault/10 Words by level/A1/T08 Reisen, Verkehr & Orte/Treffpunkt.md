@@ -25,6 +25,8 @@ status: "new"
 
 ![[Treffpunkt.ogg]]
 
+![[Treffpunkt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Treffpunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Treffpunkt&language=de)
 
 **Meaning:** meeting point

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Gewitter
 
+![[Gewitter.jpg]]
+
 ![[Gewitter.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gewitter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewitter&language=de)

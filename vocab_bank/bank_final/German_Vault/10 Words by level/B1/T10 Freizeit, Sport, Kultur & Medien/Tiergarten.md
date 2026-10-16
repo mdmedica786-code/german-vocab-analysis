@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Tiergarten
 
+![[Tiergarten.jpg]]
+
 ![[Tiergarten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tiergarten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiergarten&language=de)

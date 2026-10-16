@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bestrahlung.ogg]]
 
+![[Bestrahlung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bestrahlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bestrahlung&language=de)
 
 **Meaning:** radiation treatment; irradiation

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fußballschuh.ogg]]
 
+![[Fußballschuh.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fballschuh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fballschuh&language=de)
 
 **Meaning:** football boot

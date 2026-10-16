@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Gürtel
 
+![[Gürtel.jpg]]
+
 ![[Gürtel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/G%C3%BCrtel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=G%C3%BCrtel&language=de)

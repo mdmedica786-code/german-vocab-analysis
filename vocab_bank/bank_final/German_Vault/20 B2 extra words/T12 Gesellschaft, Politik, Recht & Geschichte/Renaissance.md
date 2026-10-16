@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Renaissance
 
+![[Renaissance.jpg]]
+
 ![[Renaissance.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Renaissance/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Renaissance&language=de)

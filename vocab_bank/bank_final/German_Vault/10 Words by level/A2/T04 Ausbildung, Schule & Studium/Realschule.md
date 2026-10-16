@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Realschule
 
+![[Realschule.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Realschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Realschule&language=de)
 
 **Meaning:** secondary modern school

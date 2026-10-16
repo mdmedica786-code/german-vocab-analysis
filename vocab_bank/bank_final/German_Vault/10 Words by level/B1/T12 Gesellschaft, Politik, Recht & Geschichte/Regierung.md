@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Regierung
 
+![[Regierung.png]]
+
 ![[Regierung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Regierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regierung&language=de)

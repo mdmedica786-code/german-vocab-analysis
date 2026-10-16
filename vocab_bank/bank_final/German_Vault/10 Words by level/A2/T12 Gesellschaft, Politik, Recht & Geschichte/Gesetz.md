@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Gesetz
 
+![[Gesetz.png]]
+
 ![[Gesetz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gesetz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesetz&language=de)

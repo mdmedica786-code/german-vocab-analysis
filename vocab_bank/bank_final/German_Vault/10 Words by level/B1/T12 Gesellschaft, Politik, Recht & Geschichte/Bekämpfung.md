@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bekämpfung.ogg]]
 
+![[Bekämpfung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bek%C3%A4mpfung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bek%C3%A4mpfung&language=de)
 
 **Meaning:** combat

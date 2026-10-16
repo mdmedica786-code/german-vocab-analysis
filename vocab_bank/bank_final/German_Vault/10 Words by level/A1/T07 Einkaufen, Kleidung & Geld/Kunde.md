@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kunde.ogg]]
 
+![[Kunde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunde&language=de)
 
 **Meaning:** customer (m)

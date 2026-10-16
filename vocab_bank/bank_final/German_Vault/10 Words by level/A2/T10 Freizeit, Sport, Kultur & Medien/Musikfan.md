@@ -24,6 +24,8 @@ status: "new"
 
 ![[Musikfan.ogg]]
 
+![[Musikfan.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Musikfan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikfan&language=de)
 
 **Meaning:** music fan

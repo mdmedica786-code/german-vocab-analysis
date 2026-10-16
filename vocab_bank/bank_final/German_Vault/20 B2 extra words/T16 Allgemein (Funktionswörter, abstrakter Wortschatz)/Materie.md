@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Materie
 
+![[Materie.jpg]]
+
 ![[Materie.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Materie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Materie&language=de)

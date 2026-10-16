@@ -24,6 +24,8 @@ status: "new"
 
 ![[Selbstbedienung.ogg]]
 
+![[Selbstbedienung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Selbstbedienung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Selbstbedienung&language=de)
 
 **Meaning:** self-service

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bekenntnis.ogg]]
 
+![[Bekenntnis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bekenntnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bekenntnis&language=de)
 
 **Meaning:** confession; commitment; declaration

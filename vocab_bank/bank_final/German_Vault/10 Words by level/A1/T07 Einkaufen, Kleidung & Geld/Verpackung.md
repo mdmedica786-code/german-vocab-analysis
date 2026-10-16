@@ -24,6 +24,8 @@ status: "new"
 
 ![[Verpackung.ogg]]
 
+![[Verpackung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verpackung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verpackung&language=de)
 
 **Meaning:** packaging

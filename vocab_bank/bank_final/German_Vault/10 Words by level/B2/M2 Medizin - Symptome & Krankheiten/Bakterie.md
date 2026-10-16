@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bakterie.ogg]]
 
+![[Bakterie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bakterie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bakterie&language=de)
 
 **Meaning:** bacterium

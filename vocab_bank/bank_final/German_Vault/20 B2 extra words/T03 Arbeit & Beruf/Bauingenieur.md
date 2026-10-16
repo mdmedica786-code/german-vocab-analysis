@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bauingenieur.ogg]]
 
+![[Bauingenieur.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bauingenieur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bauingenieur&language=de)
 
 **Meaning:** civil engineer (male)

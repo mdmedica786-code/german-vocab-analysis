@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Download
 
+![[Download.png]]
+
 ![[Download.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Download/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Download&language=de)

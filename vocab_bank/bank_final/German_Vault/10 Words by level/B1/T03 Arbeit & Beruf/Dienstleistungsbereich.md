@@ -24,6 +24,8 @@ status: "new"
 
 ![[Dienstleistungsbereich.ogg]]
 
+![[Dienstleistungsbereich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dienstleistungsbereich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dienstleistungsbereich&language=de)
 
 **Meaning:** service industry

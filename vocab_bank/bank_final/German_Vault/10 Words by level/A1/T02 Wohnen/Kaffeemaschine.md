@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kaffeemaschine.ogg]]
 
+![[Kaffeemaschine.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kaffeemaschine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaffeemaschine&language=de)
 
 **Meaning:** coffee machine

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Erbschaft.ogg]]
 
+![[Erbschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erbschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erbschaft&language=de)
 
 **Meaning:** inheritance

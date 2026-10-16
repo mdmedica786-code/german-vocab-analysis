@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Hauptstraße
 
+![[Hauptstraße.jpg]]
+
 ![[Hauptstraße.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hauptstra%C3%9Fe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptstra%C3%9Fe&language=de)

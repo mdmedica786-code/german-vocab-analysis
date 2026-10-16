@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mindesthaltbarkeitsdatum.ogg]]
 
+![[Mindesthaltbarkeitsdatum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mindesthaltbarkeitsdatum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mindesthaltbarkeitsdatum&language=de)
 
 **Meaning:** best-before date

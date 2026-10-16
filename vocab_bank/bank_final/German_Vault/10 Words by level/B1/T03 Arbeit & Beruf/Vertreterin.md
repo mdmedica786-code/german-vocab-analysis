@@ -24,6 +24,8 @@ status: "new"
 
 ![[Vertreterin.ogg]]
 
+![[Vertreterin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vertreterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vertreterin&language=de)
 
 **Meaning:** deputy (f); substitute

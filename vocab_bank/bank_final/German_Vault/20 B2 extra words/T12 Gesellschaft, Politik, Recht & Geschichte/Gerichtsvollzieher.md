@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gerichtsvollzieher.ogg]]
 
+![[Gerichtsvollzieher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gerichtsvollzieher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gerichtsvollzieher&language=de)
 
 **Meaning:** bailiff

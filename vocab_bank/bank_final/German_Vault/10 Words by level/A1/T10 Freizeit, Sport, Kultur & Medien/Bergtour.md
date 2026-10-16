@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bergtour.ogg]]
 
+![[Bergtour.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bergtour/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bergtour&language=de)
 
 **Meaning:** mountain tour

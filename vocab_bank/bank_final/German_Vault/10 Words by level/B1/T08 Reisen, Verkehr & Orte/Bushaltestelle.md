@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bushaltestelle.ogg]]
 
+![[Bushaltestelle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bushaltestelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bushaltestelle&language=de)
 
 **Meaning:** bus stop

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Etikett.ogg]]
 
+![[Etikett.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Etikett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Etikett&language=de)
 
 **Meaning:** label; tag

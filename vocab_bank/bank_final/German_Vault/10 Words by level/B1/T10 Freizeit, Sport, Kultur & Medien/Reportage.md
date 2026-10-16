@@ -25,6 +25,8 @@ status: "new"
 
 ![[Reportage.ogg]]
 
+![[Reportage.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reportage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reportage&language=de)
 
 **Meaning:** report

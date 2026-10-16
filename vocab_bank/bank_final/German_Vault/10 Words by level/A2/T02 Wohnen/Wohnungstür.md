@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wohnungstür.ogg]]
 
+![[Wohnungstür.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wohnungst%C3%BCr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnungst%C3%BCr&language=de)
 
 **Meaning:** flat door

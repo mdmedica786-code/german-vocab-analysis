@@ -24,6 +24,8 @@ status: "new"
 
 ![[Mitfahrbank.ogg]]
 
+![[Mitfahrbank.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mitfahrbank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitfahrbank&language=de)
 
 **Meaning:** ride-share bench

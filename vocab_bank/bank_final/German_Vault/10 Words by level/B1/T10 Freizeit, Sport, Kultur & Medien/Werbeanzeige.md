@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Werbeanzeige
 
+![[Werbeanzeige.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Werbeanzeige/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werbeanzeige&language=de)
 
 **Meaning:** advertisement

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Heldin
 
+![[Heldin.jpg]]
+
 ![[Heldin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Heldin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heldin&language=de)

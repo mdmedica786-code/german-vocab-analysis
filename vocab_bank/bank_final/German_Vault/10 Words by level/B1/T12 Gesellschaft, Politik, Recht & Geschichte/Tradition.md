@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tradition.ogg]]
 
+![[Tradition.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tradition/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tradition&language=de)
 
 **Meaning:** tradition

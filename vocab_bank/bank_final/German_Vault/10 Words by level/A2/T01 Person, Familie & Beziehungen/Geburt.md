@@ -25,6 +25,8 @@ status: "new"
 
 ![[Geburt.ogg]]
 
+![[Geburt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geburt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburt&language=de)
 
 **Meaning:** birth

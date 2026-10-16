@@ -25,6 +25,8 @@ status: "new"
 
 ![[Ratschlag.ogg]]
 
+![[Ratschlag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ratschlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ratschlag&language=de)
 
 **Meaning:** advice

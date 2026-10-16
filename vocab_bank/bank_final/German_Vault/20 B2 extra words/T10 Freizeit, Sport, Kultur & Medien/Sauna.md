@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sauna.ogg]]
 
+![[Sauna.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sauna/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sauna&language=de)
 
 **Meaning:** sauna

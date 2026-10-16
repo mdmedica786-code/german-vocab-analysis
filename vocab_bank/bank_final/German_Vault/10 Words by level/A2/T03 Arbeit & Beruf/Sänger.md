@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Sänger
 
+![[Sänger.jpg]]
+
 ![[Sänger.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/S%C3%A4nger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%A4nger&language=de)

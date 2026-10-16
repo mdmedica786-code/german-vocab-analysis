@@ -25,6 +25,8 @@ status: "new"
 
 ![[Reporter.ogg]]
 
+![[Reporter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reporter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reporter&language=de)
 
 **Meaning:** reporter (m)

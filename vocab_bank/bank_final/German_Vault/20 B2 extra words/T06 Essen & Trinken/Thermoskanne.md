@@ -23,6 +23,8 @@ status: "new"
 
 ![[Thermoskanne.ogg]]
 
+![[Thermoskanne.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Thermoskanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Thermoskanne&language=de)
 
 **Meaning:** thermos flask

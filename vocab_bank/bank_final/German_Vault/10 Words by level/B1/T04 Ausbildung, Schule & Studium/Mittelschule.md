@@ -26,6 +26,8 @@ status: "new"
 
 ![[Mittelschule.ogg]]
 
+![[Mittelschule.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mittelschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittelschule&language=de)
 
 **Meaning:** secondary school (Switzerland, Austria)

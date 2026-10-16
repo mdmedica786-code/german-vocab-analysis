@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kunststoff.ogg]]
 
+![[Kunststoff.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kunststoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunststoff&language=de)
 
 **Meaning:** plastic

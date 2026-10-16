@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Wesen
 
+![[Wesen.jpg]]
+
 ![[Wesen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wesen&language=de)

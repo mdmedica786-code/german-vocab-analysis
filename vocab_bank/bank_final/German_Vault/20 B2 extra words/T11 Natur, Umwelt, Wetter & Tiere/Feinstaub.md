@@ -23,6 +23,8 @@ status: "new"
 
 ![[Feinstaub.ogg]]
 
+![[Feinstaub.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Feinstaub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feinstaub&language=de)
 
 **Meaning:** fine dust; particulate matter

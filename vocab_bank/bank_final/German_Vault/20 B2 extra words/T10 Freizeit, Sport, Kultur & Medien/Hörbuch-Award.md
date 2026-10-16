@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Hörbuch-Award
 
+![[Hörbuch-Award.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6rbuch-Award/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6rbuch-Award&language=de)
 
 **Meaning:** audiobook award

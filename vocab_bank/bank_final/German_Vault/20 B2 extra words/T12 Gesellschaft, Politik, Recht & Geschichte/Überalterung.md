@@ -23,6 +23,8 @@ status: "new"
 
 ![[Überalterung.ogg]]
 
+![[Überalterung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberalterung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberalterung&language=de)
 
 **Meaning:** ageing of the population

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Sporthalle.ogg]]
 
+![[Sporthalle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sporthalle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sporthalle&language=de)
 
 **Meaning:** sports hall, gym

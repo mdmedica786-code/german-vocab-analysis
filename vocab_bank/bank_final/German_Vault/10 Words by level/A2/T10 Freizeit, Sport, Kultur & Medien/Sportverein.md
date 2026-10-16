@@ -24,6 +24,8 @@ status: "new"
 
 ![[Sportverein.ogg]]
 
+![[Sportverein.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sportverein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportverein&language=de)
 
 **Meaning:** sports club

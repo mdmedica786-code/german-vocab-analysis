@@ -23,6 +23,8 @@ status: "new"
 
 ![[Nest.ogg]]
 
+![[Nest.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nest&language=de)
 
 **Meaning:** nest

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Aussichtspunkt.ogg]]
 
+![[Aussichtspunkt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aussichtspunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aussichtspunkt&language=de)
 
 **Meaning:** viewpoint; vantage point

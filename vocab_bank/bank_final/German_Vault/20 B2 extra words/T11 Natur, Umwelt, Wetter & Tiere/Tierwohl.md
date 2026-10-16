@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tierwohl.ogg]]
 
+![[Tierwohl.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tierwohl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tierwohl&language=de)
 
 **Meaning:** animal welfare

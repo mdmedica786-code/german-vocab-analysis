@@ -24,6 +24,8 @@ status: "new"
 
 ![[Monatskarte.ogg]]
 
+![[Monatskarte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Monatskarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Monatskarte&language=de)
 
 **Meaning:** monthly ticket

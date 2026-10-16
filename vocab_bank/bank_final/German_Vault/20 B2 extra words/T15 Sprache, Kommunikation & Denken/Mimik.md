@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mimik.ogg]]
 
+![[Mimik.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mimik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mimik&language=de)
 
 **Meaning:** facial expression

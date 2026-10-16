@@ -25,6 +25,8 @@ status: "new"
 
 ![[Stau.ogg]]
 
+![[Stau.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stau&language=de)
 
 **Meaning:** traffic jam

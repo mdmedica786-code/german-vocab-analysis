@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kälteeinbruch.ogg]]
 
+![[Kälteeinbruch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4lteeinbruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4lteeinbruch&language=de)
 
 **Meaning:** sudden cold spell

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Parfüm
 
+![[Parfüm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Parf%C3%BCm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parf%C3%BCm&language=de)
 
 **Meaning:** perfume

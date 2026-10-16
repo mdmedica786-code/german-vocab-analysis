@@ -23,6 +23,8 @@ status: "new"
 
 ![[Expedition.ogg]]
 
+![[Expedition.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Expedition/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Expedition&language=de)
 
 **Meaning:** expedition

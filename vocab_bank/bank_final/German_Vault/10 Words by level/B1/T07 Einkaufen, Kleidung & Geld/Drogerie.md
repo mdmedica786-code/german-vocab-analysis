@@ -25,6 +25,8 @@ status: "new"
 
 ![[Drogerie.ogg]]
 
+![[Drogerie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Drogerie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Drogerie&language=de)
 
 **Meaning:** drug store

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fußballtraining.ogg]]
 
+![[Fußballtraining.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fballtraining/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fballtraining&language=de)
 
 **Meaning:** football training

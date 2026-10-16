@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kohle.ogg]]
 
+![[Kohle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kohle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kohle&language=de)
 
 **Meaning:** coal

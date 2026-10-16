@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Protest
 
+![[Protest.jpg]]
+
 ![[Protest.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Protest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Protest&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Geburtsort.ogg]]
 
+![[Geburtsort.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geburtsort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburtsort&language=de)
 
 **Meaning:** birth place

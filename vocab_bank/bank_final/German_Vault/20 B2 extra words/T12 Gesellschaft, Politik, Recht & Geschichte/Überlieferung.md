@@ -23,6 +23,8 @@ status: "new"
 
 ![[Überlieferung.ogg]]
 
+![[Überlieferung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberlieferung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberlieferung&language=de)
 
 **Meaning:** tradition; handing down

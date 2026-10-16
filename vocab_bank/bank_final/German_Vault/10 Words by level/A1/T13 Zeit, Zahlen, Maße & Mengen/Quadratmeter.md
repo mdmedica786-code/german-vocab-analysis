@@ -25,6 +25,8 @@ status: "new"
 
 ![[Quadratmeter.ogg]]
 
+![[Quadratmeter.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Quadratmeter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Quadratmeter&language=de)
 
 **Meaning:** square metre

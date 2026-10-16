@@ -25,6 +25,8 @@ status: "new"
 
 ![[Held.ogg]]
 
+![[Held.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Held/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Held&language=de)
 
 **Meaning:** hero (m)

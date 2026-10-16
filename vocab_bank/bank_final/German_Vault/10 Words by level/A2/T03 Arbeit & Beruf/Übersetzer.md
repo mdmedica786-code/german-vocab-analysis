@@ -25,6 +25,8 @@ status: "new"
 
 ![[Übersetzer.ogg]]
 
+![[Übersetzer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbersetzer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbersetzer&language=de)
 
 **Meaning:** translator (m)

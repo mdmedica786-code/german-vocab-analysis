@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Klavier
 
+![[Klavier.jpg]]
+
 ![[Klavier.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Klavier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klavier&language=de)

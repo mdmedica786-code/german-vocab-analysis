@@ -24,6 +24,8 @@ status: "new"
 
 ![[Pfingsten.ogg]]
 
+![[Pfingsten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pfingsten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfingsten&language=de)
 
 **Meaning:** Pentecost

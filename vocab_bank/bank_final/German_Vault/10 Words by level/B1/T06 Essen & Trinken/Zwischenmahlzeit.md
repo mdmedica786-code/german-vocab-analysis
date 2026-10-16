@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zwischenmahlzeit.ogg]]
 
+![[Zwischenmahlzeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zwischenmahlzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zwischenmahlzeit&language=de)
 
 **Meaning:** snack

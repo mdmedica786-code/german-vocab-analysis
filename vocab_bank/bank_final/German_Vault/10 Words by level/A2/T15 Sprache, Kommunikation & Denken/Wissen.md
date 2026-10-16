@@ -25,6 +25,8 @@ status: "new"
 
 ![[Wissen (633).ogg]]
 
+![[Wissen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wissen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wissen&language=de)
 
 **Meaning:** knowledge

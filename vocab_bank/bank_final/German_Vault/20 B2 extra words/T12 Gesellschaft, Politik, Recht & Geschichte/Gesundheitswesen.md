@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gesundheitswesen.ogg]]
 
+![[Gesundheitswesen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesundheitswesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesundheitswesen&language=de)
 
 **Meaning:** healthcare system

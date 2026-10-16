@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Hund
 
+![[Hund.jpg]]
+
 ![[Hund.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hund&language=de)

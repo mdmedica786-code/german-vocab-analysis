@@ -23,6 +23,8 @@ status: "new"
 
 ![[Entrüstung.ogg]]
 
+![[Entrüstung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Entr%C3%BCstung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entr%C3%BCstung&language=de)
 
 **Meaning:** indignation

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Vanillezucker.ogg]]
 
+![[Vanillezucker.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vanillezucker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vanillezucker&language=de)
 
 **Meaning:** vanilla sugar

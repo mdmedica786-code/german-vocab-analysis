@@ -24,6 +24,8 @@ status: "new"
 
 ![[Renovierung.ogg]]
 
+![[Renovierung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Renovierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Renovierung&language=de)
 
 **Meaning:** renovation

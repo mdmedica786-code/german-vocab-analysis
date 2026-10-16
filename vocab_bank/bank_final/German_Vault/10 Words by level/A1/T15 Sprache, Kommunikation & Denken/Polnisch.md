@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Polnisch
 
+![[Polnisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Polnisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Polnisch&language=de)
 
 **Meaning:** Polish

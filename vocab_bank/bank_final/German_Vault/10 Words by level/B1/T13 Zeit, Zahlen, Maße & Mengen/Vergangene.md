@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Vergangene
 
+![[Vergangene.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vergangene/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vergangene&language=de)
 
 **Meaning:** past

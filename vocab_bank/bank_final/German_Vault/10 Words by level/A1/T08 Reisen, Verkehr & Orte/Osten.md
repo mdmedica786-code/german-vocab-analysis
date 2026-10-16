@@ -25,6 +25,8 @@ status: "new"
 
 ![[Osten.ogg]]
 
+![[Osten.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Osten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Osten&language=de)
 
 **Meaning:** East

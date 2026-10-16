@@ -23,6 +23,8 @@ status: "new"
 
 ![[Notar.ogg]]
 
+![[Notar.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Notar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notar&language=de)
 
 **Meaning:** notary

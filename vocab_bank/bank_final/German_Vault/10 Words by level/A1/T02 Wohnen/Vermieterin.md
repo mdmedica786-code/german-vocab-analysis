@@ -25,6 +25,8 @@ status: "new"
 
 ![[Vermieterin.ogg]]
 
+![[Vermieterin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vermieterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vermieterin&language=de)
 
 **Meaning:** landlady

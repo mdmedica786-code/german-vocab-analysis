@@ -23,6 +23,8 @@ status: "new"
 
 ![[Reichtum.ogg]]
 
+![[Reichtum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reichtum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reichtum&language=de)
 
 **Meaning:** wealth

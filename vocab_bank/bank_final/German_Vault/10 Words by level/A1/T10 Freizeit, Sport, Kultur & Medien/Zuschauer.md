@@ -25,6 +25,8 @@ status: "new"
 
 ![[Zuschauer.ogg]]
 
+![[Zuschauer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zuschauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zuschauer&language=de)
 
 **Meaning:** spectator (m)

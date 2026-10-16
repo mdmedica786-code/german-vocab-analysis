@@ -23,6 +23,8 @@ status: "new"
 
 ![[Brühe.ogg]]
 
+![[Brühe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Br%C3%BChe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Br%C3%BChe&language=de)
 
 **Meaning:** broth; stock

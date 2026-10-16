@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Wal-Laut
 
+![[Wal-Laut.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wal-Laut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wal-Laut&language=de)
 
 **Meaning:** whale sound; whale call

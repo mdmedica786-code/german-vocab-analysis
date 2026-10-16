@@ -23,6 +23,8 @@ status: "new"
 
 ![[Regierungspartei.ogg]]
 
+![[Regierungspartei.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Regierungspartei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regierungspartei&language=de)
 
 **Meaning:** governing party

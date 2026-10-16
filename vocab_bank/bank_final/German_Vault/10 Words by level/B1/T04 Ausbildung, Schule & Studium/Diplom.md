@@ -24,6 +24,8 @@ status: "new"
 
 ![[Diplom.ogg]]
 
+![[Diplom.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Diplom/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diplom&language=de)
 
 **Meaning:** diploma

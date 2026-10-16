@@ -23,6 +23,8 @@ status: "new"
 
 ![[Chancengleichheit.ogg]]
 
+![[Chancengleichheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Chancengleichheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chancengleichheit&language=de)
 
 **Meaning:** equal opportunities

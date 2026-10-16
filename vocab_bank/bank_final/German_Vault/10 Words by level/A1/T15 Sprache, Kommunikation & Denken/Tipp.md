@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tipp.ogg]]
 
+![[Tipp.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tipp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tipp&language=de)
 
 **Meaning:** tip

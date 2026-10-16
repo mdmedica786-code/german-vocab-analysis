@@ -24,6 +24,8 @@ status: "new"
 
 ![[Missgeschick.ogg]]
 
+![[Missgeschick.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Missgeschick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Missgeschick&language=de)
 
 **Meaning:** mishap, misfortune

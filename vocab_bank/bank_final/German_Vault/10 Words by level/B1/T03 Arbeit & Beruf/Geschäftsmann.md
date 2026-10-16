@@ -24,6 +24,8 @@ status: "new"
 
 ![[Geschäftsmann.ogg]]
 
+![[Geschäftsmann.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesch%C3%A4ftsmann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesch%C3%A4ftsmann&language=de)
 
 **Meaning:** business man

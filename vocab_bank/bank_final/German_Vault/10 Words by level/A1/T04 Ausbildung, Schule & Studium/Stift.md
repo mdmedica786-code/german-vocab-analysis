@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Stift
 
+![[Stift.jpg]]
+
 ![[Stift.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Stift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stift&language=de)

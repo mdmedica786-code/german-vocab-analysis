@@ -24,6 +24,8 @@ status: "new"
 
 ![[Musikgeschmack.ogg]]
 
+![[Musikgeschmack.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Musikgeschmack/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikgeschmack&language=de)
 
 **Meaning:** music taste

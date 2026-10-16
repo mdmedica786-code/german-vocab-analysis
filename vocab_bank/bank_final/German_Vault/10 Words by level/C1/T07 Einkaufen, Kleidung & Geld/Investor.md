@@ -23,6 +23,8 @@ status: "new"
 
 ![[Investor.ogg]]
 
+![[Investor.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Investor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Investor&language=de)
 
 **Meaning:** investor

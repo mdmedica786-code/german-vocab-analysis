@@ -23,6 +23,8 @@ status: "new"
 
 ![[Illusion.ogg]]
 
+![[Illusion.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Illusion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Illusion&language=de)
 
 **Meaning:** illusion

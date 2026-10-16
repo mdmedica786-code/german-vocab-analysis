@@ -24,6 +24,8 @@ status: "new"
 
 ![[Gegenwart.ogg]]
 
+![[Gegenwart.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gegenwart/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegenwart&language=de)
 
 **Meaning:** present

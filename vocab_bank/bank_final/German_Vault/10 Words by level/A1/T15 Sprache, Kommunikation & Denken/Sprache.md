@@ -25,6 +25,8 @@ status: "new"
 
 ![[Sprache.ogg]]
 
+![[Sprache.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprache&language=de)
 
 **Meaning:** language

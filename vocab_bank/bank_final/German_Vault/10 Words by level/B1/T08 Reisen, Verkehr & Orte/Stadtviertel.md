@@ -24,6 +24,8 @@ status: "new"
 
 ![[Stadtviertel.ogg]]
 
+![[Stadtviertel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stadtviertel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtviertel&language=de)
 
 **Meaning:** district; neighbourhood

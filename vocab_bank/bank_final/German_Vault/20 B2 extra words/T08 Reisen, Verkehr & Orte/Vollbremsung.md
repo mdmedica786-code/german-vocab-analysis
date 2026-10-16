@@ -23,6 +23,8 @@ status: "new"
 
 ![[Vollbremsung.ogg]]
 
+![[Vollbremsung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vollbremsung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vollbremsung&language=de)
 
 **Meaning:** emergency stop; full braking

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Bahn
 
+![[Bahn.jpg]]
+
 ![[Bahn.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bahn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bahn&language=de)

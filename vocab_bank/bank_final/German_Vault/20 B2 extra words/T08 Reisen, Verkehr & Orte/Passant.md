@@ -23,6 +23,8 @@ status: "new"
 
 ![[Passant.ogg]]
 
+![[Passant.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Passant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Passant&language=de)
 
 **Meaning:** passer-by (male)

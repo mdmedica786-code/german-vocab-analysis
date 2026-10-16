@@ -22,6 +22,8 @@ status: "new"
 
 ![[Spätzle.ogg]]
 
+![[Spätzle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sp%C3%A4tzle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sp%C3%A4tzle&language=de)
 
 **Meaning:** Swabian egg noodles

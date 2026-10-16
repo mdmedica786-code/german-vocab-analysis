@@ -23,6 +23,8 @@ status: "new"
 
 ![[Beschaffenheit.ogg]]
 
+![[Beschaffenheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beschaffenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beschaffenheit&language=de)
 
 **Meaning:** nature; condition; texture

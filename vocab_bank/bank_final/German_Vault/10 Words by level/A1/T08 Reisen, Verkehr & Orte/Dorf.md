@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Dorf
 
+![[Dorf.jpg]]
+
 ![[Dorf.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Dorf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dorf&language=de)

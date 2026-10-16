@@ -24,6 +24,8 @@ status: "new"
 
 ![[Institution.ogg]]
 
+![[Institution.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Institution/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Institution&language=de)
 
 **Meaning:** institution

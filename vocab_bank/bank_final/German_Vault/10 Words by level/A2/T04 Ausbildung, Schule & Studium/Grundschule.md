@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Grundschule
 
+![[Grundschule.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Grundschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundschule&language=de)
 
 **Meaning:** elementary school

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Weide.ogg]]
 
+![[Weide.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Weide/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weide&language=de)
 
 **Meaning:** pasture; willow

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Neigung.ogg]]
 
+![[Neigung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Neigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neigung&language=de)
 
 **Meaning:** inclination; tendency; slope

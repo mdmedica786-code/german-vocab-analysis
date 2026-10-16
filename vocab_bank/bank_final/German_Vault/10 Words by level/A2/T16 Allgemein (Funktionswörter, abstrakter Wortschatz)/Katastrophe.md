@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Katastrophe
 
+![[Katastrophe.jpg]]
+
 ![[Katastrophe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Katastrophe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Katastrophe&language=de)

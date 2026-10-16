@@ -23,6 +23,8 @@ status: "new"
 
 ![[Faulheit.ogg]]
 
+![[Faulheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Faulheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Faulheit&language=de)
 
 **Meaning:** laziness

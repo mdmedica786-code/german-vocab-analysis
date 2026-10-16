@@ -24,6 +24,8 @@ status: "new"
 
 ![[Elektrikerin.ogg]]
 
+![[Elektrikerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Elektrikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elektrikerin&language=de)
 
 **Meaning:** electrician (f)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bürozeit.ogg]]
 
+![[Bürozeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCrozeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCrozeit&language=de)
 
 **Meaning:** office hours

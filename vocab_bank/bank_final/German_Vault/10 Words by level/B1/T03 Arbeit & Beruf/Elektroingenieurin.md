@@ -24,6 +24,8 @@ status: "new"
 
 ![[Elektroingenieurin.ogg]]
 
+![[Elektroingenieurin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Elektroingenieurin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elektroingenieurin&language=de)
 
 **Meaning:** electrical engineer (f)

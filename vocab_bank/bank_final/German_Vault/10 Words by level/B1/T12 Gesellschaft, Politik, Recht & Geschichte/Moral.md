@@ -24,6 +24,8 @@ status: "new"
 
 ![[Moral.ogg]]
 
+![[Moral.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Moral/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Moral&language=de)
 
 **Meaning:** morality; moral

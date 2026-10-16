@@ -24,6 +24,8 @@ status: "new"
 
 ![[Arbeitserlaubnis.ogg]]
 
+![[Arbeitserlaubnis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitserlaubnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitserlaubnis&language=de)
 
 **Meaning:** work permit

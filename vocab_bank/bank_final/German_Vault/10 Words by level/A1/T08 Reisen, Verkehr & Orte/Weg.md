@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Weg
 
+![[Weg.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Weg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weg&language=de)
 
 **Meaning:** way

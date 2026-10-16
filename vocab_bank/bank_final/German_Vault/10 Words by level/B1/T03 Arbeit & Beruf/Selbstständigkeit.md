@@ -24,6 +24,8 @@ status: "new"
 
 ![[Selbstständigkeit.ogg]]
 
+![[Selbstständigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Selbstst%C3%A4ndigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Selbstst%C3%A4ndigkeit&language=de)
 
 **Meaning:** independence

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gewichtung.ogg]]
 
+![[Gewichtung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gewichtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewichtung&language=de)
 
 **Meaning:** weighting; emphasis

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Gutschein
 
+![[Gutschein.jpg]]
+
 ![[Gutschein.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gutschein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gutschein&language=de)

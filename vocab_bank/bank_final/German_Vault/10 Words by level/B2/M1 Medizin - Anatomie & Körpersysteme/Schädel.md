@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schädel.ogg]]
 
+![[Schädel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%A4del/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%A4del&language=de)
 
 **Meaning:** skull

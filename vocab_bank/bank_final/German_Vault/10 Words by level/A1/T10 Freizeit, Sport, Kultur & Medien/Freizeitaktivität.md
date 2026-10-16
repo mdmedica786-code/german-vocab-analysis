@@ -24,6 +24,8 @@ status: "new"
 
 ![[Freizeitaktivität.ogg]]
 
+![[Freizeitaktivität.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Freizeitaktivit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freizeitaktivit%C3%A4t&language=de)
 
 **Meaning:** extracurricular activity

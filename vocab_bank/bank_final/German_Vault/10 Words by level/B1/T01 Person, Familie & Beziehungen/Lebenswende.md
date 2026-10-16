@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Lebenswende
 
+![[Lebenswende.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lebenswende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebenswende&language=de)
 
 **Meaning:** turning point (in life)

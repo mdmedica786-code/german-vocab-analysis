@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Angst
 
+![[Angst.jpg]]
+
 ![[Angst.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Angst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angst&language=de)

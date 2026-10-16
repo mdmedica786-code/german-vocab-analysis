@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Coversong
 
+![[Coversong.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Coversong/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Coversong&language=de)
 
 **Meaning:** cover song

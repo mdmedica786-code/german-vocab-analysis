@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Beachtung
 
+![[Beachtung.jpg]]
+
 ![[Beachtung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Beachtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beachtung&language=de)

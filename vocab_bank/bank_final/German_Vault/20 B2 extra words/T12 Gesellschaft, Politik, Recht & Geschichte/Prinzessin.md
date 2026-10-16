@@ -23,6 +23,8 @@ status: "new"
 
 ![[Prinzessin.ogg]]
 
+![[Prinzessin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Prinzessin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prinzessin&language=de)
 
 **Meaning:** princess

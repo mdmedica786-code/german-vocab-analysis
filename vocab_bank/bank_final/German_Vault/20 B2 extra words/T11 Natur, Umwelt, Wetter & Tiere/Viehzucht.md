@@ -23,6 +23,8 @@ status: "new"
 
 ![[Viehzucht.ogg]]
 
+![[Viehzucht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Viehzucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Viehzucht&language=de)
 
 **Meaning:** livestock farming

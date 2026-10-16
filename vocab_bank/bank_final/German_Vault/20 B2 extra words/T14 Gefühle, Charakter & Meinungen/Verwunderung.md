@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Verwunderung
 
+![[Verwunderung.jpg]]
+
 ![[Verwunderung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Verwunderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verwunderung&language=de)

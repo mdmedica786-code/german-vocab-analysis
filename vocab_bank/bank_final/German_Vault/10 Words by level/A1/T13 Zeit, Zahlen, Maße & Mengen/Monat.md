@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Monat
 
+![[Monat.jpg]]
+
 ![[Monat.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Monat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Monat&language=de)

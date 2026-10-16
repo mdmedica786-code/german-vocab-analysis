@@ -23,6 +23,8 @@ status: "new"
 
 ![[Maultasche.ogg]]
 
+![[Maultasche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Maultasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Maultasche&language=de)
 
 **Meaning:** Swabian stuffed pasta (Maultasche)

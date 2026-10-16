@@ -24,6 +24,8 @@ status: "new"
 
 ![[Sportplatz.ogg]]
 
+![[Sportplatz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sportplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportplatz&language=de)
 
 **Meaning:** sports ground

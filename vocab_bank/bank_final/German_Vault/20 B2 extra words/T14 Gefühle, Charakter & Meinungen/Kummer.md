@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Kummer
 
+![[Kummer.jpg]]
+
 ![[Kummer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kummer&language=de)

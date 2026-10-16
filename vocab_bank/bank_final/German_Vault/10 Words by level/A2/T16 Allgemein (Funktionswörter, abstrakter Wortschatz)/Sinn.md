@@ -25,6 +25,8 @@ status: "new"
 
 ![[Sinn.ogg]]
 
+![[Sinn.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sinn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sinn&language=de)
 
 **Meaning:** sense; meaning; point

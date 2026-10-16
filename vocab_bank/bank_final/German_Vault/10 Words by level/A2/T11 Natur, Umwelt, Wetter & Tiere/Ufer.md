@@ -25,6 +25,8 @@ status: "new"
 
 ![[Ufer.ogg]]
 
+![[Ufer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ufer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ufer&language=de)
 
 **Meaning:** shore

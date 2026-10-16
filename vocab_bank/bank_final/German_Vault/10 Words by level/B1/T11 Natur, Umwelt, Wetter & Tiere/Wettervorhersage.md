@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Wettervorhersage
 
+![[Wettervorhersage.png]]
+
 ![[Wettervorhersage.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wettervorhersage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wettervorhersage&language=de)

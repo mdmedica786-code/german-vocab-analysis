@@ -24,6 +24,8 @@ status: "new"
 
 ![[Gerichtsverhandlung.ogg]]
 
+![[Gerichtsverhandlung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gerichtsverhandlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gerichtsverhandlung&language=de)
 
 **Meaning:** court hearing; trial

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kerker.ogg]]
 
+![[Kerker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kerker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kerker&language=de)
 
 **Meaning:** dungeon

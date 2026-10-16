@@ -25,6 +25,8 @@ status: "new"
 
 ![[Sandwich.ogg]]
 
+![[Sandwich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sandwich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sandwich&language=de)
 
 **Meaning:** sandwich

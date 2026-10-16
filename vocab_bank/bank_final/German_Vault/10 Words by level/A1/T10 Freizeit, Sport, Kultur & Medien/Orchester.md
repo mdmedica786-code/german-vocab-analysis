@@ -25,6 +25,8 @@ status: "new"
 
 ![[Orchester.ogg]]
 
+![[Orchester.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Orchester/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Orchester&language=de)
 
 **Meaning:** orchestra

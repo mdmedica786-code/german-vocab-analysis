@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Flohmarkt
 
+![[Flohmarkt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Flohmarkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flohmarkt&language=de)
 
 **Meaning:** flea market

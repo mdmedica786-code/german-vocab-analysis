@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Puzzle
 
+![[Puzzle.jpg]]
+
 ![[Puzzle.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Puzzle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Puzzle&language=de)

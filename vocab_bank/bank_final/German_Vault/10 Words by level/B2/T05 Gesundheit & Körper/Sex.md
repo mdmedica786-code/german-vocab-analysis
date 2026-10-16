@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sex.ogg]]
 
+![[Sex.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sex/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sex&language=de)
 
 **Meaning:** sex

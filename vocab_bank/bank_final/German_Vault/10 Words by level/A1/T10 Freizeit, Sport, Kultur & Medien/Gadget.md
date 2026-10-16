@@ -24,6 +24,8 @@ status: "new"
 
 ![[Gadget.ogg]]
 
+![[Gadget.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gadget/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gadget&language=de)
 
 **Meaning:** gadget

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gegenstück.ogg]]
 
+![[Gegenstück.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gegenst%C3%BCck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegenst%C3%BCck&language=de)
 
 **Meaning:** counterpart; opposite

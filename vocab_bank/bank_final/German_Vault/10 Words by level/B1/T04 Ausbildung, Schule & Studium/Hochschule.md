@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Hochschule
 
+![[Hochschule.jpg]]
+
 ![[Hochschule.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hochschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochschule&language=de)

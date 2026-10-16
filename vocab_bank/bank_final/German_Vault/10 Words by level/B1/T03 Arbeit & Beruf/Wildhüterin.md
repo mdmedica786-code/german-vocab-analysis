@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wildhüterin.ogg]]
 
+![[Wildhüterin.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wildh%C3%BCterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wildh%C3%BCterin&language=de)
 
 **Meaning:** gamekeeper (f)

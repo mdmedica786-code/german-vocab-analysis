@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fernfahrerin.ogg]]
 
+![[Fernfahrerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fernfahrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fernfahrerin&language=de)
 
 **Meaning:** long-distance lorry driver (f)

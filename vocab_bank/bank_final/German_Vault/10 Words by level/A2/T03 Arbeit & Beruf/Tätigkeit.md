@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tätigkeit.ogg]]
 
+![[Tätigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/T%C3%A4tigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%A4tigkeit&language=de)
 
 **Meaning:** occupation

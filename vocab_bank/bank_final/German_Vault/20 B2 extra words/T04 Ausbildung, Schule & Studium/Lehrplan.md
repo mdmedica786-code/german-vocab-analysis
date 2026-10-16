@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lehrplan.ogg]]
 
+![[Lehrplan.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lehrplan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lehrplan&language=de)
 
 **Meaning:** curriculum; syllabus

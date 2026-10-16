@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Einschlafhilfe
 
+![[Einschlafhilfe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einschlafhilfe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einschlafhilfe&language=de)
 
 **Meaning:** sleep aid; help for falling asleep

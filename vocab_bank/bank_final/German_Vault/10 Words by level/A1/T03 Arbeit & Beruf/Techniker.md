@@ -25,6 +25,8 @@ status: "new"
 
 ![[Techniker.ogg]]
 
+![[Techniker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Techniker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Techniker&language=de)
 
 **Meaning:** technician (m)

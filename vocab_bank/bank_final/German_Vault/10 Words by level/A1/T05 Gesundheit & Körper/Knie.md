@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Knie
 
+![[Knie.jpg]]
+
 ![[Knie.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Knie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Knie&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Menü.ogg]]
 
+![[Menü.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Men%C3%BC/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Men%C3%BC&language=de)
 
 **Meaning:** menu

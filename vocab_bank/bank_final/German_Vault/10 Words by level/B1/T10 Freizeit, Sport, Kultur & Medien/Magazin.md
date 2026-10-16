@@ -25,6 +25,8 @@ status: "new"
 
 ![[Magazin.ogg]]
 
+![[Magazin.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Magazin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Magazin&language=de)
 
 **Meaning:** magazine

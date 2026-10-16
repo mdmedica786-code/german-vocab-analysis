@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gebärde.ogg]]
 
+![[Gebärde.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geb%C3%A4rde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geb%C3%A4rde&language=de)
 
 **Meaning:** sign; gesture (in sign language)

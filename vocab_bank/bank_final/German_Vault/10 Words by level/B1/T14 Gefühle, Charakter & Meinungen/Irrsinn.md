@@ -24,6 +24,8 @@ status: "new"
 
 ![[Irrsinn.ogg]]
 
+![[Irrsinn.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Irrsinn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Irrsinn&language=de)
 
 **Meaning:** insanity

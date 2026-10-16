@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Eisen
 
+![[Eisen.jpg]]
+
 ![[Eisen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Eisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eisen&language=de)

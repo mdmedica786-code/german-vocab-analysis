@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Zitrone
 
+![[Zitrone.jpg]]
+
 ![[Zitrone.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zitrone/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zitrone&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fundament.ogg]]
 
+![[Fundament.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fundament/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fundament&language=de)
 
 **Meaning:** foundation

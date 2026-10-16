@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tierhaltung.ogg]]
 
+![[Tierhaltung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tierhaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tierhaltung&language=de)
 
 **Meaning:** keeping of animals; animal husbandry

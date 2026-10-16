@@ -24,6 +24,8 @@ status: "new"
 
 ![[Olympiasieger.ogg]]
 
+![[Olympiasieger.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Olympiasieger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Olympiasieger&language=de)
 
 **Meaning:** Olympic champion (m)

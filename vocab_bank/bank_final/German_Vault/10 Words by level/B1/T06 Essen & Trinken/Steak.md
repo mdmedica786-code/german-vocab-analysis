@@ -25,6 +25,8 @@ status: "new"
 
 ![[Steak.ogg]]
 
+![[Steak.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Steak/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Steak&language=de)
 
 **Meaning:** steak

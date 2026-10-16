@@ -23,6 +23,8 @@ status: "new"
 
 ![[Aufnahmeprüfung.ogg]]
 
+![[Aufnahmeprüfung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aufnahmepr%C3%BCfung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufnahmepr%C3%BCfung&language=de)
 
 **Meaning:** entrance exam

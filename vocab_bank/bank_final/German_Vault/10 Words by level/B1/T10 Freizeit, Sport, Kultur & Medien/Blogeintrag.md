@@ -24,6 +24,8 @@ status: "new"
 
 ![[Blogeintrag.ogg]]
 
+![[Blogeintrag.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Blogeintrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blogeintrag&language=de)
 
 **Meaning:** blog post

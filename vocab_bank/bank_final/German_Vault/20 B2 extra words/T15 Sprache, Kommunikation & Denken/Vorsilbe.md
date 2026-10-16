@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Vorsilbe
 
+![[Vorsilbe.jpg]]
+
 ![[Vorsilbe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Vorsilbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorsilbe&language=de)

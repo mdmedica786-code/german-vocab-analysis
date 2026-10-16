@@ -23,6 +23,8 @@ status: "new"
 
 ![[Nebenrolle.ogg]]
 
+![[Nebenrolle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nebenrolle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nebenrolle&language=de)
 
 **Meaning:** supporting role

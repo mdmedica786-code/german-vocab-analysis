@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Brunnen
 
+![[Brunnen.jpg]]
+
 ![[Brunnen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Brunnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brunnen&language=de)

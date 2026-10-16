@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dankbarkeit.ogg]]
 
+![[Dankbarkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dankbarkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dankbarkeit&language=de)
 
 **Meaning:** gratitude

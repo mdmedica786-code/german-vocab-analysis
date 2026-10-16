@@ -23,6 +23,8 @@ status: "new"
 
 ![[Raststätte.ogg]]
 
+![[Raststätte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rastst%C3%A4tte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rastst%C3%A4tte&language=de)
 
 **Meaning:** motorway service area

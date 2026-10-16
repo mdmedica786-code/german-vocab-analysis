@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schachclub.ogg]]
 
+![[Schachclub.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schachclub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schachclub&language=de)
 
 **Meaning:** chess club

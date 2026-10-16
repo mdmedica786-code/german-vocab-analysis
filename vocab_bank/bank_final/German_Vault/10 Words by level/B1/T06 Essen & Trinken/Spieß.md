@@ -24,6 +24,8 @@ status: "new"
 
 ![[Spieß.ogg]]
 
+![[Spieß.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spie%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spie%C3%9F&language=de)
 
 **Meaning:** skewer; spit

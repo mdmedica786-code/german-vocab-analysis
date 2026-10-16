@@ -24,6 +24,8 @@ status: "new"
 
 ![[Stummfilm.ogg]]
 
+![[Stummfilm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stummfilm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stummfilm&language=de)
 
 **Meaning:** silent film

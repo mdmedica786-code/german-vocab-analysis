@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Soldat
 
+![[Soldat.jpg]]
+
 ![[Soldat.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Soldat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Soldat&language=de)

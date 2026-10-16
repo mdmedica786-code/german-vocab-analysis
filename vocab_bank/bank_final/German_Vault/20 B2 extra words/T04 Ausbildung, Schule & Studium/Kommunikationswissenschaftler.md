@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kommunikationswissenschaftler.ogg]]
 
+![[Kommunikationswissenschaftler.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kommunikationswissenschaftler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kommunikationswissenschaftler&language=de)
 
 **Meaning:** communication scientist (male)

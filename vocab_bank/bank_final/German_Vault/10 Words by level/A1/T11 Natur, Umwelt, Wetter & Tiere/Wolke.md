@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Wolke
 
+![[Wolke.jpg]]
+
 ![[Wolke.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wolke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wolke&language=de)

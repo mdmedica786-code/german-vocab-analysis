@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Gipfel
 
+![[Gipfel.jpg]]
+
 ![[Gipfel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gipfel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gipfel&language=de)

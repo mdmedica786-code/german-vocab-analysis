@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stahlbeton.ogg]]
 
+![[Stahlbeton.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stahlbeton/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stahlbeton&language=de)
 
 **Meaning:** reinforced concrete

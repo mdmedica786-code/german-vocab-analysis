@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Gitarre
 
+![[Gitarre.jpg]]
+
 ![[Gitarre.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gitarre/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gitarre&language=de)

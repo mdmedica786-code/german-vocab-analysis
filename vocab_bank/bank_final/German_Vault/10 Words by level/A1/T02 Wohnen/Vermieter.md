@@ -25,6 +25,8 @@ status: "new"
 
 ![[Vermieter.ogg]]
 
+![[Vermieter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vermieter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vermieter&language=de)
 
 **Meaning:** landlord

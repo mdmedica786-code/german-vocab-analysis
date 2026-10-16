@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bergstation.ogg]]
 
+![[Bergstation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bergstation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bergstation&language=de)
 
 **Meaning:** summit station

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Papagei.ogg]]
 
+![[Papagei.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Papagei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Papagei&language=de)
 
 **Meaning:** parrot

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Spaziergang.ogg]]
 
+![[Spaziergang.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spaziergang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spaziergang&language=de)
 
 **Meaning:** walk

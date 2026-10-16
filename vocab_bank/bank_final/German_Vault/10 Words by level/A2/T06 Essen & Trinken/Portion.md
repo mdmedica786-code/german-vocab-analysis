@@ -25,6 +25,8 @@ status: "new"
 
 ![[Portion.ogg]]
 
+![[Portion.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Portion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Portion&language=de)
 
 **Meaning:** portion

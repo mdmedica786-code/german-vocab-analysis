@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Schneebesen
 
+![[Schneebesen.jpg]]
+
 ![[Schneebesen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schneebesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schneebesen&language=de)

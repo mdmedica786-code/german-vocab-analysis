@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hörsaal.ogg]]
 
+![[Hörsaal.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6rsaal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6rsaal&language=de)
 
 **Meaning:** lecture hall

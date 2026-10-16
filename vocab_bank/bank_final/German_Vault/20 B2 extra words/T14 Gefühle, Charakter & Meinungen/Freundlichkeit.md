@@ -23,6 +23,8 @@ status: "new"
 
 ![[Freundlichkeit.ogg]]
 
+![[Freundlichkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Freundlichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freundlichkeit&language=de)
 
 **Meaning:** friendliness; kindness

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Gamifizierung
 
+![[Gamifizierung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gamifizierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gamifizierung&language=de)
 
 **Meaning:** gamification (turning something into a game)

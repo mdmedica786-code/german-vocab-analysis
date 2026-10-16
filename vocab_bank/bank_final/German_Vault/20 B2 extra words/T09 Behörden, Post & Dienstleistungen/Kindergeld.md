@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kindergeld.ogg]]
 
+![[Kindergeld.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kindergeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kindergeld&language=de)
 
 **Meaning:** child benefit

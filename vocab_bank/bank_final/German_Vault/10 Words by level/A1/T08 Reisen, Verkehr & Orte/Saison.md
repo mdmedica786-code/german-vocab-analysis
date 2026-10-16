@@ -25,6 +25,8 @@ status: "new"
 
 ![[Saison.ogg]]
 
+![[Saison.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Saison/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Saison&language=de)
 
 **Meaning:** season

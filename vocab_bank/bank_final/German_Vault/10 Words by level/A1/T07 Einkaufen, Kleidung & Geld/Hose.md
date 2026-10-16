@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Hose
 
+![[Hose.jpg]]
+
 ![[Hose.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hose/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hose&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schande.ogg]]
 
+![[Schande.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schande/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schande&language=de)
 
 **Meaning:** shame; disgrace

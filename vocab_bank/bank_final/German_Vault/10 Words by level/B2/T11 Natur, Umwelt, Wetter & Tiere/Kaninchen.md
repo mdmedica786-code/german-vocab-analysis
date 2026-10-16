@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Kaninchen
 
+![[Kaninchen.jpg]]
+
 ![[Kaninchen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kaninchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaninchen&language=de)

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der E-Scooter
 
+![[E-Scooter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/E-Scooter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=E-Scooter&language=de)
 
 **Meaning:** electric scooter

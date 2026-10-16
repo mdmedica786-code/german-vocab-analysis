@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ladekabel.ogg]]
 
+![[Ladekabel.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ladekabel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ladekabel&language=de)
 
 **Meaning:** charging cable

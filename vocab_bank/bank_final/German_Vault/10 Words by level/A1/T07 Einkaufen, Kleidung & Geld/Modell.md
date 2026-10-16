@@ -25,6 +25,8 @@ status: "new"
 
 ![[Modell.ogg]]
 
+![[Modell.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Modell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Modell&language=de)
 
 **Meaning:** model

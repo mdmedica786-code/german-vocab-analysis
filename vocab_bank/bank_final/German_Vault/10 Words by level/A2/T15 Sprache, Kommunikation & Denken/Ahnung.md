@@ -25,6 +25,8 @@ status: "new"
 
 ![[Ahnung.ogg]]
 
+![[Ahnung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ahnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ahnung&language=de)
 
 **Meaning:** idea; notion (keine Ahnung = no idea)

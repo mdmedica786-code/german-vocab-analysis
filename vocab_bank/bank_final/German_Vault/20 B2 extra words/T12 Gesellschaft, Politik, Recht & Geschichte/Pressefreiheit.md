@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pressefreiheit.ogg]]
 
+![[Pressefreiheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pressefreiheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pressefreiheit&language=de)
 
 **Meaning:** freedom of the press

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Vollpension.ogg]]
 
+![[Vollpension.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vollpension/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vollpension&language=de)
 
 **Meaning:** full board

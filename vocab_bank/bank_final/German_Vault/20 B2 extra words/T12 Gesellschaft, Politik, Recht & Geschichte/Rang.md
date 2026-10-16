@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rang.ogg]]
 
+![[Rang.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rang&language=de)
 
 **Meaning:** rank; position; tier

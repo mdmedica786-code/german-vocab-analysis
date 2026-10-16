@@ -23,6 +23,8 @@ status: "new"
 
 ![[Untersuchungshaft.ogg]]
 
+![[Untersuchungshaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Untersuchungshaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Untersuchungshaft&language=de)
 
 **Meaning:** pre-trial detention

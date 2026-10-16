@@ -23,6 +23,8 @@ status: "new"
 
 ![[Leihfrist.ogg]]
 
+![[Leihfrist.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Leihfrist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leihfrist&language=de)
 
 **Meaning:** loan period

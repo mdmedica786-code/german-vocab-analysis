@@ -23,6 +23,8 @@ status: "new"
 
 ![[Versuchung.ogg]]
 
+![[Versuchung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Versuchung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versuchung&language=de)
 
 **Meaning:** temptation

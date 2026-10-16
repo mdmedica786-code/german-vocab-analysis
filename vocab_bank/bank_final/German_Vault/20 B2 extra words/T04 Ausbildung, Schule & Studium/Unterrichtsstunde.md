@@ -23,6 +23,8 @@ status: "new"
 
 ![[Unterrichtsstunde.ogg]]
 
+![[Unterrichtsstunde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Unterrichtsstunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterrichtsstunde&language=de)
 
 **Meaning:** lesson; class period

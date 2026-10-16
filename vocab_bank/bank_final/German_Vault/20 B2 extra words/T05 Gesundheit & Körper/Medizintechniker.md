@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Medizintechniker
 
+![[Medizintechniker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Medizintechniker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medizintechniker&language=de)
 
 **Meaning:** medical technician (male); biomedical engineer

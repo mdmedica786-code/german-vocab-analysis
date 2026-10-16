@@ -23,6 +23,8 @@ status: "new"
 
 ![[Genie.ogg]]
 
+![[Genie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Genie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Genie&language=de)
 
 **Meaning:** genius

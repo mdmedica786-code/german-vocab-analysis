@@ -25,6 +25,8 @@ status: "new"
 
 ![[Euro.ogg]]
 
+![[Euro.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Euro/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Euro&language=de)
 
 **Meaning:** euro

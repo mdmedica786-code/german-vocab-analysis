@@ -23,6 +23,8 @@ status: "new"
 
 ![[Reibe.ogg]]
 
+![[Reibe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reibe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reibe&language=de)
 
 **Meaning:** grater

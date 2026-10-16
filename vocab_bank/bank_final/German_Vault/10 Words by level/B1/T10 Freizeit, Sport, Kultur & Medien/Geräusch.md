@@ -23,6 +23,8 @@ status: "new"
 
 ![[Geräusch.ogg]]
 
+![[Geräusch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ger%C3%A4usch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ger%C3%A4usch&language=de)
 
 **Meaning:** noise; sound

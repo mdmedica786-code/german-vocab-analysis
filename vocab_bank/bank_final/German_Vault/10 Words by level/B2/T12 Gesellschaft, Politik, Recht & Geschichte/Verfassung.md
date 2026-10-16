@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Verfassung
 
+![[Verfassung.jpg]]
+
 ![[Verfassung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Verfassung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verfassung&language=de)

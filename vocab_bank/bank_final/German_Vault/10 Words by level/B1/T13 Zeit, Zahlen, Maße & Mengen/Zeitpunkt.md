@@ -25,6 +25,8 @@ status: "new"
 
 ![[Zeitpunkt.ogg]]
 
+![[Zeitpunkt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zeitpunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitpunkt&language=de)
 
 **Meaning:** time (point in)

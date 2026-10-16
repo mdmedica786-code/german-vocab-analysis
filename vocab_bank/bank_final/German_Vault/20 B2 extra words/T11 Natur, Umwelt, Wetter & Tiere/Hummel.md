@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hummel.ogg]]
 
+![[Hummel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hummel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hummel&language=de)
 
 **Meaning:** bumblebee

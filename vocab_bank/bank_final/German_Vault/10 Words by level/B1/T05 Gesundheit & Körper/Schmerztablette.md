@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schmerztablette.ogg]]
 
+![[Schmerztablette.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schmerztablette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schmerztablette&language=de)
 
 **Meaning:** pain killer

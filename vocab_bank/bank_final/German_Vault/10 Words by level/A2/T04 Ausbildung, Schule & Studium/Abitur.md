@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Abitur
 
+![[Abitur.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abitur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abitur&language=de)
 
 **Meaning:** A levels

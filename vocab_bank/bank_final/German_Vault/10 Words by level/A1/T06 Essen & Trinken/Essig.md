@@ -25,6 +25,8 @@ status: "new"
 
 ![[Essig.ogg]]
 
+![[Essig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Essig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Essig&language=de)
 
 **Meaning:** vinegar

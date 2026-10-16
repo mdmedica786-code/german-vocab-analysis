@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kajak.ogg]]
 
+![[Kajak.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kajak/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kajak&language=de)
 
 **Meaning:** kayak

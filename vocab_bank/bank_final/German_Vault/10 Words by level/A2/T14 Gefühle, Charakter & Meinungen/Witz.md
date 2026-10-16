@@ -25,6 +25,8 @@ status: "new"
 
 ![[Witz.ogg]]
 
+![[Witz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Witz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Witz&language=de)
 
 **Meaning:** joke

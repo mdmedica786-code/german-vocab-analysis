@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ehrenamt.ogg]]
 
+![[Ehrenamt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ehrenamt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehrenamt&language=de)
 
 **Meaning:** voluntary work; honorary office

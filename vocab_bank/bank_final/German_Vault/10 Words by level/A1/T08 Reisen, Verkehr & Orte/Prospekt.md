@@ -25,6 +25,8 @@ status: "new"
 
 ![[Prospekt.ogg]]
 
+![[Prospekt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Prospekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prospekt&language=de)
 
 **Meaning:** brochure

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Revier.ogg]]
 
+![[Revier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Revier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Revier&language=de)
 
 **Meaning:** territory; district

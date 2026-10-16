@@ -24,6 +24,8 @@ status: "new"
 
 ![[Checkliste.ogg]]
 
+![[Checkliste.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Checkliste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Checkliste&language=de)
 
 **Meaning:** checklist

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Energie
 
+![[Energie.jpg]]
+
 ![[Energie.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Energie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Energie&language=de)

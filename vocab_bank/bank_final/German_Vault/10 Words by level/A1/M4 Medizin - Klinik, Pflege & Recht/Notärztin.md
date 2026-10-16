@@ -24,6 +24,8 @@ status: "new"
 
 ![[Notärztin.ogg]]
 
+![[Notärztin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Not%C3%A4rztin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Not%C3%A4rztin&language=de)
 
 **Meaning:** emergency doctor (f)

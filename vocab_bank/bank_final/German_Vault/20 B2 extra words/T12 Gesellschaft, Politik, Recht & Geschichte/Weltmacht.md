@@ -23,6 +23,8 @@ status: "new"
 
 ![[Weltmacht.ogg]]
 
+![[Weltmacht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Weltmacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weltmacht&language=de)
 
 **Meaning:** world power; superpower

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Blindenschrift.ogg]]
 
+![[Blindenschrift.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Blindenschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blindenschrift&language=de)
 
 **Meaning:** Braille; writing for the blind

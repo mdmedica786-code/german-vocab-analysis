@@ -23,6 +23,8 @@ status: "new"
 
 ![[Arbeitsprozess.ogg]]
 
+![[Arbeitsprozess.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitsprozess/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsprozess&language=de)
 
 **Meaning:** work process; workflow

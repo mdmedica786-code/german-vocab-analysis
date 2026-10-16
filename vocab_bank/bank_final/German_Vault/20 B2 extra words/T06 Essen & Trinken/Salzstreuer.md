@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Salzstreuer
 
+![[Salzstreuer.jpg]]
+
 ![[Salzstreuer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Salzstreuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Salzstreuer&language=de)

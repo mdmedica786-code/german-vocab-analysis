@@ -24,6 +24,8 @@ status: "new"
 
 ![[Userin.ogg]]
 
+![[Userin.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Userin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Userin&language=de)
 
 **Meaning:** user (f)

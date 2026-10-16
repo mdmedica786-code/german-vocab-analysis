@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verbesserung.ogg]]
 
+![[Verbesserung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verbesserung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbesserung&language=de)
 
 **Meaning:** improvement

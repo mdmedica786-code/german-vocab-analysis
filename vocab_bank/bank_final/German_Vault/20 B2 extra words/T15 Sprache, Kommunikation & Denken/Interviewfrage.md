@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Interviewfrage
 
+![[Interviewfrage.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Interviewfrage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Interviewfrage&language=de)
 
 **Meaning:** interview question

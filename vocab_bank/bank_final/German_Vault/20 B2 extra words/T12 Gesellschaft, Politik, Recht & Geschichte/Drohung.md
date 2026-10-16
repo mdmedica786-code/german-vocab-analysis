@@ -23,6 +23,8 @@ status: "new"
 
 ![[Drohung.ogg]]
 
+![[Drohung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Drohung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Drohung&language=de)
 
 **Meaning:** threat

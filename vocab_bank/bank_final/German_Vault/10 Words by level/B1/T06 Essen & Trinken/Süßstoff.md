@@ -24,6 +24,8 @@ status: "new"
 
 ![[Süßstoff.ogg]]
 
+![[Süßstoff.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/S%C3%BC%C3%9Fstoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%BC%C3%9Fstoff&language=de)
 
 **Meaning:** sweetener

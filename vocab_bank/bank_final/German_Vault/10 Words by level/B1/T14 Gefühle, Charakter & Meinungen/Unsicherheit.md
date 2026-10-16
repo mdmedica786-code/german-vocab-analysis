@@ -24,6 +24,8 @@ status: "new"
 
 ![[Unsicherheit.ogg]]
 
+![[Unsicherheit.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Unsicherheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unsicherheit&language=de)
 
 **Meaning:** uncertainty

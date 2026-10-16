@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Kommunikationskompetenz
 
+![[Kommunikationskompetenz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kommunikationskompetenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kommunikationskompetenz&language=de)
 
 **Meaning:** communication skills; communicative competence

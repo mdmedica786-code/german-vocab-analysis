@@ -25,6 +25,8 @@ status: "new"
 
 ![[Köchin.ogg]]
 
+![[Köchin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%B6chin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%B6chin&language=de)
 
 **Meaning:** cook (f)

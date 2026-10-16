@@ -23,6 +23,8 @@ status: "new"
 
 ![[Vorwort.ogg]]
 
+![[Vorwort.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vorwort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorwort&language=de)
 
 **Meaning:** foreword; preface

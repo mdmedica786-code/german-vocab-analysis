@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rentenalter.ogg]]
 
+![[Rentenalter.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rentenalter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rentenalter&language=de)
 
 **Meaning:** retirement age

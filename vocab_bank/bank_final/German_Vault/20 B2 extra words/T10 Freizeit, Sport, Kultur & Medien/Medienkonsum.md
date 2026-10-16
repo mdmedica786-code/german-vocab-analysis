@@ -23,6 +23,8 @@ status: "new"
 
 ![[Medienkonsum.ogg]]
 
+![[Medienkonsum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Medienkonsum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medienkonsum&language=de)
 
 **Meaning:** media consumption

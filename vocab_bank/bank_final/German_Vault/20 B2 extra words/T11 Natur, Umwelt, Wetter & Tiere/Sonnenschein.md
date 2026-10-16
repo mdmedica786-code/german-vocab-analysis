@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Sonnenschein
 
+![[Sonnenschein.jpg]]
+
 ![[Sonnenschein.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sonnenschein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnenschein&language=de)

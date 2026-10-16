@@ -24,6 +24,8 @@ status: "new"
 
 ![[Intelligenz.ogg]]
 
+![[Intelligenz.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Intelligenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Intelligenz&language=de)
 
 **Meaning:** intelligence

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kontoauszug.ogg]]
 
+![[Kontoauszug.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kontoauszug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontoauszug&language=de)
 
 **Meaning:** bank statement

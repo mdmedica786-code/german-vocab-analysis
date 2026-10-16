@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Woche
 
+![[Woche.png]]
+
 ![[Woche.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Woche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Woche&language=de)

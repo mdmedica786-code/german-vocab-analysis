@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Servicezeit
 
+![[Servicezeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Servicezeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Servicezeit&language=de)
 
 **Meaning:** service hours

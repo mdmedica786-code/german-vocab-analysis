@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ungewissheit.ogg]]
 
+![[Ungewissheit.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ungewissheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ungewissheit&language=de)
 
 **Meaning:** uncertainty

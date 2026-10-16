@@ -25,6 +25,8 @@ status: "new"
 
 ![[Flur.ogg]]
 
+![[Flur.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Flur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flur&language=de)
 
 **Meaning:** hallway

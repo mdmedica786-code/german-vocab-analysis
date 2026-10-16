@@ -25,6 +25,8 @@ status: "new"
 
 ![[Hemd.ogg]]
 
+![[Hemd.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hemd/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hemd&language=de)
 
 **Meaning:** shirt

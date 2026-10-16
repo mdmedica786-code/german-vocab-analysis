@@ -24,6 +24,8 @@ status: "new"
 
 ![[Pfennig.ogg]]
 
+![[Pfennig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pfennig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfennig&language=de)
 
 **Meaning:** penny

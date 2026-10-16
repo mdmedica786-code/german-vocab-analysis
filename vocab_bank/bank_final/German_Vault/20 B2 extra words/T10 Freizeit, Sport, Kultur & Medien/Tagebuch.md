@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tagebuch.ogg]]
 
+![[Tagebuch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tagebuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tagebuch&language=de)
 
 **Meaning:** diary; journal

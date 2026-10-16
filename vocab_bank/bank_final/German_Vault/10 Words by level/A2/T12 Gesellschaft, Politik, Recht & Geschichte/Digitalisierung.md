@@ -24,6 +24,8 @@ status: "new"
 
 ![[Digitalisierung.ogg]]
 
+![[Digitalisierung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Digitalisierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Digitalisierung&language=de)
 
 **Meaning:** digitisation

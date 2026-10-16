@@ -24,6 +24,8 @@ status: "new"
 
 ![[Luxus.ogg]]
 
+![[Luxus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Luxus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luxus&language=de)
 
 **Meaning:** luxury

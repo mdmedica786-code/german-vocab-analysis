@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bücherei.ogg]]
 
+![[Bücherei.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCcherei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCcherei&language=de)
 
 **Meaning:** library

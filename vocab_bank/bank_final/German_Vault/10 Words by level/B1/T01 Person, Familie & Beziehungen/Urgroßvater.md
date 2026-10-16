@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Urgroßvater
 
+![[Urgroßvater.jpg]]
+
 ![[Urgroßvater.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Urgro%C3%9Fvater/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urgro%C3%9Fvater&language=de)

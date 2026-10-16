@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schöpfung.ogg]]
 
+![[Schöpfung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%B6pfung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%B6pfung&language=de)
 
 **Meaning:** creation

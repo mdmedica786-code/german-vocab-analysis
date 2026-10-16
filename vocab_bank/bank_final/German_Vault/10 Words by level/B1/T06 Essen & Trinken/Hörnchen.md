@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hörnchen.ogg]]
 
+![[Hörnchen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6rnchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6rnchen&language=de)
 
 **Meaning:** croissant

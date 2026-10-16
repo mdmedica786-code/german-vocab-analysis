@@ -23,6 +23,8 @@ status: "new"
 
 ![[Absicherung.ogg]]
 
+![[Absicherung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Absicherung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Absicherung&language=de)
 
 **Meaning:** safeguarding; security

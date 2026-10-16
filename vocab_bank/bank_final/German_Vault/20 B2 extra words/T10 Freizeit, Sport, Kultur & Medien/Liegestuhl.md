@@ -23,6 +23,8 @@ status: "new"
 
 ![[Liegestuhl.ogg]]
 
+![[Liegestuhl.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Liegestuhl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Liegestuhl&language=de)
 
 **Meaning:** deckchair; sun lounger

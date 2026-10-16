@@ -24,6 +24,8 @@ status: "new"
 
 ![[Aufmerksamkeit.ogg]]
 
+![[Aufmerksamkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aufmerksamkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufmerksamkeit&language=de)
 
 **Meaning:** attention

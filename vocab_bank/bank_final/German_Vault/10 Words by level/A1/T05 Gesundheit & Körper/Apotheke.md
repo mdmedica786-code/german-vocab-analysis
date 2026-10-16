@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Apotheke
 
+![[Apotheke.jpg]]
+
 ![[Apotheke.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Apotheke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Apotheke&language=de)

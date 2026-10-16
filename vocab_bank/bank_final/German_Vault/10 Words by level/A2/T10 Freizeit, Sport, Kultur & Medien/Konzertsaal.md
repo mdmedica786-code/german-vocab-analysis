@@ -24,6 +24,8 @@ status: "new"
 
 ![[Konzertsaal.ogg]]
 
+![[Konzertsaal.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konzertsaal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konzertsaal&language=de)
 
 **Meaning:** concert hall

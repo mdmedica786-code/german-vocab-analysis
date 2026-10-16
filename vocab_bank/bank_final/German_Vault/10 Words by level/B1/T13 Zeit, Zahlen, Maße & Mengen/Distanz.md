@@ -24,6 +24,8 @@ status: "new"
 
 ![[Distanz.ogg]]
 
+![[Distanz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Distanz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Distanz&language=de)
 
 **Meaning:** distance

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Stille
 
+![[Stille.png]]
+
 ![[Stille.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Stille/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stille&language=de)

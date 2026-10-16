@@ -24,6 +24,8 @@ status: "new"
 
 ![[Chemiker.ogg]]
 
+![[Chemiker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Chemiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chemiker&language=de)
 
 **Meaning:** chemist (m)

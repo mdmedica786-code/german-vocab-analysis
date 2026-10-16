@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wärmepumpe.ogg]]
 
+![[Wärmepumpe.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/W%C3%A4rmepumpe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%A4rmepumpe&language=de)
 
 **Meaning:** heat pump

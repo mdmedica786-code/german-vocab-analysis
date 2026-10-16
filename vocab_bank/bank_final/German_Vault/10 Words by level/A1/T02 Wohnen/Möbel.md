@@ -25,6 +25,8 @@ status: "new"
 
 ![[Möbel.ogg]]
 
+![[Möbel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%B6bel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%B6bel&language=de)
 
 **Meaning:** furniture

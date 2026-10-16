@@ -24,6 +24,8 @@ status: "new"
 
 ![[Krankenpflegerin.ogg]]
 
+![[Krankenpflegerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krankenpflegerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankenpflegerin&language=de)
 
 **Meaning:** nurse (f)

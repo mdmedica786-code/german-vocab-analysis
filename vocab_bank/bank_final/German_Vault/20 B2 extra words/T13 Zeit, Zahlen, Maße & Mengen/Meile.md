@@ -23,6 +23,8 @@ status: "new"
 
 ![[Meile.ogg]]
 
+![[Meile.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Meile/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meile&language=de)
 
 **Meaning:** mile

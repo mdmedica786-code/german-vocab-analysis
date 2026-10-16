@@ -25,6 +25,8 @@ status: "new"
 
 ![[Geburtstag.ogg]]
 
+![[Geburtstag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geburtstag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburtstag&language=de)
 
 **Meaning:** birthday

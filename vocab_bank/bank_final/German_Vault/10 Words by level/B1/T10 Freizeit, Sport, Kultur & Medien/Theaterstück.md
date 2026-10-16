@@ -24,6 +24,8 @@ status: "new"
 
 ![[Theaterstück.ogg]]
 
+![[Theaterstück.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Theaterst%C3%BCck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Theaterst%C3%BCck&language=de)
 
 **Meaning:** theatre play

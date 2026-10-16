@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lebkuchen.ogg]]
 
+![[Lebkuchen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lebkuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebkuchen&language=de)
 
 **Meaning:** gingerbread

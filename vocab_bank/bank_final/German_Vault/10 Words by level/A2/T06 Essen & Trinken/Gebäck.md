@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Gebäck
 
+![[Gebäck.jpg]]
+
 ![[Gebäck.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Geb%C3%A4ck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geb%C3%A4ck&language=de)

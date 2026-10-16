@@ -22,6 +22,8 @@ status: "new"
 
 ![[Umgangsformen.ogg]]
 
+![[Umgangsformen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Umgangsformen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umgangsformen&language=de)
 
 **Meaning:** manners; etiquette

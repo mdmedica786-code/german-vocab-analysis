@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Pkw
 
+![[Pkw.jpg]]
+
 ![[Pkw.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Pkw/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pkw&language=de)

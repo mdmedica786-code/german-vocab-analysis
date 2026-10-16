@@ -24,6 +24,8 @@ status: "new"
 
 ![[Operationssaal.ogg]]
 
+![[Operationssaal.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Operationssaal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Operationssaal&language=de)
 
 **Meaning:** operating theatre

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Musikproduktion.ogg]]
 
+![[Musikproduktion.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Musikproduktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikproduktion&language=de)
 
 **Meaning:** music production

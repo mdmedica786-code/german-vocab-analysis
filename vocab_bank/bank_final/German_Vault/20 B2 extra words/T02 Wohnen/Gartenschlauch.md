@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gartenschlauch.ogg]]
 
+![[Gartenschlauch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gartenschlauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gartenschlauch&language=de)
 
 **Meaning:** garden hose

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Akku.ogg]]
 
+![[Akku.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Akku/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Akku&language=de)
 
 **Meaning:** battery

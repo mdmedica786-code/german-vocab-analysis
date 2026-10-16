@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hotspot.ogg]]
 
+![[Hotspot.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hotspot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hotspot&language=de)
 
 **Meaning:** Wi-Fi hotspot

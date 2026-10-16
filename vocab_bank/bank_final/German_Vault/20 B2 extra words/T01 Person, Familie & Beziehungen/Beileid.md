@@ -23,6 +23,8 @@ status: "new"
 
 ![[Beileid.ogg]]
 
+![[Beileid.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beileid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beileid&language=de)
 
 **Meaning:** condolences

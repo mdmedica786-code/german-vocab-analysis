@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Prüfung
 
+![[Prüfung.jpg]]
+
 ![[Prüfung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Pr%C3%BCfung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pr%C3%BCfung&language=de)

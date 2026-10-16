@@ -23,6 +23,8 @@ status: "new"
 
 ![[Teich.ogg]]
 
+![[Teich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Teich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teich&language=de)
 
 **Meaning:** pond

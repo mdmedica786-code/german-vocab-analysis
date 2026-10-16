@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Anwältin
 
+![[Anwältin.jpg]]
+
 ![[Anwältin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Anw%C3%A4ltin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anw%C3%A4ltin&language=de)

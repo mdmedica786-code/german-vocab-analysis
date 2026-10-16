@@ -23,6 +23,8 @@ status: "new"
 
 ![[Staunen.ogg]]
 
+![[Staunen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Staunen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Staunen&language=de)
 
 **Meaning:** astonishment; wonder

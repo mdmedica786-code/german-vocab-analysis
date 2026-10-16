@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Lebewesen
 
+![[Lebewesen.jpg]]
+
 ![[Lebewesen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Lebewesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebewesen&language=de)

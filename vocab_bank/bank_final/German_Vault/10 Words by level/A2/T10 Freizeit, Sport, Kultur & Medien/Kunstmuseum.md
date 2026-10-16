@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kunstmuseum.ogg]]
 
+![[Kunstmuseum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kunstmuseum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunstmuseum&language=de)
 
 **Meaning:** art museum

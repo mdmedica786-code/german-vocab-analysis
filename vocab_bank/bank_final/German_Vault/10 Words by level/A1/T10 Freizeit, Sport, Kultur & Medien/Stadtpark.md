@@ -24,6 +24,8 @@ status: "new"
 
 ![[Stadtpark.ogg]]
 
+![[Stadtpark.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stadtpark/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtpark&language=de)
 
 **Meaning:** city park

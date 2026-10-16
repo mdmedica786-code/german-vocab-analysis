@@ -25,6 +25,8 @@ status: "new"
 
 ![[Flucht.ogg]]
 
+![[Flucht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Flucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flucht&language=de)
 
 **Meaning:** escape

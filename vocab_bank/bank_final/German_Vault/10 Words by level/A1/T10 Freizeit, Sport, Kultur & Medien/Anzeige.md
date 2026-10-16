@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Anzeige
 
+![[Anzeige.jpg]]
+
 ![[Anzeige.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Anzeige/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anzeige&language=de)

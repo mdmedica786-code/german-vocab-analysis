@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Qualle
 
+![[Qualle.jpg]]
+
 ![[Qualle.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Qualle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Qualle&language=de)

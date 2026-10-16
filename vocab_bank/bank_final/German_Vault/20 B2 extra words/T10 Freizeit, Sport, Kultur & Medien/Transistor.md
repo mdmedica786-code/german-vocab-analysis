@@ -23,6 +23,8 @@ status: "new"
 
 ![[Transistor.ogg]]
 
+![[Transistor.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Transistor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Transistor&language=de)
 
 **Meaning:** transistor

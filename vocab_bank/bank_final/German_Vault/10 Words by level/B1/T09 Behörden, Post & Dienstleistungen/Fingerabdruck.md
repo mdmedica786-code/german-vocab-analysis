@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fingerabdruck.ogg]]
 
+![[Fingerabdruck.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fingerabdruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fingerabdruck&language=de)
 
 **Meaning:** finger print

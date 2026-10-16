@@ -23,6 +23,8 @@ status: "new"
 
 ![[Brombeere.ogg]]
 
+![[Brombeere.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Brombeere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brombeere&language=de)
 
 **Meaning:** blackberry

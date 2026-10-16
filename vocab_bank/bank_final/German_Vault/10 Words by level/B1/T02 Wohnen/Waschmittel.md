@@ -24,6 +24,8 @@ status: "new"
 
 ![[Waschmittel.ogg]]
 
+![[Waschmittel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Waschmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Waschmittel&language=de)
 
 **Meaning:** detergent

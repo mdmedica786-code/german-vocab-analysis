@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hundeschule.ogg]]
 
+![[Hundeschule.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hundeschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hundeschule&language=de)
 
 **Meaning:** dog school; dog training school

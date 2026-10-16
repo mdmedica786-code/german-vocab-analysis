@@ -24,6 +24,8 @@ status: "new"
 
 ![[Mappe.ogg]]
 
+![[Mappe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mappe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mappe&language=de)
 
 **Meaning:** folder

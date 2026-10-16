@@ -24,6 +24,8 @@ status: "new"
 
 ![[Rasen.ogg]]
 
+![[Rasen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rasen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rasen&language=de)
 
 **Meaning:** lawn

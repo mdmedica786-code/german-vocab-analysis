@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Schwager
 
+![[Schwager.jpg]]
+
 ![[Schwager.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schwager/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwager&language=de)

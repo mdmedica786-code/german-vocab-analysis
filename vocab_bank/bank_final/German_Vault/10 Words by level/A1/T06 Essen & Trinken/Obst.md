@@ -25,6 +25,8 @@ status: "new"
 
 ![[Obst.ogg]]
 
+![[Obst.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Obst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Obst&language=de)
 
 **Meaning:** fruit

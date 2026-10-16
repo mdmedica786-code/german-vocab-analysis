@@ -23,6 +23,8 @@ status: "new"
 
 ![[Küchenpapier.ogg]]
 
+![[Küchenpapier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%BCchenpapier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%BCchenpapier&language=de)
 
 **Meaning:** kitchen roll

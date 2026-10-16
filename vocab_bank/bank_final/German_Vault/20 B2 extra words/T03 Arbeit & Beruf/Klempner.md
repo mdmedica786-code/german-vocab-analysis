@@ -23,6 +23,8 @@ status: "new"
 
 ![[Klempner.ogg]]
 
+![[Klempner.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Klempner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klempner&language=de)
 
 **Meaning:** plumber

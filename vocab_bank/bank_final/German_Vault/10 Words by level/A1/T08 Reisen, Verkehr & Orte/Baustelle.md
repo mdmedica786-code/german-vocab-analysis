@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Baustelle
 
+![[Baustelle.jpg]]
+
 ![[Baustelle.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Baustelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Baustelle&language=de)

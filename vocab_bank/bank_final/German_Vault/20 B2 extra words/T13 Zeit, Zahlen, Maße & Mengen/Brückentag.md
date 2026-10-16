@@ -23,6 +23,8 @@ status: "new"
 
 ![[Brückentag.ogg]]
 
+![[Brückentag.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Br%C3%BCckentag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Br%C3%BCckentag&language=de)
 
 **Meaning:** bridge day (day off between holiday and weekend)

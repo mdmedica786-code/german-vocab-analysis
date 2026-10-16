@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Fahrkarte
 
+![[Fahrkarte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fahrkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrkarte&language=de)
 
 **Meaning:** ticket

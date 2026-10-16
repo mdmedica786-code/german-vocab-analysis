@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fußballfan.ogg]]
 
+![[Fußballfan.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fballfan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fballfan&language=de)
 
 **Meaning:** football fan

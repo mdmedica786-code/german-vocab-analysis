@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tafel.ogg]]
 
+![[Tafel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tafel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tafel&language=de)
 
 **Meaning:** blackboard

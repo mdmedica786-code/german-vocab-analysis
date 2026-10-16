@@ -23,6 +23,8 @@ status: "new"
 
 ![[Werkzeugkasten.ogg]]
 
+![[Werkzeugkasten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Werkzeugkasten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werkzeugkasten&language=de)
 
 **Meaning:** toolbox

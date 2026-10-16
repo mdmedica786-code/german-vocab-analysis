@@ -23,6 +23,8 @@ status: "new"
 
 ![[Satire.ogg]]
 
+![[Satire.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Satire/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Satire&language=de)
 
 **Meaning:** satire

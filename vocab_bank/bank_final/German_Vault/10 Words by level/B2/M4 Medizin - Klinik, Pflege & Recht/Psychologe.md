@@ -23,6 +23,8 @@ status: "new"
 
 ![[Psychologe.ogg]]
 
+![[Psychologe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Psychologe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Psychologe&language=de)
 
 **Meaning:** psychologist (m)

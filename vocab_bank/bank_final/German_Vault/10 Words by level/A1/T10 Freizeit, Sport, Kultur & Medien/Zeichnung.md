@@ -25,6 +25,8 @@ status: "new"
 
 ![[Zeichnung.ogg]]
 
+![[Zeichnung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zeichnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeichnung&language=de)
 
 **Meaning:** drawing

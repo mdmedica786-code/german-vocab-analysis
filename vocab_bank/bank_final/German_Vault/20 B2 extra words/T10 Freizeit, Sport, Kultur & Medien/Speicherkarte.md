@@ -23,6 +23,8 @@ status: "new"
 
 ![[Speicherkarte.ogg]]
 
+![[Speicherkarte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Speicherkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Speicherkarte&language=de)
 
 **Meaning:** memory card

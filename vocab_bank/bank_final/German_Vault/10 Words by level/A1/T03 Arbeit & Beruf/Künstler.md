@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Künstler
 
+![[Künstler.png]]
+
 ![[Künstler.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%BCnstler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%BCnstler&language=de)

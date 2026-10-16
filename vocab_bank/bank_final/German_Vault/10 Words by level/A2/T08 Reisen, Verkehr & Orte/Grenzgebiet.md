@@ -24,6 +24,8 @@ status: "new"
 
 ![[Grenzgebiet.ogg]]
 
+![[Grenzgebiet.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Grenzgebiet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grenzgebiet&language=de)
 
 **Meaning:** frontier

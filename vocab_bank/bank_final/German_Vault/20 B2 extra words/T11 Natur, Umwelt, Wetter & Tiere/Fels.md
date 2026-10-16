@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fels.ogg]]
 
+![[Fels.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fels/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fels&language=de)
 
 **Meaning:** rock; cliff; boulder

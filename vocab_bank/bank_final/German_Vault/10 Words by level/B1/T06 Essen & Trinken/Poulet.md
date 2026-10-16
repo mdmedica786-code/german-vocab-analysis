@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Poulet
 
+![[Poulet.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Poulet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Poulet&language=de)
 
 **Meaning:** chicken (Swiss)

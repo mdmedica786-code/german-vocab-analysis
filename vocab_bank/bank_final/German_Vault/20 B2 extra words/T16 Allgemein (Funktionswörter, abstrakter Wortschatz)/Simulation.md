@@ -23,6 +23,8 @@ status: "new"
 
 ![[Simulation.ogg]]
 
+![[Simulation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Simulation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Simulation&language=de)
 
 **Meaning:** simulation

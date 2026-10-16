@@ -24,6 +24,8 @@ status: "new"
 
 ![[Weltmeisterin.ogg]]
 
+![[Weltmeisterin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Weltmeisterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weltmeisterin&language=de)
 
 **Meaning:** world champion (f)

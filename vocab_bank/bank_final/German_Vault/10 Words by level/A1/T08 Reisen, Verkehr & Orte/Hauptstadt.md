@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Hauptstadt
 
+![[Hauptstadt.jpg]]
+
 ![[Hauptstadt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hauptstadt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptstadt&language=de)

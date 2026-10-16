@@ -23,6 +23,8 @@ status: "new"
 
 ![[Autoproduktion.ogg]]
 
+![[Autoproduktion.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Autoproduktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autoproduktion&language=de)
 
 **Meaning:** car production

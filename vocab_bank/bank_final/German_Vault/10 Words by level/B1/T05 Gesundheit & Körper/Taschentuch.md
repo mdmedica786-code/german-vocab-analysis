@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Taschentuch
 
+![[Taschentuch.jpg]]
+
 ![[Taschentuch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Taschentuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taschentuch&language=de)

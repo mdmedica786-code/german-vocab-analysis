@@ -25,6 +25,8 @@ status: "new"
 
 ![[Küste.ogg]]
 
+![[Küste.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%BCste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%BCste&language=de)
 
 **Meaning:** coast

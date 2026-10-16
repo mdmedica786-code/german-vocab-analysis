@@ -25,6 +25,8 @@ status: "new"
 
 ![[Benzin.ogg]]
 
+![[Benzin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Benzin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Benzin&language=de)
 
 **Meaning:** petrol

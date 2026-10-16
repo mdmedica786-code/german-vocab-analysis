@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Großbritannien
 
+![[Großbritannien.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gro%C3%9Fbritannien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gro%C3%9Fbritannien&language=de)
 
 **Meaning:** Great Britain

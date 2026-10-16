@@ -23,6 +23,8 @@ status: "new"
 
 ![[Anker.ogg]]
 
+![[Anker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anker&language=de)
 
 **Meaning:** anchor

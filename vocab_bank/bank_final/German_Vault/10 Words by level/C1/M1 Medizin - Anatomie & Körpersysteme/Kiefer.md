@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kiefer.ogg]]
 
+![[Kiefer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kiefer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kiefer&language=de)
 
 **Meaning:** jaw; pine tree (die Kiefer)

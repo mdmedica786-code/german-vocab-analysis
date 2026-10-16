@@ -23,6 +23,8 @@ status: "new"
 
 ![[Löwenzahn.ogg]]
 
+![[Löwenzahn.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/L%C3%B6wenzahn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%B6wenzahn&language=de)
 
 **Meaning:** dandelion

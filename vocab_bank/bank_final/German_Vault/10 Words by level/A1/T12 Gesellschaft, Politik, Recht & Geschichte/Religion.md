@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Religion
 
+![[Religion.png]]
+
 ![[Religion.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Religion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Religion&language=de)

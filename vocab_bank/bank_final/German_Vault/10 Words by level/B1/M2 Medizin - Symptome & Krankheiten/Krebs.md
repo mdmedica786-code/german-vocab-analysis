@@ -23,6 +23,8 @@ status: "new"
 
 ![[Krebs.ogg]]
 
+![[Krebs.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krebs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krebs&language=de)
 
 **Meaning:** cancer; crab

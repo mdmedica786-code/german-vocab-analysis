@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Laminat
 
+![[Laminat.jpg]]
+
 ![[Laminat.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Laminat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laminat&language=de)

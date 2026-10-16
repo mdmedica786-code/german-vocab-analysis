@@ -25,6 +25,8 @@ status: "new"
 
 ![[Roman.ogg]]
 
+![[Roman.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Roman/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Roman&language=de)
 
 **Meaning:** novel

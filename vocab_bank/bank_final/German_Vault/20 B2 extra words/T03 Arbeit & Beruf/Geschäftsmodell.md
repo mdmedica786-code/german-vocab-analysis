@@ -23,6 +23,8 @@ status: "new"
 
 ![[Geschäftsmodell.ogg]]
 
+![[Geschäftsmodell.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesch%C3%A4ftsmodell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesch%C3%A4ftsmodell&language=de)
 
 **Meaning:** business model

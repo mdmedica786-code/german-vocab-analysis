@@ -25,6 +25,8 @@ status: "new"
 
 ![[Wahrheit.ogg]]
 
+![[Wahrheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wahrheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahrheit&language=de)
 
 **Meaning:** truth

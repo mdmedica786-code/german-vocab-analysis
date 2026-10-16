@@ -25,6 +25,8 @@ status: "new"
 
 ![[Mut.ogg]]
 
+![[Mut.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mut&language=de)
 
 **Meaning:** courage

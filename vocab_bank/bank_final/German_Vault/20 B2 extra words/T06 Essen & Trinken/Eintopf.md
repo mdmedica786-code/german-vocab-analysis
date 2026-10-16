@@ -23,6 +23,8 @@ status: "new"
 
 ![[Eintopf.ogg]]
 
+![[Eintopf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Eintopf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eintopf&language=de)
 
 **Meaning:** stew; one-pot meal

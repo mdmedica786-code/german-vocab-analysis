@@ -23,6 +23,8 @@ status: "new"
 
 ![[Vordruck.ogg]]
 
+![[Vordruck.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vordruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vordruck&language=de)
 
 **Meaning:** printed form

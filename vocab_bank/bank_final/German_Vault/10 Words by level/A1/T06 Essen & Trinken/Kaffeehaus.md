@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kaffeehaus.ogg]]
 
+![[Kaffeehaus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kaffeehaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaffeehaus&language=de)
 
 **Meaning:** coffee shop

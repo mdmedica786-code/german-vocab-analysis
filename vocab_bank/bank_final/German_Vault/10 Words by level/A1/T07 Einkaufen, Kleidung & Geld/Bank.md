@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Bank
 
+![[Bank.jpg]]
+
 ![[Bank.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bank&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Motor.ogg]]
 
+![[Motor.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Motor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Motor&language=de)
 
 **Meaning:** engine; motor

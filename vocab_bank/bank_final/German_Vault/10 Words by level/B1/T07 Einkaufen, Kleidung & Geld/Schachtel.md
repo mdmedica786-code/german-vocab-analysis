@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schachtel.ogg]]
 
+![[Schachtel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schachtel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schachtel&language=de)
 
 **Meaning:** box; packet

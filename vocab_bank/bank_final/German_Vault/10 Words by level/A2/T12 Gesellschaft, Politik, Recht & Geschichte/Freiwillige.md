@@ -24,6 +24,8 @@ status: "new"
 
 ![[Freiwillige.ogg]]
 
+![[Freiwillige.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Freiwillige/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freiwillige&language=de)
 
 **Meaning:** volunteer

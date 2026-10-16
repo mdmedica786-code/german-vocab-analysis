@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lohnabrechnung.ogg]]
 
+![[Lohnabrechnung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lohnabrechnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lohnabrechnung&language=de)
 
 **Meaning:** pay slip; wage statement

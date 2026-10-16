@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Würfel
 
+![[Würfel.jpg]]
+
 ![[Würfel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/W%C3%BCrfel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%BCrfel&language=de)

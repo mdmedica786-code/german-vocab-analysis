@@ -24,6 +24,8 @@ status: "new"
 
 ![[Transportweg.ogg]]
 
+![[Transportweg.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Transportweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Transportweg&language=de)
 
 **Meaning:** transport route

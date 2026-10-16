@@ -23,6 +23,8 @@ status: "new"
 
 ![[Orkan.ogg]]
 
+![[Orkan.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Orkan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Orkan&language=de)
 
 **Meaning:** hurricane; violent storm

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mikroplastik.ogg]]
 
+![[Mikroplastik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mikroplastik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mikroplastik&language=de)
 
 **Meaning:** microplastics

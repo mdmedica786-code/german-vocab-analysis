@@ -25,6 +25,8 @@ status: "new"
 
 ![[Nummer.ogg]]
 
+![[Nummer.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nummer&language=de)
 
 **Meaning:** number

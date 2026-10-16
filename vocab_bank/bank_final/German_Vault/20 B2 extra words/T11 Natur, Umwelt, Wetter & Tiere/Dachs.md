@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Dachs
 
+![[Dachs.jpg]]
+
 ![[Dachs.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Dachs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dachs&language=de)

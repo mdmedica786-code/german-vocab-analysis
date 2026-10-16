@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Löwe
 
+![[Löwe.jpg]]
+
 ![[Löwe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/L%C3%B6we/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%B6we&language=de)

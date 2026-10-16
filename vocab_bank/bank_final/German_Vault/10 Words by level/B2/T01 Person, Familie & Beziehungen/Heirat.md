@@ -23,6 +23,8 @@ status: "new"
 
 ![[Heirat.ogg]]
 
+![[Heirat.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Heirat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heirat&language=de)
 
 **Meaning:** marriage

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Handwerk.ogg]]
 
+![[Handwerk.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Handwerk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handwerk&language=de)
 
 **Meaning:** trade

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Schrift
 
+![[Schrift.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schrift&language=de)
 
 **Meaning:** writing; script; handwriting

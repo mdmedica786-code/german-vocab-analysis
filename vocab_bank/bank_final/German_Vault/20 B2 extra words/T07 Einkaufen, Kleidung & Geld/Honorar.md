@@ -23,6 +23,8 @@ status: "new"
 
 ![[Honorar.ogg]]
 
+![[Honorar.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Honorar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Honorar&language=de)
 
 **Meaning:** fee (for freelance work)

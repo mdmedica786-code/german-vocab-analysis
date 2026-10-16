@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Kalender
 
+![[Kalender.jpg]]
+
 ![[Kalender.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kalender/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kalender&language=de)

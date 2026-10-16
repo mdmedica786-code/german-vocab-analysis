@@ -25,6 +25,8 @@ status: "new"
 
 ![[Topf.ogg]]
 
+![[Topf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Topf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Topf&language=de)
 
 **Meaning:** pot

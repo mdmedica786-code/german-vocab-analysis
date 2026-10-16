@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Konferenz
 
+![[Konferenz.jpg]]
+
 ![[Konferenz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Konferenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konferenz&language=de)

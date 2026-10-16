@@ -24,6 +24,8 @@ status: "new"
 
 ![[Detektiv.ogg]]
 
+![[Detektiv.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Detektiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Detektiv&language=de)
 
 **Meaning:** detective (m)

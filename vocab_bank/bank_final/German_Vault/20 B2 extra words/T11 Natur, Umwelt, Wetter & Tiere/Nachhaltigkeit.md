@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Nachhaltigkeit
 
+![[Nachhaltigkeit.jpg]]
+
 ![[Nachhaltigkeit.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Nachhaltigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachhaltigkeit&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Trost.ogg]]
 
+![[Trost.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Trost/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trost&language=de)
 
 **Meaning:** comfort; consolation

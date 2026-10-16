@@ -24,6 +24,8 @@ status: "new"
 
 ![[Sprichwort.ogg]]
 
+![[Sprichwort.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sprichwort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprichwort&language=de)
 
 **Meaning:** proverb

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Käserei.ogg]]
 
+![[Käserei.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4serei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4serei&language=de)
 
 **Meaning:** cheese factory

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Puppe.ogg]]
 
+![[Puppe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Puppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Puppe&language=de)
 
 **Meaning:** doll

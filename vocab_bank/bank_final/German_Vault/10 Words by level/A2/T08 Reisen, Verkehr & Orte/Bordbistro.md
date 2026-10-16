@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bordbistro.ogg]]
 
+![[Bordbistro.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bordbistro/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bordbistro&language=de)
 
 **Meaning:** on-board bistro

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Plogging.ogg]]
 
+![[Plogging.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Plogging/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Plogging&language=de)
 
 **Meaning:** plogging

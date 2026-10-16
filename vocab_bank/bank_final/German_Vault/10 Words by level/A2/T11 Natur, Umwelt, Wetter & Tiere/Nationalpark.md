@@ -24,6 +24,8 @@ status: "new"
 
 ![[Nationalpark.ogg]]
 
+![[Nationalpark.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nationalpark/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nationalpark&language=de)
 
 **Meaning:** national park

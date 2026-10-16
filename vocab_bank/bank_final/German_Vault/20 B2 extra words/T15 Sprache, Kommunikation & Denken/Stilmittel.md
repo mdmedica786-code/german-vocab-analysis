@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stilmittel.ogg]]
 
+![[Stilmittel.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stilmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stilmittel&language=de)
 
 **Meaning:** stylistic device

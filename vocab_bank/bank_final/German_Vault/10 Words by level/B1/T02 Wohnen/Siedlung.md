@@ -24,6 +24,8 @@ status: "new"
 
 ![[Siedlung.ogg]]
 
+![[Siedlung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Siedlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Siedlung&language=de)
 
 **Meaning:** settlement, housing scheme

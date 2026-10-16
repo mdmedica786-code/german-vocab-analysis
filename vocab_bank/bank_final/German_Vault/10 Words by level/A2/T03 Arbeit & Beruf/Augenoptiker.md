@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Augenoptiker
 
+![[Augenoptiker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Augenoptiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Augenoptiker&language=de)
 
 **Meaning:** optician (m)

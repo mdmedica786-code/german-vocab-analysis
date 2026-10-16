@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Englischlehrerin
 
+![[Englischlehrerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Englischlehrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Englischlehrerin&language=de)
 
 **Meaning:** English teacher (f)

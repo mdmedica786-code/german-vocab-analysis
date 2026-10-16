@@ -23,6 +23,8 @@ status: "new"
 
 ![[Blutdruck.ogg]]
 
+![[Blutdruck.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Blutdruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blutdruck&language=de)
 
 **Meaning:** blood pressure

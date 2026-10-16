@@ -23,6 +23,8 @@ status: "new"
 
 ![[Straßenfest.ogg]]
 
+![[Straßenfest.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stra%C3%9Fenfest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stra%C3%9Fenfest&language=de)
 
 **Meaning:** street party

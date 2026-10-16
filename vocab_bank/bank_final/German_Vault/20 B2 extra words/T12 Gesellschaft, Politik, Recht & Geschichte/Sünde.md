@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sünde.ogg]]
 
+![[Sünde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/S%C3%BCnde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%BCnde&language=de)
 
 **Meaning:** sin

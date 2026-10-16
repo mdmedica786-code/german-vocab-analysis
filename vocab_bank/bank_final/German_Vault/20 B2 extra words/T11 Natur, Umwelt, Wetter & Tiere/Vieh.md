@@ -23,6 +23,8 @@ status: "new"
 
 ![[Vieh.ogg]]
 
+![[Vieh.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vieh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vieh&language=de)
 
 **Meaning:** cattle; livestock

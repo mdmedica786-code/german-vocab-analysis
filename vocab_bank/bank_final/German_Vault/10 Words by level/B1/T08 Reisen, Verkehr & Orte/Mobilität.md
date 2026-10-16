@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Mobilität
 
+![[Mobilität.jpg]]
+
 ![[Mobilität.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Mobilit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mobilit%C3%A4t&language=de)

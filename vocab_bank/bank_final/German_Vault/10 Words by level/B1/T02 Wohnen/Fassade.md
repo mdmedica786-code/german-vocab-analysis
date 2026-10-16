@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fassade.ogg]]
 
+![[Fassade.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fassade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fassade&language=de)
 
 **Meaning:** facade

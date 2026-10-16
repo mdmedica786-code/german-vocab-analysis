@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dokumentarfilm.ogg]]
 
+![[Dokumentarfilm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dokumentarfilm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dokumentarfilm&language=de)
 
 **Meaning:** documentary

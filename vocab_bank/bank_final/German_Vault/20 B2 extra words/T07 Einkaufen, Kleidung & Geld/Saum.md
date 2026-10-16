@@ -23,6 +23,8 @@ status: "new"
 
 ![[Saum.ogg]]
 
+![[Saum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Saum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Saum&language=de)
 
 **Meaning:** hem

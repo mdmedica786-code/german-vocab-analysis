@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Recycling
 
+![[Recycling.png]]
+
 ![[Recycling.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Recycling/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Recycling&language=de)

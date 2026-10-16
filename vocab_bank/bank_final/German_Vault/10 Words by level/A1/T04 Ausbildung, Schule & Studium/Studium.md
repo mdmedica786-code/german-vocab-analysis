@@ -25,6 +25,8 @@ status: "new"
 
 ![[Studium.ogg]]
 
+![[Studium.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Studium/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Studium&language=de)
 
 **Meaning:** studies

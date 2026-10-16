@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sozialversicherung.ogg]]
 
+![[Sozialversicherung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sozialversicherung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialversicherung&language=de)
 
 **Meaning:** social insurance

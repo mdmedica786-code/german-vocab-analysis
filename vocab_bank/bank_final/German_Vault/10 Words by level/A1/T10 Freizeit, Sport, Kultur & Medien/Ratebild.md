@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Ratebild
 
+![[Ratebild.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ratebild/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ratebild&language=de)
 
 **Meaning:** picture puzzle

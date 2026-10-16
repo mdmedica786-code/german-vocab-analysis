@@ -25,6 +25,8 @@ status: "new"
 
 ![[Feiertag.ogg]]
 
+![[Feiertag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Feiertag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feiertag&language=de)
 
 **Meaning:** public holiday

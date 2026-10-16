@@ -25,6 +25,8 @@ status: "new"
 
 ![[Knopf.ogg]]
 
+![[Knopf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Knopf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Knopf&language=de)
 
 **Meaning:** button

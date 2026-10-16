@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Geige
 
+![[Geige.jpg]]
+
 ![[Geige.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Geige/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geige&language=de)

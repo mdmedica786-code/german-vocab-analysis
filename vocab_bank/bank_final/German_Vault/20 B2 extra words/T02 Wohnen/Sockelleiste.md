@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sockelleiste.ogg]]
 
+![[Sockelleiste.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sockelleiste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sockelleiste&language=de)
 
 **Meaning:** skirting board

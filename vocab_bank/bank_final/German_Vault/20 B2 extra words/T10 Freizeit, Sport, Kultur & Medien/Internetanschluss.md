@@ -23,6 +23,8 @@ status: "new"
 
 ![[Internetanschluss.ogg]]
 
+![[Internetanschluss.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Internetanschluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Internetanschluss&language=de)
 
 **Meaning:** internet connection

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tierheim.ogg]]
 
+![[Tierheim.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tierheim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tierheim&language=de)
 
 **Meaning:** animal shelter

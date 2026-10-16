@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bilderrätsel.ogg]]
 
+![[Bilderrätsel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bilderr%C3%A4tsel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bilderr%C3%A4tsel&language=de)
 
 **Meaning:** picture puzzle; rebus

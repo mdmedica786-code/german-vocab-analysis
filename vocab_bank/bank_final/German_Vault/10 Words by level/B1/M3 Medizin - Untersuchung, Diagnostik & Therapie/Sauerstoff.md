@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Sauerstoff
 
+![[Sauerstoff.jpg]]
+
 ![[Sauerstoff.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sauerstoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sauerstoff&language=de)

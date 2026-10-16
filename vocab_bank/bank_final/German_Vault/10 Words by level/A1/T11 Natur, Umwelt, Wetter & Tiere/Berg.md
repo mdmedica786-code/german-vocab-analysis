@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Berg
 
+![[Berg.jpg]]
+
 ![[Berg.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Berg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berg&language=de)

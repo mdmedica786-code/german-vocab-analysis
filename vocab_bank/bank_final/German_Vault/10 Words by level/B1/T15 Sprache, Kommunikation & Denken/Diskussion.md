@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Diskussion
 
+![[Diskussion.png]]
+
 ![[Diskussion.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Diskussion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diskussion&language=de)

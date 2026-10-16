@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mikroorganismus.ogg]]
 
+![[Mikroorganismus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mikroorganismus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mikroorganismus&language=de)
 
 **Meaning:** microorganism

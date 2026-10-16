@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Teufel
 
+![[Teufel.jpg]]
+
 ![[Teufel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Teufel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teufel&language=de)

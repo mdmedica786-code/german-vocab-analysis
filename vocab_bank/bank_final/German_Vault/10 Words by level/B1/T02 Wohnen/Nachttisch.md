@@ -24,6 +24,8 @@ status: "new"
 
 ![[Nachttisch.ogg]]
 
+![[Nachttisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachttisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachttisch&language=de)
 
 **Meaning:** nightstand

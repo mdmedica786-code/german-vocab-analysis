@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ansicht.ogg]]
 
+![[Ansicht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ansicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ansicht&language=de)
 
 **Meaning:** opinion; view

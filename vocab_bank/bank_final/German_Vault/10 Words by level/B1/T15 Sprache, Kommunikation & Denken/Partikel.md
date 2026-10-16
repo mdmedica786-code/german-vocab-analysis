@@ -24,6 +24,8 @@ status: "new"
 
 ![[Partikel.ogg]]
 
+![[Partikel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Partikel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Partikel&language=de)
 
 **Meaning:** particle

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Gymnasium
 
+![[Gymnasium.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gymnasium/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gymnasium&language=de)
 
 **Meaning:** grammar school

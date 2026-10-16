@@ -25,6 +25,8 @@ status: "new"
 
 ![[Frühjahr.ogg]]
 
+![[Frühjahr.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fr%C3%BChjahr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fr%C3%BChjahr&language=de)
 
 **Meaning:** spring

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Logistik
 
+![[Logistik.jpg]]
+
 ![[Logistik.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Logistik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Logistik&language=de)

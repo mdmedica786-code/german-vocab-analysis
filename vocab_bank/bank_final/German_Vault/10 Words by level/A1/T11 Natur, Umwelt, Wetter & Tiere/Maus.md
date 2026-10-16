@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Maus
 
+![[Maus.jpg]]
+
 ![[Maus.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Maus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Maus&language=de)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Auszubildender.ogg]]
 
+![[Auszubildender.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Auszubildender/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auszubildender&language=de)
 
 **Meaning:** apprentice; trainee (m)

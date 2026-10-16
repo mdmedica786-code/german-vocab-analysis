@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pelzmantel.ogg]]
 
+![[Pelzmantel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pelzmantel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pelzmantel&language=de)
 
 **Meaning:** fur coat

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Taste.ogg]]
 
+![[Taste.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Taste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taste&language=de)
 
 **Meaning:** key

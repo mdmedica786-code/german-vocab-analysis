@@ -25,6 +25,8 @@ status: "new"
 
 ![[Einfall.ogg]]
 
+![[Einfall.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einfall&language=de)
 
 **Meaning:** idea

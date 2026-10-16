@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dauerlauf.ogg]]
 
+![[Dauerlauf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dauerlauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dauerlauf&language=de)
 
 **Meaning:** endurance run; long-distance jog

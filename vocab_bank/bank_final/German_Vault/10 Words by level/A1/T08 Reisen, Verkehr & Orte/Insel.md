@@ -25,6 +25,8 @@ status: "new"
 
 ![[Insel.ogg]]
 
+![[Insel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Insel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Insel&language=de)
 
 **Meaning:** island

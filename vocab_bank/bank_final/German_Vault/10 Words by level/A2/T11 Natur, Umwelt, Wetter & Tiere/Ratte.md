@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ratte.ogg]]
 
+![[Ratte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ratte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ratte&language=de)
 
 **Meaning:** rat

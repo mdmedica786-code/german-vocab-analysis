@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Mars
 
+![[Mars.png]]
+
 ![[Mars.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Mars/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mars&language=de)

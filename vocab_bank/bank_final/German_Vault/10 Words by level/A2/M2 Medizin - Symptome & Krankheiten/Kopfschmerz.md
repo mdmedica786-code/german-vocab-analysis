@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kopfschmerz.ogg]]
 
+![[Kopfschmerz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kopfschmerz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kopfschmerz&language=de)
 
 **Meaning:** headache

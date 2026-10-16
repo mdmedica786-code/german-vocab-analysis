@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Lager
 
+![[Lager.jpg]]
+
 ![[Lager.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Lager/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lager&language=de)

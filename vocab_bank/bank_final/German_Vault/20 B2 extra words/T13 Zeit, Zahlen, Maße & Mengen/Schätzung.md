@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schätzung.ogg]]
 
+![[Schätzung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%A4tzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%A4tzung&language=de)
 
 **Meaning:** estimate; estimation

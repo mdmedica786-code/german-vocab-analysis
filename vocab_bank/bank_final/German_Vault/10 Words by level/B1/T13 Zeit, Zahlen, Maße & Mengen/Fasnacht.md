@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fasnacht.ogg]]
 
+![[Fasnacht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fasnacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fasnacht&language=de)
 
 **Meaning:** carnival (Swiss, S. German)

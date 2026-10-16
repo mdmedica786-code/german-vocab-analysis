@@ -23,6 +23,8 @@ status: "new"
 
 ![[Psychoanalyse.ogg]]
 
+![[Psychoanalyse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Psychoanalyse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Psychoanalyse&language=de)
 
 **Meaning:** psychoanalysis

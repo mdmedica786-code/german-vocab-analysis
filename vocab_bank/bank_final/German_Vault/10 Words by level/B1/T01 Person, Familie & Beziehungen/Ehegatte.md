@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ehegatte.ogg]]
 
+![[Ehegatte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ehegatte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehegatte&language=de)
 
 **Meaning:** spouse (m)

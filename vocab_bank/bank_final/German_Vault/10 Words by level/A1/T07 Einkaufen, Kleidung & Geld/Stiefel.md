@@ -25,6 +25,8 @@ status: "new"
 
 ![[Stiefel.ogg]]
 
+![[Stiefel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stiefel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stiefel&language=de)
 
 **Meaning:** boot

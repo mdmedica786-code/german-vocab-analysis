@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gattung.ogg]]
 
+![[Gattung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gattung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gattung&language=de)
 
 **Meaning:** genus; genre; kind

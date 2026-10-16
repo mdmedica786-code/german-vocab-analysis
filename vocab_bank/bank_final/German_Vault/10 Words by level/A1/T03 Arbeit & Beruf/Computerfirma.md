@@ -24,6 +24,8 @@ status: "new"
 
 ![[Computerfirma.ogg]]
 
+![[Computerfirma.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Computerfirma/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Computerfirma&language=de)
 
 **Meaning:** computer company

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Drama.ogg]]
 
+![[Drama.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Drama/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Drama&language=de)
 
 **Meaning:** drama

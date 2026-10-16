@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Gebäude
 
+![[Gebäude.jpg]]
+
 ![[Gebäude.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Geb%C3%A4ude/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geb%C3%A4ude&language=de)

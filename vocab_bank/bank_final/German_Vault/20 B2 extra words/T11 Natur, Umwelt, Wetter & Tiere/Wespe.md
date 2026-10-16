@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wespe.ogg]]
 
+![[Wespe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wespe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wespe&language=de)
 
 **Meaning:** wasp

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Krug.ogg]]
 
+![[Krug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krug&language=de)
 
 **Meaning:** jug; mug

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ergänzung.ogg]]
 
+![[Ergänzung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erg%C3%A4nzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erg%C3%A4nzung&language=de)
 
 **Meaning:** addition; supplement

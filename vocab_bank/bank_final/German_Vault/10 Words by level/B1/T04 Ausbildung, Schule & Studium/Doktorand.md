@@ -24,6 +24,8 @@ status: "new"
 
 ![[Doktorand.ogg]]
 
+![[Doktorand.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Doktorand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Doktorand&language=de)
 
 **Meaning:** PhD student (m)

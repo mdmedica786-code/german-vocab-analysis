@@ -25,6 +25,8 @@ status: "new"
 
 ![[Snack.ogg]]
 
+![[Snack.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Snack/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Snack&language=de)
 
 **Meaning:** snack

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zentimeter.ogg]]
 
+![[Zentimeter.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zentimeter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zentimeter&language=de)
 
 **Meaning:** centimetre

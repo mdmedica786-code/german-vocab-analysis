@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verurteilung.ogg]]
 
+![[Verurteilung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verurteilung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verurteilung&language=de)
 
 **Meaning:** conviction; condemnation

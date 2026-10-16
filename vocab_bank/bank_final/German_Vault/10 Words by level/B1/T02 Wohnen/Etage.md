@@ -24,6 +24,8 @@ status: "new"
 
 ![[Etage.ogg]]
 
+![[Etage.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Etage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Etage&language=de)
 
 **Meaning:** floor; storey

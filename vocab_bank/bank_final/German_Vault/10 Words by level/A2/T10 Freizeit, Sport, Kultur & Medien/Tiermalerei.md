@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Tiermalerei
 
+![[Tiermalerei.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tiermalerei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiermalerei&language=de)
 
 **Meaning:** animal painting

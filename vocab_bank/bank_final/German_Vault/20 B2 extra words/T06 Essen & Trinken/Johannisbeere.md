@@ -23,6 +23,8 @@ status: "new"
 
 ![[Johannisbeere.ogg]]
 
+![[Johannisbeere.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Johannisbeere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Johannisbeere&language=de)
 
 **Meaning:** redcurrant; blackcurrant

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Brauch.ogg]]
 
+![[Brauch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Brauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brauch&language=de)
 
 **Meaning:** custom; tradition

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Urkunde.ogg]]
 
+![[Urkunde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Urkunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urkunde&language=de)
 
 **Meaning:** certificate; document

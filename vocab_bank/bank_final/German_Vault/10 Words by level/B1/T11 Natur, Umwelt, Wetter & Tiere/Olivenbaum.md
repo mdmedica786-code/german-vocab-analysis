@@ -24,6 +24,8 @@ status: "new"
 
 ![[Olivenbaum.ogg]]
 
+![[Olivenbaum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Olivenbaum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Olivenbaum&language=de)
 
 **Meaning:** olive tree

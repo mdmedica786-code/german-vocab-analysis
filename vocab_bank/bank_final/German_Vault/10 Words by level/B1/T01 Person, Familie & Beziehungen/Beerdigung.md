@@ -24,6 +24,8 @@ status: "new"
 
 ![[Beerdigung.ogg]]
 
+![[Beerdigung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beerdigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beerdigung&language=de)
 
 **Meaning:** funeral

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Grenzkontrolle.ogg]]
 
+![[Grenzkontrolle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Grenzkontrolle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grenzkontrolle&language=de)
 
 **Meaning:** border control

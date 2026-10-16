@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wildhüter.ogg]]
 
+![[Wildhüter.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wildh%C3%BCter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wildh%C3%BCter&language=de)
 
 **Meaning:** gamekeeper (m)

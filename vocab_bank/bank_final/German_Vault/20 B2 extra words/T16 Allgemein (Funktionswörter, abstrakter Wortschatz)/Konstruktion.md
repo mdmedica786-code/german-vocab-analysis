@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Konstruktion
 
+![[Konstruktion.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konstruktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konstruktion&language=de)
 
 **Meaning:** construction; structure

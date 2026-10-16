@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Social-Media-Marketing
 
+![[Social-Media-Marketing.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Social-Media-Marketing/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Social-Media-Marketing&language=de)
 
 **Meaning:** social media marketing

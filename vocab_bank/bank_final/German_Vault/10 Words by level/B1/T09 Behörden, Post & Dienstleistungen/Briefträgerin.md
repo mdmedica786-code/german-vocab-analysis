@@ -25,6 +25,8 @@ status: "new"
 
 ![[Briefträgerin.ogg]]
 
+![[Briefträgerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Brieftr%C3%A4gerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brieftr%C3%A4gerin&language=de)
 
 **Meaning:** postal carrier (f)

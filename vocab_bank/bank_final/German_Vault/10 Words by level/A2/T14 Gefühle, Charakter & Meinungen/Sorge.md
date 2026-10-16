@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Sorge
 
+![[Sorge.jpg]]
+
 ![[Sorge.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sorge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sorge&language=de)

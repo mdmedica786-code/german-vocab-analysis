@@ -23,6 +23,8 @@ status: "new"
 
 ![[Allergie.ogg]]
 
+![[Allergie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Allergie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Allergie&language=de)
 
 **Meaning:** allergy

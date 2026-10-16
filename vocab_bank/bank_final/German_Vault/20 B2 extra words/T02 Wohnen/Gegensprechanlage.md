@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gegensprechanlage.ogg]]
 
+![[Gegensprechanlage.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gegensprechanlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegensprechanlage&language=de)
 
 **Meaning:** intercom

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Himmelsrichtung.ogg]]
 
+![[Himmelsrichtung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Himmelsrichtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Himmelsrichtung&language=de)
 
 **Meaning:** cardinal direction

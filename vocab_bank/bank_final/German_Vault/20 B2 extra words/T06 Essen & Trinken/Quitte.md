@@ -23,6 +23,8 @@ status: "new"
 
 ![[Quitte.ogg]]
 
+![[Quitte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Quitte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Quitte&language=de)
 
 **Meaning:** quince

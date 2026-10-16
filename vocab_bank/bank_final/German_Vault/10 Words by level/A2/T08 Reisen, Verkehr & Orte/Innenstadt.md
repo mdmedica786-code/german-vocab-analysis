@@ -24,6 +24,8 @@ status: "new"
 
 ![[Innenstadt.ogg]]
 
+![[Innenstadt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Innenstadt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Innenstadt&language=de)
 
 **Meaning:** city centre

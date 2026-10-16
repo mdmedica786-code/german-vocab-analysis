@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dollar.ogg]]
 
+![[Dollar.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dollar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dollar&language=de)
 
 **Meaning:** dollar

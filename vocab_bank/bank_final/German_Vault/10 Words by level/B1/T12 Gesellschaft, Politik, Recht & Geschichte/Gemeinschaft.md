@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gemeinschaft.ogg]]
 
+![[Gemeinschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gemeinschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gemeinschaft&language=de)
 
 **Meaning:** community

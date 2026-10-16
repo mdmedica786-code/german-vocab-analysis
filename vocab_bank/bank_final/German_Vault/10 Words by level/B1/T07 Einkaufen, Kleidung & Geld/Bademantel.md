@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Bademantel
 
+![[Bademantel.jpg]]
+
 ![[Bademantel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bademantel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bademantel&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Song.ogg]]
 
+![[Song.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Song/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Song&language=de)
 
 **Meaning:** song

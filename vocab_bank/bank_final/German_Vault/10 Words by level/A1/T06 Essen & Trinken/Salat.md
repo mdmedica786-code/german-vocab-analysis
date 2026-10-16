@@ -25,6 +25,8 @@ status: "new"
 
 ![[Salat.ogg]]
 
+![[Salat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Salat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Salat&language=de)
 
 **Meaning:** salad

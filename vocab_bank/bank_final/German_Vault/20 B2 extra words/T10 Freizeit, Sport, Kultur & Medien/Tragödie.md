@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Tragödie
 
+![[Tragödie.jpg]]
+
 ![[Tragödie.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Trag%C3%B6die/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trag%C3%B6die&language=de)

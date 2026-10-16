@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Dienstleistung
 
+![[Dienstleistung.jpg]]
+
 ![[Dienstleistung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Dienstleistung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dienstleistung&language=de)

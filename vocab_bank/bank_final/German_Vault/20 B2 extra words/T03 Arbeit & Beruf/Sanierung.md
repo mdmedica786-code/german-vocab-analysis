@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sanierung.ogg]]
 
+![[Sanierung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sanierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sanierung&language=de)
 
 **Meaning:** renovation; restructuring

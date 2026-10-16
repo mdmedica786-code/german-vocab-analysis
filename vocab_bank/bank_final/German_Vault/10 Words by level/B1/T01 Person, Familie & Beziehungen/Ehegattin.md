@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ehegattin.ogg]]
 
+![[Ehegattin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ehegattin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehegattin&language=de)
 
 **Meaning:** spouse (f)

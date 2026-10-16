@@ -23,6 +23,8 @@ status: "new"
 
 ![[Turnschuh.ogg]]
 
+![[Turnschuh.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Turnschuh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Turnschuh&language=de)
 
 **Meaning:** trainer; gym shoe

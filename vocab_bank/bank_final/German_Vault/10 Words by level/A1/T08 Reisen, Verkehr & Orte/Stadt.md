@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Stadt
 
+![[Stadt.jpg]]
+
 ![[Stadt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Stadt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadt&language=de)

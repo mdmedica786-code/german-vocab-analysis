@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Sekunde
 
+![[Sekunde.jpg]]
+
 ![[Sekunde.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sekunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sekunde&language=de)

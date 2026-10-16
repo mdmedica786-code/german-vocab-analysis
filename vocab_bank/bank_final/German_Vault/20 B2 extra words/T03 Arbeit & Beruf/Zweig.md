@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zweig.ogg]]
 
+![[Zweig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zweig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zweig&language=de)
 
 **Meaning:** branch; sector

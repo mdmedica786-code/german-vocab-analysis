@@ -25,6 +25,8 @@ status: "new"
 
 ![[Zeitung.ogg]]
 
+![[Zeitung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zeitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitung&language=de)
 
 **Meaning:** newspaper

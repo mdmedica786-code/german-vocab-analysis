@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tagung.ogg]]
 
+![[Tagung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tagung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tagung&language=de)
 
 **Meaning:** conference; meeting; session

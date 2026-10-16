@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lawine.ogg]]
 
+![[Lawine.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lawine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lawine&language=de)
 
 **Meaning:** avalanche

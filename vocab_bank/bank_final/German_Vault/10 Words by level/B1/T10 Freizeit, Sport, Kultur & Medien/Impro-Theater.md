@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Impro-Theater
 
+![[Impro-Theater.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Impro-Theater/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Impro-Theater&language=de)
 
 **Meaning:** improv theatre

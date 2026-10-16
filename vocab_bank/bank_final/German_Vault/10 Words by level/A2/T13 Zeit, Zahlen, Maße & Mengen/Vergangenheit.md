@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Vergangenheit
 
+![[Vergangenheit.jpg]]
+
 ![[Vergangenheit.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Vergangenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vergangenheit&language=de)

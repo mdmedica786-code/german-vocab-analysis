@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mietminderung.ogg]]
 
+![[Mietminderung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mietminderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mietminderung&language=de)
 
 **Meaning:** rent reduction

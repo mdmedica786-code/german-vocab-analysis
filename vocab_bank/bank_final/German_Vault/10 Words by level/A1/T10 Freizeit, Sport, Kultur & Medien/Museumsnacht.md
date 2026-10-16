@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Museumsnacht
 
+![[Museumsnacht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Museumsnacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Museumsnacht&language=de)
 
 **Meaning:** museum night

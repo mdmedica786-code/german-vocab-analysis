@@ -24,6 +24,8 @@ status: "new"
 
 ![[Muskel.ogg]]
 
+![[Muskel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Muskel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Muskel&language=de)
 
 **Meaning:** muscle

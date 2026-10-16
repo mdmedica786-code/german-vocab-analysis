@@ -23,6 +23,8 @@ status: "new"
 
 ![[Eigennutz.ogg]]
 
+![[Eigennutz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Eigennutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eigennutz&language=de)
 
 **Meaning:** self-interest

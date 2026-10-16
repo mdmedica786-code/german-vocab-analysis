@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kleinigkeit.ogg]]
 
+![[Kleinigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kleinigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleinigkeit&language=de)
 
 **Meaning:** trifle; small thing; small gift

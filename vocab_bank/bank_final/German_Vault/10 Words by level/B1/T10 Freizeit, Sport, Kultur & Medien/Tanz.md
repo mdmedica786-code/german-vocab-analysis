@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Tanz
 
+![[Tanz.jpg]]
+
 ![[Tanz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tanz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tanz&language=de)

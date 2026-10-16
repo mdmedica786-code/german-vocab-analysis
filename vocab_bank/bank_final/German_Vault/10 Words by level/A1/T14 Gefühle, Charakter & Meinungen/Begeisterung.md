@@ -24,6 +24,8 @@ status: "new"
 
 ![[Begeisterung.ogg]]
 
+![[Begeisterung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Begeisterung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Begeisterung&language=de)
 
 **Meaning:** enthusiasm

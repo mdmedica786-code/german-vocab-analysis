@@ -25,6 +25,8 @@ status: "new"
 
 ![[Anleitung.ogg]]
 
+![[Anleitung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anleitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anleitung&language=de)
 
 **Meaning:** instruction

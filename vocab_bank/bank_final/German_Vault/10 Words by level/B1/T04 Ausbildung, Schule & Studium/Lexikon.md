@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Lexikon
 
+![[Lexikon.jpg]]
+
 ![[Lexikon.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Lexikon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lexikon&language=de)

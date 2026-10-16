@@ -25,6 +25,8 @@ status: "new"
 
 ![[Umweltverschmutzung.ogg]]
 
+![[Umweltverschmutzung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Umweltverschmutzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umweltverschmutzung&language=de)
 
 **Meaning:** pollution (environmental)

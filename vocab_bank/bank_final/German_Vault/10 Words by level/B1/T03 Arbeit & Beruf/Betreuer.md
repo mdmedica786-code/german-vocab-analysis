@@ -24,6 +24,8 @@ status: "new"
 
 ![[Betreuer.ogg]]
 
+![[Betreuer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Betreuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betreuer&language=de)
 
 **Meaning:** carer; supervisor (m)

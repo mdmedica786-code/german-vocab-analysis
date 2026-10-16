@@ -24,6 +24,8 @@ status: "new"
 
 ![[Puls.ogg]]
 
+![[Puls.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Puls/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Puls&language=de)
 
 **Meaning:** pulse

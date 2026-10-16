@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gamer.ogg]]
 
+![[Gamer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gamer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gamer&language=de)
 
 **Meaning:** gamer

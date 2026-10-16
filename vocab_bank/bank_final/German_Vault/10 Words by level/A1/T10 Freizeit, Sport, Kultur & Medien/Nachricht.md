@@ -25,6 +25,8 @@ status: "new"
 
 ![[Nachricht.ogg]]
 
+![[Nachricht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachricht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachricht&language=de)
 
 **Meaning:** message; news

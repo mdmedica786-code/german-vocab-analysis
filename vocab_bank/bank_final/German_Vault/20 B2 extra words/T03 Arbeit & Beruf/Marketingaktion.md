@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Marketingaktion
 
+![[Marketingaktion.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Marketingaktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marketingaktion&language=de)
 
 **Meaning:** marketing campaign; promotion

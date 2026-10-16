@@ -24,6 +24,8 @@ status: "new"
 
 ![[Glückwunschkarte.ogg]]
 
+![[Glückwunschkarte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gl%C3%BCckwunschkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gl%C3%BCckwunschkarte&language=de)
 
 **Meaning:** congratulations card

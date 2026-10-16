@@ -25,6 +25,8 @@ status: "new"
 
 ![[Stress.ogg]]
 
+![[Stress.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stress/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stress&language=de)
 
 **Meaning:** stress

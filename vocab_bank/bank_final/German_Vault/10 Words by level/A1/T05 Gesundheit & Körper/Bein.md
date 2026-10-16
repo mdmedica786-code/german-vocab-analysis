@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Bein
 
+![[Bein.png]]
+
 ![[Bein.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bein&language=de)

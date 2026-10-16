@@ -23,6 +23,8 @@ status: "new"
 
 ![[Eierkuchen.ogg]]
 
+![[Eierkuchen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Eierkuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eierkuchen&language=de)
 
 **Meaning:** pancake (esp. in eastern/northern Germany)

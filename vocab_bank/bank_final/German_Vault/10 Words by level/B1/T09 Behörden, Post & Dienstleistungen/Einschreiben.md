@@ -24,6 +24,8 @@ status: "new"
 
 ![[Einschreiben.ogg]]
 
+![[Einschreiben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einschreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einschreiben&language=de)
 
 **Meaning:** registered mail

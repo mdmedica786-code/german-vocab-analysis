@@ -25,6 +25,8 @@ status: "new"
 
 ![[Limonade.ogg]]
 
+![[Limonade.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Limonade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Limonade&language=de)
 
 **Meaning:** lemonade

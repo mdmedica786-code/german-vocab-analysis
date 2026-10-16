@@ -23,6 +23,8 @@ status: "new"
 
 ![[Nacken.ogg]]
 
+![[Nacken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nacken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nacken&language=de)
 
 **Meaning:** neck (back of the neck); nape

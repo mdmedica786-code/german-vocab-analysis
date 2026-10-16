@@ -25,6 +25,8 @@ status: "new"
 
 ![[Reporterin.ogg]]
 
+![[Reporterin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reporterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reporterin&language=de)
 
 **Meaning:** reporter (f)

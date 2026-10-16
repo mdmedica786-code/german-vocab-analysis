@@ -26,6 +26,8 @@ status: "new"
 
 ![[Faschierte.ogg]]
 
+![[Faschierte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Faschierte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Faschierte&language=de)
 
 **Meaning:** minced meat (Austrian)

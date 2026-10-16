@@ -23,6 +23,8 @@ status: "new"
 
 ![[Völkerkunde.ogg]]
 
+![[Völkerkunde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/V%C3%B6lkerkunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=V%C3%B6lkerkunde&language=de)
 
 **Meaning:** ethnology; cultural anthropology

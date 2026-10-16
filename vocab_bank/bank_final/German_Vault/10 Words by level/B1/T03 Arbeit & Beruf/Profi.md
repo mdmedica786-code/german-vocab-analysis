@@ -25,6 +25,8 @@ status: "new"
 
 ![[Profi.ogg]]
 
+![[Profi.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Profi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Profi&language=de)
 
 **Meaning:** professional

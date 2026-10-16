@@ -24,6 +24,8 @@ status: "new"
 
 ![[Großstadt.ogg]]
 
+![[Großstadt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gro%C3%9Fstadt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gro%C3%9Fstadt&language=de)
 
 **Meaning:** city (large)

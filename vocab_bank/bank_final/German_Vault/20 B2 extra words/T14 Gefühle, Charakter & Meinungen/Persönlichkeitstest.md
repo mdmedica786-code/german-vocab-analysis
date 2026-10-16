@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Persönlichkeitstest
 
+![[Persönlichkeitstest.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pers%C3%B6nlichkeitstest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pers%C3%B6nlichkeitstest&language=de)
 
 **Meaning:** personality test

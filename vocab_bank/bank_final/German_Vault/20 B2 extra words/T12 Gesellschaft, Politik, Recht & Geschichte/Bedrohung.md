@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bedrohung.ogg]]
 
+![[Bedrohung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bedrohung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bedrohung&language=de)
 
 **Meaning:** threat

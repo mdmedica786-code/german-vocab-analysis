@@ -23,6 +23,8 @@ status: "new"
 
 ![[Aufklärung.ogg]]
 
+![[Aufklärung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aufkl%C3%A4rung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufkl%C3%A4rung&language=de)
 
 **Meaning:** information; education; enlightenment

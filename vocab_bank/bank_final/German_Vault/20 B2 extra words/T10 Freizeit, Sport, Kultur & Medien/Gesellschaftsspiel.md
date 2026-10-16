@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gesellschaftsspiel.ogg]]
 
+![[Gesellschaftsspiel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesellschaftsspiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesellschaftsspiel&language=de)
 
 **Meaning:** board game; parlour game

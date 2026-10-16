@@ -23,6 +23,8 @@ status: "new"
 
 ![[Umsatzsteuer.ogg]]
 
+![[Umsatzsteuer.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Umsatzsteuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umsatzsteuer&language=de)
 
 **Meaning:** value-added tax; sales tax

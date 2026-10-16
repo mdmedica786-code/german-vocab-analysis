@@ -23,6 +23,8 @@ status: "new"
 
 ![[Arbeitsbelastung.ogg]]
 
+![[Arbeitsbelastung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitsbelastung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsbelastung&language=de)
 
 **Meaning:** workload; work stress

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Urteil.ogg]]
 
+![[Urteil.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Urteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urteil&language=de)
 
 **Meaning:** judgement; verdict

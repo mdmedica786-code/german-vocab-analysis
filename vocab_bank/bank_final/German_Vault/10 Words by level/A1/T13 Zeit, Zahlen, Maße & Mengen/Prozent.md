@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Prozent
 
+![[Prozent.png]]
+
 ![[Prozent.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Prozent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prozent&language=de)

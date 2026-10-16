@@ -23,6 +23,8 @@ status: "new"
 
 ![[Korruption.ogg]]
 
+![[Korruption.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Korruption/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Korruption&language=de)
 
 **Meaning:** corruption

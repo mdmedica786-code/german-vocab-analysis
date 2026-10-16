@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Süßigkeit
 
+![[Süßigkeit.jpg]]
+
 ![[Süßigkeit.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/S%C3%BC%C3%9Figkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%BC%C3%9Figkeit&language=de)

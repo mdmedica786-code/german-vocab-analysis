@@ -24,6 +24,8 @@ status: "new"
 
 ![[Mittelpunkt.ogg]]
 
+![[Mittelpunkt.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mittelpunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittelpunkt&language=de)
 
 **Meaning:** centre

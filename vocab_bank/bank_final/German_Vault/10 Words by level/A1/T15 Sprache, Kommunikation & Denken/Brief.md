@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Brief
 
+![[Brief.jpg]]
+
 ![[Brief.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Brief/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brief&language=de)

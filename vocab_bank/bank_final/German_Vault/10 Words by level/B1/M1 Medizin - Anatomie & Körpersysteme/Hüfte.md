@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Hüfte
 
+![[Hüfte.jpg]]
+
 ![[Hüfte.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%BCfte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%BCfte&language=de)

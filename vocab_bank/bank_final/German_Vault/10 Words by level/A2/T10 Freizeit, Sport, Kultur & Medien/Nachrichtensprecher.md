@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Nachrichtensprecher
 
+![[Nachrichtensprecher.jpg]]
+
 ![[Nachrichtensprecher.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Nachrichtensprecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachrichtensprecher&language=de)

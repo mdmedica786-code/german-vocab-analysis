@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Preis
 
+![[Preis.jpg]]
+
 ![[Preis.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Preis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Preis&language=de)

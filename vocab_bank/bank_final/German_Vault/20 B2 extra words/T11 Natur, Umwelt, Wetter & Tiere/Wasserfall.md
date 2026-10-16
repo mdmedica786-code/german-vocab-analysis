@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wasserfall.ogg]]
 
+![[Wasserfall.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wasserfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wasserfall&language=de)
 
 **Meaning:** waterfall

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lebensabend.ogg]]
 
+![[Lebensabend.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lebensabend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensabend&language=de)
 
 **Meaning:** old age; twilight years

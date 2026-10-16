@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Forelle
 
+![[Forelle.jpg]]
+
 ![[Forelle.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Forelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forelle&language=de)

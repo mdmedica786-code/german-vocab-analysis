@@ -25,6 +25,8 @@ status: "new"
 
 ![[Risiko.ogg]]
 
+![[Risiko.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Risiko/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Risiko&language=de)
 
 **Meaning:** risk

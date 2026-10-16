@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Buche
 
+![[Buche.jpg]]
+
 ![[Buche.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Buche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buche&language=de)

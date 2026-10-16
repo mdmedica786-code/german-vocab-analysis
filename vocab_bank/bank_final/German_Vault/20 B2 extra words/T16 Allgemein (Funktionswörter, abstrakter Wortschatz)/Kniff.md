@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kniff.ogg]]
 
+![[Kniff.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kniff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kniff&language=de)
 
 **Meaning:** trick; knack

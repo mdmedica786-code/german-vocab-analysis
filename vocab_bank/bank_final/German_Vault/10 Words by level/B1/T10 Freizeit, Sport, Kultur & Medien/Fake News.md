@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fake News.ogg]]
 
+![[Fake News.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fake%20News/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fake%20News&language=de)
 
 **Meaning:** fake news

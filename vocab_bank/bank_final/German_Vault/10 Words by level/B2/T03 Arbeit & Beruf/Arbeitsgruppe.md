@@ -23,6 +23,8 @@ status: "new"
 
 ![[Arbeitsgruppe.ogg]]
 
+![[Arbeitsgruppe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitsgruppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsgruppe&language=de)
 
 **Meaning:** working group

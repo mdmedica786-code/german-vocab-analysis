@@ -23,6 +23,8 @@ status: "new"
 
 ![[Firewall.ogg]]
 
+![[Firewall.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Firewall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Firewall&language=de)
 
 **Meaning:** firewall

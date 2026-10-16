@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Straße
 
+![[Straße.jpg]]
+
 ![[Straße.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Stra%C3%9Fe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stra%C3%9Fe&language=de)

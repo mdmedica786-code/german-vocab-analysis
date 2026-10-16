@@ -21,6 +21,8 @@ status: "new"
 
 ![[Hightech.ogg]]
 
+![[Hightech.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hightech/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hightech&language=de)
 
 **Meaning:** high tech

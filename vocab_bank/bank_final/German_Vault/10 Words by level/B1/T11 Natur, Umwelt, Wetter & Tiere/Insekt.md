@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Insekt
 
+![[Insekt.jpg]]
+
 ![[Insekt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Insekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Insekt&language=de)

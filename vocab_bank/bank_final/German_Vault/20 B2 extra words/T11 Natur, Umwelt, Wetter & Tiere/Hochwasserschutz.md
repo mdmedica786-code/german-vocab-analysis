@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hochwasserschutz.ogg]]
 
+![[Hochwasserschutz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hochwasserschutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochwasserschutz&language=de)
 
 **Meaning:** flood protection

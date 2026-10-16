@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Pestizid
 
+![[Pestizid.jpg]]
+
 ![[Pestizid.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Pestizid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pestizid&language=de)

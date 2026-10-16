@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gemeinschaftsgarten.ogg]]
 
+![[Gemeinschaftsgarten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gemeinschaftsgarten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gemeinschaftsgarten&language=de)
 
 **Meaning:** community garden

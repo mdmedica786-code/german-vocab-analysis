@@ -23,6 +23,8 @@ status: "new"
 
 ![[Masse.ogg]]
 
+![[Masse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Masse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Masse&language=de)
 
 **Meaning:** mass; crowd; bulk

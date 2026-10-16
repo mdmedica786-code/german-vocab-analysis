@@ -24,6 +24,8 @@ status: "new"
 
 ![[Höflichkeit.ogg]]
 
+![[Höflichkeit.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6flichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6flichkeit&language=de)
 
 **Meaning:** politeness, courtesy

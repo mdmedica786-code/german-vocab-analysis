@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Waffe
 
+![[Waffe.jpg]]
+
 ![[Waffe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Waffe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Waffe&language=de)

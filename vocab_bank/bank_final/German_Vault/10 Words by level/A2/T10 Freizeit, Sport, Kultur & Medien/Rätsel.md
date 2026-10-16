@@ -25,6 +25,8 @@ status: "new"
 
 ![[Rätsel.ogg]]
 
+![[Rätsel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/R%C3%A4tsel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%A4tsel&language=de)
 
 **Meaning:** riddle

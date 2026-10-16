@@ -24,6 +24,8 @@ status: "new"
 
 ![[Geburtsjahr.ogg]]
 
+![[Geburtsjahr.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geburtsjahr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburtsjahr&language=de)
 
 **Meaning:** year of birth

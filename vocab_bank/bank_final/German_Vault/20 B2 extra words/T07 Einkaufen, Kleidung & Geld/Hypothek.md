@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hypothek.ogg]]
 
+![[Hypothek.webp]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hypothek/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hypothek&language=de)
 
 **Meaning:** mortgage

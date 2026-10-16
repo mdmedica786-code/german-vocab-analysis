@@ -23,6 +23,8 @@ status: "new"
 
 ![[Engländer.ogg]]
 
+![[Engländer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Engl%C3%A4nder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Engl%C3%A4nder&language=de)
 
 **Meaning:** Englishman

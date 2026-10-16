@@ -23,6 +23,8 @@ status: "new"
 
 ![[Strähnchen.ogg]]
 
+![[Strähnchen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Str%C3%A4hnchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Str%C3%A4hnchen&language=de)
 
 **Meaning:** highlights; small strand of hair

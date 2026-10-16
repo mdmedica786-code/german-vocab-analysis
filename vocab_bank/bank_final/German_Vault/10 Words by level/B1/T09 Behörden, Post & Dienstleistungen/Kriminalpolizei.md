@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kriminalpolizei.ogg]]
 
+![[Kriminalpolizei.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kriminalpolizei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kriminalpolizei&language=de)
 
 **Meaning:** criminal investigation department

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Herzchirurg.ogg]]
 
+![[Herzchirurg.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Herzchirurg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herzchirurg&language=de)
 
 **Meaning:** heart surgeon (m)

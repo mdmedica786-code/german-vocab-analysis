@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Büroklammer
 
+![[Büroklammer.jpg]]
+
 ![[Büroklammer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCroklammer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCroklammer&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ersparnis.ogg]]
 
+![[Ersparnis.webp]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ersparnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ersparnis&language=de)
 
 **Meaning:** saving; savings

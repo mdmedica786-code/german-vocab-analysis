@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # Angeklagte
 
+![[Angeklagte.jpg]]
+
 ![[Angeklagte.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Angeklagte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angeklagte&language=de)

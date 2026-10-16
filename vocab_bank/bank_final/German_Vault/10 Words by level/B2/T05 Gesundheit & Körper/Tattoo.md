@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tattoo.ogg]]
 
+![[Tattoo.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tattoo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tattoo&language=de)
 
 **Meaning:** tattoo

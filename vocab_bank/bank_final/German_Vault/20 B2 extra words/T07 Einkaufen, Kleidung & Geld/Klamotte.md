@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Klamotte
 
+![[Klamotte.jpg]]
+
 ![[Klamotte.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Klamotte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klamotte&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Partnerschaft.ogg]]
 
+![[Partnerschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Partnerschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Partnerschaft&language=de)
 
 **Meaning:** partnership

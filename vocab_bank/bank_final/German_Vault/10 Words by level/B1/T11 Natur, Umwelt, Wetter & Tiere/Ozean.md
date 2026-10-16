@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ozean.ogg]]
 
+![[Ozean.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ozean/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ozean&language=de)
 
 **Meaning:** ocean

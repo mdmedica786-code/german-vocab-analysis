@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Giraffe
 
+![[Giraffe.jpg]]
+
 ![[Giraffe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Giraffe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Giraffe&language=de)

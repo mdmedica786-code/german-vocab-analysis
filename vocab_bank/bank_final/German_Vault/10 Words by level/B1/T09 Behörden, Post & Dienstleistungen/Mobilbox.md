@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Mobilbox
 
+![[Mobilbox.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mobilbox/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mobilbox&language=de)
 
 **Meaning:** voicemail (Swiss, Austrian)

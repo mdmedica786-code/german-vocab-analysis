@@ -24,6 +24,8 @@ status: "new"
 
 ![[Einzahlung.ogg]]
 
+![[Einzahlung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einzahlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einzahlung&language=de)
 
 **Meaning:** payment; deposit

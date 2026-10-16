@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ehrgeiz.ogg]]
 
+![[Ehrgeiz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ehrgeiz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehrgeiz&language=de)
 
 **Meaning:** ambition

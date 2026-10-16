@@ -25,6 +25,8 @@ status: "new"
 
 ![[Blog.ogg]]
 
+![[Blog.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Blog/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blog&language=de)
 
 **Meaning:** blog

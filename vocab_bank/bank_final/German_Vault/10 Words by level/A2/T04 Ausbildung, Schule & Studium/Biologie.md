@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Biologie
 
+![[Biologie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Biologie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biologie&language=de)
 
 **Meaning:** biology

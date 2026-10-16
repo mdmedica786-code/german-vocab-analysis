@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Mark
 
+![[Mark.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mark/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mark&language=de)
 
 **Meaning:** German Mark

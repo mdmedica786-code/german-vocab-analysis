@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lautstärke.ogg]]
 
+![[Lautstärke.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lautst%C3%A4rke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lautst%C3%A4rke&language=de)
 
 **Meaning:** volume; loudness

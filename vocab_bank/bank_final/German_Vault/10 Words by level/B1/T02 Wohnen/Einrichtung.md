@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Einrichtung
 
+![[Einrichtung.jpg]]
+
 ![[Einrichtung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Einrichtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einrichtung&language=de)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Herzchirurgin.ogg]]
 
+![[Herzchirurgin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Herzchirurgin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herzchirurgin&language=de)
 
 **Meaning:** heart surgeon (f)

@@ -26,6 +26,8 @@ status: "new"
 
 ![[Marille.ogg]]
 
+![[Marille.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Marille/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marille&language=de)
 
 **Meaning:** apricot (Austrian)

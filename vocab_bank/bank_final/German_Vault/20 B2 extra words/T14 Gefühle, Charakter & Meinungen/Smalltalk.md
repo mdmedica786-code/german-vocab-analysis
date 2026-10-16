@@ -23,6 +23,8 @@ status: "new"
 
 ![[Smalltalk.ogg]]
 
+![[Smalltalk.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Smalltalk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Smalltalk&language=de)
 
 **Meaning:** small talk

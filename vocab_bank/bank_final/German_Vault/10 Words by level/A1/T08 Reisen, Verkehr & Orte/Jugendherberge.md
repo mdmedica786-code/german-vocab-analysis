@@ -25,6 +25,8 @@ status: "new"
 
 ![[Jugendherberge.ogg]]
 
+![[Jugendherberge.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Jugendherberge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jugendherberge&language=de)
 
 **Meaning:** youth hostel

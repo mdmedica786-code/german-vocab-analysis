@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ausschau.ogg]]
 
+![[Ausschau.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ausschau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausschau&language=de)
 
 **Meaning:** lookout (only in "Ausschau halten nach")

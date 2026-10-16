@@ -24,6 +24,8 @@ status: "new"
 
 ![[Türöffner.ogg]]
 
+![[Türöffner.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/T%C3%BCr%C3%B6ffner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%BCr%C3%B6ffner&language=de)
 
 **Meaning:** door opener

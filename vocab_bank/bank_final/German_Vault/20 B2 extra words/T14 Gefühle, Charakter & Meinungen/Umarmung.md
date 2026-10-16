@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Umarmung
 
+![[Umarmung.jpg]]
+
 ![[Umarmung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Umarmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umarmung&language=de)

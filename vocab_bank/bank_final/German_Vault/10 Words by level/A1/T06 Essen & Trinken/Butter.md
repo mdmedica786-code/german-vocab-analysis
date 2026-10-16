@@ -25,6 +25,8 @@ status: "new"
 
 ![[Butter.ogg]]
 
+![[Butter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Butter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Butter&language=de)
 
 **Meaning:** butter

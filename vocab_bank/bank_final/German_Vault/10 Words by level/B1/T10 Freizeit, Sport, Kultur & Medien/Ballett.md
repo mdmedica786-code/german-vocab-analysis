@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ballett.ogg]]
 
+![[Ballett.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ballett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ballett&language=de)
 
 **Meaning:** ballet

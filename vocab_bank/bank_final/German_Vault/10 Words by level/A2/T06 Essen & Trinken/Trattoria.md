@@ -24,6 +24,8 @@ status: "new"
 
 ![[Trattoria.ogg]]
 
+![[Trattoria.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Trattoria/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trattoria&language=de)
 
 **Meaning:** trattoria

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Thailand
 
+![[Thailand.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Thailand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Thailand&language=de)
 
 **Meaning:** Thailand

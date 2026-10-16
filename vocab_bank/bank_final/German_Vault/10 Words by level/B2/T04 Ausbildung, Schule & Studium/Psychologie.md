@@ -23,6 +23,8 @@ status: "new"
 
 ![[Psychologie.ogg]]
 
+![[Psychologie.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Psychologie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Psychologie&language=de)
 
 **Meaning:** psychology

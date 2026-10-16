@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ton.ogg]]
 
+![[Ton.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ton/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ton&language=de)
 
 **Meaning:** sound; tone; clay

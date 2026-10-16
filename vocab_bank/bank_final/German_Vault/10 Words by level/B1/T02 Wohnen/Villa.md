@@ -24,6 +24,8 @@ status: "new"
 
 ![[Villa.ogg]]
 
+![[Villa.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Villa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Villa&language=de)
 
 **Meaning:** mansion

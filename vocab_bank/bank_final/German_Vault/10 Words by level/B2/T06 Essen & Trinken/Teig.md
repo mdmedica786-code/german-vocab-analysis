@@ -23,6 +23,8 @@ status: "new"
 
 ![[Teig.ogg]]
 
+![[Teig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Teig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teig&language=de)
 
 **Meaning:** dough; batter

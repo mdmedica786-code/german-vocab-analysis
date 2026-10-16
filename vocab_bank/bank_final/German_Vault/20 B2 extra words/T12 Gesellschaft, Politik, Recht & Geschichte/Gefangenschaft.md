@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gefangenschaft.ogg]]
 
+![[Gefangenschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gefangenschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gefangenschaft&language=de)
 
 **Meaning:** captivity; imprisonment

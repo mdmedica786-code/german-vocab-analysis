@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gitter.ogg]]
 
+![[Gitter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gitter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gitter&language=de)
 
 **Meaning:** bars; grille; grid

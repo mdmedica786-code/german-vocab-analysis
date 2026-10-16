@@ -25,6 +25,8 @@ status: "new"
 
 ![[Alter.ogg]]
 
+![[Alter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Alter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alter&language=de)
 
 **Meaning:** age

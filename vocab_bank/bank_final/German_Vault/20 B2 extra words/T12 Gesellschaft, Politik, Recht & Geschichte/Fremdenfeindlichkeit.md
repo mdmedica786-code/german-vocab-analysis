@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fremdenfeindlichkeit.ogg]]
 
+![[Fremdenfeindlichkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fremdenfeindlichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fremdenfeindlichkeit&language=de)
 
 **Meaning:** xenophobia

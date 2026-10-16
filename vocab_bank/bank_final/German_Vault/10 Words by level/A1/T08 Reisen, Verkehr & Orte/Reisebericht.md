@@ -24,6 +24,8 @@ status: "new"
 
 ![[Reisebericht.ogg]]
 
+![[Reisebericht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reisebericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reisebericht&language=de)
 
 **Meaning:** travelogue

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Museum.ogg]]
 
+![[Museum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Museum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Museum&language=de)
 
 **Meaning:** museum

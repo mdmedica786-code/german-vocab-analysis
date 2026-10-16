@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Schönheits-OP
 
+![[Schönheits-OP.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%B6nheits-OP/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%B6nheits-OP&language=de)
 
 **Meaning:** cosmetic surgery

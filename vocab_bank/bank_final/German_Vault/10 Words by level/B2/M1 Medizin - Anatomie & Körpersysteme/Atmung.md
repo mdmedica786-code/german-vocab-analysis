@@ -23,6 +23,8 @@ status: "new"
 
 ![[Atmung.ogg]]
 
+![[Atmung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Atmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Atmung&language=de)
 
 **Meaning:** breathing; respiration

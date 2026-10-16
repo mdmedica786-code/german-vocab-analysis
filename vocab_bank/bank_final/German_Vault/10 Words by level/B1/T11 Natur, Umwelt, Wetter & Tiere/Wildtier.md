@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wildtier.ogg]]
 
+![[Wildtier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wildtier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wildtier&language=de)
 
 **Meaning:** wild animal

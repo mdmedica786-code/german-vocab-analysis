@@ -23,6 +23,8 @@ status: "new"
 
 ![[Abgabe.ogg]]
 
+![[Abgabe.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abgabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abgabe&language=de)
 
 **Meaning:** submission; handing in

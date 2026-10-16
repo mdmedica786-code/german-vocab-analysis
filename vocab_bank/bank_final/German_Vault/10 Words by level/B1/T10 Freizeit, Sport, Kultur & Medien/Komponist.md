@@ -24,6 +24,8 @@ status: "new"
 
 ![[Komponist.ogg]]
 
+![[Komponist.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Komponist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Komponist&language=de)
 
 **Meaning:** composer (m)

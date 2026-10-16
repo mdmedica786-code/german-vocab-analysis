@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Aufbau
 
+![[Aufbau.png]]
+
 ![[Aufbau.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Aufbau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufbau&language=de)

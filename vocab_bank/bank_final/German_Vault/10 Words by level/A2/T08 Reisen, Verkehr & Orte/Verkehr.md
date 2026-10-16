@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Verkehr
 
+![[Verkehr.jpg]]
+
 ![[Verkehr.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Verkehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehr&language=de)

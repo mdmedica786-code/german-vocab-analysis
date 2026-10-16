@@ -23,6 +23,8 @@ status: "new"
 
 ![[Jude.ogg]]
 
+![[Jude.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Jude/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jude&language=de)
 
 **Meaning:** Jew

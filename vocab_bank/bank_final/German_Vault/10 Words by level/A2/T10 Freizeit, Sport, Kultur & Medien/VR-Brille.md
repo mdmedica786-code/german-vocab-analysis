@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die VR-Brille
 
+![[VR-Brille.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/VR-Brille/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=VR-Brille&language=de)
 
 **Meaning:** VR goggles

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Umschulung.ogg]]
 
+![[Umschulung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Umschulung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umschulung&language=de)
 
 **Meaning:** retraining

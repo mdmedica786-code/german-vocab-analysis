@@ -24,6 +24,8 @@ status: "new"
 
 ![[Smartwatch.ogg]]
 
+![[Smartwatch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Smartwatch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Smartwatch&language=de)
 
 **Meaning:** smartwatch

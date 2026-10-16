@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das GPS
 
+![[GPS.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/GPS/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=GPS&language=de)
 
 **Meaning:** GPS

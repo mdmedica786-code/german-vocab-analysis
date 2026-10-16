@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Ökolandbau
 
+![[Ökolandbau.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%96kolandbau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%96kolandbau&language=de)
 
 **Meaning:** organic farming

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kinderbuch.ogg]]
 
+![[Kinderbuch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kinderbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinderbuch&language=de)
 
 **Meaning:** children's book

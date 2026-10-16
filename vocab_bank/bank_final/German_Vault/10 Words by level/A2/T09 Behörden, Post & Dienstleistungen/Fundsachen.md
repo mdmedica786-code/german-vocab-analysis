@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fundsachen.ogg]]
 
+![[Fundsachen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fundsachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fundsachen&language=de)
 
 **Meaning:** lost property

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Arbeitslosigkeit.ogg]]
 
+![[Arbeitslosigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitslosigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitslosigkeit&language=de)
 
 **Meaning:** unemployment

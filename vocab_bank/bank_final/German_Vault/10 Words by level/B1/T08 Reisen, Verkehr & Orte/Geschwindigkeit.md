@@ -25,6 +25,8 @@ status: "new"
 
 ![[Geschwindigkeit.ogg]]
 
+![[Geschwindigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geschwindigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geschwindigkeit&language=de)
 
 **Meaning:** speed

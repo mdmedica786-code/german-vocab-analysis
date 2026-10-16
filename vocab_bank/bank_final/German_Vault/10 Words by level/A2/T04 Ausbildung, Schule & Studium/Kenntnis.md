@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kenntnis.ogg]]
 
+![[Kenntnis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kenntnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kenntnis&language=de)
 
 **Meaning:** knowledge

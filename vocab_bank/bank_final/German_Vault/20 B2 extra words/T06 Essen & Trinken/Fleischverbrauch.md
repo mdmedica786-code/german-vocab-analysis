@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Fleischverbrauch
 
+![[Fleischverbrauch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fleischverbrauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fleischverbrauch&language=de)
 
 **Meaning:** meat consumption

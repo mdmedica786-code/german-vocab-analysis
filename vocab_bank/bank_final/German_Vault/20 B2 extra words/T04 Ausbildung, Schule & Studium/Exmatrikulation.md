@@ -23,6 +23,8 @@ status: "new"
 
 ![[Exmatrikulation.ogg]]
 
+![[Exmatrikulation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Exmatrikulation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Exmatrikulation&language=de)
 
 **Meaning:** de-registration from university

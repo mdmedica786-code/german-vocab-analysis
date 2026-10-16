@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Zahl
 
+![[Zahl.png]]
+
 ![[Zahl.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahl&language=de)

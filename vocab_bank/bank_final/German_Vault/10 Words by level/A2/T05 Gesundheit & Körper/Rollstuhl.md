@@ -24,6 +24,8 @@ status: "new"
 
 ![[Rollstuhl.ogg]]
 
+![[Rollstuhl.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rollstuhl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rollstuhl&language=de)
 
 **Meaning:** wheelchair

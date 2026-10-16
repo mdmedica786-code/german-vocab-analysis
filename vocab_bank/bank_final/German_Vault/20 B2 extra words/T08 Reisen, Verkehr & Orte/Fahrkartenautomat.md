@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Fahrkartenautomat
 
+![[Fahrkartenautomat.jpg]]
+
 ![[Fahrkartenautomat.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fahrkartenautomat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrkartenautomat&language=de)

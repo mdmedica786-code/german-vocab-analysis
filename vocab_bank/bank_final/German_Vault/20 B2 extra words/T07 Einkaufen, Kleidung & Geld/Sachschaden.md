@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sachschaden.ogg]]
 
+![[Sachschaden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sachschaden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sachschaden&language=de)
 
 **Meaning:** property damage; material damage

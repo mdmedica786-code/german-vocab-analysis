@@ -25,6 +25,8 @@ status: "new"
 
 ![[Besuch.ogg]]
 
+![[Besuch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Besuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besuch&language=de)
 
 **Meaning:** visit

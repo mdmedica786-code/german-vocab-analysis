@@ -24,6 +24,8 @@ status: "new"
 
 ![[Nelke.ogg]]
 
+![[Nelke.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nelke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nelke&language=de)
 
 **Meaning:** carnation; clove

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dutzend.ogg]]
 
+![[Dutzend.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dutzend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dutzend&language=de)
 
 **Meaning:** dozen

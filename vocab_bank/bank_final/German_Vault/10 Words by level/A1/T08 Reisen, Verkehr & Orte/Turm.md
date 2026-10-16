@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Turm
 
+![[Turm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Turm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Turm&language=de)
 
 **Meaning:** tower

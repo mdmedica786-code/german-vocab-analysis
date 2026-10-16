@@ -23,6 +23,8 @@ status: "new"
 
 ![[Protokoll.ogg]]
 
+![[Protokoll.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Protokoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Protokoll&language=de)
 
 **Meaning:** minutes; record

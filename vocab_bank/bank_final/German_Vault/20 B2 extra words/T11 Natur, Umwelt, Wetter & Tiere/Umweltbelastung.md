@@ -23,6 +23,8 @@ status: "new"
 
 ![[Umweltbelastung.ogg]]
 
+![[Umweltbelastung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Umweltbelastung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umweltbelastung&language=de)
 
 **Meaning:** environmental pollution; burden on the environment

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Wagen.ogg]]
 
+![[Wagen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wagen&language=de)
 
 **Meaning:** car

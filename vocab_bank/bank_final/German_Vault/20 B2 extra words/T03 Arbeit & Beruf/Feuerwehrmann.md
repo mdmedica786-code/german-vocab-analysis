@@ -23,6 +23,8 @@ status: "new"
 
 ![[Feuerwehrmann.ogg]]
 
+![[Feuerwehrmann.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Feuerwehrmann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuerwehrmann&language=de)
 
 **Meaning:** firefighter

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Zange
 
+![[Zange.jpg]]
+
 ![[Zange.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zange/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zange&language=de)

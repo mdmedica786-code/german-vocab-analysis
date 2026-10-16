@@ -25,6 +25,8 @@ status: "new"
 
 ![[Vitamin.ogg]]
 
+![[Vitamin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vitamin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vitamin&language=de)
 
 **Meaning:** vitamin

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Elektrizität.ogg]]
 
+![[Elektrizität.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Elektrizit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elektrizit%C3%A4t&language=de)
 
 **Meaning:** electricity

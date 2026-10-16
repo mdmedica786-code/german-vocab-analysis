@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tapete.ogg]]
 
+![[Tapete.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tapete/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tapete&language=de)
 
 **Meaning:** wallpaper

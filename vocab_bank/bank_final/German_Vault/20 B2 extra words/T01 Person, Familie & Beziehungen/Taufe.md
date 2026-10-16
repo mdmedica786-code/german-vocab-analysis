@@ -23,6 +23,8 @@ status: "new"
 
 ![[Taufe.ogg]]
 
+![[Taufe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Taufe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taufe&language=de)
 
 **Meaning:** baptism; christening

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Eventmanager
 
+![[Eventmanager.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Eventmanager/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eventmanager&language=de)
 
 **Meaning:** event manager (male)

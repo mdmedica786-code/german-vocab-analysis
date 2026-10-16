@@ -24,6 +24,8 @@ status: "new"
 
 ![[Korb.ogg]]
 
+![[Korb.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Korb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Korb&language=de)
 
 **Meaning:** basket

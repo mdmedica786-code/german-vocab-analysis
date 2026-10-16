@@ -23,6 +23,8 @@ status: "new"
 
 ![[Imitation.ogg]]
 
+![[Imitation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Imitation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Imitation&language=de)
 
 **Meaning:** imitation; copy

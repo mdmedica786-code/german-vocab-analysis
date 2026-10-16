@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gewalt.ogg]]
 
+![[Gewalt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gewalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewalt&language=de)
 
 **Meaning:** violence

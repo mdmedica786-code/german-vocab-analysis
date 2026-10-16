@@ -23,6 +23,8 @@ status: "new"
 
 ![[Deponie.ogg]]
 
+![[Deponie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Deponie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Deponie&language=de)
 
 **Meaning:** landfill site

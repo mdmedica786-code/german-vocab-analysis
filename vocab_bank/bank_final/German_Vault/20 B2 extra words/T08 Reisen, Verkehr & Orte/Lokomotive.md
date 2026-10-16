@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lokomotive.ogg]]
 
+![[Lokomotive.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lokomotive/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lokomotive&language=de)
 
 **Meaning:** locomotive; engine

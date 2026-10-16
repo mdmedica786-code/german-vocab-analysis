@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Rodung
 
+![[Rodung.jpg]]
+
 ![[Rodung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Rodung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rodung&language=de)

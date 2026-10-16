@@ -23,6 +23,8 @@ status: "new"
 
 ![[Konfrontation.ogg]]
 
+![[Konfrontation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konfrontation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konfrontation&language=de)
 
 **Meaning:** confrontation

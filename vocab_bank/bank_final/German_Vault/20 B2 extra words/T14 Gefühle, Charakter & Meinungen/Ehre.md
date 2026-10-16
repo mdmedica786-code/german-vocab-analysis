@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Ehre
 
+![[Ehre.jpg]]
+
 ![[Ehre.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Ehre/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehre&language=de)

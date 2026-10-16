@@ -25,6 +25,8 @@ status: "new"
 
 ![[Bäckerei.ogg]]
 
+![[Bäckerei.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%A4ckerei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%A4ckerei&language=de)
 
 **Meaning:** bakery

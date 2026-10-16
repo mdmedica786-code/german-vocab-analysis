@@ -24,6 +24,8 @@ status: "new"
 
 ![[Arbeitszeit.ogg]]
 
+![[Arbeitszeit.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitszeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitszeit&language=de)
 
 **Meaning:** working hours

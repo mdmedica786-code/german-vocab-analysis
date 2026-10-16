@@ -25,6 +25,8 @@ status: "new"
 
 ![[Symbol.ogg]]
 
+![[Symbol.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Symbol/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Symbol&language=de)
 
 **Meaning:** symbol

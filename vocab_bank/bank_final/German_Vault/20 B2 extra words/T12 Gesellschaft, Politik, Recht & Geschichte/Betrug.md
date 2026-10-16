@@ -23,6 +23,8 @@ status: "new"
 
 ![[Betrug.ogg]]
 
+![[Betrug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Betrug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betrug&language=de)
 
 **Meaning:** fraud; deception

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gerücht.ogg]]
 
+![[Gerücht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ger%C3%BCcht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ger%C3%BCcht&language=de)
 
 **Meaning:** rumour

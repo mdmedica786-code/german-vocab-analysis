@@ -24,6 +24,8 @@ status: "new"
 
 ![[Chips.ogg]]
 
+![[Chips.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Chips/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chips&language=de)
 
 **Meaning:** crisps

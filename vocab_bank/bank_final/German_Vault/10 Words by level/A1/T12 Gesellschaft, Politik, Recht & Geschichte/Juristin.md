@@ -24,6 +24,8 @@ status: "new"
 
 ![[Juristin.ogg]]
 
+![[Juristin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Juristin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Juristin&language=de)
 
 **Meaning:** lawyer; legal expert

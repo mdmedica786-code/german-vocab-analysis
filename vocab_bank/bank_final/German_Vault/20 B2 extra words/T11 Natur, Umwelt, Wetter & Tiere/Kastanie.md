@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kastanie.ogg]]
 
+![[Kastanie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kastanie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kastanie&language=de)
 
 **Meaning:** chestnut

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hausflur.ogg]]
 
+![[Hausflur.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hausflur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausflur&language=de)
 
 **Meaning:** hallway; entrance hall (of a building)

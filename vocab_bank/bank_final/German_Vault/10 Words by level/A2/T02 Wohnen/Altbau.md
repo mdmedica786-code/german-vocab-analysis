@@ -24,6 +24,8 @@ status: "new"
 
 ![[Altbau.ogg]]
 
+![[Altbau.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Altbau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altbau&language=de)
 
 **Meaning:** old building

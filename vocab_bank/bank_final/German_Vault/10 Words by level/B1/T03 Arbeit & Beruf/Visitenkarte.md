@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Visitenkarte
 
+![[Visitenkarte.jpg]]
+
 ![[Visitenkarte.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Visitenkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Visitenkarte&language=de)

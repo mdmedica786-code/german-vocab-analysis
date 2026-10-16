@@ -25,6 +25,8 @@ status: "new"
 
 ![[Reise.ogg]]
 
+![[Reise.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reise&language=de)
 
 **Meaning:** trip

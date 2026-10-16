@@ -24,6 +24,8 @@ status: "new"
 
 ![[Lagerfeuer.ogg]]
 
+![[Lagerfeuer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lagerfeuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lagerfeuer&language=de)
 
 **Meaning:** campfire

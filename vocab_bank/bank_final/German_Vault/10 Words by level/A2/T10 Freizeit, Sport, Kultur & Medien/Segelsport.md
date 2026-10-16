@@ -24,6 +24,8 @@ status: "new"
 
 ![[Segelsport.ogg]]
 
+![[Segelsport.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Segelsport/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Segelsport&language=de)
 
 **Meaning:** sailing

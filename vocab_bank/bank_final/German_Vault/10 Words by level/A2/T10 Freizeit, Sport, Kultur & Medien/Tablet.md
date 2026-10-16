@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tablet.ogg]]
 
+![[Tablet.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tablet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tablet&language=de)
 
 **Meaning:** tablet

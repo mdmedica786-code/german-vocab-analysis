@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Stammtisch
 
+![[Stammtisch.jpg]]
+
 ![[Stammtisch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Stammtisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stammtisch&language=de)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Violine.ogg]]
 
+![[Violine.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Violine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Violine&language=de)
 
 **Meaning:** violin

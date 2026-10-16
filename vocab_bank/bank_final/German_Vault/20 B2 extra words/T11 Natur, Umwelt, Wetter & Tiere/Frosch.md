@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Frosch
 
+![[Frosch.jpg]]
+
 ![[Frosch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Frosch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frosch&language=de)

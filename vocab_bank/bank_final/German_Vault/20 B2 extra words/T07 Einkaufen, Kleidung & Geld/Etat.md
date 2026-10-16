@@ -23,6 +23,8 @@ status: "new"
 
 ![[Etat.ogg]]
 
+![[Etat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Etat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Etat&language=de)
 
 **Meaning:** budget

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Verkaufsraum.ogg]]
 
+![[Verkaufsraum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verkaufsraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkaufsraum&language=de)
 
 **Meaning:** showroom

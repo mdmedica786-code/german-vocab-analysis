@@ -25,6 +25,8 @@ status: "new"
 
 ![[Portemonnaie.ogg]]
 
+![[Portemonnaie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Portemonnaie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Portemonnaie&language=de)
 
 **Meaning:** wallet

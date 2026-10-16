@@ -24,6 +24,8 @@ status: "new"
 
 ![[Steckbrief.ogg]]
 
+![[Steckbrief.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Steckbrief/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Steckbrief&language=de)
 
 **Meaning:** profile

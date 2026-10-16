@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schlafanzug.ogg]]
 
+![[Schlafanzug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schlafanzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlafanzug&language=de)
 
 **Meaning:** pyjamas

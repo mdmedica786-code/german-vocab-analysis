@@ -26,6 +26,8 @@ status: "new"
 
 ![[Kuvert.ogg]]
 
+![[Kuvert.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kuvert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kuvert&language=de)
 
 **Meaning:** envelope (Austrian, Swiss)

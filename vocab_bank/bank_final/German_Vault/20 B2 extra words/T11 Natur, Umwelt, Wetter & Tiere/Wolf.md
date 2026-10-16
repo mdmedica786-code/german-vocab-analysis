@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Wolf
 
+![[Wolf.jpg]]
+
 ![[Wolf.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wolf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wolf&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Geduld.ogg]]
 
+![[Geduld.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geduld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geduld&language=de)
 
 **Meaning:** patience

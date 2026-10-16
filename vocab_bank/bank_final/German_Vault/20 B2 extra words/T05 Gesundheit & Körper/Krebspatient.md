@@ -23,6 +23,8 @@ status: "new"
 
 ![[Krebspatient.ogg]]
 
+![[Krebspatient.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krebspatient/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krebspatient&language=de)
 
 **Meaning:** cancer patient (male)

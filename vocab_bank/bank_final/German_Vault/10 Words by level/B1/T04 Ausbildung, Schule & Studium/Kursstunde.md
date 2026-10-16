@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kursstunde.ogg]]
 
+![[Kursstunde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kursstunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kursstunde&language=de)
 
 **Meaning:** lesson

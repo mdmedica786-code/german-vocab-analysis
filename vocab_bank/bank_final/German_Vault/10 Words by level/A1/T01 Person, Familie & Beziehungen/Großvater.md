@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Großvater
 
+![[Großvater.jpg]]
+
 ![[Großvater.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gro%C3%9Fvater/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gro%C3%9Fvater&language=de)

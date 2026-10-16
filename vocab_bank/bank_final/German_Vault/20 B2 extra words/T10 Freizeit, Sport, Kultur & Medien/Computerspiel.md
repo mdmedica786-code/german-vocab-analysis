@@ -23,6 +23,8 @@ status: "new"
 
 ![[Computerspiel.ogg]]
 
+![[Computerspiel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Computerspiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Computerspiel&language=de)
 
 **Meaning:** computer game

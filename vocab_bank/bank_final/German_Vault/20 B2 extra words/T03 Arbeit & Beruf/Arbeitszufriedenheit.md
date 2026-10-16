@@ -23,6 +23,8 @@ status: "new"
 
 ![[Arbeitszufriedenheit.ogg]]
 
+![[Arbeitszufriedenheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitszufriedenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitszufriedenheit&language=de)
 
 **Meaning:** job satisfaction

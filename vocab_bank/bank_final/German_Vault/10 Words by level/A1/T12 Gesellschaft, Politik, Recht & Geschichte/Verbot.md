@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Verbot
 
+![[Verbot.jpg]]
+
 ![[Verbot.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Verbot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbot&language=de)

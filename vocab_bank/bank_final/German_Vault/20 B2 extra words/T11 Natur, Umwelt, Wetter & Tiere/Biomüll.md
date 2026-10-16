@@ -23,6 +23,8 @@ status: "new"
 
 ![[Biomüll.ogg]]
 
+![[Biomüll.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Biom%C3%BCll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biom%C3%BCll&language=de)
 
 **Meaning:** organic waste

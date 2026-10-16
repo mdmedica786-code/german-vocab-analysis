@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Leber
 
+![[Leber.png]]
+
 ![[Leber.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Leber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leber&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fortbildung.ogg]]
 
+![[Fortbildung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fortbildung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fortbildung&language=de)
 
 **Meaning:** further training

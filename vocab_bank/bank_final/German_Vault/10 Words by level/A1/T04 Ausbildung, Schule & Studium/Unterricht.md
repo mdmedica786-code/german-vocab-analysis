@@ -25,6 +25,8 @@ status: "new"
 
 ![[Unterricht.ogg]]
 
+![[Unterricht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Unterricht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterricht&language=de)
 
 **Meaning:** lessons

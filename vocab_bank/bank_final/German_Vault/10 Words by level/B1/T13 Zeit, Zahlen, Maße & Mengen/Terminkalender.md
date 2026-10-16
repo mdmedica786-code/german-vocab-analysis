@@ -25,6 +25,8 @@ status: "new"
 
 ![[Terminkalender.ogg]]
 
+![[Terminkalender.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Terminkalender/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Terminkalender&language=de)
 
 **Meaning:** diary; appointment calendar

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hörschaden.ogg]]
 
+![[Hörschaden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6rschaden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6rschaden&language=de)
 
 **Meaning:** hearing damage

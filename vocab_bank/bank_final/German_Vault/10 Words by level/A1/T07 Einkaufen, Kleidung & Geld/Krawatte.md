@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Krawatte
 
+![[Krawatte.jpg]]
+
 ![[Krawatte.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Krawatte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krawatte&language=de)

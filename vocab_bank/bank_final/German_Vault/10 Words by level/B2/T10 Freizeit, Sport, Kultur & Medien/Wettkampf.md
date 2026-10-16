@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wettkampf.ogg]]
 
+![[Wettkampf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wettkampf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wettkampf&language=de)
 
 **Meaning:** competition

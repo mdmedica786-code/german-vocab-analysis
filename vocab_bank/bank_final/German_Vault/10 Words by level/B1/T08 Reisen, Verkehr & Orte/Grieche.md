@@ -24,6 +24,8 @@ status: "new"
 
 ![[Grieche.ogg]]
 
+![[Grieche.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Grieche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grieche&language=de)
 
 **Meaning:** Greek man

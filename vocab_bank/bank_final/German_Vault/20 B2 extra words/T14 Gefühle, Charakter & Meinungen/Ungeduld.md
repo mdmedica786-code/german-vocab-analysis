@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ungeduld.ogg]]
 
+![[Ungeduld.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ungeduld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ungeduld&language=de)
 
 **Meaning:** impatience

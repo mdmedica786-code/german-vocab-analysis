@@ -24,6 +24,8 @@ status: "new"
 
 ![[Tennisplatz.ogg]]
 
+![[Tennisplatz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tennisplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tennisplatz&language=de)
 
 **Meaning:** tennis court

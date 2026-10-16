@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schnecke.ogg]]
 
+![[Schnecke.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schnecke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schnecke&language=de)
 
 **Meaning:** snail; slug

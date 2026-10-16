@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ritual.ogg]]
 
+![[Ritual.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ritual/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ritual&language=de)
 
 **Meaning:** ritual

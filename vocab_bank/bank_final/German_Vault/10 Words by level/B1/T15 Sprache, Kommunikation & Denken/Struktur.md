@@ -25,6 +25,8 @@ status: "new"
 
 ![[Struktur.ogg]]
 
+![[Struktur.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Struktur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Struktur&language=de)
 
 **Meaning:** structure

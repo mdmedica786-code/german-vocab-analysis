@@ -23,6 +23,8 @@ status: "new"
 
 ![[Raureif.ogg]]
 
+![[Raureif.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Raureif/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Raureif&language=de)
 
 **Meaning:** hoarfrost

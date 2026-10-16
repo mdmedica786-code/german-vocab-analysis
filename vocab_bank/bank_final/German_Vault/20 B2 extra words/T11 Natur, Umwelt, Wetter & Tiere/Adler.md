@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Adler
 
+![[Adler.jpg]]
+
 ![[Adler.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Adler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Adler&language=de)

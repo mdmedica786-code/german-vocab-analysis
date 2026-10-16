@@ -24,6 +24,8 @@ status: "new"
 
 ![[Taxifahrerin.ogg]]
 
+![[Taxifahrerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Taxifahrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taxifahrerin&language=de)
 
 **Meaning:** taxi driver (f)

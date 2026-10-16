@@ -23,6 +23,8 @@ status: "new"
 
 ![[Raubtier.ogg]]
 
+![[Raubtier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Raubtier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Raubtier&language=de)
 
 **Meaning:** predator; beast of prey

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Führerscheinprüfung.ogg]]
 
+![[Führerscheinprüfung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/F%C3%BChrerscheinpr%C3%BCfung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%BChrerscheinpr%C3%BCfung&language=de)
 
 **Meaning:** driving test

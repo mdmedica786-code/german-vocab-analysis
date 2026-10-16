@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mediathek.ogg]]
 
+![[Mediathek.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mediathek/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mediathek&language=de)
 
 **Meaning:** online media library

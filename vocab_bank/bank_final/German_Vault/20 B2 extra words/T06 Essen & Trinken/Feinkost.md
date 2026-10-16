@@ -23,6 +23,8 @@ status: "new"
 
 ![[Feinkost.ogg]]
 
+![[Feinkost.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Feinkost/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feinkost&language=de)
 
 **Meaning:** delicatessen; gourmet food

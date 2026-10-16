@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tee.ogg]]
 
+![[Tee.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tee&language=de)
 
 **Meaning:** tea

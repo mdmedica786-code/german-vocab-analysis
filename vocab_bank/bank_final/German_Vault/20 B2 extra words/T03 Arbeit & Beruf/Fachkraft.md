@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fachkraft.ogg]]
 
+![[Fachkraft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fachkraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachkraft&language=de)
 
 **Meaning:** skilled worker; specialist

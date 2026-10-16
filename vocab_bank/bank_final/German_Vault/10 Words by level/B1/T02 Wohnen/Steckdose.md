@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Steckdose
 
+![[Steckdose.jpg]]
+
 ![[Steckdose.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Steckdose/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Steckdose&language=de)

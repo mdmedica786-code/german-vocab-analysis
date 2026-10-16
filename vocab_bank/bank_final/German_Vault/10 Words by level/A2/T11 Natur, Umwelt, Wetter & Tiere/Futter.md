@@ -24,6 +24,8 @@ status: "new"
 
 ![[Futter.ogg]]
 
+![[Futter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Futter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Futter&language=de)
 
 **Meaning:** animal feed; fodder

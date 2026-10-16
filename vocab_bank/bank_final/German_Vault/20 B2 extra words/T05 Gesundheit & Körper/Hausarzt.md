@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Hausarzt
 
+![[Hausarzt.jpg]]
+
 ![[Hausarzt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hausarzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausarzt&language=de)

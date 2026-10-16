@@ -23,6 +23,8 @@ status: "new"
 
 ![[Highscore.ogg]]
 
+![[Highscore.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Highscore/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Highscore&language=de)
 
 **Meaning:** high score

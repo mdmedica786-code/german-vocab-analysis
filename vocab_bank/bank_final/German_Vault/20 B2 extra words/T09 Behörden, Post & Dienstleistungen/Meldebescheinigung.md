@@ -23,6 +23,8 @@ status: "new"
 
 ![[Meldebescheinigung.ogg]]
 
+![[Meldebescheinigung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Meldebescheinigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meldebescheinigung&language=de)
 
 **Meaning:** registration certificate

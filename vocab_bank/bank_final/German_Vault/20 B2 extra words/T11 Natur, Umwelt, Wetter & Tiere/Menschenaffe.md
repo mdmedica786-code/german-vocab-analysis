@@ -23,6 +23,8 @@ status: "new"
 
 ![[Menschenaffe.ogg]]
 
+![[Menschenaffe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Menschenaffe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Menschenaffe&language=de)
 
 **Meaning:** great ape

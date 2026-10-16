@@ -24,6 +24,8 @@ status: "new"
 
 ![[Festnetz.ogg]]
 
+![[Festnetz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Festnetz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Festnetz&language=de)
 
 **Meaning:** landline

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Stewardess.ogg]]
 
+![[Stewardess.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stewardess/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stewardess&language=de)
 
 **Meaning:** flight attendant (f)

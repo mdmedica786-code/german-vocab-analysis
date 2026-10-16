@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tiefschlaf.ogg]]
 
+![[Tiefschlaf.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tiefschlaf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiefschlaf&language=de)
 
 **Meaning:** deep sleep

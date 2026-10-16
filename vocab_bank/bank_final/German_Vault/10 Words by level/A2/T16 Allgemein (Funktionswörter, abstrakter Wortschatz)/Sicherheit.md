@@ -25,6 +25,8 @@ status: "new"
 
 ![[Sicherheit.ogg]]
 
+![[Sicherheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sicherheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sicherheit&language=de)
 
 **Meaning:** security; safety; certainty

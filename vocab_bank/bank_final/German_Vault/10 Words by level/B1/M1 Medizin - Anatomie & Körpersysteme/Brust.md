@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Brust
 
+![[Brust.png]]
+
 ![[Brust.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Brust/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brust&language=de)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zivilcourage.ogg]]
 
+![[Zivilcourage.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zivilcourage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zivilcourage&language=de)
 
 **Meaning:** moral courage

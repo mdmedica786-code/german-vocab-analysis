@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hamster.ogg]]
 
+![[Hamster.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hamster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hamster&language=de)
 
 **Meaning:** hamster

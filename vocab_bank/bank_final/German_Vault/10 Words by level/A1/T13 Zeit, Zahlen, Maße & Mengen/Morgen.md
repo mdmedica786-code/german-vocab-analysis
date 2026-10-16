@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Morgen
 
+![[Morgen.jpg]]
+
 ![[morgen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Morgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Morgen&language=de)

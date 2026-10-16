@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Bundesverdienstkreuz
 
+![[Bundesverdienstkreuz.jpg]]
+
 ![[Bundesverdienstkreuz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bundesverdienstkreuz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundesverdienstkreuz&language=de)

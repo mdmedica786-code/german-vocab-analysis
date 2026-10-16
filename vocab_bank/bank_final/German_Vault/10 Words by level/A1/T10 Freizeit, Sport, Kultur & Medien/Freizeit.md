@@ -25,6 +25,8 @@ status: "new"
 
 ![[Freizeit.ogg]]
 
+![[Freizeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Freizeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freizeit&language=de)
 
 **Meaning:** free time

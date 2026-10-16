@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kurier.ogg]]
 
+![[Kurier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kurier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kurier&language=de)
 
 **Meaning:** courier

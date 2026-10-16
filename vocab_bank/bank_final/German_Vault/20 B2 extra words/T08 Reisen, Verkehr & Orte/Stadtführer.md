@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stadtführer.ogg]]
 
+![[Stadtführer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stadtf%C3%BChrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtf%C3%BChrer&language=de)
 
 **Meaning:** city guide (person; male); city guidebook

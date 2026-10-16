@@ -25,6 +25,8 @@ status: "new"
 
 ![[Einkauf.ogg]]
 
+![[Einkauf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einkauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einkauf&language=de)
 
 **Meaning:** shopping

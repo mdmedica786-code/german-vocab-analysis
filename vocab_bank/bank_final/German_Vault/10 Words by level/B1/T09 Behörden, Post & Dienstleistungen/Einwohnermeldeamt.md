@@ -24,6 +24,8 @@ status: "new"
 
 ![[Einwohnermeldeamt.ogg]]
 
+![[Einwohnermeldeamt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einwohnermeldeamt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einwohnermeldeamt&language=de)
 
 **Meaning:** registration office

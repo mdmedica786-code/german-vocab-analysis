@@ -24,6 +24,8 @@ status: "new"
 
 ![[Biergarten.ogg]]
 
+![[Biergarten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Biergarten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biergarten&language=de)
 
 **Meaning:** beer garden

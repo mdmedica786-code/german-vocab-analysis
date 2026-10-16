@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Zeit
 
+![[Zeit.jpg]]
+
 ![[Zeit.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeit&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Linde.ogg]]
 
+![[Linde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Linde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Linde&language=de)
 
 **Meaning:** lime tree; linden

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wasserschaden.ogg]]
 
+![[Wasserschaden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wasserschaden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wasserschaden&language=de)
 
 **Meaning:** water damage

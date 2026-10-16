@@ -23,6 +23,8 @@ status: "new"
 
 ![[Publikation.ogg]]
 
+![[Publikation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Publikation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Publikation&language=de)
 
 **Meaning:** publication

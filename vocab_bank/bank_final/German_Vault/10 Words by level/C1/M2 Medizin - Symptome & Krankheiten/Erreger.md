@@ -23,6 +23,8 @@ status: "new"
 
 ![[Erreger.ogg]]
 
+![[Erreger.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erreger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erreger&language=de)
 
 **Meaning:** pathogen

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Croissant.ogg]]
 
+![[Croissant.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Croissant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Croissant&language=de)
 
 **Meaning:** croissant

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Erfinder.ogg]]
 
+![[Erfinder.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erfinder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erfinder&language=de)
 
 **Meaning:** inventor

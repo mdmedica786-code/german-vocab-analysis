@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schlafphase.ogg]]
 
+![[Schlafphase.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schlafphase/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlafphase&language=de)
 
 **Meaning:** sleep phase; stage of sleep

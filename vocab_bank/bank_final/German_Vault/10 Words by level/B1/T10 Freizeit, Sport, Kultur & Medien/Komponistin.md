@@ -24,6 +24,8 @@ status: "new"
 
 ![[Komponistin.ogg]]
 
+![[Komponistin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Komponistin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Komponistin&language=de)
 
 **Meaning:** composer (f)

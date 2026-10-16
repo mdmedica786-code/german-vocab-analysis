@@ -24,6 +24,8 @@ status: "new"
 
 ![[Actionfilm.ogg]]
 
+![[Actionfilm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Actionfilm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Actionfilm&language=de)
 
 **Meaning:** action film

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lernschwierigkeit.ogg]]
 
+![[Lernschwierigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lernschwierigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernschwierigkeit&language=de)
 
 **Meaning:** learning difficulty

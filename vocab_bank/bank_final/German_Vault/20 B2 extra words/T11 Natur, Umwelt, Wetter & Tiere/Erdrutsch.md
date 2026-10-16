@@ -23,6 +23,8 @@ status: "new"
 
 ![[Erdrutsch.ogg]]
 
+![[Erdrutsch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erdrutsch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erdrutsch&language=de)
 
 **Meaning:** landslide

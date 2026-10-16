@@ -24,6 +24,8 @@ status: "new"
 
 ![[Geheimnis.ogg]]
 
+![[Geheimnis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geheimnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geheimnis&language=de)
 
 **Meaning:** secret

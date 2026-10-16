@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Schüler
 
+![[Schüler.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%BCler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%BCler&language=de)
 
 **Meaning:** pupil (m)

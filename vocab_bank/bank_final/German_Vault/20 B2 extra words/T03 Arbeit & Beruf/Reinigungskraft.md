@@ -23,6 +23,8 @@ status: "new"
 
 ![[Reinigungskraft.ogg]]
 
+![[Reinigungskraft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reinigungskraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reinigungskraft&language=de)
 
 **Meaning:** cleaner

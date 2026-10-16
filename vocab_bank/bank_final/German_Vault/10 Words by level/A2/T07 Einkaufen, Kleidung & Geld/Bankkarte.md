@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bankkarte.ogg]]
 
+![[Bankkarte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bankkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bankkarte&language=de)
 
 **Meaning:** bank card

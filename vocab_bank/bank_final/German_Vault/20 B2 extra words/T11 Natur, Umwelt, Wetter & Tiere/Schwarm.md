@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schwarm.ogg]]
 
+![[Schwarm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schwarm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwarm&language=de)
 
 **Meaning:** swarm; flock

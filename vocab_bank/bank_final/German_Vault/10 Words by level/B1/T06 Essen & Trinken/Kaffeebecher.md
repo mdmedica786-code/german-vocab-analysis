@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kaffeebecher.ogg]]
 
+![[Kaffeebecher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kaffeebecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaffeebecher&language=de)
 
 **Meaning:** coffee cup

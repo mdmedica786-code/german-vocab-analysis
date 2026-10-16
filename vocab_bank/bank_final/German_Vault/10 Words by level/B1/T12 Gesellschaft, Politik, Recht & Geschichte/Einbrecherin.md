@@ -24,6 +24,8 @@ status: "new"
 
 ![[Einbrecherin.ogg]]
 
+![[Einbrecherin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einbrecherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einbrecherin&language=de)
 
 **Meaning:** burglar (f)

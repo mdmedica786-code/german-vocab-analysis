@@ -24,6 +24,8 @@ status: "new"
 
 ![[Suchtmittel.ogg]]
 
+![[Suchtmittel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Suchtmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Suchtmittel&language=de)
 
 **Meaning:** addictive substance

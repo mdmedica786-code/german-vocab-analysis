@@ -24,6 +24,8 @@ status: "new"
 
 ![[E-Mail-Adresse.ogg]]
 
+![[E-Mail-Adresse.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/E-Mail-Adresse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=E-Mail-Adresse&language=de)
 
 **Meaning:** email address

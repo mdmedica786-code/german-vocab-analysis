@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hausnummer.ogg]]
 
+![[Hausnummer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hausnummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausnummer&language=de)
 
 **Meaning:** house number

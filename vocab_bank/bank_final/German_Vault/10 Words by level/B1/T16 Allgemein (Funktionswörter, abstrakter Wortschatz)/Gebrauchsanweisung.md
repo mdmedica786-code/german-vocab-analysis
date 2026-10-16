@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gebrauchsanweisung.ogg]]
 
+![[Gebrauchsanweisung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gebrauchsanweisung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gebrauchsanweisung&language=de)
 
 **Meaning:** instructions

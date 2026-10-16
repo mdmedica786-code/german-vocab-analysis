@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Spiel
 
+![[Spiel.jpg]]
+
 ![[Spiel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Spiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spiel&language=de)

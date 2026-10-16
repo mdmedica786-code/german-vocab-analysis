@@ -23,6 +23,8 @@ status: "new"
 
 ![[Monarchie.ogg]]
 
+![[Monarchie.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Monarchie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Monarchie&language=de)
 
 **Meaning:** monarchy

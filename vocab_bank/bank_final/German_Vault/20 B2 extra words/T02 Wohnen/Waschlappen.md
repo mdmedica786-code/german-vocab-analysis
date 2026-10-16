@@ -23,6 +23,8 @@ status: "new"
 
 ![[Waschlappen.ogg]]
 
+![[Waschlappen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Waschlappen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Waschlappen&language=de)
 
 **Meaning:** flannel; washcloth

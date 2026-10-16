@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fahrzeug.ogg]]
 
+![[Fahrzeug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fahrzeug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrzeug&language=de)
 
 **Meaning:** vehicle

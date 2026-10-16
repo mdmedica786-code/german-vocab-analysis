@@ -25,6 +25,8 @@ status: "new"
 
 ![[Workshop.ogg]]
 
+![[Workshop.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Workshop/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Workshop&language=de)
 
 **Meaning:** workshop

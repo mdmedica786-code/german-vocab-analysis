@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stall.ogg]]
 
+![[Stall.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stall&language=de)
 
 **Meaning:** stable; barn

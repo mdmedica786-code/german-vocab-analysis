@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schönheit.ogg]]
 
+![[Schönheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%B6nheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%B6nheit&language=de)
 
 **Meaning:** beauty

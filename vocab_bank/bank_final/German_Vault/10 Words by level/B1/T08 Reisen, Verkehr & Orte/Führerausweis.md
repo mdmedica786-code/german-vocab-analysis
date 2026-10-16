@@ -26,6 +26,8 @@ status: "new"
 
 ![[Führerausweis.ogg]]
 
+![[Führerausweis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/F%C3%BChrerausweis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%BChrerausweis&language=de)
 
 **Meaning:** driving licence (Swiss)

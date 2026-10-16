@@ -23,6 +23,8 @@ status: "new"
 
 ![[Avatar.ogg]]
 
+![[Avatar.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Avatar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Avatar&language=de)
 
 **Meaning:** avatar

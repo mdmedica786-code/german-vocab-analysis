@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Unterschrift
 
+![[Unterschrift.jpg]]
+
 ![[Unterschrift.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Unterschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterschrift&language=de)

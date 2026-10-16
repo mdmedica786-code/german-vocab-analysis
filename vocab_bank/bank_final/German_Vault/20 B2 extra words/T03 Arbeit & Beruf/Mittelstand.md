@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mittelstand.ogg]]
 
+![[Mittelstand.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mittelstand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittelstand&language=de)
 
 **Meaning:** medium-sized businesses; middle class

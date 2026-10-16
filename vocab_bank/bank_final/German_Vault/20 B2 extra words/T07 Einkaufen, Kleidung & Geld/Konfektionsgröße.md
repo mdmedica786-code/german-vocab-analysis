@@ -23,6 +23,8 @@ status: "new"
 
 ![[Konfektionsgröße.ogg]]
 
+![[Konfektionsgröße.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konfektionsgr%C3%B6%C3%9Fe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konfektionsgr%C3%B6%C3%9Fe&language=de)
 
 **Meaning:** clothing size

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Jobmesse
 
+![[Jobmesse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Jobmesse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jobmesse&language=de)
 
 **Meaning:** job fair

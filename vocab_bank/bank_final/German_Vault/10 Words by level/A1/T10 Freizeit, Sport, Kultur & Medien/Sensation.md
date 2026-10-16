@@ -24,6 +24,8 @@ status: "new"
 
 ![[Sensation.ogg]]
 
+![[Sensation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sensation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sensation&language=de)
 
 **Meaning:** sensation

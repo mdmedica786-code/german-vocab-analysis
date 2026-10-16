@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Zoll
 
+![[Zoll.jpg]]
+
 ![[Zoll.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zoll&language=de)

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Velo
 
+![[Velo.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Velo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Velo&language=de)
 
 **Meaning:** bicycle (Swiss German)

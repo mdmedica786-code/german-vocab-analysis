@@ -25,6 +25,8 @@ status: "new"
 
 ![[Semmel.ogg]]
 
+![[Semmel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Semmel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Semmel&language=de)
 
 **Meaning:** bread roll (South German)

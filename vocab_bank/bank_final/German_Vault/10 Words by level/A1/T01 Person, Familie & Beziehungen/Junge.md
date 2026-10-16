@@ -25,6 +25,8 @@ status: "new"
 
 ![[Junge.ogg]]
 
+![[Junge.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Junge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Junge&language=de)
 
 **Meaning:** boy

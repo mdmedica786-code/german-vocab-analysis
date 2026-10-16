@@ -25,6 +25,8 @@ status: "new"
 
 ![[Beleg.ogg]]
 
+![[Beleg.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beleg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beleg&language=de)
 
 **Meaning:** receipt

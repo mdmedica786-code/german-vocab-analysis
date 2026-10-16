@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Zahlungsart
 
+![[Zahlungsart.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zahlungsart/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahlungsart&language=de)
 
 **Meaning:** payment method

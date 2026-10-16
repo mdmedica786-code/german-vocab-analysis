@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Geschichte
 
+![[Geschichte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geschichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geschichte&language=de)
 
 **Meaning:** story; history

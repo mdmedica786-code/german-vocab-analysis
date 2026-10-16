@@ -25,6 +25,8 @@ status: "new"
 
 ![[Restaurant.ogg]]
 
+![[Restaurant.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Restaurant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Restaurant&language=de)
 
 **Meaning:** restaurant

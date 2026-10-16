@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Funkkopfhörer
 
+![[Funkkopfhörer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Funkkopfh%C3%B6rer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Funkkopfh%C3%B6rer&language=de)
 
 **Meaning:** wireless headphones

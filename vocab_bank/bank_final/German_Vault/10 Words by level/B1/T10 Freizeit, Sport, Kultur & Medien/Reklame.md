@@ -25,6 +25,8 @@ status: "new"
 
 ![[Reklame.ogg]]
 
+![[Reklame.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reklame/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reklame&language=de)
 
 **Meaning:** advertising; advertisement

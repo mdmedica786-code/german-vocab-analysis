@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fußnote.ogg]]
 
+![[Fußnote.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fnote/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fnote&language=de)
 
 **Meaning:** footnote

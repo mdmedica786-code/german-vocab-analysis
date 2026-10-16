@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Imker
 
+![[Imker.jpg]]
+
 ![[Imker.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Imker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Imker&language=de)

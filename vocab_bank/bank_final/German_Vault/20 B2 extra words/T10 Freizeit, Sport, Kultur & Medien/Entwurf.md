@@ -23,6 +23,8 @@ status: "new"
 
 ![[Entwurf.ogg]]
 
+![[Entwurf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Entwurf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entwurf&language=de)
 
 **Meaning:** draft; design; sketch

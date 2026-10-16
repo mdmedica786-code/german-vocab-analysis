@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bearbeitungsgebühr.ogg]]
 
+![[Bearbeitungsgebühr.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bearbeitungsgeb%C3%BChr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bearbeitungsgeb%C3%BChr&language=de)
 
 **Meaning:** processing fee

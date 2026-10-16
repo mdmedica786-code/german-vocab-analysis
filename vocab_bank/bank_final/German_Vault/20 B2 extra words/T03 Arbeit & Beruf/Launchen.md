@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Launchen
 
+![[Launchen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Launchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Launchen&language=de)
 
 **Meaning:** launching; launch process

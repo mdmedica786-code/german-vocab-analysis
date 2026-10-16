@@ -25,6 +25,8 @@ status: "new"
 
 ![[Sportlerin.ogg]]
 
+![[Sportlerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sportlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportlerin&language=de)
 
 **Meaning:** athlete (f)

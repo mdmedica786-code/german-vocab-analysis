@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dickicht.ogg]]
 
+![[Dickicht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dickicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dickicht&language=de)
 
 **Meaning:** thicket; undergrowth

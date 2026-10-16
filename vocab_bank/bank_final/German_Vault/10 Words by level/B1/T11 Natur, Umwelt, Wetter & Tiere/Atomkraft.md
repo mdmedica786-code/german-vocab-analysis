@@ -24,6 +24,8 @@ status: "new"
 
 ![[Atomkraft.ogg]]
 
+![[Atomkraft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Atomkraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Atomkraft&language=de)
 
 **Meaning:** atomic power

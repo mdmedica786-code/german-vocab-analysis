@@ -23,6 +23,8 @@ status: "new"
 
 ![[Darm.ogg]]
 
+![[Darm.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Darm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Darm&language=de)
 
 **Meaning:** intestine; bowel

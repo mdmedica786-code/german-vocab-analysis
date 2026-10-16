@@ -25,6 +25,8 @@ status: "new"
 
 ![[Radfahrer.ogg]]
 
+![[Radfahrer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Radfahrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radfahrer&language=de)
 
 **Meaning:** cyclist (m)

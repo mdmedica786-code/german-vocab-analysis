@@ -23,6 +23,8 @@ status: "new"
 
 ![[Beleuchtung.ogg]]
 
+![[Beleuchtung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beleuchtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beleuchtung&language=de)
 
 **Meaning:** lighting

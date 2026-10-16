@@ -24,6 +24,8 @@ status: "new"
 
 ![[Untergeschoss.ogg]]
 
+![[Untergeschoss.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Untergeschoss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Untergeschoss&language=de)
 
 **Meaning:** basement

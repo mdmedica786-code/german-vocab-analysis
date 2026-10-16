@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Samstag
 
+![[Samstag.jpg]]
+
 ![[Samstag.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Samstag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Samstag&language=de)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Sportkleidung.ogg]]
 
+![[Sportkleidung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sportkleidung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportkleidung&language=de)
 
 **Meaning:** sportswear

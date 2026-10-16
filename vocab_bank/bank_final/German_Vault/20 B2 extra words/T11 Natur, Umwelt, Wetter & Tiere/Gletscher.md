@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gletscher.ogg]]
 
+![[Gletscher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gletscher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gletscher&language=de)
 
 **Meaning:** glacier

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Sehenswürdigkeit.ogg]]
 
+![[Sehenswürdigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sehensw%C3%BCrdigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sehensw%C3%BCrdigkeit&language=de)
 
 **Meaning:** tourist attraction

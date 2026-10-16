@@ -24,6 +24,8 @@ status: "new"
 
 ![[Vorurteil.ogg]]
 
+![[Vorurteil.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vorurteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorurteil&language=de)
 
 **Meaning:** prejudice

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Therapeutin.ogg]]
 
+![[Therapeutin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Therapeutin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Therapeutin&language=de)
 
 **Meaning:** therapist (f)

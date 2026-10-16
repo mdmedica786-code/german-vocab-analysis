@@ -25,6 +25,8 @@ status: "new"
 
 ![[Touristin.ogg]]
 
+![[Touristin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Touristin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Touristin&language=de)
 
 **Meaning:** tourist (f)

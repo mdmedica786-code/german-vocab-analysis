@@ -23,6 +23,8 @@ status: "new"
 
 ![[Braut.ogg]]
 
+![[Braut.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Braut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Braut&language=de)
 
 **Meaning:** bride

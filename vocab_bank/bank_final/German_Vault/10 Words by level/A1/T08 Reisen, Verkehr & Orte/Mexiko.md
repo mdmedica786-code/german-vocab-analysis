@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Mexiko
 
+![[Mexiko.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mexiko/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mexiko&language=de)
 
 **Meaning:** Mexico

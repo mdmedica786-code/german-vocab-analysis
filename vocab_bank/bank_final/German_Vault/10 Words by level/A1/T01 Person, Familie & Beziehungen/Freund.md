@@ -25,6 +25,8 @@ status: "new"
 
 ![[Freund.ogg]]
 
+![[Freund.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Freund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freund&language=de)
 
 **Meaning:** friend

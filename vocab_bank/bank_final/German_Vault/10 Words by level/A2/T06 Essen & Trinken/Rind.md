@@ -25,6 +25,8 @@ status: "new"
 
 ![[Rind.ogg]]
 
+![[Rind.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rind/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rind&language=de)
 
 **Meaning:** cattle; beef

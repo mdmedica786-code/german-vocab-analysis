@@ -24,6 +24,8 @@ status: "new"
 
 ![[Joghurt.ogg]]
 
+![[Joghurt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Joghurt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Joghurt&language=de)
 
 **Meaning:** yogurt

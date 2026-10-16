@@ -24,6 +24,8 @@ status: "new"
 
 ![[Telefongespräch.ogg]]
 
+![[Telefongespräch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Telefongespr%C3%A4ch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Telefongespr%C3%A4ch&language=de)
 
 **Meaning:** telephone call

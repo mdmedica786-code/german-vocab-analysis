@@ -25,6 +25,8 @@ status: "new"
 
 ![[Stil.ogg]]
 
+![[Stil.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stil&language=de)
 
 **Meaning:** style

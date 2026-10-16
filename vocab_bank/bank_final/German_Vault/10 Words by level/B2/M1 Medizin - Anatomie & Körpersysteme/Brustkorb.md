@@ -23,6 +23,8 @@ status: "new"
 
 ![[Brustkorb.ogg]]
 
+![[Brustkorb.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Brustkorb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brustkorb&language=de)
 
 **Meaning:** chest; thorax

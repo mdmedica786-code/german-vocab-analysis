@@ -25,6 +25,8 @@ status: "new"
 
 ![[Buchstabe.ogg]]
 
+![[Buchstabe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Buchstabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buchstabe&language=de)
 
 **Meaning:** letter

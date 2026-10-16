@@ -25,6 +25,8 @@ status: "new"
 
 ![[Schulden.ogg]]
 
+![[Schulden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schulden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulden&language=de)
 
 **Meaning:** debt

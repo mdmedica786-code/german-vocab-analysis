@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sturz.ogg]]
 
+![[Sturz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sturz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sturz&language=de)
 
 **Meaning:** fall; overthrow

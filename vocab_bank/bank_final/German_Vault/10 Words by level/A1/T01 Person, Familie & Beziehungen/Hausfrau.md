@@ -25,6 +25,8 @@ status: "new"
 
 ![[Hausfrau.ogg]]
 
+![[Hausfrau.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hausfrau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausfrau&language=de)
 
 **Meaning:** housewife; homemaker (f)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tatort.ogg]]
 
+![[Tatort.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tatort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tatort&language=de)
 
 **Meaning:** crime scene; scene of the crime

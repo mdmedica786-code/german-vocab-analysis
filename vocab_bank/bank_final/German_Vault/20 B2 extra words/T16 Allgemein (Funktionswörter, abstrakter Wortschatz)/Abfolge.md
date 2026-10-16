@@ -23,6 +23,8 @@ status: "new"
 
 ![[Abfolge.ogg]]
 
+![[Abfolge.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abfolge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abfolge&language=de)
 
 **Meaning:** sequence; order

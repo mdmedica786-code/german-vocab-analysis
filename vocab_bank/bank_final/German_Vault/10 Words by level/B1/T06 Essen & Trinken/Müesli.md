@@ -26,6 +26,8 @@ status: "new"
 
 ![[Müesli.ogg]]
 
+![[Müesli.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCesli/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCesli&language=de)
 
 **Meaning:** muesli (Swiss spelling)

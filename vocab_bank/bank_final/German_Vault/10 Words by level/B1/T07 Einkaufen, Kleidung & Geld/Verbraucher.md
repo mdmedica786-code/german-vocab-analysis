@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Verbraucher
 
+![[Verbraucher.jpg]]
+
 ![[Verbraucher.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Verbraucher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbraucher&language=de)

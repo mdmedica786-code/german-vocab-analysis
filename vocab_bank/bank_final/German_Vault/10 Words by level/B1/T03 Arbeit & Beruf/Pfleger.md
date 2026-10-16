@@ -25,6 +25,8 @@ status: "new"
 
 ![[Pfleger.ogg]]
 
+![[Pfleger.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pfleger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfleger&language=de)
 
 **Meaning:** nurse (m)

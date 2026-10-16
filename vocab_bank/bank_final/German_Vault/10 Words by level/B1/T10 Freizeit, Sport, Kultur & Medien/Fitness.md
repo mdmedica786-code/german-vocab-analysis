@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fitness.ogg]]
 
+![[Fitness.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fitness/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fitness&language=de)
 
 **Meaning:** fitness

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Sekretärin.ogg]]
 
+![[Sekretärin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sekret%C3%A4rin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sekret%C3%A4rin&language=de)
 
 **Meaning:** secretary (f)

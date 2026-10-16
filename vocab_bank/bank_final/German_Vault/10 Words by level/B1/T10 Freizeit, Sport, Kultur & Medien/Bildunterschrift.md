@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bildunterschrift.ogg]]
 
+![[Bildunterschrift.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bildunterschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bildunterschrift&language=de)
 
 **Meaning:** caption

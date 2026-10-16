@@ -25,6 +25,8 @@ status: "new"
 
 ![[Ecke.ogg]]
 
+![[Ecke.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ecke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ecke&language=de)
 
 **Meaning:** corner

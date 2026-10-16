@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dampf.ogg]]
 
+![[Dampf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dampf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dampf&language=de)
 
 **Meaning:** steam

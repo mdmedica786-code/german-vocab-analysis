@@ -23,6 +23,8 @@ status: "new"
 
 ![[Flächenbrand.ogg]]
 
+![[Flächenbrand.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fl%C3%A4chenbrand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fl%C3%A4chenbrand&language=de)
 
 **Meaning:** large-scale fire; wildfire

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Heide.ogg]]
 
+![[Heide.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Heide/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heide&language=de)
 
 **Meaning:** heath

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Möhre.ogg]]
 
+![[Möhre.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%B6hre/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%B6hre&language=de)
 
 **Meaning:** carrot

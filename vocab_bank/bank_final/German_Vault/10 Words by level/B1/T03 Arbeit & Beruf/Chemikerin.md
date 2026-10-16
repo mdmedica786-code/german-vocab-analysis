@@ -24,6 +24,8 @@ status: "new"
 
 ![[Chemikerin.ogg]]
 
+![[Chemikerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Chemikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chemikerin&language=de)
 
 **Meaning:** chemist (f)

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Sehnsucht
 
+![[Sehnsucht.jpg]]
+
 ![[Sehnsucht.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sehnsucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sehnsucht&language=de)

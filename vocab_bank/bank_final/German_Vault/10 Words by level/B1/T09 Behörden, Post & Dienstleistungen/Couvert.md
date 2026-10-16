@@ -26,6 +26,8 @@ status: "new"
 
 ![[Couvert.ogg]]
 
+![[Couvert.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Couvert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Couvert&language=de)
 
 **Meaning:** envelope (Swiss)

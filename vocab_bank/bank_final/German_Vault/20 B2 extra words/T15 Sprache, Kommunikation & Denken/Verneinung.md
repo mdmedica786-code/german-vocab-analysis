@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verneinung.ogg]]
 
+![[Verneinung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verneinung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verneinung&language=de)
 
 **Meaning:** negation

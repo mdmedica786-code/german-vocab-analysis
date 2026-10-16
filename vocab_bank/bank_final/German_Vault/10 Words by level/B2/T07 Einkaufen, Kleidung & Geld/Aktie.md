@@ -23,6 +23,8 @@ status: "new"
 
 ![[Aktie.ogg]]
 
+![[Aktie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aktie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aktie&language=de)
 
 **Meaning:** share; stock

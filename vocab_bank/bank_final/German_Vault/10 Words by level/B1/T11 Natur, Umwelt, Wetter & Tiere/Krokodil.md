@@ -25,6 +25,8 @@ status: "new"
 
 ![[Krokodil.ogg]]
 
+![[Krokodil.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krokodil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krokodil&language=de)
 
 **Meaning:** crocodile

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zeitungsüberschrift.ogg]]
 
+![[Zeitungsüberschrift.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zeitungs%C3%BCberschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitungs%C3%BCberschrift&language=de)
 
 **Meaning:** newspaper headline

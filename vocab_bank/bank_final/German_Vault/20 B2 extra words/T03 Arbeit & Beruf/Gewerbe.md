@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Gewerbe
 
+![[Gewerbe.png]]
+
 ![[Gewerbe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gewerbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewerbe&language=de)

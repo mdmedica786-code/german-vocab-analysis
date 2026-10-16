@@ -23,6 +23,8 @@ status: "new"
 
 ![[Autorität.ogg]]
 
+![[Autorität.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Autorit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autorit%C3%A4t&language=de)
 
 **Meaning:** authority

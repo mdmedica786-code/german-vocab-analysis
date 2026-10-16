@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fiktion.ogg]]
 
+![[Fiktion.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fiktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fiktion&language=de)
 
 **Meaning:** fiction

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Sucht.ogg]]
 
+![[Sucht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sucht&language=de)
 
 **Meaning:** addiction

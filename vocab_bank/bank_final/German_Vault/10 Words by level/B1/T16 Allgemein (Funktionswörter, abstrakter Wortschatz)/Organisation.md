@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Organisation
 
+![[Organisation.png]]
+
 ![[Organisation.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Organisation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Organisation&language=de)

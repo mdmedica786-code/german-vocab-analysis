@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Tourismus
 
+![[Tourismus.jpg]]
+
 ![[Tourismus.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tourismus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tourismus&language=de)

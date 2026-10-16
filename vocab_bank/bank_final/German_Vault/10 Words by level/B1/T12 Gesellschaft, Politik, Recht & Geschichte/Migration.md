@@ -24,6 +24,8 @@ status: "new"
 
 ![[Migration.ogg]]
 
+![[Migration.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Migration/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Migration&language=de)
 
 **Meaning:** migration

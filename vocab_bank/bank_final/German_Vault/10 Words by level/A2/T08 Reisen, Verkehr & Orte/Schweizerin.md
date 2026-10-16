@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schweizerin.ogg]]
 
+![[Schweizerin.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schweizerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schweizerin&language=de)
 
 **Meaning:** Swiss woman

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Klassenzimmer.ogg]]
 
+![[Klassenzimmer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Klassenzimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klassenzimmer&language=de)
 
 **Meaning:** classroom

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Reihenhaus.ogg]]
 
+![[Reihenhaus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reihenhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reihenhaus&language=de)
 
 **Meaning:** townhouse

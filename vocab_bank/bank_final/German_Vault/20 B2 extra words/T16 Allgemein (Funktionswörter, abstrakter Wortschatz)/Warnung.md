@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Warnung
 
+![[Warnung.jpg]]
+
 ![[Warnung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Warnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Warnung&language=de)

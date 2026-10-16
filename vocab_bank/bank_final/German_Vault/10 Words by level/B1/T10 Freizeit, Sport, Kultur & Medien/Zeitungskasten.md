@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zeitungskasten.ogg]]
 
+![[Zeitungskasten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zeitungskasten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitungskasten&language=de)
 
 **Meaning:** newspaper rack

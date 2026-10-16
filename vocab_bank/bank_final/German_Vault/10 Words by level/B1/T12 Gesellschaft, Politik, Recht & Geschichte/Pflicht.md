@@ -25,6 +25,8 @@ status: "new"
 
 ![[Pflicht.ogg]]
 
+![[Pflicht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pflicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflicht&language=de)
 
 **Meaning:** duty

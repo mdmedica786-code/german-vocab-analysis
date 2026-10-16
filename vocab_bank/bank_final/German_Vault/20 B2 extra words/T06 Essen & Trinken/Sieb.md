@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Sieb
 
+![[Sieb.jpg]]
+
 ![[Sieb.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sieb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sieb&language=de)

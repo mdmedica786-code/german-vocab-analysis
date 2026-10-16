@@ -23,6 +23,8 @@ status: "new"
 
 ![[Naturpark.ogg]]
 
+![[Naturpark.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Naturpark/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Naturpark&language=de)
 
 **Meaning:** nature park

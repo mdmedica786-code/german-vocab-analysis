@@ -24,6 +24,8 @@ status: "new"
 
 ![[Konsument.ogg]]
 
+![[Konsument.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konsument/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konsument&language=de)
 
 **Meaning:** consumer (m)

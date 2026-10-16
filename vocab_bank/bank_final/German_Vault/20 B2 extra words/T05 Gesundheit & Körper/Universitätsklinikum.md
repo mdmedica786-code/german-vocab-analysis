@@ -23,6 +23,8 @@ status: "new"
 
 ![[Universitätsklinikum.ogg]]
 
+![[Universitätsklinikum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Universit%C3%A4tsklinikum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Universit%C3%A4tsklinikum&language=de)
 
 **Meaning:** university hospital

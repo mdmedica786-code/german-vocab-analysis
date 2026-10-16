@@ -23,6 +23,8 @@ status: "new"
 
 ![[Geborgenheit.ogg]]
 
+![[Geborgenheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geborgenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geborgenheit&language=de)
 
 **Meaning:** security; feeling of safety

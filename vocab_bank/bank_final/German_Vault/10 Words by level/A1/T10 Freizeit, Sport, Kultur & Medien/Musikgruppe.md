@@ -24,6 +24,8 @@ status: "new"
 
 ![[Musikgruppe.ogg]]
 
+![[Musikgruppe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Musikgruppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikgruppe&language=de)
 
 **Meaning:** music group

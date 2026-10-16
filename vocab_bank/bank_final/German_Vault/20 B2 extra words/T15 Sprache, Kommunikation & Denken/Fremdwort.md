@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fremdwort.ogg]]
 
+![[Fremdwort.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fremdwort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fremdwort&language=de)
 
 **Meaning:** foreign word; loanword

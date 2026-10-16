@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schlüsseldienst.ogg]]
 
+![[Schlüsseldienst.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schl%C3%BCsseldienst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schl%C3%BCsseldienst&language=de)
 
 **Meaning:** locksmith service

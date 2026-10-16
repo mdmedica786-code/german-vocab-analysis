@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Dienstag
 
+![[Dienstag.jpg]]
+
 ![[Dienstag.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Dienstag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dienstag&language=de)

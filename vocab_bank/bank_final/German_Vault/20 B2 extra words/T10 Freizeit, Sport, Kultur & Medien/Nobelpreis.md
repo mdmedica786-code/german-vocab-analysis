@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Nobelpreis
 
+![[Nobelpreis.jpg]]
+
 ![[Nobelpreis.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Nobelpreis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nobelpreis&language=de)

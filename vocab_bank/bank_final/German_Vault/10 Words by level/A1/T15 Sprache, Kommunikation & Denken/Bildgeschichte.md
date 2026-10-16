@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Bildgeschichte
 
+![[Bildgeschichte.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bildgeschichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bildgeschichte&language=de)
 
 **Meaning:** picture story; comic strip

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Schirm
 
+![[Schirm.jpg]]
+
 ![[Schirm.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schirm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schirm&language=de)

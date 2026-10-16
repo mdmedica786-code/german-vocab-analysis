@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fotograf.ogg]]
 
+![[Fotograf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fotograf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fotograf&language=de)
 
 **Meaning:** photographer (m)

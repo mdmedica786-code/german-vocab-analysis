@@ -23,6 +23,8 @@ status: "new"
 
 ![[Überheblichkeit.ogg]]
 
+![[Überheblichkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberheblichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberheblichkeit&language=de)
 
 **Meaning:** arrogance; conceit

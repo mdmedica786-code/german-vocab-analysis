@@ -24,6 +24,8 @@ status: "new"
 
 ![[Olympiasiegerin.ogg]]
 
+![[Olympiasiegerin.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Olympiasiegerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Olympiasiegerin&language=de)
 
 **Meaning:** Olympic champion (f)

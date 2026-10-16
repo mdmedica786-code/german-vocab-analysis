@@ -23,6 +23,8 @@ status: "new"
 
 ![[Medienkompetenz.ogg]]
 
+![[Medienkompetenz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Medienkompetenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medienkompetenz&language=de)
 
 **Meaning:** media literacy

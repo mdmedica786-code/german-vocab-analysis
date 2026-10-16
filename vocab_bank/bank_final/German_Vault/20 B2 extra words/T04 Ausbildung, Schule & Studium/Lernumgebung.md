@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Lernumgebung
 
+![[Lernumgebung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lernumgebung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernumgebung&language=de)
 
 **Meaning:** learning environment

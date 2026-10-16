@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kreuzworträtsel.ogg]]
 
+![[Kreuzworträtsel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kreuzwortr%C3%A4tsel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kreuzwortr%C3%A4tsel&language=de)
 
 **Meaning:** crossword puzzle

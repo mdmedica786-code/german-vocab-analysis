@@ -24,6 +24,8 @@ status: "new"
 
 ![[Promi.ogg]]
 
+![[Promi.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Promi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Promi&language=de)
 
 **Meaning:** celebrity

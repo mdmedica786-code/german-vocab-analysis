@@ -23,6 +23,8 @@ status: "new"
 
 ![[Abholzung.ogg]]
 
+![[Abholzung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abholzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abholzung&language=de)
 
 **Meaning:** deforestation; felling

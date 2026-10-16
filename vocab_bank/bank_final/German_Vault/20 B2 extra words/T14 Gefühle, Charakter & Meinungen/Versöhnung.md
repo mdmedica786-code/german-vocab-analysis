@@ -23,6 +23,8 @@ status: "new"
 
 ![[Versöhnung.ogg]]
 
+![[Versöhnung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vers%C3%B6hnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vers%C3%B6hnung&language=de)
 
 **Meaning:** reconciliation

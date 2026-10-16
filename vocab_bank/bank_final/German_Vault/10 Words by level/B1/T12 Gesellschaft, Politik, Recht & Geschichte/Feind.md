@@ -24,6 +24,8 @@ status: "new"
 
 ![[Feind.ogg]]
 
+![[Feind.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Feind/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feind&language=de)
 
 **Meaning:** enemy (m)

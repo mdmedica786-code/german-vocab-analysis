@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Journalistin
 
+![[Journalistin.jpg]]
+
 ![[Journalistin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Journalistin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Journalistin&language=de)

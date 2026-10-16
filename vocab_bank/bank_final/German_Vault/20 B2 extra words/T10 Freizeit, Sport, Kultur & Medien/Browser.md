@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Browser
 
+![[Browser.png]]
+
 ![[Browser.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Browser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Browser&language=de)

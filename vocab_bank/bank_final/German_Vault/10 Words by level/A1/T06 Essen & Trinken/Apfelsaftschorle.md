@@ -24,6 +24,8 @@ status: "new"
 
 ![[Apfelsaftschorle.ogg]]
 
+![[Apfelsaftschorle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Apfelsaftschorle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Apfelsaftschorle&language=de)
 
 **Meaning:** apple juice spritzer

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Großraumbüro.ogg]]
 
+![[Großraumbüro.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gro%C3%9Fraumb%C3%BCro/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gro%C3%9Fraumb%C3%BCro&language=de)
 
 **Meaning:** open-plan office

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Architekturbüro.ogg]]
 
+![[Architekturbüro.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Architekturb%C3%BCro/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Architekturb%C3%BCro&language=de)
 
 **Meaning:** architecture firm

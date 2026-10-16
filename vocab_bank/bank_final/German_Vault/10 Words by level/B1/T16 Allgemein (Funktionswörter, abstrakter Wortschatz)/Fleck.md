@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fleck.ogg]]
 
+![[Fleck.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fleck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fleck&language=de)
 
 **Meaning:** stain; spot

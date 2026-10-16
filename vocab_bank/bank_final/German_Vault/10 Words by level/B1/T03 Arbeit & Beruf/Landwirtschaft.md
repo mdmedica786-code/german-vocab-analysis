@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Landwirtschaft
 
+![[Landwirtschaft.jpg]]
+
 ![[Landwirtschaft.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Landwirtschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Landwirtschaft&language=de)

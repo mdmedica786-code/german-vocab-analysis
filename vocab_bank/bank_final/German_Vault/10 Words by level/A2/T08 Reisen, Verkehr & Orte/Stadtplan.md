@@ -25,6 +25,8 @@ status: "new"
 
 ![[Stadtplan.ogg]]
 
+![[Stadtplan.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stadtplan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtplan&language=de)
 
 **Meaning:** city map

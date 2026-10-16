@@ -24,6 +24,8 @@ status: "new"
 
 ![[Physiotherapeutin.ogg]]
 
+![[Physiotherapeutin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Physiotherapeutin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Physiotherapeutin&language=de)
 
 **Meaning:** physical therapist (f)

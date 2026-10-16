@@ -25,6 +25,8 @@ status: "new"
 
 ![[Vortrag.ogg]]
 
+![[Vortrag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vortrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vortrag&language=de)
 
 **Meaning:** lecture

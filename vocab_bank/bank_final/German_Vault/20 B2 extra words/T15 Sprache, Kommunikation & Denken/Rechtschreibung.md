@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Rechtschreibung
 
+![[Rechtschreibung.jpg]]
+
 ![[Rechtschreibung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Rechtschreibung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechtschreibung&language=de)

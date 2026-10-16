@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hochzeitsfeier.ogg]]
 
+![[Hochzeitsfeier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hochzeitsfeier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochzeitsfeier&language=de)
 
 **Meaning:** wedding celebration

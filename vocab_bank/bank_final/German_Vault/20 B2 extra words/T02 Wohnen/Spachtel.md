@@ -23,6 +23,8 @@ status: "new"
 
 ![[Spachtel.ogg]]
 
+![[Spachtel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spachtel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spachtel&language=de)
 
 **Meaning:** putty knife; filling knife

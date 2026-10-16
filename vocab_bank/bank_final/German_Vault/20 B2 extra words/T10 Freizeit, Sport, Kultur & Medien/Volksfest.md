@@ -23,6 +23,8 @@ status: "new"
 
 ![[Volksfest.ogg]]
 
+![[Volksfest.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Volksfest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Volksfest&language=de)
 
 **Meaning:** public festival; fair

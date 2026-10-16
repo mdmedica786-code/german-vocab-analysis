@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schreibtisch.ogg]]
 
+![[Schreibtisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schreibtisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schreibtisch&language=de)
 
 **Meaning:** desk

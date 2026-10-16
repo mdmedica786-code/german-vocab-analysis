@@ -24,6 +24,8 @@ status: "new"
 
 ![[Patenschaft.ogg]]
 
+![[Patenschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Patenschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Patenschaft&language=de)
 
 **Meaning:** sponsorship, godparenthood

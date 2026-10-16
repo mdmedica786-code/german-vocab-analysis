@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Polizist
 
+![[Polizist.jpg]]
+
 ![[Polizist.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Polizist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Polizist&language=de)

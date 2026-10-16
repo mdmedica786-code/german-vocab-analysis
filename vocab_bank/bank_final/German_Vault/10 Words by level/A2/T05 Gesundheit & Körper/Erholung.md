@@ -25,6 +25,8 @@ status: "new"
 
 ![[Erholung.ogg]]
 
+![[Erholung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erholung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erholung&language=de)
 
 **Meaning:** rest

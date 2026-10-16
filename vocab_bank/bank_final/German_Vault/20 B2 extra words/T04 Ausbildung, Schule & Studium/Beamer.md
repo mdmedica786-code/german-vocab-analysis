@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Beamer
 
+![[Beamer.jpg]]
+
 ![[Beamer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Beamer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beamer&language=de)

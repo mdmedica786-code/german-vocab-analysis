@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Postfach
 
+![[Postfach.jpg]]
+
 ![[Postfach.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Postfach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Postfach&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gesundheitsbereich.ogg]]
 
+![[Gesundheitsbereich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesundheitsbereich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesundheitsbereich&language=de)
 
 **Meaning:** health sector; health field

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lebensmittelgeschäft.ogg]]
 
+![[Lebensmittelgeschäft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lebensmittelgesch%C3%A4ft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensmittelgesch%C3%A4ft&language=de)
 
 **Meaning:** grocery shop

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Znüni
 
+![[Znüni.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zn%C3%BCni/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zn%C3%BCni&language=de)
 
 **Meaning:** mid-morning snack (Swiss)

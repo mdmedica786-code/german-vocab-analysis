@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Türkei
 
+![[Türkei.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/T%C3%BCrkei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%BCrkei&language=de)
 
 **Meaning:** Turkey

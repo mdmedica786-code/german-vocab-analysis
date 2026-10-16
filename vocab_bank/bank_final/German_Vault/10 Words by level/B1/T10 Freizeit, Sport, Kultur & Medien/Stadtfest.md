@@ -24,6 +24,8 @@ status: "new"
 
 ![[Stadtfest.ogg]]
 
+![[Stadtfest.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stadtfest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtfest&language=de)
 
 **Meaning:** city festival

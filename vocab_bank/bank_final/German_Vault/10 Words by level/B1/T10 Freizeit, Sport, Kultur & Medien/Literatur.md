@@ -24,6 +24,8 @@ status: "new"
 
 ![[Literatur.ogg]]
 
+![[Literatur.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Literatur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Literatur&language=de)
 
 **Meaning:** literature

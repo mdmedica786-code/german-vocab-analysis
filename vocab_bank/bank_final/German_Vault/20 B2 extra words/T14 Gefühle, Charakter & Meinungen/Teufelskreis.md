@@ -23,6 +23,8 @@ status: "new"
 
 ![[Teufelskreis.ogg]]
 
+![[Teufelskreis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Teufelskreis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teufelskreis&language=de)
 
 **Meaning:** vicious circle

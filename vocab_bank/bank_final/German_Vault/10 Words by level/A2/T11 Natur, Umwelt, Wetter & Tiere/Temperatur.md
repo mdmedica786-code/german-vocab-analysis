@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Temperatur
 
+![[Temperatur.jpg]]
+
 ![[Temperatur.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Temperatur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Temperatur&language=de)

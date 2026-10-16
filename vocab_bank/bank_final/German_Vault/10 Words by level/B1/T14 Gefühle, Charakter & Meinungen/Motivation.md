@@ -24,6 +24,8 @@ status: "new"
 
 ![[Motivation.ogg]]
 
+![[Motivation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Motivation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Motivation&language=de)
 
 **Meaning:** motivation

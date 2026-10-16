@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Konzerthaus
 
+![[Konzerthaus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konzerthaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konzerthaus&language=de)
 
 **Meaning:** concert hall

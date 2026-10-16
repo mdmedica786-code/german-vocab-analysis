@@ -24,6 +24,8 @@ status: "new"
 
 ![[Generation.ogg]]
 
+![[Generation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Generation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Generation&language=de)
 
 **Meaning:** generation

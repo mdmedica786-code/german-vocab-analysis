@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pendler.ogg]]
 
+![[Pendler.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pendler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pendler&language=de)
 
 **Meaning:** commuter

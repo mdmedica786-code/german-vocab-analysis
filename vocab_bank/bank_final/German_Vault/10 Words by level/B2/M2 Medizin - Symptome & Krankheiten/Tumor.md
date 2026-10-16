@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tumor.ogg]]
 
+![[Tumor.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tumor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tumor&language=de)
 
 **Meaning:** tumour

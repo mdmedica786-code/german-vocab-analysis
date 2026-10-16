@@ -23,6 +23,8 @@ status: "new"
 
 ![[Misstrauen.ogg]]
 
+![[Misstrauen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Misstrauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Misstrauen&language=de)
 
 **Meaning:** distrust; suspicion

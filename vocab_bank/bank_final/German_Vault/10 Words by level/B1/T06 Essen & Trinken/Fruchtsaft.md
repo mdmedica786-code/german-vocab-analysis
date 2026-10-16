@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fruchtsaft.ogg]]
 
+![[Fruchtsaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fruchtsaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fruchtsaft&language=de)
 
 **Meaning:** fruit juice

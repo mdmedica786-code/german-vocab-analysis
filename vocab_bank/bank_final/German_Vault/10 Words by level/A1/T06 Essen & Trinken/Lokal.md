@@ -25,6 +25,8 @@ status: "new"
 
 ![[lokal.ogg]]
 
+![[Lokal.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lokal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lokal&language=de)
 
 **Meaning:** restaurant

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Algorithmus.ogg]]
 
+![[Algorithmus.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Algorithmus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Algorithmus&language=de)
 
 **Meaning:** algorithm

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Führerin.ogg]]
 
+![[Führerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/F%C3%BChrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%BChrerin&language=de)
 
 **Meaning:** guide (f); leader

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Lebensweisheit.ogg]]
 
+![[Lebensweisheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lebensweisheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensweisheit&language=de)
 
 **Meaning:** worldly wisdom

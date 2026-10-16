@@ -25,6 +25,8 @@ status: "new"
 
 ![[Stipendium.ogg]]
 
+![[Stipendium.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stipendium/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stipendium&language=de)
 
 **Meaning:** scholarship

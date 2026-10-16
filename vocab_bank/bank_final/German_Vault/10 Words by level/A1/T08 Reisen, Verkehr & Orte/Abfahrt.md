@@ -25,6 +25,8 @@ status: "new"
 
 ![[Abfahrt.ogg]]
 
+![[Abfahrt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abfahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abfahrt&language=de)
 
 **Meaning:** departure

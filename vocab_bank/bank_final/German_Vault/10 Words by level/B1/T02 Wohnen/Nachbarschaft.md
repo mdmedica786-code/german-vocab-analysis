@@ -24,6 +24,8 @@ status: "new"
 
 ![[Nachbarschaft.ogg]]
 
+![[Nachbarschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachbarschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachbarschaft&language=de)
 
 **Meaning:** neighbourhood

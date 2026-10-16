@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ozonschicht.ogg]]
 
+![[Ozonschicht.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ozonschicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ozonschicht&language=de)
 
 **Meaning:** ozone layer

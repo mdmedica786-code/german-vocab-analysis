@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Tante
 
+![[Tante.jpg]]
+
 ![[Tante.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tante/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tante&language=de)

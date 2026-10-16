@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Open-Air-Kino
 
+![[Open-Air-Kino.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Open-Air-Kino/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Open-Air-Kino&language=de)
 
 **Meaning:** open-air cinema

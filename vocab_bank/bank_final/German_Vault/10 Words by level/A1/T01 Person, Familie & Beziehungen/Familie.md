@@ -25,6 +25,8 @@ status: "new"
 
 ![[Familie.ogg]]
 
+![[Familie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Familie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Familie&language=de)
 
 **Meaning:** family

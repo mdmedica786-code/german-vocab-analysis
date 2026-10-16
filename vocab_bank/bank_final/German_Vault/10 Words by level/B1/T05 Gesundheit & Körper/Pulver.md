@@ -24,6 +24,8 @@ status: "new"
 
 ![[Pulver.ogg]]
 
+![[Pulver.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pulver/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pulver&language=de)
 
 **Meaning:** powder

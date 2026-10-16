@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verzweiflung.ogg]]
 
+![[Verzweiflung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verzweiflung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verzweiflung&language=de)
 
 **Meaning:** despair

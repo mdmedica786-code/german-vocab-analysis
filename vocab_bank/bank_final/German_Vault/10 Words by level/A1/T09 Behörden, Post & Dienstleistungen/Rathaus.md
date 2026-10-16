@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Rathaus
 
+![[Rathaus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rathaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rathaus&language=de)
 
 **Meaning:** town hall

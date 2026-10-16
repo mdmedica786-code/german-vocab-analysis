@@ -23,6 +23,8 @@ status: "new"
 
 ![[Begrünung.ogg]]
 
+![[Begrünung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Begr%C3%BCnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Begr%C3%BCnung&language=de)
 
 **Meaning:** greening; planting vegetation

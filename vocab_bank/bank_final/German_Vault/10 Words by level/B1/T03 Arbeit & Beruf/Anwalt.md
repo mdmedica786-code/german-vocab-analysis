@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Anwalt
 
+![[Anwalt.jpg]]
+
 ![[Anwalt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Anwalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anwalt&language=de)

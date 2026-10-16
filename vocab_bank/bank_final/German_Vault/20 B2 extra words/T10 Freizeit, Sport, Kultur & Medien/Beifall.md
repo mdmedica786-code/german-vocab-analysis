@@ -23,6 +23,8 @@ status: "new"
 
 ![[Beifall.ogg]]
 
+![[Beifall.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beifall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beifall&language=de)
 
 **Meaning:** applause

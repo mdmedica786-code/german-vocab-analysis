@@ -25,6 +25,8 @@ status: "new"
 
 ![[Schutz.ogg]]
 
+![[Schutz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schutz&language=de)
 
 **Meaning:** protection

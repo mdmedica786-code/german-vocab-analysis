@@ -23,6 +23,8 @@ status: "new"
 
 ![[Problematik.ogg]]
 
+![[Problematik.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Problematik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Problematik&language=de)
 
 **Meaning:** problem; set of issues

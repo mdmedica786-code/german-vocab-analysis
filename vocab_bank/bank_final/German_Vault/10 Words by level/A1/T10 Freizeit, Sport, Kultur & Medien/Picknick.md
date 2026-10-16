@@ -25,6 +25,8 @@ status: "new"
 
 ![[Picknick.ogg]]
 
+![[Picknick.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Picknick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Picknick&language=de)
 
 **Meaning:** picnic

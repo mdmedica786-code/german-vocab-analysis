@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Kino
 
+![[Kino.jpg]]
+
 ![[Kino.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kino/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kino&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Herausgeber.ogg]]
 
+![[Herausgeber.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Herausgeber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herausgeber&language=de)
 
 **Meaning:** publisher; editor

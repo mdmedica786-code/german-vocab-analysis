@@ -24,6 +24,8 @@ status: "new"
 
 ![[Laborant.ogg]]
 
+![[Laborant.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Laborant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laborant&language=de)
 
 **Meaning:** lab assistant (m)

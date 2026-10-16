@@ -23,6 +23,8 @@ status: "new"
 
 ![[Walnuss.ogg]]
 
+![[Walnuss.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Walnuss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Walnuss&language=de)
 
 **Meaning:** walnut

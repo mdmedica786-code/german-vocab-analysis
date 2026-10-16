@@ -24,6 +24,8 @@ status: "new"
 
 ![[Nachwuchs.ogg]]
 
+![[Nachwuchs.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachwuchs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachwuchs&language=de)
 
 **Meaning:** offspring; young talent

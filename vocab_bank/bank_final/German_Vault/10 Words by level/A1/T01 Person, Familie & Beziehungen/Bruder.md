@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Bruder
 
+![[Bruder.jpg]]
+
 ![[Bruder.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bruder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bruder&language=de)

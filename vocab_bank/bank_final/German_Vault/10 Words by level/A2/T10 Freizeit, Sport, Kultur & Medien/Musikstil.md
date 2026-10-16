@@ -24,6 +24,8 @@ status: "new"
 
 ![[Musikstil.ogg]]
 
+![[Musikstil.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Musikstil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikstil&language=de)
 
 **Meaning:** music genre

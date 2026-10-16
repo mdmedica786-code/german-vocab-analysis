@@ -21,6 +21,8 @@ status: "new"
 
 ![[Süßes.ogg]]
 
+![[Süßes.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/S%C3%BC%C3%9Fes/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%BC%C3%9Fes&language=de)
 
 **Meaning:** sweet

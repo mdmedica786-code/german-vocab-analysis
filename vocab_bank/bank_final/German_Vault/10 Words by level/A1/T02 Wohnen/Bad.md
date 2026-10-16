@@ -25,6 +25,8 @@ status: "new"
 
 ![[Bad.ogg]]
 
+![[Bad.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bad&language=de)
 
 **Meaning:** bathroom; bath

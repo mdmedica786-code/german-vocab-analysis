@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Hausaufgabe
 
+![[Hausaufgabe.jpg]]
+
 ![[Hausaufgabe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hausaufgabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausaufgabe&language=de)

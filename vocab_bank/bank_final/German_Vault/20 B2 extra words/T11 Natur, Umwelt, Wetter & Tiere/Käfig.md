@@ -23,6 +23,8 @@ status: "new"
 
 ![[Käfig.ogg]]
 
+![[Käfig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4fig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4fig&language=de)
 
 **Meaning:** cage

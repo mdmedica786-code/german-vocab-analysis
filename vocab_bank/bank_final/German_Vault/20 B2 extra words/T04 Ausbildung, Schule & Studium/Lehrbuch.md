@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lehrbuch.ogg]]
 
+![[Lehrbuch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lehrbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lehrbuch&language=de)
 
 **Meaning:** textbook

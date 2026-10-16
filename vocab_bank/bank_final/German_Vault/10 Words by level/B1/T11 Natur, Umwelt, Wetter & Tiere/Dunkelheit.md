@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Dunkelheit
 
+![[Dunkelheit.jpg]]
+
 ![[Dunkelheit.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Dunkelheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dunkelheit&language=de)

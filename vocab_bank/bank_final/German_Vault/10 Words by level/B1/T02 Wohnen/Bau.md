@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Bau
 
+![[Bau.jpg]]
+
 ![[Bau.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bau&language=de)

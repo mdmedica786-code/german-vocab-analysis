@@ -23,6 +23,8 @@ status: "new"
 
 ![[Aggression.ogg]]
 
+![[Aggression.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aggression/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aggression&language=de)
 
 **Meaning:** aggression

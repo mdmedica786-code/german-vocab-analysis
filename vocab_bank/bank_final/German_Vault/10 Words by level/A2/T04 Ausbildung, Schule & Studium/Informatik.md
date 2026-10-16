@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Informatik
 
+![[Informatik.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Informatik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Informatik&language=de)
 
 **Meaning:** computer science

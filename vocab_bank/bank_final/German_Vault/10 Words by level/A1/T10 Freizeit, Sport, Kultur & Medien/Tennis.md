@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Tennis
 
+![[Tennis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tennis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tennis&language=de)
 
 **Meaning:** tennis

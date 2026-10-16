@@ -23,6 +23,8 @@ status: "new"
 
 ![[Argumentation.ogg]]
 
+![[Argumentation.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Argumentation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Argumentation&language=de)
 
 **Meaning:** line of argument; argumentation

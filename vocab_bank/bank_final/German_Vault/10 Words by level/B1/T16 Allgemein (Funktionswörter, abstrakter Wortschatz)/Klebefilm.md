@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Klebefilm
 
+![[Klebefilm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Klebefilm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klebefilm&language=de)
 
 **Meaning:** adhesive tape

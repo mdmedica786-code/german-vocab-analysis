@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lebensunterhalt.ogg]]
 
+![[Lebensunterhalt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lebensunterhalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensunterhalt&language=de)
 
 **Meaning:** livelihood; living expenses

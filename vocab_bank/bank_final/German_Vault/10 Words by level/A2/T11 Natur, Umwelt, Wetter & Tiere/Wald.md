@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Wald
 
+![[Wald.jpg]]
+
 ![[Wald.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wald/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wald&language=de)

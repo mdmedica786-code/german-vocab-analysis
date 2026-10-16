@@ -23,6 +23,8 @@ status: "new"
 
 ![[Straftat.ogg]]
 
+![[Straftat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Straftat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Straftat&language=de)
 
 **Meaning:** criminal offence

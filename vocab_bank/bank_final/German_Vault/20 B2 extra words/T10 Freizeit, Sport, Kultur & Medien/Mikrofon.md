@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mikrofon.ogg]]
 
+![[Mikrofon.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mikrofon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mikrofon&language=de)
 
 **Meaning:** microphone

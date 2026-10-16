@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Zimmer
 
+![[Zimmer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zimmer&language=de)
 
 **Meaning:** room

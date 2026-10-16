@@ -25,6 +25,8 @@ status: "new"
 
 ![[Boden.ogg]]
 
+![[Boden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Boden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Boden&language=de)
 
 **Meaning:** floor

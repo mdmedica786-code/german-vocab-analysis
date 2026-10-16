@@ -25,6 +25,8 @@ status: "new"
 
 ![[Statistik.ogg]]
 
+![[Statistik.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Statistik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Statistik&language=de)
 
 **Meaning:** statistics

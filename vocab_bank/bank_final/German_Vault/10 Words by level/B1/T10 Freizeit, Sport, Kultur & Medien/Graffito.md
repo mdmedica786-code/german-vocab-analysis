@@ -24,6 +24,8 @@ status: "new"
 
 ![[Graffito.ogg]]
 
+![[Graffito.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Graffito/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Graffito&language=de)
 
 **Meaning:** graffito (single graffiti)

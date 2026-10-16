@@ -24,6 +24,8 @@ status: "new"
 
 ![[Nachtisch.ogg]]
 
+![[Nachtisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachtisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachtisch&language=de)
 
 **Meaning:** dessert

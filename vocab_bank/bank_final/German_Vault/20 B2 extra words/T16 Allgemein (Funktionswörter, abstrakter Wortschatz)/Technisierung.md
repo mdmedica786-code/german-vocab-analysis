@@ -23,6 +23,8 @@ status: "new"
 
 ![[Technisierung.ogg]]
 
+![[Technisierung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Technisierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Technisierung&language=de)
 
 **Meaning:** mechanisation; increasing use of technology

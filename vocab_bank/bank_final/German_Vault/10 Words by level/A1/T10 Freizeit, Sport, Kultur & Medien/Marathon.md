@@ -24,6 +24,8 @@ status: "new"
 
 ![[Marathon.ogg]]
 
+![[Marathon.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Marathon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marathon&language=de)
 
 **Meaning:** marathon

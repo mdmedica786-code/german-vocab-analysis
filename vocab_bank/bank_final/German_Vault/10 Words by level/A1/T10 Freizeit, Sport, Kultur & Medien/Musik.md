@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Musik
 
+![[Musik.jpg]]
+
 ![[Musik.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Musik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musik&language=de)

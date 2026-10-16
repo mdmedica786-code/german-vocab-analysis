@@ -23,6 +23,8 @@ status: "new"
 
 ![[Vollkornbrot.ogg]]
 
+![[Vollkornbrot.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vollkornbrot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vollkornbrot&language=de)
 
 **Meaning:** wholemeal bread

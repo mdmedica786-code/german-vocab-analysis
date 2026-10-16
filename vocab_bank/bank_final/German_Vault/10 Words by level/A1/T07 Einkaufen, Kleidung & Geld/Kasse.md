@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kasse.ogg]]
 
+![[Kasse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kasse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kasse&language=de)
 
 **Meaning:** cashier

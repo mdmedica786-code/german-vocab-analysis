@@ -25,6 +25,8 @@ status: "new"
 
 ![[Ausflug.ogg]]
 
+![[Ausflug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ausflug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausflug&language=de)
 
 **Meaning:** excursion

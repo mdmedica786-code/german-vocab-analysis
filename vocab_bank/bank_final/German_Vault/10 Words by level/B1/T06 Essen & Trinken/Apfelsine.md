@@ -24,6 +24,8 @@ status: "new"
 
 ![[Apfelsine.ogg]]
 
+![[Apfelsine.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Apfelsine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Apfelsine&language=de)
 
 **Meaning:** orange

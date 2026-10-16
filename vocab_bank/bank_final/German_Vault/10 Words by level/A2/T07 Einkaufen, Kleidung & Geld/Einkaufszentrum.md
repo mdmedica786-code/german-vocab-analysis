@@ -25,6 +25,8 @@ status: "new"
 
 ![[Einkaufszentrum.ogg]]
 
+![[Einkaufszentrum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einkaufszentrum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einkaufszentrum&language=de)
 
 **Meaning:** shopping centre

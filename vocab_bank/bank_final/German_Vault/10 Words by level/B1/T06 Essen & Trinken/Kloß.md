@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kloß.ogg]]
 
+![[Kloß.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Klo%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klo%C3%9F&language=de)
 
 **Meaning:** dumpling

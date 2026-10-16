@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gottesdienst.ogg]]
 
+![[Gottesdienst.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gottesdienst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gottesdienst&language=de)
 
 **Meaning:** church service; worship

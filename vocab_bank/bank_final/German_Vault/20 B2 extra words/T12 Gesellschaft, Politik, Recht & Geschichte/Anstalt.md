@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Anstalt
 
+![[Anstalt.png]]
+
 ![[Anstalt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Anstalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anstalt&language=de)

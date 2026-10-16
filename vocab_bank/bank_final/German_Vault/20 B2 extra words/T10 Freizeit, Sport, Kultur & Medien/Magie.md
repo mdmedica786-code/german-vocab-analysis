@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Magie
 
+![[Magie.jpg]]
+
 ![[Magie.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Magie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Magie&language=de)

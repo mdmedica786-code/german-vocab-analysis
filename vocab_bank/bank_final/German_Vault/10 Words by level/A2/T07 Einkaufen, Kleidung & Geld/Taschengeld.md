@@ -24,6 +24,8 @@ status: "new"
 
 ![[Taschengeld.ogg]]
 
+![[Taschengeld.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Taschengeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taschengeld&language=de)
 
 **Meaning:** pocket money

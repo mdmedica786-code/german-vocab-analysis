@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Akademie
 
+![[Akademie.jpg]]
+
 ![[Akademie.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Akademie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Akademie&language=de)

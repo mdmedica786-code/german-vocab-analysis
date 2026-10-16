@@ -23,6 +23,8 @@ status: "new"
 
 ![[Artensterben.ogg]]
 
+![[Artensterben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Artensterben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Artensterben&language=de)
 
 **Meaning:** species extinction

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Werbung.ogg]]
 
+![[Werbung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Werbung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werbung&language=de)
 
 **Meaning:** advertisement

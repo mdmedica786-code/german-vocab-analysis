@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Schuh
 
+![[Schuh.jpg]]
+
 ![[Schuh.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schuh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schuh&language=de)

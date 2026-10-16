@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Staubsauger
 
+![[Staubsauger.jpg]]
+
 ![[Staubsauger.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Staubsauger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Staubsauger&language=de)

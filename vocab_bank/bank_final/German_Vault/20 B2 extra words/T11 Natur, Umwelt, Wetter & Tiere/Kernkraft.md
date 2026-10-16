@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kernkraft.ogg]]
 
+![[Kernkraft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kernkraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kernkraft&language=de)
 
 **Meaning:** nuclear power

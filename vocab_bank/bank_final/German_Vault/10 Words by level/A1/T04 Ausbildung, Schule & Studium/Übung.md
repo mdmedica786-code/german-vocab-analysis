@@ -25,6 +25,8 @@ status: "new"
 
 ![[Übung.ogg]]
 
+![[Übung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbung&language=de)
 
 **Meaning:** exercise

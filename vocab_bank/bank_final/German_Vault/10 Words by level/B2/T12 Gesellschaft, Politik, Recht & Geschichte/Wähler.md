@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wähler.ogg]]
 
+![[Wähler.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/W%C3%A4hler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%A4hler&language=de)
 
 **Meaning:** voter

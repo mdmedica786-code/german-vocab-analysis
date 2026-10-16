@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Bio-Siegel
 
+![[Bio-Siegel.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bio-Siegel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bio-Siegel&language=de)
 
 **Meaning:** organic label

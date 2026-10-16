@@ -23,6 +23,8 @@ status: "new"
 
 ![[Leichtsinn.ogg]]
 
+![[Leichtsinn.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Leichtsinn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leichtsinn&language=de)
 
 **Meaning:** recklessness; carelessness

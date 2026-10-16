@@ -24,6 +24,8 @@ status: "new"
 
 ![[Malerei.ogg]]
 
+![[Malerei.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Malerei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Malerei&language=de)
 
 **Meaning:** painting

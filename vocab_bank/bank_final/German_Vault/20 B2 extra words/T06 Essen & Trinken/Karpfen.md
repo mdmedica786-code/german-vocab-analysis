@@ -23,6 +23,8 @@ status: "new"
 
 ![[Karpfen.ogg]]
 
+![[Karpfen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Karpfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Karpfen&language=de)
 
 **Meaning:** carp

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Studierende.ogg]]
 
+![[Studierende.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Studierende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Studierende&language=de)
 
 **Meaning:** student

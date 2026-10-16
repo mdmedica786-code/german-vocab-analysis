@@ -25,6 +25,8 @@ status: "new"
 
 ![[Referat.ogg]]
 
+![[Referat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Referat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Referat&language=de)
 
 **Meaning:** presentation

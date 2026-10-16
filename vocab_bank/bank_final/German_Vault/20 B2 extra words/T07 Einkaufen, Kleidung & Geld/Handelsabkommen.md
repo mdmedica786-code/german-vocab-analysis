@@ -23,6 +23,8 @@ status: "new"
 
 ![[Handelsabkommen.ogg]]
 
+![[Handelsabkommen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Handelsabkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handelsabkommen&language=de)
 
 **Meaning:** trade agreement

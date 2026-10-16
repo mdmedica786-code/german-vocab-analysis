@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pädagogik.ogg]]
 
+![[Pädagogik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/P%C3%A4dagogik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=P%C3%A4dagogik&language=de)
 
 **Meaning:** education; pedagogy

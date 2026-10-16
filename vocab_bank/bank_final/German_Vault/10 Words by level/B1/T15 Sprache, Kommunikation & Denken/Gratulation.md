@@ -24,6 +24,8 @@ status: "new"
 
 ![[Gratulation.ogg]]
 
+![[Gratulation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gratulation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gratulation&language=de)
 
 **Meaning:** congratulations

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Schein.ogg]]
 
+![[Schein.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schein&language=de)
 
 **Meaning:** banknote; certificate

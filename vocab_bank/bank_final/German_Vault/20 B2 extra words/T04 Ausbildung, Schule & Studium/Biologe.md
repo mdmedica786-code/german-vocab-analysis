@@ -23,6 +23,8 @@ status: "new"
 
 ![[Biologe.ogg]]
 
+![[Biologe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Biologe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biologe&language=de)
 
 **Meaning:** biologist (male)

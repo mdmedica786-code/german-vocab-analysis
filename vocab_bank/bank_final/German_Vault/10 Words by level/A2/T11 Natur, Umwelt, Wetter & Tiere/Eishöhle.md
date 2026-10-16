@@ -24,6 +24,8 @@ status: "new"
 
 ![[Eishöhle.ogg]]
 
+![[Eishöhle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Eish%C3%B6hle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eish%C3%B6hle&language=de)
 
 **Meaning:** ice cave

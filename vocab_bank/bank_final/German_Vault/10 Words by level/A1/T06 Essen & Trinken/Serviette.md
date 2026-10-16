@@ -24,6 +24,8 @@ status: "new"
 
 ![[Serviette.ogg]]
 
+![[Serviette.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Serviette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Serviette&language=de)
 
 **Meaning:** napkin

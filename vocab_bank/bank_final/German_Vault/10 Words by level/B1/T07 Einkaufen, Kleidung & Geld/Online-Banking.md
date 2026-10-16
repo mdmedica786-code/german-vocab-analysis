@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Online-Banking
 
+![[Online-Banking.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Online-Banking/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Online-Banking&language=de)
 
 **Meaning:** online banking

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Wiese
 
+![[Wiese.jpg]]
+
 ![[Wiese.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wiese/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wiese&language=de)

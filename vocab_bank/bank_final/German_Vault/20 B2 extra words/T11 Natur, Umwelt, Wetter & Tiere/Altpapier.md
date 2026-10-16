@@ -23,6 +23,8 @@ status: "new"
 
 ![[Altpapier.ogg]]
 
+![[Altpapier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Altpapier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altpapier&language=de)
 
 **Meaning:** waste paper

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Bürste.ogg]]
 
+![[Bürste.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCrste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCrste&language=de)
 
 **Meaning:** brush

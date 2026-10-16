@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wohnanlage.ogg]]
 
+![[Wohnanlage.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wohnanlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnanlage&language=de)
 
 **Meaning:** residential complex

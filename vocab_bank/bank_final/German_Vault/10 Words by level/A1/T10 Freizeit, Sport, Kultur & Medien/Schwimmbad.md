@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Schwimmbad
 
+![[Schwimmbad.jpg]]
+
 ![[Schwimmbad.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schwimmbad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwimmbad&language=de)

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Tierärztin
 
+![[Tierärztin.png]]
+
 ![[Tierärztin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tier%C3%A4rztin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tier%C3%A4rztin&language=de)

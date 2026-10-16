@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zivilisation.ogg]]
 
+![[Zivilisation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zivilisation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zivilisation&language=de)
 
 **Meaning:** civilisation

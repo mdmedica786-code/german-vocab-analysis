@@ -25,6 +25,8 @@ status: "new"
 
 ![[Forderung.ogg]]
 
+![[Forderung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Forderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forderung&language=de)
 
 **Meaning:** demand

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Bauch
 
+![[Bauch.png]]
+
 ![[Bauch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bauch&language=de)

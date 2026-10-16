@@ -25,6 +25,8 @@ status: "new"
 
 ![[Experte.ogg]]
 
+![[Experte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Experte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Experte&language=de)
 
 **Meaning:** expert (m)

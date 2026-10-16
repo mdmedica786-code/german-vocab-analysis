@@ -23,6 +23,8 @@ status: "new"
 
 ![[Katzenklo.ogg]]
 
+![[Katzenklo.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Katzenklo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Katzenklo&language=de)
 
 **Meaning:** cat litter tray; cat toilet

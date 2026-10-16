@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fest.ogg]]
 
+![[Fest.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fest&language=de)
 
 **Meaning:** festival

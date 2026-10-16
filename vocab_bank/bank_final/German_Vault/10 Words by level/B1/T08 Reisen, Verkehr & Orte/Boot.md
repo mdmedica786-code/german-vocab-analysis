@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Boot
 
+![[Boot.jpg]]
+
 ![[Boot.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Boot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Boot&language=de)

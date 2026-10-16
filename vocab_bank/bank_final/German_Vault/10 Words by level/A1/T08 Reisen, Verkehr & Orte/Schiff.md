@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Schiff
 
+![[Schiff.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schiff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schiff&language=de)
 
 **Meaning:** ship

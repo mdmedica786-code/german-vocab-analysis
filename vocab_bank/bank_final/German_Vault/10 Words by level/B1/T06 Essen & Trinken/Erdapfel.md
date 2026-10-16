@@ -26,6 +26,8 @@ status: "new"
 
 ![[Erdapfel.ogg]]
 
+![[Erdapfel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erdapfel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erdapfel&language=de)
 
 **Meaning:** potato (Austrian)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Aufschnitt.ogg]]
 
+![[Aufschnitt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aufschnitt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufschnitt&language=de)
 
 **Meaning:** sliced cold meats and cheese

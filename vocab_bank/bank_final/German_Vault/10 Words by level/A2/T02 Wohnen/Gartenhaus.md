@@ -24,6 +24,8 @@ status: "new"
 
 ![[Gartenhaus.ogg]]
 
+![[Gartenhaus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gartenhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gartenhaus&language=de)
 
 **Meaning:** summer house

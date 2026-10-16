@@ -25,6 +25,8 @@ status: "new"
 
 ![[Löffel.ogg]]
 
+![[Löffel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/L%C3%B6ffel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%B6ffel&language=de)
 
 **Meaning:** spoon

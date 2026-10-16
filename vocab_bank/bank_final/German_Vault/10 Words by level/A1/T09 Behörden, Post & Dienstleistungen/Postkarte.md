@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Postkarte
 
+![[Postkarte.jpg]]
+
 ![[Postkarte.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Postkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Postkarte&language=de)

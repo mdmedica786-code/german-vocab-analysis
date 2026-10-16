@@ -23,6 +23,8 @@ status: "new"
 
 ![[Einwegplastik.ogg]]
 
+![[Einwegplastik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einwegplastik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einwegplastik&language=de)
 
 **Meaning:** single-use plastic

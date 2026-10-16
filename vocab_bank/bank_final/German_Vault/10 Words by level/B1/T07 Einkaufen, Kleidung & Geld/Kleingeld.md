@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kleingeld.ogg]]
 
+![[Kleingeld.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kleingeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleingeld&language=de)
 
 **Meaning:** small change

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Handschuh
 
+![[Handschuh.jpg]]
+
 ![[Handschuh.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Handschuh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handschuh&language=de)

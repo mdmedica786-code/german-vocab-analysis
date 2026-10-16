@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tal.ogg]]
 
+![[Tal.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tal&language=de)
 
 **Meaning:** valley

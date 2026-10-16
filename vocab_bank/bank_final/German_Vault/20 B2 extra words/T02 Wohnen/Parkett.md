@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Parkett
 
+![[Parkett.jpg]]
+
 ![[Parkett.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Parkett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parkett&language=de)

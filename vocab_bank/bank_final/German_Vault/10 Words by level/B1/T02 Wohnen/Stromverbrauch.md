@@ -24,6 +24,8 @@ status: "new"
 
 ![[Stromverbrauch.ogg]]
 
+![[Stromverbrauch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stromverbrauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stromverbrauch&language=de)
 
 **Meaning:** electricity consumption

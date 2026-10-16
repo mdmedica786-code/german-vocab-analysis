@@ -24,6 +24,8 @@ status: "new"
 
 ![[Charts.ogg]]
 
+![[Charts.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Charts/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Charts&language=de)
 
 **Meaning:** charts

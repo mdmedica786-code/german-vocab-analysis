@@ -24,6 +24,8 @@ status: "new"
 
 ![[Radtour.ogg]]
 
+![[Radtour.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Radtour/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radtour&language=de)
 
 **Meaning:** bike ride

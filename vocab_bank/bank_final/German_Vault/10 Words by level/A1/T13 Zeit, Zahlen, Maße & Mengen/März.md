@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der März
 
+![[März.jpg]]
+
 ![[März.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%A4rz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%A4rz&language=de)

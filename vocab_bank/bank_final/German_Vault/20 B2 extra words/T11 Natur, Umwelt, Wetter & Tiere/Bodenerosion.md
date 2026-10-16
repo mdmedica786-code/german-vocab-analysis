@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bodenerosion.ogg]]
 
+![[Bodenerosion.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bodenerosion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bodenerosion&language=de)
 
 **Meaning:** soil erosion

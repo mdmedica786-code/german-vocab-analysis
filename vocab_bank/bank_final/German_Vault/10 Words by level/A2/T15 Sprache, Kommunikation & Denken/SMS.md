@@ -24,6 +24,8 @@ status: "new"
 
 ![[SMS.ogg]]
 
+![[SMS.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/SMS/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=SMS&language=de)
 
 **Meaning:** text message

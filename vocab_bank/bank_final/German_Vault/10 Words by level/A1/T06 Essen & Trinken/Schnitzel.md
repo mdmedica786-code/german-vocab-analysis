@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Schnitzel
 
+![[Schnitzel.jpg]]
+
 ![[Schnitzel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schnitzel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schnitzel&language=de)

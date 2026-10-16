@@ -25,6 +25,8 @@ status: "new"
 
 ![[Apartment.ogg]]
 
+![[Apartment.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Apartment/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Apartment&language=de)
 
 **Meaning:** apartment

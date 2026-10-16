@@ -25,6 +25,8 @@ status: "new"
 
 ![[Führung.ogg]]
 
+![[Führung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/F%C3%BChrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%BChrung&language=de)
 
 **Meaning:** guided tour

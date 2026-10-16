@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Märchenschloss
 
+![[Märchenschloss.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%A4rchenschloss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%A4rchenschloss&language=de)
 
 **Meaning:** fairytale castle

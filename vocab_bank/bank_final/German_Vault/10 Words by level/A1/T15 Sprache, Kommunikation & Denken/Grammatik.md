@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Grammatik
 
+![[Grammatik.jpg]]
+
 ![[Grammatik.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Grammatik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grammatik&language=de)

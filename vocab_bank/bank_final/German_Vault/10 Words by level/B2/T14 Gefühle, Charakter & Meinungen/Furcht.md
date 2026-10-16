@@ -23,6 +23,8 @@ status: "new"
 
 ![[Furcht.ogg]]
 
+![[Furcht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Furcht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Furcht&language=de)
 
 **Meaning:** fear

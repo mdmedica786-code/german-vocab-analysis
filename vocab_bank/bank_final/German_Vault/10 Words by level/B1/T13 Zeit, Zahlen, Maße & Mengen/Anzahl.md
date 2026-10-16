@@ -24,6 +24,8 @@ status: "new"
 
 ![[Anzahl.ogg]]
 
+![[Anzahl.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anzahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anzahl&language=de)
 
 **Meaning:** number; quantity

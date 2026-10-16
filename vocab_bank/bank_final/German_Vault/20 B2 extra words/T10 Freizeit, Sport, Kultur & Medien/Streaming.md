@@ -23,6 +23,8 @@ status: "new"
 
 ![[Streaming.ogg]]
 
+![[Streaming.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Streaming/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Streaming&language=de)
 
 **Meaning:** streaming

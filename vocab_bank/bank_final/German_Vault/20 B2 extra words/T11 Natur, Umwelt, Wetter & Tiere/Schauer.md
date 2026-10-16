@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schauer.ogg]]
 
+![[Schauer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schauer&language=de)
 
 **Meaning:** shower; shudder

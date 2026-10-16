@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Mathe
 
+![[Mathe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mathe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mathe&language=de)
 
 **Meaning:** math

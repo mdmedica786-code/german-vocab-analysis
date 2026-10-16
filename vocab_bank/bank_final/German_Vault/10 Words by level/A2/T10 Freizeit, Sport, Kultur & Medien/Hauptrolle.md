@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hauptrolle.ogg]]
 
+![[Hauptrolle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hauptrolle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptrolle&language=de)
 
 **Meaning:** lead role

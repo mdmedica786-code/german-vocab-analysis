@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Handwerkerin
 
+![[Handwerkerin.jpg]]
+
 ![[Handwerkerin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Handwerkerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handwerkerin&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Korrektur.ogg]]
 
+![[Korrektur.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Korrektur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Korrektur&language=de)
 
 **Meaning:** correction

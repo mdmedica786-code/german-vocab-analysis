@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Hoffnung
 
+![[Hoffnung.jpg]]
+
 ![[Hoffnung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hoffnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hoffnung&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Metallverarbeitung.ogg]]
 
+![[Metallverarbeitung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Metallverarbeitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Metallverarbeitung&language=de)
 
 **Meaning:** metalworking; metal processing

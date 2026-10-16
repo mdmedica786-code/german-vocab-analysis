@@ -24,6 +24,8 @@ status: "new"
 
 ![[Verlag.ogg]]
 
+![[Verlag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verlag&language=de)
 
 **Meaning:** publisher; publishing house

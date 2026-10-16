@@ -25,6 +25,8 @@ status: "new"
 
 ![[Meter.ogg]]
 
+![[Meter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Meter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meter&language=de)
 
 **Meaning:** metre

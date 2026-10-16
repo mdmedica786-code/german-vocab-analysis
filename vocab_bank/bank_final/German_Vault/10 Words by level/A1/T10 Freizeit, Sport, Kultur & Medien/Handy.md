@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Handy
 
+![[Handy.jpg]]
+
 ![[Handy.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Handy/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handy&language=de)

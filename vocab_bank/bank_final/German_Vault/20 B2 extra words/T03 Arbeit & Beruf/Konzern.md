@@ -23,6 +23,8 @@ status: "new"
 
 ![[Konzern.ogg]]
 
+![[Konzern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konzern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konzern&language=de)
 
 **Meaning:** corporation; group

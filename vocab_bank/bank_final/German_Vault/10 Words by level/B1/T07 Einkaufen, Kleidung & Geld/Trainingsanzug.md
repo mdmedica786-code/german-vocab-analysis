@@ -24,6 +24,8 @@ status: "new"
 
 ![[Trainingsanzug.ogg]]
 
+![[Trainingsanzug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Trainingsanzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trainingsanzug&language=de)
 
 **Meaning:** tracksuit

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Doktorandin.ogg]]
 
+![[Doktorandin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Doktorandin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Doktorandin&language=de)
 
 **Meaning:** PhD student (f)

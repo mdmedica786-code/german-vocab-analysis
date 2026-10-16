@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bedauern.ogg]]
 
+![[Bedauern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bedauern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bedauern&language=de)
 
 **Meaning:** regret

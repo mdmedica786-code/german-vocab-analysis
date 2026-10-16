@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tasse.ogg]]
 
+![[Tasse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tasse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tasse&language=de)
 
 **Meaning:** cup

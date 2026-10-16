@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wahlkampf.ogg]]
 
+![[Wahlkampf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wahlkampf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahlkampf&language=de)
 
 **Meaning:** election campaign

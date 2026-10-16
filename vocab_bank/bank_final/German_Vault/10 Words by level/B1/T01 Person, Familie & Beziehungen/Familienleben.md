@@ -24,6 +24,8 @@ status: "new"
 
 ![[Familienleben.ogg]]
 
+![[Familienleben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Familienleben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Familienleben&language=de)
 
 **Meaning:** family life

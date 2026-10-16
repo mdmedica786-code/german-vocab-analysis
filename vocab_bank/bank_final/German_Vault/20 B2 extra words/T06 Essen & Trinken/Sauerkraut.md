@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sauerkraut.ogg]]
 
+![[Sauerkraut.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sauerkraut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sauerkraut&language=de)
 
 **Meaning:** sauerkraut; pickled cabbage

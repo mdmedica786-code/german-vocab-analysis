@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Höhe
 
+![[Höhe.png]]
+
 ![[Höhe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6he/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6he&language=de)

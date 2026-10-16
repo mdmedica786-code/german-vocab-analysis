@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kostüm.ogg]]
 
+![[Kostüm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kost%C3%BCm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kost%C3%BCm&language=de)
 
 **Meaning:** costume

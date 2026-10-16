@@ -23,6 +23,8 @@ status: "new"
 
 ![[Handgelenk.ogg]]
 
+![[Handgelenk.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Handgelenk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handgelenk&language=de)
 
 **Meaning:** wrist

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Geografie
 
+![[Geografie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geografie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geografie&language=de)
 
 **Meaning:** geography

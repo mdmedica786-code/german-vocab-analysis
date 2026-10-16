@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Finnland
 
+![[Finnland.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Finnland/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Finnland&language=de)
 
 **Meaning:** Finland

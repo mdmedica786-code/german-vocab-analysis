@@ -24,6 +24,8 @@ status: "new"
 
 ![[Paddel.ogg]]
 
+![[Paddel.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Paddel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Paddel&language=de)
 
 **Meaning:** paddle

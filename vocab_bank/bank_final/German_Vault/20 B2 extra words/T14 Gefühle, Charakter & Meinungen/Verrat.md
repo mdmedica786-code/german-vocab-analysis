@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verrat.ogg]]
 
+![[Verrat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verrat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verrat&language=de)
 
 **Meaning:** betrayal; treason

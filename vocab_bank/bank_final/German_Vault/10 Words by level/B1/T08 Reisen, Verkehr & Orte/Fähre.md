@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fähre.ogg]]
 
+![[Fähre.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/F%C3%A4hre/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%A4hre&language=de)
 
 **Meaning:** ferry

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Ente
 
+![[Ente.jpg]]
+
 ![[Ente.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Ente/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ente&language=de)

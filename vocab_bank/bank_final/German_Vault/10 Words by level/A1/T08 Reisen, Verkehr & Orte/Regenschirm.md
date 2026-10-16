@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Regenschirm
 
+![[Regenschirm.jpg]]
+
 ![[Regenschirm.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Regenschirm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regenschirm&language=de)

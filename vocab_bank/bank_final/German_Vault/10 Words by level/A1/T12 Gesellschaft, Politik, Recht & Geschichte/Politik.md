@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Politik
 
+![[Politik.jpg]]
+
 ![[Politik.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Politik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Politik&language=de)

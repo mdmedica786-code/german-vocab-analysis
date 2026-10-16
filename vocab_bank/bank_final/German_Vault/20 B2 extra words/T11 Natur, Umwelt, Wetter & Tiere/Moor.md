@@ -23,6 +23,8 @@ status: "new"
 
 ![[Moor.ogg]]
 
+![[Moor.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Moor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Moor&language=de)
 
 **Meaning:** bog; moor

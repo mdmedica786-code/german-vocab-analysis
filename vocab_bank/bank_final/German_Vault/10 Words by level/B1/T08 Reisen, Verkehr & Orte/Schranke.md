@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schranke.ogg]]
 
+![[Schranke.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schranke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schranke&language=de)
 
 **Meaning:** barrier

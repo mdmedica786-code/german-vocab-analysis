@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kundenkarte.ogg]]
 
+![[Kundenkarte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kundenkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kundenkarte&language=de)
 
 **Meaning:** loyalty card; customer card

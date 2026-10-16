@@ -25,6 +25,8 @@ status: "new"
 
 ![[Westen.ogg]]
 
+![[Westen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Westen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Westen&language=de)
 
 **Meaning:** West

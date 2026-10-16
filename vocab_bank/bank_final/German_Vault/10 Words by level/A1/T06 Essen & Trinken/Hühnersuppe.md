@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hühnersuppe.ogg]]
 
+![[Hühnersuppe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%BChnersuppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%BChnersuppe&language=de)
 
 **Meaning:** chicken soup

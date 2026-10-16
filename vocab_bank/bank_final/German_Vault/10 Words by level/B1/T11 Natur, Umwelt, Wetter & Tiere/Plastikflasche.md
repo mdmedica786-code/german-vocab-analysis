@@ -24,6 +24,8 @@ status: "new"
 
 ![[Plastikflasche.ogg]]
 
+![[Plastikflasche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Plastikflasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Plastikflasche&language=de)
 
 **Meaning:** plastic bottle

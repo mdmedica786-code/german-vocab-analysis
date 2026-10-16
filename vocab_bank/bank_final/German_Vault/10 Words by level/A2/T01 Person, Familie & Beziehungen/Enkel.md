@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Enkel
 
+![[Enkel.jpg]]
+
 ![[Enkel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Enkel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Enkel&language=de)

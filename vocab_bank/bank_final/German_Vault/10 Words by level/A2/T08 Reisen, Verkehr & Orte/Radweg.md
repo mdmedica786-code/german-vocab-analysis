@@ -24,6 +24,8 @@ status: "new"
 
 ![[Radweg.ogg]]
 
+![[Radweg.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Radweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radweg&language=de)
 
 **Meaning:** cycle path

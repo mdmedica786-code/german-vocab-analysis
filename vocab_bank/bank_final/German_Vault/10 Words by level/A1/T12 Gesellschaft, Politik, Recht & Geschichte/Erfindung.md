@@ -25,6 +25,8 @@ status: "new"
 
 ![[Erfindung.ogg]]
 
+![[Erfindung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erfindung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erfindung&language=de)
 
 **Meaning:** invention

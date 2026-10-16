@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Pianist
 
+![[Pianist.jpg]]
+
 ![[Pianist.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Pianist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pianist&language=de)

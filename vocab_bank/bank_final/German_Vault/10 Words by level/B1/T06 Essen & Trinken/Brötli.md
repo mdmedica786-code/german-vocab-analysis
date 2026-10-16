@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Brötli
 
+![[Brötli.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Br%C3%B6tli/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Br%C3%B6tli&language=de)
 
 **Meaning:** bread roll (Swiss)

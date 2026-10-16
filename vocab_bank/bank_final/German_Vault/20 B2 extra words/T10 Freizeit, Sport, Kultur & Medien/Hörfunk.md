@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hörfunk.ogg]]
 
+![[Hörfunk.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6rfunk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6rfunk&language=de)
 
 **Meaning:** radio (broadcasting)

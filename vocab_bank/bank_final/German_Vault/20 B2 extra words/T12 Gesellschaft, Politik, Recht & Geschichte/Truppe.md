@@ -23,6 +23,8 @@ status: "new"
 
 ![[Truppe.ogg]]
 
+![[Truppe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Truppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Truppe&language=de)
 
 **Meaning:** troop; group; company

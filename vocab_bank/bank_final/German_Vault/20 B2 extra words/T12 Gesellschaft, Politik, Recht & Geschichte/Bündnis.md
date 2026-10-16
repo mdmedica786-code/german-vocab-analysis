@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bündnis.ogg]]
 
+![[Bündnis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCndnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCndnis&language=de)
 
 **Meaning:** alliance

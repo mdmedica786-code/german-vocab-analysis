@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fahrstunde.ogg]]
 
+![[Fahrstunde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fahrstunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrstunde&language=de)
 
 **Meaning:** driving lesson

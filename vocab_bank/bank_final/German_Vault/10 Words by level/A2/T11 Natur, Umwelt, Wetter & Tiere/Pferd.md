@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Pferd
 
+![[Pferd.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pferd/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pferd&language=de)
 
 **Meaning:** horse

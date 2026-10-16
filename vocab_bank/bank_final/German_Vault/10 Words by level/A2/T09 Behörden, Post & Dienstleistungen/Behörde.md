@@ -25,6 +25,8 @@ status: "new"
 
 ![[Behörde.ogg]]
 
+![[Behörde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beh%C3%B6rde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beh%C3%B6rde&language=de)
 
 **Meaning:** authority, government agency

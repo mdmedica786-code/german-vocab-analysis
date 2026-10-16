@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gaststätte.ogg]]
 
+![[Gaststätte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gastst%C3%A4tte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gastst%C3%A4tte&language=de)
 
 **Meaning:** restaurant

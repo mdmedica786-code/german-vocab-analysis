@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kaufmann.ogg]]
 
+![[Kaufmann.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kaufmann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaufmann&language=de)
 
 **Meaning:** merchant; businessman

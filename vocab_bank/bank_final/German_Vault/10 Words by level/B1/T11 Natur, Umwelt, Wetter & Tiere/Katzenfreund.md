@@ -24,6 +24,8 @@ status: "new"
 
 ![[Katzenfreund.ogg]]
 
+![[Katzenfreund.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Katzenfreund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Katzenfreund&language=de)
 
 **Meaning:** cat lover (m)

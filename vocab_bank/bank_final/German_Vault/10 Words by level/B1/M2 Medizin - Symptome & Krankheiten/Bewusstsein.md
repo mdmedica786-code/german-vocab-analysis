@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bewusstsein.ogg]]
 
+![[Bewusstsein.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bewusstsein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bewusstsein&language=de)
 
 **Meaning:** consciousness; awareness

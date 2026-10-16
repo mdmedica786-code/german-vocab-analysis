@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fleischkonsum.ogg]]
 
+![[Fleischkonsum.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fleischkonsum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fleischkonsum&language=de)
 
 **Meaning:** meat consumption

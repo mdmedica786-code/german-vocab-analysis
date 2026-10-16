@@ -23,6 +23,8 @@ status: "new"
 
 ![[Poetry-Slam.ogg]]
 
+![[Poetry-Slam.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Poetry-Slam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Poetry-Slam&language=de)
 
 **Meaning:** poetry slam

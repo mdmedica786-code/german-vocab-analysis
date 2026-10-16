@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Pause
 
+![[Pause.jpg]]
+
 ![[Pause.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Pause/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pause&language=de)

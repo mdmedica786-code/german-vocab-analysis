@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Datenbank
 
+![[Datenbank.png]]
+
 ![[Datenbank.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Datenbank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Datenbank&language=de)

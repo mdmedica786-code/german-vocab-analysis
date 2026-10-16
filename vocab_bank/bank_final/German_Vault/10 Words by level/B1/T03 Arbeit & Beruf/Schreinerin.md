@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Schreinerin
 
+![[Schreinerin.jpg]]
+
 ![[Schreinerin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schreinerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schreinerin&language=de)

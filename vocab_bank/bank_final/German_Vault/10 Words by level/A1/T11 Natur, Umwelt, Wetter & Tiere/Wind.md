@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Wind
 
+![[Wind.jpg]]
+
 ![[Wind.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wind/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wind&language=de)

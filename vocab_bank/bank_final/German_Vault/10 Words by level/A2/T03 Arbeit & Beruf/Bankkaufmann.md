@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Bankkaufmann
 
+![[Bankkaufmann.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bankkaufmann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bankkaufmann&language=de)
 
 **Meaning:** bank clerk (m)

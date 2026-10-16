@@ -23,6 +23,8 @@ status: "new"
 
 ![[Belegschaft.ogg]]
 
+![[Belegschaft.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Belegschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Belegschaft&language=de)
 
 **Meaning:** workforce; staff

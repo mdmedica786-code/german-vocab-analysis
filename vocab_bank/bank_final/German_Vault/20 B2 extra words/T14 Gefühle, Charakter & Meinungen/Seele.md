@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Seele
 
+![[Seele.jpg]]
+
 ![[Seele.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Seele/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Seele&language=de)

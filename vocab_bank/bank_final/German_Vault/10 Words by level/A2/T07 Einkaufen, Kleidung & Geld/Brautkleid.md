@@ -24,6 +24,8 @@ status: "new"
 
 ![[Brautkleid.ogg]]
 
+![[Brautkleid.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Brautkleid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brautkleid&language=de)
 
 **Meaning:** wedding dress

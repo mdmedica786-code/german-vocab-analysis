@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Waschmaschine
 
+![[Waschmaschine.jpg]]
+
 ![[Waschmaschine.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Waschmaschine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Waschmaschine&language=de)

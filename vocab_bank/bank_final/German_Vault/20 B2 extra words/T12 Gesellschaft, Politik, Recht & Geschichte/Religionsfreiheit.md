@@ -23,6 +23,8 @@ status: "new"
 
 ![[Religionsfreiheit.ogg]]
 
+![[Religionsfreiheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Religionsfreiheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Religionsfreiheit&language=de)
 
 **Meaning:** freedom of religion

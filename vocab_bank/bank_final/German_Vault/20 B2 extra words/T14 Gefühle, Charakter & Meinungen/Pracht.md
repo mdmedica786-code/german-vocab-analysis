@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pracht.ogg]]
 
+![[Pracht.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pracht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pracht&language=de)
 
 **Meaning:** splendour; magnificence

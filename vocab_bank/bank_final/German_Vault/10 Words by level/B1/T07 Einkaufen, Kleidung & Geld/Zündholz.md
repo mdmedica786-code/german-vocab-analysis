@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zündholz.ogg]]
 
+![[Zündholz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Z%C3%BCndholz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Z%C3%BCndholz&language=de)
 
 **Meaning:** match

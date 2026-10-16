@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zutaten.ogg]]
 
+![[Zutaten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zutaten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zutaten&language=de)
 
 **Meaning:** ingredients

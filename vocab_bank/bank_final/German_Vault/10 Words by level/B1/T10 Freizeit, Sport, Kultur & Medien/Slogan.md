@@ -24,6 +24,8 @@ status: "new"
 
 ![[Slogan.ogg]]
 
+![[Slogan.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Slogan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Slogan&language=de)
 
 **Meaning:** slogan

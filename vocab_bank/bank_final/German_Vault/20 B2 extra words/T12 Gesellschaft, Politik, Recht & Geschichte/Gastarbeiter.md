@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gastarbeiter.ogg]]
 
+![[Gastarbeiter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gastarbeiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gastarbeiter&language=de)
 
 **Meaning:** guest worker

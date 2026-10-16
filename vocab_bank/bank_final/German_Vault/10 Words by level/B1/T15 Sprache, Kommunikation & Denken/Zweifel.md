@@ -25,6 +25,8 @@ status: "new"
 
 ![[Zweifel.ogg]]
 
+![[Zweifel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zweifel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zweifel&language=de)
 
 **Meaning:** doubt

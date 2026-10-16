@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lebensgefährte.ogg]]
 
+![[Lebensgefährte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lebensgef%C3%A4hrte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensgef%C3%A4hrte&language=de)
 
 **Meaning:** life partner

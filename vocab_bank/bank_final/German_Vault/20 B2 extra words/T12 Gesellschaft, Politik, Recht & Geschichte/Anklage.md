@@ -23,6 +23,8 @@ status: "new"
 
 ![[Anklage.ogg]]
 
+![[Anklage.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anklage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anklage&language=de)
 
 **Meaning:** charge; indictment

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Leistung.ogg]]
 
+![[Leistung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Leistung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leistung&language=de)
 
 **Meaning:** performance; achievement; service

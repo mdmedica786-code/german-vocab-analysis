@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zugfahrt.ogg]]
 
+![[Zugfahrt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zugfahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zugfahrt&language=de)
 
 **Meaning:** train ride

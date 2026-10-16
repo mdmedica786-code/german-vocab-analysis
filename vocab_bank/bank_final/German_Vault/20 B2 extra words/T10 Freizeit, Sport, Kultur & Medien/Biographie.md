@@ -23,6 +23,8 @@ status: "new"
 
 ![[Biographie.ogg]]
 
+![[Biographie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Biographie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biographie&language=de)
 
 **Meaning:** biography

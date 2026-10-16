@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Fahrplan
 
+![[Fahrplan.jpg]]
+
 ![[Fahrplan.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fahrplan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrplan&language=de)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Gerechtigkeit.ogg]]
 
+![[Gerechtigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gerechtigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gerechtigkeit&language=de)
 
 **Meaning:** justice

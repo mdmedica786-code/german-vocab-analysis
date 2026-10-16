@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gamerin.ogg]]
 
+![[Gamerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gamerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gamerin&language=de)
 
 **Meaning:** gamer (female)

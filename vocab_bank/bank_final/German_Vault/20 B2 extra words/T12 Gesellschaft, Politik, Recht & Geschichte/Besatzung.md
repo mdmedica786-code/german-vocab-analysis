@@ -23,6 +23,8 @@ status: "new"
 
 ![[Besatzung.ogg]]
 
+![[Besatzung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Besatzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besatzung&language=de)
 
 **Meaning:** crew; occupation

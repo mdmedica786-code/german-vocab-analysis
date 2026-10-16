@@ -25,6 +25,8 @@ status: "new"
 
 ![[Laptop.ogg]]
 
+![[Laptop.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Laptop/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laptop&language=de)
 
 **Meaning:** laptop

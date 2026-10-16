@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Locher
 
+![[Locher.jpg]]
+
 ![[Locher.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Locher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Locher&language=de)

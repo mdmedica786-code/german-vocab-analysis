@@ -23,6 +23,8 @@ status: "new"
 
 ![[Arbeitslosenquote.ogg]]
 
+![[Arbeitslosenquote.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitslosenquote/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitslosenquote&language=de)
 
 **Meaning:** unemployment rate

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Manuskript.ogg]]
 
+![[Manuskript.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Manuskript/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Manuskript&language=de)
 
 **Meaning:** manuscript; typescript

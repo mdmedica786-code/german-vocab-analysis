@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mietrecht.ogg]]
 
+![[Mietrecht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mietrecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mietrecht&language=de)
 
 **Meaning:** tenancy law

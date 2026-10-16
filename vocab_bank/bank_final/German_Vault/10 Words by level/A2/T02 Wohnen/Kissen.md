@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Kissen
 
+![[Kissen.jpg]]
+
 ![[Kissen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kissen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kissen&language=de)

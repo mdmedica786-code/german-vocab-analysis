@@ -23,6 +23,8 @@ status: "new"
 
 ![[Projektleiterin.ogg]]
 
+![[Projektleiterin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Projektleiterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Projektleiterin&language=de)
 
 **Meaning:** project manager (female)

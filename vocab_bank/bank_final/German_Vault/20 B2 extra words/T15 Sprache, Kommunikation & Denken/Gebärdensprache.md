@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gebärdensprache.ogg]]
 
+![[Gebärdensprache.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geb%C3%A4rdensprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geb%C3%A4rdensprache&language=de)
 
 **Meaning:** sign language

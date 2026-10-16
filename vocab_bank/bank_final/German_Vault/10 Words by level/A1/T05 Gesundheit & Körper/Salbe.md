@@ -25,6 +25,8 @@ status: "new"
 
 ![[Salbe.ogg]]
 
+![[Salbe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Salbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Salbe&language=de)
 
 **Meaning:** ointment

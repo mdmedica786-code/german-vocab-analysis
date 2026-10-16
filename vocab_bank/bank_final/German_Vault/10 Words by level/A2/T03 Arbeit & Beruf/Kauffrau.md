@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kauffrau.ogg]]
 
+![[Kauffrau.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kauffrau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kauffrau&language=de)
 
 **Meaning:** businesswoman; clerk (f)

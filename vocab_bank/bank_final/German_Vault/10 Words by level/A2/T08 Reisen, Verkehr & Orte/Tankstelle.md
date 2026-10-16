@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tankstelle.ogg]]
 
+![[Tankstelle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tankstelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tankstelle&language=de)
 
 **Meaning:** petrol station

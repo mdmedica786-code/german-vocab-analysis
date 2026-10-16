@@ -23,6 +23,8 @@ status: "new"
 
 ![[Flächenversiegelung.ogg]]
 
+![[Flächenversiegelung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fl%C3%A4chenversiegelung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fl%C3%A4chenversiegelung&language=de)
 
 **Meaning:** soil sealing

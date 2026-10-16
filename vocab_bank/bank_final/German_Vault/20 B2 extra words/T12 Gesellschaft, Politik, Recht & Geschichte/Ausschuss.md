@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ausschuss.ogg]]
 
+![[Ausschuss.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ausschuss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausschuss&language=de)
 
 **Meaning:** committee

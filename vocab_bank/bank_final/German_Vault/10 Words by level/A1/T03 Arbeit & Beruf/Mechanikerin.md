@@ -25,6 +25,8 @@ status: "new"
 
 ![[Mechanikerin.ogg]]
 
+![[Mechanikerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mechanikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mechanikerin&language=de)
 
 **Meaning:** mechanic (f)

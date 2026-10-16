@@ -23,6 +23,8 @@ status: "new"
 
 ![[Luftverschmutzung.ogg]]
 
+![[Luftverschmutzung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Luftverschmutzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luftverschmutzung&language=de)
 
 **Meaning:** air pollution

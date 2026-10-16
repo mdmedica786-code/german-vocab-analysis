@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kraut.ogg]]
 
+![[Kraut.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kraut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kraut&language=de)
 
 **Meaning:** herb; cabbage

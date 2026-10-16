@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Hauptverkehrszeit
 
+![[Hauptverkehrszeit.jpg]]
+
 ![[Hauptverkehrszeit.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hauptverkehrszeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptverkehrszeit&language=de)

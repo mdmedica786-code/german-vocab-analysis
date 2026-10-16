@@ -23,6 +23,8 @@ status: "new"
 
 ![[Vorspeise.ogg]]
 
+![[Vorspeise.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vorspeise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorspeise&language=de)
 
 **Meaning:** starter; appetiser

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Schnupfen.ogg]]
 
+![[Schnupfen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schnupfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schnupfen&language=de)
 
 **Meaning:** common cold

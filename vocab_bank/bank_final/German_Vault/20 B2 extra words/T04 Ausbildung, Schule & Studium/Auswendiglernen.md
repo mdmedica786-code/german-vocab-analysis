@@ -23,6 +23,8 @@ status: "new"
 
 ![[Auswendiglernen.ogg]]
 
+![[Auswendiglernen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Auswendiglernen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auswendiglernen&language=de)
 
 **Meaning:** learning by heart; rote learning

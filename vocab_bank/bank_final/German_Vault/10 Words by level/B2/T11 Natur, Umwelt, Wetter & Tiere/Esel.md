@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Esel
 
+![[Esel.jpg]]
+
 ![[Esel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Esel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Esel&language=de)

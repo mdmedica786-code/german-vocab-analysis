@@ -23,6 +23,8 @@ status: "new"
 
 ![[Endgerät.ogg]]
 
+![[Endgerät.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Endger%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Endger%C3%A4t&language=de)
 
 **Meaning:** end device; terminal device

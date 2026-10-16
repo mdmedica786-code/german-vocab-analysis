@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Kosten
 
+![[Kosten.png]]
+
 ![[kosten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kosten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kosten&language=de)

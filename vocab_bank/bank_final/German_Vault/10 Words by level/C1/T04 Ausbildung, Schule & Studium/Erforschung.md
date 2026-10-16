@@ -23,6 +23,8 @@ status: "new"
 
 ![[Erforschung.ogg]]
 
+![[Erforschung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erforschung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erforschung&language=de)
 
 **Meaning:** research; exploration

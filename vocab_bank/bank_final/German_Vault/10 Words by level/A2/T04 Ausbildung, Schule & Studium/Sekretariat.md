@@ -25,6 +25,8 @@ status: "new"
 
 ![[Sekretariat.ogg]]
 
+![[Sekretariat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sekretariat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sekretariat&language=de)
 
 **Meaning:** secretary's office; administrative office

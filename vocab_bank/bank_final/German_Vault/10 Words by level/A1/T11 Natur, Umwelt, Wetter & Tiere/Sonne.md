@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Sonne
 
+![[Sonne.jpg]]
+
 ![[Sonne.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sonne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonne&language=de)

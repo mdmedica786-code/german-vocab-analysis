@@ -24,6 +24,8 @@ status: "new"
 
 ![[Freizeitangebot.ogg]]
 
+![[Freizeitangebot.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Freizeitangebot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freizeitangebot&language=de)
 
 **Meaning:** recreational activity, leisure activity

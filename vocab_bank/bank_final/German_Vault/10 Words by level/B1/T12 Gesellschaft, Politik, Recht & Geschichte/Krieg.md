@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Krieg
 
+![[Krieg.jpg]]
+
 ![[Krieg.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Krieg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krieg&language=de)

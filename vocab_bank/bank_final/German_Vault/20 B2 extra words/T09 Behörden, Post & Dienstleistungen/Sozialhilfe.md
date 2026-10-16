@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sozialhilfe.ogg]]
 
+![[Sozialhilfe.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sozialhilfe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialhilfe&language=de)
 
 **Meaning:** social assistance

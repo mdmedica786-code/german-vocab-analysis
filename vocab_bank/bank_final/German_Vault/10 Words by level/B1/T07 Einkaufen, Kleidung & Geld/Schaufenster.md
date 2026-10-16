@@ -25,6 +25,8 @@ status: "new"
 
 ![[Schaufenster.ogg]]
 
+![[Schaufenster.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schaufenster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schaufenster&language=de)
 
 **Meaning:** shop window

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der E-Book-Reader
 
+![[E-Book-Reader.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/E-Book-Reader/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=E-Book-Reader&language=de)
 
 **Meaning:** e-book reader

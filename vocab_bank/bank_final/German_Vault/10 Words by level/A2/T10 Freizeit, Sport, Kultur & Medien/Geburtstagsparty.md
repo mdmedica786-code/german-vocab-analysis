@@ -24,6 +24,8 @@ status: "new"
 
 ![[Geburtstagsparty.ogg]]
 
+![[Geburtstagsparty.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geburtstagsparty/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburtstagsparty&language=de)
 
 **Meaning:** birthday party

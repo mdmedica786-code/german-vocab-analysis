@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sozialstaat.ogg]]
 
+![[Sozialstaat.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sozialstaat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialstaat&language=de)
 
 **Meaning:** welfare state

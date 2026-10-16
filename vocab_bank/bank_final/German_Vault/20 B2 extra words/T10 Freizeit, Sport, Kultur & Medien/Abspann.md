@@ -23,6 +23,8 @@ status: "new"
 
 ![[Abspann.ogg]]
 
+![[Abspann.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abspann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abspann&language=de)
 
 **Meaning:** closing credits

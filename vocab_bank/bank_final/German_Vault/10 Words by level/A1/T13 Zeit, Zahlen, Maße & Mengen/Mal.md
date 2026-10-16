@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Mal
 
+![[Mal.jpg]]
+
 ![[mal.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Mal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mal&language=de)

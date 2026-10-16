@@ -24,6 +24,8 @@ status: "new"
 
 ![[Einbürgerung.ogg]]
 
+![[Einbürgerung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einb%C3%BCrgerung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einb%C3%BCrgerung&language=de)
 
 **Meaning:** naturalisation

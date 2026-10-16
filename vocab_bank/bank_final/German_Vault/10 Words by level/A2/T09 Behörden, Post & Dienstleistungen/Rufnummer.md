@@ -25,6 +25,8 @@ status: "new"
 
 ![[Rufnummer.ogg]]
 
+![[Rufnummer.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rufnummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rufnummer&language=de)
 
 **Meaning:** telephone number

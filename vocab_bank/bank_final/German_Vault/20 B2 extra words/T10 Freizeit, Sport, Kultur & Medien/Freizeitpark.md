@@ -23,6 +23,8 @@ status: "new"
 
 ![[Freizeitpark.ogg]]
 
+![[Freizeitpark.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Freizeitpark/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freizeitpark&language=de)
 
 **Meaning:** amusement park; theme park

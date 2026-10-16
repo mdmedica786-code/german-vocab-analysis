@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kläranlage.ogg]]
 
+![[Kläranlage.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kl%C3%A4ranlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kl%C3%A4ranlage&language=de)
 
 **Meaning:** sewage treatment plant

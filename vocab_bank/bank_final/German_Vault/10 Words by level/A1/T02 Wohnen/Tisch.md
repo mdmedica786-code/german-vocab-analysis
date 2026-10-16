@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Tisch
 
+![[Tisch.png]]
+
 ![[Tisch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tisch&language=de)

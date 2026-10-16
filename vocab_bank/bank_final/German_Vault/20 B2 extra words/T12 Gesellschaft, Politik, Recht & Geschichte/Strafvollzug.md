@@ -23,6 +23,8 @@ status: "new"
 
 ![[Strafvollzug.ogg]]
 
+![[Strafvollzug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Strafvollzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strafvollzug&language=de)
 
 **Meaning:** prison system; execution of sentence

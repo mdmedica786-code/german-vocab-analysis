@@ -24,6 +24,8 @@ status: "new"
 
 ![[Pädagogin.ogg]]
 
+![[Pädagogin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/P%C3%A4dagogin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=P%C3%A4dagogin&language=de)
 
 **Meaning:** educator; teacher (f)

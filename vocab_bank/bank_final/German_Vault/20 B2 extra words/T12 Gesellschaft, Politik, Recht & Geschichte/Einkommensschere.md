@@ -23,6 +23,8 @@ status: "new"
 
 ![[Einkommensschere.ogg]]
 
+![[Einkommensschere.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einkommensschere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einkommensschere&language=de)
 
 **Meaning:** income gap

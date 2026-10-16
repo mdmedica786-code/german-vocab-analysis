@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rettung.ogg]]
 
+![[Rettung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rettung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rettung&language=de)
 
 **Meaning:** rescue

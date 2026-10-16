@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Malerin
 
+![[Malerin.jpg]]
+
 ![[Malerin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Malerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Malerin&language=de)

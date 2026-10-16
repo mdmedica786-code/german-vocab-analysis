@@ -23,6 +23,8 @@ status: "new"
 
 ![[Niederlassung.ogg]]
 
+![[Niederlassung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Niederlassung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Niederlassung&language=de)
 
 **Meaning:** branch; subsidiary office

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schicksal.ogg]]
 
+![[Schicksal.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schicksal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schicksal&language=de)
 
 **Meaning:** fate; destiny

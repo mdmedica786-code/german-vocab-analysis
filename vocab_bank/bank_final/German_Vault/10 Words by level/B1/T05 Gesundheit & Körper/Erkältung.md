@@ -24,6 +24,8 @@ status: "new"
 
 ![[Erkältung.ogg]]
 
+![[Erkältung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erk%C3%A4ltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erk%C3%A4ltung&language=de)
 
 **Meaning:** cold

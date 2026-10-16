@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Architekt
 
+![[Architekt.png]]
+
 ![[Architekt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Architekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Architekt&language=de)

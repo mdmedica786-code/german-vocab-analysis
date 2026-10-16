@@ -23,6 +23,8 @@ status: "new"
 
 ![[Blickwinkel.ogg]]
 
+![[Blickwinkel.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Blickwinkel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blickwinkel&language=de)
 
 **Meaning:** angle; point of view

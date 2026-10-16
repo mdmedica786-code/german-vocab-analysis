@@ -24,6 +24,8 @@ status: "new"
 
 ![[Magen.ogg]]
 
+![[Magen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Magen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Magen&language=de)
 
 **Meaning:** stomach

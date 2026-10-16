@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Taucherbrille
 
+![[Taucherbrille.jpg]]
+
 ![[Taucherbrille.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Taucherbrille/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taucherbrille&language=de)

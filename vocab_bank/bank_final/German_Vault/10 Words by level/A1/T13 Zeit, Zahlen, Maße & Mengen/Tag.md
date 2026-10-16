@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Tag
 
+![[Tag.png]]
+
 ![[Tag.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tag&language=de)

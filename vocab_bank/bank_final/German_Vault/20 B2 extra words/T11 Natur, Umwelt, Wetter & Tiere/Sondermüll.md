@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sondermüll.ogg]]
 
+![[Sondermüll.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sonderm%C3%BCll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonderm%C3%BCll&language=de)
 
 **Meaning:** hazardous waste

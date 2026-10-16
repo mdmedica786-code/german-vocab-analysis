@@ -25,6 +25,8 @@ status: "new"
 
 ![[Radfahrerin.ogg]]
 
+![[Radfahrerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Radfahrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radfahrerin&language=de)
 
 **Meaning:** cyclist (f)

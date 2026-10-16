@@ -23,6 +23,8 @@ status: "new"
 
 ![[Monster.ogg]]
 
+![[Monster.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Monster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Monster&language=de)
 
 **Meaning:** monster

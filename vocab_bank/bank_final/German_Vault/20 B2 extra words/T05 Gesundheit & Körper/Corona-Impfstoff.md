@@ -23,6 +23,8 @@ status: "new"
 
 ![[Corona-Impfstoff.ogg]]
 
+![[Corona-Impfstoff.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Corona-Impfstoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Corona-Impfstoff&language=de)
 
 **Meaning:** coronavirus vaccine

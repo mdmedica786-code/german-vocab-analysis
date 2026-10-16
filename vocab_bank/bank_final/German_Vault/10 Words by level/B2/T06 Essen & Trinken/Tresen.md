@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tresen.ogg]]
 
+![[Tresen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tresen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tresen&language=de)
 
 **Meaning:** counter; bar

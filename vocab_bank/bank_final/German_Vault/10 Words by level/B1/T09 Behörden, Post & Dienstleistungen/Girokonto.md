@@ -25,6 +25,8 @@ status: "new"
 
 ![[Girokonto.ogg]]
 
+![[Girokonto.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Girokonto/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Girokonto&language=de)
 
 **Meaning:** checking account

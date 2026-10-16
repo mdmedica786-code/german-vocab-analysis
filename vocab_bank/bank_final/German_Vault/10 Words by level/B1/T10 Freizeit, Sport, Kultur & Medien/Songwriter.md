@@ -24,6 +24,8 @@ status: "new"
 
 ![[Songwriter.ogg]]
 
+![[Songwriter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Songwriter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Songwriter&language=de)
 
 **Meaning:** songwriter (m)

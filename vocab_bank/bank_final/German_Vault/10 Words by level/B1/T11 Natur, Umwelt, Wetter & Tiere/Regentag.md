@@ -24,6 +24,8 @@ status: "new"
 
 ![[Regentag.ogg]]
 
+![[Regentag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Regentag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regentag&language=de)
 
 **Meaning:** rainy day

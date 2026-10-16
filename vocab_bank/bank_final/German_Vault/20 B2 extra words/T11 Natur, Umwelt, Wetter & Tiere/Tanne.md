@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tanne.ogg]]
 
+![[Tanne.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tanne&language=de)
 
 **Meaning:** fir

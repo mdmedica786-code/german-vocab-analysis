@@ -23,6 +23,8 @@ status: "new"
 
 ![[Satzung.ogg]]
 
+![[Satzung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Satzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Satzung&language=de)
 
 **Meaning:** statutes; rules

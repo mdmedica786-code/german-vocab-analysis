@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Himmel
 
+![[Himmel.jpg]]
+
 ![[Himmel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Himmel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Himmel&language=de)

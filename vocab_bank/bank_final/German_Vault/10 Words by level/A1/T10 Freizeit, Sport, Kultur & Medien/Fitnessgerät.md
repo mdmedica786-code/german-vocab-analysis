@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fitnessgerät.ogg]]
 
+![[Fitnessgerät.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fitnessger%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fitnessger%C3%A4t&language=de)
 
 **Meaning:** fitness equipment

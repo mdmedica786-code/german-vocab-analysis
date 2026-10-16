@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Tango-Musik
 
+![[Tango-Musik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tango-Musik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tango-Musik&language=de)
 
 **Meaning:** tango music

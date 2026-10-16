@@ -23,6 +23,8 @@ status: "new"
 
 ![[Genauigkeit.ogg]]
 
+![[Genauigkeit.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Genauigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Genauigkeit&language=de)
 
 **Meaning:** accuracy; precision

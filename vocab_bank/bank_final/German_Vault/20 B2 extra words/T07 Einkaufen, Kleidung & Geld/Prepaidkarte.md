@@ -23,6 +23,8 @@ status: "new"
 
 ![[Prepaidkarte.ogg]]
 
+![[Prepaidkarte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Prepaidkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prepaidkarte&language=de)
 
 **Meaning:** prepaid card

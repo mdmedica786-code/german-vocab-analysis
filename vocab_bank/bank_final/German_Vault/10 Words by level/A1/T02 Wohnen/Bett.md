@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Bett
 
+![[Bett.jpg]]
+
 ![[Bett.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bett&language=de)

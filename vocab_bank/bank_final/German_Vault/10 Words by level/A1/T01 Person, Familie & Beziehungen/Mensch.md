@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Mensch
 
+![[Mensch.png]]
+
 ![[Mensch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Mensch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mensch&language=de)

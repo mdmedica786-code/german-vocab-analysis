@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Amsel
 
+![[Amsel.jpg]]
+
 ![[Amsel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Amsel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Amsel&language=de)

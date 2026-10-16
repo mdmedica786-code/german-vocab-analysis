@@ -25,6 +25,8 @@ status: "new"
 
 ![[Anruf.ogg]]
 
+![[Anruf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anruf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anruf&language=de)
 
 **Meaning:** call

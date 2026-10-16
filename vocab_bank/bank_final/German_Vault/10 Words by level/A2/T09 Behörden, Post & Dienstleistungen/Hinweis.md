@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Hinweis
 
+![[Hinweis.jpg]]
+
 ![[Hinweis.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hinweis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hinweis&language=de)

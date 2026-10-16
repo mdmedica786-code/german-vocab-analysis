@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Sozialsiedlung
 
+![[Sozialsiedlung.jpg]]
+
 ![[Sozialsiedlung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sozialsiedlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialsiedlung&language=de)

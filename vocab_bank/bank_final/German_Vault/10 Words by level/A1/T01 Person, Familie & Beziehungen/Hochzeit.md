@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Hochzeit
 
+![[Hochzeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hochzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochzeit&language=de)
 
 **Meaning:** wedding

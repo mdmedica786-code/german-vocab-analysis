@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Eichhörnchen
 
+![[Eichhörnchen.jpg]]
+
 ![[Eichhörnchen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Eichh%C3%B6rnchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eichh%C3%B6rnchen&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Nagellack.ogg]]
 
+![[Nagellack.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nagellack/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nagellack&language=de)
 
 **Meaning:** nail varnish

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Handschrift.ogg]]
 
+![[Handschrift.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Handschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handschrift&language=de)
 
 **Meaning:** handwriting; manuscript

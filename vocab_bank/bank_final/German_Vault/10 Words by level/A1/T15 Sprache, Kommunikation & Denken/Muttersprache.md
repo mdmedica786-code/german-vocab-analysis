@@ -25,6 +25,8 @@ status: "new"
 
 ![[Muttersprache.ogg]]
 
+![[Muttersprache.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Muttersprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Muttersprache&language=de)
 
 **Meaning:** mother tongue

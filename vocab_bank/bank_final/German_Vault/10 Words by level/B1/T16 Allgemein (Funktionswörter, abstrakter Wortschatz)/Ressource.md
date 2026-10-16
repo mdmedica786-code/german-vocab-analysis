@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Ressource
 
+![[Ressource.jpg]]
+
 ![[Ressource.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Ressource/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ressource&language=de)

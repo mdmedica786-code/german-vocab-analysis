@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fahrradunfall.ogg]]
 
+![[Fahrradunfall.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fahrradunfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrradunfall&language=de)
 
 **Meaning:** bicycle accident

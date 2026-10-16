@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Bereich
 
+![[Bereich.png]]
+
 ![[Bereich.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bereich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bereich&language=de)

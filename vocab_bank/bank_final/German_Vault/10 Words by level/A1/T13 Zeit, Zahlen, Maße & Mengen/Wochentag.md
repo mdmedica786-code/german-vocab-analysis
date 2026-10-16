@@ -25,6 +25,8 @@ status: "new"
 
 ![[Wochentag.ogg]]
 
+![[Wochentag.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wochentag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wochentag&language=de)
 
 **Meaning:** day of the week

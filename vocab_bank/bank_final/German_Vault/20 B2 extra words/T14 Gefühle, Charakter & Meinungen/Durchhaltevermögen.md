@@ -23,6 +23,8 @@ status: "new"
 
 ![[Durchhaltevermögen.ogg]]
 
+![[Durchhaltevermögen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Durchhalteverm%C3%B6gen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Durchhalteverm%C3%B6gen&language=de)
 
 **Meaning:** staying power; perseverance

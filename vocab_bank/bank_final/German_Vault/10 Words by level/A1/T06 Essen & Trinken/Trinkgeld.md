@@ -25,6 +25,8 @@ status: "new"
 
 ![[Trinkgeld.ogg]]
 
+![[Trinkgeld.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Trinkgeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trinkgeld&language=de)
 
 **Meaning:** tip

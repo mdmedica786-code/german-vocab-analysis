@@ -24,6 +24,8 @@ status: "new"
 
 ![[Theorie.ogg]]
 
+![[Theorie.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Theorie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Theorie&language=de)
 
 **Meaning:** theory

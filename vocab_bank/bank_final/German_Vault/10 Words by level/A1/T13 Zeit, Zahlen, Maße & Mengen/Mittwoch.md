@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Mittwoch
 
+![[Mittwoch.jpg]]
+
 ![[Mittwoch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Mittwoch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittwoch&language=de)

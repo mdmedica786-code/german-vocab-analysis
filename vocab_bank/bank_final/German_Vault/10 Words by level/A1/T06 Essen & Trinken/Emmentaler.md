@@ -24,6 +24,8 @@ status: "new"
 
 ![[Emmentaler.ogg]]
 
+![[Emmentaler.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Emmentaler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Emmentaler&language=de)
 
 **Meaning:** Emmentaler cheese

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Solaranlage.ogg]]
 
+![[Solaranlage.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Solaranlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Solaranlage&language=de)
 
 **Meaning:** solar power system; solar panels

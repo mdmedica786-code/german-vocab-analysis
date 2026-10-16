@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Wäscheständer
 
+![[Wäscheständer.jpg]]
+
 ![[Wäscheständer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/W%C3%A4schest%C3%A4nder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%A4schest%C3%A4nder&language=de)

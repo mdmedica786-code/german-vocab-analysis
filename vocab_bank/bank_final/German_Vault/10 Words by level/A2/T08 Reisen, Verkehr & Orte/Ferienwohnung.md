@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ferienwohnung.ogg]]
 
+![[Ferienwohnung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ferienwohnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ferienwohnung&language=de)
 
 **Meaning:** holiday home

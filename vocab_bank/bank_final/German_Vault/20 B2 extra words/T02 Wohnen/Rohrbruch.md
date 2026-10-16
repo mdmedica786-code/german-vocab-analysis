@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rohrbruch.ogg]]
 
+![[Rohrbruch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rohrbruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rohrbruch&language=de)
 
 **Meaning:** burst pipe

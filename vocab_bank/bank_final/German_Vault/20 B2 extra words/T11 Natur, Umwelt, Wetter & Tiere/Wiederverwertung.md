@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wiederverwertung.ogg]]
 
+![[Wiederverwertung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wiederverwertung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wiederverwertung&language=de)
 
 **Meaning:** recycling; reuse

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Uhrzeit.ogg]]
 
+![[Uhrzeit.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Uhrzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Uhrzeit&language=de)
 
 **Meaning:** time of day

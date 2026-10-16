@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Richterin
 
+![[Richterin.jpg]]
+
 ![[Richterin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Richterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Richterin&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tasche.ogg]]
 
+![[Tasche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tasche&language=de)
 
 **Meaning:** bag

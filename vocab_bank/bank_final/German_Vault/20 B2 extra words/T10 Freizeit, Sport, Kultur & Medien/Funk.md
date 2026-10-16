@@ -23,6 +23,8 @@ status: "new"
 
 ![[Funk.ogg]]
 
+![[Funk.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Funk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Funk&language=de)
 
 **Meaning:** radio; radio communication

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Pommes.ogg]]
 
+![[Pommes.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pommes/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pommes&language=de)
 
 **Meaning:** chips

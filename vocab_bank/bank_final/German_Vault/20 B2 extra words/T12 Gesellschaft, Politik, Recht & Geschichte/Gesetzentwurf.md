@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gesetzentwurf.ogg]]
 
+![[Gesetzentwurf.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesetzentwurf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesetzentwurf&language=de)
 
 **Meaning:** draft law; bill

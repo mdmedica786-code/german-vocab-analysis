@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kuli.ogg]]
 
+![[Kuli.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kuli/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kuli&language=de)
 
 **Meaning:** pen

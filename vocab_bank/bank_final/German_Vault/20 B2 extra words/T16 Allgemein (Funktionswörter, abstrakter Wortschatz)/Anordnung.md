@@ -23,6 +23,8 @@ status: "new"
 
 ![[Anordnung.ogg]]
 
+![[Anordnung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anordnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anordnung&language=de)
 
 **Meaning:** arrangement; order; instruction

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Emotion.ogg]]
 
+![[Emotion.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Emotion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Emotion&language=de)
 
 **Meaning:** emotion

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pendlerin.ogg]]
 
+![[Pendlerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pendlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pendlerin&language=de)
 
 **Meaning:** commuter (female)

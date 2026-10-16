@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hörbuch.ogg]]
 
+![[Hörbuch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6rbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6rbuch&language=de)
 
 **Meaning:** audiobook

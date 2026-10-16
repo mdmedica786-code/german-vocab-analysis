@@ -25,6 +25,8 @@ status: "new"
 
 ![[Transport.ogg]]
 
+![[Transport.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Transport/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Transport&language=de)
 
 **Meaning:** transport

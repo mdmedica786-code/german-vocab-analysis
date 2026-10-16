@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Spalte
 
+![[Spalte.jpg]]
+
 ![[Spalte.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Spalte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spalte&language=de)

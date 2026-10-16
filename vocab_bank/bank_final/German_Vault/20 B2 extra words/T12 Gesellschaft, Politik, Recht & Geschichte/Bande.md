@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bande.ogg]]
 
+![[Bande.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bande/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bande&language=de)
 
 **Meaning:** gang; band

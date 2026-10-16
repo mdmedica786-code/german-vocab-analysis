@@ -23,6 +23,8 @@ status: "new"
 
 ![[Protagonist.ogg]]
 
+![[Protagonist.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Protagonist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Protagonist&language=de)
 
 **Meaning:** protagonist; main character

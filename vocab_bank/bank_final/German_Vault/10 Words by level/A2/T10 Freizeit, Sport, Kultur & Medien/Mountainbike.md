@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Mountainbike
 
+![[Mountainbike.jpg]]
+
 ![[Mountainbike.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Mountainbike/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mountainbike&language=de)

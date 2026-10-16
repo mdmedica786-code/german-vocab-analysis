@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gewaltenteilung.ogg]]
 
+![[Gewaltenteilung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gewaltenteilung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewaltenteilung&language=de)
 
 **Meaning:** separation of powers

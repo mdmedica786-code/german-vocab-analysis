@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fax.ogg]]
 
+![[Fax.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fax/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fax&language=de)
 
 **Meaning:** fax

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Online-Gespräch
 
+![[Online-Gespräch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Online-Gespr%C3%A4ch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Online-Gespr%C3%A4ch&language=de)
 
 **Meaning:** online conversation

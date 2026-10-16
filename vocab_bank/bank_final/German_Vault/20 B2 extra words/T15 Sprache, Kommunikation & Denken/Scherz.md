@@ -23,6 +23,8 @@ status: "new"
 
 ![[Scherz.ogg]]
 
+![[Scherz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Scherz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Scherz&language=de)
 
 **Meaning:** joke

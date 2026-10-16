@@ -24,6 +24,8 @@ status: "new"
 
 ![[Nachname.ogg]]
 
+![[Nachname.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachname/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachname&language=de)
 
 **Meaning:** last name

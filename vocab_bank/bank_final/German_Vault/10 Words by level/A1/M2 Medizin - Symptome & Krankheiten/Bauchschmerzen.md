@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bauchschmerzen.ogg]]
 
+![[Bauchschmerzen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bauchschmerzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bauchschmerzen&language=de)
 
 **Meaning:** stomach pain

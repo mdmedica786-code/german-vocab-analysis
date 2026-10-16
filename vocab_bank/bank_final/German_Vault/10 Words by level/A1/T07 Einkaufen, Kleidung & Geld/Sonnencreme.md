@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Sonnencreme
 
+![[Sonnencreme.jpg]]
+
 ![[Sonnencreme.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sonnencreme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnencreme&language=de)

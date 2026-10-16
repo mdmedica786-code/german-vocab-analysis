@@ -23,6 +23,8 @@ status: "new"
 
 ![[Vollmacht.ogg]]
 
+![[Vollmacht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vollmacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vollmacht&language=de)
 
 **Meaning:** power of attorney; authorisation

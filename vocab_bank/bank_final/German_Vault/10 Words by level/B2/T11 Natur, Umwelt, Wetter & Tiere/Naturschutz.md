@@ -23,6 +23,8 @@ status: "new"
 
 ![[Naturschutz.ogg]]
 
+![[Naturschutz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Naturschutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Naturschutz&language=de)
 
 **Meaning:** nature conservation

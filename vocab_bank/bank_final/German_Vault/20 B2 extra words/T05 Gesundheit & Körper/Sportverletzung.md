@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sportverletzung.ogg]]
 
+![[Sportverletzung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sportverletzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportverletzung&language=de)
 
 **Meaning:** sports injury

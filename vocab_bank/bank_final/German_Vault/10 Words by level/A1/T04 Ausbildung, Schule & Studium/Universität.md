@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Universität
 
+![[Universität.jpg]]
+
 ![[Universität.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Universit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Universit%C3%A4t&language=de)

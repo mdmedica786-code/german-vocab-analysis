@@ -25,6 +25,8 @@ status: "new"
 
 ![[Überschrift.ogg]]
 
+![[Überschrift.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberschrift&language=de)
 
 **Meaning:** heading

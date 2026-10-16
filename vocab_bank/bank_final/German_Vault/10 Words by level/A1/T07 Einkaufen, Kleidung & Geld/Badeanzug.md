@@ -24,6 +24,8 @@ status: "new"
 
 ![[Badeanzug.ogg]]
 
+![[Badeanzug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Badeanzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Badeanzug&language=de)
 
 **Meaning:** swimsuit

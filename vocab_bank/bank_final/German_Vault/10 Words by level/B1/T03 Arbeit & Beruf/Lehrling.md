@@ -25,6 +25,8 @@ status: "new"
 
 ![[Lehrling.ogg]]
 
+![[Lehrling.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lehrling/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lehrling&language=de)
 
 **Meaning:** apprentice

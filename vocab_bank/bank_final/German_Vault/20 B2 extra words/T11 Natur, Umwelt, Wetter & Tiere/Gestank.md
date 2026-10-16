@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gestank.ogg]]
 
+![[Gestank.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gestank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gestank&language=de)
 
 **Meaning:** stench; bad smell

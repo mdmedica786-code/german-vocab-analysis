@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Jazz
 
+![[Jazz.jpg]]
+
 ![[Jazz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Jazz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jazz&language=de)

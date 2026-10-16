@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Bildung
 
+![[Bildung.jpg]]
+
 ![[Bildung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bildung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bildung&language=de)

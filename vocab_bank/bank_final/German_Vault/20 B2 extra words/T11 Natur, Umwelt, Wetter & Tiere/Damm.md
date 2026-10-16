@@ -23,6 +23,8 @@ status: "new"
 
 ![[Damm.ogg]]
 
+![[Damm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Damm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Damm&language=de)
 
 **Meaning:** dam; embankment

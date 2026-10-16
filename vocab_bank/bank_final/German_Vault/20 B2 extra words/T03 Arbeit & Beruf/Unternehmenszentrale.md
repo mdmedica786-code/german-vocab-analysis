@@ -23,6 +23,8 @@ status: "new"
 
 ![[Unternehmenszentrale.ogg]]
 
+![[Unternehmenszentrale.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Unternehmenszentrale/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unternehmenszentrale&language=de)
 
 **Meaning:** company headquarters

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kommunalpolitik.ogg]]
 
+![[Kommunalpolitik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kommunalpolitik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kommunalpolitik&language=de)
 
 **Meaning:** local politics

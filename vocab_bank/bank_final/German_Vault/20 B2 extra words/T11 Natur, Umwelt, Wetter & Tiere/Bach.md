@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bach.ogg]]
 
+![[Bach.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bach&language=de)
 
 **Meaning:** brook; stream

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Optimismus.ogg]]
 
+![[Optimismus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Optimismus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Optimismus&language=de)
 
 **Meaning:** optimism

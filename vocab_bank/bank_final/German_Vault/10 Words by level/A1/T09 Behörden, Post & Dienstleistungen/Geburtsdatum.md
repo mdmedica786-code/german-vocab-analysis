@@ -24,6 +24,8 @@ status: "new"
 
 ![[Geburtsdatum.ogg]]
 
+![[Geburtsdatum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geburtsdatum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburtsdatum&language=de)
 
 **Meaning:** date of birth

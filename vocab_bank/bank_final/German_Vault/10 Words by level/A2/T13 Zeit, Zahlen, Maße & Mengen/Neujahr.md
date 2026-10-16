@@ -24,6 +24,8 @@ status: "new"
 
 ![[Neujahr.ogg]]
 
+![[Neujahr.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Neujahr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neujahr&language=de)
 
 **Meaning:** New Year

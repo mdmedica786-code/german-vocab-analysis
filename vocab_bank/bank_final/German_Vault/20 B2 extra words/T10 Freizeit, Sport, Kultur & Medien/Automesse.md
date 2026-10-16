@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Automesse
 
+![[Automesse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Automesse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Automesse&language=de)
 
 **Meaning:** car show; motor show

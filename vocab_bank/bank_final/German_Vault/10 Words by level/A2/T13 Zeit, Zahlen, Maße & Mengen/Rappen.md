@@ -26,6 +26,8 @@ status: "new"
 
 ![[Rappen.ogg]]
 
+![[Rappen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rappen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rappen&language=de)
 
 **Meaning:** centime (Swiss)

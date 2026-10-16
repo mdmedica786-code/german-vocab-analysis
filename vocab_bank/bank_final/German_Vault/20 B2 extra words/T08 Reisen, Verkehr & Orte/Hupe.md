@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hupe.ogg]]
 
+![[Hupe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hupe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hupe&language=de)
 
 **Meaning:** horn (of a car)

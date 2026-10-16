@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Online-Sucht
 
+![[Online-Sucht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Online-Sucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Online-Sucht&language=de)
 
 **Meaning:** online addiction

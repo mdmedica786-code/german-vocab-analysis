@@ -23,6 +23,8 @@ status: "new"
 
 ![[Nebenjob.ogg]]
 
+![[Nebenjob.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nebenjob/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nebenjob&language=de)
 
 **Meaning:** side job; part-time job

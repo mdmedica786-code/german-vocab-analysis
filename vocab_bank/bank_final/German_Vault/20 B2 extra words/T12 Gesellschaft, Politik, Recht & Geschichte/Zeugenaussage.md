@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zeugenaussage.ogg]]
 
+![[Zeugenaussage.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zeugenaussage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeugenaussage&language=de)
 
 **Meaning:** witness statement

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der USB-Stick
 
+![[USB-Stick.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/USB-Stick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=USB-Stick&language=de)
 
 **Meaning:** USB stick

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Workout.ogg]]
 
+![[Workout.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Workout/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Workout&language=de)
 
 **Meaning:** workout

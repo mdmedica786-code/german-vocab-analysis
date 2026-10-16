@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Harmonie
 
+![[Harmonie.jpg]]
+
 ![[Harmonie.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Harmonie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Harmonie&language=de)

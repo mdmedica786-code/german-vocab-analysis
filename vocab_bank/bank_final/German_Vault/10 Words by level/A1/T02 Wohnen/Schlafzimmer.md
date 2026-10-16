@@ -25,6 +25,8 @@ status: "new"
 
 ![[Schlafzimmer.ogg]]
 
+![[Schlafzimmer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schlafzimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlafzimmer&language=de)
 
 **Meaning:** bedroom

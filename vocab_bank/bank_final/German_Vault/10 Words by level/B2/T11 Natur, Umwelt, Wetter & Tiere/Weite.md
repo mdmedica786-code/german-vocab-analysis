@@ -23,6 +23,8 @@ status: "new"
 
 ![[Weite.ogg]]
 
+![[Weite.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Weite/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weite&language=de)
 
 **Meaning:** vastness; width

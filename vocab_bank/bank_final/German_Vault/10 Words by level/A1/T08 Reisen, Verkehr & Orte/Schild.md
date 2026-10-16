@@ -25,6 +25,8 @@ status: "new"
 
 ![[Schild.ogg]]
 
+![[Schild.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schild/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schild&language=de)
 
 **Meaning:** sign

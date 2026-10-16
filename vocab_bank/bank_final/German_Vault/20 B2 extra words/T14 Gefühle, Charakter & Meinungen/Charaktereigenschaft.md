@@ -23,6 +23,8 @@ status: "new"
 
 ![[Charaktereigenschaft.ogg]]
 
+![[Charaktereigenschaft.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Charaktereigenschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Charaktereigenschaft&language=de)
 
 **Meaning:** character trait

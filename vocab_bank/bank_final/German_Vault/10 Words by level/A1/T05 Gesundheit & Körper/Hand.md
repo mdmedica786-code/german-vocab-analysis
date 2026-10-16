@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Hand
 
+![[Hand.jpg]]
+
 ![[Hand.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hand&language=de)

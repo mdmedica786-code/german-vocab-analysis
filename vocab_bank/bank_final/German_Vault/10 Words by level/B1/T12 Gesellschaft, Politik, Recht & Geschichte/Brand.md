@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Brand
 
+![[Brand.jpg]]
+
 ![[Brand.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Brand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brand&language=de)

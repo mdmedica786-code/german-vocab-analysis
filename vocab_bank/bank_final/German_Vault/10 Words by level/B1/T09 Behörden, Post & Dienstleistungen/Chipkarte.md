@@ -25,6 +25,8 @@ status: "new"
 
 ![[Chipkarte.ogg]]
 
+![[Chipkarte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Chipkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chipkarte&language=de)
 
 **Meaning:** keycard

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Training.ogg]]
 
+![[Training.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Training/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Training&language=de)
 
 **Meaning:** training; practice session

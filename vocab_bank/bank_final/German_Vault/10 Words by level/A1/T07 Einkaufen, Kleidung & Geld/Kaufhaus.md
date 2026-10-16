@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kaufhaus.ogg]]
 
+![[Kaufhaus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kaufhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaufhaus&language=de)
 
 **Meaning:** department store

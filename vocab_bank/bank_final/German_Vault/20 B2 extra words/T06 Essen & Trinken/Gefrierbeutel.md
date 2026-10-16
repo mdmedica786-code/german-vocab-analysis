@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gefrierbeutel.ogg]]
 
+![[Gefrierbeutel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gefrierbeutel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gefrierbeutel&language=de)
 
 **Meaning:** freezer bag

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bürogebäude.ogg]]
 
+![[Bürogebäude.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCrogeb%C3%A4ude/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCrogeb%C3%A4ude&language=de)
 
 **Meaning:** office building

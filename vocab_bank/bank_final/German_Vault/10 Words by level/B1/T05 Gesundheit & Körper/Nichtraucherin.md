@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Nichtraucherin
 
+![[Nichtraucherin.jpg]]
+
 ![[Nichtraucherin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Nichtraucherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nichtraucherin&language=de)

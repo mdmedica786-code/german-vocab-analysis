@@ -23,6 +23,8 @@ status: "new"
 
 ![[Versicherungsvertreterin.ogg]]
 
+![[Versicherungsvertreterin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Versicherungsvertreterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versicherungsvertreterin&language=de)
 
 **Meaning:** insurance agent (female)

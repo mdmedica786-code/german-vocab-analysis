@@ -23,6 +23,8 @@ status: "new"
 
 ![[Generationenkonflikt.ogg]]
 
+![[Generationenkonflikt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Generationenkonflikt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Generationenkonflikt&language=de)
 
 **Meaning:** generation gap; conflict between generations

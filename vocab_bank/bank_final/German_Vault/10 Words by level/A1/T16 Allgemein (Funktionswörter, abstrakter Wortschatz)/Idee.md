@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Idee
 
+![[Idee.jpg]]
+
 ![[Idee.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Idee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Idee&language=de)

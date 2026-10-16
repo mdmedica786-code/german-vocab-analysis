@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bekleidung.ogg]]
 
+![[Bekleidung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bekleidung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bekleidung&language=de)
 
 **Meaning:** clothing; clothes

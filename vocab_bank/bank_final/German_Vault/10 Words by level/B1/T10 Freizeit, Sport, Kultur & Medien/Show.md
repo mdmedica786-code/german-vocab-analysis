@@ -24,6 +24,8 @@ status: "new"
 
 ![[Show.ogg]]
 
+![[Show.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Show/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Show&language=de)
 
 **Meaning:** show

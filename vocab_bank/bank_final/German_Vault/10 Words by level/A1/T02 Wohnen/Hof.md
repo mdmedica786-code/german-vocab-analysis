@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Hof
 
+![[Hof.jpg]]
+
 ![[Hof.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hof/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hof&language=de)

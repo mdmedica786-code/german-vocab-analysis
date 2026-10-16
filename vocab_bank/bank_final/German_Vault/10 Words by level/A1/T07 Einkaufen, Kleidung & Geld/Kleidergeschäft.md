@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kleidergeschäft.ogg]]
 
+![[Kleidergeschäft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kleidergesch%C3%A4ft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleidergesch%C3%A4ft&language=de)
 
 **Meaning:** clothes shop

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Strand.ogg]]
 
+![[Strand.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Strand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strand&language=de)
 
 **Meaning:** beach

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Klima
 
+![[Klima.jpg]]
+
 ![[Klima.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Klima/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klima&language=de)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Geigenunterricht.ogg]]
 
+![[Geigenunterricht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geigenunterricht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geigenunterricht&language=de)
 
 **Meaning:** violin lessons

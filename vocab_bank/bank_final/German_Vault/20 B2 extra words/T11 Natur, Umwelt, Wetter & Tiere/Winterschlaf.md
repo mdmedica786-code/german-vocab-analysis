@@ -23,6 +23,8 @@ status: "new"
 
 ![[Winterschlaf.ogg]]
 
+![[Winterschlaf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Winterschlaf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Winterschlaf&language=de)
 
 **Meaning:** hibernation

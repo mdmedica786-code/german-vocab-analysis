@@ -23,6 +23,8 @@ status: "new"
 
 ![[Konjunktur.ogg]]
 
+![[Konjunktur.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konjunktur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konjunktur&language=de)
 
 **Meaning:** economic situation; boom

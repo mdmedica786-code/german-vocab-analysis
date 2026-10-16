@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Tabelle
 
+![[Tabelle.jpg]]
+
 ![[Tabelle.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tabelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tabelle&language=de)

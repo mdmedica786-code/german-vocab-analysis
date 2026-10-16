@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Duft
 
+![[Duft.jpg]]
+
 ![[Duft.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Duft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Duft&language=de)

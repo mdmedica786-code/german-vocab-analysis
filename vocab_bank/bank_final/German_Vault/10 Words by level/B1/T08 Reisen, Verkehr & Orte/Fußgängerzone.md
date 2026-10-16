@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fußgängerzone.ogg]]
 
+![[Fußgängerzone.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fg%C3%A4ngerzone/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fg%C3%A4ngerzone&language=de)
 
 **Meaning:** pedestrian zone

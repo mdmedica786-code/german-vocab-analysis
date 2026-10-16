@@ -25,6 +25,8 @@ status: "new"
 
 ![[Dialog.ogg]]
 
+![[Dialog.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dialog/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dialog&language=de)
 
 **Meaning:** dialogue

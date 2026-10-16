@@ -24,6 +24,8 @@ status: "new"
 
 ![[Nachthemd.ogg]]
 
+![[Nachthemd.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachthemd/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachthemd&language=de)
 
 **Meaning:** nightgown

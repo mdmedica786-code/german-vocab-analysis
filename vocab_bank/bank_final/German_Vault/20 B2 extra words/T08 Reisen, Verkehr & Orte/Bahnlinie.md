@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bahnlinie.ogg]]
 
+![[Bahnlinie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bahnlinie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bahnlinie&language=de)
 
 **Meaning:** railway line

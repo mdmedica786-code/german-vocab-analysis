@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stirn.ogg]]
 
+![[Stirn.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stirn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stirn&language=de)
 
 **Meaning:** forehead

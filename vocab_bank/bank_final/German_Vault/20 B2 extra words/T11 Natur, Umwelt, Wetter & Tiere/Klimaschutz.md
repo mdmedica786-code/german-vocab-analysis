@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Klimaschutz
 
+![[Klimaschutz.png]]
+
 ![[Klimaschutz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Klimaschutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klimaschutz&language=de)

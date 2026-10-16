@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pandemie.ogg]]
 
+![[Pandemie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pandemie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pandemie&language=de)
 
 **Meaning:** pandemic

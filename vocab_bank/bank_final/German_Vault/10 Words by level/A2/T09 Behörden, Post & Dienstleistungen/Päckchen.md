@@ -24,6 +24,8 @@ status: "new"
 
 ![[Päckchen.ogg]]
 
+![[Päckchen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/P%C3%A4ckchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=P%C3%A4ckchen&language=de)
 
 **Meaning:** small parcel

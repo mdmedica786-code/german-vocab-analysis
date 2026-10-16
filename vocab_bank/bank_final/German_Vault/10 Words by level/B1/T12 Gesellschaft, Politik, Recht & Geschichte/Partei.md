@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Partei
 
+![[Partei.jpg]]
+
 ![[Partei.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Partei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Partei&language=de)

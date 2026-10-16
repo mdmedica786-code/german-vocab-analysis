@@ -24,6 +24,8 @@ status: "new"
 
 ![[Droge.ogg]]
 
+![[Droge.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Droge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Droge&language=de)
 
 **Meaning:** drug

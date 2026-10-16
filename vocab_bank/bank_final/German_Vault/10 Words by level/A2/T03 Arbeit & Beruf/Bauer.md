@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Bauer
 
+![[Bauer.jpg]]
+
 ![[Bauer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bauer&language=de)

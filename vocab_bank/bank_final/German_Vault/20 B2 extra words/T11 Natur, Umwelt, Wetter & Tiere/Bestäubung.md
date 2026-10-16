@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bestäubung.ogg]]
 
+![[Bestäubung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Best%C3%A4ubung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Best%C3%A4ubung&language=de)
 
 **Meaning:** pollination

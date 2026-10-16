@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fachhochschule.ogg]]
 
+![[Fachhochschule.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fachhochschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachhochschule&language=de)
 
 **Meaning:** university of applied sciences

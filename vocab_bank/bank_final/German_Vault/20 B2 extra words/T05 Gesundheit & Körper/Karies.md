@@ -23,6 +23,8 @@ status: "new"
 
 ![[Karies.ogg]]
 
+![[Karies.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Karies/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Karies&language=de)
 
 **Meaning:** tooth decay; caries

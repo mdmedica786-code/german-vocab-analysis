@@ -24,6 +24,8 @@ status: "new"
 
 ![[Weltmeister.ogg]]
 
+![[Weltmeister.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Weltmeister/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weltmeister&language=de)
 
 **Meaning:** world champion (m)

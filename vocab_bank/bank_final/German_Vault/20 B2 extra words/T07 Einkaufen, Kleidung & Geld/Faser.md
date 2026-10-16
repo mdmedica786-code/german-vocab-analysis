@@ -23,6 +23,8 @@ status: "new"
 
 ![[Faser.ogg]]
 
+![[Faser.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Faser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Faser&language=de)
 
 **Meaning:** fibre

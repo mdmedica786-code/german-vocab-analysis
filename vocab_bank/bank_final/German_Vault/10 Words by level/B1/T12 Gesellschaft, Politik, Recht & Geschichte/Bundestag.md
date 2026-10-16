@@ -25,6 +25,8 @@ status: "new"
 
 ![[Bundestag.ogg]]
 
+![[Bundestag.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bundestag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundestag&language=de)
 
 **Meaning:** Bundestag

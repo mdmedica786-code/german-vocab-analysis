@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Fluch
 
+![[Fluch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fluch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fluch&language=de)
 
 **Meaning:** curse

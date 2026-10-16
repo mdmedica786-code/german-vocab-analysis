@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pflegeheim.ogg]]
 
+![[Pflegeheim.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pflegeheim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflegeheim&language=de)
 
 **Meaning:** nursing home

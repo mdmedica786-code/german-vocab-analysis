@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schneidebrett.ogg]]
 
+![[Schneidebrett.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schneidebrett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schneidebrett&language=de)
 
 **Meaning:** chopping board

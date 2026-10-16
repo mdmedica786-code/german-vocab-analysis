@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Mauer
 
+![[Mauer.jpg]]
+
 ![[Mauer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Mauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mauer&language=de)

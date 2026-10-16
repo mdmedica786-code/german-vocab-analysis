@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rhetorik.ogg]]
 
+![[Rhetorik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rhetorik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rhetorik&language=de)
 
 **Meaning:** rhetoric

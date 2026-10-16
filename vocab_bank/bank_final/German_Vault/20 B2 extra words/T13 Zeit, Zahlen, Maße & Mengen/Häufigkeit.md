@@ -23,6 +23,8 @@ status: "new"
 
 ![[Häufigkeit.ogg]]
 
+![[Häufigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%A4ufigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%A4ufigkeit&language=de)
 
 **Meaning:** frequency

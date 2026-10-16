@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zimmerpflanze.ogg]]
 
+![[Zimmerpflanze.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zimmerpflanze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zimmerpflanze&language=de)
 
 **Meaning:** houseplant

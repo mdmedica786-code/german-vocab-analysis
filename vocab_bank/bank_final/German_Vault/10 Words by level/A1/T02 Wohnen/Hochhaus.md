@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hochhaus.ogg]]
 
+![[Hochhaus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hochhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochhaus&language=de)
 
 **Meaning:** skyscraper

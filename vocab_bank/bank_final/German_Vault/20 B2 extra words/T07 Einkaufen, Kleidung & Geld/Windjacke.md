@@ -23,6 +23,8 @@ status: "new"
 
 ![[Windjacke.ogg]]
 
+![[Windjacke.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Windjacke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Windjacke&language=de)
 
 **Meaning:** windcheater; light jacket

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Stadtrand.ogg]]
 
+![[Stadtrand.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stadtrand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtrand&language=de)
 
 **Meaning:** city limit

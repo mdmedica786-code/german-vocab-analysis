@@ -23,6 +23,8 @@ status: "new"
 
 ![[Blüte.ogg]]
 
+![[Blüte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bl%C3%BCte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bl%C3%BCte&language=de)
 
 **Meaning:** blossom

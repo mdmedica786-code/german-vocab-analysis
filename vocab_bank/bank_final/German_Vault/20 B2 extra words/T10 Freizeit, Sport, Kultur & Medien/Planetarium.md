@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Planetarium
 
+![[Planetarium.jpg]]
+
 ![[Planetarium.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Planetarium/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Planetarium&language=de)

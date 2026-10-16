@@ -26,6 +26,8 @@ status: "new"
 
 ![[Pensionist.ogg]]
 
+![[Pensionist.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pensionist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pensionist&language=de)
 
 **Meaning:** pensioner (m) (Austrian)

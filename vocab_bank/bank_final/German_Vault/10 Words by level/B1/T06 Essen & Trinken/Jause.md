@@ -26,6 +26,8 @@ status: "new"
 
 ![[Jause.ogg]]
 
+![[Jause.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Jause/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jause&language=de)
 
 **Meaning:** snack (Austrian)

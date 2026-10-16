@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hauch.ogg]]
 
+![[Hauch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauch&language=de)
 
 **Meaning:** breath; hint; touch

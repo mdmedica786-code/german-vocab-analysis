@@ -23,6 +23,8 @@ status: "new"
 
 ![[Abschiebung.ogg]]
 
+![[Abschiebung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abschiebung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abschiebung&language=de)
 
 **Meaning:** deportation

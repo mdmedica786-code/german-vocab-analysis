@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Software
 
+![[Software.png]]
+
 ![[Software.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Software/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Software&language=de)

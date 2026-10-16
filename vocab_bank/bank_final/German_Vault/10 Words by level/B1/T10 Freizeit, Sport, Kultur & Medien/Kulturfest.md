@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Kulturfest
 
+![[Kulturfest.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kulturfest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kulturfest&language=de)
 
 **Meaning:** cultural festival

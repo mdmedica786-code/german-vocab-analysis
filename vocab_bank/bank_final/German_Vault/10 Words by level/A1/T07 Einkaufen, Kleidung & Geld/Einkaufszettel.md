@@ -24,6 +24,8 @@ status: "new"
 
 ![[Einkaufszettel.ogg]]
 
+![[Einkaufszettel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einkaufszettel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einkaufszettel&language=de)
 
 **Meaning:** shopping list

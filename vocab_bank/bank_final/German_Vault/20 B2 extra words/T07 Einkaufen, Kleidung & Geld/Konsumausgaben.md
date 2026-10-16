@@ -23,6 +23,8 @@ status: "new"
 
 ![[Konsumausgaben.ogg]]
 
+![[Konsumausgaben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konsumausgaben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konsumausgaben&language=de)
 
 **Meaning:** consumer spending

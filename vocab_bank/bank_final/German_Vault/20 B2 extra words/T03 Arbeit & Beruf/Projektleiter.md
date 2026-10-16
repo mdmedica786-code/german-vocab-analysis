@@ -23,6 +23,8 @@ status: "new"
 
 ![[Projektleiter.ogg]]
 
+![[Projektleiter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Projektleiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Projektleiter&language=de)
 
 **Meaning:** project manager (male)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Berührung.ogg]]
 
+![[Berührung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ber%C3%BChrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ber%C3%BChrung&language=de)
 
 **Meaning:** touch; contact

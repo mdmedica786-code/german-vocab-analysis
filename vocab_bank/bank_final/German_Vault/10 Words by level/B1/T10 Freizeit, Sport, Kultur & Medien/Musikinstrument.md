@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Musikinstrument
 
+![[Musikinstrument.jpg]]
+
 ![[Musikinstrument.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Musikinstrument/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikinstrument&language=de)

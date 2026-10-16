@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wohnbau.ogg]]
 
+![[Wohnbau.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wohnbau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnbau&language=de)
 
 **Meaning:** housing construction

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Absenderin.ogg]]
 
+![[Absenderin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Absenderin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Absenderin&language=de)
 
 **Meaning:** sender (f)

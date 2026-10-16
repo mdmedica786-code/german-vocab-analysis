@@ -23,6 +23,8 @@ status: "new"
 
 ![[Eifersucht.ogg]]
 
+![[Eifersucht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Eifersucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eifersucht&language=de)
 
 **Meaning:** jealousy

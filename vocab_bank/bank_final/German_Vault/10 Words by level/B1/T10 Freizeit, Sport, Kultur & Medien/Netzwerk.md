@@ -25,6 +25,8 @@ status: "new"
 
 ![[Netzwerk.ogg]]
 
+![[Netzwerk.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Netzwerk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Netzwerk&language=de)
 
 **Meaning:** network

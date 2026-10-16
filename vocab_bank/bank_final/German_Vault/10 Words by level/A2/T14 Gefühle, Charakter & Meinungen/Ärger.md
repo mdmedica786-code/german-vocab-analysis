@@ -25,6 +25,8 @@ status: "new"
 
 ![[Ärger.ogg]]
 
+![[Ärger.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%84rger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%84rger&language=de)
 
 **Meaning:** anger

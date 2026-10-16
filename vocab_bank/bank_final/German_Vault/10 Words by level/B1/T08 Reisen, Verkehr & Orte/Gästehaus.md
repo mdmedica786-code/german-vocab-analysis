@@ -24,6 +24,8 @@ status: "new"
 
 ![[Gästehaus.ogg]]
 
+![[Gästehaus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/G%C3%A4stehaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=G%C3%A4stehaus&language=de)
 
 **Meaning:** guest house

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Definition.ogg]]
 
+![[Definition.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Definition/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Definition&language=de)
 
 **Meaning:** definition

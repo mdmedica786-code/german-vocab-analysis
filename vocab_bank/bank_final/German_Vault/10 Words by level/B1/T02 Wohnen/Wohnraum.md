@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wohnraum.ogg]]
 
+![[Wohnraum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wohnraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnraum&language=de)
 
 **Meaning:** living space

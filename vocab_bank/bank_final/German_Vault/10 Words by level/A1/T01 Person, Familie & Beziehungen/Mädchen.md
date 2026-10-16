@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Mädchen
 
+![[Mädchen.jpg]]
+
 ![[Mädchen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%A4dchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%A4dchen&language=de)

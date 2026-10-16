@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Jahr
 
+![[Jahr.jpg]]
+
 ![[Jahr.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Jahr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jahr&language=de)

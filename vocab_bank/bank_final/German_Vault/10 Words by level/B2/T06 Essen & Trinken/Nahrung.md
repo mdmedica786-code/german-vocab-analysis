@@ -23,6 +23,8 @@ status: "new"
 
 ![[Nahrung.ogg]]
 
+![[Nahrung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nahrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nahrung&language=de)
 
 **Meaning:** food; nourishment

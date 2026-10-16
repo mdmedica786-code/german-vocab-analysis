@@ -24,6 +24,8 @@ status: "new"
 
 ![[Brezel.ogg]]
 
+![[Brezel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Brezel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brezel&language=de)
 
 **Meaning:** pretzel

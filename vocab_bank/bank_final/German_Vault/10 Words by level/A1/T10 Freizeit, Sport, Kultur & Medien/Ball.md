@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Ball
 
+![[Ball.jpg]]
+
 ![[Ball.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Ball/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ball&language=de)

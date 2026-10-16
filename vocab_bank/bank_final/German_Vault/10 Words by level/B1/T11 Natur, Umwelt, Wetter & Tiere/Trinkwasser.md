@@ -24,6 +24,8 @@ status: "new"
 
 ![[Trinkwasser.ogg]]
 
+![[Trinkwasser.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Trinkwasser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trinkwasser&language=de)
 
 **Meaning:** drinking water

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Frühling
 
+![[Frühling.jpg]]
+
 ![[Frühling.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fr%C3%BChling/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fr%C3%BChling&language=de)

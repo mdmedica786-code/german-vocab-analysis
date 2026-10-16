@@ -24,6 +24,8 @@ status: "new"
 
 ![[Gedicht.ogg]]
 
+![[Gedicht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gedicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gedicht&language=de)
 
 **Meaning:** poem

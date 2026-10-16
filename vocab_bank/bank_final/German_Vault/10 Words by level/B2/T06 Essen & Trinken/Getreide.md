@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Getreide
 
+![[Getreide.jpg]]
+
 ![[Getreide.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Getreide/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Getreide&language=de)

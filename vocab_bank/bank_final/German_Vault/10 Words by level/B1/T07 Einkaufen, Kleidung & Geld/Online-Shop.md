@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Online-Shop
 
+![[Online-Shop.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Online-Shop/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Online-Shop&language=de)
 
 **Meaning:** online shop

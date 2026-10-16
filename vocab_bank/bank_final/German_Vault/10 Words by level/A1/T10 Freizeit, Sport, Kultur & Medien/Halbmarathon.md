@@ -24,6 +24,8 @@ status: "new"
 
 ![[Halbmarathon.ogg]]
 
+![[Halbmarathon.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Halbmarathon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Halbmarathon&language=de)
 
 **Meaning:** half-marathon

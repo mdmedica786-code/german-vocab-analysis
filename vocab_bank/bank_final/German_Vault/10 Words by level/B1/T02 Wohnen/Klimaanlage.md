@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Klimaanlage
 
+![[Klimaanlage.jpg]]
+
 ![[Klimaanlage.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Klimaanlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klimaanlage&language=de)

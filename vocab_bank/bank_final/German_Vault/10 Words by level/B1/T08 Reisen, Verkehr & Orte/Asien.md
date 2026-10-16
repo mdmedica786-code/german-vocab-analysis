@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Asien
 
+![[Asien.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Asien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Asien&language=de)
 
 **Meaning:** Asia

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zuneigung.ogg]]
 
+![[Zuneigung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zuneigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zuneigung&language=de)
 
 **Meaning:** affection

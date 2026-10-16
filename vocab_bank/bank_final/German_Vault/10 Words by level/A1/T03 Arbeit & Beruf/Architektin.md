@@ -25,6 +25,8 @@ status: "new"
 
 ![[Architektin.ogg]]
 
+![[Architektin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Architektin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Architektin&language=de)
 
 **Meaning:** architect (f)

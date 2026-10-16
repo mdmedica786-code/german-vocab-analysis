@@ -23,6 +23,8 @@ status: "new"
 
 ![[Negation.ogg]]
 
+![[Negation.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Negation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Negation&language=de)
 
 **Meaning:** negation

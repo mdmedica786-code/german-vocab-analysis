@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bub.ogg]]
 
+![[Bub.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bub&language=de)
 
 **Meaning:** boy (S. German, Swiss, Austrian)

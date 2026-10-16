@@ -23,6 +23,8 @@ status: "new"
 
 ![[Diskurs.ogg]]
 
+![[Diskurs.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Diskurs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diskurs&language=de)
 
 **Meaning:** discourse

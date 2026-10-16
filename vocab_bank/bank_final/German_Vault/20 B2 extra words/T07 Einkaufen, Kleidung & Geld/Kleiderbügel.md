@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Kleiderbügel
 
+![[Kleiderbügel.jpg]]
+
 ![[Kleiderbügel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kleiderb%C3%BCgel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleiderb%C3%BCgel&language=de)

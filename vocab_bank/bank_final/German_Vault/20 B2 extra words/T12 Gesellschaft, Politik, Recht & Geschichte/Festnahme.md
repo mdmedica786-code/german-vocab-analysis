@@ -23,6 +23,8 @@ status: "new"
 
 ![[Festnahme.ogg]]
 
+![[Festnahme.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Festnahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Festnahme&language=de)
 
 **Meaning:** arrest

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Benzinverbrauch.ogg]]
 
+![[Benzinverbrauch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Benzinverbrauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Benzinverbrauch&language=de)
 
 **Meaning:** petrol consumption; fuel consumption

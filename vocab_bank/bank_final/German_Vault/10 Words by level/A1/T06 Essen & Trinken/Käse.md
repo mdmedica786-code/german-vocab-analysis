@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Käse
 
+![[Käse.jpg]]
+
 ![[Käse.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4se/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4se&language=de)

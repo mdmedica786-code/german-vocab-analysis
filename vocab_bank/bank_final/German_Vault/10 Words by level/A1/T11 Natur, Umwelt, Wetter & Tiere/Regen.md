@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Regen
 
+![[Regen.jpg]]
+
 ![[Regen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Regen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regen&language=de)

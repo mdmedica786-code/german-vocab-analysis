@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Augenbraue
 
+![[Augenbraue.jpg]]
+
 ![[Augenbraue.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Augenbraue/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Augenbraue&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Inserat.ogg]]
 
+![[Inserat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Inserat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Inserat&language=de)
 
 **Meaning:** advertisement; classified ad

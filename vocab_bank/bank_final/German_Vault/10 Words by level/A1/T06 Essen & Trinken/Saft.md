@@ -25,6 +25,8 @@ status: "new"
 
 ![[Saft.ogg]]
 
+![[Saft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Saft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Saft&language=de)
 
 **Meaning:** juice

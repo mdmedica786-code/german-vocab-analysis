@@ -25,6 +25,8 @@ status: "new"
 
 ![[Flüssigkeit.ogg]]
 
+![[Flüssigkeit.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fl%C3%BCssigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fl%C3%BCssigkeit&language=de)
 
 **Meaning:** fluid

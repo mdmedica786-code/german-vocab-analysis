@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kamin.ogg]]
 
+![[Kamin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kamin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kamin&language=de)
 
 **Meaning:** fireplace; chimney

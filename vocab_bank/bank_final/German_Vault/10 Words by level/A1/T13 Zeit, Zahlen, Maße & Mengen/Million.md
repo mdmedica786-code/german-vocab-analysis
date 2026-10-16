@@ -25,6 +25,8 @@ status: "new"
 
 ![[Million.ogg]]
 
+![[Million.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Million/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Million&language=de)
 
 **Meaning:** million

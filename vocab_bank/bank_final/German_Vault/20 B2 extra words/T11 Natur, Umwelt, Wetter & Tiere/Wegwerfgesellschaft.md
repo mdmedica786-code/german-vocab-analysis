@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wegwerfgesellschaft.ogg]]
 
+![[Wegwerfgesellschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wegwerfgesellschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wegwerfgesellschaft&language=de)
 
 **Meaning:** throwaway society

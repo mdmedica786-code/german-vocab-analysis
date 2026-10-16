@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Werkzeug
 
+![[Werkzeug.png]]
+
 ![[Werkzeug.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Werkzeug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werkzeug&language=de)

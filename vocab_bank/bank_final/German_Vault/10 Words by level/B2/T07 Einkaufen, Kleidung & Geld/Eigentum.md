@@ -23,6 +23,8 @@ status: "new"
 
 ![[Eigentum.ogg]]
 
+![[Eigentum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Eigentum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eigentum&language=de)
 
 **Meaning:** property

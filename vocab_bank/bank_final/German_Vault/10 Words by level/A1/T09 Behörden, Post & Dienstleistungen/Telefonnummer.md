@@ -24,6 +24,8 @@ status: "new"
 
 ![[Telefonnummer.ogg]]
 
+![[Telefonnummer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Telefonnummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Telefonnummer&language=de)
 
 **Meaning:** telephone number

@@ -24,6 +24,8 @@ status: "new"
 
 ![[ICE.ogg]]
 
+![[ICE.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ICE/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ICE&language=de)
 
 **Meaning:** ICE

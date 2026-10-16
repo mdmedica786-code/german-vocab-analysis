@@ -23,6 +23,8 @@ status: "new"
 
 ![[Veröffentlichung.ogg]]
 
+![[Veröffentlichung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ver%C3%B6ffentlichung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ver%C3%B6ffentlichung&language=de)
 
 **Meaning:** publication

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Versicherungsnummer
 
+![[Versicherungsnummer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Versicherungsnummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versicherungsnummer&language=de)
 
 **Meaning:** insurance number

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sicherheitsgurt.ogg]]
 
+![[Sicherheitsgurt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sicherheitsgurt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sicherheitsgurt&language=de)
 
 **Meaning:** seat belt

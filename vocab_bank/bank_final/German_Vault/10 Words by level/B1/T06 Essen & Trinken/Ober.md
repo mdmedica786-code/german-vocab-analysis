@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ober.ogg]]
 
+![[Ober.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ober/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ober&language=de)
 
 **Meaning:** waiter

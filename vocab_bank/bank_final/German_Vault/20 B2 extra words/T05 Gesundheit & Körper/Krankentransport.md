@@ -23,6 +23,8 @@ status: "new"
 
 ![[Krankentransport.ogg]]
 
+![[Krankentransport.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krankentransport/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankentransport&language=de)
 
 **Meaning:** patient transport; ambulance transport

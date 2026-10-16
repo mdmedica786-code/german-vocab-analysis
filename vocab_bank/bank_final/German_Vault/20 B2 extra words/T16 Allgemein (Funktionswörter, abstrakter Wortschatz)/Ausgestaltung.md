@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ausgestaltung.ogg]]
 
+![[Ausgestaltung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ausgestaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausgestaltung&language=de)
 
 **Meaning:** design; shaping; arrangement

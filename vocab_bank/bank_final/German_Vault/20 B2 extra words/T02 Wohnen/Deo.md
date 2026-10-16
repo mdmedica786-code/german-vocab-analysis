@@ -23,6 +23,8 @@ status: "new"
 
 ![[Deo.ogg]]
 
+![[Deo.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Deo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Deo&language=de)
 
 **Meaning:** deodorant

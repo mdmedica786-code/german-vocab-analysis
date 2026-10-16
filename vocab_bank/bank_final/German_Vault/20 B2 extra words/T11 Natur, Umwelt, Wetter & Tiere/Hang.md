@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hang.ogg]]
 
+![[Hang.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hang&language=de)
 
 **Meaning:** slope; tendency

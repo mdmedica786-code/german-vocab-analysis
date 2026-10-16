@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Gold
 
+![[Gold.jpg]]
+
 ![[Gold.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gold/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gold&language=de)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schuhladen.ogg]]
 
+![[Schuhladen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schuhladen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schuhladen&language=de)
 
 **Meaning:** shoe shop

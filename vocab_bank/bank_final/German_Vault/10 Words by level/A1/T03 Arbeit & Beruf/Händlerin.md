@@ -25,6 +25,8 @@ status: "new"
 
 ![[Händlerin.ogg]]
 
+![[Händlerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%A4ndlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%A4ndlerin&language=de)
 
 **Meaning:** merchant (f)

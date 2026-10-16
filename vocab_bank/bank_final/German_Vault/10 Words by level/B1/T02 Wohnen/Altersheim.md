@@ -24,6 +24,8 @@ status: "new"
 
 ![[Altersheim.ogg]]
 
+![[Altersheim.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Altersheim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altersheim&language=de)
 
 **Meaning:** old people's home

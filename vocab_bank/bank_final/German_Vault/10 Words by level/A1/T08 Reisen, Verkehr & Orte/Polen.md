@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Polen
 
+![[Polen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Polen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Polen&language=de)
 
 **Meaning:** Poland

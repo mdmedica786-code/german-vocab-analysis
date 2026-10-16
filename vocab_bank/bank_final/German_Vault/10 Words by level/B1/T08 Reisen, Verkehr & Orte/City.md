@@ -24,6 +24,8 @@ status: "new"
 
 ![[City.ogg]]
 
+![[City.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/City/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=City&language=de)
 
 **Meaning:** city centre; city

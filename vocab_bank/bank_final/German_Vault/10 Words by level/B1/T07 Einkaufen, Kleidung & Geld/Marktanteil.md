@@ -24,6 +24,8 @@ status: "new"
 
 ![[Marktanteil.ogg]]
 
+![[Marktanteil.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Marktanteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marktanteil&language=de)
 
 **Meaning:** market share

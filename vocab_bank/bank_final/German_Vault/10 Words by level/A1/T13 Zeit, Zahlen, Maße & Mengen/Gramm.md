@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gramm.ogg]]
 
+![[Gramm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gramm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gramm&language=de)
 
 **Meaning:** gram

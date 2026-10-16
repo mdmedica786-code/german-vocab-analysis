@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Fernseher
 
+![[Fernseher.jpg]]
+
 ![[Fernseher.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fernseher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fernseher&language=de)

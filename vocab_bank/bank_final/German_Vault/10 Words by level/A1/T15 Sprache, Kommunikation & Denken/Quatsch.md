@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Quatsch
 
+![[Quatsch.png]]
+
 ![[Quatsch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Quatsch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Quatsch&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Telefon.ogg]]
 
+![[Telefon.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Telefon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Telefon&language=de)
 
 **Meaning:** telephone

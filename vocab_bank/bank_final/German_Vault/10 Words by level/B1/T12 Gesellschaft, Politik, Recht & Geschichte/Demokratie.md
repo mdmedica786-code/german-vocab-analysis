@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Demokratie
 
+![[Demokratie.png]]
+
 ![[Demokratie.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Demokratie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Demokratie&language=de)

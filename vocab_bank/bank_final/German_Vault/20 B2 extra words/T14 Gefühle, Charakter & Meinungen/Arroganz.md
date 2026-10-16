@@ -23,6 +23,8 @@ status: "new"
 
 ![[Arroganz.ogg]]
 
+![[Arroganz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arroganz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arroganz&language=de)
 
 **Meaning:** arrogance

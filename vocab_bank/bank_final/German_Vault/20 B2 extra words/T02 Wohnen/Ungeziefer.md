@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ungeziefer.ogg]]
 
+![[Ungeziefer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ungeziefer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ungeziefer&language=de)
 
 **Meaning:** vermin; pests

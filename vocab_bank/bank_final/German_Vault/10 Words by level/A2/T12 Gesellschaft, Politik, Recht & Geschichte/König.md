@@ -25,6 +25,8 @@ status: "new"
 
 ![[König.ogg]]
 
+![[König.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%B6nig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%B6nig&language=de)
 
 **Meaning:** king

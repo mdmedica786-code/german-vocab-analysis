@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Pfannkuchen
 
+![[Pfannkuchen.jpg]]
+
 ![[Pfannkuchen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Pfannkuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfannkuchen&language=de)

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Debatte
 
+![[Debatte.jpg]]
+
 ![[Debatte.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Debatte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Debatte&language=de)

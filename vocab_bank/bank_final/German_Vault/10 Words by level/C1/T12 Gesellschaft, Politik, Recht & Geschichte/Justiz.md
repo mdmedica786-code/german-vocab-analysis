@@ -23,6 +23,8 @@ status: "new"
 
 ![[Justiz.ogg]]
 
+![[Justiz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Justiz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Justiz&language=de)
 
 **Meaning:** judiciary; justice system

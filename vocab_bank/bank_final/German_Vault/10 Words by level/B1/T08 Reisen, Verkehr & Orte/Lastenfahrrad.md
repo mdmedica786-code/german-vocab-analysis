@@ -24,6 +24,8 @@ status: "new"
 
 ![[Lastenfahrrad.ogg]]
 
+![[Lastenfahrrad.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lastenfahrrad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lastenfahrrad&language=de)
 
 **Meaning:** freight bicycle

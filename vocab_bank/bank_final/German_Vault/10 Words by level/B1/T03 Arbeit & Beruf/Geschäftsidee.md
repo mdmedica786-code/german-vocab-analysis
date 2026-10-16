@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Geschäftsidee
 
+![[Geschäftsidee.png]]
+
 ![[Geschäftsidee.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gesch%C3%A4ftsidee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesch%C3%A4ftsidee&language=de)

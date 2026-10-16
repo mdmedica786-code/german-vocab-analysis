@@ -25,6 +25,8 @@ status: "new"
 
 ![[Brötchen.ogg]]
 
+![[Brötchen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Br%C3%B6tchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Br%C3%B6tchen&language=de)
 
 **Meaning:** bread roll

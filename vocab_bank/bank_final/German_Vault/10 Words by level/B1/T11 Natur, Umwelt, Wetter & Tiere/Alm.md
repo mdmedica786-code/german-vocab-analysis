@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Alm
 
+![[Alm.jpg]]
+
 ![[Alm.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Alm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alm&language=de)

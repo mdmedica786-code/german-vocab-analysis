@@ -23,6 +23,8 @@ status: "new"
 
 ![[Anleger.ogg]]
 
+![[Anleger.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anleger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anleger&language=de)
 
 **Meaning:** investor

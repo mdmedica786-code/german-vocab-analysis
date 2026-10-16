@@ -25,6 +25,8 @@ status: "new"
 
 ![[Briefkasten.ogg]]
 
+![[Briefkasten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Briefkasten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Briefkasten&language=de)
 
 **Meaning:** mailbox

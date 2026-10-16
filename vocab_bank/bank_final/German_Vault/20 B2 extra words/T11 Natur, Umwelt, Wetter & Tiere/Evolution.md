@@ -23,6 +23,8 @@ status: "new"
 
 ![[Evolution.ogg]]
 
+![[Evolution.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Evolution/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Evolution&language=de)
 
 **Meaning:** evolution

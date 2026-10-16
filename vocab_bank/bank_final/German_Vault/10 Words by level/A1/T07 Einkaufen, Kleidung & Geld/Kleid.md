@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Kleid
 
+![[Kleid.jpg]]
+
 ![[Kleid.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kleid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleid&language=de)

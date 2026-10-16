@@ -24,6 +24,8 @@ status: "new"
 
 ![[Luxemburgerin.ogg]]
 
+![[Luxemburgerin.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Luxemburgerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luxemburgerin&language=de)
 
 **Meaning:** Luxembourger (f)

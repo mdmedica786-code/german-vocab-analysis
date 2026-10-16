@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lektüre.ogg]]
 
+![[Lektüre.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lekt%C3%BCre/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lekt%C3%BCre&language=de)
 
 **Meaning:** reading; reading matter

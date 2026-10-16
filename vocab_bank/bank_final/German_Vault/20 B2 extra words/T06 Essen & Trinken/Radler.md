@@ -23,6 +23,8 @@ status: "new"
 
 ![[Radler.ogg]]
 
+![[Radler.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Radler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radler&language=de)
 
 **Meaning:** shandy (beer and lemonade)

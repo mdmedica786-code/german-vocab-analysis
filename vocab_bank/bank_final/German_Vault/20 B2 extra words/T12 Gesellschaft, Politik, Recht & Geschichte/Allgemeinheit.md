@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Allgemeinheit
 
+![[Allgemeinheit.jpg]]
+
 ![[Allgemeinheit.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Allgemeinheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Allgemeinheit&language=de)

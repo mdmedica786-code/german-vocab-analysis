@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gebet.ogg]]
 
+![[Gebet.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gebet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gebet&language=de)
 
 **Meaning:** prayer

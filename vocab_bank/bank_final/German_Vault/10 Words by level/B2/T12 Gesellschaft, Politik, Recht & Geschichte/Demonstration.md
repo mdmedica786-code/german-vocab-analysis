@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Demonstration
 
+![[Demonstration.jpg]]
+
 ![[Demonstration.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Demonstration/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Demonstration&language=de)

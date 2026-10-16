@@ -25,6 +25,8 @@ status: "new"
 
 ![[Rock.ogg]]
 
+![[Rock.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rock/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rock&language=de)
 
 **Meaning:** skirt; rock (music)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Segel.ogg]]
 
+![[Segel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Segel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Segel&language=de)
 
 **Meaning:** sail

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Bär
 
+![[Bär.jpg]]
+
 ![[Bär.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%A4r/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%A4r&language=de)

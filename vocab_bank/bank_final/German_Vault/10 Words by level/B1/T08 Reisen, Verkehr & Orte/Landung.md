@@ -24,6 +24,8 @@ status: "new"
 
 ![[Landung.ogg]]
 
+![[Landung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Landung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Landung&language=de)
 
 **Meaning:** landing

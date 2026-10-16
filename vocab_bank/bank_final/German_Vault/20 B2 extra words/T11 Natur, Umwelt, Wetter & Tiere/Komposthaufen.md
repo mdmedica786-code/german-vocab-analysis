@@ -23,6 +23,8 @@ status: "new"
 
 ![[Komposthaufen.ogg]]
 
+![[Komposthaufen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Komposthaufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Komposthaufen&language=de)
 
 **Meaning:** compost heap

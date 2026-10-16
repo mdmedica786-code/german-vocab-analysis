@@ -25,6 +25,8 @@ status: "new"
 
 ![[Schmerzmittel.ogg]]
 
+![[Schmerzmittel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schmerzmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schmerzmittel&language=de)
 
 **Meaning:** pain killer

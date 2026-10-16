@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Fachwerkhaus
 
+![[Fachwerkhaus.jpg]]
+
 ![[Fachwerkhaus.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fachwerkhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachwerkhaus&language=de)

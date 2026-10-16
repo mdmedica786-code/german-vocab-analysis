@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Meer
 
+![[Meer.png]]
+
 ![[Meer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Meer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meer&language=de)

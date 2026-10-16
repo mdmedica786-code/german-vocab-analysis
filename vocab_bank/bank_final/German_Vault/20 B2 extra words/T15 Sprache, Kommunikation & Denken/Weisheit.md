@@ -23,6 +23,8 @@ status: "new"
 
 ![[Weisheit.ogg]]
 
+![[Weisheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Weisheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weisheit&language=de)
 
 **Meaning:** wisdom

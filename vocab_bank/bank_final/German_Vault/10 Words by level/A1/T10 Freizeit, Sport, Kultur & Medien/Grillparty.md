@@ -24,6 +24,8 @@ status: "new"
 
 ![[Grillparty.ogg]]
 
+![[Grillparty.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Grillparty/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grillparty&language=de)
 
 **Meaning:** barbecue

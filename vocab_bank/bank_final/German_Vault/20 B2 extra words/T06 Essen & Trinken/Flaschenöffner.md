@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Flaschenöffner
 
+![[Flaschenöffner.jpg]]
+
 ![[Flaschenöffner.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Flaschen%C3%B6ffner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flaschen%C3%B6ffner&language=de)

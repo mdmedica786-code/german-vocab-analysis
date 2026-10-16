@@ -25,6 +25,8 @@ status: "new"
 
 ![[Nachbar.ogg]]
 
+![[Nachbar.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachbar&language=de)
 
 **Meaning:** neighbour (m)

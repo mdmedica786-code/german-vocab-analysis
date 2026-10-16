@@ -25,6 +25,8 @@ status: "new"
 
 ![[Sprechstunde.ogg]]
 
+![[Sprechstunde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sprechstunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprechstunde&language=de)
 
 **Meaning:** consulting hours

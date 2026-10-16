@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sitzung.ogg]]
 
+![[Sitzung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sitzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sitzung&language=de)
 
 **Meaning:** meeting; session

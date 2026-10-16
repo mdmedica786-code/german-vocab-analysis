@@ -23,6 +23,8 @@ status: "new"
 
 ![[Großdruck.ogg]]
 
+![[Großdruck.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gro%C3%9Fdruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gro%C3%9Fdruck&language=de)
 
 **Meaning:** large print

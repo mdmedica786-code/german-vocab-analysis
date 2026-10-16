@@ -24,6 +24,8 @@ status: "new"
 
 ![[Einwegflasche.ogg]]
 
+![[Einwegflasche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einwegflasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einwegflasche&language=de)
 
 **Meaning:** disposable bottle

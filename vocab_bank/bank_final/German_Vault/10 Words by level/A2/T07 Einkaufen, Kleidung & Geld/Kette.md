@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kette.ogg]]
 
+![[Kette.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kette&language=de)
 
 **Meaning:** necklace

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Porträt.ogg]]
 
+![[Porträt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Portr%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Portr%C3%A4t&language=de)
 
 **Meaning:** portrait

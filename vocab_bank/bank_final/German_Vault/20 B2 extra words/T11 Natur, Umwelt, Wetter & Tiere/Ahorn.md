@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ahorn.ogg]]
 
+![[Ahorn.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ahorn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ahorn&language=de)
 
 **Meaning:** maple

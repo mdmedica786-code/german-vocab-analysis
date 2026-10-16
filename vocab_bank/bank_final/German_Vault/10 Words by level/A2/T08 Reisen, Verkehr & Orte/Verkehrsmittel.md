@@ -25,6 +25,8 @@ status: "new"
 
 ![[Verkehrsmittel.ogg]]
 
+![[Verkehrsmittel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verkehrsmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrsmittel&language=de)
 
 **Meaning:** means of transport

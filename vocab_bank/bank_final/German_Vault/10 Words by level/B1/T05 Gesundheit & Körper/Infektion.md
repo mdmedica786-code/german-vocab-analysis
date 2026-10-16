@@ -24,6 +24,8 @@ status: "new"
 
 ![[Infektion.ogg]]
 
+![[Infektion.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Infektion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Infektion&language=de)
 
 **Meaning:** infection

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bescheinigung.ogg]]
 
+![[Bescheinigung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bescheinigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bescheinigung&language=de)
 
 **Meaning:** certificate

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Folie
 
+![[Folie.jpg]]
+
 ![[Folie.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Folie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Folie&language=de)

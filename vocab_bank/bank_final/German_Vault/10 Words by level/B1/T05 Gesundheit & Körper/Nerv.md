@@ -24,6 +24,8 @@ status: "new"
 
 ![[Nerv.ogg]]
 
+![[Nerv.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nerv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nerv&language=de)
 
 **Meaning:** nerve

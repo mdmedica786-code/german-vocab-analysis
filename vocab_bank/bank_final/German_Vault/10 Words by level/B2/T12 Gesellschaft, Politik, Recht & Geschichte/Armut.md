@@ -23,6 +23,8 @@ status: "new"
 
 ![[Armut.ogg]]
 
+![[Armut.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Armut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Armut&language=de)
 
 **Meaning:** poverty

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Deckel.ogg]]
 
+![[Deckel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Deckel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Deckel&language=de)
 
 **Meaning:** lid

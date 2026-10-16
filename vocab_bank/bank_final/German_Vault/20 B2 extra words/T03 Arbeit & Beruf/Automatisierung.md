@@ -23,6 +23,8 @@ status: "new"
 
 ![[Automatisierung.ogg]]
 
+![[Automatisierung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Automatisierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Automatisierung&language=de)
 
 **Meaning:** automation

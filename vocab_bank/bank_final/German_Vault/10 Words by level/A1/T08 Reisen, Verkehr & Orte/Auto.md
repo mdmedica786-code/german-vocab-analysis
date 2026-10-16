@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Auto
 
+![[Auto.jpg]]
+
 ![[Auto.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Auto/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auto&language=de)

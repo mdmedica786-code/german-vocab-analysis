@@ -25,6 +25,8 @@ status: "new"
 
 ![[Bedienungsanleitung.ogg]]
 
+![[Bedienungsanleitung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bedienungsanleitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bedienungsanleitung&language=de)
 
 **Meaning:** instruction manual

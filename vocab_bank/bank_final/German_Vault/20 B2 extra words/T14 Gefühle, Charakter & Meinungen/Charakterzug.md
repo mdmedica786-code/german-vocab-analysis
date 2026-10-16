@@ -23,6 +23,8 @@ status: "new"
 
 ![[Charakterzug.ogg]]
 
+![[Charakterzug.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Charakterzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Charakterzug&language=de)
 
 **Meaning:** character trait

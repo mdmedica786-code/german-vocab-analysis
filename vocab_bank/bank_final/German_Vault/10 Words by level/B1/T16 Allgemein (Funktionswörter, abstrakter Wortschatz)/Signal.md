@@ -24,6 +24,8 @@ status: "new"
 
 ![[Signal.ogg]]
 
+![[Signal.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Signal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Signal&language=de)
 
 **Meaning:** signal

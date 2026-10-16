@@ -23,6 +23,8 @@ status: "new"
 
 ![[Erleichterung.ogg]]
 
+![[Erleichterung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erleichterung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erleichterung&language=de)
 
 **Meaning:** relief

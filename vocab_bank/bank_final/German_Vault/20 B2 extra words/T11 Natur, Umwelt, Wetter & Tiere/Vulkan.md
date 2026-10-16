@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Vulkan
 
+![[Vulkan.jpg]]
+
 ![[Vulkan.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Vulkan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vulkan&language=de)

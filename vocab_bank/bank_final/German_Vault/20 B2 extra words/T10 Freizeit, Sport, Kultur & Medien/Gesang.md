@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gesang.ogg]]
 
+![[Gesang.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesang&language=de)
 
 **Meaning:** singing; song

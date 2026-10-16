@@ -24,6 +24,8 @@ status: "new"
 
 ![[Haushaltswaren.ogg]]
 
+![[Haushaltswaren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Haushaltswaren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haushaltswaren&language=de)
 
 **Meaning:** homewares

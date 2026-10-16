@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Zumba
 
+![[Zumba.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zumba/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zumba&language=de)
 
 **Meaning:** zumba

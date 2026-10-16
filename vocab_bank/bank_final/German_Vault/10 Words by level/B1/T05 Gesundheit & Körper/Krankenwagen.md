@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Krankenwagen
 
+![[Krankenwagen.jpg]]
+
 ![[Krankenwagen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Krankenwagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankenwagen&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zahlenschloss.ogg]]
 
+![[Zahlenschloss.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zahlenschloss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahlenschloss&language=de)
 
 **Meaning:** combination lock

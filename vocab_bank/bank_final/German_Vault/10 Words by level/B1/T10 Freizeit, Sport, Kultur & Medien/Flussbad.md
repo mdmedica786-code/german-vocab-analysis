@@ -24,6 +24,8 @@ status: "new"
 
 ![[Flussbad.ogg]]
 
+![[Flussbad.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Flussbad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flussbad&language=de)
 
 **Meaning:** river swimming pool

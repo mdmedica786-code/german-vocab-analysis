@@ -23,6 +23,8 @@ status: "new"
 
 ![[Daunenjacke.ogg]]
 
+![[Daunenjacke.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Daunenjacke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Daunenjacke&language=de)
 
 **Meaning:** down jacket

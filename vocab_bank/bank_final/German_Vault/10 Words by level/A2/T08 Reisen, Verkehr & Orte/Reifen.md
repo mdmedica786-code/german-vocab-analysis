@@ -25,6 +25,8 @@ status: "new"
 
 ![[reifen.ogg]]
 
+![[Reifen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reifen&language=de)
 
 **Meaning:** tyre

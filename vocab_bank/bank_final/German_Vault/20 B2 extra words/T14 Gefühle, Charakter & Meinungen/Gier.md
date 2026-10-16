@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gier.ogg]]
 
+![[Gier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gier&language=de)
 
 **Meaning:** greed

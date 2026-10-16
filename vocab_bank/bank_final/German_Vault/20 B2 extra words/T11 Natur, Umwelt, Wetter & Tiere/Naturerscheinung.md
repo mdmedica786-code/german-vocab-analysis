@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Naturerscheinung
 
+![[Naturerscheinung.jpg]]
+
 ![[Naturerscheinung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Naturerscheinung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Naturerscheinung&language=de)

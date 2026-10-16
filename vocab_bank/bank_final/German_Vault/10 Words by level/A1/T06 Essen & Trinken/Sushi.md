@@ -24,6 +24,8 @@ status: "new"
 
 ![[Sushi.ogg]]
 
+![[Sushi.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sushi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sushi&language=de)
 
 **Meaning:** sushi

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Arbeitsweg.ogg]]
 
+![[Arbeitsweg.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitsweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsweg&language=de)
 
 **Meaning:** way to work; commute

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Tischdecke
 
+![[Tischdecke.jpg]]
+
 ![[Tischdecke.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tischdecke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tischdecke&language=de)

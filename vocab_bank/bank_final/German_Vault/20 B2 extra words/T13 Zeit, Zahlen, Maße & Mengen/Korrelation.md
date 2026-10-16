@@ -23,6 +23,8 @@ status: "new"
 
 ![[Korrelation.ogg]]
 
+![[Korrelation.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Korrelation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Korrelation&language=de)
 
 **Meaning:** correlation

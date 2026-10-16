@@ -23,6 +23,8 @@ status: "new"
 
 ![[Anprobe.ogg]]
 
+![[Anprobe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anprobe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anprobe&language=de)
 
 **Meaning:** fitting; trying on

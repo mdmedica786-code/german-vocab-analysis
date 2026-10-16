@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Betrieb
 
+![[Betrieb.jpg]]
+
 ![[Betrieb.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Betrieb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betrieb&language=de)

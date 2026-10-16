@@ -24,6 +24,8 @@ status: "new"
 
 ![[Nebenkosten.ogg]]
 
+![[Nebenkosten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nebenkosten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nebenkosten&language=de)
 
 **Meaning:** utilities

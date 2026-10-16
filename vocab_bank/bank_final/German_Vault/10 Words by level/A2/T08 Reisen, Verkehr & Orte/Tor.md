@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tor.ogg]]
 
+![[Tor.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tor&language=de)
 
 **Meaning:** gate; goal

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kopierer.ogg]]
 
+![[Kopierer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kopierer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kopierer&language=de)
 
 **Meaning:** photocopier

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Versicherungsvertreter.ogg]]
 
+![[Versicherungsvertreter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Versicherungsvertreter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versicherungsvertreter&language=de)
 
 **Meaning:** insurance agent

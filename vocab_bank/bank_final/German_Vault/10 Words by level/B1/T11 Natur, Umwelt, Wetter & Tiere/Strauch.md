@@ -24,6 +24,8 @@ status: "new"
 
 ![[Strauch.ogg]]
 
+![[Strauch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Strauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strauch&language=de)
 
 **Meaning:** bush

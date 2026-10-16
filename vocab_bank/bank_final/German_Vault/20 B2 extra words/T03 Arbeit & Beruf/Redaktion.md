@@ -23,6 +23,8 @@ status: "new"
 
 ![[Redaktion.ogg]]
 
+![[Redaktion.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Redaktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Redaktion&language=de)
 
 **Meaning:** editorial office; editorial staff

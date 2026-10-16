@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kanne.ogg]]
 
+![[Kanne.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kanne&language=de)
 
 **Meaning:** jug; pot

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Haustür.ogg]]
 
+![[Haustür.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Haust%C3%BCr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haust%C3%BCr&language=de)
 
 **Meaning:** front door

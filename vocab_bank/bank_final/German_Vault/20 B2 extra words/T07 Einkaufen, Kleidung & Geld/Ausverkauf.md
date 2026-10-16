@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Ausverkauf
 
+![[Ausverkauf.jpg]]
+
 ![[Ausverkauf.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Ausverkauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausverkauf&language=de)

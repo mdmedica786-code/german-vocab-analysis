@@ -25,6 +25,8 @@ status: "new"
 
 ![[Student.ogg]]
 
+![[Student.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Student/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Student&language=de)
 
 **Meaning:** student (m)

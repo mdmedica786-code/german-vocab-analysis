@@ -23,6 +23,8 @@ status: "new"
 
 ![[Erdbeere.ogg]]
 
+![[Erdbeere.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erdbeere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erdbeere&language=de)
 
 **Meaning:** strawberry

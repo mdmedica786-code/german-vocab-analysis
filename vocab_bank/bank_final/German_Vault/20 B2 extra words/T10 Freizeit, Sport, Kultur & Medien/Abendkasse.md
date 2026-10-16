@@ -23,6 +23,8 @@ status: "new"
 
 ![[Abendkasse.ogg]]
 
+![[Abendkasse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abendkasse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abendkasse&language=de)
 
 **Meaning:** box office (on the evening); tickets at the door

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Haken
 
+![[Haken.jpg]]
+
 ![[Haken.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Haken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haken&language=de)

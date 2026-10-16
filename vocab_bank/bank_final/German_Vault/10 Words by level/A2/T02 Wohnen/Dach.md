@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Dach
 
+![[Dach.jpg]]
+
 ![[Dach.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Dach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dach&language=de)

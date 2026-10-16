@@ -25,6 +25,8 @@ status: "new"
 
 ![[Liter.ogg]]
 
+![[Liter.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Liter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Liter&language=de)
 
 **Meaning:** litre

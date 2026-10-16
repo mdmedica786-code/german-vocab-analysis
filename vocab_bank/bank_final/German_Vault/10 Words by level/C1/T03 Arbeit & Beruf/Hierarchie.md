@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hierarchie.ogg]]
 
+![[Hierarchie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hierarchie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hierarchie&language=de)
 
 **Meaning:** hierarchy

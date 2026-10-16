@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Schlüssel
 
+![[Schlüssel.jpg]]
+
 ![[Schlüssel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schl%C3%BCssel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schl%C3%BCssel&language=de)

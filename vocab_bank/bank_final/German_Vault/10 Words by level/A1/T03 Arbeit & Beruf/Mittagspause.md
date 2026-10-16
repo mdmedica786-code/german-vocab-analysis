@@ -24,6 +24,8 @@ status: "new"
 
 ![[Mittagspause.ogg]]
 
+![[Mittagspause.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mittagspause/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittagspause&language=de)
 
 **Meaning:** lunch break

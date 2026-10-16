@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Plusquamperfekt
 
+![[Plusquamperfekt.png]]
+
 ![[Plusquamperfekt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Plusquamperfekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Plusquamperfekt&language=de)

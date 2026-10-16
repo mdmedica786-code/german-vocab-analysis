@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gewissen.ogg]]
 
+![[Gewissen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gewissen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewissen&language=de)
 
 **Meaning:** conscience

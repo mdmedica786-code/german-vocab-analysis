@@ -25,6 +25,8 @@ status: "new"
 
 ![[Rechnung.ogg]]
 
+![[Rechnung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rechnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechnung&language=de)
 
 **Meaning:** bill

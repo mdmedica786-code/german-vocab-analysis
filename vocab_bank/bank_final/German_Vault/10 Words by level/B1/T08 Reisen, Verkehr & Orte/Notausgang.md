@@ -25,6 +25,8 @@ status: "new"
 
 ![[Notausgang.ogg]]
 
+![[Notausgang.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Notausgang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notausgang&language=de)
 
 **Meaning:** emergency exit

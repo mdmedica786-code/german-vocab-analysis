@@ -24,6 +24,8 @@ status: "new"
 
 ![[Café.ogg]]
 
+![[Café.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Caf%C3%A9/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Caf%C3%A9&language=de)
 
 **Meaning:** cafe

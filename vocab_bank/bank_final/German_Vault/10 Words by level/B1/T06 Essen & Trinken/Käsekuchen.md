@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Käsekuchen
 
+![[Käsekuchen.jpg]]
+
 ![[Käsekuchen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4sekuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4sekuchen&language=de)

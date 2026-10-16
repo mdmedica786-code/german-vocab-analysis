@@ -25,6 +25,8 @@ status: "new"
 
 ![[Rucksack.ogg]]
 
+![[Rucksack.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rucksack/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rucksack&language=de)
 
 **Meaning:** backpack

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Brasilien
 
+![[Brasilien.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Brasilien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brasilien&language=de)
 
 **Meaning:** Brazil

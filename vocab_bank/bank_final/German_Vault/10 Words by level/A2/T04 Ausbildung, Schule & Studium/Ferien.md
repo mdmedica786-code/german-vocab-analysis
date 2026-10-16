@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Ferien
 
+![[Ferien.jpg]]
+
 ![[Ferien.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Ferien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ferien&language=de)

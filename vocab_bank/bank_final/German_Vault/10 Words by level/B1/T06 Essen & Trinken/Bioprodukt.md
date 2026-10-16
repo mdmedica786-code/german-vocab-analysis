@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bioprodukt.ogg]]
 
+![[Bioprodukt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bioprodukt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bioprodukt&language=de)
 
 **Meaning:** organic product

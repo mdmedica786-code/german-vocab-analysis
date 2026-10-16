@@ -25,6 +25,8 @@ status: "new"
 
 ![[Webseite.ogg]]
 
+![[Webseite.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Webseite/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Webseite&language=de)
 
 **Meaning:** website

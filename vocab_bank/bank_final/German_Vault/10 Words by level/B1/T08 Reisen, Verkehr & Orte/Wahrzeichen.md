@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wahrzeichen.ogg]]
 
+![[Wahrzeichen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wahrzeichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahrzeichen&language=de)
 
 **Meaning:** landmark

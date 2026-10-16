@@ -23,6 +23,8 @@ status: "new"
 
 ![[Photovoltaik.ogg]]
 
+![[Photovoltaik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Photovoltaik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Photovoltaik&language=de)
 
 **Meaning:** photovoltaics

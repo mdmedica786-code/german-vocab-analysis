@@ -24,6 +24,8 @@ status: "new"
 
 ![[Autobiografie.ogg]]
 
+![[Autobiografie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Autobiografie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autobiografie&language=de)
 
 **Meaning:** autobiography

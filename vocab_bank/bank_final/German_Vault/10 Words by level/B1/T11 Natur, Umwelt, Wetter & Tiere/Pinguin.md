@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Pinguin
 
+![[Pinguin.jpg]]
+
 ![[Pinguin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Pinguin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pinguin&language=de)

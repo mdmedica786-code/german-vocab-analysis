@@ -25,6 +25,8 @@ status: "new"
 
 ![[Heimat.ogg]]
 
+![[Heimat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Heimat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heimat&language=de)
 
 **Meaning:** home

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Bundesverfassungsgericht
 
+![[Bundesverfassungsgericht.jpg]]
+
 ![[Bundesverfassungsgericht.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bundesverfassungsgericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundesverfassungsgericht&language=de)

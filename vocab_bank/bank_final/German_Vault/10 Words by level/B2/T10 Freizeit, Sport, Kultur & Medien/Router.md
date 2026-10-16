@@ -23,6 +23,8 @@ status: "new"
 
 ![[Router.ogg]]
 
+![[Router.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Router/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Router&language=de)
 
 **Meaning:** router

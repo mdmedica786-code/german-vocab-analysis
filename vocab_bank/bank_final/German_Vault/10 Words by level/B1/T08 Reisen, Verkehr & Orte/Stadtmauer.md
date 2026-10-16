@@ -24,6 +24,8 @@ status: "new"
 
 ![[Stadtmauer.ogg]]
 
+![[Stadtmauer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stadtmauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtmauer&language=de)
 
 **Meaning:** city wall

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Türkin.ogg]]
 
+![[Türkin.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/T%C3%BCrkin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%BCrkin&language=de)
 
 **Meaning:** Turkish woman

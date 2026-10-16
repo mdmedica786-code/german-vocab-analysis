@@ -23,6 +23,8 @@ status: "new"
 
 ![[Asthma.ogg]]
 
+![[Asthma.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Asthma/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Asthma&language=de)
 
 **Meaning:** asthma

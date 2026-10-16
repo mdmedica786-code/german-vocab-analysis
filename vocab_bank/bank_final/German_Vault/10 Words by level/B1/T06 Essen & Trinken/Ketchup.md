@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # Ketchup
 
+![[Ketchup.jpg]]
+
 ![[Ketchup.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Ketchup/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ketchup&language=de)

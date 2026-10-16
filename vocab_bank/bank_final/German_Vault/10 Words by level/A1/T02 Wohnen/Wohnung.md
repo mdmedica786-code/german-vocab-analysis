@@ -25,6 +25,8 @@ status: "new"
 
 ![[Wohnung.ogg]]
 
+![[Wohnung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wohnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnung&language=de)
 
 **Meaning:** flat

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kontinent.ogg]]
 
+![[Kontinent.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kontinent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontinent&language=de)
 
 **Meaning:** continent

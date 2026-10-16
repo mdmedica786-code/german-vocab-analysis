@@ -25,6 +25,8 @@ status: "new"
 
 ![[Motorrad.ogg]]
 
+![[Motorrad.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Motorrad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Motorrad&language=de)
 
 **Meaning:** motorcycle

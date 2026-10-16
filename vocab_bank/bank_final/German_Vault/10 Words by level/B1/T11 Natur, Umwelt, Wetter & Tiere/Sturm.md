@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Sturm
 
+![[Sturm.jpg]]
+
 ![[Sturm.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sturm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sturm&language=de)

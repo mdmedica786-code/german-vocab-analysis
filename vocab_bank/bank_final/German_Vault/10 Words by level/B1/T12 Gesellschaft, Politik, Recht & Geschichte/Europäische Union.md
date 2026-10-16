@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Europäische Union
 
+![[Europäische Union.png]]
+
 ![[Europäische Union.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Europ%C3%A4ische%20Union/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Europ%C3%A4ische%20Union&language=de)

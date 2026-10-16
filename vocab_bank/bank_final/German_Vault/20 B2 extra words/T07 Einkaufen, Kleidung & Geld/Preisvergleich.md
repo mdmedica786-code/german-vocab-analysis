@@ -23,6 +23,8 @@ status: "new"
 
 ![[Preisvergleich.ogg]]
 
+![[Preisvergleich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Preisvergleich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Preisvergleich&language=de)
 
 **Meaning:** price comparison

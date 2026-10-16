@@ -23,6 +23,8 @@ status: "new"
 
 ![[Einzelperson.ogg]]
 
+![[Einzelperson.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einzelperson/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einzelperson&language=de)
 
 **Meaning:** individual person

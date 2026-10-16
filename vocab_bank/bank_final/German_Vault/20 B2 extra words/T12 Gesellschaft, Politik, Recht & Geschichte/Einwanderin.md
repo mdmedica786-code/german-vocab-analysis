@@ -23,6 +23,8 @@ status: "new"
 
 ![[Einwanderin.ogg]]
 
+![[Einwanderin.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einwanderin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einwanderin&language=de)
 
 **Meaning:** immigrant (female)

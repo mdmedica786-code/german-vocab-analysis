@@ -24,6 +24,8 @@ status: "new"
 
 ![[Spaghetti.ogg]]
 
+![[Spaghetti.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spaghetti/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spaghetti&language=de)
 
 **Meaning:** spaghetti

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schwindel.ogg]]
 
+![[Schwindel.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schwindel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwindel&language=de)
 
 **Meaning:** dizziness; swindle

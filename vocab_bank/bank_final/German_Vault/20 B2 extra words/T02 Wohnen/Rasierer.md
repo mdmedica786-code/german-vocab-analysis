@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rasierer.ogg]]
 
+![[Rasierer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rasierer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rasierer&language=de)
 
 **Meaning:** razor; shaver

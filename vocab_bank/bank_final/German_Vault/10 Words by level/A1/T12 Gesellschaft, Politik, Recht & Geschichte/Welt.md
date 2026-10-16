@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Welt
 
+![[Welt.jpg]]
+
 ![[Welt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Welt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Welt&language=de)

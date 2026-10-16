@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Leben
 
+![[Leben.jpg]]
+
 ![[leben.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Leben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leben&language=de)

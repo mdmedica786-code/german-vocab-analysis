@@ -25,6 +25,8 @@ status: "new"
 
 ![[Detail.ogg]]
 
+![[Detail.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Detail/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Detail&language=de)
 
 **Meaning:** detail

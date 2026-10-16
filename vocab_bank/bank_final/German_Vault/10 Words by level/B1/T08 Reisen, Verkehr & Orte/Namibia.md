@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Namibia
 
+![[Namibia.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Namibia/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Namibia&language=de)
 
 **Meaning:** Namibia

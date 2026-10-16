@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lehrkraft.ogg]]
 
+![[Lehrkraft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lehrkraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lehrkraft&language=de)
 
 **Meaning:** teacher; member of teaching staff

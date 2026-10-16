@@ -23,6 +23,8 @@ status: "new"
 
 ![[Erfassung.ogg]]
 
+![[Erfassung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erfassung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erfassung&language=de)
 
 **Meaning:** recording; registration

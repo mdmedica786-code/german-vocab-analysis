@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hosentasche.ogg]]
 
+![[Hosentasche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hosentasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hosentasche&language=de)
 
 **Meaning:** trouser pocket

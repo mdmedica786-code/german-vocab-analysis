@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Maler
 
+![[Maler.jpg]]
+
 ![[Maler.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Maler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Maler&language=de)

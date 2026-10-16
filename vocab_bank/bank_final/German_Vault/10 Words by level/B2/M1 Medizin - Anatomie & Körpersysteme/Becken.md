@@ -23,6 +23,8 @@ status: "new"
 
 ![[Becken.ogg]]
 
+![[Becken.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Becken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Becken&language=de)
 
 **Meaning:** pelvis; basin

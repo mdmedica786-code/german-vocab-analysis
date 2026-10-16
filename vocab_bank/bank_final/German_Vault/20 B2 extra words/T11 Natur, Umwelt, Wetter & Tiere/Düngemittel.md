@@ -23,6 +23,8 @@ status: "new"
 
 ![[Düngemittel.ogg]]
 
+![[Düngemittel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/D%C3%BCngemittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=D%C3%BCngemittel&language=de)
 
 **Meaning:** fertiliser

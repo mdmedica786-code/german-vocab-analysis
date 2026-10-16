@@ -24,6 +24,8 @@ status: "new"
 
 ![[Budget.ogg]]
 
+![[Budget.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Budget/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Budget&language=de)
 
 **Meaning:** budget

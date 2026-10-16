@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der August
 
+![[August.jpg]]
+
 ![[August.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/August/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=August&language=de)

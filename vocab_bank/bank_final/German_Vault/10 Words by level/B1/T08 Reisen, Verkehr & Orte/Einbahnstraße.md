@@ -24,6 +24,8 @@ status: "new"
 
 ![[Einbahnstraße.ogg]]
 
+![[Einbahnstraße.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einbahnstra%C3%9Fe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einbahnstra%C3%9Fe&language=de)
 
 **Meaning:** one-way street

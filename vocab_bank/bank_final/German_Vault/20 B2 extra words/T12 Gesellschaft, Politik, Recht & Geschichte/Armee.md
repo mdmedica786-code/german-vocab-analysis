@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Armee
 
+![[Armee.png]]
+
 ![[Armee.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Armee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Armee&language=de)

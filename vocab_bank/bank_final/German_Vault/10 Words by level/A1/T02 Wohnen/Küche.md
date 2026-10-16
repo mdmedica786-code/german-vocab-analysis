@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Küche
 
+![[Küche.jpg]]
+
 ![[Küche.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%BCche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%BCche&language=de)

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Vorlesung
 
+![[Vorlesung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vorlesung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorlesung&language=de)
 
 **Meaning:** lecture

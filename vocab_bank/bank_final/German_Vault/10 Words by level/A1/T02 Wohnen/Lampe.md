@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Lampe
 
+![[Lampe.jpg]]
+
 ![[Lampe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Lampe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lampe&language=de)

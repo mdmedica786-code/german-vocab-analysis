@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kuchenform.ogg]]
 
+![[Kuchenform.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kuchenform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kuchenform&language=de)
 
 **Meaning:** cake tin

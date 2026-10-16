@@ -25,6 +25,8 @@ status: "new"
 
 ![[Speise.ogg]]
 
+![[Speise.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Speise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Speise&language=de)
 
 **Meaning:** food

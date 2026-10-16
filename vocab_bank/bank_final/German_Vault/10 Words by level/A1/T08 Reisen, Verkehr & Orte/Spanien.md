@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Spanien
 
+![[Spanien.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spanien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spanien&language=de)
 
 **Meaning:** Spain

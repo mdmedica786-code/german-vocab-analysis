@@ -24,6 +24,8 @@ status: "new"
 
 ![[Sonnenbrille.ogg]]
 
+![[Sonnenbrille.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sonnenbrille/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnenbrille&language=de)
 
 **Meaning:** sunglasses

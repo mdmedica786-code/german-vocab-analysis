@@ -24,6 +24,8 @@ status: "new"
 
 ![[Forumsbeitrag.ogg]]
 
+![[Forumsbeitrag.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Forumsbeitrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forumsbeitrag&language=de)
 
 **Meaning:** forum post

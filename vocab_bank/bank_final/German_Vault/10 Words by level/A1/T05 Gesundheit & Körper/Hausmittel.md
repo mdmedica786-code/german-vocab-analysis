@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hausmittel.ogg]]
 
+![[Hausmittel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hausmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausmittel&language=de)
 
 **Meaning:** home remedy

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Radiergummi.ogg]]
 
+![[Radiergummi.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Radiergummi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radiergummi&language=de)
 
 **Meaning:** rubber; eraser

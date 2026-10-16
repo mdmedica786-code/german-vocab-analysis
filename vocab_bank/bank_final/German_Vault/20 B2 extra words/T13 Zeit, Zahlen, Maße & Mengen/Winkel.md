@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Winkel
 
+![[Winkel.png]]
+
 ![[Winkel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Winkel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Winkel&language=de)

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Abwart
 
+![[Abwart.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abwart/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abwart&language=de)
 
 **Meaning:** caretaker (Swiss)

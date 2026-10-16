@@ -25,6 +25,8 @@ status: "new"
 
 ![[Zelt.ogg]]
 
+![[Zelt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zelt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zelt&language=de)
 
 **Meaning:** tent

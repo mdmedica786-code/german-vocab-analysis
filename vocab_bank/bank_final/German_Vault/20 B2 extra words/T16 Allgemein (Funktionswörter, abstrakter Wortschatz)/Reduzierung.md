@@ -23,6 +23,8 @@ status: "new"
 
 ![[Reduzierung.ogg]]
 
+![[Reduzierung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reduzierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reduzierung&language=de)
 
 **Meaning:** reduction; cutting back

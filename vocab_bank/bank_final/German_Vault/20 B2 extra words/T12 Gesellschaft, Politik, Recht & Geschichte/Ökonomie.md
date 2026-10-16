@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Ökonomie
 
+![[Ökonomie.jpg]]
+
 ![[Ökonomie.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%96konomie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%96konomie&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Schinken.ogg]]
 
+![[Schinken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schinken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schinken&language=de)
 
 **Meaning:** ham

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hendl.ogg]]
 
+![[Hendl.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hendl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hendl&language=de)
 
 **Meaning:** chicken (Austrian, Bavarian)

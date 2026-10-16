@@ -24,6 +24,8 @@ status: "new"
 
 ![[Vorvergangenheit.ogg]]
 
+![[Vorvergangenheit.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vorvergangenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorvergangenheit&language=de)
 
 **Meaning:** past perfect (pluperfect)

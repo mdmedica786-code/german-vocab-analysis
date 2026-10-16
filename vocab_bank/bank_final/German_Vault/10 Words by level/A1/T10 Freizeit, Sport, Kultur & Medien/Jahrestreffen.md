@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Jahrestreffen
 
+![[Jahrestreffen.jpg]]
+
 ![[Jahrestreffen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Jahrestreffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jahrestreffen&language=de)

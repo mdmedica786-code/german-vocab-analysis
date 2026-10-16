@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tulpe.ogg]]
 
+![[Tulpe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tulpe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tulpe&language=de)
 
 **Meaning:** tulip

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Innovation
 
+![[Innovation.jpg]]
+
 ![[Innovation.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Innovation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Innovation&language=de)

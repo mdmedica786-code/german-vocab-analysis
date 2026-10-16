@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schriftstellerin.ogg]]
 
+![[Schriftstellerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schriftstellerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schriftstellerin&language=de)
 
 **Meaning:** writer (f)

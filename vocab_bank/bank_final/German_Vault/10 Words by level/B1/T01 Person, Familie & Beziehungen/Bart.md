@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bart.ogg]]
 
+![[Bart.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bart/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bart&language=de)
 
 **Meaning:** beard

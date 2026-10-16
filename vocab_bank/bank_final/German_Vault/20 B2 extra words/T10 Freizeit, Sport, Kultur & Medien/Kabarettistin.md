@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kabarettistin.ogg]]
 
+![[Kabarettistin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kabarettistin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kabarettistin&language=de)
 
 **Meaning:** cabaret artist (female); satirist

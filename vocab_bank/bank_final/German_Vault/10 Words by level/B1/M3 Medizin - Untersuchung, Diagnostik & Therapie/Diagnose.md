@@ -24,6 +24,8 @@ status: "new"
 
 ![[Diagnose.ogg]]
 
+![[Diagnose.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Diagnose/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diagnose&language=de)
 
 **Meaning:** diagnosis

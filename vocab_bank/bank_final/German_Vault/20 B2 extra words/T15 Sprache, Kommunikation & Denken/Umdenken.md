@@ -23,6 +23,8 @@ status: "new"
 
 ![[Umdenken.ogg]]
 
+![[Umdenken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Umdenken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umdenken&language=de)
 
 **Meaning:** rethink; change of thinking

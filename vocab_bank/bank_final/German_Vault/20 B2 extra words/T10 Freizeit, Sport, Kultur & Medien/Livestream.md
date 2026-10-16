@@ -23,6 +23,8 @@ status: "new"
 
 ![[Livestream.ogg]]
 
+![[Livestream.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Livestream/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Livestream&language=de)
 
 **Meaning:** livestream

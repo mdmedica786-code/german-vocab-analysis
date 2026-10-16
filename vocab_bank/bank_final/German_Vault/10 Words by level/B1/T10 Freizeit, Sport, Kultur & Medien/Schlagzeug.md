@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Schlagzeug
 
+![[Schlagzeug.png]]
+
 ![[Schlagzeug.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schlagzeug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlagzeug&language=de)

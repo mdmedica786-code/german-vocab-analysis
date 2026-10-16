@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bürgerzentrum.ogg]]
 
+![[Bürgerzentrum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCrgerzentrum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCrgerzentrum&language=de)
 
 **Meaning:** community centre; civic centre

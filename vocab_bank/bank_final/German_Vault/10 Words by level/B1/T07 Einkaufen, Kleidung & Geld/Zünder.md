@@ -26,6 +26,8 @@ status: "new"
 
 ![[Zünder.ogg]]
 
+![[Zünder.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Z%C3%BCnder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Z%C3%BCnder&language=de)
 
 **Meaning:** matches (Austrian)

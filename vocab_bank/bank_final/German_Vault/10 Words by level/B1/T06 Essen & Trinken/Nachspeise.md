@@ -24,6 +24,8 @@ status: "new"
 
 ![[Nachspeise.ogg]]
 
+![[Nachspeise.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nachspeise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachspeise&language=de)
 
 **Meaning:** dessert

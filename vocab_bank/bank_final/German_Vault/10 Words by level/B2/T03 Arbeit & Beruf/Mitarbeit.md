@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mitarbeit.ogg]]
 
+![[Mitarbeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mitarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitarbeit&language=de)
 
 **Meaning:** cooperation; participation

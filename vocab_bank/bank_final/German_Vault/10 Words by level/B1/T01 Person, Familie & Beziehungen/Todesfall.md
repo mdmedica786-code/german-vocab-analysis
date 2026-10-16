@@ -24,6 +24,8 @@ status: "new"
 
 ![[Todesfall.ogg]]
 
+![[Todesfall.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Todesfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Todesfall&language=de)
 
 **Meaning:** death

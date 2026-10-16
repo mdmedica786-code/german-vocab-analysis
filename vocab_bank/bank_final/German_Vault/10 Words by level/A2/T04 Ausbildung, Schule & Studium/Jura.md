@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Jura
 
+![[Jura.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Jura/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jura&language=de)
 
 **Meaning:** law

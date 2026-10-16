@@ -23,6 +23,8 @@ status: "new"
 
 ![[Teamarbeit.ogg]]
 
+![[Teamarbeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Teamarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teamarbeit&language=de)
 
 **Meaning:** teamwork

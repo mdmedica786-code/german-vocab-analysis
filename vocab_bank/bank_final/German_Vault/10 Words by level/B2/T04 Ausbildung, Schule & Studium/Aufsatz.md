@@ -23,6 +23,8 @@ status: "new"
 
 ![[Aufsatz.ogg]]
 
+![[Aufsatz.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aufsatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufsatz&language=de)
 
 **Meaning:** essay

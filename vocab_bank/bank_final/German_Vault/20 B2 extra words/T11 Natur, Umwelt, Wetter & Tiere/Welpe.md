@@ -23,6 +23,8 @@ status: "new"
 
 ![[Welpe.ogg]]
 
+![[Welpe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Welpe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Welpe&language=de)
 
 **Meaning:** puppy

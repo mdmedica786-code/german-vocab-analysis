@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Mülleimer
 
+![[Mülleimer.png]]
+
 ![[Mülleimer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%BClleimer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BClleimer&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Passwort.ogg]]
 
+![[Passwort.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Passwort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Passwort&language=de)
 
 **Meaning:** password

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dozent.ogg]]
 
+![[Dozent.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dozent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dozent&language=de)
 
 **Meaning:** lecturer

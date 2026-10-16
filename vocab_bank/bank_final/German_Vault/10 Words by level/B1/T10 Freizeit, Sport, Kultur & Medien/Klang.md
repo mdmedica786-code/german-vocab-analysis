@@ -24,6 +24,8 @@ status: "new"
 
 ![[Klang.ogg]]
 
+![[Klang.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Klang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klang&language=de)
 
 **Meaning:** sound

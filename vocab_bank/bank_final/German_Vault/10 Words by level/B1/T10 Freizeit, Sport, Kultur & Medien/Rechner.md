@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Rechner
 
+![[Rechner.jpg]]
+
 ![[Rechner.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Rechner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechner&language=de)

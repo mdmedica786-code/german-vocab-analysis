@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Ausstellung
 
+![[Ausstellung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ausstellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausstellung&language=de)
 
 **Meaning:** exhibition

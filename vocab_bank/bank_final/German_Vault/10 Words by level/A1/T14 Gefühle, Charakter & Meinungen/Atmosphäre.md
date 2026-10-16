@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Atmosphäre
 
+![[Atmosphäre.jpg]]
+
 ![[Atmosphäre.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Atmosph%C3%A4re/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Atmosph%C3%A4re&language=de)

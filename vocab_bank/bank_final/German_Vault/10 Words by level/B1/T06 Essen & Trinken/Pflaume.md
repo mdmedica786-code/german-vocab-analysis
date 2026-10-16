@@ -25,6 +25,8 @@ status: "new"
 
 ![[Pflaume.ogg]]
 
+![[Pflaume.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pflaume/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflaume&language=de)
 
 **Meaning:** plum

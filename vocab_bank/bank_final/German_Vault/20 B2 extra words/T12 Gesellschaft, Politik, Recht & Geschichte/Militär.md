@@ -23,6 +23,8 @@ status: "new"
 
 ![[Militär.ogg]]
 
+![[Militär.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Milit%C3%A4r/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Milit%C3%A4r&language=de)
 
 **Meaning:** military; armed forces

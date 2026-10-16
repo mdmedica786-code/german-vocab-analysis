@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bucht.ogg]]
 
+![[Bucht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bucht&language=de)
 
 **Meaning:** bay; cove

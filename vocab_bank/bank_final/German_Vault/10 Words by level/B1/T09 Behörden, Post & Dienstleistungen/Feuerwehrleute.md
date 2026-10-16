@@ -24,6 +24,8 @@ status: "new"
 
 ![[Feuerwehrleute.ogg]]
 
+![[Feuerwehrleute.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Feuerwehrleute/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuerwehrleute&language=de)
 
 **Meaning:** firefighters

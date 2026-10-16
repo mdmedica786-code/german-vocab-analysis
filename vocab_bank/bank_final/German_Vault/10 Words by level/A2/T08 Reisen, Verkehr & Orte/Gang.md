@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gang.ogg]]
 
+![[Gang.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gang&language=de)
 
 **Meaning:** aisle; corridor; gait

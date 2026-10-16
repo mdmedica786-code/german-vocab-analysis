@@ -25,6 +25,8 @@ status: "new"
 
 ![[Zufall.ogg]]
 
+![[Zufall.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zufall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zufall&language=de)
 
 **Meaning:** coincidence

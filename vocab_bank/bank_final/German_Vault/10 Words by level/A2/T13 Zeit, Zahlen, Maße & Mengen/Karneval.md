@@ -24,6 +24,8 @@ status: "new"
 
 ![[Karneval.ogg]]
 
+![[Karneval.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Karneval/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Karneval&language=de)
 
 **Meaning:** carnival

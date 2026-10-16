@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Hallenbad
 
+![[Hallenbad.jpg]]
+
 ![[Hallenbad.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hallenbad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hallenbad&language=de)

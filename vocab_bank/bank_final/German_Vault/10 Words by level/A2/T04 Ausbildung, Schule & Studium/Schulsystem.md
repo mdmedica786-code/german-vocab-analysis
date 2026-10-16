@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Schulsystem
 
+![[Schulsystem.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schulsystem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulsystem&language=de)
 
 **Meaning:** school system

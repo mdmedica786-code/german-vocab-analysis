@@ -25,6 +25,8 @@ status: "new"
 
 ![[Mensa.ogg]]
 
+![[Mensa.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mensa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mensa&language=de)
 
 **Meaning:** canteen

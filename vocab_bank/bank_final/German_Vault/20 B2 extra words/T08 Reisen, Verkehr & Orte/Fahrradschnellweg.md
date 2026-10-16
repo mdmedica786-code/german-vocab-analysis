@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Fahrradschnellweg
 
+![[Fahrradschnellweg.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fahrradschnellweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrradschnellweg&language=de)
 
 **Meaning:** cycle superhighway; fast cycle route

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Botschaft.ogg]]
 
+![[Botschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Botschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Botschaft&language=de)
 
 **Meaning:** embassy; message

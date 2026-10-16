@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Tastatur
 
+![[Tastatur.jpg]]
+
 ![[Tastatur.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tastatur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tastatur&language=de)

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Rezept
 
+![[Rezept.jpg]]
+
 ![[Rezept.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Rezept/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rezept&language=de)

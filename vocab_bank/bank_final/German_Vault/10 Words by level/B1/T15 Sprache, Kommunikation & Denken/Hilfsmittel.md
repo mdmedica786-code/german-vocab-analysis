@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Hilfsmittel
 
+![[Hilfsmittel.png]]
+
 ![[Hilfsmittel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hilfsmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hilfsmittel&language=de)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Speisewagen.ogg]]
 
+![[Speisewagen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Speisewagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Speisewagen&language=de)
 
 **Meaning:** dining car

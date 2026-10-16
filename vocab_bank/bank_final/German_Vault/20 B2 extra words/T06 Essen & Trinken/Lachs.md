@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lachs.ogg]]
 
+![[Lachs.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lachs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lachs&language=de)
 
 **Meaning:** salmon

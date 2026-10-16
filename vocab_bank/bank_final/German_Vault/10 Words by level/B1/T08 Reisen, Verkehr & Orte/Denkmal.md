@@ -25,6 +25,8 @@ status: "new"
 
 ![[Denkmal.ogg]]
 
+![[Denkmal.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Denkmal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Denkmal&language=de)
 
 **Meaning:** memorial, monument

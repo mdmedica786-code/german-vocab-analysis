@@ -23,6 +23,8 @@ status: "new"
 
 ![[Jungtier.ogg]]
 
+![[Jungtier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Jungtier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jungtier&language=de)
 
 **Meaning:** young animal; cub

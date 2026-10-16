@@ -23,6 +23,8 @@ status: "new"
 
 ![[Staatsanwaltschaft.ogg]]
 
+![[Staatsanwaltschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Staatsanwaltschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Staatsanwaltschaft&language=de)
 
 **Meaning:** public prosecutor's office

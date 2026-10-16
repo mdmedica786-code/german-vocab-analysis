@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verkehrsnetz.ogg]]
 
+![[Verkehrsnetz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verkehrsnetz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrsnetz&language=de)
 
 **Meaning:** transport network

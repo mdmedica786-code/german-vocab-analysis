@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kochtopf.ogg]]
 
+![[Kochtopf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kochtopf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kochtopf&language=de)
 
 **Meaning:** cooking pot; saucepan

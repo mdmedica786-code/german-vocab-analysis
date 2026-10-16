@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Maske
 
+![[Maske.jpg]]
+
 ![[Maske.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Maske/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Maske&language=de)

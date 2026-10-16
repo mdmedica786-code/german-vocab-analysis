@@ -25,6 +25,8 @@ status: "new"
 
 ![[Bluse.ogg]]
 
+![[Bluse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bluse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bluse&language=de)
 
 **Meaning:** blouse

@@ -26,6 +26,8 @@ status: "new"
 
 ![[Volksschule.ogg]]
 
+![[Volksschule.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Volksschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Volksschule&language=de)
 
 **Meaning:** primary school (Austria)

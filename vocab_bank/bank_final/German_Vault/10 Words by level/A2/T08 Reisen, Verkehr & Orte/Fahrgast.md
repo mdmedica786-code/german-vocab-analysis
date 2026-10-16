@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fahrgast.ogg]]
 
+![[Fahrgast.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fahrgast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrgast&language=de)
 
 **Meaning:** passenger

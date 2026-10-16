@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Vorhang
 
+![[Vorhang.jpg]]
+
 ![[Vorhang.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Vorhang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorhang&language=de)

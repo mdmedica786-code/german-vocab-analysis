@@ -25,6 +25,8 @@ status: "new"
 
 ![[Babysitter.ogg]]
 
+![[Babysitter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Babysitter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Babysitter&language=de)
 
 **Meaning:** babysitter (m)

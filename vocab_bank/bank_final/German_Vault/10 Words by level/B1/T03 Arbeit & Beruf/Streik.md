@@ -24,6 +24,8 @@ status: "new"
 
 ![[Streik.ogg]]
 
+![[Streik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Streik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Streik&language=de)
 
 **Meaning:** strike

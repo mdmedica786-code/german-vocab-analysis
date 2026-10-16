@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kundenservice.ogg]]
 
+![[Kundenservice.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kundenservice/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kundenservice&language=de)
 
 **Meaning:** customer service

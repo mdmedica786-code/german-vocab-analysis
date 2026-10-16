@@ -23,6 +23,8 @@ status: "new"
 
 ![[Landkreis.ogg]]
 
+![[Landkreis.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Landkreis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Landkreis&language=de)
 
 **Meaning:** district

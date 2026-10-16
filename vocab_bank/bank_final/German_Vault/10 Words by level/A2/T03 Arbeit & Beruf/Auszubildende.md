@@ -25,6 +25,8 @@ status: "new"
 
 ![[Auszubildende.ogg]]
 
+![[Auszubildende.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Auszubildende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auszubildende&language=de)
 
 **Meaning:** apprentice

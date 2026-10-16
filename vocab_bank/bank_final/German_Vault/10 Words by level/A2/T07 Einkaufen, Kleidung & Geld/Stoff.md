@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Stoff
 
+![[Stoff.jpg]]
+
 ![[Stoff.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Stoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stoff&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Vase.ogg]]
 
+![[Vase.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vase/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vase&language=de)
 
 **Meaning:** vase

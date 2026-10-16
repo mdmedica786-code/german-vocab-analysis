@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dämmerung.ogg]]
 
+![[Dämmerung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/D%C3%A4mmerung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=D%C3%A4mmerung&language=de)
 
 **Meaning:** dusk; dawn; twilight

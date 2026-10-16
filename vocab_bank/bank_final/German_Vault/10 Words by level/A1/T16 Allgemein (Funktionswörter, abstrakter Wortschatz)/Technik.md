@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Technik
 
+![[Technik.jpg]]
+
 ![[Technik.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Technik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Technik&language=de)

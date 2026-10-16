@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kunsthistorikerin.ogg]]
 
+![[Kunsthistorikerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kunsthistorikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunsthistorikerin&language=de)
 
 **Meaning:** art historian (f)

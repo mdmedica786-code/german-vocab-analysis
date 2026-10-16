@@ -24,6 +24,8 @@ status: "new"
 
 ![[Motorroller.ogg]]
 
+![[Motorroller.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Motorroller/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Motorroller&language=de)
 
 **Meaning:** scooter

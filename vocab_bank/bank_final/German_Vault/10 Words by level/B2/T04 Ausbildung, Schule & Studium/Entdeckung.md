@@ -23,6 +23,8 @@ status: "new"
 
 ![[Entdeckung.ogg]]
 
+![[Entdeckung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Entdeckung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entdeckung&language=de)
 
 **Meaning:** discovery

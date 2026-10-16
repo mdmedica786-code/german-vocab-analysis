@@ -25,6 +25,8 @@ status: "new"
 
 ![[Stadion.ogg]]
 
+![[Stadion.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stadion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadion&language=de)
 
 **Meaning:** stadium

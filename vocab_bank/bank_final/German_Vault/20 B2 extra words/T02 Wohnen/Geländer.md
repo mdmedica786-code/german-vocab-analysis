@@ -23,6 +23,8 @@ status: "new"
 
 ![[Geländer.ogg]]
 
+![[Geländer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gel%C3%A4nder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gel%C3%A4nder&language=de)
 
 **Meaning:** railing; banister

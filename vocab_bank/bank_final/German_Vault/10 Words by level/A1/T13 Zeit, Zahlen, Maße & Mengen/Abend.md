@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Abend
 
+![[Abend.jpg]]
+
 ![[Abend.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Abend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abend&language=de)

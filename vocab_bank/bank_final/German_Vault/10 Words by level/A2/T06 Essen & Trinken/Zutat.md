@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zutat.ogg]]
 
+![[Zutat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zutat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zutat&language=de)
 
 **Meaning:** ingredient

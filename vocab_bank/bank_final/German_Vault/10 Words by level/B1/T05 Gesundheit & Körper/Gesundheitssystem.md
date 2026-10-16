@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Gesundheitssystem
 
+![[Gesundheitssystem.png]]
+
 ![[Gesundheitssystem.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gesundheitssystem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesundheitssystem&language=de)

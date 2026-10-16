@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schlafsack.ogg]]
 
+![[Schlafsack.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schlafsack/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlafsack&language=de)
 
 **Meaning:** sleeping bag

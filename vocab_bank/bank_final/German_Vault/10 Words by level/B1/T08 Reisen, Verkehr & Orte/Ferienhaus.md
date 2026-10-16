@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ferienhaus.ogg]]
 
+![[Ferienhaus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ferienhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ferienhaus&language=de)
 
 **Meaning:** holiday home

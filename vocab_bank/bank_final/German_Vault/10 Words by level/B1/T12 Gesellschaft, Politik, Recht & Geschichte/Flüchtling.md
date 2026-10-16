@@ -24,6 +24,8 @@ status: "new"
 
 ![[Flüchtling.ogg]]
 
+![[Flüchtling.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fl%C3%BCchtling/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fl%C3%BCchtling&language=de)
 
 **Meaning:** refugee

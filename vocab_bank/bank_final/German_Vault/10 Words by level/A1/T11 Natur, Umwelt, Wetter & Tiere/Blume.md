@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Blume
 
+![[Blume.jpg]]
+
 ![[Blume.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Blume/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blume&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Klinik.ogg]]
 
+![[Klinik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Klinik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klinik&language=de)
 
 **Meaning:** hospital

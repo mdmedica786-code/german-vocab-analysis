@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ellbogen.ogg]]
 
+![[Ellbogen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ellbogen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ellbogen&language=de)
 
 **Meaning:** elbow

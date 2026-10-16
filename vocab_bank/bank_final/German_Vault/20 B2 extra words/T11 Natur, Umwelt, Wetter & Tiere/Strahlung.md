@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Strahlung
 
+![[Strahlung.png]]
+
 ![[Strahlung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Strahlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strahlung&language=de)

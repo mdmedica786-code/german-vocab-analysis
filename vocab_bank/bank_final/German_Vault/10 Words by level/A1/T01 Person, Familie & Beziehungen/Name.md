@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Name
 
+![[Name.jpg]]
+
 ![[Name.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Name/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Name&language=de)

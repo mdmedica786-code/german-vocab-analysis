@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wartung.ogg]]
 
+![[Wartung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wartung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wartung&language=de)
 
 **Meaning:** maintenance; servicing

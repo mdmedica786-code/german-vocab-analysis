@@ -24,6 +24,8 @@ status: "new"
 
 ![[Shampoo.ogg]]
 
+![[Shampoo.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Shampoo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Shampoo&language=de)
 
 **Meaning:** shampoo

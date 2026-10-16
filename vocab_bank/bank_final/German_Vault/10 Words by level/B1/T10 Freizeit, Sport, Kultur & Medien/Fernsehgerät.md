@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fernsehgerät.ogg]]
 
+![[Fernsehgerät.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fernsehger%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fernsehger%C3%A4t&language=de)
 
 **Meaning:** television

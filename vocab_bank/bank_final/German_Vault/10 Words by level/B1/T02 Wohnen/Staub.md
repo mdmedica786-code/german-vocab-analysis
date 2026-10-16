@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Staub
 
+![[Staub.jpg]]
+
 ![[Staub.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Staub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Staub&language=de)

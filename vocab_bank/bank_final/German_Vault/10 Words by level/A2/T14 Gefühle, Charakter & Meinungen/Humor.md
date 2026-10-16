@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Humor
 
+![[Humor.jpg]]
+
 ![[Humor.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Humor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Humor&language=de)

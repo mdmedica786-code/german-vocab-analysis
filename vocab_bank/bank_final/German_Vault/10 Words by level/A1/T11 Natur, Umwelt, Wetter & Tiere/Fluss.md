@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Fluss
 
+![[Fluss.jpg]]
+
 ![[Fluss.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fluss&language=de)

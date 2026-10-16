@@ -25,6 +25,8 @@ status: "new"
 
 ![[Praxis.ogg]]
 
+![[Praxis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Praxis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Praxis&language=de)
 
 **Meaning:** surgery; (doctor's) practice

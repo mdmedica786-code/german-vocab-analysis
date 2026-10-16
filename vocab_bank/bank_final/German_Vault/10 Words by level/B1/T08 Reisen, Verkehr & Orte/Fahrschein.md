@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fahrschein.ogg]]
 
+![[Fahrschein.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fahrschein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrschein&language=de)
 
 **Meaning:** ticket (travel)

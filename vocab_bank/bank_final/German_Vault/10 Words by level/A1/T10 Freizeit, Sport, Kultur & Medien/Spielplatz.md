@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Spielplatz
 
+![[Spielplatz.jpg]]
+
 ![[Spielplatz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Spielplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spielplatz&language=de)

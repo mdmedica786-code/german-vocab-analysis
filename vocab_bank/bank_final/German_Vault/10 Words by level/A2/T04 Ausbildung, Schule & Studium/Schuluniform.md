@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schuluniform.ogg]]
 
+![[Schuluniform.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schuluniform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schuluniform&language=de)
 
 **Meaning:** school uniform

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Passagierin.ogg]]
 
+![[Passagierin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Passagierin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Passagierin&language=de)
 
 **Meaning:** passenger (f)

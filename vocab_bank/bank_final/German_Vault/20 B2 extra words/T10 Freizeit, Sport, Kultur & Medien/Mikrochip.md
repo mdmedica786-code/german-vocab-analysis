@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mikrochip.ogg]]
 
+![[Mikrochip.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mikrochip/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mikrochip&language=de)
 
 **Meaning:** microchip

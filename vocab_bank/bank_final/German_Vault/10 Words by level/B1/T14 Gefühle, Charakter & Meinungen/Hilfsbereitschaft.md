@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hilfsbereitschaft.ogg]]
 
+![[Hilfsbereitschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hilfsbereitschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hilfsbereitschaft&language=de)
 
 **Meaning:** helpfulness

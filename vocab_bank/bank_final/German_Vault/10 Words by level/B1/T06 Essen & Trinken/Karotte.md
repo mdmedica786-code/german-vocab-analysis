@@ -25,6 +25,8 @@ status: "new"
 
 ![[Karotte.ogg]]
 
+![[Karotte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Karotte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Karotte&language=de)
 
 **Meaning:** carrot

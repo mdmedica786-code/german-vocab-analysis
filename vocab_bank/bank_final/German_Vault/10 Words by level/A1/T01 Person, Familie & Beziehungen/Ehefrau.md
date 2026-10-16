@@ -25,6 +25,8 @@ status: "new"
 
 ![[Ehefrau.ogg]]
 
+![[Ehefrau.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ehefrau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehefrau&language=de)
 
 **Meaning:** wife

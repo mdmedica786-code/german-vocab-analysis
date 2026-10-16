@@ -24,6 +24,8 @@ status: "new"
 
 ![[Geschirrspüler.ogg]]
 
+![[Geschirrspüler.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geschirrsp%C3%BCler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geschirrsp%C3%BCler&language=de)
 
 **Meaning:** dishwasher

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zahnarzt.ogg]]
 
+![[Zahnarzt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zahnarzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahnarzt&language=de)
 
 **Meaning:** dentist (m)

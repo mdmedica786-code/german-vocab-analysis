@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Franken
 
+![[Franken.png]]
+
 ![[Franken.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Franken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Franken&language=de)

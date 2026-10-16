@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Klimaerwärmung
 
+![[Klimaerwärmung.png]]
+
 ![[Klimaerwärmung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Klimaerw%C3%A4rmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klimaerw%C3%A4rmung&language=de)

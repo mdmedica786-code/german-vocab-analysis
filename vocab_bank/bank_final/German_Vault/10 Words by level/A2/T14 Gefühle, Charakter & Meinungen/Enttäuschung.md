@@ -25,6 +25,8 @@ status: "new"
 
 ![[Enttäuschung.ogg]]
 
+![[Enttäuschung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Entt%C3%A4uschung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entt%C3%A4uschung&language=de)
 
 **Meaning:** disappointment

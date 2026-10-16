@@ -25,6 +25,8 @@ status: "new"
 
 ![[Reservierung.ogg]]
 
+![[Reservierung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reservierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reservierung&language=de)
 
 **Meaning:** reservation

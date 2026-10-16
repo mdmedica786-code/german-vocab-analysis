@@ -23,6 +23,8 @@ status: "new"
 
 ![[Palast.ogg]]
 
+![[Palast.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Palast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Palast&language=de)
 
 **Meaning:** palace

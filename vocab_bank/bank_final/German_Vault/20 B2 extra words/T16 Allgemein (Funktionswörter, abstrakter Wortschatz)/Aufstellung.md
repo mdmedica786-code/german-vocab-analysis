@@ -23,6 +23,8 @@ status: "new"
 
 ![[Aufstellung.ogg]]
 
+![[Aufstellung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aufstellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufstellung&language=de)
 
 **Meaning:** list; line-up; setting up

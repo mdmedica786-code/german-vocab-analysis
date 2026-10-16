@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Luft
 
+![[Luft.png]]
+
 ![[Luft.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Luft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luft&language=de)

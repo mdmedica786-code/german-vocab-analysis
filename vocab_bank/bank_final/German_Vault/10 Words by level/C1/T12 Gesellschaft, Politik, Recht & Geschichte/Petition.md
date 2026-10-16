@@ -23,6 +23,8 @@ status: "new"
 
 ![[Petition.ogg]]
 
+![[Petition.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Petition/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Petition&language=de)
 
 **Meaning:** petition

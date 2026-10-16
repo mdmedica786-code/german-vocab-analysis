@@ -24,6 +24,8 @@ status: "new"
 
 ![[Brautpaar.ogg]]
 
+![[Brautpaar.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Brautpaar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brautpaar&language=de)
 
 **Meaning:** bride and groom; newlyweds

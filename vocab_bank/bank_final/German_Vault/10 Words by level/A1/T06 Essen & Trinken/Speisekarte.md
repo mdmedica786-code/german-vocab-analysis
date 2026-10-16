@@ -25,6 +25,8 @@ status: "new"
 
 ![[Speisekarte.ogg]]
 
+![[Speisekarte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Speisekarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Speisekarte&language=de)
 
 **Meaning:** menu

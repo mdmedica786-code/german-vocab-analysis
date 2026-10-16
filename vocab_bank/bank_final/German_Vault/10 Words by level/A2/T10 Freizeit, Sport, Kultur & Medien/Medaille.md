@@ -24,6 +24,8 @@ status: "new"
 
 ![[Medaille.ogg]]
 
+![[Medaille.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Medaille/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medaille&language=de)
 
 **Meaning:** medal

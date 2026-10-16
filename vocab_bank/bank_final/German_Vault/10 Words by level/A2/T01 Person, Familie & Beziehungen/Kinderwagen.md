@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kinderwagen.ogg]]
 
+![[Kinderwagen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kinderwagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinderwagen&language=de)
 
 **Meaning:** pram

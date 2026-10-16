@@ -24,6 +24,8 @@ status: "new"
 
 ![[Jalousie.ogg]]
 
+![[Jalousie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Jalousie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jalousie&language=de)
 
 **Meaning:** shutter

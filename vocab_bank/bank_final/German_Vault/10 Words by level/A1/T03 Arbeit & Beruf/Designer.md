@@ -24,6 +24,8 @@ status: "new"
 
 ![[Designer.ogg]]
 
+![[Designer.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Designer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Designer&language=de)
 
 **Meaning:** designer (m)

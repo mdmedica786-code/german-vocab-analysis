@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Ohr
 
+![[Ohr.jpg]]
+
 ![[Ohr.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Ohr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ohr&language=de)

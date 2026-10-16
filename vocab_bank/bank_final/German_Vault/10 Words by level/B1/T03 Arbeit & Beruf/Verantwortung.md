@@ -24,6 +24,8 @@ status: "new"
 
 ![[Verantwortung.ogg]]
 
+![[Verantwortung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verantwortung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verantwortung&language=de)
 
 **Meaning:** responsibility

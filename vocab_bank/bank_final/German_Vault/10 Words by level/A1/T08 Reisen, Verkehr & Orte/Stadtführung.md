@@ -24,6 +24,8 @@ status: "new"
 
 ![[Stadtführung.ogg]]
 
+![[Stadtführung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stadtf%C3%BChrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtf%C3%BChrung&language=de)
 
 **Meaning:** tour of the city

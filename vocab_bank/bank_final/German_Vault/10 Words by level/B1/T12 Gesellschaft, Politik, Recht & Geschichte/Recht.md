@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Recht
 
+![[Recht.jpg]]
+
 ![[Recht.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Recht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Recht&language=de)

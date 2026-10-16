@@ -24,6 +24,8 @@ status: "new"
 
 ![[Mehl.ogg]]
 
+![[Mehl.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mehl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mehl&language=de)
 
 **Meaning:** flour

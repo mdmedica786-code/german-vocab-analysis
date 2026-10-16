@@ -23,6 +23,8 @@ status: "new"
 
 ![[Frost.ogg]]
 
+![[Frost.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Frost/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frost&language=de)
 
 **Meaning:** frost

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Pension
 
+![[Pension.jpg]]
+
 ![[Pension.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Pension/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pension&language=de)

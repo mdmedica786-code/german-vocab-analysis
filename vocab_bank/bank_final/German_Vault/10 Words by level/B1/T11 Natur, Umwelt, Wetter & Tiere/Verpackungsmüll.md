@@ -24,6 +24,8 @@ status: "new"
 
 ![[Verpackungsmüll.ogg]]
 
+![[Verpackungsmüll.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verpackungsm%C3%BCll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verpackungsm%C3%BCll&language=de)
 
 **Meaning:** packaging waste

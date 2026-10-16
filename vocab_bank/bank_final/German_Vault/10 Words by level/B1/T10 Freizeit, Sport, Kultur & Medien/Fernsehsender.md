@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fernsehsender.ogg]]
 
+![[Fernsehsender.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fernsehsender/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fernsehsender&language=de)
 
 **Meaning:** TV channel; TV station

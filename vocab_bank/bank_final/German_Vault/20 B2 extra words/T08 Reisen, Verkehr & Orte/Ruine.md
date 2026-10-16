@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ruine.ogg]]
 
+![[Ruine.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ruine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ruine&language=de)
 
 **Meaning:** ruin; ruins

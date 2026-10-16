@@ -24,6 +24,8 @@ status: "new"
 
 ![[Laster.ogg]]
 
+![[Laster.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Laster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laster&language=de)
 
 **Meaning:** lorry; truck

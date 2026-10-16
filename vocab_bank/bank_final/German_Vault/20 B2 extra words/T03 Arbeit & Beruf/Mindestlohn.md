@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mindestlohn.ogg]]
 
+![[Mindestlohn.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mindestlohn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mindestlohn&language=de)
 
 **Meaning:** minimum wage

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Computer.ogg]]
 
+![[Computer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Computer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Computer&language=de)
 
 **Meaning:** computer

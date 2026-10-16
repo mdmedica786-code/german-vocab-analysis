@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Sportteam
 
+![[Sportteam.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sportteam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportteam&language=de)
 
 **Meaning:** sports team

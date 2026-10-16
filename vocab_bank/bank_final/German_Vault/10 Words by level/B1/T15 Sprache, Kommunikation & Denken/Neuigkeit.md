@@ -25,6 +25,8 @@ status: "new"
 
 ![[Neuigkeit.ogg]]
 
+![[Neuigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Neuigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neuigkeit&language=de)
 
 **Meaning:** news

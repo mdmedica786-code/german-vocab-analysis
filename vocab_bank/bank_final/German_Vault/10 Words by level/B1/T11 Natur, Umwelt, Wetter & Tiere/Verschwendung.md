@@ -24,6 +24,8 @@ status: "new"
 
 ![[Verschwendung.ogg]]
 
+![[Verschwendung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verschwendung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verschwendung&language=de)
 
 **Meaning:** waste

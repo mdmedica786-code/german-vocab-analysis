@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Trompete
 
+![[Trompete.jpg]]
+
 ![[Trompete.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Trompete/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trompete&language=de)

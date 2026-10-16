@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ernährungssicherheit.ogg]]
 
+![[Ernährungssicherheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ern%C3%A4hrungssicherheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ern%C3%A4hrungssicherheit&language=de)
 
 **Meaning:** food security

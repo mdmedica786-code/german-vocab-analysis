@@ -24,6 +24,8 @@ status: "new"
 
 ![[Tiertrainer.ogg]]
 
+![[Tiertrainer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tiertrainer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiertrainer&language=de)
 
 **Meaning:** animal trainer (m)

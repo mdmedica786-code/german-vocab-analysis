@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kiosk.ogg]]
 
+![[Kiosk.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kiosk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kiosk&language=de)
 
 **Meaning:** kiosk

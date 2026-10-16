@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Bauernhof
 
+![[Bauernhof.jpg]]
+
 ![[Bauernhof.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bauernhof/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bauernhof&language=de)

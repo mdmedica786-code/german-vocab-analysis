@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mehrsprachigkeit.ogg]]
 
+![[Mehrsprachigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mehrsprachigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mehrsprachigkeit&language=de)
 
 **Meaning:** multilingualism

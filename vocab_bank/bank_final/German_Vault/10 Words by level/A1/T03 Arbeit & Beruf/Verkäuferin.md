@@ -25,6 +25,8 @@ status: "new"
 
 ![[Verkäuferin.ogg]]
 
+![[Verkäuferin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verk%C3%A4uferin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verk%C3%A4uferin&language=de)
 
 **Meaning:** salesperson (f)

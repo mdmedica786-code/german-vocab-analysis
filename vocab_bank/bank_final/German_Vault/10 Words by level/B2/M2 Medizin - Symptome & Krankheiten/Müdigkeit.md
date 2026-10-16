@@ -23,6 +23,8 @@ status: "new"
 
 ![[Müdigkeit.ogg]]
 
+![[Müdigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCdigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCdigkeit&language=de)
 
 **Meaning:** tiredness

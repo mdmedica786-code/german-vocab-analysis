@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ader.ogg]]
 
+![[Ader.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ader/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ader&language=de)
 
 **Meaning:** vein; blood vessel

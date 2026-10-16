@@ -23,6 +23,8 @@ status: "new"
 
 ![[Preisträger.ogg]]
 
+![[Preisträger.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Preistr%C3%A4ger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Preistr%C3%A4ger&language=de)
 
 **Meaning:** prize winner

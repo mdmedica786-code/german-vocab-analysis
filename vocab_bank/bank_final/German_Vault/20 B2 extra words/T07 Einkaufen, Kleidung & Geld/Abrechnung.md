@@ -23,6 +23,8 @@ status: "new"
 
 ![[Abrechnung.ogg]]
 
+![[Abrechnung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abrechnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abrechnung&language=de)
 
 **Meaning:** bill; statement; settlement

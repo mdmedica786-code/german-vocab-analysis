@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dilemma.ogg]]
 
+![[Dilemma.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dilemma/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dilemma&language=de)
 
 **Meaning:** dilemma

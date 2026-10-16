@@ -25,6 +25,8 @@ status: "new"
 
 ![[Supermarkt.ogg]]
 
+![[Supermarkt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Supermarkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Supermarkt&language=de)
 
 **Meaning:** supermarket

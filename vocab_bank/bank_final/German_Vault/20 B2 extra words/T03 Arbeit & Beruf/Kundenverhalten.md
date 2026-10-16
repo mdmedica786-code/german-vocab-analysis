@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kundenverhalten.ogg]]
 
+![[Kundenverhalten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kundenverhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kundenverhalten&language=de)
 
 **Meaning:** customer behaviour

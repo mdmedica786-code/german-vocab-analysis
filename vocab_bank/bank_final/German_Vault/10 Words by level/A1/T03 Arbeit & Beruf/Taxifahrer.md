@@ -24,6 +24,8 @@ status: "new"
 
 ![[Taxifahrer.ogg]]
 
+![[Taxifahrer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Taxifahrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taxifahrer&language=de)
 
 **Meaning:** taxi driver (m)

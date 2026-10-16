@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verlängerungskabel.ogg]]
 
+![[Verlängerungskabel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verl%C3%A4ngerungskabel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verl%C3%A4ngerungskabel&language=de)
 
 **Meaning:** extension cable

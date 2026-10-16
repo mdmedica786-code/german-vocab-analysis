@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Pullover
 
+![[Pullover.jpg]]
+
 ![[Pullover.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Pullover/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pullover&language=de)

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Schlacht
 
+![[Schlacht.jpg]]
+
 ![[Schlacht.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schlacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlacht&language=de)

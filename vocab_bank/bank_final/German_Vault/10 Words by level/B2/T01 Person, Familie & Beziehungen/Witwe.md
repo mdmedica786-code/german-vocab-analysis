@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Witwe
 
+![[Witwe.jpg]]
+
 ![[Witwe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Witwe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Witwe&language=de)

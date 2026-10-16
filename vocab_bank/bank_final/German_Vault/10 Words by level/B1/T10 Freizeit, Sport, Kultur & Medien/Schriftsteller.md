@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schriftsteller.ogg]]
 
+![[Schriftsteller.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schriftsteller/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schriftsteller&language=de)
 
 **Meaning:** writer; author

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Katze
 
+![[Katze.jpg]]
+
 ![[Katze.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Katze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Katze&language=de)

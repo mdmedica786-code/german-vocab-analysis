@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zebrastreifen.ogg]]
 
+![[Zebrastreifen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zebrastreifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zebrastreifen&language=de)
 
 **Meaning:** zebra crossing

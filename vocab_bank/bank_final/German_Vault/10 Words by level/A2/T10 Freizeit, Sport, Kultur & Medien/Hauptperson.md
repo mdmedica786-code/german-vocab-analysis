@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hauptperson.ogg]]
 
+![[Hauptperson.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hauptperson/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptperson&language=de)
 
 **Meaning:** main character

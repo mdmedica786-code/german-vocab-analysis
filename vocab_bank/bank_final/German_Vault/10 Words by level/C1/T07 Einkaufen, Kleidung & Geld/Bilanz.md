@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bilanz.ogg]]
 
+![[Bilanz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bilanz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bilanz&language=de)
 
 **Meaning:** balance sheet; outcome

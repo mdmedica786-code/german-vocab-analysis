@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gartenmöbel.ogg]]
 
+![[Gartenmöbel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gartenm%C3%B6bel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gartenm%C3%B6bel&language=de)
 
 **Meaning:** garden furniture

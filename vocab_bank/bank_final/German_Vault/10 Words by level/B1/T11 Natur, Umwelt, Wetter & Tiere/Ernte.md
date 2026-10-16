@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Ernte
 
+![[Ernte.jpg]]
+
 ![[Ernte.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Ernte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ernte&language=de)

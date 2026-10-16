@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Rentnerin
 
+![[Rentnerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rentnerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rentnerin&language=de)
 
 **Meaning:** pensioner (f.)

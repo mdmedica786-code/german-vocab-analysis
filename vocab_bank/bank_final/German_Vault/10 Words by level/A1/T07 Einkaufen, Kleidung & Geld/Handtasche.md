@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Handtasche
 
+![[Handtasche.jpg]]
+
 ![[Handtasche.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Handtasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handtasche&language=de)

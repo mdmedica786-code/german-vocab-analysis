@@ -24,6 +24,8 @@ status: "new"
 
 ![[Modedesignerin.ogg]]
 
+![[Modedesignerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Modedesignerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Modedesignerin&language=de)
 
 **Meaning:** fashion designer (f)

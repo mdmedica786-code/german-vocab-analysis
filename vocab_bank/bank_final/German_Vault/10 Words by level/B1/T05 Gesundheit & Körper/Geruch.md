@@ -23,6 +23,8 @@ status: "new"
 
 ![[Geruch.ogg]]
 
+![[Geruch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geruch&language=de)
 
 **Meaning:** smell; odour

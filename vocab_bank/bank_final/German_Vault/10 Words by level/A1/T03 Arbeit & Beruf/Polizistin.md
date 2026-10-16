@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Polizistin
 
+![[Polizistin.jpg]]
+
 ![[Polizistin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Polizistin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Polizistin&language=de)

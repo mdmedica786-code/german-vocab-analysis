@@ -23,6 +23,8 @@ status: "new"
 
 ![[Handbewegung.ogg]]
 
+![[Handbewegung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Handbewegung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handbewegung&language=de)
 
 **Meaning:** hand gesture; wave of the hand

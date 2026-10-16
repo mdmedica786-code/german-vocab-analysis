@@ -25,6 +25,8 @@ status: "new"
 
 ![[Theater.ogg]]
 
+![[Theater.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Theater/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Theater&language=de)
 
 **Meaning:** theatre

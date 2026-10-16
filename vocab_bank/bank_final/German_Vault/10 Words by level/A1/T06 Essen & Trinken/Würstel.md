@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Würstel
 
+![[Würstel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/W%C3%BCrstel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%BCrstel&language=de)
 
 **Meaning:** sausage (Austrian)

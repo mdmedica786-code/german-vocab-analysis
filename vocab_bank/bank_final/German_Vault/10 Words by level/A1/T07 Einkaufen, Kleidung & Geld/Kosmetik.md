@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kosmetik.ogg]]
 
+![[Kosmetik.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kosmetik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kosmetik&language=de)
 
 **Meaning:** cosmetics

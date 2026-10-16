@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Dosenöffner
 
+![[Dosenöffner.png]]
+
 ![[Dosenöffner.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Dosen%C3%B6ffner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dosen%C3%B6ffner&language=de)

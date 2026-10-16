@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Schwester
 
+![[Schwester.jpg]]
+
 ![[Schwester.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schwester/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwester&language=de)

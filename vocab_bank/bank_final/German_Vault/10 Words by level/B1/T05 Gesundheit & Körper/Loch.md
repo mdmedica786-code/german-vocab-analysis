@@ -24,6 +24,8 @@ status: "new"
 
 ![[Loch.ogg]]
 
+![[Loch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Loch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Loch&language=de)
 
 **Meaning:** hole

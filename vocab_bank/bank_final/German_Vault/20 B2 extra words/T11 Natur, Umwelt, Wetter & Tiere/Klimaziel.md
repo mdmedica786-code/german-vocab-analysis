@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Klimaziel
 
+![[Klimaziel.png]]
+
 ![[Klimaziel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Klimaziel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klimaziel&language=de)

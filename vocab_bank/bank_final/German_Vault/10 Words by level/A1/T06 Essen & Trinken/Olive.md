@@ -24,6 +24,8 @@ status: "new"
 
 ![[Olive.ogg]]
 
+![[Olive.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Olive/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Olive&language=de)
 
 **Meaning:** olive

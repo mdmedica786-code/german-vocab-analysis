@@ -24,6 +24,8 @@ status: "new"
 
 ![[Stadträtin.ogg]]
 
+![[Stadträtin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stadtr%C3%A4tin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtr%C3%A4tin&language=de)
 
 **Meaning:** city council member (f)

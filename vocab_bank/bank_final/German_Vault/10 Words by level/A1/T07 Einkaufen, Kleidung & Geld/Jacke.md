@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Jacke
 
+![[Jacke.jpg]]
+
 ![[Jacke.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Jacke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jacke&language=de)

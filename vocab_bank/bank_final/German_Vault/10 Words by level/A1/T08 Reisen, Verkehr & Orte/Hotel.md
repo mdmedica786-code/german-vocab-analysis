@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Hotel
 
+![[Hotel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hotel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hotel&language=de)
 
 **Meaning:** hotel

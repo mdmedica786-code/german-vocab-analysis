@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pauschalreise.ogg]]
 
+![[Pauschalreise.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pauschalreise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pauschalreise&language=de)
 
 **Meaning:** package holiday

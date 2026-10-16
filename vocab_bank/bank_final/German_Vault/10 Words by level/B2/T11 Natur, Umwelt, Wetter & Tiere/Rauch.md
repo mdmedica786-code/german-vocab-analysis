@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Rauch
 
+![[Rauch.jpg]]
+
 ![[Rauch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Rauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rauch&language=de)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Streitgespräch.ogg]]
 
+![[Streitgespräch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Streitgespr%C3%A4ch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Streitgespr%C3%A4ch&language=de)
 
 **Meaning:** debate; argument

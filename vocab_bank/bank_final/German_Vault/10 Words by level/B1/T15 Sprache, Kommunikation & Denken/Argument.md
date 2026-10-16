@@ -24,6 +24,8 @@ status: "new"
 
 ![[Argument.ogg]]
 
+![[Argument.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Argument/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Argument&language=de)
 
 **Meaning:** argument

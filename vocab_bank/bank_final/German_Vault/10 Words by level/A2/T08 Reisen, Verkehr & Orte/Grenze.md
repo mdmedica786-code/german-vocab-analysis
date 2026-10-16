@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Grenze
 
+![[Grenze.jpg]]
+
 ![[Grenze.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Grenze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grenze&language=de)

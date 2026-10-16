@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Entwicklung
 
+![[Entwicklung.jpg]]
+
 ![[Entwicklung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Entwicklung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entwicklung&language=de)

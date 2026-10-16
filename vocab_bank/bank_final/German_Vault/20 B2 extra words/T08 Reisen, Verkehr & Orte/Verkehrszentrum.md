@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Verkehrszentrum
 
+![[Verkehrszentrum.jpg]]
+
 ![[Verkehrszentrum.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Verkehrszentrum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrszentrum&language=de)

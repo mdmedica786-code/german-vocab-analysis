@@ -25,6 +25,8 @@ status: "new"
 
 ![[Hausmeisterin.ogg]]
 
+![[Hausmeisterin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hausmeisterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausmeisterin&language=de)
 
 **Meaning:** caretaker (f)

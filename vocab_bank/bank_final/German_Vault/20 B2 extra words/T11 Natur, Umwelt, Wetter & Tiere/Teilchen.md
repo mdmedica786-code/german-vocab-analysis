@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Teilchen
 
+![[Teilchen.jpg]]
+
 ![[Teilchen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Teilchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teilchen&language=de)

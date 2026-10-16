@@ -23,6 +23,8 @@ status: "new"
 
 ![[Priester.ogg]]
 
+![[Priester.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Priester/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Priester&language=de)
 
 **Meaning:** priest

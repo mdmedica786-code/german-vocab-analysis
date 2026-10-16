@@ -23,6 +23,8 @@ status: "new"
 
 ![[Privatverkehr.ogg]]
 
+![[Privatverkehr.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Privatverkehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Privatverkehr&language=de)
 
 **Meaning:** private transport; private traffic

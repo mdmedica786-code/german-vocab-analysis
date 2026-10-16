@@ -25,6 +25,8 @@ status: "new"
 
 ![[Lkw.ogg]]
 
+![[Lkw.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lkw/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lkw&language=de)
 
 **Meaning:** lorry; truck

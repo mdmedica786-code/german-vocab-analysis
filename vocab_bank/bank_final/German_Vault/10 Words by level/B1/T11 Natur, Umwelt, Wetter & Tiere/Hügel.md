@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hügel.ogg]]
 
+![[Hügel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%BCgel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%BCgel&language=de)
 
 **Meaning:** hill

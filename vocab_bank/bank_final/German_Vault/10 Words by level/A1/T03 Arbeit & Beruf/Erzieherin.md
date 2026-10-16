@@ -24,6 +24,8 @@ status: "new"
 
 ![[Erzieherin.ogg]]
 
+![[Erzieherin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erzieherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erzieherin&language=de)
 
 **Meaning:** kindergarten teacher (f)

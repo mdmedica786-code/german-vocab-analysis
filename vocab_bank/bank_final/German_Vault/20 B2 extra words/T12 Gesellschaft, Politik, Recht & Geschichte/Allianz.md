@@ -23,6 +23,8 @@ status: "new"
 
 ![[Allianz.ogg]]
 
+![[Allianz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Allianz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Allianz&language=de)
 
 **Meaning:** alliance

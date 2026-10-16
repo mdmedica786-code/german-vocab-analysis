@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ansage.ogg]]
 
+![[Ansage.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ansage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ansage&language=de)
 
 **Meaning:** announcement

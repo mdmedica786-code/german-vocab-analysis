@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schlagfertigkeit.ogg]]
 
+![[Schlagfertigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schlagfertigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlagfertigkeit&language=de)
 
 **Meaning:** quick wit; repartee

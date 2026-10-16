@@ -25,6 +25,8 @@ status: "new"
 
 ![[Couch.ogg]]
 
+![[Couch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Couch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Couch&language=de)
 
 **Meaning:** couch

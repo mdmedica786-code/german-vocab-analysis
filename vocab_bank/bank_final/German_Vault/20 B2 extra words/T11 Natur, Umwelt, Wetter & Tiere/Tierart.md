@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tierart.ogg]]
 
+![[Tierart.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tierart/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tierart&language=de)
 
 **Meaning:** animal species; kind of animal

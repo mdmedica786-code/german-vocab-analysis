@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die E-Mobilität
 
+![[E-Mobilität.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/E-Mobilit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=E-Mobilit%C3%A4t&language=de)
 
 **Meaning:** e-mobility

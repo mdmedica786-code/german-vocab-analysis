@@ -25,6 +25,8 @@ status: "new"
 
 ![[Urlaub.ogg]]
 
+![[Urlaub.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Urlaub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urlaub&language=de)
 
 **Meaning:** holiday

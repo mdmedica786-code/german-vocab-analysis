@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Herbst
 
+![[Herbst.jpg]]
+
 ![[Herbst.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Herbst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herbst&language=de)

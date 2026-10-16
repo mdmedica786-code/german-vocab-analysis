@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wohngemeinschaft.ogg]]
 
+![[Wohngemeinschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wohngemeinschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohngemeinschaft&language=de)
 
 **Meaning:** shared flat

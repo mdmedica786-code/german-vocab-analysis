@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Golf
 
+![[Golf.jpg]]
+
 ![[Golf.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Golf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Golf&language=de)

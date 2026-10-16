@@ -23,6 +23,8 @@ status: "new"
 
 ![[Symptomatik.ogg]]
 
+![[Symptomatik.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Symptomatik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Symptomatik&language=de)
 
 **Meaning:** symptoms; symptomatology

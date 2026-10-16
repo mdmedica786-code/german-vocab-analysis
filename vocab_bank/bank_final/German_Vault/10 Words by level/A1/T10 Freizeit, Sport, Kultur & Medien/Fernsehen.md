@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Fernsehen
 
+![[Fernsehen.jpg]]
+
 ![[fernsehen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fernsehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fernsehen&language=de)

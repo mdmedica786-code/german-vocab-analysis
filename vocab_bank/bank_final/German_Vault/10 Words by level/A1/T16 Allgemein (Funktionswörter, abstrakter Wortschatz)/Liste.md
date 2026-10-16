@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Liste
 
+![[Liste.jpg]]
+
 ![[Liste.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Liste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Liste&language=de)

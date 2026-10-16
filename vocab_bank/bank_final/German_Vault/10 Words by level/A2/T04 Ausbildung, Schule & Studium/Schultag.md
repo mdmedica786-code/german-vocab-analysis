@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schultag.ogg]]
 
+![[Schultag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schultag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schultag&language=de)
 
 **Meaning:** school day

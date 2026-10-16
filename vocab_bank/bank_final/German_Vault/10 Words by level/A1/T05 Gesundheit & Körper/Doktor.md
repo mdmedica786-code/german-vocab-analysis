@@ -25,6 +25,8 @@ status: "new"
 
 ![[Doktor.ogg]]
 
+![[Doktor.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Doktor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Doktor&language=de)
 
 **Meaning:** doctor (m)

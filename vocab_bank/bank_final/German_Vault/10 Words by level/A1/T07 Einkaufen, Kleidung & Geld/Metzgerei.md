@@ -24,6 +24,8 @@ status: "new"
 
 ![[Metzgerei.ogg]]
 
+![[Metzgerei.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Metzgerei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Metzgerei&language=de)
 
 **Meaning:** butcher's shop

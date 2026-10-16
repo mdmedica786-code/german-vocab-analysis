@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kehle.ogg]]
 
+![[Kehle.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kehle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kehle&language=de)
 
 **Meaning:** throat

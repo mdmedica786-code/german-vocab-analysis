@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bauhof.ogg]]
 
+![[Bauhof.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bauhof/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bauhof&language=de)
 
 **Meaning:** construction yard

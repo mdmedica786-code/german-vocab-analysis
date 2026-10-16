@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Baum
 
+![[Baum.jpg]]
+
 ![[Baum.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Baum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Baum&language=de)

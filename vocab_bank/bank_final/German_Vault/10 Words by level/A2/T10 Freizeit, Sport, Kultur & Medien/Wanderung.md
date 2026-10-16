@@ -25,6 +25,8 @@ status: "new"
 
 ![[Wanderung.ogg]]
 
+![[Wanderung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wanderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wanderung&language=de)
 
 **Meaning:** hike

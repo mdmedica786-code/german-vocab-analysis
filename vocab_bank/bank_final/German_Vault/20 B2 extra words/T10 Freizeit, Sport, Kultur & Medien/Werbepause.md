@@ -23,6 +23,8 @@ status: "new"
 
 ![[Werbepause.ogg]]
 
+![[Werbepause.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Werbepause/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werbepause&language=de)
 
 **Meaning:** commercial break

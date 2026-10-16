@@ -23,6 +23,8 @@ status: "new"
 
 ![[Staatsbürgerschaft.ogg]]
 
+![[Staatsbürgerschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Staatsb%C3%BCrgerschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Staatsb%C3%BCrgerschaft&language=de)
 
 **Meaning:** citizenship

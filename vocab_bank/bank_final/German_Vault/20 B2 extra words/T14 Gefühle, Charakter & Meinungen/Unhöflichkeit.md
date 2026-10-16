@@ -23,6 +23,8 @@ status: "new"
 
 ![[Unhöflichkeit.ogg]]
 
+![[Unhöflichkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Unh%C3%B6flichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unh%C3%B6flichkeit&language=de)
 
 **Meaning:** rudeness; impoliteness

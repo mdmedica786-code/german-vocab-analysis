@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bestätigung.ogg]]
 
+![[Bestätigung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Best%C3%A4tigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Best%C3%A4tigung&language=de)
 
 **Meaning:** confirmation

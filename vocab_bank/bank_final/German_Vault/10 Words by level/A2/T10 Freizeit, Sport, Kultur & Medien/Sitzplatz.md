@@ -24,6 +24,8 @@ status: "new"
 
 ![[Sitzplatz.ogg]]
 
+![[Sitzplatz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sitzplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sitzplatz&language=de)
 
 **Meaning:** seat

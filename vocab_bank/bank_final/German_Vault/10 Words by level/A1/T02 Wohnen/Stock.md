@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Stock
 
+![[Stock.jpg]]
+
 ![[Stock.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Stock/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stock&language=de)

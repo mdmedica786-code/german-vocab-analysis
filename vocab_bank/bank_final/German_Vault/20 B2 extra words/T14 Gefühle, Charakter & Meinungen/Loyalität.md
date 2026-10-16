@@ -23,6 +23,8 @@ status: "new"
 
 ![[Loyalität.ogg]]
 
+![[Loyalität.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Loyalit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Loyalit%C3%A4t&language=de)
 
 **Meaning:** loyalty

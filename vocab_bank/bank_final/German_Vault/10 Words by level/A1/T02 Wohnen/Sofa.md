@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Sofa
 
+![[Sofa.jpg]]
+
 ![[Sofa.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sofa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sofa&language=de)

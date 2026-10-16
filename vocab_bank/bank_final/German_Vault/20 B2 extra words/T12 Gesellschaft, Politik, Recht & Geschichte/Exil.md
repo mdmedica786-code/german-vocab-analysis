@@ -23,6 +23,8 @@ status: "new"
 
 ![[Exil.ogg]]
 
+![[Exil.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Exil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Exil&language=de)
 
 **Meaning:** exile

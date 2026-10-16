@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fundbüro.ogg]]
 
+![[Fundbüro.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fundb%C3%BCro/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fundb%C3%BCro&language=de)
 
 **Meaning:** lost and found office

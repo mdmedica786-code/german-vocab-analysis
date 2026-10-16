@@ -23,6 +23,8 @@ status: "new"
 
 ![[Arbeitsteilung.ogg]]
 
+![[Arbeitsteilung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitsteilung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsteilung&language=de)
 
 **Meaning:** division of labour

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wechselkurs.ogg]]
 
+![[Wechselkurs.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wechselkurs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wechselkurs&language=de)
 
 **Meaning:** exchange rate

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Händler.ogg]]
 
+![[Händler.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%A4ndler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%A4ndler&language=de)
 
 **Meaning:** merchant (m)

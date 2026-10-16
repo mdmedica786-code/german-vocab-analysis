@@ -23,6 +23,8 @@ status: "new"
 
 ![[Instanz.ogg]]
 
+![[Instanz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Instanz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Instanz&language=de)
 
 **Meaning:** authority; instance (court)

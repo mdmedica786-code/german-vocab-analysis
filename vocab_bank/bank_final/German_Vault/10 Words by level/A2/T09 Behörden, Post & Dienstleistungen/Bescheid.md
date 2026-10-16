@@ -25,6 +25,8 @@ status: "new"
 
 ![[Bescheid.ogg]]
 
+![[Bescheid.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bescheid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bescheid&language=de)
 
 **Meaning:** notice; decision

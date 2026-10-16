@@ -25,6 +25,8 @@ status: "new"
 
 ![[Bekannte.ogg]]
 
+![[Bekannte.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bekannte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bekannte&language=de)
 
 **Meaning:** acquaintance

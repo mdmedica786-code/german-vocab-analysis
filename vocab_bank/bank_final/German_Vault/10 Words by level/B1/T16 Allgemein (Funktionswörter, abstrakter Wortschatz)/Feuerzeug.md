@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Feuerzeug
 
+![[Feuerzeug.jpg]]
+
 ![[Feuerzeug.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Feuerzeug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuerzeug&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gespräch.ogg]]
 
+![[Gespräch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gespr%C3%A4ch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gespr%C3%A4ch&language=de)
 
 **Meaning:** conversation; talk

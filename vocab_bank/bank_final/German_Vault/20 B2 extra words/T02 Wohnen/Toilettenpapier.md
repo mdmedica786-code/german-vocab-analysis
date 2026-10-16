@@ -23,6 +23,8 @@ status: "new"
 
 ![[Toilettenpapier.ogg]]
 
+![[Toilettenpapier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Toilettenpapier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Toilettenpapier&language=de)
 
 **Meaning:** toilet paper

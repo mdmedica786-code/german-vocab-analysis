@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hilfsorganisation.ogg]]
 
+![[Hilfsorganisation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hilfsorganisation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hilfsorganisation&language=de)
 
 **Meaning:** aid organisation

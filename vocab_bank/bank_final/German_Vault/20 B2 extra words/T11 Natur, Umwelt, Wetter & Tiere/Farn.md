@@ -23,6 +23,8 @@ status: "new"
 
 ![[Farn.ogg]]
 
+![[Farn.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Farn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Farn&language=de)
 
 **Meaning:** fern

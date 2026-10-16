@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Checkup
 
+![[Checkup.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Checkup/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Checkup&language=de)
 
 **Meaning:** check-up; medical examination

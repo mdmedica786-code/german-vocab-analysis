@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tochter.ogg]]
 
+![[Tochter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tochter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tochter&language=de)
 
 **Meaning:** daughter

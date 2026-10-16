@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stahl.ogg]]
 
+![[Stahl.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stahl&language=de)
 
 **Meaning:** steel

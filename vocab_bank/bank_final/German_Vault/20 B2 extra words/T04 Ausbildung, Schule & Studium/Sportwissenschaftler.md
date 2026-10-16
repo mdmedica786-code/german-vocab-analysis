@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sportwissenschaftler.ogg]]
 
+![[Sportwissenschaftler.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sportwissenschaftler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportwissenschaftler&language=de)
 
 **Meaning:** sports scientist (male)

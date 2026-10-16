@@ -23,6 +23,8 @@ status: "new"
 
 ![[Panik.ogg]]
 
+![[Panik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Panik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Panik&language=de)
 
 **Meaning:** panic

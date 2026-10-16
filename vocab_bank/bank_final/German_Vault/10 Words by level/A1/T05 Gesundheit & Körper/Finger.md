@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Finger
 
+![[Finger.jpg]]
+
 ![[Finger.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Finger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Finger&language=de)

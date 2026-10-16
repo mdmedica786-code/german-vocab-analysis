@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Käuferin
 
+![[Käuferin.png]]
+
 ![[Käuferin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4uferin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4uferin&language=de)

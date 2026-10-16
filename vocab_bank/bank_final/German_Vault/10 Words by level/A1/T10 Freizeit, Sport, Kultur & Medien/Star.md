@@ -25,6 +25,8 @@ status: "new"
 
 ![[Star.ogg]]
 
+![[Star.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Star/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Star&language=de)
 
 **Meaning:** star

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gepäck.ogg]]
 
+![[Gepäck.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gep%C3%A4ck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gep%C3%A4ck&language=de)
 
 **Meaning:** luggage

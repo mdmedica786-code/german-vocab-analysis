@@ -25,6 +25,8 @@ status: "new"
 
 ![[Hackfleisch.ogg]]
 
+![[Hackfleisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hackfleisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hackfleisch&language=de)
 
 **Meaning:** ground meat

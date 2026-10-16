@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hitzewelle.ogg]]
 
+![[Hitzewelle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hitzewelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hitzewelle&language=de)
 
 **Meaning:** heatwave

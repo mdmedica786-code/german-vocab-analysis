@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Rechtsanwältin
 
+![[Rechtsanwältin.jpg]]
+
 ![[Rechtsanwältin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Rechtsanw%C3%A4ltin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechtsanw%C3%A4ltin&language=de)

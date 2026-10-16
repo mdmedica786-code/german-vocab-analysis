@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schifffahrt.ogg]]
 
+![[Schifffahrt.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schifffahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schifffahrt&language=de)
 
 **Meaning:** boat trip

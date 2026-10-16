@@ -24,6 +24,8 @@ status: "new"
 
 ![[Berufsfeuerwehr.ogg]]
 
+![[Berufsfeuerwehr.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Berufsfeuerwehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufsfeuerwehr&language=de)
 
 **Meaning:** professional fire brigade

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Entscheidung.ogg]]
 
+![[Entscheidung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Entscheidung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entscheidung&language=de)
 
 **Meaning:** decision

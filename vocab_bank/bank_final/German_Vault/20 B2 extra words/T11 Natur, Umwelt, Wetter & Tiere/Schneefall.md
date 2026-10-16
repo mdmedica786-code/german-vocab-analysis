@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schneefall.ogg]]
 
+![[Schneefall.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schneefall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schneefall&language=de)
 
 **Meaning:** snowfall

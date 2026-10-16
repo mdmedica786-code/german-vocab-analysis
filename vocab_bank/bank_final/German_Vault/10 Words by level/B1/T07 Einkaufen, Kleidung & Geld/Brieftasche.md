@@ -24,6 +24,8 @@ status: "new"
 
 ![[Brieftasche.ogg]]
 
+![[Brieftasche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Brieftasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brieftasche&language=de)
 
 **Meaning:** wallet

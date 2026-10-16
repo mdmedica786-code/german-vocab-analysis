@@ -23,6 +23,8 @@ status: "new"
 
 ![[Shirt.ogg]]
 
+![[Shirt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Shirt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Shirt&language=de)
 
 **Meaning:** shirt (T-shirt)

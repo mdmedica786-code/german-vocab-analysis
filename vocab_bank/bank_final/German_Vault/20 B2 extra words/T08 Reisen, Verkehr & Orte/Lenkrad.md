@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lenkrad.ogg]]
 
+![[Lenkrad.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lenkrad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lenkrad&language=de)
 
 **Meaning:** steering wheel

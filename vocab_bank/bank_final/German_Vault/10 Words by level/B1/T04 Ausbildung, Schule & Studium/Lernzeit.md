@@ -24,6 +24,8 @@ status: "new"
 
 ![[Lernzeit.ogg]]
 
+![[Lernzeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lernzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernzeit&language=de)
 
 **Meaning:** learning time

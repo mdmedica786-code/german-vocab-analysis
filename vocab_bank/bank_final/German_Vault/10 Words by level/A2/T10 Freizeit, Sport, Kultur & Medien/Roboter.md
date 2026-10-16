@@ -24,6 +24,8 @@ status: "new"
 
 ![[Roboter.ogg]]
 
+![[Roboter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Roboter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Roboter&language=de)
 
 **Meaning:** robot

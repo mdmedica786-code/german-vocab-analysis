@@ -24,6 +24,8 @@ status: "new"
 
 ![[Stadtbewohner.ogg]]
 
+![[Stadtbewohner.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stadtbewohner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtbewohner&language=de)
 
 **Meaning:** city dweller (m)

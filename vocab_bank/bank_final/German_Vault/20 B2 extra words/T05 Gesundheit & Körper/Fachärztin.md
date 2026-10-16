@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fachärztin.ogg]]
 
+![[Fachärztin.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fach%C3%A4rztin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fach%C3%A4rztin&language=de)
 
 **Meaning:** specialist doctor (female)

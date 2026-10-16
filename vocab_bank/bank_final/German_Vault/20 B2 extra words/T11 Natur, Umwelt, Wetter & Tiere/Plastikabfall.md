@@ -23,6 +23,8 @@ status: "new"
 
 ![[Plastikabfall.ogg]]
 
+![[Plastikabfall.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Plastikabfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Plastikabfall&language=de)
 
 **Meaning:** plastic waste

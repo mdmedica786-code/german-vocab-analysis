@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Onkel
 
+![[Onkel.jpg]]
+
 ![[Onkel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Onkel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Onkel&language=de)

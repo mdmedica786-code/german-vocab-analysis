@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Fett
 
+![[Fett.png]]
+
 ![[Fett.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fett&language=de)

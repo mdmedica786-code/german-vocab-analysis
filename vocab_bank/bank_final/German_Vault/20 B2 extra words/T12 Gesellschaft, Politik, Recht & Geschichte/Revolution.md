@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Revolution
 
+![[Revolution.jpg]]
+
 ![[Revolution.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Revolution/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Revolution&language=de)

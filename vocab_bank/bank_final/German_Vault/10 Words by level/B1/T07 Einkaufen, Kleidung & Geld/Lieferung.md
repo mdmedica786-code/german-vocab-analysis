@@ -25,6 +25,8 @@ status: "new"
 
 ![[Lieferung.ogg]]
 
+![[Lieferung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lieferung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lieferung&language=de)
 
 **Meaning:** shipment

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sicherungskasten.ogg]]
 
+![[Sicherungskasten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sicherungskasten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sicherungskasten&language=de)
 
 **Meaning:** fuse box

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Arbeiter.ogg]]
 
+![[Arbeiter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeiter&language=de)
 
 **Meaning:** worker (m)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Personentransport.ogg]]
 
+![[Personentransport.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Personentransport/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Personentransport&language=de)
 
 **Meaning:** passenger transport

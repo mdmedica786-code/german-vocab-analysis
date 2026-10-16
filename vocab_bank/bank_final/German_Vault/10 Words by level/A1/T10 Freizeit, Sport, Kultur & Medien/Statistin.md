@@ -24,6 +24,8 @@ status: "new"
 
 ![[Statistin.ogg]]
 
+![[Statistin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Statistin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Statistin&language=de)
 
 **Meaning:** extra (f)

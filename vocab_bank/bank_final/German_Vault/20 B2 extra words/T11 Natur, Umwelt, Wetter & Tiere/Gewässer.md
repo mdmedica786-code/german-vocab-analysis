@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gewässer.ogg]]
 
+![[Gewässer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gew%C3%A4sser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gew%C3%A4sser&language=de)
 
 **Meaning:** body of water; waters

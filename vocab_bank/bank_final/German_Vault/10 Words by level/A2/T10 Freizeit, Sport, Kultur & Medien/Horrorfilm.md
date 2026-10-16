@@ -24,6 +24,8 @@ status: "new"
 
 ![[Horrorfilm.ogg]]
 
+![[Horrorfilm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Horrorfilm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Horrorfilm&language=de)
 
 **Meaning:** horror film

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Mode-Designer
 
+![[Mode-Designer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mode-Designer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mode-Designer&language=de)
 
 **Meaning:** fashion designer (m)

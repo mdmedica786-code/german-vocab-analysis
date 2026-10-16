@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Juli
 
+![[Juli.jpg]]
+
 ![[Juli.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Juli/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Juli&language=de)

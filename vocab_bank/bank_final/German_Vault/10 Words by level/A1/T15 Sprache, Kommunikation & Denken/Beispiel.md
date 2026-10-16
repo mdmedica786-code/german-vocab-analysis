@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Beispiel
 
+![[Beispiel.png]]
+
 ![[Beispiel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Beispiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beispiel&language=de)

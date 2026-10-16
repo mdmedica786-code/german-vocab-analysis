@@ -23,6 +23,8 @@ status: "new"
 
 ![[Abhandlung.ogg]]
 
+![[Abhandlung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abhandlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abhandlung&language=de)
 
 **Meaning:** treatise; essay; paper

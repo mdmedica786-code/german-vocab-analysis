@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kriminalität.ogg]]
 
+![[Kriminalität.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kriminalit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kriminalit%C3%A4t&language=de)
 
 **Meaning:** crime; criminality

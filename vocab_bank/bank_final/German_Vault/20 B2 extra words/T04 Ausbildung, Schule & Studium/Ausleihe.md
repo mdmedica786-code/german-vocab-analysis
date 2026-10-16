@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ausleihe.ogg]]
 
+![[Ausleihe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ausleihe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausleihe&language=de)
 
 **Meaning:** lending; loan desk

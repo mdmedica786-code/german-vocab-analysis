@@ -24,6 +24,8 @@ status: "new"
 
 ![[Körperhaltung.ogg]]
 
+![[Körperhaltung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/K%C3%B6rperhaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%B6rperhaltung&language=de)
 
 **Meaning:** posture

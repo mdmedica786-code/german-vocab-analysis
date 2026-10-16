@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kunstgeschichte.ogg]]
 
+![[Kunstgeschichte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kunstgeschichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunstgeschichte&language=de)
 
 **Meaning:** art history

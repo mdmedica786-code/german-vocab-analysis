@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fantasie.ogg]]
 
+![[Fantasie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fantasie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fantasie&language=de)
 
 **Meaning:** fantasy, imagination

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Putzmittel.ogg]]
 
+![[Putzmittel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Putzmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Putzmittel&language=de)
 
 **Meaning:** cleaning product

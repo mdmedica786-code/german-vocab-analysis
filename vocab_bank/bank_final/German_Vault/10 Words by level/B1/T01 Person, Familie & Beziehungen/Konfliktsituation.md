@@ -24,6 +24,8 @@ status: "new"
 
 ![[Konfliktsituation.ogg]]
 
+![[Konfliktsituation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konfliktsituation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konfliktsituation&language=de)
 
 **Meaning:** conflict situation

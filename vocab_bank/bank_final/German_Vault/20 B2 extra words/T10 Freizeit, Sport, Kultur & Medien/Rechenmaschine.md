@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rechenmaschine.ogg]]
 
+![[Rechenmaschine.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rechenmaschine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechenmaschine&language=de)
 
 **Meaning:** calculating machine; calculator (historical)

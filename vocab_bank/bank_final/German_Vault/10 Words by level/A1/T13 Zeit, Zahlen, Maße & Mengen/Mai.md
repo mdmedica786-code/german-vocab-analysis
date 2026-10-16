@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Mai
 
+![[Mai.jpg]]
+
 ![[Mai.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Mai/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mai&language=de)

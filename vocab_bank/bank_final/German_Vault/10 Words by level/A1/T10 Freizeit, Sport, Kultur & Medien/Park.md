@@ -25,6 +25,8 @@ status: "new"
 
 ![[Park.ogg]]
 
+![[Park.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Park/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Park&language=de)
 
 **Meaning:** park

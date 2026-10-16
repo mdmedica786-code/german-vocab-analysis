@@ -23,6 +23,8 @@ status: "new"
 
 ![[Umweltbewusstsein.ogg]]
 
+![[Umweltbewusstsein.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Umweltbewusstsein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umweltbewusstsein&language=de)
 
 **Meaning:** environmental awareness

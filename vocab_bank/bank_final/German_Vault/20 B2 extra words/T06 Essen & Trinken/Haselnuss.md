@@ -23,6 +23,8 @@ status: "new"
 
 ![[Haselnuss.ogg]]
 
+![[Haselnuss.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Haselnuss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haselnuss&language=de)
 
 **Meaning:** hazelnut

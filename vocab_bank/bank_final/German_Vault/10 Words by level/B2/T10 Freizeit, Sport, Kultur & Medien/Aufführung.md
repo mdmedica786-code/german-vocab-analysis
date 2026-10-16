@@ -23,6 +23,8 @@ status: "new"
 
 ![[Aufführung.ogg]]
 
+![[Aufführung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Auff%C3%BChrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auff%C3%BChrung&language=de)
 
 **Meaning:** performance

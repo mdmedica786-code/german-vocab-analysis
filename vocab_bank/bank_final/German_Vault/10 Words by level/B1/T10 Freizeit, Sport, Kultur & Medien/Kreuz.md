@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Kreuz
 
+![[Kreuz.png]]
+
 ![[Kreuz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kreuz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kreuz&language=de)

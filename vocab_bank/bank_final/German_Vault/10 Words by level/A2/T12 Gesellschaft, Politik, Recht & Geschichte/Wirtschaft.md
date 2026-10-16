@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Wirtschaft
 
+![[Wirtschaft.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wirtschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wirtschaft&language=de)
 
 **Meaning:** economy

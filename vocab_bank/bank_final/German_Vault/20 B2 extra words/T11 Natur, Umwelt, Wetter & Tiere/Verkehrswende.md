@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verkehrswende.ogg]]
 
+![[Verkehrswende.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verkehrswende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrswende&language=de)
 
 **Meaning:** transport transition (to sustainable mobility)

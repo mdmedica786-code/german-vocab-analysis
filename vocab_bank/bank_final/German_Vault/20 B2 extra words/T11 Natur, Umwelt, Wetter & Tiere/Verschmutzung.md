@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Verschmutzung
 
+![[Verschmutzung.jpg]]
+
 ![[Verschmutzung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Verschmutzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verschmutzung&language=de)

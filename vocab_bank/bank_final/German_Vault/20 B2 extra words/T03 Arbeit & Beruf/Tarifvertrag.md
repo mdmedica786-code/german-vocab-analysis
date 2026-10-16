@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tarifvertrag.ogg]]
 
+![[Tarifvertrag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tarifvertrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tarifvertrag&language=de)
 
 **Meaning:** collective agreement

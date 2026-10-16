@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Genitiv
 
+![[Genitiv.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Genitiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Genitiv&language=de)
 
 **Meaning:** genitive

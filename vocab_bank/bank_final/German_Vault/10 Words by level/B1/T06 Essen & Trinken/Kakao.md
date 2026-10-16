@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kakao.ogg]]
 
+![[Kakao.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kakao/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kakao&language=de)
 
 **Meaning:** cocoa

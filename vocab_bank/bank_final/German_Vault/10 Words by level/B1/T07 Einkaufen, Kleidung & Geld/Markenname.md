@@ -24,6 +24,8 @@ status: "new"
 
 ![[Markenname.ogg]]
 
+![[Markenname.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Markenname/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Markenname&language=de)
 
 **Meaning:** brand name

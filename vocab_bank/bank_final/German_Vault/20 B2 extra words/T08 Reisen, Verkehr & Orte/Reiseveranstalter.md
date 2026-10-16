@@ -23,6 +23,8 @@ status: "new"
 
 ![[Reiseveranstalter.ogg]]
 
+![[Reiseveranstalter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reiseveranstalter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reiseveranstalter&language=de)
 
 **Meaning:** tour operator

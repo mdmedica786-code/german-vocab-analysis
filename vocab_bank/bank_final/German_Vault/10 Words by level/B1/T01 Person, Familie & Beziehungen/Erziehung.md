@@ -25,6 +25,8 @@ status: "new"
 
 ![[Erziehung.ogg]]
 
+![[Erziehung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erziehung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erziehung&language=de)
 
 **Meaning:** upbringing

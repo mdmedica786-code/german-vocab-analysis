@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hypothese.ogg]]
 
+![[Hypothese.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hypothese/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hypothese&language=de)
 
 **Meaning:** hypothesis

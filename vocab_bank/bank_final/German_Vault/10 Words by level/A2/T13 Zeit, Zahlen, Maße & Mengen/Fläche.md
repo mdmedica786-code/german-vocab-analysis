@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Fläche
 
+![[Fläche.png]]
+
 ![[Fläche.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fl%C3%A4che/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fl%C3%A4che&language=de)

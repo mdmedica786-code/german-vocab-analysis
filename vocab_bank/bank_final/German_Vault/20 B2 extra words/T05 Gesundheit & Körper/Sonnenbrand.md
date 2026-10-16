@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sonnenbrand.ogg]]
 
+![[Sonnenbrand.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sonnenbrand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnenbrand&language=de)
 
 **Meaning:** sunburn

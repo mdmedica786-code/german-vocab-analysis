@@ -24,6 +24,8 @@ status: "new"
 
 ![[Platzreservierung.ogg]]
 
+![[Platzreservierung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Platzreservierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Platzreservierung&language=de)
 
 **Meaning:** seat reservation

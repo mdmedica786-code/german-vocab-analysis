@@ -25,6 +25,8 @@ status: "new"
 
 ![[Musikerin.ogg]]
 
+![[Musikerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Musikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikerin&language=de)
 
 **Meaning:** musician (f)

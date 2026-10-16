@@ -24,6 +24,8 @@ status: "new"
 
 ![[Reinigung.ogg]]
 
+![[Reinigung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reinigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reinigung&language=de)
 
 **Meaning:** cleaning; dry cleaner's

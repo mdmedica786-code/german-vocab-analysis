@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dissertation.ogg]]
 
+![[Dissertation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dissertation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dissertation&language=de)
 
 **Meaning:** doctoral thesis

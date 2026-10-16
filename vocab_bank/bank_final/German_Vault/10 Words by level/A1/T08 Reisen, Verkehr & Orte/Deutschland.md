@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Deutschland
 
+![[Deutschland.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Deutschland/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Deutschland&language=de)
 
 **Meaning:** Germany

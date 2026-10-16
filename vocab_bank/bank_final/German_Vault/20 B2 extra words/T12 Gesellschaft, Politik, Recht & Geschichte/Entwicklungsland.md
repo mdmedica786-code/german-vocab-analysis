@@ -23,6 +23,8 @@ status: "new"
 
 ![[Entwicklungsland.ogg]]
 
+![[Entwicklungsland.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Entwicklungsland/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entwicklungsland&language=de)
 
 **Meaning:** developing country

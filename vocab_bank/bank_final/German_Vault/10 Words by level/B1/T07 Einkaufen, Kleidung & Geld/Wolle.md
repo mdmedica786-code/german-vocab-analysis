@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Wolle
 
+![[Wolle.jpg]]
+
 ![[Wolle.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wolle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wolle&language=de)

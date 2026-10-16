@@ -25,6 +25,8 @@ status: "new"
 
 ![[Meldung.ogg]]
 
+![[Meldung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Meldung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meldung&language=de)
 
 **Meaning:** report; announcement

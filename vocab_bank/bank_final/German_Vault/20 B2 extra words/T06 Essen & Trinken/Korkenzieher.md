@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Korkenzieher
 
+![[Korkenzieher.jpg]]
+
 ![[Korkenzieher.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Korkenzieher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Korkenzieher&language=de)

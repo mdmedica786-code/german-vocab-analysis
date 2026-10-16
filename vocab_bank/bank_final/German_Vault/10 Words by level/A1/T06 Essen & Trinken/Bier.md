@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Bier
 
+![[Bier.jpg]]
+
 ![[Bier.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bier&language=de)

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Sozialismus
 
+![[Sozialismus.jpg]]
+
 ![[Sozialismus.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Sozialismus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialismus&language=de)

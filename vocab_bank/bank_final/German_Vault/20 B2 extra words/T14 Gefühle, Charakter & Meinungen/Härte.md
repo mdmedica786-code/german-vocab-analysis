@@ -23,6 +23,8 @@ status: "new"
 
 ![[Härte.ogg]]
 
+![[Härte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%A4rte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%A4rte&language=de)
 
 **Meaning:** hardness; harshness; severity

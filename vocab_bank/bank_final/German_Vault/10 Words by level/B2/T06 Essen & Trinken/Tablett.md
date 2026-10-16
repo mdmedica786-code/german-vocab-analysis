@@ -23,6 +23,8 @@ status: "new"
 
 ![[Tablett.ogg]]
 
+![[Tablett.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tablett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tablett&language=de)
 
 **Meaning:** tray

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Präfix.ogg]]
 
+![[Präfix.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pr%C3%A4fix/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pr%C3%A4fix&language=de)
 
 **Meaning:** prefix

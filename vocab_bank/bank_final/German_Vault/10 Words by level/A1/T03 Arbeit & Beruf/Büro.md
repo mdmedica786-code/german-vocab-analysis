@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Büro
 
+![[Büro.jpg]]
+
 ![[Büro.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCro/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCro&language=de)

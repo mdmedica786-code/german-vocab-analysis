@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Lehrerin
 
+![[Lehrerin.jpg]]
+
 ![[Lehrerin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Lehrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lehrerin&language=de)

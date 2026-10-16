@@ -23,6 +23,8 @@ status: "new"
 
 ![[Telefonkabine.ogg]]
 
+![[Telefonkabine.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Telefonkabine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Telefonkabine&language=de)
 
 **Meaning:** telephone box; phone booth

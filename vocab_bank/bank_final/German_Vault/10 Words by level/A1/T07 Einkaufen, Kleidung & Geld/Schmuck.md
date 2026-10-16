@@ -25,6 +25,8 @@ status: "new"
 
 ![[Schmuck.ogg]]
 
+![[Schmuck.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schmuck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schmuck&language=de)
 
 **Meaning:** jewelry

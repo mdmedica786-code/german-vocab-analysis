@@ -23,6 +23,8 @@ status: "new"
 
 ![[Moos.ogg]]
 
+![[Moos.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Moos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Moos&language=de)
 
 **Meaning:** moss

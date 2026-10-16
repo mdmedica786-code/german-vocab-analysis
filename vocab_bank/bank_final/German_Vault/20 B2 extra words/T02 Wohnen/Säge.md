@@ -23,6 +23,8 @@ status: "new"
 
 ![[Säge.ogg]]
 
+![[Säge.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/S%C3%A4ge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%A4ge&language=de)
 
 **Meaning:** saw

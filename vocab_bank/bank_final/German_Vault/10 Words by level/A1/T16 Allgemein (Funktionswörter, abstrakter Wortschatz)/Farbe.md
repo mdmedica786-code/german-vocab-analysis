@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Farbe
 
+![[Farbe.jpg]]
+
 ![[Farbe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Farbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Farbe&language=de)

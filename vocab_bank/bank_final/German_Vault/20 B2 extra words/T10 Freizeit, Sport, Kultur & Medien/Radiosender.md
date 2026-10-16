@@ -23,6 +23,8 @@ status: "new"
 
 ![[Radiosender.ogg]]
 
+![[Radiosender.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Radiosender/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radiosender&language=de)
 
 **Meaning:** radio station

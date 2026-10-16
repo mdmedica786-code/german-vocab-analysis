@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fahrkartenschalter.ogg]]
 
+![[Fahrkartenschalter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fahrkartenschalter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrkartenschalter&language=de)
 
 **Meaning:** ticket office

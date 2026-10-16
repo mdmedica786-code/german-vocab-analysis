@@ -24,6 +24,8 @@ status: "new"
 
 ![[Architektur.ogg]]
 
+![[Architektur.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Architektur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Architektur&language=de)
 
 **Meaning:** architecture

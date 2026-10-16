@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Mond
 
+![[Mond.jpg]]
+
 ![[Mond.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Mond/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mond&language=de)

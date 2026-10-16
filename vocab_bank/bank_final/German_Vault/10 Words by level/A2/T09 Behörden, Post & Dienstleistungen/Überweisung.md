@@ -25,6 +25,8 @@ status: "new"
 
 ![[Überweisung.ogg]]
 
+![[Überweisung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberweisung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberweisung&language=de)
 
 **Meaning:** bank transfer

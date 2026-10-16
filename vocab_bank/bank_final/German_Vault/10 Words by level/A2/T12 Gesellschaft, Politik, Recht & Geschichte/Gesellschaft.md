@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gesellschaft.ogg]]
 
+![[Gesellschaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesellschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesellschaft&language=de)
 
 **Meaning:** society

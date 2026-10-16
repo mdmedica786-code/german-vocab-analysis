@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gebilde.ogg]]
 
+![[Gebilde.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gebilde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gebilde&language=de)
 
 **Meaning:** structure; formation

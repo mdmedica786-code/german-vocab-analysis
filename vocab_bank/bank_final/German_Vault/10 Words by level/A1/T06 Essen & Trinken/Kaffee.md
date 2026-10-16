@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kaffee.ogg]]
 
+![[Kaffee.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kaffee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaffee&language=de)
 
 **Meaning:** coffee

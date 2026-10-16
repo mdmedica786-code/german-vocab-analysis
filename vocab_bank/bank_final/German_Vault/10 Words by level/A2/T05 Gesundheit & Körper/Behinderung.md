@@ -24,6 +24,8 @@ status: "new"
 
 ![[Behinderung.ogg]]
 
+![[Behinderung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Behinderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Behinderung&language=de)
 
 **Meaning:** disability

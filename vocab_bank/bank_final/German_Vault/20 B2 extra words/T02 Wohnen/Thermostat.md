@@ -23,6 +23,8 @@ status: "new"
 
 ![[Thermostat.ogg]]
 
+![[Thermostat.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Thermostat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Thermostat&language=de)
 
 **Meaning:** thermostat

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zentrale.ogg]]
 
+![[Zentrale.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zentrale/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zentrale&language=de)
 
 **Meaning:** headquarters

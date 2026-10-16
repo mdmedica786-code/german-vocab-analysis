@@ -25,6 +25,8 @@ status: "new"
 
 ![[Unterkunft.ogg]]
 
+![[Unterkunft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Unterkunft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterkunft&language=de)
 
 **Meaning:** accommodation

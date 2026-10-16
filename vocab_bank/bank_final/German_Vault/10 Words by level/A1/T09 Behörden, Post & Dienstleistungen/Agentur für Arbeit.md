@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Agentur für Arbeit
 
+![[Agentur für Arbeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Agentur%20f%C3%BCr%20Arbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Agentur%20f%C3%BCr%20Arbeit&language=de)
 
 **Meaning:** employment office

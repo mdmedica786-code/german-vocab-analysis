@@ -23,6 +23,8 @@ status: "new"
 
 ![[Familienmitglied.ogg]]
 
+![[Familienmitglied.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Familienmitglied/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Familienmitglied&language=de)
 
 **Meaning:** family member

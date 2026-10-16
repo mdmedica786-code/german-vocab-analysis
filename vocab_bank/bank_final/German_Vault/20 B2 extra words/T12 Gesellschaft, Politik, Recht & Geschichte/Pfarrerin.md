@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pfarrerin.ogg]]
 
+![[Pfarrerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pfarrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfarrerin&language=de)
 
 **Meaning:** pastor; vicar (female)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Lebensmittel.ogg]]
 
+![[Lebensmittel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lebensmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensmittel&language=de)
 
 **Meaning:** groceries

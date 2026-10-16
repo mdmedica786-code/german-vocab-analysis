@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Gericht
 
+![[Gericht.jpg]]
+
 ![[Gericht.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gericht&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bevormundung.ogg]]
 
+![[Bevormundung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bevormundung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bevormundung&language=de)
 
 **Meaning:** paternalism; being treated like a child

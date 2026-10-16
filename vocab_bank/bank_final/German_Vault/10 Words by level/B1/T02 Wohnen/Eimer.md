@@ -24,6 +24,8 @@ status: "new"
 
 ![[Eimer.ogg]]
 
+![[Eimer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Eimer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eimer&language=de)
 
 **Meaning:** bucket (im Eimer sein = to be ruined)

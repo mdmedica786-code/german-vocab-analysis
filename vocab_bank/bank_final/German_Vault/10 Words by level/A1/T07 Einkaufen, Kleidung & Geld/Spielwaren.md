@@ -24,6 +24,8 @@ status: "new"
 
 ![[Spielwaren.ogg]]
 
+![[Spielwaren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spielwaren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spielwaren&language=de)
 
 **Meaning:** toys

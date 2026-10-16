@@ -24,6 +24,8 @@ status: "new"
 
 ![[Farbstift.ogg]]
 
+![[Farbstift.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Farbstift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Farbstift&language=de)
 
 **Meaning:** coloured pencil; crayon

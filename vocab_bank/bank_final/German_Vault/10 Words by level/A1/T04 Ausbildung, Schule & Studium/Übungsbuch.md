@@ -24,6 +24,8 @@ status: "new"
 
 ![[Übungsbuch.ogg]]
 
+![[Übungsbuch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbungsbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbungsbuch&language=de)
 
 **Meaning:** exercise book

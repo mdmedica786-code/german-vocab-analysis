@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Festplatte
 
+![[Festplatte.jpg]]
+
 ![[Festplatte.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Festplatte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Festplatte&language=de)

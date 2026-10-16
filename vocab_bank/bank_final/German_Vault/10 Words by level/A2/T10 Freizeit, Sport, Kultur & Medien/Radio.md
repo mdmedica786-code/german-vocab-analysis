@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Radio
 
+![[Radio.jpg]]
+
 ![[Radio.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Radio/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radio&language=de)

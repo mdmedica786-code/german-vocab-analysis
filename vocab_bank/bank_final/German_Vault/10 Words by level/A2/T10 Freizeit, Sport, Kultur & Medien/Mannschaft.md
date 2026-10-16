@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Mannschaft
 
+![[Mannschaft.jpg]]
+
 ![[Mannschaft.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Mannschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mannschaft&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Haustier.ogg]]
 
+![[Haustier.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Haustier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haustier&language=de)
 
 **Meaning:** pet

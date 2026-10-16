@@ -23,6 +23,8 @@ status: "new"
 
 ![[Arbeitsunfähigkeitsbescheinigung.ogg]]
 
+![[Arbeitsunfähigkeitsbescheinigung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitsunf%C3%A4higkeitsbescheinigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsunf%C3%A4higkeitsbescheinigung&language=de)
 
 **Meaning:** sick note; certificate of incapacity for work

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Gästebuch.ogg]]
 
+![[Gästebuch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/G%C3%A4stebuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=G%C3%A4stebuch&language=de)
 
 **Meaning:** guestbook

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Pflegerin.ogg]]
 
+![[Pflegerin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pflegerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflegerin&language=de)
 
 **Meaning:** nurse (f)

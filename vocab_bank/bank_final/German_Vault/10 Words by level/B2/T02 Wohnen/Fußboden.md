@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Fußboden
 
+![[Fußboden.jpg]]
+
 ![[Fußboden.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fboden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fboden&language=de)

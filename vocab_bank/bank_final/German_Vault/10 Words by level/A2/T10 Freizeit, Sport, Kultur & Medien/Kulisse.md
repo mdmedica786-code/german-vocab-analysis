@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kulisse.ogg]]
 
+![[Kulisse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kulisse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kulisse&language=de)
 
 **Meaning:** scenery; backdrop

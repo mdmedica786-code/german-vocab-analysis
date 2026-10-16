@@ -23,6 +23,8 @@ status: "new"
 
 ![[Grundsatz.ogg]]
 
+![[Grundsatz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Grundsatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundsatz&language=de)
 
 **Meaning:** principle

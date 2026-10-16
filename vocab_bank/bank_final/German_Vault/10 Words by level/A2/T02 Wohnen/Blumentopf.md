@@ -24,6 +24,8 @@ status: "new"
 
 ![[Blumentopf.ogg]]
 
+![[Blumentopf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Blumentopf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blumentopf&language=de)
 
 **Meaning:** flower pot

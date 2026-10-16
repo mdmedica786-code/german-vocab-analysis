@@ -23,6 +23,8 @@ status: "new"
 
 ![[Urin.ogg]]
 
+![[Urin.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Urin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urin&language=de)
 
 **Meaning:** urine

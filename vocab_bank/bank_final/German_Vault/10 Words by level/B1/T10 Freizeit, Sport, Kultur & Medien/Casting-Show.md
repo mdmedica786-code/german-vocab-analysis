@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Casting-Show
 
+![[Casting-Show.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Casting-Show/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Casting-Show&language=de)
 
 **Meaning:** casting show

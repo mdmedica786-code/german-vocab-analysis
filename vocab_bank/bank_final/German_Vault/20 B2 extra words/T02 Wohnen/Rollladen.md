@@ -23,6 +23,8 @@ status: "new"
 
 ![[Rollladen.ogg]]
 
+![[Rollladen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rollladen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rollladen&language=de)
 
 **Meaning:** roller shutter

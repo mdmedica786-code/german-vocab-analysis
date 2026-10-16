@@ -24,6 +24,8 @@ status: "new"
 
 ![[Nagel.ogg]]
 
+![[Nagel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Nagel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nagel&language=de)
 
 **Meaning:** nail

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Wettbewerb.ogg]]
 
+![[Wettbewerb.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wettbewerb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wettbewerb&language=de)
 
 **Meaning:** competition

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Romantik.ogg]]
 
+![[Romantik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Romantik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Romantik&language=de)
 
 **Meaning:** Romanticism; romance

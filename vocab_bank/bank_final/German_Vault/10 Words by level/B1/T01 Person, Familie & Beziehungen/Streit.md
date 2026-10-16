@@ -25,6 +25,8 @@ status: "new"
 
 ![[Streit.ogg]]
 
+![[Streit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Streit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Streit&language=de)
 
 **Meaning:** argument; quarrel

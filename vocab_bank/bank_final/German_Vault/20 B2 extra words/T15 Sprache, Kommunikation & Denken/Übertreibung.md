@@ -23,6 +23,8 @@ status: "new"
 
 ![[Übertreibung.ogg]]
 
+![[Übertreibung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbertreibung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbertreibung&language=de)
 
 **Meaning:** exaggeration

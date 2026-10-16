@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wasserkocher.ogg]]
 
+![[Wasserkocher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wasserkocher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wasserkocher&language=de)
 
 **Meaning:** electric kettle

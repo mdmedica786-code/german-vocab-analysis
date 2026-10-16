@@ -23,6 +23,8 @@ status: "new"
 
 ![[Demenz.ogg]]
 
+![[Demenz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Demenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Demenz&language=de)
 
 **Meaning:** dementia

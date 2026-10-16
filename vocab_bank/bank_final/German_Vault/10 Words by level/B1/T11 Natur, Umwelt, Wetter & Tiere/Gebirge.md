@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gebirge.ogg]]
 
+![[Gebirge.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gebirge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gebirge&language=de)
 
 **Meaning:** mountains, mountain range

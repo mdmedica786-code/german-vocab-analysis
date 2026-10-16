@@ -23,6 +23,8 @@ status: "new"
 
 ![[Arbeitsschutz.ogg]]
 
+![[Arbeitsschutz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitsschutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsschutz&language=de)
 
 **Meaning:** occupational safety

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kunstwerk.ogg]]
 
+![[Kunstwerk.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kunstwerk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunstwerk&language=de)
 
 **Meaning:** artwork

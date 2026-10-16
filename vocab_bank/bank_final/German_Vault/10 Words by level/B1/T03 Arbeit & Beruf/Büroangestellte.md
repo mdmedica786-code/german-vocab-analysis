@@ -24,6 +24,8 @@ status: "new"
 
 ![[Büroangestellte.ogg]]
 
+![[Büroangestellte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCroangestellte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCroangestellte&language=de)
 
 **Meaning:** office worker

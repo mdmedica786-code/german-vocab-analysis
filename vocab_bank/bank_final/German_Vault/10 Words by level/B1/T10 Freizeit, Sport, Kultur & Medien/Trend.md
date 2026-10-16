@@ -25,6 +25,8 @@ status: "new"
 
 ![[Trend.ogg]]
 
+![[Trend.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Trend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trend&language=de)
 
 **Meaning:** trend

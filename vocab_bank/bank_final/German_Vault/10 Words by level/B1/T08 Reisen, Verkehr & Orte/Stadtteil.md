@@ -24,6 +24,8 @@ status: "new"
 
 ![[Stadtteil.ogg]]
 
+![[Stadtteil.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stadtteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtteil&language=de)
 
 **Meaning:** district; part of town

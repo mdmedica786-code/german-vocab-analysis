@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kindertagesstätte.ogg]]
 
+![[Kindertagesstätte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kindertagesst%C3%A4tte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kindertagesst%C3%A4tte&language=de)
 
 **Meaning:** day-care centre (Kita)

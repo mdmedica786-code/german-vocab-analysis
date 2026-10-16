@@ -23,6 +23,8 @@ status: "new"
 
 ![[Drache.ogg]]
 
+![[Drache.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Drache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Drache&language=de)
 
 **Meaning:** dragon

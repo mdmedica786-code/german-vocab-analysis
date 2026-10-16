@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Auseinandersetzung
 
+![[Auseinandersetzung.png]]
+
 ![[Auseinandersetzung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Auseinandersetzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auseinandersetzung&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bestechung.ogg]]
 
+![[Bestechung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bestechung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bestechung&language=de)
 
 **Meaning:** bribery

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Zensur.ogg]]
 
+![[Zensur.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zensur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zensur&language=de)
 
 **Meaning:** censorship

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Bademode.ogg]]
 
+![[Bademode.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bademode/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bademode&language=de)
 
 **Meaning:** swimwear

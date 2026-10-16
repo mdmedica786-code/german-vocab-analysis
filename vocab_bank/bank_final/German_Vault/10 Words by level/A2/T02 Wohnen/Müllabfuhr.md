@@ -25,6 +25,8 @@ status: "new"
 
 ![[Müllabfuhr.ogg]]
 
+![[Müllabfuhr.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCllabfuhr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCllabfuhr&language=de)
 
 **Meaning:** refuse collection

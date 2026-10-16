@@ -25,6 +25,8 @@ status: "new"
 
 ![[Comic.ogg]]
 
+![[Comic.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Comic/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Comic&language=de)
 
 **Meaning:** comic book

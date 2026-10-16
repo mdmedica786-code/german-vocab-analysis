@@ -24,6 +24,8 @@ status: "new"
 
 ![[Mehrwegflasche.ogg]]
 
+![[Mehrwegflasche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mehrwegflasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mehrwegflasche&language=de)
 
 **Meaning:** reusable bottle

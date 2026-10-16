@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kinderbetreuung.ogg]]
 
+![[Kinderbetreuung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kinderbetreuung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinderbetreuung&language=de)
 
 **Meaning:** childcare

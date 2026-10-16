@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schwellenland.ogg]]
 
+![[Schwellenland.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schwellenland/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwellenland&language=de)
 
 **Meaning:** emerging economy; newly industrialised country

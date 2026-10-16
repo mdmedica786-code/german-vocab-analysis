@@ -23,6 +23,8 @@ status: "new"
 
 ![[Niederschlag.ogg]]
 
+![[Niederschlag.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Niederschlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Niederschlag&language=de)
 
 **Meaning:** precipitation (rain, snow)

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Arm
 
+![[Arm.jpg]]
+
 ![[Arm.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Arm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arm&language=de)

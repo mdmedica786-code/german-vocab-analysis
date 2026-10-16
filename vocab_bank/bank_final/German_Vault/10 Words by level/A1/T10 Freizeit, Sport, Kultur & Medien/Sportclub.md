@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Sportclub
 
+![[Sportclub.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sportclub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportclub&language=de)
 
 **Meaning:** sports club

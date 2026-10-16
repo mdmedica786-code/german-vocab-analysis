@@ -23,6 +23,8 @@ status: "new"
 
 ![[Eintrittskarte.ogg]]
 
+![[Eintrittskarte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Eintrittskarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eintrittskarte&language=de)
 
 **Meaning:** admission ticket

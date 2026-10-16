@@ -25,6 +25,8 @@ status: "new"
 
 ![[Feuerwehr.ogg]]
 
+![[Feuerwehr.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Feuerwehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuerwehr&language=de)
 
 **Meaning:** fire brigade

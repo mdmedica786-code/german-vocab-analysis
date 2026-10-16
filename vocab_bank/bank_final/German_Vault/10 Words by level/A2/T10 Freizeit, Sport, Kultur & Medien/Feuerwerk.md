@@ -24,6 +24,8 @@ status: "new"
 
 ![[Feuerwerk.ogg]]
 
+![[Feuerwerk.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Feuerwerk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuerwerk&language=de)
 
 **Meaning:** fireworks

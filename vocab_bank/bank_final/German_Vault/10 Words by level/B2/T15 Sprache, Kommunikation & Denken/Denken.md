@@ -23,6 +23,8 @@ status: "new"
 
 ![[Denken (167).ogg]]
 
+![[Denken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Denken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Denken&language=de)
 
 **Meaning:** thinking

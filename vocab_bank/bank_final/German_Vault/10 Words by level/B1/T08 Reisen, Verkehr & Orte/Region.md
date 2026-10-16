@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Region
 
+![[Region.jpg]]
+
 ![[Region.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Region/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Region&language=de)

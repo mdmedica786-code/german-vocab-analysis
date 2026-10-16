@@ -23,6 +23,8 @@ status: "new"
 
 ![[Boulevardpresse.ogg]]
 
+![[Boulevardpresse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Boulevardpresse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Boulevardpresse&language=de)
 
 **Meaning:** tabloid press

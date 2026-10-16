@@ -24,6 +24,8 @@ status: "new"
 
 ![[Klassik.ogg]]
 
+![[Klassik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Klassik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klassik&language=de)
 
 **Meaning:** classical music

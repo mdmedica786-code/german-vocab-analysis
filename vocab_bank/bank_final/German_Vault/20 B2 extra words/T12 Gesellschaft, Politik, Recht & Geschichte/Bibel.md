@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bibel.ogg]]
 
+![[Bibel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bibel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bibel&language=de)
 
 **Meaning:** Bible

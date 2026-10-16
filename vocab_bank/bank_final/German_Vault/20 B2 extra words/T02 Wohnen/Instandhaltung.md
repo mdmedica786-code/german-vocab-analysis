@@ -23,6 +23,8 @@ status: "new"
 
 ![[Instandhaltung.ogg]]
 
+![[Instandhaltung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Instandhaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Instandhaltung&language=de)
 
 **Meaning:** maintenance; upkeep

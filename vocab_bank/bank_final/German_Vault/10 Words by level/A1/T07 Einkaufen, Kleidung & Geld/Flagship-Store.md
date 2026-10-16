@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Flagship-Store
 
+![[Flagship-Store.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Flagship-Store/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flagship-Store&language=de)
 
 **Meaning:** flagship store

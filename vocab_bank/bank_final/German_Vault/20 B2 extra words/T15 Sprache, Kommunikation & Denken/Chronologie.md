@@ -23,6 +23,8 @@ status: "new"
 
 ![[Chronologie.ogg]]
 
+![[Chronologie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Chronologie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chronologie&language=de)
 
 **Meaning:** chronology; order of events

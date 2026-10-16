@@ -23,6 +23,8 @@ status: "new"
 
 ![[Bewerbungsgespräch.ogg]]
 
+![[Bewerbungsgespräch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Bewerbungsgespr%C3%A4ch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bewerbungsgespr%C3%A4ch&language=de)
 
 **Meaning:** job interview

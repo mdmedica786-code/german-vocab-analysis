@@ -23,6 +23,8 @@ status: "new"
 
 ![[Eigenheim.ogg]]
 
+![[Eigenheim.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Eigenheim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eigenheim&language=de)
 
 **Meaning:** owner-occupied house; own home

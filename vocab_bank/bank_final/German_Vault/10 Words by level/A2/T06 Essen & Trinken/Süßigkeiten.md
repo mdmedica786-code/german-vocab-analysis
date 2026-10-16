@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Süßigkeiten
 
+![[Süßigkeiten.jpg]]
+
 ![[Süßigkeiten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/S%C3%BC%C3%9Figkeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%BC%C3%9Figkeiten&language=de)

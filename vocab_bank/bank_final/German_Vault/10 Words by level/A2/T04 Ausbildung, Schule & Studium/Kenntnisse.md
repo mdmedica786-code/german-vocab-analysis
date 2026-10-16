@@ -26,6 +26,8 @@ status: "new"
 
 ![[Kenntnisse.ogg]]
 
+![[Kenntnisse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kenntnisse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kenntnisse&language=de)
 
 **Meaning:** knowledge; skills

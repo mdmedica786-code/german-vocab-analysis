@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Winter
 
+![[Winter.jpg]]
+
 ![[Winter.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Winter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Winter&language=de)

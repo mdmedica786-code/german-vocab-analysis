@@ -25,6 +25,8 @@ status: "new"
 
 ![[Staat.ogg]]
 
+![[Staat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Staat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Staat&language=de)
 
 **Meaning:** state

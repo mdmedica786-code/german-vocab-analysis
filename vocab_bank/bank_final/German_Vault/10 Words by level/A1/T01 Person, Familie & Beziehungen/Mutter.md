@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Mutter
 
+![[Mutter.jpg]]
+
 ![[Mutter.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Mutter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mutter&language=de)

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Carbonbeton
 
+![[Carbonbeton.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Carbonbeton/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Carbonbeton&language=de)
 
 **Meaning:** carbon concrete

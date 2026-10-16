@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Hauptschule
 
+![[Hauptschule.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hauptschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptschule&language=de)
 
 **Meaning:** secondary school

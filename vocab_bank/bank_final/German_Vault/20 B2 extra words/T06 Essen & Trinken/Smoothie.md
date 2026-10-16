@@ -23,6 +23,8 @@ status: "new"
 
 ![[Smoothie.ogg]]
 
+![[Smoothie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Smoothie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Smoothie&language=de)
 
 **Meaning:** smoothie

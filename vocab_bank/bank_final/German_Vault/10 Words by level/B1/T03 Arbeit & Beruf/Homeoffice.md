@@ -24,6 +24,8 @@ status: "new"
 
 ![[Homeoffice.ogg]]
 
+![[Homeoffice.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Homeoffice/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Homeoffice&language=de)
 
 **Meaning:** home office

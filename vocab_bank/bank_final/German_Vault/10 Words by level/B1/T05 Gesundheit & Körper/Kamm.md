@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kamm.ogg]]
 
+![[Kamm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kamm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kamm&language=de)
 
 **Meaning:** comb

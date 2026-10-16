@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kita.ogg]]
 
+![[Kita.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kita/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kita&language=de)
 
 **Meaning:** kindergarten

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Marotte.ogg]]
 
+![[Marotte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Marotte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marotte&language=de)
 
 **Meaning:** quirk; habit

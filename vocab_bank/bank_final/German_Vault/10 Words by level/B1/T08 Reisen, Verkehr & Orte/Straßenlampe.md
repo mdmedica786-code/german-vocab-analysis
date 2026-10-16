@@ -24,6 +24,8 @@ status: "new"
 
 ![[Straßenlampe.ogg]]
 
+![[Straßenlampe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stra%C3%9Fenlampe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stra%C3%9Fenlampe&language=de)
 
 **Meaning:** street lamp

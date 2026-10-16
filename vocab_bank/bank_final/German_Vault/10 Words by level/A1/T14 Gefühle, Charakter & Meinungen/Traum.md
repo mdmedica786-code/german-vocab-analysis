@@ -25,6 +25,8 @@ status: "new"
 
 ![[Traum.ogg]]
 
+![[Traum.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Traum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Traum&language=de)
 
 **Meaning:** dream

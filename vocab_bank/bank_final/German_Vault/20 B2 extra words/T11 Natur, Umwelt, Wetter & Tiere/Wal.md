@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Wal
 
+![[Wal.jpg]]
+
 ![[Wal.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wal&language=de)

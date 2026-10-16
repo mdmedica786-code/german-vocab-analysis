@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Mülltonne
 
+![[Mülltonne.jpg]]
+
 ![[Mülltonne.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%BClltonne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BClltonne&language=de)

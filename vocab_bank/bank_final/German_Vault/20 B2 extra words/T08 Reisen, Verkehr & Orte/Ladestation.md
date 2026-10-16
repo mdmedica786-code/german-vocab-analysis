@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ladestation.ogg]]
 
+![[Ladestation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ladestation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ladestation&language=de)
 
 **Meaning:** charging station

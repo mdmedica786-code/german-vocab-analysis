@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Kopfhörer
 
+![[Kopfhörer.jpg]]
+
 ![[Kopfhörer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kopfh%C3%B6rer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kopfh%C3%B6rer&language=de)

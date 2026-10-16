@@ -24,6 +24,8 @@ status: "new"
 
 ![[Feedback.ogg]]
 
+![[Feedback.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Feedback/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feedback&language=de)
 
 **Meaning:** feedback

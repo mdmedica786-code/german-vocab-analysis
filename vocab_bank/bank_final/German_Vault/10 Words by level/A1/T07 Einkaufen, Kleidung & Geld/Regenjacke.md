@@ -24,6 +24,8 @@ status: "new"
 
 ![[Regenjacke.ogg]]
 
+![[Regenjacke.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Regenjacke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regenjacke&language=de)
 
 **Meaning:** rain coat

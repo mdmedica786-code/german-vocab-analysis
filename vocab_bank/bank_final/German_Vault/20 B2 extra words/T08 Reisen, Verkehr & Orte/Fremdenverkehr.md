@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fremdenverkehr.ogg]]
 
+![[Fremdenverkehr.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fremdenverkehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fremdenverkehr&language=de)
 
 **Meaning:** tourism

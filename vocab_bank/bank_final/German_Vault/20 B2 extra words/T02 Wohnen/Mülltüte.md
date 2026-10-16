@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mülltüte.ogg]]
 
+![[Mülltüte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCllt%C3%BCte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCllt%C3%BCte&language=de)
 
 **Meaning:** bin bag

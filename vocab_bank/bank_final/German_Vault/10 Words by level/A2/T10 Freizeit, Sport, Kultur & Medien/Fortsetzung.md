@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fortsetzung.ogg]]
 
+![[Fortsetzung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fortsetzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fortsetzung&language=de)
 
 **Meaning:** sequel

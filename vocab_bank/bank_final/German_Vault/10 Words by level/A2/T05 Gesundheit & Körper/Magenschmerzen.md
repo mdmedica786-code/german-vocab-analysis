@@ -24,6 +24,8 @@ status: "new"
 
 ![[Magenschmerzen.ogg]]
 
+![[Magenschmerzen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Magenschmerzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Magenschmerzen&language=de)
 
 **Meaning:** stomach ache

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Schal
 
+![[Schal.jpg]]
+
 ![[Schal.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schal&language=de)

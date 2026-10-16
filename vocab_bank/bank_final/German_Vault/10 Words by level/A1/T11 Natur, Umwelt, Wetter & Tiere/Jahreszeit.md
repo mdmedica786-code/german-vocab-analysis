@@ -24,6 +24,8 @@ status: "new"
 
 ![[Jahreszeit.ogg]]
 
+![[Jahreszeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Jahreszeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jahreszeit&language=de)
 
 **Meaning:** season

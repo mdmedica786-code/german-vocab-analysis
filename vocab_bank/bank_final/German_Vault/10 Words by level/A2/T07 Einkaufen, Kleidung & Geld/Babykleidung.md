@@ -24,6 +24,8 @@ status: "new"
 
 ![[Babykleidung.ogg]]
 
+![[Babykleidung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Babykleidung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Babykleidung&language=de)
 
 **Meaning:** baby clothes

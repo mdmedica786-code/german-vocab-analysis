@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schlamm.ogg]]
 
+![[Schlamm.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schlamm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlamm&language=de)
 
 **Meaning:** mud

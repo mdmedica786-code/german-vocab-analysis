@@ -24,6 +24,8 @@ status: "new"
 
 ![[Rockmusik.ogg]]
 
+![[Rockmusik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rockmusik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rockmusik&language=de)
 
 **Meaning:** rock music

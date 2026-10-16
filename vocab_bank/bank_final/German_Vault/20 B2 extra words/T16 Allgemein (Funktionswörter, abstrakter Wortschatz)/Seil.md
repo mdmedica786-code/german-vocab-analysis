@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Seil
 
+![[Seil.jpg]]
+
 ![[Seil.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Seil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Seil&language=de)

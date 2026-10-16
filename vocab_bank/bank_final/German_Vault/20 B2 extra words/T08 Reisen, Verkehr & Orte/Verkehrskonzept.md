@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verkehrskonzept.ogg]]
 
+![[Verkehrskonzept.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verkehrskonzept/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrskonzept&language=de)
 
 **Meaning:** transport concept; traffic plan

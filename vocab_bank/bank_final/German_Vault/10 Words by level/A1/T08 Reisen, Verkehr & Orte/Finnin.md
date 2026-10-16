@@ -24,6 +24,8 @@ status: "new"
 
 ![[Finnin.ogg]]
 
+![[Finnin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Finnin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Finnin&language=de)
 
 **Meaning:** Finn (f)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fotografin.ogg]]
 
+![[Fotografin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fotografin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fotografin&language=de)
 
 **Meaning:** photographer (f)

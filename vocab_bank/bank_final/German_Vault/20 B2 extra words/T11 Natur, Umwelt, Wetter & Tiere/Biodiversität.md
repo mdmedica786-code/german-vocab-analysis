@@ -23,6 +23,8 @@ status: "new"
 
 ![[Biodiversität.ogg]]
 
+![[Biodiversität.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Biodiversit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biodiversit%C3%A4t&language=de)
 
 **Meaning:** biodiversity

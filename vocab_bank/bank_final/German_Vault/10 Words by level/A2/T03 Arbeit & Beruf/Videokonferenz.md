@@ -24,6 +24,8 @@ status: "new"
 
 ![[Videokonferenz.ogg]]
 
+![[Videokonferenz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Videokonferenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Videokonferenz&language=de)
 
 **Meaning:** video conference

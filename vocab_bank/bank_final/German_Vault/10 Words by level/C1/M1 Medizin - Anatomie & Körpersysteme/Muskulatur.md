@@ -23,6 +23,8 @@ status: "new"
 
 ![[Muskulatur.ogg]]
 
+![[Muskulatur.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Muskulatur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Muskulatur&language=de)
 
 **Meaning:** musculature

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Seilbahn.ogg]]
 
+![[Seilbahn.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Seilbahn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Seilbahn&language=de)
 
 **Meaning:** cable car

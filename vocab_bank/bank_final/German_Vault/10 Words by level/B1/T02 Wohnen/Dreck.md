@@ -25,6 +25,8 @@ status: "new"
 
 ![[Dreck.ogg]]
 
+![[Dreck.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dreck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dreck&language=de)
 
 **Meaning:** dirt

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Geringschätzung.ogg]]
 
+![[Geringschätzung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Geringsch%C3%A4tzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geringsch%C3%A4tzung&language=de)
 
 **Meaning:** disdain; low regard

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Blitz
 
+![[Blitz.jpg]]
+
 ![[Blitz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Blitz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blitz&language=de)

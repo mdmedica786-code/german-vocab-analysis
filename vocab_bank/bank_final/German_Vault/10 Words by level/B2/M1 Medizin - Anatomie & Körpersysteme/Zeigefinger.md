@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Zeigefinger
 
+![[Zeigefinger.jpg]]
+
 ![[Zeigefinger.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zeigefinger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeigefinger&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Heimweh.ogg]]
 
+![[Heimweh.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Heimweh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heimweh&language=de)
 
 **Meaning:** homesickness

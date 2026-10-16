@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Paradeiser
 
+![[Paradeiser.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Paradeiser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Paradeiser&language=de)
 
 **Meaning:** tomato (Austrian)

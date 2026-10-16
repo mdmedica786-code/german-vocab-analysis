@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ausnahmezustand.ogg]]
 
+![[Ausnahmezustand.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ausnahmezustand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausnahmezustand&language=de)
 
 **Meaning:** state of emergency; exceptional situation

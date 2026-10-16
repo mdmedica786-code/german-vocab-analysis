@@ -25,6 +25,8 @@ status: "new"
 
 ![[Krankenschwester.ogg]]
 
+![[Krankenschwester.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krankenschwester/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankenschwester&language=de)
 
 **Meaning:** nurse

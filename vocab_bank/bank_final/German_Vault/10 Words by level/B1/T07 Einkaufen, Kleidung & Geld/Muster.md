@@ -24,6 +24,8 @@ status: "new"
 
 ![[Muster.ogg]]
 
+![[Muster.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Muster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Muster&language=de)
 
 **Meaning:** pattern

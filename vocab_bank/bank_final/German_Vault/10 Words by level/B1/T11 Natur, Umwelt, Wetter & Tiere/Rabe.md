@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Rabe
 
+![[Rabe.jpg]]
+
 ![[Rabe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Rabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rabe&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Metall.ogg]]
 
+![[Metall.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Metall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Metall&language=de)
 
 **Meaning:** metal

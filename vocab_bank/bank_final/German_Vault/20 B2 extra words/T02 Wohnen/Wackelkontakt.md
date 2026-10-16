@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wackelkontakt.ogg]]
 
+![[Wackelkontakt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wackelkontakt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wackelkontakt&language=de)
 
 **Meaning:** loose connection

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kuss.ogg]]
 
+![[Kuss.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kuss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kuss&language=de)
 
 **Meaning:** kiss

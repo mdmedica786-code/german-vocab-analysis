@@ -23,6 +23,8 @@ status: "new"
 
 ![[Backblech.ogg]]
 
+![[Backblech.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Backblech/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Backblech&language=de)
 
 **Meaning:** baking tray

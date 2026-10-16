@@ -23,6 +23,8 @@ status: "new"
 
 ![[Existenz.ogg]]
 
+![[Existenz.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Existenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Existenz&language=de)
 
 **Meaning:** existence; livelihood

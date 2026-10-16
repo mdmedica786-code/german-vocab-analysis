@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gegend.ogg]]
 
+![[Gegend.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gegend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegend&language=de)
 
 **Meaning:** area; region

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Arbeitszimmer.ogg]]
 
+![[Arbeitszimmer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitszimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitszimmer&language=de)
 
 **Meaning:** study; home office

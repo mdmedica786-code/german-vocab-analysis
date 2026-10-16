@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Runde
 
+![[Runde.jpg]]
+
 ![[Runde.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Runde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Runde&language=de)

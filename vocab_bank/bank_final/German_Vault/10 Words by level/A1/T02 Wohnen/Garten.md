@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Garten
 
+![[Garten.jpg]]
+
 ![[Garten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Garten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Garten&language=de)

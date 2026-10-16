@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verhandlung.ogg]]
 
+![[Verhandlung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verhandlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verhandlung&language=de)
 
 **Meaning:** negotiation; hearing

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Social-Media-Kampagne
 
+![[Social-Media-Kampagne.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Social-Media-Kampagne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Social-Media-Kampagne&language=de)
 
 **Meaning:** social media campaign

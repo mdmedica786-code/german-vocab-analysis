@@ -25,6 +25,8 @@ status: "new"
 
 ![[Kantine.ogg]]
 
+![[Kantine.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kantine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kantine&language=de)
 
 **Meaning:** canteen

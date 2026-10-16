@@ -24,6 +24,8 @@ status: "new"
 
 ![[Verbrecher.ogg]]
 
+![[Verbrecher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verbrecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbrecher&language=de)
 
 **Meaning:** criminal

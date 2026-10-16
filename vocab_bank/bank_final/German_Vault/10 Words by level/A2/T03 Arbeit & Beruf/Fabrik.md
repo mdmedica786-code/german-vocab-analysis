@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fabrik.ogg]]
 
+![[Fabrik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fabrik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fabrik&language=de)
 
 **Meaning:** factory

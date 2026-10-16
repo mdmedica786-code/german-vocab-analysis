@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kommunikationsstärke.ogg]]
 
+![[Kommunikationsstärke.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kommunikationsst%C3%A4rke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kommunikationsst%C3%A4rke&language=de)
 
 **Meaning:** communication skills; strength in communicating

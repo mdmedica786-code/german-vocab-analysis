@@ -24,6 +24,8 @@ status: "new"
 
 ![[Spielekonsole.ogg]]
 
+![[Spielekonsole.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spielekonsole/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spielekonsole&language=de)
 
 **Meaning:** video game console

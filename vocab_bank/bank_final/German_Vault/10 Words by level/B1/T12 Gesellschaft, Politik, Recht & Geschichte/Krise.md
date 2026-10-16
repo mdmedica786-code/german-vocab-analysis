@@ -25,6 +25,8 @@ status: "new"
 
 ![[Krise.ogg]]
 
+![[Krise.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krise&language=de)
 
 **Meaning:** crisis (Situation)

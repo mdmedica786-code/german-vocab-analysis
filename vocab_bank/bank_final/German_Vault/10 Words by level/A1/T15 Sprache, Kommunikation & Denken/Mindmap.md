@@ -24,6 +24,8 @@ status: "new"
 
 ![[Mindmap.ogg]]
 
+![[Mindmap.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mindmap/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mindmap&language=de)
 
 **Meaning:** mind map

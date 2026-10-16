@@ -23,6 +23,8 @@ status: "new"
 
 ![[Arbeitssicherheit.ogg]]
 
+![[Arbeitssicherheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitssicherheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitssicherheit&language=de)
 
 **Meaning:** safety at work

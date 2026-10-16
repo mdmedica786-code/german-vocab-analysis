@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Jugend
 
+![[Jugend.jpg]]
+
 ![[Jugend.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Jugend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jugend&language=de)

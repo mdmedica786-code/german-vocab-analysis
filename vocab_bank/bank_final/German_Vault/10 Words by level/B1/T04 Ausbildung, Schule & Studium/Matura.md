@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Matura
 
+![[Matura.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Matura/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Matura&language=de)
 
 **Meaning:** school-leaving exam (A-levels, Austria and Switzerland)

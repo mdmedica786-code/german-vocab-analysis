@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Nacht
 
+![[Nacht.jpg]]
+
 ![[Nacht.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Nacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nacht&language=de)

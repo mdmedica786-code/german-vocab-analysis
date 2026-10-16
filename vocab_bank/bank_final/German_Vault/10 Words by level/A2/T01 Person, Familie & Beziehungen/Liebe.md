@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Liebe
 
+![[Liebe.jpg]]
+
 ![[Liebe.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Liebe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Liebe&language=de)

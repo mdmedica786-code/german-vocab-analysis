@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Radiosprecher
 
+![[Radiosprecher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Radiosprecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radiosprecher&language=de)
 
 **Meaning:** radio announcer (m)

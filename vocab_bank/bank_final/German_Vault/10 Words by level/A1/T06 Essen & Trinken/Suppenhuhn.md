@@ -24,6 +24,8 @@ status: "new"
 
 ![[Suppenhuhn.ogg]]
 
+![[Suppenhuhn.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Suppenhuhn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Suppenhuhn&language=de)
 
 **Meaning:** chicken for soup

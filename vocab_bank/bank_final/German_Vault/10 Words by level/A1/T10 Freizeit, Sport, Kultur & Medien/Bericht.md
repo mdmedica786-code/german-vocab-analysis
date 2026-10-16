@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Bericht
 
+![[Bericht.png]]
+
 ![[Bericht.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bericht&language=de)

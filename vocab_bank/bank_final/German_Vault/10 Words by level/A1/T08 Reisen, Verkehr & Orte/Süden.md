@@ -25,6 +25,8 @@ status: "new"
 
 ![[Süden.ogg]]
 
+![[Süden.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/S%C3%BCden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%BCden&language=de)
 
 **Meaning:** South

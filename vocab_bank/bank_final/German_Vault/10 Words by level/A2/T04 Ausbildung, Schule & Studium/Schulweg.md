@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schulweg.ogg]]
 
+![[Schulweg.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schulweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulweg&language=de)
 
 **Meaning:** way to school

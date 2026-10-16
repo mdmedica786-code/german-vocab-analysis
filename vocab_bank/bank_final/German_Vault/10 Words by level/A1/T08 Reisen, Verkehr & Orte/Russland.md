@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Russland
 
+![[Russland.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Russland/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Russland&language=de)
 
 **Meaning:** Russia

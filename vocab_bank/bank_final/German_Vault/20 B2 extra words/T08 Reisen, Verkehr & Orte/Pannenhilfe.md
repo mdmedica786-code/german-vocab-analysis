@@ -23,6 +23,8 @@ status: "new"
 
 ![[Pannenhilfe.ogg]]
 
+![[Pannenhilfe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pannenhilfe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pannenhilfe&language=de)
 
 **Meaning:** breakdown assistance

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Konsonant.ogg]]
 
+![[Konsonant.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Konsonant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konsonant&language=de)
 
 **Meaning:** consonant

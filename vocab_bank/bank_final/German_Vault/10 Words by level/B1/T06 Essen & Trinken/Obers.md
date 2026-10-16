@@ -24,6 +24,8 @@ status: "new"
 <!-- bank:start -->
 # das Obers
 
+![[Obers.jpg]]
+
 ![[Obers.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Obers/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Obers&language=de)

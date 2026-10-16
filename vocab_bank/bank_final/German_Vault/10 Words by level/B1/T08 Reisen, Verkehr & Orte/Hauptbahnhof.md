@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Hauptbahnhof
 
+![[Hauptbahnhof.jpg]]
+
 ![[Hauptbahnhof.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hauptbahnhof/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptbahnhof&language=de)

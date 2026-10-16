@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hashtag.ogg]]
 
+![[Hashtag.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hashtag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hashtag&language=de)
 
 **Meaning:** hashtag

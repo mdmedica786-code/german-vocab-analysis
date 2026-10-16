@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Nachfrage
 
+![[Nachfrage.png]]
+
 ![[Nachfrage.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Nachfrage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachfrage&language=de)

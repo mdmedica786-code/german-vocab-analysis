@@ -23,6 +23,8 @@ status: "new"
 
 ![[Infrastruktur.ogg]]
 
+![[Infrastruktur.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Infrastruktur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Infrastruktur&language=de)
 
 **Meaning:** infrastructure

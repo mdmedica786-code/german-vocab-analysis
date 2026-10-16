@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schulbildung.ogg]]
 
+![[Schulbildung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schulbildung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulbildung&language=de)
 
 **Meaning:** education

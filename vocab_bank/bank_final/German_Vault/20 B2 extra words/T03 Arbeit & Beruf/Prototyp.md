@@ -23,6 +23,8 @@ status: "new"
 
 ![[Prototyp.ogg]]
 
+![[Prototyp.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Prototyp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prototyp&language=de)
 
 **Meaning:** prototype

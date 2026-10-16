@@ -25,6 +25,8 @@ status: "new"
 
 ![[Mehrwertsteuer.ogg]]
 
+![[Mehrwertsteuer.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mehrwertsteuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mehrwertsteuer&language=de)
 
 **Meaning:** value-added tax (VAT)

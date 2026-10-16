@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lunge.ogg]]
 
+![[Lunge.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lunge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lunge&language=de)
 
 **Meaning:** lung

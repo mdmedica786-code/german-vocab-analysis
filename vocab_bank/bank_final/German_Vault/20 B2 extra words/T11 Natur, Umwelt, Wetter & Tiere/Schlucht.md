@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schlucht.ogg]]
 
+![[Schlucht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schlucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlucht&language=de)
 
 **Meaning:** gorge; ravine

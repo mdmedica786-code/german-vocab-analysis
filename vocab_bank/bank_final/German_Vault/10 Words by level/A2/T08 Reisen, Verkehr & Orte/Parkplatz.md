@@ -24,6 +24,8 @@ status: "new"
 
 ![[Parkplatz.ogg]]
 
+![[Parkplatz.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Parkplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parkplatz&language=de)
 
 **Meaning:** parking lot

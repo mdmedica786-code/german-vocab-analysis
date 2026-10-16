@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Frucht
 
+![[Frucht.jpg]]
+
 ![[Frucht.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Frucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frucht&language=de)

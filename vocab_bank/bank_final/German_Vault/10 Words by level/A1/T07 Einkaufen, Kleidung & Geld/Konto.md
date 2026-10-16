@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Konto
 
+![[Konto.png]]
+
 ![[Konto.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Konto/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konto&language=de)

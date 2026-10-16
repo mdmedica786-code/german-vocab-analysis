@@ -23,6 +23,8 @@ status: "new"
 
 ![[Metapher.ogg]]
 
+![[Metapher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Metapher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Metapher&language=de)
 
 **Meaning:** metaphor

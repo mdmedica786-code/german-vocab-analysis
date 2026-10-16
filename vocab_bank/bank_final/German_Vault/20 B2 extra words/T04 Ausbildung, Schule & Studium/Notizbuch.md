@@ -23,6 +23,8 @@ status: "new"
 
 ![[Notizbuch.ogg]]
 
+![[Notizbuch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Notizbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notizbuch&language=de)
 
 **Meaning:** notebook

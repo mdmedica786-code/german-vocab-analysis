@@ -23,6 +23,8 @@ status: "new"
 
 ![[Wäscheleine.ogg]]
 
+![[Wäscheleine.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/W%C3%A4scheleine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%A4scheleine&language=de)
 
 **Meaning:** clothesline

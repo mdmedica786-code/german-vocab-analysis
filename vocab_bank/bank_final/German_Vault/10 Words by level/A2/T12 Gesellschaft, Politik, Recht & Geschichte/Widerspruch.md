@@ -24,6 +24,8 @@ status: "new"
 
 ![[Widerspruch.ogg]]
 
+![[Widerspruch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Widerspruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Widerspruch&language=de)
 
 **Meaning:** contradiction; objection; (legal) appeal

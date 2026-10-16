@@ -25,6 +25,8 @@ status: "new"
 
 ![[Notruf.ogg]]
 
+![[Notruf.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Notruf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notruf&language=de)
 
 **Meaning:** SOS, emergency call

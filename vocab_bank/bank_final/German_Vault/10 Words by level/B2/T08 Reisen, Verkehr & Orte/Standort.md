@@ -23,6 +23,8 @@ status: "new"
 
 ![[Standort.ogg]]
 
+![[Standort.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Standort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Standort&language=de)
 
 **Meaning:** location; site

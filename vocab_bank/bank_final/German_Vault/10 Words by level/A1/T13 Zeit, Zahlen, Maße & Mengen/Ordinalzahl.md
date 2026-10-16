@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ordinalzahl.ogg]]
 
+![[Ordinalzahl.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ordinalzahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ordinalzahl&language=de)
 
 **Meaning:** ordinal number

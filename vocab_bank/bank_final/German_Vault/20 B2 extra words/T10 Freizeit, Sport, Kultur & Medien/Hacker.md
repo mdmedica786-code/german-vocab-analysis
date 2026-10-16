@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Hacker
 
+![[Hacker.jpg]]
+
 ![[Hacker.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Hacker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hacker&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sklave.ogg]]
 
+![[Sklave.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sklave/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sklave&language=de)
 
 **Meaning:** slave

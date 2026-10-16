@@ -23,6 +23,8 @@ status: "new"
 
 ![[Ehrendoktorwürde.ogg]]
 
+![[Ehrendoktorwürde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ehrendoktorw%C3%BCrde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehrendoktorw%C3%BCrde&language=de)
 
 **Meaning:** honorary doctorate

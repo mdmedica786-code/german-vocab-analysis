@@ -23,6 +23,8 @@ status: "new"
 
 ![[Elfmeter.ogg]]
 
+![[Elfmeter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Elfmeter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elfmeter&language=de)
 
 **Meaning:** penalty kick

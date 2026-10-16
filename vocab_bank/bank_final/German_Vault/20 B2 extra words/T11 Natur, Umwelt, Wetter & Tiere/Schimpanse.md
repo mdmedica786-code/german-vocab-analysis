@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Schimpanse
 
+![[Schimpanse.jpg]]
+
 ![[Schimpanse.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schimpanse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schimpanse&language=de)

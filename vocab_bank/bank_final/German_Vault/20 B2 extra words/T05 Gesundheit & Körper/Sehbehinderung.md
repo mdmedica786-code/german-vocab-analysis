@@ -23,6 +23,8 @@ status: "new"
 
 ![[Sehbehinderung.ogg]]
 
+![[Sehbehinderung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sehbehinderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sehbehinderung&language=de)
 
 **Meaning:** visual impairment

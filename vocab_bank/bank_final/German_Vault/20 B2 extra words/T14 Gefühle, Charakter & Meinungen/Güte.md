@@ -23,6 +23,8 @@ status: "new"
 
 ![[Güte.ogg]]
 
+![[Güte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/G%C3%BCte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=G%C3%BCte&language=de)
 
 **Meaning:** kindness; quality

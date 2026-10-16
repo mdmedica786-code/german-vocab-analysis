@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hamburger.ogg]]
 
+![[Hamburger.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hamburger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hamburger&language=de)
 
 **Meaning:** hamburger

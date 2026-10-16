@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Wohnfläche
 
+![[Wohnfläche.jpg]]
+
 ![[Wohnfläche.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Wohnfl%C3%A4che/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnfl%C3%A4che&language=de)

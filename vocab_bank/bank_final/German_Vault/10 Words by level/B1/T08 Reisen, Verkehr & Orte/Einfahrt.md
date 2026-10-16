@@ -24,6 +24,8 @@ status: "new"
 
 ![[Einfahrt.ogg]]
 
+![[Einfahrt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einfahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einfahrt&language=de)
 
 **Meaning:** driveway; entrance

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Fotografie
 
+![[Fotografie.jpg]]
+
 ![[Fotografie.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fotografie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fotografie&language=de)

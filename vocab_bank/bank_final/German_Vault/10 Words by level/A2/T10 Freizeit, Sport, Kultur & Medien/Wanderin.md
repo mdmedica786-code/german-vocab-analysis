@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wanderin.ogg]]
 
+![[Wanderin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wanderin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wanderin&language=de)
 
 **Meaning:** hiker (f)

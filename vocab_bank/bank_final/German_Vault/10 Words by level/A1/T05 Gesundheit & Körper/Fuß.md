@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Fuß
 
+![[Fuß.jpg]]
+
 ![[Fuß.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9F&language=de)

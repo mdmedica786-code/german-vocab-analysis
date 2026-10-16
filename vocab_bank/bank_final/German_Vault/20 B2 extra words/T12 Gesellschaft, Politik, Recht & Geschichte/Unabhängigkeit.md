@@ -23,6 +23,8 @@ status: "new"
 
 ![[Unabhängigkeit.ogg]]
 
+![[Unabhängigkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Unabh%C3%A4ngigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unabh%C3%A4ngigkeit&language=de)
 
 **Meaning:** independence

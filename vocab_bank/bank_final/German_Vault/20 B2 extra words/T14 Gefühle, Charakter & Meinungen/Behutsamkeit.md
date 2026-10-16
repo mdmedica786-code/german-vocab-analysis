@@ -23,6 +23,8 @@ status: "new"
 
 ![[Behutsamkeit.ogg]]
 
+![[Behutsamkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Behutsamkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Behutsamkeit&language=de)
 
 **Meaning:** gentleness; caution

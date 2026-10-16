@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Game
 
+![[Game.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Game/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Game&language=de)
 
 **Meaning:** game (video game)

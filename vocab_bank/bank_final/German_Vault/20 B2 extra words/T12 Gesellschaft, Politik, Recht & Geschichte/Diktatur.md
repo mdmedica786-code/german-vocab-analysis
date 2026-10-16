@@ -23,6 +23,8 @@ status: "new"
 
 ![[Diktatur.ogg]]
 
+![[Diktatur.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Diktatur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diktatur&language=de)
 
 **Meaning:** dictatorship

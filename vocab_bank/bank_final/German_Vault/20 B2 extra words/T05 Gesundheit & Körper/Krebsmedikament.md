@@ -23,6 +23,8 @@ status: "new"
 
 ![[Krebsmedikament.ogg]]
 
+![[Krebsmedikament.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krebsmedikament/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krebsmedikament&language=de)
 
 **Meaning:** cancer drug; cancer medication

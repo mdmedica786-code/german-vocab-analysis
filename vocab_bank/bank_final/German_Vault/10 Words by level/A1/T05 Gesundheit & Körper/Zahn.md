@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Zahn
 
+![[Zahn.jpg]]
+
 ![[Zahn.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Zahn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahn&language=de)

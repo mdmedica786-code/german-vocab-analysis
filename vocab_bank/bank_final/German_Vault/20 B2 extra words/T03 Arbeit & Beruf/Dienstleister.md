@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dienstleister.ogg]]
 
+![[Dienstleister.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dienstleister/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dienstleister&language=de)
 
 **Meaning:** service provider

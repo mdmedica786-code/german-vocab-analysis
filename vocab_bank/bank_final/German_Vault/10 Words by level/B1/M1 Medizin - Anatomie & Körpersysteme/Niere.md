@@ -23,6 +23,8 @@ status: "new"
 
 ![[Niere.ogg]]
 
+![[Niere.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Niere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Niere&language=de)
 
 **Meaning:** kidney

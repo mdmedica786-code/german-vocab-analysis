@@ -24,6 +24,8 @@ status: "new"
 
 ![[Unterstrich.ogg]]
 
+![[Unterstrich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Unterstrich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterstrich&language=de)
 
 **Meaning:** underscore

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schlagzeile.ogg]]
 
+![[Schlagzeile.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schlagzeile/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlagzeile&language=de)
 
 **Meaning:** headline

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Sonnenaufgang.ogg]]
 
+![[Sonnenaufgang.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Sonnenaufgang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnenaufgang&language=de)
 
 **Meaning:** sunrise

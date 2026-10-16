@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Mantel
 
+![[Mantel.jpg]]
+
 ![[Mantel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Mantel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mantel&language=de)

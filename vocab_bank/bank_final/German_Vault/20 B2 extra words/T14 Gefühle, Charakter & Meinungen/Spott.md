@@ -23,6 +23,8 @@ status: "new"
 
 ![[Spott.ogg]]
 
+![[Spott.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spott/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spott&language=de)
 
 **Meaning:** mockery; ridicule

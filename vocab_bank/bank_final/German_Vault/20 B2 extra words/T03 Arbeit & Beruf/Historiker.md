@@ -23,6 +23,8 @@ status: "new"
 
 ![[Historiker.ogg]]
 
+![[Historiker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Historiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Historiker&language=de)
 
 **Meaning:** historian

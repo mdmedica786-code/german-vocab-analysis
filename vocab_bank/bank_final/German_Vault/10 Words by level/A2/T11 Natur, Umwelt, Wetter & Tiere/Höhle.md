@@ -24,6 +24,8 @@ status: "new"
 
 ![[Höhle.ogg]]
 
+![[Höhle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6hle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6hle&language=de)
 
 **Meaning:** cave

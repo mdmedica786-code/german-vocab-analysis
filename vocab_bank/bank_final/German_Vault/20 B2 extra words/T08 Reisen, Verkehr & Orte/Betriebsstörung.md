@@ -23,6 +23,8 @@ status: "new"
 
 ![[Betriebsstörung.ogg]]
 
+![[Betriebsstörung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Betriebsst%C3%B6rung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betriebsst%C3%B6rung&language=de)
 
 **Meaning:** operational disruption; service disruption

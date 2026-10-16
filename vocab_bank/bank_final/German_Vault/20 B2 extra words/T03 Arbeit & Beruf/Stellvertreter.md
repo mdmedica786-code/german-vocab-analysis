@@ -23,6 +23,8 @@ status: "new"
 
 ![[Stellvertreter.ogg]]
 
+![[Stellvertreter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stellvertreter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stellvertreter&language=de)
 
 **Meaning:** deputy; substitute

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Weltreise.ogg]]
 
+![[Weltreise.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Weltreise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weltreise&language=de)
 
 **Meaning:** world trip

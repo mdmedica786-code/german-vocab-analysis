@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Feder
 
+![[Feder.jpg]]
+
 ![[Feder.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Feder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feder&language=de)

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gebiet.ogg]]
 
+![[Gebiet.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gebiet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gebiet&language=de)
 
 **Meaning:** area

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Aufzug.ogg]]
 
+![[Aufzug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aufzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufzug&language=de)
 
 **Meaning:** elevator

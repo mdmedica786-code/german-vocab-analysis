@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Fell
 
+![[Fell.jpg]]
+
 ![[Fell.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Fell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fell&language=de)

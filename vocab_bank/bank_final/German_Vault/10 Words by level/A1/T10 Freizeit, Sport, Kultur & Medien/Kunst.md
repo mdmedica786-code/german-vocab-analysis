@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Kunst
 
+![[Kunst.jpg]]
+
 ![[Kunst.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Kunst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunst&language=de)

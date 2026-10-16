@@ -25,6 +25,8 @@ status: "new"
 
 ![[Badewanne.ogg]]
 
+![[Badewanne.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Badewanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Badewanne&language=de)
 
 **Meaning:** bathtub

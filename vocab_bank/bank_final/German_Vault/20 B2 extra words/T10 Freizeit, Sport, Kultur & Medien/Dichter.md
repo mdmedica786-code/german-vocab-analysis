@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dichter.ogg]]
 
+![[Dichter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dichter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dichter&language=de)
 
 **Meaning:** poet

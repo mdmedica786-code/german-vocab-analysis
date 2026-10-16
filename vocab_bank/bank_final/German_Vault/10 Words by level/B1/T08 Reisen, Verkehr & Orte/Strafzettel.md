@@ -24,6 +24,8 @@ status: "new"
 
 ![[Strafzettel.ogg]]
 
+![[Strafzettel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Strafzettel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strafzettel&language=de)
 
 **Meaning:** parking ticket; fine

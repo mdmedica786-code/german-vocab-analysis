@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fuchs.ogg]]
 
+![[Fuchs.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fuchs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fuchs&language=de)
 
 **Meaning:** fox

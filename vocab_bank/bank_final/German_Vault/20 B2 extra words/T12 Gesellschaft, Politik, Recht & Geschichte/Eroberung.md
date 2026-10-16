@@ -23,6 +23,8 @@ status: "new"
 
 ![[Eroberung.ogg]]
 
+![[Eroberung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Eroberung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eroberung&language=de)
 
 **Meaning:** conquest; capture

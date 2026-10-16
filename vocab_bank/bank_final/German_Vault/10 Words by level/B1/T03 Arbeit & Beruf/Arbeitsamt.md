@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Arbeitsamt
 
+![[Arbeitsamt.jpg]]
+
 ![[Arbeitsamt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Arbeitsamt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsamt&language=de)

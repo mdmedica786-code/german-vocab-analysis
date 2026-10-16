@@ -24,6 +24,8 @@ status: "new"
 
 ![[Pflegekraft.ogg]]
 
+![[Pflegekraft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pflegekraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflegekraft&language=de)
 
 **Meaning:** caregiver

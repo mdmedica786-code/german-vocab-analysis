@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fahrlehrer.ogg]]
 
+![[Fahrlehrer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fahrlehrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrlehrer&language=de)
 
 **Meaning:** driving instructor

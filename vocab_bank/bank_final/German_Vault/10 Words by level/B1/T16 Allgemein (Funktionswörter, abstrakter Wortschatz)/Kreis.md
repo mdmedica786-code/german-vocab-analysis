@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kreis.ogg]]
 
+![[Kreis.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kreis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kreis&language=de)
 
 **Meaning:** circle; district

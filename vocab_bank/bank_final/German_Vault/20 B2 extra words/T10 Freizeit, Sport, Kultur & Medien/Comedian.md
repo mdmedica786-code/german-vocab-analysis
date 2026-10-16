@@ -23,6 +23,8 @@ status: "new"
 
 ![[Comedian.ogg]]
 
+![[Comedian.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Comedian/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Comedian&language=de)
 
 **Meaning:** comedian

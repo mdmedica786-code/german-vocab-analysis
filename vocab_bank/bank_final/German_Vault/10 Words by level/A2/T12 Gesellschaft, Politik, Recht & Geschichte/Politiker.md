@@ -25,6 +25,8 @@ status: "new"
 
 ![[Politiker.ogg]]
 
+![[Politiker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Politiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Politiker&language=de)
 
 **Meaning:** politician (m)

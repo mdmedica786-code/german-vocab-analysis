@@ -25,6 +25,8 @@ status: "new"
 
 ![[Technologie.ogg]]
 
+![[Technologie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Technologie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Technologie&language=de)
 
 **Meaning:** technology

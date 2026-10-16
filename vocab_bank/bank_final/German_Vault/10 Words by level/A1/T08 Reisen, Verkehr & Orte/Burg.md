@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Burg
 
+![[Burg.jpg]]
+
 ![[Burg.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Burg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Burg&language=de)

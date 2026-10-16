@@ -24,6 +24,8 @@ status: "new"
 
 ![[Profisportler.ogg]]
 
+![[Profisportler.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Profisportler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Profisportler&language=de)
 
 **Meaning:** professional athlete (m)

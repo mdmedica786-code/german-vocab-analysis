@@ -24,6 +24,8 @@ status: "new"
 
 ![[Besteck.ogg]]
 
+![[Besteck.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Besteck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besteck&language=de)
 
 **Meaning:** cutlery

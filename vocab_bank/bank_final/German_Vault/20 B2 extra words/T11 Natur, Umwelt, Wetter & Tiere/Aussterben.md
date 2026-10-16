@@ -23,6 +23,8 @@ status: "new"
 
 ![[Aussterben.ogg]]
 
+![[Aussterben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Aussterben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aussterben&language=de)
 
 **Meaning:** extinction; dying out

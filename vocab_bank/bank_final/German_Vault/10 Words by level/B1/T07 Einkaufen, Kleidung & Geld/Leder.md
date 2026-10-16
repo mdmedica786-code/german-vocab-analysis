@@ -24,6 +24,8 @@ status: "new"
 
 ![[Leder.ogg]]
 
+![[Leder.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Leder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leder&language=de)
 
 **Meaning:** leather

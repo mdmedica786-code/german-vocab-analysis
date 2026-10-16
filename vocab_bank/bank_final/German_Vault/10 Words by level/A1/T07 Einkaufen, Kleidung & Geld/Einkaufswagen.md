@@ -24,6 +24,8 @@ status: "new"
 
 ![[Einkaufswagen.ogg]]
 
+![[Einkaufswagen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Einkaufswagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einkaufswagen&language=de)
 
 **Meaning:** shopping cart

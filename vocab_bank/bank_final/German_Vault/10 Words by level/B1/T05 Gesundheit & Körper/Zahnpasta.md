@@ -24,6 +24,8 @@ status: "new"
 
 ![[Zahnpasta.ogg]]
 
+![[Zahnpasta.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zahnpasta/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahnpasta&language=de)
 
 **Meaning:** toothpaste

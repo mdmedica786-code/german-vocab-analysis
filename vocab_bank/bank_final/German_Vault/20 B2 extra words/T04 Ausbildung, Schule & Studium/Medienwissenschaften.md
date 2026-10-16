@@ -23,6 +23,8 @@ status: "new"
 
 ![[Medienwissenschaften.ogg]]
 
+![[Medienwissenschaften.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Medienwissenschaften/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medienwissenschaften&language=de)
 
 **Meaning:** media studies

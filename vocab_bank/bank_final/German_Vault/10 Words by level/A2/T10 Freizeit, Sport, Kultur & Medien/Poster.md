@@ -25,6 +25,8 @@ status: "new"
 
 ![[Poster.ogg]]
 
+![[Poster.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Poster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Poster&language=de)
 
 **Meaning:** poster

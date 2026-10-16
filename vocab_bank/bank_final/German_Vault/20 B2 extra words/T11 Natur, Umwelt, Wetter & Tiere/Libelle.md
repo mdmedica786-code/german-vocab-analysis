@@ -23,6 +23,8 @@ status: "new"
 
 ![[Libelle.ogg]]
 
+![[Libelle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Libelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Libelle&language=de)
 
 **Meaning:** dragonfly

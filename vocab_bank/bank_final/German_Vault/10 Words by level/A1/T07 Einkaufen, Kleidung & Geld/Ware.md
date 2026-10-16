@@ -25,6 +25,8 @@ status: "new"
 
 ![[Ware.ogg]]
 
+![[Ware.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ware/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ware&language=de)
 
 **Meaning:** goods, merchandise

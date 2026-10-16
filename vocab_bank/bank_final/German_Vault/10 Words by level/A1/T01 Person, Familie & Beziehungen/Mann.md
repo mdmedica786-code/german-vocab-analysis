@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Mann
 
+![[Mann.jpg]]
+
 ![[Mann.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Mann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mann&language=de)

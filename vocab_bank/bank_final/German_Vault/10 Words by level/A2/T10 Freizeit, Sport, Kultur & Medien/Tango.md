@@ -24,6 +24,8 @@ status: "new"
 
 ![[Tango.ogg]]
 
+![[Tango.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tango/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tango&language=de)
 
 **Meaning:** tango

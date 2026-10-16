@@ -23,6 +23,8 @@ status: "new"
 
 ![[Biotonne.ogg]]
 
+![[Biotonne.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Biotonne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biotonne&language=de)
 
 **Meaning:** organic waste bin

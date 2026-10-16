@@ -23,6 +23,8 @@ status: "new"
 
 ![[Redewendung.ogg]]
 
+![[Redewendung.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Redewendung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Redewendung&language=de)
 
 **Meaning:** idiom; expression

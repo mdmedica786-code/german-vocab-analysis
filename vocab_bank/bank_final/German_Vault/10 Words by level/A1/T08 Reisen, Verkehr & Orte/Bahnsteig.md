@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Bahnsteig
 
+![[Bahnsteig.jpg]]
+
 ![[Bahnsteig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bahnsteig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bahnsteig&language=de)

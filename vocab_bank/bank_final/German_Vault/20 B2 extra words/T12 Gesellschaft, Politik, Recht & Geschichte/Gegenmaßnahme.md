@@ -23,6 +23,8 @@ status: "new"
 
 ![[Gegenmaßnahme.ogg]]
 
+![[Gegenmaßnahme.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gegenma%C3%9Fnahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegenma%C3%9Fnahme&language=de)
 
 **Meaning:** countermeasure

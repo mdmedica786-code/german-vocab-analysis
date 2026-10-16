@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Gewicht
 
+![[Gewicht.png]]
+
 ![[Gewicht.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gewicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewicht&language=de)

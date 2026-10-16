@@ -24,6 +24,8 @@ status: "new"
 
 ![[Telefonat.ogg]]
 
+![[Telefonat.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Telefonat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Telefonat&language=de)
 
 **Meaning:** phone call

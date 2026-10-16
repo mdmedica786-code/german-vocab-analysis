@@ -25,6 +25,8 @@ status: "new"
 
 ![[Opa.ogg]]
 
+![[Opa.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Opa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Opa&language=de)
 
 **Meaning:** grandpa

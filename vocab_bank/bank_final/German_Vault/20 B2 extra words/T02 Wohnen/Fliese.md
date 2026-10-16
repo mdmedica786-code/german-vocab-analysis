@@ -23,6 +23,8 @@ status: "new"
 
 ![[Fliese.ogg]]
 
+![[Fliese.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fliese/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fliese&language=de)
 
 **Meaning:** tile

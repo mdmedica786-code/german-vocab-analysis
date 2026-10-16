@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lungenkrankheit.ogg]]
 
+![[Lungenkrankheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lungenkrankheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lungenkrankheit&language=de)
 
 **Meaning:** lung disease

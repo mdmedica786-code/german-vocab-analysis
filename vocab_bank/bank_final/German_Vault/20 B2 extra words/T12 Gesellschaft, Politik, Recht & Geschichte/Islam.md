@@ -23,6 +23,8 @@ status: "new"
 
 ![[Islam.ogg]]
 
+![[Islam.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Islam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Islam&language=de)
 
 **Meaning:** Islam

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gewohnheit.ogg]]
 
+![[Gewohnheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gewohnheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewohnheit&language=de)
 
 **Meaning:** habit

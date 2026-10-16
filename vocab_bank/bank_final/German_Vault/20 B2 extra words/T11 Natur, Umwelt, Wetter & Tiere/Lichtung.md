@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lichtung.ogg]]
 
+![[Lichtung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lichtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lichtung&language=de)
 
 **Meaning:** clearing

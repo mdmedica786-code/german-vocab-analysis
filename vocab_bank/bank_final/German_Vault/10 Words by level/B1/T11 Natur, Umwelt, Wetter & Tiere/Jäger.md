@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Jäger
 
+![[Jäger.png]]
+
 ![[Jäger.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/J%C3%A4ger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=J%C3%A4ger&language=de)

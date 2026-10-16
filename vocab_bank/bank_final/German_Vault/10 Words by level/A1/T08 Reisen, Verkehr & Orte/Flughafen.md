@@ -25,6 +25,8 @@ status: "new"
 
 ![[Flughafen.ogg]]
 
+![[Flughafen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Flughafen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flughafen&language=de)
 
 **Meaning:** airport

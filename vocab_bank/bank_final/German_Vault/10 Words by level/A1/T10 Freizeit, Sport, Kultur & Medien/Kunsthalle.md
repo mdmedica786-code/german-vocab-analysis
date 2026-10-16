@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Kunsthalle
 
+![[Kunsthalle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kunsthalle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunsthalle&language=de)
 
 **Meaning:** art gallery

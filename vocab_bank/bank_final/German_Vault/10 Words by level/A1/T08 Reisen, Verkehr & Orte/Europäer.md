@@ -24,6 +24,8 @@ status: "new"
 
 ![[Europäer.ogg]]
 
+![[Europäer.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Europ%C3%A4er/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Europ%C3%A4er&language=de)
 
 **Meaning:** European (man)

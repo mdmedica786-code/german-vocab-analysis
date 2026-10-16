@@ -23,6 +23,8 @@ status: "new"
 
 ![[Besorgung.ogg]]
 
+![[Besorgung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Besorgung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besorgung&language=de)
 
 **Meaning:** errand; purchase

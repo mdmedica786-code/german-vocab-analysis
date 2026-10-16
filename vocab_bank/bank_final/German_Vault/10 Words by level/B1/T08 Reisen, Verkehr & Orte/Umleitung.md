@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Umleitung
 
+![[Umleitung.jpg]]
+
 ![[Umleitung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Umleitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umleitung&language=de)

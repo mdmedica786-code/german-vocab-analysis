@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Raum
 
+![[Raum.jpg]]
+
 ![[Raum.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Raum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Raum&language=de)

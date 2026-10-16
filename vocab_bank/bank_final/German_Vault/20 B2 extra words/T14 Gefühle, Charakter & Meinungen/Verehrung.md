@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verehrung.ogg]]
 
+![[Verehrung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verehrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verehrung&language=de)
 
 **Meaning:** admiration; veneration

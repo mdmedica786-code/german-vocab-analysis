@@ -24,6 +24,8 @@ status: "new"
 
 ![[Weltkrieg.ogg]]
 
+![[Weltkrieg.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Weltkrieg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weltkrieg&language=de)
 
 **Meaning:** world war

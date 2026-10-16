@@ -24,6 +24,8 @@ status: "new"
 
 ![[Ökostrom.ogg]]
 
+![[Ökostrom.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%96kostrom/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%96kostrom&language=de)
 
 **Meaning:** green electricity

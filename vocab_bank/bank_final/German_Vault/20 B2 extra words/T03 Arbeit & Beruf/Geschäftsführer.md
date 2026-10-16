@@ -23,6 +23,8 @@ status: "new"
 
 ![[Geschäftsführer.ogg]]
 
+![[Geschäftsführer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gesch%C3%A4ftsf%C3%BChrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesch%C3%A4ftsf%C3%BChrer&language=de)
 
 **Meaning:** managing director

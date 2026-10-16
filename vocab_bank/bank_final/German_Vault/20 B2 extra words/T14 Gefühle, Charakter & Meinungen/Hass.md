@@ -23,6 +23,8 @@ status: "new"
 
 ![[Hass.ogg]]
 
+![[Hass.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hass/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hass&language=de)
 
 **Meaning:** hatred; hate

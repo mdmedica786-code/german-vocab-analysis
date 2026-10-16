@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Stein
 
+![[Stein.jpg]]
+
 ![[Stein.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Stein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stein&language=de)

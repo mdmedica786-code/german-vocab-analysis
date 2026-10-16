@@ -23,6 +23,8 @@ status: "new"
 
 ![[Autohändlerin.ogg]]
 
+![[Autohändlerin.webp]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Autoh%C3%A4ndlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autoh%C3%A4ndlerin&language=de)
 
 **Meaning:** car dealer (female)

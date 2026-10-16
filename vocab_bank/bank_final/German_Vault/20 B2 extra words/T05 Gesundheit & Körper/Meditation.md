@@ -23,6 +23,8 @@ status: "new"
 
 ![[Meditation.ogg]]
 
+![[Meditation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Meditation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meditation&language=de)
 
 **Meaning:** meditation

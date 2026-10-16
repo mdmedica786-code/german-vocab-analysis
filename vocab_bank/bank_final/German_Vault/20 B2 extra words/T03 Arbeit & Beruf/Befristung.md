@@ -23,6 +23,8 @@ status: "new"
 
 ![[Befristung.ogg]]
 
+![[Befristung.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Befristung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Befristung&language=de)
 
 **Meaning:** time limit; fixed term

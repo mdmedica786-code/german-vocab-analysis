@@ -23,6 +23,8 @@ status: "new"
 
 ![[Trinkflasche.ogg]]
 
+![[Trinkflasche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Trinkflasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trinkflasche&language=de)
 
 **Meaning:** drinking bottle; water bottle

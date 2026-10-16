@@ -24,6 +24,8 @@ status: "new"
 
 ![[Halle.ogg]]
 
+![[Halle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Halle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Halle&language=de)
 
 **Meaning:** hall; large building

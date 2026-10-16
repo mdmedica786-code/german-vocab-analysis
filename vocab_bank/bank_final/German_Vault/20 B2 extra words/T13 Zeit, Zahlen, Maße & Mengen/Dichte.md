@@ -23,6 +23,8 @@ status: "new"
 
 ![[Dichte.ogg]]
 
+![[Dichte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Dichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dichte&language=de)
 
 **Meaning:** density

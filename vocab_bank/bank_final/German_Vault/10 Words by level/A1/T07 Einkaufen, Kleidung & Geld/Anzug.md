@@ -25,6 +25,8 @@ status: "new"
 
 ![[Anzug.ogg]]
 
+![[Anzug.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Anzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anzug&language=de)
 
 **Meaning:** suit

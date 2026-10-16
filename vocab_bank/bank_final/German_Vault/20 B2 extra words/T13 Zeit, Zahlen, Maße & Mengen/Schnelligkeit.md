@@ -23,6 +23,8 @@ status: "new"
 
 ![[Schnelligkeit.ogg]]
 
+![[Schnelligkeit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schnelligkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schnelligkeit&language=de)
 
 **Meaning:** speed; swiftness

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Auskunft.ogg]]
 
+![[Auskunft.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Auskunft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auskunft&language=de)
 
 **Meaning:** information

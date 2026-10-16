@@ -23,6 +23,8 @@ status: "new"
 
 ![[Laufband.ogg]]
 
+![[Laufband.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Laufband/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laufband&language=de)
 
 **Meaning:** treadmill

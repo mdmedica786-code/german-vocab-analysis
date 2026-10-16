@@ -23,6 +23,8 @@ status: "new"
 
 ![[Miene.ogg]]
 
+![[Miene.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Miene/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Miene&language=de)
 
 **Meaning:** facial expression; look

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Behälter.ogg]]
 
+![[Behälter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Beh%C3%A4lter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beh%C3%A4lter&language=de)
 
 **Meaning:** container; receptacle
