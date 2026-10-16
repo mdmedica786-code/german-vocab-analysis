@@ -22,6 +22,8 @@ status: "new"
 
 ![[automatisch.ogg]]
 
+![[automatisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/automatisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=automatisch&language=de)
 
 **Meaning:** automatic

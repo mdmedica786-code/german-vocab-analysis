@@ -22,6 +22,8 @@ status: "new"
 
 ![[arbeitslos.ogg]]
 
+![[arbeitslos.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/arbeitslos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=arbeitslos&language=de)
 
 **Meaning:** unemployed

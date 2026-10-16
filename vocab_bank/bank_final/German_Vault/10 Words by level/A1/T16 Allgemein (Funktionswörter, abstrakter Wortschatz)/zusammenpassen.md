@@ -22,6 +22,8 @@ status: "new"
 
 ![[zusammenpassen.ogg]]
 
+![[zusammenpassen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zusammenpassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusammenpassen&language=de)
 
 **Meaning:** to match; to go together

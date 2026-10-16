@@ -20,6 +20,8 @@ status: "new"
 
 ![[voran.ogg]]
 
+![[voran.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/voran/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=voran&language=de)
 
 **Meaning:** ahead; forward; on

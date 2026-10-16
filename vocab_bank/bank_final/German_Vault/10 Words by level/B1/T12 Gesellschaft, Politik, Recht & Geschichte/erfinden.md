@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # erfinden
 
+![[erfinden.jpg]]
+
 ![[erfinden.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/erfinden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erfinden&language=de)

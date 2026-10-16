@@ -23,6 +23,8 @@ status: "new"
 
 ![[surfen.ogg]]
 
+![[surfen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/surfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=surfen&language=de)
 
 **Meaning:** to surf

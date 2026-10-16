@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # schicken
 
+![[schicken.jpg]]
+
 ![[schicken.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/schicken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schicken&language=de)

@@ -22,6 +22,8 @@ status: "new"
 
 ![[elektrisch.ogg]]
 
+![[elektrisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/elektrisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=elektrisch&language=de)
 
 **Meaning:** electric

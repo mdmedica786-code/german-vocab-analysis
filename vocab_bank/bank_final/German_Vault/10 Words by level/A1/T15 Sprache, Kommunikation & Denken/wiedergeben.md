@@ -22,6 +22,8 @@ status: "new"
 
 ![[wiedergeben.ogg]]
 
+![[wiedergeben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/wiedergeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wiedergeben&language=de)
 
 **Meaning:** to reproduce; to recite; to give back

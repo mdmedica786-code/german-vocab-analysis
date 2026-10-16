@@ -20,6 +20,8 @@ status: "new"
 
 ![[übertrieben.ogg]]
 
+![[übertrieben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbertrieben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbertrieben&language=de)
 
 **Meaning:** exaggerated; excessive

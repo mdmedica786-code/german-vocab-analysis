@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # gießen
 
+![[gießen.png]]
+
 ![[gießen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/gie%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gie%C3%9Fen&language=de)

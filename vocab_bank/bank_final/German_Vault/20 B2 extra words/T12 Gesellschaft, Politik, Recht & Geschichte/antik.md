@@ -20,6 +20,8 @@ status: "new"
 
 ![[antik.ogg]]
 
+![[antik.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/antik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=antik&language=de)
 
 **Meaning:** ancient; antique

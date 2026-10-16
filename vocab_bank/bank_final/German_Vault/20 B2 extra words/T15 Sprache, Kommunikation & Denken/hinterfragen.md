@@ -21,6 +21,8 @@ status: "new"
 
 ![[hinterfragen.ogg]]
 
+![[hinterfragen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/hinterfragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinterfragen&language=de)
 
 **Meaning:** to question; to scrutinise

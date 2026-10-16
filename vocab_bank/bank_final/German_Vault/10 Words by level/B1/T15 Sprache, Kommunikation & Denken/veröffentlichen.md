@@ -21,6 +21,8 @@ status: "new"
 
 ![[veröffentlichen.ogg]]
 
+![[veröffentlichen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ver%C3%B6ffentlichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ver%C3%B6ffentlichen&language=de)
 
 **Meaning:** to publish; to release

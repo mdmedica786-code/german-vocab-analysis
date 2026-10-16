@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # nähen
 
+![[nähen.jpg]]
+
 ![[nähen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/n%C3%A4hen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=n%C3%A4hen&language=de)

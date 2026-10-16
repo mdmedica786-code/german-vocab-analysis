@@ -21,6 +21,8 @@ status: "new"
 
 ![[jubeln.ogg]]
 
+![[jubeln.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/jubeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jubeln&language=de)
 
 **Meaning:** to cheer; to rejoice

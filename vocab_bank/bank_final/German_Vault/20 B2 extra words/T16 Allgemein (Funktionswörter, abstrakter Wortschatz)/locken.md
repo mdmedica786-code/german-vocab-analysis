@@ -21,6 +21,8 @@ status: "new"
 
 ![[locken.ogg]]
 
+![[locken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/locken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=locken&language=de)
 
 **Meaning:** to lure; to tempt; to attract

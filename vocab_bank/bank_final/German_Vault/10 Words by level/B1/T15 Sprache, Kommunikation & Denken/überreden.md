@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # überreden
 
+![[überreden.png]]
+
 ![[überreden.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberreden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberreden&language=de)

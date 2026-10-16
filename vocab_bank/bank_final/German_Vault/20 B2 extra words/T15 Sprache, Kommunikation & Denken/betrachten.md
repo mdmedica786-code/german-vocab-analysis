@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # betrachten
 
+![[betrachten.jpg]]
+
 ![[betrachten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/betrachten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betrachten&language=de)

@@ -21,6 +21,8 @@ status: "new"
 
 ![[bewusst.ogg]]
 
+![[bewusst.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bewusst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bewusst&language=de)
 
 **Meaning:** conscious; deliberate

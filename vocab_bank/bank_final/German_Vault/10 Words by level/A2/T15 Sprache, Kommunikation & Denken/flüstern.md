@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # flüstern
 
+![[flüstern.png]]
+
 ![[flüstern.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/fl%C3%BCstern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fl%C3%BCstern&language=de)

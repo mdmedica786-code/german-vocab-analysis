@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # genial
 
+![[genial.jpg]]
+
 ![[genial.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/genial/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=genial&language=de)

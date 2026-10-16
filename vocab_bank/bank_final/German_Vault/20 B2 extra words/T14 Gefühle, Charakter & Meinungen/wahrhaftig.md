@@ -20,6 +20,8 @@ status: "new"
 
 ![[wahrhaftig.ogg]]
 
+![[wahrhaftig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/wahrhaftig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wahrhaftig&language=de)
 
 **Meaning:** truthful; real; truly

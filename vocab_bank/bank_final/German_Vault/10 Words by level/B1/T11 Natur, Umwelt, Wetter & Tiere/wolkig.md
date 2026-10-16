@@ -21,6 +21,8 @@ status: "new"
 
 ![[wolkig.ogg]]
 
+![[wolkig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/wolkig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wolkig&language=de)
 
 **Meaning:** cloudy

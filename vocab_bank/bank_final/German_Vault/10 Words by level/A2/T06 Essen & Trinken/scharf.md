@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # scharf
 
+![[scharf.jpg]]
+
 ![[scharf.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/scharf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=scharf&language=de)

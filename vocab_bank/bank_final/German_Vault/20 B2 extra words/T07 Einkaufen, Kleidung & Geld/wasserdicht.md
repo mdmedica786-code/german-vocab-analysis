@@ -20,6 +20,8 @@ status: "new"
 
 ![[wasserdicht.ogg]]
 
+![[wasserdicht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/wasserdicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wasserdicht&language=de)
 
 **Meaning:** waterproof

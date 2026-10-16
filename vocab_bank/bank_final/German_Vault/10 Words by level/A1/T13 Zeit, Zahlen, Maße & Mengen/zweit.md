@@ -22,6 +22,8 @@ status: "new"
 
 ![[zweit.ogg]]
 
+![[zweit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zweit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zweit&language=de)
 
 **Meaning:** second; (zu zweit) in pairs, as two

@@ -23,6 +23,8 @@ status: "new"
 
 ![[vorlesen.ogg]]
 
+![[vorlesen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vorlesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorlesen&language=de)
 
 **Meaning:** to read aloud

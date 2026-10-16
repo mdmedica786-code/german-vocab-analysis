@@ -22,6 +22,8 @@ status: "new"
 
 ![[beschützen.ogg]]
 
+![[beschützen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/besch%C3%BCtzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besch%C3%BCtzen&language=de)
 
 **Meaning:** to protect

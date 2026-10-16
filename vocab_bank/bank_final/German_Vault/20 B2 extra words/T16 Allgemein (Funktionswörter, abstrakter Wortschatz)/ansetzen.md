@@ -21,6 +21,8 @@ status: "new"
 
 ![[ansetzen.ogg]]
 
+![[ansetzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ansetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ansetzen&language=de)
 
 **Meaning:** to schedule; to start; to apply

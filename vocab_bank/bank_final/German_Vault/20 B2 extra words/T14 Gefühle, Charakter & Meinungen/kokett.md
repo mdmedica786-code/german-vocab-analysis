@@ -20,6 +20,8 @@ status: "new"
 
 ![[kokett.ogg]]
 
+![[kokett.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kokett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kokett&language=de)
 
 **Meaning:** coquettish; flirty

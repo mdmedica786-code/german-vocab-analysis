@@ -21,6 +21,8 @@ status: "new"
 
 ![[verliebt.ogg]]
 
+![[verliebt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verliebt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verliebt&language=de)
 
 **Meaning:** in love

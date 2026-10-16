@@ -20,6 +20,8 @@ status: "new"
 
 ![[heilig.ogg]]
 
+![[heilig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/heilig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heilig&language=de)
 
 **Meaning:** holy; sacred

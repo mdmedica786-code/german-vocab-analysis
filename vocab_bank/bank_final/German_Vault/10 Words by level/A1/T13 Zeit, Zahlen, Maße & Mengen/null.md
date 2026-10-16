@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # null
 
+![[null.jpg]]
+
 ![[null.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/null/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=null&language=de)

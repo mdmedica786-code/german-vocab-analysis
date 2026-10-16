@@ -21,6 +21,8 @@ status: "new"
 
 ![[performen.ogg]]
 
+![[performen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/performen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=performen&language=de)
 
 **Meaning:** to perform (on stage); to perform (financially)

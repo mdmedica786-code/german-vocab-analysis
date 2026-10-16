@@ -23,6 +23,8 @@ status: "new"
 
 ![[Mord.ogg]]
 
+![[Mord.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mord/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mord&language=de)
 
 **Meaning:** murder

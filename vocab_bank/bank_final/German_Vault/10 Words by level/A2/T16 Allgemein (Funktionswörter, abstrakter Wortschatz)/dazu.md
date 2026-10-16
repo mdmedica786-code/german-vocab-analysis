@@ -21,6 +21,8 @@ status: "new"
 
 ![[dazu.ogg]]
 
+![[dazu.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/dazu/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dazu&language=de)
 
 **Meaning:** in addition to (that)

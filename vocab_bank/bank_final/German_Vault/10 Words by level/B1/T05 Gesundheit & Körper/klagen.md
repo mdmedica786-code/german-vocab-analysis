@@ -23,6 +23,8 @@ status: "new"
 
 ![[klagen.ogg]]
 
+![[klagen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/klagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=klagen&language=de)
 
 **Meaning:** to lament

@@ -22,6 +22,8 @@ status: "new"
 
 ![[orientieren.ogg]]
 
+![[orientieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/orientieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=orientieren&language=de)
 
 **Meaning:** to orient

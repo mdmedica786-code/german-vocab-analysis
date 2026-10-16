@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # trauen
 
+![[trauen.jpg]]
+
 ![[trauen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/trauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=trauen&language=de)

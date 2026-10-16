@@ -21,6 +21,8 @@ status: "new"
 
 ![[künstlerisch.ogg]]
 
+![[künstlerisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/k%C3%BCnstlerisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k%C3%BCnstlerisch&language=de)
 
 **Meaning:** artistic

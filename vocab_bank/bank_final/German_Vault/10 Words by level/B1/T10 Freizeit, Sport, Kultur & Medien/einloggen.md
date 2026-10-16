@@ -22,6 +22,8 @@ status: "new"
 
 ![[einloggen.ogg]]
 
+![[einloggen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/einloggen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einloggen&language=de)
 
 **Meaning:** to log in

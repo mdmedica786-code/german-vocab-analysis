@@ -20,6 +20,8 @@ status: "new"
 
 ![[somit.ogg]]
 
+![[somit.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/somit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=somit&language=de)
 
 **Meaning:** thus; therefore; consequently

@@ -21,6 +21,8 @@ status: "new"
 
 ![[rächen.ogg]]
 
+![[rächen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/r%C3%A4chen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=r%C3%A4chen&language=de)
 
 **Meaning:** to take revenge

@@ -21,6 +21,8 @@ status: "new"
 
 ![[beibehalten.ogg]]
 
+![[beibehalten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/beibehalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beibehalten&language=de)
 
 **Meaning:** to keep; to maintain; to retain

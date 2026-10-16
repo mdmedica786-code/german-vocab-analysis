@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # zwölf
 
+![[zwölf.png]]
+
 ![[zwölf.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/zw%C3%B6lf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zw%C3%B6lf&language=de)

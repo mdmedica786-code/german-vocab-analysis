@@ -25,6 +25,8 @@ status: "new"
 
 ![[Mode.ogg]]
 
+![[Mode.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mode/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mode&language=de)
 
 **Meaning:** fashion

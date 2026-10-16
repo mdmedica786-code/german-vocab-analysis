@@ -21,6 +21,8 @@ status: "new"
 
 ![[starren.ogg]]
 
+![[starren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/starren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=starren&language=de)
 
 **Meaning:** to stare

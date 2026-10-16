@@ -20,6 +20,8 @@ status: "new"
 
 ![[stichhaltig.ogg]]
 
+![[stichhaltig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/stichhaltig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stichhaltig&language=de)
 
 **Meaning:** sound; valid

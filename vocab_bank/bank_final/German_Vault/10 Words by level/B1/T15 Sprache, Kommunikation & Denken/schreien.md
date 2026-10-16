@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # schreien
 
+![[schreien.jpg]]
+
 ![[schreien.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/schreien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schreien&language=de)

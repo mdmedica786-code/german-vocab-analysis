@@ -23,6 +23,8 @@ status: "new"
 
 ![[ernähren.ogg]]
 
+![[ernähren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ern%C3%A4hren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ern%C3%A4hren&language=de)
 
 **Meaning:** to eat, to nourish

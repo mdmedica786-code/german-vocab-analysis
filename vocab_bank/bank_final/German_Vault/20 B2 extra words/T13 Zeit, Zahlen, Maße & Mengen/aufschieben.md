@@ -21,6 +21,8 @@ status: "new"
 
 ![[aufschieben.ogg]]
 
+![[aufschieben.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/aufschieben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufschieben&language=de)
 
 **Meaning:** to postpone; to put off

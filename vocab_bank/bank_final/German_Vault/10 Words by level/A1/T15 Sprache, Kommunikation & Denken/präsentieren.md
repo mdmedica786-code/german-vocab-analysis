@@ -23,6 +23,8 @@ status: "new"
 
 ![[präsentieren.ogg]]
 
+![[präsentieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/pr%C3%A4sentieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pr%C3%A4sentieren&language=de)
 
 **Meaning:** to present

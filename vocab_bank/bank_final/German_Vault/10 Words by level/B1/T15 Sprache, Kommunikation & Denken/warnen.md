@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # warnen
 
+![[warnen.png]]
+
 ![[warnen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/warnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=warnen&language=de)

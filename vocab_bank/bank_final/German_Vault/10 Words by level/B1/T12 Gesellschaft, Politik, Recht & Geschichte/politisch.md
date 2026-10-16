@@ -22,6 +22,8 @@ status: "new"
 
 ![[politisch.ogg]]
 
+![[politisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/politisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=politisch&language=de)
 
 **Meaning:** political

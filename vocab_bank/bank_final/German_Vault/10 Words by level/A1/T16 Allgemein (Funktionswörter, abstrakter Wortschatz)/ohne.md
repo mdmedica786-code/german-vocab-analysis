@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # ohne
 
+![[ohne.png]]
+
 ![[ohne.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/ohne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ohne&language=de)

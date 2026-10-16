@@ -20,6 +20,8 @@ status: "new"
 
 ![[chemisch.ogg]]
 
+![[chemisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/chemisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=chemisch&language=de)
 
 **Meaning:** chemical

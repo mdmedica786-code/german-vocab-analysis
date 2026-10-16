@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # finnisch
 
+![[finnisch.jpg]]
+
 ![[finnisch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/finnisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=finnisch&language=de)

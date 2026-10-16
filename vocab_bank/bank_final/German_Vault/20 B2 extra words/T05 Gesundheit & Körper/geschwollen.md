@@ -20,6 +20,8 @@ status: "new"
 
 ![[geschwollen.ogg]]
 
+![[geschwollen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/geschwollen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geschwollen&language=de)
 
 **Meaning:** swollen

@@ -21,6 +21,8 @@ status: "new"
 
 ![[schwingen.ogg]]
 
+![[schwingen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schwingen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schwingen&language=de)
 
 **Meaning:** to swing; to vibrate

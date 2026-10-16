@@ -20,6 +20,8 @@ status: "new"
 
 ![[ökonomisch.ogg]]
 
+![[ökonomisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%B6konomisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%B6konomisch&language=de)
 
 **Meaning:** economic; economical

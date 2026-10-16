@@ -20,6 +20,8 @@ status: "new"
 
 ![[fachlich.ogg]]
 
+![[fachlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/fachlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fachlich&language=de)
 
 **Meaning:** professional; technical

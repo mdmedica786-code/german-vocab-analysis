@@ -22,6 +22,8 @@ status: "new"
 
 ![[erschöpft.ogg]]
 
+![[erschöpft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ersch%C3%B6pft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ersch%C3%B6pft&language=de)
 
 **Meaning:** exhausted

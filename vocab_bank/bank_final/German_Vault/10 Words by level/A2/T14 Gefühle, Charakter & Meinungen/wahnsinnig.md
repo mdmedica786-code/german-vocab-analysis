@@ -22,6 +22,8 @@ status: "new"
 
 ![[wahnsinnig.ogg]]
 
+![[wahnsinnig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/wahnsinnig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wahnsinnig&language=de)
 
 **Meaning:** crazy

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # hallo
 
+![[hallo.jpg]]
+
 ![[hallo.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/hallo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hallo&language=de)

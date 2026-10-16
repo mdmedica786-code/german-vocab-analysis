@@ -20,6 +20,8 @@ status: "new"
 
 ![[quadratisch.ogg]]
 
+![[quadratisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/quadratisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=quadratisch&language=de)
 
 **Meaning:** square

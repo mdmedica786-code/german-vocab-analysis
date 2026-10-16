@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # kalt
 
+![[kalt.png]]
+
 ![[kalt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/kalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kalt&language=de)

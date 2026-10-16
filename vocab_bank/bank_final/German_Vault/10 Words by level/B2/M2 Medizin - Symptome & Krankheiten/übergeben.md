@@ -21,6 +21,8 @@ status: "new"
 
 ![[übergeben.ogg]]
 
+![[übergeben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbergeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbergeben&language=de)
 
 **Meaning:** to hand over; to vomit (sich übergeben)

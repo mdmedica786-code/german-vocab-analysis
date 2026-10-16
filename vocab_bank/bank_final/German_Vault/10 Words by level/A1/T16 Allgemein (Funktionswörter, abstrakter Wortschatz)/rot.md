@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # rot
 
+![[rot.png]]
+
 ![[rot.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/rot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rot&language=de)

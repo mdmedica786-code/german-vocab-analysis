@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # nennen
 
+![[nennen.jpg]]
+
 ![[nennen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/nennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nennen&language=de)

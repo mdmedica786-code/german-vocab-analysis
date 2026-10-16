@@ -21,6 +21,8 @@ status: "new"
 
 ![[lauschen.ogg]]
 
+![[lauschen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/lauschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lauschen&language=de)
 
 **Meaning:** to listen (closely); to eavesdrop

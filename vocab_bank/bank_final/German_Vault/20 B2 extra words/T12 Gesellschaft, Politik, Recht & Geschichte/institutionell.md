@@ -20,6 +20,8 @@ status: "new"
 
 ![[institutionell.ogg]]
 
+![[institutionell.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/institutionell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=institutionell&language=de)
 
 **Meaning:** institutional

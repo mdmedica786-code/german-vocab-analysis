@@ -22,6 +22,8 @@ status: "new"
 
 ![[rollen.ogg]]
 
+![[rollen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/rollen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rollen&language=de)
 
 **Meaning:** to roll

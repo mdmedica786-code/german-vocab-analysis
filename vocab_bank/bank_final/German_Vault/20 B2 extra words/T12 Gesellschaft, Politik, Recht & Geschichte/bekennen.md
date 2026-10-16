@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # bekennen
 
+![[bekennen.jpg]]
+
 ![[bekennen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/bekennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bekennen&language=de)

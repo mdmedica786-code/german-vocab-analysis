@@ -20,6 +20,8 @@ status: "new"
 
 ![[recycelt.ogg]]
 
+![[recycelt.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/recycelt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=recycelt&language=de)
 
 **Meaning:** recycled

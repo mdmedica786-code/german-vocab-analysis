@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # willkommen
 
+![[willkommen.jpg]]
+
 ![[willkommen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/willkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=willkommen&language=de)

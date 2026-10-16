@@ -20,6 +20,8 @@ status: "new"
 
 ![[enthusiastisch.ogg]]
 
+![[enthusiastisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/enthusiastisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=enthusiastisch&language=de)
 
 **Meaning:** enthusiastic

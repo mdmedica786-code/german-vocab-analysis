@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # gelungen
 
+![[gelungen.jpg]]
+
 ![[gelungen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/gelungen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gelungen&language=de)

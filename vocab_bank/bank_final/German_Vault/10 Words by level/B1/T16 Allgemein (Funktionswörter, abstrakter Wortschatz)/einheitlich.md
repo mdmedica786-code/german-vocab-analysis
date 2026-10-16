@@ -21,6 +21,8 @@ status: "new"
 
 ![[einheitlich.ogg]]
 
+![[einheitlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/einheitlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einheitlich&language=de)
 
 **Meaning:** uniform; standardised

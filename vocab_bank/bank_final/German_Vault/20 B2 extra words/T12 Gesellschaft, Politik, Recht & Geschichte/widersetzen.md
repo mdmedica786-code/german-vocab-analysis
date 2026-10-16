@@ -21,6 +21,8 @@ status: "new"
 
 ![[widersetzen.ogg]]
 
+![[widersetzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/widersetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=widersetzen&language=de)
 
 **Meaning:** to resist; to oppose

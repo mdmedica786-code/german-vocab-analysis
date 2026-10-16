@@ -22,6 +22,8 @@ status: "new"
 
 ![[gerecht.ogg]]
 
+![[gerecht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gerecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gerecht&language=de)
 
 **Meaning:** fair

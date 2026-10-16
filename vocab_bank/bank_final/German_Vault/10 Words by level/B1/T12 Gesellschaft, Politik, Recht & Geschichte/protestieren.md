@@ -22,6 +22,8 @@ status: "new"
 
 ![[protestieren.ogg]]
 
+![[protestieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/protestieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=protestieren&language=de)
 
 **Meaning:** to protest

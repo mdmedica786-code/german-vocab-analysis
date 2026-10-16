@@ -20,6 +20,8 @@ status: "new"
 
 ![[feindlich.ogg]]
 
+![[feindlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/feindlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=feindlich&language=de)
 
 **Meaning:** hostile; enemy

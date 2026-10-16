@@ -21,6 +21,8 @@ status: "new"
 
 ![[luxemburgisch.ogg]]
 
+![[luxemburgisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/luxemburgisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=luxemburgisch&language=de)
 
 **Meaning:** Luxembourgish

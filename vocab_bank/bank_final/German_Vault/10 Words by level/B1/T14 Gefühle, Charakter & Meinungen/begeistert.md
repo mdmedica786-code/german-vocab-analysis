@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # begeistert
 
+![[begeistert.jpg]]
+
 ![[begeistert.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/begeistert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=begeistert&language=de)

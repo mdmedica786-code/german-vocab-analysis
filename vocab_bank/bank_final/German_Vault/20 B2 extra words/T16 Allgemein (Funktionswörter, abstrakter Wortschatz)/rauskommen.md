@@ -21,6 +21,8 @@ status: "new"
 
 ![[rauskommen.ogg]]
 
+![[rauskommen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/rauskommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rauskommen&language=de)
 
 **Meaning:** to come out; to get out; to be revealed (colloquial)

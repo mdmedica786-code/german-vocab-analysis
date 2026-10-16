@@ -21,6 +21,8 @@ status: "new"
 
 ![[abfragen.ogg]]
 
+![[abfragen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/abfragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abfragen&language=de)
 
 **Meaning:** to quiz; to test (orally); to query

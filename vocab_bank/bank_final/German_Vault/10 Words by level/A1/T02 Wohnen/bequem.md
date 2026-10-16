@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # bequem
 
+![[bequem.jpg]]
+
 ![[bequem.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/bequem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bequem&language=de)

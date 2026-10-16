@@ -21,6 +21,8 @@ status: "new"
 
 ![[spekulieren.ogg]]
 
+![[spekulieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/spekulieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spekulieren&language=de)
 
 **Meaning:** to speculate

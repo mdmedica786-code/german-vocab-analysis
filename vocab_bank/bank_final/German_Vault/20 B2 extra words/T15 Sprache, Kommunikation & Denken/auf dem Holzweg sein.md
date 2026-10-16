@@ -20,6 +20,8 @@ status: "new"
 
 ![[auf dem Holzweg sein.ogg]]
 
+![[auf dem Holzweg sein.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/auf%20dem%20Holzweg%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auf%20dem%20Holzweg%20sein&language=de)
 
 **Meaning:** to be on the wrong track

@@ -20,6 +20,8 @@ status: "new"
 
 ![[zurückhaltend.ogg]]
 
+![[zurückhaltend.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zur%C3%BCckhaltend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%C3%BCckhaltend&language=de)
 
 **Meaning:** reserved; restrained

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # stürzen
 
+![[stürzen.jpg]]
+
 ![[stürzen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/st%C3%BCrzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=st%C3%BCrzen&language=de)

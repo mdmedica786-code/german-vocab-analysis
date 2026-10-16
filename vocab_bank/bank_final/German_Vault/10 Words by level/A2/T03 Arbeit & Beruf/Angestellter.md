@@ -24,6 +24,8 @@ status: "new"
 
 ![[Angestellter.ogg]]
 
+![[Angestellter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Angestellter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angestellter&language=de)
 
 **Meaning:** employee (m)

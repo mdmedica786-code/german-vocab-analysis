@@ -21,6 +21,8 @@ status: "new"
 
 ![[interaktiv.ogg]]
 
+![[interaktiv.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/interaktiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=interaktiv&language=de)
 
 **Meaning:** interactive

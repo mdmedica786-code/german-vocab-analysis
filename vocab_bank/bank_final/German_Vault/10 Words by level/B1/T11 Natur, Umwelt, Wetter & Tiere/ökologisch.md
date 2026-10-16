@@ -21,6 +21,8 @@ status: "new"
 
 ![[ökologisch.ogg]]
 
+![[ökologisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%B6kologisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%B6kologisch&language=de)
 
 **Meaning:** ecological; organic

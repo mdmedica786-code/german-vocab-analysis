@@ -21,6 +21,8 @@ status: "new"
 
 ![[skizzieren.ogg]]
 
+![[skizzieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/skizzieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=skizzieren&language=de)
 
 **Meaning:** to sketch; to outline

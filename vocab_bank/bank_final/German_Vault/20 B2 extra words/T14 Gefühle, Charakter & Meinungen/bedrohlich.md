@@ -20,6 +20,8 @@ status: "new"
 
 ![[bedrohlich.ogg]]
 
+![[bedrohlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bedrohlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bedrohlich&language=de)
 
 **Meaning:** threatening; ominous

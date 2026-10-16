@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # kritisieren
 
+![[kritisieren.jpg]]
+
 ![[kritisieren.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/kritisieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kritisieren&language=de)

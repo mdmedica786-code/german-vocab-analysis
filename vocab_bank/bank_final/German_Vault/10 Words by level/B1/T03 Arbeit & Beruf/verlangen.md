@@ -23,6 +23,8 @@ status: "new"
 
 ![[verlangen.ogg]]
 
+![[verlangen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verlangen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verlangen&language=de)
 
 **Meaning:** to demand; to ask for

@@ -21,6 +21,8 @@ status: "new"
 
 ![[konzipieren.ogg]]
 
+![[konzipieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/konzipieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konzipieren&language=de)
 
 **Meaning:** to design; to conceive; to draft

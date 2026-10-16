@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # wundern
 
+![[wundern.jpg]]
+
 ![[wundern.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/wundern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wundern&language=de)

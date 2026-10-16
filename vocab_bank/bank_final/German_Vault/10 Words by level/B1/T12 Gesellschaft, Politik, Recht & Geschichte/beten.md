@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # beten
 
+![[beten.png]]
+
 ![[beten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/beten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beten&language=de)

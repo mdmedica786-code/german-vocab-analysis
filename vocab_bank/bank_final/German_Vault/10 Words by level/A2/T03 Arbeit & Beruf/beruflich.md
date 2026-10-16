@@ -22,6 +22,8 @@ status: "new"
 
 ![[beruflich.ogg]]
 
+![[beruflich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/beruflich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beruflich&language=de)
 
 **Meaning:** professional

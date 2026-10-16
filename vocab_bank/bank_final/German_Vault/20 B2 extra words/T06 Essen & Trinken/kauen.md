@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # kauen
 
+![[kauen.png]]
+
 ![[kauen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/kauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kauen&language=de)

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # parken
 
+![[parken.png]]
+
 ![[parken.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/parken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=parken&language=de)

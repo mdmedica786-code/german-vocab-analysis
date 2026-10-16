@@ -22,6 +22,8 @@ status: "new"
 
 ![[wild.ogg]]
 
+![[wild.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/wild/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wild&language=de)
 
 **Meaning:** wild

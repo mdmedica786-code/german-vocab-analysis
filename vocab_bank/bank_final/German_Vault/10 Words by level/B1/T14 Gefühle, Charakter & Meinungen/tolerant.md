@@ -22,6 +22,8 @@ status: "new"
 
 ![[tolerant.ogg]]
 
+![[tolerant.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/tolerant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tolerant&language=de)
 
 **Meaning:** tolerant

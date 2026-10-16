@@ -21,6 +21,8 @@ status: "new"
 
 ![[schwärmen.ogg]]
 
+![[schwärmen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schw%C3%A4rmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schw%C3%A4rmen&language=de)
 
 **Meaning:** to rave (about); to swarm

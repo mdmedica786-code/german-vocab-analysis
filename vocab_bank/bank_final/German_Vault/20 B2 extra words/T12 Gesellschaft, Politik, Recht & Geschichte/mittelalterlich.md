@@ -20,6 +20,8 @@ status: "new"
 
 ![[mittelalterlich.ogg]]
 
+![[mittelalterlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/mittelalterlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mittelalterlich&language=de)
 
 **Meaning:** medieval

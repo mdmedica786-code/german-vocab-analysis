@@ -20,6 +20,8 @@ status: "new"
 
 ![[juristisch.ogg]]
 
+![[juristisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/juristisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=juristisch&language=de)
 
 **Meaning:** legal; juridical

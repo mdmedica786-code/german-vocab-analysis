@@ -21,6 +21,8 @@ status: "new"
 
 ![[verletzt.ogg]]
 
+![[verletzt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verletzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verletzt&language=de)
 
 **Meaning:** injured

@@ -21,6 +21,8 @@ status: "new"
 
 ![[unterwerfen.ogg]]
 
+![[unterwerfen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/unterwerfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterwerfen&language=de)
 
 **Meaning:** to subjugate; to subject

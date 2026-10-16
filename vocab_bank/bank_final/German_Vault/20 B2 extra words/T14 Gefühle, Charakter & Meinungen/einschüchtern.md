@@ -21,6 +21,8 @@ status: "new"
 
 ![[einschüchtern.ogg]]
 
+![[einschüchtern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/einsch%C3%BCchtern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einsch%C3%BCchtern&language=de)
 
 **Meaning:** to intimidate

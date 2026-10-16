@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # gelingen
 
+![[gelingen.jpg]]
+
 ![[gelingen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/gelingen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gelingen&language=de)

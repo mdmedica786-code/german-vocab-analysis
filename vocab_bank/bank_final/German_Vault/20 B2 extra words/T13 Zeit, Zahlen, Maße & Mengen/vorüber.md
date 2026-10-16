@@ -20,6 +20,8 @@ status: "new"
 
 ![[vorüber.ogg]]
 
+![[vorüber.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vor%C3%BCber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vor%C3%BCber&language=de)
 
 **Meaning:** past; over

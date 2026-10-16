@@ -22,6 +22,8 @@ status: "new"
 
 ![[heimlich.ogg]]
 
+![[heimlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/heimlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heimlich&language=de)
 
 **Meaning:** secret

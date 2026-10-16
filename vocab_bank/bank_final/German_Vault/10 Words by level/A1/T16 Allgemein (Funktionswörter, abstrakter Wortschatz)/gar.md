@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # gar
 
+![[gar.png]]
+
 ![[gar.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/gar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gar&language=de)

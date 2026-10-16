@@ -22,6 +22,8 @@ status: "new"
 
 ![[kreisen.ogg]]
 
+![[kreisen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kreisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kreisen&language=de)
 
 **Meaning:** to circle

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Mediziner.ogg]]
 
+![[Mediziner.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Mediziner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mediziner&language=de)
 
 **Meaning:** doctor (m); physician (m)

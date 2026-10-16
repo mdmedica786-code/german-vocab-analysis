@@ -22,6 +22,8 @@ status: "new"
 
 ![[spenden.ogg]]
 
+![[spenden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/spenden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spenden&language=de)
 
 **Meaning:** to donate

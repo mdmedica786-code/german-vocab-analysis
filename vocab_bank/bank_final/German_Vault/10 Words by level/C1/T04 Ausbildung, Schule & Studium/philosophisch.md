@@ -20,6 +20,8 @@ status: "new"
 
 ![[philosophisch.ogg]]
 
+![[philosophisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/philosophisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=philosophisch&language=de)
 
 **Meaning:** philosophical

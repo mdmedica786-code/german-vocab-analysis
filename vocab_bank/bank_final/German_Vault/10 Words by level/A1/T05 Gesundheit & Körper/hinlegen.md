@@ -22,6 +22,8 @@ status: "new"
 
 ![[hinlegen.ogg]]
 
+![[hinlegen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/hinlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinlegen&language=de)
 
 **Meaning:** to lie down

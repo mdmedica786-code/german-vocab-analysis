@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # lächeln
 
+![[lächeln.jpg]]
+
 ![[lächeln.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/l%C3%A4cheln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=l%C3%A4cheln&language=de)

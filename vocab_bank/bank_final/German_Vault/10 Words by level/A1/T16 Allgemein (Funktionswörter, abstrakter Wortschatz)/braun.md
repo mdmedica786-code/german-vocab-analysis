@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # braun
 
+![[braun.jpg]]
+
 ![[braun.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/braun/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=braun&language=de)

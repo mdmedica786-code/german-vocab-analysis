@@ -20,6 +20,8 @@ status: "new"
 
 ![[unattraktiv.ogg]]
 
+![[unattraktiv.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/unattraktiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unattraktiv&language=de)
 
 **Meaning:** unattractive

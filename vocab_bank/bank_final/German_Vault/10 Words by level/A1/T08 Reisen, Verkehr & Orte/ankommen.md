@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # ankommen
 
+![[ankommen.jpg]]
+
 ![[ankommen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/ankommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ankommen&language=de)

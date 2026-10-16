@@ -20,6 +20,8 @@ status: "new"
 
 ![[heiter.ogg]]
 
+![[heiter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/heiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heiter&language=de)
 
 **Meaning:** cheerful; fair (weather)

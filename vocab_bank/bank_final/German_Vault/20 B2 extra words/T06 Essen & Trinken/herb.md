@@ -20,6 +20,8 @@ status: "new"
 
 ![[herb.ogg]]
 
+![[herb.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/herb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herb&language=de)
 
 **Meaning:** tart; dry; harsh

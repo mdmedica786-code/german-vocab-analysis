@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # tragen
 
+![[tragen.jpg]]
+
 ![[tragen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/tragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tragen&language=de)

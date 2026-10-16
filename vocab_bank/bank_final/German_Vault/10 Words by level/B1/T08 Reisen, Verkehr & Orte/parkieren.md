@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # parkieren
 
+![[parkieren.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/parkieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=parkieren&language=de)
 
 **Meaning:** to park (Swiss German)

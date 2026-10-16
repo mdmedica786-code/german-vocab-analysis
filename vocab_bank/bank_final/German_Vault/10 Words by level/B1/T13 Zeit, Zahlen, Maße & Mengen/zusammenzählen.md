@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # zusammenzählen
 
+![[zusammenzählen.png]]
+
 ![[zusammenzählen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/zusammenz%C3%A4hlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusammenz%C3%A4hlen&language=de)

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # schwarz
 
+![[schwarz.png]]
+
 ![[schwarz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/schwarz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schwarz&language=de)

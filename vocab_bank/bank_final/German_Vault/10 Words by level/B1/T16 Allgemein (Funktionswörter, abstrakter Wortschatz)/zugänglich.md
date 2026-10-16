@@ -21,6 +21,8 @@ status: "new"
 
 ![[zugänglich.ogg]]
 
+![[zugänglich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zug%C3%A4nglich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zug%C3%A4nglich&language=de)
 
 **Meaning:** accessible

@@ -21,6 +21,8 @@ status: "new"
 
 ![[vertraut.ogg]]
 
+![[vertraut.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vertraut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vertraut&language=de)
 
 **Meaning:** familiar

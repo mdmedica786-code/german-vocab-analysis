@@ -20,6 +20,8 @@ status: "new"
 
 ![[mehrjährig.ogg]]
 
+![[mehrjährig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/mehrj%C3%A4hrig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mehrj%C3%A4hrig&language=de)
 
 **Meaning:** perennial; lasting several years

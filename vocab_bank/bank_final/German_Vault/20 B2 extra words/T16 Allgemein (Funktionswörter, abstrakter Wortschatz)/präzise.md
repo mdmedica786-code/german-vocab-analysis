@@ -20,6 +20,8 @@ status: "new"
 
 ![[präzise.ogg]]
 
+![[präzise.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/pr%C3%A4zise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pr%C3%A4zise&language=de)
 
 **Meaning:** precise

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # lila
 
+![[lila.jpg]]
+
 ![[lila.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/lila/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lila&language=de)

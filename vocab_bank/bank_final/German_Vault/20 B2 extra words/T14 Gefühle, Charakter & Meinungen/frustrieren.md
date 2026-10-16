@@ -21,6 +21,8 @@ status: "new"
 
 ![[frustrieren.ogg]]
 
+![[frustrieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/frustrieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=frustrieren&language=de)
 
 **Meaning:** to frustrate; to discourage

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Kaiser.ogg]]
 
+![[Kaiser.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kaiser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaiser&language=de)
 
 **Meaning:** emperor

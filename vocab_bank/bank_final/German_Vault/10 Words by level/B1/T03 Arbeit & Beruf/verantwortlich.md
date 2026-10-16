@@ -22,6 +22,8 @@ status: "new"
 
 ![[verantwortlich.ogg]]
 
+![[verantwortlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verantwortlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verantwortlich&language=de)
 
 **Meaning:** responsible

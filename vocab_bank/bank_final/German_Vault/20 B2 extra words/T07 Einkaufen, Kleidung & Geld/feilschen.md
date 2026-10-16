@@ -21,6 +21,8 @@ status: "new"
 
 ![[feilschen.ogg]]
 
+![[feilschen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/feilschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=feilschen&language=de)
 
 **Meaning:** to haggle; to bargain

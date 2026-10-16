@@ -21,6 +21,8 @@ status: "new"
 
 ![[filmen.ogg]]
 
+![[filmen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/filmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=filmen&language=de)
 
 **Meaning:** to film; to record on video

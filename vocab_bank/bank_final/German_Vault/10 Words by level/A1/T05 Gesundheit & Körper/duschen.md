@@ -23,6 +23,8 @@ status: "new"
 
 ![[duschen.ogg]]
 
+![[duschen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/duschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=duschen&language=de)
 
 **Meaning:** to shower

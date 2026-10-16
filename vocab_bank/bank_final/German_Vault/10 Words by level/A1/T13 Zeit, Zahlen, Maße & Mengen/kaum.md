@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # kaum
 
+![[kaum.jpg]]
+
 ![[kaum.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/kaum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kaum&language=de)

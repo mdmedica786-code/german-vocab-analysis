@@ -20,6 +20,8 @@ status: "new"
 
 ![[spröde.ogg]]
 
+![[spröde.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/spr%C3%B6de/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spr%C3%B6de&language=de)
 
 **Meaning:** brittle; chapped; aloof

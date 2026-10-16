@@ -22,6 +22,8 @@ status: "new"
 
 ![[bitter.ogg]]
 
+![[bitter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bitter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bitter&language=de)
 
 **Meaning:** bitter

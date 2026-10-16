@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # teilen
 
+![[teilen.jpg]]
+
 ![[teilen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/teilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=teilen&language=de)

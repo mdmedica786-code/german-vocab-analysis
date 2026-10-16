@@ -22,6 +22,8 @@ status: "new"
 
 ![[bunt.ogg]]
 
+![[bunt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bunt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bunt&language=de)
 
 **Meaning:** colourful

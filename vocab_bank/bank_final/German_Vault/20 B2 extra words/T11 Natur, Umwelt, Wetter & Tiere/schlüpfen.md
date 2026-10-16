@@ -21,6 +21,8 @@ status: "new"
 
 ![[schlüpfen.ogg]]
 
+![[schlüpfen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schl%C3%BCpfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schl%C3%BCpfen&language=de)
 
 **Meaning:** to slip; to hatch

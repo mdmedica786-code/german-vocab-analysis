@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # dumm
 
+![[dumm.jpg]]
+
 ![[dumm.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/dumm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dumm&language=de)

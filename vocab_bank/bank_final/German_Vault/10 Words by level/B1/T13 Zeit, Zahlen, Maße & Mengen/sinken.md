@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # sinken
 
+![[sinken.jpg]]
+
 ![[sinken.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/sinken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sinken&language=de)

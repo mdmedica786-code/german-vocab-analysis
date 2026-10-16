@@ -23,6 +23,8 @@ status: "new"
 
 ![[joggen.ogg]]
 
+![[joggen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/joggen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=joggen&language=de)
 
 **Meaning:** to jog

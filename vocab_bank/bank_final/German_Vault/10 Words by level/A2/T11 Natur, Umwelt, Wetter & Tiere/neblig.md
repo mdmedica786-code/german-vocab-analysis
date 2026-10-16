@@ -22,6 +22,8 @@ status: "new"
 
 ![[neblig.ogg]]
 
+![[neblig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/neblig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=neblig&language=de)
 
 **Meaning:** foggy

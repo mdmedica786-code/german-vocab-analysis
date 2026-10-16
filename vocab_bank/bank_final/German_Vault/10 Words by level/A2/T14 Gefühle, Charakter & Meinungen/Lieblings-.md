@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Lieblings-
 
+![[Lieblings-.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lieblings-/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lieblings-&language=de)
 
 **Meaning:** favourite

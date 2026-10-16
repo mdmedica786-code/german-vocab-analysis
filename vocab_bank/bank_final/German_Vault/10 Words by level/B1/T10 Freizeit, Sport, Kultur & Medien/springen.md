@@ -23,6 +23,8 @@ status: "new"
 
 ![[springen.ogg]]
 
+![[springen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/springen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=springen&language=de)
 
 **Meaning:** to jump

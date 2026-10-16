@@ -20,6 +20,8 @@ status: "new"
 
 ![[fortgeschritten.ogg]]
 
+![[fortgeschritten.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/fortgeschritten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fortgeschritten&language=de)
 
 **Meaning:** advanced

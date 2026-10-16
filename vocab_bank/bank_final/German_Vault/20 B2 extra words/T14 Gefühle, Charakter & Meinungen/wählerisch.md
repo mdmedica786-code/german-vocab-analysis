@@ -20,6 +20,8 @@ status: "new"
 
 ![[wählerisch.ogg]]
 
+![[wählerisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/w%C3%A4hlerisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=w%C3%A4hlerisch&language=de)
 
 **Meaning:** picky; choosy

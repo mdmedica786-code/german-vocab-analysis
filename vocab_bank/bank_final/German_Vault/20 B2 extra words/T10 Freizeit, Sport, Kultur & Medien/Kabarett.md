@@ -23,6 +23,8 @@ status: "new"
 
 ![[Kabarett.ogg]]
 
+![[Kabarett.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Kabarett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kabarett&language=de)
 
 **Meaning:** political cabaret; satirical show

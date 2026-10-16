@@ -20,6 +20,8 @@ status: "new"
 
 ![[islamisch.ogg]]
 
+![[islamisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/islamisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=islamisch&language=de)
 
 **Meaning:** Islamic

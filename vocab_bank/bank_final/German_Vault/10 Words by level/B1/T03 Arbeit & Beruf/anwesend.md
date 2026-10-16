@@ -22,6 +22,8 @@ status: "new"
 
 ![[anwesend.ogg]]
 
+![[anwesend.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/anwesend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anwesend&language=de)
 
 **Meaning:** present

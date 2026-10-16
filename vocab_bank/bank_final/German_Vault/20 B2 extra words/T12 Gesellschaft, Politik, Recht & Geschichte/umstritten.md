@@ -20,6 +20,8 @@ status: "new"
 
 ![[umstritten.ogg]]
 
+![[umstritten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/umstritten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umstritten&language=de)
 
 **Meaning:** controversial; disputed

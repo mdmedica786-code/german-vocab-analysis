@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # bitte
 
+![[bitte.jpg]]
+
 ![[bitte.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/bitte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bitte&language=de)

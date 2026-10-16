@@ -20,6 +20,8 @@ status: "new"
 
 ![[gutgläubig.ogg]]
 
+![[gutgläubig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gutgl%C3%A4ubig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gutgl%C3%A4ubig&language=de)
 
 **Meaning:** gullible; credulous

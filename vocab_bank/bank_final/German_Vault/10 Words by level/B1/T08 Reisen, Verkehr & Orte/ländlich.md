@@ -21,6 +21,8 @@ status: "new"
 
 ![[ländlich.ogg]]
 
+![[ländlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/l%C3%A4ndlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=l%C3%A4ndlich&language=de)
 
 **Meaning:** rural

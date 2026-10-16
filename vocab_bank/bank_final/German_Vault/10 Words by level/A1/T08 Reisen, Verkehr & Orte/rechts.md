@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # rechts
 
+![[rechts.png]]
+
 ![[rechts.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/rechts/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rechts&language=de)

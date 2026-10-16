@@ -21,6 +21,8 @@ status: "new"
 
 ![[erzeugen.ogg]]
 
+![[erzeugen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/erzeugen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erzeugen&language=de)
 
 **Meaning:** to produce; to generate

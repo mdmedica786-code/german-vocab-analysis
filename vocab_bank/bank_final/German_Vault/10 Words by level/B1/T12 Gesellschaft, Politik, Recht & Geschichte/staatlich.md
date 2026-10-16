@@ -21,6 +21,8 @@ status: "new"
 
 ![[staatlich.ogg]]
 
+![[staatlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/staatlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=staatlich&language=de)
 
 **Meaning:** state; state-run

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # drohen
 
+![[drohen.jpg]]
+
 ![[drohen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/drohen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=drohen&language=de)

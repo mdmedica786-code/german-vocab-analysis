@@ -22,6 +22,8 @@ status: "new"
 
 ![[offiziell.ogg]]
 
+![[offiziell.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/offiziell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=offiziell&language=de)
 
 **Meaning:** official

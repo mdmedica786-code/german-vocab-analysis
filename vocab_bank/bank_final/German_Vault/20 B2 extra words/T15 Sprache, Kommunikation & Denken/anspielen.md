@@ -21,6 +21,8 @@ status: "new"
 
 ![[anspielen.ogg]]
 
+![[anspielen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/anspielen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anspielen&language=de)
 
 **Meaning:** to allude (to); to hint at

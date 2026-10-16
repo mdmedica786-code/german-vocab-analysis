@@ -22,6 +22,8 @@ status: "new"
 
 ![[fröhlich.ogg]]
 
+![[fröhlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/fr%C3%B6hlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fr%C3%B6hlich&language=de)
 
 **Meaning:** cheerful; happy

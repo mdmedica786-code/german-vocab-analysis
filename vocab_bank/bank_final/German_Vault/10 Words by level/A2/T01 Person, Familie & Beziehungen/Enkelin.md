@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Enkelin
 
+![[Enkelin.jpg]]
+
 ![[Enkelin.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Enkelin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Enkelin&language=de)

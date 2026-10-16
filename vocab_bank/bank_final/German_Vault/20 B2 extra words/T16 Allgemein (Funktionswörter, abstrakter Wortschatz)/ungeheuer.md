@@ -20,6 +20,8 @@ status: "new"
 
 ![[ungeheuer.ogg]]
 
+![[ungeheuer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ungeheuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ungeheuer&language=de)
 
 **Meaning:** tremendous; enormous

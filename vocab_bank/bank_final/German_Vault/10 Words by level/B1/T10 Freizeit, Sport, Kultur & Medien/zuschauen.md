@@ -22,6 +22,8 @@ status: "new"
 
 ![[zuschauen.ogg]]
 
+![[zuschauen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zuschauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zuschauen&language=de)
 
 **Meaning:** to watch

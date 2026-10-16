@@ -20,6 +20,8 @@ status: "new"
 
 ![[berüchtigt.ogg]]
 
+![[berüchtigt.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ber%C3%BCchtigt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ber%C3%BCchtigt&language=de)
 
 **Meaning:** notorious

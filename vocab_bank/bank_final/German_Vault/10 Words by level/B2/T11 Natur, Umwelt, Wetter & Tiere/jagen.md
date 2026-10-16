@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # jagen
 
+![[jagen.png]]
+
 ![[jagen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/jagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jagen&language=de)

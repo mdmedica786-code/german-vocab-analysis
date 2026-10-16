@@ -21,6 +21,8 @@ status: "new"
 
 ![[schwül.ogg]]
 
+![[schwül.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schw%C3%BCl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schw%C3%BCl&language=de)
 
 **Meaning:** muggy

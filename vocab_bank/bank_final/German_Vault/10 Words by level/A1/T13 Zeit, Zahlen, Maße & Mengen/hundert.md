@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # hundert
 
+![[hundert.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/hundert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hundert&language=de)
 
 **Meaning:** hundred

@@ -23,6 +23,8 @@ status: "new"
 
 ![[unterschreiben.ogg]]
 
+![[unterschreiben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/unterschreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterschreiben&language=de)
 
 **Meaning:** to sign

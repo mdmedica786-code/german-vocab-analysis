@@ -22,6 +22,8 @@ status: "new"
 
 ![[strukturieren.ogg]]
 
+![[strukturieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/strukturieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=strukturieren&language=de)
 
 **Meaning:** to structure sth

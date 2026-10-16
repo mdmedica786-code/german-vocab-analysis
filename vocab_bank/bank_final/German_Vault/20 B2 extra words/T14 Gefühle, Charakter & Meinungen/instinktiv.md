@@ -20,6 +20,8 @@ status: "new"
 
 ![[instinktiv.ogg]]
 
+![[instinktiv.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/instinktiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=instinktiv&language=de)
 
 **Meaning:** instinctive; by instinct

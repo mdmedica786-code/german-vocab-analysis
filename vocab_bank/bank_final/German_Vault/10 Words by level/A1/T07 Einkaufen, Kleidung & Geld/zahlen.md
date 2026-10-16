@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # zahlen
 
+![[zahlen.png]]
+
 ![[zahlen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/zahlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zahlen&language=de)

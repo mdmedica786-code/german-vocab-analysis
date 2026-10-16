@@ -21,6 +21,8 @@ status: "new"
 
 ![[automatisiert.ogg]]
 
+![[automatisiert.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/automatisiert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=automatisiert&language=de)
 
 **Meaning:** automated

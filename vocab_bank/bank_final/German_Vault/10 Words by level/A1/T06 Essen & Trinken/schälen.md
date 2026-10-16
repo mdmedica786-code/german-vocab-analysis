@@ -22,6 +22,8 @@ status: "new"
 
 ![[schälen.ogg]]
 
+![[schälen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/sch%C3%A4len/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sch%C3%A4len&language=de)
 
 **Meaning:** to peel

@@ -20,6 +20,8 @@ status: "new"
 
 ![[jedermann.ogg]]
 
+![[jedermann.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/jedermann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jedermann&language=de)
 
 **Meaning:** everyone; everybody

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Erzieher.ogg]]
 
+![[Erzieher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Erzieher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erzieher&language=de)
 
 **Meaning:** kindergarten teacher (m)

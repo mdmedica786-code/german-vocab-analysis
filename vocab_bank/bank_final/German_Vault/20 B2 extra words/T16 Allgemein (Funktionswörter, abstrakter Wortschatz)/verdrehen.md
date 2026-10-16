@@ -21,6 +21,8 @@ status: "new"
 
 ![[verdrehen.ogg]]
 
+![[verdrehen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verdrehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verdrehen&language=de)
 
 **Meaning:** to twist; to distort; to roll (eyes)

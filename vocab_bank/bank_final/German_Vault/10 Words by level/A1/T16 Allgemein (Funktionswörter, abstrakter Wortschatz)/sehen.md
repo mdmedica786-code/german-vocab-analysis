@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # sehen
 
+![[sehen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/sehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sehen&language=de)
 
 **Meaning:** to see

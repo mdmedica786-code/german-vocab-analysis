@@ -21,6 +21,8 @@ status: "new"
 
 ![[mutmaßen.ogg]]
 
+![[mutmaßen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/mutma%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mutma%C3%9Fen&language=de)
 
 **Meaning:** to speculate; to surmise

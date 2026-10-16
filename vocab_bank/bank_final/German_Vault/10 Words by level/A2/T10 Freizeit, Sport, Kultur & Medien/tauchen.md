@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # tauchen
 
+![[tauchen.jpg]]
+
 ![[tauchen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/tauchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tauchen&language=de)

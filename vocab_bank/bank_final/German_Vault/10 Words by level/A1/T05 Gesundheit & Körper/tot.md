@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # tot
 
+![[tot.jpg]]
+
 ![[tot.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/tot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tot&language=de)

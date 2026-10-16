@@ -20,6 +20,8 @@ status: "new"
 
 ![[wolkenlos.ogg]]
 
+![[wolkenlos.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/wolkenlos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wolkenlos&language=de)
 
 **Meaning:** cloudless

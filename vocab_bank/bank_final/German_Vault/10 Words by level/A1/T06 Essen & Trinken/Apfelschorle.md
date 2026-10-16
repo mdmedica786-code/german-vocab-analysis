@@ -24,6 +24,8 @@ status: "new"
 
 ![[Apfelschorle.ogg]]
 
+![[Apfelschorle.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Apfelschorle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Apfelschorle&language=de)
 
 **Meaning:** apple juice spritzer

@@ -22,6 +22,8 @@ status: "new"
 
 ![[selber.ogg]]
 
+![[selber.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/selber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=selber&language=de)
 
 **Meaning:** myself/himself/etc.; on one's own

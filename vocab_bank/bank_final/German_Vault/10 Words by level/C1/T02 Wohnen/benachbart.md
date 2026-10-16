@@ -20,6 +20,8 @@ status: "new"
 
 ![[benachbart.ogg]]
 
+![[benachbart.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/benachbart/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=benachbart&language=de)
 
 **Meaning:** neighbouring

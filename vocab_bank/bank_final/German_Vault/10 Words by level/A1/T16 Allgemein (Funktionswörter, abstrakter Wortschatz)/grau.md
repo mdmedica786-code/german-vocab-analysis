@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # grau
 
+![[grau.png]]
+
 ![[grau.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/grau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=grau&language=de)

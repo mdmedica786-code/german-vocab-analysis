@@ -21,6 +21,8 @@ status: "new"
 
 ![[appellieren.ogg]]
 
+![[appellieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/appellieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=appellieren&language=de)
 
 **Meaning:** to appeal

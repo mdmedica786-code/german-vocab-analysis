@@ -23,6 +23,8 @@ status: "new"
 
 ![[blitzen.ogg]]
 
+![[blitzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/blitzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=blitzen&language=de)
 
 **Meaning:** to flash lightning

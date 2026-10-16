@@ -23,6 +23,8 @@ status: "new"
 
 ![[tauschen.ogg]]
 
+![[tauschen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/tauschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tauschen&language=de)
 
 **Meaning:** to swap; to exchange

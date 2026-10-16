@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # reservieren
 
+![[reservieren.jpg]]
+
 ![[reservieren.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/reservieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reservieren&language=de)

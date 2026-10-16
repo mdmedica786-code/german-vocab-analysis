@@ -21,6 +21,8 @@ status: "new"
 
 ![[gesetzlich.ogg]]
 
+![[gesetzlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gesetzlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gesetzlich&language=de)
 
 **Meaning:** statutory

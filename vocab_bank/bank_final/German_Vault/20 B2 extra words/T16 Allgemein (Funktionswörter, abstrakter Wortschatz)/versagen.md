@@ -21,6 +21,8 @@ status: "new"
 
 ![[versagen.ogg]]
 
+![[versagen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/versagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=versagen&language=de)
 
 **Meaning:** to fail; to refuse

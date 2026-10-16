@@ -20,6 +20,8 @@ status: "new"
 
 ![[empirisch.ogg]]
 
+![[empirisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/empirisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=empirisch&language=de)
 
 **Meaning:** empirical

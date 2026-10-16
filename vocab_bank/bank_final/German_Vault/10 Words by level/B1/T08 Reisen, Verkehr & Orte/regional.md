@@ -22,6 +22,8 @@ status: "new"
 
 ![[regional.ogg]]
 
+![[regional.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/regional/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=regional&language=de)
 
 **Meaning:** regional

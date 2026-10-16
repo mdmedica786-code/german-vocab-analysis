@@ -20,6 +20,8 @@ status: "new"
 
 ![[bayerisch.ogg]]
 
+![[bayerisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bayerisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bayerisch&language=de)
 
 **Meaning:** Bavarian

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # kochen
 
+![[kochen.jpg]]
+
 ![[kochen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/kochen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kochen&language=de)

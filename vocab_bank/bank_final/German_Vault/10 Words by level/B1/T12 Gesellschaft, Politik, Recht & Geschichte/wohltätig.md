@@ -21,6 +21,8 @@ status: "new"
 
 ![[wohltätig.ogg]]
 
+![[wohltätig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/wohlt%C3%A4tig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wohlt%C3%A4tig&language=de)
 
 **Meaning:** charitable

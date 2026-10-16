@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # ein
 
+![[ein.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ein&language=de)
 
 **Meaning:** a; an; one (indefinite article)

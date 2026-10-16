@@ -22,6 +22,8 @@ status: "new"
 
 ![[erraten.ogg]]
 
+![[erraten.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/erraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erraten&language=de)
 
 **Meaning:** to guess

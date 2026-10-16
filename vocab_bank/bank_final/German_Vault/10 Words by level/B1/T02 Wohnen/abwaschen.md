@@ -22,6 +22,8 @@ status: "new"
 
 ![[abwaschen.ogg]]
 
+![[abwaschen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/abwaschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abwaschen&language=de)
 
 **Meaning:** to wash up

@@ -22,6 +22,8 @@ status: "new"
 
 ![[hochfahren.ogg]]
 
+![[hochfahren.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/hochfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hochfahren&language=de)
 
 **Meaning:** to start up

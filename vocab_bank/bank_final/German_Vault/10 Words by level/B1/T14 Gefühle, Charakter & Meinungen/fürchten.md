@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # fürchten
 
+![[fürchten.jpg]]
+
 ![[fürchten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/f%C3%BCrchten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=f%C3%BCrchten&language=de)

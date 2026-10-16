@@ -21,6 +21,8 @@ status: "new"
 
 ![[handhaben.ogg]]
 
+![[handhaben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/handhaben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=handhaben&language=de)
 
 **Meaning:** to handle; to operate

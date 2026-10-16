@@ -20,6 +20,8 @@ status: "new"
 
 ![[unzufrieden.ogg]]
 
+![[unzufrieden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/unzufrieden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unzufrieden&language=de)
 
 **Meaning:** dissatisfied

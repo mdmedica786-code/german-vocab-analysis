@@ -21,6 +21,8 @@ status: "new"
 
 ![[werben.ogg]]
 
+![[werben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/werben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=werben&language=de)
 
 **Meaning:** to advertise; to recruit

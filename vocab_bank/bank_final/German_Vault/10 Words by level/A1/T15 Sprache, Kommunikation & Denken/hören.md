@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # hören
 
+![[hören.jpg]]
+
 ![[hören.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/h%C3%B6ren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=h%C3%B6ren&language=de)

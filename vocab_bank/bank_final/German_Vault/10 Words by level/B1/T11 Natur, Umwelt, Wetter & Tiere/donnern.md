@@ -23,6 +23,8 @@ status: "new"
 
 ![[donnern.ogg]]
 
+![[donnern.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/donnern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=donnern&language=de)
 
 **Meaning:** to thunder

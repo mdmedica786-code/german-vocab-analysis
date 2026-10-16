@@ -21,6 +21,8 @@ status: "new"
 
 ![[erlernen.ogg]]
 
+![[erlernen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/erlernen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erlernen&language=de)
 
 **Meaning:** to learn (thoroughly); to master

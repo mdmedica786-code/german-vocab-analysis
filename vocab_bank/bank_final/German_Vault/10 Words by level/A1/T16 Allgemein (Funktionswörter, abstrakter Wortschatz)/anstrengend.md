@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # anstrengend
 
+![[anstrengend.jpg]]
+
 ![[anstrengend.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/anstrengend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anstrengend&language=de)

@@ -20,6 +20,8 @@ status: "new"
 
 ![[tapfer.ogg]]
 
+![[tapfer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/tapfer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tapfer&language=de)
 
 **Meaning:** brave; valiant

@@ -21,6 +21,8 @@ status: "new"
 
 ![[zuschicken.ogg]]
 
+![[zuschicken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zuschicken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zuschicken&language=de)
 
 **Meaning:** to send (to someone); to mail

@@ -21,6 +21,8 @@ status: "new"
 
 ![[hinzufügen.ogg]]
 
+![[hinzufügen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/hinzuf%C3%BCgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinzuf%C3%BCgen&language=de)
 
 **Meaning:** to add

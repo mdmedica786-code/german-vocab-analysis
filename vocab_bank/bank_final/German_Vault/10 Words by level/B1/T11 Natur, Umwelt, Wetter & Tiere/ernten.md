@@ -22,6 +22,8 @@ status: "new"
 
 ![[ernten.ogg]]
 
+![[ernten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ernten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ernten&language=de)
 
 **Meaning:** to harvest

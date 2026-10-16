@@ -23,6 +23,8 @@ status: "new"
 
 ![[Verkehrssystem.ogg]]
 
+![[Verkehrssystem.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verkehrssystem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrssystem&language=de)
 
 **Meaning:** transport system

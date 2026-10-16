@@ -21,6 +21,8 @@ status: "new"
 
 ![[räumen.ogg]]
 
+![[räumen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/r%C3%A4umen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=r%C3%A4umen&language=de)
 
 **Meaning:** to clear; to vacate; to tidy

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # klingen
 
+![[klingen.jpg]]
+
 ![[klingen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/klingen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=klingen&language=de)

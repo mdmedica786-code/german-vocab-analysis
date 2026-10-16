@@ -21,6 +21,8 @@ status: "new"
 
 ![[zugeben.ogg]]
 
+![[zugeben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zugeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zugeben&language=de)
 
 **Meaning:** to admit; to confess

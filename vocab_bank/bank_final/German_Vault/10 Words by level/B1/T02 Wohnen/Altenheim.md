@@ -25,6 +25,8 @@ status: "new"
 
 ![[Altenheim.ogg]]
 
+![[Altenheim.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Altenheim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altenheim&language=de)
 
 **Meaning:** care home/ care facility

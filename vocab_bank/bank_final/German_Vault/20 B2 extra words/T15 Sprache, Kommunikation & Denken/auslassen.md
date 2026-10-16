@@ -21,6 +21,8 @@ status: "new"
 
 ![[auslassen.ogg]]
 
+![[auslassen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/auslassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auslassen&language=de)
 
 **Meaning:** to omit; to skip; to vent

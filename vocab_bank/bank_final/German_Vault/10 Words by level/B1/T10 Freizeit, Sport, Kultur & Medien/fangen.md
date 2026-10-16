@@ -22,6 +22,8 @@ status: "new"
 
 ![[fangen.ogg]]
 
+![[fangen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/fangen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fangen&language=de)
 
 **Meaning:** to catch

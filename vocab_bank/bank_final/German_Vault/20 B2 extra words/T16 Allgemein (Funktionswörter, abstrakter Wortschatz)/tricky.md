@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # tricky
 
+![[tricky.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/tricky/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tricky&language=de)
 
 **Meaning:** tricky; difficult

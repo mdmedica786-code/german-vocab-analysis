@@ -20,6 +20,8 @@ status: "new"
 
 ![[heran.ogg]]
 
+![[heran.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/heran/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heran&language=de)
 
 **Meaning:** up to; towards (the speaker)

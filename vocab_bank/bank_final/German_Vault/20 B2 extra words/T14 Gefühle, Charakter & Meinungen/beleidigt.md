@@ -20,6 +20,8 @@ status: "new"
 
 ![[beleidigt.ogg]]
 
+![[beleidigt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/beleidigt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beleidigt&language=de)
 
 **Meaning:** offended; sulking

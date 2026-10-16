@@ -21,6 +21,8 @@ status: "new"
 
 ![[kapitulieren.ogg]]
 
+![[kapitulieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kapitulieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kapitulieren&language=de)
 
 **Meaning:** to surrender; to give up

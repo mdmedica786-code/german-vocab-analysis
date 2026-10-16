@@ -23,6 +23,8 @@ status: "new"
 
 ![[umsteigen.ogg]]
 
+![[umsteigen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/umsteigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umsteigen&language=de)
 
 **Meaning:** to transfer

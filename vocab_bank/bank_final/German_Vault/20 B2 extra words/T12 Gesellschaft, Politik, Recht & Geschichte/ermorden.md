@@ -21,6 +21,8 @@ status: "new"
 
 ![[ermorden.ogg]]
 
+![[ermorden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ermorden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ermorden&language=de)
 
 **Meaning:** to murder; to assassinate

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # befürchten
 
+![[befürchten.jpg]]
+
 ![[befürchten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/bef%C3%BCrchten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bef%C3%BCrchten&language=de)

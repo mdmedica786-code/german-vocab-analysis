@@ -20,6 +20,8 @@ status: "new"
 
 ![[brav.ogg]]
 
+![[brav.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/brav/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=brav&language=de)
 
 **Meaning:** well-behaved; good; obedient

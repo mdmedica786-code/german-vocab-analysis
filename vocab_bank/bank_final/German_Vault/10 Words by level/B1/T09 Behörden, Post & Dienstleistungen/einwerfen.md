@@ -22,6 +22,8 @@ status: "new"
 
 ![[einwerfen.ogg]]
 
+![[einwerfen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/einwerfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einwerfen&language=de)
 
 **Meaning:** to insert

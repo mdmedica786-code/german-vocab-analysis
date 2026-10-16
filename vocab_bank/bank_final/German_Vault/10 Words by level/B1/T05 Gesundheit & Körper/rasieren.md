@@ -22,6 +22,8 @@ status: "new"
 
 ![[rasieren.ogg]]
 
+![[rasieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/rasieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rasieren&language=de)
 
 **Meaning:** to shave

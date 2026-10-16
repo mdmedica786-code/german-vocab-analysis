@@ -20,6 +20,8 @@ status: "new"
 
 ![[nachdenklich.ogg]]
 
+![[nachdenklich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/nachdenklich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachdenklich&language=de)
 
 **Meaning:** thoughtful; pensive

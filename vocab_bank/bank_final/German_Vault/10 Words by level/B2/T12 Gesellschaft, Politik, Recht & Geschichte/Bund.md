@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Bund
 
+![[Bund.png]]
+
 ![[Bund.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bund&language=de)

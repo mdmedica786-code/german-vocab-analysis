@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # umweltfreundlich
 
+![[umweltfreundlich.jpg]]
+
 ![[umweltfreundlich.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/umweltfreundlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umweltfreundlich&language=de)

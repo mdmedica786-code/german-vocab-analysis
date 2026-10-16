@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # unschuldig
 
+![[unschuldig.jpg]]
+
 ![[unschuldig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/unschuldig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unschuldig&language=de)

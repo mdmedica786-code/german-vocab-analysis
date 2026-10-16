@@ -21,6 +21,8 @@ status: "new"
 
 ![[übersehen.ogg]]
 
+![[übersehen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbersehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbersehen&language=de)
 
 **Meaning:** to overlook; to miss

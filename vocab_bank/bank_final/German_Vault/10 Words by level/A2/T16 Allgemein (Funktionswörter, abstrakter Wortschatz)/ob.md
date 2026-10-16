@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # ob
 
+![[ob.jpg]]
+
 ![[ob.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/ob/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ob&language=de)

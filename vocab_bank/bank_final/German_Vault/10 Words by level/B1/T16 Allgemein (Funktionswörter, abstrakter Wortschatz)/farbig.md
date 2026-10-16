@@ -21,6 +21,8 @@ status: "new"
 
 ![[farbig.ogg]]
 
+![[farbig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/farbig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=farbig&language=de)
 
 **Meaning:** coloured

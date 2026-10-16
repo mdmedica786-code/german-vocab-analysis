@@ -21,6 +21,8 @@ status: "new"
 
 ![[finster.ogg]]
 
+![[finster.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/finster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=finster&language=de)
 
 **Meaning:** dark; gloomy

@@ -20,6 +20,8 @@ status: "new"
 
 ![[gefährdet.ogg]]
 
+![[gefährdet.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gef%C3%A4hrdet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gef%C3%A4hrdet&language=de)
 
 **Meaning:** endangered; at risk

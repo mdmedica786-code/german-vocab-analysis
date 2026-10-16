@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # schauen
 
+![[schauen.png]]
+
 ![[schauen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/schauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schauen&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[streiten.ogg]]
 
+![[streiten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/streiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=streiten&language=de)
 
 **Meaning:** to argue

@@ -22,6 +22,8 @@ status: "new"
 
 ![[männlich.ogg]]
 
+![[männlich.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/m%C3%A4nnlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=m%C3%A4nnlich&language=de)
 
 **Meaning:** male

@@ -21,6 +21,8 @@ status: "new"
 
 ![[erbringen.ogg]]
 
+![[erbringen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/erbringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erbringen&language=de)
 
 **Meaning:** to provide; to yield; to produce

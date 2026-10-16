@@ -21,6 +21,8 @@ status: "new"
 
 ![[einpflanzen.ogg]]
 
+![[einpflanzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/einpflanzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einpflanzen&language=de)
 
 **Meaning:** to plant; to implant

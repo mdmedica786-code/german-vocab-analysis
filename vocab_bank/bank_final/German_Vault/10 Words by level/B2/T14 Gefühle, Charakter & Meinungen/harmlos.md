@@ -20,6 +20,8 @@ status: "new"
 
 ![[harmlos.ogg]]
 
+![[harmlos.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/harmlos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=harmlos&language=de)
 
 **Meaning:** harmless

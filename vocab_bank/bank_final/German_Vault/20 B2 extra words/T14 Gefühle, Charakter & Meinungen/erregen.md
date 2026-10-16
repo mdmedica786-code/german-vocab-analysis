@@ -21,6 +21,8 @@ status: "new"
 
 ![[erregen.ogg]]
 
+![[erregen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/erregen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erregen&language=de)
 
 **Meaning:** to arouse; to excite; to cause

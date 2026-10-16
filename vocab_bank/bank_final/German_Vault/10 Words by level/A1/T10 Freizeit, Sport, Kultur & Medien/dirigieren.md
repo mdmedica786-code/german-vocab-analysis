@@ -22,6 +22,8 @@ status: "new"
 
 ![[dirigieren.ogg]]
 
+![[dirigieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/dirigieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dirigieren&language=de)
 
 **Meaning:** to conduct

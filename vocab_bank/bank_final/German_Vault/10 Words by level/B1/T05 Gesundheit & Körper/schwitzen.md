@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # schwitzen
 
+![[schwitzen.jpg]]
+
 ![[schwitzen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/schwitzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schwitzen&language=de)

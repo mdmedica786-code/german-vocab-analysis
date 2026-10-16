@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # weiß
 
+![[weiß.jpg]]
+
 ![[weiß.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/wei%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wei%C3%9F&language=de)

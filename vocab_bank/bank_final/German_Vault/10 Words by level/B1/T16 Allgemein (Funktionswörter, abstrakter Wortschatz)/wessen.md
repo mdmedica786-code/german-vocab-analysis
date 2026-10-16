@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # wessen
 
+![[wessen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/wessen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wessen&language=de)
 
 **Meaning:** whose

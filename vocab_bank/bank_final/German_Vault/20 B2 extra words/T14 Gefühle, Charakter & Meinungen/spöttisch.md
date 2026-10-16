@@ -20,6 +20,8 @@ status: "new"
 
 ![[spöttisch.ogg]]
 
+![[spöttisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/sp%C3%B6ttisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sp%C3%B6ttisch&language=de)
 
 **Meaning:** mocking; derisive

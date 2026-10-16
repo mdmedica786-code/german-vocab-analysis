@@ -20,6 +20,8 @@ status: "new"
 
 ![[pedantisch.ogg]]
 
+![[pedantisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/pedantisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pedantisch&language=de)
 
 **Meaning:** pedantic

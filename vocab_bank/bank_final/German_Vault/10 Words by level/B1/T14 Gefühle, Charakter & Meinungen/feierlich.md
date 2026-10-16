@@ -21,6 +21,8 @@ status: "new"
 
 ![[feierlich.ogg]]
 
+![[feierlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/feierlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=feierlich&language=de)
 
 **Meaning:** festive

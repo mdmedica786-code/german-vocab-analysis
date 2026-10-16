@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Marketing
 
+![[Marketing.jpg]]
+
 ![[Marketing.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Marketing/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marketing&language=de)

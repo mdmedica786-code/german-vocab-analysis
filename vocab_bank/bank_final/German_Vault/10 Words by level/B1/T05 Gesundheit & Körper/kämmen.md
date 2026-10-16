@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # kämmen
 
+![[kämmen.jpg]]
+
 ![[kämmen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/k%C3%A4mmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k%C3%A4mmen&language=de)

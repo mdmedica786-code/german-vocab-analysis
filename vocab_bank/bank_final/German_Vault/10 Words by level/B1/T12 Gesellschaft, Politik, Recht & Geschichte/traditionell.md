@@ -22,6 +22,8 @@ status: "new"
 
 ![[traditionell.ogg]]
 
+![[traditionell.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/traditionell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=traditionell&language=de)
 
 **Meaning:** traditional

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # melken
 
+![[melken.jpg]]
+
 ![[melken.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/melken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=melken&language=de)

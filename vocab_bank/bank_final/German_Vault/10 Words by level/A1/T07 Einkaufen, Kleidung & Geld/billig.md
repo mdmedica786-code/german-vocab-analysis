@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # billig
 
+![[billig.png]]
+
 ![[billig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/billig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=billig&language=de)

@@ -20,6 +20,8 @@ status: "new"
 
 ![[christlich.ogg]]
 
+![[christlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/christlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=christlich&language=de)
 
 **Meaning:** Christian

@@ -22,6 +22,8 @@ status: "new"
 
 ![[knapp.ogg]]
 
+![[knapp.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/knapp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=knapp&language=de)
 
 **Meaning:** scarce; tight; barely

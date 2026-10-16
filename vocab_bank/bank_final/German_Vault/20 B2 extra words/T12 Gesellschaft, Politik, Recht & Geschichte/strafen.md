@@ -21,6 +21,8 @@ status: "new"
 
 ![[strafen.ogg]]
 
+![[strafen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/strafen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=strafen&language=de)
 
 **Meaning:** to punish

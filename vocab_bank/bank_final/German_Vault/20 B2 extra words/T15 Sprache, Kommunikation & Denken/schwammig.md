@@ -20,6 +20,8 @@ status: "new"
 
 ![[schwammig.ogg]]
 
+![[schwammig.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schwammig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schwammig&language=de)
 
 **Meaning:** spongy; vague

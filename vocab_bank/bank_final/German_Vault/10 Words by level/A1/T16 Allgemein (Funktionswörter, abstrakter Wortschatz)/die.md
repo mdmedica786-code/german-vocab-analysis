@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # die
 
+![[die.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/die/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=die&language=de)
 
 **Meaning:** the (definite article, feminine and plural)

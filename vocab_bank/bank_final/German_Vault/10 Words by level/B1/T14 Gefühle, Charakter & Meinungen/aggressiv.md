@@ -21,6 +21,8 @@ status: "new"
 
 ![[aggressiv.ogg]]
 
+![[aggressiv.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/aggressiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aggressiv&language=de)
 
 **Meaning:** aggressive

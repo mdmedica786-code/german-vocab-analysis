@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # stammen
 
+![[stammen.jpg]]
+
 ![[stammen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/stammen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stammen&language=de)

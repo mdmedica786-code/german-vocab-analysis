@@ -21,6 +21,8 @@ status: "new"
 
 ![[thematisieren.ogg]]
 
+![[thematisieren.webp]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/thematisieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=thematisieren&language=de)
 
 **Meaning:** to address; to make a subject of discussion

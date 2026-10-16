@@ -21,6 +21,8 @@ status: "new"
 
 ![[waagerecht.ogg]]
 
+![[waagerecht.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/waagerecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=waagerecht&language=de)
 
 **Meaning:** horizontal

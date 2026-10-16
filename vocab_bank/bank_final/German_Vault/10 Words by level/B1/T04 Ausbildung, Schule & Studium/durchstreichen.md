@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # durchstreichen
 
+![[durchstreichen.jpg]]
+
 ![[durchstreichen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/durchstreichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durchstreichen&language=de)

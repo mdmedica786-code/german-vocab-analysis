@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # lesen
 
+![[lesen.jpg]]
+
 ![[lesen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/lesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lesen&language=de)

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # trotzdem
 
+![[trotzdem.jpg]]
+
 ![[trotzdem.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/trotzdem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=trotzdem&language=de)

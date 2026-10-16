@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # unendlich
 
+![[unendlich.jpg]]
+
 ![[unendlich.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/unendlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unendlich&language=de)

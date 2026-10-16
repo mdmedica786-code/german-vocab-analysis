@@ -21,6 +21,8 @@ status: "new"
 
 ![[solche.ogg]]
 
+![[solche.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/solche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=solche&language=de)
 
 **Meaning:** such; such a

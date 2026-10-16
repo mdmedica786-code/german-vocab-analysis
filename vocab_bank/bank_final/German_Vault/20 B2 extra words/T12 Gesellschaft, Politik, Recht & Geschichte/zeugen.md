@@ -21,6 +21,8 @@ status: "new"
 
 ![[zeugen.ogg]]
 
+![[zeugen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zeugen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zeugen&language=de)
 
 **Meaning:** to testify; to bear witness; to father

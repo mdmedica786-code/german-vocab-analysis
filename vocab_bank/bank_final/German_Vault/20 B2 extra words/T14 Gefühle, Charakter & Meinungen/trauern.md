@@ -21,6 +21,8 @@ status: "new"
 
 ![[trauern.ogg]]
 
+![[trauern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/trauern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=trauern&language=de)
 
 **Meaning:** to mourn; to grieve

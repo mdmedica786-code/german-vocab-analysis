@@ -21,6 +21,8 @@ status: "new"
 
 ![[verfluchen.ogg]]
 
+![[verfluchen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verfluchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verfluchen&language=de)
 
 **Meaning:** to curse

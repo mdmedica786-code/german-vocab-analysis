@@ -21,6 +21,8 @@ status: "new"
 
 ![[mahnen.ogg]]
 
+![[mahnen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/mahnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mahnen&language=de)
 
 **Meaning:** to remind; to warn; to demand payment

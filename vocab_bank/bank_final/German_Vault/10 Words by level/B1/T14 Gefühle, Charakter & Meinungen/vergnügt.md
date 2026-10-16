@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # vergnügt
 
+![[vergnügt.jpg]]
+
 ![[vergnügt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/vergn%C3%BCgt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vergn%C3%BCgt&language=de)

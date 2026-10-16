@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # kämpfen
 
+![[kämpfen.jpg]]
+
 ![[kämpfen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/k%C3%A4mpfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k%C3%A4mpfen&language=de)

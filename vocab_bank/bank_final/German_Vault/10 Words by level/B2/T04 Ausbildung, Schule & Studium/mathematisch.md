@@ -20,6 +20,8 @@ status: "new"
 
 ![[mathematisch.ogg]]
 
+![[mathematisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/mathematisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mathematisch&language=de)
 
 **Meaning:** mathematical

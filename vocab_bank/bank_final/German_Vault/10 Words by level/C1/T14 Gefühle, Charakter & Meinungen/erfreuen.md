@@ -21,6 +21,8 @@ status: "new"
 
 ![[erfreuen.ogg]]
 
+![[erfreuen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/erfreuen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erfreuen&language=de)
 
 **Meaning:** to please; to delight

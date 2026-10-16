@@ -22,6 +22,8 @@ status: "new"
 
 ![[vortragen.ogg]]
 
+![[vortragen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vortragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vortragen&language=de)
 
 **Meaning:** to present

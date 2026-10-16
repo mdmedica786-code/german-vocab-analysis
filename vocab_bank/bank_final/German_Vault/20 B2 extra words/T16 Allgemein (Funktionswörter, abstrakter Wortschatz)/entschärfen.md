@@ -21,6 +21,8 @@ status: "new"
 
 ![[entschärfen.ogg]]
 
+![[entschärfen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/entsch%C3%A4rfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entsch%C3%A4rfen&language=de)
 
 **Meaning:** to defuse; to tone down

@@ -22,6 +22,8 @@ status: "new"
 
 ![[vegetarisch.ogg]]
 
+![[vegetarisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vegetarisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vegetarisch&language=de)
 
 **Meaning:** vegetarian

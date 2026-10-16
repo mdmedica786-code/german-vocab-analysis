@@ -22,6 +22,8 @@ status: "new"
 
 ![[segeln.ogg]]
 
+![[segeln.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/segeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=segeln&language=de)
 
 **Meaning:** to sail

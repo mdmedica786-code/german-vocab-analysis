@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # ehren
 
+![[ehren.jpg]]
+
 ![[ehren.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/ehren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ehren&language=de)

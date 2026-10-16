@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # siebzehn
 
+![[siebzehn.png]]
+
 ![[siebzehn.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/siebzehn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=siebzehn&language=de)

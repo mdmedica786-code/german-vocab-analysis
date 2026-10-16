@@ -21,6 +21,8 @@ status: "new"
 
 ![[aufwerten.ogg]]
 
+![[aufwerten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/aufwerten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufwerten&language=de)
 
 **Meaning:** to upgrade; to revalue

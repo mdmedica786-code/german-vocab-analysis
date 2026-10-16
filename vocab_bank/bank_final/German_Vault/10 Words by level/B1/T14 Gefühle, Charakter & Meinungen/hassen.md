@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # hassen
 
+![[hassen.jpg]]
+
 ![[hassen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/hassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hassen&language=de)

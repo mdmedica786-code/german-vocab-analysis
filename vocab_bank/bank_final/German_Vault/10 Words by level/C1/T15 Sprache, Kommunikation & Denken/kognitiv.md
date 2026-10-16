@@ -20,6 +20,8 @@ status: "new"
 
 ![[kognitiv.ogg]]
 
+![[kognitiv.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kognitiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kognitiv&language=de)
 
 **Meaning:** cognitive

@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # diätetisch
 
+![[diätetisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/di%C3%A4tetisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=di%C3%A4tetisch&language=de)
 
 **Meaning:** dietary (dietary food)

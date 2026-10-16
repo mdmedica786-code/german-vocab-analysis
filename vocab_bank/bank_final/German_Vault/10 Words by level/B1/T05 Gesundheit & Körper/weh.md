@@ -20,6 +20,8 @@ status: "new"
 
 ![[weh.ogg]]
 
+![[weh.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/weh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weh&language=de)
 
 **Meaning:** sore; painful

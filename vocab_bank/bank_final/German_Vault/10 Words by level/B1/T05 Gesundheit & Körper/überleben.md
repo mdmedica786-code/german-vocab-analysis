@@ -22,6 +22,8 @@ status: "new"
 
 ![[überleben.ogg]]
 
+![[überleben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberleben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberleben&language=de)
 
 **Meaning:** to survive

@@ -20,6 +20,8 @@ status: "new"
 
 ![[normativ.ogg]]
 
+![[normativ.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/normativ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=normativ&language=de)
 
 **Meaning:** normative

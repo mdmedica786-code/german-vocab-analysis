@@ -20,6 +20,8 @@ status: "new"
 
 ![[synonym.ogg]]
 
+![[synonym.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/synonym/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=synonym&language=de)
 
 **Meaning:** synonymous

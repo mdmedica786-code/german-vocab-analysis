@@ -35,6 +35,7 @@ D_VOCAB, D_B2, D_PHR, D_RED = "10 Words by level", "20 B2 extra words", "30 Phra
 OLD_VOCAB, OLD_B2 = "10 Vocabulary", "20 B2 Vocabulary"  # earlier layout, migrated automatically
 D_MOC, D_GUIDE, D_TPL, D_DASH = "02 MOCs", "01 Guide", "90 Templates", "03 Dashboards"
 D_AUDIO = "95 Audio"  # native audio copied here when bank_final/audio exists (see download_audio.py)
+D_IMG, IMG_EXTS = "96 Images", ("jpg", "jpeg", "png", "webp")  # word pictures, embedded under the audio
 
 
 # ---------------------------------------------------------------- helpers
@@ -373,6 +374,12 @@ def build(root, copy_audio=True):
             b += [f"![[{afile}]]", ""]
             if copy_audio:
                 V.copy_file(AUDIO_DIR / afile, f"{D_AUDIO}/{afile}")
+        img = next((VAULT / D_IMG / f"{lemma}.{e}" for e in IMG_EXTS
+                    if (VAULT / D_IMG / f"{lemma}.{e}").exists()), None)
+        if img:  # picture fetched/generated earlier (96 Images/<lemma>.jpg) survives rebuilds
+            b += [f"![[{img.name}]]", ""]
+            if V.root.resolve() != VAULT.resolve():
+                V.copy_file(img, f"{D_IMG}/{img.name}")
         q_clean = urllib.parse.quote(lemma)
         yg_link = f"https://youglish.com/pronounce/{q_clean}/german"
         pp_link = f"https://www.playphrase.me/#/search?q={q_clean}&language=de"
@@ -864,6 +871,7 @@ def check(vault_root):
     dup = {k: v for k, v in names.items() if len(v) > 1}
     stems = {p.stem for p in notes} | {p.name for p in root.rglob("*.base")} | {p.name for p in root.rglob("*") if p.suffix.lower() in EXTS}
     stems |= {p.name for p in AUDIO_DIR.glob("*")} if AUDIO_DIR.is_dir() else set()  # audio embeds ![[word.wav]]
+    stems |= {p.name for p in (root / D_IMG).glob("*")} if (root / D_IMG).is_dir() else set()  # ![[word.jpg]]
     broken, bad_yaml = [], []
     try:
         import yaml

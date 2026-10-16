@@ -21,6 +21,8 @@ status: "new"
 
 ![[umstellen.ogg]]
 
+![[umstellen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/umstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umstellen&language=de)
 
 **Meaning:** to switch; to rearrange

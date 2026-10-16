@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # schlucken
 
+![[schlucken.jpg]]
+
 ![[schlucken.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/schlucken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlucken&language=de)

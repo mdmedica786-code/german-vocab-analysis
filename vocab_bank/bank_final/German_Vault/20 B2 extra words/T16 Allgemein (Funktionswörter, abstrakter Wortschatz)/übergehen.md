@@ -21,6 +21,8 @@ status: "new"
 
 ![[übergehen.ogg]]
 
+![[übergehen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbergehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbergehen&language=de)
 
 **Meaning:** to pass over; to switch to

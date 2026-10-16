@@ -20,6 +20,8 @@ status: "new"
 
 ![[optimal.ogg]]
 
+![[optimal.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/optimal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=optimal&language=de)
 
 **Meaning:** optimal; ideal

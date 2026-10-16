@@ -22,6 +22,8 @@ status: "new"
 
 ![[vorsingen.ogg]]
 
+![[vorsingen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vorsingen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorsingen&language=de)
 
 **Meaning:** to sing (to someone); to audition

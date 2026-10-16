@@ -21,6 +21,8 @@ status: "new"
 
 ![[thematisch.ogg]]
 
+![[thematisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/thematisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=thematisch&language=de)
 
 **Meaning:** topical

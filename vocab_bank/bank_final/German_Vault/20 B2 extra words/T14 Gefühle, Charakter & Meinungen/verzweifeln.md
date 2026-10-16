@@ -21,6 +21,8 @@ status: "new"
 
 ![[verzweifeln.ogg]]
 
+![[verzweifeln.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verzweifeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verzweifeln&language=de)
 
 **Meaning:** to despair

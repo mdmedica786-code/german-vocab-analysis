@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # kirchlich
 
+![[kirchlich.jpg]]
+
 ![[kirchlich.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/kirchlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kirchlich&language=de)

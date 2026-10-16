@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # gerade
 
+![[gerade.png]]
+
 ![[gerade.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/gerade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gerade&language=de)

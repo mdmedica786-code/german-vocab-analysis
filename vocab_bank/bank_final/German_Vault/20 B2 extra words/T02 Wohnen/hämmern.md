@@ -21,6 +21,8 @@ status: "new"
 
 ![[hämmern.ogg]]
 
+![[hämmern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/h%C3%A4mmern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=h%C3%A4mmern&language=de)
 
 **Meaning:** to hammer; to pound

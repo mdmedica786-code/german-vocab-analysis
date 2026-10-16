@@ -20,6 +20,8 @@ status: "new"
 
 ![[vorliegend.ogg]]
 
+![[vorliegend.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vorliegend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorliegend&language=de)
 
 **Meaning:** present; at hand

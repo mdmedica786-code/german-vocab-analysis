@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # telefonieren
 
+![[telefonieren.jpg]]
+
 ![[telefonieren.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/telefonieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=telefonieren&language=de)

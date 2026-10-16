@@ -22,6 +22,8 @@ status: "new"
 
 ![[nieseln.ogg]]
 
+![[nieseln.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/nieseln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nieseln&language=de)
 
 **Meaning:** to drizzle

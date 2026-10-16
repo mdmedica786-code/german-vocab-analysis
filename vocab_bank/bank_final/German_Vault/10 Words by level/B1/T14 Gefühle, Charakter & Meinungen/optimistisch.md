@@ -22,6 +22,8 @@ status: "new"
 
 ![[optimistisch.ogg]]
 
+![[optimistisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/optimistisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=optimistisch&language=de)
 
 **Meaning:** optimistic

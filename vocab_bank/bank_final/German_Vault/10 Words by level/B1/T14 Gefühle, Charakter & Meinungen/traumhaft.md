@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # traumhaft
 
+![[traumhaft.jpg]]
+
 ![[traumhaft.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/traumhaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=traumhaft&language=de)

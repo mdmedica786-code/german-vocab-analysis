@@ -23,6 +23,8 @@ status: "new"
 
 ![[malen.ogg]]
 
+![[malen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/malen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=malen&language=de)
 
 **Meaning:** to paint

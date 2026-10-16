@@ -23,6 +23,8 @@ status: "new"
 
 ![[übernachten.ogg]]
 
+![[übernachten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbernachten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbernachten&language=de)
 
 **Meaning:** to sleep over, to stay at

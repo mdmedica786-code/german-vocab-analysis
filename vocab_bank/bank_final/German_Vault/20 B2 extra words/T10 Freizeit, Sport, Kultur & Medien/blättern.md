@@ -21,6 +21,8 @@ status: "new"
 
 ![[blättern.ogg]]
 
+![[blättern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bl%C3%A4ttern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bl%C3%A4ttern&language=de)
 
 **Meaning:** to leaf through; to flick through

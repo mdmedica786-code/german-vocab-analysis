@@ -21,6 +21,8 @@ status: "new"
 
 ![[bügeln.ogg]]
 
+![[bügeln.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/b%C3%BCgeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=b%C3%BCgeln&language=de)
 
 **Meaning:** to iron

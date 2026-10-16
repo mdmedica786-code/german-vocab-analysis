@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # herunterfallen
 
+![[herunterfallen.jpg]]
+
 ![[herunterfallen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/herunterfallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herunterfallen&language=de)

@@ -20,6 +20,8 @@ status: "new"
 
 ![[intolerant.ogg]]
 
+![[intolerant.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/intolerant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=intolerant&language=de)
 
 **Meaning:** intolerant

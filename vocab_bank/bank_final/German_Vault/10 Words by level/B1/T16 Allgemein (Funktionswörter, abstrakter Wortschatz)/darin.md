@@ -20,6 +20,8 @@ status: "new"
 
 ![[darin.ogg]]
 
+![[darin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/darin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=darin&language=de)
 
 **Meaning:** in it; in there; in that

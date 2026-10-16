@@ -25,6 +25,8 @@ status: "new"
 
 ![[Meister.ogg]]
 
+![[Meister.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Meister/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meister&language=de)
 
 **Meaning:** master craftsman; master

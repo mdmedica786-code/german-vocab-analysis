@@ -20,6 +20,8 @@ status: "new"
 
 ![[britisch.ogg]]
 
+![[britisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/britisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=britisch&language=de)
 
 **Meaning:** British

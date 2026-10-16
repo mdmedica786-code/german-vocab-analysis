@@ -20,6 +20,8 @@ status: "new"
 
 ![[energisch.ogg]]
 
+![[energisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/energisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=energisch&language=de)
 
 **Meaning:** energetic; firm; vigorous

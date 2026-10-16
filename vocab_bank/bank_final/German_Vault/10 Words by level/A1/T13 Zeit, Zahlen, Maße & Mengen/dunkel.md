@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # dunkel
 
+![[dunkel.png]]
+
 ![[dunkel.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/dunkel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dunkel&language=de)

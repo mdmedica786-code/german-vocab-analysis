@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # das
 
+![[das.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/das/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=das&language=de)
 
 **Meaning:** the (definite article, neuter)

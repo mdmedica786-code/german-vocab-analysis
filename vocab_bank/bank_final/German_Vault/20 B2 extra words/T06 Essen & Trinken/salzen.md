@@ -21,6 +21,8 @@ status: "new"
 
 ![[salzen.ogg]]
 
+![[salzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/salzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=salzen&language=de)
 
 **Meaning:** to salt

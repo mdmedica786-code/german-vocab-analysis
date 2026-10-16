@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # schminken
 
+![[schminken.jpg]]
+
 ![[schminken.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/schminken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schminken&language=de)

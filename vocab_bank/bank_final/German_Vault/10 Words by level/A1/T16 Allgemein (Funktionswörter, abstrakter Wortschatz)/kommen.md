@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # kommen
 
+![[kommen.png]]
+
 ![[kommen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/kommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kommen&language=de)

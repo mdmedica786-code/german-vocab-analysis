@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # schriftlich
 
+![[schriftlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schriftlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schriftlich&language=de)
 
 **Meaning:** written

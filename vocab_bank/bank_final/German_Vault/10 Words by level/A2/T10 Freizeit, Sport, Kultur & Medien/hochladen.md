@@ -23,6 +23,8 @@ status: "new"
 
 ![[hochladen.ogg]]
 
+![[hochladen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/hochladen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hochladen&language=de)
 
 **Meaning:** to upload

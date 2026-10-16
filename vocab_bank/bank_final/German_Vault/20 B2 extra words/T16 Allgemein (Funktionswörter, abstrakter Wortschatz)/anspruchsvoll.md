@@ -20,6 +20,8 @@ status: "new"
 
 ![[anspruchsvoll.ogg]]
 
+![[anspruchsvoll.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/anspruchsvoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anspruchsvoll&language=de)
 
 **Meaning:** demanding; sophisticated

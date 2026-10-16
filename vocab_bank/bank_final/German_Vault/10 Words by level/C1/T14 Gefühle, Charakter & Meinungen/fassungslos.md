@@ -20,6 +20,8 @@ status: "new"
 
 ![[fassungslos.ogg]]
 
+![[fassungslos.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/fassungslos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fassungslos&language=de)
 
 **Meaning:** stunned; speechless

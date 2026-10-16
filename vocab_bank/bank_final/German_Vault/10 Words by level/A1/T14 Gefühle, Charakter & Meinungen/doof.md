@@ -21,6 +21,8 @@ status: "new"
 
 ![[doof.ogg]]
 
+![[doof.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/doof/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=doof&language=de)
 
 **Meaning:** stupid

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # stehen
 
+![[stehen.png]]
+
 ![[stehen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stehen&language=de)

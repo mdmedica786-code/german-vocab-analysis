@@ -21,6 +21,8 @@ status: "new"
 
 ![[prägen.ogg]]
 
+![[prägen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/pr%C3%A4gen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pr%C3%A4gen&language=de)
 
 **Meaning:** to shape; to influence

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # einfallen
 
+![[einfallen.png]]
+
 ![[einfallen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/einfallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einfallen&language=de)

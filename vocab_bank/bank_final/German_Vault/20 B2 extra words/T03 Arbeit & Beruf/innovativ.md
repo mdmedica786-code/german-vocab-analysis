@@ -20,6 +20,8 @@ status: "new"
 
 ![[innovativ.ogg]]
 
+![[innovativ.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/innovativ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=innovativ&language=de)
 
 **Meaning:** innovative

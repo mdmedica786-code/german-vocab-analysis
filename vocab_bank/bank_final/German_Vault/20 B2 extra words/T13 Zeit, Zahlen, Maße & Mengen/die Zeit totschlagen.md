@@ -20,6 +20,8 @@ status: "new"
 
 ![[die Zeit totschlagen.ogg]]
 
+![[die Zeit totschlagen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/die%20Zeit%20totschlagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=die%20Zeit%20totschlagen&language=de)
 
 **Meaning:** to kill time

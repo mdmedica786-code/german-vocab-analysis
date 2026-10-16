@@ -21,6 +21,8 @@ status: "new"
 
 ![[verschränken.ogg]]
 
+![[verschränken.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verschr%C3%A4nken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verschr%C3%A4nken&language=de)
 
 **Meaning:** to cross; to fold (arms); to interlock

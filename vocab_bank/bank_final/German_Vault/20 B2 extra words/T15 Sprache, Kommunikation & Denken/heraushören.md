@@ -21,6 +21,8 @@ status: "new"
 
 ![[heraushören.ogg]]
 
+![[heraushören.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/heraush%C3%B6ren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heraush%C3%B6ren&language=de)
 
 **Meaning:** to detect (by listening); to hear (in a voice)

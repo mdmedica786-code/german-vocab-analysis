@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # oder
 
+![[oder.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/oder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=oder&language=de)
 
 **Meaning:** or

@@ -21,6 +21,8 @@ status: "new"
 
 ![[zögern.ogg]]
 
+![[zögern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/z%C3%B6gern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=z%C3%B6gern&language=de)
 
 **Meaning:** to hesitate

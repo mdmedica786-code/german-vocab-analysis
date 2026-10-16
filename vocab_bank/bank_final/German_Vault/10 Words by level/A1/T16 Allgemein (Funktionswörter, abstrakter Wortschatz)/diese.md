@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # diese
 
+![[diese.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/diese/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=diese&language=de)
 
 **Meaning:** this

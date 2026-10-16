@@ -21,6 +21,8 @@ status: "new"
 
 ![[moin.ogg]]
 
+![[moin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/moin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=moin&language=de)
 
 **Meaning:** hello; good morning (northern Germany)

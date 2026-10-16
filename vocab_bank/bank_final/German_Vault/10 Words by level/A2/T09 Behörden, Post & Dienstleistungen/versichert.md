@@ -21,6 +21,8 @@ status: "new"
 
 ![[versichert.ogg]]
 
+![[versichert.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/versichert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=versichert&language=de)
 
 **Meaning:** insured

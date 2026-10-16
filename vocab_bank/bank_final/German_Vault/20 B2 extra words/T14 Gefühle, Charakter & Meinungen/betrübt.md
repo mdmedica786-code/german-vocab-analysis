@@ -20,6 +20,8 @@ status: "new"
 
 ![[betrübt.ogg]]
 
+![[betrübt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/betr%C3%BCbt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betr%C3%BCbt&language=de)
 
 **Meaning:** saddened; sad

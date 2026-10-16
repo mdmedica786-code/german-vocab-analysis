@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # beißen
 
+![[beißen.jpg]]
+
 ![[beißen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/bei%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bei%C3%9Fen&language=de)

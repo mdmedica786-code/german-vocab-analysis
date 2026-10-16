@@ -20,6 +20,8 @@ status: "new"
 
 ![[umweltschonend.ogg]]
 
+![[umweltschonend.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/umweltschonend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umweltschonend&language=de)
 
 **Meaning:** environmentally friendly; eco-friendly

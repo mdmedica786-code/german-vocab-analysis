@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # scheu
 
+![[scheu.png]]
+
 ![[scheu.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/scheu/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=scheu&language=de)

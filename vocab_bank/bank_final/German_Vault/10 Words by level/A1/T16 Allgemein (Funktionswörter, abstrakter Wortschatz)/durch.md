@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # durch
 
+![[durch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/durch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durch&language=de)
 
 **Meaning:** through

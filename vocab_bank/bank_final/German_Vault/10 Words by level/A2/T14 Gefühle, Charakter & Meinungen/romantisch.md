@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # romantisch
 
+![[romantisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/romantisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=romantisch&language=de)
 
 **Meaning:** romantic

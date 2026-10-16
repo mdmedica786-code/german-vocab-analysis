@@ -23,6 +23,8 @@ status: "new"
 
 ![[anhaben.ogg]]
 
+![[anhaben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/anhaben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anhaben&language=de)
 
 **Meaning:** to wear

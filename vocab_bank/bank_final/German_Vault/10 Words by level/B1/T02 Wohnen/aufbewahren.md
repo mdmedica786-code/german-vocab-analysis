@@ -22,6 +22,8 @@ status: "new"
 
 ![[aufbewahren.ogg]]
 
+![[aufbewahren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/aufbewahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufbewahren&language=de)
 
 **Meaning:** to keep; to store

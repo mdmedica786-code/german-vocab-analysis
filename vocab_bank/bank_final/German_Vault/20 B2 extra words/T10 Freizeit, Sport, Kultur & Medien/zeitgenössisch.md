@@ -20,6 +20,8 @@ status: "new"
 
 ![[zeitgenössisch.ogg]]
 
+![[zeitgenössisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zeitgen%C3%B6ssisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zeitgen%C3%B6ssisch&language=de)
 
 **Meaning:** contemporary; of the present day

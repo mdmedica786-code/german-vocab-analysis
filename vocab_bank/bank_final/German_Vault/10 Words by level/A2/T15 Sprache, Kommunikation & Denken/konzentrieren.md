@@ -23,6 +23,8 @@ status: "new"
 
 ![[konzentrieren.ogg]]
 
+![[konzentrieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/konzentrieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konzentrieren&language=de)
 
 **Meaning:** to concentrate

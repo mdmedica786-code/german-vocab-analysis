@@ -21,6 +21,8 @@ status: "new"
 
 ![[obere.ogg]]
 
+![[obere.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/obere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=obere&language=de)
 
 **Meaning:** upper; top

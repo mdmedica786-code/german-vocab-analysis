@@ -21,6 +21,8 @@ status: "new"
 
 ![[unsympathisch.ogg]]
 
+![[unsympathisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/unsympathisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unsympathisch&language=de)
 
 **Meaning:** disagreeable

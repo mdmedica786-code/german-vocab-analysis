@@ -21,6 +21,8 @@ status: "new"
 
 ![[weisen.ogg]]
 
+![[weisen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/weisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weisen&language=de)
 
 **Meaning:** to point; to show (the way)

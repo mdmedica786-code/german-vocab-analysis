@@ -20,6 +20,8 @@ status: "new"
 
 ![[ethnologisch.ogg]]
 
+![[ethnologisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ethnologisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ethnologisch&language=de)
 
 **Meaning:** ethnological

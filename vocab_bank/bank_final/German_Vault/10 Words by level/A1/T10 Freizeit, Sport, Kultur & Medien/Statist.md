@@ -24,6 +24,8 @@ status: "new"
 
 ![[Statist.ogg]]
 
+![[Statist.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Statist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Statist&language=de)
 
 **Meaning:** extra (m)

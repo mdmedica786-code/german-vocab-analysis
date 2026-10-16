@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # nichts
 
+![[nichts.png]]
+
 ![[nichts.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/nichts/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nichts&language=de)

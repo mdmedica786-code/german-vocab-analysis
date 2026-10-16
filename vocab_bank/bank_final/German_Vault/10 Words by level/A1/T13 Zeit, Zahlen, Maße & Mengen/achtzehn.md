@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # achtzehn
 
+![[achtzehn.png]]
+
 ![[achtzehn.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/achtzehn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=achtzehn&language=de)

@@ -22,6 +22,8 @@ status: "new"
 
 ![[windig.ogg]]
 
+![[windig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/windig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=windig&language=de)
 
 **Meaning:** windy

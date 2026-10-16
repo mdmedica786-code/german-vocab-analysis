@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # aufmerksam
 
+![[aufmerksam.jpg]]
+
 ![[aufmerksam.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/aufmerksam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufmerksam&language=de)

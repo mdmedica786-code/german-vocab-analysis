@@ -21,6 +21,8 @@ status: "new"
 
 ![[durstig.ogg]]
 
+![[durstig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/durstig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durstig&language=de)
 
 **Meaning:** thirsty

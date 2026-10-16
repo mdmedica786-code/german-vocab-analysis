@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # neun
 
+![[neun.png]]
+
 ![[neun.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/neun/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=neun&language=de)

@@ -21,6 +21,8 @@ status: "new"
 
 ![[selbe.ogg]]
 
+![[selbe.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/selbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=selbe&language=de)
 
 **Meaning:** same

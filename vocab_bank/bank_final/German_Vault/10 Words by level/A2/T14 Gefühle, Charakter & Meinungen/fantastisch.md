@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # fantastisch
 
+![[fantastisch.jpg]]
+
 ![[fantastisch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/fantastisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fantastisch&language=de)

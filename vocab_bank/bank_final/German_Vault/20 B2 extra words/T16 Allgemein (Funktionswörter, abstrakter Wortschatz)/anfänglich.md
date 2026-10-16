@@ -20,6 +20,8 @@ status: "new"
 
 ![[anfänglich.ogg]]
 
+![[anfänglich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/anf%C3%A4nglich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anf%C3%A4nglich&language=de)
 
 **Meaning:** initial; at first

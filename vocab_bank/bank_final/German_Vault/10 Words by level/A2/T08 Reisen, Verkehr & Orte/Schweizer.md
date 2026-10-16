@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Schweizer
 
+![[Schweizer.png]]
+
 ![[Schweizer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Schweizer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schweizer&language=de)

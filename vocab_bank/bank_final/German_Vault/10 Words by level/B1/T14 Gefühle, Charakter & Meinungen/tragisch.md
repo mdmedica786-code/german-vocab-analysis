@@ -21,6 +21,8 @@ status: "new"
 
 ![[tragisch.ogg]]
 
+![[tragisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/tragisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tragisch&language=de)
 
 **Meaning:** tragic

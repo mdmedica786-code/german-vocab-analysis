@@ -23,6 +23,8 @@ status: "new"
 
 ![[umarmen.ogg]]
 
+![[umarmen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/umarmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umarmen&language=de)
 
 **Meaning:** to hug

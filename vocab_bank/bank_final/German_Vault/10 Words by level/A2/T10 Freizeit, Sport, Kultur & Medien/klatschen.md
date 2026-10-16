@@ -22,6 +22,8 @@ status: "new"
 
 ![[klatschen.ogg]]
 
+![[klatschen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/klatschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=klatschen&language=de)
 
 **Meaning:** to clap

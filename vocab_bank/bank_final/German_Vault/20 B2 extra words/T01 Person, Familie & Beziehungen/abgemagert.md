@@ -20,6 +20,8 @@ status: "new"
 
 ![[abgemagert.ogg]]
 
+![[abgemagert.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/abgemagert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abgemagert&language=de)
 
 **Meaning:** emaciated; very thin

@@ -21,6 +21,8 @@ status: "new"
 
 ![[irritieren.ogg]]
 
+![[irritieren.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/irritieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=irritieren&language=de)
 
 **Meaning:** to irritate; to confuse

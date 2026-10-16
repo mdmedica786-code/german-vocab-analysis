@@ -21,6 +21,8 @@ status: "new"
 
 ![[schrauben.ogg]]
 
+![[schrauben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schrauben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schrauben&language=de)
 
 **Meaning:** to screw; to tinker

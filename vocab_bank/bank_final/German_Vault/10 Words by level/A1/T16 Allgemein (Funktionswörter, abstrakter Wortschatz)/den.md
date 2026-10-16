@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # den
 
+![[den.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/den/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=den&language=de)
 
 **Meaning:** the (definite article, masculine accusative)

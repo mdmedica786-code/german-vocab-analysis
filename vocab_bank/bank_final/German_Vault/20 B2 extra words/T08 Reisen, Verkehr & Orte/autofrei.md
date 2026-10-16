@@ -20,6 +20,8 @@ status: "new"
 
 ![[autofrei.ogg]]
 
+![[autofrei.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/autofrei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=autofrei&language=de)
 
 **Meaning:** car-free

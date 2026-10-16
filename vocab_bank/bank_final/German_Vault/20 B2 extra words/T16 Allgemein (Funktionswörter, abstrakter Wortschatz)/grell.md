@@ -20,6 +20,8 @@ status: "new"
 
 ![[grell.ogg]]
 
+![[grell.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/grell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=grell&language=de)
 
 **Meaning:** glaring; harsh

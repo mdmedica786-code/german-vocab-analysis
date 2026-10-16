@@ -22,6 +22,8 @@ status: "new"
 
 ![[bewölkt.ogg]]
 
+![[bewölkt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bew%C3%B6lkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bew%C3%B6lkt&language=de)
 
 **Meaning:** cloudy

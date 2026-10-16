@@ -20,6 +20,8 @@ status: "new"
 
 ![[bestehend.ogg]]
 
+![[bestehend.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bestehend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bestehend&language=de)
 
 **Meaning:** existing

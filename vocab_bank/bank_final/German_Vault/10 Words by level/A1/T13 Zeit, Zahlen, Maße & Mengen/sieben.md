@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # sieben
 
+![[sieben.png]]
+
 ![[sieben.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/sieben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sieben&language=de)

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # lange
 
+![[lange.png]]
+
 ![[lange.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/lange/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lange&language=de)

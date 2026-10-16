@@ -20,6 +20,8 @@ status: "new"
 
 ![[ausgeglichen.ogg]]
 
+![[ausgeglichen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ausgeglichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausgeglichen&language=de)
 
 **Meaning:** balanced; even-tempered

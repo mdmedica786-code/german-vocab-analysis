@@ -23,6 +23,8 @@ status: "new"
 
 ![[transportieren.ogg]]
 
+![[transportieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/transportieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=transportieren&language=de)
 
 **Meaning:** to transport

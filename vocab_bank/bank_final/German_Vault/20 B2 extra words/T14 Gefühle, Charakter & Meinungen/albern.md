@@ -20,6 +20,8 @@ status: "new"
 
 ![[albern.ogg]]
 
+![[albern.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/albern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=albern&language=de)
 
 **Meaning:** silly; childish

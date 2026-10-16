@@ -20,6 +20,8 @@ status: "new"
 
 ![[kindlich.ogg]]
 
+![[kindlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kindlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kindlich&language=de)
 
 **Meaning:** childlike; childish

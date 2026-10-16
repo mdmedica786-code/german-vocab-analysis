@@ -21,6 +21,8 @@ status: "new"
 
 ![[dulden.ogg]]
 
+![[dulden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/dulden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dulden&language=de)
 
 **Meaning:** to tolerate; to put up with

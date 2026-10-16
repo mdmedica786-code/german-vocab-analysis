@@ -26,6 +26,8 @@ status: "new"
 
 ![[Stiege.ogg]]
 
+![[Stiege.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Stiege/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stiege&language=de)
 
 **Meaning:** staircase (Austrian)

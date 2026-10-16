@@ -20,6 +20,8 @@ status: "new"
 
 ![[jüdisch.ogg]]
 
+![[jüdisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/j%C3%BCdisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=j%C3%BCdisch&language=de)
 
 **Meaning:** Jewish

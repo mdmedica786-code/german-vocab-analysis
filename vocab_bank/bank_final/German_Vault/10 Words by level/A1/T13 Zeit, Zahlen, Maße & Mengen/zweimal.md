@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # zweimal
 
+![[zweimal.jpg]]
+
 ![[zweimal.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/zweimal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zweimal&language=de)

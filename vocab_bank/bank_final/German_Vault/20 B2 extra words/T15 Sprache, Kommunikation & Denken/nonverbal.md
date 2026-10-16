@@ -20,6 +20,8 @@ status: "new"
 
 ![[nonverbal.ogg]]
 
+![[nonverbal.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/nonverbal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nonverbal&language=de)
 
 **Meaning:** non-verbal

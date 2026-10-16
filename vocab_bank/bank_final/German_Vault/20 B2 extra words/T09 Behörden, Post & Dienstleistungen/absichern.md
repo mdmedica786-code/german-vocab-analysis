@@ -21,6 +21,8 @@ status: "new"
 
 ![[absichern.ogg]]
 
+![[absichern.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/absichern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=absichern&language=de)
 
 **Meaning:** to secure; to safeguard

@@ -22,6 +22,8 @@ status: "new"
 
 ![[bestrafen.ogg]]
 
+![[bestrafen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bestrafen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bestrafen&language=de)
 
 **Meaning:** to punish

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # kennen
 
+![[kennen.jpg]]
+
 ![[kennen (24).wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/kennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kennen&language=de)

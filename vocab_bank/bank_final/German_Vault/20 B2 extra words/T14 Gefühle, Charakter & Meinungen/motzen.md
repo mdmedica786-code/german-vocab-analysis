@@ -21,6 +21,8 @@ status: "new"
 
 ![[motzen.ogg]]
 
+![[motzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/motzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=motzen&language=de)
 
 **Meaning:** to grumble; to moan (colloquial)

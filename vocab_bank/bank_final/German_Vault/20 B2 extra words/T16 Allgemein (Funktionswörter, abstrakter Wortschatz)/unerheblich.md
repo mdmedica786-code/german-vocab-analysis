@@ -20,6 +20,8 @@ status: "new"
 
 ![[unerheblich.ogg]]
 
+![[unerheblich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/unerheblich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unerheblich&language=de)
 
 **Meaning:** insignificant; irrelevant

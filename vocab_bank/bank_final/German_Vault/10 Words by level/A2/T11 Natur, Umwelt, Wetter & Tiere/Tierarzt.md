@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Tierarzt
 
+![[Tierarzt.png]]
+
 ![[Tierarzt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Tierarzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tierarzt&language=de)

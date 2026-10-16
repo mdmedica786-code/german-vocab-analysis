@@ -21,6 +21,8 @@ status: "new"
 
 ![[scheiden.ogg]]
 
+![[scheiden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/scheiden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=scheiden&language=de)
 
 **Meaning:** to part; to depart; to divorce (sich scheiden lassen)

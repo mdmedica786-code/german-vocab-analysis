@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # lachen
 
+![[lachen.jpg]]
+
 ![[lachen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/lachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lachen&language=de)

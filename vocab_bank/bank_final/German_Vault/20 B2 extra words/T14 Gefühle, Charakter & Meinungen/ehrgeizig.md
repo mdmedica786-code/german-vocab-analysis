@@ -20,6 +20,8 @@ status: "new"
 
 ![[ehrgeizig.ogg]]
 
+![[ehrgeizig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ehrgeizig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ehrgeizig&language=de)
 
 **Meaning:** ambitious

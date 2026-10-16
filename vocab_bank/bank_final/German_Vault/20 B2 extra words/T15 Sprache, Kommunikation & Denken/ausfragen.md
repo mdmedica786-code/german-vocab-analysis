@@ -21,6 +21,8 @@ status: "new"
 
 ![[ausfragen.ogg]]
 
+![[ausfragen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ausfragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausfragen&language=de)
 
 **Meaning:** to question; to grill

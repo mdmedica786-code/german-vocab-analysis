@@ -21,6 +21,8 @@ status: "new"
 
 ![[rügen.ogg]]
 
+![[rügen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/r%C3%BCgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=r%C3%BCgen&language=de)
 
 **Meaning:** to reprimand; to criticise

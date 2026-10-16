@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # abstellen
 
+![[abstellen.jpg]]
+
 ![[abstellen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/abstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abstellen&language=de)

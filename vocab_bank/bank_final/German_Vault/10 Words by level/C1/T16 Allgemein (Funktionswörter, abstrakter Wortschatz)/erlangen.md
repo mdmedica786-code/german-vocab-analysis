@@ -21,6 +21,8 @@ status: "new"
 
 ![[erlangen.ogg]]
 
+![[erlangen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/erlangen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erlangen&language=de)
 
 **Meaning:** to obtain; to gain

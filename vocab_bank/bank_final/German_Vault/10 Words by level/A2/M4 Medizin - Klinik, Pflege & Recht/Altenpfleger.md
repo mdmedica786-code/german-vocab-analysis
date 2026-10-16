@@ -24,6 +24,8 @@ status: "new"
 
 ![[Altenpfleger.ogg]]
 
+![[Altenpfleger.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Altenpfleger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altenpfleger&language=de)
 
 **Meaning:** geriatric nurse (m)

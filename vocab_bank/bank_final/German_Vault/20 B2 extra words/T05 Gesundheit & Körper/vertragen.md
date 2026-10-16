@@ -21,6 +21,8 @@ status: "new"
 
 ![[vertragen.ogg]]
 
+![[vertragen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vertragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vertragen&language=de)
 
 **Meaning:** to tolerate; to bear; to get on (sich vertragen)

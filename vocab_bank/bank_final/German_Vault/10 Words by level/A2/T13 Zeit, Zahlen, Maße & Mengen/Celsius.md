@@ -21,6 +21,8 @@ status: "new"
 
 ![[Celsius.ogg]]
 
+![[Celsius.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Celsius/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Celsius&language=de)
 
 **Meaning:** Celsius

@@ -21,6 +21,8 @@ status: "new"
 
 ![[aufbessern.ogg]]
 
+![[aufbessern.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/aufbessern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufbessern&language=de)
 
 **Meaning:** to improve; to top up

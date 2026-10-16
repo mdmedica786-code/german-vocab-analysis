@@ -20,6 +20,8 @@ status: "new"
 
 ![[verlogen.ogg]]
 
+![[verlogen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verlogen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verlogen&language=de)
 
 **Meaning:** lying; hypocritical

@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # eifersüchtig
 
+![[eifersüchtig.jpg]]
+
 ![[eifersüchtig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/eifers%C3%BCchtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eifers%C3%BCchtig&language=de)

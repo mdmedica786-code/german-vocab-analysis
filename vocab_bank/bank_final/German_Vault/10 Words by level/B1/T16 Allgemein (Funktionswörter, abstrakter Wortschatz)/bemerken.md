@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # bemerken
 
+![[bemerken.png]]
+
 ![[bemerken.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/bemerken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bemerken&language=de)

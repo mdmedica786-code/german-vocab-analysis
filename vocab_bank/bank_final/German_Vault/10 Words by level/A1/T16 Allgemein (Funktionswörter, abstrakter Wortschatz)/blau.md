@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # blau
 
+![[blau.jpg]]
+
 ![[blau.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/blau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=blau&language=de)

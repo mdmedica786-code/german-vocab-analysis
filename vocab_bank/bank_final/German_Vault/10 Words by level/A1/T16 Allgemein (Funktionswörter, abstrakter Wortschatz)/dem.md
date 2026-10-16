@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # dem
 
+![[dem.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/dem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dem&language=de)
 
 **Meaning:** the

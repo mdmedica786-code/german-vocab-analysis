@@ -22,6 +22,8 @@ status: "new"
 
 ![[finanziell.ogg]]
 
+![[finanziell.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/finanziell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=finanziell&language=de)
 
 **Meaning:** financial

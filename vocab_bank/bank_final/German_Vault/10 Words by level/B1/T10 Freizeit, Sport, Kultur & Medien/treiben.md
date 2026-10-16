@@ -22,6 +22,8 @@ status: "new"
 
 ![[treiben.ogg]]
 
+![[treiben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/treiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=treiben&language=de)
 
 **Meaning:** to do (sport); to drive; to push

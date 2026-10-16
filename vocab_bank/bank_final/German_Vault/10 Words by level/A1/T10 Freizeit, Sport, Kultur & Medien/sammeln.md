@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # sammeln
 
+![[sammeln.jpg]]
+
 ![[sammeln.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/sammeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sammeln&language=de)

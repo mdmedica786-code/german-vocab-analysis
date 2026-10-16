@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # befördern
 
+![[befördern.jpg]]
+
 ![[befördern.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/bef%C3%B6rdern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bef%C3%B6rdern&language=de)

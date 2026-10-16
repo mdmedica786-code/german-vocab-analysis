@@ -21,6 +21,8 @@ status: "new"
 
 ![[überbrücken.ogg]]
 
+![[überbrücken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberbr%C3%BCcken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberbr%C3%BCcken&language=de)
 
 **Meaning:** to bridge; to tide over

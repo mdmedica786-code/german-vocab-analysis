@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # gelb
 
+![[gelb.jpg]]
+
 ![[gelb.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/gelb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gelb&language=de)

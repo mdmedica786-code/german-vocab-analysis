@@ -21,6 +21,8 @@ status: "new"
 
 ![[mitkriegen.ogg]]
 
+![[mitkriegen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/mitkriegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitkriegen&language=de)
 
 **Meaning:** to notice; to catch (colloquial)

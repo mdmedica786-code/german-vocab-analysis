@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # berühren
 
+![[berühren.png]]
+
 ![[berühren.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/ber%C3%BChren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ber%C3%BChren&language=de)

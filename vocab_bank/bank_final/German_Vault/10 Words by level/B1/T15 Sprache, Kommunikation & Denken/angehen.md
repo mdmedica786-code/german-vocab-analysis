@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # angehen
 
+![[angehen.jpg]]
+
 ![[angehen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/angehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=angehen&language=de)

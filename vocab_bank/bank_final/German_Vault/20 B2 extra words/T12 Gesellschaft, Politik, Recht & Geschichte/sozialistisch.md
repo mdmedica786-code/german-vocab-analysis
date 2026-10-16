@@ -20,6 +20,8 @@ status: "new"
 
 ![[sozialistisch.ogg]]
 
+![[sozialistisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/sozialistisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sozialistisch&language=de)
 
 **Meaning:** socialist

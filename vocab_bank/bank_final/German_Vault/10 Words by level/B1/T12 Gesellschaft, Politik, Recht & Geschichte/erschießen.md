@@ -22,6 +22,8 @@ status: "new"
 
 ![[erschießen.ogg]]
 
+![[erschießen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/erschie%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erschie%C3%9Fen&language=de)
 
 **Meaning:** to shoot

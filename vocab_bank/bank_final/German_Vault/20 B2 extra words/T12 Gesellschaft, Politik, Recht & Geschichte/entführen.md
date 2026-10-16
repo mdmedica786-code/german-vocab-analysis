@@ -21,6 +21,8 @@ status: "new"
 
 ![[entführen.ogg]]
 
+![[entführen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/entf%C3%BChren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entf%C3%BChren&language=de)
 
 **Meaning:** to kidnap; to abduct

@@ -20,6 +20,8 @@ status: "new"
 
 ![[schlapp.ogg]]
 
+![[schlapp.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schlapp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlapp&language=de)
 
 **Meaning:** limp; weak; run-down

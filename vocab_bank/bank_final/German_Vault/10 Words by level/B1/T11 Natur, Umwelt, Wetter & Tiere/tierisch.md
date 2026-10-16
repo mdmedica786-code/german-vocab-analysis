@@ -21,6 +21,8 @@ status: "new"
 
 ![[tierisch.ogg]]
 
+![[tierisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/tierisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tierisch&language=de)
 
 **Meaning:** animal; animal-based

@@ -20,6 +20,8 @@ status: "new"
 
 ![[düster.ogg]]
 
+![[düster.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/d%C3%BCster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=d%C3%BCster&language=de)
 
 **Meaning:** gloomy; dark; bleak

@@ -22,6 +22,8 @@ status: "new"
 
 ![[würzen.ogg]]
 
+![[würzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/w%C3%BCrzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=w%C3%BCrzen&language=de)
 
 **Meaning:** to season

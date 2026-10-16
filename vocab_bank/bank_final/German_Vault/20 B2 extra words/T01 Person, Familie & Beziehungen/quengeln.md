@@ -21,6 +21,8 @@ status: "new"
 
 ![[quengeln.ogg]]
 
+![[quengeln.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/quengeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=quengeln&language=de)
 
 **Meaning:** to whine; to grizzle

@@ -21,6 +21,8 @@ status: "new"
 
 ![[biologisch.ogg]]
 
+![[biologisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/biologisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=biologisch&language=de)
 
 **Meaning:** biological

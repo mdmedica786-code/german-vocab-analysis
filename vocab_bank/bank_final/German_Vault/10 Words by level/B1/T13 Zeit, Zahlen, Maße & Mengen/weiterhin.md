@@ -20,6 +20,8 @@ status: "new"
 
 ![[weiterhin.ogg]]
 
+![[weiterhin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/weiterhin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weiterhin&language=de)
 
 **Meaning:** still; furthermore; continuing

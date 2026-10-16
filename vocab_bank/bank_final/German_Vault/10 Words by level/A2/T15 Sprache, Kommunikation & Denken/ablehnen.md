@@ -23,6 +23,8 @@ status: "new"
 
 ![[ablehnen.ogg]]
 
+![[ablehnen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ablehnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ablehnen&language=de)
 
 **Meaning:** to refuse

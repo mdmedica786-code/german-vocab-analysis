@@ -22,6 +22,8 @@ status: "new"
 
 ![[kulturell.ogg]]
 
+![[kulturell.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kulturell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kulturell&language=de)
 
 **Meaning:** cultural

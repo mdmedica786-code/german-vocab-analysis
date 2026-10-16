@@ -21,6 +21,8 @@ status: "new"
 
 ![[motiviert.ogg]]
 
+![[motiviert.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/motiviert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=motiviert&language=de)
 
 **Meaning:** motivated

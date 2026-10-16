@@ -20,6 +20,8 @@ status: "new"
 
 ![[bahnbrechend.ogg]]
 
+![[bahnbrechend.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bahnbrechend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bahnbrechend&language=de)
 
 **Meaning:** groundbreaking; pioneering

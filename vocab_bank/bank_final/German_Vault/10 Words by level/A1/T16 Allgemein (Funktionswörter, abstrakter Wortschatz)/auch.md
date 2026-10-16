@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # auch
 
+![[auch.jpg]]
+
 ![[auch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/auch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auch&language=de)

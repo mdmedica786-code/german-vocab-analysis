@@ -22,6 +22,8 @@ status: "new"
 
 ![[formen.ogg]]
 
+![[formen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/formen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=formen&language=de)
 
 **Meaning:** to shape; to form

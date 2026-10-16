@@ -21,6 +21,8 @@ status: "new"
 
 ![[opfern.ogg]]
 
+![[opfern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/opfern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=opfern&language=de)
 
 **Meaning:** to sacrifice

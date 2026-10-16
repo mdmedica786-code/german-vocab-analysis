@@ -21,6 +21,8 @@ status: "new"
 
 ![[bürsten.ogg]]
 
+![[bürsten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/b%C3%BCrsten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=b%C3%BCrsten&language=de)
 
 **Meaning:** to brush

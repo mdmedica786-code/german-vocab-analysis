@@ -22,6 +22,8 @@ status: "new"
 
 ![[öffentlich.ogg]]
 
+![[öffentlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%B6ffentlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%B6ffentlich&language=de)
 
 **Meaning:** public

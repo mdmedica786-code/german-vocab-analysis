@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # theoretisch
 
+![[theoretisch.png]]
+
 ![[theoretisch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/theoretisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=theoretisch&language=de)

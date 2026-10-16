@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # letzte
 
+![[letzte.jpg]]
+
 ![[letzte.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/letzte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=letzte&language=de)

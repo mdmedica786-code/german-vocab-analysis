@@ -24,6 +24,8 @@ status: "new"
 
 ![[Letzte (322).ogg]]
 
+![[letzte.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Letzte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Letzte&language=de)
 
 **Meaning:** last one; last person

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # wählen
 
+![[wählen.jpg]]
+
 ![[wählen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/w%C3%A4hlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=w%C3%A4hlen&language=de)

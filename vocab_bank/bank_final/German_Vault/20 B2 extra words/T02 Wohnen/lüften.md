@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # lüften
 
+![[lüften.jpg]]
+
 ![[lüften.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/l%C3%BCften/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=l%C3%BCften&language=de)

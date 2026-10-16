@@ -22,6 +22,8 @@ status: "new"
 
 ![[elektronisch.ogg]]
 
+![[elektronisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/elektronisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=elektronisch&language=de)
 
 **Meaning:** electronic

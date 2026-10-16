@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # ausgeben
 
+![[ausgeben.jpg]]
+
 ![[ausgeben.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/ausgeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausgeben&language=de)

@@ -22,6 +22,8 @@ status: "new"
 
 ![[gestalten.ogg]]
 
+![[gestalten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gestalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gestalten&language=de)
 
 **Meaning:** to design; to shape; to organise

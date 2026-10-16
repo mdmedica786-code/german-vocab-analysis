@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # einundzwanzig
 
+![[einundzwanzig.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/einundzwanzig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einundzwanzig&language=de)
 
 **Meaning:** twenty-one

@@ -22,6 +22,8 @@ status: "new"
 
 ![[geheim.ogg]]
 
+![[geheim.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/geheim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geheim&language=de)
 
 **Meaning:** secret

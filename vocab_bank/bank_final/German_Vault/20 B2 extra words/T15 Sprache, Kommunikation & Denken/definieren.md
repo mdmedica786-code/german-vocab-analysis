@@ -21,6 +21,8 @@ status: "new"
 
 ![[definieren.ogg]]
 
+![[definieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/definieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=definieren&language=de)
 
 **Meaning:** to define

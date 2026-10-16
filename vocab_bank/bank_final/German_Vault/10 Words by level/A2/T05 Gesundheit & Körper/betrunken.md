@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # betrunken
 
+![[betrunken.jpg]]
+
 ![[betrunken.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/betrunken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betrunken&language=de)

@@ -20,6 +20,8 @@ status: "new"
 
 ![[überheblich.ogg]]
 
+![[überheblich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberheblich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberheblich&language=de)
 
 **Meaning:** arrogant; overbearing

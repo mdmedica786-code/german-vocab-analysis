@@ -20,6 +20,8 @@ status: "new"
 
 ![[melancholisch.ogg]]
 
+![[melancholisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/melancholisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=melancholisch&language=de)
 
 **Meaning:** melancholic

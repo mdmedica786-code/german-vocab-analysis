@@ -21,6 +21,8 @@ status: "new"
 
 ![[unhöflich.ogg]]
 
+![[unhöflich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/unh%C3%B6flich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unh%C3%B6flich&language=de)
 
 **Meaning:** impolite

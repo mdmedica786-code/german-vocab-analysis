@@ -21,6 +21,8 @@ status: "new"
 
 ![[runzeln.ogg]]
 
+![[runzeln.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/runzeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=runzeln&language=de)
 
 **Meaning:** to wrinkle; to frown

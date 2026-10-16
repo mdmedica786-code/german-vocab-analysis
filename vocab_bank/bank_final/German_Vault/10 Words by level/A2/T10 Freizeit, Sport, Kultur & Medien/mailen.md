@@ -23,6 +23,8 @@ status: "new"
 
 ![[mailen.ogg]]
 
+![[mailen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/mailen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mailen&language=de)
 
 **Meaning:** to mail

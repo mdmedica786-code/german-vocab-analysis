@@ -21,6 +21,8 @@ status: "new"
 
 ![[nachhaltig.ogg]]
 
+![[nachhaltig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/nachhaltig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachhaltig&language=de)
 
 **Meaning:** sustainable

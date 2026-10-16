@@ -20,6 +20,8 @@ status: "new"
 
 ![[zweckmäßig.ogg]]
 
+![[zweckmäßig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zweckm%C3%A4%C3%9Fig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zweckm%C3%A4%C3%9Fig&language=de)
 
 **Meaning:** practical; expedient; suitable

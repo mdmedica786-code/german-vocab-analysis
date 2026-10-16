@@ -21,6 +21,8 @@ status: "new"
 
 ![[beunruhigen.ogg]]
 
+![[beunruhigen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/beunruhigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beunruhigen&language=de)
 
 **Meaning:** to worry; to alarm

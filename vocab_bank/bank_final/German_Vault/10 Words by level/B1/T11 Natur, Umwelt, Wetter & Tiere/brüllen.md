@@ -22,6 +22,8 @@ status: "new"
 
 ![[brüllen.ogg]]
 
+![[brüllen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/br%C3%BCllen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=br%C3%BCllen&language=de)
 
 **Meaning:** to roar; to shout

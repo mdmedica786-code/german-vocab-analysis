@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # verzeihen
 
+![[verzeihen.jpg]]
+
 ![[verzeihen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/verzeihen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verzeihen&language=de)

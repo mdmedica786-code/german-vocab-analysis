@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # pfeifen
 
+![[pfeifen.jpg]]
+
 ![[pfeifen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/pfeifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pfeifen&language=de)

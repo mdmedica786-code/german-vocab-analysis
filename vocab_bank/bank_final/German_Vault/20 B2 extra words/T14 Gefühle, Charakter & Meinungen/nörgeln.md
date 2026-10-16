@@ -21,6 +21,8 @@ status: "new"
 
 ![[nörgeln.ogg]]
 
+![[nörgeln.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/n%C3%B6rgeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=n%C3%B6rgeln&language=de)
 
 **Meaning:** to carp; to nag

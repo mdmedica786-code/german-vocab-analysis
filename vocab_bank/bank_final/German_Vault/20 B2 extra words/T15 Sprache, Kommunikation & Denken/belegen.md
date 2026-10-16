@@ -21,6 +21,8 @@ status: "new"
 
 ![[belegen.ogg]]
 
+![[belegen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/belegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=belegen&language=de)
 
 **Meaning:** to prove; to document; to occupy

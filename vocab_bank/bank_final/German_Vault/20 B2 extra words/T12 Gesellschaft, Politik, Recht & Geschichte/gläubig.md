@@ -20,6 +20,8 @@ status: "new"
 
 ![[gläubig.ogg]]
 
+![[gläubig.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gl%C3%A4ubig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gl%C3%A4ubig&language=de)
 
 **Meaning:** religious; devout

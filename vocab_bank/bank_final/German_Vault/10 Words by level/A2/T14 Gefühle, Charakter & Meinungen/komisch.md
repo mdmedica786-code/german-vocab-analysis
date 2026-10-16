@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # komisch
 
+![[komisch.jpg]]
+
 ![[komisch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/komisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=komisch&language=de)

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Großeltern
 
+![[Großeltern.jpg]]
+
 ![[Großeltern.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gro%C3%9Feltern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gro%C3%9Feltern&language=de)

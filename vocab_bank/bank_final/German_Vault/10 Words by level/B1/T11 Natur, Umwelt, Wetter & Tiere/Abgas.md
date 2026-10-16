@@ -24,6 +24,8 @@ status: "new"
 
 ![[Abgas.ogg]]
 
+![[Abgas.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abgas/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abgas&language=de)
 
 **Meaning:** exhaust

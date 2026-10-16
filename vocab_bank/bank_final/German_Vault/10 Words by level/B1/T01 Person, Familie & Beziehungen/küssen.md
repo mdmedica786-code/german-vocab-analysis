@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # küssen
 
+![[küssen.jpg]]
+
 ![[küssen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/k%C3%BCssen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k%C3%BCssen&language=de)

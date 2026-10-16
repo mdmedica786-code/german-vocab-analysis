@@ -25,6 +25,8 @@ status: "new"
 
 ![[Koch.ogg]]
 
+![[Koch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Koch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Koch&language=de)
 
 **Meaning:** cook (m)

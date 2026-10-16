@@ -21,6 +21,8 @@ status: "new"
 
 ![[weichen.ogg]]
 
+![[weichen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/weichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weichen&language=de)
 
 **Meaning:** to give way; to yield

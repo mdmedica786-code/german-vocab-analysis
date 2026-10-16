@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # einhundert
 
+![[einhundert.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/einhundert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einhundert&language=de)
 
 **Meaning:** one hundred

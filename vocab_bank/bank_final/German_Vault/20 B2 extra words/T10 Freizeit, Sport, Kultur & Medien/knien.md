@@ -21,6 +21,8 @@ status: "new"
 
 ![[knien.ogg]]
 
+![[knien.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/knien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=knien&language=de)
 
 **Meaning:** to kneel

@@ -22,6 +22,8 @@ status: "new"
 
 ![[intelligent.ogg]]
 
+![[intelligent.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/intelligent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=intelligent&language=de)
 
 **Meaning:** intelligent

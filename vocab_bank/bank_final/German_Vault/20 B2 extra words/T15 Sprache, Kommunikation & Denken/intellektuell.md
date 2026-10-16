@@ -20,6 +20,8 @@ status: "new"
 
 ![[intellektuell.ogg]]
 
+![[intellektuell.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/intellektuell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=intellektuell&language=de)
 
 **Meaning:** intellectual

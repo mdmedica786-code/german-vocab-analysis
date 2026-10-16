@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # müde
 
+![[müde.jpg]]
+
 ![[müde.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/m%C3%BCde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=m%C3%BCde&language=de)

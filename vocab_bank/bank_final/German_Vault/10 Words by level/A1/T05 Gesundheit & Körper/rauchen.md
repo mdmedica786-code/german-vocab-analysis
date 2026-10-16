@@ -23,6 +23,8 @@ status: "new"
 
 ![[rauchen.ogg]]
 
+![[rauchen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/rauchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rauchen&language=de)
 
 **Meaning:** to smoke

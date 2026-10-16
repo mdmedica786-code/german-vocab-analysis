@@ -21,6 +21,8 @@ status: "new"
 
 ![[humorvoll.ogg]]
 
+![[humorvoll.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/humorvoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=humorvoll&language=de)
 
 **Meaning:** humorous

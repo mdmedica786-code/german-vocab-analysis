@@ -22,6 +22,8 @@ status: "new"
 
 ![[deuten.ogg]]
 
+![[deuten.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/deuten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=deuten&language=de)
 
 **Meaning:** to point; to indicate; to interpret

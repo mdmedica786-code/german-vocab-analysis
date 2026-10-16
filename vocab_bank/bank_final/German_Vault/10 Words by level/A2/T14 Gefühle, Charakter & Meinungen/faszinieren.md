@@ -22,6 +22,8 @@ status: "new"
 
 ![[faszinieren.ogg]]
 
+![[faszinieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/faszinieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=faszinieren&language=de)
 
 **Meaning:** to fascinate

@@ -20,6 +20,8 @@ status: "new"
 
 ![[riskant.ogg]]
 
+![[riskant.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/riskant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=riskant&language=de)
 
 **Meaning:** risky

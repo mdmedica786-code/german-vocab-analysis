@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # weinen
 
+![[weinen.jpg]]
+
 ![[weinen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/weinen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weinen&language=de)

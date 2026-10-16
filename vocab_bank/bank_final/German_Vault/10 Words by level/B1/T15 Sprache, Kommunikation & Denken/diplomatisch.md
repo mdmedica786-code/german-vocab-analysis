@@ -21,6 +21,8 @@ status: "new"
 
 ![[diplomatisch.ogg]]
 
+![[diplomatisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/diplomatisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=diplomatisch&language=de)
 
 **Meaning:** diplomatic

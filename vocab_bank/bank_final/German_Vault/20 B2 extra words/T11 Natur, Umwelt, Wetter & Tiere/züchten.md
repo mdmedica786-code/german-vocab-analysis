@@ -21,6 +21,8 @@ status: "new"
 
 ![[züchten.ogg]]
 
+![[züchten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/z%C3%BCchten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=z%C3%BCchten&language=de)
 
 **Meaning:** to breed; to grow (plants)

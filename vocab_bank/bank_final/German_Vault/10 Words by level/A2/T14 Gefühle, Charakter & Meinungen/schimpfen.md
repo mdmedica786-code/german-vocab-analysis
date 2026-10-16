@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # schimpfen
 
+![[schimpfen.jpg]]
+
 ![[schimpfen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/schimpfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schimpfen&language=de)

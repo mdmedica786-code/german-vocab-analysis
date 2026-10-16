@@ -21,6 +21,8 @@ status: "new"
 
 ![[touristisch.ogg]]
 
+![[touristisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/touristisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=touristisch&language=de)
 
 **Meaning:** tourist (adj.)

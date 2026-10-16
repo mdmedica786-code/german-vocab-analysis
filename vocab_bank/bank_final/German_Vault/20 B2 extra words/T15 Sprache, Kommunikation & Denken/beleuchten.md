@@ -21,6 +21,8 @@ status: "new"
 
 ![[beleuchten.ogg]]
 
+![[beleuchten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/beleuchten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beleuchten&language=de)
 
 **Meaning:** to light up; to examine (a topic)

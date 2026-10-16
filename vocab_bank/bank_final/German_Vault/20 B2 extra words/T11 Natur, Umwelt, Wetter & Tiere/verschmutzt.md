@@ -20,6 +20,8 @@ status: "new"
 
 ![[verschmutzt.ogg]]
 
+![[verschmutzt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verschmutzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verschmutzt&language=de)
 
 **Meaning:** dirty; polluted

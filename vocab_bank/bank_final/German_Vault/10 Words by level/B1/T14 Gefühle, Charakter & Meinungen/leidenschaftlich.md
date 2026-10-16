@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # leidenschaftlich
 
+![[leidenschaftlich.jpg]]
+
 ![[leidenschaftlich.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/leidenschaftlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leidenschaftlich&language=de)

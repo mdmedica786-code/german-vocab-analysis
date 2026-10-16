@@ -20,6 +20,8 @@ status: "new"
 
 ![[kahl.ogg]]
 
+![[kahl.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kahl&language=de)
 
 **Meaning:** bald; bare

@@ -21,6 +21,8 @@ status: "new"
 
 ![[abbremsen.ogg]]
 
+![[abbremsen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/abbremsen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abbremsen&language=de)
 
 **Meaning:** to slow down; to brake

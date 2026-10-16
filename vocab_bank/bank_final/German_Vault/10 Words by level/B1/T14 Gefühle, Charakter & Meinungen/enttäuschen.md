@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # enttäuschen
 
+![[enttäuschen.jpg]]
+
 ![[enttäuschen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/entt%C3%A4uschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entt%C3%A4uschen&language=de)

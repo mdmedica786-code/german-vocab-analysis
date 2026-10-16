@@ -21,6 +21,8 @@ status: "new"
 
 ![[professionell.ogg]]
 
+![[professionell.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/professionell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=professionell&language=de)
 
 **Meaning:** professional

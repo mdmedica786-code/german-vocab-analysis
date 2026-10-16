@@ -23,6 +23,8 @@ status: "new"
 
 ![[Theke.ogg]]
 
+![[Theke.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Theke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Theke&language=de)
 
 **Meaning:** counter; bar

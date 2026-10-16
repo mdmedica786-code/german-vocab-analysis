@@ -20,6 +20,8 @@ status: "new"
 
 ![[neidisch.ogg]]
 
+![[neidisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/neidisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=neidisch&language=de)
 
 **Meaning:** envious; jealous

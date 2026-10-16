@@ -21,6 +21,8 @@ status: "new"
 
 ![[nächtlich.ogg]]
 
+![[nächtlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/n%C3%A4chtlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=n%C3%A4chtlich&language=de)
 
 **Meaning:** nocturnal; nightly

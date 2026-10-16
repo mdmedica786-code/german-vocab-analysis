@@ -20,6 +20,8 @@ status: "new"
 
 ![[signifikant.ogg]]
 
+![[signifikant.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/signifikant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=signifikant&language=de)
 
 **Meaning:** significant

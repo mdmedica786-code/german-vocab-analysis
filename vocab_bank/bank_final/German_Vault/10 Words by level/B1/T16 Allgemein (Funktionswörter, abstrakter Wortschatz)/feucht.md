@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # feucht
 
+![[feucht.jpg]]
+
 ![[feucht.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/feucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=feucht&language=de)

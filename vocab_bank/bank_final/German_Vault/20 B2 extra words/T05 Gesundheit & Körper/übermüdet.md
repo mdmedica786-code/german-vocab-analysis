@@ -20,6 +20,8 @@ status: "new"
 
 ![[übermüdet.ogg]]
 
+![[übermüdet.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberm%C3%BCdet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberm%C3%BCdet&language=de)
 
 **Meaning:** overtired; exhausted

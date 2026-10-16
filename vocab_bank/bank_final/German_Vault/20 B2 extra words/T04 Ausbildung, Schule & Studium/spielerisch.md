@@ -20,6 +20,8 @@ status: "new"
 
 ![[spielerisch.ogg]]
 
+![[spielerisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/spielerisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spielerisch&language=de)
 
 **Meaning:** playful; in a playful way

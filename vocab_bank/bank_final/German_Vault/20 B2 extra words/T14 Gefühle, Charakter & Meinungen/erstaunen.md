@@ -21,6 +21,8 @@ status: "new"
 
 ![[erstaunen.ogg]]
 
+![[erstaunen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/erstaunen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erstaunen&language=de)
 
 **Meaning:** to astonish; to amaze

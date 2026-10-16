@@ -22,6 +22,8 @@ status: "new"
 
 ![[recherchieren.ogg]]
 
+![[recherchieren.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/recherchieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=recherchieren&language=de)
 
 **Meaning:** to research; to look up

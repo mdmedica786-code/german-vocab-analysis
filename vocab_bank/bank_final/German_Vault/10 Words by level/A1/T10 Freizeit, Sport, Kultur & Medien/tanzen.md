@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # tanzen
 
+![[tanzen.jpg]]
+
 ![[tanzen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/tanzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tanzen&language=de)

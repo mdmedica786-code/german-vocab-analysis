@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # vierzig
 
+![[vierzig.png]]
+
 ![[vierzig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/vierzig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vierzig&language=de)

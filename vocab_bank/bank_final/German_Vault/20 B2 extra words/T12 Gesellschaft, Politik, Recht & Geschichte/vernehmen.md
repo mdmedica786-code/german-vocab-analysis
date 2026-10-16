@@ -21,6 +21,8 @@ status: "new"
 
 ![[vernehmen.ogg]]
 
+![[vernehmen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vernehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vernehmen&language=de)
 
 **Meaning:** to hear; to question (formally)

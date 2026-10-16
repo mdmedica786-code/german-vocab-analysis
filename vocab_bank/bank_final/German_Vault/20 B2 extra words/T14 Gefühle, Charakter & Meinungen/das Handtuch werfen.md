@@ -20,6 +20,8 @@ status: "new"
 
 ![[das Handtuch werfen.ogg]]
 
+![[das Handtuch werfen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/das%20Handtuch%20werfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=das%20Handtuch%20werfen&language=de)
 
 **Meaning:** to throw in the towel

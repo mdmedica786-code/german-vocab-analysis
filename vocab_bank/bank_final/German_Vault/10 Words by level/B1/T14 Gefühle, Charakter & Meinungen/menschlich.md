@@ -22,6 +22,8 @@ status: "new"
 
 ![[menschlich.ogg]]
 
+![[menschlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/menschlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=menschlich&language=de)
 
 **Meaning:** human

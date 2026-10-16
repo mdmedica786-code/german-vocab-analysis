@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # vorn
 
+![[vorn.jpg]]
+
 ![[vorn.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/vorn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorn&language=de)

@@ -20,6 +20,8 @@ status: "new"
 
 ![[schlaff.ogg]]
 
+![[schlaff.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schlaff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlaff&language=de)
 
 **Meaning:** limp; slack

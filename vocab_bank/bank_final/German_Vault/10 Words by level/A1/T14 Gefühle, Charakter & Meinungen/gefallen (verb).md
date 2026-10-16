@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # gefallen
 
+![[gefallen.jpg]]
+
 ![[gefallen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/gefallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gefallen&language=de)

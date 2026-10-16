@@ -20,6 +20,8 @@ status: "new"
 
 ![[göttlich.ogg]]
 
+![[göttlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/g%C3%B6ttlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=g%C3%B6ttlich&language=de)
 
 **Meaning:** divine; heavenly

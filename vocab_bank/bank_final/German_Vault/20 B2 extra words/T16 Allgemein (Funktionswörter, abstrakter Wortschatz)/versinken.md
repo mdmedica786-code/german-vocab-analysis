@@ -21,6 +21,8 @@ status: "new"
 
 ![[versinken.ogg]]
 
+![[versinken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/versinken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=versinken&language=de)
 
 **Meaning:** to sink; to be absorbed

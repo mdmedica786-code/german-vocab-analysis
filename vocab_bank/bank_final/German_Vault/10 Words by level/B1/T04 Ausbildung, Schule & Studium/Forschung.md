@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Forschung
 
+![[Forschung.jpg]]
+
 ![[Forschung.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Forschung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forschung&language=de)

@@ -20,6 +20,8 @@ status: "new"
 
 ![[besonnen.ogg]]
 
+![[besonnen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/besonnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besonnen&language=de)
 
 **Meaning:** level-headed; prudent

@@ -20,6 +20,8 @@ status: "new"
 
 ![[fleischlos.ogg]]
 
+![[fleischlos.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/fleischlos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fleischlos&language=de)
 
 **Meaning:** meatless; vegetarian

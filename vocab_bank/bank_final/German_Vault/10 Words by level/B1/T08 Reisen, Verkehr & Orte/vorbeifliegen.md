@@ -22,6 +22,8 @@ status: "new"
 
 ![[vorbeifliegen.ogg]]
 
+![[vorbeifliegen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vorbeifliegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorbeifliegen&language=de)
 
 **Meaning:** to fly past

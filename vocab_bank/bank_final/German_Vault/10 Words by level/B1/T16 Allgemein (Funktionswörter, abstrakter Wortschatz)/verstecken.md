@@ -22,6 +22,8 @@ status: "new"
 
 ![[verstecken.ogg]]
 
+![[verstecken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verstecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verstecken&language=de)
 
 **Meaning:** to hide

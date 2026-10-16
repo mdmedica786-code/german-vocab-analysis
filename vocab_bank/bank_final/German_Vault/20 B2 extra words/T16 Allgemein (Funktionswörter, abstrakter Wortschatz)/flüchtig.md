@@ -20,6 +20,8 @@ status: "new"
 
 ![[flüchtig.ogg]]
 
+![[flüchtig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/fl%C3%BCchtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fl%C3%BCchtig&language=de)
 
 **Meaning:** fleeting; cursory; fugitive

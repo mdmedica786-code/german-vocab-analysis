@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # gehen
 
+![[gehen.jpg]]
+
 ![[gehen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/gehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gehen&language=de)

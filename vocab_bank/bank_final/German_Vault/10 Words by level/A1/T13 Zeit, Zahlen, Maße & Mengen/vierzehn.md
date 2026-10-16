@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # vierzehn
 
+![[vierzehn.png]]
+
 ![[vierzehn.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/vierzehn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vierzehn&language=de)

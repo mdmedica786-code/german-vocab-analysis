@@ -20,6 +20,8 @@ status: "new"
 
 ![[kross.ogg]]
 
+![[kross.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kross/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kross&language=de)
 
 **Meaning:** crispy

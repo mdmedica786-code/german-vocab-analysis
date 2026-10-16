@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # zweite
 
+![[zweite.jpg]]
+
 ![[zweite.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/zweite/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zweite&language=de)

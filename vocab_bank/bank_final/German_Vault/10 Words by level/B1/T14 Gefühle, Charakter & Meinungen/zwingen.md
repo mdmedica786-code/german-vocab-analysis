@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # zwingen
 
+![[zwingen.jpg]]
+
 ![[zwingen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/zwingen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zwingen&language=de)

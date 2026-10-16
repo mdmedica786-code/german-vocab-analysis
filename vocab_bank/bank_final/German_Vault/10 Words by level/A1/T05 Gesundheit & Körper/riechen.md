@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # riechen
 
+![[riechen.jpg]]
+
 ![[riechen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/riechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=riechen&language=de)

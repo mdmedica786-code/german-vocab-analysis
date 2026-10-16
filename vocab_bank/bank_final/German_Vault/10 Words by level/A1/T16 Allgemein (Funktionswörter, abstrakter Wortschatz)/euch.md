@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # euch
 
+![[euch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/euch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=euch&language=de)
 
 **Meaning:** you

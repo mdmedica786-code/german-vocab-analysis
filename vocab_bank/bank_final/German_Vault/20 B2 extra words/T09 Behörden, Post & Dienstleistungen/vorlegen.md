@@ -21,6 +21,8 @@ status: "new"
 
 ![[vorlegen.ogg]]
 
+![[vorlegen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vorlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorlegen&language=de)
 
 **Meaning:** to present; to submit

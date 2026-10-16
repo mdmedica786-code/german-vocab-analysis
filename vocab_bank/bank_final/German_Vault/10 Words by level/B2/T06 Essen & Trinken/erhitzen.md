@@ -21,6 +21,8 @@ status: "new"
 
 ![[erhitzen.ogg]]
 
+![[erhitzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/erhitzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erhitzen&language=de)
 
 **Meaning:** to heat

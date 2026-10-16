@@ -22,6 +22,8 @@ status: "new"
 
 ![[Social Media.ogg]]
 
+![[Social Media.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Social%20Media/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Social%20Media&language=de)
 
 **Meaning:** social media

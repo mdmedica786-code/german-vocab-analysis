@@ -20,6 +20,8 @@ status: "new"
 
 ![[brennend.ogg]]
 
+![[brennend.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/brennend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=brennend&language=de)
 
 **Meaning:** burning; urgent

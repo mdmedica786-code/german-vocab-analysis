@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # peinlich
 
+![[peinlich.jpg]]
+
 ![[peinlich.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/peinlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=peinlich&language=de)

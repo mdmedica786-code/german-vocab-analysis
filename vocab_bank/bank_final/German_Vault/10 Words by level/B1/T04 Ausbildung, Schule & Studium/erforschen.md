@@ -22,6 +22,8 @@ status: "new"
 
 ![[erforschen.ogg]]
 
+![[erforschen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/erforschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erforschen&language=de)
 
 **Meaning:** to research; to explore

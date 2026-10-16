@@ -22,6 +22,8 @@ status: "new"
 
 ![[danke.ogg]]
 
+![[danke.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/danke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=danke&language=de)
 
 **Meaning:** thank you

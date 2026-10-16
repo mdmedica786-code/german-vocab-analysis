@@ -21,6 +21,8 @@ status: "new"
 
 ![[einwandern.ogg]]
 
+![[einwandern.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/einwandern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einwandern&language=de)
 
 **Meaning:** to immigrate

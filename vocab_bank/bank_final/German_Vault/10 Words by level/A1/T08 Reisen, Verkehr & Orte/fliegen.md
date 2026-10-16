@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # fliegen
 
+![[fliegen.jpg]]
+
 ![[fliegen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/fliegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fliegen&language=de)

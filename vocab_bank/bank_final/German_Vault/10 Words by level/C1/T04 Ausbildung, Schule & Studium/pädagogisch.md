@@ -20,6 +20,8 @@ status: "new"
 
 ![[pädagogisch.ogg]]
 
+![[pädagogisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/p%C3%A4dagogisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=p%C3%A4dagogisch&language=de)
 
 **Meaning:** pedagogical; educational

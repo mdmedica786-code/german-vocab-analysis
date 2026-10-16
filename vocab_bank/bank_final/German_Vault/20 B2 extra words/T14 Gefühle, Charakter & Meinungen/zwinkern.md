@@ -21,6 +21,8 @@ status: "new"
 
 ![[zwinkern.ogg]]
 
+![[zwinkern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zwinkern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zwinkern&language=de)
 
 **Meaning:** to wink

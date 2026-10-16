@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # violett
 
+![[violett.png]]
+
 ![[violett.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/violett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=violett&language=de)

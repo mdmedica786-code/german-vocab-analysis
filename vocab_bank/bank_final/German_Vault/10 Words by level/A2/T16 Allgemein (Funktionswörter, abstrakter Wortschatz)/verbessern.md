@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # verbessern
 
+![[verbessern.png]]
+
 ![[verbessern.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/verbessern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbessern&language=de)

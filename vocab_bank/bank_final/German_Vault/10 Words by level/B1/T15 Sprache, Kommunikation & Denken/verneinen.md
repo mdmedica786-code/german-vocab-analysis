@@ -22,6 +22,8 @@ status: "new"
 
 ![[verneinen.ogg]]
 
+![[verneinen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verneinen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verneinen&language=de)
 
 **Meaning:** to negate

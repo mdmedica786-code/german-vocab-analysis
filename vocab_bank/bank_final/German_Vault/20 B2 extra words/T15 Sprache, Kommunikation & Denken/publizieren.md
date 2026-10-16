@@ -21,6 +21,8 @@ status: "new"
 
 ![[publizieren.ogg]]
 
+![[publizieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/publizieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=publizieren&language=de)
 
 **Meaning:** to publish

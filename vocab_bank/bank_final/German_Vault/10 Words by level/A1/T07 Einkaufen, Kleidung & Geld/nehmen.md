@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # nehmen
 
+![[nehmen.jpg]]
+
 ![[nehmen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/nehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nehmen&language=de)

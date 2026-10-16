@@ -20,6 +20,8 @@ status: "new"
 
 ![[erwiesen.ogg]]
 
+![[erwiesen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/erwiesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erwiesen&language=de)
 
 **Meaning:** proven; established

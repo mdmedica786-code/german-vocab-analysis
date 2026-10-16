@@ -21,6 +21,8 @@ status: "new"
 
 ![[gedruckt.ogg]]
 
+![[gedruckt.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gedruckt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gedruckt&language=de)
 
 **Meaning:** printed

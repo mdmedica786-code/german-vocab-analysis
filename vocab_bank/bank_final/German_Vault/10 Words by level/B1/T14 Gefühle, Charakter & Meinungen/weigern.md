@@ -22,6 +22,8 @@ status: "new"
 
 ![[weigern.ogg]]
 
+![[weigern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/weigern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weigern&language=de)
 
 **Meaning:** to refuse

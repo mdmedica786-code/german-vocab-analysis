@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # wen
 
+![[wen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/wen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wen&language=de)
 
 **Meaning:** whom

@@ -21,6 +21,8 @@ status: "new"
 
 ![[tuscheln.ogg]]
 
+![[tuscheln.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/tuscheln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tuscheln&language=de)
 
 **Meaning:** to whisper; to mutter

@@ -21,6 +21,8 @@ status: "new"
 
 ![[gestehen.ogg]]
 
+![[gestehen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gestehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gestehen&language=de)
 
 **Meaning:** to confess; to admit

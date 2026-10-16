@@ -20,6 +20,8 @@ status: "new"
 
 ![[betrieblich.ogg]]
 
+![[betrieblich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/betrieblich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betrieblich&language=de)
 
 **Meaning:** company; operational

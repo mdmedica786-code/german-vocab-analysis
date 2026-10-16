@@ -21,6 +21,8 @@ status: "new"
 
 ![[schonen.ogg]]
 
+![[schonen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schonen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schonen&language=de)
 
 **Meaning:** to spare; to protect; (sich) to take it easy

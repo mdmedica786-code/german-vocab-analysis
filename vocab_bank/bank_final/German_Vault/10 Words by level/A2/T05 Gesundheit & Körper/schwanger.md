@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # schwanger
 
+![[schwanger.jpg]]
+
 ![[schwanger.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/schwanger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schwanger&language=de)

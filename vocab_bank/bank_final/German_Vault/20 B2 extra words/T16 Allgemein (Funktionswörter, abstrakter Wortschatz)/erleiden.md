@@ -21,6 +21,8 @@ status: "new"
 
 ![[erleiden.ogg]]
 
+![[erleiden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/erleiden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erleiden&language=de)
 
 **Meaning:** to suffer; to sustain

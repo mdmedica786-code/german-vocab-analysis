@@ -20,6 +20,8 @@ status: "new"
 
 ![[kollektiv.ogg]]
 
+![[kollektiv.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kollektiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kollektiv&language=de)
 
 **Meaning:** collective

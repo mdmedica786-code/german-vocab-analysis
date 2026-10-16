@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # hoffen
 
+![[hoffen.jpg]]
+
 ![[hoffen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/hoffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hoffen&language=de)

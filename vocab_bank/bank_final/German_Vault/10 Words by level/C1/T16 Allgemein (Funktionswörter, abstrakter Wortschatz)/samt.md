@@ -20,6 +20,8 @@ status: "new"
 
 ![[samt.ogg]]
 
+![[samt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/samt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=samt&language=de)
 
 **Meaning:** together with

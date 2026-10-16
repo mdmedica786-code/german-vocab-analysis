@@ -21,6 +21,8 @@ status: "new"
 
 ![[kitschig.ogg]]
 
+![[kitschig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kitschig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kitschig&language=de)
 
 **Meaning:** kitschy; tacky

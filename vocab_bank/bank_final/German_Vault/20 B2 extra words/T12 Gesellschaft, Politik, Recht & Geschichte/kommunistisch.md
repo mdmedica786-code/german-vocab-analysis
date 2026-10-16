@@ -20,6 +20,8 @@ status: "new"
 
 ![[kommunistisch.ogg]]
 
+![[kommunistisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kommunistisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kommunistisch&language=de)
 
 **Meaning:** communist

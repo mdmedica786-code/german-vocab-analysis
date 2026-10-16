@@ -21,6 +21,8 @@ status: "new"
 
 ![[bücken.ogg]]
 
+![[bücken.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/b%C3%BCcken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=b%C3%BCcken&language=de)
 
 **Meaning:** to bend down; to stoop

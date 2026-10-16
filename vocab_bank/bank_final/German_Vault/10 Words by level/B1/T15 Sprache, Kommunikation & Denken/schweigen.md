@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # schweigen
 
+![[schweigen.png]]
+
 ![[schweigen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/schweigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schweigen&language=de)

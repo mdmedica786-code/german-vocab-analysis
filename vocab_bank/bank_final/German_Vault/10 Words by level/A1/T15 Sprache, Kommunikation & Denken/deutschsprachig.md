@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # deutschsprachig
 
+![[deutschsprachig.png]]
+
 ![[deutschsprachig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/deutschsprachig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=deutschsprachig&language=de)

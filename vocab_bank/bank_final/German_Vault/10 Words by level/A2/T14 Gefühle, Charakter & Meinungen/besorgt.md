@@ -21,6 +21,8 @@ status: "new"
 
 ![[besorgt.ogg]]
 
+![[besorgt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/besorgt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besorgt&language=de)
 
 **Meaning:** worried

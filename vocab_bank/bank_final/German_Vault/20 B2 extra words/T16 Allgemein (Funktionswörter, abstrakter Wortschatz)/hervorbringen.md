@@ -21,6 +21,8 @@ status: "new"
 
 ![[hervorbringen.ogg]]
 
+![[hervorbringen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/hervorbringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hervorbringen&language=de)
 
 **Meaning:** to produce; to bring forth

@@ -22,6 +22,8 @@ status: "new"
 
 ![[einhalten.ogg]]
 
+![[einhalten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/einhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einhalten&language=de)
 
 **Meaning:** to keep to; to comply with

@@ -22,6 +22,8 @@ status: "new"
 
 ![[faxen.ogg]]
 
+![[faxen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/faxen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=faxen&language=de)
 
 **Meaning:** to fax

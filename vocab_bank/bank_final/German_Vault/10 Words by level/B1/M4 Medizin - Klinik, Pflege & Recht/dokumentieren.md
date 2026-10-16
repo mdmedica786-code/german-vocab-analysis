@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # dokumentieren
 
+![[dokumentieren.png]]
+
 ![[dokumentieren.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/dokumentieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dokumentieren&language=de)

@@ -20,6 +20,8 @@ status: "new"
 
 ![[rücksichtslos.ogg]]
 
+![[rücksichtslos.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/r%C3%BCcksichtslos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=r%C3%BCcksichtslos&language=de)
 
 **Meaning:** inconsiderate; ruthless

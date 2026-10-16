@@ -20,6 +20,8 @@ status: "new"
 
 ![[unterhaltsam.ogg]]
 
+![[unterhaltsam.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/unterhaltsam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterhaltsam&language=de)
 
 **Meaning:** entertaining

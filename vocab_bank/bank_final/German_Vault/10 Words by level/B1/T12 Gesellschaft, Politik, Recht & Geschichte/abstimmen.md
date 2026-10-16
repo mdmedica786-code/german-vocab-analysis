@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # abstimmen
 
+![[abstimmen.jpg]]
+
 ![[abstimmen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/abstimmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abstimmen&language=de)

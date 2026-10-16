@@ -21,6 +21,8 @@ status: "new"
 
 ![[beschleunigen.ogg]]
 
+![[beschleunigen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/beschleunigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beschleunigen&language=de)
 
 **Meaning:** to accelerate; to speed up

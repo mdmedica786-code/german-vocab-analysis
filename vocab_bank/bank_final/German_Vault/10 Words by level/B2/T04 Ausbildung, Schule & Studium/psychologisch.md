@@ -20,6 +20,8 @@ status: "new"
 
 ![[psychologisch.ogg]]
 
+![[psychologisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/psychologisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=psychologisch&language=de)
 
 **Meaning:** psychological

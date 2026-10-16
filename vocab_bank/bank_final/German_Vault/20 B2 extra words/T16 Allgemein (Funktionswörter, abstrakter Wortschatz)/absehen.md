@@ -21,6 +21,8 @@ status: "new"
 
 ![[absehen.ogg]]
 
+![[absehen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/absehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=absehen&language=de)
 
 **Meaning:** to refrain from; to foresee

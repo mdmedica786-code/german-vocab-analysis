@@ -21,6 +21,8 @@ status: "new"
 
 ![[widerstehen.ogg]]
 
+![[widerstehen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/widerstehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=widerstehen&language=de)
 
 **Meaning:** to resist; to withstand

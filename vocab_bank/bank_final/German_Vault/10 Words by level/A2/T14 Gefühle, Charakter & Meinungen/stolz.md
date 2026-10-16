@@ -22,6 +22,8 @@ status: "new"
 
 ![[stolz.ogg]]
 
+![[stolz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/stolz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stolz&language=de)
 
 **Meaning:** proud

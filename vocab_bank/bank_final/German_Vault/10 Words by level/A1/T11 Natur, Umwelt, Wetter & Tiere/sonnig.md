@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # sonnig
 
+![[sonnig.jpg]]
+
 ![[sonnig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/sonnig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sonnig&language=de)

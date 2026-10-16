@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # leiten
 
+![[leiten.jpg]]
+
 ![[leiten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/leiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leiten&language=de)

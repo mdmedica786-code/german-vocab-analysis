@@ -20,6 +20,8 @@ status: "new"
 
 ![[allergisch.ogg]]
 
+![[allergisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/allergisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=allergisch&language=de)
 
 **Meaning:** allergic

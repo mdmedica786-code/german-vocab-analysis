@@ -21,6 +21,8 @@ status: "new"
 
 ![[ertönen.ogg]]
 
+![[ertönen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ert%C3%B6nen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ert%C3%B6nen&language=de)
 
 **Meaning:** to sound; to ring out

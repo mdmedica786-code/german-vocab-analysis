@@ -23,6 +23,8 @@ status: "new"
 
 ![[staubsaugen.ogg]]
 
+![[staubsaugen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/staubsaugen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=staubsaugen&language=de)
 
 **Meaning:** to vacuum (clean)

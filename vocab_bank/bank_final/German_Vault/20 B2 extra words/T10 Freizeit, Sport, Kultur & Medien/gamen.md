@@ -21,6 +21,8 @@ status: "new"
 
 ![[gamen.ogg]]
 
+![[gamen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gamen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gamen&language=de)
 
 **Meaning:** to game; to play video games

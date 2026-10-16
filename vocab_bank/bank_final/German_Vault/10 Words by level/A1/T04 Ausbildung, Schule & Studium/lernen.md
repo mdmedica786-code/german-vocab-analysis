@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # lernen
 
+![[lernen.jpg]]
+
 ![[lernen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/lernen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lernen&language=de)

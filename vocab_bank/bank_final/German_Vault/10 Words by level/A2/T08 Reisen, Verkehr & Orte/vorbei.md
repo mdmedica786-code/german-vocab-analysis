@@ -21,6 +21,8 @@ status: "new"
 
 ![[vorbei.ogg]]
 
+![[vorbei.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vorbei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorbei&language=de)
 
 **Meaning:** past; over

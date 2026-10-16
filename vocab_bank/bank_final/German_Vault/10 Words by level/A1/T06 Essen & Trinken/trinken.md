@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # trinken
 
+![[trinken.jpg]]
+
 ![[trinken.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/trinken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=trinken&language=de)

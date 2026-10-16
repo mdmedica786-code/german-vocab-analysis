@@ -23,6 +23,8 @@ status: "new"
 
 ![[buchstabieren.ogg]]
 
+![[buchstabieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/buchstabieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=buchstabieren&language=de)
 
 **Meaning:** to spell

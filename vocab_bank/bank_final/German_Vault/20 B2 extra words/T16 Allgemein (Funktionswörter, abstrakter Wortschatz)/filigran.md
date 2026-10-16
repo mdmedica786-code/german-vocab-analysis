@@ -20,6 +20,8 @@ status: "new"
 
 ![[filigran.ogg]]
 
+![[filigran.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/filigran/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=filigran&language=de)
 
 **Meaning:** delicate; filigree

@@ -21,6 +21,8 @@ status: "new"
 
 ![[motivieren.ogg]]
 
+![[motivieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/motivieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=motivieren&language=de)
 
 **Meaning:** to motivate

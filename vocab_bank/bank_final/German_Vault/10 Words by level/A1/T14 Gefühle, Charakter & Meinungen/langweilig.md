@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # langweilig
 
+![[langweilig.jpg]]
+
 ![[langweilig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/langweilig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=langweilig&language=de)

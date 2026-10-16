@@ -22,6 +22,8 @@ status: "new"
 
 ![[kommunizieren.ogg]]
 
+![[kommunizieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kommunizieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kommunizieren&language=de)
 
 **Meaning:** to communicate

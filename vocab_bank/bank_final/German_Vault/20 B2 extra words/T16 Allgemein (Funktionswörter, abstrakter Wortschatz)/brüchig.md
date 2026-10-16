@@ -20,6 +20,8 @@ status: "new"
 
 ![[brüchig.ogg]]
 
+![[brüchig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/br%C3%BCchig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=br%C3%BCchig&language=de)
 
 **Meaning:** brittle; crumbling

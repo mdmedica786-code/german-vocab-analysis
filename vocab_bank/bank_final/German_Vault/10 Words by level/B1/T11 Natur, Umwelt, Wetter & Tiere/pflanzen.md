@@ -23,6 +23,8 @@ status: "new"
 
 ![[pflanzen.ogg]]
 
+![[pflanzen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/pflanzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pflanzen&language=de)
 
 **Meaning:** to plant

@@ -21,6 +21,8 @@ status: "new"
 
 ![[ausgebildet.ogg]]
 
+![[ausgebildet.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ausgebildet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausgebildet&language=de)
 
 **Meaning:** trained; qualified

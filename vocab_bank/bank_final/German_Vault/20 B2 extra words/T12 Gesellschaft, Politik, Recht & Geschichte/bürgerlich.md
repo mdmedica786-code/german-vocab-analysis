@@ -20,6 +20,8 @@ status: "new"
 
 ![[bürgerlich.ogg]]
 
+![[bürgerlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/b%C3%BCrgerlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=b%C3%BCrgerlich&language=de)
 
 **Meaning:** civil; middle-class

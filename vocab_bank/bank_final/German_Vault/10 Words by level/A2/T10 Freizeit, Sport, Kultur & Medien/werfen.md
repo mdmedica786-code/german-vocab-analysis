@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # werfen
 
+![[werfen.png]]
+
 ![[werfen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/werfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=werfen&language=de)

@@ -22,6 +22,8 @@ status: "new"
 
 ![[anzeigen.ogg]]
 
+![[anzeigen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/anzeigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anzeigen&language=de)
 
 **Meaning:** to report (to the police); to display

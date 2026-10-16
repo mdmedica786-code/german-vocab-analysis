@@ -22,6 +22,8 @@ status: "new"
 
 ![[elegant.ogg]]
 
+![[elegant.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/elegant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=elegant&language=de)
 
 **Meaning:** elegant

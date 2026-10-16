@@ -20,6 +20,8 @@ status: "new"
 
 ![[satirisch.ogg]]
 
+![[satirisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/satirisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=satirisch&language=de)
 
 **Meaning:** satirical

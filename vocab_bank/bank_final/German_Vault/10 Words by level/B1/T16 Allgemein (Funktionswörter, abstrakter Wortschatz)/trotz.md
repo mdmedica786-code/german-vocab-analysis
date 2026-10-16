@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # trotz
 
+![[trotz.jpg]]
+
 ![[trotz.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/trotz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=trotz&language=de)

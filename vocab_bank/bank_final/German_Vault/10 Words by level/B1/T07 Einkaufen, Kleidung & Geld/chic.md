@@ -21,6 +21,8 @@ status: "new"
 
 ![[chic.ogg]]
 
+![[chic.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/chic/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=chic&language=de)
 
 **Meaning:** stylish

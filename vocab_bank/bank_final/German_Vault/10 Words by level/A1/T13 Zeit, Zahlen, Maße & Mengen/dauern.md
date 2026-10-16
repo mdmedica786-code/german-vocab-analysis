@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # dauern
 
+![[dauern.jpg]]
+
 ![[dauern.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/dauern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dauern&language=de)

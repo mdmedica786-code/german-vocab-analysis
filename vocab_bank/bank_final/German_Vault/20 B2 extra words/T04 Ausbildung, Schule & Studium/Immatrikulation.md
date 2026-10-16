@@ -23,6 +23,8 @@ status: "new"
 
 ![[Immatrikulation.ogg]]
 
+![[Immatrikulation.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Immatrikulation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Immatrikulation&language=de)
 
 **Meaning:** university enrolment

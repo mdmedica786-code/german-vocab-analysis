@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # breit
 
+![[breit.png]]
+
 ![[breit.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/breit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=breit&language=de)

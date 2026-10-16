@@ -21,6 +21,8 @@ status: "new"
 
 ![[würzig.ogg]]
 
+![[würzig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/w%C3%BCrzig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=w%C3%BCrzig&language=de)
 
 **Meaning:** spicy; aromatic

@@ -23,6 +23,8 @@ status: "new"
 
 ![[nachdenken.ogg]]
 
+![[nachdenken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/nachdenken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachdenken&language=de)
 
 **Meaning:** to think (about)

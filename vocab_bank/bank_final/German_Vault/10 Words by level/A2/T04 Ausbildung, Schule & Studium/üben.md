@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # üben
 
+![[üben.jpg]]
+
 ![[üben.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%BCben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCben&language=de)

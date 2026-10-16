@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # passieren
 
+![[passieren.jpg]]
+
 ![[passieren.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/passieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=passieren&language=de)

@@ -21,6 +21,8 @@ status: "new"
 
 ![[implantieren.ogg]]
 
+![[implantieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/implantieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=implantieren&language=de)
 
 **Meaning:** to implant

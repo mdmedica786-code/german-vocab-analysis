@@ -21,6 +21,8 @@ status: "new"
 
 ![[umgestalten.ogg]]
 
+![[umgestalten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/umgestalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umgestalten&language=de)
 
 **Meaning:** to redesign; to reorganise

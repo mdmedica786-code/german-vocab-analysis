@@ -23,6 +23,8 @@ status: "new"
 
 ![[feststellen.ogg]]
 
+![[feststellen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/feststellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=feststellen&language=de)
 
 **Meaning:** to notice; to establish; to realise

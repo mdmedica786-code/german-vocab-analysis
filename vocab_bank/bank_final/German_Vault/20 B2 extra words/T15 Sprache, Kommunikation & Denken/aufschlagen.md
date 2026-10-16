@@ -21,6 +21,8 @@ status: "new"
 
 ![[aufschlagen.ogg]]
 
+![[aufschlagen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/aufschlagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufschlagen&language=de)
 
 **Meaning:** to open (a book); to hit; to increase (prices)

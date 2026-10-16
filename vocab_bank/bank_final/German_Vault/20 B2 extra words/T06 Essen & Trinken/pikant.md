@@ -20,6 +20,8 @@ status: "new"
 
 ![[pikant.ogg]]
 
+![[pikant.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/pikant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pikant&language=de)
 
 **Meaning:** spicy; piquant

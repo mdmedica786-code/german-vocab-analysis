@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Auflauf
 
+![[Auflauf.jpg]]
+
 ![[Auflauf.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Auflauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auflauf&language=de)

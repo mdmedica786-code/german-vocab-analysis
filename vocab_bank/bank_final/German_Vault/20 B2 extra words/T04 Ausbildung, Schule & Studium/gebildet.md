@@ -20,6 +20,8 @@ status: "new"
 
 ![[gebildet.ogg]]
 
+![[gebildet.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gebildet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gebildet&language=de)
 
 **Meaning:** educated; cultured

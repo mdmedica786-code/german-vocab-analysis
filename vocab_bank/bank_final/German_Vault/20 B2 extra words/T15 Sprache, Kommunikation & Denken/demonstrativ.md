@@ -20,6 +20,8 @@ status: "new"
 
 ![[demonstrativ.ogg]]
 
+![[demonstrativ.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/demonstrativ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=demonstrativ&language=de)
 
 **Meaning:** demonstrative; pointed; ostentatious

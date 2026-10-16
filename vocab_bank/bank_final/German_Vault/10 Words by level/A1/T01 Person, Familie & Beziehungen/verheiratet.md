@@ -22,6 +22,8 @@ status: "new"
 
 ![[verheiratet.ogg]]
 
+![[verheiratet.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verheiratet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verheiratet&language=de)
 
 **Meaning:** married

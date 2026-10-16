@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # reiben
 
+![[reiben.jpg]]
+
 ![[reiben.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/reiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reiben&language=de)

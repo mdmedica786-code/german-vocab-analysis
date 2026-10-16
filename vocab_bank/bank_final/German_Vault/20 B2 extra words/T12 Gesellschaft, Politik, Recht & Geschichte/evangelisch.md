@@ -20,6 +20,8 @@ status: "new"
 
 ![[evangelisch.ogg]]
 
+![[evangelisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/evangelisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=evangelisch&language=de)
 
 **Meaning:** Protestant; Lutheran

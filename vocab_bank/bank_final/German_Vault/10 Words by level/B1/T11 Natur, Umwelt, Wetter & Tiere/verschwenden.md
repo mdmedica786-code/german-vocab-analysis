@@ -22,6 +22,8 @@ status: "new"
 
 ![[verschwenden.ogg]]
 
+![[verschwenden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verschwenden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verschwenden&language=de)
 
 **Meaning:** to waste

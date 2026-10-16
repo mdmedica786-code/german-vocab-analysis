@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # demonstrieren
 
+![[demonstrieren.jpg]]
+
 ![[demonstrieren.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/demonstrieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=demonstrieren&language=de)

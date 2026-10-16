@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # entscheiden
 
+![[entscheiden.jpg]]
+
 ![[entscheiden.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/entscheiden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entscheiden&language=de)

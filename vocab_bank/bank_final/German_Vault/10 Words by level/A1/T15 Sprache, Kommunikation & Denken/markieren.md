@@ -23,6 +23,8 @@ status: "new"
 
 ![[markieren.ogg]]
 
+![[markieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/markieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=markieren&language=de)
 
 **Meaning:** to highlight

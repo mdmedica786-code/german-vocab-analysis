@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Allgemeinbildende Höhere Schule
 
+![[Allgemeinbildende Höhere Schule.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Allgemeinbildende%20H%C3%B6here%20Schule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Allgemeinbildende%20H%C3%B6here%20Schule&language=de)
 
 **Meaning:** Austrian academic secondary school (AHS)

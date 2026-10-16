@@ -21,6 +21,8 @@ status: "new"
 
 ![[modisch.ogg]]
 
+![[modisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/modisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=modisch&language=de)
 
 **Meaning:** fashionable

@@ -20,6 +20,8 @@ status: "new"
 
 ![[pink.ogg]]
 
+![[pink.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/pink/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pink&language=de)
 
 **Meaning:** pink

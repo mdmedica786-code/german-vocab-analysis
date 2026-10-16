@@ -21,6 +21,8 @@ status: "new"
 
 ![[aussetzen.ogg]]
 
+![[aussetzen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/aussetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aussetzen&language=de)
 
 **Meaning:** to suspend; to expose; to stop

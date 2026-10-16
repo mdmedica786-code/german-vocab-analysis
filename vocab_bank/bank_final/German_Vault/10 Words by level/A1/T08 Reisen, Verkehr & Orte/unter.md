@@ -22,6 +22,8 @@ status: "new"
 
 ![[unter.ogg]]
 
+![[unter.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/unter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unter&language=de)
 
 **Meaning:** under

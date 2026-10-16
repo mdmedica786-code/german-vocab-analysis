@@ -21,6 +21,8 @@ status: "new"
 
 ![[wirtschaftlich.ogg]]
 
+![[wirtschaftlich.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/wirtschaftlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wirtschaftlich&language=de)
 
 **Meaning:** economic

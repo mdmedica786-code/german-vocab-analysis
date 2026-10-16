@@ -20,6 +20,8 @@ status: "new"
 
 ![[gewünscht.ogg]]
 
+![[gewünscht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gew%C3%BCnscht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gew%C3%BCnscht&language=de)
 
 **Meaning:** desired; requested

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # enttäuscht
 
+![[enttäuscht.jpg]]
+
 ![[enttäuscht.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/entt%C3%A4uscht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entt%C3%A4uscht&language=de)

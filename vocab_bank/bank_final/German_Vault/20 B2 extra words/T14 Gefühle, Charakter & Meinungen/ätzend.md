@@ -20,6 +20,8 @@ status: "new"
 
 ![[ätzend.ogg]]
 
+![[ätzend.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%A4tzend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%A4tzend&language=de)
 
 **Meaning:** caustic; awful (colloquial)

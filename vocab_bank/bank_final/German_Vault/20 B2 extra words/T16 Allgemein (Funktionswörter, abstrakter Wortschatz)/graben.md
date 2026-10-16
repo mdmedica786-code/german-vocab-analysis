@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # graben
 
+![[graben.jpg]]
+
 ![[graben.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/graben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=graben&language=de)

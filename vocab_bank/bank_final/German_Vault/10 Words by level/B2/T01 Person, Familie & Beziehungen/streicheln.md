@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # streicheln
 
+![[streicheln.jpg]]
+
 ![[streicheln.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/streicheln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=streicheln&language=de)

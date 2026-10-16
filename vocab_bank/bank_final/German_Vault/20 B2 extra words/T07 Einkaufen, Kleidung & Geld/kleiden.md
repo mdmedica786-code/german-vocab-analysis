@@ -21,6 +21,8 @@ status: "new"
 
 ![[kleiden.ogg]]
 
+![[kleiden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kleiden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kleiden&language=de)
 
 **Meaning:** to dress; to clothe

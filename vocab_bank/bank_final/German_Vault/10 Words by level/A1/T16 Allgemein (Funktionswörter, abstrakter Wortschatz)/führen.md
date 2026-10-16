@@ -23,6 +23,8 @@ status: "new"
 
 ![[führen.ogg]]
 
+![[führen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/f%C3%BChren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=f%C3%BChren&language=de)
 
 **Meaning:** to lead; to conduct; to run

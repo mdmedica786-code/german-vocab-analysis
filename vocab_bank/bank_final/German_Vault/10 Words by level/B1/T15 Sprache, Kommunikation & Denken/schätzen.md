@@ -23,6 +23,8 @@ status: "new"
 
 ![[schätzen.ogg]]
 
+![[schätzen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/sch%C3%A4tzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sch%C3%A4tzen&language=de)
 
 **Meaning:** to guess

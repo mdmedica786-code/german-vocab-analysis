@@ -21,6 +21,8 @@ status: "new"
 
 ![[drin.ogg]]
 
+![[drin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/drin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=drin&language=de)
 
 **Meaning:** inside; in it

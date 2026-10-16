@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Abstand nehmen
 
+![[Abstand nehmen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abstand%20nehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abstand%20nehmen&language=de)
 
 **Meaning:** to refrain; to distance oneself

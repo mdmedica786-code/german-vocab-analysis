@@ -21,6 +21,8 @@ status: "new"
 
 ![[hüten.ogg]]
 
+![[hüten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/h%C3%BCten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=h%C3%BCten&language=de)
 
 **Meaning:** to guard; to look after; to tend

@@ -20,6 +20,8 @@ status: "new"
 
 ![[phantasievoll.ogg]]
 
+![[phantasievoll.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/phantasievoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=phantasievoll&language=de)
 
 **Meaning:** imaginative; full of imagination

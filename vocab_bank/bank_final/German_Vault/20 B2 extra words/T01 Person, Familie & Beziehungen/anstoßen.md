@@ -21,6 +21,8 @@ status: "new"
 
 ![[anstoßen.ogg]]
 
+![[anstoßen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ansto%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ansto%C3%9Fen&language=de)
 
 **Meaning:** to clink glasses; to bump; to initiate

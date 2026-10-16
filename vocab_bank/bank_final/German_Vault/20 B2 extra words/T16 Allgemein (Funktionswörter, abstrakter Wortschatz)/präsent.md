@@ -20,6 +20,8 @@ status: "new"
 
 ![[präsent.ogg]]
 
+![[präsent.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/pr%C3%A4sent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pr%C3%A4sent&language=de)
 
 **Meaning:** present; at hand; in mind

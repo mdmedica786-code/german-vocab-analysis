@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # erwerben
 
+![[erwerben.jpg]]
+
 ![[erwerben.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/erwerben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erwerben&language=de)

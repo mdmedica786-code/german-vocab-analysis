@@ -21,6 +21,8 @@ status: "new"
 
 ![[kooperieren.ogg]]
 
+![[kooperieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kooperieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kooperieren&language=de)
 
 **Meaning:** to cooperate

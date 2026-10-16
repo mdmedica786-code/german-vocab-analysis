@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Bitte
 
+![[bitte.jpg]]
+
 ![[bitte.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Bitte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bitte&language=de)

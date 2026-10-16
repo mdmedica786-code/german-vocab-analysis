@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # elf
 
+![[elf.png]]
+
 ![[elf.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/elf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=elf&language=de)

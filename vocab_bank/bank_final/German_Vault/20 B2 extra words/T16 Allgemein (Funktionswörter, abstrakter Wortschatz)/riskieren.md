@@ -21,6 +21,8 @@ status: "new"
 
 ![[riskieren.ogg]]
 
+![[riskieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/riskieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=riskieren&language=de)
 
 **Meaning:** to risk

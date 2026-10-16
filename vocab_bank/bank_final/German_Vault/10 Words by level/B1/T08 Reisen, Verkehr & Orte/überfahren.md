@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # überfahren
 
+![[überfahren.jpg]]
+
 ![[überfahren.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberfahren&language=de)

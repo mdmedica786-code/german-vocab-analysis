@@ -22,6 +22,8 @@ status: "new"
 
 ![[servieren.ogg]]
 
+![[servieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/servieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=servieren&language=de)
 
 **Meaning:** to serve

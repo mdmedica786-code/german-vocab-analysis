@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # zählen
 
+![[zählen.jpg]]
+
 ![[zählen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/z%C3%A4hlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=z%C3%A4hlen&language=de)

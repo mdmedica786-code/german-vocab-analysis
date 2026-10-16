@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # klettern
 
+![[klettern.jpg]]
+
 ![[klettern.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/klettern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=klettern&language=de)

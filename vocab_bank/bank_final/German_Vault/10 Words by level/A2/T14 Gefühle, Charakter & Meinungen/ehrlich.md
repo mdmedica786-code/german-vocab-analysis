@@ -22,6 +22,8 @@ status: "new"
 
 ![[ehrlich.ogg]]
 
+![[ehrlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ehrlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ehrlich&language=de)
 
 **Meaning:** honest; honestly

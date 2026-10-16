@@ -20,6 +20,8 @@ status: "new"
 
 ![[schüchtern.ogg]]
 
+![[schüchtern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/sch%C3%BCchtern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sch%C3%BCchtern&language=de)
 
 **Meaning:** shy

@@ -23,6 +23,8 @@ status: "new"
 
 ![[Maximum.ogg]]
 
+![[Maximum.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Maximum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Maximum&language=de)
 
 **Meaning:** maximum; highest level

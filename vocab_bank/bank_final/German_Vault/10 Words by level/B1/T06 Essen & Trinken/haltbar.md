@@ -22,6 +22,8 @@ status: "new"
 
 ![[haltbar.ogg]]
 
+![[haltbar.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/haltbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=haltbar&language=de)
 
 **Meaning:** durable; long-lasting

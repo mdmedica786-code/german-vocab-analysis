@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # fressen
 
+![[fressen.jpg]]
+
 ![[fressen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/fressen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fressen&language=de)

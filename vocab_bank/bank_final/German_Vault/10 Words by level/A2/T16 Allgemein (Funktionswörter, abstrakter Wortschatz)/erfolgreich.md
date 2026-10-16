@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # erfolgreich
 
+![[erfolgreich.jpg]]
+
 ![[erfolgreich.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/erfolgreich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erfolgreich&language=de)

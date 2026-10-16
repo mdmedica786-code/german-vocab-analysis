@@ -23,6 +23,8 @@ status: "new"
 
 ![[herstellen.ogg]]
 
+![[herstellen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/herstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herstellen&language=de)
 
 **Meaning:** to produce; to establish

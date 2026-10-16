@@ -22,6 +22,8 @@ status: "new"
 
 ![[auslösen.ogg]]
 
+![[auslösen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ausl%C3%B6sen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausl%C3%B6sen&language=de)
 
 **Meaning:** to trigger; to cause

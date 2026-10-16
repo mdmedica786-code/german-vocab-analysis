@@ -21,6 +21,8 @@ status: "new"
 
 ![[offline.ogg]]
 
+![[offline.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/offline/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=offline&language=de)
 
 **Meaning:** offline

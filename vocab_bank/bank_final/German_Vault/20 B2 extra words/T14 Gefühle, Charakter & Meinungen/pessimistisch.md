@@ -20,6 +20,8 @@ status: "new"
 
 ![[pessimistisch.ogg]]
 
+![[pessimistisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/pessimistisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pessimistisch&language=de)
 
 **Meaning:** pessimistic

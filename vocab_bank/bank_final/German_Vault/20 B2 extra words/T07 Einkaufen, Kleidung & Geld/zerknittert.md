@@ -20,6 +20,8 @@ status: "new"
 
 ![[zerknittert.ogg]]
 
+![[zerknittert.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zerknittert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zerknittert&language=de)
 
 **Meaning:** crumpled; creased

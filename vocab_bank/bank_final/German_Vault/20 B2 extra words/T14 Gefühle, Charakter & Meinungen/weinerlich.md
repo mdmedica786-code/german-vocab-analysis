@@ -20,6 +20,8 @@ status: "new"
 
 ![[weinerlich.ogg]]
 
+![[weinerlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/weinerlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weinerlich&language=de)
 
 **Meaning:** tearful; whiny

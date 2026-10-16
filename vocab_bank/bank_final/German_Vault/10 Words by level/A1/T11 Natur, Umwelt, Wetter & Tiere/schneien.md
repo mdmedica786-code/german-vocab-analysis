@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # schneien
 
+![[schneien.jpg]]
+
 ![[schneien.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/schneien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schneien&language=de)

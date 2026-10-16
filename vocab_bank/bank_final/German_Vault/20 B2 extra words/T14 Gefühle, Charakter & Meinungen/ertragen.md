@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # ertragen
 
+![[ertragen.jpg]]
+
 ![[ertragen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/ertragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ertragen&language=de)

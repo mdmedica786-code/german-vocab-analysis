@@ -21,6 +21,8 @@ status: "new"
 
 ![[ringen.ogg]]
 
+![[ringen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ringen&language=de)
 
 **Meaning:** to wrestle; to struggle

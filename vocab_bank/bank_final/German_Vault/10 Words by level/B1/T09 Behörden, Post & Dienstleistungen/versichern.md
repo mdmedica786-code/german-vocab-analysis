@@ -22,6 +22,8 @@ status: "new"
 
 ![[versichern.ogg]]
 
+![[versichern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/versichern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=versichern&language=de)
 
 **Meaning:** to insure; to assure

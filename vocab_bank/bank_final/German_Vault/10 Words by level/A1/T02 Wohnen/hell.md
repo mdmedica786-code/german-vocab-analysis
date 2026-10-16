@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # hell
 
+![[hell.jpg]]
+
 ![[hell.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/hell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hell&language=de)

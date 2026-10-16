@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # aufgeben
 
+![[aufgeben.jpg]]
+
 ![[aufgeben.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/aufgeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufgeben&language=de)

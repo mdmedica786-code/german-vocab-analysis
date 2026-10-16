@@ -20,6 +20,8 @@ status: "new"
 
 ![[abseits.ogg]]
 
+![[abseits.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/abseits/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abseits&language=de)
 
 **Meaning:** away from; off to the side

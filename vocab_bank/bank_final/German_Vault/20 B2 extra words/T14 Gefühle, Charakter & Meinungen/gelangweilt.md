@@ -20,6 +20,8 @@ status: "new"
 
 ![[gelangweilt.ogg]]
 
+![[gelangweilt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gelangweilt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gelangweilt&language=de)
 
 **Meaning:** bored

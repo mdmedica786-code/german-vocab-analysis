@@ -23,6 +23,8 @@ status: "new"
 
 ![[hageln.ogg]]
 
+![[hageln.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/hageln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hageln&language=de)
 
 **Meaning:** to hail

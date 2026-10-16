@@ -22,6 +22,8 @@ status: "new"
 
 ![[stürmen.ogg]]
 
+![[stürmen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/st%C3%BCrmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=st%C3%BCrmen&language=de)
 
 **Meaning:** to storm (weather); to rush

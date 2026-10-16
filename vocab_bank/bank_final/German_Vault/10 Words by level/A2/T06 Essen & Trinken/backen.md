@@ -23,6 +23,8 @@ status: "new"
 
 ![[backen.ogg]]
 
+![[backen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/backen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=backen&language=de)
 
 **Meaning:** to bake

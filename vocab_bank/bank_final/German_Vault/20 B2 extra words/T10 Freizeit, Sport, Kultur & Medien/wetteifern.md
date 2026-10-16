@@ -21,6 +21,8 @@ status: "new"
 
 ![[wetteifern.ogg]]
 
+![[wetteifern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/wetteifern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wetteifern&language=de)
 
 **Meaning:** to compete; to vie

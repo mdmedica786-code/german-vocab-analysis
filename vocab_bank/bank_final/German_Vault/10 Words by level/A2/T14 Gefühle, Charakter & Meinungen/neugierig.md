@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # neugierig
 
+![[neugierig.jpg]]
+
 ![[neugierig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/neugierig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=neugierig&language=de)

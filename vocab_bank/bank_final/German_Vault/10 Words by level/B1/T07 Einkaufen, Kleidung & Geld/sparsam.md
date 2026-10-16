@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # sparsam
 
+![[sparsam.jpg]]
+
 ![[sparsam.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/sparsam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sparsam&language=de)

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # trösten
 
+![[trösten.jpg]]
+
 ![[trösten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/tr%C3%B6sten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tr%C3%B6sten&language=de)

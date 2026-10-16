@@ -20,6 +20,8 @@ status: "new"
 
 ![[kontrovers.ogg]]
 
+![[kontrovers.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kontrovers/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kontrovers&language=de)
 
 **Meaning:** controversial; contentious

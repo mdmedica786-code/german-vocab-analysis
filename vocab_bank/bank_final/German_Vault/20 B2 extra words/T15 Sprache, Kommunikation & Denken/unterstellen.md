@@ -21,6 +21,8 @@ status: "new"
 
 ![[unterstellen.ogg]]
 
+![[unterstellen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/unterstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterstellen&language=de)
 
 **Meaning:** to insinuate; to assume

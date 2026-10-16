@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # verschieben
 
+![[verschieben.png]]
+
 ![[verschieben.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/verschieben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verschieben&language=de)

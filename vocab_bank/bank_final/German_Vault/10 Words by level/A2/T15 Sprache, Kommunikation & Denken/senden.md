@@ -23,6 +23,8 @@ status: "new"
 
 ![[senden.ogg]]
 
+![[senden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/senden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=senden&language=de)
 
 **Meaning:** to send

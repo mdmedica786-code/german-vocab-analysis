@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # sechzig
 
+![[sechzig.png]]
+
 ![[sechzig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/sechzig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sechzig&language=de)

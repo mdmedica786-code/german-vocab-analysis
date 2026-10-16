@@ -23,6 +23,8 @@ status: "new"
 
 ![[anstrengen.ogg]]
 
+![[anstrengen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/anstrengen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anstrengen&language=de)
 
 **Meaning:** to tire; to make an effort

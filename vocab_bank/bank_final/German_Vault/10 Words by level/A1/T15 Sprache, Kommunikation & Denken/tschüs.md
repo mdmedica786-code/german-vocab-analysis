@@ -22,6 +22,8 @@ status: "new"
 
 ![[tschüs.ogg]]
 
+![[tschüs.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/tsch%C3%BCs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tsch%C3%BCs&language=de)
 
 **Meaning:** bye

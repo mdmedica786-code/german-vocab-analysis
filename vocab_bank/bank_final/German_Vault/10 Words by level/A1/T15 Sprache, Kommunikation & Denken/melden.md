@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # melden
 
+![[melden.jpg]]
+
 ![[melden.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/melden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=melden&language=de)

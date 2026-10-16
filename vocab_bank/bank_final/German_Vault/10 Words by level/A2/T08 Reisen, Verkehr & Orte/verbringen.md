@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # verbringen
 
+![[verbringen.jpg]]
+
 ![[verbringen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/verbringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbringen&language=de)

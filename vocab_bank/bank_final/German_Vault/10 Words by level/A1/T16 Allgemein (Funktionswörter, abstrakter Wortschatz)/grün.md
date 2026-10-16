@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # grün
 
+![[grün.jpg]]
+
 ![[grün.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/gr%C3%BCn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gr%C3%BCn&language=de)

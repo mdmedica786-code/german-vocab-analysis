@@ -21,6 +21,8 @@ status: "new"
 
 ![[argentinisch.ogg]]
 
+![[argentinisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/argentinisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=argentinisch&language=de)
 
 **Meaning:** Argentinian

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # wohnen
 
+![[wohnen.jpg]]
+
 ![[wohnen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/wohnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wohnen&language=de)

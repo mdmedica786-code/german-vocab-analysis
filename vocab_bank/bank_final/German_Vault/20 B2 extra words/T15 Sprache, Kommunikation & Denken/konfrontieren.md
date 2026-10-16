@@ -21,6 +21,8 @@ status: "new"
 
 ![[konfrontieren.ogg]]
 
+![[konfrontieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/konfrontieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konfrontieren&language=de)
 
 **Meaning:** to confront

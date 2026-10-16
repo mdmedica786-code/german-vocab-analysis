@@ -21,6 +21,8 @@ status: "new"
 
 ![[flüchten.ogg]]
 
+![[flüchten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/fl%C3%BCchten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fl%C3%BCchten&language=de)
 
 **Meaning:** to flee; to escape

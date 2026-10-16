@@ -23,6 +23,8 @@ status: "new"
 
 ![[fotografieren.ogg]]
 
+![[fotografieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/fotografieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fotografieren&language=de)
 
 **Meaning:** to photograph

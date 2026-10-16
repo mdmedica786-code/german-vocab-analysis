@@ -21,6 +21,8 @@ status: "new"
 
 ![[unbequem.ogg]]
 
+![[unbequem.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/unbequem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unbequem&language=de)
 
 **Meaning:** uncomfortable

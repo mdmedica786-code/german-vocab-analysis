@@ -20,6 +20,8 @@ status: "new"
 
 ![[zartbitter.ogg]]
 
+![[zartbitter.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zartbitter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zartbitter&language=de)
 
 **Meaning:** dark (chocolate); bittersweet

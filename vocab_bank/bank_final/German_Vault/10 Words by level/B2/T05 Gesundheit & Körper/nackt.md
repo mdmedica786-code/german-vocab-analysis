@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # nackt
 
+![[nackt.jpg]]
+
 ![[nackt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/nackt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nackt&language=de)

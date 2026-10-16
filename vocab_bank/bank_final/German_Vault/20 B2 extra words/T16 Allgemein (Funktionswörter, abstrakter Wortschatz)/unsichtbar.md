@@ -20,6 +20,8 @@ status: "new"
 
 ![[unsichtbar.ogg]]
 
+![[unsichtbar.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/unsichtbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unsichtbar&language=de)
 
 **Meaning:** invisible

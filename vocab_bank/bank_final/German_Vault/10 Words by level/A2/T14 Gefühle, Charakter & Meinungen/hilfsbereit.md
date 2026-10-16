@@ -21,6 +21,8 @@ status: "new"
 
 ![[hilfsbereit.ogg]]
 
+![[hilfsbereit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/hilfsbereit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hilfsbereit&language=de)
 
 **Meaning:** helpful

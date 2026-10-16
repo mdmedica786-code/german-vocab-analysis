@@ -21,6 +21,8 @@ status: "new"
 
 ![[gesellschaftlich.ogg]]
 
+![[gesellschaftlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gesellschaftlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gesellschaftlich&language=de)
 
 **Meaning:** social

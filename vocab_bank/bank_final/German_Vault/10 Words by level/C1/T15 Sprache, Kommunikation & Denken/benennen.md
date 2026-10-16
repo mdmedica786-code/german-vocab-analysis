@@ -21,6 +21,8 @@ status: "new"
 
 ![[benennen.ogg]]
 
+![[benennen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/benennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=benennen&language=de)
 
 **Meaning:** to name; to designate

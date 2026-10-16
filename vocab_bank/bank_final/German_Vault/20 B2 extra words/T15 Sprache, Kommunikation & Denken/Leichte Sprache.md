@@ -20,6 +20,8 @@ status: "new"
 
 ![[Leichte Sprache.ogg]]
 
+![[Leichte Sprache.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Leichte%20Sprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leichte%20Sprache&language=de)
 
 **Meaning:** plain language (simplified German for easy reading)

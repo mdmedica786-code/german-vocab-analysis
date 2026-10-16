@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # okay
 
+![[okay.jpg]]
+
 ![[okay.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/okay/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=okay&language=de)

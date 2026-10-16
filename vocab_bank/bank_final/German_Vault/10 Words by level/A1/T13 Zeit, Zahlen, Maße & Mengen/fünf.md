@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # fünf
 
+![[fünf.png]]
+
 ![[fünf.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/f%C3%BCnf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=f%C3%BCnf&language=de)

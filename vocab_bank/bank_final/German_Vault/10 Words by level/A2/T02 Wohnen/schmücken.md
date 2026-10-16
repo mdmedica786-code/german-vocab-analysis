@@ -22,6 +22,8 @@ status: "new"
 
 ![[schmücken.ogg]]
 
+![[schmücken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schm%C3%BCcken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schm%C3%BCcken&language=de)
 
 **Meaning:** to decorate

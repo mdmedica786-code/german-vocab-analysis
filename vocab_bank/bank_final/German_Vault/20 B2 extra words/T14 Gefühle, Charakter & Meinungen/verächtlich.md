@@ -20,6 +20,8 @@ status: "new"
 
 ![[verächtlich.ogg]]
 
+![[verächtlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ver%C3%A4chtlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ver%C3%A4chtlich&language=de)
 
 **Meaning:** contemptuous; scornful

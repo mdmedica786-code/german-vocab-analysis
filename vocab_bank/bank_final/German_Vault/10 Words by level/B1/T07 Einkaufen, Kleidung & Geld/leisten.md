@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # leisten
 
+![[leisten.jpg]]
+
 ![[leisten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/leisten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leisten&language=de)

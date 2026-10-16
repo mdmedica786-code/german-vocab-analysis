@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # unausgeschlafen
 
+![[unausgeschlafen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/unausgeschlafen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unausgeschlafen&language=de)
 
 **Meaning:** sleep-deprived; not well rested

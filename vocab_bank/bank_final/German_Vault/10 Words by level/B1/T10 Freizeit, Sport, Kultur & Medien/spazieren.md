@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # spazieren
 
+![[spazieren.jpg]]
+
 ![[spazieren.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/spazieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spazieren&language=de)

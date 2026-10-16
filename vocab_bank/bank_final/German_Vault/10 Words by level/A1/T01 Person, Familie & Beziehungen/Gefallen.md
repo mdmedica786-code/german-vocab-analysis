@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Gefallen
 
+![[gefallen.jpg]]
+
 ![[gefallen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Gefallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gefallen&language=de)

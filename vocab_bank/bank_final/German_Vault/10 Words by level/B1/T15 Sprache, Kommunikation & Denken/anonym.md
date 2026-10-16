@@ -21,6 +21,8 @@ status: "new"
 
 ![[anonym.ogg]]
 
+![[anonym.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/anonym/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anonym&language=de)
 
 **Meaning:** anonymous

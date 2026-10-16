@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # sechs
 
+![[sechs.png]]
+
 ![[sechs.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/sechs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sechs&language=de)

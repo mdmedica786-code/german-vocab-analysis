@@ -23,6 +23,8 @@ status: "new"
 
 ![[frühstücken.ogg]]
 
+![[frühstücken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/fr%C3%BChst%C3%BCcken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fr%C3%BChst%C3%BCcken&language=de)
 
 **Meaning:** to eat breakfast

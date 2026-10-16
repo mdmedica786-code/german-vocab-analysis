@@ -20,6 +20,8 @@ status: "new"
 
 ![[jenseits.ogg]]
 
+![[jenseits.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/jenseits/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jenseits&language=de)
 
 **Meaning:** beyond; on the other side of

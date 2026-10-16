@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # schweizerdeutsch
 
+![[schweizerdeutsch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schweizerdeutsch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schweizerdeutsch&language=de)
 
 **Meaning:** Swiss German

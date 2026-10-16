@@ -24,6 +24,8 @@ status: "new"
 
 ![[Verbrechen.ogg]]
 
+![[Verbrechen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verbrechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbrechen&language=de)
 
 **Meaning:** crime

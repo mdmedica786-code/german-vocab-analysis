@@ -21,6 +21,8 @@ status: "new"
 
 ![[schmunzeln.ogg]]
 
+![[schmunzeln.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schmunzeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schmunzeln&language=de)
 
 **Meaning:** to smile (amused); to grin quietly

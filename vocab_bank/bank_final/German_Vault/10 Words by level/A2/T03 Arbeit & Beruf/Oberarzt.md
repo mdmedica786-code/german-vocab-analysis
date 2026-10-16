@@ -24,6 +24,8 @@ status: "new"
 
 ![[Oberarzt.ogg]]
 
+![[Oberarzt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Oberarzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oberarzt&language=de)
 
 **Meaning:** senior physician (m)

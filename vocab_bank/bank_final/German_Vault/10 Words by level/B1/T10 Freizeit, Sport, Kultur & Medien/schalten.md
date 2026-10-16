@@ -23,6 +23,8 @@ status: "new"
 
 ![[schalten.ogg]]
 
+![[schalten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schalten&language=de)
 
 **Meaning:** to switch

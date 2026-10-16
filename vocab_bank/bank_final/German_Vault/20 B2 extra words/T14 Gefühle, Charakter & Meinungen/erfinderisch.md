@@ -20,6 +20,8 @@ status: "new"
 
 ![[erfinderisch.ogg]]
 
+![[erfinderisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/erfinderisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erfinderisch&language=de)
 
 **Meaning:** inventive; resourceful

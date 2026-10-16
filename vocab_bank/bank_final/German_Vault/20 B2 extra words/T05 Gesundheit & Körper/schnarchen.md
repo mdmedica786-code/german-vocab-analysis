@@ -21,6 +21,8 @@ status: "new"
 
 ![[schnarchen.ogg]]
 
+![[schnarchen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schnarchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schnarchen&language=de)
 
 **Meaning:** to snore

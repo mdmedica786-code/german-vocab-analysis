@@ -20,6 +20,8 @@ status: "new"
 
 ![[barrierefrei.ogg]]
 
+![[barrierefrei.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/barrierefrei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=barrierefrei&language=de)
 
 **Meaning:** barrier-free; accessible

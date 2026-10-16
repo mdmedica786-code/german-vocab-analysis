@@ -22,6 +22,8 @@ status: "new"
 
 ![[signalisieren.ogg]]
 
+![[signalisieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/signalisieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=signalisieren&language=de)
 
 **Meaning:** to signal

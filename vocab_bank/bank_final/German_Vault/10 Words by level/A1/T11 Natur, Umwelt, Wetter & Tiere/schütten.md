@@ -22,6 +22,8 @@ status: "new"
 
 ![[schütten.ogg]]
 
+![[schütten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/sch%C3%BCtten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sch%C3%BCtten&language=de)
 
 **Meaning:** to pour

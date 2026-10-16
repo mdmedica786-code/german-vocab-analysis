@@ -22,6 +22,8 @@ status: "new"
 
 ![[bekämpfen.ogg]]
 
+![[bekämpfen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bek%C3%A4mpfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bek%C3%A4mpfen&language=de)
 
 **Meaning:** to fight

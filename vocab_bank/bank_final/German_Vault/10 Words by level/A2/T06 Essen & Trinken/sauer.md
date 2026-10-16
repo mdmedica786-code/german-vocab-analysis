@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # sauer
 
+![[sauer.jpg]]
+
 ![[sauer.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/sauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sauer&language=de)

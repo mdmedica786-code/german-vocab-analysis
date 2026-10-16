@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # blond
 
+![[blond.jpg]]
+
 ![[blond.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/blond/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=blond&language=de)

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # hängen
 
+![[hängen.jpg]]
+
 ![[hängen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/h%C3%A4ngen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=h%C3%A4ngen&language=de)

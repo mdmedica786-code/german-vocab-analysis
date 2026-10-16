@@ -21,6 +21,8 @@ status: "new"
 
 ![[medizinisch.ogg]]
 
+![[medizinisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/medizinisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=medizinisch&language=de)
 
 **Meaning:** medical

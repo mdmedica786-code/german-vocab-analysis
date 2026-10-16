@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # leiden
 
+![[leiden.jpg]]
+
 ![[leiden.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/leiden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leiden&language=de)

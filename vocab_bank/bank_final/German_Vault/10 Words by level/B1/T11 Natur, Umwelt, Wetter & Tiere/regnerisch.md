@@ -21,6 +21,8 @@ status: "new"
 
 ![[regnerisch.ogg]]
 
+![[regnerisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/regnerisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=regnerisch&language=de)
 
 **Meaning:** rainy

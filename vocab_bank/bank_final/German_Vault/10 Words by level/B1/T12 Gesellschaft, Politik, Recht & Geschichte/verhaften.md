@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # verhaften
 
+![[verhaften.jpg]]
+
 ![[verhaften.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/verhaften/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verhaften&language=de)

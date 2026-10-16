@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # schmutzig
 
+![[schmutzig.jpg]]
+
 ![[schmutzig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/schmutzig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schmutzig&language=de)

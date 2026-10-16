@@ -22,6 +22,8 @@ status: "new"
 
 ![[gegen.ogg]]
 
+![[gegen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gegen&language=de)
 
 **Meaning:** against

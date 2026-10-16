@@ -21,6 +21,8 @@ status: "new"
 
 ![[beklagen.ogg]]
 
+![[beklagen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/beklagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beklagen&language=de)
 
 **Meaning:** to lament; to complain about

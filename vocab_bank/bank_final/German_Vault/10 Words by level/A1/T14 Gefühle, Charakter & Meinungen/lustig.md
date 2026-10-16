@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # lustig
 
+![[lustig.jpg]]
+
 ![[lustig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/lustig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lustig&language=de)

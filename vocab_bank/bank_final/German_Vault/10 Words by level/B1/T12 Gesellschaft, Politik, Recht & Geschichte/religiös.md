@@ -20,6 +20,8 @@ status: "new"
 
 ![[religiös.ogg]]
 
+![[religiös.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/religi%C3%B6s/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=religi%C3%B6s&language=de)
 
 **Meaning:** religious

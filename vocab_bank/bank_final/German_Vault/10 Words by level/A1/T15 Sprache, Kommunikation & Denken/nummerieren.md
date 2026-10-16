@@ -22,6 +22,8 @@ status: "new"
 
 ![[nummerieren.ogg]]
 
+![[nummerieren.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/nummerieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nummerieren&language=de)
 
 **Meaning:** to number

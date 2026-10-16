@@ -22,6 +22,8 @@ status: "new"
 
 ![[sympathisch.ogg]]
 
+![[sympathisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/sympathisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sympathisch&language=de)
 
 **Meaning:** likeable

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # zehn
 
+![[zehn.png]]
+
 ![[zehn.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/zehn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zehn&language=de)

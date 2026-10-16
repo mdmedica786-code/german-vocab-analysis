@@ -22,6 +22,8 @@ status: "new"
 
 ![[würfeln.ogg]]
 
+![[würfeln.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/w%C3%BCrfeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=w%C3%BCrfeln&language=de)
 
 **Meaning:** to roll (the dice)

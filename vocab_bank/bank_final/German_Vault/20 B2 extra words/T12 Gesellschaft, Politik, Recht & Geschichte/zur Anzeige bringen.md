@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Anzeige bringen
 
+![[zur Anzeige bringen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zur%20Anzeige%20bringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Anzeige%20bringen&language=de)
 
 **Meaning:** to report (to the police)

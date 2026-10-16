@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # logisch
 
+![[logisch.png]]
+
 ![[logisch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/logisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=logisch&language=de)

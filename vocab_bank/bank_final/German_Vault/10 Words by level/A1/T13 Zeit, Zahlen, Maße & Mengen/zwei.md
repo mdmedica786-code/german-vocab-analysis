@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # zwei
 
+![[zwei.jpg]]
+
 ![[zwei.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/zwei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zwei&language=de)

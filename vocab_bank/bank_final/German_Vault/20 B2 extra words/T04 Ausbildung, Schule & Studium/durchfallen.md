@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # durchfallen
 
+![[durchfallen.jpg]]
+
 ![[durchfallen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/durchfallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durchfallen&language=de)

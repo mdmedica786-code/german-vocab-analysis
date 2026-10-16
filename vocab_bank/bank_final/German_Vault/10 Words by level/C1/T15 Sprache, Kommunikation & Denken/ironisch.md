@@ -20,6 +20,8 @@ status: "new"
 
 ![[ironisch.ogg]]
 
+![[ironisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ironisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ironisch&language=de)
 
 **Meaning:** ironic

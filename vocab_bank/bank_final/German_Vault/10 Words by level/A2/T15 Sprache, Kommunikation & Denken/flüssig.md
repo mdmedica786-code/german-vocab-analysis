@@ -21,6 +21,8 @@ status: "new"
 
 ![[flüssig.ogg]]
 
+![[flüssig.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/fl%C3%BCssig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fl%C3%BCssig&language=de)
 
 **Meaning:** fluent; liquid

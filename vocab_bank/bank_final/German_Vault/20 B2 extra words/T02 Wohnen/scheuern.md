@@ -21,6 +21,8 @@ status: "new"
 
 ![[scheuern.ogg]]
 
+![[scheuern.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/scheuern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=scheuern&language=de)
 
 **Meaning:** to scrub; to chafe

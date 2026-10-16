@@ -21,6 +21,8 @@ status: "new"
 
 ![[erstarren.ogg]]
 
+![[erstarren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/erstarren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erstarren&language=de)
 
 **Meaning:** to freeze; to stiffen; to set

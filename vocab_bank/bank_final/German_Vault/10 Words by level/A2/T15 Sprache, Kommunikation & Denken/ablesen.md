@@ -22,6 +22,8 @@ status: "new"
 
 ![[ablesen.ogg]]
 
+![[ablesen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ablesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ablesen&language=de)
 
 **Meaning:** to read

@@ -21,6 +21,8 @@ status: "new"
 
 ![[vernünftig.ogg]]
 
+![[vernünftig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vern%C3%BCnftig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vern%C3%BCnftig&language=de)
 
 **Meaning:** sensible; reasonable

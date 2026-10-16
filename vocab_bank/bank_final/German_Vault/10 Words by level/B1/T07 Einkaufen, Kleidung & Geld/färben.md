@@ -22,6 +22,8 @@ status: "new"
 
 ![[färben.ogg]]
 
+![[färben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/f%C3%A4rben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=f%C3%A4rben&language=de)
 
 **Meaning:** to dye; to colour

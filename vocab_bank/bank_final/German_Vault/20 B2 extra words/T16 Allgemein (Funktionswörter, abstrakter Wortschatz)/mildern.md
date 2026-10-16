@@ -21,6 +21,8 @@ status: "new"
 
 ![[mildern.ogg]]
 
+![[mildern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/mildern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mildern&language=de)
 
 **Meaning:** to soften; to mitigate

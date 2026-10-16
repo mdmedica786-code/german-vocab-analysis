@@ -22,6 +22,8 @@ status: "new"
 
 ![[überholen.ogg]]
 
+![[überholen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberholen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberholen&language=de)
 
 **Meaning:** to overtake

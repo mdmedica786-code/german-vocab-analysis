@@ -21,6 +21,8 @@ status: "new"
 
 ![[aufwenden.ogg]]
 
+![[aufwenden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/aufwenden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufwenden&language=de)
 
 **Meaning:** to spend; to expend

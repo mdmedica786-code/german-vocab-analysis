@@ -22,6 +22,8 @@ status: "new"
 
 ![[giftig.ogg]]
 
+![[giftig.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/giftig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=giftig&language=de)
 
 **Meaning:** poisonous

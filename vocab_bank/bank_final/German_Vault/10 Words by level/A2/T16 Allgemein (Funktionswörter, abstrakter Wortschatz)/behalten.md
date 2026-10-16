@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # behalten
 
+![[behalten.jpg]]
+
 ![[behalten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/behalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=behalten&language=de)

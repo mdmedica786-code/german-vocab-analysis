@@ -21,6 +21,8 @@ status: "new"
 
 ![[hierarchisch.ogg]]
 
+![[hierarchisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/hierarchisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hierarchisch&language=de)
 
 **Meaning:** hierarchical

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # sitzen
 
+![[sitzen.jpg]]
+
 ![[sitzen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/sitzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sitzen&language=de)

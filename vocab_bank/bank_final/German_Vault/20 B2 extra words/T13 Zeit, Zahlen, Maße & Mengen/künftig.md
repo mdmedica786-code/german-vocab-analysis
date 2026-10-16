@@ -20,6 +20,8 @@ status: "new"
 
 ![[künftig.ogg]]
 
+![[künftig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/k%C3%BCnftig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k%C3%BCnftig&language=de)
 
 **Meaning:** future; in future

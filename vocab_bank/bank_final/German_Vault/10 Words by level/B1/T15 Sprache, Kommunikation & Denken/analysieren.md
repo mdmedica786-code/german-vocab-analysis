@@ -22,6 +22,8 @@ status: "new"
 
 ![[analysieren.ogg]]
 
+![[analysieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/analysieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=analysieren&language=de)
 
 **Meaning:** to analyse

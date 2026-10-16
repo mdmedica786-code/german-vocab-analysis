@@ -20,6 +20,8 @@ status: "new"
 
 ![[genügsam.ogg]]
 
+![[genügsam.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gen%C3%BCgsam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gen%C3%BCgsam&language=de)
 
 **Meaning:** frugal; undemanding

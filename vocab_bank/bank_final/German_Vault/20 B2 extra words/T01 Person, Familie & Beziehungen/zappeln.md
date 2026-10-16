@@ -21,6 +21,8 @@ status: "new"
 
 ![[zappeln.ogg]]
 
+![[zappeln.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zappeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zappeln&language=de)
 
 **Meaning:** to fidget; to wriggle

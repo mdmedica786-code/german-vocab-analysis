@@ -23,6 +23,8 @@ status: "new"
 
 ![[unterstreichen.ogg]]
 
+![[unterstreichen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/unterstreichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterstreichen&language=de)
 
 **Meaning:** to underline

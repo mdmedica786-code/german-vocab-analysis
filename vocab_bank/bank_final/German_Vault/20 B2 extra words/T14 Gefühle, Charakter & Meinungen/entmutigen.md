@@ -21,6 +21,8 @@ status: "new"
 
 ![[entmutigen.ogg]]
 
+![[entmutigen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/entmutigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entmutigen&language=de)
 
 **Meaning:** to discourage

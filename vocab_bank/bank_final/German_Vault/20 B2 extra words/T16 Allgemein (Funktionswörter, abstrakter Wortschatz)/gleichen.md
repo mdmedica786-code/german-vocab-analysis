@@ -21,6 +21,8 @@ status: "new"
 
 ![[gleichen.ogg]]
 
+![[gleichen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gleichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gleichen&language=de)
 
 **Meaning:** to resemble; to be like

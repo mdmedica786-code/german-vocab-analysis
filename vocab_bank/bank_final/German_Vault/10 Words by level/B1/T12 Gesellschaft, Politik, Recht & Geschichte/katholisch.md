@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # katholisch
 
+![[katholisch.jpg]]
+
 ![[katholisch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/katholisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=katholisch&language=de)

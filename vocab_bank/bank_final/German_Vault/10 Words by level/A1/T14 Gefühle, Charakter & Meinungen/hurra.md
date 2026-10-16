@@ -21,6 +21,8 @@ status: "new"
 
 ![[hurra.ogg]]
 
+![[hurra.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/hurra/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hurra&language=de)
 
 **Meaning:** hooray

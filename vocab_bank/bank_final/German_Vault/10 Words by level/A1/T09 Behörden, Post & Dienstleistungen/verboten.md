@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # verboten
 
+![[verboten.png]]
+
 ![[verboten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/verboten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verboten&language=de)

@@ -23,6 +23,8 @@ status: "new"
 
 ![[verlieben.ogg]]
 
+![[verlieben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verlieben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verlieben&language=de)
 
 **Meaning:** to fall in love

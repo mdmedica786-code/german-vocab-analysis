@@ -21,6 +21,8 @@ status: "new"
 
 ![[strömen.ogg]]
 
+![[strömen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/str%C3%B6men/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=str%C3%B6men&language=de)
 
 **Meaning:** to stream; to flow; to pour

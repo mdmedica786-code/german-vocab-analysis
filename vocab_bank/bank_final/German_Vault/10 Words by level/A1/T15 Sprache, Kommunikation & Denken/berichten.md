@@ -23,6 +23,8 @@ status: "new"
 
 ![[berichten.ogg]]
 
+![[berichten.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/berichten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=berichten&language=de)
 
 **Meaning:** to report

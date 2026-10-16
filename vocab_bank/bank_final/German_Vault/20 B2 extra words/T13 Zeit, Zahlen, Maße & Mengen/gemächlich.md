@@ -20,6 +20,8 @@ status: "new"
 
 ![[gemächlich.ogg]]
 
+![[gemächlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gem%C3%A4chlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gem%C3%A4chlich&language=de)
 
 **Meaning:** leisurely; unhurried

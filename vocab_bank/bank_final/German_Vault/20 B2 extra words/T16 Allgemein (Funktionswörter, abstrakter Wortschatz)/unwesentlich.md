@@ -20,6 +20,8 @@ status: "new"
 
 ![[unwesentlich.ogg]]
 
+![[unwesentlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/unwesentlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unwesentlich&language=de)
 
 **Meaning:** insignificant; minor

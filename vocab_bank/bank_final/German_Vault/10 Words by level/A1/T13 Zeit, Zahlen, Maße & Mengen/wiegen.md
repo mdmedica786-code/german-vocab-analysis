@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # wiegen
 
+![[wiegen.png]]
+
 ![[wiegen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/wiegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wiegen&language=de)

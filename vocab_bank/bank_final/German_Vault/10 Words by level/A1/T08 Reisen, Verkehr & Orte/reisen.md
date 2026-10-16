@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # reisen
 
+![[reisen.jpg]]
+
 ![[reisen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/reisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reisen&language=de)

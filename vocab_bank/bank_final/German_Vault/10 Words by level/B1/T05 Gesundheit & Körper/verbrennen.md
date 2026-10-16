@@ -22,6 +22,8 @@ status: "new"
 
 ![[verbrennen.ogg]]
 
+![[verbrennen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verbrennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbrennen&language=de)
 
 **Meaning:** to burn

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # träumen
 
+![[träumen.jpg]]
+
 ![[träumen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/tr%C3%A4umen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tr%C3%A4umen&language=de)

@@ -20,6 +20,8 @@ status: "new"
 
 ![[grausam.ogg]]
 
+![[grausam.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/grausam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=grausam&language=de)
 
 **Meaning:** cruel; terrible

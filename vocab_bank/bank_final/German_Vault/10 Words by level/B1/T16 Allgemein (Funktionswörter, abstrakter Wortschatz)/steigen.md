@@ -23,6 +23,8 @@ status: "new"
 
 ![[steigen.ogg]]
 
+![[steigen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/steigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=steigen&language=de)
 
 **Meaning:** to rise; to climb

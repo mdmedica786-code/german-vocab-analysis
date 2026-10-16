@@ -21,6 +21,8 @@ status: "new"
 
 ![[maskulin.ogg]]
 
+![[maskulin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/maskulin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=maskulin&language=de)
 
 **Meaning:** masculine

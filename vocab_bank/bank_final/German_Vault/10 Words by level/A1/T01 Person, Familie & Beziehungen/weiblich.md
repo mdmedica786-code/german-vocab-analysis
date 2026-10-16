@@ -22,6 +22,8 @@ status: "new"
 
 ![[weiblich.ogg]]
 
+![[weiblich.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/weiblich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weiblich&language=de)
 
 **Meaning:** female

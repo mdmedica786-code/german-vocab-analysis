@@ -20,6 +20,8 @@ status: "new"
 
 ![[munter.ogg]]
 
+![[munter.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/munter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=munter&language=de)
 
 **Meaning:** cheerful; lively; awake

@@ -21,6 +21,8 @@ status: "new"
 
 ![[wimmern.ogg]]
 
+![[wimmern.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/wimmern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wimmern&language=de)
 
 **Meaning:** to whimper

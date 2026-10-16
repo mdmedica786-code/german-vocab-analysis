@@ -22,6 +22,8 @@ status: "new"
 
 ![[fordern.ogg]]
 
+![[fordern.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/fordern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fordern&language=de)
 
 **Meaning:** to demand; to call for

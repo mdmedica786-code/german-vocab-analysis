@@ -21,6 +21,8 @@ status: "new"
 
 ![[ausnehmen.ogg]]
 
+![[ausnehmen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ausnehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausnehmen&language=de)
 
 **Meaning:** to exclude; to gut; to fleece

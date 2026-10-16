@@ -20,6 +20,8 @@ status: "new"
 
 ![[organisatorisch.ogg]]
 
+![[organisatorisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/organisatorisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=organisatorisch&language=de)
 
 **Meaning:** organisational

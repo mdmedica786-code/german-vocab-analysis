@@ -21,6 +21,8 @@ status: "new"
 
 ![[streamen.ogg]]
 
+![[streamen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/streamen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=streamen&language=de)
 
 **Meaning:** to stream (video or audio)

@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # gehorsam
 
+![[gehorsam.jpg]]
+
 ![[gehorsam.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/gehorsam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gehorsam&language=de)

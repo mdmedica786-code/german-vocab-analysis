@@ -21,6 +21,8 @@ status: "new"
 
 ![[aussagekräftig.ogg]]
 
+![[aussagekräftig.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/aussagekr%C3%A4ftig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aussagekr%C3%A4ftig&language=de)
 
 **Meaning:** meaningful; informative

@@ -22,6 +22,8 @@ status: "new"
 
 ![[heutig.ogg]]
 
+![[heutig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/heutig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heutig&language=de)
 
 **Meaning:** present day

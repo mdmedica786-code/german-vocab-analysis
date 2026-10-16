@@ -20,6 +20,8 @@ status: "new"
 
 ![[fahrlässig.ogg]]
 
+![[fahrlässig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/fahrl%C3%A4ssig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fahrl%C3%A4ssig&language=de)
 
 **Meaning:** negligent; careless

@@ -21,6 +21,8 @@ status: "new"
 
 ![[herausgeben.ogg]]
 
+![[herausgeben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/herausgeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herausgeben&language=de)
 
 **Meaning:** to publish; to hand over; to give change

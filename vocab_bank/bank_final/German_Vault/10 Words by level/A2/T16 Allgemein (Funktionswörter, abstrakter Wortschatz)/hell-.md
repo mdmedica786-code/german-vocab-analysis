@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # hell-
 
+![[hell-.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/hell-/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hell-&language=de)
 
 **Meaning:** light

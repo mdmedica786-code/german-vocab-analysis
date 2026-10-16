@@ -23,6 +23,8 @@ status: "new"
 
 ![[Facharzt.ogg]]
 
+![[Facharzt.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Facharzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Facharzt&language=de)
 
 **Meaning:** specialist doctor (male)

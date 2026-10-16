@@ -24,6 +24,8 @@ status: "new"
 
 ![[Fernfahrer.ogg]]
 
+![[Fernfahrer.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fernfahrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fernfahrer&language=de)
 
 **Meaning:** long-distance lorry driver (m)

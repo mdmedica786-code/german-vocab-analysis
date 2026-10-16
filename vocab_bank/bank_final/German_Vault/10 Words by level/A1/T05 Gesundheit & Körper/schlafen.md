@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # schlafen
 
+![[schlafen.jpg]]
+
 ![[schlafen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/schlafen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlafen&language=de)

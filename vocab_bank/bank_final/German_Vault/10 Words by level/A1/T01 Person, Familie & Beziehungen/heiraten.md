@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # heiraten
 
+![[heiraten.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/heiraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heiraten&language=de)
 
 **Meaning:** to marry

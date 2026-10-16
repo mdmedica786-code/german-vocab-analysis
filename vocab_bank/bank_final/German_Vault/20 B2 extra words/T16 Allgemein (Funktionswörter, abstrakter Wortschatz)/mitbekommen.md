@@ -21,6 +21,8 @@ status: "new"
 
 ![[mitbekommen.ogg]]
 
+![[mitbekommen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/mitbekommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitbekommen&language=de)
 
 **Meaning:** to notice; to catch (what is going on)

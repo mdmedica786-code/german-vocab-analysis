@@ -22,6 +22,8 @@ status: "new"
 
 ![[rechtlich.ogg]]
 
+![[rechtlich.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/rechtlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rechtlich&language=de)
 
 **Meaning:** legal

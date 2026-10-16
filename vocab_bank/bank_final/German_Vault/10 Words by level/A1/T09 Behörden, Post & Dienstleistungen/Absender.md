@@ -25,7 +25,7 @@ status: "new"
 
 ![[Absender.ogg]]
 
-![[Absender.jpg]]
+![[Absender.png]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/Absender/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Absender&language=de)
 

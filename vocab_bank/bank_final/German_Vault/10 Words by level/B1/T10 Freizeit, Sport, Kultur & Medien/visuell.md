@@ -21,6 +21,8 @@ status: "new"
 
 ![[visuell.ogg]]
 
+![[visuell.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/visuell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=visuell&language=de)
 
 **Meaning:** visual

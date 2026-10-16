@@ -20,6 +20,8 @@ status: "new"
 
 ![[militärisch.ogg]]
 
+![[militärisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/milit%C3%A4risch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=milit%C3%A4risch&language=de)
 
 **Meaning:** military

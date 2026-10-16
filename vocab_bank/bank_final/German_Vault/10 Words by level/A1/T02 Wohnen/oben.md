@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # oben
 
+![[oben.jpg]]
+
 ![[oben.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/oben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=oben&language=de)

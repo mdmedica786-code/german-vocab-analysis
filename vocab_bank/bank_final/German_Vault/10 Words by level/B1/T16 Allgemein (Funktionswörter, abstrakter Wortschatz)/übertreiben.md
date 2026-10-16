@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # übertreiben
 
+![[übertreiben.jpg]]
+
 ![[übertreiben.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbertreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbertreiben&language=de)

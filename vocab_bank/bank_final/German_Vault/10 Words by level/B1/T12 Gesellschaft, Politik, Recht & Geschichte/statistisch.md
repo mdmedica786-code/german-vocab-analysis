@@ -21,6 +21,8 @@ status: "new"
 
 ![[statistisch.ogg]]
 
+![[statistisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/statistisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=statistisch&language=de)
 
 **Meaning:** statistical

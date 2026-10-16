@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # süß
 
+![[süß.jpg]]
+
 ![[süß.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/s%C3%BC%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=s%C3%BC%C3%9F&language=de)

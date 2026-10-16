@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Süd-
 
+![[Süd-.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/S%C3%BCd-/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%BCd-&language=de)
 
 **Meaning:** south

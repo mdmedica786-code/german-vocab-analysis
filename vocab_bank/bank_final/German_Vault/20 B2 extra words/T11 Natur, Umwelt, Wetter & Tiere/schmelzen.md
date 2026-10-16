@@ -21,6 +21,8 @@ status: "new"
 
 ![[schmelzen.ogg]]
 
+![[schmelzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schmelzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schmelzen&language=de)
 
 **Meaning:** to melt

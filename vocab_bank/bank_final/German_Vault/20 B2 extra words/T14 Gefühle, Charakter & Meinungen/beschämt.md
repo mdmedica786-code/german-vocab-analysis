@@ -20,6 +20,8 @@ status: "new"
 
 ![[beschämt.ogg]]
 
+![[beschämt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/besch%C3%A4mt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besch%C3%A4mt&language=de)
 
 **Meaning:** ashamed; embarrassed

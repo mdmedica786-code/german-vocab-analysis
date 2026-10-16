@@ -20,6 +20,8 @@ status: "new"
 
 ![[analog.ogg]]
 
+![[analog.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/analog/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=analog&language=de)
 
 **Meaning:** analogous; analogue

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # unterbrechen
 
+![[unterbrechen.png]]
+
 ![[unterbrechen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/unterbrechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterbrechen&language=de)

@@ -21,6 +21,8 @@ status: "new"
 
 ![[behindert.ogg]]
 
+![[behindert.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/behindert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=behindert&language=de)
 
 **Meaning:** disabled

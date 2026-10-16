@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # verrückt
 
+![[verrückt.jpg]]
+
 ![[verrückt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/verr%C3%BCckt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verr%C3%BCckt&language=de)

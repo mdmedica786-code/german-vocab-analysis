@@ -21,6 +21,8 @@ status: "new"
 
 ![[aufrechterhalten.ogg]]
 
+![[aufrechterhalten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/aufrechterhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufrechterhalten&language=de)
 
 **Meaning:** to maintain; to uphold

@@ -22,6 +22,8 @@ status: "new"
 
 ![[gering.ogg]]
 
+![[gering.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gering/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gering&language=de)
 
 **Meaning:** small; slight; low

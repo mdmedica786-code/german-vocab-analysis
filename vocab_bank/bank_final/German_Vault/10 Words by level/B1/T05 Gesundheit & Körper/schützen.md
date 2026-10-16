@@ -23,6 +23,8 @@ status: "new"
 
 ![[schützen.ogg]]
 
+![[schützen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/sch%C3%BCtzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sch%C3%BCtzen&language=de)
 
 **Meaning:** to protect

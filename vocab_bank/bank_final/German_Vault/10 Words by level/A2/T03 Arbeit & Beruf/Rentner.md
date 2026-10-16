@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Rentner
 
+![[Rentner.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Rentner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rentner&language=de)
 
 **Meaning:** pensioner (m.)

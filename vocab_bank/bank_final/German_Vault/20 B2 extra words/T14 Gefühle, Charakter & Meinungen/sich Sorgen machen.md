@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # sich Sorgen machen
 
+![[sich Sorgen machen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/sich%20Sorgen%20machen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sich%20Sorgen%20machen&language=de)
 
 **Meaning:** to worry

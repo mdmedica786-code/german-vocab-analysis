@@ -20,6 +20,8 @@ status: "new"
 
 ![[verschmitzt.ogg]]
 
+![[verschmitzt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verschmitzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verschmitzt&language=de)
 
 **Meaning:** mischievous; roguish

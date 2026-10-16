@@ -22,6 +22,8 @@ status: "new"
 
 ![[sozial.ogg]]
 
+![[sozial.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/sozial/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sozial&language=de)
 
 **Meaning:** social

@@ -23,6 +23,8 @@ status: "new"
 
 ![[aufführen.ogg]]
 
+![[aufführen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/auff%C3%BChren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auff%C3%BChren&language=de)
 
 **Meaning:** to perform

@@ -21,6 +21,8 @@ status: "new"
 
 ![[verankern.ogg]]
 
+![[verankern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verankern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verankern&language=de)
 
 **Meaning:** to anchor; to enshrine

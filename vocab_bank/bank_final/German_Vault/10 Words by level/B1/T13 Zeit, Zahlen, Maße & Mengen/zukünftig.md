@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # zukünftig
 
+![[zukünftig.jpg]]
+
 ![[zukünftig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/zuk%C3%BCnftig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zuk%C3%BCnftig&language=de)

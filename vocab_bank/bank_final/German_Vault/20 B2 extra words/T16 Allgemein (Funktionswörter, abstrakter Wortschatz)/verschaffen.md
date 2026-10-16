@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # verschaffen
 
+![[verschaffen.png]]
+
 ![[verschaffen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/verschaffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verschaffen&language=de)

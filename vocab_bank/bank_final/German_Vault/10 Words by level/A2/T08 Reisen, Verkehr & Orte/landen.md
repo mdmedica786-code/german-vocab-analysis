@@ -23,6 +23,8 @@ status: "new"
 
 ![[landen.ogg]]
 
+![[landen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/landen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=landen&language=de)
 
 **Meaning:** to land

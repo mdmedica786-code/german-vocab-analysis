@@ -21,6 +21,8 @@ status: "new"
 
 ![[einlegen.ogg]]
 
+![[einlegen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/einlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einlegen&language=de)
 
 **Meaning:** to insert; to pickle

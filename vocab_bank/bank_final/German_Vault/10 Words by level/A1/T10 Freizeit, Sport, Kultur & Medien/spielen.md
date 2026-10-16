@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # spielen
 
+![[spielen.jpg]]
+
 ![[spielen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/spielen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spielen&language=de)

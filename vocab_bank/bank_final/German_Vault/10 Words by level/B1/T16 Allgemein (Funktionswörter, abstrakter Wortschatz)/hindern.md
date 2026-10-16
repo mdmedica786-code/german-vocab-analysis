@@ -22,6 +22,8 @@ status: "new"
 
 ![[hindern.ogg]]
 
+![[hindern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/hindern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hindern&language=de)
 
 **Meaning:** to hinder

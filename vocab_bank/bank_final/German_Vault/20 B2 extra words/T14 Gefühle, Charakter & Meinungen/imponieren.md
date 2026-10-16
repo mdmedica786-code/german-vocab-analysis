@@ -21,6 +21,8 @@ status: "new"
 
 ![[imponieren.ogg]]
 
+![[imponieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/imponieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=imponieren&language=de)
 
 **Meaning:** to impress

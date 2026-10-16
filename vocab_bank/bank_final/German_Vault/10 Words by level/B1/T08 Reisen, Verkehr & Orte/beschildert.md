@@ -21,6 +21,8 @@ status: "new"
 
 ![[beschildert.ogg]]
 
+![[beschildert.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/beschildert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beschildert&language=de)
 
 **Meaning:** signposted

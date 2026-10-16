@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # praktisch
 
+![[praktisch.jpg]]
+
 ![[praktisch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/praktisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=praktisch&language=de)

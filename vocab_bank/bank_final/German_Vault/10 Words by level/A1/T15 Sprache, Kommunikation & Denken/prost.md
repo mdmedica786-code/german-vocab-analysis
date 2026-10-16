@@ -21,6 +21,8 @@ status: "new"
 
 ![[prost.ogg]]
 
+![[prost.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/prost/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=prost&language=de)
 
 **Meaning:** cheers

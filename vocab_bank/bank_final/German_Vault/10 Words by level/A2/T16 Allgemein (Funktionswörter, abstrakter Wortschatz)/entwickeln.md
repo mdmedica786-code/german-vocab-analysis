@@ -23,6 +23,8 @@ status: "new"
 
 ![[entwickeln.ogg]]
 
+![[entwickeln.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/entwickeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entwickeln&language=de)
 
 **Meaning:** to develop

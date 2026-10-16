@@ -20,6 +20,8 @@ status: "new"
 
 ![[massiv.ogg]]
 
+![[massiv.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/massiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=massiv&language=de)
 
 **Meaning:** massive; solid

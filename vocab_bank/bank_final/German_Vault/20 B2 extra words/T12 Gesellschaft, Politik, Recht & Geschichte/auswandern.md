@@ -21,6 +21,8 @@ status: "new"
 
 ![[auswandern.ogg]]
 
+![[auswandern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/auswandern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auswandern&language=de)
 
 **Meaning:** to emigrate

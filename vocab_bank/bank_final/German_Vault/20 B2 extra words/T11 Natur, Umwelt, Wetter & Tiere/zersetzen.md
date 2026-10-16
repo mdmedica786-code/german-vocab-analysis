@@ -21,6 +21,8 @@ status: "new"
 
 ![[zersetzen.ogg]]
 
+![[zersetzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zersetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zersetzen&language=de)
 
 **Meaning:** to decompose; to break down; (sich) to decay

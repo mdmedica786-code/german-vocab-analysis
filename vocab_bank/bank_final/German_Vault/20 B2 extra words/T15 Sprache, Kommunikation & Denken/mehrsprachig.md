@@ -20,6 +20,8 @@ status: "new"
 
 ![[mehrsprachig.ogg]]
 
+![[mehrsprachig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/mehrsprachig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mehrsprachig&language=de)
 
 **Meaning:** multilingual; bilingual

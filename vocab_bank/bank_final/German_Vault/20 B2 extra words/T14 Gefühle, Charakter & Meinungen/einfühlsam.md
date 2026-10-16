@@ -20,6 +20,8 @@ status: "new"
 
 ![[einfühlsam.ogg]]
 
+![[einfühlsam.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/einf%C3%BChlsam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einf%C3%BChlsam&language=de)
 
 **Meaning:** empathetic; sensitive

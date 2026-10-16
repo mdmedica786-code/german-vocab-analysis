@@ -23,6 +23,8 @@ status: "new"
 
 ![[kümmern.ogg]]
 
+![[kümmern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/k%C3%BCmmern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k%C3%BCmmern&language=de)
 
 **Meaning:** to take care of

@@ -21,6 +21,8 @@ status: "new"
 
 ![[bestärken.ogg]]
 
+![[bestärken.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/best%C3%A4rken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=best%C3%A4rken&language=de)
 
 **Meaning:** to reinforce; to encourage

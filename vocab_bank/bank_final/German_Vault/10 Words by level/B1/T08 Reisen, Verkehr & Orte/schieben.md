@@ -22,6 +22,8 @@ status: "new"
 
 ![[schieben.ogg]]
 
+![[schieben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schieben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schieben&language=de)
 
 **Meaning:** to push

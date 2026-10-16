@@ -20,6 +20,8 @@ status: "new"
 
 ![[gesellig.ogg]]
 
+![[gesellig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gesellig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gesellig&language=de)
 
 **Meaning:** sociable

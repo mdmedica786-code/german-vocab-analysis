@@ -20,6 +20,8 @@ status: "new"
 
 ![[tiefgekühlt.ogg]]
 
+![[tiefgekühlt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/tiefgek%C3%BChlt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tiefgek%C3%BChlt&language=de)
 
 **Meaning:** frozen; deep-frozen

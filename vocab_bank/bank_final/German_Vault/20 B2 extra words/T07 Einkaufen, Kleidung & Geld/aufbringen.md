@@ -21,6 +21,8 @@ status: "new"
 
 ![[aufbringen.ogg]]
 
+![[aufbringen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/aufbringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufbringen&language=de)
 
 **Meaning:** to raise (money); to muster; to infuriate

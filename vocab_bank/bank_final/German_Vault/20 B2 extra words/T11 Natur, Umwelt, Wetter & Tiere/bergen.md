@@ -21,6 +21,8 @@ status: "new"
 
 ![[bergen.ogg]]
 
+![[bergen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bergen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bergen&language=de)
 
 **Meaning:** to rescue; to salvage; to conceal

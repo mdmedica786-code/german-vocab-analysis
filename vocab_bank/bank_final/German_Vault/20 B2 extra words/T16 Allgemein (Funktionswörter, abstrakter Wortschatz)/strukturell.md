@@ -20,6 +20,8 @@ status: "new"
 
 ![[strukturell.ogg]]
 
+![[strukturell.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/strukturell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=strukturell&language=de)
 
 **Meaning:** structural

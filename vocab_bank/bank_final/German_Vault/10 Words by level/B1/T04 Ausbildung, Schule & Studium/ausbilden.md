@@ -23,6 +23,8 @@ status: "new"
 
 ![[ausbilden.ogg]]
 
+![[ausbilden.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ausbilden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausbilden&language=de)
 
 **Meaning:** to train

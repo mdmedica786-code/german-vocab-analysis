@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # lügen
 
+![[lügen.jpg]]
+
 ![[lügen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/l%C3%BCgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=l%C3%BCgen&language=de)

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # schmecken
 
+![[schmecken.png]]
+
 ![[schmecken.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/schmecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schmecken&language=de)

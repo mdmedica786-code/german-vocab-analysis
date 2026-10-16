@@ -20,6 +20,8 @@ status: "new"
 
 ![[vorab.ogg]]
 
+![[vorab.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vorab/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorab&language=de)
 
 **Meaning:** in advance; beforehand

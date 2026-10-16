@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # europäisch
 
+![[europäisch.png]]
+
 ![[europäisch.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/europ%C3%A4isch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=europ%C3%A4isch&language=de)

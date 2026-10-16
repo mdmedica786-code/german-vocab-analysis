@@ -20,6 +20,8 @@ status: "new"
 
 ![[schäbig.ogg]]
 
+![[schäbig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/sch%C3%A4big/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sch%C3%A4big&language=de)
 
 **Meaning:** shabby

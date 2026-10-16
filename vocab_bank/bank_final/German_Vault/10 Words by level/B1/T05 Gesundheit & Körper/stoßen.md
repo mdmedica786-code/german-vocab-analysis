@@ -22,6 +22,8 @@ status: "new"
 
 ![[stoßen.ogg]]
 
+![[stoßen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/sto%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sto%C3%9Fen&language=de)
 
 **Meaning:** to bump; to knock; to push

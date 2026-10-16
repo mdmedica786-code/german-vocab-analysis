@@ -20,6 +20,8 @@ status: "new"
 
 ![[bargeldlos.ogg]]
 
+![[bargeldlos.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bargeldlos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bargeldlos&language=de)
 
 **Meaning:** cashless

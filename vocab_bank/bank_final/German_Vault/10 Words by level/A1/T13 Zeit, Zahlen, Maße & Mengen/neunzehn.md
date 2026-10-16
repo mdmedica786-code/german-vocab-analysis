@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # neunzehn
 
+![[neunzehn.png]]
+
 ![[neunzehn.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/neunzehn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=neunzehn&language=de)

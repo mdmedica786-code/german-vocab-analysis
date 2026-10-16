@@ -21,6 +21,8 @@ status: "new"
 
 ![[vegan.ogg]]
 
+![[vegan.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vegan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vegan&language=de)
 
 **Meaning:** vegan

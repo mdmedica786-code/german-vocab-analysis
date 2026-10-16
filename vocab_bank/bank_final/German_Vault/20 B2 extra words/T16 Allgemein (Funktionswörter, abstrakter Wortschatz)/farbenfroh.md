@@ -20,6 +20,8 @@ status: "new"
 
 ![[farbenfroh.ogg]]
 
+![[farbenfroh.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/farbenfroh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=farbenfroh&language=de)
 
 **Meaning:** colourful

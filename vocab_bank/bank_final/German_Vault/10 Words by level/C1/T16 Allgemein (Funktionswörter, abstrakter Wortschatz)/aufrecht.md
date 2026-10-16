@@ -20,6 +20,8 @@ status: "new"
 
 ![[aufrecht.ogg]]
 
+![[aufrecht.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/aufrecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufrecht&language=de)
 
 **Meaning:** upright

@@ -21,6 +21,8 @@ status: "new"
 
 ![[bürgen.ogg]]
 
+![[bürgen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/b%C3%BCrgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=b%C3%BCrgen&language=de)
 
 **Meaning:** to vouch; to guarantee

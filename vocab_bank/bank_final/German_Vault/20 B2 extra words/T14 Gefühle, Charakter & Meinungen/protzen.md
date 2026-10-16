@@ -21,6 +21,8 @@ status: "new"
 
 ![[protzen.ogg]]
 
+![[protzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/protzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=protzen&language=de)
 
 **Meaning:** to show off

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # auswendig
 
+![[auswendig.jpg]]
+
 ![[auswendig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/auswendig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auswendig&language=de)

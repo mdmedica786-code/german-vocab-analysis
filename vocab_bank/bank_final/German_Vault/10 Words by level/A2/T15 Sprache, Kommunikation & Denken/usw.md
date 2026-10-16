@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # usw.
 
+![[usw..jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/usw./german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=usw.&language=de)
 
 **Meaning:** etc. (and so on)

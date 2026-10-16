@@ -23,6 +23,8 @@ status: "new"
 
 ![[bloggen.ogg]]
 
+![[bloggen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bloggen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bloggen&language=de)
 
 **Meaning:** to blog

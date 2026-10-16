@@ -22,6 +22,8 @@ status: "new"
 
 ![[festnehmen.ogg]]
 
+![[festnehmen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/festnehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=festnehmen&language=de)
 
 **Meaning:** to arrest

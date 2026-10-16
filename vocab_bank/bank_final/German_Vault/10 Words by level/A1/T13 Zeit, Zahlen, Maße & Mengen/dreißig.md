@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # dreißig
 
+![[dreißig.png]]
+
 ![[dreißig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/drei%C3%9Fig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=drei%C3%9Fig&language=de)

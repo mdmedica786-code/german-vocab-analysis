@@ -22,6 +22,8 @@ status: "new"
 
 ![[inhalieren.ogg]]
 
+![[inhalieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/inhalieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=inhalieren&language=de)
 
 **Meaning:** to inhale

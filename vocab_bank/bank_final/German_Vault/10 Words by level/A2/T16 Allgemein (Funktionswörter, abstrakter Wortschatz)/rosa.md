@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # rosa
 
+![[rosa.jpg]]
+
 ![[rosa.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/rosa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rosa&language=de)

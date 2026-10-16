@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # singen
 
+![[singen.jpg]]
+
 ![[singen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/singen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=singen&language=de)

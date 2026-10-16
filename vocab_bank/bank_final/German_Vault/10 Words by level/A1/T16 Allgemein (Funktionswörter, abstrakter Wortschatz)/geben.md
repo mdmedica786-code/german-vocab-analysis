@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # geben
 
+![[geben.png]]
+
 ![[geben.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/geben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geben&language=de)

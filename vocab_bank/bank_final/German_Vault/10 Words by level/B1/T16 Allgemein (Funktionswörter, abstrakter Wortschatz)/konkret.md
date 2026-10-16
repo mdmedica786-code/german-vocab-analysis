@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # konkret
 
+![[konkret.jpg]]
+
 ![[konkret.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/konkret/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konkret&language=de)

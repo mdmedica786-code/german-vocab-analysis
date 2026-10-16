@@ -20,6 +20,8 @@ status: "new"
 
 ![[stets.ogg]]
 
+![[stets.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/stets/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stets&language=de)
 
 **Meaning:** always; at all times

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # beleidigen
 
+![[beleidigen.jpg]]
+
 ![[beleidigen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/beleidigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beleidigen&language=de)

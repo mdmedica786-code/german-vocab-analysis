@@ -21,6 +21,8 @@ status: "new"
 
 ![[experimentieren.ogg]]
 
+![[experimentieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/experimentieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=experimentieren&language=de)
 
 **Meaning:** to experiment

@@ -20,6 +20,8 @@ status: "new"
 
 ![[architektonisch.ogg]]
 
+![[architektonisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/architektonisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=architektonisch&language=de)
 
 **Meaning:** architectural

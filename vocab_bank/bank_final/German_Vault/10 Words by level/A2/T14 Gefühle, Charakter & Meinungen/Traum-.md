@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Traum-
 
+![[Traum-.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Traum-/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Traum-&language=de)
 
 **Meaning:** dream

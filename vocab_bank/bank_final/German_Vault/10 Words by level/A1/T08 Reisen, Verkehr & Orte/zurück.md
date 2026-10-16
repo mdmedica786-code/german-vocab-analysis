@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # zurück
 
+![[zurück.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zur%C3%BCck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%C3%BCck&language=de)
 
 **Meaning:** back

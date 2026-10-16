@@ -23,6 +23,8 @@ status: "new"
 
 ![[tanken.ogg]]
 
+![[tanken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/tanken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tanken&language=de)
 
 **Meaning:** to fill up; to refuel

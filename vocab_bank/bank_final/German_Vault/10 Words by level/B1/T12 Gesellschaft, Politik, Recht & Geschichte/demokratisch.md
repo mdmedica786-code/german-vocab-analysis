@@ -21,6 +21,8 @@ status: "new"
 
 ![[demokratisch.ogg]]
 
+![[demokratisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/demokratisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=demokratisch&language=de)
 
 **Meaning:** democratic

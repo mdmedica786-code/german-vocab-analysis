@@ -20,6 +20,8 @@ status: "new"
 
 ![[optisch.ogg]]
 
+![[optisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/optisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=optisch&language=de)
 
 **Meaning:** visual; optical

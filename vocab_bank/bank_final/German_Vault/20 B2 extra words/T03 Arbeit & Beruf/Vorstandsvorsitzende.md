@@ -23,6 +23,8 @@ status: "new"
 
 ![[Vorstandsvorsitzende.ogg]]
 
+![[Vorstandsvorsitzende.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Vorstandsvorsitzende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorstandsvorsitzende&language=de)
 
 **Meaning:** chair of the board; CEO

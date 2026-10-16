@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # zwanzig
 
+![[zwanzig.png]]
+
 ![[zwanzig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/zwanzig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zwanzig&language=de)

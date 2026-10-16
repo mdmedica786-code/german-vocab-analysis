@@ -20,6 +20,8 @@ status: "new"
 
 ![[magisch.ogg]]
 
+![[magisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/magisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=magisch&language=de)
 
 **Meaning:** magical

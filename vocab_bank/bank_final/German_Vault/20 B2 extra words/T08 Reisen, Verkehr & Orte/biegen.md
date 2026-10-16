@@ -21,6 +21,8 @@ status: "new"
 
 ![[biegen.ogg]]
 
+![[biegen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/biegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=biegen&language=de)
 
 **Meaning:** to bend; to turn (a corner)

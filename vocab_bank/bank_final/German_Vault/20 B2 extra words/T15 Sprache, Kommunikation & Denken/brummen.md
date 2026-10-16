@@ -21,6 +21,8 @@ status: "new"
 
 ![[brummen.ogg]]
 
+![[brummen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/brummen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=brummen&language=de)
 
 **Meaning:** to hum; to growl; to grumble

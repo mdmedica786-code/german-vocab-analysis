@@ -20,6 +20,8 @@ status: "new"
 
 ![[firmenintern.ogg]]
 
+![[firmenintern.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/firmenintern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=firmenintern&language=de)
 
 **Meaning:** in-house; within the company

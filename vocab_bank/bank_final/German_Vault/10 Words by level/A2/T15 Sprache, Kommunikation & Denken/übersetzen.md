@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # übersetzen
 
+![[übersetzen.jpg]]
+
 ![[übersetzen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbersetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbersetzen&language=de)

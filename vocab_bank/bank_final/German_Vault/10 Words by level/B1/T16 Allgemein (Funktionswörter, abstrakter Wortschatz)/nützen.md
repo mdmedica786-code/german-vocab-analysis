@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # nützen
 
+![[nützen.png]]
+
 ![[nützen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/n%C3%BCtzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=n%C3%BCtzen&language=de)

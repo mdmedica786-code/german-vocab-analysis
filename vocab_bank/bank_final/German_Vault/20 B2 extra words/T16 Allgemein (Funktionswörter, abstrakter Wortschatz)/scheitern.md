@@ -21,6 +21,8 @@ status: "new"
 
 ![[scheitern.ogg]]
 
+![[scheitern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/scheitern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=scheitern&language=de)
 
 **Meaning:** to fail; to fall through

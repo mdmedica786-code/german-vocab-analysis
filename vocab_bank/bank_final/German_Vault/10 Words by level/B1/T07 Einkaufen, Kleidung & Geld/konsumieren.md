@@ -23,6 +23,8 @@ status: "new"
 
 ![[konsumieren.ogg]]
 
+![[konsumieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/konsumieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konsumieren&language=de)
 
 **Meaning:** to consume

@@ -23,6 +23,8 @@ status: "new"
 
 ![[trainieren.ogg]]
 
+![[trainieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/trainieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=trainieren&language=de)
 
 **Meaning:** to train

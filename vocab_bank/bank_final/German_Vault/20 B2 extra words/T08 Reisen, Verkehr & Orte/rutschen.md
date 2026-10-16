@@ -21,6 +21,8 @@ status: "new"
 
 ![[rutschen.ogg]]
 
+![[rutschen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/rutschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rutschen&language=de)
 
 **Meaning:** to slip; to slide

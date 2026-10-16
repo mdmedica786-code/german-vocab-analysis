@@ -21,6 +21,8 @@ status: "new"
 
 ![[anvertrauen.ogg]]
 
+![[anvertrauen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/anvertrauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anvertrauen&language=de)
 
 **Meaning:** to entrust; to confide

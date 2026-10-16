@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # ankreuzen
 
+![[ankreuzen.jpg]]
+
 ![[ankreuzen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/ankreuzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ankreuzen&language=de)

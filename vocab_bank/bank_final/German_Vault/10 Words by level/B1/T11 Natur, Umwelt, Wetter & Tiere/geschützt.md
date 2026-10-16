@@ -21,6 +21,8 @@ status: "new"
 
 ![[geschützt.ogg]]
 
+![[geschützt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gesch%C3%BCtzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gesch%C3%BCtzt&language=de)
 
 **Meaning:** protected

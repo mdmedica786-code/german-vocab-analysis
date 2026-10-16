@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # leider
 
+![[leider.png]]
+
 ![[leider.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/leider/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leider&language=de)

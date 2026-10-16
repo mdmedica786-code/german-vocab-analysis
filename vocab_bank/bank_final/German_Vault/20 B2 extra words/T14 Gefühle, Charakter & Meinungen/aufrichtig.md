@@ -20,6 +20,8 @@ status: "new"
 
 ![[aufrichtig.ogg]]
 
+![[aufrichtig.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/aufrichtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufrichtig&language=de)
 
 **Meaning:** sincere; honest

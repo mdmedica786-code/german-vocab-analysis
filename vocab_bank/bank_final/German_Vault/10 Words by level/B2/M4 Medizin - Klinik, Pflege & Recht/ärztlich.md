@@ -20,6 +20,8 @@ status: "new"
 
 ![[ärztlich.ogg]]
 
+![[ärztlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%A4rztlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%A4rztlich&language=de)
 
 **Meaning:** medical; by a doctor

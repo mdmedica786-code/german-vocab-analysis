@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # nett
 
+![[nett.jpg]]
+
 ![[nett.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/nett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nett&language=de)

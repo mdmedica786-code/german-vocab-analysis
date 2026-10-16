@@ -23,6 +23,8 @@ status: "new"
 
 ![[heizen.ogg]]
 
+![[heizen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/heizen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heizen&language=de)
 
 **Meaning:** to heat

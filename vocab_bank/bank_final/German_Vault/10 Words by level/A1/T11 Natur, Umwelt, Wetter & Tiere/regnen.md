@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # regnen
 
+![[regnen.jpg]]
+
 ![[regnen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/regnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=regnen&language=de)

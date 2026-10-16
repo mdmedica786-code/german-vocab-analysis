@@ -21,6 +21,8 @@ status: "new"
 
 ![[jugendlich.ogg]]
 
+![[jugendlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/jugendlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jugendlich&language=de)
 
 **Meaning:** youthful; juvenile

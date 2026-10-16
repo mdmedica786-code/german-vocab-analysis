@@ -20,6 +20,8 @@ status: "new"
 
 ![[vergesslich.ogg]]
 
+![[vergesslich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vergesslich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vergesslich&language=de)
 
 **Meaning:** forgetful

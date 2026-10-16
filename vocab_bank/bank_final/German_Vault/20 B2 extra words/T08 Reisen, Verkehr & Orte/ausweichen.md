@@ -21,6 +21,8 @@ status: "new"
 
 ![[ausweichen.ogg]]
 
+![[ausweichen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ausweichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausweichen&language=de)
 
 **Meaning:** to dodge; to evade

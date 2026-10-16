@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # vier
 
+![[vier.png]]
+
 ![[vier.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/vier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vier&language=de)

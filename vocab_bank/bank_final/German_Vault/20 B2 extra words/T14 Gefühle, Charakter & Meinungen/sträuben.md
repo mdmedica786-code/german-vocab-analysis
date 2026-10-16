@@ -21,6 +21,8 @@ status: "new"
 
 ![[sträuben.ogg]]
 
+![[sträuben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/str%C3%A4uben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=str%C3%A4uben&language=de)
 
 **Meaning:** to resist; to bristle

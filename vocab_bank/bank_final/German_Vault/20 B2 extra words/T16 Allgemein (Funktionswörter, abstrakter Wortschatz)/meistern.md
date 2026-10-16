@@ -21,6 +21,8 @@ status: "new"
 
 ![[meistern.ogg]]
 
+![[meistern.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/meistern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=meistern&language=de)
 
 **Meaning:** to master; to cope with

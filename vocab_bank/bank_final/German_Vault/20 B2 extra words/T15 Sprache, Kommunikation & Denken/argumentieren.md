@@ -21,6 +21,8 @@ status: "new"
 
 ![[argumentieren.ogg]]
 
+![[argumentieren.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/argumentieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=argumentieren&language=de)
 
 **Meaning:** to argue (give reasons)

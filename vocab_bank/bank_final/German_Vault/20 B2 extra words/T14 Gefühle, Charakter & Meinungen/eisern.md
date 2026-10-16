@@ -20,6 +20,8 @@ status: "new"
 
 ![[eisern.ogg]]
 
+![[eisern.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/eisern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eisern&language=de)
 
 **Meaning:** iron; unyielding

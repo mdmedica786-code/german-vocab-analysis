@@ -20,6 +20,8 @@ status: "new"
 
 ![[trüb.ogg]]
 
+![[trüb.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/tr%C3%BCb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tr%C3%BCb&language=de)
 
 **Meaning:** cloudy; murky; gloomy

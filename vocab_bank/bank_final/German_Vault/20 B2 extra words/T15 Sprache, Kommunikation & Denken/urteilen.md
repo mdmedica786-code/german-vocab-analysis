@@ -21,6 +21,8 @@ status: "new"
 
 ![[urteilen.ogg]]
 
+![[urteilen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/urteilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=urteilen&language=de)
 
 **Meaning:** to judge

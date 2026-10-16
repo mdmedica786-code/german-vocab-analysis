@@ -23,6 +23,8 @@ status: "new"
 
 ![[bestätigen.ogg]]
 
+![[bestätigen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/best%C3%A4tigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=best%C3%A4tigen&language=de)
 
 **Meaning:** to confirm

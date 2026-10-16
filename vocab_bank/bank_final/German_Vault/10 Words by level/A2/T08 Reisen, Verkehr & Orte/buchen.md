@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # buchen
 
+![[buchen.jpg]]
+
 ![[buchen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/buchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=buchen&language=de)

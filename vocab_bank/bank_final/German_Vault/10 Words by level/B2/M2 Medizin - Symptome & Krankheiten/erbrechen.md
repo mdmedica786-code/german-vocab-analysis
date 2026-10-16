@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # erbrechen
 
+![[erbrechen.jpg]]
+
 ![[erbrechen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/erbrechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erbrechen&language=de)

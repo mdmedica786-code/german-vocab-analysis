@@ -22,6 +22,8 @@ status: "new"
 
 ![[fliehen.ogg]]
 
+![[fliehen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/fliehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fliehen&language=de)
 
 **Meaning:** to flee; to escape

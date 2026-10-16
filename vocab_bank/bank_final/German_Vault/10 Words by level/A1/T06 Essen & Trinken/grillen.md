@@ -23,6 +23,8 @@ status: "new"
 
 ![[grillen.ogg]]
 
+![[grillen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/grillen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=grillen&language=de)
 
 **Meaning:** to barbecue

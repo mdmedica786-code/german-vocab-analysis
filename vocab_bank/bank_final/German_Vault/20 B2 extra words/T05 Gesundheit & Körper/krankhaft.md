@@ -20,6 +20,8 @@ status: "new"
 
 ![[krankhaft.ogg]]
 
+![[krankhaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/krankhaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=krankhaft&language=de)
 
 **Meaning:** pathological; morbid

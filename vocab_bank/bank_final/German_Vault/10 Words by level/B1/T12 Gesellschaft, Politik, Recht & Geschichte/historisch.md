@@ -22,6 +22,8 @@ status: "new"
 
 ![[historisch.ogg]]
 
+![[historisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/historisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=historisch&language=de)
 
 **Meaning:** historical

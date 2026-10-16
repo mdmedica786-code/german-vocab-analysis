@@ -22,6 +22,8 @@ status: "new"
 
 ![[tolerieren.ogg]]
 
+![[tolerieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/tolerieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tolerieren&language=de)
 
 **Meaning:** to tolerate

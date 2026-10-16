@@ -20,6 +20,8 @@ status: "new"
 
 ![[verstorben.ogg]]
 
+![[verstorben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verstorben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verstorben&language=de)
 
 **Meaning:** deceased

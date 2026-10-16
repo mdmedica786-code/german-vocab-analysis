@@ -22,6 +22,8 @@ status: "new"
 
 ![[befragen.ogg]]
 
+![[befragen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/befragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=befragen&language=de)
 
 **Meaning:** to question

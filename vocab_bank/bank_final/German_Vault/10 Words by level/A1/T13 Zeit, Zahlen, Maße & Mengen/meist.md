@@ -22,6 +22,8 @@ status: "new"
 
 ![[meist.ogg]]
 
+![[meist.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/meist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=meist&language=de)
 
 **Meaning:** mostly; most of the time

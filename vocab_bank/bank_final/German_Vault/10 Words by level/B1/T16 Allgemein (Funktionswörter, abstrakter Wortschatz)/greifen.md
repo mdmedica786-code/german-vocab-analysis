@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # greifen
 
+![[greifen.png]]
+
 ![[greifen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/greifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=greifen&language=de)

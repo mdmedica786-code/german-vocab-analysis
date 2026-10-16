@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # überrascht
 
+![[überrascht.jpg]]
+
 ![[überrascht.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberrascht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberrascht&language=de)

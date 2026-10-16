@@ -20,6 +20,8 @@ status: "new"
 
 ![[revolutionär.ogg]]
 
+![[revolutionär.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/revolution%C3%A4r/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=revolution%C3%A4r&language=de)
 
 **Meaning:** revolutionary

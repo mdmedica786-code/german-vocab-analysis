@@ -22,6 +22,8 @@ status: "new"
 
 ![[twittern.ogg]]
 
+![[twittern.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/twittern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=twittern&language=de)
 
 **Meaning:** to tweet

@@ -22,6 +22,8 @@ status: "new"
 
 ![[gutschreiben.ogg]]
 
+![[gutschreiben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gutschreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gutschreiben&language=de)
 
 **Meaning:** to credit

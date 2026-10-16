@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # tippen
 
+![[tippen.jpg]]
+
 ![[tippen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/tippen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tippen&language=de)

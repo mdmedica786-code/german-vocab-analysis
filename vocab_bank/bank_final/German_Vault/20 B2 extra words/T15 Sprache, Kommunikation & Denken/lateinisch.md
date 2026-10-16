@@ -20,6 +20,8 @@ status: "new"
 
 ![[lateinisch.ogg]]
 
+![[lateinisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/lateinisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lateinisch&language=de)
 
 **Meaning:** Latin

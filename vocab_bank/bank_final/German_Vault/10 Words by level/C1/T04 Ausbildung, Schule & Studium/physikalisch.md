@@ -20,6 +20,8 @@ status: "new"
 
 ![[physikalisch.ogg]]
 
+![[physikalisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/physikalisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=physikalisch&language=de)
 
 **Meaning:** physical (physics)

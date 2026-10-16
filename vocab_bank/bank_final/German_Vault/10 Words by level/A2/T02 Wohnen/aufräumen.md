@@ -23,6 +23,8 @@ status: "new"
 
 ![[aufräumen.ogg]]
 
+![[aufräumen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/aufr%C3%A4umen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufr%C3%A4umen&language=de)
 
 **Meaning:** to clean up

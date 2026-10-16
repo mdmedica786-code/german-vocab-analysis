@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # produzieren
 
+![[produzieren.jpg]]
+
 ![[produzieren.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/produzieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=produzieren&language=de)

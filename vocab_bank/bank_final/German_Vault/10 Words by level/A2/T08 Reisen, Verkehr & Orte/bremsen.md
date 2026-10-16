@@ -23,6 +23,8 @@ status: "new"
 
 ![[bremsen.ogg]]
 
+![[bremsen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bremsen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bremsen&language=de)
 
 **Meaning:** to brake

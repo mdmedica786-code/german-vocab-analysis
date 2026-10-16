@@ -20,6 +20,8 @@ status: "new"
 
 ![[stabil.ogg]]
 
+![[stabil.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/stabil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stabil&language=de)
 
 **Meaning:** stable; sturdy

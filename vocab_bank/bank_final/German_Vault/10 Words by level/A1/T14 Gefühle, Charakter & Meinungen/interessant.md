@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # interessant
 
+![[interessant.jpg]]
+
 ![[interessant.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/interessant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=interessant&language=de)

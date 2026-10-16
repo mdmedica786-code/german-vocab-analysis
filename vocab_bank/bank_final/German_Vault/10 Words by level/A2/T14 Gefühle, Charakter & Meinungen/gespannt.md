@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # gespannt
 
+![[gespannt.jpg]]
+
 ![[gespannt.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/gespannt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gespannt&language=de)

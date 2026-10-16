@@ -21,6 +21,8 @@ status: "new"
 
 ![[misslingen.ogg]]
 
+![[misslingen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/misslingen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=misslingen&language=de)
 
 **Meaning:** to fail; to go wrong

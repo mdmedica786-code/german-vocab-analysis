@@ -22,6 +22,8 @@ status: "new"
 
 ![[witzig.ogg]]
 
+![[witzig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/witzig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=witzig&language=de)
 
 **Meaning:** funny

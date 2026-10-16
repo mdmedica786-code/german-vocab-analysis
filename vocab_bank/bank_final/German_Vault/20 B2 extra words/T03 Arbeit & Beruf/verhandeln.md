@@ -21,6 +21,8 @@ status: "new"
 
 ![[verhandeln.ogg]]
 
+![[verhandeln.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verhandeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verhandeln&language=de)
 
 **Meaning:** to negotiate; to hear (a case)

@@ -20,6 +20,8 @@ status: "new"
 
 ![[maßgebend.ogg]]
 
+![[maßgebend.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ma%C3%9Fgebend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ma%C3%9Fgebend&language=de)
 
 **Meaning:** authoritative; decisive; relevant

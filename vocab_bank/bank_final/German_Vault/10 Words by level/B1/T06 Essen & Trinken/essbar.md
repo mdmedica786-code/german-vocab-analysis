@@ -21,6 +21,8 @@ status: "new"
 
 ![[essbar.ogg]]
 
+![[essbar.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/essbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=essbar&language=de)
 
 **Meaning:** edible

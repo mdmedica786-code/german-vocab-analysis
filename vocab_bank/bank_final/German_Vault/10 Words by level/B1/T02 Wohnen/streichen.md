@@ -22,6 +22,8 @@ status: "new"
 
 ![[streichen.ogg]]
 
+![[streichen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/streichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=streichen&language=de)
 
 **Meaning:** to paint; to cross out; to cancel

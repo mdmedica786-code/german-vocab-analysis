@@ -22,6 +22,8 @@ status: "new"
 
 ![[behindern.ogg]]
 
+![[behindern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/behindern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=behindern&language=de)
 
 **Meaning:** to hinder; to obstruct

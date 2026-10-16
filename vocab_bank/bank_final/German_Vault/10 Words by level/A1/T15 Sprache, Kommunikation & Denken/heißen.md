@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # heißen
 
+![[heißen.png]]
+
 ![[heißen (17).wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/hei%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hei%C3%9Fen&language=de)

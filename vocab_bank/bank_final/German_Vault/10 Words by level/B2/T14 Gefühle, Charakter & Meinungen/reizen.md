@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # reizen
 
+![[reizen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/reizen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reizen&language=de)
 
 **Meaning:** to irritate; to attract

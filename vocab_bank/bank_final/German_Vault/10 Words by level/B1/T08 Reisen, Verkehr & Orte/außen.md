@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # außen
 
+![[außen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/au%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=au%C3%9Fen&language=de)
 
 **Meaning:** outside

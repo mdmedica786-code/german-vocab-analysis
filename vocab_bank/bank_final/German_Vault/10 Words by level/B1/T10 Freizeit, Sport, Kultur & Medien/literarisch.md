@@ -21,6 +21,8 @@ status: "new"
 
 ![[literarisch.ogg]]
 
+![[literarisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/literarisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=literarisch&language=de)
 
 **Meaning:** literary

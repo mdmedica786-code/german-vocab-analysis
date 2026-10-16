@@ -20,6 +20,8 @@ status: "new"
 
 ![[hilfreich.ogg]]
 
+![[hilfreich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/hilfreich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hilfreich&language=de)
 
 **Meaning:** helpful

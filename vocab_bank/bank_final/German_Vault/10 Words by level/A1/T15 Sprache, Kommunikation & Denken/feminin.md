@@ -21,6 +21,8 @@ status: "new"
 
 ![[feminin.ogg]]
 
+![[feminin.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/feminin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=feminin&language=de)
 
 **Meaning:** feminine

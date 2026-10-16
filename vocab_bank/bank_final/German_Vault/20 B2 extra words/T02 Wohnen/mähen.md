@@ -21,6 +21,8 @@ status: "new"
 
 ![[mähen.ogg]]
 
+![[mähen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/m%C3%A4hen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=m%C3%A4hen&language=de)
 
 **Meaning:** to mow; to cut (grass)

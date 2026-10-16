@@ -20,6 +20,8 @@ status: "new"
 
 ![[schmerzhaft.ogg]]
 
+![[schmerzhaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/schmerzhaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schmerzhaft&language=de)
 
 **Meaning:** painful

@@ -23,6 +23,8 @@ status: "new"
 
 ![[streiken.ogg]]
 
+![[streiken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/streiken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=streiken&language=de)
 
 **Meaning:** to go on strike

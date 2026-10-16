@@ -20,6 +20,8 @@ status: "new"
 
 ![[wahrnehmbar.ogg]]
 
+![[wahrnehmbar.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/wahrnehmbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wahrnehmbar&language=de)
 
 **Meaning:** perceptible; noticeable

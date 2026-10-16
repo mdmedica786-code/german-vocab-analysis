@@ -23,6 +23,8 @@ status: "new"
 
 ![[Lyriker.ogg]]
 
+![[Lyriker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Lyriker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lyriker&language=de)
 
 **Meaning:** poet; lyric poet (male)

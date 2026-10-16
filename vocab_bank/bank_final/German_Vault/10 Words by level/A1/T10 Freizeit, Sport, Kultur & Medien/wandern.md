@@ -23,6 +23,8 @@ status: "new"
 
 ![[wandern.ogg]]
 
+![[wandern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/wandern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wandern&language=de)
 
 **Meaning:** to hike

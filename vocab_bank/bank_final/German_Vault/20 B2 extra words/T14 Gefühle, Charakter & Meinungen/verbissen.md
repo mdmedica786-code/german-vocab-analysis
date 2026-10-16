@@ -20,6 +20,8 @@ status: "new"
 
 ![[verbissen.ogg]]
 
+![[verbissen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verbissen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbissen&language=de)
 
 **Meaning:** dogged; grim

@@ -22,6 +22,8 @@ status: "new"
 
 ![[googeln.ogg]]
 
+![[googeln.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/googeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=googeln&language=de)
 
 **Meaning:** to google

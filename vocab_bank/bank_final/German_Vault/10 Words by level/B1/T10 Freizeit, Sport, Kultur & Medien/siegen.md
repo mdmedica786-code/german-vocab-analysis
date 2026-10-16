@@ -22,6 +22,8 @@ status: "new"
 
 ![[siegen.ogg]]
 
+![[siegen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/siegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=siegen&language=de)
 
 **Meaning:** to win; to be victorious

@@ -20,6 +20,8 @@ status: "new"
 
 ![[binnen.ogg]]
 
+![[binnen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/binnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=binnen&language=de)
 
 **Meaning:** within

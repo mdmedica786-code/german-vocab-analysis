@@ -21,6 +21,8 @@ status: "new"
 
 ![[nebenbei.ogg]]
 
+![[nebenbei.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/nebenbei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nebenbei&language=de)
 
 **Meaning:** on the side; incidentally

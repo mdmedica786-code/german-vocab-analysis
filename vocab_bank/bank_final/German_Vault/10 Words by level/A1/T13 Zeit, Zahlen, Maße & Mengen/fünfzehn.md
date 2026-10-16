@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # fünfzehn
 
+![[fünfzehn.png]]
+
 ![[fünfzehn.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/f%C3%BCnfzehn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=f%C3%BCnfzehn&language=de)

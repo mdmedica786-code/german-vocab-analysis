@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # merken
 
+![[merken.jpg]]
+
 ![[merken.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/merken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=merken&language=de)

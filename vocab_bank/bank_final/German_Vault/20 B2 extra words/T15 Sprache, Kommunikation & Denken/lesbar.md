@@ -20,6 +20,8 @@ status: "new"
 
 ![[lesbar.ogg]]
 
+![[lesbar.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/lesbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lesbar&language=de)
 
 **Meaning:** legible; readable

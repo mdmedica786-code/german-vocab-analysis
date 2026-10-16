@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # senken
 
+![[senken.png]]
+
 ![[senken.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/senken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=senken&language=de)

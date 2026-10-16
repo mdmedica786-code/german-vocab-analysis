@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # ich
 
+![[ich.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ich&language=de)
 
 **Meaning:** I

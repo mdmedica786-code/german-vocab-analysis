@@ -22,6 +22,8 @@ status: "new"
 
 ![[fair.ogg]]
 
+![[fair.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/fair/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fair&language=de)
 
 **Meaning:** fair

@@ -20,6 +20,8 @@ status: "new"
 
 ![[systematisch.ogg]]
 
+![[systematisch.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/systematisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=systematisch&language=de)
 
 **Meaning:** systematic

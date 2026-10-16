@@ -25,6 +25,8 @@ status: "new"
 
 ![[Briefträger.ogg]]
 
+![[Briefträger.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Brieftr%C3%A4ger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brieftr%C3%A4ger&language=de)
 
 **Meaning:** postal carrier (m)

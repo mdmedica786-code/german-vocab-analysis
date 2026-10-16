@@ -21,6 +21,8 @@ status: "new"
 
 ![[uninteressant.ogg]]
 
+![[uninteressant.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/uninteressant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=uninteressant&language=de)
 
 **Meaning:** uninteresting

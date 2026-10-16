@@ -21,6 +21,8 @@ status: "new"
 
 ![[aufsteigen.ogg]]
 
+![[aufsteigen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/aufsteigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufsteigen&language=de)
 
 **Meaning:** to rise; to be promoted

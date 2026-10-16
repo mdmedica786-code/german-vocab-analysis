@@ -20,6 +20,8 @@ status: "new"
 
 ![[seelisch.ogg]]
 
+![[seelisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/seelisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=seelisch&language=de)
 
 **Meaning:** mental; emotional

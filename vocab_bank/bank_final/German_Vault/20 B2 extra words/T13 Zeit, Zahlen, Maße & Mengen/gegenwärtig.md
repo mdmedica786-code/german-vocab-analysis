@@ -20,6 +20,8 @@ status: "new"
 
 ![[gegenwärtig.ogg]]
 
+![[gegenwärtig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gegenw%C3%A4rtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gegenw%C3%A4rtig&language=de)
 
 **Meaning:** present; current

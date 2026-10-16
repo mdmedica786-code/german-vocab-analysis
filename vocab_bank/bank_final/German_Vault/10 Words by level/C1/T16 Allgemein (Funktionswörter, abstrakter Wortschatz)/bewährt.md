@@ -20,6 +20,8 @@ status: "new"
 
 ![[bewährt.ogg]]
 
+![[bewährt.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bew%C3%A4hrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bew%C3%A4hrt&language=de)
 
 **Meaning:** proven; tried and tested

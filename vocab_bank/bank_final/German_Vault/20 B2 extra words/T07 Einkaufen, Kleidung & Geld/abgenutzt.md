@@ -20,6 +20,8 @@ status: "new"
 
 ![[abgenutzt.ogg]]
 
+![[abgenutzt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/abgenutzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abgenutzt&language=de)
 
 **Meaning:** worn; worn out

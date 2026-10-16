@@ -21,6 +21,8 @@ status: "new"
 
 ![[bedrohen.ogg]]
 
+![[bedrohen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bedrohen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bedrohen&language=de)
 
 **Meaning:** to threaten

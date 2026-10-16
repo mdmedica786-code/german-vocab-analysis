@@ -21,6 +21,8 @@ status: "new"
 
 ![[kichern.ogg]]
 
+![[kichern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kichern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kichern&language=de)
 
 **Meaning:** to giggle; to titter

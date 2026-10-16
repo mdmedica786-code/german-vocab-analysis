@@ -21,6 +21,8 @@ status: "new"
 
 ![[tödlich.ogg]]
 
+![[tödlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/t%C3%B6dlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=t%C3%B6dlich&language=de)
 
 **Meaning:** deadly; fatal

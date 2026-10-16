@@ -23,6 +23,8 @@ status: "new"
 
 ![[verschmutzen.ogg]]
 
+![[verschmutzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verschmutzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verschmutzen&language=de)
 
 **Meaning:** to pollute

@@ -23,6 +23,8 @@ status: "new"
 
 ![[anklicken.ogg]]
 
+![[anklicken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/anklicken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anklicken&language=de)
 
 **Meaning:** to click

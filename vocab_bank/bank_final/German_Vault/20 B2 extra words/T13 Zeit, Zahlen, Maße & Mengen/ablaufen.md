@@ -21,6 +21,8 @@ status: "new"
 
 ![[ablaufen.ogg]]
 
+![[ablaufen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/ablaufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ablaufen&language=de)
 
 **Meaning:** to expire; to run its course

@@ -26,6 +26,8 @@ status: "new"
 
 ![[Pöstler.ogg]]
 
+![[Pöstler.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/P%C3%B6stler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=P%C3%B6stler&language=de)
 
 **Meaning:** postman (Swiss)

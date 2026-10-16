@@ -21,6 +21,8 @@ status: "new"
 
 ![[recycelbar.ogg]]
 
+![[recycelbar.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/recycelbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=recycelbar&language=de)
 
 **Meaning:** recyclable

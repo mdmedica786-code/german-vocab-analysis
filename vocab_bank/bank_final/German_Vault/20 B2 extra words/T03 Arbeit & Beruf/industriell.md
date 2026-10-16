@@ -20,6 +20,8 @@ status: "new"
 
 ![[industriell.ogg]]
 
+![[industriell.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/industriell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=industriell&language=de)
 
 **Meaning:** industrial

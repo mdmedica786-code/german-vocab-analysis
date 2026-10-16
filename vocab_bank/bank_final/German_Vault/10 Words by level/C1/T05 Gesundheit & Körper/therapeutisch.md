@@ -20,6 +20,8 @@ status: "new"
 
 ![[therapeutisch.ogg]]
 
+![[therapeutisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/therapeutisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=therapeutisch&language=de)
 
 **Meaning:** therapeutic

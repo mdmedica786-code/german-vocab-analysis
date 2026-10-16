@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # glaubwürdig
 
+![[glaubwürdig.jpg]]
+
 ![[glaubwürdig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/glaubw%C3%BCrdig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=glaubw%C3%BCrdig&language=de)

@@ -21,6 +21,8 @@ status: "new"
 
 ![[ängstlich.ogg]]
 
+![[ängstlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%A4ngstlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%A4ngstlich&language=de)
 
 **Meaning:** anxious; timid

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # glücklich
 
+![[glücklich.jpg]]
+
 ![[glücklich.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/gl%C3%BCcklich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gl%C3%BCcklich&language=de)

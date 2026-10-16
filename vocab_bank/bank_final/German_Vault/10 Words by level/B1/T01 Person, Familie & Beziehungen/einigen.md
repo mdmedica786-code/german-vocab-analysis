@@ -23,6 +23,8 @@ status: "new"
 
 ![[einigen.ogg]]
 
+![[einigen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/einigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einigen&language=de)
 
 **Meaning:** to agree

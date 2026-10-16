@@ -22,6 +22,8 @@ status: "new"
 
 ![[bereuen.ogg]]
 
+![[bereuen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bereuen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bereuen&language=de)
 
 **Meaning:** to regret

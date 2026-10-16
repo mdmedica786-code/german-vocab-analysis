@@ -21,6 +21,8 @@ status: "new"
 
 ![[glücken.ogg]]
 
+![[glücken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/gl%C3%BCcken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gl%C3%BCcken&language=de)
 
 **Meaning:** to succeed; to work out

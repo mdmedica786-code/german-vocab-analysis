@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # erfahren
 
+![[erfahren.jpg]]
+
 ![[erfahren.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/erfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erfahren&language=de)

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # werden
 
+![[werden.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/werden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=werden&language=de)
 
 **Meaning:** to become; will (future auxiliary)

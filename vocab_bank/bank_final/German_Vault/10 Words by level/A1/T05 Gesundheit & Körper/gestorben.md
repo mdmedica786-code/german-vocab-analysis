@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # gestorben
 
+![[gestorben.jpg]]
+
 ![[gestorben.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/gestorben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gestorben&language=de)

@@ -21,6 +21,8 @@ status: "new"
 
 ![[verbreitern.ogg]]
 
+![[verbreitern.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verbreitern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbreitern&language=de)
 
 **Meaning:** to widen; to broaden

@@ -21,6 +21,8 @@ status: "new"
 
 ![[verdecken.ogg]]
 
+![[verdecken.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verdecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verdecken&language=de)
 
 **Meaning:** to cover; to hide; to conceal

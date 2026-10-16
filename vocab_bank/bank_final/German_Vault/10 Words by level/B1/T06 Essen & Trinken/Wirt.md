@@ -24,6 +24,8 @@ status: "new"
 
 ![[Wirt.ogg]]
 
+![[Wirt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wirt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wirt&language=de)
 
 **Meaning:** landlord (pub, restaurant)

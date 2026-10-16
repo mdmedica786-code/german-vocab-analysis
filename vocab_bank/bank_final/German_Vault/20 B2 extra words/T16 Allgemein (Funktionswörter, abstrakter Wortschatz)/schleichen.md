@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # schleichen
 
+![[schleichen.jpg]]
+
 ![[schleichen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/schleichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schleichen&language=de)

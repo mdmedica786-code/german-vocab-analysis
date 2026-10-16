@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # traurig
 
+![[traurig.jpg]]
+
 ![[traurig.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/traurig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=traurig&language=de)

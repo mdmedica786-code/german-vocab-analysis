@@ -21,6 +21,8 @@ status: "new"
 
 ![[tratschen.ogg]]
 
+![[tratschen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/tratschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tratschen&language=de)
 
 **Meaning:** to gossip

@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # vergangen
 
+![[vergangen.jpg]]
+
 ![[vergangen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/vergangen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vergangen&language=de)

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # raten
 
+![[raten.jpg]]
+
 ![[raten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/raten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=raten&language=de)

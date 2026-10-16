@@ -21,6 +21,8 @@ status: "new"
 
 ![[verfassen.ogg]]
 
+![[verfassen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verfassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verfassen&language=de)
 
 **Meaning:** to write; to compose; to draft

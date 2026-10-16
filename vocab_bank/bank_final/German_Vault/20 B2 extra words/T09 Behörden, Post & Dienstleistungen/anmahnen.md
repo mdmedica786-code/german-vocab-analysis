@@ -21,6 +21,8 @@ status: "new"
 
 ![[anmahnen.ogg]]
 
+![[anmahnen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/anmahnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anmahnen&language=de)
 
 **Meaning:** to demand; to send a reminder about

@@ -20,6 +20,8 @@ status: "new"
 
 ![[vorbehalten.ogg]]
 
+![[vorbehalten.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vorbehalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorbehalten&language=de)
 
 **Meaning:** reserved

@@ -21,6 +21,8 @@ status: "new"
 
 ![[aussagen.ogg]]
 
+![[aussagen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/aussagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aussagen&language=de)
 
 **Meaning:** to testify; to state

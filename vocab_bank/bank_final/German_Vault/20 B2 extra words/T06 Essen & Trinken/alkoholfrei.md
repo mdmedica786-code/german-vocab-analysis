@@ -20,6 +20,8 @@ status: "new"
 
 ![[alkoholfrei.ogg]]
 
+![[alkoholfrei.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/alkoholfrei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=alkoholfrei&language=de)
 
 **Meaning:** alcohol-free; non-alcoholic

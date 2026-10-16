@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # basteln
 
+![[basteln.jpg]]
+
 ![[basteln.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/basteln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=basteln&language=de)

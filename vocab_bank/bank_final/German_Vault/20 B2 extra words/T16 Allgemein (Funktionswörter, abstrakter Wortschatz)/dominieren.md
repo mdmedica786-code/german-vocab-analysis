@@ -21,6 +21,8 @@ status: "new"
 
 ![[dominieren.ogg]]
 
+![[dominieren.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/dominieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dominieren&language=de)
 
 **Meaning:** to dominate; to prevail

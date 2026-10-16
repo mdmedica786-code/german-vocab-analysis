@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # blind
 
+![[blind.jpg]]
+
 ![[blind.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/blind/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=blind&language=de)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[grillieren.ogg]]
 
+![[grillieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/grillieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=grillieren&language=de)
 
 **Meaning:** to grill (Swiss)

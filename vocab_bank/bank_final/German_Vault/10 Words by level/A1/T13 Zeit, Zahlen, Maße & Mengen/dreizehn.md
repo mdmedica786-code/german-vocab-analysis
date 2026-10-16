@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # dreizehn
 
+![[dreizehn.png]]
+
 ![[dreizehn.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/dreizehn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dreizehn&language=de)

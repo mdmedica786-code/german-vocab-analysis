@@ -21,6 +21,8 @@ status: "new"
 
 ![[emotional.ogg]]
 
+![[emotional.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/emotional/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=emotional&language=de)
 
 **Meaning:** emotional

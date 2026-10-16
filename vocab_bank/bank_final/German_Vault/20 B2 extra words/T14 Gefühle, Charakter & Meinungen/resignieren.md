@@ -21,6 +21,8 @@ status: "new"
 
 ![[resignieren.ogg]]
 
+![[resignieren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/resignieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=resignieren&language=de)
 
 **Meaning:** to give up; to resign oneself

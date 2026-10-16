@@ -21,6 +21,8 @@ status: "new"
 
 ![[kommunikativ.ogg]]
 
+![[kommunikativ.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kommunikativ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kommunikativ&language=de)
 
 **Meaning:** communicative

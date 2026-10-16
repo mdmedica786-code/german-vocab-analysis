@@ -22,6 +22,8 @@ status: "new"
 
 ![[entspannend.ogg]]
 
+![[entspannend.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/entspannend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entspannend&language=de)
 
 **Meaning:** relaxing

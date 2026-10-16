@@ -22,6 +22,8 @@ status: "new"
 
 ![[jährlich.ogg]]
 
+![[jährlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/j%C3%A4hrlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=j%C3%A4hrlich&language=de)
 
 **Meaning:** yearly

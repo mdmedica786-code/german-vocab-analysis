@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # wem
 
+![[wem.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/wem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wem&language=de)
 
 **Meaning:** whom, who

@@ -21,6 +21,8 @@ status: "new"
 
 ![[einlösen.ogg]]
 
+![[einlösen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/einl%C3%B6sen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einl%C3%B6sen&language=de)
 
 **Meaning:** to cash (in); to redeem; to keep (a promise)

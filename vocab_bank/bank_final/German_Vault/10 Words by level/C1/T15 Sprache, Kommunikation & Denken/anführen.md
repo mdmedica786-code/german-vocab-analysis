@@ -21,6 +21,8 @@ status: "new"
 
 ![[anführen.ogg]]
 
+![[anführen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/anf%C3%BChren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anf%C3%BChren&language=de)
 
 **Meaning:** to cite; to lead

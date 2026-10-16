@@ -20,6 +20,8 @@ status: "new"
 
 ![[räumlich.ogg]]
 
+![[räumlich.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/r%C3%A4umlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=r%C3%A4umlich&language=de)
 
 **Meaning:** spatial; of space

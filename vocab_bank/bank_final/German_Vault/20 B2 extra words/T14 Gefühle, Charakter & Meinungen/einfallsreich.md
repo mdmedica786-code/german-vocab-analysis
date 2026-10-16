@@ -20,6 +20,8 @@ status: "new"
 
 ![[einfallsreich.ogg]]
 
+![[einfallsreich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/einfallsreich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einfallsreich&language=de)
 
 **Meaning:** inventive; imaginative

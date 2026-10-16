@@ -20,6 +20,8 @@ status: "new"
 
 ![[geistig.ogg]]
 
+![[geistig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/geistig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geistig&language=de)
 
 **Meaning:** mental; intellectual

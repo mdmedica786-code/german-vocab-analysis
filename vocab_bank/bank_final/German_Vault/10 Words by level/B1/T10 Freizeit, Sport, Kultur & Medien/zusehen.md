@@ -22,6 +22,8 @@ status: "new"
 
 ![[zusehen.ogg]]
 
+![[zusehen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/zusehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusehen&language=de)
 
 **Meaning:** to watch

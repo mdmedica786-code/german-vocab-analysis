@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # acht
 
+![[acht.png]]
+
 ![[acht.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/acht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=acht&language=de)

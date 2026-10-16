@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # retten
 
+![[retten.jpg]]
+
 ![[retten.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/retten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=retten&language=de)

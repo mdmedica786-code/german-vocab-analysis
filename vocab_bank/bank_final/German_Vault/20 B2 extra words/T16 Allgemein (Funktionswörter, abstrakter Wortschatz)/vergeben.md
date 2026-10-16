@@ -21,6 +21,8 @@ status: "new"
 
 ![[vergeben.ogg]]
 
+![[vergeben.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/vergeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vergeben&language=de)
 
 **Meaning:** to award; to assign; to forgive

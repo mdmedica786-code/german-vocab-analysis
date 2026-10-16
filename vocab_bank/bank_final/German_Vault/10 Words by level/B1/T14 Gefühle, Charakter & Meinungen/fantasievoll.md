@@ -21,6 +21,8 @@ status: "new"
 
 ![[fantasievoll.ogg]]
 
+![[fantasievoll.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/fantasievoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fantasievoll&language=de)
 
 **Meaning:** imaginative

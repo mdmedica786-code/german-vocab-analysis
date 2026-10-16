@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # ärgern
 
+![[ärgern.jpg]]
+
 ![[ärgern.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/%C3%A4rgern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%A4rgern&language=de)

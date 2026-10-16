@@ -22,6 +22,8 @@ status: "new"
 
 ![[dolmetschen.ogg]]
 
+![[dolmetschen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/dolmetschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dolmetschen&language=de)
 
 **Meaning:** to interpret

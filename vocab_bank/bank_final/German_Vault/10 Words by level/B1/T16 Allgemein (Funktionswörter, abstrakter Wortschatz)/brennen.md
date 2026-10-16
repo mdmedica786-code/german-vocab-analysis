@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # brennen
 
+![[brennen.jpg]]
+
 ![[brennen.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/brennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=brennen&language=de)

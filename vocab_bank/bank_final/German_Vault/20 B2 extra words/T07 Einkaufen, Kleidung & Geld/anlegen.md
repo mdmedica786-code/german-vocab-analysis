@@ -21,6 +21,8 @@ status: "new"
 
 ![[anlegen.ogg]]
 
+![[anlegen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/anlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anlegen&language=de)
 
 **Meaning:** to invest; to create; to put on

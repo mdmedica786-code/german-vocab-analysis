@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # alles
 
+![[alles.jpg]]
+
 ![[alles.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/alles/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=alles&language=de)

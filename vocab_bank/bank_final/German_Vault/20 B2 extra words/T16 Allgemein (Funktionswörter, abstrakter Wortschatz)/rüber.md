@@ -20,6 +20,8 @@ status: "new"
 
 ![[rüber.ogg]]
 
+![[rüber.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/r%C3%BCber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=r%C3%BCber&language=de)
 
 **Meaning:** over; across (colloquial for hinüber)

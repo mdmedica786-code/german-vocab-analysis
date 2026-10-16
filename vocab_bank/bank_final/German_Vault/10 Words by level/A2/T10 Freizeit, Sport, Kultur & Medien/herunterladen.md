@@ -23,6 +23,8 @@ status: "new"
 
 ![[herunterladen.ogg]]
 
+![[herunterladen.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/herunterladen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herunterladen&language=de)
 
 **Meaning:** to download

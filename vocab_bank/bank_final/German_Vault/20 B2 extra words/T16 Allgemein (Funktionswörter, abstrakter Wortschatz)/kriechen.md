@@ -21,6 +21,8 @@ status: "new"
 
 ![[kriechen.ogg]]
 
+![[kriechen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/kriechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kriechen&language=de)
 
 **Meaning:** to crawl; to creep

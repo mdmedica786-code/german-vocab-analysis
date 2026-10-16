@@ -21,6 +21,8 @@ status: "new"
 
 ![[widmen.ogg]]
 
+![[widmen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/widmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=widmen&language=de)
 
 **Meaning:** to devote oneself; to dedicate

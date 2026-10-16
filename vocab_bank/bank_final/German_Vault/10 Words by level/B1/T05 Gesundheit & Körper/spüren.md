@@ -23,6 +23,8 @@ status: "new"
 
 ![[spüren.ogg]]
 
+![[spüren.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/sp%C3%BCren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sp%C3%BCren&language=de)
 
 **Meaning:** to sense

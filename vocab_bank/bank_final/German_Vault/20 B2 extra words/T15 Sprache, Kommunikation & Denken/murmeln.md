@@ -21,6 +21,8 @@ status: "new"
 
 ![[murmeln.ogg]]
 
+![[murmeln.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/murmeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=murmeln&language=de)
 
 **Meaning:** to mumble; to murmur

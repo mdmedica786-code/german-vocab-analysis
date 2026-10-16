@@ -20,6 +20,8 @@ status: "new"
 
 ![[diesig.ogg]]
 
+![[diesig.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/diesig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=diesig&language=de)
 
 **Meaning:** hazy; misty

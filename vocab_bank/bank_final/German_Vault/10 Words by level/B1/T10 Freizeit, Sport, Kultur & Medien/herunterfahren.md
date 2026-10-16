@@ -22,6 +22,8 @@ status: "new"
 
 ![[herunterfahren.ogg]]
 
+![[herunterfahren.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/herunterfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herunterfahren&language=de)
 
 **Meaning:** to shut down (computer)

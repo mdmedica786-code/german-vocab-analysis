@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # tschüss
 
+![[tschüss.jpg]]
+
 ![[tschüss.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/tsch%C3%BCss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tsch%C3%BCss&language=de)

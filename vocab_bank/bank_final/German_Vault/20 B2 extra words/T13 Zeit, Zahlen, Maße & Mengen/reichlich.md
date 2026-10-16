@@ -20,6 +20,8 @@ status: "new"
 
 ![[reichlich.ogg]]
 
+![[reichlich.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/reichlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reichlich&language=de)
 
 **Meaning:** ample; plentiful

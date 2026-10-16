@@ -21,6 +21,8 @@ status: "new"
 
 ![[entwerfen.ogg]]
 
+![[entwerfen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/entwerfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entwerfen&language=de)
 
 **Meaning:** to design; to draft

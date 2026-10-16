@@ -22,6 +22,8 @@ status: "new"
 
 ![[bellen.ogg]]
 
+![[bellen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/bellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bellen&language=de)
 
 **Meaning:** to bark

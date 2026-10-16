@@ -22,6 +22,8 @@ status: "new"
 
 ![[niesen.ogg]]
 
+![[niesen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/niesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=niesen&language=de)
 
 **Meaning:** to sneeze

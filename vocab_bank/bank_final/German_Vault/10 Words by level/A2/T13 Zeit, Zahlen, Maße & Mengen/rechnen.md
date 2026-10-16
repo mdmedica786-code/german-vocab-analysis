@@ -22,6 +22,8 @@ status: "new"
 
 ![[rechnen.ogg]]
 
+![[rechnen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/rechnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rechnen&language=de)
 
 **Meaning:** to calculate; to count; to expect

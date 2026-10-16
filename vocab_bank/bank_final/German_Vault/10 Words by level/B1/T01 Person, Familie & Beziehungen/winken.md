@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # winken
 
+![[winken.jpg]]
+
 ![[winken.wav]]
 
 [▶️ YouGlish](https://youglish.com/pronounce/winken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=winken&language=de)

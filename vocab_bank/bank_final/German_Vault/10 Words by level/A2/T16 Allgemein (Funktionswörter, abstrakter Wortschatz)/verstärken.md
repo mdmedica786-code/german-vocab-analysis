@@ -22,6 +22,8 @@ status: "new"
 
 ![[verstärken.ogg]]
 
+![[verstärken.png]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/verst%C3%A4rken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verst%C3%A4rken&language=de)
 
 **Meaning:** to reinforce
