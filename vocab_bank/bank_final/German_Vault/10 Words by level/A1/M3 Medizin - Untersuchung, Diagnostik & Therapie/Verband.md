@@ -24,6 +24,8 @@ status: "new"
 
 ![[Verband.wav]]
 
+![[Verband.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Verband/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verband&language=de)
 
 **Meaning:** bandage

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Physiotherapeut.ogg]]
 
+![[Physiotherapeut.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Physiotherapeut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Physiotherapeut&language=de)
 
 **Meaning:** physical therapist (m)

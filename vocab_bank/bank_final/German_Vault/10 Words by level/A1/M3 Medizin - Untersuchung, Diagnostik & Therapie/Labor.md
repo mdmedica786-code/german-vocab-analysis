@@ -24,6 +24,8 @@ status: "new"
 
 ![[Labor.ogg]]
 
+![[Labor.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Labor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Labor&language=de)
 
 **Meaning:** laboratory

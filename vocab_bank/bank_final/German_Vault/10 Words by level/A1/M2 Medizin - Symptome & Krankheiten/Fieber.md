@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fieber.ogg]]
 
+![[Fieber.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fieber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fieber&language=de)
 
 **Meaning:** fever

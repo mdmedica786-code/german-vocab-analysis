@@ -24,6 +24,8 @@ status: "new"
 
 ![[Schlaftablette.wav]]
 
+![[Schlaftablette.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schlaftablette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlaftablette&language=de)
 
 **Meaning:** sleeping pill

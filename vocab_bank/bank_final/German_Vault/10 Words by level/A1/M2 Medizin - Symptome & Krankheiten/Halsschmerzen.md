@@ -24,6 +24,8 @@ status: "new"
 
 ![[Halsschmerzen.ogg]]
 
+![[Halsschmerzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Halsschmerzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Halsschmerzen&language=de)
 
 **Meaning:** sore throat

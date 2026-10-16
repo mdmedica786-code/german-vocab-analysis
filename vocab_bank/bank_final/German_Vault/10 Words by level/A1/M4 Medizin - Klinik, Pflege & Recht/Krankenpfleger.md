@@ -25,6 +25,8 @@ status: "new"
 
 ![[Krankenpfleger.ogg]]
 
+![[Krankenpfleger.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krankenpfleger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankenpfleger&language=de)
 
 **Meaning:** nurse (m)

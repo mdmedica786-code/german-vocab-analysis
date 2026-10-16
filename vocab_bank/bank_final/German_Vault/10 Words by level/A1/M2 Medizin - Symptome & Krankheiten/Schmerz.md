@@ -25,6 +25,8 @@ status: "new"
 
 ![[Schmerz.wav]]
 
+![[Schmerz.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schmerz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schmerz&language=de)
 
 **Meaning:** pain

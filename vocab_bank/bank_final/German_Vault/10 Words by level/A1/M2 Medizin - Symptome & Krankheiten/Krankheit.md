@@ -25,6 +25,8 @@ status: "new"
 
 ![[Krankheit.wav]]
 
+![[Krankheit.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krankheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankheit&language=de)
 
 **Meaning:** illness

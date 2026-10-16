@@ -25,6 +25,8 @@ status: "new"
 
 ![[Wunde.ogg]]
 
+![[Wunde.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wunde&language=de)
 
 **Meaning:** wound

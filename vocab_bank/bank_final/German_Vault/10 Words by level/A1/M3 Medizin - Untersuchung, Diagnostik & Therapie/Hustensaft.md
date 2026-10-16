@@ -24,6 +24,8 @@ status: "new"
 
 ![[Hustensaft.ogg]]
 
+![[Hustensaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Hustensaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hustensaft&language=de)
 
 **Meaning:** cough syrup

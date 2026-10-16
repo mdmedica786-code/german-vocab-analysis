@@ -25,6 +25,8 @@ status: "new"
 
 ![[Spritze.ogg]]
 
+![[Spritze.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Spritze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spritze&language=de)
 
 **Meaning:** injection; syringe

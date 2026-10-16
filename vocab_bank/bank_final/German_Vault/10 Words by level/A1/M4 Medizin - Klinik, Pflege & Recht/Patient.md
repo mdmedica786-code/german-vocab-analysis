@@ -25,6 +25,8 @@ status: "new"
 
 ![[Patient.ogg]]
 
+![[Patient.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Patient/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Patient&language=de)
 
 **Meaning:** patient (m)

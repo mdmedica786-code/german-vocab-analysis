@@ -24,6 +24,8 @@ status: "new"
 
 ![[Therapeut.ogg]]
 
+![[Therapeut.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Therapeut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Therapeut&language=de)
 
 **Meaning:** therapist (m)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Notarzt.ogg]]
 
+![[Notarzt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Notarzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notarzt&language=de)
 
 **Meaning:** emergency doctor (m)

@@ -24,6 +24,8 @@ status: "new"
 
 ![[Physiotherapie.ogg]]
 
+![[Physiotherapie.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Physiotherapie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Physiotherapie&language=de)
 
 **Meaning:** physical therapy

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tablette.ogg]]
 
+![[Tablette.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tablette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tablette&language=de)
 
 **Meaning:** pill

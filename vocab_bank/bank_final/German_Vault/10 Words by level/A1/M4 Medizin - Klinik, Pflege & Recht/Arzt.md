@@ -25,6 +25,8 @@ status: "new"
 
 ![[Arzt.wav]]
 
+![[Arzt.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Arzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arzt&language=de)
 
 **Meaning:** doctor (m)

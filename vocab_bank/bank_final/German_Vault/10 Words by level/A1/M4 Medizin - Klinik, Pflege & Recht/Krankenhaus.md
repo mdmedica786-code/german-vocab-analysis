@@ -25,6 +25,8 @@ status: "new"
 
 ![[Krankenhaus.wav]]
 
+![[Krankenhaus.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Krankenhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankenhaus&language=de)
 
 **Meaning:** hospital

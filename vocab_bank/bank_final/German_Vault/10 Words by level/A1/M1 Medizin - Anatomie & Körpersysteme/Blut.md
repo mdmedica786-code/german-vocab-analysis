@@ -25,6 +25,8 @@ status: "new"
 
 ![[Blut.wav]]
 
+![[Blut.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Blut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blut&language=de)
 
 **Meaning:** blood

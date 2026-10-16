@@ -24,6 +24,8 @@ status: "new"
 
 ![[Rückenschmerzen.ogg]]
 
+![[Rückenschmerzen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCckenschmerzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCckenschmerzen&language=de)
 
 **Meaning:** back pain

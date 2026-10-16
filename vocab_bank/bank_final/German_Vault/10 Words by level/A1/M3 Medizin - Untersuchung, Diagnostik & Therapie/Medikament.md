@@ -25,6 +25,8 @@ status: "new"
 
 ![[Medikament.wav]]
 
+![[Medikament.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Medikament/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medikament&language=de)
 
 **Meaning:** medicine
