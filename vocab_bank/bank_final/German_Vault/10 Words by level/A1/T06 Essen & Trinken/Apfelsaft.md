@@ -24,6 +24,8 @@ status: "new"
 
 ![[Apfelsaft.ogg]]
 
+![[Apfelsaft.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Apfelsaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Apfelsaft&language=de)
 
 **Meaning:** apple juice

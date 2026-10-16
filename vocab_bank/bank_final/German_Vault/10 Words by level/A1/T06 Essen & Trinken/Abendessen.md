@@ -24,6 +24,8 @@ status: "new"
 
 ![[Abendessen.ogg]]
 
+![[Abendessen.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Abendessen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abendessen&language=de)
 
 **Meaning:** dinner; supper

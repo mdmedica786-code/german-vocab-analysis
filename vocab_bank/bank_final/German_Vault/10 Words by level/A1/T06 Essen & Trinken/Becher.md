@@ -24,6 +24,8 @@ status: "new"
 
 ![[Becher.ogg]]
 
+![[Becher.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Becher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Becher&language=de)
 
 **Meaning:** mug; cup; tub

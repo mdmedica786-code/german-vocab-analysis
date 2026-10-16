@@ -25,6 +25,8 @@ status: "new"
 
 ![[Apfel.wav]]
 
+![[Apfel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Apfel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Apfel&language=de)
 
 **Meaning:** apple

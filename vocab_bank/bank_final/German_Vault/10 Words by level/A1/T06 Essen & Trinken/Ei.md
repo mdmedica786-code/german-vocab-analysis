@@ -25,6 +25,8 @@ status: "new"
 
 ![[Ei.wav]]
 
+![[Ei.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Ei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ei&language=de)
 
 **Meaning:** egg

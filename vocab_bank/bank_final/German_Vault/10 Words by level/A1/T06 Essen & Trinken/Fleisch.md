@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fleisch.wav]]
 
+![[Fleisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fleisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fleisch&language=de)
 
 **Meaning:** meat

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Banane.wav]]
 
+![[Banane.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Banane/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Banane&language=de)
 
 **Meaning:** banana

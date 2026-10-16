@@ -25,6 +25,8 @@ status: "new"
 
 ![[Birne.ogg]]
 
+![[Birne.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Birne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Birne&language=de)
 
 **Meaning:** pear

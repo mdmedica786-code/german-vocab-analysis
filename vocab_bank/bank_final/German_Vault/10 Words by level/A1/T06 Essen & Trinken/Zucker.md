@@ -25,6 +25,8 @@ status: "new"
 
 ![[Zucker.ogg]]
 
+![[Zucker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Zucker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zucker&language=de)
 
 **Meaning:** sugar

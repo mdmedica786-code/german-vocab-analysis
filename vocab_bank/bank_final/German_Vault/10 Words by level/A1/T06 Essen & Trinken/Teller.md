@@ -25,6 +25,8 @@ status: "new"
 
 ![[Teller.wav]]
 
+![[Teller.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Teller/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teller&language=de)
 
 **Meaning:** plate

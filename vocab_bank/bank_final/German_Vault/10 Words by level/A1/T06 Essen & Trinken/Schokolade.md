@@ -25,6 +25,8 @@ status: "new"
 
 ![[Schokolade.wav]]
 
+![[Schokolade.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Schokolade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schokolade&language=de)
 
 **Meaning:** chocolate

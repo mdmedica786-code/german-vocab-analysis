@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gemüse.ogg]]
 
+![[Gemüse.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gem%C3%BCse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gem%C3%BCse&language=de)
 
 **Meaning:** vegetable

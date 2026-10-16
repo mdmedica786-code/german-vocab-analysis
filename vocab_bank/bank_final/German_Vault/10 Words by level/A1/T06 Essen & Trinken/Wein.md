@@ -25,6 +25,8 @@ status: "new"
 
 ![[Wein.wav]]
 
+![[Wein.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wein&language=de)
 
 **Meaning:** wine

@@ -25,6 +25,8 @@ status: "new"
 
 ![[Glas.wav]]
 
+![[Glas.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Glas/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Glas&language=de)
 
 **Meaning:** glass

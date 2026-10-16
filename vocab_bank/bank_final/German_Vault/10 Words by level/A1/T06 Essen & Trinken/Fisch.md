@@ -25,6 +25,8 @@ status: "new"
 
 ![[Fisch.wav]]
 
+![[Fisch.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Fisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fisch&language=de)
 
 **Meaning:** fish

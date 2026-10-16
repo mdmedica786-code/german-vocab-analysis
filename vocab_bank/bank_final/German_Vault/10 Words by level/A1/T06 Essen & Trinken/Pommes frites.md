@@ -25,6 +25,8 @@ status: "new"
 
 ![[Pommes frites.wav]]
 
+![[Pommes frites.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Pommes%20frites/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pommes%20frites&language=de)
 
 **Meaning:** chips

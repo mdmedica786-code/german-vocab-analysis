@@ -25,6 +25,8 @@ status: "new"
 
 ![[Wurst.wav]]
 
+![[Wurst.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Wurst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wurst&language=de)
 
 **Meaning:** sausage

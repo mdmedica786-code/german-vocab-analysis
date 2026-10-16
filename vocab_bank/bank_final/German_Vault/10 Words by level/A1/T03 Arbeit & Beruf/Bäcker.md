@@ -25,6 +25,8 @@ status: "new"
 
 ![[Bäcker.wav]]
 
+![[Bäcker.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/B%C3%A4cker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%A4cker&language=de)
 
 **Meaning:** baker

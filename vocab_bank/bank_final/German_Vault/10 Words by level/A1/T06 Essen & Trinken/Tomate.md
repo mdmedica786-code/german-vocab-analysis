@@ -25,6 +25,8 @@ status: "new"
 
 ![[Tomate.wav]]
 
+![[Tomate.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Tomate/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tomate&language=de)
 
 **Meaning:** tomato

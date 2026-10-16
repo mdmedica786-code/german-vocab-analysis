@@ -25,6 +25,8 @@ status: "new"
 
 ![[Eis.wav]]
 
+![[Eis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Eis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eis&language=de)
 
 **Meaning:** ice cream; ice

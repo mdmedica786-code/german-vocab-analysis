@@ -25,6 +25,8 @@ status: "new"
 
 ![[Reis.ogg]]
 
+![[Reis.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Reis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reis&language=de)
 
 **Meaning:** rice

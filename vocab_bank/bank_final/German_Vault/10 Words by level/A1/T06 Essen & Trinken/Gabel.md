@@ -25,6 +25,8 @@ status: "new"
 
 ![[Gabel.wav]]
 
+![[Gabel.jpg]]
+
 [▶️ YouGlish](https://youglish.com/pronounce/Gabel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gabel&language=de)
 
 **Meaning:** fork
