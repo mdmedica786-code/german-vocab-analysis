@@ -1,5 +1,7 @@
 # START HERE
 
+**Just want the files to download? Take the 3 zip files in `DOWNLOAD_THESE/`:** `1_Words_to_learn.zip` (the words, in learning order), `2_Obsidian_Vault.zip`, `3_Anki_JSON_for_AI.zip`. Everything below is the detailed version.
+
 Your vocabulary is in the folder **WORD_LISTS**. Open `WORD_LISTS/README.md` first (it is short).
 
 | I want to ... | Open |
