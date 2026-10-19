@@ -58,6 +58,7 @@ def main():
     bl = WL / "by_level"
     words = [
         ("README_START_HERE.txt", README_WORDS.encode("utf-8")),
+        ("ORDER_FOR_ME_AND_MY_AGENT.md", OUT / "ORDER_FOR_ME_AND_MY_AGENT.md"),
         ("1_B1_exam_Dec2026/A1.csv", bl / "A1.csv"),
         ("1_B1_exam_Dec2026/A2.csv", bl / "A2.csv"),
         ("1_B1_exam_Dec2026/B1.csv", bl / "B1.csv"),
